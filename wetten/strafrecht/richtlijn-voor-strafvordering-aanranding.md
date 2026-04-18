@@ -1,35 +1,13 @@
 ---
 title: "Richtlijn voor strafvordering aanranding"
 identifier: "BWBR0052526"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-04-15"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052526"
-soort: "beleidsregel"
-stam_id: "17838043"
-version_id: "31529022"
-internal_id: "C45025521"
-label_id: "17735054"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052526/2026-04-15/0"
-intitule_bron: "Stcrt.2026-11788"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2026-04-15"
-intitule_in_force: "2026-04-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-11788"
-original_published_date: "2026-04-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-11788"
-entry_into_force_date: "2026-04-15"
-jci_1_3: "jci1.3:c:BWBR0052526&z=2026-04-15&g=2026-04-15"
-jci_1_0: "1.0:c:BWBR0052526&g=2026-04-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "2026-04-15"
+categorie: "Strafrecht"
+publicatiedatum: 2026-04-15
+laatste_update: 2026-04-16
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0052526"
 ---
+
 # Richtlijn voor strafvordering aanranding
 
 ### Beschrijving

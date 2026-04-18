@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 april 2026, nr. RT-0000134677, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp (Tijdelijke vrijstelling voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp, 2026)"
+title: "Tijdelijke vrijstelling voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp, 2026"
 identifier: "BWBR0052539"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-15"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052539"
-soort: "ministeriele-regeling"
-stam_id: "17839673"
-version_id: "31532572"
-internal_id: "C45032131"
-label_id: "17736654"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052539/2026-04-15/0"
-intitule_bron: "Stcrt.2026-14692"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-04-10"
-intitule_published: "2026-04-14"
-intitule_in_force: "2026-04-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-14692"
-original_signed_date: "2026-04-10"
-original_published_date: "2026-04-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-14692"
-entry_into_force_date: "2026-04-15"
-jci_1_3: "jci1.3:c:BWBR0052539&z=2026-04-15&g=2026-04-15"
-jci_1_0: "1.0:c:BWBR0052539&g=2026-04-15"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke vrijstelling voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp, 2026"
-signed_date: "2026-04-10"
-entry_into_force: "2026-04-15"
+categorie: "Overig"
+publicatiedatum: 2026-04-15
+laatste_update: 2026-04-16
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0052539"
 ---
+
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 april 2026, nr. RT-0000134677, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp (Tijdelijke vrijstelling voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp, 2026)
 
 handelende in overeenstemming met de Minister van Infrastructuur en Waterstaat;
@@ -42,19 +16,19 @@ Gelet op [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://w
 
 BESLUIT:
 
-##### Artikel 1
+#### Artikel 1
 
 Tijdelijke vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) en artikel 53 van [Verordening (EG) nr. 1107/2009](32009R1107) wordt verleend voor het gebruik van Movento voor de beheersing van tulpengalmijt (**Aceria tulipae**) in de onbedekte teelt van tulp.
 
-##### Artikel 2
+#### Artikel 2
 
 Aan de vrijstelling bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052539&artikel=1&z=2026-04-15&g=2026-04-15) zijn de in de bijlage bij dit besluit opgenomen voorschriften en beperkingen verbonden.
 
-##### Artikel 3
+#### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt op 1 juli 2026.
 
-##### Artikel 4
+#### Artikel 4
 
 Dit besluit wordt aangehaald als: Tijdelijke vrijstelling voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp, 2026.
 

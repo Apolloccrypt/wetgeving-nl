@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 1 februari 2024, nr. IENW/BSK-2024/5214, houdende tijdelijke regels voor het verlenen van subsidie voor de realisering van walstroomvoorzieningen voor zeeschepen in zeehavens 2024–2026 (Tijdelijke subsidieregeling walstroom zeeschepen klimaat 2024–2026)"
+title: "Tijdelijke subsidieregeling walstroom zeeschepen klimaat 2024–2026"
 identifier: "BWBR0049378"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-15"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049378"
-soort: "ministeriele-regeling"
-stam_id: "17033583"
-version_id: "30171442"
-internal_id: "C43229711"
-label_id: "16943214"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049378/2026-04-15/0"
-intitule_bron: "Stcrt.2024-2457"
-intitule_effect: "nieuw"
-intitule_signed: "2024-02-01"
-intitule_published: "2024-02-16"
-intitule_in_force: "2024-02-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-19991"
-original_signed_date: "2024-06-17"
-original_published_date: "2024-06-25"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-19991"
-entry_into_force_date: "2024-06-17"
-jci_1_3: "jci1.3:c:BWBR0049378&z=2026-04-15&g=2026-04-15"
-jci_1_0: "1.0:c:BWBR0049378&g=2026-04-15"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling walstroom zeeschepen klimaat 2024–2026"
-signed_date: "2024-06-17"
-entry_into_force: "2024-06-17"
+categorie: "Milieu"
+publicatiedatum: 2026-04-15
+laatste_update: 2026-04-16
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0049378"
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 februari 2024, nr. IENW/BSK-2024/5214, houdende tijdelijke regels voor het verlenen van subsidie voor de realisering van walstroomvoorzieningen voor zeeschepen in zeehavens 2024–2026 (Tijdelijke subsidieregeling walstroom zeeschepen klimaat 2024–2026)
 
 Gelet op de [artikelen 3, eerste lid, onder b en e, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste lid en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) en [24, eerste, derde en vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
 
 BESLUIT:
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -70,11 +44,11 @@ In deze regeling wordt verstaan onder:
 
 - **zeeschip:** schip als bedoeld in [artikel 1 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=1), met uitzondering van pleziervaartuigen.
 
-##### Artikel 2. Doel van de regeling
+#### Artikel 2. Doel van de regeling
 
 Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoorzieningen voor zeeschepen in zeehavens, teneinde de emissie van CO2 te verminderen en voor zover het een zeehaven betreft die onder de reikwijdte van artikel 9 van de AFIR-verordening valt, te stimuleren dat de minimale walstroomvoorzieningen als bedoeld in dat artikel worden gerealiseerd.
 
-##### Artikel 3. Subsidiabele activiteiten
+#### Artikel 3. Subsidiabele activiteiten
 
 1. De Minister kan aan een in Nederland gevestigde rechtspersoon of aan meerdere rechtspersonen die samenwerken in een samenwerkingsverband subsidie verstrekken voor de aanschaf en installatie van een walstroomvoorziening voor zeeschepen:
 
@@ -110,7 +84,7 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 - c. een forfaitair vastgesteld uurtarief voor loonkosten.
 
-##### Artikel 4. Hoogte subsidie
+#### Artikel 4. Hoogte subsidie
 
 1. De subsidie bedraagt ten hoogste:
 
@@ -130,7 +104,7 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 5. Subsidie die door de Commissie van de Europese Unie is verstrekt voor activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2026-04-15&g=2026-04-15), wordt niet in mindering gebracht op de subsidie waarvoor de aanvrager krachtens deze regeling in aanmerking komt.
 
-##### Artikel 5. Subsidieplafonds en wijze van verdeling
+#### Artikel 5. Subsidieplafonds en wijze van verdeling
 
 1. Het subsidieplafond voor deze regeling bedraagt in totaal:
 
@@ -150,7 +124,7 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 5. De Minister verdeelt de in de betreffende jaar beschikbare subsidiebedragen op volgorde van binnenkomst van de aanvragen.
 
-##### Artikel 6. Aanvraag subsidieverlening
+#### Artikel 6. Aanvraag subsidieverlening
 
 1. De aanvraag om subsidie wordt ingediend met gebruikmaking van een door de Minister beschikbaar gesteld digitaal formulier dat wordt geplaatst op de website van RVO.
 
@@ -180,7 +154,7 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 - g. een verklaring van de exploitant van de betreffende terminal dat deze instemt met de subsidieaanvraag, indien deze niet de aanvrager is.
 
-##### Artikel 7. Afwijzingsgronden
+#### Artikel 7. Afwijzingsgronden
 
 Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) vermelde afwijzingsgronden, wordt de aanvraag om subsidie in ieder geval afgewezen indien:
 
@@ -194,7 +168,7 @@ Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&
 
 - e. subsidieverstrekking niet in overeenstemming is met enige andere bepaling in de algemene groepsvrijstellingsverordening.
 
-##### Artikel 8. Verplichtingen van de subsidieontvanger
+#### Artikel 8. Verplichtingen van de subsidieontvanger
 
 1. De activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2026-04-15&g=2026-04-15) worden binnen 48 maanden na de startdatum afgerond. De startdatum ligt maximaal 6 maanden na de datum van de beschikking tot subsidieverlening.
 
@@ -208,37 +182,37 @@ Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&
 
 6. De walstroomvoorziening wordt op gelijke en niet-discriminerende wijze tegen marktvoorwaarden aan belangstellende gebruikers bij de betreffende kade of terminal beschikbaar gesteld.
 
-##### Artikel 9. Voorschot
+#### Artikel 9. Voorschot
 
 Het voorschot bedraagt ten hoogste 80% van de subsidie waarvan achtereenvolgens 30% en 50% wordt uitgekeerd.
 
-##### Artikel 10. Subsidievaststelling
+#### Artikel 10. Subsidievaststelling
 
 Binnen dertien weken nadat de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2026-04-15&g=2026-04-15) zijn afgerond, wordt door de subsidieontvanger een aanvraag tot subsidievaststelling ingediend met gebruikmaking van een door de Minister beschikbaar gesteld digitaal formulier dat wordt geplaatst op de website van RVO.
 
-##### Artikel 11. Verslag
+#### Artikel 11. Verslag
 
 Uiterlijk op 1 juli 2031 stelt de Minister een verslag op over de doeltreffendheid en de effecten van deze regeling.
 
-##### Artikel 12. Inwerkingtreding en vervaldatum
+#### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 26 maart 2024.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
 
-##### Artikel 13. Citeertitel
+#### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling walstroom zeeschepen klimaat 2024–2026.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
+#### Artikel 3a. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2026-04-15&g=2026-04-15), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
-##### Artikel 3b. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
+#### Artikel 3b. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2026-04-15&g=2026-04-15), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
@@ -252,7 +226,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Voor zover er geen loonkosten worden gemaakt, maar niettemin arbeid wordt verricht, wordt voor de berekening van de kosten van de arbeid uitgegaan van € 80,– per uur.
 
-##### Artikel 3c. Berekening met forfaitair uurtarief loonkosten
+#### Artikel 3c. Berekening met forfaitair uurtarief loonkosten
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2026-04-15&g=2026-04-15), wordt een uurtarief gehanteerd van € 80,– per uur.
 
