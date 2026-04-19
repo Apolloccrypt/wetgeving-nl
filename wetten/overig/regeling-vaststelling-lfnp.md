@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Minister van Veiligheid en Justitie van 7 mei 2013, nr. 382047, directoraat-generaal Politie, programma Arbeidsvoorwaarden in verband met de vaststelling van het Landelijk Functiegebouw Nederlandse Politie (Regeling vaststelling LFNP)"
+title: "Regeling vaststelling LFNP"
 identifier: "BWBR0033460"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-21"
-last_updated: "2025-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033460"
-soort: "ministeriele-regeling"
-stam_id: "12271303"
-version_id: "30551032"
-internal_id: "C43794211"
-label_id: "12242684"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033460/2025-10-21/0"
-intitule_bron: "Stcrt.2013-13079"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-07"
-intitule_published: "2013-05-30"
-intitule_in_force: "2013-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-1715"
-original_signed_date: "2024-12-18"
-original_published_date: "2025-01-07"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-1715"
-entry_into_force_date: "2024-12-18"
-jci_1_3: "jci1.3:c:BWBR0033460&z=2025-10-21&g=2025-10-21"
-jci_1_0: "1.0:c:BWBR0033460&g=2025-10-21"
-citeertitel_status: "officieel"
-short_title: "Regeling vaststelling LFNP"
-signed_date: "2024-12-18"
-entry_into_force: "2024-12-18"
+categorie: "Overig"
+publicatiedatum: 2026-04-18
+laatste_update: 2026-04-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0033460"
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 7 mei 2013, nr. 382047, directoraat-generaal Politie, programma Arbeidsvoorwaarden in verband met de vaststelling van het Landelijk Functiegebouw Nederlandse Politie (Regeling vaststelling LFNP)
 
 Gelet op [artikel 6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -58,33 +32,33 @@ In deze regeling wordt verstaan onder:
 
 - g. **de Minister:** de Minister van Justitie en Veiligheid.
 
-##### Artikel 2
+#### Artikel 2
 
 Het bevoegd gezag kan de Minister een voorstel doen tot wijziging van de bij de regeling behorende bijlagen. De Minister geeft ten behoeve hiervan de korpschef een aanwijzing als bedoeld in [artikel 31 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31) met het oog op het verplichte gebruik van het door hem aangewezen systeem om functies te beschrijven respectievelijk te waarderen.
 
-##### Artikel 3
+#### Artikel 3
 
-1. De aanduiding van de functies, onderverdeeld naar de domeinen leiding, uitvoering en ondersteuning en naar vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2025-10-21&g=2025-10-21).
+1. De aanduiding van de functies, onderverdeeld naar de domeinen leiding, uitvoering en ondersteuning en naar vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2026-04-18&g=2026-04-18).
 
-2. De koppeling van de functies, van punten naar barema’s, aan de salarisschalen is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=2&z=2025-10-21&g=2025-10-21).
+2. De koppeling van de functies, van punten naar barema’s, aan de salarisschalen is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=2&z=2026-04-18&g=2026-04-18).
 
-3. De bij de functies behorende functiebeschrijvingen zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2025-10-21&g=2025-10-21).
+3. De bij de functies behorende functiebeschrijvingen zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-04-18&g=2026-04-18).
 
-4. De aan de functiebeschrijvingen te koppelen werkterreinen, aandachtsgebieden en specifieke functionaliteiten zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4&z=2025-10-21&g=2025-10-21).
+4. De aan de functiebeschrijvingen te koppelen werkterreinen, aandachtsgebieden en specifieke functionaliteiten zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4&z=2026-04-18&g=2026-04-18).
 
-5. De aan de functiebeschrijvingen te koppelen werktitels zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=5&z=2025-10-21&g=2025-10-21).
+5. De aan de functiebeschrijvingen te koppelen werktitels zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=5&z=2026-04-18&g=2026-04-18).
 
-##### Artikel 4
+#### Artikel 4
 
-1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2025-10-21&g=2025-10-21). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
+1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-04-18&g=2026-04-18). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
 
-2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2025-10-21&g=2025-10-21), een salaris gekoppeld.
+2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2026-04-18&g=2026-04-18), een salaris gekoppeld.
 
-##### Artikel 5
+#### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-##### Artikel 6
+#### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling vaststelling LFNP.
 
@@ -1066,7 +1040,7 @@ Aan de functie kleeft de Hoge Omschakelfrequentie met externe exposure.
 
 ### Kern van de functie
 
-1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 ### Secretarieel Medewerker
 
@@ -1534,7 +1508,7 @@ Interventie draagt bij aan de handhaving van de rechtsorde in de samenleving (cr
 
 ### Individuele voorbereiding
 
-1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 ### Activiteiten en resultaten
 
@@ -1726,7 +1700,7 @@ Het aanwenden van strafvorderlijke dwangmiddelen waaronder het staande houden, a
 
 Administratie en Secretariaat geeft met name uitvoering aan de processen in de tak Ondersteunen uit het RBP.
 
-Kan, mits daarvoor gecertificeerd en aangewezen, optreden in teamverband (ME, FLEX, GBO, GRIP e.d.).
+Kan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
 Het organiseren en aansturen van de uitvoering van vastgestelde plannen van aanpak, zodat de uitvoering van secretariële werkzaamheden efficiënt en effectief verloopt. Dit houdt mede in:
 
@@ -2770,9 +2744,9 @@ Aan de functie kleeft de Hoge Omschakelfrequentie met externe exposure.
 
 Kan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie aangewezen politieopleiding hebben voltooid.
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 Het vanuit analyse van de praktijk formuleren van voorstellen tot verbeteringen in de uitvoering van Intelligence-activiteiten, het initiëren van verbeteringen en het implementeren van vastgestelde verbeteringen, het monitoren en evalueren van de implementatie en het eventueel bijsturen ervan, zodat de rechtsorde (criminaliteitsbestrijding) en openbare orde en het werken aan leefbaarheid en veiligheid efficiënter en effectiever verlopen.
 
@@ -3816,9 +3790,9 @@ Het als specialist coachen en overdragen van kennis en vaardigheden. Het geven v
 
 Kan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 ### Operationeel Docent D
 
@@ -4140,7 +4114,7 @@ Kan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
 ### Publicaties
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c)aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c)aangewezen politieopleiding hebben voltooid.
 
 ### Bedrijfsvoeringspecialist E
 
@@ -4942,7 +4916,7 @@ Aan de functie kleeft de Hoge Omschakelfrequentie met externe exposure.
 
 ### Activiteiten en resultaten
 
-1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 ### Generalist Interventie
 
@@ -5936,9 +5910,9 @@ Het − vanuit specialisatie − analyseren, monitoren en evalueren in de uitvoe
 
 ### Daadwerkelijke toepassing van vastgestelde verbeteringen
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 Operationeel Docentschap levert vanuit een interactieve benadering specialistische en specifieke deskundigheid aan de Uitvoeringspraktijk bij complexe zaken / incidenten / kwesties.
 
@@ -6252,7 +6226,7 @@ Het coachen en overdragen van kennis en vaardigheden als mentor; het vanuit de p
 
 Aan de functie kleeft de Hoge Omschakelfrequentie met externe exposure.
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 ### Als regisseur leiding aan Kenniskring
 
@@ -6330,9 +6304,9 @@ Aan de functie kleeft de Hoge Omschakelfrequentie met externe exposure.
 
 ### Operationeel Specialist F
 
-*Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+*Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 De praktijkinzet(1) vanuit operationeel specialismen kenmerkt zich door analyseren, adviseren, concretiseren, implementeren, monitoren/evalueren en borgen toepassing (beleid). Vanuit praktijkinzet komen producten en diensten tot stand uit analyse & combineren en het op basis daarvan trekken van conclusies, en nemen de vorm aan van informatie, adviezen, procedures, rapportages, protocollen, richtlijnen, (onderzoeks-)plannen, behandelplannen, jaarplannen, (psychologische) rapporten, (juridische) notities, oplossingen en oplossingsrichtingen waarop keuzes en prioriteiten in de uitvoeringspraktijk kunnen worden gebaseerd, etc., maar ook van (proces)begeleiding, coaching/training/uitleg/instructie.
 
@@ -6505,23 +6479,23 @@ Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a
+#### Artikel 3a
 
-1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft gevolgd, kan enkel worden geplaatst in een functie in het vakgebied Intelligence, Forensische Opsporing, met uitzondering van het werkterrein Speurhondengeleiding, Tactische Opsporing, met uitzondering van de functies van Senior Tactische Opsporing en Operationeel Expert Tactische Opsporing, of Operationeel Specialismen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2025-10-21&g=2025-10-21).
+1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft gevolgd, kan enkel worden geplaatst in een functie in het vakgebied Intelligence, Forensische Opsporing, met uitzondering van het werkterrein Speurhondengeleiding, Tactische Opsporing, met uitzondering van de functies van Senior Tactische Opsporing en Operationeel Expert Tactische Opsporing, of Operationeel Specialismen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2026-04-18&g=2026-04-18).
 
 2. De ambtenaar, bedoeld in het eerste lid, die is geplaatst in een functie als bedoeld in het eerste lid is niet bewapend.
 
 3. De ambtenaar in opleiding, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), die na het voltooien van een krachtens [artikel 2c, tweede lid, van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding wordt geplaatst in een functie als bedoeld in het eerste lid, is niet bewapend.
 
-##### Artikel 3b
+#### Artikel 3b
 
-De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2025-10-21&g=2025-10-21) opgenomen functiebeschrijvingen van de functies in de vakgebieden Operationeel Specialismen en Tactische Opsporing zijn voorbehouden aan de ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak en die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid:
+De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-04-18&g=2026-04-18) opgenomen functiebeschrijvingen van de functies in de vakgebieden Operationeel Specialismen en Tactische Opsporing zijn voorbehouden aan de ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak en die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid:
 
 - a. de toepassing van dwangmiddelen in vooraf voorzienbare gevaarzettende situaties, en
 
 - b. het voeren van functioneringsgesprekken in verband met organisatorische coördinatie.
 
-##### Artikel 4a
+#### Artikel 4a
 
 Deze regeling berust op de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), voor zover het de definitie van LFNP betreft, en [2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c), [artikel 20a van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=20a) en de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), voor zover het de definitie van LFNP betreft, en [6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6).
 
@@ -6548,7 +6522,7 @@ Deze regeling berust op de [artikelen 1, eerste lid](https://wetten.overheid.nl/
 | 2 |   | Assistent Beveiliging A | Assistent GGP A |   |   |   |   |   |   |   |   | Assistent Intake & Service A |   |   |   |   | Administratief Secretarieel Medewerker A |   |   |   | Chauffeur (HSM) | Medewerker Huisvesting, Services en Middelen B |   |   |
 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Medewerker Huisvesting, Services en Middelen A |   |   |
 
-## Bijlage 1. horende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2025-10-21&g=2025-10-21)
+## Bijlage 1. horende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2026-04-18&g=2026-04-18)
 
 | Barema | Leiding | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering |   |   |   | Ondersteuning | Ondersteuning | Ondersteuning | Ondersteuning | Ondersteuning | Ondersteuning |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -6571,7 +6545,7 @@ Deze regeling berust op de [artikelen 1, eerste lid](https://wetten.overheid.nl/
 | 2 |   | Assistent Beveiliging A | Assistent GGP A |   |   |   |   |   |   |   |   | Assistent Intake & Service A |   |   |   |   |   | Administratief Secretarieel Medewerker A |   |   |   | Chauffeur (HSM) | Medewerker Huisvesting, Services en Middelen B |   |   |   |
 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Medewerker Huisvesting, Services en Middelen A |   |   |   |
 
-## Bijlage 2. horende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2025-10-21&g=2025-10-21)
+## Bijlage 2. horende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2026-04-18&g=2026-04-18)
 
 |   | **Fuwa plotting LFNP 1.0 d.d. 7 juli 2016** | Pt.totaal | Barema | Bbp Schaal |
 | --- | --- | --- | --- | --- |
@@ -6962,7 +6936,7 @@ Het valideren en het in de daartoe geëigende systemen documenteren van feiten e
 
 ### Secretarieel Medewerker
 
-1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+1 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 Administratie en Secretariaat geeft met name uitvoering aan de processen in de tak Ondersteunen uit het RBP.
 
@@ -7082,7 +7056,7 @@ Het op basis van het plan van aanpak in teamverband afschermen van het optreden 
 
 Het documenteren van eigen waarnemingen in feiten en omstandigheden, zodat actuele informatie beschikbaar is en een basis ontstaat voor opvolging en/of vervolging.
 
-6 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+6 Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 Het − op basis van aangereikte opdrachten − lokaliseren van defecten en storingen aan elektronische, (elektro)technische systemen en installaties, technische (hulp)middelen, apparatuur en werktuigen die hun oorsprong vinden in een combinatie van technieken, waaronder werktuigbouw, (fijn)-mechanica, computertechniek, installatietechniek en elektrotechniek, zodat defecten en storingen effectief en efficiënt worden gerepareerd/ verholpen en systemen en installaties, technische (hulp)middelen, apparatuur en werktuigen weer inzetbaar zijn.
 
@@ -8115,7 +8089,7 @@ Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 2a
+#### Artikel 2a
 
 1. Het bevoegd gezag kan tijdelijk aanvullende werkzaamheden opdragen aan de ambtenaar die geplaatst is in de Eenheid landelijke expertise en operaties of de Eenheid landelijke opsporing en interventies. Deze werkzaamheden kunnen bestaan uit:
 
@@ -8141,7 +8115,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. het vaststellen van voorgenomen beoordelingen, re-integratieplannen en ontwikkelplannen.
 
-## Bijlage 3. horende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2025-10-21&g=2025-10-21)
+## Bijlage 3. horende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2026-04-18&g=2026-04-18)
 
 Het − op aanwijzing – verrichten van montagewerkzaamheden aan gebouwen en voorzieningen, zodat gebouwen en voorzieningen steeds optimaal kunnen worden gebruikt.
 
@@ -8699,9 +8673,9 @@ Aan de functie kleeft de Hoge Omschakelfrequentie met externe exposure.
 
 Kan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
-* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2025-10-21&g=2025-10-21) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
+* Op grond van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3b&z=2026-04-18&g=2026-04-18) van deze regeling is dit in vooraf voorzienbare gevaarzettende situaties, waarbij het aanwenden van geweldsmiddelen door de ambtenaar verwacht mag worden, voorbehouden aan ambtenaren die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding hebben voltooid.
 
 De Directeur46De opbouw van functies in het domein Leiding kent op dit moment 4 niveaus: Teamchef (A, B en C), Sectorhoofd, Directeur en Korpschef.De inrichting van nationale politie, hoewel daar in deze opbouw waar mogelijk al rekening mee is gehouden, kan tot wijzigingen leiden.Voor de leesbaarheid is gekozen voor de term ‘naasthogere leidinggevende’ te hanteren ipv Korpschef en de term ‘naastlagere leidinggevende’ voor Sectorhoofd of Teamchef A, B of C. draagt als autoriteit bij aan een effectieve en efficiënte organisatie en aan legitimering van politie in de samenleving. Hij beslist op en stelt − op basis van koers en strategie van het korps/ de politie− het beleid voor zijn directoraat47Een directoraat kan zijn:•een (landelijke) organisatie-eenheid: een groep van organisatieonderdelen ingezet op het gezamenlijk behalen van samenhangende effecten en resultaten zoals vastgesteld in het korps-bedrijfsvoeringplan.•een landelijk concernstafonderdeel: een centraal gepositioneerd organisatieonderdeel, ingezet op het behalen van samenhangende effecten en resultaten zoals vastgesteld in het bedrijfsvoeringplan van het betreffende concernstafonderdeel (P&O, Financieel, Facilitair, ICT etc.).De Directeur geeft in beide hoedanigheden direct leiding aan een collectief van medewerkers, waarbij moet worden gedacht aan naastlagere leidinggevende, en aan Bedrijfsvoeringspecialisten en/of Operationeel Specialisten.. Hij is verantwoordelijk voor het (door Operationeel en Bedrijfsvoeringspecialisten laten) vormen en concretiseren van (landelijk uniform) beleid, koers en strategie. Hij is de verbindende schakel tussen koers-, strategie- en beleidsvorming en effectuering ervan in de organisatieonderdelen (sectoren, teams) en is daartoe lid van de korpsdirectie. Hij draagt de resultaat- en financiële eindverantwoordelijkheid voor een (landelijke) organisatie-eenheid c.q. landelijk concernstafonderdeel. Hij geeft leiding aan een collectief van medewerkers waarvan het karakter van de werkzaamheden van leidinggevende, uitvoerende én beleidsvormende aard is. De Directeur is tevens proceseigenaar.
 
@@ -9417,7 +9391,7 @@ De Korpschef is voorzitter van de korpsdirectie. Hij is de verbindende schakel t
 
 ### RolaanduidingKan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
-## Bijlage 4. horende bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2025-10-21&g=2025-10-21)
+## Bijlage 4. horende bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2026-04-18&g=2026-04-18)
 
 Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 
@@ -9506,7 +9480,7 @@ Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 |   | **Rijvaardigheid & Rijveiligheid:** Het werkterrein Rijvaardigheid & Rijveiligheid concentreert zich op de vaardigheid en kennis die nodig is voor het besturen van voertuig(en), die in gebruik zijn bij de politie. Tevens richt dit werkterrein zich op de vaardigheid en kennis van het veilig gebruik van deze voertuig(en), het interactief participeren in en anticiperen op de (rij)omgeving, waarbij vertrouwenwekkend politieoptreden de basis is. De veiligheid van de politiemedewerker én die van de samenleving staat hierbij centraal. | **Geen** | **Geen** |
 | **23. Docenten IBT** | **Gewelds- en Gevaarsbeheersing:** Het werkterrein Gewelds- en Gevaarsbeheersing concentreert zich op het steeds vakbekwaam (kennis en vaardigheden) houden van de politiemedewerkers, om onder alle omstandigheden moedig, kundig en vaardig te kunnen optreden. Gewelds- en Gevaarsbeheersing richt zich op het omgaan met verbaal en non-verbaal gedrag, het hanteren van geweldsmiddelen, het plegen van interventies en het verbeteren van actie-intelligentie. De veiligheid van de politiemedewerker én die van de samenleving staat hierbij centraal. | **Geen** | **Geen** |
 
-## Bijlage 5. horende bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2025-10-21&g=2025-10-21)
+## Bijlage 5. horende bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2026-04-18&g=2026-04-18)
 
 | LFNP-functie: | Werktitel: Een ten behoeve van herkenning en erkenning tijdens de werkzaamheden te voeren titel. |
 | --- | --- |

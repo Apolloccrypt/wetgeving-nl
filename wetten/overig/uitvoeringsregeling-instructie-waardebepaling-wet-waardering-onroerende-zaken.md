@@ -1,38 +1,13 @@
 ---
 title: "Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken"
 identifier: "BWBR0007165"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007165"
-soort: "ministeriele-regeling"
-stam_id: "5064063"
-version_id: "31224232"
-internal_id: "C44660811"
-label_id: "5039974"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007165/2026-01-01/0"
-intitule_bron: "Stcrt.1994-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-23"
-intitule_published: "1994-12-30"
-intitule_in_force: "1994-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40255"
-original_signed_date: "2025-11-22"
-original_published_date: "2025-12-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-40255"
-entry_into_force_date: "2025-11-22"
-jci_1_3: "jci1.3:c:BWBR0007165&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0007165&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-11-22"
-entry_into_force: "2025-11-22"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-04-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007165"
 ---
+
 # Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken
 
 Handelende in overeenstemming met de Staatssecretaris van Binnenlandse Zaken A.G.M. van de Vondervoort;
@@ -41,7 +16,7 @@ Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 1. Deze regeling geeft uitvoering aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=6) en [7 van het Uitvoeringsbesluit onderbouwing en uitvoering waardebepaling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007179&artikel=7).
 
@@ -49,11 +24,11 @@ Besluit:
 
 a. de wet: de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119); b. het besluit: het [Uitvoeringsbesluit onderbouwing en uitvoering waardebepaling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007179).
 
-##### Artikel 2
+#### Artikel 2
 
 Vervallen
 
-##### Artikel 3
+#### Artikel 3
 
 1. Het college van burgemeester en wethouders verzamelt, analyseert en registreert voortdurend de waarderelevante objectgegevens.
 
@@ -85,7 +60,7 @@ Vervallen
 
 9. Het college van burgemeester en wethouders ziet erop toe dat taxateurs die zijn aangesteld als ambtenaar der gemeentelijke belastingen buiten bezwaar van den lande in tijdelijke dienst voor onbepaalde tijd en die het beroep van bemiddelaar bij transacties met onroerende zaken uitoefenen, niet de informatie ingevolge het [Besluit gegevensverstrekking Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0008175) inwinnen bij de informatieplichtige, bedoeld in artikel 1, eerste lid, onderdeel a, onder 2° van dat besluit. De eerste volzin is van overeenkomstige toepassing indien de gegevensdragers van de in die volzin bedoelde informatieplichtige zich bevinden bij een administratiekantoor.
 
-##### Artikel 4
+#### Artikel 4
 
 1. De waarde, bedoeld in artikel 17, tweede lid, van de wet, wordt bepaald voor
 
@@ -97,11 +72,11 @@ a. woningen: door middel van een methode van systematische vergelijking met woni
 
 4. Bij de berekening van de vervangingswaarde, bedoeld in artikel 17, derde lid, van de wet voor bedrijfsmatig gebruikte onroerende zaken wordt een zodanige factor voor functionele veroudering toegepast dat de waarde overeenkomt met de bedrijfswaarde van die onroerende zaak rekening houdend met de economische situatie in de desbetreffende branche of bedrijfstak.
 
-##### Artikel 5
+#### Artikel 5
 
 Het college van burgemeester en wethouders rapporteert desgevraagd binnen vier weken aan de Waarderingskamer over de stand van zaken, de planning en de voortgang van de werkzaamheden in het kader van de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119), alsmede over de kwaliteit van die werkzaamheden. Deze rapportage vindt plaats aan de hand van door de Waarderingskamer te stellen vragen.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Als model van het taxatieverslag van woningen wordt vastgesteld de tabel opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=4&z=2026-01-01&g=2026-01-01).
 
@@ -109,15 +84,15 @@ Het college van burgemeester en wethouders rapporteert desgevraagd binnen vier w
 
 3. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald door middel van een methode van kapitalisatie van de bruto huur wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=6&z=2026-01-01&g=2026-01-01) opgenomen model.
 
-##### Artikel 7
+#### Artikel 7
 
 Het college van burgemeester en wethouders voert voortdurend kwaliteitscontroles uit op de verrichte werkzaamheden in het kader van de uitvoering van de wet.
 
-##### Artikel 8
+#### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 januari 1995.
 
-##### Artikel 9
+#### Artikel 9
 
 Deze regeling kan worden aangehaald als: Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken.
 
@@ -168,7 +143,7 @@ Vervallen
 | De contactgegevens van de verantwoordelijke taxateur of afdeling voor vragen over het taxatieverslag | De contactgegevens van de verantwoordelijke taxateur of afdeling voor vragen over het taxatieverslag |
 | Een verwijzing naar de website van de organisatie voor aanvullende vragen | Een verwijzing naar de website van de organisatie voor aanvullende vragen |
 
-##### Artikel 6a
+#### Artikel 6a
 
 1. Het taxatieverslag van woningen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&artikel=6&z=2026-01-01&g=2026-01-01), vermeldt in ieder geval:
 
@@ -192,15 +167,15 @@ Vervallen
 
 - b. de marktgegevens van de onroerende zaak van de afgelopen vijf jaar, te weten:
 
-- 1°. de verkoopprijs;
+  - 1°. de verkoopprijs;
 
-- 2°. de verkoopdatum;
+  - 2°. de verkoopdatum;
 
 - c. de totale grootte van het woningdeel.
 
 4. Het taxatieverslag kan aanvullende elementen bevatten die de gemeenteambtenaar, bedoeld in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231), relevant acht voor de op voet van [hoofdstuk IV van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarde.
 
-##### Artikel 6b
+#### Artikel 6b
 
 Degene ten wiens aanzien de beschikking, bedoeld in [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22), is genomen krijgt op verzoek een afschrift van de gegevens die ten grondslag liggen aan de vastgestelde waarde, waaronder:
 

@@ -1,53 +1,28 @@
 ---
 title: "Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)"
 identifier: "BWBR0039789"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-26"
-last_updated: "2026-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039789"
-soort: "ministeriele-regeling"
-stam_id: "14072283"
-version_id: "24231552"
-internal_id: "C34806741"
-label_id: "14033424"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039789/2026-03-26/0"
-intitule_bron: "Stcrt.2017-40228"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-07"
-intitule_published: "2017-07-17"
-intitule_in_force: "2017-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-40228"
-original_signed_date: "2017-07-07"
-original_published_date: "2017-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-40228"
-entry_into_force_date: "1996-07-15"
-jci_1_3: "jci1.3:c:BWBR0039789&z=2026-03-26&g=2026-03-26"
-jci_1_0: "1.0:c:BWBR0039789&g=2026-03-26"
-citeertitel_status: "officieel"
-signed_date: "2017-07-07"
-entry_into_force: "1996-07-15"
+categorie: "Overig"
+publicatiedatum: 2026-04-18
+laatste_update: 2026-04-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0039789"
 ---
+
 # Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
 - a. **operatie:**
 
-- 1°. een door de Minister als vredesoperatie aangemerkte daadwerkelijke militaire inzet buiten Nederland voor vredesafdwingende of vredeshandhavende taken in internationaal of bondgenootschappelijk verband of een andere door de Minister aangemerkte vorm van daadwerkelijke militaire inzet buiten Nederland;
+  - 1°. een door de Minister als vredesoperatie aangemerkte daadwerkelijke militaire inzet buiten Nederland voor vredesafdwingende of vredeshandhavende taken in internationaal of bondgenootschappelijk verband of een andere door de Minister aangemerkte vorm van daadwerkelijke militaire inzet buiten Nederland;
 
-- 2°. een door de Minister als humanitaire operatie aangemerkte daadwerkelijke militaire inzet buiten Nederland voor hulpverlenende taken;
+  - 2°. een door de Minister als humanitaire operatie aangemerkte daadwerkelijke militaire inzet buiten Nederland voor hulpverlenende taken;
 
 - b. **orgaan:**
 
@@ -65,59 +40,59 @@ In deze regeling wordt verstaan onder:
 
 - een periode, niet zijnde verlof, waarin aan de militair geen feitelijke werkzaamheden worden opgedragen, opdat door afwisseling van inzet en rust de gewenste operationele inzetbaarheid wordt gehandhaafd.
 
-##### Artikel 2. Toepasselijkheid
+#### Artikel 2. Toepasselijkheid
 
-- 1. Deze regeling is van toepassing op de militair die is ingezet in het kader van een operatie. Een overzicht van de operaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2026-03-26&g=2026-03-26), onderdeel a, onder 1°, is opgenomen in tabel 3. Een overzicht van de operaties als bedoeld in artikel 1, onderdeel a, onder 2°, is opgenomen in tabel 4.
+- 1. Deze regeling is van toepassing op de militair die is ingezet in het kader van een operatie. Een overzicht van de operaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=1&artikel=1&z=2026-04-18&g=2026-04-18), onderdeel a, onder 1°, is opgenomen in tabel 3. Een overzicht van de operaties als bedoeld in artikel 1, onderdeel a, onder 2°, is opgenomen in tabel 4.
 
 - 2. Op de militair is niet van toepassing [hoofdstuk 7 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7), met uitzondering van [artikel 54e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=54e), voor zover de verkorting van de arbeidsduur wordt toegekend in de vorm van spaaruren. De werk- en rusttijden van de militair worden bepaald aan de hand van hetgeen in het belang van de dienst tijdens de operatie noodzakelijk is.
 
 - 3. Voor de toepassing van deze regeling wordt Caribisch Nederland beschouwd als een land buiten Nederland.
 
-##### Artikel 3. Aanvang, einde en duur van de aanspraak
+#### Artikel 3. Aanvang, einde en duur van de aanspraak
 
 - 1. De aanspraak van de militair op voorzieningen ingevolge deze regeling vangt aan: en eindigt: waarbij de dag van vertrek en de dag van terugkeer tezamen als één dag worden gerekend.
 
-- a. indien de militair vertrekt vanuit Nederland naar het operatiegebied: op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld in Nederland dan wel;
+  - a. indien de militair vertrekt vanuit Nederland naar het operatiegebied: op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld in Nederland dan wel;
 
-- b. indien de militair vertrekt vanuit het land van plaatsing buiten Nederland naar het operatiegebied: op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld aldaar dan wel;
+  - b. indien de militair vertrekt vanuit het land van plaatsing buiten Nederland naar het operatiegebied: op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld aldaar dan wel;
 
-- c. indien de militair vertrekt aan boord van een oorlogsschip buiten Nederland naar het operatiegebied: op de door de minister bepaalde vertrekdag van het schip naar het operatiegebied;
+  - c. indien de militair vertrekt aan boord van een oorlogsschip buiten Nederland naar het operatiegebied: op de door de minister bepaalde vertrekdag van het schip naar het operatiegebied;
 
-- d. indien de militair terugkeert in Nederland vanuit het operatiegebied: op de dag van aankomst bij een grensstation of -overgang, in de eerste haven of op het eerste vliegveld in Nederland;
+  - d. indien de militair terugkeert in Nederland vanuit het operatiegebied: op de dag van aankomst bij een grensstation of -overgang, in de eerste haven of op het eerste vliegveld in Nederland;
 
-- e. indien de militair terugkeert in het land van plaatsing buiten Nederland vanuit het operatiegebied: op de dag van aankomst bij een grensstation of -overgang, in de eerste haven of op het eerste vliegveld aldaar;
+  - e. indien de militair terugkeert in het land van plaatsing buiten Nederland vanuit het operatiegebied: op de dag van aankomst bij een grensstation of -overgang, in de eerste haven of op het eerste vliegveld aldaar;
 
-- f. indien de militair aan boord van een oorlogsschip vertrekt uit het operatiegebied en niet eerst terugkeert in Nederland of het land van plaatsing: op de door de minister bepaalde dag waarop het schip aanvangt met zijn nieuwe opdracht,
+  - f. indien de militair aan boord van een oorlogsschip vertrekt uit het operatiegebied en niet eerst terugkeert in Nederland of het land van plaatsing: op de door de minister bepaalde dag waarop het schip aanvangt met zijn nieuwe opdracht,
 
 - 2. Indien het noodzakelijk is dat een militair tijdelijk wordt ingezet buiten het operatiegebied, kan de Commandant der Strijdkrachten bepalen dat de aanspraak op de voorzieningen gedurende de tijdelijke inzet blijft bestaan.
 
 - 3. Gedurende de periode van recuperatie blijft de aanspraak op de voorzieningen bestaan.
 
-##### Artikel 4. Samenloop
+#### Artikel 4. Samenloop
 
-Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2026-03-26&g=2026-03-26), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2026-03-26&g=2026-03-26) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2026-03-26&g=2026-03-26) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
+Indien de militair uit anderen hoofde aanspraak heeft op overeenkomstige voorzieningen als genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=5&z=2026-04-18&g=2026-04-18), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&artikel=6&z=2026-04-18&g=2026-04-18) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=8&z=2026-04-18&g=2026-04-18) wordt de waarde van die aanspraak in mindering gebracht op de aanspraak ingevolge deze regeling.
 
 #### Paragraaf 2. Financiële voorzieningen
 
-##### Artikel 5. Huisvesting, voeding en onkosten
+#### Artikel 5. Huisvesting, voeding en onkosten
 
 - 1. De militair heeft aanspraak op:
 
-- a. huisvesting en voeding vanwege en voor rekening van het Rijk;
+  - a. huisvesting en voeding vanwege en voor rekening van het Rijk;
 
-- b. een tegemoetkoming in de onkosten volgens tabel 1.
+  - b. een tegemoetkoming in de onkosten volgens tabel 1.
 
 - 2. Indien – in bijzondere gevallen – om redenen van dienst geen gebruik kan worden gemaakt van rijkswege verstrekte huisvesting of voeding en hierin ook niet op andere wijze wordt voorzien, kunnen de noodzakelijk te maken kosten voor huisvesting en voeding voor het gehele operatiegebied worden vergoed tot maximaal de vergoedingen op basis van de [Regeling dienstreizen defensie, bijlage C](onbekend), Nederland.
 
 - 3. Onder onkosten wordt verstaan de tijdens de inzet bij operaties door de militair gedane uitgaven wegens bewassing, (tele)communicatie, ontspanning, recuperatie en overige incidentele kosten.
 
-##### Artikel 6
+#### Artikel 6
 
 De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden extra werkdruk die een gevolg is van de inzet. De vergoeding is vastgesteld in de vorm van een afkoopsom, en bedraagt € 133,64 per dag.
 
 #### Paragraaf 3. Overige voorzieningen
 
-##### Artikel 7. Recuperatie
+#### Artikel 7. Recuperatie
 
 - 1. De Commandant der Strijdkrachten kan, indien operationele omstandigheden dat noodzakelijk en mogelijk maken, recuperatie verlenen.
 
@@ -127,11 +102,11 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. Op verzoek van de militair kan de Commandant der Strijdkrachten, indien de uitzendduur tenminste vier maanden bedraagt, toestaan dat de militair de recuperatie voor eigen rekening en risico elders doorbrengt. In dat geval bestaat daarvoor geen aanspraak op vergoeding van verblijfskosten. Voor de vaststelling van de duur van de recuperatie wordt per maand inzet 2,5 dag recuperatie opgebouwd.
 
-- 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2026-03-26&g=2026-03-26), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
+- 5. Indien na beëindiging van de deelname aan de operatie blijkt dat sprake is geweest van onafgebroken inzet, zonder dat de militair de gelegenheid is geboden tussentijds te recupereren, verleent de commandant, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=10&z=2026-04-18&g=2026-04-18), na definitieve terugkeer van de militair uit het operatiegebied, extra vrije tijd voor de duur van één werkdag per maand inzet.
 
-##### Artikel 8. Recuperatiereis
+#### Artikel 8. Recuperatiereis
 
-- 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2026-03-26&g=2026-03-26), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
+- 1. Wordt de recuperatie als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=3&artikel=7&z=2026-04-18&g=2026-04-18), in Nederland doorgebracht, of in een ander land indien de militair daar is geplaatst en woonachtig is, wordt de betreffende retourreis éénmaal gedurende een uitzendingsperiode van zes maanden voor rekening van Defensie gemaakt. Indien de uitzendperiode langer duurt dan 12 maanden kan de betreffende retourreis één maal per vier maanden voor rekening van defensie worden gemaakt.
 
 - 2. Voor het maken van de recuperatiereis dient gebruik te worden gemaakt van het door de Koninklijke Luchtmacht ingezette luchttransport. Indien een dergelijk transport ontbreekt dan wel niet beschikbaar is, kan bij uitzondering gebruik worden gemaakt van een commerciële retourvlucht voor rekening van Defensie.
 
@@ -139,29 +114,29 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. Indien om welke reden dan ook geen gebruik is gemaakt van luchttransport van de Koninklijke Luchtmacht of van het vervoerbewijs van een commercieel vervoerbedrijf, wordt geen vervangend vervoerbewijs of een tegemoetkoming dan wel een vergoeding in geld toegekend.
 
-##### Artikel 9. Verlof
+#### Artikel 9. Verlof
 
 - 1. Aan de militair wordt gedurende de inzet geen verlof op grond van [hoofdstuk 8 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8) verleend, tenzij de Commandant der Strijdkrachten die verlofverlening noodzakelijk acht.
 
 - 2. Vrijstelling van werkzaamheden in het kader van werk- en rusttijden, alsmede verlof verleend door of vanwege het orgaan, is geen verlof als bedoeld in [hoofdstuk 8 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8). Voor zover vorenbedoelde vrije tijd of verlof niet reeds is genoten, vervallen deze bij definitief vertrek uit het operatiegebied.
 
-- 3. Tijdens verlof, bedoeld in het eerste lid, bestaat geen aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2026-03-26&g=2026-03-26).
+- 3. Tijdens verlof, bedoeld in het eerste lid, bestaat geen aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2026-04-18&g=2026-04-18).
 
-- 4. In afwijking van het gestelde in het derde lid bestaat aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2026-03-26&g=2026-03-26) gedurende de periode dat een militair in verband met bijzonder verlof buiten het missiegebied verblijft in verband met: zulks met een maximum van 14 dagen.
+- 4. In afwijking van het gestelde in het derde lid bestaat aanspraak op de voorzieningen bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&paragraaf=2&z=2026-04-18&g=2026-04-18) gedurende de periode dat een militair in verband met bijzonder verlof buiten het missiegebied verblijft in verband met: zulks met een maximum van 14 dagen.
 
-- a. ernstige ziekte van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad;
+  - a. ernstige ziekte van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad;
 
-- b. de bevalling van zijn echtgenote of de persoon met wie de militair ongehuwd samenwoont;
+  - b. de bevalling van zijn echtgenote of de persoon met wie de militair ongehuwd samenwoont;
 
-- c. het overlijden en lijkbezorging van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad.
+  - c. het overlijden en lijkbezorging van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad.
 
-##### Artikel 10. Vrijstelling van normale werkzaamheden en diensten
+#### Artikel 10. Vrijstelling van normale werkzaamheden en diensten
 
 - 1. De militair wordt aansluitend op de definitieve terugkeer uit het operatiegebied door de Commandant der Strijdkrachten vrijgesteld van zijn normale werkzaamheden en diensten.
 
 - 2. De vrijstelling bedraagt tien werkdagen na een inzet met een duur van tenminste zes achtereenvolgende maanden, dan wel een evenredig deel daarvan bij een inzet met een kortere duur.
 
-##### Artikel 10a. Uitzendgratificatie
+#### Artikel 10a. Uitzendgratificatie
 
 - 1. De defensieambtenaar die gedurende ten minste 365 dagen heeft deelgenomen aan vredesoperaties dan wel humanitaire operaties als bedoeld in tabel 3 en 4 bij deze regeling, heeft aanspraak op een eenmalige gratificatie van € 1.000.
 
@@ -171,29 +146,29 @@ De militair heeft aanspraak op een vergoeding voor de bij operatie ondervonden e
 
 - 4. De loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5), die zijn verschuldigd over de in het eerste lid bedoelde gratificatie, komen voor rekening van Defensie.
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
-##### Artikel 13
+#### Artikel 13
 
 Vervallen
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
 #### Paragraaf 4. Slotbepalingen
 
-##### Artikel 15. Mogelijkheid tot afwijken
+#### Artikel 15. Mogelijkheid tot afwijken
 
 De Minister is bevoegd te beslissen in die gevallen waarin deze regeling naar zijn oordeel niet of niet in redelijkheid voorziet.
 
-##### Artikel 16. Grondslag
+#### Artikel 16. Grondslag
 
 Deze regeling berust met ingang van 1 mei 1997 op:
 
@@ -201,11 +176,11 @@ Deze regeling berust met ingang van 1 mei 1997 op:
 
 - b. [artikel 16 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=16).
 
-##### Artikel 17. Inwerkingtreding
+#### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking op 15 juli 1996.
 
-##### Artikel 18. Citeertitel
+#### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: ‘Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)’.
 
@@ -302,7 +277,7 @@ Vervallen
 | 059 | European-Led Mission Awareness Strait of Hormuz | EMASOH | 01-01-2020 |   |
 | 060 | Multinationale taakgroep TAKUBA | TF TAKUBA | 01-05-2020 | 31-12-2022 |
 | 061 | The Partnership for Actions in Western Africa | PAWA | 01-10-2020 |   |
-| 062 | UK Carrier Strike Group ’21 (Operatie FORTIS) | UK CSG21 | 01-04-2021 | 31-12-2022 |
+| 062 | UK Carrier Strike Group '21 (Operatie FORTIS) | UK CSG21 | 01-04-2021 | 31-12-2022 |
 | 064 | Combined Maritime Forces | CMF | 09-09-2013 |   |
 | 065 | Non-combatant Evacuatie Operatie | NEO | 01-12-2021 | 01-10-2024 |
 | 066 | Air Policing Bulgarije | AP Bulgarije | 01-02-2022 |   |
@@ -325,6 +300,8 @@ Vervallen
 | 083 | EU Security and Defence Initiatief in de Golf van Guinee | EU SDI GoG | 01-06-2025 |   |
 | 084 | NSATU Air and Missile Defence Task Force Polen | NSATU AMDTF | 01-05-2025 |   |
 | 085 | Ost Lebanese Armed Forces | Ondersteuning LAF | 01-08-2025 |   |
+| 086 | INDOPAC | INDOPAC | 01-01-2026 |   |
+| 087 | PEGASUS GUARDIAN | PEGASUS GUARDIAN | 01-01-2026 |   |
 
 |   | Inzet in het kader van de Nederlandse bijdrage aan de humanitaire operatie: | Datum aanvang | Datum einde |
 | --- | --- | --- | --- |

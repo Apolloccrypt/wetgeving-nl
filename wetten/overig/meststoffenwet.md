@@ -1,38 +1,14 @@
 ---
-title: "Wet van 27 november 1986, houdende regelen inzake het verhandelen van meststoffen en de afvoer van mestoverschotten"
+title: "Meststoffenwet"
 identifier: "BWBR0004054"
-country: "nl"
-rank: "wet"
-publication_date: "2025-12-09"
-last_updated: "2025-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004054"
-soort: "wet"
-stam_id: "2698873"
-version_id: "12882752"
-internal_id: "C17367231"
-label_id: "2644764"
-dtd_version: "2.0"
-original_entry_into_force: "2006-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004054/2025-12-09/0"
-intitule_bron: "Stb.1986-598"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-11-27"
-intitule_status: "goed"
-original_publication: "Stb.2006-64"
-original_signed_date: "2006-02-14"
-original_published_date: "2006-02-21"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2006-64"
-entry_into_force_date: "2006-01-01"
-jci_1_3: "jci1.3:c:BWBR0004054&z=2025-12-09&g=2025-12-09"
-jci_1_0: "1.0:c:BWBR0004054&g=2025-12-09"
-citeertitel_status: "officieel"
-short_title: "Meststoffenwet"
-signed_date: "2006-02-14"
-entry_into_force: "2006-01-01"
+categorie: "Overig"
+publicatiedatum: 2025-12-09
+laatste_update: 2026-04-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0004054"
 ---
-# Wet van 27 november 1986, houdende regelen inzake het verhandelen van meststoffen en de afvoer van mestoverschotten
+
+# Meststoffenwet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -42,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemeen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,11 +30,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. meststoffen: dierlijke meststoffen, ongeacht hun bestemming, en producten die zijn bestemd om:
 
-- 1°. te worden toegevoegd aan grond of aan een groeimedium en die geheel of gedeeltelijk bestaan uit stoffen, organismen daaronder begrepen, of mengsels van stoffen, die als zodanig kunnen dienen om grond of een groeimedium geschikt of beter geschikt te maken als voedingsbodem voor planten;
+  - 1°. te worden toegevoegd aan grond of aan een groeimedium en die geheel of gedeeltelijk bestaan uit stoffen, organismen daaronder begrepen, of mengsels van stoffen, die als zodanig kunnen dienen om grond of een groeimedium geschikt of beter geschikt te maken als voedingsbodem voor planten;
 
-- 2°. te worden gebruikt als groeimedium;
+  - 2°. te worden gebruikt als groeimedium;
 
-- 3°. te worden gebruikt als voedsel voor planten of delen van planten, voor zover deze producten niet reeds zijn begrepen onder 1° of 2°;
+  - 3°. te worden gebruikt als voedsel voor planten of delen van planten, voor zover deze producten niet reeds zijn begrepen onder 1° of 2°;
 
 - e. verhandelen van meststoffen: afleveren van meststoffen aan handelaren in of gebruikers van meststoffen alsmede het met het oog daarop voorhanden of in voorraad hebben, aanbieden of vervoeren van meststoffen;
 
@@ -114,15 +90,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - dd. dierlijke meststoffen verwerken:
 
-- 1°. behandelen van dierlijke meststoffen tot een eindproduct dat voldoet aan de bij regeling van Onze Minister vast te stellen specificaties, of
+  - 1°. behandelen van dierlijke meststoffen tot een eindproduct dat voldoet aan de bij regeling van Onze Minister vast te stellen specificaties, of
 
-- 2°. exporteren van dierlijke meststoffen;
+  - 2°. exporteren van dierlijke meststoffen;
 
 - ee. mestverwerkingsovereenkomst:
 
-- 1°. bij de overdracht van dierlijke meststoffen van een landbouwer die op zijn bedrijf dierlijke meststoffen produceert aan een verwerker behorend volledig ingevuld krachtens [artikel 34, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2025-12-09&g=2025-12-09), vastgesteld bewijsmiddel, voor zover de daarop vermelde gegevens overeenkomstig de daartoe krachtens artikel 34, onderdeel b, geldende voorschriften tijdig bij Onze Minister zijn ingediend, of
+  - 1°. bij de overdracht van dierlijke meststoffen van een landbouwer die op zijn bedrijf dierlijke meststoffen produceert aan een verwerker behorend volledig ingevuld krachtens [artikel 34, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2025-12-09&g=2025-12-09), vastgesteld bewijsmiddel, voor zover de daarop vermelde gegevens overeenkomstig de daartoe krachtens artikel 34, onderdeel b, geldende voorschriften tijdig bij Onze Minister zijn ingediend, of
 
-- 2°. overeenkomst tussen een landbouwer die op zijn bedrijf dierlijke meststoffen produceert, een andere ondernemer dan een verwerker, en een verwerker;
+  - 2°. overeenkomst tussen een landbouwer die op zijn bedrijf dierlijke meststoffen produceert, een andere ondernemer dan een verwerker, en een verwerker;
 
 - ff. produceren van dierlijke meststoffen: produceren van dierlijke meststoffen door het op een bedrijf houden of anderszins aanwezig hebben van dieren;
 
@@ -136,21 +112,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - kk. melkvee:
 
-- 1°. melk- en kalfkoeien, te weten koeien (bos taurus) die ten minste éénmaal hebben gekalfd en die worden gehouden voor de productie van melk voor menselijke consumptie of verwerking of voor de fokkerij van runderen voor de melkveehouderij, ook als ze:
+  - 1°. melk- en kalfkoeien, te weten koeien (bos taurus) die ten minste éénmaal hebben gekalfd en die worden gehouden voor de productie van melk voor menselijke consumptie of verwerking of voor de fokkerij van runderen voor de melkveehouderij, ook als ze:
 
-- –. drooggezet zijn om een kalf te krijgen, of
+    - –. drooggezet zijn om een kalf te krijgen, of
 
-- –. worden vetgemest en in de mesttijd worden gemolken;
+    - –. worden vetgemest en in de mesttijd worden gemolken;
 
-- 2°. jongvee jonger dan 1 jaar voor de melkveehouderij, waaronder alle kalveren van melk- en kalfkoeien van 0 tot ten minste 14 dagen, en vrouwelijk jongvee jonger dan 1 jaar dat later een kalf krijgt voor de vleesveehouderij of dat bestemd is om een kalf te krijgen voor de vleesveehouderij;
+  - 2°. jongvee jonger dan 1 jaar voor de melkveehouderij, waaronder alle kalveren van melk- en kalfkoeien van 0 tot ten minste 14 dagen, en vrouwelijk jongvee jonger dan 1 jaar dat later een kalf krijgt voor de vleesveehouderij of dat bestemd is om een kalf te krijgen voor de vleesveehouderij;
 
-- 3°. vrouwelijk jongvee van 1 jaar en ouder voor de melkveehouderij en vrouwelijk jongvee van 1 jaar en ouder dat later een kalf krijgt voor de vleesveehouderij of dat bestemd is om een kalf te krijgen voor de vleesveehouderij;
+  - 3°. vrouwelijk jongvee van 1 jaar en ouder voor de melkveehouderij en vrouwelijk jongvee van 1 jaar en ouder dat later een kalf krijgt voor de vleesveehouderij of dat bestemd is om een kalf te krijgen voor de vleesveehouderij;
 
 - ll. fosfaatruimte: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar
 
-- 1°. ingevolge [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2025-12-09&g=2025-12-09), mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en
+  - 1°. ingevolge [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2025-12-09&g=2025-12-09), mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en
 
-- 2°. ingevolge de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=7) en [15 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=15) geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft en dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;
+  - 2°. ingevolge de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=7) en [15 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=15) geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft en dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;
 
 - mm. melkveefosfaatreferentie: een beschikking als bedoeld in [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21a&z=2025-12-09&g=2025-12-09);
 
@@ -166,7 +142,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Voor de toepassing van deze wet wordt veengrond, zand- of lössgrond, en kleigrond aangeduid op bij algemene maatregel van bestuur vastgestelde kaarten.
 
-##### Artikel 1a
+#### Artikel 1a
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld waaraan landbouwgrond moet voldoen om te worden aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.
 
@@ -176,7 +152,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. ook natuurterrein dat anders dan op grond van één van de in [artikel 1, eerste lid, onderdeel w](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2005-07-01&g=2005-07-01), genoemde titels in gebruik is, tot de tot het bedrijf behorende oppervlakte natuurterrein wordt gerekend.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld waaraan landbouwgrond moet voldoen om te worden aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.
 
@@ -186,13 +162,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel 1. Algemeen
 
-##### Artikel 3
+#### Artikel 3
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt geen rekening gehouden met handelingen waarvan, op grond van de omstandigheid dat zij geen wezenlijke verandering van feitelijke verhoudingen hebben ten doel gehad of op grond van andere bepaalde feiten en omstandigheden, moet worden aangenomen dat zij achterwege zouden zijn gebleven, indien daarmee niet de toepassing van deze wet voor het vervolg geheel of ten dele onmogelijk zou worden gemaakt.
 
 2. [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2025-12-09&g=2025-12-09) van deze wet is niet van toepassing op natuurterreinen die de hoofdfunctie natuur hebben.
 
-##### Artikel 4
+#### Artikel 4
 
 Bij of krachtens algemene maatregel van bestuur kan, in het belang van de bevordering van de deugdelijkheid voor het doel waarvoor meststoffen zijn bestemd, alsmede in het belang van de bescherming van de bodem, het verhandelen van meststoffen worden verboden indien deze meststoffen niet voldoen aan de bij of krachtens die maatregel gestelde eisen met betrekking tot:
 
@@ -206,13 +182,13 @@ Deze eisen kunnen verschillend worden vastgesteld afhankelijk van het gebruiksdo
 
 ## Titel 2. Vergunningen
 
-##### Artikel 5
+#### Artikel 5
 
 Het is verboden een product, dat blijkens zijn aanduiding of anderszins kennelijk bestemd is om als meststof te worden gebruikt, te verhandelen, indien dat product niet voldoet aan de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2025-12-09&g=2025-12-09) met betrekking tot meststoffen gestelde eisen.
 
 ### Hoofdstuk III. Regelen in het belang van een doelmatige afvoer van mestoverschotten
 
-##### Artikel 6
+#### Artikel 6
 
 1. Bij of krachtens algemene maatregel van bestuur bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2025-12-09&g=2025-12-09) kan het verhandelen als meststof van producten die geheel of gedeeltelijk uit zuiveringsslib, havenslib, compost of andere soortgelijke voor bemesting bruikbare producten bestaan, zonder vergunning verleend door Onze Minister of door een bij de maatregel aangewezen overheidsorgaan, worden verboden. Daarbij kunnen tevens regels worden gesteld met betrekking tot het verlenen, weigeren of intrekken van een vergunning.
 
@@ -230,17 +206,17 @@ Het is verboden een product, dat blijkens zijn aanduiding of anderszins kennelij
 
 3. De aan een vergunning, als bedoeld in het eerste lid, verbonden voorschriften en de beperkingen waaronder zij is verleend, kunnen worden gewijzigd, aangevuld of ingetrokken.
 
-##### Artikel 6a
+#### Artikel 6a
 
 1. Bij algemene maatregel van bestuur worden regels gesteld omtrent de minimumomvang van de opslagruimte voor dierlijke meststoffen op een bedrijf.
 
 2. Onverminderd het bepaalde bij of krachtens de[Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) kunnen bij de maatregel voorwaarden worden gesteld waaraan een opslagruimte moet voldoen om bij de bepaling van de omvang van de op het bedrijf beschikbare opslagruimte voor dierlijke meststoffen in aanmerking te worden genomen, waartoe kunnen behoren regels omtrent de maximale afstand van de opslagruimte tot de huisvesting waarin dieren worden gehouden.
 
-##### Artikel 7
+#### Artikel 7
 
 Het is verboden in enig kalenderjaar op een bedrijf meststoffen op of in de bodem te brengen.
 
-##### Artikel 7a
+#### Artikel 7a
 
 1. Bij ministeriële regeling kan worden bepaald dat door iedere persoon of rechtspersoon die en ieder samenwerkingsverband van personen of rechtspersonen dat op een bedrijf meststoffen aanvoert of dierlijke meststoffen produceert, gegevens worden verstrekt met betrekking tot de identificatie van:
 
@@ -266,7 +242,7 @@ Het is verboden in enig kalenderjaar op een bedrijf meststoffen op of in de bode
 
 4. De verstrekking van de gegevens geschiedt binnen een bij ministeriële regeling bepaalde termijn bij het in die regeling genoemde orgaan, met gebruikmaking van het daartoe door dat orgaan ter beschikking gestelde formulier, dat overeenkomstig de op het formulier aangegeven wijze volledig en, althans wat de op dat moment bekende gegevens betreft, naar waarheid is ingevuld en door de persoon of rechtspersoon of deelgenoten van het samenwerkingsverband is ondertekend.
 
-##### Artikel 8
+#### Artikel 8
 
 Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2025-12-09&g=2025-12-09) gestelde verbod geldt niet indien de op of in de landbouwgrond gebrachte hoeveelheid meststoffen in het desbetreffende jaar geen van de volgende normen overschrijdt:
 
@@ -276,7 +252,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 - c. de fosfaatgebruiksnorm voor meststoffen.
 
-##### Artikel 9
+#### Artikel 9
 
 1. De gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2025-12-09&g=2025-12-09), is 170 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.
 
@@ -284,7 +260,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 3. Bij of krachtens algemene maatregel van bestuur kan voor de bij of krachtens die maatregel aangegeven gevallen en onder de bij of krachtens die maatregel vastgestelde voorwaarden en beperkingen een lagere gebruiksnorm voor dierlijke meststoffen worden vastgesteld of kan de gebruiksnorm voor dierlijke meststoffen op nul worden gesteld voor zover dit naar het oordeel van Onze Minister noodzakelijk is om waterverontreiniging door stikstof uit meststoffen te verminderen en verdere verontreiniging te voorkomen. Dit is in het bijzonder het geval als bij het achterwege blijven van deze maatregel de hoeveelheid van 11,3 milligram stikstof per liter in zoet oppervlaktewater of van 50 milligram nitraat per liter in grondwater dreigt te worden overschreden of een betekenisvolle bijdrage aan de eutrofiëring van natuurlijke zoetwatermeren, andere zoetwatermassa’s, estuaria, kustwateren of zeewater mag worden verwacht.
 
-##### Artikel 10
+#### Artikel 10
 
 1. De stikstofgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2025-12-09&g=2025-12-09), is een bij ministeriële regeling vastgestelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.
 
@@ -294,7 +270,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 4. De overeenkomstig het derde lid bepaalde hoeveelheid stikstof wordt verlaagd voor zover dit naar het oordeel van Onze Minister noodzakelijk is om waterverontreiniging door stikstof uit meststoffen te verminderen en verdere verontreiniging te voorkomen. Dit is in het bijzonder het geval als bij het achterwege blijven van deze verlaging de hoeveelheid van 11,3 milligram stikstof per liter in zoet oppervlaktewater of van 50 milligram nitraat per liter in grondwater dreigt te worden overschreden of een betekenisvolle bijdrage aan de eutrofiëring van natuurlijke zoetwatermeren, andere zoetwatermassa’s, estuaria, kustwateren of zeewater mag worden verwacht.
 
-##### Artikel 11
+#### Artikel 11
 
 1. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2025-12-09&g=2025-12-09), bedraagt 75 kilogram fosfaat per hectare grasland en 40 kilogram fosfaat per hectare bouwland.
 
@@ -302,7 +278,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 3. Bij ministeriële regeling kunnen voorwaarden of beperkingen worden gesteld aan de toepassing van hogere fosfaatgebruiksnormen voor meststoffen.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Voor de toepassing van [artikel 8, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2025-12-09&g=2025-12-09), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald door bij elkaar op te tellen de in het desbetreffende jaar op het bedrijf geproduceerde, aangevoerde en per saldo uit opslag gekomen hoeveelheden dierlijke meststoffen, en de uitkomst te verminderen met de in dat jaar van het bedrijf afgevoerde hoeveelheid dierlijke meststoffen. De hoeveelheden worden uitgedrukt in kilogrammen stikstof.
 
@@ -314,7 +290,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 5. Bij ministeriële regeling kan worden bepaald dat bij de bepaling van de in het vierde lid bedoelde hoeveelheid meststoffen de hoeveelheid fosfaat in bij de regeling omschreven organische meststoffen slechts voor een bij de regeling bepaald deel in aanmerking wordt genomen. Dit deel kan al naar gelang de aard van de meststoffen verschillend worden vastgesteld.
 
-##### Artikel 13
+#### Artikel 13
 
 1. Tot de voorwaarden, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2025-12-09&g=2025-12-09), en [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2025-12-09&g=2025-12-09), kan behoren een vergunning verleend door Onze Minister of de registratie van een kennisgeving door Onze Minister.
 
@@ -326,163 +302,163 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 5. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verlenen, weigeren of intrekken van een vergunning.
 
-##### Artikel 13a
+#### Artikel 13a
 
 Vervallen
 
-##### Artikel 13b
+#### Artikel 13b
 
 Vervallen
 
-##### Artikel 13c
+#### Artikel 13c
 
 Vervallen
 
-##### Artikel 13d
+#### Artikel 13d
 
 Vervallen
 
-##### Artikel 13e
+#### Artikel 13e
 
 Vervallen
 
-##### Artikel 13f
+#### Artikel 13f
 
 Vervallen
 
-##### Artikel 13g
+#### Artikel 13g
 
 Vervallen
 
-##### Artikel 13h
+#### Artikel 13h
 
 Vervallen
 
-##### Artikel 13i
+#### Artikel 13i
 
 Vervallen
 
-##### Artikel 13j
+#### Artikel 13j
 
 Vervallen
 
-##### Artikel 13k
+#### Artikel 13k
 
 Vervallen
 
-##### Artikel 13l
+#### Artikel 13l
 
 Vervallen
 
-##### Artikel 13m
+#### Artikel 13m
 
 Vervallen
 
-##### Artikel 13n
+#### Artikel 13n
 
 Vervallen
 
-##### Artikel 13o
+#### Artikel 13o
 
 Vervallen
 
-##### Artikel 13p
+#### Artikel 13p
 
 Vervallen
 
-##### Artikel 13q
+#### Artikel 13q
 
 Vervallen
 
-##### Artikel 13r
+#### Artikel 13r
 
 Vervallen
 
-##### Artikel 13s
+#### Artikel 13s
 
 Vervallen
 
-##### Artikel 13t
+#### Artikel 13t
 
 Vervallen
 
-##### Artikel 13u
+#### Artikel 13u
 
 Vervallen
 
-##### Artikel 13v
+#### Artikel 13v
 
 Vervallen
 
-##### Artikel 13w
+#### Artikel 13w
 
 Vervallen
 
-##### Artikel 13x
+#### Artikel 13x
 
 Vervallen
 
-##### Artikel 13y
+#### Artikel 13y
 
 Vervallen
 
-##### Artikel 13z
+#### Artikel 13z
 
 Vervallen
 
-##### Artikel 13aa
+#### Artikel 13aa
 
 Vervallen
 
-##### Artikel 13ab
+#### Artikel 13ab
 
 Vervallen
 
-##### Artikel 13ac
+#### Artikel 13ac
 
 Vervallen
 
-##### Artikel 13aca
+#### Artikel 13aca
 
 Vervallen
 
-##### Artikel 13ad
+#### Artikel 13ad
 
 Vervallen
 
-##### Artikel 13ae
+#### Artikel 13ae
 
 Vervallen
 
-##### Artikel 13af
+#### Artikel 13af
 
 Vervallen
 
-##### Artikel 13ag
+#### Artikel 13ag
 
 Vervallen
 
-##### Artikel 13ah
+#### Artikel 13ah
 
 Vervallen
 
-##### Artikel 13ai
+#### Artikel 13ai
 
 Vervallen
 
-##### Artikel 13aj
+#### Artikel 13aj
 
 Vervallen
 
-##### Artikel 13ak
+#### Artikel 13ak
 
 Vervallen
 
-##### Artikel 13al
+#### Artikel 13al
 
 Vervallen
 
-##### Artikel 13am
+#### Artikel 13am
 
 Vervallen
 
@@ -490,7 +466,7 @@ Vervallen
 
 ## Titel 1. Forfaitaire mineralenheffingen
 
-##### Artikel 14
+#### Artikel 14
 
 1. Degene die dierlijke meststoffen produceert of verhandelt kan steeds verantwoorden dat de op het eigen bedrijf geproduceerde of aangevoerde dierlijke meststoffen of de op de eigen onderneming aangevoerde dierlijke meststoffen zijn afgevoerd.
 
@@ -500,19 +476,19 @@ Vervallen
 
 4. Voor de toepassing van het eerste lid wordt op de geproduceerde of aangevoerde hoeveelheid dierlijke meststoffen in mindering gebracht de hoeveelheid dierlijke meststoffen waarvan aannemelijk wordt gemaakt dat deze op het eigen bedrijf of in het kader van de eigen onderneming is gebruikt of opgeslagen.
 
-##### Artikel 14a
+#### Artikel 14a
 
 Vervallen
 
-##### Artikel 67
+#### Artikel 67
 
 Vervallen
 
-##### Artikel 68
+#### Artikel 68
 
 Vervallen
 
-##### Artikel 15
+#### Artikel 15
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van een doelmatige afvoer van mestoverschotten of de bescherming en verbetering van het milieu, regels worden gesteld met betrekking tot het in voorraad hebben, verwerken, vervoeren en verhandelen van dierlijke meststoffen.
 
@@ -538,17 +514,17 @@ Vervallen
 
 5. Bij algemene maatregel van bestuur kan worden bepaald dat het is verboden dierlijke meststoffen in voorraad te hebben, te verwerken, te vervoeren of te verhandelen zonder voorafgaande registratie bij Onze Minister. Daarbij kunnen regels worden gesteld over de weigering, schorsing of schrapping van een registratie. Die regels kunnen inhouden dat een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) en dat daaraan voorafgaand het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) kan worden gevraagd.
 
-##### Artikel 16
+#### Artikel 16
 
 1. Bij algemene maatregel van bestuur worden regels gesteld omtrent de minimumomvang van de opslagruimte voor dierlijke meststoffen op een bedrijf.
 
 2. Onverminderd het bepaalde bij of krachtens de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) kunnen bij de maatregel voorwaarden worden gesteld waaraan een opslagruimte moet voldoen om bij de bepaling van de omvang van de op het bedrijf beschikbare opslagruimte voor dierlijke meststoffen in aanmerking te worden genomen, waartoe kunnen behoren regels omtrent de maximale afstand van de opslagruimte tot de huisvesting waarin dieren worden gehouden.
 
-##### Artikel 17
+#### Artikel 17
 
 De toepassing van de in de [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2025-12-09&g=2025-12-09) bedoelde regels kan worden beperkt tot bepaalde, bij of krachtens de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2025-12-09&g=2025-12-09) bedoelde maatregel aangewezen gebieden, waarbij deze regelen per gebied en per categorie van bedrijven alsmede dierlijke meststoffensoort verschillend kunnen worden vastgesteld.
 
-##### Artikel 17a
+#### Artikel 17a
 
 De stikstofbinding door het gewas, bedoeld in [artikel 16, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&titeldeel=1&artikel=16&z=2005-07-01&g=2005-07-01), is per hectare van de gemiddeld in het desbetreffende kalenderjaar tot het bedrijf behorende oppervlakte landbouwgrond:
 
@@ -560,7 +536,7 @@ De stikstofbinding door het gewas, bedoeld in [artikel 16, onderdeel a, onder 3�
 
 - –. 160 kilogram stikstof voor bouwland beteeld met luzerne.
 
-##### Artikel 18
+#### Artikel 18
 
 Voor de toepassing van dit hoofdstuk:
 
@@ -568,13 +544,13 @@ Voor de toepassing van dit hoofdstuk:
 
 - b. worden de aantallen kippen en kalkoenen, onderscheiden naar diercategorie, uitgedrukt in pluimvee-eenheden overeenkomstig de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II&z=2025-12-09&g=2025-12-09) daarvoor opgenomen normen.
 
-##### Artikel 19
+#### Artikel 19
 
 1. Het is een landbouwer verboden op zijn bedrijf gemiddeld in een kalenderjaar een groter aantal varkens te houden dan het op het bedrijf rustende varkensrecht.
 
 2. Het is verboden anders dan op een bedrijf op enig moment een groter aantal varkens te houden dan overeenkomt met 3 varkenseenheden.
 
-##### Artikel 20
+#### Artikel 20
 
 1. Het is een landbouwer verboden op zijn bedrijf gemiddeld in een kalenderjaar een groter aantal kippen en kalkoenen te houden dan het op het bedrijf rustende pluimveerecht.
 
@@ -582,7 +558,7 @@ Voor de toepassing van dit hoofdstuk:
 
 3. Het is verboden anders dan op een bedrijf op enig moment een groter aantal kippen en kalkoenen te houden dan overeenkomt met 250 pluimvee-eenheden.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Het is een landbouwer verboden op zijn bedrijf in enig kalenderjaar fosfaat met melkvee te produceren.
 
@@ -596,15 +572,15 @@ Voor de toepassing van dit hoofdstuk:
 
 - d. 100%, verminderd met het percentage, bedoeld in [artikel 33a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33a&z=2025-12-09&g=2025-12-09), van het melkveefosfaatoverschot:
 
-- 1°. laat verwerken,
+  - 1°. laat verwerken,
 
-- 2°. voor zover de landbouwer behoort tot een bij regeling van Onze Minister aan te wijzen categorie landbouwers, overdraagt of laat overdragen aan een afnemer die behoort tot een bij regeling van Onze Minister aan te wijzen categorie afnemers,
+  - 2°. voor zover de landbouwer behoort tot een bij regeling van Onze Minister aan te wijzen categorie landbouwers, overdraagt of laat overdragen aan een afnemer die behoort tot een bij regeling van Onze Minister aan te wijzen categorie afnemers,
 
-- 3°. brengt op of in de in gebruik zijnde landbouwgrond die is gelegen in Duitsland of België op een bij regeling van Onze Minister vast te stellen afstand van de Nederlandse grens, voor zover is voldaan aan bij regeling van Onze Minister te stellen voorwaarden,
+  - 3°. brengt op of in de in gebruik zijnde landbouwgrond die is gelegen in Duitsland of België op een bij regeling van Onze Minister vast te stellen afstand van de Nederlandse grens, voor zover is voldaan aan bij regeling van Onze Minister te stellen voorwaarden,
 
-- 4°. geheel en rechtstreeks, blijkens een schriftelijke en vooraf gesloten overeenkomst, onder bij regeling van Onze Minister te stellen voorwaarden overdraagt of laat overdragen aan een hemelsbreed hoogstens twintig kilometer van de productielocatie verwijderd liggende locatie van bedrijven indien de overgedragen dierlijke meststoffen op landbouwgrond aangewend worden, of
+  - 4°. geheel en rechtstreeks, blijkens een schriftelijke en vooraf gesloten overeenkomst, onder bij regeling van Onze Minister te stellen voorwaarden overdraagt of laat overdragen aan een hemelsbreed hoogstens twintig kilometer van de productielocatie verwijderd liggende locatie van bedrijven indien de overgedragen dierlijke meststoffen op landbouwgrond aangewend worden, of
 
-- 5°. produceert met dieren waarvan ten minste 90% behoort tot een diercategorie die bij algemene maatregel van bestuur kan worden aangewezen of is gehuisvest in een huisvestingssysteem dat bij die maatregel kan worden aangewezen, omdat hierbij overwegend meststoffen worden geproduceerd met een hoog gehalte aan organische stof in de vorm van stro en die voldoen aan regels die bij of krachtens algemene maatregel van bestuur kunnen worden gesteld.
+  - 5°. produceert met dieren waarvan ten minste 90% behoort tot een diercategorie die bij algemene maatregel van bestuur kan worden aangewezen of is gehuisvest in een huisvestingssysteem dat bij die maatregel kan worden aangewezen, omdat hierbij overwegend meststoffen worden geproduceerd met een hoog gehalte aan organische stof in de vorm van stro en die voldoen aan regels die bij of krachtens algemene maatregel van bestuur kunnen worden gesteld.
 
 3. Het melkveefosfaatoverschot dat in enig jaar voor mestverwerking als bedoeld in het tweede lid, onderdeel d, in aanmerking komt is het melkveefosfaatoverschot dat in het jaar 2014 is ontstaan, vermeerderd met:
 
@@ -634,11 +610,11 @@ Voor de toepassing van dit hoofdstuk:
 
 - b. de productie van dierlijke meststoffen door melkvee op het bedrijf in kilogrammen fosfaat in 2014 minimaal vijf procent lager is door:
 
-- 1°. dierziekten of ernstige diergezondheidsproblemen,
+  - 1°. dierziekten of ernstige diergezondheidsproblemen,
 
-- 2°. ziekte of overlijden van een persoon van het samenwerkingsverband van de landbouwer of een bloed- of aanverwant in de eerste graad, of
+  - 2°. ziekte of overlijden van een persoon van het samenwerkingsverband van de landbouwer of een bloed- of aanverwant in de eerste graad, of
 
-- 3°. vernieling van de stal waar het melkvee werd gehouden.
+  - 3°. vernieling van de stal waar het melkvee werd gehouden.
 
 10. Een melding als bedoeld in het vierde en achtste lid wordt ingediend met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld.
 
@@ -648,7 +624,7 @@ Voor de toepassing van dit hoofdstuk:
 
 ## Titel 2. Verfijnde mineralenheffingen
 
-##### Artikel 22
+#### Artikel 22
 
 1. Onze Minister kan ten aanzien van een bedrijf waarvan het varkensrecht of het pluimveerecht is overschreden bepalen, dat het op enig moment gehouden aantal varkens en het op enig moment gehouden aantal kippen en kalkoenen de door hem vastgestelde aantallen niet mogen overschrijden.
 
@@ -658,7 +634,7 @@ Voor de toepassing van dit hoofdstuk:
 
 4. De in het eerste lid bedoelde bevoegdheid kan ten aanzien van een bedrijf voor een aaneengesloten periode van ten hoogste drie jaar worden uitgeoefend. De periode kan telkens worden verlengd tot drie jaar te rekenen vanaf het tijdstip waarop een overtreding van het verbod, bedoeld in het derde lid, wordt vastgesteld.
 
-##### Artikel 23
+#### Artikel 23
 
 1. Het op het bedrijf rustende varkensrecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2025-12-09&g=2025-12-09), komt overeen met het varkensrecht zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van de [Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542).
 
@@ -678,7 +654,7 @@ Voor de toepassing van dit hoofdstuk:
 
 9. Ten einde onbillijkheden van overwegende aard te voorkomen verhoogt Onze Minister het op het bedrijf rustende fosfaatrecht met ingang van het tijdstip waarop het verbod, bedoeld in [artikel 21b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21b&z=2025-12-09&g=2025-12-09), in werking treedt, tot een bij algemene maatregel van bestuur bepaalde omvang, indien kan worden vastgesteld dat het bedrijf behoort tot een bij algemene maatregel van bestuur omschreven categorie van bedrijven. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld voor het verkrijgen van een verhoging als bedoeld in de eerste volzin.
 
-##### Artikel 24
+#### Artikel 24
 
 1. Het overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=3&artikel=23&z=2025-12-09&g=2025-12-09) bepaalde productierecht wordt gecorrigeerd, indien voorafgaand aan het in dat artikel bedoelde tijdstip, in hetzelfde kalenderjaar met betrekking tot het bedrijf een registratie heeft plaatsgevonden van een kennisgeving van overgang van het varkensrecht of pluimveerecht, of een gedeelte daarvan, maar de omvang van de verkleining, dan wel vergroting van het desbetreffende productierecht werd beperkt ingevolge [artikel 18, zesde lid, van de Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542&artikel=18), onderscheidenlijk artikel 58q, vierde lid, van de Meststoffenwet, zoals deze artikelen luidden op het tijdstip van de registratie.
 
@@ -686,11 +662,11 @@ Voor de toepassing van dit hoofdstuk:
 
 3. Voor de toepassing van het tweede lid ten aanzien van het pluimveerecht komt 0,5 kilogram fosfaat overeen met 1 pluimvee-eenheid.
 
-##### Artikel 25
+#### Artikel 25
 
 Een productierecht kan, onder welke titel dan ook, overgaan naar een ander bedrijf, overeenkomstig het bepaalde in deze paragraaf en [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2025-12-09&g=2025-12-09).
 
-##### Artikel 25a
+#### Artikel 25a
 
 De stikstofbinding door het gewas, bedoeld in [artikel 24, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&titeldeel=2&artikel=24&z=2005-07-01&g=2005-07-01), is per hectare van de gemiddeld in het desbetreffende kalenderjaar tot het bedrijf behorende oppervlakte landbouwgrond:
 
@@ -702,11 +678,11 @@ De stikstofbinding door het gewas, bedoeld in [artikel 24, onderdeel a, onder 2�
 
 - –. 160 kilogram stikstof voor bouwland beteeld met luzerne.
 
-##### Artikel 25b
+#### Artikel 25b
 
 Vervallen
 
-##### Artikel 26
+#### Artikel 26
 
 1. Een varkensrecht of pluimveerecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen in het ene concentratiegebied kan niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen in het andere concentratiegebied.
 
@@ -728,7 +704,7 @@ Vervallen
 
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van het zevende lid.
 
-##### Artikel 27
+#### Artikel 27
 
 1. De belanghebbende naar wiens bedrijf het productierecht, of gedeelte daarvan, moet overgaan en de belanghebbende van wiens bedrijf het productierecht, of gedeelte daarvan, afkomstig is, geven van de overgang kennis aan Onze Minister.
 
@@ -738,7 +714,7 @@ Vervallen
 
 4. Indien in een kalenderjaar een volledige en door beide partijen ondertekende kennisgeving is gedaan en Onze Minister die kennisgeving in het daaropvolgende jaar registreert, treden de rechtsgevolgen van die registratie met terugwerkende kracht in vanaf het tijdstip waarop de volledige en door beide partijen ondertekende kennisgeving is gedaan. Voor de toepassing van deze titel wordt in dat geval onder ‘tijdstip van registratie van de kennisgeving’ of ‘jaar waarin de kennisgeving wordt geregistreerd’ verstaan het tijdstip waarop respectievelijk jaar waarin de volledige en door beide partijen ondertekende kennisgeving is gedaan.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Op het tijdstip van registratie van de kennisgeving, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2025-12-09&g=2025-12-09), vindt een verkleining plaats van het varkensrecht, pluimveerecht of fosfaatrecht van het bedrijf waarvan het desbetreffende productierecht, of gedeelte daarvan, afkomstig is, en vindt een vergroting plaats van het varkensrecht, het pluimveerecht of fosfaatrecht van het bedrijf waarnaar het desbetreffende productierecht, of gedeelte daarvan, overgaat.
 
@@ -748,7 +724,7 @@ Vervallen
 
 ## Titel 2. Bestuurlijke boetes
 
-##### Artikel 29
+#### Artikel 29
 
 1. De registratie, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2025-12-09&g=2025-12-09), vindt niet plaats indien:
 
@@ -764,7 +740,7 @@ Vervallen
 
 2. Indien pas na registratie blijkt dat niet aan de in het eerste lid genoemde voorwaarden is voldaan, wordt de registratie door Onze Minister ongedaan gemaakt. Met terugwerkende kracht tot het tijdstip van registratie van de kennisgeving vervallen de rechtsgevolgen van die registratie.
 
-##### Artikel 30
+#### Artikel 30
 
 1. In afwijking van [artikel 228 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=228) kan op het productierecht geen pandrecht worden gevestigd.
 
@@ -778,7 +754,7 @@ Vervallen
 
 - c. de periode gedurende welke Onze Minister de kennisgeving niet in behandeling neemt.
 
-##### Artikel 31
+#### Artikel 31
 
 1. De belanghebbende kan bij Onze Minister een kennisgeving doen van het vervallen of het gedeeltelijk vervallen van het productierecht.
 
@@ -788,7 +764,7 @@ Vervallen
 
 4. Indien in een kalenderjaar een volledige en ondertekende kennisgeving is gedaan en Onze Minister die kennisgeving in het daaropvolgende jaar registreert, treden de rechtsgevolgen van die registratie, waaronder de rechtsgevolgen, bedoeld in het tweede lid, met terugwerkende kracht in vanaf het tijdstip waarop de volledige en ondertekende kennisgeving is gedaan.
 
-##### Artikel 32
+#### Artikel 32
 
 1. De vergroting van het varkensrecht, onderscheidenlijk pluimveerecht, wordt, in afwijking van [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=28&z=2025-12-09&g=2025-12-09), beperkt tot een bij algemene maatregel van bestuur vast te stellen percentage van het aantal varkenseenheden, onderscheidenlijk pluimvee-eenheden, waarop de kennisgeving, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2025-12-09&g=2025-12-09), betrekking heeft, zijnde ten minste 70 procent.
 
@@ -810,7 +786,7 @@ Vervallen
 
 7. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp ervan aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan voor dit ontwerp.
 
-##### Artikel 33
+#### Artikel 33
 
 1. Ingeval van een bedrijfsoverdracht wordt het op het bedrijf rustende productierecht op het moment van de bedrijfsoverdracht verlaagd met een bij algemene maatregel van bestuur vast te stellen percentage, zijnde ten hoogste 30 procent.
 
@@ -844,9 +820,9 @@ Vervallen
 
 - g. de wijziging van de landbouwer als bedoeld in het tweede lid, aanhef en
 
-- i. onder b of d, waarbij de directe of indirecte overwegende zeggenschap overgaat naar een persoon als bedoeld onder a of blijft bij de persoon die de overwegende zeggenschap had;
+  - i. onder b of d, waarbij de directe of indirecte overwegende zeggenschap overgaat naar een persoon als bedoeld onder a of blijft bij de persoon die de overwegende zeggenschap had;
 
-- ii. dit onderdeel is nog niet in werking getreden.
+  - ii. dit onderdeel is nog niet in werking getreden.
 
 6. Bij ministeriële regeling worden regels gesteld over de wijze waarop de kennisgeving, bedoeld in het derde lid, wordt gedaan.
 
@@ -856,7 +832,7 @@ Vervallen
 
 9. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp ervan aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan voor dit ontwerp.
 
-##### Artikel 34
+#### Artikel 34
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het opmaken, bewaren, overleggen en afdragen van gegevens door natuurlijke personen, rechtspersonen of samenwerkingsverbanden van natuurlijke personen of rechtspersonen die meststoffen produceren, verhandelen, gebruiken of verwerken. Deze regels kunnen betrekking hebben op:
 
@@ -874,7 +850,7 @@ Vervallen
 
 - b. Onze Minister onder voorwaarden ontheffing kan verlenen van het bepaalde op grond van onderdeel a.
 
-##### Artikel 35
+#### Artikel 35
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de bepaling van:
 
@@ -906,7 +882,7 @@ Deze waarden kunnen verschillend worden vastgesteld al naar gelang, voor zover v
 
 5. Bij of krachtens de algemene maatregel van bestuur kunnen regels worden gesteld over de wijze van bepaling van de hoeveelheid en de samenstelling van het diervoeder en de melk, bedoeld in het tweede lid, onderdelen b en c.
 
-##### Artikel 36
+#### Artikel 36
 
 1. De bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2025-12-09&g=2025-12-09), gestelde regels kunnen mede betrekking hebben op de bevoegdheid tot het doen van vaststellingen ten behoeve van de bepaling van de in dat artikel bedoelde hoeveelheden, hoedanigheden en oppervlakten en op de voor die vaststellingen te gebruiken apparatuur.
 
@@ -920,7 +896,7 @@ Deze waarden kunnen verschillend worden vastgesteld al naar gelang, voor zover v
 
 4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verlenen, weigeren of intrekken van een erkenning.
 
-##### Artikel 37
+#### Artikel 37
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het opmaken, bewaren, overleggen en afdragen van gegevens door degenen die:
 
@@ -928,7 +904,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 - b. diervoeder of dieren, als bedoeld in [artikel 35, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2025-12-09&g=2025-12-09), op bedrijven afleveren, dan wel dieren, melk en andere dierlijke producten, als bedoeld in [artikel 35, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2025-12-09&g=2025-12-09), van bedrijven afnemen of be- of verwerken.
 
-##### Artikel 38
+#### Artikel 38
 
 1. Bij ministeriële regeling kan vrijstelling worden verleend van het bij of krachtens deze wet bepaalde.
 
@@ -936,7 +912,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 3. Aan de vrijstelling of de ontheffing kunnen voorwaarden worden verbonden.
 
-##### Artikel 38a
+#### Artikel 38a
 
 1. Indien geen afbreuk wordt gedaan aan de naleving van een verplichting op grond van een voor Nederland verbindend verdrag of besluit van een volkenrechtelijke organisatie wordt, onder bij ministeriële regeling te stellen voorwaarden, vrijstelling of ontheffing verleend van het verbod, bedoeld in [artikel 21b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21b&z=2025-12-09&g=2025-12-09), ter bevordering van de grondgebondenheid of het stimuleren van jonge landbouwers in Nederland.
 
@@ -944,7 +920,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 3. De ministeriële regeling, bedoeld in het eerste lid, wordt niet eerder vastgesteld dan vier weken nadat het ontwerp ervan aan beide kamers der Staten Generaal is overgelegd.
 
-##### Artikel 39
+#### Artikel 39
 
 1. Bij ministeriële regeling kunnen regels worden gesteld omtrent het indienen van aanvragen voor vergunningen, ontheffingen en erkenningen, die krachtens deze wet kunnen worden verleend, en het indienen van kennisgevingen, die ingevolge bij of krachtens deze wet gestelde regels moeten worden geregistreerd.
 
@@ -954,7 +930,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 - b. de kosten van het onderzoek voortvloeiende uit de aanvraag geheel of gedeeltelijk ten laste van de aanvrager wordt gebracht.
 
-##### Artikel 40
+#### Artikel 40
 
 1. Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
 
@@ -962,21 +938,21 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 ## Titel 4. Wijze van heffing, invordering en betaling
 
-##### Artikel 41
+#### Artikel 41
 
 Vervallen
 
-##### Artikel 42
+#### Artikel 42
 
 Vervallen
 
 ## Titel 5. Verrekening en subsidieverlening
 
-##### Artikel 42a
+#### Artikel 42a
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 1. [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van:
 
@@ -992,53 +968,53 @@ Vervallen
 
 3. Onze Minister geeft toepassing aan de in het eerste lid genoemde afdeling.
 
-##### Artikel 44
+#### Artikel 44
 
 De voordracht voor algemene maatregelen van bestuur krachtens deze wet wordt Ons gedaan door Onze Minister of, voor zover deze maatregelen worden getroffen in het belang van de bescherming van de bodem, door Onze Minister en Onze Minister van Infrastructuur en Milieu te zamen.
 
 ## Titel 6. Overige bepalingen
 
-##### Artikel 45
+#### Artikel 45
 
 De ministeriële regelingen, bedoeld in [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2025-12-09&g=2025-12-09) en in [artikel 37a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=37a&z=2025-12-09&g=2025-12-09), en krachtens [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2025-12-09&g=2025-12-09), vastgestelde regelingen houdende vrijstelling van het bij of krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2025-12-09&g=2025-12-09) bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu.
 
-##### Artikel 46
+#### Artikel 46
 
 Onze Minister zendt in 2007 en vervolgens telkens na ten hoogste vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-##### Artikel 47
+#### Artikel 47
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-##### Artikel 48
+#### Artikel 48
 
 Onze Minister kan voorschriften geven betreffende de monsterneming, de verpakking, de conservering, de verzegeling, de verzending en het onderzoek van de in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) bedoelde monsters.
 
-##### Artikel 49
+#### Artikel 49
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-##### Artikel 50
+#### Artikel 50
 
 Vervallen
 
-##### Artikel 51
+#### Artikel 51
 
 Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2025-12-09&g=2025-12-09), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2025-12-09&g=2025-12-09), [11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2025-12-09&g=2025-12-09), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2025-12-09&g=2025-12-09), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2025-12-09&g=2025-12-09), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2025-12-09&g=2025-12-09), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21&z=2025-12-09&g=2025-12-09), [33a, eerste, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33a&z=2025-12-09&g=2025-12-09), [33b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33b&z=2025-12-09&g=2025-12-09), [33d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33d&z=2025-12-09&g=2025-12-09)[34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2025-12-09&g=2025-12-09), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2025-12-09&g=2025-12-09), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2025-12-09&g=2025-12-09), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2025-12-09&g=2025-12-09), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2025-12-09&g=2025-12-09), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2025-12-09&g=2025-12-09).
 
-##### Artikel 52
+#### Artikel 52
 
 Vervallen
 
-##### Artikel 53
+#### Artikel 53
 
 Vervallen
 
 ## Titel 7. Tijdelijke uitzondering voor fosfaat in andere meststoffen
 
-##### Artikel 54
+#### Artikel 54
 
 Vervallen
 
@@ -1046,11 +1022,11 @@ Vervallen
 
 ## Titel 1. Algemeen
 
-##### Artikel 55
+#### Artikel 55
 
 Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, wordt zij aan het openbaar ministerie voorgelegd.
 
-##### Artikel 55a
+#### Artikel 55a
 
 1. Met ingang van het tijdstip van inwerkingtreding van de [Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542) wordt voor de toepassing van [artikel 55, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=55&z=2005-07-01&g=2005-07-01) uitbreiding van de productie van dierlijke meststoffen verstaan: een grotere productie van dierlijke meststoffen dan het mestproductierecht dat is verminderd met de hoeveelheid fosfaat die wordt bepaald door het overeenkomstig [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&z=2005-07-01&g=2005-07-01) van de Wet herstructurering varkenshouderij bepaalde varkensrecht achtereenvolgens te vermenigvuldigen met 100/90 en 7,4 kilogram fosfaat, en het product te vermeerderen met de latente ruimte. De vermindering geschiedt eerst ten aanzien van het de dag voorafgaand aan het tijdstip van inwerkingtreding van [artikel 15 van de Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542&artikel=15) geldende niet-gebonden mestproductierecht voor varkens en kippen, en vervolgens ten aanzien van het op die dag geldende nietgebonden recht voor andere diersoorten dan varkens en kippen.
 
@@ -1066,11 +1042,11 @@ Geen vermindering geschiedt ten aanzien van het grondgebonden mestproductierecht
 
 6. De aangifte overschotheffing en de correcties daarop worden voor de toepassing van het vierde en het vijfde lid slechts in aanmerking genomen indien deze vóór 10 juli 1997 schriftelijk ter kennis van het Bureau Heffingen zijn gebracht.
 
-##### Artikel 56
+#### Artikel 56
 
 Vervallen
 
-##### Artikel 57
+#### Artikel 57
 
 1. Ingeval van overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2025-12-09&g=2025-12-09) bedraagt de bestuurlijke boete:
 
@@ -1084,7 +1060,7 @@ Vervallen
 
 3. Indien zowel de gebruiksnorm voor dierlijke meststoffen als de fosfaatgebruiksnorm is overschreden, geldt, in zoverre in afwijking van het eerste lid, onderdeel c, een tarief van € 5,50 voor de kilogrammen fosfaat overeenkomend met het aantal kilogrammen stikstof waarmee de gebruiksnorm voor dierlijke meststoffen is overschreden.
 
-##### Artikel 58
+#### Artikel 58
 
 1. Ingeval van overtreding van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2025-12-09&g=2025-12-09), bedraagt de bestuurlijke boete € 11 per kilogram fosfaat en € 7 per kilogram stikstof waarvan de afvoer niet kan worden verantwoord.
 
@@ -1094,11 +1070,11 @@ Vervallen
 
 #### § 1. Begripsbepalingen en andere algemene bepalingen
 
-##### Artikel 58a
+#### Artikel 58a
 
 In geval van overtreding van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21&z=2025-12-09&g=2025-12-09), bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer de beperking als bedoeld in artikel 21, derde lid, niet in acht heeft genomen. De boete wordt vermeerderd met € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 21, tweede lid, onderdeel d, voor zover het kilogrammen fosfaat betreft die niet reeds als gevolg van de eerste volzin voor de bepaling van de boeteomvang in aanmerking zijn genomen.
 
-##### Artikel 58b
+#### Artikel 58b
 
 1. Voor de toepassing van deze titel en de daarop berustende bepalingen:
 
@@ -1116,11 +1092,11 @@ In geval van overtreding van [artikel 21, eerste lid](https://wetten.overheid.nl
 
 #### § 2. Uitbreidingsverboden voor kippen en kalkoenen
 
-##### Artikel 58c
+#### Artikel 58c
 
 Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierlijke meststoffen afkomstig van kippen en kalkoenen te produceren dan het voor dat jaar voor het bedrijf geldende pluimveerecht.
 
-##### Artikel 58d
+#### Artikel 58d
 
 1. Het in [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=2&artikel=58c&z=2005-07-01&g=2005-07-01) gestelde verbod is niet van toepassing indien op het bedrijf op geen enkel moment een groter aantal kippen en kalkoenen wordt gehouden dan overeenkomt met 250 legkippen.
 
@@ -1128,7 +1104,7 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 3. Voor de bepaling van het aantal dieren dat overeenkomt met 1 legkip wordt de voor de desbetreffende diersoort en diercategorie in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=A&z=2005-07-01&g=2005-07-01) bij deze wet opgenomen norm voor de jaarlijkse fosfaatproductie per dier vermenigvuldigd met 2.
 
-##### Artikel 58e
+#### Artikel 58e
 
 1. Onze Minister kan ten aanzien van een bedrijf waarvan het pluimveerecht is overschreden bepalen dat het op enig moment op het bedrijf gehouden aantal kippen en kalkoenen het door hem vastgestelde aantal niet mag overschrijden.
 
@@ -1138,7 +1114,7 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 4. De in het eerste lid bedoelde bevoegdheid kan met betrekking tot een bedrijf voor een aaneengesloten periode van ten hoogste drie jaar worden uitgeoefend. Deze periode kan telkens worden verlengd met eenzelfde periode te rekenen vanaf het tijdstip waarop wordt geconstateerd dat op het bedrijf een groter aantal kippen en kalkoenen wordt gehouden dan het door Onze Minister bepaalde aantal.
 
-##### Artikel 58f
+#### Artikel 58f
 
 1. Het is verboden de productie van dierlijke meststoffen afkomstig van kippen of kalkoenen te verplaatsen naar een andere locatie van het bedrijf.
 
@@ -1146,7 +1122,7 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 #### § 3. Omvang van het pluimveerecht op het tijdstip van inwerkingtreding van de wet
 
-##### Artikel 58g
+#### Artikel 58g
 
 1. De omvang van het voor een bedrijf geldende pluimveerecht op het tijdstip van inwerkingtreding van [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=2&artikel=58c&z=2005-07-01&g=2005-07-01) wordt bepaald overeenkomstig deze paragraaf.
 
@@ -1158,7 +1134,7 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 - b. de mestproductie afkomstig van kippen en kalkoenen is in 1995, 1996 of 1997 ten minste 125 kilogram fosfaat en ten minste 5% van het met betrekking tot dat jaar geldende mestproductierecht.
 
-##### Artikel 58h
+#### Artikel 58h
 
 1. Het pluimveerecht komt overeen met de in het referentiejaar op het bedrijf geproduceerde hoeveelheid dierlijke meststoffen afkomstig van kippen en kalkoenen.
 
@@ -1170,7 +1146,7 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 - –. vermeerderd met het verschil tussen enerzijds de som van het grondgebonden mestproductierecht en het niet-gebonden mestproductierecht voor varkens en kippen geldend voor dat jaar en anderzijds de in dat jaar geproduceerde hoeveelheid dierlijke meststoffen afkomstig van varkens en kippen.
 
-##### Artikel 58i
+#### Artikel 58i
 
 1. Het pluimveerecht van een door samenvoeging van bedrijven ontstaan bedrijf komt, indien de registratie van de kennisgeving van verplaatsing met betrekking tot de samenvoeging in het referentiejaar heeft plaatsgevonden, overeen met de som van de in dat jaar op de oorspronkelijke bedrijven en het na samenvoeging ontstane bedrijf geproduceerde hoeveelheden dierlijke meststoffen afkomstig van kippen en kalkoenen, zoals deze hoeveelheden over het gehele jaar zijn gemiddeld.
 
@@ -1180,23 +1156,23 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 4. Indien het voor een van de oorspronkelijke bedrijven geldende niet-gebonden mestproductierecht tengevolge van de registratie van een of meer vóór 6 november 1998 gedane kennisgevingen van verplaatsing en in aanmerking genomen de gevolgen voor het niet-gebonden mestproductierecht van wijzigingen van de tot het bedrijf behorende oppervlakte landbouwgrond, na het referentiejaar per saldo is vergroot dan wel zou zijn vergroot indien geen samenvoeging had plaatsgevonden, wordt voor de toepassing van dit artikel de hoeveelheid dierlijke meststoffen die op het bedrijf is geproduceerd verhoogd met de door de belanghebbende bij wijze van melding aangegeven hoeveelheid fosfaat, die ten hoogste overeenkomt met de vergroting van het niet-gebonden mestproductierecht van het desbetreffende bedrijf.
 
-##### Artikel 58j
+#### Artikel 58j
 
 1. Indien het voor het bedrijf geldende niet-gebonden mestproductierecht, tengevolge van de registratie van een of meer vóór 6 november 1998 gedane kennisgevingen van verplaatsing en in aanmerking genomen de gevolgen voor het niet-gebonden mestproductierecht van wijzigingen van de tot het bedrijf behorende oppervlakte landbouwgrond, per saldo is vergroot nà het referentiejaar of, indien het bedrijf door samenvoeging is ontstaan, nà de samenvoeging, wordt het overeenkomstig [artikel 58h](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58h&z=2005-07-01&g=2005-07-01) of [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58i&z=2005-07-01&g=2005-07-01)bepaalde pluimveerecht vergroot met de door de belanghebbende bij wijze van melding aangegeven hoeveelheid fosfaat, die ten hoogste overeenkomt met de vergroting van het niet-gebonden mestproductierecht.
 
 2. Voor de toepassing van dit artikel wordt onder kennisgeving van verplaatsing niet begrepen een kennisgeving van verplaatsing met betrekking tot een samenvoeging van bedrijven.
 
-##### Artikel 58k
+#### Artikel 58k
 
 1. De omvang van het pluimveerecht van een daartoe aangemeld bedrijf wordt, in afwijking van de [artikelen 58h](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58h&z=2005-07-01&g=2005-07-01), [58i](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58i&z=2005-07-01&g=2005-07-01) en [58j](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58j&z=2005-07-01&g=2005-07-01), bepaald overeenkomstig bij algemene maatregel van bestuur te stellen regels indien:
 
 - a. in de periode van 1 januari 1994 tot en met 5 november 1998 ten behoeve van een vergroting van het aantal op het bedrijf te houden kippen of kalkoenen met ten minste 10% ten opzichte van het aantal dat zou kunnen worden gehouden indien het pluimveerecht zou worden bepaald overeenkomstig [artikel 58h](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58h&z=2005-07-01&g=2005-07-01) dan wel in voorkomend geval [artikel 58i](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58i&z=2005-07-01&g=2005-07-01),
 
-- –. door het bevoegd gezag een milieuvergunning is verleend,
+  - –. door het bevoegd gezag een milieuvergunning is verleend,
 
-- –. bij het bevoegd gezag een milieuvergunning en een bouwvergunning als bedoeld in artikel 40 van de Woningwet zijn aangevraagd, dan wel
+  - –. bij het bevoegd gezag een milieuvergunning en een bouwvergunning als bedoeld in artikel 40 van de Woningwet zijn aangevraagd, dan wel
 
-- –. bij het bevoegd gezag overeenkomstig [artikel 4 van het Besluit melkrundveehouderijen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005158&artikel=4) of [artikel 3 van het Besluit akkerbouwbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006449&artikel=3) een of meer meldingen zijn gedaan en bouwvergunningen zijn aangevraagd, en uiterlijk op 1 januari 2004 extra huisvesting is gebouwd om alle kippen of kalkoenen die ingevolge het op het tijdstip van inwerkingtreding van [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=2&artikel=58c&z=2005-07-01&g=2005-07-01) geldende pluimveerecht kunnen worden gehouden, te kunnen huisvesten overeenkomstig de voor het bedrijf geldende milieuvergunning dan wel in voorkomend geval overeenkomstig het [Besluit melkrundveehouderijen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005158) of het [Besluit akkerbouwbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006449);
+  - –. bij het bevoegd gezag overeenkomstig [artikel 4 van het Besluit melkrundveehouderijen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005158&artikel=4) of [artikel 3 van het Besluit akkerbouwbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006449&artikel=3) een of meer meldingen zijn gedaan en bouwvergunningen zijn aangevraagd, en uiterlijk op 1 januari 2004 extra huisvesting is gebouwd om alle kippen of kalkoenen die ingevolge het op het tijdstip van inwerkingtreding van [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=2&artikel=58c&z=2005-07-01&g=2005-07-01) geldende pluimveerecht kunnen worden gehouden, te kunnen huisvesten overeenkomstig de voor het bedrijf geldende milieuvergunning dan wel in voorkomend geval overeenkomstig het [Besluit melkrundveehouderijen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005158) of het [Besluit akkerbouwbedrijven milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006449);
 
 - b. de belanghebbende met betrekking tot het bedrijf een melding als bedoeld in [artikel 14 van de Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542&artikel=14) heeft gedaan en, indien deze melding betrekking had op het gehele varkensrecht, verzoekt om doorhaling van de gegevens, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2005-07-01&g=2005-07-01), voor de omvang van de latente ruimte, bedoeld in [artikel 55a, eerste, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=55a&z=2005-07-01&g=2005-07-01), zoals deze ruimte in voorkomend geval in afwijking van dat artikel wordt bepaald op grond van krachtens de [artikelen 55, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=55&z=2005-07-01&g=2005-07-01), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=61&z=2005-07-01&g=2005-07-01) van de wet gestelde regels;
 
@@ -1214,15 +1190,15 @@ Het is verboden op een bedrijf in een kalenderjaar een grotere hoeveelheid dierl
 
 3. Bij de in het eerste lid bedoelde maatregel kunnen voor de toepassing van dit artikel nadere regels worden gesteld en kan de toepasselijkheid van dit artikel worden beperkt en aan voorwaarden worden verbonden.
 
-##### Artikel 58l
+#### Artikel 58l
 
 Het pluimveerecht bepaald overeenkomstig deze paragraaf of de krachtens [artikel 58k](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58k&z=2005-07-01&g=2005-07-01) gestelde regels komt ten hoogste overeen met het op de dag voorafgaande aan het tijdstip van inwerkingtreding van [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=2&artikel=58c&z=2005-07-01&g=2005-07-01) voor het bedrijf geldende mestproductierecht.
 
-##### Artikel 58m
+#### Artikel 58m
 
 Met betrekking tot een daartoe door de belanghebbende aangemeld bedrijf geldt in plaats van het overeenkomstig deze paragraaf bepaalde pluimveerecht een lager pluimveerecht overeenkomstig de in de melding gedane opgave.
 
-##### Artikel 58n
+#### Artikel 58n
 
 1. De belanghebbende doet de in de [artikelen 58g, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58g&z=2005-07-01&g=2005-07-01), [58i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58i&z=2005-07-01&g=2005-07-01), [58j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58j&z=2005-07-01&g=2005-07-01), [58k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58k&z=2005-07-01&g=2005-07-01), en [58m](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=3&artikel=58m&z=2005-07-01&g=2005-07-01) bedoelde meldingen binnen zes weken na inwerkingtreding van artikel 58c bij het Bureau Heffingen, met gebruikmaking van een daartoe bestemd, door het Bureau Heffingen op verzoek van de belanghebbende ter beschikking gesteld formulier, dat overeenkomstig de op het formulier aangegeven wijze volledig en naar waarheid is ingevuld en door de belanghebbende is ondertekend.
 
@@ -1230,17 +1206,17 @@ Met betrekking tot een daartoe door de belanghebbende aangemeld bedrijf geldt in
 
 #### § 4. Bepalingen inzake de overgang van het pluimveerecht
 
-##### Artikel 58o
+#### Artikel 58o
 
 Een pluimveerecht kan, onder welke titel dan ook, met inachtneming van [artikel 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58p&z=2005-07-01&g=2005-07-01), geheel of gedeeltelijk overgaan naar een ander bedrijf overeenkomstig de [artikelen 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58q&z=2005-07-01&g=2005-07-01) en [58r](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58r&z=2005-07-01&g=2005-07-01).
 
-##### Artikel 58p
+#### Artikel 58p
 
 1. Een pluimveerecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen in het ene concentratiegebied kan niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen in het andere concentratiegebied.
 
 2. Een pluimveerecht, of een gedeelte daarvan, afkomstig van een bedrijf dat geheel of gedeeltelijk is gelegen buiten de concentratiegebieden kan niet overgaan naar een bedrijf dat geheel of gedeeltelijk is gelegen binnen een concentratiegebied.
 
-##### Artikel 58q
+#### Artikel 58q
 
 1. De belanghebbende naar wiens bedrijf het pluimveerecht, of een gedeelte daarvan, moet overgaan en de belanghebbende van wiens bedrijf het pluimveerecht, of een gedeelte daarvan, afkomstig is, geven van de overgang gezamenlijk kennis aan het Bureau Heffingen, met gebruikmaking van een daartoe bestemd, door het Bureau Heffingen op verzoek van de belanghebbende ter beschikking gesteld formulier, dat overeenkomstig de op het formulier aangegeven wijze volledig en naar waarheid is ingevuld en door beide belanghebbenden is ondertekend.
 
@@ -1250,7 +1226,7 @@ Een pluimveerecht kan, onder welke titel dan ook, met inachtneming van [artikel 
 
 4. Voor het lopende jaar is de in het derde lid bedoelde vergroting, onderscheidenlijk verkleining, van het pluimveerecht beperkt tot het deel van het pluimveerecht waarvan de betrokken partijen op het formulier van de kennisgeving hebben aangegeven dat dit in dat jaar op het bedrijf waarvan het afkomstig is niet is benut voor de productie van dierlijke meststoffen.
 
-##### Artikel 58r
+#### Artikel 58r
 
 1. De registratie, bedoeld in [artikel 58q](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58q&z=2005-07-01&g=2005-07-01), vindt niet plaats indien:
 
@@ -1264,7 +1240,7 @@ Een pluimveerecht kan, onder welke titel dan ook, met inachtneming van [artikel 
 
 2. Indien na de registratie blijkt dat niet aan de in het eerste lid bedoelde voorwaarden voor registratie is voldaan, wordt de registratie door het Bureau Heffingen doorgehaald. Met terugwerkende kracht tot het tijdstip van de registratie vindt een vergroting plaats van het pluimveerecht van het bedrijf waarvan het pluimveerecht, of een gedeelte daarvan, afkomstig was met de hoeveelheid fosfaat waarop de kennisgeving betrekking had, althans voor zover de kennisgeving niet betrekking had op een grotere hoeveelheid fosfaat dan overeenkwam met het pluimveerecht van dat bedrijf, en vindt een verkleining plaats van het pluimveerecht van het bedrijf waarnaar het pluimveerecht, of een gedeelte daarvan, is overgegaan met eenzelfde hoeveelheid fosfaat, verminderd met 25% dan wel, in voorkomend geval, het percentage dat ingevolge de krachtens [artikel 58t](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58t&z=2005-07-01&g=2005-07-01) gestelde regels bij de overgang van toepassing was.
 
-##### Artikel 58s
+#### Artikel 58s
 
 1. Degene die voornemens is de productie van dierlijke meststoffen afkomstig van kippen of kalkoenen te verplaatsen naar een locatie die niet sinds 31 december 1986 onafgebroken tot het bedrijf heeft behoord, geeft daarvan kennis aan het Bureau Heffingen.
 
@@ -1282,13 +1258,13 @@ Een pluimveerecht kan, onder welke titel dan ook, met inachtneming van [artikel 
 
 - c. voor de kennisgeving niet gebruik is gemaakt van een daartoe bestemd, door het Bureau Heffingen op verzoek van de belanghebbende ter beschikking gesteld formulier, of dat formulier niet overeenkomstig de op het formulier aangegeven wijze volledig en naar waarheid is ingevuld en door de belanghebbende is ondertekend.
 
-##### Artikel 58t
+#### Artikel 58t
 
 1. Bij algemene maatregel van bestuur kunnen in afwijking van de in de [artikelen 58q, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58q&z=2005-07-01&g=2005-07-01), en [58s, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58s&z=2005-07-01&g=2005-07-01), genoemde percentages andere percentages worden vastgesteld. De bij de maatregel vastgestelde percentages zijn van toepassing op kennisgevingen van verplaatsing die zijn gedaan na het tijdstip van inwerkingtreding van de maatregel.
 
 2. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen voor verschillende groepen van gevallen de percentages verschillend worden vastgesteld. Bij de maatregel kunnen omtrent de groepen van gevallen nadere regels worden gesteld.
 
-##### Artikel 58u
+#### Artikel 58u
 
 1. In afwijking van [artikel 228 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=228) kan op pluimveerechten geen pandrecht worden gevestigd.
 
@@ -1296,7 +1272,7 @@ Een pluimveerecht kan, onder welke titel dan ook, met inachtneming van [artikel 
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de uitvoering van het tweede lid, waarbij onder meer kan worden bepaald welke gegevens door het Bureau Heffingen aan de derde-belanghebbenden kenbaar worden gemaakt, de periode gedurende welke het Bureau Heffingen de in [artikel 58q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58q&z=2005-07-01&g=2005-07-01), of [58s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58s&z=2005-07-01&g=2005-07-01), bedoelde kennisgeving niet in behandeling neemt, alsmede de wijze waarop en de termijn waarbinnen de in de regeling aangegeven derde-belanghebbenden zich bij het Bureau Heffingen dienen aan te melden. Bij de ministeriële regeling kan worden bepaald dat een aanmelding die is gedaan op grond van de krachtens [artikel 12, derde lid, van de Wet verplaatsing mestproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0006285&artikel=12) gestelde regels tevens in aanmerking wordt genomen voor de toepassing van dit artikel.
 
-##### Artikel 58v
+#### Artikel 58v
 
 1. Bij ministeriële regeling kan worden bepaald dat een kennisgeving als bedoeld in [artikel 58q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58q&z=2005-07-01&g=2005-07-01), of [58s, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58s&z=2005-07-01&g=2005-07-01) of een aanmelding als bedoeld in [artikel 58u, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=4&artikel=58u&z=2005-07-01&g=2005-07-01), eerst door het Bureau Heffingen in behandeling wordt genomen nadat een daarvoor vastgesteld bedrag is voldaan.
 
@@ -1304,17 +1280,17 @@ Een pluimveerecht kan, onder welke titel dan ook, met inachtneming van [artikel 
 
 #### § 5. Overige bepalingen met betrekking tot het pluimveerecht
 
-##### Artikel 58w
+#### Artikel 58w
 
 1. In bij ministeriële regeling bepaalde gevallen kan Onze Minister het pluimveerecht van een bedrijf ambtshalve vaststellen.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de in het eerste lid bedoelde vaststelling.
 
-##### Artikel 58x
+#### Artikel 58x
 
 De belanghebbende kan met gebruikmaking van een daartoe bestemd, door het Bureau Heffingen op verzoek van de belanghebbende ter beschikking gesteld formulier, dat overeenkomstig de op het formulier aangegeven wijze volledig en naar waarheid is ingevuld en door hem is ondertekend, een kennisgeving van het vervallen, onderscheidenlijk gedeeltelijk vervallen, van het pluimveerecht van zijn bedrijf bij het Bureau Heffingen doen. Na registratie van de kennisgeving door het Bureau Heffingen is het pluimveerecht nihil, onderscheidenlijk vindt een verkleining van het pluimveerecht plaats met de hoeveelheid fosfaat waarop de kennisgeving betrekking heeft.
 
-##### Artikel 58y
+#### Artikel 58y
 
 1. Indien [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&paragraaf=2&artikel=58c&z=2005-07-01&g=2005-07-01) op een andere datum dan 1 januari in werking treedt, wordt voor de toepassing van dat artikel in het jaar van inwerkingtreding in plaats van «kalenderjaar» gelezen «het vanaf het tijdstip van inwerkingtreding van dit artikel resterende deel van het jaar», en wordt in plaats van «pluimveerecht» gelezen: pluimveerecht, vermenigvuldigd met het na het tijdstip van inwerkingtreding van artikel 58c in het desbetreffende jaar resterende aantal maanden gedeeld door twaalf.
 
@@ -1326,93 +1302,93 @@ De belanghebbende kan met gebruikmaking van een daartoe bestemd, door het Bureau
 
 #### § 1. Algemeen
 
-##### Artikel 58z
+#### Artikel 58z
 
 Vervallen
 
 #### § 1. Algemeen
 
-##### Artikel 58aa
+#### Artikel 58aa
 
 Vervallen
 
-##### Artikel 58ab
+#### Artikel 58ab
 
 Vervallen
 
-##### Artikel 58ac
+#### Artikel 58ac
 
 Vervallen
 
-##### Artikel 58ad
+#### Artikel 58ad
 
 Vervallen
 
-##### Artikel 58ae
+#### Artikel 58ae
 
 Vervallen
 
 #### § 3. Maximum stikstofproductie op enig moment
 
-##### Artikel 58af
+#### Artikel 58af
 
 Vervallen
 
-##### Artikel 58ag
+#### Artikel 58ag
 
 Vervallen
 
-##### Artikel 58ah
+#### Artikel 58ah
 
 Vervallen
 
-##### Artikel 58ai
+#### Artikel 58ai
 
 Vervallen
 
 #### § 4. Regels met betrekking tot het aangaan van een verplichting tot afname van dierlijke meststoffen
 
-##### Artikel 58aj
+#### Artikel 58aj
 
 Vervallen
 
-##### Artikel 58ak
+#### Artikel 58ak
 
 Vervallen
 
-##### Artikel 58aka
+#### Artikel 58aka
 
 Vervallen
 
-##### Artikel 58al
+#### Artikel 58al
 
 Vervallen
 
 #### § 5. Overige regels
 
-##### Artikel 58am
+#### Artikel 58am
 
 Vervallen
 
-##### Artikel 58an
+#### Artikel 58an
 
 Vervallen
 
-##### Artikel 58ao
+#### Artikel 58ao
 
 Vervallen
 
-##### Artikel 58ap
+#### Artikel 58ap
 
 Vervallen
 
-##### Artikel 58aq
+#### Artikel 58aq
 
 Vervallen
 
 ### Hoofdstuk VI. Overige bepalingen
 
-##### Artikel 59
+#### Artikel 59
 
 1. In geval van overtreding van [artikel 33a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33a&z=2025-12-09&g=2025-12-09), bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 33a, tweede lid, onderdeel b.
 
@@ -1424,7 +1400,7 @@ Vervallen
 
 5. In geval van overtreding van [artikel 33d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33d&z=2025-12-09&g=2025-12-09), bedraagt de bestuurlijke boete € 11 per kilogram fosfaat waarmee dat lid wordt overtreden.
 
-##### Artikel 60
+#### Artikel 60
 
 1. Bij algemene maatregel van bestuur kunnen van de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=57&z=2025-12-09&g=2025-12-09), [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58&z=2025-12-09&g=2025-12-09), [58a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58a&z=2025-12-09&g=2025-12-09) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=59&z=2025-12-09&g=2025-12-09) afwijkende tarieven worden vastgesteld.
 
@@ -1434,17 +1410,17 @@ Vervallen
 
 4. [Artikel 1, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=1) is van overeenkomstige toepassing.
 
-##### Artikel 61
+#### Artikel 61
 
 Vervallen
 
-##### Artikel 61a
+#### Artikel 61a
 
 1. Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een bedrijfslichaam.
 
 2. Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft deze verordening de goedkeuring van Onze Minister en van Onze Ministers wie het mede aangaat, tezamen. Krachtens de verordening genomen besluiten behoeven, voorzover dit bij of krachtens de maatregel als bedoeld in het eerste lid is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.
 
-##### Artikel 62
+#### Artikel 62
 
 1. De op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=57&z=2025-12-09&g=2025-12-09), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58&z=2025-12-09&g=2025-12-09), [58a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58a&z=2025-12-09&g=2025-12-09) of [59](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=59&z=2025-12-09&g=2025-12-09) te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.
 
@@ -1452,65 +1428,65 @@ Vervallen
 
 3. De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-##### Artikel 63
+#### Artikel 63
 
 Vervallen
 
-##### Artikel 64
+#### Artikel 64
 
 Vervallen
 
-##### Artikel 65
+#### Artikel 65
 
 Vervallen
 
-##### Artikel 66
+#### Artikel 66
 
 Vervallen
 
-##### Artikel 67
+#### Artikel 67
 
 De ministeriële regelingen bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&z=2002-01-01&g=2003-01-01), behoudens [titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&titeldeel=6&z=2002-01-01&g=2003-01-01), en in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=59&z=2002-01-01&g=2003-01-01) worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-##### Artikel 68
+#### Artikel 68
 
 Onze Minister doet over de werking van deze wet telkens na twee jaren een verslag aan de beide Kamers der Staten-Generaal toekomen.
 
 ### Hoofdstuk VII. Toezicht
 
-##### Artikel 69
+#### Artikel 69
 
 Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919).
 
-##### Artikel 70
+#### Artikel 70
 
 Vervallen
 
 ### Hoofdstuk VII. Toezicht
 
-##### Artikel 71
+#### Artikel 71
 
 Vervallen
 
-##### Artikel 71a
+#### Artikel 71a
 
 Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-##### Artikel 72
+#### Artikel 72
 
 Vervallen
 
-##### Artikel 73
+#### Artikel 73
 
 Vervallen
 
-##### Artikel 74
+#### Artikel 74
 
 1. Voor de toepassing van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2025-12-09&g=2025-12-09) en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2025-12-09&g=2025-12-09), wordt ten aanzien van een bedrijf dat geheel of gedeeltelijk is gelegen in een concentratiegebied, van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat in de periode met ingang van 23 april 2010 tot het tijdstip van inwerkingtreding van dit artikel, is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied.
 
 2. Het is verboden varken, kippen of kalkoenen te houden op een locatie gelegen in een concentratiegebied indien deze varkens-, kippen- of kalkoenenhouderij na 22 april 2010 binnen een bedrijf is verplaatst van een locatie gelegen buiten dat concentratiegebied.
 
-##### Artikel 74a
+#### Artikel 74a
 
 1. De [titels 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&z=2005-07-01&g=2005-07-01) en [2 van hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&z=2005-07-01&g=2005-07-01) vervallen met ingang van 1 januari 2007.
 
@@ -1518,7 +1494,7 @@ Vervallen
 
 3. De voordracht voor het koninklijk besluit wordt niet eerder gedaan dan nadat vier weken zijn verstreken nadat het voornemen daartoe aan de Tweede Kamer der Staten-Generaal bekend is gemaakt.
 
-##### Artikel 75
+#### Artikel 75
 
 [Artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IX&artikel=74&z=2025-12-09&g=2025-12-09), is niet van toepassing indien met betrekking tot de in dat lid bedoelde overgang:
 
@@ -1526,7 +1502,7 @@ Vervallen
 
 - b. vóór 23 april 2010 een schriftelijke overeenkomst is gesloten en vóór 8 mei 2010 een kennisgeving als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2025-12-09&g=2025-12-09), heeft plaatsgevonden.
 
-##### Artikel 76
+#### Artikel 76
 
 1. De verschillende artikelen van deze wet, of onderdelen daarvan, komen te vervallen op een bij algemene maatregel van bestuur te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden bepaald.
 
@@ -1879,17 +1855,17 @@ Forfaitaire mestproductienormen voor de onderscheiden diercategorieën, uitgedru
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 58apa
+#### Artikel 58apa
 
 Vervallen
 
 ### Hoofdstuk VI. Overige bepalingen
 
-##### Artikel 67
+#### Artikel 67
 
 De ministeriële regelingen bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&z=2004-02-06&g=2003-01-01), behoudens [titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&titeldeel=6&z=2004-02-06&g=2003-01-01), en in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=59&z=2004-02-06&g=2003-01-01) worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-##### Artikel 68
+#### Artikel 68
 
 Onze Minister doet over de werking van deze wet telkens na twee jaren een verslag aan de beide Kamers der Staten-Generaal toekomen.
 
@@ -2219,7 +2195,7 @@ Forfaitaire mestproductienormen voor de onderscheiden diercategorieën, uitgedru
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 49a
+#### Artikel 49a
 
 1. Ter uitvoering van [verordening (EU) 2019/1020](32920R2019) kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van genoemde verordening, gevormd door een meststof, weg te nemen, een zelfstandige last opleggen aan:
 
@@ -2269,11 +2245,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VI. Overige bepalingen
 
-##### Artikel 67
+#### Artikel 67
 
 De ministeriële regelingen bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&z=2004-02-06&g=2004-02-06), behoudens [titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&titeldeel=6&z=2004-02-06&g=2004-02-06), en in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=59&z=2004-02-06&g=2004-02-06) worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-##### Artikel 68
+#### Artikel 68
 
 Onze Minister doet over de werking van deze wet telkens na twee jaren een verslag aan de beide Kamers der Staten-Generaal toekomen.
 
@@ -2315,7 +2291,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 56a
+#### Artikel 56a
 
 In zoverre in afwijking van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=55&z=2005-07-01&g=2005-07-01), en onverminderd [artikel 55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=55&z=2005-07-01&g=2005-07-01), is het toegestaan op een bedrijf waarop een niet-gebonden mestproductierecht rust de mestproductie uit te breiden met ten hoogste 125 kilogram fosfaat per jaar per hectare waarmee de tot het bedrijf behorende oppervlakte landbouwgrond wordt vergroot.
 
@@ -2343,11 +2319,11 @@ In zoverre in afwijking van [artikel 55, eerste lid](https://wetten.overheid.nl/
 
 ### Hoofdstuk VI. Overige bepalingen
 
-##### Artikel 67
+#### Artikel 67
 
 De ministeriële regelingen bedoeld in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&z=2005-07-01&g=2005-07-01), behoudens [titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&titeldeel=5&z=2005-07-01&g=2005-07-01), en in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=59&z=2005-07-01&g=2005-07-01) worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-##### Artikel 68
+#### Artikel 68
 
 Onze Minister doet over de werking van deze wet telkens na twee jaren een verslag aan de beide Kamers der Staten-Generaal toekomen.
 
@@ -2608,13 +2584,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk IX. Slotbepalingen
 
-##### Artikel 77
+#### Artikel 77
 
 1. [Hoofdstuk V, titels 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&z=2025-12-09&g=2025-12-09), en [artikel 33Ac](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5b&artikel=33Ac&z=2025-12-09&g=2025-12-09) vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
 2. De voordracht voor het koninklijk besluit, bedoeld in het eerste lid, wordt niet eerder gedaan dan twee weken nadat het ontwerp ervan aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.
 
-##### Artikel 78
+#### Artikel 78
 
 Deze wet wordt aangehaald als: Meststoffenwet.
 
@@ -3042,7 +3018,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 5. Verlaging van het productierecht bij overgang
 
-##### Artikel 33a
+#### Artikel 33a
 
 1. Het is een landbouwer verboden in enig kalenderjaar op zijn bedrijf dierlijke meststoffen te produceren.
 
@@ -3052,19 +3028,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. een hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, minimaal gelijk aan een door Onze Minister voor het desbetreffende kalenderjaar vastgesteld percentage van het op zijn bedrijf geproduceerde bedrijfsoverschot:
 
-- 1°. laat verwerken,
+  - 1°. laat verwerken,
 
-- 2°. voor zover de landbouwer behoort tot een bij regeling van Onze Minister aan te wijzen categorie landbouwers, overdraagt of laat overdragen aan een afnemer die behoort tot een bij regeling van Onze Minister aan te wijzen categorie afnemers, of
+  - 2°. voor zover de landbouwer behoort tot een bij regeling van Onze Minister aan te wijzen categorie landbouwers, overdraagt of laat overdragen aan een afnemer die behoort tot een bij regeling van Onze Minister aan te wijzen categorie afnemers, of
 
-- 3°. brengt op of in de in het desbetreffende kalenderjaar bij het desbetreffende bedrijf in gebruik zijnde landbouwgrond die is gelegen in Duitsland of België op een bij regeling van Onze Minister vast te stellen afstand van de Nederlandse grens, voor zover is voldaan aan bij regeling van Onze Minister te stellen voorwaarden;
+  - 3°. brengt op of in de in het desbetreffende kalenderjaar bij het desbetreffende bedrijf in gebruik zijnde landbouwgrond die is gelegen in Duitsland of België op een bij regeling van Onze Minister vast te stellen afstand van de Nederlandse grens, voor zover is voldaan aan bij regeling van Onze Minister te stellen voorwaarden;
 
 - c. op zijn bedrijf een bedrijfsoverschot produceert dat dusdanig in omvang is dat de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld in onderdeel b, kleiner is dan een bij regeling van Onze Minister vast te stellen omvang, waarbij onderscheid kan worden gemaakt naar diersoort of diercategorie;
 
 - d. op zijn bedrijf meststoffen produceert:
 
-- 1°. met dieren waarvan ten minste 90% behoort tot een diercategorie die bij algemene maatregel van bestuur kan worden aangewezen of is gehuisvest in een huisvestingssysteem dat bij die maatregel kan worden aangewezen, omdat hierbij overwegend meststoffen worden geproduceerd met een hoog gehalte aan organische stof in de vorm van stro, en
+  - 1°. met dieren waarvan ten minste 90% behoort tot een diercategorie die bij algemene maatregel van bestuur kan worden aangewezen of is gehuisvest in een huisvestingssysteem dat bij die maatregel kan worden aangewezen, omdat hierbij overwegend meststoffen worden geproduceerd met een hoog gehalte aan organische stof in de vorm van stro, en
 
-- 2°. die voldoen aan regels die bij of krachtens algemene maatregel van bestuur kunnen worden gesteld, of
+  - 2°. die voldoen aan regels die bij of krachtens algemene maatregel van bestuur kunnen worden gesteld, of
 
 - e. het op zijn bedrijf geproduceerde bedrijfsoverschot geheel en rechtstreeks, blijkens een schriftelijke en vooraf gesloten overeenkomst, onder bij regeling van Onze Minister te stellen voorwaarden overdraagt of laat overdragen aan een hemelsbreed hoogstens twintig kilometer van de productielocatie verwijderd liggende locatie van bedrijven indien de overgedragen dierlijke meststoffen op landbouwgrond aangewend worden.
 
@@ -3084,7 +3060,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 7. Bij regeling van Onze Minister kunnen regels worden gesteld ten aanzien van een landbouwer of afnemer als bedoeld in het tweede lid, onderdeel b, onder 2°.
 
-##### Artikel 33b
+#### Artikel 33b
 
 1. Een mestverwerkingsovereenkomst als bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2025-12-09&g=2025-12-09), of een overeenkomst als bedoeld in [artikel 33a, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33a&z=2025-12-09&g=2025-12-09), voldoet voor de toepassing van deze wet indien is voldaan aan de bij of krachtens de in het tweede tot en met vierde lid gestelde eisen.
 
@@ -3102,7 +3078,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. De gegevens uit een mestverwerkingsovereenkomst als bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2025-12-09&g=2025-12-09), of een overeenkomst als bedoeld in [artikel 33a, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33a&z=2025-12-09&g=2025-12-09), worden uiterlijk in het kalenderjaar waarop de overeenkomst ziet langs elektronische weg aan Onze Minister verstrekt door alle partijen bij de overeenkomst.
 
-##### Artikel 33c
+#### Artikel 33c
 
 1. Bij regeling van Onze Minister wordt het percentage, bedoeld in [artikel 33a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=6&artikel=33a&z=2025-12-09&g=2025-12-09), vastgesteld, dat voor verschillende diersoorten, diercategorieën, mestsoorten en gebieden verschillend kan worden vastgesteld.
 
@@ -3110,7 +3086,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Bij regeling van Onze Minister kan worden bepaald dat voor landbouwers voor wie op grond van het eerste lid meerdere verwerkingspercentages van toepassing zijn, één van de verwerkingspercentages geldt.
 
-##### Artikel 33d
+#### Artikel 33d
 
 1. Een verwerker verwerkt de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor hij met betrekking tot een kalenderjaar mestverwerkingsovereenkomsten heeft gesloten.
 
@@ -3120,7 +3096,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VII. Overige bepalingen
 
-##### Artikel 37a
+#### Artikel 37a
 
 1. Bij ministeriële regeling worden regels gesteld over de wijze waarop de controleprogramma’s, bedoeld in artikel 5, zesde lid, van richtlijn nr. 91/676/EEG van de Raad van de Europese Gemeenschappen van 12 december 1991 inzake de bescherming van water tegen verontreiniging door nitraten uit agrarische bronnen (PbEG L 375), worden uitgevoerd.
 
@@ -3562,7 +3538,7 @@ Zundert
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 21a
+#### Artikel 21a
 
 1. Onze Minister verleent aan een landbouwer, die in het kalenderjaar 2013 melkvee hield een melkveefosfaatreferentie, uitgedrukt in kilogrammen fosfaat. De melkveefosfaatreferentie vermeldt het bedrijf waarvoor de melkveefosfaatreferentie wordt afgegeven.
 
@@ -4022,7 +3998,7 @@ Zundert
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 21b
+#### Artikel 21b
 
 1. Het is een landbouwer verboden op zijn bedrijf in een kalenderjaar meer dierlijke meststoffen met melkvee, uitgedrukt in kilogrammen fosfaat, te produceren dan het op het bedrijf rustende fosfaatrecht. De productie van dierlijke meststoffen door melkvee wordt forfaitair vastgesteld overeenkomstig de regels, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2025-12-09&g=2025-12-09).
 
@@ -4034,7 +4010,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Het ontwerp voor een krachtens het tweede lid vast te stellen ministeriële regeling wordt aan beide kamers der Staten Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging van het ontwerp.
 
-##### Artikel 22a
+#### Artikel 22a
 
 1. Onze Minister kan ten aanzien van een bedrijf waarvan het fosfaatrecht is overschreden bepalen dat het gehouden melkvee op enig moment de door hem vastgestelde aantallen niet mogen overschrijden.
 
@@ -4046,7 +4022,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 4. Overgang van het productierecht
 
-##### Artikel 32a
+#### Artikel 32a
 
 1. De vergroting van het fosfaatrecht wordt, in afwijking van [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=28&z=2025-12-09&g=2025-12-09), beperkt tot een bij algemene maatregel van bestuur vast te stellen percentage van de kilogrammen fosfaat waarop de kennisgeving, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2025-12-09&g=2025-12-09), betrekking heeft, zijnde ten minste 70 procent en ten hoogste 90 procent.
 
@@ -4068,13 +4044,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 5a. Omzetting van het productierecht
 
-##### Artikel 33Aa
+#### Artikel 33Aa
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over het omzetten door Onze Minister van een productierecht in een varkensrecht, pluimveerecht of fosfaatrecht met dien verstande dat de landbouwer op wiens bedrijf het om te zetten productierecht rust met omzetting instemt en de omzetting geen toename veroorzaakt van de hoeveelheid geproduceerde stikstofverbindingen, fosfaat en fijnstof.
 
 ## Titel 5a. Omzetting van het productierecht
 
-##### Artikel 33Ab
+#### Artikel 33Ab
 
 1. Bij algemene maatregel van bestuur kan een percentage worden vastgesteld waarmee het fosfaatrecht op een in die maatregel vastgesteld tijdstip wordt verminderd indien is vastgesteld dat de totale omvang van de productie van meststoffen afkomstig van melkvee, uitgedrukt in kilogrammen fosfaat of kilogrammen stikstof, de maximale omvang van die productie, bedoeld in [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=18a&z=2025-12-09&g=2025-12-09), heeft overschreden en de noodzakelijke verlaging van de totale omvang van de productie niet op een minder ingrijpende wijze kan worden bereikt, mede gelet op de totale omvang van de productie van dierlijke meststoffen in relatie tot de nationale plafonds, opgenomen in artikel 18a, eerste lid.
 
@@ -4108,7 +4084,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over het omzette
 
 ### Hoofdstuk IX. Overgangs- en slotbepalingen
 
-##### Artikel 77a
+#### Artikel 77a
 
 1. De [artikelen 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21b&z=2025-12-09&g=2025-12-09), [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=22a&z=2025-12-09&g=2025-12-09), [23, derde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=3&artikel=23&z=2025-12-09&g=2025-12-09), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32a&z=2025-12-09&g=2025-12-09), [33Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5a&artikel=33Aa&z=2025-12-09&g=2025-12-09), [33Ab](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5b&artikel=33Ab&z=2025-12-09&g=2025-12-09) en [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38a&z=2025-12-09&g=2025-12-09) vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -4534,13 +4510,13 @@ Zundert
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 75a
+#### Artikel 75a
 
 1. De [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2025-12-09&g=2025-12-09) en [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32a&z=2025-12-09&g=2025-12-09) zoals die luidden onmiddellijk voor het tijdstip van inwerkingtreding van artikel I, onderdelen B en C, van de Wet wijziging Meststoffenwet in verband met de maximale mestproductie, blijven van toepassing op de overgang van een productierecht, of gedeelte daarvan, waarvan voor dat tijdstip een kennisgeving als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2025-12-09&g=2025-12-09), heeft plaatsgevonden.
 
 2. Afroming als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=33&z=2025-12-09&g=2025-12-09), vindt niet plaats als de bedrijfsoverdracht, bedoeld in dat lid, heeft plaatsgevonden voor het tijdstip van inwerkingtreding van [artikel I, onderdeel D, van de Wet wijziging Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0050495&artikel=I) in verband met de maximale mestproductie, en binnen 30 dagen na die bedrijfsoverdracht daarvan overeenkomstig artikel 33, derde lid, kennis is gegeven.
 
-##### Artikel 77b
+#### Artikel 77b
 
 Vervallen
 
@@ -4964,7 +4940,7 @@ Zundert
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 18a
+#### Artikel 18a
 
 1. De totale omvang van de productie van dierlijke meststoffen bedraagt per kalenderjaar uitgedrukt in kilogrammen fosfaat ten hoogste 135,0 miljoen en uitgedrukt in kilogrammen stikstof ten hoogste 440,0 miljoen.
 
@@ -4984,7 +4960,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ## Titel 5b. Verlaging van het productierecht
 
-##### Artikel 33Ac
+#### Artikel 33Ac
 
 1. Indien is vastgesteld dat de totale omvang van de productie van dierlijke meststoffen afkomstig van varkens, uitgedrukt in kilogrammen fosfaat of kilogrammen stikstof, de maximale omvang van die productie, bedoeld in [artikel 18a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=18a&z=2025-12-09&g=2025-12-09), heeft overschreden en de noodzakelijke verlaging van de totale omvang van de productie niet op een minder ingrijpende wijze kan worden bereikt, mede gelet op het nationale plafond genoemd in artikel 18a, eerste lid, kan bij algemene maatregel van bestuur een percentage worden vastgesteld waarmee het varkensrecht op een in die maatregel vastgesteld tijdstip wordt verminderd.
 
@@ -5756,7 +5732,7 @@ Zundert
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 75b
+#### Artikel 75b
 
 Artikel 1, onderdeel kk, zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van artikel I, onderdeel A, van de wet van [PM datum]23 februari 2022 tot wijziging van de Meststoffenwet in verband met het begrip melkvee en enkele andere wijzigingen betreffende het stelsel van fosfaatrechten, blijft van toepassing voor de toepassing van het bij of krachtens [artikel 23, derde, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=3&artikel=23&z=2025-12-09&g=2025-12-09), bepaalde en voor de berekening van:
 
@@ -5808,7 +5784,7 @@ Artikel 1, onderdeel kk, zoals dat luidde onmiddellijk voor het tijdstip van inw
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 5a
+#### Artikel 5a
 
 Het is verboden ten aanzien van een meststof waar [verordening (EU) 2019/1020](32920R2019) op van toepassing is, te handelen in strijd met artikel 7 van genoemde verordening.
 
@@ -5836,7 +5812,7 @@ Het is verboden ten aanzien van een meststof waar [verordening (EU) 2019/1020](3
 
 ## Titel 1. Algemeen
 
-##### Artikel 47a
+#### Artikel 47a
 
 1. Een krachtens [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=1&artikel=47&z=2025-12-09&g=2025-12-09), aangewezen ambtenaar is in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [verordening (EU) 2019/1020](32920R2019).
 
@@ -5846,7 +5822,7 @@ Het is verboden ten aanzien van een meststof waar [verordening (EU) 2019/1020](3
 
 4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-##### Artikel 47b
+#### Artikel 47b
 
 1. Een krachtens [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=1&artikel=47&z=2025-12-09&g=2025-12-09), aangewezen ambtenaar is bevoegd om, ter uitvoering van [verordening (EU) 2019/1020](32920R2019), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot zijn identiteit en hoedanigheid, meststoffen te verkrijgen en hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van zijn taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
 
@@ -5866,7 +5842,7 @@ Het is verboden ten aanzien van een meststof waar [verordening (EU) 2019/1020](3
 
 - g. hetgeen tijdens het onderzoek van de meststof is verricht, gebleken en overigens is voorgevallen.
 
-##### Artikel 47c
+#### Artikel 47c
 
 [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een krachtens [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=1&artikel=47&z=2025-12-09&g=2025-12-09), aangewezen ambtenaar bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [verordening (EU) 2019/1020](32920R2019) uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van genoemde verordening.
 
