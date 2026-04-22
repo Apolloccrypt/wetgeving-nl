@@ -2,8 +2,8 @@
 title: "Mandaatbesluit Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering NCTV 2023"
 identifier: "BWBR0049334"
 categorie: "Overig"
-publicatiedatum: 2024-02-10
-laatste_update: 2024-02-10
+publicatiedatum: 2024-07-01
+laatste_update: 2026-04-21
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0049334"
 ---
@@ -28,7 +28,7 @@ Van het ingevolge [artikel 1, eerste lid, onderdeel d, van het Mandaatbesluit NC
 
 #### Artikel 2
 
-De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049334&artikel=1&z=2024-02-10&g=2024-02-10), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
+De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049334&artikel=1&z=2024-02-10&g=2024-07-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
 
 #### Artikel 3
 

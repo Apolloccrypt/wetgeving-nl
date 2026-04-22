@@ -3,7 +3,7 @@ title: "Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelg
 identifier: "BWBR0052464"
 categorie: "Overig"
 publicatiedatum: 2026-04-12
-laatste_update: 2026-04-14
+laatste_update: 2026-04-21
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052464"
 ---
