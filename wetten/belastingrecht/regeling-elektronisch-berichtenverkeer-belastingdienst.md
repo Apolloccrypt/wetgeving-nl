@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Staatssecretaris van Financiën van 23 oktober 2015, nr. DB/2015/366M houdende regels voor het elektronische berichtenverkeer met de Belastingdienst (Regeling elektronisch berichtenverkeer Belastingdienst)"
+title: "Regeling elektronisch berichtenverkeer Belastingdienst"
 identifier: "BWBR0037127"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037127"
-soort: "ministeriele-regeling"
-stam_id: "13289173"
-version_id: "22746152"
-internal_id: "C32888631"
-label_id: "13257164"
-dtd_version: "2.0"
-original_entry_into_force: "2015-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037127/2026-04-01/0"
-intitule_bron: "Stcrt.2015-37619"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-10-23"
-intitule_published: "2015-10-29"
-intitule_in_force: "2015-10-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-37619"
-original_signed_date: "2015-10-23"
-original_published_date: "2015-10-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-37619"
-entry_into_force_date: "2015-11-01"
-jci_1_3: "jci1.3:c:BWBR0037127&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0037127&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling elektronisch berichtenverkeer Belastingdienst"
-signed_date: "2015-10-23"
-entry_into_force: "2015-11-01"
+categorie: "Belastingrecht"
+publicatiedatum: 2026-04-01
+laatste_update: 2026-04-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0037127"
 ---
+
 # Regeling van de Staatssecretaris van Financiën van 23 oktober 2015, nr. DB/2015/366M houdende regels voor het elektronische berichtenverkeer met de Belastingdienst (Regeling elektronisch berichtenverkeer Belastingdienst)
 
 Gelet op [artikel 3a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [artikel 7c van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c), [artikel 13 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=13) en [artikel 28 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28);
@@ -42,11 +16,11 @@ Besluit:
 
 ### Hoofdstuk 1. Elektronisch berichtenverkeer
 
-##### Artikel 1. Reikwijdte
+#### Artikel 1. Reikwijdte
 
 Deze regeling geeft uitvoering aan [artikel 3a, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [artikel 7c, tweede en derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c) en [artikel 13, tweede en derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=13).
 
-##### Artikel 2. Van verplichting tot verzending berichten langs elektronische weg uitgezonderde groepen
+#### Artikel 2. Van verplichting tot verzending berichten langs elektronische weg uitgezonderde groepen
 
 Voor de volgende groepen kan het berichtenverkeer, bedoeld in de [artikelen 3a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [artikel 7c, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c) en [artikel 13 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=13) anders dan langs elektronische weg plaatsvinden:
 
@@ -74,7 +48,7 @@ Voor de volgende groepen kan het berichtenverkeer, bedoeld in de [artikelen 3a v
 
 - e. belanghebbenden als bedoeld in [artikel 33 van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=33).
 
-##### Artikel 3. De wijze waarop elektronisch berichtenverkeer plaatsvindt en van verplichting tot verzending langs elektronische weg uitgezonderde berichten
+#### Artikel 3. De wijze waarop elektronisch berichtenverkeer plaatsvindt en van verplichting tot verzending langs elektronische weg uitgezonderde berichten
 
 1. De wijze waarop het elektronisch berichtenverkeer plaatsvindt en de berichten waarvoor het berichtenverkeer anders dan langs elektronische weg kan plaatsvinden zijn opgenomen in de bij deze regeling behorende bijlage.
 
@@ -82,21 +56,21 @@ Voor de volgende groepen kan het berichtenverkeer, bedoeld in de [artikelen 3a v
 
 ### Hoofdstuk 2. Wijziging van enige andere regelingen
 
-##### Artikel 4. Wijziging van de [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
+#### Artikel 4. Wijziging van de [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-##### Artikel 5. Wijziging van de [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236)
+#### Artikel 5. Wijziging van de [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236)
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-##### Artikel 6. Inwerkingtreding
+#### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 november 2015.
 
-##### Artikel 7. Citeertitel
+#### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belastingdienst.
 

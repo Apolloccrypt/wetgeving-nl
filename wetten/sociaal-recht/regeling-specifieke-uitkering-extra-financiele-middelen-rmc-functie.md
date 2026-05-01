@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 november 2020, nr. MBO/25458774, houdende de verstrekking van een specifieke uitkering voor extra financiële middelen voor de RMC-functie (Regeling specifieke uitkering extra financiële middelen RMC-functie)"
+title: "Regeling specifieke uitkering extra financiële middelen RMC-functie"
 identifier: "BWBR0044328"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-13"
-last_updated: "2025-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044328"
-soort: "ministeriele-regeling"
-stam_id: "15695023"
-version_id: "27192702"
-internal_id: "C38423301"
-label_id: "15634094"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044328/2025-02-13/0"
-intitule_bron: "Stcrt.2020-59367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-10"
-intitule_published: "2020-11-11"
-intitule_in_force: "2020-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-59367"
-original_signed_date: "2020-11-10"
-original_published_date: "2020-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-59367"
-entry_into_force_date: "2020-11-12"
-jci_1_3: "jci1.3:c:BWBR0044328&z=2025-02-13&g=2025-02-13"
-jci_1_0: "1.0:c:BWBR0044328&g=2025-02-13"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering extra financiële middelen RMC-functie"
-signed_date: "2020-11-10"
-entry_into_force: "2020-11-12"
+categorie: "Sociaal recht"
+publicatiedatum: 2025-02-13
+laatste_update: 2025-02-13
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0044328"
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 november 2020, nr. MBO/25458774, houdende de verstrekking van een specifieke uitkering voor extra financiële middelen voor de RMC-functie (Regeling specifieke uitkering extra financiële middelen RMC-functie)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,27 +28,27 @@ In deze regeling wordt verstaan onder:
 
 - **studiejaar:** tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar.
 
-##### Artikel 2. Doel specifieke uitkering
+#### Artikel 2. Doel specifieke uitkering
 
 Onze Minister verstrekt in 2020 een specifieke uitkering aan de RMC-contactgemeenten voor het in de RMC-regio’s uitvoeren van de taken, bedoeld in de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.22) en [8.23 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.23), [147, eerste tot en met derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=147) en [8.3.2, eerste tot en met derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2).
 
-##### Artikel 3. Hoogte specifieke uitkering
+#### Artikel 3. Hoogte specifieke uitkering
 
 1. Voor de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=2&z=2025-02-13&g=2025-02-13), is een bedrag van ten hoogste € 8.000.000,– beschikbaar.
 
 2. Het bedrag, bedoeld in het eerste lid, wordt over de RMC-contactgemeenten verdeeld conform de bijlage bij deze regeling.
 
-##### Artikel 4. Betaling specifieke uitkering
+#### Artikel 4. Betaling specifieke uitkering
 
 De specifieke uitkering wordt behoudens de eventueel uit de rijksbegroting voortvloeiende maatregelen betaald in twee gelijke delen. Het eerste deel wordt betaald op uiterlijk 31 december 2020 en het tweede deel op uiterlijk 28 februari 2021.
 
-##### Artikel 5. Besteding van de specifieke uitkering
+#### Artikel 5. Besteding van de specifieke uitkering
 
 1. De specifieke uitkering dient op uiterlijk 31 december 2026 te zijn besteed.
 
 2. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=6&z=2025-02-13&g=2025-02-13), alsdan niet zijn besteed aan het doel waarvoor zij waren bestemd, terug.
 
-##### Artikel 6. Financiële en beleidsmatige verantwoording
+#### Artikel 6. Financiële en beleidsmatige verantwoording
 
 1. Voor de jaren 2020 tot en met 2026 verantwoordt het college van burgemeester en wethouders van de desbetreffende RMC-contactgemeente zich over de besteding van de specifieke uitkering conform [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -84,11 +58,11 @@ De specifieke uitkering wordt behoudens de eventueel uit de rijksbegroting voort
 
 - b. Zo ja, welke extra activiteiten heeft de regio hiervan ondernomen en welke resultaten zijn hiermee bereikt?
 
-##### Artikel 7. Inwerkingtreding en vervaldatum
+#### Artikel 7. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 mei 2026, met dien verstande dat zij van toepassing blijft op de specifieke uitkeringen die voor die datum zijn verstrekt.
 
-##### Artikel 8. Citeertitel
+#### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering extra financiële middelen RMC-functie.
 
