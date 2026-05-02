@@ -2,8 +2,8 @@
 title: "Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026"
 identifier: "BWBR0052002"
 categorie: "Overig"
-publicatiedatum: 2026-04-04
-laatste_update: 2026-04-04
+publicatiedatum: 2026-05-01
+laatste_update: 2026-05-01
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052002"
 ---
@@ -14,7 +14,7 @@ Gelet op [artikel 3, derde lid, van de Kaderwet EZ-, LVVN- en KGG-subsidies](htt
 
 Besluiten:
 
-#### Artikel 1. Openstelling [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 1. Openstelling [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
 1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
@@ -34,12 +34,15 @@ Besluiten:
 | [Titel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.27): Afzet van biologische landbouwproducten | [2.27.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.27.2) | MKB-ondernemer | Biologisch | 02-02-2026 t/m 01-05-2026 | € 3.700.000 |
 | [Titel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.28): Hygiënisatie- en drooginstallaties | [2.28, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.28.2) | Intermediaire onderneming | Inrichting van een hygiënisatieinstallatie | 01-12-2025 t/m 27-02-2026 | € 3.750.000 |
 |   | [2.28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.28.2) | Intermediaire onderneming | Inrichting van een drooginstallatie | 01-12-2025 t/m 27-02-2026 | € 3.750.000 |
+| [Titel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.29): Pilots Agrarisch natuurbeheer | [Artikel 2.29.2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.29.2) |   | Agrarisch natuurbeheer in prioritaire gebieden | 29-04-2026 t/m 03-06-2026 | € 13.000.000 |
+|   | [Artikel 2.29.2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.29.2) |   | Het ontwikkelen van maatregelen en instrumenten | 29-04-2026 t/m 03-06-2026 | € 7.000.000 |
 | [Titel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.4): MKB-innovatiestimulering topsectoren | [3.4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.4.20) | MIT-R&D-samenwerkingsprojecten | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 07-04-2026 t/m 26-05-2026 | € 3.550.000 |
 |   |   | MIT-R&D-samenwerkingsprojecten |   | 09-06-2026 t/m 15-09-2026 | € 3.000.000, waarvan ten hoogste € 1.500.000 voor MIT-R&D-samenwerkingsprojecten groot |
 | [Titel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.6): Maritieme innovatieprojecten | [3.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.6.2) |   |   | 04-11-2025 t/m 03-02-2026 | € 10.500.000 |
 | [Titel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.7): Eurostarsprojecten | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | 01-01-2026 t/m 20-01-2026 | € 12.250.000 |
 | [Titel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.8): Internationaal innoveren | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | ITEA4 Innovatieprojecten | Marktgerichte software innovatie | 01-04-2026 t/m 17-04-2026 | € 10.000.000 |
 |   | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | XECS Innovatieprojecten | Marktgerichte innovatie voor micro- en nano elektronica | 01-04-2026 t/m 17-04-2026 | € 10.000.000 |
+|   | [3.8.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | Global Stars-innovatieprojecten als bedoeld in de Global Stars innovatiecall High Tech en Duurzaamheid te raadplegen via [www.rvo.nl/globalstars](http://www.rvo.nl/globalstars) |   | 30-04-2026 t/m 15-09-2026 | € 1.000.000 |
 |   | [3.8.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | TechBridge-innovatieprojecten, onderdeel a, Optical Systems and Integrated Photonics als bedoeld in de TechBridge-innovatiecall Photonics Integrated Circuits, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 02-03-2026 t/m 02-06-2026 | € 1.900.000 |
 |   |   | TechBridge-innovatieprojecten, onderdeel b, Quantum Technologies als bedoeld in de TechBridge-innovatiecall Duitsland, Quantum Technologies in Aerospace, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 02-03-2026 t/m 23-06-2026 | € 2.000.000 |
 |   |   | Techbridge-innovatieprojecten, onderdeel c, Process Technology, including Process Intensification als bedoeld in de TechBridge-innovatiecall China, Circular Chemistry and Materials, te raadplegen via [www.rvo.nl/techbridge](http://www.rvo.nl/techbridge) |   | 31-03-2026 t/m 30-06-2026 | € 700.000 |
@@ -64,7 +67,7 @@ Besluiten:
 | [Titel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.30) Circular Plastics NL | [3.30.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.30.2) | Circular Plastics NL-onderzoeksprojecten |   | 21 april 2026 t/m 6 oktober 2026 | € 3.000.000 |
 |   |   | Circular Plastics NL-showcase projecten |   | 21 april t/m 6 oktober 2026 | € 37.000.000 |
 | [Titel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.32): BioBased Circular | [Artikel 3.32.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.32.2) |   |   | 26 februari 2026 t/m 22 oktober 2026 | € 4.000.000 |
-| [Titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.2): Topsector energieprojecten | [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.9) | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 22-04-2026 t/m 28-05-2026 | € 7.000.000 |
+| [Titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.2): Energie-innovatie | [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.9) | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 22-04-2026 t/m 28-05-2026 | € 7.000.000 |
 |   |   |   | Onderdeel C: Industrie | 01-04-2026 t/m 13-05-2026 | € 7.000.000 |
 |   |   |   | Onderdeel D: Circulaire economie, 3. Biobased circular innovatiethema’s 3.1, 3.4, 3.5 en 3.6 | 01-04-2026 t/m 22-04-2026 | € 3.000.000 |
 |   |   |   | Onderdeel D: Circulaire economie, 3. Biobased circular alle innovatiethema’s | 18-05-2026 t/m 20-08-2026 | € 3.000.000 |
@@ -73,23 +76,27 @@ Besluiten:
 |   |   |   | 2. MOOI-Missie Gebouwde omgeving | 02-06-2026 t/m 03-09-2026 | € 20.000.000 |
 |   |   |   | 3. MOOI-Missie Industrie: innovatiethema’s 1 en 2 | 02-06-2026 t/m 03-09-2026 | € 20.000.000 |
 |   |   |   | 5. MOOI-Missie Koolstofverwijdering | 02-06-2026 t/m 03-09-2026 | € 10.000.000 |
-|   | [4.2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.65) | Demonstratie energie- en klimaatinnovatie | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3 Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen | 27-01-2026 t/m 30-07-2026 | € 134.000.000 |
+|   | [4.2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.65) | Demonstratie energie- en klimaatinnovatie (DEI+) | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3 Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen | 27-01-2026 t/m 30-07-2026 | € 134.000.000 |
 |   |   |   | 2.5a Biobased Circular | 27-01-2026 t/m 30-07-2026 | € 22.000.000 |
-|   |   |   | 2.7 Aardgasloze gebouwde omgeving | 27-01-2026 t/m 30-07-2026 | € 6.000.000 |
+|   |   |   | 2.7 Verduurzaming gebouwde omgeving | 27-01-2026 t/m 27-08-2026 | € 6.000.000 |
 |   |   |   | 2.9 waterstof en groene chemie | 27-01-2026 t/m 30-07-2026 | € 38.000.000 |
 |   |   |   | 2.10 Vergassing van reststromen | 27-01-2026 t/m 30-07-2026 | € 150.000.000 |
 |   | [4.2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.121) | Horizon Europe Partnerships (HEP) | 1. Multi-vector interactions between the integrated energy system and industrial frameworks 2. Energy system flexibility: renewables production, storage and system integration 3B. Advanced renewable energy (RE) technologies for power production 5. Hydrogen and renewable fuels 6. Heating and cooling technologies 9. Clean energy integration in the built environment | 16-02-2026 t/m 16-03-2026 | € 5.000.000 |
 |   |   |   | 4. Carbon capture, utilisation, and storage (CCUS) | 16-02-2026 t/m 16-03-2026 | € 3.000.000 |
-|   | [4.2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.113) | TSE Industrie studies | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 26.300.000 |
+|   | [4.2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.113) | Studies voor duurzame industrie (STUDI) | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 26.300.000 |
 |   |   |   | Programmalijn 2: Waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 10.000.000 |
+|   |   |   | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie en vergassing van reststromen | 18-05-2026 t/m 31-03-2026 | € 28.300.000 |
+|   |   |   | Programmalijn 2: Waterstof en groene chemie | 18-05-2026 t/m 31-03-2026 | € 10.000.000 |
+|   |   |   | Programmalijn 3: Vergassing van reststromen | 18-05-2026 t/m 31-03-2026 | € 7.500.000 |
 | [Titel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5): Investeringssubsidie duurzame energie en energiebesparing (ISDE) | [4.5.2, tweede lid, onderdelen a en b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in: 1. een ruimteverwarmingstoestel, waterverwarmingstoestel of zonneboiler; 2. energiebesparende isolatiemaatregelen of energiebesparende isolatiemaatregelen in combinatie met één ventilatiemaatregel; 3. de aansluiting op een warmtenet; of 4. een voorziening voor elektrisch koken, |   | 01-01-2026 t/m 31-12-2026 | € 500.000.000 |
 |   | [4.5.2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in installaties voor de productie van hernieuwbare elektriciteit met één of meer windturbines |   | 01-01-2026 t/m 31-12-2026 | € 5.000.000 |
 | [Titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.6): Versnelde klimaatinvesteringen in de industrie | [4.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.6.2) |   |   | 16-09-2025 t/m 02-02-2026 | € 148.000.000 |
+|   |   |   |   | 07-05-2026 t/m 28-01-2027 | € 123.200.000 |
 | [Titel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.10): Warmtenetten Investeringssubsidie | [4.10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.10.2) |   | De aanleg van een energie-efficiënt warmtenet | 01-08-2025 t/m 16-01-2026 | € 200.000.000 |
 | [Titel 4a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4a.3): Cyberbeveiligingsinnovatieprojecten | [4a.3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4a.3.2) |   | Het deelgebied ‘het bevorderen van crypto-agility’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 |   | [4a.3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4a.3.2) |   | Het deelgebied ‘het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 
-#### Artikel 2. Rentepercentages [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 2. Rentepercentages [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
 De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.9), bedragen voor de in 2026 aangevraagde subsidies voor innovatiekredieten:
 
@@ -99,7 +106,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 
 - c. de opslag voor klinische ontwikkelingsprojecten: 25 procent.
 
-#### Artikel 3. Openstelling [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
+##### Artikel 3. Openstelling [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
 
 1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
 
@@ -115,20 +122,21 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 |   | [5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sector varkens | 02-04-2026 t/m 02-06-2026 | € 1.500.000 |
 |   | [5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sector rundvee | 02-04-2026 t/m 02-06-2026 | € 3.000.000 |
 |   | [5.6.2, eerste en zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | Het aantrekken en behouden van jonge landbouwers, potentiële jonge landbouwers en nieuwe landbouwers en bevordering van duurzame bedrijfsontwikkeling in plattelandsgebieden | 19-05-2026 t/m 30-06-2026 | € 676.605,– |
+|   | [5.6.2, eerste en zesde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | Het formuleren van een plan voor de doorontwikkeling van de eco-regeling, gericht op toekomstbestendige landbouw, waarbij de in het plan opgenomen maatregelen op bedrijfsniveau bijdragen aan het verlagen van de administratieve lasten voor landbouwers en ten minste één van de genoemde doelstellingen | 16-06-2026 t/m 16-07-2026 | € 500.000 |
 | [Titel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.8) Samenwerking in veenweiden en overgangsgebieden N2000 | [5.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.2) |   | Oprichten samenwerkingsverband of opstellen gebiedsplan |   | € 200.000 |
 |   | [5.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.3) |   | Verhogen grondwaterstand in veenweidegebieden | 22-04-2026 t/m 08-06-2026 | € 39.000.000 |
 |   | [5.8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.4) |   | Extensivering in overgangsgebieden N2000 | 22-04-2026 t/m 08-06-2026 | € 78.778.000 |
 | [Titel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.9): Subsidie voor de vestiging van jonge landbouwers | [5.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.9.2) | Jonge landbouwers | Het stimuleren van jonge landbouwers bij de vestiging van een landbouwbedrijf met als doel generatievernieuwing | 02-03-2026 t/m 01-05-2026 | € 60.455.791 |
 
-#### Artikel 4. Intrekken Regeling
+##### Artikel 4. Intrekken Regeling
 
 De [Regeling openstelling EZK- en LNV-subsidies 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049118) wordt ingetrokken.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026.
 

@@ -3,7 +3,7 @@ title: "Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie"
 identifier: "BWBR0052266"
 categorie: "Overig"
 publicatiedatum: 2026-02-06
-laatste_update: 2026-02-06
+laatste_update: 2026-05-01
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052266"
 ---
@@ -12,7 +12,7 @@ bron: "https://wetten.overheid.nl/BWBR0052266"
 
 Besluiten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **commissie:** de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-02-06&g=2026-02-06);
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie ICT-inbreuk openbaar ministerie.
 
@@ -40,7 +40,7 @@ In dit besluit wordt verstaan onder:
 
 4. Naar aanleiding van haar bevindingen en conclusies is de commissie bevoegd aanbevelingen te doen, zoals over de wijze waarop incidenten in de informatiebeveiliging in de toekomst zo veel mogelijk kunnen worden voorkomen, vroegtijdig te detecteren dan wel de impact van (misbruik van) deze kwetsbaarheden kunnen worden beperkt rekening houdend met de ketenorganisaties.
 
-#### Artikel 3. Leden
+##### Artikel 3. Leden
 
 1. De commissie bestaat uit een voorzitter en twee andere leden.
 
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - c. De heer B. Voorbraak.
 
-#### Artikel 4. Samenstelling, benoeming en ontslag
+##### Artikel 4. Samenstelling, benoeming en ontslag
 
 1. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie onafhankelijk (en zonder beïnvloeding van derden) uit.
 
@@ -60,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter en overige leden kunnen (op eigen verzoek, wegens ongeschiktheid of op andere zwaarwegende gronden) worden geschorst en ontslagen door de minister en het college.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie voorziet zelf, in overleg met het Ministerie van Justitie en Veiligheid en het openbaar ministerie, in haar secretaris en eventueel secretariaat.
 
@@ -72,7 +72,7 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 3. Aan het secretariaat kunnen medewerkers worden toegevoegd.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie, de minister en het college leggen in een protocol vast op welke wijze informatie wordt verstrekt en de vertrouwelijkheid daarvan wordt geborgd, op welke wijze personen worden gehoord en daarvan verslag wordt gedaan en hoe bevindingen worden voorgelegd aan personen of instanties die door deze bevindingen worden geraakt of die daarover bedenkingen zouden kunnen hebben. Voor het overige stelt de commissie haar eigen werkwijze vast.
 
@@ -82,7 +82,7 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 4. De commissie verantwoordt haar werkwijze in het eindrapport.
 
-#### Artikel 8. Inwinnen van inlichtingen
+##### Artikel 8. Inwinnen van inlichtingen
 
 1. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie stellen elk een aanspreekpunt beschikbaar ten behoeve van de commissie.
 
@@ -94,7 +94,7 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 5. De commissie zal over de aan haar geboden medewerking rapporteren in haar eindrapport.
 
-#### Artikel 9. Vergoedingen en kosten
+##### Artikel 9. Vergoedingen en kosten
 
 1. De kosten van de commissie komen, voor zover op basis van een goedgekeurde raming, voor rekening van de minister en het college. Onder kosten worden in ieder geval verstaan:
 
@@ -114,21 +114,21 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 4. De commissie laat een accountantscontrole uitvoeren van het financieel overzicht.
 
-#### Artikel 10. Eindrapport
+##### Artikel 10. Eindrapport
 
 De commissie brengt haar eindrapport uit aan de minister en het college.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 1. Het archief van de commissie wordt bij opheffing van de commissie overgebracht naar het archief van openbaar ministerie.
 
 2. Het beheer vindt plaats met inachtneming van de door de commissie in haar protocol aangegeven vertrouwelijkheid, waarover de commissie nadere afspraken met het parket-generaal van het openbaar ministerie maakt.
 
-#### Artikel 12. Inwerkingtreding en verval
+##### Artikel 12. Inwerkingtreding en verval
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 december 2025 en vervalt op 1 mei 2026.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie.
 

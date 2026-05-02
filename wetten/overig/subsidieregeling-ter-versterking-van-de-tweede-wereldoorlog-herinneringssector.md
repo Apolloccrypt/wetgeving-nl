@@ -2,8 +2,8 @@
 title: "Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector"
 identifier: "BWBR0051488"
 categorie: "Overig"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
+publicatiedatum: 2026-04-29
+laatste_update: 2026-04-30
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0051488"
 ---
@@ -14,13 +14,11 @@ Gelet op [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraagtijdvak 1:** de periode van 3 november 2025 09:00 uur tot en met 6 januari 2026 13:00 uur;
-
-- **aanvraagtijdvak 2:** de periode van 1 mei 2026 09:00 uur tot en met 15 juni 2026 13:00 uur;
+- **aanvraagtijdvak 2025:** de periode van 3 november 2025 09:00 uur tot en met 6 januari 2026 13:00 uur;
 
 - **algemene groepsvrijstellingsverordening:** [Verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;
 
@@ -28,11 +26,11 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2. Toepasselijkheid Kaderregeling
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 De subsidie is een subsidie als bedoeld in [artikel 1.5, onderdeel d, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de kennisoverdracht van inwoners van het Koninkrijk der Nederlanden over de Holocaust of over gebeurtenissen die in de aanloop naar, tijdens, of in de nasleep van de Tweede Wereldoorlog hebben plaatsgevonden en weinig maatschappelijke aandacht hebben, namelijk:
 
@@ -48,9 +46,9 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 - f). collaboratie en verzet.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
-1. De Minister kan op aanvraag subsidie verstrekken voor de volgende activiteiten die bijdragen aan het realiseren van het doel van de regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=3&z=2025-10-01&g=2025-10-01):
+1. De Minister kan op aanvraag subsidie verstrekken voor de volgende activiteiten die bijdragen aan het realiseren van het doel van de regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=3&z=2026-04-29&g=2026-04-29):
 
 - a. museale activiteiten;
 
@@ -66,11 +64,11 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 3. De activiteiten, bedoeld in het eerste lid, worden uitgevoerd gedurende een periode van minimaal één jaar en tot en met uiterlijk 5 november 2029.
 
-#### Artikel 5. Subsidievoorwaarden
+##### Artikel 5. Subsidievoorwaarden
 
 1. Subsidie kan uitsluitend worden aangevraagd door een rechtspersoon met volledige rechtsbevoegdheid, zonder winstoogmerk, die is ingeschreven in het Handelsregister van de Kamer van Koophandel.
 
-2. Subsidie voor de activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=4&z=2025-10-01&g=2025-10-01), wordt uitsluitend verstrekt indien de activiteiten;
+2. Subsidie voor de activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=4&z=2026-04-29&g=2026-04-29), wordt uitsluitend verstrekt indien de activiteiten;
 
 - a. een digitaal component hebben;
 
@@ -80,13 +78,13 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 - d. mede gericht zijn op het benadrukken van het belang van de democratie of het benadrukken van het belang van rechtsgelijkheid.
 
-3. Subsidie wordt uitsluitend verstrekt indien de subsidieaanvrager de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit en Inclusie onderschrijft, conform [artikel 8, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=8&z=2025-10-01&g=2025-10-01).
+3. Subsidie wordt uitsluitend verstrekt indien de subsidieaanvrager de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit en Inclusie onderschrijft, conform [artikel 8, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=8&z=2026-04-29&g=2026-04-29).
 
-4. Indien een aanvraag tot subsidieverlening betrekking heeft op museale activiteiten, als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=4&z=2025-10-01&g=2025-10-01), wordt subsidie uitsluitend verstrekt als de subsidieaanvrager, uiterlijk op het moment van de sluiting van het aanvraagtijdvak en gedurende de subsidieperiode, is ingeschreven in het Museumregister Nederland.
+4. Indien een aanvraag tot subsidieverlening betrekking heeft op museale activiteiten, als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=4&z=2026-04-29&g=2026-04-29), wordt subsidie uitsluitend verstrekt als de subsidieaanvrager, uiterlijk op het moment van de sluiting van het aanvraagtijdvak en gedurende de subsidieperiode, is ingeschreven in het Museumregister Nederland.
 
 5. Een subsidieaanvrager komt gedurende de looptijd van de regeling eenmaal in aanmerking voor subsidie.
 
-#### Artikel 6. Hoogte van de subsidie en subsidiabele kosten
+##### Artikel 6. Hoogte van de subsidie en subsidiabele kosten
 
 1. In afwijking van [artikel 10.1, tweede lid, onder a, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) bedraagt de subsidieverlening voor de activiteiten in totaal ten minste € 125.000 en ten hoogste € 400.000.
 
@@ -98,21 +96,17 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 - b. bouw, bouwkundige uitbreiding of bouwkundige verbouwing of bouwkundig onderhoud van ruimten waarin educatieve of museale activiteiten plaatsvinden, behalve als dit bijdraagt aan de toegankelijkheid van mensen met een beperking.
 
-#### Artikel 7. Subsidieplafond en wijze van verdeling
+##### Artikel 7. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond bedraagt:
-
-- a. € 1.000.000 in aanvraagtijdvak 1; en
-
-- b. € 3.000.000 in aanvraagtijdvak 2.
+1. Het subsidieplafond voor aanvraagtijdvak 2025 bedraagt € 1.000.000.
 
 2. De Minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag in het geval het subsidieplafond volledig wordt uitgeput, door middel van rangschikking van de ingediende subsidieaanvragen, conform de wegingscriteria, bedoeld in de bijlage bij deze regeling.
 
 3. In aanvulling op het tweede lid geldt dat indien de weging geen uitsluitsel geeft vanwege gelijke rangschikking het resterende subsidiebudget zal worden uitgeput op basis van loting.
 
-#### Artikel 8. Aanvraag tot subsidieverlening
+##### Artikel 8. Aanvraag tot subsidieverlening
 
-1. Een aanvraag tot verlening van een subsidie wordt ingediend in aanvraagtijdvak 1 of aanvraagtijdvak 2.
+1. Een aanvraag tot verlening van een subsidie wordt ingediend in aanvraagtijdvak 2025.
 
 2. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat een aanvraag tot subsidieverlening vergezeld van:
 
@@ -130,15 +124,15 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 3. Voor de aanvraag tot subsidieverlening wordt een door de Minister vastgesteld formulier gebruikt.
 
-#### Artikel 9. Besluit tot subsidieverlening
+##### Artikel 9. Besluit tot subsidieverlening
 
 De Minister besluit binnen 13 weken na afloop van de periode waarin aanvragen tot subsidieverlening kunnen worden ingediend.
 
-#### Artikel 10. Bevoorschotting en betaling
+##### Artikel 10. Bevoorschotting en betaling
 
 In aanvulling op [artikel 6.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1) kan de Minister bij het besluit tot verlening van de subsidie ook een voorschot verstrekken en betalen op basis van een ingediende liquiditeitsprognose.
 
-#### Artikel 11. Aanvraag tot subsidievaststelling
+##### Artikel 11. Aanvraag tot subsidievaststelling
 
 1. De subsidieaanvrager toont aan de hand van een activiteitenverslag en een financieel verslag, vergezeld van een controleverklaring, aan dat de activiteiten zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
@@ -146,17 +140,17 @@ In aanvulling op [artikel 6.1 van de Kaderregeling subsidies OCW, SZW en VWS](ht
 
 3. Voor de aanvraag tot vaststelling van de subsidie wordt een door de Minister vastgesteld formulier gebruikt.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 oktober 2025.
 
 2. De regeling vervalt met ingang van 1 oktober 2030 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd en verstrekt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector.
 
-## Bijlage. Wegingscriteria als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=7&z=2025-10-01&g=2025-10-01)
+## Bijlage. Wegingscriteria als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=7&z=2026-04-29&g=2026-04-29)
 
 | Criterium | Omschrijving | Wat moet er in de aanvraag zijn opgenomen? | Score maximaal 125 punten |
 | --- | --- | --- | --- |

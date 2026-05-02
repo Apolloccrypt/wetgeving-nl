@@ -2,8 +2,8 @@
 title: "Regeling wijn en olijfolie"
 identifier: "BWBR0035180"
 categorie: "Overig"
-publicatiedatum: 2022-08-26
-laatste_update: 2022-08-26
+publicatiedatum: 2026-04-25
+laatste_update: 2026-04-30
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0035180"
 ---
@@ -30,7 +30,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen over wijn en olijfolie
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **in de handel brengen:** ten verkoop voorhanden en in voorraad hebben, te koop aanbieden, verkopen of afleveren;
 
-- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - **olijfolie:** olijfolie als bedoeld in artikel 1, tweede lid, onderdeel g, van de basisverordening;
 
@@ -68,6 +68,8 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsverordening (EU) 2019/935:** Uitvoeringsverordening (EU) 2019/935 van de Commissie van 16 april 2019 tot vaststelling van voorschriften voor de toepassing van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft analysemethoden om de fysische, chemische en organoleptische kenmerken van wijnbouwproducten te bepalen, en wat betreft meldingen van besluiten van de lidstaten betreffende de verhoging van het natuurlijke alcoholgehalte (PbEU 2019, L149;
 
+- **uitvoeringsverordening (EU) 2022/2105:** [Uitvoeringsverordening (EU) 2022/2105](32022R2105) van de Commissie van 29 juli 2022 tot vaststelling van voorschriften inzake de handelsnormcontroles voor olijfolie en inzake de analysemethoden voor de kenmerken van olijfolie (PbEU 2022, L284);
+
 - **wijn:** de producten, genoemd in bijlage VII, deel II, van de basisverordening;
 
 - **wijnbouwproducten:** de producten, genoemd in bijlage I, deel XII, van de basisverordening;
@@ -76,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - **wijnproducent:** een natuurlijke of rechtspersoon of groepering van dergelijke personen die over verse druiven of druivenmost of jonge, nog gistende wijn beschikt of heeft beschikt en die deze producten zelf tot wijn verwerkt of laat verwerken met uitzondering van productie uitsluitend bestemd voor consumptie door de wijnbouwer en zijn gezin.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wijnbouwproducten worden slechts bereid, getransporteerd en in de handel gebracht overeenkomstig het bij of krachtens de communautaire verordeningen bepaalde.
 
@@ -84,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 3. Olijfolie wordt slechts in de handel gebracht overeenkomstig het bij of krachtens de basisverordening bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waartoe het bij of krachtens hoofdstuk I en hoofdstuk II, afdeling 2, van titel II van deel II van de basisverordening of artikel 90 van verordening (EU) nr. 1306/2013 bepaalde, voor zover het wijn of olijfolie betreft, of het bij of krachtens verordening (EU) nr. 251/2014 bepaalde een tot de overheid behorend orgaan de opdracht geeft of de keuze laat.
 
@@ -92,7 +94,7 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 #### § 2. Het vervoer
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien in Nederland het vervoer van wijnbouwproducten begint, wordt het begeleidend document, bedoeld in artikel 10 van gedelegeerde verordening (EU) 2018/273, alsmede de kopieën daarvan, door de wijnhandelaar opgemaakt en afgegeven.
 
@@ -100,7 +102,7 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 #### § 3. De bereiding
 
-#### Artikel 5
+##### Artikel 5
 
 1. De hoeveelheid alcohol in draf en wijnmoer na persing is ten minste 5 procent.
 
@@ -116,19 +118,19 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 #### § 4. Administratieve verplichtingen
 
-#### Artikel 6
+##### Artikel 6
 
 Het minimumpercentage alcoholvolume in bijproducten is 5% van het alcoholvolume in de geproduceerde wijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de weersomstandigheden uitzonderlijk ongunstig zijn geweest, kan de minister op verzoek voor het betreffende oogstjaar besluiten het in bijlage VIII, deel I, afdeling A, punt 2, van de basisverordening genoemde maximale alcoholpercentage te verhogen met 0,5%.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 De wijnhandelaar of de wijnproducent:
 
@@ -136,15 +138,15 @@ De wijnhandelaar of de wijnproducent:
 
 - b. vermeldt door een ongeluk veroorzaakte veranderingen van de hoeveelheid producten binnen 7 werkdagen na constatering apart in het register onder opgave van de reden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het maximumpercentage voor verlies als bedoeld in artikel 19, eerste lid, van uitvoeringsverordening (EU) 2018/274 is:
 
 - a. voor verlies als gevolg van verdamping voor elke maand van opslag in:
 
-- –. houten vaten: 0,4%;
+  - –. houten vaten: 0,4%;
 
-- –. andere vaten met een volume van meer dan 60 liter: 0,05%;
+  - –. andere vaten met een volume van meer dan 60 liter: 0,05%;
 
 - b. voor verlies bij de verwerking van most tot wijn: 8%;
 
@@ -152,13 +154,13 @@ De wijnhandelaar of de wijnproducent:
 
 2. De wijnhandelaar of de wijnproducent doet van een overschrijding van de in het eerste lid genoemde percentages of van de toleranties, bedoeld in artikel 19, tweede lid, van uitvoeringsverordening (EU) 2018/274, binnen 7 werkdagen na constatering een melding bij de minister.
 
-#### Artikel 11
+##### Artikel 11
 
 Producenten van wijn dienen jaarlijks uiterlijk op 15 januari bij de minister de opgave in, met een door de minister ter beschikking gesteld middel, van de wijn die ze hebben geproduceerd van de oogst van het lopende wijnoogstjaar, overeenkomstig artikel 31, derde lid, van gedelegeerde verordening (EU) 2018/273.
 
 #### § 5. Etikettering
 
-#### Artikel 12
+##### Artikel 12
 
 Bij de etikettering en presentatie van wijnbouwproducten mag, in afwijking van artikel 119, eerste lid, onderdeel a, van de basisverordening, de term ‘wijn’ worden gebruikt indien:
 
@@ -166,33 +168,33 @@ Bij de etikettering en presentatie van wijnbouwproducten mag, in afwijking van a
 
 - b. deze term onderdeel is van een samengestelde benaming.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De codenummers, bedoeld in artikel 46, vijfde lid, van gedelegeerde verordening (EU) 2019/33 worden op aanvraag vastgesteld door de minister. Slechts die codenummers worden gebruikt die zijn vastgesteld door de minister.
 
 2. Aanvragen voor codenummers als bedoeld in het eerste lid worden ingediend bij de minister.
 
-#### Artikel 14
+##### Artikel 14
 
 In geval van directe export van wijn naar derde landen mogen op het etiket aanduidingen worden aangebracht die afwijken van de etiketteringsvoorschriften, mits die aanduidingen zijn vereist in de wetgeving van het land van bestemming.
 
 #### § 6. Cépagewijnen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aanvragen voor certificering als bedoeld in artikel 120, tweede lid, onderdeel a, van de basisverordening worden ingediend bij de minister met een door de minister ter beschikking gesteld middel.
 
-2. Na certificering mag op het etiket worden vermeld: ‘cépagewijn’ aangevuld met het druivenras, oogstjaar en ‘Nederland’.
+2. Na certificering mag op het etiket worden vermeld: ‘cépagewijn’ aangevuld met de druivenrassen, het oogstjaar en de aanduiding “Nederland”.
 
 3. Voor de verificatie door de NVWA van een aanvraag voor certificering van cépagewijn wordt een door de minister vast te stellen vergoeding van kosten in rekening gebracht.
 
 #### § 7. Bescherming van oorsprongsbenaming of geografische aanduiding
 
-#### Artikel 16
+##### Artikel 16
 
 Een aanvraag tot opname in het register van beschermde oorsprongsbenamingen en geografische aanduidingen, een verzoek tot wijziging of een verzoek tot annulering wordt ingediend bij de minister.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De nationale aanvragen tot registratie, de verzoeken tot wijziging en de verzoeken tot annulering worden door de minister bekendgemaakt in de Staatscourant.
 
@@ -200,41 +202,41 @@ Een aanvraag tot opname in het register van beschermde oorsprongsbenamingen en g
 
 3. Door de Europese Commissie in het Publicatieblad van de Europese Unie bekendgemaakte ingeschreven registraties, ingeschreven wijzigingen van een productdossier of geannuleerde registraties worden door de minister bekendgemaakt in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
-1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2022-08-26&g=2022-08-26), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
+1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2026-04-25&g=2026-04-25), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
 2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
 3. De minister betrekt de in het tweede lid bedoelde bedenkingen in zijn besluit om al dan niet bezwaar als bedoeld in artikel 98 van de basisverordening tegen de registratie aan te tekenen bij de Europese Commissie.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 20
+##### Artikel 20
 
-De laboratoria Meron BCL en NVWA Laboratorium voeder- en voedselveiligheid zijn de bevoegde laboratoria als bedoeld in artikel 146 van de basisverordening.
+Het laboratorium Meron BCL is het bevoegde laboratorium, bedoeld in artikel 146 van de basisverordening.
 
-#### Artikel 21
+##### Artikel 21
 
 De codenummers, bedoeld in artikel 46, vijfde lid, van gedelegeerde verordening (EU) 2019/33, die voor 1 juli 2014 zijn vastgesteld door het Hoofdproductschap Akkerbouw behouden hun geldigheid.
 
-#### Artikel 22
+##### Artikel 22
 
 Archiefbescheiden van het Hoofdproductschap Akkerbouw betreffende zaken die op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 23
+##### Artikel 23
 
 De [Regeling olijfolie](https://wetten.overheid.nl/jci1.3:c:BWBR0034309) wordt ingetrokken.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling treedt in werking met ingang van 1 juli 2014.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling wordt aangehaald als: Regeling wijn en olijfolie.
 
@@ -242,7 +244,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 #### § 8. Proefaanplant
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Een producent van voor wijnbereiding bestemde druiven van een ras dat behoort tot een soort die niet is opgenomen op de lijst van toegelaten rassen van de Internationale Organisatie voor wijnbouw en wijnbereiding (International Organisation of Vine and Wine – OIV), kan in het kader van wetenschappelijk onderzoek en experimenten de minister om een vergunning voor een proefaanplant van dit druivenras verzoeken.
 
@@ -254,7 +256,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 3. Een proefaanplant betreft maximaal 1 hectare en minstens 300 stokken.
 
-#### Artikel 19b
+##### Artikel 19b
 
 1. De minister verleent de vergunning voor 10 jaar met de mogelijkheid van verlenging voor dezelfde duur.
 
@@ -268,7 +270,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Wijnproducenten registreren zich bij de minister.
 
@@ -292,9 +294,9 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 #### § 9. Oenologisch experiment
 
-#### Artikel 19c
+##### Artikel 19c
 
-1. De minister kan voor drie jaar toestemming verlenen voor het uitvoeren van een grootschalig experiment voor de toepassing van een oenologische behandeling of een oenologisch procedé als bedoeld in artikel 4 van gedelegeerde verordening (EU) 2019/934.
+1. De minister kan voor vijf jaar toestemming verlenen voor het uitvoeren van een grootschalig experiment voor de toepassing van een oenologische behandeling of een oenologisch procedé als bedoeld in artikel 4 van gedelegeerde verordening (EU) 2019/934.
 
 2. Voor het verlenen van toestemming wordt aan de volgende voorwaarden voldaan:
 
@@ -324,14 +326,34 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 4. In de toestemming kunnen voorschriften worden opgenomen over de aard en wijze van gebruik van de wijn, de hoeveelheid wijn, de rapportageverplichtingen, de etikettering en de bestemming.
 
-5. De minister kan toestemming verlenen voor het in de handel brengen van de wijn die is verkregen door de experimentele toepassing van de oenologische behandeling of het oenologisch procedé, indien de analyse van deze wijn door een erkend laboratorium aantoont dat deze wijn geen gevaar oplevert voor de volksgezondheid.
+5. De minister kan toestemming verlenen voor het in de handel brengen van de wijn die is verkregen door de experimentele toepassing van de oenologische behandeling of het oenologisch procedé, indien de analyse van deze wijn door een aangewezen laboratorium als bedoeld in artikel 146 van de basisverordening aantoont dat deze wijn geen gevaar oplevert voor de volksgezondheid.
 
 6. In geval van ernstige twijfel over de correcte naleving of constatering van niet-naleving van de in het vierde lid bedoelde voorschriften wordt de toestemming onmiddellijk ingetrokken.
 
-7. Aan de minister kan verlenging van de toestemming, bedoeld in het eerste lid, worden verzocht voor ten hoogste drie jaren.
+7. De rapportages, bedoeld in het vierde lid, en het verzoek om toestemming, bedoeld in het vijfde lid, worden ingediend met een volledig ingevuld door de minister ter beschikking gesteld middel.
 
 ### Hoofdstuk 3. Overige bepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
 #### § 4. Administratieve verplichtingen
+
+##### Artikel 20a
+
+1. De minister verleent op aanvraag een erkenning als bedoeld in artikel 10 van [uitvoeringsverordening (EU) 2022/2105](32022R2105) aan een proefpanel voor organoleptische keuring van olijfolie indien wordt voldaan aan de volgende eisen:
+
+- a. er wordt voldaan aan de eisen van de in bijlage I, punt 5, van [uitvoeringsverordening (EU) 2022/2105](32022R2105) genoemde methode voor de bepaling van de organoleptische kenmerken van olijfolie van de eerste persing;
+
+- b. de voorzitter van het panel heeft een daartoe erkende opleiding; en
+
+- c. het proefpanel beschikt over een accreditatie voor NEN-EN-ISO/IEC 17025.
+
+2. De minister kan op aanvraag aan een proefpanel voor organoleptische keuring van olijfolie een voorlopige erkenning voor twee jaar verlenen indien het proefpanel een aanvraag voor accreditatie voor NEN-EN-ISO/IEC 17025 bij de Raad voor Accreditatie heeft ingediend en met het accreditatieproces is gestart.
+
+3. Het verzoek om een erkenning of een voorlopige erkenning omvat:
+
+- a. een volledig ingevuld door de minister ter beschikking gesteld middel; en
+
+- b. een beschrijving en bewijsstukken waaruit blijkt dat aan de voorschriften van het eerste lid of het eerste lid, onderdelen a en b, en het tweede lid wordt voldaan.
+
+Deze regeling zal in de Staatscourant worden geplaatst.

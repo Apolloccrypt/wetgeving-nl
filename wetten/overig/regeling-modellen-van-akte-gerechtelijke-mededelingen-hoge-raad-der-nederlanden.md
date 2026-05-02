@@ -3,7 +3,7 @@ title: "Regeling modellen van akte gerechtelijke mededelingen Hoge Raad der Nede
 identifier: "BWBR0043959"
 categorie: "Overig"
 publicatiedatum: 2020-07-25
-laatste_update: 2020-07-25
+laatste_update: 2026-05-01
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0043959"
 ---
@@ -16,21 +16,21 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop Artikel I, onderdelen A en C, van de Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De modellen van akte, bedoeld in [artikel 36h, vijfde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h), worden vastgesteld overeenkomstig de bijlage bij deze regeling.
 
 2. Indien de identiteit wordt vastgesteld op grond van[artikel 36h, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h), worden het nummer van het identiteitsbewijs en het type identiteitsbewijs genoteerd op de akte van uitreiking.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien degene aan wie de uitreiking heeft plaatsgevonden geen handtekening voor ontvangst plaatst in verband met de uitbraak van COVID-19, wordt de in de bijlage bij deze regeling opgenomen aanvulling op de akte van uitreiking ingevuld.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling modellen van akte gerechtelijke mededelingen Hoge Raad der Nederlanden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze regeling treedt in werking met ingang van de dag waarop Artikel I, onderdelen A en C, van de Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen in werking treedt.
 

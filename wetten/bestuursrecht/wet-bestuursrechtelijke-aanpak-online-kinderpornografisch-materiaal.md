@@ -2,8 +2,8 @@
 title: "Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal"
 identifier: "BWBR0049813"
 categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
+publicatiedatum: 2026-04-25
+laatste_update: 2026-04-30
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0049813"
 ---
@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 1. Inleidende bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +26,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **aanbieder van hostingdiensten:** de aanbieder van een communicatiedienst bestaande in de opslag van gegevens die van een ander afkomstig zijn;
 
-- –. **Autoriteit:** de Autoriteit, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01);
+- –. **Autoriteit:** de Autoriteit, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=2&artikel=2&z=2026-04-25&g=2026-04-25);
 
 - –. **geautomatiseerd werk:** een geautomatiseerd werk als bedoeld in [artikel 80sexies van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=80sexies);
 
@@ -38,7 +38,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. De Autoriteit Online Terroristisch en Kinderpornografisch Materiaal
 
-#### Artikel 2. De Autoriteit
+##### Artikel 2. De Autoriteit
 
 1. De Autoriteit, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2), heeft mede tot taak:
 
@@ -48,17 +48,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De leden van de Autoriteit en de bij besluit van de Autoriteit aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
-#### Artikel 3. Strafuitsluitingsgrond
+##### Artikel 3. Strafuitsluitingsgrond
 
 [Artikel 252 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=252) is niet van toepassing op de Autoriteit en de onder de Autoriteit werkzame personen, voor zover deze handelingen verrichten ter uitvoering van de bij deze wet aan de Autoriteit opgedragen taken en bevoegdheden.
 
-#### Artikel 4. Elektronisch verkeer
+##### Artikel 4. Elektronisch verkeer
 
 1. In afwijking van de [artikelen 2:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14), en [2:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15) wordt in het verkeer tussen de Autoriteit en een aanbieder van hostingdiensten een bericht uitsluitend elektronisch verzonden.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld over de wijze waarop het elektronisch berichtenverkeer plaatsvindt.
 
-#### Artikel 5. Afstemming
+##### Artikel 5. Afstemming
 
 1. Over de uitoefening van zijn taken en bevoegdheden overlegt de Autoriteit met de politie en het openbaar ministerie.
 
@@ -66,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. Maatregelen en sancties
 
-#### Artikel 6. Bevel
+##### Artikel 6. Bevel
 
 1. De Autoriteit kan een aanbieder van hostingdiensten die online kinderpornografisch materiaal heeft opgeslagen een bevel geven alle redelijkerwijs te nemen maatregelen te treffen om dit materiaal ontoegankelijk te maken.
 
@@ -82,29 +82,39 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de termijn waarbinnen dat moet gebeuren, met dien verstande dat die termijn ten hoogste twaalf uren bedraagt.
 
-#### Artikel 7. Last onder dwangsom
+##### Artikel 7. Last onder dwangsom
 
-De Autoriteit is bevoegd tot oplegging van een last onder dwangsom ter handhaving van de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), opgenomen verplichting.
+De Autoriteit is bevoegd tot oplegging van een last onder dwangsom ter handhaving van de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2026-04-25&g=2026-04-25), opgenomen verplichting.
 
-#### Artikel 8. Bestuurlijke boete
+##### Artikel 8. Bestuurlijke boete
 
-1. De Autoriteit is bevoegd tot oplegging van een bestuurlijke boete bij overtreding van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01). De op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. De Autoriteit is bevoegd tot oplegging van een bestuurlijke boete bij overtreding van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2026-04-25&g=2026-04-25). De op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Indien de overtreding bestaat uit het systematisch of aanhoudend overtreden van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), bedraagt de bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien die boetecategorie geen passende bestraffing toelaat, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
+2. Indien de overtreding bestaat uit het systematisch of aanhoudend overtreden van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2026-04-25&g=2026-04-25), bedraagt de bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien die boetecategorie geen passende bestraffing toelaat, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
-#### Artikel 9. Openbaarmaking
+##### Artikel 9. Openbaarmaking
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Autoriteit kan een beschikking tot oplegging van een last onder dwangsom als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=7&z=2026-04-25&g=2026-04-25) of een bestuurlijke boete als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=8&z=2026-04-25&g=2026-04-25), openbaar maken.
+
+2. Op de openbaarmaking is [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing.
+
+3. De openbaarmaking geschiedt niet eerder dan nadat twee weken zijn verstreken na de dag waarop het besluit bekend is gemaakt.
+
+4. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt de openbaarmaking opgeschort totdat de voorzieningenrechter uitspraak heeft gedaan of het verzoek is ingetrokken.
+
+5. Bij de openbaarmaking wordt vermeld of tegen het besluit tot oplegging van een last onder dwangsom of een bestuurlijke boete een rechtsmiddel is ingesteld dan wel of daartoe de mogelijkheid bestaat.
+
+6. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de wijze waarop de openbaarmaking plaatsvindt en de mogelijke reactie van de geadresseerde in verband met de openbaarmaking van zijn gegevens.
 
 #### Paragraaf 4. Persoonsgegevens
 
-#### Artikel 10. Bijzondere persoonsgegevens
+##### Artikel 10. Bijzondere persoonsgegevens
 
 1. Gelet op artikel 9, aanhef en tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om bijzondere categorieën van persoonsgegevens, als bedoeld in [artikel 1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=1), te verwerken niet van toepassing indien de verwerking geschiedt door de Autoriteit voor zover de verwerking van deze gegevens noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
 
 2. Gelet op artikel 10 van de Algemene verordening gegevensbescherming mag de Autoriteit persoonsgegevens van strafrechtelijke aard, als bedoeld in [artikel 1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=1), verwerken voor zover de verwerking noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
 
-#### Artikel 11. Rechten van betrokkenen
+##### Artikel 11. Rechten van betrokkenen
 
 1. De verplichtingen en rechten als bedoeld in artikel 23, eerste lid, van de Algemene verordening gegevensbescherming, kunnen worden beperkt indien dit noodzakelijk en evenredig is ter waarborging van een in artikel 23, eerste lid, onderdelen a, c, d, of i van de Algemene verordening gegevensbescherming genoemd belang.
 
@@ -112,33 +122,33 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. In afwijking van het tweede lid, wordt geen mededeling gedaan aan de betrokkene indien dit afbreuk doet aan het doel van de beperking.
 
-#### Artikel 12. Behoud van kinderpornografisch materiaal
+##### Artikel 12. Behoud van kinderpornografisch materiaal
 
-Dit onderdeel is nog niet inwerking getreden
+Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het behoud van het kinderpornografisch materiaal en de daarbij bijbehorende persoonsgegevens door de Autoriteit, en regels over de wijze waarop dit materiaal kan worden gebruikt ten behoeve van de strafvordering of de bestuursrechtelijke procedure.
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 13. Wijziging van het Wetboek van Strafrecht
+##### Artikel 13. Wijziging van het Wetboek van Strafrecht
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 14. Samenloop met de [Wet seksuele misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0049509)
+##### Artikel 14. Samenloop met de [Wet seksuele misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0049509)
 
 Wijzigt deze wet.
 
-#### Artikel 15. Wijziging [Uitvoeringswet TOI-verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0048064)
+##### Artikel 15. Wijziging [Uitvoeringswet TOI-verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0048064)
 
 Wijzigt de Uitvoeringswet verordening terroristische online-inhoud.
 
-#### Artikel 16. Samenloopbepaling [Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252)
+##### Artikel 16. Samenloopbepaling [Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252)
 
 Wijzigt deze wet.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal.
 

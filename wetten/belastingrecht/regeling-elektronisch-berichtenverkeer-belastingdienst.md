@@ -2,8 +2,8 @@
 title: "Regeling elektronisch berichtenverkeer Belastingdienst"
 identifier: "BWBR0037127"
 categorie: "Belastingrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
+publicatiedatum: 2026-05-01
+laatste_update: 2026-05-01
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0037127"
 ---
@@ -16,11 +16,11 @@ Besluit:
 
 ### Hoofdstuk 1. Elektronisch berichtenverkeer
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze regeling geeft uitvoering aan [artikel 3a, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [artikel 7c, tweede en derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c) en [artikel 13, tweede en derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=13).
 
-#### Artikel 2. Van verplichting tot verzending berichten langs elektronische weg uitgezonderde groepen
+##### Artikel 2. Van verplichting tot verzending berichten langs elektronische weg uitgezonderde groepen
 
 Voor de volgende groepen kan het berichtenverkeer, bedoeld in de [artikelen 3a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [artikel 7c, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c) en [artikel 13 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=13) anders dan langs elektronische weg plaatsvinden:
 
@@ -30,47 +30,55 @@ Voor de volgende groepen kan het berichtenverkeer, bedoeld in de [artikelen 3a v
 
 - c. belanghebbenden:
 
-- 1°. die onder bewind zijn gesteld als bedoeld in [artikel 431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431);
+  - 1°. die onder bewind zijn gesteld als bedoeld in [artikel 431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431);
 
-- 2°. voor wie een mentorschap is ingesteld als bedoeld in [artikel 450 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=450);
+  - 2°. voor wie een mentorschap is ingesteld als bedoeld in [artikel 450 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=450);
 
-- 3°. die onder curatele zijn gesteld als bedoeld in [artikel 378 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=378);
+  - 3°. die onder curatele zijn gesteld als bedoeld in [artikel 378 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=378);
 
-- 4°. die in staat van faillissement verkeren als bedoeld in [artikel 1 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=1) en ten aanzien van wie een curator is aangesteld als bedoeld in [artikel 68 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=68); of
+  - 4°. die in staat van faillissement verkeren als bedoeld in [artikel 1 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=1) en ten aanzien van wie een curator is aangesteld als bedoeld in [artikel 68 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=68); of
 
-- 5°. ten aanzien van wie een schuldsaneringsregeling is uitgesproken als bedoeld in [artikel 284 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=284) en een bewindvoerder is aangesteld als bedoeld in [artikel 314 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=314);
+  - 5°. ten aanzien van wie een schuldsaneringsregeling is uitgesproken als bedoeld in [artikel 284 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=284) en een bewindvoerder is aangesteld als bedoeld in [artikel 314 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=314);
 
 - d. belanghebbenden:
 
-- 1°. die op grond van [artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.68) of [2.83 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.83) als niet-ingezetene respectievelijk ingezetene van een openbaar lichaam zijn ingeschreven in de basisregistratie personen;
+  - 1°. die op grond van [artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.68) of [2.83 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.83) als niet-ingezetene respectievelijk ingezetene van een openbaar lichaam zijn ingeschreven in de basisregistratie personen;
 
-- 2°. die rechtspersoon zijn en in de administratie van de Belastingdienst zijn opgenomen met een vestigingsadres buiten Nederland;
+  - 2°. die rechtspersoon zijn en in de administratie van de Belastingdienst zijn opgenomen met een vestigingsadres buiten Nederland;
 
 - e. belanghebbenden als bedoeld in [artikel 33 van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=33).
 
-#### Artikel 3. De wijze waarop elektronisch berichtenverkeer plaatsvindt en van verplichting tot verzending langs elektronische weg uitgezonderde berichten
+##### Artikel 3. De wijze waarop elektronisch berichtenverkeer plaatsvindt en van verplichting tot verzending langs elektronische weg uitgezonderde berichten
 
 1. De wijze waarop het elektronisch berichtenverkeer plaatsvindt en de berichten waarvoor het berichtenverkeer anders dan langs elektronische weg kan plaatsvinden zijn opgenomen in de bij deze regeling behorende bijlage.
 
 2. In afwijking van de bijlage kan de inspecteur een papieren aangiftebiljet uitreiken aan ondernemers indien de aangifte betrekking heeft op een gedeelte van een tijdvak.
 
+3. In afwijking van de bijlage geldt voor de volgende berichten van de inspecteur dat, wanneer een belastingplichtige kiest voor ontvangst van deze berichten langs elektronische weg, [artikel 3a, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a) van toepassing blijft:
+
+- a). de aangiftebrief inkomstenbelasting (niet-winst) op grond van [artikel 6, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6);
+
+- b). de aanslag inkomstenbelasting (niet-winst) op grond van [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11);
+
+- c). een voorlopige aanslag inkomstenbelasting (niet-winst) op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13) en [14 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=14).
+
 ### Hoofdstuk 2. Wijziging van enige andere regelingen
 
-#### Artikel 4. Wijziging van de [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
+##### Artikel 4. Wijziging van de [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel 5. Wijziging van de [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236)
+##### Artikel 5. Wijziging van de [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236)
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 november 2015.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belastingdienst.
 
@@ -80,7 +88,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | --- | --- | --- | --- | --- | --- | --- |
 | Algemene wet inzake rijksbelastingen | Artikel 5b | Verzoek aanmerken ANBI | X |   |   |   |
 |   | Idem | Beschikking aanmerken ANBI | X |   |   |   |
-|   | Artikel 6, eerste lid | Aangiftebrief inkomstenbelasting (IB) | X |   |   |   |
+|   | Artikel 6, eerste lid | Aangiftebrief inkomstenbelasting (IB winst) | X |   |   |   |
+|   | idem | Aangiftebrief inkomstenbelasting (IB niet-winst) | X |   | Berichtenbox | DigiD |
 |   | Idem | Aangiftebrief omzetbelasting (OB) | X |   |   |   |
 |   | Idem | Aangiftebrief vennootschapsbelasting (Vpb) | X |   |   |   |
 |   | Artikel 6, tweede lid | Verzoek om uitnodiging tot het doen van aangifte | X |   |   |   |
@@ -123,7 +132,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | Idem | Verzoek om voorlopige aanslag Vpb die betrekking heeft op een boekjaar dat vóór 1 januari 2026 is aangevangen, ingediend door een buitenlands belastingplichtige | X |   |   |   |
 |   | Idem | Verzoek om voorlopige aanslag Vpb die betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2026, ingediend door een buitenlands belastingplichtige |   | X | SBR Digipoort | PKI Overheid services certificaat |
 |   |   |   |   |   | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge [Verordening (EU) nr. 910/2014](32014R0910) voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
-|   | Artikelen 11, 13, 14 en 15 | Aanslag, voorlopige aanslag, verzoek om voorlopige aanslag, beschikking inzake verrekening (alle belastingmiddelen) | X |   |   |   |
+|   | Artikelen 11, 13, 14 en 15 | Aanslag, voorlopige aanslag, verzoek om voorlopige aanslag, beschikking inzake verrekening (alle belastingmiddelen, met uitzondering van de volgende berichtenstromen) | X |   |   |   |
+|   | Artikelen 11, 13 en 14 | Aanslag en voorlopige aanslag IB niet-winst | X |   | Berichtenbox | DigiD |
 |   | Artikel 16 | Navorderingsaanslag (alle aanslagbelastingen) | X |   |   |   |
 |   | Artikel 20 | Naheffingsaanslag (alle aangiftebelastingen) | X |   |   |   |
 |   | Artikel 21k | Alle berichten in verband met de aanpassing van een inkomensgegeven als bedoeld in artikel 21 | X |   |   |   |

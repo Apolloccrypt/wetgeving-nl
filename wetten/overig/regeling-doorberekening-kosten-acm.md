@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Economische Zaken van 16 december 2014, nr. WJZ / 14185449, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Regeling doorberekening kosten ACM)"
+title: "Regeling doorberekening kosten ACM"
 identifier: "BWBR0036097"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036097"
-soort: "ministeriele-regeling"
-stam_id: "12932193"
-version_id: "22406742"
-internal_id: "C32152211"
-label_id: "12901494"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036097/2026-01-01/0"
-intitule_bron: "Stcrt.2014-36296"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-16"
-intitule_published: "2014-12-23"
-intitule_in_force: "2014-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-12056"
-original_signed_date: "2015-04-29"
-original_published_date: "2015-04-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-12056"
-entry_into_force_date: "2015-04-29"
-jci_1_3: "jci1.3:c:BWBR0036097&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0036097&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling doorberekening kosten ACM"
-signed_date: "2015-04-29"
-entry_into_force: "2015-04-29"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0036097"
 ---
+
 # Regeling van de Minister van Economische Zaken van 16 december 2014, nr. WJZ / 14185449, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Regeling doorberekening kosten ACM)
 
 Gelet op de [artikelen 6a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a), en [8 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=8), de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=10), [12, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12), en [12a, vierde en negende lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12a), [artikel 2.13, tweede lid, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.13), de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012621&artikel=2), en 4, eerste lid, van het Besluit kostenverhaal energie en de artikelen [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3), 4, derde lid, [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5), 5a, eerste lid, 5b, derde lid, en [7 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7), artikel 65, eerste lid, van de Postwet 2009 en artikel 14 van het Postbesluit 2009;
@@ -42,13 +16,13 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712).
 
 #### § 2. Bedragen die ter vergoeding van de kosten van beschikkingen worden doorberekend aan de marktorganisatie aan wie de beschikking is gericht of die de aanvraag heeft gedaan
 
-##### Artikel 2
+#### Artikel 2
 
 1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2026-01-01&g=2026-01-01) bedoelde bedragen, met dien verstande dat indien de hier bedoelde beschikkingen worden genomen vanwege het feit dat de oorspronkelijke nummerhouder is gefuseerd of gesplitst in de zin van [artikel 2:309](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309) respectievelijk [artikel 2:334a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a), het bedrag per beschikking € 64 is, in afwijking van de in bijlage 1 bedoelde bedragen.
 
@@ -58,7 +32,7 @@ In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten AC
 
 #### § 3. Doorberekening door middel van toerekening
 
-##### Artikel 3
+#### Artikel 3
 
 1. Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel b, onder 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=10) worden de volgende subcategorieën onderscheiden:
 
@@ -94,11 +68,11 @@ In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten AC
 
 - f. subcategorie F, per 1000 nummers: de voor elektronische communicatiediensten voor geautomatiseerde toepassingen bestemde nummers behorend tot de reeks 0970, genoemd in [bijlage 1 van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1).
 
-##### Artikel 4
+#### Artikel 4
 
 Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12) is € 2 miljoen.
 
-##### Artikel 5
+#### Artikel 5
 
 1. De in [artikel 12, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12) bedoelde correctie voor het saldo van in- en uitgeporteerde nummers vindt uitsluitend plaats indien met de correctie een bedrag van ten minste € 1.000 gemoeid is en het één van de volgende nummerreeksen uit het Nummerplan telefoon- en ISDN-diensten betreft:
 
@@ -112,11 +86,11 @@ Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](htt
 
 3. De correctie vindt plaats per marktorganisatie, tenzij er sprake is van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Alsdan vindt de correctie plaats per groep.
 
-##### Artikel 6
+#### Artikel 6
 
 Het bedrag van de omzet, bedoeld in [artikel 12a, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12a) is gelijk aan het bedrag, genoemd in [artikel 396, eerste lid, onderdeel b, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396).
 
-##### Artikel 7
+#### Artikel 7
 
 Als gegevens en bescheiden, bedoeld in [artikel 12a, negende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12a) worden aangewezen:
 
@@ -128,33 +102,33 @@ Als gegevens en bescheiden, bedoeld in [artikel 12a, negende lid, van het beslui
 
 #### § 4. Wijziging van andere regelingen
 
-##### Artikel 8
+#### Artikel 8
 
 Wijzigt de Regeling gegevensuitwisseling ACM en ministers.
 
-##### Artikel 9
+#### Artikel 9
 
 Wijzigt de Regeling kostenverhaal energie.
 
-##### Artikel 10
+#### Artikel 10
 
 Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
 #### § 4. Wijziging van andere regelingen
 
-##### Artikel 11
+#### Artikel 11
 
 De [Regeling vergoedingen Telecommunicatiewet en Postwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034350) wordt ingetrokken.
 
-##### Artikel 12
+#### Artikel 12
 
 Voor het in rekening brengen van de vóór 1 januari 2015 geldende bedragen of vergoedingen blijven de [Regeling kostenverhaal energie](https://wetten.overheid.nl/jci1.3:c:BWBR0030185) en de [Regeling vergoedingen Telecommunicatiewet en Postwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034350) zoals die luidden op 31 december 2014, van toepassing.
 
-##### Artikel 13
+#### Artikel 13
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-##### Artikel 14
+#### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling doorberekening kosten ACM.
 
@@ -170,11 +144,11 @@ Deze regeling wordt aangehaald als: Regeling doorberekening kosten ACM.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a
+#### Artikel 3a
 
 Vervallen
 
-##### Artikel 7a
+#### Artikel 7a
 
 1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2026-01-01&g=2026-01-01) bedoelde bedragen.
 
@@ -212,7 +186,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 6a
+#### Artikel 6a
 
 Het aantal transacties waaronder geen kosten in rekening worden gebracht aan marktorganisaties als bedoeld in [artikel 12, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12) is 50.000.000.
 
@@ -236,7 +210,7 @@ Het aantal transacties waaronder geen kosten in rekening worden gebracht aan mar
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 2a
+#### Artikel 2a
 
 Voor de behandeling van een aanvraag voor:
 

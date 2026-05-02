@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 19 september 2016, kenmerk MBO-930125 houdende vaststelling van een aantal keuzedelen waaraan mbo-certificaten verbonden kunnen worden (Regeling certificaten aantal keuzedelen beroepsonderwijs)"
+title: "Regeling certificaten middelbaar beroepsonderwijs"
 identifier: "BWBR0038543"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-23"
-last_updated: "2026-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0038543"
-soort: "ministeriele-regeling"
-stam_id: "13754753"
-version_id: "25814722"
-internal_id: "C36804421"
-label_id: "13721044"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0038543/2026-01-23/0"
-intitule_bron: "Stcrt.2016-50654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2016-09-19"
-intitule_published: "2016-09-28"
-intitule_in_force: "2016-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-24212"
-original_signed_date: "2019-04-25"
-original_published_date: "2019-04-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-24212"
-entry_into_force_date: "2019-05-01"
-jci_1_3: "jci1.3:c:BWBR0038543&z=2026-01-23&g=2026-01-23"
-jci_1_0: "1.0:c:BWBR0038543&g=2026-01-23"
-citeertitel_status: "officieel"
-short_title: "Regeling certificaten middelbaar beroepsonderwijs"
-signed_date: "2019-04-25"
-entry_into_force: "2019-05-01"
+categorie: "Onderwijs"
+publicatiedatum: 2026-01-23
+laatste_update: 2026-01-23
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0038543"
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 19 september 2016, kenmerk MBO-930125 houdende vaststelling van een aantal keuzedelen waaraan mbo-certificaten verbonden kunnen worden (Regeling certificaten aantal keuzedelen beroepsonderwijs)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -42,15 +16,15 @@ Gelet op [artikel 17c van het Examen- en kwalificatiebesluit beroepsopleidingen 
 
 Besluit:
 
-##### Artikel 1. Certificaten keuzedelen
+#### Artikel 1. Certificaten keuzedelen
 
 Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2026-01-23&g=2026-01-23) bij deze regeling.
 
-##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
+#### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
 Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2026-01-23&g=2026-01-23).
 
-##### Artikel 3. Inwerkingtreding
+#### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
@@ -724,7 +698,7 @@ Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 2. Inwerkingtreding
+#### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
@@ -734,6 +708,6 @@ Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 4. Citeertitel
+#### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: ‘Regeling certificaten middelbaar beroepsonderwijs’.

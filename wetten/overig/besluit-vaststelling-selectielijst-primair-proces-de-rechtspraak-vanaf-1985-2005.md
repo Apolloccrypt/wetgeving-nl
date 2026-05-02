@@ -3,7 +3,7 @@ title: "Besluit vaststelling selectielijst primair proces 'de Rechtspraak' vanaf
 identifier: "BWBR0044695"
 categorie: "Overig"
 publicatiedatum: 2021-01-08
-laatste_update: 2021-01-08
+laatste_update: 2026-05-01
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0044695"
 ---
@@ -14,11 +14,11 @@ Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde selectielijst van het primair proces van ‘de Rechtspraak’ voor de waardering van alle rechtszaak gebonden stukken, ontvangen of opgemaakt vanaf (1985) 2005 en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De selectielijst:
 
@@ -30,7 +30,7 @@ wordt afgesloten vanaf 1 januari 2005 voor ‘de Rechtspraak’.
 
 wordt afgesloten vanaf 1 januari 1985 voor ‘de Rechtspraak’.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

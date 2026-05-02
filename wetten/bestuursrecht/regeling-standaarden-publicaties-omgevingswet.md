@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 april 2023, 2023-000083586, houdende aanwijzing van standaarden voor publicatie van besluiten en andere rechtsfiguren op grond van de Omgevingswet (Regeling standaarden publicaties Omgevingswet)"
+title: "Regeling standaarden publicaties Omgevingswet"
 identifier: "BWBR0048085"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048085"
-soort: "ministeriele-regeling"
-stam_id: "16728913"
-version_id: "29349062"
-internal_id: "C41877161"
-label_id: "16645524"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048085/2024-01-01/0"
-intitule_bron: "Stcrt.2023-10954"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-17"
-intitule_published: "2023-04-20"
-intitule_in_force: "2023-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-10954"
-original_signed_date: "2023-04-17"
-original_published_date: "2023-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-10954"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048085&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0048085&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling standaarden publicaties Omgevingswet"
-signed_date: "2023-04-17"
-entry_into_force: "2024-01-01"
+categorie: "Bestuursrecht"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048085"
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 april 2023, 2023-000083586, houdende aanwijzing van standaarden voor publicatie van besluiten en andere rechtsfiguren op grond van de Omgevingswet (Regeling standaarden publicaties Omgevingswet)
 
 Gelet op [artikel 19, vijfde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) en de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=2.1) en [3.8 van het Besluit elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8);
@@ -42,7 +16,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel 1.1 van de Omgevingswet in werking treedt.
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +24,7 @@ In deze regeling wordt verstaan onder:
 
 - **publicatieblad:** een in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1) of [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) genoemd publicatieblad dat elektronisch worden uitgegeven, met uitzondering van het Staatsblad.
 
-##### Artikel 2. Aanwijzing technische standaarden
+#### Artikel 2. Aanwijzing technische standaarden
 
 1. De in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=4&z=2024-01-01&g=2024-01-01) genoemde besluiten en andere rechtsfiguren, en ontwerpen daarvan waarvan mededeling wordt gedaan, worden door de betrokken bestuursorganen voor publicatie in een publicatieblad elektronisch vormgegeven overeenkomstig de standaarden, genoemd in:
 
@@ -64,7 +38,7 @@ In deze regeling wordt verstaan onder:
 
 4. Op de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=5&z=2024-01-01&g=2024-01-01) genoemde besluiten en andere rechtsfiguren is uitsluitend het in die bijlage genoemde toepassingsprofiel voor het betrokken besluit of de betrokken andere rechtsfiguur van toepassing.
 
-##### Artikel 3. Uitzondering hybride besluiten
+#### Artikel 3. Uitzondering hybride besluiten
 
 [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&artikel=2&z=2024-01-01&g=2024-01-01) is niet van toepassing:
 
@@ -72,21 +46,21 @@ In deze regeling wordt verstaan onder:
 
 - b. als de wijziging van het besluit of de andere rechtsfiguur deel uitmaakt van een besluit of andere rechtsfiguur waarop dat artikel niet van toepassing is.
 
-##### Artikel 4. Clausule wederzijdse erkenning
+#### Artikel 4. Clausule wederzijdse erkenning
 
 Voor zover in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=1&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (Voor de EER relevante tekst) (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
-##### Artikel 5. Overgangsbepaling
+#### Artikel 5. Overgangsbepaling
 
 1. Gedurende de tijd dat [artikel 11.1 van het Besluit elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=11.1) van kracht is, kan een bestuursorgaan met betrekking tot de plaatsing van een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=4&z=2024-01-01&g=2024-01-01) of [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling genoemd besluit of andere rechtsfiguur in een publicatieblad, toepassing geven aan de regels, bedoeld in [artikel 2.3, eerste lid, van de Regeling elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&artikel=2.3), in plaats van de in deze regeling aangewezen technische standaarden.
 
 2. Voor zover toepassing is gegeven aan het eerste lid of aan [artikel 11.1, tweede lid, van het Besluit elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=11.1) is, in afwijking van [artikel 16.4a van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=16.4a), geen sprake van een omgevingsdocument.
 
-##### Artikel 6. Inwerkingtreding
+#### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel 1.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1) in werking treedt.
 
-##### Artikel 7. Citeertitel
+#### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling standaarden publicaties Omgevingswet.
 
