@@ -3,7 +3,7 @@ title: "Besluit voorlopige aanwijzing ambtenaren ACM als functionarissen belast 
 identifier: "BWBR0049576"
 categorie: "Sociaal recht"
 publicatiedatum: 2024-04-18
-laatste_update: 2024-04-18
+laatste_update: 2026-05-02
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0049576"
 ---
@@ -14,15 +14,15 @@ Gelet op artikel 14, vijfde en zesde lid, van [Verordening (EU) 2022/2560](32022
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het verlenen van bijstand bij een inspectie op grond van artikel 14, vijfde en zesde lid, van [Verordening (EU) 2022/2560](32022R2560) van het Europees Parlement en de Raad van 14 december 2022 betreffende buitenlandse subsidies die de interne markt verstoren (PbEU 2022, L 330/1) door de Europese Commissie zijn belast de ambtenaren, aangewezen krachtens [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt op een door de Minister van Economische Zaken en Klimaat te bepalen tijdstip.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit voorlopige aanwijzing ambtenaren ACM als functionarissen belast met het verlenen van bijstand bij een inspectie op grond van de verordening buitenlandse subsidies.
 

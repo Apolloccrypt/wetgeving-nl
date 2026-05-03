@@ -2,8 +2,8 @@
 title: "Subsidieprogramma Strategisch beurzen programma 2026–2030"
 identifier: "BWBR0052293"
 categorie: "Overig"
-publicatiedatum: 2026-02-17
-laatste_update: 2026-02-17
+publicatiedatum: 2026-05-02
+laatste_update: 2026-05-02
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052293"
 ---
@@ -16,11 +16,11 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2), met het oog op subsidiëring van activiteiten gericht op het vergroten van het netwerk en de kansen op internationaal ondernemen voor Nederlandse ondernemingen op strategische beurzen, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2030 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Strategisch beurzen programma 2026–2030 worden ingediend in halfjaarlijkse openstellingen.
 
@@ -30,29 +30,29 @@ Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministe
 
 4. Aanvragen voor subsidie in het kader van het Subsidieprogramma Strategisch beurzen programma 2026–2030 worden ingediend aan de hand van een door de minister beschikbaar gesteld aanvraagformulier en voorzien van de op het aanvraagformulier gevraagde bescheiden1Documenten beschikbaar via: [www.rvo.nl/subsidies-financiering.nl/sbp](http://www.rvo.nl/subsidies-financiering.nl/sbp).
 
-#### Artikel 3
+##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Strategisch beurzen programma 2026–2030 geldt voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052293&artikel=2&z=2026-02-17&g=2026-02-17), een totaal subsidieplafond van € 1,3 miljoen, onderverdeeld in de volgende subsidieplafonds:
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Strategisch beurzen programma 2026–2030 geldt voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052293&artikel=2&z=2026-05-02&g=2026-05-02), een totaal subsidieplafond van € 1.826.000, onderverdeeld in de volgende subsidieplafonds:
 
 - a. € 400.000 voor categorie 1: aanvragen gericht op Nederlandse lounges, Nederlandse paviljoens en/of collectieve netwerkactiviteiten;
 
-- b. € 425.000 voor categorie 2: aanvragen gericht op Nederlandse paviljoens en/of collectieve netwerkactiviteiten op een beurs voor een strategisch aangemerkte sector;
+- b. € 810.000 voor categorie 2: aanvragen gericht op Nederlandse paviljoens en/of collectieve netwerkactiviteiten op een beurs voor een strategisch aangemerkte sector;
 
-- c. € 475.000 voor categorie 3: aanvragen gericht op Nederlandse paviljoens en/of collectieve netwerkactiviteiten op strategisch aangemerkte beurzen.
+- c. € 616.000 voor categorie 3: aanvragen gericht op Nederlandse paviljoens en/of collectieve netwerkactiviteiten op strategisch aangemerkte beurzen.
 
 2. Als na toepassing van het eerste lid een deel van het totaal subsidieplafond resteert, wordt dit toegevoegd aan het totaal subsidieplafond voor de daaropvolgende openstelling.
 
-3. Voor subsidieverlening in het kader van het Subsidieprogramma Strategisch beurzen programma 2026–2030 gelden voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052293&artikel=2&z=2026-02-17&g=2026-02-17), nader bekend te maken subsidieplafonds.
+3. Voor subsidieverlening in het kader van het Subsidieprogramma Strategisch beurzen programma 2026–2030 gelden voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052293&artikel=2&z=2026-05-02&g=2026-05-02), nader bekend te maken subsidieplafonds.
 
-#### Artikel 4
+##### Artikel 4
 
-De verdeling van de subsidieplafonds, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052293&artikel=3&z=2026-02-17&g=2026-02-17), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit oogpunt van doelmatigheid voor categorie 3, genoemd in artikel 3, eerste lid, onderdeel c, per kalenderjaar niet meer dan twee subsidieaanvragen per sector in aanmerking komen voor subsidieverlening.
+De verdeling van de subsidieplafonds, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052293&artikel=3&z=2026-05-02&g=2026-05-02), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit oogpunt van doelmatigheid voor categorie 3, genoemd in artikel 3, eerste lid, onderdeel c, per kalenderjaar niet meer dan twee subsidieaanvragen per sector in aanmerking komen voor subsidieverlening.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2031, met dien verstande dat het besluit van toepassing blijft op aanvragen die voor die datum zijn ingediend en subsidies die voor die datum zijn verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Subsidieprogramma Strategisch beurzen programma 2026–2030.
 

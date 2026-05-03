@@ -2,8 +2,8 @@
 title: "Regeling certificaten middelbaar beroepsonderwijs"
 identifier: "BWBR0038543"
 categorie: "Onderwijs"
-publicatiedatum: 2026-01-23
-laatste_update: 2026-01-23
+publicatiedatum: 2026-05-01
+laatste_update: 2026-05-02
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0038543"
 ---
@@ -16,15 +16,15 @@ Gelet op [artikel 17c van het Examen- en kwalificatiebesluit beroepsopleidingen 
 
 Besluit:
 
-#### Artikel 1. Certificaten keuzedelen
+##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2026-01-23&g=2026-01-23) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2026-05-01&g=2026-05-01) bij deze regeling.
 
-#### Artikel 2. Certificaat voor beroepsgerichte onderdelen
+##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2026-01-23&g=2026-01-23).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2026-05-01&g=2026-05-01).
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
@@ -100,7 +100,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2026-01-23&g=2026-01-23)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2026-05-01&g=2026-05-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -449,10 +449,16 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1533 | Hoogspanningstechniek |
 | K1397 | Vakkundig werken in het agrarisch loonwerk |
 | K1396 | Vakkundig werken in groen en cultuurtechniek |
+|   |   |
+| **Certificaten voor keuzedelen vanaf april 2026** | **Certificaten voor keuzedelen vanaf april 2026** |
+| K1515 | Artificial Intelligence: een eigen generatieve AI-oplossing samenstellen |
+| K1499 | Artificial intelligence: werken met generatieve AI |
+| K1512 | Basis CNC draaien |
+| K1513 | Basis CNC frezen |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2026-01-23&g=2026-01-23)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2026-05-01&g=2026-05-01)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -698,7 +704,7 @@ Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2016.
 
@@ -708,6 +714,6 @@ Vervallen
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: ‘Regeling certificaten middelbaar beroepsonderwijs’.
