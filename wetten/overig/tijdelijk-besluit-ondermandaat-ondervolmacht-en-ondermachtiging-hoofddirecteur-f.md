@@ -3,7 +3,7 @@ title: "Tijdelijk besluit ondermandaat, ondervolmacht en ondermachtiging Hoofddi
 identifier: "BWBR0052581"
 categorie: "Overig"
 publicatiedatum: 2026-04-25
-laatste_update: 2026-04-30
+laatste_update: 2026-05-04
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052581"
 ---

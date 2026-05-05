@@ -1,38 +1,13 @@
 ---
 title: "Subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2023"
 identifier: "BWBR0048817"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-01"
-last_updated: "2023-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048817"
-soort: "zbo"
-stam_id: "16899303"
-version_id: "29701082"
-internal_id: "C42559551"
-label_id: "16811164"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048817/2023-11-01/0"
-intitule_bron: "Stcrt.2023-29583"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-20"
-intitule_published: "2023-10-31"
-intitule_in_force: "2023-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-29583"
-original_signed_date: "2023-10-20"
-original_published_date: "2023-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-29583"
-entry_into_force_date: "2023-11-01"
-jci_1_3: "jci1.3:c:BWBR0048817&z=2023-11-01&g=2023-11-01"
-jci_1_0: "1.0:c:BWBR0048817&g=2023-11-01"
-citeertitel_status: "officieel"
-signed_date: "2023-10-20"
-entry_into_force: "2023-11-01"
+categorie: "Sociaal recht"
+publicatiedatum: 2023-11-01
+laatste_update: 2023-11-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048817"
 ---
+
 # Subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2023
 
 gelet op [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de Raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van de verlening van rechtsbijstand voor bijzondere doeleinden en projecten,
@@ -43,7 +18,7 @@ de volgende subsidieregeling vast te stellen.
 
 ### Hoofdstuk I. Algemeen
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze subsidieregeling wordt verstaan onder:
 
@@ -99,13 +74,13 @@ In deze subsidieregeling wordt verstaan onder:
 
 - z. **Zienswijze:** reactie van de ouder op de vooraankondiging zoals bedoeld onder ‘s’ van dit artikel.
 
-##### Artikel 2. Doel
+#### Artikel 2. Doel
 
 Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand te regelen aan de rechtzoekende bij een verzoek in het kader van de herstelregelingen kinderopvangtoeslag bij Belastingdienst/Toeslagen, alsmede hieruit voortvloeiende procedures.
 
 ### Hoofdstuk II. De vergoedingen
 
-##### Artikel 3. De vergoedingen
+#### Artikel 3. De vergoedingen
 
 1. Advocaten ontvangen overeenkomstig de bepalingen van deze regeling een vergoeding voor de verlening van rechtsbijstand aan de rechtzoekende bij een verzoek in het kader van de herstelregelingen kinderopvangtoeslag bij Belastingdienst/Toeslagen en bij een verzoek voor overneming of betaling privaatrechtelijke schulden.
 
@@ -123,7 +98,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 4. Bij de toepassing van deze regeling wordt de financiële draagkracht van de rechtzoekende buiten beschouwing gelaten.
 
-##### Artikel 4. Vergoedingen voor rechtsbijstandverlening
+#### Artikel 4. Vergoedingen voor rechtsbijstandverlening
 
 1. Voor de rechtsbijstand aan de ouder als bedoeld in deze regeling wordt een vergoeding toegekend voor rechtsbijstand bij het verzamelen en beoordelen van de voor het verzoek tot herstel benodigde stukken en het geven van advies tot en met het opstellen van de zienswijze op de voorlopige beslissing, inclusief de daarbij behorende oudergesprekken:
 
@@ -189,7 +164,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 19. In geval rechtsbijstand is verleend door opvolgende advocaten zoals bedoeld in het achttiende lid van dit artikel, wordt de vergoeding betaald aan de advocaat die het laatst is toegevoegd. De advocaten verdelen het bedrag in onderling overleg naar verhouding van de verrichte werkzaamheden.
 
-##### Artikel 5. Vergoeding voor reiskosten en reistijdverlet
+#### Artikel 5. Vergoeding voor reiskosten en reistijdverlet
 
 1. Voor vergoeding van de kosten in verband met het reizen ten behoeve van de verlening van rechtsbijstand tijdens een oudergesprek, een mediationgesprek alsmede de zitting van de bezwaarschriftenadviescommissie, alsmede de zitting in het kader van een procedure tot vergoeding van de hogere werkelijke schade, alsmede de zitting bij de rechtbank, alsmede de zitting bij de Afdeling Bestuursrechtspraak van de Raad van State is [artikel 25 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25) van overeenkomstige toepassing.
 
@@ -201,7 +176,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 5. De Raad bepaalt de reisafstand op gestandaardiseerde wijze.
 
-##### Artikel 6. Kosteloze rechtsbijstand voor de rechtzoekende
+#### Artikel 6. Kosteloze rechtsbijstand voor de rechtzoekende
 
 1. De rechtsbijstand is voor de rechtzoekende kosteloos; er wordt geen eigen bijdrage opgelegd.
 
@@ -215,7 +190,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 ### Hoofdstuk III. Voorwaarden
 
-##### Artikel 7. Voorwaarden tot deelname voor advocaten
+#### Artikel 7. Voorwaarden tot deelname voor advocaten
 
 1. De regeling is van toepassing op advocaten die voldoen aan de in de bijlage onder I genoemde deelnamecriteria.
 
@@ -223,7 +198,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 ### Hoofdstuk IV. Aanvraag rechtsbijstand
 
-##### Artikel 8. Aanvraag van de rechtsbijstand
+#### Artikel 8. Aanvraag van de rechtsbijstand
 
 1. De aanvraag voor rechtsbijstand wordt initieel door de rechtzoekende bij de Raad ingediend.
 
@@ -237,25 +212,25 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 6. De advocaat kan voor de werkzaamheden als genoemd in het tweede tot en met het vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-11-01), een separate aanvraag indienen voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand gebruikt de advocaat een gestandaardiseerd aanvraagformulier ‘Aanvraag vervolgtoevoeging rechtsbijstand herstelregelingen Kinderopvangtoeslag’ en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
 
-##### Artikel 9. Aanvraag van de vergoeding
+#### Artikel 9. Aanvraag van de vergoeding
 
 Binnen 12 maanden na afronding van de werkzaamheden die in het kader van deze regeling worden vergoed, vraagt de toegevoegde advocaat de vergoeding aan met een door de Raad opgesteld standaardformulier ‘Aanvraag vergoeding rechtsbijstand herstelregelingen kinderopvangtoeslag’. Bij dit formulier voegt de advocaat, indien van toepassing, de uitspraak of beslissing, vergezeld van een specificatie van de met de rechtsbijstandverlening gemoeide tijdsbesteding overeenkomstig door het bestuur gestelde regels.
 
 ### Hoofdstuk V. Overige bepalingen
 
-##### Artikel 10. Monitoring en evaluatiebepaling
+#### Artikel 10. Monitoring en evaluatiebepaling
 
 Voor deze regeling zal het kenniscentrum van de Raad een monitor opzetten waarmee in ieder geval elk half jaar geëvalueerd wordt of deze bepalingen aansluiten bij de praktijk.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
-##### Artikel 11. Overgangsbepaling
+#### Artikel 11. Overgangsbepaling
 
 1. Verzoeken in het kader van de herstelregelingen kinderopvangtoeslag, die op het moment van inwerkingtreding van deze regeling nog in behandeling zijn en waarop nog geen beslissing op bezwaar door Belastingdienst/Toeslagen is genomen, vallen onder deze regeling.
 
 2. Verzoeken voor toevoeging voor het beroep en het hoger beroep als bedoeld in het twaalfde, dertiende, veertiende en vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-11-01) vallen onder deze regeling indien in de procedure waarvoor de toevoeging wordt gevraagd op het moment van inwerkingtreding van deze regeling nog geen uitspraak is gedaan.
 
-##### Artikel 12. Inwerkingtreding en vervaldatum
+#### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2021.
 
@@ -293,11 +268,11 @@ Voor deze regeling zal het kenniscentrum van de Raad een monitor opzetten waarme
 
 3. Deze regeling vervalt op 31 december 2027.
 
-##### Artikel 13. Intrekking
+#### Artikel 13. Intrekking
 
 De [Subsidieregeling pakket rechtsbijstand herstelregeling kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0046090) die op 28 december 2021 is gepubliceerd wordt bij deze ingetrokken.
 
-##### Artikel 14. Citeertitel
+#### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2023.
 
