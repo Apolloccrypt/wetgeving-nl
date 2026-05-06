@@ -1,46 +1,20 @@
 ---
-title: "Besluit van de Minister van Economische Zaken van 3 december 2015, nr. WJZ/15169828, tot instelling van het Formule E-Team (Instellingsbesluit Formule E-Team)"
+title: "Instellingsbesluit Formule E-Team"
 identifier: "BWBR0037382"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-22"
-last_updated: "2022-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037382"
-soort: "ministeriele-regeling"
-stam_id: "13352613"
-version_id: "22889042"
-internal_id: "C33098631"
-label_id: "13320414"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037382/2022-12-22/0"
-intitule_bron: "Stcrt.2015-46673"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-03"
-intitule_published: "2015-12-21"
-intitule_in_force: "2015-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-46673"
-original_signed_date: "2015-12-03"
-original_published_date: "2015-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-46673"
-entry_into_force_date: "2015-12-22"
-jci_1_3: "jci1.3:c:BWBR0037382&z=2022-12-22&g=2022-12-22"
-jci_1_0: "1.0:c:BWBR0037382&g=2022-12-22"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Formule E-Team"
-signed_date: "2015-12-03"
-entry_into_force: "2015-12-22"
+categorie: "Overig"
+publicatiedatum: 2022-12-22
+laatste_update: 2022-12-22
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0037382"
 ---
+
 # Besluit van de Minister van Economische Zaken van 3 december 2015, nr. WJZ/15169828, tot instelling van het Formule E-Team (Instellingsbesluit Formule E-Team)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -60,7 +34,7 @@ In dit besluit wordt verstaan onder:
 
 - 6°. belangenorganisaties.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Er is een Formule E-Team.
 
@@ -72,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - c. het bevorderen van groene groei en van export van zowel producten als diensten van en voor elektrisch vervoer.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Het Formule E-Team bestaat uit een voorzitter en ten hoogste vierentwintig andere leden.
 
@@ -88,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 7. Andere ministers kunnen, ieder voor zich, een waarnemer aanwijzen, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
 
-##### Artikel 4
+#### Artikel 4
 
 1. Het Formule E-Team stelt haar eigen werkwijze schriftelijk vast.
 
@@ -98,19 +72,19 @@ In dit besluit wordt verstaan onder:
 
 4. Het formule E-Team verstrekt desgevraagd aan de Staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-##### Artikel 5
+#### Artikel 5
 
 Met ingang van 1 januari 2023 wordt mevrouw N. Kabalt, woonachtig te Alkmaar, benoemd tot voorzitter van het Formule E-team, voor de periode tot 1 januari 2026 of zoveel eerder als overeengekomen tussen partijen.
 
-##### Artikel 6
+#### Artikel 6
 
 Aan de voorzitter van het Formule E-Team wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,5 fte.
 
-##### Artikel 7
+#### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2015.
 
-##### Artikel 8
+#### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Formule E-Team.
 

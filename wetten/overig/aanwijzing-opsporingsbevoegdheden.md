@@ -2,8 +2,8 @@
 title: "Aanwijzing opsporingsbevoegdheden"
 identifier: "BWBR0035498"
 categorie: "Overig"
-publicatiedatum: 2014-09-01
-laatste_update: 2014-09-01
+publicatiedatum: 2026-05-01
+laatste_update: 2026-05-05
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0035498"
 ---
