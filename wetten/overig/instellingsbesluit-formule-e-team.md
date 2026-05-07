@@ -2,8 +2,8 @@
 title: "Instellingsbesluit Formule E-Team"
 identifier: "BWBR0037382"
 categorie: "Overig"
-publicatiedatum: 2022-12-22
-laatste_update: 2022-12-22
+publicatiedatum: 2026-05-06
+laatste_update: 2026-05-06
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0037382"
 ---
@@ -14,7 +14,7 @@ Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commi
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,19 +22,19 @@ In dit besluit wordt verstaan onder:
 
 - b. **organisaties:**
 
-- 1°. samenwerkingsverbanden van mede-overheden;
+  - 1°. samenwerkingsverbanden van mede-overheden;
 
-- 2°. samenwerkingsverbanden van kennisinstellingen;
+  - 2°. samenwerkingsverbanden van kennisinstellingen;
 
-- 3°. brancheorganisaties;
+  - 3°. brancheorganisaties;
 
-- 4°. ondernemersverenigingen;
+  - 4°. ondernemersverenigingen;
 
-- 5°. koepelorganisaties;
+  - 5°. koepelorganisaties;
 
-- 6°. belangenorganisaties.
+  - 6°. belangenorganisaties.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Formule E-Team.
 
@@ -46,13 +46,13 @@ In dit besluit wordt verstaan onder:
 
 - c. het bevorderen van groene groei en van export van zowel producten als diensten van en voor elektrisch vervoer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Formule E-Team bestaat uit een voorzitter en ten hoogste vierentwintig andere leden.
 
 2. De voorzitter wordt door de Staatssecretaris benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de Staatssecretaris worden geschorst en ontslagen.
 
-3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2022-12-22&g=2022-12-22), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
+3. De andere leden bestaan uit vertegenwoordigers van de in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037382&artikel=1&z=2026-05-06&g=2026-05-06), genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
 
 4. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de Staatssecretaris. Na instemming van de Staatssecretaris wijst de betrokken organisatie het andere lid aan.
 
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 7. Andere ministers kunnen, ieder voor zich, een waarnemer aanwijzen, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Formule E-Team stelt haar eigen werkwijze schriftelijk vast.
 
@@ -72,19 +72,19 @@ In dit besluit wordt verstaan onder:
 
 4. Het formule E-Team verstrekt desgevraagd aan de Staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 5
+##### Artikel 5
 
-Met ingang van 1 januari 2023 wordt mevrouw N. Kabalt, woonachtig te Alkmaar, benoemd tot voorzitter van het Formule E-team, voor de periode tot 1 januari 2026 of zoveel eerder als overeengekomen tussen partijen.
+Met ingang van 1 mei 2026 wordt de heer O.M. van der Gaag, woonachtig te Utrecht, benoemd tot voorzitter van het Formule E-team, voor de periode tot 1 mei 2029 of zoveel eerder als overeengekomen tussen partijen.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan de voorzitter van het Formule E-Team wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,5 fte.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2015.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Formule E-Team.
 
