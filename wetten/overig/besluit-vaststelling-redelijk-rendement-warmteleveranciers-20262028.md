@@ -3,7 +3,7 @@ title: "Besluit vaststelling redelijk rendement warmteleveranciers 2026–2028"
 identifier: "BWBR0051804"
 categorie: "Overig"
 publicatiedatum: 2025-11-17
-laatste_update: 2025-11-17
+laatste_update: 2026-05-07
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0051804"
 ---
@@ -63,6 +63,8 @@ bron: "https://wetten.overheid.nl/BWBR0051804"
 ### Systematisch risico
 
 ### Marktrisicopremie
+
+1Toelichting van de marktrisicopremie is uitgebreid (randnummers 47 tot en met 50).
 
 ### Kostenvoet vreemd vermogen
 
