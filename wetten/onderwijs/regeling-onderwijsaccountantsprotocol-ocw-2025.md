@@ -1,56 +1,30 @@
 ---
-title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 54236746, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2025)"
+title: "Regeling onderwijsaccountantsprotocol OCW 2025"
 identifier: "BWBR0052457"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-26"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052457"
-soort: "ministeriele-regeling"
-stam_id: "17820203"
-version_id: "31498592"
-internal_id: "C44981531"
-label_id: "17717364"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052457/2026-03-26/0"
-intitule_bron: "Stcrt.2026-7483"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-03"
-intitule_published: "2026-03-25"
-intitule_in_force: "2026-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7483"
-original_signed_date: "2026-02-03"
-original_published_date: "2026-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7483"
-entry_into_force_date: "2026-03-26"
-jci_1_3: "jci1.3:c:BWBR0052457&z=2026-03-26&g=2026-03-26"
-jci_1_0: "1.0:c:BWBR0052457&g=2026-03-26"
-citeertitel_status: "officieel"
-short_title: "Regeling onderwijsaccountantsprotocol OCW 2025"
-signed_date: "2026-02-03"
-entry_into_force: "2026-03-26"
+categorie: "Onderwijs"
+publicatiedatum: 2026-03-26
+laatste_update: 2025-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0052457"
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 54236746, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2025)
 
 Gelet op [artikel 141, vierde lid, tweede volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), [artikel 165, vierde lid, tweede volzin, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165), de [artikelen 6.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12), en [6.19, zevende lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19), [artikel 5.2.5, eerste lid, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=5.2.5) en [artikel 4.4, tweede lid, van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.4);
 
 Besluit:
 
-##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW 2025
+#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW 2025
 
 Het protocol voor de controle en het onderzoek door de accountant over het jaar 2025 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-##### Artikel 2. Inwerkingtreding
+#### Artikel 2. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025.
 
 2. Deze regeling heeft betrekking op het jaar 2025 en vervalt met ingang van 1 januari 2032.
 
-##### Artikel 3. Citeertitel
+#### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW 2025.
 
