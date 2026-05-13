@@ -2,8 +2,8 @@
 title: "Besluit aanwijzing nationale parken"
 identifier: "BWBR0022396"
 categorie: "Overig"
-publicatiedatum: 2026-04-29
-laatste_update: 2026-05-01
+publicatiedatum: 2026-05-12
+laatste_update: 2026-05-12
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0022396"
 ---

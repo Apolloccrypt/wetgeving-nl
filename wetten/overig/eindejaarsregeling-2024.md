@@ -1,150 +1,124 @@
 ---
-title: "Regeling van de Staatssecretaris van Financiën van 19 december 2024 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2024)"
+title: "Eindejaarsregeling 2024"
 identifier: "BWBR0050633"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050633"
-soort: "ministeriele-regeling"
-stam_id: "17329453"
-version_id: "30537062"
-internal_id: "C43773821"
-label_id: "17233734"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050633/2025-04-01/0"
-intitule_bron: "Stcrt.2024-41523"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-19"
-intitule_published: "2024-12-24"
-intitule_in_force: "2024-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-41523"
-original_signed_date: "2024-12-19"
-original_published_date: "2024-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-41523"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050633&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0050633&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Eindejaarsregeling 2024"
-signed_date: "2024-12-19"
-entry_into_force: "2025-01-01"
+categorie: "Overig"
+publicatiedatum: 2025-04-01
+laatste_update: 2025-04-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0050633"
 ---
+
 # Regeling van de Staatssecretaris van Financiën van 19 december 2024 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2024)
 
-##### Artikel I
+#### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-##### Artikel II
+#### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-##### Artikel III
+#### Artikel III
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-##### Artikel IV
+#### Artikel IV
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-##### Artikel V
+#### Artikel V
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-##### Artikel VI
+#### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-##### Artikel VII
+#### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-##### Artikel VIII
+#### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-##### Artikel IX
+#### Artikel IX
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-##### Artikel X
+#### Artikel X
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-##### Artikel XI
+#### Artikel XI
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-##### Artikel XII
+#### Artikel XII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-##### Artikel XIII
+#### Artikel XIII
 
 Wijzigt de Algemene douaneregeling.
 
-##### Artikel XIV
+#### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-##### Artikel XV
+#### Artikel XV
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-##### Artikel XVI
+#### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-##### Artikel XVII
+#### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-##### Artikel XVIII
+#### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
 
-##### Artikel XIX
+#### Artikel XIX
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-##### Artikel XX
+#### Artikel XX
 
 Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
-##### Artikel XXI
+#### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-##### Artikel XXII
+#### Artikel XXII
 
 Wijzigt de Regeling CO2-heffing industrie.
 
-##### Artikel XXIII
+#### Artikel XXIII
 
 Wijzigt de Regeling verstrekkingen en vergoedingen BES.
 
-##### Artikel XXIV
+#### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling loonbelasting BES.
 
-##### Artikel XXV
+#### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
-##### Artikel XXVI
+#### Artikel XXVI
 
 Wijzigt de Uitvoeringsregeling verklaring rijksbelastingdienst over huishoudinkomen voor een inkomensafhankelijke huurverhoging.
 
-##### Artikel XXVII
+#### Artikel XXVII
 
 In afwijking van [artikel 27, eerste lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=27) bestaat voor de CO2-heffing glastuinbouw het tijdvak dat aanvangt op 1 januari 2025 uit de kalenderjaren 2025 en 2026.
 
-##### Artikel XXVIII
+#### Artikel XXVIII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2025, met dien verstande dat:
 
@@ -170,7 +144,7 @@ In afwijking van [artikel 27, eerste lid, van de Uitvoeringsregeling Algemene we
 
 3. In afwijking van het eerste en tweede lid treedt het in [artikel XXIV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0050633&artikel=XXIV&z=2025-04-01&g=2025-04-01), ogenomen [artikel 4e van de Uitvoeringsregeling loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=4e) in de openbare lichamen Bonaire, Sint-Eustatius en Saba met ingang van 1 april 2025, 00:00 uur, in werking en in het Europese deel van Nederland met ingang van 1 april 2025, 05:00 uur.
 
-##### Artikel XXIX
+#### Artikel XXIX
 
 Deze regeling wordt aangehaald als: Eindejaarsregeling 2024
 

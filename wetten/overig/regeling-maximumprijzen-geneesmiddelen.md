@@ -2,8 +2,8 @@
 title: "Regeling maximumprijzen geneesmiddelen"
 identifier: "BWBR0008023"
 categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
+publicatiedatum: 2026-05-12
+laatste_update: 2026-05-12
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0008023"
 ---
@@ -14,19 +14,19 @@ Gelet op [artikel 2 van de Wet geneesmiddelenprijzen](https://wetten.overheid.nl
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de in de bijlage bij deze regeling opgenomen geregistreerde geneesmiddelen worden de daarbij per hoeveelheid en farmaceutische vorm aangegeven maximumprijzen vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juni 1996.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2026-04-01&g=2026-04-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2026-05-12&g=2026-05-12) van de Regeling maximumprijzen geneesmiddelen
 
 | **Productgroep** |   | **Maximumprijs** |
 | --- | --- | --- |
@@ -1060,7 +1060,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   | **Maximumprijs** |
 | ATORVASTATIN-10-MG-KAUWDRAGEE/KAUWTABLET * |   | 0,855002 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
-| 107607 | Lipitor kauwtablet 10mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | ATORVASTATIN-10-MG-TABLET |   | 0,151242 per stuk |
@@ -1497,7 +1496,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   | **Maximumprijs** |
 | BENZYLPENICILLIN-10000000-IE-POED. V. INJECTIE, FLACON |   | 4,307608 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
-| 122017//120402 | Natriumbenzylpenicilline eur-ph injpd fl 10milj ie |   |
 | 120402 | Natriumbenzylpenicilline sandoz injpd fl 10milj ie |   |
 | 130501 | Penicilline g kabi inj/infpdr flac 10milj ie |   |
 |   |   |   |
@@ -1683,7 +1681,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Registratienummer** | **Artikelnaam** |   |
 | 27389 | Bisoprololfumaraat 1a pharma tablet filmomh 1,25mg |   |
 | 107723 | Bisoprololfumaraat teva tablet 1,25mg |   |
-| 106067 | Bisoprololfumaraat viatris tablet 1,25mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | BISOPROLOL-10-MG-TABLET * |   | 0,114180 per stuk |
@@ -1697,7 +1694,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 106055 | Bisoprololfumaraat deco aurob tabl filmomh 2,5mg |   |
 | 33097 | Bisoprololfumaraat sandoz tablet 2,5mg |   |
 | 107724 | Bisoprololfumaraat teva tablet 2,5mg |   |
-| 106070 | Bisoprololfumaraat viatris tablet 2,5mg |   |
 | 24503 | Emcor deco tablet 2,5mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
@@ -2432,7 +2428,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | CARBAMAZEPINE-200-MG-TABLET * |   | 0,062088 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
 | 9884 | Carbamazepine aurobindo tablet 200mg |   |
-| 11735 | Carbamazepine mylan tablet 200mg |   |
 | 3899 | Tegretol tablet 200mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
@@ -3111,12 +3106,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   | **Maximumprijs** |
 | CLOMIPRAMINE-25-MG-TABLET * |   | 0,072000 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
-| 15576 | Clomipramine hcl mylan tablet omhuld 25mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | CLOMIPRAMINE-75-MG-TABLET, MET GEREGULEERDE AFGIFTE |   | 0,177190 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
-| 29397 | Clomipramine hcl mylan retard tablet mga 75mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | CLONAZEPAM-.5-MG-TABLET |   | 0,096342 per stuk |
@@ -3200,7 +3193,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 106835 | Clozapine cf tablet 25mg |   |
 | 118044 | Clozapine glenmark tablet 25mg |   |
 | 103903 | Clozapine leyden delta tablet 25mg |   |
-| 23635=21823 | Clozapine mylan tablet 25mg |   |
 | 25049 | Clozapine sandoz tablet 25mg |   |
 | 23677=21823 | Clozapine teva tablet 25mg |   |
 | 10459 | Leponex tablet 25mg |   |
@@ -4164,7 +4156,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   | **Maximumprijs** |
 | DOXAZOSIN-4-MG-TABLET, MET GEREGULEERDE AFGIFTE |   | 0,196652 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
-| 22688 | Cardura xl tablet mga 4mg |   |
 | 33102 | Doxazosine cf retard tablet mva 4mg |   |
 | 33210 | Doxazosine mylan retard tablet mva 4mg |   |
 | 101671 | Doxazosine pch retard tablet mva 4mg |   |
@@ -4595,7 +4586,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 125954//32726 | Epipen junior injvlst 0,5mg/ml pen 0,3ml |   |
 | 126367//32726 | Epipen junior injvlst 0,5mg/ml pen 0,3ml |   |
 | 132593//32726 | Epipen junior injvlst 0,5mg/ml pen 0,3ml |   |
-| 32726 | Epipen junior injvlst 0,5mg/ml pen 0,3ml |   |
 | 106307 | Jext injvlst 1mg/ml pen 0,15ml |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
@@ -4609,7 +4599,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 116906 | Emerade injvlst 1mg/ml pen 0,3ml |   |
 | 126808//32727 | Epipen injvlst 1mg/ml pen 0,3ml |   |
 | 127804//32727 | Epipen injvlst 1mg/ml pen 0,3ml |   |
-| 32727 | Epipen injvlst 1mg/ml pen 0,3ml |   |
 | 106309 | Jext injvlst 1mg/ml pen 0,3ml |   |
 | 129259//106309 | Jext injvlst 1mg/ml pen 0,3ml |   |
 |   |   |   |
@@ -6350,7 +6339,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30744 | Gabapentine mylan capsule 400mg |   |
 | 124068 | Gabapentine strides capsule 400mg |   |
 | 31982 | Gabapentine teva capsule 400mg |   |
-| 22483 | Neurontin capsule 400mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | GABAPENTIN-600-MG-TABLET * |   | 0,325889 per stuk |
@@ -6358,7 +6346,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 108280 | Gabapentine aurobindo tablet filmomhuld 600mg |   |
 | 108587 | Gabapentine sandoz tablet filmomhuld 600mg |   |
 | 125748//25247 | Neurontin tablet filmomhuld 600mg |   |
-| 25247 | Neurontin tablet filmomhuld 600mg |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | GABAPENTIN-800-MG-TABLET * |   | 0,406327 per stuk |
@@ -10367,7 +10354,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   | **Maximumprijs** |
 | NABUMETONE-1000-MG-BRUISTABLET * |   | 0,254834 per stuk |
 | **Registratienummer** | **Artikelnaam** |   |
-| 12603 | Mebutan disper tablet 1 gram |   |
 |   |   |   |
 | **Productgroep** |   | **Maximumprijs** |
 | NABUMETONE-500-MG-TABLET |   | 0,721844 per stuk |
