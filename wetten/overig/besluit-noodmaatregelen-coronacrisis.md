@@ -3,7 +3,7 @@ title: "Besluit noodmaatregelen coronacrisis"
 identifier: "BWBR0047168"
 categorie: "Overig"
 publicatiedatum: 2024-01-01
-laatste_update: 2021-10-01
+laatste_update: 2026-05-13
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0047168"
 ---

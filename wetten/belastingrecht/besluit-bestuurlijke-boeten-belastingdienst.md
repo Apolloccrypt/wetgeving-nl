@@ -3,7 +3,7 @@ title: "Besluit Bestuurlijke Boeten Belastingdienst"
 identifier: "BWBR0038145"
 categorie: "Belastingrecht"
 publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
+laatste_update: 2026-05-13
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0038145"
 ---

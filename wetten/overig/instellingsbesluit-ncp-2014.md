@@ -2,8 +2,8 @@
 title: "Instellingsbesluit NCP 2014"
 identifier: "BWBR0035293"
 categorie: "Overig"
-publicatiedatum: 2014-12-20
-laatste_update: 2014-12-20
+publicatiedatum: 2026-05-13
+laatste_update: 2026-05-13
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0035293"
 ---
@@ -14,7 +14,7 @@ Handelende in overeenstemming met de Minister van Economische Zaken, de Minister
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,9 +22,9 @@ In dit besluit wordt verstaan onder:
 
 - b. **het NCP:** het Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen.
 
-- c. **de mede betrokken bewindspersonen:** de Minister van Economische Zaken, de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Infrastructuur en Milieu.
+- c. **de mede betrokken bewindspersonen:** de Minister van Economische Zaken en Klimaat, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen (NCP).
 
@@ -34,7 +34,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het behandelen van meldingen van vermeende schendingen van (onderdelen van) de richtlijnen en het faciliteren van een dialoog om vermeende schendingen van (onderdelen van) de richtlijnen op te lossen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het NCP bestaat uit een voorzitter en ten hoogste vier andere leden.
 
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 7. De vergoeding van de voorzitter en leden van het NCP wordt vastgelegd in een separaat bezoldigingsbesluit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het NCP bestaat voorts uit ten minste vier adviserende leden.
 
@@ -58,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 3. Het NCP stelt vertegenwoordigers van de Nederlandse belanghebbenden, te weten werkgevers, werknemers en maatschappelijk middenveld, regelmatig in de gelegenheid om het NCP van advies te dienen.
 
-#### Artikel 5
+##### Artikel 5
 
 De minister voorziet in het secretariaat van het NCP.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het NCP stelt zijn eigen werkwijze vast met inachtneming van hetgeen in de OESO-richtlijnen voor multinationale ondernemingen is opgenomen ten aanzien van die werkwijze. Het NCP draagt zorg voor de bekendmaking van zijn werkwijze.
 
@@ -72,11 +72,11 @@ De minister voorziet in het secretariaat van het NCP.
 
 4. Het beheer van de bescheiden betreffende de werkzaamheden van het NCP geschiedt op overeenkomstige wijze als bij het Ministerie van Buitenlandse Zaken. De bescheiden worden na beëindiging van de werkzaamheden van het NCP bewaard in het archief van dat ministerie.
 
-#### Artikel 7
+##### Artikel 7
 
 Tenzij effectieve toepassing van de richtlijnen het meest gebaat is bij vertrouwelijkheid stelt het NCP, na behandeling van een melding, daarover een verklaring op en zendt die aan de minister en aan de betrokkenen en maakt deze bekend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het NCP stelt jaarlijks voor het volgende jaar een werkplan en een begroting op en legt deze uiterlijk 1 oktober ter goedkeuring voor aan de minister.
 
@@ -84,19 +84,19 @@ Tenzij effectieve toepassing van de richtlijnen het meest gebaat is bij vertrouw
 
 3. Op verzoek van de minister brengt de voorzitter mondeling verslag uit van de werkzaamheden van het NCP.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister zendt elke vier jaar een verslag aan de Tweede Kamer der Staten-Generaal ten behoeve van de beoordeling van het functioneren van het NCP.
 
-#### Artikel 10
+##### Artikel 10
 
 Het [Instellingsbesluit NCP 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029781) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit NCP 2014.
 

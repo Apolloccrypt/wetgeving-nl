@@ -3,7 +3,7 @@ title: "Besluit vaststelling percentage duurzame elektriciteit opgewekt door mid
 identifier: "BWBR0042708"
 categorie: "Milieu"
 publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
+laatste_update: 2026-05-13
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0042708"
 ---
@@ -14,11 +14,11 @@ Gelet op [artikel 19, eerste lid, van de Regeling garanties van oorsprong voor e
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het percentage, bedoeld in [artikel 19, eerste lid, van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&artikel=19), bedraagt in kalenderjaar 2020 52 procent.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2020.
 

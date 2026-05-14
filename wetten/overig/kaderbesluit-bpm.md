@@ -3,7 +3,7 @@ title: "Kaderbesluit bpm"
 identifier: "BWBR0050597"
 categorie: "Overig"
 publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
+laatste_update: 2026-05-13
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0050597"
 ---
