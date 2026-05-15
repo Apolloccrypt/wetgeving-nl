@@ -1,14 +1,14 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015"
-identifier: "BWBR0037455"
+title: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026"
+identifier: "BWBR0052610"
 categorie: "Overig"
-publicatiedatum: 2023-12-09
-laatste_update: 2023-09-01
+publicatiedatum: 2026-05-14
+laatste_update: 2026-05-14
 status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037455"
+bron: "https://wetten.overheid.nl/BWBR0052610"
 ---
 
-# Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000305694, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015)
+# Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 april 2026, nr. 2026-0000120908, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026)
 
 Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
 
@@ -16,117 +16,145 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **SV:** de directie Stelsel en Volksverzekeringen van het ministerie;
+- a. **AIO:** Algemene Inkomensondersteuning Ouderen.
 
-- b. **SUWI-organisaties:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6) en het Inlichtingenbureau, genoemd in [artikel 63 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=63);
+- b. **AKW:** [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
 
-- c. **Wet SUWI:** de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
+- c. **ANW:** [Algemene Nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
+
+- d. **AOW:** [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+
+- e. **BIDN:** Bureau InformatieDiensten Nederland;
+
+- f. **BKWI:** Bureau Keteninformatisering Werk en Inkomen;
+
+- g. **NAU:** Nederlandse Autoriteit Uitleenmarkt;
+
+- h. **SV:** de directie Stelsel en Volksverzekeringen van het ministerie;
+
+- i. **SVB:** Sociale Verzekeringsbank;
+
+- j. **SUWI-organisaties:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6) en het Inlichtingenbureau, genoemd in [artikel 63 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=63);
+
+- k. **UWV:** Uitvoeringsinstituut Werknemersverzekeringen;
+
+- l. **Wet SUWI:** de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
 #### § 2. Organisatie en taken afdelingen
 
-#### Artikel 2
+##### Artikel 2
 
-De directie SV bestaat uit de volgende taakvelden:
+De directie SV bestaat uit de volgende onderdelen:
 
-- a. taakveld Strategie & Stelsel, Kennis & Onderzoek;
+- a. Afdeling Eigenaarsadvisering;
 
-- b. taakveld Eigenaarschap zbo’s;
+- b. Afdeling Gegevensbeleid;
 
-- c. taakveld Handhaving en Gegevensuitwisseling;
+- c. Afdeling Preventie en Handhaving;
 
-- d. taakveld Volksverzekeringen.
+- d. Afdeling Uitvoeringsvraagstukken;
 
-#### Artikel 3
+- e. Afdeling Volksverzekeringen;
 
-Het hoofd van het taakveld Strategie & Stelsel, Kennis & Onderzoek is verantwoordelijk voor de volgende algemene taken:
+##### Artikel 3
 
-- a. het ontwikkelen van een strategische visie op de werking van het stelsel van werk en inkomen;
+Het hoofd van de afdeling Eigenaarsadvisering is verantwoordelijk voor de volgende algemene taken:
 
-- b. het verrichten van analyses en het uitvoeren van strategische verkenningen voor de lange en middellange termijn op het brede beleidsterrein van de directeur-generaal en de onder hem ressorterende directies;
+- a. het innemen van een standpunt bij (be)sturingsvraagstukken, zoals de sturingsvisie en de governance, het verrichten van nieuwe taken door de zelfstandige bestuursorganen en de relatie tussen het ministerie en uitvoeringsorganisaties;
 
-- c. het verzamelen, bewerken en verspreiden van kennis over de werking van het stelsel van werk en inkomen om de werking en de toekomstbestendigheid van dit stelsel te bevorderen en te versterken voor de directeur-generaal en de onder hem ressorterende directies;
+- b. het adviseren van de eigenaar over de sturingsrelaties met UWV, de SVB, BKWI, BIDN en de NAU met als doel de continuïteit van de dienstverlening te borgen;
 
-- d. het borgen van kwalitatief hoogwaardig onderzoek en een eenduidige onderzoeksondersteuning, onderzoekscoördinatie en visievorming voor de directeur-generaal en de onder hem ressorterende directies;
+- c. het zorgdragen voor het coördineren en het ondersteunen van de (plaatsvervangend) secretaris-generaal in de rol van eigenaar van UWV, de SVB, het BKWI, het BIDN en de NAU;
 
-- e. het uitvoeren van cijfermatige analyses met betrekking tot trends en ontwikkelingen binnen het stelsel van werk en inkomen, waaronder de monitor arbeidsmarkt;
+- d. het vervullen van een accountfunctie voor de Algemene Rekenkamer in relatie tot (verantwoordings)onderzoek dat de zelfstandige bestuursorganen aangaat;
 
-- f. het beheer en de ontwikkeling van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) op het gebied van samenwerking en structuur;
+- e. het coördineren van de planning- en controlcyclus van UWV, de SVB, het BKWI en het BIDN, ook richting het parlement;
 
-- g. het periodiek evalueren van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
+- f. het toezicht op UWV, de SVB, het BKWI en het BIDN.
 
-#### Artikel 4
+##### Artikel 4
 
-Het hoofd van het taakveld Eigenaarschap zbo’s is verantwoordelijk voor de volgende algemene taken:
+Het hoofd van de afdeling Gegevensbeleid is verantwoordelijk voor de volgende algemene taken:
 
-- a. het zorgen voor de kaderstelling voor de zelfstandige bestuursorganen van het ministerie;
+- a. het bevorderen en het ontwikkelen van een visie op gegevensbeleid binnen het domein van werk en inkomen en aanpalende domeinen, zoals het onderwijs en de zorg;
 
-- b. het bepalen van het standpunt bij bestuurlijke vraagstukken, zoals de sturingsvisie, het verrichten van andere taken door de zelfstandige bestuursorganen en de relatie tussen het ministerie en uitvoeringsorganisaties en het aanpassen van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) op deze punten;
+- b. het coördineren en maken van beleid op het gebied van de gegevensuitwisseling, privacy en beveiliging binnen de SUWI-organisaties en aanpalende domeinen en het fungeren als aanspreekpunt op dit gebied voor andere ministeries, de uitvoeringsorganisaties en de Vereniging van Nederlandse Gemeenten;
 
-- c. het onderhouden van de sturingsrelatie met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, waaronder de sturing op ICT en de (prestatie)afspraken die met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank gemaakt worden;
+- c. het voeren van regie en maken van beleid voor de SUWI-keten en de loonaangifteketen;
 
-- d. het zorgdragen voor het coördineren van en het ondersteunen van de plaatsvervangend secretaris-generaal in de rol van eigenaar van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
+- d. de aanpassing van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en de daarop gebaseerde nadere regelgeving op het gebied van gegevensuitwisseling en evaluaties, waaronder de evaluatie van de [Wet eenmalige gegevensuitvraag werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0023299);
 
-- e. het vervullen van een accountfunctie voor de Algemene Rekenkamer;
+- e. het zorgdragen voor het coördineren van de rol van opdrachtgever voor het BKWI en het BIDN.
 
-- f. het coördineren van de planning- en controlcyclus van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, ook richting het parlement;
+##### Artikel 5
 
-- g. het toekennen van de uitvoeringsbudgetten aan het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank en het bijhouden van een totaalbeeld van de uitvoeringskosten;
+Het hoofd van de afdeling Preventie en Handhaving is verantwoordelijk voor de volgende algemene taken:
 
-- h. het sturen op ICT-brede vraagstukken, wetsoverstijgende ICT-projecten en grote ICT-projecten van het Uitvoeringinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
+- a. het ontwikkelen en coördineren van het brede handhavingsbeleid (inclusief de handhavingskoers) op het gebied van de sociale zekerheid en arbeidswetgeving en het coördineren van de beleidsmatige aanpak;
 
-- i. het zorgen voor de totstandkoming van afspraken over en het monitoren van de taakstelling voor het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
+- b. het ontwikkelen en coördineren van de preventieve aanpak, het voorkomen van regelovertreding (fouten en misbruik) daaronder begrepen;
 
-- j. het zorgen voor de verscherpte sturing bij incidenten en uitvoeringsproblemen, bijvoorbeeld op het gebied van integriteit;
+- c. het geven van beleidsmatige sturing aan de handhaving van wet- en regelgeving en het zorgen voor de voorbereiding, monitoring en verantwoording in dit kader;
 
-- k. de toetsing van benoemingen en nevenfuncties van bestuurders van de zelfstandige bestuursorganen.
+- d. het bevorderen van de samenhang in het domein van handhaving en het (laten) aanpakken van lacunes in beleid, wetgeving en uitvoering;
 
-#### Artikel 5
+- e. de preventie van ondermijning en het vergroten van de maatschappelijke weerbaarheid tegen militaire en hybride dreigingen in het sociale zekerheidsdomein;
 
-Het hoofd van het taakveld Handhaving en Gegevensuitwisseling is verantwoordelijk voor de volgende algemene taken:
+- f. het ondersteunen van het voorzitterschap van het Landelijk Samenwerkingsverband Naleving Sociaal Stelsel en Arbeidswetten;
 
-- a. het ontwikkelen van een brede handhavingsstrategie van het ministerie, met systematische aandacht voor het verbeteren van de effectiviteit van de handhaving;
+- g. het departementaal bevorderen en ontwikkelen van beleid ten aanzien van misbruik en oneigenlijk gebruik (management- en organisatiebeleid).
 
-- b. het geven van beleidsmatige sturing aan de handhaving van wet- en regelgeving en het zorgen voor de voorbereiding, monitoring en verantwoording in dit kader;
+##### Artikel 6
 
-- c. het bevorderen van de samenhang in het domein van handhaving en opsporing en het (laten) aanpakken van lacunes in beleid, wetgeving en uitvoering;
+Het hoofd van de afdeling Uitvoeringsvraagstukken is verantwoordelijk voor de volgende algemene taken:
 
-- d. de beleidsmatige aanpak van fraude;
+- a). het periodiek informeren van de Tweede Kamer over ontwikkelingen en knelpunten in de uitvoering bij UWV en SVB via de Stand van de uitvoering;
 
-- e. het bevorderen en het ontwikkelen van een visie op gegevensuitwisseling binnen het domein van werk en inkomen en aanpalende domeinen, zoals het onderwijs en de zorg;
+- b). het inbrengen en uitbouwen van het perspectief van mensen in inkomensondersteuning in beleid en uitvoering, met bijzondere aandacht voor eenvoudigere regelingen en dienstverlening;
 
-- f. het coördineren en maken van beleid op het gebied van de gegevensuitwisseling, privacy en beveiliging binnen de SUWI-organisaties en aanpalende domeinen en het fungeren als aanspreekpunt op dit gebied voor de uitvoeringsorganisaties en de Vereniging van Nederlandse Gemeenten;
+- c). de wisselwerking van het programma Werk aan Uitvoering naar het domein van werk en inkomen en het adviseren aan hoogambtelijke en ministeriële gremia op dit terrein;
 
-- g. de aanpassing van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en de daarop gebaseerde nadere regelgeving op het gebied van gegevensuitwisseling en evaluaties, waaronder de evaluatie van de Wet eenmalige gegevensuitvraag werk en inkomen;
+- d). het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en mede-overheden waar deze het werkterrein van SZW raken;
 
-- h. het vervullen van een accountfunctie en de coördinatie van de planning- en controlcyclus van het Inlichtingenbureau;
+- e). het ontwikkelen van een strategische visie op vereenvoudiging van het stelsel van werk en inkomen en het coördineren van de hervormingsagenda inkomenszekerheid;
 
-- i. het vervullen van een accountfunctie en de coördinatie van de planning- en controlcyclus van het Bureau Keteninformatisering Werk en Inkomen;
+- f). het borgen van kwalitatief hoogwaardig onderzoek en een eenduidige onderzoeksondersteuning, onderzoekscoördinatie en visievorming voor de directie;
 
-- j. het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en medeoverheden.
+- g). het trekken van lessen en de doorvertaling daarvan ten aanzien van het beleid en de uitvoering in het domein van werk en inkomen;
 
-#### Artikel 6
+- h). het versterken van de beleidskwaliteit binnen SZW door de coördinatie en het doorontwikkelen van het beleidskompas;
 
-Het hoofd van het taakveld Volksverzekeringen is verantwoordelijk voor de volgende algemene taken:
+- i). het samenwerken met de beleidsdirecties SZW-breed met als doel ketens en netwerken te versterken;
 
-- a. het zorgdragen voor het coördineren van de rol van opdrachtgever voor de Sociale verzekeringsbank binnen het ministerie;
+- j). het inzetten en aanjagen van verandering met betrekking tot de vraagstukken rondom ketens;
 
-- b. het beleid ten aanzien van minimum inkomensregelingen ten behoeve van ouderen;
+- k). het monitoren en faciliteren van beleidsdirecties van het ministerie op het gebied van samenwerken aan onderwerpen als gegevensuitwisseling binnen de ketens met eenduidige generieke voorzieningen en spelregels.
 
-- c. het beleid ten aanzien van de inkomensregelingen ten behoeve van ouders van kinderen;
+##### Artikel 7
 
-- d. het beleid ten aanzien van de nabestaandenwetgeving;
+Het hoofd van de afdeling Volksverzekeringen is verantwoordelijk voor de volgende algemene taken:
 
-- e. het beleid ten aanzien van overige taken van de Sociale verzekeringsbank.
+- a. het coördineren van de rol van opdrachtgever en de uitvoeringsbudgetten voor de Sociale Verzekeringsbank binnen het ministerie;
+
+- b. het coördineren van opdrachtgeverschap voor de Belastingdienst en Toeslagen binnen het ministerie;
+
+- c. beleidsontwikkeling op het terrein van de volksverzekeringen [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en AIO;
+
+- d. het beleid ten aanzien van het kindgebonden budget;
+
+- e. het beleid ten aanzien van de Algemene ouderdomsverzekering (AOV) en kindregelingen op de BES-eilanden;
+
+- f. het beleid ten aanzien van de repatriëringsregeling en enkele beroepsziektegerelateerde regelingen.
 
 #### § 3. Bevoegdheden
 
-#### Artikel 7
+##### Artikel 8
 
-Aan de hoofden van de taakvelden wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
+Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -136,44 +164,40 @@ Aan de hoofden van de taakvelden wordt volmacht en machtiging verleend tot het v
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-#### Artikel 8
+##### Artikel 9
 
-Aan de hoofden van de taakvelden wordt mandaat en machtiging verleend met betrekking tot:
+Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot:
 
 - a. het afdoen van informatieve brieven die betrekking hebben op taken van de eigen organisatorische eenheid;
 
 - b. het paraferen van stukken waar de directie SV geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur SV afgedaan moeten worden.
 
-#### § 4. Slotbepalingen
+##### Artikel 10
 
-#### Artikel 9
-
-De hoofden van de taakvelden kunnen na voorafgaande schriftelijke toestemming van de directeur SV bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
-
-#### Artikel 10
-
-Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
-
-#### Artikel 11
-
-1. Het[Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-#### Artikel 8a
-
-Aan de hoofden van de taakvelden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogte € 75.000 per overeenkomst inclusief btw. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen taakveld;
 
-- b. het accorderen van het door het eigen taakveld ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
+- b. het accorderen van het door het eigen taakveld ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, dan wel gedurende het jaar bijgestelde, bestedingsplan van de directie;
 
 - c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
 #### § 4. Slotbepalingen
+
+##### Artikel 11
+
+De hoofden van de afdelingen kunnen na voorafgaande schriftelijke toestemming van de directeur SV bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
+
+##### Artikel 12
+
+Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een aangewezen afdelingshoofd.
+
+##### Artikel 13
+
+1. Het [Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037455) wordt ingetrokken.
+
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
