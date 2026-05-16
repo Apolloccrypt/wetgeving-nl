@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000304798, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Sociale Zekerheid en Integratie ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015)"
+title: "Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015"
 identifier: "BWBR0037432"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-11"
-last_updated: "2025-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037432"
-soort: "ministeriele-regeling"
-stam_id: "13363083"
-version_id: "22908462"
-internal_id: "C33131581"
-label_id: "13330974"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037432/2025-11-11/0"
-intitule_bron: "Stcrt.2015-47956"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-14"
-intitule_published: "2015-12-29"
-intitule_in_force: "2015-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47956"
-original_signed_date: "2015-12-14"
-original_published_date: "2015-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47956"
-entry_into_force_date: "2015-12-30"
-jci_1_3: "jci1.3:c:BWBR0037432&z=2025-11-11&g=2025-11-11"
-jci_1_0: "1.0:c:BWBR0037432&g=2025-11-11"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015"
-signed_date: "2015-12-14"
-entry_into_force: "2015-12-30"
+categorie: "Sociaal recht"
+publicatiedatum: 2025-11-11
+laatste_update: 2025-11-11
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0037432"
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000304798, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Sociale Zekerheid en Integratie ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015)
 
 Gelet op [artikelen 8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
@@ -42,7 +16,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,7 +32,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-##### Artikel 2
+#### Artikel 2
 
 Onder de directeur-generaal ressorteren:
 
@@ -74,7 +48,7 @@ Onder de directeur-generaal ressorteren:
 
 #### § 3. Verantwoordelijkheden
 
-##### Artikel 3
+#### Artikel 3
 
 1. Elk van de directeuren is verantwoordelijk voor:
 
@@ -108,7 +82,7 @@ Onder de directeur-generaal ressorteren:
 
 2. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
 
-##### Artikel 4
+#### Artikel 4
 
 De directie Participatie en Decentrale Voorzieningen is verantwoordelijk voor:
 
@@ -128,7 +102,7 @@ De directie Participatie en Decentrale Voorzieningen is verantwoordelijk voor:
 
 - h. het onderhouden van interdepartementale contacten en contacten met gemeenten en gemeentelijke uitvoerders, waaronder de arbeidsmarktregio’s, de werkbedrijven en de Programmaraad, in verband met de decentralisaties in het gemeentelijke domein.
 
-##### Artikel 5
+#### Artikel 5
 
 De directie Werknemersregelingen is verantwoordelijk voor:
 
@@ -148,7 +122,7 @@ De directie Werknemersregelingen is verantwoordelijk voor:
 
 - h. de beleidsmatige aspecten rondom het Europees Globaliseringsfonds.
 
-##### Artikel 6
+#### Artikel 6
 
 De directie Stelsel en Volksverzekeringen is verantwoordelijk voor:
 
@@ -170,7 +144,7 @@ De directie Stelsel en Volksverzekeringen is verantwoordelijk voor:
 
 - i. het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en medeoverheden.
 
-##### Artikel 7
+#### Artikel 7
 
 De directie Samenleving en Integratie is verantwoordelijk voor:
 
@@ -186,11 +160,11 @@ De directie Samenleving en Integratie is verantwoordelijk voor:
 
 - f. het vorm geven aan vormen van dialoog met maatschappelijke organisaties.
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
-##### Artikel 9
+#### Artikel 9
 
 1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2025-11-11&g=2025-11-11), verantwoordelijk voor:
 
@@ -214,7 +188,7 @@ Vervallen
 
 #### § 4. Bevoegdheden directeuren
 
-##### Artikel 10
+#### Artikel 10
 
 1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, dan wel bureau, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.
 
@@ -230,7 +204,7 @@ Vervallen
 
 5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van ten hoogste € 500.000,- per overeenkomst inclusief btw.
 
-##### Artikel 11
+#### Artikel 11
 
 1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2025-11-11&g=2025-11-11) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
 
@@ -240,13 +214,13 @@ Vervallen
 
 4. De directeuren blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.
 
-##### Artikel 12
+#### Artikel 12
 
 In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2025-11-11&g=2025-11-11), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
 
 #### § 5. Slotbepalingen
 
-##### Artikel 13
+#### Artikel 13
 
 1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
@@ -264,7 +238,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI de bevoegdheid tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,- per overeenkomst inclusief btw, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren, doorverlenen aan onder hen ressorterende functionarissen.
 
-##### Artikel 14
+#### Artikel 14
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972) wordt ingetrokken.
 
