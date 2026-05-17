@@ -3,7 +3,7 @@ title: "Beleidsregel toepassing Europese toezichthoudende autoriteiten Wft 2019"
 identifier: "BWBR0042098"
 categorie: "Overig"
 publicatiedatum: 2019-04-06
-laatste_update: 2019-04-06
+laatste_update: 2026-05-16
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0042098"
 ---
@@ -20,7 +20,7 @@ Gelet op Verordening (EU) nr. 1095/2010 van het Europees Parlement en de Raad va
 
 BESLUIT:
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -78,7 +78,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **Wwft:** [Wet ter voorkomen van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
-#### Artikel 2. (toepassing richtsnoeren ESA’s)
+##### Artikel 2. (toepassing richtsnoeren ESA’s)
 
 DNB oefent het toezicht op de naleving van het bepaalde bij of krachtens de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) uit met inachtneming van de richtsnoeren (**guidelines**) van de Europese toezichthoudende autoriteiten, als omschreven in de onderstaande tabel.
 
@@ -224,15 +224,15 @@ DNB oefent het toezicht op de naleving van het bepaalde bij of krachtens de [Wft
 
 10Verordening (EU) Nr. 1093/2010 van het Europees Parlement en de Raad, van 24 november 2010, tot oprichting van een Europese toezichthoudende autoriteit (Europese Bankautoriteit), tot wijziging van Besluit nr. 716/2009/EG en tot intrekking van Besluit 2009/78/EG van de Commissie ((PB EU L 331)
 
-#### Artikel 3
+##### Artikel 3
 
 De [Beleidsregel toepassing richtsnoeren Europese toezichthoudende autoriteiten Wft 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040391) (Stcrt. 2016, 32338) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toepassing Europese toezichthoudende autoriteiten Wft 2019.
 
