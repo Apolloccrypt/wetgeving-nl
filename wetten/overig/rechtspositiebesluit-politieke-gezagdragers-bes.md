@@ -1,0 +1,257 @@
+---
+title: "Rechtspositiebesluit politieke gezagdragers BES"
+identifier: "BWBR0033694"
+categorie: "Overig"
+publicatiedatum: 2026-05-14
+laatste_update: 2026-05-19
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0033694"
+---
+
+# Besluit van 3 juli 2013, houdende hernieuwde vaststelling van de rechtspositie van de gezaghebbers, eilandgedeputeerden en eilandsraadsleden in Caribisch Nederland (Rechtspositiebesluit politieke gezagdragers BES)
+
+Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 mei 2013, no. 13.001061;
+
+Gelet op de [artikelen 56, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=56), [78, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=78), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=87), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=92), [120, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=120), en [121 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=121);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 26 juni 2013, nr. W04.13.0147/I);
+
+Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 juni 2013, nr. 2013-0000383326;
+
+Hebben goedgevonden en verstaan:
+
+#### § 1. Begripsbepaling
+
+##### Artikel 1
+
+In dit besluit wordt verstaan onder
+
+- a. **politieke gezagdrager:** gezaghebber, eilandgedeputeerde, lid van de eilandsraad en lid van het kiescollege van een openbaar lichaam alsmede lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=117) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=118);
+
+- b. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+- c. **inwonertal:** het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.
+
+#### § 2. Indeling in inwonersklassen
+
+##### Artikel 2
+
+Ten behoeve van de vaststelling van de bezoldiging van en de vergoedingen voor de politieke gezagdragers, met uitzondering van de vergoeding voor de leden van het kiescollege, worden de openbare lichamen ingedeeld in inwonersklassen overeenkomstig de volgende tabel:
+
+| Klasse | Aantal inwoners |
+| --- | --- |
+| 1 | 0 – 10.000 |
+| 2 | 10.001 – 15.000 |
+| 3 | 15.001 – 20.000 |
+| 4 | 20.001 – 25.000 |
+| 5 | 25.001 of meer |
+
+##### Artikel 3
+
+1. Wegens bijzondere omstandigheden kan Onze Minister, de eilandsraad gehoord, een openbaar lichaam voor de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14) voor een bepaald tijdvak een of twee klassen hoger plaatsen dan die, waartoe het op grond van zijn inwonertal behoort.
+
+2. Onze Minister kan na afloop van het tijdvak, bedoeld in het eerste lid, een nieuw tijdvak vaststellen.
+
+##### Artikel 4
+
+1. De overgang van een openbaar lichaam naar een hogere klasse in verband met toeneming van het inwonertal vindt plaats met ingang van het jaar waarin op 1 januari het inwonertal van dat openbaar lichaam de minimumgrens van de volgende klasse heeft bereikt en blijkt dat het die grens ook heeft bereikt op 1 januari van het volgende jaar.
+
+2. De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal vindt plaats met ingang van het jaar waarin het inwonertal van het openbaar lichaam op 1 januari voor de tweede achtereenvolgende maal beneden de minimumgrens van de klasse, waarin het openbaar lichaam tot dan toe was ingedeeld, gedaald is.
+
+##### Artikel 5
+
+De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal is niet van invloed op de bezoldiging van de op het tijdstip van overgang in functie zijnde gezaghebber en eilandgedeputeerden, tot uiterlijk het tijdstip van beëindiging van het gezaghebber- of gedeputeerdenschap, of op de vergoeding voor de werkzaamheden en tegemoetkoming in de kosten daarvan van de op het tijdstip van overgang zittende leden van de eilandsraad tot hun aftreden.
+
+#### § 3. Bezoldiging, vergoeding voor de werkzaamheden en tegemoetkoming in de kosten daarvan
+
+##### Artikel 6
+
+1. De gezaghebber geniet per jaar een bezoldiging volgens onderstaande tabel.
+
+| Klasse | Bezoldiging |
+| --- | --- |
+| 1 | USD 78.798 |
+| 2 | USD 93.807 |
+| 3 | USD 108.815 |
+| 4 | USD 123.824 |
+| 5 | USD 138.834 |
+
+2. De eilandgedeputeerden genieten per jaar een bezoldiging volgens onderstaande tabel.
+
+| Klasse | Bezoldiging |
+| --- | --- |
+| 1 | USD 70.254 |
+| 2 | USD 80.116 |
+| 3 | USD 89.978 |
+| 4 | USD 99.841 |
+| 5 | USD 109.702 |
+
+3. Aan een lid van de eilandsraad wordt per jaar een vergoeding voor de werkzaamheden en een tegemoetkoming in de kosten daarvan toegekend tot de maximumbedragen volgens onderstaande tabel.
+
+| Klasse | Vergoeding | Tegemoetkoming in de kosten |
+| --- | --- | --- |
+| 1 | USD 9.967 | USD 1.466 |
+| 2 | USD 11.236 | USD 1.560 |
+| 3 | USD 12.507 | USD 1.657 |
+| 4 | USD 13.776 | USD 1.757 |
+| 5 | USD 15.047 | USD 1.850 |
+
+4. De maandelijkse uitbetaling van de bezoldiging of de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten daarvan wordt naar boven afgerond op hele dollars.
+
+##### Artikel 7
+
+Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat, wijziging ondergaat, worden met ingang van de datum waarop die wijziging ingaat de bedragen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6a&z=2026-05-14&g=2026-05-14), bij ministeriële regeling op gelijke voet gewijzigd. Als de bezoldiging niet met een voor alle ambtenaren gelijk percentage wijzigt, wordt voor de toepassing van dit artikel uitgegaan van het percentage waarmee de bezoldiging gemiddeld wijzigt of het percentage dat met toepassing van [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2) is afgesproken.
+
+##### Artikel 8
+
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14) is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) juncto [artikel X 10, eerste en tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
+
+#### § 4. Vergoeding leden van een commissie
+
+##### Artikel 9
+
+1. De eilandsraad kan bij eilandverordening bepalen dat aan een lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=117) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=118) een vergoeding voor het bijwonen van de vergaderingen van de commissie wordt toegekend tot het maximumbedrag, genoemd in onderstaande tabel.
+
+| Klasse | Vergoeding per vergadering |
+| --- | --- |
+| 1 | USD 77 |
+| 2 | USD 83 |
+| 3 | USD 88 |
+| 4 | USD 92 |
+| 5 | USD 97 |
+
+2. Geen vergoeding wordt verstrekt aan een lid van een commissie dat tevens lid is van de eilandsraad of aan een ambtenaar die als zodanig tot lid van een commissie is benoemd.
+
+3. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14), is van overeenkomstige toepassing op de vergoeding voor de leden van een commissie.
+
+4. Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat, wijziging ondergaat, worden met ingang van de datum waarop die wijziging ingaat de bedragen, bedoeld in het eerste lid, bij ministeriële regeling op gelijke voet gewijzigd. Als de bezoldiging niet met een voor alle ambtenaren gelijk percentage wijzigt, wordt voor de toepassing van dit lid uitgegaan van het percentage waarmee de bezoldiging gemiddeld wijzigt of het percentage dat met toepassing van [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2) is afgesproken.
+
+##### Artikel 10
+
+Ten aanzien van een lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=118) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=118)
+
+- a. die op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken, en
+
+- b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid,kan de eilandsraad bij eilandverordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=4&artikel=9&z=2026-05-14&g=2026-05-14).
+
+#### § 5. Toelagen, eenmalige uitkeringen, vakantie- en eindejaarsuitkering
+
+##### Artikel 11
+
+1. De gezaghebber en eilandgedeputeerden van Sint Eustatius en Saba ontvangen een Saba/Statiatoelage met overeenkomstige toepassing van het bepaalde bij of krachtens [artikel 28, derde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28).
+
+2. De gezaghebber en eilandgedeputeerden ontvangen een vereveningtoelage met overeenkomstige toepassing van het bepaalde bij of krachtens [artikel 28, vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28).
+
+##### Artikel 12
+
+Indien aan de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat, een eenmalige uitkering wordt toegekend, ontvangt de gezaghebber of de eilandgedeputeerde een uitkering op gelijke voet.
+
+##### Artikel 13
+
+De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen die daaromtrent zijn vastgesteld voor de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat.
+
+#### § 6. Ambtstoelagen
+
+##### Artikel 14
+
+1. De gezaghebber ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een ambtstoelage van 10% van zijn bezoldiging, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14).
+
+2. De eilandgedeputeerde ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een buitengewone toelage van 6% van zijn bezoldiging, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14).
+
+3. De maandelijkse uitbetaling van de toelagen, bedoeld in het eerste en tweede lid, wordt naar boven afgerond op hele dollars.
+
+4. De toelage wordt niet genoten gedurende de tijd dat de gezaghebber is geschorst.
+
+#### § 7. Neveninkomsten
+
+##### Artikel 15
+
+1. Zo spoedig mogelijk na afloop van het kalenderjaar verstrekt de gezaghebber of de eilandgedeputeerde aan Onze Minister, dan wel de door hem aangewezen instantie:
+
+- a. een opgave van de neveninkomsten welke hij over dat kalenderjaar heeft genoten, dan wel
+
+- b. een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij een gedeelte van het kalenderjaar lid van het bestuurscollege is geweest, een evenredig deel daarvan, dan wel
+
+- c. een verklaring dat een opgave van neveninkomsten achterwege zal blijven.
+
+2. Het bestuurscollege vermindert op verzoek van de gezaghebber of eilandgedeputeerde diens bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee hij verwacht dat zijn bezoldiging verrekend zal worden vanwege zijn neveninkomsten.
+
+3. Onze Minister, dan wel de door hem aangewezen instantie, deelt aan het bestuurscollege het bedrag van de bezoldiging dat teruggevorderd dient te worden mede en verstrekt een afschrift daarvan aan de gezaghebber of de eilandgedeputeerde.
+
+4. Het bestuurscollege vordert, indien Onze Minister dan wel de door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van de gezaghebber of de eilandgedeputeerde.
+
+5. Indien de gezaghebber of de eilandgedeputeerde geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister dan wel aan een door Onze Minister aangewezen instantie. De gezaghebber of de eilandgedeputeerde meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.
+
+6. In het geval, bedoeld in het eerste lid, onder c, alsmede indien de gezaghebber of de eilandgedeputeerde binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring als bedoeld in het eerste lid heeft ingezonden of niet heeft voldaan aan het vijfde lid, en het bestuurscollege niet uit anderen hoofde kan vaststellen tot welk bedrag er verrekend moet worden, stelt het bestuurscollege de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis.
+
+7. Op verzoek van de gezaghebber of de eilandgedeputeerde kan het bestuurscollege besluiten de verrekening in termijnen te laten plaatsvinden.
+
+#### § 8. Waarneming gezaghebber
+
+##### Artikel 16
+
+1. Degene die op grond van [artikel 90 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=90) als waarnemend gezaghebber is aangewezen, ontvangt voor de tijd van de waarneming een bezoldiging als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14), met inbegrip van de toelagen, indien de waarneming:
+
+- a. dertig dagen of langer onafgebroken heeft geduurd;
+
+- b. in een tijdvak van zes maanden in totaal dertig dagen of langer heeft geduurd; of
+
+- c. in een tijdvak van twaalf maanden in totaal zestig dagen of langer heeft geduurd.
+
+Daarnaast heeft hij aanspraak op de helft van de ambtstoelage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=5&artikel=13&z=2026-05-14&g=2026-05-14).
+
+2. Op de waarnemend gezaghebber, bedoeld in het eerste lid, die voor een periode van naar verwachting een jaar of langer met de waarneming zal zijn belast, zijn de bepalingen in dit besluit, voor zover die betrekking hebben op de rechtspositie van de gezaghebber, van overeenkomstige toepassing.
+
+3. Zodra een waarnemend gezaghebber ten aanzien van wie het eerste lid is toegepast zonder onderbreking één jaar het ambt van gezaghebber heeft waargenomen, wordt, met terugwerkende kracht tot en met de ingangsdatum van de waarneming in dat openbaar lichaam, alsnog het tweede lid toegepast.
+
+#### § 9. Overige bepalingen met betrekking tot de gezaghebber
+
+##### Artikel 17
+
+1. Indien de gezaghebber een ambtswoning bewoont, wordt op de bezoldiging een korting toegepast van 12 procent.
+
+2. In afwijking van het eerste lid, kan Onze Minister in de gevallen waarin naar zijn oordeel daartoe aanleiding bestaat, de korting vaststellen op een lager percentage dan wel op een bepaald bedrag, mits dit eveneens minder beloopt dan 12 procent van de bezoldiging.
+
+3. Indien de gezaghebber een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik ten laste van de huurder zijn.
+
+##### Artikel 18
+
+Bij het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6) eindigt de ambtsperiode van de gezaghebber.
+
+#### § 10. Slotbepalingen
+
+##### Artikel 19
+
+Het [Rechtspositiebesluit gezaghebbers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028526), het [Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028423) en het [Aanvullend rechtspositiebesluit eilandgedeputeerden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028484) worden ingetrokken.
+
+##### Artikel 20
+
+Dit besluit wordt aangehaald als: Rechtspositiebesluit politieke gezagdragers BES.
+
+##### Artikel 21
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+1. De eilandsraad kan bij eilandsverordening bepalen dat aan een lid van het kiescollege een vergoeding voor het bijwonen van de vergaderingen van het kiescollege wordt toegekend tot het maximumbedrag van USD 97.
+
+2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2026-05-14&g=2026-05-14), is van overeenkomstige toepassing op de vergoeding van de leden van het kiescollege.
+
+#### § 4. Vergoeding leden van een commissie
+
+#### § 5. Toelagen, eenmalige uitkeringen, vakantie- en eindejaarsuitkering
+
+#### § 6. Ambtstoelagen
+
+#### § 7. Neveninkomsten
+
+#### § 8. Waarneming gezaghebber
+
+#### § 9. Overige bepalingen met betrekking tot de gezaghebber
+
+#### § 10. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

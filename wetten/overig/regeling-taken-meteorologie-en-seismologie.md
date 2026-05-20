@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/208759, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Regeling taken meteorologie en seismologie)"
+title: "Regeling taken meteorologie en seismologie"
 identifier: "BWBR0037394"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037394"
-soort: "ministeriele-regeling"
-stam_id: "13354333"
-version_id: "22892942"
-internal_id: "C33111931"
-label_id: "13322344"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037394/2024-01-01/0"
-intitule_bron: "Stcrt.2015-44671"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-08"
-intitule_published: "2015-12-22"
-intitule_in_force: "2015-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-44671"
-original_signed_date: "2015-12-08"
-original_published_date: "2015-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-44671"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBR0037394&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0037394&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling taken meteorologie en seismologie"
-signed_date: "2015-12-08"
-entry_into_force: "2016-01-01"
+categorie: "Overig"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0037394"
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/208759, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Regeling taken meteorologie en seismologie)
 
 Handelende in overeenstemming met de Minister van Defensie;
@@ -46,7 +20,7 @@ Treedt in werking op het tijdstip waarop de Wet taken meteorologie en seismologi
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -64,13 +38,13 @@ Treedt in werking op het tijdstip waarop de Wet taken meteorologie en seismologi
 
 2. Aan de zorgplichten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), wordt namens de minister uitvoering gegeven door het agentschap KNMI.
 
-##### Artikel 2
+#### Artikel 2
 
 De [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=3&z=2024-01-01&g=2024-01-01) zijn niet van toepassing in de openbare lichamen.
 
 ### Hoofdstuk 2. Internationale samenwerking
 
-##### Artikel 3
+#### Artikel 3
 
 Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), behoren in ieder geval:
 
@@ -84,7 +58,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 3. Algemene weerberichten
 
-##### Artikel 4
+#### Artikel 4
 
 1. Het KNMI vaardigt algemene weerberichten uit die weersverwachtingen of gemeten weersverschijnselen bevatten.
 
@@ -122,7 +96,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 4. Weerwaarschuwingen
 
-##### Artikel 5
+#### Artikel 5
 
 1. Weerwaarschuwingen worden via publiek toegankelijke communicatiemiddelen verspreid.
 
@@ -136,7 +110,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - b. het weersverschijnsel niet meer wordt verwacht.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Het KNMI vaardigt een weerwaarschuwing uit voor gevaarlijk weer boven het land en de ruime binnenwateren indien het KNMI één of meer van de volgende weersverschijnselen verwacht of waarneemt:
 
@@ -198,7 +172,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 5. Voordat het KNMI een weerwaarschuwing afgeeft als bedoeld in het eerste lid, onderdeel g, of het tweede lid, onderdeel g, raadpleegt het KNMI het Rijksinstituut voor volksgezondheid en milieu.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Het KNMI vaardigt tevens een weerwaarschuwing uit voor gevaarlijk weer boven de ruime binnenwateren en de zee indien het KNMI een of meer van de volgende weersverschijnselen verwacht of waarneemt:
 
@@ -216,7 +190,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 5. Waarschuwingen bij calamiteiten
 
-##### Artikel 8
+#### Artikel 8
 
 1. Bestuursorganen nemen de ondersteuning bij het KNMI af in geval van een calamiteit of ernstige vrees voor het ontstaan daarvan, indien daarbij het weer een belangrijke rol speelt.
 
@@ -224,7 +198,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 3. Overheidsbedrijven kunnen in de gevallen, bedoeld in het eerste lid, ondersteuning afnemen bij het KNMI.
 
-##### Artikel 9
+#### Artikel 9
 
 1. Bestuursorganen nemen tevens de ondersteuning af bij het KNMI:
 
@@ -240,7 +214,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 6. Seismologische meldingen
 
-##### Artikel 10
+#### Artikel 10
 
 1. Het KNMI informeert het algemeen publiek onverwijld bij significante bodembeweging door geofysische bronnen of vulkanische activiteit, indien het KNMI waarneemt:
 
@@ -256,7 +230,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 7. Dienstverlening op verzoek
 
-##### Artikel 11
+#### Artikel 11
 
 1. Het KNMI levert op verzoek de volgende dienstverlening:
 
@@ -286,7 +260,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 - b. kosten voor diensten die worden verleend aan een openbaar lichaam.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Het KNMI kan een samenwerkingsovereenkomst aangaan met een privaatrechtelijke rechtspersoon om in een samenwerkingsverband projecten te realiseren die de publieke dienstverlening op grond van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), verbeteren, ten aanzien van een:
 
@@ -302,7 +276,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 8. Activiteitenprogramma
 
-##### Artikel 13
+#### Artikel 13
 
 1. In het activiteitenprogramma, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=4), worden in ieder geval de volgende onderdelen opgenomen:
 
@@ -316,7 +290,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 9. Raad van toezicht
 
-##### Artikel 14
+#### Artikel 14
 
 1. De raad van toezicht adviseert de minister over het uit te voeren fundamenteel onderzoek door het KNMI.
 
@@ -326,25 +300,25 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 ### Hoofdstuk 10. Wijzigingen van regelingen
 
-##### Artikel 15
+#### Artikel 15
 
 Wijzigt de Regeling algemeen weerbericht BES 2010.
 
-##### Artikel 16
+#### Artikel 16
 
 Wijzigt de Regeling luchtvaartmeteorologische inlichtingen 2006.
 
-##### Artikel 17
+#### Artikel 17
 
 Wijzigt de Regeling luchtvaartmeteorologische inlichtingen BES 2010.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-##### Artikel 18
+#### Artikel 18
 
 Deze regeling treedt in werking op het tijdstip dat de [Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074) in werking treedt.
 
-##### Artikel 19
+#### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling taken meteorologie en seismologie.
 

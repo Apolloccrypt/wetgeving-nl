@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 november 2022, nr. WJZ/22031065, houdende de uitvoering van het gemeenschappelijk landbouwbeleid voor wat betreft de rechtstreekse betalingen en de conditionaliteiten (Uitvoeringsregeling GLB 2023)"
+title: "Uitvoeringsregeling GLB 2023"
 identifier: "BWBR0047444"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-21"
-last_updated: "2026-01-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047444"
-soort: "ministeriele-regeling"
-stam_id: "16559383"
-version_id: "30519092"
-internal_id: "C43752001"
-label_id: "16480934"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047444/2026-01-21/0"
-intitule_bron: "Stcrt.2022-29696"
-intitule_effect: "wijziging"
-intitule_signed: "2022-11-01"
-intitule_published: "2022-11-08"
-intitule_in_force: "2022-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-41242"
-original_signed_date: "2024-12-18"
-original_published_date: "2024-12-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-41242"
-entry_into_force_date: "2024-12-18"
-jci_1_3: "jci1.3:c:BWBR0047444&z=2026-01-21&g=2026-01-21"
-jci_1_0: "1.0:c:BWBR0047444&g=2026-01-21"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling GLB 2023"
-signed_date: "2024-12-18"
-entry_into_force: "2024-12-18"
+categorie: "Overig"
+publicatiedatum: 2026-01-21
+laatste_update: 2026-01-21
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0047444"
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 november 2022, nr. WJZ/22031065, houdende de uitvoering van het gemeenschappelijk landbouwbeleid voor wat betreft de rechtstreekse betalingen en de conditionaliteiten (Uitvoeringsregeling GLB 2023)
 
 Gelet op [Verordening (EU) nr. 2021/2115](32115R2021) van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (Elfpo) worden gefinancierd, en tot intrekking van [Verordeningen (EU) nr. 1305/2013](32013R1305) en [(EU) nr. 1307/2013](32013R1307) (PbEU 2021, L435) en [Verordening (EU) nr. 2021/2116](32116R2021) van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van [Verordening (EU) nr. 1306/2013](32013R1306) (PbEU 2021, L435) en de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=15), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=19), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=27) en [28 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=28);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-##### Artikel 1. Definities
+#### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
@@ -158,7 +132,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 2. Bevoegdheden minister
+#### Artikel 2. Bevoegdheden minister
 
 1. De minister verstrekt rechtstreekse betalingen inzake:
 
@@ -178,7 +152,7 @@ Besluit:
 
 5. De minister is bevoegd tot het uitbetalen, terugvorderen en verrekenen van betalingen en het opleggen van sancties.
 
-##### Artikel 3. Landbouwactiviteit
+#### Artikel 3. Landbouwactiviteit
 
 Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in een staat te houden die begrazing of teelt mogelijk maakt, als bedoeld in artikel 4, tweede lid, onderdeel b, van [verordening (EU) 2021/2115](32021R2115), is:
 
@@ -188,7 +162,7 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 - c. het areaal blijvende teelt in goede vegetatieve staat houden die productief potentieel heeft.
 
-##### Artikel 4. Landbouwareaal
+#### Artikel 4. Landbouwareaal
 
 1. Voor de uitvoering van zijn taken en bevoegdheden baseert de minister zich voor de grenzen van de referentiepercelen op het perceelsregister van RVO dat is gebaseerd op de objectgrenzen uit de Basisregistratie Grootschalige Topografie.
 
@@ -230,7 +204,7 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 7. Voor controle op de toestemming, bedoeld in het tweede lid, kan schriftelijk bewijs worden opgevraagd.
 
-##### Artikel 5. Actieve landbouwer
+#### Artikel 5. Actieve landbouwer
 
 1. Er worden geen betalingen toegekend aan landbouwers die niet uiterlijk op de peildatum zijn ingeschreven of waarvan de onderneming niet uiterlijk op de peildatum is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), onder de vermelding van de verkorte omschrijving van de landbouwactiviteit en de daarbij behorende code van de Standaard Bedrijfsindeling (SBI) beginnend met de cijfers 011, 012, 013, 014, 015, 016 of 1051, voor zover minimaal 50 procent van de melk die wordt verwerkt op het eigen melkveebedrijf geproduceerd wordt.
 
@@ -244,7 +218,7 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 6. Een overnemer als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=40&z=2026-01-21&g=2026-01-21), wordt als actieve landbouwer aangemerkt indien de inschrijving, bedoeld in het eerste lid, uiterlijk ten tijde van de melding van de overdracht van het bedrijf is geschied, en voor zover uit de inschrijving blijkt dat het bedrijf van de overnemer is opgericht op uiterlijk de datum van de bedrijfsoverdracht.
 
-##### Artikel 6. Subsidiabele hectare
+#### Artikel 6. Subsidiabele hectare
 
 1. Landbouwareaal dat ook wordt gebruikt voor niet-landbouwactiviteiten, wordt aangemerkt als overwegend voor landbouwactiviteiten gebruikt areaal indien geen sprake is van noemenswaardige hinder voor de uitoefening van landbouwactiviteiten.
 
@@ -298,7 +272,7 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 9. Indien het verschil tussen het subsidiabele areaal en het totale areaal dat op grond van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21), is opgegeven niet meer dan 0,1 ha bedraagt, wordt het subsidiabele areaal gelijkgesteld aan het opgegeven areaal.
 
-##### Artikel 7. Landschapselementen
+#### Artikel 7. Landschapselementen
 
 1. Voor de uitvoering van zijn taken en bevoegdheden baseert de minister zich voor de grenzen van landschapselementen op de referentiepercelen van het perceelsregister van RVO dat is gebaseerd op de objectgrenzen uit de Basisregistratie Grootschalige Topografie.
 
@@ -356,11 +330,11 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 9. Voor controle op de toestemming, bedoeld in het zesde lid, kan schriftelijk bewijs worden opgevraagd.
 
-##### Artikel 8. Drempel rechtstreekse betalingen
+#### Artikel 8. Drempel rechtstreekse betalingen
 
 Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het totaalbedrag van de voor een aanvraagjaar aangevraagde of toe te kennen rechtstreekse betalingen, voordat de sancties of verlagingen zijn toegepast, lager is dan 500 euro.
 
-##### Artikel 9. Bepalingen hennep
+#### Artikel 9. Bepalingen hennep
 
 1. De landbouwer die hennep teelt stuurt de minister een kopie van de originele etiketten van het gebruikte zaaizaad toe met gebruikmaking van een door de minister beschikbaar gesteld elektronisch formulier.
 
@@ -368,7 +342,7 @@ Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het tota
 
 #### Paragraaf 2. Aanvraagprocedure
 
-##### Artikel 10. Aanvraag
+#### Artikel 10. Aanvraag
 
 1. Een landbouwer die aanspraak maakt op betalingen als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-21&g=2026-01-21), dient hiertoe in de periode van 1 maart tot en met 15 mei van het aanvraagjaar een aanvraag in. Wanneer 15 mei een zaterdag of zondag is wordt de uiterste termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag of zondag is.
 
@@ -410,15 +384,15 @@ Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het tota
 
 7. De minister beslist op de aanvraag, bedoeld in het eerste lid, uiterlijk op 30 juni van het jaar volgend op het aanvraagjaar.
 
-##### Artikel 11. Aanvraag
+#### Artikel 11. Aanvraag
 
 Vervallen
 
-##### Artikel 12. Belastingdienst
+#### Artikel 12. Belastingdienst
 
 De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van de aanvrager bekend aan de minister.
 
-##### Artikel 13. Ontheffing elektronische weg
+#### Artikel 13. Ontheffing elektronische weg
 
 1. De minister kan een ontheffing verlenen van de verplichting langs elektronische weg de aanvraag, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21), in te dienen, in geval de landbouwer aantoont:
 
@@ -430,7 +404,7 @@ De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van
 
 #### Paragraaf 3. Aanvullende herverdelende inkomenssteun voor duurzaamheid
 
-##### Artikel 14. Aanvullende betaling
+#### Artikel 14. Aanvullende betaling
 
 1. Een landbouwer die aanspraak maakt op de betaling van basisinkomenssteun voor duurzaamheid, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2026-01-21&g=2026-01-21), krijgt aanvullend hierop een betaling van herverdelende inkomenssteun voor maximaal 40 hectaren.
 
@@ -438,13 +412,13 @@ De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van
 
 #### Paragraaf 4. Aanvullende inkomenssteun voor de jonge landbouwer
 
-##### Artikel 15. Voorwaarden
+#### Artikel 15. Voorwaarden
 
 1. Een landbouwer kan aanspraak maken op de betaling voor aanvullende inkomenssteun voor jonge landbouwers, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2026-01-21&g=2026-01-21), voor de resterende periode, bedoeld in artikel 30, tweede lid, tweede alinea, van [verordening (EU) 2021/2115](32021R2115), indien de jonge landbouwer daadwerkelijke langdurige zeggenschap heeft over het bedrijf op de peildatum van het aanvraagjaar.
 
 2. Bij een aanspraak als bedoeld in het eerste lid, verleent de landbouwer toestemming aan de minister om persoonsgegevens te verwerken ten behoeve van de controle op de naleving van deze regeling.
 
-##### Artikel 16. Zeggenschap
+#### Artikel 16. Zeggenschap
 
 1. Van daadwerkelijke langdurige zeggenschap is sprake indien de jonge landbouwer:
 
@@ -470,13 +444,13 @@ De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van
 
 5. De overeenkomst, bedoeld in het tweede en derde lid, is uiterlijk op de peildatum opgesteld, ondertekend en voorzien van de datum waarop de overeenkomst is ondertekend.
 
-##### Artikel 17. Betaling vast bedrag
+#### Artikel 17. Betaling vast bedrag
 
 De minister stelt elk jaar een vast bedrag per jonge landbouwer als bedoeld in artikel 30, derde lid, tweede alinea, van [verordening (EU) 2021/2115](32021R2115) vast.
 
 #### Paragraaf 5. Eco-regeling voor Klimaat en Leefomgeving
 
-##### Artikel 18. Eco-activiteiten categorie hoofdteelt
+#### Artikel 18. Eco-activiteiten categorie hoofdteelt
 
 De Eco-activiteiten in de categorie hoofdteelt zijn:
 
@@ -574,7 +548,7 @@ De Eco-activiteiten in de categorie hoofdteelt zijn:
 
 - 4°. een strook met struiken en bomen waaronder boslandbouw is toegestaan.
 
-##### Artikel 19. Eco-activiteiten categorie bodemgewas
+#### Artikel 19. Eco-activiteiten categorie bodemgewas
 
 De Eco-activiteiten in de categorie bodemgewas zijn:
 
@@ -598,7 +572,7 @@ De Eco-activiteiten in de categorie bodemgewas zijn:
 
 - 4°. het gewas mag doodvriezen.
 
-##### Artikel 20. Eco-activiteiten categorie teeltmaatregel
+#### Artikel 20. Eco-activiteiten categorie teeltmaatregel
 
 De Eco-activiteiten in de categorie teeltmaatregel zijn:
 
@@ -696,11 +670,11 @@ De Eco-activiteiten in de categorie teeltmaatregel zijn:
 
 - 5°. het areaal was in het voorgaand aanvraagjaar geen blijvend grasland.
 
-##### Artikel 21. Niet-toegestane Eco-activiteiten
+#### Artikel 21. Niet-toegestane Eco-activiteiten
 
 De eco-activiteiten, bedoeld in [artikel 20, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=20&z=2026-01-21&g=2026-01-21), en [artikel 23, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2026-01-21&g=2026-01-21), zijn niet toegestaan op een bufferstrook als bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2026-01-21&g=2026-01-21), in samenhang met [Bijlage 4 § 2. Water](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2026-01-21&g=2026-01-21).
 
-##### Artikel 22. Eco-activiteiten categorie veemaatregelen
+#### Artikel 22. Eco-activiteiten categorie veemaatregelen
 
 1. De eco-activiteiten in de categorie veemaatregel zijn:
 
@@ -710,7 +684,7 @@ weiden categorie 1 of weiden categorie 2 onder de volgende voorwaarden:
 
 - 2°. de landbouwer neemt deel aan een erkend certificeringsschema als bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22b&z=2026-01-21&g=2026-01-21) en voldoet volgens vaststelling door de certificerende instantie aan de eisen van dit certificeringsschema.
 
-##### Artikel 23. Eco-activiteiten categorie niet-productieve grond
+#### Artikel 23. Eco-activiteiten categorie niet-productieve grond
 
 De Eco-activiteiten in de categorie niet-productieve grond zijn:
 
@@ -772,7 +746,7 @@ De Eco-activiteiten in de categorie niet-productieve grond zijn:
 
 - 6°. gras, kruidachtige voedergewassen en vlinderbloemigen zijn gelijkmatig verspreid over de bufferstrook aanwezig.
 
-##### Artikel 24. Eco-activiteiten categorie biologische productie
+#### Artikel 24. Eco-activiteiten categorie biologische productie
 
 De Eco-activiteit in de categorie biologische productie is:
 
@@ -782,7 +756,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 - 2°. Het bedrijf voldoet uiterlijk op de peildatum aan de voorwaarden gesteld onder 1°.
 
-##### Artikel 25. Voorwaarden eco-regeling
+#### Artikel 25. Voorwaarden eco-regeling
 
 1. De landbouwer die aanspraak maakt op de betaling voor de eco-regeling, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-21&g=2026-01-21):
 
@@ -796,7 +770,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 2. Onverminderd [artikel 10, tweede lid, onderdeel b en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21), geeft de landbouwer, uiterlijk op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2026-01-21&g=2026-01-21) genoemde datum, aan welke eco-activiteiten op welke percelen zullen worden uitgevoerd. Wanneer deze uiterste datum op een zaterdag, zondag of een algemeen erkende feestdag als bedoeld in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) eindigt, wordt deze verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
 
-##### Artikel 26. Combinatie van activiteiten
+#### Artikel 26. Combinatie van activiteiten
 
 1. Uitbetaling kan worden gevraagd voor de uitvoering van verschillende, elkaar niet uitsluitende eco-activiteiten op hetzelfde perceel, als bedoeld in [bijlage 2, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2026-01-21&g=2026-01-21), waarbij zowel de punten als de waardes van die eco-activiteit bij elkaar mogen worden opgeteld.
 
@@ -808,7 +782,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 3. Indien naast een aanvraag om uitbetaling voor het uitvoeren van een eco-activiteit voor dezelfde handeling op hetzelfde perceel of deel van het perceel tevens een aanvraag wordt gedaan om uitbetaling in het kader van de subsidieregelingen ANLb, wordt voor het overlappende deel van het perceel voor de eco-activiteit geen waarde toegekend.
 
-##### Artikel 27. Berekening en betaling
+#### Artikel 27. Berekening en betaling
 
 1. Het totaal aantal punten, bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2026-01-21&g=2026-01-21), wordt berekend door de subsidiabele hectares waarop de eco-activiteit is gerealiseerd en die op de peildatum bij de landbouwer in gebruik zijn, te vermenigvuldigen met het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit gedifferentieerd naar regio, zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2026-01-21&g=2026-01-21).
 
@@ -836,7 +810,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 #### Paragraaf 6. Regeling voor zeldzame landbouwhuisdierrassen
 
-##### Artikel 28. Zeldzame landbouwhuisdierrassen
+#### Artikel 28. Zeldzame landbouwhuisdierrassen
 
 1. Een actieve landbouwer als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-21&g=2026-01-21), kan aanspraak maken op de betaling voor het houden van raszuivere vrouwelijke en mannelijke dieren, als bedoeld en als zodanig geregistreerd in het I&R register, van de volgende zeldzame Nederlandse landbouwhuisdierrassen:
 
@@ -858,7 +832,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 - b. in geval van mannelijke en vrouwelijke geiten en schapen, tenminste 0,5 grootvee-eenheden gehouden.
 
-##### Artikel 29. Voorwaarden
+#### Artikel 29. Voorwaarden
 
 1. Betalingen als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2026-01-21&g=2026-01-21), worden enkel verstrekt voor zover de aanvrager voldoet aan de beheerseisen van RBE 11, bedoeld in [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2026-01-21&g=2026-01-21), in samenhang met [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3&z=2026-01-21&g=2026-01-21), met dien verstande dat voor zover sprake is van een niet-naleving die een deel van de aangevraagde dieren raakt, enkel het aantal dieren waarop de niet-naleving betrekking heeft niet voor betaling in aanmerking komt.
 
@@ -872,7 +846,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 - d. de leeftijd van de dieren.
 
-##### Artikel 30. Berekening grootvee-eenheid en drempel betaling
+#### Artikel 30. Berekening grootvee-eenheid en drempel betaling
 
 1. Het aantal grootvee-eenheden van de zeldzame landbouwhuisdierrassen wordt met inachtneming van punt 12, onderdeel b, van de bijlage bij [verordening (EU) 2021/2290](32021R2290), berekend door:
 
@@ -886,7 +860,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 2. Indien een dier op een peildatum als bedoeld in het eerste lid, onderdeel a, bij meer dan één houder geregistreerd staat, wordt het dier voor die peildatum toegerekend aan de laatst aanvoerende houder.
 
-##### Artikel 31. Betaling
+#### Artikel 31. Betaling
 
 1. De betaling wordt eenmaal per jaar verstrekt voor maximaal 100 grootvee-eenheden zeldzame landbouwhuisdierrassen, gehouden in het aanvraagjaar.
 
@@ -900,7 +874,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 #### Paragraaf 1. Conditionaliteiten
 
-##### Artikel 32. Conditionaliteiten
+#### Artikel 32. Conditionaliteiten
 
 1. Een landbouwer die deelneemt aan één of meer van de onder [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-21&g=2026-01-21), bedoelde regelingen, neemt de volgende bepalingen in acht:
 
@@ -912,7 +886,7 @@ De Eco-activiteit in de categorie biologische productie is:
 
 2. Percelen die zijn gecertificeerd overeenkomstig [verordening (EU) 2018/848](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32018R0848) of in omschakeling zijn naar biologisch worden geacht te voldoen aan de in het eerste lid, onderdeel b, en [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2026-01-21&g=2026-01-21) bedoelde GLMC-normen 1, 3, 4, 5, 6, 7 en 10 voor het in goede landbouw- en milieuconditie houden van landbouwareaal.
 
-##### Artikel 33. Bewustmakingsmechanisme
+#### Artikel 33. Bewustmakingsmechanisme
 
 1. Het bewustmakingsmechanisme, bedoeld in artikel 85, derde lid, tweede alinea, van [verordening (EU) 2021/2116](32021R2116), houdt in dat de minister, op grond van de beoordeling van de niet-naleving van een conditionaliteit die, gelet op haar geringe ernst, omvang en duur, in naar behoren gemotiveerde gevallen geen aanleiding geeft tot een verlaging of uitsluiting, aan de landbouwer eerst een waarschuwing geeft voor zover geen sprake is van een herhaling.
 
@@ -940,13 +914,13 @@ De Eco-activiteit in de categorie biologische productie is:
 
 3. De waarschuwing, bedoeld in het eerste lid, wordt niet meer dan één keer gegeven voor niet-nalevingen van eenzelfde conditionaliteit gedurende drie opeenvolgende kalenderjaren, gerekend vanaf en inclusief het jaar waarin de niet-naleving is geconstateerd.
 
-##### Artikel 34. Administratieve sancties conditionaliteiten
+#### Artikel 34. Administratieve sancties conditionaliteiten
 
 1. De minister stelt de sancties, bedoeld in artikel 84, eerste lid, van [verordening (EU) 2021/2116](32021R2116), vast overeenkomstig artikel 85 van [verordening (EU) 2021/2116](32021R2116) en hoofdstuk III van [verordening (EU) 2022/1172](32022R1172).
 
 2. De peildatum voor het vaststellen van de bedrijfsoppervlakte in verband met de vrijstelling van controle van bedrijven met een maximale omvang van 10 ha landbouwareaal, bedoeld in artikel 83, tweede lid, van [verordening 2021/2116](32116R2021), is 15 mei.
 
-##### Artikel 35. Opzet
+#### Artikel 35. Opzet
 
 1. Een niet-naleving van conditionaliteiten is opzettelijk begaan indien de landbouwer de desbetreffende niet-naleving heeft beoogd of indien de landbouwer het risico heeft aanvaard dat zijn handelen of nalaten een niet-naleving tot gevolg heeft.
 
@@ -978,19 +952,19 @@ De Eco-activiteit in de categorie biologische productie is:
 
 6. In afwijking van de leden 4 en 5 kan een hoger verlagingspercentage worden toegepast indien ernst, omvang of permanent karakter van de niet-naleving daar aanleiding toe geven.
 
-##### Artikel 36. Sancties bij overdracht van landbouwgrond
+#### Artikel 36. Sancties bij overdracht van landbouwgrond
 
 Wanneer de landbouwgrond, dan wel een deel hiervan, in het betrokken kalenderjaar wordt overgedragen, worden de administratieve sancties, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=34&z=2026-01-21&g=2026-01-21), opgelegd aan de actieve landbouwer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-21&g=2026-01-21), die op de peildatum het perceel landbouwgrond ter beschikking heeft.
 
 #### Paragraaf 2. Bedrijfsadviseringssysteem
 
-##### Artikel 37. Bedrijfsadviesdiensten
+#### Artikel 37. Bedrijfsadviesdiensten
 
 1. Er is een bedrijfsadviseringssysteem als bedoeld in artikel 15, eerste lid, van [verordening (EU) 2021/2115](32021R2115).
 
 2. De adviseur in het kader van het bedrijfsadviseringssysteem adviseert, met inachtneming van artikel 15, tweede lid, van [verordening (EU) 2021/2115](32021R2115) ten minste over de onderwerpen, bedoeld in artikel 15, vierde lid, onderdelen a tot en met h, van [verordening (EU) 2021/2115](32021R2115).
 
-##### Artikel 38. Aanwijzing beroepsorganisaties adviseurs
+#### Artikel 38. Aanwijzing beroepsorganisaties adviseurs
 
 1. De minister wijst op aanvraag een beroepsorganisatie voor adviseurs in het kader van het bedrijfsadviseringssysteem aan die ten minste 50 leden heeft en die blijkens de bij de aanvraag overgelegde gegevens voldoet aan het tweede tot en met vierde lid.
 
@@ -1012,11 +986,11 @@ Wanneer de landbouwgrond, dan wel een deel hiervan, in het betrokken kalenderjaa
 
 ### Hoofdstuk 4. Procedurele bepalingen en administratieve sancties
 
-##### Artikel 39. Termijn indiening extra gegevens
+#### Artikel 39. Termijn indiening extra gegevens
 
 Ten behoeve van de beoordeling van een aanvraag om betalingen kan door de minister worden verzocht om binnen maximaal vier weken extra gegevens en inlichtingen te verschaffen.
 
-##### Artikel 40. Gehele bedrijfsoverdracht
+#### Artikel 40. Gehele bedrijfsoverdracht
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1040,11 +1014,11 @@ Ten behoeve van de beoordeling van een aanvraag om betalingen kan door de minist
 
 4. Indien de overdracht na 15 oktober van het aanvraagjaar is gemeld of de overnemer op het moment van de overdracht geen actieve landbouwer is als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-21&g=2026-01-21), wordt de steun uitbetaald aan de overdrager, mits de overdrager tijdig een aanvraag heeft ingediend als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21) en de overdrager op de peildatum actieve landbouwer was als bedoeld in artikel 5.
 
-##### Artikel 41. Gedeeltelijke bedrijfsoverdracht, fusie, splitsing, vererving en bedrijfsbeëindiging
+#### Artikel 41. Gedeeltelijke bedrijfsoverdracht, fusie, splitsing, vererving en bedrijfsbeëindiging
 
 Indien het bedrijf van een landbouwer na de aanvraag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21), gedeeltelijk aan een andere begunstigde wordt overgedragen, of wanneer sprake is van een fusie, splitsing, vererving of bedrijfsbeëindiging, wordt door de landbouwer die de aanvraag heeft gedaan daarvan onverwijld melding gedaan met een door de minister ter beschikking gesteld elektronisch formulier.
 
-##### Artikel 42. Administratieve sancties
+#### Artikel 42. Administratieve sancties
 
 1. Ter uitvoering van artikel 59, eerste lid, onderdeel d, van [verordening (EU) 2021/2116](32021R2116) worden administratieve sancties vastgesteld om een doeltreffende bescherming van de financiële belangen van de Europese Unie te waarborgen.
 
@@ -1072,25 +1046,25 @@ Indien het bedrijf van een landbouwer na de aanvraag, bedoeld in [artikel 10](ht
 
 - b. het niet melden van het geheel of gedeeltelijk of niet volgens de voorwaarden uitvoeren van een eco-activiteit.
 
-##### Artikel 43. Sancties bij overdracht van een perceel landbouwgrond
+#### Artikel 43. Sancties bij overdracht van een perceel landbouwgrond
 
 Wanneer een perceel landbouwgrond in het betrokken kalenderjaar wordt overgedragen, worden de administratieve sancties, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2026-01-21&g=2026-01-21), opgelegd aan de actieve landbouwer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-21&g=2026-01-21), die op de peildatum het perceel landbouwgrond ter beschikking heeft.
 
-##### Artikel 44. Controle ter plaatse
+#### Artikel 44. Controle ter plaatse
 
 Indien de begunstigde of zijn vertegenwoordiger de uitvoering van een controle ter plaatse verhindert, wordt de betrokken steun- of betalingsaanvraag afgewezen, behalve in gevallen als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=46&z=2026-01-21&g=2026-01-21).
 
-##### Artikel 45. Omzeilingsclausule
+#### Artikel 45. Omzeilingsclausule
 
 Geen steun wordt toegekend aan natuurlijke personen of rechtspersonen van wie is komen vast te staan dat zij kunstmatig de voorwaarden hebben gecreëerd om hiervoor in aanmerking te komen.
 
-##### Artikel 46. Overmacht en uitzonderlijke omstandigheden
+#### Artikel 46. Overmacht en uitzonderlijke omstandigheden
 
 1. De landbouwer die een beroep wil doen op overmacht of uitzonderlijke omstandigheden doet hiervan zo spoedig mogelijk een melding bij RVO met gebruikmaking van een door de minister beschikbaar gesteld elektronisch formulier.
 
 2. De minister geeft geen toepassing aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2026-01-21&g=2026-01-21) in de gevallen genoemd in artikel 59, vijfde lid, onderdelen a, b en c, van [verordening (EU) 2021/2116](32021R2116).
 
-##### Artikel 47. Kennelijke fout
+#### Artikel 47. Kennelijke fout
 
 1. De aanvraag, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21), en eventuele daarbij overgelegde bewijsstukken, kunnen na de indiening ervan worden gecorrigeerd en aangepast indien sprake is van een kennelijke fout.
 
@@ -1104,13 +1078,13 @@ Geen steun wordt toegekend aan natuurlijke personen of rechtspersonen van wie is
 
 3. De minister geeft geen toepassing aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2026-01-21&g=2026-01-21) indien de niet-naleving het gevolg is van een kennelijke fout.
 
-##### Artikel 48. Hardheidsclausule
+#### Artikel 48. Hardheidsclausule
 
 1. De minister kan afwijken van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-21&g=2026-01-21), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-21&g=2026-01-21), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=13&z=2026-01-21&g=2026-01-21), [18, onderdelen f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2026-01-21&g=2026-01-21), [19, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=19&z=2026-01-21&g=2026-01-21), [23, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2026-01-21&g=2026-01-21), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=40&z=2026-01-21&g=2026-01-21) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=41&z=2026-01-21&g=2026-01-21), voor zover de toepassing van deze artikelen gelet op het doel ervan zal leiden tot een onbillijkheid van overwegende aard.
 
 2. De minister kan, rekening houdend met de financiële belangen van de Unie, voorts afwijken van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2026-01-21&g=2026-01-21), voor zover de toepassing van dit artikel gelet op het doel ervan zal leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 49. Terugvordering
+#### Artikel 49. Terugvordering
 
 1. Indien sprake is van een (deels) onverschuldigde betaling, wordt het onverschuldigd betaalde bedrag teruggevorderd, tenzij:
 
@@ -1122,7 +1096,7 @@ Geen steun wordt toegekend aan natuurlijke personen of rechtspersonen van wie is
 
 3. De minister geeft toepassing aan artikel 31 van [verordening (EU) 2022/128](32022R0128).
 
-##### Artikel 50. Openbaarmaking steungegevens
+#### Artikel 50. Openbaarmaking steungegevens
 
 1. Over de periode van 16 oktober van het kalenderjaar voorafgaand aan het aanvraagjaar tot en met 15 oktober van het aanvraagjaar worden de gegevens openbaar gemaakt over de subsidies en andere steunbedragen van het Europees Landbouwgarantiefonds overeenkomstig artikel 98, leden 2, 3 en 4, van [verordening (EU) 2021/2116](32021R2116).
 
@@ -1132,17 +1106,17 @@ Geen steun wordt toegekend aan natuurlijke personen of rechtspersonen van wie is
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-##### Artikel 51
+#### Artikel 51
 
 1. De [Uitvoeringsregeling rechtstreekse betalingen GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0035925) wordt ingetrokken.
 
 2. De [Uitvoeringsregeling rechtstreekse betalingen GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0035925) blijft van toepassing ten aanzien van aanvragen die op grond van die regeling zijn ingediend vóór 1 januari 2023.
 
-##### Artikel 52
+#### Artikel 52
 
 Deze regeling treedt in werking met ingang van 1 januari 2023.
 
-##### Artikel 53
+#### Artikel 53
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling GLB 2023.
 
@@ -1478,7 +1452,7 @@ Adres:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 22a. Voorschriften certificeringsschema
+#### Artikel 22a. Voorschriften certificeringsschema
 
 1. Het certificeringsschema bevat voorschriften voor het weiden, waaronder:
 
@@ -1496,7 +1470,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De Minister kan op advies van de schema-eigenaar in een jaar met uitzonderlijke veterinaire of weersomstandigheden die de mogelijkheden voor weiden beperken bij besluit het vereiste aantal uren voor weiden categorie 1 of weiden categorie 2 voor dat jaar verlagen.
 
-##### Artikel 22b. Erkenning certificeringsschema
+#### Artikel 22b. Erkenning certificeringsschema
 
 1. De Minister verleent op aanvraag een erkenning aan een certificeringsschema ten behoeve van de certificering van de eco-activiteit weiden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22&z=2026-01-21&g=2026-01-21), indien wordt voldaan aan de volgende eisen:
 
@@ -1536,7 +1510,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. indien wijzigingen als bedoeld in het derde lid niet of niet tijdig worden gemeld.
 
-##### Artikel 22c. Verplichtingen certificerende instantie
+#### Artikel 22c. Verplichtingen certificerende instantie
 
 1. De certificerende instantie controleert of de landbouwer voldoet aan
 
@@ -1634,7 +1608,7 @@ In artikel 15, vierde lid, onderdeel g, van [Verordening (EU) 2021/2115](32115R2
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 38a. Aanwijzing aanbieder of eigenaar van een nutriëntentool
+#### Artikel 38a. Aanwijzing aanbieder of eigenaar van een nutriëntentool
 
 1. De minister wijst op aanvraag één of meer aanbieders of eigenaren van een nutriëntentool aan, die voldoet aan de eisen van artikel 15, vierde lid, onderdeel g, van [Verordening (EU) 2021/2115](32115R2021). Deze eisen zijn weergegeven in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=7&z=2026-01-21&g=2026-01-21), onderdeel A.
 
@@ -2037,7 +2011,7 @@ De nutriëntentool dient ten minste te voorzien in:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 51a
+#### Artikel 51a
 
 1. De [Regeling superheffing 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023701) wordt ingetrokken.
 
@@ -2350,7 +2324,7 @@ Goede landbouw- en milieucondities als bedoeld in artikel 13 van [verordening (E
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 27a
+#### Artikel 27a
 
 1. Ten behoeve van de controle op de naleving van de voorwaarden en de uitvoering van eco-activiteiten kan aan de landbouwer als bewijs daarvan een gegeotagde foto als genoemd in artikel 11 van [verordening (EU) 2022/1173](32022R1173) worden gevraagd.
 

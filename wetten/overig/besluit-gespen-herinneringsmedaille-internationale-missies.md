@@ -1,39 +1,13 @@
 ---
-title: "Besluit gespen Herinneringsmedaille Vredesoperaties"
+title: "Besluit gespen Herinneringsmedaille Internationale Missies"
 identifier: "BWBR0012681"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-08"
-last_updated: "2025-10-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012681"
-soort: "ministeriele-regeling"
-stam_id: "5357763"
-version_id: "9602702"
-internal_id: "C12902551"
-label_id: "5333414"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012681/2025-10-08/0"
-intitule_bron: "Stcrt.2001-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-12"
-intitule_published: "2001-07-19"
-intitule_in_force: "2001-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-137"
-original_signed_date: "2001-07-12"
-original_published_date: "2001-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-137-p6-SC30167"
-entry_into_force_date: "2001-07-21"
-jci_1_3: "jci1.3:c:BWBR0012681&z=2025-10-08&g=2025-10-08"
-jci_1_0: "1.0:c:BWBR0012681&g=2025-10-08"
-citeertitel_status: "officieel"
-short_title: "Besluit gespen Herinneringsmedaille Internationale Missies"
-signed_date: "2001-07-12"
-entry_into_force: "2001-07-21"
+categorie: "Overig"
+publicatiedatum: 2025-10-08
+laatste_update: 2025-10-08
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0012681"
 ---
+
 # Besluit gespen Herinneringsmedaille Vredesoperaties
 
 Handelende in overeenstemming met de Ministers van Buitenlandse Zaken, van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -42,7 +16,7 @@ Gelet op [artikel 4, eerste lid, van het Besluit Herinneringsmedaille Vredesoper
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden ingesteld:
 
@@ -306,11 +280,11 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - nn. voor deelname aan de operatie ‘FORENSISCHE OPSPORING ICC’, voor zover deze deelname heeft plaatsgevonden op het grondgebied van Oekraïne, alsmede in Rzeszow, Polen, vanaf 14 mei 2022: FORENSISCHE OPSPORING.
 
-##### Artikel 2
+#### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2001.
 
-##### Artikel 3
+#### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit gespen Herinneringsmedaille Internationale Missies.
 
