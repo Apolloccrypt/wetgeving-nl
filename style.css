@@ -343,3 +343,29 @@ footer{background:var(--grijs);color:var(--zacht);padding:2.5rem 2rem;margin-top
 .dd-aantal{font-family:'DM Mono',monospace;font-size:0.7rem;color:var(--zacht);flex-shrink:0;}
 .filter-spacer{flex:1;}
 @media(max-width:560px){.filter-spacer{display:none;}.dropdown-menu{min-width:200px;}}
+
+/* ===== Wet-radar (homepage) ===== */
+.radar{max-width:1100px;margin:1.3rem auto 0;padding:0 2rem;}
+.radar-kop{display:flex;align-items:baseline;gap:0.7rem;flex-wrap:wrap;margin-bottom:0.6rem;}
+.radar-kop strong{font-size:0.95rem;letter-spacing:-0.01em;}
+.radar-tel{font-family:'DM Mono',monospace;font-size:0.72rem;color:var(--zacht);}
+.radar-feed{margin-left:auto;font-family:'DM Mono',monospace;font-size:0.68rem;color:var(--petrol);text-decoration:none;border:1px solid var(--rand);border-radius:6px;padding:0.18rem 0.5rem;}
+.radar-feed:hover{border-color:var(--petrol);}
+.radar-chips{display:flex;gap:0.5rem;flex-wrap:wrap;}
+.radar-chip{display:inline-flex;align-items:center;gap:0.4rem;max-width:330px;font-size:0.78rem;color:var(--tekst);text-decoration:none;background:var(--wit);border:1px solid var(--rand);border-radius:20px;padding:0.3rem 0.75rem;}
+.radar-chip:hover{border-color:var(--petrol);}
+.radar-chip:hover .radar-titel{color:var(--petrol);}
+.radar-titel{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;}
+.radar-actie{font-family:'DM Mono',monospace;font-size:0.58rem;text-transform:uppercase;letter-spacing:0.04em;padding:0.08rem 0.35rem;border-radius:4px;flex-shrink:0;}
+.radar-nieuw{background:#e7f6ec;color:#166534;}
+.radar-gewijzigd{background:var(--petrol-tint);color:var(--petrol-diep);}
+@media(max-width:700px){.radar-chip{max-width:100%;}}
+
+/* ===== API-pagina ===== */
+.api-tabel{width:100%;border-collapse:collapse;margin:0.5rem 0 1rem;font-size:0.88rem;}
+.api-tabel th,.api-tabel td{border:1px solid var(--rand);padding:0.55rem 0.7rem;text-align:left;vertical-align:top;}
+.api-tabel th{background:var(--grijs);font-weight:600;font-size:0.8rem;}
+.api-tabel a{color:var(--petrol);text-decoration:none;}
+.api-tabel a:hover{text-decoration:underline;}
+.codeblok{background:var(--donker);color:#e8e8ec;border-radius:10px;padding:1rem 1.1rem;overflow-x:auto;margin:0.5rem 0 1.2rem;font-family:'DM Mono',monospace;font-size:0.8rem;line-height:1.6;}
+.codeblok code{font-family:inherit;background:none;border:none;padding:0;color:inherit;}

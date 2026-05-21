@@ -86,6 +86,8 @@
   </div>
 </div>
 
+<div class="radar" id="radar" hidden></div>
+
 <div class="resultaten-sectie">
   <div class="resultaten-info"><span id="info">Laden…</span></div>
   <div id="resultaten"><div class="laden">Wetten laden…</div></div>
@@ -133,6 +135,7 @@ const BATCH = 60;
 let alleWetten = [], gefilterd = [], getoond = BATCH;
 let actieveCat = 'alles', actieveType = 'alles', actieveSort = 'az', query = '';
 let zoekData = null, mini = null, zoekKlaar = false, volledigeTekst = false;
+let CHANGELOG = null;
 
 const esc = t => (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const MAANDEN = ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'];
@@ -176,6 +179,7 @@ async function init(){
   filterEnToon();
   laadZoekindex();
   laadMeta();
+  laadRadar();
 }
 
 async function laadMeta(){
@@ -183,6 +187,28 @@ async function laadMeta(){
     const m = await fetch('meta.json').then(r => r.ok ? r.json() : null);
     if(m && m.gegenereerd) document.getElementById('stat-datum').textContent = datumVol(m.gegenereerd);
   } catch(e){ /* val terug op meest recente wetsdatum */ }
+}
+
+async function laadRadar(){
+  try {
+    CHANGELOG = await fetch('changelog.json').then(r => r.ok ? r.json() : null);
+    renderRadar();
+  } catch(e){ /* radar is optioneel */ }
+}
+
+function renderRadar(){
+  const el = document.getElementById('radar');
+  const standaard = !query.trim() && actieveCat === 'alles' && actieveType === 'alles';
+  if(!CHANGELOG || !standaard || !CHANGELOG.recent || !CHANGELOG.recent.length){ el.hidden = true; return; }
+  const chips = CHANGELOG.recent.slice(0, 8).map(w =>
+    `<a class="radar-chip" href="wet.html?id=${encodeURIComponent(w.identifier)}"><span class="radar-actie radar-${w.actie}">${w.actie}</span><span class="radar-titel">${esc(w.titel)}</span></a>`
+  ).join('');
+  el.innerHTML =
+    `<div class="radar-kop"><strong>Recent bijgewerkt</strong>` +
+    `<span class="radar-tel">${CHANGELOG.vandaag} vandaag · ${CHANGELOG.deze_week} deze week · ${CHANGELOG.deze_maand} deze maand</span>` +
+    `<a class="radar-feed" href="feed.xml">RSS ↗</a></div>` +
+    `<div class="radar-chips">${chips}</div>`;
+  el.hidden = false;
 }
 
 // Full-text index lazy laden (blokkeert de pagina niet)
@@ -330,6 +356,8 @@ function render(){
   const restant = gefilterd.length - getoond;
   document.getElementById('meer-info').textContent =
     restant > 0 ? `${slice.length.toLocaleString('nl-NL')} van ${gefilterd.length.toLocaleString('nl-NL')} getoond — scroll voor meer` : '';
+
+  renderRadar();
 }
 
 // Infinite scroll

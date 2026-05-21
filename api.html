@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>API &amp; open data — vrijewetgeving.nl</title>
+<meta name="description" content="vrijewetgeving.nl is volledig open data: statische JSON-bestanden zonder account, sleutel of limiet. CC0.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
+<link rel="stylesheet" href="vendor/fonts.css">
+<link rel="stylesheet" href="style.css">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="vrijewetgeving.nl">
+<meta property="og:title" content="API &amp; open data — vrijewetgeving.nl">
+<meta property="og:description" content="Statische JSON-bestanden zonder account, sleutel of limiet. CC0.">
+<meta name="twitter:card" content="summary">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
+  </div>
+</header>
+
+<nav class="nav-bar">
+  <div class="nav-inner">
+    <a class="nav-btn" href="index.html">Alle wetten</a>
+    <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="over.html">Over</a>
+    <div class="nav-spacer"></div>
+    <button class="nav-gh" id="gh-btn" aria-haspopup="true" aria-expanded="false">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+      GitHub
+      <div class="nav-gh-menu" id="gh-menu" role="menu">
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
+        <div class="nav-gh-sep"></div>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">Fout melden</a>
+      </div>
+    </button>
+  </div>
+</nav>
+
+<div class="hero hero-compact">
+  <div class="hero-inner">
+    <h1>API &amp; <span>open data</span></h1>
+    <div class="hero-sub">Alles op deze site is open data: statische JSON- en XML-bestanden. Geen account, geen sleutel, geen limiet, geen tracking. Licentie CC0.</div>
+  </div>
+</div>
+
+<div class="over-sectie">
+  <div class="over-inner">
+    <h2>Endpoints</h2>
+    <table class="api-tabel">
+      <thead><tr><th>Bestand</th><th>Inhoud</th></tr></thead>
+      <tbody>
+        <tr><td><a href="index.json"><code>/index.json</code></a></td><td>Alle wetten: titel, identifier, categorie, type (soort), datum, status, pad.</td></tr>
+        <tr><td><a href="verwijzingen.json"><code>/verwijzingen.json</code></a></td><td>Graaf van kruisverwijzingen: <code>{ "BWBR…": ["BWBR…", …] }</code> (haalt aan).</td></tr>
+        <tr><td><a href="zoekindex.json"><code>/zoekindex.json</code></a></td><td>Doorzoekbare tekst per wet (titel + eerste 2.000 tekens), positie-aligned met index.json.</td></tr>
+        <tr><td><a href="meta.json"><code>/meta.json</code></a></td><td>Generatiedatum + aantal wetten.</td></tr>
+        <tr><td><a href="changelog.json"><code>/changelog.json</code></a></td><td>Recente wijzigingen: tellingen + lijst (identifier, titel, actie, datum).</td></tr>
+        <tr><td><a href="sitemap.xml"><code>/sitemap.xml</code></a></td><td>Alle wet-URLs.</td></tr>
+        <tr><td><a href="feed.xml"><code>/feed.xml</code></a></td><td>Atom-feed van recente wijzigingen (ook per categorie: <code>/feed/&lt;rechtsgebied&gt;.xml</code>).</td></tr>
+      </tbody>
+    </table>
+    <p>De volledige tekst van een wet staat als Markdown in de repository onder <code>/wetten/&lt;categorie&gt;/&lt;slug&gt;.md</code> — het pad staat in het <code>pad</code>-veld van <code>index.json</code>.</p>
+
+    <h2>Een wet ophalen — voorbeeld</h2>
+    <pre class="codeblok"><code># Zoek het pad van een wet op identifier (BWBR-nummer)
+curl -s https://vrijewetgeving.nl/index.json \
+  | jq '.[] | select(.identifier=="BWBR0001854")'
+
+# Haal de volledige Markdown-tekst op
+curl -s https://vrijewetgeving.nl/wetten/strafrecht/wetboek-van-strafrecht.md</code></pre>
+
+    <pre class="codeblok"><code># Python: alle arbeidsrecht-wetten
+import urllib.request, json
+data = json.load(urllib.request.urlopen("https://vrijewetgeving.nl/index.json"))
+arbeid = [w for w in data if w["categorie"] == "Arbeidsrecht"]
+print(len(arbeid), "wetten")</code></pre>
+
+    <h2>Voorwaarden</h2>
+    <p>Wetteksten zijn publiek domein (<strong>CC0</strong>); de afgeleide data en code zijn vrij te gebruiken (CC0 / MIT). Geen authenticatie, geen rate-limiting, geen tracking. Een bronvermelding (“via vrijewetgeving.nl”) wordt gewaardeerd maar is niet verplicht.</p>
+    <div class="over-knoppen">
+      <a class="wet-actie prim" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository op GitHub ↗</a>
+      <a class="wet-actie" href="over.html">Over het project</a>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <h4>vrijewetgeving.nl</h4>
+      <p>Nederlandse wetgeving als open data. Elke wet een bestand, elke wijziging een commit.</p>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.75rem;color:var(--petrol)">→ Bekijk op GitHub</a>
+    </div>
+    <div class="footer-col">
+      <h4>Tools</h4>
+      <a href="index.html">Alle wetten</a>
+      <a href="bevoegdheden.html">Bevoegdhedencheck</a>
+      <a href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+      <a href="rechten.html">Mijn rechten</a>
+    </div>
+    <div class="footer-col">
+      <h4>Open data</h4>
+      <a href="api.html">API &amp; open data</a>
+      <a href="feed.xml">RSS-feed</a>
+      <a href="over.html">Over</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>Data: wetten.overheid.nl · Licentie: CC0 (wetten) + MIT (code)</span>
+    <span>geen juridisch advies — raadpleeg een jurist</span>
+  </div>
+</footer>
+
+<script>
+const ghBtn = document.getElementById('gh-btn');
+const ghMenu = document.getElementById('gh-menu');
+ghBtn.addEventListener('click', e => {
+  e.stopPropagation();
+  const open = ghMenu.style.display === 'block';
+  ghMenu.style.display = open ? 'none' : 'block';
+  ghBtn.setAttribute('aria-expanded', String(!open));
+});
+document.addEventListener('click', () => { ghMenu.style.display='none'; ghBtn.setAttribute('aria-expanded','false'); });
+document.addEventListener('keydown', e => { if(e.key==='Escape'){ ghMenu.style.display='none'; ghBtn.setAttribute('aria-expanded','false'); } });
+</script>
+</body>
+</html>

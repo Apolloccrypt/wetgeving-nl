@@ -120,6 +120,7 @@ def main():
     p.add_argument("--zoekindex", default="zoekindex.json")
     p.add_argument("--verwijzingen", default="verwijzingen.json")
     p.add_argument("--meta", default="meta.json")
+    p.add_argument("--sitemap", default="sitemap.xml")
     args = p.parse_args()
 
     wetten_dir = Path(args.wetten)
@@ -200,6 +201,23 @@ def main():
     meta = {"gegenereerd": datetime.date.today().isoformat(), "aantal_wetten": len(index)}
     Path(args.meta).write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
     print(f"meta.json: {meta}")
+
+    # sitemap.xml — alle wet-URLs + hoofdpagina's (zoekmachine-neutraal)
+    basis = "https://vrijewetgeving.nl"
+    statisch = ["", "over.html", "bevoegdheden.html", "bevoegdhedenketen.html", "rechten.html"]
+    regels = ['<?xml version="1.0" encoding="UTF-8"?>',
+              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for s in statisch:
+        regels.append(f"<url><loc>{basis}/{s}</loc></url>")
+    for w in index:
+        bid = w.get("identifier")
+        if not bid:
+            continue
+        lm = f"<lastmod>{w['datum']}</lastmod>" if w.get("datum") else ""
+        regels.append(f"<url><loc>{basis}/wet.html?id={bid}</loc>{lm}</url>")
+    regels.append("</urlset>")
+    Path(args.sitemap).write_text("\n".join(regels), encoding="utf-8")
+    print(f"sitemap.xml: {len(index)+len(statisch)} URLs")
 
 
 if __name__ == "__main__":

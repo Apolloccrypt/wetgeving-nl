@@ -39,9 +39,14 @@ jobs:
         run: |
           git diff --quiet wetten/ || echo "changes=true" >> $GITHUB_OUTPUT
 
-      - name: Genereer index + zoekindex + verwijzingen + meta
+      - name: Genereer index + zoekindex + verwijzingen + meta + sitemap
         run: |
           python scripts/genereer_index.py --wetten wetten/ --output index.json
+
+      - name: Genereer changelog + feeds
+        run: |
+          python scripts/genereer_changelog.py --index index.json --output changelog.json --dagen 60
+          python scripts/genereer_feeds.py --changelog changelog.json --output-dir .
 
       - name: Commit en push
         if: steps.check.outputs.changes == 'true'
@@ -49,7 +54,7 @@ jobs:
           git config user.name  "wetgeving-bot"
           git config user.email "bot@wetgeving-nl"
           AANTAL=$(git diff --name-only wetten/ | wc -l)
-          git add wetten/ index.json zoekindex.json verwijzingen.json meta.json
+          git add wetten/ index.json zoekindex.json verwijzingen.json meta.json sitemap.xml changelog.json feed.xml feed/
           git commit -m "Dagelijkse update: $AANTAL wetten bijgewerkt ($(date +%Y-%m-%d))"
           git push
 
