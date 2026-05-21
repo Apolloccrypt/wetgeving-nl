@@ -92,8 +92,12 @@ def lees_frontmatter(pad: Path) -> dict:
     return meta
 
 
-def lees_body(pad: Path, max_tekens: int = 400) -> str:
-    """Lees de bodytekst van een wet (na de frontmatter)."""
+def lees_body(pad: Path, max_tekens: int = 2000) -> str:
+    """Lees de bodytekst van een wet (na de frontmatter).
+
+    2000 tekens i.p.v. 400: voldoende voor full-text zoeken in korte wetten
+    en besluiten plus de aanhef van lange wetten, zonder dat zoekindex.json
+    onhanteerbaar groot wordt."""
     try:
         inhoud = pad.read_text(encoding="utf-8", errors="replace")
         einde = inhoud.find("\n---", 3)

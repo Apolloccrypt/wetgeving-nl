@@ -304,3 +304,8 @@ footer{background:var(--grijs);color:var(--zacht);padding:2.5rem 2rem;margin-top
 @media(max-width:850px){.wet-grid2{grid-template-columns:1fr;}.wet-toc{position:static;max-height:none;border-bottom:1px solid var(--rand);padding-bottom:1rem;margin-bottom:1.5rem;}.wet-refs{grid-template-columns:1fr;}}
 
 .visueel-verborgen{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;}
+
+/* full-text zoek-snippet in resultaatkaart */
+.wet-snippet{font-size:0.78rem;color:var(--zacht);line-height:1.55;margin-top:0.15rem;}
+.wet-snippet mark{background:#fff3bf;color:inherit;border-radius:2px;padding:0 1px;}
+.zoek-status{font-family:'DM Mono',monospace;font-size:0.68rem;color:var(--petrol);margin-left:0.5rem;}

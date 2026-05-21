@@ -54,7 +54,7 @@
     <div class="hero-zoek">
       <label for="hero-zoek" class="visueel-verborgen">Zoek een wet</label>
       <input class="hero-input" type="search" id="hero-zoek" aria-label="Zoek een wet"
-        placeholder="Zoek een wet… bijv. 'huurwet' of 'BWBR0005290'" autocomplete="off">
+        placeholder="Zoek in alle wetteksten… bijv. 'geluidsoverlast' of 'BWBR0005290'" autocomplete="off">
       <span class="hero-hint" id="hero-hint">druk /</span>
     </div>
     <div class="stats">
@@ -111,7 +111,7 @@
     <div class="zoek-mini-wrap">
       <label for="zoek-mini" class="visueel-verborgen">Zoek een wet</label>
       <input class="zoek-mini" type="search" id="zoek-mini" aria-label="Zoek een wet"
-        placeholder="Zoek op titel of BWBR-nummer…" autocomplete="off">
+        placeholder="Zoek in alle wetteksten…" autocomplete="off">
       <div class="sorteer-rij">
         <button class="sort-btn actief" data-sort="az">A–Z</button>
         <button class="sort-btn" data-sort="nieuw">Nieuwste</button>
@@ -169,10 +169,12 @@
   </div>
 </footer>
 
+<script src="vendor/minisearch.min.js"></script>
 <script>
 const BATCH = 60;
 let alleWetten = [], gefilterd = [], getoond = BATCH;
 let actieveCat = 'alles', actieveType = 'alles', actieveSort = 'az', query = '';
+let zoekData = null, mini = null, zoekKlaar = false, volledigeTekst = false;
 
 const esc = t => (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const MAANDEN = ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'];
@@ -193,6 +195,7 @@ async function init(){
     r = await fetch('index.json');
     if(!r.ok) throw new Error('HTTP ' + r.status);
     alleWetten = await r.json();
+    alleWetten.forEach((w,i) => w._pos = i);
   } catch(e){
     fout('De wetten konden niet worden geladen. Controleer je verbinding en <a href="" onclick="location.reload();return false" style="color:var(--petrol)">probeer opnieuw</a>.');
     return;
@@ -207,6 +210,43 @@ async function init(){
   bouwFilters('type-filters', 'type', () => actieveType, v => actieveType = v);
   leesUrl();
   filterEnToon();
+  laadZoekindex();
+}
+
+// Full-text index lazy laden (blokkeert de pagina niet)
+async function laadZoekindex(){
+  try {
+    const r = await fetch('zoekindex.json');
+    if(!r.ok) return;
+    zoekData = await r.json();
+    const STOPW = new Set(('de het een en van te in op voor met als dat die deze dit ' +
+      'aan bij om door of ook naar uit tot is zijn was bedoeld artikel lid wordt worden ' +
+      'over onder ten ter dan wel niet geen').split(' '));
+    mini = new MiniSearch({
+      fields: ['titel','body'], idField: 'id',
+      processTerm: term => { const t = term.toLowerCase(); return STOPW.has(t) ? null : t; },
+      searchOptions: { boost: {titel: 3}, prefix: true, fuzzy: 0.2, combineWith: 'AND' }
+    });
+    const docs = alleWetten.map((w, pos) => ({
+      id: pos, titel: w.titel || '', body: (zoekData[pos] && zoekData[pos].b) || ''
+    }));
+    await mini.addAllAsync(docs, { chunkSize: 1000 });
+    zoekKlaar = true;
+    if(query.trim()) filterEnToon();
+  } catch(e){ /* stil: titelzoek blijft werken */ }
+}
+
+function snippet(w){
+  const body = (zoekData && zoekData[w._pos] && zoekData[w._pos].b) || '';
+  if(!body) return '';
+  const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 2);
+  let idx = -1;
+  for(const t of terms){ const k = body.toLowerCase().indexOf(t); if(k > -1){ idx = k; break; } }
+  if(idx < 0) idx = 0;
+  const start = Math.max(0, idx - 60), eind = Math.min(body.length, start + 220);
+  let s = esc((start > 0 ? '…' : '') + body.slice(start, eind) + (eind < body.length ? '…' : ''));
+  terms.forEach(t => { if(t) s = s.replace(new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'), '<mark>$1</mark>'); });
+  return `<div class="wet-snippet">${s}</div>`;
 }
 
 function bouwFilters(containerId, veld, getActief, setActief){
@@ -252,23 +292,36 @@ function zoekBijwerken(v){
 }
 
 function filterEnToon(){
-  const q = query.toLowerCase().trim();
-  gefilterd = alleWetten.filter(w =>
-    (actieveCat==='alles' || w.categorie===actieveCat) &&
-    (actieveType==='alles' || w.type===actieveType) &&
-    (!q || (w.titel||'').toLowerCase().includes(q) || (w.identifier||'').toLowerCase().includes(q))
-  );
-  if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
-  else gefilterd.sort((a,b)=>(a.titel||'').localeCompare(b.titel||'','nl'));
+  const q = query.trim();
+  const matchtFilter = w => (actieveCat==='alles' || w.categorie===actieveCat) &&
+                            (actieveType==='alles' || w.type===actieveType);
+  if(q && zoekKlaar && mini){
+    volledigeTekst = true;
+    gefilterd = mini.search(q).map(h => alleWetten[h.id]).filter(w => w && matchtFilter(w));
+    if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
+    // anders: relevantie-volgorde van MiniSearch behouden
+  } else {
+    volledigeTekst = false;
+    const ql = q.toLowerCase();
+    gefilterd = alleWetten.filter(w => matchtFilter(w) &&
+      (!ql || (w.titel||'').toLowerCase().includes(ql) || (w.identifier||'').toLowerCase().includes(ql)));
+    if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
+    else gefilterd.sort((a,b)=>(a.titel||'').localeCompare(b.titel||'','nl'));
+  }
   render();
 }
 
 function render(){
   const slice = gefilterd.slice(0, getoond);
-  document.getElementById('info').textContent =
+  let status = '';
+  if(query.trim()){
+    if(volledigeTekst) status = `<span class="zoek-status">volledige tekst · op relevantie</span>`;
+    else if(!zoekKlaar) status = `<span class="zoek-status">volledige tekst laadt…</span>`;
+  }
+  document.getElementById('info').innerHTML =
     `${gefilterd.length.toLocaleString('nl-NL')} wetten` +
-    (actieveCat!=='alles' ? ' · ' + actieveCat : '') +
-    (actieveType!=='alles' ? ' · ' + actieveType : '');
+    (actieveCat!=='alles' ? ' · ' + esc(actieveCat) : '') +
+    (actieveType!=='alles' ? ' · ' + esc(actieveType) : '') + status;
 
   document.getElementById('resultaten').innerHTML = gefilterd.length ? `
     <div class="wet-grid">${slice.map(w => `
@@ -279,8 +332,13 @@ function render(){
           ${w.type ? `<span class="wet-cat">${esc(w.type)}</span>` : ''}
           ${w.datum ? `<span>· ${leesbareDatum(w.datum)}</span>` : ''}
         </div>
+        ${volledigeTekst ? snippet(w) : ''}
       </a>`).join('')}
-    </div>` : '<div class="laden">Geen wetten gevonden. Pas je zoekterm of filters aan.</div>';
+    </div>` : `<div class="laden">${
+      volledigeTekst
+        ? 'Geen wet bevat al deze woorden in titel of tekst. Probeer minder of andere woorden — bijv. één kernterm zoals ‘ontslag’ of ‘huurprijs’.'
+        : 'Geen wetten gevonden. Pas je zoekterm of filters aan.'
+    }</div>`;
 
   const restant = gefilterd.length - getoond;
   document.getElementById('meer-info').textContent =
