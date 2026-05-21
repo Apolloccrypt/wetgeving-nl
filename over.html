@@ -8,6 +8,8 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
 <link rel="stylesheet" href="vendor/fonts.css">
 <link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#155E75">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="vrijewetgeving.nl">
 <meta property="og:title" content="Over — vrijewetgeving.nl">
@@ -157,5 +159,6 @@ ghBtn.addEventListener('click', e => {
 document.addEventListener('click', () => { ghMenu.style.display='none'; ghBtn.setAttribute('aria-expanded','false'); });
 document.addEventListener('keydown', e => { if(e.key==='Escape'){ ghMenu.style.display='none'; ghBtn.setAttribute('aria-expanded','false'); } });
 </script>
+<script>if("serviceWorker" in navigator){addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})})}</script>
 </body>
 </html>

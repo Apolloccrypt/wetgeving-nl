@@ -1,0 +1,14 @@
+{
+  "name": "vrijewetgeving.nl — Nederlandse wetgeving",
+  "short_name": "Wetgeving",
+  "description": "Alle Nederlandse wetten, open en leesbaar. Offline beschikbaar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#155E75",
+  "lang": "nl",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
