@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wet — vrijewetgeving.nl</title>
+<meta name="description" content="Nederlandse wet, leesbaar weergegeven met inhoudsopgave, kruisverwijzingen en een link naar de officiële versie.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="vrijewetgeving.nl">
+<meta property="og:title" id="og-title" content="Wet — vrijewetgeving.nl">
+<meta property="og:description" content="Nederlandse wet, leesbaar weergegeven.">
+<meta name="twitter:card" content="summary">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
+  </div>
+</header>
+
+<nav class="nav-bar">
+  <div class="nav-inner">
+    <a class="nav-btn" href="index.html">Alle wetten</a>
+    <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
+    <div class="nav-spacer"></div>
+    <button class="nav-gh" id="gh-btn" aria-haspopup="true" aria-expanded="false">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+      GitHub
+      <div class="nav-gh-menu" id="gh-menu" role="menu">
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
+        <div class="nav-gh-sep"></div>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">Fout melden</a>
+      </div>
+    </button>
+  </div>
+</nav>
+
+<div class="disclaimer"><strong>Let op:</strong> dit is een leesbare weergave, geen juridisch advies. De officiële versie staat op wetten.overheid.nl.</div>
+
+<main class="wet-wrap">
+  <a class="wet-terug" href="index.html">← Alle wetten</a>
+  <div id="inhoud">
+    <div class="wet-melding">Wet laden…</div>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <h4>vrijewetgeving.nl</h4>
+      <p>Nederlandse wetgeving als open data. Elke wet een bestand, elke wijziging een commit.</p>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.75rem;color:var(--petrol)">→ Bekijk op GitHub</a>
+    </div>
+    <div class="footer-col">
+      <h4>Tools</h4>
+      <a href="index.html">Alle wetten</a>
+      <a href="bevoegdheden.html">Bevoegdhedencheck</a>
+      <a href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+      <a href="rechten.html">Mijn rechten</a>
+    </div>
+    <div class="footer-col">
+      <h4>Bijdragen</h4>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank" rel="noopener">Wetsvoorstel indienen</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank" rel="noopener">Discussie</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">Fout melden</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>Data: wetten.overheid.nl · Licentie: CC0 (wetten) + MIT (code)</span>
+    <span>geen juridisch advies — raadpleeg een jurist</span>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script src="vendor/marked.min.js"></script>
+<script>
+const GH_BLOB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
+const esc = t => (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const slug = t => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')
+  .replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60);
+
+const MAANDEN = ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'];
+function leesbareDatum(d){
+  if(!d) return '';
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d);
+  if(!m) return d;
+  return `${parseInt(m[3],10)} ${MAANDEN[parseInt(m[2],10)-1]} ${m[1]}`;
+}
+
+function getId(){
+  const p = new URLSearchParams(location.search);
+  return (p.get('id')||'').toUpperCase().trim();
+}
+
+function melding(html){ document.getElementById('inhoud').innerHTML = `<div class="wet-melding">${html}</div>`; }
+
+function toast(tekst){
+  const t = document.getElementById('toast');
+  t.textContent = tekst; t.classList.add('zien');
+  setTimeout(()=>t.classList.remove('zien'), 1800);
+}
+
+async function init(){
+  const id = getId();
+  if(!id || !/^BWBR\d{7}$/.test(id)){
+    melding('Geen geldige wet-identifier opgegeven.<br>Ga terug naar <a href="index.html" style="color:var(--petrol)">alle wetten</a> en kies een wet.');
+    return;
+  }
+
+  let index, verwijzingen;
+  try {
+    [index, verwijzingen] = await Promise.all([
+      fetch('index.json').then(r => { if(!r.ok) throw new Error(r.status); return r.json(); }),
+      fetch('verwijzingen.json').then(r => r.ok ? r.json() : {}).catch(() => ({})),
+    ]);
+  } catch(e){
+    melding('De wetgegevens konden niet worden geladen.<br>Controleer je verbinding en <a href="" onclick="location.reload();return false" style="color:var(--petrol)">probeer opnieuw</a>.');
+    return;
+  }
+
+  const wet = index.find(w => (w.identifier||'').toUpperCase() === id);
+  if(!wet){
+    melding(`Wet <b>${esc(id)}</b> niet gevonden in de index.<br><a href="index.html" style="color:var(--petrol)">Terug naar alle wetten</a>`);
+    return;
+  }
+
+  let mdTekst = '';
+  try {
+    const r = await fetch(wet.pad);
+    if(!r.ok) throw new Error(r.status);
+    mdTekst = await r.text();
+  } catch(e){
+    mdTekst = '';
+  }
+
+  toonWet(wet, mdTekst, verwijzingen, index);
+}
+
+function toonWet(wet, mdTekst, verwijzingen, index){
+  // frontmatter eraf
+  let body = mdTekst;
+  if(body.startsWith('---')){
+    const eind = body.indexOf('\n---', 3);
+    if(eind > -1) body = body.slice(eind + 4);
+  }
+  body = body.trim();
+  // de eerste # titel weglaten (staat al in de kop)
+  body = body.replace(/^#\s+.*\n+/, '');
+
+  const officieel = `https://wetten.overheid.nl/${wet.identifier}`;
+  document.title = `${wet.titel.slice(0,60)} — vrijewetgeving.nl`;
+  document.getElementById('og-title').setAttribute('content', wet.titel.slice(0,90));
+
+  let html = body
+    ? (window.marked ? marked.parse(body) : `<pre style="white-space:pre-wrap">${esc(body)}</pre>`)
+    : '<p style="color:var(--zacht)">De volledige tekst kon niet worden geladen. Bekijk de wet via de knoppen hierboven.</p>';
+
+  const kop = `
+    <div class="wet-kop">
+      <div class="wet-badges">
+        <span class="badge badge-type">${esc(wet.type||'—')}</span>
+        ${wet.categorie && wet.categorie!=='Overig' ? `<span class="badge">${esc(wet.categorie)}</span>` : ''}
+        <span class="badge badge-id">${esc(wet.identifier)}</span>
+        ${wet.status ? `<span class="badge badge-status">${esc(wet.status)}</span>` : ''}
+        ${wet.datum ? `<span class="badge">bijgewerkt ${esc(leesbareDatum(wet.datum))}</span>` : ''}
+      </div>
+      <h1>${esc(wet.titel)}</h1>
+      <div class="wet-acties">
+        <a class="wet-actie prim" href="${officieel}" target="_blank" rel="noopener">Officiële versie ↗</a>
+        <a class="wet-actie" href="${GH_BLOB}${wet.pad}" target="_blank" rel="noopener">Bron op GitHub</a>
+        <button class="wet-actie" id="citeer">Citeer / kopieer link</button>
+      </div>
+    </div>`;
+
+  document.getElementById('inhoud').innerHTML = kop + `
+    <div class="wet-grid2">
+      <nav class="wet-toc" id="toc" aria-label="Inhoudsopgave"></nav>
+      <div>
+        <article class="wet-content" id="tekst">${html}</article>
+        <div class="wet-refs" id="refs"></div>
+      </div>
+    </div>`;
+
+  bouwTOC();
+  bouwVerwijzingen(wet, verwijzingen, index);
+
+  document.getElementById('citeer').addEventListener('click', () => {
+    const url = location.origin + location.pathname + '?id=' + wet.identifier;
+    const citatie = `${wet.titel} (${wet.identifier}). Via vrijewetgeving.nl — ${url}`;
+    navigator.clipboard?.writeText(citatie).then(
+      () => toast('Citatie gekopieerd'),
+      () => toast(url)
+    );
+  });
+
+  // deep-link naar artikel
+  if(location.hash){
+    const el = document.getElementById(location.hash.slice(1));
+    if(el) el.scrollIntoView();
+  }
+}
+
+function bouwTOC(){
+  const tekst = document.getElementById('tekst');
+  const toc = document.getElementById('toc');
+  const koppen = tekst.querySelectorAll('h2, h3, h4, h5, h6');
+  if(koppen.length < 2){ toc.style.display = 'none'; return; }
+
+  const gebruikt = {};
+  let items = '';
+  koppen.forEach(k => {
+    let id = slug(k.textContent);
+    if(gebruikt[id]) id += '-' + (++gebruikt[id]); else gebruikt[id] = 1;
+    k.id = id;
+    const anchor = document.createElement('a');
+    anchor.href = '#' + id; anchor.className = 'art-anchor'; anchor.textContent = '#';
+    k.appendChild(anchor);
+    const niveau = k.tagName === 'H2' ? '' : 'lvl-3';
+    items += `<a href="#${id}" class="${niveau}">${esc(k.textContent.replace(/#$/,'').trim())}</a>`;
+  });
+  toc.innerHTML = `<h4>Inhoud</h4>${items}`;
+
+  // actieve sectie markeren bij scrollen
+  const links = [...toc.querySelectorAll('a')];
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if(e.isIntersecting){
+        links.forEach(l => l.classList.toggle('actief', l.getAttribute('href') === '#' + e.target.id));
+      }
+    });
+  }, { rootMargin: '0px 0px -80% 0px' });
+  koppen.forEach(k => obs.observe(k));
+}
+
+function bouwVerwijzingen(wet, verwijzingen, index){
+  const byId = {};
+  index.forEach(w => { if(w.identifier) byId[w.identifier] = w; });
+
+  const haaltAan = (verwijzingen[wet.identifier] || []).filter(r => byId[r]);
+  // omgekeerd: wie haalt deze wet aan?
+  const aangehaaldDoor = [];
+  for(const [bron, refs] of Object.entries(verwijzingen)){
+    if(refs.includes(wet.identifier) && byId[bron]) aangehaaldDoor.push(bron);
+  }
+
+  const lijst = ids => ids.length
+    ? `<div class="ref-lijst">${ids.slice(0,40).map(r =>
+        `<a href="wet.html?id=${r}">${esc(byId[r].titel)}</a>`).join('')}
+        ${ids.length>40?`<div class="ref-leeg">+ ${ids.length-40} meer</div>`:''}</div>`
+    : '<div class="ref-leeg">Geen verwijzingen gevonden.</div>';
+
+  document.getElementById('refs').innerHTML = `
+    <div>
+      <h3>Haalt aan <span>(${haaltAan.length})</span></h3>
+      ${lijst(haaltAan)}
+    </div>
+    <div>
+      <h3>Wordt aangehaald door <span>(${aangehaaldDoor.length})</span></h3>
+      ${lijst(aangehaaldDoor)}
+    </div>`;
+}
+
+// GitHub-dropdown (toegankelijk)
+const ghBtn = document.getElementById('gh-btn');
+const ghMenu = document.getElementById('gh-menu');
+ghBtn.addEventListener('click', e => {
+  e.stopPropagation();
+  const open = ghMenu.style.display === 'block';
+  ghMenu.style.display = open ? 'none' : 'block';
+  ghBtn.setAttribute('aria-expanded', String(!open));
+});
+document.addEventListener('click', () => { ghMenu.style.display = 'none'; ghBtn.setAttribute('aria-expanded','false'); });
+document.addEventListener('keydown', e => { if(e.key === 'Escape'){ ghMenu.style.display='none'; ghBtn.setAttribute('aria-expanded','false'); } });
+
+init();
+</script>
+</body>
+</html>
