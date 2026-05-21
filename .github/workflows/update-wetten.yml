@@ -43,10 +43,11 @@ jobs:
         run: |
           python scripts/genereer_index.py --wetten wetten/ --output index.json
 
-      - name: Genereer changelog + feeds
+      - name: Genereer changelog + feeds + samenvattingen-index
         run: |
           python scripts/genereer_changelog.py --index index.json --output changelog.json --dagen 60
           python scripts/genereer_feeds.py --changelog changelog.json --output-dir .
+          python -c "import json,glob,os; open('samenvattingen/index.json','w').write(json.dumps(sorted(os.path.basename(f)[:-3] for f in glob.glob('samenvattingen/BWBR*.md'))))"
 
       - name: Commit en push
         if: steps.check.outputs.changes == 'true'
@@ -54,7 +55,7 @@ jobs:
           git config user.name  "wetgeving-bot"
           git config user.email "bot@wetgeving-nl"
           AANTAL=$(git diff --name-only wetten/ | wc -l)
-          git add wetten/ index.json zoekindex.json verwijzingen.json meta.json sitemap.xml changelog.json feed.xml feed/
+          git add wetten/ index.json zoekindex.json verwijzingen.json meta.json sitemap.xml changelog.json feed.xml feed/ samenvattingen/index.json
           git commit -m "Dagelijkse update: $AANTAL wetten bijgewerkt ($(date +%Y-%m-%d))"
           git push
 

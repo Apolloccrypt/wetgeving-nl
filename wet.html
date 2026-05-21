@@ -85,6 +85,8 @@
 <script src="vendor/marked.min.js"></script>
 <script>
 const GH_BLOB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
+const GH_COMMITS = 'https://github.com/Apolloccrypt/wetgeving-nl/commits/main/';
+const GH_NEW = 'https://github.com/Apolloccrypt/wetgeving-nl/new/main/samenvattingen?filename=';
 const esc = t => (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 const slug = t => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')
   .replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60);
@@ -178,11 +180,13 @@ function toonWet(wet, mdTekst, verwijzingen, index){
       <div class="wet-acties">
         <a class="wet-actie prim" href="${officieel}" target="_blank" rel="noopener">Officiële versie ↗</a>
         <a class="wet-actie" href="${GH_BLOB}${wet.pad}" target="_blank" rel="noopener">Bron op GitHub</a>
+        <a class="wet-actie" href="${GH_COMMITS}${wet.pad}" target="_blank" rel="noopener">Versiegeschiedenis</a>
         <button class="wet-actie" id="citeer">Citeer / kopieer link</button>
       </div>
     </div>`;
 
   document.getElementById('inhoud').innerHTML = kop + `
+    <div id="samenvatting"></div>
     <div class="wet-grid2">
       <nav class="wet-toc" id="toc" aria-label="Inhoudsopgave"></nav>
       <div>
@@ -193,6 +197,7 @@ function toonWet(wet, mdTekst, verwijzingen, index){
 
   bouwTOC();
   bouwVerwijzingen(wet, verwijzingen, index);
+  laadSamenvatting(wet);
 
   document.getElementById('citeer').addEventListener('click', () => {
     const url = location.origin + location.pathname + '?id=' + wet.identifier;
@@ -208,6 +213,29 @@ function toonWet(wet, mdTekst, verwijzingen, index){
     const el = document.getElementById(location.hash.slice(1));
     if(el) el.scrollIntoView();
   }
+}
+
+async function laadSamenvatting(wet){
+  const el = document.getElementById('samenvatting');
+  if(!el) return;
+  let lijst = [];
+  try { lijst = await fetch('samenvattingen/index.json').then(r => r.ok ? r.json() : []); } catch(e){}
+  if(lijst.includes(wet.identifier)){
+    try {
+      const md = await fetch(`samenvattingen/${wet.identifier}.md`).then(r => r.text());
+      const inhoud = window.marked ? marked.parse(md) : `<p>${esc(md)}</p>`;
+      el.innerHTML = `<div class="samenvatting">
+        <div class="samenvatting-kop">In het kort <span>· uitleg in gewone taal, door de community</span></div>
+        <div class="samenvatting-body">${inhoud}</div>
+        <div class="samenvatting-vt"><a href="${GH_BLOB}samenvattingen/${wet.identifier}.md" target="_blank" rel="noopener">verbeter deze uitleg</a> · CC BY-SA</div>
+      </div>`;
+      return;
+    } catch(e){ /* val door naar uitnodiging */ }
+  }
+  el.innerHTML = `<div class="samenvatting samenvatting-leeg">
+    Nog geen uitleg in gewone taal voor deze wet.
+    <a href="${GH_NEW}${wet.identifier}.md" target="_blank" rel="noopener">Schrijf een samenvatting →</a>
+  </div>`;
 }
 
 function bouwTOC(){
