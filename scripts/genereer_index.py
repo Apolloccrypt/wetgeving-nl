@@ -15,6 +15,7 @@ Gebruik:
 """
 
 import argparse
+import datetime
 import json
 import re
 from pathlib import Path
@@ -118,6 +119,7 @@ def main():
     p.add_argument("--output",  default="index.json")
     p.add_argument("--zoekindex", default="zoekindex.json")
     p.add_argument("--verwijzingen", default="verwijzingen.json")
+    p.add_argument("--meta", default="meta.json")
     args = p.parse_args()
 
     wetten_dir = Path(args.wetten)
@@ -193,6 +195,11 @@ def main():
     verw_pad = Path(args.verwijzingen)
     verw_pad.write_text(json.dumps(verwijzingen, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     print(f"verwijzingen.json: {verw_pad.stat().st_size/1024:.0f} KB ({len(verwijzingen)} wetten)")
+
+    # meta.json: één bron van waarheid voor telling + sync-datum
+    meta = {"gegenereerd": datetime.date.today().isoformat(), "aantal_wetten": len(index)}
+    Path(args.meta).write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
+    print(f"meta.json: {meta}")
 
 
 if __name__ == "__main__":

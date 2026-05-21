@@ -30,6 +30,7 @@
     <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
     <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
     <button class="nav-gh" id="gh-btn" aria-haspopup="true" aria-expanded="false">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
@@ -47,60 +48,14 @@
 
 <div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
 
-<div class="hero">
+<div class="hero hero-compact">
   <div class="hero-inner">
     <h1>Nederlandse wetgeving, <span>open en leesbaar</span>.</h1>
-    <div class="hero-sub">Alle Nederlandse wetten als open data — doorzoekbaar, dagelijks bijgewerkt, vrij te hergebruiken.</div>
-    <div class="hero-zoek">
-      <label for="hero-zoek" class="visueel-verborgen">Zoek een wet</label>
-      <input class="hero-input" type="search" id="hero-zoek" aria-label="Zoek een wet"
-        placeholder="Zoek in alle wetteksten… bijv. 'geluidsoverlast' of 'BWBR0005290'" autocomplete="off">
-      <span class="hero-hint" id="hero-hint">druk /</span>
-    </div>
+    <div class="hero-sub">Doorzoek alle Nederlandse wetten — dagelijks bijgewerkt, vrij te hergebruiken. <a href="over.html">Hoe werkt dit?</a></div>
     <div class="stats">
       <div><div class="stat-n" id="stat-n">—</div><div class="stat-l">wetten</div></div>
-      <div><div class="stat-n">dagelijks</div><div class="stat-l">bijgewerkt</div></div>
+      <div><div class="stat-n" id="stat-datum">—</div><div class="stat-l">laatst bijgewerkt</div></div>
       <div><div class="stat-n">CC0</div><div class="stat-l">open data</div></div>
-    </div>
-  </div>
-</div>
-
-<!-- Hoe het werkt -->
-<div class="uitleg">
-  <div class="uitleg-inner">
-    <h2>Hoe werkt vrijewetgeving.nl? <span>→</span></h2>
-    <div class="uitleg-grid">
-      <div class="uitleg-kaart">
-        <div class="nr">01</div>
-        <h3>Elke wet een bestand</h3>
-        <p>Alle Nederlandse wetten staan als Markdown-bestand in een open GitHub-repository. Leesbaar voor mens én machine.</p>
-      </div>
-      <div class="uitleg-kaart">
-        <div class="nr">02</div>
-        <h3>Elke wijziging een commit</h3>
-        <p>Verandert een wet? Dan is dat zichtbaar als een Git-commit. De volledige wetsgeschiedenis is doorzoekbaar.</p>
-      </div>
-      <div class="uitleg-kaart">
-        <div class="nr">03</div>
-        <h3>Dagelijks bijgewerkt</h3>
-        <p>Een geautomatiseerd script haalt elke dag nieuwe en gewijzigde wetten op van wetten.overheid.nl.</p>
-      </div>
-      <div class="uitleg-kaart">
-        <div class="nr">04</div>
-        <h3>Iedereen kan bijdragen</h3>
-        <p>Fout gevonden? Verbeteringsvoorstel? Open een Pull Request op GitHub. De wetgeving is van iedereen.</p>
-      </div>
-    </div>
-    <div class="vs-block">
-      <h3>Waarom niet gewoon wetten.overheid.nl?</h3>
-      <div class="vs-rij">
-        <span class="vs-item vs-goed">✓ Machine-leesbaar (Markdown)</span>
-        <span class="vs-item vs-goed">✓ Versiegeschiedenis via Git</span>
-        <span class="vs-item vs-goed">✓ Gratis te fork'en en hergebruiken</span>
-        <span class="vs-item vs-goed">✓ Open API (JSON)</span>
-        <span class="vs-item vs-niet">✗ wetten.overheid.nl: alleen HTML/PDF</span>
-        <span class="vs-item vs-niet">✗ wetten.overheid.nl: geen open API</span>
-      </div>
     </div>
   </div>
 </div>
@@ -108,22 +63,27 @@
 <!-- Sticky zoek + filters -->
 <div class="zoek-sectie">
   <div class="zoek-inner">
-    <div class="zoek-mini-wrap">
-      <label for="zoek-mini" class="visueel-verborgen">Zoek een wet</label>
-      <input class="zoek-mini" type="search" id="zoek-mini" aria-label="Zoek een wet"
-        placeholder="Zoek in alle wetteksten…" autocomplete="off">
+    <label for="zoek-mini" class="visueel-verborgen">Zoek een wet</label>
+    <input class="zoek-mini" type="search" id="zoek-mini" aria-label="Zoek een wet"
+      placeholder="Zoek in alle wetteksten…  bijv. ‘huurverhoging’ of ‘BWBR0005290’" autocomplete="off">
+    <div class="filter-balk">
+      <div class="dropdown" id="dd-cat">
+        <button class="dropdown-knop" type="button" aria-haspopup="true" aria-expanded="false">
+          Rechtsgebied: <span class="dd-waarde" id="dd-cat-waarde">alle</span> <span class="dd-pijl">▾</span>
+        </button>
+        <div class="dropdown-menu" id="dd-cat-menu" role="menu"></div>
+      </div>
+      <div class="dropdown" id="dd-type">
+        <button class="dropdown-knop" type="button" aria-haspopup="true" aria-expanded="false">
+          Soort: <span class="dd-waarde" id="dd-type-waarde">alle</span> <span class="dd-pijl">▾</span>
+        </button>
+        <div class="dropdown-menu" id="dd-type-menu" role="menu"></div>
+      </div>
+      <div class="filter-spacer"></div>
       <div class="sorteer-rij">
         <button class="sort-btn actief" data-sort="az">A–Z</button>
         <button class="sort-btn" data-sort="nieuw">Nieuwste</button>
       </div>
-    </div>
-    <div class="filter-groep">
-      <span class="filter-lbl">Rechtsgebied</span>
-      <div class="filter-rij" id="cat-filters"></div>
-    </div>
-    <div class="filter-groep">
-      <span class="filter-lbl">Soort</span>
-      <div class="filter-rij" id="type-filters"></div>
     </div>
   </div>
 </div>
@@ -182,6 +142,10 @@ function leesbareDatum(d){
   const m = /^(\d{4})-(\d{2})/.exec(d||'');
   return m ? `${MAANDEN[parseInt(m[2],10)-1]} ${m[1]}` : '';
 }
+function datumVol(d){
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d||'');
+  return m ? `${parseInt(m[3],10)} ${MAANDEN[parseInt(m[2],10)-1]} ${m[1]}` : '';
+}
 
 function fout(boodschap){
   document.getElementById('resultaten').innerHTML =
@@ -201,16 +165,26 @@ async function init(){
     return;
   }
 
-  // teller animeren
-  const el = document.getElementById('stat-n');
-  let n = 0, stap = Math.ceil(alleWetten.length/60);
-  const iv = setInterval(()=>{ n=Math.min(n+stap,alleWetten.length); el.textContent=n.toLocaleString('nl-NL'); if(n>=alleWetten.length)clearInterval(iv); },20);
+  document.getElementById('stat-n').textContent = alleWetten.length.toLocaleString('nl-NL');
 
-  bouwFilters('cat-filters', 'categorie', () => actieveCat, v => actieveCat = v);
-  bouwFilters('type-filters', 'type', () => actieveType, v => actieveType = v);
+  // laatst bijgewerkt = meest recente wetsdatum
+  const datums = alleWetten.map(w => w.datum).filter(Boolean);
+  if(datums.length){
+    document.getElementById('stat-datum').textContent = datumVol(datums.reduce((a,b)=>a>b?a:b));
+  }
+
+  bouwDropdowns();
   leesUrl();
   filterEnToon();
   laadZoekindex();
+  laadMeta();
+}
+
+async function laadMeta(){
+  try {
+    const m = await fetch('meta.json').then(r => r.ok ? r.json() : null);
+    if(m && m.gegenereerd) document.getElementById('stat-datum').textContent = datumVol(m.gegenereerd);
+  } catch(e){ /* val terug op meest recente wetsdatum */ }
 }
 
 // Full-text index lazy laden (blokkeert de pagina niet)
@@ -249,25 +223,46 @@ function snippet(w){
   return `<div class="wet-snippet">${s}</div>`;
 }
 
-function bouwFilters(containerId, veld, getActief, setActief){
-  const telling = {};
-  alleWetten.forEach(w => { const k = w[veld] || 'Overig'; telling[k] = (telling[k]||0)+1; });
-  const cont = document.getElementById(containerId);
-  const knoppen = [['alles','alle']].concat(
-    Object.entries(telling).sort((a,b)=>b[1]-a[1]).map(([k,n]) => [k, `${k} (${n.toLocaleString('nl-NL')})`])
-  );
-  cont.innerHTML = knoppen.map(([waarde, label]) =>
-    `<button class="filter-btn${getActief()===waarde?' actief':''}" data-waarde="${esc(waarde)}">${esc(label)}</button>`
-  ).join('');
-  cont.addEventListener('click', e => {
-    const btn = e.target.closest('.filter-btn');
-    if(!btn) return;
-    setActief(btn.dataset.waarde);
-    cont.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('actief', b === btn));
-    getoond = BATCH;
-    schrijfUrl();
-    filterEnToon();
+const DROPDOWNS = [
+  {veld:'categorie', menu:'dd-cat-menu',  waarde:'dd-cat-waarde',  get:()=>actieveCat,  set:v=>actieveCat=v},
+  {veld:'type',      menu:'dd-type-menu', waarde:'dd-type-waarde', get:()=>actieveType, set:v=>actieveType=v},
+];
+
+function bouwDropdowns(){
+  DROPDOWNS.forEach(d => {
+    const telling = {};
+    alleWetten.forEach(w => { const k = w[d.veld] || 'Overig'; telling[k] = (telling[k]||0)+1; });
+    const items = Object.entries(telling).sort((a,b)=>b[1]-a[1]);
+    const menu = document.getElementById(d.menu);
+    menu.innerHTML =
+      `<button class="dd-optie" data-waarde="alles" role="menuitem"><span>Alle</span><span class="dd-aantal">${alleWetten.length.toLocaleString('nl-NL')}</span></button>` +
+      items.map(([k,n]) => `<button class="dd-optie" data-waarde="${esc(k)}" role="menuitem"><span>${esc(k)}</span><span class="dd-aantal">${n.toLocaleString('nl-NL')}</span></button>`).join('');
+    menu.addEventListener('click', e => {
+      const o = e.target.closest('.dd-optie');
+      if(!o) return;
+      d.set(o.dataset.waarde);
+      getoond = BATCH;
+      sluitDropdowns();
+      werkDropdownUI();
+      schrijfUrl();
+      filterEnToon();
+    });
   });
+  werkDropdownUI();
+}
+
+function werkDropdownUI(){
+  document.getElementById('dd-cat-waarde').textContent  = actieveCat ==='alles' ? 'alle' : actieveCat;
+  document.getElementById('dd-type-waarde').textContent = actieveType==='alles' ? 'alle' : actieveType;
+  DROPDOWNS.forEach(d => {
+    document.querySelectorAll('#'+d.menu+' .dd-optie').forEach(o =>
+      o.classList.toggle('actief', o.dataset.waarde === d.get()));
+  });
+}
+
+function sluitDropdowns(){
+  document.querySelectorAll('.dropdown.open').forEach(dd => dd.classList.remove('open'));
+  document.querySelectorAll('.dropdown-knop').forEach(b => b.setAttribute('aria-expanded','false'));
 }
 
 function setSort(s){
@@ -276,16 +271,10 @@ function setSort(s){
   schrijfUrl(); filterEnToon();
 }
 
-function zetActief(containerId, waarde){
-  document.querySelectorAll('#'+containerId+' .filter-btn').forEach(b =>
-    b.classList.toggle('actief', b.dataset.waarde === waarde));
-}
-
 function zoekBijwerken(v){
   query = v;
-  document.getElementById('hero-zoek').value = v;
-  document.getElementById('zoek-mini').value = v;
-  document.getElementById('hero-hint').style.display = v ? 'none' : '';
+  const mini = document.getElementById('zoek-mini');
+  if(mini.value !== v) mini.value = v;
   getoond = BATCH;
   schrijfUrl();
   filterEnToon();
@@ -368,24 +357,33 @@ function leesUrl(){
   actieveCat = p.get('cat') || 'alles';
   actieveType = p.get('type') || 'alles';
   actieveSort = p.get('sort') || 'az';
-  document.getElementById('hero-zoek').value = query;
   document.getElementById('zoek-mini').value = query;
-  document.getElementById('hero-hint').style.display = query ? 'none' : '';
-  zetActief('cat-filters', actieveCat);
-  zetActief('type-filters', actieveType);
+  werkDropdownUI();
   document.querySelectorAll('.sort-btn').forEach(b => b.classList.toggle('actief', b.dataset.sort === actieveSort));
 }
 
 // Listeners
-document.getElementById('hero-zoek').addEventListener('input', e => zoekBijwerken(e.target.value));
 document.getElementById('zoek-mini').addEventListener('input', e => zoekBijwerken(e.target.value));
 document.querySelectorAll('.sort-btn').forEach(b => b.addEventListener('click', () => setSort(b.dataset.sort)));
+
+// Filter-dropdowns openen/sluiten
+document.querySelectorAll('.dropdown-knop').forEach(knop => {
+  knop.addEventListener('click', e => {
+    e.stopPropagation();
+    const dd = knop.closest('.dropdown');
+    const open = dd.classList.contains('open');
+    sluitDropdowns();
+    if(!open){ dd.classList.add('open'); knop.setAttribute('aria-expanded','true'); }
+  });
+});
+document.addEventListener('click', sluitDropdowns);
+document.addEventListener('keydown', e => { if(e.key === 'Escape') sluitDropdowns(); });
 
 document.addEventListener('keydown', e => {
   const tag = document.activeElement.tagName;
   if(e.key === '/' && tag !== 'INPUT' && tag !== 'TEXTAREA'){
     e.preventDefault();
-    document.getElementById('hero-zoek').focus();
+    document.getElementById('zoek-mini').focus();
   }
 });
 
