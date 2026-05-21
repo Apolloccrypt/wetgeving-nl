@@ -1,38 +1,13 @@
 ---
 title: "Voorschrift Vreemdelingen 2000"
 identifier: "BWBR0012002"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012002"
-soort: "ministeriele-regeling"
-stam_id: "5196983"
-version_id: "30450782"
-internal_id: "C43663281"
-label_id: "5173554"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012002/2026-04-01/0"
-intitule_bron: "Stcrt.2001-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-18"
-intitule_published: "2001-01-15"
-intitule_in_force: "2001-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-38461"
-original_signed_date: "2024-11-21"
-original_published_date: "2024-11-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-38461"
-entry_into_force_date: "2024-11-21"
-jci_1_3: "jci1.3:c:BWBR0012002&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0012002&g=2026-04-01"
-citeertitel_status: "officieel"
-signed_date: "2024-11-21"
-entry_into_force: "2024-11-21"
+categorie: "Overig"
+publicatiedatum: 2026-04-01
+laatste_update: 2026-04-25
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0012002"
 ---
+
 # Voorschrift Vreemdelingen 2000
 
 in overeenstemming, voor zoveel nodig, met zijn ambtgenoten van Buitenlandse Zaken, Defensie en Financiën,
@@ -179,9 +154,9 @@ De aanvrager om erkenning als referent die niet op grond van de [Handelsregister
 
 - d. sprake is van een aanvraag om erkenning als referent vanwege een wijziging in de rechtsvorm van de onderneming of rechtspersoon van een erkend referent en uit de notariële akte blijkt dat:
 
-- 1°. de aard van de ondernemingsactiviteiten niet is uitgebreid, en
+  - 1°. de aard van de ondernemingsactiviteiten niet is uitgebreid, en
 
-- 2°. de zeggenschap in de nieuwe onderneming of rechtspersoon gelijk blijft; of
+  - 2°. de zeggenschap in de nieuwe onderneming of rechtspersoon gelijk blijft; of
 
 - e. de aanvrager een uitwisselingsorganisatie in het kader van uitwisseling van au pairs die is gevestigd in een andere lidstaat van de Europese Unie of Europese Economische Ruimte betreft.
 
@@ -958,11 +933,11 @@ Vervallen
 
 - d. een groep wordt geacht een specifieke sociale groep te vormen als met name:
 
-- 1°. leden van de groep een aangeboren kenmerk vertonen of een gemeenschappelijke achtergrond hebben die niet gewijzigd kan worden, of een kenmerk of geloof delen dat voor de identiteit of de morele integriteit van de betrokkenen dermate fundamenteel is, dat van de betrokkenen niet mag worden geëist dat zij dit opgeven, en
+  - 1°. leden van de groep een aangeboren kenmerk vertonen of een gemeenschappelijke achtergrond hebben die niet gewijzigd kan worden, of een kenmerk of geloof delen dat voor de identiteit of de morele integriteit van de betrokkenen dermate fundamenteel is, dat van de betrokkenen niet mag worden geëist dat zij dit opgeven, en
 
-- 2°. de groep in het betrokken land een eigen identiteit heeft, omdat zij in haar directe omgeving als afwijkend wordt beschouwd;
+  - 2°. de groep in het betrokken land een eigen identiteit heeft, omdat zij in haar directe omgeving als afwijkend wordt beschouwd;
 
-- Afhankelijk van de omstandigheden in het land van herkomst kan een specifieke sociale groep een groep zijn die als gemeenschappelijk kenmerk seksuele gerichtheid heeft. Seksuele gerichtheid omvat geen handelingen die volgens het nationale recht van de lidstaten als strafbaar worden beschouwd. Wanneer moet worden vastgesteld of iemand tot een bepaalde sociale groep behoort of wanneer een kenmerk van een dergelijke groep wordt geïdentificeerd, wordt er terdege rekening gehouden met genderaspecten, waaronder genderidentiteit;
+  - Afhankelijk van de omstandigheden in het land van herkomst kan een specifieke sociale groep een groep zijn die als gemeenschappelijk kenmerk seksuele gerichtheid heeft. Seksuele gerichtheid omvat geen handelingen die volgens het nationale recht van de lidstaten als strafbaar worden beschouwd. Wanneer moet worden vastgesteld of iemand tot een bepaalde sociale groep behoort of wanneer een kenmerk van een dergelijke groep wordt geïdentificeerd, wordt er terdege rekening gehouden met genderaspecten, waaronder genderidentiteit;
 
 - e. het begrip «politieke overtuiging» houdt met name in dat de vreemdeling een opvatting, gedachte of mening heeft betreffende een aangelegenheid die verband houdt met de in [artikel 3.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=3.37a&z=2026-04-01&g=2026-04-01) genoemde potentiële actoren en hun beleid of methoden, ongeacht of de vreemdeling zich in zijn handelen door deze opvatting, gedachte of mening heeft laten leiden.
 
@@ -1164,13 +1139,13 @@ Duidelijke aanwijzingen dat de vreemdeling de eerste opvolgende asielaanvraag he
 
 - a. de vreemdeling bekend is met de datum waarop hij wordt uitgezet en de aanvraag indient kort voorafgaand aan zijn uitzetting terwijl:
 
-- 1°. hij voldoende mogelijkheid heeft gehad om de aanvraag eerder in te dienen, maar hij daarvan geen gebruikt heeft gemaakt;
+  - 1°. hij voldoende mogelijkheid heeft gehad om de aanvraag eerder in te dienen, maar hij daarvan geen gebruikt heeft gemaakt;
 
-- 2°. hij de aanvraag niet heeft onderbouwd;
+  - 2°. hij de aanvraag niet heeft onderbouwd;
 
-- 3°. de argumenten of bewijzen die hij heeft voorgelegd, evident niet relevant zijn voor de beoordeling van de aanvraag of evident niet kunnen leiden tot inwilliging van de aanvraag; of
+  - 3°. de argumenten of bewijzen die hij heeft voorgelegd, evident niet relevant zijn voor de beoordeling van de aanvraag of evident niet kunnen leiden tot inwilliging van de aanvraag; of
 
-- 4°. hij zijn eerder afgelegde verklaringen essentieel wijzigt of aanvult;
+  - 4°. hij zijn eerder afgelegde verklaringen essentieel wijzigt of aanvult;
 
 - b. de vreemdeling eerst na aanhouding of een periode van feitelijk verblijf te kennen geeft dat hij een aanvraag wil indienen, en er duidelijke aanwijzingen zijn dat hij daarvoor niet de bedoeling had zich uit vrije wil bij de autoriteiten te melden en een aanvraag te doen.
 
@@ -1186,9 +1161,9 @@ Duidelijke aanwijzingen dat de vreemdeling de eerste opvolgende asielaanvraag he
 
 - d. wiens eerdere aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) niet in behandeling is genomen op grond van [artikel 30 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30) of niet-ontvankelijk is verklaard op grond van [artikel 30a, eerste lid, onder a, b, c of e, van de Wet](onbekend) en:
 
-- 1°. deze afwijzingsgrond niet meer van toepassing is; of
+  - 1°. deze afwijzingsgrond niet meer van toepassing is; of
 
-- 2°. de vreemdeling na afwijzing van de eerdere aanvraag vrijwillig is teruggekeerd naar of overgedragen is aan het land dat verantwoordelijk is voor de behandeling van zijn aanvraag.
+  - 2°. de vreemdeling na afwijzing van de eerdere aanvraag vrijwillig is teruggekeerd naar of overgedragen is aan het land dat verantwoordelijk is voor de behandeling van zijn aanvraag.
 
 ### Afdeling 4. De status van EU-langdurig ingezetene
 
@@ -1242,15 +1217,15 @@ Bij de indiening van de aanvraag, bedoeld in [artikel 45a van de Wet](https://we
 
 - e. de ambtenaren van de directie Regulier Verblijf en Nederlanderschap en de directie Dienstverlenen van de Immigratie- en Naturalisatiedienst in de functie van: voor zover het toezicht betrekking heeft op de naleving van de voorwaarden inzake het beschikken over voldoende duurzame middelen van bestaan als bedoeld in [artikel 16, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), [artikel 18, eerste lid, onder d, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), [artikel 21, eerste lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) en [artikel 45b, tweede lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45b), alsmede op de naleving van de voorwaarden als bedoeld in [artikel 8.12, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), [artikel 8.15, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15), [8.16, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.16), en op de naleving van de voorwaarden als bedoeld in de artikelen 6 en 7 van het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;
 
-- 1. medewerker of senior medewerker behandelen en ontwikkelen;
+  - 1. medewerker of senior medewerker behandelen en ontwikkelen;
 
-- 2. medewerker verwerken en behandelen;
+  - 2. medewerker verwerken en behandelen;
 
-- 3. (senior) inspecteur/medewerker toezicht;
+  - 3. (senior) inspecteur/medewerker toezicht;
 
-- 4. operationeel manager; en
+  - 4. operationeel manager; en
 
-- 5. manager,
+  - 5. manager,
 
 - f. de ambtenaren van de Dienst Identificatie en Screening Asielzoekers die de functie hebben van medewerker verwerken en behandelen.
 
@@ -1270,15 +1245,15 @@ Bij de indiening van de aanvraag, bedoeld in [artikel 45a van de Wet](https://we
 
 - b. de ambtenaren van de directie Regulier Verblijf en Nederlanderschap en de directie Dienstverlenen van de Immigratie- en Naturalisatiedienst in de functie van:
 
-- 1. medewerker of senior medewerker behandelen en ontwikkelen;
+  - 1. medewerker of senior medewerker behandelen en ontwikkelen;
 
-- 2. medewerker verwerken en behandelen;
+  - 2. medewerker verwerken en behandelen;
 
-- 3. (senior) inspecteur/medewerker toezicht;
+  - 3. (senior) inspecteur/medewerker toezicht;
 
-- 4. operationeel manager; en
+  - 4. operationeel manager; en
 
-- 5. manager.
+  - 5. manager.
 
 2. Bij de uitoefening van zijn taak draagt de ambtenaar, bedoeld in het eerste lid, een legitimatiebewijs als opgenomen in [bijlage 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a&z=2026-04-01&g=2026-04-01), bij zich.
 
@@ -1682,31 +1657,31 @@ Bewijsstukken als bedoeld in de [artikelen 4.29, eerste lid, onderdeel d](https:
 
 - a. indien de middelen van bestaan worden gefinancierd door de vreemdeling zelf:
 
-- 1°. een kopie van een bankafschrift van een bankrekening mede of uitsluitend op naam van de vreemdeling, waarop het saldo dat voor het studiejaar ter beschikking staat is vermeld, of
+  - 1°. een kopie van een bankafschrift van een bankrekening mede of uitsluitend op naam van de vreemdeling, waarop het saldo dat voor het studiejaar ter beschikking staat is vermeld, of
 
-- 2°. een originele verklaring van de bank waaruit blijkt welk bedrag maandelijks ten gunste van de student wordt overgemaakt op een bankrekening, die mede of uitsluitend op naam van de vreemdeling staat;
+  - 2°. een originele verklaring van de bank waaruit blijkt welk bedrag maandelijks ten gunste van de student wordt overgemaakt op een bankrekening, die mede of uitsluitend op naam van de vreemdeling staat;
 
 - b. indien de middelen van bestaan worden gefinancierd door middel van een beurs:
 
-- 1°. een kopie van het document waaruit blijkt dat de studiebeurs is toegekend, en
+  - 1°. een kopie van het document waaruit blijkt dat de studiebeurs is toegekend, en
 
-- 2°. indien een derde partij via de onderwijsinstelling de beurs betaalt een kopie van de overeenkomst tussen een derde partij en de onderwijsinstelling;
+  - 2°. indien een derde partij via de onderwijsinstelling de beurs betaalt een kopie van de overeenkomst tussen een derde partij en de onderwijsinstelling;
 
 - c. indien de middelen van bestaan worden gefinancierd door een derde financier die in het buitenland woont:
 
-- 1°. een originele verklaring van de bank waaruit blijkt welk bedrag maandelijks ten gunste van de vreemdeling wordt overgemaakt op de persoonlijke bankrekening van de vreemdeling, gedurende het verblijf in Nederland, of
+  - 1°. een originele verklaring van de bank waaruit blijkt welk bedrag maandelijks ten gunste van de vreemdeling wordt overgemaakt op de persoonlijke bankrekening van de vreemdeling, gedurende het verblijf in Nederland, of
 
-- 2°. een originele verklaring van de financier, waarin deze verklaart welk bedrag maandelijks wordt overgemaakt naar de persoonlijke bankrekening van de vreemdeling gedurende diens verblijf in Nederland, en
+  - 2°. een originele verklaring van de financier, waarin deze verklaart welk bedrag maandelijks wordt overgemaakt naar de persoonlijke bankrekening van de vreemdeling gedurende diens verblijf in Nederland, en
 
-- 3°. een kopie van het paspoort van de financier, en
+  - 3°. een kopie van het paspoort van de financier, en
 
-- 4°. een recent(e) bankafschrift of rekeningsspecificatie waar het rekeningsaldo van de financier op staat;
+  - 4°. een recent(e) bankafschrift of rekeningsspecificatie waar het rekeningsaldo van de financier op staat;
 
 - d. indien de middelen van bestaan worden gefinancierd door een derde financier die in Nederland woont:
 
-- 1°. bewijsstukken omtrent het inkomen van de financier en van de eventuele (huwelijks)partner van de financier, en
+  - 1°. bewijsstukken omtrent het inkomen van de financier en van de eventuele (huwelijks)partner van de financier, en
 
-- 2°. een kopie van het identiteitsbewijs van de financier en van de eventuele (huwelijks)partner als hij of zij Nederlander is;
+  - 2°. een kopie van het identiteitsbewijs van de financier en van de eventuele (huwelijks)partner als hij of zij Nederlander is;
 
 - e. indien de middelen van bestaan worden gefinancierd uit middelen die zijn gestort op een rekening van de onderwijsinstelling een kopie van een bankafschrift van de onderwijsinstelling waarop het bedrag staat dat is gestort ten behoeve van de vreemdeling.
 
@@ -1758,11 +1733,11 @@ De referent van een vreemdeling die in Nederland verblijft of wil verblijven in 
 
 - b. indien de vreemdeling in Nederland in Nederland verblijft of wil verblijven in het kader van arbeid als kennismigrant,
 
-- 1°. loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in [artikel 2.1, eerste lid, onderdeel a, subonderdeel 1, van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.1), voldoet;
+  - 1°. loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in [artikel 2.1, eerste lid, onderdeel a, subonderdeel 1, van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.1), voldoet;
 
-- 2°. loonspecificaties waaruit blijkt dat de vreemdeling na toelating voldoet aan het looncriterium, bedoeld in [artikel 2.1, eerste lid, onderdeel a, subonderdeel 2, van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.1) en bewijsstukken waaruit blijkt dat de vreemdeling na toelating voldoet aan de voorwaarden voor een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘het zoeken naar en verrichten van arbeid al dan niet in loondienst’, bedoeld in [artikel 3.42 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42); of
+  - 2°. loonspecificaties waaruit blijkt dat de vreemdeling na toelating voldoet aan het looncriterium, bedoeld in [artikel 2.1, eerste lid, onderdeel a, subonderdeel 2, van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.1) en bewijsstukken waaruit blijkt dat de vreemdeling na toelating voldoet aan de voorwaarden voor een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘het zoeken naar en verrichten van arbeid al dan niet in loondienst’, bedoeld in [artikel 3.42 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42); of
 
-- 3°. indien het looncriterium niet van toepassing is, loonspecificaties waaruit blijkt dat de vreemdeling na toelating zelfstandig en duurzaam over voldoende middelen van bestaan beschikt;
+  - 3°. indien het looncriterium niet van toepassing is, loonspecificaties waaruit blijkt dat de vreemdeling na toelating zelfstandig en duurzaam over voldoende middelen van bestaan beschikt;
 
 - c. indien de vreemdeling in Nederland verblijft of wil verblijven als houder van de Europese blauwe kaart, loonspecificaties waaruit blijkt dat de vreemdeling na toelating aan het looncriterium, bedoeld in [artikel 2.2, eerste lid, onderdeel b, van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.2), voldoet;
 
@@ -1866,61 +1841,61 @@ Bewijsstukken als bedoeld in [4.38, eerste lid, onder e en vierde lid, onder c](
 
 - a. indien de referent beschikt over inkomen uit arbeid in loondienst:
 
-- 1°. een afschrift van de arbeidsovereenkomst;
+  - 1°. een afschrift van de arbeidsovereenkomst;
 
-- 2°. een recente werkgeversverklaring voorzien van datum, handtekening van de werkgever en firmastempel, en
+  - 2°. een recente werkgeversverklaring voorzien van datum, handtekening van de werkgever en firmastempel, en
 
-- 3°. afschriften van loonstroken over de drie maanden direct voorafgaand aan de aanvraag;
+  - 3°. afschriften van loonstroken over de drie maanden direct voorafgaand aan de aanvraag;
 
 - b. indien de referent beschikt over middelen van bestaan als bedoeld in [artikel 3.75, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75):
 
-- 1°. de bewijsstukken genoemd onder a;
+  - 1°. de bewijsstukken genoemd onder a;
 
-- 2°. afschriften van arbeids- of uitzendovereenkomsten van de drie jaren voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;
+  - 2°. afschriften van arbeids- of uitzendovereenkomsten van de drie jaren voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;
 
-- 3°. afschriften van jaaropgaven over de drie jaren voorafgaand aan de datum van indiening van de aanvraag om verlening van de verblijfsvergunning, en
+  - 3°. afschriften van jaaropgaven over de drie jaren voorafgaand aan de datum van indiening van de aanvraag om verlening van de verblijfsvergunning, en
 
-- 4°. voor zover van toepassing uitkeringsbeschikkingen en specificaties over de drie jaren voorafgaand aan de datum van de aanvraag om verlening van de verblijfsvergunning;
+  - 4°. voor zover van toepassing uitkeringsbeschikkingen en specificaties over de drie jaren voorafgaand aan de datum van de aanvraag om verlening van de verblijfsvergunning;
 
 - c. indien de referent beschikt over middelen van bestaan als bedoeld in [artikel 3.24b](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.24b&z=2026-04-01&g=2026-04-01):
 
-- 1°. de bewijsstukken genoemd onder a;
+  - 1°. de bewijsstukken genoemd onder a;
 
-- 2°. afschriften van arbeids- of uitzendovereenkomsten van het jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;
+  - 2°. afschriften van arbeids- of uitzendovereenkomsten van het jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;
 
-- 3°. afschriften van jaaropgaven over het jaar voorafgaand aan de datum van indiening van de aanvraag om verlening van de verblijfsvergunning, en
+  - 3°. afschriften van jaaropgaven over het jaar voorafgaand aan de datum van indiening van de aanvraag om verlening van de verblijfsvergunning, en
 
-- 4°. voor zover van toepassing uitkeringsbeschikkingen en specificaties over het jaar voorafgaand aan de datum van de aanvraag om verlening van de verblijfsvergunning;
+  - 4°. voor zover van toepassing uitkeringsbeschikkingen en specificaties over het jaar voorafgaand aan de datum van de aanvraag om verlening van de verblijfsvergunning;
 
 - d. indien de referent beschikt over inkomen als zelfstandige:
 
-- 1°. een verklaring inkomen van een gevestigde ondernemer, en
+  - 1°. een verklaring inkomen van een gevestigde ondernemer, en
 
-- 2°. een uittreksel van de Kamer van Koophandel, voor zover inschrijving van de zelfstandig ondernemer op grond van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) is vereist.
+  - 2°. een uittreksel van de Kamer van Koophandel, voor zover inschrijving van de zelfstandig ondernemer op grond van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) is vereist.
 
 - e. indien de referent naar het oordeel van de Minister blijvend en volledig arbeidsongeschikt is:
 
-- 1°. de toekenningsbeschikking van de uitkerende instantie ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheid zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) waaruit blijkt dat de referent volledig arbeidsongeschikt is, en
+  - 1°. de toekenningsbeschikking van de uitkerende instantie ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheid zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) waaruit blijkt dat de referent volledig arbeidsongeschikt is, en
 
-- 2°. de uitkeringsspecificaties;
+  - 2°. de uitkeringsspecificaties;
 
 - f. indien de referent blijvend niet in staat is aan de plicht tot arbeidsinschakeling te voldoen:
 
-- 1°. alle toekenningsbesluiten ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) die betrekking hebben op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;
+  - 1°. alle toekenningsbesluiten ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) die betrekking hebben op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;
 
-- 2°. voor zover van toepassing correspondentie met het college van burgemeester en wethouders omtrent ontheffing van de plicht tot arbeidsinschakeling, die betrekking heeft op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, en
+  - 2°. voor zover van toepassing correspondentie met het college van burgemeester en wethouders omtrent ontheffing van de plicht tot arbeidsinschakeling, die betrekking heeft op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, en
 
-- 3°. voor zover van toepassing bescheiden waaruit blijkt dat een arbeidsinschakeling binnen een jaar niet te verwachten valt;
+  - 3°. voor zover van toepassing bescheiden waaruit blijkt dat een arbeidsinschakeling binnen een jaar niet te verwachten valt;
 
 - g. indien de referent beschikt over inkomen uit eigen vermogen:
 
-- 1°. de laatst afgegeven definitieve aanslag Inkomstenbelasting afgegeven door de rijksbelastingdienst;
+  - 1°. de laatst afgegeven definitieve aanslag Inkomstenbelasting afgegeven door de rijksbelastingdienst;
 
-- 2°. de laatst afgegeven voorlopige aanslag Inkomstenbelasting afgegeven door de rijksbelastingdienst;
+  - 2°. de laatst afgegeven voorlopige aanslag Inkomstenbelasting afgegeven door de rijksbelastingdienst;
 
-- 3°. de meest recente aangifte Inkomstenbelasting aan de rijksbelastingdienst;
+  - 3°. de meest recente aangifte Inkomstenbelasting aan de rijksbelastingdienst;
 
-- 4°. bescheiden waaruit het eigen vermogen op het moment van de indiening van de aanvraag om verlening van de verblijfsvergunning blijkt.
+  - 4°. bescheiden waaruit het eigen vermogen op het moment van de indiening van de aanvraag om verlening van de verblijfsvergunning blijkt.
 
 ##### Artikel 4.40
 
@@ -2326,7 +2301,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet](https://wetten.o
 
 Deze regeling kan worden aangehaald onder de titel: [Voorschrift Vreemdelingen 2000](onbekend).
 
-## Bijlage 1. , behorend bij [artikel 2.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.1&z=2016-02-25&g=2016-02-25), Voorschrift Vreemdelingen 2000
+## Bijlage 1. , behorend bij [artikel 2.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=2&artikel=2.1&z=2021-10-01&g=2016-02-25), Voorschrift Vreemdelingen 2000
 
 | Luchthaven | Luchthavencode |
 | --- | --- |
@@ -3180,7 +3155,7 @@ Plaatsnaam, datum
 
 Geachte heer/mevrouw,
 
-## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2016-02-25&g=2016-02-25), Voorschrift Vreemdelingen 2000
+## Bijlage 20. behorend bij [artikel 1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.16&z=2021-10-01&g=2016-02-25), Voorschrift Vreemdelingen 2000
 
 | Kolom A Administratie | Kolom B Gegeven(s) of bescheid |
 | --- | --- |
@@ -5058,21 +5033,21 @@ Canada
 
 - a). aandelen in de onderneming ter grootte van:
 
-- 1°. minimaal 1% van het geplaatste kapitaal van de onderneming op datum van het sluiten van de participatieovereenkomst; of
+  - 1°. minimaal 1% van het geplaatste kapitaal van de onderneming op datum van het sluiten van de participatieovereenkomst; of
 
-- 2°. een aandelenbelang dat een financiële waarde vertegenwoordigt van minimaal € 65.000 op datum van het sluiten van de participatieovereenkomst.
+  - 2°. een aandelenbelang dat een financiële waarde vertegenwoordigt van minimaal € 65.000 op datum van het sluiten van de participatieovereenkomst.
 
 - b). certificaten van aandelen ter grootte van:
 
-- 1°. minimaal 1% van het geplaatste kapitaal van de onderneming; of
+  - 1°. minimaal 1% van het geplaatste kapitaal van de onderneming; of
 
-- 2°. die een financiële waarde vertegenwoordigen van minimaal € 65.000 op datum van het sluiten van de participatieovereenkomst.
+  - 2°. die een financiële waarde vertegenwoordigen van minimaal € 65.000 op datum van het sluiten van de participatieovereenkomst.
 
 - c). aandelenopties die recht geven om, tegen een vooraf bij het tekenen van de participatieovereenkomst bepaalde prijs:
 
-- 1°. aandelen ter grootte van minimaal 1% van het aandelenkapitaal in de onderneming, te verkrijgen; of
+  - 1°. aandelen ter grootte van minimaal 1% van het aandelenkapitaal in de onderneming, te verkrijgen; of
 
-- 2°. Een aantal aandelen te verkrijgen dat gezamenlijk een aandelenbelang vertegenwoordigt met een financiële waarde van minimaal € 65.000 op datum van het sluiten van de participatieovereenkomst, na aftrek van de vooraf bepaalde prijs.
+  - 2°. Een aantal aandelen te verkrijgen dat gezamenlijk een aandelenbelang vertegenwoordigt met een financiële waarde van minimaal € 65.000 op datum van het sluiten van de participatieovereenkomst, na aftrek van de vooraf bepaalde prijs.
 
 2. Aan het recht om het minimale percentage aan aandelen, bedoeld in het eerste lid, te verkrijgen of wanneer deze onvoorwaardelijk worden, mogen geen individuele prestatievoorwaarden verbonden zijn.
 
@@ -5186,9 +5161,9 @@ Nieuw-Zeeland
 
 - c. beschikken over een op 23 februari 2022 geldige Oekraïense permanente verblijfsvergunning en ten aanzien van wie:
 
-- 1°. aannemelijk is dat zij Oekraïne na 26 november 2021 hebben verlaten; en
+  - 1°. aannemelijk is dat zij Oekraïne na 26 november 2021 hebben verlaten; en
 
-- 2°. niet is gebleken dat zij na 23 februari 2022 naar het land van herkomst zijn teruggekeerd.
+  - 2°. niet is gebleken dat zij na 23 februari 2022 naar het land van herkomst zijn teruggekeerd.
 
 2. [Artikel 3.1a, eerste lid, aanhef en onder b tot en met d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.1a), is van overeenkomstige toepassing op familieleden van vreemdelingen als bedoeld in het eerste lid.
 
