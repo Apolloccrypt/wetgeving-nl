@@ -39,7 +39,7 @@ jobs:
         run: |
           git diff --quiet wetten/ || echo "changes=true" >> $GITHUB_OUTPUT
 
-      - name: Genereer index.json
+      - name: Genereer index + zoekindex + verwijzingen + meta
         run: |
           python scripts/genereer_index.py --wetten wetten/ --output index.json
 
@@ -49,7 +49,7 @@ jobs:
           git config user.name  "wetgeving-bot"
           git config user.email "bot@wetgeving-nl"
           AANTAL=$(git diff --name-only wetten/ | wc -l)
-          git add wetten/ index.json
+          git add wetten/ index.json zoekindex.json verwijzingen.json meta.json
           git commit -m "Dagelijkse update: $AANTAL wetten bijgewerkt ($(date +%Y-%m-%d))"
           git push
 
