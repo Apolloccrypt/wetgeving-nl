@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2015, 2015-0000305810, houdende de inrichting van de directie Werknemersregelingen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015)"
+title: "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015"
 identifier: "BWBR0037446"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-12-09"
-last_updated: "2023-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0037446"
-soort: "ministeriele-regeling"
-stam_id: "13367473"
-version_id: "22917452"
-internal_id: "C33141441"
-label_id: "13335314"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0037446/2023-12-09/0"
-intitule_bron: "Stcrt.2015-47974"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2015-12-15"
-intitule_published: "2015-12-29"
-intitule_in_force: "2015-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-47974"
-original_signed_date: "2015-12-15"
-original_published_date: "2015-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2015-47974"
-entry_into_force_date: "2015-12-30"
-jci_1_3: "jci1.3:c:BWBR0037446&z=2023-12-09&g=2023-12-09"
-jci_1_0: "1.0:c:BWBR0037446&g=2023-12-09"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015"
-signed_date: "2015-12-15"
-entry_into_force: "2015-12-30"
+categorie: "Arbeidsrecht"
+publicatiedatum: 2023-12-09
+laatste_update: 2023-12-09
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0037446"
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2015, 2015-0000305810, houdende de inrichting van de directie Werknemersregelingen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015)
 
 Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
@@ -42,7 +16,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,7 +26,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken
 
-##### Artikel 2
+#### Artikel 2
 
 De directie WR bestaat uit de volgende afdelingen:
 
@@ -64,15 +38,15 @@ De directie WR bestaat uit de volgende afdelingen:
 
 - d. de RCN-unit SZW, gevestigd te Bonaire, Sint Eustatius en Saba.
 
-##### Artikel 3
+#### Artikel 3
 
 Het hoofd van de afdeling Ziekte en Arbeidsongeschiktheid is verantwoordelijk voor het integrale beleid ten aanzien van het stelsel van condities, rechten, plichten, prikkels en financiering in regelingen voor ziekte en arbeidsongeschiktheid.
 
-##### Artikel 4
+#### Artikel 4
 
 Het hoofd van de afdeling Werkloosheid is verantwoordelijk voor het integrale beleid ten aanzien van het stelsel van condities, rechten, plichten, prikkels en financiering in regelingen voor werkloosheid.
 
-##### Artikel 5
+#### Artikel 5
 
 Het hoofd van de afdeling Werkgevers en Sociale Zekerheid buiten Europees Nederland is verantwoordelijk voor:
 
@@ -90,7 +64,7 @@ Het hoofd van de afdeling Werkgevers en Sociale Zekerheid buiten Europees Nederl
 
 - g. het stellen van kaders en het maken van afspraken voor de bij de RCN-unit SZW berustende uitvoeringstaken.
 
-##### Artikel 6
+#### Artikel 6
 
 Het hoofd van de RCN-unit SZW is verantwoordelijk voor de volgende algemene taken:
 
@@ -108,7 +82,7 @@ Het hoofd van de RCN-unit SZW is verantwoordelijk voor de volgende algemene take
 
 #### § 3. Bevoegdheden
 
-##### Artikel 7
+#### Artikel 7
 
 1. Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -130,7 +104,7 @@ Het hoofd van de RCN-unit SZW is verantwoordelijk voor de volgende algemene take
 
 - b. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
-##### Artikel 8
+#### Artikel 8
 
 Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -138,7 +112,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 - b. het paraferen van stukken waar de directie WR geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur WR afgedaan moeten worden.
 
-##### Artikel 9
+#### Artikel 9
 
 1. Het hoofd van de RCN-unit SZW is bevoegd om namens een bewindspersoon besluiten te nemen, beslissingen in bezwaar- en beroepsprocedures te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover deze verband houden met de uitvoering van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387), de [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304), de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728), de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497), de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347), het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595), de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228), de [Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169), de [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202), de [Wet collectieve arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028172), de [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170), de [Vakantiewet 1949 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028173), de [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174), de [Arbeidsgeschillenwet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028178), de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437), de [Regeling bijzondere uitkering integrale projecten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033367), en de daarop gebaseerde nadere regelgeving, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal of de inspecteur-generaal Sociale Zaken en Werkgelegenheid.
 
@@ -152,13 +126,13 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 #### § 4. Slotbepalingen
 
-##### Artikel 10
+#### Artikel 10
 
 1. Bij afwezigheid of verhindering van de directeur WR worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangend directeur.
 
 2. Bij afwezigheid of verhindering van het hoofd van de RCN-unit SZW worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden, met uitzondering van de bevoegdheden genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=3&artikel=7&z=2023-12-09&g=2023-12-09), waargenomen door het plaatsvervangend hoofd van de RCN-unit SZW.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Inkomensverzekeringen en -voorzieningen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025000) wordt ingetrokken.
 
@@ -170,7 +144,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-##### Artikel 8a
+#### Artikel 8a
 
 Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
 

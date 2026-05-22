@@ -3,7 +3,7 @@ title: "Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunst
 identifier: "BWBR0046496"
 categorie: "Bestuursrecht"
 publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
+laatste_update: 2026-05-21
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0046496"
 ---
@@ -14,7 +14,7 @@ Gelet op [artikel 7 van het Besluit aanwijzing ambtenaren VROM-regelgeving](http
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -50,7 +50,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **tijdelijke opslag:** het uitvoeren van een voorlopige handeling, zoals bedoeld artikel 2, zevende lid, van de EVOA, en aangemerkt als R12 en R13 handeling van nuttige toepassing zoals omschreven in bijlage II van de kaderrichtlijn afvalstoffen.
 
-#### Artikel 2. Criteria papierafval
+##### Artikel 2. Criteria papierafval
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld papierafval, bestaande uit:
 
@@ -78,7 +78,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 5. Het gehalte aan vocht in papierafval bedraagt maximaal twaalf gewichtsprocent.
 
-#### Artikel 3. Criteria kunststofafval bestaande uit één niet-gehalogeneerde polymeer voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 3. Criteria kunststofafval bestaande uit één niet-gehalogeneerde polymeer voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samenge steld kunststofafval bestaande uit één niet-gehalogeneerde polymeer in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval als bedoeld in bijlage III en zoals omschreven bij code B3011 van bijlage V van de EVOA, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede tot en met het vierde lid. Indien de inspecteur constateert dat de betrokken partij niet aan deze criteria voldoet, wordt de partij als Y48, A3210, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -88,7 +88,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 4. Kunststofafval bestaande uit één niet-gehalogeneerde polymeer is bestemd voor een R3-handeling of, indien nodig, eenmalige tijdelijke opslag mits dit wordt gevolgd door een R3-handeling en dat blijkt uit contractuele of anderszins relevante officiële documenten.
 
-#### Artikel 4. Criteria kunststofafval bestaande uit een mengsel van polyethyleen (PE), polypropyleen (PP) en/of polyethyleentereftalaat (PET) voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 4. Criteria kunststofafval bestaande uit een mengsel van polyethyleen (PE), polypropyleen (PP) en/of polyethyleentereftalaat (PET) voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld kunststofafval bestaande uit een mengsel van polyethyleen (PE), polypropyleen (PP) en/of polyethyleentereftalaat (PET) in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval als bedoeld in bijlage III en zoals omschreven bij code B3011 van bijlage V van de EVOA, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede tot en met het vierde lid. Indien de inspecteur constateert dat de betrokken partij niet aan deze criteria voldoet, wordt de partij als Y48, A3210, AC300 of een niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -98,7 +98,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 4. De kunststoffen polyethyleen (PE), polypropyleen (PP) en/of polyethyleentereftalaat (PET) zijn bestemd zijn voor afzonderlijke recycling (R3-handeling) met voorafgaande sortering en, indien nodig, eenmalige tijdelijke opslag mits dit wordt gevolgd door een R3 handeling van nuttige toepassing en blijkt uit contractuele of relevante officiële documenten.
 
-#### Artikel 5. Criteria kunststofafval bestaande uit één uitgehard hars of condensatieproduct voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 5. Criteria kunststofafval bestaande uit één uitgehard hars of condensatieproduct voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld kunststofafval bestaande uit één uitgehard hars of condensatieproduct in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval als bedoeld in bijlage III en zoals omschreven bij code B3011 van bijlage V van de EVOA, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de partij vast kunststofafval niet aan deze criteria voldoet, wordt de partij als Y48, A3210, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -108,7 +108,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 4. Kunststofafval bestaande uit één uitgehard hars of condensatieproduct is bestemd voor een R3-handeling of, indien nodig, eenmalige tijdelijke opslag mits dit wordt gevolgd door een R3-handeling en dat blijkt uit contractuele of anderszins relevante officiële documenten.
 
-#### Artikel 6. Criteria kunststofafval, bestaande uit een van de volgende gefluoreerde polymeren: perfluorethyleen/propyleen (FEP), tetrafluorethyleen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 6. Criteria kunststofafval, bestaande uit een van de volgende gefluoreerde polymeren: perfluorethyleen/propyleen (FEP), tetrafluorethyleen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) voor vervoer naar of uit de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samenge steld kunststofafval bestaande uit perfluorethyleen/propyleen (FEP), tetrafluorethyleen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval als bedoeld in bijlage III en zoals omschreven bij code B3011 van bijlage V van de EVOA, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de betrokken partij niet aan deze criteria voldoet, wordt de partij als Y48, A3210, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -118,7 +118,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 4. Kunststofafval bestaande uit perfluorethyleen/propyleen (FEP), tetrafluorethy leen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) is bestemd voor een R3-handeling of, indien nodig, eenmalige tijdelijke opslag mits dit wordt gevolgd door een R3-handeling en dat blijkt uit contractuele of anderszins relevante officiële documenten.
 
-#### Artikel 7. Criteria kunststofafval bestaande uit één of meer niet-gehalogeneerde polymeren voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 7. Criteria kunststofafval bestaande uit één of meer niet-gehalogeneerde polymeren voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld kunststofafval bestaande uit één of meer niet-gehalogeneerde polymeren in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval waarop code EU3011 van bijlage III van de EVOA van toepassing is, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de betrokken partij niet aan deze criteria voldoet, wordt de partij als EU48, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -126,7 +126,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 3. Kunststofafval bestaande uit één of meer niet-gehalogeneerde polymeren bevat maximaal twee gewichtsprocent aan andere componenten dan kunststofafval bestaande uit niet-gehalogeneerde polymeren.
 
-#### Artikel 8. Criteria kunststofafval bestaande uit één uitgehard hars of condensatieproduct voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 8. Criteria kunststofafval bestaande uit één uitgehard hars of condensatieproduct voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samenge steld kunststofafval bestaande uit één of meer uitgehard hars of condensatieproduct in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval waarop code EU3011 van bijlage III van de EVOA van toepas sing is, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de partij vast kunststofafval niet aan deze criteria voldoet, wordt de partij als EU48, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -134,7 +134,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 3. Kunststofafval bestaande uit één of meer uitgehard hars of condensatiepro duct bevat maximaal twee gewichtsprocent aan andere componenten dan kunststofafval bestaande uit een uitgehard hars of condensatieproduct.
 
-#### Artikel 9. Criteria kunststofafval bestaande uit één van de volgende gefluoreerde polymeren: perfluorethyleen/propyleen (FEP), tetrafluorethyleen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 9. Criteria kunststofafval bestaande uit één van de volgende gefluoreerde polymeren: perfluorethyleen/propyleen (FEP), tetrafluorethyleen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld kunststofafval bestaande uit perfluorethyleen/propyleen (FEP), tetrafluorethyleen/perfluoralkyl-vinylether (PFA), tetrafluorethyleen/perfluormethyl-vinylether (MFA), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval waarop code EU3011 van bijlage III van de EVOA van toepassing is, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de betrokken partij niet aan deze criteria voldoet, wordt de partij als EU48, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -142,7 +142,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 3. Kunststofafval bestaande uit perfluorethyleen/propyleen (FEP), polyvinylfluoride (PVF) of polyvinylideenfluoride (PVDF) bevat maximaal twee gewichtsprocent aan andere componenten dan kunststofafval bestaande uit deze polymeer.
 
-#### Artikel 10. Criteria kunststofafval bestaande uit een mengsel van tetrafluorethyleen/perfluoralkyl-vinylether (PFA) en tetrafluorethyleen/perfluormethyl-vinylether (MFA voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 10. Criteria kunststofafval bestaande uit een mengsel van tetrafluorethyleen/perfluoralkyl-vinylether (PFA) en tetrafluorethyleen/perfluormethyl-vinylether (MFA voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld kunststofafval bestaande uit een mengsel van tetrafluorethyleen/perfluoralkyl-vinylether (PFA) en tetrafluorethyleen/perfluormethyl-vinylether (MFA) in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval waarop code EU3011 van bijlage III van de EVOA van toepassing is, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de betrokken partij niet aan deze criteria voldoet, wordt de partij als EU48, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -150,7 +150,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 3. Kunststofafval bestaande uit een mengsel van tetrafluorethyleen/perfluoralkyl-vinylether (PFA) en tetrafluorethyleen/perfluormethyl-vinylether (MFA) bevat maximaal twee gewichtsprocent aan andere componenten dan kunststofafval bestaande uit deze polymeren.
 
-#### Artikel 11. Criteria kunststofafval bestaande PVC voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
+##### Artikel 11. Criteria kunststofafval bestaande PVC voor vervoer binnen de Europese Unie, inclusief landen binnen de Europese Economische Ruimte
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld kunststofafval bestaande uit PVC in het kader van de bestuursrechtelijke handhaving aangemerkt kan worden als afval waarop code EU3011 van bijlage III van de EVOA van toepassing is, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede en derde lid. Indien de inspecteur constateert dat de partij vast kunststofafval niet aan deze criteria voldoet, wordt de partij als EU48, AC300 of niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -158,7 +158,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 3. Kunststofafval bestaande uit PVC bevat maximaal twee gewichtsprocent aan andere componenten dan kunststofafval bestaande PVC.
 
-#### Artikel 12. Criteria ijzer- en staal (ferro) schroot en non-ferro schroot
+##### Artikel 12. Criteria ijzer- en staal (ferro) schroot en non-ferro schroot
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld ijzer- en staal (ferro) schroot en non-ferro schroot in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als metaalafval als bedoeld in bijlage III en zoals omschreven bij code B1010 en B1050 van bijlage V van de EVOA, alsmede ter bepaling of dergelijk schroot kan worden aangemerkt als het op bijlage IIIA van de EVOA genoemde mengsel van afvalstoffen vallend onder de codes B1010 en B1050, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede tot en met het vierde lid. Indien de inspecteur constateert dat de partij schroot niet voldoet aan deze criteria, wordt de partij als een niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -188,15 +188,15 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 4. IJzer- en staal (ferro) schroot en non-ferro schroot bevat maximaal tien gewichtsprocent aan andere componenten dan ijzer- en staal (ferro) schroot en non-ferro schroot.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof-, en metaalafval 2022.
 
-#### Artikel 15
+##### Artikel 15
 
 De [Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof- en metaalafval 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037272) wordt ingetrokken.
 
