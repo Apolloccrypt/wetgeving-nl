@@ -2,8 +2,8 @@
 title: "Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst"
 identifier: "BWBR0051399"
 categorie: "Overig"
-publicatiedatum: 2025-08-26
-laatste_update: 2025-06-19
+publicatiedatum: 2026-05-21
+laatste_update: 2026-05-22
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0051399"
 ---
@@ -16,15 +16,15 @@ Gelet op [titel 10.1 van de Algemene wet bestuursrecht](https://wetten.overheid.
 
 Besluit:
 
-#### Artikel 1. Verlening mandaat en machtiging
+##### Artikel 1. Verlening mandaat en machtiging
 
-1. De Staatssecretaris van Sociale Zaken en Werkgelegenheid verleent mandaat en machtiging aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid om de bevoegdheid uit te oefenen, zoals neergelegd in [artikel 3.71a, tweede lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71a), zowel bij besluiten in eerste aanleg als in bezwaar, beroep en hoger beroep.
+1. De Minister van Werk en Participatie verleent mandaat en machtiging aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid om de bevoegdheid uit te oefenen, zoals neergelegd in [artikel 3.71a, tweede lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71a), zowel bij besluiten in eerste aanleg als in bezwaar, beroep en hoger beroep.
 
-2. De Staatssecretaris van Sociale Zaken en Werkgelegenheid verleent mandaat en machtiging aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid om de werkzaamheden te verrichten die verband houden met de uitoefening van de bevoegdheid, genoemd in het eerste lid.
+2. De Minister van Werk en Participatie verleent mandaat en machtiging aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid om de werkzaamheden te verrichten die verband houden met de uitoefening van de bevoegdheid, genoemd in het eerste lid.
 
 3. De directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid kan het mandaat en de machtiging, genoemd in het eerste en tweede lid, doorverlenen aan onder hem ressorterende functionarissen, een en ander voor zover dat in overeenstemming is met de taak en functie van de desbetreffende functionarissen.
 
-#### Artikel 2. Slotbepaling
+##### Artikel 2. Slotbepaling
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 19 juni 2025.
 

@@ -1,35 +1,13 @@
 ---
 title: "Verdrag van Minamata inzake kwik"
 identifier: "BWBV0006298"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-09-28"
-last_updated: "2023-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006298"
-soort: "verdrag"
-stam_id: "10005152663"
-version_id: "10005511462"
-internal_id: "C10009240641"
-label_id: "10005136054"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006298/2023-09-28/0"
-intitule_bron: "Trb.2013-239"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-11-26"
-intitule_in_force: "2017-06-08"
-intitule_status: "goed"
-original_publication: "Trb.2013-239"
-original_published_date: "2013-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-239"
-entry_into_force_date: "2017-08-16"
-jci_1_3: "jci1.3:c:BWBV0006298&z=2023-09-28&g=2023-09-28"
-jci_1_0: "1.0:c:BWBV0006298&g=2023-09-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-08-16"
+categorie: "Internationaal recht"
+publicatiedatum: 2023-09-28
+laatste_update: 2023-09-28
+status: geldig
+bron: "https://wetten.overheid.nl/BWBV0006298"
 ---
+
 # Verdrag van Minamata inzake kwik
 
 De partijen bij dit Verdrag,
@@ -62,11 +40,11 @@ Vaststellend dat niets in dit Verdrag een partij belet aanvullende nationale maa
 
 Zijn het volgende overeengekomen:
 
-##### Artikel 1. Doelstelling
+#### Artikel 1. Doelstelling
 
 Dit Verdrag heeft tot doel de menselijke gezondheid en het milieu te beschermen tegen antropogene emissies en lozingen van kwik en kwikverbindingen.
 
-##### Artikel 2. Begripsomschrijvingen
+#### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -98,7 +76,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - k. „toegestaan gebruik”: elk gebruik door een partij van kwik of kwikverbindingen die in overeenstemming is met dit Verdrag, met inbegrip van, maar niet beperkt tot, gebruik in overeenstemming met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=3&z=2023-09-28&g=2023-09-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=4&z=2023-09-28&g=2023-09-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=5&z=2023-09-28&g=2023-09-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=6&z=2023-09-28&g=2023-09-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=7&z=2023-09-28&g=2023-09-28).
 
-##### Artikel 3. Bronnen voor het aanbod aan kwik en de handel erin
+#### Artikel 3. Bronnen voor het aanbod aan kwik en de handel erin
 
 1. Voor de toepassing van dit artikel:
 
@@ -152,7 +130,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 13. De Conferentie van de partijen evalueert of de handel in bepaalde kwikverbindingen de doelstelling van dit Verdrag in gevaar brengt en bestudeert of het zesde en achtste lid van toepassing dienen te worden op bepaalde kwikverbindingen door deze op te nemen in een aanvullende bijlage die in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=27&z=2023-09-28&g=2023-09-28) wordt aangenomen.
 
-##### Artikel 4. Kwikhoudende producten
+#### Artikel 4. Kwikhoudende producten
 
 1. Elk van de partijen zorgt er door het nemen van passende maatregelen voor dat de productie, import of export van kwikhoudende producten vermeld in [Deel I van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=A&z=2023-09-28&g=2023-09-28) niet is toegestaan na de voor die producten gespecificeerde datum van uitfasering, behalve wanneer er een uitzondering is gespecificeerd in Bijlage A of wanneer de partij een geregistreerde vrijstelling ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=6&z=2023-09-28&g=2023-09-28) heeft.
 
@@ -188,7 +166,7 @@ Uiterlijk vijf jaar na de datum van inwerkingtreding van het Verdrag toetst de C
 
 - c. de beschikbaarheid voor de partijen van kwikvrije alternatieven die technisch en economisch haalbaar zijn, rekening houdend met de risico’s en voordelen voor het milieu en de menselijke gezondheid.
 
-##### Artikel 5. Productieprocessen waarbij kwik of kwikverbindingen worden gebruikt
+#### Artikel 5. Productieprocessen waarbij kwik of kwikverbindingen worden gebruikt
 
 1. Voor de toepassing van dit artikel en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=B&z=2023-09-28&g=2023-09-28) omvatten productieprocessen waarbij kwik of kwikverbindingen worden gebruikt geen processen waarbij gebruik wordt gemaakt van kwikhoudende producten, processen voor het vervaardigen van kwikhoudende producten of processen waarbij kwikhoudend afval wordt verwerkt.
 
@@ -226,7 +204,7 @@ Het Secretariaat stelt deze informatie algemeen beschikbaar.
 
 - c. de beschikbaarheid voor de partijen van kwikvrije alternatieven die technisch en economisch haalbaar zijn, rekening houdend met de risico’s en voordelen voor milieu en gezondheid.
 
-##### Artikel 6. Vrijstellingen die partijen kunnen aanvragen
+#### Artikel 6. Vrijstellingen die partijen kunnen aanvragen
 
 1. Elke staat of regionale organisatie voor economische integratie kan een of meer vrijstellingen van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=A&z=2023-09-28&g=2023-09-28) en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=B&z=2023-09-28&g=2023-09-28) vermelde data van uitfasering, hierna te noemen „vrijstelling”, registreren door het Secretariaat hiervan schriftelijk in kennis te stellen:
 
@@ -268,7 +246,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 9. Voor geen van de partijen mag op enig moment na het verstrijken van tien jaar na de datum van uitfasering een vrijstelling van kracht zijn voor een product of proces vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=A&z=2023-09-28&g=2023-09-28) of [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=B&z=2023-09-28&g=2023-09-28).
 
-##### Artikel 7. Ambachtelijke en kleinschalige goudwinning
+#### Artikel 7. Ambachtelijke en kleinschalige goudwinning
 
 1. De maatregelen in dit artikel en in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=C&z=2023-09-28&g=2023-09-28) zijn van toepassing op ambachtelijke en kleinschalige goudwinning en -verwerking waarbij goud uit erts onttrokken wordt door het met kwik te amalgameren.
 
@@ -296,7 +274,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 - f. het gebruik van bestaande mechanismen voor informatie-uitwisseling ter bevordering van kennis, beste milieupraktijken en alternatieve technologieën die milieutechnisch, technisch, maatschappelijk en economisch haalbaar zijn.
 
-##### Artikel 8. Emissies
+#### Artikel 8. Emissies
 
 1. Dit artikel heeft betrekking op het beheersen en, waar mogelijk, verminderen van de emissies van kwik en kwikverbindingen, vaak uitgedrukt als „totaal kwik”, in de atmosfeer door maatregelen om de emissies van puntbronnen die vallen onder de in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=D&z=2023-09-28&g=2023-09-28) vermelde broncategorieën te beheersen.
 
@@ -354,7 +332,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 11. Elke partij neemt informatie over de tenuitvoerlegging van dit artikel op in de verslagen die zij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=21&z=2023-09-28&g=2023-09-28) indient, met name informatie over de maatregelen die zij genomen heeft in overeenstemming met het vierde tot en met het zevende lid en de effectiviteit van de maatregelen.
 
-##### Artikel 9. Lozingen
+#### Artikel 9. Lozingen
 
 1. Dit artikel heeft betrekking op het beheersen en, waar mogelijk, verminderen van lozingen van kwik en kwikverbindingen, vaak uitgedrukt als „totaal kwik”, in de bodem en het water door relevante puntbronnen die niet in andere bepalingen van dit Verdrag aan de orde komen.
 
@@ -396,7 +374,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 8. Elke partij neemt informatie over de toepassing van dit artikel op in de verslagen die zij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=21&z=2023-09-28&g=2023-09-28) indient, met name informatie over de maatregelen die zij genomen heeft in overeenstemming met het derde tot en met het zesde lid en de effectiviteit van de maatregelen.
 
-##### Artikel 10. Milieuverantwoorde tijdelijke opslag van kwik, anders dan kwikafval
+#### Artikel 10. Milieuverantwoorde tijdelijke opslag van kwik, anders dan kwikafval
 
 1. Dit artikel heeft betrekking op de tijdelijke opslag van kwik en kwikverbindingen zoals omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=3&z=2023-09-28&g=2023-09-28) die niet vallen onder de begripsomschrijving van kwikafval zoals vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=11&z=2023-09-28&g=2023-09-28).
 
@@ -406,7 +384,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 4. De partijen werken in voorkomend geval met elkaar en met relevante intergouvernementele organisaties en andere instellingen samen om de capaciteit te versterken voor de milieuverantwoorde tijdelijke opslag van kwik en kwikverbindingen.
 
-##### Artikel 11. Kwikafval
+#### Artikel 11. Kwikafval
 
 1. Voor de partijen bij het [Verdrag van Bazel](https://wetten.overheid.nl/jci1.3:c:BWBV0002081) zijn de relevante begripsomschrijvingen van het Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan van toepassing op het afval waarop dit Verdrag van toepassing is. De partijen bij dit Verdrag die geen partij zijn bij het Verdrag van Bazel gebruiken deze begripsomschrijvingen als richtlijn voor het afval waarop dit Verdrag van toepassing is.
 
@@ -430,7 +408,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 5. De partijen worden aangemoedigd met elkaar en met relevante intergouvernementele organisaties en andere entiteiten, in voorkomend geval, samen te werken bij het ontwikkelen en in stand houden van mondiale, regionale en nationale capaciteit voor milieuverantwoord beheer van kwikafval.
 
-##### Artikel 12. Verontreinigde locaties
+#### Artikel 12. Verontreinigde locaties
 
 1. Elke partij streeft ernaar passende strategieën te ontwikkelen voor het identificeren en beoordelen van locaties die verontreinigd zijn met kwik of kwikverbindingen.
 
@@ -452,7 +430,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 4. De partijen worden aangemoedigd samen te werken bij het ontwikkelen van strategieën en het implementeren van activiteiten voor het identificeren, beoordelen, prioriteren, beheren en, in voorkomend geval, saneren van verontreinigde locaties.
 
-##### Artikel 13. Financiële middelen en financieringsmechanisme
+#### Artikel 13. Financiële middelen en financieringsmechanisme
 
 1. Elke partij verplicht zich waar dat tot haar mogelijkheden behoort te voorzien in middelen ten behoeve van die nationale activiteiten die bedoeld zijn om dit Verdrag uit te voeren, in overeenstemming met haar nationale beleid, prioriteiten, plannen en programma’s. Dergelijke middelen kunnen nationale financiering door relevant beleid, ontwikkelingsstrategieën en nationale budgetten omvatten en bilaterale en multilaterale financiering, alsmede betrokkenheid van de particuliere sector.
 
@@ -482,7 +460,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 12. Alle partijen worden uitgenodigd, binnen hun mogelijkheden, bij te dragen aan het mechanisme. Met het mechanisme wordt het verstrekken van middelen uit andere bronnen, waaronder de particuliere sector, aangemoedigd en beoogd wordt hiermee nieuwe middelen aan te trekken voor de ondersteunde activiteiten.
 
-##### Artikel 14. Capaciteitsopbouw, technische bijstand en technologieoverdracht
+#### Artikel 14. Capaciteitsopbouw, technische bijstand en technologieoverdracht
 
 1. De partijen werken samen om, binnen hun respectieve mogelijkheden, te voorzien in tijdige en passende capaciteitsopbouw en technische bijstand voor partijen die ontwikkelingslanden zijn, met name de minst ontwikkelde landen en kleine eilandstaten in ontwikkeling, en partijen met een overgangseconomie, om hen bij te staan bij het uitvoeren van hun verplichtingen ingevolge dit Verdrag.
 
@@ -500,7 +478,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 5. De Conferentie van de partijen doet aanbevelingen over hoe de capaciteitsopbouw, technische bijstand en technologieoverdracht verder kunnen worden verbeterd ingevolge dit artikel.
 
-##### Artikel 15. Comité Uitvoering en Naleving
+#### Artikel 15. Comité Uitvoering en Naleving
 
 1. Hierbij wordt een mechanisme, met inbegrip van een comité als hulporgaan van de Conferentie van de partijen, ingesteld ter bevordering van de uitvoering van alle bepalingen van dit Verdrag en de toetsing van de naleving ervan. Het mechanisme, met inbegrip van het comité, is faciliterend van aard en heeft bijzondere aandacht voor de respectieve nationale capaciteiten en de omstandigheden van de partijen.
 
@@ -520,7 +498,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 6. Het comité stelt alles in het werk om aanbevelingen aan te nemen op basis van consensus. Indien alle middelen om consensus te bereiken uitgeput zijn zonder dat deze bereikt is, kunnen deze aanbevelingen in laatste instantie worden aangenomen met een meerderheid van drie vierden van de aanwezige leden die hun stem uitbrengen op basis van een quorum van twee derden van de leden.
 
-##### Artikel 16. Gezondheidsaspecten
+#### Artikel 16. Gezondheidsaspecten
 
 1. De partijen worden aangemoedigd:
 
@@ -538,7 +516,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 - b. samenwerking en uitwisseling van informatie met de Wereldgezondheidsorganisatie, Internationale Arbeidsorganisatie en andere relevante intergouvernementele organisaties te bevorderen, in voorkomend geval.
 
-##### Artikel 17. Uitwisseling van informatie
+#### Artikel 17. Uitwisseling van informatie
 
 1. Elke partij vergemakkelijkt de uitwisseling van:
 
@@ -564,7 +542,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 5. Voor de toepassing van dit Verdrag wordt informatie inzake de gezondheid en veiligheid van de mens en inzake milieu niet als vertrouwelijk aangemerkt. De partijen die andere informatie uitwisselen ingevolge dit Verdrag, beschermen de vertrouwelijke informatie op een door hen onderling overeengekomen wijze.
 
-##### Artikel 18. Publieke informatie, bewustmaking en voorlichting
+#### Artikel 18. Publieke informatie, bewustmaking en voorlichting
 
 1. Elke partij bevordert en vergemakkelijkt binnen haar mogelijkheden:
 
@@ -584,7 +562,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 2. Elke partij maakt gebruik van bestaande mechanismen of overweegt de ontwikkeling van mechanismen, zoals registers voor de lozing en overbrenging van vervuilende stoffen, waar van toepassing, voor het verzamelen en verspreiden van informatie over de geraamde jaarlijkse hoeveelheden kwik en kwikverbindingen die worden uitgestoten, geloosd of verwijderd door menselijke activiteiten op haar grondgebied.
 
-##### Artikel 19. Onderzoek, ontwikkeling en monitoring
+#### Artikel 19. Onderzoek, ontwikkeling en monitoring
 
 1. Rekening houdend met hun onderscheidenlijke omstandigheden en mogelijkheden, streven de partijen ernaar samen te werken ten behoeve van het ontwikkelen en verbeteren van:
 
@@ -604,7 +582,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 2. De partijen dienen, waar nodig, voort te bouwen op bestaande monitoringsnetwerken en onderzoeksprogramma’s bij het uitvoeren van de in het eerste lid genoemde activiteiten.
 
-##### Artikel 20. Uitvoeringsplannen
+#### Artikel 20. Uitvoeringsplannen
 
 1. Elke partij kan, na een eerste beoordeling, een uitvoeringsplan ontwikkelen en uitvoeren, rekening houdend met haar nationale omstandigheden, om aan de verplichtingen ingevolge dit Verdrag te voldoen. Zodra een dergelijk plan is ontwikkeld, dient het naar het Secretariaat te worden gezonden.
 
@@ -614,7 +592,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 4. De partijen kunnen ook regionale plannen op elkaar afstemmen om de uitvoering van dit Verdrag te vergemakkelijken.
 
-##### Artikel 21. Verslaglegging
+#### Artikel 21. Verslaglegging
 
 1. Elke partij brengt via het Secretariaat aan de Conferentie van de partijen verslag uit van de door haar genomen maatregelen ter uitvoering van de bepalingen van dit Verdrag, de doeltreffendheid van dergelijke maatregelen en de mogelijke uitdagingen bij het bereiken van de doelstellingen van het Verdrag.
 
@@ -622,7 +600,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 3. Tijdens haar eerste vergadering beslist de Conferentie van de partijen over de tijdstippen waarop en het format waarin de partijen hun verslagen moeten indienen, rekening houdend met de wenselijkheid de verslaglegging te coördineren met andere relevante verdragen op het gebied van chemicaliën en afval.
 
-##### Artikel 22. Evaluatie van de doeltreffendheid
+#### Artikel 22. Evaluatie van de doeltreffendheid
 
 1. De Conferentie van de partijen evalueert de doeltreffendheid van dit Verdrag uiterlijk zes jaar na de datum van inwerkingtreding van het Verdrag en daarna periodiek met een door de Conferentie van de partijen te bepalen regelmaat.
 
@@ -638,7 +616,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 - d. verslagen en andere relevante informatie over het functioneren van de regelingen voor financiële ondersteuning, technologieoverdracht en capaciteitsopbouw die ingevolge dit Verdrag zijn ingesteld.
 
-##### Artikel 23. Conferentie van de partijen
+#### Artikel 23. Conferentie van de partijen
 
 1. Hierbij wordt een Conferentie van de partijen ingesteld.
 
@@ -664,7 +642,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 6. De Verenigde Naties, hun gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke staat die geen partij bij dit Verdrag is, kunnen als waarnemer worden toegelaten tot de vergaderingen van de Conferentie van de partijen. Elke andere instelling of organisatie, nationaal of internationaal, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden die onder dit Verdrag vallen, en die aan het Secretariaat de wens te kennen heeft gegeven tijdens een vergadering van de Conferentie van de partijen als waarnemer aanwezig te zijn, kan als zodanig worden toegelaten, tenzij ten minste een derde van de aanwezige partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers worden geregeld in het door de Conferentie van de partijen aangenomen reglement van orde.
 
-##### Artikel 24. Secretariaat
+#### Artikel 24. Secretariaat
 
 1. Hierbij wordt een Secretariaat ingesteld.
 
@@ -688,7 +666,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 4. De Conferentie van de partijen kan in overleg met relevante internationale instellingen voorzien in intensievere samenwerking en coördinatie tussen het Secretariaat en de secretariaten van andere verdragen inzake chemicaliën en afval. De Conferentie van de partijen kan hierover in overleg met relevante internationale instellingen nadere richtlijnen verstrekken.
 
-##### Artikel 25. Beslechting van geschillen
+#### Artikel 25. Beslechting van geschillen
 
 1. Indien tussen partijen een geschil ontstaat betreffende de uitleg of de toepassing van dit Verdrag, trachten de betrokken partijen dit geschil door middel van onderhandelingen of op een andere door henzelf te kiezen vreedzame wijze te regelen.
 
@@ -706,7 +684,7 @@ De intrekking van een vrijstelling wordt van kracht op de datum vermeld in de ke
 
 6. Indien de partijen bij een geschil niet hetzelfde middel van geschillenbeslechting als bedoeld in het tweede of derde lid hebben aanvaard, en indien zij er binnen twaalf maanden na de kennisgeving van de ene partij aan de andere dat tussen hen een geschil bestaat, niet in geslaagd zijn hun geschil te regelen door middel van het in het eerste lid genoemde middel, wordt het geschil op verzoek van één van de bij het geschil betrokken partijen aan een conciliatiecommissie voorgelegd. De in [Deel II van Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=E&deel=II&z=2023-09-28&g=2023-09-28) beschreven procedure heeft betrekking op conciliatie ingevolge dit artikel.
 
-##### Artikel 26. Wijzigingen van het Verdrag
+#### Artikel 26. Wijzigingen van het Verdrag
 
 1. Wijzigingen van dit Verdrag kunnen door elke partij worden voorgesteld.
 
@@ -720,7 +698,7 @@ De tekst van voorgestelde wijzigingen wordt uiterlijk zes maanden vóór de verg
 
 5. De bekrachtiging, aanvaarding of goedkeuring van wijzigingen wordt schriftelijk medegedeeld aan de depositaris. Overeenkomstig het derde lid aangenomen wijzigingen worden voor de partijen die ermee hebben ingestemd hierdoor te worden gebonden, van kracht op de negentigste dag na de datum van nederlegging van de akten van bekrachtiging, aanvaarding of goedkeuring door ten minste drie vierden van de partijen die partij waren op het tijdstip van aanneming van de wijzigingen. Daarna worden de wijzigingen voor elke andere partij van kracht op de negentigste dag na de datum waarop die partij haar akte van bekrachtiging, aanvaarding of goedkeuring van die wijzigingen heeft nedergelegd.
 
-##### Artikel 27. Aanneming en wijziging van bijlagen
+#### Artikel 27. Aanneming en wijziging van bijlagen
 
 1. De bijlagen bij dit Verdrag maken een integrerend deel uit van het Verdrag en een verwijzing naar het Verdrag vormt tegelijkertijd een verwijzing naar de bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald.
 
@@ -738,17 +716,17 @@ De tekst van voorgestelde wijzigingen wordt uiterlijk zes maanden vóór de verg
 
 5. Indien een aanvullende bijlage of een wijziging van een bijlage verband houdt met een wijziging van dit Verdrag, treedt die aanvullende bijlage of die wijziging eerst in werking wanneer de wijziging van het Verdrag in werking treedt.
 
-##### Artikel 28. Stemrecht
+#### Artikel 28. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid, heeft elke partij bij dit Verdrag één stem.
 
 2. Regionale organisaties voor economische integratie beschikken, ten aanzien van binnen hun bevoegdheid vallende aangelegenheden, over het aantal stemmen dat gelijk is aan het aantal stemmen van hun lidstaten die partij zijn bij dit Verdrag. Dergelijke organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-##### Artikel 29. Ondertekening
+#### Artikel 29. Ondertekening
 
 Dit Verdrag is voor ondertekening opengesteld te Kumamoto, Japan, voor alle staten en regionale organisaties voor economische integratie op 10 en 11 oktober 2013 en daarna op de zetel van de Verenigde Naties te New York tot en met 9 oktober 2014.
 
-##### Artikel 30. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+#### Artikel 30. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door staten en regionale organisaties voor economische integratie vanaf de dag na de datum waarop het Verdrag voor ondertekening gesloten is. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de depositaris.
 
@@ -760,7 +738,7 @@ Dit Verdrag is voor ondertekening opengesteld te Kumamoto, Japan, voor alle stat
 
 5. In haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding kan een partij verklaren dat een wijziging van een bijlage voor het eerst in werking treedt na nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring van of toetreding tot een dergelijke wijziging.
 
-##### Artikel 31. Inwerkingtreding
+#### Artikel 31. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -768,33 +746,33 @@ Dit Verdrag is voor ondertekening opengesteld te Kumamoto, Japan, voor alle stat
 
 3. Voor de toepassing van het eerste en tweede lid wordt de nederlegging van een akte door een regionale organisatie voor economische integratie niet meegeteld bij de door de lidstaten van deze organisatie nedergelegde akten.
 
-##### Artikel 32. Voorbehouden
+#### Artikel 32. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-##### Artikel 33. Opzegging
+#### Artikel 33. Opzegging
 
 1. Drie jaar na de datum waarop dit Verdrag voor een partij in werking is getreden, kan die partij het Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht na het verstrijken van één jaar vanaf de datum waarop de depositaris de kennisgeving van opzegging heeft ontvangen of op een latere in de kennisgeving vermelde datum.
 
-##### Artikel 34. Depositaris
+#### Artikel 34. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag.
 
-##### Artikel 35. Authentieke teksten
+#### Artikel 35. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
 ## DEEL I. : ARBITRAGEPROCEDURE
 
-##### Artikel 1
+#### Artikel 1
 
 1. Een partij kan in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=25&z=2023-09-28&g=2023-09-28) van dit Verdrag een arbitrageprocedure instellen door middel van een schriftelijke kennisgeving aan de andere partij of partijen bij het geschil. De kennisgeving dient vergezeld te gaan van een verklaring omtrent de vordering tezamen met stukken ter ondersteuning. Deze kennisgeving dient het onderwerp van arbitrage te omschrijven, in het bijzonder onder vermelding van de artikelen van het Verdrag waarvan de uitleg of de toepassing ter discussie staat.
 
 2. De eisende partij stelt het Secretariaat ervan in kennis dat zij een geschil ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=25&z=2023-09-28&g=2023-09-28) van dit Verdrag voorlegt voor arbitrage. De kennisgeving dient vergezeld te gaan van de schriftelijke kennisgeving van de eisende partij, de verklaring omtrent de vordering en de stukken ter ondersteuning bedoeld in het eerste lid van dit artikel. Het Secretariaat zendt de aldus ontvangen informatie naar alle partijen.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Indien een geschil in overeenstemming met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=E&deel=I&artikel=1&z=2023-09-28&g=2023-09-28) van deze procedure wordt voorgelegd voor arbitrage, wordt een scheidsgerecht ingesteld. Het scheidsgerecht bestaat uit drie leden.
 
@@ -802,25 +780,25 @@ Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de 
 
 3. Vacatures worden vervuld op de wijze voorgeschreven voor de oorspronkelijke benoeming.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Indien een van de partijen bij het geschil nalaat binnen twee maanden na de datum waarop de gedaagde partij de kennisgeving inzake de arbitrage heeft ontvangen, een arbiter te benoemen, kan de andere partij de Secretaris-Generaal van de Verenigde Naties daarvan in kennis stellen, die binnen een termijn van nogmaals twee maanden de benoeming verricht.
 
 2. Indien de voorzitter van het scheidsgerecht niet binnen twee maanden na de datum van de benoeming van de tweede arbiter is aangewezen, wijst de Secretaris-Generaal van de Verenigde Naties, op verzoek van een partij, binnen een termijn van nogmaals twee maanden de voorzitter aan.
 
-##### Artikel 4
+#### Artikel 4
 
 Het scheidsgerecht neemt zijn beslissingen in overeenstemming met de bepalingen van dit Verdrag en met het internationale recht.
 
-##### Artikel 5
+#### Artikel 5
 
 Tenzij de partijen bij het geschil anders overeenkomen, stelt het scheidsgerecht zijn eigen reglement van orde vast.
 
-##### Artikel 6
+#### Artikel 6
 
 Het scheidsgerecht kan, op verzoek van een van de partijen bij het geschil, noodzakelijke voorlopige maatregelen ter bescherming aanbevelen.
 
-##### Artikel 7
+#### Artikel 7
 
 De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van het scheidsgerecht te vergemakkelijken, met name door:
 
@@ -828,95 +806,95 @@ De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van 
 
 - b. het scheidsgerecht indien nodig in staat te stellen getuigen of deskundigen op te roepen en te horen.
 
-##### Artikel 8
+#### Artikel 8
 
 De partijen bij het geschil en de arbiters zijn verplicht de vertrouwelijkheid te beschermen van de informatie of documenten die zij gedurende de procedure van het scheidsgerecht in vertrouwelijkheid ontvangen.
 
-##### Artikel 9
+#### Artikel 9
 
 Tenzij het scheidsgerecht anders bepaalt vanwege de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht in gelijke delen gedragen door de partijen bij het geschil. Het scheidsgerecht houdt een overzicht van al zijn kosten bij en verstrekt de partijen daarvan een eindopgave.
 
-##### Artikel 10
+#### Artikel 10
 
 Elke partij die een belang van juridische aard heeft bij de aangelegenheid die het onderwerp van het geschil is, en waarvoor de beslissing gevolgen kan hebben, kan zich met de instemming van het scheidsgerecht voegen in de procedure.
 
-##### Artikel 11
+#### Artikel 11
 
 Het scheidsgerecht kan tegenvorderingen die rechtstreeks voortvloeien uit het onderwerp van het geschil horen en erover beslissen.
 
-##### Artikel 12
+#### Artikel 12
 
 Het scheidsgerecht neemt beslissingen over de procedures en de inhoud bij meerderheid van de stemmen van zijn leden.
 
-##### Artikel 13
+#### Artikel 13
 
 1. Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en een beslissing te nemen. Het feit dat een partij niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, vormt geen belemmering voor de voortzetting van de procedure.
 
 2. Alvorens zijn definitieve uitspraak te doen, dient het scheidsgerecht zich ervan te vergewissen dat de eis feitelijk en rechtens gegrond is.
 
-##### Artikel 14
+#### Artikel 14
 
 Het scheidsgerecht doet zijn definitieve uitspraak binnen vijf maanden na de datum waarop het volledig was ingesteld, tenzij het het noodzakelijk acht deze termijn te verlengen met een termijn van ten hoogste vijf maanden.
 
-##### Artikel 15
+#### Artikel 15
 
 De definitieve uitspraak van het scheidsgerecht dient beperkt te zijn tot het onderwerp van het geschil en met redenen te worden omkleed. De uitspraak dient de namen te bevatten van de leden die hebben deelgenomen en de datum van de definitieve uitspraak. Elk lid van het scheidsgerecht kan een afzonderlijke of afwijkende mening toevoegen aan de definitieve uitspraak.
 
-##### Artikel 16
+#### Artikel 16
 
 De definitieve uitspraak van het scheidsgerecht is bindend voor de partijen bij het geschil. De uitleg van dit Verdrag in de definitieve uitspraak is tevens bindend voor een partij die zich ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=10&z=2023-09-28&g=2023-09-28) van deze regeling heeft gevoegd, voor zover deze betrekking heeft op aangelegenheden ter zake waarvan de partij zich heeft gevoegd. Tegen de definitieve uitspraak staat geen beroep open, tenzij de partijen bij het geschil vooraf overeenstemming hebben bereikt over een beroepsprocedure.
 
-##### Artikel 17
+#### Artikel 17
 
 Geschillen die mogelijk ontstaan tussen de partijen die gebonden zijn door de definitieve uitspraak in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=E&deel=I&artikel=16&z=2023-09-28&g=2023-09-28) van deze procedure met betrekking tot de uitleg of wijze van tenuitvoerlegging van die definitieve uitspraak kunnen door elk van de partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan.
 
 ## DEEL II. : CONCILIATIEPROCEDURE
 
-##### Artikel 1
+#### Artikel 1
 
 Een verzoek van een partij bij een geschil om instelling van een conciliatiecommissie ingevolge [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&artikel=25&z=2023-09-28&g=2023-09-28) van dit Verdrag, wordt schriftelijk ingediend bij het Secretariaat, met een afschrift voor de andere partij of partijen bij het geschil. Het Secretariaat stelt alle partijen onverwijld in kennis van het verzoek.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Tenzij de partijen bij het geschil anders overeenkomen, bestaat de conciliatiecommissie uit drie leden, van wie er door elke betrokken partij een wordt benoemd en een gezamenlijk door deze leden tot voorzitter wordt gekozen.
 
 2. Bij geschillen tussen meer dan twee partijen, benoemen partijen met hetzelfde belang hun lid van de commissie in gezamenlijk overleg.
 
-##### Artikel 3
+#### Artikel 3
 
 Indien de partijen bij het geschil nalaten binnen twee maanden na de datum van ontvangst door het secretariaat van het schriftelijk verzoek bedoeld in het [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006298&bijlage=E&deel=II&artikel=1&z=2023-09-28&g=2023-09-28) van deze procedure, benoemingen te verrichten, verricht de Secretaris-Generaal van de Verenigde Naties op verzoek van een partij deze benoemingen binnen een termijn van nogmaals twee maanden.
 
-##### Artikel 4
+#### Artikel 4
 
 Indien de voorzitter van de conciliatiecommissie niet binnen twee maanden na de benoeming van het tweede lid van de commissie is gekozen, wijst de Secretaris-Generaal van de Verenigde Naties, op verzoek van een partij bij het geschil, binnen een termijn van nogmaals twee maanden de voorzitter aan.
 
-##### Artikel 5
+#### Artikel 5
 
 De conciliatiecommissie verleent de partijen bij het geschil op onafhankelijke en onpartijdige wijze bijstand bij hun poging tot een minnelijke schikking te komen.
 
-##### Artikel 6
+#### Artikel 6
 
 1. De conciliatiecommissie kan de conciliatieprocedure uitvoeren op de wijze die zij passend acht, daarbij volledig rekening houdend met de omstandigheden van de zaak en de opvattingen die de partijen bij het geschil kenbaar kunnen maken, met inbegrip van verzoeken om een snelle oplossing. De conciliatiecommissie kan indien gewenst haar eigen reglement van orde aannemen, tenzij de partijen anders overeenkomen.
 
 2. De conciliatiecommissie kan op elk moment tijdens de procedure voorstellen of aanbevelingen doen om het geschil te regelen.
 
-##### Artikel 7
+#### Artikel 7
 
 De partijen bij het geschil verlenen de conciliatiecommissie medewerking. Zij spannen zich met name in om te voldoen aan verzoeken van de commissie om schriftelijk materiaal in te dienen, bewijzen te overleggen en bijeenkomsten bij te wonen. De partijen en de leden van de conciliatiecommissie zijn verplicht de vertrouwelijkheid te beschermen van alle informatie of documenten die zij gedurende de procedure van de commissie in vertrouwelijkheid ontvangen.
 
-##### Artikel 8
+#### Artikel 8
 
 De conciliatiecommissie neemt haar beslissingen bij meerderheid van stemmen van haar leden.
 
-##### Artikel 9
+#### Artikel 9
 
 Tenzij het geschil reeds is beslecht, brengt de conciliatiecommissie uiterlijk twaalf maanden na de instelling ervan een verslag uit met aanbevelingen ter beslechting van het geschil, die de partijen te goeder trouw in overweging nemen.
 
-##### Artikel 10
+#### Artikel 10
 
 Bij geschillen omtrent de bevoegdheid van de conciliatiecommissie inzake een aan haar voorgelegde aangelegenheid beslist de commissie.
 
-##### Artikel 11
+#### Artikel 11
 
 De kosten van de conciliatiecommissie worden in gelijke delen gedragen door de partijen bij het geschil, tenzij zij anders overeenkomen. De commissie houdt een overzicht van al haar kosten bij en verstrekt de partijen daarvan een eindopgave.
 

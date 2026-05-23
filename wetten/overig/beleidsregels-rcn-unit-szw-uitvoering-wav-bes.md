@@ -2,8 +2,8 @@
 title: "Beleidsregels RCN-unit SZW uitvoering Wav BES"
 identifier: "BWBR0039527"
 categorie: "Overig"
-publicatiedatum: 2018-11-30
-laatste_update: 2018-11-30
+publicatiedatum: 2022-11-25
+laatste_update: 2026-05-22
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0039527"
 ---

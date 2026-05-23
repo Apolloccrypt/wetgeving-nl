@@ -3,7 +3,7 @@ title: "Verzamelbesluit Toeslagen"
 identifier: "BWBR0050365"
 categorie: "Overig"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
+laatste_update: 2026-05-22
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0050365"
 ---

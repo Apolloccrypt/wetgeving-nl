@@ -3,7 +3,7 @@ title: "Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst v
 identifier: "BWBR0037269"
 categorie: "Milieu"
 publicatiedatum: 2026-05-21
-laatste_update: 2026-05-21
+laatste_update: 2026-05-22
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0037269"
 ---

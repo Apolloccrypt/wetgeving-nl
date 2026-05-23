@@ -1,41 +1,14 @@
 ---
-title: "Wet van 23 december 1994, houdende vaststelling van de Wet belastingen op milieugrondslag"
+title: "Wet belastingen op milieugrondslag"
 identifier: "BWBR0007168"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007168"
-soort: "wet"
-stam_id: "3030373"
-version_id: "31284532"
-internal_id: "C44728531"
-label_id: "2981594"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007168/2026-01-01/0"
-intitule_bron: "Stb.1994-923"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-23"
-intitule_in_force: "1994-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2025-446"
-original_signed_date: "2025-12-17"
-original_published_date: "2025-12-23"
-original_effect: "structuurwijziging"
-original_dossier: "36815"
-original_url_id: "stb-2025-446"
-entry_into_force_date: "2025-12-17"
-entry_into_force_dossier: "36815"
-jci_1_3: "jci1.3:c:BWBR0007168&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0007168&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet belastingen op milieugrondslag"
-signed_date: "2025-12-17"
-entry_into_force: "2025-12-17"
+categorie: "Belastingrecht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007168"
 ---
-# Wet van 23 december 1994, houdende vaststelling van de Wet belastingen op milieugrondslag
+
+# Wet belastingen op milieugrondslag
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -45,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 Krachtens deze wet worden de volgende belastingen geheven:
 
@@ -65,7 +38,7 @@ Krachtens deze wet worden de volgende belastingen geheven:
 
 - h. een vliegbelasting.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -81,47 +54,47 @@ Krachtens deze wet worden de volgende belastingen geheven:
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 3
+#### Artikel 3
 
 Vervallen
 
 ### Afdeling 2. Grondslag en belastingplicht
 
-##### Artikel 4
+#### Artikel 4
 
 Vervallen
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
 ### Afdeling 4. Tarief
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
-##### Artikel 9
+#### Artikel 9
 
 Vervallen
 
-##### Artikel 10
+#### Artikel 10
 
 Vervallen
 
 ### Afdeling 4a. Teruggaaf
 
-##### Artikel 10a
+#### Artikel 10a
 
 1. Aan degene die van een waterleidingbedrijf betrokken water gebruikt als spoelwater voor meermaals te gebruiken produktverpakkingen wordt op zijn verzoek door de inspecteur een teruggaaf verleend van de belasting op de betrokken hoeveelheid spoelwater.
 
@@ -137,7 +110,7 @@ Vervallen
 
 ### Afdeling 5. Verplichting ten dienste van de belastingheffing
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
@@ -145,7 +118,7 @@ Vervallen
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 11a
+#### Artikel 11a
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -161,11 +134,11 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 ### Afdeling 2. Grondslag en belastingplicht
 
-##### Artikel 11b
+#### Artikel 11b
 
 Onder de naam belasting op leidingwater wordt een belasting geheven op leidingwater.
 
-##### Artikel 11c
+#### Artikel 11c
 
 1. De belasting wordt geheven ter zake van de levering van leidingwater via een aansluiting aan de verbruiker, met dien verstande dat de belasting wordt geheven over een hoeveelheid van maximaal 300 kubieke meter per verbruiksperiode van 12 maanden per aansluiting.
 
@@ -175,19 +148,19 @@ Onder de naam belasting op leidingwater wordt een belasting geheven op leidingwa
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 11d
+#### Artikel 11d
 
 De belasting wordt geheven van degene die de levering verricht.
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 11e
+#### Artikel 11e
 
 1. De belasting wordt geheven per eenheid leidingwater, gemeten in kubieke meters.
 
 2. Ingeval de hoeveelheid geleverd leidingwater niet in kubieke meters bekend is, wordt de belasting geheven over een hoeveelheid die wordt berekend door het bedrag dat ter zake van de levering van water in rekening wordt gebracht, te verminderen met het vastrecht dat door de leverancier aan huishoudelijke verbruikers in rekening wordt gebracht indien wel een meter aanwezig is, en de uitkomst te delen door de prijs per kubieke meter die de leverancier in rekening brengt aan die verbruikers.
 
-##### Artikel 11f
+#### Artikel 11f
 
 1. De belasting wordt verschuldigd:
 
@@ -207,13 +180,13 @@ De belasting wordt geheven van degene die de levering verricht.
 
 ### Afdeling 4. Tarief
 
-##### Artikel 11g
+#### Artikel 11g
 
 Het tarief bedraagt € 0,149 per kubieke meter.
 
 ### Afdeling 5. Vrijstellingen
 
-##### Artikel 11h
+#### Artikel 11h
 
 1. Vrijstelling van de belasting wordt verleend ter zake van de levering van leidingwater door middel van noodvoorzieningen, waaronder worden verstaan brandkranen, sprinklerinstallaties en dergelijke, indien deze uitsluitend worden gebruikt in buitengewone omstandigheden.
 
@@ -221,7 +194,7 @@ Het tarief bedraagt € 0,149 per kubieke meter.
 
 ### Afdeling 6. Teruggaaf
 
-##### Artikel 11i
+#### Artikel 11i
 
 1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van de levering van leidingwater, voor zover de door de belastingplichtige, bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11d&z=2007-01-01&g=2007-01-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
 
@@ -235,7 +208,7 @@ Het tarief bedraagt € 0,149 per kubieke meter.
 
 6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 11j
+#### Artikel 11j
 
 1. Op verzoek wordt teruggaaf van de belasting verleend voor zover de belasting over de hoeveelheden leidingwater die door een verbruiker in een verbruiksperiode van 12 maanden van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.
 
@@ -245,7 +218,7 @@ Het tarief bedraagt € 0,149 per kubieke meter.
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 11k
+#### Artikel 11k
 
 1. De belastingplichtige, bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11d&z=2007-01-01&g=2007-01-01), is gehouden een administratie te voeren zodanig dat – voor zover dat voor de heffing van de belasting van belang kan zijn daaruit te allen tijde duidelijk blijken:
 
@@ -259,7 +232,7 @@ Het tarief bedraagt € 0,149 per kubieke meter.
 
 ### Afdeling 2. Grondslag en belastingplicht
 
-##### Artikel 12
+#### Artikel 12
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -291,11 +264,11 @@ Het tarief bedraagt € 0,149 per kubieke meter.
 
 ### Afdeling 2. Grondslag en belastingplicht
 
-##### Artikel 13
+#### Artikel 13
 
 Onder de naam belasting op leidingwater wordt een belasting geheven op leidingwater.
 
-##### Artikel 14
+#### Artikel 14
 
 1. De belasting wordt geheven ter zake van de levering van leidingwater via een aansluiting aan de verbruiker, met dien verstande dat de belasting wordt geheven over een hoeveelheid van maximaal 50.000 kubieke meter per verbruiksperiode van twaalf maanden per aansluiting. Bij een verbruiksperiode korter dan wel langer dan twaalf maanden wordt de hoeveelheidsgrens, genoemd in de eerste volzin, naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
@@ -307,11 +280,11 @@ Onder de naam belasting op leidingwater wordt een belasting geheven op leidingwa
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 15
+#### Artikel 15
 
 De belasting wordt geheven van degene die de levering verricht.
 
-##### Artikel 16
+#### Artikel 16
 
 1. De belasting wordt geheven per eenheid leidingwater, gemeten in kubieke meter.
 
@@ -319,7 +292,7 @@ De belasting wordt geheven van degene die de levering verricht.
 
 ### Afdeling 4. Tarief
 
-##### Artikel 17
+#### Artikel 17
 
 1. De belasting wordt verschuldigd:
 
@@ -339,17 +312,17 @@ De belasting wordt geheven van degene die de levering verricht.
 
 4. Indien de verrekening, bedoeld in [artikel 12, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=1&artikel=12&z=2026-01-01&g=2026-01-01), leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
 
-##### Artikel 18
+#### Artikel 18
 
 Het tarief bedraagt € 0,437 per kubieke meter leidingwater.
 
 ### Afdeling 4. Tarief
 
-##### Artikel 18a
+#### Artikel 18a
 
 In de gevallen, bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=1&artikel=12&z=2026-01-01&g=2026-01-01), wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van [artikel 14, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2026-01-01&g=2026-01-01). Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de laatste factuur aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen.
 
-##### Artikel 18b
+#### Artikel 18b
 
 1. Op verzoek wordt teruggaaf van belasting verleend met betrekking tot stoffen, preparaten of andere producten die de inrichting, al dan niet na nuttige toepassing, verlaten, met dien verstande dat geen teruggaaf wordt verleend voor percolaat of stortgas.
 
@@ -361,7 +334,7 @@ In de gevallen, bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.
 
 5. [Artikel 10a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4a&artikel=10a&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 18c
+#### Artikel 18c
 
 1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van de afgifte ter verwijdering van afvalstoffen, voor zover de door de belastingplichtige, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2007-01-01&g=2007-01-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
 
@@ -369,7 +342,7 @@ In de gevallen, bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.
 
 ### Afdeling 6*. Teruggaaf
 
-##### Artikel 19
+#### Artikel 19
 
 Vrijstelling van de belasting wordt verleend ter zake van de levering van leidingwater door middel van noodvoorzieningen, waaronder worden verstaan brandkranen, sprinklerinstallaties en dergelijke, indien deze uitsluitend worden gebruikt in buitengewone omstandigheden.
 
@@ -377,7 +350,7 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 ### Afdeling 6*. Teruggaaf
 
-##### Artikel 20
+#### Artikel 20
 
 1. Op verzoek wordt teruggaaf van de belasting verleend voor zover de belasting over de hoeveelheden leidingwater die door een verbruiker gedurende dezelfde periode binnen een kalenderjaar van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.
 
@@ -389,13 +362,13 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 ### Afdeling 7*. Verplichting ten dienste van de belastingheffing
 
-##### Artikel 21
+#### Artikel 21
 
 1. De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01) bedoelde belastingplichtige voert een administratie waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn.
 
 2. Bij regeling van Onze Minister worden nadere regels gesteld omtrent de wijze waarop aan de in het eerste lid bedoelde verplichting wordt voldaan.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -439,7 +412,7 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 2. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden niet tot afvalstoffen gerekend die stoffen, preparaten en voorwerpen, die voldoen aan de voorwaarden van bij algemene maatregel van bestuur opgesomde besluiten en regelingen volgens welke deze stoffen, preparaten en voorwerpen buiten inrichtingen met een stortplaats milieuhygiënisch verantwoord zijn toe te passen, dan wel bestemd zijn te worden gebruikt voor bij algemene maatregel van bestuur aan te wijzen toepassingen die hetzij verband houden met de bedrijfsvoering van de inrichting, hetzij deel uitmaken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen.
 
-##### Artikel 23
+#### Artikel 23
 
 1. Onder de naam afvalstoffenbelasting wordt een belasting geheven ter zake van:
 
@@ -457,7 +430,7 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 24
+#### Artikel 24
 
 De belasting wordt geheven:
 
@@ -467,7 +440,7 @@ De belasting wordt geheven:
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 25
+#### Artikel 25
 
 1. De belasting wordt berekend:
 
@@ -481,7 +454,7 @@ De belasting wordt geheven:
 
 4. Bij regeling van Onze Ministers kunnen regels worden gesteld omtrent de wijze waarop het gewicht van de afvalstoffen wordt bepaald.
 
-##### Artikel 26
+#### Artikel 26
 
 De belasting wordt verschuldigd op het tijdstip waarop:
 
@@ -493,7 +466,7 @@ De belasting wordt verschuldigd op het tijdstip waarop:
 
 ### Afdeling 2. Grondslag, belastingplicht en verschuldigdheid
 
-##### Artikel 27
+#### Artikel 27
 
 1. Op de ingevolge [artikel 23, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), verschuldigde belasting wordt in mindering gebracht de belasting ter zake van stoffen, preparaten of voorwerpen die de inrichting, al dan niet na nuttige toepassing, hebben verlaten, met dien verstande dat de vermindering niet wordt toegepast ter zake van percolaat, stortgas of stoffen die na verbranding via de schoorsteen de inrichting verlaten.
 
@@ -513,7 +486,7 @@ De belasting wordt verschuldigd op het tijdstip waarop:
 
 ### Afdeling 2. Grondslag, belastingplicht en verschuldigdheid
 
-##### Artikel 27a
+#### Artikel 27a
 
 1. Op de ingevolge [artikel 23, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), verschuldigde belasting wordt in mindering gebracht de belasting ter zake van stoffen, preparaten of voorwerpen die in de inrichting in een zodanige staat zijn gebracht, dat deze op grond van [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), niet langer tot afvalstoffen worden gerekend.
 
@@ -527,7 +500,7 @@ De belasting wordt verschuldigd op het tijdstip waarop:
 
 ### Afdeling 4. Tarief
 
-##### Artikel 28
+#### Artikel 28
 
 1. Het tarief bedraagt in geval van:
 
@@ -545,13 +518,13 @@ De belasting wordt verschuldigd op het tijdstip waarop:
 
 4. Bij regeling van Onze Minister kan worden bepaald dat het tarief voor het storten van afvalstoffen die ter verwijdering worden afgegeven in partijen die uitsluitend of nagenoeg uitsluitend bestaan uit door bij die regeling vast te stellen categorieën van gevaarlijke afvalstoffen, wordt vastgesteld tot een verlaagd percentage van het tarief, bedoeld in het eerste lid, onderdeel a, dan wel tot nihil.
 
-##### Artikel 28a
+#### Artikel 28a
 
 Vervallen
 
 ### Afdeling 3. Maatstaf van heffing
 
-##### Artikel 29
+#### Artikel 29
 
 1. Vrijgesteld is de afgifte ter verwijdering of overbrenging ter verwijdering van baggerspecie.
 
@@ -561,7 +534,7 @@ Vervallen
 
 ### Afdeling 3. Maatstaf van heffing
 
-##### Artikel 30
+#### Artikel 30
 
 1. Op verzoek wordt teruggaaf verleend van belasting ter zake van afvalstoffen die afkomstig zijn van een overtreder jegens wie krachtens [artikel 18.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2) of [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.2) bestuursdwang is toegepast, indien:
 
@@ -579,7 +552,7 @@ Vervallen
 
 ### Hoofdstuk V
 
-##### Artikel 31
+#### Artikel 31
 
 1. De belastingplichtige is gehouden een administratie te voeren zodanig dat daaruit te allen tijde duidelijk blijken de aard, de hoeveelheid en de herkomst van de afvalstoffen.
 
@@ -591,7 +564,7 @@ Vervallen
 
 - b. welke stoffen, preparaten en voorwerpen in welke hoeveelheden uit Nederland zijn overgebracht en op welk tijdstip het vervoer van de afvalstoffen in het kader van de overbrenging is aangevangen.
 
-##### Artikel 32
+#### Artikel 32
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -621,7 +594,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - m. invoer: vanuit een derde land brengen van kolen in Nederland.
 
-##### Artikel 33
+#### Artikel 33
 
 1. Als uitslag wordt mede aangemerkt het gebruik van kolen als brandstof binnen een inrichting.
 
@@ -645,7 +618,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 34
+#### Artikel 34
 
 1. Als uitslag wordt niet aangemerkt het brengen van kolen vanuit een inrichting naar:
 
@@ -661,7 +634,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 35
+#### Artikel 35
 
 1. Als invoer wordt mede aangemerkt:
 
@@ -685,7 +658,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 36
+#### Artikel 36
 
 Onder de naam kolenbelasting wordt een belasting geheven ter zake van de uitslag en de invoer van kolen.
 
@@ -693,7 +666,7 @@ Onder de naam kolenbelasting wordt een belasting geheven ter zake van de uitslag
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 36a
+#### Artikel 36a
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -747,7 +720,7 @@ Onder de naam kolenbelasting wordt een belasting geheven ter zake van de uitslag
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 36b
+#### Artikel 36b
 
 1. Onder de naam energiebelasting wordt een belasting geheven op de volgende producten:
 
@@ -765,7 +738,7 @@ Onder de naam kolenbelasting wordt een belasting geheven ter zake van de uitslag
 
 2. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt als één van de onder het eerste lid, onderdelen a tot en met e, bedoelde producten, niet zijnde één van deze producten, mede aangemerkt elk product dat direct of indirect is bestemd voor gebruik, wordt aangeboden voor verkoop of wordt gebruikt als één van deze producten.
 
-##### Artikel 36c
+#### Artikel 36c
 
 1. Met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, wordt de belasting geheven ter zake van de uitslag en van de invoer, als was de belasting een accijns.
 
@@ -791,11 +764,11 @@ Onder de naam kolenbelasting wordt een belasting geheven ter zake van de uitslag
 
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 36d
+#### Artikel 36d
 
 Als uitslag wordt mede aangemerkt het gebruik van halfzware olie, gasolie en vloeibaar gemaakt petroleumgas bestemd voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen, voor andere doeleinden dan voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen.
 
-##### Artikel 36e
+#### Artikel 36e
 
 1. Met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, wordt de belasting geheven van degene die ter zake accijns verschuldigd is of zou zijn, indien van die brandstoffen accijns zou worden geheven.
 
@@ -817,17 +790,17 @@ Als uitslag wordt mede aangemerkt het gebruik van halfzware olie, gasolie en vlo
 
 10. Indien in een verbruiksperiode van 12 maanden ten aanzien van de verbruiker, bedoeld in het derde en negende lid, zowel sprake is van door hem op grond van het derde onderscheidenlijk negende lid verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair is verschuldigd op grond van het tweede lid.
 
-##### Artikel 36f
+#### Artikel 36f
 
 In afwijking van [artikel 36**e**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2007-01-01&g=2007-01-01), wordt de belasting bij toepassing van [artikel 36**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36d&z=2007-01-01&g=2007-01-01) geheven van degene die de halfzware olie, de gasolie of het vloeibaar gemaakt petroleumgas gebruikt.
 
 ### Afdeling 4. Tarief
 
-##### Artikel 36g
+#### Artikel 36g
 
 De belasting wordt voor halfzware olie, gasolie, vloeibaar gemaakt petroleumgas en aardgas geheven per eenheid brandstof, uitgedrukt in L, kilogram of m3, en voor elektriciteit en overige gassen per eenheid energie-inhoud, uitgedrukt in kWh onderscheidenlijk gigajoule.
 
-##### Artikel 36h
+#### Artikel 36h
 
 1. De belasting met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas wordt verschuldigd op het tijdstip waarop de accijns ter zake van die brandstoffen verschuldigd wordt of zou worden indien van die brandstoffen accijns zou worden geheven.
 
@@ -853,7 +826,7 @@ De belasting wordt voor halfzware olie, gasolie, vloeibaar gemaakt petroleumgas 
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 36i
+#### Artikel 36i
 
 1. Het tarief bedraagt voor:
 
@@ -931,7 +904,7 @@ De belasting wordt voor halfzware olie, gasolie, vloeibaar gemaakt petroleumgas 
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 36j
+#### Artikel 36j
 
 1. Op de ter zake van de levering van aardgas en elektriciteit, bedoeld in [artikel 36c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2007-01-01&g=2007-01-01), verschuldigde belasting wordt een vermindering toegepast. De vermindering bedraagt € 199 per verbruiksperiode van 12 maanden per elektriciteitsaansluiting. Indien het bedrag van de over deze verbruiksperiode verschuldigde belasting lager is dan het bedrag van de vermindering, wordt het verschil aan de verbruiker terugbetaald.
 
@@ -947,7 +920,7 @@ De belasting wordt voor halfzware olie, gasolie, vloeibaar gemaakt petroleumgas 
 
 7. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 36k
+#### Artikel 36k
 
 1. Vrijstelling van de belasting wordt verleend ter zake van de levering van producten als bedoeld in [artikel 36b, eerste lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2007-01-01&g=2007-01-01), die worden gebruikt voor het opwekken van elektriciteit in een installatie met een elektrisch rendement van minimaal 30%.
 
@@ -967,7 +940,7 @@ De belasting wordt voor halfzware olie, gasolie, vloeibaar gemaakt petroleumgas 
 
 ### Afdeling 4. Tarief
 
-##### Artikel 36l
+#### Artikel 36l
 
 1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, voor zover de hoeveelheid die door een verbruiker is betrokken hoger is dan 159 000 L halfzware olie, 153 000 L gasolie onderscheidenlijk 119 000 kilogram vloeibaar gemaakt petroleumgas per kalenderjaar.
 
@@ -1047,7 +1020,7 @@ De teruggaaf, bedoeld in de eerste volzin, wordt verleend aan de instelling die 
 
 16. Op verzoek wordt teruggaaf van de belasting verleend voorzover met betrekking tot zakelijk verbruik van aardgas boven de 10 000 000 m3 of elektriciteit boven de 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting het tarief voor niet-zakelijk verbruik in rekening is gebracht.
 
-##### Artikel 36m
+#### Artikel 36m
 
 1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van leveringen van aardgas en elektriciteit, voor zover de door de belastingplichtige, bedoeld in [artikel 36e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2007-01-01&g=2007-01-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
 
@@ -1055,7 +1028,7 @@ De teruggaaf, bedoeld in de eerste volzin, wordt verleend aan de instelling die 
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
-##### Artikel 36n
+#### Artikel 36n
 
 1. De belastingplichtige, bedoeld in [artikel 36**e**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2007-01-01&g=2007-01-01), is gehouden een administratie te voeren zodanig dat - voor zover dat voor de heffing van de belasting van belang kan zijn - daaruit te allen tijde duidelijk blijken:
 
@@ -1069,37 +1042,37 @@ De teruggaaf, bedoeld in de eerste volzin, wordt verleend aan de instelling die 
 
 ### Afdeling 8. Bijzondere regeling voor op duurzame wijze geproduceerde energie
 
-##### Artikel 36o
+#### Artikel 36o
 
 Vervallen
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
-##### Artikel 36p
+#### Artikel 36p
 
 Vervallen
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
-##### Artikel 36q
+#### Artikel 36q
 
 Bij of krachtens op voordracht van Onze Minister, mede namens Onze Minister van Economische Zaken, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en Onze Minister van Landbouw, Natuur en Voedselkwaliteit, vast te stellen algemene maatregel van bestuur wordt voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden, vrijstelling van de belasting wordt verleend ter zake van de levering van zakelijk verbruikte elektriciteit bij een verbruik boven de 10 000 000 kWh per verbruiksperiode van 12 maanden per aansluiting, voor het gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat hoger is dan 10 000 000 kWh, indien de verbruiker in het kader van met Onze Minister van Economische Zaken, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer of Onze Minister van Landbouw, Natuur en Voedselkwaliteit gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie en hij als energie-intensief bedrijf wordt aangemerkt.
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
-##### Artikel 36r
+#### Artikel 36r
 
 Vervallen
 
 ### Afdeling 6. Teruggaven
 
-##### Artikel 36s
+#### Artikel 36s
 
 Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 6. Teruggaven
 
-##### Artikel 36t
+#### Artikel 36t
 
 Vervallen
 
@@ -1107,7 +1080,7 @@ Vervallen
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 37
+#### Artikel 37
 
 1. Ter zake van uitslag wordt de belasting geheven van de vergunninghouder van de inrichting.
 
@@ -1115,11 +1088,11 @@ Vervallen
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 37a
+#### Artikel 37a
 
 De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 9, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4&artikel=9&z=2007-01-01&g=2007-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4&artikel=10&z=2007-01-01&g=2007-01-01), [11g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=4&artikel=11g&z=2007-01-01&g=2007-01-01), [18, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=4&artikel=18&z=2007-01-01&g=2007-01-01), [25, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=4&artikel=25&z=2007-01-01&g=2007-01-01), [36i, eerste, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2007-01-01&g=2007-01-01), en [36l, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=6&artikel=36l&z=2007-01-01&g=2007-01-01), vermelde bedragen.
 
-##### Artikel 38
+#### Artikel 38
 
 1. Een plaats kan alleen als inrichting worden gebruikt indien daartoe een vergunning is verstrekt door de inspecteur.
 
@@ -1131,17 +1104,17 @@ De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 38a
+#### Artikel 38a
 
 Onze Ministers zenden binnen twee en een half jaar na de inwerkingtreding van de bepalingen inzake de grondwaterbelasting en de afvalstoffenbelasting aan de Staten-Generaal een verslag over de uitvoerbaarheid van deze bepalingen alsmede over de mogelijk in de praktijk gebleken negatieve milieu-effecten en economische problemen.
 
-##### Artikel 38b
+#### Artikel 38b
 
 Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer uiterlijk 1 juli 2002 aan de Staten-Generaal een verslag over de uitvoering en de werking van [artikel 36p](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=9&artikel=36p&z=2007-01-01&g=2007-01-01) alsmede over de wenselijkheid van handhaving van de desbetreffende regeling.
 
 ### Hoofdstuk VIII. Verpakkingenbelasting
 
-##### Artikel 39
+#### Artikel 39
 
 1. Degene die een vergunning voor een inrichting wil verkrijgen, dient daartoe een verzoek in bij de inspecteur.
 
@@ -1155,7 +1128,7 @@ Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken e
 
 4. De [artikelen 43 tot en met 50 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43) zijn van overeenkomstige toepassing.
 
-##### Artikel 40
+#### Artikel 40
 
 1. Ter zake van uitslag wordt de belasting verschuldigd op het tijdstip van de uitslag.
 
@@ -1235,19 +1208,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 8. Overgangsregeling
 
-##### Artikel 41
+#### Artikel 41
 
 Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), met uitzondering van artikel 88 van de Gedelegeerde Verordening Douanewetboek van de Unie, van overeenkomstige toepassing.
 
-##### Artikel 42
+#### Artikel 42
 
 De belasting wordt berekend over het gewicht van de kolen, uitgedrukt in kilogram.
 
-##### Artikel 43
+#### Artikel 43
 
 Het tarief bedraagt per 1000 kilogram kolen € 18,85.
 
-##### Artikel 44
+#### Artikel 44
 
 1. Vrijstelling van de belasting wordt verleend ter zake van de uitslag en de invoer van kolen die worden gebruikt anders dan als brandstof.
 
@@ -1261,7 +1234,7 @@ Het tarief bedraagt per 1000 kilogram kolen € 18,85.
 
 ### Afdeling 3. Maatstaf van heffing
 
-##### Artikel 45
+#### Artikel 45
 
 1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot kolen die worden gebruikt op een in [artikel 44, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=5&artikel=44&z=2026-01-01&g=2026-01-01), bedoelde wijze.
 
@@ -1273,7 +1246,7 @@ Het tarief bedraagt per 1000 kilogram kolen € 18,85.
 
 ### Afdeling 3. Maatstaf van heffing
 
-##### Artikel 46
+#### Artikel 46
 
 1. De belastingplichtige voert een administratie waaruit, voor zover dat voor de heffing van belang kan zijn, de gegevens betreffende het vervaardigen, invoeren, uitslaan en gebruik van kolen duidelijk blijken.
 
@@ -1293,7 +1266,7 @@ Het tarief bedraagt per 1000 kilogram kolen € 18,85.
 
 ### Afdeling 4. Tarief
 
-##### Artikel 47
+#### Artikel 47
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1377,7 +1350,7 @@ Het tarief bedraagt per 1000 kilogram kolen € 18,85.
 
 ### Afdeling 5. Vrijstellingen
 
-##### Artikel 48
+#### Artikel 48
 
 1. Onder de naam energiebelasting wordt een belasting geheven op aardgas en elektriciteit.
 
@@ -1385,11 +1358,11 @@ Het tarief bedraagt per 1000 kilogram kolen € 18,85.
 
 3. In afwijking van het tweede lid wordt voor de toepassing van de [artikelen 47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2026-01-01&g=2026-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=3&artikel=55&z=2026-01-01&g=2026-01-01), [59 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01) en [64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2026-01-01&g=2026-01-01), en de op die artikelen berustende bepalingen waterstof niet als aardgas aangemerkt.
 
-##### Artikel 49
+#### Artikel 49
 
 Vervallen
 
-##### Artikel 50
+#### Artikel 50
 
 1. De belasting wordt geheven ter zake van de levering van aardgas of elektriciteit via een aansluiting aan de verbruiker, alsmede ter zake van de levering van aardgas via een aansluiting aan een CNG-vulstation.
 
@@ -1423,17 +1396,17 @@ Vervallen
 
 8. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 51
+#### Artikel 51
 
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt als verbruik in de zin van [artikel 50, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2026-01-01&g=2026-01-01), niet aangemerkt het verbruik van aardgas voor de vervaardiging van aardgas en minerale oliën als bedoeld in [artikel 25, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=25), in dezelfde inrichting waarin dat aardgas is ontstaan.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 52
+#### Artikel 52
 
 Vervallen
 
-##### Artikel 53
+#### Artikel 53
 
 1. De belasting wordt geheven van degene die de levering verricht.
 
@@ -1441,7 +1414,7 @@ Vervallen
 
 3. In afwijking van het eerste lid, wordt bij een levering van elektriciteit waarbij sprake is van peer-to-peer handel als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), de belasting geheven van de marktdeelnemer die de automatische uitvoering en afwikkeling van de levering realiseert.
 
-##### Artikel 54
+#### Artikel 54
 
 1. Voor de toepassing van [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), stelt degene die de levering aan de verbruiker verricht, indien hij niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft, een fiscaal vertegenwoordiger aan. De fiscaal vertegenwoordiger treedt namens hem op en treedt in zijn plaats met betrekking tot alle rechten en verplichtingen die hij heeft inzake de belasting.
 
@@ -1455,7 +1428,7 @@ Vervallen
 
 6. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 55
+#### Artikel 55
 
 De belasting wordt berekend:
 
@@ -1463,7 +1436,7 @@ De belasting wordt berekend:
 
 - b. voor elektriciteit en waterstof: per eenheid energie-inhoud, uitgedrukt in kWh.
 
-##### Artikel 56
+#### Artikel 56
 
 1. De belasting met betrekking tot de levering van aardgas en de levering van elektriciteit wordt verschuldigd:
 
@@ -1483,17 +1456,17 @@ De belasting wordt berekend:
 
 4. Indien de verrekening, bedoeld in [artikel 47, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2026-01-01&g=2026-01-01), leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
 
-##### Artikel 57
+#### Artikel 57
 
 Indien in een verbruiksperiode ten aanzien van degene van wie op grond van [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), de belasting wordt geheven zowel sprake is van door hem op grond van artikel 53, tweede lid, verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair wordt geheven van degene, bedoeld in artikel 53, eerste lid.
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 58
+#### Artikel 58
 
 Vervallen
 
-##### Artikel 59
+#### Artikel 59
 
 1. Het tarief bedraagt voor:
 
@@ -1537,7 +1510,7 @@ Vervallen
 
 7. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de toepassing van het eerste lid.
 
-##### Artikel 60
+#### Artikel 60
 
 1. In afwijking van [artikel 59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01), bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm3, voor dat gedeelte van de geleverde dan wel verbruikte hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
 
@@ -1585,17 +1558,17 @@ Vervallen
 
 - b. het nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), het adres, telefoonnummer en e-mailadres van die belastingplichtige.
 
-##### Artikel 61
+#### Artikel 61
 
 Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01), [artikel 60, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2026-01-01&g=2026-01-01), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=67&z=2026-01-01&g=2026-01-01), en [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=68&z=2026-01-01&g=2026-01-01), naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
-##### Artikel 62
+#### Artikel 62
 
 Indien op basis van een contract tussen de belastingplichtige en de verbruiker de geleverde hoeveelheid aardgas gemeten wordt in Nm3, worden de tarieven toegepast, zoals die met betrekking tot aardgas in [artikel 59, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01), en [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=60&z=2026-01-01&g=2026-01-01), worden toegepast per kubieke meter.
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 63
+#### Artikel 63
 
 1. Op de ter zake van de levering van elektriciteit, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=50&z=2026-01-01&g=2026-01-01), verschuldigde belasting wordt een vermindering toegepast met betrekking tot onroerende zaken die op zich als gebouwde eigendommen zijn aan te merken en die kunnen dienen als woning of ten behoeve van de uitoefening van een bedrijf of beroep of anderszins een verblijfsfunctie hebben. De vermindering bedraagt € 519,80 per verbruiksperiode van twaalf maanden per aansluiting.
 
@@ -1611,7 +1584,7 @@ Indien op basis van een contract tussen de belastingplichtige en de verbruiker d
 
 7. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 64
+#### Artikel 64
 
 1. Vrijstelling van de belasting wordt verleend ter zake van de levering of het verbruik van:
 
@@ -1661,15 +1634,15 @@ De vrijstelling voor mineralogische procedés geldt alleen voor de bedrijven die
 
 8. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 65
+#### Artikel 65
 
 Vervallen
 
-##### Artikel 66
+#### Artikel 66
 
 Vervallen
 
-##### Artikel 67
+#### Artikel 67
 
 1. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief, bedoeld in [artikel 59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01), voor zover het verbruik van warmte in een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 5 372 000 megajoule per verbruiksperiode van twaalf maanden.
 
@@ -1679,7 +1652,7 @@ Vervallen
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 68
+#### Artikel 68
 
 1. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, voor zover de belasting over de hoeveelheden aardgas en elektriciteit die door een verbruiker gedurende dezelfde periode binnen een kalenderjaar van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.
 
@@ -1689,7 +1662,7 @@ Vervallen
 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 69
+#### Artikel 69
 
 1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, verbruikt in een onroerende zaak die in hoofdzaak is bestemd voor de openbare eredienst of voor het houden van openbare bezinningsbijeenkomsten van levensbeschouwelijke aard.
 
@@ -1731,7 +1704,7 @@ Vervallen
 
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 70
+#### Artikel 70
 
 1. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit die worden gebruikt op een in [artikel 64, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=5&artikel=64&z=2026-01-01&g=2026-01-01), bedoelde wijze.
 
@@ -1745,7 +1718,7 @@ Vervallen
 
 6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 71
+#### Artikel 71
 
 1. De belastingplichtigen, bedoeld in [artikel 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), voeren een administratie waaruit duidelijk alle gegevens blijken die voor de heffing van de belasting van belang kunnen zijn.
 
@@ -1759,45 +1732,45 @@ Vervallen
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
-##### Artikel 80
+#### Artikel 80
 
 Vervallen
 
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 
-##### Artikel 81
+#### Artikel 81
 
 Vervallen
 
-##### Artikel 82
+#### Artikel 82
 
 Vervallen
 
-##### Artikel 83
+#### Artikel 83
 
 Vervallen
 
-##### Artikel 84
+#### Artikel 84
 
 Vervallen
 
-##### Artikel 85
-
-Vervallen
-
-### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-
-##### Artikel 86
+#### Artikel 85
 
 Vervallen
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 87
+#### Artikel 86
 
 Vervallen
 
-##### Artikel 88
+### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
+
+#### Artikel 87
+
+Vervallen
+
+#### Artikel 88
 
 Vervallen
 
@@ -1805,7 +1778,7 @@ Vervallen
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 89
+#### Artikel 89
 
 1. De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.
 
@@ -1813,11 +1786,11 @@ Vervallen
 
 ### Afdeling 2. Grondslag en belastingplicht
 
-##### Artikel 90
+#### Artikel 90
 
 De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=4&artikel=18&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=4&artikel=28&z=2026-01-01&g=2026-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=4&artikel=43&z=2026-01-01&g=2026-01-01), [59, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01), [71p, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIB&afdeling=4&artikel=71p&z=2026-01-01&g=2026-01-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VII&afdeling=4&artikel=77&z=2026-01-01&g=2026-01-01) vermelde bedragen. Het bepaalde in de eerste zin vindt tevens toepassing op de bedragen voor het kalenderjaar 2025 en volgende kalenderjaren, genoemd in artikel 71y, eerste lid, met dien verstande dat daarbij telkens voor elk betreffend kalenderjaar de tabelcorrectiefactor wordt toegepast die op dat kalenderjaar ziet en voorts die tabelcorrectiefactor telkens eveneens wordt toegepast op de bedragen voor de kalenderjaren die op dat kalenderjaar volgen.
 
-##### Artikel 91
+#### Artikel 91
 
 1. De inspecteur beslist op het verzoek, bedoeld in de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=6&artikel=20&z=2026-01-01&g=2026-01-01), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=3&artikel=27&z=2026-01-01&g=2026-01-01), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=6*&artikel=30&z=2026-01-01&g=2026-01-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=V&afdeling=6&artikel=45&z=2026-01-01&g=2026-01-01), [54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=2&artikel=54&z=2026-01-01&g=2026-01-01), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=67&z=2026-01-01&g=2026-01-01), [68, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=68&z=2026-01-01&g=2026-01-01), [69, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=69&z=2026-01-01&g=2026-01-01), [70, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70&z=2026-01-01&g=2026-01-01), [70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70a&z=2026-01-01&g=2026-01-01), [89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=1&artikel=89&z=2026-01-01&g=2026-01-01), en [92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=2&artikel=92&z=2026-01-01&g=2026-01-01), bij een voor bezwaar vatbare beschikking.
 
@@ -1831,7 +1804,7 @@ De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1
 
 - b. verzoeken aan de inspecteur tot aanwijzing van een teruggaaftijdvak op grond van bepalingen krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 92
+#### Artikel 92
 
 1. Bij de toepassing van [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IX&afdeling=1&artikel=89&z=2026-01-01&g=2026-01-01) wordt voor de belasting op leidingwater, de afvalstoffenbelasting , de energiebelasting en de vliegbelasting een vermindering op de verschuldigde belasting toegepast, voor zover komt vast te staan dat een door de belastingplichtige ter zake te ontvangen bedrag niet is en niet zal worden ontvangen.
 
@@ -1845,7 +1818,7 @@ De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1
 
 6. Bij regeling van Onze Minister kunnen regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 93
+#### Artikel 93
 
 1. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de wet regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
@@ -1853,17 +1826,17 @@ De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1
 
 ### Hoofdstuk IX. Algemene bepalingen
 
-##### Artikel 94
+#### Artikel 94
 
 De inwerkingtreding van deze wet wordt bij wet geregeld.
 
-##### Artikel 95
+#### Artikel 95
 
 Deze wet wordt aangehaald als: Wet belastingen op milieugrondslag.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 84a
+#### Artikel 84a
 
 Vervallen
 
@@ -1871,7 +1844,7 @@ Vervallen
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 88a
+#### Artikel 88a
 
 Vervallen
 
@@ -1885,7 +1858,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 88b
+#### Artikel 88b
 
 Vervallen
 
@@ -1899,19 +1872,19 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 87a
+#### Artikel 87a
 
 Vervallen
 
-##### Artikel 87b
+#### Artikel 87b
 
 Vervallen
 
-##### Artikel 87c
+#### Artikel 87c
 
 Vervallen
 
-##### Artikel 87d
+#### Artikel 87d
 
 Vervallen
 
@@ -1933,7 +1906,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 72
+#### Artikel 72
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1949,7 +1922,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - f. **lid van het boordpersoneel:** lid van het boordpersoneel als bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1), alsmede ieder die uitsluitend wordt vervoerd om aan boord van een ander vliegtuig tijdens een vlucht van dat andere vliegtuig werkzaamheden als lid van het boordpersoneel te verrichten.
 
-##### Artikel 73
+#### Artikel 73
 
 1. Onder de naam vliegbelasting wordt een belasting geheven ter zake van het vertrek van een passagier met een vliegtuig vanaf een in Nederland gelegen luchthaven.
 
@@ -1961,31 +1934,31 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - c. de passagier het gebied van de luchthaven, dat een vertrekkende passagier alleen mag betreden met een geldig vervoersbewijs, tussen het moment van aankomst en het moment van vertrek niet langer dan 24 uur heeft verlaten.
 
-##### Artikel 74
+#### Artikel 74
 
 De belasting wordt geheven van de exploitant van de luchthaven.
 
 ### Afdeling 6. Teruggaven
 
-##### Artikel 75
+#### Artikel 75
 
 De vliegbelasting wordt berekend over het aantal passagiers dat met een vliegtuig vertrekt van de luchthaven.
 
-##### Artikel 76
+#### Artikel 76
 
 De vliegbelasting wordt verschuldigd op het tijdstip waarop de passagier met een vliegtuig vertrekt van de luchthaven.
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
-##### Artikel 77
+#### Artikel 77
 
 Het tarief bedraagt € 30,25 per passagier.
 
-##### Artikel 78
+#### Artikel 78
 
 Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze waarop de belastingplichtige een administratie moet voeren voor de toepassing van de vliegbelasting.
 
-##### Artikel 79
+#### Artikel 79
 
 1. De luchtvaartmaatschappij verstrekt aan de exploitant van de luchthaven de gegevens die nodig zijn voor een juiste toepassing van dit hoofdstuk. De verstrekking van deze gegevens vindt plaats gelijktijdig met de verstrekking van de gegevens die de luchtvaartmaatschappij als gebruiker van de luchthaven verplicht is aan de exploitant van de luchthaven te verstrekken.
 
@@ -2029,7 +2002,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 45a
+#### Artikel 45a
 
 De [artikelen 2, vijfde, zesde, zevende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), en [83 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=83) zijn van overeenkomstige toepassing.
 
@@ -2105,15 +2078,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 59a
+#### Artikel 59a
 
 Vervallen
 
-##### Artikel 59b
+#### Artikel 59b
 
 Vervallen
 
-##### Artikel 59c
+#### Artikel 59c
 
 Indien de verlaging van het tarief, bedoeld in [artikel 59a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59a&z=2026-01-01&g=2026-01-01), wordt verminderd of komt te vervallen, blijven de bepalingen gesteld bij of krachtens [artikel 47, eerste lid, onderdelen u tot en met y](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2026-01-01&g=2026-01-01), artikel 59a en [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59b&z=2026-01-01&g=2026-01-01), zoals deze luidden op de dag voorafgaand aan de dag met ingang waarvan de verlaging van het tarief wordt verminderd of komt te vervallen, gedurende 15 jaren na het tijdstip waarop de coöperatie is aangewezen als bedoeld in artikel 59a, eerste lid, van toepassing ten aanzien van de levering van elektriciteit aan personen ten aanzien van wie op de eerst genoemde dag artikel 59a en, indien het een vereniging van eigenaars betreft, artikel 59b, van toepassing waren. Een eventuele rechtsopvolger van de persoon treedt in de plaats van die persoon.
 
@@ -2133,7 +2106,7 @@ Indien de verlaging van het tarief, bedoeld in [artikel 59a, eerste lid](https:/
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 31a
+#### Artikel 31a
 
 Met betrekking tot een toestemming tot overbrenging als bedoeld in [artikel 23, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=23&z=2026-01-01&g=2026-01-01), die is verleend vóór 1 januari 2019, wordt de periode van overbrenging, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=4&artikel=28&z=2026-01-01&g=2026-01-01), in afwijking van dat lid geacht aan te vangen op het tijdstip van de aanvang van de eerste fysieke overbrenging na 31 december 2018 met toepassing van die toestemming.
 
@@ -2183,7 +2156,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
-##### Artikel 31b
+#### Artikel 31b
 
 Vervallen
 
@@ -2193,7 +2166,7 @@ Vervallen
 
 ### Afdeling 1. Begripsbepalingen
 
-##### Artikel 61a
+#### Artikel 61a
 
 In de gevallen, bedoeld in [artikel 47, zevende lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=1&artikel=47&z=2026-01-01&g=2026-01-01), wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=61&z=2026-01-01&g=2026-01-01). Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de eindafrekening aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen.
 
@@ -2205,7 +2178,7 @@ In de gevallen, bedoeld in [artikel 47, zevende lid, onderdeel b](https://wetten
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 29a
+#### Artikel 29a
 
 Onder bij of krachtens op de voordracht van Onze Minister bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen is vrijgesteld de afgifte ter verwijdering aan een inrichting van zuiveringsslib dat is bestemd om binnen die inrichting te worden verbrand.
 
@@ -2227,7 +2200,7 @@ Onder bij of krachtens op de voordracht van Onze Minister bij algemene maatregel
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 23a
+#### Artikel 23a
 
 Vervallen
 
@@ -2247,7 +2220,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 70a
+#### Artikel 70a
 
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt op verzoek teruggaaf van belasting verleend voor aardgas dat wordt gebruikt als brandstof voor vaartuigen op communautaire wateren, met inbegrip van de visserij.
 
@@ -2265,7 +2238,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 60a
+#### Artikel 60a
 
 1. In afwijking van [artikel 59, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2024-07-01&g=2024-07-01), bedraagt het tarief voor elektriciteit die wordt geleverd aan een oplaadinstallatie voor elektrische voertuigen die beschikt over een zelfstandige aansluiting, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
 
@@ -2319,7 +2292,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 25a
+#### Artikel 25a
 
 1. De kennisgever, bedoeld in [artikel 24, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=24&z=2026-01-01&g=2026-01-01), dient de aanvraag tot het geven van de beschikking, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=3&artikel=25&z=2026-01-01&g=2026-01-01), in bij Onze Minister van Infrastructuur en Waterstaat. Zodra de kennisgever constateert dat gegevens in de aanvraag onjuist of onvolledig zijn meldt hij dit onverwijld aan Onze Minister van Infrastructuur en Waterstaat.
 
@@ -2357,7 +2330,7 @@ Een ambtshalve afgegeven beschikking als bedoeld onder b vervangt voor de toepas
 
 10. Bij regeling van Onze Ministers kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-##### Artikel 29b
+#### Artikel 29b
 
 1. Vrijgesteld is de afgifte ter verwijdering of overbrenging ter verwijdering van afzonderlijk aangeboden asbest en asbesthoudende producten die toegepast zijn geweest als dakbedekking.
 
@@ -2375,7 +2348,7 @@ Een ambtshalve afgegeven beschikking als bedoeld onder b vervangt voor de toepas
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 60b
+#### Artikel 60b
 
 1. In afwijking van [artikel 59, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=4&artikel=59&z=2026-01-01&g=2026-01-01), bedraagt het tarief voor elektriciteit die wordt geleverd aan een walstroominstallatie die geheel of nagenoeg geheel bestemd is voor schepen niet zijnde particuliere pleziervaartuigen als bedoeld in [artikel 70a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VI&afdeling=6&artikel=70a&z=2026-01-01&g=2026-01-01), per kWh 30% van het tarief, genoemd in artikel 59, eerste lid, onderdeel c, vierde aandachtstreepje.
 
@@ -2413,7 +2386,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. het nummer bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), het adres, telefoonnummer en e-mailadres van die belastingplichtige.
 
-##### Artikel 71h
+#### Artikel 71h
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -2441,7 +2414,7 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - l. **stadsverwarming:** stadsverwarming als bedoeld in artikel 2, vierde lid, van de Gedelegeerde Verordening (EU) nr. 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10 bis van [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad (PbEU 2019, L 59).
 
-##### Artikel 71i
+#### Artikel 71i
 
 Dit hoofdstuk is van toepassing op industriële installaties met uitzondering van broeikasgasinstallaties van een glastuinbouwbedrijf of energiebedrijf voor glastuinbouw waarop hoofdstuk VIC van toepassing is en broeikasgasinstallaties die direct of indirect uitsluitend worden geëxploiteerd voor:
 
@@ -2451,7 +2424,7 @@ Dit hoofdstuk is van toepassing op industriële installaties met uitzondering va
 
 - c. het opwekken van elektriciteit zonder het gebruik van restgassen als brandstof.
 
-##### Artikel 71j
+#### Artikel 71j
 
 1. Onder de naam **CO2-heffing industrie** wordt een belasting geheven ter zake van:
 
@@ -2469,7 +2442,7 @@ Dit hoofdstuk is van toepassing op industriële installaties met uitzondering va
 
 3. Van de heffing is uitgezonderd de emissie van kooldioxide door broeikasgasinstallaties en afvalverbrandingsinstallaties die worden overgedragen voor geologische opslag en waarbij wordt voldaan aan bij ministeriële regeling te stellen voorwaarden.
 
-##### Artikel 71k
+#### Artikel 71k
 
 1. De CO2-heffing industrie wordt geheven van degene die een industriële installatie exploiteert.
 
@@ -2477,7 +2450,7 @@ Dit hoofdstuk is van toepassing op industriële installaties met uitzondering va
 
 3. Indien de werking van een industriële installatie is beëindigd, wordt de belasting geheven van degene die als laatste de industriële installatie heeft geëxploiteerd.
 
-##### Artikel 71l
+#### Artikel 71l
 
 1. De belasting wordt berekend over:
 
@@ -2487,23 +2460,23 @@ Dit hoofdstuk is van toepassing op industriële installaties met uitzondering va
 
 2. De grondslag is niet lager dan nihil.
 
-##### Artikel 71m
+#### Artikel 71m
 
 1. De industriële jaarvracht is overeenkomstig hetgeen is vermeld in het industrieel emissieverslag.
 
 2. Indien het bestuur van de Nederlandse emissieautoriteit de industriële jaarvracht ambtshalve heeft vastgesteld als bedoeld in [artikel 16b.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16b.6) en die vaststelling is onherroepelijk geworden, is de industriële jaarvracht overeenkomstig die vaststelling.
 
-##### Artikel 71n
+#### Artikel 71n
 
 1. Het aantal dispensatierechten is het aantal dispensatierechten dat de exploitant voor een industriële installatie op 1 september van het jaar na afloop van het belastingtijdvak op zijn rekening heeft als bedoeld in [artikel 16b.16, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16b.16).
 
 2. Indien het bestuur van de Nederlandse emissieautoriteit op of na de datum, genoemd in het eerste lid, op de rekening dispensatierechten stort of afboekt als bedoeld in [artikel 16b.16, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16b.16), is het aantal dispensatierechten het aantal dispensatierechten dat na die storting of afboeking op de rekening staat.
 
-##### Artikel 71o
+#### Artikel 71o
 
 De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasgas plaatsvindt.
 
-##### Artikel 71p
+#### Artikel 71p
 
 1. Het tarief bedraagt:
 
@@ -2527,7 +2500,7 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasga
 
 4. Het derde lid is niet van toepassing voor zover de grondslag, bedoeld in [artikel 71l, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIB&afdeling=3&artikel=71l&z=2026-01-01&g=2026-01-01), hoger is door de overdracht van dispensatierechten, bedoeld in [afdeling 16b.3.3, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=16b.3.3).
 
-##### Artikel 71q
+#### Artikel 71q
 
 1. Indien voor een industriële installatie het aantal dispensatierechten van een belastingtijdvak de industriële jaarvracht van dat belastingtijdvak overtreft, gebruikt de exploitant dat overschot aan dispensatierechten voor een herberekening van de belasting die is betaald voor die industriële installatie over de vijf belastingtijdvakken voorafgaand aan het eerstgenoemde belastingtijdvak.
 
@@ -2537,7 +2510,7 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasga
 
 4. Indien uit de herberekening blijkt dat over een bepaald belastingtijdvak een teveel aan belasting is betaald, wordt dat bedrag aan teveel betaalde belasting in mindering gebracht op de belasting verschuldigd over het belastingtijdvak waarover aangifte wordt gedaan.
 
-##### Artikel 71r
+#### Artikel 71r
 
 1. Voor de heffing en invordering van de belasting wordt voor de toepassing van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de op die wetten berustende bepalingen onder rijksbelastingdienst verstaan de Dienst Nederlandse Emissieautoriteit. Hierbij staat deze dienst onder het gezag van de Minister van Financiën.
 
@@ -2547,7 +2520,7 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasga
 
 4. Bestaande geheimhoudingsbepalingen staan er niet aan in de weg dat de ambtenaren van de Dienst Nederlandse Emissieautoriteit gegevens of informatie verkregen op grond van deze afdeling gebruiken voor de taken, bedoeld in [hoofdstuk 16b van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16b), dan wel gegevens of informatie verkregen op grond van de taken, bedoeld in hoofdstuk 16b van de Wet milieubeheer, gebruiken voor de taak, bedoeld in deze afdeling.
 
-##### Artikel 71s
+#### Artikel 71s
 
 Het bestuur van de Nederlandse emissieautoriteit verstrekt de inspecteur en de ontvanger de gegevens die noodzakelijk zijn voor de uitvoering van de CO2-heffing industrie.
 
@@ -2573,7 +2546,7 @@ Het bestuur van de Nederlandse emissieautoriteit verstrekt de inspecteur en de o
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 71a
+#### Artikel 71a
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -2587,27 +2560,27 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - e. **elektriciteitsemissieverslag:** elektriciteitsemissieverslag als bedoeld in [artikel 16a.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16a.1).
 
-##### Artikel 71b
+#### Artikel 71b
 
 Onder de naam **minimum CO2-prijs elektriciteitsopwekking** wordt een belasting geheven ter zake van de emissie van broeikasgas als gevolg van de opwekking van elektriciteit.
 
-##### Artikel 71c
+#### Artikel 71c
 
 1. De belasting wordt geheven van degene die een broeikasgasinstallatie exploiteert. De exploitant van een broeikasgasinstallatie is de exploitant, bedoeld in [artikel 16.11, eerste lid, tweede zin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.11).
 
 2. Indien de werking van een broeikasgasinstallatie is beëindigd, wordt de belasting geheven van degene die als laatste de broeikasgasinstallatie heeft geëxploiteerd.
 
-##### Artikel 71d
+#### Artikel 71d
 
 1. De belasting wordt berekend over het aantal ton kooldioxide-equivalent dat in de lucht is veroorzaakt overeenkomstig het elektriciteitsemissieverslag van de broeikasgasinstallatie.
 
 2. In afwijking van het eerste lid wordt, indien de emissieautoriteit ambtshalve de elektriciteitsjaarvracht heeft vastgesteld als bedoeld in [artikel 16a.8, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16a.8) en die vaststelling is onherroepelijk geworden, de belasting berekend over het aantal ton kooldioxide-equivalent dat in de lucht is veroorzaakt overeenkomstig die vaststelling.
 
-##### Artikel 71e
+#### Artikel 71e
 
 De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasgas plaatsvindt.
 
-##### Artikel 71f
+#### Artikel 71f
 
 1. Het tarief bedraagt per ton kooldioxide-equivalent: € 0.
 
@@ -2639,7 +2612,7 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasga
 
 - –. de kalenderjaren vanaf 2030: € 31,90.
 
-##### Artikel 71g
+#### Artikel 71g
 
 1. Voor de heffing en invordering van de belasting wordt voor de toepassing van de Algemene wet inzake rijksbelastingen, de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de op die wetten berustende bepalingen onder rijksbelastingdienst verstaan de Dienst Nederlandse Emissieautoriteit. Hierbij staat deze dienst onder het gezag van de Minister van Financiën.
 
@@ -2671,7 +2644,7 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van broeikasga
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 71aa
+#### Artikel 71aa
 
 Dit hoofdstuk is niet van toepassing op broeikasgasinstallaties van een glastuinbouwbedrijf of energiebedrijf voor glastuinbouw waarop [hoofdstuk VIC](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIC&z=2026-01-01&g=2026-01-01) van toepassing is.
 
@@ -2691,7 +2664,7 @@ Dit hoofdstuk is niet van toepassing op broeikasgasinstallaties van een glastuin
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 71t
+#### Artikel 71t
 
 1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -2709,7 +2682,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een glastuinbouwbedrijf of energiebedrijf voor de glastuinbouw.
 
-##### Artikel 71ta
+#### Artikel 71ta
 
 1. Dit hoofdstuk is niet van toepassing op een glastuinbouwbedrijf dat in het gehele tijdvak:
 
@@ -2727,17 +2700,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de toepassing van dit artikel.
 
-##### Artikel 71u
+#### Artikel 71u
 
 Onder de naam CO2-heffing glastuinbouw wordt een belasting geheven ter zake van de emissie van kooldioxide.
 
-##### Artikel 71v
+#### Artikel 71v
 
 1. De CO2-heffing glastuinbouw wordt geheven van de exploitant van het glastuinbouwbedrijf, dan wel de exploitant van het energiebedrijf voor glastuinbouw.
 
 2. De exploitant is de rechtspersoon of natuurlijke persoon die het glastuinbouwbedrijf dan wel het energiebedrijf voor glastuinbouw als onderneming drijft.
 
-##### Artikel 71w
+#### Artikel 71w
 
 1. De belasting wordt berekend over het aantal ton kooldioxide dat is veroorzaakt op basis van het aantal normaalkubiekemeters aardgas dat door het glastuinbouwbedrijf of het energiebedrijf voor glastuinbouw is verstookt.
 
@@ -2745,11 +2718,11 @@ Onder de naam CO2-heffing glastuinbouw wordt een belasting geheven ter zake van 
 
 3. De belastingplichtige monitort de hoeveelheid aardgas die is verstookt overeenkomstig bij ministeriële regeling te stellen regels.
 
-##### Artikel 71x
+#### Artikel 71x
 
 De belasting wordt verschuldigd op het tijdstip waarop de emissie van kooldioxide plaatsvindt.
 
-##### Artikel 71y
+#### Artikel 71y
 
 1. Het tarief bedraagt per ton kooldioxide voor:
 
@@ -2769,7 +2742,7 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van kooldioxid
 
 ### Afdeling 4. Overig
 
-##### Artikel 71z
+#### Artikel 71z
 
 1. In afwijking van de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) worden de in een tijdvak verschuldigd geworden belasting voldaan en de daarop betrekking hebbende aangifte gedaan binnen een door de inspecteur gestelde termijn van ten minste drie maanden na het einde van het tijdvak.
 
@@ -2801,11 +2774,11 @@ De belasting wordt verschuldigd op het tijdstip waarop de emissie van kooldioxid
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 71ha
+#### Artikel 71ha
 
 Indien een afvalverbrandingsinstallatie tevens een broeikasgasinstallatie is, zijn de bepalingen van dit hoofdstuk met betrekking tot afvalverbrandingsinstallaties van toepassing.
 
-##### Artikel 24a
+#### Artikel 24a
 
 1. Voor de toepassing van [artikel 24, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=24&z=2026-01-01&g=2026-01-01), stelt de kennisgever, indien hij niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft, een fiscaal vertegenwoordiger aan. De fiscaal vertegenwoordiger treedt namens hem op en treedt in zijn plaats met betrekking tot alle rechten en verplichtingen die hij heeft inzake de belasting.
 
