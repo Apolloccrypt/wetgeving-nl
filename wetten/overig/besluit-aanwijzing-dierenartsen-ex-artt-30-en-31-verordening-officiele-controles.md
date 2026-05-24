@@ -2,8 +2,8 @@
 title: "Besluit aanwijzing dierenartsen ex artt. 30 en 31 Verordening officiële controles"
 identifier: "BWBR0042889"
 categorie: "Overig"
-publicatiedatum: 2021-07-16
-laatste_update: 2021-07-16
+publicatiedatum: 2026-05-22
+laatste_update: 2026-05-23
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0042889"
 ---
@@ -14,7 +14,7 @@ Gelet op verordening (EU) nr. 2017/625 van het Europees Parlement en de Raad van
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,18 +22,24 @@ In dit besluit wordt verstaan onder:
 
 - **gedelegeerde verordening (EU) nr. 2019/624:** gedelegeerde verordening (EU) nr. 2019/624 van de commissie van 8 februari 2019 betreffende specifieke voorschriften voor de uitvoering van officiële controles van de productie van vlees en voor de productie- en de heruitzettingsgebieden van levende tweekleppige weekdieren overeenkomstig Verordening (EU) 2017/625 van het Europees Parlement en de Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Iedere dierenarts die is geregistreerd overeenkomstig [artikel 4.3, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3), wordt aangewezen als natuurlijk persoon als bedoeld in de artikel 30 en 31, tweede lid, van verordening (EU) nr. 2017/625 voor het verrichten van de volgende taken:
 
-- a. de keuring, bedoeld in artikel 4 van gedelegeerde [verordening (EU) nr. 2019/624](32524R2019); en
+- a. de keuring, bedoeld in artikel 4 van gedelegeerde [verordening (EU) nr. 2019/624](32019R0624), voor zover de keuring betrekking heeft op een voor het overig gezond dier dat een ongeval heeft gehad waardoor het om welzijnsredenen niet naar het slachthuis kon worden vervoerd; en
 
 - b. werkzaamheden die onder verantwoordelijkheid en in opdracht van de Nederlandse Voedsel- en Warenautoriteit worden uitgevoerd in het kader van opsporing, preventie en bestrijding van besmettelijke dierziekten als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&artikel=2.1) en [2.2 van de Regeling diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&artikel=2.2) en [artikel 3a.1 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3a.1).
 
 2. Indien een dierenarts als bedoeld in het eerste lid niet voldoet aan artikel 30, 31, tweede lid, of 32 van verordening (EU) nr. 2017/625, besluit de minister om een dierenarts van het verrichten van een of meer taken als bedoeld in het eerste lid uit te sluiten.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 14 december 2019.
+
+Dit besluit wordt bekend gemaakt door plaatsing in de Staatscourant.
+
+##### Artikel 2a
+
+Dit besluit wordt aangehaald als: Besluit aanwijzing dierenartsen ex artt. 30 en 31 Verordening officiële controles.
 
 Dit besluit wordt bekend gemaakt door plaatsing in de Staatscourant.
