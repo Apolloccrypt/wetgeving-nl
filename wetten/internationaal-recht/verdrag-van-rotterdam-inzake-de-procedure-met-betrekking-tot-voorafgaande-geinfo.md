@@ -1,37 +1,13 @@
 ---
 title: "Verdrag van Rotterdam inzake de procedure met betrekking tot voorafgaande geïnformeerde toestemming ten aanzien van bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel"
 identifier: "BWBV0001432"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-10-22"
-last_updated: "2023-10-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001432"
-soort: "verdrag"
-stam_id: "10000206973"
-version_id: "10000220142"
-internal_id: "C10006989461"
-label_id: "10000207454"
-original_entry_into_force: "2004-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001432/2023-10-22/0"
-intitule_bron: "Trb.1999-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-04-20"
-intitule_published: "1999-02-15"
-intitule_in_force: "2004-01-23"
-intitule_status: "goed"
-original_publication: "Trb.1999-30"
-original_signed_date: "2000-04-20"
-original_published_date: "1999-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-30"
-entry_into_force_date: "2004-02-24"
-jci_1_3: "jci1.3:c:BWBV0001432&z=2023-10-22&g=2023-10-22"
-jci_1_0: "1.0:c:BWBV0001432&g=2023-10-22"
-citeertitel_status: "officieel"
-signed_date: "2000-04-20"
-entry_into_force: "2004-02-24"
+categorie: "Internationaal recht"
+publicatiedatum: 2023-10-22
+laatste_update: 2023-10-22
+status: geldig
+bron: "https://wetten.overheid.nl/BWBV0001432"
 ---
+
 # Verdrag van Rotterdam inzake de procedure met betrekking tot voorafgaande geïnformeerde toestemming ten aanzien van bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel
 
 De Verdragsluitende Partijen,
@@ -60,11 +36,11 @@ Vastbesloten de gezondheid van de mens, die de gezondheid van consumenten en wer
 
 Zijn het volgende overeengekomen:
 
-##### Artikel 1. Doelstelling
+#### Artikel 1. Doelstelling
 
 De doelstelling van dit Verdrag is de Partijen aan te zetten tot gedeelde verantwoordelijkheid en gezamenlijke inspanningen in de internationale handel in bepaalde gevaarlijke chemische stoffen teneinde de gezondheid van de mens en het milieu tegen mogelijke schade te beschermen en bij te dragen aan een milieu verantwoord gebruik van deze stoffen door de uitwisseling van gegevens over hun eigenschappen te vergemakkelijken, door te voorzien in een nationale besluitvormingsprocedure betreffende de in- en uitvoer ervan en door de betrokken besluiten aan de andere Partijen mede te delen.
 
-##### Artikel 2. Begripsomschrijvingen
+#### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -86,7 +62,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - i. „Commissie ter beoordeling van chemische stoffen”, het in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=18&z=2023-10-22&g=2023-10-22), bedoelde hulporgaan.
 
-##### Artikel 3. Toepassingsgebied van het Verdrag
+#### Artikel 3. Toepassingsgebied van het Verdrag
 
 1. Dit Verdrag geldt voor:
 
@@ -116,7 +92,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - ii. door een privé-persoon voor persoonlijk gebruik in een voor dergelijk gebruik redelijk geachte hoeveelheid.
 
-##### Artikel 4. Aangewezen nationale autoriteiten
+#### Artikel 4. Aangewezen nationale autoriteiten
 
 1. Elke Partij wijst één of meer nationale autoriteiten aan die bevoegd zijn om namens haar de bij dit Verdrag vereiste administratieve taken te vervullen.
 
@@ -126,7 +102,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Het Secretariaat stelt de Partijen onverwijld in kennis van de op grond van het derde lid ontvangen kennisgevingen.
 
-##### Artikel 5. Procedures voor verboden of aan strenge beperkingen onderworpen chemische stoffen
+#### Artikel 5. Procedures voor verboden of aan strenge beperkingen onderworpen chemische stoffen
 
 1. Elke Partij die definitieve regelgeving heeft vastgesteld, stelt het Secretariaat daarvan schriftelijk in kennis. Deze kennisgeving dient zo snel mogelijk te geschieden en in elk geval binnen 90 dagen na de datum waarop de definitieve regelgeving van kracht is geworden, en zij bevat, indien beschikbaar, de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2023-10-22&g=2023-10-22) bedoelde informatie.
 
@@ -140,7 +116,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. De Commissie ter beoordeling van chemische stoffen beoordeelt de in die kennisgevingen meegedeelde informatie en doet, met inachtneming van de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2023-10-22&g=2023-10-22) vermelde criteria, een aanbeveling aan de Conferentie van de Partijen betreffende de vraag of voor de chemische stof de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en deze bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) moet worden opgenomen.
 
-##### Artikel 6. Procedures voor zeer gevaarlijke pesticideformuleringen
+#### Artikel 6. Procedures voor zeer gevaarlijke pesticideformuleringen
 
 1. Een ontwikkelingsland of een land met een overgangseconomie dat Partij is bij het Verdrag en dat als gevolg van het gebruik op zijn grondgebied, onder de gewone gebruiksvoorwaarden, van een zeer gevaarlijke pesticideformulering problemen ondervindt, kan aan het Secretariaat voorstellen de zeer gevaarlijke pesticideformulering in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) op te nemen. Bij het opstellen van haar voorstel kan de Partij een beroep doen op technische expertise uit alle mogelijke bronnen. In het voorstel wordt de in [deel 1 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=1&z=2023-10-22&g=2023-10-22) bedoelde informatie opgenomen.
 
@@ -152,7 +128,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. De Commissie ter beoordeling van chemische stoffen beoordeelt de in het voorstel vervatte informatie en de verzamelde aanvullende informatie en doet met inachtneming van de in [deel 3 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=3&z=2023-10-22&g=2023-10-22) vermelde criteria een aanbeveling aan de Conferentie van de Partijen betreffende de vraag of voor de zeer gevaarlijke pesticideformulering de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) moet worden opgenomen.
 
-##### Artikel 7. Lijst van chemische stoffen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22)
+#### Artikel 7. Lijst van chemische stoffen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22)
 
 1. Voor elke chemische stof waarvoor de Commissie ter beoordeling van chemische stoffen heeft besloten opneming in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) aan te bevelen, stelt deze Commissie een ontwerpleidraad voor een besluit op. Dit ontwerp behoort ten minste gebaseerd te zijn op de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2023-10-22&g=2023-10-22) of, naar gelang van het geval, in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2023-10-22&g=2023-10-22) bedoelde gegevens, en bevat informatie over de toepassingen van de chemische stof in een andere categorie dan die waarvoor de definitieve regelgeving geldt.
 
@@ -160,11 +136,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Wanneer is besloten een chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) op te nemen en de bijbehorende ontwerpleidraad voor een besluit door de Conferentie van de Partijen is goedgekeurd, geeft het Secretariaat deze informatie onmiddellijk aan alle Partijen door.
 
-##### Artikel 8. Chemische stoffen in het kader van de vrijwillig toegepaste procedure van Voorafgaande Geïnformeerde Toestemming
+#### Artikel 8. Chemische stoffen in het kader van de vrijwillig toegepaste procedure van Voorafgaande Geïnformeerde Toestemming
 
 Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) is opgenomen maar waarvoor de procedure van de Voorafgaande Geïnformeerde Toestemming op vrijwillige basis is toegepast vóór de eerste vergadering van de Conferentie van de Partijen, besluit de Conferentie van de Partijen op die vergadering deze chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) op te nemen, voor zover zij er zeker van is dat aan alle voor opneming in [die Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) geldende voorwaarden is voldaan.
 
-##### Artikel 9. Schrappen van chemische stoffen uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22)
+#### Artikel 9. Schrappen van chemische stoffen uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22)
 
 1. Als een Partij bij het Secretariaat informatie indient die niet beschikbaar was op het ogenblik waarop is besloten de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) op te nemen, en uit de informatie blijkt dat opname in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) mogelijk niet langer is gerechtvaardigd, gelet op de ter zake geldende criteria van [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2023-10-22&g=2023-10-22) of, naar gelang van het geval, [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2023-10-22&g=2023-10-22), geeft het Secretariaat deze informatie door aan de Commissie ter beoordeling van chemische stoffen.
 
@@ -174,7 +150,7 @@ Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jc
 
 4. Als de Conferentie van de Partijen heeft besloten een chemische stof uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) te schrappen en zij de gewijzigde ontwerpleidraad voor een besluit heeft goedgekeurd, deelt het Secretariaat deze informatie onmiddellijk aan alle Partijen mee.
 
-##### Artikel 10. Verplichtingen met betrekking tot de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) opgenomen chemische stoffen
+#### Artikel 10. Verplichtingen met betrekking tot de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) opgenomen chemische stoffen
 
 1. Elke Partij treft de nodige wettelijke of bestuursrechtelijke maatregelen om ervoor te zorgen dat tijdig een besluit kan worden genomen betreffende de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) vermelde chemische stoffen.
 
@@ -218,7 +194,7 @@ Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jc
 
 10. Het Secretariaat stelt om de zes maanden alle Partijen in kennis van de antwoorden die het heeft ontvangen. Die informatie omvat, indien voorhanden, een beschrijving van de wettelijke of bestuursrechtelijke maatregelen waarop de besluiten gebaseerd zijn. Het Secretariaat meldt de Partijen bovendien de gevallen waarin geen antwoord is ingezonden.
 
-##### Artikel 11. Verplichtingen met betrekking tot de uitvoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) vermelde chemische stoffen
+#### Artikel 11. Verplichtingen met betrekking tot de uitvoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) vermelde chemische stoffen
 
 1. Elke uitvoerende Partij:
 
@@ -242,7 +218,7 @@ Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jc
 
 De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende één jaar vanaf de laatste dag van de zesde maand na de datum waarop het Secretariaat de Partijen, overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2023-10-22&g=2023-10-22), voor het eerst heeft gemeld dat een Partij er niet in geslaagd is een antwoord te zenden of dat een Partij een voorlopig antwoord zonder voorlopig besluit heeft gezonden.
 
-##### Artikel 12. Kennisgeving van uitvoer
+#### Artikel 12. Kennisgeving van uitvoer
 
 1. Indien een chemische stof die door een Partij verboden of aan strenge beperkingen onderworpen is, van het grondgebied van deze Partij wordt uitgevoerd, geeft deze Partij aan de invoerende Partij een kennisgeving van uitvoer. De kennisgeving van uitvoer bevat de in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=V&z=2023-10-22&g=2023-10-22) bedoelde informatie.
 
@@ -260,7 +236,7 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 - c. het Secretariaat dit antwoord onder de Partijen heeft verspreid overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2023-10-22&g=2023-10-22).
 
-##### Artikel 13. Bij uitgevoerde chemische stoffen te voegen informatie
+#### Artikel 13. Bij uitgevoerde chemische stoffen te voegen informatie
 
 1. De Conferentie van de Partijen moedigt de Werelddouaneorganisatie aan specifieke douanecodes van het Geharmoniseerde Systeem toe te kennen aan, naar gelang van het geval, de afzonderlijke chemische stoffen of de groepen chemische stoffen die zijn opgenomen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22). Wanneer aan een chemische stof een code is toegekend, eisen de Partijen dat die code bij uitvoer ook in het vervoersdocument voor die chemische stof wordt vermeld.
 
@@ -272,7 +248,7 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 5. De informatie op het etiket en in het veiligheidsinformatieblad moet, voor zover mogelijk, in één of meer officiële talen van de invoerende Partij worden vermeld.
 
-##### Artikel 14. Uitwisseling van informatie
+#### Artikel 14. Uitwisseling van informatie
 
 1. Elke Partij vergemakkelijkt, naar gelang van het geval en met inachtneming van de doeleinden van dit Verdrag:
 
@@ -300,7 +276,7 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 5. Elke Partij die informatie vraagt over de doorvoer over haar grondgebied van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2023-10-22&g=2023-10-22) vermelde chemische stoffen, kan deze vraag melden aan het Secretariaat, dat alle Partijen daarvan op de hoogte stelt.
 
-##### Artikel 15. Toepassing van het Verdrag
+#### Artikel 15. Toepassing van het Verdrag
 
 1. Elke Partij neemt de nodige maatregelen om op nationaal niveau de voor de daadwerkelijke toepassing van het Verdrag benodigde infrastructuur en instellingen te vestigen en te versterken. Deze maatregelen kunnen indien noodzakelijk de vaststelling of wijziging van nationale wettelijke of bestuursrechtelijke maatregelen omvatten, alsook:
 
@@ -316,15 +292,15 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 4. Niets in dit Verdrag mag worden opgevat als een beperking van het recht van de Partijen voor de gezondheid van de mens en voor het milieu strengere beschermingsmaatregelen te treffen dan op grond van dit Verdrag vereist is, voor zover deze maatregelen verenigbaar zijn met het bepaalde in dit Verdrag en in overeenstemming zijn met het internationaal recht.
 
-##### Artikel 16. Technische bijstand
+#### Artikel 16. Technische bijstand
 
 Met name rekening houdend met de behoeften van ontwikkelingslanden en landen met een overgangseconomie, werken de Partijen samen om de verlening van technische bijstand te bevorderen zodat de voor het beheer van chemische stoffen vereiste infrastructuur en capaciteit met het oog op de uitvoering van dit Verdrag worden ontwikkeld. Partijen die verder gevorderd zijn op het gebied van regulering inzake chemische stoffen behoren technische bijstand te verlenen, onder meer in de vorm van opleiding, aan de andere Partijen, voor de ontwikkeling van hun infrastructuur en capaciteit voor het beheer van chemische stoffen tijdens de volledige levensduur daarvan.
 
-##### Artikel 17. Niet-naleving
+#### Artikel 17. Niet-naleving
 
 Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures en institutionele mechanismen ontwikkeld en goedgekeurd waarmee de naleving van de bepalingen van dit Verdrag kan worden gecontroleerd en kan worden opgetreden tegen de Partijen die het Verdrag niet naleven.
 
-##### Artikel 18. Conferentie van de Partijen
+#### Artikel 18. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld.
 
@@ -352,7 +328,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 7. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke Staat die geen Partij bij dit Verdrag is, kunnen als waarnemer worden vertegenwoordigd op de vergaderingen van de Conferentie van de Partijen. Elke andere instelling of organisatie, nationaal of internationaal, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden die onder dit Verdrag vallen, en die aan het Secretariaat haar wens te kennen heeft gegeven op een vergadering van de Conferentie van de Partijen als waarnemer vertegenwoordigd te zijn, kan als zodanig worden toegelaten, tenzij ten minste één derde van de aanwezige Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers wordt geregeld in het door de Conferentie van de Partijen goedgekeurde reglement van orde.
 
-##### Artikel 19. Secretariaat
+#### Artikel 19. Secretariaat
 
 1. Hierbij wordt een Secretariaat ingesteld.
 
@@ -372,7 +348,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 4. Mocht de Conferentie van de Partijen van oordeel zijn dat het Secretariaat niet naar behoren werkt, dan kan zij met een meerderheid van drie vierde van de aanwezige en hun stem uitbrengende Partijen besluiten de taken van het Secretariaat toe te vertrouwen aan één of meer andere bevoegde internationale organisaties.
 
-##### Artikel 20. Regeling van geschillen
+#### Artikel 20. Regeling van geschillen
 
 1. Ingeval tussen Partijen een geschil ontstaat betreffende de interpretatie of de toepassing van dit Verdrag, trachten de betrokken Partijen dit geschil te regelen door middel van onderhandelingen of op een andere door henzelf te kiezen vreedzame wijze.
 
@@ -390,7 +366,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 6. Indien de Partijen bij een geschil niet dezelfde of geen enkele procedure als bedoeld in het tweede lid hebben aanvaard, en indien zij er niet in geslaagd zijn hun geschil te regelen binnen twaalf maanden na de kennisgeving van de ene Partij aan de andere dat tussen hen een geschil bestaat, wordt het geschil op verzoek van één van de betrokken Partijen aan een verzoeningscommissie voorgelegd. De verzoeningscommissie brengt een rapport uit met aanbevelingen. Uiterlijk bij de tweede vergadering van de Conferentie van de Partijen worden aanvullende procedures met betrekking tot de verzoeningscommissie opgenomen in een door de Conferentie van de Partijen goedgekeurde bijlage.
 
-##### Artikel 21. Wijzigingen van het Verdrag
+#### Artikel 21. Wijzigingen van het Verdrag
 
 1. Wijzigingen van dit Verdrag kunnen door elke Partij worden voorgesteld.
 
@@ -402,7 +378,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 5. De bekrachtiging, aanvaarding of goedkeuring van wijzigingen wordt schriftelijk meegedeeld aan de Depositaris. Overeenkomstig het in het derde lid aangenomen wijzigingen worden voor de Partijen die deze hebben aanvaard, van kracht negentig dagen nadat de akten van bekrachtiging, aanvaarding of goedkeuring door ten minste drie vierde van de Partijen zijn ingediend. Daarna worden de wijzigingen voor elke andere Partij van kracht op de negentigste dag na de datum waarop die Partij haar akte van bekrachtiging, aanvaarding of goedkeuring van die wijzigingen heeft ingediend.
 
-##### Artikel 22. Aanneming en wijziging van bijlagen
+#### Artikel 22. Aanneming en wijziging van bijlagen
 
 1. De bijlagen bij dit Verdrag maken een integrerend deel uit van het Verdrag en een verwijzing naar het Verdrag vormt tegelijkertijd een verwijzing naar de bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald.
 
@@ -428,7 +404,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 6. Indien een aanvullende bijlage of een wijziging van een bijlage verband houdt met een wijziging van dit Verdrag, treedt die aanvullende bijlage of die wijziging pas in werking wanneer de wijziging van het Verdrag van kracht wordt.
 
-##### Artikel 23. Stemrecht
+#### Artikel 23. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij dit Verdrag één stem.
 
@@ -436,11 +412,11 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 3. Voor de toepassing van dit Verdrag wordt verstaan onder „aanwezige en hun stem uitbrengende Partijen”, aanwezige Partijen die een stem voor of tegen uitbrengen.
 
-##### Artikel 24. Ondertekening
+#### Artikel 24. Ondertekening
 
 Dit Verdrag is voor ondertekening opengesteld te Rotterdam voor alle Staten en regionale organisaties voor economische integratie op 11 september 1998 en op de zetel van de Verenigde Naties te New York van 12 september 1998 tot en met 10 september 1999.
 
-##### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+#### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door Staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door Staten en regionale organisaties voor economische integratie vanaf de datum waarop het Verdrag is gesloten voor ondertekening. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Depositaris.
 
@@ -448,7 +424,7 @@ Dit Verdrag is voor ondertekening opengesteld te Rotterdam voor alle Staten en r
 
 3. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door het Verdrag geregelde aangelegenheden aan. Deze organisaties melden aan de Depositaris ook elke relevante wijziging betreffende de omvang van hun bevoegdheid, en de Depositaris stelt de Partijen daarvan in kennis.
 
-##### Artikel 26. Inwerkingtreding
+#### Artikel 26. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -456,21 +432,21 @@ Dit Verdrag is voor ondertekening opengesteld te Rotterdam voor alle Staten en r
 
 3. Voor de toepassing van het eerste en tweede lid wordt de nederlegging van een akte door een regionale organisatie voor economische integratie niet meegeteld bij de door haar lidstaten ingediende akten.
 
-##### Artikel 27. Voorbehouden
+#### Artikel 27. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-##### Artikel 28. Opzegging
+#### Artikel 28. Opzegging
 
 1. Drie jaar na de datum waarop dit Verdrag voor een Partij in werking is getreden, kan die Partij te allen tijde het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
 2. De opzegging wordt van kracht een jaar na de datum waarop de Depositaris de kennisgeving van opzegging heeft ontvangen of op een latere in de kennisgeving vermelde datum.
 
-##### Artikel 29. Depositaris
+#### Artikel 29. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties neemt de taken van Depositaris van dit Verdrag op zich.
 
-##### Artikel 30. Authentieke teksten
+#### Artikel 30. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

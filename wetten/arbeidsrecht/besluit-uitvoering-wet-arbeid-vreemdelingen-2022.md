@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 13 december 2021, houdende de herziening van het Besluit uitvoering Wet arbeid vreemdelingen (Besluit uitvoering Wet arbeid vreemdelingen 2022)"
+title: "Besluit uitvoering Wet arbeid vreemdelingen 2022"
 identifier: "BWBR0046078"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046078"
-soort: "AMvB"
-stam_id: "16199133"
-version_id: "28271432"
-internal_id: "C39858801"
-label_id: "16127884"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046078/2026-01-01/0"
-intitule_bron: "Stb.2021-608"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-13"
-intitule_published: "2021-12-16"
-intitule_in_force: "2021-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2021-608"
-original_signed_date: "2021-12-13"
-original_published_date: "2021-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-608"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0046078&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0046078&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit uitvoering Wet arbeid vreemdelingen 2022"
-signed_date: "2021-12-13"
-entry_into_force: "2022-01-01"
+categorie: "Arbeidsrecht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046078"
 ---
+
 # Besluit van 13 december 2021, houdende de herziening van het Besluit uitvoering Wet arbeid vreemdelingen (Besluit uitvoering Wet arbeid vreemdelingen 2022)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 juli 2021, nr. 2021-0000112895, gedaan in overeenstemming met de Staatssecretaris van Justitie en Veiligheid;
@@ -50,7 +24,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet arbeid vreemdeling
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1.1. Definities
+#### Artikel 1.1. Definities
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,7 +34,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Kennis en talent
 
-##### Artikel 2.1. Kennismigranten, onderzoekers, artsen in opleiding en gastdocenten
+#### Artikel 2.1. Kennismigranten, onderzoekers, artsen in opleiding en gastdocenten
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die rechtmatig in Nederland verblijft op grond van [artikel 8, onderdelen a, b, d, e, k of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of een vreemdeling die in het bezit is van een machtiging tot voorlopig verblijf die overeenkomt met het verblijfsdoel «kennismigrant» waarvoor een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) is aangevraagd en die:
 
@@ -92,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Het loon, bedoeld in het eerste lid, aanhef en onder a, is ten minste marktconform als bedoeld in [artikel 3.30a van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30a) en wordt door de werkgever over een periode van ten hoogste een maand, bijgeschreven op een bankrekening, bestemd voor girale betaling, op naam van de vreemdeling.
 
-##### Artikel 2.2. Hooggekwalificeerde banen Europese blauwe kaart
+#### Artikel 2.2. Hooggekwalificeerde banen Europese blauwe kaart
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die houder is van een door Onze Minister van Justitie en Veiligheid ter uitvoering van artikel 9 van [Richtlijn (EU) 2021/1883](32021L1883) van het Europees Parlement en de Raad van 20 oktober 2021 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, en tot intrekking van [Richtlijn 2009/50/EG](32009L0050) van de Raad (PbEU 2021, L 382/1) afgegeven Europese blauwe kaart, dan wel van een geldige machtiging tot voorlopig verblijf onder een beperking verband houdend met verblijf als houder van een Europese blauwe kaart, voor zover die vreemdeling:
 
@@ -132,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Het loon, bedoeld in het eerste lid, aanhef en onder b, wordt door de werkgever over een periode van ten hoogste een maand, bijgeschreven op een bankrekening, bestemd voor girale betaling, op naam van de vreemdeling.
 
-##### Artikel 2.3. Richtlijn Onderzoekers (EU) 2016/801
+#### Artikel 2.3. Richtlijn Onderzoekers (EU) 2016/801
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die houder is van een verblijfsvergunning voor bepaalde tijd, als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), verleend onder een beperking verband houdend met onderzoek in de zin van [richtlijn (EU) 2016/801](32016L0801) van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten (herschikking) (PbEU 2016, L 132) of een vreemdeling die in het bezit is van een machtiging tot voorlopig verblijf die overeenkomt met voornoemd verblijfsdoel, die in Nederland wordt tewerkgesteld bij een krachtens [artikel 2c van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2c) als referent erkende onderzoeksinstelling in de zin van die richtlijn.
 
@@ -140,7 +114,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het tweede lid is van overeenkomstige toepassing op een vreemdeling die in afwachting is van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning regulier voor bepaalde tijd voor onderzoek in de zin van de richtlijn, bedoeld in het eerste lid, en tevens houder is van een door een andere lidstaat van de Europese Unie afgegeven verblijfsvergunning voor onderzoek in de zin van die richtlijn.
 
-##### Artikel 2.4. Onderzoek of onderwijs
+#### Artikel 2.4. Onderzoek of onderwijs
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
@@ -148,7 +122,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 - b. onderwijs geeft of onderzoek verricht aan een universiteit, hogeschool of instelling die gelieerd is aan of werkzaam is op het terrein van een universiteit, hogeschool of instelling voor hoger internationaal onderwijs.
 
-##### Artikel 2.5. Student aan Academie van Bouwkunst
+#### Artikel 2.5. Student aan Academie van Bouwkunst
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die beschikt over een verblijfsvergunning regulier onder de beperking in verband met studie als bedoeld in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) of die rechtmatig verblijf heeft op grond van [artikel 8, onder e, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en arbeid verricht die noodzakelijk is voor het opdoen van werkervaring in het kader van een opleiding aan een Academie van Bouwkunst waarbij werk en studie worden gecombineerd, mits:
 
@@ -164,7 +138,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 2. Dit artikel is van toepassing op de instroom van de eerste 50 studenten per studiejaar voor de Academies van Bouwkunst gezamenlijk, die niet de nationaliteit bezitten van een staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel van Zwitserland.
 
-##### Artikel 2.6. Overplaatsing binnen onderneming en ICT Richtlijn (2014/66/EU)
+#### Artikel 2.6. Overplaatsing binnen onderneming en ICT Richtlijn (2014/66/EU)
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling, voor zover die arbeid verricht in het kader van een overplaatsing binnen een onderneming, indien hij:
 
@@ -176,7 +150,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 2. Het verbod is eveneens niet van toepassing met betrekking tot een vreemdeling die arbeid verricht als bedoeld in het eerste lid, en daarnaast arbeid als zelfstandige verricht.
 
-##### Artikel 2.7. Pilot startende innovatieve ondernemingen
+#### Artikel 2.7. Pilot startende innovatieve ondernemingen
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die op basis van een arbeidsovereenkomst werkzaamheden verricht voor een onderneming die naar het oordeel van onze Minister van Justitie en Veiligheid startend en innovatief is met schaalbare bedrijfsactiviteiten, en:
 
@@ -196,7 +170,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 ### Hoofdstuk 3. Stage en uitwisseling
 
-##### Artikel 3.1. Stagiairs
+#### Artikel 3.1. Stagiairs
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die in Nederland:
 
@@ -228,7 +202,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 - c. de stageovereenkomst aanwezig is bij de werkgever op de stageplek.
 
-##### Artikel 3.2. Stage door asielzoekers of minderjarige vreemdeling onder medische behandeling
+#### Artikel 3.2. Stage door asielzoekers of minderjarige vreemdeling onder medische behandeling
 
 1. Het verbod is niet van toepassing op de vreemdeling die:
 
@@ -238,7 +212,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 2. Het eerste lid is van toepassing op de vreemdeling die in Nederland een beroepsopleiding volgt bij een instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of een instelling die een beroepsopleiding verzorgt waarvan op grond van [artikel 1.4.1. Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) aan de met goed gevolg afgelegde examens of onderdelen van examens een diploma of certificaat is verbonden, en in het kader van die beroepsopleiding te werk wordt gesteld op grond van een beroepspraktijkvormingsovereenkomst als bedoeld in [artikel 7.2.8. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8), dan wel in Nederland in het kader van een opleiding aan een hogeschool in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) te werk wordt gesteld op de grond van een stageovereenkomst, gesloten tussen de hogeschool, de werkgever en hemzelf.
 
-##### Artikel 3.3. Au pairs en uitwisselingsprogramma’s
+#### Artikel 3.3. Au pairs en uitwisselingsprogramma’s
 
 Het verbod is voor een periode van maximaal één jaar niet van toepassing met betrekking tot een vreemdeling die rechtmatig in Nederland verblijft in de zin van [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder de beperking «uitwisseling, al dan niet in het kader van een verdrag», bedoeld in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4), indien:
 
@@ -262,13 +236,13 @@ Het verbod is voor een periode van maximaal één jaar niet van toepassing met b
 
 - d. er sprake is van deelname aan een door Onze Minister van Justitie en Veiligheid goedgekeurd uitwisselingsprogramma van een particuliere uitwisselingsorganisatie en verblijft in het gastgezin, bestaande uit minimaal 2 personen voor wie de vreemdeling niet eerder werkzaamheden heeft verricht.
 
-##### Artikel 3.4. Actieprogramma voor werkervaring van de Europese Unie
+#### Artikel 3.4. Actieprogramma voor werkervaring van de Europese Unie
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die tot Nederland wordt toegelaten om arbeid te verrichten in het kader van een actieprogramma van de Europese Unie dat bekend gemaakt is in het publicatieblad van de Europese Unie voor de duur zoals is bepaald in het programma.
 
 ### Hoofdstuk 4. Incidentele arbeid
 
-##### Artikel 4.1. Montage, tentoonstellingen, controle en certificering en ontvangen van training of instructie
+#### Artikel 4.1. Montage, tentoonstellingen, controle en certificering en ontvangen van training of instructie
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die zijn hoofdverblijf buiten Nederland heeft en arbeid verricht met een maximale duur van 12 aaneengesloten weken binnen een tijdbestek van 36 weken uitsluitend bestaande uit:
 
@@ -282,13 +256,13 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die tot Ned
 
 2. Indien een vreemdeling wordt vervangen door een andere vreemdeling die op dezelfde plaats hetzelfde of vergelijkbaar werk uitvoert, is de maximale duur van arbeid, bedoeld in het eerste lid, de totale duur van de perioden van arbeid van de afzonderlijke vreemdelingen gezamenlijk.
 
-##### Artikel 4.2. Zakelijke besprekingen of sluiten van overeenkomsten
+#### Artikel 4.2. Zakelijke besprekingen of sluiten van overeenkomsten
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die zijn hoofdverblijf buiten Nederland heeft en arbeid verricht met een maximale duur van 13 weken binnen een tijdsbestek van 52 weken uitsluitend bestaande uit het voeren van zakelijke besprekingen of het sluiten van overeenkomsten met bedrijven en instellingen.
 
 2. Indien een vreemdeling wordt vervangen door een andere vreemdeling die op dezelfde plaats hetzelfde of vergelijkbaar werk uitvoert, is de maximale duur van arbeid, bedoeld in het eerste lid, de totale duur van de perioden van arbeid van de afzonderlijke vreemdelingen gezamenlijk.
 
-##### Artikel 4.3. Cultuur, sport en huishouding toeristen
+#### Artikel 4.3. Cultuur, sport en huishouding toeristen
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die zijn hoofdverblijf buiten Nederland heeft en arbeid verricht met een maximale duur van 6 aaneengesloten weken binnen een tijdbestek van 13 weken uitsluitend bestaande uit:
 
@@ -304,11 +278,11 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die tot Ned
 
 3. Indien een vreemdeling wordt vervangen door een andere vreemdeling die op dezelfde plaats hetzelfde of vergelijkbaar werk uitvoert, is de maximale duur van arbeid, bedoeld in het eerste en tweede lid, de totale duur van de perioden van arbeid van de afzonderlijke vreemdelingen gezamenlijk.
 
-##### Artikel 4.4. Ontwikkelingssamenwerkingsproject
+#### Artikel 4.4. Ontwikkelingssamenwerkingsproject
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die in het kader van een ontwikkelingssamenwerkingsproject voor maximaal vier aaneengesloten weken per kalenderjaar naar Nederland komt om in samenwerking met Nederlandse ondernemers, vakspecialisten of experts van het project uitzending managers kennis en ervaring op te doen inzake de bedrijfsvoering van bedrijven, en zich door hen laat adviseren.
 
-##### Artikel 4.5. Internationale vervoermiddelen en schepelingendiensten
+#### Artikel 4.5. Internationale vervoermiddelen en schepelingendiensten
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die zijn hoofdverblijf buiten Nederland heeft en:
 
@@ -316,7 +290,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die zijn ho
 
 - b. als lid van de bemanning schepelingendienst verricht aan boord van een zeeschip als bedoeld in [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2), met uitzondering van oorlogsschepen, aan het Rijk of enig openbaar lichaam toebehorende schepen die tot de openbare dienst zijn bestemd, reddingsvaartuigen en zeevissersschepen, voor zover het zeeschip niet uitsluitend als binnenschip wordt geëxploiteerd op de Nederlandse binnenwateren, dan wel als werktuig voor weg en waterbouw binnen Nederland en voor zover de vreemdeling niet behoort tot de categorie vreemdelingen, bedoeld in [artikel 4.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.5a&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 4.6. Grensoverschrijdende dienstverlening
+#### Artikel 4.6. Grensoverschrijdende dienstverlening
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die in het kader van grensoverschrijdende dienstverlening tijdelijk in Nederland arbeid verricht in dienst van een werkgever die buiten Nederland is gevestigd in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, mits:
 
@@ -330,7 +304,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die in het 
 
 ### Hoofdstuk 5. Internationaal
 
-##### Artikel 5.1. Buitenlandse betrekkingen
+#### Artikel 5.1. Buitenlandse betrekkingen
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
@@ -346,7 +320,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 - f. die als burger werkzaam is in dienst van een vreemde mogendheid ten behoeve van een instelling die in verband met de aanwezigheid van een Geallieerd Hoofdkwartier in Nederland is gevestigd.
 
-##### Artikel 5.2. Internationaal handelsverkeer
+#### Artikel 5.2. Internationaal handelsverkeer
 
 1. Het verbod is niet van toepassing met betrekking tot de vreemdeling die werkzaamheden verricht binnen een traject in het kader van het internationale handelsverkeer, waarbij de vreemdeling de werkzaamheden uitoefent in de hoedanigheid van:
 
@@ -428,11 +402,11 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 ### Hoofdstuk 6. Asielzoekers en vreemdelingen in procedure
 
-##### Artikel 6.1. Vreemdeling met verblijfsvergunning asiel voor bepaalde tijd
+#### Artikel 6.1. Vreemdeling met verblijfsvergunning asiel voor bepaalde tijd
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling, die beschikt over een vergunning tot verblijf op grond van [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
 
-##### Artikel 6.2. Asielaanvraag langer dan 6 maanden in behandeling
+#### Artikel 6.2. Asielaanvraag langer dan 6 maanden in behandeling
 
 1. In afwijking van [artikel 8, eerste lid, onderdelen a, b, e en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) mag een vreemdeling als bedoeld in artikel 8, tweede lid, van die wet arbeid verrichten indien:
 
@@ -444,11 +418,11 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling, die beschi
 
 2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het eerste lid, onder a.
 
-##### Artikel 6.3. Vreemdeling die verblijft met instemming
+#### Artikel 6.3. Vreemdeling die verblijft met instemming
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling van wie de krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) afgegeven vergunning met daarop de aantekening, bedoeld in artikel 4, eerste lid, van de wet, is ingetrokken en die met instemming van Onze Minister van Justitie en Veiligheid in Nederland verblijft en beschikt over een geldige sticker in het paspoort met de aantekening «arbeid is vrij toegestaan».
 
-##### Artikel 6.4. Vreemdeling in afwachting van beslissing op een aanvraag verlenging gecombineerde vergunning
+#### Artikel 6.4. Vreemdeling in afwachting van beslissing op een aanvraag verlenging gecombineerde vergunning
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling:
 
@@ -462,7 +436,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling:
 
 ### Hoofdstuk 7. Overige categorieën
 
-##### Artikel 7.1. Gezinsleden
+#### Artikel 7.1. Gezinsleden
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan:
 
@@ -490,31 +464,31 @@ Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wette
 
 - d. de afhankelijke gezinsleden van de in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.5&z=2026-01-01&g=2026-01-01) genoemde vreemdelingen.
 
-##### Artikel 7.2. Vreemdeling met eerdere aantekening [artikel 4 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4)
+#### Artikel 7.2. Vreemdeling met eerdere aantekening [artikel 4 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4)
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling, met uitzondering van de vreemdeling, genoemd in de [artikelen 7.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2026-01-01&g=2026-01-01), en [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.4&z=2026-01-01&g=2026-01-01), die in het verleden heeft beschikt over een krachtens de [Vreemdelingenwet of Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) afgegeven vergunning met daarop een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4), die is afgegeven op grond van het tweede lid van dat artikel en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd.
 
-##### Artikel 7.3. Ononderbroken periode zeevaart of mijnbouw
+#### Artikel 7.3. Ononderbroken periode zeevaart of mijnbouw
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling die rechtmatig in Nederland verblijft, in de zin van [artikel 8, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien de vreemdeling gedurende ononderbroken periode van zeven jaar direct voorafgaande aan de vergunning tot verblijf werkzaam is geweest op zeeschepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren of op mijnbouwinstallaties op het continentaal plat als bedoeld in [artikel 1, onderdelen o en c, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1).
 
-##### Artikel 7.4. Zoekjaar
+#### Artikel 7.4. Zoekjaar
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling die beschikt over een verblijfsvergunning regulier voor bepaalde tijd onder de beperking «het zoeken naar en verrichten van arbeid al dan niet in loondienst» die is verleend op grond van [artikel 3.42 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.42).
 
-##### Artikel 7.5. Humanitaire gronden
+#### Artikel 7.5. Humanitaire gronden
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling die rechtmatig in Nederland verblijft in de zin van [artikel 8, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), onder een beperking «tijdelijke humanitaire gronden» of «niet-tijdelijke humanitaire gronden» als bedoeld in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4).
 
-##### Artikel 7.6. Economisch niet-actieve langdurige ingezetene
+#### Artikel 7.6. Economisch niet-actieve langdurige ingezetene
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling die rechtmatig in Nederland verblijft in de zin van [artikel 8, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), onder de beperking «verblijf als economisch niet-actieve langdurig ingezetene», genoemd in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4).
 
-##### Artikel 7.7. In afwachting van verzoek om Nederlanderschap
+#### Artikel 7.7. In afwachting van verzoek om Nederlanderschap
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling die rechtmatig in Nederland verblijft in de zin van [artikel 8, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), onder de beperking «het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17)», genoemd in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4).
 
-##### Artikel 7.8. Vrijwilligerswerk
+#### Artikel 7.8. Vrijwilligerswerk
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
@@ -522,7 +496,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die:
 
 - b. naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen als vrijwilliger deelneemt aan arbeid die gebruikelijk onbetaald wordt verricht, geen winstoogmerk heeft en een algemeen maatschappelijk doel dient.
 
-##### Artikel 7.9. Arbeid in het kader van strafrechtelijke veroordeling
+#### Artikel 7.9. Arbeid in het kader van strafrechtelijke veroordeling
 
 Het verbod is niet van toepassing met betrekking tot een vreemdeling die rechtmatig verblijf heeft op grond van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en die:
 
@@ -534,11 +508,11 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die rechtma
 
 ### Hoofdstuk 8. Verboden en quota tewerkstellingsvergunning of gecombineerde vergunning
 
-##### Artikel 8.1. Seksuele handelingen
+#### Artikel 8.1. Seksuele handelingen
 
 Een tewerkstellingsvergunning of gecombineerde vergunning wordt geweigerd voor werkzaamheden geheel of ten dele bestaande in het verrichten van seksuele handelingen met derden of voor derden.
 
-##### Artikel 8.2. Noord-Koreaanse nationaliteit
+#### Artikel 8.2. Noord-Koreaanse nationaliteit
 
 1. Ten behoeve van vreemdelingen met de Noord-Koreaanse nationaliteit worden geen tewerkstellingsvergunningen of gecombineerde vergunningen verleend.
 
@@ -548,13 +522,13 @@ Een tewerkstellingsvergunning of gecombineerde vergunning wordt geweigerd voor w
 
 ### Hoofdstuk 8. Verboden en quota tewerkstellingsvergunning of gecombineerde vergunning
 
-##### Artikel 9.1. Duur bij volledige arbeidsmarkttoets
+#### Artikel 9.1. Duur bij volledige arbeidsmarkttoets
 
 Als bij de beoordeling tot het afgeven van een tewerkstellingsvergunning een volledige toetsing plaatsvindt van [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), wordt een tewerkstellingsvergunning voor ten hoogste twee jaar verleend.
 
 ### Hoofdstuk 9. Duur tewerkstellingsvergunning
 
-##### Artikel 10.1. Waarschuwing of stillegging van werkzaamheden
+#### Artikel 10.1. Waarschuwing of stillegging van werkzaamheden
 
 1. Na een herhaling van een overtreding of soortgelijke overtreding wordt een waarschuwing gegeven als bedoeld in [artikel 17b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=17b) en indien een herhaling van die of een soortgelijke overtreding is geconstateerd als bedoeld in dat artikel van de wet, wordt een bevel opgelegd door de daartoe aangewezen ambtenaar dat de door hem aangewezen werkzaamheden voor een daarbij aangegeven periode worden stilgelegd dan wel niet mogen aanvangen.
 
@@ -566,11 +540,11 @@ Als bij de beoordeling tot het afgeven van een tewerkstellingsvergunning een vol
 
 5. Bij ministeriële regeling kan het aantal werkenden, bedoeld in het derde lid, worden aangepast.
 
-##### Artikel 10.2. Ernstige overtreding
+#### Artikel 10.2. Ernstige overtreding
 
 Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d) wordt aangemerkt de overtreding, genoemd in [artikel 10.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 10.3. Soortgelijke verplichtingen en verboden
+#### Artikel 10.3. Soortgelijke verplichtingen en verboden
 
 1. Als soortgelijke verplichtingen en verboden als bedoeld in [artikel 19d, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d) worden aangewezen de verplichtingen en verboden op grond van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) en [18, tweede lid, zoals dat artikel luidde op 30 juni 2015, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=18).
 
@@ -578,13 +552,13 @@ Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de
 
 ### Hoofdstuk 11. Openbaarmaking
 
-##### Artikel 11.1. Plaats en duur openbaarmaking
+#### Artikel 11.1. Plaats en duur openbaarmaking
 
 1. De gegevens, bedoeld in [artikel 19g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), worden door de toezichthouder of de door Onze Minister aangewezen ambtenaren geplaatst op een website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 19g, eerste lid, van de wet.
 
 2. De gegevens, bedoeld in [artikel 19g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), blijven drie jaar na de datum van bekendmaking van het besluit, bedoeld 19g, eerste lid, van de wet, dan wel na verzending van een brief met de mededeling dat er geen overtreding is geconstateerd, beschikbaar op de website.
 
-##### Artikel 11.2. Inhoud openbare inspectiegegevens
+#### Artikel 11.2. Inhoud openbare inspectiegegevens
 
 1. De gegevens, bedoeld in [artikel 19g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), betreffen:
 
@@ -602,7 +576,7 @@ Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de
 
 2. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2026-01-01&g=2026-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
 
-##### Artikel 11.3. Openbare gegevens omtrent opgelegde boetes en stilleggingen
+#### Artikel 11.3. Openbare gegevens omtrent opgelegde boetes en stilleggingen
 
 1. In aanvulling op [artikel 11.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2026-01-01&g=2026-01-01), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=14), en [19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19a), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 19a, dan wel door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 17b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=17b), de volgende inspectiegegevens over dat besluit openbaar gemaakt:
 
@@ -612,43 +586,43 @@ Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de
 
 2. Indien het besluit geheel of gedeeltelijk bestaat uit een bevel tot staken van de werkzaamheden, bedoeld in [artikel 17b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=17b), bevat de openbaarmaking tevens de periode waarin de werkzaamheden zijn gestaakt.
 
-##### Artikel 11.4. Termijn waarbinnen openbaarmaking geschiedt
+#### Artikel 11.4. Termijn waarbinnen openbaarmaking geschiedt
 
 1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2026-01-01&g=2026-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2026-01-01&g=2026-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
 
 2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 19g, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
 
-##### Artikel 11.5. Reactie van belanghebbende
+#### Artikel 11.5. Reactie van belanghebbende
 
 1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2026-01-01&g=2026-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2026-01-01&g=2026-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
 
 2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
 
-##### Artikel 11.6. Rectificatie
+#### Artikel 11.6. Rectificatie
 
 Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 19g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), en de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2026-01-01&g=2026-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2026-01-01&g=2026-01-01) zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
 
 ### Hoofdstuk 12. Wijzigingsbepalingen
 
-##### Artikel 12.1. Wijziging [Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038821)
+#### Artikel 12.1. Wijziging [Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038821)
 
 Wijzigt het Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 
-##### Artikel 12.2. Wijziging [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
+#### Artikel 12.2. Wijziging [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
 ### Hoofdstuk 12. Wijzigingsbepalingen
 
-##### Artikel 13.1. Intrekking
+#### Artikel 13.1. Intrekking
 
 Het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523) en het Besluit van 22 maart 2019 tot wijziging van het Besluit uitvoering Wet arbeid vreemdelingen, het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) en het [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) om enkele regelingen te treffen in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie (Stb. 2019, 125) worden ingetrokken.
 
-##### Artikel 13.2. Grondslag uitvoeringsregeling
+#### Artikel 13.2. Grondslag uitvoeringsregeling
 
 Na de inwerkingtreding van dit besluit berust mede de [Regeling uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0034570) op de [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.2&z=2026-01-01&g=2026-01-01), en [10.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2026-01-01&g=2026-01-01), van dit besluit.
 
-##### Artikel 13.3. Inwerkingtreding en vervaldatum
+#### Artikel 13.3. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking op het tijdstip waarop de [Wet tot wijziging van de Wet arbeid vreemdelingen in verband met het toekomstbestendig maken van de wetgeving op het terrein van arbeidsmigratie](https://wetten.overheid.nl/jci1.3:c:BWBR0045741) (Stb. 2021, 505) in werking treedt.
 
@@ -664,13 +638,13 @@ Na de inwerkingtreding van dit besluit berust mede de [Regeling uitvoering Wet a
 
 5. [Artikel 4.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.5a&z=2026-01-01&g=2026-01-01) en de zinsnede «en voor zover de vreemdeling niet behoort tot de categorie vreemdelingen, bedoeld in artikel 4.5a» in artikel 4.5, onderdeel b, vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
-##### Artikel 13.4. Citeertitel
+#### Artikel 13.4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitvoering Wet arbeid vreemdelingen 2022.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 6.5. Vreemdeling die verblijft op grond van de Richtlijn tijdelijke bescherming (2001/55/EG)
+#### Artikel 6.5. Vreemdeling die verblijft op grond van de Richtlijn tijdelijke bescherming (2001/55/EG)
 
 1. Het verbod is niet van toepassing met betrekking tot de vreemdeling, bedoeld in [artikel 3.1a, eerste lid, aanhef en onderdelen a tot en met e, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.1a), die in Nederland wordt tewerkgesteld op basis van een arbeidsovereenkomst.
 
@@ -692,7 +666,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 4.5a. Werkzaamheden tijdelijke opvang asielzoekers op zeeschip
+#### Artikel 4.5a. Werkzaamheden tijdelijke opvang asielzoekers op zeeschip
 
 1. Het verbod is niet van toepassing met betrekking tot de vreemdeling die zijn hoofdverblijf buiten Nederland heeft en arbeid verricht:
 
@@ -730,7 +704,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 7.10. Aangewezen categorieën vreemdelingen en hun gezinsleden
+#### Artikel 7.10. Aangewezen categorieën vreemdelingen en hun gezinsleden
 
 1. Bij ministeriële regeling kan worden bepaald dat het verbod niet van toepassing is met betrekking tot een vreemdeling die beschikt over:
 
