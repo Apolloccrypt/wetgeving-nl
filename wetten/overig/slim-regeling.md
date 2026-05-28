@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2019, nr. 2019-0000139944, tot het verstrekken van subsidies in het kader van leren en ontwikkelen in het mkb en in het grootbedrijf in de sectoren landbouw, horeca en recreatie (Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector)"
+title: "SLIM-regeling"
 identifier: "BWBR0043015"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-04"
-last_updated: "2026-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043015"
-soort: "ministeriele-regeling"
-stam_id: "15305473"
-version_id: "30630172"
-internal_id: "C43908781"
-label_id: "15251604"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043015/2026-04-04/0"
-intitule_bron: "Stcrt.2019-70088"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-16"
-intitule_published: "2019-12-24"
-intitule_in_force: "2019-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-7276"
-original_signed_date: "2025-02-20"
-original_published_date: "2025-02-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-7276"
-entry_into_force_date: "2025-02-28"
-jci_1_3: "jci1.3:c:BWBR0043015&z=2026-04-04&g=2026-04-04"
-jci_1_0: "1.0:c:BWBR0043015&g=2026-04-04"
-citeertitel_status: "officieel"
-short_title: "SLIM-regeling"
-signed_date: "2025-02-20"
-entry_into_force: "2025-02-28"
+categorie: "Overig"
+publicatiedatum: 2026-04-04
+laatste_update: 2026-04-04
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0043015"
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2019, nr. 2019-0000139944, tot het verstrekken van subsidies in het kader van leren en ontwikkelen in het mkb en in het grootbedrijf in de sectoren landbouw, horeca en recreatie (Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector)
 
 Gelet op [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -94,17 +68,17 @@ In deze regeling wordt verstaan onder:
 
 - **werknemersvereniging:** vereniging van werknemers met volledige rechtsbevoegdheid, niet zijnde zelfstandigen zonder personeel, die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling.
 
-##### Artikel 2. Toepasselijkheid [kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
+#### Artikel 2. Toepasselijkheid [kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
 
 1. Op het aanvragen en verstrekken van subsidies op grond van deze regeling is de [kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603), met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.6), [5.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.5), [6.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1), van toepassing.
 
 2. De formulieren, modellen en formats waarnaar in deze regeling wordt verwezen, zijn door de minister elektronisch beschikbaar gesteld op www.uitvoeringvanbeleidszw.nl.
 
-##### Artikel 3. Doel van de regeling
+#### Artikel 3. Doel van de regeling
 
 Het doel van deze regeling is om door middel van subsidie een bijdrage te leveren aan initiatieven in mkb-ondernemingen, gericht op het stimuleren van leren en ontwikkelen.
 
-##### Artikel 4. Subsidiabele activiteiten
+#### Artikel 4. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag subsidie verstrekken voor het bekostigen van onderstaande activiteiten die uiting geven aan het doel van deze regeling:
 
@@ -122,7 +96,7 @@ Het doel van deze regeling is om door middel van subsidie een bijdrage te levere
 
 5. Een initiatief waarvoor subsidie wordt aangevraagd op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2024-12-21&g=2024-12-21) komt alleen voor subsidie in aanmerking, indien het initiatief ten minste de activiteit, bedoeld in het eerste lid, onderdeel c, bevat en de subsidiabele kosten ten minste € 210.000 bedragen.
 
-##### Artikel 5. Aanvraagtijdvakken
+#### Artikel 5. Aanvraagtijdvakken
 
 Een subsidieaanvraag kan voor het jaar 2025 bij de minister worden ingediend in de volgende tijdvakken:
 
@@ -130,7 +104,7 @@ Een subsidieaanvraag kan voor het jaar 2025 bij de minister worden ingediend in 
 
 - b. voor aanvragen op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2024-12-21&g=2024-12-21): van 2 juni 09:00 uur tot en met 30 juni 17:00 uur.
 
-##### Artikel 6. Subsidieplafond
+#### Artikel 6. Subsidieplafond
 
 1. Het subsidieplafond voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2024-12-21&g=2024-12-21) bedraagt voor het jaar 2025:
 
@@ -142,7 +116,7 @@ Een subsidieaanvraag kan voor het jaar 2025 bij de minister worden ingediend in 
 
 3. Indien een deel van het bedrag dat beschikbaar is in een aanvraagtijdvak niet volledig wordt benut, kunnen de resterende middelen worden toegevoegd aan de middelen van een ander aanvraagtijdvak van hetzelfde kalenderjaar. De minister maakt de verschuivingen van het beschikbare budget bekend op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-##### Artikel 7. Subsidieaanvraag
+#### Artikel 7. Subsidieaanvraag
 
 1. De subsidieaanvrager dient de subsidieaanvraag in door middel van het daartoe bestemde elektronisch aanvraagformulier dat is getekend door een functionaris, bevoegd om namens de subsidieaanvrager te handelen, en voegt hierbij:
 
@@ -164,7 +138,7 @@ Een subsidieaanvraag kan voor het jaar 2025 bij de minister worden ingediend in 
 
 7. Door het indienen van een aanvraag stemt de subsidieaanvrager ermee in dat het subsidiedossier, met uitzondering van persoonsgegevens, openbaar wordt gemaakt.
 
-##### Artikel 8. Rangschikking behandeling subsidieaanvragen
+#### Artikel 8. Rangschikking behandeling subsidieaanvragen
 
 1. Bij overschrijding van een subsidieplafond als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2024-12-21&g=2024-12-21), wordt na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
 
@@ -174,7 +148,7 @@ Een subsidieaanvraag kan voor het jaar 2025 bij de minister worden ingediend in 
 
 4. Volledige subsidieaanvragen voor subsidies op grond van hoofdstuk 3 worden behandeld op volgorde van ontvangst.
 
-##### Artikel 9. Beschikking tot subsidieverlening
+#### Artikel 9. Beschikking tot subsidieverlening
 
 1. Op een subsidieaanvraag op basis van hoofdstuk 2 wordt binnen 13 weken na afloop van het aanvraagtijdvak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=5&z=2024-12-21&g=2024-12-21) beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2024-12-21&g=2024-12-21).
 
@@ -184,7 +158,7 @@ Een subsidieaanvraag kan voor het jaar 2025 bij de minister worden ingediend in 
 
 4. In geval van een samenwerkingsverband vermeldt de beschikking tot subsidieverlening, in aanvulling op het derde lid, de partijen van het samenwerkingsverband en de verdeling van het subsidiebedrag van de partijen in het samenwerkingsverband.
 
-##### Artikel 10. Weigeringsgronden
+#### Artikel 10. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de subsidie in ieder geval geheel of gedeeltelijk geweigerd, indien:
 
@@ -210,7 +184,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - k. de subsidieaanvraag ziet op een activiteit als bedoeld in [artikel 4, eerste lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), en aan de subsidieaanvrager voor een dergelijke activiteit reeds subsidie is verleend die op het moment van indiening van de subsidieaanvraag nog niet is vastgesteld.
 
-##### Artikel 11. Looptijd
+#### Artikel 11. Looptijd
 
 1. Een initiatief voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2024-12-21&g=2024-12-21) wordt afgerond binnen een periode van 12 maanden.
 
@@ -222,7 +196,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 5. De minister kan, in afwijking van het eerste en tweede lid, de duur van de initiatiefperiode verlengen tot ten hoogste drie maanden na de van toepassing zijnde periode, genoemd in het eerste en tweede lid.
 
-##### Artikel 12. Subsidiabele kosten
+#### Artikel 12. Subsidiabele kosten
 
 1. Voor de subsidie van initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), komen de volgende kosten in aanmerking:
 
@@ -266,7 +240,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - f. een organisatie waarin zich een belangenconflict voordoet of kan voordoen als gevolg van familiebanden, persoonlijke relaties, politieke gezindheid of nationaliteit, economische belangen of elk ander direct of indirect persoonlijk belang, waarmee de onpartijdige en objectieve uitoefening van de functies van een financiële actor of andere persoon die bij de uitvoering van het initiatief betrokken is, in gevaar is of in gevaar kan worden gebracht.
 
-##### Artikel 13. Niet subsidiabele kosten
+#### Artikel 13. Niet subsidiabele kosten
 
 Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), komen niet voor subsidie in aanmerking:
 
@@ -292,11 +266,11 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderd
 
 - k. de kosten voor de ondersteuning en begeleiding bij het ontwikkelen of invoeren van een methode in de onderneming als bedoeld in artikel 4, eerste lid, onderdeel c, indien deze onvoldoende duidelijk is toegesneden op desbetreffende mkb-onderneming.
 
-##### Artikel 14. Subsidiebedrag loopbaan- en ontwikkeladviezen
+#### Artikel 14. Subsidiebedrag loopbaan- en ontwikkeladviezen
 
 De subsidie voor loopbaan- en ontwikkeladviezen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), bedraagt € 700,– per afgerond loopbaan- of ontwikkeltraject.
 
-##### Artikel 15. Administratievoorschriften
+#### Artikel 15. Administratievoorschriften
 
 1. Onverminderd [artikel 5.2, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.2), bevat de administratie van de subsidieontvanger een bijlage met een overzicht van de KvK-nummers van alle ondernemingen die deelnemen aan het project, onder vermelding van de activiteiten waaraan is deelgenomen en, indien de subsidie is verleend voor een activiteit als bedoeld in:
 
@@ -308,7 +282,7 @@ De subsidie voor loopbaan- en ontwikkeladviezen als bedoeld in [artikel 4, eerst
 
 2. Onder een prestatieverklaring, genoemd in het eerste lid, onderdeel b, wordt verstaan: een verklaring in het daarvoor geldende format, getekend door de loopbaanadviseur en de deelnemer, waarin wordt bevestigd dat de deelnemer aan het ontwikkeltraject heeft deelgenomen, welke onderwerpen daarin aan bod zijn gekomen en welke resultaten hiervoor zijn behaald.
 
-##### Artikel 16. Rapportageverplichting en bevoorschotting
+#### Artikel 16. Rapportageverplichting en bevoorschotting
 
 1. Indien de subsidieontvanger een samenwerkingsverband is en het initiatief waarvoor subsidie is verleend een periode van meer dan twaalf maanden omvat, dient de subsidieontvanger uiterlijk acht weken na afloop van de eerste twaalf maanden een tussentijds voortgangsverslag in bij de minister, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde model.
 
@@ -322,11 +296,11 @@ De subsidie voor loopbaan- en ontwikkeladviezen als bedoeld in [artikel 4, eerst
 
 ### Hoofdstuk 2. Subsidieverlening aan het mkb
 
-##### Artikel 17. Aanvraaggerechtigde
+#### Artikel 17. Aanvraaggerechtigde
 
 Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
-##### Artikel 18. Subsidiebedrag en subsidiabele kosten
+#### Artikel 18. Subsidiebedrag en subsidiabele kosten
 
 1. Voor de activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), wordt op grond van dit hoofdstuk een subsidie verstrekt tot € 25.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
 
@@ -334,13 +308,13 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ### Hoofdstuk 2. Subsidieverlening aan het mkb
 
-##### Artikel 19. Aanvraaggerechtigde
+#### Artikel 19. Aanvraaggerechtigde
 
 1. Subsidie op grond van dit hoofdstuk wordt aangevraagd door de hoofdaanvrager van het samenwerkingsverband.
 
 2. Onder hoofdaanvrager wordt verstaan een mkb-onderneming, brancheorganisatie, onderwijsinstelling, O&O-fonds of werknemers- of werkgeversvereniging, die gemachtigd is om de andere partijen in het samenwerkingsverband in en buiten rechte te vertegenwoordigen.
 
-##### Artikel 20. Subsidiebedrag
+#### Artikel 20. Subsidiebedrag
 
 1. De subsidie die wordt verleend voor de activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), bedraagt maximaal € 500.000, waarbij geen enkele partij van het samenwerkingsverband aanspraak kan maken op € 200.000 of meer.
 
@@ -348,7 +322,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 3. Voor de activiteiten, bedoeld in [artikel 4, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), bedraagt de subsidie 60% van de subsidiabele kosten, voor zover het de kosten betreft, bedoeld in [artikel 12, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=12&z=2024-12-21&g=2024-12-21).
 
-##### Artikel 21. Specifieke eisen subsidieaanvraag en administratie samenwerkingsverbanden
+#### Artikel 21. Specifieke eisen subsidieaanvraag en administratie samenwerkingsverbanden
 
 1. In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2024-12-21&g=2024-12-21) bestaat de subsidieaanvraag voor samenwerkingsverbanden uit:
 
@@ -360,7 +334,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ### Hoofdstuk 4. Subsidieverlening aan grootbedrijven in de landbouw- horeca- of recreatiesector
 
-##### Artikel 22. Subsidievaststelling
+#### Artikel 22. Subsidievaststelling
 
 1. De minister doet verzoeken als bedoeld in [artikel 7.4, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) op basis van een steekproef voorafgaande aan het vaststellen van de subsidie.
 
@@ -374,7 +348,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 6. Indien uit de beoordeling van het verzoek tot vaststelling blijkt, dat minder dan 60% van de totale subsidiabele kosten, genoemd in de laatst afgegeven beschikking tot subsidieverlening, is gerealiseerd, gaat de minister na of er aanleiding is om de subsidie lager of op nihil vast te stellen.
 
-##### Artikel 23. Intrekking en terugvordering
+#### Artikel 23. Intrekking en terugvordering
 
 1. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) wordt de beschikking tot subsidieverlening geheel ingetrokken indien:
 
@@ -390,7 +364,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ### Hoofdstuk 4. Subsidieverlening aan grootbedrijven in de landbouw- horeca- of recreatiesector
 
-##### Artikel 24. Evaluatie van de initiatieven
+#### Artikel 24. Evaluatie van de initiatieven
 
 1. Een samenwerkingsverband waaraan subsidie is verleend op grond van deze regeling draagt zorg voor de evaluatie van de uitvoering van het initiatief op grond van deze regeling en het bereik, de doeltreffendheid en doelmatigheid daarvan.
 
@@ -404,11 +378,11 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 - c. een overzicht van de bereikte resultaten.
 
-##### Artikel 25. Hardheidsclausule
+#### Artikel 25. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 26. Evaluatie van de regeling
+#### Artikel 26. Evaluatie van de regeling
 
 1. De minister draagt zorg voor de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling.
 
@@ -416,17 +390,17 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ### Hoofdstuk 6. Slotbepalingen
 
-##### Artikel 27. Inwerkingtreding en vervaldatum
+#### Artikel 27. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang 1 januari 2020 en vervalt met ingang van 1 januari 2030.
 
 2. In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 december 2029, van toepassing op de afwikkeling van verleende subsidies op grond van deze regeling.
 
-##### Artikel 28. Citeertitel
+#### Artikel 28. Citeertitel
 
 Deze regeling wordt aangehaald als: SLIM-regeling.
 
-##### Artikel 29. Citeertitel
+#### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: SLIM-regeling.
 
@@ -618,7 +592,7 @@ De loopbaanadviseurs volgen bij de beroepsuitoefening de volgende gedragsregels:
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-##### Artikel 4a. Eisen aan loopbaanadviseur
+#### Artikel 4a. Eisen aan loopbaanadviseur
 
 1. De activiteiten, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-12-21&g=2024-12-21), worden uitgevoerd door een loopbaanadviseur, die:
 
@@ -632,7 +606,7 @@ Deze regeling zal met toelichting en de bijlage in de Staatscourant worden gepla
 
 3. Een loopbaanadviseur, gevestigd in een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, die een opleiding heeft afgerond overeenkomstig de opleiding, bedoeld in het eerste lid, onderdeel a, en overigens voldoet aan het eerste lid, onderdelen b en c, wordt gelijkgesteld met de loopbaanadviseur, bedoeld in het eerste lid.
 
-##### Artikel 13a. Subsidiabele vergoeding loopbaan- en ontwikkeltrajecten
+#### Artikel 13a. Subsidiabele vergoeding loopbaan- en ontwikkeltrajecten
 
 De subsidie bedraagt € 700,00 per afgerond loopbaan- of ontwikkeltraject, zoals bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2024-06-27&g=2024-06-27).
 
@@ -662,7 +636,7 @@ De subsidie bedraagt € 700,00 per afgerond loopbaan- of ontwikkeltraject, zoal
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-##### Artikel 7a. Verstrekking van persoonsgegevens
+#### Artikel 7a. Verstrekking van persoonsgegevens
 
 De minister is bevoegd persoonsgegevens, die hij in het kader van deze subsidieregeling heeft verkregen, te verstrekken aan de aanbieder van een kennis- en ondersteuningsprogramma ten behoeve van deze subsidieregeling, ter uitvoering en verbetering van dat programma.
 
@@ -708,7 +682,7 @@ Deze regeling zal met toelichting en de bijlage in de Staatscourant worden gepla
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-##### Artikel 1.1. Begripsbepalingen
+#### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -730,7 +704,7 @@ In deze regeling wordt verstaan onder:
 
 - **werknemersvereniging:** vereniging van werknemers met volledige rechtsbevoegdheid, niet zijnde zelfstandigen zonder personeel, die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling.
 
-##### Artikel 1.2. Vindplaats formulieren, modellen en formats
+#### Artikel 1.2. Vindplaats formulieren, modellen en formats
 
 De formulieren, modellen en formats waarnaar in deze regeling wordt verwezen, zijn door de minister elektronisch beschikbaar gesteld op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
@@ -738,7 +712,7 @@ De formulieren, modellen en formats waarnaar in deze regeling wordt verwezen, zi
 
 #### Paragraaf 2.1. Algemene bepalingen
 
-##### Artikel 2.1. Begripsbepalingen
+#### Artikel 2.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -772,15 +746,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **werkenden:** alle in de onderneming werkzame personen.
 
-##### Artikel 2.2. Toepasselijkheid Kaderregeling
+#### Artikel 2.2. Toepasselijkheid Kaderregeling
 
 Op het aanvragen en verstrekken van subsidies op grond van dit hoofdstuk is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.6), [5.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.5), [6.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1).
 
-##### Artikel 2.3. Doel van subsidie verstrekt op grond van dit hoofdstuk
+#### Artikel 2.3. Doel van subsidie verstrekt op grond van dit hoofdstuk
 
 Het doel van subsidies verstrekt op grond van dit hoofdstuk is om een bijdrage te leveren aan initiatieven in mkb-ondernemingen, gericht op het stimuleren van leren en ontwikkelen.
 
-##### Artikel 2.4. Subsidiabele activiteiten
+#### Artikel 2.4. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag subsidie verstrekken voor het bekostigen van onderstaande activiteiten die uiting geven aan het doel, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2026-04-04&g=2026-04-04):
 
@@ -798,7 +772,7 @@ Het doel van subsidies verstrekt op grond van dit hoofdstuk is om een bijdrage t
 
 5. Een initiatief waarvoor subsidie wordt aangevraagd op grond van [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.3&z=2026-04-04&g=2026-04-04) komt alleen voor subsidie in aanmerking, indien het initiatief ten minste de activiteit, bedoeld in het eerste lid, onderdeel c, bevat en de subsidiabele kosten ten minste € 210.000 bedragen.
 
-##### Artikel 2.5. Eisen aan loopbaanadviseur
+#### Artikel 2.5. Eisen aan loopbaanadviseur
 
 1. De activiteiten, bedoeld in [artikel 2.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), worden uitgevoerd door een loopbaanadviseur, die:
 
@@ -812,13 +786,13 @@ Het doel van subsidies verstrekt op grond van dit hoofdstuk is om een bijdrage t
 
 3. Een loopbaanadviseur, gevestigd in een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, die een opleiding heeft afgerond overeenkomstig de opleiding, bedoeld in het eerste lid, onderdeel a, en overigens voldoet aan het eerste lid, onderdelen b en c, wordt gelijkgesteld met de loopbaanadviseur, bedoeld in het eerste lid.
 
-##### Artikel 2.6. Aanvraagtijdvakken
+#### Artikel 2.6. Aanvraagtijdvakken
 
 1. De minister stelt vast binnen welke aanvraagtijdvakken subsidies kunnen worden aangevraagd op grond van de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.2&z=2026-04-04&g=2026-04-04) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.3&z=2026-04-04&g=2026-04-04).
 
 2. De vastgestelde aanvraagtijdvakken worden bekendgemaakt in de Staatscourant en op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-##### Artikel 2.7. Subsidieplafond
+#### Artikel 2.7. Subsidieplafond
 
 1. De minister stelt subsidieplafonds vast voor elk van de aanvraagtijdvakken, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.6&z=2026-04-04&g=2026-04-04).
 
@@ -826,7 +800,7 @@ Het doel van subsidies verstrekt op grond van dit hoofdstuk is om een bijdrage t
 
 3. Indien een deel van het bedrag dat beschikbaar is in een aanvraagtijdvak niet volledig wordt benut, kunnen de resterende middelen worden toegevoegd aan de middelen van een ander aanvraagtijdvak van hetzelfde kalenderjaar. De minister maakt de verschuivingen van het beschikbare budget bekend op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-##### Artikel 2.8. Subsidieaanvraag
+#### Artikel 2.8. Subsidieaanvraag
 
 1. De subsidieaanvrager dient de subsidieaanvraag in door middel van het daartoe bestemde elektronisch aanvraagformulier dat is getekend door een functionaris, bevoegd om namens de subsidieaanvrager te handelen, en voegt hierbij:
 
@@ -848,11 +822,11 @@ Het doel van subsidies verstrekt op grond van dit hoofdstuk is om een bijdrage t
 
 7. Door het indienen van een aanvraag stemt de subsidieaanvrager ermee in dat het subsidiedossier, met uitzondering van persoonsgegevens, openbaar wordt gemaakt.
 
-##### Artikel 2.9. Verstrekking van persoonsgegevens
+#### Artikel 2.9. Verstrekking van persoonsgegevens
 
 Vervallen
 
-##### Artikel 2.10. Rangschikking behandeling subsidieaanvragen
+#### Artikel 2.10. Rangschikking behandeling subsidieaanvragen
 
 1. Bij overschrijding van een subsidieplafond als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.7&z=2026-04-04&g=2026-04-04), wordt voor aanvraagtijdvakken met ingang van 2026, na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
 
@@ -860,7 +834,7 @@ Vervallen
 
 3. Onvolledige subsidieaanvragen worden, na aanvulling door de subsidieaanvrager, geplaatst aan het einde van de lijst die volgt uit de loting, waarbij het tijdstip van ontvangst van de volledige subsidieaanvraag bepalend is voor de volgorde van plaatsing op die lijst.
 
-##### Artikel 2.11. Beschikking tot subsidieverlening
+#### Artikel 2.11. Beschikking tot subsidieverlening
 
 1. Op een subsidieaanvraag op basis van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.2&z=2026-04-04&g=2026-04-04) wordt binnen 13 weken na afloop van het van toepassing zijnde aanvraagtijdvak, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.6&z=2026-04-04&g=2026-04-04) beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.8&z=2026-04-04&g=2026-04-04).
 
@@ -870,7 +844,7 @@ Vervallen
 
 4. In geval van een samenwerkingsverband vermeldt de beschikking tot subsidieverlening, in aanvulling op het derde lid, de partijen van het samenwerkingsverband en de verdeling van het subsidiebedrag van de partijen in het samenwerkingsverband.
 
-##### Artikel 2.12. Weigeringsgronden
+#### Artikel 2.12. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de subsidie in ieder geval geheel of gedeeltelijk geweigerd, indien:
 
@@ -896,7 +870,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - k. de subsidieaanvraag ziet op een activiteit als bedoeld in [artikel 2.4, eerste lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), en aan de subsidieaanvrager voor een dergelijke activiteit reeds subsidie is verleend die op het moment van indiening van de subsidieaanvraag nog niet is vastgesteld.
 
-##### Artikel 2.13. Looptijd
+#### Artikel 2.13. Looptijd
 
 1. Een initiatief voor subsidies op grond van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.2&z=2026-04-04&g=2026-04-04) wordt afgerond binnen een periode van 12 maanden.
 
@@ -908,7 +882,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 5. De minister kan, in afwijking van het eerste en tweede lid, de duur van de initiatiefperiode verlengen tot ten hoogste drie maanden na de van toepassing zijnde periode, genoemd in het eerste en tweede lid.
 
-##### Artikel 2.14. Subsidiabele kosten
+#### Artikel 2.14. Subsidiabele kosten
 
 1. Voor de subsidie van initiatieven als bedoeld onder [artikel 2.4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), komen de volgende kosten in aanmerking:
 
@@ -952,7 +926,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - f. een organisatie waarin zich een belangenconflict voordoet of kan voordoen als gevolg van familiebanden, persoonlijke relaties, politieke gezindheid of nationaliteit, economische belangen of elk ander direct of indirect persoonlijk belang, waarmee de onpartijdige en objectieve uitoefening van de functies van een financiële actor of andere persoon die bij de uitvoering van het initiatief betrokken is, in gevaar is of in gevaar kan worden gebracht.
 
-##### Artikel 2.15. Niet subsidiabele kosten
+#### Artikel 2.15. Niet subsidiabele kosten
 
 Met betrekking tot de initiatieven, bedoeld onder [artikel 2.4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), komen niet voor subsidie in aanmerking:
 
@@ -978,11 +952,11 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 2.4, eerste lid, onde
 
 - k. de kosten voor de ondersteuning en begeleiding bij het ontwikkelen of invoeren van een methode in de onderneming als bedoeld in [artikel 2.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), indien deze onvoldoende duidelijk is toegesneden op desbetreffende mkb-onderneming.
 
-##### Artikel 2.16. Subsidiebedrag loopbaan- en ontwikkeladviezen
+#### Artikel 2.16. Subsidiebedrag loopbaan- en ontwikkeladviezen
 
 De subsidie voor loopbaan- en ontwikkeladviezen als bedoeld in [artikel 2.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), bedraagt € 700,– per afgerond loopbaan- of ontwikkeltraject.
 
-##### Artikel 2.17. Administratievoorschriften
+#### Artikel 2.17. Administratievoorschriften
 
 1. Onverminderd [artikel 5.2, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.2), bevat de administratie van de subsidieontvanger een bijlage met een overzicht van de KvK-nummers van alle ondernemingen die deelnemen aan het project, onder vermelding van de activiteiten waaraan is deelgenomen en, indien de subsidie is verleend voor een activiteit als bedoeld in:
 
@@ -994,7 +968,7 @@ De subsidie voor loopbaan- en ontwikkeladviezen als bedoeld in [artikel 2.4, eer
 
 2. Onder een prestatieverklaring, genoemd in het eerste lid, onderdeel b, wordt verstaan: een verklaring in het daarvoor geldende format, getekend door de loopbaanadviseur en de deelnemer, waarin wordt bevestigd dat de deelnemer aan het ontwikkeltraject heeft deelgenomen, welke onderwerpen daarin aan bod zijn gekomen en welke resultaten hiervoor zijn behaald.
 
-##### Artikel 2.18. Rapportageverplichting en bevoorschotting
+#### Artikel 2.18. Rapportageverplichting en bevoorschotting
 
 1. Indien de subsidieontvanger een samenwerkingsverband is en het initiatief waarvoor subsidie is verleend een periode van meer dan twaalf maanden omvat, dient de subsidieontvanger uiterlijk acht weken na afloop van de eerste twaalf maanden een tussentijds voortgangsverslag in bij de minister, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde model.
 
@@ -1008,11 +982,11 @@ De subsidie voor loopbaan- en ontwikkeladviezen als bedoeld in [artikel 2.4, eer
 
 #### Paragraaf 2.2. Subsidieverlening aan het mkb
 
-##### Artikel 2.19. Aanvraaggerechtigde
+#### Artikel 2.19. Aanvraaggerechtigde
 
 Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
-##### Artikel 2.20. Subsidiebedrag en subsidiabele kosten
+#### Artikel 2.20. Subsidiebedrag en subsidiabele kosten
 
 1. Voor de activiteiten, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), wordt op grond van dit hoofdstuk een subsidie verstrekt tot € 25.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
 
@@ -1020,13 +994,13 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 #### Paragraaf 2.3. Subsidieverlening aan samenwerkingsverbanden
 
-##### Artikel 2.21. Aanvraaggerechtigde
+#### Artikel 2.21. Aanvraaggerechtigde
 
 1. Subsidie op grond van dit hoofdstuk wordt aangevraagd door de hoofdaanvrager van het samenwerkingsverband.
 
 2. Onder hoofdaanvrager wordt verstaan een mkb-onderneming, brancheorganisatie, onderwijsinstelling, O&O-fonds of werknemers- of werkgeversvereniging, die gemachtigd is om de andere partijen in het samenwerkingsverband in en buiten rechte te vertegenwoordigen.
 
-##### Artikel 2.22. Subsidiebedrag
+#### Artikel 2.22. Subsidiebedrag
 
 1. De subsidie die wordt verleend voor de activiteiten, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), bedraagt maximaal € 500.000, waarbij geen enkele partij van het samenwerkingsverband aanspraak kan maken op € 200.000 of meer.
 
@@ -1034,7 +1008,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 3. Voor de activiteiten, bedoeld in [artikel 2.4, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2026-04-04&g=2026-04-04), bedraagt de subsidie 60% van de subsidiabele kosten, voor zover het de kosten betreft, bedoeld in [artikel 2.14, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.14&z=2026-04-04&g=2026-04-04).
 
-##### Artikel 2.23. Specifieke eisen subsidieaanvraag en administratie samenwerkingsverbanden
+#### Artikel 2.23. Specifieke eisen subsidieaanvraag en administratie samenwerkingsverbanden
 
 1. In aanvulling op [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.8&z=2026-04-04&g=2026-04-04) bestaat de subsidieaanvraag voor samenwerkingsverbanden uit:
 
@@ -1046,7 +1020,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 #### Paragraaf 2.4. Subsidievaststelling
 
-##### Artikel 2.24. Subsidievaststelling
+#### Artikel 2.24. Subsidievaststelling
 
 1. De minister doet verzoeken als bedoeld in [artikel 7.4, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) op basis van een steekproef voorafgaande aan het vaststellen van de subsidie.
 
@@ -1060,7 +1034,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 6. Indien uit de beoordeling van het verzoek tot vaststelling blijkt, dat minder dan 60% van de totale subsidiabele kosten, genoemd in de laatst afgegeven beschikking tot subsidieverlening, is gerealiseerd, gaat de minister na of er aanleiding is om de subsidie lager of op nihil vast te stellen.
 
-##### Artikel 2.25. Intrekking en terugvordering
+#### Artikel 2.25. Intrekking en terugvordering
 
 1. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) wordt de beschikking tot subsidieverlening geheel ingetrokken indien:
 
@@ -1074,7 +1048,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot voorschotverlening, bedoeld in [artikel 2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&paragraaf=2.1&artikel=2.18&z=2026-04-04&g=2026-04-04).
 
-##### Artikel 2.26. Evaluatie van de initiatieven
+#### Artikel 2.26. Evaluatie van de initiatieven
 
 1. Een samenwerkingsverband waaraan subsidie is verleend op grond van deze regeling draagt zorg voor de evaluatie van de uitvoering van het initiatief op grond van deze regeling en het bereik, de doeltreffendheid en doelmatigheid daarvan.
 
@@ -1088,7 +1062,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 - c. een overzicht van de bereikte resultaten.
 
-##### Artikel 3.1. Begripsbepalingen
+#### Artikel 3.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -1144,19 +1118,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. afspraken heeft met de gemeente of het UWV over de scholing van de begunstigde, genoemd in artikel 3.1, onderdeel b, van de begripsbepaling begunstigden.
 
-##### Artikel 3.2. Toepasselijkheid Kaderregeling
+#### Artikel 3.2. Toepasselijkheid Kaderregeling
 
 Op het aanvragen en verstrekken van subsidies op grond van dit hoofdstuk is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.6),[7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1) en [7.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4).
 
-##### Artikel 3.3. Doel van subsidies verstrekt op grond van dit hoofdstuk
+#### Artikel 3.3. Doel van subsidies verstrekt op grond van dit hoofdstuk
 
 Het doel van subsidies verstrekt op grond van dit hoofdstuk is om met scholing de instroom in en doorstroom binnen sectoren en het overstappen tussen sectoren van werkenden en werkzoekenden in beroepsgroepen in maatschappelijk cruciale sectoren te vergroten.
 
-##### Artikel 3.4. Aanvraaggerechtigde
+#### Artikel 3.4. Aanvraaggerechtigde
 
 Subsidies op grond van dit hoofdstuk worden aangevraagd door een werkgever, een geregistreerd gastouderbureau of een collectief.
 
-##### Artikel 3.5. Subsidiabele activiteiten
+#### Artikel 3.5. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag subsidie verstrekken aan een werkgever of geregistreerd gastouderbureau voor scholing die door hem is ingekocht en aan een collectief voor het inkopen van scholing of het vergoeden van scholingskosten.
 
@@ -1186,7 +1160,7 @@ Subsidies op grond van dit hoofdstuk worden aangevraagd door een werkgever, een 
 
 6. De minister neemt scholing die voldoet aan de in het derde lid gestelde voorwaarden op in een scholingspakket indien de aanbieder de minister hierover gegevens heeft verstrekt en verwerkt de in het vierde lid bedoelde mutaties in een daaropvolgend vaststellingsmoment van een scholingspakket. De uiterste termijnen voor de ontvangst van deze gegevens, worden bekendgemaakt op [www.uitvoeringvanbeleid.nl](http://www.uitvoeringvanbeleid.nl/).
 
-##### Artikel 3.6. Erkenning ontwikkelpaden
+#### Artikel 3.6. Erkenning ontwikkelpaden
 
 1. De minister erkent op aanvraag van een werkgeversvereniging en een werknemersvereniging dan wel een O&O-fonds een ontwikkelpad, indien het ontwikkelpad:
 
@@ -1244,7 +1218,7 @@ Subsidies op grond van dit hoofdstuk worden aangevraagd door een werkgever, een 
 
 - c. indien de minister verneemt dat een nieuw ontwikkelpad is vastgesteld dat in de plaats treedt van het erkende ontwikkelpad en degene die heeft verzocht om erkenning van het ontwikkelpad niet in de eerstvolgende aanvraagperiode, bedoeld in het vijfde lid, het vervangende ontwikkelpad heeft aangeboden voor erkenning.
 
-##### Artikel 3.7. Bemiddeling minister bij niet opnemen scholing in erkend ontwikkelpad
+#### Artikel 3.7. Bemiddeling minister bij niet opnemen scholing in erkend ontwikkelpad
 
 1. Indien een opleider van oordeel is dat zijn scholing voldoet aan het bepaalde in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.6&z=2026-04-04&g=2026-04-04), en, indien van toepassing, artikel 3.6, tweede lid, maar de partijen die een ontwikkelpad hebben vastgesteld dat door de minister is erkend, deze scholing niet hierin wil opnemen, kan de opleider aan de minister een verzoek tot bemiddeling doen.
 
@@ -1262,7 +1236,7 @@ Subsidies op grond van dit hoofdstuk worden aangevraagd door een werkgever, een 
 
 6. De minister kan, onverminderd [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.6&z=2026-04-04&g=2026-04-04), een ontwikkelpad weigeren te erkennen, indien de scholing niet is opgenomen in het te erkennen ontwikkelpad en de minister van oordeel is dat de partijen die het ontwikkelpad hebben vastgesteld de opname van de scholing redelijkerwijs niet achterwege had kunnen laten.
 
-##### Artikel 3.8. Subsidiabele kosten
+#### Artikel 3.8. Subsidiabele kosten
 
 1. Op grond van dit hoofdstuk komen de volgende kosten van werkgevers, geregistreerde gastouderbureaus en collectieven in aanmerking voor subsidie:
 
@@ -1292,21 +1266,21 @@ Subsidies op grond van dit hoofdstuk worden aangevraagd door een werkgever, een 
 
 - b. een transparante, objectieve en niet-discriminatoire aanbestedingsprocedure.
 
-##### Artikel 3.9. Niet subsidiabele kosten
+#### Artikel 3.9. Niet subsidiabele kosten
 
 Niet subsidiabel zijn btw en kosten waarvoor op grond van deze of een andere regeling reeds subsidie of een andere financiële bijdrage is verstrekt of zal worden verstrekt.
 
-##### Artikel 3.10. Subsidiebedrag collectief
+#### Artikel 3.10. Subsidiebedrag collectief
 
 De subsidie die aan een collectief wordt verstrekt, bedraagt ten minste € 125.000 per aanvraag.
 
-##### Artikel 3.11. Looptijd subsidiabele activiteiten collectief
+#### Artikel 3.11. Looptijd subsidiabele activiteiten collectief
 
 1. De voor subsidie in aanmerking komende kosten van een collectief worden gemaakt in een door de minister aangewezen periode.
 
 2. De periode start de dag na de datum van indiening van de subsidieaanvraag en eindigt uiterlijk op 31 december 2027.
 
-##### Artikel 3.12. Aanvraagtijdvakken
+#### Artikel 3.12. Aanvraagtijdvakken
 
 Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de volgende tijdvakken:
 
@@ -1314,7 +1288,7 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 - b. van 1 september 09:00 uur tot en met 30 september 17:00 uur door collectieven.
 
-##### Artikel 3.13. Subsidieplafond
+#### Artikel 3.13. Subsidieplafond
 
 1. De subsidieplafonds voor de tijdvakken, genoemd in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.12&z=2026-04-04&g=2026-04-04), bedragen voor het jaar 2025:
 
@@ -1326,7 +1300,7 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 3. Indien het bedrag dat beschikbaar is in een aanvraagtijdvak niet volledig wordt benut, kan de minister de resterende middelen toevoegen aan de middelen van een ander aanvraagtijdvak in hetzelfde kalenderjaar of, indien middelen zijn overgebleven in het aanvraagtijdvak, genoemd in [artikel 3.12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.12&z=2026-04-04&g=2026-04-04), de verdeling, bedoeld in het tweede lid, herzien. De minister maakt de verschuivingen van het beschikbare budget bekend op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-##### Artikel 3.14. Subsidieaanvraag werkgever en geregistreerd gastouderbureau
+#### Artikel 3.14. Subsidieaanvraag werkgever en geregistreerd gastouderbureau
 
 1. Een werkgever of geregistreerd gastouderbureau dient de subsidieaanvraag in door middel van een door de minister elektronisch beschikbaar gesteld aanvraagformulier dat vergezeld gaat van:
 
@@ -1344,7 +1318,7 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 4. De minister maakt de informatie, bedoeld in het eerste lid, onderdeel a, en wijzigingen hiervan bekend op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-##### Artikel 3.15. Subsidieaanvraag collectief
+#### Artikel 3.15. Subsidieaanvraag collectief
 
 1. Een collectief dient de subsidieaanvraag in door middel van een door de minister elektronisch beschikbaar gesteld aanvraagformulier dat vergezeld gaat van:
 
@@ -1368,7 +1342,7 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 6. Door het indienen van een aanvraag stemt het collectief ermee in dat het subsidiedossier, met uitzondering van persoonsgegevens, openbaar wordt gemaakt.
 
-##### Artikel 3.16. Verplichte deelname centrumgemeente aan collectief
+#### Artikel 3.16. Verplichte deelname centrumgemeente aan collectief
 
 1. Een centrumgemeente als bedoeld in [artikel 2.4, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=2.4) kan voor 30 juni van het lopende kalenderjaar aan de minister melden dat zij onderdeel uit wil maken van een collectief dat op grond van deze regeling subsidie aan zal vragen.
 
@@ -1392,7 +1366,7 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 6. Indien er sprake is van de situatie, bedoeld in het vijfde lid, onderdeel b, voegt het collectief, onverminderd [artikel 3.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.15&z=2026-04-04&g=2026-04-04), bij de aanvraag een onderbouwing waaruit blijkt dat met de betreffende centrumgemeente redelijkerwijs geen overeenstemming over de deelname aan het collectief kon worden bereikt.
 
-##### Artikel 3.17. Wijze van verdeling
+#### Artikel 3.17. Wijze van verdeling
 
 1. Subsidieaanvragen worden behandeld op volgorde van ontvangst, waarbij alleen volledige subsidieaanvragen in behandeling worden genomen.
 
@@ -1412,7 +1386,7 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 - b. het resterende deel van het subsidieplafond naar rato over de resterende aanvragen wordt verdeeld.
 
-##### Artikel 3.18. Beschikking tot subsidieverlening
+#### Artikel 3.18. Beschikking tot subsidieverlening
 
 1. Op aanvragen van een werkgever en een geregistreerd gastouderbureau beslist de minister binnen 13 weken na de subsidieaanvraag.
 
@@ -1420,13 +1394,13 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 3. Onverminderd [artikel 4.2, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.2) vermeldt de beschikking tot subsidieverlening in ieder geval de wijze van bevoorschotting.
 
-##### Artikel 3.19. Bevoorschotting collectief
+#### Artikel 3.19. Bevoorschotting collectief
 
 1. De minister kan bij de beschikking tot subsidieverlening aan een collectief een voorschot verlenen van 25% van de verleende subsidie en, indien de looptijd, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.11&z=2026-04-04&g=2026-04-04), meer dan twaalf maanden bedraagt, een aanvullend voorschot van 50% van de verleende subsidie.
 
 2. Het aanvullend voorschot, bedoeld in het eerste lid, wordt uitbetaald na indiening van de voortgangsrapportage.
 
-##### Artikel 3.20. Weigeringsgronden
+#### Artikel 3.20. Weigeringsgronden
 
 1. Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25), en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de subsidie geheel of gedeeltelijk geweigerd, indien de subsidieaanvraag niet voldoet aan de bij deze regeling gestelde eisen.
 
@@ -1456,11 +1430,11 @@ Een subsidieaanvraag kan in het jaar 2025 bij de minister worden ingediend in de
 
 4. De subsidie wordt ook geweigerd indien het activiteitenplan de aannemelijkheid van de omvang en invulling van de aanvraag, of de haalbaarheid van de realisatie van het plan onvoldoende onderbouwt.
 
-##### Artikel 3.21. Subsidieverplichtingen collectief
+#### Artikel 3.21. Subsidieverplichtingen collectief
 
 Een collectief is verplicht om door haar ingekochte scholing aan te bieden aan alle begunstigden en, voor zover hij de verleende subsidie gebruikt voor het vergoeden van scholingskosten, om elke werkgever en elk geregistreerd gastouderbureau de gelegenheid te geven een verzoek tot vergoeding van scholingskosten bij het collectief in te dienen.
 
-##### Artikel 3.22. Administratievoorschriften collectief
+#### Artikel 3.22. Administratievoorschriften collectief
 
 1. Onverminderd [artikel 5.2 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.2), bevat de administratie van een collectief ten minste:
 
@@ -1476,7 +1450,7 @@ Een collectief is verplicht om door haar ingekochte scholing aan te bieden aan a
 
 3. De facturen, bedoeld in het eerste lid, onderdeel d, bevatten ten minste de door de minister te bepalen informatie. [Artikel 3.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=3.14&z=2026-04-04&g=2026-04-04), is van overeenkomstige toepassing.
 
-##### Artikel 3.23. Voortgangsrapportage
+#### Artikel 3.23. Voortgangsrapportage
 
 1. Indien de duur van de subsidiabele activiteiten meer dan twaalf maanden bedraagt, dient een collectief waaraan subsidie is verleend op grond van dit hoofdstuk op de tijdstippen, genoemd in de beschikking tot subsidieverlening, een voortgangsrapportage in.
 
@@ -1484,7 +1458,7 @@ Een collectief is verplicht om door haar ingekochte scholing aan te bieden aan a
 
 3. De minister stelt het model van de voortgangsrapportage vast.
 
-##### Artikel 3.24. Subsidievaststelling
+#### Artikel 3.24. Subsidievaststelling
 
 1. De minister bepaalt voorafgaande aan het vaststellen van de subsidie op basis van een steekproef aan welke werkgevers en geregistreerde gastouderbureaus waaraan een subsidie is verleend op grond van deze regeling hij een verzoek doet als bedoeld in [artikel 7.4, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4).
 
@@ -1498,7 +1472,7 @@ Een collectief is verplicht om door haar ingekochte scholing aan te bieden aan a
 
 6. De subsidieontvanger verstrekt bij het verzoek tot vaststelling van de subsidie het burgerservicenummer van alle personen die de scholing volgen of hebben gevolgd, die met de verleende subsidie is ingekocht.
 
-##### Artikel 3.25. Intrekking en terugvordering
+#### Artikel 3.25. Intrekking en terugvordering
 
 1. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) wordt de beschikking tot subsidieverlening geheel ingetrokken indien:
 
@@ -1512,23 +1486,23 @@ Een collectief is verplicht om door haar ingekochte scholing aan te bieden aan a
 
 ### Hoofdstuk 4. Hardheidsclausule en slotbepalingen
 
-##### Artikel 4.1. Hardheidsclausule
+#### Artikel 4.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 4.2. Evaluatie van de regeling
+#### Artikel 4.2. Evaluatie van de regeling
 
 1. De minister draagt zorg voor de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling.
 
 2. De subsidieontvanger werkt mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen die van belang zijn voor de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling en de ontwikkeling van het beleid van de minister. De subsidieontvanger verstrekt in dat kader de daartoe benodigde inlichtingen, gegevens en bescheiden.
 
-##### Artikel 4.3. Inwerkingtreding en vervaldatum
+#### Artikel 4.3. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2020 en vervalt met ingang van 1 januari 2030, met uitzondering van hoofdstuk 3, dat vervalt met ingang van 1 januari 2028.
 
 2. In afwijking van het eerste lid blijft deze regeling, zoals deze luidde op 31 december 2027 respectievelijk 31 december 2029, van toepassing op de afwikkeling van verleende subsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2026-04-04&g=2026-04-04) respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2026-04-04&g=2026-04-04) van deze regeling.
 
-##### Artikel 4.4. Citeertitel
+#### Artikel 4.4. Citeertitel
 
 Deze regeling wordt aangehaald als: SLIM-regeling.
 
@@ -1622,7 +1596,7 @@ Deze regeling wordt aangehaald als: SLIM-regeling.
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-##### Artikel 4.1a. Overgangsbepaling bij verduidelijking en aanscherping hoofdstuk 3
+#### Artikel 4.1a. Overgangsbepaling bij verduidelijking en aanscherping hoofdstuk 3
 
 Op subsidieaanvragen die zijn ingediend voor het tijdstip van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 juli 2025, nr. 2025-0000095142, tot wijziging van de SLIM-regeling met name in verband met het verduidelijken en aanscherpen van de regels voor de subsidieverstrekking ten behoeve van scholing in sectorale ontwikkelpaden, blijft de SLIM-regeling van toepassing zoals die luidde op de dag voor het genoemde tijdstip.
 

@@ -3,7 +3,7 @@ title: "Verdrag van Stockholm inzake persistente organische verontreinigende sto
 identifier: "BWBV0001517"
 categorie: "Internationaal recht"
 publicatiedatum: 2025-02-26
-laatste_update: 2026-05-23
+laatste_update: 2026-05-26
 status: geldig
 bron: "https://wetten.overheid.nl/BWBV0001517"
 ---

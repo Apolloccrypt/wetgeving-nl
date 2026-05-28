@@ -2,8 +2,8 @@
 title: "Nationaal Frequentieplan 2014"
 identifier: "BWBR0035791"
 categorie: "Overig"
-publicatiedatum: 2025-12-24
-laatste_update: 2025-12-24
+publicatiedatum: 2026-05-23
+laatste_update: 2026-05-27
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0035791"
 ---
@@ -16,19 +16,19 @@ Handelend na overleg met de minister van Defensie, de minister van Infrastructuu
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Nationaal Frequentieplan 2014 wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Nationaal Frequentieplan 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017991)1kst-24095-178-b1 wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
@@ -2234,6 +2234,8 @@ This identification does not preclude the use of these frequency bands by other 
 
 **5.517A** The operation of earth stations in motion communicating with geostationary fixed-satellite service space stations within the frequency bands 17.7–19.7 GHz (space-to-Earth) and 27.5–29.5 GHz (Earth-to-space) shall be subject to the application of Resolution **169 (WRC-19)**.(WRC-19)
 
+**5.517B** The operation of aeronautical and maritime earth stations in motion communicating with non-geostationary space stations in the fixed-satellite service in the frequency bands 17.7–18.6 GHz, 18.8–19.3 GHz and 19.7–20.2 GHz (space-to-Earth) and 27.5–29.1 GHz and 29.5–30 GHz (Earth-to-space) shall be subject to the application of Resolution 123 (WRC-23)
+
 **5.518** (SUP – WRC-07)
 
 **5.519** **Additional allocation:** the bands 18–18.3 GHz in Region 2 and 18.1–18.4 GHz in Regions 1 and 3 are also allocated to the meteorological-satellite service (space-to-Earth) on a primary basis. Their use is limited to geostationary satellites. (WRC-07)
@@ -2494,13 +2496,13 @@ In those portions of the frequency range 275–450 GHz where radio astronomy app
 
 The use of the above-mentioned frequency bands by land mobile and fixed service applications does not preclude use by, and does not establish priority over, any other applications of radio services in the range of 275–450 GHz. (WRC-19)
 
-**5.565** The following frequency bands in the range 275–1 000 GHz are identified for use by administrations for passive service applications:
-
 ### Annex 3, De nationale voetnoten
+
+The use of the range 275–1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275–1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275–1 000 GHz frequency range.
 
 All frequencies in the range 1 000–3 000 GHz may be used by both active and passive services. (WRC-12)
 
-Een nationale voetnoot wordt in het NFP toegepast (tot zover) in de gevallen dat:
+Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
 
 Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste nationale voetnoten.
 
@@ -2552,9 +2554,9 @@ CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dien
 
 De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
 
-Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derden is verdeling op afroep. Het betreft de gebruiksrechten op de banddelen 453,26875 – 454,76875 MHz 463,26875 – 464,76875 MHz en vanaf 1 juli 2035 ook de banddelen 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
-
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -2760,11 +2762,11 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VSAT**
 
-**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
-
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 **WRC –** **World Radio Conference**
+
+This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -2826,8 +2828,6 @@ Email: frequenties@minez.nl
 
 Email: frequenties@minez.nl
 
-Email: frequenties@minez.nl
-
 2500 EK Den Haag
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
@@ -2836,7 +2836,7 @@ Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derd
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
-**WRC –** **World Radio Conference**
+**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
@@ -2866,10 +2866,12 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-The use of the range 275–1 000 GHz by the passive services does not preclude use of this range by active services. Administrations wishing to make frequencies in the 275–1 000 GHz range available for active service applications are urged to take all practicable steps to protect these passive services from harmful interference until the date when the Table of Frequency Allocations is established in the above-mentioned 275–1 000 GHz frequency range.
+**5.565** The following frequency bands in the range 275–1 000 GHz are identified for use by administrations for passive service applications:
 
 ### Annex 3, De nationale voetnoten
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 3, De nationale voetnoten
