@@ -2,8 +2,8 @@
 title: "Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019"
 identifier: "BWBR0041897"
 categorie: "Milieu"
-publicatiedatum: 2020-09-26
-laatste_update: 2020-09-26
+publicatiedatum: 2025-08-01
+laatste_update: 2026-05-28
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0041897"
 ---
@@ -14,7 +14,7 @@ Gelet op [artikel 18, derde lid, van het Besluit mandaat, volmacht en machtiging
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat wordt ondermandaat, volmacht en machtiging verleend voor beslissingen op bezwaarschriften inzake personeelsaangelegenheden voor zover daarvoor geen mandaat, volmacht en machtiging is verleend aan de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat.
 
@@ -40,19 +40,19 @@ Besluit:
 
 - j. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat wordt ondermandaat, volmacht en machtiging verleend voor de P&O-aangelegenheden ten aanzien van de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat, de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat, de algemeen directeur Rijksdienst voor Ondernemend Nederland, de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat en de directeur van de Dienst Nederlandse Emissieautoriteit van het Ministerie van Economische Zaken en Klimaat.
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0036143) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019.
 

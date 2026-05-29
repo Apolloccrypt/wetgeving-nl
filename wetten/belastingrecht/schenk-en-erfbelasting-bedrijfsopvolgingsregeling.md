@@ -3,7 +3,7 @@ title: "Schenk- en erfbelasting, bedrijfsopvolgingsregeling"
 identifier: "BWBR0032849"
 categorie: "Belastingrecht"
 publicatiedatum: 2024-06-15
-laatste_update: 2024-06-15
+laatste_update: 2026-05-28
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0032849"
 ---

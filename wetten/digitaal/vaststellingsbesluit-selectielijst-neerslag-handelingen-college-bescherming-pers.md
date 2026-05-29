@@ -3,7 +3,7 @@ title: "Vaststellingsbesluit selectielijst neerslag handelingen College Bescherm
 identifier: "BWBR0019826"
 categorie: "Digitaal en privacy"
 publicatiedatum: 2006-05-24
-laatste_update: 2006-05-24
+laatste_update: 2026-05-28
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0019826"
 ---
@@ -16,11 +16,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 11 februari 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het College Bescherming Persoonsgegevens op het beleidsterrein Persoonsregistraties over de periode vanaf 1989’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

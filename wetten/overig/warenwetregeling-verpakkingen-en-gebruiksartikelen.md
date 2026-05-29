@@ -1,50 +1,24 @@
 ---
-title: "Regeling van de Minister van Volksgezondheid, Welzijn van 14 maart 2014, kenmerk 328583-117560-VGP, houdende vaststelling van de Warenwetregeling verpakkingen en gebruiksartikelen die in contact komen met levensmiddelen (Warenwetregeling verpakkingen en gebruiksartikelen)"
+title: "Warenwetregeling verpakkingen en gebruiksartikelen"
 identifier: "BWBR0034991"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-27"
-last_updated: "2025-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034991"
-soort: "ministeriele-regeling"
-stam_id: "12630243"
-version_id: "26809972"
-internal_id: "C37986541"
-label_id: "12600634"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034991/2025-11-27/0"
-intitule_bron: "Stcrt.2014-8531"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-03-14"
-intitule_published: "2014-03-27"
-intitule_in_force: "2014-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-32859"
-original_signed_date: "2020-06-12"
-original_published_date: "2020-06-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-32859"
-entry_into_force_date: "2020-06-12"
-jci_1_3: "jci1.3:c:BWBR0034991&z=2025-11-27&g=2025-11-27"
-jci_1_0: "1.0:c:BWBR0034991&g=2025-11-27"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling verpakkingen en gebruiksartikelen"
-signed_date: "2020-06-12"
-entry_into_force: "2020-06-12"
+categorie: "Overig"
+publicatiedatum: 2025-11-27
+laatste_update: 2025-11-27
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0034991"
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn van 14 maart 2014, kenmerk 328583-117560-VGP, houdende vaststelling van de Warenwetregeling verpakkingen en gebruiksartikelen die in contact komen met levensmiddelen (Warenwetregeling verpakkingen en gebruiksartikelen)
 
 Gelet op [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4), en [6a, tweede lid, van het Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=6a);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder het besluit: het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370).
 
-##### Artikel 2
+#### Artikel 2
 
 Als materialen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3), van het besluit worden aangewezen:
 
@@ -72,31 +46,31 @@ Als materialen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.ov
 
 - l. epoxypolymeren.
 
-##### Artikel 3
+#### Artikel 3
 
 Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-11-27&g=2025-11-27), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
 
-##### Artikel 4
+#### Artikel 4
 
 Bij de vervaardiging van verpakkingen en gebruiksartikelen mogen grond- en hulpstoffen voor zover ter zake van de aanwending daarvan in de bij deze regeling behorende bijlage regels zijn gesteld, niet op een andere wijze dan in die bijlage is aangegeven worden aangewend.
 
-##### Artikel 5
+#### Artikel 5
 
 Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-11-27&g=2025-11-27), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
 
-##### Artikel 6
+#### Artikel 6
 
 Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2025-11-27&g=2025-11-27), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
 
-##### Artikel 7
+#### Artikel 7
 
 De [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) wordt ingetrokken.
 
-##### Artikel 8
+#### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 april 2014.
 
-##### Artikel 9
+#### Artikel 9
 
 Deze regeling wordt aangehaald als: Warenwetregeling verpakkingen en gebruiksartikelen.
 
@@ -592,7 +566,7 @@ Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 5a
+#### Artikel 5a
 
 Onze Minister stelt een commissie in voor de beoordeling van de veiligheid van voedselcontactmaterialen.
 
