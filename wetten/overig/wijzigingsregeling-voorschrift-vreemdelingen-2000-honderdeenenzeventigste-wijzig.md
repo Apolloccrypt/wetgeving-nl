@@ -2,8 +2,8 @@
 title: "Wijzigingsregeling Voorschrift Vreemdelingen 2000 (honderdeenenzeventigste wijziging)"
 identifier: "BWBR0045184"
 categorie: "Overig"
-publicatiedatum: 2025-05-31
-laatste_update: 2025-05-31
+publicatiedatum: 2026-05-31
+laatste_update: 2026-05-31
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0045184"
 ---
@@ -16,18 +16,18 @@ Gelet op de [artikelen 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Voorschrift Vreemdelingen 2000.
 
-#### Artikel II
+##### Artikel II
 
-[Artikel 3.20e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.20e) en de daarbij behorende [bijlage 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8c), zoals die luidden op 31 mei 2026, blijven tot en met 31 mei 2027 van toepassing met betrekking tot de vreemdeling die op basis van [artikel 2.7 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.7) en [artikel 3.31, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31) werkzaamheden verricht.
+[Artikel 3.20e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.20e) en de daarbij behorende [bijlage 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8c), zoals die luidden op 31 mei 2028, blijven tot en met 31 mei 2029 van toepassing met betrekking tot de vreemdeling die op basis van [artikel 2.7 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=2.7) en [artikel 3.31, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31) werkzaamheden verricht.
 
-#### Artikel III
+##### Artikel III
 
-1. Deze regeling treedt in werking met ingang van 1 juni 2021, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045184&artikel=I&z=2025-05-31&g=2025-05-31), dat in werking treedt met ingang van 1 juli 2021.
+1. Deze regeling treedt in werking met ingang van 1 juni 2021, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045184&artikel=I&z=2026-05-31&g=2026-05-31), dat in werking treedt met ingang van 1 juli 2021.
 
-2. [Artikel 3.20e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.20e) en de daarbij behorende [bijlage 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8c) vervallen met ingang van 1 juni 2026.
+2. [Artikel 3.20e](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.20e) en de daarbij behorende [bijlage 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=8c) vervallen met ingang van 1 juni 2028.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
