@@ -1,32 +1,13 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting"
 identifier: "BWBV0007121"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-11-21"
-last_updated: "2025-11-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007121"
-soort: "verdrag"
-stam_id: "10005717513"
-version_id: "10006317682"
-internal_id: "C10010224481"
-label_id: "10005699364"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007121/2025-11-21/0"
-intitule_bron: "Trb.2025-94"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-12-02"
-intitule_status: "nogniet"
-original_publication: "Trb.2025-94"
-original_published_date: "2025-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2025-94"
-jci_1_3: "jci1.3:c:BWBV0007121&z=2025-11-21&g=2025-11-21"
-jci_1_0: "1.0:c:BWBV0007121&g=2025-11-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-12-02"
+categorie: "Belastingrecht"
+publicatiedatum: 2025-11-21
+laatste_update: 2026-06-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBV0007121"
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting
 
 Het Koninkrijk der Nederlanden
@@ -55,19 +36,19 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 - a. in het geval van Thailand: (hierna te noemen: „Thaise belasting”);
 
-- i. de inkomstenbelasting; en
+  - i. de inkomstenbelasting; en
 
-- ii. de belasting op inkomsten uit de winning van aardolie („petroleum income tax”);
+  - ii. de belasting op inkomsten uit de winning van aardolie („petroleum income tax”);
 
 - b. in het geval van Nederland: (hierna te noemen: „Nederlandse belasting”).
 
-- i. de inkomstenbelasting;
+  - i. de inkomstenbelasting;
 
-- ii. de loonbelasting;
+  - ii. de loonbelasting;
 
-- iii. de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
+  - iii. de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
 
-- iv. de dividendbelasting;
+  - iv. de dividendbelasting;
 
 4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende staten stellen elkaar in kennis van alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgeving zijn aangebracht.
 
@@ -89,23 +70,23 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 - g. betekent de uitdrukking „onderdaan” met betrekking tot een verdragsluitende staat:
 
-- i. in het geval van Thailand, elke natuurlijke persoon die de nationaliteit van het Koninkrijk Thailand bezit en elke rechtspersoon die, elk samenwerkingsverband dat, elke vereniging die en elke andere entiteit die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in Thailand van kracht is;
+  - i. in het geval van Thailand, elke natuurlijke persoon die de nationaliteit van het Koninkrijk Thailand bezit en elke rechtspersoon die, elk samenwerkingsverband dat, elke vereniging die en elke andere entiteit die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in Thailand van kracht is;
 
-- ii. in het geval van Nederland, elke natuurlijke persoon die de nationaliteit van het Koninkrijk der Nederlanden bezit en elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
+  - ii. in het geval van Nederland, elke natuurlijke persoon die de nationaliteit van het Koninkrijk der Nederlanden bezit en elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
 
 - h. betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of luchtvaartuig, behalve wanneer het schip of luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in een verdragsluitende staat zijn gelegen en de onderneming die het schip of luchtvaartuig exploiteert geen onderneming van die staat is; en
 
 - i. betekent de uitdrukking „bevoegde autoriteit”:
 
-- i. in het geval van Thailand, de minister van Financiën of zijn bevoegde vertegenwoordiger; en
+  - i. in het geval van Thailand, de minister van Financiën of zijn bevoegde vertegenwoordiger; en
 
-- ii. in het geval van Nederland, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+  - ii. in het geval van Nederland, de minister van Financiën of zijn bevoegde vertegenwoordiger;
 
 - j. betekent de uitdrukking „erkend pensioenfonds” van een staat een in die staat gevestigde entiteit of constructie die:
 
-- i. uitsluitend of nagenoeg uitsluitend is opgericht en wordt geëxploiteerd ten behoeve van het beheren of het voorzien in oudedagsvoorzieningen en ondergeschikte of bijkomstige voorzieningen aan natuurlijke personen en als zodanig gereguleerd wordt door die staat of door een van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan; of
+  - i. uitsluitend of nagenoeg uitsluitend is opgericht en wordt geëxploiteerd ten behoeve van het beheren of het voorzien in oudedagsvoorzieningen en ondergeschikte of bijkomstige voorzieningen aan natuurlijke personen en als zodanig gereguleerd wordt door die staat of door een van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan; of
 
-- ii. uitsluitend of nagenoeg uitsluitend is opgericht en wordt geëxploiteerd voor het beleggen van gelden ten voordele van entiteiten of constructies zoals bedoeld in subonderdeel i.
+  - ii. uitsluitend of nagenoeg uitsluitend is opgericht en wordt geëxploiteerd voor het beleggen van gelden ten voordele van entiteiten of constructies zoals bedoeld in subonderdeel i.
 
 2. Voor de toepassing van het Verdrag op enig moment door een verdragsluitende staat heeft elke daarin niet omschreven uitdrukking, tenzij de context anders vereist of de bevoegde autoriteiten een andere betekenis overeenkomen ingevolge de bepalingen van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007121&artikel=24&z=2025-11-21&g=2025-11-21), de betekenis welke deze op dat moment heeft volgens de wetgeving van die staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die staat prevaleert boven een betekenis die volgens andere wetgeving van die staat aan die uitdrukking wordt gegeven.
 
@@ -287,37 +268,37 @@ Voor de toepassing van deze paragraaf wordt onder de uitdrukking „regering” 
 
 - a. in het geval van Thailand:, de regering van het Koninkrijk Thailand en omvat mede:
 
-- i. de Bank of Thailand;
+  - i. de Bank of Thailand;
 
-- ii. de Export-Import Bank of Thailand;
+  - ii. de Export-Import Bank of Thailand;
 
-- iii. de Government Saving Bank;
+  - iii. de Government Saving Bank;
 
-- iv. de Government Housing Bank;
+  - iv. de Government Housing Bank;
 
-- v. elk ministerie of onderdeel daarvan;
+  - v. elk ministerie of onderdeel daarvan;
 
-- vi. elke lokale autoriteit;
+  - vi. elke lokale autoriteit;
 
-- vii. elke rechtspersoon die volledig toebehoort aan de regering van het Koninkrijk Thailand;
+  - vii. elke rechtspersoon die volledig toebehoort aan de regering van het Koninkrijk Thailand;
 
-- viii. elke instelling zoals van tijd tot tijd door de verdragsluitende staten kan worden overeengekomen; en
+  - viii. elke instelling zoals van tijd tot tijd door de verdragsluitende staten kan worden overeengekomen; en
 
-- ix. elk erkend pensioenfonds dat gereguleerd wordt door de regering van het Koninkrijk Thailand of de staatkundige onderdelen daarvan, zoals overeengekomen door de bevoegde autoriteiten van de verdragsluitende staten;
+  - ix. elk erkend pensioenfonds dat gereguleerd wordt door de regering van het Koninkrijk Thailand of de staatkundige onderdelen daarvan, zoals overeengekomen door de bevoegde autoriteiten van de verdragsluitende staten;
 
 - b. in het geval van Nederland, de regering van het Koninkrijk der Nederlanden en omvat mede:
 
-- i. De Nederlandsche Bank (Centrale Bank);
+  - i. De Nederlandsche Bank (Centrale Bank);
 
-- ii. elk ministerie of onderdeel daarvan;
+  - ii. elk ministerie of onderdeel daarvan;
 
-- iii. elke lokale autoriteit;
+  - iii. elke lokale autoriteit;
 
-- iv. elke rechtspersoon die toebehoort aan of wordt beheerst door de regering van het Koninkrijk der Nederlanden;
+  - iv. elke rechtspersoon die toebehoort aan of wordt beheerst door de regering van het Koninkrijk der Nederlanden;
 
-- v. elke instelling zoals van tijd tot tijd door de bevoegde autoriteiten van de verdragsluitende staten vastgesteld; en
+  - v. elke instelling zoals van tijd tot tijd door de bevoegde autoriteiten van de verdragsluitende staten vastgesteld; en
 
-- vi. elk erkend pensioenfonds dat gereguleerd wordt door de regering van het Koninkrijk der Nederlanden of de staatkundige onderdelen daarvan, zoals overeengekomen door de bevoegde autoriteiten van de verdragsluitende staat.
+  - vi. elk erkend pensioenfonds dat gereguleerd wordt door de regering van het Koninkrijk der Nederlanden of de staatkundige onderdelen daarvan, zoals overeengekomen door de bevoegde autoriteiten van de verdragsluitende staat.
 
 5. De uitdrukking „interest”, zoals gebezigd in dit artikel, betekent inkomen uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek en al dan niet aanspraak gevend op een aandeel in de winst van de schuldenaar, en in het bijzonder inkomen uit overheidsleningen en inkomen uit obligaties of schuldbewijzen, waaronder begrepen de aan dergelijke leningen, obligaties of schuldbewijzen verbonden premies en prijzen alsmede inkomen dat door de belastingwetgeving van de verdragsluitende staat waaruit het inkomen afkomstig is, met inkomen uit geldlening wordt gelijkgesteld. Opgelegde boetes voor te late betaling worden voor de toepassing van dit artikel niet als interest aangemerkt.
 
@@ -413,9 +394,9 @@ Voor de toepassing van deze paragraaf wordt onder de uitdrukking „regering” 
 
 - b. Dergelijke salarissen, lonen en andere soortgelijke beloningen zijn echter slechts in de andere verdragsluitende staat belastbaar indien de diensten in die staat worden verleend en de natuurlijke persoon inwoner is van die staat en:
 
-- i. onderdaan is van die staat; of
+  - i. onderdaan is van die staat; of
 
-- ii. niet uitsluitend voor het verlenen van de diensten inwoner van die staat is geworden.
+  - ii. niet uitsluitend voor het verlenen van de diensten inwoner van die staat is geworden.
 
 2. De bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007121&artikel=15&z=2025-11-21&g=2025-11-21), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0007121&artikel=16&z=2025-11-21&g=2025-11-21), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0007121&artikel=17&z=2025-11-21&g=2025-11-21) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007121&artikel=18&z=2025-11-21&g=2025-11-21) zijn van toepassing op salarissen, lonen en andere soortgelijke beloningen ter zake van diensten verleend in het kader van een bedrijf, uitgeoefend door een verdragsluitende staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 

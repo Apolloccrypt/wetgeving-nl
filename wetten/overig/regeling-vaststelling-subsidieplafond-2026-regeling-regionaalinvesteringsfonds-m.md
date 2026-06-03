@@ -2,8 +2,8 @@
 title: "Regeling vaststelling subsidieplafond 2026 Regeling regionaalinvesteringsfonds mbo 2024–2027, alsmede de wijziging Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
 identifier: "BWBR0051742"
 categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
+publicatiedatum: 2026-06-01
+laatste_update: 2026-06-02
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0051742"
 ---
@@ -14,19 +14,19 @@ Gelet op de [artikelen 2.2.3, eerste lid, van de Wet educatie en beroepsonderwij
 
 Besluit:
 
-#### Artikel I. Vaststelling subsidieplafond voor het kalenderjaar 2026 [Regeling regionaal investeringsfonds mbo 2024-2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883)
+##### Artikel I. Vaststelling subsidieplafond voor het kalenderjaar 2026 [Regeling regionaal investeringsfonds mbo 2024-2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883)
 
 Het subsidieplafond, bedoeld in [artikel 5, tweede en derde lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=5) voor het kalenderjaar 2026 wordt:
 
 - a. voor de aanvraagperiode van 1 januari 2026 tot en met 31 januari 2026 vastgesteld op € 7 miljoen; en
 
-- b. voor de aanvraagperiode van 1 juni 2026 tot en met 30 juni 2026 vastgesteld op € 5 miljoen.
+- b. voor de aanvraagperiode van 1 juni 2026 tot en met 30 juni 2026 vastgesteld op € 10.431.065,–.
 
-#### Artikel II. Wijziging [Instellingsbesluit tijdelijke adviescommissie regionaal investeringsfonds mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0041860)
+##### Artikel II. Wijziging [Instellingsbesluit tijdelijke adviescommissie regionaal investeringsfonds mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0041860)
 
 Wijzigt het Instellingsbesluit tijdelijke adviescommissie regionaal investeringsfonds mbo.
 
-#### Artikel III. Inwerkingtreding
+##### Artikel III. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
