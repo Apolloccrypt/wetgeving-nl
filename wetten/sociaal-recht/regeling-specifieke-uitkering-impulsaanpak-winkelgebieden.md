@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Minister van Economische Zaken en Klimaat van 22 april 2022, nr. WJZ/ 22038298, tot instelling van een specifieke uitkering gericht op de impulsaanpak winkelgebieden (Regeling specifieke uitkering impulsaanpak winkelgebieden)"
+title: "Regeling specifieke uitkering impulsaanpak winkelgebieden"
 identifier: "BWBR0046593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-29"
-last_updated: "2025-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046593"
-soort: "ministeriele-regeling"
-stam_id: "16337173"
-version_id: "28613532"
-internal_id: "C40366331"
-label_id: "16261734"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046593/2025-11-29/0"
-intitule_bron: "Stcrt.2022-11435"
-intitule_effect: "wijziging"
-intitule_signed: "2022-04-22"
-intitule_published: "2022-04-26"
-intitule_in_force: "2022-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-11435"
-original_signed_date: "2022-04-22"
-original_published_date: "2022-04-26"
-original_effect: "wijziging"
-original_url_id: "stcrt-2022-11435"
-entry_into_force_date: "2022-04-27"
-jci_1_3: "jci1.3:c:BWBR0046593&z=2025-11-29&g=2025-11-29"
-jci_1_0: "1.0:c:BWBR0046593&g=2025-11-29"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering impulsaanpak winkelgebieden"
-signed_date: "2022-04-22"
-entry_into_force: "2022-04-27"
+categorie: "Sociaal recht"
+publicatiedatum: 2025-11-29
+laatste_update: 2025-11-29
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046593"
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 22 april 2022, nr. WJZ/ 22038298, tot instelling van een specifieke uitkering gericht op de impulsaanpak winkelgebieden (Regeling specifieke uitkering impulsaanpak winkelgebieden)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-##### Artikel 1. (begripsbepalingen)
+#### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
@@ -70,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - **verblijfsobject:** de kleinste binnen één of meerdere panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte en die onderwerp kan zijn van goederenrechtelijke rechtshandelingen.
 
-##### Artikel 2. (specifieke uitkering)
+#### Artikel 2. (specifieke uitkering)
 
 De minister verstrekt op aanvraag een specifieke uitkering aan een gemeente ten behoeve van de uitvoering van een project, in samenwerking met twee of meerdere rechtspersonen of natuurlijke personen, dat zich richt op de herstructurering van een projectgebied tot vitaal, toekomstbestendig en sociaaleconomisch gezond gebied, voor de volgende activiteiten:
 
@@ -82,7 +56,7 @@ De minister verstrekt op aanvraag een specifieke uitkering aan een gemeente ten 
 
 - d. aanleg van openbare voorzieningen in het projectgebied.
 
-##### Artikel 3. (hoogte van de uitkering)
+#### Artikel 3. (hoogte van de uitkering)
 
 1. De specifieke uitkering bedraagt ten hoogste 25% van de realisatiekosten met een maximum van 50% van de onrendabele top en niet meer dan € 5.000.000 per project.
 
@@ -90,11 +64,11 @@ De minister verstrekt op aanvraag een specifieke uitkering aan een gemeente ten 
 
 3. De huidige en de toekomstige marktwaarde van de verblijfsobjecten in de panden in het projectgebied wordt vastgesteld op basis van een taxatie uitgevoerd door een onafhankelijk taxateur.
 
-##### Artikel 4. (uitkeringsplafond)
+#### Artikel 4. (uitkeringsplafond)
 
 De minister verdeelt het uitkeringsplafond, opgenomen in de bijlage, op volgorde van rangschikking van de aanvragen.
 
-##### Artikel 5. (aanvraag)
+#### Artikel 5. (aanvraag)
 
 1. Een specifieke uitkering wordt op aanvraag van een college verstrekt.
 
@@ -122,15 +96,15 @@ De minister verdeelt het uitkeringsplafond, opgenomen in de bijlage, op volgorde
 
 6. Een aanvraag voor een specifieke uitkering wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
-##### Artikel 6. (beslistermijn)
+#### Artikel 6. (beslistermijn)
 
 De minister verleent de specifieke uitkering binnen 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend. Indien niet binnen deze termijn kan worden beslist, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel kan worden genomen.
 
-##### Artikel 7. (realisatietermijn)
+#### Artikel 7. (realisatietermijn)
 
 De maximale realisatietermijn van het project is zeven jaar, gerekend vanaf de datum waarop de specifieke uitkering is verleend.
 
-##### Artikel 8. (afwijzingsgronden)
+#### Artikel 8. (afwijzingsgronden)
 
 De minister besluit afwijzend op een aanvraag indien:
 
@@ -140,7 +114,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - c. de aanvrager een G4-gemeente is.
 
-##### Artikel 9. (instelling adviescommissie)
+#### Artikel 9. (instelling adviescommissie)
 
 1. Er is een Adviescommissie impulsaanpak winkelgebieden die tot taak heeft de minister te adviseren over de rangschikking van de aanvragen, op basis van rangschikkingscriteria, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2025-11-29&g=2025-11-29).
 
@@ -164,7 +138,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 11. De adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van de taak van de minister benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van de taak van de minister redelijkerwijs nodig is.
 
-##### Artikel 10. (rangschikkingscriteria)
+#### Artikel 10. (rangschikkingscriteria)
 
 1. De minister kent een aanvraag een hoger aantal punten toe naarmate:
 
@@ -184,7 +158,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 5. Indien aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, rangschikt de minister een aanvraag hoger naarmate meer punten zijn toegekend aan respectievelijk onderdeel a, b, c, en d, van het eerste lid.
 
-##### Artikel 11. (verplichtingen)
+#### Artikel 11. (verplichtingen)
 
 1. De gemeente voert de activiteiten uit overeenkomstig het projectplan.
 
@@ -200,13 +174,13 @@ De minister besluit afwijzend op een aanvraag indien:
 
 7. De minister kan voor het vertragen of het essentieel wijzigen van de wijze waarop de activiteiten worden uitgevoerd op voorafgaand verzoek van de gemeente ontheffing verlenen van de verplichting, bedoeld in het eerste en tweede lid, tenzij hierdoor afbreuk wordt gedaan aan de mate waarin het project bijdraagt aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2025-11-29&g=2025-11-29). Aan de ontheffing kunnen voorschriften worden verbonden.
 
-##### Artikel 12. (voorschot)
+#### Artikel 12. (voorschot)
 
 1. Het voorschot bedraagt 100% van de specifieke uitkering en wordt ambtshalve verstrekt binnen 2 weken na de verlening van de specifieke uitkering.
 
 2. Indien de specifieke uitkering is verleend tussen 2 juli 2024 en 31 december 2024 kan een gemeente verzoeken tot het verstrekken van het voorschot overeenkomstig het eerste lid.
 
-##### Artikel 13. (verantwoording en terugvordering)
+#### Artikel 13. (verantwoording en terugvordering)
 
 1. De gemeente legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -220,11 +194,11 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - c. een beschrijving van de wijze waarop de gemeente zorg draagt voor monitoring van het project conform het projectplan. De gemeente maakt hiertoe afspraken met de overige partijen in het samenwerkingsverband zodat uniforme, cumulatieve informatie wordt verzameld en gerapporteerd over het programmaverloop.
 
-##### Artikel 14. (inwerkingtreding)
+#### Artikel 14. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-##### Artikel 15. (citeertitel)
+#### Artikel 15. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering impulsaanpak winkelgebieden.
 
