@@ -1,41 +1,14 @@
 ---
-title: "Wet van 15 juli 2008, houdende samenvoeging van de Wet identificatie bij dienstverlening en de Wet melding ongebruikelijke transacties (Wet ter voorkoming van witwassen en financieren van terrorisme)"
+title: "Wet ter voorkoming van witwassen en financieren van terrorisme"
 identifier: "BWBR0024282"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024282"
-soort: "wet"
-stam_id: "9672333"
-version_id: "26721582"
-internal_id: "C37877451"
-label_id: "9650144"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024282/2026-01-01/0"
-intitule_bron: "Stb.2008-303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-15"
-intitule_published: "2008-07-29"
-intitule_in_force: "2008-07-29"
-intitule_status: "goed"
-original_publication: "Stb.2020-146"
-original_signed_date: "2020-04-22"
-original_published_date: "2020-05-20"
-original_effect: "structuurwijziging"
-original_dossier: "35245"
-original_url_id: "stb-2020-146"
-entry_into_force_date: "2020-05-21"
-jci_1_3: "jci1.3:c:BWBR0024282&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0024282&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet ter voorkoming van witwassen en financieren van terrorisme"
-signed_date: "2020-04-22"
-entry_into_force: "2020-05-21"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0024282"
 ---
-# Wet van 15 juli 2008, houdende samenvoeging van de Wet identificatie bij dienstverlening en de Wet melding ongebruikelijke transacties (Wet ter voorkoming van witwassen en financieren van terrorisme)
+
+# Wet ter voorkoming van witwassen en financieren van terrorisme
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -45,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -147,7 +120,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Bij algemene maatregel van bestuur worden de categorieën natuurlijke personen aangewezen die in elk geval moeten worden aangemerkt als uiteindelijk belanghebbende als bedoeld in het eerste lid.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Een instelling met een bijkantoor of een meerderheidsdochteronderneming in een staat die geen lidstaat is en waar de wettelijke voorschriften ter voorkoming van witwassen en financieren van terrorisme minder verstrekkend zijn dan de bij of krachtens deze wet gestelde regels, draagt er zorg voor dat het bijkantoor, onderscheidenlijk de meerderheidsdochteronderneming, de bij of krachtens deze wet gestelde regels naleeft, voor zover het recht van de betrokken staat hier niet aan in de weg staat.
 
@@ -159,7 +132,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2.1. Cliëntenonderzoek
 
-##### Artikel 3
+#### Artikel 3
 
 1. Een instelling verricht ter voorkoming van witwassen en financieren van terrorisme cliëntenonderzoek.
 
@@ -221,7 +194,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 15. Bij het verrichten van het cliëntenonderzoek verlaten de instellingen zich niet uitsluitend op de informatie in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
-##### Artikel 4
+#### Artikel 4
 
 1. Een instelling voldoet aan [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), en indien van toepassing het derde en vierde lid van dat artikel, voordat de zakelijke relatie wordt aangegaan of een incidentele transactie als bedoeld in artikel 3, vijfde lid, onderdelen b en g, zesde en zevende lid, wordt uitgevoerd.
 
@@ -235,7 +208,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. In afwijking van het eerste lid is het een instelling toegestaan om de identiteit van de begunstigde van een trust of van een soortgelijke juridische constructie pas vast te stellen op het tijdstip van uitbetaling of op het tijdstip waarop de begunstigde zijn definitieve rechten uitoefent, mits de begunstigde voor het aangaan van de zakelijke relatie of het uitvoeren van een incidentele transactie aan de hand van specifieke kenmerken of naar categorie is omschreven en de instelling zodanige informatie inwint dat zij in staat is de identiteit van de begunstigde vast te stellen op het tijdstip van uitbetaling of op het tijdstip waarop de begunstigde zijn definitieve rechten uitoefent.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01) is het een instelling verboden een zakelijke relatie aan te gaan met of een transactie uit te voeren voor een cliënt, tenzij:
 
@@ -271,7 +244,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1.1a. Verbod op contante betalingen voor beroeps- of bedrijfsmatige handelaren
 
-##### Artikel 6
+#### Artikel 6
 
 1. In afwijking van [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), kan een instelling een vereenvoudigd cliëntenonderzoek verrichten indien een zakelijke relatie of transactie naar haar aard een laag risico op witwassen of financieren van terrorisme met zich brengt. De instelling houdt daarbij ten minste rekening met de in bijlage II bij de vierde anti-witwasrichtlijn genoemde risicofactoren.
 
@@ -281,7 +254,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Een instelling zorgt voor een toereikende controle van de transacties of de zakelijke relatie om te verzekeren dat kan worden voldaan aan het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 7
+#### Artikel 7
 
 1. De [artikelen 3, tweede lid, onderdelen a tot en met c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-01-01&g=2026-01-01) zijn niet van toepassing voor zover een instelling een zakelijke relatie aangaat of een transactie verricht met betrekking tot elektronisch geld en:
 
@@ -303,7 +276,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2.3. Verscherpt cliëntenonderzoek
 
-##### Artikel 8
+#### Artikel 8
 
 1. Een instelling verricht, in aanvulling op [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), verscherpt cliëntenonderzoek in ten minste de volgende gevallen:
 
@@ -377,7 +350,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2.4. Introduceren van cliënten en uitbesteding van identificatie
 
-##### Artikel 9
+#### Artikel 9
 
 1. Onverminderd [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-01-01&g=2026-01-01), verricht een instelling met betrekking tot transacties, zakelijke relaties en correspondentbankrelaties gerelateerd aan staten die op grond van artikel 9 van de vierde anti-witwasrichtlijn in gedelegeerde handelingen van de Europese Commissie zijn aangewezen als staten met een hoger risico op witwassen of financieren van terrorisme de volgende verscherpte onderzoeksmaatregelen:
 
@@ -421,7 +394,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. In de regeling bedoeld in het tweede en derde lid, kan worden bepaald dat bij die regeling aangewezen instellingen één of meer van de maatregelen genoemd in het tweede en derde lid verrichten. Daarbij kan onderscheid worden gemaakt naar categorie instelling.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Een instelling kan het cliëntenonderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), voor zover het betrekking heeft op het in het tweede lid, onderdelen a, b, c, e en f, van dat artikel bepaalde, laten verrichten door een derde in het kader van een uitbesteding- of agentuurovereenkomst, onverminderd haar verplichting om te voldoen aan het in die onderdelen bepaalde.
 
@@ -429,7 +402,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2.5. Documenten die voor de verificatie van de identiteit gebruikt kunnen worden
 
-##### Artikel 11
+#### Artikel 11
 
 1. Indien de cliënt, de insteller van een trust, de trustee van een trust, de vennoot van een personenvennootschap of de persoon bevoegd inzake het beheer van de personenvennootschap een natuurlijke persoon is, wordt diens identiteit geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron. Bij ministeriële regeling kunnen documenten, gegevens of inlichtingen worden aangewezen op basis waarvan kan worden voldaan aan het in de vorige zin bepaalde.
 
@@ -443,7 +416,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2.1. Cliëntenonderzoek
 
-##### Artikel 12
+#### Artikel 12
 
 1. Er is een Financiële inlichtingen eenheid.
 
@@ -453,7 +426,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Onze Minister van Justitie bepaalt in overeenstemming met Onze Minister van Financiën de begroting van de Financiële inlichtingen eenheid.
 
-##### Artikel 13
+#### Artikel 13
 
 De Financiële inlichtingen eenheid heeft met het oog op het voorkomen en opsporen van witwassen en onderliggende basisdelicten, alsmede financieren van terrorisme, tot taak:
 
@@ -483,7 +456,7 @@ De Financiële inlichtingen eenheid heeft met het oog op het voorkomen en opspor
 
 - i. het jaarlijks uitbrengen van een verslag met betrekking tot de taakuitoefening en zijn werkzaamheden in het voorafgaande jaar en van zijn voornemens voor het komende jaar, dat wordt aangeboden aan Onze Minister van Justitie en ter kennis gebracht van Onze Minister van Financiën.
 
-##### Artikel 14
+#### Artikel 14
 
 1. Bij de Financiële inlichtingen eenheid kunnen persoonsgegevens worden verwerkt ten behoeve van de taak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01).
 
@@ -493,13 +466,13 @@ De Financiële inlichtingen eenheid heeft met het oog op het voorkomen en opspor
 
 #### § 3.2. De Meldingsplicht
 
-##### Artikel 15
+#### Artikel 15
 
 1. Bij algemene maatregel van bestuur worden, zo nodig per daarbij te onderscheiden categorieën transacties, indicatoren vastgesteld aan de hand waarvan wordt beoordeeld of een transactie wordt aangemerkt als een ongebruikelijke transactie.
 
 2. Indien het spoedeisende belang dat vereist, kunnen bij regeling van Onze Minister van Financiën en Onze Minister van Justitie gezamenlijk de indicatoren, bedoeld in het eerste lid, worden vastgesteld voor een termijn van ten hoogste zes maanden.
 
-##### Artikel 16
+#### Artikel 16
 
 1. Een instelling meldt een verrichte of voorgenomen ongebruikelijke transactie onverwijld nadat het ongebruikelijke karakter van de transactie bekend is geworden, aan de Financiële inlichtingen eenheid.
 
@@ -529,7 +502,7 @@ De Financiële inlichtingen eenheid heeft met het oog op het voorkomen en opspor
 
 5. Bij een melding ingevolge het vierde lid verstrekt een instelling naast de gegevens, bedoeld in het tweede lid, een beschrijving van de redenen waarom het vierde lid van toepassing is.
 
-##### Artikel 17
+#### Artikel 17
 
 1. De Financiële inlichtingen eenheid kan ten behoeve van de uitvoering van haar taak, bedoeld in [artikel 13, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), gegevens of inlichtingen opvragen bij een instelling die een melding heeft gedaan of bij een instelling die naar het oordeel van de Financiële inlichtingen eenheid beschikt over gegevens of inlichtingen die relevant zijn voor het analyseren door de Financiële inlichtingen eenheid van een transactie of voorgenomen transactie of van een zakelijke relatie.
 
@@ -537,13 +510,13 @@ De Financiële inlichtingen eenheid heeft met het oog op het voorkomen en opspor
 
 3. Indien een instelling met vestiging in een andere lidstaat naar het oordeel van de Financiële inlichtingen eenheid beschikt over gegevens of inlichtingen als bedoeld in het eerste lid, kan de Financiële inlichtingen eenheid overeenkomstig [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13b&z=2026-01-01&g=2026-01-01), de financiële inlichtingen eenheid van de lidstaat waar de instelling is gevestigd om deze gegevens of inlichtingen verzoeken.
 
-##### Artikel 18
+#### Artikel 18
 
 De Financiële inlichtingen eenheid bepaalt de wijze waarop een melding moet worden gedaan, of gegevens of inlichtingen als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), moeten worden verstrekt.
 
 #### § 3.3. Vrijwaring
 
-##### Artikel 19
+#### Artikel 19
 
 1. Gegevens of inlichtingen die in overeenstemming met de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01) te goeder trouw zijn verstrekt, kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens witwassen of financieren van terrorisme door de instelling die deze gegevens of inlichtingen heeft verstrekt.
 
@@ -551,7 +524,7 @@ De Financiële inlichtingen eenheid bepaalt de wijze waarop een melding moet wor
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van personen die werkzaam zijn voor een instelling die gegevens of inlichtingen heeft verstrekt als omschreven in het eerste of tweede lid en die daaraan hebben meegewerkt.
 
-##### Artikel 20
+#### Artikel 20
 
 1. Een instelling die op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01) een melding heeft gedaan of op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01) nadere inlichtingen heeft verstrekt in de redelijke veronderstelling uitvoering te geven aan die artikelen, is niet aansprakelijk voor enige schade die een derde dientengevolge lijdt.
 
@@ -559,7 +532,7 @@ De Financiële inlichtingen eenheid bepaalt de wijze waarop een melding moet wor
 
 #### § 2.4. Uitbesteding van cliëntenonderzoek
 
-##### Artikel 21
+#### Artikel 21
 
 1. Er is een Commissie inzake de meldingsplicht van ongebruikelijke transacties.
 
@@ -573,7 +546,7 @@ De Financiële inlichtingen eenheid bepaalt de wijze waarop een melding moet wor
 
 #### § 2.4. Uitbesteding van cliëntenonderzoek
 
-##### Artikel 22
+#### Artikel 22
 
 1. Het is een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld verboden van vertrouwelijke gegevens of inlichtingen, die ingevolge deze wet dan wel ingevolge [titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) zijn verstrekt of ontvangen, of van een buitenlandse toezichthoudende instantie zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
 
@@ -581,7 +554,7 @@ De Financiële inlichtingen eenheid bepaalt de wijze waarop een melding moet wor
 
 3. Het eerste en tweede lid laten ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-##### Artikel 23
+#### Artikel 23
 
 1. Een instelling en de personen die werkzaam zijn voor een instelling zijn, behoudens voor zover uit deze wet de noodzaak tot bekendmaking voortvloeit, verplicht tot geheimhouding jegens een ieder van:
 
@@ -623,23 +596,23 @@ De Financiële inlichtingen eenheid bepaalt de wijze waarop een melding moet wor
 
 ### Hoofdstuk 4. Bepalingen betreffende toezicht en handhaving
 
-##### Artikel 24
+#### Artikel 24
 
 1. Met het toezicht op de naleving van de bij of krachtens deze wet gestelde regels zijn belast de bij besluit van de toezichthoudende autoriteit aangewezen personen. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 2. In afwijking van het eerste lid, is de deken, bedoeld in [artikel 45a, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45a), belast met het toezicht op de naleving van de bij of krachtens deze wet gestelde regels.
 
-##### Artikel 25
+#### Artikel 25
 
 1. Indien de medewerkers van een toezichthoudende autoriteit, dan wel de in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.1&artikel=24&z=2026-01-01&g=2026-01-01), bedoelde deken, bij de uitoefening van hun taak op grond van deze wet of enige andere wet feiten ontdekken die kunnen duiden op witwassen of financieren van terrorisme, licht de toezichthoudende autoriteit onder wiens verantwoordelijkheid zij hun taak uitoefenen, dan wel de in artikel 24, tweede lid, bedoelde deken, de Financiële inlichtingen eenheid in, zo nodig in afwijking van de toepasselijke wettelijke geheimhoudingsbepalingen, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van de wettelijke taken van de Financiële inlichtingen eenheid.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van medewerkers van De Nederlandsche Bank N.V., voor zover zij betrokken zijn bij de verwisseling, intrekking en aftekening van bankbiljetten als bedoeld in [artikel 27, derde lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=27)
 
-##### Artikel 26
+#### Artikel 26
 
 De [artikelen 111a, derde lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=111a) en [45a, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45a), zijn van overeenkomstige toepassing op het toezicht op de naleving door de personen die op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.1&artikel=24&z=2026-01-01&g=2026-01-01), door de toezichthoudende autoriteit, bedoeld in [artikel 1d, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1d&z=2026-01-01&g=2026-01-01), zijn aangewezen, respectievelijk op het toezicht op de naleving door de deken, bedoeld in artikel 24, tweede lid.
 
-##### Artikel 27
+#### Artikel 27
 
 1. De toezichthoudende autoriteit werkt samen met de toezichthoudende instanties van andere lidstaten, voor zover dat voor de vervulling van haar taak op grond van deze wet of de vervulling van de taken van die instanties nodig is.
 
@@ -647,39 +620,39 @@ De [artikelen 111a, derde lid, van de Wet op het notarisambt](https://wetten.ove
 
 3. De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten informeren de Europese Bankautoriteit voorts over een maatregel die ingevolge [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&z=2026-01-01&g=2026-01-01) van deze wet is opgelegd aan een bank of andere financiële onderneming.
 
-##### Artikel 28
+#### Artikel 28
 
 De toezichthoudende autoriteit kan een ieder die niet voldoet aan een ingevolge deze wet op hem rustende verplichting een aanwijzing geven om binnen een door de toezichthoudende autoriteit gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aan te geven punten een bepaalde gedragslijn te volgen.
 
-##### Artikel 28a
+#### Artikel 28a
 
 In geval van een overtreding die is gerangschikt in de derde boetecategorie, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=28&z=2016-08-11&g=2016-08-11), begaan door een bank of door een beleggingsonderneming in de zin van de verordening kapitaalvereisten, zijn de [artikelen 1:75](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), [1:87](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:87) en [1:94 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:94) van overeenkomstige toepassing.
 
-##### Artikel 28b
+#### Artikel 28b
 
 Vervallen
 
-##### Artikel 28c
+#### Artikel 28c
 
 Vervallen
 
-##### Artikel 28d
+#### Artikel 28d
 
 Vervallen
 
-##### Artikel 28e
+#### Artikel 28e
 
 Vervallen
 
-##### Artikel 28f
+#### Artikel 28f
 
 Vervallen
 
-##### Artikel 28g
+#### Artikel 28g
 
 Vervallen
 
-##### Artikel 29
+#### Artikel 29
 
 De toezichthoudende autoriteit kan een last onder dwangsom opleggen ter zake van:
 
@@ -695,7 +668,7 @@ De toezichthoudende autoriteit kan een last onder dwangsom opleggen ter zake van
 
 - f. het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een aanwijzing als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=28&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 30
+#### Artikel 30
 
 De toezichthoudende autoriteit kan een bestuurlijke boete opleggen ter zake van:
 
@@ -713,7 +686,7 @@ De toezichthoudende autoriteit kan een bestuurlijke boete opleggen ter zake van:
 
 - g. het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een aanwijzing als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=28&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 31
+#### Artikel 31
 
 1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 5.000.000, of, in gevallen als bedoeld in het vierde lid, ten hoogste € 10.000.000 bedraagt.
 
@@ -729,7 +702,7 @@ De toezichthoudende autoriteit kan een bestuurlijke boete opleggen ter zake van:
 
 4. Indien ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, bedraagt de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste tweemaal het ingevolge het tweede of derde lid toepasselijke maximumbedrag.
 
-##### Artikel 32
+#### Artikel 32
 
 1. Indien de boete wordt opgelegd aan een instelling als bedoeld in [artikel 1a, tweede, derde, of vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), of aan een beheerder als bedoeld in artikel 1a, zesde lid, bedraagt de bestuurlijke boete voor een afzonderlijke overtreding van een voorschrift gerangschikt in de derde categorie, in afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2026-01-01&g=2026-01-01), ten hoogste 20% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd, indien dit meer is dan tweemaal het ingevolge artikel 31, derde lid, toepasselijke maximumbedrag.
 
@@ -739,7 +712,7 @@ De toezichthoudende autoriteit kan een bestuurlijke boete opleggen ter zake van:
 
 #### § 5.1. Gegevens met betrekking tot cliëntenonderzoek
 
-##### Artikel 33
+#### Artikel 33
 
 1. Een instelling die op grond van deze wet cliëntenonderzoek heeft verricht, of bij wie een cliënt is geïntroduceerd conform de procedure van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2026-01-01&g=2026-01-01), legt op opvraagbare wijze de documenten en gegevens vast die zijn gebruikt voor de naleving van het bepaalde in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2026-01-01&g=2026-01-01), [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01), [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2026-01-01&g=2026-01-01), en [artikel 8, derde, vierde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-01-01&g=2026-01-01).
 
@@ -783,7 +756,7 @@ De toezichthoudende autoriteit kan een bestuurlijke boete opleggen ter zake van:
 
 #### § 3.4. De Commissie inzake de meldingsplicht ongebruikelijke transacties
 
-##### Artikel 34
+#### Artikel 34
 
 1. Een instelling die op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), een verrichte of voorgenomen ongebruikelijke transactie heeft gemeld, legt op opvraagbare wijze de volgende gegevens vast:
 
@@ -797,21 +770,21 @@ De toezichthoudende autoriteit kan een bestuurlijke boete opleggen ter zake van:
 
 #### § 3.3. Vrijwaring
 
-##### Artikel 35
+#### Artikel 35
 
 Een instelling draagt er zorg voor dat haar werknemers, alsmede de dagelijks beleidsbepalers voor zover relevant voor de uitoefening van hun taken en rekening houdend met de risico’s, aard en omvang van de instelling, worden doorgelicht, bekend zijn met de bepalingen van deze wet en periodiek opleidingen genieten die hen in staat stellen een ongebruikelijke transactie te herkennen en een cliëntenonderzoek goed en volledig uit te voeren.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-##### Artikel 36
+#### Artikel 36
 
 De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een instelling als bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), welke is verricht in strijd met de bij of krachtens deze wet gestelde regels is niet uit dien hoofde aantastbaar.
 
-##### Artikel 37
+#### Artikel 37
 
 Vervallen
 
-##### Artikel 38
+#### Artikel 38
 
 1. Ten aanzien van cliënten waarnaar reeds cliëntenonderzoek is verricht op grond van deze wet, zoals deze luidde voor inwerkingtreding van de Implementatiewet vierde anti-witwasrichtlijn, verricht een instelling het cliëntenonderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), bij eerste gelegenheid.
 
@@ -821,81 +794,81 @@ Vervallen
 
 4. De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3a&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op een cliëntenonderzoek dat op grond van het eerste of derde lid wordt verricht.
 
-##### Artikel 39
+#### Artikel 39
 
 1. Op overtredingen die hebben plaatsgevonden of zijn aangevangen voor het tijdstip van inwerkingtreding van de [Implementatiewet vierde anti-witwasrichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0041195), zijn de [artikelen 32e tot en met 32j](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32e&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
 2. In afwijking van het eerste lid wordt in het geval van een overtreding, begaan door een instelling als bedoeld in [artikel 1a, tweede lid of derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), en waarop artikel 28a van deze wet, zoals dat luidde voor het tijdstip van inwerkingtreding van de [Implementatiewet vierde anti-witwasrichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0041195), van toepassing is, een besluit tot het publiceren van een waarschuwing of verklaring na het tijdstip van inwerkingtreding van de Implementatiewet vierde anti-witwasrichtlijn genomen met inachtneming van de [artikelen 32h](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32h&z=2026-01-01&g=2026-01-01), [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32i&z=2026-01-01&g=2026-01-01) en [32j](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32j&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 40
+#### Artikel 40
 
 Een wijziging van de vierde anti-witwasrichtlijn, de richtlijn betaaldiensten of de richtlijn kapitaalvereisten gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij besluit van Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-##### Artikel 41
+#### Artikel 41
 
 Vervallen
 
-##### Artikel 42
+#### Artikel 42
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 Wijzigt de Wet inzake de geldtransactiekantoren.
 
-##### Artikel 44
+#### Artikel 44
 
 Wijzigt de Wet op de economische delicten.
 
-##### Artikel 45
+#### Artikel 45
 
 Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
-##### Artikel 46
+#### Artikel 46
 
 Wijzigt de Wet op het Centraal bureau voor de statistiek.
 
-##### Artikel 47
+#### Artikel 47
 
 Wijzigt de Wet toezicht trustkantoren.
 
-##### Artikel 48
+#### Artikel 48
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-##### Artikel 48a
+#### Artikel 48a
 
 Wijzigt deze wet.
 
-##### Artikel 48b
+#### Artikel 48b
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-##### Artikel 48c
+#### Artikel 48c
 
 Wijzigt de Invorderingswet 1990.
 
-##### Artikel 48d
+#### Artikel 48d
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-##### Artikel 48e
+#### Artikel 48e
 
 Wijzigt de Arbeidsomstandighedenwet.
 
-##### Artikel 48f
+#### Artikel 48f
 
 Wijzigt de Wet arbeid vreemdelingen.
 
-##### Artikel 49
+#### Artikel 49
 
 De [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) en de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331) worden ingetrokken.
 
-##### Artikel 50
+#### Artikel 50
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-##### Artikel 51
+#### Artikel 51
 
 Deze wet wordt aangehaald als: Wet ter voorkoming van witwassen en financieren van terrorisme.
 
@@ -909,7 +882,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 42a
+#### Artikel 42a
 
 De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2026-01-01&g=2026-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22&z=2026-01-01&g=2026-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2026-01-01&g=2026-01-01) en [33 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op een platform voor de veiling van emissierechten.
 
@@ -917,7 +890,7 @@ De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&pa
 
 Vervallen
 
-##### Artikel 2a
+#### Artikel 2a
 
 1. Ter voorkoming van witwassen en financieren van terrorisme verricht een instelling cliëntenonderzoek en meldt zij verrichte of voorgenomen ongebruikelijke transacties overeenkomstig de bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&z=2026-01-01&g=2026-01-01) gestelde regels. Daarbij besteedt een instelling bijzondere aandacht aan ongebruikelijke transactiepatronen en aan transacties die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
 
@@ -967,7 +940,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1.1. Begrips- en reikwijdtebepalingen
 
-##### Artikel 1a
+#### Artikel 1a
 
 1. Deze wet is van toepassing op banken en andere financiële ondernemingen, alsmede op de ingevolge het vierde lid aangewezen natuurlijke personen, rechtspersonen of vennootschappen handelend in het kader van hun beroepsactiviteiten, met dien verstande dat voor de instellingen, bedoeld in het vierde lid, onderdeel i, alleen de verplichting in [artikel 1f](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1a&artikel=1f&z=2026-01-01&g=2026-01-01) geldt.
 
@@ -1067,13 +1040,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Indien een beleggingsinstelling als bedoeld in het derde lid, onderdeel d, een beleggingsmaatschappij met aparte beheerder is of een beleggingsfonds of indien een icbe als bedoeld in het derde lid, onderdeel h, een fonds voor collectieve belegging in effecten of een maatschappij voor collectieve belegging in effecten met aparte beheerder is, draagt de beheerder van de betreffende instelling zorg voor de naleving van de bij of krachtens deze wet gestelde regels door de instelling.
 
-##### Artikel 1b
+#### Artikel 1b
 
 1. Bij regeling van Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid kunnen instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), zo nodig onder het stellen van aanvullende regels, geheel of gedeeltelijk worden vrijgesteld van de bij of krachtens deze wet gestelde regels, indien, rekening houdend met de aard en de omvang van de te verlenen diensten, voor die instellingen een bewezen laag risico op witwassen en financieren van terrorisme bestaat.
 
 2. Geen vrijstelling kan worden verleend aan instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), die activiteiten verrichten als bedoeld in [artikel 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g) of [31 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31).
 
-##### Artikel 1c
+#### Artikel 1c
 
 1. Onze Minister van Financiën kan, in bij algemene maatregel van bestuur te bepalen gevallen, ontheffing verlenen van de bij of krachtens deze wet gestelde regels aan instellingen die incidenteel of in zeer beperkte mate financiële werkzaamheden verrichten, indien er een bewezen laag risico op witwassen of financieren van terrorisme bestaat. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
@@ -1087,7 +1060,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het verlenen, wijzigen, intrekken of beperken van een ontheffing.
 
-##### Artikel 1d
+#### Artikel 1d
 
 1. Met de uitvoering en handhaving van deze wet zijn belast:
 
@@ -1115,15 +1088,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 7. Bij regeling van Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid kunnen nadere regels worden gesteld met betrekking tot de taakuitoefening van de op grond van dit artikel bevoegde bestuursorganen, met uitzondering van de deken, bedoeld in het eerste lid, onderdeel d.
 
-##### Artikel 1e
+#### Artikel 1e
 
 Bij regeling van Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid kunnen banken die deel uitmaken van een groep banken die blijvend is aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering en uitbesteding van die banken worden vrijgesteld van het toezicht door de Nederlandsche Bank N.V., indien de centrale kredietinstelling toezicht houdt op die groep banken en in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan die banken. Aan deze vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.
 
-##### Artikel 1f
+#### Artikel 1f
 
 Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderdelen i, k en n](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), in of vanuit Nederland betaling van goederen in contanten voor een bedrag van € 3.000 of meer, of de tegenwaarde daarvan in buitenlandse munteenheid, te verrichten of te accepteren, ongeacht of de transactie plaatsvindt in een handeling of door middel van meer handelingen waartussen een verband lijkt te bestaan.
 
-##### Artikel 2b
+#### Artikel 2b
 
 1. Een instelling neemt maatregelen om haar risico’s op witwassen en financieren van terrorisme vast te stellen en te beoordelen, waarbij de maatregelen in verhouding staan tot de aard en de omvang van de instelling.
 
@@ -1133,7 +1106,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 4. De toezichthoudende autoriteit kan ontheffing verlenen van het eerste tot en met derde lid, indien de instelling behoort tot een sector waarvan de inherente specifieke risico’s op witwassen en financieren van terrorisme duidelijk en inzichtelijk zijn.
 
-##### Artikel 2c
+#### Artikel 2c
 
 1. Een instelling beschikt over gedragslijnen, procedures en maatregelen om de risico’s op witwassen en financieren van terrorisme en de risico’s die zijn geïdentificeerd in de meest recente versies van de supranationale risicobeoordeling en de nationale risicobeoordeling te beperken en effectief te beheersen.
 
@@ -1143,7 +1116,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 4. Een instelling draagt zorg voor een systematische toetsing van de gedragslijnen, procedures en maatregelen en draagt waar nodig zorg voor een bijstelling hiervan.
 
-##### Artikel 2d
+#### Artikel 2d
 
 1. Indien het dagelijks beleid van een instelling wordt bepaald door twee of meer personen, wijst een instelling één van de personen die het dagelijks beleid van de instelling bepalen aan die is belast met de verantwoordelijkheid voor de naleving door de instelling van het bij of krachtens deze wet bepaalde.
 
@@ -1153,7 +1126,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 4. Indien van toepassing en voor zover passend bij de aard en de omvang van de instelling, draagt een instelling er zorg voor dat op onafhankelijke wijze een auditfunctie wordt uitgeoefend ten aanzien van haar werkzaamheden. De auditfunctie controleert de naleving door een instelling van de bij of krachtens deze wet gestelde regels en de uitoefening van de compliancefunctie.
 
-##### Artikel 2e
+#### Artikel 2e
 
 1. Een instelling als bedoeld in [artikel 1a, derde lid, onderdeel b, e of k](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), met hoofdkantoor in een andere lidstaat en met vestigingen niet zijnde bijkantoren in Nederland, wijst in Nederland op verzoek van de toezichthoudende autoriteit een centraal contactpunt aan met het oog op de naleving van de bij of krachtens deze wet gestelde regels.
 
@@ -1161,7 +1134,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 3. De toezichthoudende autoriteit kan een instelling verzoeken een centraal contactpunt als bedoeld in het eerste lid aan te wijzen in de op grond van artikel 45, elfde lid, van de vierde anti-witwasrichtlijn aangewezen gevallen.
 
-##### Artikel 2f
+#### Artikel 2f
 
 1. Een instelling die deel uitmaakt van een groep past de op het niveau van de groep geldende gedragslijnen en procedures op effectieve wijze toe, voor zover die voldoen aan de bij of krachtens deze wet gestelde regels.
 
@@ -1173,7 +1146,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 5. Indien de aanvullende maatregelen, bedoeld in het vierde lid, onvoldoende zijn, neemt de toezichthoudende autoriteit aanvullende toezichtmaatregelen, waarbij onder meer wordt verlangd dat de groep geen zakelijke relaties aangaat of die relaties beëindigt en geen transacties uitvoert, dan wel waarbij de groep, indien nodig, wordt verzocht haar bedrijfsactiviteiten in de betrokken staat te beëindigen.
 
-##### Artikel 3a
+#### Artikel 3a
 
 1. In aanvulling op [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), stelt het cliëntenonderzoek een bank of andere financiële onderneming in staat om onverwijld nadat een begunstigde van een levensverzekering is geïdentificeerd of aangewezen:
 
@@ -1193,7 +1166,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 #### § 2.4a. Informatie over uiteindelijk belanghebbenden
 
-##### Artikel 13a
+#### Artikel 13a
 
 1. Ten behoeve van de uitoefening van haar taken op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), werkt de Financiële inlichtingen eenheid zoveel mogelijk samen met de financiële inlichtingen eenheden van andere lidstaten.
 
@@ -1229,7 +1202,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 9. Indien het verstrekken van informatie of het verlenen van toestemming op grond van het zesde lid, onderscheidenlijk het achtste lid, wordt geweigerd, wordt dit gemotiveerd kenbaar gemaakt aan de financiële inlichtingen eenheid die om de informatie of toestemming heeft verzocht.
 
-##### Artikel 13b
+#### Artikel 13b
 
 1. De Financiële inlichtingen eenheid kan, ten behoeve van haar taken, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), een financiële inlichtingen eenheid van een andere lidstaat verzoeken om informatie die relevant kan zijn voor de verwerking of de analyse van informatie met betrekking tot witwassen of financieren van terrorisme en de betrokken natuurlijke of rechtspersonen, indien zij daarbij ten minste de volgende informatie verstrekt:
 
@@ -1249,13 +1222,13 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 3. Informatie afkomstig van een financiële inlichtingen eenheid van een andere lidstaat wordt door de Financiële inlichtingen eenheid niet zonder voorafgaande toestemming van die financiële inlichtingen eenheid verstrekt aan de personen, bedoeld in [artikel 13, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 13c
+#### Artikel 13c
 
 1. De Financiële inlichtingen eenheid werkt bij de toepassing van geavanceerde technologieën samen met de financiële inlichtingen eenheden van andere lidstaten. Deze technologieën stellen de Financiële inlichtingen eenheid in staat om, onder de voorwaarden gesteld in de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13a&z=2026-01-01&g=2026-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13b&z=2026-01-01&g=2026-01-01), anoniem verbanden te leggen tussen de eigen gegevens en de gegevens van andere financiële inlichtingen eenheden, zodat personen die in verband worden gebracht met witwassen en het financieren van terrorisme kunnen worden opgespoord en hun opbrengsten en geldmiddelen kunnen worden geïdentificeerd.
 
 2. De Financiële inlichtingen eenheid maakt voor de contacten met de financiële inlichtingen eenheden van de andere lidstaten gebruik van beschermde kanalen.
 
-##### Artikel 14a
+#### Artikel 14a
 
 1. In het kader van haar taak op grond van [artikel 13, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), kan de Financiële inlichtingen eenheid op verzoek informatie verstrekken aan de in dat onderdeel bedoelde personen, indien het verzoek betrekking heeft op aangelegenheden die verband houden met witwassen, daarmee verband houdende basisdelicten, of financieren van terrorisme.
 
@@ -1265,7 +1238,7 @@ Het is verboden voor instellingen als bedoeld in [artikel 1a, vierde lid, onderd
 
 #### § 3.2. De Meldingsplicht
 
-##### Artikel 16a
+#### Artikel 16a
 
 Een melding als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01) die betrekking heeft op een andere lidstaat, wordt door de Financiële inlichtingen eenheid onverwijld gedeeld met de financiële inlichtingen eenheid van die lidstaat, tenzij het verstrekken van de melding:
 
@@ -1275,25 +1248,25 @@ Een melding als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - c. de belangen van natuurlijke of rechtspersonen op wie de informatie betrekking heeft onevenredig kan schaden.
 
-##### Artikel 18a
+#### Artikel 18a
 
 Ten behoeve van de naleving van de in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01) opgenomen verplichtingen, zijn de instellingen, bedoeld in [artikel 1a, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 11a van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=11a) en zijn de instellingen, bedoeld in artikel 1a, vierde lid, onderdeel d, niet gehouden aan de geheimhoudingsplicht in [artikel 22 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=22).
 
 #### § 3.2. De Meldingsplicht
 
-##### Artikel 20a
+#### Artikel 20a
 
 1. Een instelling beschikt over adequate voorzieningen, die passend zijn bij de aard en omvang van de instelling en die het haar werknemers of personen in een vergelijkbare positie mogelijk maken om een overtreding van de bij of krachtens deze wet gestelde regels intern en op anonieme wijze te melden via een specifiek, onafhankelijk kanaal, dat passend is ten opzichte van de aard en omvang van de instelling.
 
 2. De toezichthoudende autoriteit beschikt over doeltreffende en betrouwbare mechanismen als bedoeld in artikel 61, eerste en tweede lid, van de vierde anti-witwasrichtlijn voor het melden van mogelijke of werkelijke inbreuken op het bij of krachtens deze wet bepaalde.
 
-##### Artikel 20b
+#### Artikel 20b
 
 1. Een instelling mag een persoon die voor haar werkzaam is en die te goeder trouw en naar behoren namens de instelling aan de Financiële inlichtingen eenheid een melding doet als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), aan de Financiële inlichtingen eenheid gegevens of inlichtingen verstrekt als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), of intern binnen de instelling een overtreding van het in deze wet bepaalde meldt als bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.3&artikel=20a&z=2026-01-01&g=2026-01-01), niet benadelen.
 
 2. Onverminderd het eerste lid kunnen de in het eerste lid bedoelde personen die in verband met een melding als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), of [20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.3&artikel=20a&z=2026-01-01&g=2026-01-01), zijn blootgesteld aan benadeling als bedoeld in het eerste lid, door middel van de in artikel 20a, tweede lid, bedoelde mechanismen een klacht indienen bij de toezichthoudende autoriteit.
 
-##### Artikel 23a
+#### Artikel 23a
 
 Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2026-01-01&g=2026-01-01), deelt een instelling informatie over een melding ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01) door die instelling binnen de groep, tenzij door de Financiële inlichtingen eenheid anders wordt bepaald.
 
@@ -1301,17 +1274,17 @@ Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### § 4.2. Handhavingsbevoegdheden
 
-##### Artikel 32a
+#### Artikel 32a
 
 De toezichthoudende autoriteit kan in afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2026-01-01&g=2026-01-01) of [32](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=32&z=2026-01-01&g=2026-01-01) een bestuurlijke boete opleggen van ten hoogste tweemaal het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen.
 
-##### Artikel 32b
+#### Artikel 32b
 
 1. Indien tegen een besluit tot het opleggen van een bestuurlijke boete bezwaar, beroep of hoger beroep wordt aangetekend, schorst dit de verplichting tot betaling van de boete totdat de beroepstermijn is verstreken of, indien beroep of hoger beroep is ingesteld, op het beroep of hoger beroep is beslist.
 
 2. De schorsing van de verplichting tot betaling schorst niet de berekening van de wettelijke rente.
 
-##### Artikel 32c
+#### Artikel 32c
 
 1. Bij een overtreding die beboetbaar is met een boete gerangschikt in de tweede of derde boetecategorie, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2026-01-01&g=2026-01-01), kan de toezichthoudende autoriteit de overtreder de bevoegdheid ontzeggen om bij een instelling als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01) beleidsbepalende functies uit te oefenen.
 
@@ -1319,7 +1292,7 @@ De toezichthoudende autoriteit kan in afwijking van [artikel 31](https://wetten.
 
 3. Een ontzegging als bedoeld in het eerste lid kan worden opgelegd voor de duur van ten hoogste een jaar en eenmaal met ten hoogste een jaar worden verlengd.
 
-##### Artikel 32d
+#### Artikel 32d
 
 1. De toezichthoudende autoriteit kan ten aanzien van vestigingen als bedoeld in [artikel 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.3&artikel=2e&z=2026-01-01&g=2026-01-01), passende en evenredige maatregelen nemen om ernstige gebreken die onmiddellijke maatregelen vereisen, te adresseren.
 
@@ -1327,11 +1300,11 @@ De toezichthoudende autoriteit kan in afwijking van [artikel 31](https://wetten.
 
 #### § 4.3. Publicatiebevoegdheden toezichthoudende autoriteit
 
-##### Artikel 32e
+#### Artikel 32e
 
 De toezichthoudende autoriteit kan een waarschuwing of verklaring publiceren, onder vermelding van de overtreding en de overtreder, bij overtreding van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2026-01-01&g=2026-01-01) bedoelde voorschriften, voor zover deze overtreding beboetbaar is met een boete gerangschikt in de tweede of derde boetecategorie, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.2&artikel=31&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 32f
+#### Artikel 32f
 
 1. De toezichthoudende autoriteit maakt een besluit tot het opleggen van een bestuurlijke sanctie ingevolge deze wet of [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) openbaar. De openbaarmaking geschiedt zodra het besluit onherroepelijk is geworden.
 
@@ -1347,7 +1320,7 @@ De toezichthoudende autoriteit kan een waarschuwing of verklaring publiceren, on
 
 7. Een besluit dat ingevolge het eerste, vierde of vijfde lid openbaar is gemaakt, blijft, tenzij bij wettelijk voorschrift anders bepaald, gedurende een periode van vijf jaar na bekendmaking beschikbaar op de website van de toezichthoudende autoriteit, met uitzondering van de persoonsgegevens die deel uitmaken van het besluit indien enig wettelijk voorschrift daaraan in de weg staat.
 
-##### Artikel 32g
+#### Artikel 32g
 
 1. Openbaarmaking op grond van [artikel 32f](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32f&z=2026-01-01&g=2026-01-01) wordt uitgesteld of geschiedt in zodanige vorm dat de openbaar te maken gegevens niet herleidbaar zijn tot afzonderlijke personen voor zover:
 
@@ -1365,13 +1338,13 @@ De toezichthoudende autoriteit kan een waarschuwing of verklaring publiceren, on
 
 - b. de stabiliteit van het financiële stelsel in gevaar zou brengen.
 
-##### Artikel 32h
+#### Artikel 32h
 
 1. Alvorens over te gaan tot openbaarmaking van gegevens die tot afzonderlijke personen herleidbaar zijn op grond van deze paragraaf, neemt de toezichthoudende autoriteit een besluit tot openbaarmaking. Dit besluit bevat de openbaar te maken gegevens en de wijze en termijn waarop de openbaarmaking zal plaatsvinden.
 
 2. Onverminderd [artikel 4:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:11) kan de toezichthoudende autoriteit bij het nemen van een besluit op grond van [artikel 32e](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32e&z=2026-01-01&g=2026-01-01) de toepassing van [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) achterwege laten, indien van de betrokken persoon geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.
 
-##### Artikel 32i
+#### Artikel 32i
 
 1. De toezichthoudende autoriteit gaat pas over tot openbaarmaking op grond van [artikel 32e](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32e&z=2026-01-01&g=2026-01-01) of [32f, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&paragraaf=4.3&artikel=32f&z=2026-01-01&g=2026-01-01), nadat vijf werkdagen zijn verstreken na de dag waarop de betrokken persoon van het besluit tot het publiceren van een waarschuwing of verklaring in kennis is gesteld of het besluit tot opleggen van een boete of last onder dwangsom aan hem bekend is gemaakt.
 
@@ -1385,7 +1358,7 @@ De toezichthoudende autoriteit kan een waarschuwing of verklaring publiceren, on
 
 4. In de gevallen bedoeld in het derde lid, biedt de toezichthoudende autoriteit de belanghebbende aan de intrekking of de vernietiging openbaar te maken.
 
-##### Artikel 32j
+#### Artikel 32j
 
 1. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) om openbaarmaking op grond van deze paragraaf te voorkomen, vindt het onderzoek ter zitting plaats met gesloten deuren.
 
@@ -1399,7 +1372,7 @@ De toezichthoudende autoriteit kan een waarschuwing of verklaring publiceren, on
 
 #### § 4.1. Toezicht op de naleving en samenwerking
 
-##### Artikel 34a
+#### Artikel 34a
 
 1. Persoonsgegevens, verzameld op grond van deze wet, worden door een instelling alleen verwerkt met het oog op het voorkomen van witwassen en financieren van terrorisme en worden niet verder verwerkt voor commerciële doeleinden of andere doeleinden die niet verenigbaar zijn met dat doel.
 
@@ -1409,7 +1382,7 @@ De toezichthoudende autoriteit kan een waarschuwing of verklaring publiceren, on
 
 #### § 5.3. Opleiding en kwalificaties
 
-##### Artikel 35a
+#### Artikel 35a
 
 1. De instellingen, bedoeld in [artikel 1a, vierde lid, onderdeel a tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), voor zover zij bemiddelen bij het tot stand brengen en sluiten van overeenkomsten inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen, verstrekken op verzoek aan de toezichthoudende autoriteit een door Onze Minister van Justitie en Veiligheid afgegeven verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) met betrekking tot de personen die het beleid bepalen of mede bepalen, binnen een door de toezichthoudende autoriteit te stellen redelijke termijn.
 
@@ -1423,7 +1396,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 22a
+#### Artikel 22a
 
 1. De toezichthoudende autoriteit is in afwijking van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22&z=2026-01-01&g=2026-01-01), bevoegd gegevens of inlichtingen die ingevolge deze wet zijn verstrekt of ontvangen of van een buitenlandse toezichthoudende instantie zijn ontvangen, te verstrekken aan:
 
@@ -1493,7 +1466,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 9a
+#### Artikel 9a
 
 Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk stellen een lijst met de functies vast die in Nederland kwalificeren als prominente publieke functies. Deze lijst wordt actueel gehouden.
 
@@ -1505,7 +1478,7 @@ Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamen
 
 #### § 3.3. Vrijwaring
 
-##### Artikel 22b
+#### Artikel 22b
 
 1. De toezichthoudende autoriteit, bedoeld in [artikel 1d, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1d&z=2026-01-01&g=2026-01-01), is in afwijking van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22&z=2026-01-01&g=2026-01-01), bevoegd gegevens of inlichtingen die ingevolge deze wet zijn verstrekt of ontvangen of van een buitenlandse toezichthoudende instantie zijn ontvangen, te verstrekken aan:
 
@@ -1533,7 +1506,7 @@ Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamen
 
 3. [Artikel 22a, derde tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 22c
+#### Artikel 22c
 
 1. Het Bureau Financieel Toezicht is in afwijking van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22&z=2026-01-01&g=2026-01-01), bevoegd gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak ten aanzien van een instelling als bedoeld in [artikel 1a, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), te verstrekken aan de Stichting Autoriteit Financiële Markten, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van taken van de Stichting Autoriteit Financiële Markten op grond van de Wet toezicht accountantsorganisaties.
 
@@ -1541,39 +1514,39 @@ Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamen
 
 ### Hoofdstuk 3A. Registratie van aanbieders van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta en aanbieders van bewaarportemonnees
 
-##### Artikel 23b
+#### Artikel 23b
 
 Vervallen
 
-##### Artikel 23c
+#### Artikel 23c
 
 Vervallen
 
-##### Artikel 23d
+#### Artikel 23d
 
 Vervallen
 
-##### Artikel 23e
+#### Artikel 23e
 
 Vervallen
 
-##### Artikel 23f
+#### Artikel 23f
 
 Vervallen
 
-##### Artikel 23g
+#### Artikel 23g
 
 Vervallen
 
-##### Artikel 23h
+#### Artikel 23h
 
 Vervallen
 
-##### Artikel 23i
+#### Artikel 23i
 
 Vervallen
 
-##### Artikel 23j
+#### Artikel 23j
 
 Vervallen
 
@@ -1599,7 +1572,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 10a
+#### Artikel 10a
 
 1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2026-01-01&g=2026-01-01), wordt in deze paragraaf onder uiteindelijk belanghebbende verstaan: de natuurlijke persoon die de uiteindelijke eigenaar is van of zeggenschap heeft over een vennootschap of andere juridische entiteit dan wel over een trust of een soortgelijke juridische constructie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=2), en [artikel 3 van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=3).
 
@@ -1621,7 +1594,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Bij algemene maatregel van bestuur worden de categorieën natuurlijke personen aangewezen die in elk geval moeten worden aangemerkt als uiteindelijk belanghebbende als bedoeld in het eerste lid.
 
-##### Artikel 10b
+#### Artikel 10b
 
 1. Vennootschappen en andere juridische entiteiten winnen de gegevens en de bescheiden, bedoeld in [artikel 15a, tweede, onderscheidenlijk derde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a), over wie hun uiteindelijk belanghebbenden zijn in en houden deze bij. Deze gegevens en bescheiden zijn toereikend, accuraat en actueel.
 
@@ -1631,7 +1604,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Een uiteindelijk belanghebbende van een trust verschaft de trustee alle informatie die noodzakelijk is om te voldoen aan het derde lid.
 
-##### Artikel 10c
+#### Artikel 10c
 
 1. Een instelling doet melding aan de Kamer van Koophandel van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft gekregen uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), en de informatie over die uiteindelijk belanghebbende waarover zij uit anderen hoofde beschikt.
 
@@ -1679,7 +1652,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 23bb
+#### Artikel 23bb
 
 Vervallen
 
@@ -1701,7 +1674,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 22e
+#### Artikel 22e
 
 1. De toezichthoudende autoriteit, bedoeld in [artikel 1d, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1d&z=2026-01-01&g=2026-01-01), is in afwijking van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22&z=2026-01-01&g=2026-01-01), bevoegd gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak ten aanzien van een instelling als bedoeld in [artikel 1a, vierde lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&paragraaf=1.1&artikel=1a&z=2026-01-01&g=2026-01-01), te verstrekken aan de kansspelautoriteit, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van taken van de kansspelautoriteit op grond van de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
@@ -1731,7 +1704,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden,
 
-##### Artikel 22d
+#### Artikel 22d
 
 1. De toezichthoudende autoriteit verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), in afwijking van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=22&z=2026-01-01&g=2026-01-01), aan het samenwerkingsverband gegevens of inlichtingen, die ingevolge deze wet zijn verstrekt of ontvangen of van een buitenlandse toezichthoudende instantie zijn ontvangen, en die behoren tot de in [hoofdstuk 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de toezichthoudende autoriteit zwaarwegende redenen zich daartegen verzetten.
 
@@ -1739,7 +1712,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
 
-##### Artikel 23aa
+#### Artikel 23aa
 
 In afwijking van de geheimhoudingsplicht, bedoeld in [artikel 23, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2026-01-01&g=2026-01-01), verstrekt een instelling, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), aan het samenwerkingsverband gegevens behorend tot de in [hoofdstuk 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de instelling zwaarwegende redenen zich daartegen verzetten. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
 
@@ -1763,7 +1736,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1.2. Risicomanagement
 
-##### Artikel 1g
+#### Artikel 1g
 
 1. Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk publiceren een verslag van de geïdentificeerde, geanalyseerde en beoordeelde nationale risico’s op witwassen en het financieren van terrorisme, bedoeld in artikel 7 van de vierde anti-witwasrichtlijn. Dit verslag wordt elke twee jaar geactualiseerd.
 
@@ -1781,7 +1754,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 3.1. De Financiële inlichtingen eenheid
 
-##### Artikel 17a
+#### Artikel 17a
 
 1. De Financiële inlichtingen eenheid kan ten behoeve van de uitvoering van de taak, bedoeld in[artikel 13, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), een instelling verzoeken het uitvoeren van een transactie of meerdere transacties gedurende een periode van ten hoogste vijf werkdagen aan te houden ingeval de Financiële inlichtingen eenheid aanwijzingen heeft dat deze transactie of transacties verband kan of kunnen houden met witwassen of financieren van terrorisme, of indien een financiële inlichtingen eenheid uit een andere staat hierom verzoekt.
 
@@ -1795,7 +1768,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Een instelling informeert een cliënt terstond over toepassing van het vierde lid.
 
-##### Artikel 20c
+#### Artikel 20c
 
 [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2026-01-01&g=2026-01-01) en [artikel 20b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.3&artikel=20b&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op instellingen die gevolg geven aan een verzoek als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01).
 

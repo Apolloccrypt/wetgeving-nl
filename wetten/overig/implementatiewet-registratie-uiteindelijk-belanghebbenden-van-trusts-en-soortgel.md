@@ -1,41 +1,14 @@
 ---
-title: "Wet van 24 november 2021, houdende regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde vierde anti-witwasrichtlijn (Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)"
+title: "Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies"
 identifier: "BWBR0046156"
-country: "nl"
-rank: "wet"
-publication_date: "2022-11-01"
-last_updated: "2022-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046156"
-soort: "wet"
-stam_id: "16221023"
-version_id: "28322842"
-internal_id: "C40013981"
-label_id: "16148984"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046156/2022-11-01/0"
-intitule_bron: "Stb.2021-610"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-24"
-intitule_published: "2021-12-16"
-intitule_in_force: "2022-01-27"
-intitule_status: "goed"
-original_publication: "Stb.2021-610"
-original_signed_date: "2021-11-24"
-original_published_date: "2021-12-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "35819"
-original_url_id: "stb-2021-610"
-entry_into_force_date: "2022-01-28"
-jci_1_3: "jci1.3:c:BWBR0046156&z=2022-11-01&g=2022-11-01"
-jci_1_0: "1.0:c:BWBR0046156&g=2022-11-01"
-citeertitel_status: "officieel"
-short_title: "Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies"
-signed_date: "2021-11-24"
-entry_into_force: "2022-01-28"
+categorie: "Overig"
+publicatiedatum: 2022-11-01
+laatste_update: 2022-11-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046156"
 ---
-# Wet van 24 november 2021, houdende regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde vierde anti-witwasrichtlijn (Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)
+
+# Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -61,19 +34,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 3. Toegang tot het register
 
-##### Artikel 26. Wijziging van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
+#### Artikel 26. Wijziging van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-##### Artikel 27. Wijziging van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+#### Artikel 27. Wijziging van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
 Wijzigt de Wet op de economische delicten.
 
-##### Artikel 28. Wijziging van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
+#### Artikel 28. Wijziging van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
 
 Wijzigt de Handelsregisterwet 2007.
 
-##### Artikel 28a. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+#### Artikel 28a. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
@@ -81,7 +54,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 1. Definities
+#### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -105,7 +78,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **zakelijke relatie:** zakelijke relatie als bedoeld in [artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1).
 
-##### Artikel 2. Gelijkstelling soortgelijke juridische constructie
+#### Artikel 2. Gelijkstelling soortgelijke juridische constructie
 
 1. In deze wet en de daarop berustende bepalingen wordt een soortgelijke juridische constructie gelijkgesteld aan een trust en wordt onder een trust mede verstaan een soortgelijke juridische constructie.
 
@@ -113,7 +86,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onder een soortgelijke juridische constructie wordt in deze wet en de daarop berustende bepalingen verstaan: bij overeenkomst of samenstel van overeenkomsten tot stand gebracht fonds zonder rechtspersoonlijkheid, niet zijnde een onderneming of rechtspersoon als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777), waarin de deelnemers vermogen bijeenbrengen dat voor gezamenlijke rekening wordt belegd of anderszins wordt aangewend ten behoeve van de uiteindelijk belanghebbenden van dat fonds, alsmede een juridische constructie die is opgenomen in de geconsolideerde lijst, bedoeld in artikel 31, tiende lid, van de vierde anti- witwasrichtlijn.
 
-##### Artikel 3. Reikwijdte
+#### Artikel 3. Reikwijdte
 
 1. Deze wet is van toepassing op trusts:
 
@@ -123,7 +96,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Deze wet is niet van toepassing op de registratie van trusts en de uiteindelijk belanghebbenden daarvan voor zover die trusts in een andere lidstaat van de Europese Unie zijn ingeschreven in een register als bedoeld in artikel 31 van de vierde anti-witwasrichtlijn.
 
-##### Artikel 4. Het register
+#### Artikel 4. Het register
 
 1. Er is een register voor het registreren van trusts en uiteindelijk belanghebbenden van trusts.
 
@@ -131,7 +104,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het register wordt gehouden door de beheerder.
 
-##### Artikel 5. Informatie in het register
+#### Artikel 5. Informatie in het register
 
 1. Het register bevat de volgende gegevens over een trust:
 
@@ -167,25 +140,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. afschriften van documenten waaruit de gegevens, bedoeld in het eerste lid, blijken alsmede van documenten, behorende tot bij algemene maatregel van bestuur aan te wijzen categorieën, waaruit de gegevens, bedoeld in het derde lid, onderdeel f, blijken.
 
-##### Artikel 6. Bewaartermijn
+#### Artikel 6. Bewaartermijn
 
 De gegevens en bescheiden, bedoeld in [artikel 5, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=2&artikel=5&z=2022-11-01&g=2022-11-01), blijven tot een bij algemene maatregel van bestuur te bepalen termijn, toegankelijk via het register.
 
-##### Artikel 7. Toegang
+#### Artikel 7. Toegang
 
 1. Dit lid is nog niet in werking getreden.
 
 2. In afwijking van het eerste lid, zijn de in [artikel 5, derde lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=2&artikel=5&z=2022-11-01&g=2022-11-01), bedoelde gegevens en de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=2&artikel=5&z=2022-11-01&g=2022-11-01), bedoelde bescheiden enkel toegankelijk voor de Financiële inlichtingen eenheid en de bij algemene maatregel van bestuur aangewezen bevoegde autoriteiten.
 
-##### Artikel 8. Persoonsgegevens verzoeker
+#### Artikel 8. Persoonsgegevens verzoeker
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 9. Vergoeding
+#### Artikel 9. Vergoeding
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 10. Afscherming
+#### Artikel 10. Afscherming
 
 1. In bij algemene maatregel van bestuur te bepalen gevallen kunnen, ter bescherming van de persoonlijke levenssfeer van uiteindelijk belanghebbenden die in het register staan ingeschreven, gegevens of bescheiden of categorieën van gegevens of bescheiden, op langs elektronische weg gedaan verzoek van een uiteindelijk belanghebbende bij besluit van Onze Minister van Financiën worden afgeschermd tegen inzage door anderen dan de Financiële inlichtingen eenheid, de bevoegde autoriteiten en de instellingen bedoeld in [artikel 1a, tweede, derde en vierde lid, onderdeel d, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a).
 
@@ -193,7 +166,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Jaarlijks worden statistische gegevens gepubliceerd over het aantal afschermingen dat op grond van dit artikel is toegekend, met in begrip van de gronden waarop die afschermingen zijn toegekend.
 
-##### Artikel 11. Registratieplicht
+#### Artikel 11. Registratieplicht
 
 1. De trustee is ten behoeve van registratie in het register, verplicht langs elektronische weg opgave te doen van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=2&artikel=5&z=2022-11-01&g=2022-11-01) bedoelde gegevens en bescheiden met betrekking tot die trust en de uiteindelijk belanghebbenden daarvan.
 
@@ -205,41 +178,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 5. In schriftelijke uitingen die namens de trust worden gedaan, wordt het unieke kenmerk vermeld dat na registratie aan de trust is toegekend.
 
-##### Artikel 12. Kwaliteit geregistreerde informatie
+#### Artikel 12. Kwaliteit geregistreerde informatie
 
 De trustee draagt er zorg voor dat de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=2&artikel=5&z=2022-11-01&g=2022-11-01) bedoelde gegevens en bescheiden met betrekking tot de trust en de uiteindelijk belanghebbenden daarvan, toereikend, actueel en accuraat zijn.
 
 ### Hoofdstuk 5. Taken van de beheerder
 
-##### Artikel 13. Ontwikkeling en beheer van het register
+#### Artikel 13. Ontwikkeling en beheer van het register
 
 1. De beheerder draagt zorg voor de ontwikkeling, een goede bereikbaarheid, werking en beveiliging van het register.
 
 2. De beheerder draagt er zorg voor dat de weergave van krachtens deze wet in het register opgenomen informatie onverwijld na het besluit bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=4&artikel=11&z=2022-11-01&g=2022-11-01), overeenstemt met dat besluit.
 
-##### Artikel 14. Verstrekking uniek kenmerk
+#### Artikel 14. Verstrekking uniek kenmerk
 
 De beheerder kent aan een trust een uniek kenmerk toe, en neemt dit kenmerk in het register op.
 
-##### Artikel 15. Informatieverstrekking aan de Financiële inlichtingen eenheid en de bevoegde autoriteiten
+#### Artikel 15. Informatieverstrekking aan de Financiële inlichtingen eenheid en de bevoegde autoriteiten
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 16. Informatieverstrekking aan uiteindelijk belanghebbenden
+#### Artikel 16. Informatieverstrekking aan uiteindelijk belanghebbenden
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 17. Verwerking terugmelding
+#### Artikel 17. Verwerking terugmelding
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 18. Technische inrichting
+#### Artikel 18. Technische inrichting
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent het beheer, de vorm en de technische en administratieve inrichting van het register.
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat in het register ook informatie kan worden opgenomen die is overgenomen uit een basisregistratie.
 
-##### Artikel 19. Protocol
+#### Artikel 19. Protocol
 
 1. De beheerder stelt een protocol op aangaande:
 
@@ -253,27 +226,27 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 6. Financiele inlichtingen eenheid en bevoegde autoriteiten
 
-##### Artikel 20. Informatiedeling
+#### Artikel 20. Informatiedeling
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 21. Terugmeldplicht
+#### Artikel 21. Terugmeldplicht
 
 Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 7. Handhaving
 
-##### Artikel 22. Last onder dwangsom
+#### Artikel 22. Last onder dwangsom
 
 Onze Minister van Financiën kan een last onder dwangsom opleggen indien er sprake is van handelen in strijd met [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=4&artikel=11&z=2022-11-01&g=2022-11-01), of [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=4&artikel=12&z=2022-11-01&g=2022-11-01).
 
-##### Artikel 23. Bestuurlijke boete
+#### Artikel 23. Bestuurlijke boete
 
 1. Onze Minister van Financiën kan een bestuurlijke boete opleggen indien er sprake is van handelen in strijd met [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=4&artikel=11&z=2022-11-01&g=2022-11-01), of [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=4&artikel=12&z=2022-11-01&g=2022-11-01).
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-##### Artikel 23a. Vorderen inlichtingen
+#### Artikel 23a. Vorderen inlichtingen
 
 1. Onze Minister van Financiën is bevoegd van een trustee inlichtingen te vorderen die hij redelijkerwijs voor de vervulling van zijn taak, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=7&artikel=22&z=2022-11-01&g=2022-11-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=7&artikel=23&z=2022-11-01&g=2022-11-01), nodig heeft. Een trustee is verplicht aan Onze Minister van Financiën binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitvoering van deze bevoegdheid.
 
@@ -281,11 +254,11 @@ Onze Minister van Financiën kan een last onder dwangsom opleggen indien er spra
 
 ### Hoofdstuk 8. Overige bepalingen
 
-##### Artikel 24. Databankenrecht
+#### Artikel 24. Databankenrecht
 
 Het recht, bedoeld in [artikel 2, eerste lid, van de Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=I) is, ten aanzien van het register bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=2&artikel=4&z=2022-11-01&g=2022-11-01) van deze wet, voorbehouden aan de Staat der Nederlanden.
 
-##### Artikel 25. Mandaatverlening
+#### Artikel 25. Mandaatverlening
 
 1. Onze Minister van Financiën verleent aan de voorzitter van de Kamer van Koophandel mandaat om:
 
@@ -301,15 +274,15 @@ Het recht, bedoeld in [artikel 2, eerste lid, van de Databankenwet](https://wett
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-##### Artikel 29. Overgangsbepaling
+#### Artikel 29. Overgangsbepaling
 
 In afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&hoofdstuk=4&artikel=11&z=2022-11-01&g=2022-11-01), vindt registratie waartoe de verplichting is ontstaan als gevolg van de inwerkingtreding van artikel 11 van deze wet plaats binnen drie maanden na inwerkingtreding van deze wet.
 
-##### Artikel 30. Inwerkingtreding
+#### Artikel 30. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 31. Citeertitel
+#### Artikel 31. Citeertitel
 
 Deze wet wordt aangehaald als: Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies.
 
