@@ -1,40 +1,14 @@
 ---
-title: "Wet van 7 juli 1988, houdende algemene regeling met betrekking tot het scheepvaartverkeer op de binnenwateren en op zee"
+title: "Scheepvaartverkeerswet"
 identifier: "BWBR0004364"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004364"
-soort: "wet"
-stam_id: "1751393"
-version_id: "2599332"
-internal_id: "C27143051"
-label_id: "1706574"
-dtd_version: "2.0"
-original_entry_into_force: "1988-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004364/2025-07-01/0"
-intitule_bron: "Stb.1988-352"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-07-07"
-intitule_published: "1988-07-28"
-intitule_status: "goed"
-original_publication: "Stb.1988-352"
-original_signed_date: "1988-07-07"
-original_published_date: "1988-07-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "20289"
-entry_into_force_date: "1988-09-01"
-entry_into_force_dossier: "20289"
-jci_1_3: "jci1.3:c:BWBR0004364&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0004364&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Scheepvaartverkeerswet"
-signed_date: "1988-07-07"
-entry_into_force: "1988-09-01"
+categorie: "Verkeer"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0004364"
 ---
-# Wet van 7 juli 1988, houdende algemene regeling met betrekking tot het scheepvaartverkeer op de binnenwateren en op zee
+
+# Scheepvaartverkeerswet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -44,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij daarin anders is bepaald, verstaan onder:
 
@@ -118,7 +92,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. zeeschip: een samenstel van zeeschepen of van een of meer zeeschepen met een of meer andere schepen of andere vaartuigen, waarvan ten minste één schip deel uitmaakt dat ter voortbeweging gebruik maakt van een of meer van zijn motoren en dat dient voor het voortbewegen of sturen van het samenstel.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen is dan wel zijn, tenzij daarin anders is bepaald, het bevoegd gezag:
 
@@ -150,7 +124,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Inleidende bepaling
 
-##### Artikel 3
+#### Artikel 3
 
 1. Toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=11&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=12&z=2025-07-01&g=2025-07-01) kan, behoudens het bepaalde in het tweede lid, slechts geschieden in het belang van:
 
@@ -172,7 +146,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Verkeersreglementering
 
-##### Artikel 4
+#### Artikel 4
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
 
@@ -210,13 +184,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de apparatuur en de softwaretoepassingen die ten behoeve van River Information Services worden gebruikt door het bevoegd gezag en organisaties en personen die niet deelnemen aan het scheepvaartverkeer.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Beslissingen met betrekking tot het aanbrengen of verwijderen van een verkeersteken worden genomen door het bevoegd gezag. Dit gezag draagt zorg voor het aanbrengen of verwijderen van verkeerstekens.
 
 2. Het bevoegd gezag kan van de bevoegdheid tot het nemen van beslissingen als bedoeld in het eerste lid machtiging verlenen aan degene die is belast met de uitoefening van de bij of krachtens deze wet verleende bevoegdheden ten aanzien van de deelname aan het scheepvaartverkeer op de desbetreffende scheepvaartweg.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Een verkeersteken dat een gebod of verbod dan wel de opheffing van een gebod of verbod aangeeft, wordt, behoudens in bij algemene maatregel van bestuur aan te geven bijzondere omstandigheden, niet aangebracht of verwijderd dan nadat het desbetreffende besluit door de zorg van het bevoegd gezag is bekendgemaakt.
 
@@ -224,7 +198,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Bij algemene maatregel van bestuur kunnen regels worden gesteld inzake de totstandkoming van besluiten als bedoeld in het eerste lid en de wijze van bekendmaking daarvan.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Van een gebod of verbod, aangegeven met een verkeersteken, kan door het bevoegd gezag, zonodig onder beperkingen, vrijstelling of ontheffing worden verleend. Aan een besluit tot vrijstelling of ontheffing kunnen voorschriften worden verbonden.
 
@@ -236,11 +210,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Het bevoegd gezag kan van de bevoegdheid, bedoeld in het eerste lid, mandaat verlenen aan degene die is belast met de uitoefening van de bij of krachtens deze wet verleende bevoegdheden ten aanzien van de deelname aan het scheepvaartverkeer op de desbetreffende scheepvaartweg.
 
-##### Artikel 8
+#### Artikel 8
 
 De [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing met betrekking tot bekendmakingen met dezelfde strekking als een verkeersteken.
 
-##### Artikel 9
+#### Artikel 9
 
 1. Bij of krachtens algemene maatregel van bestuur wordt bepaald welke personen bevoegd zijn tot het geven van verkeersinformatie dan wel tot het geven van verkeersaanwijzingen.
 
@@ -250,7 +224,7 @@ De [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&ho
 
 #### § 3. Het loodsen
 
-##### Artikel 10
+#### Artikel 10
 
 1. De kapitein van een zeeschip maakt tijdens de vaart op de scheepvaartwegen die deel uitmaken van een zeehavengebied, gebruik van de diensten van een loods.
 
@@ -262,7 +236,7 @@ De [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&ho
 
 5. Bij of krachtens algemene maatregel van bestuur wordt het gezag aangewezen dat op een in die maatregel aan te geven wijze belast wordt met de uitvoering van deze paragraaf en de daarop berustende bepalingen.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Van de verplichting, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), kan ten aanzien van een of meerdere aangewezen scheepvaartwegen in een zeehavengebied bij of krachtens algemene maatregel van bestuur:
 
@@ -278,29 +252,29 @@ De [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&ho
 
 4. Aan een besluit tot vrijstelling, respectievelijk ontheffing, als bedoeld in het eerste lid, onderdeel b, kunnen voorschriften of beperkingen worden verbonden.
 
-##### Artikel 12
+#### Artikel 12
 
 Bij of krachtens algemene maatregel van bestuur worden voor kapiteins regels gesteld over operationele zaken betreffende het loodsen, waaronder het gelijktijdig gebruik van de diensten van meer dan één loods en het gebruik maken van de diensten van een loods vanaf de wal of vanaf een ander schip.
 
-##### Artikel 13
+#### Artikel 13
 
 Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van een schip dat geen zeeschip is en degene die daarover de leiding heeft, indien dit schip zich op zee bevindt.
 
 #### § 4. Vergoedingen
 
-##### Artikel 14
+#### Artikel 14
 
 1. Indien het door het bevoegd gezag redelijkerwijze nodig wordt geoordeeld om verkeerstekens voor het scheepvaartverkeer dat zich op een scheepvaartweg bevindt, aan te brengen of te verwijderen in verband met door een ander in, op of boven die scheepvaartweg te ondernemen activiteiten welke niet behoren tot het normale verkeersgebruik van die scheepvaartweg, kan die ander door het bevoegd gezag worden verplicht de kosten te vergoeden die het heeft gemaakt voor het aanbrengen of verwijderen van die verkeerstekens.
 
 2. Indien het door het bevoegd gezag redelijkerwijze nodig wordt geoordeeld om schepen op een scheepvaartweg te volgen, daaraan verkeersinformatie te geven dan wel deze te begeleiden met een schip in verband met door een ander in, op of boven die scheepvaartweg te ondernemen activiteiten welke niet behoren tot het normale verkeersgebruik van die scheepvaartweg, kan die ander door het bevoegd gezag worden verplicht de kosten te vergoeden, die het heeft gemaakt voor die maatregelen.
 
-##### Artikel 14a
+#### Artikel 14a
 
 1. De kosten verbonden aan de aanvraag en de afgifte van diploma’s en van vrijstellingen, respectievelijk ontheffingen als bedoeld in artikel 11, eerste lid, onderdeel b de deelname aan de daarvoor vereiste opleidingen en examens en de afgifte van andere documenten, verplicht gesteld bij of krachtens deze wet, kunnen ten laste worden gebracht van de aanvrager van het diploma of andere document, onderscheidenlijk de kandidaat voor de bedoelde examens.
 
 2. De tarieven voor de kosten verbonden aan de deelname aan de opleidingen en de examens die door de regionale loodsencorporaties op grond van [artikel 13 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=13), worden verzorgd in het kader van het verlenen van een vrijstelling of ontheffing, bedoeld in [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=11&z=2025-07-01&g=2025-07-01), worden vastgesteld bij besluit van de Autoriteit Consument en Markt overeenkomstig [hoofdstuk VIA van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&hoofdstuk=VIA) en de daarop gebaseerde bepalingen.
 
-##### Artikel 15
+#### Artikel 15
 
 1. De kapitein die gebruik maakt van de diensten van een loods, dan wel de eigenaar of rompbevrachter van het schip waarvoor gebruik wordt gemaakt van de diensten van een loods, is gehouden loodsgeld te betalen.
 
@@ -308,7 +282,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 3. Degene die gehouden is loodsgeld te betalen, kan door de organisatie waaraan het loodsgeld is verschuldigd, worden verplicht tot het stellen van zekerheid met betrekking tot de voldoening van het loodsgeld en tot het verschaffen van de in verband met de bepaling van het toepasselijke tarief benodigde informatie.
 
-##### Artikel 15a
+#### Artikel 15a
 
 1. Het loodsgeld strekt tot vergoeding van de kosten met betrekking tot het loodsen.
 
@@ -322,7 +296,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 - d. de verplichting van de kapitein tot het verschaffen van de in verband met de bepaling van het toepasselijke tarief benodigde informatie.
 
-##### Artikel 15b
+#### Artikel 15b
 
 1. De inning van het loodsgeld en de loodsvergoedingen, die ingevolge het Scheldereglement geheven worden en aan het Rijk toekomen, geschiedt volgens de bij of krachtens het Scheldereglement geldende bepalingen door een door de algemene raad van de Nederlandse loodsencorporatie aan te wijzen organisatie. Deze aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -334,7 +308,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 - b. de gevolgen van het in gebreke blijven van de organisatie ten aanzien van de inning of de aanwending van het loodsgeld en de loodsvergoedingen.
 
-##### Artikel 15c
+#### Artikel 15c
 
 1. De kapitein, eigenaar of rompbevrachter van een zeeschip dat gevoerd wordt door een verkeersdeelnemer op wie een verplichting rust als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), gericht op het deelnemen aan verkeersbegeleiding, is gehouden het verkeersbegeleidingstarief te betalen en de in verband met de bepaling van het tarief benodigde informatie te verstrekken.
 
@@ -342,7 +316,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 3. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de ontheffing van de verplichting tot het betalen van het in het eerste lid bedoelde tarief.
 
-##### Artikel 15d
+#### Artikel 15d
 
 1. Het verkeersbegeleidingstarief strekt tot vergoeding van ten laste van het Rijk komende kosten van verkeersbegeleiding, voor zover deze strekt tot individuele dienstverlening.
 
@@ -350,17 +324,17 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 3. Het in het eerste lid bedoelde tarief wordt vastgesteld bij ministeriële regeling. Bij ministeriële regeling worden tevens regels gesteld met betrekking tot de inning en de wijze van betaling van het tarief. Onze Minister, onderscheidenlijk het bij ministeriële regeling aangewezen bestuursorgaan of de bij ministeriële regeling aangewezen ambtenaar is bevoegd tot het uitvaardigen van een dwangbevel tot invordering van de verschuldigde geldsom.
 
-##### Artikel 16
+#### Artikel 16
 
 De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15&z=2025-07-01&g=2025-07-01) en [15**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15a&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing ten aanzien van een schip dat geen zeeschip is en op degene die daarover de leiding heeft, het schip in eigendom heeft of het als rompbevrachter exploiteert.
 
-##### Artikel 16a
+#### Artikel 16a
 
 De [artikelen 15**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15c&z=2025-07-01&g=2025-07-01) en [15**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15d&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing ten aanzien van een schip dat geen zeeschip is en behoort tot een categorie die bij algemene maatregel van bestuur aangewezen kan worden en op degene die over dat schip de leiding heeft, het schip in eigendom heeft of het als rompbevrachter exploiteert.
 
 ### Hoofdstuk 3. Gegevens ten behoeve van de statistiek
 
-##### Artikel 17
+#### Artikel 17
 
 1. Degene die een schip voert dat behoort tot een bij algemene maatregel van bestuur aan te wijzen categorie, is verplicht om aan de daartoe bij of krachtens die maatregel aangewezen personen ten behoeve van de statistiek bepaalde gegevens te verstrekken met betrekking tot het schip, de daarmee vervoerde lading of de uit te voeren reis.
 
@@ -374,7 +348,7 @@ De [artikelen 15**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk
 
 ### Hoofdstuk 3. Gegevens ten behoeve van de statistiek
 
-##### Artikel 18
+#### Artikel 18
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het gebruik van scheepvaartwegen door personen die zich anders dan op een schip te water bevinden.
 
@@ -382,11 +356,11 @@ De [artikelen 15**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk
 
 ### Hoofdstuk 4. Gebruik van scheepvaartwegen door personen die zich anders dan op een schip te water bevinden
 
-##### Artikel 19
+#### Artikel 19
 
 Het stellen van regels krachtens het bepaalde in de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&z=2025-07-01&g=2025-07-01) geschiedt met inachtneming van bindende verdragen en bindende besluiten van volkenrechtelijke organisaties.
 
-##### Artikel 20
+#### Artikel 20
 
 1. Bij algemene maatregel van bestuur kunnen, ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties voor zover die het Koninkrijk binden, regels worden gesteld met betrekking tot het deelnemen aan het scheepvaartverkeer door Nederlandse zeeschepen:
 
@@ -396,43 +370,43 @@ Het stellen van regels krachtens het bepaalde in de [hoofdstukken 2 tot en met 4
 
 2. Het bepaalde in het eerste lid, onderdeel **b**, is niet van toepassing, voorzover door de voor die wateren daartoe bevoegde autoriteiten afwijkende regels zijn gesteld.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Bij algemene maatregel van bestuur kunnen ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties welke betrekking hebben op de ordening van het scheepvaartverkeer voor de Nederlandse kust buiten de Nederlandse territoriale zee, voorzover die verdragen of besluiten het Koninkrijk binden, regels worden gesteld. Voorzover daarbij uitvoering wordt gegeven aan artikel 211, zesde lid, van het op 10 december 1982 te Montego-Bay totstandgekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83), geschiedt zulks met inachtneming van de voorschriften, genoemd in dat verdrag.
 
 2. In de krachtens het eerste lid te stellen regels kan met betrekking tot daarin aangewezen onderdelen Onze Minister bevoegd worden verklaard tot het stellen van nadere regels.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Bij algemene maatregel van bestuur kunnen ter uitvoering van de Herziene Rijnvaartakte voor zover dit noodzakelijk is voor een goede uitvoering van dat verdrag met betrekking tot de scheepvaart, regels inzake andere onderwerpen dan die bedoeld in de [Hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&z=2025-07-01&g=2025-07-01) worden gesteld.
 
 2. In de krachtens het eerste lid te stellen regels kan met betrekking tot daarin aangewezen onderdelen Onze Minister bevoegd worden verklaard tot het stellen van nadere regels.
 
-##### Artikel 23
+#### Artikel 23
 
 Bij de toepassing van de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=5&artikel=19&z=2025-07-01&g=2025-07-01) wordt afgeweken van het bepaalde in deze wet, indien verdragen of besluiten van volkenrechtelijke organisaties voor zover deze het Koninkrijk binden daartoe nopen.
 
 ### Hoofdstuk 6. Dwangbepalingen
 
-##### Artikel 24
+#### Artikel 24
 
 Onze Minister, indien deze het bevoegd gezag is, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-##### Artikel 24a
+#### Artikel 24a
 
 Onze Minister is gerechtigd te verrichten hetgeen in strijd met het bepaalde bij of krachtens [artikel 15**b**, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15b&z=2025-07-01&g=2025-07-01), wordt nagelaten.
 
-##### Artikel 25
+#### Artikel 25
 
 Indien een verkeersdeelnemer aan wie een verkeersaanwijzing is gegeven, een krachtens [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), geregelde verplichting met betrekking tot een verkeersaanwijzing overtreedt en daarvoor onmiddellijk gevaar voor de veiligheid van personen of goederen ontstaat of dreigt te ontstaan, is het bevoegd gezag bevoegd tot oplegging van een last onder bestuursdwang ter voorkoming of bestrijding van dat gevaar.
 
 ### Hoofdstuk 7. Straf-, opsporings- en politiebepalingen
 
-##### Artikel 26
+#### Artikel 26
 
 Het is verboden om opzettelijk wederrechtelijk een aan een ander toebehorend schip of ander vaartuig te gebruiken voor het deelnemen aan het scheepvaartverkeer op een scheepvaartweg.
 
-##### Artikel 27
+#### Artikel 27
 
 1. Het is degene die op een scheepvaartweg een varend schip voert of stuurt, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer adviseert over de te voeren navigatie, verboden dit te doen, terwijl hij verkeert onder zodanige invloed van een stof waarvan hij weet of redelijkerwijze moet weten, dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de vaardigheid voor het voeren of sturen van dat schip, dan wel de bekwaamheid tot het adviseren van de kapitein of de verkeersdeelnemer, kan verminderen, dat hij niet in staat moet worden geacht dat schip naar behoren te kunnen voeren of te kunnen sturen, dan wel de kapitein of de verkeersdeelnemer naar behoren te kunnen adviseren.
 
@@ -456,13 +430,13 @@ Het is verboden om opzettelijk wederrechtelijk een aan een ander toebehorend sch
 
 7. In dit artikel wordt onder lengte van een schip verstaan de grootste lengte van de romp gemeten van de voorkant van het voorste tot de achterkant van het achterste deel van het schip.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Op de eerste vordering van een opsporingsambtenaar als bedoeld in artikel 141 van het Wetboek van Strafvordering is degene die op een scheepvaartweg een varend schip voert of stuurt, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer adviseert over de te voeren navigatie, verplicht zijn medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die opsporingsambtenaar te geven aanwijzingen ademlucht te blazen in een door die opsporingsambtenaar aangewezen apparaat.
 
 2. Het eerste lid is van overeenkomstige toepassing op degene die aanstalten maakt een schip dat op een scheepvaartweg voor vertrek gereed ligt, te gaan voeren of sturen, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer over de te voeren navigatie te gaan adviseren.
 
-##### Artikel 28a
+#### Artikel 28a
 
 1. Indien degene die op een scheepvaartweg een varend schip voert of stuurt, dan wel als loods aan boord van een zodanig schip de kapitein of verkeersdeelnemer adviseert over de te voeren navigatie, verdacht wordt van handelen in strijd met [artikel 27, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=27&z=2025-07-01&g=2025-07-01), kan een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in [artikel 27, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=27&z=2025-07-01&g=2025-07-01).
 
@@ -486,7 +460,7 @@ Het is verboden om opzettelijk wederrechtelijk een aan een ander toebehorend sch
 
 11. Bij algemene maatregel van bestuur, gedaan op voordracht van Onze Minister van Veiligheid en Justitie, worden regels gesteld omtrent de wijze van uitvoering van [artikel 28 en van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=28a&z=2025-07-01&g=2025-07-01). Deze regels hebben mede betrekking op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Veiligheid en Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) kan, indien hij een ernstige verdenking heeft dat degene die op een scheepvaartweg een varend schip voert of stuurt, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer over de te voeren navigatie adviseert, handelt in strijd met [artikel 27, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=27&z=2025-07-01&g=2025-07-01), aan die persoon een verbod opleggen op een scheepvaartweg een varend schip te voeren of te sturen, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer over de te voeren navigatie te adviseren, voor de tijd gedurende welke hij verwacht dat deze toestand zal voortduren tot ten hoogste vierentwintig uren.
 
@@ -496,19 +470,19 @@ Het is verboden om opzettelijk wederrechtelijk een aan een ander toebehorend sch
 
 4. Degene aan wie een verbod op grond van dit artikel is opgelegd, is verplicht de bevelen die door de opsporingsambtenaar worden gegeven voor de uitvoering van het verbod op te volgen.
 
-##### Artikel 29a
+#### Artikel 29a
 
 1. Voor zover bij of krachtens de Herziene Rijnvaartakte wordt voorzien in het onderwerp van de regeling van [artikel 27, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=27&z=2025-07-01&g=2025-07-01), zijn deze artikelleden niet van toepassing.
 
 2. Indien bij of krachtens de Herziene Rijnvaartakte wordt voorzien in het onderwerp van de regeling van [artikel 27, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=27&z=2025-07-01&g=2025-07-01), zijn de [artikelen 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=27&z=2025-07-01&g=2025-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=28&z=2025-07-01&g=2025-07-01), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=28a&z=2025-07-01&g=2025-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=29&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-##### Artikel 30
+#### Artikel 30
 
 1. Het is verboden om, zonder daartoe bevoegd te zijn, een krachtens [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), of een krachtens het verdrag inzake het gemeenschappelijk nautisch beheer vastgesteld verkeersteken aan te brengen of te doen aanbrengen dan wel te verwijderen of te doen verwijderen.
 
 2. Het is verboden om een voorwerp van welke aard ook, dat het scheepvaartverkeer op een scheepvaartweg in verwarring of in gevaar zou kunnen brengen, daarlangs, daarin of daarboven aan te brengen, te doen aanbrengen of te houden.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Handelen in strijd met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=26&z=2025-07-01&g=2025-07-01) wordt, voorzoveel daartegen niet bij het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) is voorzien, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -546,7 +520,7 @@ Het is verboden om opzettelijk wederrechtelijk een aan een ander toebehorend sch
 
 15. Ingeval bij of krachtens deze wet wordt verwezen naar in het kader van de Internationale Maritieme Organisatie van de Verenigde Naties tot stand gekomen besluiten die betrekking hebben op de ordening van het scheepvaartverkeer, kan overtreding van deze besluiten ook als strafbaar feit worden aangemerkt indien deze besluiten in de Engelse taal zijn gesteld en bekend gemaakt.
 
-##### Artikel 32
+#### Artikel 32
 
 1. Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de in de Herziene Rijnvaartakte strafbaar gestelde feiten, voor zover deze laatste de overtreding betreffen van bepalingen die krachtens deze wet zijn vastgesteld, zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe door het bevoegd gezag, in overeenstemming met Onze Minister van Veiligheid en Justitie, aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -554,11 +528,11 @@ Het is verboden om opzettelijk wederrechtelijk een aan een ander toebehorend sch
 
 3. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15 tot en met 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
-##### Artikel 33
+#### Artikel 33
 
 Een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) kan, indien hij op grond van feiten of omstandigheden redelijkerwijze kan vermoeden dat een schip betrokken is geweest bij een aanvaring waarbij een persoon is gedood, letsel heeft bekomen of in zijn gezondheid is benadeeld dan wel aan enige zaak die niet toebehoort aan een persoon die zich op het schip bevindt, schade is toegebracht, in het belang van de opsporing van de verkeersdeelnemer of de andere personen die deel uitmaken van de bemanning vorderen dat zij de inlichtingen en gegevens verstrekken die nodig zijn voor de vaststelling van hun identiteit en van die van het schip.
 
-##### Artikel 34
+#### Artikel 34
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren, aangewezen bij het besluit, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=32&z=2025-07-01&g=2025-07-01).
 
@@ -570,7 +544,7 @@ Een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvor
 
 5. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-##### Artikel 35
+#### Artikel 35
 
 1. Indien een persoon er van wordt verdacht dat hij, terwijl hij een zeeschip of samenstel van zeeschepen voerde,
 
@@ -602,7 +576,7 @@ en indien redelijkerwijze moet worden gevreesd dat de betrokkene zich zal onttre
 
 ### Hoofdstuk 8. Bijzondere bepalingen
 
-##### Artikel 36
+#### Artikel 36
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat de [artikelen 10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), [15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15c&z=2025-07-01&g=2025-07-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=3&artikel=17&z=2025-07-01&g=2025-07-01) alsmede de krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=11&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=12&z=2025-07-01&g=2025-07-01) gestelde regels die in die maatregel zijn aangegeven, niet of slechts met beperkingen van toepassing zijn op Nederlandse of daarmee in die maatregel gelijk te stellen oorlogsschepen, die zich bevinden in de territoriale zee of daarop aansluitende Nederlandse scheepvaartwegen die in die maatregel zijn aangewezen.
 
@@ -614,7 +588,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat [artikel 15, eerste en
 
 4. Het in het derde lid strafbaar gestelde feit is een overtreding.
 
-##### Artikel 37
+#### Artikel 37
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=8&artikel=37a&z=2025-07-01&g=2025-07-01), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=8&artikel=38&z=2025-07-01&g=2025-07-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
@@ -628,7 +602,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat [artikel 15, eerste en
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-##### Artikel 38
+#### Artikel 38
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -638,7 +612,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Bij algemene maatregel van bestuur kan worden bepaald dat hetgeen bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01) is bepaald en hetgeen door besturen van andere openbare lichamen dan het Rijk is bepaald bij of krachtens verordeningen die betrekking hebben op de ordening van het scheepvaartverkeer op scheepvaartwegen, geen toepassing vindt ten aanzien van schepen of andere vaartuigen, welke worden gebruikt ten behoeve van de in die maatregel aangewezen overheidsdiensten.
 
-##### Artikel 39
+#### Artikel 39
 
 1. Het bij of krachtens de Oorlogswet voor Nederland aangewezen militair gezag is bevoegd om indien de beperkte of de algemene noodtoestand is afgekondigd, met betrekking tot de ordening van het scheepvaartverkeer op scheepvaartwegen regels te stellen in afwijking van hetgeen is bepaald bij of krachtens deze wet en van hetgeen door besturen van andere openbare lichamen dan het Rijk is bepaald bij of krachtens verordeningen die betrekking hebben op de ordening van het scheepvaartverkeer op scheepvaartwegen, voorzover zulks met het oog op de uitvoering van de militaire taak ter handhaving van de uitwendige of inwendige veiligheid noodzakelijk is.
 
@@ -648,57 +622,57 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Hoofdstuk 9. Overige bepalingen
 
-##### Artikel 40
+#### Artikel 40
 
 Vervallen
 
-##### Artikel 41
+#### Artikel 41
 
 De toepasselijkheid van deze wet wordt beperkt door de in het volkenrecht erkende uitzonderingen.
 
-##### Artikel 42
+#### Artikel 42
 
 De bevoegdheid van provinciale staten, gemeenteraden, waterschappen en havenschappen tot het stellen van regels blijft ten aanzien van het onderwerp waarin deze wet voorziet, gehandhaafd, voorzover die regels niet in strijd zijn met de bij of krachtens deze wet gestelde regels.
 
-##### Artikel 43
+#### Artikel 43
 
 De Wet van 15 april 1891 (**Stb.** 91), houdende bepalingen ter voorkoming van aanvaring of aandrijving op de openbare wateren in het Rijk, die voor de scheepvaart openstaan, wordt ingetrokken, met dien verstande dat de krachtens genoemde wet gestelde regels worden geacht te zijn gesteld krachtens deze wet.
 
-##### Artikel 44
+#### Artikel 44
 
 De Wet van 20 april 1895 (**Stb.** 71) tot regeling van het bakenwezen op openbare wateren wordt ingetrokken.
 
-##### Artikel 45
+#### Artikel 45
 
 De Zeeaanvaringswet 1977 (**Stb.** 1979, 196) wordt ingetrokken, met dien verstande dat de krachtens die wet gestelde regels worden geacht te zijn gesteld krachtens deze wet.
 
-##### Artikel 46
+#### Artikel 46
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 48
+#### Artikel 48
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 49
+#### Artikel 49
 
 1. Bevat wijzigingen in andere regelgeving.
 
 2. De krachtens artikel 1, onderdeel 1° en 2°, van de Wet van 28 februari 1891 tot vaststelling van bepalingen betreffende ’s Rijks waterstaatswerken vóór de inwerkingtreding van het eerste lid van dit artikel gestelde regels die betrekking hebben op het deelnemen aan het scheepvaartverkeer, worden geacht te zijn gesteld krachtens deze wet.
 
-##### Artikel 50
+#### Artikel 50
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 51
+#### Artikel 51
 
 Vervallen
 
-##### Artikel 52
+#### Artikel 52
 
 1. Het ontwerp van een algemene maatregel van bestuur als bedoeld in de [artikelen 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=11&z=2025-07-01&g=2025-07-01), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=16a&z=2025-07-01&g=2025-07-01), dat niet uitsluitend bepalingen bevat ter implementatie van een besluit van de Centrale Commissie voor de Rijnvaart, wordt gelijktijdig in de **Staatscourant** bekend gemaakt en aan de beide Kamers der Staten-Generaal overgelegd.
 
@@ -708,13 +682,13 @@ Vervallen
 
 4. In het geval, bedoeld in het derde lid, dienen Wij zo spoedig mogelijk een desbetreffend wetsvoorstel in.
 
-##### Artikel 53
+#### Artikel 53
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de onderscheidene artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Bij de inwerkingtreding van deze wet stelt Onze Minister van Veiligheid en Justitie de nummering van de artikelen, paragrafen en hoofdstukken van deze wet opnieuw vast, en brengt de in deze wet voorkomende aanhalingen van de artikelen, paragrafen en hoofdstukken met de nieuwe nummering in overeenstemming. Hij draagt zorg dat de overeenkomstig de eerste volzin bijgewerkte tekst van deze wet in het **Staatsblad** wordt geplaatst.
 
-##### Artikel 54
+#### Artikel 54
 
 Deze wet kan worden aangehaald als: Scheepvaartverkeerswet.
 
@@ -790,7 +764,7 @@ Deze wet kan worden aangehaald als: Scheepvaartverkeerswet.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 37a
+#### Artikel 37a
 
 1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
 
@@ -872,7 +846,7 @@ In afwijking van het bij of krachtens deze wet bepaalde kan Onze Minister de maa
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 15ba
+#### Artikel 15ba
 
 1. Een aanwijzing, bedoeld in de [artikelen 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15a&z=2025-07-01&g=2025-07-01), en [15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=4&artikel=15b&z=2025-07-01&g=2025-07-01), behoeft de goedkeuring van de Autoriteit Consument en Markt. Onverminderd [artikel 10:27 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:27) kan de goedkeuring kan slechts worden onthouden indien het belang van behoorlijk markttoezicht zich daartegen verzet.
 
@@ -968,7 +942,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 23a
+#### Artikel 23a
 
 Behoeft de voorzitter van een veiligheidsregio, in geval van een ramp of crisis, bijstand van de Gemeenschappelijk Nautische Autoriteit, genoemd in artikel 6 van het Verdrag inzake het gemeenschappelijk nautisch beheer, dan dient hij een daartoe strekkend verzoek in bij Onze Minister. Onze Minister geleidt dit verzoek door aan de Gemeenschappelijke Nautische Autoriteit.
 
@@ -976,7 +950,7 @@ Behoeft de voorzitter van een veiligheidsregio, in geval van een ramp of crisis,
 
 ### Hoofdstuk 7. Straf-, opsporings- en politiebepalingen
 
-##### Artikel 31a
+#### Artikel 31a
 
 1. Overtreding van artikel 9, eerste lid, van het Scheldereglement met een zeeschip, een Scheldevaarder of een schip als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=3&artikel=13&z=2025-07-01&g=2025-07-01) wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de derde categorie.
 
@@ -1074,7 +1048,7 @@ De scheepvaartwegen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 35a
+#### Artikel 35a
 
 1. In de gevallen, bedoeld in het tweede lid, onderdelen a, b of c, overhandigt de houder van een vaarbewijs tegen wie proces-verbaal wordt opgemaakt wegens overtreding van een voorschrift als bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=7&artikel=35b&z=2025-07-01&g=2025-07-01), zijn vaarbewijs op eerste vordering aan de opsporingsambtenaar.
 
@@ -1098,7 +1072,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, maar op grond van een feit waarvoor de toepassing van het eerste of tweede lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade die hij ten gevolge van die toepassing heeft geleden, waaronder begrepen nadeel dat niet in vermogensschade bestaat. De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534), [535](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=535) en [536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=536) zijn van overeenkomstige toepassing.
 
-##### Artikel 35b
+#### Artikel 35b
 
 1. De houder van een vaarbewijs kan de bevoegdheid tot het voeren van schepen, voor zover daartoe een vaarbewijs is vereist, voor ten hoogste vijf jaren worden ontzegd wegens het op de binnenwateren voeren of doen voeren van:
 
@@ -1118,7 +1092,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 7. De termijn van ontzegging van de bevoegdheid tot het voeren van schepen wordt van rechtswege verlengd met het aantal dagen dat is verstreken tussen het tijdstip waarop het vaarbewijs ingevolge het vijfde lid had moeten worden ingeleverd en het tijdstip waarop nadien die inlevering heeft plaatsgevonden.
 
-##### Artikel 35c
+#### Artikel 35c
 
 De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet verleende bevoegdheden de beschikking krijgt over een vaarwijs waarvan ingevolge dit hoofdstuk de overgifte is gevorderd, waarvan een verplichting tot inlevering bestaat of dat ingevolge de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009) zijn geldigheid heeft verloren, is bevoegd dat vaarbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie, naar degene bij wie de houder dat vaarbewijs had dienen in te leveren onderscheidenlijk naar de instantie die het heeft afgegeven.
 
@@ -1194,7 +1168,7 @@ De scheepvaartwegen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 4a
+#### Artikel 4a
 
 1. Ter uitvoering van [artikel 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), en artikel 4, derde lid, worden persoonsgegevens verwerkt. De verwerking van deze gegevens vindt plaats ter verzekering van de veiligheid en het vlotte verloop van het scheepvaartverkeer en ter uitvoering van verdragen of bindende EU-rechtshandelingen alleen of gezamenlijk. Het bevoegd gezag en de organisatie of persoon die niet deelneemt aan het scheepvaartverkeer die bij of krachtens algemene maatregel van bestuur is aangewezen, is verwerkingsverantwoordelijke.
 
