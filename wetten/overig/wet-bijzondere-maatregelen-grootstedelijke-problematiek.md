@@ -1,42 +1,14 @@
 ---
-title: "Wet van 22 december 2005, houdende regels die een geconcentreerde aanpak van grootstedelijke problemen mogelijk maken (Wet bijzondere maatregelen grootstedelijke problematiek)"
+title: "Wet bijzondere maatregelen grootstedelijke problematiek"
 identifier: "BWBR0019388"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0019388"
-soort: "wet"
-stam_id: "7771653"
-version_id: "12686972"
-internal_id: "C17083911"
-label_id: "7759474"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0019388/2025-02-12/0"
-intitule_bron: "Stb.2005-726"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-22"
-intitule_published: "2005-12-29"
-intitule_in_force: "2005-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2005-726"
-original_signed_date: "2005-12-22"
-original_published_date: "2005-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "30091"
-original_url_id: "stb-2005-726"
-entry_into_force_date: "2005-12-30"
-entry_into_force_dossier: "30091"
-jci_1_3: "jci1.3:c:BWBR0019388&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0019388&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet bijzondere maatregelen grootstedelijke problematiek"
-signed_date: "2005-12-22"
-entry_into_force: "2005-12-30"
+categorie: "Overig"
+publicatiedatum: 2025-02-12
+laatste_update: 2025-02-12
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0019388"
 ---
-# Wet van 22 december 2005, houdende regels die een geconcentreerde aanpak van grootstedelijke problemen mogelijk maken (Wet bijzondere maatregelen grootstedelijke problematiek)
+
+# Wet bijzondere maatregelen grootstedelijke problematiek
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -46,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,11 +34,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 2. Onroerendezaakbelastingen
 
-##### Artikel 2
+#### Artikel 2
 
 Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2025-02-12&g=2025-02-12).
 
-##### Artikel 3
+#### Artikel 3
 
 1. Een gebied binnen een gemeente dat een bijzondere behoefte heeft aan omschakeling wegens lokale sociaal-economische problemen kan door de gemeenteraad als kansenzone worden aangewezen indien het voldoet aan de volgende eisen:
 
@@ -88,7 +60,7 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 4. Een kansenzone kan slechts een maal als zodanig worden aangewezen. Deze aanwijzing geldt voor de duur van ten hoogste vier jaar. Deze termijn kan vier maal met telkens ten hoogste vier jaar worden verlengd. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
 
-##### Artikel 4
+#### Artikel 4
 
 1. In de verordening op de heffing en invordering van de onroerendezaakbelastingen, bedoeld in [artikel 220 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220), kan worden bepaald dat de belastingaanslag ter zake van onroerende zaken, die niet in hoofdzaak tot woning dienen zoals bedoeld in [artikel 220a, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220a), waarvan de waarde zoals die op grond van de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119) is vastgesteld, niet hoger is dan € 500.000,– wordt verminderd.
 
@@ -102,7 +74,7 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 ### Hoofdstuk 3. Toegang tot de woningmarkt
 
-##### Artikel 5
+#### Artikel 5
 
 1. Onze Minister kan op aanvraag van de gemeenteraad complexen, straten of gebieden aanwijzen waarin aan woningzoekenden op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2025-02-12&g=2025-02-12) eisen kunnen worden gesteld.
 
@@ -118,7 +90,7 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 5. Van een aanvraag tot verlenging, als bedoeld in het vierde lid, maakt in ieder geval deel uit een evaluatie van de maatregel die op grond van de aanwijzing, bedoeld in het eerste, tweede of derde lid, in een complex, straat of gebied is toegepast. Het college van burgemeester en wethouders houdt voor dit doel de noodzakelijke gegevens bij. Bij algemene maatregel van bestuur kunnen hieromtrent nadere voorschriften worden gegeven.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Bij de aanvraag, bedoeld in [artikel 5, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), maakt de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde complexen, straten of gebieden:
 
@@ -134,7 +106,7 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 5. Onze Minister neemt binnen acht weken na ontvangst van de aanvraag tot aanwijzing van een complex, straat of gebied, bedoeld in [artikel 5, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), in indien hem is gebleken dat:
 
@@ -144,7 +116,7 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 2. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), voorts in indien de gemeenteraad daarom verzoekt.
 
-##### Artikel 8
+#### Artikel 8
 
 1. De gemeenteraad kan, indien dat naar zijn oordeel noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente en voldoet aan de eisen van subsidiariteit en proportionaliteit, in de huisvestingsverordening bepalen dat woningzoekenden die minder dan zes jaar voorafgaand aan de aanvraag van een huisvestingsvergunning onafgebroken ingezetene zijn van de regio waarin de gemeente is gelegen, slechts voor een huisvestingsvergunning voor het in gebruik nemen van in die verordening aangewezen categorieën van woonruimte in aanmerking komen indien zij beschikken over:
 
@@ -162,13 +134,13 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 2. De gemeenteraad bepaalt in de huisvestingsverordening dat burgemeester en wethouders aan een woningzoekende die niet voldoet aan de eisen, genoemd in het eerste lid, een huisvestingsvergunning voor het in gebruik nemen van woonruimte als bedoeld in dat lid kunnen verlenen, indien het weigeren van die huisvestingsvergunning tot een onbillijkheid van overwegende aard zou leiden.
 
-##### Artikel 9
+#### Artikel 9
 
 1. De gemeenteraad kan, indien dat naar zijn oordeel noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente en voldoet aan de eisen van subsidiariteit en proportionaliteit, in de huisvestingsverordening bepalen dat voor daarbij aan te wijzen categorieën van woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden die voldoen aan in die verordening vastgelegde sociaal-economische kenmerken.
 
 2. De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=12), of [artikel 14, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=14).
 
-##### Artikel 10
+#### Artikel 10
 
 1. De gemeenteraad kan in de huisvestingsverordening bepalen dat een huisvestingsvergunning voor in die verordening aangewezen categorieën van woonruimte in de op basis van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), aangewezen complexen, straten of gebieden, niet wordt verleend indien op basis van het in die aanwijzing genoemde instrument, bedoeld in artikel 5, derde lid, blijkt dat er een gegrond vermoeden is dat het huisvesten van de personen van 16 jaar en ouder die zich in een woonruimte in dat complex, die straat of dat gebied willen huisvesten, zal leiden tot een toename van overlast of criminaliteit in dat complex, die straat of dat gebied.
 
@@ -182,47 +154,47 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 ### Hoofdstuk 4. Wijziging van enkele wetten
 
-##### Artikel 11
+#### Artikel 11
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-##### Artikel 12
+#### Artikel 12
 
 Wijzigt de Onteigeningswet.
 
-##### Artikel 13
+#### Artikel 13
 
 Wijzigt de Woningwet.
 
-##### Artikel 14
+#### Artikel 14
 
 Wijzigt de Onteigeningswet.
 
-##### Artikel 15
+#### Artikel 15
 
 Wijzigt deze wet.
 
-##### Artikel 16
+#### Artikel 16
 
 Wijzigt deze wet.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 17
+#### Artikel 17
 
 Onze Minister zendt iedere vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-##### Artikel 18
+#### Artikel 18
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-##### Artikel 19
+#### Artikel 19
 
 Deze wet wordt aangehaald als: Wet bijzondere maatregelen grootstedelijke problematiek.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 10a
+#### Artikel 10a
 
 1. Indien op basis van de aanwijzing, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), in een aangewezen complex, straat of gebied een onderzoek op basis van politiegegevens wordt verlangd, bepaalt de gemeenteraad in de huisvestingsverordening op basis van de aard van de problematiek in een aangewezen complex, straat of gebied welke van de in het tweede lid genoemde politiegegevens betrokken mogen worden bij dat onderzoek.
 
@@ -254,7 +226,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - i. radicaliserende, extremistische of terroristische gedragingen die strafbaar zijn gesteld op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
-##### Artikel 10b
+#### Artikel 10b
 
 1. Indien bij de aanvraag van een huisvestingsvergunning, voor een in de huisvestingsverordening aangewezen woonruimte in een complex, straat of gebied, op grond van [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2025-02-12&g=2025-02-12), een onderzoek op basis van politiegegevens wordt verlangd, stelt het college van burgemeester en wethouders de burgemeester hiervan in kennis. De burgemeester verzoekt daarop de politiechef van de regionale eenheid waarin de gemeente gelegen is, zo spoedig mogelijk een overzicht van de politiegegevens te verstrekken die betrekking hebben op de op grond van [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=10a&z=2025-02-12&g=2025-02-12), in de huisvestingsverordening genoemde gedragingen van de woningzoekende, alsmede van de personen van 16 jaar en ouder die met hem de woonruimte willen betrekken.
 
@@ -292,7 +264,7 @@ De burgemeester geeft naar aanleiding van de beoordeling een woonverklaring af, 
 
 - c. de verwerking van de persoonsgegevens ten behoeve van het onderzoek bedoeld in onderdeel a, en de evaluatie, bedoeld in onderdeel b. Deze nadere regels hebben in ieder geval betrekking op de vastlegging, de beveiliging, de bewaartermijn en de vernietiging van de persoonsgegevens.
 
-##### Artikel 10c
+#### Artikel 10c
 
 Bij algemene maatregel van bestuur kan worden bepaald dat het college van burgemeester en wethouders beslist op een aanvraag voor een vergunning als bedoeld in dit hoofdstuk binnen een bij die algemene maatregel van bestuur te stellen termijn.
 
