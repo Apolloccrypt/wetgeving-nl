@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 2 oktober 2025, nr. MBO/53160358, houdende voorschriften inzake het terugdringen van het aantal voortijdig schoolverlaters in de jaren 2026 tot en met 2029 en de verbetering van de stap van school naar werk (Regeling regionaal programma en Doorstroompuntfunctie 2026–2029)"
+title: "Regeling regionaal programma en Doorstroompuntfunctie 2026–2029"
 identifier: "BWBR0051614"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051614"
-soort: "ministeriele-regeling"
-stam_id: "17552273"
-version_id: "30971762"
-internal_id: "C44605541"
-label_id: "17453824"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051614/2026-01-01/0"
-intitule_bron: "Stcrt.2025-34596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-02"
-intitule_published: "2025-10-14"
-intitule_in_force: "2025-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-34596"
-original_signed_date: "2025-10-02"
-original_published_date: "2025-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-34596"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051614&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051614&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling regionaal programma en Doorstroompuntfunctie 2026–2029"
-signed_date: "2025-10-02"
-entry_into_force: "2026-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051614"
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 2 oktober 2025, nr. MBO/53160358, houdende voorschriften inzake het terugdringen van het aantal voortijdig schoolverlaters in de jaren 2026 tot en met 2029 en de verbetering van de stap van school naar werk (Regeling regionaal programma en Doorstroompuntfunctie 2026–2029)
 
 Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -46,7 +20,7 @@ Treedt in werking op het moment waarop artikel I, onderdeel II, van de Wet van s
 
 #### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 1.1. Begripsbepalingen
+#### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -92,19 +66,19 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+#### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 #### Paragraaf 2. Het regionaal programma 2026–2029
 
-##### Artikel 2.1. Regionaal programma 2026–2029
+#### Artikel 2.1. Regionaal programma 2026–2029
 
 1. De periode, bedoeld in [artikel 9.2.8, eerste lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.8), waarvoor het college van burgemeester en wethouders van de contactgemeente een regionaal programma opstelt, loopt van 1 januari 2026 tot en met 31 december 2029.
 
 2. De contactgemeente, centrumgemeente en contactschool dragen gezamenlijk zorg voor de totstandkoming en uitvoering van het regionaal programma.
 
-##### Artikel 2.2. Inhoud regionaal programma
+#### Artikel 2.2. Inhoud regionaal programma
 
 Het regionaal programma bevat in ieder geval:
 
@@ -118,7 +92,7 @@ Het regionaal programma bevat in ieder geval:
 
 - e. een begroting.
 
-##### Artikel 2.3. Streefcijfers
+#### Artikel 2.3. Streefcijfers
 
 De streefcijfers omvatten in ieder geval:
 
@@ -128,7 +102,7 @@ De streefcijfers omvatten in ieder geval:
 
 - c. streefcijfers voor de kalenderjaren 2026 tot en met 2029 gericht op beperking van het aantal jongeren dat geen onderwijs volgt en niet werkt, bepaald aan de hand van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&bijlage=1&z=2026-01-01&g=2026-01-01), onder B.
 
-##### Artikel 2.4. Afspraken
+#### Artikel 2.4. Afspraken
 
 1. Het regionaal programma bevat in ieder geval afspraken over de volgende onderwerpen:
 
@@ -156,7 +130,7 @@ De streefcijfers omvatten in ieder geval:
 
 2. De inhoud van de afspraken kan tijdens de looptijd van het regionaal programma bijgesteld of verder uitgewerkt worden.
 
-##### Artikel 2.5. Maatregelen
+#### Artikel 2.5. Maatregelen
 
 1. Er is sprake van een maatregel indien hier budget als bedoeld in [artikel 2.6, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01), aan wordt uitgegeven.
 
@@ -188,7 +162,7 @@ De streefcijfers omvatten in ieder geval:
 
 3. In aanvulling op [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=2&artikel=2.2&z=2026-01-01&g=2026-01-01) omvat het regionaal programma van Doorstroompuntregio Friesland Noord in ieder geval een of meer maatregelen met betrekking tot de voorzieningen zoals aangeboden door Fier Fryslân.
 
-##### Artikel 2.6. Begroting
+#### Artikel 2.6. Begroting
 
 1. Het totale budget voor het regionaal programma bestaat uit:
 
@@ -204,13 +178,13 @@ De streefcijfers omvatten in ieder geval:
 
 #### Paragraaf 3. Subsidie aan contactschool voor regionaal programma
 
-##### Artikel 3.1. Doel subsidie
+#### Artikel 3.1. Doel subsidie
 
 1. De minister kan op een aanvraag van het bevoegd gezag van een contactschool subsidie verstrekken voor het regionaal programma.
 
 2. In afwijking van [artikel 3.2, tweede lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2) is de subsidie bedoeld voor de gehele periode van 1 januari 2026 tot en met 31 december 2029.
 
-##### Artikel 3.2. Regionale samenwerking en contactschool
+#### Artikel 3.2. Regionale samenwerking en contactschool
 
 1. De onderwijsinstellingen binnen een Doorstroompuntregio wijzen uit hun midden een onderwijsinstelling aan die optreedt als contactschool in de betreffende Doorstroompuntregio.
 
@@ -234,15 +208,15 @@ De streefcijfers omvatten in ieder geval:
 
 5. Op de contactschool rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke onderwijsinstelling of andere organisatie feitelijk is belast met de uitvoering van de maatregelen.
 
-##### Artikel 3.3. Subsidieplafond
+#### Artikel 3.3. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze paragraaf is ten hoogste € 175.052.000 beschikbaar.
 
-##### Artikel 3.4. Hoogte subsidiebedrag per contactschool
+#### Artikel 3.4. Hoogte subsidiebedrag per contactschool
 
 Het budget, genoemd in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=3&artikel=3.3&z=2026-01-01&g=2026-01-01), wordt conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&bijlage=2&z=2026-01-01&g=2026-01-01) over de contactscholen verdeeld.
 
-##### Artikel 3.5. Subsidieaanvraag
+#### Artikel 3.5. Subsidieaanvraag
 
 1. De contactschool dient de aanvraag voor subsidie op grond van deze paragraaf via de beveiligde omgeving van duo.nl/zakelijk in bij de minister.
 
@@ -256,11 +230,11 @@ Het budget, genoemd in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR005
 
 4. Het aanvraagtijdvak, bedoeld in het derde lid, onderdeel b, kan alleen worden benut door contactscholen waarvan de eerdere subsidieaanvraag is afgewezen.
 
-##### Artikel 3.6. Beoordeling subsidieaanvraag
+#### Artikel 3.6. Beoordeling subsidieaanvraag
 
 Onverminderd [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=3&artikel=3.5&z=2026-01-01&g=2026-01-01) en [artikel 4:35 van de Algemene wet bestuursrech](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35)t verstrekt de minister de subsidie indien het regionaal programma voldoet aan de eisen, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=2&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 3.7. Verlening en voorschot
+#### Artikel 3.7. Verlening en voorschot
 
 1. De minister beslist uiterlijk over de verlening van de subsidie op:
 
@@ -278,15 +252,15 @@ Onverminderd [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&parag
 
 - d. februari 2029.
 
-##### Artikel 3.8. Meldingsplicht
+#### Artikel 3.8. Meldingsplicht
 
 De meldingsplicht, bedoeld in [artikel 5.7 van de Kaderregeling subsidies OCW, VWS en SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7) is in ieder geval van toepassing in het geval van een voorgenomen substantiële wijziging van het regionaal programma.
 
-##### Artikel 3.9. Meewerken aan evaluatie
+#### Artikel 3.9. Meewerken aan evaluatie
 
 De contactschool werkt mee aan de evaluatie, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=6&artikel=6.1&z=2026-01-01&g=2026-01-01), en levert hiertoe zo nodig ook gegevens van en over de overige onderwijsinstellingen in de Doorstroompuntregio aan.
 
-##### Artikel 3.10. Besteding, verantwoording en vaststelling
+#### Artikel 3.10. Besteding, verantwoording en vaststelling
 
 1. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verstrekt en kan worden besteed tot en met 31 december 2029. Niet bestede middelen worden teruggevorderd.
 
@@ -296,11 +270,11 @@ De contactschool werkt mee aan de evaluatie, bedoeld in [artikel 6.1](https://we
 
 #### Paragraaf 4. Specifieke uitkering voor contactgemeenten voor regionaal programma en Doorstroompunt
 
-##### Artikel 4.1. Reikwijdte paragraaf
+#### Artikel 4.1. Reikwijdte paragraaf
 
 Met uitzondering van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=4&artikel=4.8&z=2026-01-01&g=2026-01-01) is deze paragraaf van toepassing op de verstrekking van de jaarlijkse specifieke uitkering aan de contactgemeenten, bedoeld in [artikel 9.2.9 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.9), voor de kalenderjaren 2026 tot en met 2029.
 
-##### Artikel 4.2. Plafond specifieke uitkering
+#### Artikel 4.2. Plafond specifieke uitkering
 
 1. Voor het verstrekken van de specifieke uitkering is jaarlijks in totaal een budget van ten hoogste € 117.813.000 beschikbaar, waarvan:
 
@@ -310,7 +284,7 @@ Met uitzondering van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR00516
 
 2. De minister kan het deel van het budget dat is bestemd voor de Doorstroompuntfunctie, genoemd in het eerste lid, onderdeel b, jaarlijks aanpassen in verband met loon- en prijsbijstelling.
 
-##### Artikel 4.3. Verdeling budget over contactgemeenten
+#### Artikel 4.3. Verdeling budget over contactgemeenten
 
 1. Het totale budget, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=4&artikel=4.2&z=2026-01-01&g=2026-01-01), wordt over de contactgemeenten verdeeld conform de berekening, bedoeld in het tweede en derde lid.
 
@@ -328,27 +302,27 @@ De berekening wordt gedurende de looptijd van de regeling niet geactualiseerd.
 
 4. De uitkomst van de berekening, bedoeld in het tweede en derde lid, voor kalenderjaar 2026 is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&bijlage=4&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 4.4. Betaling voorschot
+#### Artikel 4.4. Betaling voorschot
 
 1. De betaling van de specifieke uitkeringen voor de kalenderjaren 2026 tot en met 2029 vindt steeds plaats uiterlijk in februari van het kalenderjaar waarvoor de specifieke uitkering is verstrekt.
 
 2. Indien in enig jaar een loon- en prijsbijstelling als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=4&artikel=4.2&z=2026-01-01&g=2026-01-01), wordt toegepast, wordt het hiermee samenhangende bedrag uitbetaald in uiterlijk september van het kalenderjaar waarvoor de specifieke uitkering is verstrekt.
 
-##### Artikel 4.5. Meldingsplicht
+#### Artikel 4.5. Meldingsplicht
 
 De contactgemeente doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of vaststelling van een specifieke uitkering en overlegt daarbij de relevante stukken. Hiervan is in ieder geval sprake bij een voorgenomen substantiële wijziging van het regionaal programma.
 
-##### Artikel 4.6. Meewerken aan evaluatie
+#### Artikel 4.6. Meewerken aan evaluatie
 
 De contactgemeente werkt mee aan de evaluatie, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&paragraaf=6&artikel=6.1&z=2026-01-01&g=2026-01-01), en levert hiertoe zo nodig ook gegevens van en over de overige gemeenten in de Doorstroompuntregio aan.
 
-##### Artikel 4.7. Bestedingstermijn, verantwoording
+#### Artikel 4.7. Bestedingstermijn, verantwoording
 
 1. Indien de specifieke uitkering niet of niet geheel is besteed in het kalenderjaar waarvoor de specifieke uitkering is verstrekt, mag het resterende bedrag uiterlijk in kalenderjaar 2029 worden besteed aan het doel waarvoor deze specifieke uitkering is bestemd.
 
 2. De minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), alsdan niet zijn besteed aan het doel waarvoor zij waren bestemd, terug.
 
-##### Artikel 4.8. Bestedingstermijn en terugvordering oude reserves
+#### Artikel 4.8. Bestedingstermijn en terugvordering oude reserves
 
 1. Indien de specifieke uitkeringen, bedoeld in [artikel 8.3.2, vijfde lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2) zoals dat luidde op 31 december 2025 niet of niet geheel zijn besteed in het kalenderjaar waarvoor ze zijn verstrekt, mag het resterende bedrag:
 
@@ -362,7 +336,7 @@ De contactgemeente werkt mee aan de evaluatie, bedoeld in [artikel 6.1](https://
 
 #### Paragraaf 5. Uitvoeringsvoorschriften
 
-##### Artikel 5.1. Voorschriften effectrapportage
+#### Artikel 5.1. Voorschriften effectrapportage
 
 1. De effectrapportage gaat in op in ieder geval de volgende onderwerpen:
 
@@ -380,7 +354,7 @@ De contactgemeente werkt mee aan de evaluatie, bedoeld in [artikel 6.1](https://
 
 5. Ten behoeve van het onderdeel van de effectrapportage, genoemd in het eerste lid, onderdeel a, verstrekt de minister het gerealiseerde aantal nieuwe voortijdig schoolverlaters per Doorstroompuntregio telkens uiterlijk in maart na afloop van het betreffende studiejaar aan de gemeenten en onderwijsinstellingen binnen de Doorstroompuntregio.
 
-##### Artikel 5.2. Vaststelling Doorstroompuntregio’s
+#### Artikel 5.2. Vaststelling Doorstroompuntregio’s
 
 1. De Doorstroompuntregio’s zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051614&bijlage=5&z=2026-01-01&g=2026-01-01).
 
@@ -390,17 +364,17 @@ De contactgemeente werkt mee aan de evaluatie, bedoeld in [artikel 6.1](https://
 
 #### Paragraaf 6. Slotbepalingen
 
-##### Artikel 6.1. Evaluatie
+#### Artikel 6.1. Evaluatie
 
 De minister evalueert de regeling uiterlijk in 2028.
 
-##### Artikel 6.2. Inwerkingtreding
+#### Artikel 6.2. Inwerkingtreding
 
 1. Deze regeling treedt in werking op het moment waarop artikel I, onderdeel II, van de Wet van school naar duurzaam werk in werking treedt.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030, met dien verstande dat zij van toepassing blijft op de subsidies en specifieke uitkeringen die voor die datum zijn verstrekt.
 
-##### Artikel 6.3. Citeertitel
+#### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling regionaal programma en Doorstroompuntfunctie 2026–2029.
 
