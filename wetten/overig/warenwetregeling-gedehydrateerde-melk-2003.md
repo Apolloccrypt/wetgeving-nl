@@ -1,36 +1,13 @@
 ---
 title: "Warenwetregeling gedehydrateerde melk 2003"
 identifier: "BWBR0014856"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-13"
-last_updated: "2014-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014856"
-soort: "ministeriele-regeling"
-stam_id: "5714313"
-version_id: "10214982"
-internal_id: "C13794511"
-label_id: "5694704"
-original_entry_into_force: "2003-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014856/2014-12-13/0"
-intitule_bron: "Stcrt.2003-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-03-20"
-intitule_published: "2003-03-26"
-intitule_in_force: "2003-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-60"
-original_signed_date: "2003-03-20"
-original_published_date: "2003-03-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-07-17"
-jci_1_3: "jci1.3:c:BWBR0014856&z=2014-12-13&g=2014-12-13"
-jci_1_0: "1.0:c:BWBR0014856&g=2014-12-13"
-citeertitel_status: "officieel"
-signed_date: "2003-03-20"
-entry_into_force: "2003-07-17"
+categorie: "Overig"
+publicatiedatum: 2014-12-13
+laatste_update: 2014-12-13
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0014856"
 ---
+
 # Warenwetregeling gedehydrateerde melk 2003
 
 Gelet op [richtlijn nr. 2001/114/EG](32001L0114) van de Raad van de Europese Unie van 20 december 2001 inzake bepaalde voor menselijke voeding bestemde, geheel of gedeeltelijk gedehydrateerde verduurzaamde melk (PbEG 2002, L 15), alsmede op [artikel 4, tweede lid, onder a, van het Warenwetbesluit Zuivel](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&artikel=4);
@@ -39,7 +16,7 @@ Besluit:
 
 #### § 1. algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -81,11 +58,11 @@ Besluit:
 
 #### § 2. bereiding
 
-##### Artikel 2
+#### Artikel 2
 
 Bij de bereiding van een in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2014-12-13&g=2014-12-13), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=13&z=2014-12-13&g=2014-12-13) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2014-12-13&g=2014-12-13) bedoelde waar mag gebruik worden gemaakt van een extra hoeveelheid lactose van ten hoogste 0,03 gewichtsprocent, berekend in het eindproduct.
 
-##### Artikel 3
+#### Artikel 3
 
 Onverminderd de bij of krachtens verordening (EG) 853/2004 gestelde voorschriften wordt de verduurzaming van in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2014-12-13&g=2014-12-13) bedoelde waren bereikt door:
 
@@ -97,7 +74,7 @@ Onverminderd de bij of krachtens verordening (EG) 853/2004 gestelde voorschrifte
 
 #### § 3. aanduiding
 
-##### Artikel 4
+#### Artikel 4
 
 De aanduiding:
 
@@ -109,21 +86,21 @@ De aanduiding:
 
 mag uitsluitend en wordt gebezigd voor geheel gedehydrateerde melk met een vetgehalte van ten minste 42 gewichtsprocent.
 
-##### Artikel 5
+#### Artikel 5
 
 De aanduiding volle melkpoeder mag uitsluitend en wordt gebezigd voor geheel gedehydrateerde melk met een vetgehalte van ten minste 26 en minder dan 42 gewichtsprocent.
 
-##### Artikel 6
+#### Artikel 6
 
 1. De aanduiding melkpoeder van gedeeltelijk afgeroomde melk of gedeeltelijk afgeroomde melkpoeder mag uitsluitend en wordt gebezigd voor geheel gedehydrateerde melk met een vetgehalte van meer dan 1,5 gewichtsprocent en minder dan 26 gewichtsprocent.
 
 2. In afwijking van het eerste lid mag in plaats van de daar bedoelde aanduiding de aanduiding halfvolle melkpoeder worden gebezigd voor geheel gedehydrateerde melk met een vetgehalte tussen 14 en 16 gewichtsprocent.
 
-##### Artikel 7
+#### Artikel 7
 
 De aanduiding magere melkpoeder mag uitsluitend en wordt gebezigd voor geheel gedehydrateerde melk met een vetgehalte van ten hoogste 1,5 gewichtsprocent.
 
-##### Artikel 8
+#### Artikel 8
 
 De aanduiding geëvaporeerde melk met hoog vetgehalte mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -131,7 +108,7 @@ De aanduiding geëvaporeerde melk met hoog vetgehalte mag uitsluitend en wordt g
 
 - b. een totaalgehalte aan van melk afkomstige droge stof van ten minste 26,5 gewichtsprocent.
 
-##### Artikel 9
+#### Artikel 9
 
 De aanduiding geëvaporeerde volle melk of koffiemelk mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -139,7 +116,7 @@ De aanduiding geëvaporeerde volle melk of koffiemelk mag uitsluitend en wordt g
 
 - b. een totaal gehalte aan van melk afkomstige droge stof van ten minste 25 gewichtsprocent.
 
-##### Artikel 10
+#### Artikel 10
 
 1. De aanduiding geëvaporeerde gedeeltelijk afgeroomde melk mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -153,7 +130,7 @@ De aanduiding geëvaporeerde volle melk of koffiemelk mag uitsluitend en wordt g
 
 - b. een totaalgehalte aan van melk afkomstige droge stof van ten minste 24 gewichtprocent.
 
-##### Artikel 11
+#### Artikel 11
 
 De aanduiding geëvaporeerde magere melk mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -161,7 +138,7 @@ De aanduiding geëvaporeerde magere melk mag uitsluitend en wordt gebezigd voor 
 
 - b. een totaal gehalte aan van melk afkomstige droge stof van ten minste 20 gewichtsprocent.
 
-##### Artikel 12
+#### Artikel 12
 
 De aanduiding gecondenseerde volle melk met suiker mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -171,7 +148,7 @@ De aanduiding gecondenseerde volle melk met suiker mag uitsluitend en wordt gebe
 
 - c. een totaalgehalte aan van melk afkomstige droge stof van ten minste 28 gewichtsprocent.
 
-##### Artikel 13
+#### Artikel 13
 
 1. De aanduiding gecondenseerde gedeeltelijk afgeroomde melk met suiker mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -189,7 +166,7 @@ De aanduiding gecondenseerde volle melk met suiker mag uitsluitend en wordt gebe
 
 - c. een totaalgehalte aan van melk afkomstige droge stof van ten minste 28 gewichtsprocent.
 
-##### Artikel 14
+#### Artikel 14
 
 De aanduiding gecondenseerde magere melk met suiker mag uitsluitend en wordt gebezigd voor gedeeltelijk gedehydrateerde melk met:
 
@@ -201,7 +178,7 @@ De aanduiding gecondenseerde magere melk met suiker mag uitsluitend en wordt geb
 
 #### § 4. vermeldingen
 
-##### Artikel 15
+#### Artikel 15
 
 1. Bij een waar, bedoeld in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2014-12-13&g=2014-12-13), wordt in de nabijheid van de aanduiding een vermelding gebezigd inzake:
 
@@ -213,7 +190,7 @@ De aanduiding gecondenseerde magere melk met suiker mag uitsluitend en wordt geb
 
 3. Het eerste lid, onder b, is niet van toepassing op de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2014-12-13&g=2014-12-13) bedoelde waren.
 
-##### Artikel 16
+#### Artikel 16
 
 Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2014-12-13&g=2014-12-13), worden gebezigd:
 
@@ -221,13 +198,13 @@ Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overhei
 
 - b. de vermelding "niet bestemd voor zuigelingen van minder dan twaalf maanden".
 
-##### Artikel 17
+#### Artikel 17
 
 In afwijking van verordening (EU) 1169/2011 is het toegestaan de in deze paragraaf bedoelde vermeldingen slechts te bezigen op de verzamelverpakking, voor zover de desbetreffende daarin verpakte waar aanwezig is in eenheden van minder dan 20 gram.
 
 #### § 5. slotbepalingen
 
-##### Artikel 18
+#### Artikel 18
 
 1. Deze regeling treedt in werking met ingang van 17 juli 2003.
 
@@ -237,11 +214,11 @@ In afwijking van verordening (EU) 1169/2011 is het toegestaan de in deze paragra
 
 - b. vóór 17 juli 2004 zijn geëtiketteerd; nog verhandeld worden zolang de voorraad strekt.
 
-##### Artikel 19
+#### Artikel 19
 
 Deze regeling wordt aangehaald als: Warenwetregeling gedehydrateerde melk 2003.
 
-##### Artikel 3a
+#### Artikel 3a
 
 Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=2&z=2014-12-13&g=2014-12-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13) mag het eiwitgehalte van melk worden gewijzigd tot een minimumgehalte van 34 gewichtsprocenten (uitgedrukt in vetvrije droge stof) door toevoeging of verwijdering van uitsluitend:
 
