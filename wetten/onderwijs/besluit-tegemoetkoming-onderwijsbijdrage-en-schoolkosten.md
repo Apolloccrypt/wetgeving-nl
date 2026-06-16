@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 5 juli 2001, houdende regels over de tegemoetkoming in onderwijsbijdrage en schoolkosten (Besluit tegemoetkoming onderwijsbijdrage en schoolkosten)"
+title: "Besluit tegemoetkoming onderwijsbijdrage en schoolkosten"
 identifier: "BWBR0012645"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-06-27"
-last_updated: "2024-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0012645"
-soort: "AMvB"
-stam_id: "1585233"
-version_id: "2347772"
-internal_id: "C2347771"
-label_id: "1540074"
-dtd_version: "2.0"
-original_entry_into_force: "2002-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0012645/2024-06-27/0"
-intitule_bron: "Stb.2001-341"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-05"
-intitule_published: "2001-07-19"
-intitule_in_force: "2001-07-19"
-intitule_status: "goed"
-original_publication: "Stb.2002-132"
-original_signed_date: "2002-02-20"
-original_published_date: "2002-03-14"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2002-132"
-entry_into_force_date: "2002-03-15"
-jci_1_3: "jci1.3:c:BWBR0012645&z=2024-06-27&g=2024-06-27"
-jci_1_0: "1.0:c:BWBR0012645&g=2024-06-27"
-citeertitel_status: "officieel"
-short_title: "Besluit tegemoetkoming onderwijsbijdrage en schoolkosten"
-signed_date: "2002-02-20"
-entry_into_force: "2002-03-15"
+categorie: "Onderwijs"
+publicatiedatum: 2024-06-27
+laatste_update: 2024-06-27
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0012645"
 ---
+
 # Besluit van 5 juli 2001, houdende regels over de tegemoetkoming in onderwijsbijdrage en schoolkosten (Besluit tegemoetkoming onderwijsbijdrage en schoolkosten)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 2 mei 2001, nr. WJZ/2001/15 896 (1713), directie Wetgeving en Juridische Zaken;
@@ -48,15 +22,15 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-##### Artikel 1. Begripsbepaling
+#### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder wet: [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
 
-##### Artikel 2. Nationaliteit voor [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3)
+#### Artikel 2. Nationaliteit voor [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3)
 
 Vervallen
 
-##### Artikel 3. Nationaliteit voor [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) en [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5)
+#### Artikel 3. Nationaliteit voor [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) en [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5)
 
 1. De vreemdeling die een tegemoetkoming op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) aanvraagt, wordt met een Nederlander gelijkgesteld indien die vreemdeling rechtmatig in Nederland verblijf heeft:
 
@@ -88,11 +62,11 @@ Vervallen
 
 - b. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en ten behoeve van wie of aan wie een tegemoetkoming is verstrekt op grond van [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of aan wie studiefinanciering is verstrekt ingevolge de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-##### Artikel 4. Verstrekken van inlichtingen
+#### Artikel 4. Verstrekken van inlichtingen
 
 [Artikel 16 van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=16) is van overeenkomstige toepassing op de verplichting, bedoeld in [artikel 9.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=9.5).
 
-##### Artikel 5. Aanpassing van bedragen
+#### Artikel 5. Aanpassing van bedragen
 
 1. Onze Minister past de bedragen, genoemd in de [artikelen 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.23), en [10.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.5), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
@@ -102,45 +76,45 @@ Vervallen
 
 ### Hoofdstuk 2. Overgangsrecht
 
-##### Artikel 6. Overgangsbepaling nationaliteitseis
+#### Artikel 6. Overgangsbepaling nationaliteitseis
 
 Degenen die op 31 juli 2001 op grond van het [Besluit tegemoetkoming studiekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0008149) rechtmatig tegemoetkoming ontvingen, voldoen aan de nationaliteitseis, bedoeld in [artikel 2.2, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2).
 
 ### Hoofdstuk 3. Wijzigingen in andere besluiten
 
-##### Artikel 7. Besluit geneeskundige verzorging politie 1994
+#### Artikel 7. Besluit geneeskundige verzorging politie 1994
 
 Wijzigt het Besluit geneeskundige verzorging politie 1994.
 
-##### Artikel 8. Besluit studiefinanciering 2000
+#### Artikel 8. Besluit studiefinanciering 2000
 
 Wijzigt het Besluit studiefinanciering 2000.
 
-##### Artikel 9. Bijdragebesluit Zorg
+#### Artikel 9. Bijdragebesluit Zorg
 
 Wijzigt het Bijdragebesluit Zorg.
 
-##### Artikel 10. Uitvoeringsbesluit Les- en cursusgeldwet 2000
+#### Artikel 10. Uitvoeringsbesluit Les- en cursusgeldwet 2000
 
 Wijzigt het Uitvoeringsbesluit Les- en cursusgeldwet 2000.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-##### Artikel 11. Uitvoeringsbesluit WEB
+#### Artikel 11. Uitvoeringsbesluit WEB
 
 Wijzigt het Uitvoeringsbesluit WEB.
 
-##### Artikel 12. Inwerkingtreding
+#### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 augustus 2001.
 
-##### Artikel 13. Citeertitel
+#### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 3a. Tegemoetkoming [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) voor personen bedoeld in [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) en hun familieleden
+#### Artikel 3a. Tegemoetkoming [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) voor personen bedoeld in [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) en hun familieleden
 
 1. [Artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) is van toepassing op een persoon die:
 
@@ -180,7 +154,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2024-06-27&g=2024-06-27)
+#### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2024-06-27&g=2024-06-27)
 
 Vervallen
 
