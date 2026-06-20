@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 19 januari 2026, nr. IENW/BSK- 2025/332894 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van K-Othrine SC7.5 tegen knutten (Vrijstelling K-Othrine ter bestrijding van knutten 2026)"
+title: "Vrijstelling K-Othrine ter bestrijding van knutten 2026"
 identifier: "BWBR0052313"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-20"
-last_updated: "2026-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052313"
-soort: "ministeriele-regeling"
-stam_id: "17762503"
-version_id: "31386562"
-internal_id: "C44852281"
-label_id: "17660454"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052313/2026-02-20/0"
-intitule_bron: "Stcrt.2026-7014"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-01-19"
-intitule_published: "2026-02-19"
-intitule_in_force: "2026-02-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7014"
-original_signed_date: "2026-01-19"
-original_published_date: "2026-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7014"
-entry_into_force_date: "2026-02-20"
-jci_1_3: "jci1.3:c:BWBR0052313&z=2026-02-20&g=2026-02-20"
-jci_1_0: "1.0:c:BWBR0052313&g=2026-02-20"
-citeertitel_status: "officieel"
-short_title: "Vrijstelling K-Othrine ter bestrijding van knutten 2026"
-signed_date: "2026-01-19"
-entry_into_force: "2026-02-20"
+categorie: "Overig"
+publicatiedatum: 2026-02-20
+laatste_update: 2026-02-20
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0052313"
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 19 januari 2026, nr. IENW/BSK- 2025/332894 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van K-Othrine SC7.5 tegen knutten (Vrijstelling K-Othrine ter bestrijding van knutten 2026)
 
 Gelezen het verzoek van Envu van 17 november 2025 tot verlenging van de vrijstelling van het verbod op het gebruik van de biocide K-Othrine SC7.5 (suspensie concentraat) op transportwagens voor bepaalde landbouwhuisdieren (herkauwers), ten behoeve van het voorkomen van blauwtong of het bestrijden van het blauwtongvirus;
@@ -42,7 +16,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-##### Artikel 1
+#### Artikel 1
 
 Ten behoeve van het voorkomen van blauwtong of het bestrijden van het blauwtongvirus in stallen en andere huisvesting waar herkauwers in quarantaine worden gehouden, en op de binnen- of buitenzijde van veevervoermiddelen waarmee deze herkauwers worden vervoerd, wordt:
 
@@ -50,15 +24,15 @@ Ten behoeve van het voorkomen van blauwtong of het bestrijden van het blauwtongv
 
 - b). op grond van artikel 55 van [Verordening (EU) nr. 528/2012](32012R0528) toegestaan dat de in onderdeel a genoemde biocide op de Nederlandse markt wordt aangeboden en gebruikt.
 
-##### Artikel 2
+#### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0052313&artikel=1&z=2026-02-20&g=2026-02-20), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-##### Artikel 3
+#### Artikel 3
 
 Dit besluit wordt aangehaald als: Vrijstelling K-Othrine ter bestrijding van knutten 2026.
 
-##### Artikel 4
+#### Artikel 4
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt bekendgemaakt, werkt terug tot en met 22 december 2025 en vervalt met ingang van 20 juni 2026.
 

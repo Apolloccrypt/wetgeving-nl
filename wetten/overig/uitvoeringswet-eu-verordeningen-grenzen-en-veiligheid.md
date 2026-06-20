@@ -1,41 +1,14 @@
 ---
-title: "Wet van 29 maart 2023, houdende regels ter uitvoering van EU-verordeningen op het terrein van grenzen en veiligheid (Uitvoeringswet EU-verordeningen grenzen en veiligheid)"
+title: "Uitvoeringswet EU-verordeningen grenzen en veiligheid"
 identifier: "BWBR0048050"
-country: "nl"
-rank: "wet"
-publication_date: "2025-11-01"
-last_updated: "2025-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048050"
-soort: "wet"
-stam_id: "16721333"
-version_id: "29332562"
-internal_id: "C42661661"
-label_id: "16637944"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048050/2025-11-01/0"
-intitule_bron: "Stb.2023-115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-29"
-intitule_published: "2023-04-12"
-intitule_in_force: "2023-11-28"
-intitule_status: "goed"
-original_publication: "Stb.2023-115"
-original_signed_date: "2023-03-29"
-original_published_date: "2023-04-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "36158"
-original_url_id: "stb-2023-115"
-entry_into_force_date: "2023-11-29"
-jci_1_3: "jci1.3:c:BWBR0048050&z=2025-11-01&g=2025-11-01"
-jci_1_0: "1.0:c:BWBR0048050&g=2025-11-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet EU-verordeningen grenzen en veiligheid"
-signed_date: "2023-03-29"
-entry_into_force: "2023-11-29"
+categorie: "Overig"
+publicatiedatum: 2025-11-01
+laatste_update: 2025-11-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048050"
 ---
-# Wet van 29 maart 2023, houdende regels ter uitvoering van EU-verordeningen op het terrein van grenzen en veiligheid (Uitvoeringswet EU-verordeningen grenzen en veiligheid)
+
+# Uitvoeringswet EU-verordeningen grenzen en veiligheid
 
 Allen, die deze zullen zien of horen, saluut! doen te weten:
 
@@ -45,7 +18,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 1. Inleidende bepalingen
 
-##### Artikel 1. Definities
+#### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -73,7 +46,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Uitvoerende instanties
 
-##### Artikel 2. Bevoegde autoriteiten
+#### Artikel 2. Bevoegde autoriteiten
 
 1. Bij algemene maatregel van bestuur kunnen autoriteiten of instanties worden aangewezen die in verband met de taken die zij uitvoeren worden aangemerkt als de autoriteiten of instanties, bedoeld in de volgende verordeningen:
 
@@ -95,7 +68,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Dit lid is nog niet in werking getreden.
 
-##### Artikel 3. Aangewezen autoriteiten
+#### Artikel 3. Aangewezen autoriteiten
 
 De ambtenaren bedoeld in de [onderdelen b, c en d van artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), zijn bevoegd als aangewezen autoriteiten tot het raadplegen van gegevens om terroristische misdrijven en andere ernstige strafbare feiten te voorkomen, op te sporen en te onderzoeken, bedoeld in:
 
@@ -107,7 +80,7 @@ De ambtenaren bedoeld in de [onderdelen b, c en d van artikel 141 van het Wetboe
 
 - d. artikel 50, eerste lid, van de Etias-verordening.
 
-##### Artikel 4. Centraal toegangspunt
+#### Artikel 4. Centraal toegangspunt
 
 1. De officier van justitie oefent de taken en bevoegdheden uit van het centraal toegangspunt, bedoeld in:
 
@@ -123,7 +96,7 @@ De ambtenaren bedoeld in de [onderdelen b, c en d van artikel 141 van het Wetboe
 
 #### Paragraaf 3. Overige bepalingen ter uitvoering van de verordeningen
 
-##### Artikel 5. Verwerkingsverantwoordelijkheid
+#### Artikel 5. Verwerkingsverantwoordelijkheid
 
 Bij algemene maatregel van bestuur wordt de verwerkingsverantwoordelijke aangewezen:
 
@@ -131,17 +104,17 @@ Bij algemene maatregel van bestuur wordt de verwerkingsverantwoordelijke aangewe
 
 - b. Dit onderdeel is nog niet in werking getreden.
 
-##### Artikel 6. Bewaartermijn SIS
+#### Artikel 6. Bewaartermijn SIS
 
 In afwijking van de bewaartermijn, genoemd in artikel 42, eerste lid, van de SIS-verordening grenscontroles, artikel 19 van de SIS-verordening terugkeer juncto artikel 42, eerste lid van de SIS-verordening grenscontroles en artikel 57, eerste lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken, is het bij de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde over de bewaartermijn van politiegegevens of het bij de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) bepaalde over de bewaartermijn van justitiële gegevens van overeenkomstige toepassing op het bewaren van persoonsgegevens uit het Schengeninformatiesysteem in een nationaal informatiesysteem indien die politiegegevens respectievelijk strafvorderlijke gegevens worden verwerkt ten behoeve van de uitvoering van een bij een signalering uit het Schengeninformatiesysteem gevraagde actie.
 
-##### Artikel 7. Geheimhouding SIS
+#### Artikel 7. Geheimhouding SIS
 
 1. Een ieder die krachtens de SIS-verordening grenscontroles, de SIS-verordening terugkeer, of de SIS-verordening politiële en justitiële samenwerking in strafzaken de beschikking krijgt over persoonsgegevens is verplicht tot geheimhouding daarvan, behoudens voor zover het bekend maken of ter beschikking stellen daarvan krachtens die verordeningen is toegestaan.
 
 2. [Artikel 272, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272) is niet van toepassing.
 
-##### Artikel 8. Doorzoeking gemeenschappelijk identiteitsregister ter identificatie
+#### Artikel 8. Doorzoeking gemeenschappelijk identiteitsregister ter identificatie
 
 1. Doorzoeking van het gemeenschappelijk identiteitsregister ter identificatie, als bedoeld in artikel 20, tweede lid, van de Verordening interoperabiliteit grenzen en visa en artikel 20, tweede lid, van de Verordening interoperabiliteit politiële en justitiële samenwerking, asiel en migratie vindt slechts plaats met het oog op een juiste, betrouwbare en zorgvuldige vaststelling van de identiteit van:
 
@@ -165,7 +138,7 @@ In afwijking van de bewaartermijn, genoemd in artikel 42, eerste lid, van de SIS
 
 4. Doorzoeking van het gemeenschappelijk identiteitsregister ter identificatie, als bedoeld in artikel 20, vierde lid, van de Verordening interoperabiliteit grenzen en visa en artikel 20, vierde lid, van de Verordening interoperabiliteit politiële en justitiële samenwerking, asiel en migratie kan plaatsvinden, indien op grond van [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) hulp wordt verleend aan hen die deze behoeven of de bevoegdheid bestaat de identiteit van een lijk vast te stellen op de wijze, bedoeld in [artikel 55c, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55c) of [artikel 21, vierde lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=21).
 
-##### Artikel 9. Boetes
+#### Artikel 9. Boetes
 
 Onverminderd [artikel 27 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=27) en [artikel 35c van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=35c) is de Autoriteit persoonsgegevens bevoegd een bestuurlijke boete op te leggen van ten hoogste het bedrag van de geldboete van de vijfde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), indien de verwerkingsverantwoordelijke bij het verwerken van politiegegevens of strafvorderlijke gegevens handelt in strijd met hetgeen is bepaald bij:
 
@@ -187,21 +160,21 @@ Onverminderd [artikel 27 van de Wet justitiële en strafvorderlijke gegevens](ht
 
 #### Paragraaf 4. Wijziging van andere wetten
 
-##### Artikel 10. Wijziging van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)
+#### Artikel 10. Wijziging van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)
 
 Wijzigt de Vreemdelingenwet 2000.
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
-##### Artikel 11. Wijziging van de Uitvoeringswet EU-verordeningen grenzen en veiligheid in verband met de wijziging van de VIS-verordening
+#### Artikel 11. Wijziging van de Uitvoeringswet EU-verordeningen grenzen en veiligheid in verband met de wijziging van de VIS-verordening
 
 Wijzigt deze wet.
 
-##### Artikel 12. Inwerkingtreding
+#### Artikel 12. Inwerkingtreding
 
 Deze wet treedt in werking op een bij Koninklijk Besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 13. Citeertitel
+#### Artikel 13. Citeertitel
 
 Deze wet wordt aangehaald als: Uitvoeringswet EU-verordeningen grenzen en veiligheid.
 

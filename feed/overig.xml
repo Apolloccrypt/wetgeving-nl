@@ -4,7 +4,23 @@
 <link href="https://vrijewetgeving.nl/"/>
 <link rel="self" href="https://vrijewetgeving.nl/feed/overig.xml"/>
 <id>https://vrijewetgeving.nl/feed/overig.xml</id>
-<updated>2026-06-17T00:00:00Z</updated>
+<updated>2026-06-18T00:00:00Z</updated>
+<entry>
+<title>[nieuw] Besluit vaststelling Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026)</title>
+<link href="https://vrijewetgeving.nl/wet.html?id=BWBR0052473"/>
+<id>https://vrijewetgeving.nl/wet.html?id=BWBR0052473#2026-06-18</id>
+<updated>2026-06-18T00:00:00Z</updated>
+<category term="Overig"/>
+<summary>Overig — nieuw op 2026-06-18</summary>
+</entry>
+<entry>
+<title>[gewijzigd] Vergoedingenregeling reiskosten Kiesraad</title>
+<link href="https://vrijewetgeving.nl/wet.html?id=BWBR0006938"/>
+<id>https://vrijewetgeving.nl/wet.html?id=BWBR0006938#2026-06-18</id>
+<updated>2026-06-18T00:00:00Z</updated>
+<category term="Overig"/>
+<summary>Overig — gewijzigd op 2026-06-18</summary>
+</entry>
 <entry>
 <title>[nieuw] Aanwijzing elektronische verzendwijzen VWS</title>
 <link href="https://vrijewetgeving.nl/wet.html?id=BWBR0051926"/>
@@ -324,21 +340,5 @@
 <updated>2026-06-09T00:00:00Z</updated>
 <category term="Overig"/>
 <summary>Overig — nieuw op 2026-06-09</summary>
-</entry>
-<entry>
-<title>[nieuw] Spoorwegwet</title>
-<link href="https://vrijewetgeving.nl/wet.html?id=BWBR0015007"/>
-<id>https://vrijewetgeving.nl/wet.html?id=BWBR0015007#2026-06-09</id>
-<updated>2026-06-09T00:00:00Z</updated>
-<category term="Overig"/>
-<summary>Overig — nieuw op 2026-06-09</summary>
-</entry>
-<entry>
-<title>[gewijzigd] Veegwet wonen</title>
-<link href="https://vrijewetgeving.nl/wet.html?id=BWBR0039169"/>
-<id>https://vrijewetgeving.nl/wet.html?id=BWBR0039169#2026-06-09</id>
-<updated>2026-06-09T00:00:00Z</updated>
-<category term="Overig"/>
-<summary>Overig — gewijzigd op 2026-06-09</summary>
 </entry>
 </feed>

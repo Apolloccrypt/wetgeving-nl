@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 12 december 2008, houdende regels voor de toepassing van artikel 22 van de Wet verontreiniging oppervlaktewateren en artikel 122k van de Waterschapswet (Besluit vervuilingswaarde ingenomen water 2009)"
+title: "Besluit vervuilingswaarde ingenomen water 2009"
 identifier: "BWBR0025073"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025073"
-soort: "AMvB"
-stam_id: "9859203"
-version_id: "30725872"
-internal_id: "C44035591"
-label_id: "9835654"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025073/2026-01-01/0"
-intitule_bron: "Stb.2008-609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-12"
-intitule_published: "2008-12-31"
-intitule_in_force: "2008-12-31"
-intitule_status: "goed"
-original_publication: "Stb.2025-130"
-original_signed_date: "2025-04-22"
-original_published_date: "2025-05-14"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2025-130"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0025073&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0025073&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vervuilingswaarde ingenomen water 2009"
-signed_date: "2025-04-22"
-entry_into_force: "2026-01-01"
+categorie: "Milieu"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0025073"
 ---
+
 # Besluit van 12 december 2008, houdende regels voor de toepassing van artikel 22 van de Wet verontreiniging oppervlaktewateren en artikel 122k van de Waterschapswet (Besluit vervuilingswaarde ingenomen water 2009)
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 15 augustus 2007, nr. HDJZ/I&O/2007-905, Hoofddirectie Juridische Zaken;
@@ -46,7 +20,7 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 3
 
 Hebben goedgevonden en verstaan:
 
-##### Artikel 1
+#### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -60,7 +34,7 @@ In dit besluit wordt verstaan onder:
 
 - **zuurstofverbruik:** som van het chemisch zuurstofverbruik door omzetting van de hoeveelheid totaal organisch koolstof in de stoffen en het zuurstofverbruik door omzetting van de hoeveelheid totaal stikstof verminderd met de som van nitriet-stikstof en nitraat-stikstof in de stoffen.
 
-##### Artikel 2
+#### Artikel 2
 
 1. De vervuilingswaarde per m3 ingenomen water kan door de heffingplichtige op zijn kosten op aanvraag, dan wel ambtshalve door de inspecteur op kosten van de betrokken beheerder, worden bepaald aan de hand van één of meerdere methoden als bedoeld in het derde lid, indien:
 
@@ -96,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 7. Onder geschatte vervuilingswaarde wordt verstaan: aan de hand van de geschatte hoeveelheid in het kalenderjaar in te nemen water en het geschatte zuurstofverbruik per m3 ingenomen water bepaalde vervuilingswaarde.
 
-##### Artikel 3
+#### Artikel 3
 
 Indien in het heffingsjaar voorafgaande aan de toepassing van [artikel 122k van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) of [artikel 7.5, zesde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) in samenhang met artikel 122k van de Waterschapswet het zuurstofverbruik, voor de betrokken bedrijfsruimte of voor het betrokken onderdeel daarvan, is bepaald met behulp van door meting, bemonstering en analyse verkregen gegevens, wordt in afwijking van artikel 2 de vervuilingswaarde per m3 ingenomen water bepaald aan de hand van de formule:
 
@@ -108,11 +82,11 @@ C = het aantal kilogrammen zuurstofverbruik van de geloosde of afgevoerde stoffe
 
 D = het aantal m3 ingenomen water over de etmalen van het voorafgaande heffingsjaar waarover meting, bemonstering en analyse hebben plaatsgevonden.
 
-##### Artikel 4
+#### Artikel 4
 
 De vervuilingswaarde per m3 ingenomen water voor een bedrijfsruimte of het betrokken onderdeel van de bedrijfsruimte wordt, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=3&z=2026-01-01&g=2026-01-01), gesteld op 0,001 indien uitsluitend water wordt geloosd of afgevoerd dat gebruikt wordt om een proces te koelen. Dit water is voorafgaand, tijdens of na het koelen niet in aanraking gekomen met af te koelen stoffen of met andere verontreinigde stoffen.
 
-##### Artikel 5
+#### Artikel 5
 
 1. De vervuilingswaarde per m3 ingenomen water kan door de heffingplichtige op zijn kosten op aanvraag, dan wel ambtshalve door de inspecteur op kosten van de betrokken beheerder, in afwijking van de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2026-01-01&g=2026-01-01), worden bepaald aan de hand van monsterneming en analyse overeenkomstig het tweede lid, onderscheidenlijk aan de hand van meting, bemonstering en analyse overeenkomstig het derde of vierde lid.
 
@@ -172,31 +146,31 @@ De vervuilingswaarde per m3 ingenomen water voor een bedrijfsruimte of het betro
 
 7. Een op basis van dit artikel bepaalde vervuilingswaarde per m3 ingenomen water geldt voor de betrokken bedrijfsruimte of het betrokken onderdeel van de bedrijfsruimte tot het heffingsjaar waarin dit artikel hetzij door de heffingplichtige hetzij door de inspecteur opnieuw wordt toegepast.
 
-##### Artikel 6
+#### Artikel 6
 
 De veranderingen in de bedrijfsomstandigheden die aanleiding kunnen geven tot een wijziging van de vervuilingswaarde per m3 ingenomen water worden onverwijld aan de inspecteur gemeld.
 
-##### Artikel 7
+#### Artikel 7
 
 Het [Besluit vervuilingswaarde ingenomen water](https://wetten.overheid.nl/jci1.3:c:BWBR0011867) wordt ingetrokken.
 
-##### Artikel 8
+#### Artikel 8
 
 Dit besluit treedt in werking met ingang van 1 januari 2009.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 1a
+#### Artikel 1a
 
 Dit besluit berust mede op [artikel 7.5, zesde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 6a
+#### Artikel 6a
 
 In afwijking van [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2026-01-01&g=2026-01-01), wordt voor de heffingplichtige op wie [artikel 166 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=166) van toepassing is onder geschatte vervuilingswaarde verstaan hetgeen artikel 4, tweede lid, van het Besluit vervuilingswaarde ingenomen water 2009, daaronder verstaat zoals dat luidde voor inwerkingtreding van het Besluit van 22 april 2025, houdende wijziging van het Besluit vervuilingswaarde ingenomen water 2009 en enkele andere besluiten in verband met het opnemen van een praktische regeling voor de bepaling van de vervuilingswaarde per m3 ingenomen water en enkele technische wijzigingen (Stb. 2025, 130).
 
-##### Artikel 9
+#### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit vervuilingswaarde ingenomen water 2009.
 
