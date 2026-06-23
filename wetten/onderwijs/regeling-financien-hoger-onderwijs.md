@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juni 2008, nr. HO&S/CBV/2008/5214, houdende vaststelling van nadere regels vanwege financiering in het hoger onderwijs (Regeling financiën hoger onderwijs)"
+title: "Regeling financiën hoger onderwijs"
 identifier: "BWBR0024005"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024005"
-soort: "ministeriele-regeling"
-stam_id: "9534813"
-version_id: "28013092"
-internal_id: "C39516741"
-label_id: "9512194"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024005/2026-01-01/0"
-intitule_bron: "Stcrt.2008-115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-03"
-intitule_published: "2008-06-18"
-intitule_in_force: "2008-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-40689"
-original_signed_date: "2021-09-01"
-original_published_date: "2021-09-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-40689"
-entry_into_force_date: "2021-09-01"
-jci_1_3: "jci1.3:c:BWBR0024005&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0024005&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling financiën hoger onderwijs"
-signed_date: "2021-09-01"
-entry_into_force: "2021-09-01"
+categorie: "Onderwijs"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0024005"
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juni 2008, nr. HO&S/CBV/2008/5214, houdende vaststelling van nadere regels vanwege financiering in het hoger onderwijs (Regeling financiën hoger onderwijs)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -44,7 +18,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -84,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Onderwijs
 
-##### Artikel 2. Factoren onderwijs
+#### Artikel 2. Factoren onderwijs
 
 1. De factoren behorend bij het bekostigingsniveau, bedoeld in [artikel 4.10, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.10), zijn voor bacheloropleidingen en masteropleidingen in het wetenschappelijk onderwijs:
 
@@ -104,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. De bekostigingsniveaus, bedoeld in [artikel 1.1. van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=1.1), behorend bij opleidingen of groepen van opleidingen, worden vastgesteld overeenkomstig [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=13&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-##### Artikel 3. Onderwijsopslag
+#### Artikel 3. Onderwijsopslag
 
 1. De onderwijsopslag van een universiteit, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
@@ -120,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Onderzoek
 
-##### Artikel 4. Bedragen onderzoek
+#### Artikel 4. Bedragen onderzoek
 
 1. De bedragen, bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
@@ -136,11 +110,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2a. Beleidsregels kwaliteitsbekostiging
 
-##### Artikel 5. Rentepercentage
+#### Artikel 5. Rentepercentage
 
 Het rentepercentage bedoeld in [artikel 4.27, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27) is 5%.
 
-##### Artikel 6. Bedragen en percentages academische ziekenhuizen
+#### Artikel 6. Bedragen en percentages academische ziekenhuizen
 
 1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2026-01-01&g=2026-01-01) bij deze regeling, onder de noemer bedragen.
 
@@ -148,17 +122,17 @@ Het rentepercentage bedoeld in [artikel 4.27, tweede lid, van het besluit](https
 
 3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-##### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
+#### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
 
 Vervallen
 
 #### Paragraaf 5. Collegegeld
 
-##### Artikel 8. Consumentenprijsindex
+#### Artikel 8. Consumentenprijsindex
 
 Vervallen
 
-##### Artikel 9. Bedragen wettelijk collegegeld
+#### Artikel 9. Bedragen wettelijk collegegeld
 
 Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [artikelen 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=2.2), en [2.4a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=2.4a) de volgende bedragen van het wettelijk collegegeld vastgesteld:
 
@@ -169,7 +143,7 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 #### Paragraaf 6. Financiële ondersteuning en toelagen
 
-##### Artikel 10. Organisaties
+#### Artikel 10. Organisaties
 
 1. Studentenorganisaties als bedoeld in [artikel 3.3, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=3.3), zijn voor de werking van deze regeling Interstedelijk Studenten Overleg en Landelijke Studenten Vakbond, beide te Utrecht.
 
@@ -187,7 +161,7 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 4. De minister stelt de organisatie, bedoeld in het tweede lid uiterlijk op 15 juli voorafgaande aan het desbetreffende studiejaar in kennis van zijn beslissing.
 
-##### Artikel 11. Vertegenwoordigers
+#### Artikel 11. Vertegenwoordigers
 
 1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2026-01-01&g=2026-01-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
 
@@ -207,47 +181,47 @@ Voor het in de volgende tabel genoemde studiejaar worden na de toepassing van [a
 
 5. Na een intrekking als bedoeld in het vierde lid, kan het bestuur van een organisatie in plaats van de vertegenwoordiger van wie de aanwijzing is ingetrokken, een nieuwe vertegenwoordiger aanwijzen. De aanwijzing van de nieuwe vertegenwoordiger geldt voor het resterende gedeelte van het desbetreffende studiejaar.
 
-##### Artikel 12. Aanspraak
+#### Artikel 12. Aanspraak
 
 1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2026-01-01&g=2026-01-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 2. Indien het bestuur van een organisatie na intrekking van de eerste aanwijzing een andere vertegenwoordiger aanwijst, heeft deze met ingang van de eerste volle maand na zijn aanwijzing aanspraak op financiële ondersteuning.
 
-##### Artikel 13. Hoogte van de aanspraak
+#### Artikel 13. Hoogte van de aanspraak
 
 1. De financiële ondersteuning is gelijk 115% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) voor een werknemer van 21 jaar of ouder bij een volledig dienstverband per maand.
 
 2. De toekenning van de financiële ondersteuning vindt plaats per maand.
 
-##### Artikel 14. Wijze van verstrekking
+#### Artikel 14. Wijze van verstrekking
 
 Vervallen
 
-##### Artikel 14a. Toelage raad van toezicht
+#### Artikel 14a. Toelage raad van toezicht
 
 Vervallen
 
 #### Paragraaf 5. Collegegeld
 
-##### Artikel 15. Tijdstip van melding
+#### Artikel 15. Tijdstip van melding
 
 Vervallen
 
-##### Artikel 16. Gebruik van gegevens uit het basisregister onderwijs door minister en Inspectie
+#### Artikel 16. Gebruik van gegevens uit het basisregister onderwijs door minister en Inspectie
 
 Vervallen
 
-##### Artikel 17. Bekostiging sectoroverstijgende opleidingen ten laste van de begroting van het Ministerie van Economische Zaken
+#### Artikel 17. Bekostiging sectoroverstijgende opleidingen ten laste van de begroting van het Ministerie van Economische Zaken
 
 Vervallen
 
 #### Paragraaf 8. Sectoroverstijgende opleidingen
 
-##### Artikel 18. Experiment prestatiebekostiging
+#### Artikel 18. Experiment prestatiebekostiging
 
 Vervallen
 
-##### Artikel 19. Inwerkingtreding
+#### Artikel 19. Inwerkingtreding
 
 1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2026-01-01&g=2026-01-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2026-01-01&g=2026-01-01), en bijlage 12, onderdelen g, voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2026-01-01&g=2026-01-01), terug tot en met 1 januari 2008.
 
@@ -259,7 +233,7 @@ Vervallen
 
 5. Bijlage 12, onderdelen g, voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
 
-##### Artikel 20. Citeertitel
+#### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 
@@ -634,7 +608,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a. Historisch bestand hoger onderwijs
+#### Artikel 3a. Historisch bestand hoger onderwijs
 
 1. Voor de toepassing van [artikel 4.3, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3) zijn de gegevens uit het register onderwijsdeelnemers vastgelegd in het historisch bestand hoger onderwijs onder het kenmerk 620668988284 aan de hand van de door instellingen aan het register onderwijsdeelnemers aangeleverde gegevens over de periode 1 september 1991 tot en met 30 september 2008 inzake getuigschriften, graden en inschrijvingen en daarmee gelijkgesteld met bekostigde inschrijvingen en bekostigde graden als bedoeld in het besluit.
 
@@ -728,7 +702,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 9. Slotbepalingen
 
-##### Artikel 3b. Inschrijvingen met terugwerkende kracht
+#### Artikel 3b. Inschrijvingen met terugwerkende kracht
 
 Indien een inschrijving heeft plaatsgevonden in de maand oktober, heeft een instellingsbestuur niet de bevoegdheid die inschrijving met terugwerkende kracht te laten ingaan.
 
@@ -804,31 +778,31 @@ Geen uitzonderingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3c. Reikwijdte
+#### Artikel 3c. Reikwijdte
 
 Vervallen
 
-##### Artikel 3d. Aanvraag- en beslistermijnen kwaliteitsbekostiging bij planbeoordeling
+#### Artikel 3d. Aanvraag- en beslistermijnen kwaliteitsbekostiging bij planbeoordeling
 
 Vervallen
 
-##### Artikel 3e. Besluit kwaliteitsbekostiging bij planbeoordeling
+#### Artikel 3e. Besluit kwaliteitsbekostiging bij planbeoordeling
 
 Vervallen
 
-##### Artikel 3f. Aanvraag en beslistermijnen kwaliteitsbekostiging bij planrealisatie
+#### Artikel 3f. Aanvraag en beslistermijnen kwaliteitsbekostiging bij planrealisatie
 
 Vervallen
 
-##### Artikel 3g. Besluit kwaliteitsbekostiging bij planrealisatie
+#### Artikel 3g. Besluit kwaliteitsbekostiging bij planrealisatie
 
 Vervallen
 
-##### Artikel 3h. Berekening, verdeling en betaling bedrag
+#### Artikel 3h. Berekening, verdeling en betaling bedrag
 
 Vervallen
 
-##### Artikel 3i. Bedragen kwaliteitsbekostiging
+#### Artikel 3i. Bedragen kwaliteitsbekostiging
 
 Vervallen
 
@@ -840,7 +814,7 @@ Vervallen
 
 #### Paragraaf 8b. Aanvullende taken accreditatieorgaan in verband met kwaliteitsafspraken
 
-##### Artikel 18a
+#### Artikel 18a
 
 1. Het accreditatieorgaan heeft in aanvulling op [artikel 5.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=5.2) tot taak:
 
