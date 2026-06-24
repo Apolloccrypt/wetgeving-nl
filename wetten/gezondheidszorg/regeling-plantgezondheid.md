@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/18085049, houdende uitvoeringsbepalingen met betrekking tot plantgezondheid (Regeling plantgezondheid)"
+title: "Regeling plantgezondheid"
 identifier: "BWBR0044863"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-22"
-last_updated: "2025-11-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044863"
-soort: "ministeriele-regeling"
-stam_id: "15860963"
-version_id: "27558982"
-internal_id: "C38883441"
-label_id: "15796674"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044863/2025-11-22/0"
-intitule_bron: "Stcrt.2021-9651"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-02-10"
-intitule_published: "2021-02-26"
-intitule_in_force: "2021-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-9651"
-original_signed_date: "2021-02-10"
-original_published_date: "2021-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-9651"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044863&z=2025-11-22&g=2025-11-22"
-jci_1_0: "1.0:c:BWBR0044863&g=2025-11-22"
-citeertitel_status: "redactioneel"
-short_title: "Regeling plantgezondheid"
-signed_date: "2021-02-10"
-entry_into_force: "2021-03-01"
+categorie: "Gezondheidszorg"
+publicatiedatum: 2025-11-22
+laatste_update: 2025-11-22
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0044863"
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/18085049, houdende uitvoeringsbepalingen met betrekking tot plantgezondheid (Regeling plantgezondheid)
 
 Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=9), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=16) en [20, eerste lid, van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20) en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=6) en [8, tweede en derde lid, van het Besluit plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8);
@@ -44,7 +18,7 @@ Besluit:
 
 #### § 1.1. Begripsbepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 - –. **aardappel:** een plant of plantaardig product van het geslacht **Solanum tuberosum** L.;
 
@@ -106,11 +80,11 @@ Besluit:
 
 #### § 1.2. Maatregelen
 
-##### Artikel 2
+#### Artikel 2
 
 Verkrijgen de in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=22) bedoelde ambtenaren of personen de wetenschap of het vermoeden van de aanwezigheid van schadelijke organismen dan kan de minister, in afwachting van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194) voor te schrijven maatregelen, in individuele gevallen maximaal twee werkdagen of zoveel langer als naar het oordeel van de minister nodig is het vervoeren of verplaatsen van de schadelijke organismen, van planten, plantaardige producten of ander materiaal, verbieden of daaromtrent voorschriften geven of deze planten, plantaardige producten of ander materiaal kenmerken of onder verzegeling brengen waarbij het anderen dan de in artikel 22, eerste lid, van de wet bedoelde ambtenaren of personen verboden is de kenmerken en zegels te verwijderen, behoudens met toestemming van de minister.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De minister kan fytosanitaire maatregelen treffen in een situatie als bedoeld in artikel 10, derde alinea, van [verordening 2016/2031](32031R2016) met inachtneming van bijlage II van [verordening 2016/2031](32031R2016) ten aanzien van:
 
@@ -140,7 +114,7 @@ Verkrijgen de in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl
 
 ### Hoofdstuk 2. Uitvoeringsbepalingen [verordening 2016/2031](32031R2016) en [verordening 2017/625](32525R2017)
 
-##### Artikel 4
+#### Artikel 4
 
 De kennisgeving, bedoeld in artikel 14, eerste lid, en artikel 15, eerste lid, van [verordening 2016/2031](32031R2016) is niet vereist voor de volgende schadelijke organismen:
 
@@ -152,11 +126,11 @@ De kennisgeving, bedoeld in artikel 14, eerste lid, en artikel 15, eerste lid, v
 
 - d. **Meloidogyne fallax** Karssen.
 
-##### Artikel 5
+#### Artikel 5
 
 Er is sprake van de situatie, bedoeld in artikel 82, eerste alinea, van [verordening 2016/2031](32031R2016) indien de bedrijfsruimten van een geregistreerde marktdeelnemer en de locatie van de door hem gebruikte percelen zich in Nederland bevinden.
 
-##### Artikel 6
+#### Artikel 6
 
 Bij de minister kan, met een door de minister ter beschikking gesteld middel, worden ingediend een aanvraag tot erkenning als:
 
@@ -164,7 +138,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - b. controlepunt als bedoeld in artikel 53, eerste lid, onder a, van [verordening 2017/625](32525R2017).
 
-##### Artikel 7
+#### Artikel 7
 
 1. Een professionele marktdeelnemer kan een aanvraag tot erkenning voor de export naar derde landen waar bilaterale afspraken mee zijn gemaakt op grond waarvan fytosanitaire voorwaarden van toepassing zijn, bij de minister indienen met een door de minister ter beschikking gesteld middel.
 
@@ -178,7 +152,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 #### § 3.1. Bruinrot en ringrot
 
-##### Artikel 8
+#### Artikel 8
 
 1. In deze paragraaf wordt verstaan onder:
 
@@ -212,7 +186,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2025-11-22&g=2025-11-22).
 
-##### Artikel 9
+#### Artikel 9
 
 1. Het is verboden om oppervlaktewater op zodanige wijze te gebruiken dat dit oppervlaktewater in contact kan komen met pootaardappelen.
 
@@ -222,7 +196,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 4. Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige afwateringssloot.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Het is verboden in Nederland geteelde aardappelen als pootaardappelen in het verkeer te brengen of als pootaardappelen te gebruiken.
 
@@ -236,7 +210,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e of 2e generatie (PB1 en PB2) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2025-11-22&g=2025-11-22).
 
-##### Artikel 11
+#### Artikel 11
 
 1. Op een productieplaats van goedgekeurde pootaardappelen worden geen aardappelen gesneden.
 
@@ -244,7 +218,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 3. Werktuigen en voorzieningen die zijn gebruikt voor het snijden van pootaardappelen of voor pootgoedhandelingen met betrekking tot gesneden pootaardappelen, worden niet gebruikt op de productieplaats of als productieplaats van goedgekeurde pootaardappelen.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Aardappelen worden niet geteeld met gebruikmaking van pootaardappelen die zijn gesneden.
 
@@ -254,7 +228,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 #### § 3.2. Bacterievuur
 
-##### Artikel 13
+#### Artikel 13
 
 1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-11-22&g=2025-11-22) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
 
@@ -268,13 +242,13 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-11-22&g=2025-11-22) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
 
-##### Artikel 14
+#### Artikel 14
 
 De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2025-11-22&g=2025-11-22) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
 
 #### § 3.3. Wratziekte
 
-##### Artikel 15
+#### Artikel 15
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
@@ -286,7 +260,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - –. **wratziekte:** de aantasting van aardappelen door de schimmel Synchytrium endobioticum (Schilb.) Percival.
 
-##### Artikel 16
+#### Artikel 16
 
 1. Het is verboden op terreinen, waar wratziekte dreigt op te treden en die door de minister op basis van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8) als zodanig zijn aangewezen, aardappelen te telen.
 
@@ -296,7 +270,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 4. Het besluit, bedoeld in het eerste lid, wordt gepubliceerd in de Staatscourant.
 
-##### Artikel 17
+#### Artikel 17
 
 1. De teelt van aardappelen in tuinen kan door de minister worden beperkt tot resistente aardappelrassen die bij besluit door de minister worden aangewezen.
 
@@ -304,7 +278,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 3. Het besluit, bedoeld in het eerste lid, wordt gepubliceerd in de Staatscourant.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Op een productielocatie, in een in [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2025-11-22&g=2025-11-22) aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2025-11-22&g=2025-11-22).
 
@@ -316,15 +290,15 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 #### § 3.4. Phytophthora infestans
 
-##### Artikel 19
+#### Artikel 19
 
 Na 1 april van een jaar worden niet-uitgeplante aardappelen of afval van aardappelen, tenzij bestemd om te worden uitgeplant, zodanig afgedekt dat reeds zichtbare of nog te vormen stengels met blad niet boven deze afdekking kunnen voorkomen.
 
-##### Artikel 20
+#### Artikel 20
 
 Van niet-uitgeplante aardappelen of afval van aardappelen mag men zich niet ontdoen, tenzij zodanige maatregelen zijn getroffen dat zich aan deze niet-uitgeplante aardappelen of afval van aardappelen geen stengels met blad kunnen ontwikkelen.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Het is degene die een productielocatie in gebruik heeft, verboden een aantasting van **Phytophthora infestans** te hebben, die als volgt omschreven is:
 
@@ -336,7 +310,7 @@ Van niet-uitgeplante aardappelen of afval van aardappelen mag men zich niet ontd
 
 3. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde aantasting.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Het is na 15 juni van een kalenderjaar aan degene die een productielocatie in gebruik heeft verboden om aardappelopslag te hebben, indien:
 
@@ -348,17 +322,17 @@ Van niet-uitgeplante aardappelen of afval van aardappelen mag men zich niet ontd
 
 #### § 3.5. Vergelingsziekte bij bieten
 
-##### Artikel 23
+#### Artikel 23
 
 1. Het is na 15 april van een kalenderjaar aan degene die een productielocatie in gebruik heeft verboden om bietenopslag te hebben.
 
 2. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde bietenopslag.
 
-##### Artikel 24
+#### Artikel 24
 
 Een eigenaar of houder van planten van suikerbieten, voederbieten of rode bieten, geteeld voor zaadwinning, waarop zich bladluizen bevinden, bestrijdt deze bladluizen op zodanige wijze dat dit geen gevaar oplevert voor de gezondheid van de suikerbieten, voederbieten en rode bieten in de omgeving.
 
-##### Artikel 25
+#### Artikel 25
 
 1. Suikerbieten, voederbieten, rode bieten en afval van suikerbieten, voederbieten of rode bieten, voor zover daaraan bladvorming voorkomt, zijn niet voorhanden of in voorraad na 15 maart van een kalenderjaar.
 
@@ -366,15 +340,15 @@ Een eigenaar of houder van planten van suikerbieten, voederbieten of rode bieten
 
 #### § 3.6. Valse meeldauw en koprot
 
-##### Artikel 26
+#### Artikel 26
 
 Het is verboden na 15 april van enig jaar niet-uitgeplante uien of afval van uien aanwezig te hebben, tenzij op deze uien een afdekking is aangebracht of zodanige maatregelen zijn getroffen zonder welke niet-uitgeplante uien of afval van uien een bron kunnen zijn voor het verspreiden van valse meeldauw en koprot.
 
-##### Artikel 27
+#### Artikel 27
 
 Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, tenzij zodanige maatregelen zijn getroffen zonder welke zich aan deze niet-uitgeplante uien of afval van uien groene delen kunnen ontwikkelen en zonder welke deze niet-uitgeplante uien of afval van uien een bron kunnen zijn voor het verspreiden van koprot.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Het is degene die een productielocatie in gebruik heeft verboden een aantasting van valse meeldauw te hebben, die als volgt omschreven is:
 
@@ -384,7 +358,7 @@ Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, ten
 
 2. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid, onder a of b, bedoelde aantasting.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Het is degene die een productielocatie in gebruik heeft verboden uien vanuit plantuien te telen indien hij niet beschikt over een beoordelingsrapport over het te gebruiken dan wel gebruikte uitgangsmateriaal, afgegeven door een keuringsinstelling die op basis van [artikel 19 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19) is aangewezen, waaruit blijkt dat bij visuele keuring van het uitgangsmateriaal te velde, vlak voor de oogst, geen valse meeldauw is geconstateerd of waaruit bij nacontrole van het uitgangsmateriaal blijkt dat het uitgangsmateriaal vrij is van valse meeldauw.
 
@@ -392,7 +366,7 @@ Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, ten
 
 #### § 3.7. Knolcyperus
 
-##### Artikel 30
+#### Artikel 30
 
 1. Het is degene die een productielocatie in gebruik heeft verboden akker- en tuinbouwgewassen te telen op de productielocatie of het gedeelte daarvan waar de aanwezigheid van knolcyperus door de minister is vastgesteld.
 
@@ -404,13 +378,13 @@ Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, ten
 
 5. In afwijking van het eerste lid is het teeltverbod niet van toepassing gedurende de teelt van planten die is aangevangen voor vaststelling van de aanwezigheid van knolcyperus totdat deze teelt is beëindigd.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Degene aan wie een teeltverbod is opgelegd is verplicht de knolcyperus te verwijderen en te vernietigen voordat aan de knolcyperus vier of meer bladeren zichtbaar zijn of zich ondergrondse knollen hebben ontwikkeld.
 
 2. Degene aan wie een teeltverbod is opgelegd en degene die werktuigen heeft gebruikt op de productielocatie of het gedeelte daarvan waar het teeltverbod betrekking op heeft, is verplicht direct na dit gebruik de werktuigen zodanig vrij te maken van aanhangende grond en van planten, dat geen verspreiding van knolcyperus kan plaatsvinden.
 
-##### Artikel 32
+#### Artikel 32
 
 Degene aan wie een teeltverbod is opgelegd, is verplicht bij wijzigingen met betrekking tot de eigendom of het gebruik van de productielocatie of het gedeelte daarvan waar het verbod betrekking op heeft:
 
@@ -418,13 +392,13 @@ Degene aan wie een teeltverbod is opgelegd, is verplicht bij wijzigingen met bet
 
 - b. de wijziging onverwijld aan de minister te melden.
 
-##### Artikel 33
+#### Artikel 33
 
 Het teeltverbod wordt door de minister opgeheven nadat is vastgesteld dat gedurende drie opeenvolgende jaren de productielocatie of het gedeelte daarvan waar het verbod betrekking op heeft, vrij is bevonden van knolcyperus dan wel is omgezet of afgegraven en fytosanitair verantwoord is afgevoerd.
 
 #### § 3.8. Aardappelmoeheid (AM)
 
-##### Artikel 34
+#### Artikel 34
 
 In deze paragraaf wordt verstaan onder:
 
@@ -432,13 +406,13 @@ In deze paragraaf wordt verstaan onder:
 
 - –. **uitvoeringsverordening 2022/1192:** [Uitvoeringsverordening (EU) 2022/1192](33092R2022) van de Commissie van 11 juli 2022 tot vaststelling van maatregelen om **Globodera pallida** (Stone) Behrens en **Globodera rostochiensis** (Wollenweber) Behrens uit te roeien en de verspreiding ervan te voorkomen (PbEU 2022, L 185).
 
-##### Artikel 35
+#### Artikel 35
 
 1. Het is verboden de planten, bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022), te telen, op te slaan of te bewaren, indien uit een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) niet is gebleken dat de productielocatie vrij is bevonden van het aardappelcysteaaltje.
 
 2. Het eerste lid is niet van toepassing op een productielocatie als bedoeld in de artikelen 3, derde lid, en 4, derde lid, van [uitvoeringsverordening 2022/1192](33092R2022).
 
-##### Artikel 36
+#### Artikel 36
 
 1. Ten behoeve van het opleggen van fytosanitaire maatregelen met betrekking tot telen, opslaan of bewaren als bedoeld in de artikelen 8 en 9 van [uitvoeringsverordening 2022/1192](33092R2022) stelt de minister ieder jaar op basis van overeenkomstig bijlage V, punt 2, van [uitvoeringsverordening 2022/1192](33092R2022) uitgevoerd onderzoek een lijst aardappelrassen met het bijbehorende resistentieniveau als bedoeld in bijlage V, punt 1, van [uitvoeringsverordening 2022/1192](33092R2022), vast.
 
@@ -446,11 +420,11 @@ In deze paragraaf wordt verstaan onder:
 
 3. Verzoeken tot opname in de lijst worden ingediend bij de minister.
 
-##### Artikel 37
+#### Artikel 37
 
 Aardappelen worden niet geteeld in de volle grond op een productielocatie, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2025-11-22&g=2025-11-22) aangewezen gebied.
 
-##### Artikel 38
+#### Artikel 38
 
 1. Aardappelen worden niet geteeld op een productielocatie, waarop in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
 
@@ -460,7 +434,7 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 4. Het tweede en derde lid zijn niet van toepassing op goedgekeurde pootaardappelen.
 
-##### Artikel 39
+#### Artikel 39
 
 1. Het is de producent van teeltmateriaal van boomkwekerijgewassen en vaste planten verboden deze gewassen in de volle grond te telen en de geteelde gewassen in het verkeer te brengen, tenzij voor de teelt teeltmateriaal wordt gebruikt dat vrij is van besmetting met het aardappelcysteaaltje en er geteeld wordt op een productielocatie:
 
@@ -474,7 +448,7 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 #### § 3.9. Fytosanitaire voorwaarden inzake teelt eigen pootgoed op basis van [artikel 13 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=13)
 
-##### Artikel 40
+#### Artikel 40
 
 1. Aardappelen worden uitsluitend geteeld met gebruikmaking van goedgekeurde pootaardappelen.
 
@@ -500,7 +474,7 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 #### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2025-11-22&g=2025-11-22)
 
-##### Artikel 41
+#### Artikel 41
 
 1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2025-11-22&g=2025-11-22) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
 
@@ -508,13 +482,13 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 ### Hoofdstuk 4. Overtredingen
 
-##### Artikel 42
+#### Artikel 42
 
 1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 5, eerste lid, 9, derde lid, 14, eerste, derde, vierde, vijfde, zesde en zevende lid, 15, eerste lid, 15, derde lid, 17, 28, artikel 30, eerste lid, tweede alinea, 32, tweede lid, 33, eerste lid, 33, tweede lid, 37, eerste lid, 40, eerste lid, 41, eerste lid, 42, tweede lid, 43, eerste lid, 47, eerste lid, 49, 53, eerste lid, 54, eerste lid, 55, 57, 59, 61, eerste lid, 62, 63, tweede lid, 64, eerste en tweede lid, 66, eerste en vijfde lid, 69, eerste, tweede, derde, vierde en zesde lid, 70, 74, eerste lid, 79, eerste lid, 80, eerste lid, 83, eerste, tweede en vijfde lid, 84, eerste lid, 84, derde lid, 85, 87, eerste lid, 88, 90, 93, eerste, derde en vijfde lid, 95, eerste, derde en vierde lid, 96, eerste lid, en 97, eerste lid, 102, vierde lid van [verordening 2016/2031](32031R2016) en de artikelen 15, eerste, tweede, derde en vijfde lid, 47, vijfde lid, 50, eerste en derde lid, 56, eerste en vierde lid, 57, eerste lid en 69, eerste lid, van [verordening 2017/625](32525R2017), artikel 11, derde lid, van [verordening 2019/2072](32072R2019), alsmede de artikelen 8, eerste en tweede lid, 9, eerste lid, en 10, eerste lid van [uitvoeringsverordening 2022/1192](33092R2022), de artikelen 4, tweede lid, onder a, 6, eerste, tweede, derde en vierde lid van [uitvoeringsverordening 2022/1193](33093R2022), de artikelen 4, tweede lid, onder a, 6 eerste, tweede, derde en vierde lid, en 8, eerste lid, van [uitvoeringsverordening 2022/1194](33094R2022) en de artikelen 6, eerste, tweede, derde en vierde lid en 8, eerste lid van [uitvoeringsverordening 2022/1195](33095R2022) zijn overtredingen.
 
 2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=9), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=13), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=24), en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=25), en de voorschriften genoemd in het eerste lid, kunnen worden gestraft met een hechtenis van ten hoogste zes maanden of een geldboete van de vierde categorie.
 
-##### Artikel 43. Bestuurlijke boete
+#### Artikel 43. Bestuurlijke boete
 
 1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2025-11-22&g=2025-11-22) voor desbetreffende overtredingen zijn vastgelegd.
 
@@ -524,11 +498,11 @@ Aardappelen worden niet geteeld in de volle grond op een productielocatie, geleg
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 44
+#### Artikel 44
 
 Voor besluiten die voor het tijdstip van inwerkingtreding van de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194) zijn genomen op basis van de [Regeling bestrijding schadelijke organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0013946), blijft het recht gelden zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van de Plantgezondheidswet.
 
-##### Artikel 45
+#### Artikel 45
 
 De volgende regelingen en het volgende besluit worden ingetrokken:
 
@@ -540,7 +514,7 @@ De volgende regelingen en het volgende besluit worden ingetrokken:
 
 - d. [Besluit aanwijzing Bloembollenkeuringsdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0005204).
 
-##### Artikel 46
+#### Artikel 46
 
 Deze regeling treedt in werking met ingang van 1 maart 2021.
 
