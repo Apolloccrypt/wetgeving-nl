@@ -1,43 +1,20 @@
 ---
-title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels voor het verstrekken van specifieke uitkeringen aan gemeenten voor de realisatie van woonruimten voor aandachtsgroepen (Meerjarige regeling specifieke uitkeringen aandachtsgroepen)"
+title: "Meerjarige regeling specifieke uitkeringen voor huisvesting aandachtsgroepen"
 identifier: "BWBR0046932"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-03"
-last_updated: "2025-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046932"
-soort: "ministeriele-regeling"
-stam_id: "16424853"
-version_id: "28768272"
-internal_id: "C40716181"
-label_id: "16348914"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046932/2025-05-03/0"
-intitule_bron: "Stcrt.2022-18345"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-07-18"
-intitule_in_force: "2022-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-18345"
-original_published_date: "2022-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-18345"
-entry_into_force_date: "2022-07-19"
-jci_1_3: "jci1.3:c:BWBR0046932&z=2025-05-03&g=2025-05-03"
-jci_1_0: "1.0:c:BWBR0046932&g=2025-05-03"
-citeertitel_status: "officieel"
-short_title: "Meerjarige regeling specifieke uitkeringen voor huisvesting aandachtsgroepen"
-entry_into_force: "2022-07-19"
+categorie: "Sociaal recht"
+publicatiedatum: 2025-05-03
+laatste_update: 2025-05-03
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046932"
 ---
+
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels voor het verstrekken van specifieke uitkeringen aan gemeenten voor de realisatie van woonruimten voor aandachtsgroepen (Meerjarige regeling specifieke uitkeringen aandachtsgroepen)
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
 Besluit:
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -57,7 +34,7 @@ In deze regeling wordt verstaan onder:
 
 - –. waarvan het maximale huurverhogingspercentage bedraagt het bij of krachtens [artikel 10, derde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) vastgestelde maximale huurverhogingspercentage.
 
-##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
+#### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. De minister kan op aanvraag van een college een specifieke uitkering verstrekken aan een gemeente voor een project:
 
@@ -73,13 +50,13 @@ In deze regeling wordt verstaan onder:
 
 4. Kosten mogen alleen opgevoerd worden indien deze voor minimaal 85% toerekenbaar zijn aan de bouw van woonruimten voor aandachtsgroepen.
 
-##### Artikel 3. Uitkeringsplafond
+#### Artikel 3. Uitkeringsplafond
 
 1. De plafonds voor het totaal van de aanvragen voor specifieke uitkeringen zijn de bedragen, genoemd in de bijlage.
 
 2. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor activiteiten voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-##### Artikel 4. De aanvraag
+#### Artikel 4. De aanvraag
 
 1. Een specifieke uitkering kan worden aangevraagd binnen de aanvraagperiode, bedoeld in de bijlage.
 
@@ -105,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 6. De minister kan, in aanvulling op het gestelde in het tweede lid, aanvullende bescheiden vragen voor het indienen van een aanvraag die hij nodig acht voor het beoordelen van de aanvraag of het monitoren van de effecten van deze regeling.
 
-##### Artikel 5. De rangschikking van de aanvragen
+#### Artikel 5. De rangschikking van de aanvragen
 
 1. De minister stelt een rangschikking op van de binnengekomen volledige aanvragen voor woonruimten voor studentenhuisvesting en behandelt de aanvragen volgens die rangschikking.
 
@@ -125,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister behandelt de binnengekomen aanvragen voor woonruimten voor dak- en thuisloze mensen, mensen met sociale of medische urgentie, statushouders, mensen die uitstromen uit een intramurale situatie, arbeidsmigranten, ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en woonwagenbewoners op volgorde van binnenkomst. Een aanvraag geldt als binnengekomen op het moment dat de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2025-05-03&g=2025-05-03), volledig is binnengekomen. Indien de minister op het tijdstip dat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2025-05-03&g=2025-05-03), wordt bereikt meer dan één aanvraag ontvangt, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
-##### Artikel 6. Verplichtingen
+#### Artikel 6. Verplichtingen
 
 1. De gerealiseerde woonruimten zijn ten minste tien jaar na voltooiing bestemd voor aandachtsgroepen.
 
@@ -143,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 8. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
 
-##### Artikel 7. Afwijzingsgronden
+#### Artikel 7. Afwijzingsgronden
 
 1. De minister wijst een aanvraag voor een specifieke uitkering af indien:
 
@@ -159,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 3. De minister kan een aanvraag voor een specifieke uitkering afwijzen indien de aanvraag ziet op activiteiten waarvoor op grond van andere regelingen reeds een specifieke uitkering is verstrekt.
 
-##### Artikel 8. De verlening
+#### Artikel 8. De verlening
 
 1. De minister neemt binnen acht weken na de datum van ontvangst van een aanvraag een besluit over de verlening van de specifieke uitkering voor woonruimten voor dak- en thuisloze mensen, mensen met sociale of medische urgentie, statushouders, mensen die uitstromen uit een intramurale situatie, arbeidsmigranten, ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en woonwagenbewoners. Indien de beschikking niet binnen deze termijn kan worden gegeven, deelt de minister dit aan de aanvrager mede en noemt daarbij een zo kort mogelijke termijn van uiterlijk acht weken waarbinnen de beschikking wel tegemoet kan worden gezien.
 
@@ -175,11 +152,11 @@ In deze regeling wordt verstaan onder:
 
 - d. de wijze waarop kan worden aangetoond dat de projecten zijn uitgevoerd.
 
-##### Artikel 9. Bevoorschotting en uitbetaling
+#### Artikel 9. Bevoorschotting en uitbetaling
 
 De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=8&z=2025-05-03&g=2025-05-03), een voorschot van 100% en betaalt dat voorschot in één keer uit.
 
-##### Artikel 10. Verantwoording, vaststelling, wijziging en terugvordering
+#### Artikel 10. Verantwoording, vaststelling, wijziging en terugvordering
 
 1. De minister stelt de specifieke uitkering vast nadat het college de eindverantwoording aan de minister heeft verstrekt op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -189,11 +166,11 @@ De minister verleent bij het besluit tot verlening van de specifieke uitkering, 
 
 4. Indien uit de verantwoordingsinformatie blijkt dat de uitkering niet volledig of onrechtmatig is besteed, kan de minister de uitkering ter hoogte van het niet of onrechtmatig bestede deel terugvorderen. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger.
 
-##### Artikel 11. Inwerkingtreding
+#### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-##### Artikel 12. Citeertitel
+#### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Meerjarige regeling specifieke uitkeringen voor huisvesting aandachtsgroepen.
 
