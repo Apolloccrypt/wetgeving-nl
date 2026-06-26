@@ -1,38 +1,13 @@
 ---
 title: "Regeling tarieven Dienst Wegverkeer 2026"
 identifier: "BWBR0051875"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051875"
-soort: "zbo"
-stam_id: "17624533"
-version_id: "31113712"
-internal_id: "C44535931"
-label_id: "17525134"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051875/2026-01-01/0"
-intitule_bron: "Stcrt.2025-40185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-17"
-intitule_published: "2025-11-26"
-intitule_in_force: "2025-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40185"
-original_signed_date: "2025-11-17"
-original_published_date: "2025-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40185"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051875&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051875&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-11-17"
-entry_into_force: "2026-01-01"
+categorie: "Verkeer"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051875"
 ---
+
 # Regeling tarieven Dienst Wegverkeer 2026
 
 Gelet op de [Wegenverkeerswet 1994](onbekend), de [Wet Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), [hoofdstuk 9 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=9), [artikel 38, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=38), [artikel 1 van de Wet van 17 maart 1979, houdende Regeling van de vergoeding van de kosten van registratie van snelle motorboten](https://wetten.overheid.nl/jci1.3:c:BWBR0003233&artikel=1), [artikel 3 van de Tariefregeling vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008118&artikel=3), [artikel 9, vijfde lid, van de Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=9), de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248), [artikel 32 Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=32), de [Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958), de [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586) en de [Regeling van de Minister van Infrastructuur en Waterstaat, tot aanwijzing van de Dienst Wegverkeer als bevoegde autoriteit in de zin van artikel 17, eerste lid, van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0044600) (PbEU 2019, L 152)
@@ -41,7 +16,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-##### Artikel 1. Begrippen regeling
+#### Artikel 1. Begrippen regeling
 
 Voor de toepassing van deze regeling gelden de begripsbepalingen van de [Wegenverkeerswet 1994](onbekend), het [Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554), het [Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669) en de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798). Voorts wordt verstaan onder:
 
@@ -77,7 +52,7 @@ Voor de toepassing van deze regeling gelden de begripsbepalingen van de [Wegenve
 
 - p. **voertuig LRV:** motorrijtuigen met beperkte snelheid, mobiele machines, landbouw- of bosbouwtrekkers, landbouw- of bosaanhangwagens of verwisselbare getrokken uitrustingsstukken.
 
-##### Artikel 2. Opbouw tarieven, munteenheid en wijze van betaling
+#### Artikel 2. Opbouw tarieven, munteenheid en wijze van betaling
 
 1. De tarieven zijn exclusief de bedragen voor de inschrijving in het kentekenregister en tenaamstelling en afgifte van kentekenbewijzen, en indien van toepassing exclusief BTW en eveneens exclusief bronbelastingen.
 
@@ -85,7 +60,7 @@ Voor de toepassing van deze regeling gelden de begripsbepalingen van de [Wegenve
 
 3. Bij betaling in contant geld aan de balie van de RDW, wordt het totaalbedrag afgerond op een veelvoud van € 0,05.
 
-##### Artikel 3. Uurtarieven
+#### Artikel 3. Uurtarieven
 
 Door de RDW worden, in het kader van de in deze regeling en [Wet](onbekend) genoemde activiteiten, de volgende uurtarieven gehanteerd, tenzij anders vermeld:
 
@@ -103,11 +78,11 @@ Door de RDW worden, in het kader van de in deze regeling en [Wet](onbekend) geno
 
 - g. uurtarief consultancy/ projectmanagement: € 172,00.
 
-##### Artikel 4. Kosten van derden
+#### Artikel 4. Kosten van derden
 
 Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven opgenomen, worden deze, in aanvulling op de in deze regeling genoemde tarieven, in rekening gebracht.
 
-##### Artikel 5. Werkzaamheden buiten de RDW-keuringslocaties
+#### Artikel 5. Werkzaamheden buiten de RDW-keuringslocaties
 
 1. Voor het uitvoeren van werkzaamheden buiten de RDW-keuringslocaties worden reis- en zo nodig verblijfkosten in rekening gebracht.
 
@@ -117,7 +92,7 @@ Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven
 
 4. Indien sprake is van een programma waarbij meerdere technisch inspecteurs separaat werken, worden de kosten als bedoeld in het eerste lid per inspecteur in rekening gebracht.
 
-##### Artikel 6. Bepaling van tijdstip van meting en restitutie
+#### Artikel 6. Bepaling van tijdstip van meting en restitutie
 
 1. Degene, aan wie een erkenning, bevoegdheid of handelaarskenteken als bedoeld in de [Wet](onbekend), de [Wet Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) dan wel [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) is verleend, dan wel gebruik maakt van een beveiligde aansluiting en wiens erkenning, bevoegdheid of beveiligingsmaatregel niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari 2026, is voor de instandhouding van een erkenning, bevoegdheid het geldende toezicht tarief verschuldigd.
 
@@ -127,33 +102,33 @@ Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven
 
 4. Degene die op grond van [hoofdstuk III van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=III) aan toezicht is onderworpen en wiens goedkeuring niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari 2026, is voor de instandhouding van de goedkeuring het geldende toezicht tarief verschuldigd. Het bepaalde in het tweede lid is van overeenkomstige toepassing.
 
-##### Artikel 7. Wijziging in producten
+#### Artikel 7. Wijziging in producten
 
 Indien gedurende het van kracht zijn van deze regeling nieuwe dan wel gewijzigde producten ontstaan, die niet in deze regeling zijn opgenomen, is het bepaalde in [artikel 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) van toepassing.
 
-##### Artikel 8. Tarief bij niet verschijnen keuringsstations
+#### Artikel 8. Tarief bij niet verschijnen keuringsstations
 
 1. Indien de aanvrager van een keuring op een keuringstation niet verschijnt op de met de RDW afgesproken tijd en plaats, of indien een niet geheel keuringsgeschikt voertuig ter keuring wordt aangeboden waardoor niet tot keuring wordt overgegaan, dan wordt het voor de aangevraagde keuring vastgestelde tarief in rekening gebracht.
 
 2. Het eerste lid is niet van toepassing indien door de keuringslocaties van de RDW uiterlijk 24 uur vóór de afgesproken tijd bericht van verhindering is ontvangen.
 
-##### Artikel 9. Tarief centrale servicenummer RDW
+#### Artikel 9. Tarief centrale servicenummer RDW
 
 Degene, die gebruik maakt van de 088 servicenummers is hiervoor het lokale tarief verschuldigd.
 
 #### § 2. Bijlagen
 
-##### Artikel 10. Tarieven [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=I&z=2026-01-01&g=2026-01-01), erkenningen, bevoegdheden en toezicht
+#### Artikel 10. Tarieven [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=I&z=2026-01-01&g=2026-01-01), erkenningen, bevoegdheden en toezicht
 
 1. De tarieven met betrekking tot de aanvraag van en het toezicht op erkenningen en bevoegdheden, de diensten en producten ten behoeve van het gebruik en het toezicht op erkenningen en bevoegdheden als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling zijn vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=I&z=2026-01-01&g=2026-01-01).
 
 2. Voor de erkenninghouder goedkeuring wijziging voertuigen die tevens in het bezit is van een geldige door de RDW op grond van de [Wet](onbekend) verleende typegoedkeuring geldt het jaarlijkse instandhoudingstarief van deze erkenning niet.
 
-##### Artikel 11. Tarieven [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=II&z=2026-01-01&g=2026-01-01), individuele keuringen en onderzoeken
+#### Artikel 11. Tarieven [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=II&z=2026-01-01&g=2026-01-01), individuele keuringen en onderzoeken
 
 De tarieven met betrekking tot de individuele keuringen, kentekenonderzoeken, periodieke keuringen en ADR-keuringen zijn vermeld in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=II&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 12. Tarieven [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=III&z=2026-01-01&g=2026-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=IV&z=2026-01-01&g=2026-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=V&z=2026-01-01&g=2026-01-01), type- en individuele goedkeuringen, en keuringen en testen ten behoeve van de goedkeuringen alsmede gebruik van Testcentrum Lelystad
+#### Artikel 12. Tarieven [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=III&z=2026-01-01&g=2026-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=IV&z=2026-01-01&g=2026-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=V&z=2026-01-01&g=2026-01-01), type- en individuele goedkeuringen, en keuringen en testen ten behoeve van de goedkeuringen alsmede gebruik van Testcentrum Lelystad
 
 1. De tarieven met betrekking tot de typegoedkeuringen en individuele goedkeuringen zijn vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=III&z=2026-01-01&g=2026-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=IV&z=2026-01-01&g=2026-01-01).
 
@@ -161,21 +136,21 @@ De tarieven met betrekking tot de individuele keuringen, kentekenonderzoeken, pe
 
 3. Onverminderd het bepaalde in het eerste en tweede lid is het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) alsmede het bepaalde in [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=3&z=2026-01-01&g=2026-01-01) van deze regeling van toepassing.
 
-##### Artikel 13. Tarieven [Bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VI&z=2026-01-01&g=2026-01-01), Ontheffingen en vergunningen
+#### Artikel 13. Tarieven [Bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VI&z=2026-01-01&g=2026-01-01), Ontheffingen en vergunningen
 
 De tarieven met betrekking tot ontheffingen en daarvoor benodigde documenten alsmede voor het voorbereiden en monitoren van vergunningen zijn vermeld in [Bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VI&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 14. Tarieven [Bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VII&z=2026-01-01&g=2026-01-01), Inschrijving, tenaamstelling en schorsing, kenteken-, rij- en registratiebewijzen alsmede registratie en afgifte vliegbewijzen onbemande luchtvaartuigen
+#### Artikel 14. Tarieven [Bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VII&z=2026-01-01&g=2026-01-01), Inschrijving, tenaamstelling en schorsing, kenteken-, rij- en registratiebewijzen alsmede registratie en afgifte vliegbewijzen onbemande luchtvaartuigen
 
 De tarieven met betrekking tot aanvragen inschrijving in het kentekenregister en tenaamstelling, kentekenbewijzen, rijbewijzen, registratiebewijzen en schorsing tenaamstelling in het kentekenregister alsmede verval tenaamstelling in het kentekenregister, zijn vermeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VII&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 15. Tarieven [Bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VIII&z=2026-01-01&g=2026-01-01), Gegevensverstrekking en Kennisnemingen
+#### Artikel 15. Tarieven [Bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VIII&z=2026-01-01&g=2026-01-01), Gegevensverstrekking en Kennisnemingen
 
 De tarieven voor de gegevensverstrekking uit de RDW-registers zijn opgenomen in [Bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=VIII&z=2026-01-01&g=2026-01-01).
 
 #### § 3. Bijzondere bepalingen Europese en, nationale type- en individuele goedkeuringen
 
-##### Artikel 16. Testwerkzaamheden typegoedkeuring en individuele goedkeuring
+#### Artikel 16. Testwerkzaamheden typegoedkeuring en individuele goedkeuring
 
 Het tarief van een test/keuring is opgebouwd uit drie componenten:
 
@@ -187,7 +162,7 @@ Het tarief van een test/keuring is opgebouwd uit drie componenten:
 
 - 4. Een toeslag van 15% op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) vermeldde tarieven ingeval van testen in het kader van het toezicht op emissie van gebruikte voertuigen.
 
-##### Artikel 17. Reis- en verblijfkosten
+#### Artikel 17. Reis- en verblijfkosten
 
 De reis- en verblijfkosten als bedoeld in [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) zijn als volgt opgebouwd:
 
@@ -205,11 +180,11 @@ De reis- en verblijfkosten als bedoeld in [artikel 5, eerste en derde lid](https
 
 - d. indien van toepassing 50% van het uurtarief technisch inspecteurs als bedoeld in [artikel 3 onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), voor verblijfskosten in het weekend en tijdens feestdagen met een maximum van 8 uur.
 
-##### Artikel 18. Werkzaamheden na 18.00 uur
+#### Artikel 18. Werkzaamheden na 18.00 uur
 
 Indien de werkzaamheden op verzoek van de aanvrager worden verricht tussen 18.00 uur en 07.00 uur, wordt een toeslag van 100% op basis van het uurtarief als bedoeld in [artikel 3, onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) berekend. Dit geldt tevens voor de werkzaamheden die worden verricht in het weekend en op feestdagen.
 
-##### Artikel 19. Meer/minder testen
+#### Artikel 19. Meer/minder testen
 
 1. De tarieven vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=III&z=2026-01-01&g=2026-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=IV&z=2026-01-01&g=2026-01-01) zijn van toepassing op de desbetreffende producten waarbij elk onderdeel van de test eenmalig wordt uitgevoerd.
 
@@ -217,7 +192,7 @@ Indien de werkzaamheden op verzoek van de aanvrager worden verricht tussen 18.00
 
 3. Voor testen waar een significant deel van de test achterwege kan worden gelaten zal het tarief dienovereenkomstig worden verlaagd.
 
-##### Artikel 20. Reductie typegoedkeuring
+#### Artikel 20. Reductie typegoedkeuring
 
 1. Bij aanvullingen van typegoedkeuringen en certificaten die gelijktijdig worden uitgegeven op basis van één testresultaat, wordt een reductie op het tarief van de typegoedkeuring c.q. certificaat gegeven (W1 en W>1); hierbij geldt dat meerdere testen als één testresultaat worden beschouwd, mits de testen gelijktijdig worden uitgevoerd en het totaalresultaat van toepassing is op alle te wijzigen (type-)goedkeuringen c.q. certificaten.
 
@@ -227,15 +202,15 @@ Indien de werkzaamheden op verzoek van de aanvrager worden verricht tussen 18.00
 
 - b. de korting wordt eens per jaar achteraf door middel van een staffelkorting vastgesteld waarbij de korting zoals van toepassing op basis van de berekening en toetsing over 2025 in 2026 op de aanvragen van dat jaar worden verstrekt.
 
-##### Artikel 21. Negatief resultaat
+#### Artikel 21. Negatief resultaat
 
 Voor een test met een negatief resultaat en eventueel een geweigerde (type) goedkeuring worden de desbetreffende tarieven in rekening gebracht.
 
-##### Artikel 22. Berekening extra tijd
+#### Artikel 22. Berekening extra tijd
 
 De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW-medewerker in de gelegenheid wordt gesteld efficiënt te werken. Indien de werkzaamheden aanzienlijk langer duren dan de door de RDW vastgestelde norm tijd wordt extra tijd aan de hand van het uurtarief apart in rekening gebracht.
 
-##### Artikel 23. Annulering
+#### Artikel 23. Annulering
 
 1. Indien de aanvrager van een keuring of test niet verschijnt op de met de RDW afgesproken tijd en plaats dan wel op het Testcentrum Lelystad, of indien een niet geheel keuringsgeschikt voertuig ter keuring wordt aangeboden waardoor niet tot keuring of test wordt overgegaan, wordt het voor de aangevraagde keuring of test vastgestelde tarief dan wel het tarief voor de gereserveerde capaciteit in rekening gebracht.
 
@@ -251,17 +226,17 @@ De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW-medewerk
 
 #### § 4. Overgangs- en slotbepalingen
 
-##### Artikel 24. Overgangsbepaling
+#### Artikel 24. Overgangsbepaling
 
 1. Voor aanvragen waarvoor de tarieven en bedragen zijn vastgesteld in deze regeling en die zijn ingediend vóór de datum van inwerkingtreding van deze regeling, is het tarief zoals geldend op datum aanvraag van toepassing.
 
 2. In afwijking van het eerste lid geldt dat voor werkzaamheden als bedoeld in [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&paragraaf=3&z=2026-01-01&g=2026-01-01) van deze regeling alsmede het toezicht typegoedkeuringen en individuele goedkeuringen als bedoeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=III&z=2026-01-01&g=2026-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051875&bijlage=IV&z=2026-01-01&g=2026-01-01) het tarief zoals geldend op datum van uitvoering van de werkzaamheden.
 
-##### Artikel 25. Intrekking regeling
+#### Artikel 25. Intrekking regeling
 
 De [Regeling tarieven Dienst Wegverkeer 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050531) wordt ingetrokken met ingang van 1 januari 2026.
 
-##### Artikel 26. Inwerkingtreding
+#### Artikel 26. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2026.
 
@@ -270,7 +245,7 @@ De [Regeling tarieven Dienst Wegverkeer 2025](https://wetten.overheid.nl/jci1.3:
 | Inschrijving en tenaamstelling in gebruik zijnde bijzondere bromfietsen | STK | 18,00 |
 | --- | --- | --- |
 
-##### Artikel 27. Citeertitel
+#### Artikel 27. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tarieven Dienst Wegverkeer 2026.
 
