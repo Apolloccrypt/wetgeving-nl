@@ -1,53 +1,28 @@
 ---
 title: "Uitvoeringsregeling motorrijtuigenbelasting 1994"
 identifier: "BWBR0007308"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007308"
-soort: "ministeriele-regeling"
-stam_id: "3376983"
-version_id: "30526602"
-internal_id: "C43761641"
-label_id: "3357054"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007308/2025-01-01/0"
-intitule_bron: "Stcrt.1995-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-30"
-intitule_published: "1995-03-30"
-intitule_in_force: "1995-03-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-41523"
-original_signed_date: "2024-12-19"
-original_published_date: "2024-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-41523"
-entry_into_force_date: "2024-12-19"
-jci_1_3: "jci1.3:c:BWBR0007308&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0007308&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2024-12-19"
-entry_into_force: "2024-12-19"
+categorie: "Belastingrecht"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007308"
 ---
+
 # Uitvoeringsregeling motorrijtuigenbelasting 1994
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), en [15, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15) en [artikel XI, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XI).
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII).
 
-##### Artikel 2
+#### Artikel 2
 
 In deze regeling wordt verstaan onder:
 
-##### Artikel 3
+#### Artikel 3
 
 1. De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst. Voor de toepassing van dit lid wordt, ingeval de open laadbak van een motorrijtuig van het type pick-up is voorzien van een al dan niet eenvoudig te demonteren overkapping, de laadruimte in aanmerking genomen met gesloten overkapping, tenzij deze overkapping slechts bestaat uit een platte deksel die direct op de opstaande zijkanten van de laadbak is geplaatst.
 
@@ -91,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 12. De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
 
-##### Artikel 3a
+#### Artikel 3a
 
 [Artikel 7, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) is van toepassing voor motorrijtuigen als bedoeld in [artikel 1, onderdeel a, van de Regeling uitzondering kentekenplicht voor leden aangewezen krijgsmacht of civiele dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0007056&artikel=1).
 
-##### Artikel 4
+#### Artikel 4
 
 1. De belasting voor een motorrijtuig behoeft niet bij de aanvang van een tijdvak te zijn betaald indien het een ander tijdvak betreft dan:
 
@@ -105,17 +80,17 @@ In deze regeling wordt verstaan onder:
 
 2. Bij toepassing van het eerste lid dient de belasting te zijn betaald binnen veertien dagen na de aanvang van het tijdvak, doch uiterlijk vóór het door de inspecteur daarvoor bepaalde tijdstip.
 
-##### Artikel 4a
+#### Artikel 4a
 
 1. Onder een niet-opvouwbare rolstoel wordt voor de toepassing van [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) mede verstaan een ander in verband met de handicap noodzakelijk hulpmiddel van een dusdanige omvang of een dusdanig gewicht, dat de gehandicapte, rekening houdend met zijn specifieke handicap, voor zijn vervoer is aangewezen op het gebruik van een bestelauto.
 
 2. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 5a
+#### Artikel 5a
 
 1. Het verzoek om toepassing van [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37a) gaat vergezeld van een afschrift van de beschikking, bedoeld in [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), onderscheidenlijk in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7).
 
@@ -127,7 +102,7 @@ Vervallen
 
 - c. een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Deze regeling treedt in werking met ingang van 1 april 1995.
 
@@ -139,7 +114,7 @@ Ligt ter inzage.
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
 
-##### Artikel 4b
+#### Artikel 4b
 
 1. De in [artikel 24b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b) bedoelde periode van terbeschikkingstelling van een bestelauto bedraagt vier weken, verminderd met voorafgaande aansluitende periodes van terbeschikkingstelling van enige bestelauto door de ondernemer aan dezelfde persoon.
 
@@ -173,7 +148,7 @@ Ligt ter inzage.
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
 
-##### Artikel 4c
+#### Artikel 4c
 
 1. De belastingplichtige betaalt de belasting voor nog niet aangevangen tijdvakken in maandelijkse termijnen indien de belastingplichtige de ontvanger machtigt tot automatische incasso van toekomstige verplichtingen tot betaling van de belasting.
 
@@ -189,7 +164,7 @@ Ligt ter inzage.
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
 
-##### Artikel 4bis
+#### Artikel 4bis
 
 1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat belastingplichtige als bedoeld in [artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), verzoekt tot wijziging of opneming van gegevens inzake de fijnstofuitstoot in het kentekenregister. [Artikel 43e van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e)is van toepassing.
 
@@ -209,7 +184,7 @@ Ligt ter inzage.
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
 
-##### Artikel 4ter
+#### Artikel 4ter
 
 1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat een belastingplichtige als bedoeld in [artikel 7, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) de inspecteur verzoekt tot toepassing van een specifieke fijnstofuitstoot.
 

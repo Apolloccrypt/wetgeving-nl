@@ -1,39 +1,14 @@
 ---
-title: "Wet van 5 juni 1913, tot regeling der arbeiders-ziekteverzekering"
+title: "Ziektewet"
 identifier: "BWBR0001888"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001888"
-soort: "wet"
-stam_id: "3039153"
-version_id: "12486592"
-internal_id: "C16847131"
-label_id: "2990404"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001888/2026-01-01/0"
-intitule_bron: "Stb.1913-204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1913-06-05"
-intitule_status: "goed"
-original_publication: "Stb.2005-573"
-original_signed_date: "2005-11-10"
-original_published_date: "2005-11-22"
-original_effect: "structuurwijziging"
-original_dossier: "30118"
-original_url_id: "stb-2005-573"
-entry_into_force_date: "2005-12-29"
-jci_1_3: "jci1.3:c:BWBR0001888&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0001888&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Ziektewet"
-signed_date: "2005-11-10"
-entry_into_force: "2005-12-29"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0001888"
 ---
-# Wet van 5 juni 1913, tot regeling der arbeiders-ziekteverzekering
+
+# Ziektewet
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -45,7 +20,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 #### § 1. Algemeen
 
-##### Artikel 1
+#### Artikel 1
 
 1. Voor de toepassing van deze wet en van de tot haar uitvoering genomen besluiten wordt verstaan onder:
 
@@ -113,23 +88,23 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 9. Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-##### Artikel 2
+#### Artikel 2
 
 1. Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.
 
 2. Voor de toepassing van het eerste lid worden schepen die binnen Nederland hun thuishaven hebben, beschouwd als deel van Nederland.
 
-##### Artikel 2a
+#### Artikel 2a
 
 Vervallen
 
-##### Artikel 2b
+#### Artikel 2b
 
 Vervallen
 
 #### § 2. De werknemer
 
-##### Artikel 3
+#### Artikel 3
 
 1. Werknemer is de natuurlijke persoon die in privaatrechtelijke of in publiekrechtelijke dienstbetrekking staat.
 
@@ -161,7 +136,7 @@ Vervallen
 
 - b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), rechtmatig in Nederland verblijf hebben als bedoeld in [artikel 8, onderdeel g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-##### Artikel 3a
+#### Artikel 3a
 
 Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen:
 
@@ -169,7 +144,7 @@ Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. wordt niet als werknemer beschouwd de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
 
-##### Artikel 4
+#### Artikel 4
 
 1. Als dienstbetrekking wordt mede beschouwd de arbeidsverhouding van:
 
@@ -225,7 +200,7 @@ Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - c. directeur-grootaandeelhouder is als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01), en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is.
 
-##### Artikel 5
+#### Artikel 5
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, ingevolge welke eveneens als dienstbetrekking wordt beschouwd de arbeidsverhouding van:
 
@@ -237,7 +212,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, in
 
 - d. degene, die tegen beloning persoonlijk arbeid verricht en wiens arbeidsverhouding niet reeds ingevolge de voorgaande bepalingen als dienstbetrekking wordt beschouwd, doch hiermede maatschappelijk gelijk kan worden gesteld.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Als dienstbetrekking wordt niet beschouwd de arbeidsverhouding van:
 
@@ -271,11 +246,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld, in
 
 5. Door Onze Minister worden, in overeenstemming met Onze Minister van Financiën, regels gesteld omtrent hetgeen onder directeur-grootaandeelhouder, bedoeld in het eerste lid, onderdeel **d**, wordt verstaan.
 
-##### Artikel 6a
+#### Artikel 6a
 
 Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 Voor de toepassing van deze wet wordt als werknemer beschouwd:
 
@@ -287,7 +262,7 @@ Voor de toepassing van deze wet wordt als werknemer beschouwd:
 
 - 2°. als gevolg van de regels gesteld in de ministeriële regeling op grond van artikel 1a, tweede lid, van de Werkloosheidswet geen arbeidsuren minder heeft als bedoeld onder 1°.
 
-##### Artikel 8
+#### Artikel 8
 
 Voor de toepassing van deze wet wordt mede als werknemer beschouwd:
 
@@ -297,13 +272,13 @@ Voor de toepassing van deze wet wordt mede als werknemer beschouwd:
 
 - c. degene, die wegens ziekte niet werkt, doch aan wie geen ziekengeld wordt betaald op grond van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), maar wel een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
 
-##### Artikel 8a
+#### Artikel 8a
 
 1. Voor de toepassing van deze wet wordt mede als werknemer beschouwd degene, die op grond van de verplichte verzekering ingevolge de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) uitkering ontvangt.
 
 2. Het eerste lid is niet van toepassing op diegene die niet in Nederland woont.
 
-##### Artikel 8b
+#### Artikel 8b
 
 1. Tot een bij of krachtens algemene maatregel van bestuur, op voordracht van Onze Minister tezamen met Onze Minister van Binnenlandse Zaken, te bepalen tijdstip:
 
@@ -315,7 +290,7 @@ Voor de toepassing van deze wet wordt mede als werknemer beschouwd:
 
 3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen nadere en, zo nodig, tijdelijk van deze wet afwijkende regels worden gesteld.
 
-##### Artikel 8c
+#### Artikel 8c
 
 Voor de toepassing van deze wet wordt mede als werknemer beschouwd:
 
@@ -327,11 +302,11 @@ Voor de toepassing van deze wet wordt mede als werknemer beschouwd:
 
 #### § 3. De werkgever
 
-##### Artikel 9
+#### Artikel 9
 
 Werkgever is de overheidswerkgever onderscheidenlijk de natuurlijke persoon tot wie of het lichaam tot welk een of meer natuurlijke personen in dienstbetrekking staan.
 
-##### Artikel 10
+#### Artikel 10
 
 Als werkgever wordt beschouwd:
 
@@ -341,7 +316,7 @@ Als werkgever wordt beschouwd:
 
 - c. de aangewezen inhoudingsplichtige, bedoeld in [artikel 6, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=6).
 
-##### Artikel 11
+#### Artikel 11
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen wordt als werkgever beschouwd in de gevallen, bedoeld in de [artikelen 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [8, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8a&z=2026-01-01&g=2026-01-01) en [8c, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8c&z=2026-01-01&g=2026-01-01).
 
@@ -353,11 +328,11 @@ Als werkgever wordt beschouwd:
 
 5. Bij ministeriële regeling kunnen met betrekking tot de door de werkgever verschuldigde premies, bedoeld in het derde lid, nadere regels worden gesteld.
 
-##### Artikel 11a
+#### Artikel 11a
 
 Vervallen
 
-##### Artikel 12
+#### Artikel 12
 
 Onze Minister kan, in overeenstemming met Onze Minister van Financiën, in afwijking van het bepaalde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) een ander dan de aldaar bedoelde personen aanwijzen als werkgever met betrekking tot:
 
@@ -367,25 +342,25 @@ Onze Minister kan, in overeenstemming met Onze Minister van Financiën, in afwij
 
 - c. degene, die als musicus of anderszins als artiest optreedt dan wel als beroep een tak van sport beoefent.
 
-##### Artikel 13
+#### Artikel 13
 
 De werkgever is verplicht de werknemer gelegenheid te geven tot het uitoefenen van de hem bij of krachtens deze wet toegekende bevoegdheden en tot het nakomen van de hem bij of krachtens deze wet opgelegde verplichtingen, voor zover de uitoefening van die bevoegdheden en de nakoming van die verplichtingen niet buiten de arbeidstijd kan geschieden.
 
 #### § 4. Het loon
 
-##### Artikel 14
+#### Artikel 14
 
 1. Deze wet verstaat onder loon het loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3).
 
 2. Loon, door verschillende personen tezamen onverdeeld genoten, wordt, voor zover niet blijkt van een andere verdeling, geacht door ieder van hen voor een gelijk deel te zijn genoten.
 
-##### Artikel 15
+#### Artikel 15
 
 1. Voor de berekening van het ziekengeld waarop op grond van deze wet recht bestaat wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer in de periode van één jaar, die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ongeschiktheid tot werken als bedoeld in [artikel 19, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19&z=2026-01-01&g=2026-01-01), is ingetreden, verdiende in de dienstbetrekking waaruit hij door ziekte ongeschikt is geworden tot het verrichten van zijn arbeid, doch ten hoogste het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag.
 
 2. Bij algemene maatregel van bestuur worden, onder meer wanneer de dienstbetrekking, bedoeld in het eerste lid, korter heeft geduurd dan het jaar, bedoeld in het eerste lid, ten aanzien van de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zo nodig afwijkende regels gesteld.
 
-##### Artikel 30
+#### Artikel 30
 
 1. De zieke werknemer is verplicht:
 
@@ -403,17 +378,17 @@ De werkgever is verplicht de werknemer gelegenheid te geven tot het uitoefenen v
 
 5. Onder passende arbeid als bedoeld in het eerste lid wordt, gedurende de eerste periode van zes maanden waarin recht bestaat op ziekengeld, verstaan arbeid die aansluit bij de arbeid waaruit de werknemer ziek is geworden. Na deze periode van zes maanden is alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, passend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd. Niet als passend wordt beschouwd arbeid op grond van een dienstbetrekking als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3) of arbeid op grond waarvan men niet als werknemer in de zin van de Werkloosheidswet wordt aangemerkt. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het begrip passende arbeid, waarbij tevens wordt bepaald op welke wijze wordt vastgesteld of arbeid aansluit bij de arbeid waaruit de werknemer ziek is geworden, alsmede in welke gevallen een periode waarin een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) bestaat, wordt meegeteld bij de vaststelling van de periode, bedoeld in de eerste zin.
 
-##### Artikel 17
+#### Artikel 17
 
 Vervallen
 
-##### Artikel 18
+#### Artikel 18
 
 Vervallen
 
 ### afdeling Tweede. Van de verzekering van uitkering van ziekengeld
 
-##### Artikel 19
+#### Artikel 19
 
 1. De verzekerde heeft bij ongeschiktheid tot het verrichten van zijn arbeid als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte recht op ziekengeld overeenkomstig het bij of krachtens deze wet bepaalde.
 
@@ -425,7 +400,7 @@ Vervallen
 
 5. Ten aanzien van een verzekerde die geen werkgever heeft als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01) wordt onder ongeschiktheid tot het verrichten van zijn arbeid verstaan: ongeschiktheid tot het verrichten van werkzaamheden die bij een soortgelijke werkgever gewoonlijk kenmerkend voor zijn arbeid zijn. In afwijking van de eerste zin wordt indien de verzekerde de arbeid gedurende minder dan een week heeft verricht en daaraan voorafgaand gedurende ten minste zes maanden andere arbeid heeft verricht onder ongeschiktheid tot het verrichten van zijn arbeid verstaan: ongeschiktheid tot het verrichten van werkzaamheden die gewoonlijk kenmerkend zijn voor de andere arbeid die in die zes maanden hoofdzakelijk is verricht.
 
-##### Artikel 19a
+#### Artikel 19a
 
 1. Geen recht op ziekengeld heeft de verzekerde gedurende de periode dat hij niet in Nederland woont.
 
@@ -443,7 +418,7 @@ Vervallen
 
 - b. in Curaçao, Aruba, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-##### Artikel 19b
+#### Artikel 19b
 
 1. Geen recht op ziekengeld heeft de verzekerde gedurende de periode dat hem rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd. Indien de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid is gelegen in een periode dat de verzekerde rechtens zijn vrijheid is ontnomen, ontstaat geen recht op ziekengeld.
 
@@ -457,43 +432,43 @@ Vervallen
 
 ### Hoofdstuk I. Van de verzekerden
 
-##### Artikel 20
+#### Artikel 20
 
 De werknemers in de zin van deze wet zijn verzekerd.
 
-##### Artikel 21
+#### Artikel 21
 
 In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=I&artikel=20&z=2026-01-01&g=2026-01-01) wordt voor de toepassing van de tweede afdeling, hoofdstuk II en van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2026-01-01&g=2026-01-01), de werknemer niet als verzekerde beschouwd voor zover hij werknemer is als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8a&z=2026-01-01&g=2026-01-01) of werknemer is als bedoeld in [artikel 8c, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8c&z=2026-01-01&g=2026-01-01), voor zover hij gelijkgestelde is als bedoeld in [artikel 3.6, eerste lid, onderdeel b, onder 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6).
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
-##### Artikel 23
+#### Artikel 23
 
 Vervallen
 
-##### Artikel 24
+#### Artikel 24
 
 Vervallen
 
-##### Artikel 25
+#### Artikel 25
 
 Vervallen
 
-##### Artikel 26
+#### Artikel 26
 
 Vervallen
 
-##### Artikel 26a
+#### Artikel 26a
 
 Vervallen
 
-##### Artikel 27
+#### Artikel 27
 
 Vervallen
 
-##### Artikel 28
+#### Artikel 28
 
 1. De verzekerde is bij ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte verplicht, zo dikwijls dit nodig wordt geoordeeld, zich te onderwerpen aan een geneeskundig onderzoek door een door het Uitvoeringsinstituut werknemersverzekeringen aangewezen arts, zich op last van de arts tot het ondergaan van zodanig onderzoek te laten opnemen in de hem aangewezen inrichting, en in het algemeen de voorschriften van de arts die ertoe strekken om een geneeskundig onderzoek mogelijk te maken, op te volgen.
 
@@ -501,7 +476,7 @@ Vervallen
 
 ### Hoofdstuk II. Van het ziekengeld
 
-##### Artikel 29
+#### Artikel 29
 
 1. Behoudens het tweede lid, onderdeel e, en de [artikelen 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29a&z=2026-01-01&g=2026-01-01), [29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29d&z=2026-01-01&g=2026-01-01) wordt geen ziekengeld uitgekeerd, indien de verzekerde uit hoofde van de dienstbetrekking op grond waarvan hij de arbeid behoort te verrichten:
 
@@ -567,7 +542,7 @@ Het ziekengeld wordt uitgekeerd aan:
 
 14. Voor de toepassing van het tweede lid, onderdeel d, onder 1°, worden perioden van ongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8) of [3:10, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
-##### Artikel 29a
+#### Artikel 29a
 
 1. De vrouwelijke verzekerde heeft, indien zij, voorafgaand aan de dag waarop zij recht heeft op uitkering op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), of [3:10, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), ongeschikt wordt tot het verrichten van haar arbeid en die ongeschiktheid haar oorzaak vindt in de zwangerschap recht op ziekengeld ter hoogte van haar dagloon vanaf de eerste dag waarop die ongeschiktheid bestaat.
 
@@ -581,7 +556,7 @@ Het ziekengeld wordt uitgekeerd aan:
 
 6. De [artikelen 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29g&z=2026-01-01&g=2026-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01) blijven buiten toepassing ten aanzien van de vrouwelijke verzekerde die op grond van het eerste of tweede lid recht heeft op ziekengeld.
 
-##### Artikel 29b
+#### Artikel 29b
 
 1. De werknemer:
 
@@ -643,7 +618,7 @@ heeft vanaf de eerste dag van zijn ongeschiktheid tot werken recht op ziekengeld
 
 12. Voor de toepassing van dit artikel wordt onder een werknemer als bedoeld in het tweede lid of arbeidsbeperkte als bedoeld in het elfde lid tevens verstaan de persoon die niet langer aan de voorwaarden op grond van het tweede of elfde lid voldoet en als arbeidsbeperkte wordt beschouwd op grond van [artikel 38b, zesde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b) voor zover het betreft zijn perioden van ongeschiktheid tot werken wegens ziekte die zijn aangevangen voordat zijn opname in de registratie van arbeidsbeperkten, bedoeld in [artikel 38d, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38d), eindigt.
 
-##### Artikel 30
+#### Artikel 30
 
 1. De zieke werknemer die in staat is hem passende arbeid te verrichten is verplicht te trachten deze arbeid te verkrijgen en, indien hij daartoe in de gelegenheid wordt gesteld, deze arbeid te verrichten.
 
@@ -653,7 +628,7 @@ heeft vanaf de eerste dag van zijn ongeschiktheid tot werken recht op ziekengeld
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen degene aan wie ziekengeld is toegekend voorschriften geven in het belang van een behandeling of van genezing dan wel voorzover dit voortvloeit uit de taak, bedoeld in [artikel 30 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
 
-##### Artikel 30a
+#### Artikel 30a
 
 1. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van ziekengeld en terzake van weigering van ziekengeld, herziet het Uitvoeringsinstituut werknemersverzekeringen een dergelijk besluit of trekt hij dat in:
 
@@ -665,7 +640,7 @@ heeft vanaf de eerste dag van zijn ongeschiktheid tot werken recht op ziekengeld
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan geheel of gedeeltelijk van herziening of intrekking afzien indien daarvoor dringende redenen zijn.
 
-##### Artikel 31
+#### Artikel 31
 
 1. De verzekerde die aanspraak maakt op ziekengeld en tevens inkomen geniet, is verplicht hiervan vóór de uitkering van ziekengeld op door het Uitvoeringsinstituut werknemersverzekeringen in zijn reglement te bepalen wijze mededeling te doen.
 
@@ -683,15 +658,15 @@ p/100 x A x B/C waarbij:
 
 3. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
-##### Artikel 32
+#### Artikel 32
 
 Vervallen
 
-##### Artikel 32a
+#### Artikel 32a
 
 Vervallen
 
-##### Artikel 33
+#### Artikel 33
 
 1. Het ziekengeld, dat als gevolg van een besluit als bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30a&z=2026-01-01&g=2026-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=45&z=2026-01-01&g=2026-01-01) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.
 
@@ -721,17 +696,17 @@ Vervallen
 
 8. In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.
 
-##### Artikel 33a
+#### Artikel 33a
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=33&z=2026-01-01&g=2026-01-01), invorderen bij dwangbevel.
 
 2. [Artikel 45g](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=45g&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) niet te boven is gegaan, het Uitvoeringsinstituut werknemersverzekeringen de aflossingsbedragen lager vaststelt.
 
-##### Artikel 33b
+#### Artikel 33b
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.
 
-##### Artikel 34
+#### Artikel 34
 
 1. In afwijking van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=33&z=2026-01-01&g=2026-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van de werknemer, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien bij medewerking aan een schuldregeling, indien:
 
@@ -757,7 +732,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 4. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de bevoegdheid om mee te werken aan schuldregelingen.
 
-##### Artikel 35
+#### Artikel 35
 
 1. Na het overlijden van degene, aan wie ziekengeld is toegekend, wordt met ingang van de dag na het overlijden, ziekengeld in de vorm van een overlijdensuitkering uitbetaald:
 
@@ -779,19 +754,19 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 7. De overlijdensuitkering is niet vatbaar voor beslag.
 
-##### Artikel 36
+#### Artikel 36
 
 1. In de gevallen, waarin op de dag van het overlijden van de verzekerde of van degene die verzekerd is geweest, nog geen ziekengeld is toegekend omdat aan het overlijden geen periode van arbeidsongeschiktheid voorafging of [artikel 29, tweede lid, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), van toepassing was, dient de uitbetaling als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=35&z=2026-01-01&g=2026-01-01), plaats te vinden, alsof hem met ingang van de dag na het overlijden ziekengeld is toegekend.
 
 2. Voor de toepassing van het eerste lid, wordt onder degene die verzekerd is geweest uitsluitend verstaan degene die, ware hij niet overleden, doch arbeidsongeschikt geworden, nog aanspraak op ziekengeld had kunnen ontlenen aan [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=46&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 37
+#### Artikel 37
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd verzekerden bij ongeschiktheid tot het verrichten van hun arbeid wegens ziekte op te roepen en te ondervragen op plaats, dag en uur, door hem te bepalen.
 
 2. Opgeroepenen en, indien hun toestand geleide nodig maakt, mede hun geleiders, worden reiskosten, verblijfkosten en tijdverlies vergoed in de gevallen en volgens regels, door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen.
 
-##### Artikel 38
+#### Artikel 38
 
 1. De werkgever van de verzekerde die bij ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte recht heeft op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel aanspraak heeft op bezoldiging op grond van [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), doet, uiterlijk op de eerste dag nadat de ongeschiktheid van die werknemer 42 weken heeft geduurd, aangifte van die ongeschiktheid bij het Uitvoeringsinstituut werknemersverzekeringen. De werkgever geeft daarbij de eerste dag van de ongeschiktheid tot werken op. Voor het bepalen van het tijdvak van 42 weken worden tijdvakken van ongeschiktheid tot werken samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van het tijdvak van 42 weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7) wordt genoten, buiten beschouwing.
 
@@ -809,7 +784,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 8. Indien een aanvraag tot verkorte wachttijd als bedoeld in [artikel 23, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), of een verzoek om verlenging van het tijdvak waarin een verzekerde jegens zijn werkgever recht heeft op loon of bezoldiging als bedoeld in [artikel 24, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=24), wordt ingediend zonder dat een aangifte op grond van het eerste lid heeft plaatsgevonden, wordt deze aanvraag, respectievelijk dit verzoek, beschouwd als een aangifte op grond van het eerste lid.
 
-##### Artikel 38a
+#### Artikel 38a
 
 1. De verzekerde die een werkgever heeft als bedoeld in de eerste afdeling, paragraaf 3, en die aanspraak maakt op ziekengeld is in geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte verplicht dit op de tweede dag van die ongeschiktheid te melden aan zijn werkgever.
 
@@ -833,7 +808,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 9. Indien de werkgever de melding, bedoeld in het tweede of derde lid, niet tijdig doet, kent het Uitvoeringsinstituut werknemersverzekeringen het ziekengeld met terugwerkende kracht toe over de verstreken periode, doch ten hoogste over een jaar.
 
-##### Artikel 39
+#### Artikel 39
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verricht bij verzekerden van wie op grond van [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38&z=2026-01-01&g=2026-01-01) of [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38a&z=2026-01-01&g=2026-01-01) een aangifte van ziekte of van wie een ziekmelding is ontvangen, controle op het bestaan van ongeschiktheid tot het verrichten van hun arbeid wegens ziekte en hij beoordeelt bij gebleken ongeschiktheid of de werkgever zijn taak met betrekking tot verzuimbegeleiding op adequate wijze uitoefent.
 
@@ -843,7 +818,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen stelt het percentage van het maatmaninkomen dat de verzekerde kan verdienen, bedoeld in [artikel 19aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19aa&z=2026-01-01&g=2026-01-01), vast, en controleert of de verzekerde, bedoeld in artikel 19aa, eerste lid, recht heeft op ziekengeld.
 
-##### Artikel 39a
+#### Artikel 39a
 
 1. Indien bij de behandeling van de aangifte of de beoordeling, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38&z=2026-01-01&g=2026-01-01), blijkt dat de werkgever zonder deugdelijke grond zijn verplichtingen op grond van de tweede zin van dat lid of [artikel 71a, eerste, tweede, of vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) dan wel de krachtens het [zevende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) gestelde regels of op grond van [artikel 25, eerste, tweede, of vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25) dan wel de krachtens het zevende lid van dat artikel gestelde regels, niet of niet volledig nakomt of onvoldoende reïntegratie-inspanningen heeft verricht, verhaalt het Uitvoeringsinstituut werknemersverzekeringen op die werkgever het ziekengeld, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), dat zal worden betaald over een door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen tijdvak. Dit tijdvak vangt aan op de eerste dag van ongeschiktheid tot werken nadat de dienstbetrekking is geëindigd en wordt afgestemd op de periode waarin de werkgever de in de vorige volzin bedoelde verplichtingen of regels niet is nagekomen of onvoldoende reïntegratie-inspanningen heeft verricht. Het tijdvak bedraagt ten hoogste 52 weken. Indien binnen het door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde tijdvak een periode van ongeschiktheid tot werken gedurende een periode van vier weken of meer wordt onderbroken door geschiktheid tot werken, wordt het ziekengeld over de periode van ongeschiktheid tot werken die is gelegen na die vier weken of meer weken, niet verhaald op de werkgever, bedoeld in de eerste zin. Het Uitvoeringsinstituut werknemersverzekeringen stelt regels met betrekking tot het vaststellen van het in de tweede zin bedoelde tijdvak. Deze regels behoeven de goedkeuring van Onze Minister.
 
@@ -853,7 +828,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
-##### Artikel 68
+#### Artikel 68
 
 1. De persoon, die om toelating tot de vrijwillige verzekering verzoekt, bedoeld in [artikel 64, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2026-01-01&g=2026-01-01), bepaalt bij de aanvang van de vrijwillige verzekering de hoogte van het dagloon, met dien verstande dat:
 
@@ -865,17 +840,17 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 2. De uitkering op grond van de vrijwillige verzekering wordt berekend naar het in het eerste lid bedoelde dagloon.
 
-##### Artikel 69
+#### Artikel 69
 
 1. De vrijwillig verzekerde heeft recht op ziekengeld, indien hij wegens ziekte, zwangerschap of bevalling ongeschikt is tot het verrichten van hem passende arbeid.
 
 2. De vrouwelijke verzekerde heeft geen recht op ziekengeld gedurende de periode dat zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) of een uitkering op grond van [artikel 3:8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8).
 
-##### Artikel 39d
+#### Artikel 39d
 
 Vervallen
 
-##### Artikel 40
+#### Artikel 40
 
 1. Indien de degene aan wie ziekengeld is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd het ziekengeld tot het bedrag van die bijdrage in plaats van aan degene aan wie het ziekengeld is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
@@ -887,13 +862,13 @@ Vervallen
 
 5. Een herziening van de betaling op grond van het eerste of tweede lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
-##### Artikel 41
+#### Artikel 41
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen schort de betaling van het ziekengeld op indien degene aan wie ziekengeld is toegekend een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. De betaling van het ziekengeld wordt hervat indien betrokkene daartoe een aanvraag indient en het het Uitvoeringsinstituut werknemersverzekeringen is gebleken dat hij feitelijk buiten Nederland woont of verblijf houdt.
 
-##### Artikel 42
+#### Artikel 42
 
 1. Is van de aanvrager of ontvanger van ziekengeld bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.
 
@@ -903,15 +878,15 @@ Vervallen
 
 4. Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van het ziekengeld op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.
 
-##### Artikel 43
+#### Artikel 43
 
 De verzekerde, aan wie een ontheffing wegens gemoedsbezwaren als bedoeld in [artikel 64 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) is verleend, komt geen ziekengeld toe.
 
-##### Artikel 44
+#### Artikel 44
 
 Vervallen
 
-##### Artikel 45
+#### Artikel 45
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen weigert het ziekengeld geheel of gedeeltelijk, tijdelijk of blijvend:
 
@@ -971,7 +946,7 @@ Vervallen
 
 8. Indien aan de persoon, bedoeld in [artikel 29, tweede lid, onderdeel d, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), in de eerste dertien weken van zijn ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte een maatregel op grond van [artikel 27, vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27) is opgelegd, wordt de beschikking waarbij die maatregel is opgelegd vanaf de eerste dag van de veertiende week van zijn ongeschiktheid of zoveel eerder als de uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) eindigt op grond van het bepaalde in [artikel 20, eerste lid, onderdelen a en b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), geacht gebaseerd te zijn op het eerste lid.
 
-##### Artikel 45a
+#### Artikel 45a
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde van de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=31&z=2026-01-01&g=2026-01-01), of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=49&z=2026-01-01&g=2026-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 31, eerste lid, of 49, niet of niet behoorlijk zijn medegedeeld en deze overtredingen opzettelijk zijn begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 31, eerste lid, of 49, niet of niet behoorlijk zijn medegedeeld en deze overtredingen niet opzettelijk zijn begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
@@ -1003,27 +978,27 @@ Vervallen
 
 15. Het besluit tot kwijtschelding, bedoeld in het veertiende lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding is begaan wegens eenzelfde gedraging als bedoeld in het zesde lid.
 
-##### Artikel 45b
+#### Artikel 45b
 
 Vervallen
 
-##### Artikel 45c
+#### Artikel 45c
 
 Vervallen
 
-##### Artikel 45d
+#### Artikel 45d
 
 Vervallen
 
-##### Artikel 45e
+#### Artikel 45e
 
 Vervallen
 
-##### Artikel 45f
+#### Artikel 45f
 
 Vervallen
 
-##### Artikel 45g
+#### Artikel 45g
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in [artikel 45a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=45a&z=2026-01-01&g=2026-01-01), met een uitkering op grond van deze wet, de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), die degene aan wie een bestuurlijke boete is opgelegd ontvangt.
 
@@ -1039,7 +1014,7 @@ Vervallen
 
 - b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij de invordering van een bestuurlijke boete bij dwangbevel.
 
-##### Artikel 46
+#### Artikel 46
 
 1. Degene die binnen vier weken na het einde van zijn verzekering ongeschikt tot werken wordt, heeft tegenover het Uitvoeringsinstituut werknemersverzekeringen aanspraak op ziekengeld alsof hij verzekerd was gebleven. Indien de verzekering berust op een dienstbetrekking als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) ontstaat de in de eerste zin bedoelde aanspraak op ziekengeld eerst na het eindigen van die dienstbetrekking.
 
@@ -1059,11 +1034,11 @@ Vervallen
 
 6. In afwijking van het vijfde lid wordt, voor degene die uitsluitend verzekerd is geweest op grond van [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), indien [artikel 19aa, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19aa&z=2026-01-01&g=2026-01-01), van toepassing is geweest, als ongeschikt tot werken aangemerkt de ongeschiktheid, bedoeld in artikel 19aa, eerste lid, aanhef en onderdeel b.
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 47a
+#### Artikel 47a
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen betaalt geen voorschot indien onzekerheid bestaat over het recht op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of het recht op bezoldiging op grond van [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01).
 
@@ -1079,15 +1054,15 @@ Vervallen
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen stelt het reïntegratiebedrijf in kennis van een besluit tot opschorting of schorsing als bedoeld in het derde lid.
 
-##### Artikel 48
+#### Artikel 48
 
 Voor zover betreft het in ontvangst nemen van een uitkering ingevolge deze wet en het verlenen van kwijting voor de betaling daarvan, wordt een minderjarige met een meerderjarige gelijkgesteld. Indien de wettelijke vertegenwoordiger zich tegen de betaling aan de minderjarige schriftelijk verzet bij het Uitvoeringsinstituut werknemersverzekeringen, geschiedt de uitbetaling aan de wettelijke vertegenwoordiger.
 
-##### Artikel 49
+#### Artikel 49
 
 De verzekerde is verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op of de hoogte van een door hem aangevraagde of aan hem toegekende ziekengelduitkering. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
-##### Artikel 50
+#### Artikel 50
 
 1. Het ziekengeld is:
 
@@ -1099,15 +1074,15 @@ De verzekerde is verplicht aan het Uitvoeringsinstituut werknemersverzekeringen 
 
 3. Elk beding, strijdig met enige bepaling van dit artikel, is nietig.
 
-##### Artikel 51
+#### Artikel 51
 
 Het Rijk is niet aansprakelijk voor het doen van uitkeringen of de verstrekking van bijdragen als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=III&artikel=59&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 52
+#### Artikel 52
 
 Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlijk recht aanspraak kan maken ter zake van zijn ongeschiktheid tot werken wegens ziekte, houdt de rechter rekening met de aanspraken, die hij krachtens deze wet heeft.
 
-##### Artikel 52a
+#### Artikel 52a
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen heeft voor de krachtens deze wet gemaakte kosten verhaal op degene, die in verband met het veroorzaken van ongeschiktheid tot werken jegens de verzekerde naar burgerlijk recht tot schadevergoeding is verplicht, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken krachtens deze wet naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de verzekerde naar burgerlijk recht is gehouden.
 
@@ -1117,13 +1092,13 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 4. De werkgever en het Uitvoeringsinstituut werknemersverzekeringen verstrekken elkaar op verzoek informatie, die noodzakelijk is voor de uitoefening van het regresrecht. Bij deze informatieverstrekking worden persoonsgegevens, waaronder het burgerservicenummer, verwerkt.
 
-##### Artikel 52b
+#### Artikel 52b
 
 1. Het bepaalde in het vorige artikel geldt ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte verzekerde, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wie naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien de ongeschiktheid tot werken is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk verzekerde.
 
 2. Voor de toepassing van het vorige lid wordt mede als werkgever beschouwd de inlener, bedoeld in [artikel 34 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34).
 
-##### Artikel 52c
+#### Artikel 52c
 
 1. Het ziekengeld wordt betaald zonder dat dit bij beschikking is vastgesteld, indien redelijkerwijs mag worden aangenomen dat aan een beschikking geen behoefte bestaat.
 
@@ -1133,11 +1108,11 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 ### Hoofdstuk III. Het Uitvoeringsinstituut werknemersverzekeringen
 
-##### Artikel 53
+#### Artikel 53
 
 In de uitvoering van deze wet wordt voorzien door het Uitvoeringsinstituut werknemersverzekeringen.
 
-##### Artikel 54
+#### Artikel 54
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen stelt een ziekengeldreglement vast.
 
@@ -1145,47 +1120,47 @@ In de uitvoering van deze wet wordt voorzien door het Uitvoeringsinstituut werkn
 
 3. Het ziekengeldreglement mag geen bepalingen bevatten inzake hogere, langere of andere uitkeringen dan deze wet vaststelt dan wel bepaalt.
 
-##### Artikel 55
+#### Artikel 55
 
 1. De werknemer is verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. Voor de toepassing van deze wet gelden aaneensluitende verzekeringen bij het Uitvoeringsinstituut werknemersverzekeringen als één verzekering.
 
-##### Artikel 56
+#### Artikel 56
 
 Vervallen
 
-##### Artikel 57
+#### Artikel 57
 
 Vervallen
 
-##### Artikel 58
+#### Artikel 58
 
 Vervallen
 
-##### Artikel 59
+#### Artikel 59
 
 Bij algemene maatregel van bestuur kan worden bepaald, dat in bij die maatregel aan te wijzen gevallen aan het Uitvoeringsinstituut werknemersverzekeringen de bevoegdheid wordt verleend, te bepalen, dat aan een of meer bij hem verzekerde groepen van werknemers, met inachtneming van bij die maatregel te stellen regels, behalve het in deze wet geregelde ziekengeld andere uitkeringen worden gedaan of bijdragen worden verstrekt voor een of meer sociale fondsen.
 
-##### Artikel 60
+#### Artikel 60
 
 De uitkeringen op grond van deze wet komen ten laste van het Algemeen Werkloosheidsfonds, het Uitvoeringsfonds voor de overheid, het Arbeidsongeschiktheidsfonds en de Werkhervattingskas, genoemd in de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=93), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=106), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=112) en [113a van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=113a).
 
-##### Artikel 61
+#### Artikel 61
 
 1. In afwijking van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=III&artikel=60&z=2026-01-01&g=2026-01-01) komen de uitkeringen op grond van deze wet ten aanzien van overheidswerknemers en degenen die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) of [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8a&z=2026-01-01&g=2026-01-01) werknemer zijn wegens het ontvangen van een uitkering uit hoofde van een dienstbetrekking als overheidswerknemer, ten laste van het Uitvoeringsfonds voor de overheid, bedoeld in [artikel 106 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=106).
 
 2. In afwijking van het eerste lid en [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=III&artikel=60&z=2026-01-01&g=2026-01-01) komen de uitgaven en de kosten verbonden aan de verstrekking van uitkeringen en aan de reïntegratie van personen als bedoeld in [artikel 4, eerste lid, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), alsmede de op grond van enige wet over deze uitkeringen door het Uitvoeringsinstituut werknemersverzekeringen verschuldigde premies die niet op deze uitkeringen in mindering kunnen worden gebracht en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), ten laste van het Rijk.
 
-##### Artikel 62
+#### Artikel 62
 
 Het Uitvoeringsinstituut werknemersverzekeringen verstrekt, volgens nadere bij ministeriële regeling vast te stellen regels, uit de door dit instituut gevoerde administratie aan een daartoe door Onze Minister aangewezen onder hem ressorterende ambtenaar, gegevens omtrent het ziekteverzuim van werknemers.
 
-##### Artikel 63
+#### Artikel 63
 
 Vervallen
 
-##### Artikel 63a
+#### Artikel 63a
 
 1. De eigenrisicodrager verricht met betrekking tot de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), die laatstelijk tot hem in dienstbetrekking stonden, de werkzaamheden ter zake van de voorbereiding van besluiten op grond van deze wet inzake uitkeringen, met uitzondering van besluiten op grond van [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=45a&z=2026-01-01&g=2026-01-01) en besluiten op grond van bezwaar of beroep. De eigenrisicodrager begeleidt de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), die laatstelijk tot hem in dienstbetrekking stonden, bij gebleken ongeschiktheid tot het verrichten van arbeid wegens ziekte als zou hij in een privaatrechtelijke dienstbetrekking tot de eigenrisicodrager staan, met toepassing van [artikel 26, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) dan wel [artikel 71b, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71b).
 
@@ -1207,7 +1182,7 @@ Vervallen
 
 ### Hoofdstuk III. Het Uitvoeringsinstituut werknemersverzekeringen
 
-##### Artikel 64
+#### Artikel 64
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen is verplicht overeenkomstig het bij of krachtens dit hoofdstuk bepaalde tot de vrijwillige verzekering toe te laten, mits hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt en hier te lande woont:
 
@@ -1251,7 +1226,7 @@ Vervallen
 
 4. Met de Nederlander, bedoeld in het tweede lid, onderdeel b, c en e, wordt gelijkgesteld de persoon, die onderdaan is van één van de lidstaten van de Europese Gemeenschap of onderdaan is van een Staat, waarmee Nederland een verdrag inzake sociale zekerheid heeft gesloten, mits hij voor hij werd uitgezonden in Nederland woonde.
 
-##### Artikel 65
+#### Artikel 65
 
 1. De in [artikel 64, eerste lid, onderdeel c respectievelijk d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2026-01-01&g=2026-01-01), genoemde termijn van één jaar respectievelijk van drie jaren wordt geacht niet te zijn onderbroken:
 
@@ -1263,7 +1238,7 @@ Vervallen
 
 2. De in [artikel 64, eerste lid, onderdeel c respectievelijk d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2026-01-01&g=2026-01-01), genoemde voorwaarde van een verzekeringsduur van één jaar respectievelijk van drie jaren wordt geacht te zijn vervuld, indien de betrokkene in het genot is van een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
-##### Artikel 66
+#### Artikel 66
 
 1. Het verzoek om toelating tot de vrijwillige verzekering wordt ingediend bij het Uitvoeringsinstituut werknemersverzekeringen:
 
@@ -1299,11 +1274,11 @@ Vervallen
 
 - f. voor de in [artikel 64, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2026-01-01&g=2026-01-01), bedoelde persoon: op de dag, waarop zijn werkzaamheden buiten Nederland een aanvang hebben genomen.
 
-##### Artikel 67
+#### Artikel 67
 
 Vervallen
 
-##### Artikel 67a
+#### Artikel 67a
 
 Het Uitvoeringsinstituut werknemersverzekeringen beëindigt de vrijwillige verzekering:
 
@@ -1319,7 +1294,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen beëindigt de vrijwillige verze
 
 - f. indien niet langer wordt voldaan aan andere vereisten voor toelating tot de vrijwillige verzekering, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2026-01-01&g=2026-01-01), tweede lid.
 
-##### Artikel 68
+#### Artikel 68
 
 1. De persoon, die om toelating tot de vrijwillige verzekering verzoekt, bedoeld in [artikel 64, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=64&z=2002-04-01&g=2002-04-01), bepaalt bij de aanvang van de vrijwillige verzekering de hoogte van het dagloon, met dien verstande dat:
 
@@ -1335,19 +1310,19 @@ Het Uitvoeringsinstituut werknemersverzekeringen beëindigt de vrijwillige verze
 
 4. De uitkering op grond van de vrijwillige verzekering wordt berekend naar het in het eerste lid bedoelde dagloon.
 
-##### Artikel 69
+#### Artikel 69
 
 1. De vrijwillig verzekerde heeft recht op ziekengeld, indien hij wegens ziekte, zwangerschap of bevalling ongeschikt is tot het verrichten van hem passende arbeid.
 
 2. De vrouwelijke verzekerde heeft geen recht op ziekengeld gedurende de periode dat zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) of een uitkering op grond van [artikel 3:8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8).
 
-##### Artikel 70
+#### Artikel 70
 
 1. Het ziekengeld van de vrijwillig verzekerde die bij ongeschiktheid tot werken wegens ziekte geen aanspraak kan maken op betaling van loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of bezoldiging als bedoeld in [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), wordt uitgekeerd vanaf de derde dag van de ongeschiktheid tot werken.
 
 2. Het ziekengeld bedraagt 70% van het dagloon van de verzekerde.
 
-##### Artikel 71
+#### Artikel 71
 
 Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekking tot de vrijwillige verzekering. Deze regels bevatten in ieder geval bepalingen met betrekking tot:
 
@@ -1357,7 +1332,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekk
 
 - c. het dagloon, bedoeld in [artikel 68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IV&artikel=68&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 72
+#### Artikel 72
 
 Met betrekking tot het bepaalde bij of krachtens dit hoofdstuk zijn, met inachtneming van de wijzigingen, welke de aard van het onderwerp vordert, de overige bepalingen van deze wet en de ter uitvoering van die bepalingen genomen besluiten, voor zoveel nodig, van overeenkomstige toepassing, voor zover daarvan in het bij of krachtens dit hoofdstuk bepaalde niet is afgeweken.
 
@@ -1365,35 +1340,35 @@ Met betrekking tot het bepaalde bij of krachtens dit hoofdstuk zijn, met inachtn
 
 #### § 1. Algemeen
 
-##### Artikel 72a
+#### Artikel 72a
 
 In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is de werkgever geen belanghebbende bij een besluit van het Uitvoeringsinstituut werknemersverzekeringen over het verzekerd zijn op grond van deze wet als bedoeld in [artikel 72c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=1&artikel=72c&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 72b
+#### Artikel 72b
 
 Vervallen
 
-##### Artikel 73
+#### Artikel 73
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de behandeling van bezwaarschriften tegen besluiten, waaraan een medische beoordeling ten grondslag ligt.
 
-##### Artikel 73a
+#### Artikel 73a
 
 1. Indien bezwaar wordt gemaakt tegen een beschikking waaraan een verzekeringsgeneeskundige of arbeidskundige beoordeling als bedoeld in [artikel 19ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19ab&z=2026-01-01&g=2026-01-01), ten grondslag ligt, beslist het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), binnen zeventien weken of, indien het advies vraagt aan een deskundige die niet onder zijn verantwoordelijkheid werkzaam is, binnen eenentwintig weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
 2. Indien in verband met het geven van een beslissing op bezwaar een in het buitenland wonende persoon is opgeroepen en om die reden de beslissing op bezwaar niet binnen de in het eerste lid bedoelde termijn gegeven kan worden, wordt de beslissing, in afwijking van [artikel 7:10, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), verdaagd met ten hoogste zes maanden en wordt de aanvrager van deze verdaging schriftelijk in kennis gesteld.
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
-##### Artikel 74
+#### Artikel 74
 
 In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
 #### § 2. Geschillen van geneeskundige aard
 
-##### Artikel 75
+#### Artikel 75
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
@@ -1403,11 +1378,11 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - c. werkgever: de belanghebbende bij een medische beschikking, die niet de werknemer is.
 
-##### Artikel 75a
+#### Artikel 75a
 
 Vervallen
 
-##### Artikel 75b
+#### Artikel 75b
 
 1. De inzage in, dan wel kennisname of toezending van stukken die medische gegevens bevatten, is voorbehouden aan de bedrijfsarts of de arbodienst van de eigenrisicodrager dan wel aan een gemachtigde van de eigenrisicodrager of van de werkgever die advocaat of arts is dan wel daarvoor van het Uitvoeringsinstituut werknemersverzekeringen bijzondere toestemming heeft gekregen.
 
@@ -1425,7 +1400,7 @@ voorzover betrekking hebbend op medische gegevens.
 
 #### § 3. Beroep in cassatie
 
-##### Artikel 75c
+#### Artikel 75c
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen vermeldt de motivering van een medische beschikking, voorzover betrekking hebbend op medische gegevens, in een aparte bijlage.
 
@@ -1437,7 +1412,7 @@ voorzover betrekking hebbend op medische gegevens.
 
 ### Hoofdstuk IIIb. Verhaal ziekengeld aan AOW-gerechtigde werknemer
 
-##### Artikel 76
+#### Artikel 76
 
 Deze afdeling is van toepassing op personen die:
 
@@ -1445,53 +1420,53 @@ Deze afdeling is van toepassing op personen die:
 
 - b. op grond van de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) de militaire dienst vervullen dan wel die op grond van de [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386) zijn verplicht tot het verrichten van vervangende dienst.
 
-##### Artikel 77
+#### Artikel 77
 
 Vervallen
 
-##### Artikel 78
+#### Artikel 78
 
 Vervallen
 
-##### Artikel 79
+#### Artikel 79
 
 Vervallen
 
-##### Artikel 80
+#### Artikel 80
 
 Vervallen
 
-##### Artikel 81
+#### Artikel 81
 
 Vervallen
 
-##### Artikel 82
+#### Artikel 82
 
 Vervallen
 
-##### Artikel 83
+#### Artikel 83
 
 De bij of krachtens deze wet strafbaar gestelde feiten zijn overtredingen.
 
-##### Artikel 84
+#### Artikel 84
 
 Vervallen
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 85
+#### Artikel 85
 
 De termijnen van het ziekengeld, welke niet zijn ingevorderd binnen twee jaren na de dag der betaalbaarstelling, worden niet meer uitbetaald.
 
-##### Artikel 86
+#### Artikel 86
 
 Vervallen
 
-##### Artikel 87
+#### Artikel 87
 
 [Artikel 29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), zoals dat luidde voor inwerkingtreding van [artikel XXXIII, onderdeel C, onder 1, van de Verzamelwet SZW 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041571&artikel=XXXIII), blijft van toepassing op ZW-uitkeringen waar reeds inkomen uit of in verband met opleiding of scholing op de uitkering in mindering wordt gebracht, voor zover het inkomen meer bedraagt dan de vergoeding, bedoeld in [artikel 1 van de Regeling vrijlating vergoedingen scholing Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016067&artikel=1).
 
-##### Artikel 87a
+#### Artikel 87a
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in afwijking van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), ziekengeld wordt uitgekeerd aan verzekerden die in dienstbetrekking staan tot bij of krachtens die maatregel te bepalen werkgevers.
 
@@ -1501,17 +1476,17 @@ Vervallen
 
 4. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-##### Artikel 88
+#### Artikel 88
 
 1. Een overeenkomst met betrekking tot de verzekering van geldelijke gevolgen van ongeschiktheid tot werken wegens ziekte, gesloten door degene, die verplicht verzekerd wordt, vervalt met ingang van de dag, waarop de verzekeraar van de verzekerde mededeling van het verplicht verzekerd worden ontvangt, voor zover aan de overeenkomst rechten kunnen worden ontleend, gelijkwaardig aan die, welke uit de in deze wet geregelde verplichte verzekering voortvloeien. Bereikt deze mededeling de verzekeraar vóór de dag, waarop de betrokkene verplicht verzekerd wordt, dan vervalt de overeenkomst met ingang van die dag.
 
 2. De premie, welke degene, wiens verzekering krachtens het bepaalde in het eerste lid geheel of gedeeltelijk is vervallen, heeft vooruitbetaald, wordt door de verzekeraar al naar gelang van het vervallen gedeelte der overeenkomst terugbetaald, onder aftrek van ten hoogste 25 procent van het terug te betalen bedrag voor administratiekosten.
 
-##### Artikel 89
+#### Artikel 89
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de in deze wet gestelde termijnen van uitkering van geldelijke schadeloosstelling alsmede op de termijnen, gesteld in de [artikelen 6, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01), [29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=35&z=2026-01-01&g=2026-01-01) en [46, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=46&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 90
+#### Artikel 90
 
 1. Als werknemer in de zin van [artikel 29b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), wordt, naast de werknemers bedoeld in dat lid, eveneens aangemerkt de persoon die voorafgaand aan de inwerkingtreding van [artikel 1.4, onderdeel G, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.4) arbeidsgehandicapte was op grond van [artikel 2 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=2), zoals dat luidde op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=2) vervalt op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), voor de duur van:
 
@@ -1531,13 +1506,13 @@ De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is n
 
 2. In afwijking van het eerste lid, onderdeel a, geldt geen duurbeperking voor de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 1.4, onderdeel G, van de Wet Invoering en financiering Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.4) arbeidsgehandicapte was op grond van zijn recht op een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
-##### Artikel 91
+#### Artikel 91
 
 [Artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor de inwerkingtreding van [artikel 1.4, onderdeel G, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.4), blijft van toepassing op de werknemer die op of voor die dag recht had op ziekengeld op grond van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01). Het ziekengeld, bedoeld in de eerste volzin, wordt niet betaald na de periode waarover de werknemer op grond van [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor de inwerkingtreding van [artikel 1.4, onderdeel G, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.4), recht had.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 30b
+#### Artikel 30b
 
 1. De intrekking of verlaging van een uitkering, die voortvloeit uit het door de werkgever ingesteld bezwaar of beroep, vindt niet eerder plaats dan de dag volgend op die waarop de beslissing op bezwaar is bekendgemaakt of de uitspraak is gedaan. De eerste zin is van overeenkomstige toepassing in geval van intrekking van het bezwaar of beroep omdat het Uitvoeringsinstituut werknemersverzekeringen geheel of gedeeltelijk is tegemoet gekomen aan het bezwaar of beroep van de werkgever.
 
@@ -1547,7 +1522,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk III. Het Uitvoeringsinstituut werknemersverzekeringen
 
-##### Artikel 63b
+#### Artikel 63b
 
 1. De eigenrisicodrager draagt het risico, bedoeld in [artikel 40, eerste lid, aanhef en onderdeel a, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), voorzover de eerste dag van ongeschiktheid tot werken is gelegen op of na de dag waarop de werkgever eigenrisicodrager is geworden.
 
@@ -1557,7 +1532,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. Indien slechts een deel van een onderneming als bedoeld in het derde lid overgaat, blijft het in dat lid bedoelde risico berusten bij de werkgever die een deel van de onderneming overdraagt.
 
-##### Artikel 63c
+#### Artikel 63c
 
 1. De eigenrisicodrager laat zich ter zake van de begeleiding bij gebleken ongeschiktheid tot het verrichten van arbeid wegens ziekte van de personen, bedoeld in [artikel 63a, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIIA&artikel=63a&z=2026-01-01&g=2026-01-01), bijstaan door een bedrijfsarts of arbodienst. Hetgeen bij of krachtens de [artikelen 14, tweede, vierde tot en met elfde, en vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14a), [16, eerste lid, tweede lid, onderdeel b, vierde lid, onderdeel b, en tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) is bepaald met betrekking tot de bedrijfsarts of arbodienst is van overeenkomstige toepassing, met dien verstande dat voor «werkgever» wordt gelezen «de eigenrisicodrager» en voor «werknemer» «de persoon, bedoeld in artikel 63a, eerste lid, tweede zin, van de Ziektewet» en dat de verplichting tot schriftelijke vastlegging door of vanwege een overeenkomst, bedoeld in [artikel 14, vierde en vijfde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), slechts betrekking heeft op de taak, bedoeld in de eerste zin.
 
@@ -1571,11 +1546,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. De toestemming, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) kan, onverminderd het tiende lid van dat artikel, door de inspecteur, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1), zonder aanvraag van de eigenrisicodrager met onmiddellijke ingang bij voor bezwaar vatbare beschikking worden beëindigd, indien de eigenrisicodrager zich met betrekking tot de begeleiding, bedoeld in het eerste lid, niet meer laat bijstaan door een bedrijfsarts of een arbodienst.
 
-##### Artikel 63d
+#### Artikel 63d
 
 Voor de toepassing van dit hoofdstuk wordt de ongeschiktheid tot werken geacht niet te zijn onderbroken, indien de tijdvakken van ongeschiktheid tot werken elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8) of [3:10, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
-##### Artikel 63e
+#### Artikel 63e
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verhaalt op de werkgever, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01), het ziekengeld, alsmede de overlijdensuitkering, bedoeld in artikel 35, vermeerderd met de verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=42), dat door het Uitvoeringsinstituut werknemersverzekeringen is betaald aan de verzekerde ten aanzien van wie de eerste dag van de ongeschiktheid tot werken is gelegen op of na de dag dat de verzekerde de leeftijd, bedoeld in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) heeft bereikt, met uitzondering van het ziekengeld, bedoeld in [artikel 29, tweede lid, onderdelen e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01).
 
@@ -1589,13 +1564,13 @@ Voor de toepassing van dit hoofdstuk wordt de ongeschiktheid tot werken geacht n
 
 ### Hoofdstuk IIA. Reïntegratie-instrumenten
 
-##### Artikel 69
+#### Artikel 69
 
 1. De vrijwillig verzekerde heeft recht op ziekengeld, indien hij wegens ziekte, zwangerschap of bevalling ongeschikt is tot het verrichten van hem passende arbeid.
 
 2. De vrouwelijke verzekerde heeft geen recht op ziekengeld gedurende de periode dat zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) of een uitkering op grond van [artikel 3:8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8).
 
-##### Artikel 70
+#### Artikel 70
 
 1. Het ziekengeld van de vrijwillig verzekerde die bij ongeschiktheid tot werken wegens ziekte geen aanspraak kan maken op betaling van loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of bezoldiging als bedoeld in [artikel XV, tweede lid, van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV), wordt uitgekeerd vanaf de derde dag van de ongeschiktheid tot werken.
 
@@ -1605,51 +1580,51 @@ Voor de toepassing van dit hoofdstuk wordt de ongeschiktheid tot werken geacht n
 
 #### § 1. Algemeen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
 #### § 1. Algemeen
 
-##### Artikel 75d
+#### Artikel 75d
 
 Bij de bekendmaking van een medische beschikking wordt gewezen op de [artikelen 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=2&artikel=75b&z=2026-01-01&g=2026-01-01), [75c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=2&artikel=75c&z=2026-01-01&g=2026-01-01) en [75e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=2&artikel=75e&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 75e
+#### Artikel 75e
 
 De gronden van het bezwaar of beroep, bedoeld in [artikel 6:5, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), worden in een aparte bijlage vermeld voorzover ze betrekking hebben op medische gegevens.
 
-##### Artikel 75f
+#### Artikel 75f
 
 1. Indien [artikel 8:32, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:32) is toegepast, vindt in afwijking van [artikel 8:62, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:62) het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de bestuursrechter ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.
 
 2. In de uitnodiging, bedoeld in [artikel 8:56 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:56), wordt mededeling gedaan van het eerste lid.
 
-##### Artikel 75g
+#### Artikel 75g
 
 [Artikel 75f](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=2&artikel=75f&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing bij de behandeling van het hoger beroep en bij de behandeling van een verzoek om een voorlopige voorziening.
 
-##### Artikel 75h
+#### Artikel 75h
 
 1. In afwijking van [artikel 8:62 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:62) vindt het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats.
 
 2. In de uitnodiging, bedoeld in [artikel 8:56 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:56), wordt mededeling gedaan van het bepaalde in het vorige lid.
 
-##### Artikel 75i
+#### Artikel 75i
 
 De toepassing van de [artikelen 8:81 tot en met 8:88 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), alsmede de behandeling van hoger beroep als bedoeld in [artikel 18 van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=18) geschiedt voorzover nodig met inachtneming van deze paragraaf.
 
-##### Artikel 75j
+#### Artikel 75j
 
 Deze paragraaf is van toepassing op geschillen van geneeskundige aard over het al dan niet bestaan of voortbestaan van ongeschiktheid tot werken.
 
-##### Artikel 75k
+#### Artikel 75k
 
 In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een bezwaarschrift in een geschil als bedoeld in [artikel 75j](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=3&artikel=75j&z=2026-01-01&g=2026-01-01) twee weken, tenzij het geschil betrekking heeft op een beoordeling als bedoeld in [artikel 19ab](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19ab&z=2026-01-01&g=2026-01-01).
 
 #### § 1. Algemeen
 
-##### Artikel 75c
+#### Artikel 75c
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=1&artikel=1&z=2003-09-01&g=2003-09-01), derde tot en met zevende lid, en de daarop berustende bepalingen.
 
@@ -1659,13 +1634,13 @@ In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ### Hoofdstuk I. Strafbepalingen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 86
+#### Artikel 86
 
 Vervallen
 
@@ -1673,7 +1648,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 1. Algemeen
 
-##### Artikel 75l
+#### Artikel 75l
 
 1. In afwijking van [artikel 7:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4) kunnen belanghebbenden in een geschil als bedoeld in [artikel 75j](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Derde&paragraaf=3&artikel=75j&z=2026-01-01&g=2026-01-01) nog tijdens het horen nadere stukken indienen.
 
@@ -1685,7 +1660,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 4. Beroep in cassatie
 
-##### Artikel 75m
+#### Artikel 75m
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de [artikelen 1, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), [2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen.
 
@@ -1695,19 +1670,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk I. Strafbepalingen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 86
+#### Artikel 86
 
 Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 38b
+#### Artikel 38b
 
 1. Op verzoek informeert de werknemer zijn werkgever over zijn mogelijke aanspraak op ziekengeld op grond van [artikel 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01) of [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29d&z=2026-01-01&g=2026-01-01). De eerste zin is niet van toepassing gedurende de eerste twee maanden na aanvang van zijn dienstbetrekking.
 
@@ -1717,17 +1692,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. [Artikel 38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de melding, bedoeld in het tweede en derde lid.
 
-##### Artikel 45h
+#### Artikel 45h
 
 Vervallen
 
 ### Hoofdstuk IIA. Reïntegratie-instrumenten
 
-##### Artikel 52d
+#### Artikel 52d
 
 [Artikel 29b, eerste lid, onderdeel b, tweede, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van [artikel V, onderdeel A, van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=V) blijft van toepassing op de werknemer, wiens dienstbetrekking is aangevangen voor de dag van inwerkingtreding van artikel V, onderdeel A, van die wet.
 
-##### Artikel 52e. Proefplaatsing
+#### Artikel 52e. Proefplaatsing
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen en de eigenrisicodrager kunnen, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de persoon aan wie ziekengeld is toegekend, om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.
 
@@ -1749,7 +1724,7 @@ Vervallen
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit artikel.
 
-##### Artikel 52f. Nadere regels m.b.t. aanvraag proefplaatsing
+#### Artikel 52f. Nadere regels m.b.t. aanvraag proefplaatsing
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van toestemming als bedoeld in [artikel 52e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIA&artikel=52e&z=2026-01-01&g=2026-01-01).
 
@@ -1759,13 +1734,13 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ### Hoofdstuk IV. De vrijwillige verzekering
 
-##### Artikel 70
+#### Artikel 70
 
 1. Het ziekengeld van de vrijwillig verzekerde die bij ongeschiktheid tot werken wegens ziekte geen aanspraak kan maken op betaling van loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of bezoldiging als bedoeld in [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2005-12-29&g=2005-12-29), wordt uitgekeerd vanaf de derde dag van de ongeschiktheid tot werken.
 
 2. Het ziekengeld bedraagt 70% van het dagloon van de verzekerde.
 
-##### Artikel 71
+#### Artikel 71
 
 Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekking tot de vrijwillige verzekering. Deze regels bevatten in ieder geval bepalingen met betrekking tot:
 
@@ -1781,11 +1756,11 @@ Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekk
 
 #### § 1. Algemeen
 
-##### Artikel 72d
+#### Artikel 72d
 
 Vervallen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -1797,7 +1772,7 @@ Vervallen
 
 ### afdeling Vierde. Aanspraak op bezoldiging en reïntegratieverplichtingen overheidspersoneel
 
-##### Artikel 76a
+#### Artikel 76a
 
 1. Bij verhindering wegens ongeschiktheid als gevolg van ziekte, zwangerschap of bevalling om de dienst te verrichten of het ambt te vervullen bestaat ten aanzien van de werkgever jegens wie de persoon, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76&z=2026-01-01&g=2026-01-01), krachtens publiekrechtelijke aanstelling gehouden is tot het verrichten van arbeid, gedurende een tijdvak van 104 weken aanspraak op 70% van de bezoldiging, bedoeld in de toepasselijke rechtspositieregeling, dan wel van hetgeen daarmee overeenkomt, voorzover deze bezoldiging niet meer bedraagt dan hetgeen overeenkomt met het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17). De aanspraak bedraagt de eerste 52 weken echter minimaal het bedrag van het minimumloon dat voor betrokkene zou gelden indien de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) op hem van toepassing zou zijn. De eerste twee volzinnen zijn van overeenkomstige toepassing voorzover in verband met ziekte, zwangerschap of bevalling ook na ontslag aanspraak bestaat op betaling van bezoldiging of van hetgeen daarmee overeenkomt.
 
@@ -1821,7 +1796,7 @@ Vervallen
 
 8. In afwijking van het eerste lid bestaat de in dat lid bedoelde aanspraak gedurende een tijdvak van zes weken voor de persoon, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76&z=2026-01-01&g=2026-01-01), die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt. Indien de ongeschiktheid als gevolg van ziekte een aanvang heeft genomen voor de datum waarop de werknemer de in de vorige volzin bedoelde leeftijd heeft bereikt, geldt vanaf die datum het in die volzin genoemde tijdvak, voor zover het totale tijdvak waarin aanspraak bestaat op bezoldiging, bedoeld in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), dan wel van hetgeen daarmee overeenkomt niet meer bedraagt dan 104 weken.
 
-##### Artikel 76b
+#### Artikel 76b
 
 1. Bij algemeen verbindend voorschrift kan worden bepaald dat de aanspraak, bedoeld in [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), niet bestaat indien:
 
@@ -1857,7 +1832,7 @@ Vervallen
 
 5. Het tweede lid, onderdeel i, is niet van toepassing indien de betrokkene de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
-##### Artikel 76c
+#### Artikel 76c
 
 De aanspraak, bedoeld in [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), wordt verminderd met:
 
@@ -1865,11 +1840,11 @@ De aanspraak, bedoeld in [artikel 76a, eerste lid](https://wetten.overheid.nl/jc
 
 - b. het bedrag van bezoldiging of het loon, door betrokkene in of buiten dienstbetrekking genoten voor werkzaamheden die hij heeft verricht gedurende de tijd dat hij zijn dienst had kunnen verrichten of zijn ambt had kunnen vervullen, zo hij daartoe wegens ziekte niet verhinderd was geweest.
 
-##### Artikel 76d
+#### Artikel 76d
 
 Indien betrokkene voor de aanvang van zijn dienstbetrekking of ambtsvervulling een overeenkomst had gesloten tot verzekering van de geldelijke gevolgen van verhindering tot werken wegens ziekte, mag hij die overeenkomst voorzover hij daaraan rechten kan ontlenen die gelijkwaardig zijn aan die welke voor hem uit deze afdeling voortvloeien, voor het vervolg, echter niet eerder dan met ingang van de aanvang van de dienstbetrekking of ambtvervulling opzeggen. De door betrokkene vooruitbetaalde premie wordt door de verzekeraar naar gelang van het opgezegde gedeelte van de overeenkomst terugbetaald, onder aftrek van ten hoogste 25% van het terug te betalen bedrag voor administratiekosten.
 
-##### Artikel 76e
+#### Artikel 76e
 
 1. De werkgever jegens wie de persoon, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76&z=2026-01-01&g=2026-01-01), krachtens publiekrechtelijke aanstelling gehouden is tot het verrichten van arbeid, bevordert ten aanzien van de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, de inschakeling in de arbeid in zijn bedrijf. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever, bedoeld in de eerste volzin, geen andere passende arbeid voorhanden is, bevordert die werkgever, gedurende het tijdvak waarin de werknemer jegens hem recht op loon heeft op grond van deze afdeling, [artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) of [artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever, tenzij de werknemer de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
@@ -1887,23 +1862,23 @@ Indien betrokkene voor de aanvang van zijn dienstbetrekking of ambtsvervulling e
 
 ### Hoofdstuk I. Strafbepalingen
 
-##### Artikel 77
+#### Artikel 77
 
 Hij, die niet voldoet aan een der verplichtingen, omschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 91a. Overgangsrecht no risk polis i.v.m. gewijzigd loonsanctiesysteem
+#### Artikel 91a. Overgangsrecht no risk polis i.v.m. gewijzigd loonsanctiesysteem
 
 Vervallen
 
-##### Artikel 92
+#### Artikel 92
 
 Geen recht op ziekengeld heeft de persoon die belanghebbende is als bedoeld in [artikel 1 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=1).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 16
+#### Artikel 16
 
 1. De daglonen worden herzien met ingang van de dag waarop en in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wordt herzien.
 
@@ -1913,7 +1888,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen betaalt de herziene uitkering, bedoeld in het derde lid, bij de eerstvolgende uitkeringsbetaling nadat de herziening, bedoeld in het eerste lid, heeft plaatsgevonden.
 
-##### Artikel 39b
+#### Artikel 39b
 
 1. Een beschikking tot verhaal van uitkering, premies en vergoeding als bedoeld in [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=39a&z=2026-01-01&g=2026-01-01), wordt niet meer gegeven indien meer dan vijf jaren sedert het einde van het kalenderjaar zijn verstreken, waarin zij zijn betaald of afgedragen.
 
@@ -1921,11 +1896,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De rechtsvordering tot terugbetaling van een onverschuldigd betaald bedrag in verband met verhaal van uitkering, premies en vergoeding verjaart door verloop van vijf jaren sedert het einde van het kalenderjaar waarin de beschikking tot verhaal is gegeven.
 
-##### Artikel 39c
+#### Artikel 39c
 
 De vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens verhaal als bedoeld in [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=39a&z=2026-01-01&g=2026-01-01), is bevoorrecht op alle goederen van de werkgever en gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=287) en [288, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=284).
 
-##### Artikel 72c
+#### Artikel 72c
 
 1. Een aanvraag tot het geven van een beschikking over het verzekerd zijn op grond van deze wet kan door de werknemer uitsluitend bij het Uitvoeringsinstituut werknemersverzekeringen worden ingediend. Het Uitvoeringsinstituut werknemersverzekeringen geeft de beschikking binnen dertien weken na ontvangst van de aanvraag.
 
@@ -1933,7 +1908,7 @@ De vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens verhaal
 
 3. Indien een beschikking als bedoeld in het eerste of tweede lid niet binnen de toepasselijke termijn kan worden gegeven, wordt dit schriftelijk aan de aanvrager medegedeeld onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -1953,7 +1928,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 45i
+#### Artikel 45i
 
 Indien het Uitvoeringsinstituut werknemersverzekeringen de verzekerde de uitkering van ziekengeld op grond van deze wet tijdelijk of blijvend, geheel of gedeeltelijk heeft geweigerd dan wel hem een bestuurlijke boete heeft opgelegd, stelt het Uitvoeringsinstituut werknemersverzekeringen het reïntegratiebedrijf dat ten behoeve van die verzekerde werkzaamheden gericht op vergroting van de mogelijkheden tot het verrichten van arbeid of op inschakeling in de arbeid verricht, van die beschikking in kennis voorzover dat noodzakelijk is voor de uitvoering van de werkzaamheden door het reïntegratiebedrijf.
 
@@ -1965,7 +1940,7 @@ Indien het Uitvoeringsinstituut werknemersverzekeringen de verzekerde de uitkeri
 
 ### afdeling Derde. Bepalingen in verband met de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het beroep in cassatie
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -1985,13 +1960,13 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 86a
+#### Artikel 86a
 
 Ten aanzien van de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor het tijdstip van inwerkingtreding van artikel IX, onderdelen A en B, van de Wet wijziging WW-stelsel, blijven de [artikelen 29, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), en [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=36&z=2026-01-01&g=2026-01-01), van toepassing zoals deze luidden op of voor dat tijdstip, en blijft [artikel 29, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), buiten toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 38ab
+#### Artikel 38ab
 
 1. Indien de verzekerde die aanspraak maakt op ziekengeld geen werkgever heeft als bedoeld in de eerste afdeling, paragraaf 3, is deze in geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte verplicht dit op de tweede dag van die ongeschiktheid te melden aan het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -2007,7 +1982,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 1. Algemeen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -2025,7 +2000,7 @@ Vervallen
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 93
+#### Artikel 93
 
 1. De [artikelen 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19&z=2026-01-01&g=2026-01-01), [29, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), [30, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01), en [38ab](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38ab&z=2026-01-01&g=2026-01-01) zijn niet van toepassing met betrekking tot het recht op ziekengeld van personen die voor de dag van de inwerkingtreding van de Wet van 12 december 2007, houdende regels tot bevordering van de activering van personen die aanspraak maken op een uitkering op grond van de Ziektewet (Stb. 2007, 553) recht hadden op ziekengeld.
 
@@ -2033,13 +2008,13 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 93*
+#### Artikel 93*
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2008-11-01&g=2008-11-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2008-11-01&g=2008-11-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 34a
+#### Artikel 34a
 
 Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=33&z=2026-01-01&g=2026-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=34&z=2026-01-01&g=2026-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
@@ -2055,7 +2030,7 @@ Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld i
 
 #### § 1. Algemeen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -2069,23 +2044,23 @@ Vervallen
 
 ### Hoofdstuk I. Strafbepalingen
 
-##### Artikel 93*
+#### Artikel 93*
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2009-03-25&g=2009-03-25), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2009-03-25&g=2009-03-25). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 87b
+#### Artikel 87b
 
 Vervallen
 
-##### Artikel 93*
+#### Artikel 93*
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2009-07-01&g=2009-07-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2009-07-01&g=2009-07-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 29d
+#### Artikel 29d
 
 1. De werknemer die is geboren voor 8 juli 1954 en die onmiddellijk voorafgaand aan een dienstbetrekking als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01), welke is aangevangen vóór het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), en gedurende ten minste 52 weken recht had op een uitkering op grond van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II), heeft vanaf de eerste dag van zijn ongeschiktheid tot werken wegens ziekte recht op ziekengeld over perioden van ongeschiktheid tot werken wegens ziekte die zijn aangevangen in de vijf jaren na aanvang van zijn dienstbetrekking. Voor het bepalen van de perioden van ongeschiktheid tot werken wegens ziekte is [artikel 29, vijfde lid, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing. De uitbetaling van het ziekengeld, bedoeld in de eerste zin, vindt niet eerder plaats dan de eerste dag van de veertiende week van de ongeschiktheid tot werken.
 
@@ -2111,7 +2086,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 1. Algemeen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -2127,21 +2102,21 @@ Vervallen
 
 ### Hoofdstuk I. Strafbepalingen
 
-##### Artikel 93*
+#### Artikel 93*
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2009-07-08&g=2009-07-08), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2009-07-08&g=2009-07-08). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
-##### Artikel 95
+#### Artikel 95
 
 Vervallen
 
-##### Artikel 96
+#### Artikel 96
 
 Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 29c
+#### Artikel 29c
 
 Indien ten aanzien van een werknemer als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vijfde&hoofdstuk=II&artikel=90&z=2026-01-01&g=2026-01-01) van deze wet bij aanvang van het dienstverband wordt vastgesteld dat hij lijdt aan een ziekte of een gebrek die respectievelijk dat maakt dat hij binnen de in [artikel 29b, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), van deze wet bedoelde termijn van vijf jaren na aanvang van de dienstbetrekking respectievelijk na vaststelling van het recht op uitkering een aanzienlijk verhoogd risico heeft op ernstige gezondheidsklachten, wordt die termijn van vijf jaar voor afloop daarvan verlengd, indien op dat moment de ziekte of het gebrek dan wel het verhoogde risico op ernstige gezondheidsklachten naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen nog bestaat.
 
@@ -2153,7 +2128,7 @@ Indien ten aanzien van een werknemer als bedoeld in de [artikelen 29b](https://w
 
 #### § 1. Algemeen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -2167,13 +2142,13 @@ Vervallen
 
 ### Hoofdstuk I. Strafbepalingen
 
-##### Artikel 94
+#### Artikel 94
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2026-01-01&g=2026-01-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=52a&z=2026-01-01&g=2026-01-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 19c
+#### Artikel 19c
 
 1. De verzekerde die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel heeft geen recht op ziekengeld.
 
@@ -2191,7 +2166,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 1. Algemeen
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -2205,45 +2180,45 @@ Vervallen
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 86b
+#### Artikel 86b
 
 De [artikelen 19a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19a&z=2026-01-01&g=2026-01-01), [19b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19b&z=2026-01-01&g=2026-01-01), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=33&z=2026-01-01&g=2026-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=44&z=2026-01-01&g=2026-01-01) en [47a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=47a&z=2026-01-01&g=2026-01-01), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven van toepassing op de persoon wiens eerste werkdag waarop door hem wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt, is gelegen voor of op die dag.
 
-##### Artikel 86c
+#### Artikel 86c
 
 Vervallen
 
-##### Artikel 86d
+#### Artikel 86d
 
 De [artikelen 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38a&z=2026-01-01&g=2026-01-01) en [38b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38b&z=2026-01-01&g=2026-01-01), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing met betrekking tot een werknemer wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte was gelegen voor of op die dag.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 97
+#### Artikel 97
 
 Ten aanzien van verzekerden die aanspraak maken op ziekengeld op grond van [artikel 29, tweede lid, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), wier eerste dag van ongeschiktheid tot het verrichten van hun arbeid wegens ziekte is gelegen voor de dag van inwerkingtreding van [artikel II, onderdeel C, onder 2, van de Wet wijziging verrekening inkomsten met ziekengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0030113&artikel=II) en de werkgevers van die verzekerden is [artikel 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van artikel II, onderdeel C, onder 2, van de Wet wijziging verrekening inkomsten met ziekengeld, van toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 98
+#### Artikel 98
 
 Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 99
+#### Artikel 99
 
 Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 87c
+#### Artikel 87c
 
 [Artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19a&z=2026-01-01&g=2026-01-01) is niet van toepassing op de persoon op wie dat artikel als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op ziekengeld.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 19aa
+#### Artikel 19aa
 
 1. In afwijking van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19&z=2026-01-01&g=2026-01-01) heeft de verzekerde die geen werkgever heeft jegens wie hij, bij ongeschiktheid tot het verrichten van arbeid wegens ziekte, zwangerschap of bevalling, recht heeft op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel aanspraak heeft op bezoldiging op grond van [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), van deze wet, nadat na de eerste dag van de ongeschiktheid tot werken een tijdvak van 52 weken van ongeschiktheid tot werken is verstreken, recht op ziekengeld overeenkomstig het bij of krachtens deze wet bepaalde, indien de verzekerde:
 
@@ -2259,7 +2234,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 5. Onder maatmaninkomen wordt verstaan hetgeen gezonde personen met soortgelijke opleiding en ervaring, ter plaatse waar hij arbeid verricht of het laatst heeft verricht, of in de omgeving daarvan met arbeid gewoonlijk verdienen.
 
-##### Artikel 19ab
+#### Artikel 19ab
 
 1. Het percentage van het maatmaninkomen dat de verzekerde kan verdienen, bedoeld in [artikel 19aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19aa&z=2026-01-01&g=2026-01-01), wordt vastgesteld op basis van een verzekeringsgeneeskundig en een arbeidskundig onderzoek. Van een arbeidskundig onderzoek kan onder bij algemene maatregel van bestuur te stellen voorwaarden worden afgezien.
 
@@ -2277,7 +2252,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk II. Van het ziekengeld
 
-##### Artikel 29e
+#### Artikel 29e
 
 1. Als het gaat om een werknemer waarvoor de werkgever loonkostensubsidie als bedoeld in [artikel 10d, eerste of tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) ontvangt en de werknemer recht heeft op ziekengeld als bedoeld in de [artikelen 29, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29a&z=2026-01-01&g=2026-01-01), [29b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29b&z=2026-01-01&g=2026-01-01), of [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29d&z=2026-01-01&g=2026-01-01), wordt het ziekengeld vermenigvuldigd met de voor die werknemer vastgestelde loonwaarde, bedoeld in [artikel 6, eerste lid, onderdeel g, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6).
 
@@ -2289,7 +2264,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
-##### Artikel 29f
+#### Artikel 29f
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/216.
 
@@ -2339,7 +2314,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 - b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in het eerste lid, onderdeel a, en tweede lid, dagen waarover, anders dan bedoeld in het negende lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.
 
-##### Artikel 29g
+#### Artikel 29g
 
 1. De verzekerde die ziekengeld ontvangt is verplicht in voldoende mate te trachten mogelijkheden tot het verrichten van passende arbeid te behouden of te verkrijgen.
 
@@ -2355,7 +2330,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 - e. te voldoen aan verplichtingen die zijn opgenomen in het plan van aanpak en het re-integratieplan, bedoeld in onderdeel d.
 
-##### Artikel 30aa
+#### Artikel 30aa
 
 1. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de [artikelen 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29g&z=2026-01-01&g=2026-01-01) en [30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01).
 
@@ -2381,7 +2356,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 45j
+#### Artikel 45j
 
 Indien voor het vaststellen van het recht op ziekengeld op grond van deze wet, in het kader van een ziekmelding voor de toekenning van ziekengeld op grond van deze wet, naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen een medisch onderzoek nodig is en de betrokkene niet meewerkt aan dat onderzoek, blijven eventuele uit deze wet voortvloeiende aanspraken op ziekengeld op grond van deze wet buiten beschouwing, voor zolang het recht op ziekengeld niet kan worden vastgesteld.
 
@@ -2391,7 +2366,7 @@ Indien voor het vaststellen van het recht op ziekengeld op grond van deze wet, i
 
 ### afdeling Derde. Bepalingen in verband met de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het beroep in cassatie
 
-##### Artikel 73b
+#### Artikel 73b
 
 Vervallen
 
@@ -2403,13 +2378,13 @@ Vervallen
 
 ### Hoofdstuk II. Overgangs- en slotbepalingen
 
-##### Artikel 100
+#### Artikel 100
 
 1. [Artikel 19aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19aa&z=2026-01-01&g=2026-01-01) is niet van toepassing op de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van arbeid is gelegen voor het tijdstip van inwerkingtreding van [artikel I, onderdeel B, van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089&artikel=I). De [artikelen 19a, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19a&z=2026-01-01&g=2026-01-01), [19b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19b&z=2026-01-01&g=2026-01-01), en [19c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19c&z=2026-01-01&g=2026-01-01), zoals deze artikelen luidden op de dag voor inwerkingtreding van die wet blijven van toepassing op de verzekerde, bedoeld in de eerste zin.
 
 2. Op de verzekerde, wiens eerste dag van ongeschiktheid tot het verrichten van arbeid is gelegen voor de dag van inwerkingtreding van [artikel I, onderdeel E, van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters](https://wetten.overheid.nl/jci1.3:c:BWBR0032089&artikel=I) is [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29g&z=2026-01-01&g=2026-01-01) niet van toepassing en blijft [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel F, van die wet, van toepassing.
 
-##### Artikel 101
+#### Artikel 101
 
 [Artikel 19aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&artikel=19aa&z=2026-01-01&g=2026-01-01) is niet van toepassing op de verzekerde die:
 
@@ -2419,7 +2394,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 19d
+#### Artikel 19d
 
 Geen recht op ziekengeld heeft de verzekerde die geen werkgever heeft jegens wie hij bij ongeschiktheid tot het verrichten van arbeid wegens ziekte, zwangerschap of bevalling, recht heeft op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel aanspraak heeft op bezoldiging op grond van [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), van deze wet en die recht heeft op een uitkering op grond van [hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en ten aanzien van wie het Uitvoeringsinstituut werknemersverzekeringen een verkorte wachttijd heeft vastgesteld als bedoeld in [artikel 23, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23).
 
@@ -2447,11 +2422,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 73b
+#### Artikel 73b
 
 Het bezwaar of beroep van een werkgever tegen de in [artikel 63a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIIA&artikel=63a&z=2026-01-01&g=2026-01-01), bedoelde betaling dan wel tegen het verhaal, bedoeld in [artikel 63e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIIb&artikel=63e&z=2026-01-01&g=2026-01-01), dan wel tegen de opslag of korting, bedoeld in [artikel 38, derde of vierde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) kan niet zijn gegrond op de grief, dat een uitkering op grond van deze wet ten onrechte of tot een te hoog bedrag is vastgesteld.
 
-##### Artikel 102
+#### Artikel 102
 
 1. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=4&artikel=15&z=2026-01-01&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=4&artikel=16&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen en [artikel 29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), zoals deze luidden voor 1 juli 2015 blijven van toepassing met betrekking tot de werknemer wiens eerste dag van werkloosheid op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is gelegen voor die inwerkingtreding mits het recht op ziekengeld, bedoeld in artikel 29, tweede lid, is ontstaan voor de omzetting, bedoeld in [artikel 130z, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z), of [130aa, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130aa).
 
@@ -2459,7 +2434,7 @@ Het bezwaar of beroep van een werkgever tegen de in [artikel 63a, derde lid](htt
 
 3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-##### Artikel 103
+#### Artikel 103
 
 1. [Artikel 30, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen zoals deze luidden op de dag voor de datum waarop [artikel XXVIII, onderdeel B, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXVIII) inwerking is getreden, blijven van toepassing op een recht op uitkering waarvan de eerste ziektedag is gelegen voor de dag van inwerkingtreding.
 
@@ -2467,7 +2442,7 @@ Het bezwaar of beroep van een werkgever tegen de in [artikel 63a, derde lid](htt
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 104
+#### Artikel 104
 
 1. In afwijking van het in de [artikelen 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), en [76a, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), genoemde tijdvak van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een tijdvak van dertien weken voor de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
@@ -2481,7 +2456,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. acht weken zijn verstreken nadat het voornemen tot het vaststellen van dat tijdstip is meegedeeld aan de beide kamers der Staten-Generaal.
 
-##### Artikel 105
+#### Artikel 105
 
 1. Het in [artikel 76a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vierde&artikel=76a&z=2026-01-01&g=2026-01-01), genoemde tijdvak van 104 weken blijft gedurende zes maanden na het tijdstip van inwerkingtreding van [artikel III, onderdeel F, van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=III) van toepassing op de werknemer:
 
@@ -2491,13 +2466,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt het in [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Vijfde&hoofdstuk=II&artikel=104&z=2026-01-01&g=2026-01-01) genoemde tijdvak van dertien weken voor zover het totale tijdvak waarin aanspraak bestaat op bezoldiging, bedoeld in het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), dan wel van hetgeen daarmee overeenkomt niet meer bedraagt dan 104 weken.
 
-##### Artikel 106
+#### Artikel 106
 
 [Artikel 63e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIIb&artikel=63e&z=2026-01-01&g=2026-01-01) is niet van toepassing voor zover de eerste dag van ongeschiktheid tot werken is gelegen voor de datum van inwerkingtreding van [artikel III, onderdeel D, van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=III).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 63f
+#### Artikel 63f
 
 1. Een beschikking tot verhaal van ziekengeld als bedoeld in [artikel 63e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIIb&artikel=63e&z=2026-01-01&g=2026-01-01) wordt niet meer gegeven indien meer dan vijf jaren sedert het einde van het kalenderjaar zijn verstreken, waarin zij is betaald.
 
@@ -2505,7 +2480,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De rechtsvordering tot terugbetaling van een onverschuldigd betaald bedrag in verband met verhaal van ziekengeld verjaart door verloop van vijf jaren sedert het einde van het kalenderjaar waarin de beschikking tot verhaal is gegeven.
 
-##### Artikel 63g
+#### Artikel 63g
 
 De vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens verhaal als bedoeld in [artikel 63e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=IIIb&artikel=63e&z=2026-01-01&g=2026-01-01), is bevoorrecht op alle goederen van de werkgever en gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=287) en [288 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=284).
 
@@ -2523,7 +2498,7 @@ De vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens verhaal
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 19e
+#### Artikel 19e
 
 1. De verzekerde die een uitreiziger is, heeft geen recht op ziekengeld.
 
@@ -2551,7 +2526,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 29h
+#### Artikel 29h
 
 1. In afwijking van de [artikelen 29, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29&z=2026-01-01&g=2026-01-01), en [29a, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29a&z=2026-01-01&g=2026-01-01), wordt het ziekengeld van degene die laatstelijk verzekerd was op grond van [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), of [8c, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=8c&z=2026-01-01&g=2026-01-01), en recht had op een uitkering op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8) of [3:10, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10) omdat zij als werknemer werd aangemerkt omdat zij verzekerd was op grond van artikel 7, onderdeel a, vastgesteld overeenkomstig [artikel 47, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), met dien verstande dat de factor 0,7 op 1 wordt gesteld als het recht op ziekengeld is gebaseerd op artikel 29, tweede lid, onderdeel e of f. Hierbij zijn de bepalingen met betrekking tot het dagloon, maandloon en inkomen van [artikel 1b van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b) en de daarop berustende bepalingen van overeenkomstige toepassing. Bij deze vaststelling blijft [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=31&z=2026-01-01&g=2026-01-01), buiten toepassing met dien verstande dat het loon, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=30&z=2026-01-01&g=2026-01-01), aangemerkt wordt als inkomen als bedoeld in artikel 47 van de Werkloosheidswet.
 
@@ -2575,17 +2550,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 107
+#### Artikel 107
 
 [Artikel 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Eerste&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor de datum van inwerkingtreding van [artikel XXXII, onderdeel Da, van de Verzamelwet SZW 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040370&artikel=XXXII), blijft van toepassing op een recht op uitkering op grond van deze wet of op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) dat is ontstaan voor de inwerkingtreding van artikel XXXII, onderdeel Da, van de Verzamelwet SZW 2018.
 
-##### Artikel 108
+#### Artikel 108
 
 Deze wet wordt aangehaald als: Ziektewet.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 38aa
+#### Artikel 38aa
 
 1. In afwijking van [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38&z=2026-01-01&g=2026-01-01), en [artikel 38a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38a&z=2026-01-01&g=2026-01-01), is de termijn voor het doen van de aangifte of melding aan het Uitvoeringsinstituut werknemersverzekeringen van de ongeschiktheid tot werken van een verzekerde voor een eigenrisicodrager:
 
@@ -2619,7 +2594,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 86e
+#### Artikel 86e
 
 [Artikel 29e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=29e&z=2026-01-01&g=2026-01-01) is niet van toepassing indien de ziekmelding, bedoeld in [artikel 38a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38a&z=2026-01-01&g=2026-01-01), of [artikel 38b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&afdeling=Tweede&hoofdstuk=II&artikel=38b&z=2026-01-01&g=2026-01-01), is gedaan voor het tijdstip van inwerkingtreding van [artikel XXXIII, onderdeel B, van de Verzamelwet SZW 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXIII).
 

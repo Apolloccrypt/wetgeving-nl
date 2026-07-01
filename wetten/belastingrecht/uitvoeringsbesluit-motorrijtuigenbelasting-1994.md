@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 30 maart 1995, tot vaststelling van het Uitvoeringsbesluit motorrijtuigenbelasting 1994"
+title: "Uitvoeringsbesluit motorrijtuigenbelasting 1994"
 identifier: "BWBR0007311"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007311"
-soort: "AMvB"
-stam_id: "2619713"
-version_id: "25556202"
-internal_id: "C36480981"
-label_id: "2564984"
-dtd_version: "2.0"
-original_entry_into_force: "2018-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007311/2026-01-01/0"
-intitule_bron: "Stb.1995-153"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-31"
-intitule_published: "1995-03-31"
-intitule_in_force: "1995-03-31"
-intitule_status: "goed"
-original_publication: "Stb.2018-514"
-original_signed_date: "2018-12-19"
-original_published_date: "2018-12-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2018-514"
-entry_into_force_date: "2018-12-19"
-jci_1_3: "jci1.3:c:BWBR0007311&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0007311&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit motorrijtuigenbelasting 1994"
-signed_date: "2018-12-19"
-entry_into_force: "2018-12-19"
+categorie: "Belastingrecht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007311"
 ---
+
 # Besluit van 30 maart 1995, tot vaststelling van het Uitvoeringsbesluit motorrijtuigenbelasting 1994
 
 Op de voordracht van de Staatssecretaris van Financiën van 6 september 1994, nr. WV94/365, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
@@ -48,11 +22,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 Dit besluit geeft uitvoering aan de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=4), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=22), [23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a), [24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30), [37b, derde lid en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), [73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73), [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=74), [77a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=77a), en [84, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84) en [artikel 37, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37).
 
-##### Artikel 2
+#### Artikel 2
 
 In dit besluit wordt verstaan onder:
 
@@ -68,11 +42,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk II. Belastbaar feit en definities
 
-##### Artikel 3
+#### Artikel 3
 
 Met betrekking tot het gebruik van motorrijtuigen als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=1), van de wet zijn de krachtens [artikel 37, derde en vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) gestelde voorwaarden voor het gebruik van die motorrijtuigen en de aldaar bedoelde kentekens van toepassing.
 
-##### Artikel 4
+#### Artikel 4
 
 Met motorrijwielen worden gelijkgesteld motorrijtuigen die:
 
@@ -82,13 +56,13 @@ Met motorrijwielen worden gelijkgesteld motorrijtuigen die:
 
 ### HOOFDSTUK IIA. SCHORSING
 
-##### Artikel 4a
+#### Artikel 4a
 
 Vervallen
 
 ### Hoofdstuk III. Tarief
 
-##### Artikel 5
+#### Artikel 5
 
 Voor een personenauto of bestelauto die is voorzien van een installatie voor het verplaatsen of vastzetten van een rolstoel wordt het gewicht van die installatie niet meegerekend bij het vaststellen van de eigen massa van het motorrijtuig indien het daartoe strekkende verzoek vergezeld gaat van bescheiden waaruit blijkt:
 
@@ -98,7 +72,7 @@ Voor een personenauto of bestelauto die is voorzien van een installatie voor het
 
 - c. de datum waarop die installatie is ingebouwd in het motorrijtuig.
 
-##### Artikel 5a
+#### Artikel 5a
 
 1. Ten behoeve van eenzelfde gehandicapte vindt [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) toepassing voor één bestelauto.
 
@@ -122,7 +96,7 @@ Voor een personenauto of bestelauto die is voorzien van een installatie voor het
 
 7. In afwijking van het eerste lid kan [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) voor twee bestelauto’s worden toegepast, indien naar het oordeel van de inspecteur in het belang van de gehandicapte redelijkerwijs niet kan worden volstaan met het toepassen van artikel 24a van de wet voor één bestelauto.
 
-##### Artikel 6
+#### Artikel 6
 
 1. [Artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) vindt toepassing voor
 
@@ -148,13 +122,13 @@ Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip
 
 8. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in het vijfde lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
 ### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
 
-##### Artikel 7a
+#### Artikel 7a
 
 De inspecteur verleent een vergunning voor een bedrijfsvoertuigenpark onder de nadere voorwaarden en beperkingen dat:
 
@@ -168,7 +142,7 @@ De inspecteur verleent een vergunning voor een bedrijfsvoertuigenpark onder de n
 
 - e. de houder schriftelijk verklaart wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens aan de inspecteur te melden.
 
-##### Artikel 7b
+#### Artikel 7b
 
 1. De vergunning, bedoeld in [artikel 37b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), kan slechts op verzoek worden gewijzigd indien gedurende het jaar waarvoor zij is afgegeven:
 
@@ -182,13 +156,13 @@ De inspecteur verleent een vergunning voor een bedrijfsvoertuigenpark onder de n
 
 2. De vergunning wordt niet ingetrokken indien het eerste lid, onderdeel a of b, zich voordoet en daarmee de verhouding tussen en het aantal vrachtauto’s en het aantal aanhangwagens niet meer voldoet aan het bepaalde in [artikel 37b, tweede lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), tenzij sprake is van misbruik als bedoeld in het vijfde lid, onderdeel b, van dat artikel.
 
-##### Artikel 7c
+#### Artikel 7c
 
 Vervallen
 
 ### Hoofdstuk IV. Vrijstellingen
 
-##### Artikel 8
+#### Artikel 8
 
 De in [artikel 71, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71) bedoelde vrijstelling wordt slechts verleend indien:
 
@@ -210,7 +184,7 @@ De in [artikel 71, eerste lid, aanhef en onderdeel a, van de wet](https://wetten
 
 - c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken of gewonden of het verlenen van spoedeisende medische hulp.
 
-##### Artikel 9
+#### Artikel 9
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van een stoffelijk overschot, wordt verleend indien:
 
@@ -218,7 +192,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend
 
 - b. de achterruimte niet is voorzien van zitplaatsen en veiligheidsgordels.
 
-##### Artikel 10
+#### Artikel 10
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van zieke en gewonde dieren en die als zodanig uiterlijk herkenbaar zijn, wordt verleend indien zij zijn voorzien van:
 
@@ -230,21 +204,21 @@ Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend
 
 - d. voorzieningen voor vervoer en verzorging van zieke of gewonde dieren.
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
-##### Artikel 12
+#### Artikel 12
 
 1. De vrijstelling van belasting, bedoeld in [artikel 72, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in [hoofdstuk XA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa), wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het kentekenregister, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.
 
 2. De vrijstelling, bedoeld in het eerste lid, wordt voor zover het vrachtauto’s en autobussen betreft slechts verleend, indien de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig uitsluitend niet-bedrijfsmatig wordt gebruikt.
 
-##### Artikel 13
+#### Artikel 13
 
 Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt voor defensie wordt verleend indien voor die motorrijtuigen de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4), en [37, eerste lid, onderdeel **c**, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) van toepassing zijn.
 
-##### Artikel 14
+#### Artikel 14
 
 1. Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt door de politie wordt verleend indien:
 
@@ -268,15 +242,15 @@ Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt v
 
 3. Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in [artikel 31 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=31).
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
-##### Artikel 17
+#### Artikel 17
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen wordt verleend indien:
 
@@ -284,11 +258,11 @@ Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend
 
 - b. de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig is ingericht en uitsluitend wordt gebruikt als een in de aanhef genoemd motorrijtuig.
 
-##### Artikel 18
+#### Artikel 18
 
 Vervallen
 
-##### Artikel 19
+#### Artikel 19
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor de aanleg en het onderhoud van wegen wordt verleend indien de houder van het motorrijtuig:
 
@@ -296,11 +270,11 @@ Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend
 
 - b. een verklaring overlegt dat het motorrijtuig is ingericht en uitsluitend wordt gebruikt voor de in de aanhef genoemde doeleinden.
 
-##### Artikel 20
+#### Artikel 20
 
 Vervallen
 
-##### Artikel 21
+#### Artikel 21
 
 Vrijstelling van belasting voor motorrijtuigen waarmee gewoonlijk slechts over een geringe afstand gebruik van de weg wordt gemaakt, wordt verleend, indien:
 
@@ -308,11 +282,11 @@ Vrijstelling van belasting voor motorrijtuigen waarmee gewoonlijk slechts over e
 
 - b. de houder van het motorrijtuig een verklaring overlegt dat met het motorrijtuig uitsluitend gebruik van de weg wordt gemaakt overeenkomstig onderdeel **a**.
 
-##### Artikel 22
+#### Artikel 22
 
 Vrijstelling van belasting voor motorrijtuigen waarmee met het oog op een ingevolge [hoofdstuk V van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=V) te verrichten keuring van het motorrijtuig tijdens een voor het motorrijtuig geldende schorsing gebruik van de weg wordt gemaakt op de dag waarop dat motorrijtuig naar aanleiding van de aanvraag van een keuringsbewijs aan een keuring wordt onderworpen, wordt verleend indien bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig op de desbetreffende dag aan een keuring zal worden onderworpen.
 
-##### Artikel 23
+#### Artikel 23
 
 1. Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien worden overgelegd:
 
@@ -324,11 +298,11 @@ Vrijstelling van belasting voor motorrijtuigen waarmee met het oog op een ingevo
 
 2. Op een met de inspecteur afgesproken tijdstip worden jaarlijks een afschrift als bedoeld in het eerste lid, onderdeel a, en een verklaring als bedoeld in het eerste lid, onderdeel c, overgelegd.
 
-##### Artikel 24
+#### Artikel 24
 
 Vervallen
 
-##### Artikel 25
+#### Artikel 25
 
 Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het buitenland en door een aldaar gevestigde werkgever ter beschikking zijn gesteld aan een als werknemer bij hem in dienst zijnde in Nederland wonende persoon, wordt verleend indien:
 
@@ -338,7 +312,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - c. de werknemer als gevolg van de arbeidsverhouding tussen hem en zijn werkgever in beginsel geen invloed kan uitoefenen op de beslissing in welk land het motorrijtuig wordt geregistreerd.
 
-##### Artikel 26
+#### Artikel 26
 
 Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het buitenland en die worden gebruikt door Nederlands ingezetenen die elders dan in Nederland hoofd zijn van een eenmansbedrijf, lid zijn van een maatschap, of bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap, wordt verleend indien:
 
@@ -348,7 +322,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 27
+#### Artikel 27
 
 1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2026-01-01&g=2026-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2026-01-01&g=2026-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2026-01-01&g=2026-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2026-01-01&g=2026-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2026-01-01&g=2026-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2026-01-01&g=2026-01-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2026-01-01&g=2026-01-01), wordt voor vrachtauto’s en autobussen op verzoek verleend, indien de houder van het motorrijtuig niet reeds een verklaring als bedoeld in artikel 12, tweede lid, heeft overgelegd.
 
@@ -368,7 +342,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 9. Bij beëindiging van de vrijstelling wordt de belasting verschuldigd over het resterende gedeelte van het lopende tijdvak, met dien verstande dat voor motorrijtuigen die niet zijn geregistreerd in het register, bedoeld in [artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), de belasting verschuldigd wordt vanaf de dag waarop de vrijstelling is beëindigd.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Vrijstelling van een gedeelte van de belasting voor motorrijtuigen die worden gebezigd in het gecombineerde rail-wegvervoer van goederen tussen lid-staten van de Europese Unie wordt verleend indien de toepasselijkheid van de vrijstelling blijkt uit boeken en bescheiden.
 
@@ -380,7 +354,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 5. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Voor motorrijtuigen die zijn geregistreerd in een ander land en die in Nederland feitelijk ter beschikking staan aan natuurlijke personen die hun hoofdverblijf buiten Nederland hebben, wordt, op basis van internationaal recht, vrijstelling van belasting verleend voor de periode, genoemd in dat internationale recht. Natuurlijke personen die niet zijn ingeschreven in de basisregistratie personen, genoemd in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), of niet verplicht zijn tot het doen van aangifte van verblijf en adres ingevolge [artikel 2.38 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.38), worden geacht hun hoofdverblijf buiten Nederland te hebben.
 
@@ -396,7 +370,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 ### Hoofdstuk V. Overgangsbepalingen
 
-##### Artikel 30
+#### Artikel 30
 
 1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2026-01-01&g=2026-01-01) dat:
 
@@ -406,7 +380,7 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2026-01-01&g=2026-01-01).
 
@@ -414,11 +388,11 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 ### Hoofdstuk IVA. Controle
 
-##### Artikel 32
+#### Artikel 32
 
 Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
 
-##### Artikel 33
+#### Artikel 33
 
 Dit besluit kan worden aangehaald als Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
@@ -474,7 +448,7 @@ Dit besluit kan worden aangehaald als Uitvoeringsbesluit motorrijtuigenbelasting
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 5b
+#### Artikel 5b
 
 1. [Artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b) van de wet vindt toepassing voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, indien met het motorrijtuig niet wordt gereden op autowegen en autosnelwegen.
 
@@ -552,7 +526,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 5aa
+#### Artikel 5aa
 
 1. [Artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) vindt toepassing indien:
 
@@ -656,7 +630,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 26a
+#### Artikel 26a
 
 1. Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het buitenland en in Nederland ten hoogste twee weken feitelijk ter beschikking staan van een houder die in Nederland zijn hoofdverblijf heeft of is gevestigd, wordt verleend indien:
 
@@ -682,7 +656,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 29a
+#### Artikel 29a
 
 1. Onze Minister van Financiën is de verwerkingsverantwoordelijke, bedoeld in artikel 4, zevende lid, van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, L 119).
 
@@ -694,15 +668,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Het cameraplan wordt in de Staatscourant gepubliceerd.
 
-##### Artikel 29b
+#### Artikel 29b
 
 Er wordt uitsluitend gebruikgemaakt van technische hulpmiddelen die in staat zijn minimaal 90% van de kentekengegevens die vastgelegd gaan worden op correcte wijze te verwerken.
 
-##### Artikel 29c
+#### Artikel 29c
 
 Er worden zodanige maatregelen of voorzieningen getroffen dat slechts gebruik of medegebruik wordt gemaakt van technische hulpmiddelen die zodanig zijn gericht en afgesteld dat zo veel mogelijk wordt voorkomen dat personen of zaken andere zaken dan het betreffende motorrijtuig herkenbaar op een foto-opname staan.
 
-##### Artikel 29d
+#### Artikel 29d
 
 1. De kentekengegevens worden centraal verwerkt door middel van het technische systeem.
 
@@ -710,15 +684,15 @@ Er worden zodanige maatregelen of voorzieningen getroffen dat slechts gebruik of
 
 3. De verwerkingsverantwoordelijke is belast met het beheer over het technische systeem.
 
-##### Artikel 29e
+#### Artikel 29e
 
 Alle wijzigingen in apparatuur, software of procedures die de beveiliging van het technische systeem en de kentekengegevens kunnen beïnvloeden, zijn bekend en beoordeeld door of namens de verwerkingsverantwoordelijke als zijnde aanvaardbaar.
 
-##### Artikel 29f
+#### Artikel 29f
 
 De verwerkingsverantwoordelijke laat eenmaal per jaar de uitvoering van de bij of krachtens artikel 77a van de wet gegeven regels door middel van een audit op privacyaspecten controleren.
 
-##### Artikel 29g
+#### Artikel 29g
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over de technische eisen die worden gesteld aan technische hulpmiddelen en het technische systeem waarin de kentekengegevens worden verwerkt.
 

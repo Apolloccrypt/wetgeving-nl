@@ -1,36 +1,13 @@
 ---
-title: "Besluit van het college van afgevaardigden van 4 december 2014 tot vaststelling van de verordening op de advocatuur (Verordening op de advocatuur)"
+title: "Verordening op de advocatuur"
 identifier: "BWBR0035981"
-country: "nl"
-rank: "pbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035981"
-soort: "pbo"
-stam_id: "12897543"
-version_id: "21950802"
-internal_id: "C31627561"
-label_id: "12869014"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035981/2026-01-01/0"
-intitule_bron: "Stcrt.2014-36091"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-12-19"
-intitule_in_force: "2014-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-36091"
-original_published_date: "2014-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2014-36091"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0035981&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0035981&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Verordening op de advocatuur"
-entry_into_force: "2015-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0035981"
 ---
+
 # Besluit van het college van afgevaardigden van 4 december 2014 tot vaststelling van de verordening op de advocatuur (Verordening op de advocatuur)
 
 Overwegende dat het uit een oogpunt van kenbaarheid en vermindering van regels wenselijk is de bestaande verordeningen te harmoniseren, te vereenvoudigen en in een verordening te integreren;
@@ -45,7 +22,7 @@ Stelt de volgende verordening vast:
 
 ### Afdeling 1.1. Definities
 
-##### Artikel 1.1. Definities
+#### Artikel 1.1. Definities
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -123,25 +100,25 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1.1. Raad van advies
 
-##### Artikel 2.1. Leden raad van advies
+#### Artikel 2.1. Leden raad van advies
 
 1. De leden van de raad van advies hebben daarin zitting op persoonlijke titel en oefenen hun functie zonder last of ruggespraak uit.
 
 2. Benoeming vindt plaats op grond van deskundigheid en ervaring die nodig is voor een goede vervulling van de taak van de raad van advies.
 
-##### Artikel 2.2. Taakomschrijving raad van advies
+#### Artikel 2.2. Taakomschrijving raad van advies
 
 1. Onverminderd het bepaalde in [artikel 32a, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32a) heeft de raad van advies tot taak de algemene raad te adviseren over de maatschappelijke positionering van de Nederlandse orde van advocaten en over hoofdpunten van beleid die de algemene raad daartoe aan de raad van advies voorlegt.
 
 2. Onverminderd het bepaalde in [artikel 32a, derde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32a) voorziet de algemene raad in openbaarmaking van de adviesaanvraag, bedoeld in het eerste lid, en het aan het advies gegeven gevolg.
 
-##### Artikel 2.3. Benoeming leden raad van advies
+#### Artikel 2.3. Benoeming leden raad van advies
 
 1. Op voordracht van de algemene raad benoemt het college van afgevaardigden de leden van de raad van advies voor een periode van ten hoogste vier jaar.
 
 2. Een lid kan eenmaal worden herbenoemd.
 
-##### Artikel 2.4. Werkwijze raad van advies
+#### Artikel 2.4. Werkwijze raad van advies
 
 1. De algemene raad wijst uit de leden een voorzitter aan.
 
@@ -149,13 +126,13 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1.2. Dekenberaad
 
-##### Artikel 2.5. Leden dekenberaad
+#### Artikel 2.5. Leden dekenberaad
 
 1. Er is een dekenberaad dat uit de dekens van de orden in de arrondissementen bestaat.
 
 2. De deken en secretaris van de algemene raad nemen deel aan het overleg van het dekenberaad, tenzij het dekenberaad anders beslist.
 
-##### Artikel 2.6. Werkzaamheden dekenberaad
+#### Artikel 2.6. Werkzaamheden dekenberaad
 
 De werkzaamheden van het dekenberaad zijn:
 
@@ -167,7 +144,7 @@ De werkzaamheden van het dekenberaad zijn:
 
 - d. het uitwisselen van informatie en kennis ter bevordering van een uniforme uitvoering van bij of krachtens de [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093) aan de dekens en de raden van de orde opgedragen taken.
 
-##### Artikel 2.7. Werkwijze dekenberaad
+#### Artikel 2.7. Werkwijze dekenberaad
 
 1. Het dekenberaad kiest uit zijn leden een voorzitter.
 
@@ -175,7 +152,7 @@ De werkzaamheden van het dekenberaad zijn:
 
 #### Paragraaf 2.1.3. Commissie cassatie
 
-##### Artikel 2.8. Leden van de commissie cassatie
+#### Artikel 2.8. Leden van de commissie cassatie
 
 1. Er is een commissie cassatie die bestaat uit ten minste vijf leden die deskundig zijn op het terrein van cassatie in burgerlijke zaken.
 
@@ -193,17 +170,17 @@ De werkzaamheden van het dekenberaad zijn:
 
 - f. het hof van discipline.
 
-##### Artikel 2.9. Taakomschrijving commissie cassatie
+#### Artikel 2.9. Taakomschrijving commissie cassatie
 
 Een door de algemene raad te bepalen aantal leden van de commissie cassatie heeft tot taak namens de algemene raad het mondeling examen, bedoeld in [artikel 4.9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.9&z=2026-01-01&g=2026-01-01), af te nemen van advocaten die de aantekening ‘advocaat bij de Hoge Raad’ wensen te verkrijgen en de proeve van bekwaamheid, bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.11&z=2026-01-01&g=2026-01-01), af te nemen van advocaten bij de Hoge Raad.
 
-##### Artikel 2.10. Benoeming leden commissie cassatie
+#### Artikel 2.10. Benoeming leden commissie cassatie
 
 1. De algemene raad benoemt de leden van de commissie cassatie voor een periode van ten hoogste vier jaar.
 
 2. Een lid kan eenmaal worden herbenoemd.
 
-##### Artikel 2.11. Werkwijze commissie cassatie
+#### Artikel 2.11. Werkwijze commissie cassatie
 
 1. De algemene raad wijst uit de leden een voorzitter aan.
 
@@ -211,7 +188,7 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 #### Paragraaf 2.1.4. Nederlandse delegatie, commissies en werkgroepen CCBE
 
-##### Artikel 2.12. Leden delegatie, commissies en werkgroepen CCBE
+#### Artikel 2.12. Leden delegatie, commissies en werkgroepen CCBE
 
 1. Er is een Nederlandse delegatie bij de CCBE die bestaat uit ten minste drie leden, waaronder de algemeen secretaris, een medewerker van het bureau van de Nederlandse orde van advocaten die als information officer optreedt en een lid van de algemene raad.
 
@@ -221,7 +198,7 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 4. De algemene raad kan één of meer vertegenwoordigers namens de Nederlandse orde van advocaten laten deelnemen in door de CCBE ingestelde commissies of werkgroepen.
 
-##### Artikel 2.13. Taakomschrijving delegatie, commissies en werkgroepen CCBE
+#### Artikel 2.13. Taakomschrijving delegatie, commissies en werkgroepen CCBE
 
 1. De delegatie bij de CCBE heeft tot taak het vertegenwoordigen van de Nederlandse orde van advocaten bij de standing committee en de plenary session van de CCBE.
 
@@ -231,7 +208,7 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 - b. het geven van advies aan de algemene raad over Europese wet- en regelgeving en beleidsvraagstukken die van belang zijn voor de advocatuur en de rechtzoekende in het algemeen.
 
-##### Artikel 2.14. Benoeming delegatie, commissieleden en werkgroepleden CCBE
+#### Artikel 2.14. Benoeming delegatie, commissieleden en werkgroepleden CCBE
 
 1. De algemene raad benoemt de leden van de delegatie voor een periode van ten hoogste vier jaar.
 
@@ -243,7 +220,7 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 5. Het lidmaatschap van een commissie of werkgroep eindigt van rechtswege bij opheffing van de commissie of werkgroep.
 
-##### Artikel 2.15. Werkwijze delegatie, commissie en werkgroep CCBE
+#### Artikel 2.15. Werkwijze delegatie, commissie en werkgroep CCBE
 
 1. De Nederlandse vertegenwoordiging in een commissie of werkgroep doet na deelname aan een vergadering verslag aan de delegatie en de algemene raad.
 
@@ -251,7 +228,7 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 #### Paragraaf 2.1.5. Adviescommissie regelgeving
 
-##### Artikel 2.16. Leden adviescommissie regelgeving
+#### Artikel 2.16. Leden adviescommissie regelgeving
 
 1. Er is een adviescommissie regelgeving die uit vier tot acht leden bestaat, waarvan de meerderheid, waaronder de voorzitter, advocaat is.
 
@@ -267,7 +244,7 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 - e. het hof van discipline.
 
-##### Artikel 2.17. Taakomschrijving adviescommissie regelgeving
+#### Artikel 2.17. Taakomschrijving adviescommissie regelgeving
 
 1. De adviescommissie regelgeving heeft tot taak de algemene raad gevraagd te adviseren over voorstellen van regelgeving van de Nederlandse orde van advocaten ten aanzien van de juridische en wetgevingskwaliteit van voorgenomen regelgeving van de Nederlandse orde van advocaten.
 
@@ -275,13 +252,13 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 3. Een lid van de algemene raad kan de vergaderingen van de commissie bijwonen.
 
-##### Artikel 2.18. Benoeming leden adviescommissie regelgeving
+#### Artikel 2.18. Benoeming leden adviescommissie regelgeving
 
 1. De algemene raad benoemt de leden van de adviescommissie regelgeving voor een periode van ten hoogste vier jaar.
 
 2. Een lid kan eenmaal worden herbenoemd.
 
-##### Artikel 2.19. Werkwijze adviescommissie regelgeving
+#### Artikel 2.19. Werkwijze adviescommissie regelgeving
 
 1. De algemene raad wijst uit de leden een voorzitter aan.
 
@@ -289,21 +266,21 @@ Een door de algemene raad te bepalen aantal leden van de commissie cassatie heef
 
 #### Paragraaf 2.1.5a. Adviescommissie beroepsopleiding advocaten
 
-##### Artikel 2.20. Leden overige adviescommissies
+#### Artikel 2.20. Leden overige adviescommissies
 
 De algemene raad kan voor een rechtsgebied of beleidsterrein een adviescommissie instellen die uit ten minste drie leden bestaat.
 
-##### Artikel 2.21. Taakomschrijving overige adviescommissies
+#### Artikel 2.21. Taakomschrijving overige adviescommissies
 
 Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te adviseren over voorstellen voor wet- en regelgeving of beleidsvraagstukken die van belang zijn voor de advocatuur en de rechtzoekende in het algemeen.
 
-##### Artikel 2.22. Benoeming leden overige adviescommissies
+#### Artikel 2.22. Benoeming leden overige adviescommissies
 
 1. De algemene raad benoemt de leden voor een periode van ten hoogste vier jaar.
 
 2. Een lid kan tweemaal worden herbenoemd.
 
-##### Artikel 2.23. Werkwijze overige adviescommissies
+#### Artikel 2.23. Werkwijze overige adviescommissies
 
 1. De adviescommissie kiest uit de leden een voorzitter.
 
@@ -311,7 +288,7 @@ Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te ad
 
 #### Paragraaf 2.1.6. Overige adviescommissies
 
-##### Artikel 2.24. Verslag van werkzaamheden
+#### Artikel 2.24. Verslag van werkzaamheden
 
 1. De raad van advies brengt jaarlijks verslag uit van zijn werkzaamheden aan de algemene raad, die dit ter kennis brengt van het college van afgevaardigden.
 
@@ -319,7 +296,7 @@ Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te ad
 
 3. De verslagen zijn openbaar en de algemene raad publiceert deze elektronisch.
 
-##### Artikel 2.25. Secretariaat commissies
+#### Artikel 2.25. Secretariaat commissies
 
 1. De algemene raad voorziet in het secretariaat van:
 
@@ -337,7 +314,7 @@ Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te ad
 
 #### Paragraaf 2.2.1. Bijdragen aan de Nederlandse orde van advocaten
 
-##### Artikel 2.26. Verschuldigdheid financiële bijdrage
+#### Artikel 2.26. Verschuldigdheid financiële bijdrage
 
 1. De advocaat die op 1 januari van enig jaar op het tableau staat ingeschreven, is voor dat jaar de financiële bijdrage ten volle verschuldigd ter dekking van de door de Nederlandse orde van advocaten te maken kosten, bedoeld in [artikel 32, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32).
 
@@ -355,7 +332,7 @@ Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te ad
 
 8. Met inachtneming van [artikel 32, eerste en tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32) brengt de raad van de orde de financiële bijdrage, bedoeld in artikel 32, tweede lid, van de Advocatenwet bij de advocaat in rekening.
 
-##### Artikel 2.27. Voorstel hoogte financiële bijdrage
+#### Artikel 2.27. Voorstel hoogte financiële bijdrage
 
 1. De algemene raad doet het college van afgevaardigden jaarlijks een voorstel voor de hoogte van de financiële bijdrage, die kan verschillen naar gelang van:
 
@@ -371,23 +348,23 @@ Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te ad
 
 #### Paragraaf 2.2.2. Cursus- en examengelden
 
-##### Artikel 2.28. Opleidings- en examengeld beroepsopleiding advocaten
+#### Artikel 2.28. Opleidings- en examengeld beroepsopleiding advocaten
 
 1. De uitvoeringsorganisatie brengt aan de stagiaire die deelneemt aan de beroepsopleiding advocaten, respectievelijk het in [artikel 3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&artikel=3.19&z=2026-01-01&g=2026-01-01), genoemde examen, opleidings- en examengeld in rekening voor het voorportaal, met uitzondering van de basistest, en de onderwijsonderdelen, bedoeld in [artikel 3.14, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&artikel=3.14&z=2026-01-01&g=2026-01-01). De aanbieder, bedoeld in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.3&artikel=3.23&z=2026-01-01&g=2026-01-01), brengt aan de stagiaire, bedoeld in de eerste volzin, het verschuldigde bedrag voor de basistest in rekening. De factuur kan op naam worden gesteld van het kantoor van de stagiaire.
 
 2. De hoogte van het opleidings- en examengeld onderscheidenlijk het verschuldigde bedrag voor de basistest wordt vastgesteld door de algemene raad.
 
-##### Artikel 2.29. Kosten examen en proeve van bekwaamheid cassatie
+#### Artikel 2.29. Kosten examen en proeve van bekwaamheid cassatie
 
 De advocaat is voor het examen, bedoeld in [artikel 4.9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.9&z=2026-01-01&g=2026-01-01), en de proeve van bekwaamheid, bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.11&z=2026-01-01&g=2026-01-01), een door de algemene raad vast te stellen vergoeding verschuldigd binnen een door de algemene raad te bepalen termijn.
 
 #### Paragraaf 2.1.7. Verslag en ondersteuning
 
-##### Artikel 2.30. Vergoeding algemene raad
+#### Artikel 2.30. Vergoeding algemene raad
 
 Het college van afgevaardigden stelt de vergoeding vast voor de werkzaamheden van de deken en de overige leden van de algemene raad.
 
-##### Artikel 2.31. Rechthebbenden vacatiegeld en reiskostenvergoeding
+#### Artikel 2.31. Rechthebbenden vacatiegeld en reiskostenvergoeding
 
 1. De algemene raad kent vacatiegeld en een reiskostenvergoeding toe aan:
 
@@ -401,7 +378,7 @@ Het college van afgevaardigden stelt de vergoeding vast voor de werkzaamheden va
 
 2. Onder plaatsvervangende leden als bedoeld in het eerste lid, onderdeel b, wordt verstaan: als zodanig gekozen leden.
 
-##### Artikel 2.32. Rechthebbenden reiskostenvergoeding
+#### Artikel 2.32. Rechthebbenden reiskostenvergoeding
 
 De algemene raad vergoedt de reiskosten van:
 
@@ -415,21 +392,21 @@ De algemene raad vergoedt de reiskosten van:
 
 - e. de leden van een door het college van afgevaardigden ingestelde voorbereidingscommissie.
 
-##### Artikel 2.33. Verblijfskostenvergoeding
+#### Artikel 2.33. Verblijfskostenvergoeding
 
 De algemene raad kan verblijfskosten vergoeden indien dat naar zijn oordeel doelmatig is.
 
-##### Artikel 2.34. Andere rechthebbenden
+#### Artikel 2.34. Andere rechthebbenden
 
 De algemene raad kan in bijzondere gevallen aan anderen dan de in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3&artikel=2.31&z=2026-01-01&g=2026-01-01) en [artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3&artikel=2.32&z=2026-01-01&g=2026-01-01) genoemden vacatiegeld, een reiskostenvergoeding en een kostenvergoeding toekennen.
 
-##### Artikel 2.35. Hoogte vacatiegeld en reiskostenvergoeding
+#### Artikel 2.35. Hoogte vacatiegeld en reiskostenvergoeding
 
 1. De algemene raad stelt de hoogte van het vacatiegeld vast, die kan verschillen naar rechthebbende en tijdsduur.
 
 2. De algemene raad stelt de hoogte van de reiskostenvergoeding vast, die kan verschillen naar transportmiddel.
 
-##### Artikel 2.36. Nadere regels wijze declaratie
+#### Artikel 2.36. Nadere regels wijze declaratie
 
 1. De algemene raad stelt regels vast over de wijze waarop de vergoedingen, bedoeld in deze paragraaf worden gedeclareerd.
 
@@ -437,7 +414,7 @@ De algemene raad kan in bijzondere gevallen aan anderen dan de in [artikel 2.31]
 
 ### Afdeling 2.3. Arbeidsvoorwaarden medewerkers college van toezicht
 
-##### Artikel 2.37. Arbeidsvoorwaarden medewerkers college van toezicht
+#### Artikel 2.37. Arbeidsvoorwaarden medewerkers college van toezicht
 
 De arbeidsvoorwaarden van de medewerkers van het bureau van de Nederlandse orde van advocaten zijn van overeenkomstige toepassing op de secretaris en andere medewerkers van het college van toezicht.
 
@@ -447,11 +424,11 @@ De arbeidsvoorwaarden van de medewerkers van het bureau van de Nederlandse orde 
 
 #### Paragraaf 3.1.1. Algemeen
 
-##### Artikel 3.1. Aanvang stage
+#### Artikel 3.1. Aanvang stage
 
 De stage vangt aan op het moment dat de stagiaire is beëdigd, de stage en de patroon zijn goedgekeurd en de uitoefening van de praktijk is aangevangen.
 
-##### Artikel 3.2. Voltooide stage
+#### Artikel 3.2. Voltooide stage
 
 De stagiaire krijgt de verklaring, bedoeld in [artikel 9b, vijfde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9b), op het moment waarop de termijn, bedoeld in artikel 9b, eerste onderscheidenlijk tweede lid, van de Advocatenwet, is verstreken en:
 
@@ -461,7 +438,7 @@ De stagiaire krijgt de verklaring, bedoeld in [artikel 9b, vijfde lid, van de Ad
 
 - c. de raad van de orde, gehoord de patroon en de stagiaire, oordeelt dat de stagiaire over voldoende praktijkervaring beschikt, bedoeld in [artikel 9b, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9b).
 
-##### Artikel 3.3. Deeltijd
+#### Artikel 3.3. Deeltijd
 
 1. De stagiaire die in deeltijd werkzaam is, oefent de praktijk uit voor ten minste 24 uur per week.
 
@@ -469,7 +446,7 @@ De stagiaire krijgt de verklaring, bedoeld in [artikel 9b, vijfde lid, van de Ad
 
 3. De stagiaire die in deeltijd wenst te werken, informeert de raad van de orde over het voorgenomen aantal uren dat per week gewerkt zal worden, voorafgaand aan de uitoefening van de praktijk en voorafgaand aan iedere wijziging in het aantal uren dat per week gewerkt zal worden.
 
-##### Artikel 3.4. Stage geëindigd of opgeschort
+#### Artikel 3.4. Stage geëindigd of opgeschort
 
 1. De stage eindigt zonder stageverklaring:
 
@@ -499,7 +476,7 @@ De stagiaire krijgt de verklaring, bedoeld in [artikel 9b, vijfde lid, van de Ad
 
 #### Paragraaf 3.1.2. Goedkeuring stage en patroon
 
-##### Artikel 3.5. Goedkeuring stage en patroon
+#### Artikel 3.5. Goedkeuring stage en patroon
 
 1. De raad van de orde is belast met de goedkeuring van de stage en de beoogd patroon.
 
@@ -507,7 +484,7 @@ De stagiaire krijgt de verklaring, bedoeld in [artikel 9b, vijfde lid, van de Ad
 
 3. Het tweede lid is van overeenkomstige toepassing op een verzoek van de stagiaire om wijziging van de patroon.
 
-##### Artikel 3.6. Beoordeling aanvraag goedkeuring
+#### Artikel 3.6. Beoordeling aanvraag goedkeuring
 
 1. De raad van de orde kan de goedkeuring, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.5&z=2026-01-01&g=2026-01-01), onthouden indien:
 
@@ -539,13 +516,13 @@ De stagiaire krijgt de verklaring, bedoeld in [artikel 9b, vijfde lid, van de Ad
 
 4. Indien de advocaat is ingeschreven overeenkomstig [artikel 2a van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=2a) bedraagt de periode, bedoeld in het derde lid, onderdeel b, twee jaar en de periode, bedoeld in het derde lid, onderdeel c, vier jaar.
 
-##### Artikel 3.7. Bemiddeling bij zoeken patroon
+#### Artikel 3.7. Bemiddeling bij zoeken patroon
 
 Indien de patroon in de uitoefening van de praktijk is geschorst, de praktijk niet meer uitoefent of de stagiaire niet meer kan begeleiden, kan de raad van de orde bemiddelen bij het zoeken van een andere patroon.
 
 #### Paragraaf 3.1.3. Verplichtingen stagiaire
 
-##### Artikel 3.8. Verplichtingen stagiaire
+#### Artikel 3.8. Verplichtingen stagiaire
 
 1. De stagiaire verschaft de patroon de informatie die deze nodig heeft om te voldoen aan de verplichtingen, genoemd in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.13&z=2026-01-01&g=2026-01-01).
 
@@ -553,7 +530,7 @@ Indien de patroon in de uitoefening van de praktijk is geschorst, de praktijk ni
 
 3. De stagiaire verricht de hem door de patroon of werkgever opgedragen werkzaamheden, met dien verstande dat de nakoming van de verplichtingen, genoemd in [artikel 3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.13&z=2026-01-01&g=2026-01-01), voorrang heeft. Hij verleent zijn medewerking aan de naleving van [artikel 3.13, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.4&artikel=3.13&z=2026-01-01&g=2026-01-01), door zijn patroon.
 
-##### Artikel 3.9. Praktijkervaring stagiaire
+#### Artikel 3.9. Praktijkervaring stagiaire
 
 De stagiaire is aan het eind van de stage in staat zelfstandig en naar behoren de praktijk uit te oefenen en heeft gedurende de stage ten minste de volgende praktijkervaring opgedaan:
 
@@ -563,7 +540,7 @@ De stagiaire is aan het eind van de stage in staat zelfstandig en naar behoren d
 
 - c. hij heeft op twee van de drie rechtsgebieden burgerlijk recht en burgerlijk procesrecht, bestuursrecht en bestuursprocesrecht of strafrecht en strafprocesrecht ervaring opgedaan of, indien dat niet mogelijk is, op meerdere sub-rechtsgebieden binnen een van deze rechtsgebieden.
 
-##### Artikel 3.10. Activiteiten in arrondissement
+#### Artikel 3.10. Activiteiten in arrondissement
 
 1. Aan het eind van de stage heeft de stagiaire tien opleidingspunten behaald voor activiteiten die de raad van de orde voor stagiaires aanbiedt of laat aanbieden en een voldoende behaald voor de pleitoefening.
 
@@ -573,7 +550,7 @@ De stagiaire is aan het eind van de stage in staat zelfstandig en naar behoren d
 
 4. Bij de overgang naar een ander arrondissement worden de opleidingspunten, bedoeld in het eerste lid, en de voldoende voor de pleitoefening meegenomen.
 
-##### Artikel 3.11. Buitenstagiaire of stagiaire-ondernemer
+#### Artikel 3.11. Buitenstagiaire of stagiaire-ondernemer
 
 Een buitenstagiaire of stagiaire-ondernemer:
 
@@ -581,7 +558,7 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 - b. neemt alleen zaken aan die hij gelet op zijn kantoororganisatie adequaat kan behandelen.
 
-##### Artikel 3.12. Liquiditeit en boekhouding stagiaire-ondernemer
+#### Artikel 3.12. Liquiditeit en boekhouding stagiaire-ondernemer
 
 1. De stagiaire-ondernemer beschikt steeds over een passende kredietfaciliteit of over voldoende vermogen ter dekking van de kosten van het bruto minimumloon voor een jaar en de overige kosten van de praktijkvoering.
 
@@ -589,7 +566,7 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 #### Paragraaf 3.1.1. Algemeen
 
-##### Artikel 3.13. Verplichtingen patroon
+#### Artikel 3.13. Verplichtingen patroon
 
 1. De patroon geeft de stagiaire leiding, voorlichting en raad met betrekking tot de praktijkuitoefening in de ruimste zin van het woord. Hij schenkt daarbij bijzondere aandacht aan de introductie van de stagiaire bij en diens optreden jegens de rechterlijke macht, beroepsgenoten en cliënten. Hij bewaakt de ontwikkeling van de stagiaire op een systematische en structurele wijze.
 
@@ -615,7 +592,7 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 ### Afdeling 3.2. Beroepsopleiding advocaten
 
-##### Artikel 3.14. Indeling beroepsopleiding advocaten
+#### Artikel 3.14. Indeling beroepsopleiding advocaten
 
 1. De beroepsopleiding advocaten omvat:
 
@@ -637,7 +614,7 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 3. De beroepsopleiding advocaten vangt tweemaal per jaar aan.
 
-##### Artikel 3.15. Curriculum en opleidingsreglement
+#### Artikel 3.15. Curriculum en opleidingsreglement
 
 1. De algemene raad stelt het curriculum vast. Het curriculum bevat:
 
@@ -653,7 +630,7 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 3. In het opleidingsreglement kunnen taken worden opgedragen en bevoegdheden betreffende het onderwijs worden toegekend aan onderwijsaanbieders.
 
-##### Artikel 3.16. Toelating tot beroepsopleiding advocaten
+#### Artikel 3.16. Toelating tot beroepsopleiding advocaten
 
 1. Een stagiaire schrijft zich voor of bij aanvang van de stage bij de uitvoeringsorganisatie in voor de beroepsopleiding advocaten via de Nederlandse orde van advocaten. Indien een stagiaire voorafgaand aan de aanvang van de beroepsopleiding de basistest heeft afgelegd, legt hij bij de inschrijving, doch uiterlijk voor aanvang van de beroepsopleiding hiervan een bewijsstuk over aan de algemene raad. Het bewijsstuk dient bij aanvang van de beroepsopleiding advocaten niet ouder te zijn dan één jaar.
 
@@ -673,7 +650,7 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 5. De algemene raad kan van het tweede lid, aanhef en onderdelen b en c, afwijken in gevallen waarin toepassing daarvan zou leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 3.17. Deelname onderwijs
+#### Artikel 3.17. Deelname onderwijs
 
 1. De stagiaire neemt deel aan alle in [artikel 3.14, eerste lid, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&artikel=3.14&z=2026-01-01&g=2026-01-01), bedoelde onderdelen van de beroepsopleiding advocaten.
 
@@ -685,11 +662,11 @@ Een buitenstagiaire of stagiaire-ondernemer:
 
 5. De algemene raad kan van het derde en vierde lid afwijken indien toepassing daarvan zou leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 3.18. Vrijstelling deelname onderwijsonderdelen
+#### Artikel 3.18. Vrijstelling deelname onderwijsonderdelen
 
 Vervallen
 
-##### Artikel 3.19. Examinering
+#### Artikel 3.19. Examinering
 
 1. Aan de beroepsopleiding advocaten is een examen verbonden dat bestaat uit een aantal toetsen ten aanzien van de onderwijsonderdelen. De basistest is geen toets als bedoeld in de eerste volzin.
 
@@ -703,11 +680,11 @@ Vervallen
 
 6. De algemene raad kan afwijken van het vierde en vijfde lid in gevallen waarin toepassing daarvan zou leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 3.20. Vrijstelling van het examen
+#### Artikel 3.20. Vrijstelling van het examen
 
 Vervallen
 
-##### Artikel 3.21. Certificaat
+#### Artikel 3.21. Certificaat
 
 1. De algemene raad verstrekt aan de stagiaire het certificaat beroepsopleiding advocaten.
 
@@ -719,7 +696,7 @@ Vervallen
 
 - c. de onderwijsaanbieder of onderwijsaanbieders hebben verklaard dat de stagiaire aan alle opleidingsverplichtingen heeft voldaan.
 
-##### Artikel 3.22. Terme de grâce
+#### Artikel 3.22. Terme de grâce
 
 1. De algemene raad kan een stagiaire die is geschrapt op grond van [artikel 8c, eerste lid, aanhef en onderdeel c, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=8c), op diens verzoek, binnen twee jaar na de schrapping, nog ten hoogste tweemaal toelaten tot een toets in de nog niet behaalde examenonderdelen voor de onderwijsonderdelen, tenzij daardoor het aantal gelegenheden, bedoeld in [artikel 3.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&artikel=3.19&z=2026-01-01&g=2026-01-01), wordt overschreden.
 
@@ -731,17 +708,17 @@ Vervallen
 
 ### Afdeling 3.3. Organisatie beroepsopleiding advocaten
 
-##### Artikel 3.23. Aanbieder basistest
+#### Artikel 3.23. Aanbieder basistest
 
 De Nederlandse orde van advocaten sluit een overeenkomst met een aanbieder over de uitvoering van de basistest.
 
-##### Artikel 3.24. Uitvoeringsorganisatie beroepsopleiding advocaten
+#### Artikel 3.24. Uitvoeringsorganisatie beroepsopleiding advocaten
 
 De Nederlandse orde van advocaten sluit een overeenkomst met een uitvoeringsorganisatie over de uitvoering van de beroepsopleiding advocaten, met uitzondering van de basistest.
 
 ### Afdeling 3.4. Accreditatie beroepsopleiding advocaten
 
-##### Artikel 3.25. Accreditatie beroepsopleiding advocaten
+#### Artikel 3.25. Accreditatie beroepsopleiding advocaten
 
 1. Een opleidingsinstelling die de onderwijsonderdelen, bedoeld in [artikel 3.14, eerste lid, aanhef en onderdeel b, onder 3°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&artikel=3.14&z=2026-01-01&g=2026-01-01), aan wil bieden, doet een aanvraag om de opleiding te accrediteren bij de algemene raad.
 
@@ -769,7 +746,7 @@ De Nederlandse orde van advocaten sluit een overeenkomst met een uitvoeringsorga
 
 #### Paragraaf 4.1.1. Algemeen
 
-##### Artikel 4.1. Deskundigheid
+#### Artikel 4.1. Deskundigheid
 
 1. Een advocaat is bij de uitoefening van zijn beroep vakbekwaam, waaronder wordt begrepen dat de advocaat de professionele kennis en kunde bezit die nodig is voor het uitoefenen van de praktijk.
 
@@ -777,17 +754,17 @@ De Nederlandse orde van advocaten sluit een overeenkomst met een uitvoeringsorga
 
 #### Paragraaf 4.1.2. Professionele kennis en kunde
 
-##### Artikel 4.2. Reikwijdte
+#### Artikel 4.2. Reikwijdte
 
 1. Deze paragraaf is van toepassing op de advocaat die al dan niet onderbroken drie jaar of langer op het tableau is ingeschreven. In afwijking van de eerste volzin is [artikel 4.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3a&z=2026-01-01&g=2026-01-01), en [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-01-01&g=2026-01-01), van toepassing op de advocaat die onvoorwaardelijk op het tableau is ingeschreven.
 
 2. In afwijking van het eerste lid is deze paragraaf van toepassing op een advocaat die is ingeschreven op basis van een ten aanzien van het beroep van advocaat afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) of op grond van [artikel 16h van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16h) is ingeschreven.
 
-##### Artikel 4.3. Professionele kennis en kunde
+#### Artikel 4.3. Professionele kennis en kunde
 
 De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele kennis en kunde op voor zijn praktijk relevante rechtsgebieden.
 
-##### Artikel 4.4. Opleidingspunten
+#### Artikel 4.4. Opleidingspunten
 
 1. Een advocaat behaalt elk kalenderjaar ten minste twintig opleidingspunten, waarvan ten minste de helft betrekking heeft op juridische activiteiten op een voor zijn praktijk relevant rechtsgebied.
 
@@ -829,7 +806,7 @@ De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele ke
 
 7. Een advocaat toont aan dat de opleidingspunten zijn behaald door overlegging van adequate bewijsstukken met vermelding daarbij, voor zover van toepassing, van de geregistreerde rechtsgebieden als bedoeld in [artikel 6.32](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.9&artikel=6.32&z=2026-01-01&g=2026-01-01) waarop de opleidingspunten betrekking hebben.
 
-##### Artikel 4.5. Inhaalverplichting
+#### Artikel 4.5. Inhaalverplichting
 
 1. Indien een advocaat niet voldoet aan [artikel 4.4, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-01-01&g=2026-01-01), haalt hij uiterlijk binnen twaalf maanden na afloop van het desbetreffende kalenderjaar het tekort aan opleidingspunten in.
 
@@ -837,7 +814,7 @@ De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele ke
 
 3. Dit artikel laat onverlet dat de deken een dekenbezwaar kan indienen op grond van [artikel 46f van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=46f).
 
-##### Artikel 4.6. Herintredersregeling
+#### Artikel 4.6. Herintredersregeling
 
 1. Een advocaat die meer dan een jaar niet ingeschreven heeft gestaan, behaalt in de twaalf maanden na zijn beëdiging twintig opleidingspunten met juridische activiteiten op een voor zijn praktijk relevant rechtsgebied, onverminderd het bepaalde in [artikel 4.4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-01-01&g=2026-01-01).
 
@@ -845,7 +822,7 @@ De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele ke
 
 3. De raad van de orde kan voorwaarden verbinden aan de vrijstelling, bedoeld in het tweede lid.
 
-##### Artikel 4.7. Langdurige ziekte of zwangerschap
+#### Artikel 4.7. Langdurige ziekte of zwangerschap
 
 1. Indien een advocaat de praktijk meer dan zes maanden niet heeft uitgeoefend in verband met ziekte kan hij een beroep doen op toepassing van het tweede tot en met het vierde lid.
 
@@ -875,7 +852,7 @@ De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele ke
 
 #### Paragraaf 4.2.1. Advocaat bij de Hoge Raad
 
-##### Artikel 4.8. Aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
+#### Artikel 4.8. Aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
 
 1. De aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken is onvoorwaardelijk.
 
@@ -883,7 +860,7 @@ De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele ke
 
 3. Met de in [artikel 4.11, achtste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.11&z=2026-01-01&g=2026-01-01), bedoelde kennisgeving van het bewijsstuk aan de secretaris van de algemene raad wordt van rechtswege het voorwaardelijke karakter aan de aantekening ontnomen.
 
-##### Artikel 4.9. Verklaring ten behoeve van de voorwaardelijke aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
+#### Artikel 4.9. Verklaring ten behoeve van de voorwaardelijke aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
 
 1. De algemene raad geeft op verzoek van een onvoorwaardelijk ingeschreven advocaat de verklaring, bedoeld in [artikel 9j, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9j), af, indien hij:
 
@@ -907,7 +884,7 @@ De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele ke
 
 #### Paragraaf 4.2.2. Verklaring voor aantekening civiele cassatie
 
-##### Artikel 4.10. Weigering nieuw verzoek tot afgifte van een verklaring ten behoeve van de voorwaardelijke aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
+#### Artikel 4.10. Weigering nieuw verzoek tot afgifte van een verklaring ten behoeve van de voorwaardelijke aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
 
 De algemene raad kan een verzoek als bedoeld in [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.9&z=2026-01-01&g=2026-01-01), afwijzen, indien het verzoek wordt ingediend binnen drie jaar:
 
@@ -915,7 +892,7 @@ De algemene raad kan een verzoek als bedoeld in [artikel 4.9, eerste lid](https:
 
 - b. na het doorhalen van de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken.
 
-##### Artikel 4.11. Bewijsstuk ten behoeve van de onvoorwaardelijke aantekening
+#### Artikel 4.11. Bewijsstuk ten behoeve van de onvoorwaardelijke aantekening
 
 1. Een ‘advocaat bij de Hoge Raad’ in burgerlijke zaken legt binnen drie jaar na het verkrijgen van de voorwaardelijke aantekening met goed gevolg een proeve van bekwaamheid af.
 
@@ -941,11 +918,11 @@ De algemene raad kan een verzoek als bedoeld in [artikel 4.9, eerste lid](https:
 
 9. De algemene raad maakt het resultaat van de proeve van bekwaamheid bekend aan de raad van de orde.
 
-##### Artikel 4.12. Bekwaamheid cassatie
+#### Artikel 4.12. Bekwaamheid cassatie
 
 Een advocaat met de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken beschikt over de kennis en bekwaamheid om zelfstandig en naar behoren cassatieadviezen, cassatiemiddelen en cassatieverweren op te stellen.
 
-##### Artikel 4.13. Opleidingseisen
+#### Artikel 4.13. Opleidingseisen
 
 1. Een ‘advocaat bij de Hoge Raad’ in burgerlijke zaken behaalt elk kalenderjaar ten minste tien opleidingspunten op terreinen die leiden tot verdieping van zijn kennis van het burgerlijk recht, het burgerlijk procesrecht en de beheersing van de cassatietechniek.
 
@@ -953,7 +930,7 @@ Een advocaat met de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke z
 
 3. De algemene raad kan nadere regels stellen over de terreinen waarop de opleidingspunten, bedoeld in het eerste lid, kunnen worden behaald.
 
-##### Artikel 4.14. Praktijkeisen
+#### Artikel 4.14. Praktijkeisen
 
 1. Een ‘advocaat bij de Hoge Raad’ in burgerlijke zaken behandelt iedere drie jaar na het verkrijgen van de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken ten minste twaalf cassatiezaken waarvan er ten minste zes hebben geleid tot een beoordeling door de Hoge Raad. Hierbij worden niet meegerekend zaken waarin het cassatieberoep op grond van [artikel 80a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80a) niet-ontvankelijk is verklaard.
 
@@ -967,13 +944,13 @@ Een advocaat met de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke z
 
 ### Afdeling 5.1. Algemeen
 
-##### Artikel 5.1. In gevaar brengen vrijheid en onafhankelijkheid
+#### Artikel 5.1. In gevaar brengen vrijheid en onafhankelijkheid
 
 1. Het is de advocaat niet toegestaan rechtsverhoudingen aan te gaan of te laten voortbestaan waardoor de vrijheid en onafhankelijkheid in de uitoefening van zijn beroep, met inbegrip van de behartiging van het partijbelang en de daarmee samenhangende vertrouwensrelatie tussen de advocaat en zijn cliënt, in gevaar kunnen worden gebracht.
 
 2. Het is de advocaat niet toegestaan de praktijk uit te oefenen, al dan niet in dienst, in een vorm waardoor de vrijheid en onafhankelijkheid in de uitoefening van zijn beroep, met inbegrip van de behartiging van het partijbelang en de daarmee samenhangende vertrouwensrelatie tussen de advocaat en zijn cliënt, in gevaar kunnen worden gebracht.
 
-##### Artikel 5.2. Wijzen van uitoefening van de praktijk
+#### Artikel 5.2. Wijzen van uitoefening van de praktijk
 
 De advocaat oefent de praktijk uit op een of meer van de volgende wijzen:
 
@@ -985,7 +962,7 @@ De advocaat oefent de praktijk uit op een of meer van de volgende wijzen:
 
 ### Afdeling 5.2. Samenwerking
 
-##### Artikel 5.3. Samenwerkingsverband
+#### Artikel 5.3. Samenwerkingsverband
 
 Van een samenwerkingsverband is uitsluitend sprake indien een advocaat met een andere natuurlijk persoon, een samenwerkingsverband of een rechtspersoon:
 
@@ -993,7 +970,7 @@ Van een samenwerkingsverband is uitsluitend sprake indien een advocaat met een a
 
 - b. de zeggenschap of eindverantwoordelijkheid over de praktijkuitoefening deelt.
 
-##### Artikel 5.4. Toegestane samenwerkingsverbanden
+#### Artikel 5.4. Toegestane samenwerkingsverbanden
 
 1. Een advocaat kan uitsluitend een samenwerkingsverband aangaan met:
 
@@ -1005,13 +982,13 @@ Van een samenwerkingsverband is uitsluitend sprake indien een advocaat met een a
 
 2. De algemene raad kan beroepsorganisaties in het buitenland als bedoeld in het eerste lid, onderdeel b, erkennen indien de buitenlandse beroepsbeoefenaren in vrijheid en onafhankelijkheid hun beroep uitoefenen en onderworpen zijn aan tuchtrecht vergelijkbaar met het Nederlandse tuchtrecht. De algemene raad weegt bij zijn besluit mee of advocaten die op het Nederlandse tableau ingeschreven staan, naar het recht van het andere land een samenwerkingsverband kunnen aangaan met de leden van die beroepsorganisaties.
 
-##### Artikel 5.5. Naamgeving
+#### Artikel 5.5. Naamgeving
 
 Het is de advocaat niet toegestaan om met andere dan de in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-01-01&g=2026-01-01), genoemde beroepsbeoefenaren, samenwerkingsverbanden en praktijkrechtspersonen onder een gemeenschappelijke naam naar buiten op te treden.
 
 ### Afdeling 5.3. Bestuurders
 
-##### Artikel 5.6. Bestuurders van samenwerkingsverbanden en rechtspersonen
+#### Artikel 5.6. Bestuurders van samenwerkingsverbanden en rechtspersonen
 
 1. Indien het samenwerkingsverband of de praktijkrechtspersoon een bestuur heeft is de meerderheid van het bestuur en de voorzitter ervan advocaat of beoefenaar van een toegelaten vrij beroep.
 
@@ -1035,7 +1012,7 @@ Het is de advocaat niet toegestaan om met andere dan de in [artikel 5.4, eerste 
 
 ### Afdeling 4.2. Vakbekwaamheidseisen cassatie
 
-##### Artikel 5.7. Oprichten van praktijkrechtspersoon
+#### Artikel 5.7. Oprichten van praktijkrechtspersoon
 
 1. De statuten van een praktijkrechtspersoon voldoen aan de volgende eisen:
 
@@ -1059,7 +1036,7 @@ Het is de advocaat niet toegestaan om met andere dan de in [artikel 5.4, eerste 
 
 5. Indien de rechtspersoon geen statuten heeft, is het eerste lid, respectievelijk tweede lid, van toepassing op de overeenkomst die het doel en de wijze van samenwerking bepaalt.
 
-##### Artikel 5.8. Aandeelhouderschap en stemrecht
+#### Artikel 5.8. Aandeelhouderschap en stemrecht
 
 1. Alle aandelen van een praktijkrechtspersoon en een houdster-rechtspersoon met een in aandelen verdeeld kapitaal en de daarmee verbonden stemrechten of certificaten ervan zijn in handen van:
 
@@ -1073,7 +1050,7 @@ Het is de advocaat niet toegestaan om met andere dan de in [artikel 5.4, eerste 
 
 ### Afdeling 5.5. Praktijkuitoefening in dienst
 
-##### Artikel 5.9. Toegestane dienstverbanden
+#### Artikel 5.9. Toegestane dienstverbanden
 
 Een advocaat kan uitsluitend de praktijk uitoefenen in dienst van:
 
@@ -1091,7 +1068,7 @@ Een advocaat kan uitsluitend de praktijk uitoefenen in dienst van:
 
 - g. een andere werkgever, zolang de advocaat binnen dat dienstverband uitsluitend optreedt voor die werkgever of in de groep met de werkgever verbonden rechtspersonen, en de werkzaamheden in hoofdzaak zijn gericht op de uitoefening van de rechtspraktijk.
 
-##### Artikel 5.10. Toegestane organisaties met ideële doelstelling
+#### Artikel 5.10. Toegestane organisaties met ideële doelstelling
 
 1. Een organisatie met een ideële doelstelling als bedoeld in [artikel 5.9, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.9&z=2026-01-01&g=2026-01-01):
 
@@ -1107,13 +1084,13 @@ Een advocaat kan uitsluitend de praktijk uitoefenen in dienst van:
 
 - b. de behandeling van zaken waarvan naar hun aard aannemelijk is dat de wederpartij zich niet voor rechtsbijstand tot die werkgever kan wenden.
 
-##### Artikel 5.11. Verzekerde rechtsbijstand
+#### Artikel 5.11. Verzekerde rechtsbijstand
 
 1. De advocaat in dienst van een werkgever als bedoeld in [artikel 5.9, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.9&z=2026-01-01&g=2026-01-01), kan uitsluitend optreden in die hoedanigheid ten behoeve van de werkgever of bij die werkgever verzekerden.
 
 2. Indien de advocaat, bedoeld in het eerste lid, wordt verzocht de belangen van de verzekerde in een gerechtelijke of administratieve procedure te verdedigen, te vertegenwoordigen of te behartigen biedt hij de verzekerde de keuze de behartiging van zijn belangen toe te vertrouwen aan een advocaat of een andere rechtens bevoegde deskundige van zijn keuze.
 
-##### Artikel 5.12. Professioneel statuut
+#### Artikel 5.12. Professioneel statuut
 
 1. Een advocaat kan de praktijk uitsluitend in dienst uitoefenen van een werkgever als bedoeld in [artikel 5.9, onderdelen e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.9&z=2026-01-01&g=2026-01-01), indien hij een door hem en zijn werkgever ondertekend professioneel statuut heeft, gelijk aan het model, bedoeld in het derde lid.
 
@@ -1121,17 +1098,17 @@ Een advocaat kan uitsluitend de praktijk uitoefenen in dienst van:
 
 3. De algemene raad stelt een model van het professioneel statuut vast en kan bij wijzigingen in dat model bepalen wanneer een bestaand professioneel statuut moet worden aangepast.
 
-##### Artikel 5.13. Voorkomen tegenstrijdige belangen
+#### Artikel 5.13. Voorkomen tegenstrijdige belangen
 
 1. Het is de advocaat die de praktijk in dienst uitoefent niet toegestaan in enige zaak voor een of meer cliënten op te treden, wanneer hij daarbij uit hoofde van het dienstverband belangen in acht zou moeten nemen die strijden met het belang van die cliënt of cliënten of wanneer een daarop uitlopende ontwikkeling aannemelijk is.
 
 2. De praktijkuitoefening van een **advocaat in dienst** van een werkgever is te verenigen met een door hem buiten dat dienstverband uitgeoefende rechtspraktijk, mits de advocaat in afdoende mate ervoor zorgdraagt dat geen belangenverstrengeling kan ontstaan, dat verwarring omtrent de hoedanigheid waarin hij optreedt is uitgesloten en hij van deze rechtspraktijk bij de deken melding maakt.
 
-##### Artikel 5.14. Kenbare hoedanigheid
+#### Artikel 5.14. Kenbare hoedanigheid
 
 De advocaat in dienst van een werkgever behoudt bij alle binnen het dienstverband voorkomende werkzaamheden de hoedanigheid van advocaat en maakt die hoedanigheid tegenover derden steeds duidelijk kenbaar.
 
-##### Artikel 5.15. Informeren deken bij praktijkuitoefening in dienst
+#### Artikel 5.15. Informeren deken bij praktijkuitoefening in dienst
 
 1. De advocaat, bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.12&z=2026-01-01&g=2026-01-01), verstrekt de deken een kopie van het door hem en zijn werkgever ondertekende professioneel statuut voorafgaand aan zijn praktijkuitoefening in dienst.
 
@@ -1141,21 +1118,21 @@ De advocaat in dienst van een werkgever behoudt bij alle binnen het dienstverban
 
 ### Afdeling 6.1. Interne organisatie en beschrijving werkwijze
 
-##### Artikel 6.1. Reikwijdte
+#### Artikel 6.1. Reikwijdte
 
 Deze afdeling is niet van toepassing op advocaat-stagiaires, uitgezonderd stagiaire-ondernemers en buitenstagiaires.
 
-##### Artikel 6.2. Inrichten organisatie en dienstverlening
+#### Artikel 6.2. Inrichten organisatie en dienstverlening
 
 1. De advocaat richt de organisatie van zijn kantoor, alsmede de dienstverlening aan de cliënt adequaat in.
 
 2. De algemene raad kan, gehoord het college van afgevaardigden, over het bepaalde in het eerste lid nadere regels stellen.
 
-##### Artikel 6.3. Aannemen zaken
+#### Artikel 6.3. Aannemen zaken
 
 Een advocaat neemt alleen zaken aan die hij gelet op zijn kantoororganisatie adequaat kan behandelen.
 
-##### Artikel 6.4. Beschrijving werkwijze
+#### Artikel 6.4. Beschrijving werkwijze
 
 1. De advocaat beschrijft de wijze waarop hij voldoet aan de voor hem geldende regels betreffende:
 
@@ -1183,7 +1160,7 @@ Een advocaat neemt alleen zaken aan die hij gelet op zijn kantoororganisatie ade
 
 ### Afdeling 5.4. Rechtspersonen
 
-##### Artikel 6.5. Administratieplicht
+#### Artikel 6.5. Administratieplicht
 
 1. Voor zover niet reeds bepaald in [artikel 10 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), respectievelijk [artikel 15i van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i):
 
@@ -1197,13 +1174,13 @@ Een advocaat neemt alleen zaken aan die hij gelet op zijn kantoororganisatie ade
 
 #### Paragraaf 6.3.1. Doel registreren geheimhoudernummers
 
-##### Artikel 6.6. Doel registratie
+#### Artikel 6.6. Doel registratie
 
 De secretaris van de algemene raad registreert geheimhoudernummers met het oog op de verstrekking ervan aan de in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.3&paragraaf=6.3.2&artikel=6.7&z=2026-01-01&g=2026-01-01) en [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.3&paragraaf=6.3.2&artikel=6.8&z=2026-01-01&g=2026-01-01) bedoelde partijen ter waarborging van de vertrouwelijkheid van de communicatie tussen advocaat en cliënt.
 
 #### Paragraaf 6.3.2. Verstrekking geheimhoudernummers
 
-##### Artikel 6.7. Verstrekking aan instanties
+#### Artikel 6.7. Verstrekking aan instanties
 
 1. De secretaris van de algemene raad kan geheimhoudernummers verstrekken met het oog op het in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.3&paragraaf=6.3.1&artikel=6.6&z=2026-01-01&g=2026-01-01) genoemde doel aan:
 
@@ -1215,19 +1192,19 @@ De secretaris van de algemene raad registreert geheimhoudernummers met het oog o
 
 2. De Nederlandse orde van advocaten sluit daartoe, gehoord het college van afgevaardigden, met de in het eerste lid bedoelde partijen een overeenkomst.
 
-##### Artikel 6.8. Verstrekken aan derden
+#### Artikel 6.8. Verstrekken aan derden
 
 1. De secretaris van de algemene raad kan op verzoek van een advocaat zijn geheimhoudernummers aan anderen dan de in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.3&paragraaf=6.3.2&artikel=6.7&z=2026-01-01&g=2026-01-01), bedoelde partijen verstrekken met het oog op het in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.3&paragraaf=6.3.1&artikel=6.6&z=2026-01-01&g=2026-01-01) genoemde doel.
 
 2. De Nederlandse orde van advocaten sluit daartoe, gehoord het college van afgevaardigden, met deze anderen een overeenkomst.
 
-##### Artikel 6.9. Verwerking kennisgevingen geheimhoudernummers
+#### Artikel 6.9. Verwerking kennisgevingen geheimhoudernummers
 
 De secretaris van de algemene raad verwerkt kennisgevingen ten aanzien van geheimhoudernummers zo snel mogelijk in het register van geheimhoudernummers.
 
 #### Paragraaf 6.3.3. Opgave geheimhoudernummers
 
-##### Artikel 6.10. Opgave geheimhoudernummers
+#### Artikel 6.10. Opgave geheimhoudernummers
 
 1. De advocaat doet aan de secretaris van de algemene raad opgave van zijn geheimhoudernummers en van die van personen met een van hem afgeleid verschoningsrecht.
 
@@ -1235,7 +1212,7 @@ De secretaris van de algemene raad verwerkt kennisgevingen ten aanzien van gehei
 
 3. De advocaat geeft onverwijld alle wijzigingen betreffende een of meer van zijn geheimhoudernummers door aan de secretaris van de algemene raad.
 
-##### Artikel 6.11. Zorgplicht geheimhoudernummers
+#### Artikel 6.11. Zorgplicht geheimhoudernummers
 
 1. Een advocaat maakt gebruik van een ingevolge [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.3&paragraaf=6.3.3&artikel=6.10&z=2026-01-01&g=2026-01-01) opgegeven geheimhoudernummer voor de vertrouwelijke communicatie, tenzij zwaarwegende omstandigheden zich daartegen verzetten.
 
@@ -1245,7 +1222,7 @@ De secretaris van de algemene raad verwerkt kennisgevingen ten aanzien van gehei
 
 4. De advocaat draagt er zorg voor dat een persoon met een van hem afgeleid verschoningsrecht zijn telefoon of faxapparaat met geheimhoudernummer niet laat gebruiken door een persoon zonder verschoningsrecht.
 
-##### Artikel 6.12. Misbruik of verlies opgegeven geheimhoudernummers
+#### Artikel 6.12. Misbruik of verlies opgegeven geheimhoudernummers
 
 1. De advocaat die zijn telefoon of faxapparaat met geheimhoudernummer laat gebruiken of heeft laten gebruiken onder dwang meldt dat zo spoedig mogelijk aan de secretaris van de algemene raad.
 
@@ -1255,11 +1232,11 @@ De secretaris van de algemene raad verwerkt kennisgevingen ten aanzien van gehei
 
 ### Afdeling 6.4. Advocatenpas en authenticatiemiddel
 
-##### Artikel 6.13. Advocatenpas
+#### Artikel 6.13. Advocatenpas
 
 Een advocaat beschikt over een geldige advocatenpas, uitgegeven door een leverancier die door de algemene raad is geselecteerd op grond van [artikel 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.4&artikel=6.16&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 6.14. Gemachtigden
+#### Artikel 6.14. Gemachtigden
 
 1. Een advocaat kan één advocatenpas aanvragen per door hem gemachtigde persoon.
 
@@ -1267,17 +1244,17 @@ Een advocaat beschikt over een geldige advocatenpas, uitgegeven door een leveran
 
 3. Een advocaat draagt er zorg voor dat de gemachtigde de advocatenpas gebruikt conform zijn opdracht en met inachtneming van het bepaalde bij of krachtens deze afdeling.
 
-##### Artikel 6.15. Informeren bij vermissing, diefstal of schade
+#### Artikel 6.15. Informeren bij vermissing, diefstal of schade
 
 De advocaat informeert de leverancier van de advocatenpas onverwijld in geval van vermissing, diefstal of beschadiging van de eigen advocatenpas of van een onder zijn verantwoordelijkheid aangeschafte advocatenpas.
 
-##### Artikel 6.16. Selectie leveranciers en nadere regels
+#### Artikel 6.16. Selectie leveranciers en nadere regels
 
 1. De algemene raad selecteert de leveranciers van de advocatenpas.
 
 2. De algemene raad kan nadere regels stellen over de advocatenpas, onder meer met betrekking tot de aanvraag, uitgifte en de geldigheid ervan.
 
-##### Artikel 6.17. Informatie door secretaris van de algemene raad
+#### Artikel 6.17. Informatie door secretaris van de algemene raad
 
 De secretaris van de algemene raad informeert de leverancier van de advocatenpas onverwijld over schrapping of doorhaling van het tableau of schorsing in de uitoefening van de praktijk van een advocaat opdat de advocatenpas wordt geblokkeerd.
 
@@ -1285,11 +1262,11 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 #### Paragraaf 6.3.1. Doel registreren geheimhoudernummers
 
-##### Artikel 6.18. Reikwijdte derdengelden
+#### Artikel 6.18. Reikwijdte derdengelden
 
 [Afdeling 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.5&z=2026-01-01&g=2026-01-01) is niet van toepassing op de advocaat die optreedt in een hoedanigheid die het gevolg is van een rechterlijke benoeming, indien en voor zover daarbij voorzien is in een regeling voor het beheer van derdengelden.
 
-##### Artikel 6.19. Derdengelden
+#### Artikel 6.19. Derdengelden
 
 1. Een advocaat draagt er zorg voor dat derdengelden worden overgemaakt hetzij rechtstreeks naar de rechthebbende, hetzij naar de bankrekening van de stichting derdengelden die hem ter beschikking staat.
 
@@ -1301,7 +1278,7 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 5. Indien derdengelden zijn aangewend ter voldoening van een eigen declaratie, bevestigt de advocaat dit schriftelijk aan de rechthebbende.
 
-##### Artikel 6.20. Waardepapieren en kostbaarheden
+#### Artikel 6.20. Waardepapieren en kostbaarheden
 
 1. [Artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.1&artikel=6.19&z=2026-01-01&g=2026-01-01) is, zo mogelijk, van overeenkomstige toepassing op waardepapieren en kostbaarheden die de advocaat bij wijze van derdengelden ontvangt.
 
@@ -1309,7 +1286,7 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 #### Paragraaf 5.5.2. Experiment rechtsbijstandsverzekeraars
 
-##### Artikel 6.21. Beschikbaarheid stichting derdengelden
+#### Artikel 6.21. Beschikbaarheid stichting derdengelden
 
 1. Een advocaat heeft een stichting derdengelden ter beschikking, die voldoet aan de eisen opgenomen in [artikel 6.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.2&artikel=6.22&z=2026-01-01&g=2026-01-01).
 
@@ -1321,7 +1298,7 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 - b. enige wijziging inzake de beschikbaarheid van een stichting derdengelden.
 
-##### Artikel 6.22. Eisen stichting derdengelden
+#### Artikel 6.22. Eisen stichting derdengelden
 
 1. De stichting derdengelden heeft statuten overeenkomstig het model, bedoeld in het tiende lid; de naam van de stichting bevat ten minste de woorden 'stichting', 'beheer' en 'derdengelden'.
 
@@ -1355,7 +1332,7 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 10. De algemene raad kan modellen voor de statuten van de stichting derdengelden en voor de overeenkomst tussen de stichting en de advocaat of zijn kantoor vaststellen en kan bij wijzigingen van deze modellen bepalen wanneer bestaande statuten en overeenkomsten tussen de stichting en de advocaat of zijn kantoor moeten worden aangepast.
 
-##### Artikel 6.23. Bestuurder stichting derdengelden
+#### Artikel 6.23. Bestuurder stichting derdengelden
 
 1. Een advocaat die bestuurder is van een stichting derdengelden is gehouden de bepalingen van deze afdeling na te leven.
 
@@ -1365,7 +1342,7 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 ### Afdeling 6.1. Interne organisatie en beschrijving werkwijze
 
-##### Artikel 6.24. Beroepsaansprakelijkheidsverzekering
+#### Artikel 6.24. Beroepsaansprakelijkheidsverzekering
 
 1. De advocaat is adequaat verzekerd ter zake van het risico van zijn beroepsaansprakelijkheid.
 
@@ -1377,7 +1354,7 @@ De secretaris van de algemene raad informeert de leverancier van de advocatenpas
 
 5. De algemene raad stelt een model van de vrijwaring vast en kan bij wijzigingen van dat model bepalen wanneer bestaande vrijwaringen moeten worden aangepast.
 
-##### Artikel 6.25. Dekking van verzekering
+#### Artikel 6.25. Dekking van verzekering
 
 De in [artikel 6.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.6&artikel=6.24&z=2026-01-01&g=2026-01-01), bedoelde verzekering:
 
@@ -1393,7 +1370,7 @@ De in [artikel 6.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981
 
 - f. omvat voor een samenwerkingsverband van meer dan twee advocaten geen eigen risico per aanspraak hoger dan € 5.000 maal het aantal verzekerde advocaten, met een maximum van € 100.000 per aanspraak.
 
-##### Artikel 6.26. Beperking aansprakelijkheid
+#### Artikel 6.26. Beperking aansprakelijkheid
 
 Een advocaat kan schriftelijk met de cliënt overeenkomen dat de beroepsaansprakelijkheid, buiten het bedrag van het eigen risico, wordt beperkt tot het bedrag waarop de verzekering aanspraak op uitkering geeft, indien:
 
@@ -1403,7 +1380,7 @@ Een advocaat kan schriftelijk met de cliënt overeenkomen dat de beroepsaansprak
 
 ### Afdeling 6.7. Betalingen aan en door advocaat
 
-##### Artikel 6.27. Betalingen aan en door advocaat
+#### Artikel 6.27. Betalingen aan en door advocaat
 
 1. De advocaat verricht of aanvaardt in het kader van zijn praktijkuitoefening betalingen slechts giraal behoudens het bepaalde in het tweede en derde lid.
 
@@ -1413,7 +1390,7 @@ Een advocaat kan schriftelijk met de cliënt overeenkomen dat de beroepsaansprak
 
 ### Afdeling 6.8. Klachten en geschillen
 
-##### Artikel 6.28. Kantoorklachtenregeling
+#### Artikel 6.28. Kantoorklachtenregeling
 
 1. De advocaat beschikt over een kantoorklachtenregeling die voldoet aan het bepaalde in het tweede lid. De advocaat draagt er zorg voor dat klachten conform de kantoorklachtenregeling worden behandeld.
 
@@ -1437,13 +1414,13 @@ Een advocaat kan schriftelijk met de cliënt overeenkomen dat de beroepsaansprak
 
 4. Het eerste tot en met derde lid is niet van toepassing op een advocaat die de praktijk uitoefent in dienst van een werkgever als bedoeld in [artikel 5.9, aanhef en onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.9&z=2026-01-01&g=2026-01-01), en uitsluitend voor de werkgever optreedt.
 
-##### Artikel 6.29. Geschilbeslechting
+#### Artikel 6.29. Geschilbeslechting
 
 1. Een advocaat, de praktijkrechtspersoon of het samenwerkingsverband komt een forumkeuze met de cliënt overeen voor geschillen over de totstandkoming en de uitvoering van de overeenkomst van opdracht, de kwaliteit van de dienstverlening en de hoogte van de declaratie. De eerste volzin is niet van toepassing op een advocaat die de praktijk uitoefent in dienst van een werkgever als bedoeld in [artikel 5.9, aanhef en onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.9&z=2026-01-01&g=2026-01-01), en uitsluitend voor de werkgever optreedt.
 
 2. Indien een advocaat, praktijkrechtspersoon of samenwerkingsverband in de overeenkomst van opdracht opneemt dat geschillen over de totstandkoming en de uitvoering van deze overeenkomst, de kwaliteit van de dienstverlening en de hoogte van de declaratie ter beslechting worden voorgelegd aan een ander dan de bevoegde rechter, dan vindt deze geschilbeslechting in ieder geval plaats door middel van een overeenkomst tot arbitrage als bedoeld in [artikel 1020 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1020) of door middel van een vaststellingsovereenkomst als bedoeld in [artikel 900 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900).
 
-##### Artikel 6.30. Klachtregistratie
+#### Artikel 6.30. Klachtregistratie
 
 De klachtenfunctionaris houdt een overzicht bij van alle binnengekomen klachten met daarbij het onderwerp van de klacht.
 
@@ -1451,25 +1428,25 @@ De klachtenfunctionaris houdt een overzicht bij van alle binnengekomen klachten 
 
 ### Afdeling 7.1. Controle door advocaat
 
-##### Artikel 7.1. Controle identiteit cliënt en wettigheid opdracht
+#### Artikel 7.1. Controle identiteit cliënt en wettigheid opdracht
 
 1. Bij aanvaarding van de opdracht vergewist de advocaat zich van de identiteit van de cliënt en in voorkomend geval tevens van de identiteit van de tussenpersoon die de opdracht namens de cliënt verstrekt, tenzij de aard of de omstandigheden van de zaak dit onmogelijk maken.
 
 2. Bij de aanvaarding van de opdracht gaat de advocaat na of in redelijkheid aanwijzingen bestaan dat de opdracht strekt tot voorbereiding, ondersteuning of afscherming van onwettige activiteiten.
 
-##### Artikel 7.2. Twijfel identiteit cliënt
+#### Artikel 7.2. Twijfel identiteit cliënt
 
 1. De advocaat mag afgaan op de juistheid van de hem door de cliënt verstrekte gegevens zolang in redelijkheid aanwijzingen van het tegendeel ontbreken.
 
 2. Indien de advocaat gerede twijfel heeft, dan wel indien er omstandigheden zijn die gerede twijfel rechtvaardigen, over de juistheid van de door of namens de cliënt verschafte gegevens of de identiteit van de cliënt of de tussenpersoon, stelt de advocaat een onderzoek in naar de juistheid van de verschafte gegevens, de achtergrond van de cliënt, de tussenpersoon onderscheidenlijk het doel van de opdracht, tenzij de aard of omstandigheden van de zaak dit onmogelijk maken.
 
-##### Artikel 7.3. Weigeren dienstverlening
+#### Artikel 7.3. Weigeren dienstverlening
 
 De advocaat onthoudt zich van de verlening van diensten of legt een opdracht neer, indien hij in redelijkheid niet in voldoende mate de gegevens, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=7&afdeling=7.1&artikel=7.1&z=2026-01-01&g=2026-01-01) en [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=7&afdeling=7.1&artikel=7.2&z=2026-01-01&g=2026-01-01) heeft verkregen, of indien in redelijkheid aanwijzingen bestaan dat de opgedragen diensten strekken tot de voorbereiding, ondersteuning of afscherming van onwettige activiteiten.
 
 ### Afdeling 7.2. Communicatie algemeen
 
-##### Artikel 7.4. Informatieverstrekking
+#### Artikel 7.4. Informatieverstrekking
 
 1. De advocaat vermijdt in zijn optreden naar buiten dat een onjuiste, misleidende of onvolledige voorstelling van zaken wordt gegeven omtrent de wijze van praktijkuitoefening en omtrent enige vorm van samenwerking.
 
@@ -1489,7 +1466,7 @@ De advocaat onthoudt zich van de verlening van diensten of legt een opdracht nee
 
 - g. welke rechtsgebieden de advocaat heeft geregistreerd als bedoeld in [artikel 6.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=6&afdeling=6.9&artikel=6.32&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 7.5. Opdrachtbevestiging
+#### Artikel 7.5. Opdrachtbevestiging
 
 1. De advocaat informeert zijn cliënt over de persoon, het samenwerkingsverband of de rechtspersoon met wie de cliënt de overeenkomst van opdracht sluit.
 
@@ -1497,7 +1474,7 @@ De advocaat onthoudt zich van de verlening van diensten of legt een opdracht nee
 
 ### Afdeling 6.4. Advocatenpas en authenticatiemiddel
 
-##### Artikel 7.6. Adviseren cliënt inzake civiele cassatie
+#### Artikel 7.6. Adviseren cliënt inzake civiele cassatie
 
 De advocaat bij de Hoge Raad adviseert de cliënt of, indien van toepassing, de advocaat die opdrachtgever is, tijdig en schriftelijk over:
 
@@ -1511,7 +1488,7 @@ De advocaat bij de Hoge Raad adviseert de cliënt of, indien van toepassing, de 
 
 #### Paragraaf 6.5.2. Stichting derdengelden
 
-##### Artikel 7.7. Verbod op resultaatgerelateerd honorarium
+#### Artikel 7.7. Verbod op resultaatgerelateerd honorarium
 
 1. Het staat de advocaat niet vrij overeen te komen, dat:
 
@@ -1523,13 +1500,13 @@ De advocaat bij de Hoge Raad adviseert de cliënt of, indien van toepassing, de 
 
 #### Paragraaf 7.4.2. Incassotarief
 
-##### Artikel 7.8. Uitzondering incassotarief
+#### Artikel 7.8. Uitzondering incassotarief
 
 Een advocaat kan gebruik maken van een binnen de advocatuur gebruikelijk en aanvaard incassotarief.
 
 #### Paragraaf 7.4.3. Experiment letsel- en overlijdensschadezaken
 
-##### Artikel 7.9. Voorwaarden letsel- en overlijdensschadezaken
+#### Artikel 7.9. Voorwaarden letsel- en overlijdensschadezaken
 
 Een advocaat kan de bepalingen van deze paragraaf toepassen bij letsel- en overlijdensschadezaken, indien:
 
@@ -1537,7 +1514,7 @@ Een advocaat kan de bepalingen van deze paragraaf toepassen bij letsel- en overl
 
 - b. de cliënt niet in aanmerking komt voor door de overheid gefinancierde rechtsbijstand, of daar uitdrukkelijk van af ziet.
 
-##### Artikel 7.10. Vergoeding advocaat
+#### Artikel 7.10. Vergoeding advocaat
 
 De advocaat kan met zijn cliënt overeenkomen dat hij geen honorarium in rekening brengt indien het financiële resultaat voor de cliënt minder is dan of gelijk is aan nihil, en
 
@@ -1545,7 +1522,7 @@ De advocaat kan met zijn cliënt overeenkomen dat hij geen honorarium in rekenin
 
 - b. indien de betrokken advocaat alle specifieke kosten voldoet en deze kosten slechts aan de rechtzoekende in rekening brengt voor zover het te verkrijgen financiële resultaat daarvoor ruimte biedt, dat hij zijn gebruikelijke uurtarief vermenigvuldigt met ten hoogste factor 2,5, en dat hij een honorarium in rekening brengt, inclusief algemene kantoorkosten en BTW, van ten hoogste 35 procent van het financiële resultaat en dat toegewezen kostenvergoedingen aan hem toekomen.
 
-##### Artikel 7.11. Bijzondere normen advocaat
+#### Artikel 7.11. Bijzondere normen advocaat
 
 1. De advocaat informeert de cliënt schriftelijk voorafgaand aan het sluiten van de overeenkomst ten minste over:
 
@@ -1563,7 +1540,7 @@ De advocaat kan met zijn cliënt overeenkomen dat hij geen honorarium in rekenin
 
 5. De advocaat legt de omstandigheden van het geval vast, op grond waarvan iedere zaak voldoet aan [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=7&afdeling=7.4&paragraaf=7.4.3&artikel=7.9&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 7.12. Inhoud overeenkomst
+#### Artikel 7.12. Inhoud overeenkomst
 
 Een overeenkomst die afspraken aangaande het honorarium bevat wordt door beide partijen ondertekend en bevat in ieder geval:
 
@@ -1595,13 +1572,13 @@ Een overeenkomst die afspraken aangaande het honorarium bevat wordt door beide p
 
 - h. een bepaling waarin is vastgelegd dat de cliënt na het tekenen van de overeenkomst deze nog eenzijdig en zonder gevolgen teniet kan doen binnen een in de overeenkomst te bepalen redelijke bedenktijd.
 
-##### Artikel 7.13. Informeren deken over resultaatgerelateerd honorarium
+#### Artikel 7.13. Informeren deken over resultaatgerelateerd honorarium
 
 Vervallen
 
 ### Hoofdstuk 8. Besluitvorming en rechtsbescherming
 
-##### Artikel 8.1. Beschikkingen onder voorwaarden
+#### Artikel 8.1. Beschikkingen onder voorwaarden
 
 De raad van de orde kan voorwaarden verbinden aan:
 
@@ -1609,7 +1586,7 @@ De raad van de orde kan voorwaarden verbinden aan:
 
 - b. goedkeuringen, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.5&z=2026-01-01&g=2026-01-01) en [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.6&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 8.2. Uitsluiten toepassing lex silencio positivo
+#### Artikel 8.2. Uitsluiten toepassing lex silencio positivo
 
 Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de volgende beschikkingen:
 
@@ -1621,7 +1598,7 @@ Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet
 
 - d. de vrijstelling van de opleidingspunten bij cassatie, bedoeld in [artikel 4.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.11&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 8.3. Administratief beroep
+#### Artikel 8.3. Administratief beroep
 
 1. Onverminderd het bepaalde in [artikel 9b, zesde lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9b) kan een belanghebbende administratief beroep instellen bij de algemene raad tegen de volgende beschikkingen van de raad van de orde of de daaraan verbonden voorwaarden:
 
@@ -1641,7 +1618,7 @@ Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet
 
 2. Een belanghebbende kan administratief beroep instellen bij de algemene raad tegen een beschikking van de raad van de orde op grond van [artikel 4.6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6&z=2026-01-01&g=2026-01-01), en [artikel 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 8.4. Adviescommissie civiele cassatie bij bezwaar
+#### Artikel 8.4. Adviescommissie civiele cassatie bij bezwaar
 
 Vervallen
 
@@ -1649,7 +1626,7 @@ Vervallen
 
 ### Afdeling 7.1. Controle door advocaat
 
-##### Artikel 9.1. Overgangsrecht Stageverordening
+#### Artikel 9.1. Overgangsrecht Stageverordening
 
 1. Voor stagiaires die beschikken over een op grond van de [Stageverordening 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0013310) afgegeven bewijs dat het in [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c) bedoelde examen met gunstig gevolg is afgelegd en voor stagiaires die beëdigd zijn voor 1 maart 2013, ingeschreven zijn voor de beroepsopleiding en vanaf inwerkingtreding van dit artikel zonder onderbreking op het tableau staan ingeschreven, blijven de Stageverordening 2005 en de daarop berustende bepalingen van toepassing totdat de stagiaire aan de daaruit voortvloeiende verplichtingen heeft voldaan.
 
@@ -1669,13 +1646,13 @@ Vervallen
 
 5. De algemene raad kan, op verzoek van de stagiaire, bedoeld in het vierde lid, besluiten dat op hem de bepalingen van de [Stageverordening 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0013310) van toepassing zijn, indien de stagiaire beëdigd is voorafgaand aan het te volgen onderwijs of het af te leggen examen dat ingevolge de Stageverordening 2005 nog wordt gegeven of wordt afgenomen.
 
-##### Artikel 9.2. Omhangbepaling [Stageverordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032635)
+#### Artikel 9.2. Omhangbepaling [Stageverordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032635)
 
 Besluiten genomen op grond van [Stageverordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032635) worden aangemerkt als besluiten op grond van deze verordening.
 
 ### Afdeling 6.8. Klachten en geschillen
 
-##### Artikel 9.3. Overgangsrecht bestuurders en statuten
+#### Artikel 9.3. Overgangsrecht bestuurders en statuten
 
 1. Op een samenwerkingsverband dat of praktijkrechtspersoon die voor het moment van inwerkingtreding van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.3&artikel=5.6&z=2026-01-01&g=2026-01-01) een bestuurder heeft die niet voldoet aan artikel 5.6, tweede lid, aanhef en onderdeel b, is artikel 5.6, tweede lid, van toepassing een jaar na inwerkingtreding van dat artikel.
 
@@ -1683,7 +1660,7 @@ Besluiten genomen op grond van [Stageverordening 2012](https://wetten.overheid.n
 
 ### Afdeling 9.3. Samenwerking
 
-##### Artikel 9.4. Overgangsrecht bestuurders en statuten
+#### Artikel 9.4. Overgangsrecht bestuurders en statuten
 
 1. Op een samenwerkingsverband dat of praktijkrechtspersoon die voor het moment van inwerkingtreding van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.3&artikel=5.6&z=2019-01-01&g=2019-01-01) een bestuurder heeft die niet voldoet aan artikel 5.6, tweede lid, aanhef en onderdeel b, is artikel 5.6, tweede lid, van toepassing een jaar na inwerkingtreding van dat artikel.
 
@@ -1691,7 +1668,7 @@ Besluiten genomen op grond van [Stageverordening 2012](https://wetten.overheid.n
 
 ### Hoofdstuk 10. Slotbepalingen
 
-##### Artikel 10.1. Intrekken van bestaande verordeningen
+#### Artikel 10.1. Intrekken van bestaande verordeningen
 
 De volgende verordeningen worden ingetrokken:
 
@@ -1719,7 +1696,7 @@ De volgende verordeningen worden ingetrokken:
 
 - l. de [Samenwerkingsverordening 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0005822).
 
-##### Artikel 10.2. Intrekken van bestaande regelingen
+#### Artikel 10.2. Intrekken van bestaande regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -1741,11 +1718,11 @@ De volgende regelingen worden ingetrokken:
 
 - i. het Reglement vakbekwaamheidseisen civiele cassatieadvocatuur.
 
-##### Artikel 10.3. Einde experiment letsel- en overlijdensschadezaken
+#### Artikel 10.3. Einde experiment letsel- en overlijdensschadezaken
 
 Vervallen
 
-##### Artikel 10.4. Einde experiment rechtsbijstandsverzekeraars
+#### Artikel 10.4. Einde experiment rechtsbijstandsverzekeraars
 
 De volgende wijzigingen treden in werking met ingang van 1 januari 2028:
 
@@ -1755,15 +1732,15 @@ De volgende wijzigingen treden in werking met ingang van 1 januari 2028:
 
 - c. [paragraaf 5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.2&z=2026-01-01&g=2026-01-01) vervalt.
 
-##### Artikel 10.5. Inwerkingtreding
+#### Artikel 10.5. Inwerkingtreding
 
 De artikelen in deze verordening treden in werking op een door de algemene raad te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 10.6. Citeertitel
+#### Artikel 10.6. Citeertitel
 
 Deze verordening wordt aangehaald als: Verordening op de advocatuur.
 
-##### Artikel 2.23a. Leden commissie disciplinaire rechtspraak
+#### Artikel 2.23a. Leden commissie disciplinaire rechtspraak
 
 1. Er is een commissie disciplinaire rechtspraak die uit drie tot zes personen bestaat, waarvan de meerderheid advocaat is.
 
@@ -1777,17 +1754,17 @@ Deze verordening wordt aangehaald als: Verordening op de advocatuur.
 
 - d. het hof van discipline.
 
-##### Artikel 2.23b. Taakomschrijving commissie disciplinaire rechtspraak
+#### Artikel 2.23b. Taakomschrijving commissie disciplinaire rechtspraak
 
 De commissie disciplinaire rechtspraak heeft tot taak tuchtrechtelijke beslissingen te selecteren en te annoteren voor publicatie.
 
-##### Artikel 2.23c. Benoeming leden commissie disciplinaire rechtspraak
+#### Artikel 2.23c. Benoeming leden commissie disciplinaire rechtspraak
 
 1. De algemene raad benoemt de leden van de commissie disciplinaire rechtspraak voor een periode van ten hoogste vier jaar.
 
 2. Een lid kan tweemaal worden herbenoemd.
 
-##### Artikel 2.23d. Werkwijze commissie disciplinaire rechtspraak
+#### Artikel 2.23d. Werkwijze commissie disciplinaire rechtspraak
 
 1. De algemene raad wijst uit de leden een voorzitter aan.
 
@@ -1805,17 +1782,17 @@ De commissie disciplinaire rechtspraak heeft tot taak tuchtrechtelijke beslissin
 
 #### Paragraaf 2.2.4. Subsidie ondersteuning tuchtcolleges
 
-##### Artikel 2.36a. Reikwijdte
+#### Artikel 2.36a. Reikwijdte
 
 Deze paragraaf is van toepassing op het verlenen van subsidie voor activiteiten die door de stichting ondersteuning tuchtcolleges advocatuur worden uitgevoerd en welke passen binnen de statutaire doelstellingen van de stichting.
 
-##### Artikel 2.36b. Overeenkomstige toepassing
+#### Artikel 2.36b. Overeenkomstige toepassing
 
 1. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing op alle per boekjaar verstrekte subsidies.
 
 2. [Artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) is van overeenkomstige toepassing, indien de subsidie-ontvanger zijn inkomsten in overwegende mate ontleent aan de subsidie.
 
-##### Artikel 2.36c. Subsidieplafond en begrotingsvoorbehoud
+#### Artikel 2.36c. Subsidieplafond en begrotingsvoorbehoud
 
 1. De algemene raad kan jaarlijks bij de vaststelling van de begroting besluiten tot het instellen van een subsidieplafond.
 
@@ -1823,17 +1800,17 @@ Deze paragraaf is van toepassing op het verlenen van subsidie voor activiteiten 
 
 3. Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt uitsluitend verleend onder de voorwaarde dat voldoende middelen op de begroting beschikbaar worden gesteld.
 
-##### Artikel 2.36d. Subsidieaanvraag
+#### Artikel 2.36d. Subsidieaanvraag
 
 1. De aanvraag tot subsidieverlening wordt schriftelijk ingediend bij de algemene raad.
 
 2. Een aanvraag wordt ingediend uiterlijk 1 oktober van het kalenderjaar voorafgaand aan het kalenderjaar waarop de subsidieaanvraag betrekking heeft.
 
-##### Artikel 2.36e. Egalisatiereserve
+#### Artikel 2.36e. Egalisatiereserve
 
 De stichting ondersteuning tuchtcolleges advocatuur vormt een egalisatiereserve met inachtneming van [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
-##### Artikel 2.36f. Subsidieverlening
+#### Artikel 2.36f. Subsidieverlening
 
 1. De algemene raad kan besluiten tot het verstrekken van subsidie met inachtneming van de in de begroting van de Nederlandse orde van advocaten opgenomen financiële middelen en het subsidieplafond.
 
@@ -1845,7 +1822,7 @@ De stichting ondersteuning tuchtcolleges advocatuur vormt een egalisatiereserve 
 
 5. Indien een subsidie wordt verstrekt vindt eenmalige betaling plaats door overmaking van de gehele subsidie.
 
-##### Artikel 2.36g. Verplichtingen en toestemming
+#### Artikel 2.36g. Verplichtingen en toestemming
 
 1. De algemene raad kan de subsidie-ontvanger de verplichtingen genoemd in [artikel 4:37 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) opleggen.
 
@@ -1867,7 +1844,7 @@ De stichting ondersteuning tuchtcolleges advocatuur vormt een egalisatiereserve 
 
 - g. de wijze waarop het betalingsverkeer en de autorisatie van een betaling plaatsvindt;
 
-##### Artikel 2.36h. Verantwoording en subsidievaststelling
+#### Artikel 2.36h. Verantwoording en subsidievaststelling
 
 1. De aanvraag tot subsidievaststelling wordt schriftelijk ingediend bij de algemene raad uiterlijk dertien weken na het verrichten van de activiteiten waarvoor de subsidie is verleend.
 
@@ -1911,7 +1888,7 @@ De stichting ondersteuning tuchtcolleges advocatuur vormt een egalisatiereserve 
 
 #### Paragraaf 4.1.2. Professionele kennis en kunde
 
-##### Artikel 4.3a. Kwaliteitstoetsen
+#### Artikel 4.3a. Kwaliteitstoetsen
 
 1. Een advocaat is verplicht ieder kalenderjaar, en voor het eerst het kalenderjaar volgend op de onvoorwaardelijke inschrijving op het tableau, deel te nemen aan kwaliteitstoetsen door:
 
@@ -1925,7 +1902,7 @@ De stichting ondersteuning tuchtcolleges advocatuur vormt een egalisatiereserve 
 
 - b. de vereisten aan de aanwijzing, de intrekking van de aanwijzing en de registratie van gespreksleiders en reviewers.
 
-##### Artikel 4.3b. Gestructureerd intercollegiaal overleg
+#### Artikel 4.3b. Gestructureerd intercollegiaal overleg
 
 1. In plaats van de in [artikel 4.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3a&z=2026-01-01&g=2026-01-01), bedoelde verplichting kan een advocaat deelnemen aan gestructureerd intercollegiaal overleg onder begeleiding van een begeleider, gedurende ten minste acht uur per jaar, met ten minste twee uur en ten hoogste vier uur aaneengesloten per dag.
 
@@ -1939,7 +1916,7 @@ De stichting ondersteuning tuchtcolleges advocatuur vormt een egalisatiereserve 
 
 #### Paragraaf 4.2.1. Verkrijgen hoedanigheid ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
 
-##### Artikel 4.7a. Bekwaamheid cassatie
+#### Artikel 4.7a. Bekwaamheid cassatie
 
 Vervallen
 
@@ -2035,13 +2012,13 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangsrecht
 
-##### Artikel 6.31. Reikwijdte
+#### Artikel 6.31. Reikwijdte
 
 1. Deze afdeling is van toepassing op de advocaat die onvoorwaardelijk op het tableau is ingeschreven.
 
 2. In afwijking van het eerste lid is deze afdeling van toepassing op een advocaat die is ingeschreven op basis van een ten aanzien van het beroep van advocaat afgegeven erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) of op grond van [artikel 16h van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16h).
 
-##### Artikel 6.32. Registratie rechtsgebiedenregister
+#### Artikel 6.32. Registratie rechtsgebiedenregister
 
 1. Een advocaat registreert zich op het tableau op ten minste één en ten hoogste vier rechtsgebieden waarop hij tien opleidingspunten als bedoeld in [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-01-01&g=2026-01-01), heeft behaald, aan de hand van een lijst van rechtsgebieden, bedoeld in het vijfde lid.
 
@@ -2071,7 +2048,7 @@ Vervallen
 
 ### Hoofdstuk 10. Slotbepalingen
 
-##### Artikel 6.17a. In bewaring geven advocatenpas
+#### Artikel 6.17a. In bewaring geven advocatenpas
 
 Een advocaat aan wie de maatregel tot schorsing in de uitoefening van de praktijk is opgelegd, geeft op de datum waarop de maatregel ten uitvoer wordt gelegd de advocatenpas in fysieke vorm in bewaring bij de deken.
 
@@ -2085,7 +2062,7 @@ Een advocaat aan wie de maatregel tot schorsing in de uitoefening van de praktij
 
 ### Afdeling 6.8. Klachten en geschillen
 
-##### Artikel 6.32a. Controle gegevens tableau
+#### Artikel 6.32a. Controle gegevens tableau
 
 1. Een advocaat controleert elk kalenderjaar uiterlijk op 1 februari of de op hem betrekking hebbende gegevens, bedoeld in [artikel 8, eerste lid, aanhef en onderdelen a tot en met g, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=8), juist, actueel en volledig zijn.
 
@@ -2115,7 +2092,7 @@ Een advocaat aan wie de maatregel tot schorsing in de uitoefening van de praktij
 
 #### Paragraaf 4.2.2. Behouden hoedanigheid ‘advocaat bij de Hoge Raad’ in burgerlijke zaken
 
-##### Artikel 4.15. Doorhaling voorwaardelijke aantekening
+#### Artikel 4.15. Doorhaling voorwaardelijke aantekening
 
 1. De secretaris van de algemene raad haalt de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door, indien een advocaat gedurende een onafgebroken tijdvak van drie jaar met een voorwaardelijke aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken op het tableau ingeschreven heeft gestaan zonder dat het bewijsstuk kan worden overgelegd dat de proeve van bekwaamheid, bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.11&z=2026-01-01&g=2026-01-01), met goed gevolg is afgelegd.
 
@@ -2125,7 +2102,7 @@ Een advocaat aan wie de maatregel tot schorsing in de uitoefening van de praktij
 
 4. De secretaris van de algemene raad geeft van de doorhaling binnen acht dagen kennis aan de algemene raad en de raad van de orde, onverminderd [artikel 9j, tweede lid, tweede volzin, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9j).
 
-##### Artikel 4.16. Gevolg doorhaling aantekening
+#### Artikel 4.16. Gevolg doorhaling aantekening
 
 Indien de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door de secretaris van de algemene raad al dan niet op verzoek van de advocaat is doorgehaald, vervalt van rechtswege de verklaring, bedoeld in [artikel 9j, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9j), en, indien van toepassing, het bewijsstuk, bedoeld in [artikel 4.11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.11&z=2026-01-01&g=2026-01-01).
 
@@ -2175,7 +2152,7 @@ Indien de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door 
 
 ### Afdeling 9.2a. Cassatie in burgerlijke zaken
 
-##### Artikel 9.3a. Overgangsrecht cassatie in burgerlijke zaken
+#### Artikel 9.3a. Overgangsrecht cassatie in burgerlijke zaken
 
 1. Van een voor 1 februari 2020 afgegeven verklaring als bedoeld in [artikel 9j, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9j) wordt door de algemene raad binnen twee weken na deze datum kennisgegeven aan de secretaris van de algemene raad. Met deze kennisgeving wordt de advocaat geacht een verzoek aan de secretaris van de algemene raad te hebben gedaan ter verkrijging van de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken.
 
@@ -2205,7 +2182,7 @@ Indien de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door 
 
 #### Paragraaf 3.1.2. Goedkeuring stage en patroon
 
-##### Artikel 3.5a. Cursus voor patroons
+#### Artikel 3.5a. Cursus voor patroons
 
 1. Een beoogd patroon heeft in de drie jaar voorafgaand aan het verzoek om goedkeuring, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=3.5&z=2026-01-01&g=2026-01-01), een cursus voor patroons gevolgd.
 
@@ -2223,7 +2200,7 @@ Indien de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door 
 
 #### Paragraaf 3.1.4. Verplichtingen patroon
 
-##### Artikel 3.15a. Examenreglement
+#### Artikel 3.15a. Examenreglement
 
 1. De algemene raad stelt een examenreglement vast over:
 
@@ -2297,7 +2274,7 @@ Indien de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door 
 
 ### Afdeling 9.1. Stage
 
-##### Artikel 9.2a. Overgangsrecht beroepsopleiding advocaten 2020
+#### Artikel 9.2a. Overgangsrecht beroepsopleiding advocaten 2020
 
 1. Op een stagiaire die uiterlijk in september 2020 de beroepsopleiding advocaten aanvangt en met ingang van 1 oktober 2020 zonder onderbreking op het tableau staat ingeschreven, en op zijn patroon blijft het bepaalde bij of krachtens de [artikelen 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=2.28&z=2026-01-01&g=2026-01-01), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=3.8&z=2026-01-01&g=2026-01-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=3.9&z=2026-01-01&g=2026-01-01) en [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&z=2026-01-01&g=2026-01-01), zoals deze artikelen luidden op 30 september 2020, van toepassing totdat hij aan de daaruit voortvloeiende verplichtingen heeft voldaan.
 
@@ -2311,7 +2288,7 @@ Indien de aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken door 
 
 4. Onverminderd [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=9&afdeling=9.1&artikel=9.1&z=2026-01-01&g=2026-01-01), blijft op een stagiaire die in het bezit is van het certificaat beroepsopleiding advocaten op grond van de beroepsopleiding advocaten, zoals deze gold tot 1 oktober 2020, het bepaalde bij of krachtens de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=3.2&z=2026-01-01&g=2026-01-01), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=3.8&z=2026-01-01&g=2026-01-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=3.9&z=2026-01-01&g=2026-01-01), zoals deze artikelen luidden op 30 september 2020, van toepassing totdat hij aan de daaruit voortvloeiende verplichtingen heeft voldaan.
 
-##### Artikel 9.2b. Overgangsrecht geaccrediteerde opleidingsinstelling
+#### Artikel 9.2b. Overgangsrecht geaccrediteerde opleidingsinstelling
 
 Op een geaccrediteerde opleidingsinstelling die vóór 1 oktober 2020 de onderdelen van de beroepsopleiding advocaten, bedoeld in [artikel 3.15, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.2&artikel=3.15&z=2026-01-01&g=2026-01-01), zoals dit artikel luidde op 30 september 2020, mag aanbieden, blijft het bepaalde bij of krachtens [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=3&afdeling=3.4&artikel=3.25&z=2026-01-01&g=2026-01-01), zoals dit artikel luidde op 30 september 2020, van toepassing voor de resterende duur van de accreditatie.
 
@@ -2321,13 +2298,13 @@ Op een geaccrediteerde opleidingsinstelling die vóór 1 oktober 2020 de onderde
 
 ### Hoofdstuk 10. Slotbepalingen
 
-##### Artikel 2.19a. Leden adviescommissie beroepsopleiding advocaten
+#### Artikel 2.19a. Leden adviescommissie beroepsopleiding advocaten
 
 1. Er is een adviescommissie beroepsopleiding advocaten.
 
 2. Een lid van de adviescommissie beroepsopleiding advocaten is geen lid van of werkzaam bij een orgaan van de Nederlandse orde van advocaten of een orgaan van de orde van advocaten.
 
-##### Artikel 2.19b. Taakomschrijving adviescommissie beroepsopleiding advocaten
+#### Artikel 2.19b. Taakomschrijving adviescommissie beroepsopleiding advocaten
 
 De adviescommissie beroepsopleiding advocaten heeft tot taak de algemene raad gevraagd en ongevraagd te adviseren over:
 
@@ -2335,7 +2312,7 @@ De adviescommissie beroepsopleiding advocaten heeft tot taak de algemene raad ge
 
 - b. de beroepsopleiding advocaten, waaronder in ieder geval de eindtermen.
 
-##### Artikel 2.19c. Benoeming leden adviescommissie beroepsopleiding advocaten
+#### Artikel 2.19c. Benoeming leden adviescommissie beroepsopleiding advocaten
 
 1. De algemene raad benoemt de leden van de adviescommissie beroepsopleiding advocaten voor een periode van ten hoogste vier jaar.
 
@@ -2351,7 +2328,7 @@ De adviescommissie beroepsopleiding advocaten heeft tot taak de algemene raad ge
 
 3. Een lid kan eenmaal worden herbenoemd.
 
-##### Artikel 2.19d. Werkwijze adviescommissie beroepsopleiding advocaten
+#### Artikel 2.19d. Werkwijze adviescommissie beroepsopleiding advocaten
 
 1. De algemene raad wijst uit de leden een voorzitter aan.
 
@@ -2379,7 +2356,7 @@ De adviescommissie beroepsopleiding advocaten heeft tot taak de algemene raad ge
 
 ### Afdeling 3.2. Beroepsopleiding advocaten
 
-##### Artikel 3.22a
+#### Artikel 3.22a
 
 De algemene raad stelt een kwaliteits- en accreditatiekader vast voor de onderwijsaanbieders die de beroepsopleiding advocaten of onderdelen daarvan verzorgen. Het kwaliteits- en accreditatiekader omvat regels over:
 
@@ -2449,7 +2426,7 @@ De algemene raad stelt een kwaliteits- en accreditatiekader vast voor de onderwi
 
 #### Paragraaf 5.5.1. Bescherming kernwaarden bij dienstverbanden
 
-##### Artikel 5.16. Experiment en voorwaarden deelname
+#### Artikel 5.16. Experiment en voorwaarden deelname
 
 1. In afwijking van [artikel 5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.11&z=2026-01-01&g=2026-01-01), kan de advocaat in dienst van een werkgever als bedoeld in [artikel 5.9, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.1&artikel=5.9&z=2026-01-01&g=2026-01-01), in die hoedanigheid ook optreden voor niet bij die werkgever verzekerden, indien:
 
@@ -2461,7 +2438,7 @@ De algemene raad stelt een kwaliteits- en accreditatiekader vast voor de onderwi
 
 2. Als lid van het bestuur heeft tevens te gelden een rechtspersoon waarvan de meerderheid van de leden en de voorzitter daarvan, advocaat is.
 
-##### Artikel 5.17. Informeren ten behoeve van de evaluatie
+#### Artikel 5.17. Informeren ten behoeve van de evaluatie
 
 De advocaat in dienst van een aan het experiment deelnemende werkgever verstrekt ten behoeve van de evaluatie jaarlijks aan de algemene raad geaggregeerde en geanonimiseerde gegevens over:
 

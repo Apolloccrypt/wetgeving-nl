@@ -1,38 +1,13 @@
 ---
-title: "Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten"
+title: "Burgerlijk Wetboek Boek 7"
 identifier: "BWBR0005290"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005290"
-soort: "wet"
-stam_id: "2962603"
-version_id: "4579162"
-internal_id: "C33848211"
-label_id: "2913524"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005290/2026-01-01/0"
-intitule_bron: "Stb.1991-600"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-22"
-intitule_published: "1991-12-18"
-intitule_in_force: "1991-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1991-600"
-original_signed_date: "1991-11-22"
-original_published_date: "1991-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005290&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0005290&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Burgerlijk Wetboek Boek 7"
-signed_date: "1991-11-22"
-entry_into_force: "1992-01-01"
+categorie: "Burgerlijk recht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0005290"
 ---
+
 # Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
 ## Boek 7. Bijzondere overeenkomsten
@@ -41,15 +16,15 @@ entry_into_force: "1992-01-01"
 
 ### Afdeling 1. Koop: Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 Koop is de overeenkomst waarbij de een zich verbindt een zaak te geven en de ander om daarvoor een prijs in geld te betalen.
 
-##### Artikel 4
+#### Artikel 4
 
 Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een redelijke prijs verschuldigd; bij de bepaling van die prijs wordt rekening gehouden met de door de verkoper ten tijde van het sluiten van de overeenkomst gewoonlijk bedongen prijzen.
 
-##### Artikel 5
+#### Artikel 5
 
 1. In deze titel wordt verstaan onder:
 
@@ -85,13 +60,13 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 6. Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=2&artikel=11&z=2026-01-01&g=2026-01-01) en [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=3&artikel=19a&z=2026-01-01&g=2026-01-01) wordt een overeenkomst tussen enig persoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit en de natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, die zowel de levering van roerende zaken als het verrichten van diensten betreft, uitsluitend aangemerkt als consumentenkoop.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Bij een consumentenkoop kan van de [afdelingen 1-7 van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=1&z=2026-01-01&g=2026-01-01) niet ten nadele van de koper worden afgeweken en kunnen de rechten en vorderingen die de wet aan de koper ter zake van een tekortkoming in de nakoming van de verplichtingen van de verkoper toekent, niet worden beperkt of uitgesloten.
 
 2. Lid 1 is niet van toepassing op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=2&artikel=12&z=2026-01-01&g=2026-01-01), [13, eerste en tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=2&artikel=13&z=2026-01-01&g=2026-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=4&artikel=26&z=2026-01-01&g=2026-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=6&artikel=35&z=2026-01-01&g=2026-01-01), doch bedingen in algemene voorwaarden waarbij ten nadele van de koper wordt afgeweken van die artikelen, worden als onredelijk bezwarend aangemerkt.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Degene aan wie een zaak is toegezonden en die redelijkerwijze mag aannemen dat deze toezending is geschied ten einde hem tot een koop te bewegen, is ongeacht enige andersluidende mededeling van de verzender jegens deze bevoegd de zaak om niet te behouden, tenzij het hem is toe te rekenen dat de toezending is geschied.
 
@@ -101,7 +76,7 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 ### Afdeling 2. Verplichtingen van de verkoper
 
-##### Artikel 9
+#### Artikel 9
 
 1. De verkoper is verplicht de verkochte zaak met toebehoren in eigendom over te dragen en af te leveren. Onder toebehoren zijn de aanwezige titelbewijzen en bescheiden begrepen; voor zover de verkoper zelf daarbij belang behoudt, is hij slechts verplicht om aan de koper op diens verlangen en op diens kosten een afschrift of uittreksel af te geven.
 
@@ -113,7 +88,7 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 5. Indien de consumentenkoop tot stand is gekomen via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van de verkoper, kan de consument zich ook jegens die andere persoon beroepen op het in de leden 1–4 bepaalde.
 
-##### Artikel 10
+#### Artikel 10
 
 1. De zaak is voor risico van de koper van de aflevering af, zelfs al is de eigendom nog niet overgedragen. Derhalve blijft hij de koopprijs verschuldigd, ongeacht tenietgaan of achteruitgang van de zaak door een oorzaak die niet aan de verkoper kan worden toegerekend.
 
@@ -123,7 +98,7 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 4. Wanneer de zaak na de aflevering voor risico van de verkoper is gebleven, is het tenietgaan of de achteruitgang ervan door toedoen van de koper eveneens voor rekening van de verkoper. De koper moet echter van het ogenblik af dat hij redelijkerwijs rekening moet houden met het feit dat hij de zaak zal moeten teruggeven, als een zorgvuldig schuldenaar voor het behoud ervan zorgen; [artikel 78 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=78) is van overeenkomstige toepassing.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Bij een consumentenkoop waarbij de zaak bij de koper wordt bezorgd, is de zaak voor het risico van de koper vanaf het moment dat de koper of een door hem aangewezen derde, die niet de vervoerder is, de zaak heeft ontvangen.
 
@@ -131,31 +106,31 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 3. Indien de consumentenkoop tot stand is gekomen via een andere persoon, handelend in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, die daarbij optreedt namens of voor rekening van de verkoper, kan de consument zich ook jegens die andere persoon beroepen op het in de leden 1–2 bepaalde.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Kosten van aflevering, die van weging en telling daaronder begrepen, komen ten laste van de verkoper.
 
 2. Kosten van afhalen en kosten van een koopakte en van de overdracht komen ten laste van de koper.
 
-##### Artikel 13
+#### Artikel 13
 
 Indien bij een consumentenkoop de zaak bij de koper wordt bezorgd door de verkoper of een door deze aangewezen vervoerder, kunnen daarvoor slechts kosten worden gevorderd, voor zover zij bij het sluiten van een overeenkomst anders dan op afstand of buiten de verkoopruimte, bedoeld in [artikel 230g lid 1, onderdelen e en f, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230g) door de verkoper afzonderlijk zijn opgegeven of door de verkoper de gegevens zijn verschaft op grond waarvan zij door hem worden berekend. Hetzelfde geldt voor kosten, verschuldigd voor andere werkzaamheden die de verkoper in verband met de koop voor de koper verricht. Voor een consumentenkoop die tevens voldoet aan de omschrijving van een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zijn, overeenkomstig de [artikelen 230m lid 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230m), en [230n lid 3 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230n), evenmin bijkomende kosten verschuldigd voor zover deze niet zijn opgegeven.
 
-##### Artikel 14
+#### Artikel 14
 
 Van de dag van aflevering af komen de vruchten toe aan de koper, met dien verstande dat burgerlijke vruchten van dag tot dag berekend worden.
 
-##### Artikel 15
+#### Artikel 15
 
 1. De verkoper is verplicht de verkochte zaak in eigendom over te dragen vrij van alle bijzondere lasten en beperkingen, met uitzondering van die welke de koper uitdrukkelijk heeft aanvaard.
 
 2. Ongeacht enig andersluidend beding staat de verkoper in voor de afwezigheid van lasten en beperkingen die voortvloeien uit feiten die vatbaar zijn voor inschrijving in de openbare registers, doch daarin ten tijde van het sluiten van de overeenkomst niet waren ingeschreven.
 
-##### Artikel 16
+#### Artikel 16
 
 Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erkenning van een recht waarmede de zaak niet belast had mogen zijn, is de verkoper gehouden in het geding te komen ten einde de belangen van de koper te verdedigen.
 
-##### Artikel 17
+#### Artikel 17
 
 1. De afgeleverde zaak moet aan de overeenkomst beantwoorden.
 
@@ -169,7 +144,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 6. Bij koop van een onroerende zaak wordt vermelding van de oppervlakte vermoed slechts als aanduiding bedoeld te zijn, zonder dat de zaak daaraan behoeft te beantwoorden.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Voor de vraag of een op grond van een consumentenkoop afgeleverde zaak aan de overeenkomst beantwoordt, moet de zaak met name, voor zover van toepassing:
 
@@ -209,7 +184,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 6. Van het niet beantwoorden van de afgeleverde zaak aan de overeenkomst in de zin van de leden 2 of 4 is geen sprake indien de koper er bij het sluiten van de overeenkomst uitdrukkelijk van in kennis werd gesteld dat een specifiek kenmerk van de zaak afweek en de koper die afwijking bij het sluiten van de overeenkomst uitdrukkelijk en afzonderlijk heeft aanvaard.
 
-##### Artikel 19
+#### Artikel 19
 
 1. In geval van een executoriale verkoop kan de koper zich er niet op beroepen dat de zaak behept is met een last of een beperking die er niet op had mogen rusten, of dat deze niet aan de overeenkomst beantwoordt, tenzij de verkoper dat wist.
 
@@ -217,13 +192,13 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 ### Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de verkoper
 
-##### Artikel 20
+#### Artikel 20
 
 1. Is de zaak behept met een last of een beperking die er niet op had mogen rusten, dan kan de koper eisen dat de last of de beperking wordt opgeheven, mits de verkoper hieraan redelijkerwijs kan voldoen.
 
 2. Indien bij een consumentenkoop een beperking die voortvloeit uit een schending van rechten van derden het gebruik van de zaak overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=2&artikel=18&z=2026-01-01&g=2026-01-01) voorkomt of beperkt, kan de koper een beroep doen op [artikel 21 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=3&artikel=21&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 21
+#### Artikel 21
 
 1. Beantwoordt het afgeleverde niet aan de overeenkomst, dan kan de koper eisen:
 
@@ -251,7 +226,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 - b. het betalen van de kosten van die verwijdering of installatie.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Beantwoordt het afgeleverde niet aan de overeenkomst, dan heeft bij een consumentenkoop de koper voorts de bevoegdheid om:
 
@@ -283,7 +258,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 - b. betaalt de verkoper de koper de voor de zaak betaalde prijs terug bij ontvangst van de zaak of bij ontvangst van het door de koper verstrekte bewijs dat hij de zaak heeft teruggezonden.
 
-##### Artikel 23
+#### Artikel 23
 
 1. De koper kan er geen beroep meer op doen dat hetgeen is afgeleverd niet aan de overeenkomst beantwoordt, indien hij de verkoper daarvan niet binnen bekwame tijd nadat hij dit heeft ontdekt of redelijkerwijs had behoren te ontdekken, kennis heeft gegeven. Blijkt echter aan de zaak een eigenschap te ontbreken die deze volgens de verkoper bezat, of heeft de afwijking betrekking op feiten die hij kende of behoorde te kennen doch die hij niet heeft meegedeeld, dan moet de kennisgeving binnen bekwame tijd na de ontdekking geschieden. Bij een consumentenkoop moet de kennisgeving binnen bekwame tijd na de ontdekking geschieden, waarbij een kennisgeving binnen een termijn van twee maanden na de ontdekking tijdig is.
 
@@ -291,7 +266,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 3. De termijn loopt niet zolang de koper zijn rechten niet kan uitoefenen als gevolg van opzet van de verkoper.
 
-##### Artikel 24
+#### Artikel 24
 
 1. Indien op grond van een consumentenkoop een zaak is afgeleverd die niet de eigenschappen bezit die de koper op grond van de overeenkomst mocht verwachten, heeft de koper jegens de verkoper recht op schadevergoeding overeenkomstig de [afdelingen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=9) en [10 van titel 1 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=10).
 
@@ -305,7 +280,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 3. Indien de verkoper de schade van de koper vergoedt krachtens lid 2 onder **a** of **b**, is de koper verplicht zijn rechten uit [afdeling 3 van titel 3 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=3) aan de verkoper over te dragen.
 
-##### Artikel 25
+#### Artikel 25
 
 1. Heeft de koper, in geval van een tekortkoming als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01), een of meer van zijn rechten ter zake van die tekortkoming tegen de verkoper uitgeoefend, dan heeft de verkoper recht op schadevergoeding jegens degene van wie hij de zaak heeft gekocht, mits ook deze bij die overeenkomst in de uitoefening van zijn beroep of bedrijf heeft gehandeld. Kosten ter zake van verweer worden slechts vergoed voor zover zij in redelijkheid door de verkoper zijn gemaakt.
 
@@ -321,7 +296,7 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 ### Afdeling 4. Verplichtingen van de koper
 
-##### Artikel 26
+#### Artikel 26
 
 1. De koper is verplicht de prijs te betalen.
 
@@ -335,45 +310,45 @@ Wanneer tegen de koper een vordering wordt ingesteld tot uitwinning of tot erken
 
 6. De tweede volzin van lid 2 en de leden 4–5 zijn niet van toepassing, wanneer de overeenkomst tevens voldoet aan de omschrijving van een overeenkomst als bedoeld in [artikel 50a, onderdelen c, d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50a&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 27
+#### Artikel 27
 
 Wanneer de koper gestoord wordt of goede grond heeft te vrezen dat hij gestoord zal worden door een vordering tot uitwinning of tot erkenning van een recht op de zaak dat daarop niet had mogen rusten, kan hij de betaling van de koopprijs opschorten, tenzij de verkoper voldoende zekerheid stelt om het nadeel te dekken dat de koper dreigt te lijden.
 
-##### Artikel 28
+#### Artikel 28
 
 Bij een consumentenkoop verjaart de rechtsvordering tot betaling van de koopprijs door verloop van twee jaren.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Heeft de koper de zaak ontvangen doch is hij voornemens deze te weigeren, dan moet hij als een zorgvuldig schuldenaar voor het behoud ervan zorgen; hij heeft op de zaak een retentierecht totdat hij door de verkoper voor de door hem in redelijkheid gemaakte kosten schadeloos is gesteld.
 
 2. De koper die voornemens is een aan hem verzonden en op de plaats van bestemming te zijner beschikking gestelde zaak te weigeren, moet, zo dit geen betaling van de koopprijs en geen ernstige bezwaren of onredelijke kosten meebrengt, deze in ontvangst nemen, tenzij de verkoper op de plaats van bestemming aanwezig is of iemand aldaar bevoegd is zich voor zijn rekening met de zorg voor de zaak te belasten.
 
-##### Artikel 30
+#### Artikel 30
 
 Wanneer in de gevallen, in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=4&artikel=29&z=2026-01-01&g=2026-01-01) voorzien, de zaak aan snel tenietgaan of achteruitgang onderhevig is of wanneer de bewaring daarvan ernstige bezwaren of onredelijke kosten zou meebrengen, is de koper verplicht de zaak op een geschikte wijze te doen verkopen.
 
 ### Afdeling 5. Bijzondere gevolgen van verzuim van de koper
 
-##### Artikel 31
+#### Artikel 31
 
 Indien de overeenkomst aan de koper de bevoegdheid geeft door aanwijzing van maat of vorm of op andere wijze de zaak te specificeren en hij daarmede in verzuim is, kan de verkoper daartoe zelf overgaan, met inachtneming van de hem bekende behoeften van de koper.
 
-##### Artikel 32
+#### Artikel 32
 
 Ingeval de koper met de inontvangstneming in verzuim is, vindt [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=4&artikel=30&z=2026-01-01&g=2026-01-01) overeenkomstige toepassing.
 
 ### Afdeling 6. Bijzondere gevallen van ontbinding
 
-##### Artikel 33
+#### Artikel 33
 
 Indien de aflevering van een roerende zaak op een bepaalde dag essentieel is en op die dag de koper niet in ontvangst neemt, levert zulks een grond op tot ontbinding als bedoeld in [artikel 265 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=265).
 
-##### Artikel 34
+#### Artikel 34
 
 De verkoper kan de koop door een schriftelijke verklaring ontbinden, indien het achterwege blijven van inontvangstneming hem goede grond geeft te vrezen dat de prijs niet zal worden betaald.
 
-##### Artikel 35
+#### Artikel 35
 
 1. Indien de verkoper bij een consumentenkoop krachtens een bij die overeenkomst gemaakt beding de koopprijs na het sluiten van de koop verhoogt, is de koper bevoegd de koop door een schriftelijke verklaring te ontbinden, tenzij bedongen is dat de aflevering langer dan drie maanden na de koop zal plaatsvinden.
 
@@ -381,23 +356,23 @@ De verkoper kan de koop door een schriftelijke verklaring ontbinden, indien het 
 
 ### Afdeling 5. Bijzondere gevolgen van verzuim van de koper
 
-##### Artikel 36
+#### Artikel 36
 
 1. In geval van ontbinding van de koop is, wanneer de zaak een dagprijs heeft, de schadevergoeding gelijk aan het verschil tussen de in de overeenkomst bepaalde prijs en de dagprijs ten dage van de niet-nakoming.
 
 2. Voor de berekening van deze schadevergoeding is de in aanmerking te nemen dagprijs die van de markt waar de koop plaatsvond, of, indien er geen dergelijke dagprijs is of deze bezwaarlijk zou kunnen worden toegepast, de prijs van de markt die deze redelijkerwijs kan vervangen; hierbij wordt rekening gehouden met verschillen in de kosten van vervoer van de zaak.
 
-##### Artikel 37
+#### Artikel 37
 
 Heeft de koper of de verkoper een dekkingskoop gesloten en is hij daarbij redelijk te werk gegaan, dan komt hem het verschil toe tussen de overeengekomen prijs en die van de dekkingskoop.
 
-##### Artikel 38
+#### Artikel 38
 
 De bepalingen van de twee voorgaande artikelen sluiten het recht op een hogere schadevergoeding niet uit ingeval meer schade is geleden.
 
 ### Afdeling 7. Schadevergoeding
 
-##### Artikel 39
+#### Artikel 39
 
 1. De verkoper van een roerende, aan de koper afgeleverde zaak die niet een registergoed is, kan, indien de prijs niet betaald is en in verband daarmee aan de vereisten voor een ontbinding als bedoeld in [artikel 265 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=265) is voldaan, de zaak door een tot de koper gerichte schriftelijke verklaring terugvorderen. Door deze verklaring wordt de koop ontbonden en eindigt het recht van de koper of zijn rechtsverkrijger; de [artikelen 271](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=271), [273](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=273), [275](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=275) en [276 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=276) zijn van overeenkomstige toepassing.
 
@@ -405,93 +380,93 @@ De bepalingen van de twee voorgaande artikelen sluiten het recht op een hogere s
 
 3. In alle andere gevallen van gedeeltelijke betaling van de prijs kan de verkoper slechts het afgeleverde in zijn geheel terugvorderen tegen teruggave van het reeds betaalde.
 
-##### Artikel 40
+#### Artikel 40
 
 1. Is de koper in staat van faillissement verklaard of is aan hem surséance van betaling verleend, dan heeft de terugvordering geen gevolg, indien door de curator, onderscheidenlijk door de koper en de bewindvoerder, binnen een hun daartoe door de verkoper bij diens verklaring te stellen redelijke termijn de koopprijs wordt betaald of voor deze betaling zekerheid wordt gesteld.
 
 2. Het eerste lid is van overeenkomstige toepassing indien ten aanzien van de koper de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, tenzij de koopovereenkomst tot stand is gekomen na de uitspraak tot de toepassing van de schuldsaneringsregeling.
 
-##### Artikel 41
+#### Artikel 41
 
 De bevoegdheid tot terugvordering kan slechts worden uitgeoefend voor zover het afgeleverde zich nog in dezelfde staat bevindt als waarin het werd afgeleverd.
 
-##### Artikel 42
+#### Artikel 42
 
 1. Tenzij de zaak in handen van de koper is gebleven, vervalt de bevoegdheid tot terugvordering wanneer de zaak overeenkomstig [artikel 90 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=90) of [artikel 91 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=91) anders dan om niet is overgedragen aan een derde die redelijkerwijs niet behoefde te verwachten dat het recht zou worden uitgeoefend.
 
 2. Is de zaak na de aflevering anders dan om niet in vruchtgebruik gegeven of verpand, dan is lid 1 van overeenkomstige toepassing.
 
-##### Artikel 43
+#### Artikel 43
 
 De verkoper kan zijn in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=8&artikel=39&z=2026-01-01&g=2026-01-01) omschreven bevoegdheid niet uitoefenen, indien de koper voor de volle koopprijs handelspapier heeft geaccepteerd.
 
 Bij acceptatie voor een gedeelte van de prijs kan de verkoper die bevoegdheid slechts uitoefenen, indien hij ten behoeve van de koper zekerheid stelt voor de vergoeding van hetgeen de koper uit hoofde van zijn acceptatie zou moeten betalen.
 
-##### Artikel 44
+#### Artikel 44
 
 De in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=8&artikel=39&z=2026-01-01&g=2026-01-01) omschreven bevoegdheid van de verkoper vervalt, wanneer zowel zes weken zijn verstreken nadat de vordering tot betaling van de koopprijs opeisbaar is geworden, als zestig dagen, te rekenen van de dag waarop de zaak onder de koper of onder iemand van zijnentwege is opgeslagen.
 
 ### Afdeling 8. Recht van reclame
 
-##### Artikel 45
+#### Artikel 45
 
 1. Koop op proef wordt geacht te zijn gesloten onder de opschortende voorwaarde dat de zaak de koper voldoet.
 
 2. Laat deze een termijn, voldoende om de zaak te beoordelen, voorbijgaan zonder de verkoper van zijn beslissing in kennis te stellen, dan kan hij de zaak niet meer weigeren.
 
-##### Artikel 46
+#### Artikel 46
 
 Zolang de koop niet definitief is, is de zaak voor risico van de verkoper.
 
 ### Afdeling 9A. Overeenkomsten op afstand
 
-##### Artikel 46a
+#### Artikel 46a
 
 Vervallen
 
-##### Artikel 46b
+#### Artikel 46b
 
 Vervallen
 
-##### Artikel 46c
+#### Artikel 46c
 
 Vervallen
 
-##### Artikel 46d
+#### Artikel 46d
 
 Vervallen
 
-##### Artikel 46e
+#### Artikel 46e
 
 Vervallen
 
-##### Artikel 46f
+#### Artikel 46f
 
 Vervallen
 
-##### Artikel 46g
+#### Artikel 46g
 
 Vervallen
 
-##### Artikel 46h
+#### Artikel 46h
 
 Vervallen
 
-##### Artikel 46i
+#### Artikel 46i
 
 Vervallen
 
-##### Artikel 46j
+#### Artikel 46j
 
 Vervallen
 
 ### Afdeling 10. Koop van vermogensrechten
 
-##### Artikel 47
+#### Artikel 47
 
 Een koop kan ook op een vermogensrecht betrekking hebben. In dat geval zijn de bepalingen van de vorige afdelingen van toepassing voor zover dit in overeenstemming is met de aard van het recht en [titel 1AA](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&z=2026-01-01&g=2026-01-01) niet van toepassing is.
 
-##### Artikel 48
+#### Artikel 48
 
 1. Hij die een nalatenschap verkoopt zonder de goederen daarvan stuk voor stuk op te geven, is slechts gehouden voor zijn hoedanigheid van erfgenaam in te staan.
 
@@ -501,41 +476,41 @@ Een koop kan ook op een vermogensrecht betrekking hebben. In dat geval zijn de b
 
 ### Afdeling 10A. Koop van rechten van gebruik in deeltijd van onroerende zaken
 
-##### Artikel 48a
+#### Artikel 48a
 
 Vervallen
 
-##### Artikel 48b
+#### Artikel 48b
 
 Vervallen
 
-##### Artikel 48c
+#### Artikel 48c
 
 Vervallen
 
-##### Artikel 48d
+#### Artikel 48d
 
 Vervallen
 
-##### Artikel 48e
+#### Artikel 48e
 
 Vervallen
 
-##### Artikel 48f
+#### Artikel 48f
 
 Vervallen
 
-##### Artikel 48g
+#### Artikel 48g
 
 Vervallen
 
 ### Afdeling 12. Ruil
 
-##### Artikel 49
+#### Artikel 49
 
 Ruil is de overeenkomst waarbij partijen zich verbinden elkaar over en weer een zaak in de plaats van een andere te geven.
 
-##### Artikel 50
+#### Artikel 50
 
 De bepalingen betreffende koop vinden overeenkomstige toepassing, met dien verstande dat elke partij wordt beschouwd als verkoper voor de prestatie die zij verschuldigd is, en als koper voor die welke haar toekomt.
 
@@ -543,51 +518,51 @@ De bepalingen betreffende koop vinden overeenkomstige toepassing, met dien verst
 
 ### Afdeling 12. Ruil
 
-##### Artikel 400
+#### Artikel 400
 
 1. De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt anders dan op grond van een arbeidsovereenkomst werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van een werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.
 
 2. De [artikelen 401-412](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=401&z=2026-01-01&g=2026-01-01) zijn, onverminderd [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=413&z=2026-01-01&g=2026-01-01), van toepassing, tenzij iets anders voortvloeit uit de wet, de inhoud of aard van de overeenkomst van opdracht of van een andere rechtshandeling, of de gewoonte.
 
-##### Artikel 401
+#### Artikel 401
 
 De opdrachtnemer moet bij zijn werkzaamheden de zorg van een goed opdrachtnemer in acht nemen.
 
-##### Artikel 402
+#### Artikel 402
 
 1. De opdrachtnemer is gehouden gevolg te geven aan tijdig verleende en verantwoorde aanwijzingen omtrent de uitvoering van de opdracht.
 
 2. De opdrachtnemer die op redelijke grond niet bereid is de opdracht volgens de hem gegeven aanwijzingen uit te voeren, kan, zo de opdrachtgever hem niettemin aan die aanwijzingen houdt, de overeenkomst opzeggen wegens gewichtige redenen.
 
-##### Artikel 403
+#### Artikel 403
 
 1. De opdrachtnemer moet de opdrachtgever op de hoogte houden van zijn werkzaamheden ter uitvoering van de opdracht en hem onverwijld in kennis stellen van de voltooiing van de opdracht, indien de opdrachtgever daarvan onkundig is.
 
 2. De opdrachtnemer doet aan de opdrachtgever verantwoording van de wijze waarop hij zich van de opdracht heeft gekweten. Heeft hij bij de uitvoering van de opdracht ten laste van de opdrachtgever gelden uitgegeven of te diens behoeve gelden ontvangen, dan doet hij daarvan rekening.
 
-##### Artikel 404
+#### Artikel 404
 
 Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnemer of in zijn dienst een beroep of een bedrijf uitoefent, is die persoon gehouden de werkzaamheden, nodig voor de uitvoering van de opdracht, zelf te verrichten, behoudens voor zover uit de opdracht voortvloeit dat hij deze onder zijn verantwoordelijkheid door anderen mag laten uitvoeren; alles onverminderd de aansprakelijkheid van de opdrachtnemer.
 
-##### Artikel 405
+#### Artikel 405
 
 1. Indien de overeenkomst door de opdrachtnemer in de uitoefening van zijn beroep of bedrijf is aangegaan, is de opdrachtgever hem loon verschuldigd.
 
 2. Indien loon is verschuldigd doch de hoogte niet door partijen is bepaald, is de opdrachtgever het op de gebruikelijke wijze berekende loon of, bij gebreke daarvan, een redelijk loon verschuldigd.
 
-##### Artikel 406
+#### Artikel 406
 
 1. De opdrachtgever moet aan de opdrachtnemer de onkosten verbonden aan de uitvoering van de opdracht vergoeden, voor zover deze niet in het loon zijn begrepen.
 
 2. De opdrachtgever moet de opdrachtnemer de schade vergoeden die deze lijdt ten gevolge van de hem niet toe te rekenen verwezenlijking van een aan de opdracht verbonden bijzonder gevaar. Heeft de opdrachtnemer in de uitoefening van zijn beroep of bedrijf gehandeld, dan geldt de vorige zin slechts, indien dat gevaar de risico’s welke de uitoefening van dat beroep of bedrijf naar zijn aard meebrengt, te buiten gaat. Geschiedt de uitvoering van de opdracht anderszins tegen loon, dan is de eerste zin slechts van toepassing, indien bij de vaststelling van het loon met het gevaar geen rekening is gehouden.
 
-##### Artikel 407
+#### Artikel 407
 
 1. Indien twee of meer personen tezamen een opdracht hebben gegeven, zijn zij hoofdelijk tegenover de opdrachtnemer verbonden.
 
 2. Indien twee of meer personen tezamen een opdracht hebben ontvangen, is ieder van hen voor het geheel aansprakelijk ter zake van een tekortkoming in de nakoming, tenzij de tekortkoming niet aan hem kan worden toegerekend.
 
-##### Artikel 408
+#### Artikel 408
 
 1. De opdrachtgever kan te allen tijde de overeenkomst opzeggen.
 
@@ -595,29 +570,29 @@ Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnem
 
 3. Een natuurlijk persoon die een opdracht heeft verstrekt anders dan in de uitoefening van een beroep of bedrijf, is, onverminderd [artikel 406](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=406&z=2026-01-01&g=2026-01-01), ter zake van een opzegging geen schadevergoeding verschuldigd.
 
-##### Artikel 409
+#### Artikel 409
 
 1. Indien de opdracht met het oog op een bepaalde persoon is verleend, eindigt zij door zijn dood.
 
 2. Alsdan zijn diens erfgenamen, indien zij kennis dragen van de erfopvolging en van de opdracht, verplicht al datgene te doen wat de omstandigheden in het belang van de wederpartij eisen. Een overeenkomstige verplichting rust op degenen in wier dienst of met wie de opdrachtnemer een beroep of bedrijf uitoefende.
 
-##### Artikel 410
+#### Artikel 410
 
 1. De dood van de opdrachtgever doet de opdracht slechts eindigen, indien dit uit de overeenkomst voortvloeit, en dan eerst vanaf het tijdstip waarop de opdrachtnemer de dood heeft gekend.
 
 2. Eindigt de opdracht door de dood van de opdrachtgever, dan is de opdrachtnemer niettemin verplicht al datgene te doen wat de omstandigheden in het belang van de wederpartij eisen.
 
-##### Artikel 411
+#### Artikel 411
 
 1. Indien de overeenkomst eindigt voordat de opdracht is volbracht of de tijd waarvoor zij is verleend, is verstreken, en de verschuldigdheid van loon afhankelijk is van de volbrenging of van het verstrijken van die tijd, heeft de opdrachtnemer recht op een naar redelijkheid vast te stellen deel van het loon. Bij de bepaling hiervan wordt onder meer rekening gehouden met de reeds door de opdrachtnemer verrichte werkzaamheden, het voordeel dat de opdrachtgever daarvan heeft, en de grond waarop de overeenkomst is geëindigd.
 
 2. In het in lid 1 bedoelde geval heeft de opdrachtnemer slechts recht op het volle loon, indien het einde van de overeenkomst aan de opdrachtgever is toe te rekenen en de betaling van het volle loon, gelet op alle omstandigheden van het geval, redelijk is. Op het bedrag van het loon worden de besparingen die voor de opdrachtnemer uit de voortijdige beëindiging voortvloeien, in mindering gebracht.
 
-##### Artikel 412
+#### Artikel 412
 
 Een rechtsvordering tegen de opdrachtnemer tot afgifte van de stukken die hij ter zake van de opdracht onder zich heeft gekregen, verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop zijn bemoeiingen zijn geëindigd.
 
-##### Artikel 413
+#### Artikel 413
 
 1. Van [artikel 408 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=408&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken.
 
@@ -627,17 +602,17 @@ Een rechtsvordering tegen de opdrachtnemer tot afgifte van de stukken die hij te
 
 ### Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de handelaar
 
-##### Artikel 414
+#### Artikel 414
 
 1. Lastgeving is de overeenkomst van opdracht waarbij de ene partij, de lasthebber, zich jegens de andere partij, de lastgever, verbindt voor rekening van de lastgever een of meer rechtshandelingen te verrichten.
 
 2. De overeenkomst kan de lasthebber verplichten te handelen in eigen naam; zij kan ook verplichten te handelen in naam van de lastgever.
 
-##### Artikel 415
+#### Artikel 415
 
 Indien een lastgeving met twee of meer lasthebbers is aangegaan, is ieder van hen bevoegd zelfstandig te handelen.
 
-##### Artikel 416
+#### Artikel 416
 
 1. Een lasthebber kan slechts als wederpartij van de lastgever optreden, indien de inhoud van de rechtshandeling zo nauwkeurig vaststaat dat strijd tussen beider belangen is uitgesloten.
 
@@ -647,7 +622,7 @@ Indien een lastgeving met twee of meer lasthebbers is aangegaan, is ieder van he
 
 4. De lasthebber die in overeenstemming met de vorige leden als wederpartij van de lastgever optreedt, behoudt zijn recht op loon.
 
-##### Artikel 417
+#### Artikel 417
 
 1. Een lasthebber mag slechts tevens als lasthebber van de wederpartij optreden, indien de inhoud van de rechtshandeling zo nauwkeurig vaststaat dat strijd tussen de belangen van beide lastgevers is uitgesloten.
 
@@ -657,17 +632,17 @@ Indien een lastgeving met twee of meer lasthebbers is aangegaan, is ieder van he
 
 4. Indien een der lastgevers een persoon is als bedoeld in [artikel 408 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=408&z=2026-01-01&g=2026-01-01), en de rechtshandeling strekt tot koop of verkoop dan wel huur of verhuur van een onroerende zaak of een gedeelte daarvan of van een recht waaraan de zaak is onderworpen, heeft de lasthebber geen recht op loon jegens de koper of huurder. Van deze bepaling kan niet ten nadele van de koper of huurder worden afgeweken, ongeacht of de verkoper of verhuurder ter zake van de door hem gegeven last loon is verschuldigd.
 
-##### Artikel 418
+#### Artikel 418
 
 1. Heeft, buiten de gevallen bedoeld in de [artikelen 416](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=2&artikel=416&z=2026-01-01&g=2026-01-01) en [417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=2&artikel=417&z=2026-01-01&g=2026-01-01), een lasthebber direct of indirect belang bij de totstandkoming van de rechtshandeling, dan is hij verplicht de lastgever daarvan in kennis te stellen, tenzij de inhoud van de rechtshandeling zo nauwkeurig vaststaat dat strijd tussen beider belangen is uitgesloten.
 
 2. Een lasthebber heeft geen recht op loon jegens een lastgever ten opzichte van wie hij in strijd met het in lid 1 bepaalde handelt, onverminderd zijn gehoudenheid tot vergoeding van de dientengevolge door de lastgever geleden schade. Van deze bepaling kan niet ten nadele van de lastgever worden afgeweken.
 
-##### Artikel 419
+#### Artikel 419
 
 Indien een lasthebber in eigen naam een overeenkomst heeft gesloten met een derde die in de nakoming van zijn verplichtingen tekortschiet, is de derde binnen de grenzen van hetgeen omtrent zijn verplichting tot schadevergoeding overigens uit de wet voortvloeit, jegens de lasthebber mede gehouden tot vergoeding van de schade die de lastgever door de tekortkoming heeft geleden.
 
-##### Artikel 420
+#### Artikel 420
 
 1. Indien een lasthebber die in eigen naam een overeenkomst heeft gesloten met een derde, zijn verplichtingen jegens de lastgever niet nakomt, in staat van faillissement geraakt of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing wordt verklaard, kan de lastgever de voor overgang vatbare rechten van de lasthebber jegens de derde door een schriftelijke verklaring aan hen beiden op zich doen overgaan, behoudens voor zover zij in de onderlinge verhouding tussen lastgever en lasthebber aan deze laatste toekomen.
 
@@ -675,13 +650,13 @@ Indien een lasthebber in eigen naam een overeenkomst heeft gesloten met een derd
 
 3. De lasthebber is in de gevallen in dit artikel bedoeld gehouden de naam van de derde aan de lastgever op diens verzoek mede te delen.
 
-##### Artikel 421
+#### Artikel 421
 
 1. Indien een lasthebber die in eigen naam een overeenkomst heeft gesloten met een derde, zijn verplichtingen jegens de derde niet nakomt, in staat van faillissement geraakt of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing wordt verklaard, kan de derde na schriftelijke mededeling aan de lasthebber en de lastgever zijn rechten uit de overeenkomst tegen de lastgever uitoefenen, voor zover deze op het tijdstip van de mededeling op overeenkomstige wijze jegens de lasthebber gehouden is.
 
 2. De lasthebber is in het geval in dit artikel bedoeld gehouden de naam van de lastgever aan de derde op diens verzoek mede te delen.
 
-##### Artikel 422
+#### Artikel 422
 
 1. Lastgeving eindigt, behalve door opzegging overeenkomstig [artikel 408](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=408&z=2026-01-01&g=2026-01-01), door:
 
@@ -695,13 +670,13 @@ Indien een lasthebber in eigen naam een overeenkomst heeft gesloten met een derd
 
 4. Eindigt de lastgeving door de dood van de lasthebber, dan zijn diens erfgenamen, indien zij kennis dragen van de erfopvolging en van de lastgeving, verplicht al datgene te doen wat de omstandigheden in het belang van de wederpartij eisen. Een overeenkomstige verplichting rust op degenen in wier dienst of met wie de lasthebber een beroep of bedrijf uitoefende.
 
-##### Artikel 423
+#### Artikel 423
 
 1. Indien is bedongen dat de lasthebber een aan de lastgever toekomend recht in eigen naam en met uitsluiting van de lastgever zal uitoefenen, mist deze de bevoegdheid tot deze uitoefening voor de duur van de overeenkomst ook jegens derden. De uitsluiting kan niet worden tegengeworpen aan derden die haar kenden noch behoorden te kennen.
 
 2. Indien de lasthebber die de uitsluiting bedong, een rechtspersoon is die zich ingevolge zijn statuten ten doel stelt de gezamenlijke belangen van meer lastgevers door de uitoefening van de aan hen toekomende rechten te behartigen, kan in afwijking van [artikel 422 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=2&artikel=422&z=2026-01-01&g=2026-01-01) worden overeengekomen dat de lastgeving niet zal eindigen door opzegging door de lastgever op een termijn die minder dan een jaar bedraagt, noch door diens dood, ondercuratelestelling, faillissement of het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen. Dit beding sluit niet uit dat de overeenkomst op een termijn van tenminste één maand kan worden opgezegd door de erfgenamen van de lastgever of, in geval van diens faillissement of ondercuratelestelling, door de curator dan wel, indien ten aanzien van de lastgever de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, door de bewindvoerder. Wanneer de nalatenschap van de lastgever ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) wordt verdeeld, komt de bevoegdheid van de erfgenamen, bedoeld in de vorige zin, toe aan zijn echtgenoot of geregistreerde partner.
 
-##### Artikel 424
+#### Artikel 424
 
 1. De [artikelen 415-423](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=2&artikel=415&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op andere overeenkomsten dan lastgeving krachtens welke de ene partij verplicht of bevoegd is voor rekening van de andere partij rechtshandelingen te verrichten, voor zover de strekking van de betrokken bepalingen in verband met de aard van de overeenkomst zich daartegen niet verzet.
 
@@ -709,23 +684,23 @@ Indien een lasthebber in eigen naam een overeenkomst heeft gesloten met een derd
 
 ### Afdeling 3. Informatie en rechten betreffende kredietovereenkomsten
 
-##### Artikel 425
+#### Artikel 425
 
 De bemiddelingsovereenkomst is de overeenkomst van opdracht waarbij de ene partij, de opdrachtnemer, zich tegenover de andere partij, de opdrachtgever, verbindt tegen loon als tussenpersoon werkzaam te zijn bij het tot stand brengen van een of meer overeenkomsten tussen de opdrachtgever en derden.
 
-##### Artikel 426
+#### Artikel 426
 
 1. De tussenpersoon heeft recht op loon zodra door zijn bemiddeling de overeenkomst tussen de opdrachtgever en de derde is tot stand gekomen.
 
 2. Indien het recht op loon afhankelijk is gesteld van de uitvoering van de bemiddelde overeenkomst en deze overeenkomst niet wordt uitgevoerd, is de opdrachtgever het loon ook verschuldigd, tenzij de niet-uitvoering niet aan hem kan worden toegerekend.
 
-##### Artikel 427
+#### Artikel 427
 
 De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=2&artikel=417&z=2026-01-01&g=2026-01-01) en [418](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=2&artikel=418&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op overeenkomsten waarbij de ene partij jegens de andere partij verplicht of bevoegd is als tussenpersoon werkzaam te zijn als bedoeld in [artikel 425](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=3&artikel=425&z=2026-01-01&g=2026-01-01), met dien verstande dat met een tussenpersoon die tevens werkzaam is voor de wederpartij, gelijkgesteld is een tussenpersoon die zelf als wederpartij optreedt. De artikelen 417 en 418 zijn mede van overeenkomstige toepassing, indien de tussenpersoon geen recht op loon heeft.
 
 ### Afdeling 2. Lastgeving
 
-##### Artikel 428
+#### Artikel 428
 
 1. De agentuurovereenkomst is een overeenkomst waarbij de ene partij, de principaal, aan de andere partij, de handelsagent, opdraagt, en deze zich verbindt, voor een bepaalde of een onbepaalde tijd en tegen beloning bij de totstandkoming van overeenkomsten bemiddeling te verlenen, en deze eventueel op naam en voor rekening van de principaal te sluiten zonder aan deze ondergeschikt te zijn.
 
@@ -733,7 +708,7 @@ De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeld
 
 3. Ieder der partijen is verplicht de wederpartij op haar verzoek een ondertekend geschrift te verschaffen dat de dan geldende inhoud van de agentuurovereenkomst weergeeft.
 
-##### Artikel 429
+#### Artikel 429
 
 1. De handelsagent kan zich voor verplichtingen die voor derden uit een door hem bemiddelde of afgesloten overeenkomst voortvloeien, uitsluitend schriftelijk aansprakelijk stellen.
 
@@ -743,7 +718,7 @@ De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeld
 
 4. Indien er een kennelijke wanverhouding is tussen het risico dat de handelsagent op zich heeft genomen, en de bedongen provisie, kan de rechter het bedrag waarvoor de handelsagent aansprakelijk is, matigen, voor zover dit bedrag de provisie te boven gaat. De rechter houdt met alle omstandigheden rekening, in het bijzonder met de wijze waarop de handelsagent de belangen van de principaal heeft behartigd.
 
-##### Artikel 430
+#### Artikel 430
 
 1. De principaal moet alles doen wat in de gegeven omstandigheden van zijn kant nodig is om de handelsagent in staat te stellen zijn werkzaamheden te verrichten.
 
@@ -753,7 +728,7 @@ De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeld
 
 4. Hij moet de handelsagent binnen een redelijke termijn op de hoogte stellen van zijn aanvaarding of weigering of de niet-uitvoering van een door de handelsagent aangebrachte overeenkomst.
 
-##### Artikel 431
+#### Artikel 431
 
 1. De handelsagent heeft recht op provisie voor de overeenkomsten die tijdens de duur der agentuurovereenkomst zijn tot stand gekomen:
 
@@ -771,7 +746,7 @@ De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeld
 
 3. De handelsagent heeft geen recht op provisie, indien deze krachtens het tweede lid is verschuldigd aan zijn voorganger, tenzij uit de omstandigheden voortvloeit dat het billijk is de provisie tussen hen beiden te verdelen.
 
-##### Artikel 432
+#### Artikel 432
 
 1. Indien de rol van de handelsagent zich heeft beperkt tot het verlenen van bemiddeling bij de totstandkoming van de overeenkomst, wordt de order die hij aan zijn principaal heeft doen toekomen, voor wat betreft het recht op provisie krachtens [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=3&artikel=426&z=2026-01-01&g=2026-01-01) geacht te zijn aanvaard, tenzij de principaal de handelsagent binnen de redelijke termijn, bedoeld in [artikel 430 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=430&z=2026-01-01&g=2026-01-01), mededeelt dat hij de order weigert of een voorbehoud maakt. Bij gebreke van een in de agentuurovereenkomst bepaalde termijn bedraagt de termijn een maand vanaf het tijdstip waarop hem de order is medegedeeld.
 
@@ -779,7 +754,7 @@ De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeld
 
 3. Indien het beding, bedoeld in het tweede lid, is gemaakt, ontstaat het recht op provisie uiterlijk wanneer de derde zijn deel van de overeenkomst heeft uitgevoerd, of dit had moeten doen, indien de principaal zijn deel van de transactie had uitgevoerd.
 
-##### Artikel 433
+#### Artikel 433
 
 1. De principaal is verplicht na afloop van iedere maand aan de handelsagent een schriftelijke opgave te verstrekken van de over die maand verschuldigde provisie, onder vermelding van de gegevens waarop de berekening berust; deze opgave moet worden verstrekt voor het einde van de volgende maand. Partijen kunnen schriftelijk overeenkomen dat de opgave twee- of driemaandelijks wordt verstrekt.
 
@@ -789,21 +764,21 @@ De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeld
 
 4. De overlegging van de bewijsstukken door de principaal geschiedt onder verplichting tot geheimhouding door de handelsagent en in de vorige leden vermelde personen. Deze laatsten zijn echter niet verplicht tot geheimhouding tegenover de handelsagent voor zover het betreft een in het eerste lid bedoeld gegeven.
 
-##### Artikel 434
+#### Artikel 434
 
 De provisie wordt uiterlijk opeisbaar op het tijdstip waarop de schriftelijke opgave, bedoeld in [artikel 433](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=433&z=2026-01-01&g=2026-01-01), moet worden verstrekt.
 
-##### Artikel 435
+#### Artikel 435
 
 1. De handelsagent heeft recht op een beloning, indien hij bereid is zijn verplichtingen uit de agentuurovereenkomst na te komen of deze reeds heeft nagekomen, doch de principaal van de diensten van de handelsagent geen gebruik heeft gemaakt of in aanzienlijk geringere mate gebruik heeft gemaakt dan deze als normaal mocht verwachten, tenzij de gedraging van de principaal voortvloeit uit omstandigheden welke redelijkerwijs niet voor zijn rekening komen.
 
 2. Bij de bepaling van deze beloning wordt rekening gehouden met het bedrag van de in de voorafgaande tijd verdiende provisie en met alle andere ter zake in acht te nemen factoren, zoals de onkosten die de handelsagent zich door het niet verrichten van werkzaamheden bespaart.
 
-##### Artikel 436
+#### Artikel 436
 
 Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is aangegaan, door beide partijen wordt voortgezet, bindt partijen voor onbepaalde tijd op dezelfde voorwaarden.
 
-##### Artikel 437
+#### Artikel 437
 
 1. Indien de agentuurovereenkomst is aangegaan voor een onbepaalde tijd of voor een bepaalde tijd met recht van tussentijdse opzegging, is ieder der partijen bevoegd haar te doen eindigen met inachtneming van de overeengekomen opzeggingstermijn. Bij gebreke van een overeenkomst dienaangaande zal de opzeggingstermijn vier maanden bedragen, vermeerderd met een maand na drie jaren looptijd van de overeenkomst en met twee maanden na zes jaren.
 
@@ -811,13 +786,13 @@ Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is a
 
 3. Opzegging behoort plaats te vinden tegen het einde van een kalendermaand.
 
-##### Artikel 438
+#### Artikel 438
 
 1. De agentuurovereenkomst eindigt door het overlijden van de handelsagent.
 
 2. In geval van overlijden van de principaal zijn zowel zijn erfgenamen als de handelsagent bevoegd, mits binnen negen maanden na het overlijden, de overeenkomst te doen eindigen met een opzeggingstermijn van vier maanden. Wanneer de nalatenschap van de principaal ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) wordt verdeeld, komt de bevoegdheid van de erfgenamen, bedoeld in de vorige zin, toe aan zijn echtgenoot of geregistreerde partner.
 
-##### Artikel 439
+#### Artikel 439
 
 1. De partij die de overeenkomst beëindigt zonder eerbiediging van haar duur of zonder inachtneming van de wettelijke of overeengekomen opzeggingstermijn en zonder dat de wederpartij daarin toestemt, is schadeplichtig, tenzij zij de overeenkomst doet eindigen om een dringende, aan de wederpartij onverwijld medegedeelde reden.
 
@@ -827,7 +802,7 @@ Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is a
 
 4. Een beding waardoor aan een der partijen de beslissing wordt overgelaten of er een dringende reden aanwezig is, is nietig.
 
-##### Artikel 440
+#### Artikel 440
 
 1. Ieder der beide partijen is bevoegd de kantonrechter te verzoeken de agentuurovereenkomst te ontbinden op grond van:
 
@@ -843,7 +818,7 @@ Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is a
 
 5. Indien de rechter de ontbinding uitspreekt, bepaalt hij op welk tijdstip de agentuurovereenkomst eindigt.
 
-##### Artikel 441
+#### Artikel 441
 
 1. De partij die, krachtens [artikel 439](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=439&z=2026-01-01&g=2026-01-01) of [artikel 440 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=440&z=2026-01-01&g=2026-01-01), schadeplichtig is, is aan de wederpartij een som verschuldigd gelijk aan de beloning over de tijd dat de agentuurovereenkomst bij regelmatige beëindiging had behoren voort te duren. Voor de vaststelling van deze som wordt rekening gehouden met de in de voorafgaande tijd verdiende provisie en met alle andere ter zake in acht te nemen factoren.
 
@@ -851,7 +826,7 @@ Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is a
 
 3. De benadeelde partij kan, in plaats van de schadeloosstelling in de voorafgaande leden bedoeld, volledige vergoeding van haar schade vorderen, onder gehoudenheid de omvang daarvan te bewijzen.
 
-##### Artikel 442
+#### Artikel 442
 
 1. Ongeacht het recht om schadevergoeding te vorderen, heeft de handelsagent bij het einde van de agentuurovereenkomst recht op een vergoeding, klantenvergoeding, voor zover:
 
@@ -871,7 +846,7 @@ Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is a
 
 - c. door de handelsagent die, overeenkomstig een afspraak met de principaal, zijn rechten en verplichtingen uit hoofde van de agentuurovereenkomst aan een derde overdraagt.
 
-##### Artikel 443
+#### Artikel 443
 
 1. Een beding dat de handelsagent beperkt in zijn vrijheid om na het einde van de agentuurovereenkomst werkzaam te zijn, is slechts geldig voor zover:
 
@@ -891,11 +866,11 @@ Een agentuurovereenkomst die na het verstrijken van de termijn waarvoor zij is a
 
 4. De rechter kan, indien de handelsagent dat vraagt, zulk een beding geheel of gedeeltelijk teniet doen op grond dat, in verhouding tot het te beschermen belang van de principaal, de handelsagent door het beding onbillijk wordt benadeeld.
 
-##### Artikel 444
+#### Artikel 444
 
 Rechtsvorderingen gegrond op de [artikelen 439](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=439&z=2026-01-01&g=2026-01-01) en [440](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=440&z=2026-01-01&g=2026-01-01) verjaren door verloop van één jaar na het feit dat de vordering deed ontstaan.
 
-##### Artikel 445
+#### Artikel 445
 
 1. Partijen kunnen niet afwijken van de [artikelen 401](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=401&z=2026-01-01&g=2026-01-01), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=402&z=2026-01-01&g=2026-01-01), [403](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=403&z=2026-01-01&g=2026-01-01) en [426 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=3&artikel=426&z=2026-01-01&g=2026-01-01) noch van de [artikelen 428 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=428&z=2026-01-01&g=2026-01-01), [429](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=429&z=2026-01-01&g=2026-01-01), [430](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=430&z=2026-01-01&g=2026-01-01), [431 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=431&z=2026-01-01&g=2026-01-01), [432 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=432&z=2026-01-01&g=2026-01-01), [433](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=433&z=2026-01-01&g=2026-01-01), [437 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=437&z=2026-01-01&g=2026-01-01), [439](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=439&z=2026-01-01&g=2026-01-01), [440](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=440&z=2026-01-01&g=2026-01-01), [441](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=441&z=2026-01-01&g=2026-01-01), [443](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=443&z=2026-01-01&g=2026-01-01) en [444](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=444&z=2026-01-01&g=2026-01-01).
 
@@ -903,7 +878,7 @@ Rechtsvorderingen gegrond op de [artikelen 439](https://wetten.overheid.nl/jci1.
 
 ### Afdeling 5. De overeenkomst inzake geneeskundige behandeling
 
-##### Artikel 446
+#### Artikel 446
 
 1. De overeenkomst inzake geneeskundige behandeling - in deze afdeling verder aangeduid als de behandelingsovereenkomst - is de overeenkomst waarbij een natuurlijke persoon of een rechtspersoon, de hulpverlener, zich in de uitoefening van een geneeskundig beroep of bedrijf tegenover een ander, de opdrachtgever, verbindt tot het verrichten van handelingen op het gebied van de geneeskunst, rechtstreeks betrekking hebbende op de persoon van de opdrachtgever of van een bepaalde derde. Degene op wiens persoon de handelingen rechtstreeks betrekking hebben wordt verder aangeduid als de patiënt.
 
@@ -917,7 +892,7 @@ Rechtsvorderingen gegrond op de [artikelen 439](https://wetten.overheid.nl/jci1.
 
 4. Geen behandelingsovereenkomst is aanwezig, indien het betreft handelingen ter beoordeling van de gezondheidstoestand of medische begeleiding van een persoon, verricht in opdracht van een ander dan die persoon in verband met de vaststelling van aanspraken of verplichtingen, de toelating tot een verzekering of voorziening, of de beoordeling van de geschiktheid voor een opleiding, een arbeidsverhouding of de uitvoering van bepaalde werkzaamheden.
 
-##### Artikel 447
+#### Artikel 447
 
 1. Een minderjarige die de leeftijd van zestien jaren heeft bereikt, is bekwaam tot het aangaan van een behandelingsovereenkomst ten behoeve van zichzelf, alsmede tot het verrichten van rechtshandelingen die met de overeenkomst onmiddellijk verband houden.
 
@@ -925,7 +900,7 @@ Rechtsvorderingen gegrond op de [artikelen 439](https://wetten.overheid.nl/jci1.
 
 3. In op die behandelingsovereenkomst betrekking hebbende aangelegenheden is de minderjarige bekwaam in en buiten rechte op te treden.
 
-##### Artikel 448
+#### Artikel 448
 
 1. De hulpverlener licht de patiënt op duidelijke wijze in, die past bij zijn bevattingsvermogen, en overlegt tijdig met de patiënt over het voorgenomen onderzoek en de voorgestelde behandeling en over de ontwikkelingen omtrent het onderzoek, de behandeling en de gezondheidstoestand van de patiënt. De hulpverlener licht een patiënt die de leeftijd van twaalf jaren nog niet heeft bereikt op zodanige wijze in als past bij zijn bevattingsvermogen.
 
@@ -945,11 +920,11 @@ Rechtsvorderingen gegrond op de [artikelen 439](https://wetten.overheid.nl/jci1.
 
 4. De hulpverlener mag de patiënt bedoelde inlichtingen slechts onthouden voor zover het verstrekken ervan kennelijk ernstig nadeel voor de patiënt zou opleveren. Indien het belang van de patiënt dit vereist, dient de hulpverlener de desbetreffende inlichtingen aan een ander dan de patiënt te verstrekken. De inlichtingen worden de patiënt alsnog gegeven, zodra bedoeld nadeel niet meer te duchten is. De hulpverlener maakt geen gebruik van zijn in de eerste volzin bedoelde bevoegdheid dan nadat hij daarover een andere hulpverlener heeft geraadpleegd.
 
-##### Artikel 449
+#### Artikel 449
 
 Indien de patiënt te kennen heeft gegeven geen inlichtingen te willen ontvangen, blijft het verstrekken daarvan achterwege, behoudens voor zover het belang dat de patiënt daarbij heeft niet opweegt tegen het nadeel dat daaruit voor hemzelf of anderen kan voortvloeien.
 
-##### Artikel 450
+#### Artikel 450
 
 1. Voor verrichtingen ter uitvoering van een behandelingsovereenkomst is de toestemming van de patiënt vereist.
 
@@ -957,21 +932,21 @@ Indien de patiënt te kennen heeft gegeven geen inlichtingen te willen ontvangen
 
 3. In het geval waarin een patiënt van zestien jaren of ouder niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden door de hulpverlener en een persoon als bedoeld in de [leden 2 of 3 van artikel 465](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=465&z=2026-01-01&g=2026-01-01), de kennelijke opvattingen van de patiënt, geuit in schriftelijke vorm toen deze tot bedoelde redelijke waardering nog in staat was en inhoudende een weigering van toestemming als bedoeld in lid 1, opgevolgd. De hulpverlener kan hiervan afwijken indien hij daartoe gegronde redenen aanwezig acht.
 
-##### Artikel 451
+#### Artikel 451
 
 Op verzoek van de patiënt legt de hulpverlener in ieder geval schriftelijk vast voor welke verrichtingen van ingrijpende aard deze toestemming heeft gegeven.
 
-##### Artikel 452
+#### Artikel 452
 
 De patiënt geeft de hulpverlener naar beste weten de inlichtingen en de medewerking die deze redelijkerwijs voor het uitvoeren van de overeenkomst behoeft.
 
-##### Artikel 453
+#### Artikel 453
 
 1. De hulpverlener moet bij zijn werkzaamheden de zorg van een goed hulpverlener in acht nemen en handelt daarbij in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiende uit de voor hulpverleners geldende professionele standaard en kwaliteitsstandaarden als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
 
 2. [Artikel 2a, eerste en tweede lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=2a) is van overeenkomstige toepassing op het handelen van de hulpverleners.
 
-##### Artikel 454
+#### Artikel 454
 
 1. De hulpverlener richt een dossier in met betrekking tot de behandeling van de patiënt. Hij houdt in het dossier aantekening van de gegevens omtrent de gezondheid van de patiënt en de te diens aanzien uitgevoerde verrichtingen en neemt andere gegevens daarin op, een en ander voor zover dit voor een goede hulpverlening aan de patiënt noodzakelijk is.
 
@@ -979,17 +954,17 @@ De patiënt geeft de hulpverlener naar beste weten de inlichtingen en de medewer
 
 3. Onverminderd het bepaalde in [artikel 455](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=455&z=2026-01-01&g=2026-01-01) bewaart de hulpverlener het dossier gedurende twintig jaren, te rekenen vanaf het tijdstip waarop de laatste wijziging in het dossier heeft plaatsgevonden, of zoveel langer als redelijkerwijs uit de zorg van een goed hulpverlener voortvloeit.
 
-##### Artikel 455
+#### Artikel 455
 
 1. De hulpverlener vernietigt de gegevens uit het dossier na een daartoe strekkend schriftelijk of elektronisch verzoek van de patiënt.
 
 2. Lid 1 geldt niet voor zover het verzoek gegevens betreft waarvan redelijkerwijs aannemelijk is dat de bewaring van aanmerkelijk belang is voor een ander dan de patiënt, alsmede voor zover het bepaalde bij of krachtens de wet zich tegen vernietiging verzet.
 
-##### Artikel 456
+#### Artikel 456
 
 De hulpverlener verstrekt aan de patiënt desgevraagd inzage in en afschrift van de gegevens uit het dossier. De verstrekking blijft achterwege voor zover dit noodzakelijk is in het belang van de bescherming van de persoonlijke levenssfeer van een ander.
 
-##### Artikel 457
+#### Artikel 457
 
 1. Onverminderd het in [artikel 448 lid 4, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=448&z=2026-01-01&g=2026-01-01), bepaalde draagt de hulpverlener zorg, dat aan anderen dan de patiënt geen inlichtingen over de patiënt dan wel inzage in of afschrift van de gegevens uit het dossier worden verstrekt dan met toestemming van de patiënt. Indien verstrekking plaatsvindt, geschiedt deze slechts voor zover daardoor de persoonlijke levenssfeer van een ander niet wordt geschaad. De verstrekking kan geschieden zonder inachtneming van de beperkingen, bedoeld in de voorgaande volzinnen, indien het bij of krachtens de wet bepaalde daartoe verplicht.
 
@@ -997,7 +972,7 @@ De hulpverlener verstrekt aan de patiënt desgevraagd inzage in en afschrift van
 
 3. Daaronder zijn evenmin begrepen degenen wier toestemming ter zake van de uitvoering van de behandelingsovereenkomst op grond van de [artikelen 450](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=450&z=2026-01-01&g=2026-01-01) en [465](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=465&z=2026-01-01&g=2026-01-01) is vereist. Indien de hulpverlener door inlichtingen over de patiënt dan wel inzage in of afschrift van de gegevens uit het dossier te verstrekken niet geacht kan worden de zorg van een goed hulpverlener in acht te nemen, laat hij zulks achterwege.
 
-##### Artikel 458
+#### Artikel 458
 
 1. In afwijking van het bepaalde in [artikel 457 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=457&z=2026-01-01&g=2026-01-01) kunnen zonder toestemming van de patiënt ten behoeve van statistiek of wetenschappelijk onderzoek op het gebied van de volksgezondheid aan een ander desgevraagd inlichtingen over de patiënt of inzage in de gegevens uit het dossier worden verstrekt indien:
 
@@ -1015,7 +990,7 @@ De hulpverlener verstrekt aan de patiënt desgevraagd inzage in en afschrift van
 
 3. Bij een verstrekking overeenkomstig lid 1 wordt daarvan aantekening gehouden in het dossier.
 
-##### Artikel 459
+#### Artikel 459
 
 1. De hulpverlener voert verrichtingen in het kader van de behandelingsovereenkomst uit buiten de waarneming van anderen dan de patiënt, tenzij de patiënt ermee heeft ingestemd dat de verrichtingen kunnen worden waargenomen door anderen. Indien de hulpverlener apotheker is, is de verplichting, bedoeld in de eerste volzin, niet van toepassing voor zover het de visuele waarneming door anderen dan de patiënt betreft.
 
@@ -1023,25 +998,25 @@ De hulpverlener verstrekt aan de patiënt desgevraagd inzage in en afschrift van
 
 3. Daaronder zijn evenmin begrepen degenen wier toestemming ter zake van de verrichting op grond van de [artikelen 450](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=450&z=2026-01-01&g=2026-01-01) en [465](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=465&z=2026-01-01&g=2026-01-01) is vereist. Indien de hulpverlener door verrichtingen te doen waarnemen niet geacht kan worden de zorg van een goed hulpverlener in acht te nemen, laat hij zulks niet toe.
 
-##### Artikel 460
+#### Artikel 460
 
 De hulpverlener kan, behoudens gewichtige redenen, de behandelingsovereenkomst niet opzeggen.
 
-##### Artikel 461
+#### Artikel 461
 
 De opdrachtgever is de hulpverlener loon verschuldigd, behoudens voor zover deze voor zijn werkzaamheden loon ontvangt op grond van het bij of krachtens de wet bepaalde dan wel uit de overeenkomst anders voortvloeit.
 
-##### Artikel 462
+#### Artikel 462
 
 1. Indien ter uitvoering van een behandelingsovereenkomst verrichtingen plaatsvinden in een ziekenhuis dat bij die overeenkomst geen partij is, is het ziekenhuis voor een tekortkoming daarbij mede aansprakelijk, als ware het zelf bij de overeenkomst partij.
 
 2. Onder ziekenhuis als bedoeld in lid 1 wordt verstaan een ziekenhuis, een verpleeginrichting of een gehandicapteninrichting dan wel een afdeling daarvan waar zorg of een andere dienst wordt verleend waarop aanspraak bestaat ingevolge [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), alsmede een abortuskliniek in de zin van de [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396).
 
-##### Artikel 463
+#### Artikel 463
 
 De aansprakelijkheid van een hulpverlener of, in het geval bedoeld in [artikel 462](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=462&z=2026-01-01&g=2026-01-01), van het ziekenhuis, kan niet worden beperkt of uitgesloten.
 
-##### Artikel 464
+#### Artikel 464
 
 1. Indien in de uitoefening van een geneeskundig beroep of bedrijf anders dan krachtens een behandelingsovereenkomst handelingen op het gebied van de geneeskunst worden verricht, zijn deze afdeling alsmede de [artikelen 404](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=404&z=2026-01-01&g=2026-01-01), [405 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=405&z=2026-01-01&g=2026-01-01) en [406 van afdeling 1 van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=406&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
 
@@ -1051,7 +1026,7 @@ De aansprakelijkheid van een hulpverlener of, in het geval bedoeld in [artikel 4
 
 - b. wordt de persoon op wie het onderzoek betrekking heeft in de gelegenheid gesteld mee te delen of hij de uitslag en de gevolgtrekking van het onderzoek wenst te vernemen. Indien die wens is geuit en de handelingen niet worden verricht in verband met een tot stand gekomen arbeidsverhouding of burgerrechtelijke verzekering dan wel een opleiding waartoe de betrokkene reeds is toegelaten, wordt bedoelde persoon tevens in de gelegenheid gesteld mee te delen of hij van de uitslag en de gevolgtrekking als eerste kennis wenst te nemen teneinde te kunnen beslissen of daarvan mededeling aan anderen wordt gedaan.
 
-##### Artikel 465
+#### Artikel 465
 
 1. De verplichtingen die voor de hulpverlener uit deze afdeling jegens de patiënt voortvloeien worden, indien de patiënt de leeftijd van twaalf jaren nog niet heeft bereikt, door de hulpverlener nagekomen jegens de ouders die het gezag over de patiënt uitoefenen dan wel jegens zijn voogd.
 
@@ -1065,25 +1040,25 @@ De aansprakelijkheid van een hulpverlener of, in het geval bedoeld in [artikel 4
 
 6. Verzet de patiënt zich tegen een verrichting van ingrijpende aard waarvoor een persoon als bedoeld in de leden 2 of 3 toestemming heeft gegeven, dan kan de verrichting slechts worden uitgevoerd indien zij kennelijk nodig is teneinde ernstig nadeel voor de patiënt te voorkomen.
 
-##### Artikel 466
+#### Artikel 466
 
 1. Is op grond van [artikel 465](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=465&z=2026-01-01&g=2026-01-01) voor het uitvoeren van een verrichting uitsluitend de toestemming van een daar bedoelde persoon in plaats van die van de patiënt vereist, dan kan tot de verrichting zonder die toestemming worden overgegaan indien de tijd voor het vragen van die toestemming ontbreekt aangezien onverwijlde uitvoering van de verrichting kennelijk nodig is teneinde ernstig nadeel voor de patiënt te voorkomen.
 
 2. Een volgens de [artikelen 450](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=450&z=2026-01-01&g=2026-01-01) en [465](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=465&z=2026-01-01&g=2026-01-01) vereiste toestemming mag worden verondersteld te zijn gegeven, indien de desbetreffende verrichting niet van ingrijpende aard is.
 
-##### Artikel 467
+#### Artikel 467
 
 1. Van het lichaam afgescheiden anonieme stoffen en delen kunnen worden gebruikt voor medisch statistisch of ander medisch wetenschappelijk onderzoek voor zover de patiënt van wie het lichaamsmateriaal afkomstig is, geen bezwaar heeft gemaakt tegen zodanig onderzoek en het onderzoek met de vereiste zorgvuldigheid wordt verricht.
 
 2. Onder onderzoek met van het lichaam afgescheiden anonieme stoffen en delen wordt verstaan onderzoek waarbij is gewaarborgd dat het bij het onderzoek te gebruiken lichaamsmateriaal en de daaruit te verkrijgen gegevens niet tot de persoon herleidbaar zijn.
 
-##### Artikel 468
+#### Artikel 468
 
 Van de bepalingen van deze afdeling en van de [artikelen 404](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=404&z=2026-01-01&g=2026-01-01), [405 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=405&z=2026-01-01&g=2026-01-01) en [406](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=406&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de patiënt worden afgeweken.
 
 ## Titel 7A. Reisovereenkomst
 
-##### Artikel 500
+#### Artikel 500
 
 Voor de toepassing van deze titel wordt verstaan onder:
 
@@ -1151,7 +1126,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - q. **richtlijn (EU) 2015/2302:** richtlijn (EU) 2015/2302 van het Europees Parlement en de Raad van 25 november 2015 betreffende pakketreizen en gekoppelde reisarrangementen, houdende wijziging van Verordening (EG) nr. 2006/2004 en van [Richtlijn 2011/83](32011L0083)/EU van het Europees Parlement en de Raad, en tot intrekking van [Richtlijn 90/314/EEG](31990L0314) van de Raad (PbEU, L 326).
 
-##### Artikel 501
+#### Artikel 501
 
 1. Deze titel is van toepassing op pakketreizen en gekoppelde reisarrangementen.
 
@@ -1163,7 +1138,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - c). pakketreizen en gekoppelde reisarrangementen die worden afgenomen op basis van een algemene overeenkomst voor zakenreizen tussen een handelaar en een natuurlijke persoon of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit.
 
-##### Artikel 502
+#### Artikel 502
 
 1. De organisator en, indien de pakketreis wordt afgenomen via een doorverkoper, ook de doorverkoper, verstrekt de reiziger, voordat deze is gebonden door een pakketreisovereenkomst of een daarmee overeenstemmend aanbod, standaardinformatie door middel van het formulier als bedoeld in bijlage I, deel A of deel B van de richtlijn (EU) 2015/2302 en, voor zover deze van toepassing is op de pakketreis, daarnaast de volgende informatie:
 
@@ -1205,13 +1180,13 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 4. De in lid 1, 2 en 3 bedoelde informatie wordt op een duidelijke, begrijpelijke en in het oog springende manier verstrekt. Schriftelijke informatie wordt in een leesbare vorm verstrekt.
 
-##### Artikel 503
+#### Artikel 503
 
 1. De informatie die op grond van [artikel 502, lid 1, onderdelen a, c, d, e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=2&artikel=502&z=2026-01-01&g=2026-01-01) aan de reiziger wordt verstrekt is onderdeel van de pakketreisovereenkomst en wordt niet gewijzigd, tenzij de partijen bij de overeenkomst uitdrukkelijk anders overeenkomen. De organisator, en, indien van toepassing, de doorverkoper, deelt de reiziger alle wijzigingen in de precontractuele informatie op duidelijke, begrijpelijke en in het oog springende wijze mee voordat de pakketreisovereenkomst wordt gesloten.
 
 2. Indien de organisator, en, indien van toepassing, de doorverkoper, de vereisten inzake informatie over bijkomende vergoedingen, toeslagen of andere kosten als bedoeld in [artikel 502, lid 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=2&artikel=502&z=2026-01-01&g=2026-01-01), niet heeft nageleefd voordat de pakketreisovereenkomst wordt gesloten, zijn deze vergoedingen, toeslagen of andere kosten niet voor rekening van de reiziger.
 
-##### Artikel 504
+#### Artikel 504
 
 1. De pakketreisovereenkomst is in heldere en begrijpelijke taal opgesteld en, voor zover zij schriftelijk wordt vastgelegd, leesbaar. Bij het sluiten van de pakketreisovereenkomst of onverwijld daarna, verstrekt de organisator of de doorverkoper de reiziger een kopie of een bevestiging van de overeenkomst op een duurzame gegevensdrager. Als de pakketreisovereenkomst in de gelijktijdige fysieke aanwezigheid van partijen is gesloten, heeft de reiziger recht op een papieren kopie.
 
@@ -1245,11 +1220,11 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 6. Tijdig voor het begin van de pakketreis verstrekt de organisator de reiziger de nodige ontvangstbewijzen, vouchers en vervoerbewijzen, informatie over de geplande vertrektijden en, in voorkomend geval, over de uiterste tijd om in te checken, en de geplande tijden van tussenstops, aansluitingen en aankomst.
 
-##### Artikel 505
+#### Artikel 505
 
 Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=2&artikel=502&z=2026-01-01&g=2026-01-01), [503](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=2&artikel=503&z=2026-01-01&g=2026-01-01) en [504](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=2&artikel=504&z=2026-01-01&g=2026-01-01) neergelegde informatievoorschriften.
 
-##### Artikel 506
+#### Artikel 506
 
 1. Reizigers kunnen de rechtsverhouding tot de organisator die voortvloeit uit de pakketreisovereenkomst overdragen aan een persoon die voldoet aan alle voorwaarden die voor die overeenkomst gelden, mits zij de organisator binnen een redelijke termijn vóór het begin van de pakketreis via een duurzame gegevensdrager op de hoogte stellen. Van een redelijke termijn is in ieder geval sprake als de organisator uiterlijk zeven dagen vóór het begin van de pakketreis op de hoogte wordt gesteld.
 
@@ -1257,7 +1232,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 3. De organisator voorziet degene die de pakketreisovereenkomst overdraagt van bewijsstukken van de bijkomende vergoedingen, toeslagen en andere kosten die uit de overdracht voortvloeien.
 
-##### Artikel 507
+#### Artikel 507
 
 1. De prijzen kunnen na de sluiting van de pakketreisovereenkomst alleen worden verhoogd indien de overeenkomst daar uitdrukkelijk in voorziet, aangeeft hoe de prijsherzieningen moeten worden berekend en vermeldt dat de reiziger op grond van lid 5 recht heeft op een prijsverlaging.
 
@@ -1277,7 +1252,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 6. In geval van een prijsverlaging heeft de organisator het recht de werkelijk gemaakte administratieve kosten af te trekken van de aan de reiziger verschuldigde terugbetaling. De organisator bewijst die administratieve kosten op verzoek van de reiziger.
 
-##### Artikel 508
+#### Artikel 508
 
 1. De organisator kan de bedingen van de pakketreisovereenkomst, met uitzondering van prijswijzigingen overeenkomstig [artikel 507](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=3&artikel=507&z=2026-01-01&g=2026-01-01), vóór het begin van de pakketreis niet eenzijdig wijzigen, tenzij:
 
@@ -1307,7 +1282,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 5. Indien de pakketreisovereenkomst op grond van lid 2, onderdeel b, wordt beëindigd en de reiziger geen vervangende pakketreis aanvaardt, betaalt de organisator alle door of namens de reiziger betaalde bedragen onverwijld en in elk geval uiterlijk veertien dagen nadat de overeenkomst is beëindigd, aan de reiziger terug.[Artikel 511, lid 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=4&artikel=511&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 509
+#### Artikel 509
 
 1. De reiziger kan de pakketreisovereenkomst te allen tijde beëindigen vóór het begin van de pakketreis. De reiziger kan bij beëindiging van de pakketreisovereenkomst worden verplicht tot betaling van een passende en gerechtvaardigde beëindigingsvergoeding aan de organisator.
 
@@ -1333,7 +1308,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 7. De terugbetalingen worden onverwijld aan de reiziger gedaan en in elk geval uiterlijk binnen veertien dagen na de beëindiging van de pakketreisovereenkomst.
 
-##### Artikel 510
+#### Artikel 510
 
 1. De organisator is verantwoordelijk voor de uitvoering van de reisdiensten waarop de pakketreisovereenkomst betrekking heeft, ongeacht of deze diensten door de organisator of door andere dienstverleners worden verricht.
 
@@ -1361,7 +1336,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 11. De in lid 9 beschreven beperking van de kosten is niet van toepassing op personen met beperkte mobiliteit in de zin van artikel 2, onderdeel a, van Verordening (EG), nr. 1107/2006 van het Europees Parlement en de Raad van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU, L 204), noch op personen die hen begeleiden, zwangere vrouwen, alleenreizende minderjarigen en personen die specifieke medische bijstand behoeven, mits de organisator ten minste achtenveertig uur voor het begin van de pakketreis in kennis is gesteld van hun bijzondere behoeften.
 
-##### Artikel 511
+#### Artikel 511
 
 1. De reiziger heeft recht op een passende prijsverlaging voor iedere periode waarin er sprake was van non-conformiteit, tenzij de organisator bewijst dat de non-conformiteit aan de reiziger is toe te rekenen.
 
@@ -1391,7 +1366,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 9. De schadevergoeding of prijsverlaging uit hoofde van deze titel en de uit hoofde van de in het vorige lid bedoelde verordeningen en internationale verdragen toegekende compensatie of prijsverlaging worden met elkaar verrekend.
 
-##### Artikel 512
+#### Artikel 512
 
 1. De reiziger kan berichten, verzoeken of klachten in verband met de uitvoering van de pakketreis rechtstreeks richten tot de doorverkoper bij wie hij de reis heeft afgenomen. De doorverkoper geeft deze berichten, verzoeken of klachten onverwijld aan de organisator door.
 
@@ -1399,7 +1374,7 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 3. Ingeval de organisator buiten de Europese Economische Ruimte is gevestigd, gelden voor de doorverkoper die in een Europese lidstaat is gevestigd de verplichtingen voor organisatoren die zijn vastgelegd in de [artikelen 510 tot en met 513a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=4&artikel=510&z=2026-01-01&g=2026-01-01), tenzij de doorverkoper bewijst dat de organisator aan deze artikelen voldoet.
 
-##### Artikel 513
+#### Artikel 513
 
 1. De organisator is verplicht de reiziger onverwijld hulp en bijstand te verlenen indien de reiziger in moeilijkheden verkeert, daaronder begrepen de in [artikel 510, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=4&artikel=510&z=2026-01-01&g=2026-01-01), bedoelde omstandigheden, in het bijzonder door:
 
@@ -1411,11 +1386,11 @@ Op de handelaar rust de bewijslast voor de naleving van de in de [artikelen 502]
 
 ## Titel 9. Bewaarneming
 
-##### Artikel 600
+#### Artikel 600
 
 Bewaarneming is de overeenkomst waarbij de ene partij, de bewaarnemer, zich tegenover de andere partij, de bewaargever, verbindt, een zaak die de bewaargever hem toevertrouwt of zal toevertrouwen, te bewaren en terug te geven.
 
-##### Artikel 601
+#### Artikel 601
 
 1. Indien de overeenkomst door de bewaarnemer in de uitoefening van zijn beroep of bedrijf is aangegaan, is de bewaargever hem loon verschuldigd.
 
@@ -1423,11 +1398,11 @@ Bewaarneming is de overeenkomst waarbij de ene partij, de bewaarnemer, zich tege
 
 3. De bewaargever moet aan de bewaarnemer de aan de bewaring verbonden onkosten vergoeden, voor zover deze niet in het loon zijn begrepen, alsook de schade die de bewaarnemer als gevolg van de bewaring heeft geleden.
 
-##### Artikel 602
+#### Artikel 602
 
 De bewaarnemer moet bij de bewaring de zorg van een goed bewaarder in acht nemen.
 
-##### Artikel 603
+#### Artikel 603
 
 1. De bewaarnemer mag de zaak slechts gebruiken voor zover de bewaargever daarvoor toestemming heeft gegeven, of het gebruik nodig is om de zaak in goede staat te houden of te brengen.
 
@@ -1435,11 +1410,11 @@ De bewaarnemer moet bij de bewaring de zorg van een goed bewaarder in acht nemen
 
 3. Voor gedragingen van een onderbewaarnemer met betrekking tot de zaak is de bewaarnemer op gelijke wijze aansprakelijk als voor eigen gedragingen, tenzij de bewaarneming niet tegen bewaarloon geschiedt en de bewaarnemer tot het in onderbewaring geven genoodzaakt was ten gevolge van hem niet toe te rekenen omstandigheden.
 
-##### Artikel 604
+#### Artikel 604
 
 De vruchten die de zaak in het tijdvak tussen de ontvangst en de teruggave oplevert, moeten door de bewaarnemer aan de bewaargever worden afgedragen.
 
-##### Artikel 605
+#### Artikel 605
 
 1. De bewaargever kan onverwijlde teruggave en de bewaarnemer onverwijlde terugneming van de zaak vorderen.
 
@@ -1449,17 +1424,17 @@ De vruchten die de zaak in het tijdvak tussen de ontvangst en de teruggave oplev
 
 4. De bewaarnemer is gehouden de zaak terug te geven in de staat waarin hij haar heeft ontvangen.
 
-##### Artikel 606
+#### Artikel 606
 
 Indien twee of meer personen te zamen een zaak in bewaring hebben genomen, zijn zij hoofdelijk verbonden tot teruggave daarvan en tot vergoeding van de schade die het gevolg is van een tekortschieten in de nakoming van die verplichting, tenzij de tekortkoming aan geen van hen kan worden toegerekend.
 
-##### Artikel 607
+#### Artikel 607
 
 1. Indien ter zake van een bewaarneming een ceel of een ander stuk aan toonder of order is afgegeven, geldt levering daarvan vóór de aflevering van de daarin aangeduide zaken als levering van die zaken.
 
 2. Het eerste lid is niet van toepassing op registergoederen.
 
-##### Artikel 608
+#### Artikel 608
 
 1. Indien een onderbewaarnemer door een bewaargever buiten overeenkomst voor met betrekking tot de zaak geleden schade wordt aangesproken, is hij jegens deze niet verder aansprakelijk dan hij zou zijn als wederpartij bij de overeenkomst, waarbij de bewaargever de zaak in bewaring gegeven heeft.
 
@@ -1469,7 +1444,7 @@ Indien twee of meer personen te zamen een zaak in bewaring hebben genomen, zijn 
 
 4. De vorige leden kunnen niet worden ingeroepen door een bewaarnemer of onderbewaarnemer die bij het sluiten van de overeenkomst uit hoofde waarvan hij de zaak ontving, wist of had behoren te weten dat zijn wederpartij jegens degene door wie hij werd aangesproken, niet bevoegd was de zaak aan hem in bewaring te geven.
 
-##### Artikel 609
+#### Artikel 609
 
 1. De hotelhouder is als een bewaarnemer aansprakelijk voor beschadiging of verlies van zaken, die in het hotel zijn meegebracht door een gast die daar zijn intrek heeft genomen.
 
@@ -1481,25 +1456,25 @@ Indien twee of meer personen te zamen een zaak in bewaring hebben genomen, zijn 
 
 ### Afdeling 4. De overgang van de huur bij overdracht van de verhuurde zaken en het eindigen van de huur
 
-##### Artikel 610
+#### Artikel 610
 
 1. De arbeidsovereenkomst is de overeenkomst waarbij de ene partij, de werknemer, zich verbindt in dienst van de andere partij, de werkgever, tegen loon gedurende zekere tijd arbeid te verrichten.
 
 2. Indien een overeenkomst zowel aan de omschrijving van lid 1 voldoet als aan die van een andere door de wet geregelde bijzondere soort van overeenkomst, zijn de bepalingen van deze titel en de voor de andere soort van overeenkomst gegeven bepalingen naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
 
-##### Artikel 610a
+#### Artikel 610a
 
 Hij die ten behoeve van een ander tegen beloning door die ander gedurende drie opeenvolgende maanden, wekelijks dan wel gedurende ten minste twintig uren per maand arbeid verricht, wordt vermoed deze arbeid te verrichten krachtens arbeidsovereenkomst.
 
-##### Artikel 610b
+#### Artikel 610b
 
 Indien een arbeidsovereenkomst ten minste drie maanden heeft geduurd, wordt de bedongen arbeid in enige maand vermoed een omvang te hebben gelijk aan de gemiddelde omvang van de arbeid per maand in de drie voorafgaande maanden.
 
-##### Artikel 611
+#### Artikel 611
 
 De werkgever en de werknemer zijn verplicht zich als een goed werkgever en een goed werknemer te gedragen.
 
-##### Artikel 612
+#### Artikel 612
 
 1. Een minderjarige die de leeftijd van zestien jaren heeft bereikt, is bekwaam tot het aangaan van een arbeidsovereenkomst. Hij staat in alles wat betrekking heeft op die arbeidsovereenkomst met een meerderjarige gelijk, en kan zonder bijstand van zijn wettelijke vertegenwoordiger in rechte verschijnen.
 
@@ -1509,37 +1484,37 @@ De werkgever en de werknemer zijn verplicht zich als een goed werkgever en een g
 
 4. Een onbekwame minderjarige kan niet zonder bijstand van zijn wettelijke vertegenwoordiger in rechte verschijnen, behalve wanneer de rechter is gebleken dat de wettelijke vertegenwoordiger niet bij machte is zich te verklaren.
 
-##### Artikel 613
+#### Artikel 613
 
 De werkgever kan slechts een beroep doen op een schriftelijk beding dat hem de bevoegdheid geeft een in de arbeidsovereenkomst voorkomende arbeidsvoorwaarde te wijzigen, indien hij bij de wijziging een zodanig zwaarwichtig belang heeft dat het belang van de werknemer dat door de wijziging zou worden geschaad, daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
 
-##### Artikel 613a
+#### Artikel 613a
 
 Vervallen
 
-##### Artikel 613b
+#### Artikel 613b
 
 Vervallen
 
-##### Artikel 613c
+#### Artikel 613c
 
 Vervallen
 
-##### Artikel 614
+#### Artikel 614
 
 De termijn, bedoeld in [artikel 52 lid 1 onder d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=52), begint met betrekking tot uit deze titel voortvloeiende vernietigingsgronden met de aanvang van de dag volgende op die waarop een beroep op het beding is gedaan.
 
-##### Artikel 615
+#### Artikel 615
 
 Vervallen
 
 ### Afdeling 2. Loon
 
-##### Artikel 616
+#### Artikel 616
 
 De werkgever is verplicht de werknemer zijn loon op de bepaalde tijd te voldoen.
 
-##### Artikel 617
+#### Artikel 617
 
 1. De vastgestelde vorm van loon mag niet anders zijn dan:
 
@@ -1555,11 +1530,11 @@ De werkgever is verplicht de werknemer zijn loon op de bepaalde tijd te voldoen.
 
 2. Aan de in lid 1 onder b, c en d bedoelde zaken, diensten en voorzieningen mag geen hogere waarde worden toegekend dan die welke met de werkelijke waarde daarvan overeenkomt.
 
-##### Artikel 618
+#### Artikel 618
 
 Indien geen loon is vastgesteld, heeft de werknemer aanspraak op het loon dat ten tijde van het sluiten van de overeenkomst voor arbeid als de overeengekomene gebruikelijk was of, bij gebreke van een dergelijke maatstaf, op een loon dat met inachtneming van de omstandigheden van het geval naar billijkheid wordt bepaald.
 
-##### Artikel 619
+#### Artikel 619
 
 1. Indien het loon voor het geheel of voor een gedeelte bestaat in een bedrag dat afhankelijk is gesteld van enig gegeven dat uit de boeken, bescheiden of andere gegevensdragers van de werkgever moet kunnen blijken, heeft de werknemer het recht van de werkgever overlegging te verlangen van zodanige bewijsstukken, als hij nodig heeft om dat gegeven vast te kunnen stellen.
 
@@ -1569,7 +1544,7 @@ Indien geen loon is vastgesteld, heeft de werknemer aanspraak op het loon dat te
 
 4. De overlegging van de bewijsstukken door of vanwege de werkgever geschiedt desverlangd onder de uitdrukkelijke verplichting tot geheimhouding door de werknemer en degene die hem overeenkomstig lid 2 vervangt; deze kan echter nimmer tot geheimhouding tegenover de werknemer worden verplicht, behoudens voor zover het betreft de winst in de onderneming van de werkgever of in een deel daarvan gemaakt.
 
-##### Artikel 620
+#### Artikel 620
 
 1. De voldoening van het in geld vastgestelde loon geschiedt in Nederlands wettig betaalmiddel of door girale betaling overeenkomstig [artikel 114 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=114).
 
@@ -1577,7 +1552,7 @@ Indien geen loon is vastgesteld, heeft de werknemer aanspraak op het loon dat te
 
 3. De voldoening van het in andere bestanddelen dan in geld vastgestelde loon geschiedt volgens hetgeen daarover is overeengekomen of, als daarover niets is overeengekomen, volgens het gebruik.
 
-##### Artikel 621
+#### Artikel 621
 
 1. Voldoening van het loon, anders dan bij [artikel 620](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=620&z=2026-01-01&g=2026-01-01) is bepaald of, in andere vormen is vastgesteld dan door [artikel 617](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=617&z=2026-01-01&g=2026-01-01) is toegestaan, is niet bevrijdend. De werknemer behoudt het recht om het verschuldigde loon of, zo dit in een andere vorm dan geld is vastgesteld, de waarde van de verschuldigde prestatie van de werkgever te vorderen zonder gehouden te zijn het bij de niet-bevrijdende voldoening ontvangene terug te geven.
 
@@ -1585,11 +1560,11 @@ Indien geen loon is vastgesteld, heeft de werknemer aanspraak op het loon dat te
 
 3. Een rechtsvordering van de werknemer op grond van dit artikel verjaart door verloop van zes maanden na de dag waarop de niet-bevrijdende voldoening plaatsvindt.
 
-##### Artikel 622
+#### Artikel 622
 
 De voldoening van in geld vastgesteld loon die niet met toepassing van [artikel 114 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=114) plaatsvindt, geschiedt hetzij ter plaatse waar de arbeid in de regel wordt verricht, hetzij ten kantore van de werkgever indien dit gelegen is in dezelfde gemeente als die waarin de meerderheid van de werknemers woont, hetzij aan de woning van de werknemer, ter keuze van de werkgever.
 
-##### Artikel 623
+#### Artikel 623
 
 1. De werkgever is verplicht het in geld naar tijdruimte vastgestelde loon te voldoen telkens na afloop van het tijdvak waarover het loon op grond van de overeenkomst moet worden berekend, met dien verstande dat het tijdvak voor voldoening niet korter is dan één week en niet langer is dan één maand.
 
@@ -1597,7 +1572,7 @@ De voldoening van in geld vastgesteld loon die niet met toepassing van [artikel 
 
 3. Slechts aan de werknemer komt de bevoegdheid toe om ter vernietiging van een beding dat afwijkt van dit artikel, een beroep op de vernietigingsgrond te doen.
 
-##### Artikel 624
+#### Artikel 624
 
 1. Indien het in geld vastgestelde loon afhankelijk is van de uitkomsten van de te verrichten arbeid, houdt de werkgever de betalingstermijnen aan die gelden voor het naar tijdruimte vastgestelde loon voor vergelijkbare arbeid, tenzij met inachtneming van [artikel 623](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=623&z=2026-01-01&g=2026-01-01) andere termijnen zijn overeengekomen.
 
@@ -1609,13 +1584,13 @@ De voldoening van in geld vastgesteld loon die niet met toepassing van [artikel 
 
 5. Slechts aan de werknemer komt de bevoegdheid toe om ter vernietiging van een beding dat afwijkt van dit artikel, een beroep op de vernietigingsgrond te doen.
 
-##### Artikel 625
+#### Artikel 625
 
 1. Voor zover het in geld vastgesteld loon of het gedeelte dat overblijft na aftrek van hetgeen door de werkgever overeenkomstig [artikel 628](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=628&z=2026-01-01&g=2026-01-01) mag worden verrekend, en na aftrek van hetgeen waarop derden overeenkomstig [artikel 633](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=633&z=2026-01-01&g=2026-01-01) rechten doen gelden, niet wordt voldaan uiterlijk de derde werkdag na die waarop ingevolge de [artikelen 623](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=623&z=2026-01-01&g=2026-01-01) en [624 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=624&z=2026-01-01&g=2026-01-01) de voldoening had moeten geschieden, heeft de werknemer, indien dit niet-voldoen aan de werkgever is toe te rekenen, aanspraak op een verhoging wegens vertraging. Deze verhoging bedraagt voor de vierde tot en met de achtste werkdag vijf procent per dag en voor elke volgende werkdag een procent, met dien verstande dat de verhoging in geen geval de helft van het verschuldigde te boven zal gaan. Niettemin kan de rechter de verhoging beperken tot zodanig bedrag als hem met het oog op de omstandigheden billijk zal voorkomen.
 
 2. Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
-##### Artikel 626
+#### Artikel 626
 
 1. De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de werknemer een schriftelijke of elektronische opgave te verstrekken van het loonbedrag, van de gespecificeerde bedragen waaruit dit is samengesteld, van de gespecificeerde bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het uurloon waarop een persoon van de leeftijd van de werknemer ingevolge het bepaalde bij of krachtens de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) recht heeft, tenzij zich ten opzichte van de vorige voldoening in geen van deze bedragen een wijziging heeft voorgedaan.
 
@@ -1627,11 +1602,11 @@ De voldoening van in geld vastgesteld loon die niet met toepassing van [artikel 
 
 5. Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
-##### Artikel 627
+#### Artikel 627
 
 Vervallen
 
-##### Artikel 628
+#### Artikel 628
 
 1. De werkgever is verplicht het naar tijdruimte vastgestelde loon te voldoen indien de werknemer de overeengekomen arbeid geheel of gedeeltelijk niet heeft verricht, tenzij het geheel of gedeeltelijk niet verrichten van de overeengekomen arbeid in redelijkheid voor rekening van de werknemer behoort te komen.
 
@@ -1653,7 +1628,7 @@ Vervallen
 
 10. Elk beding dat ten nadele van de werknemer afwijkt van dit artikel is nietig.
 
-##### Artikel 628a
+#### Artikel 628a
 
 1. Indien een arbeidsomvang van minder dan 15 uur per week is overeengekomen en de tijdstippen waarop de arbeid moet worden verricht niet zijn vastgelegd, dan wel indien sprake is van een oproepovereenkomst, heeft de werknemer voor iedere periode van minder dan drie uur waarin hij arbeid heeft verricht, recht op het loon waarop hij aanspraak zou hebben indien hij drie uur arbeid zou hebben verricht.
 
@@ -1687,7 +1662,7 @@ Vervallen
 
 12. Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
-##### Artikel 629
+#### Artikel 629
 
 1. Voor zover het loon niet meer bedraagt dan het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, behoudt de werknemer voor een tijdvak van 104 weken recht op 70% van het naar tijdruimte vastgestelde loon, maar de eerste 52 weken ten minste op het voor hem geldende wettelijke minimumloon, indien hij de bedongen arbeid niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling daartoe verhinderd was.
 
@@ -1741,7 +1716,7 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 13. Voor de toepassing van lid 2, aanhef en onderdeel a, wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
 
-##### Artikel 629a
+#### Artikel 629a
 
 1. De rechter wijst een vordering tot betaling van loon als bedoeld in [artikel 629](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=629&z=2026-01-01&g=2026-01-01) af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), omtrent de verhindering van de werknemer om de bedongen of andere passende arbeid te verrichten respectievelijk diens nakoming van de verplichtingen, bedoeld in [artikel 660a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=7&artikel=660a&z=2026-01-01&g=2026-01-01).
 
@@ -1757,17 +1732,17 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 7. Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan worden bepaald dat de in het eerste lid bedoelde deskundige door een ander dan het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5) wordt aangewezen.
 
-##### Artikel 629b
+#### Artikel 629b
 
 Vervallen
 
-##### Artikel 630
+#### Artikel 630
 
 1. De werkgever die tijdelijk is verhinderd het loon, voor zover dit in een andere vorm dan in geld is vastgesteld, te voldoen zonder dat deze verhindering het gevolg is van een eigen toedoen van de werknemer, is aan deze een vergoeding schuldig, waarvan het bedrag bij overeenkomst wordt vastgesteld of, bij gebreke van een overeenkomst, door de rechter wordt bepaald volgens het gebruik of de billijkheid.
 
 2. Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
-##### Artikel 631
+#### Artikel 631
 
 1. Een beding waarbij de werkgever het recht krijgt enig bedrag van het loon op de betaaldag in te houden, is nietig, onverminderd de bevoegdheid van de werknemer om de werkgever een schriftelijke volmacht te verlenen om uit het uit te betalen loon betalingen in zijn naam te verrichten. De bevoegdheid van de werknemer, bedoeld in de eerste zin, geldt niet voor het deel van het loon tot het bedrag, bedoeld in [artikel 7 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), met uitzondering van betalingsverplichtingen als bedoeld in [artikel 13, tweede lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=13). Deze volmacht is te allen tijde herroepelijk.
 
@@ -1795,7 +1770,7 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 8. Een rechtsvordering van de werknemer op grond van dit artikel verjaart door verloop van zes maanden na de dag van het ontstaan van het vorderingsrecht.
 
-##### Artikel 632
+#### Artikel 632
 
 1. Behalve bij het einde van de arbeidsovereenkomst is verrekening door de werkgever van zijn schuld ter zake van het uit te betalen loon slechts toegelaten met de volgende vorderingen op de werknemer:
 
@@ -1815,7 +1790,7 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 4. Een beding waardoor de werkgever een ruimere bevoegdheid tot verrekening zou krijgen, is vernietigbaar, met dien verstande dat de werknemer bevoegd is tot vernietiging ter zake van elke afzonderlijke verrekeningsverklaring van de werkgever die van de geldigheid van het beding uitgaat.
 
-##### Artikel 633
+#### Artikel 633
 
 1. Overdracht, verpanding of elke andere handeling waardoor de werknemer enig recht op zijn loon aan derden toekent, is slechts in zover geldig als een beslag op zijn loon geldig zou zijn.
 
@@ -1825,7 +1800,7 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 ### Afdeling 3. Vakantie en verlof
 
-##### Artikel 634
+#### Artikel 634
 
 1. De werknemer verwerft over ieder jaar waarin hij gedurende de volledige overeengekomen arbeidsduur recht op loon heeft gehad, aanspraak op vakantie van ten minste vier maal de overeengekomen arbeidsduur per week of, als de overeengekomen arbeidsduur in uren per jaar is uitgedrukt, van ten minste een overeenkomstige tijd.
 
@@ -1833,7 +1808,7 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 3. Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan ten aanzien van werknemers wier arbeidsovereenkomst eindigt nadat deze ten minste een maand heeft geduurd, van lid 2 worden afgeweken in dier voege dat de aanspraak op vakantie wordt berekend over tijdvakken van een maand.
 
-##### Artikel 635
+#### Artikel 635
 
 1. In afwijking van [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) verwerft de werknemer aanspraak op vakantie over het tijdvak, gedurende hetwelk hij geen recht heeft op in geld vastgesteld loon, omdat:
 
@@ -1859,13 +1834,13 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 5. Indien een aanspraak op vakantie is verworven die het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum te boven gaat, kan voorzover die aanspraak dat minimum te boven gaat, bij schriftelijke overeenkomst van de leden 1 tot en met 4 worden afgeweken ten nadele van de werknemer.
 
-##### Artikel 636
+#### Artikel 636
 
 1. Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in [artikel 635 leden 1 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=635&z=2026-01-01&g=2026-01-01) kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum.
 
 2. Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in [artikel 635, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=635&z=2026-01-01&g=2026-01-01), kunnen niet worden aangemerkt als vakantie.
 
-##### Artikel 637
+#### Artikel 637
 
 1. Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens ziekte kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum.
 
@@ -1873,7 +1848,7 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 3. Indien in enig jaar zowel lid 2 als [artikel 638, lid 8, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=638&z=2026-01-01&g=2026-01-01), worden toegepast, kunnen in totaal niet meer dan het aantal vakantiedagen dat voor dat jaar boven het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum is overeengekomen, als vakantie gelden.
 
-##### Artikel 638
+#### Artikel 638
 
 1. De werkgever is verplicht de werknemer ieder jaar in de gelegenheid te stellen de vakantie op te nemen waarop de werknemer op grond van [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) ten minste aanspraak heeft.
 
@@ -1891,19 +1866,19 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 8. Dagen of gedeelten van dagen waarop de werknemer tijdens een vastgestelde vakantie ziek is, gelden niet als vakantie, tenzij in een voorkomend geval de werknemer daarmee instemt. In afwijking van de vorige volzin kan bij schriftelijke overeenkomst worden bepaald dat de in enig jaar verleende vakantiedagen of gedeelten daarvan waarop de werknemer ziek is, als vakantie gelden tot ten hoogste het aantal vakantiedagen dat voor dat jaar boven het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum is overeengekomen.
 
-##### Artikel 639
+#### Artikel 639
 
 1. De werknemer behoudt gedurende zijn vakantie recht op loon.
 
 2. Indien hierin bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan is voorzien, kan de werkgever aan zijn verplichting om gedurende de vakantie loon te betalen voldoen hetzij door aan de werknemer vakantiebonnen over te dragen ten laste van een fonds, hetzij door betaling aan een fonds ten laste waarvan de werknemer gelijkwaardige rechten verwerft. Voor de toepassing van dit artikel worden vakantiebonnen als loon beschouwd.
 
-##### Artikel 640
+#### Artikel 640
 
 1. De werknemer kan tijdens de duur van de arbeidsovereenkomst geen afstand doen van zijn aanspraak op vakantie tegen schadevergoeding.
 
 2. Indien een aanspraak op vakantie is verworven die het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum te boven gaat, kan voorzover die aanspraak dat minimum te boven gaat, bij schriftelijke overeenkomst van lid 1 worden afgeweken.
 
-##### Artikel 641
+#### Artikel 641
 
 1. Een werknemer die bij het einde van de arbeidsovereenkomst nog aanspraak op vakantie heeft, heeft recht op een uitkering in geld tot een bedrag van het loon over een tijdvak overeenkomend met de aanspraak, tenzij [artikel 639 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=639&z=2026-01-01&g=2026-01-01) van toepassing is.
 
@@ -1913,11 +1888,11 @@ Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds
 
 4. Bij schriftelijke overeenkomst kan van lid 3 worden afgeweken, met dien verstande dat de werknemer ten minste recht houdt op het in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) bedoelde minimum.
 
-##### Artikel 642
+#### Artikel 642
 
 Onverminderd [artikel 640a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=640a&z=2026-01-01&g=2026-01-01) verjaart een rechtsvordering tot toekenning van vakantie door verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
 
-##### Artikel 643
+#### Artikel 643
 
 1. De werknemer kan verlangen dat de werkgever hem verlof zonder behoud van loon verleent voor het als lid bijwonen van vergaderingen van de Eerste Kamer der Staten-Generaal, van vertegenwoordigende organen van publiekrechtelijke lichamen die bij rechtstreekse verkiezing worden samengesteld, uitgezonderd echter de Tweede Kamer der Staten-Generaal, alsmede van commissies uit deze organen. Deze bepaling vindt mede toepassing op de werknemer die deel uitmaakt van een met algemeen bestuur belast orgaan van een waterschap.
 
@@ -1927,17 +1902,17 @@ Onverminderd [artikel 640a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek
 
 4. Dit artikel blijft buiten toepassing ten aanzien van die groepen werknemers voor wie uit hoofde van verlening van rijksvergoeding bij of krachtens de wet een andere regeling is vastgesteld.
 
-##### Artikel 644
+#### Artikel 644
 
 Vervallen
 
-##### Artikel 645
+#### Artikel 645
 
 Van de [artikelen 634 tot en met 643](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de werknemer worden afgeweken, tenzij zodanige afwijking bij die artikelen is toegelaten.
 
 ### Afdeling 4. Gelijke behandeling
 
-##### Artikel 646
+#### Artikel 646
 
 1. De werkgever mag geen onderscheid maken tussen mannen en vrouwen bij het aangaan van de arbeidsovereenkomst, het verstrekken van onderricht aan de werknemer, in de arbeidsvoorwaarden, bij de arbeidsomstandigheden bij de bevordering en bij de opzegging van de arbeidsovereenkomst.
 
@@ -1973,11 +1948,11 @@ Van de [artikelen 634 tot en met 643](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 14. De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op lid 1 of ter zake bijstand heeft verleend.
 
-##### Artikel 647
+#### Artikel 647
 
 Vervallen
 
-##### Artikel 648
+#### Artikel 648
 
 1. De werkgever mag geen onderscheid maken tussen werknemers op grond van een verschil in arbeidsduur in de voorwaarden waaronder een arbeidsovereenkomst wordt aangegaan, voortgezet dan wel opgezegd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
 
@@ -1989,7 +1964,7 @@ Vervallen
 
 ### Afdeling 1. Algemene bepalingen
 
-##### Artikel 650
+#### Artikel 650
 
 1. De werkgever kan slechts boete stellen op de overtreding van de voorschriften van de arbeidsovereenkomst, indien in de arbeidsovereenkomst de voorschriften op de overtreding waarvan boete is gesteld en het bedrag van de boete zijn vermeld.
 
@@ -2007,13 +1982,13 @@ Vervallen
 
 8. Onder het stellen en bedingen van boete in de zin van dit artikel wordt begrepen het door de werkgever bedingen van boete als bedoeld in de [artikelen 91 tot en met 94 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=91).
 
-##### Artikel 651
+#### Artikel 651
 
 1. De mogelijkheid een boete op te leggen laat het recht op schadevergoeding op grond van de wet onverlet. Echter mag de werkgever ter zake van een zelfde feit niet boete heffen en tevens schadevergoeding vorderen.
 
 2. Elk beding in strijd met de tweede zin van lid 1 is nietig.
 
-##### Artikel 652
+#### Artikel 652
 
 1. Indien partijen een proeftijd overeenkomen, is deze voor beide partijen gelijk.
 
@@ -2041,7 +2016,7 @@ Vervallen
 
 8. Elk beding in strijd met dit artikel is nietig.
 
-##### Artikel 653
+#### Artikel 653
 
 1. Een beding tussen de werkgever en de werknemer waarbij deze laatste wordt beperkt in zijn bevoegdheid om na het einde van de overeenkomst op zekere wijze werkzaam te zijn, is slechts geldig indien:
 
@@ -2063,13 +2038,13 @@ Vervallen
 
 ### Afdeling 6. Enkele bijzondere verplichtingen van de werkgever
 
-##### Artikel 654
+#### Artikel 654
 
 1. Wanneer een arbeidsovereenkomst schriftelijk wordt aangegaan of gewijzigd, zijn de kosten van het geschrift en andere bijkomende kosten ten laste van de werkgever.
 
 2. De werkgever is verplicht kosteloos een volledig, door hem ondertekend, afschrift van het geschrift waarbij de arbeidsovereenkomst is aangegaan of gewijzigd, aan de werknemer te verstrekken.
 
-##### Artikel 655
+#### Artikel 655
 
 1. De werkgever is verplicht aan de werknemer een schriftelijke of elektronische opgave te verstrekken met ten minste de volgende gegevens:
 
@@ -2141,7 +2116,7 @@ Vervallen
 
 11. De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in dit artikel aan hem toegekende rechten geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
 
-##### Artikel 656
+#### Artikel 656
 
 1. De werkgever is verplicht bij het einde van de arbeidsovereenkomst de werknemer op diens verzoek een getuigschrift uit te reiken.
 
@@ -2165,13 +2140,13 @@ Vervallen
 
 6. Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
-##### Artikel 242
+#### Artikel 242
 
 1. Behoudens bij standaardregeling bedoeld in [artikel 214 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=214) kan niet ten nadele van de huurder worden afgeweken van de [artikelen 204](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=204&z=2026-01-01&g=2026-01-01), [206 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=206&z=2026-01-01&g=2026-01-01), [207](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=207&z=2026-01-01&g=2026-01-01), [208](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=208&z=2026-01-01&g=2026-01-01) en [217](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=217&z=2026-01-01&g=2026-01-01), tenzij het gaat om herstellingen aan door de huurder aangebrachte veranderingen en toevoegingen of gebreken aan door de huurder aangebrachte veranderingen en toevoegingen.
 
 2. Van de [artikelen 216 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=216&z=2026-01-01&g=2026-01-01), [224 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=224&z=2026-01-01&g=2026-01-01) en [230](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=230&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de huurder worden afgeweken.
 
-##### Artikel 658
+#### Artikel 658
 
 1. De werkgever is verplicht de lokalen, werktuigen en gereedschappen waarin of waarmee hij de arbeid doet verrichten, op zodanige wijze in te richten en te onderhouden alsmede voor het verrichten van de arbeid zodanige maatregelen te treffen en aanwijzingen te verstrekken als redelijkerwijs nodig is om te voorkomen dat de werknemer in de uitoefening van zijn werkzaamheden schade lijdt.
 
@@ -2181,7 +2156,7 @@ Vervallen
 
 4. Hij die in de uitoefening van zijn beroep of bedrijf arbeid laat verrichten door een persoon met wie hij geen arbeidsovereenkomst heeft, is overeenkomstig de leden 1 tot en met 3 aansprakelijk voor de schade die deze persoon in de uitoefening van zijn werkzaamheden lijdt. De kantonrechter is bevoegd kennis te nemen van vorderingen op grond van de eerste zin van dit lid.
 
-##### Artikel 658a
+#### Artikel 658a
 
 1. De werkgever bevordert ten aanzien van de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, de inschakeling in de arbeid in zijn bedrijf. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever geen andere passende arbeid voorhanden is, bevordert de werkgever, gedurende het tijdvak waarin de werknemer jegens hem recht op loon heeft op grond van [artikel 629](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=629&z=2026-01-01&g=2026-01-01), [artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) of [artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever, tenzij de werknemer de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
@@ -2197,17 +2172,17 @@ Vervallen
 
 ### Afdeling 3. Goedkeuring van de pachtovereenkomst
 
-##### Artikel 659
+#### Artikel 659
 
 1. De werknemer is verplicht de arbeid zelf te verrichten; hij kan zich daarin niet dan met toestemming van de werkgever door een derde doen vervangen.
 
 2. De rechtsvordering tot nakoming van de arbeidsverplichting van de werknemer onder de bepaling van een dwangsom of van gijzeling is niet toegelaten.
 
-##### Artikel 660
+#### Artikel 660
 
 De werknemer is verplicht zich te houden aan de voorschriften omtrent het verrichten van de arbeid alsmede aan die welke strekken ter bevordering van de goede orde in de onderneming van de werkgever, door of namens de werkgever binnen de grenzen van algemeen verbindende voorschriften, of overeenkomst aan hem, al dan niet tegelijk met andere werknemers, gegeven.
 
-##### Artikel 660a
+#### Artikel 660a
 
 1. De werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, is verplicht:
 
@@ -2219,7 +2194,7 @@ De werknemer is verplicht zich te houden aan de voorschriften omtrent het verric
 
 2. Lid 1, aanhef en onderdeel b, is niet van toepassing op de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
-##### Artikel 661
+#### Artikel 661
 
 1. De werknemer die bij de uitvoering van de overeenkomst schade toebrengt aan de werkgever of aan een derde jegens wie de werkgever tot vergoeding van die schade is gehouden, is te dier zake niet jegens de werkgever aansprakelijk, tenzij de schade een gevolg is van zijn opzet of bewuste roekeloosheid. Uit de omstandigheden van het geval kan, mede gelet op de aard van de overeenkomst, anders voortvloeien dan in de vorige zin is bepaald.
 
@@ -2227,7 +2202,7 @@ De werknemer is verplicht zich te houden aan de voorschriften omtrent het verric
 
 ### Afdeling 4. Agentuurovereenkomst
 
-##### Artikel 662
+#### Artikel 662
 
 1. Voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -2237,11 +2212,11 @@ De werknemer is verplicht zich te houden aan de voorschriften omtrent het verric
 
 2. Voor de toepassing van deze afdeling wordt een vestiging of een onderdeel van een onderneming of vestiging beschouwd als een onderneming.
 
-##### Artikel 663
+#### Artikel 663
 
 Door de overgang van een onderneming gaan de rechten en verplichtingen die op dat tijdstip voor de werkgever in die onderneming voortvloeien uit een arbeidsovereenkomst tussen hem en een daar werkzame werknemer van rechtswege over op de verkrijger. Evenwel is die werkgever nog gedurende een jaar na de overgang naast de verkrijger hoofdelijk verbonden voor de nakoming van de verplichtingen uit de arbeidsovereenkomst, die zijn ontstaan vóór dat tijdstip.
 
-##### Artikel 664
+#### Artikel 664
 
 1. [Artikel 663, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=8&artikel=663&z=2026-01-01&g=2026-01-01), is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een pensioenovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) indien:
 
@@ -2255,7 +2230,7 @@ Door de overgang van een onderneming gaan de rechten en verplichtingen die op da
 
 3. [Artikel 663](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=8&artikel=663&z=2026-01-01&g=2026-01-01), eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een spaarregeling als bedoeld in [artikel 3, eerste lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=3) zoals de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) luidde op de dag voorafgaand aan de inwerkingtreding van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) indien de verkrijger de werknemer, bedoeld in [artikel 663](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=8&artikel=663&z=2026-01-01&g=2026-01-01), opneemt in de spaarregeling die reeds voor het tijdstip van overgang gold voor zijn werknemers.
 
-##### Artikel 665
+#### Artikel 665
 
 Met het oog op de toepassing van [artikel 673](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673&z=2026-01-01&g=2026-01-01) geldt de arbeidsovereenkomst als beëindigd of niet voortgezet op initiatief van de werkgever, indien de overgang van de onderneming een aanmerkelijke wijziging van de arbeidsvoorwaarden ten nadele van de werknemer tot gevolg heeft en om die reden:
 
@@ -2263,7 +2238,7 @@ Met het oog op de toepassing van [artikel 673](https://wetten.overheid.nl/jci1.3
 
 - b. de arbeidsovereenkomst voor bepaalde tijd na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-##### Artikel 666
+#### Artikel 666
 
 De [artikelen 662 tot en met 665](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=8&artikel=662&z=2026-01-01&g=2026-01-01) en [670 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=670&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op de overgang van een onderneming indien:
 
@@ -2273,7 +2248,7 @@ De [artikelen 662 tot en met 665](https://wetten.overheid.nl/jci1.3:c:BWBR000529
 
 ### Afdeling 5. Pachtprijs
 
-##### Artikel 667
+#### Artikel 667
 
 1. Een arbeidsovereenkomst eindigt van rechtswege, wanneer de tijd is verstreken bij overeenkomst of bij de wet aangegeven.
 
@@ -2295,7 +2270,7 @@ De [artikelen 662 tot en met 665](https://wetten.overheid.nl/jci1.3:c:BWBR000529
 
 8. Een beding, krachtens hetwelk de arbeidsovereenkomst van rechtswege eindigt wegens zwangerschap of bevalling van de werkneemster, is nietig.
 
-##### Artikel 668
+#### Artikel 668
 
 1. De werkgever informeert de werknemer schriftelijk uiterlijk een maand voordat een arbeidsovereenkomst voor bepaalde tijd van rechtswege eindigt:
 
@@ -2321,7 +2296,7 @@ De [artikelen 662 tot en met 665](https://wetten.overheid.nl/jci1.3:c:BWBR000529
 
 6. Bij of krachtens algemene maatregel van bestuur wordt bepaald wat voor de toepassing van lid 3 wordt verstaan onder loon.
 
-##### Artikel 668a
+#### Artikel 668a
 
 1. Vanaf de dag dat tussen dezelfde partijen:
 
@@ -2357,7 +2332,7 @@ De [artikelen 662 tot en met 665](https://wetten.overheid.nl/jci1.3:c:BWBR000529
 
 15. Dit artikel is niet van toepassing op een arbeidsovereenkomst met een werknemer op een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), indien die arbeidsovereenkomst is aangegaan in verband met vervanging wegens ziekte van een werknemer die een onderwijsgevende of onderwijsondersteunende functie met lesgebonden of behandeltaken bekleedt.
 
-##### Artikel 669
+#### Artikel 669
 
 1. De werkgever kan de arbeidsovereenkomst opzeggen indien daar een redelijke grond voor is en herplaatsing van de werknemer binnen een redelijke termijn, al dan niet met behulp van scholing, in een andere passende functie niet mogelijk is of niet in de rede ligt. Herplaatsing ligt in ieder geval niet in de rede indien sprake is van verwijtbaar handelen of nalaten van de werknemer als bedoeld in lid 3, onderdeel e.
 
@@ -2395,7 +2370,7 @@ De [artikelen 662 tot en met 665](https://wetten.overheid.nl/jci1.3:c:BWBR000529
 
 7. Dit artikel is niet van toepassing op een opzegging tijdens de proeftijd.
 
-##### Artikel 670
+#### Artikel 670
 
 1. De werkgever kan niet opzeggen gedurende de tijd dat de werknemer ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, tenzij de ongeschiktheid:
 
@@ -2455,7 +2430,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 14. Van lid 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
-##### Artikel 670a
+#### Artikel 670a
 
 1. [Artikel 670, lid 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=670&z=2026-01-01&g=2026-01-01), is niet van toepassing, indien de werknemer zonder deugdelijke grond de verplichtingen, bedoeld in [artikel 660a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=7&artikel=660a&z=2026-01-01&g=2026-01-01), weigert na te komen en de werkgever de werknemer schriftelijk heeft gemaand tot nakoming van deze verplichtingen of om die reden, met inachtneming van het bepaalde in [artikel 629, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=629&z=2026-01-01&g=2026-01-01), de betaling van het loon heeft gestaakt.
 
@@ -2489,7 +2464,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 8. Elk beding waarbij het recht, bedoeld in lid 5, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 670b
+#### Artikel 670b
 
 1. Een overeenkomst waarmee een arbeidsovereenkomst wordt beëindigd, is slechts geldig indien deze schriftelijk is aangegaan.
 
@@ -2503,7 +2478,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 6. Elk beding waarbij het recht, bedoeld in lid 2, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 671
+#### Artikel 671
 
 1. De werkgever kan de arbeidsovereenkomst niet rechtsgeldig opzeggen zonder schriftelijke instemming van de werknemer, tenzij:
 
@@ -2533,7 +2508,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 6. Elk beding waarbij de voorwaarde van de schriftelijke instemming, bedoeld in lid 1, of het recht, bedoeld in lid 2, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 672
+#### Artikel 672
 
 1. Opzegging geschiedt tegen het einde van de maand, tenzij bij schriftelijke overeenkomst of door het gebruik een andere dag daarvoor is aangewezen.
 
@@ -2567,7 +2542,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 12. De kantonrechter kan de vergoeding, bedoeld in het lid 11, matigen indien hem dit met het oog op de omstandigheden billijk voorkomt, met dien verstande dat de vergoeding niet minder kan bedragen dan het in geld vastgestelde loon over de opzegtermijn, bedoeld in lid 2, noch minder dan het in geld vastgestelde loon voor drie maanden.
 
-##### Artikel 673
+#### Artikel 673
 
 1. De werkgever is aan de werknemer een transitievergoeding verschuldigd indien:
 
@@ -2627,7 +2602,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 10. Bij of krachtens algemene maatregel van bestuur wordt bepaald wat voor de toepassing van lid 2 wordt verstaan onder loon.
 
-##### Artikel 674
+#### Artikel 674
 
 1. De arbeidsovereenkomst eindigt door de dood van de werknemer.
 
@@ -2641,17 +2616,17 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 6. Van dit artikel kan niet ten nadele van de nagelaten betrekkingen worden afgeweken.
 
-##### Artikel 675
+#### Artikel 675
 
 De arbeidsovereenkomst eindigt niet door de dood van de werkgever, tenzij uit de overeenkomst het tegendeel voortvloeit. Echter zijn zowel de erfgenamen van de werkgever als de werknemer bevoegd de arbeidsovereenkomst, voor een bepaalde tijd aangegaan, op te zeggen met inachtneming van de [artikelen 670](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=670&z=2026-01-01&g=2026-01-01) en [672](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=672&z=2026-01-01&g=2026-01-01), als ware zij aangegaan voor onbepaalde tijd. Wanneer de nalatenschap van de werkgever ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) wordt verdeeld, komt de bevoegdheid van de erfgenamen, bedoeld in de vorige zin, toe aan zijn echtgenoot of geregistreerde partner.
 
-##### Artikel 676
+#### Artikel 676
 
 1. Indien een proeftijd is bedongen, is ieder der partijen, zolang die tijd niet is verstreken, bevoegd de arbeidsovereenkomst met onmiddellijke ingang op te zeggen.
 
 2. De werkgever die de arbeidsovereenkomst opzegt, geeft de werknemer op diens verzoek schriftelijk opgave van de reden van opzegging.
 
-##### Artikel 677
+#### Artikel 677
 
 1. Ieder der partijen is bevoegd de arbeidsovereenkomst onverwijld op te zeggen om een dringende reden, onder onverwijlde mededeling van die reden aan de wederpartij.
 
@@ -2675,7 +2650,7 @@ De arbeidsovereenkomst eindigt niet door de dood van de werkgever, tenzij uit de
 
 7. Elk beding waarbij de bevoegdheid, bedoeld in lid 1 of in lid 4, laatste zin, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 678
+#### Artikel 678
 
 1. Voor de werkgever worden als dringende redenen in de zin van [lid 1 van artikel 677](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01) beschouwd zodanige daden, eigenschappen of gedragingen van de werknemer, die ten gevolge hebben dat van de werkgever redelijkerwijze niet kan gevergd worden de arbeidsovereenkomst te laten voortduren.
 
@@ -2707,7 +2682,7 @@ De arbeidsovereenkomst eindigt niet door de dood van de werkgever, tenzij uit de
 
 3. Bedingen waarbij aan de werkgever de beslissing wordt overgelaten of er een dringende reden in de zin van [artikel 677 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01) aanwezig is, zijn nietig.
 
-##### Artikel 679
+#### Artikel 679
 
 1. Voor de werknemer worden als dringende redenen in de zin van [artikel 677 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01) beschouwd zodanige omstandigheden, die ten gevolge hebben dat van de werknemer redelijkerwijze niet kan gevergd worden de arbeidsovereenkomst te laten voortduren.
 
@@ -2735,15 +2710,15 @@ De arbeidsovereenkomst eindigt niet door de dood van de werkgever, tenzij uit de
 
 3. Bedingen waarbij aan de werknemer de beslissing wordt overgelaten of er een dringende reden in de zin van [artikel 677 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01) aanwezig is, zijn nietig.
 
-##### Artikel 680
+#### Artikel 680
 
 Vervallen
 
-##### Artikel 680a
+#### Artikel 680a
 
 De rechter is bevoegd een vordering tot doorbetaling van loon die gegrond is op de vernietigbaarheid van de opzegging van de arbeidsovereenkomst te matigen, indien toewijzing in de gegeven omstandigheden tot onaanvaardbare gevolgen zou leiden, doch op niet minder dan het in geld vastgestelde loon voor de duur van de opzegtermijn ingevolge [artikel 672](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=672&z=2026-01-01&g=2026-01-01) noch op minder dan het in geld vastgestelde loon voor drie maanden.
 
-##### Artikel 681
+#### Artikel 681
 
 1. De kantonrechter kan op verzoek van de werknemer de opzegging van de arbeidsovereenkomst door de werkgever vernietigen, of op zijn verzoek aan hem ten laste van de werkgever een billijke vergoeding toekennen, indien:
 
@@ -2759,7 +2734,7 @@ De rechter is bevoegd een vordering tot doorbetaling van loon die gegrond is op 
 
 2. Elk beding waarbij de bevoegdheid, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 682
+#### Artikel 682
 
 1. De kantonrechter kan op verzoek van een werknemer van wie de arbeidsovereenkomst is opgezegd met de toestemming, bedoeld in [artikel 671a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=671a&z=2026-01-01&g=2026-01-01):
 
@@ -2799,7 +2774,7 @@ De rechter is bevoegd een vordering tot doorbetaling van loon die gegrond is op 
 
 8. Elk beding waarbij de bevoegdheid, bedoeld in de leden 1 tot en met 5 en 7, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 683
+#### Artikel 683
 
 1. Indien tegen een beschikking tot ontbinding van de arbeidsovereenkomst als bedoeld in de [artikelen 671b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=671b&z=2026-01-01&g=2026-01-01) en [671c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=671c&z=2026-01-01&g=2026-01-01), of tot vernietiging van de opzegging als bedoeld in de [artikelen 677, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01), en [681](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=681&z=2026-01-01&g=2026-01-01) of tot herstel van de arbeidsovereenkomst als bedoeld in [artikel 682](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=682&z=2026-01-01&g=2026-01-01), hoger beroep of beroep in cassatie wordt ingesteld, schorst dit de tenuitvoerlegging van de beschikking niet.
 
@@ -2813,27 +2788,27 @@ De rechter is bevoegd een vordering tot doorbetaling van loon die gegrond is op 
 
 6. Indien de rechter in hoger beroep of na verwijzing in cassatie oordeelt dat het verzoek van de werknemer om vernietiging van de opzegging of om herstel van de arbeidsovereenkomst ten onrechte is toegewezen, bepaalt hij op welk tijdstip de arbeidsovereenkomst eindigt.
 
-##### Artikel 684
+#### Artikel 684
 
 1. Indien de arbeidsovereenkomst is aangegaan voor langer dan vijf jaren of voor de duur van het leven van een bepaalde persoon, is niettemin de werknemer bevoegd, van het tijdstip waarop vijf jaren sedert haar aanvang zijn verlopen, haar op te zeggen met inachtneming van een termijn van zes maanden.
 
 2. Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
-##### Artikel 685
+#### Artikel 685
 
 Vervallen
 
-##### Artikel 686
+#### Artikel 686
 
 De bepalingen van deze afdeling sluiten voor geen van beide partijen de mogelijkheid uit van ontbinding wegens een tekortkoming in de nakoming van de overeenkomst en van schadevergoeding. De ontbinding kan slechts door de rechter worden uitgesproken.
 
 ### Afdeling 4. Duur van de pachtovereenkomst
 
-##### Artikel 687
+#### Artikel 687
 
 De overeenkomst van handelsvertegenwoordiging is een arbeidsovereenkomst waarbij de ene partij, de handelsvertegenwoordiger, zich tegenover de andere partij, de patroon, verbindt tegen loon dat geheel of gedeeltelijk uit provisie bestaat, bij de totstandkoming van overeenkomsten bemiddeling te verlenen, en deze eventueel in naam van de patroon te sluiten.
 
-##### Artikel 688
+#### Artikel 688
 
 1. Op de overeenkomst van handelsvertegenwoordiging zijn de [artikelen 426](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=3&artikel=426&z=2026-01-01&g=2026-01-01), [429](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=429&z=2026-01-01&g=2026-01-01), [430 leden 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=430&z=2026-01-01&g=2026-01-01), [431](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=431&z=2026-01-01&g=2026-01-01), [432](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=432&z=2026-01-01&g=2026-01-01), [433](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=433&z=2026-01-01&g=2026-01-01) en [434](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=434&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -2843,17 +2818,17 @@ De overeenkomst van handelsvertegenwoordiging is een arbeidsovereenkomst waarbij
 
 4. Van de [artikelen 426 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=3&artikel=426&z=2026-01-01&g=2026-01-01) en [431 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=4&artikel=431&z=2026-01-01&g=2026-01-01) kan slechts schriftelijk ten nadele van de handelsvertegenwoordiger worden afgeweken.
 
-##### Artikel 689
+#### Artikel 689
 
 In afwijking van [artikel 618](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=618&z=2026-01-01&g=2026-01-01) wordt bij de vaststelling van het bedrag van het in geld vastgestelde loon over de termijn dat de overeenkomst van handelsvertegenwoordiging bij regelmatige opzegging had behoren voort te duren, rekening gehouden met de in de voorafgaande tijd verdiende provisie en met alle andere ter zake in acht te nemen factoren.
 
 ### Afdeling 4. De overgang van de huur bij overdracht van de verhuurde zaken en het eindigen van de huur
 
-##### Artikel 690
+#### Artikel 690
 
 De uitzendovereenkomst is de arbeidsovereenkomst waarbij de werknemer door de werkgever, in het kader van de uitoefening van het beroep of bedrijf van de werkgever ter beschikking wordt gesteld van een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder toezicht en leiding van de derde.
 
-##### Artikel 691
+#### Artikel 691
 
 1. Op de uitzendovereenkomst is [artikel 668a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=668a&z=2026-01-01&g=2026-01-01) eerst van toepassing zodra de werknemer in meer dan 26 weken arbeid heeft verricht.
 
@@ -2881,7 +2856,7 @@ De uitzendovereenkomst is de arbeidsovereenkomst waarbij de werknemer door de we
 
 ### Afdeling 11. Bijzondere bepalingen ter zake van de uitzendovereenkomst
 
-##### Artikel 850
+#### Artikel 850
 
 1. Borgtocht is de overeenkomst waarbij de ene partij, de borg, zich tegenover de andere partij, de schuldeiser, verbindt tot nakoming van een verbintenis, die een derde, de hoofdschuldenaar, tegenover de schuldeiser heeft of zal krijgen.
 
@@ -2889,13 +2864,13 @@ De uitzendovereenkomst is de arbeidsovereenkomst waarbij de werknemer door de we
 
 3. Op borgtocht zijn de bepalingen omtrent hoofdelijke verbintenissen van toepassing, voor zover daarvan in deze titel niet wordt afgeweken.
 
-##### Artikel 851
+#### Artikel 851
 
 1. De borgtocht is afhankelijk van de verbintenis van de hoofdschuldenaar, waarvoor zij is aangegaan.
 
 2. Borgtocht kan slechts voor toekomstige verbintenissen van de hoofdschuldenaar worden aangegaan, voor zover zij voldoende bepaalbaar zijn.
 
-##### Artikel 852
+#### Artikel 852
 
 1. Verweermiddelen die de hoofdschuldenaar jegens de schuldeiser heeft, kunnen ook door de borg worden ingeroepen, indien zij het bestaan, de inhoud of het tijdstip van nakoming van de verbintenis van de hoofdschuldenaar betreffen.
 
@@ -2903,21 +2878,21 @@ De uitzendovereenkomst is de arbeidsovereenkomst waarbij de werknemer door de we
 
 3. Zolang de hoofdschuldenaar bevoegdelijk de nakoming van zijn verbintenis jegens de schuldeiser opschort, is ook de borg bevoegd de nakoming van zijn verbintenis op te schorten.
 
-##### Artikel 853
+#### Artikel 853
 
 Door voltooiing van de verjaring van de rechtsvordering tot nakoming van de verbintenis van de hoofdschuldenaar, gaat de borgtocht teniet.
 
-##### Artikel 854
+#### Artikel 854
 
 Strekt de verbintenis van de hoofdschuldenaar tot iets anders dan tot betaling van een geldsom, dan geldt de borgtocht voor de vordering tot schadevergoeding in geld, verschuldigd op grond van niet-nakoming van die verbintenis, tenzij uitdrukkelijk anders is bedongen.
 
-##### Artikel 855
+#### Artikel 855
 
 1. De borg is niet gehouden tot nakoming voordat de hoofdschuldenaar in de nakoming van zijn verbintenis is tekort geschoten.
 
 2. De schuldeiser die de hoofdschuldenaar overeenkomstig [artikel 82 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=82) in gebreke stelt, is verplicht hiervan tegelijkertijd de borg mededeling te doen.
 
-##### Artikel 856
+#### Artikel 856
 
 1. De borg is slechts wettelijke rente verschuldigd over het tijdvak dat hijzelf in verzuim is, tenzij de hoofdschuldenaar in verzuim is krachtens [artikel 83 onder **b** van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=83).
 
@@ -2925,17 +2900,17 @@ Strekt de verbintenis van de hoofdschuldenaar tot iets anders dan tot betaling v
 
 ### Afdeling 2. Borgtocht, aangegaan buiten beroep of bedrijf
 
-##### Artikel 857
+#### Artikel 857
 
 De bepalingen van deze afdeling zijn van toepassing op borgtochten die zijn aangegaan door een natuurlijk persoon die noch handelde in de uitoefening van zijn beroep of bedrijf, noch ten behoeve van de normale uitoefening van het bedrijf van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid, waarvan hij bestuurder is en alleen of met zijn medebestuurders de meerderheid der aandelen heeft.
 
-##### Artikel 858
+#### Artikel 858
 
 1. Indien het bedrag van de verbintenis van de hoofdschuldenaar op het tijdstip van het aangaan van de borgtocht niet vaststaat, is de borgtocht slechts geldig, voor zover een in geld uitgedrukt maximum-bedrag is overeengekomen.
 
 2. Overeenkomstig [artikel 856](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=14&afdeling=1&artikel=856&z=2026-01-01&g=2026-01-01) verschuldigde rente en kosten kunnen ongeacht dit maximum worden gevorderd.
 
-##### Artikel 859
+#### Artikel 859
 
 1. Tegenover de borg wordt de borgtocht slechts door een door hem ondertekend geschrift bewezen.
 
@@ -2943,11 +2918,11 @@ De bepalingen van deze afdeling zijn van toepassing op borgtochten die zijn aang
 
 3. Voor het bewijs van de overeenkomst die tot het aangaan van de borgtocht verplicht, geldt dezelfde eis als gesteld in lid 1 en in het geval van lid 2 dezelfde vrijheid.
 
-##### Artikel 860
+#### Artikel 860
 
 De borg is niet gebonden, voor zover voor zijn verbintenis meer bezwarende voorwaarden zouden gelden dan die waaronder de hoofdschuldenaar gebonden is, behoudens voor zover het betreft de wijze waarop tegenover de borg het bewijs van bestaan en omvang van de verbintenis van de hoofdschuldenaar geleverd kan worden.
 
-##### Artikel 861
+#### Artikel 861
 
 1. Een borgtocht die voor toekomstige verbintenissen is aangegaan, kan:
 
@@ -2961,7 +2936,7 @@ De borg is niet gebonden, voor zover voor zijn verbintenis meer bezwarende voorw
 
 4. Een borg is evenmin verbonden voor toekomstige verbintenissen uit een rechtshandeling die de schuldeiser onverplicht heeft verricht, nadat hij bekend was geworden met omstandigheden die de mogelijkheid van verhaal op de hoofdschuldenaar aanmerkelijk hebben verminderd, zulks tenzij de borg uitdrukkelijk met de rechtshandeling heeft ingestemd of deze handeling geen uitstel kon lijden.
 
-##### Artikel 862
+#### Artikel 862
 
 Niet kan ten nadele van de borg worden afgeweken:
 
@@ -2969,11 +2944,11 @@ Niet kan ten nadele van de borg worden afgeweken:
 
 - b. van de verplichtingen die de schuldeiser krachtens [artikel 154 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=154) jegens de borg heeft met het oog op diens mogelijke subrogatie.
 
-##### Artikel 863
+#### Artikel 863
 
 De bepalingen van deze afdeling zijn van overeenkomstige toepassing op overeenkomsten, waarbij iemand als bedoeld in [artikel 857](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=14&afdeling=2&artikel=857&z=2026-01-01&g=2026-01-01) zich verbindt tot een bepaalde prestatie voor het geval een derde een bepaalde verbintenis met een andere inhoud jegens de schuldeiser niet nakomt.
 
-##### Artikel 864
+#### Artikel 864
 
 1. Indien in opdracht en voor rekening van iemand als bedoeld in [artikel 857](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=14&afdeling=2&artikel=857&z=2026-01-01&g=2026-01-01) ter zake van de verbintenis van een ander een borgtocht of een overeenkomst als bedoeld in [artikel 863](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=14&afdeling=2&artikel=863&z=2026-01-01&g=2026-01-01) wordt aangegaan, heeft de opdrachtnemer voor hetgeen hij aan de schuldeiser heeft voldaan, geen recht op vergoeding jegens de opdrachtgever voor zover de onderhavige afdeling aan diens aansprakelijkheid als borg in de weg gestaan zou hebben. [Artikel 861](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=14&afdeling=2&artikel=861&z=2026-01-01&g=2026-01-01) is tussen opdrachtgever en opdrachtnemer van overeenkomstige toepassing.
 
@@ -2981,11 +2956,11 @@ De bepalingen van deze afdeling zijn van overeenkomstige toepassing op overeenko
 
 ### Afdeling 6. Verplichtingen van de verpachter
 
-##### Artikel 865
+#### Artikel 865
 
 Op de rechtsbetrekkingen tussen hoofdschuldenaar en borg en op die tussen borgen en voor de verbintenis aansprakelijke niet-schuldenaren onderling is [artikel 2 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=2) van overeenkomstige toepassing.
 
-##### Artikel 866
+#### Artikel 866
 
 1. De borg heeft voor het gehele bedrag dat hij aan hoofdsom, rente en kosten aan de schuldeiser heeft moeten voldoen, krachtens [artikel 10 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=10) een vordering op de hoofdschuldenaar.
 
@@ -2995,25 +2970,25 @@ Op de rechtsbetrekkingen tussen hoofdschuldenaar en borg en op die tussen borgen
 
 4. Uit de rechtsverhouding tussen de borg en een of meer hoofdschuldenaren kan iets anders voortvloeien dan de leden 1-3 meebrengen.
 
-##### Artikel 867
+#### Artikel 867
 
 Indien de borg de verbintenis is nagekomen zonder de hoofdschuldenaar daarvan mededeling te doen en deze daarna zijnerzijds de schuldeiser heeft betaald, kan de hoofdschuldenaar tegenover de borg volstaan met overdracht aan deze van zijn vordering wegens onverschuldigde betaling op de schuldeiser.
 
-##### Artikel 868
+#### Artikel 868
 
 Een krachtens [artikel 10 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=10) aangesproken hoofdschuldenaar kan de verweermiddelen die hij op het tijdstip van het ontstaan van de verhaalsvordering jegens de schuldeiser had, ook inroepen tegen de borg; de [leden 2 en 4 van artikel 11 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=11) zijn van overeenkomstige toepassing.
 
-##### Artikel 869
+#### Artikel 869
 
 De borg te wiens laste de schuld is gedelgd, kan met overeenkomstige toepassing van [artikel 152 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=152) het onverhaalbaar gebleken gedeelte omslaan over zich zelf, zijn medeborgen en de niet-schuldenaren die voor de verbintenis aansprakelijk waren.
 
-##### Artikel 870
+#### Artikel 870
 
 De achterborg die de verbintenis van de borg is nagekomen, kan ten behoeve van zich zelf het verhaal uitoefenen dat de borg, indien hij zelf de verbintenis was nagekomen, zou hebben gehad jegens de hoofdschuldenaar of jegens medeborgen of niet-schuldenaren die voor de verbintenis aansprakelijk waren.
 
 ## Titel 15. Vaststellingsovereenkomst
 
-##### Artikel 900
+#### Artikel 900
 
 1. Bij een vaststellingsovereenkomst binden partijen, ter beëindiging of ter voorkoming van onzekerheid of geschil omtrent hetgeen tussen hen rechtens geldt, zich jegens elkaar aan een vaststelling daarvan, bestemd om ook te gelden voor zover zij van de tevoren bestaande rechtstoestand mocht afwijken.
 
@@ -3023,7 +2998,7 @@ De achterborg die de verbintenis van de borg is nagekomen, kan ten behoeve van z
 
 4. Deze titel is niet van toepassing op de overeenkomst van arbitrage.
 
-##### Artikel 901
+#### Artikel 901
 
 1. De totstandkoming van de vaststelling is gebonden aan de vereisten waaraan moet worden voldaan om de met de beslissing beoogde rechtstoestand, uitgaande van die waarvan zij mogelijk afwijkt, tot stand te brengen.
 
@@ -3031,25 +3006,25 @@ De achterborg die de verbintenis van de borg is nagekomen, kan ten behoeve van z
 
 3. Voor zover aan deze vereisten kan worden voldaan door een verklaring van partijen of een hunner, wordt deze verklaring in de vaststellingsovereenkomst besloten geacht, tenzij uit de overeenkomst anders voortvloeit.
 
-##### Artikel 902
+#### Artikel 902
 
 Een vaststelling ter beëindiging van onzekerheid of geschil op vermogensrechtelijk gebied is ook geldig als zij in strijd mocht blijken met dwingend recht, tenzij zij tevens naar inhoud of strekking in strijd komt met de goede zeden of de openbare orde.
 
-##### Artikel 903
+#### Artikel 903
 
 Een vaststelling van hetgeen in het verleden rechtens is geweest, kan geen afbreuk doen aan inmiddels verkregen rechten van derden.
 
-##### Artikel 904
+#### Artikel 904
 
 1. Indien gebondenheid aan een beslissing van een partij of van een derde in verband met inhoud of wijze van totstandkoming daarvan in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn, is die beslissing vernietigbaar.
 
 2. Indien de beslissing van een partij of een derde vernietigd wordt, nietig blijkt of niet binnen een aan die partij of derde daartoe te stellen redelijke termijn wordt verkregen, kan de rechter een beslissing geven, tenzij uit de overeenkomst of de aard van de beslissing voortvloeit dat zij op andere wijze moet worden vervangen.
 
-##### Artikel 905
+#### Artikel 905
 
 Indien een ontbinding van een vaststellingsovereenkomst wegens een tekortkoming in de nakoming daarvan een reeds tot stand gekomen, aan een partij of een derde opgedragen beslissing zou treffen, kan deze ontbinding niet door een eenzijdige verklaring geschieden en kan de rechter haar afwijzen op de grond dat degene die haar vordert, voldoende middelen heeft om van de wederpartij opheffing van of vergoeding voor de tekortkoming te verkrijgen.
 
-##### Artikel 906
+#### Artikel 906
 
 1. De bepalingen van deze titel vinden overeenkomstige toepassing, wanneer een vaststelling haar rechtsgrond elders dan in een overeenkomst vindt.
 
@@ -3089,7 +3064,7 @@ Indien een ontbinding van een vaststellingsovereenkomst wegens een tekortkoming 
 
 ### Afdeling 6. Huur van bedrijfsruimte
 
-##### Artikel 243
+#### Artikel 243
 
 1. Indien woonruimte in een gebouwde onroerende zaak voorzieningen behoeft als bedoeld in lid 2, kan de rechter op verzoek van de huurder bepalen dat de verhuurder verplicht is deze verbetering op eigen kosten aan te brengen, mits de huurder zich bereid heeft verklaard tot het betalen van een huurverhoging die in redelijke verhouding staat tot deze kosten. Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.
 
@@ -3105,7 +3080,7 @@ Indien een ontbinding van een vaststellingsovereenkomst wegens een tekortkoming 
 
 ### Afdeling 5. Enkele bijzondere bedingen in de arbeidsovereenkomst
 
-##### Artikel 665a
+#### Artikel 665a
 
 Indien in een onderneming geen ondernemingsraad is ingesteld, noch een personeelsvertegenwoordiging is ingesteld krachtens [artikel 35c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35c), of [artikel 35d, eerste lid, van de Wet op de ondernemingraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=35d), stelt de werkgever de eigen werknemers die betrokken zijn bij de overgang van de onderneming tijdig in kennis van
 
@@ -3161,7 +3136,7 @@ Indien in een onderneming geen ondernemingsraad is ingesteld, noch een personeel
 
 ### Afdeling 4. Gelijke behandeling
 
-##### Artikel 649
+#### Artikel 649
 
 1. De werkgever mag geen onderscheid maken tussen werknemers in de arbeidsvoorwaarden op grond van het al dan niet tijdelijke karakter van de arbeidsovereenkomst, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
 
@@ -3177,7 +3152,7 @@ Indien in een onderneming geen ondernemingsraad is ingesteld, noch een personeel
 
 ### Afdeling 6. Huur van bedrijfsruimte
 
-##### Artikel 657
+#### Artikel 657
 
 1. De werkgever is verplicht de werknemer met een arbeidsovereenkomst voor bepaalde tijd tijdig en duidelijk in kennis te stellen van een vacature terzake van een arbeidsovereenkomst voor onbepaalde tijd.
 
@@ -3199,23 +3174,23 @@ Indien in een onderneming geen ondernemingsraad is ingesteld, noch een personeel
 
 ## Titel 15. Vaststellingsovereenkomst
 
-##### Artikel 175
+#### Artikel 175
 
 1. Schenking is de overeenkomst om niet, die ertoe strekt dat de ene partij, de schenker, ten koste van eigen vermogen de andere partij, de begiftigde, verrijkt.
 
 2. Het tot een bepaalde persoon gericht schenkingsaanbod geldt als aangenomen, wanneer deze na er van kennis te hebben genomen het niet onverwijld heeft afgewezen.
 
-##### Artikel 176
+#### Artikel 176
 
 lndien de schenker feiten stelt waaruit volgt dat de schenking door misbruik van omstandigheden is tot stand gekomen, rust bij een beroep op vernietigbaarheid de bewijslast van het tegendeel op de begiftigde, tenzij van de schenking een notariële akte is opgemaakt of deze verdeling van de bewijslast in de gegeven omstandigheden in strijd met de eisen van redelijkheid en billijkheid zou zijn.
 
-##### Artikel 177
+#### Artikel 177
 
 1. Voor zover een schenking de strekking heeft dat zij pas na het overlijden van de schenker zal worden uitgevoerd, en zij niet reeds tijdens het leven van de schenker is uitgevoerd, vervalt zij met het overlijden van de schenker, tenzij de schenking door de schenker persoonlijk is aangegaan en van de schenking een notariële akte is opgemaakt. Voor zover de schenking betrekking heeft op kleren, lijfstoebehoren, bepaalde lijfsieraden, bepaalde tot de inboedel behorende zaken en bepaalde boeken, kan worden volstaan met een door de schenker geheel met de hand geschreven, gedagtekende en ondertekende onderhandse akte.
 
 2. Indien een bevoegdheid is bedongen tot herroeping van een schenkingsovereenkomst als bedoeld in lid 1, kan deze herroeping behalve bij een tot de begiftigde gerichte verklaring ook bij een uiterste wilsbeschikking van de schenker zonder mededeling aan de begiftigde geschieden.
 
-##### Artikel 178
+#### Artikel 178
 
 1. Een schenking is vernietigbaar, indien zij gedurende een ziekte van de schenker wordt gedaan hetzij aan een beroepsbeoefenaar op het gebied van de individuele gezondheidszorg die hem bijstand verleent, hetzij aan een geestelijk verzorger die hem gedurende de ziekte bijstaat.
 
@@ -3227,17 +3202,17 @@ lndien de schenker feiten stelt waaruit volgt dat de schenking door misbruik van
 
 5. Na het overlijden van de schenker kan de vernietiging van de schenking op grond van lid 1 of lid 2 mede plaatsvinden door een ieder die door de schenking nadeel lijdt. De vernietiging vindt slechts plaats voor zover deze nodig is tot opheffing van het nadeel van degene die zich op de vernietigingsgrond beroept. Een rechtsvordering tot vernietiging ingevolge de eerste zin verjaart op een met overeenkomstige toepassing van [artikel 54 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=54) te bepalen tijdstip, en in ieder geval drie jaar nadat de in lid 1 bedoelde ziekte, onderscheidenlijk het in lid 2 bedoelde verblijf, is geëindigd.
 
-##### Artikel 179
+#### Artikel 179
 
 1. Een aanbod tot schenking dat de aanbieder ten tijde van zijn overlijden nog kon herroepen, komt, in afwijking van [artikel 222 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=222), door zijn dood te vervallen, tenzij uit een overeenkomst of uit het aanbod zelf het tegendeel voortvloeit.
 
 2. Is het aanbod bij wijze van uitloving voor een bepaalde tijd gedaan, dan komt het door het overlijden van de aanbieder binnen die tijd te vervallen, indien ten tijde van het overlijden een gewichtige reden tot herroeping als bedoeld in [artikel 220 lid 1 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=220) bestond of het overlijden zelf een zodanige reden oplevert; alsdan is [artikel 220 lid 2 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=220) van overeenkomstige toepassing.
 
-##### Artikel 180
+#### Artikel 180
 
 Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende schenking onder opschortende voorwaarde zijn de [artikelen 140 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=140) en [141 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=141) van overeenkomstige toepassing.
 
-##### Artikel 181
+#### Artikel 181
 
 1. Een aanbod tot schenking dat door de dood van de aanbieder niet vervalt, kan niet worden aanvaard door iemand die op het tijdstip van overlijden van de aanbieder nog niet bestond.
 
@@ -3249,7 +3224,7 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 - c. indien de schenker heeft bepaald dat hetgeen de begiftigde van het hem geschonkene bij zijn overlijden of op een eerder tijdstip onverteerd zal hebben gelaten, alsdan zal ten deel vallen aan een dan bestaande bloedverwant van de schenker in de erfelijke graad.
 
-##### Artikel 182
+#### Artikel 182
 
 1. Bij een aanbod tot schenking dat schriftelijk wordt gedaan, kan worden bepaald dat het geschonkene onder bewind zal staan.
 
@@ -3259,13 +3234,13 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 - b. het bewind, voor zover het niet in het belang van een ander dan de begiftigde is ingesteld, ook eindigt wanneer de schenker en de begiftigde een gemeenschappelijk besluit tot opheffing schriftelijk ter kennis van de bewindvoerder brengen.
 
-##### Artikel 183
+#### Artikel 183
 
 1. Een schenker is voor gebreken in het recht of voor feitelijke gebreken alleen aansprakelijk, wanneer hij deze niet heeft opgegeven ofschoon zij hem bekend waren, en de begiftigde deze gebreken niet ter gelegenheid van de aflevering van het geschonken goed had kunnen ontdekken.
 
 2. Deze aansprakelijkheid strekt zich, behoudens in het geval van bedrog, niet uit tot schade geleden ten aanzien van het geschonken goed zelf.
 
-##### Artikel 184
+#### Artikel 184
 
 1. In de navolgende gevallen is een schenking, ongeacht of zij reeds is uitgevoerd, vernietigbaar:
 
@@ -3277,19 +3252,19 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 2. In lid 1, onder b, wordt mede verstaan onder misdrijf: poging tot, voorbereiding van en deelneming aan een misdrijf.
 
-##### Artikel 185
+#### Artikel 185
 
 1. Rechtsvorderingen tot vernietiging van de schenking op grond van [artikel 184](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=184&z=2026-01-01&g=2026-01-01) verjaren door verloop van een jaar, te rekenen van de dag waarop het feit dat grond tot vernietiging oplevert, ter kennis van de schenker is gekomen.
 
 2. Na het overlijden van de schenker kan vernietiging van de schenking op grond van het in het vorige artikel bepaalde slechts plaatsvinden door een rechterlijke uitspraak en, in de gevallen genoemd in [artikel 184 lid 1, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=184&z=2026-01-01&g=2026-01-01), alleen indien het feit dat grond tot vernietiging oplevert, de dood van de schenker heeft veroorzaakt.
 
-##### Artikel 186
+#### Artikel 186
 
 1. De bepalingen van deze titel zijn van overeenkomstige toepassing op andere giften dan schenkingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de handeling zich daartegen niet verzet.
 
 2. Als gift wordt aangemerkt iedere handeling die er toe strekt dat degeen die de handeling verricht, een ander ten koste van eigen vermogen verrijkt. Zolang degene tot wiens verrijking de handeling strekt, de prestatie niet heeft ontvangen, noch daarop aanspraak kan maken, worden handelingen als bedoeld in de eerste volzin niet beschouwd als gift.
 
-##### Artikel 187
+#### Artikel 187
 
 1. Is de begiftigde in verband met de gift gehouden een tegenprestatie te verrichten, dan is [artikel 186 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=186&z=2026-01-01&g=2026-01-01), behoudens voor zover het [artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=182&z=2026-01-01&g=2026-01-01) betreft, van toepassing, en gelden voorts de volgende twee leden.
 
@@ -3299,7 +3274,7 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 4. Op handelingen die ten dele als gift, ten dele als nakoming van een natuurlijke verbintenis zijn te beschouwen, zijn de vorige leden van overeenkomstige toepassing.
 
-##### Artikel 188
+#### Artikel 188
 
 1. De aanwijzing van een begunstigde bij een sommenverzekering wordt, wanneer zij is aanvaard of kan worden aanvaard, aangemerkt als een gift, tenzij zij geschiedt ter nakoming van een verbintenis anders dan een uit schenking. De [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=177&z=2026-01-01&g=2026-01-01), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=179&z=2026-01-01&g=2026-01-01), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=181&z=2026-01-01&g=2026-01-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=182&z=2026-01-01&g=2026-01-01) en[187](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=3&artikel=187&z=2026-01-01&g=2026-01-01) zijn op deze giften niet van toepassing.
 
@@ -3347,7 +3322,7 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 ## Titel 15. Vaststellingsovereenkomst
 
-##### Artikel 6a
+#### Artikel 6a
 
 1. Indien de verkoper of de producent bepaalde eigenschappen heeft toegezegd in een commerciële garantie in geval van een consumentenkoop, bij het ontbreken waarvan de koper bepaalde rechten of vorderingen zijn toegekend, kan de koper deze uitoefenen onverminderd alle andere rechten of vorderingen die de wet de koper toekent. De commerciële garantie is bindend onder de voorwaarden in het commerciële garantiebewijs en in de daarmee samenhangende reclame die beschikbaar was bij of voor het sluiten van de overeenkomst.
 
@@ -3435,7 +3410,7 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 ## Titel 15. Vaststellingsovereenkomst
 
-##### Artikel 2
+#### Artikel 2
 
 1. De koop van een tot bewoning bestemde onroerende zaak of bestanddeel daarvan wordt, indien de koper een natuurlijk persoon is die niet handelt in de uitoefening van een beroep of bedrijf, schriftelijk aangegaan.
 
@@ -3447,7 +3422,7 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 5. De leden 1–4 zijn niet van toepassing op huurkoop en koop op een openbare veiling ten overstaan van een notaris. Zij zijn evenmin van toepassing, wanneer de overeenkomst tevens voldoet aan de omschrijving van een overeenkomst als bedoeld in [artikel 50a, onderdelen c of f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50a&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 3
+#### Artikel 3
 
 1. De koop van een registergoed kan worden ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), tenzij op het tijdstip van de inschrijving levering van dat goed door de verkoper nog niet mogelijk zou zijn geweest wegens de in [artikel 97 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=97) vervatte uitsluiting van levering bij voorbaat van toekomstige registergoederen. Bij de koop van een tot woning bestemde onroerende zaak of bestanddeel daarvan kan, indien de koper een natuurlijk persoon is die niet handelt in de uitoefening van een beroep of bedrijf, van het in de vorige zin bepaalde niet ten nadele van de koper worden afgeweken.
 
@@ -3475,7 +3450,7 @@ Op schenkingen onder een ontbindende voorwaarde en een daarbij aansluitende sche
 
 6. Inschrijving van de koop vindt slechts plaats indien onder de koopakte een ondertekende en gedateerde verklaring van een notaris is opgenomen, die zijn naam, voornamen, standplaats en kwaliteit bevat en waarin verklaard wordt dat de leden 1, 2 en 5 niet aan inschrijving in de weg staan.
 
-##### Artikel 8
+#### Artikel 8
 
 Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak of bestanddeel daarvan, verkocht en is de koper een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf, dan zijn de [artikelen 767](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=2&artikel=767&z=2026-01-01&g=2026-01-01) en [768](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=2&artikel=768&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing. Hiervan kan niet ten nadele van de koper worden afgeweken, behoudens bij een standaardregeling als bedoeld in [artikel 214 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=214).
 
@@ -3529,85 +3504,85 @@ Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak 
 
 ### Afdeling 3. Goedkeuring van de pachtovereenkomst
 
-##### Artikel 7.12.1
+#### Artikel 7.12.1
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.2
+#### Artikel 7.12.2
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.3
+#### Artikel 7.12.3
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.4
+#### Artikel 7.12.4
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.4a
+#### Artikel 7.12.4a
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.5
+#### Artikel 7.12.5
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.6
+#### Artikel 7.12.6
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.7
+#### Artikel 7.12.7
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.7a
+#### Artikel 7.12.7a
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.8
+#### Artikel 7.12.8
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.10
+#### Artikel 7.12.10
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.11
+#### Artikel 7.12.11
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.12
+#### Artikel 7.12.12
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.13
+#### Artikel 7.12.13
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.14
+#### Artikel 7.12.14
 
 Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 10. Het eindigen van de pachtovereenkomst
 
-##### Artikel 7.12.15
+#### Artikel 7.12.15
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.16
+#### Artikel 7.12.16
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.17
+#### Artikel 7.12.17
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.18
+#### Artikel 7.12.18
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 7.12.19
+#### Artikel 7.12.19
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -3623,7 +3598,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 1. Algemene bepalingen
 
-##### Artikel 201
+#### Artikel 201
 
 1. Huur is de overeenkomst waarbij de ene partij, de verhuurder, zich verbindt aan de andere partij, de huurder, een zaak of een gedeelte daarvan in gebruik te verstrekken en de huurder zich verbindt tot een tegenprestatie.
 
@@ -3631,17 +3606,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. De pachtovereenkomst wordt niet als huur aangemerkt.
 
-##### Artikel 202
+#### Artikel 202
 
 Indien de huurder recht heeft op de vruchten van de zaak, geldt dit recht als een genotsrecht als bedoeld in [artikel 17 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=17). De huurder verkrijgt dit recht van de dag van ingang van de huur af met dien verstande dat burgerlijke vruchten van dag tot dag berekend worden.
 
 ### Afdeling 1. Bepalingen ter uitvoering van [richtlijn nr. 2008/48/EG](32008L0048) van 23 april 2008 inzake kredietovereenkomsten voor consumenten
 
-##### Artikel 203
+#### Artikel 203
 
 De verhuurder is verplicht de zaak ter beschikking van de huurder te stellen en te laten voor zover dat voor het overeengekomen gebruik noodzakelijk is.
 
-##### Artikel 204
+#### Artikel 204
 
 1. De verhuurder heeft met betrekking tot gebreken van de zaak de in deze afdeling omschreven verplichtingen.
 
@@ -3649,11 +3624,11 @@ De verhuurder is verplicht de zaak ter beschikking van de huurder te stellen en 
 
 3. Een feitelijke stoornis door derden zonder bewering van recht als bedoeld in [artikel 211](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=211&z=2026-01-01&g=2026-01-01) en een bewering van recht zonder feitelijke stoornis zijn geen gebreken in de zin van lid 2.
 
-##### Artikel 205
+#### Artikel 205
 
 De uit deze afdeling voortvloeiende rechten van de huurder komen aan deze toe, onverminderd alle andere rechten en vorderingen.
 
-##### Artikel 206
+#### Artikel 206
 
 1. De verhuurder is verplicht op verlangen van de huurder gebreken te verhelpen, tenzij dit onmogelijk is of uitgaven vereist die in de gegeven omstandigheden redelijkerwijs niet van de verhuurder zijn te vergen.
 
@@ -3661,27 +3636,27 @@ De uit deze afdeling voortvloeiende rechten van de huurder komen aan deze toe, o
 
 3. Is de verhuurder met het verhelpen in verzuim, dan kan de huurder dit verhelpen zelf verrichten en de daarvoor gemaakte kosten, voor zover deze redelijk waren, op de verhuurder verhalen, desgewenst door deze in mindering van de huurprijs te brengen. Hiervan kan niet ten nadele van de huurder worden afgeweken.
 
-##### Artikel 207
+#### Artikel 207
 
 1. De huurder kan in geval van vermindering van huurgenot ten gevolge van een gebrek een daaraan evenredige vermindering van de huurprijs vorderen van de dag waarop hij van het gebrek behoorlijk heeft kennis gegeven aan de verhuurder of waarop het gebrek reeds in voldoende mate bekend was om tot maatregelen over te gaan, tot die waarop het gebrek is verholpen.
 
 2. De huurder heeft geen aanspraak op huurvermindering terzake van gebreken die hij krachtens [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=217&z=2026-01-01&g=2026-01-01) verplicht is te verhelpen, of voor het ontstaan waarvan hij jegens de verhuurder aansprakelijk is.
 
-##### Artikel 208
+#### Artikel 208
 
 Onverminderd de gevolgen van niet-nakoming van de verplichting van [artikel 206](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=206&z=2026-01-01&g=2026-01-01) is de verhuurder tot vergoeding van de door een gebrek veroorzaakte schade verplicht, indien het gebrek na het aangaan van de overeenkomst is ontstaan en aan hem is toe te rekenen, alsmede indien het gebrek bij het aangaan van de overeenkomst aanwezig was en de verhuurder het toen kende of had behoren te kennen, of toen aan de huurder heeft te kennen gegeven dat de zaak het gebrek niet had.
 
-##### Artikel 209
+#### Artikel 209
 
 Van de [artikelen 206, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=206&z=2026-01-01&g=2026-01-01), [207](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=207&z=2026-01-01&g=2026-01-01) en[208](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=208&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de huurder worden afgeweken voor zover het gaat om gebreken die de verhuurder bij het aangaan van de overeenkomst kende of had behoren te kennen.
 
-##### Artikel 210
+#### Artikel 210
 
 1. Indien een gebrek dat de verhuurder ingevolge [artikel 206](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=206&z=2026-01-01&g=2026-01-01) niet verplicht is te verhelpen, het genot dat de huurder mocht verwachten, geheel onmogelijk maakt, is zowel de huurder als de verhuurder bevoegd de huur op de voet van [artikel 267 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=267) te ontbinden.
 
 2. Een verplichting van een der partijen tot schadevergoeding ter zake van een gebrek omvat mede de door het eindigen van de huur ingevolge lid 1 veroorzaakte schade.
 
-##### Artikel 211
+#### Artikel 211
 
 1. Wanneer tegen de huurder door een derde een vordering wordt ingesteld tot uitwinning of tot verlening van een recht waarmee de zaak waarop de huurovereenkomst betrekking heeft, ingevolge die overeenkomst niet belast had mogen zijn, is de verhuurder na kennisgeving daarvan door de huurder gehouden in het geding te komen ten einde de belangen van de huurder te verdedigen.
 
@@ -3689,19 +3664,19 @@ Van de [artikelen 206, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. Wanneer tegen de onderhuurder een vordering betreffende het ondergehuurde wordt ingesteld door de hoofdverhuurder, zijn de voorgaande leden van overeenkomstige toepassing op de onderverhuurder. Voor de toepassing van [artikel 2.9.5 van het Wetboek van Burgerlijke Rechtsvordering](onbekend) wordt deze vordering gelijkgesteld aan een vordering tot uitwinning.
 
-##### Artikel 212
+#### Artikel 212
 
 De huurder is verplicht de tegenprestatie op de overeengekomen wijze en tijdstippen te voldoen.
 
-##### Artikel 213
+#### Artikel 213
 
 De huurder is verplicht zich ten aanzien van het gebruik van de gehuurde zaak als een goed huurder te gedragen.
 
-##### Artikel 214
+#### Artikel 214
 
 De huurder is slechts bevoegd tot het gebruik van de zaak dat is overeengekomen, en, zo daaromtrent niets is overeengekomen, tot het gebruik waartoe de zaak naar zijn aard bestemd is.
 
-##### Artikel 215
+#### Artikel 215
 
 1. De huurder is niet bevoegd de inrichting of gedaante van het gehuurde geheel of gedeeltelijk te veranderen dan na schriftelijke toestemming van de verhuurder, tenzij het gaat om veranderingen en toevoegingen die bij het einde van de huur zonder noemenswaardige kosten kunnen worden ongedaan gemaakt en verwijderd.
 
@@ -3715,7 +3690,7 @@ De huurder is slechts bevoegd tot het gebruik van de zaak dat is overeengekomen,
 
 6. Van de voorgaande leden kan niet ten nadele van de huurder worden afgeweken, tenzij het de buitenzijde van gehuurde woonruimte betreft.
 
-##### Artikel 216
+#### Artikel 216
 
 1. De huurder is tot de ontruiming bevoegd door hem aangebrachte veranderingen en toevoegingen ongedaan te maken, mits daarbij het gehuurde in de toestand wordt gebracht, die bij het einde van de huur redelijkerwijs in overeenstemming met de oorspronkelijke kan worden geacht.
 
@@ -3723,11 +3698,11 @@ De huurder is slechts bevoegd tot het gebruik van de zaak dat is overeengekomen,
 
 3. De huurder kan ter zake van geoorloofde veranderingen en toevoegingen die na het einde van de huurovereenkomst niet ongedaan worden gemaakt, vergoeding vorderen voor zover [artikel 212 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=212) dat toestaat.
 
-##### Artikel 217
+#### Artikel 217
 
 De huurder is verplicht te zijnen koste de kleine herstellingen te verrichten, tenzij deze nodig zijn geworden door het tekortschieten van de verhuurder in de nakoming van zijn verplichting tot het verhelpen van gebreken.
 
-##### Artikel 218
+#### Artikel 218
 
 1. De huurder is aansprakelijk voor schade aan de verhuurde zaak die is ontstaan door een hem toe te rekenen tekortschieten in de nakoming van een verplichting uit de huurovereenkomst.
 
@@ -3735,11 +3710,11 @@ De huurder is verplicht te zijnen koste de kleine herstellingen te verrichten, t
 
 3. Onverminderd [artikel 224 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=224&z=2026-01-01&g=2026-01-01) wordt de huurder vermoed het gehuurde in onbeschadigde toestand te hebben ontvangen.
 
-##### Artikel 219
+#### Artikel 219
 
 De huurder is jegens de verhuurder op gelijke wijze als voor eigen gedragingen aansprakelijk voor de gedragingen van hen die met zijn goedvinden het gehuurde gebruiken of zich met zijn goedvinden daarop bevinden.
 
-##### Artikel 220
+#### Artikel 220
 
 1. Indien gedurende de huurtijd dringende werkzaamheden aan het gehuurde moeten worden uitgevoerd of de verhuurder krachtens [artikel 56 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=56) iets moet toestaan ten behoeve van een naburig erf, moet de huurder daartoe gelegenheid geven, onverminderd zijn aanspraken op vermindering van de huurprijs, op ontbinding van de huurovereenkomst en op schadevergoeding.
 
@@ -3755,29 +3730,29 @@ De huurder is jegens de verhuurder op gelijke wijze als voor eigen gedragingen a
 
 7. De verhuurder kan eventuele door de gemeente aan de huurder te verstrekken bijdragen of vergoedingen voor verhuis- of inrichtingskosten in mindering brengen op de hoogte van de bijdrage, bedoeld in het zesde lid.
 
-##### Artikel 221
+#### Artikel 221
 
 De huurder is bevoegd het gehuurde geheel of gedeeltelijk aan een ander in gebruik te geven, tenzij hij moest aannemen dat de verhuurder tegen het in gebruik geven aan die ander redelijke bezwaren zal hebben.
 
-##### Artikel 222
+#### Artikel 222
 
 Indien de huurder gebreken aan de zaak ontdekt of derden hem in zijn genot storen of enig recht op de zaak beweren, moet hij daarvan onverwijld aan de verhuurder kennis geven, bij gebreke waarvan hij verplicht is aan de verhuurder de door de nalatigheid ontstane schade te vergoeden.
 
-##### Artikel 223
+#### Artikel 223
 
 De huurder van een onroerende zaak of een gedeelte daarvan is, indien de verhuurder tot verhuur na afloop van lopende huur of tot verkoop wenst over te gaan, verplicht te dulden dat aan de zaak de gebruikelijke kennisgevingen van het te huur of te koop zijn worden aangebracht, en aan belangstellenden gelegenheid te geven tot bezichtiging.
 
-##### Artikel 224
+#### Artikel 224
 
 1. De huurder is verplicht het gehuurde bij het einde van de huur weer ter beschikking van de verhuurder te stellen.
 
 2. Indien tussen de huurder en verhuurder een beschrijving van het verhuurde is opgemaakt, is de huurder gehouden de zaak in dezelfde staat op te leveren waarin deze volgens de beschrijving is aanvaard, met uitzondering van geoorloofde veranderingen en toevoegingen en hetgeen door ouderdom is teniet gegaan of beschadigd. Indien geen beschrijving is opgemaakt, wordt de huurder, behoudens tegenbewijs, verondersteld het gehuurde in de staat te hebben ontvangen zoals deze is bij het einde van de huurovereenkomst.
 
-##### Artikel 225
+#### Artikel 225
 
 Houdt de huurder na het einde van de huur het gehuurde onrechtmatig onder zich, dan kan de verhuurder over de tijd dat hij het gehuurde mist, een vergoeding vorderen gelijk aan de huurprijs, onverminderd, indien zijn schade meer dan deze vergoeding bedraagt, zijn recht op dit meerdere.
 
-##### Artikel 226
+#### Artikel 226
 
 1. Overdracht van de zaak waarop de huurovereenkomst betrekking heeft en vestiging of overdracht van een zelfstandig recht van vruchtgebruik, erfpacht of opstal op de zaak waarop de huurovereenkomst betrekking heeft, door de verhuurder doen de rechten en verplichtingen van de verhuurder uit de huurovereenkomst, die daarna opeisbaar worden, overgaan op de verkrijger.
 
@@ -3787,17 +3762,17 @@ Houdt de huurder na het einde van de huur het gehuurde onrechtmatig onder zich, 
 
 4. Bij huur van een gebouwde onroerende zaak of een gedeelte daarvan alsmede van een woonwagen in de zin van [artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=235&z=2026-01-01&g=2026-01-01), van een standplaats in de zin van [artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=236&z=2026-01-01&g=2026-01-01) en van een ligplaats in de zin van [artikel 236a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=236a&z=2026-01-01&g=2026-01-01), kan niet van de voorgaande leden worden afgeweken.
 
-##### Artikel 227
+#### Artikel 227
 
 In geval van vestiging of overdracht van een beperkt recht op de verhuurde zaak, dat niet onder [artikel 226 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=226&z=2026-01-01&g=2026-01-01) is begrepen, is de gerechtigde jegens de huurder verplicht zich te onthouden van een uitoefening van dat recht, die het gebruik door de huurder belemmert.
 
-##### Artikel 228
+#### Artikel 228
 
 1. Een huur voor bepaalde tijd aangegaan, eindigt, zonder dat daartoe een opzegging vereist is, wanneer die tijd is verstreken.
 
 2. Een huur voor onbepaalde tijd aangegaan of voor onbepaalde tijd verlengd eindigt door opzegging. Heeft de huur betrekking op een onroerende zaak die noch woonruimte, noch bedrijfsruimte is, dan dient de opzegging te geschieden tegen een voor huurbetaling overeengekomen dag op een termijn van tenminste een maand.
 
-##### Artikel 229
+#### Artikel 229
 
 1. De dood van de huurder of de verhuurder doet de huur niet eindigen.
 
@@ -3805,11 +3780,11 @@ In geval van vestiging of overdracht van een beperkt recht op de verhuurde zaak,
 
 3. Indien een huurder twee of meer erfgenamen nalaat, is de verhuurder verplicht zijn medewerking te verlenen aan de toedeling van de rechten en verplichtingen van de overleden huurder uit de huurovereenkomst door de gezamenlijke erfgenamen aan een of meer van hen, tenzij de verhuurder tegen een of meer van de aangewezenen redelijke bezwaren heeft. De eerste zin is niet van toepassing indien de nalatenschap ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) is verdeeld.
 
-##### Artikel 230
+#### Artikel 230
 
 Indien na afloop van een huurovereenkomst de huurder met goedvinden van de verhuurder het gebruik van het gehuurde behoudt, wordt daardoor, tenzij van een andere bedoeling blijkt, de overeenkomst, ongeacht de tijd waarvoor zij was aangegaan, voor onbepaalde tijd verlengd.
 
-##### Artikel 230a
+#### Artikel 230a
 
 1. Heeft de huur betrekking op een gebouwde onroerende zaak of gedeelte daarvan en is die zaak of dat gedeelte noch woonruimte, noch bedrijfsruimte in de zin van deze titel, dan kan de huurder na het einde van de huurovereenkomst de rechter verzoeken de termijn waarbinnen ontruiming moet plaats vinden, te verlengen. Het verzoek moet worden ingediend binnen twee maanden na het tijdstip waartegen schriftelijk ontruiming is aangezegd.
 
@@ -3831,7 +3806,7 @@ Indien na afloop van een huurovereenkomst de huurder met goedvinden van de verhu
 
 10. De leden 1–9 zijn niet van toepassing, wanneer de overeenkomst tevens aan de omschrijving voldoet van een overeenkomst als bedoeld in [artikel 50a, onderdelen c of f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50a&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 231
+#### Artikel 231
 
 1. Ontbinding van een huurovereenkomst met betrekking tot een gebouwde onroerende zaak alsmede een woonwagen in de zin van [artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=235&z=2026-01-01&g=2026-01-01), een standplaats in de zin van [artikel 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=236&z=2026-01-01&g=2026-01-01) en een ligplaats in de zin van [artikel 236a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=236a&z=2026-01-01&g=2026-01-01) op de grond dat de huurder tekortgeschoten is in de nakoming van zijn verplichtingen, kan slechts geschieden door de rechter, behoudens in het geval van lid 2 en van [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=210&z=2026-01-01&g=2026-01-01).
 
@@ -3843,7 +3818,7 @@ Indien na afloop van een huurovereenkomst de huurder met goedvinden van de verhu
 
 #### Onderafdeling 1. Algemeen
 
-##### Artikel 232
+#### Artikel 232
 
 1. Deze afdeling is uitsluitend van toepassing op huur van woonruimte.
 
@@ -3851,23 +3826,23 @@ Indien na afloop van een huurovereenkomst de huurder met goedvinden van de verhu
 
 3. De [artikelen 206 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=206&z=2026-01-01&g=2026-01-01), [270](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=270&z=2026-01-01&g=2026-01-01), [271 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=271&z=2026-01-01&g=2026-01-01), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=272&z=2026-01-01&g=2026-01-01), [273](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=273&z=2026-01-01&g=2026-01-01), [274](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01), [275](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=275&z=2026-01-01&g=2026-01-01), [276](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=276&z=2026-01-01&g=2026-01-01), [277](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=277&z=2026-01-01&g=2026-01-01) en [281](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=281&z=2026-01-01&g=2026-01-01) zijn gedurende negen maanden na het ingaan van de overeenkomst niet van toepassing op huur van woonruimte die niet een zelfstandige woning vormt en deel uitmaakt van een woning waarin de verhuurder zijn hoofdverblijf heeft en waarin niet eerder aan dezelfde huurder deze of andere woonruimte is verhuurd geweest.
 
-##### Artikel 233
+#### Artikel 233
 
 Onder woonruimte wordt verstaan een gebouwde onroerende zaak voor zover deze als zelfstandige dan wel niet zelfstandige woning is verhuurd, dan wel een woonwagen, een standplaats of een ligplaats, alsmede de onroerende aanhorigheden.
 
-##### Artikel 234
+#### Artikel 234
 
 Onder zelfstandige woning wordt verstaan de woning welke een eigen toegang heeft en welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.
 
-##### Artikel 235
+#### Artikel 235
 
 Onder woonwagen wordt verstaan een voor bewoning bestemd gebouw, dat is geplaatst op een standplaats, in zijn geheel of in delen kan worden verplaatst en waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 5.1 lid 2 aanhef en onder a van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend.
 
-##### Artikel 236
+#### Artikel 236
 
 Onder standplaats wordt verstaan een kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten.
 
-##### Artikel 237
+#### Artikel 237
 
 1. In deze afdeling wordt onder prijs verstaan het geheel van de verplichtingen die de huurder tegenover de verhuurder bij of ter zake van huur op zich neemt.
 
@@ -3877,27 +3852,27 @@ Onder standplaats wordt verstaan een kavel, bestemd voor het plaatsen van een wo
 
 4. In deze afdeling wordt onder energieprestatievergoeding verstaan de schriftelijk overeengekomen betalingsverplichting die de huurder met betrekking tot de kosten voor een door de verhuurder gegarandeerde energieprestatie van de woonruimte als gevolg van een combinatie van energiebesparende en energieleverende voorzieningen aan die woonruimte moet voldoen.
 
-##### Artikel 238
+#### Artikel 238
 
 Onder huurcommissie wordt verstaan de huurcommissie bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a).
 
-##### Artikel 239
+#### Artikel 239
 
 Onder Onze Minister wordt verstaan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-##### Artikel 240
+#### Artikel 240
 
 Bij algemene maatregel van bestuur kunnen herstellingen worden aangewezen die moeten worden aangemerkt als kleine herstellingen die krachtens [artikel 217](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=217&z=2026-01-01&g=2026-01-01) voor rekening van de huurder zijn. Van de krachtens het onderhavige artikel vastgestelde bepalingen kan niet ten nadele van de huurder worden afgeweken.
 
-##### Artikel 241
+#### Artikel 241
 
 Bij of krachtens algemene maatregel van bestuur wordt bepaald welke tekortkomingen in elk geval als gebreken worden aangemerkt. Van de krachtens dit artikel vastgestelde bepalingen kan niet ten nadele van de huurder worden afgeweken.
 
-##### Artikel 244
+#### Artikel 244
 
 In afwijking van [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=3&artikel=221&z=2026-01-01&g=2026-01-01) is de huurder van woonruimte niet bevoegd het gehuurde geheel of gedeeltelijk aan een ander in gebruik te geven. De huurder van een zelfstandige woning die in die woning zijn hoofdverblijf heeft, is echter bevoegd een deel daarvan aan een ander in gebruik te geven.
 
-##### Artikel 245
+#### Artikel 245
 
 In de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) worden nadere regels gegeven aangaande huurprijzen en andere vergoedingen.
 
@@ -3905,11 +3880,11 @@ In de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:
 
 #### Paragraaf 1. Huurprijzen
 
-##### Artikel 246
+#### Artikel 246
 
 Ter zake van huur gelden de huurprijzen die partijen zijn overeengekomen, voorzover uit deze onderafdeling niet anders voortvloeit.
 
-##### Artikel 247
+#### Artikel 247
 
 De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 lid 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=248&z=2026-01-01&g=2026-01-01), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=249&z=2026-01-01&g=2026-01-01), [250 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=250&z=2026-01-01&g=2026-01-01), [251](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=251&z=2026-01-01&g=2026-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01) voor zover het een voorstel tot verlaging van de huurprijs betreft, [254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=254&z=2026-01-01&g=2026-01-01), [255a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=255a&z=2026-01-01&g=2026-01-01), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=2&artikel=259&z=2026-01-01&g=2026-01-01), [260](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=2&artikel=260&z=2026-01-01&g=2026-01-01), [261 leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=2&artikel=261&z=2026-01-01&g=2026-01-01), [261b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=2&artikel=261b&z=2026-01-01&g=2026-01-01), [262 tot en met 264](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=3&artikel=262&z=2026-01-01&g=2026-01-01), niet van toepassing op een overeenkomst van huur en verhuur, die betrekking heeft op een zelfstandige woning, ten aanzien waarvan bij de aanvang van de bewoning een huurprijs gold of geldt, die, indien nodig herleid tot een bedrag per jaar, hoger is dan het krachtens [artikel 3 lid 2 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3) vastgesteld bedrag, en de huurprijs niet is verlaagd naar een huurprijs lager dan het krachtens [artikel 3 lid 2 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3) vastgestelde bedrag, indien
 
@@ -3917,7 +3892,7 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 l
 
 - b. die overeenkomst betrekking heeft op een woning die is totstandgekomen op of na 1 juli 1989.
 
-##### Artikel 248
+#### Artikel 248
 
 1. De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de [artikelen 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01), [252a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252a&z=2026-01-01&g=2026-01-01), [252c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252c&z=2026-01-01&g=2026-01-01) en [253](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=253&z=2026-01-01&g=2026-01-01). Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252, 252a, 252c en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
 
@@ -3927,11 +3902,11 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 l
 
 4. De huurder kan binnen vier maanden na de ingangsdatum van de verhoging van de huurprijs overeenkomstig een beding als bedoeld in het derde lid, de huurcommissie verzoeken uitspraak te doen over die verhoging. De huurcommissie stelt de verhuurder in kennis van het verzoek van de huurder.
 
-##### Artikel 249
+#### Artikel 249
 
 De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met betrekking tot die woonruimte voor de eerste maal aangegane huurovereenkomst is ingegaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van de overeengekomen huurprijs.
 
-##### Artikel 250
+#### Artikel 250
 
 1. De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de [artikelen 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01), [252a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252a&z=2026-01-01&g=2026-01-01), [252c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252c&z=2026-01-01&g=2026-01-01) en [253](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=253&z=2026-01-01&g=2026-01-01):
 
@@ -3945,13 +3920,13 @@ De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met
 
 4. De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de [artikelen 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01), [252b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252b&z=2026-01-01&g=2026-01-01) en [254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=254&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 251
+#### Artikel 251
 
 1. Bepalingen in huurovereenkomsten die tot gevolg hebben dat de huurprijs in enig tijdvak van twaalf maanden meer dan eenmaal wordt verhoogd, zijn nietig, tenzij het gaat om het geval van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=255&z=2026-01-01&g=2026-01-01), [artikel 255a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=255a&z=2026-01-01&g=2026-01-01) of van [artikel 10a van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10a).
 
 2. In afwijking van [artikel 308 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=308) verjaart de rechtsvordering tot betaling van een huurprijsverhoging door verloop van twee jaren na de aanvang van de dag, volgende op die waarop de vordering opeisbaar is geworden, tenzij de verhuurder de huurder in enig jaar niet schriftelijk informeert over het in dat jaar opeisbaar worden van een vordering tot betaling van een huurprijsverhoging, in welk geval die vordering verjaart door verloop van één jaar na de aanvang van de dag, volgende op die waarop de vordering opeisbaar is geworden.
 
-##### Artikel 252
+#### Artikel 252
 
 1. Een voorstel tot wijziging van de huurprijs moet tenminste twee maanden voor de voorgestelde dag van ingang van de wijziging schriftelijk worden gedaan.
 
@@ -3971,7 +3946,7 @@ De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met
 
 4. Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 1 en lid 2 aanhef en onder b, d of e dan wel aan het in lid 3 bepaalde, blijft de voordien geldende huurprijs verschuldigd, tenzij blijkt dat degene tot wie het voorstel was gericht niet door het verzuim is benadeeld.
 
-##### Artikel 253
+#### Artikel 253
 
 1. Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in [artikel 252a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252a&z=2026-01-01&g=2026-01-01) heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen over het inkomenstoetsjaar, verzoekt de verhuurder aan de inspecteur om een vervolgverklaring. Artikel 252a lid 4 is op de vervolgverklaring van overeenkomstige toepassing. De vervolgverklaring wordt door de verhuurder bij een verzoek als bedoeld in de eerste volzin overgelegd. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en de huurder zich beroept op een van de gevallen, genoemd in artikel 252a lid 6, verstrekt de huurder, indien dat deel uitmaken van een groep, bedoeld in onderdeel a van laatstgenoemd artikellid, de omvang van het huishouden of het huishoudinkomen voorwerp van geschil is, bij de verklaring, bedoeld in de eerste volzin, gegevens met betrekking tot dat deel uitmaken, die omvang of dat huishoudinkomen. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 
@@ -3989,11 +3964,11 @@ De huurder legt bij dit verzoek een afschrift van het voorstel en van dat schrij
 
 5. Indien de verhuurder een voorstel als bedoeld in [artikel 252 lid 1 aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01) of [artikel 252a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252a&z=2026-01-01&g=2026-01-01) bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.
 
-##### Artikel 254
+#### Artikel 254
 
 Indien de verhuurder met een voorstel van de huurder tot verlaging van de huurprijs niet instemt, kan de huurder tot uiterlijk zes weken na het tijdstip waarop de verlaging blijkens het voorstel had moeten ingaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van de huurprijs.
 
-##### Artikel 255
+#### Artikel 255
 
 1. De huurprijs van woonruimte waarin of waaraan gedurende de huurtijd door of vanwege de verhuurder:
 
@@ -4007,11 +3982,11 @@ is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat to
 
 3. Onder gehandicapte in het eerste lid wordt verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
 
-##### Artikel 256
+#### Artikel 256
 
 Vervallen
 
-##### Artikel 257
+#### Artikel 257
 
 1. Voor de vordering van de huurder tot vermindering van de huurprijs op grond van [artikel 207 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=207&z=2026-01-01&g=2026-01-01) in verbinding met [artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=242&z=2026-01-01&g=2026-01-01) geldt een met inachtneming van de volgende leden toe te passen vervaltermijn van zes maanden na de aanvang van de dag volgend op die waarop de huurder van het gebrek kennis heeft gegeven aan de verhuurder.
 
@@ -4021,7 +3996,7 @@ Vervallen
 
 #### Paragraaf 2. Andere vergoedingen
 
-##### Artikel 258
+#### Artikel 258
 
 1. Indien de huurovereenkomst meer omvat dan het enkele gebruik van de woonruimte en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurder aan de verhuurder een voorstel doen tot vaststelling van de huurprijs en het voorschot van de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten.
 
@@ -4039,7 +4014,7 @@ Vervallen
 
 4. Indien een overeenkomst tot vaststelling van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 1 en lid 2, aanhef en onder b, c of d, blijft de voordien geldende prijs verschuldigd, tenzij blijkt dat de verhuurder niet door het verzuim is benadeeld.
 
-##### Artikel 259
+#### Artikel 259
 
 1. De betalingsverplichting van de huurder met betrekking tot kosten voor de nutsvoorzieningen met een individuele meter en de servicekosten beloopt het bedrag dat door de huurder en verhuurder is overeengekomen. Bij gebreke van overeenstemming beloopt de betalingsverplichting met betrekking tot kosten voor de nutsvoorzieningen met een individuele meter het bedrag dat in overeenstemming is met de voor de berekening daarvan geldende wettelijke voorschriften of met hetgeen als een redelijke vergoeding voor de geleverde zaken en diensten kan worden beschouwd, en met betrekking tot servicekosten het bedrag dat bij ministeriële regeling is vastgesteld.
 
@@ -4049,7 +4024,7 @@ Vervallen
 
 4. De verhuurder biedt de huurder desverzocht de gelegenheid, na verstrekking van het overzicht bedoeld in lid 2, tot inzage van de aan het overzicht ten grondslag liggende boeken en andere bescheiden of van afschriften daarvan.
 
-##### Artikel 260
+#### Artikel 260
 
 1. Indien de huurder en verhuurder geen overeenstemming hebben kunnen bereiken over een betalingsverplichting van de huurder met betrekking tot kosten voor nutsvoorzieningen met een individuele meter en servicekosten, kan de huurder of verhuurder de huurcommissie verzoeken uitspraak daarover te doen.
 
@@ -4057,7 +4032,7 @@ Vervallen
 
 3. Bij het verzoek neemt de verhuurder de betalingsverplichting van de huurder met betrekking tot de servicekosten op in een bij ministeriële regeling vastgesteld formulier.
 
-##### Artikel 261
+#### Artikel 261
 
 1. Het voorschotbedrag dat de huurder krachtens overeenkomst of rechterlijke uitspraak ter zake van de kosten voor nutsvoorzieningen met een individuele meter verschuldigd is, mag, tenzij na het ingaan van de huur anders is overeengekomen, slechts worden verhoogd:
 
@@ -4071,29 +4046,29 @@ Vervallen
 
 #### Paragraaf 3. Slotbepalingen
 
-##### Artikel 262
+#### Artikel 262
 
 1. Wanneer de huurcommissie op een verzoek van de huurder of verhuurder als bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&z=2026-01-01&g=2026-01-01) uitspraak heeft gedaan, worden zij geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van de rechter heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.
 
 2. Tegen een beslissing krachtens dit artikel is geen hogere voorziening toegelaten.
 
-##### Artikel 263
+#### Artikel 263
 
 Een wijziging van de huurprijs, vastgesteld in een uitspraak van de huurcommissie of van de rechter, mag in rekening worden gebracht met ingang van de in het voorstel tot wijziging voorgestelde dag dan wel indien de huurprijs is vastgesteld zonder dat daartoe een voorstel is gedaan, de dag waarop vaststelling is verzocht aan de huurcommissie of vaststelling is gevorderd bij de rechter. Zo in de uitspraak een latere dag van ingang wordt vastgesteld, geldt die wijziging met ingang van die latere dag.
 
-##### Artikel 264
+#### Artikel 264
 
 1. Elk in verband met de totstandkoming van een huurovereenkomst betreffende woonruimte gemaakt beding, niet de huurprijs betreffende, voorzover daarbij ten behoeve van een der partijen een niet redelijk voordeel wordt overeengekomen, is nietig.
 
 2. Elk in verband met de totstandkoming van een zodanige huurovereenkomst gemaakt beding, voorzover daarbij door of tegenover een derde enig niet redelijk voordeel wordt overeengekomen, is nietig.
 
-##### Artikel 265
+#### Artikel 265
 
 Van de bepalingen van deze onderafdeling kan niet worden afgeweken, tenzij uit die bepalingen anders voortvloeit.
 
 #### Onderafdeling 3. Medehuur en voortzetting van de huur
 
-##### Artikel 266
+#### Artikel 266
 
 1. De echtgenoot of geregistreerde partner van een huurder is van rechtswege medehuurder, zolang de woonruimte de echtgenoot of geregistreerde partner tot hoofdverblijf strekt, ongeacht of de huurovereenkomst voor dan wel na het aangaan van het huwelijk of van het geregistreerde partnerschap is gesloten.
 
@@ -4105,7 +4080,7 @@ Van de bepalingen van deze onderafdeling kan niet worden afgeweken, tenzij uit d
 
 5. In geval van echtscheiding of scheiding van tafel en bed of beëindiging van geregistreerd partnerschap kan de rechter op verzoek van een echtgenoot of geregistreerde partner bepalen wie van de echtgenoten of geregistreerde partners huurder van de woonruimte zal zijn. De rechter bepaalt tevens de dag van ingang van de huur met deze echtgenoot of partner. Op dezelfde dag eindigt de huur met de andere echtgenoot of partner.
 
-##### Artikel 267
+#### Artikel 267
 
 1. Indien op het gezamenlijk verzoek van een huurder en van een andere persoon die in de woonruimte zijn hoofdverblijf heeft en met de huurder een duurzame gemeenschappelijke huishouding heeft, alsmede van een medehuurder wanneer die er is, de verhuurder niet binnen drie maanden schriftelijk heeft verklaard er mede in te stemmen dat die andere persoon medehuurder zal zijn, kunnen de huurder en die andere persoon, alsmede een medehuurder wanneer die er is, gezamenlijk verzoeken dat de rechter zal bepalen dat deze persoon met ingang van een in het vonnis te bepalen tijdstip medehuurder zal zijn.
 
@@ -4127,7 +4102,7 @@ Van de bepalingen van deze onderafdeling kan niet worden afgeweken, tenzij uit d
 
 7. Ieder van de personen bedoeld in lid 4 kan vorderen dat de rechter zal bepalen dat een of meer van deze personen de huur met ingang van een in het vonnis te bepalen tijdstip niet langer zullen voortzetten. De rechter wijst de vordering slechts toe, indien dit naar billijkheid, met inachtneming van de omstandigheden van het geval, geboden is, met dien verstande dat hij de vordering in ieder geval toewijst, indien de eiser aantoont dat de persoon waarop de vordering betrekking heeft, zijn positie van medehuurder heeft verkregen op grond van een niet mede door de eiser aan de verhuurder gedaan verzoek of van een door hem ingestelde vordering bedoeld in lid 1.
 
-##### Artikel 268
+#### Artikel 268
 
 1. Bij overlijden van de huurder zet de medehuurder de huur als huurder voort. Hij kan de huur binnen zes maanden na het overlijden bij exploot of aangetekende brief opzeggen met ingang van de eerste dag van de tweede maand na de opzegging.
 
@@ -4151,7 +4126,7 @@ Van de bepalingen van deze onderafdeling kan niet worden afgeweken, tenzij uit d
 
 8. Van [artikel 229 leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=229&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken.
 
-##### Artikel 269
+#### Artikel 269
 
 1. De onderhuur die betrekking heeft op een zelfstandige woning waar de onderhuurder zijn hoofdverblijf heeft, wordt in geval van beëindiging van de huur tussen huurder en verhuurder voortgezet door de verhuurder.
 
@@ -4167,7 +4142,7 @@ Van de bepalingen van deze onderafdeling kan niet worden afgeweken, tenzij uit d
 
 3. Ingeval van onderverhuur welke al dan niet een zelfstandige woning vormt, zet degene die op grond van de [artikelen 266](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=266&z=2026-01-01&g=2026-01-01), [267](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=267&z=2026-01-01&g=2026-01-01) en [268](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=268&z=2026-01-01&g=2026-01-01) huurder is geworden of de huur heeft voortgezet, als onderverhuurder de huur met de onderhuurder voort.
 
-##### Artikel 270
+#### Artikel 270
 
 1. De huurder die een ruil van woonruimte wenst te bewerkstelligen, kan vorderen dat de rechter hem zal machtigen om een ander in zijn plaats als huurder te stellen. Indien op de woonruimte [hoofdstuk 2 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&hoofdstuk=2) van toepassing is, moet de eiser een ten behoeve van de voorgestelde huurder afgegeven huisvestingsvergunning als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=8) met betrekking tot woonruimte overleggen.
 
@@ -4175,13 +4150,13 @@ Van de bepalingen van deze onderafdeling kan niet worden afgeweken, tenzij uit d
 
 3. Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.
 
-##### Artikel 270a
+#### Artikel 270a
 
 Ingeval van voortzetting van de huur op grond van de[artikelen 266](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=266&z=2026-01-01&g=2026-01-01), [268](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=268&z=2026-01-01&g=2026-01-01) en [269](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=269&z=2026-01-01&g=2026-01-01) is degene die de huur voortzet, verplicht daarvan mededeling te doen aan de verhuurder.
 
 #### Onderafdeling 3. Medehuur en voortzetting van de huur
 
-##### Artikel 271
+#### Artikel 271
 
 1. In afwijking van [artikel 228 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=228&z=2026-01-01&g=2026-01-01) eindigt een voor bepaalde tijd aangegane huur niet door het enkele verloop van de huurtijd; zij kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag, niet vallend voor het verstrijken van de bepaalde tijd.
 
@@ -4207,13 +4182,13 @@ Ingeval van voortzetting van de huur op grond van de[artikelen 266](https://wett
 
 10. Dit artikel geldt niet, indien de beëindiging geschiedt met wederzijds goedvinden nadat de huur is ingegaan.
 
-##### Artikel 272
+#### Artikel 272
 
 1. Een opgezegde huurovereenkomst blijft, tenzij de huurder de overeenkomst heeft opgezegd of na de opzegging door de verhuurder schriftelijk in de beëindiging ervan heeft toegestemd, na de dag waartegen rechtsgeldig is opgezegd van rechtswege van kracht, tot de rechter onherroepelijk heeft beslist op een vordering van de verhuurder als in lid 2 bedoeld.
 
 2. De verhuurder kan, indien hij zes weken na de opzegging niet van de huurder een schriftelijke mededeling heeft ontvangen dat hij in de beëindiging van de huurovereenkomst toestemt, op de gronden vermeld in de opzegging vorderen dat de rechter het tijdstip zal vaststellen waarop de huurovereenkomst zal eindigen.
 
-##### Artikel 273
+#### Artikel 273
 
 1. Bij zijn beslissing op de vordering bedoeld in [artikel 272 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=272&z=2026-01-01&g=2026-01-01) neemt de rechter uitsluitend de in de opzegging vermelde gronden in aanmerking.
 
@@ -4221,7 +4196,7 @@ Ingeval van voortzetting van de huur op grond van de[artikelen 266](https://wett
 
 3. Indien de rechter de vordering toewijst, stelt hij tevens het tijdstip van ontruiming vast. De toewijzing geldt als een veroordeling tot ontruiming tegen dat tijdstip.
 
-##### Artikel 274
+#### Artikel 274
 
 1. De rechter kan de vordering slechts toewijzen
 
@@ -4273,7 +4248,7 @@ De bij het beding bepaalde termijn kan met wederzijds goedvinden worden verlengd
 
 - d. uitdrukkelijk in de huurovereenkomst is bedongen dat de verhuurder de huurovereenkomst na afloop van de bij dat beding overeengekomen termijn kan opzeggen ten behoeve van verkoop.
 
-##### Artikel 275
+#### Artikel 275
 
 1. Indien de rechter een vordering tot beëindiging van de huurovereenkomst op de gronden, bedoeld in [artikel 274 lid 1 onder c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) toewijst, kan hij een bedrag vaststellen dat de verhuurder aan de huurder moet betalen ter tegemoetkoming in diens verhuis- en inrichtingskosten.
 
@@ -4285,7 +4260,7 @@ De bij het beding bepaalde termijn kan met wederzijds goedvinden worden verlengd
 
 5. De verhuurder kan eventuele door de gemeente aan de huurder te verstrekken bijdragen of vergoedingen voor verhuis- of inrichtingskosten in mindering brengen op de hoogte van de bijdrage, bedoeld in het vierde lid.
 
-##### Artikel 276
+#### Artikel 276
 
 1. Indien de verhuurder de overeenkomst heeft opgezegd op de grond, bedoeld in [artikel 274 lid 1 onder c of h](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) en de vordering tot beëindiging van de huurovereenkomst is toegewezen dan wel de huurder met de beëindiging heeft ingestemd, is de verhuurder jegens de huurder tot schadevergoeding gehouden, indien de wil om het verhuurde duurzaam in eigen gebruik te nemen respectievelijk te verkopen in werkelijkheid niet aanwezig is geweest.
 
@@ -4297,13 +4272,13 @@ De bij het beding bepaalde termijn kan met wederzijds goedvinden worden verlengd
 
 5. De verhuurder is eveneens tot schadevergoeding gehouden jegens onderhuurders aan wie bevoegdelijk is onderverhuurd of die krachtens [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=269&z=2026-01-01&g=2026-01-01) bevoegd waren hun overeenkomst met de hoofdverhuurder voort te zetten. De voorgaande leden zijn van overeenkomstige toepassing.
 
-##### Artikel 277
+#### Artikel 277
 
 1. Indien de rechter de huurovereenkomst heeft verlengd, kan de verhuurder de overeenkomst opnieuw met inachtneming van [artikel 271](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=271&z=2026-01-01&g=2026-01-01) en van de in lid 2 vermelde termijnen opzeggen en overeenkomstig de [artikelen 272 tot en met 274g](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=272&z=2026-01-01&g=2026-01-01) vorderen dat de rechter het tijdstip zal vaststellen, waarop de overeenkomst zal eindigen.
 
 2. Indien de rechter de overeenkomst voor onbepaalde tijd heeft verlengd, kan de verhuurder haar niet eerder opnieuw opzeggen dan drie jaren nadat deze beslissing onherroepelijk is geworden. Indien de rechter de overeenkomst voor bepaalde tijd heeft verlengd, kan de verhuurder haar niet eerder opzeggen dan drie maanden voor het einde van de tijd waarvoor is verlengd.
 
-##### Artikel 278
+#### Artikel 278
 
 1. Een onderhuurovereenkomst van woonruimte die niet krachtens [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=269&z=2026-01-01&g=2026-01-01) na beëindiging van de hoofdhuur door de hoofdverhuurder wordt voortgezet, eindigt op het door de rechter op vordering van de hoofdverhuurder overeenkomstig [artikel 273 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=273&z=2026-01-01&g=2026-01-01) vastgestelde tijdstip van ontruiming.
 
@@ -4311,7 +4286,7 @@ De bij het beding bepaalde termijn kan met wederzijds goedvinden worden verlengd
 
 3. De hoofdhuurder tegen wie door de hoofdverhuurder een vordering wordt ingesteld, die mede de belangen van de onderhuurder raakt, is bevoegd om deze in het geding te roepen.
 
-##### Artikel 279
+#### Artikel 279
 
 1. Indien een gebrek in de zin van [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=204&z=2026-01-01&g=2026-01-01) het deel van gehuurde woonruimte dat voor de huurder en zijn gezin voor bewoning noodzakelijk is, onbewoonbaar maakt dan wel werkzaamheden tot verhelpen van een zodanig gebrek dit doen of zullen doen, is de huurder bevoegd de huur op de voet van [artikel 267 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=267) te ontbinden.
 
@@ -4319,21 +4294,21 @@ De bij het beding bepaalde termijn kan met wederzijds goedvinden worden verlengd
 
 3. [Artikel 210 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=2&artikel=210&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-##### Artikel 280
+#### Artikel 280
 
 Alvorens op de voet van [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=231&z=2026-01-01&g=2026-01-01) een ontbinding uit te spreken, kan de rechter de huurder een termijn van ten hoogste een maand toestaan om alsnog aan zijn verplichtingen te voldoen.
 
-##### Artikel 281
+#### Artikel 281
 
 1. Indien een verhuurder op wie de rechten en verplichtingen uit de huurovereenkomst op de voet van [artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=226&z=2026-01-01&g=2026-01-01) zijn overgegaan, een krachtens een geldend omgevingsplan aan het verhuurde toegedeelde functie wil verwezenlijken, ontbindt de rechter op vordering van de verhuurder de huurovereenkomst met ingang van een door hem te bepalen dag.
 
 2. De huurder en de onderhuurder aan wie bevoegdelijk is onderverhuurd of met wie de huurovereenkomst anders op de voet van [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=269&z=2026-01-01&g=2026-01-01) zou zijn voortgezet, hebben recht op schadeloosstelling. Wanneer de huurtijd of onderhuurtijd zonder de ontbinding nog een jaar of langer zou hebben geduurd, is de schadeloosstelling ten minste gelijk aan de huurprijs van twee jaren. Wanneer de huurtijd of onderhuurtijd zonder de ontbinding minder dan een jaar zou hebben geduurd, is de schadeloosstelling ten minste gelijk aan de huurprijs van een jaar. Bij de berekening van de schade wordt niet gelet op veranderingen die kennelijk zijn tot stand gebracht om de schadeloosstelling te verhogen.
 
-##### Artikel 282
+#### Artikel 282
 
 Van de [artikelen 272 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=272&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de huurder dan wel onderhuurder worden afgeweken.
 
-##### Artikel 290
+#### Artikel 290
 
 1. De bepalingen van deze afdeling zijn van toepassing op huur en verhuur van bedrijfsruimte.
 
@@ -4347,7 +4322,7 @@ Van de [artikelen 272 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Tot de in lid 2 bedoelde bedrijfsruimte worden ook gerekend de onroerende aanhorigheden, de bij het een en ander behorende grond en de, mede gelet op de bestemming van die bedrijfsruimte, afhankelijke woning.
 
-##### Artikel 291
+#### Artikel 291
 
 1. Van de bepalingen van deze afdeling kan niet ten nadele van de huurder worden afgeweken.
 
@@ -4357,13 +4332,13 @@ Van de [artikelen 272 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Het verzoek bevat, behalve de gronden waarop het berust, de tekst van de goed te keuren bedingen.
 
-##### Artikel 292
+#### Artikel 292
 
 1. De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is overeengekomen, voor die langere duur.
 
 2. De huurovereenkomst die voor vijf jaar geldt, wordt na het verstrijken daarvan van rechtswege met vijf jaar verlengd. De overeenkomst die is aangegaan voor een termijn die langer is dan vijf jaar maar korter dan tien jaar, wordt na het verstrijken van die termijn van rechtswege verlengd met een tweede termijn die zoveel korter is dan vijf jaar als de eerste termijn langer is dan vijf jaar.
 
-##### Artikel 293
+#### Artikel 293
 
 1. De overeenkomst die voor vijf jaar geldt, en de overeenkomst die is aangegaan voor een termijn langer dan vijf jaar, maar korter dan tien jaar, kunnen tegen het einde van de termijn en tegen het einde van de in [artikel 292 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=292&z=2026-01-01&g=2026-01-01) bedoelde tweede termijn door ieder van de partijen worden opgezegd. [Artikel 228 lid 1 en lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=228&z=2026-01-01&g=2026-01-01), is niet van toepassing.
 
@@ -4371,17 +4346,17 @@ Van de [artikelen 272 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Geen opzegging is vereist, indien de beëindiging geschiedt met wederzijds goedvinden, nadat de huurovereenkomst is totstandgekomen.
 
-##### Artikel 294
+#### Artikel 294
 
 Een opzegging door de verhuurder is nietig indien zij niet de gronden vermeldt die tot de opzegging hebben geleid.
 
-##### Artikel 295
+#### Artikel 295
 
 1. Een opgezegde huurovereenkomst blijft, tenzij de huurder de overeenkomst heeft opgezegd of na de opzegging door de verhuurder schriftelijk in de beëindiging ervan heeft toegestemd, na de dag waartegen rechtsgeldig is opgezegd van rechtswege van kracht, tot de rechter onherroepelijk heeft beslist op een vordering van de verhuurderals in lid 2 bedoeld. De rechter kan evenwel, indien het verweer van de huurder hem kennelijk ongegrond voorkomt, zijn toewijzend vonnis uitvoerbaar bij voorraad verklaren.
 
 2. De verhuurder kan, indien hij zes weken na de opzegging niet van de huurder een schriftelijke mededeling heeft ontvangen dat hij in de beëindiging van de huurovereenkomst toestemt, op de gronden vermeld in de opzegging vorderen dat de rechter het tijdstip zal vaststellen waarop de overeenkomst zal eindigen.
 
-##### Artikel 296
+#### Artikel 296
 
 1. Indien de opzegging is gedaan tegen het einde van de in [artikel 292 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=292&z=2026-01-01&g=2026-01-01) bedoelde eerste termijn waarvoor de huurovereenkomst geldt of is aangegaan, kan de rechter de vordering slechts toewijzen, op de grond dat:
 
@@ -4401,7 +4376,7 @@ Een opzegging door de verhuurder is nietig indien zij niet de gronden vermeldt d
 
 5. Indien de rechter de vordering toewijst, stelt hij tevens het tijdstip van de ontruiming vast. De toewijzing geldt als een veroordeling tot ontruiming tegen dat tijdstip.
 
-##### Artikel 297
+#### Artikel 297
 
 1. De rechter kan in zijn beslissing tot toewijzing van de vordering een bedrag vaststellen dat de verhuurder aan de huurder of aan degene aan wie bevoegdelijk is onderverhuurd, moet betalen ter tegemoetkoming in diens verhuis- en inrichtingskosten.
 
@@ -4409,11 +4384,11 @@ Een opzegging door de verhuurder is nietig indien zij niet de gronden vermeldt d
 
 3. Indien de verhuurder binnen deze termijn zijn vordering intrekt, geeft de rechter slechts een beslissing over de proceskosten.
 
-##### Artikel 298
+#### Artikel 298
 
 In het geval, bedoeld in [artikel 296 lid 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=296&z=2026-01-01&g=2026-01-01), kan de rechter de huurder een termijn toestaan van ten hoogste een maand om het aanbod tot het aangaan van een nieuwe overeenkomst alsnog te aanvaarden.
 
-##### Artikel 299
+#### Artikel 299
 
 1. Indien de overeenkomst is opgezegd op de grond dat een in [artikel 296 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=296&z=2026-01-01&g=2026-01-01) genoemde persoon het verhuurde persoonlijk in duurzaam gebruik wil nemen en de huurder in de beëindiging van de overeenkomst heeft toegestemd dan wel de vordering tot beëindiging van de overeenkomst op die grond dan wel op de grond, bedoeld in [artikel 296 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=296&z=2026-01-01&g=2026-01-01), is toegewezen, is de verhuurder jegens de huurder en degene die bevoegdelijk heeft ondergehuurd, tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen in werkelijkheid niet aanwezig is geweest.
 
@@ -4423,7 +4398,7 @@ In het geval, bedoeld in [artikel 296 lid 4 onder c](https://wetten.overheid.nl/
 
 4. De vordering van de huurder of onderhuurder tot schadevergoeding of tot betaling van het in lid 3 bedoelde bedrag vervalt vijf jaren na het einde van de huurovereenkomst.
 
-##### Artikel 300
+#### Artikel 300
 
 1. Indien de oorspronkelijk duur van de overeenkomst krachtens [artikel 292 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=292&z=2026-01-01&g=2026-01-01) is verlengd en de verlengde overeenkomst niet tegen het einde van de in dat lid bedoelde tweede termijn is opgezegd, wordt de overeenkomst voortgezet voor onbepaalde tijd, tenzij uit de overeenkomst een bepaalde tijd voortvloeit of partijen een bepaalde tijd overeenkomen.
 
@@ -4433,7 +4408,7 @@ In het geval, bedoeld in [artikel 296 lid 4 onder c](https://wetten.overheid.nl/
 
 4. Indien een vordering tot vaststelling van het tijdstip waarop de overeenkomst zal eindigen, is afgewezen, en uit de overeenkomst niet voortvloeit dat zij dan wordt voortgezet voor een bepaalde termijn tegen het einde waarvan zij opnieuw opgezegd kan worden, kan de overeenkomst slechts rechtsgeldig opnieuw opgezegd worden nadat een termijn van een jaar is verstreken nadat de afwijzing onherroepelijk is geworden. De rechter kan bij zijn afwijzende beslissing een langere termijn vaststellen.
 
-##### Artikel 301
+#### Artikel 301
 
 1. De [artikelen 291 tot en met 300](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=291&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op een overeenkomst van twee jaar of korter.
 
@@ -4443,11 +4418,11 @@ In het geval, bedoeld in [artikel 296 lid 4 onder c](https://wetten.overheid.nl/
 
 4. Indien voor het verstrijken van deze termijn op de voet van [artikel 291](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=291&z=2026-01-01&g=2026-01-01) goedkeuring van afwijkende bedingen is verzocht en de rechter dit verzoek afwijst, kan hij op verzoek van de verhuurder tevens bepalen dat de overeenkomst wordt beëindigd en het tijdstip van de ontruiming vaststellen. Deze vaststelling geldt als een veroordeling tot ontruiming tegen dat tijdstip.
 
-##### Artikel 302
+#### Artikel 302
 
 Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenlijk zijn echtgenoot of geregistreerde partner, op de voet van [artikel 229 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=229&z=2026-01-01&g=2026-01-01) dient te geschieden op een termijn van tenminste zes maanden. [Artikel 293 lid 2, eerste zin, en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=293&z=2026-01-01&g=2026-01-01) is van toepassing.
 
-##### Artikel 303
+#### Artikel 303
 
 1. Zowel de huurder als de verhuurder kunnen vorderen dat de rechter de huurprijs, zo deze niet overeenstemt met die van vergelijkbare bedrijfsruimte ter plaatse, nader zal vaststellen:
 
@@ -4461,7 +4436,7 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 4. Indien de rechter de huurprijs nader vaststelt, geldt deze met ingang van de dag waarop deze is gevorderd, tenzij hij op vordering van een der partijen op grond van de bijzondere omstandigheden van het geval een andere ingangsdatum vaststelt. Hij kan daarbij tevens bepalen dat de huurprijs gedurende een door hem vast te stellen termijn van ten hoogste vijf jaren geleidelijk zal worden aangepast.
 
-##### Artikel 304
+#### Artikel 304
 
 1. Een vordering tot nadere huurprijsvaststelling is slechts ontvankelijk, indien deze vergezeld gaat van een advies omtrent de nadere huurprijs, opgesteld door een of meer door partijen gezamenlijk benoemde ter zake deskundigen.
 
@@ -4469,13 +4444,13 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 3. De kosten van het advies zijn proceskosten als bedoeld in [artikel 237 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237); de [artikelen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187), [188](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=188), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191) en [244 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) zijn van overeenkomstige toepassing.
 
-##### Artikel 305
+#### Artikel 305
 
 1. De verhuurder die ingevolge een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=13) of [15 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=15) voorzieningen als bedoeld in [artikel 243 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_1&artikel=243&z=2026-01-01&g=2026-01-01) heeft getroffen, is, ook buiten de gevallen van [artikel 303 lid 1 onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=303&z=2026-01-01&g=2026-01-01), bevoegd om ter doorberekening van de kosten van deze voorzieningen, voor zover redelijk, een daarop afgestemde verhoging van de huur te verlangen. Indien de huurder en de verhuurder geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen vaststelling van de verhoging door de rechter vorderen.
 
 2. Dit artikel is, behalve op bedrijfsruimte in de zin van [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=290&z=2026-01-01&g=2026-01-01), ook van toepassing op een gebouwde onroerende zaak of gedeelte daarvan, indien deze zaak of dit gedeelte voor de uitoefening van een ander bedrijf is verhuurd dan waarop bedrijfsruimte in de zin van [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=290&z=2026-01-01&g=2026-01-01) betrekking heeft.
 
-##### Artikel 306
+#### Artikel 306
 
 1. Een onderhuurovereenkomst van bedrijfsruimte eindigt op het door de rechter op vordering van de hoofdverhuurder overeenkomstig [artikel 296 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=296&z=2026-01-01&g=2026-01-01) vastgestelde tijdstip van ontruiming.
 
@@ -4483,7 +4458,7 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 3. De hoofdhuurder tegen wie door de hoofdverhuurder een vordering wordt ingesteld, die mede de belangen van de onderhuurder raakt, is bevoegd om deze in het geding te roepen.
 
-##### Artikel 307
+#### Artikel 307
 
 1. Indien overdracht door de huurder aan een derde van het in het gehuurde door de huurder zelf of een ander uitgeoefende bedrijf gewenst wordt, kan de huurder vorderen dat hij gemachtigd wordt om die derde als huurder in zijn plaats te stellen.
 
@@ -4491,7 +4466,7 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 3. De rechter kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen.
 
-##### Artikel 308
+#### Artikel 308
 
 1. Indien de verhuurder, nadat de huurovereenkomst door opzegging zijnerzijds is geëindigd, voordeel geniet tengevolge van het feit dat het verhuurde vervolgens wordt gebezigd voor de uitoefening van een bedrijf, gelijksoortig aan het door de gewezen huurder of de onderhuurder aan wie bevoegdelijk is onderverhuurd aldaar uitgeoefende bedrijf, kan de gewezen huurder of de onderhuurder aan wie bevoegdelijk is onderverhuurd van de verhuurder een naar billijkheid te berekenen vergoeding vorderen.
 
@@ -4499,7 +4474,7 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 3. De vergoeding kan niet worden toegekend, wanneer het verhuurde voor de uitoefening van het gelijksoortige bedrijf eerst wordt gebezigd nadat sedert het eindigen van de huurovereenkomst meer dan een jaar is verstreken
 
-##### Artikel 309
+#### Artikel 309
 
 1. Indien een verhuurder op wie de rechten en verplichtingen uit de huurovereenkomst op de voet van [artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=226&z=2026-01-01&g=2026-01-01) zijn overgegaan, deze overeenkomst door opzegging doet eindigen in verband met de omstandigheid dat het gebouwde met het oog op de uitvoering van werken in het algemeen belang zal worden afgebroken, is hij aan de huurder en de onderhuurder aan wie voor die overgang bevoegdelijk is onderverhuurd, een schadeloosstelling verschuldigd wegens het verlies van de kans dat de huurverhouding zonder deze overgang zou hebben voortgeduurd.
 
@@ -4511,7 +4486,7 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 5. Dit artikel is, behalve op bedrijfsruimte in de zin van [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=290&z=2026-01-01&g=2026-01-01), ook van toepassing op een gebouwde onroerende zaak of gedeelte daarvan, indien deze zaak of dit gedeelte voor de uitoefening van een ander bedrijf is verhuurd dan waarop bedrijfsruimte in de zin van [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=290&z=2026-01-01&g=2026-01-01) betrekking heeft.
 
-##### Artikel 310
+#### Artikel 310
 
 1. Indien een verhuurder op wie de rechten en verplichtingen uit de huurovereenkomst op de voet van [artikel 226](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=226&z=2026-01-01&g=2026-01-01) zijn overgegaan, een krachtens het geldende omgevingsplan aan het verhuurde toegedeelde functie wil verwezenlijken, ontbindt de rechter op vordering van de verhuurder de huurovereenkomst met ingang van een door hem te bepalen dag.
 
@@ -4571,17 +4546,17 @@ Opzegging van de overeenkomst door de erfgenamen van de huurder, onderscheidenli
 
 ## Titel 15. Vaststellingsovereenkomst
 
-##### Artikel 750
+#### Artikel 750
 
 1. Aanneming van werk is de overeenkomst waarbij de ene partij, de aannemer, zich jegens de andere partij, de opdrachtgever, verbindt om buiten dienstbetrekking een werk van stoffelijke aard tot stand te brengen en op te leveren, tegen een door de opdrachtgever te betalen prijs in geld.
 
 2. Bestaat de tegenprestatie niet of niet geheel in geld, dan vindt deze titel toepassing, voor zover de aard van de tegenprestatie zich daartegen niet verzet.
 
-##### Artikel 751
+#### Artikel 751
 
 De aannemer is bevoegd het werk onder zijn leiding door anderen te doen uitvoeren, en ten aanzien van onderdelen ook de leiding aan anderen over te laten, zulks onverminderd zijn aansprakelijkheid voor de deugdelijke nakoming van de overeenkomst.
 
-##### Artikel 752
+#### Artikel 752
 
 1. Indien de prijs bij het sluiten van de overeenkomst niet is bepaald of slechts een richtprijs is bepaald, is de opdrachtgever een redelijke prijs verschuldigd. Bij de bepaling van de prijs wordt rekening gehouden met de door de aannemer ten tijde van het sluiten van de overeenkomst gewoonlijk bedongen prijzen en met de door hem ter zake van de vermoedelijke prijs gewekte verwachtingen.
 
@@ -4589,7 +4564,7 @@ De aannemer is bevoegd het werk onder zijn leiding door anderen te doen uitvoere
 
 3. Lid 2 is van overeenkomstige toepassing op aannemingen van werk waarbij de prijs afhankelijk is gesteld van de bij de overeenkomst geschatte tijdsduur voor de uitvoering van het werk.
 
-##### Artikel 753
+#### Artikel 753
 
 1. Indien na het sluiten van de overeenkomst kostenverhogende omstandigheden ontstaan of aan het licht komen zonder dat zulks aan de aannemer kan worden toegerekend, zal de rechter op vordering van de aannemer de overeengekomen prijs geheel of gedeeltelijk aan de kostenverhoging kunnen aanpassen, mits de aannemer bij het bepalen van de prijs geen rekening heeft behoeven te houden met de kans op zulke omstandigheden.
 
@@ -4597,17 +4572,17 @@ De aannemer is bevoegd het werk onder zijn leiding door anderen te doen uitvoere
 
 3. Het in de leden 1 en 2 bepaalde geldt slechts indien de aannemer de opdrachtgever zo spoedig mogelijk voor de noodzaak van een prijsverhoging heeft gewaarschuwd, opdat deze tijdig hetzij gebruik kan maken van het hem in [artikel 764](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=1&artikel=764&z=2026-01-01&g=2026-01-01) toegekende recht, hetzij een voorstel kan doen tot beperking of vereenvoudiging van het werk.
 
-##### Artikel 754
+#### Artikel 754
 
 1. De aannemer is bij het aangaan of het uitvoeren van de overeenkomst verplicht de opdrachtgever te waarschuwen voor onjuistheden in de opdracht voor zover hij deze kende of redelijkerwijs behoorde te kennen. Hetzelfde geldt in geval van gebreken en ongeschiktheid van zaken afkomstig van de opdrachtgever, daaronder begrepen de grond waarop de opdrachtgever een werk laat uitvoeren, alsmede fouten of gebreken in door de opdrachtgever verstrekte plannen, tekeningen, berekeningen, bestekken of uitvoeringsvoorschriften.
 
 2. Bij aanneming van een bouwwerk geschiedt een waarschuwing als bedoeld in lid 1 schriftelijk en ondubbelzinnig en wijst de aannemer de opdrachtgever tijdig op de mogelijke gevolgen voor de deugdelijke nakoming van de overeenkomst. Van dit lid kan niet ten nadele van de opdrachtgever worden afgeweken, voor zover de opdrachtgever een natuurlijk persoon is die niet handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 755
+#### Artikel 755
 
 In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het overeengekomen werk kan de aannemer slechts dan een verhoging van de prijs vorderen, wanneer hij de opdrachtgever tijdig heeft gewezen op de noodzaak van een daaruit voortvloeiende prijsverhoging, tenzij de opdrachtgever die noodzaak uit zichzelf had moeten begrijpen. Van deze bepaling kan niet ten nadele van de opdrachtgever worden afgeweken, behoudens bij een standaardregeling als bedoeld in [artikel 214 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=214).
 
-##### Artikel 756
+#### Artikel 756
 
 1. Indien reeds vóór de vastgestelde tijd van oplevering waarschijnlijk wordt dat het werk niet op tijd of niet behoorlijk zal worden opgeleverd, kan de rechter de overeenkomst op vordering van de opdrachtgever geheel of gedeeltelijk ontbinden.
 
@@ -4615,13 +4590,13 @@ In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het
 
 3. De rechter bepaalt de gevolgen van de ontbinding; hij kan de ontbinding ook doen afhangen van door hem te stellen voorwaarden.
 
-##### Artikel 757
+#### Artikel 757
 
 1. Wordt de uitvoering van het werk onmogelijk doordat de zaak waarop of waaraan het werk moet worden uitgevoerd, tenietgaat of verloren raakt zonder dat dit aan de aannemer kan worden toegerekend, dan is de aannemer gerechtigd tot een evenredig deel van de vastgestelde prijs op grondslag van de reeds verrichte arbeid en gemaakte kosten. In geval van opzet of grove schuld van de opdrachtgever is de aannemer gerechtigd tot een bedrag berekend overeenkomstig het bepaalde in [artikel 764 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=1&artikel=764&z=2026-01-01&g=2026-01-01).
 
 2. Bevond de zaak zich echter in het geval, bedoeld in het vorige lid, onder de aannemer, dan is de opdrachtgever tot geen enkele vergoeding gehouden, tenzij het tenietgaan of verloren raken aan zijn schuld was te wijten, in welk geval het vorige lid onverminderd toepassing vindt.
 
-##### Artikel 758
+#### Artikel 758
 
 1. Indien de aannemer te kennen heeft gegeven dat het werk klaar is om te worden opgeleverd en de opdrachtgever het werk niet binnen een redelijke termijn keurt en al dan niet onder voorbehoud aanvaardt dan wel onder aanwijzing van de gebreken weigert, wordt de opdrachtgever geacht het werk stilzwijgend te hebben aanvaard. Na de aanvaarding wordt het werk als opgeleverd beschouwd.
 
@@ -4631,13 +4606,13 @@ In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het
 
 4. In afwijking van het derde lid, is bij aanneming van bouwwerken de aannemer aansprakelijk voor gebreken die bij de oplevering van het werk niet zijn ontdekt, tenzij deze gebreken niet aan de aannemer zijn toe te rekenen. Van dit lid kan niet ten nadele van de opdrachtgever worden afgeweken, voor zover de opdrachtgever een natuurlijk persoon is die niet handelt in de uitoefening van een beroep of bedrijf. In andere gevallen kan van dit lid alleen ten nadele van de opdrachtgever worden afgeweken, indien dit uitdrukkelijk in de overeenkomst is opgenomen.
 
-##### Artikel 759
+#### Artikel 759
 
 1. Indien het werk na oplevering gebreken vertoont waarvoor de aannemer aansprakelijk is, moet de opdrachtgever, tenzij zulks in verband met de omstandigheden niet van hem kan worden gevergd, aan de aannemer de gelegenheid geven de gebreken binnen een redelijke termijn weg te nemen, onverminderd de aansprakelijkheid van de aannemer voor schade ten gevolge van de gebrekkige oplevering.
 
 2. De opdrachtgever kan vorderen dat de aannemer de gebreken binnen redelijke termijn wegneemt, tenzij de kosten van herstel in geen verhouding zouden staan tot het belang van de opdrachtgever bij herstel in plaats van schadevergoeding.
 
-##### Artikel 760
+#### Artikel 760
 
 1. De gevolgen van een ondeugdelijke uitvoering van het werk, die te wijten is aan gebreken of ongeschiktheid van door de aannemer gebruikte materialen of hulpmiddelen, komen voor rekening van de aannemer.
 
@@ -4645,7 +4620,7 @@ In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het
 
 3. Lid 2 is van overeenkomstige toepassing in geval van fouten of gebreken in door de opdrachtgever verstrekte plannen, tekeningen, berekeningen, bestekken of uitvoeringsvoorschriften.
 
-##### Artikel 761
+#### Artikel 761
 
 1. Elke rechtsvordering wegens een gebrek in het opgeleverde werk verjaart door verloop van twee jaren nadat de opdrachtgever ter zake heeft geprotesteerd. Indien de opdrachtgever de aannemer een termijn heeft gesteld waarbinnen deze het gebrek zal kunnen wegnemen, begint de verjaring pas te lopen bij het einde van die termijn, of zoveel eerder als de aannemer te kennen heeft gegeven het gebrek niet te zullen herstellen.
 
@@ -4655,25 +4630,25 @@ In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het
 
 4. De leden 1–3 laten onverlet de bevoegdheid van de opdrachtgever om aan een vordering tot betaling van de prijs zijn recht op vermindering daarvan door gedeeltelijke ontbinding van de overeenkomst of op schadevergoeding tegen te werpen.
 
-##### Artikel 762
+#### Artikel 762
 
 De aansprakelijkheid van de aannemer voor hem bekende verborgen gebreken die hij heeft verzwegen, kan niet worden uitgesloten of beperkt, noch kan zij aan kortere verjaringstermijnen worden onderworpen dan die voorzien in [artikel 761](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=1&artikel=761&z=2026-01-01&g=2026-01-01). Verzwijging door degenen die de aannemer met de leiding over de uitvoering van het werk heeft belast, wordt gelijkgesteld met verzwijging door de aannemer.
 
-##### Artikel 763
+#### Artikel 763
 
 Indien de aannemer na het sluiten van de overeenkomst overlijdt of duurzaam arbeidsongeschikt wordt, kan ieder der partijen de overeenkomst beëindigen, voor zover zij, gezien de aard van de overeenkomst, aan het overlijden of de duurzame arbeidsongeschiktheid een redelijk belang bij beëindiging kan ontlenen. Voor de reeds verrichte arbeid en gemaakte kosten is de opdrachtgever een naar redelijkheid en met inachtneming van alle omstandigheden te bepalen vergoeding verschuldigd.
 
-##### Artikel 764
+#### Artikel 764
 
 1. De opdrachtgever is te allen tijde bevoegd de overeenkomst geheel of gedeeltelijk op te zeggen.
 
 2. In geval van zulke opzegging zal hij de voor het gehele werk geldende prijs moeten betalen, verminderd met de besparingen die voor de aannemer uit de opzegging voortvloeien, tegen aflevering door de aannemer van het reeds voltooide werk. Indien de prijs afhankelijk was gesteld van de werkelijk door de aannemer te maken kosten, wordt de door de opdrachtgever verschuldigde prijs berekend op grondslag van de gemaakte kosten, de verrichte arbeid en de winst die de aannemer over het gehele werk zou hebben gemaakt.
 
-##### Artikel 765
+#### Artikel 765
 
 Deze afdeling is van toepassing op aanneming van werk die strekt tot de bouw van een woning, bestaande uit een onroerende zaak of bestanddeel daarvan, in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 766
+#### Artikel 766
 
 1. Een overeenkomst als bedoeld in [artikel 765](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=2&artikel=765&z=2026-01-01&g=2026-01-01) wordt schriftelijk aangegaan.
 
@@ -4681,11 +4656,11 @@ Deze afdeling is van toepassing op aanneming van werk die strekt tot de bouw van
 
 3. De leden 1–2 zijn niet van toepassing indien de overeenkomst strekt tot de bouw van een woning op grond die de opdrachtgever reeds toebehoort, en de overeenkomst niet met de koop van deze grond in verband staat.
 
-##### Artikel 767
+#### Artikel 767
 
 De opdrachtgever kan slechts worden verplicht tot het doen van betalingen die, althans bij benadering, overeenstemmen met de voortgang van de bouw of met de waarde van de aan hem overgedragen goederen, behoudens dat kan worden bedongen dat hij ter verzekering van de nakoming van zijn verplichtingen een bedrag dat niet hoger is dan 10% van de aanneemsom, in depot stort bij een notaris dan wel voor dit bedrag vervangende zekerheid stelt. Het teveel betaalde geldt als onverschuldigd betaald.
 
-##### Artikel 768
+#### Artikel 768
 
 1. De opdrachtgever kan, zonder beroep te doen op [artikel 262 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=262) en onder behoud van zijn recht op oplevering, maximaal 5% van de aanneemsom inhouden op de laatste termijn of laatste termijnen en dit bedrag in plaats van aan de aannemer te betalen, in depot storten bij een notaris.
 
@@ -4697,11 +4672,11 @@ De opdrachtgever kan slechts worden verplicht tot het doen van betalingen die, a
 
 5. Indien de opdrachtgever aan de aannemer schadevergoeding verschuldigd is wegens de in lid 1 bedoelde depotstorting of de door de aannemer gestelde gelijkwaardige zekerheid, wordt deze gesteld op de wettelijke rente bedoeld in [artikel 119 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119). Gedurende de drie maanden bedoeld in lid 3, is zij niet verschuldigd, zelfs niet indien geen gebreken worden geconstateerd.
 
-##### Artikel 769
+#### Artikel 769
 
 Van deze afdeling en voor zover voor de toepassing van [artikel 768](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=2&artikel=768&z=2026-01-01&g=2026-01-01) nodig, van [artikel 262 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=262), kan niet ten nadele van de opdrachtgever worden afgeweken, behoudens bij een standaardregeling als bedoeld in [artikel 214 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=214).
 
-##### Artikel 658b
+#### Artikel 658b
 
 1. De rechter wijst een vordering tot nakoming van de verplichting, bedoeld in [artikel 658a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=6&artikel=658a&z=2026-01-01&g=2026-01-01), af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), omtrent de nakoming van die verplichting door de werkgever.
 
@@ -4743,7 +4718,7 @@ Van deze afdeling en voor zover voor de toepassing van [artikel 768](https://wet
 
 ## Titel 7b. Betalingstransactie
 
-##### Artikel 907
+#### Artikel 907
 
 1. Een overeenkomst strekkende tot vergoeding van schade die is veroorzaakt door een gebeurtenis of gelijksoortige gebeurtenissen, gesloten door één of meer stichtingen of verenigingen met volledige rechtsbevoegdheid met één of meer andere partijen, die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op gezamenlijk verzoek van deze stichtingen, verenigingen en andere partijen verbindend worden verklaard voor personen aan wie de schade is veroorzaakt, mits de stichtingen of verenigingen de belangen van deze personen ingevolge hun statuten behartigen. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.
 
@@ -4799,7 +4774,7 @@ Van deze afdeling en voor zover voor de toepassing van [artikel 768](https://wet
 
 8. De personen ten behoeve van wie de overeenkomst is gesloten zijn bevoegd om gedurende de tijd dat het verzoek in behandeling is en zolang daarop niet onherroepelijk is beslist, de nakoming van op hun rustende verbintenissen op te schorten voor zover de overeenkomst voorziet in de beëindiging van een geschil daaromtrent.
 
-##### Artikel 908
+#### Artikel 908
 
 1. Zodra het verzoek tot verbindendverklaring is toegewezen heeft de overeenkomst, bedoeld in [artikel 907](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=15&artikel=907&z=2026-01-01&g=2026-01-01), tussen partijen en de gerechtigden tot een vergoeding de gevolgen van een vaststellingsovereenkomst waarbij ieder der gerechtigden als partij geldt.
 
@@ -4811,7 +4786,7 @@ Van deze afdeling en voor zover voor de toepassing van [artikel 768](https://wet
 
 5. Nadat de overeenkomst verbindend is verklaard kunnen de partijen die de overeenkomst hebben gesloten zich niet beroepen op de vernietigingsgronden als bedoeld in de [artikelen 44 lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=44) en [228 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=228), en kan een gerechtigde tot een vergoeding zich niet beroepen op de vernietigingsgrond als bedoeld in [artikel 904 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=15&artikel=904&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 909
+#### Artikel 909
 
 1. Een ingevolge de overeenkomst genomen definitieve beslissing over de vergoeding die een gerechtigde tot een vergoeding toekomt, is bindend. Indien evenwel deze beslissing, of de wijze waarop deze tot stand is gekomen, naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is, is de rechter bevoegd over de vergoeding te beslissen.
 
@@ -4823,7 +4798,7 @@ Van deze afdeling en voor zover voor de toepassing van [artikel 768](https://wet
 
 5. Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst kunnen voldoen door betaling van een in de overeenkomst vastgesteld bedrag, en het totaalbedrag van de verschuldigde vergoedingen het totaal te voldoene bedrag overschrijdt, worden, nadat dit gebleken is, de nadien nog verschuldigde vergoedingen naar evenredigheid verminderd tot het beloop van het dan nog overgebleven bedrag. Naar gelang van onder meer de aard en de ernst van de schade kan in de overeenkomst een van dan de in de eerste zin afwijkende wijze van vermindering worden opgenomen. De betaling van een nog verschuldigde vergoeding kan worden opgeschort indien in verband met het in de eerste en tweede zin bepaalde op redelijke gronden kan worden betwijfeld welk bedrag dient te worden voldaan.
 
-##### Artikel 910
+#### Artikel 910
 
 1. Zijn naast de partij of partijen die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, andere schuldenaren hoofdelijk aansprakelijk, dan is [artikel 14 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=14) van overeenkomstige toepassing. Tenzij van een andere bedoeling blijkt, wordt de overeenkomst geacht mede een beding in te houden als in die bepaling bedoeld.
 
@@ -4835,23 +4810,23 @@ Van deze afdeling en voor zover voor de toepassing van [artikel 768](https://wet
 
 ### Afdeling 2. Lastgeving
 
-##### Artikel 925
+#### Artikel 925
 
 1. Verzekering is een overeenkomst waarbij de ene partij, de verzekeraar, zich tegen het genot van premie jegens haar wederpartij, de verzekeringnemer, verbindt tot het doen van een of meer uitkeringen, en bij het sluiten der overeenkomst voor partijen geen zekerheid bestaat, dat, wanneer of tot welk bedrag enige uitkering moet worden gedaan, of ook hoe lang de overeengekomen premiebetaling zal duren. Zij is hetzij schadeverzekering, hetzij sommenverzekering.
 
 2. Persoonsverzekering is de verzekering welke het leven of de gezondheid van een mens betreft.
 
-##### Artikel 926
+#### Artikel 926
 
 1. Onder uitkering is begrepen een prestatie anders dan in geld.
 
 2. In deze afdeling wordt onder de tot uitkering gerechtigde verstaan degene die in geval van verwezenlijking van het risico krachtens de verzekering recht heeft op uitkering of door aanvaarding van de aanwijzing recht op uitkering kan krijgen.
 
-##### Artikel 927
+#### Artikel 927
 
 De bepalingen van deze titel zijn niet van toepassing op herverzekering.
 
-##### Artikel 928
+#### Artikel 928
 
 1. De verzekeringnemer is verplicht vóór het sluiten van de overeenkomst aan de verzekeraar alle feiten mede te delen die hij kent of behoort te kennen, en waarvan, naar hij weet of behoort te begrijpen, de beslissing van de verzekeraar of, en zo ja, op welke voorwaarden, hij de verzekering zal willen sluiten, afhangt of kan afhangen.
 
@@ -4865,7 +4840,7 @@ De bepalingen van deze titel zijn niet van toepassing op herverzekering.
 
 6. Indien de verzekering is gesloten op de grondslag van een door de verzekeraar opgestelde vragenlijst, kan deze zich er niet op beroepen dat vragen niet zijn beantwoord, of feiten waarnaar niet was gevraagd, niet zijn medegedeeld, en evenmin dat een in algemene termen vervatte vraag onvolledig is beantwoord, tenzij is gehandeld met het opzet de verzekeraar te misleiden.
 
-##### Artikel 929
+#### Artikel 929
 
 1. De verzekeraar die ontdekt dat aan de in [artikel 928](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=928&z=2026-01-01&g=2026-01-01) omschreven mededelingsplicht niet is voldaan, kan de gevolgen daarvan slechts inroepen indien hij de verzekeringnemer binnen twee maanden na de ontdekking op de niet-nakoming wijst onder vermelding van de mogelijke gevolgen.
 
@@ -4873,7 +4848,7 @@ De bepalingen van deze titel zijn niet van toepassing op herverzekering.
 
 3. De verzekeringnemer kan de overeenkomst met dadelijke ingang opzeggen binnen twee maanden nadat de verzekeraar overeenkomstig lid 1 heeft gehandeld of zich bij de verwezenlijking van het risico op de niet-nakoming van de mededelingsplicht beroept. Bij persoonsverzekering kan de verzekeringnemer de beëindiging beperken tot de persoon, wiens risico het beroep op de niet-nakoming betreft.
 
-##### Artikel 930
+#### Artikel 930
 
 1. Indien aan de in [artikel 928](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=928&z=2026-01-01&g=2026-01-01) omschreven mededelingsplicht niet is voldaan, bestaat alleen recht op uitkering overeenkomstig de leden 2 en 3.
 
@@ -4885,11 +4860,11 @@ De bepalingen van deze titel zijn niet van toepassing op herverzekering.
 
 5. In afwijking van de leden 2 en 3 is geen uitkering verschuldigd aan de verzekeringnemer of de derde, bedoeld in [artikel 928 lid 2 of lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=928&z=2026-01-01&g=2026-01-01), die heeft gehandeld met het opzet de verzekeraar te misleiden. Evenmin is een uitkering verschuldigd aan de derde indien de verzekeringnemer, met het opzet de verzekeraar te misleiden, niet heeft voldaan aan de mededelingsplicht betreffende de derde.
 
-##### Artikel 931
+#### Artikel 931
 
 De verzekeraar kan zich niet beroepen op de vernietigingsgronden als bedoeld in de [artikelen 44 lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=44) en [228 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=228).
 
-##### Artikel 932
+#### Artikel 932
 
 1. De verzekeraar geeft zo spoedig mogelijk een akte, polis genaamd, af, waarin de overeenkomst is vastgelegd. Een polis die is opgemaakt op een wijze als bedoeld in [artikel 156a lid 1 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=156a) moet zijn voorzien van een elektronische handtekening als bedoeld in artikel 3, onderdeel 12, van verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257). De verzekeraar is niet verplicht een polis af te geven indien de aard van de overeenkomst afwijkend gebruik rechtvaardigt en de verzekeringnemer bij afgifte van de polis geen belang heeft.
 
@@ -4897,7 +4872,7 @@ De verzekeraar kan zich niet beroepen op de vernietigingsgronden als bedoeld in 
 
 3. Indien een door een verzekeraar afgegeven bewijsstuk verloren is gegaan, geeft hij desverlangd tegen vergoeding van de kosten een nieuw bewijsstuk af. Indien het bewijsstuk aan toonder of order is gesteld en bij een verzekering van zaken die door middel van documenten plegen te worden verhandeld, kan de verzekeraar als voorwaarde voor het doen van een uitkering aan de houder van een nieuw bewijsstuk verlangen, dat hem door de houder gedurende de tijd dat de verzekeraar tot betaling kan worden gedwongen, zekerheid wordt gesteld. Een instemming als bedoeld in [artikel 156a lid 2 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=156a) ziet, zolang zij niet is herroepen, eveneens op een nieuw bewijsstuk als bedoeld in de eerste zin.
 
-##### Artikel 933
+#### Artikel 933
 
 1. Alle mededelingen waartoe de bepalingen van deze titel of de overeenkomst de verzekeraar aanleiding geven, geschieden schriftelijk. De verzekeraar kan zich daarbij houden aan de laatste hem bekende woonplaats van de geadresseerde.
 
@@ -4905,17 +4880,17 @@ De verzekeraar kan zich niet beroepen op de vernietigingsgronden als bedoeld in 
 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
-##### Artikel 934
+#### Artikel 934
 
 Het niet nakomen van de verplichting tot betaling van de vervolgpremie kan eerst leiden tot beëindiging of schorsing van de verzekeringsovereenkomst of de dekking, nadat de schuldenaar na de vervaldag onder vermelding van de gevolgen van het uitblijven van betaling vruchteloos is aangemaand tot betaling binnen een termijn van 14 dagen, aanvangende de dag na aanmaning. De eerste zin geldt niet voor het geval bedoeld in [artikel 83, onder c, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=83).
 
-##### Artikel 935
+#### Artikel 935
 
 1. De verzekeraar kan hetgeen hij schuldig is aan de tot uitkering gerechtigde die geen schuldenaar van de premie is, verrekenen met opeisbare premie voor dezelfde verzekering, de schade wegens vertraging in de voldoening daarvan en de kosten, bedoeld in [artikel 96 lid 2, onder c, van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96). De eerste zin geldt niet bij verzekeringen die aan toonder of order zijn gesteld.
 
 2. Bij een verzekering tegen aansprakelijkheid kan de verzekeraar in afwijking van [artikel 127 lid 2 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=127) geen andere premie, schade en kosten als bedoeld in lid 1 verrekenen met hetgeen hij aan de tot uitkering gerechtigde schuldig is, dan die ter zake van dezelfde verzekering.
 
-##### Artikel 936
+#### Artikel 936
 
 1. Heeft een tussenpersoon zich bij de verzekeringsovereenkomst tegenover de verzekeraar tot betaling van premie en kosten als eigen schuld verbonden, dan is de verzekeringnemer jegens de verzekeraar gekweten voor zover de premie en kosten voor rekening van de tussenpersoon zijn gekomen of aan deze zijn voldaan. De verzekeringnemer is tot vergoeding van die premie en kosten aan de tussenpersoon gehouden.
 
@@ -4937,11 +4912,11 @@ Het niet nakomen van de verplichting tot betaling van de vervolgpremie kan eerst
 
 6. Wanneer de tussenpersoon de uitkering namens de tot uitkering gerechtigde in ontvangst neemt, is hij bevoegd om de vergoeding als bedoeld in lid 1, tweede zin, te verrekenen met hetgeen hij aan de tot uitkering gerechtigde schuldig is tot het bedrag van zijn uit de leden 2, 4 en 5 voortvloeiende aanspraken.
 
-##### Artikel 937
+#### Artikel 937
 
 De verzekeraar die een uitkering doet aan de tussenpersoon, is jegens de tot uitkering gerechtigde gekweten voorzover hetgeen hij aan de tot uitkering gerechtigde verschuldigd is aan deze laatste is voldaan, doch in ieder geval voorzover de tot uitkering gerechtigde door de betaling aan de tussenpersoon is gebaat.
 
-##### Artikel 938
+#### Artikel 938
 
 1. Behoudens het geval van opzet van de verzekeringnemer of de derde, bedoeld in [artikel 928 lid 2 of lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=928&z=2026-01-01&g=2026-01-01) om de verzekeraar te misleiden is geen premie verschuldigd indien in het geheel geen risico is gelopen. Indien over een vol verzekeringsjaar geen risico is gelopen, is over dat jaar geen premie verschuldigd. De verzekeraar heeft recht op een billijke vergoeding van de te zijnen laste gekomen kosten.
 
@@ -4949,11 +4924,11 @@ De verzekeraar die een uitkering doet aan de tussenpersoon, is jegens de tot uit
 
 3. Is slechts risico gelopen over een kleiner aantal zaken of een kleinere hoeveelheid dan was verzekerd, dan zijn de leden 1 en 2 van toepassing voor zover geen risico is gelopen.
 
-##### Artikel 939
+#### Artikel 939
 
 Behalve bij opzegging wegens opzet de verzekeraar te misleiden, wordt bij tussentijdse opzegging de lopende premie naar billijkheid verminderd.
 
-##### Artikel 940
+#### Artikel 940
 
 1. Bij opzegging tegen het einde van een verzekeringsperiode teneinde verlenging van de overeenkomst te verhinderen, wordt een termijn van twee maanden in acht genomen.
 
@@ -4969,7 +4944,7 @@ Behalve bij opzegging wegens opzet de verzekeraar te misleiden, wordt bij tussen
 
 7. De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
-##### Artikel 941
+#### Artikel 941
 
 1. Zodra de verzekeringnemer of de tot uitkering gerechtigde van de verwezenlijking van het risico op de hoogte is, of behoort te zijn, is hij verplicht aan de verzekeraar de verwezenlijking te melden. Dit geschiedt zo spoedig als redelijkerwijs mogelijk is.
 
@@ -4981,7 +4956,7 @@ Behalve bij opzegging wegens opzet de verzekeraar te misleiden, wordt bij tussen
 
 5. Het recht op uitkering vervalt indien de verzekeringnemer of de tot uitkering gerechtigde een verplichting als bedoeld in de leden 1 en 2 niet is nagekomen met het opzet de verzekeraar te misleiden, behoudens voor zover deze misleiding het verval van het recht op uitkering niet rechtvaardigt.
 
-##### Artikel 942
+#### Artikel 942
 
 1. Een rechtsvordering tegen de verzekeraar tot het doen van een uitkering verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de tot uitkering gerechtigde met de opeisbaarheid daarvan bekend is geworden.
 
@@ -4989,7 +4964,7 @@ Behalve bij opzegging wegens opzet de verzekeraar te misleiden, wordt bij tussen
 
 3. Bij verzekering tegen aansprakelijkheid wordt de verjaring in afwijking van lid 2, eerste zin, gestuit door iedere onderhandeling tussen de verzekeraar en de tot uitkering gerechtigde of de benadeelde. In dat geval begint een nieuwe verjaringstermijn van drie jaren te lopen met de aanvang van de dag, volgende op die waarop de verzekeraar hetzij de aanspraak erkent, hetzij ondubbelzinnig aan degene met wie hij onderhandelt en, indien deze een ander is, aan de tot uitkering gerechtigde heeft medegedeeld dat hij de onderhandelingen afbreekt.
 
-##### Artikel 943
+#### Artikel 943
 
 1. Van de [artikelen 931](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=931&z=2026-01-01&g=2026-01-01), [932](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=932&z=2026-01-01&g=2026-01-01), [935 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=935&z=2026-01-01&g=2026-01-01), [936](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=936&z=2026-01-01&g=2026-01-01) en [939](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=939&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken.
 
@@ -4999,25 +4974,25 @@ Behalve bij opzegging wegens opzet de verzekeraar te misleiden, wordt bij tussen
 
 ### Afdeling 8. Rechten van de werknemer bij overgang van een onderneming
 
-##### Artikel 944
+#### Artikel 944
 
 Schadeverzekering is de verzekering strekkende tot vergoeding van vermogensschade die de verzekerde zou kunnen lijden.
 
-##### Artikel 945
+#### Artikel 945
 
 In deze afdeling wordt onder verzekerde verstaan degene die in geval van door hem geleden schade krachtens de verzekering recht heeft op vergoeding of door aanvaarding van de aanwijzing recht op vergoeding kan krijgen.
 
-##### Artikel 946
+#### Artikel 946
 
 1. De overeenkomst dekt slechts belangen van de verzekeringnemer, tenzij anders is overeengekomen.
 
 2. Indien ingevolge een huwelijk of geregistreerd partnerschap een zaak in een gemeenschap valt, zijn bij een verzekering van die zaak de deelgenoten voor hun belang verzekerde.
 
-##### Artikel 947
+#### Artikel 947
 
 De verzekeringnemer kan de aanwijzing van een derde aan wie in geval van schade een uitkering moet worden gedaan, slechts herroepen met medewerking van de verzekeraar of van de derde. Met betrekking tot een reeds gevallen schade kunnen de verzekeringnemer en de verzekeraar de aanwijzing ook niet gezamenlijk ongedaan maken.
 
-##### Artikel 948
+#### Artikel 948
 
 1. Bij overdracht van een zaak of een beperkt recht waaraan een zaak is onderworpen, gaan de rechten en verplichtingen uit de verzekering die het belang van de vervreemder bij het behoud van de zaak dekt, met het risico op de verkrijger over, ook indien het risico al voor de overdracht overgaat. Hetzelfde geldt voor bijkomstige verzekeringen die bij diezelfde overeenkomst tot stand zijn gekomen. Geen overgang vindt plaats indien zulks voortvloeit uit de rechtshandeling waarbij het goed wordt overgedragen of uit een verklaring van de nieuwe belanghebbende aan de verzekeraar.
 
@@ -5029,27 +5004,27 @@ De verzekeringnemer kan de aanwijzing van een derde aan wie in geval van schade 
 
 5. De leden 1 tot en met 4 missen toepassing, indien de verzekering de verkrijger aanwijst als derde, bedoeld in [artikel 947](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=947&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 949
+#### Artikel 949
 
 Bij verzekeringen als bedoeld in [artikel 932 lid 3, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=932&z=2026-01-01&g=2026-01-01), geldt de houder van de polis of van een ander door de verzekeraar afgegeven bewijsstuk als verzekerde, mits het verzekerde belang bij hem berust. De [artikelen 253 lid 2 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=253), [947](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=947&z=2026-01-01&g=2026-01-01), [948](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=948&z=2026-01-01&g=2026-01-01) en [950](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=950&z=2026-01-01&g=2026-01-01) missen hier toepassing.
 
-##### Artikel 950
+#### Artikel 950
 
 Indien de verzekeringnemer overlijdt, kunnen zijn erfgenamen en de verzekeraar de overeenkomst binnen negen maanden nadat zij met dit overlijden bekend zijn geworden met inachtneming van een termijn van een maand opzeggen. Wanneer de nalatenschap van de verzekeringnemer ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) wordt verdeeld, komt de bevoegdheid van de erfgenamen, bedoeld in de vorige zin, toe aan zijn echtgenoot of geregistreerde partner.
 
-##### Artikel 951
+#### Artikel 951
 
 De verzekeraar vergoedt geen schade aan een verzekerde zaak indien die is veroorzaakt door de aard of een gebrek van die zaak.
 
-##### Artikel 952
+#### Artikel 952
 
 De verzekeraar vergoedt geen schade aan de verzekerde die de schade met opzet of door roekeloosheid heeft veroorzaakt.
 
-##### Artikel 953
+#### Artikel 953
 
 Indien een verzekering tegen aansprakelijkheid bepaalde erkenningen door de verzekerde verbiedt, heeft overtreding van dat verbod geen gevolg voor zover de erkenning juist is. Een verbod tot erkenning van feiten heeft nimmer gevolg.
 
-##### Artikel 954
+#### Artikel 954
 
 1. Indien in geval van een verzekering tegen aansprakelijkheid de verzekeraar ingevolge [artikel 941](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=941&z=2026-01-01&g=2026-01-01) de verwezenlijking van het risico is gemeld, kan de benadeelde verlangen, dat indien de verzekeraar een uitkering verschuldigd is, het bedrag dat de verzekerde daarvan ter zake van de schade van de benadeelde door dood of letsel te vorderen heeft, aan hem wordt betaald.
 
@@ -5065,17 +5040,17 @@ Indien een verzekering tegen aansprakelijkheid bepaalde erkenningen door de verz
 
 7. De leden 1 tot en met 6 missen toepassing voor zover de benadeelde schadeloos is gesteld of voor zover hem door de wet jegens de verzekeraar een eigen recht op schadevergoeding is toegekend.
 
-##### Artikel 955
+#### Artikel 955
 
 1. De verzekerde som is het hoogste bedrag van de schadevergoeding tot uitkering waarvan de verzekeraar als gevolg van eenzelfde voorval kan worden verplicht, behoudens het bij [artikel 959](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=959&z=2026-01-01&g=2026-01-01) bepaalde.
 
 2. Door een uitkering als bedoeld in lid 1, wordt de verzekerde som niet verminderd.
 
-##### Artikel 956
+#### Artikel 956
 
 Een gebouw is naar zijn herbouwwaarde, en andere zaken zijn naar hun vervangingswaarde verzekerd. Vervangingswaarde is het bedrag benodigd voor het verkrijgen van naar soort, kwaliteit, hoeveelheid, staat en ouderdom gelijkwaardige zaken.
 
-##### Artikel 957
+#### Artikel 957
 
 1. Zodra de verzekeringnemer of de verzekerde van de verwezenlijking van het risico of het ophanden zijn daarvan op de hoogte is, of behoort te zijn, is elk hunner, naar mate hij daartoe in de gelegenheid is, verplicht binnen redelijke grenzen alle maatregelen te nemen, die tot voorkoming of vermindering van de schade kunnen leiden.
 
@@ -5083,7 +5058,7 @@ Een gebouw is naar zijn herbouwwaarde, en andere zaken zijn naar hun vervangings
 
 3. Indien de verzekerde de in lid 1 bedoelde verplichting niet is nagekomen, kan de verzekeraar de uitkering verminderen met de schade die hij daardoor lijdt.
 
-##### Artikel 958
+#### Artikel 958
 
 1. Er is totaal verlies, wanneer een zaak:
 
@@ -5101,17 +5076,17 @@ Een gebouw is naar zijn herbouwwaarde, en andere zaken zijn naar hun vervangings
 
 5. Indien het bedrag van de verzekerde som lager is dan de waarde die aan de schadeberekening ten grondslag ligt, wordt de vergoeding volgens de leden 2 en 4 verminderd naar evenredigheid van hetgeen dat bedrag lager is dan de waarde.
 
-##### Artikel 959
+#### Artikel 959
 
 1. De in [artikel 957](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=957&z=2026-01-01&g=2026-01-01) bedoelde vergoeding en de redelijke kosten tot het vaststellen van de schade gemaakt, komen ten laste van de verzekeraar, ook al zou daardoor, tezamen met de vergoeding van de schade, de verzekerde som worden overschreden.
 
 2. Indien de naar de grondslag van de verzekering berekende waarde van de onbeschadigde zaak niet ten volle is verzekerd, komt de in [artikel 957](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=957&z=2026-01-01&g=2026-01-01) bedoelde vergoeding slechts met overeenkomstige toepassing van [artikel 958 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=958&z=2026-01-01&g=2026-01-01) ten laste van de verzekeraar.
 
-##### Artikel 960
+#### Artikel 960
 
 De verzekerde zal krachtens de verzekering geen vergoeding ontvangen waardoor hij in een duidelijk voordeliger positie zou geraken. De vorige zin mist toepassing bij voorafgaande taxatie van de waarde van een zaak tot stand gekomen krachtens een aan een deskundige opgedragen beslissing of krachtens een beslissing van partijen overeenkomstig het advies van een deskundige.
 
-##### Artikel 961
+#### Artikel 961
 
 1. Indien dezelfde schade door meer dan een verzekering wordt gedekt, kan de verzekerde met inachtneming van [artikel 960](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=960&z=2026-01-01&g=2026-01-01) elke verzekeraar aanspreken. De verzekeraar is daarbij bevoegd de nakoming van zijn verplichting tot schadevergoeding op te schorten totdat de verzekerde de andere verzekeringen heeft genoemd.
 
@@ -5121,7 +5096,7 @@ De verzekerde zal krachtens de verzekering geen vergoeding ontvangen waardoor hi
 
 4. De bij eenzelfde verzekering betrokken verzekeraars zijn niet verder aansprakelijk dan voor hun evenredig deel van hetgeen in totaal ten laste van die verzekering komt.
 
-##### Artikel 962
+#### Artikel 962
 
 1. Indien de verzekerde terzake van door hem geleden schade anders dan uit verzekering vorderingen tot schadevergoeding op derden heeft, gaan die vorderingen bij wijze van subrogatie op de verzekeraar over voor zover deze, al dan niet verplicht, die schade vergoedt. De verzekerde moet zich, nadat het risico zich heeft verwezenlijkt, onthouden van elke gedraging welke aan het recht van de verzekeraar tegen die derden afbreuk doet.
 
@@ -5129,7 +5104,7 @@ De verzekerde zal krachtens de verzekering geen vergoeding ontvangen waardoor hi
 
 3. De verzekeraar krijgt geen vordering op de verzekeringnemer, een mede-verzekerde, de niet van tafel en bed gescheiden echtgenoot of de geregistreerde partner van een verzekerde, de andere levensgezel van een verzekerde, noch op de bloedverwanten in de rechte lijn van een verzekerde, op een werknemer of de werkgever van de verzekerde, of op degene die in dienst staat tot dezelfde werkgever als de verzekerde. Deze regel geldt niet voor zover zulk een persoon jegens de verzekerde aansprakelijk is wegens een omstandigheid die afbreuk zou hebben gedaan aan de uitkering, indien die omstandigheid aan de verzekerde zou zijn toe te rekenen.
 
-##### Artikel 963
+#### Artikel 963
 
 1. Van de [artikelen 960](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=960&z=2026-01-01&g=2026-01-01) en [962 lid 2 en lid 3, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=2&artikel=962&z=2026-01-01&g=2026-01-01), kan niet worden afgeweken.
 
@@ -5147,15 +5122,15 @@ De verzekerde zal krachtens de verzekering geen vergoeding ontvangen waardoor hi
 
 #### Paragraaf 2. Uitvoeringstermijn en valutadatum
 
-##### Artikel 964
+#### Artikel 964
 
 Sommenverzekering is de verzekering waarbij het onverschillig is of en in hoeverre met de uitkering schade wordt vergoed. Zij is slechts toegelaten bij persoonsverzekering en bij verzekeringen welke daartoe bij algemene maatregel van bestuur, zonodig binnen daarbij vast te stellen grenzen, zijn aangewezen.
 
-##### Artikel 965
+#### Artikel 965
 
 In deze afdeling wordt verstaan onder verzekerde: degene op wiens leven of gezondheid de verzekering betrekking heeft; onder begunstigde: degene die tot het ontvangen van een uitkering is aangewezen. Onder uitkering zijn de bedragen, bedoeld in de [artikelen 978 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=978&z=2026-01-01&g=2026-01-01), [980 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=980&z=2026-01-01&g=2026-01-01), [981](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=981&z=2026-01-01&g=2026-01-01) en [983](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=983&z=2026-01-01&g=2026-01-01) begrepen.
 
-##### Artikel 966
+#### Artikel 966
 
 1. De verzekeringnemer kan door schriftelijke mededeling aan de verzekeraar:
 
@@ -5175,7 +5150,7 @@ In deze afdeling wordt verstaan onder verzekerde: degene op wiens leven of gezon
 
 4. Een aanwijzing van een begunstigde als hoofdgerechtigde tot zekerheid geldt als een aanwijzing als pandhouder. Op een aanwijzing als hoofdgerechtigde tot aflossing van een schuld is de vorige zin van overeenkomstige toepassing, tenzij de aanwijzing is beperkt tot hetgeen ter zake aan de begunstigde is verschuldigd.
 
-##### Artikel 967
+#### Artikel 967
 
 1. Tenzij van een andere bedoeling blijkt, vervalt de aanwijzing van een begunstigde, indien hij overlijdt vóórdat:
 
@@ -5197,7 +5172,7 @@ In deze afdeling wordt verstaan onder verzekerde: degene op wiens leven of gezon
 
 8. Zolang geen derde als begunstigde is aangewezen, komt het recht op uitkering toe aan de verzekeringnemer. De verzekeringnemer wordt voorts geacht zichzelf als begunstigde te hebben aangewezen voor het geval dat geen aanwijzing van een derde als begunstigde gevolg heeft.
 
-##### Artikel 968
+#### Artikel 968
 
 De aanwijzing van een derde als begunstigde kan niet worden herroepen:
 
@@ -5209,7 +5184,7 @@ De aanwijzing van een derde als begunstigde kan niet worden herroepen:
 
 - d. indien dit uit de overeenkomst voortvloeit.
 
-##### Artikel 969
+#### Artikel 969
 
 1. De begunstigde derde verkrijgt zijn recht op uitkering door aanvaarding van zijn aanwijzing. In afwijking van [artikel 253 leden 3 en 4 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=253) kan hij slechts aanvaarden door een tot de verzekeraar gerichte verklaring. Tenzij de aanwijzing onherroepelijk is volgens [artikel 968, onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=1&artikel=968&z=2026-01-01&g=2026-01-01), kan de begunstigde slechts schriftelijk aanvaarden met op gelijke wijze aan de verzekeraar kenbaar gemaakte toestemming van de verzekeringnemer.
 
@@ -5217,13 +5192,13 @@ De aanwijzing van een derde als begunstigde kan niet worden herroepen:
 
 3. De begunstigde derde maakt de aanvaarding van zijn aanwijzing ongedaan door afstand te doen van zijn recht op uitkering.
 
-##### Artikel 970
+#### Artikel 970
 
 1. De rechten van de verzekeringnemer uit een sommenverzekering kunnen, onverminderd de tweede zin, slechts gezamenlijk worden overgedragen. Uit een sommenverzekering voortvloeiende vorderingsrechten kunnen afzonderlijk worden overgedragen, voor zover uit de wet of de overeenkomst niet anders voortvloeit.
 
 2. Levering van rechten uit een verzekering vereist een daartoe bestemde akte en schriftelijke mededeling daarvan aan de verzekeraar door de vervreemder of de verkrijger.
 
-##### Artikel 971
+#### Artikel 971
 
 1. Bij het vestigen van een pandrecht op uit een sommenverzekering voortvloeiende rechten mist [artikel 239 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=239) toepassing.
 
@@ -5231,7 +5206,7 @@ De aanwijzing van een derde als begunstigde kan niet worden herroepen:
 
 3. In afwijking van lid 2 kan de pandhouder een overschot als bedoeld in [artikel 253 lid 1, tweede zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=253) ook afdragen aan de verzekeraar. De verzekeraar is het bedrag verschuldigd aan de hoofdgerechtigde.
 
-##### Artikel 972
+#### Artikel 972
 
 1. De verzekeringnemer kan zijn uit de overeenkomst voortvloeiende rechten slechts uitoefenen met schriftelijke toestemming:
 
@@ -5241,43 +5216,43 @@ De aanwijzing van een derde als begunstigde kan niet worden herroepen:
 
 2. Indien uitoefening van de in lid 1 bedoelde rechten niet zou leiden tot wijziging van de rechtspositie van de begunstigde, onderscheidenlijk de beperkt gerechtigde, is daarvoor diens toestemming niet vereist.
 
-##### Artikel 973
+#### Artikel 973
 
 Aan de overeenkomst kunnen geen rechten worden ontleend door degeen die onherroepelijk veroordeeld is ter zake dat hij de verwezenlijking van het risico opzettelijk teweeg heeft gebracht of daaraan opzettelijk meegewerkt heeft.
 
-##### Artikel 974
+#### Artikel 974
 
 Van de vormvoorschriften van de [artikelen 966 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=1&artikel=966&z=2026-01-01&g=2026-01-01) en [969 lid 1, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=1&artikel=969&z=2026-01-01&g=2026-01-01), en van de [artikelen 972](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=1&artikel=972&z=2026-01-01&g=2026-01-01) en [973](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=1&artikel=973&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken.
 
 #### § 2. Levensverzekering
 
-##### Artikel 975
+#### Artikel 975
 
 Levensverzekering is de in verband met het leven of de dood gesloten sommenverzekering met dien verstande dat ongevallenverzekering niet als levensverzekering wordt beschouwd.
 
-##### Artikel 976
+#### Artikel 976
 
 De [artikelen 978 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=978&z=2026-01-01&g=2026-01-01), [980 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=980&z=2026-01-01&g=2026-01-01) en [981](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=981&z=2026-01-01&g=2026-01-01), en [artikel 986](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=986&z=2026-01-01&g=2026-01-01) voor zover het op deze bepalingen betrekking heeft, missen toepassing bij verzekeringen strekkende tot voorziening in de kosten van lijkbezorging. Bij algemene maatregel van bestuur kunnen hiervoor nadere maatstaven worden gesteld. De waarde van deze verzekeringen en de uit deze verzekeringen voortvloeiende rechten zijn niet vatbaar voor beslag en blijven buiten het faillissement van of de toepassing van de schuldsaneringsregeling op de verzekeringnemer en vereffening van zijn nalatenschap.
 
-##### Artikel 977
+#### Artikel 977
 
 1. Behoudens het elders in deze titel bepaalde kan de verzekering niet door de verzekeraar worden opgezegd of ontbonden, noch krachtens enig beding vervallen. De eerste zin staat niet in de weg aan een beding dat de verzekering eindigt of door de verzekeraar kan worden opgezegd, indien zij als gevolg van in de overeenkomst voorziene verrekening van premie, bedongen rente en kosten niet langer premievrije waarde of afkoopwaarde heeft.
 
 2. Behoudens het elders in deze afdeling bepaalde kan de verzekeraar de verzekering slechts afkopen of premievrij voortzetten met medewerking van de verzekeringnemer, verkregen na het aangaan van de overeenkomst.
 
-##### Artikel 978
+#### Artikel 978
 
 1. De verzekeringnemer heeft het recht de verzekering, voor zover deze stellig voorziet in een of meer uitkeringen, geheel of gedeeltelijk door de verzekeraar te doen afkopen. Door afkoop eindigt de verzekering, behoudens voor zover uit de verzekering nog uitkeringen kunnen voortvloeien. De afkoopwaarde komt de verzekeringnemer toe.
 
 2. Indien de verzekering premievrije waarde heeft, komt de verzekeringnemer het recht toe, haar premievrij te doen voortzetten. Dit recht kan worden uitgesloten voor het geval dat bij premievrijmaking tegen verminderde bedragen de hoogte van de verminderde uitkering of uitkeringen beneden een bij algemene maatregel van bestuur vast te stellen grens zou blijven.
 
-##### Artikel 979
+#### Artikel 979
 
 1. De verzekeringnemer heeft het recht de verzekering als bedoeld in [artikel 978 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=978&z=2026-01-01&g=2026-01-01) tot het bedrag van de afkoopwaarde bij de verzekeraar te belenen op bij deze gebruikelijke voorwaarden.
 
 2. De verzekeraar mag het bedrag dat hij ter zake van de belening betaalt, vermeerderd met rente en kosten, voor zover het hem niet wordt terugbetaald, in mindering brengen op de contante waarde van periodieke uitkeringen, en inhouden op betalingen uit hoofde of ten laste van de verzekering.
 
-##### Artikel 980
+#### Artikel 980
 
 1. Het niet-betalen van vervolgpremie heeft eerst gevolg, indien de verzekeraar na de vervaldag de verzekeringnemer, de begunstigde, indien deze zijn aanwijzing heeft aanvaard, de pandhouder en de beslaglegger door een mededeling op dat gevolg heeft gewezen en betaling binnen een daarbij op ten minste één maand gestelde termijn is uitgebleven.
 
@@ -5285,17 +5260,17 @@ De [artikelen 978 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&
 
 3. In afwijking van lid 1 kan worden bedongen dat van de vervaldag af rente en kosten verschuldigd zijn.
 
-##### Artikel 981
+#### Artikel 981
 
 Overlijdt de verzekerde ten gevolge van een van het risico uitgesloten oorzaak en heeft de verzekering afkoopwaarde, dan wordt de verzekeraar een bedrag verschuldigd gelijk aan de afkoopwaarde berekend naar de dag voorafgaande aan het overlijden. Dat bedrag komt de begunstigde toe. Heeft de verzekering geen afkoopwaarde, maar wel premievrije waarde, dan wordt de verzekeringnemer geacht de dag vóór het overlijden het recht te hebben uitgeoefend als bedoeld in [artikel 978 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=978&z=2026-01-01&g=2026-01-01) en wordt de verzekerde geacht te zijn overleden door een niet van het risico uitgesloten oorzaak.
 
-##### Artikel 982
+#### Artikel 982
 
 1. Indien de leeftijd of het geslacht van de verzekerde onjuist is opgegeven, wordt de verzekering geacht te zijn gesloten tot de aan de juiste leeftijd of het juiste geslacht aangepaste uitkering, of uitkeringen, bij handhaving van hetgeen omtrent de premiebetaling is overeengekomen. De [artikelen 929](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=929&z=2026-01-01&g=2026-01-01) en [930](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=930&z=2026-01-01&g=2026-01-01) en [983](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=983&z=2026-01-01&g=2026-01-01) missen in zoverre toepassing.
 
 2. Lid 1 mist toepassing indien de verzekeraar bij kennis van de juiste leeftijd of het juiste geslacht geen verzekering zou hebben gesloten.
 
-##### Artikel 983
+#### Artikel 983
 
 1. Indien een verzekering die de verzekeringnemer krachtens wet of overeenkomst kan doen afkopen, overeenkomstig [artikel 929](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=929&z=2026-01-01&g=2026-01-01) wordt opgezegd, verkrijgt de verzekeringnemer recht op de afkoopwaarde van de dag vóór haar beëindiging.
 
@@ -5303,7 +5278,7 @@ Overlijdt de verzekerde ten gevolge van een van het risico uitgesloten oorzaak e
 
 3. De verzekeraar die ingevolge artikel 929 de verzekeringnemer op het niet nakomen van [artikel 928](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=1&artikel=928&z=2026-01-01&g=2026-01-01) wijst onder voorbehoud van zijn rechten of die de gevolgen van dat niet nakomen inroept, stelt de begunstigde die zijn aanwijzing heeft aanvaard, en de pandhouder daarvan in kennis. In het geval, bedoeld in de eerste zin, stelt de verzekeraar ook de beslaglegger in kennis, tenzij nog geen verklaring als bedoeld in [artikel 476a, eerste lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) is gedaan.
 
-##### Artikel 984
+#### Artikel 984
 
 1. Rust een pandrecht op de rechten van de verzekeringnemer, dan kan de pandhouder de verzekering doen afkopen, tenzij de verzekeringnemer de bevoegdheid mist de verzekering te doen afkopen. Tevens kan de pandhouder de begunstiging wijzigen ten behoeve van de verzekeringnemer, voor zover deze niet onherroepelijk is. Hij kan de verzekering slechts doen afkopen indien de schuldenaar in verzuim is gekomen en nadat hij daarna zijn voornemen tot het doen afkopen ten minste vier weken tevoren, bij aangetekende brief of bij deurwaardersexploit, aan de verzekeringnemer heeft medegedeeld. De verzekeraar is niet gehouden te onderzoeken of de schuldenaar in verzuim is. De pandhouder doet een afschrift van de brief of het exploit, bedoeld in de derde zin, toekomen aan de verzekeraar.
 
@@ -5313,11 +5288,11 @@ Overlijdt de verzekerde ten gevolge van een van het risico uitgesloten oorzaak e
 
 4. De pandhouder is niet bevoegd tot verkoop overeenkomstig [artikel 248 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=248).
 
-##### Artikel 985
+#### Artikel 985
 
 Een rechtsvordering tegen de verzekeraar tot het doen van een uitkering verjaart door verloop van vijf jaar na de dag waarop die vordering opeisbaar is geworden, tenzij een langere termijn is bedongen.
 
-##### Artikel 986
+#### Artikel 986
 
 1. Van [artikel 984](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=17&afdeling=3&paragraaf=2&artikel=984&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken.
 
@@ -5329,21 +5304,21 @@ Een rechtsvordering tegen de verzekeraar tot het doen van een uitkering verjaart
 
 ## Titel 18. Lijfrente
 
-##### Artikel 990
+#### Artikel 990
 
 Lijfrente is het van het in leven zijn van één of meer personen afhankelijke recht op een periodieke uitkering in geld.
 
-##### Artikel 991
+#### Artikel 991
 
 1. Indien een uitkering op de vervaldag niet is betaald en ook binnen een maand na een schriftelijke aanmaning nog niet is voldaan, kan de gerechtigde de lijfrente, voor zover nog verschuldigd, bij een schriftelijke mededeling aan de schuldenaar omzetten in een vordering tot vergoeding van het bedrag dat is vereist voor het kopen van een gelijke lijfrente.
 
 2. Nochtans is de schuldenaar van de lijfrente bevoegd de nakoming van zijn verbintenis op te schorten indien hij op redelijke gronden betwijfelt of het lijf nog in leven is.
 
-##### Artikel 992
+#### Artikel 992
 
 Over een periode waarin het lijf overlijdt, is de rente slechts verschuldigd naar evenredigheid van het aantal dagen dat hij heeft geleefd. Indien de rente vooruit moest worden betaald blijft zij over de gehele termijn verschuldigd.
 
-##### Artikel 51
+#### Artikel 51
 
 In deze titel wordt verstaan onder:
 
@@ -5373,7 +5348,7 @@ In deze titel wordt verstaan onder:
 
 - –. de verplichtingen van partijen worden verrekend en alleen het saldo verschuldigd is.
 
-##### Artikel 52
+#### Artikel 52
 
 1. Deze titel is van toepassing op financiëlezekerheidsovereenkomsten waarbij ten minste een van de partijen is:
 
@@ -5391,7 +5366,7 @@ In deze titel wordt verstaan onder:
 
 2. Deze titel is niet van toepassing indien een van de partijen bij een financiëlezekerheidsovereenkomst een natuurlijke persoon is die niet handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 53
+#### Artikel 53
 
 1. Bij een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht kan worden bedongen dat de zekerheidsnemer de verpande goederen kan gebruiken of verkopen en de opbrengst behouden.
 
@@ -5403,7 +5378,7 @@ In deze titel wordt verstaan onder:
 
 5. Dit artikel is niet van toepassing indien de financiëlezekerheidsovereenkomst strekt tot verpanding van een kredietvordering in de zin van [artikel 51 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2&artikel=51&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 54
+#### Artikel 54
 
 1. Tenzij anders is bedongen in een financiëlezekerheidsovereenkomst tot de vestiging van een pandrecht, is de zekerheidsnemer, wanneer aan de voorwaarden van een executiegrond wordt voldaan, bevoegd:
 
@@ -5421,11 +5396,11 @@ In deze titel wordt verstaan onder:
 
 5. De [artikelen 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=235), [248 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=248), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=249), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=250), [251](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=251) en [252 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=252) zijn niet van toepassing.
 
-##### Artikel 55
+#### Artikel 55
 
 Een overdracht ter nakoming van een financiëlezekerheidsovereenkomst tot overdracht is geen overdracht tot zekerheid of een overdracht die de strekking mist het goed na de overdracht in het vermogen van de verkrijger te doen vallen in de zin van [artikel 84 lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=84). De regels betreffende pandrecht zijn op een zodanige overeenkomst en de uitvoering daarvan niet van toepassing of overeenkomstige toepassing.
 
-##### Artikel 56
+#### Artikel 56
 
 Vervallen
 
@@ -5565,15 +5540,15 @@ Vervallen
 
 ## Titel 18. Lijfrente
 
-##### Artikel 311
+#### Artikel 311
 
 Pacht is de overeenkomst waarbij de ene partij, de verpachter, zich verbindt aan de andere partij, de pachter, een onroerende zaak of een gedeelte daarvan in gebruik te verstrekken ter uitoefening van de landbouw en de pachter zich verbindt tot een tegenprestatie.
 
-##### Artikel 312
+#### Artikel 312
 
 Onder landbouw wordt verstaan, steeds voorzover bedrijfsmatig uitgeoefend: akkerbouw; weidebouw; veehouderij; pluimveehouderij; tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen; de teelt van griendhout en riet; elke andere tak van bodemcultuur, met uitzondering van de bosbouw.
 
-##### Artikel 313
+#### Artikel 313
 
 1. Een hoeve is een complex bestaande uit een of meer gebouwen of gedeelten daarvan en het daarbij behorende land, dienende tot de uitoefening van de landbouw.
 
@@ -5583,21 +5558,21 @@ Onder landbouw wordt verstaan, steeds voorzover bedrijfsmatig uitgeoefend: akker
 
 4. Onder hoeve en los land worden begrepen de daarbij behorende, niet tot de uitoefening van de landbouw dienende gronden met inbegrip van de zich daarop bevindende houtopstanden.
 
-##### Artikel 314
+#### Artikel 314
 
 In deze titel wordt onder pleegkind verstaan degenen die duurzaam als eigen kind is onderhouden en opgevoed.
 
-##### Artikel 315
+#### Artikel 315
 
 Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [34 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=34) van toepassing, tenzij de verpachter aan een vastlegging van de grens overeenkomstig de [artikelen 30 tot en met 32 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=30) is gebonden.
 
-##### Artikel 316
+#### Artikel 316
 
 1. Het recht van de pachter op de vruchten van de gepachte zaak is een genotsrecht als bedoeld in [artikel 17 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=17).
 
 2. Het recht van de pachter op de vruchten omvat de bij het einde van de pacht nog te velde staande vruchten, tenzij bij ontbinding van de overeenkomst door de rechter anders wordt bepaald.
 
-##### Artikel 317
+#### Artikel 317
 
 1. De pachtovereenkomst, de overeenkomst tot wijziging en die tot beëindiging van een pachtovereenkomst moeten schriftelijk worden aangegaan.
 
@@ -5607,13 +5582,13 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 ### Afdeling 3. Goedkeuring van de pachtovereenkomst
 
-##### Artikel 318
+#### Artikel 318
 
 1. De pachtovereenkomst, de overeenkomst tot wijziging en die tot beëindiging van een pachtovereenkomst behoeven de goedkeuring van de grondkamer.
 
 2. Ten aanzien van de overeenkomst tot beëindiging van een pachtovereenkomst vervalt het vereiste van goedkeuring door de feitelijke uitvoering van de overeenkomst.
 
-##### Artikel 319
+#### Artikel 319
 
 1. De grondkamer keurt de pachtovereenkomst goed, tenzij:
 
@@ -5651,13 +5626,13 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 7. Het in de voorgaande leden bepaalde vindt overeenkomstige toepassing ten aanzien van de overeenkomst tot wijziging of beëindiging van een pachtovereenkomst.
 
-##### Artikel 320
+#### Artikel 320
 
 1. Indien de grondkamer haar goedkeuring aan de pachtovereenkomst of aan de overeenkomst tot wijziging of beëindiging van een pachtovereenkomst onthoudt, wijzigt zij de overeenkomst op het punt of de punten, welke in verband met het bepaalde in [artikel 319 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=319&z=2026-01-01&g=2026-01-01), de goedkeuring verhinderen, of vernietigt zij haar.
 
 2. De door de grondkamer gewijzigde overeenkomst geldt als een tussen partijen aangegane en goedgekeurde overeenkomst. In geval van wijziging in verband met het bepaalde in [artikel 319 lid 1, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=319&z=2026-01-01&g=2026-01-01), alsmede in geval van vernietiging regelt de grondkamer zo nodig de gevolgen.
 
-##### Artikel 321
+#### Artikel 321
 
 1. Ieder der partijen is verplicht de pachtovereenkomst of de overeenkomst tot wijziging van een pachtovereenkomst binnen twee maanden, nadat zij is aangegaan, aan de grondkamer ter goedkeuring in te zenden.
 
@@ -5667,19 +5642,19 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 4. Op de ingevolge [artikel 317 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=2&artikel=317&z=2026-01-01&g=2026-01-01) schriftelijk vastgelegde overeenkomst past de grondkamer de [artikelen 319](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=319&z=2026-01-01&g=2026-01-01) en [320](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=320&z=2026-01-01&g=2026-01-01) ambtshalve toe.
 
-##### Artikel 322
+#### Artikel 322
 
 1. Wanneer niet is voldaan aan het bepaalde in [artikel 321 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=321&z=2026-01-01&g=2026-01-01) kan de verpachter, zolang de pachtovereenkomst door de grondkamer niet is goedgekeurd, niet een rechtsvordering tot betaling van de pachtprijs tegen de pachter instellen en geldt de pachtovereenkomst voor onbepaalde tijd, zonder dat zij door een van de partijen kan worden opgezegd; wordt de goedkeuring verleend, dan gaat de in [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01) bedoelde duur in bij de aanvang van het pachtjaar, volgende op dat, waarin de overeenkomst is ingezonden.
 
 2. De grondkamer is bevoegd op verzoek van een partij in bijzondere gevallen bij de goedkeuring te bepalen, dat de in [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01) bedoelde duur op een eerder tijdstip ingaat.
 
-##### Artikel 323
+#### Artikel 323
 
 1. Aan een overeenkomst tot wijziging of – voorzover die niet reeds feitelijk is uitgevoerd – aan een overeenkomst tot beëindiging van een pachtovereenkomst, die nog niet door de grondkamer is goedgekeurd, zijn partijen slechts in zoverre gebonden, dat zij niet eenzijdig kunnen terugtreden.
 
 2. Indien de overeenkomst niet binnen twee maanden, nadat zij werd aangegaan, ter goedkeuring is ingezonden, is de grondkamer bevoegd haar te doen ingaan op een later tijdstip dan werd overeengekomen, doch uiterlijk op het tijdstip van inzending.
 
-##### Artikel 324
+#### Artikel 324
 
 1. Zij die voornemens zijn met elkaar een pachtovereenkomst of een overeenkomst tot wijziging van een pachtovereenkomst aan te gaan, zijn bevoegd een ontwerp-pachtovereenkomst, onderscheidenlijk een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst ter goedkeuring aan de grondkamer in te zenden.
 
@@ -5691,7 +5666,7 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 ### Afdeling 2. Vorm van de pachtovereenkomst
 
-##### Artikel 325
+#### Artikel 325
 
 1. De pachtovereenkomst geldt voor een bepaalde tijd. Deze tijd bedraagt twaalf jaren voor een hoeve en zes jaren voor los land.
 
@@ -5707,7 +5682,7 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 7. Heeft de grondkamer een termijn van een jaar of korter goedgekeurd, dan vindt geen verlenging plaats.
 
-##### Artikel 326
+#### Artikel 326
 
 1. Telkens voor het verstrijken van een pachttermijn kan de pachter of de verpachter aan de grondkamer verzoeken andere bepalingen van de pachtovereenkomst dan met betrekking tot de tegenprestatie te herzien.
 
@@ -5717,7 +5692,7 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 4. Geen wijziging kan worden gevorderd op grond van [artikel 258 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=258).
 
-##### Artikel 327
+#### Artikel 327
 
 1. Bij of krachtens algemene maatregel van bestuur worden regelen vastgesteld ten aanzien van de hoogst toelaatbare pachtprijs.
 
@@ -5727,7 +5702,7 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 4. Deze besluiten behoeven de goedkeuring van Onze Minister van Landbouw, Natuur en Voedselkwaliteit en worden in de Nederlandse Staatscourant bekend gemaakt.
 
-##### Artikel 328
+#### Artikel 328
 
 1. Als tegenprestatie kan slechts worden bedongen een pachtprijs met of zonder bijkomstige verplichtingen.
 
@@ -5737,11 +5712,11 @@ Op de omvang van het gepachte dat langs een water ligt, zijn de [artikelen 29](h
 
 4. Heeft de grondkamer zulk een goedkeuring verleend of verleent zij deze bij de toetsing, dan wordt de overeengekomen tegenprestatie door haar beoordeeld naar de strekking van het bepaalde krachtens de [artikelen 327 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 329
+#### Artikel 329
 
 Bedongen kan worden dat de lasten die de verpachter ten gevolge van landinrichting op grond van de [Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793) of de [Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748), van reconstructie op grond van de [Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094) of van de [Reconstructiewet concentratiegebieden](https://wetten.overheid.nl/jci1.3:c:BWBR0013399), van herinrichting op grond van de [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143) of van landinrichting op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn of zullen worden opgelegd, ten dele ten laste van de pachter komen.
 
-##### Artikel 330
+#### Artikel 330
 
 1. De pachter heeft aanspraak op een vermindering van de pachtprijs over een pachtjaar of een pachtseizoen, gedurende hetwelk tengevolge van buitengewone omstandigheden de opbrengst van het bedrijf aanzienlijk minder is geweest dan bij het aangaan van de overeenkomst te verwachten was of de pachter tijdelijk het genot van het gepachte geheel of gedeeltelijk heeft moeten missen.
 
@@ -5755,19 +5730,19 @@ Bedongen kan worden dat de lasten die de verpachter ten gevolge van landinrichti
 
 3. De vordering van de pachter vervalt zes maanden na het eindigen van het pachtjaar of het pachtseizoen, waarover de pachtprijs verschuldigd is.
 
-##### Artikel 331
+#### Artikel 331
 
 1. De verpachter heeft aanspraak op een verhoging van de pachtprijs over een pachtjaar of een pachtseizoen, gedurende hetwelk de lasten, die de verpachter door publiekrechtelijke lichamen zijn opgelegd wegens buitengewone werken, waardoor des pachters bedrijf gebaat wordt, aanzienlijk hoger zijn geweest dan bij het aangaan van de overeenkomst te verwachten was.
 
 2. De vordering van de verpachter vervalt zes maanden na het eindigen van het pachtjaar of het pachtseizoen, waarover de pachtprijs verschuldigd is.
 
-##### Artikel 332
+#### Artikel 332
 
 1. De verpachter heeft aanspraak op een verhoging van de pachtprijs over een pachtjaar of over een pachtseizoen, indien hij voor eigen rekening buitengewone werken heeft uitgevoerd, waardoor het bedrijf van de pachter dermate is gebaat, dat een verhoging van de pachtprijs van de pachter kan worden verlangd.
 
 2. De vordering van de verpachter vervalt zes maanden na het eindigen van het pachtjaar of het pachtseizoen, waarover de pachtprijs verschuldigd is.
 
-##### Artikel 333
+#### Artikel 333
 
 1. De pachtprijs wordt van rechtswege herzien overeenkomstig de wijziging van de krachtens [artikel 327 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01) gegeven regelen. De verpachter kan, onder schriftelijke mededeling daarvan aan de pachter, echter geheel of ten dele van een verhoging afzien.
 
@@ -5777,19 +5752,19 @@ Bedongen kan worden dat de lasten die de verpachter ten gevolge van landinrichti
 
 4. De in de leden 1 en 2 bedoelde herziening gaat in met ingang van het pachtjaar volgende op het tijdstip waarop een wijziging van de regelen, bedoeld in [artikel 327 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01) in werking is getreden. De herziening als bedoeld in lid 3 gaat in met ingang van de nieuwe driejarige periode.
 
-##### Artikel 334
+#### Artikel 334
 
 Vervallen
 
-##### Artikel 335
+#### Artikel 335
 
 Op grond van [artikel 258 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=258) kan geen wijziging van de tegenprestatie dan wel van de vergoeding worden gevorderd.
 
-##### Artikel 336
+#### Artikel 336
 
 De verpachter is verplicht het verpachte ter beschikking van de pachter te stellen en te laten voor zover dat voor het overeengekomen gebruik noodzakelijk is.
 
-##### Artikel 337
+#### Artikel 337
 
 1. De verpachter heeft met betrekking tot gebreken van het verpachte de in deze afdeling omschreven verplichtingen.
 
@@ -5797,11 +5772,11 @@ De verpachter is verplicht het verpachte ter beschikking van de pachter te stell
 
 3. Een feitelijke stoornis door derden zonder bewering van recht als bedoeld in [artikel 344](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=6&artikel=344&z=2026-01-01&g=2026-01-01) en een bewering van recht zonder feitelijke stoornis, zijn geen gebreken in de zin van lid 2.
 
-##### Artikel 338
+#### Artikel 338
 
 De uit deze afdeling voortvloeiende rechten van de pachter komen aan deze toe, onverminderd alle andere rechten en vorderingen.
 
-##### Artikel 339
+#### Artikel 339
 
 1. De verpachter is verplicht op verlangen van de pachter gebreken te verhelpen, tenzij dit onmogelijk is of uitgaven vereist die in de gegeven omstandigheden redelijkerwijs niet van de verpachter zijn te vergen.
 
@@ -5809,27 +5784,27 @@ De uit deze afdeling voortvloeiende rechten van de pachter komen aan deze toe, o
 
 3. Is de verpachter met het verhelpen in verzuim, dan kan de pachter dit verhelpen zelf verrichten en de daarvoor gemaakte kosten, voor zover deze redelijk waren, op de verpachter verhalen, desgewenst door deze in mindering op de pachtprijs te brengen.
 
-##### Artikel 340
+#### Artikel 340
 
 1. De pachter kan in geval van vermindering van pachtgenot ten gevolge van een gebrek een daaraan evenredige vermindering van de pachtprijs vorderen van de dag waarop hij van het gebrek behoorlijk heeft kennis gegeven aan de verpachter of waarop het gebrek reeds in voldoende mate bekend was om tot maatregelen over te gaan, tot die waarop het gebrek is verholpen.
 
 2. De pachter heeft geen aanspraak op pachtvermindering terzake van gebreken die hij krachten [artikel 351](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=351&z=2026-01-01&g=2026-01-01) verplicht is te verhelpen, of voor het ontstaan waarvan hij jegens de verpachter aansprakelijk is.
 
-##### Artikel 341
+#### Artikel 341
 
 Onverminderd de gevolgen van niet-nakoming van de verplichting van [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=6&artikel=339&z=2026-01-01&g=2026-01-01) is de verpachter tot vergoeding van de door een gebrek veroorzaakte schade verplicht, indien het gebrek na het aangaan van de overeenkomst is ontstaan en aan hem is toe te rekenen, alsmede indien het gebrek bij het aangaan van de overeenkomst aanwezig was en de verpachter het toen kende of had behoren te kennen, of toen aan de pachter heeft te kennen gegeven dat de zaak het gebrek niet had.
 
-##### Artikel 342
+#### Artikel 342
 
 Van [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=6&artikel=341&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de pachter worden afgeweken, voor zover het gaat om gebreken die de verpachter bij het aangaan van de pachtovereenkomst kende of had behoren te kennen.
 
-##### Artikel 343
+#### Artikel 343
 
 1. Indien een gebrek dat de verpachter ingevolge [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=6&artikel=339&z=2026-01-01&g=2026-01-01) niet verplicht is te verhelpen, het genot dat de pachter mocht verwachten geheel onmogelijk maakt, is zowel de pachter als de verpachter bevoegd de overeenkomst op de voet van [artikel 267 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=267) te ontbinden.
 
 2. Een verplichting van een der partijen tot schadevergoeding ter zake van een gebrek omvat mede de door het eindigen van de overeenkomst ingevolge lid 1 veroorzaakte schade.
 
-##### Artikel 344
+#### Artikel 344
 
 1. Wanneer tegen de pachter door een derde een vordering wordt ingesteld tot uitwinning of tot verlening van een recht waarmee het verpachte ingevolge de pachtovereenkomst niet belast had mogen zijn, is de verpachter na kennisgeving daarvan door de pachter gehouden in het geding te komen ten einde de belangen van de pachter te verdedigen.
 
@@ -5837,7 +5812,7 @@ Van [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titelde
 
 3. Wanneer tegen de onderpachter een vordering betreffende het ondergepachte wordt ingesteld door de hoofdverpachter, zijn de voorgaande leden van overeenkomstige toepassing op de onderverpachter.
 
-##### Artikel 345
+#### Artikel 345
 
 1. De verpachter is verplicht tot wederopbouw van door brand of storm tenietgegane opstallen, voorzover de wederopbouw noodzakelijk is voor de uitoefening van het bedrijf op het gepachte. Deze verplichting bestaat niet, indien de pachtovereenkomst voor kortere dan de wettelijke duur geldt en bestaat ook niet voor de onderverpachter.
 
@@ -5847,15 +5822,15 @@ Van [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titelde
 
 4. De verplichting van de verpachter tot wederopbouw vervalt, indien de wederopbouw, de algemene belangen van de landbouw of de bijzondere omstandigheden van het geval in aanmerking genomen, van de verpachter in redelijkheid niet kan worden gevergd. Indien de pachter voor de door brand ontstane schade aansprakelijk is, wordt de verplichting van de verpachter tot wederopbouw geschorst, zolang de pachter aan zijn verplichting tot schadevergoeding niet heeft voldaan.
 
-##### Artikel 346
+#### Artikel 346
 
 De pachter is verplicht de tegenprestatie op de overeengekomen wijze en tijdstippen te voldoen.
 
-##### Artikel 347
+#### Artikel 347
 
 De pachter is verplicht zich ten aanzien van het gebruik van het gepachte als een goed pachter te gedragen.
 
-##### Artikel 348
+#### Artikel 348
 
 1. De pachter is niet bevoegd de bestemming, inrichting of gedaante van het gepachte geheel of gedeeltelijk te veranderen dan na schriftelijke toestemming van de verpachter, tenzij het gaat om veranderingen en toevoegingen die bij het einde van de pacht zonder noemenswaardige kosten kunnen worden ongedaan gemaakt en verwijderd.
 
@@ -5865,13 +5840,13 @@ De pachter is verplicht zich ten aanzien van het gebruik van het gepachte als ee
 
 4. De grondkamer kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen. Zij kan op verzoek van de verpachter de pachtprijs verhogen, indien de veranderingen daartoe aanleiding geven.
 
-##### Artikel 349
+#### Artikel 349
 
 1. De pachter is tot de ontruiming bevoegd door hem aangebrachte veranderingen en toevoegingen ongedaan te maken, mits daarbij het gepachte in de toestand wordt gebracht, die bij het einde van de pacht redelijkerwijs in overeenstemming met de oorspronkelijke kan worden geacht.
 
 2. De pachter is niet verplicht tot het ongedaan maken van geoorloofde veranderingen en toevoegingen, onverminderd de bevoegdheid van de rechter om hem op de voet van [artikel 348 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=348&z=2026-01-01&g=2026-01-01) de verplichting op te leggen hiervoor vóór de ontruiming van het gepachte zorg te dragen.
 
-##### Artikel 350
+#### Artikel 350
 
 1. Bij het einde van de pacht is de verpachter verplicht de pachter een naar billijkheid te bepalen vergoeding te geven voor de door de pachter aan het gepachte aangebrachte veranderingen en toevoegingen die een verbetering zijn.
 
@@ -5885,11 +5860,11 @@ De pachter is verplicht zich ten aanzien van het gebruik van het gepachte als ee
 
 6. De pachter kan geen vordering tot vergoeding voor verbeteringen gronden op [artikel 212 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=212).
 
-##### Artikel 351
+#### Artikel 351
 
 De pachter is verplicht te zijnen koste de kleine herstellingen te verrichten, tenzij deze nodig zijn geworden door het tekortschieten van de verpachter in de nakoming van zijn verplichting tot het verhelpen van gebreken.
 
-##### Artikel 352
+#### Artikel 352
 
 1. De pachter is aansprakelijk voor schade aan het gepachte die is ontstaan door een hem toe te rekenen tekortschieten in de nakoming van een verplichting uit de pachtovereenkomst.
 
@@ -5897,11 +5872,11 @@ De pachter is verplicht te zijnen koste de kleine herstellingen te verrichten, t
 
 3. Onverminderd [artikel 358 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=358&z=2026-01-01&g=2026-01-01) wordt de pachter vermoed het gepachte in goede staat te hebben ontvangen.
 
-##### Artikel 353
+#### Artikel 353
 
 De pachter is jegens de verpachter op gelijke wijze als voor eigen gedragingen aansprakelijk voor de gedragingen van hen die met zijn goedvinden het gepachte gebruiken of zich met zijn goedvinden daarop bevinden.
 
-##### Artikel 354
+#### Artikel 354
 
 1. Indien gedurende de pacht dringende werkzaamheden aan het gepachte moeten worden uitgevoerd of de verpachter krachtens [artikel 56 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=56) iets moet toestaan ten behoeve van een naburig erf, moet de pachter daartoe gelegenheid geven, onverminderd zijn aanspraken op vermindering van de pachtprijs, op ontbinding van de pachtovereenkomst en op schadevergoeding.
 
@@ -5913,35 +5888,35 @@ De pachter is jegens de verpachter op gelijke wijze als voor eigen gedragingen a
 
 5. De grondkamer kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen. Zij kan op verzoek van de pachter of de verpachter de pachtprijs herzien, indien de verbeteringen daartoe aanleiding geven.
 
-##### Artikel 355
+#### Artikel 355
 
 De pachter is niet dan met schriftelijke toestemming van de verpachter bevoegd tot onderverpachting.
 
-##### Artikel 356
+#### Artikel 356
 
 Indien de pachter gebreken aan het gepachte ontdekt of derden hem in zijn genot storen of enig recht op het gepachte beweren, moet hij daarvan onverwijld aan de verpachter kennis geven, bij gebreke waarvan hij verplicht is aan de verpachter de door de nalatigheid ontstane schade te vergoeden.
 
-##### Artikel 357
+#### Artikel 357
 
 Indien de verpachter tot verpachting of verhuring na afloop van de lopende pacht of tot verkoop van het gepachte wenst over te gaan, is de pachter verplicht te dulden dat aan het gepachte de gebruikelijke kennisgevingen van het te pachten, te huur of te koop zijn worden aangebracht, en aan belangstellenden gelegenheid te geven tot bezichtiging.
 
-##### Artikel 358
+#### Artikel 358
 
 1. De pachter is verplicht het gepachte bij het einde van de pacht weer in goede staat ter beschikking van de verpachter te stellen.
 
 2. Indien tussen de pachter en de verpachter een beschrijving van gepachte gebouwen is opgemaakt, is de pachter gehouden de gebouwen in dezelfde staat op te leveren waarin deze volgens de beschrijving zijn aanvaard, met uitzondering van geoorloofde veranderingen en toevoegingen en hetgeen door ouderdom is tenietgegaan of beschadigd.
 
-##### Artikel 359
+#### Artikel 359
 
 Houdt de pachter na het einde van de pacht het gepachte onrechtmatig onder zich, dan kan de verpachter over de tijd dat hij het gepachte mist, een vergoeding vorderen gelijk aan de pachtprijs, onverminderd, indien zijn schade meer dan deze vergoeding bedraagt, zijn recht op dit meerdere.
 
-##### Artikel 360
+#### Artikel 360
 
 1. De afgaande en opkomende pachters zijn verplicht elkander over en weer met al datgene te gerieven, wat vereist wordt om het betrekken en het verlaten van het gepachte gemakkelijker te maken, zowel wat betreft het gebruik voor het volgende jaar, het inoogsten van nog te velde staande vruchten en het betrekken van de gebouwen als anderszins.
 
 2. De te dezen nalatige pachter is zowel jegens de andere pachter als jegens de verpachter tot schadevergoeding gehouden.
 
-##### Artikel 361
+#### Artikel 361
 
 1. Overdracht van de zaak waarop de pachtovereenkomst betrekking heeft en vestiging of overdracht van een zelfstandig recht van vruchtgebruik, erfpacht of opstal op de zaak waarop de pachtovereenkomst betrekking heeft, door de verpachter doen de rechten en verplichtingen van de verpachter uit de pachtovereenkomst, die daarna opeisbaar worden, overgaan op de verkrijger.
 
@@ -5949,13 +5924,13 @@ Houdt de pachter na het einde van de pacht het gepachte onrechtmatig onder zich,
 
 3. De verkrijger wordt slechts gebonden door die bedingen van de pachtovereenkomst, die onmiddellijk verband houden met het doen hebben van het gebruik van de zaak tegen een door de pachter te betalen tegenprestatie.
 
-##### Artikel 362
+#### Artikel 362
 
 In geval van vestiging of overdracht van een beperkt recht op de verpachte zaak, dat niet onder [artikel 361 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=8&artikel=361&z=2026-01-01&g=2026-01-01) is begrepen, is de gerechtigde jegens de pachter verplicht zich te onthouden van een uitoefening van dat recht, die het gebruik door de pachter belemmert.
 
 ### Afdeling 9. Pachtoverneming
 
-##### Artikel 363
+#### Artikel 363
 
 1. De pachter kan zich tot de rechter wenden met de vordering zijn echtgenoot of geregistreerde partner, één of meer zijner bloed- en aanverwanten in de rechte lijn, één of meer van zijn pleegkinderen of één of meer van de medepachters – of twee of meer van deze gezamenlijk – in zijn plaats als pachter te stellen.
 
@@ -5973,13 +5948,13 @@ In geval van vestiging of overdracht van een beperkt recht op de verpachte zaak,
 
 8. Indien de pachtovereenkomst ingevolge het in het zesde lid bepaalde tegen de wil van de voorgestelde pachter is gewijzigd, kan deze, mits binnen een maand na de dag van het vonnis, van de indeplaatsstelling afzien door een kennisgeving bij aangetekende brief aan de verpachter. In dat geval staat de voorgestelde pachter geen beroep open.
 
-##### Artikel 364
+#### Artikel 364
 
 1. De pachter kan zich tot de rechter wenden met de vordering zijn echtgenoot of geregistreerde partner, één of meer zijner bloed- en aanverwanten in de rechte lijn of één of meer van zijn pleegkinderen – of twee of meer van deze gezamenlijk – aan te merken als medepachter.
 
 2. Het bepaalde in [artikel 363 leden 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=9&artikel=363&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing met dien verstande dat in plaats van «voorgestelde pachter» telkens wordt gelezen: «voorgestelde medepachter».
 
-##### Artikel 365
+#### Artikel 365
 
 1. De medepachter, die niet of niet meer persoonlijk betrokken is bij de exploitatie van het gepachte, kan zich tot de rechter wenden met de vordering uit de pacht te worden ontslagen. De rechter beslist naar billijkheid met dien verstande, dat hij de vordering toewijst, tenzij de belangen van de verpachter of van de medepachter daardoor ernstig zouden worden geschaad.
 
@@ -5989,7 +5964,7 @@ In geval van vestiging of overdracht van een beperkt recht op de verpachte zaak,
 
 ### Afdeling 4. De overgang van de huur bij overdracht van de verhuurde zaken en het eindigen van de huur
 
-##### Artikel 366
+#### Artikel 366
 
 1. De dood van de pachter of de verpachter doet de pacht niet eindigen.
 
@@ -5997,7 +5972,7 @@ In geval van vestiging of overdracht van een beperkt recht op de verpachte zaak,
 
 3. Indien een pachter twee of meer erfgenamen nalaat, is de verpachter verplicht zijn medewerking te verlenen aan de toedeling van de rechten en verplichtingen van de overleden pachter uit de pachtovereenkomst door de gezamenlijke erfgenamen aan een of meer van hen, tenzij de verpachter tegen een of meer van de aangewezenen redelijke bezwaren heeft.
 
-##### Artikel 367
+#### Artikel 367
 
 1. De overeenkomst kan tegen het einde van iedere in [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01) bedoelde termijn door ieder van de partijen worden opgezegd.
 
@@ -6005,17 +5980,17 @@ In geval van vestiging of overdracht van een beperkt recht op de verpachte zaak,
 
 3. Geen opzegging is vereist, indien de beëindiging geschiedt met wederzijds goedvinden, nadat de pachtovereenkomst is totstandgekomen.
 
-##### Artikel 368
+#### Artikel 368
 
 Een opzegging door de verpachter is nietig, indien zij niet de gronden vermeldt die tot opzegging hebben geleid.
 
-##### Artikel 369
+#### Artikel 369
 
 1. Indien de pachter binnen zes weken na de opzegging aan de verpachter bij exploot of aangetekende brief meedeelt zich tegen de opzegging te verzetten met opgave van de redenen waarop hij dit verzet grondt, blijft de opgezegde overeenkomst van kracht, totdat de rechter onherroepelijk heeft beslist op een vordering van de verpachter als bedoeld in lid 2. De rechter kan evenwel, indien het verweer van de pachter hem kennelijk ongegrond voorkomt, zijn toewijzend vonnis uitvoerbaar bij voorraad verklaren.
 
 2. Indien de pachter zich overeenkomstig het eerste lid tijdig tegen de opzegging heeft verzet, kan de verpachter op de gronden vermeld in de opzegging vorderen dat de rechter het tijdstip zal vaststellen waarop de overeenkomst zal eindigen.
 
-##### Artikel 370
+#### Artikel 370
 
 1. De rechter kan de vordering slechts toewijzen op de grond dat:
 
@@ -6031,19 +6006,19 @@ Een opzegging door de verpachter is nietig, indien zij niet de gronden vermeldt 
 
 2. Onder duurzaam gebruik in de zin van lid 1 onder b wordt niet begrepen vervreemding van het verpachte.
 
-##### Artikel 371
+#### Artikel 371
 
 1. In het geval, bedoeld in [artikel 370 lid 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=370&z=2026-01-01&g=2026-01-01), kan de rechter de pachter een termijn toestaan van ten hoogste een maand om het aanbod tot het aangaan van een nieuwe overeenkomst alsnog te aanvaarden.
 
 2. Betreft het aanbod een nieuwe overeenkomst voor een kortere duur dan die van [artikel 325 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01), dan kan de rechter het aanbod slechts als redelijk aanmerken, indien de bijzondere omstandigheden van het geval dit rechtvaardigen en de algemene belangen van de landbouw niet worden geschaad. [Artikel 325 lid 4, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing. Indien de pachter het aanbod aanvaardt, is [artikel 325 leden 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing op de door die aanvaarding tot stand gekomen overeenkomst.
 
-##### Artikel 372
+#### Artikel 372
 
 1. Indien de rechter de vordering toewijst, stelt hij tevens het tijdstip van de ontruiming vast. De toewijzing geldt als een veroordeling tot ontruiming tegen dat tijdstip.
 
 2. Indien in het verpachte bedrijfsgebouwen zijn begrepen kan de rechter in zijn beslissing tot toewijzing een bedrag vaststellen dat de verpachter aan de pachter moet betalen ter tegemoetkoming in diens verhuis- en inrichtingskosten. [Artikel 297 leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=6&artikel=297&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-##### Artikel 373
+#### Artikel 373
 
 1. Indien de overeenkomst is opgezegd op de in [artikel 370 lid 1 onder b of e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=370&z=2026-01-01&g=2026-01-01) bedoelde gronden en de pachter in de beëindiging van de overeenkomst heeft toegestemd dan wel de vordering tot beëindiging van de overeenkomst op die grond is toegewezen, is de verpachter jegens de pachter tot schadevergoeding gehouden, indien de wil om het verpachte persoonlijk in duurzaam gebruik te nemen of om aan het verpachte de in [artikel 377](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=377&z=2026-01-01&g=2026-01-01) bedoelde bestemming te geven in werkelijkheid niet aanwezig is geweest.
 
@@ -6053,15 +6028,15 @@ Een opzegging door de verpachter is nietig, indien zij niet de gronden vermeldt 
 
 4. De vordering van de pachter tot schadevergoeding of tot betaling van het in lid 3 bedoelde bedrag vervalt vijf jaren na het einde van de pachtovereenkomst.
 
-##### Artikel 374
+#### Artikel 374
 
 De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op grond van de billijkheid de vordering slechts voor een gedeelte van het verpachte toewijzen. In dat geval vermindert de rechter de geldende tegenprestatie dienovereenkomstig. De pachter kan alsdan de overeenkomst voor het overige beëindigen op het tijdstip van het eindigen van de pacht ter zake van het eerst vermeld gedeelte. Hij geeft hiervan bij aangetekende brief kennis aan de verpachter binnen een maand nadat het vonnis onaantastbaar is geworden.
 
-##### Artikel 375
+#### Artikel 375
 
 (vervallen)
 
-##### Artikel 376
+#### Artikel 376
 
 1. Ontbinding van de pachtovereenkomst op de grond dat de pachter tekortgeschoten is in de nakoming van zijn verplichtingen, kan slechts geschieden door de rechter, behoudens in het geval van [artikel 343 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=6&artikel=343&z=2026-01-01&g=2026-01-01). De pachter wordt in ieder geval geacht in de nakoming van zijn verplichtingen te zijn tekortgeschoten, indien hij
 
@@ -6075,7 +6050,7 @@ De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op gro
 
 4. Indien de pachter nalaat de aanwijzingen binnen de gestelde termijn op te volgen, geldt dit als een tekortkoming als bedoeld in lid 1, tenzij de pachter aannemelijk maakt dat dit nalaten hem niet kan worden toegerekend.
 
-##### Artikel 377
+#### Artikel 377
 
 1. Indien de verpachter het verpachte of een gedeelte daarvan wil bestemmen voor niet tot de landbouw betrekkelijke doeleinden, en die bestemming in overeenstemming is met het algemeen belang, ontbindt de rechter op vordering van de verpachter de pachtovereenkomst geheel of ten dele met ingang van een bij de uitspraak te bepalen dag. De voorgenomen bestemming wordt geacht in overeenstemming met het algemeen belang te zijn, indien zij in overeenstemming is met een onherroepelijk omgevingsplan.
 
@@ -6095,7 +6070,7 @@ De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op gro
 
 9. [Artikel 373](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=373&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-##### Artikel 378
+#### Artikel 378
 
 1. De verpachter die tot vervreemding van het verpachte of een deel daarvan wil overgaan, is verplicht de pachter uit hoofde van een door de grondkamer goedgekeurde pachtovereenkomst die voor ten minste de wettelijke duur is aangegaan dan wel is aangegaan voor een kortere duur, doch nadien voor ten minste zes jaren is verlengd, bij voorkeur in de gelegenheid te stellen het recht dat hij voornemens is aan te bieden, te verkrijgen overeenkomstig de regels van deze afdeling. Onder vervreemding worden begrepen overdracht van eigendom of vestiging of overdracht van erfpacht, opstal of vruchtgebruik.
 
@@ -6107,7 +6082,7 @@ De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op gro
 
 5. In die periode mag vervreemding, anders dan in het openbaar, niet geschieden tegen een prijs die lager is dan de prijs die de verpachter in zijn in [lid 2 van artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) bedoelde kennisgeving heeft vermeld.
 
-##### Artikel 379
+#### Artikel 379
 
 1. Indien geen overeenstemming wordt bereikt over de prijs, kan de verpachter de grondkamer verzoeken de marktwaarde van het verpachte of het te vervreemden deel daarvan te taxeren.
 
@@ -6117,7 +6092,7 @@ De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op gro
 
 4. Indien de verpachter de kennisgeving, bedoeld in het tweede lid niet heeft gedaan binnen een jaar nadat op het verzoek om taxatie onherroepelijk is beslist, zijn de bepalingen van [artikel 378](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) en volgende wederom van toepassing.
 
-##### Artikel 380
+#### Artikel 380
 
 1. De in [artikel 378 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) bedoelde verplichting bestaat niet:
 
@@ -6133,7 +6108,7 @@ De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op gro
 
 2. Evenmin bestaat de in [artikel 378 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) bedoelde verplichting, wanneer de grondkamer op verzoek van de verpachter heeft vastgesteld dat deze een ernstige reden heeft om de pachter niet in de gelegenheid te stellen eigenaar of beperkt gerechtigde te worden. Als ernstige reden wordt steeds beschouwd de omstandigheid dat de pachter een slecht landgebruiker is.
 
-##### Artikel 381
+#### Artikel 381
 
 1. De in [artikel 378 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) bedoelde verplichting bestaat voorts niet, voor zover aan het verpachte in het geldende omgevingsplan, een andere dan landbouwkundige functie is toegedeeld. Op verzoek van de verpachter verklaren burgemeester en wethouders schriftelijk, of in zulk een plan al dan niet een landbouwkundige functie aan het verpachte is toegedeeld.
 
@@ -6141,15 +6116,15 @@ De rechter kan, hetzij op verzoek van een der partijen, hetzij ambtshalve op gro
 
 3. De in [artikel 378 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) bedoelde verplichting bestaat evenmin, voor zover het verpachte is gelegen in een gebied waarvoor een gemeentelijke omgevingsvisie als bedoeld in [artikel 3.1 lid 1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.1) is vastgesteld en de verpachter vanwege een voorkeursrecht als bedoeld in [artikel 9.1 lid 1 onder b van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=9.1) in overeenstemming met de regels die [hoofdstuk 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=9) daaraan stelt, overgaat tot de vervreemding van het verpachte aan de gemeente onderscheidenlijk de provincie of de Staat.
 
-##### Artikel 382
+#### Artikel 382
 
 De verpachter is verplicht om, alvorens tot openbare verkoop van het verpachte wordt overgegaan, behoudens in geval van executoriale verkoop, de pachter ten minste een maand voor de verkoop bij exploot of aangetekende brief daarvan kennis te geven.
 
-##### Artikel 383
+#### Artikel 383
 
 Indien de verpachter in strijd heeft gehandeld met [artikel 378 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01), [378 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) of [379 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=379&z=2026-01-01&g=2026-01-01), kan de verkrijger van het verpachte onder bijzondere titel de overeenkomst slechts op de in [artikel 370 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=370&z=2026-01-01&g=2026-01-01) bedoelde grond opzeggen, nadat twaalf jaren zijn verstreken na het einde van het pachtjaar, waarin de verpachter de vorige verpachter is opgevolgd.
 
-##### Artikel 384
+#### Artikel 384
 
 1. De pachter die van zijn recht van voorkeur gebruik heeft gemaakt en het uit dien hoofde verkregene binnen een periode van tien jaar na die verkrijging deels of geheel vervreemdt, is aan de verpachter een vergoeding verschuldigd als bedoeld in het tweede tot en met vierde lid.
 
@@ -6169,7 +6144,7 @@ Indien de verpachter in strijd heeft gehandeld met [artikel 378 lid 1](https://w
 
 #### Onderafdeling 3. Medehuur en voortzetting van de huur
 
-##### Artikel 385
+#### Artikel 385
 
 Indien het Rijk, een provincie, een gemeente, een rechtspersoonlijkheid bezittend lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), een waterschap, een veenschap of een veenpolder aan hun in eigendom toebehorende hoeven of los land een bestemming heeft gegeven voor niet tot de landbouw betrekkelijke doeleinden van openbaar nut, kunnen zij aan de grondkamer verzoeken goed te keuren, dat bij verpachting van zulke hoeven of zodanig los land in de overeenkomst een of meer van de volgende bedingen zullen worden opgenomen:
 
@@ -6181,11 +6156,11 @@ Indien het Rijk, een provincie, een gemeente, een rechtspersoonlijkheid bezitten
 
 - d. dat de overeenkomst door de verpachter te allen tijde kan worden beëindigd, indien en voorzover de bestemming de beëindiging naar zijn oordeel noodzakelijk maakt.
 
-##### Artikel 386
+#### Artikel 386
 
 De grondkamer onderzoekt uitsluitend of de bestemming het beding redelijkerwijs noodzakelijk kan maken. Zij treedt niet in een beoordeling dezer bestemming.
 
-##### Artikel 387
+#### Artikel 387
 
 1. In geval de pachtovereenkomst niet wordt verlengd op grond van het beding, genoemd in [artikel 385 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=1&artikel=385&z=2026-01-01&g=2026-01-01), heeft de pachter geen recht op schadeloosstelling.
 
@@ -6195,11 +6170,11 @@ De grondkamer onderzoekt uitsluitend of de bestemming het beding redelijkerwijs 
 
 #### Paragraaf 2. Verpachting binnen reservaten
 
-##### Artikel 388
+#### Artikel 388
 
 In deze paragraaf wordt verstaan onder «reservaat» een gebied waar de eigendom dan wel de erfpacht van landbouwgronden door de Staat, een publiekrechtelijke rechtspersoon of een bij koninklijk besluit aangewezen particuliere terreinbeherende natuurbeschermingsorganisatie is verworven en waar een beheer gevoerd kan worden gericht op doeleinden van natuur- en landschapsbehoud anders dan door middel van een daartoe te sluiten overeenkomst betreffende het richten van de bedrijfsvoering van agrarische bedrijven op doeleinden van natuur- en landschapsbehoud.
 
-##### Artikel 389
+#### Artikel 389
 
 1. In een pachtovereenkomst met betrekking tot een hoeve of los land gelegen in een reservaat, kunnen een of meer verplichtingen worden opgenomen welke ten doel hebben de opzet en de bedrijfsvoering te richten op het behoud van natuur en landschap.
 
@@ -6211,21 +6186,21 @@ In deze paragraaf wordt verstaan onder «reservaat» een gebied waar de eigendom
 
 - c. waarvoor bij de overeenkomst een vergoeding wordt bedongen.
 
-##### Artikel 390
+#### Artikel 390
 
 Indien toepassing is gegeven aan [artikel 389](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=2&artikel=389&z=2026-01-01&g=2026-01-01) geldt, in afwijking in zoverre van het bepaalde in [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01), de pachtovereenkomst voor zowel een hoeve als los land voor de duur van zes jaren.
 
-##### Artikel 391
+#### Artikel 391
 
 1. Indien toepassing is gegeven aan [artikel 389](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=2&artikel=389&z=2026-01-01&g=2026-01-01) wordt de pachtovereenkomst in afwijking van [artikel 325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01) telkens met zes jaren verlengd.
 
 2. De rechter kan de in [artikel 370](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=370&z=2026-01-01&g=2026-01-01) bedoelde vordering, behalve op de daar bedoelde gronden, ook toewijzen op de grond dat de verpachter met betrekking tot de instandhouding of ontwikkeling van de op het land aanwezige waarden van natuur en landschap een zodanig beheer wil voeren dat verdere verpachting hiermee niet in overeenstemming is. Bij alle toewijzingsgronden houdt hij rekening met de billijkheid in verband met de bijzondere aard van de pachtovereenkomst.
 
-##### Artikel 392
+#### Artikel 392
 
 De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=326&z=2026-01-01&g=2026-01-01) bedoelde bepalingen van de pachtovereenkomst, indien dit gewenst is met het oog op de instandhouding of ontwikkeling van de op het land aanwezige waarden van natuur en landschap.
 
-##### Artikel 393
+#### Artikel 393
 
 1. De vergoeding die ingevolge [artikel 389 lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=2&artikel=389&z=2026-01-01&g=2026-01-01) is bedongen, wordt niet aangemerkt als pachtprijs.
 
@@ -6233,7 +6208,7 @@ De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.over
 
 3. Bij algemene maatregel van bestuur worden nadere regelen vastgesteld ten aanzien van de hoogst toelaatbare vergoeding.
 
-##### Artikel 394
+#### Artikel 394
 
 1. De pachter of de verpachter kan aan de grondkamer verzoeken de vergoeding bedoeld in [artikel 389 lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=2&artikel=389&z=2026-01-01&g=2026-01-01) te herzien
 
@@ -6251,7 +6226,7 @@ De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.over
 
 #### Paragraaf 3. Pacht van geringe oppervlakten
 
-##### Artikel 395
+#### Artikel 395
 
 1. De [artikelen 313 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=1&artikel=313&z=2026-01-01&g=2026-01-01), [317–329](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=2&artikel=317&z=2026-01-01&g=2026-01-01), [332](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=332&z=2026-01-01&g=2026-01-01), [333](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=333&z=2026-01-01&g=2026-01-01), [348 leden 2–4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=348&z=2026-01-01&g=2026-01-01), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=350&z=2026-01-01&g=2026-01-01), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=9&artikel=363&z=2026-01-01&g=2026-01-01), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=9&artikel=364&z=2026-01-01&g=2026-01-01) en [366–384](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=366&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op pachtovereenkomsten betreffende los land dat niet groter is dan één hectare.
 
@@ -6263,7 +6238,7 @@ De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.over
 
 #### Paragraaf 2. Verpachting binnen reservaten
 
-##### Artikel 396
+#### Artikel 396
 
 1. De [artikelen 313 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=1&artikel=313&z=2026-01-01&g=2026-01-01), [318–325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=318&z=2026-01-01&g=2026-01-01), [327](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01), [328](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=328&z=2026-01-01&g=2026-01-01), [332](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=332&z=2026-01-01&g=2026-01-01), [333](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=333&z=2026-01-01&g=2026-01-01), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=9&artikel=363&z=2026-01-01&g=2026-01-01), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=9&artikel=364&z=2026-01-01&g=2026-01-01), [366–374](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=10&artikel=366&z=2026-01-01&g=2026-01-01) en [378–384](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op pachtovereenkomsten betreffende los land:
 
@@ -6281,7 +6256,7 @@ De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.over
 
 4. Indien de verpachter ten behoeve van een onderverpachting overeenkomstig het bepaalde in het eerste lid de in [artikel 355](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=355&z=2026-01-01&g=2026-01-01) bedoelde toestemming niet verleent, kan de pachter de grondkamer machtiging vragen tot de gewenste onderverpachting over te gaan. De grondkamer verleent deze machtiging, wanneer door de onderverpachting het algemeen landbouwbelang gediend wordt en geen redelijk belang van de verpachter zich daartegen verzet. De grondkamer kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen en kan daarbij op verzoek van de verpachter de tegenprestatie in afwijking van de regelen als bedoeld in [artikel 327 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01) herzien, indien de bij de onderverpachting overeengekomen tegenprestatie daartoe aanleiding geeft.
 
-##### Artikel 397
+#### Artikel 397
 
 1. De bepalingen van de [artikelen 313 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=1&artikel=313&z=2026-01-01&g=2026-01-01), [319 lid 1 onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=319&z=2026-01-01&g=2026-01-01), [325](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=4&artikel=325&z=2026-01-01&g=2026-01-01), [327](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01), [328](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=328&z=2026-01-01&g=2026-01-01), [332](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=332&z=2026-01-01&g=2026-01-01), [333](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=333&z=2026-01-01&g=2026-01-01), [363 tot en met 374](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=9&artikel=363&z=2026-01-01&g=2026-01-01), [378 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=378&z=2026-01-01&g=2026-01-01), [399a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=13&artikel=399a&z=2026-01-01&g=2026-01-01) en [399c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=13&artikel=399c&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op pachtovereenkomsten betreffende los land:
 
@@ -6299,7 +6274,7 @@ De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.over
 
 4. Bij algemene maatregel van bestuur kan worden bepaald dat op de pachtovereenkomsten als bedoeld in het eerste lid tevens de [artikelen 319 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=3&artikel=319&z=2026-01-01&g=2026-01-01), [327](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=327&z=2026-01-01&g=2026-01-01), [328](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=328&z=2026-01-01&g=2026-01-01), [332](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=332&z=2026-01-01&g=2026-01-01), [333](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=333&z=2026-01-01&g=2026-01-01), [399a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=13&artikel=399a&z=2026-01-01&g=2026-01-01) en [399c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=13&artikel=399c&z=2026-01-01&g=2026-01-01) van toepassing zijn. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.
 
-##### Artikel 398
+#### Artikel 398
 
 1. Een overeenkomst als bedoeld in de [artikelen 396](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=4&artikel=396&z=2026-01-01&g=2026-01-01) en [397](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=4&artikel=397&z=2026-01-01&g=2026-01-01) gaat niet van rechtswege teniet door de dood van de verpachter of van de pachter.
 
@@ -6313,7 +6288,7 @@ De grondkamer herziet de in het [eerste lid van artikel 326](https://wetten.over
 
 ### Afdeling 13. Dwingend recht
 
-##### Artikel 399
+#### Artikel 399
 
 Van de bepalingen van de [artikelen 311 tot en met 314](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=1&artikel=311&z=2026-01-01&g=2026-01-01), [317 tot en met 332](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=2&artikel=317&z=2026-01-01&g=2026-01-01), [335](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=5&artikel=335&z=2026-01-01&g=2026-01-01), [345](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=6&artikel=345&z=2026-01-01&g=2026-01-01), [347](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=347&z=2026-01-01&g=2026-01-01), [348](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=348&z=2026-01-01&g=2026-01-01), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=350&z=2026-01-01&g=2026-01-01), [352 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=352&z=2026-01-01&g=2026-01-01), [353](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=353&z=2026-01-01&g=2026-01-01), [354 leden 2–5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=354&z=2026-01-01&g=2026-01-01), [360 tot en met 383](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=7&artikel=360&z=2026-01-01&g=2026-01-01), [384 leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=11&artikel=384&z=2026-01-01&g=2026-01-01), [389 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=2&artikel=389&z=2026-01-01&g=2026-01-01), [390 tot en met 394](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=2&artikel=390&z=2026-01-01&g=2026-01-01), [395 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=3&artikel=395&z=2026-01-01&g=2026-01-01) en [artikel 396, leden 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=4&artikel=396&z=2026-01-01&g=2026-01-01), en [artikel 398](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=5&afdeling=12&paragraaf=4&artikel=398&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de pachter worden afgeweken.
 
@@ -6321,29 +6296,29 @@ Van de bepalingen van de [artikelen 311 tot en met 314](https://wetten.overheid.
 
 ## Titel 7. Opdracht
 
-##### Artikel 400
+#### Artikel 400
 
 1. De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt anders dan op grond van een arbeidsovereenkomst werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van een werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.
 
 2. De [artikelen 401-412](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=401&z=2007-09-01&g=2007-09-01) zijn, onverminderd [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=413&z=2007-09-01&g=2007-09-01), van toepassing, tenzij iets anders voortvloeit uit de wet, de inhoud of aard van de overeenkomst van opdracht of van een andere rechtshandeling, of de gewoonte.
 
-##### Artikel 401
+#### Artikel 401
 
 De opdrachtnemer moet bij zijn werkzaamheden de zorg van een goed opdrachtnemer in acht nemen.
 
-##### Artikel 402
+#### Artikel 402
 
 1. De opdrachtnemer is gehouden gevolg te geven aan tijdig verleende en verantwoorde aanwijzingen omtrent de uitvoering van de opdracht.
 
 2. De opdrachtnemer die op redelijke grond niet bereid is de opdracht volgens de hem gegeven aanwijzingen uit te voeren, kan, zo de opdrachtgever hem niettemin aan die aanwijzingen houdt, de overeenkomst opzeggen wegens gewichtige redenen.
 
-##### Artikel 403
+#### Artikel 403
 
 1. De opdrachtnemer moet de opdrachtgever op de hoogte houden van zijn werkzaamheden ter uitvoering van de opdracht en hem onverwijld in kennis stellen van de voltooiing van de opdracht, indien de opdrachtgever daarvan onkundig is.
 
 2. De opdrachtnemer doet aan de opdrachtgever verantwoording van de wijze waarop hij zich van de opdracht heeft gekweten. Heeft hij bij de uitvoering van de opdracht ten laste van de opdrachtgever gelden uitgegeven of te diens behoeve gelden ontvangen, dan doet hij daarvan rekening.
 
-##### Artikel 404
+#### Artikel 404
 
 Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnemer of in zijn dienst een beroep of een bedrijf uitoefent, is die persoon gehouden de werkzaamheden, nodig voor de uitvoering van de opdracht, zelf te verrichten, behoudens voor zover uit de opdracht voortvloeit dat hij deze onder zijn verantwoordelijkheid door anderen mag laten uitvoeren; alles onverminderd de aansprakelijkheid van de opdrachtnemer.
 
@@ -6399,15 +6374,15 @@ Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnem
 
 ## Titel 18. Lijfrente
 
-##### Artikel 399a
+#### Artikel 399a
 
 Nietig is elk beding in een pachtovereenkomst, ingevolge hetwelk de geldelijke lasten, welke de verpachter door publiekrechtelijke lichamen zijn of zullen worden opgelegd, geheel of ten dele ten laste van de pachter komen.
 
-##### Artikel 399b
+#### Artikel 399b
 
 Indien een pachtovereenkomst is aangegaan onder voorwaarde dat de overeenkomst door de grondkamer geheel of ten dele ongewijzigd zal worden goedgekeurd, wordt deze voorwaarde voor niet geschreven gehouden.
 
-##### Artikel 399c
+#### Artikel 399c
 
 1. Een beding waarin een verpachter, indien de grondkamer onderscheidenlijk de Centrale Grondkamer de pachtovereenkomst of een overeenkomst tot wijziging van een pachtovereenkomst heeft vastgesteld, een hogere tegenprestatie bedingt dan ingevolge deze wet is geoorloofd, is nietig. Onder de tegenprestatie worden prestaties, bedongen of genoten krachtens andere met de pachtovereenkomst verband houdende overeenkomsten, mede begrepen.
 
@@ -6417,13 +6392,13 @@ Indien een pachtovereenkomst is aangegaan onder voorwaarde dat de overeenkomst d
 
 ### Afdeling 6. Huur van bedrijfsruimte
 
-##### Artikel 399d
+#### Artikel 399d
 
 1. De bepalingen betreffende pacht vinden overeenkomstige toepassing op overeenkomsten, waardoor of krachtens welke tegen een vergoeding ineens of in termijnen zakelijke genotsrechten voor 25 jaar of korter, dan wel voor onbepaalde tijd op hoeven of los land worden gevestigd. In geval van zakelijke genotsrechten voor onbepaalde tijd blijft de overeenkomstige toepassing van bepalingen van deze wet beperkt tot 25 jaar na de vestiging.
 
 2. De bepalingen, die voor het zakelijke genotsrecht gelden, vinden slechts toepassing, voorzover zij niet in strijd zijn met dwingende bepalingen betreffende pacht.
 
-##### Artikel 399e
+#### Artikel 399e
 
 1. Het aanstellen of het aangesteld houden van een zetboer behoeft de voorafgaande goedkeuring van de grondkamer.
 
@@ -6435,29 +6410,29 @@ Indien een pachtovereenkomst is aangegaan onder voorwaarde dat de overeenkomst d
 
 ### Afdeling 1. Opdracht in het algemeen
 
-##### Artikel 400
+#### Artikel 400
 
 1. De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt anders dan op grond van een arbeidsovereenkomst werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van een werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.
 
 2. De [artikelen 401-412](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=401&z=2007-10-31&g=2007-09-01) zijn, onverminderd [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=1&artikel=413&z=2007-10-31&g=2007-09-01), van toepassing, tenzij iets anders voortvloeit uit de wet, de inhoud of aard van de overeenkomst van opdracht of van een andere rechtshandeling, of de gewoonte.
 
-##### Artikel 401
+#### Artikel 401
 
 De opdrachtnemer moet bij zijn werkzaamheden de zorg van een goed opdrachtnemer in acht nemen.
 
-##### Artikel 402
+#### Artikel 402
 
 1. De opdrachtnemer is gehouden gevolg te geven aan tijdig verleende en verantwoorde aanwijzingen omtrent de uitvoering van de opdracht.
 
 2. De opdrachtnemer die op redelijke grond niet bereid is de opdracht volgens de hem gegeven aanwijzingen uit te voeren, kan, zo de opdrachtgever hem niettemin aan die aanwijzingen houdt, de overeenkomst opzeggen wegens gewichtige redenen.
 
-##### Artikel 403
+#### Artikel 403
 
 1. De opdrachtnemer moet de opdrachtgever op de hoogte houden van zijn werkzaamheden ter uitvoering van de opdracht en hem onverwijld in kennis stellen van de voltooiing van de opdracht, indien de opdrachtgever daarvan onkundig is.
 
 2. De opdrachtnemer doet aan de opdrachtgever verantwoording van de wijze waarop hij zich van de opdracht heeft gekweten. Heeft hij bij de uitvoering van de opdracht ten laste van de opdrachtgever gelden uitgegeven of te diens behoeve gelden ontvangen, dan doet hij daarvan rekening.
 
-##### Artikel 404
+#### Artikel 404
 
 Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnemer of in zijn dienst een beroep of een bedrijf uitoefent, is die persoon gehouden de werkzaamheden, nodig voor de uitvoering van de opdracht, zelf te verrichten, behoudens voor zover uit de opdracht voortvloeit dat hij deze onder zijn verantwoordelijkheid door anderen mag laten uitvoeren; alles onverminderd de aansprakelijkheid van de opdrachtnemer.
 
@@ -6517,7 +6492,7 @@ Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnem
 
 ## Titel 15. Vaststellingsovereenkomst
 
-##### Artikel 514
+#### Artikel 514
 
 In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -6583,7 +6558,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 - ad. **gevoelige betaalgegevens:** gegevens waarmee fraude kan worden gepleegd, waaronder persoonlijke beveiligingsgegevens. Voor de activiteiten van betaalinitiatiedienstverleners en rekeninginformatiedienstverleners vormen de naam van de rekeninghouder en het rekeningnummer geen gevoelige betaalgegevens.
 
-##### Artikel 515
+#### Artikel 515
 
 1. Deze titel is van toepassing indien zowel de betaaldienstverlener van de betaler als de betaaldienstverlener van de begunstigde of de enige bij de betalingstransactie betrokken betaaldienstverlener zich in de Unie of de Europese Economische Ruimte bevinden.
 
@@ -6595,11 +6570,11 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 3, derde lid, van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176).
 
-##### Artikel 516
+#### Artikel 516
 
 Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde het recht de contractuele voorwaarden van de raamovereenkomst alsmede de bij of krachtens algemene maatregel van bestuur, bedoeld in [artikel 4:22 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), vermelde informatie en voorwaarden op papier of op een andere duurzame drager te vragen.
 
-##### Artikel 517
+#### Artikel 517
 
 1. Elke wijziging in de raamovereenkomst en in de bij of krachtens algemene maatregel van bestuur, bedoeld in [artikel 4:22 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), vermelde informatie en voorwaarden wordt uiterlijk twee maanden vóór de datum van de beoogde inwerkingtreding ervan door de betaaldienstverlener op papier of op een andere duurzame drager voorgesteld in gemakkelijk te begrijpen bewoordingen en in een duidelijke en bevattelijke vorm in een officiële taal van de lidstaat waar de betaaldienst wordt aangeboden of in een andere taal die door partijen is overeengekomen. De betaaldienstgebruiker kan de wijzigingen vóór de beoogde datum van inwerkingtreding aanvaarden of verwerpen.
 
@@ -6615,7 +6590,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 5. Wijzigingen in de bij betalingstransacties gebruikte rentevoet of wisselkoers worden berekend en uitgevoerd op een neutrale wijze die de betaaldienstgebruiker niet discrimineert.
 
-##### Artikel 518
+#### Artikel 518
 
 1. De betaaldienstgebruiker kan de raamovereenkomst te allen tijde beëindigen, tenzij door de partijen een opzegtermijn is overeengekomen. Die termijn is niet langer dan een maand.
 
@@ -6625,13 +6600,13 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 4. Bij beëindiging van de raamovereenkomst kunnen periodieke kosten slechts naar evenredigheid tot aan de beëindiging van de overeenkomst in rekening worden gebracht. Indien de betaaldienstgebruiker dergelijke kosten vooruit heeft betaald, wordt het desbetreffende bedrag naar evenredigheid aan hem terugbetaald.
 
-##### Artikel 519
+#### Artikel 519
 
 1. De betalingstransacties vinden plaats in de valuta die tussen de partijen zijn overeengekomen.
 
 2. Indien voor het initiëren van een betalingstransactie bij een geldautomaat, op het verkooppunt of door de begunstigde een valutawisseldienst wordt aangeboden aan de betaler, stelt de partij die de valutawisseldienst aanbiedt, de betaler in kennis van alle in rekening te brengen kosten, alsook van de wisselkoers die bij de omrekening van de betalingstransactie zal worden gehanteerd.
 
-##### Artikel 520
+#### Artikel 520
 
 1. De betaaldienstverlener brengt de betaaldienstgebruiker geen kosten in rekening voor zijn informatieverplichtingen of de toepassing van corrigerende of preventieve maatregelen uit hoofde van deze titel, tenzij:
 
@@ -6647,7 +6622,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 4. Geen vergoeding wordt door de begunstigde gevraagd voor het gebruik van betaalinstrumenten waarvan de afwikkelingsvergoedingen onder hoofdstuk II van Verordening (EU) nr. 2015/571 vallen, noch voor betaaldiensten waarop Verordening (EU) nr. 260/2012 van toepassing is.
 
-##### Artikel 521
+#### Artikel 521
 
 1. Met betrekking tot betaalinstrumenten met een uitgavenlimiet van € 150 of waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen en die overeenkomstig de raamovereenkomst uitsluitend worden gebruikt voor afzonderlijke betalingstransacties van maximaal € 30, kunnen betaaldienstverleners met hun betaaldienstgebruikers overeenkomen dat:
 
@@ -6669,7 +6644,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 4. De [artikelen 528](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=528&z=2026-01-01&g=2026-01-01) en [529](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=529&z=2026-01-01&g=2026-01-01) zijn ook van toepassing op elektronisch geld in de zin van [artikel 514 onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=514&z=2026-01-01&g=2026-01-01), tenzij de betaaldienstverlener van de betaler niet de mogelijkheid heeft de rekening of het instrument te blokkeren.
 
-##### Artikel 522
+#### Artikel 522
 
 1. Een betaaldienstverlener voert een betalingstransactie slechts uit met instemming van de betaler met de uitvoering van de betaalopdracht.
 
@@ -6677,7 +6652,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 3. De instemming kan te allen tijde, doch uiterlijk op het tijdstip van het onherroepelijk worden, krachtens [artikel 534](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=1&artikel=534&z=2026-01-01&g=2026-01-01) van de betaalopdracht door de betaler worden ingetrokken. Hetzelfde geldt voor een instemming met de uitvoering van een betaalopdracht betreffende een reeks betalingstransacties, die kan worden ingetrokken met als gevolg dat iedere toekomstige betalingstransactie als niet-toegestaan wordt aangemerkt.
 
-##### Artikel 523
+#### Artikel 523
 
 1. Indien voor de mededeling van de instemming van een specifiek betaalinstrument gebruik wordt gemaakt, kunnen de betaler en zijn betaaldienstverlener uitgavenlimieten overeenkomen voor betaaldiensten die met dat betaalinstrument zullen worden verricht.
 
@@ -6701,7 +6676,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 8. In de in het zesde lid genoemde gevallen meldt de rekeninghoudende betaaldienstverlener het incident betreffende de rekeninginformatiedienstverlener of de betaalinitiatiedienstverlener onmiddellijk aan de Nederlandsche Bank. Daarbij moeten de relevante gegevens van de zaak worden vermeld en de redenen voor het nemen van stappen. De Nederlandsche Bank beoordeelt de zaak en neemt, indien noodzakelijk, passende maatregelen.
 
-##### Artikel 524
+#### Artikel 524
 
 1. De betaaldienstgebruiker die gemachtigd is om een betaalinstrument te gebruiken,
 
@@ -6713,7 +6688,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 3. De voorwaarden bedoeld in het eerste lid, onderdeel a, zijn objectief, niet-discriminerend en evenredig.
 
-##### Artikel 525
+#### Artikel 525
 
 1. De betaaldienstverlener die een betaalinstrument uitgeeft,
 
@@ -6731,19 +6706,19 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 2. De betaaldienstverlener draagt het risico van het zenden aan de betaler van een betaalinstrument en van de gepersonaliseerde veiligheidskenmerken daarvan.
 
-##### Artikel 526
+#### Artikel 526
 
 1. De betaaldienstgebruiker die bekend is met een niet-toegestane of onjuist uitgevoerde betalingstransactie waarvoor hij de betaaldienstverlener aansprakelijk kan stellen met inbegrip van de aansprakelijkheidsgronden van [artikel 543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01), [544](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=544&z=2026-01-01&g=2026-01-01) en [545](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=545&z=2026-01-01&g=2026-01-01), verkrijgt alleen rectificatie van zijn betaaldienstverlener indien hij hem onverwijld en uiterlijk dertien maanden na de valutadatum waarop zijn rekening is gedebiteerd, kennis geeft van de bewuste transactie, tenzij de betaaldienstverlener, in voorkomend geval, de informatie betreffende die betalingstransactie niet heeft verstrekt of ter beschikking heeft gesteld overeenkomstig de wijze vastgesteld bij of krachtens de in [artikel 4:22 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22) bedoelde algemene maatregel van bestuur.
 
 2. Wanneer een betaalinitiatiedienstverlener bij de transactie betrokken is, verkrijgt de betaaldienstgebruiker rectificatie van de rekeninghoudende betaaldienstverlener overeenkomstig het eerste lid, onverminderd [artikel 528, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=528&z=2026-01-01&g=2026-01-01), alsmede [artikel 543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 527
+#### Artikel 527
 
 1. Indien een betaaldienstgebruiker ontkent dat hij met een uitgevoerde betalingstransactie heeft ingestemd of aanvoert dat de betalingstransactie niet correct is uitgevoerd, is zijn betaaldienstverlener gehouden het bewijs te leveren dat de betalingstransactie is geauthenticeerd, juist is geregistreerd en geboekt en niet door een technische storing of enig ander falen van de door de betaaldienstverlener aangeboden diensten is beïnvloed. Indien de betalingstransactie geïnitieerd wordt via een betaalinitiatiedienstverlener, levert deze het bewijs dat, binnen zijn verantwoordelijkheid, de betalingstransactie is geauthenticeerd, juist is geregistreerd en niet door een technische storing of enig ander falen in verband met de betaaldienst waarmee hij is belast, is beïnvloed.
 
 2. Indien een betaaldienstgebruiker ontkent dat hij met een uitgevoerde betalingstransactie heeft ingestemd, vormt het feit dat het gebruik van een betaalinstrument door de betaaldienstverlener, daaronder in voorkomende geval de betaalinitiatiedienstverlener begrepen, is geregistreerd niet noodzakelijkerwijze afdoende bewijs dat met de betalingstransactie door de betaler is ingestemd of dat de betaler frauduleus heeft gehandeld of opzettelijk of met grove nalatigheid een of meer van zijn verplichtingen uit hoofde van [artikel 524](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=524&z=2026-01-01&g=2026-01-01) niet is nagekomen. De betaaldienstverlener, daaronder in voorkomend geval de betaalinitiatiedienstverlener begrepen, verstrekt ondersteunend bewijs om fraude of grove nalatigheid van de zijde van de betaler te bewijzen.
 
-##### Artikel 528
+#### Artikel 528
 
 1. Onverminderd [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01), betaalt de betaaldienstverlener van de betaler, in geval van een niet-toegestane betalingstransactie, de betaler onmiddellijk het bedrag van de niet-toegestane betalingstransactie terug en in elk geval uiterlijk aan het einde van de eerstvolgende werkdag, nadat hij bekend is geworden met de transactie of daarvan in kennis is gesteld.
 
@@ -6757,7 +6732,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 6. Aanvullende financiële compensatie kan worden vastgesteld overeenkomstig het recht dat van toepassing is op de tussen de betaler en zijn betaaldienstverlener gesloten overeenkomst of de tussen de betaler en de betaalinitiatiedienstverlener gesloten overeenkomst, indien van toepassing.
 
-##### Artikel 529
+#### Artikel 529
 
 1. De betaler draagt alle verliezen die uit niet-toegestane betalingstransacties voortvloeien, indien deze zich hebben voorgedaan doordat hij frauduleus heeft gehandeld of opzettelijk of met grove nalatigheid een of meer verplichtingen uit hoofde van [artikel 524](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=524&z=2026-01-01&g=2026-01-01) niet is nagekomen.
 
@@ -6769,7 +6744,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 5. Indien de betaaldienstverlener nalaat om overeenkomstig [artikel 525, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=525&z=2026-01-01&g=2026-01-01), passende middelen beschikbaar te stellen waarmee te allen tijde een kennisgeving als bedoeld in [artikel 524, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=524&z=2026-01-01&g=2026-01-01), kan worden gedaan, is de betaler niet aansprakelijk voor de financiële gevolgen die uit het gebruik van dat betaalinstrument voortvloeien, tenzij hij frauduleus heeft gehandeld.
 
-##### Artikel 530
+#### Artikel 530
 
 1. Een betaler heeft recht op de terugbetaling door zijn betaaldienstverlener van een met zijn instemming, door of via een begunstigde geïnitieerde, reeds uitgevoerde betalingstransactie, indien de volgende voorwaarden vervuld zijn:
 
@@ -6789,7 +6764,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 - b. door de betaaldienstverlener of door de begunstigde ten minste vier weken voor de vervaldag op een overeengekomen wijze informatie betreffende de toekomstige betalingstransactie ten behoeve van de betaler was verstrekt of ter beschikking was gesteld.
 
-##### Artikel 531
+#### Artikel 531
 
 1. De betaler heeft gedurende een periode van acht weken na de datum waarop de geldmiddelen zijn gedebiteerd, een onvoorwaardelijk recht om de in [artikel 530](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=530&z=2026-01-01&g=2026-01-01) bedoelde terugbetaling te verzoeken.
 
@@ -6801,7 +6776,7 @@ Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde 
 
 #### Paragraaf 1. Betaalopdrachten, kosten en overgemaakte bedragen
 
-##### Artikel 532
+#### Artikel 532
 
 1. Het tijdstip van ontvangst is het tijdstip waarop de betaalopdracht door de betaaldienstverlener van de betaler wordt ontvangen.
 
@@ -6809,7 +6784,7 @@ Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkd
 
 2. Indien de betaaldienstgebruiker die een betaalopdracht initieert en zijn betaaldienstverlener overeenkomen dat de uitvoering van de betaalopdracht aanvangt op een specifieke datum, aan het einde van een bepaalde termijn of op de dag waarop de betaler geldmiddelen ter beschikking van zijn betaaldienstverlener heeft gesteld, wordt het tijdstip van ontvangst van de opdracht voor de toepassing van [artikel 537](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=537&z=2026-01-01&g=2026-01-01) geacht op de overeengekomen dag te vallen. Indien de overeengekomen dag geen werkdag is voor de betaaldienstverlener, wordt de ontvangen betaalopdracht geacht op de eerstvolgende werkdag te zijn ontvangen.
 
-##### Artikel 533
+#### Artikel 533
 
 1. Indien de betaaldienstverlener weigert een betaalopdracht uit te voeren of een betalingstransactie te initiëren, wordt de betaaldienstgebruiker in kennis gesteld van deze weigering en, indien mogelijk, van de redenen daarvoor en van de procedure voor de correctie van eventuele feitelijke onjuistheden die tot de weigering hebben geleid, tenzij ander toepasselijk Unierecht of toepasselijk nationaal recht dit verbiedt.
 
@@ -6821,7 +6796,7 @@ Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkd
 
 5. Een betaalopdracht waarvan de uitvoering is geweigerd, wordt geacht niet ontvangen te zijn voor de toepassing van de [artikelen 537](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=537&z=2026-01-01&g=2026-01-01), [543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01), [544](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=544&z=2026-01-01&g=2026-01-01) en [545](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=545&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 534
+#### Artikel 534
 
 1. De betaaldienstgebruiker kan een betaalopdracht niet meer herroepen vanaf het tijdstip van ontvangst, bedoeld in [artikel 532, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=1&artikel=532&z=2026-01-01&g=2026-01-01), tenzij anders is bepaald in dit artikel.
 
@@ -6835,7 +6810,7 @@ Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkd
 
 6. Indien zulks in de raamovereenkomst is overeengekomen, mag de relevante betaaldienstverlener kosten voor de herroeping in rekening brengen.
 
-##### Artikel 535
+#### Artikel 535
 
 1. De betaaldienstverlener(s) van de betaler, de betaaldienstverlener(s) van de begunstigde en eventuele intermediairs van de betaaldienstverlener(s) maken het volledige bedrag van de betalingstransactie over en houden op het overgemaakte bedrag geen kosten in.
 
@@ -6845,7 +6820,7 @@ Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkd
 
 #### Paragraaf 2. Uitvoeringstermijn en valutadatum
 
-##### Artikel 536
+#### Artikel 536
 
 1. Deze paragraaf is van toepassing op:
 
@@ -6857,7 +6832,7 @@ Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkd
 
 2. Deze paragraaf is van toepassing op andere betalingstransacties, tenzij tussen de betaaldienstgebruiker en zijn betaaldienstverlener anders overeengekomen is, met uitzondering van [artikel 541](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=541&z=2026-01-01&g=2026-01-01), van welke bepaling niet kan worden afgeweken. Indien de betaaldienstgebruiker en zijn betaaldienstverlener evenwel een periode overeenkomen die langer is dan in [artikel 537](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=537&z=2026-01-01&g=2026-01-01) is bepaald, mag die periode voor betalingstransacties binnen de Europese Unie niet langer zijn dan vier werkdagen na het tijdstip van ontvangst overeenkomstig [artikel 532](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=1&artikel=532&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 537
+#### Artikel 537
 
 1. De betaaldienstverlener van de betaler draagt er zorg voor dat de betaalrekening van de betaaldienstverlener van de begunstigde uiterlijk aan het einde van de eerstvolgende werkdag na het tijdstip van ontvangst overeenkomstig [artikel 532](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=1&artikel=532&z=2026-01-01&g=2026-01-01) voor het bedrag van de betalingstransactie wordt gecrediteerd. Deze termijn kan voor betalingstransacties die op papier worden geïnitieerd, met een werkdag worden verlengd.
 
@@ -6865,21 +6840,21 @@ Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkd
 
 3. De betaaldienstverlener van de begunstigde zendt een door of via de begunstigde geïnitieerde betaalopdracht toe aan de betaaldienstverlener van de betaler binnen de tussen de begunstigde en zijn betaaldienstverlener overeengekomen termijnen, zodat automatische afschrijvingen op de afgesproken datum kunnen plaatsvinden.
 
-##### Artikel 538
+#### Artikel 538
 
 Indien de begunstigde geen betaalrekening bij de betaaldienstverlener heeft, worden de geldmiddelen door de betaaldienstverlener die de geldmiddelen ten behoeve van de begunstigde ontvangt, aan de begunstigde ter beschikking gesteld binnen de in [artikel 537](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=537&z=2026-01-01&g=2026-01-01) gespecificeerde termijn.
 
-##### Artikel 539
+#### Artikel 539
 
 1. Indien een consument chartaal geld op een betaalrekening bij een betaaldienstverlener deponeert in de valuta van die betaalrekening, zorgt die betaaldienstverlener ervoor dat het bedrag onmiddellijk na het tijdstip van ontvangst van de geldmiddelen beschikbaar wordt gesteld en wordt gevaluteerd.
 
 2. Indien de betaaldienstgebruiker geen consument is, wordt het bedrag uiterlijk op de eerstvolgende werkdag na de ontvangst van de geldmiddelen op de betaalrekening van de begunstigde beschikbaar gesteld en gevaluteerd.
 
-##### Artikel 540
+#### Artikel 540
 
 Bij algemene maatregel van bestuur kan voor nationale betalingstransacties in kortere maximale uitvoeringstermijnen worden voorzien dan die welke in deze paragraaf zijn bepaald.
 
-##### Artikel 541
+#### Artikel 541
 
 1. De valutadatum van de creditering van de betaalrekening van de begunstigde valt uiterlijk op de werkdag waarop het bedrag van de betalingstransactie op de rekening van de betaaldienstverlener van de begunstigde wordt gecrediteerd. De betaaldienstverlener van de begunstigde zorgt ervoor dat het bedrag van de betalingstransactie ter beschikking van de begunstigde komt zodra dat bedrag op de rekening van de betaaldienstverlener van de begunstigde is gecrediteerd wanneer er van de zijde van de betaaldienstverlener van de begunstigde geen valutawissel is, er een valutawissel is tussen de euro en de valuta van een lidstaat of tussen de valuta’s van twee lidstaten. De in de vorige zin opgenomen verplichting is ook van toepassing op betalingen binnen één betaaldienstverlener.
 
@@ -6887,7 +6862,7 @@ Bij algemene maatregel van bestuur kan voor nationale betalingstransacties in ko
 
 #### Paragraaf 4. Teeltpacht en geliberaliseerde pacht
 
-##### Artikel 542
+#### Artikel 542
 
 1. Indien een betaalopdracht wordt uitgevoerd op basis van een unieke identificator, wordt de betaalopdracht geacht correct te zijn uitgevoerd wat de in de unieke identificator gespecificeerde begunstigde betreft.
 
@@ -6899,7 +6874,7 @@ Bij algemene maatregel van bestuur kan voor nationale betalingstransacties in ko
 
 5. Indien de betaaldienstgebruiker aanvullende informatie verstrekt naast de informatie die krachtens het bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 4:22 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), bepaalde vereist is, is de betaaldienstverlener alleen aansprakelijk voor de uitvoering van betalingstransacties overeenkomstig de unieke identificator die door de betaaldienstgebruiker is gespecificeerd.
 
-##### Artikel 543
+#### Artikel 543
 
 1. Indien een betaalopdracht door de betaler rechtstreeks wordt geïnitieerd, is de betaaldienstverlener van de betaler, onverminderd [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01), [artikel 542, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=542&z=2026-01-01&g=2026-01-01), en [artikel 548](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=548&z=2026-01-01&g=2026-01-01), jegens de betaler aansprakelijk voor de juiste uitvoering daarvan, tenzij hij tegenover de betaler en, voor zover relevant, tegenover de betaaldienstverlener van de begunstigde kan bewijzen dat de betaaldienstverlener van de begunstigde het bedrag van de betalingstransactie heeft ontvangen overeenkomstig [artikel 537, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=537&z=2026-01-01&g=2026-01-01), in welk geval de betaaldienstverlener van de begunstigde aansprakelijk is jegens de begunstigde voor de juiste uitvoering van de betalingstransactie.
 
@@ -6911,7 +6886,7 @@ Bij algemene maatregel van bestuur kan voor nationale betalingstransacties in ko
 
 5. Bij een niet-tijdige uitvoering van een betalingstransactie zorgt de betaaldienstverlener van de begunstigde ervoor dat, op verzoek van de betaaldienstverlener van de betaler die voor rekening van de betaler optreedt, de valutadatum voor de creditering van de betaalrekening van de begunstigde uiterlijk de datum is waarop het bedrag bij een correcte uitvoering van de transactie zou zijn gevaluteerd.
 
-##### Artikel 544
+#### Artikel 544
 
 1. Indien een betaalopdracht door of via de begunstigde wordt geïnitieerd, is de betaaldienstverlener van de begunstigde, onverminderd [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01), [artikel 542, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=542&z=2026-01-01&g=2026-01-01), en [artikel 548](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=548&z=2026-01-01&g=2026-01-01), aansprakelijk jegens de begunstigde voor de juiste verzending van de betaalopdracht aan de betaaldienstverlener van de betaler, overeenkomstig [artikel 537, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=2&artikel=537&z=2026-01-01&g=2026-01-01).
 
@@ -6925,35 +6900,35 @@ Bij algemene maatregel van bestuur kan voor nationale betalingstransacties in ko
 
 6. Indien een door of via de begunstigde geïnitieerde betalingstransactie niet of gebrekkig is uitgevoerd, tracht de betaaldienstverlener van de begunstigde, ongeacht de aansprakelijkheid uit hoofde van dit artikel, desgevraagd onmiddellijk de betalingstransactie te traceren en stelt hij de begunstigde op de hoogte van de resultaten daarvan. De begunstigde worden daarvoor geen kosten aangerekend.
 
-##### Artikel 545
+#### Artikel 545
 
 In de gevallen, bedoeld in de [artikelen 543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01) en [544](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=544&z=2026-01-01&g=2026-01-01) zijn de betaaldienstverleners bovendien aansprakelijk jegens hun respectieve betaaldienstgebruikers voor de kosten waarvoor deze laatsten aansprakelijk zijn en de interesten die voor rekening van de betaaldienstgebruiker komen wegens niet-uitvoering of gebrekkige uitvoering, niet-tijdige uitvoering daaronder begrepen, van de betalingstransactie.
 
-##### Artikel 546
+#### Artikel 546
 
 Deze paragraaf geldt onverminderd het recht op aanvullende schadevergoeding uit hoofde van de algemene regels van overeenkomstenrecht.
 
-##### Artikel 547
+#### Artikel 547
 
 1. Indien de aansprakelijkheid van een betaaldienstverlener uit hoofde van de [artikelen 528](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=528&z=2026-01-01&g=2026-01-01), [543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01), [544](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=544&z=2026-01-01&g=2026-01-01) en [545](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=545&z=2026-01-01&g=2026-01-01) kan worden toegerekend aan een andere betaaldienstverlener of een intermediair, vergoedt die betaaldienstverlener of die intermediair eerstgenoemde betaaldienstverlener voor alle verliezen die zijn geleden en de bedragen die zijn betaald uit hoofde van de [artikelen 543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01), [544](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=544&z=2026-01-01&g=2026-01-01) en [545](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=545&z=2026-01-01&g=2026-01-01). Daartoe behoort een compensatie wanneer een van de betaaldienstverleners geen sterke cliëntauthenticatie toepast.
 
 2. Deze bepaling geldt onverminderd het recht op aanvullende schadevergoeding uit hoofde van de tussen de betaaldienstverleners en tussen de betaaldienstverleners en intermediairs gesloten overeenkomsten.
 
-##### Artikel 548
+#### Artikel 548
 
 De aansprakelijkheid krachtens de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&z=2026-01-01&g=2026-01-01) van deze titel geldt niet in abnormale en onvoorziene omstandigheden die onafhankelijk zijn van de wil van degene die zich erop beroept en waarvan de gevolgen ondanks alle voorzorgsmaatregelen niet konden worden voorkomen, noch indien een betaaldienstverlener uit hoofde van nationaal recht of Unierecht andere wettelijke verplichtingen heeft.
 
-##### Artikel 549
+#### Artikel 549
 
 Bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 4:22 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), waarbij regels worden gesteld met betrekking tot de inhoud en de verstrekking van de door titel III van de richtlijn vereiste informatie, kunnen tevens regels worden gesteld ter uitvoering van het bepaalde in de [artikelen 516](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=516&z=2026-01-01&g=2026-01-01), [517](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=517&z=2026-01-01&g=2026-01-01), [518](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=518&z=2026-01-01&g=2026-01-01), [526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01), [530, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=530&z=2026-01-01&g=2026-01-01), en [542](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=542&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 550
+#### Artikel 550
 
 1. Van het bepaalde bij deze titel kan niet ten nadele van de betaaldienstgebruiker worden afgeweken, tenzij anders is bepaald.
 
 2. Indien de betaaldienstgebruiker geen consument is, kunnen partijen overeenkomen dat de [artikelen 516 tot en met 519](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=516&z=2026-01-01&g=2026-01-01), [520, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=520&z=2026-01-01&g=2026-01-01), [522, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=522&z=2026-01-01&g=2026-01-01), [527](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=527&z=2026-01-01&g=2026-01-01), [529 tot en met 531](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=529&z=2026-01-01&g=2026-01-01), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=1&artikel=534&z=2026-01-01&g=2026-01-01), [543](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=543&z=2026-01-01&g=2026-01-01), [544](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=544&z=2026-01-01&g=2026-01-01) en [545](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=545&z=2026-01-01&g=2026-01-01) in het geheel of ten dele niet van toepassing zijn. De partijen kunnen een andere termijn overeenkomen dan die welke is gesteld bij [artikel 526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 551
+#### Artikel 551
 
 1. Van het bepaalde bij of krachtens de algemene maatregel van bestuur bedoeld in [artikel 4:22 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22) kan voor wat betreft de regels met betrekking tot de inhoud en de verstrekking van de door titel III van de richtlijn vereiste informatie of gesteld ter uitvoering van de [artikelen 516](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=516&z=2026-01-01&g=2026-01-01), [517](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=517&z=2026-01-01&g=2026-01-01), [518](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=518&z=2026-01-01&g=2026-01-01), [526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01), [530, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=530&z=2026-01-01&g=2026-01-01), en [542](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=542&z=2026-01-01&g=2026-01-01), niet ten nadele van de betaaldienstgebruiker worden afgeweken, tenzij in de wet anders is bepaald.
 
@@ -7005,7 +6980,7 @@ Bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 4:22 van
 
 ## Titel 18. Lijfrente
 
-##### Artikel 692
+#### Artikel 692
 
 De payrollovereenkomst is de uitzendovereenkomst, waarbij de overeenkomst van opdracht tussen de werkgever en de derde niet tot stand is gekomen in het kader van het samenbrengen van vraag en aanbod op de arbeidsmarkt en waarbij de werkgever alleen met toestemming van de derde bevoegd is de werknemer aan een ander ter beschikking te stellen.
 
@@ -7039,7 +7014,7 @@ De payrollovereenkomst is de uitzendovereenkomst, waarbij de overeenkomst van op
 
 ## Titel 18. Lijfrente
 
-##### Artikel 50a
+#### Artikel 50a
 
 In deze titel wordt verstaan onder:
 
@@ -7061,7 +7036,7 @@ In deze titel wordt verstaan onder:
 
 - i. **richtlijn:** Richtlijn nr. 2008/122/EG van het Europees Parlement en de Raad van 14 januari 2009 betreffende de bescherming van de consumenten met betrekking tot bepaalde aspecten van overeenkomsten betreffende gebruik in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling (PbEU L 33/10).
 
-##### Artikel 50b
+#### Artikel 50b
 
 1. De handelaar verstrekt aan de consument geruime tijd voordat hij door een overeenkomst betreffende gebruik in deeltijd wordt gebonden kosteloos en op duidelijke en begrijpelijke wijze nauwkeurige en toereikende informatie overeenkomstig het in bijlage I bij de richtlijn opgenomen model. De informatie wordt verstrekt op een duurzame gegevensdrager die voor de consument gemakkelijk toegankelijk is.
 
@@ -7077,7 +7052,7 @@ In deze titel wordt verstaan onder:
 
 7. Een handelaar die in strijd handelt met dit artikel verricht een oneerlijke handelspraktijk als bedoeld in [artikel 193b van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193b).
 
-##### Artikel 50c
+#### Artikel 50c
 
 1. De overeenkomst betreffende gebruik in deeltijd wordt schriftelijk, op een duurzame gegevensdrager, aangegaan en wordt door partijen ondertekend.
 
@@ -7099,7 +7074,7 @@ In deze titel wordt verstaan onder:
 
 8. De in het eerste lid bedoelde overeenkomst of een afschrift daarvan wordt de consument bij het sluiten van de overeenkomst ter hand gesteld.
 
-##### Artikel 50d
+#### Artikel 50d
 
 1. De consument kan de overeenkomst betreffende gebruik in deeltijd zonder opgave van redenen kosteloos ontbinden gedurende veertien dagen vanaf:
 
@@ -7113,7 +7088,7 @@ In deze titel wordt verstaan onder:
 
 4. De consument oefent het in lid 1 bedoelde recht uit door binnen de gestelde termijn een daartoe strekkende schriftelijke verklaring, op een duurzame gegevensdrager, te zenden aan de handelaar.
 
-##### Artikel 50e
+#### Artikel 50e
 
 1. In geval van ontbinding overeenkomstig [artikel 50d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50d&z=2026-01-01&g=2026-01-01) worden de consument geen kosten gerekend, noch wordt hij aansprakelijk gesteld voor diensten die hem voor de ontbinding kunnen zijn geleverd.
 
@@ -7125,7 +7100,7 @@ In deze titel wordt verstaan onder:
 
 - c. een overeenkomst die ertoe strekt dat de handelaar, of een derde op grond van een regeling tussen die derde en de handelaar, aan de consument ten behoeve van de voldoening van de prijs of een gedeelte daarvan een krediet heeft verleend.
 
-##### Artikel 50f
+#### Artikel 50f
 
 1. De consument wordt gedurende de termijn waarbinnen hij het in [artikel 50d lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50d&z=2026-01-01&g=2026-01-01) bedoelde recht van ontbinding kan uitoefenen, niet verzocht om of verplicht tot:
 
@@ -7141,7 +7116,7 @@ In deze titel wordt verstaan onder:
 
 2. Binnen de in het vorige lid genoemde termijn gedane vooruitbetalingen gelden als onverschuldigd betaald.
 
-##### Artikel 50g
+#### Artikel 50g
 
 1. Op de overeenkomst betreffende een vakantieproduct van lange duur zijn de [artikelen 50a tot en met 50f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50a&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat de informatie, bedoeld in [artikel 50b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50b&z=2026-01-01&g=2026-01-01), wordt verstrekt overeenkomstig het in bijlage II bij de richtlijn opgenomen model.
 
@@ -7151,7 +7126,7 @@ In deze titel wordt verstaan onder:
 
 4. De consument kan vanaf de tweede betalingstermijn de overeenkomst opzeggen zonder dat hij een boete verschuldigd is door binnen veertien dagen na ontvangst van het betalingsverzoek, bedoeld in het vorige lid, een daartoe strekkende verklaring te zenden aan de handelaar.
 
-##### Artikel 50h
+#### Artikel 50h
 
 Op de overeenkomst van bijstand bij verhandelen en de uitwisselingsovereenkomst zijn [artikel 50b, leden 1 tot en met 5 alsmede lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50b&z=2026-01-01&g=2026-01-01), en de [artikelen 50c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50c&z=2026-01-01&g=2026-01-01), [50d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50d&z=2026-01-01&g=2026-01-01), [50e lid 1 en lid 2, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50e&z=2026-01-01&g=2026-01-01), alsmede [artikel 50f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50f&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -7167,7 +7142,7 @@ Op de overeenkomst van bijstand bij verhandelen en de uitwisselingsovereenkomst 
 
 - 2°. als de overeenkomst wordt aangeboden samen met en op hetzelfde tijdstip als een overeenkomst betreffende gebruik in deeltijd, slechts een enkele termijn voor ontbinding als bedoeld in [artikel 50d lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50d&z=2026-01-01&g=2026-01-01) geldt, waarbij de termijn voor beide overeenkomsten wordt berekend overeenkomstig lid 1 van dat artikel.
 
-##### Artikel 50i
+#### Artikel 50i
 
 1. Op de termijnen genoemd in deze titel is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing.
 
@@ -7301,7 +7276,7 @@ Op de overeenkomst van bijstand bij verhandelen en de uitwisselingsovereenkomst 
 
 ## Titel 18. Lijfrente
 
-##### Artikel 521a
+#### Artikel 521a
 
 1. Een elektronischgeldinstelling betaalt, wanneer de houder van het elektronisch geld daarom verzoekt, de nominale waarde van het elektronisch geld terug.
 
@@ -7381,7 +7356,7 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 ### Afdeling 1. Algemene bepalingen
 
-##### Artikel 57
+#### Artikel 57
 
 1. In deze titel wordt verstaan onder:
 
@@ -7457,7 +7432,7 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 - 2°. het goed dan wel de dienst waarop de overeenkomst voor de levering van een bepaald goed of de verrichting van een bepaalde dienst ziet uitdrukkelijk wordt vermeld in de kredietovereenkomst.
 
-##### Artikel 58
+#### Artikel 58
 
 1. Deze titel is van toepassing op kredietovereenkomsten.
 
@@ -7493,7 +7468,7 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 ### Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
 
-##### Artikel 59
+#### Artikel 59
 
 1. Een kredietgever die in reclame voor kredietovereenkomsten, overeenkomsten betreffende effectenkrediet niet daaronder begrepen, artikel 4 van de Richtlijn betreffende de in reclame op te nemen standaardinformatie niet in acht neemt, verricht een oneerlijke handelspraktijk als bedoeld in de [artikel 193b van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193b).
 
@@ -7503,7 +7478,7 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 - b. artikel 4 leden 1, 2 onderdeel a, 3 of 4 van de Richtlijn betreffende de in reclame voor kredietovereenkomsten op te nemen standaardinformatie niet in acht neemt.
 
-##### Artikel 60
+#### Artikel 60
 
 1. De kredietgever of, in voorkomend geval, de kredietbemiddelaar, verstrekt de consument geruime tijd voordat deze door een kredietovereenkomst of een aanbod wordt gebonden, de in de artikelen 5 en 6 van de Richtlijn voorgeschreven precontractuele informatie, op de in die artikelen voorgeschreven wijze.
 
@@ -7517,7 +7492,7 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 3. Indien de kredietgever of, in voorkomend geval, de kredietbemiddelaar, lid 1 of 2 niet in acht neemt, verricht hij een oneerlijke handelspraktijk als bedoeld in [artikel 193b van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193b).
 
-##### Artikel 61
+#### Artikel 61
 
 1. De kredietovereenkomst wordt op papier of op een andere duurzame drager aangegaan. De kredietgever verstrekt de consument een exemplaar van de kredietovereenkomst en behoudt zelf ook een exemplaar.
 
@@ -7623,13 +7598,13 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 - m. in voorkomende geval, naam en adres van de bevoegde toezichthoudende autoriteit.
 
-##### Artikel 62
+#### Artikel 62
 
 1. In voorkomend geval wordt de consument op papier of op een andere duurzame drager in kennis gesteld van een wijziging van de debetrentevoet voordat de wijziging van kracht wordt. Daarbij wordt het bedrag van de na de inwerkingtreding van de nieuwe debetrentevoet te verrichten betalingen vermeld evenals bijzonderheden betreffende een eventuele wijziging in het aantal of de frequentie van de betalingen.
 
 2. De partijen kunnen echter in de kredietovereenkomst overeenkomen dat de informatie, bedoeld in lid 1, periodiek aan de consument wordt verstrekt indien de wijziging van de debetrentevoet het gevolg is van een wijziging van een referentierentevoet en het publiek via passende middelen kennis kan nemen van de nieuwe referentierentevoet en de informatie over de nieuwe referentierentevoet ook beschikbaar is in de gebouwen van de kredietgever.
 
-##### Artikel 63
+#### Artikel 63
 
 1. Bij een kredietovereenkomst in de vorm van een geoorloofde debetstand op een rekening als bedoeld in [artikel 58 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=1&artikel=58&z=2026-01-01&g=2026-01-01) wordt de consument regelmatig door middel van een rekeningafschrift op papier of op een andere duurzame drager op de hoogte gebracht van de volgende informatie:
 
@@ -7653,11 +7628,11 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 
 3. De partijen kunnen in de kredietovereenkomst overeenkomen dat informatie over wijzigingen van de debetrentevoet door middel van het rekeningafschrift, bedoeld in lid 1, moet worden verstrekt, indien de wijziging van de debetrentevoet het gevolg is van een wijziging van een referentierentevoet en het publiek via passende middelen kennis kan nemen van de nieuwe referentierentevoet en de informatie over de nieuwe referentierentevoet ook beschikbaar is in de gebouwen van de kredietgever.
 
-##### Artikel 64
+#### Artikel 64
 
 Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van wijzigingen in de dekkingspercentages en de spreidingseisen op de dag dat de betreffende wijziging ingaat, op de ingevolge [artikel 61 lid 7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=3&artikel=61&z=2026-01-01&g=2026-01-01), overeengekomen wijze.
 
-##### Artikel 65
+#### Artikel 65
 
 1. De consument kan een kredietovereenkomst met onbepaalde looptijd te allen tijde kosteloos beëindigen. Indien partijen een opzeggingstermijn zijn overeengekomen, mag deze termijn niet langer zijn dan één maand.
 
@@ -7665,7 +7640,7 @@ Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van
 
 3. De kredietgever kan, indien dit in de kredietovereenkomst is overeengekomen, op objectieve gronden de consument het recht ontnemen om op grond van een kredietovereenkomst met onbepaalde looptijd krediet op te nemen. De kredietgever stelt de consument, op papier of op een andere duurzame drager, indien mogelijk van tevoren en uiterlijk onmiddellijk na deze ontneming, van deze ontneming in kennis, alsook van de gronden hiervoor, tenzij het verstrekken van dergelijke informatie op grond van andere communautaire wetgeving is verboden of indruist tegen doelstellingen van openbare orde of openbare veiligheid.
 
-##### Artikel 66
+#### Artikel 66
 
 1. De consument heeft het recht om de kredietovereenkomst zonder opgave van redenen te ontbinden gedurende veertien kalenderdagen na:
 
@@ -7685,7 +7660,7 @@ Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van
 
 7. Lid 1 is niet van toepassing op overeenkomsten betreffende effectenkrediet.
 
-##### Artikel 67
+#### Artikel 67
 
 1. Indien de consument een overeenkomst voor de levering van een goed of het verrichten van een dienst heeft ontbonden overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230o) of [artikel 230x van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230x) dan wel overeenkomstig [artikel 50d lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1a&artikel=50d&z=2026-01-01&g=2026-01-01) van Boek 7 van het Burgerlijk Wetboek, is hij evenmin langer gebonden aan de daarmee gelieerde kredietovereenkomst.
 
@@ -7695,7 +7670,7 @@ Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van
 
 4. Lid 1 is niet van toepassing op overeenkomsten betreffende effectenkrediet.
 
-##### Artikel 68
+#### Artikel 68
 
 1. De consument heeft het recht om zich te allen tijde geheel of gedeeltelijk van zijn verplichtingen op grond van een kredietovereenkomst te kwijten. In dat geval heeft hij recht op een verlaging van de totale kredietkosten, bestaande uit de interesten en de kosten gedurende de resterende duur van de overeenkomst.
 
@@ -7715,13 +7690,13 @@ Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van
 
 - b. bij een geoorloofde debetstand op een rekening.
 
-##### Artikel 69
+#### Artikel 69
 
 1. Indien de rechten die de kredietgever op grond van de kredietovereenkomst heeft, dan wel de overeenkomst zelf, aan een derde worden overgedragen, kan de consument jegens de verkrijger alle verweermiddelen inroepen die hem jegens de oorspronkelijke kredietgever ten dienste stonden, met inbegrip van de bevoegdheid tot verrekening.
 
 2. De consument wordt geïnformeerd over de in lid 1 bedoelde overdracht, behalve indien de oorspronkelijke kredietgever, in overleg met de verkrijger tegenover de consument het krediet verder beheert.
 
-##### Artikel 70
+#### Artikel 70
 
 1. Wanneer de kredietgever in een overeenkomst tot opening van een rekening de consument de mogelijkheid biedt van een overschrijding, wordt in die overeenkomst eveneens de in artikel 6 lid 1, onderdeel e, van de richtlijn bedoelde informatie vermeld. De kredietgever verstrekt die informatie in elk geval op papier of op een andere duurzame drager en op gezette tijden.
 
@@ -7737,13 +7712,13 @@ Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van
 
 ### Afdeling 4. Jaarlijks kostenpercentage
 
-##### Artikel 71
+#### Artikel 71
 
 Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomstig artikel 19 van de Richtlijn.
 
 ### Afdeling 5. Kredietgevers en kredietbemiddelaars
 
-##### Artikel 72
+#### Artikel 72
 
 1. Indien de kredietovereenkomst wordt gesloten door tussenkomst van een kredietbemiddelaar, wordt door deze in voor de consument bestemde documenten de omvang van zijn volmacht vermeld en tevens of hij exclusief met één of meer kredietgevers dan wel als onafhankelijk kredietbemiddelaar werkt.
 
@@ -7755,7 +7730,7 @@ Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomsti
 
 ### Afdeling 6. Slotbepalingen
 
-##### Artikel 73
+#### Artikel 73
 
 1. Van het bepaalde bij deze titel kan niet ten nadele van de consument worden afgeweken.
 
@@ -7923,11 +7898,11 @@ Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomsti
 
 ## Titel 18. Lijfrente
 
-##### Artikel 640a
+#### Artikel 640a
 
 De aanspraak op het minimum, bedoeld in [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=3&artikel=634&z=2026-01-01&g=2026-01-01), vervalt zes maanden na de laatste dag van het kalenderjaar waarin de aanspraak is verworven, tenzij de werknemer tot aan dat tijdstip redelijkerwijs niet in staat is geweest vakantie op te nemen. Bij schriftelijke overeenkomst kan ten gunste van de werknemer worden afgeweken van de termijn van zes maanden, bedoeld in de eerste zin.
 
-##### Artikel 693
+#### Artikel 693
 
 Indien de arbeid aan boord van een zeeschip als bedoeld in [artikel 695 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=695&z=2026-01-01&g=2026-01-01) wordt verricht, is de derde, ongeacht het op de arbeidsovereenkomst en de overeenkomst tussen de werkgever en de derde toepasselijke recht, aansprakelijk voor de nakoming van de uit de [artikelen 706 tot en met 709](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=706&z=2026-01-01&g=2026-01-01), [717 tot en met 720](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=717&z=2026-01-01&g=2026-01-01), [734 tot en met 734l](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01) voortvloeiende verplichtingen, indien de werkgever met de nakoming daarvan in gebreke is.
 
@@ -7989,7 +7964,7 @@ Indien de arbeid aan boord van een zeeschip als bedoeld in [artikel 695 lid 1](h
 
 ## Titel 18. Lijfrente
 
-##### Artikel 252a
+#### Artikel 252a
 
 1. Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01) doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het inkomenstoetsjaar:
 
@@ -8027,7 +8002,7 @@ Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter u
 
 - c. onder b komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het peiljaar gelijk is aan of lager is dan het op grond van [artikel 10 lid 2 onder a onder 3 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) voor zijn huishouden toepasselijke bedrag, in welk geval dat voorstel wordt aangemerkt als een voorstel als bedoeld in lid 1 onder a.
 
-##### Artikel 252b
+#### Artikel 252b
 
 1. Onverminderd het bepaalde in [artikel 252a lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252a&z=2026-01-01&g=2026-01-01) kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01) doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, in het peiljaar is gedaald en daarmee:
 
@@ -8135,19 +8110,19 @@ Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter u
 
 #### Paragraaf 1. Betaalopdrachten, kosten en overgemaakte bedragen
 
-##### Artikel 694
+#### Artikel 694
 
 1. De zee-arbeidsovereenkomst is de arbeidsovereenkomst, waaronder begrepen de uitzendovereenkomst, waarbij de zeevarende zich verbindt arbeid aan boord van een zeeschip te verrichten.
 
 2. Bij algemene maatregel van bestuur kunnen, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, categorieën van zeevarenden worden aangewezen die niet worden aangemerkt als zeevarenden als bedoeld in lid 1.
 
-##### Artikel 695
+#### Artikel 695
 
 1. Deze afdeling is van toepassing op zeeschepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren en op zeeschepen die gerechtigd zijn een andere vlag te voeren, indien de zee-arbeidsovereenkomst wordt beheerst door Nederlands recht.
 
 2. In deze afdeling wordt onder scheepsbeheerder verstaan de scheepsbeheerder, bedoeld in [artikel 1 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=1).
 
-##### Artikel 696
+#### Artikel 696
 
 1. Op de zee-arbeidsovereenkomst zijn de bepalingen van de [afdelingen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=1&z=2026-01-01&g=2026-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=11&z=2026-01-01&g=2026-01-01) van deze titel van toepassing, voor zover daarvan in deze afdeling niet is afgeweken. [Artikel 617](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=617&z=2026-01-01&g=2026-01-01) is niet van toepassing ten aanzien van de dienst aan boord van het zeeschip.
 
@@ -8157,17 +8132,17 @@ Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter u
 
 4. Op de zee-arbeidsovereenkomst zijn de bepalingen van de [artikelen 628b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=628b&z=2026-01-01&g=2026-01-01), [653a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=5&artikel=653a&z=2026-01-01&g=2026-01-01) en [655, lid 1, aanhef en onderdelen i, aanhef en onder 2°, k en s](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=6&artikel=655&z=2026-01-01&g=2026-01-01), niet van toepassing.
 
-##### Artikel 697
+#### Artikel 697
 
 1. De zee-arbeidsovereenkomst moet door partijen schriftelijk worden aangegaan en door hen worden ondertekend.
 
 2. Ieder der partijen dient te beschikken over een ondertekend origineel exemplaar van de zee-arbeidsovereenkomst.
 
-##### Artikel 698
+#### Artikel 698
 
 Iedere zeevarende moet aan boord kennis kunnen nemen van zijn zee-arbeidsovereenkomst en van de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan alsmede op eenvoudige wijze duidelijke informatie kunnen krijgen over niet daarin voorkomende arbeidsvoorwaarden.
 
-##### Artikel 699
+#### Artikel 699
 
 De zee-arbeidsovereenkomst vermeldt in ieder geval:
 
@@ -8203,35 +8178,35 @@ De zee-arbeidsovereenkomst vermeldt in ieder geval:
 
 - 14. een verwijzing naar de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.
 
-##### Artikel 700
+#### Artikel 700
 
 Een zeevarende kan niet worden beperkt in zijn bevoegdheid om na het einde van de zee-arbeidsovereenkomst op zekere wijze werkzaam te zijn.
 
-##### Artikel 701
+#### Artikel 701
 
 Vanaf het in de zee-arbeidsovereenkomst vastgelegde tijdstip van aanvang van de arbeidsovereenkomst heeft de zeevarende zich voor de uitoefening van zijn functie ter beschikking te houden van de werkgever. Is over de aanvang van de zee-arbeidsovereenkomst niets bepaald, dan valt deze voor de toepassing van dit artikel samen met het aangaan daarvan.
 
-##### Artikel 702
+#### Artikel 702
 
 De zeevarende is in dienst aan boord van het zeeschip vanaf het tijdstip dat hij zijn werkzaamheden aan boord aanvangt tot het tijdstip waarop hij van zijn werkzaamheden aan boord wordt ontheven of hij deze neerlegt.
 
-##### Artikel 703
+#### Artikel 703
 
 De kapitein vertegenwoordigt de werkgever in de uitvoering van de zee-arbeidsovereenkomsten met de zeevarenden, die in dienst zijn aan boord van het door hem gevoerde zeeschip.
 
-##### Artikel 704
+#### Artikel 704
 
 1. De zeevarende is verplicht de hem door de kapitein opgedragen werkzaamheden te verrichten, ook indien het andere werkzaamheden betreft dan hij heeft te verrichten overeenkomstig de functie, waarin hij volgens de zee-arbeidsovereenkomst aan boord dienst doet.
 
 2. De zeevarende is verplicht mee te werken aan het behoud van het zeeschip, de opvarenden en de zaken aan boord.
 
-##### Artikel 705
+#### Artikel 705
 
 In zaken betreffende een zee-arbeidsovereenkomst of een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan is, ongeacht het toepasselijke recht, de kantonrechter van de rechtbank Rotterdam bij uitsluiting bevoegd, tenzij in deze afdeling anders is bepaald.
 
 #### Paragraaf 3. Aansprakelijkheid
 
-##### Artikel 706
+#### Artikel 706
 
 1. Voldoening van het in geld vastgestelde deel van het in dienst aan boord van een zeeschip verdiende loon geschiedt:
 
@@ -8243,13 +8218,13 @@ In zaken betreffende een zee-arbeidsovereenkomst of een collectieve arbeidsovere
 
 2. Indien omrekening nodig is, geschiedt deze naar de koers, bedoeld in de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=124) en [126 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=126).
 
-##### Artikel 707
+#### Artikel 707
 
 1. De zeevarende kan de werkgever schriftelijk verzoeken zijn loon geheel of gedeeltelijk over te maken aan door de zeevarende aan te wijzen personen. Indien omrekening nodig is, geschiedt deze naar de koers, bedoeld in de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=124) en [126 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=126).
 
 2. Het schriftelijke verzoek om beëindiging van de in lid 1 bedoelde overmaking wordt uiterlijk een maand voor de eerstvolgende betaaldag gedaan.
 
-##### Artikel 708
+#### Artikel 708
 
 1. De zeevarende heeft recht op voldoening van het in dienst aan boord van een zeeschip verdiende loon:
 
@@ -8259,7 +8234,7 @@ In zaken betreffende een zee-arbeidsovereenkomst of een collectieve arbeidsovere
 
 2. De voldoening van het in lid 1 onder a bedoelde loon geschiedt uiterlijk op de dag volgende op die van de aankomst, maar in ieder geval voor het vertrek uit de haven, met dien verstande dat de betalingen elkaar opvolgen met tussenpozen van niet meer dan een maand.
 
-##### Artikel 709
+#### Artikel 709
 
 1. Verricht de zeevarende arbeid langer dan de door de wet of de zee-arbeidsovereenkomst bepaalde normale arbeidsduur dan heeft hij voor die extra uren recht op een toeslag op het loon, tenzij de kapitein deze arbeid noodzakelijk acht tot behoud van het schip, de opvarenden of de zaken aan boord. Het bedrag van de toeslag wordt bepaald door de zee-arbeidsovereenkomst of, bij stilzwijgen daarvan, door het gebruik of de billijkheid.
 
@@ -8267,37 +8242,37 @@ In zaken betreffende een zee-arbeidsovereenkomst of een collectieve arbeidsovere
 
 3. De kapitein doet van ieder geval van overwerk aantekening in een daartoe bestemd register. Elke aantekening wordt ondertekend door de zeevarende binnen een termijn van ten hoogste een maand.
 
-##### Artikel 710
+#### Artikel 710
 
 Verricht de zeevarende andere werkzaamheden dan hij heeft te verrichten overeenkomstig de functie, waarin hij volgens de zee-arbeidsovereenkomst aan boord dienst doet, dan heeft hij recht op het daarmee overeenkomende loon indien dit hoger is dan het loon voortvloeiende uit de zee-arbeidsovereenkomst.
 
-##### Artikel 711
+#### Artikel 711
 
 Werkt de zeevarende mee aan het behoud van het zeeschip, de opvarenden en de zaken aan boord, dan heeft hij recht op een buitengewone beloning voor de dagen, gedurende welke hij tot dit behoud werkzaam is geweest.
 
-##### Artikel 712
+#### Artikel 712
 
 Indien een zeeschip, dat niet tot het verrichten van sleepdienst is bestemd, aan een ander in open zee aangetroffen schip sleepdienst bewijst onder omstandigheden die geen aanspraak op hulploon geven, hebben de zeevarenden recht op een aandeel in het sleeploon. De werkgever deelt iedere zeevarende voor de uitbetaling desgevraagd het bedrag van het sleeploon en de verdeling daarvan schriftelijk mee.
 
-##### Artikel 713
+#### Artikel 713
 
 Een rechtsvordering op grond van de [artikelen 709 tot en met 712](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=709&z=2026-01-01&g=2026-01-01) verjaart na verloop van zes maanden na het ontstaan van het vorderingsrecht.
 
-##### Artikel 714
+#### Artikel 714
 
 Voor zover het in geld uitgedrukte deel van het loon is vastgesteld bij de reis, heeft de zeevarende recht op een evenredige verhoging van het loon, als de reis door toedoen van de scheepsbeheerder, door molest of door verblijf in een noodhaven of een andere soortgelijke reden wordt verlengd in het belang van het zeeschip, de opvarenden en de zaken aan boord.
 
-##### Artikel 715
+#### Artikel 715
 
 De in [artikel 626](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=626&z=2026-01-01&g=2026-01-01) bedoelde opgave wordt maandelijks verstrekt en bevat tevens een opgave van de munteenheid of de koers die afwijkt van hetgeen is overeengekomen.
 
-##### Artikel 716
+#### Artikel 716
 
 Geen loon is verschuldigd voor de tijd gedurende welke de zeevarende zonder deugdelijke grond heeft geweigerd de bedongen arbeid of andere opgedragen werkzaamheden te verrichten.
 
 #### Vakantie
 
-##### Artikel 717
+#### Artikel 717
 
 1. De zeevarende verwerft over ieder jaar waarin hij gedurende de volledige overeengekomen arbeidsduur recht op loon heeft gehad, aanspraak op vakantie van ten minste 30 kalenderdagen.
 
@@ -8327,7 +8302,7 @@ Geen loon is verschuldigd voor de tijd gedurende welke de zeevarende zonder deug
 
 #### Vakantie
 
-##### Artikel 718
+#### Artikel 718
 
 1. De zeevarende heeft recht op repatriëring op een snelle en geschikte wijze, zo mogelijk per vliegtuig, naar een door hem gekozen plaats van bestemming in geval:
 
@@ -8369,7 +8344,7 @@ Geen loon is verschuldigd voor de tijd gedurende welke de zeevarende zonder deug
 
 #### Algemene bepalingen
 
-##### Artikel 719
+#### Artikel 719
 
 1. De werkgever is jegens de zeevarende aansprakelijk voor de schade die de zeevarende lijdt als gevolg van schipbreuk of een andere aan het zeeschip overkomen ramp.
 
@@ -8383,7 +8358,7 @@ Geen loon is verschuldigd voor de tijd gedurende welke de zeevarende zonder deug
 
 6. De vorderingen inzake de in het tweede en derde lid bedoelde uitkeringen zijn bevoorrecht op alle roerende en onroerende zaken van de werkgever. Het voorrecht staat in rang gelijk met dat, bedoeld in [artikel 288, onder e, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
-##### Artikel 720
+#### Artikel 720
 
 1. Indien de zeevarende overlijdt gedurende de dienst aan boord van het zeeschip of aan de wal in verband met de dienst aan boord, komen voor rekening van de werkgever:
 
@@ -8399,31 +8374,31 @@ Geen loon is verschuldigd voor de tijd gedurende welke de zeevarende zonder deug
 
 #### Einde van de zee-arbeidsovereenkomst
 
-##### Artikel 721
+#### Artikel 721
 
 Indien een proeftijd is overeengekomen, kan hierop geen beroep worden gedaan zolang de dienst aan boord niet is geëindigd.
 
-##### Artikel 722
+#### Artikel 722
 
 De voor bepaalde tijd aangegane of voortgezette zee-arbeidsovereenkomst eindigt in de eerste haven, die het zeeschip aandoet nadat die tijd is verstreken en, voor zover nodig, opzegging heeft plaatsgevonden.
 
-##### Artikel 723
+#### Artikel 723
 
 1. De zee-arbeidsovereenkomst voor bepaalde tijd, aangegaan bij de reis, eindigt na afloop van de reis of de reizen waarvoor zij is aangegaan.
 
 2. Indien de reis eindigt in een andere haven dan overeengekomen, eindigt de zee-arbeidsovereenkomst op het tijdstip waarop de zeevarende overeenkomstig [artikel 718](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01) is gerepatrieerd. Indien het recht van de zeevarende op repatriëring is vervallen, eindigt de zee-arbeidsovereenkomst in de andere haven, bedoeld in de eerste volzin, op het moment waarop dit recht is vervallen.
 
-##### Artikel 724
+#### Artikel 724
 
 1. Gedurende de tijd dat de zeevarende in dienst is aan boord van een zeeschip kan ieder der partijen de voor onbepaalde tijd aangegane zee-arbeidsovereenkomst door schriftelijke opzegging doen eindigen in iedere haven die wordt aangedaan met inachtneming van een termijn van opzegging van ten minste zeven dagen. De termijn van opzegging mag voor de werkgever niet korter worden gesteld dan voor de zeevarende.
 
 2. Lid 1 is mede van toepassing als de werkgever overlijdt gedurende de tijd dat de zeevarende in dienst is aan boord van een zeeschip, en hetzij de erfgenamen van de werkgever, hetzij de zeevarende gebruik willen maken van de bevoegdheid in [artikel 675](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=675&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 725
+#### Artikel 725
 
 Gedurende een reis van het zeeschip kan ieder der partijen de zee-arbeidsovereenkomst slechts op de voet van [artikel 677 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01) opzeggen tegen het tijdstip, waarop het zeeschip zich in een haven bevindt.
 
-##### Artikel 726
+#### Artikel 726
 
 Behalve in de gevallen, genoemd in [artikel 678 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=678&z=2026-01-01&g=2026-01-01), zullen voor de werkgever dringende redenen onder andere aanwezig geacht kunnen worden, wanneer:
 
@@ -8435,7 +8410,7 @@ Behalve in de gevallen, genoemd in [artikel 678 lid 2](https://wetten.overheid.n
 
 - d. de zeevarende smokkelwaren aan boord heeft gebracht of daar onder zijn berusting heeft of in geval van de kapitein, hij smokkelwaren aan boord heeft gebracht, daar onder zijn berusting heeft of daar heeft toegelaten.
 
-##### Artikel 727
+#### Artikel 727
 
 Behalve in de gevallen, genoemd in [artikel 679 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=697&z=2026-01-01&g=2026-01-01), zullen voor de zeevarende dringende redenen aanwezig geacht kunnen worden, wanneer:
 
@@ -8457,39 +8432,39 @@ Behalve in de gevallen, genoemd in [artikel 679 lid 2](https://wetten.overheid.n
 
 - i. de zee-arbeidsovereenkomst is aangegaan voor een of meer bepaalde reizen en het zeeschip andere reizen maakt.
 
-##### Artikel 728
+#### Artikel 728
 
 In afwijking van [artikel 705](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=705&z=2026-01-01&g=2026-01-01) kan het verzoek om ontbinding van de zee-arbeidsovereenkomst, bedoeld in de [artikelen 671b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=671b&z=2026-01-01&g=2026-01-01) en [671c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=671c&z=2026-01-01&g=2026-01-01), mede worden gedaan aan de ingevolge de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=99), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=100) en [107 tot en met 109 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=107) bevoegde kantonrechter.
 
-##### Artikel 729
+#### Artikel 729
 
 1. Indien de zee-arbeidsovereenkomst is aangegaan bij de reis en ten gevolge van overmacht de reis niet aanvangt of, nadat zij is aangevangen, wordt gestaakt, eindigt de zee-arbeidsovereenkomst. De zeevarende heeft in het laatstbedoelde geval recht op schadevergoeding gelijk aan het in de zee-arbeidsovereenkomst naar tijdruimte in geld vastgestelde loon, totdat hij in het land van zijn woonplaats of gewone verblijfplaats kan zijn teruggekomen of hij eerder werk heeft gevonden.
 
 2. Lid 1 geldt eveneens als de zeevarende zich uitsluitend verbonden heeft aan boord van een bepaald zeeschip dienst te doen en dit zeeschip vergaat, ook als de zee-arbeidsovereenkomst niet bij de reis is aangegaan.
 
-##### Artikel 730
+#### Artikel 730
 
 Indien de zee-arbeidsovereenkomst is aangegaan bij de reis en de reis door toedoen van de scheepsbeheerder niet aanvangt of, nadat zij is aangevangen, wordt gestaakt, eindigt de zee-arbeidsovereenkomst. De zeevarende heeft in die gevallen recht op schadevergoeding gelijk aan het bedrag van het voor de reis vastgestelde loon.
 
-##### Artikel 731
+#### Artikel 731
 
 De werkgever is verplicht binnen een maand na het einde van de dienst aan boord de zeevarende een schriftelijke afrekening ter hand te stellen. Bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan kan een langere termijn worden overeengekomen.
 
-##### Artikel 732
+#### Artikel 732
 
 Na het einde van de reis, is de zeevarende, wiens zee-arbeidsovereenkomst is geëindigd, gedurende drie werkdagen gehouden op verzoek van de kapitein mee te werken aan het opmaken van een scheepsverklaring als bedoeld in [artikel 353 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=353). De werkgever is verplicht voor deze dagen een schadevergoeding te betalen gelijk aan het in de zee-arbeidsovereenkomst naar tijdruimte in geld vastgestelde deel van dat loon, alsmede de kosten van onderhoud en zo nodig van overnachting.
 
-##### Artikel 733
+#### Artikel 733
 
 De kapitein die zijn zee-arbeidsovereenkomst opzegt, terwijl het door hem gevoerde zeeschip zich op reis bevindt, is verplicht de maatregelen te nemen, die in verband daarmee nodig zijn voor de veiligheid van het zeeschip, de opvarenden en de zaken aan boord, op straffe van schadevergoeding.
 
 #### De zieke zeevarende
 
-##### Artikel 734
+#### Artikel 734
 
 De zeevarende die in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling verhinderd is de bedongen arbeid te verrichten, behoudt het recht op het volle loon zolang hij aan boord is.
 
-##### Artikel 734a
+#### Artikel 734a
 
 1. De zeevarende, bedoeld in [artikel 734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), heeft tot zijn herstel recht op behoorlijke verpleging en geneeskundige behandeling.
 
@@ -8503,17 +8478,17 @@ De zeevarende die in verband met ongeschiktheid ten gevolge van ziekte, zwangers
 
 4. Op de aanspraken, die de zeevarende heeft ingevolge dit artikel, komen de aanspraken ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in mindering.
 
-##### Artikel 734b
+#### Artikel 734b
 
 1. De zeevarende, bedoeld in [artikel 734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), die verzekerd is ingevolge de Ziektewet of op wie enige daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, in afwijking van [artikel 629 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=629&z=2026-01-01&g=2026-01-01), voor een tijdvak van twaalf weken recht op 100 procent van het loon, bedoeld in artikel 629 lid 1, als hij ter verpleging is achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft.
 
 2. Het recht op betaling van 100 procent van het loon eindigt zodra de zeevarende passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.
 
-##### Artikel 734c
+#### Artikel 734c
 
 Voor de berekening van het tijdvak van 104 weken, genoemd in [artikel 629 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=629&z=2026-01-01&g=2026-01-01), worden de periode, bedoeld in [artikel 734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), waarin de zeevarende ziek aan boord is en de in [artikel 734b lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734b&z=2026-01-01&g=2026-01-01) bedoelde periode in aanmerking genomen.
 
-##### Artikel 734d
+#### Artikel 734d
 
 1. De zeevarende, bedoeld in [artikel 734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), die niet is verzekerd ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en op wie niet een daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, zolang hij niet is hersteld en ongeacht het voortduren van de zee-arbeidsovereenkomst, gedurende ten hoogste 52 weken, recht op 80 procent van het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen.
 
@@ -8527,7 +8502,7 @@ Voor de berekening van het tijdvak van 104 weken, genoemd in [artikel 629 lid 1]
 
 4. Indien de ziekte een gevolg is van opzet van de zeevarende, kan de loonaanspraak worden verbeurd of verminderd.
 
-##### Artikel 734e
+#### Artikel 734e
 
 1. De zeevarende, bedoeld in [artikel 734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01), die een ongeval krijgt in verband met zijn zee-arbeidsovereenkomst, heeft, ongeacht het voortduren van deze overeenkomst, recht op uitkeringen en voorzieningen overeenkomstig de [artikelen 734f tot en met 734k](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734f&z=2026-01-01&g=2026-01-01). Indien de zeevarende tengevolge van het ongeval overlijdt, gaat dit recht over op zijn nagelaten betrekkingen, bedoeld in [artikel 674 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=674&z=2026-01-01&g=2026-01-01).
 
@@ -8535,7 +8510,7 @@ Voor de berekening van het tijdvak van 104 weken, genoemd in [artikel 629 lid 1]
 
 3. De in het tweede lid bedoelde gelijkstelling is niet van toepassing indien de zeevarende zonder deugdelijke grond ter zake van de in dat lid bedoelde ziekte geweigerd heeft een profylactische behandeling te ondergaan dan wel heeft nagelaten zich aan een zodanige behandeling te onderwerpen, ofschoon hem daartoe kosteloos gelegenheid werd geboden.
 
-##### Artikel 734f
+#### Artikel 734f
 
 1. De zeevarende, bedoeld in [artikel 734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01), heeft na afloop van de in artikel 734d bedoelde termijn van 52 weken, in geval van tijdelijke gehele ongeschiktheid tot werken, recht op een uitkering van 70 procent van zijn loon en, in geval van tijdelijke gedeeltelijke ongeschiktheid tot werken, op een uitkering ter hoogte van een in verhouding tot de verloren geschiktheid tot werken staand deel van 70 procent van zijn loon.
 
@@ -8547,13 +8522,13 @@ Voor de berekening van het tijdvak van 104 weken, genoemd in [artikel 629 lid 1]
 
 5. Indien de zeevarende, bedoeld in [artikel 734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01), niet de medewerking verleent, die redelijkerwijs van hem verlangd kan worden tot het herkrijgen van zijn gezondheid of zijn arbeidsvermogen, voor zover deze door een ongeval als bedoeld in [artikel 734e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734e&z=2026-01-01&g=2026-01-01) zijn geschaad, zal bij de schatting van de mate van ongeschiktheid tot werken, bedoeld in de vorige leden, de toestand in aanmerking genomen kunnen worden, die waarschijnlijk zou zijn ontstaan, indien die medewerking ten volle zou zijn verleend.
 
-##### Artikel 734g
+#### Artikel 734g
 
 1. De zeevarende, bedoeld in [artikel 734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01), heeft ter zake van een ongeval als bedoeld in [artikel 734e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734e&z=2026-01-01&g=2026-01-01) van de dag van het ongeval af recht op geneeskundige behandeling of vergoeding daarvoor, indien hij verblijft in of heeft kunnen terugkeren naar het land, waar hij zijn woonplaats of gewone verblijfplaats heeft, uiterlijk tot de dag, gelegen drie jaren na afloop van de in artikel 734d bedoelde termijn van 52 weken en onverminderd het bepaalde in de [laatste volzin van artikel 734f lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734f&z=2026-01-01&g=2026-01-01). Onder geneeskundige behandeling is begrepen het verstrekken van kunstmiddelen, voor zover deze zijn geschiktheid tot werken kunnen bevorderen of tot verbetering van zijn levensomstandigheden kunnen bijdragen, alsmede het onderricht in het gebruik van die kunstmiddelen.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het bepaalde in dit artikel.
 
-##### Artikel 734h
+#### Artikel 734h
 
 1. Onverminderd [artikel 674](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=674&z=2026-01-01&g=2026-01-01) hebben de nagelaten betrekkingen, bedoeld in [artikel 734e lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734e&z=2026-01-01&g=2026-01-01), recht op een uitkering ineens, die bedraagt:
 
@@ -8567,15 +8542,15 @@ Voor de berekening van het tijdvak van 104 weken, genoemd in [artikel 629 lid 1]
 
 3. Voor de toepassing van dit artikel en van [artikel 734e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734e&z=2026-01-01&g=2026-01-01) is het bepaalde bij of krachtens [artikel 8 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=8) van overeenkomstige toepassing.
 
-##### Artikel 734i
+#### Artikel 734i
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van uitkeringen of voorzieningen als bedoeld in de [artikelen 734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01) en [734d tot en met 734h](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01) met uitkeringen of voorzieningen uit andere hoofde.
 
-##### Artikel 734j
+#### Artikel 734j
 
 Onder loon van de zeevarende wordt voor de toepassing van de [artikelen 734f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734f&z=2026-01-01&g=2026-01-01) en [734h](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734h&z=2026-01-01&g=2026-01-01) verstaan het naar tijdruimte in geld vastgestelde loon, dat hij genoot tot het ongeval, bedoeld in [artikel 734e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734e&z=2026-01-01&g=2026-01-01), plaatsvond, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen. Hetgeen het naar tijdruimte in geld vastgestelde loon meer bedraagt dan een bij algemene maatregel van bestuur te bepalen bedrag, wordt daarbij niet in aanmerking genomen.
 
-##### Artikel 734k
+#### Artikel 734k
 
 1. Indien een daartoe door Ons erkende vereniging met volledige rechtsbevoegdheid is opgericht, is de werkgever ter waarborging van zijn tegenover de in [artikel 734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01) bedoelde zeevarenden en hun nagelaten betrekkingen uit de [artikelen 734d tot en met 734j](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01) voortvloeiende verplichtingen van rechtswege aangesloten bij die vereniging.
 
@@ -8597,7 +8572,7 @@ Onder loon van de zeevarende wordt voor de toepassing van de [artikelen 734f](ht
 
 - c. de kosten van de uit de [artikelen 734d tot en met 734k](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01) voortvloeiende verplichtingen met betrekking tot de in het eerste lid bedoelde zeevarenden en hun nagelaten betrekkingen, alsmede de kosten verbonden aan de vorming en instandhouding van een reserve, per jaar worden omgeslagen over de werkgevers naar rato van het loon, dat in dat jaar aan de zeevarenden is uitbetaald, waarbij onder loon wordt verstaan loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3).
 
-##### Artikel 734l
+#### Artikel 734l
 
 1. Na zijn herstel heeft de zeevarende, ongeacht het voortduren van de zee-arbeidsovereenkomst, recht op een uitkering, gelijk aan het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, indien hij ter verpleging is achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft en elders dan ter plaatse waar hij zich bevond toen hij de zee-arbeidsovereenkomst met de werkgever is aangegaan.
 
@@ -8607,7 +8582,7 @@ Onder loon van de zeevarende wordt voor de toepassing van de [artikelen 734f](ht
 
 4. Indien de ziekte een gevolg is van opzet van de zeevarende, kan de in lid 1 bedoelde uitkering worden verbeurd of verminderd.
 
-##### Artikel 734m
+#### Artikel 734m
 
 1. [Artikel 93, aanhef en onder c, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93) is van toepassing op alle vorderingen krachtens de [artikelen 734d tot en met 734k](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01) door of tegen de in [lid 1 van artikel 734k](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734k&z=2026-01-01&g=2026-01-01) bedoelde zeevarenden of hun nagelaten betrekkingen ingesteld tegen onderscheidenlijk door de in dat lid bedoelde vereniging.
 
@@ -8615,11 +8590,11 @@ Onder loon van de zeevarende wordt voor de toepassing van de [artikelen 734f](ht
 
 #### Einde van de zee-arbeidsovereenkomst
 
-##### Artikel 735
+#### Artikel 735
 
 Op de arbeidsovereenkomst van de werknemer die gewoonlijk arbeid aan de wal verricht, zijn de [artikelen 702](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=702&z=2026-01-01&g=2026-01-01), [703](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=703&z=2026-01-01&g=2026-01-01), [704 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=704&z=2026-01-01&g=2026-01-01), [709](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=709&z=2026-01-01&g=2026-01-01), [711](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=711&z=2026-01-01&g=2026-01-01), [718 tot en 720](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01), [725](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=725&z=2026-01-01&g=2026-01-01), [732](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=732&z=2026-01-01&g=2026-01-01), [734 tot en met 734c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), [734e tot en met 734m](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734e&z=2026-01-01&g=2026-01-01) en [738 tot en met 738f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, indien en voor zolang hij gedurende de reis arbeid aan boord van een zeeschip verricht.
 
-##### Artikel 736
+#### Artikel 736
 
 1. Op de arbeidsovereenkomst van een zeevarende die zich verbindt arbeid te verrichten aan boord van een zeeschip en wiens arbeidsovereenkomst wordt beheerst door buitenlands recht, zijn de [artikelen 697](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=697&z=2026-01-01&g=2026-01-01), [699](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=699&z=2026-01-01&g=2026-01-01), [702 tot en met 712](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=702&z=2026-01-01&g=2026-01-01), [714 tot en met 725](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=714&z=2026-01-01&g=2026-01-01), [729](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=729&z=2026-01-01&g=2026-01-01), [731](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=731&z=2026-01-01&g=2026-01-01), [732](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=732&z=2026-01-01&g=2026-01-01), [734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), [734a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734a&z=2026-01-01&g=2026-01-01), [734d tot en met 734l](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734d&z=2026-01-01&g=2026-01-01) en [738 tot en met 738f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -8627,19 +8602,19 @@ Op de arbeidsovereenkomst van de werknemer die gewoonlijk arbeid aan de wal verr
 
 #### Repatriëring
 
-##### Artikel 737
+#### Artikel 737
 
 1. De [artikelen 718 tot en met 720](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op personen die, anders dan op grond van een arbeidsovereenkomst en ongeacht het toepasselijke recht, werkzaamheden verrichten aan boord van een zeeschip, met dien verstande dat voor «werkgever» wordt gelezen: scheepsbeheerder.
 
 2. De scheepsbeheerder is verplicht een verzekering in stand te houden, die in geval van repatriëring als bedoeld in [artikel 718](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01) strekt tot voorziening in de kosten, bedoeld in artikel 718, lid 2. De [artikelen 738a, leden 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738a&z=2026-01-01&g=2026-01-01), [738b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738b&z=2026-01-01&g=2026-01-01) en [738c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738c&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-##### Artikel 738
+#### Artikel 738
 
 De scheepsbeheerder is aansprakelijk voor de nakoming van de uit de [artikelen 706 tot en met 709](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=706&z=2026-01-01&g=2026-01-01), [717](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=717&z=2026-01-01&g=2026-01-01), [719](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=719&z=2026-01-01&g=2026-01-01), [720](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=720&z=2026-01-01&g=2026-01-01) en [734 tot en met 734l](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01) voortvloeiende verplichtingen, indien de werkgever tot nakoming daarvan onherroepelijk is veroordeeld en niet tot nakoming overgaat.
 
 ### Afdeling 6. Enkele bijzondere verplichtingen van de werkgever
 
-##### Artikel 739
+#### Artikel 739
 
 In deze afdeling wordt verstaan onder:
 
@@ -8649,7 +8624,7 @@ In deze afdeling wordt verstaan onder:
 
 - c. **garantieloon:** het naar tijdruimte vastgestelde loon dat door de werkgever verschuldigd is in plaats van het loon dat geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, indien het laatstgenoemde loon lager uitkomt dan het eerstgenoemde loon.
 
-##### Artikel 740
+#### Artikel 740
 
 1. Op de arbeidsovereenkomst van de zeevarende in de zeevisserij zijn de [afdelingen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=1&z=2026-01-01&g=2026-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=11&z=2026-01-01&g=2026-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&z=2026-01-01&g=2026-01-01) van deze titel van toepassing, voor zover daarvan in deze afdeling niet is afgeweken. De [artikelen 708](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=708&z=2026-01-01&g=2026-01-01), [715](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=715&z=2026-01-01&g=2026-01-01), [717](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=717&z=2026-01-01&g=2026-01-01), [737](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=737&z=2026-01-01&g=2026-01-01) en [738a tot en met 738f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738a&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op de arbeidsovereenkomst in de zeevisserij.
 
@@ -8659,11 +8634,11 @@ In deze afdeling wordt verstaan onder:
 
 4. Op de arbeidsovereenkomst in de zeevisserij zijn de bepalingen van [artikelen 628b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=628b&z=2026-01-01&g=2026-01-01), [653a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=5&artikel=653a&z=2026-01-01&g=2026-01-01) en [655, lid 1, aanhef en onderdelen i, aanhef en onder 2°, k en s](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=6&artikel=655&z=2026-01-01&g=2026-01-01), niet van toepassing.
 
-##### Artikel 741
+#### Artikel 741
 
 De werkgever en de zeevarende in de zeevisserij, wiens loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, komen een garantieloon overeen.
 
-##### Artikel 742
+#### Artikel 742
 
 1. De arbeidsovereenkomst van de zeevarende in de zeevisserij vermeldt naast de in [artikel 699](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=699&z=2026-01-01&g=2026-01-01) genoemde gegevens:
 
@@ -8677,17 +8652,17 @@ De werkgever en de zeevarende in de zeevisserij, wiens loon bestaat uit een aand
 
 2. Voor zover de gegevens, bedoeld in het eerste lid, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of in een regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.
 
-##### Artikel 743
+#### Artikel 743
 
 1. Ten aanzien van de zeevarende in de zeevisserij, wiens loon geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, kan bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken van [artikel 623 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=623&z=2026-01-01&g=2026-01-01), met dien verstande dat het tijdvak na afloop waarvan het loon moet worden voldaan niet langer dan zes maanden is.
 
 2. Wordt aan de zeevarende, bedoeld in het vorige lid, een voorschot betaald als bedoeld in [artikel 624 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=624&z=2026-01-01&g=2026-01-01), dan heeft de zeevarende geen aanspraak jegens de werkgever indien het aan de in [artikel 707](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=707&z=2026-01-01&g=2026-01-01) bedoelde persoon overgemaakte bedrag meer bedraagt dan aan de zeevarende verschuldigd is.
 
-##### Artikel 744
+#### Artikel 744
 
 [Artikel 709](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=709&z=2026-01-01&g=2026-01-01) geldt niet ten aanzien van de zeevarende in de zeevisserij wiens loon bestaat uit een aandeel in de vangst of opbrengst daarvan.
 
-##### Artikel 745
+#### Artikel 745
 
 Voor de zeevarenden in de zeevisserij, wier loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, wordt voor de toepassing van:
 
@@ -8845,7 +8820,7 @@ Voor de zeevarenden in de zeevisserij, wier loon bestaat uit een aandeel in de v
 
 ## Titel 18. Lijfrente
 
-##### Artikel 19a
+#### Artikel 19a
 
 1. Komt de verkoper bij een consumentenkoop de in [artikel 9 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01) gestelde of overeengekomen termijn niet na, dan is hij in verzuim wanneer hij door de koper in gebreke wordt gesteld bij een aanmaning waarbij hem een redelijke termijn voor de aflevering wordt gesteld, en nakoming binnen deze termijn uitblijft.
 
@@ -8997,7 +8972,7 @@ Voor de zeevarenden in de zeevisserij, wier loon bestaat uit een aandeel in de v
 
 ## Titel 18. Lijfrente
 
-##### Artikel 130
+#### Artikel 130
 
 1. De overeenkomst van pandbelening is de overeenkomst waarbij de ene partij, het pandhuis, aan de andere partij, de pandbelener, een geldsom ter beschikking stelt en de pandbelener daartegenover een roerende zaak, niet zijnde een registergoed, in de macht van het pandhuis brengt met het beding:
 
@@ -9007,7 +8982,7 @@ Voor de zeevarenden in de zeevisserij, wier loon bestaat uit een aandeel in de v
 
 2. De onderhavige titel is mede van toepassing op iedere overeenkomst, aangegaan onder welke vorm of benaming dan ook, met dezelfde strekking als een overeenkomst van pandbelening als bedoeld in lid 1.
 
-##### Artikel 131
+#### Artikel 131
 
 In deze titel wordt verstaan onder
 
@@ -9019,11 +8994,11 @@ In deze titel wordt verstaan onder
 
 - d. **maand:** kalendermaand dan wel de periode tussen een dag van een kalendermaand en het einde van de overeenkomstige dag van de volgende kalendermaand.
 
-##### Artikel 132
+#### Artikel 132
 
 Deze titel is slechts van toepassing, indien de pandbelener een natuurlijke persoon is die niet handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 133
+#### Artikel 133
 
 Onverminderd het bepaalde in de [artikelen 193c–193e van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193c) stelt het pandhuis, voordat de pandbelener aan de overeenkomst van pandbelening is gebonden, deze in staat om kennis te nemen van de volgende informatie:
 
@@ -9031,7 +9006,7 @@ Onverminderd het bepaalde in de [artikelen 193c–193e van Boek 6](https://wette
 
 - b. de lengte van de beleentermijn.
 
-##### Artikel 134
+#### Artikel 134
 
 1. De overeenkomst van pandbelening wordt op papier of op een andere duurzame drager aangegaan. Het pandhuis verstrekt de pandbelener een exemplaar van de overeenkomst van pandbelening en behoudt zelf ook een exemplaar.
 
@@ -9057,29 +9032,29 @@ Onverminderd het bepaalde in de [artikelen 193c–193e van Boek 6](https://wette
 
 - j. de verdere voorwaarden die op de overeenkomst van toepassing zijn.
 
-##### Artikel 135
+#### Artikel 135
 
 1. De beleentermijn bedraagt ten minste twee maanden.
 
 2. Gedurende de beleentermijn en, in geval van verlenging, gedurende de verlengde beleentermijn, heeft de pandbelener te allen tijde recht op onverwijlde afgifte van de beleende zaak tegen terugbetaling van de ter beschikking gestelde geldsom en voldoening van de pandbeleningsvergoeding.
 
-##### Artikel 136
+#### Artikel 136
 
 Indien bij de overeenkomst van pandbelening het beding, bedoeld in [artikel 130 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2d&artikel=130&z=2026-01-01&g=2026-01-01) is gemaakt, heeft volledige terugbetaling van de geldsom en volledige voldoening van de pandbeleningsvergoeding tot gevolg dat de pandbelener de eigendom van de zaak van rechtswege de zaak opnieuw verkrijgt, als ware de overdracht aan het pandhuis onder de ontbindende voorwaarde van deze terugbetaling geschied.
 
-##### Artikel 137
+#### Artikel 137
 
 De pandbeleningsvergoeding wordt berekend in de vorm van een maandrente van ten hoogste een bij algemene maatregel van bestuur vastgesteld percentage van de in [artikel 130 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2d&artikel=130&z=2026-01-01&g=2026-01-01) bedoelde geldsom.
 
-##### Artikel 138
+#### Artikel 138
 
 Op een overeenkomst van pandbelening als bedoeld in [artikel 130 lid 1, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2d&artikel=130&z=2026-01-01&g=2026-01-01), zijn de regels betreffende pandrecht op roerende zaken van toepassing behoudens de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=233), [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=234), [235](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=235), [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237), [241](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=241), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=242), [243 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=243), [244](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=244), [248](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=248), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=249), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=250), [251](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=251), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=252), [253](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=253), [254](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=254) en [256 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=256).
 
-##### Artikel 139
+#### Artikel 139
 
 Indien de pandbelener niet binnen de beleentermijn de geldsom volledig terugbetaalt en de pandbeleningsvergoeding volledig voldoet, draagt het pandhuis het verlies dat hij ten opzichte van de in [artikel 130 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2d&artikel=130&z=2026-01-01&g=2026-01-01) bedoelde geldsom met pandbeleningsvergoeding lijdt.
 
-##### Artikel 140
+#### Artikel 140
 
 Van deze titel kan niet ten nadele van de pandbelener worden afgeweken.
 
@@ -9135,7 +9110,7 @@ Van deze titel kan niet ten nadele van de pandbelener worden afgeweken.
 
 ## Titel 10. Arbeidsovereenkomst
 
-##### Artikel 611a
+#### Artikel 611a
 
 1. De werkgever stelt de werknemer in staat scholing te volgen die noodzakelijk is voor de uitoefening van zijn functie en, voor zover dat redelijkerwijs van hem kan worden verlangd, voor het voortzetten van de arbeidsovereenkomst indien de functie van de werknemer komt te vervallen of hij niet langer in staat is deze te vervullen.
 
@@ -9147,7 +9122,7 @@ Van deze titel kan niet ten nadele van de pandbelener worden afgeweken.
 
 5. De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in de leden 2 of 4 aan hem toegekende rechten geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
 
-##### Artikel 671a
+#### Artikel 671a
 
 1. De werkgever die voornemens is de arbeidsovereenkomst op te zeggen op grond van [artikel 669, lid 3, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=669&z=2026-01-01&g=2026-01-01), verzoekt hiervoor schriftelijk toestemming aan het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
@@ -9187,7 +9162,7 @@ Van deze titel kan niet ten nadele van de pandbelener worden afgeweken.
 
 11. De toestemming, bedoeld in lid 1 of lid 2, wordt niet verleend als een opzegverbod als bedoeld in [artikel 670, leden 1 tot en met 4 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=670&z=2026-01-01&g=2026-01-01), of een met deze opzegverboden naar aard en strekking vergelijkbaar opzegverbod in een ander wettelijk voorschrift geldt, tenzij redelijkerwijs mag worden verwacht dat het opzegverbod niet meer geldt binnen vier weken na de dagtekening van de beslissing op het verzoek. Dit lid is van overeenkomstige toepassing op de toestemming, bedoeld in [artikel 671, lid 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=671&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 671b
+#### Artikel 671b
 
 1. De kantonrechter kan op verzoek van de werkgever de arbeidsovereenkomst ontbinden:
 
@@ -9237,7 +9212,7 @@ Van deze titel kan niet ten nadele van de pandbelener worden afgeweken.
 
 11. Elk beding waarbij de mogelijkheid voor de werkgever om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 671c
+#### Artikel 671c
 
 1. De kantonrechter kan op verzoek van de werknemer de arbeidsovereenkomst ontbinden wegens omstandigheden die van dien aard zijn dat de arbeidsovereenkomst billijkheidshalve dadelijk of na korte tijd behoort te eindigen.
 
@@ -9259,11 +9234,11 @@ Van deze titel kan niet ten nadele van de pandbelener worden afgeweken.
 
 5. Elk beding waarbij de mogelijkheid voor de werknemer om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.
 
-##### Artikel 673a
+#### Artikel 673a
 
 Vervallen
 
-##### Artikel 673b
+#### Artikel 673b
 
 1. Bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan kan worden bepaald dat de transitievergoeding, bedoeld in [artikel 673, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673&z=2026-01-01&g=2026-01-01), niet is verschuldigd, indien:
 
@@ -9273,17 +9248,17 @@ Vervallen
 
 2. De collectieve arbeidsovereenkomst, bedoeld in lid 1, onderdeel b, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit zijn van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.
 
-##### Artikel 673c
+#### Artikel 673c
 
 1. De transitievergoeding, bedoeld in [artikel 673, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673&z=2026-01-01&g=2026-01-01), is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.
 
 2. Indien de betaling van de transitievergoeding, bedoeld in [artikel 673, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673&z=2026-01-01&g=2026-01-01), leidt tot onaanvaardbare gevolgen voor de bedrijfsvoering van de werkgever, kan de transitievergoeding onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden in termijnen worden betaald. Daarbij kan worden bepaald dat de transitievergoeding met een bij die ministeriële regeling te bepalen percentage wordt verhoogd.
 
-##### Artikel 673d
+#### Artikel 673d
 
 Vervallen
 
-##### Artikel 682a
+#### Artikel 682a
 
 Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot de [artikelen 681, lid 1, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=681&z=2026-01-01&g=2026-01-01), en [682, leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=682&z=2026-01-01&g=2026-01-01), waarin kan worden bepaald:
 
@@ -9293,7 +9268,7 @@ Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regel
 
 - c. in welke volgorde de voormalige werknemers in de gelegenheid worden gesteld hun vroegere werkzaamheden te hervatten dan wel als kandidaat voor de terbeschikkingstelling te worden voorgedragen.
 
-##### Artikel 686a
+#### Artikel 686a
 
 1. Over het bedrag van de vergoeding, bedoeld in de [artikelen 672, lid 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=672&z=2026-01-01&g=2026-01-01), en [677, leden 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=677&z=2026-01-01&g=2026-01-01), is de wettelijke rente verschuldigd, te rekenen vanaf de dag waarop de arbeidsovereenkomst is geëindigd. Over het bedrag van de transitievergoeding, bedoeld in de [artikelen 673](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673&z=2026-01-01&g=2026-01-01) en [673c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673c&z=2026-01-01&g=2026-01-01), is de wettelijke rente verschuldigd, te rekenen vanaf een maand na de dag waarop de arbeidsovereenkomst is geëindigd.
 
@@ -9369,7 +9344,7 @@ Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regel
 
 ## Titel 12. Aanneming van werk
 
-##### Artikel 616a
+#### Artikel 616a
 
 1. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een overeenkomst van opdracht of een overeenkomst van aanneming van werk zijn de werkgever en diens opdrachtgever hoofdelijk aansprakelijk voor de voldoening van het aan de werknemer verschuldigde loon. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg zijn de werkgever en diens wederpartij hoofdelijk aansprakelijk voor de voldoening van het aan de werknemer verschuldigde loon.
 
@@ -9377,7 +9352,7 @@ Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regel
 
 3. Dit artikel is niet van toepassing op een natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 616b
+#### Artikel 616b
 
 1. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een of meer tussen een opdrachtgever, opdrachtnemer of aannemer gesloten overeenkomsten, is, met inachtneming van de leden 2 tot en met 5, iedere opdrachtgever aansprakelijk voor de voldoening van het door de werkgever aan de werknemer verschuldigde loon. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een of meer overeenkomsten van goederenvervoer over de weg of overeenkomsten tot het doen vervoeren van goederen over de weg, zijn, met inachtneming van de leden 2 tot en met 5, de afzender, de opdrachtgever van de expediteur, de expediteur en de vervoerder die niet de vervoerovereenkomst heeft gesloten met de afzender, maar aan wie de vervoerder de uitvoering van het goederenvervoer over de weg heeft toevertrouwd, aansprakelijk voor de voldoening van het door de werkgever aan de werknemer verschuldigde loon. Voor de toepassing van dit artikel en de [artikelen 616c tot en met 616e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616c&z=2026-01-01&g=2026-01-01) worden de in de vorige zin genoemde partijen aangemerkt als wederpartij.
 
@@ -9409,13 +9384,13 @@ Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regel
 
 6. Dit artikel is niet van toepassing op een natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 616c
+#### Artikel 616c
 
 1. Indien de arbeid in Nederland wordt verricht, zijn de [artikelen 616a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616a&z=2026-01-01&g=2026-01-01), [616b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616b&z=2026-01-01&g=2026-01-01) en [616d tot en met 616f](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616d&z=2026-01-01&g=2026-01-01) van toepassing, ongeacht het recht dat van toepassing is op de arbeidsovereenkomst, de overeenkomst van opdracht, de overeenkomst van aanneming van werk, de overeenkomst van goederenvervoer over de weg of de overeenkomst tot het doen vervoeren van goederen over de weg.
 
 2. Het eerste lid is niet van toepassing op het goederenvervoer over de weg waarbij de laad- en losplaats buiten Nederland zijn gelegen.
 
-##### Artikel 616d
+#### Artikel 616d
 
 De opdrachtgever of de wederpartij die een vordering op grond van [artikel 616b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616b&z=2026-01-01&g=2026-01-01) heeft voldaan, heeft verhaal op alle goederen van:
 
@@ -9423,7 +9398,7 @@ De opdrachtgever of de wederpartij die een vordering op grond van [artikel 616b]
 
 - b. de opdrachtgever of de wederpartij tegen wie een vordering op grond van [artikel 616a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616a&z=2026-01-01&g=2026-01-01) of [616b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616b&z=2026-01-01&g=2026-01-01) niet is geslaagd vanwege een omstandigheid als bedoeld in artikel 616b lid 2 onderdeel a, b of d.
 
-##### Artikel 616e
+#### Artikel 616e
 
 1. Met het oog op het instellen van een vordering als bedoeld in [artikel 616a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616a&z=2026-01-01&g=2026-01-01) of [artikel 616b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616b&z=2026-01-01&g=2026-01-01) verstrekt iedere opdrachtgever, opdrachtnemer, aannemer, werkgever of iedere wederpartij, aan de werknemer desgevraagd schriftelijk of elektronisch de gegevens die betrekking hebben op de naam, woonplaats of het werkelijk verblijf van:
 
@@ -9433,7 +9408,7 @@ De opdrachtgever of de wederpartij die een vordering op grond van [artikel 616b]
 
 2. Indien de opdrachtgever, opdrachtnemer, aannemer of wederpartij, niet tevens zijnde de werkgever, de gegevens, bedoeld in lid 1, niet binnen twee weken na het verzoek van de werknemer verstrekt, kan de werknemer die opdrachtgever, opdrachtnemer, aannemer of wederpartij, in afwijking van de volgorde op grond van [artikel 616b lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616b&z=2026-01-01&g=2026-01-01), aansprakelijk stellen op grond van [artikel 616b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616b&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 616f
+#### Artikel 616f
 
 Elk beding in strijd met de [artikelen 616a tot en met 616e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=616a&z=2026-01-01&g=2026-01-01) is nietig.
 
@@ -9591,7 +9566,7 @@ Elk beding in strijd met de [artikelen 616a tot en met 616e](https://wetten.over
 
 ## Titel 14. Borgtocht
 
-##### Artikel 261a
+#### Artikel 261a
 
 1. Indien een energieprestatievergoeding is overeengekomen, kan de huurder de huurcommissie verzoeken deze te toetsen aan de krachtens [artikel 19bis van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=19bis) gegeven regels.
 
@@ -9603,7 +9578,7 @@ Elk beding in strijd met de [artikelen 616a tot en met 616e](https://wetten.over
 
 #### Onderafdeling 4. Het eindigen van de huur
 
-##### Artikel 274a
+#### Artikel 274a
 
 1. Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken van een zelfstandige woning aan een gehandicapte, indien die woning:
 
@@ -9613,11 +9588,11 @@ Elk beding in strijd met de [artikelen 616a tot en met 616e](https://wetten.over
 
 2. Onder gehandicapte wordt in dit artikel verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
 
-##### Artikel 274b
+#### Artikel 274b
 
 Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken aan een oudere van een zelfstandige woning welke onderdeel uitmaakt van een complex van zelfstandige woningen, welk complex reeds bij de bouw ervan was ingericht en bestemd voor de bewoning door ouderen.
 
-##### Artikel 274c
+#### Artikel 274c
 
 1. Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken van woonruimte aan een jongere, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
 
@@ -9629,7 +9604,7 @@ Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.ove
 
 5. In de huurovereenkomst met de huurder tegen wie de in [artikel 274 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een jongere zal worden verhuurd. Voor de toepassing van de eerste volzin wordt met een jongere gelijkgesteld een student als bedoeld in [artikel 274d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274d&z=2026-01-01&g=2026-01-01) en een promovendus als bedoeld in [artikel 274e lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274e&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 274d
+#### Artikel 274d
 
 1. Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken van woonruimte aan een student indien aan de in de volgende leden vermelde voorwaarden is voldaan.
 
@@ -9641,7 +9616,7 @@ Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.ove
 
 5. In de huurovereenkomst met de huurder tegen wie de in [artikel 274 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een student zal worden verhuurd. Voor de toepassing van de eerste volzin worden met een student gelijkgesteld een jongere als bedoeld in [artikel 274c lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274c&z=2026-01-01&g=2026-01-01) en een promovendus als bedoeld in [artikel 274e lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274e&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 274e
+#### Artikel 274e
 
 1. Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken van woonruimte aan een promovendus, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
 
@@ -9653,7 +9628,7 @@ Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.ove
 
 5. In de huurovereenkomst met de huurder tegen wie de in [artikel 274 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een promovendus zal worden verhuurd. Voor de toepassing van de eerste volzin worden met een promovendus gelijkgesteld een jongere als bedoeld in [artikel 274c lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274c&z=2026-01-01&g=2026-01-01) en een student als bedoeld in [artikel 274d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274d&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 274f
+#### Artikel 274f
 
 1. Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken van woonruimte aan een groot gezin, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
 
@@ -9695,7 +9670,7 @@ Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.ove
 
 ### Afdeling 6. Gekoppelde reisarrangementen
 
-##### Artikel 658c
+#### Artikel 658c
 
 Vervallen
 
@@ -9737,7 +9712,7 @@ Vervallen
 
 ### Afdeling 1. Bepalingen ter uitvoering van [richtlijn nr. 2008/48/EG](32008L0048) van 23 april 2008 inzake kredietovereenkomsten voor consumenten
 
-##### Artikel 118
+#### Artikel 118
 
 1. In deze afdeling wordt verstaan onder:
 
@@ -9801,7 +9776,7 @@ Vervallen
 
 3. Voor de toepassing van lid 1, onderdeel k, worden de kosten voor het openen en aanhouden van een specifieke rekening, voor het gebruik van een betaalmiddel voor zowel transacties als kredietopnemingen op die rekening en andere, met betalingstransacties verband houdende kosten in de totale kosten van het krediet voor de consument opgenomen wanneer er een rekening moet worden geopend of aangehouden ter verkrijging van het krediet onder de geadverteerde voorwaarden.
 
-##### Artikel 119
+#### Artikel 119
 
 1. Deze afdeling is van toepassing op:
 
@@ -9831,7 +9806,7 @@ Vervallen
 
 - h. kredietovereenkomsten waarbij de kredietgever een organisatie is die valt onder de toepassing van artikel 2 lid 5 van [Richtlijn 2008/48/EG](32008L0048) van het Europees Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van [Richtlijn 87/102/EEG](31987L0102) (Pb EU L 133).
 
-##### Artikel 120
+#### Artikel 120
 
 1. De reclame voor kredietovereenkomsten is eerlijk, duidelijk en niet misleidend en mag geen bewoordingen bevatten die bij de consument valse verwachtingen kunnen scheppen betreffende de beschikbaarheid of de kosten van een krediet.
 
@@ -9843,7 +9818,7 @@ Vervallen
 
 5. Een kredietgever die in reclame voor kredietovereenkomsten het bepaalde in de vorige leden niet in acht neemt, verricht een oneerlijke handelspraktijk als bedoeld in [artikel 193b van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193b).
 
-##### Artikel 121
+#### Artikel 121
 
 1. De kredietgever heeft het recht tot gebundelde verkoop. Koppelverkoop is niet toegelaten.
 
@@ -9855,7 +9830,7 @@ Vervallen
 
 3. De kredietgever kan van de consument verlangen dat hij over een verzekeringspolis met betrekking tot de kredietovereenkomst beschikt. De kredietgever is verplicht de verzekeringspolis van een andere dan de dienstverlener van zijn voorkeur te aanvaarden, mits de door die polis geboden waarborg gelijk is aan die van de door de kredietgever voorgestelde verzekeringspolis.
 
-##### Artikel 122
+#### Artikel 122
 
 1. De kredietgever en, in voorkomend geval, de kredietbemiddelaar verstrekt de consument onverwijld nadat hij de nodige informatie over zijn behoeften, financiële situatie en voorkeuren heeft verstrekt en ruimschoots voordat hij door een kredietovereenkomst of een aanbod wordt gebonden, de op zijn persoon toegesneden informatie die hij nodig heeft om de op de markt beschikbare kredietproducten te kunnen vergelijken en de respectievelijke implicaties ervan te kunnen beoordelen en zo een geïnformeerd besluit over het sluiten van een kredietovereenkomst te kunnen nemen.
 
@@ -9869,7 +9844,7 @@ Vervallen
 
 6. Indien de debetrentevoet of andere, op het aanbod toepasselijke kosten worden bepaald aan de hand van de verkoop van onderliggende schuldbewijzen of andere langetermijnfinancieringsinstrumenten, kunnen de debetrentevoet of andere kosten afwijken van die van het aanbod overeenkomstig de waarde van de onderliggende schuldbewijzen of andere langetermijnfinancieringsinstrumenten.
 
-##### Artikel 123
+#### Artikel 123
 
 1. Indien de kredietovereenkomst wordt gesloten door tussenkomst van een kredietbemiddelaar, wordt door deze ruimschoots voordat hij de in [artikel 118, lid 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=3&paragraaf=1&artikel=118&z=2026-01-01&g=2026-01-01), genoemde kredietbemiddelingsactiviteiten uitoefent, aan de consument op papier of op een andere duurzame drager vermeld:
 
@@ -9889,7 +9864,7 @@ Vervallen
 
 3. Indien de kredietbemiddelaar niet aan zijn in de leden 1 en 2 bedoelde verplichtingen voldoet, is de consument geen vergoeding voor zijn dienstverlening verschuldigd.
 
-##### Artikel 124
+#### Artikel 124
 
 1. Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomstig artikel 17 van de Richtlijn en bijlage I bij de Richtlijn.
 
@@ -9899,13 +9874,13 @@ Vervallen
 
 ### Afdeling 4. Informatie en rechten betreffende kredietovereenkomsten
 
-##### Artikel 125
+#### Artikel 125
 
 1. De kredietgever kan de kredietovereenkomst niet ten nadele van de consument beëindigen of wijzigen op grond van een onjuist uitgevoerde beoordeling van de kredietwaardigheid, tenzij de consument bewust informatie in de zin van [artikel 4:34, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:34) heeft achtergehouden of onjuist heeft weergegeven.
 
 2. De kredietgever kan de kredietovereenkomst niet beëindigen op grond van door de consument onvolledig verstrekte informatie voor het sluiten van de kredietovereenkomst, tenzij de consument bewust informatie heeft achtergehouden of onjuist heeft weergegeven.
 
-##### Artikel 126
+#### Artikel 126
 
 1. Indien de kredietovereenkomst in vreemde valuta is uitgedrukt, biedt de kredietgever de consument met ingang van het tijdstip waarop de overeenkomst wordt gesloten de mogelijkheid om de overeenkomst om te zetten in een andere valuta onder door de kredietgever bepaalde voorwaarden, of treft de kredietgever jegens de consument andere maatregelen op grond waarvan het wisselkoersrisico waaraan de consument in het kader van de overeenkomst blootstaat, wordt beperkt.
 
@@ -9923,7 +9898,7 @@ Vervallen
 
 6. De op grond van de leden 1 tot en met 5 toepasselijke regelingen worden aan de consument in het in [artikel 122, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=3&paragraaf=2&artikel=122&z=2026-01-01&g=2026-01-01), bedoelde model en in de kredietovereenkomst meegedeeld. Indien in de kredietovereenkomst geen bepaling is opgenomen om het wisselkoersrisico, waaraan de consument is blootgesteld, te beperken tot een schommeling in de wisselkoers van 20 procent, wordt in het eerdergenoemde model met een voorbeeld geïllustreerd wat de gevolgen zijn van een wisselkoersschommeling van 20 procent.
 
-##### Artikel 127
+#### Artikel 127
 
 1. De consument heeft het recht om zich vóór het verstrijken van de kredietovereenkomst geheel of gedeeltelijk van zijn verplichtingen op grond van de kredietovereenkomst te kwijten. In dat geval heeft de consument recht op een vermindering van de totale kredietkosten die gelijk is aan de rente en de kosten voor de resterende duur van de overeenkomst.
 
@@ -9933,7 +9908,7 @@ Vervallen
 
 4. Indien de consument vóór het verstrijken van de kredietovereenkomst aan zijn verplichtingen op grond van de kredietovereenkomst wenst te voldoen, deelt de kredietgever hem onmiddellijk na ontvangst van diens verzoek, op papier of op een andere duurzame drager, de informatie mee die hij nodig heeft om die mogelijkheid te kunnen overwegen. De kredietgever verstrekt aan de consument ten minste een berekening van de gevolgen voor de consument die vóór het verstrijken van de kredietovereenkomst aan zijn verplichtingen voldoet met een duidelijke vermelding van de daarbij gehanteerde hypothesen, die elk redelijk en verdedigbaar zijn.
 
-##### Artikel 128
+#### Artikel 128
 
 1. De kredietgever stelt de consument op papier of op een andere duurzame drager in kennis van wijzigingen in de debetrentevoet voordat deze ingaan. Daarbij worden ten minste het bedrag van de betalingen vermeld die moeten worden verricht nadat de nieuwe debetrentevoet in werking is getreden, alsook bijzonderheden betreffende een eventuele wijziging in het aantal of de frequentie van de betalingen.
 
@@ -9941,17 +9916,17 @@ Vervallen
 
 3. Indien wijzigingen in de debetrentevoet worden vastgesteld door middel van een veiling op de kapitaalmarkten en het aldus voor de kredietgever niet mogelijk is om de consument te informeren voordat de wijziging toegepast kan worden, verschaft de kredietgever tijdig voor de veiling aan de consument op papier of door middel van een ander duurzaam medium informatie over de op handen zijnde procedure en geeft hij een aanwijzing omtrent het mogelijke effect ervan op de debetrentevoet.
 
-##### Artikel 128a
+#### Artikel 128a
 
 1. Indien de consument in verzuim is met zijn verplichtingen uit hoofde van de kredietovereenkomst, mag de kredietgever niet tot aanzegging van de executie als bedoeld in [artikel 544 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=544) overgaan dan nadat ten minste twee maanden na het tijdstip waarop de vordering opeisbaar is geworden, zijn verstreken en de kredietgever de consument persoonlijk heeft uitgenodigd om in overleg te treden over diens betalingsachterstand, tenzij in redelijkheid niet van de kredietgever kan worden gevergd dat hij voormelde termijn in acht neemt of de consument persoonlijk benadert om te overleggen.
 
 2. Onverminderd het recht op wettelijke rente als bedoeld in [artikel 119 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119) is de vergoeding die de consument aan de kredietgever verschuldigd is wegens niet-nakoming van zijn uit de kredietovereenkomst voortvloeiende verplichtingen, niet hoger dan hetgeen nodig is ter vergoeding van de schade die de kredietgever als gevolg van de niet-nakoming heeft geleden.
 
-##### Artikel 128b
+#### Artikel 128b
 
 De kredietgever of, in voorkomend geval, de kredietbemiddelaar brengt de consument geen kosten in rekening voor zijn informatieverplichtingen uit hoofde van deze afdeling.
 
-##### Artikel 128c
+#### Artikel 128c
 
 1. Van het bepaalde bij deze afdeling kan niet ten nadele van de consument worden afgeweken.
 
@@ -10059,7 +10034,7 @@ De kredietgever of, in voorkomend geval, de kredietbemiddelaar brengt de consume
 
 #### Onderafdeling 6. Slotbepalingen
 
-##### Artikel 74
+#### Artikel 74
 
 In deze afdeling wordt verstaan onder:
 
@@ -10079,7 +10054,7 @@ In deze afdeling wordt verstaan onder:
 
 - h. **kredietvergoeding:** alle beloningen en vergoedingen, in welke vorm ook, die de kredietgever of de leverancier van de goederen of diensten ter zake van een kredietovereenkomst bedingt, in rekening brengt of aanvaardt, bij goederen- en dienstenkrediet verminderd met het totaal van de contante prijzen van de zaken onderscheidenlijk diensten, waarvan de kredietnemer het genot wordt verschaft onderscheidenlijk die aan de kredietnemer worden verleend, met dien verstande dat de vergoeding die verschuldigd wordt indien de kredietnemer vervroegd aflost, vastgesteld overeenkomstig [artikel 68 leden 2 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=3&artikel=68&z=2026-01-01&g=2026-01-01) geen deel van de kredietvergoeding uitmaakt.
 
-##### Artikel 75
+#### Artikel 75
 
 1. Onverminderd de bepalingen van de vorige afdeling gelden voor de daar bedoelde kredietovereenkomsten voorts de volgende bepalingen met dien verstande dat de [artikelen 77 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=77&z=2026-01-01&g=2026-01-01), behoudens voor zover het betreft bedingen tot eenzijdige verhoging van de kredietvergoeding, en onder c, [79](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=79&z=2026-01-01&g=2026-01-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=80&z=2026-01-01&g=2026-01-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=81&z=2026-01-01&g=2026-01-01) niet gelden voor kredietovereenkomsten waarvan de kredietsom meer dan € 40.000 bedraagt.
 
@@ -10087,7 +10062,7 @@ In deze afdeling wordt verstaan onder:
 
 3. In afwijking van het eerste lid, geldt deze afdeling niet voor de overeenkomst betreffende effectenkrediet.
 
-##### Artikel 76
+#### Artikel 76
 
 1. Het is de kredietgever en de leverancier van de goederen of diensten verboden enige andere vorm van kredietvergoeding te bedingen, in rekening te brengen of te aanvaarden dan:
 
@@ -10101,7 +10076,7 @@ In deze afdeling wordt verstaan onder:
 
 4. Het is de kredietgever en de leverancier van de goederen of diensten verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden dan wel de kredietvergoeding op een ander tijdstip in rekening te brengen dan in gevolge de leden 2 en 3 is toegelaten.
 
-##### Artikel 77
+#### Artikel 77
 
 1. Niet zijn toegelaten bedingen waarbij:
 
@@ -10141,13 +10116,13 @@ In deze afdeling wordt verstaan onder:
 
 - b. in het kader van een regeling met betrekking tot de bestaande schuldenlast van een kredietnemer (saneringskrediet).
 
-##### Artikel 78
+#### Artikel 78
 
 1. Een consument kan geen volmacht tot het sluiten van een kredietovereenkomst verlenen aan een kredietgever, een leverancier van de goederen of diensten, een kredietbemiddelaar of iemand die bij een van hen werkzaam is.
 
 2. De consument kan geen onherroepelijke volmacht tot het sluiten van een kredietovereenkomst verlenen.
 
-##### Artikel 79
+#### Artikel 79
 
 1. Het is slechts toegestaan tot zekerheid van de nakoming van een verbintenis van de consument uit hoofde van een kredietovereenkomst, een pandrecht als bedoeld in [artikel 237 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=237) te vestigen op een zaak, indien die zaak door de consument met het uit hoofde van de kredietovereenkomst verkregen geld wordt aangeschaft of aan de consument ingevolge de kredietovereenkomst het genot van die zaak wordt verschaft. Deze bepaling is van overeenkomstige toepassing ten aanzien van het bedingen van een eigendomsvoorbehoud.
 
@@ -10163,7 +10138,7 @@ In deze afdeling wordt verstaan onder:
 
 - b. in het kader van een regeling met betrekking tot de bestaande schuldenlast van een kredietnemer (saneringskrediet).
 
-##### Artikel 80
+#### Artikel 80
 
 1. In afwijking van [artikel 229 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) ontstaat een pandrecht op een vordering tot vergoeding die in de plaats treedt van een zaak waarop tot zekerheid van de nakoming van de verbintenis van de consument een pandrecht als bedoeld in [artikel 79 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=79&z=2026-01-01&g=2026-01-01) is gevestigd, slechts voor het geval die zaak geheel teniet gaat.
 
@@ -10177,23 +10152,23 @@ In deze afdeling wordt verstaan onder:
 
 4. [Artikel 229 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) en het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij een eigendomsvoorbehoud ten aanzien van een zaak als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=79&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 81
+#### Artikel 81
 
 1. Afgifte van een zaak, waarvan de eigendom is voorbehouden in het kader van een kredietovereenkomst of waarop een pandrecht als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=79&z=2026-01-01&g=2026-01-01) is gevestigd kan slechts worden gevorderd in de gevallen bedoeld in [artikel 77 lid 1 onder **c**, 1° tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=2&artikel=77&z=2026-01-01&g=2026-01-01) en in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=1&artikel=91&z=2026-01-01&g=2026-01-01).
 
 2. Afgifte van een zaak als bedoeld in het eerste lid kan niet meer worden gevorderd indien meer dan drie vierde deel van de kredietsom is afgelost, tenzij het een doorlopend krediet betreft.
 
-##### Artikel 82
+#### Artikel 82
 
 Ontbinding van een kredietovereenkomst op de grond dat de consument is tekortgeschoten in de nakoming van zijn verplichtingen, kan slechts geschieden door de rechter behoudens in het geval van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=1&artikel=90&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 83
+#### Artikel 83
 
 Van het in deze afdeling bepaalde kan niet ten nadele van de consument worden afgeweken.
 
 ### Afdeling 1. Goederenkrediet betreffende roerende zaken, niet-registergoederen
 
-##### Artikel 84
+#### Artikel 84
 
 1. Een overeenkomst van goederenkrediet is een kredietovereenkomst, daaronder begrepen een samenstel van overeenkomsten die een commerciële eenheid vormen in de zin van [artikel 57 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=1&artikel=57&z=2026-01-01&g=2026-01-01), ter zake van het verschaffen van het genot door de kredietgever aan de kredietnemer van een roerende zaak, niet zijnde een registergoed, mits de termijn waarbinnen het krediet moet worden terugbetaald langer is dan drie maanden nadat het krediet ter beschikking is gesteld, dan wel met het verschaffen van het genot van de zaak een aanvang is gemaakt.
 
@@ -10211,11 +10186,11 @@ Van het in deze afdeling bepaalde kan niet ten nadele van de consument worden af
 
 - e. **kredietsom:** het verschil tussen het totaal van de contante prijzen van de zaken waarvan de kredietnemer het genot wordt verschaft en de door deze in dat kader gedane contante betalingen met dien verstande dat bij doorlopend goederenkrediet de kredietlimiet als dat verschil wordt aangemerkt.
 
-##### Artikel 85
+#### Artikel 85
 
 Indien op een overeenkomst van goederenkrediet tevens [titel 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&z=2026-01-01&g=2026-01-01) van toepassing is, zijn de bepalingen van titel 2A en die van deze afdeling naast elkaar van toepassing. In geval van strijd zijn de bepalingen van titel 2A van toepassing.
 
-##### Artikel 86
+#### Artikel 86
 
 1. De overeenkomst van goederenkrediet wordt op papier of op een andere duurzame drager aangegaan. Een volmacht tot het aangaan van een zodanige overeenkomst moet eveneens op papier of op een andere duurzame drager worden verleend.
 
@@ -10227,7 +10202,7 @@ Indien op een overeenkomst van goederenkrediet tevens [titel 2A](https://wetten.
 
 5. Indien in een kredietovereenkomst terzake huurkoop de bedingen betreffende het eigendomsvoorbehoud en overgang van de eigendom ontbreken, geldt de overeenkomst als een koop op afbetaling zonder eigendomsvoorbehoud.
 
-##### Artikel 87
+#### Artikel 87
 
 1. De kredietnemer die de zaak krachtens een overeenkomst als bedoeld in [artikel 84 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=1&artikel=84&z=2026-01-01&g=2026-01-01) onder zich heeft, heeft daarvan het genot, ook voordat hij de eigendom daarvan verkrijgt.
 
@@ -10235,7 +10210,7 @@ Indien op een overeenkomst van goederenkrediet tevens [titel 2A](https://wetten.
 
 3. Zolang hij geen eigenaar is, mag hij de inrichting of gedaante van de zaak niet veranderen, noch mag hij zijn genot daarvan aan anderen afstaan.
 
-##### Artikel 88
+#### Artikel 88
 
 1. Vervreemding van de krachtens een overeenkomst bedoeld in [artikel 84 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=1&artikel=84&z=2026-01-01&g=2026-01-01) afgeleverde zaak werkt niet ten nadele van de kredietnemer en laat de verbintenis tussen de kredietnemer en de kredietgever dan wel de leverancier onverlet.
 
@@ -10243,39 +10218,39 @@ Indien op een overeenkomst van goederenkrediet tevens [titel 2A](https://wetten.
 
 3. Lid 1 staat niet in de weg aan overdraagbaarheid van de rechten van de kredietgever of van de overeenkomst zelf onverminderd het bepaalde in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=3&artikel=69&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 89
+#### Artikel 89
 
 1. De eigendom van een zaak die in het kader van een doorlopend goederenkrediet is voorbehouden, gaat van rechtswege over op de kredietnemer en een pandrecht op de gefinancierde zaak dat in het kader van een doorlopend krediet is gevestigd, eindigt van rechtswege, zodra de kredietnemer aflossingen heeft gedaan ter grootte van het verschil tussen de contante prijs van die zaak en het bedrag van de contante betaling betreffende het genot van die zaak, dan wel, indien geen contante betaling is gedaan, ter grootte van die contante prijs.
 
 2. Aflossingen worden toegerekend aan verschillende zaken in dezelfde volgorde als waarin met het verschaffen van het genot daarvan een aanvang is gemaakt, dan wel die zaken uit hoofde van de kredietovereenkomst zijn aangeschaft.
 
-##### Artikel 90
+#### Artikel 90
 
 1. Afgifte van de afgeleverde zaak ingevolge een schriftelijke verklaring van de kredietgever dat hij deze terugvordert wegens de niet-nakoming door de kredietnemer van diens verplichtingen, heeft tot gevolg dat de tot de kredietovereenkomst behorende overeenkomsten met de kredietnemer worden ontbonden, mits de kredietgever overeenkomstig de krachtens de kredietovereenkomst geldende regels tot de terugvordering bevoegd is.
 
 2. De [artikelen 265 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=265), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=266) en [267 lid 1 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=267) zijn van overeenkomstige toepassing.
 
-##### Artikel 91
+#### Artikel 91
 
 Wanneer de kredietgever een rechtsvordering instelt tot ontbinding van de kredietovereenkomst of teruggave van de zaak, kan hij, indien hij voldoende belang heeft bij een onverwijlde voorziening, een rechterlijk bevel tot teruggave bij voorraad verkrijgen.
 
-##### Artikel 92
+#### Artikel 92
 
 1. Indien een der partijen bij ontbinding van de kredietovereenkomst wegens een tekortkoming van de kredietnemer in de nakoming van zijn verbintenissen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van de kredietovereenkomst, vindt volledige verrekening plaats.
 
 2. Een beding waarbij de kredietgever zich de bevoegdheid voorbehoudt de waarde van de terug ontvangen zaak te bepalen, laat de bevoegdheid van de wederpartij deze waarde nader door de rechter te laten vaststellen onverlet.
 
-##### Artikel 93
+#### Artikel 93
 
 1. In het vonnis waarbij de verplichting tot teruggave van de afgeleverde zaak wordt vastgesteld of de overeenkomst wordt ontbonden, wordt op vordering van de kredietgever een bevel tot teruggave opgenomen.
 
 2. Bij het vonnis waarbij de teruggave wordt bevolen, stelt de rechter op vordering van een der partijen de geldswaarde van de terug te geven zaak vast. In dat geval kan de tenuitvoerlegging ook geschieden als ware de gedaagde tot betaling van dat bedrag veroordeeld.
 
-##### Artikel 94
+#### Artikel 94
 
 Indien de kredietnemer bij ontbinding van de overeenkomst recht mocht hebben op enige terugbetaling, kan hij de zaak die hij terug moet geven, onder zich houden, totdat het hem verschuldigde is betaald of de kredietgever daarvoor voldoende zekerheid heeft gesteld.
 
-##### Artikel 95
+#### Artikel 95
 
 1. Indien de kredietnemer binnen veertien dagen nadat hij de zaak heeft afgegeven het totale uit hoofde van de kredietovereenkomst op het moment van inlossing opeisbare, achterstallige bedrag, voldoet, wordt de zaak door de kredietgever teruggegeven.
 
@@ -10285,29 +10260,29 @@ Indien de kredietnemer bij ontbinding van de overeenkomst recht mocht hebben op 
 
 4. Indien de kredietgever een redelijk belang heeft bij weigering van de teruggave, kan de rechter bepalen dat het eerste lid buiten toepassing blijft.
 
-##### Artikel 96
+#### Artikel 96
 
 Indien één van meer overeenkomsten die samen een commerciële eenheid vormen als bedoeld in [artikel 57 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=1&artikel=57&z=2026-01-01&g=2026-01-01) op enige grond bloot staat aan ontbinding of vernietiging door de kredietnemer, zal de andere overeenkomst op die grond kunnen worden ontbonden of vernietigd op dezelfde wijze en met inachtneming van dezelfde termijnen als voor de ontbinding of vernietiging van de eerste overeenkomst gelden, tenzij uit de wet of de aard van de rechtsverhouding anders voortvloeit.
 
-##### Artikel 97
+#### Artikel 97
 
 Indien een overeenkomst van goederenkrediet is gesloten tussen een kredietgever die handelt in de uitoefening van een beroep of bedrijf en een kredietnemer die een natuurlijk persoon is en handelt voor doeleinden die buiten zijn bedrijfsactiviteiten of beroepsactiviteiten vallen, kan niet ten nadele van de kredietnemer van de bepalingen van deze afdeling worden afgeweken.
 
-##### Artikel 98
+#### Artikel 98
 
 Van [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=1&artikel=92&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de kredietnemer worden afgeweken.
 
-##### Artikel 99
+#### Artikel 99
 
 Op een overeenkomst van goederenkrediet die bestaat uit een samenstel van overeenkomsten die een commerciële eenheid vormen als bedoeld in [artikel 57 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=1&artikel=57&z=2026-01-01&g=2026-01-01) en die niet is gesloten tussen een kredietgever en een kredietnemer als bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=1&artikel=97&z=2026-01-01&g=2026-01-01), is [artikel 67 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=3&artikel=67&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-##### Artikel 100
+#### Artikel 100
 
 Het in deze afdeling bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.
 
 #### Onderafdeling 1. Algemene bepalingen
 
-##### Artikel 101
+#### Artikel 101
 
 1. De overeenkomst van huurkoop van een onroerende zaak is een koopovereenkomst, daaronder begrepen een samenstel van overeenkomsten die een commerciële eenheid vormen in de zin van [artikel 57 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&afdeling=1&paragraaf=1&artikel=57&z=2026-01-01&g=2026-01-01), volgens welke de koopprijs wordt betaald in termijnen en de eigendomsoverdracht zal plaatsvinden na voldoening van twee of meer termijnen die verschijnen, nadat de zaak aan de koper is afgeleverd.
 
@@ -10315,7 +10290,7 @@ Het in deze afdeling bepaalde vindt overeenkomstige toepassing op vermogensrecht
 
 3. Op overeenkomsten die aan de eisen van deze afdeling voldoen, zijn de bepalingen betreffende huur en pacht niet van toepassing.
 
-##### Artikel 102
+#### Artikel 102
 
 1. Ieder der partijen is jegens de ander verplicht eraan mee te werken dat tussen hen van de huurkoopovereenkomst een notariële akte wordt opgemaakt, die wordt ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), zulks onverminderd de bevoegdheid om de huurkoopovereenkomst in afwachting daarvan reeds met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=1&artikel=3&z=2026-01-01&g=2026-01-01) in te doen schrijven.
 
@@ -10329,7 +10304,7 @@ Het in deze afdeling bepaalde vindt overeenkomstige toepassing op vermogensrecht
 
 - d. de bedingen over voorbehoud en overgang van eigendom.
 
-##### Artikel 103
+#### Artikel 103
 
 1. Behalve de in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=102&z=2026-01-01&g=2026-01-01) bedoelde akte kunnen in de openbare registers worden ingeschreven:
 
@@ -10341,7 +10316,7 @@ Het in deze afdeling bepaalde vindt overeenkomstige toepassing op vermogensrecht
 
 2. Een rechterlijke uitspraak als bedoeld in lid 1 onder a en b kan tevens worden ingeschreven indien zij uitvoerbaar bij voorraad is verklaard en indien is voldaan aan de eisen die in [artikel 301 lid 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=301) voor de inschrijving van een uitvoerbaar bij voorraad verklaarde uitspraak worden gesteld. De leden 1 en 2 van artikel 301 van Boek 3 zijn van overeenkomstige toepassing.
 
-##### Artikel 104
+#### Artikel 104
 
 1. Na de inschrijving van de notariële akte van huurkoop, daaronder begrepen voor die akte in de plaats tredende rechterlijke uitspraken als bedoeld in [artikel 103 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=103&z=2026-01-01&g=2026-01-01), kunnen tegen de huurkoper niet worden ingeroepen:
 
@@ -10363,11 +10338,11 @@ Het in deze afdeling bepaalde vindt overeenkomstige toepassing op vermogensrecht
 
 3. Voor de toepassing van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=25) en [26 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=26) geldt de inschrijving van een notariële akte van huurkoop als een inschrijving van een rechtshandeling tot verkrijging van een registergoed in de zin van deze artikelen.
 
-##### Artikel 105
+#### Artikel 105
 
 In geval van een samenstel van overeenkomsten als bedoeld in [artikel 101 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=101&z=2026-01-01&g=2026-01-01) kan de huurkoper de rechten wegens niet nakoming of niet behoorlijke nakoming van de partij die als leverancier van de onroerende zaak is opgetreden, zo nodig uitoefenen jegens de kredietgever, mits hij deze rechten jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij recht heeft.
 
-##### Artikel 106
+#### Artikel 106
 
 1. De huurkoper heeft van de zaak die krachtens huurkoop aan hem is afgeleverd het genot ook voordat hij de eigendom daarvan verkrijgt.
 
@@ -10375,37 +10350,37 @@ In geval van een samenstel van overeenkomsten als bedoeld in [artikel 101 lid 1]
 
 3. Hij mag de inrichting of gedaante van de zaak niet veranderen noch mag hij zijn genot ervan aan anderen afstaan.
 
-##### Artikel 107
+#### Artikel 107
 
 1. Vervreemding door de huurverkoper van de krachtens huurkoop afgeleverde zaak werkt niet ten nadele van de huurkoper en laat de verbintenis tussen de huurkoper en de huurverkoper onverlet.
 
 2. Lid 1 staat niet in de weg aan overdraagbaarheid van de rechten van de huurverkoper of van de huurkoopovereenkomst zelf overeenkomstig de daarvoor geldende regels.
 
-##### Artikel 108
+#### Artikel 108
 
 1. Indien de huurverkoper bij ontbinding van de huurkoopovereenkomst wegens een tekortkoming van de huurkoper in de nakoming van zijn verbintenissen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van de huurkoopovereenkomst, vindt volledige verrekening plaats.
 
 2. Een beding waarbij de huurverkoper zich de bevoegdheid voorbehoudt de waarde van de terug ontvangen zaak te bepalen, laat de bevoegdheid van de wederpartij deze waarde nader door de rechter te laten vaststellen onverlet.
 
-##### Artikel 109
+#### Artikel 109
 
 Indien de huurkoper bij ontbinding van de overeenkomst recht mocht hebben op enige terugbetaling, heeft hij een retentierecht op de zaak, totdat het hem verschuldigde is betaald of de huurverkoper daarvoor voldoende zekerheid heeft gesteld.
 
-##### Artikel 110
+#### Artikel 110
 
 Wanneer de gehele koopprijs met de daarover verschuldigde rente en de kosten die voor rekening van de huurkoper zijn, de kosten van een afzonderlijke overdracht daaronder begrepen, zijn voldaan of de huurkoper van zijn verplichtingen te dier zake op andere wijze is bevrijd dan wel de verjaring van rechtsvordering van de huurverkoper te dier zake is voltooid, is de huurverkoper verplicht onverwijld zijn medewerking te verlenen aan het tot stand komen van een notariële akte van levering aan de huurkoper of aan de notariële verklaring volgens [artikel 30 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=30) vereist voor de vervulling van de voorwaarde waaronder de overdracht blijkens een reeds ingeschreven notariële akte van levering is geschied.
 
-##### Artikel 111
+#### Artikel 111
 
 In geval van onbevoegdheid van de huurverkoper tot vervreemding is [artikel 88 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=88) van toepassing met dien verstande dat voor de daar vereiste goede trouw van de huurkoper voldoende is dat zijn goede trouw bestond op het tijdstip van de inschrijving van de notariële akte van huurkoop.
 
-##### Artikel 112
+#### Artikel 112
 
 Van de [artikelen 101 tot en met 104](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=101&z=2026-01-01&g=2026-01-01), [108](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=108&z=2026-01-01&g=2026-01-01), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=110&z=2026-01-01&g=2026-01-01) en [111](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=111&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken.
 
 #### Onderafdeling 2. Huurkoop van woonruimte
 
-##### Artikel 113
+#### Artikel 113
 
 1. Deze onderafdeling is van toepassing op de overeenkomst van huurkoop met betrekking tot een tot bewoning bestemde onroerende zaak of bestanddeel daarvan, indien de huurkoper een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf.
 
@@ -10415,7 +10390,7 @@ Van de [artikelen 101 tot en met 104](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Onderafdeling 1 is van toepassing voor zover deze onderafdeling daarvan niet afwijkt.
 
-##### Artikel 114
+#### Artikel 114
 
 1. Een overeenkomst van huurkoop als bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=2&artikel=113&z=2026-01-01&g=2026-01-01) wordt aangegaan bij een notariële akte. Een volmacht tot het aangaan van een zodanige overeenkomst moet schriftelijk worden verleend.
 
@@ -10445,11 +10420,11 @@ Van de [artikelen 101 tot en met 104](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 6. De notaris gaat niet over tot het verlijden van de akte dan nadat partijen ten minste veertien dagen de tijd hebben gehad om van het in het vierde en vijfde lid bedoelde taxatierapport kennis te nemen en tevens aan de eisen van [artikel 122 leden 1–5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=3&paragraaf=2&artikel=122&z=2026-01-01&g=2026-01-01) is voldaan.
 
-##### Artikel 115
+#### Artikel 115
 
 De huurkoper heeft het recht zich te allen tijde geheel of gedeeltelijk van zijn verplichtingen uit de huurkoopovereenkomst te bevrijden met toepassing van de regels van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=3&paragraaf=4&artikel=127&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 116
+#### Artikel 116
 
 1. Niet kan worden bedongen dat gedurende de contractsperiode een hogere koopprijs wordt vastgesteld, tenzij het met inachtneming van [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=3&paragraaf=4&artikel=128&z=2026-01-01&g=2026-01-01) vastgestelde aanpassingen betreft van de in de overeenkomst vermelde rentevoet of het gaat om indexering aan de hand van een van overheidswege vastgesteld indexcijfer.
 
@@ -10457,7 +10432,7 @@ De huurkoper heeft het recht zich te allen tijde geheel of gedeeltelijk van zijn
 
 3. De huurverkoper mag niet tot ontbinding of beëindiging overgaan dan nadat de bij de ingebrekestelling gestelde redelijke termijn van tenminste twee maanden is verstreken en de huurverkoper de huurkoper heeft uitgenodigd om met hem in overleg te treden over diens betalingsachterstand, tenzij dit van de huurverkoper in redelijkheid niet kan worden gevergd.
 
-##### Artikel 117
+#### Artikel 117
 
 Van de [artikelen 113](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=2&artikel=113&z=2026-01-01&g=2026-01-01) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=2&artikel=114&z=2026-01-01&g=2026-01-01) kan niet worden afgeweken. Van de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=105&z=2026-01-01&g=2026-01-01), [106, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=106&z=2026-01-01&g=2026-01-01), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=107&z=2026-01-01&g=2026-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=1&artikel=109&z=2026-01-01&g=2026-01-01), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=2&artikel=115&z=2026-01-01&g=2026-01-01) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&afdeling=2&paragraaf=2&artikel=116&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de huurkoper worden afgeweken.
 
@@ -10467,35 +10442,35 @@ Van de [artikelen 113](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&ti
 
 #### Onderafdeling 4. Informatie en rechten betreffende kredietovereenkomsten
 
-##### Artikel 129
+#### Artikel 129
 
 1. De overeenkomst van geldlening is de kredietovereenkomst waarbij de ene partij, de uitlener, zich verbindt aan de andere partij, de lener, een som geld te verstrekken en de lener zich verbindt aan de uitlener een overeenkomstige som geld terug te betalen.
 
 2. Indien is overeengekomen dat de kredietnemer door een enkele verklaring, een betalingsopdracht daaronder begrepen, de kredietgever kan verplichten hem een som geld te verstrekken, komt pas door deze verklaring de geldlening tot stand.
 
-##### Artikel 129a
+#### Artikel 129a
 
 Indien op een overeenkomst van geldlening tevens [titel 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2a&z=2026-01-01&g=2026-01-01) of [titel 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=2b&z=2026-01-01&g=2026-01-01) van toepassing is, zijn de bepalingen van titel 2A of titel 2B en die van deze titel naast elkaar van toepassing. In geval van strijd zijn de bepalingen van titel 2A of titel 2B van toepassing.
 
-##### Artikel 129b
+#### Artikel 129b
 
 Indien de uitlener een natuurlijke persoon is die niet in de uitoefening van een beroep of bedrijf handelt, bindt de overeenkomst hem niet voordat het geld daadwerkelijk aan de lener is verstrekt of de uitlener zich schriftelijk tot de verstrekking verbonden heeft.
 
-##### Artikel 129c
+#### Artikel 129c
 
 1. Indien beide partijen natuurlijke personen zijn en geen van beide partijen in de uitoefening van een beroep of bedrijf handelt, is over het geleende bedrag slechts rente verschuldigd, indien dit schriftelijk is bedongen.
 
 2. In andere gevallen is de lener verplicht over de geleende som rente te betalen, tenzij uit de overeenkomst voortvloeit dat geen rente verschuldigd is.
 
-##### Artikel 129d
+#### Artikel 129d
 
 Indien uit de overeenkomst voortvloeit dat over de geleende som rente verschuldigd is, maar de hoogte van die rente niet door partijen is bepaald, moet de rente volgens de voor wettelijke rente vastgestelde rentevoet worden berekend.
 
-##### Artikel 129e
+#### Artikel 129e
 
 De lener is verplicht het door hem op grond van de overeenkomst verschuldigde terug te geven binnen zes weken nadat de uitlener heeft medegedeeld tot opeising over te gaan, tenzij een ander tijdstip voor de terugbetaling uit de overeenkomst voortvloeit.
 
-##### Artikel 129f
+#### Artikel 129f
 
 Indien is overeengekomen dat een lener de geleende geldsom terug zal betalen, wanneer hij daartoe in staat zal zijn, zal de rechter, naar gelang van de omstandigheden, het tijdstip van de opeisbaarheid nader kunnen bepalen.
 
@@ -10603,7 +10578,7 @@ Indien is overeengekomen dat een lener de geleende geldsom terug zal betalen, wa
 
 ## Titel 16. Franchise
 
-##### Artikel 666a
+#### Artikel 666a
 
 1. Deze afdeling is van toepassing op de overgang van een zeeschip als onderdeel van de overgang van een onderneming, indien de verkrijger onder de territoriale werkingssfeer van het Verdrag van de Europese Unie valt of de overgegane onderneming onder die werkingssfeer blijft.
 
@@ -10657,7 +10632,7 @@ Indien is overeengekomen dat een lener de geleende geldsom terug zal betalen, wa
 
 ## Titel 16. Franchise
 
-##### Artikel 738a
+#### Artikel 738a
 
 1. De scheepsbeheerder draagt zorg voor de repatriëring van de zeevarende, indien de werkgever de zeevarende heeft achtergelaten.
 
@@ -10685,7 +10660,7 @@ Indien is overeengekomen dat een lener de geleende geldsom terug zal betalen, wa
 
 7. Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal van de verzekeraar op derden.
 
-##### Artikel 738b
+#### Artikel 738b
 
 1. Vorderingen, die krachtens [artikel 738a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738a&z=2026-01-01&g=2026-01-01) door een verzekering worden gedekt, kunnen rechtstreeks door de zeevarende worden ingesteld tegen de verzekeraar.
 
@@ -10693,7 +10668,7 @@ Indien is overeengekomen dat een lener de geleende geldsom terug zal betalen, wa
 
 3. De verzekeraar kan de scheepsbeheerder steeds in het geding roepen.
 
-##### Artikel 738c
+#### Artikel 738c
 
 De verzekeringsovereenkomst, bedoeld in [artikel 738a, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738a&z=2026-01-01&g=2026-01-01), voldoet aan het volgende:
 
@@ -10705,11 +10680,11 @@ De verzekeringsovereenkomst, bedoeld in [artikel 738a, lid 4](https://wetten.ove
 
 - d. uit de overeenkomst blijkt dat de verzekeraar deze slechts tussentijds kan opzeggen, indien hij daarvan tenminste dertig dagen van te voren schriftelijk of elektronisch mededeling heeft gedaan aan de door Onze Minister van Infrastructuur en Milieu aangewezen autoriteit, bedoeld in [artikel 738a, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738a&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 738d
+#### Artikel 738d
 
 De [artikelen 738a, leden 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738a&z=2026-01-01&g=2026-01-01), [738b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738b&z=2026-01-01&g=2026-01-01) en [738c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738c&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de scheepsbeheerder die tevens de werkgever van de zeevarende is.
 
-##### Artikel 738e
+#### Artikel 738e
 
 1. De scheepsbeheerder is aansprakelijk voor de schade die de zeevarende lijdt als gevolg van het niet nakomen door de werkgever van zijn contractuele verplichtingen tot vergoeding van door de zeevarende geleden schade in verband met langdurige ongeschiktheid tot werken of overlijden ten gevolge van een ongeval of ziekte in verband met de zee-arbeidsovereenkomst.
 
@@ -10723,7 +10698,7 @@ De [artikelen 738a, leden 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BW
 
 6. Vorderingen tot schadevergoeding, die krachtens dit artikel door een verzekering worden gedekt, kunnen rechtstreeks door de zeevarende of in geval van zijn overlijden, door diens nagelaten betrekkingen, bedoeld in [artikel 674, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=674&z=2026-01-01&g=2026-01-01), worden ingesteld tegen de verzekeraar. [Artikel 738b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=738b&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-##### Artikel 738f
+#### Artikel 738f
 
 1. De scheepsbeheerder, die tevens de werkgever van de zeevarende is, is verplicht een verzekering in stand te houden ter dekking van zijn aansprakelijkheid uit hoofde van zijn contractuele verplichtingen tot vergoeding van door de zeevarende geleden schade in verband met langdurige ongeschiktheid tot werken of overlijden ten gevolge van een ongeval of ziekte in verband met de zee-arbeidsovereenkomst.
 
@@ -10761,7 +10736,7 @@ De [artikelen 738a, leden 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Afdeling 1. Definities en toepassingsgebied
 
-##### Artikel 513a
+#### Artikel 513a
 
 1. De organisator neemt de maatregelen die nodig zijn om te verzekeren dat, wanneer hij wegens financieel onvermogen zijn verplichtingen jegens de reiziger niet of niet verder kan nakomen, wordt zorggedragen hetzij voor overneming van zijn verplichtingen door een ander hetzij voor terugbetaling van de reissom of, indien de reisdiensten reeds ten dele zijn genoten, een evenredig deel daarvan. Indien de pakketreisovereenkomst personenvervoer omvat, voorzien de maatregelen in de repatriëring van de reiziger.
 
@@ -10781,7 +10756,7 @@ De [artikelen 738a, leden 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BW
 
 6. De leden 1 tot en met 5 zijn van overeenkomstige toepassing op een organisator die niet in Nederland is gevestigd en pakketreizen aanbiedt in Nederland, of die dergelijke activiteiten op Nederland richt.
 
-##### Artikel 513b
+#### Artikel 513b
 
 1. De handelaar die gekoppelde reisarrangementen faciliteert neemt de maatregelen die nodig zijn om te verzekeren dat, voor zover een reisdienst die deel uitmaakt van een gekoppeld reisarrangement door financieel onvermogen van die handelaar jegens de reiziger niet of niet verder kan worden nagekomen, wordt zorggedragen voor terugbetaling van de reissom die hij ontvangt van de reiziger of, indien de reisdienst reeds ten dele is genoten, een evenredig deel daarvan. Indien de handelaar die gekoppelde reisarrangementen faciliteert voor het personenvervoer verantwoordelijk is, voorzien de maatregelen in de repatriëring van de reiziger.[Artikel 513a, lid 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7A&afdeling=5&artikel=513a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -10797,7 +10772,7 @@ De [artikelen 738a, leden 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BW
 
 5. Indien een gekoppeld reisarrangement het gevolg is van een overeenkomst tussen een reiziger en een handelaar die niet degene is die het gekoppelde reisarrangement faciliteert, stelt die handelaar de handelaar die het gekoppelde reisarrangement faciliteert in kennis van de betrokken overeenkomst.
 
-##### Artikel 513c
+#### Artikel 513c
 
 Tenzij boekingsfouten aan de reiziger zijn te wijten of door onvermijdbare en buitengewone omstandigheden worden veroorzaakt, kan een handelaar zijn aansprakelijkheid niet uitsluiten of beperken:
 
@@ -10805,7 +10780,7 @@ Tenzij boekingsfouten aan de reiziger zijn te wijten of door onvermijdbare en bu
 
 - b). voor schade door fouten die tijdens het boekingsproces worden gemaakt indien de handelaar ermee heeft ingestemd de boeking van een pakketreis of van reisdiensten die deel uitmaken van een gekoppeld reisarrangement te regelen.
 
-##### Artikel 513d
+#### Artikel 513d
 
 1. Van het bij deze titel bepaalde kan ten nadele van de reiziger niet worden afgeweken.
 
@@ -10879,7 +10854,7 @@ Tenzij boekingsfouten aan de reiziger zijn te wijten of door onvermijdbare en bu
 
 ## Titel 18. Lijfrente
 
-##### Artikel 673e
+#### Artikel 673e
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), verstrekt op verzoek van de werkgever die op grond van [artikel 673](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=9&artikel=673&z=2026-01-01&g=2026-01-01) een transitievergoeding verschuldigd was, een vergoeding, indien de arbeidsovereenkomst:
 
@@ -10949,11 +10924,11 @@ Tenzij boekingsfouten aan de reiziger zijn te wijten of door onvermijdbare en bu
 
 ## Titel 18. Lijfrente
 
-##### Artikel 515a
+#### Artikel 515a
 
 Op betaaldienstverleners die uitsluitend een rekeninginformatiedienst aanbieden zijn van deze titel slechts de [artikelen 522c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=522c&z=2026-01-01&g=2026-01-01) en [524](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=524&z=2026-01-01&g=2026-01-01) van toepassing.
 
-##### Artikel 522a
+#### Artikel 522a
 
 1. Een rekeninghoudende betaaldienstverlener bevestigt op verzoek van een betaaldienstverlener die op kaarten gebaseerde betaalinstrumenten uitgeeft, onmiddellijk of een bedrag dat noodzakelijk is voor de uitvoering van een op kaarten gebaseerde betalingstransactie, beschikbaar is op de betaalrekening van de betaler, mits:
 
@@ -10979,15 +10954,15 @@ Op betaaldienstverleners die uitsluitend een rekeninginformatiedienst aanbieden 
 
 6. Dit artikel is niet van toepassing op betalingstransacties die zijn geïnitieerd met op kaarten gebaseerde betaalinstrumenten waarop elektronisch geld, als gedefinieerd in artikel 2, punt 2, van [Richtlijn 2009/110/EG](32009L0110), is opgeslagen.
 
-##### Artikel 522b
+#### Artikel 522b
 
 Een betaler heeft het recht om voor betaaldiensten als bedoeld in bijlage I, punt 7, van de richtlijn gebruik te maken van een betaalinitiatiedienstverlener. Dit recht is niet van toepassing indien de betaalrekening niet online raadpleegbaar is.
 
-##### Artikel 522c
+#### Artikel 522c
 
 Een betaaldienstgebruiker heeft het recht gebruik te maken van diensten die hem toegang bieden tot rekeninginformatie als bedoeld in bijlage I, punt 8 van de richtlijn. Dit recht is niet van toepassing indien de betaalrekening niet online raadpleegbaar is.
 
-##### Artikel 529a
+#### Artikel 529a
 
 1. Wanneer een betalingstransactie door of via de begunstigde in het kader van een op kaarten gebaseerde betalingstransactie wordt geïnitieerd en het exacte bedrag niet bekend is op het moment dat de betaler instemming verleent om de betalingstransactie uit te voeren, kan de betaaldienstverlener van de betaler slechts geldmiddelen op de betaalrekening van de betaler blokkeren indien de betaler instemming heeft verleend voor het exacte bedrag aan te blokkeren geldmiddelen.
 
@@ -10997,7 +10972,7 @@ Een betaaldienstgebruiker heeft het recht gebruik te maken van diensten die hem 
 
 #### Paragraaf 3. Aansprakelijkheid
 
-##### Artikel 545a
+#### Artikel 545a
 
 1. Wanneer een betaalopdracht door een betaler via een betaalinitiatiedienstverlener wordt geïnitieerd, betaalt de rekeninghoudende betaaldienstverlener de betaler, onverminderd de [artikelen 526](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=2&artikel=526&z=2026-01-01&g=2026-01-01) en [542, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=3&paragraaf=3&artikel=542&z=2026-01-01&g=2026-01-01), het bedrag van de niet-uitgevoerde of gebrekkige betalingstransactie terug en herstelt hij de betaalrekening die met dat bedrag was gedebiteerd, in de toestand zoals die geweest zou zijn wanneer de gebrekkige betalingstransactie niet had plaatsgevonden.
 
@@ -11055,7 +11030,7 @@ Een betaaldienstgebruiker heeft het recht gebruik te maken van diensten die hem 
 
 ## Titel 18. Lijfrente
 
-##### Artikel 458a
+#### Artikel 458a
 
 1. In afwijking van het bepaalde in [artikel 457 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=457&z=2026-01-01&g=2026-01-01) verstrekt de hulpverlener desgevraagd inzage in of afschrift van gegevens uit het dossier van een overleden patiënt aan:
 
@@ -11071,7 +11046,7 @@ Een betaaldienstgebruiker heeft het recht gebruik te maken van diensten die hem 
 
 4. Op grond van dit artikel worden geen gegevens verstrekt voor zover schriftelijk of elektronisch is vastgelegd dat de overleden patiënt die de leeftijd van twaalf jaar had bereikt en tot een redelijke waardering van zijn belangen ter zake in staat was, deze inzage niet wenst, of daarbij de persoonlijke levenssfeer van een ander wordt geschaad.
 
-##### Artikel 458b
+#### Artikel 458b
 
 1. Indien op grond van [artikel 458a, lid 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7&afdeling=5&artikel=458a&z=2026-01-01&g=2026-01-01), om inzage in of afschrift van gegevens uit het dossier van een overleden patiënt wordt gevraagd vanwege een vermoeden van een medische fout en de hulpverlener de gevraagde inzage of het gevraagde afschrift niet verstrekt, verstrekt de hulpverlener op verzoek van degene die om de inzage of het afschrift heeft gevraagd inzage in of afschrift van de gegevens aan een door de verzoeker aangewezen onafhankelijke arts.
 
@@ -11109,7 +11084,7 @@ Een betaaldienstgebruiker heeft het recht gebruik te maken van diensten die hem 
 
 ### Afdeling 1. Aanneming van werk in het algemeen
 
-##### Artikel 757a
+#### Artikel 757a
 
 In geval van aanneming van een bouwwerk legt de aannemer bij de kennisgeving dat het werk klaar is om te worden opgeleverd, bedoeld in [artikel 758 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=1&artikel=758&z=2026-01-01&g=2026-01-01), een dossier aan de opdrachtgever over met betrekking tot het tot stand gebrachte bouwwerk. Het dossier bevat gegevens en bescheiden die volledig inzicht geven in de nakoming van de overeenkomst door de aannemer en de te dien aanzien uitgevoerde werkzaamheden en bevat in ieder geval:
 
@@ -11119,7 +11094,7 @@ In geval van aanneming van een bouwwerk legt de aannemer bij de kennisgeving dat
 
 ### Afdeling 2. Bijzondere bepalingen voor de bouw van een woning in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf
 
-##### Artikel 765a
+#### Artikel 765a
 
 1. Voordat de opdrachtgever gebonden is aan een overeenkomst als bedoeld in [artikel 765](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=12&afdeling=2&artikel=765&z=2026-01-01&g=2026-01-01) dan wel aan een daartoe strekkend aanbod, informeert de aannemer de opdrachtgever schriftelijk en ondubbelzinnig of en, zo ja, op welke wijze de nakoming van zijn verplichtingen tot uitvoering van het werk en zijn aansprakelijkheid voor gebreken die aan hem zijn toe te rekenen door een verzekering dan wel een andere financiële zekerheid is of zal worden gedekt. Deze informatie wordt op een voor de opdrachtgever duidelijke en begrijpelijke wijze verstrekt en ziet in ieder geval op de omvang van de verzekering of de financiële zekerheid, de dekkingsgraad, de looptijd en de som waarvoor de verzekering is afgesloten dan wel de financiële zekerheid is verstrekt.
 
@@ -11147,19 +11122,19 @@ In geval van aanneming van een bouwwerk legt de aannemer bij de kennisgeving dat
 
 ## Titel 18. Lijfrente
 
-##### Artikel 746
+#### Artikel 746
 
 De werkgever brengt voor de overmaking, bedoeld in [artikel 707, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=707&z=2026-01-01&g=2026-01-01), geen kosten in rekening bij de zeevarende in de zeevisserij.
 
-##### Artikel 747
+#### Artikel 747
 
 De [artikelen 623](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=623&z=2026-01-01&g=2026-01-01), [624](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=624&z=2026-01-01&g=2026-01-01), [695, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=695&z=2026-01-01&g=2026-01-01), [697](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=697&z=2026-01-01&g=2026-01-01), [698](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=698&z=2026-01-01&g=2026-01-01), [700](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=700&z=2026-01-01&g=2026-01-01), [702](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=702&z=2026-01-01&g=2026-01-01), [703 tot en met 707](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=703&z=2026-01-01&g=2026-01-01), [718](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01), [719, leden 1, 2, 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=719&z=2026-01-01&g=2026-01-01), [720](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=720&z=2026-01-01&g=2026-01-01), [732](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=732&z=2026-01-01&g=2026-01-01), [734 tot en met 734m](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), [742](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12A&artikel=742&z=2026-01-01&g=2026-01-01), [743](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12A&artikel=743&z=2026-01-01&g=2026-01-01) en [746](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12A&artikel=746&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op personen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden verrichten in de zeevisserij, met dien verstande dat voor «werkgever» wordt gelezen: scheepsbeheerder als bedoeld in [artikel 1 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=1) en in plaats van «loon» wordt gelezen: aandeel in de vangst of de opbrengst daarvan.
 
-##### Artikel 748
+#### Artikel 748
 
 Indien de werkgever van de zeevarende in de zeevisserij de verplichtingen inzake repatriëring, bedoeld in [artikel 718](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01), niet tijdig nakomt, is de scheepsbeheerder aansprakelijk voor de nakoming daarvan.
 
-##### Artikel 749
+#### Artikel 749
 
 1. Op de maatschapsovereenkomst in de zeevisserij zijn de [artikelen 623](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=623&z=2026-01-01&g=2026-01-01), [624](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=624&z=2026-01-01&g=2026-01-01), [695, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=695&z=2026-01-01&g=2026-01-01), [697](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=697&z=2026-01-01&g=2026-01-01), [698](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=698&z=2026-01-01&g=2026-01-01), [700](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=700&z=2026-01-01&g=2026-01-01), [702](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=702&z=2026-01-01&g=2026-01-01), [703 tot en met 707](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=703&z=2026-01-01&g=2026-01-01), [718](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=718&z=2026-01-01&g=2026-01-01), [719, leden 1, 2, 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=719&z=2026-01-01&g=2026-01-01), [720](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=720&z=2026-01-01&g=2026-01-01), [732](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=732&z=2026-01-01&g=2026-01-01), [734](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734&z=2026-01-01&g=2026-01-01), [734a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12&artikel=734a&z=2026-01-01&g=2026-01-01), [742, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12A&artikel=742&z=2026-01-01&g=2026-01-01), [743](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12A&artikel=743&z=2026-01-01&g=2026-01-01) en [746](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=12A&artikel=746&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «zee-arbeidsovereenkomst» wordt gelezen «maatschapsovereenkomst», in plaats van «werkgever» wordt gelezen «scheepsbeheerder, als bedoeld in [artikel 1 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=1)» en in plaats van «loon» wordt gelezen «aandeel in de vangst of de opbrengst daarvan».
 
@@ -11191,7 +11166,7 @@ Indien de werkgever van de zeevarende in de zeevisserij de verplichtingen inzake
 
 ## Titel 18. Lijfrente
 
-##### Artikel 692a
+#### Artikel 692a
 
 1. De [artikelen 628, leden 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=2&artikel=628&z=2026-01-01&g=2026-01-01), en [691](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=10&afdeling=11&artikel=691&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op de payrollovereenkomst.
 
@@ -11257,7 +11232,7 @@ Indien de werkgever van de zeevarende in de zeevisserij de verplichtingen inzake
 
 ## Titel 18. Lijfrente
 
-##### Artikel 911
+#### Artikel 911
 
 1. De franchiseovereenkomst is de overeenkomst waarbij de franchisegever aan een franchisenemer tegen vergoeding het recht verleent en de verplichting oplegt om een franchiseformule op de door de franchisegever aangewezen wijze te exploiteren voor de productie of verkoop van goederen dan wel het verrichten van diensten.
 
@@ -11281,11 +11256,11 @@ Indien de werkgever van de zeevarende in de zeevisserij de verplichtingen inzake
 
 - d. **franchisenemer:** natuurlijke persoon of rechtspersoon die in de uitoefening van zijn beroep of bedrijf voor eigen rekening en risico een franchiseformule exploiteert.
 
-##### Artikel 912
+#### Artikel 912
 
 De franchisegever en de franchisenemer gedragen zich jegens elkaar als een goed franchisegever en een goed franchisenemer.
 
-##### Artikel 913
+#### Artikel 913
 
 1. De beoogd franchisenemer verstrekt aan de franchisegever tijdig informatie over zijn financiële positie, voor zover deze redelijkerwijs van belang is voor het sluiten van de franchiseovereenkomst.
 
@@ -11311,7 +11286,7 @@ De franchisegever en de franchisenemer gedragen zich jegens elkaar als een goed 
 
 4. De franchisegever verstrekt aan de beoogd franchisenemer alle overige informatie waarvan hij weet of redelijkerwijs kan vermoeden dat deze van belang is voor het sluiten van de franchiseovereenkomst.
 
-##### Artikel 914
+#### Artikel 914
 
 1. De verstrekking van de informatie, bedoeld in [artikel 913, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=913&z=2026-01-01&g=2026-01-01), geschiedt ten minste vier weken voor het sluiten van de franchiseovereenkomst.
 
@@ -11329,11 +11304,11 @@ De franchisegever en de franchisenemer gedragen zich jegens elkaar als een goed 
 
 - b. het sluiten van een volgende franchiseovereenkomst als bedoeld in onderdeel a, als deze wordt gesloten tussen dezelfde franchisegever en een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) van de franchisenemer of een aan hem verbonden groepsmaatschappij als bedoeld in [artikel 24b van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
 
-##### Artikel 915
+#### Artikel 915
 
 De beoogd franchisenemer treft binnen de grenzen van redelijkheid en billijkheid de nodige maatregelen om te voorkomen dat hij onder de invloed van onjuiste veronderstellingen overgaat tot het sluiten van de franchiseovereenkomst.
 
-##### Artikel 916
+#### Artikel 916
 
 1. De franchisegever verstrekt aan de franchisenemer tijdig:
 
@@ -11349,23 +11324,23 @@ De beoogd franchisenemer treft binnen de grenzen van redelijkheid en billijkheid
 
 3. Er vindt ten minste eenmaal per jaar overleg plaats tussen de franchisegever en de franchisenemer.
 
-##### Artikel 917
+#### Artikel 917
 
 1. Het verstrekken van de informatie, bedoeld in de [artikelen 913](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=913&z=2026-01-01&g=2026-01-01) en [916](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=916&z=2026-01-01&g=2026-01-01), geschiedt op een wijze die deze informatie ongewijzigd toegankelijk maakt voor toekomstige raadpleging gedurende een periode die is afgestemd op het doel waarvoor de informatie is verstrekt.
 
 2. De informatie die de franchisegever verstrekt op grond van de [artikelen 913](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=913&z=2026-01-01&g=2026-01-01) en [916](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=916&z=2026-01-01&g=2026-01-01), is zodanig geformuleerd en vormgegeven, dat een beoogd franchisenemer redelijkerwijs een weloverwogen besluit kan nemen over het sluiten van de franchiseovereenkomst, respectievelijk een franchisenemer kan bepalen of en in hoeverre het nodig is om zijn bedrijfsvoering aan te passen of feitelijke maatregelen te treffen.
 
-##### Artikel 918
+#### Artikel 918
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de aard, de inhoud en de wijze van verstrekking van de in de [artikelen 913](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=913&z=2026-01-01&g=2026-01-01) en [916](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=916&z=2026-01-01&g=2026-01-01) bedoelde informatie.
 
-##### Artikel 919
+#### Artikel 919
 
 1. De franchisegever verleent de franchisenemer de bijstand alsmede de commerciële en technische ondersteuning die redelijkerwijs en in relatie tot de aard en de strekking van de franchiseformule verwacht mag worden met het oog op de exploitatie van de franchiseformule door de franchisenemer.
 
 2. Indien de franchisenemer een bepaalde vorm van bijstand of ondersteuning als bedoeld in het eerste lid nodig acht, maakt hij dit kenbaar aan de franchisegever en treden de franchisegever en de franchisenemer hierover met elkaar in overleg.
 
-##### Artikel 920
+#### Artikel 920
 
 1. De franchiseovereenkomst bepaalt in ieder geval:
 
@@ -11391,7 +11366,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de a
 
 - e. de geografische reikwijdte niet ruimer is dan het gebied waarbinnen de franchisenemer de franchiseformule op grond van de betreffende franchiseovereenkomst heeft geëxploiteerd.
 
-##### Artikel 921
+#### Artikel 921
 
 1. Indien de franchisegever voornemens is met gebruikmaking van een in de franchiseovereenkomst opgenomen bepaling een wijziging in de franchiseformule door te voeren danwel voornemens is rechtstreeks of via derden een afgeleide formule te doen exploiteren zonder hiertoe de franchiseovereenkomst te wijzigen, en de franchisegever met het oog op dit voornemen:
 
@@ -11409,7 +11384,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de a
 
 2. Indien de bepaling van het niveau, bedoeld in het eerste lid, ontbreekt in de franchiseovereenkomst, is de in het eerste lid bedoelde voorafgaande instemming steeds vereist, ongeacht de omvang van de verlangde investering, de financiële bijdrage respectievelijk de kosten of de omzetderving, bedoeld in het eerste lid, onderdeel a, b, c, respectievelijk d.
 
-##### Artikel 922
+#### Artikel 922
 
 Ten aanzien van in Nederland gevestigde franchisenemers geldt dat van het bepaalde bij deze Titel niet ten nadele van hen kan worden afgeweken en dat een beding in strijd met [artikel 920](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=16&artikel=920&z=2026-01-01&g=2026-01-01) nietig is, ongeacht het recht dat de franchiseovereenkomst beheerst.
 
@@ -11423,7 +11398,7 @@ Ten aanzien van in Nederland gevestigde franchisenemers geldt dat van het bepaal
 
 ## Titel 18. Lijfrente
 
-##### Artikel 252c
+#### Artikel 252c
 
 Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01) doen, strekkend tot verhoging van de huurprijs op de grond dat:
 
@@ -11505,7 +11480,7 @@ Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt 
 
 ## Titel 18. Lijfrente
 
-##### Artikel 255a
+#### Artikel 255a
 
 1. Dit artikel is uitsluitend van toepassing op huurovereenkomsten als bedoeld in [artikel 247](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=247&z=2026-01-01&g=2026-01-01).
 
@@ -11599,7 +11574,7 @@ Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt 
 
 ## Titel 18. Lijfrente
 
-##### Artikel 5a
+#### Artikel 5a
 
 1. Deze titel is ook van toepassing:
 
@@ -11615,7 +11590,7 @@ Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt 
 
 ### Afdeling 2. Verplichtingen van de verkoper
 
-##### Artikel 18a
+#### Artikel 18a
 
 1. In geval van een consumentenkoop wordt elk gebrek aan overeenstemming van de zaak met de overeenkomst als gevolg van een verkeerde installatie van de zaak beschouwd als het niet beantwoorden van het afgeleverde aan de overeenkomst, indien:
 
@@ -11641,7 +11616,7 @@ Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt 
 
 ### Afdeling 1. Algemene bepalingen
 
-##### Artikel 50aa
+#### Artikel 50aa
 
 Voor de toepassing van deze titel wordt verstaan onder:
 
@@ -11685,7 +11660,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - r. **richtlijn (EG) 2003/98:** [Richtlijn 2003/98/EG](32003L0098) van het Europees Parlement en de Raad van 17 november 2003 inzake het hergebruik van overheidsinformatie (PbEU 2003, L 345).
 
-##### Artikel 50ab
+#### Artikel 50ab
 
 1. Deze titel is van toepassing:
 
@@ -11725,7 +11700,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 ### Afdeling 2. Verplichtingen van de handelaar
 
-##### Artikel 50ac
+#### Artikel 50ac
 
 1. De handelaar levert de digitale inhoud of de digitale dienst onverwijld na het sluiten van de overeenkomst aan de consument, tenzij partijen anders zijn overeengekomen.
 
@@ -11735,13 +11710,13 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - b. de digitale dienst toegankelijk wordt gemaakt voor de consument of voor een daartoe door de consument gekozen fysieke of virtuele faciliteit.
 
-##### Artikel 50ad
+#### Artikel 50ad
 
 1. De afgeleverde digitale inhoud of digitale dienst moet aan de overeenkomst beantwoorden.
 
 2. De digitale inhoud of digitale dienst wordt geleverd in de meest recente versie die bij het sluiten van de overeenkomst beschikbaar was, tenzij partijen anders zijn overeengekomen.
 
-##### Artikel 50ae
+#### Artikel 50ae
 
 1. Voor de vraag of de geleverde digitale inhoud of digitale dienst aan de overeenkomst beantwoordt, moet de digitale inhoud of digitale dienst met name, voor zover van toepassing:
 
@@ -11781,7 +11756,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 6. Er is geen sprake van het niet beantwoorden van de afgeleverde digitale inhoud of digitale dienst aan de overeenkomst in de zin van lid 2 of 4 indien de consument bij het sluiten van de overeenkomst er uitdrukkelijk van in kennis werd gesteld dat een specifiek kenmerk van de digitale inhoud of digitale dienst afweek van de redelijke verwachtingen van de consument en de consument die afwijking bij het sluiten van de overeenkomst uitdrukkelijk en afzonderlijk heeft aanvaard.
 
-##### Artikel 50af
+#### Artikel 50af
 
 1. Elk gebrek aan overeenstemming van de digitale inhoud of digitale dienst met de overeenkomst dat het gevolg is van de verkeerde integratie ervan in de digitale omgeving van de consument wordt beschouwd als het niet beantwoorden aan de overeenkomst, indien:
 
@@ -11805,13 +11780,13 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 5. Voor zover het redelijkerwijs mogelijk en noodzakelijk is, geeft de consument de handelaar gelegenheid om met de technisch beschikbare middelen die voor de consument het minst ingrijpend zijn na te gaan of de oorzaak van het gebrek van de digitale inhoud of digitale dienst toe te schrijven is aan diens digitale omgeving. Indien de consument dit verzuimt en de handelaar heeft de consument voor het sluiten van de overeenkomst op duidelijke en begrijpelijke wijze van de medewerkingsplicht op de hoogte gesteld, bewijst de consument dat het gebrek bestond op het tijdstip bedoeld in [artikel 50ag lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=3&artikel=50ag&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 50ag
+#### Artikel 50ag
 
 1. De handelaar is aansprakelijk voor elk verzuim om de digitale inhoud of digitale dienst te leveren overeenkomstig [artikel 50ac](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50ac&z=2026-01-01&g=2026-01-01) en voor een gebrek als bedoeld in de [artikelen 50ad](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50ad&z=2026-01-01&g=2026-01-01), [50ae](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50ae&z=2026-01-01&g=2026-01-01) en [50af lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50af&z=2026-01-01&g=2026-01-01).
 
 2. Rechtsvorderingen en verweren, gegrond op feiten die de stelling zouden rechtvaardigen dat de afgeleverde digitale inhoud of digitale dienst niet aan de overeenkomst beantwoordt, verjaren door verloop van twee jaren na de levering, tenzij de consument het gebrek niet kende of behoorde te kennen, met inachtneming van in elk geval de prijs of digitale weergave van waarde en de redelijke verwachtingen van de consument ten aanzien van de duur dat hij gebruik kan maken van de digitale inhoud of digitale dienst.
 
-##### Artikel 50ah
+#### Artikel 50ah
 
 1. Komt de handelaar de in of overeenkomstig [artikel 50ac](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50ac&z=2026-01-01&g=2026-01-01) gestelde of overeengekomen vereisten niet na, dan is hij in verzuim wanneer hij door de consument in gebreke is gesteld bij een aanmaning waarbij hem een redelijke termijn voor de aflevering is gesteld en nakoming binnen deze termijn uitblijft. De consument is dan bevoegd om de overeenkomst te ontbinden.
 
@@ -11823,7 +11798,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 3. Indien de consument de overeenkomst ontbindt op grond van lid 1 of lid 2, zijn de [artikelen 50ai lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=3&artikel=50ai&z=2026-01-01&g=2026-01-01), [50aj](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=3&artikel=50aj&z=2026-01-01&g=2026-01-01), [50ak](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=3&artikel=50ak&z=2026-01-01&g=2026-01-01) en [50ao](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=4&artikel=50ao&z=2026-01-01&g=2026-01-01) van toepassing.
 
-##### Artikel 50ai
+#### Artikel 50ai
 
 1. Beantwoordt de afgeleverde digitale inhoud of digitale dienst niet aan de overeenkomst, dan is de consument bevoegd om nakoming te eisen, de prijs te verminderen in evenredigheid met de mate van afwijking van hetgeen is overeengekomen, of de overeenkomst te ontbinden.
 
@@ -11855,7 +11830,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 8. Voor zover daarvan in deze titel niet is afgeweken zijn op de in lid 1 bedoelde bevoegdheid de bepalingen van [afdeling 5 van titel 5 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=5) omtrent ontbinding van een overeenkomst van overeenkomstige toepassing.
 
-##### Artikel 50aj
+#### Artikel 50aj
 
 1. Bij ontbinding van de overeenkomst betaalt de handelaar de consument alle uit hoofde van de overeenkomst betaalde bedragen terug.
 
@@ -11873,7 +11848,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 4. Onverminderd lid 3 kan de handelaar elk verder gebruik van de digitale inhoud of digitale dienst door de consument beletten.
 
-##### Artikel 50ak
+#### Artikel 50ak
 
 1. Alle terugbetalingen die de handelaar aan de consument is verschuldigd op grond van [artikel 50ai leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=3&artikel=50ai&z=2026-01-01&g=2026-01-01) of [artikel 50aj lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=3&artikel=50aj&z=2026-01-01&g=2026-01-01) als gevolg van een prijsvermindering of de ontbinding van de overeenkomst, worden onverwijld verricht en in elk geval binnen 14 dagen vanaf de datum waarop de handelaar in kennis is gesteld van de beslissing van de consument om zich te beroepen op het recht van prijsvermindering dan wel op ontbinding van de overeenkomst.
 
@@ -11881,7 +11856,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 3. De handelaar mag de consument geen vergoeding in rekening brengen voor de terugbetaling.
 
-##### Artikel 50al
+#### Artikel 50al
 
 1. Wanneer in de overeenkomst is bepaald dat de digitale inhoud of digitale dienst moet worden geleverd of beschikbaar moet worden gesteld aan de consument gedurende een periode, kan de handelaar de digitale inhoud of digitale dienst onderwerpen aan wijzigingen die verder gaan dan wat nodig is om de beantwoording van de digitale inhoud of digitale dienst aan de overeenkomst overeenkomstig [artikel 50ad lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50ad&z=2026-01-01&g=2026-01-01) en [artikel 50ae](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1aa&afdeling=2&artikel=50ae&z=2026-01-01&g=2026-01-01) te bewerkstelligen indien:
 
@@ -11899,17 +11874,17 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 4. De leden 2 en 3 zijn niet van toepassing indien de handelaar de consument de mogelijkheid heeft geboden om zonder aanvullende kosten de digitale inhoud of digitale dienst ongewijzigd te behouden en de digitale inhoud of digitale dienst blijft beantwoorden aan de overeenkomst.
 
-##### Artikel 50am
+#### Artikel 50am
 
 Wanneer de handelaar jegens de consument aansprakelijk is wegens verzuim om de digitale inhoud of digitale dienst te leveren of wegens een gebrek dat voortvloeit uit een handelen of nalaten van een persoon in een eerdere schakel van de transactieketen, zijn de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=3&artikel=24&z=2026-01-01&g=2026-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=1&afdeling=3&artikel=25&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
 ### Afdeling 4. Verplichtingen van de consument
 
-##### Artikel 50an
+#### Artikel 50an
 
 De consument is verplicht de prijs dan wel de digitale weergave van waarde te betalen.
 
-##### Artikel 50ao
+#### Artikel 50ao
 
 1. Na de ontbinding van de overeenkomst ziet de consument af van het gebruik van de digitale inhoud of digitale dienst en van de terbeschikkingstelling daarvan aan derden.
 
@@ -11917,7 +11892,7 @@ De consument is verplicht de prijs dan wel de digitale weergave van waarde te be
 
 3. De consument is niet gehouden te betalen voor het gebruik van de digitale inhoud of digitale dienst in de periode voor de ontbinding van de overeenkomst waarin de digitale inhoud of digitale dienst niet aan de overeenkomst heeft beantwoord.
 
-##### Artikel 50ap
+#### Artikel 50ap
 
 1. Tenzij in deze titel anders is bepaald, kan van deze titel niet ten nadele van de consument worden afgeweken en kunnen de rechten en vorderingen die de wet aan de consument ter zake van een tekortkoming in de nakoming van de verplichtingen van de handelaar toekent niet worden beperkt of uitgesloten.
 
@@ -11969,7 +11944,7 @@ De consument is verplicht de prijs dan wel de digitale weergave van waarde te be
 
 #### Onderafdeling 1. Algemeen
 
-##### Artikel 236a
+#### Artikel 236a
 
 Onder ligplaats wordt verstaan een plaats in het water bestemd voor het afmeren van een voor bewoning bestemd drijvend object.
 
@@ -11977,7 +11952,7 @@ Onder ligplaats wordt verstaan een plaats in het water bestemd voor het afmeren 
 
 #### Paragraaf 1. Huurprijzen
 
-##### Artikel 247a
+#### Artikel 247a
 
 De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=248&z=2026-01-01&g=2026-01-01), [251](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=251&z=2026-01-01&g=2026-01-01), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=2&artikel=259&z=2026-01-01&g=2026-01-01), [261 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=2&artikel=261&z=2026-01-01&g=2026-01-01), [262](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=3&artikel=262&z=2026-01-01&g=2026-01-01) en [264](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=3&artikel=264&z=2026-01-01&g=2026-01-01), niet van toepassing op een overeenkomst van huur en verhuur die betrekking heeft op een ligplaats.
 
@@ -11987,13 +11962,13 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 l
 
 #### Onderafdeling 3. Medehuur en voortzetting van de huur
 
-##### Artikel 268a
+#### Artikel 268a
 
 1. Bij overlijden van de huurder van een ligplaats is [artikel 268](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_3&artikel=268&z=2026-01-01&g=2026-01-01) niet van toepassing indien die huurder eigenaar was van het op die ligplaats afgemeerde voor bewoning bestemde drijvend object.
 
 2. Van dit artikel en van [artikel 229 leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=4&artikel=229&z=2026-01-01&g=2026-01-01) kan niet ten nadele van de erfgenamen, onderscheidenlijk de echtgenoot of geregistreerde partner, worden afgeweken.
 
-##### Artikel 270b
+#### Artikel 270b
 
 1. Indien de huurder van een ligplaats eigenaar is van het op die ligplaats afgemeerde voor bewoning bestemde drijvend object, kan die huurder bij verkoop van dat drijvend object vorderen dat de rechter hem zal machtigen om de koper in zijn plaats als huurder te stellen.
 
@@ -12073,7 +12048,7 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 l
 
 ## Titel 18. Lijfrente
 
-##### Artikel 628b
+#### Artikel 628b
 
 1. Dit artikel is van toepassing op arbeidsovereenkomsten waarvoor geldt dat de tijdstippen waarop de arbeid moet worden verricht geheel of grotendeels onvoorspelbaar zijn.
 
@@ -12083,7 +12058,7 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 l
 
 4. De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in dit artikel aan hem toegekende rechten geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
 
-##### Artikel 653a
+#### Artikel 653a
 
 1. Een beding waarbij de werkgever verbiedt of beperkt dat de werknemer voor anderen arbeid verricht buiten de tijdstippen waarop de arbeid moet worden verricht bij die werkgever, is nietig, tenzij dit beding kan worden gerechtvaardigd op grond van een objectieve reden.
 
@@ -12125,7 +12100,7 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de [artikelen 248 l
 
 ## Titel 18. Lijfrente
 
-##### Artikel 521b
+#### Artikel 521b
 
 Op de betaaldienstverlener rust de bewijslast voor de naleving van de in de [artikelen 516 tot en met 519](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=516&z=2026-01-01&g=2026-01-01) en [521](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=7b&afdeling=1&artikel=521&z=2026-01-01&g=2026-01-01) neergelegde verplichtingen en de krachtens [artikel 4:22, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22) geldende regels met betrekking tot de inhoud en verstrekking van de door titel III van de richtlijn vereiste informatie.
 
@@ -12175,7 +12150,7 @@ Op de betaaldienstverlener rust de bewijslast voor de naleving van de in de [art
 
 ## Titel 18. Lijfrente
 
-##### Artikel 261b
+#### Artikel 261b
 
 1. In de huurovereenkomst kan worden bepaald dat de huurder een waarborgsom is verschuldigd strekkende tot zekerheid van hetgeen in de huurovereenkomst is overeengekomen.
 
@@ -12259,7 +12234,7 @@ Op de betaaldienstverlener rust de bewijslast voor de naleving van de in de [art
 
 ## Titel 18. Lijfrente
 
-##### Artikel 274g
+#### Artikel 274g
 
 Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_4&artikel=274&z=2026-01-01&g=2026-01-01) wordt mede begrepen het verstrekken van woonruimte aan een woningzoekende die een bloed- of aanverwantschap in de eerste graad heeft met de verhuurder, indien uitdrukkelijk in de huurovereenkomst is bedongen dat de verhuurder de huurovereenkomst na afloop van de bij dat beding overeengekomen termijn kan opzeggen ten behoeve van bewoning door een bloed- of aanverwant in de eerste graad van de verhuurder.
 
@@ -12329,7 +12304,7 @@ Onder eigen gebruik in de zin van [artikel 274 lid 1 onder c](https://wetten.ove
 
 ## Titel 18. Lijfrente
 
-##### Artikel 247b
+#### Artikel 247b
 
 De [artikelen 248 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=248&z=2026-01-01&g=2026-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252&z=2026-01-01&g=2026-01-01) voor zover het een voorstel tot verhoging van de huurprijs betreft, [252a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252a&z=2026-01-01&g=2026-01-01), [252b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=252b&z=2026-01-01&g=2026-01-01), [253](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=253&z=2026-01-01&g=2026-01-01) en [255a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&boek=7&titeldeel=4&afdeling=5&paragraaf=Onderafdeling_2&sub-paragraaf=1&artikel=255a&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op een overeenkomst van huur en verhuur die betrekking heeft op een middeldure huurwoonruimte als bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1).
 
@@ -12405,7 +12380,7 @@ De [artikelen 248 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&
 
 ## Titel 18. Lijfrente
 
-##### Artikel 61a
+#### Artikel 61a
 
 In voorkomend geval wordt de consument in kennis gesteld van wijzigingen van de voorwaarden van de kredietovereenkomst voordat de wijzigingen van kracht worden, waarbij de kredietgever de consument in kennis stelt van de volgende informatie:
 
@@ -12419,7 +12394,7 @@ In voorkomend geval wordt de consument in kennis gesteld van wijzigingen van de 
 
 - e. de naam en het adres van de bevoegde autoriteit waarbij de consument die klacht kan indienen.
 
-##### Artikel 70a
+#### Artikel 70a
 
 1. Een kredietgever treft waar passend respijtmaatregelen alvorens hij een incasso- of invorderingsprocedure inleidt ten aanzien van een consument.
 
@@ -12461,7 +12436,7 @@ In voorkomend geval wordt de consument in kennis gesteld van wijzigingen van de 
 
 #### Onderafdeling 4. Informatie en rechten betreffende kredietovereenkomsten
 
-##### Artikel 125a
+#### Artikel 125a
 
 In voorkomend geval wordt de consument in kennis gesteld van wijzigingen van de voorwaarden van de kredietovereenkomst voordat de wijzigingen van kracht worden, waarbij de kredietgever de consument in kennis stelt van de volgende informatie:
 
@@ -12475,7 +12450,7 @@ In voorkomend geval wordt de consument in kennis gesteld van wijzigingen van de 
 
 - e. de naam en het adres van de bevoegde autoriteit waarbij de consument die klacht kan indienen.
 
-##### Artikel 128aa
+#### Artikel 128aa
 
 1. Een kredietgever treft waar passend respijtmaatregelen alvorens hij een incasso- of invorderingsprocedure of een procedure tot executoriale verkoop inleidt ten aanzien van een consument.
 
@@ -12505,7 +12480,7 @@ In voorkomend geval wordt de consument in kennis gesteld van wijzigingen van de 
 
 #### Onderafdeling 5. Slotbepalingen
 
-##### Artikel 128ba
+#### Artikel 128ba
 
 1. Indien de rechten die de kredietgever op grond van de kredietovereenkomst heeft, dan wel de overeenkomst zelf, aan een derde worden overgedragen, kan de consument jegens de verkrijger alle verweermiddelen inroepen die hem jegens de oorspronkelijke kredietgever ten dienste stonden, met inbegrip van de bevoegdheid tot verrekening.
 

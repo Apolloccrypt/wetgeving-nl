@@ -1,38 +1,14 @@
 ---
-title: "Wet van 15 december 1994, houdende algemene regels inzake de waardering van onroerende zaken"
+title: "Wet waardering onroerende zaken"
 identifier: "BWBR0007119"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007119"
-soort: "wet"
-stam_id: "464663"
-version_id: "686282"
-internal_id: "C686281"
-label_id: "452644"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007119/2025-01-01/0"
-intitule_bron: "Stb.1994-874"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-15"
-intitule_status: "goed"
-original_publication: "Stb.1994-874"
-original_signed_date: "1994-12-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "22885"
-entry_into_force_date: "1995-01-01"
-entry_into_force_dossier: "22885"
-jci_1_3: "jci1.3:c:BWBR0007119&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0007119&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet waardering onroerende zaken"
-signed_date: "1994-12-15"
-entry_into_force: "1995-01-01"
+categorie: "Overig"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007119"
 ---
-# Wet van 15 december 1994, houdende algemene regels inzake de waardering van onroerende zaken
+
+# Wet waardering onroerende zaken
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -42,13 +18,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. Deze wet geldt bij de bepaling, de vaststelling en de verstrekking van de waarde van in Nederland gelegen onroerende zaken ten behoeve van afnemers.
 
 2. Het college van burgemeester en wethouders is belast met de uitvoering van deze wet, tenzij de gemeenteambtenaar, bedoeld in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231), hiermee is belast.
 
-##### Artikel 2
+#### Artikel 2
 
 In deze wet wordt verstaan onder:
 
@@ -74,13 +50,13 @@ In deze wet wordt verstaan onder:
 
 - –. de wet: de Wet waardering onroerende zaken.
 
-##### Artikel 3
+#### Artikel 3
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffende de verrekening van de kosten die verbonden zijn aan de uitvoering van de wet.
 
 ### Hoofdstuk II. De waarderingskamer
 
-##### Artikel 4
+#### Artikel 4
 
 1. Er is een Waarderingskamer. De Waarderingskamer bezit rechtspersoonlijkheid.
 
@@ -92,7 +68,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 5. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=9) en [15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15), is van toepassing op de Waarderingskamer.
 
-##### Artikel 5
+#### Artikel 5
 
 1. De Waarderingskamer bestaat uit elf leden, waaronder de voorzitter, die worden benoemd door Onze Minister.
 
@@ -104,19 +80,19 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 5. Degene die tot lid is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op het ogenblik waarop degene in wiens plaats hij is benoemd, had moeten aftreden. Hij kan worden herbenoemd.
 
-##### Artikel 6
+#### Artikel 6
 
 1. De Waarderingskamer heeft drie adviserende leden die worden benoemd door Onze Minister op voordracht van onderscheidenlijk Onze Minister, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en het InterProvinciaal Overleg.
 
 2. De adviserende leden kunnen te allen tijde op eigen verzoek door Onze Minister worden ontslagen. Onze Minister kan hen op verzoek van degene die de voordracht heeft gedaan, schorsen of ontslaan.
 
-##### Artikel 7
+#### Artikel 7
 
 1. De Waarderingskamer kan ter uitvoering van haar taak commissies instellen, waarin ook personen van buiten de Waarderingskamer zitting kunnen hebben.
 
 2. De Waarderingskamer en haar commissies kunnen zich doen bijstaan door deskundigen.
 
-##### Artikel 8
+#### Artikel 8
 
 1. De Waarderingskamer heeft een secretariaat onder leiding van een secretaris. In overeenstemming met Onze Minister, gaat de Waarderingskamer een arbeidsovereenkomst aan met de secretaris en beëindigt deze.
 
@@ -126,15 +102,15 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 4. De secretaris is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de Waarderingskamer.
 
-##### Artikel 9
+#### Artikel 9
 
 Vervallen
 
-##### Artikel 10
+#### Artikel 10
 
 De Waarderingskamer stelt een bestuursreglement vast, waarin in ieder geval regels worden opgenomen met betrekking tot de werkwijze van haar commissies, met betrekking tot de wijze waarop overleg wordt gevoerd met de colleges en de afnemers of met hun vertegenwoordigers omtrent aangelegenheden ter zake waarvan naar haar oordeel overleg gewenst is, alsmede omtrent aangelegenheden ter zake waarvan de deelnemers aan het overleg de Waarderingskamer te kennen hebben gegeven overleg te willen voeren.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Geschillen met betrekking tot de uitvoering van de wet tussen afnemers en colleges kunnen door de betrokken partijen worden voorgelegd aan de Waarderingskamer.
 
@@ -144,25 +120,25 @@ De Waarderingskamer stelt een bestuursreglement vast, waarin in ieder geval rege
 
 4. De Waarderingskamer is bevoegd de kosten die door haar zijn gemaakt in verband met het voorgelegde geschil in rekening te brengen aan de partijen. Zij kan beslissen dat de kosten die door partijen zijn gemaakt, worden gedragen door de in het ongelijk gestelde partij.
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
-##### Artikel 13
+#### Artikel 13
 
 Vervallen
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
 ### Hoofdstuk III. De waardebepaling
 
-##### Artikel 16
+#### Artikel 16
 
 Voor de toepassing van de wet wordt als één onroerende zaak aangemerkt:
 
@@ -178,7 +154,7 @@ Voor de toepassing van de wet wordt als één onroerende zaak aangemerkt:
 
 - f. het binnen de gemeente gelegen deel van een in onderdeel **a** of onderdeel **b** bedoeld eigendom, van een in onderdeel **c** bedoeld gedeelte daarvan, van een in onderdeel d bedoeld samenstel of van een in onderdeel e bedoeld geheel.
 
-##### Artikel 17
+#### Artikel 17
 
 1. Aan een onroerende zaak wordt een waarde toegekend.
 
@@ -196,7 +172,7 @@ Voor de toepassing van de wet wordt als één onroerende zaak aangemerkt:
 
 6. Met betrekking tot een onroerende zaak als bedoeld in [artikel 16, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&artikel=16&z=2025-01-01&g=2025-01-01), wordt de waarde gesteld op een evenredig deel van de waarde die dient te worden toegekend aan de gehele onroerende zaak.
 
-##### Artikel 18
+#### Artikel 18
 
 1. De waarde van een onroerende zaak wordt bepaald naar de waarde die de zaak op de waardepeildatum heeft naar de staat waarin de zaak op die datum verkeert.
 
@@ -214,11 +190,11 @@ wordt, in afwijking in zoverre van het eerste lid, de waarde bepaald naar de sta
 
 4. Bij ministeriële regeling kunnen regels worden gesteld ingevolge welke bij de waardebepaling buiten aanmerking wordt gelaten de waarde van onroerende zaken of onderdelen daarvan, indien die waarde geen onderdeel uitmaakt van de grondslag van de belastingen.
 
-##### Artikel 19
+#### Artikel 19
 
 Vervallen
 
-##### Artikel 20
+#### Artikel 20
 
 1. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde ambtenaar van de gemeente waarin de onroerende zaak is gelegen, bepaalt de waarde van die onroerende zaak.
 
@@ -226,19 +202,19 @@ Vervallen
 
 3. De voordracht voor een algemene maatregel van bestuur krachtens het tweede lid wordt niet gedaan dan nadat het ontwerp aan de beide Kamers der Staten-Generaal is overgelegd en aan de Kamers de gelegenheid is geboden om binnen zes weken na de dag waarop het ontwerp is overgelegd, hun oordeel aan Onze Minister kenbaar te maken.
 
-##### Artikel 21
+#### Artikel 21
 
 De Waarderingskamer kan het college een aanbeveling doen omtrent de uitvoering van de wet. Zij gaat daartoe niet over dan na het college in de gelegenheid te hebben gesteld te worden gehoord.
 
 ### Hoofdstuk IV. De waardevaststelling
 
-##### Artikel 22
+#### Artikel 22
 
 1. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde ambtenaar van de gemeente waarin de onroerende zaak is gelegen, stelt de waarde van de onroerende zaak vast bij een voor bezwaar vatbare beschikking.
 
 2. De bij de beschikking vastgestelde waarde geldt voor een kalenderjaar.
 
-##### Artikel 23
+#### Artikel 23
 
 1. De beschikking bevat in ieder geval:
 
@@ -254,7 +230,7 @@ De Waarderingskamer kan het college een aanbeveling doen omtrent de uitvoering v
 
 2. Het niet naleven van de voorschriften van het eerste lid brengt geen nietigheid van de beschikking mee.
 
-##### Artikel 24
+#### Artikel 24
 
 1. De beschikking wordt genomen binnen acht weken na het begin van het kalenderjaar waarvoor zij geldt.
 
@@ -286,11 +262,11 @@ Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van de beschi
 
 9. Indien ten aanzien van degene aan wie ingevolge het derde lid de bekendmaking van de beschikking dient te geschieden een aanslag onroerende-zaakbelastingen als bedoeld in [artikel 220 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220) wordt vastgesteld waarbij als heffingsmaatstaf geldt de bij de beschikking vastgestelde waarde van de onroerende zaak, geschiedt in afwijking van de vorige leden de bekendmaking van de beschikking in één geschrift met het aanslagbiljet onroerende-zaakbelastingen. Het niet naleven van de eerste volzin brengt geen nietigheid van de beschikking mee.
 
-##### Artikel 25
+#### Artikel 25
 
 Vervallen
 
-##### Artikel 26
+#### Artikel 26
 
 1. Indien in de loop van het kalenderjaar waarvoor de waarde van een onroerende zaak is vastgesteld een ander dan degene te wiens aanzien een beschikking houdende de vaststelling van de waarde van die zaak is genomen, de hoedanigheid verkrijgt van degene, bedoeld in [artikel 24, derde lid, onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2025-01-01&g=2025-01-01),:
 
@@ -304,7 +280,7 @@ Vervallen
 
 4. [Artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 27
+#### Artikel 27
 
 1. Indien enig feit grond oplevert voor het vermoeden dat de waarde te laag is vastgesteld, kan de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde gemeenteambtenaar de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2025-01-01&g=2025-01-01), of [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2025-01-01&g=2025-01-01), bedoelde beschikking herzien bij een voor bezwaar vatbare beschikking. Een feit dat de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde gemeenteambtenaar bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren.
 
@@ -312,7 +288,7 @@ Vervallen
 
 3. [Artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Ten aanzien van degene die aannemelijk maakt belang te hebben bij de vastgestelde waarde van een onroerende zaak ingevolge de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2025-01-01&g=2025-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2025-01-01&g=2025-01-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2025-01-01&g=2025-01-01), en aan wie niet op de voet van de [artikelen 24, derde tot en met zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2025-01-01&g=2025-01-01), [26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2025-01-01&g=2025-01-01), dan wel [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2025-01-01&g=2025-01-01), de beschikking ter zake is toegezonden, neemt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde gemeenteambtenaar binnen acht weken na een daartoe gedaan verzoek een voor bezwaar vatbare beschikking als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2025-01-01&g=2025-01-01), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2025-01-01&g=2025-01-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2025-01-01&g=2025-01-01). Van een belang is sprake als het waardegegeven op grond van een wettelijk voorschrift wordt gebruikt, en de belanghebbende door dit gebruik in zijn individuele belang kan worden geraakt.
 
@@ -322,7 +298,7 @@ Vervallen
 
 4. De bekendmaking van de beschikking geschiedt door toezending aan degene te wiens aanzien zij is genomen.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Indien bij de uitspraak op een bezwaarschrift dan wel bij een ambtshalve door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde gemeenteambtenaar genomen besluit met betrekking tot een op de voet van [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2025-01-01&g=2025-01-01) genomen beschikking:
 
@@ -336,7 +312,7 @@ Vervallen
 
 ### Hoofdstuk V. Bezwaar en beroep, bevoegdheden, verplichtingen en strafbepalingen
 
-##### Artikel 30
+#### Artikel 30
 
 1. Met betrekking tot de waardebepaling en de waardevaststelling ingevolge de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2025-01-01&g=2025-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&z=2025-01-01&g=2025-01-01) zijn de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=1), [5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [22j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=22j), [24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24a), [25 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [49 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53a), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54) en [56 tot en met 60 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) van overeenkomstige toepassing. Met betrekking tot natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, alsmede lichamen, is voorts [artikel 52, vierde en vijfde lid, en - voor zoveel het betreft het bewaren van gegevensdragers - zesde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) van overeenkomstige toepassing.
 
@@ -356,7 +332,7 @@ Vervallen
 
 9. Op een bezwaarschrift dat niet is ingediend in de laatste zes weken van een kalenderjaar, doet de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde gemeenteambtenaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), uitspraak in het kalenderjaar waarin het bezwaarschrift is ontvangen.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Met betrekking tot de toepassing van [de hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2025-01-01&g=2025-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2025-01-01&g=2025-01-01) kunnen bij algemene maatregel van bestuur:
 
@@ -366,11 +342,11 @@ Vervallen
 
 2. De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.
 
-##### Artikel 32
+#### Artikel 32
 
 De afnemers kunnen aan het college de gegevens en inlichtingen verschaffen welke van belang kunnen zijn voor een juiste uitvoering van de wet.
 
-##### Artikel 33
+#### Artikel 33
 
 1. Degene die:
 
@@ -388,35 +364,35 @@ een en ander, indien daarvan het gevolg zou kunnen zijn dat de waarde van een on
 
 3. Degene die niet voldoet aan de hem bij de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49), tweede lid, en [50, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=50) opgelegde verplichtingen, wordt gestraft met geldboete van de derde categorie.
 
-##### Artikel 34
+#### Artikel 34
 
 Overtreding van de krachtens de wet bij algemene maatregel van bestuur gestelde bepalingen wordt, voor zover die overtreding is aangemerkt als strafbaar feit, gestraft met geldboete van de derde categorie.
 
-##### Artikel 35
+#### Artikel 35
 
 Overtreding van de krachtens de wet bij ministeriële regeling gestelde algemene voorschriften wordt, voor zover die overtreding is aangemerkt als strafbaar feit, gestraft met geldboete van de tweede categorie.
 
-##### Artikel 36
+#### Artikel 36
 
 De bij de wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zijn misdrijven. De overige bij of krachtens de wet strafbaar gestelde feiten zijn overtredingen.
 
-##### Artikel 37
+#### Artikel 37
 
 De [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=73), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=77), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=78), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=37&z=2025-01-01&g=2025-01-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=81), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=83), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=85) en [88 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=88) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Gegevensbeheer
 
-##### Artikel 38
+#### Artikel 38
 
 Het college draagt zorg voor het verzamelen, opslaan en verstrekken van de gegevens betreffende de in de gemeente gelegen onroerende zaken en betreffende de waarde ervan, een en ander voor zover dit voor de uitvoering van de wet noodzakelijk is.
 
-##### Artikel 39
+#### Artikel 39
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het te registreren en te verstrekken gegevenspakket, de periodiciteit en de wijze van verstrekking.
 
 ### Hoofdstuk VI. Gegevensbeheer
 
-##### Artikel 40
+#### Artikel 40
 
 1. Op verzoek kan het waardegegeven van een bepaalde onroerende zaak die niet in hoofdzaak tot woning dient door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01), bedoelde gemeenteambtenaar worden verstrekt aan een ieder die kan aantonen een gerechtvaardigd belang te hebben bij de verkrijging daarvan.
 
@@ -426,47 +402,47 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
-##### Artikel 41
+#### Artikel 41
 
 Vervallen
 
-##### Artikel 42
+#### Artikel 42
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 Vervallen
 
-##### Artikel 44
+#### Artikel 44
 
 Bij of krachtens algemene maatregel van bestuur kunnen in aanvulling op de in de wet geregelde onderwerpen nadere regels worden gesteld met betrekking tot de uitvoering van de wet en de regelingen ingevolge de wet.
 
-##### Artikel 45
+#### Artikel 45
 
 Vervallen
 
-##### Artikel 46
+#### Artikel 46
 
 Deze wet treedt in werking met ingang van 1 januari 1995.
 
-##### Artikel 47
+#### Artikel 47
 
 Deze wet wordt aangehaald als: Wet waardering onroerende zaken.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 26a
+#### Artikel 26a
 
 Vervallen
 
-##### Artikel 29a
+#### Artikel 29a
 
 Vervallen
 
 ### Hoofdstuk V. Bezwaar en beroep, bevoegdheden, verplichtingen en strafbepalingen
 
-##### Artikel 32a
+#### Artikel 32a
 
 Gemeenten zijn gehouden elkaar desgevraagd kosteloos gegevens en inlichtingen te verschaffen die van belang kunnen zijn voor de uitvoering van de wet. Bij of krachtens algemene maatregel van bestuur kunnen hiervoor nadere regels worden gesteld.
 
@@ -476,7 +452,7 @@ Gemeenten zijn gehouden elkaar desgevraagd kosteloos gegevens en inlichtingen te
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 37a
+#### Artikel 37a
 
 1. Er is een basisregistratie WOZ waarin waardegegevens met bijbehorende temporele en meta-kenmerken zijn opgenomen. Het waardegegeven, bedoeld in de vorige volzin, is een authentiek gegeven.
 
@@ -484,7 +460,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. De basisregistratie WOZ heeft tot doel de afnemers te voorzien van waardegegevens.
 
-##### Artikel 37b
+#### Artikel 37b
 
 1. Het college levert een waardegegeven met bijbehorende temporele en meta-kenmerken aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ. De Dienst levert het waardegegeven met bijbehorende temporele en meta-kenmerken aan de afnemers.
 
@@ -498,23 +474,23 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. Het college draagt er zorg voor dat een meegeleverd authentiek gegeven uit een andere basisregistratie overeenstemt met dat gegeven, als opgenomen in die andere basisregistratie.
 
-##### Artikel 37c
+#### Artikel 37c
 
 1. Een afnemer gebruikt een waardegegeven uitsluitend bij de uitoefening van een op grond van een wettelijk voorschrift verleende bevoegdheid tot gebruik van dit gegeven.
 
 2. Een afnemer is niet bevoegd een waardegegeven verder bekend te maken dan noodzakelijk voor de uitoefening van de hem verleende bevoegdheid.
 
-##### Artikel 37d
+#### Artikel 37d
 
 1. Voor zover een afnemer een op grond van een wettelijk voorschrift verleende bevoegdheid tot gebruik van het waardegegeven uitoefent, gebruikt hij het waardegegeven zoals dat ten tijde van het gebruik is opgenomen in de basisregistratie WOZ.
 
 2. Voor een andere toepassing dan voor de heffing van belastingen geldt het eerste lid niet indien bij het waardegegeven de aantekening «in onderzoek» is geplaatst.
 
-##### Artikel 37e
+#### Artikel 37e
 
 Voor zover [artikel 37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37d&z=2025-01-01&g=2025-01-01), van toepassing is, hoeft degene aan wie door een afnemer om een waardegegeven wordt gevraagd dat gegeven niet te verstrekken.
 
-##### Artikel 37f
+#### Artikel 37f
 
 1. Een afnemer die gerede twijfel heeft over de juistheid van een authentiek gegeven dat hij via de landelijke voorziening WOZ verstrekt heeft gekregen meldt dit onder opgaaf van redenen aan de Dienst. De Dienst stuurt de melding onverwijld door naar het college dat het aangaat.
 
@@ -528,7 +504,7 @@ Voor zover [artikel 37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - c. de termijn waarbinnen de afhandeling van het onderzoek naar aanleiding van een terugmelding over een waardegegeven moet plaatsvinden.
 
-##### Artikel 37g
+#### Artikel 37g
 
 1. Het college plaatst de aantekening «in onderzoek» bij een waardegegeven indien ten aanzien van dat waardegegeven:
 
@@ -558,13 +534,13 @@ Voor de onderdelen a en d geldt een bij ministeriële regeling te bepalen termij
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 37h
+#### Artikel 37h
 
 Bij algemene maatregel van bestuur worden bestuursorganen aangewezen die bevoegd zijn tot gebruik van een waardegegeven of de daarbij behorende temporele en meta-kenmerken ten behoeve van de bij die algemene maatregel van bestuur aan te wijzen doeleinden.
 
 ### Hoofdstuk VII. Gegevensverstrekking
 
-##### Artikel 40a
+#### Artikel 40a
 
 1. Eenieder kan op verzoek het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient, inzien of verstrekt krijgen bij het loket voor openbare WOZ-waarden.
 
@@ -574,7 +550,7 @@ Bij algemene maatregel van bestuur worden bestuursorganen aangewezen die bevoegd
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 37aa
+#### Artikel 37aa
 
 1. Er is een geautomatiseerde landelijke voorziening WOZ met als doel waardegegevens met bijbehorende temporele en meta-kenmerken te verstrekken aan de afnemers, alsmede het op regelmatige basis verstrekken van waardegegevens inzake onroerende zaken die hoofdzakelijk tot woning dienen aan een loket voor openbare WOZ-waarden.
 
@@ -588,7 +564,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 40a
+#### Artikel 40a
 
 1. Eenieder kan op verzoek het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient, inzien of verstrekt krijgen bij het loket voor openbare WOZ-waarden.
 
@@ -598,13 +574,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 40b
+#### Artikel 40b
 
 1. Eenieder kan op verzoek het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient, inzien of verstrekt krijgen bij het loket voor openbare WOZ-waarden.
 
 2. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen, onder welke voorwaarden en tegen welk tarief een verzameling van waardegegevens betreffende onroerende zaken die in hoofdzaak tot woning dienen verstrekt kan worden via het loket voor openbare WOZ-waarden in een zodanige vorm dat daarop rechtstreeks een geautomatiseerde verwerking mogelijk is ten aanzien van een op voorhand onbepaalde groep van woningen of personen.
 
-##### Artikel 30a
+#### Artikel 30a
 
 1. Het bedrag dat strekt tot vergoeding van de kosten, bedoeld in [artikel 7:15, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), onder toepassing van de nadere regels gesteld krachtens het vierde lid van dat artikel, wordt, voor zover die kosten betrekking hebben op door een derde beroepsmatig verleende rechtsbijstand in het kader van het bezwaar tegen een besluit genomen op grond van het gestelde bij of krachtens deze wet of [titel IV, hoofdstuk XV, paragraaf 2, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&paragraaf=2) of tegen een daarmee verband houdend besluit, vermenigvuldigd met 0,125. De eerste zin vindt geen toepassing in geval van bijzondere omstandigheden in de zin van de nadere regels gesteld krachtens artikel 7:15, vierde lid, van de Algemene wet bestuursrecht.
 

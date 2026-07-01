@@ -2,8 +2,8 @@
 title: "Regeling vrachtwagenheffing"
 identifier: "BWBR0049655"
 categorie: "Overig"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
+publicatiedatum: 2026-04-22
+laatste_update: 2026-04-23
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0049655"
 ---
@@ -16,39 +16,41 @@ BESLUIT:
 
 Inwerkingtreding voorheen door Stcrt. 2024/13728 gesteld op het tijdstip waarop artikel 2, eerste lid, van de Wet vrachtwagenheffing in werking treedt.
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
+- **rotonde:** rotonde aangeduid door een of meer verkeersborden D1 als bedoeld in [bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
+
 - **wet:** [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082).
 
-#### Artikel 1a. (grondslag)
+##### Artikel 1a. (grondslag)
 
 Deze regeling berust mede op [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=5).
 
-#### Artikel 2. (begin en einde wegvakken)
+##### Artikel 2. (begin en einde wegvakken)
 
 1. Een wegvak waar de vrachtwagenheffing wordt geheven begint respectievelijk eindigt:
 
 - a. op een knooppunt of bij een aansluiting met een ander wegvak waar de vrachtwagenheffing wordt geheven indien dat knooppunt of die aansluiting twee of meer wegvakken waar de vrachtwagenheffing wordt geheven met elkaar verbindt;
 
-- b. na respectievelijk voor een rotonde of een gelijkvloerse kruising die twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
+- b. na respectievelijk voor een rotonde die twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
 
-- c. na respectievelijk voor een rotonde of gelijkvloerse kruising die is gelegen op een tussenliggend gedeelte van een wegvak waar de vrachtwagenheffing wordt geheven dat tevens twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
+- c. na respectievelijk voor een rotonde die is gelegen op een tussenliggend gedeelte van een wegvak waar de vrachtwagenheffing wordt geheven dat tevens twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
 
 - d. na respectievelijk voor een verzorgingsplaats, tankstation of parkeerplaats die direct verbonden is met een wegvak waar de vrachtwagenheffing wordt geheven, indien die verzorgingsplaats, dat tankstation of die parkeerplaats tevens de aansluiting vormt met een wegvak waarvoor geen vrachtwagenheffing verschuldigd is.
 
 2. Indien tegelijkertijd sprake is van de omstandigheden zoals beschreven in onderdelen a en b, van het eerste lid, begint respectievelijk eindigt een wegvak waar de vrachtwagenheffing wordt geheven, als beschreven in onderdeel b van het eerste lid.
 
-#### Artikel 3. (termijn bij niet naar behoren werkende en ontvreemde boordapparatuur)
+##### Artikel 3. (termijn bij niet naar behoren werkende en ontvreemde boordapparatuur)
 
 De termijn, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=4), waarbinnen een houder niet behoeft te voldoen aan de verplichtingen, bedoeld in artikel 4, tweede lid, van de wet, is 3 uur.
 
-#### Artikel 4. (termijn sluiten dienstverleningsovereenkomst indien dienstaanbieder zijn diensten niet meer levert)
+##### Artikel 4. (termijn sluiten dienstverleningsovereenkomst indien dienstaanbieder zijn diensten niet meer levert)
 
 De termijn, bedoeld in [artikel 4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=4), waarbinnen een houder in de gelegenheid wordt gesteld een dienstverleningsovereenkomst te sluiten met een andere dienstaanbieder, is 72 uur vanaf het moment dat de houder kennis heeft genomen of redelijkerwijze kennis had kunnen nemen van het feit dat de dienstaanbieder waarmee hij een overeenkomst had gesloten ten behoeve van het voldoen van de vrachtwagenheffing, zijn diensten niet meer levert.
 
-#### Artikel 5. (tabellen bedragen vrachtwagenheffing)
+##### Artikel 5. (tabellen bedragen vrachtwagenheffing)
 
 1. De tabel met bedragen van de infrastructuurheffing, bedoeld in [artikel 5, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=5), is vanaf inwerkingtreding van dat artikellid als volgt vastgesteld:
 
@@ -107,15 +109,15 @@ De termijn, bedoeld in [artikel 4, vierde lid, van de wet](https://wetten.overhe
 | 18.000 tot en met 32.0000 | 0,073 | 0,069 | 0,039 | 0,000 |
 | meer dan 32.000 | 0,087 | 0,082 | 0,046 | 0,000 |
 
-#### Artikel 5a. Ingangsdatum vrachtwagenheffing
+##### Artikel 5a. Ingangsdatum vrachtwagenheffing
 
 De vrachtwagenheffing wordt geheven met ingang van 1 juli 2026.
 
-#### Artikel 6. (inwerkingtreding)
+##### Artikel 6. (inwerkingtreding)
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=2) in werking treedt, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1&z=2026-03-01&g=2026-03-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1a&z=2026-03-01&g=2026-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=2&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5&z=2026-03-01&g=2026-03-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5a&z=2026-03-01&g=2026-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=6&z=2026-03-01&g=2026-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=7&z=2026-03-01&g=2026-03-01), die in werking treden met ingang van 1 maart 2026.
+Deze regeling treedt in werking op het tijdstip waarop [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=2) in werking treedt, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1&z=2026-04-22&g=2026-04-22), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1a&z=2026-04-22&g=2026-04-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=2&z=2026-04-22&g=2026-04-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5&z=2026-04-22&g=2026-04-22), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5a&z=2026-04-22&g=2026-04-22), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=6&z=2026-04-22&g=2026-04-22) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=7&z=2026-04-22&g=2026-04-22), die in werking treden met ingang van 1 maart 2026.
 
-#### Artikel 7. (citeertitel)
+##### Artikel 7. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling vrachtwagenheffing.
 

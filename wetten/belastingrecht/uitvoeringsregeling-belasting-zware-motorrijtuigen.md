@@ -1,53 +1,28 @@
 ---
 title: "Uitvoeringsregeling belasting zware motorrijtuigen"
 identifier: "BWBR0007677"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007677"
-soort: "ministeriele-regeling"
-stam_id: "4515853"
-version_id: "6322292"
-internal_id: "C6528431"
-label_id: "4494364"
-dtd_version: "2.0"
-original_entry_into_force: "1995-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007677/2019-01-01/0"
-intitule_bron: "Stcrt.1995-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-29"
-intitule_published: "1995-11-29"
-intitule_in_force: "1995-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-232"
-original_signed_date: "1995-11-29"
-original_published_date: "1995-11-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-12-01"
-entry_into_force_dossier: "24070"
-jci_1_3: "jci1.3:c:BWBR0007677&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0007677&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-11-29"
-entry_into_force: "1995-12-01"
+categorie: "Belastingrecht"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007677"
 ---
+
 # Uitvoeringsregeling belasting zware motorrijtuigen
 
 Gelet op [artikel 11, derde lid, van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11), [artikel 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a), en [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18).
 
-##### Artikel 2
+#### Artikel 2
 
 In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678).
 
-##### Artikel 3
+#### Artikel 3
 
 1. Als aangiftepunten, bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11), worden aangewezen:
 
@@ -57,7 +32,7 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 2. Voor bedrijven die daarvoor een overeenkomst hebben afgesloten met de Belastingdienst wordt naast de aangiftepunten in het eerste lid als aangiftepunt, bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=11) aangewezen het digitale aangiftepunt van de Belastingdienst op internetadres https://secure.eurovignet.nl/nluserportal/login.
 
-##### Artikel 3a
+#### Artikel 3a
 
 1. Als station van inlading of station van uitlading als bedoeld in [artikel 14a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=14a) worden aangewezen de stations opgenomen op de door mij bijgehouden lijst van stations van in- en uitlading, te raadplegen op internetadres http://www.belastingdienst.nl.
 
@@ -91,15 +66,15 @@ In deze regeling wordt onder wet verstaan: [Wet belasting zware motorrijtuigen](
 
 4. Indien een verzoek om teruggaaf betrekking heeft op belasting die voor tijdvakken van een dag, een week of een maand is betaald, dient dat verzoek te worden gedaan voor de belasting die in een periode van drie maanden of een jaar is betaald. Indien het verzoek betrekking heeft op de belasting die voor een tijdvak van een jaar is betaald, wordt het verzoek na afloop van dat jaar ingediend. Het verzoek wordt gedaan uiterlijk binnen drie maanden na afloop van de periode waarop het verzoek betrekking heeft.
 
-##### Artikel 3b
+#### Artikel 3b
 
 Als ambtenaren van het Ministerie van Infrastructuur en Waterstaat, bedoeld in [artikel 18 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=18), worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
-##### Artikel 4
+#### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag waarop de wet in werking treedt.
 
-##### Artikel 5
+#### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling belasting zware motorrijtuigen.
 

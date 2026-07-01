@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 28 oktober 2019, nr. WJZ/19238585, houdende vaststelling van de retributies verbonden aan het inzien van het handelsregister (Financiële regeling handelsregister 2019)"
+title: "Financiële regeling handelsregister 2019"
 identifier: "BWBR0042721"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042721"
-soort: "ministeriele-regeling"
-stam_id: "15217643"
-version_id: "27735302"
-internal_id: "C39125051"
-label_id: "15164464"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042721/2026-01-01/0"
-intitule_bron: "Stcrt.2019-59508"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-10-28"
-intitule_published: "2019-11-01"
-intitule_in_force: "2019-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-21782"
-original_signed_date: "2021-04-23"
-original_published_date: "2021-04-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-21782"
-entry_into_force_date: "2021-04-23"
-jci_1_3: "jci1.3:c:BWBR0042721&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0042721&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Financiële regeling handelsregister 2019"
-signed_date: "2021-04-23"
-entry_into_force: "2021-04-23"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0042721"
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 28 oktober 2019, nr. WJZ/19238585, houdende vaststelling van de retributies verbonden aan het inzien van het handelsregister (Financiële regeling handelsregister 2019)
 
 Gelet op de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=1), en [2 van het Financieel besluit handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2) en [artikel 41, zevende lid, van de Handelsregister 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=41);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens wettelijk voorschrift zijn gedeponeerd, worden de volgende tarieven berekend:
 
@@ -60,7 +34,7 @@ Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens w
 
 - h. voor het via de KVK Bedrijvencheck op de website van de KVK raadplegen van basisgegevens van ondernemingen, rechtspersonen en vestigingen die zijn ingeschreven in het handelsregister (KVK Handelsregister inschrijving basis en KVK Handelsregister vestiging basis): € 0,–, met een maximum van 30 inzagen per jaar, waarbij voor de afnemers die niet zelf of namens een rechtspersoon of een onderneming staan ingeschreven in het handelsregister daarnaast een maximum geldt van één inzage per week.
 
-##### Artikel 2
+#### Artikel 2
 
 Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer van Koophandel® van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden de volgende tarieven berekend:
 
@@ -70,7 +44,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - c. voor een schriftelijke mededeling met betrekking tot hetgeen in het handelsregister is ingeschreven of daarbij is gedeponeerd: € 19,20 per dossier per mededeling.
 
-##### Artikel 3
+#### Artikel 3
 
 1. In dit artikel wordt onder KVK-nummer verstaan: het unieke nummer, bedoeld in de [artikelen 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), en [13, onder a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13).
 
@@ -174,29 +148,29 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - –. uitgebreid per aanvraag: € 1.293,–.
 
-##### Artikel 4
+#### Artikel 4
 
 De kosten van het accountantsonderzoek, bedoeld in [artikel 41, eerste lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=41), worden voor de helft vergoed door de Minister van Economische Zaken en Klimaat, tot een maximum van € 28.500,–.
 
-##### Artikel 5
+#### Artikel 5
 
 De inschrijfvergoeding, bedoeld in [artikel 1, eerste lid, van het Financieel besluit handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=1), bedraagt € 85,15.
 
-##### Artikel 6
+#### Artikel 6
 
 De [Financiële regeling handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034259) wordt ingetrokken.
 
-##### Artikel 7
+#### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 januari 2020.
 
-##### Artikel 8
+#### Artikel 8
 
 Deze regeling wordt aangehaald als: Financiële regeling handelsregister 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 4a
+#### Artikel 4a
 
 Voor de uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier) is de volgende vergoeding verschuldigd:
 
@@ -204,7 +178,7 @@ Voor de uitgifte van de identificatiecode voor juridische entiteiten die ingesch
 
 - –. € 49,20 voor de jaarlijkse Legal Entity Identifier Verlenging.
 
-##### Artikel 5a
+#### Artikel 5a
 
 De wijze van inzien of verstrekking van gegevens, bedoeld in [artikel 2, zesde lid, van het Financieel besluit handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2), is vastgesteld in de bijlage bij deze regeling.
 

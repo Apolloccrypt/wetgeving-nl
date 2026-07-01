@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770998, houdende regels met betrekking tot het gebruik van tatoeage- en piercingmateriaal (Warenwetregeling tatoeëren en piercen)"
+title: "Warenwetregeling tatoeëren en piercen"
 identifier: "BWBR0021915"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0021915"
-soort: "ministeriele-regeling"
-stam_id: "9087263"
-version_id: "15292792"
-internal_id: "C20833171"
-label_id: "9066224"
-dtd_version: "2.0"
-original_entry_into_force: "2008-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0021915/2025-07-01/0"
-intitule_bron: "Stcrt.2007-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-23"
-intitule_published: "2007-05-25"
-intitule_in_force: "2007-05-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-79"
-original_signed_date: "2008-04-16"
-original_published_date: "2008-04-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-79-p16-SC85420"
-entry_into_force_date: "2008-04-16"
-jci_1_3: "jci1.3:c:BWBR0021915&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0021915&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling tatoeëren en piercen"
-signed_date: "2008-04-16"
-entry_into_force: "2008-04-16"
+categorie: "Overig"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0021915"
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770998, houdende regels met betrekking tot het gebruik van tatoeage- en piercingmateriaal (Warenwetregeling tatoeëren en piercen)
 
 Handelende in overeenstemming met de Minister van Economische Zaken;
@@ -42,7 +16,7 @@ Gelet op de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 - c. vergunning: vergunning als bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3).
 
-##### Artikel 2
+#### Artikel 2
 
 1. De vergunning wordt door de ondernemer schriftelijk aangevraagd.
 
@@ -70,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvraag wordt ingediend bij de GGD van de gemeente waar de ruimte is gelegen waarvoor de vergunning wordt gevraagd.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De vergunning heeft een geldigheidsduur van drie jaar.
 
@@ -94,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 7. Indien gevolg wordt gegeven aan een verzoek van een vergunninghouder als bedoeld in het vierde lid behoudt de vergunning de oorspronkelijke looptijd.
 
-##### Artikel 4
+#### Artikel 4
 
 De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bij waarin is opgenomen:
 
@@ -106,7 +80,7 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 - d. voor welke periode de vergunning geldig is.
 
-##### Artikel 5
+#### Artikel 5
 
 1. De retributie voor het in behandeling nemen van een aanvraag bedraagt:
 
@@ -154,7 +128,7 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 5. De aanvrager die in aanmerking komt voor een verlaagd tarief als bedoeld in het vierde lid, maakt in de aanvraag melding van de in dat lid bedoelde vergunning.
 
-##### Artikel 6
+#### Artikel 6
 
 1. De ondernemer draagt er zorg voor dat in de ruimte waar tatoeage- of piercingmateriaal wordt gebruikt, schriftelijke informatie voorhanden is over het gebruik van het materiaal, betreffende:
 
@@ -168,21 +142,21 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 3. Indien de persoon ten aanzien van wie het tatoeage- of piercingmateriaal wordt gebruikt, wordt vergezeld van zijn wettige vertegenwoordiger, draagt de ondernemer er tevens zorg voor dat ook die persoon tijdig voor het gebruik van de schriftelijke informatie in kennis wordt gesteld.
 
-##### Artikel 7
+#### Artikel 7
 
 Als ambtenaren belast met het toezicht op de naleving van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24) en op de naleving van het bepaalde bij of krachtens het [Warenwetbesluit tatoeëren en piercen](https://wetten.overheid.nl/jci1.3:c:BWBR0021605), worden aangewezen de ambtenaren werkzaam bij de GGD’en.
 
-##### Artikel 8
+#### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 juni 2007.
 
-##### Artikel 9
+#### Artikel 9
 
 Deze regeling wordt aangehaald als: Warenwetregeling tatoeëren en piercen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 4a
+#### Artikel 4a
 
 In de vergunning worden de materialen vermeld, waarvoor de vergunning wordt verleend, alsmede de ruimte in het pand, waarvoor de vergunning is verleend.
 

@@ -1,39 +1,14 @@
 ---
-title: "Wet van 25 mei 1937, tot het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten"
+title: "Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten"
 identifier: "BWBR0001987"
-country: "nl"
-rank: "wet"
-publication_date: "2023-06-01"
-last_updated: "2023-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001987"
-soort: "wet"
-stam_id: "1402363"
-version_id: "26898202"
-internal_id: "C38087151"
-label_id: "1360004"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001987/2023-06-01/0"
-intitule_bron: "Stb.1937-801"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1937-05-25"
-intitule_status: "goed"
-original_publication: "Stb.2020-249"
-original_signed_date: "2020-07-01"
-original_published_date: "2020-07-15"
-original_effect: "structuurwijziging"
-original_dossier: "35358"
-original_url_id: "stb-2020-249"
-entry_into_force_date: "2020-07-30"
-jci_1_3: "jci1.3:c:BWBR0001987&z=2023-06-01&g=2023-06-01"
-jci_1_0: "1.0:c:BWBR0001987&g=2023-06-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten"
-signed_date: "2020-07-01"
-entry_into_force: "2020-07-30"
+categorie: "Arbeidsrecht"
+publicatiedatum: 2023-06-01
+laatste_update: 2023-06-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0001987"
 ---
-# Wet van 25 mei 1937, tot het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten
+
+# Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -41,7 +16,7 @@ Alzoo Wij in overweging genomen hebben, dat het wenschelijk is regelen vast te s
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-##### Artikel 1
+#### Artikel 1
 
 Deze wet verstaat onder:
 
@@ -51,7 +26,7 @@ Deze wet verstaat onder:
 
 - c. "verbindend verklaarde bepalingen": bepalingen eener collectieve arbeidsovereenkomst, welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2023-06-01&g=2023-06-01) algemeen verbindend zijn verklaard.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Onze Minister kan bepalingen van eene collectieve arbeidsovereenkomst, die in het geheele land of in een gedeelte des lands voor eene - naar zijn oordeel belangrijke - meerderheid van de in een bedrijf werkzame personen gelden, in het geheele land of in dat gedeelte des lands algemeen verbindend verklaren. Deze bepalingen zijn dan, behalve in de gevallen door Onzen Minister uitgezonderd, binnen dat gebied verbindend voor alle werkgevers en werknemers ten aanzien van arbeidsovereenkomsten, die naar den aard van den arbeid, waarop zij betrekking hebben, onder de collectieve arbeidsovereenkomst vallen of zouden vallen, hetzij deze arbeidsovereenkomsten op het tijdstip, waarop de werking der verbindendverklaring aanvangt, reeds gesloten zijn, hetzij zij daarna gesloten worden.
 
@@ -71,7 +46,7 @@ Deze wet verstaat onder:
 
 - d. de werknemers te betrekken bij de handhaving van regelingen betreffende de prijzen, die voor goederen of diensten door de werkgevers van derden gevorderd zullen worden, en betreffende de voorwaarden, waaronder door de werkgevers aan derden zal worden geleverd.
 
-##### Artikel 2a
+#### Artikel 2a
 
 1. De dienstverrichter als bedoeld in [artikel 1, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=1), waarborgt voor zijn gedetacheerde werknemers, wier arbeidsovereenkomst wordt beheerst door een ander recht dan het Nederlandse recht, de arbeidsvoorwaarden en -omstandigheden die zijn neergelegd in verbindend verklaarde bepalingen, of bij algemene maatregel van bestuur aangewezen bepalingen, die betrekking hebben op:
 
@@ -131,7 +106,7 @@ Deze wet verstaat onder:
 
 10. In een derde land gevestigde vervoersondernemingen mogen geen gunstiger behandeling krijgen dan gelijksoortige in een lidstaat gevestigde ondernemingen op grond van dit artikel.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Elk beding tusschen den werkgever en den werknemer, strijdig met verbindend verklaarde bepalingen, is nietig; in plaats van zoodanig beding gelden de verbindend verklaarde bepalingen.
 
@@ -141,7 +116,7 @@ Deze wet verstaat onder:
 
 4. De in het tweede lid bedoelde vereenigingen kunnen van werkgevers of werknemers, die in strijd handelen met verbindend verklaarde bepalingen, vergoeding vorderen van de schade, die zij of hare leden daardoor lijden. Voor zover de schade in ander nadeel dan vermogensschade bestaat, zal als vergoeding een naar billijkheid te bepalen bedrag verschuldigd zijn.
 
-##### Artikel 4
+#### Artikel 4
 
 1. De verbindendverklaring kan alleen geschieden op verzoek van één of meer werkgevers of één of meer vereenigingen van werkgevers of werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.
 
@@ -153,7 +128,7 @@ Deze wet verstaat onder:
 
 5. Voor de behandeling van een verzoek tot verbindendverklaring is door den aanvrager eene vergoeding verschuldigd, volgens een door Onzen Minister vast te stellen tarief. Onze Minister kan vorderen, dat de aanvrager voor de voldoening van die kosten eene waarborgsom stort.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Het besluit, waarbij de verbindendverklaring wordt uitgesproken, houdt in:
 
@@ -169,7 +144,7 @@ Deze wet verstaat onder:
 
 4. Het in het vorige lid bedoelde register met bijlagen ligt voor een ieder kosteloos ter inzage. Schriftelijke inlichtingen, het register betreffende, worden tegen betaling der kosten vanwege Onzen Minister aan een ieder verstrekt.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Onze Minister is bevoegd te allen tijde de verbindendverklaring in te trekken.
 
@@ -179,11 +154,11 @@ Deze wet verstaat onder:
 
 4. Van de intrekking wordt aanteekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2023-06-01&g=2023-06-01).
 
-##### Artikel 7
+#### Artikel 7
 
 Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2023-06-01&g=2023-06-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2023-06-01&g=2023-06-01) vindt overeenkomstige toepassing, indien de verbindendverklaring betreft wijzigingen in de bepalingen van collectieve arbeidsovereenkomsten, die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2023-06-01&g=2023-06-01) algemeen verbindend zijn verklaard.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Onze Minister kan bepalingen van eene collectieve arbeidsovereenkomst onverbindend verklaren, indien het algemeen belang zulks vereischt.
 
@@ -193,13 +168,13 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 4. Van het besluit, waarbij de onverbindendverklaring wordt uitgesproken, wordt mededeling gedaan door plaatsing in de **Staatscourant**. Van de onverbindendverklaring wordt aantekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2023-06-01&g=2023-06-01).
 
-##### Artikel 9
+#### Artikel 9
 
 1. Bij onverbindendverklaring van eene bepaling van eene collectieve arbeidsovereenkomst wordt deze bepaling geacht geen deel meer uit te maken van de collectieve arbeidsovereenkomst.
 
 2. Elk op het tijdstip van het in werking treden der onverbindendverklaring bestaand beding tusschen een werkgever en een werknemer, berustende op de onverbindend verklaarde bepaling, is nietig.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Indien een of meer verenigingen van werkgevers of van werknemers, op wier verzoek een verbindendverklaring is uitgesproken, het vermoeden gegrond achten, dat in een onderneming een of meer der verbindend verklaarde bepalingen niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=3&z=2023-06-01&g=2023-06-01), Onze Minister verzoeken een onderzoek daarnaar te doen instellen. Onze Minister draagt het onderzoek op aan daartoe door hem aangewezen onder hem ressorterende ambtenaren. Onze Minister verstrekt een verslag aan de vereniging, die om het onderzoek heeft gevraagd over hetgeen uit het onderzoek is gebleken. Daarbij kunnen gegevens worden verwerkt betreffende het in die onderneming naleven van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en de daarop berustende bepalingen, of de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en de daarop berustende bepalingen. Het verslag bevat geen gegevens waaruit de identiteit van een in het onderzoek betrokken werknemer kan worden afgeleid. Indien dit niet mogelijk is, worden gegevens slechts opgenomen, voor zover de persoonlijke levenssfeer van betrokkene hierdoor niet onevenredig wordt geschaad.
 
@@ -209,7 +184,7 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het in het eerste en tweede lid genoemde verslag.
 
-##### Artikel 10a
+#### Artikel 10a
 
 1. Onze Minister kan op verzoek van een of meer verenigingen van werkgevers of van werknemers de bij algemene maatregel van bestuur aangewezen gegevens, verkregen op grond van [artikel 8 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8), verstrekken om na te gaan of algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten, die gelden voor gedetacheerde werknemers, worden nageleefd.
 
@@ -221,37 +196,37 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 5. Onze Minister kan aan de in het eerste en tweede lid bedoelde verenigingen en rechtspersonen relevante informatie verstrekken uit het IMI, bedoeld in [artikel 1, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=1), voor zover dit noodzakelijk is om te controleren of algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten, die gelden voor gedetacheerde bestuurders als bedoeld in [artikel 9a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=9a), door de dienstverrichter worden nageleefd.
 
-##### Artikel 10b
+#### Artikel 10b
 
 Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2023-06-01&g=2023-06-01), en [6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2023-06-01&g=2023-06-01), in haar plaats de krachtens [artikel 17, eerste lid, van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=17) door Ons aangewezen centrale organisaties van werkgevers en van werknemers.
 
-##### Artikel 11
+#### Artikel 11
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 12
+#### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 13
+#### Artikel 13
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 14
+#### Artikel 14
 
 Hetgeen nog ter voorbereiding van het in werking treden van deze wet en tot hare uitvoering noodig is, wordt bij algemeenen maatregel van bestuur geregeld.
 
-##### Artikel 15
+#### Artikel 15
 
 Deze wet kan worden aangehaald onder den titel: "Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten".
 
-##### Artikel 16
+#### Artikel 16
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 7a
+#### Artikel 7a
 
 1. Indien een verzoek is gedaan aan Onze Minister om een uitzondering te maken op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, beslist Onze Minister op dit verzoek niet eerder dan op het moment dat die bepalingen van de collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard.
 
@@ -259,7 +234,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 4a
+#### Artikel 4a
 
 1. De verlenging van de verbindendverklaring, bedoeld in [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2023-06-01&g=2023-06-01), kan alleen geschieden op verzoek van alle werkgevers of verenigingen van werkgevers en werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.
 
@@ -269,13 +244,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 10c
+#### Artikel 10c
 
 Onze Minister kan een onder hem ressorterende ambtenaar mandaat verlenen tot het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2023-06-01&g=2023-06-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2023-06-01&g=2023-06-01).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 2b
+#### Artikel 2b
 
 1. Door de overgang van een onderneming, als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, gaan de rechten en verplichtingen welke op dat tijdstip voor de werkgever in die onderneming ten aanzien van daar werkzame werknemers voortvloeien uit bepalingen omtrent arbeidsvoorwaarden welke hij krachtens een besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2023-06-01&g=2023-06-01) van deze wet verplicht is na te komen, van rechtswege over op de verkrijger van de onderneming.
 

@@ -1,38 +1,14 @@
 ---
-title: "Wet van 22 november 1972, houdende regelen betreffende de verlening van uitkeringen aan de slachtoffers van vervolging"
+title: "Wet uitkeringen vervolgingsslachtoffers 1940-1945"
 identifier: "BWBR0002844"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002844"
-soort: "wet"
-stam_id: "2784883"
-version_id: "4286892"
-internal_id: "C4286891"
-label_id: "2733964"
-dtd_version: "2.0"
-original_entry_into_force: "1973-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002844/2026-01-01/0"
-intitule_bron: "Stb.1972-669"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-11-22"
-intitule_status: "goed"
-original_publication: "Stb.1972-669"
-original_signed_date: "1972-11-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "12039"
-entry_into_force_date: "1973-01-01"
-entry_into_force_dossier: "12039"
-jci_1_3: "jci1.3:c:BWBR0002844&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0002844&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitkeringen vervolgingsslachtoffers 1940-1945"
-signed_date: "1972-11-22"
-entry_into_force: "1973-01-01"
+categorie: "Sociaal recht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0002844"
 ---
-# Wet van 22 november 1972, houdende regelen betreffende de verlening van uitkeringen aan de slachtoffers van vervolging
+
+# Wet uitkeringen vervolgingsslachtoffers 1940-1945
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -42,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -52,7 +28,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - c. de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-##### Artikel 1a
+#### Artikel 1a
 
 1. Voor de toepassing van deze wet wordt gelijkgesteld met:
 
@@ -72,7 +48,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 3. Van een gezamenlijke huishouding als bedoeld in het tweede lid kan slechts sprake zijn indien twee personen gezamenlijk voorzien in huisvesting en bovendien beiden een bijdrage leveren in de kosten van de huishouding dan wel op andere wijze in elkaars verzorging voorzien. Onze Minister kan nadere regels stellen voor de toepassing van de eerste volzin.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder vervolging verstaan iedere handeling of maatregel, welke tijdens de oorlogsjaren 1940-1945 door of namens de Nederland of het voormalige Nederlands-Indië vijandelijke bezettende machten werd gericht tegen personen of groepen van personen op grond van hun ras, geloof, wereldbeschouwing of homosexualiteit en welke heeft geleid tot:
 
@@ -90,7 +66,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 3. Handelingen of maatregelen van de vijandelijke bezettende macht van Nederland, welke werden gericht tegen personen wegens het zich onttrekken aan krijgsgevangenschap, worden niet onder vervolging begrepen.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Onder vervolgde wordt verstaan:
 
@@ -118,7 +94,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. De Raad kan de persoon die vervolging heeft ondergaan, maar niet voldoet aan de vereisten, bedoeld in het eerste lid, dan wel de persoon die voldoet aan de vereisten, bedoeld in het eerste lid, en tijdens de oorlogsjaren 1940-1945 in omstandigheden verkeerde welke overeenkomst vertonen met vervolging, met de vervolgde gelijkstellen indien het niet toepassen van deze wet ten aanzien van deze persoon een klaarblijkelijke hardheid zou zijn.
 
-##### Artikel 4
+#### Artikel 4
 
 1. Behoudens in nader bij algemene maatregel van bestuur te regelen gevallen is deze wet niet van toepassing op:
 
@@ -134,7 +110,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 3. Tot de nabestaanden genoemd in het eerste lid onder **c**, dient niet te worden gerekend de nabestaande, die, als zodanig, vóór 1 april 1964 vanuit het voormalig Nederlands-Indië, Indonesië of het voormalig Nederlands Nieuw-Guinea in Nederland is gekomen dan wel vóór genoemde datum een verzoek om toestemming tot vestiging in Nederland heeft ingediend, waarop gunstig is beslist en sedert zijn aankomst onafgebroken hier te lande is gevestigd.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Voor een uitkering, een vergoeding en een tegemoetkoming, alsmede voor een verklaring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2026-01-01&g=2026-01-01) komt niet in aanmerking de vervolgde die blijkens opgave van Onze Minister van Justitie:
 
@@ -154,7 +130,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing op de nabestaanden van de vervolgde, indien ten aanzien van hen uitspraken zijn gedaan of beslissingen zijn genomen als in het eerste lid bedoeld, dan wel indien zij zich hebben gedragen als in het tweede lid omschreven.
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
@@ -162,7 +138,7 @@ Vervallen
 
 #### § 1. De uitkeringsgerechtigden
 
-##### Artikel 7
+#### Artikel 7
 
 1. Recht op een uitkering heeft:
 
@@ -182,7 +158,7 @@ Vervallen
 
 #### § 2. De grondslag voor de uitkering
 
-##### Artikel 8
+#### Artikel 8
 
 1. Indien aanspraak op een uitkering bestaat wordt de grondslag vastgesteld waarnaar die uitkering wordt berekend.
 
@@ -210,13 +186,13 @@ Vervallen
 
 8. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, als bedoeld in het tweede lid, moet worden verstaan.
 
-##### Artikel 9
+#### Artikel 9
 
 Het bepaalde in deze paragraaf is niet van toepassing, indien de aanspraken op een uitkering betrekking hebben op die van de minderjarige volle wees.
 
 #### § 3. De uitkering
 
-##### Artikel 10
+#### Artikel 10
 
 1. De uitkering bedraagt een percentage van de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) vastgestelde grondslag, en wel:
 
@@ -240,13 +216,13 @@ Het bepaalde in deze paragraaf is niet van toepassing, indien de aanspraken op e
 
 4. Bij overlijden van de echtgenoot van de vervolgde blijft het uitkeringspercentage ongewijzigd tot en met de laatste dag van de maand, volgende op die, waarin het overlijden heeft plaatsgevonden.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Indien de vervolgde, bedoeld in [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), in staat is zich door passende arbeid een inkomen te verwerven, doch deze arbeid om niet gegronde redenen niet of slechts ten dele verricht, wordt de uitkering bepaald overeenkomstig de graad van zijn onvermogen het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) bedoelde inkomen te verwerven.
 
 2. Het bepaalde in het eerste lid is niet van toepassing, indien de vervolgde buiten staat is 40% van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) bedoelde inkomen te verwerven.
 
-##### Artikel 12
+#### Artikel 12
 
 Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende rechten:
 
@@ -254,13 +230,13 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 - b. een uitkering ingevolge [artikel 7, eerste lid, onder **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), wordt slechts die uitkering verleend, welke leidt tot de hoogste uitbetaling aan de uitkeringsgerechtigde.
 
-##### Artikel 13
+#### Artikel 13
 
 - a. De uitkering aan de minderjarige volle wees wordt naar behoefte individueel bepaald. Bij de vaststelling van de uitkering wordt rekening gehouden met geëigende voorzieningen ter zake van kosten van onderwijs en opleiding.
 
 - b. De onder **a** bedoelde uitkering kan zo nodig worden voortgezet tot uiterlijk het bereiken van de 27-jarige leeftijd, indien de betrokkene, hetzij in verband met een dagstudie, hetzij in verband met arbeidsongeschiktheid, door het ontbreken van andere geëigende voorzieningen op die uitkering is aangewezen.
 
-##### Artikel 14
+#### Artikel 14
 
 1. Bij verblijf van een alleenstaande of een echtpaar ter verpleging of verzorging in een daartoe bestemde inrichting, waarvan de kosten met toepassing van één der sociale verzekeringswetten worden betaald, wordt de uitkering, met ingang van het tijdstip waarop redelijkerwijs kan worden aangenomen dat deze verpleging of verzorging een langdurig karakter draagt, doch in ieder geval na verloop van een jaar, nader bepaald op:
 
@@ -290,7 +266,7 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 7. Het eerste, tweede, vijfde en zesde lid zijn niet van toepassing indien de uitkeringsgerechtigde op 31 december 2000 verbleef in een verzorgingshuis als bedoeld in [artikel 1, eerste lid, onder b, van de Overgangswet verzorgingshuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0008252&artikel=1) zoals dat luidde voor het vervallen van deze bepaling.
 
-##### Artikel 15
+#### Artikel 15
 
 1. Voor de in Nederland gevestigde uitkeringsgerechtigde en de uitkeringsgerechtigde op wie [artikel 68b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68b), of [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, bij wie de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) vastgestelde grondslag niet hoger is dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), wordt op de uitkering ten behoeve van de te zijnen laste komende premie van verzekering tegen ziektekosten een bij algemene maatregel van bestuur vastgestelde toeslag verleend die per categorie van uitkeringsgerechtigden verschilt.
 
@@ -308,13 +284,13 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 4. Indien de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) vastgestelde grondslag meer bedraagt dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), wordt de uitkering van de uitkeringsgerechtigde alleen dan vermeerderd met een toeslag wegens de premie van verzekering tegen ziektekosten, indien en voorzover de uitkering minder zou bedragen dan de uitkering, welke is afgeleid van het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) verhoogd met de in het eerste lid bedoelde toeslag.
 
-##### Artikel 16
+#### Artikel 16
 
 1. Indien geen kinderbijslag uit welken hoofde of onder welke benaming ook wordt genoten, wordt op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) bedoelde uitkering een toeslag verleend voor de minderjarige kinderen waarvoor kinderbijslag zou worden ontvangen, indien de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) van toepassing zou zijn.
 
 2. Deze toeslag beloopt een bedrag gelijk aan de kinderbijslag ingevolge de in het eerste lid genoemde wet.
 
-##### Artikel 17
+#### Artikel 17
 
 1. Op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01) bedoelde uitkering wordt, indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, een toeslag verleend. Deze toeslag bedraagt:
 
@@ -326,7 +302,7 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 3. Onder enig pensioen als bedoeld in het tweede lid wordt verstaan, een pensioen ten laste van de Nederlandse Schatkist of die van de Nederlandse Antillen of Aruba, van een publiekrechtelijk lichaam of een privaatrechtelijke rechtspersoon in Nederland, de Nederlandse Antillen of Aruba, dan wel ten laste van een door het openbaar gezag in Nederland, de Nederlandse Antillen of Aruba ingesteld fonds, alsmede een uitkering ingevolge deze wet of de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664).
 
-##### Artikel 18
+#### Artikel 18
 
 1. De uitkering wordt door de Sociale verzekeringsbank aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
 
@@ -342,7 +318,7 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 7. Een besluit van Onze Minister ingevolge het zesde lid wordt in de **Staatscourant** bekend gemaakt.
 
-##### Artikel 19
+#### Artikel 19
 
 1. Behoudens het bepaalde in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), worden op de uitkeringen, vermeerderd met de toeslagen als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01), in mindering gebracht:
 
@@ -376,13 +352,13 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 10. Onze Minister kan nadere regelen stellen met betrekking tot de vaststelling van de inkomsten uit of in verband met arbeid in beroep of bedrijf en de daarop drukkende verwervingskosten, de overige inkomsten, alsmede met betrekking tot de vaststelling en de taxatie van het vermogen.
 
-##### Artikel 19a
+#### Artikel 19a
 
 Vervallen
 
 #### § 4. Vergoeding en tegemoetkoming
 
-##### Artikel 20
+#### Artikel 20
 
 1. Indien de vervolgde wegens ziekten of gebreken, welke door of in verband met de vervolging zijn ontstaan of verergerd, geneeskundige behandeling en verpleging behoeft, worden de daaraan verbonden ten laste van de vervolgde blijvende noodzakelijke kosten, alsmede de daarmee direct verband houdende extra kosten voor noodzakelijke voorzieningen, volledig vergoed, tenzij het derde lid van toepassing is.
 
@@ -392,7 +368,7 @@ Vervallen
 
 4. Een vergoeding ter zake van de kosten, bedoeld in het eerste tot en met derde lid, wordt slechts verleend voor zover deze niet ten laste kunnen worden gebracht van een zorgverzekering ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of een andere ziektekostenverzekering of ten laste daarvan zouden kunnen worden gebracht indien een zodanige verzekering is of zou zijn gesloten. De Raad of de Sociale verzekeringsbank kan van de eerste volzin afwijken, indien, gezien de individuele omstandigheden van de aanvrager, naar het oordeel van de Raad of de Sociale verzekeringsbank daartoe gegronde redenen aanwezig zijn.
 
-##### Artikel 21
+#### Artikel 21
 
 1. In de ten laste van de vervolgde blijvende kosten van voorzieningen verband houdende met ziekten en gebreken als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2026-01-01&g=2026-01-01), welke voorzieningen strekken tot verbetering van diens levensomstandigheden, kan een tegemoetkoming worden verleend.
 
@@ -402,7 +378,7 @@ Vervallen
 
 4. Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betrekking tot de tegemoetkoming in de bijzondere kosten en de bepaling van de financiële draagkracht van de vervolgde.
 
-##### Artikel 21a
+#### Artikel 21a
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betrekking tot de aard, de ingangsdatum, de duur en de wijze van verstrekken van de voorzieningen, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2026-01-01&g=2026-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01).
 
@@ -410,13 +386,13 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur worden regels gesteld betreffende de mogelijkheid om de vergoeding of tegemoetkoming in de kosten van bepaalde voorzieningen als bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2026-01-01&g=2026-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01) na het overlijden van de vervolgde, die ziekten of gebreken had welke door of in verband met de vervolging zijn ontstaan of verergerd, gedurende een bepaalde tijd ten gunste van de weduwe of weduwnaar voort te zetten.
 
-##### Artikel 21b
+#### Artikel 21b
 
 Vervallen
 
 #### § 5. De erkenning als vervolgde
 
-##### Artikel 22
+#### Artikel 22
 
 1. Degene die in verband met de vervolgingsomstandigheden verwacht te eniger tijd aanspraken aan deze wet te kunnen ontlenen, kan bij de Raad een verzoek indienen om als vervolgde te worden erkend.
 
@@ -426,45 +402,45 @@ Vervallen
 
 ### Hoofdstuk III. Advisering
 
-##### Artikel 23
+#### Artikel 23
 
 Vervallen
 
-##### Artikel 24
+#### Artikel 24
 
 Vervallen
 
-##### Artikel 24a
+#### Artikel 24a
 
 Vervallen
 
-##### Artikel 25
+#### Artikel 25
 
 Vervallen
 
-##### Artikel 26
+#### Artikel 26
 
 Vervallen
 
-##### Artikel 26a
+#### Artikel 26a
 
 Vervallen
 
-##### Artikel 27
+#### Artikel 27
 
 Vervallen
 
-##### Artikel 28
+#### Artikel 28
 
 Vervallen
 
-##### Artikel 29
+#### Artikel 29
 
 Vervallen
 
 ### Hoofdstuk IV. Aanvraag en toekenning
 
-##### Artikel 30
+#### Artikel 30
 
 1. De toekenning van een uitkering, vergoeding of tegemoetkoming geschiedt naar aanleiding van een daartoe bij de Raad of de Sociale verzekeringsbank ingediende aanvraag.
 
@@ -482,7 +458,7 @@ Vervallen
 
 8. Onze Minister kan nadere regelen stellen met betrekking tot de bij de behandeling van de aanvraag over te leggen bescheiden.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Alvorens op een aanvraag wordt beslist, wordt een rapport opgesteld omtrent de aard en de gevolgen van de vervolging en de levensomstandigheden van de betrokkene. Het rapport bevat een advies met betrekking tot de met toepassing van deze wet te treffen voorzieningen.
 
@@ -502,11 +478,11 @@ Vervallen
 
 6. Indien een aanvraag betrekking heeft op een vergoeding of tegemoetkoming behoeft het in het eerste lid bedoelde rapport slechts te worden opgesteld indien de Raad of de Sociale verzekeringsbank dat nodig acht.
 
-##### Artikel 31a
+#### Artikel 31a
 
 Vervallen
 
-##### Artikel 32
+#### Artikel 32
 
 1. Van de beschikking wordt mededeling gedaan aan het orgaan dat het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=31&z=2026-01-01&g=2026-01-01) bedoelde rapport heeft opgesteld.
 
@@ -520,7 +496,7 @@ Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstand
 
 5. Met betrekking tot een aanvraag, bedoeld in het vierde lid, die wordt ingediend terwijl een aanvraag, bedoeld in het derde lid, nog in behandeling is geldt, in afwijking van het vierde lid, de termijn die resteert voor de beschikking op de aanvraag, bedoeld in het derde lid, tenzij de resterende termijn korter is dan de termijn, bedoeld in het vierde lid.
 
-##### Artikel 32a
+#### Artikel 32a
 
 1. Indien de Raad vier weken voor het verstrijken van de verlengde termijn, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2026-01-01&g=2026-01-01), onvoldoende gegevens aanwezig acht om tot een beoordeling van de aanvraag te komen en dientengevolge niet in staat is een beschikking te geven, stelt hij de aanvrager gedurende die vier weken in de gelegenheid zijn zienswijze naar voren te brengen.
 
@@ -528,13 +504,13 @@ Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstand
 
 3. Indien de aanvrager zijn zienswijze mondeling naar voren brengt, wordt een verslag gemaakt.
 
-##### Artikel 32b
+#### Artikel 32b
 
 1. Indien de aanvrager kennis wenst te nemen van gegevens welke mede tot een beschikking van de Raad of de Sociale verzekeringsbank kunnen leiden dan wel hebben geleid, worden deze hem op zijn verzoek door de Raad of de Sociale verzekeringsbank verstrekt.
 
 2. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de vergoeding welke verschuldigd is, indien afschrift wordt verstrekt van de op de beschikking betrekking hebbende bescheiden.
 
-##### Artikel 33
+#### Artikel 33
 
 1. De uitkering, vergoeding of tegemoetkoming wordt zo spoedig mogelijk, doch uiterlijk binnen dertien weken na de toekenning, vastgesteld en betaald.
 
@@ -542,7 +518,7 @@ Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstand
 
 ### Hoofdstuk V. Ingang en einde van de uitkering
 
-##### Artikel 34
+#### Artikel 34
 
 1. De uitkering bedoeld in[§ 3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&z=2026-01-01&g=2026-01-01) gaat in:
 
@@ -560,15 +536,15 @@ Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstand
 
 3. De uitkering, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), wordt beëindigd bij het bereiken van de leeftijd van 21 jaar, tenzij [artikel 13, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), van toepassing is, of bij het aangaan van een huwelijk door de volle wees vóór het bereiken van die leeftijd, daaronder mede begrepen de in [artikel 1a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=1a&z=2026-01-01&g=2026-01-01), bedoelde situatie, met ingang van de eerste dag van de maand, volgend op die, waarin de volle wees de leeftijd van 21 jaar bereikt heeft, onderscheidenlijk het huwelijk heeft plaatsgehad.
 
-##### Artikel 35
+#### Artikel 35
 
 De uitkering, die op grond van [artikel 34, tweede lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2026-01-01&g=2026-01-01), werd beëindigd, wordt opnieuw verleend, indien het huwelijk is ontbonden. In dat geval gaat de uitkering in op de eerste dag van de maand waarin de hernieuwde aanvraag wordt ingediend.
 
-##### Artikel 36
+#### Artikel 36
 
 Vervallen
 
-##### Artikel 37
+#### Artikel 37
 
 1. De uitkeringsgerechtigde, die is veroordeeld tot een vrijheidsstraf van drie maanden, tot plaatsing in een Rijkswerkinrichting, tot plaatsing in een tuchtschool voor drie maanden, of tot enige zwaardere straf, of op bevel van de rechter ter beschikking van de Regering is gesteld, mist over de tijd gedurende welke hij zijn straf ondergaat of van Regeringswege in zijn opvoeding wordt voorzien, of gedurende welke hij zich door de vlucht aan de tenuitvoerlegging van het vonnis onttrekt, het genot van uitkering.
 
@@ -576,7 +552,7 @@ Vervallen
 
 3. De Sociale verzekeringsbank is tevens bevoegd om, voor zover van de bevoegdheid in het tweede lid bedoeld, geen gebruik is gemaakt, de uitkeringsgerechtigde, die al of niet voorwaardelijk uit de gevangenis, uit de Rijkswerkinrichting of uit de tuchtschool is ontslagen, of wiens opvoeding van Regeringswege is geëindigd, in het genot te stellen van een uitkering, ten bedrage van ten hoogste de helft van het niet uitgekeerde bedrag, tot een maximum van de helft van het jaarlijkse bedrag van de uitkering.
 
-##### Artikel 38
+#### Artikel 38
 
 Van alle rechten op grond van het bij of krachtens deze wet bepaalde wordt terstond vervallen verklaard de vervolgde of diens nabestaande die:
 
@@ -586,13 +562,13 @@ Van alle rechten op grond van het bij of krachtens deze wet bepaalde wordt terst
 
 ### Hoofdstuk VI. Het verstrekken van inlichtingen
 
-##### Artikel 39
+#### Artikel 39
 
 1. De belanghebbende is verplicht desgevraagd aan de Raad de inlichtingen te verstrekken die voor het vaststellen of bestendigen van het recht op een uitkering, vergoeding of tegemoetkoming, alsmede voor de erkenning noodzakelijk zijn.
 
 2. Indien de aanvrager niet voldoet aan het bepaalde in het eerste lid, kan de Raad de aanvraag afwijzen dan wel de eerder gegeven beschikking in het nadeel van betrokkene herzien.
 
-##### Artikel 39a
+#### Artikel 39a
 
 1. De belanghebbende is verplicht desgevraagd aan de Sociale verzekeringsbank die gegevens te verstrekken, welke voor de uitvoering van de beschikkingen van die Raad noodzakelijk zijn.
 
@@ -602,11 +578,11 @@ Van alle rechten op grond van het bij of krachtens deze wet bepaalde wordt terst
 
 4. Indien de belanghebbende eerst na twee jaar, nadat de uitvoering van de beschikking werd geschorst, de in het eerste lid bedoelde gegevens verstrekt, beslist de Sociale verzekeringsbank, rekening houdend met alle omstandigheden, of en in hoeverre de uitvoering van zijn beschikking, voor zover deze betrekking heeft op de periode van schorsing, alsnog kan plaatsvinden.
 
-##### Artikel 40
+#### Artikel 40
 
 De uitkeringsgerechtigde, diens wettelijke vertegenwoordiger en de persoon aan wie de uitkering, de vergoeding of de tegemoetkoming wordt uitbetaald, zijn verplicht onverwijld aan de Sociale verzekeringsbank mededeling te doen van elke verandering dan wel te verwachten verandering, en van feiten en omstandigheden, die tot intrekking of verlaging van de uitkering, de vergoeding of tegemoetkoming aanleiding kunnen geven.
 
-##### Artikel 41
+#### Artikel 41
 
 1. Alle ambtenaren, tot afgifte van uittreksels uit registers van de burgerlijke stand bevoegd, zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.
 
@@ -616,17 +592,17 @@ De uitkeringsgerechtigde, diens wettelijke vertegenwoordiger en de persoon aan w
 
 #### § 1. Het bezwaarschrift
 
-##### Artikel 42
+#### Artikel 42
 
 1. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van het bezwaarschrift dertien weken, indien de belanghebbende in het buitenland gevestigd is.
 
 2. Het in het vorige lid bedoelde bezwaarschrift wordt, in afwijking van [artikel 6:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4), ingediend bij het hoofd van de Nederlandse diplomatieke dan wel consulaire vertegenwoordiging in wiens ambtsgebied of ressort de aanvrager gevestigd is, tenzij de Sociale verzekeringsbank in het desbetreffende land een eigen vertegenwoordiging heeft. Deze zendt het bezwaarschrift toe aan de Raad of de Sociale verzekeringsbank en voegt daaraan de gegevens toe, die van belang zijn voor de beslissing op het bezwaarschrift.
 
-##### Artikel 42a
+#### Artikel 42a
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 1. [Artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32b&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -634,69 +610,69 @@ Vervallen
 
 3. Indien de belanghebbende in het buitenland gevestigd is, worden de termijnen, bedoeld in het tweede lid, ieder met acht weken verlengd.
 
-##### Artikel 43a
+#### Artikel 43a
 
 Vervallen
 
 #### § 2. Het beroep
 
-##### Artikel 44
+#### Artikel 44
 
 In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd. In afwijking van [artikel 6:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4) wordt ingeval een belanghebbende in het buitenland is gevestigd, het beroepschrift ingediend bij het hoofd van de Nederlandse diplomatieke dan wel consulaire vertegenwoordiging in wiens ambtsgebied of ressort hij gevestigd is, tenzij de Sociale verzekeringsbank in het desbetreffende land een eigen vertegenwoordiging heeft, in welk geval het beroepschrift aldaar wordt ingediend. De instantie, waar het beroepschrift op grond van de vorige volzin moet worden ingediend, zendt het toe aan de Centrale Raad van Beroep en voegt daaraan de gegevens toe die van belang zijn voor de beslissing op het beroepschrift.
 
-##### Artikel 44a
+#### Artikel 44a
 
 Vervallen
 
-##### Artikel 45
+#### Artikel 45
 
 Vervallen
 
 ### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
-##### Artikel 46
+#### Artikel 46
 
 Vervallen
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 48
+#### Artikel 48
 
 Vervallen
 
-##### Artikel 49
+#### Artikel 49
 
 Vervallen
 
-##### Artikel 50
+#### Artikel 50
 
 Vervallen
 
-##### Artikel 51
+#### Artikel 51
 
 Vervallen
 
-##### Artikel 52
+#### Artikel 52
 
 Vervallen
 
-##### Artikel 53
+#### Artikel 53
 
 Vervallen
 
-##### Artikel 54
+#### Artikel 54
 
 Vervallen
 
-##### Artikel 55
+#### Artikel 55
 
 1. In het belang van een goede uitvoering van deze wet kunnen bij of krachtens algemene maatregel van bestuur nadere regelen worden gesteld.
 
 2. De krachtens het eerste lid vastgestelde algemene maatregel van bestuur wordt aan beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 30 dagen na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der Kamers de wens is te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.
 
-##### Artikel 56
+#### Artikel 56
 
 1. De uitkering, de toeslagen, bedoeld in de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01), de vergoeding en de tegemoetkoming zijn niet vatbaar voor vervreemding of verpanding.
 
@@ -706,17 +682,17 @@ Vervallen
 
 4. Elk beding, strijdig met enige bepaling van dit artikel, is nietig.
 
-##### Artikel 57
+#### Artikel 57
 
 1. De uitkeringsgerechtigde is gehouden aanspraken op wettelijke voorzieningen geldend te maken, welke kunnen leiden tot een vermindering van de aanspraken op grond van deze wet.
 
 2. Indien de uitkeringsgerechtigde niet voldoet aan het bepaalde in het eerste lid kan bij de vaststelling van de uitkering, vergoeding en tegemoetkoming rekening worden gehouden met vorenbedoelde aanspraken.
 
-##### Artikel 58
+#### Artikel 58
 
 De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indien de Raad of de Sociale verzekeringsbank zulks nodig oordeelt.
 
-##### Artikel 59
+#### Artikel 59
 
 1. De uitkering wordt, met uitzondering van de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) vastgestelde grondslag, opnieuw vastgesteld:
 
@@ -742,7 +718,7 @@ De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indi
 
 4. Hetgeen als gevolg van een beschikking als bedoeld in het eerste of tweede lid te veel dan wel te weinig is uitbetaald, wordt door de Sociale verzekeringsbank teruggevorderd of verrekend dan wel nabetaald. De terugvordering kan in door de Sociale verzekeringsbank te bepalen termijnen plaatsvinden.
 
-##### Artikel 59a
+#### Artikel 59a
 
 1. Op aanvraag van de uitkeringsgerechtigde wordt de uitkering, met uitzondering van de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) vastgestelde grondslag, opnieuw vastgesteld:
 
@@ -754,15 +730,15 @@ De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indi
 
 3. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-##### Artikel 60
+#### Artikel 60
 
 Eenmalige uitkeringen op grond van wettelijke voorzieningen, verstrekt voor hetzelfde doel als waarvoor reeds een vergoeding of tegemoetkoming ingevolge deze wet werd verleend, worden eveneens op de uitkeringen ingevolge deze wet in mindering gebracht. Het teveel betaalde wordt teruggevorderd.
 
-##### Artikel 60a
+#### Artikel 60a
 
 Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uitkering, vergoeding of tegemoetkoming ingevolge deze wet, door burgemeester en wethouders een uitkering is verleend krachtens de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), wordt de uitkering, vergoeding of tegemoetkoming ingevolge deze wet verminderd met de kosten van bijstand, welke voor overeenkomstige voorzieningen zijn gemaakt over dezelfde periode waarover de uitkering, vergoeding of tegemoetkoming wordt verleend, terwijl de som welke in mindering wordt gebracht, wordt uitbetaald aan de betrokken gemeente.
 
-##### Artikel 61
+#### Artikel 61
 
 1. Een beschikking van de Raad of de Sociale verzekeringsbank kan door hem in het nadeel van de bij die beschikking betrokkene worden herzien op grond van gebleken onjuistheid van aan die beschikking ten grondslag gelegde feiten, dan wel op grond van gegevens die niet bekend waren ten tijde van het nemen van die beschikking, en die, zo zij wel bekend waren geweest, tot een andersluidende beschikking zouden hebben geleid. Indien deze herziening zou leiden tot intrekking van het recht op uitkering, wordt de herzieningsbeschikking eerst gegeven nadat de betrokkene door de Sociale verzekeringsbank is gehoord.
 
@@ -770,7 +746,7 @@ Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uit
 
 3. Op een beschikking, voortvloeiende uit de toepassing van het tweede lid, is [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met uitzondering van [artikel 32, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2026-01-01&g=2026-01-01), en [artikel 32**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32a&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 61a
+#### Artikel 61a
 
 Onverminderd het bepaalde in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=VIII&artikel=59&z=2026-01-01&g=2026-01-01) en [59a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=VIII&artikel=59a&z=2026-01-01&g=2026-01-01) wordt, indien een ingevolge deze wet gegeven beschikking in het nadeel van de belanghebbende wordt herzien, hetgeen reeds was uitbetaald niet teruggevorderd of verrekend, tenzij:
 
@@ -778,17 +754,17 @@ Onverminderd het bepaalde in de [artikelen 59](https://wetten.overheid.nl/jci1.3
 
 - b. in verband met de voorbereiding van de herzieningsbeschikking de tenuitvoerlegging daarvan niet kan geschieden in dezelfde maand waarin de feiten, welke aanleiding hebben gegeven tot het herzien van de beschikking, zich hebben voorgedaan.
 
-##### Artikel 62
+#### Artikel 62
 
 Deze wet kan worden aangehaald als Wet uitkeringen vervolgingsslachtoffers 1940-1945.
 
-##### Artikel 63
+#### Artikel 63
 
 Deze wet treedt in werking met ingang van 1 januari 1973.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 18a
+#### Artikel 18a
 
 De op grond van de [artikelen 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), en [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01), bij algemene maatregel van bestuur vastgestelde bedragen worden door Onze Minister herzien naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1).
 
@@ -814,7 +790,7 @@ De op grond van de [artikelen 14, tweede en derde lid](https://wetten.overheid.n
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 17a
+#### Artikel 17a
 
 1. Indien de uitkeringsgerechtigde over zijn uitkering de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van de uitkering dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=45), vermenigvuldigd met anderhalf, voorzover de uitkering is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43).
 
@@ -844,7 +820,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 1b
+#### Artikel 1b
 
 Waar in deze wet in een artikel of artikellid sprake is van «de Raad of de Sociale verzekeringsbank» is de taakverdeling in overeenstemming met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4) en [6 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6).
 

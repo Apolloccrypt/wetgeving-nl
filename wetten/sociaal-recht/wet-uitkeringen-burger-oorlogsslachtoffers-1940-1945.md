@@ -1,38 +1,14 @@
 ---
-title: "Wet van 10 maart 1984, houdende regelen inzake de verlening van uitkeringen en bijzondere voorzieningen aan burger-oorlogsslachtoffers"
+title: "Wet uitkeringen burger-oorlogsslachtoffers 1940-1945"
 identifier: "BWBR0003664"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003664"
-soort: "wet"
-stam_id: "330003"
-version_id: "480272"
-internal_id: "C480271"
-label_id: "323994"
-dtd_version: "2.0"
-original_entry_into_force: "1981-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003664/2026-01-01/0"
-intitule_bron: "Stb.1984-94"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-03-10"
-intitule_status: "goed"
-original_publication: "Stb.1984-94"
-original_signed_date: "1984-03-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "17376"
-entry_into_force_date: "1981-07-01"
-entry_into_force_dossier: "17376"
-jci_1_3: "jci1.3:c:BWBR0003664&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0003664&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitkeringen burger-oorlogsslachtoffers 1940-1945"
-signed_date: "1984-03-10"
-entry_into_force: "1981-07-01"
+categorie: "Sociaal recht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0003664"
 ---
-# Wet van 10 maart 1984, houdende regelen inzake de verlening van uitkeringen en bijzondere voorzieningen aan burger-oorlogsslachtoffers
+
+# Wet uitkeringen burger-oorlogsslachtoffers 1940-1945
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -42,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -52,7 +28,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - c. de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-##### Artikel 2
+#### Artikel 2
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder burger-oorlogsslachtoffer verstaan:
 
@@ -70,7 +46,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. Indien het letsel, bedoeld in het eerste lid, niet duidelijk door andere oorzaken dan het oorlogsgeweld als bedoeld in het eerste lid is ontstaan, wordt dit geacht zijn oorzaak te hebben in het oorlogsgeweld, dan wel in omstandigheden daarmee verband houdende. Daarbij wordt rekening gehouden met de inzichten en ervaringen van de medische wetenschap met betrekking tot de relatie tussen het oorlogsgeweld en de geestelijke en lichamelijke gezondheidstoestand.
 
-##### Artikel 2a
+#### Artikel 2a
 
 1. Voor de toepassing van deze wet wordt gelijkgesteld met:
 
@@ -92,7 +68,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 3. Van een gezamenlijke huishouding als bedoeld in het eerste lid kan slechts sprake zijn indien twee personen gezamenlijk voorzien in huisvesting en bovendien beiden een bijdrage leveren in de kosten van de huishouding dan wel op andere wijze in elkaars verzorging voorzien. Onze Minister kan nadere regels stellen voor de toepassing van de eerste volzin.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Deze wet is van toepassing op:
 
@@ -106,7 +82,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. De Raad kan deze wet tevens van toepassing verklaren op degene die tijdens de oorlogsjaren 1940–1945 of in de na-oorlogse jaren, als burger is getroffen door oorlogsgeweld als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), of diens nabestaande die niet voldoet aan de in het eerste lid gestelde eisen en ten aanzien van wie het niet toepassen van deze wet een klaarblijkelijke hardheid zou zijn.
 
-##### Artikel 4
+#### Artikel 4
 
 Behoudens in nader bij algemene maatregel van bestuur te regelen gevallen kunnen aan deze wet geen aanspraken worden ontleend door:
 
@@ -116,7 +92,7 @@ Behoudens in nader bij algemene maatregel van bestuur te regelen gevallen kunnen
 
 - c. de weduwe, weduwnaar en minderjarige volle wees van de onder a en b bedoelde personen, indien en voor zover zij als nabestaanden aanspraken ontlenen aan de voorzieningen, bedoeld onder a en de wetten, genoemd onder b.
 
-##### Artikel 5
+#### Artikel 5
 
 Aan deze wet kunnen geen rechten worden ontleend door:
 
@@ -136,7 +112,7 @@ Aan deze wet kunnen geen rechten worden ontleend door:
 
 - d. de weduwe, weduwnaar en minderjarige volle wees van onder **b** of **c** bedoelde personen, indien en voor zover zij als nabestaanden rechten aan deze wet zouden hebben kunnen ontlenen en indien een der omstandigheden zoals omschreven onder **a**, **b** of **c**, zich niet zou hebben voorgedaan.
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
@@ -144,7 +120,7 @@ Vervallen
 
 #### § 1. Het recht op een uitkering
 
-##### Artikel 7
+#### Artikel 7
 
 Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) heeft recht op een periodieke uitkering:
 
@@ -160,11 +136,11 @@ Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - f. de weduwe of weduwnaar, alsmede de minderjarige volle wees van het burger-oorlogsslachtoffer, dat ten tijde van zijn overlijden in het genot was van een periodieke uitkering, anders dan op grond van deze wet, mits deze uitkering hem was toegekend in verband met het letsel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 8
+#### Artikel 8
 
 Recht op een garantie-uitkering heeft het burger-oorlogsslachtoffer, dat ten tijde van het tot uiting komen van zijn invaliditeit, welke het gevolg is van het letsel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), de leeftijd heeft bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen, mits hij, indien hij die leeftijd nog niet zou hebben bereikt, door of in verband met die invaliditeit gedwongen zou zijn geweest zijn werkzaamheden in beroep of bedrijf te beëindigen of blijvend te verminderen.
 
-##### Artikel 9
+#### Artikel 9
 
 1. De periodieke uitkering aan de weduwe of weduwnaar van het burger-oorlogsslachtoffer wordt ten hoogste gedurende een tijdvak van twee jaren na de datum van het overlijden verleend, indien de weduwe of weduwnaar op dat tijdstip nog niet de leeftijd van 40 jaren heeft bereikt, tenzij deze arbeidsongeschikt is of een of meer minderjarige kinderen te haren of zijnen laste heeft.
 
@@ -172,7 +148,7 @@ Recht op een garantie-uitkering heeft het burger-oorlogsslachtoffer, dat ten tij
 
 #### § 2. De grondslag
 
-##### Artikel 10
+#### Artikel 10
 
 1. Indien aanspraak bestaat op een periodieke uitkering, wordt de grondslag vastgesteld, waarnaar de uitkering wordt berekend.
 
@@ -202,21 +178,21 @@ Recht op een garantie-uitkering heeft het burger-oorlogsslachtoffer, dat ten tij
 
 9. De grondslag, waarnaar de uitkering aan de weduwe of weduwnaar bedoeld in [artikel 7, onder d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), wordt berekend, wordt vastgesteld op hetzelfde bedrag als waarop de grondslag voor het burger-oorlogsslachtoffer zou zijn vastgesteld, indien hij op de datum van de aanvraag, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&artikel=35&z=2026-01-01&g=2026-01-01), nog in leven zou zijn geweest en op die datum voldaan zou hebben aan het bepaalde in artikel 7, onder a of b.
 
-##### Artikel 11
+#### Artikel 11
 
 Indien aanspraak bestaat op een garantie-uitkering wordt deze berekend naar het bedrag, bedoeld in [artikel 10, achtste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 12
+#### Artikel 12
 
 Het bepaalde in deze paragraaf is niet van toepassing indien de aanspraak betrekking heeft op een uitkering aan een minderjarige volle wees.
 
 #### § 3. De periodieke uitkering
 
-##### Artikel 13
+#### Artikel 13
 
 De periodieke uitkering bedraagt een percentage van de overeenkomstig het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) vastgestelde grondslag.
 
-##### Artikel 14
+#### Artikel 14
 
 1. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) bedoelde percentage bedraagt voor het burger-oorlogsslachtoffer dat de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt:
 
@@ -240,7 +216,7 @@ De periodieke uitkering bedraagt een percentage van de overeenkomstig het bepaal
 
 3. Bij overlijden van de echtgenoot van het burger-oorlogsslachtoffer blijft het uitkeringspercentage ongewijzigd tot en met de laatste dag van de maand, volgende op die, waarin het overlijden heeft plaatsgevonden.
 
-##### Artikel 15
+#### Artikel 15
 
 1. Behoudens het bepaalde in het derde lid bedraagt het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) bedoelde percentage voor de nagelaten betrekking van het burger-oorlogsslachtoffer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt:
 
@@ -262,11 +238,11 @@ De periodieke uitkering bedraagt een percentage van de overeenkomstig het bepaal
 
 5. De uitkering, berekend met toepassing van het bepaalde in het eerste lid, onder b, bedraagt niet meer dan een bedrag ter grootte van 80% van het bedrag, bedoeld in [artikel 10, achtste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01), vermenigvuldigd met 5/7 en vermeerderd met een bedrag ter grootte van 20% van de uitkering bedoeld in [artikel 17, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17).
 
-##### Artikel 16
+#### Artikel 16
 
 Indien een burger-oorlogsslachtoffer voldoet zowel aan het bepaalde in [artikel 7, onder **a, b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), als aan het bepaalde in [artikel 7, onder **d, e** of **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), wordt de hoogste ingevolge deze paragraaf van toepassing zijnde uitkering verleend.
 
-##### Artikel 17
+#### Artikel 17
 
 1. Indien en voor zolang het burger-oorlogsslachtoffer in staat is zich door arbeid een inkomen te verwerven, doch deze arbeid naar het oordeel van de Sociale verzekeringsbank om niet gegronde redenen niet of slechts ten dele verricht, wordt de grondslag waarnaar de uitkering wordt berekend, nader vastgesteld, rekening houdende met de mate van invaliditeit van het burger-oorlogsslachtoffer, waardoor diens vermogen om een inkomen te verwerven door of in verband met arbeid in beroep of bedrijf nadelig is beïnvloed. In een zodanig geval is het bepaalde in [artikel 10, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01), niet van toepassing.
 
@@ -274,7 +250,7 @@ Indien een burger-oorlogsslachtoffer voldoet zowel aan het bepaalde in [artikel 
 
 3. Het bepaalde in het eerste lid is niet van toepassing, indien het burger-oorlogsslachtoffer buiten staat is 50% te verwerven van het inkomen dat hij verwierf uit de laatstelijk door hem verrichte arbeid in beroep of bedrijf.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Bij verblijf van een alleenstaande of een echtpaar ter verpleging of verzorging in een daartoe bestemde inrichting, waarvan de kosten met toepassing van één der sociale verzekeringswetten worden betaald, wordt de periodieke uitkering, met ingang van het tijdstip waarop redelijkerwijs kan worden aangenomen dat deze verpleging of verzorging een langdurig karakter zal gaan dragen, doch in ieder geval na verloop van een jaar, nader bepaald op:
 
@@ -292,7 +268,7 @@ Indien een burger-oorlogsslachtoffer voldoet zowel aan het bepaalde in [artikel 
 
 #### § 4. Toeslagen
 
-##### Artikel 19
+#### Artikel 19
 
 1. Behoudens het bepaalde in het vierde lid, wordt aan het burger-oorlogsslachtoffer, wiens invaliditeit, welke het gevolg is van het letsel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), zijn vermogen om door arbeid een inkomen te verwerven nadelig beïnvloedt of zou hebben beïnvloed indien hij nog op inkomsten uit arbeid zou zijn aangewezen, een toeslag toegekend voor voorzieningen welke strekken tot verbetering van diens levensomstandigheden.
 
@@ -312,7 +288,7 @@ G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.
 
 4. De toeslag, bedoeld in het eerste lid, wordt niet toegekend, indien toepassing is gegeven aan het bepaalde in de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=8&artikel=32&z=2026-01-01&g=2026-01-01), of [42](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=11&artikel=42&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 20
+#### Artikel 20
 
 1. Voor de in Nederland gevestigde uitkeringsgerechtigde en de uitkeringsgerechtigde op wie [artikel 68b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68b), of [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, wordt op de overeenkomstig [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), vastgestelde uitkering ten behoeve van de te zijnen laste komende premie van verzekering tegen ziektekosten een bij algemene maatregel van bestuur vastgestelde toeslag verleend die per categorie van uitkeringsgerechtigden verschilt.
 
@@ -330,7 +306,7 @@ G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.
 
 4. Indien de in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), bedoelde kosten van verpleging of verzorging met toepassing van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) worden betaald en de uitkeringsgerechtigde in die kosten een eigen bijdrage verschuldigd is, wordt op de overeenkomstig het bepaalde in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01) vastgestelde uitkering een toeslag verleend gelijk aan het bedrag van de eigen bijdrage.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Voor de in Nederland gevestigde uitkeringsgerechtigde en de uitkeringsgerechtigde op wie [artikel 68b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68b), of [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, wordt op zijn periodieke uitkering of garantie-uitkering ten behoeve van de te zijnen laste komende premie van verzekering tegen ziektekosten een bij algemene maatregel van bestuur vastgestelde toeslag verleend voor zover deze premie meer bedraagt dan het overeenkomstig de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01) vastgestelde percentage van het verschil tussen de grondslag en het bedrag, bedoeld in [artikel 10, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01). De toeslag verschilt per categorie van uitkeringsgerechtigden.
 
@@ -346,13 +322,13 @@ G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.
 
 - d. indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van het vastgestelde bedrag gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Indien geen kinderbijslag uit welken hoofde of onder welke benaming ook wordt genoten, wordt op de periodieke uitkering en de garantie-uitkering een toeslag verleend voor de minderjarige kinderen waarvoor kinderbijslag zou worden ontvangen, indien de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) van toepassing zou zijn.
 
 2. Deze toeslag beloopt een bedrag gelijk aan de kinderbijslag ingevolge de in het eerste lid genoemde wet.
 
-##### Artikel 23
+#### Artikel 23
 
 1. Op de periodieke uitkering wordt, indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, een toeslag verleend. Deze toeslag bedraagt:
 
@@ -372,7 +348,7 @@ G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.
 
 #### § 5. De garantie-uitkering
 
-##### Artikel 24
+#### Artikel 24
 
 1. De garantie-uitkering bedraagt een percentage van het bedrag, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01).
 
@@ -396,7 +372,7 @@ G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.
 
 #### § 5. De garantie-uitkering
 
-##### Artikel 25
+#### Artikel 25
 
 1. De periodieke uitkering of de garantie-uitkering wordt door de Sociale verzekeringsbank aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
 
@@ -408,17 +384,17 @@ G voorstelt: de grondslag, waarnaar de uitkering wordt berekend.
 
 5. De aangepaste periodieke uitkering of garantie-uitkering, bedoeld in het vierde lid, wordt betaald bij de eerste betaling nadat de aanpassing heeft plaatsgevonden.
 
-##### Artikel 26
+#### Artikel 26
 
 Vervallen
 
-##### Artikel 27
+#### Artikel 27
 
 Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=7&artikel=28&z=2026-01-01&g=2026-01-01), wordt door Onze Minister herzien, indien en voor zover de ontwikkeling van de consumentenprijsindex daartoe aanleiding geeft.
 
 #### § 7. Verrekening van inkomsten
 
-##### Artikel 28
+#### Artikel 28
 
 1. Op de periodieke uitkering vermeerderd met de toeslagen, bedoeld in de[artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-01-01&g=2026-01-01), worden, voor zover deze over de overeenkomstige periode werden genoten, in mindering gebracht:
 
@@ -446,19 +422,19 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 - b. in afwijking van het in het vierde lid, onder a, laatste volzin, bedoelde bedrag, de helft daarvan wordt vrijgelaten.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Op de garantie-uitkering worden in mindering gebracht alle over de overeenkomstige periode genoten bruto-inkomsten, uit welken hoofde dan ook, van het burger-oorlogsslachtoffer en van diens echtgenoot of van degene met wie hij duurzaam samenleeft.
 
 2. De inkomsten uit vermogen worden vastgesteld overeenkomstig het bepaalde in [artikel 28, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=7&artikel=28&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 30
+#### Artikel 30
 
 1. Op de uitkering, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), vermeerderd met de toeslag bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=20&z=2026-01-01&g=2026-01-01), worden alle inkomsten van het burger-oorlogsslachtoffer en van diens echtgenoot in mindering gebracht.
 
 2. De inkomsten uit vermogen worden vastgesteld overeenkomstig het bepaalde in [artikel 28, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=7&artikel=28&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 31
+#### Artikel 31
 
 1. Tot de inkomsten, bedoeld in deze paragraaf, worden niet gerekend:
 
@@ -470,7 +446,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 #### § 8. Bijzondere voorzieningen
 
-##### Artikel 32
+#### Artikel 32
 
 1. Indien het burger-oorlogsslachtoffer wegens zijn invaliditeit, welke het gevolg is van het letsel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), geneeskundige behandeling of verpleging behoeft, worden de daaraan verbonden ten laste van het burger-oorlogsslachtoffer blijvende noodzakelijke kosten volledig vergoed, tenzij het vierde lid van toepassing is.
 
@@ -484,7 +460,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 6. Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betrekking tot de aard, de duur en de wijze van verstrekking van de voorzieningen bedoeld in de voorgaande leden.
 
-##### Artikel 33
+#### Artikel 33
 
 1. In de ten laste van het burger-oorlogsslachtoffer blijvende kosten van voorzieningen verband houdende met zijn invaliditeit, welke het gevolg is van het letsel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), welke voorzieningen strekken tot verbetering van diens levensomstandigheden, kan een tegemoetkoming worden verleend.
 
@@ -494,7 +470,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 4. Bij algemene maatregel van bestuur worden nadere regelen gesteld met betrekking tot de bepaling van de financiële draagkracht van het burger-oorlogsslachtoffer alsmede zo nodig met betrekking tot de aard, de duur en de wijze van verstrekking van de voorzieningen, bedoeld in het eerste lid.
 
-##### Artikel 33a
+#### Artikel 33a
 
 1. In afwijking van het eerste lid van de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=8&artikel=32&z=2026-01-01&g=2026-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=8&artikel=33&z=2026-01-01&g=2026-01-01) kan aan categorieën burger-oorlogsslachtoffers in de kosten van bepaalde voorzieningen een vergoeding of tegemoetkoming worden verleend zonder dat het in die artikelleden bedoelde verband is vereist. Bij algemene maatregel van bestuur worden ter zake regels gesteld.
 
@@ -502,7 +478,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 #### § 9. Aanvraag om erkenning
 
-##### Artikel 34
+#### Artikel 34
 
 1. Degene, die verwacht te eniger tijd aanspraken te kunnen ontlenen aan deze wet, kan bij de Raad een aanvraag indienen om erkenning dat de aanvrager is getroffen door oorlogsgeweld als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01).
 
@@ -510,7 +486,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 #### § 9. Aanvraag om erkenning
 
-##### Artikel 35
+#### Artikel 35
 
 1. De beoordeling van de aanspraken op een uitkering, toeslag, vergoeding of tegemoetkoming geschiedt naar aanleiding van een daartoe bij de Raad of de Sociale verzekeringsbank ingediende aanvraag.
 
@@ -526,7 +502,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 7. Onze Minister kan nadere regelen stellen met betrekking tot de bij de aanvraag over te leggen bescheiden.
 
-##### Artikel 36
+#### Artikel 36
 
 1. Alvorens op een aanvraag wordt beslist, wordt een rapport opgesteld omtrent de aard en de gevolgen van de oorlogscalamiteit en de levensomstandigheden van de betrokkene vóór, tijdens en na de oorlogsjaren 1940-1945.
 
@@ -540,7 +516,7 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 6. Indien een aanvraag betrekking heeft op een vergoeding of tegemoetkoming behoeft het in het eerste lid bedoelde rapport slechts te worden opgesteld indien de Raad of de Sociale verzekeringsbank dat nodig acht.
 
-##### Artikel 37
+#### Artikel 37
 
 1. Voor zover de aanvraag, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&artikel=35&z=2026-01-01&g=2026-01-01), is ingediend door of namens een burger-oorlogsslachtoffer, wordt door de geneeskundig adviseur een medisch rapport opgesteld. Hij vermeldt daarin voor zover nodig zijn bevindingen over:
 
@@ -562,11 +538,11 @@ Het bedrag, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.
 
 6. Indien de aanvrager niet voldoet aan het bepaalde in het vijfde lid, wijst de Raad of de Sociale verzekeringsbank de aanvraag af of herziet de Raad of de Sociale verzekeringsbank de eerder gegeven beschikking in het nadeel van de betrokkene.
 
-##### Artikel 37a
+#### Artikel 37a
 
 Vervallen
 
-##### Artikel 38
+#### Artikel 38
 
 1. Bij de bekendmaking van de beschikking wordt voorlichting gegeven over de procedure en de voor het bezwaarschrift geldende termijn van behandeling.
 
@@ -578,7 +554,7 @@ Vervallen
 
 5. Met betrekking tot een aanvraag, bedoeld in het vierde lid, die wordt ingediend terwijl een aanvraag, bedoeld in het tweede lid, nog in behandeling is geldt, in afwijking van het vierde lid, de termijn die resteert voor de beschikking op de aanvraag, bedoeld in het tweede lid, tenzij de resterende termijn korter is dan de termijn, bedoeld in het het vierde lid.
 
-##### Artikel 39
+#### Artikel 39
 
 1. Indien de Raad vier weken voor het verstrijken van de verlengde termijn, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&artikel=38&z=2026-01-01&g=2026-01-01), onvoldoende gegevens aanwezig acht om tot een beoordeling van de aanvraag te komen en dientengevolge niet in staat is een beschikking te geven, stelt hij de aanvrager gedurende die vier weken in de gelegenheid zijn zienswijze naar voren te brengen.
 
@@ -586,7 +562,7 @@ Vervallen
 
 3. Indien de aanvrager zijn zienswijze mondeling naar voren brengt, wordt een verslag gemaakt.
 
-##### Artikel 39a
+#### Artikel 39a
 
 1. Indien de aanvrager kennis wenst te nemen van gegevens welke mede tot een beschikking van de Raad of de Sociale verzekeringsbank kunnen leiden dan wel hebben geleid, worden deze hem op zijn verzoek door de Raad of de Sociale verzekeringsbank verstrekt.
 
@@ -594,7 +570,7 @@ Vervallen
 
 #### § 11. Ingang en einde van de uitkering, toeslagen en bijzondere voorzieningen
 
-##### Artikel 40
+#### Artikel 40
 
 1. De uitkering, de toeslag, de vergoeding en tegemoetkoming gaan in:
 
@@ -604,7 +580,7 @@ Vervallen
 
 2. De Raad of de Sociale verzekeringsbank kan bij beschikking van het bepaalde in het eerste lid in het voordeel van de betrokkene afwijken, indien hij, rekening houdende met alle omstandigheden, een dergelijke afwijking in een individueel geval noodzakelijk acht. Onze Minister stelt te dien aanzien nadere regelen.
 
-##### Artikel 41
+#### Artikel 41
 
 1. De periodieke uitkering alsmede de garantie-uitkering, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), wordt beëindigd:
 
@@ -620,7 +596,7 @@ Vervallen
 
 3. De uitkering die op grond van [artikel 41, eerste lid onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=11&artikel=41&z=2026-01-01&g=2026-01-01), werd beëindigd, wordt opnieuw verleend indien het huwelijk is ontbonden of het aangaan van een andere vorm van duurzaam samenleven is beëindigd. In dat geval gaat de uitkering in op de eerste dag van de maand waarin de hernieuwde aanvraag is ingediend.
 
-##### Artikel 42
+#### Artikel 42
 
 1. De uitkeringsgerechtigde, die is veroordeeld tot een vrijheidsstraf van drie maanden, tot plaatsing in een Rijkswerkinrichting of tot enige zwaardere straf, of op bevel van de rechter ter beschikking van de Regering is gesteld, mist over de tijd gedurende welke hij zijn straf ondergaat of van regeringswege in zijn verpleging wordt voorzien, of gedurende welke hij zich door de vlucht aan de tenuitvoerlegging van het vonnis onttrekt, het genot van de uitkering.
 
@@ -628,25 +604,25 @@ Vervallen
 
 3. De Sociale verzekeringsbank is tevens bevoegd om, voor zover van de bevoegdheid in het tweede lid bedoeld, geen gebruik is gemaakt, de uitkeringsgerechtigde die al of niet voorwaardelijk uit de gevangenis of uit de Rijkswerkinrichting is ontslagen, of wiens verpleging van regeringswege is beëindigd, in het genot te stellen van een uitkering, ten bedrage van ten hoogste de helft van het niet uitgekeerde bedrag, tot een maximum van de helft van het jaarlijkse bedrag van de uitkering.
 
-##### Artikel 43
+#### Artikel 43
 
 Van alle rechten op grond van het bij of krachtens deze wet bepaalde wordt terstond vervallen verklaard het burger-oorlogsslachtoffer of diens nabestaande, indien zij de Nederlandse nationaliteit verliezen.
 
 #### § 12. Bepalingen aan elke uitkering, toeslag, vergoeding en tegemoetkoming gemeen
 
-##### Artikel 44
+#### Artikel 44
 
 1. De belanghebbende is gehouden aanspraken op wettelijke voorzieningen geldend te maken, welke kunnen leiden tot een vermindering van de aanspraken op grond van deze wet.
 
 2. Indien de belanghebbende niet voldoet aan het bepaalde in het eerste lid, kan bij de vaststelling van de uitkering, toeslag, vergoeding en tegemoetkoming rekening worden gehouden met de in het eerste lid bedoelde aanspraken.
 
-##### Artikel 44a
+#### Artikel 44a
 
 1. De uitkeringen, toeslagen, vergoedingen of tegemoetkomingen worden zo spoedig mogelijk, doch uiterlijk binnen dertien weken na de toekenning, vastgesteld en betaald.
 
 2. Indien de door belanghebbende verstrekte gegevens en bescheiden onvoldoende zijn voor het vaststellen van het bedrag van de uitkering, vergoeding of tegemoetkoming, verzoekt de Sociale verzekeringsbank de belanghebbende deze gegevens en bescheiden alsnog te verstrekken. De periode van dertien weken, bedoeld in het eerste lid, wordt in zodanig geval opgeschort met ingang van de dag waarop de Sociale verzekeringsbank vorenbedoeld verzoek heeft gedaan tot de dag waarop de gegevens en bescheiden zijn verstrekt.
 
-##### Artikel 45
+#### Artikel 45
 
 1. De uitkering, de toeslagen, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01) tot en met [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-01-01&g=2026-01-01), de vergoeding en de tegemoetkoming zijn niet vatbaar voor vervreemding of verpanding.
 
@@ -658,27 +634,27 @@ Van alle rechten op grond van het bij of krachtens deze wet bepaalde wordt terst
 
 ### Hoofdstuk III. Toepassing en uitvoering
 
-##### Artikel 46
+#### Artikel 46
 
 Vervallen
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 48
+#### Artikel 48
 
 Vervallen
 
 ### Hoofdstuk IV. Verstrekken van inlichtingen
 
-##### Artikel 49
+#### Artikel 49
 
 1. De belanghebbende is verplicht desgevraagd aan de Raad of de Sociale verzekeringsbank alle inlichtingen te verstrekken die hij voor het vaststellen of het bestendigen van het recht van een burger-oorlogsslachtoffer of diens nabestaanden op een uitkering, toeslag, vergoeding of tegemoetkoming noodzakelijk acht.
 
 2. Indien de belanghebbende niet voldoet aan het bepaalde in het eerste lid, wijst de Raad of de Sociale verzekeringsbank de aanvraag af, dan wel herziet hij de eerder gegeven beschikking in het nadeel van de betrokkene.
 
-##### Artikel 50
+#### Artikel 50
 
 1. De belanghebbende is verplicht desgevraagd aan de Sociale verzekeringsbank die gegevens te verstrekken, welke voor de uitvoering van de beschikkingen van die Raad noodzakelijk zijn.
 
@@ -688,19 +664,19 @@ Vervallen
 
 4. Indien de belanghebbende eerst na twee jaar, nadat de uitvoering van de beschikking werd geschorst, de in het eerste lid bedoelde gegevens verstrekt, beslist de Sociale verzekeringsbank, rekening houdende met alle omstandigheden, of en zo ja in hoeverre, de uitvoering van deze beschikking, voor zover deze betrekking heeft op de periode gedurende welke de uitvoering van de beschikking was geschorst, alsnog kan plaatsvinden.
 
-##### Artikel 51
+#### Artikel 51
 
 1. De belanghebbende, diens wettelijke vertegenwoordiger en de persoon aan wie de uitkering, toeslag, vergoeding of tegemoetkoming wordt uitbetaald, zijn gehouden onverwijld aan de Sociale verzekeringsbank mededeling te doen van alle feiten en omstandigheden, die tot intrekking of verlaging van de uitkering, toeslag, vergoeding of tegemoetkoming aanleiding zouden kunnen geven.
 
 2. Het bepaalde in [artikel 50, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=IV&artikel=50&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 52
+#### Artikel 52
 
 1. Alle ambtenaren, tot afgifte van uittreksels uit registers van de burgerlijke stand bevoegd, zijn gehouden aan de Raad of de Sociale verzekeringsbank de door hem gevraagde uittreksels uit de registers kosteloos te verstrekken.
 
 2. De gemeentebesturen zijn gehouden aan de Raad of de Sociale verzekeringsbank de door hem gevraagde inlichtingen uit de basisregistratie personen kosteloos te verstrekken.
 
-##### Artikel 53
+#### Artikel 53
 
 1. Onverminderd het bepaalde in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=IV&artikel=49&z=2026-01-01&g=2026-01-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=IV&artikel=50&z=2026-01-01&g=2026-01-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=IV&artikel=51&z=2026-01-01&g=2026-01-01), doet de belanghebbende aan wie een uitkering of tegemoetkoming wordt uitbetaald, al dan niet door tussenkomst van zijn wettelijke vertegenwoordiger, op een door de Sociale verzekeringsbank te bepalen tijdstip en wijze, opgave van alle door hem, anders dan uit vermogen genoten inkomsten, en indien zulks door de Sociale verzekeringsbank wordt verlangd, van de hoogte en samenstelling van zijn vermogen.
 
@@ -710,15 +686,15 @@ Vervallen
 
 #### § 1. Bezwaar
 
-##### Artikel 54
+#### Artikel 54
 
 In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van het bezwaarschrift dertien weken, indien de belanghebbende in het buitenland gevestigd is.
 
-##### Artikel 54a
+#### Artikel 54a
 
 Vervallen
 
-##### Artikel 55
+#### Artikel 55
 
 1. [Artikel 39**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&artikel=39a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -726,31 +702,31 @@ Vervallen
 
 3. Indien de belanghebbende in het buitenland gevestigd is, worden de termijnen, bedoeld in het tweede lid, ieder met acht weken verlengd.
 
-##### Artikel 55a
+#### Artikel 55a
 
 Vervallen
 
 #### § 2. Beroep
 
-##### Artikel 56
+#### Artikel 56
 
 In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd.
 
-##### Artikel 56a
+#### Artikel 56a
 
 Vervallen
 
-##### Artikel 57
+#### Artikel 57
 
 Vervallen
 
-##### Artikel 58
+#### Artikel 58
 
 Vervallen
 
 ### Hoofdstuk VI. Voorlopige en definitieve vaststelling
 
-##### Artikel 59
+#### Artikel 59
 
 1. De periodieke uitkering of de garantie-uitkering wordt, met uitzondering van de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) vastgestelde grondslag, opnieuw vastgesteld:
 
@@ -776,7 +752,7 @@ Vervallen
 
 4. Hetgeen als gevolg van een beschikking als bedoeld in het eerste of tweede lid te veel dan wel te weinig is uitbetaald, wordt door de Sociale verzekeringsbank teruggevorderd of verrekend dan wel nabetaald. De terugvordering kan in door de Sociale verzekeringsbank te bepalen termijnen plaatsvinden.
 
-##### Artikel 60
+#### Artikel 60
 
 1. Op aanvraag van de uitkeringsgerechtigde wordt de periodieke uitkering of de garantie-uitkering, met uitzondering van de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) vastgestelde grondslag, opnieuw vastgesteld:
 
@@ -790,7 +766,7 @@ Vervallen
 
 ### Hoofdstuk VI. Voorlopige en definitieve vaststelling
 
-##### Artikel 61
+#### Artikel 61
 
 1. De Raad of de Sociale verzekeringsbank is bevoegd een eenmaal gegeven beschikking in het nadeel van betrokkene te herzien, indien hem alsnog blijkt of na kennisneming van enig feit, gegeven of omstandigheid op zich zelf of in samenhang met andere feiten, gegevens of omstandigheden, duidelijk wordt, dat de gronden waarop die beschikking was gebaseerd dermate onjuist of onvolledig waren, dat de beschikking op die gronden niet kan worden gehandhaafd en de bekend geworden feiten, gegevens of omstandigheden onvoldoende grond bieden om de oorspronkelijke beschikking te dragen.
 
@@ -800,13 +776,13 @@ Vervallen
 
 4. Op een beschikking, voortvloeiende uit de toepassing van het derde lid, is [paragraaf 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met uitzondering van [artikel 38, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&artikel=38&z=2026-01-01&g=2026-01-01), en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=10&artikel=39&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 62
+#### Artikel 62
 
 Indien met terugwerkende kracht een voorziening wordt getroffen voor hetzelfde doel als waarvoor reeds ingevolge deze wet een vergoeding of tegemoetkoming werd verleend, herziet de Sociale verzekeringsbank de oorspronkelijke beschikking.
 
 ### Hoofdstuk VII. Herziening
 
-##### Artikel 63
+#### Artikel 63
 
 Indien een ingevolge deze wet gegeven beschikking in het nadeel van betrokkene wordt herzien, wordt hetgeen te veel was uitbetaald, niet teruggevorderd of verrekend, tenzij:
 
@@ -818,97 +794,97 @@ Indien een ingevolge deze wet gegeven beschikking in het nadeel van betrokkene w
 
 - d. betrokkene redelijkerwijs had moeten begrijpen dat hem te veel werd uitbetaald.
 
-##### Artikel 64
+#### Artikel 64
 
 Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uitkering, vergoeding of tegemoetkoming ingevolge deze wet, door burgemeester en wethouders een uitkering is verleend ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), wordt de uitkering, vergoeding of tegemoetkoming ingevolge deze wet verminderd met de kosten van bijstand welke voor overeenkomstige voorzieningen zijn gemaakt over dezelfde periode waarover de uitkering, vergoeding of tegemoetkoming wordt verleend, terwijl de som welke in mindering wordt gebracht, wordt uitbetaald aan de betrokken gemeente.
 
 ### Hoofdstuk VIII. Terugvordering en verrekening
 
-##### Artikel 65
+#### Artikel 65
 
 Vervallen
 
-##### Artikel 66
+#### Artikel 66
 
 Vervallen
 
 ### Hoofdstuk IX. Bekostiging en toezicht
 
-##### Artikel 67
+#### Artikel 67
 
 Vervallen
 
-##### Artikel 68
+#### Artikel 68
 
 Vervallen
 
-##### Artikel 69
+#### Artikel 69
 
 Vervallen
 
-##### Artikel 70
+#### Artikel 70
 
 Vervallen
 
-##### Artikel 71
+#### Artikel 71
 
 Vervallen
 
-##### Artikel 72
+#### Artikel 72
 
 Vervallen
 
-##### Artikel 73
+#### Artikel 73
 
 Vervallen
 
-##### Artikel 74
+#### Artikel 74
 
 Vervallen
 
-##### Artikel 75
+#### Artikel 75
 
 Vervallen
 
-##### Artikel 76
+#### Artikel 76
 
 Vervallen
 
-##### Artikel 77
+#### Artikel 77
 
 Vervallen
 
-##### Artikel 78
+#### Artikel 78
 
 In het belang van een goede uitvoering van deze wet kan Onze Minister nadere regelen stellen.
 
-##### Artikel 79
+#### Artikel 79
 
 Vervallen
 
-##### Artikel 80
+#### Artikel 80
 
 Vervallen
 
-##### Artikel 81
+#### Artikel 81
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 82
+#### Artikel 82
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 83
+#### Artikel 83
 
 Deze wet kan worden aangehaald als Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
-##### Artikel 84
+#### Artikel 84
 
 Deze wet treedt in werking op de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt, met uitzondering van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=X&artikel=82&z=2026-01-01&g=2026-01-01), terug tot 1 juli 1981.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 27a
+#### Artikel 27a
 
 De op grond van de [artikelen 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=20&z=2026-01-01&g=2026-01-01), en [21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&hoofdstuk=II&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01) bij algemene maatregel van bestuur vastgestelde bedragen worden door Onze Minister herzien naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1).
 
@@ -946,7 +922,7 @@ De op grond van de [artikelen 20, eerste en tweede lid](https://wetten.overheid.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 23a
+#### Artikel 23a
 
 1. Indien de uitkeringsgerechtigde over zijn periodieke uitkering of garantie-uitkering de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van de periodieke uitkering of garantie-uitkering dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=45), vermenigvuldigd met anderhalf, voorzover de uitkering of garantie-uitkering is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43).
 
@@ -990,7 +966,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 2b
+#### Artikel 2b
 
 Waar in deze wet in een artikel of artikellid sprake is van «de Raad of de Sociale verzekeringsbank» is de taakverdeling in overeenstemming met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4) en [6 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6).
 

@@ -1,42 +1,14 @@
 ---
-title: "Wet van 21 december 1995, tot regeling van een verzekering voor nabestaanden"
+title: "Algemene nabestaandenwet"
 identifier: "BWBR0007795"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007795"
-soort: "wet"
-stam_id: "2547313"
-version_id: "12688632"
-internal_id: "C17085571"
-label_id: "2494864"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007795/2025-01-01/0"
-intitule_bron: "Stb.1995-690"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-21"
-intitule_published: "1995-12-28"
-intitule_in_force: "1996-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2005-718"
-original_signed_date: "2005-12-22"
-original_published_date: "2005-12-29"
-original_effect: "structuurwijziging"
-original_dossier: "30223"
-original_url_id: "stb-2005-718"
-entry_into_force_date: "2005-12-22"
-entry_into_force_dossier: "30223"
-jci_1_3: "jci1.3:c:BWBR0007795&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0007795&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Algemene nabestaandenwet"
-signed_date: "2005-12-22"
-entry_into_force: "2005-12-22"
+categorie: "Overig"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007795"
 ---
-# Wet van 21 december 1995, tot regeling van een verzekering voor nabestaanden
+
+# Algemene nabestaandenwet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -46,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -88,7 +60,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - q. uitreiziger: persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan de Sociale verzekeringsbank, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten Nederland bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
-##### Artikel 2
+#### Artikel 2
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -108,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Met ingang van 1 januari 2028 wordt het in het eerste lid, onderdeel b, genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt. Het gewijzigde percentage en de dag waarop de wijziging ingaat wordt door of namens Onze Minister medegedeeld in de Staatscourant. Dit lid vervalt op het moment dat het in het eerste lid, onderdeel b, genoemde percentage de waarde van 100 heeft bereikt.
 
-##### Artikel 3
+#### Artikel 3
 
 1. In deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:
 
@@ -144,7 +116,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind voor wie de nabestaande een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-##### Artikel 4
+#### Artikel 4
 
 1. In deze wet en de daarop berustende bepalingen wordt in afwijking van [artikel 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=3&z=2025-01-01&g=2025-01-01) onder nabestaande mede verstaan de gewezen echtgenoot van een overleden verzekerde, indien:
 
@@ -164,7 +136,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor het eerste lid, onderdeel b, bij ten vierde.
 
-##### Artikel 5
+#### Artikel 5
 
 1. In deze wet en de daarop berustende bepalingen wordt als kind aangemerkt, een eigen kind, aangehuwd kind of pleegkind in de zin van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), dat geboren is voor of op de dag van overlijden van de verzekerde.
 
@@ -172,11 +144,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. In afwijking van het eerste lid wordt slechts als pleegkind van de nabestaande aangemerkt het pleegkind voor wie de nabestaande ten tijde van het overlijden van de echtgenoot zorg droeg als ware hij ouder.
 
-##### Artikel 6
+#### Artikel 6
 
 Ingezetene in de zin van deze wet is degene die in Nederland woont.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Waar iemand woont en waar een lichaam is gevestigd, wordt naar de omstandigheden beoordeeld.
 
@@ -184,33 +156,33 @@ Ingezetene in de zin van deze wet is degene die in Nederland woont.
 
 3. Degene die Nederland metterwoon heeft verlaten en binnen een jaar nadien metterwoon terugkeert zonder inmiddels in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius en Saba, of op het grondgebied van een andere mogendheid te hebben gewoond, wordt ook voor de duur van zijn afwezigheid geacht in Nederland te hebben gewoond.
 
-##### Artikel 8
+#### Artikel 8
 
 In deze wet en de daarop berustende bepalingen wordt met overlijden gelijkgesteld vermoedelijk overlijden. Bij ministeriële regeling wordt bepaald hoe het vermoedelijke overlijden en de dag waarop het overlijden geacht wordt te hebben plaatsgevonden, worden vastgesteld.
 
-##### Artikel 9
+#### Artikel 9
 
 Vervallen
 
-##### Artikel 10
+#### Artikel 10
 
 1. In deze wet en de daarop berustende bepalingen wordt onder inkomen verstaan het inkomen van de nabestaande uit arbeid of overig inkomen.
 
 2. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Arbeidsongeschikt is degene die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebreken niet in staat is om met arbeid 55% te verdienen van hetgeen gezonde personen met soortgelijke opleiding en ervaring, ter plaatse waar hij arbeid verricht of het laatst heeft verricht, of in de omgeving daarvan, met arbeid gewoonlijk verdienen.
 
 2. In het eerste lid wordt onder de eerstgenoemde arbeid verstaan alle algemeen geaccepteerde arbeid waartoe die persoon met zijn krachten en bekwaamheden in staat is.
 
-##### Artikel 12
+#### Artikel 12
 
 Bij een besluit ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=49&z=2025-01-01&g=2025-01-01) is mede belanghebbende het Landelijk Bureau Inning Onderhoudsbijdragen.
 
 ### Hoofdstuk 2. Kring van verzekerden
 
-##### Artikel 13
+#### Artikel 13
 
 1. Verzekerd overeenkomstig de bepalingen van deze wet is degene, die
 
@@ -230,7 +202,7 @@ Bij een besluit ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), rechtmatig in Nederland verblijf hebben als bedoeld in [artikel 8, onder g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-##### Artikel 13a
+#### Artikel 13a
 
 Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=2&artikel=13&z=2025-01-01&g=2025-01-01) en de daarop berustende bepalingen:
 
@@ -244,7 +216,7 @@ Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 #### § 1. De nabestaandenuitkering
 
-##### Artikel 14
+#### Artikel 14
 
 1. Recht op nabestaandenuitkering heeft de nabestaande die:
 
@@ -264,7 +236,7 @@ Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. De Sociale verzekeringsbank kan, in afwijking van het vierde lid, een langere termijn vaststellen indien de toepassing wat de termijn van zes maanden betreft, zal leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 15
+#### Artikel 15
 
 1. Geen recht op nabestaandenuitkering heeft de nabestaande:
 
@@ -284,7 +256,7 @@ Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. De onderdelen **a** en **b** van het eerste lid zijn niet van toepassing indien de nabestaande, zo hij niet opnieuw zou zijn gehuwd, recht op nabestaandenuitkering zou hebben gehad.
 
-##### Artikel 16
+#### Artikel 16
 
 1. Het recht op nabestaandenuitkering eindigt, indien:
 
@@ -302,7 +274,7 @@ Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 #### § 2. De hoogte van de nabestaandenuitkering
 
-##### Artikel 17
+#### Artikel 17
 
 1. De bruto-nabestaandenuitkering wordt op een zodanig bedrag vastgesteld, dat nadat de over dat bedrag in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22), is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 70% van het netto-minimumloon.
 
@@ -336,7 +308,7 @@ Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 8. Op verzoek van de Sociale verzekeringsbank legt de nabestaande de schriftelijke overeenkomst, bedoeld in het zevende lid, onderdeel b of onderdeel c, over en toont hij de betaling van de commerciële prijs aan door het overleggen van de bewijzen van betaling.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Op de nabestaandenuitkering wordt inkomen in mindering gebracht.
 
@@ -354,17 +326,17 @@ Zo nodig in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. Voor een nabestaande die woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, wordt, in afwijking van het tweede lid, een bij ministeriële regeling vastgesteld percentage van het op grond van dat lid vastgestelde bedrag buiten aanmerking gelaten. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.
 
-##### Artikel 19
+#### Artikel 19
 
 1. De nabestaandenuitkering wordt bij wijziging van het inkomen herzien. Deze herziening gaat in op de eerste dag van de maand waarin die wijziging zich voordoet.
 
 2. Indien wijziging van andere omstandigheden dan wijziging van het inkomen leidt tot een lagere uitkering, gaat die herziening in met ingang van de eerste dag van de maand volgende op die waarin die wijziging zich voordoet. Indien dit leidt tot een hogere uitkering, gaat die herziening in op de dag, bedoeld in het eerste lid.
 
-##### Artikel 20
+#### Artikel 20
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld voor samenloop van uitkering ingevolge deze wet met uitkering aan nagelaten betrekkingen ingevolge de wetgeving van Aruba, Curaçao, Sint Maarten, de wetgeving van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba, van een andere mogendheid of van een volkenrechtelijke organisatie.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Indien in een pensioenregeling van een pensioenfonds of van een werkgever bepalingen zijn of worden opgenomen krachtens welke op enigerlei wijze geheel of gedeeltelijk met een uitkering ingevolge dit hoofdstuk rekening wordt gehouden, dient bij de toepassing van deze bepalingen in acht te worden genomen, dat een verhoging van de uitkering ingevolge deze wet als gevolg van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=6&artikel=29&z=2025-01-01&g=2025-01-01), welke plaatsvindt na ingang van een pensioen of na het verkrijgen van een recht op uitgesteld pensioen, buiten beschouwing blijft.
 
@@ -372,27 +344,27 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld voor samenloop v
 
 #### § 3. De halfwezenuitkering
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
-##### Artikel 23
+#### Artikel 23
 
 Vervallen
 
-##### Artikel 24
+#### Artikel 24
 
 Vervallen
 
 #### § 4. De hoogte van de halfwezenuitkering
 
-##### Artikel 25
+#### Artikel 25
 
 Vervallen
 
 #### § 5. De wezenuitkering
 
-##### Artikel 26. Recht op wezenuitkering
+#### Artikel 26. Recht op wezenuitkering
 
 1. Recht op een wezenuitkering heeft een kind dat door het overlijden van een verzekerde ouderloos is geworden, zolang het de leeftijd van 16 jaar nog niet heeft bereikt.
 
@@ -414,7 +386,7 @@ Vervallen
 
 6. Het niet voldoen aan de verplichtingen, bedoeld in het tweede lid, onderdeel a, blijkt uit een daartoe strekkende mededeling van het college van burgemeester en wethouders van de gemeente waar het kind woont.
 
-##### Artikel 27
+#### Artikel 27
 
 1. Geen recht op wezenuitkering bestaat, indien:
 
@@ -424,7 +396,7 @@ Vervallen
 
 2. Bij algemene maatregel van bestuur kunnen ten aanzien van de gevallen waarin de overledene op grond van de algemene maatregel van bestuur, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=2&artikel=13&z=2025-01-01&g=2025-01-01), of bij of krachtens een overeenkomst of een regeling inzake sociale zekerheid, die tussen Nederland en een of meer mogendheden van kracht is, ingevolge deze wet nimmer of nog geen jaar verzekerd is geweest, regels worden gesteld.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Het recht op wezenuitkering eindigt met ingang van de eerste dag van de maand volgend op die waarin niet langer aan de voorwaarden voor het verkrijgen van een wezenuitkering, bedoeld in [artikel 26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=5&artikel=26&z=2025-01-01&g=2025-01-01), wordt voldaan.
 
@@ -442,7 +414,7 @@ Vervallen
 
 #### § 6. De hoogte van de wezenuitkering
 
-##### Artikel 29
+#### Artikel 29
 
 1. De bruto-wezenuitkering is gelijk aan een percentage van het bruto-bedrag behorend bij de nabestaandenuitkering bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01).
 
@@ -458,13 +430,13 @@ Vervallen
 
 #### § 6a. Tegemoetkoming in aanvulling op de nabestaandenuitkering, de halfwezenuitkering en de wezenuitkering
 
-##### Artikel 30
+#### Artikel 30
 
 Recht op vakantie-uitkering over een maand heeft degene die over die maand recht heeft op een nabestaandenuitkering of op een wezenuitkering.
 
 #### § 7. De vakantie-uitkering
 
-##### Artikel 31
+#### Artikel 31
 
 1. De bruto-vakantie-uitkering over de nabestaandenuitkering, wordt zodanig vastgesteld, dat de netto-vakantie-uitkering over de nabestaandenuitkering gelijk is aan 70% van de netto-minimum-vakantiebijslag per maand.
 
@@ -472,7 +444,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 3. Voor de vaststelling van het in het tweede lid bedoelde percentage is [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=6&artikel=29&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-##### Artikel 32
+#### Artikel 32
 
 1. Indien de nabestaandenuitkering met toepassing van [artikel 17, tweede, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=18&z=2025-01-01&g=2025-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=8&artikel=67&z=2025-01-01&g=2025-01-01) of [70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=8&artikel=70&z=2025-01-01&g=2025-01-01), wordt verminderd dan wel anderszins op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 17, eerste lid, wordt op de vakantie-uitkering een evenredige vermindering toegepast dan wel de vakantie-uitkering evenredig verlaagd.
 
@@ -482,7 +454,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 #### § 8. De hoogte van de vakantie-uitkering
 
-##### Artikel 32a
+#### Artikel 32a
 
 1. Geen recht op nabestaandenuitkering ontstaat voor de nabestaande indien hij op de dag van het overlijden van de verzekerde niet in Nederland woont. Geen recht op wezenuitkering ontstaat voor het kind indien het op de dag van het overlijden van de verzekerde niet in Nederland woont.
 
@@ -504,7 +476,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 - c. de gezinsleden van de in de onderdelen a of b bedoelde nabestaande of het kind.
 
-##### Artikel 32b
+#### Artikel 32b
 
 1. Het recht op nabestaandenuitkering eindigt op de eerste dag dat de nabestaande niet in Nederland woont. Het recht op wezenuitkering eindigt op de eerste dag dat het kind niet in Nederland woont.
 
@@ -520,7 +492,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 #### § 9. Geen recht op nabestaandenuitkering en wezenuitkering buiten Nederland
 
-##### Artikel 32c
+#### Artikel 32c
 
 1. Geen recht op nabestaandenuitkering ontstaat voor de nabestaande indien hem op de dag van het overlijden van de verzekerde, dan wel op de dag na afloop van de toepassing van [artikel 32e](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=10&artikel=32e&z=2025-01-01&g=2025-01-01) met betrekking tot dat recht op uitkering, rechtens zijn vrijheid is ontnomen. Geen recht op wezenuitkering ontstaat voor het kind indien het op de dag van het overlijden van de verzekerde, dan wel op de dag na afloop van de toepassing van artikel 32e met betrekking tot dat recht op uitkering, rechtens zijn vrijheid is ontnomen.
 
@@ -532,7 +504,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 3. Het eerste lid is niet van toepassing en het tweede lid is van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.
 
-##### Artikel 32d
+#### Artikel 32d
 
 1. Het recht op nabestaandenuitkering eindigt, indien de nabestaande rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd. Het recht op wezenuitkering eindigt, indien het kind rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd.
 
@@ -550,7 +522,7 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 ### Afdeling II. Het geldend maken van het recht op uitkering
 
-##### Artikel 33
+#### Artikel 33
 
 1. De Sociale verzekeringsbank stelt op aanvraag vast of recht op nabestaanden- of wezenuitkering bestaat.
 
@@ -560,11 +532,11 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 4. Het recht op uitkering wordt niet vastgesteld over perioden gelegen voor één jaar voorafgaand aan de dag waarop de Sociale verzekeringsbank de aanvraag om uitkering heeft ontvangen. De Sociale verzekeringsbank is bevoegd in bijzondere gevallen af te wijken van de eerste volzin.
 
-##### Artikel 55
+#### Artikel 55
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.
 
-##### Artikel 34
+#### Artikel 34
 
 1. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van uitkering en terzake van weigering van uitkering, herziet de Sociale verzekeringsbank een dergelijk besluit of trekt zij dat in:
 
@@ -576,13 +548,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.
 
-##### Artikel 35
+#### Artikel 35
 
 1. De nabestaande, het ouderloos kind en zijn wettelijke vertegenwoordiger alsmede de instelling aan welke ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=49&z=2025-01-01&g=2025-01-01) of [57](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=57&z=2025-01-01&g=2025-01-01) de uitkering wordt uitbetaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt uitbetaald. De verplichting geldt niet indien die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
 2. Op verzoek van de Sociale verzekeringsbank legt de meerderjarige persoon die in dezelfde woning als de nabestaande zijn hoofdverblijf heeft, als bedoeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), desgevraagd alle gegevens en inlichtingen over die voor de beoordeling van de aanspraak op uitkering van belang kunnen zijn.
 
-##### Artikel 36
+#### Artikel 36
 
 1. De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
@@ -590,11 +562,11 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 3. De nabestaande, het ouderloos kind of zijn wettelijk vertegenwoordiger, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
-##### Artikel 37
+#### Artikel 37
 
 Voor de toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=5&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=11&z=2025-01-01&g=2025-01-01), [14, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), [26, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=5&artikel=26&z=2025-01-01&g=2025-01-01), dan wel om te bepalen of een gezamenlijke huishouding ten behoeve van de verzorging van een hulpbehoevende wordt gevoerd, onderwerpt de betrokken persoon zich op verzoek van de Sociale verzekeringsbank aan een geneeskundig onderzoek.
 
-##### Artikel 38
+#### Artikel 38
 
 1. De Sociale verzekeringsbank weigert de uitkering tijdelijk of blijvend, geheel of gedeeltelijk indien de nabestaande, het ouderloos kind, of zijn wettelijke vertegenwoordiger een verplichting op grond van [artikel 36, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=36&z=2025-01-01&g=2025-01-01), of [37](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=37&z=2025-01-01&g=2025-01-01) opgelegd, of de verplichtingen, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=35&z=2025-01-01&g=2025-01-01), niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.
 
@@ -608,7 +580,7 @@ Voor de toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/j
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
 
-##### Artikel 39
+#### Artikel 39
 
 1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de nabestaande, het ouderloos kind, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=35&z=2025-01-01&g=2025-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 35, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 35, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
@@ -634,27 +606,27 @@ Voor de toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/j
 
 12. Het besluit tot kwijtschelding, bedoeld in het elfde lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding wegens eenzelfde gedraging is begaan.
 
-##### Artikel 40
+#### Artikel 40
 
 Vervallen
 
-##### Artikel 41
+#### Artikel 41
 
 Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarvoor uitstel van betaling van de bestuurlijke boete kan worden verleend alsmede omtrent de hoogte van het op grond van [artikel 45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=45&z=2025-01-01&g=2025-01-01), te verrekenen bedrag en de termijn of termijnen waarbinnen deze verrekening plaatsvindt.
 
-##### Artikel 42
+#### Artikel 42
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 Vervallen
 
-##### Artikel 44
+#### Artikel 44
 
 Vervallen
 
-##### Artikel 45
+#### Artikel 45
 
 1. De Sociale verzekeringsbank verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=39&z=2025-01-01&g=2025-01-01), met een uitkering op grond van deze wet, kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), die degene aan wie een bestuurlijke boete is opgelegd, ontvangt.
 
@@ -672,7 +644,7 @@ Vervallen
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 46
+#### Artikel 46
 
 1. De Sociale verzekeringsbank betaalt de uitkering waarop op grond van deze wet recht bestaat.
 
@@ -688,13 +660,13 @@ Vervallen
 
 4. De Sociale verzekeringsbank stelt de betrokken persoon of instelling onverwijld schriftelijk in kennis van de beslissing bedoeld in het derde lid.
 
-##### Artikel 46a
+#### Artikel 46a
 
 1. De Sociale verzekeringsbank schort de betaling van de uitkering op indien degene aan wie een uitkering is toegekend een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. De betaling van de uitkering wordt hervat indien betrokkene daartoe een aanvraag indient en het de Bank is gebleken dat hij feitelijk buiten Nederland woont of verblijf houdt.
 
-##### Artikel 46b
+#### Artikel 46b
 
 1. De Sociale verzekeringsbank schort de betaling van de uitkering op, indien blijkt dat het door de nabestaande verstrekte adres van hemzelf of van een kind afwijkt van het adres waaronder de betrokkene in de basisregistratie personen staat ingeschreven.
 
@@ -708,27 +680,27 @@ Vervallen
 
 4. De opschorting wordt beëindigd zodra het aan de Sociale verzekeringsbank gebleken is dat de afwijking niet meer bestaat.
 
-##### Artikel 47
+#### Artikel 47
 
 Voor zover bij of krachtens deze wet niet anders is bepaald, wordt een voorschot op de nog niet vastgestelde uitkering beschouwd als een uitkering op grond van deze wet.
 
-##### Artikel 48
+#### Artikel 48
 
 Indien de uitkering in het buitenland wordt uitbetaald, geschiedt de betaling in afwijking van [artikel 4:89, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89) op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd.
 
-##### Artikel 49
+#### Artikel 49
 
 1. De Sociale verzekeringsbank is bevoegd, voor zover nodig na ingewonnen advies van het Landelijk Bureau Inning Onderhoudsbijdragen, de wezenuitkering betaalbaar te stellen aan een ander dan de wettelijke vertegenwoordiger van het kind.
 
 2. Indien de rechthebbende of diens wettelijke vertegenwoordiger nalaat een aanvraag om wezenuitkering in te dienen, kan deze aanvraag geschieden door het Landelijk Bureau Inning Onderhoudsbijdragen, dat tevens adviseert aan wie de wezenuitkering betaalbaar kan worden gesteld.
 
-##### Artikel 50
+#### Artikel 50
 
 1. De Sociale verzekeringsbank betaalt, voor zover niet reeds betaald, de vakantie-uitkering in afwijking van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=46&z=2025-01-01&g=2025-01-01) jaarlijks in de maand mei over de aan die maand voorafgaande maanden, of indien het recht op uitkering eerder dan in de maand mei eindigt, in de desbetreffende maand, tenzij aansluitend aan het recht op uitkering op grond van deze wet recht op uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontstaat.
 
 2. Bij ministeriële regeling worden nadere regels gesteld voor de betaling van de vakantie-uitkering.
 
-##### Artikel 51
+#### Artikel 51
 
 1. Na het overlijden van degene aan wie nabestaandenuitkering is toegekend, wordt met ingang van de dag na overlijden nabestaandenuitkering in de vorm van een overlijdensuitkering uitbetaald:
 
@@ -746,11 +718,11 @@ Indien de uitkering in het buitenland wordt uitbetaald, geschiedt de betaling in
 
 6. De overlijdensuitkering is niet vatbaar voor beslag.
 
-##### Artikel 52
+#### Artikel 52
 
 Een uitkering op grond van deze wet die niet in ontvangst is genomen of is ingevorderd binnen twee jaar na de dag van betaalbaarstelling, wordt niet meer betaald.
 
-##### Artikel 53
+#### Artikel 53
 
 1. De uitkering op grond van deze wet die als gevolg van een besluit als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=34&z=2025-01-01&g=2025-01-01) onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door de Sociale verzekeringsbank van de nabestaande of het ouderloos kind of zijn wettelijke vertegenwoordiger, of de instelling aan welke ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=49&z=2025-01-01&g=2025-01-01) of 57 de uitkering wordt uitbetaald, teruggevorderd.
 
@@ -778,23 +750,23 @@ Een uitkering op grond van deze wet die niet in ontvangst is genomen of is ingev
 
 7. In afwijking van het eerste lid kan de Sociale verzekeringsbank, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.
 
-##### Artikel 54
+#### Artikel 54
 
 1. De Sociale verzekeringsbank kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=53&z=2025-01-01&g=2025-01-01), invorderen bij dwangbevel.
 
 2. [Artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=45&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) niet te boven is gegaan, de Sociale verzekeringsbank de aflossingsbedragen lager vaststelt.
 
-##### Artikel 55
+#### Artikel 55
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot [artikel 53, eerste, tweede, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=53&z=2006-03-08&g=2006-03-08), en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=54&z=2006-03-08&g=2006-03-08).
 
-##### Artikel 56
+#### Artikel 56
 
 1. Voor het in ontvangst nemen en het verlenen van kwijting voor de betaling van de uitkering wordt een minderjarige met een meerderjarige gelijkgesteld.
 
 2. Indien de wettelijke vertegenwoordiger van de minderjarige zich schriftelijk bij de Sociale verzekeringsbank verzet tegen betaling aan de minderjarige wordt de uitkering aan de wettelijke vertegenwoordiger betaald.
 
-##### Artikel 57
+#### Artikel 57
 
 1. Indien degene, aan wie uitkering op grond van deze wet is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en de Sociale verzekeringsbank van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de uitkering aan die inrichting of die gemeente uit te betalen, is de Sociale verzekeringsbank bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.
 
@@ -806,11 +778,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 5. Een herziening van een uitkering op grond van het tweede en derde lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
-##### Artikel 58
+#### Artikel 58
 
 Vervallen
 
-##### Artikel 59
+#### Artikel 59
 
 1. De uitkering is
 
@@ -824,27 +796,27 @@ Vervallen
 
 ### Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 
-##### Artikel 60
+#### Artikel 60
 
 Bij de vaststelling van de schadevergoeding, waarop de nabestaande en ouderloos geworden kinderen van de verzekerde naar burgerlijk recht aanspraak kunnen maken ter zake van het overlijden van de verzekerde, houdt de rechter rekening met de aanspraken op uitkeringen, die de nabestaande en het ouderloos kind op grond van deze wet hebben.
 
-##### Artikel 61
+#### Artikel 61
 
 1. De Sociale verzekeringsbank heeft voor de krachtens deze wet gemaakte kosten verhaal op degene, die in verband met het veroorzaken van het overlijden van de verzekerde, jegens diens nabestaande en ouderloos geworden kinderen naar burgerlijk recht tot schadevergoeding is verplicht, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken op grond van deze wet naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijk persoon jegens de nabestaande en ouderloos geworden kinderen naar burgerlijk recht is gehouden.
 
 2. De Sociale verzekeringsbank kan in plaats van het bedrag der periodieke verstrekkingen de contante waarde daarvan vorderen in de vorm van een jaarlijks vast te stellen afkoopsom die aan de Sociale verzekeringsbank wordt vergoed voor de totale schadelast ten gevolge van het veroorzaken van overlijden.
 
-##### Artikel 33a
+#### Artikel 33a
 
 Vervallen
 
 ### Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 
-##### Artikel 63
+#### Artikel 63
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen verzekerde: degene, wiens verplichte verzekering is geëindigd.
 
-##### Artikel 63a
+#### Artikel 63a
 
 1. De gewezen verzekerde kan zich vrijwillig verzekeren over een periode van tien jaar, met ingang van de dag na de dag waarop de verplichte verzekering is geëindigd. De eerste zin is alleen van toepassing indien de gewezen verzekerde direct voorafgaande aan de periode van vrijwillige verzekering ten minste een jaar verplicht verzekerd is geweest.
 
@@ -888,13 +860,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van dit artikel nadere regels worden gesteld.
 
-##### Artikel 63b
+#### Artikel 63b
 
 1. De gewezen verzekerde die van de vrijwillige verzekering, bedoeld in [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=5&artikel=63a&z=2025-01-01&g=2025-01-01), gebruik wil maken, is verplicht uiterlijk een jaar na de dag, waarop de verzekering is geëindigd, een aanvraag daartoe in te dienen bij de Sociale verzekeringsbank.
 
 2. De aanvraag wordt afgewezen indien de gewezen verzekerde niet voldoet aan de bij of krachtens dit hoofdstuk gestelde voorwaarden.
 
-##### Artikel 63c
+#### Artikel 63c
 
 1. De vrijwillige verzekering, bedoeld in [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=5&artikel=63a&z=2025-01-01&g=2025-01-01), eindigt:
 
@@ -908,7 +880,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder gewezen
 
 - e. met ingang van de dag volgend op de laatste dag van een door de Sociale verzekeringsbank gestelde termijn waarbinnen de gewezen verzekerde de van hem, in verband met de toepassing van dit hoofdstuk, verlangde inlichtingen dient te verstrekken, indien de gewezen verzekerde die gegevens niet heeft verstrekt, tenzij de gewezen verzekerde aannemelijk maakt dat dat hem niet in overwegende mate kan worden verweten.
 
-##### Artikel 63d
+#### Artikel 63d
 
 1. De [artikelen 63 tot en met 63c](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=5&artikel=63&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing op:
 
@@ -922,13 +894,13 @@ met dien verstande dat voor de toepassing van [artikel 63b, eerste lid](https://
 
 ### Hoofdstuk 5a. Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 
-##### Artikel 64
+#### Artikel 64
 
 Vervallen
 
 ### Hoofdstuk 5. De vrijwillige verzekering
 
-##### Artikel 64a
+#### Artikel 64a
 
 1. Een beschikking op grond van deze wet en de daarop berustende bepalingen wordt gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
 
@@ -936,11 +908,11 @@ Vervallen
 
 3. Indien een beschikking niet binnen de termijn van acht weken kan worden gegeven, wordt die termijn met een redelijke termijn verlengd en wordt de aanvrager daarvan schriftelijk in kennis gesteld.
 
-##### Artikel 65
+#### Artikel 65
 
 In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
-##### Artikel 66
+#### Artikel 66
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen terzake van schending of verkeerde toepassing van de [artikelen 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=3&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=7&z=2025-01-01&g=2025-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=2&artikel=13&z=2025-01-01&g=2025-01-01) en de op die artikelen berustende bepalingen.
 
@@ -948,7 +920,7 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](h
 
 ### Hoofdstuk 6. Vrijstelling wegens gemoedsbezwaren
 
-##### Artikel 66a
+#### Artikel 66a
 
 1. Een persoon, wiens echtgenoot overlijdt binnen drie jaar na inwerkingtreding van deze wet, wordt aangemerkt als rechthebbende op een nabestaandenuitkering.
 
@@ -964,7 +936,7 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](h
 
 4. Bij of krachtens algemene maatregel van bestuur worden in afwijking van het eerste lid regels gesteld waarbij een persoon die voldoet aan die regels alsmede aan het tweede lid, doch wiens echtgenoot overlijdt op of na de dag gelegen drie jaar na de dag van inwerkingtreding van deze wet, wordt aangemerkt als rechthebbende op een nabestaandenuitkering. Deze regels hebben in elk geval betrekking op de periode waarbinnen en de voorwaarden waaronder een aanvraag om als zodanig te worden aangemerkt bij de Sociale verzekeringsbank moet worden ingediend en op de hoogte van een daartoe verschuldigde bijdrage. Daarnaast hebben deze regels betrekking op de door de Sociale verzekeringsbank verschuldigde vergoeding aan derden in verband met door hen gemaakte kosten ten behoeve van de uitvoering van de in de eerste zin bedoelde algemene maatregel van bestuur.
 
-##### Artikel 67
+#### Artikel 67
 
 1. Tot de dag met ingang waarvan hij een nieuw recht heeft op nabestaandenuitkering op grond van deze wet heeft de persoon die op de dag voorafgaand aan de inwerkingtreding van deze wet recht had op een uitkering op grond van artikel 8 van de Algemene Weduwen- en Wezenwet overeenkomstig de bepalingen van deze wet recht op een nabestaandenuitkering, met dien verstande dat:
 
@@ -998,7 +970,7 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](h
 
 9. De nabestaandenuitkering bedraagt voor de nabestaande een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste tot en met het achtste lid vastgestelde bedrag indien de nabestaande woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100. Bij de toepassing van de eerste zin blijft [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), buiten toepassing.
 
-##### Artikel 68
+#### Artikel 68
 
 1. [Hoofdstuk 3, afdeling I, paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=9&z=2025-01-01&g=2025-01-01), is niet van toepassing op de persoon die:
 
@@ -1008,15 +980,15 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](h
 
 2. Het eerste lid blijft van toepassing zolang deze persoon blijft wonen in hetzelfde land als het land waar hij op 19 december 2005 woonde en blijft voldoen aan de overige voorwaarden voor het recht op nabestaandenuitkering dan wel wezenuitkering.
 
-##### Artikel 69
+#### Artikel 69
 
 Vervallen
 
-##### Artikel 70
+#### Artikel 70
 
 Vervallen
 
-##### Artikel 71
+#### Artikel 71
 
 1. Degene, die op de dag voor de inwerkingtreding van deze wet recht had op een wezenpensioen op grond van de Algemene Weduwen- en Wezenwet, heeft overeenkomstig de bepalingen in deze wet recht op een wezenuitkering.
 
@@ -1028,137 +1000,137 @@ Vervallen
 
 5. In afwijking van het derde lid eindigt de wezenuitkering van de aldaar bedoelde persoon niet zolang de persoon die gezamenlijke huishouding voert met een hulpbehoevende en indien de persoon of de overleden verzekerde een huishouding is gaan voeren met het doel de hulpbehoevende te gaan verzorgen.
 
-##### Artikel 72
+#### Artikel 72
 
 De [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=5&z=2025-01-01&g=2025-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=9&z=2025-01-01&g=2025-01-01), zoals deze luidden, op de dag voorafgaande aan de inwerkingtreding van artikel XII, onderdelen A en B, van de Wet van 12 maart 2014 tot aanpassing van wetgeving en vaststelling van overgangsrecht in verband met de herziening van de maatregelen van kinderbescherming, Stb. 2014, 131, blijven van toepassing op de personen op wie deze artikelen werden toegepast op de dag voor inwerkingtreding van die wet.
 
-##### Artikel 73
+#### Artikel 73
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt een tijdvak van verzekering op grond van de Algemene Weduwen- en Wezenwet mede aangemerkt als een tijdvak van verzekering op grond van deze wet.
 
-##### Artikel 74
+#### Artikel 74
 
 Vervallen
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-##### Artikel 75
+#### Artikel 75
 
 Vervallen
 
-##### Artikel 76
+#### Artikel 76
 
 Vervallen
 
-##### Artikel 77
+#### Artikel 77
 
 Een gedraging die in strijd is met een krachtens deze wet uitgevaardigde algemene maatregel van bestuur, voor zover uitdrukkelijk als strafbaar feit in de zin van dit artikel aangeduid, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie. Het feit wordt beschouwd als een overtreding.
 
-##### Artikel 78
+#### Artikel 78
 
 Vervallen
 
-##### Artikel 79
+#### Artikel 79
 
 Vervallen
 
 ### Hoofdstuk 10. Wijziging van andere wetten
 
-##### Artikel 80
+#### Artikel 80
 
 Wijzigt de Organisatiewet sociale verzekeringen.
 
-##### Artikel 81
+#### Artikel 81
 
 Wijzigt de Wet financiering volksverzekeringen.
 
-##### Artikel 82
+#### Artikel 82
 
 Wijzigt de Wet aanpassing uitkeringsregelingen overheveling opslagpremies.
 
-##### Artikel 83
+#### Artikel 83
 
 Wijzigt de Wet overhevelingstoeslag opslagpremies.
 
-##### Artikel 84
+#### Artikel 84
 
 Wijzigt de Algemene Arbeidsongeschiktheidswet.
 
-##### Artikel 85
+#### Artikel 85
 
 Wijzigt de Wet buitengewoon pensioen 1940-1945 .
 
-##### Artikel 86
+#### Artikel 86
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
-##### Artikel 87
+#### Artikel 87
 
 Wijzigt de Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers 1940-1945.
 
-##### Artikel 88
+#### Artikel 88
 
 Wijzigt de Wet buitengewoon pensoen Indisch verzet.
 
-##### Artikel 89
+#### Artikel 89
 
 Wijzigt de Ziekenfondswet.
 
-##### Artikel 90
+#### Artikel 90
 
 Wijzigt de Wet op de toegang tot ziektekostenverzekeringen.
 
-##### Artikel 91
+#### Artikel 91
 
 Wijzigt het Wetboek van Koophandel.
 
-##### Artikel 92
+#### Artikel 92
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-##### Artikel 93
+#### Artikel 93
 
 Wijzigt de Successiewet 1956.
 
-##### Artikel 94
+#### Artikel 94
 
 Wijzigt Boek 6 van het Burgerlijk Wetboek.
 
-##### Artikel 95
+#### Artikel 95
 
 Wijzigt de Werkloosheidswet, Ziektewet, Wet op de arbeidsongeschiktheidsverzekering, Algemene Arbeidsongeschiktheidswet, Toeslagenwet, Algemene Kinderbijslagwet, Algemene bijstandswet, Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-##### Artikel 96
+#### Artikel 96
 
 Wijzigt deze wet, de Wet financiering volksverzekeringen.
 
-##### Artikel 97
+#### Artikel 97
 
 Wijzigt deze wet.
 
-##### Artikel 98
+#### Artikel 98
 
 Wijzigt de Algemene bijstandswet.
 
-##### Artikel 99
+#### Artikel 99
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-##### Artikel 100
+#### Artikel 100
 
 Wijzigt de Beroepswet.
 
-##### Artikel 101
+#### Artikel 101
 
 Wijzigt deze wet.
 
-##### Artikel 102
+#### Artikel 102
 
 Wijzigt deze wet.
 
 ### Hoofdstuk 11. Paraplubepaling voor de aanvullende pensioenen
 
-##### Artikel 103
+#### Artikel 103
 
 1. De inwerkingtreding van deze wet leidt tot 1 januari 2000 niet tot wijziging van de in guldens uitgedrukte aanspraken, rechten en verplichtingen zoals die voor degenen die betrokken zijn bij een pensioenregeling van een pensioenfonds of van een werkgever luidden op de dag voor de datum van die inwerkingtreding.
 
@@ -1168,31 +1140,31 @@ Wijzigt deze wet.
 
 ### Hoofdstuk 11. Paraplubepaling voor de aanvullende pensioenen
 
-##### Artikel 104
+#### Artikel 104
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-##### Artikel 105
+#### Artikel 105
 
 1. De Algemene Weduwen- en Wezenwet wordt ingetrokken.
 
 2. De Algemene Weduwen- en Wezenwet en de daarop berustende bepalingen blijven van toepassing op de rechten, verplichtingen en bevoegdheden over de tijdvakken gelegen voor de dag waarop deze wet in werking treedt, voor zover in deze wet niet anders is bepaald.
 
-##### Artikel 106
+#### Artikel 106
 
 Na de inwerkingtreding van deze wet berust de ministeriële regeling op grond van artikel 4 van de Algemene Weduwen- en Wezenwet op [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=8&z=2025-01-01&g=2025-01-01) van deze wet.
 
-##### Artikel 107
+#### Artikel 107
 
 Deze wet treedt in werking op een bij of krachtens koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 108
+#### Artikel 108
 
 Deze wet wordt aangehaald als: Algemene nabestaandenwet.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 64b
+#### Artikel 64b
 
 Vervallen
 
@@ -1222,7 +1194,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 63e
+#### Artikel 63e
 
 Vervallen
 
@@ -1250,7 +1222,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 56
+#### Artikel 56
 
 1. Voor het in ontvangst nemen en het verlenen van kwijting voor de betaling van de uitkering wordt een minderjarige met een meerderjarige gelijkgesteld.
 
@@ -1272,7 +1244,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 29a
+#### Artikel 29a
 
 1. Degene die een nabestaandenuitkering ontvangt, heeft tevens recht op een tegemoetkoming.
 
@@ -1298,7 +1270,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 57
+#### Artikel 57
 
 1. Indien degene, aan wie uitkering op grond van deze wet is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en de Sociale verzekeringsbank van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de uitkering aan die inrichting of die gemeente uit te betalen, is de Sociale verzekeringsbank bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.
 
@@ -1322,7 +1294,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 55a
+#### Artikel 55a
 
 1. In afwijking van [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=53&z=2025-01-01&g=2025-01-01), kan de Sociale verzekeringsbank, op verzoek van de nabestaande of het ouderloos kind of zijn wettelijke vertegenwoordiger, of de instelling aan welke ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=49&z=2025-01-01&g=2025-01-01) of [57](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=57&z=2025-01-01&g=2025-01-01) de uitkering wordt uitbetaald, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien door medewerking aan een schuldregeling, indien:
 
@@ -1348,11 +1320,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de bevoegdheid om mee te werken aan schuldregelingen.
 
-##### Artikel 55b
+#### Artikel 55b
 
 Een vordering van de Sociale verzekeringsbank als bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=53&z=2025-01-01&g=2025-01-01) en [55a](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=III&artikel=55a&z=2025-01-01&g=2025-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
-##### Artikel 57
+#### Artikel 57
 
 1. Indien degene, aan wie uitkering op grond van deze wet is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en de Sociale verzekeringsbank van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de uitkering aan die inrichting of die gemeente uit te betalen, is de Sociale verzekeringsbank bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.
 
@@ -1372,7 +1344,7 @@ Een vordering van de Sociale verzekeringsbank als bedoeld in de [artikelen 53](h
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 26a. Overgangsbepaling wezenuitkering kind van 16 jaar en ouder
+#### Artikel 26a. Overgangsbepaling wezenuitkering kind van 16 jaar en ouder
 
 Vervallen
 
@@ -1384,7 +1356,7 @@ Vervallen
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 58
+#### Artikel 58
 
 Vervallen
 
@@ -1400,11 +1372,11 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 32e
+#### Artikel 32e
 
 Geen recht op nabestaandenuitkering ontstaat voor de nabestaande indien en voor zolang hij zich op de dag van het overlijden van de verzekerde en daarna onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel. Geen recht op wezenuitkering ontstaat voor het kind indien en voor zolang het zich op de dag van het overlijden van de verzekerde en daarna onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel.
 
-##### Artikel 32f
+#### Artikel 32f
 
 1. Het recht op nabestaandenuitkering eindigt, indien de nabestaande zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel. Het recht op wezenuitkering eindigt indien het kind zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel.
 
@@ -1420,11 +1392,11 @@ Geen recht op nabestaandenuitkering ontstaat voor de nabestaande indien en voor 
 
 ### Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 
-##### Artikel 60
+#### Artikel 60
 
 Bij de vaststelling van de schadevergoeding, waarop de nabestaande en ouderloos geworden kinderen van de verzekerde naar burgerlijk recht aanspraak kunnen maken ter zake van het overlijden van de verzekerde, houdt de rechter rekening met de aanspraken op uitkeringen, die de nabestaande en het ouderloos kind op grond van deze wet hebben.
 
-##### Artikel 74*
+#### Artikel 74*
 
 1. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=10&z=2012-07-01&g=2012-07-01), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=20&z=2012-07-01&g=2012-07-01) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334), blijven van toepassing op de persoon op wie deze artikelen en de daarop berustende bepalingen werden toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.
 
@@ -1438,11 +1410,11 @@ Bij de vaststelling van de schadevergoeding, waarop de nabestaande en ouderloos 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 68a
+#### Artikel 68a
 
 [Hoofdstuk 3, afdeling I, paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=9&z=2025-01-01&g=2025-01-01), is niet van toepassing op de persoon op wie die paragraaf als gevolg van de opzegging van een verdrag, beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als het land waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op nabestaandenuitkering dan wel wezenuitkering.
 
-##### Artikel 74*
+#### Artikel 74*
 
 1. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=1&artikel=10&z=2012-12-28&g=2012-12-28), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=18&z=2012-12-28&g=2012-12-28), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=I&paragraaf=2&artikel=20&z=2012-12-28&g=2012-12-28) en de daarop berustende bepalingen, zoals deze luidden op de dag voor inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334), blijven van toepassing op de persoon op wie deze artikelen en de daarop berustende bepalingen werden toegepast op de dag voor inwerkingtreding van die wet, voor zolang de toepassing duurt, doch ten hoogste gedurende twee jaar na de dag waarop die wet in werking is getreden.
 
@@ -1458,7 +1430,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 35a
+#### Artikel 35a
 
 In aanvulling op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=35&z=2025-01-01&g=2025-01-01) kan de Sociale verzekeringsbank de nabestaande dan wel zijn wettelijke vertegenwoordiger respectievelijk het ouderloos kind dan wel zijn wettelijke vertegenwoordiger verzoeken aan te tonen dat:
 
@@ -1472,13 +1444,13 @@ Teneinde hem daartoe in de gelegenheid te stellen kan de Sociale verzekeringsban
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 60
+#### Artikel 60
 
 Bij de vaststelling van de schadevergoeding, waarop de nabestaande en ouderloos geworden kinderen van de verzekerde naar burgerlijk recht aanspraak kunnen maken ter zake van het overlijden van de verzekerde, houdt de rechter rekening met de aanspraken op uitkeringen, die de nabestaande en het ouderloos kind op grond van deze wet hebben.
 
 ### Hoofdstuk 7. Bepalingen in verband met de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het beroep in cassatie
 
-##### Artikel 74*
+#### Artikel 74*
 
 Vervallen
 
@@ -1488,17 +1460,17 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 45a
+#### Artikel 45a
 
 Vervallen
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 60
+#### Artikel 60
 
 Bij de vaststelling van de schadevergoeding, waarop de nabestaande en ouderloos geworden kinderen van de verzekerde naar burgerlijk recht aanspraak kunnen maken ter zake van het overlijden van de verzekerde, houdt de rechter rekening met de aanspraken op uitkeringen, die de nabestaande en het ouderloos kind op grond van deze wet hebben.
 
-##### Artikel 74*
+#### Artikel 74*
 
 Vervallen
 
@@ -1508,7 +1480,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 32g
+#### Artikel 32g
 
 1. Geen recht op nabestaandenuitkering ontstaat voor de nabestaande indien hij op de dag van het overlijden van de verzekerde een uitreiziger is. Geen recht op wezenuitkering ontstaat voor het kind indien het op de dag van het overlijden van de verzekerde een uitreiziger is.
 
@@ -1520,7 +1492,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Voor het tweede lid is [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=3&afdeling=II&artikel=33&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-##### Artikel 32h
+#### Artikel 32h
 
 1. Het recht op nabestaandenuitkering eindigt, indien de nabestaande, nadat het recht op nabestaandenuitkering is ingegaan, een uitreiziger is. Het recht op wezenuitkering eindigt indien het kind, nadat het recht op wezenuitkering is ingegaan, een uitreiziger is.
 
@@ -1536,7 +1508,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling III. De betaling van de uitkering
 
-##### Artikel 62
+#### Artikel 62
 
 1. Indien de verzekerde bij zijn overlijden in dienstbetrekking werkzaam was, geldt [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&hoofdstuk=4&artikel=61&z=2025-01-01&g=2025-01-01), ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte persoon, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wiens nabestaande en ouderloos geworden kinderen naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien het overlijden van de verzekerde is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk persoon.
 
@@ -1544,7 +1516,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 7. Bepalingen in verband met de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het beroep in cassatie
 
-##### Artikel 74*
+#### Artikel 74*
 
 Vervallen
 

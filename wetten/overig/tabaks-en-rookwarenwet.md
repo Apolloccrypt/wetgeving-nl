@@ -1,39 +1,14 @@
 ---
-title: "Wet van 10 maart 1988, houdende maatregelen ter beperking van het tabaksgebruik, in het bijzonder ter bescherming van de niet-roker"
+title: "Tabaks- en rookwarenwet"
 identifier: "BWBR0004302"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-12"
-last_updated: "2025-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004302"
-soort: "wet"
-stam_id: "2715153"
-version_id: "26728682"
-internal_id: "C38246461"
-label_id: "2661414"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004302/2025-07-12/0"
-intitule_bron: "Stb.1988-342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-03-10"
-intitule_status: "goed"
-original_publication: "Stb.2020-150"
-original_signed_date: "2020-04-08"
-original_published_date: "2020-05-25"
-original_effect: "structuurwijziging"
-original_dossier: "35356"
-original_url_id: "stb-2020-150"
-entry_into_force_date: "2020-10-01"
-jci_1_3: "jci1.3:c:BWBR0004302&z=2025-07-12&g=2025-07-12"
-jci_1_0: "1.0:c:BWBR0004302&g=2025-07-12"
-citeertitel_status: "officieel"
-short_title: "Tabaks- en rookwarenwet"
-signed_date: "2020-04-08"
-entry_into_force: "2020-10-01"
+categorie: "Overig"
+publicatiedatum: 2025-07-12
+laatste_update: 2025-07-12
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0004302"
 ---
-# Wet van 10 maart 1988, houdende maatregelen ter beperking van het tabaksgebruik, in het bijzonder ter bescherming van de niet-roker
+
+# Tabaks- en rookwarenwet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -43,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Begripsbepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -177,7 +152,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Aanduiding, samenstelling, verbod en informatieverstrekking tabaksproducten en aanverwante producten
 
-##### Artikel 2
+#### Artikel 2
 
 1. Bij of krachtens algemene maatregel van bestuur worden in het belang van de volksgezondheid eisen gesteld aan tabaksproducten, elektronische dampwaar, nicotinehoudende vloeistof en niet-nicotinehoudende vloeistof. De eisen kunnen betrekking hebben op:
 
@@ -229,23 +204,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 10. Bij algemene maatregel van bestuur kunnen methoden van onderzoek worden aangewezen die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een product al dan niet aan de daaraan krachtens het eerste, achtste of negende lid gestelde eisen is voldaan.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Het is verboden om nicotinehoudende vloeistof, niet-nicotinehoudende vloeistof, tabaksproducten en aanverwante producten in de handel te brengen, indien die producten niet aan de krachtens [artikel 2, eerste, tweede en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2025-07-12&g=2025-07-12), gestelde eisen voldoen.
 
 2. Het is verboden om nieuwe of gewijzigde tabaksproducten en aanverwante producten, met uitzondering van elektronische verhittingsapparaten en nicotineproducten zonder tabak, in de handel te brengen indien ten aanzien van deze producten niet is voldaan aan de eisen gesteld bij of krachtens [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2025-07-12&g=2025-07-12).
 
-##### Artikel 3a
+#### Artikel 3a
 
 Het is verboden tabak voor oraal gebruik of nicotineproducten zonder tabak voor oraal gebruik in de handel te brengen.
 
 #### § 3. Reclame- en sponsoringbeperkingen
 
-##### Artikel 4
+#### Artikel 4
 
 In het bij of krachtens deze paragraaf bepaalde wordt onder de begrippen die gedefinieerd worden in artikel 2 van de gedelegeerde verordening gegevensopslagcontracten, artikel 2 van het uitvoeringsbesluit veiligheidskenmerk en artikel 2 van de uitvoeringsverordening traceringssysteem verstaan hetgeen daaronder wordt begrepen in de genoemde artikelen van deze Europese rechtshandelingen.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Elke vorm van reclame of sponsoring is verboden.
 
@@ -273,11 +248,11 @@ In het bij of krachtens deze paragraaf bepaalde wordt onder de begrippen die ged
 
 9. Dit artikel is tevens van toepassing op nicotineproducten zonder tabak voor oraal gebruik.
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 1. Het is verboden in de instellingen, diensten en bedrijven, die door de Staat of andere openbare lichamen worden beheerd, bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten aan particulieren te verstrekken of met dat doel aanwezig te hebben. Het verbod geldt niet in bij algemene maatregel van bestuur aangewezen gevallen.
 
@@ -285,7 +260,7 @@ Vervallen
 
 3. Het is verboden in bij algemene maatregel van bestuur aangewezen categorieën van bedrijven en organisaties bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten aan particulieren te verstrekken of met dat doel aanwezig te hebben.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Het is verboden bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt. Onder verstrekken wordt eveneens begrepen het verstrekken van een tabaksproduct of aanverwant product aan een persoon van wie is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, welk tabaksproduct of aanverwant product echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.
 
@@ -295,7 +270,7 @@ Vervallen
 
 #### § 4. Verstrekking aan particulieren
 
-##### Artikel 9
+#### Artikel 9
 
 1. Het is verboden bedrijfsmatig tabaksproducten of aanverwante producten gratis aan particulieren uit te reiken, toe te zenden of op enigerlei andere wijze beschikbaar te stellen.
 
@@ -305,7 +280,7 @@ Vervallen
 
 #### § 5. Bepalingen ten aanzien van het gebruik van tabaksprodukten
 
-##### Artikel 10
+#### Artikel 10
 
 1. In de navolgende gevallen is de navolgende persoon of het navolgende orgaan verplicht tot het instellen, aanduiden en handhaven van een rookverbod:
 
@@ -339,7 +314,7 @@ Daarbij kunnen nadere regels worden gesteld.
 
 4. Tot het treffen van de krachtens het tweede lid gestelde maatregelen zijn verplicht de bij die algemene maatregel van bestuur aangewezen personen of organen.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Producenten, importeurs en exporteurs van tabak, tabaksproducten en tabaksproductieapparaten als bedoeld in [artikel 90a, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90a), nemen voorafgaand aan en bij het onderhouden van zakelijke relaties voldoende zorgvuldigheid in acht door hun klanten te identificeren als bedoeld in artikel 7, tweede lid, van het Protocol.
 
@@ -351,11 +326,11 @@ Daarbij kunnen nadere regels worden gesteld.
 
 #### § 4. Verkoopbeperkingen
 
-##### Artikel 12
+#### Artikel 12
 
 De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2025-07-12&g=2025-07-12), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2025-07-12&g=2025-07-12), [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2025-07-12&g=2025-07-12), [artikel 9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2025-07-12&g=2025-07-12), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2025-07-12&g=2025-07-12), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
-##### Artikel 13
+#### Artikel 13
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet en bindende EU-rechtshandelingen die bij of krachtens deze wet zijn geïmplementeerd zijn belast de bij besluit van Onze Minister aangewezen ambtenaren of andere personen.
 
@@ -363,29 +338,29 @@ De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, twee
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-##### Artikel 14
+#### Artikel 14
 
 Onze Minister is bevoegd om in het belang van de volksgezondheid en de veiligheid van personen, een last onder bestuursdwang op te leggen ter handhaving van de regels gesteld bij of krachtens deze wet en artikel 7 van de markttoezichtverordening.
 
-##### Artikel 15
+#### Artikel 15
 
 1. Van elke krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) onderzochte zaak wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd.
 
 2. De in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=13&z=2025-07-12&g=2025-07-12) bedoelde ambtenaren beschikken over de bevoegdheid, bedoeld in artikel 7, tweede lid, van het uitvoeringsbesluit veiligheidskenmerk en zijn bevoegd uitvoering te geven aan artikel 7, derde lid, van dat uitvoeringsbesluit.
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
-##### Artikel 17
+#### Artikel 17
 
 De in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=13&z=2025-07-12&g=2025-07-12) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, voor zover dit binnentreden beperkt blijft tot het zich begeven naar en het betreden van de in de woning aanwezige bedrijfsruimten.
 
-##### Artikel 18
+#### Artikel 18
 
 In het belang van de volksgezondheid kunnen voorts bij algemene maatregel van bestuur regels worden gesteld ter uitvoering van een bindende regeling inzake tabaksproducten en aanverwante producten, die krachtens het [Verdrag tot oprichting van de Europese Gemeenschap](onbekend) tot stand is gekomen.
 
-##### Artikel 19
+#### Artikel 19
 
 1. Aan degene ten behoeve van wie werkzaamheden worden verricht, kunnen de kosten ten laste worden gebracht die samenhangen met bij of krachtens deze wet voorgeschreven keuringen, controles, nadere controles, beoordelingen, of de ontvangst, verwerking, analyse, opslag en publicatie van bij of krachtens deze wet verstrekte gegevens en bescheiden en met de behandeling van een aanvraag van een document dat Onze Minister bij of krachtens deze wet kan verstrekken.
 
@@ -397,21 +372,21 @@ In het belang van de volksgezondheid kunnen voorts bij algemene maatregel van be
 
 3. Onze Minister kan de bedragen ter vergoeding van de kosten, bedoeld in het eerste lid, invorderen bij dwangbevel.
 
-##### Artikel 20
+#### Artikel 20
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 21
+#### Artikel 21
 
 Deze wet wordt aangehaald als: Tabaks- en rookwarenwet.
 
-##### Artikel 22
+#### Artikel 22
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 5a
+#### Artikel 5a
 
 1. Het is verboden om voor een tabaksproduct of aanverwant product een naam, merk, symbool of enig ander onderscheidend teken van een ander product of van een andere dienst te gebruiken. Dit verbod geldt niet voor:
 
@@ -455,7 +430,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - e. een nicotineproduct zonder tabak of nicotineapparaat dat vóór inwerkingtreding van artikel I, onderdeel G, van de Wet van 2 oktober 2024 tot wijziging van de Tabaks- en rookwarenwet houdende regeling van nicotineproducten zonder tabak (Stb. 2024, 292), onder de naam, het merk of symbool, dan wel met onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was.
 
-##### Artikel 5b
+#### Artikel 5b
 
 1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2025-07-12&g=2025-07-12) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2025-07-12&g=2025-07-12), onrechtmatig worden verklaard.
 
@@ -465,7 +440,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2025-07-12&g=2025-07-12), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
 
-##### Artikel 5c
+#### Artikel 5c
 
 1. De rechtbank Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2025-07-12&g=2025-07-12).
 
@@ -485,13 +460,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 4. Verkoopbeperkingen
 
-##### Artikel 11a
+#### Artikel 11a
 
 Vervallen
 
 #### § 5. Rookverboden
 
-##### Artikel 11b
+#### Artikel 11b
 
 1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2025-07-12&g=2025-07-12), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2025-07-12&g=2025-07-12), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3a&z=2025-07-12&g=2025-07-12), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2025-07-12&g=2025-07-12), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2025-07-12&g=2025-07-12), [3e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3e&z=2025-07-12&g=2025-07-12), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2025-07-12&g=2025-07-12), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2025-07-12&g=2025-07-12), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2025-07-12&g=2025-07-12), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2025-07-12&g=2025-07-12), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2025-07-12&g=2025-07-12), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2025-07-12&g=2025-07-12), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2025-07-12&g=2025-07-12), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2025-07-12&g=2025-07-12), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2025-07-12&g=2025-07-12), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2025-07-12&g=2025-07-12), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2025-07-12&g=2025-07-12), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2025-07-12&g=2025-07-12), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2025-07-12&g=2025-07-12), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11&z=2025-07-12&g=2025-07-12), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=17a&z=2025-07-12&g=2025-07-12) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=18&z=2025-07-12&g=2025-07-12) van deze wet of artikel 7 van de markttoezichtverordening.
 
@@ -505,7 +480,7 @@ Vervallen
 
 3. In afwijking van het eerste lid kan de overtreding niet met een bestuurlijke boete worden afgedaan, indien de in de bijlage ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economische voordeel.
 
-##### Artikel 11c
+#### Artikel 11c
 
 1. De bijlage bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete.
 
@@ -513,31 +488,31 @@ Vervallen
 
 3. Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-##### Artikel 11d
+#### Artikel 11d
 
 Vervallen
 
-##### Artikel 11e
+#### Artikel 11e
 
 Vervallen
 
-##### Artikel 11f
+#### Artikel 11f
 
 Vervallen
 
-##### Artikel 11g
+#### Artikel 11g
 
 Vervallen
 
-##### Artikel 11h
+#### Artikel 11h
 
 Vervallen
 
-##### Artikel 11i
+#### Artikel 11i
 
 Vervallen
 
-##### Artikel 11j
+#### Artikel 11j
 
 Vervallen
 
@@ -607,7 +582,7 @@ Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 3b
+#### Artikel 3b
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de door producenten en importeurs van tabaksproducten en aanverwante producten, met uitzondering van elektronische verhittingsapparaten, nicotineproducten zonder tabak en nicotineapparaten, in te dienen gegevens bij Onze Minister of bij de Europese Commissie. Voor producenten en importeurs van verschillende tabaksproducten en aanverwante producten, met uitzondering van elektronische verhittingsapparaten, nicotineproducten zonder tabak en nicotineapparaten, kunnen verschillende regels worden gesteld. Deze regels kunnen betrekking hebben op:
 
@@ -627,7 +602,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Indien een producent van een tabaksproduct of aanverwant product in Nederland is gevestigd, berust de verplichting om de gegevens in te dienen in eerste plaats bij de producent. Indien de importeur in Nederland en de producent buiten Europese Economische Ruimte is gevestigd, berust de verplichting om gegevens in te dienen in de eerste plaats bij de importeur. Indien de producent en de importeur beiden buiten Europese Economische Ruimte zijn gevestigd, zijn zij hoofdelijk verplicht de gegevens in te dienen.
 
-##### Artikel 3c
+#### Artikel 3c
 
 1. Tabaksproducenten en -importeurs zijn verplicht medewerking te verlenen aan door Onze Minister ingestelde, aangewezen of goedgekeurde metingen en onderzoekingen, die tot doel hebben na te gaan wat het maximumemissieniveau is van teer, nicotine, koolmonoxide en andere stoffen die tabaksproducten, opgesplitst naar merk en type per eenheid product, voortbrengen, alsook om de gevolgen van deze andere stoffen voor de gezondheid na te gaan, daarbij onder meer rekening houdend met het inherente gevaar van afhankelijkheid.
 
@@ -639,11 +614,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Bij ministeriële regeling kunnen ter uitvoering van bindende besluiten van een instelling van de Europese Unie metingen en onderzoekingen van maximumemissieniveaus worden aangewezen die worden geverifieerd door laboratoria die zijn erkend en onder toezicht staan van Onze Minister.
 
-##### Artikel 3d
+#### Artikel 3d
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de erkenning van laboratoria, die metingen en onderzoekingen als bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2025-07-12&g=2025-07-12) verrichten.
 
-##### Artikel 3e
+#### Artikel 3e
 
 1. Producenten, importeurs en distributeurs van aanverwante producten, met uitzondering van elektronische verhittingsapparaten, nicotineproducten zonder tabak en nicotineapparaten, zetten een systeem op voor het vergaren van informatie over alle vermoedelijke schadelijke effecten van deze producten op de menselijke gezondheid. De producenten, importeurs en distributeurs van deze producten houden dit systeem bij.
 
@@ -727,7 +702,7 @@ Onder categorie C vallen overtredingen van het bepaalde bij of krachtens [artike
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 8a
+#### Artikel 8a
 
 1. Onze Minister kan de natuurlijke persoon of de rechtspersoon die bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten verstrekt aan particulieren en die in een periode van 12 maanden drie maal [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2025-07-12&g=2025-07-12), heeft overtreden, de bevoegdheid ontzeggen tabaksproducten of aanverwante producten te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
 
@@ -759,7 +734,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 9a
+#### Artikel 9a
 
 1. Bij of krachtens algemene maatregel van bestuur wordt binnenlandse verkoop op afstand of grensoverschrijdende verkoop op afstand van tabaksproducten en aanverwante producten aan consumenten of het voor binnenlandse verkoop op afstand of grensoverschrijdende verkoop op afstand aanbieden van tabaksproducten en aanverwante producten aan consumenten verboden of worden daaraan eisen gesteld. Voor de verschillende producten kunnen verschillende regels worden vastgesteld.
 
@@ -781,7 +756,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 7. Verdere bepalingen
 
-##### Artikel 17a
+#### Artikel 17a
 
 1. Indien producenten, importeurs en distributeurs van tabaksproducten en aanverwante producten redenen hebben om aan te nemen dat tabaksproducten of aanverwante producten die bestemd zijn om in de handel te worden gebracht of in de handel zijn gebracht, niet in overeenstemming zijn met het bij of krachtens deze wet bepaalde, nemen zij onmiddellijk de nodige maatregelen om het product in overeenstemming te brengen met de bij of krachtens deze wet gestelde eisen, dan wel het product uit te handel te nemen of terug te roepen, naargelang het geval.
 
@@ -791,7 +766,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Bij ministeriële regeling kunnen bepaalde categorieën van tabaksproducten, elektronische sigaretten, navulverpakkingen of voor roken bestemde kruidenproducten die voldoen aan de eisen gesteld bij of krachtens deze wet, worden verboden, indien dit wordt gerechtvaardigd door de noodzaak de volksgezondheid te beschermen.
 
-##### Artikel 19a
+#### Artikel 19a
 
 1. Tabaksproducten die niet voldoen aan de tabaksproductenrichtlijn en die vóór 20 mei 2016 zijn geproduceerd of in het vrije verkeer zijn gebracht en geëtiketteerd in overeenstemming met Richtlijn 2001/37/EG van het Europees Parlement en de Raad van 5 juni 2001 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaksproducten (PbEG 2001, L 194), zoals gewijzigd en de tekst luidde op 3 april 2014 mogen tot 20 mei 2017 in de handel worden gebracht.
 
@@ -805,7 +780,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 4a
+#### Artikel 4a
 
 1. Producenten en importeurs van tabaksproducten merken elke geproduceerde of ingevoerde verpakkingseenheid van een tabaksproduct met een unieke identificatiemarkering als bedoeld in artikel 15, eerste lid, van de tabaksproductenrichtlijn en nemen daarbij de uitvoeringsverordening traceringssysteem in acht.
 
@@ -813,11 +788,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. De op grond van het tweede lid gestelde eisen kunnen voor verschillende producten verschillend worden vastgesteld en er kunnen verschillende tijdstippen worden vastgelegd waarop zij gaan gelden.
 
-##### Artikel 4b
+#### Artikel 4b
 
 Het is verboden om tabaksproducten te leveren, in te voeren, uit te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2025-07-12&g=2025-07-12) gestelde eisen voldoen.
 
-##### Artikel 4c
+#### Artikel 4c
 
 1. Alle bij de handel in tabaksproducten betrokken marktdeelnemers, van de producent tot en met de laatste marktdeelnemer vóór de eerste detaillist, registreren de bewegingen, bedoeld in artikel 15, vijfde lid, van de tabaksproductenrichtlijn en nemen daarbij artikel 15, negende lid, van de tabaksproductenrichtlijn en de uitvoeringsverordening traceringssysteem in acht.
 
@@ -833,7 +808,7 @@ Het is verboden om tabaksproducten te leveren, in te voeren, uit te voeren of in
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake het eerste tot en met zesde lid, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens de tabaksproductenrichtlijn gestelde voorschriften.
 
-##### Artikel 4d
+#### Artikel 4d
 
 1. Onze Minister wordt aangewezen als ID-uitgever, die is belast met het aanmaken en uitgeven van:
 
@@ -847,19 +822,19 @@ Het is verboden om tabaksproducten te leveren, in te voeren, uit te voeren of in
 
 2. De tarieven die samenhangen met het verrichten van de in het vorige lid, onder a, genoemde werkzaamheden, worden bij ministeriële regeling vastgesteld. Daarbij kunnen voor verschillende werkzaamheden verschillende tarieven worden vastgesteld.
 
-##### Artikel 4e
+#### Artikel 4e
 
 Bij regeling van Onze Minister kunnen regels worden gesteld ter uitvoering van het bepaalde in de artikelen 9, vierde lid, 20, vierde lid, 27, derde lid en 32, vijfde lid, van de uitvoeringsverordening traceringssysteem.
 
-##### Artikel 4f
+#### Artikel 4f
 
 Onze Minister wijst de bevoegde autoriteiten, de nationale beheerders en degene die meldingen ontvangt aan, bedoeld in de artikelen 7, tweede en vijfde lid, 8, vierde lid, tweede alinea, 15, vierde lid, 17, vierde lid, 19, vierde lid, 25, eerste lid, onderdelen f, k en l, 26, zesde lid, 27 en 35, vijfde en zevende lid, van de uitvoeringsverordening traceringssysteem. De bevoegde autoriteiten en nationale beheerders nemen die uitvoeringsverordening in acht.
 
-##### Artikel 4g
+#### Artikel 4g
 
 Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maatregelen, bedoeld in artikel 35, vierde, onderscheidenlijk zesde lid, van de uitvoeringsverordening traceringssysteem.
 
-##### Artikel 4h
+#### Artikel 4h
 
 1. Producenten en importeurs van tabaksproducten merken alle verpakkingseenheden van tabaksproducten die in de handel worden gebracht met een onvervalsbaar veiligheidskenmerk als bedoeld in artikel 16, eerste lid, van de tabaksproductenrichtlijn.
 
@@ -879,19 +854,19 @@ Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maa
 
 4. Onze Minister kan voor bepaalde categorieën tabaksproducten een voor belastingdoeleinden gebruikt nationaal herkenningsteken aanwijzen als veiligheidskenmerk als bedoeld in artikel 16, eerste lid, tweede alinea, van de tabaksproductenrichtlijn.
 
-##### Artikel 4i
+#### Artikel 4i
 
 Het is verboden om tabaksproducten te leveren, in te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4h, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2025-07-12&g=2025-07-12), gestelde eisen voldoen.
 
-##### Artikel 4j
+#### Artikel 4j
 
 Onze Minister wijst degene die meldingen ontvangt aan, bedoeld in artikel 8, vierde en zesde lid, van het uitvoeringsbesluit veiligheidskenmerk.
 
-##### Artikel 4k
+#### Artikel 4k
 
 Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maatregelen, bedoeld in artikel 8, derde, onderscheidenlijk vijfde lid, van het uitvoeringsbesluit veiligheidskenmerk.
 
-##### Artikel 4l
+#### Artikel 4l
 
 De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4&z=2025-07-12&g=2025-07-12), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2025-07-12&g=2025-07-12), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2025-07-12&g=2025-07-12), [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4d&z=2025-07-12&g=2025-07-12), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2025-07-12&g=2025-07-12), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4f&z=2025-07-12&g=2025-07-12), [4g](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4g&z=2025-07-12&g=2025-07-12), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2025-07-12&g=2025-07-12), [4j](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4j&z=2025-07-12&g=2025-07-12) en [4k](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4k&z=2025-07-12&g=2025-07-12) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
 
@@ -927,7 +902,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 13a
+#### Artikel 13a
 
 1. De toezichthouders zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van de markttoezichtverordening.
 
@@ -937,7 +912,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-##### Artikel 13b
+#### Artikel 13b
 
 1. De toezichthouders zijn bevoegd om onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, tabaksproducten en aanverwante producten te verkrijgen en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de invulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
 
@@ -957,11 +932,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - g. hetgeen tijdens het onderzoek van het product is verricht, gebleken en overigens is voorgevallen.
 
-##### Artikel 13c
+#### Artikel 13c
 
 [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een toezichthoudende ambtenaar bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van de markttoezichtverordening uit een andere lidstaat van de Europese Unie op grond van de artikelen 22 en 23 van de markttoezichtverordening.
 
-##### Artikel 13d
+#### Artikel 13d
 
 1. Ter uitvoering van de markttoezichtverordening kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de markttoezichtverordening, gevormd door een product waarop de tabaksproductenrichtlijn van toepassing is, weg te nemen, een zelfstandige last opleggen aan:
 
@@ -991,7 +966,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 13e
+#### Artikel 13e
 
 1. Onze Minister kan de inbeslagneming van de op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2025-07-12&g=2025-07-12), en [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3a&z=2025-07-12&g=2025-07-12) verboden producten gelasten.
 
@@ -1011,7 +986,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 12a
+#### Artikel 12a
 
 1. Degene die waren anders dan in doorvoer buiten Nederland wil brengen, kan Onze Minister verzoeken een verklaring af te geven in verband met door landen van bestemming gestelde eisen.
 

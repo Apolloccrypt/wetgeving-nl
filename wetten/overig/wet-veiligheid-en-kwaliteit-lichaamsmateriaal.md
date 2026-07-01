@@ -1,42 +1,14 @@
 ---
-title: "Wet van 6 februari 2003, houdende regels inzake de veiligheid en kwaliteit van lichaamsmateriaal dat kan worden gebruikt bij een geneeskundige behandeling (Wet veiligheid en kwaliteit lichaamsmateriaal)"
+title: "Wet veiligheid en kwaliteit lichaamsmateriaal"
 identifier: "BWBR0014682"
-country: "nl"
-rank: "wet"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0014682"
-soort: "wet"
-stam_id: "3344313"
-version_id: "19285222"
-internal_id: "C26906831"
-label_id: "3324594"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0014682/2022-01-01/0"
-intitule_bron: "Stb.2003-90"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-06"
-intitule_published: "2003-03-04"
-intitule_in_force: "2004-07-06"
-intitule_status: "goed"
-original_publication: "Stb.2012-98"
-original_signed_date: "2012-02-25"
-original_published_date: "2012-03-15"
-original_effect: "structuurwijziging"
-original_dossier: "33063"
-original_url_id: "stb-2012-98"
-entry_into_force_date: "2012-02-25"
-entry_into_force_dossier: "33063"
-jci_1_3: "jci1.3:c:BWBR0014682&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0014682&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet veiligheid en kwaliteit lichaamsmateriaal"
-signed_date: "2012-02-25"
-entry_into_force: "2012-02-25"
+categorie: "Overig"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0014682"
 ---
-# Wet van 6 februari 2003, houdende regels inzake de veiligheid en kwaliteit van lichaamsmateriaal dat kan worden gebruikt bij een geneeskundige behandeling (Wet veiligheid en kwaliteit lichaamsmateriaal)
+
+# Wet veiligheid en kwaliteit lichaamsmateriaal
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -48,7 +20,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk I. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -98,17 +70,17 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 2. Een wijziging van de richtlijnen bedoeld in het eerste lid, onderdelen n en o gaat voor de toepassing van het bepaalde bij of krachtens de Wet veiligheid en kwaliteit lichaamsmateriaal gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-##### Artikel 2
+#### Artikel 2
 
 Deze wet is niet van toepassing op lichaamsmateriaal dat in een en dezelfde operatie wordt weggenomen en teruggeplaatst bij dezelfde persoon, bloed, afgenomen in het kader van de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), en op lichaamsmateriaal voor zover daarop de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) of de [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755) van toepassing is.
 
-##### Artikel 3
+#### Artikel 3
 
 Het is verboden weefsels, cellen, bestanddelen van een embryo, foetale weefsels in de zin van de [Wet foetaal weefsel](https://wetten.overheid.nl/jci1.3:c:BWBR0012983), alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, die bij het verkrijgen uitsluitend bestemd waren voor een ander doel dan toepassing op de mens, alsnog voor die toepassing te gebruiken.
 
 ### Hoofdstuk II. Behandeling van lichaamsmateriaal
 
-##### Artikel 4
+#### Artikel 4
 
 1. De instelling waar lichaamsmateriaal ter beschikking komt of de natuurlijke persoon die in de uitoefening van een geneeskundig beroep de beschikking krijgt over lichaamsmateriaal, biedt dat lichaamsmateriaal aan een orgaanbank aan.
 
@@ -124,11 +96,11 @@ Het is verboden weefsels, cellen, bestanddelen van een embryo, foetale weefsels 
 
 3. Bij de aanbieding wordt in voorkomende gevallen melding gemaakt van andere doeleinden waarvoor tevens toestemming tot het gebruiken van het lichaamsmateriaal is verleend, dan toepassing op de mens.
 
-##### Artikel 5
+#### Artikel 5
 
 Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweede lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=18) is bepaald dat het voor implantatie beschikbaar moet blijven, ten minste totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor implantatie van dat lichaamsmateriaal in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven.
 
-##### Artikel 9
+#### Artikel 9
 
 1. Het is verboden zonder erkenning van Onze Minister lichaamsmateriaal in ontvangst te nemen na het verkrijgen, of het te bewerken, te preserveren, te bewaren of te distribueren.
 
@@ -140,7 +112,7 @@ Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweed
 
 5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Het in- of uitvoeren van lichaamsmateriaal of daaruit bereide producten uit onderscheidenlijk naar andere staten dan lidstaten van de Europese Unie is slechts toegestaan aan weefselinstellingen die daarvoor door Onze Minister zijn aangewezen.
 
@@ -152,7 +124,7 @@ Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweed
 
 3. Een ieder die lichaamsmateriaal op Nederlands grondgebied brengt met het oog op implantatie in de zin van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066), doet daarvan melding aan het orgaancentrum.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Bij of krachtens algemene maatregel van bestuur worden eisen gesteld waaraan orgaancentra en weefselinstellingen met het oog op de veiligheid en kwaliteit van lichaamsmateriaal moeten voldoen in verband met het verkrijgen, bewerken, preserveren, bewaren, distribueren of op Nederlands grondgebied brengen van lichaamsmateriaal of daaruit bereide producten.
 
@@ -164,7 +136,7 @@ Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweed
 
 ### Hoofdstuk III. Erkenning en vergunning
 
-##### Artikel 9
+#### Artikel 9
 
 1. Het is verboden zonder erkenning van Onze Minister lichaamsmateriaal in ontvangst te nemen na het verkrijgen, of het te bewerken, te preserveren, te bewaren of te distribueren.
 
@@ -176,15 +148,15 @@ Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweed
 
 5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
-##### Artikel 11
+#### Artikel 11
 
 Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepaalde bij of krachtens deze wet of de aan de erkenning verbonden voorschriften dan wel indien in strijd is gehandeld met een beperking waaronder de erkenning is verleend.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Het is verboden voor donoren vereiste tests van lichaamsmateriaal te verrichten zonder vergunning van Onze Minister.
 
@@ -192,29 +164,29 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2022-01-01&g=2022-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing.
 
-##### Artikel 13
+#### Artikel 13
 
 Vervallen
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
-##### Artikel 19
+#### Artikel 19
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-##### Artikel 20
+#### Artikel 20
 
 Onverminderd de voorgaande bepalingen is het degene die lichaamsmateriaal ter aflevering voorhanden heeft, waarvan hij weet of redelijkerwijs moet vermoeden dat de geschiktheid voor toepassing op de mens geheel of in ernstige mate ontbreekt, verboden dat lichaamsmateriaal af te leveren.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Ongeoorloofde toegang tot gegevens of systemen waarmee de identificatie van donoren of ontvangers mogelijk wordt, is verboden.
 
 2. Het is verboden systemen of gegevens waarmee identificatie van donoren of ontvangers mogelijk wordt te gebruiken voor een ander doel dan het traceren van donoren of ontvangers ten behoeve van hun geneeskundige behandeling.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Het orgaancentrum ziet toe op de orgaanuitwisseling met een ander land dan een lidstaat van de Europese Unie. Daartoe kan het orgaancentrum een overeenkomst sluiten met haar tegenhangers in derde landen.
 
@@ -226,55 +198,55 @@ Onverminderd de voorgaande bepalingen is het degene die lichaamsmateriaal ter af
 
 ### Hoofdstuk IV. Handhaving
 
-##### Artikel 19
+#### Artikel 19
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
 
-##### Artikel 20
+#### Artikel 20
 
 Onverminderd de voorgaande bepalingen is het degene die lichaamsmateriaal ter aflevering voorhanden heeft, waarvan hij weet of redelijkerwijs moet vermoeden dat de geschiktheid voor toepassing op de mens geheel of in ernstige mate ontbreekt, verboden dat lichaamsmateriaal af te leveren.
 
-##### Artikel 21
+#### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
-##### Artikel 23
+#### Artikel 23
 
 Een vergunning, verleend aan een orgaanbank op grond van [artikel 28 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=28), wordt gelijkgesteld met een erkenning op grond van deze wet.
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 20a
+#### Artikel 20a
 
 Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2022-01-01&g=2022-01-01), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2022-01-01&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2022-01-01&g=2022-01-01), [7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2022-01-01&g=2022-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2022-01-01&g=2022-01-01), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2022-01-01&g=2022-01-01).
 
-##### Artikel 21
+#### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 3a
+#### Artikel 3a
 
 De verkrijging van organen vindt zonder winstoogmerk plaats.
 
@@ -282,27 +254,27 @@ De verkrijging van organen vindt zonder winstoogmerk plaats.
 
 ### Hoofdstuk IIa. Eisen met betrekking tot de keten van orgaandonatie tot orgaantransplantatie
 
-##### Artikel 8a
+#### Artikel 8a
 
 Het orgaancentrum stelt een protocol inzake kwaliteit en veiligheid op voor alle stadia van de keten van donatie tot transplantatie of verwijdering en verstrekt passende richtsnoeren aan verkrijgingsorganisaties, transplantatiecentra, personeel in de gezondheidszorg en andere betrokken partijen in de keten van donatie tot transplantatie of verwijdering. Het protocol inzake kwaliteit en veiligheid is in overeenstemming met de regels die de EU-richtlijn orgaantransplantatie met betrekking tot dit protocol stelt.
 
-##### Artikel 8b
+#### Artikel 8b
 
 Verkrijging van organen vindt plaats in of door een verkrijgingsorganisatie die voldoet aan de voorschriften van de EU-richtlijn orgaantransplantatie.
 
-##### Artikel 8c
+#### Artikel 8c
 
 1. Het orgaancentrum houdt een register bij van de werkzaamheden van verkrijgingsorganisaties en transplantatiecentra met geaggregeerde aantallen levende en overleden donoren en de soorten en aantallen verkregen en getransplanteerde of niet voor transplantatie gebruikte organen.
 
 2. Het orgaancentrum neemt de in het eerste lid bedoelde informatie op in haar jaarverslag en maakt deze openbaar.
 
-##### Artikel 8d
+#### Artikel 8d
 
 Onze Minister stelt een geactualiseerd register op van verkrijgingsorganisaties en transplantatiecentra.
 
 ### Hoofdstuk III. Erkenning en vergunning
 
-##### Artikel 10
+#### Artikel 10
 
 1. Een erkenning kan onder beperkingen worden verleend. Aan een erkenning kunnen voorschriften worden verbonden.
 
@@ -312,15 +284,15 @@ Onze Minister stelt een geactualiseerd register op van verkrijgingsorganisaties 
 
 4. Een weefselinstelling mag haar werkzaamheden niet ingrijpend wijzigen zonder voorafgaande schriftelijke toestemming van Onze Minister.
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
-##### Artikel 17
+#### Artikel 17
 
 Vervallen
 
-##### Artikel 18
+#### Artikel 18
 
 Vervallen
 
@@ -328,21 +300,21 @@ Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-##### Artikel 23
+#### Artikel 23
 
 Een vergunning, verleend aan een orgaanbank op grond van [artikel 28 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=28), wordt gelijkgesteld met een erkenning op grond van deze wet.
 
-##### Artikel 24
+#### Artikel 24
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 25
+#### Artikel 25
 
 Deze wet wordt aangehaald als: Wet veiligheid en kwaliteit lichaamsmateriaal.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 13
+#### Artikel 13
 
 1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2022-01-01&g=2022-01-01), kunnen ten laste worden gebracht van de aanvrager van het document.
 
@@ -350,17 +322,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld.
 
-##### Artikel 19a
+#### Artikel 19a
 
 Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-##### Artikel 24
+#### Artikel 24
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 25
+#### Artikel 25
 
 Deze wet wordt aangehaald als: Wet veiligheid en kwaliteit lichaamsmateriaal.
 

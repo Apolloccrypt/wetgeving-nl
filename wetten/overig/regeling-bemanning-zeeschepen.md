@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 25 april 2025, nr. IENW/BSK-2025/91091, houdende nadere regels over het bemannen van zeeschepen (Regeling bemanning zeeschepen)"
+title: "Regeling bemanning zeeschepen"
 identifier: "BWBR0051068"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051068"
-soort: "ministeriele-regeling"
-stam_id: "17434083"
-version_id: "30746802"
-internal_id: "C44101991"
-label_id: "17340114"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051068/2025-07-01/0"
-intitule_bron: "Stcrt.2025-15667"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-25"
-intitule_published: "2025-05-28"
-intitule_in_force: "2025-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-15667"
-original_signed_date: "2025-04-25"
-original_published_date: "2025-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-15667"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0051068&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0051068&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling bemanning zeeschepen"
-signed_date: "2025-04-25"
-entry_into_force: "2025-07-01"
+categorie: "Overig"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051068"
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 april 2025, nr. IENW/BSK-2025/91091, houdende nadere regels over het bemannen van zeeschepen (Regeling bemanning zeeschepen)
 
 Gelet op de [artikelen 2, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=2), [4, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=4), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=7), [9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=9), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=18), [19, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19), [20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=20), [21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=21), [22, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=22), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23), [24, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=24), [25, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=25), [26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=26), [27, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=29), [30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=30), [31, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=32), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=35), [36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=36), [37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=37), [38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=38), [39, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=39), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=40), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=43), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=45), [76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=76), [77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=77), [79, eerste en tweede lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=79), de [artikelen 1.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=1.2), [2.1.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.1.2), [2.1.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.1.3), [2.1.10, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.1.10), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.2), [2.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.3), [2.2.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.4), [2.3.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.3.1), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.3.2), [2.4.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.4.7), [3.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.1), [3.1.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.3), [3.1.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.6), [3.1.7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.7), [3.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.8), [3.1.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.9), [3.1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.10), [3.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.1), [3.2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.7), [3.2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.8), [3.2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.23), [3.3.1, vierde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.1), [3.3.2, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.2), [3.3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.4), [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.10), [3.4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.4.14), [3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.7), [3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.6.1), [3.6.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.6.3), [3.6.7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.6.7), [4.1.1, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.1.1), [4.2.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.2.1), [4.2.2, eerste lid, aanhef en onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.2.2), en [4.2.3, derde lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.2.3), en [artikel 33, eerste en tweede lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
@@ -44,7 +18,7 @@ Treedt in werking op het tijdstip waarop de Wet bemanning zeeschepen in werking 
 
 ### Hoofdstuk 1. Definities en reikwijdte
 
-##### Artikel 1.1. Begripsbepalingen
+#### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -116,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - **zeeschip voor bijzondere doeleinden:** zeeschip waarop de SPS-code of de SPS-code 2008 van toepassing is.
 
-##### Artikel 1.2. Personen niet aangemerkt als zeevarenden
+#### Artikel 1.2. Personen niet aangemerkt als zeevarenden
 
 De volgende categorieën van personen aan boord van een zeeschip, worden voor de toepassing van het bepaalde bij of krachtens de wet niet aangemerkt als zeevarenden:
 
@@ -132,11 +106,11 @@ De volgende categorieën van personen aan boord van een zeeschip, worden voor de
 
 - f. andere personen wier werkzaamheden geen onderdeel uitmaken van de normale werkzaamheden aan boord in het kader van het gebruik van het zeeschip.
 
-##### Artikel 1.3. Niet commercieel gebruikte zeeschepen
+#### Artikel 1.3. Niet commercieel gebruikte zeeschepen
 
 Een niet commercieel gebruikt zeeschip als bedoeld in [artikel 2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=2) is in ieder geval een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen als bedoeld in [artikel 1, eerste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=1).
 
-##### Artikel 1.4. Uitzondering zeeschepen niet-continue vaart
+#### Artikel 1.4. Uitzondering zeeschepen niet-continue vaart
 
 De [artikelen 4.1.4 tot en met 4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.4&z=2025-07-01&g=2025-07-01) zijn niet van toepassing op een zeeschip van minder dan 500 GT waarop de zeevarenden ten hoogste 13 uur per etmaal en ten hoogste 84 uur in elke periode van 7 dagen aan boord verblijven, indien:
 
@@ -144,7 +118,7 @@ De [artikelen 4.1.4 tot en met 4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. per ten hoogste zes zeevarenden een toiletruimte, een wastafel en een bad of douche beschikbaar is.
 
-##### Artikel 1.5. Uitzondering zeeschepen ingezet door de politie of een organisatie belast met toezicht op de naleving van regelgeving en belast met het opsporen van strafbare feiten in de territoriale zone, met een lengte van minder dan 12 meter
+#### Artikel 1.5. Uitzondering zeeschepen ingezet door de politie of een organisatie belast met toezicht op de naleving van regelgeving en belast met het opsporen van strafbare feiten in de territoriale zone, met een lengte van minder dan 12 meter
 
 [De wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681), met uitzondering van de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=4), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=8), [9 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=9), en [41 tot en met 66](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=41), is niet van toepassing op een zeeschip met een lengte van minder dan 12 meter, ingezet door de Nationale Politie of door een organisatie belast met toezicht op de naleving van regelgeving en belast met het opsporen van strafbare feiten binnen de territoriale zone, indien de bemanning in het bezit is van:
 
@@ -158,7 +132,7 @@ De [artikelen 4.1.4 tot en met 4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - e. het beperkt certificaat maritieme radiocommunicatie of het algemeen certificaat maritieme radiocommunicatie.
 
-##### Artikel 1.6. Vrijstelling garnalenkotters 48-uursregeling
+#### Artikel 1.6. Vrijstelling garnalenkotters 48-uursregeling
 
 Aan de scheepsbeheerder van een garnalenkotter wordt vrijstelling verleend van de verplichting de garnalenkotter te bemannen overeenkomstig de in [artikel 2.2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.1) voorgeschreven bemanningssamenstelling voor telkens een periode van ten hoogste 48 uur, gerekend vanaf het tijdstip van uitvaren tot binnenkomst, indien:
 
@@ -174,7 +148,7 @@ Aan de scheepsbeheerder van een garnalenkotter wordt vrijstelling verleend van d
 
 - 3°. een geautomatiseerde kookinrichting waarbij geen handmatige handelingen hoeven te worden verricht.
 
-##### Artikel 1.7. Vrijstelling garnalenkotters 12-uursregeling
+#### Artikel 1.7. Vrijstelling garnalenkotters 12-uursregeling
 
 Aan de scheepsbeheerder van een garnalenkotter wordt vrijstelling verleend van de verplichting de garnalenkotter te bemannen overeenkomstig de in [artikel 2.2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.1) voorgeschreven bemanningssamenstelling voor telkens een periode van ten hoogste 12 uur, gerekend vanaf het tijdstip van uitvaren tot binnenkomst, en:
 
@@ -182,7 +156,7 @@ Aan de scheepsbeheerder van een garnalenkotter wordt vrijstelling verleend van d
 
 - b. bij aanwezigheid op het dek de opvarenden een opblaasbare reddinggordel dragen die is voorzien van een persoonlijk noodradiobaken, en die voldoet aan het bepaalde in [artikel 7.24 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.24) of die is voorzien van een stuurwielmarkering als bedoeld in [artikel 1 van de Wet scheepsuitrusting 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038498&artikel=1).
 
-##### Artikel 1.8. Vrijstelling schelpdiervaartuigen voor de vaart tussen het Waddengebied en de Oosterschelde
+#### Artikel 1.8. Vrijstelling schelpdiervaartuigen voor de vaart tussen het Waddengebied en de Oosterschelde
 
 Aan de scheepsbeheerder van een schelpdiervaartuig wordt vrijstelling verleend van de verplichting het schelpdiervaartuig te bemannen overeenkomstig de in [artikel 2.2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.1) voorgeschreven bemanningssamenstelling, uitsluitend de vaart betreffend over zee tussen het Waddengebied en de Oosterschelde, indien:
 
@@ -194,7 +168,7 @@ Aan de scheepsbeheerder van een schelpdiervaartuig wordt vrijstelling verleend v
 
 - d. de tijdspanne tussen binnenkomst in en vertrek uit het gebied door het schelpdiervaartuig ten minste 12 uren bedraagt.
 
-##### Artikel 1.9. Vrijstelling schelpdiervaartuigen daglichtregeling
+#### Artikel 1.9. Vrijstelling schelpdiervaartuigen daglichtregeling
 
 Aan de scheepsbeheerder van een schelpdiervaartuig wordt vrijstelling verleend van de verplichting het schelpdiervaartuig te bemannen overeenkomstig de in [artikel 2.2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.1) voorgeschreven bemanningssamenstelling voor telkens een periode gerekend vanaf het tijdstip van zonsopgang tot zonsondergang, indien:
 
@@ -212,13 +186,13 @@ Aan de scheepsbeheerder van een schelpdiervaartuig wordt vrijstelling verleend v
 
 #### Paragraaf 2.1. Bemanning
 
-##### Artikel 2.1.1. Gegevens bemanningsplan
+#### Artikel 2.1.1. Gegevens bemanningsplan
 
 1. In het bemanningsplan worden ten minste de gegevens opgenomen die zijn vermeld op een door de minister ter beschikking gesteld formulier.
 
 2. De minister kan het model van het formulier ter beschikking stellen in de vorm een digitaal bestand.
 
-##### Artikel 2.1.2. Gegevens bemanningscertificaat vissersvaartuig
+#### Artikel 2.1.2. Gegevens bemanningscertificaat vissersvaartuig
 
 De gegevens die bij de aanvraag voor een bemanningscertificaat voor een vissersvaartuig, niet zijnde een vissersvaartuig als bedoeld in [artikel 2.2.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.5) worden ingediend zijn, voor zover van toepassing:
 
@@ -250,31 +224,31 @@ De gegevens die bij de aanvraag voor een bemanningscertificaat voor een vissersv
 
 - n. de handtekening van de scheepsbeheerder.
 
-##### Artikel 2.1.3. Bemanningslijst
+#### Artikel 2.1.3. Bemanningslijst
 
 Met toepassing van [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) kan de scheepsbeheerder worden verplicht de bemanningslijsten over een bepaalde periode van één of meer van zijn zeeschepen onverwijld aan de minister toe te sturen.
 
 #### Paragraaf 2.2. Nationaliteit kapitein
 
-##### Artikel 2.2.1. Vrijstelling buitenlandse kapiteins handelsvaart en zeegaande waterbouw
+#### Artikel 2.2.1. Vrijstelling buitenlandse kapiteins handelsvaart en zeegaande waterbouw
 
 Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19) wordt verleend aan een houder van een vaarbevoegdheidsbewijs die de nationaliteit bezit van Australië, Canada, Chili, China, Ethiopië, Filippijnen, Georgië, Ghana, Hong Kong, India, Indonesië, Jamaica, Kaapverdië, Montenegro, Nieuw-Zeeland, Oekraïne, Oman, Pakistan, Peru, de Russische Federatie, Singapore, Turkije, Verenigd Koninkrijk, Verenigde Staten van Amerika, Vietnam of Zuid-Afrika.
 
-##### Artikel 2.2.2. Bewijs van toestemming
+#### Artikel 2.2.2. Bewijs van toestemming
 
 De scheepsbeheerder die een persoon uit één van de in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.1) genoemde staten als kapitein op een zeeschip aanstelt, beschikt over een geldig, aan deze scheepsbeheerder gerichte toestemming als bedoeld in [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19) waarop de naam van die persoon is vermeld.
 
-##### Artikel 2.2.3. Aanwezigheid bewijs van toestemming
+#### Artikel 2.2.3. Aanwezigheid bewijs van toestemming
 
 1. De toestemming, bedoeld in [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.2), is te allen tijde beschikbaar aan boord van het zeeschip waarop een persoon uit één van de in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.2.1) genoemde staten als kapitein dienstdoet.
 
 2. De scheepsbeheerder bewaart een kopie van de toestemming bij de bemanningslijst van het zeeschip.
 
-##### Artikel 2.2.4. Vrijstelling nationaliteitseis schippers vissersvaartuigen
+#### Artikel 2.2.4. Vrijstelling nationaliteitseis schippers vissersvaartuigen
 
 Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19) wordt verleend aan een houder van een vaarbevoegdheidsbewijs die de nationaliteit bezit van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte of Zwitserland.
 
-##### Artikel 2.2.5. Informatie over de arbeidsmarkt voor Nederlandse zeevarenden
+#### Artikel 2.2.5. Informatie over de arbeidsmarkt voor Nederlandse zeevarenden
 
 1. De commissies, bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19), verstrekken informatie over de arbeidsmarkt voor Nederlandse zeevarenden in het afgelopen jaar vóór 1 oktober aan de minister.
 
@@ -292,7 +266,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 - f. het aantal afgegeven geldige toestemmingen tot het aanstellen van een persoon in een andere nationaliteit in de functie van kapitein tot 1 oktober, uitgesplitst naar aantal scheepsbeheerders dat aanvragen heeft ingediend en nationaliteit van de kapitein.
 
-##### Artikel 2.2.6. Vervanging van privaatrechtelijke regelingen
+#### Artikel 2.2.6. Vervanging van privaatrechtelijke regelingen
 
 1. Ingeval de privaatrechtelijke regelingen, bedoeld in [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=19), zijn vervallen zonder dat de werkgevers- en werknemersorganisaties in de sector koopvaardij en zeegaande waterbouw hebben voorzien in de vervanging hiervan, geeft de Minister van Infrastructuur en Waterstaat nog gedurende zes maanden na de vervaldatum op aanvraag vaarbevoegdheidsbewijzen van erkenning af ten behoeve van scheepsbeheerders die vallen onder deze sectoren, zonder dat een bewijs van toestemming is overgelegd.
 
@@ -300,7 +274,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 #### Paragraaf 2.3. Monsterboekje of alternatieve diensttijdverklaring
 
-##### Artikel 2.3.1. Afgifte monsterboekje
+#### Artikel 2.3.1. Afgifte monsterboekje
 
 1. De minister geeft een monsterboekje af aan degene die bij de aanvraag voldoet aan het tweede lid.
 
@@ -338,7 +312,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 - m. andere zeevarenden dan bedoeld in [artikel 2.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2025-07-01&g=2025-07-01), die in het bezit zijn van een geldig Nederlands vaarbevoegdheidsbewijs.
 
-##### Artikel 2.3.2. Bewijsstukken bij verzoek monsterboekje
+#### Artikel 2.3.2. Bewijsstukken bij verzoek monsterboekje
 
 1. Bij het verzoek om afgifte van een monsterboekje worden de volgende bescheiden overgelegd:
 
@@ -358,7 +332,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 4. De aanvraag wordt niet eerder in behandeling genomen dan nadat het tarief, bedoeld in [artikel 79, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=79), is betaald.
 
-##### Artikel 2.3.3. Aantekeningen monsterboekje of een alternatieve diensttijdverklaring
+#### Artikel 2.3.3. Aantekeningen monsterboekje of een alternatieve diensttijdverklaring
 
 1. Alvorens het monsterboekje af te geven, tekent de minister in elk geval de volgende gegevens erin aan:
 
@@ -402,13 +376,13 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 5. In het monsterboekje dan wel de alternatieve diensttijdverklaring wordt het loon noch enige gedragsbeoordeling opgenomen.
 
-##### Artikel 2.3.4. Verlies monsterboekje
+#### Artikel 2.3.4. Verlies monsterboekje
 
 1. Bij de aanvraag van een vervangend monsterboekje wegens verlies van het reeds afgegeven monsterboekje overlegt de aanvrager naast de in [artikel 2.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2025-07-01&g=2025-07-01), genoemde bescheiden, een verklaring over inzake de vermissing van het monsterboekje.
 
 2. De [artikelen 2.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2025-07-01&g=2025-07-01), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2025-07-01&g=2025-07-01) en [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing bij de afgifte van een monsterboekje wegens verlies van het eerder afgegeven monsterboekje.
 
-##### Artikel 2.3.5. Personen naast de kapitein bevoegd tot het maken van aantekeningen
+#### Artikel 2.3.5. Personen naast de kapitein bevoegd tot het maken van aantekeningen
 
 1. Het bevoegd gezag van een door de minister erkende training als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=24), of [25, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=25) is bevoegd tot het maken van aantekeningen in het monsterboekje betreffende het door de zeevarende met goed gevolg hebben afgerond van die training.
 
@@ -416,7 +390,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 3. Degene die onbevoegd aantekeningen of wijzigingen heeft aangebracht in een monsterboekje, draagt de kosten van de vervanging van dat monsterboekje.
 
-##### Artikel 2.3.6. Teruggave monsterboekje
+#### Artikel 2.3.6. Teruggave monsterboekje
 
 1. De kapitein bewaart het monsterboekje aan boord van het zeeschip na de aanmonstering en geeft het aan de zeevarende terug bij de afmonstering.
 
@@ -426,7 +400,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 #### Paragraaf 3.1. Algemene bepalingen
 
-##### Artikel 3.1.1. Afgifte vaarbevoegdheidsbewijs of bekwaamheidsbewijs
+#### Artikel 3.1.1. Afgifte vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
 1. Bij de aanvraag om afgifte van een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs legt de aanvrager de volgende bescheiden over aan de minister:
 
@@ -448,7 +422,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 2. Voor de vernieuwing van een vaarbevoegdheidsbewijs is het eerste lid, met uitzondering van onderdeel e, van overeenkomstige toepassing.
 
-##### Artikel 3.1.2. Relevante diensttijd
+#### Artikel 3.1.2. Relevante diensttijd
 
 1. Voor de vernieuwing van een vaarbevoegdheidsbewijs voor een functie in de dekdienst als bedoeld in de [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.2) en [3.2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.3) wordt de diensttijd in aanmerking genomen die is opgedaan in een functie als kapitein of officier in de dekdienst aan boord van zeeschepen van 100 GT of meer niet zijnde vissersvaartuigen, of vissersvaartuigen met een lengte van 45 meter of meer.
 
@@ -466,7 +440,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 8. Aanvullend op het zesde lid kan de diensttijd in aanmerking worden genomen die is opgedaan aan boord van zeeschepen met een hoofdvoortstuwingsinstallatie van minder dan 750 kW, indien er geen sprake is van ophoging van de vaarbevoegdheid en indien 24 maanden diensttijd kan worden aangetoond.
 
-##### Artikel 3.1.3. Diensttijd maritiem officier
+#### Artikel 3.1.3. Diensttijd maritiem officier
 
 1. Aanvullend op [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2025-07-01&g=2025-07-01) wordt de diensttijd opgedaan in de functie van een maritiem officier, eerste maritiem officier of stuurman-werktuigkundige vissersvaartuigen voor de helft daarvan in aanmerking genomen voor de vernieuwing van een vaarbevoegdheidsbewijs als officier in de dekdienst en voor de helft daarvan voor de vernieuwing van een vaarbevoegdheidsbewijs als officier in de machinekamerdienst.
 
@@ -474,7 +448,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 3. Voor de berekening van de opgedane diensttijd in 2 functies tezamen als bedoeld in het tweede lid wordt slechts de diensttijd in acht genomen voor zover deze zich in gelijke mate verhoudt.
 
-##### Artikel 3.1.4. Diensttijd verschillende sectoren bij vernieuwing vaarbevoegdheidsbewijs
+#### Artikel 3.1.4. Diensttijd verschillende sectoren bij vernieuwing vaarbevoegdheidsbewijs
 
 1. Voor de vernieuwing van een vaarbevoegdheidsbewijs voor een functie als kapitein of officier aan boord van een zeeschip in de dekdienst, wordt de diensttijd opgedaan in een relevante functie aan boord van een zeeschip in de handelsvaart, zeevisvaart of zeezeilvaartgelijkgesteld, met dien verstande dat er op het moment van de aanvraag tot vernieuwing geen sprake is van ophoging van de vaarbevoegdheid.
 
@@ -490,7 +464,7 @@ Vrijstelling als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.
 
 7. Voor de berekening van de diensttijd, bedoeld in het eerste tot en met zesde lid, wordt de diensttijd, opgedaan in één van de functies als maritiem officier en in de functie stuurman-werktuigkundige vissersvaartuigen, herleid naar diensttijd, opgedaan in de functies als stuurman of werktuigkundige, overeenkomstig het bepaalde in [artikel 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.1.5. Diensttijd bij vernieuwing bekwaamheidsbewijs
+#### Artikel 3.1.5. Diensttijd bij vernieuwing bekwaamheidsbewijs
 
 Voor de vernieuwing van een bekwaamheidsbewijs, is [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met uitzondering van onderdeel f, en met dien verstande dat de in onderdeel h vereiste diensttijd is opgedaan:
 
@@ -502,7 +476,7 @@ Voor de vernieuwing van een bekwaamheidsbewijs, is [artikel 3.1.1](https://wette
 
 - d. aan boord van gastankschepen, indien het betreft het bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden.
 
-##### Artikel 3.1.6. Vergelijkbare functies
+#### Artikel 3.1.6. Vergelijkbare functies
 
 1. Vergelijkbare functies als bedoeld in [artikel 3.1.3, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.3) zijn:
 
@@ -550,7 +524,7 @@ Voor de vernieuwing van een bekwaamheidsbewijs, is [artikel 3.1.1](https://wette
 
 4. De bevoegdheden waarvoor het vernieuwde vaarbevoegdheidsbewijs geldig is, zijn niet ruimer dan die, welke bij aanvang van de vergelijkbare functie bestonden.
 
-##### Artikel 3.1.7. Erkenning van buitenlandse vaarbevoegdheidsbewijzen en bekwaamheidsbewijzen
+#### Artikel 3.1.7. Erkenning van buitenlandse vaarbevoegdheidsbewijzen en bekwaamheidsbewijzen
 
 1. Bij de aanvraag om erkenning van een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs op grond van voorschrift I/10 van het STCW-verdrag of hoofdstuk I, voorschrift 7, van het STCW F-verdrag, legt de aanvrager de volgende bescheiden over aan de minister:
 
@@ -572,7 +546,7 @@ Voor de vernieuwing van een bekwaamheidsbewijs, is [artikel 3.1.1](https://wette
 
 5. Het tweede lid is niet van toepassing op de aanvraag om erkenning van een vaarbevoegdheidsbewijs voor het dienstdoen in de functie van schipper op vissersvaartuigen.
 
-##### Artikel 3.1.8. Bewijs van aanvraag om erkenning van een vaarbevoegdheidsbewijs
+#### Artikel 3.1.8. Bewijs van aanvraag om erkenning van een vaarbevoegdheidsbewijs
 
 Bij een aanvraag om afgifte van een bewijs van aanvraag om erkenning van een vaarbevoegdheidsbewijs als bedoeld in [artikel 27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=27) overlegt de aanvrager naast de in [artikel 3.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2025-07-01&g=2025-07-01), bedoelde bescheiden, tevens een verklaring van:
 
@@ -582,55 +556,55 @@ Bij een aanvraag om afgifte van een bewijs van aanvraag om erkenning van een vaa
 
 #### Paragraaf 3.2. Vaarbevoegdheidsbewijzen zeeschepen, niet zijnde zeilschepen
 
-##### Artikel 3.2.1. Vaarbevoegdheid zeeschepen, niet zijnde zeilschepen minder dan 500 GT
+#### Artikel 3.2.1. Vaarbevoegdheid zeeschepen, niet zijnde zeilschepen minder dan 500 GT
 
 Voor de afgifte van een vaarbevoegdheidsbewijs voor een functie aan boord van een zeeschip, niet zijnde een zeilschip van minder dan 500 GT, is de aanvrager in het bezit van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=1&z=2025-07-01&g=2025-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=2&z=2025-07-01&g=2025-07-01) vastgestelde kennisbewijzen en bekwaamheidsbewijzen en wordt ten minste voldaan aan de vastgestelde diensttijdvereisten.
 
 #### Paragraaf 3.3. Bijzondere beroepseisen bepaalde scheepstypen en afgifte bekwaamheidsbewijzen
 
-##### Artikel 3.3.1. Bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen
+#### Artikel 3.3.1. Bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen
 
 Voor de afgifte van het bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen, bedoeld in [artikel 3.3.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.1), is de aanvrager in het bezit van het bekwaamheidsbewijs basisveiligheid en heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/1-1, eerste lid, van de STCW-code.
 
-##### Artikel 3.3.2. Bekwaamheidsbewijs ladingbehandeling olietankschepen voor gevorderden
+#### Artikel 3.3.2. Bekwaamheidsbewijs ladingbehandeling olietankschepen voor gevorderden
 
 Voor de afgifte van het bekwaamheidsbewijs olietankschepen voor gevorderden, bedoeld in [artikel 3.3.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.1), is de aanvrager in het bezit van het bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen en heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/1-1, tweede lid, van de STCW-code.
 
-##### Artikel 3.3.3. Bekwaamheidsbewijs ladingbehandeling chemicaliëntankschepen voor gevorderden
+#### Artikel 3.3.3. Bekwaamheidsbewijs ladingbehandeling chemicaliëntankschepen voor gevorderden
 
 Voor de afgifte van het bekwaamheidsbewijs ladingbehandeling chemicaliëntankschepen voor gevorderden, bedoeld in [artikel 3.3.1, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.1), is de aanvrager in het bezit van het bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen en heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/1-1, derde lid, van de STCW-code.
 
-##### Artikel 3.3.4. Bekwaamheidsbewijs basis ladingbehandeling gastankschepen
+#### Artikel 3.3.4. Bekwaamheidsbewijs basis ladingbehandeling gastankschepen
 
 Voor de afgifte van het bekwaamheidsbewijs basis ladingbehandeling gastankschepen, bedoeld in [artikel 3.3.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.2), is de aanvrager in het bezit van het bekwaamheidsbewijs basisveiligheid en heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/1-2, eerste lid, van de STCW-code.
 
-##### Artikel 3.3.5. Bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden
+#### Artikel 3.3.5. Bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden
 
 Voor de afgifte van het bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden, bedoeld in [artikel 3.3.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.2), is de aanvrager in het bezit van het bekwaamheidsbewijs basis ladingbehandeling gastankschepen en heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/1-2, tweede lid, van de STCW-code.
 
-##### Artikel 3.3.6. Schriftelijk bewijs dienstverlening aan passagiers
+#### Artikel 3.3.6. Schriftelijk bewijs dienstverlening aan passagiers
 
 Voor de afgifte van het schriftelijk bewijs dienstverlening aan passagiers, bedoeld in [artikel 3.3.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.3), heeft de aanvrager met goed gevolg een training afgerond die voldoet aan sectie A-V/2, tweede lid, van de STCW-code.
 
-##### Artikel 3.3.7. Bekwaamheidsbewijs of schriftelijk bewijs groepsbegeleiding
+#### Artikel 3.3.7. Bekwaamheidsbewijs of schriftelijk bewijs groepsbegeleiding
 
 Voor de afgifte van het bekwaamheidsbewijs of schriftelijk bewijs groepsbegeleiding, bedoeld in [artikel 3.3.3, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.3), heeft de aanvrager met goed gevolg een training afgerond die voldoet aan sectie A-V/2, derde lid, van de STCW-code.
 
-##### Artikel 3.3.8. Bekwaamheidsbewijs of schriftelijk bewijs crisisbeheersing en menselijk gedrag
+#### Artikel 3.3.8. Bekwaamheidsbewijs of schriftelijk bewijs crisisbeheersing en menselijk gedrag
 
 Voor de afgifte van het bekwaamheidsbewijs of schriftelijk bewijs crisisbeheersing en menselijk gedrag, bedoeld in [artikel 3.3.3, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.3), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/2, vierde lid, van de STCW-code.
 
-##### Artikel 3.3.9. Bekwaamheidsbewijs of schriftelijk bewijs passagiersveiligheid, ladingveiligheid en waterdichtheid van de scheepsromp
+#### Artikel 3.3.9. Bekwaamheidsbewijs of schriftelijk bewijs passagiersveiligheid, ladingveiligheid en waterdichtheid van de scheepsromp
 
 Voor de afgifte van het bekwaamheidsbewijs of schriftelijk bewijs passagiersveiligheid, ladingveiligheid en waterdichtheid van de scheepsromp, bedoeld in [artikel 3.3.3, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.3), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/2, vijfde lid, van de STCW-code.
 
-##### Artikel 3.3.10. Bekwaamheidsbewijs basistraining IGF-code
+#### Artikel 3.3.10. Bekwaamheidsbewijs basistraining IGF-code
 
 1. Voor de afgifte van het bekwaamheidsbewijs basistraining IGF-code, bedoeld in [artikel 3.3.4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.4), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/3, eerste lid, van de STCW-code.
 
 2. Voor de afgifte van het bekwaamheidsbewijs basistraining IGF-code komen tevens in aanmerking zeevarenden die in het bezit zijn van het bekwaamheidsbewijs basis ladingbehandeling gastankschepen of het bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden.
 
-##### Artikel 3.3.11. Bekwaamheidsbewijs gevorderdentraining IGF-code
+#### Artikel 3.3.11. Bekwaamheidsbewijs gevorderdentraining IGF-code
 
 1. Voor de afgifte van het bekwaamheidsbewijs gevorderdentraining IGF-code, bedoeld in [artikel 3.3.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.4):
 
@@ -654,11 +628,11 @@ Voor de afgifte van het bekwaamheidsbewijs of schriftelijk bewijs passagiersveil
 
 - 3°. zeeschepen die gas of brandstof met een laag vlampunt gebruiken als brandstof.
 
-##### Artikel 3.3.12. Bekwaamheidsbewijs basistraining Polar-code voor zeeschepen die in polaire wateren varen
+#### Artikel 3.3.12. Bekwaamheidsbewijs basistraining Polar-code voor zeeschepen die in polaire wateren varen
 
 Voor de afgifte van het bekwaamheidsbewijs basistraining Polar-code, bedoeld in [artikel 3.3.5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.5), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-V/4, eerste lid, van de STCW-code.
 
-##### Artikel 3.3.13. Bekwaamheidsbewijs gevorderdentraining Polar-code voor zeeschepen die in polaire wateren varen
+#### Artikel 3.3.13. Bekwaamheidsbewijs gevorderdentraining Polar-code voor zeeschepen die in polaire wateren varen
 
 Voor de afgifte van het bekwaamheidsbewijs gevorderdentraining Polar-code, bedoeld in [artikel 3.3.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.5):
 
@@ -668,11 +642,11 @@ Voor de afgifte van het bekwaamheidsbewijs gevorderdentraining Polar-code, bedoe
 
 - c. heeft de aanvrager gedurende ten minste twee maanden dienstgedaan in een relevante functie.
 
-##### Artikel 3.3.14. Bekwaamheidsbewijs type rating HSC
+#### Artikel 3.3.14. Bekwaamheidsbewijs type rating HSC
 
 Voor de afgifte van het bekwaamheidsbewijs type rating HSC, bedoeld in [artikel 3.3.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.3.9) heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan voorschrift 18.3.3 van de HSC-code.
 
-##### Artikel 3.3.15. Bekwaamheidsbewijs stoomvoortstuwing
+#### Artikel 3.3.15. Bekwaamheidsbewijs stoomvoortstuwing
 
 Voor de afgifte van het bekwaamheidsbewijs stoomvoortstuwing, bedoeld in [artikel 3.2.14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.14):
 
@@ -680,7 +654,7 @@ Voor de afgifte van het bekwaamheidsbewijs stoomvoortstuwing, bedoeld in [artike
 
 - b. heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-III/2 van de STCW-code, voor wat betreft het aspect voortstuwing door middel van stoomturbines.
 
-##### Artikel 3.3.16. Bekwaamheidsbewijs gasturbinevoortstuwing
+#### Artikel 3.3.16. Bekwaamheidsbewijs gasturbinevoortstuwing
 
 Voor de afgifte van het bekwaamheidsbewijs gasturbinevoortstuwing, bedoeld in [artikel 3.2.15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.15):
 
@@ -690,7 +664,7 @@ Voor de afgifte van het bekwaamheidsbewijs gasturbinevoortstuwing, bedoeld in [a
 
 #### Paragraaf 3.4. Kennisbewijzen officieren en bekwaamheidsbewijzen gezel
 
-##### Artikel 3.4.1. Kennisbewijs hoger maritiem officier alle zeeschepen of middelbaar maritiem officier alle zeeschepen
+#### Artikel 3.4.1. Kennisbewijs hoger maritiem officier alle zeeschepen of middelbaar maritiem officier alle zeeschepen
 
 Voor de afgifte van het kennisbewijs hoger maritiem officier alle zeeschepen of middelbaar maritiem officier alle zeeschepen:
 
@@ -716,7 +690,7 @@ Voor de afgifte van het kennisbewijs hoger maritiem officier alle zeeschepen of 
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.2. Kennisbewijs stuurman-werktuigkundige kleine zeeschepen
+#### Artikel 3.4.2. Kennisbewijs stuurman-werktuigkundige kleine zeeschepen
 
 Voor de afgifte van het kennisbewijs stuurman-werktuigkundige kleine zeeschepen:
 
@@ -742,7 +716,7 @@ Voor de afgifte van het kennisbewijs stuurman-werktuigkundige kleine zeeschepen:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.3. Kennisbewijs stuurman alle zeeschepen en stuurman waterbouw
+#### Artikel 3.4.3. Kennisbewijs stuurman alle zeeschepen en stuurman waterbouw
 
 Voor de afgifte van het kennisbewijs stuurman alle zeeschepen of stuurman waterbouw:
 
@@ -760,7 +734,7 @@ Voor de afgifte van het kennisbewijs stuurman alle zeeschepen of stuurman waterb
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan zes maanden gedurende wachtwerkzaamheden op de brug, onder bijhouding van een door of namens de kapitein af te tekenen stageboek.
 
-##### Artikel 3.4.4. Kennisbewijs wachtstuurman tot 3.000 GT
+#### Artikel 3.4.4. Kennisbewijs wachtstuurman tot 3.000 GT
 
 Voor de afgifte van het kennisbewijs wachtstuurman tot 3.000 GT:
 
@@ -778,7 +752,7 @@ Voor de afgifte van het kennisbewijs wachtstuurman tot 3.000 GT:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan zes maanden gedurende wachtwerkzaamheden op de brug, onder bijhouding van een door of namens de kapitein af te tekenen stageboek.
 
-##### Artikel 3.4.5. Kennisbewijs scheepswerktuigkundige alle zeeschepen en scheepswerktuigkundige waterbouw
+#### Artikel 3.4.5. Kennisbewijs scheepswerktuigkundige alle zeeschepen en scheepswerktuigkundige waterbouw
 
 Voor de afgifte van het kennisbewijs scheepswerktuigkundige alle zeeschepen of scheepswerktuigkundige waterbouw:
 
@@ -796,7 +770,7 @@ Voor de afgifte van het kennisbewijs scheepswerktuigkundige alle zeeschepen of s
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan zes maanden gedurende wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.6. Kennisbewijs wachtwerktuigkundige tot 3.000 kW
+#### Artikel 3.4.6. Kennisbewijs wachtwerktuigkundige tot 3.000 kW
 
 Voor de afgifte van het kennisbewijs wachtwerktuigkundige tot 3.000 kW:
 
@@ -814,7 +788,7 @@ Voor de afgifte van het kennisbewijs wachtwerktuigkundige tot 3.000 kW:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan zes maanden gedurende wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.7. Kennisbewijs schipper-machinist beperkt werkgebied
+#### Artikel 3.4.7. Kennisbewijs schipper-machinist beperkt werkgebied
 
 Voor de afgifte van het kennisbewijs schipper-machinist beperkt werkgebied:
 
@@ -832,7 +806,7 @@ Voor de afgifte van het kennisbewijs schipper-machinist beperkt werkgebied:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste zes maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.8. Kennisbewijs officier elektrotechniek alle zeeschepen
+#### Artikel 3.4.8. Kennisbewijs officier elektrotechniek alle zeeschepen
 
 Voor de afgifte van het kennisbewijs officier elektrotechniek alle zeeschepen:
 
@@ -842,7 +816,7 @@ Voor de afgifte van het kennisbewijs officier elektrotechniek alle zeeschepen:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan zes maanden gedurende wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.9. Kennisbewijs gezel elektrotechniek alle zeeschepen
+#### Artikel 3.4.9. Kennisbewijs gezel elektrotechniek alle zeeschepen
 
 Voor de afgifte van het kennisbewijs gezel elektrotechniek alle zeeschepen:
 
@@ -852,7 +826,7 @@ Voor de afgifte van het kennisbewijs gezel elektrotechniek alle zeeschepen:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste drie maanden diensttijd opgedaan, onder bijhouding van een door of namens de hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.10. Kennisbewijs gekwalificeerd gezel dek alle zeeschepen
+#### Artikel 3.4.10. Kennisbewijs gekwalificeerd gezel dek alle zeeschepen
 
 Voor de afgifte van het kennisbewijs gekwalificeerd gezel dek alle zeeschepen:
 
@@ -862,7 +836,7 @@ Voor de afgifte van het kennisbewijs gekwalificeerd gezel dek alle zeeschepen:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste zes maanden diensttijd opgedaan, onder bijhouding van een door of namens de kapitein af te tekenen stageboek, terwijl hij in het bezit is van de vaarbevoegdheid wachtlopend gezel dek alle zeeschepen.
 
-##### Artikel 3.4.11. Kennisbewijs gekwalificeerd gezel machinekamer alle zeeschepen
+#### Artikel 3.4.11. Kennisbewijs gekwalificeerd gezel machinekamer alle zeeschepen
 
 Voor de afgifte van het kennisbewijs gekwalificeerd gezel machinekamer alle zeeschepen:
 
@@ -872,7 +846,7 @@ Voor de afgifte van het kennisbewijs gekwalificeerd gezel machinekamer alle zees
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste zes maanden diensttijd opgedaan, onder bijhouding van een door of namens de hoofdwerktuigkundige af te tekenen stageboek, terwijl hij in het bezit is van de vaarbevoegdheid wachtlopend gezel machinekamer alle zeeschepen.
 
-##### Artikel 3.4.12. Kennisbewijs gekwalificeerd gezel dek en machinekamer alle zeeschepen
+#### Artikel 3.4.12. Kennisbewijs gekwalificeerd gezel dek en machinekamer alle zeeschepen
 
 Voor de afgifte van het kennisbewijs gekwalificeerd gezel dek en machinekamer alle zeeschepen:
 
@@ -890,7 +864,7 @@ Voor de afgifte van het kennisbewijs gekwalificeerd gezel dek en machinekamer al
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit werkzaamheden op de brug en uit werkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek, terwijl hij in het bezit is van de vaarbevoegdheid wachtlopend gezel dek en machinekamer alle zeeschepen.
 
-##### Artikel 3.4.13. Kennisbewijs wachtlopend gezel dek alle zeeschepen
+#### Artikel 3.4.13. Kennisbewijs wachtlopend gezel dek alle zeeschepen
 
 Voor de afgifte van het kennisbewijs wachtlopend gezel dek alle zeeschepen:
 
@@ -904,7 +878,7 @@ Voor de afgifte van het kennisbewijs wachtlopend gezel dek alle zeeschepen:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twee maanden diensttijd opgedaan met betrekking tot het verrichten van werkzaamheden op het gebied van de brugwacht, onder bijhouding van een door of namens de kapitein af te tekenen stageboek.
 
-##### Artikel 3.4.14. Kennisbewijs wachtlopend gezel machinekamer alle zeeschepen
+#### Artikel 3.4.14. Kennisbewijs wachtlopend gezel machinekamer alle zeeschepen
 
 Voor de afgifte van het kennisbewijs wachtlopend gezel machinekamer alle zeeschepen:
 
@@ -918,7 +892,7 @@ Voor de afgifte van het kennisbewijs wachtlopend gezel machinekamer alle zeesche
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twee maanden diensttijd opgedaan met betrekking tot het verrichten van werkzaamheden op het gebied van de machinekamerwacht, onder bijhouding van een door of namens de hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.15. Kennisbewijs wachtlopend gezel dek en machinekamer alle zeeschepen
+#### Artikel 3.4.15. Kennisbewijs wachtlopend gezel dek en machinekamer alle zeeschepen
 
 Voor de afgifte van het kennisbewijs wachtlopend gezel dek en machinekamer alle zeeschepen:
 
@@ -940,7 +914,7 @@ Voor de afgifte van het kennisbewijs wachtlopend gezel dek en machinekamer alle 
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste vier maanden diensttijd opgedaan die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.16. Kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW4
+#### Artikel 3.4.16. Kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW4
 
 Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW4:
 
@@ -950,7 +924,7 @@ Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen 
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste 12 maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder het bijhouden van een door of namens de schipper af te tekenen stageboek.
 
-##### Artikel 3.4.17. Kennisbewijs stuurman vissersvaartuigen S4
+#### Artikel 3.4.17. Kennisbewijs stuurman vissersvaartuigen S4
 
 Voor de afgifte van het kennisbewijs stuurman vissersvaartuigen S4:
 
@@ -960,7 +934,7 @@ Voor de afgifte van het kennisbewijs stuurman vissersvaartuigen S4:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan gedurende zes maanden wachtwerkzaamheden op de brug, onder het bijhouden van een door of namens de schipper af te tekenen stageboek.
 
-##### Artikel 3.4.18. Kennisbewijs werktuigkundige alle vissersvaartuigen W4
+#### Artikel 3.4.18. Kennisbewijs werktuigkundige alle vissersvaartuigen W4
 
 Voor de afgifte van het kennisbewijs werktuigkundige vissersvaartuigen W4:
 
@@ -970,7 +944,7 @@ Voor de afgifte van het kennisbewijs werktuigkundige vissersvaartuigen W4:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, waarvan gedurende zes maanden wachtwerkzaamheden in de machinekamer, onder het bijhouden van een door of namens de schipper af te tekenen stageboek.
 
-##### Artikel 3.4.19. Kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW5
+#### Artikel 3.4.19. Kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW5
 
 Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW5:
 
@@ -980,7 +954,7 @@ Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen 
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder het bijhouden van een door of namens de schipper af te tekenen stageboek.
 
-##### Artikel 3.4.20. Kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW6
+#### Artikel 3.4.20. Kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW6
 
 Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen SW6:
 
@@ -990,7 +964,7 @@ Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen 
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste zes maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder het bijhouden van een door of namens de schipper af te tekenen stageboek.
 
-##### Artikel 3.4.21. Bekwaamheidsbewijs stuurman grote zeilvaart
+#### Artikel 3.4.21. Bekwaamheidsbewijs stuurman grote zeilvaart
 
 1. Voor de afgifte van het bekwaamheidsbewijs stuurman grote zeilvaart:
 
@@ -1012,7 +986,7 @@ Voor de afgifte van het kennisbewijs stuurman-werktuigkundige vissersvaartuigen 
 
 3. In afwijking van het eerste lid, onderdeel c, kan de aanvrager die in het bezit is van een geldig vaarbevoegdheidsbewijs voor de functie maritiem officier, stuurman zeeschepen van minder dan 3.000 GT of stuurman alle zeeschepen, volstaan met een diensttijd van ten minste twee maanden.
 
-##### Artikel 3.4.22. Bekwaamheidsbewijs stuurman kleine zeilvaart
+#### Artikel 3.4.22. Bekwaamheidsbewijs stuurman kleine zeilvaart
 
 Voor de afgifte van het bekwaamheidsbewijs stuurman kleine zeilvaart:
 
@@ -1026,7 +1000,7 @@ Voor de afgifte van het bekwaamheidsbewijs stuurman kleine zeilvaart:
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste zes maanden diensttijd opgedaan onder bijhouding van een door of namens de kapitein af te tekenen stageboek.
 
-##### Artikel 3.4.23. Kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom nautisch
+#### Artikel 3.4.23. Kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom nautisch
 
 Voor de afgifte van het kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom nautisch (Crohonummer 34384):
 
@@ -1048,7 +1022,7 @@ Voor de afgifte van het kennisbewijs hoger Maritiem officier (semi-duaal) – ui
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste 12 maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.24. Kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom technisch
+#### Artikel 3.4.24. Kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom technisch
 
 Voor de afgifte van het kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom technisch (Crohonummer 34384):
 
@@ -1070,7 +1044,7 @@ Voor de afgifte van het kennisbewijs hoger Maritiem officier (semi-duaal) – ui
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste 12 maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.25. Kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom technisch en ETO
+#### Artikel 3.4.25. Kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom technisch en ETO
 
 Voor de afgifte van het kennisbewijs hoger Maritiem officier (semi-duaal) – uitstroom technisch en ETO (Crohonummer 34384):
 
@@ -1096,7 +1070,7 @@ Voor de afgifte van het kennisbewijs hoger Maritiem officier (semi-duaal) – ui
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.26. Kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom nautisch koopvaardij en waterbouw
+#### Artikel 3.4.26. Kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom nautisch koopvaardij en waterbouw
 
 Voor de afgifte van het kennisbewijs middelbaar maritiem officier alle zeeschepen, Nautisch Koopvaardij of Waterbouw (Crebonummers 25680 en 25681):
 
@@ -1118,7 +1092,7 @@ Voor de afgifte van het kennisbewijs middelbaar maritiem officier alle zeeschepe
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.27. Kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom nautisch visserij
+#### Artikel 3.4.27. Kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom nautisch visserij
 
 Voor de afgifte van het kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom nautisch visserij Nautisch Visserij (Crebonummer 25682):
 
@@ -1142,7 +1116,7 @@ Voor de afgifte van het kennisbewijs middelbaar maritiem officier alle zeeschepe
 
 - d. heeft de aanvrager als onderdeel van de in onderdeel c bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein, schipper of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.28. Kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom technisch
+#### Artikel 3.4.28. Kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom technisch
 
 Voor de afgifte van het kennisbewijs middelbaar maritiem officier alle zeeschepen, semi-duaal – uitstroom technisch (Crebonummer 25683):
 
@@ -1164,7 +1138,7 @@ Voor de afgifte van het kennisbewijs middelbaar maritiem officier alle zeeschepe
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.29. Kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – uitstroom nautisch koopvaardij
+#### Artikel 3.4.29. Kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – uitstroom nautisch koopvaardij
 
 Voor de afgifte van het kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – nautisch koopvaardij (Crebonummer 25677):
 
@@ -1186,7 +1160,7 @@ Voor de afgifte van het kennisbewijs maritiem officier kleine zeeschepen, semi-d
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.30. Kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – uitstroom nautisch visserij
+#### Artikel 3.4.30. Kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – uitstroom nautisch visserij
 
 Voor de afgifte van het kennisbewijs maritiem officier kleine zeeschepen – uitstroom nautisch visserij (Crebonummer 25678):
 
@@ -1196,7 +1170,7 @@ Voor de afgifte van het kennisbewijs maritiem officier kleine zeeschepen – uit
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder het bijhouden van een door of namens de schipper af te tekenen stageboek.
 
-##### Artikel 3.4.31. Kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – uitstroom technisch
+#### Artikel 3.4.31. Kennisbewijs maritiem officier kleine zeeschepen, semi-duaal – uitstroom technisch
 
 Voor de afgifte van het kennisbewijs maritiem officier kleine zeeschepen, technisch (Crebonummer 25679):
 
@@ -1218,7 +1192,7 @@ Voor de afgifte van het kennisbewijs maritiem officier kleine zeeschepen, techni
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste twaalf maanden diensttijd opgedaan, die in gelijke mate bestaat uit wachtwerkzaamheden op de brug en uit wachtwerkzaamheden in de machinekamer, onder bijhouding van een door of namens de kapitein of hoofdwerktuigkundige af te tekenen stageboek.
 
-##### Artikel 3.4.32. Kennisbewijs MBO-keuzedeel STCW ladingbehandeling en stuwage management niveau
+#### Artikel 3.4.32. Kennisbewijs MBO-keuzedeel STCW ladingbehandeling en stuwage management niveau
 
 Voor de afgifte van het kennisbewijs MBO-keuzedeel STCW ladingbehandeling en stuwage management niveau (K1212):
 
@@ -1228,7 +1202,7 @@ Voor de afgifte van het kennisbewijs MBO-keuzedeel STCW ladingbehandeling en stu
 
 - c. heeft de aanvrager als onderdeel van de in onderdeel b bedoelde opleiding gedurende ten minste drie maanden diensttijd opgedaan.
 
-##### Artikel 3.4.33. Kennisbewijs MBO-keuzedeel visserij
+#### Artikel 3.4.33. Kennisbewijs MBO-keuzedeel visserij
 
 Voor de afgifte van het kennisbewijs MBO-keuzedeel visserij (K1244):
 
@@ -1238,19 +1212,19 @@ Voor de afgifte van het kennisbewijs MBO-keuzedeel visserij (K1244):
 
 #### Paragraaf 3.5. Aanvullende beroepseisen en afgifte bekwaamheidsbewijzen
 
-##### Artikel 3.5.1. Bekwaamheidsbewijs basisveiligheid
+#### Artikel 3.5.1. Bekwaamheidsbewijs basisveiligheid
 
 1. Voor de afgifte van het bekwaamheidsbewijs basisveiligheid, bedoeld in [artikel 3.5.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.1), of het bekwaamheidsbewijs van de passende herhalingstraining, bedoeld in [artikel 3.5.1, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.1), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/1, tweede lid, van de STCW-code.
 
 2. Sectie A-VI/1, vierde lid, van de STCW-code is van toepassing op de herhalingstraining, bedoeld in het eerste lid.
 
-##### Artikel 3.5.2. Bekwaamheidsbewijs basisveiligheid voor vissers
+#### Artikel 3.5.2. Bekwaamheidsbewijs basisveiligheid voor vissers
 
 1. Voor de afgifte van het bekwaamheidsbewijs basisveiligheid voor vissers, bedoeld in [artikel 3.5.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.2), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan voldoet aan sectie A-VI/1, tweede lid, van de STCW-code, en de eisen met betrekking tot de module visserij zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=3&z=2025-07-01&g=2025-07-01).
 
 2. Voor de afgifte van het bekwaamheidsbewijs van de herhalingstraining basisveiligheid voor vissers, bedoeld in [artikel 3.5.2, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.2), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan die voldoet aan sectie A-VI/1, tweede lid, van de STCW-code, en de eisen met betrekking tot de module visserij zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=3&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.5.3. Bekwaamheidsbewijs reddingmiddelen
+#### Artikel 3.5.3. Bekwaamheidsbewijs reddingmiddelen
 
 1. Voor de afgifte van het bekwaamheidsbewijs reddingmiddelen, bedoeld in [artikel 3.5.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.3), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/2, eerste tot en met vierde lid, van de STCW-code.
 
@@ -1262,7 +1236,7 @@ Voor de afgifte van het kennisbewijs MBO-keuzedeel visserij (K1244):
 
 5. Voor de afgifte van het bekwaamheidsbewijs reddingmiddelen zeilschepen van minder dan 500 GT, bedoeld in het vierde lid, heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=9&z=2025-07-01&g=2025-07-01) genoemde onderdelen beslaat.
 
-##### Artikel 3.5.4. Bekwaamheidsbewijs snelle hulpverleningsboten
+#### Artikel 3.5.4. Bekwaamheidsbewijs snelle hulpverleningsboten
 
 1. Voor de afgifte van het bekwaamheidsbewijs snelle hulpverleningsboten, bedoeld in [artikel 3.5.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.3), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/2, zevende tot en met tiende lid, van de STCW-code.
 
@@ -1270,7 +1244,7 @@ Voor de afgifte van het kennisbewijs MBO-keuzedeel visserij (K1244):
 
 3. Sectie A-VI/2, twaalfde lid, van de STCW-code is van toepassing op de herhalingstraining, bedoeld in het eerste en tweede lid.
 
-##### Artikel 3.5.5. Bekwaamheidsbewijs brandbestrijding voor gevorderden
+#### Artikel 3.5.5. Bekwaamheidsbewijs brandbestrijding voor gevorderden
 
 1. Voor de afgifte van het bekwaamheidsbewijs brandbestrijding voor gevorderden, bedoeld in [artikel 3.5.4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.4), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/3, eerste tot en met vierde lid, van de STCW-code.
 
@@ -1278,27 +1252,27 @@ Voor de afgifte van het kennisbewijs MBO-keuzedeel visserij (K1244):
 
 3. Sectie A-VI/3, zesde lid, van de STCW-code is van toepassing op de herhalingstraining, bedoeld in het eerste en tweede lid.
 
-##### Artikel 3.5.6. Bekwaamheidsbewijs medische eerste hulp aan boord
+#### Artikel 3.5.6. Bekwaamheidsbewijs medische eerste hulp aan boord
 
 Voor de afgifte van het bekwaamheidsbewijs medische eerste hulp aan boord van een zeeschip, bedoeld in [artikel 3.5.5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.5), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/4, eerste tot en met derde lid, van de STCW-code.
 
-##### Artikel 3.5.7. Bekwaamheidsbewijs medische zorg aan boord
+#### Artikel 3.5.7. Bekwaamheidsbewijs medische zorg aan boord
 
 Voor de afgifte van het bekwaamheidsbewijs medische zorg aan boord, bedoeld in [artikel 3.5.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.5), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/4, vierde tot en met zesde lid, van de STCW-code.
 
-##### Artikel 3.5.8. Bekwaamheidsbewijs scheepsbeveiligingsfunctionaris
+#### Artikel 3.5.8. Bekwaamheidsbewijs scheepsbeveiligingsfunctionaris
 
 Voor de afgifte van het bekwaamheidsbewijs scheepsbeveiligingsfunctionaris, bedoeld in [artikel 3.5.6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.6), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/5, eerste tot en met vierde lid, van de STCW-code.
 
-##### Artikel 3.5.9. Bekwaamheidsbewijs uitvoering beveiligingstaken
+#### Artikel 3.5.9. Bekwaamheidsbewijs uitvoering beveiligingstaken
 
 Voor de afgifte van het bekwaamheidsbewijs uitvoering beveiligingstaken, bedoeld in [artikel 3.5.6, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.6), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/6, zesde tot en met achtste lid, van de STCW-code.
 
-##### Artikel 3.5.10. Bekwaamheidsbewijs bewustwording scheepsbeveiliging
+#### Artikel 3.5.10. Bekwaamheidsbewijs bewustwording scheepsbeveiliging
 
 Voor de afgifte van het bekwaamheidsbewijs bewustwording scheepsbeveiliging, bedoeld in [artikel 3.5.6, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.6), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die voldoet aan sectie A-VI/6, vierde lid, van de STCW-code.
 
-##### Artikel 3.5.11. Bekwaamheidsbewijs scheepskok
+#### Artikel 3.5.11. Bekwaamheidsbewijs scheepskok
 
 Voor de afgifte van het bekwaamheidsbewijs scheepskok, bedoeld in [artikel 2.4.4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=2.4.4):
 
@@ -1318,35 +1292,35 @@ Voor de afgifte van het bekwaamheidsbewijs scheepskok, bedoeld in [artikel 2.4.4
 
 - 6°. gezondheid en veiligheid met betrekking tot maaltijdverzorging.
 
-##### Artikel 3.5.12. Bekwaamheidsbewijs wetgeving en openbaar gezag
+#### Artikel 3.5.12. Bekwaamheidsbewijs wetgeving en openbaar gezag
 
 Voor de afgifte van het bekwaamheidsbewijs wetgeving en openbaar gezag, bedoeld in [artikel 3.1.10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.10), heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=4&z=2025-07-01&g=2025-07-01) genoemde onderdelen beslaat.
 
-##### Artikel 3.5.13. Bekwaamheidsbewijs scheepsmanagement-N
+#### Artikel 3.5.13. Bekwaamheidsbewijs scheepsmanagement-N
 
 Voor de afgifte van een bekwaamheidsbewijs scheepsmanagement-N, benodigd om in aanmerking te komen voor een vaarbevoegdheidsbewijs kapitein als bedoeld in [artikel 3.2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.3) heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=5&z=2025-07-01&g=2025-07-01) genoemde onderdelen beslaat.
 
-##### Artikel 3.5.14. Bekwaamheidsbewijs scheepsmanagement-W
+#### Artikel 3.5.14. Bekwaamheidsbewijs scheepsmanagement-W
 
 Voor de afgifte van een bekwaamheidsbewijs scheepsmanagement-W, benodigd om in aanmerking te komen voor een vaarbevoegdheidsbewijs hoofdwerktuigkundige als bedoeld in [artikel 3.2.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.12) heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=6&z=2025-07-01&g=2025-07-01) genoemde onderdelen beslaat.
 
-##### Artikel 3.5.15. Bekwaamheidsbewijs aanvulling-N voor reizen nabij de kust (EEZ)
+#### Artikel 3.5.15. Bekwaamheidsbewijs aanvulling-N voor reizen nabij de kust (EEZ)
 
 Voor de afgifte van een bekwaamheidsbewijs aanvulling-N reizen nabij de kust in de EEZ, om in aanmerking te komen voor een vaarbevoegdheidsbewijs kapitein als bedoeld in [artikel 3.2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.8) heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=7&z=2025-07-01&g=2025-07-01) genoemde onderdelen beslaat.
 
-##### Artikel 3.5.16. Bekwaamheidsbewijs aanvulling-W voor reizen nabij de kust (EEZ)
+#### Artikel 3.5.16. Bekwaamheidsbewijs aanvulling-W voor reizen nabij de kust (EEZ)
 
 Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in de EEZ, om in aanmerking te komen voor een vaarbevoegdheidsbewijs hoofdwerktuigkundige als bedoeld in [artikel 3.2.13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.2.13) heeft de aanvrager met goed gevolg een door de minister erkende training afgerond die de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=8&z=2025-07-01&g=2025-07-01) genoemde onderdelen beslaat.
 
 #### Paragraaf 3.6. Medische geschiktheid
 
-##### Artikel 3.6.1. Eisen keuringsarts
+#### Artikel 3.6.1. Eisen keuringsarts
 
 1. Een door de minister als keuringsarts aangewezen geneeskundige voldoet aan de voorwaarden opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=10&z=2025-07-01&g=2025-07-01).
 
 2. Een door de minister als keuringsarts erkend geneeskundige voldoet aan de voorwaarden opgenomen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=11&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.6.2. Bij keuring over te leggen en te controleren bescheiden
+#### Artikel 3.6.2. Bij keuring over te leggen en te controleren bescheiden
 
 1. De keuringsarts controleert voorafgaand aan de keuring:
 
@@ -1358,7 +1332,7 @@ Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in 
 
 - d. indien van toepassing, een geldige ontheffing als bedoeld in [artikel 3.6.3, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.6.3), afgegeven namens de minister door de Medisch Adviseur Scheepvaart.
 
-##### Artikel 3.6.3. Keuring en geneeskundig onderzoek
+#### Artikel 3.6.3. Keuring en geneeskundig onderzoek
 
 1. De keuring vindt plaats met inachtneming van de keuringsaanwijzingen en overeenkomstig de medische maatstaven opgenomen in bijlage 12 en appendix A tot en met E van Guidelines on the medical examinations of seafarers van de International Labour Office, Sectoral Activities Programme van de International Migration Organization 2013 (ILO/IMO/JMS/2011/12).
 
@@ -1368,7 +1342,7 @@ Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in 
 
 4. De keuring van de algemene lichamelijke geschiktheid omvat een onderzoek naar de voorheen doorgemaakte ziekten en overkomen ongevallen (anamnese), de in de familie voorkomende erfelijke en chronische ziekten (familieanamnese), een algemene beoordeling van de geestelijke gesteldheid van de keurling, chemisch onderzoek van urine, alsmede een algemeen onderzoek van het lichaam, het gezichtsorgaan en het gehoororgaan op een dusdanige wijze dat kan worden vastgesteld of de kandidaat voldoet aan de maatstaven, bedoeld in het eerste lid.
 
-##### Artikel 3.6.4. Specialistisch rapport of deelonderzoek
+#### Artikel 3.6.4. Specialistisch rapport of deelonderzoek
 
 1. Indien op grond van de medische eisen, bedoeld in [artikel 3.6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.6&artikel=3.6.3&z=2025-07-01&g=2025-07-01), een specialistisch rapport is voorgeschreven of bij twijfel of wordt voldaan aan de medische eisen, vraagt de keuringsarts informatie op bij de behandelend arts.
 
@@ -1376,7 +1350,7 @@ Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in 
 
 3. De keuring wordt door de keuringsarts afgerond na ontvangst van de informatie van de behandelend arts of de uitslag van het specialistisch deelonderzoek.
 
-##### Artikel 3.6.5. Afgifte geneeskundige verklaring bij goedkeuring
+#### Artikel 3.6.5. Afgifte geneeskundige verklaring bij goedkeuring
 
 1. De keuringsarts die een keuring heeft verricht waarvan de uitslag gunstig is, overhandigt aan de keurling een geneeskundige verklaring zeevaart ter ondertekening door de keurling.
 
@@ -1386,7 +1360,7 @@ Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in 
 
 4. Het model voor de geneeskundige verklaring zeevaart is opgenomen in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=14&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.6.6. Verklaring van medische ongeschiktheid
+#### Artikel 3.6.6. Verklaring van medische ongeschiktheid
 
 1. Indien de afgifte van een geneeskundige verklaring zeevaart wordt geweigerd, deelt de keuringsarts dit aan de keurling mede onder vermelding van de reden of redenen tot afkeuring. De keuringsarts deelt tevens mede dat de keurling recht heeft op een herkeuring.
 
@@ -1402,13 +1376,13 @@ Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in 
 
 7. Het model voor de verklaring van medische ongeschiktheid is het model, opgenomen in [bijlage 6.3 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=6.3).
 
-##### Artikel 3.6.7. Herkeuring
+#### Artikel 3.6.7. Herkeuring
 
 1. Indien de keuringsarts de geneeskundige verklaring zeevaart niet kan afgeven vanwege tijdelijke ongeschiktheid kan herkeuring uitsluitend plaatsvinden door dezelfde keuringsarts die de keurling ongeschikt heeft bevonden, tenzij de keurling gebruik wenst te maken van het recht tot herkeuring door een aangewezen medisch scheidsrechter.
 
 2. Indien de keuringsarts de geneeskundige verklaring zeevaart niet kan afgeven vanwege blijvende ongeschiktheid kan herkeuring uitsluitend plaatsvinden door een aangewezen medisch scheidsrechter.
 
-##### Artikel 3.6.8. Handelwijze medisch scheidsrechter bij herkeuring
+#### Artikel 3.6.8. Handelwijze medisch scheidsrechter bij herkeuring
 
 1. Bij het uitvoeren van een herkeuring zijn de [artikelen 3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.6&artikel=3.6.3&z=2025-07-01&g=2025-07-01) en [3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.6&artikel=3.6.4&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat reeds door de keuringsarts in orde bevonden onderdelen van de keuring niet behoeven te worden herhaald tenzij over de uitslag twijfel bestaat.
 
@@ -1422,7 +1396,7 @@ Voor de afgifte van een bekwaamheidsbewijs aanvulling-W reizen nabij de kust in 
 
 #### Paragraaf 3.7. Erkenning maritieme trainingsinstituten en trainingen
 
-##### Artikel 3.7.1. Algemeen
+#### Artikel 3.7.1. Algemeen
 
 Een training als bedoeld in deze regeling:
 
@@ -1430,7 +1404,7 @@ Een training als bedoeld in deze regeling:
 
 - b. is door de minister erkend.
 
-##### Artikel 3.7.2. De aanvraag tot erkenning van een instituut
+#### Artikel 3.7.2. De aanvraag tot erkenning van een instituut
 
 1. Een trainingsinstituut dient een aanvraag om erkenning schriftelijk in bij de minister.
 
@@ -1440,7 +1414,7 @@ Een training als bedoeld in deze regeling:
 
 - b. een afschrift van het door het trainingsinstituut gehanteerde management- en kwaliteitssysteem, alsmede een rapport betreffende het functioneren ervan opgemaakt door een van het trainingsinstituut onafhankelijke instantie of certificerende instelling.
 
-##### Artikel 3.7.3. Beoordeling van de aanvraag
+#### Artikel 3.7.3. Beoordeling van de aanvraag
 
 Een trainingsinstituut wordt door de minister erkend voor een periode van niet meer dan vijf jaar:
 
@@ -1462,7 +1436,7 @@ Een trainingsinstituut wordt door de minister erkend voor een periode van niet m
 
 - b. na een positieve documentbeoordeling, zo nodig nadat de werking van het management- en kwaliteitssysteem van het trainingsinstituut op de locatie van het trainingsinstituut door de Inspectie Leefomgeving en Transport positief is beoordeeld.
 
-##### Artikel 3.7.4. Aanvullende eisen
+#### Artikel 3.7.4. Aanvullende eisen
 
 1. Het management- en kwaliteitssysteem voldoet aan NEN-EN-ISO 9001 of een gelijkwaardig management- en kwaliteitssysteem voor wat betreft productontwikkeling en productkwaliteitszorg.
 
@@ -1474,7 +1448,7 @@ Een trainingsinstituut wordt door de minister erkend voor een periode van niet m
 
 5. In afwijking van het vierde lid voldoet het trainingsinstituut in het geval van trainingen die niet voortkomen uit [richtlijn (EU) 2022/993](32022L0993) aan de eisen vastgelegd in de toepasselijke verdragen en codes.
 
-##### Artikel 3.7.5. Erkennen van een training
+#### Artikel 3.7.5. Erkennen van een training
 
 1. Een erkend trainingsinstituut dient voor elke afzonderlijke training een aanvraag om erkenning in bij de minister.
 
@@ -1504,17 +1478,17 @@ Een trainingsinstituut wordt door de minister erkend voor een periode van niet m
 
 3. Een training wordt erkend voor een periode van niet meer dan vijf jaar.
 
-##### Artikel 3.7.6. Derden
+#### Artikel 3.7.6. Derden
 
 1. Een onderdeel van een training kan door een ander trainingsinstituut worden uitgevoerd indien dat instituut voor dat onderdeel erkend is door de minister.
 
 2. Indien een trainingsinstituut gebruik maakt van oefenobjecten op een locatie van derden en dit onderdeel geheel zelf verzorgt, blijkt dit uit de opgave van het lesmateriaal bedoeld in [artikel 3.7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.7&artikel=3.7.5&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.7.7. Simulatoren
+#### Artikel 3.7.7. Simulatoren
 
 Indien een simulator deel uitmaakt van een training voldoet deze training/simulatie aan de eisen opgenomen in sectie A-I/12, deel A, van de STCW-code en aan de eisen die voortkomen uit de Leidraad Maritieme Simulator van de Inspectie Leefomgeving en Transport.
 
-##### Artikel 3.7.8. Reddingmiddelen en trainingsmiddelen
+#### Artikel 3.7.8. Reddingmiddelen en trainingsmiddelen
 
 1. Indien het gebruik van reddingmiddelen deel uitmaakt van een training voldoen de reddingsmiddelen aan de eisen opgenomen in de bij resolutie MSC.48(66) van de Algemene Vergadering van de IMO aangenomen Code inzake reddingsmiddelen (International Life-Saving Appliance Code, LSA-code);
 
@@ -1522,7 +1496,7 @@ Indien een simulator deel uitmaakt van een training voldoet deze training/simula
 
 3. Overige gebruikte trainingsmiddelen voldoen aan de vigerende wettelijke eisen en industriestandaarden.
 
-##### Artikel 3.7.9. Het intrekken van de erkenning
+#### Artikel 3.7.9. Het intrekken van de erkenning
 
 1. De minister kan de erkenning van een trainingsinstituut intrekken, indien:
 
@@ -1536,13 +1510,13 @@ Indien een simulator deel uitmaakt van een training voldoet deze training/simula
 
 - b. bij een tussentijdse controle dusdanige tekortkomingen zijn vastgesteld dat de kwaliteit van de training niet langer is gegarandeerd.
 
-##### Artikel 3.7.10. Administratieve bepaling
+#### Artikel 3.7.10. Administratieve bepaling
 
 Bij beëindiging van een trainingsinstituut of trainingen verzorgd door een trainingsinstituut wordt het register, bedoeld in [artikel 3.7.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.7&artikel=3.7.4&z=2025-07-01&g=2025-07-01), overgedragen aan de minister, die dit register gedurende ten minste vijftig jaar bewaart.
 
 #### Paragraaf 3.8. Bemanning zeilschepen minder dan 500 GT
 
-##### Artikel 3.8.1. Afgifte en vernieuwen vaarbevoegdheidsbewijs voor het dienstdoen op zeilschepen van minder dan 500 GT
+#### Artikel 3.8.1. Afgifte en vernieuwen vaarbevoegdheidsbewijs voor het dienstdoen op zeilschepen van minder dan 500 GT
 
 1. In afwijking van de [artikelen 3.1.1 tot en met 3.1.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.1.1) is op de afgifte en het vernieuwen van een vaarbevoegdheidsbewijs voor het dienstdoen op zeilschepen van minder dan 500 GT dit artikel van toepassing.
 
@@ -1558,7 +1532,7 @@ Bij beëindiging van een trainingsinstituut of trainingen verzorgd door een trai
 
 - b. diensttijd zeilschepen minder dan 500 GT van een half seizoen in de periode van zes maanden voorafgaand aan de datum van de aanvraag tot vernieuwing.
 
-##### Artikel 3.8.2. Vernieuwen vaarbevoegdheidsbewijs bij verstrijken geldigheid of onvoldoende diensttijd
+#### Artikel 3.8.2. Vernieuwen vaarbevoegdheidsbewijs bij verstrijken geldigheid of onvoldoende diensttijd
 
 1. Een vaarbevoegdheidsbewijs of een aanvulling daarop waarvan de geldigheid niet langer dan vijf jaar is verstreken, wordt op aanvraag vernieuwd indien de houder:
 
@@ -1572,13 +1546,13 @@ Bij beëindiging van een trainingsinstituut of trainingen verzorgd door een trai
 
 3. Een vaarbevoegdheidsbewijs waarvan de geldigheid langer dan vijf jaar is verstreken, wordt op aanvraag vernieuwd indien de houder voorafgaand aan de aanvraag een opleiding heeft gevolgd als bedoeld in de [artikelen 3.4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.4&artikel=3.4.22&z=2025-07-01&g=2025-07-01) of [3.4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.4&artikel=3.4.23&z=2025-07-01&g=2025-07-01) en deze met succes heeft afgerond.
 
-##### Artikel 3.8.3. Verloren gegaan vaarbevoegdheidsbewijs
+#### Artikel 3.8.3. Verloren gegaan vaarbevoegdheidsbewijs
 
 1. Een vaarbevoegdheidsbewijs dat verloren is gegaan kan door de minister worden vervangen door een duplicaat, waarvan de einddatum overeenkomt met de einddatum op het originele document.
 
 2. Indien de aanvrager van een duplicaat aanspraak kan maken op vernieuwing van het vaarbevoegdheidsbewijs, wordt hem desgevraagd met inachtneming van het derde lid een vaarbevoegdheidsbewijs afgegeven.
 
-##### Artikel 3.8.4. Bekwaamheidsbewijzen en diensttijd
+#### Artikel 3.8.4. Bekwaamheidsbewijzen en diensttijd
 
 Voor de afgifte van een vaarbevoegdheidsbewijs voor de functie kapitein zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden zeilvaart III en IV, is ten minste vereist:
 
@@ -1596,7 +1570,7 @@ Voor de afgifte van een vaarbevoegdheidsbewijs voor de functie kapitein zeilvaar
 
 - g. een diensttijd zeilschepen minder dan 500 GT van twee seizoenen als wachtstuurman zeilvaart.
 
-##### Artikel 3.8.5. Vaarbevoegdheidsbewijs voor de functie kapitein zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in vaargebied I
+#### Artikel 3.8.5. Vaarbevoegdheidsbewijs voor de functie kapitein zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in vaargebied I
 
 1. Voor de afgifte van een vaarbevoegdheidsbewijs voor de functie kapitein zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden zeilvaart I, II en IIIA, is ten minste vereist:
 
@@ -1614,7 +1588,7 @@ Voor de afgifte van een vaarbevoegdheidsbewijs voor de functie kapitein zeilvaar
 
 2. In afwijking van het eerste lid, aanhef en onderdeel f, volstaat een diensttijd van twee seizoenen als wachtstuurman zeilvaart aan boord van zeilschepen op binnenwater voor de afgifte van een vaarbevoegdheidsbewijs als kapitein zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden zeilvaart I en II.
 
-##### Artikel 3.8.6. Vaarbevoegdheidsbewijs als wachtstuurman zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden III en IV
+#### Artikel 3.8.6. Vaarbevoegdheidsbewijs als wachtstuurman zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden III en IV
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als wachtstuurman zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden zeilvaart III en IV, is ten minste vereist:
 
@@ -1630,7 +1604,7 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als wachtstuurman zeilvaart met d
 
 - f. de leeftijd van achttien jaar.
 
-##### Artikel 3.8.7. Vaarbevoegdheidsbewijs als wachtstuurman zeilvaart
+#### Artikel 3.8.7. Vaarbevoegdheidsbewijs als wachtstuurman zeilvaart
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als wachtstuurman zeilvaart met de beperking tot zeilschepen van minder dan 500 GT op reizen in de vaargebieden zeilvaart I, II en IIIA, is ten minste vereist:
 
@@ -1646,7 +1620,7 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als wachtstuurman zeilvaart met d
 
 - f. de leeftijd van achttien jaar.
 
-##### Artikel 3.8.8. Vaarbevoegdheidsbewijs als gezel zeilvaart
+#### Artikel 3.8.8. Vaarbevoegdheidsbewijs als gezel zeilvaart
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als gezel zeilvaart met de beperking tot zeilschepen van minder dan 500 GT, is ten minste vereist:
 
@@ -1658,7 +1632,7 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als gezel zeilvaart met de beperk
 
 - d. de leeftijd van zestien jaar.
 
-##### Artikel 3.8.9. Landelijk Examenbureau voor de Beroepszeilvaart
+#### Artikel 3.8.9. Landelijk Examenbureau voor de Beroepszeilvaart
 
 1. Een bekwaamheidsbewijs stuurman grote zeilvaart of stuurman kleine zeilvaart wordt afgegeven door het Landelijke Examenbureau voor de Beroepszeilvaart.
 
@@ -1692,13 +1666,13 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als gezel zeilvaart met de beperk
 
 #### Paragraaf 3.9. Beroepsvereisten Caribisch-Nederlandse schepen
 
-##### Artikel 3.9.1. Bemanningscertificaat internationaal varend Caribisch-Nederlands schip
+#### Artikel 3.9.1. Bemanningscertificaat internationaal varend Caribisch-Nederlands schip
 
 1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=4), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=9), [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=20), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=68) en [69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=69) zijn van overeenkomstige toepassing op een Caribisch-Nederlands schip dat verder vaart dan de gebiedsbegrenzingen, bedoeld in [artikel 41b, tweede lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=41b), doch binnen de Caribische handelszone.
 
 2. Het bemanningscertificaat, bedoeld in [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=20), wordt opgenomen in het SCV-veiligheidscertificaat, bedoeld in de [artikelen 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=5d) of [5e van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=5e).
 
-##### Artikel 3.9.2. Bemanning internationaal varend Caribisch-Nederlands schip
+#### Artikel 3.9.2. Bemanning internationaal varend Caribisch-Nederlands schip
 
 1. De kapitein, diens plaatsvervanger of de werktuigkundige van een Caribisch-Nederlands schip is, voor zover dat vereist is op grond van het bemanningscertificaat, bedoeld in [artikel 3.9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.1&z=2025-07-01&g=2025-07-01), in het bezit van:
 
@@ -1728,11 +1702,11 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als gezel zeilvaart met de beperk
 
 5. Een certificaat of verklaring als bedoeld in het eerste lid wordt door de houder op verzoek getoond aan een ambtenaar van de Inspectie Leefomgeving of Transport, alsmede aan de personen aangewezen in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184).
 
-##### Artikel 3.9.3. Regels aangaande de medische geschiktheid
+#### Artikel 3.9.3. Regels aangaande de medische geschiktheid
 
 De [artikelen 31 tot en met 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31) en [paragraaf 3.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&paragraaf=3.6) zijn van overeenkomstige toepassing ten aanzien van de verkrijging van een geldige geneeskundige verklaring zeevaart als bedoeld in [artikel 3.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.2&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.9.4. Kapitein lokaal varend Caribisch-Nederlands schip
+#### Artikel 3.9.4. Kapitein lokaal varend Caribisch-Nederlands schip
 
 1. De kapitein van een Caribisch-Nederlands schip is in het bezit van een geldig certificaat Boatmaster Grade 3 als bedoeld in artikel 5, deel A, van hoofdstuk 10, van de SCV-code of een ten minste gelijkwaardig certificaat afgegeven door een andere partij bij de SCV-code, indien de schipper:
 
@@ -1762,7 +1736,7 @@ De [artikelen 31 tot en met 34 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 6. Een certificaat als bedoeld in het eerste lid wordt door de houder op verzoek getoond aan een ambtenaar van de Inspectie Leefomgeving of Transport alsmede aan de personen aangewezen in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184).
 
-##### Artikel 3.9.5. Beoordeling door keuringsarts
+#### Artikel 3.9.5. Beoordeling door keuringsarts
 
 1. Indien ten minste één van de vragen van de verklaring medische geschiktheid lokaal varende Caribisch-Nederlandse schepen als bedoeld in [artikel 3.9.4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.4&z=2025-07-01&g=2025-07-01), met ‘ja’ is beantwoord, is de aanvrager in eerste aanleg niet medisch geschikt.
 
@@ -1770,15 +1744,15 @@ De [artikelen 31 tot en met 34 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Een geldige door een arts ingevulde verklaring medische geschiktheid lokaal varende Caribisch-Nederlandse schepen als bedoeld in [artikel 3.9.4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.4&z=2025-07-01&g=2025-07-01), heeft een geldigheid van ten hoogste drie jaar.
 
-##### Artikel 3.9.6. Model SCV-certificaten
+#### Artikel 3.9.6. Model SCV-certificaten
 
 Het model van de certificaten, bedoeld in de [artikelen 3.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.2&z=2025-07-01&g=2025-07-01) en [3.9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.4&z=2025-07-01&g=2025-07-01), is opgenomen in bijlage 10 van de SCV-code.
 
-##### Artikel 3.9.7. Model Verklaring medische geschiktheid lokaal varende Caribisch-Nederlandse zeeschepen
+#### Artikel 3.9.7. Model Verklaring medische geschiktheid lokaal varende Caribisch-Nederlandse zeeschepen
 
 Het model van de verklaring medische geschiktheid lokaal varende Caribisch-Nederlandse schepen, bedoeld in [artikel 3.9.4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.4&z=2025-07-01&g=2025-07-01), is opgenomen in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=15&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 3.9.8. Buitenlandse certificaten
+#### Artikel 3.9.8. Buitenlandse certificaten
 
 Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeven door een andere verdragspartij bij de SCV-code dat ten minste gelijkwaardig is met een certificaat als bedoeld in de [artikelen 3.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.2&z=2025-07-01&g=2025-07-01) en [3.9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.9&artikel=3.9.4&z=2025-07-01&g=2025-07-01) wordt daaraan gelijkgesteld.
 
@@ -1786,7 +1760,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 #### Paragraaf 4.1. Huisvesting en voorzieningen ten behoeve van zeevarenden aan boord van een zeeschip met een kiellegdatum van op of na 20 augustus 2013, niet zijnde een vissersvaartuig
 
-##### Artikel 4.1.1. Reikwijdtebepaling
+#### Artikel 4.1.1. Reikwijdtebepaling
 
 1. Tenzij in een voorschrift van deze paragraaf uitdrukkelijk is bepaald dat dat voorschrift wel van toepassing is op een in onderdeel a of c bedoeld zeeschip, is deze paragraaf niet van toepassing op:
 
@@ -1802,7 +1776,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 - b. per 6 zeevarenden of minder een toiletruimte, een wastafel en een bad of douche beschikbaar is.
 
-##### Artikel 4.1.2. Verblijven voor zeevarenden
+#### Artikel 4.1.2. Verblijven voor zeevarenden
 
 1. De verblijven voldoen aan de in de onderstaande tabel opgenomen onderdelen van normen van het MLC-verdrag:
 
@@ -1837,7 +1811,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 | ziekenverblijf | 540 |
 | sanitaire ruimten | 325 |
 
-##### Artikel 4.1.3. Ontheffingen verblijven
+#### Artikel 4.1.3. Ontheffingen verblijven
 
 1. De minister kan, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, ontheffing verlenen van norm A3.1, zesde lid, onderdeel a, eerste volzin, van het MLC-verdrag indien de verminderde hoogte van de desbetreffende verblijven redelijk is, en niet tot ongemak voor de zeevarenden leidt.
 
@@ -1845,7 +1819,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 3. Voor een zeeschip van minder dan 200 GT kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden en met inachtneming van de grootte van het zeeschip en het aantal opvarenden aan boord, ontheffing verlenen van norm A3.1, zevende lid, onderdeel b, van het MLC-verdrag ten aanzien van airconditioning.
 
-##### Artikel 4.1.4. Slaapverblijven
+#### Artikel 4.1.4. Slaapverblijven
 
 1. Onverminderd het bepaalde in de [artikelen 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2025-07-01&g=2025-07-01) en [4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2025-07-01&g=2025-07-01) voldoen de slaapverblijven aan de in de onderstaande tabel opgenomen onderdelen van normen van het MLC-verdrag:
 
@@ -1887,7 +1861,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 | gordijnen of vergelijkbare voorzieningen | leidraad B3.1.5, veertiende lid |
 | overige voorzieningen slaapverblijven | leidraad B3.1.5, vijftiende lid, en B3.1.10 |
 
-##### Artikel 4.1.5. Wezenlijk gelijkwaardige bepalingen voor slaapverblijven op commerciële jachten
+#### Artikel 4.1.5. Wezenlijk gelijkwaardige bepalingen voor slaapverblijven op commerciële jachten
 
 1. In afwijking van [artikel 4.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.4&z=2025-07-01&g=2025-07-01), zijn voor een commercieel jacht als wezenlijk gelijkwaardige bepalingen als bedoeld in artikel VI, derde lid, van het MLC-verdrag de in de onderstaande tabel opgenomen normen ten aanzien van de minimale vloeroppervlakte voor slaapverblijven, tezamen met het tweede en derde lid, van toepassing:
 
@@ -1909,7 +1883,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 3. Voor zover het vloeroppervlak van slaapverblijven voor officieren ingevolge het eerste lid minder dan 7,5 vierkante meter bedraagt, zijn in deze verblijven een tv en een dvd-speler of gelijkwaardige apparatuur beschikbaar.
 
-##### Artikel 4.1.6. Wezenlijk gelijkwaardige bepalingen voor slaapverblijven op een zeeschip van minder dan 500 GT
+#### Artikel 4.1.6. Wezenlijk gelijkwaardige bepalingen voor slaapverblijven op een zeeschip van minder dan 500 GT
 
 1. In afwijking van [artikel 4.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.4&z=2025-07-01&g=2025-07-01), kunnen, met het oog op de functionaliteit, de stabiliteit of anderszins de veiligheid van een zeeschip van minder dan 500 GT, als wezenlijk gelijkwaardige bepaling als bedoeld in artikel VI, derde lid, van het MLC-verdrag slaapverblijven onder de referentielastlijn worden geplaatst, mits tevens wordt voldaan aan het tweede lid.
 
@@ -1929,7 +1903,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 - g. er worden materialen en kleuren voor wand- en vloerbedekking toegepast gericht op ruimtebeleving.
 
-##### Artikel 4.1.7. Wezenlijk gelijkwaardige bepaling voor slaapverblijven op een passagierschip of een zeeschip voor bijzondere doeleinden
+#### Artikel 4.1.7. Wezenlijk gelijkwaardige bepaling voor slaapverblijven op een passagierschip of een zeeschip voor bijzondere doeleinden
 
 1. Op een passagiersschip of een zeeschip voor bijzondere doeleinden is het overeenkomstig norm A3.1, zesde lid, onderdeel d, van het MLC-verdrag toegestaan slaapverblijven onder de referentielastlijn te plaatsen.
 
@@ -1941,7 +1915,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 - b. de lichtsterkte van de verlichting is variabel instelbaar om het gebrek aan daglicht naar behoefte van de zeevarende te kunnen compenseren.
 
-##### Artikel 4.1.8. Ontheffingen en afwijkende voorschriften slaapverblijven
+#### Artikel 4.1.8. Ontheffingen en afwijkende voorschriften slaapverblijven
 
 1. De minister kan ontheffing verlenen van norm A3.1, zesde lid, onderdeel c, van het MLC-verdrag voor het plaatsen van slaapverblijven voor midscheeps, indien de grootte, het type of de beoogde dienst van het zeeschip een andere ligging praktisch onmogelijk maakt.
 
@@ -1967,7 +1941,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 - b. leidraad B3.1.5, derde lid, van het MLC-verdrag dat slaapverblijven zodanig zijn ingericht dat de wachten afgescheiden zijn en overdag werkende zeevarenden zijn gescheiden van ’s nachts werkende zeevarenden.
 
-##### Artikel 4.1.9. Dagverblijven
+#### Artikel 4.1.9. Dagverblijven
 
 1. Onverminderd de [artikelen 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2025-07-01&g=2025-07-01) en [4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2025-07-01&g=2025-07-01) voldoen de dagverblijven aan de in de onderstaande tabel opgenomen onderdelen van normen van het MLC-verdrag:
 
@@ -2001,7 +1975,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 5. Onverminderd het derde en vierde lid is er een afzonderlijk dagverblijf voor zeevarenden die niet een functie als bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=23) uitoefenen.
 
-##### Artikel 4.1.10. Ontheffingen en afwijkende voorschriften dagverblijven
+#### Artikel 4.1.10. Ontheffingen en afwijkende voorschriften dagverblijven
 
 1. In afwijking van [artikel 4.1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.9&z=2025-07-01&g=2025-07-01), en in overeenstemming met norm A3.1, achtste lid, van het MLC-verdrag zijn op een passagiersschip dagverblijven toegestaan waar geen daglicht kan toetreden indien:
 
@@ -2013,7 +1987,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 3. Voor een zeeschip van minder dan 3.000 GT kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, ontheffing verlenen van norm A3.1, tiende lid, onderdeel a, van het MLC-verdrag ten aanzien van de plaatsing van dagverblijven.
 
-##### Artikel 4.1.11. Sanitaire voorzieningen
+#### Artikel 4.1.11. Sanitaire voorzieningen
 
 1. Onverminderd [artikelen 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2025-07-01&g=2025-07-01) en [4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2025-07-01&g=2025-07-01) voldoen de sanitaire voorzieningen aan de in de onderstaande tabel opgenomen onderdelen van normen van het MLC-verdrag:
 
@@ -2030,7 +2004,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 | toiletten | leidraad B3.1.7, tweede lid |
 | inrichting van sanitaire ruimten bestemd voor meer dan één persoon | leidraad B3.1.7, derde lid |
 
-##### Artikel 4.1.12. Ontheffingen en afwijkende voorschriften sanitaire voorzieningen
+#### Artikel 4.1.12. Ontheffingen en afwijkende voorschriften sanitaire voorzieningen
 
 1. Voor een zeeschip van minder dan 3.000 GT kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, ontheffing verlenen van norm A3.1, elfde lid, onderdeel b, van het MLC-verdrag ten aanzien van de toegankelijkheid van sanitaire ruimten vanaf de navigatiebrug, de machinekamer of het controlecentrum van de machinekamer.
 
@@ -2038,7 +2012,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 3. Op zeeschip van minder dan 200 GT is norm A3.1, elfde lid, onderdeel d, van het MLC-verdrag ten aanzien van wastafels in slaapverblijven, niet van toepassing.
 
-##### Artikel 4.1.13. Ziekenverblijven
+#### Artikel 4.1.13. Ziekenverblijven
 
 1. Op een zeeschip met een bemanning van 15 of meer zeevarenden aan boord dat reizen van meer dan drie dagen maakt, is een afzonderlijk ziekenverblijf aanwezig dat voldoet aan norm A3.1, twaalfde lid, van het MLC-verdrag.
 
@@ -2058,7 +2032,7 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 7. Ziekenverblijven worden uitsluitend gebruikt voor medische doeleinden.
 
-##### Artikel 4.1.14. Recreatieve voorzieningen
+#### Artikel 4.1.14. Recreatieve voorzieningen
 
 1. Aan boord zijn in overeenstemming met norm A3.1, zeventiende lid, van het MLC-verdrag recreatieve voorzieningen die voldoen aan de normering van de in de onderstaande tabel opgenomen onderdelen van leidraden van het MLC-verdrag:
 
@@ -2084,11 +2058,11 @@ Een geldig certificaat dat op grond van hoofdstuk 10 van de SCV-code is afgegeve
 
 5. Op zeeschip van 8.000 GT of meer zijn voor de voorzieningen, bedoeld in het eerste en tweede lid, naast een afzonderlijke ruimte voor het zwembad, ten minste twee verblijven aanwezig waarin voldoende ruimte is voor het tegelijkertijd uitoefenen van verschillende recreatieve bezigheden.
 
-##### Artikel 4.1.15. Ontheffing zwembad
+#### Artikel 4.1.15. Ontheffing zwembad
 
 De minister kan, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, ontheffing verlenen van [artikel 4.1.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.14&z=2025-07-01&g=2025-07-01), ten aanzien van de aanwezigheid van een zwembad, indien dit gelet op de inrichting van het zeeschip niet goed te realiseren is.
 
-##### Artikel 4.1.16. Diverse voorzieningen
+#### Artikel 4.1.16. Diverse voorzieningen
 
 1. Aan boord zijn de onderstaande voorzieningen aanwezig, die voldoen aan de in de onderstaande tabel opgenomen onderdelen van normen en de normering van de onderdelen van leidraden van het MLC-verdrag:
 
@@ -2103,17 +2077,17 @@ De minister kan, na overleg met de betrokken organisaties van scheepsbeheerders 
 
 4. De in leidraad B3.1.10 van het MLC-verdrag genoemde benodigdheden zijn in voldoende hoeveelheden voor de zeevarenden aan boord beschikbaar.
 
-##### Artikel 4.1.17. Ontheffingen kantoren en wasvoorzieningen
+#### Artikel 4.1.17. Ontheffingen kantoren en wasvoorzieningen
 
 1. Voor een zeeschip van minder dan 3.000 GT kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, ontheffing verlenen van norm A3.1, vijftiende lid, van het MLC-verdrag ten aanzien van kantoren.
 
 2. Voor een zeeschip van minder dan 200 GT kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden en met inachtneming van de grootte van het zeeschip en het aantal opvarenden aan boord, ontheffing verlenen van norm A.3.1, dertiende lid, van het MLC-verdrag ten aanzien van wasvoorzieningen, indien de zeevarenden van het desbetreffende zeeschip aan de wal voldoende toegang hebben tot wasvoorzieningen.
 
-##### Artikel 4.1.18. Ontheffing wegens gewoonten zeevarenden
+#### Artikel 4.1.18. Ontheffing wegens gewoonten zeevarenden
 
 Voor een zeeschip waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten van godsdienstige of sociale aard, kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden en onder daarbij te stellen voorschriften, ontheffing verlenen van norm A3.1 van het MLC-verdrag, mits dit niet leidt tot situaties die voor één of meer zeevarenden aan boord van het desbetreffende zeeschip minder gunstig zijn dan zonder het verlenen van die ontheffing het geval zou zijn.
 
-##### Artikel 4.1.19. Voorzieningen voor opslag en bereiding van voedsel en drinkwater
+#### Artikel 4.1.19. Voorzieningen voor opslag en bereiding van voedsel en drinkwater
 
 1. Een zeeschip is uitgerust met voldoende kooktoestellen en keukengerei voor het bereiden van maaltijden van voldoende hoeveelheid, kwaliteit en voedingswaarde, voor de zeevarenden aan boord.
 
@@ -2125,13 +2099,13 @@ Voor een zeeschip waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten v
 
 5. Dit artikel is tevens van toepassing op een zeeschip als bedoeld in [artikel 4.4.1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.1.20. Gebruikte materialen
+#### Artikel 4.1.20. Gebruikte materialen
 
 1. Materialen en producten die voldoen aan de in leidraad B3.1.1, vijfde lid, B3.1.5, negende lid, B3.1.7, tweede en derde lid, onderdeel b, en B3.1.10, eerste lid, onderdeel b, van het MLC-verdrag genoemde omschrijving worden aangemerkt als goedgekeurde materialen en producten.
 
 2. Materialen of producten die op grond van de daarop van toepassing zijnde regelgeving een CE-markering hebben, worden aangemerkt als goedgekeurde materialen of producten als bedoeld in het eerste lid.
 
-##### Artikel 4.1.21. Gebruiksvoorschriften verblijven
+#### Artikel 4.1.21. Gebruiksvoorschriften verblijven
 
 1. De verblijven worden schoon, bewoonbaar en in een goede staat van onderhoud gehouden.
 
@@ -2141,7 +2115,7 @@ Voor een zeeschip waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten v
 
 4. Dit artikel is tevens van toepassing op een zeeschip als bedoeld in [artikel 4.4.1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.1.22. Gebruik van recreatieve voorzieningen
+#### Artikel 4.1.22. Gebruik van recreatieve voorzieningen
 
 1. De scheepsbeheerder draagt er zorg voor dat voor de verzending van e-mail aan boord aanwezige internetfaciliteiten voor alle zeevarende toegankelijk zijn en dat postverzending geschiedt in overeenstemming met leidraad B3.1.11, vijfde lid, van het MLC-verdrag.
 
@@ -2153,13 +2127,13 @@ Voor een zeeschip waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten v
 
 5. Dit artikel is tevens van toepassing op een zeeschip als bedoeld in [artikel 4.1.1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.1.23. Raadplegen richtlijn
+#### Artikel 4.1.23. Raadplegen richtlijn
 
 1. Aan boord zijn de nodige voorzieningen voor het elektronisch of op andere wijze raadplegen van de overeenkomst tussen de Associatie van reders van de Europese Gemeenschap (ECSA) en de Europese Federatie van vervoerswerknemers (European Transport Workers' Federation – ETF) inzake het Verdrag betreffende maritieme arbeid (PbEG 2009, L124).
 
 2. Het eerste lid is tevens van toepassing op een zeeschip als bedoeld in [artikel 4.1.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.1.24. Afwijking op basis van wezenlijke gelijkwaardigheid
+#### Artikel 4.1.24. Afwijking op basis van wezenlijke gelijkwaardigheid
 
 1. De minister kan ontheffing verlenen van de [artikelen 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2025-07-01&g=2025-07-01), [4.1.4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.4&z=2025-07-01&g=2025-07-01), [4.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.9&z=2025-07-01&g=2025-07-01), [4.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.11&z=2025-07-01&g=2025-07-01), [4.1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.13&z=2025-07-01&g=2025-07-01), [4.1.14., eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.14&z=2025-07-01&g=2025-07-01), en [4.1.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.16&z=2025-07-01&g=2025-07-01), voor:
 
@@ -2169,7 +2143,7 @@ Voor een zeeschip waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten v
 
 2. Een afwijking als bedoeld in het eerste lid wordt slechts toegestaan na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden en onder daarbij te stellen wezenlijk gelijkwaardige voorschriften als bedoeld in artikel VI, derde lid, van het MLC-verdrag.
 
-##### Artikel 4.1.25. Procedure bij bouw of verbouw zeeschip
+#### Artikel 4.1.25. Procedure bij bouw of verbouw zeeschip
 
 1. Voor de aanvang van de bouw van een zeeschip of een verbouwing of andere wijziging die van invloed is op de eisen aan de huisvesting en voorzieningen aan boord, wordt aan de minister een plan overgelegd. Dit plan bevat de volgende elementen:
 
@@ -2193,7 +2167,7 @@ Voor een zeeschip waarop zeevarenden werkzaam zijn met uiteenlopende gewoonten v
 
 #### Paragraaf 4.2. Huisvesting en voorzieningen ten behoeve van zeevarenden aan boord van een zeeschip van voor 20 augustus 2013 of een traditioneel zeeschip
 
-##### Artikel 4.2.1. Reikwijdte
+#### Artikel 4.2.1. Reikwijdte
 
 Deze paragraaf is van toepassing:
 
@@ -2201,7 +2175,7 @@ Deze paragraaf is van toepassing:
 
 - b. een zeeschip, niet zijnde een vissersvaartuig, dat ontworpen is om traditionele vaardigheden en zeemanschap aan te moedigen en te bevorderen en dat als levend cultuurmonument volgens de traditionele beginselen van zeemanschap en techniek wordt bestuurd.
 
-##### Artikel 4.2.2. Plaats en algemene inrichting van de verblijven
+#### Artikel 4.2.2. Plaats en algemene inrichting van de verblijven
 
 1. Verblijven van een zeeschip zijn midscheeps of in het achterschip gelegen.
 
@@ -2221,7 +2195,7 @@ Deze paragraaf is van toepassing:
 
 9. Voor een sleepboot, aannemersmaterieel of andere zeeschepen van minder dan 500 GT kan de minister ontheffing verlenen van de voorschriften in het derde en vierde lid.
 
-##### Artikel 4.2.3. Algemene eisen dag- en slaapverblijven
+#### Artikel 4.2.3. Algemene eisen dag- en slaapverblijven
 
 1. Luiken, deuren en kappen in of op een dag- of slaapverblijf, uitkomende in de vrije lucht, zijn zodanig van een waterkering voorzien en kunnen gesloten worden, dat geen regen of overkomend zeewater kan binnendringen. De plaats en het aantal van de toegangen tot een dag- of slaapverblijf is zo gekozen dat de veiligheid voldoende verzekerd is. Een toegang kan aan beide zijden gemakkelijk en snel worden geopend en heeft een voldoende doorgang.
 
@@ -2275,11 +2249,11 @@ Deze paragraaf is van toepassing:
 
 23. Er zijn voldoende middelen aanwezig zijn voor het afvoeren van water uit een dag- of slaapverblijf.
 
-##### Artikel 4.2.4. Algemene eisen ten aanzien ruimten voor sanitaire doeleinden, ziekenverpleging en ontspanning, bestemd voor gebruik door de zeevarenden
+#### Artikel 4.2.4. Algemene eisen ten aanzien ruimten voor sanitaire doeleinden, ziekenverpleging en ontspanning, bestemd voor gebruik door de zeevarenden
 
 [Artikel 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.3&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op een ruimte voor sanitaire doeleinden, ziekenverpleging of ontspanning, bestemd voor gebruik door een zeevarende, met dien verstande, dat de bekleding en de isolatie van wanden slechts daar behoeft te worden aangebracht waar dit door de minister nodig wordt geoordeeld.
 
-##### Artikel 4.2.5. Luchtbehandelingsinstallatie
+#### Artikel 4.2.5. Luchtbehandelingsinstallatie
 
 1. Een dag- of slaapverblijf op een zeeschip van 200 GT of meer is aangesloten op een luchtbehandelingsinstallatie.
 
@@ -2293,7 +2267,7 @@ Deze paragraaf is van toepassing:
 
 6. Voor het overige voldoet de luchtbehandelingsinstallatie aan door de minister te stellen eisen.
 
-##### Artikel 4.2.6. Verwarming en ventilatie
+#### Artikel 4.2.6. Verwarming en ventilatie
 
 1. Op een zeeschip dat ingevolge het bepaalde in [artikel 4.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.5&z=2025-07-01&g=2025-07-01), niet behoeft te zijn uitgerust met een luchtbehandelingsinstallatie, zijn de in de volgende leden genoemde voorzieningen getroffen teneinde te voorzien in verwarming en ventilering van de verblijven.
 
@@ -2323,7 +2297,7 @@ Deze paragraaf is van toepassing:
 
 14. Het bepaalde in het dertiende lid is ook van toepassing op een zeeschip dat is voorzien van een luchtbehandelingsinstallatie.
 
-##### Artikel 4.2.7. Verlichting
+#### Artikel 4.2.7. Verlichting
 
 1. Een verblijf is naar het oordeel van de minister behoorlijk verlicht.
 
@@ -2337,7 +2311,7 @@ Deze paragraaf is van toepassing:
 
 6. Indien geen twee onafhankelijke elektriciteitsbronnen voor verlichting aanwezig zijn, is een ander doeltreffend verlichtingsmiddel voor noodgevallen aangebracht.
 
-##### Artikel 4.2.8. Slaapverblijven
+#### Artikel 4.2.8. Slaapverblijven
 
 1. Aan boord van een zeeschip, niet zijnde een passagiersschip, beschikt iedere zeevarende over een eigen slaapverblijf. Wanneer de grootte en indeling van het zeeschip en de werkzaamheden waarvoor het wordt gebruikt, dit niet toelaten kan de minister hiervan ontheffing verlenen.
 
@@ -2357,7 +2331,7 @@ Deze paragraaf is van toepassing:
 
 9. Op een slaapverblijf is duidelijk het aantal zeevarenden vermeld waarvoor deze is bestemd.
 
-##### Artikel 4.2.9. Eisen slaapverblijven en slaapplaatsen
+#### Artikel 4.2.9. Eisen slaapverblijven en slaapplaatsen
 
 1. Een slaapverblijf is zodanig uitgevoerd en ingericht dat de netheid wordt bevorderd en redelijk comfort aan de zeevarenden is verzekerd.
 
@@ -2441,7 +2415,7 @@ Deze paragraaf is van toepassing:
 
 22. Een slaapplaats is niet gelegen onder de opening van een luchtkoker.
 
-##### Artikel 4.2.10. Dagverblijven
+#### Artikel 4.2.10. Dagverblijven
 
 1. Op een zeeschip van 200 GT of meer zijn voldoende dagverblijven aanwezig die zijn gescheiden van de slaapverblijven en zo dicht mogelijk bij de kombuis zijn gelegen.
 
@@ -2485,7 +2459,7 @@ Deze paragraaf is van toepassing:
 
 11. De bovenkanten van tafels, banken en stoelen zijn vervaardigd van vochtwerend materiaal, zonder barsten, dat gemakkelijk is schoon te houden.
 
-##### Artikel 4.2.11. Ontspanningsruimten
+#### Artikel 4.2.11. Ontspanningsruimten
 
 1. Van het open dek van een zeeschip zijn één of meer gedeelten toegankelijk voor de zeevarenden wanneer zij geen dienst hebben.
 
@@ -2497,7 +2471,7 @@ Deze paragraaf is van toepassing:
 
 5. Op een zeeschip van 8.000 GT of meer is een bibliotheek aanwezig, waar films kunnen worden vertoond en naar televisie kan worden gekeken. Er is tevens voorzien in een ruimte waar men kan knutselen of gezelschapsspelen kan beoefenen. Er is een zwembad aanwezig tenzij, naar het oordeel van de minister, de inrichting van het zeeschip daartoe onvoldoende mogelijkheid biedt.
 
-##### Artikel 4.2.12. Badkuipen, douches, wastafels en toiletten
+#### Artikel 4.2.12. Badkuipen, douches, wastafels en toiletten
 
 1. Op een zeeschip zijn op een geschikte plaats voor officieren en gezellen sanitaire voorzieningen aanwezig, bestaande uit ten minste een toilet, een badkuip of douche en een wastafel met warm en koud stromend zoet water voor iedere zes personen of minder, die niet beschikken over de sanitaire voorzieningen als bedoeld in het vierde, vijfde en zesde lid, met dien verstande dat het aantal toiletten op een zeeschip ten minste bedraagt:
 
@@ -2539,7 +2513,7 @@ Deze paragraaf is van toepassing:
 
 13. Op een zeeschip met meer dan 100 zeevarenden, kan de minister ontheffing verlenen het eerste tot en met tiende lid en een vermindering van het aantal wastafels, badkuipen en douches toestaan.
 
-##### Artikel 4.2.13. Eisen sanitaire voorzieningen
+#### Artikel 4.2.13. Eisen sanitaire voorzieningen
 
 1. Sanitaire ruimten en voorzieningen als bedoeld in [artikel 4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.12&z=2025-07-01&g=2025-07-01) met uitzondering van ruimten die zijn verbonden met hutten, voldoen aan de volgende eisen:
 
@@ -2559,7 +2533,7 @@ Deze paragraaf is van toepassing:
 
 3. Een toilet is van een zodanig model en de afvoer is zodanig ingericht, dat de kans op verstopping zo klein mogelijk is en het schoonhouden vergemakkelijkt wordt.
 
-##### Artikel 4.2.14. Wassen en drogen van kleding, opbergen van oliegoed
+#### Artikel 4.2.14. Wassen en drogen van kleding, opbergen van oliegoed
 
 1. Er zijn voldoende voorzieningen voor het wassen, drogen en strijken van kleding, in een mate die in overeenstemming is met het aantal bemanningsleden en de normale duur van de reis. Deze voorzieningen zijn aangebracht op een gemakkelijk vanuit de hutten te bereiken plaats.
 
@@ -2577,7 +2551,7 @@ Deze paragraaf is van toepassing:
 
 5. Op een zeeschip van minder dan 400 GT mogen kledingstukken als bedoeld in het vierde lid in een goed sluitende kast in het slaapverblijf worden opgeborgen, mits deze kast op een ruimte buiten het verblijf ventileert.
 
-##### Artikel 4.2.15. Ziekenverblijf en ziekenkooi
+#### Artikel 4.2.15. Ziekenverblijf en ziekenkooi
 
 1. Op een zeeschip met een bemanning van 15 of meer zeevarenden aan boord dat reizen van meer dan 3 dagen maakt, is een afzonderlijk ziekenverblijf aanwezig.
 
@@ -2605,7 +2579,7 @@ Deze paragraaf is van toepassing:
 
 13. Indien iemand aan een ernstige of aan een besmettelijke ziekte lijdt, wordt getracht deze, afgezonderd van alle anderen, te verplegen.
 
-##### Artikel 4.2.16. Diversen
+#### Artikel 4.2.16. Diversen
 
 1. Een zeeschip dat geregeld wordt gebruikt voor reizen in de tropen of in andere gebieden met vergelijkbare klimaatomstandigheden is uitgerust met tenten over de aan de zon blootgestelde dekken boven de verblijven en over de voor ontspanning bestemde dekruimten.
 
@@ -2613,17 +2587,17 @@ Deze paragraaf is van toepassing:
 
 3. Op een zeeschip van meer dan 3.000 GT is zowel voor de dekdienst als voor de machinedienst een afzonderlijke ruimte als kantoor beschikbaar.
 
-##### Artikel 4.2.17. Ontheffing of vrijstellingen
+#### Artikel 4.2.17. Ontheffing of vrijstellingen
 
 1. Onverminderd het tweede lid kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, hetzij in een incidenteel geval, hetzij algemeen, ontheffing of vrijstelling verlenen van de [artikelen 4.2.2 tot en met 4.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2025-07-01&g=2025-07-01), onder zo nodig door hem te stellen voorwaarden of beperkingen.
 
 2. De minister kan voor een zeeschip aan boord waarvan vanwege de samenstelling van de bemanning rekening wordt gehouden met de belangen van bemanningsleden die verschillende gewoonten van godsdienstige en maatschappelijke aard hebben, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden ontheffing verlenen van het bepaalde in de [artikelen 4.2.8, eerste en vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2025-07-01&g=2025-07-01), [4.2.9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2025-07-01&g=2025-07-01), en [4.2.12, eerste tot en met het derde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.12&z=2025-07-01&g=2025-07-01), onder zo nodig door hem te stellen voorwaarden of beperkingen, mits de hiervoor bedoelde organisaties ter zake overeenstemming hebben bereikt. Op oude schepen blijft van toepassing het bepaalde in de [artikelen 46 tot en met 64 van het koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=46) van 15 mei 1937, Stb. 242, zoals gewijzigd bij koninklijk besluit van 5 juni 1975, Stb. 327.
 
-##### Artikel 4.2.18. Uitsluiting oude zeeschepen
+#### Artikel 4.2.18. Uitsluiting oude zeeschepen
 
 Onverminderd [artikel 4.2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.19&z=2025-07-01&g=2025-07-01), zijn de [artikelen 4.2.2 tot en met 4.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2025-07-01&g=2025-07-01) niet van toepassing op een zeeschip, niet zijnde een vissersvaartuig, waarvan de kiel is gelegd of de bouw zich in een overeenkomstige fase van ontwikkeling bevond voor 1 augustus 1983.
 
-##### Artikel 4.2.19. Bijzondere voorzieningen voor oude zeeschepen
+#### Artikel 4.2.19. Bijzondere voorzieningen voor oude zeeschepen
 
 1. De minister kan na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, bepalen, dat geheel of gedeeltelijk wordt voldaan aan de [artikelen 4.2.2 tot en met 4.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2025-07-01&g=2025-07-01) door een zeeschip als bedoeld in [artikel 4.2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.17&z=2025-07-01&g=2025-07-01), dat:
 
@@ -2637,11 +2611,11 @@ Onverminderd [artikel 4.2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### Paragraaf 4.3. Voeding en drinkwater ten behoeve van zeevarenden aan boord van een zeeschip, niet zijnde een vissersvaartuig
 
-##### Artikel 4.3.1. Reikwijdte
+#### Artikel 4.3.1. Reikwijdte
 
 Deze paragraaf is niet van toepassing op een vissersvaartuig.
 
-##### Artikel 4.3.2. Voeding
+#### Artikel 4.3.2. Voeding
 
 1. Voor de bevoorrading van een zeeschip met levensmiddelen die voldoen aan de in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=4) bedoelde eisen, worden de soorten en hoeveelheden mee te nemen levensmiddelen bepaald op basis van:
 
@@ -2657,7 +2631,7 @@ Deze paragraaf is niet van toepassing op een vissersvaartuig.
 
 2. De voorraden levensmiddelen worden opgeslagen in de in [artikel 4.1.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&artikel=4.1.19&z=2025-07-01&g=2025-07-01), bedoelde bergplaatsen.
 
-##### Artikel 4.3.3. Drinkwater
+#### Artikel 4.3.3. Drinkwater
 
 1. Voor de bevoorrading van een zeeschip met drinkwater wordt de benodigde hoeveelheid vastgesteld op basis van de in [artikel 4.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.3&artikel=4.3.2&z=2025-07-01&g=2025-07-01), genoemde criteria, alsmede op basis van de mogelijkheid van aanvulling gedurende de reis met behulp van een voorziening om drinkwater te maken.
 
@@ -2685,7 +2659,7 @@ Deze paragraaf is niet van toepassing op een vissersvaartuig.
 
 6. De drinkwatertank wordt slechts bevoorraad met drinkwater als dat water ten minste twee uur lang in de tank is geweest en daarna is uitgepompt
 
-##### Artikel 4.3.4. Peilen van drinkwatertanks
+#### Artikel 4.3.4. Peilen van drinkwatertanks
 
 1. Peilstokken of andere instrumenten die gebruikt worden om het restant drinkwater in tanks op te meten, zijn vóór ieder gebruik gereinigd. Zij worden opgeborgen op een plaats waar het gevaar van besmetting het geringst is.
 
@@ -2693,19 +2667,19 @@ Deze paragraaf is niet van toepassing op een vissersvaartuig.
 
 3. De kapitein ziet erop toe dat de persoon belast met het peilen, onmiddellijk vóór hij gaat peilen, zijn handen wast.
 
-##### Artikel 4.3.5. Zout- en zoetwaterkranen
+#### Artikel 4.3.5. Zout- en zoetwaterkranen
 
 1. In kombuizen en pantry’s moet bij elke drinkwaterkraan een opschrift ‘drinkwater’ en bij elke zoutwaterkraan een opschrift ‘zoutwater’ aangebracht zijn.
 
 2. Na vertrek uit een haven wordt de zoutwaterleiding, welke voor afwas van keuken- en eetgerei dient, buiten de driemijlsgrens geruime tijd doorgespoeld, voordat deze voor afwasdoeleinden gebruikt mag worden.
 
-##### Artikel 4.3.6. Maximale hoeveelheid sterke drank
+#### Artikel 4.3.6. Maximale hoeveelheid sterke drank
 
 1. De voorraad sterke drank aan boord is niet groter dan 0,1 liter per zeevarende per reisdag.
 
 2. Het aantal reisdagen wordt vastgesteld gerekend vanaf de dag van vertrek tot en met de dag van aankomst in de eerstvolgende haven waar het zeeschip weer zal worden bevoorraad als vastgesteld overeenkomstig [artikel 4.3.2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.3&artikel=4.3.2&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.3.7. Inspectie
+#### Artikel 4.3.7. Inspectie
 
 1. Een inspectie als bedoeld in [artikel 4.1.1, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.1.1) wordt ten minste één keer per maand uitgevoerd overeenkomstig het bepaalde in norm A3.2, zevende lid, van het MLC-verdrag.
 
@@ -2715,7 +2689,7 @@ Deze paragraaf is niet van toepassing op een vissersvaartuig.
 
 #### Paragraaf 4.4. Huisvesting, voorzieningen, voeding en drinkwater ten behoeve van vissers aan boord van een vissersvaartuig van na 15 november 2019
 
-##### Artikel 4.4.1. Reikwijdte
+#### Artikel 4.4.1. Reikwijdte
 
 Deze paragraaf is uitsluitend van toepassing op een van een dek voorzien vissersvaartuig:
 
@@ -2731,13 +2705,13 @@ Deze paragraaf is uitsluitend van toepassing op een van een dek voorzien vissers
 
 - 3°. de assemblage is begonnen, die ten minste 50.000 kilogram of 1 procent van de geschatte massa van alle constructiemateriaal omvat, waarbij de kleinste van de twee hoeveelheden bepalend is.
 
-##### Artikel 4.4.2. Stahoogte
+#### Artikel 4.4.2. Stahoogte
 
 1. In alle verblijven is voldoende stahoogte.
 
 2. Voor verblijven waar de vissers geacht worden gedurende langere tijd achtereen te staan, is de stahoogte ten minste twee meter.
 
-##### Artikel 4.4.3. Openingen naar en tussen verblijfsruimten
+#### Artikel 4.4.3. Openingen naar en tussen verblijfsruimten
 
 1. Vanuit visruimen en machinekamers zijn geen directe openingen naar slaapverblijven, met uitzondering van nooduitgangen.
 
@@ -2751,7 +2725,7 @@ Deze paragraaf is uitsluitend van toepassing op een van een dek voorzien vissers
 
 6. Verblijven zijn voor zover nodig voorzien van nooduitgangen.
 
-##### Artikel 4.4.4. Isolatie verblijfsruimten
+#### Artikel 4.4.4. Isolatie verblijfsruimten
 
 1. Verblijven zijn voldoende geïsoleerd.
 
@@ -2761,11 +2735,11 @@ Deze paragraaf is uitsluitend van toepassing op een van een dek voorzien vissers
 
 4. Aan het gestelde in het eerste tot en met derde lid wordt in ieder geval voldaan indien norm A3.1, zesde lid, onderdelen b en g, van het MLC-verdrag, zoals die luidde op 15 november 2019, is toegepast.
 
-##### Artikel 4.4.5. Maatregelen tegen vliegen en andere insecten
+#### Artikel 4.4.5. Maatregelen tegen vliegen en andere insecten
 
 Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van vissersvaartuigen te beschermen tegen vliegen en andere insecten, met name wanneer het vissersvaartuig actief is in door muggen geteisterde gebieden.
 
-##### Artikel 4.4.6. Ventilatie
+#### Artikel 4.4.6. Ventilatie
 
 1. Verblijven worden geventileerd, rekening houdend met de klimatologische omstandigheden.
 
@@ -2773,7 +2747,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 3. Aan het gestelde in het eerste en tweede lid wordt in ieder geval voldaan indien norm A3.1, zevende lid, onderdeel b, en leidraad B3.1.2 van het C188-verdrag, zoals die luidde op 15 november 2019, is toegepast.
 
-##### Artikel 4.4.7. Verwarming en airconditioning
+#### Artikel 4.4.7. Verwarming en airconditioning
 
 1. Verblijven worden voldoende verwarmd, rekening houdend met de klimatologische omstandigheden.
 
@@ -2785,7 +2759,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 5. Aan het gestelde in het eerste tot en met vierde lid wordt in ieder geval voldaan indien norm A3.1, zevende lid, onderdelen b en d, en leidraad B3.1.3, tweede en derde lid, van het MLC-verdrag, zoals die luidde op 15 november 2019, is toegepast.
 
-##### Artikel 4.4.8. Verlichting
+#### Artikel 4.4.8. Verlichting
 
 1. Een verblijf is behoorlijk verlicht.
 
@@ -2797,7 +2771,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 5. Aan het gestelde in het eerste tot en met vierde lid wordt in ieder geval voldaan indien leidraad B3.1.4, eerste lid, van het MLC-verdrag, zoals die luidde op 15 november 2019, is toegepast.
 
-##### Artikel 4.4.9. Noodverlichting
+#### Artikel 4.4.9. Noodverlichting
 
 1. Slaapverblijven zijn voorzien van noodverlichting.
 
@@ -2805,13 +2779,13 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 3. Een vissersvaartuig met een lengte van 24 meter of meer is in alle delen van de verblijven waar de bemanning zich vrij kan bewegen, voorzien van verlichting die ten minste zodanig is dat een persoon met een normaal gezichtsvermogen in staat is een normaal gedrukte krant op een heldere dag te lezen.
 
-##### Artikel 4.4.10. Effecten bewegingen vissersvaartuig op slaapverblijven
+#### Artikel 4.4.10. Effecten bewegingen vissersvaartuig op slaapverblijven
 
 1. Indien het ontwerp, de afmetingen of het gebruik van het vissersvaartuig dat toelaat, zijn slaapverblijven zodanig geplaatst dat de gevolgen van bewegingen en versnellingen van het vissersvaartuig tot een minimum beperkt blijven.
 
 2. Slaapverblijven zijn achter het aanvaringsschot gelegen.
 
-##### Artikel 4.4.11. Vloeroppervlak slaapverblijven
+#### Artikel 4.4.11. Vloeroppervlak slaapverblijven
 
 1. Het aantal personen per slaapverblijf en het vloeroppervlak per persoon, exclusief de ruimte ingenomen door kooien en kasten, is zodanig dat, rekening houdend met het gebruik van het vissersvaartuig, de vissers aan boord beschikken over voldoende ruimte en comfort.
 
@@ -2825,7 +2799,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 4. In aanvulling op het eerste en tweede lid is op een vissersvaartuig met een lengte van 45 meter of meer het vloeroppervlak per persoon in een slaapverblijf, exclusief de ruimte ingenomen door kooien en kasten, ten minste 2 vierkante meter.
 
-##### Artikel 4.4.12. Aantal personen per slaapverblijf
+#### Artikel 4.4.12. Aantal personen per slaapverblijf
 
 1. Tenzij uitdrukkelijk anders bepaald, is het toegestane aantal personen per slaapverblijf niet meer dan zes.
 
@@ -2837,19 +2811,19 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 5. Het maximumaantal personen dat in een slaapverblijf kan worden ondergebracht, is duidelijk leesbaar en onuitwisbaar vermeld op een duidelijk zichtbare plaats in de slaapruimte.
 
-##### Artikel 4.4.13. Slaapverblijven voor officieren
+#### Artikel 4.4.13. Slaapverblijven voor officieren
 
 1. Op een vissersvaartuig met een lengte van 24 meter of meer beschikken officieren, waar mogelijk, over een apart slaapverblijf. In geen geval zal het slaapverblijf voor officieren meer dan twee kooien bevatten.
 
 2. De minister kan in bepaalde gevallen ontheffing verlenen van het eerste lid, indien het vereiste vanwege de grootte, het type of het beoogde gebruik van het vissersvaartuig naleving onredelijk of niet uitvoerbaar is.
 
-##### Artikel 4.4.14. Kooien
+#### Artikel 4.4.14. Kooien
 
 1. Kooien hebben geschikte afmetingen voor één persoon en de matrassen zijn vervaardigd van geschikt materiaal.
 
 2. Op een vissersvaartuig met een lengte van 24 meter of meer zijn de binnenmaten van kooien ten minste 200 bij 80 centimeter.
 
-##### Artikel 4.4.15. Comfort slaapverblijven
+#### Artikel 4.4.15. Comfort slaapverblijven
 
 1. Slaapverblijven zijn zodanig gelegen en ingericht dat een redelijk comfort voor de vissers is gewaarborgd en netheid wordt bevorderd.
 
@@ -2859,7 +2833,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 4. De slaapverblijven zijn waar mogelijk zodanig geplaatst en uitgerust dat mannen en vrouwen over voldoende privacy beschikken.
 
-##### Artikel 4.4.16. Eetverblijven
+#### Artikel 4.4.16. Eetverblijven
 
 1. Een vissersvaartuig is voorzien van geschikte eetverblijven die, waar mogelijk, gescheiden zijn van de slaapverblijven.
 
@@ -2867,13 +2841,13 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 3. Eetverblijven op een vissersvaartuig met een lengte van 24 meter of meer zijn gescheiden van slaapverblijven.
 
-##### Artikel 4.4.17. Afmetingen en uitrusting eetverblijven
+#### Artikel 4.4.17. Afmetingen en uitrusting eetverblijven
 
 1. De afmetingen en uitrusting van een eetverblijf zijn geschikt voor het aantal personen aan boord.
 
 2. Op een vissersvaartuig met een lengte van 12 meter of meer zijn te allen tijde een koelkast met voldoende capaciteit en voorzieningen voor het bereiden van warme en koude dranken beschikbaar.
 
-##### Artikel 4.4.18. Aanwezigheid sanitaire voorzieningen
+#### Artikel 4.4.18. Aanwezigheid sanitaire voorzieningen
 
 1. Voor alle personen zijn sanitaire voorzieningen aanwezig, bestaande uit toiletten, wastafels, en baden of douches al naar gelang het gebruik van het vissersvaartuig. Deze voorzieningen voldoen ten minste aan de minimumnormen op het gebied van gezondheid en hygiëne en aan redelijke kwaliteitsnormen.
 
@@ -2883,7 +2857,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 4. Aan het gestelde in het eerste tot en met derde lid wordt in ieder geval voldaan indien norm A3.1, elfde lid, onderdelen a tot en met c, van het MLC-verdrag, zoals die luidde op 15 november 2019, is toegepast.
 
-##### Artikel 4.4.19. Eisen sanitaire voorzieningen
+#### Artikel 4.4.19. Eisen sanitaire voorzieningen
 
 1. Koud en warm stromend water zijn in zodanig voldoende mate beschikbaar voor alle vissers en alle overige personen aan boord dat een behoorlijke hygiëne mogelijk is.
 
@@ -2895,7 +2869,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 5. Aan het gestelde in het eerste tot en met vierde lid wordt in ieder geval voldaan indien norm A3.1, zevende lid, onderdeel c, en elfde lid, onderdelen a tot en met d en f, en leidraad B3.1.7, eerste lid tot en met derde lid, van het MLC-verdrag, zoals die luidde op 15 november 2019, is toegepast.
 
-##### Artikel 4.4.20. Wasvoorzieningen
+#### Artikel 4.4.20. Wasvoorzieningen
 
 1. Er zijn voorzieningen voor het wassen en drogen van kleding beschikbaar, rekening houdend met het gebruik van het vissersvaartuig.
 
@@ -2903,7 +2877,7 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 3. Onverminderd het eerste lid zijn op een vissersvaartuig met een lengte van 45 meter of meer toereikende voorzieningen voor het wassen, drogen en strijken van kleding beschikbaar die zijn gelegen in een van de slaapverblijven, eetverblijven en toiletten afgescheiden ruimte, die voldoende is geventileerd en verwarmd en is voorzien van waslijnen of andere middelen voor het drogen van kleding.
 
-##### Artikel 4.4.21. Voorzieningen voor zieke en gewonde vissers
+#### Artikel 4.4.21. Voorzieningen voor zieke en gewonde vissers
 
 1. Indien nodig wordt een slaapverblijf beschikbaar gemaakt als ziekenverblijf voor een zieke of gewonde visser.
 
@@ -2911,27 +2885,27 @@ Alle praktische maatregelen worden getroffen om verblijven voor de bemanning van
 
 3. Het ziekenverblijf is adequaat uitgerust en verkeert te allen tijde in hygiënische staat.
 
-##### Artikel 4.4.22. Overige voorzieningen
+#### Artikel 4.4.22. Overige voorzieningen
 
 Op een gemakkelijk bereikbare plaats buiten de slaapverblijven is een ruimte beschikbaar voor het ophangen van spullen voor gebruik bij slecht weer en andere persoonlijke beschermingsmiddelen.
 
-##### Artikel 4.4.23. Beddengoed, eetgerei en overige verstrekkingen
+#### Artikel 4.4.23. Beddengoed, eetgerei en overige verstrekkingen
 
 1. Aan vissers aan boord worden eetgerei, beddengoed en ander linnengoed verstrekt.
 
 2. De kosten van het in het eerste lid bedoelde linnengoed kunnen worden ingehouden als exploitatiekosten indien daartoe is voorzien in de zee-arbeidsovereenkomst in de zeevisserij, de toepasselijke collectieve arbeidsovereenkomst of de maatschapsovereenkomst op grond waarvan de vissers werk verrichten.
 
-##### Artikel 4.4.24. Recreatievoorzieningen
+#### Artikel 4.4.24. Recreatievoorzieningen
 
 1. Een vissersvaartuig met een lengte van 24 meter of meer beschikt over geschikte recreatieve voorzieningen en -diensten voor alle vissers aan boord.
 
 2. Indien geschikt kunnen eetverblijven worden gebruikt voor recreatie.
 
-##### Artikel 4.4.25. Communicatievoorzieningen
+#### Artikel 4.4.25. Communicatievoorzieningen
 
 Vissers aan boord krijgen, voor zover mogelijk en binnen redelijke grenzen, toegang tot communicatievoorzieningen tegen een redelijke kostprijs die de totale kostprijs voor de eigenaar van het vissersvaartuig niet overstijgt.
 
-##### Artikel 4.4.26. Kombuis
+#### Artikel 4.4.26. Kombuis
 
 1. Aan boord zijn kookvoorzieningen en kookgerei beschikbaar. Tenzij uitdrukkelijk anders bepaald en indien uitvoerbaar zijn deze ondergebracht in een afzonderlijke kombuis.
 
@@ -2939,23 +2913,23 @@ Vissers aan boord krijgen, voor zover mogelijk en binnen redelijke grenzen, toeg
 
 3. Een vissersvaartuig met een lengte van 24 meter of meer beschikt over een afzonderlijke kombuis.
 
-##### Artikel 4.4.27. Opslag butaan-propaan voor het koken
+#### Artikel 4.4.27. Opslag butaan-propaan voor het koken
 
 Tanks of flessen met butaan- of propaangas voor het koken in een kombuis zijn geplaatst op het open dek en afdoende beschermd tegen externe hittebronnen en andere externe invloeden.
 
-##### Artikel 4.4.28. Opslagvoorzieningen voor levensmiddelen
+#### Artikel 4.4.28. Opslagvoorzieningen voor levensmiddelen
 
 1. Aan boord is een geschikte plaats met voldoende capaciteit aanwezig voor de opslag van levensmiddelen zodat deze droog, koel en goed geventileerd kunnen worden bewaard en bederf wordt voorkomen. Waar mogelijk worden koelkasten of andere voorzieningen voor opslag bij lage temperaturen gebruikt.
 
 2. Een vissersvaartuig met een lengte van 12 meter of meer beschikt over een provisiekamer, een koelkast en andere voorzieningen voor opslag bij lagere temperaturen.
 
-##### Artikel 4.4.29. Voeding en drinkwater
+#### Artikel 4.4.29. Voeding en drinkwater
 
 1. Aan boord is voldoende voeding en drinkwater aanwezig voor de vissers aan boord, gelet op de duur en aard van de reis.
 
 2. Voeding en drinkwater zijn voor wat betreft de voedingswaarde, kwaliteit, kwantiteit en variatie geschikt, waarbij ook rekening is gehouden met de voorschriften en gebruiken omtrent voeding die voortvloeien uit de religie en cultuur van de vissers.
 
-##### Artikel 4.4.30. Hygiëne en netheid
+#### Artikel 4.4.30. Hygiëne en netheid
 
 1. Verblijven worden schoon en bewoonbaar gehouden en zijn vrij van goederen en voorraden die niet tot de persoonlijke eigendommen van de visser behoren en niet zijn bedoeld voor hun veiligheid of redding in geval van nood.
 
@@ -2963,7 +2937,7 @@ Tanks of flessen met butaan- of propaangas voor het koken in een kombuis zijn ge
 
 3. Afval wordt bewaard in goed afgesloten containers en tijdig afgevoerd uit de ruimten waar voedsel wordt bereid.
 
-##### Artikel 4.4.31. Inspectie
+#### Artikel 4.4.31. Inspectie
 
 1. Aan boord van een vissersvaartuig met een lengte van meer dan 24 meter wordt door of op gezag van de schipper eenmaal per reis of ten minste eenmaal per maand inspecties uitgevoerd om te waarborgen dat:
 
@@ -2975,17 +2949,17 @@ Tanks of flessen met butaan- of propaangas voor het koken in een kombuis zijn ge
 
 2. De bevindingen van deze inspecties en de getroffen maatregelen om eventuele tekortkomingen te verhelpen worden vermeld in het scheepsdagboek.
 
-##### Artikel 4.4.32. Uitzonderingen
+#### Artikel 4.4.32. Uitzonderingen
 
 De minister kan na overleg met de betrokken organisaties van scheepsbeheerders en vissers ontheffing verlenen van de artikelen van deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.4&z=2025-07-01&g=2025-07-01) waardoor, zonder discriminatie, rekening kan worden gehouden met de belangen van vissers met onderling verschillende en bijzondere religieuze en sociale gewoonten, op voorwaarde dat deze ontheffing niet ertoe leidt dat de algemene algehele omstandigheden minder gunstig zijn dan die welke voortvloeien uit de toepassing van deze paragraaf.
 
 #### Paragraaf 4.5. Huisvesting, voorzieningen, voeding en drinkwater ten behoeve van vissers aan boord van een vissersvaartuig gebouwd voor 15 november 2019
 
-##### Artikel 4.5.1. Reikwijdte
+#### Artikel 4.5.1. Reikwijdte
 
 Deze paragraaf is van toepassing op een vissersvaartuig, niet zijnde een vissersvaartuig als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.5.2. Plaats en algemene inrichting van de verblijven
+#### Artikel 4.5.2. Plaats en algemene inrichting van de verblijven
 
 1. Verblijven zijn midscheeps of in het achterschip gelegen.
 
@@ -2995,7 +2969,7 @@ Deze paragraaf is van toepassing op een vissersvaartuig, niet zijnde een vissers
 
 4. Op een vissersvaartuig met een lengte van 60 meter of meer zijn zowel voor de kapitein en de officieren als voor de gezellen afzonderlijke dagverblijven aanwezig.
 
-##### Artikel 4.5.3. Algemene eisen dag- en slaapverblijven
+#### Artikel 4.5.3. Algemene eisen dag- en slaapverblijven
 
 1. De plaats, de toegangen, de constructie en de indeling van een dag- of slaapverblijf ten opzichte van een andere ruimte is zodanig dat de veiligheid, de bescherming tegen weersinvloeden en overkomend zeewater en de isolatie tegen hitte en kou, overmatig lawaai of tegen uitwaseming van andere ruimten, voldoende zijn verzekerd.
 
@@ -3041,11 +3015,11 @@ Deze paragraaf is van toepassing op een vissersvaartuig, niet zijnde een vissers
 
 22. Alle praktische maatregelen worden getroffen om verblijven voor de bemanning vanvissersvaartuigen te beschermen tegen vliegen en andere insecten, met name wanneer het vissersvaartuig actief is in door muggen geteisterde gebieden.
 
-##### Artikel 4.5.4. Algemene eisen ten aanzien van ruimten voor sanitaire ruimten en verblijven voor ziekenverpleging en ontspanning
+#### Artikel 4.5.4. Algemene eisen ten aanzien van ruimten voor sanitaire ruimten en verblijven voor ziekenverpleging en ontspanning
 
 De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.5&artikel=4.5.3&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op sanitaire ruimten, verblijven voor ziekenverpleging en ontspanning, bestemd voor gebruik door de vissers met dien verstande dat de bekleding en de isolatie van wanden slechts daar is aangebracht, waar dit door de minister nodig wordt geoordeeld.
 
-##### Artikel 4.5.5. Ventilatie
+#### Artikel 4.5.5. Ventilatie
 
 1. Verblijven worden geventileerd, rekening houdend met de klimatologische omstandigheden.
 
@@ -3061,7 +3035,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 7. Toiletten zijn onafhankelijk van andere gedeelten van een verblijf op de buitenlucht geventileerd.
 
-##### Artikel 4.5.6. Verwarming
+#### Artikel 4.5.6. Verwarming
 
 1. Verblijven worden voldoende verwarmd, rekening houdend met de klimatologische omstandigheden.
 
@@ -3075,7 +3049,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 6. De verwarmingsinrichting heeft vermogen waarmee onder normale klimatologische omstandigheden die tijdens de reis kunnen worden ondervonden, in verblijven een temperatuur van ten minste 20 graden Celsius kan worden onderhouden.
 
-##### Artikel 4.5.7. Verlichting
+#### Artikel 4.5.7. Verlichting
 
 1. Verblijven zijn van voldoende verlichting voorzien.
 
@@ -3085,7 +3059,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 4. In iedere kooi is in aanvulling op de normale verlichting van het slaapverblijf voldoende leesverlichting aanwezig.
 
-##### Artikel 4.5.8. Aantal personen per slaapverblijf
+#### Artikel 4.5.8. Aantal personen per slaapverblijf
 
 1. Met inachtneming van het tweede lid, is een slaapverblijf ten hoogste bestemd voor het hieronder vermelde aantal vissers:
 
@@ -3111,7 +3085,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 5. Het maximumaantal personen dat in een slaapverblijf kan worden ondergebracht, is duidelijk leesbaar en onuitwisbaar vermeld op een duidelijk zichtbare plaats in de slaapruimte.
 
-##### Artikel 4.5.9. Comfort slaapverblijven
+#### Artikel 4.5.9. Comfort slaapverblijven
 
 1. Slaapverblijven zijn zodanig gelegen en ingericht dat een redelijk comfort voor de vissers is gewaarborgd en netheid wordt bevorderd.
 
@@ -3165,7 +3139,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 21. Onder de opening van een luchtkoker is geen slaapplaats aanwezig.
 
-##### Artikel 4.5.10. Dagverblijven
+#### Artikel 4.5.10. Dagverblijven
 
 1. De grootte en inrichting en het aantal tafels en zitbanken of stoelen, vastgezet of verplaatsbaar, van een dagverblijf zijn voldoende voor het grootste aantal personen dat gelijktijdig van het verblijf gebruik kan maken.
 
@@ -3177,7 +3151,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 5. Indien een radiodistributie-installatie aanwezig is, zijn dagverblijven daarop aangesloten.
 
-##### Artikel 4.5.11. Sanitaire voorzieningen
+#### Artikel 4.5.11. Sanitaire voorzieningen
 
 1. Een vissersvaartuig is voorzien van voldoende sanitaire voorzieningen, met inbegrip van wastafels, douches en toiletten.
 
@@ -3190,7 +3164,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 3. Bij de berekening wordt een aantal van drie vissers of minder ten aanzien van douches en toiletten en een aantal van twee vissers of minder ten aanzien van wastafels, verwaarloosd.
 
-##### Artikel 4.5.12. Eisen sanitaire inrichtingen
+#### Artikel 4.5.12. Eisen sanitaire inrichtingen
 
 1. Een sanitaire ruimte bestemd voor gemeenschappelijk gebruik voldoet aan de volgende eisen:
 
@@ -3214,7 +3188,7 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 5. Het eerste lid, onderdelen a, b, d, e en f, is mede van toepassing op wastafels in slaapverblijven en op sanitaire ruimten die rechtstreeks in verbinding staan met slaapverblijven.
 
-##### Artikel 4.5.13. Wassen en drogen van kleding
+#### Artikel 4.5.13. Wassen en drogen van kleding
 
 1. Op een vissersvaartuig met een lengte van 35 meter of meer zijn voorzieningen voor het wassen en drogen van kleding beschikbaar, rekening houdend met het gebruik van het vissersvaartuig.
 
@@ -3226,11 +3200,11 @@ De bepalingen van [artikel 4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR005106
 
 5. Onverminderd het eerste lid zijn toereikende voorzieningen voor het wassen, drogen en strijken van kleding beschikbaar die zijn gelegen in een van de slaapverblijven, eetverblijven en toiletten afgescheiden ruimte, die voldoende is geventileerd en verwarmd en is voorzien van waslijnen of andere middelen voor het drogen van kleding.
 
-##### Artikel 4.5.14. Wassen en drogen van kleding, opbergen van oliegoed
+#### Artikel 4.5.14. Wassen en drogen van kleding, opbergen van oliegoed
 
 Buiten, nabij de slaapverblijven is voldoende behoorlijk geventileerde bergruimte om oliegoed en natte of vuile kleding op te hangen.
 
-##### Artikel 4.5.15. Ziekenverblijf en ziekenkooi
+#### Artikel 4.5.15. Ziekenverblijf en ziekenkooi
 
 1. Op een vissersvaartuig met een lengte van 45 meter of meer is een afzonderlijk ziekenverblijf aanwezig dat voldoet aan [artikel 4.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.15&z=2025-07-01&g=2025-07-01).
 
@@ -3242,7 +3216,7 @@ Buiten, nabij de slaapverblijven is voldoende behoorlijk geventileerde bergruimt
 
 5. Indien een visser aan een ernstige of aan een besmettelijke ziekte lijdt, wordt getracht deze, afgezonderd van alle anderen, te verplegen.
 
-##### Artikel 4.5.16. Reinheid van de verblijven
+#### Artikel 4.5.16. Reinheid van de verblijven
 
 1. Een verblijf wordt schoon en in behoorlijk bewoonbare toestand gehouden.
 
@@ -3252,11 +3226,11 @@ Buiten, nabij de slaapverblijven is voldoende behoorlijk geventileerde bergruimt
 
 4. De bevindingen van deze inspecties en de getroffen maatregelen om eventuele tekortkomingen te verhelpen worden vermeld in het scheepsdagboek.
 
-##### Artikel 4.5.17. Plichten van de schipper
+#### Artikel 4.5.17. Plichten van de schipper
 
 Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voorzieningen, is de schipper verantwoordelijk om deze zo spoedig mogelijk te verhelpen.
 
-##### Artikel 4.5.18. Toepasselijkheid en ontheffingen
+#### Artikel 4.5.18. Toepasselijkheid en ontheffingen
 
 1. De minister kan, na overleg met de betrokken organisaties van scheepsbeheerders en vissers ontheffing verlenen van de [artikelen 4.5.2 tot en met 4.5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.5&artikel=4.5.2&z=2025-07-01&g=2025-07-01), indien deze afwijkingen voordelen meebrengen welke tot resultaat hebben dat de inrichting over het geheel genomen niet minder gunstig is dan die welke het gevolg zou zijn van volledige toepassing van deze paragraaf.
 
@@ -3268,7 +3242,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 #### Paragraaf 4.6. Certificaat maritieme arbeid en verklaring naleving maritieme arbeid
 
-##### Artikel 4.6.1. Aanvraag certificaat maritieme arbeid en voorlopig certificaat maritieme arbeid
+#### Artikel 4.6.1. Aanvraag certificaat maritieme arbeid en voorlopig certificaat maritieme arbeid
 
 1. Een aanvraag voor een certificaat maritieme arbeid of een voorlopig certificaat maritieme arbeid wordt schriftelijk ingediend bij een op grond van [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=39) aangewezen ambtenaar of rechtspersoon.
 
@@ -3288,7 +3262,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 4. Nadat de in het eerste lid bedoelde ambtenaar of rechtspersoon de verklaring naleving maritieme arbeid deel II heeft ontvangen, worden de onderzoeken, bedoeld in [artikel 4.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.4&z=2025-07-01&g=2025-07-01) of [artikel 4.6.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.6&z=2025-07-01&g=2025-07-01), uitgevoerd.
 
-##### Artikel 4.6.2. Inhoud verklaring naleving maritieme arbeid deel I
+#### Artikel 4.6.2. Inhoud verklaring naleving maritieme arbeid deel I
 
 1. Een verklaring naleving maritieme arbeid deel I bevat de elementen, bedoeld in norm A5.1.3, tiende lid, onderdeel a, van het MLC-verdrag, en wordt opgesteld met inachtneming van leidraad B5.1.3, eerste en vierde lid, van het MLC-verdrag met betrekking tot onder meer:
 
@@ -3324,7 +3298,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 2. Het model, bedoeld in [artikel 4.6.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.8&z=2025-07-01&g=2025-07-01), bevat een opsomming van de eisen, bedoeld in het eerste lid, die op het desbetreffende zeeschip van toepassing zijn. Daarbij wordt voor wat betreft de voorschriften met betrekking tot huisvesting en voorzieningen voor zeevarenden onderscheid gemaakt tussen de verschillende typen zeeschepen, bedoeld in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.1&z=2025-07-01&g=2025-07-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.6.3. Inhoud verklaring naleving maritieme arbeid deel II
+#### Artikel 4.6.3. Inhoud verklaring naleving maritieme arbeid deel II
 
 1. In de verklaring naleving maritieme arbeid deel II wordt vermeld:
 
@@ -3336,7 +3310,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 2. De verklaring naleving maritieme arbeid deel II wordt opgesteld in overeenstemming met de normering van leidraad B5.1.3, tweede tot en met vierde lid, van het MLC-verdrag.
 
-##### Artikel 4.6.4. Inspectie, geldigheid en verlenging certificaat maritieme arbeid
+#### Artikel 4.6.4. Inspectie, geldigheid en verlenging certificaat maritieme arbeid
 
 1. Een certificaat maritieme arbeid heeft een geldigheidsduur van ten hoogste vijf jaar.
 
@@ -3356,7 +3330,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 7. Indien het onderzoek ter verlenging meer dan drie maanden voor de vervaldatum van het bestaande certificaat wordt afgerond, is het nieuwe certificaat maritieme arbeid geldig voor vijf jaar gerekend vanaf de datum waarop de verlengingsinspectie is afgerond.
 
-##### Artikel 4.6.5. Inspectierapport
+#### Artikel 4.6.5. Inspectierapport
 
 1. De uitkomsten van een inspectie als bedoeld in [artikel 4.6.4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.4&z=2025-07-01&g=2025-07-01), worden door de betrokken ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd, opgenomen in een inspectierapport, waarbij alle eventuele zwaarwegende tekortkomingen uitdrukkelijk worden vermeld.
 
@@ -3368,7 +3342,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 5. Een afschrift van het inspectierapport wordt aan boord van het zeeschip op een duidelijk zichtbare en voor de bemanning toegankelijke plaats beschikbaar gesteld.
 
-##### Artikel 4.6.6. Voorwaarden afgifte voorlopige certificaten
+#### Artikel 4.6.6. Voorwaarden afgifte voorlopige certificaten
 
 1. Een voorlopig certificaat maritieme arbeid kan worden afgegeven met betrekking tot:
 
@@ -3386,7 +3360,7 @@ Indien tijdens de reis gebreken ontstaan aan de in deze paragraaf omschreven voo
 
 5. Het zeeschip wordt met het oog op een voorlopig certificaat als bedoeld in het eerste lid onderworpen aan een onderzoek als bedoeld in [artikel 4.6.4, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.4&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.6.7. Vervallen certificaat bij onttrekken van zeeschip aan oorspronkelijke bestemming
+#### Artikel 4.6.7. Vervallen certificaat bij onttrekken van zeeschip aan oorspronkelijke bestemming
 
 Onverminderd [artikel 4.2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.2.2) vervalt een voor dat zeeschip afgegeven certificaat maritieme arbeid indien:
 
@@ -3394,7 +3368,7 @@ Onverminderd [artikel 4.2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c
 
 - b. het zeeschip van bestemming wijzigt zonder dat een verbouwing of wijziging van de inrichting als bedoeld in [artikel 4.2.2, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=4.2.2) plaatsvindt.
 
-##### Artikel 4.6.8. Modellen
+#### Artikel 4.6.8. Modellen
 
 1. Het model van het certificaat maritieme arbeid is opgenomen in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=16&z=2025-07-01&g=2025-07-01).
 
@@ -3406,7 +3380,7 @@ Onverminderd [artikel 4.2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c
 
 5. De documenten, bedoeld in het eerste tot en met vierde lid, zijn slechts geldig indien ze zijn opgesteld overeenkomstig de in de bijlagen bij deze regeling opgenomen modellen en naar waarheid zijn ingevuld.
 
-##### Artikel 4.6.9. Erkenning van organisaties
+#### Artikel 4.6.9. Erkenning van organisaties
 
 1. Een erkenning als bedoeld in [artikel 39, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=39) kan worden verleend aan rechtspersonen die voldoen aan de volgende criteria:
 
@@ -3426,7 +3400,7 @@ Onverminderd [artikel 4.2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c
 
 6. Een besluit tot erkenning of intrekking van een erkenning wordt bekend gemaakt in de Staatscourant.
 
-##### Artikel 4.6.10. Aanwijzing erkende rechtspersonen
+#### Artikel 4.6.10. Aanwijzing erkende rechtspersonen
 
 1. Een rechtspersoon die is erkend overeenkomstig [artikel 4.6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.9&z=2025-07-01&g=2025-07-01) en die is aangewezen op grond van [artikel 6, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6), kan de minister verzoeken om een aanwijzing als bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=39).
 
@@ -3438,7 +3412,7 @@ Onverminderd [artikel 4.2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c
 
 #### Paragraaf 4.7. Visserij-arbeidscertificaat
 
-##### Artikel 4.7.1. Opsomming voorschriften C 188-verdrag
+#### Artikel 4.7.1. Opsomming voorschriften C 188-verdrag
 
 De minister geeft op aanvraag een visserij-arbeidscertificaat als bedoeld in [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=38) af indien na onderzoek blijkt dat voor dat vissersvaartuig ten minste wordt voldaan aan:
 
@@ -3464,21 +3438,21 @@ De minister geeft op aanvraag een visserij-arbeidscertificaat als bedoeld in [ar
 
 - k. de bescherming tegen beroepsgerelateerde ziekte, ongeval of overlijden, bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=7).
 
-##### Artikel 4.7.2. Model visserij-arbeidscertificaat
+#### Artikel 4.7.2. Model visserij-arbeidscertificaat
 
 Het model voor het visserij-arbeidscertificaat voor vissersvaartuigen is opgenomen in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&bijlage=20&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 4.7.3. Geldigheidsduur visserij-arbeidscertificaat
+#### Artikel 4.7.3. Geldigheidsduur visserij-arbeidscertificaat
 
 Het visserij-arbeidscertificaat heeft een geldigheidsduur van ten hoogste vijf jaar.
 
-##### Artikel 4.7.4. Afgifte en verlenging visserij-arbeidscertificaat
+#### Artikel 4.7.4. Afgifte en verlenging visserij-arbeidscertificaat
 
 De [artikelen 4.6.3 tot en met 4.6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.3&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op het visserij-arbeidscertificaat.
 
 #### Paragraaf 4.8. Register
 
-##### Artikel 4.8. Gegevensregistratie Centraal inspectieregister
+#### Artikel 4.8. Gegevensregistratie Centraal inspectieregister
 
 1. Na het uitvoeren van een inspectie als bedoeld in [artikel 4.6.3, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.6&artikel=4.6.3&z=2025-07-01&g=2025-07-01), worden door de betrokken ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd, de volgende gegevens in het register, bedoeld in [artikel 77 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=77), geregistreerd:
 
@@ -3504,11 +3478,11 @@ De [artikelen 4.6.3 tot en met 4.6.7](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### Paragraaf 4.9. Klachtenprocedures
 
-##### Artikel 4.9.1. Klager
+#### Artikel 4.9.1. Klager
 
 In deze paragraaf wordt verstaan onder ‘klager’: zeevarende die op grond van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=6) of [40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=40), een klacht indient.
 
-##### Artikel 4.9.2. Klachtenprocedure aan boord
+#### Artikel 4.9.2. Klachtenprocedure aan boord
 
 1. In een klachtenprocedure als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=6) wordt ten minste opgenomen:
 
@@ -3530,7 +3504,7 @@ In deze paragraaf wordt verstaan onder ‘klager’: zeevarende die op grond van
 
 - c. om klachten in te dienen betreffende een vermoedelijke schending van het MLC-verdrag of het C188-verdrag.
 
-##### Artikel 4.9.3. Klachtbehandeling aan de wal
+#### Artikel 4.9.3. Klachtbehandeling aan de wal
 
 1. Een klacht als bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=40) wordt ingediend bij de voor de klachtenbehandeling door de Inspecteur-Generaal van de Inspectie Leefomgeving en Transport aangewezen ambtenaren van die inspectie. De Inspecteur-Generaal draagt zorg voor een vertrouwelijke behandeling van de klacht.
 
@@ -3574,7 +3548,7 @@ In deze paragraaf wordt verstaan onder ‘klager’: zeevarende die op grond van
 
 ### Hoofdstuk 5. Tuchtrechtspraak
 
-##### Artikel 5.1. Eed of belofte
+#### Artikel 5.1. Eed of belofte
 
 De voorzitter, de plaatsvervangende voorzitters, de leden, de plaatsvervangende leden, de secretaris en de plaatsvervangende secretarissen van het tuchtcollege voor de scheepvaart leggen voor de aanvang van hun werkzaamheden ten overstaan van de president van het College van Beroep voor het bedrijfsleven de eed of belofte af overeenkomstig het volgende formulier:
 
@@ -3596,7 +3570,7 @@ Op .......... heeft .......... (1) ten overstaan van de president van het Colleg
 
 (2) ..........
 
-##### Artikel 5.2. Vacatiegeld
+#### Artikel 5.2. Vacatiegeld
 
 1. De leden, de plaatsvervangende leden en de plaatsvervangende secretarissen ontvangen voor het bijwonen van een zitting van het tuchtcollege voor de scheepvaart een vacatiegeld van € 342.
 
@@ -3612,25 +3586,25 @@ Op .......... heeft .......... (1) ten overstaan van de president van het Colleg
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-##### Artikel 6.1. Gelijkstelling certificaten en bekwaamheidsbewijzen
+#### Artikel 6.1. Gelijkstelling certificaten en bekwaamheidsbewijzen
 
 1. Een certificaat uitvoering beveiligingstaken, afgegeven op grond van sectie A-VI/6, negende lid, van de STCW-code, wordt gelijkgesteld met een bekwaamheidsbewijs uitvoering beveiligingstaken, afgegeven op grond van artikel 3.5.9.
 
 2. Een certificaten bewustwording scheepsbeveiliging, afgegeven op grond van sectie A-VI/6, vijfde lid, van de STCW-code, wordt gelijkgesteld met een bekwaamheidsbewijs uitvoering beveiligingstaken, afgegeven op grond van [artikel 3.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.5&artikel=3.5.10&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 6.2. Erkenning trainingen
+#### Artikel 6.2. Erkenning trainingen
 
 1. Een op grond van [artikel 1 van de Erkenningsregeling trainingen zeevaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0013363&artikel=1), zoals dat luidde voor de dag van inwerkingtreding van deze regeling, afgegeven erkenning behoudt zijn geldigheid gedurende de op de erkenning aangegeven einddatum.
 
 2. [Artikel 3.7.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.7&artikel=3.7.1&z=2025-07-01&g=2025-07-01), is tot 1 januari 2027 niet van toepassing op een trainingsinstituut dat één of meer erkende trainingen verzorgt op grond van [artikel 1 van de ingetrokken Erkenningsregeling trainingen zeevaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0013363&artikel=1), met dien verstande dat de aanvraag om de erkenning van het trainingsinstituut, bedoeld in artikel 3.7.1, onderdeel a, niet later dan 1 januari 2026 is ingediend bij de minister.
 
-##### Artikel 6.3. Uitsluiting oude zeeschepen
+#### Artikel 6.3. Uitsluiting oude zeeschepen
 
 1. Op een zeeschip als bedoeld in [artikel 4.2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.2&artikel=4.2.18&z=2025-07-01&g=2025-07-01), blijven de [artikelen 46 tot en met 67 van het ingetrokken Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=46) van toepassing, zoals deze luidden voor de inwerkingtreding van deze regeling.
 
 2. Op een bestaand vissersvaartuig als bedoeld in [artikel 4.5.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=4&paragraaf=4.5&artikel=4.5.18&z=2025-07-01&g=2025-07-01), zijn de [artikelen 68 tot en met 84 van het ingetrokken Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985&artikel=68), zoals deze luidden voor 12 mei 1977 van toepassing.
 
-##### Artikel 6.4. Intrekkingen
+#### Artikel 6.4. Intrekkingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -3654,71 +3628,71 @@ De volgende regelingen worden ingetrokken:
 
 - –. [Vrijstellingsregeling buitenlandse kapiteins voor de sector koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0015532).
 
-##### Artikel 6.5
+#### Artikel 6.5
 
 Wijzigt de Binnenvaartregeling.
 
-##### Artikel 6.6
+#### Artikel 6.6
 
 Wijzigt de Regeling erkenning EU-beroepskwalificaties zeevisserij.
 
-##### Artikel 6.7
+#### Artikel 6.7
 
 Wijzigt de Nadere regeling kinderarbeid.
 
-##### Artikel 6.8
+#### Artikel 6.8
 
 Wijzigt de Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.
 
-##### Artikel 6.9
+#### Artikel 6.9
 
 Wijzigt de Regeling tarieven transportsectoren.
 
-##### Artikel 6.10
+#### Artikel 6.10
 
 Wijzigt de Regeling veiligheid zeeschepen.
 
-##### Artikel 6.11
+#### Artikel 6.11
 
 Wijzigt de Regeling inzage gegevens en bescheiden Zeebrievenwet.
 
-##### Artikel 6.12
+#### Artikel 6.12
 
 Wijzigt de Regeling zorgverzekering.
 
-##### Artikel 6.13
+#### Artikel 6.13
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-##### Artikel 6.14
+#### Artikel 6.14
 
 Wijzigt de Uitvoeringsregeling zeevisserij.
 
-##### Artikel 6.15
+#### Artikel 6.15
 
 Wijzigt het Aanwijzingsbesluit erkende rechtspersonen voor onderzoek certificering Wet zeevarenden.
 
-##### Artikel 6.16
+#### Artikel 6.16
 
 Wijzigt het Besluit aanwijzing toezichthouders Wet zeevarenden.
 
-##### Artikel 6.17
+#### Artikel 6.17
 
 Wijzigt het Besluit terbeschikkingstelling scheepvaartinspecteurs Rijksdienst Caribisch Nederland inzake toezicht ex Wet havenstaatcontrole en Wet zeevarenden in Bonaire, Sint Eustatius en Saba.
 
-##### Artikel 6.18
+#### Artikel 6.18
 
 Wijzigt het Besluit mandaat en machtiging certificering zeeschepen 2012.
 
-##### Artikel 6.19
+#### Artikel 6.19
 
 Wijzigt het Besluit mandaat en machtiging Kiwa N.V. (I).
 
-##### Artikel 6.20. Citeertitel
+#### Artikel 6.20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bemanning zeeschepen.
 
-##### Artikel 6.21. Inwerkingtreding
+#### Artikel 6.21. Inwerkingtreding
 
 1. Deze regeling treedt met uitzondering van de [artikelen 3.8.4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.8&artikel=3.8.4&z=2025-07-01&g=2025-07-01), [3.8.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.8&artikel=3.8.5&z=2025-07-01&g=2025-07-01), [3.8.6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.8&artikel=3.8.6&z=2025-07-01&g=2025-07-01), en [3.8.7, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0051068&hoofdstuk=3&paragraaf=3.8&artikel=3.8.7&z=2025-07-01&g=2025-07-01), in werking op het tijdstip waarop de [Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681) in werking treedt.
 

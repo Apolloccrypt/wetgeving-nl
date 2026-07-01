@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)"
+title: "Landbouwkwaliteitsregeling 2007"
 identifier: "BWBR0022543"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-14"
-last_updated: "2023-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022543"
-soort: "ministeriele-regeling"
-stam_id: "9212113"
-version_id: "17529052"
-internal_id: "C24256261"
-label_id: "9191064"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022543/2023-10-14/0"
-intitule_bron: "Stcrt.2007-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-09-14"
-intitule_published: "2007-09-28"
-intitule_in_force: "2007-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-11057"
-original_signed_date: "2010-07-09"
-original_published_date: "2010-07-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2010-11057"
-entry_into_force_date: "2010-07-09"
-jci_1_3: "jci1.3:c:BWBR0022543&z=2023-10-14&g=2023-10-14"
-jci_1_0: "1.0:c:BWBR0022543&g=2023-10-14"
-citeertitel_status: "officieel"
-short_title: "Landbouwkwaliteitsregeling 2007"
-signed_date: "2010-07-09"
-entry_into_force: "2010-07-09"
+categorie: "Overig"
+publicatiedatum: 2023-10-14
+laatste_update: 2023-10-14
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0022543"
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)
 
 Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de handel brengen van verschillende landbouwproducten, alsmede gelet op [artikel 10 van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=10);
@@ -44,7 +18,7 @@ Treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in w
 
 ### Hoofdstuk 1. Biologische productiemethode
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -64,17 +38,17 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU) 2021/2307:** [Uitvoeringsverordening (EU) 2021/2307](32307R2021) van de Commissie van 21 oktober 2021 tot vaststelling van regels betreffende documenten en kennisgevingen die vereist zijn voor biologische en omschakelingsproducten die bestemd zijn voor invoer in de Unie (PbEU 2021, L 461).
 
-##### Artikel 2
+#### Artikel 2
 
 1. Exploitanten en groepen exploitanten, als bedoeld in artikel 36 van [verordening (EU) 2018/848](32748R2018), melden zich overeenkomstig artikel 15, aanhef en onderdeel b, van het Landbouwkwaliteitsbesluit 2007 bij de Stichting Skal overeenkomstig artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018).
 
 2. Exploitanten die onverpakte biologische producten, met uitzondering van diervoeders, direct aan de eindconsument of eindgebruiker verkopen zijn vrijgesteld van de toepassing van artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018), mits ze voldoen aan artikel 35, achtste lid, van [verordening (EU) 2018/848](32748R2018).
 
-##### Artikel 3
+#### Artikel 3
 
 Indien de Stichting Skal constateert dat de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 42 van [verordening (EU) 2018/848](32748R2018).
 
-##### Artikel 4
+#### Artikel 4
 
 De Stichting Skal wordt aangewezen als bevoegde autoriteit met betrekking tot biologische productie en etikettering van biologische producten, bedoeld in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017), voor zover het betreft:
 
@@ -84,11 +58,11 @@ De Stichting Skal wordt aangewezen als bevoegde autoriteit met betrekking tot bi
 
 - c. het opleggen van een nieuwe omschakelingsperiode als bedoeld in bijlage II, deel I, punt 1.7.3.
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 6
+#### Artikel 6
 
 1. De Stichting Skal kan op aanvraag een vrijstelling verlenen voor het gebruik in Nederland van niet volgens de biologische productiemethode verkregen ingrediënten van agrarische oorsprong, als bedoeld in artikel 25, eerste en derde lid, van [verordening (EU) 2018/848](32748R2018).
 
@@ -96,29 +70,29 @@ Vervallen
 
 3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van plantaardig niet overeenkomstig de biologische productiemethode verkregen teeltmateriaal overeenkomstig bijlage II, deel I, punten 1.8.5.1 en 1.8.6, van [verordening (EU) 2018/848](32748R2018).
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
 ### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
 
-##### Artikel 9
+#### Artikel 9
 
 Marktdeelnemers als bedoeld in artikel 10, tweede lid, van verordening (EU) 543/2011 verstrekken de in het vijfde en zesde lid van dat artikel bedoelde gegevens aan de Stichting KCB ten behoeve van de gegevensbank, bedoeld in het eerste lid van dat artikel, die wordt beheerd door deze Stichting.
 
-##### Artikel 10
+#### Artikel 10
 
 Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898) worden vrijgesteld van de controle, registreren zich bij de Stichting KCB overeenkomstig artikel 7, tweede lid, van deze verordening.
 
-##### Artikel 11
+#### Artikel 11
 
 De Minister is de coördinerende autoriteit, bedoeld in artikel 9, eerste lid, onderdeel a, van verordening (EU) 543/2011.
 
-##### Artikel 12
+#### Artikel 12
 
 De Stichting KCB is belast met:
 
@@ -128,13 +102,13 @@ De Stichting KCB is belast met:
 
 - c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898).
 
-##### Artikel 13
+#### Artikel 13
 
 1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 11 en 17 en bijlage V van verordening (EU) 543/2011 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.
 
 2. De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van [verordening (EG) 2898/95](31995R2898).
 
-##### Artikel 14
+#### Artikel 14
 
 1. Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EU) 543/2011 en de bij of krachtens verordening (EU) 1308/2013 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 17, derde lid, van verordening (EU) 543/2011.
 
@@ -144,17 +118,17 @@ De Stichting KCB is belast met:
 
 ### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
 ### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
-##### Artikel 17
+#### Artikel 17
 
 1. Bij de Minister worden ingediend:
 
@@ -174,7 +148,7 @@ Vervallen
 
 6. De Minister voorziet in de openbaarmaking, bedoeld in artikel 49, vierde lid, laatste alinea, van verordening (EU) 1151/2012.
 
-##### Artikel 18
+#### Artikel 18
 
 1. De Minister geeft kennis van een door de Europese Commissie voorgenomen of ingeschreven registratie, wijziging van een productdossier of annulering van een registratie onmiddellijk na publicatie daarvan in het Publicatieblad van de Europese Unie in de Staatscourant.
 
@@ -182,35 +156,35 @@ Vervallen
 
 3. De minister betrekt de verklaring, bedoeld in het tweede lid, bij de overweging omtrent het instellen van bezwaar tegen een registratie of niet-minimale wijziging van een productdossier bij de Europese Commissie als bedoeld in artikel 51 van verordening (EU) 1151/2012.
 
-##### Artikel 19
+#### Artikel 19
 
 Vervallen
 
-##### Artikel 20
+#### Artikel 20
 
 Vervallen
 
-##### Artikel 21
+#### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
 ### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
 
-##### Artikel 23
+#### Artikel 23
 
 Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2023-10-14&g=2023-10-14) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
-##### Artikel 24
+#### Artikel 24
 
 Leveranciers van teeltmateriaal van bloembollen registreren zich overeenkomstig artikel 6 van [richtlijn 98/56/EG](31998L0056) voor de activiteiten die zij uit hoofde van deze richtlijn uitoefenen bij de Stichting BKD.
 
-##### Artikel 25
+#### Artikel 25
 
 De aanvraag tot registratie vindt plaats door inzending van een volledig ingevuld, door de Stichting BKD te verstrekken aanvraagformulier dat vergezeld gaat van de volgende bescheiden:
 
@@ -220,7 +194,7 @@ De aanvraag tot registratie vindt plaats door inzending van een volledig ingevul
 
 ### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
 
-##### Artikel 26
+#### Artikel 26
 
 Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=15) worden aangewezen:
 
@@ -234,11 +208,11 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 ### Hoofdstuk 8. Overige bepalingen
 
-##### Artikel 27
+#### Artikel 27
 
 De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2023-10-14&g=2023-10-14), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
-##### Artikel 28
+#### Artikel 28
 
 De volgende regelingen worden ingetrokken:
 
@@ -264,11 +238,11 @@ De volgende regelingen worden ingetrokken:
 
 - k. De [Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003121) (Stcrt. 1977, 159).
 
-##### Artikel 29
+#### Artikel 29
 
 Deze regeling wordt aangehaald als: Landbouwkwaliteitsregeling 2007.
 
-##### Artikel 30
+#### Artikel 30
 
 Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) in werking treedt.
 
@@ -428,11 +402,11 @@ Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 26a
+#### Artikel 26a
 
 In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon of rechtspersoon die bedrijfsmatig betrokken is bij het in de handel brengen van producten.
 
-##### Artikel 26b
+#### Artikel 26b
 
 1. Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.
 
@@ -938,7 +912,7 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 8
+#### Artikel 8
 
 De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderdeel B, punt 8.4.6 van [verordening (EEG) 2092/91](31991R2092), wordt vastgesteld op 60 dagen, telkens na het houden van een koppel pluimvee.
 
@@ -1037,11 +1011,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 7a
+#### Artikel 7a
 
 Vervallen
 
-##### Artikel 8a
+#### Artikel 8a
 
 1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van [verordening (EU) 2021/1165](33065R2021), slechts gebruik worden gemaakt van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=III&z=2023-10-14&g=2023-10-14) genoemde producten onder de daarbij genoemde beperkingen.
 
@@ -1051,7 +1025,7 @@ Vervallen
 
 ### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
-##### Artikel 16a
+#### Artikel 16a
 
 Vervallen
 
@@ -1492,7 +1466,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 7b
+#### Artikel 7b
 
 Vervallen
 
@@ -1514,7 +1488,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 26c
+#### Artikel 26c
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
@@ -1917,7 +1891,7 @@ Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 8b
+#### Artikel 8b
 
 1. De Stichting Skal informeert de Commissie over:
 

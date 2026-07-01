@@ -1,41 +1,14 @@
 ---
-title: "Wet van 11 december 2024, houdende regels over energiemarkten en energiesystemen (Energiewet)"
+title: "Energiewet"
 identifier: "BWBR0050714"
-country: "nl"
-rank: "wet"
-publication_date: "2026-02-14"
-last_updated: "2026-02-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050714"
-soort: "wet"
-stam_id: "17349853"
-version_id: "30585072"
-internal_id: "C43902291"
-label_id: "17256854"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050714/2026-02-14/0"
-intitule_bron: "Stb.2025-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-11"
-intitule_published: "2025-01-23"
-intitule_in_force: "2025-02-21"
-intitule_status: "goed"
-original_publication: "Stb.2025-12"
-original_signed_date: "2024-12-11"
-original_published_date: "2025-01-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "36378"
-original_url_id: "stb-2025-12"
-entry_into_force_date: "2025-02-22"
-jci_1_3: "jci1.3:c:BWBR0050714&z=2026-02-14&g=2026-02-14"
-jci_1_0: "1.0:c:BWBR0050714&g=2026-02-14"
-citeertitel_status: "officieel"
-short_title: "Energiewet"
-signed_date: "2024-12-11"
-entry_into_force: "2025-02-22"
+categorie: "Overig"
+publicatiedatum: 2026-02-14
+laatste_update: 2026-02-14
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0050714"
 ---
-# Wet van 11 december 2024, houdende regels over energiemarkten en energiesystemen (Energiewet)
+
+# Energiewet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -59,83 +32,83 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Afdeling 7.1. Wijziging andere wetten
 
-##### Artikel 7.1. wijziging [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
+#### Artikel 7.1. wijziging [Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
 
 Wijzigt de Algemene douanewet.
 
-##### Artikel 7.2. wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+#### Artikel 7.2. wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-##### Artikel 7.3. wijziging [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)
+#### Artikel 7.3. wijziging [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)
 
 Wijzigt de Elektriciteitswet 1998.
 
-##### Artikel 7.4. wijziging [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440)
+#### Artikel 7.4. wijziging [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440)
 
 Wijzigt de Gaswet.
 
-##### Artikel 7.5
+#### Artikel 7.5
 
 Wijzigt de Gemeentewet.
 
-##### Artikel 7.6. wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+#### Artikel 7.6. wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt de Omgevingswet.
 
-##### Artikel 7.7
+#### Artikel 7.7
 
 Wijzigt de Provinciewet.
 
-##### Artikel 7.8. wijziging [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
+#### Artikel 7.8. wijziging [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
 
 Wijzigt de Telecommunicatiewet.
 
-##### Artikel 7.9. wijziging [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729)
+#### Artikel 7.9. wijziging [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729)
 
 Wijzigt de Warmtewet.
 
-##### Artikel 7.10
+#### Artikel 7.10
 
 Wijzigt de Waterschapswet.
 
-##### Artikel 7.11. wijziging [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168)
+#### Artikel 7.11. wijziging [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168)
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-##### Artikel 7.12. wijziging [Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672)
+#### Artikel 7.12. wijziging [Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672)
 
 Wijzigt de Wet uitvoering EU-handelingen energie-efficiëntie.
 
-##### Artikel 7.13. wijziging [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728)
+#### Artikel 7.13. wijziging [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728)
 
 Wijzigt de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
 
-##### Artikel 7.14. wijziging [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
+#### Artikel 7.14. wijziging [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
 
 Wijzigt de Wet normering topinkomens.
 
-##### Artikel 7.15. wijziging [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251)
+#### Artikel 7.15. wijziging [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251)
 
 Wijzigt de Wet op de accijns.
 
-##### Artikel 7.16. Wijziging [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752)
+#### Artikel 7.16. Wijziging [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752)
 
 Wijzigt de Wet windenergie op zee.
 
-##### Artikel 7.17. wijziging [Wet op de Economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+#### Artikel 7.17. wijziging [Wet op de Economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
 Wijzigt de Wet op de Economische delicten.
 
-##### Artikel 7.18. wijziging [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
+#### Artikel 7.18. wijziging [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
 
 Wijzigt het Wetboek van Strafvordering.
 
-##### Artikel 7.19. wijziging overgangsrecht [WON](https://wetten.overheid.nl/jci1.3:c:BWBR0020608)
+#### Artikel 7.19. wijziging overgangsrecht [WON](https://wetten.overheid.nl/jci1.3:c:BWBR0020608)
 
 Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer).
 
-##### Artikel 7.20
+#### Artikel 7.20
 
 Wijzigt de Wet open overheid.
 
@@ -143,7 +116,7 @@ Wijzigt de Wet open overheid.
 
 ### Afdeling 7.3. Slotbepalingen
 
-##### Artikel 7.54. intrekken wetten
+#### Artikel 7.54. intrekken wetten
 
 De volgende wetten worden ingetrokken:
 
@@ -173,21 +146,21 @@ De volgende wetten worden ingetrokken:
 
 - m. de [Wet van 20 mei 2020 tot wijziging van de Gaswet betreffende het beperken van de vraag naar laagcalorisch gas van grote afnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043655).
 
-##### Artikel 7.55. vervallen artikelen of onderdelen
+#### Artikel 7.55. vervallen artikelen of onderdelen
 
 Verschillende artikelen van [afdeling 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=7&afdeling=7.2&z=2026-02-14&g=2026-02-14), of onderdelen daarvan, komen te vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 7.56. inwerkingtreding
+#### Artikel 7.56. inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 7.57. citeertitel
+#### Artikel 7.57. citeertitel
 
 Deze wet wordt aangehaald als: Energiewet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 1.1. begripsbepalingen
+#### Artikel 1.1. begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -507,11 +480,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **zoneoverschrijdende capaciteit:** zoneoverschrijdende capaciteit als bedoeld in artikel 2, onderdeel 70, van [verordening 2019/943](32843R2019).
 
-##### Artikel 1.2. andere gasvormige stoffen
+#### Artikel 1.2. andere gasvormige stoffen
 
 Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalingen geheel of gedeeltelijk van toepassing worden verklaard op andere gasvormige stoffen dan gas.
 
-##### Artikel 1.3. aansluitingen
+#### Artikel 1.3. aansluitingen
 
 1. Een onderneming die zich in hoofdzaak bezighoudt met het vervoer van personen of goederen per trein wordt voor de toepassing van deze wet aangemerkt als een eindafnemer met een grote aansluiting, ook indien zij feitelijk geen aansluiting heeft.
 
@@ -523,7 +496,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 3. Voor een organisatorische eenheid als bedoeld in het tweede lid, wordt als aansluiting mede aangemerkt de verbinding bestaande uit één of meer leidingen en daarmee verbonden hulpmiddelen, tussen een transmissie- of distributiesysteem en een zaak die geen onroerende zaak is als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16).
 
-##### Artikel 1.4. gezamenlijke aansluitingen
+#### Artikel 1.4. gezamenlijke aansluitingen
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde worden meerdere onroerende zaken als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16), beschouwd als één onroerende zaak als bedoeld in artikel 16 van de Wet waardering onroerende zaken, indien:
 
@@ -559,7 +532,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 6. Het vijfde lid is niet van toepassing indien de transmissie- of distributiesysteembeheerder voor elektriciteit aan de producent een aanbod voor het aanleggen van meerdere aansluitingen heeft gedaan en dit leidt tot lagere kosten voor de transmissie- of distributiesysteembeheerder voor elektriciteit.
 
-##### Artikel 1.5. organisaties en vertegenwoordiging bij gezamenlijk optredende eindafnemers
+#### Artikel 1.5. organisaties en vertegenwoordiging bij gezamenlijk optredende eindafnemers
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt een organisatie die geen onderneming is, beschouwd als een:
 
@@ -569,13 +542,13 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 2. De vertegenwoordiger van een groep gezamenlijk optredende eindafnemers beschikt over toestemming tot vertegenwoordiging van de betrokken eindafnemers.
 
-##### Artikel 1.6. exclusieve economische zone
+#### Artikel 1.6. exclusieve economische zone
 
 1. Deze wet en de daarop berustende bepalingen zijn mede van toepassing binnen de exclusieve economische zone van Nederland zoals vastgesteld bij of krachtens de [Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480), op de daar aanwezige systemen, installaties die zijn aangesloten op die systemen en de marktdeelnemers, balanceringsverantwoordelijken of eindafnemers die gebruik maken van die systemen.
 
 2. In afwijking van het eerste lid is deze wet en de daarop berustende bepalingen van toepassing op interconnectorsystemen voor gas met derde landen vanaf het connectiepunt met het Nederlands transmissiesysteem voor gas tot en met de territoriale zee.
 
-##### Artikel 1.7. energiearmoede tegengaan
+#### Artikel 1.7. energiearmoede tegengaan
 
 1. Bij de toepassing van de regels gesteld bij of krachtens deze wet is het uitgangspunt dat energiearmoede wordt tegengegaan.
 
@@ -587,7 +560,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 ### Afdeling 2.1. Algemene bepalingen
 
-##### Artikel 2.1. rechten en plichten ten aanzien van leveren en aggregeren
+#### Artikel 2.1. rechten en plichten ten aanzien van leveren en aggregeren
 
 1. Een aangeslotene sluit voor het afnemen van elektriciteit of gas van een transmissie- of distributiesysteem met het oog op het verbruik daarvan een leveringsovereenkomst of een leveringsovereenkomst inzake peer-to-peer handel.
 
@@ -595,7 +568,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 3. Een actieve afnemer is vrij een aggregatieovereenkomst te sluiten met een marktdeelnemer van zijn keuze.
 
-##### Artikel 2.2. meer marktdeelnemers op één aansluiting
+#### Artikel 2.2. meer marktdeelnemers op één aansluiting
 
 1. Een eindafnemer van elektriciteit of actieve afnemer die op zijn aansluiting met meer dan één marktdeelnemer een overeenkomst sluit inzake levering, teruglevering of facilitering in peer-to-peer-handel, draagt er zorg voor dat:
 
@@ -609,7 +582,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 3. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in afwijking van het eerste lid, onderdeel c, het verbruik kan worden toegerekend op basis van afspraken tussen marktdeelnemers, indien deze afspraken voldoen aan de bij die maatregel vast te stellen voorwaarden.
 
-##### Artikel 2.3. algemene bepaling marktdeelnemers
+#### Artikel 2.3. algemene bepaling marktdeelnemers
 
 1. Het is een marktdeelnemer verboden een eindafnemer of actieve afnemer:
 
@@ -625,7 +598,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 2. Bepalingen in overeenkomsten met eindafnemers of actieve afnemers die strijdig zijn met één of meerdere van de in het eerste lid genoemde verboden zijn vernietigbaar.
 
-##### Artikel 2.4. voorwaarden energiegemeenschap
+#### Artikel 2.4. voorwaarden energiegemeenschap
 
 1. Een energiegemeenschap neemt in haar statuten, of, in geval van een personenvennootschap, in een overeenkomst, ten minste op dat:
 
@@ -647,7 +620,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 #### Paragraaf 2.2.1. Algemene voorschriften over contractuele verhouding tussen eindafnemers en leveranciers
 
-##### Artikel 2.5. voorwaarden voor leveranciers
+#### Artikel 2.5. voorwaarden voor leveranciers
 
 1. Een leverancier die elektriciteit of gas levert aan een eindafnemer levert tegen transparante en redelijke prijzen alsmede onder transparante en redelijke voorwaarden.
 
@@ -665,7 +638,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de voorwaarden aan leveranciers in het eerste tot en met vijfde lid.
 
-##### Artikel 2.6. leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+#### Artikel 2.6. leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 1. Een leverancier levert een eindafnemer elektriciteit of gas op basis van een leveringsovereenkomst.
 
@@ -695,7 +668,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 - e. overige informatie die een leverancier een eindafnemer al dan niet periodiek en al dan niet kosteloos verstrekt en de wijze waarop deze wordt verstrekt.
 
-##### Artikel 2.7. factureren en informeren
+#### Artikel 2.7. factureren en informeren
 
 1. Een leverancier verstrekt zijn eindafnemers periodiek en kosteloos facturen, factureringsinformatie en informatie over energiebronnen, waarin de gegevens inzake de geleverde elektriciteit of het geleverde gas op transparante en begrijpelijke wijze is weergegeven.
 
@@ -715,7 +688,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 4. De informatie over energiebronnen ten aanzien van gas uit hernieuwbare bronnen wordt onderbouwd door middel van garanties van oorsprong als bedoeld in [artikel 2.57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.57&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 2.8. klachtenprocedure
+#### Artikel 2.8. klachtenprocedure
 
 1. Een leverancier voorziet in een transparante, kosteloze en eenvoudige interne procedure voor de behandeling van klachten van zijn eindafnemers.
 
@@ -725,7 +698,7 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 - b. de termijnen die gelden voor de klachtenprocedure.
 
-##### Artikel 2.9. dynamische elektriciteitsprijs
+#### Artikel 2.9. dynamische elektriciteitsprijs
 
 1. Een leverancier, niet zijnde een leverancier die faciliteert in peer-to-peer-handel of een energiegemeenschap, met meer dan 200.000 eindafnemers, biedt eindafnemers die beschikken over een meetinrichting waarvan communicatiefunctionaliteit wordt gebruikt desgevraagd een leveringsovereenkomst aan, waarin de prijsvariatie op de spotmarkten wordt weerspiegeld en waarbij de intervallen gelijk of groter zijn aan de marktvereffeningsperiode van die markten.
 
@@ -733,11 +706,11 @@ Bij algemene maatregel van bestuur kunnen deze wet en de daarop rustende bepalin
 
 #### Paragraaf 2.2.2. Aanvullende voorschriften over contractuele verhouding tussen huishoudelijk eindafnemers of micro-ondernemingen en leveranciers
 
-##### Artikel 2.10. vernietigbaarheid
+#### Artikel 2.10. vernietigbaarheid
 
 Een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel met een huishoudelijk eindafnemer of een micro-onderneming, die niet voldoet aan het bepaalde bij of krachtens [artikel 2.6, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.6&z=2026-02-14&g=2026-02-14), is vernietigbaar.
 
-##### Artikel 2.11. toepasselijk recht
+#### Artikel 2.11. toepasselijk recht
 
 1. Het Nederlands recht is van toepassing op een overeenkomst tussen een leverancier en een huishoudelijk eindafnemer of een micro-onderneming.
 
@@ -745,7 +718,7 @@ Een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel me
 
 3. Een beding in een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel dat in strijd is met het eerste of tweede lid, is nietig.
 
-##### Artikel 2.12. overeenkomsten met micro-ondernemingen
+#### Artikel 2.12. overeenkomsten met micro-ondernemingen
 
 1. [Afdeling 3a van titel 3 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=3A) is van overeenkomstige toepassing op een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel tussen een leverancier en een micro-onderneming.
 
@@ -753,29 +726,29 @@ Een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel me
 
 #### Paragraaf 2.2.3. Voorschriften beëindigen van leveringsovereenkomsten en leveringsovereenkomsten inzake peer-to-peer-handel
 
-##### Artikel 2.13. eindafrekening
+#### Artikel 2.13. eindafrekening
 
 Als een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel eindigt, verstrekt de leverancier de eindafnemer binnen een bij ministeriële regeling te bepalen termijn een eindafrekening.
 
-##### Artikel 2.14. overstappen
+#### Artikel 2.14. overstappen
 
 1. Als een eindafnemer overstapt naar een andere leverancier, zorgt de nieuwe leverancier ervoor dat de handelingen die noodzakelijk zijn voor deze overstap worden verricht.
 
 2. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de termijn waarbinnen de leverancier de overstap realiseert.
 
-##### Artikel 2.15. opzegvergoeding huishoudelijk eindafnemer en micro-onderneming
+#### Artikel 2.15. opzegvergoeding huishoudelijk eindafnemer en micro-onderneming
 
 1. Een leverancier kan een huishoudelijk eindafnemer of een micro-onderneming voor de opzegging van een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel door die eindafnemer alleen een opzegvergoeding in rekening brengen, indien het een tussentijdse opzegging betreft van een overeenkomst voor bepaalde duur en een vooraf of tijdens de overeenkomst vast overeengekomen prijs of vast overeengekomen kosten, en de opzegvergoeding in de overeenkomst is opgenomen.
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de voorwaarden en de hoogte van de opzegvergoeding.
 
-##### Artikel 2.16. overstappen huishoudelijk eindafnemer en micro-onderneming
+#### Artikel 2.16. overstappen huishoudelijk eindafnemer en micro-onderneming
 
 Een leverancier brengt met betrekking tot een overstap van een huishoudelijk eindafnemer of een micro-onderneming, buiten de eventueel op grond van [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3&artikel=2.15&z=2026-02-14&g=2026-02-14) in rekening te brengen kosten geen andere kosten in rekening.
 
 #### Paragraaf 2.2.4. Vergunning leveranciers voor levering aan of facilitering in peer-to-peer-handel ten behoeve van eindafnemers met een kleine aansluiting
 
-##### Artikel 2.17. vergunningsplicht leverancier
+#### Artikel 2.17. vergunningsplicht leverancier
 
 1. Het is verboden zonder vergunning als bedoeld in [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.18&z=2026-02-14&g=2026-02-14), elektriciteit of gas te leveren aan een eindafnemer met een kleine aansluiting of te faciliteren in peer-to-peer-handel ten behoeve van een eindafnemer met een kleine aansluiting.
 
@@ -807,7 +780,7 @@ Een leverancier brengt met betrekking tot een overstap van een huishoudelijk ein
 
 - f. mag een buiten Nederland gevestigde leverancier zonder vergunning elektriciteit of gas leveren aan of zonder vergunning faciliteren in peer-to-peer-handel ten behoeve van ten hoogste 500 eindafnemers met een kleine aansluiting die gevestigd zijn in gebieden aan de Nederlandse landsgrens.
 
-##### Artikel 2.18. aanvragen en verlenen vergunning
+#### Artikel 2.18. aanvragen en verlenen vergunning
 
 1. Een leverancier die krachtens [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.17&z=2026-02-14&g=2026-02-14) vergunningplichtig is, beschikt over de benodigde organisatorische, financiële en technische kwaliteiten alsmede over voldoende deskundigheid en is tevens aangesloten bij een instantie voor buitengerechtelijke geschilbeslechting.
 
@@ -827,7 +800,7 @@ Een leverancier brengt met betrekking tot een overstap van een huishoudelijk ein
 
 6. De leverancier namens wie of voor wie personen of instanties overeenkomsten afsluiten draagt er zorg voor dat deze personen of instanties beschikken over de kwaliteiten en deskundigheid die voor de leverancier gelden. Bij ministeriële regeling kunnen ten aanzien van deze personen of instanties tevens aanvullende regels gesteld worden in verband met specifieke kenmerken van het namens of voor de leverancier afsluiten van overeenkomsten.
 
-##### Artikel 2.19. wijzigen en intrekken vergunning
+#### Artikel 2.19. wijzigen en intrekken vergunning
 
 1. De Autoriteit Consument en Markt kan een vergunning wijzigen of intrekken indien:
 
@@ -843,13 +816,13 @@ Een leverancier brengt met betrekking tot een overstap van een huishoudelijk ein
 
 2. In de gevallen, bedoeld in het eerste lid, onderdelen a en c tot en met e, kan de Autoriteit Consument en Markt ter bescherming van eindafnemers met een kleine aansluiting de vergunninghouder bij beschikking een verbod opleggen om aan eindafnemers met een kleine aansluiting een leveringsovereenkomst aan te bieden gedurende een bij die beschikking aan te geven termijn.
 
-##### Artikel 2.20. weigering of intrekking vergunning op grond van [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+#### Artikel 2.20. weigering of intrekking vergunning op grond van [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
 1. Een vergunning kan worden geweigerd of ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 2. Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-##### Artikel 2.21. overdragen vergunning
+#### Artikel 2.21. overdragen vergunning
 
 1. Een vergunning kan met inachtneming van de vereisten, gesteld bij of krachtens [artikel 2.18, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.18&z=2026-02-14&g=2026-02-14), slechts worden overgedragen met toestemming van de Autoriteit Consument en Markt.
 
@@ -859,11 +832,11 @@ Een leverancier brengt met betrekking tot een overstap van een huishoudelijk ein
 
 4. Indien een vergunning wordt overgedragen, neemt de overnemende vergunninghouder alle leveringsovereenkomsten en leveringsovereenkomsten inzake peer-to-peerhandel over die de overdragende vergunninghouder met eindafnemers met een kleine aansluiting heeft gesloten. In afwijking van het eerste lid van [artikel 159 van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=159) is medewerking van de eindafnemer niet vereist.
 
-##### Artikel 2.22. leveringsplicht
+#### Artikel 2.22. leveringsplicht
 
 Een vergunninghouder, niet zijnde een vergunninghouder die enkel faciliteert in peer-to-peer-handel of een energiegemeenschap, doet een aanbod tot levering van elektriciteit of gas aan iedere eindafnemer met een kleine aansluiting, die daarom verzoekt.
 
-##### Artikel 2.23. modelcontracten
+#### Artikel 2.23. modelcontracten
 
 1. Een vergunninghouder, niet zijnde een vergunninghouder die enkel faciliteert in peer-to-peer-handel of een energiegemeenschap, is verplicht om aan eindafnemers met een kleine aansluiting naast eventuele andere vrije contractvormen, levering volgens de modelcontracten, bedoeld in het tweede lid, aan te bieden.
 
@@ -875,11 +848,11 @@ Een vergunninghouder, niet zijnde een vergunninghouder die enkel faciliteert in 
 
 3. Het modelcontract bedoeld in tweede lid, onderdeel a, ziet ook op invoeding van elektriciteit als bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.7&artikel=2.31&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 2.24. meldplicht in het kader van leveringszekerheid
+#### Artikel 2.24. meldplicht in het kader van leveringszekerheid
 
 De vergunninghouder doet, indien hij voorziet of behoort te voorzien dat hij niet langer in staat zal zijn om zijn plicht tot levering van elektriciteit of gas aan zijn eindafnemers met een kleine aansluiting na te komen, daarvan onverwijld mededeling aan de transmissiesysteembeheerder en aan de Autoriteit Consument en Markt.
 
-##### Artikel 2.25. maatregelen in het kader van leveringszekerheid
+#### Artikel 2.25. maatregelen in het kader van leveringszekerheid
 
 1. Ingeval van intrekking van een vergunning of faillissement van een vergunninghouder kunnen leveringsovereenkomsten of leveringsovereenkomsten inzake peer-to-peerhandel die de vergunninghouder heeft gesloten met eindafnemers met een kleine aansluiting binnen een bij algemene maatregel van bestuur te bepalen termijn worden overgedragen aan een andere vergunninghouder. In afwijking van het eerste lid van [artikel 159 van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=159) is medewerking van de eindafnemer niet vereist. Een eindafnemer met een kleine aansluiting is gedurende een bij algemene maatregel van bestuur te bepalen termijn niet bevoegd zijn geldende overeenkomst met de vergunninghouder wiens vergunning wordt ingetrokken dan wel die in faillissement verkeert, op te zeggen.
 
@@ -895,7 +868,7 @@ De vergunninghouder doet, indien hij voorziet of behoort te voorzien dat hij nie
 
 - c. de inkoopovereenkomsten van vergunninghouders om de leveringszekerheid te verzekeren.
 
-##### Artikel 2.26. voorkomen beëindiging levering
+#### Artikel 2.26. voorkomen beëindiging levering
 
 1. Een vergunninghouder neemt preventieve maatregelen om het beëindigen van levering aan of de facilitering in peer-to-peer-handel ten behoeve van een eindafnemer met een kleine aansluiting wegens wanbetaling zoveel mogelijk te voorkomen.
 
@@ -909,7 +882,7 @@ De vergunninghouder doet, indien hij voorziet of behoort te voorzien dat hij nie
 
 #### Paragraaf 2.2.5. Leveranciersmodel
 
-##### Artikel 2.27. innen tarieven
+#### Artikel 2.27. innen tarieven
 
 1. Een leverancier die actief is op een primair allocatiepunt behorend bij een kleine aansluiting, factureert en int de voor deze aansluiting aan een distributiesysteembeheerder periodiek verschuldigde tarieven. De leverancier brengt hiervoor geen kosten in rekening aan de distributiesysteembeheerder.
 
@@ -925,19 +898,19 @@ De vergunninghouder doet, indien hij voorziet of behoort te voorzien dat hij nie
 
 - b. de omvang en het moment van de afdracht, bedoeld in het vierde lid, ten behoeve van een gelijkmatige afdracht aan de distributiesysteembeheerders.
 
-##### Artikel 2.28. informatie over aansluit- en transportovereenkomsten
+#### Artikel 2.28. informatie over aansluit- en transportovereenkomsten
 
 1. Een leverancier die actief is op een primair allocatiepunt behorend bij een kleine aansluiting, faciliteert bij de totstandkoming, wijziging en opzegging van een aansluit- of transportovereenkomst tussen een distributiesysteembeheerder en de aangeslotene en de informatieverstrekking tussen beide partijen.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop invulling wordt gegeven aan de facilitering, bedoeld in het eerste lid, en de informatie die de leverancier in dat kader verstrekt aan de aangeslotene of de distributiesysteembeheerder.
 
-##### Artikel 2.29. doorzendplicht klachten
+#### Artikel 2.29. doorzendplicht klachten
 
 Een leverancier die actief is op een primair allocatiepunt behorend bij een kleine aansluiting, zendt klachten of vragen van de aangeslotene over het systeembeheer onverwijld door naar de systeembeheerder op wie de klacht of vraag betrekking heeft, onder gelijktijdige mededeling daarvan aan de eindafnemer.
 
 #### Paragraaf 2.2.6. Energie delen
 
-##### Artikel 2.30. Energie delen
+#### Artikel 2.30. Energie delen
 
 1. Een actieve afnemer of een aangeslotene binnen een energiegemeenschap heeft het recht om energie te delen, indien:
 
@@ -953,7 +926,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 #### Paragraaf 2.2.7. Overige bepalingen
 
-##### Artikel 2.31. salderen elektriciteit
+#### Artikel 2.31. salderen elektriciteit
 
 1. Als een eindafnemer met een kleine aansluiting hernieuwbare elektriciteit produceert en hij geen terugleveringsovereenkomst heeft gesloten met een andere marktdeelnemer dan zijn leverancier, en voor zover die elektriciteit niet is gedeeld met een andere eindafnemer, berekent de leverancier het verbruik ten behoeve van de facturering en inning van de leveringskosten door de aan het systeem onttrokken elektriciteit te verminderen met de op het systeem ingevoede elektriciteit, waarbij de vermindering maximaal de hoeveelheid aan het systeem onttrokken elektriciteit bedraagt.
 
@@ -965,7 +938,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 5. [Artikel 2.5, eerste, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.5&z=2026-02-14&g=2026-02-14), zijn van overeenkomstige toepassing op de vergoeding en voorwaarden waaronder de elektriciteit wordt ingevoed, met dien verstande dat de hoogte van de vergoeding wordt bepaald overeenkomstig het derde lid.
 
-##### Artikel 2.32. bewaarplicht leverancier
+#### Artikel 2.32. bewaarplicht leverancier
 
 1. Een leverancier bewaart zijn administratie inzake overeenkomsten met eindafnemers, handelaren of transmissiesysteembeheerders en elektriciteitsderivaten met handelaren of transmissiesysteembeheerders gedurende een periode van vijf jaar en houdt deze gedurende die periode ter beschikking voor de Autoriteit Consument en Markt en de Europese Commissie.
 
@@ -973,7 +946,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 3. De Autoriteit Consument en Markt kan informatie uit de administratie van een leverancier ter beschikking te stellen aan een marktdeelnemer indien ten aanzien van de administratie van leveranciers van elektriciteit is voldaan aan artikel 64, derde lid, van [richtlijn 2019/944](32019L0944) en van leveranciers van gas is voldaan aan artikel 44, derde lid, van [richtlijn 2009/73](32009L0073).
 
-##### Artikel 2.33. uitzonderingen actieve afnemer
+#### Artikel 2.33. uitzonderingen actieve afnemer
 
 1. Op een actieve afnemer als bedoeld in [artikel 2.17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.17&z=2026-02-14&g=2026-02-14), is [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=2.8&z=2026-02-14&g=2026-02-14) en [artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.7&artikel=2.32&z=2026-02-14&g=2026-02-14) niet van toepassing.
 
@@ -981,7 +954,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 ### Afdeling 2.3. Terugleveren, faciliteren in peer-to-peer-handel en vraagrespons ten behoeve van actieve afnemers
 
-##### Artikel 2.34. aggregatieovereenkomsten
+#### Artikel 2.34. aggregatieovereenkomsten
 
 1. Een marktdeelnemer neemt elektriciteit af van een actieve afnemer op basis van een terugleveringsovereenkomst.
 
@@ -1005,7 +978,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 - c. informatie die een marktdeelnemer een actieve afnemer al dan niet periodiek en al dan niet kosteloos verstrekt en de wijze waarop deze wordt verstrekt.
 
-##### Artikel 2.35. factureren en informeren
+#### Artikel 2.35. factureren en informeren
 
 1. Een marktdeelnemer die met een actieve afnemer een aggregatieovereenkomst heeft gesloten, verstrekt die afnemer periodiek en kosteloos een factuur en informeert hem periodiek en kosteloos over de teruggeleverde elektriciteit of verandering van zijn verbruik.
 
@@ -1019,7 +992,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 - c. de frequentie van de facturering en informatieverstrekking.
 
-##### Artikel 2.36. klachtenprocedure
+#### Artikel 2.36. klachtenprocedure
 
 1. Een marktdeelnemer die aan aggregatie doet voorziet in een transparante, kosteloze en eenvoudige interne procedure voor de behandeling van klachten van zijn actieve afnemers.
 
@@ -1029,7 +1002,7 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 - b. de termijnen die gelden voor de klachtenprocedure.
 
-##### Artikel 2.37. toepasselijk recht
+#### Artikel 2.37. toepasselijk recht
 
 1. Het Nederlands recht is van toepassing op een aggregatieovereenkomst met een actieve afnemer die tevens huishoudelijk eindafnemer of micro-onderneming is.
 
@@ -1037,17 +1010,17 @@ Een leverancier die actief is op een primair allocatiepunt behorend bij een klei
 
 3. Een beding in een aggregatieovereenkomst dat strijdig is met het eerste of tweede lid, is nietig.
 
-##### Artikel 2.38. eindafrekening
+#### Artikel 2.38. eindafrekening
 
 Als een aggregatieovereenkomst eindigt, verstrekt de marktdeelnemer die partij was bij die overeenkomst, de actieve afnemer binnen een bij ministeriële regeling te bepalen termijn een eindafrekening.
 
-##### Artikel 2.39. opzegvergoeding
+#### Artikel 2.39. opzegvergoeding
 
 1. Een marktdeelnemer kan een actieve afnemer die tevens huishoudelijk eindafnemer of een micro-onderneming is, voor de opzegging van een aggregatieovereenkomst door die actieve afnemer, alleen een opzegvergoeding in rekening brengen, indien het een tussentijdse opzegging betreft van een aggregatieovereenkomst voor bepaalde duur en een vast overeengekomen prijs of vast overeengekomen kosten, en de opzegvergoeding in de aggregatieovereenkomst is opgenomen.
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de voorwaarden en de hoogte van de vergoeding.
 
-##### Artikel 2.40. overstappen
+#### Artikel 2.40. overstappen
 
 1. Als een actieve afnemer overstapt naar een andere marktdeelnemer aan wie hij teruglevert, die ten behoeve van hem faciliteert in peer-to-peer-handel, of die hem vraagresponsdiensten levert, zorgt de nieuwe marktdeelnemer ervoor dat de handelingen die noodzakelijk zijn voor deze overstap worden verricht.
 
@@ -1055,7 +1028,7 @@ Als een aggregatieovereenkomst eindigt, verstrekt de marktdeelnemer die partij w
 
 3. De nieuwe marktdeelnemer brengt voor een overstap van een actieve afnemer of groep actieve afnemers, die tevens huishoudelijk eindafnemer of een micro-onderneming is of zijn, buiten de eventueel op grond van [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.3&artikel=2.39&z=2026-02-14&g=2026-02-14) in rekening te brengen kosten, geen andere kosten in rekening.
 
-##### Artikel 2.41. vraagrespons en verrekening
+#### Artikel 2.41. vraagrespons en verrekening
 
 1. Een marktdeelnemer die op een allocatiepunt niet tevens de leverancier is, levert op dat allocatiepunt geen vraagresponsdiensten, tenzij met de balanceringsverantwoordelijke voor elektriciteit op dat allocatiepunt een overeenkomst op basis van het aanbod, bedoeld in het tweede lid is gesloten.
 
@@ -1075,13 +1048,13 @@ Als een aggregatieovereenkomst eindigt, verstrekt de marktdeelnemer die partij w
 
 ### Afdeling 2.4. Balanceren
 
-##### Artikel 2.42. balanceringsverantwoordelijke voor elektriciteit
+#### Artikel 2.42. balanceringsverantwoordelijke voor elektriciteit
 
 1. De marktdeelnemer die door een aangeslotene is gecontracteerd op een allocatiepunt, draagt er zorg voor dat er overeenkomstig artikel 5 van [verordening 2019/943](32843R2019) een balanceringsverantwoordelijke voor elektriciteit actief is op dat allocatiepunt.
 
 2. Een producent of actieve afnemer die niet via een marktdeelnemer elektriciteit verkoopt, of een eindafnemer die niet via een marktdeelnemer elektriciteit koopt, is er zelf verantwoordelijk voor dat er overeenkomstig artikel 5 van [verordening 2019/943](32843R2019) een balanceringsverantwoordelijke voor elektriciteit actief is op het betreffende allocatiepunt.
 
-##### Artikel 2.43. balanceringsverantwoordelijke voor gas
+#### Artikel 2.43. balanceringsverantwoordelijke voor gas
 
 1. Een aangeslotene met een grote aansluiting op een transmissie- of distributiesysteem voor gas, of een marktdeelnemer namens die aangeslotene, sluit met het oog op het afnemen of invoeden van gas een overeenkomst met een netgebruiker om transportcapaciteit te boeken op het transmissiesysteem voor gas.
 
@@ -1091,11 +1064,11 @@ Als een aggregatieovereenkomst eindigt, verstrekt de marktdeelnemer die partij w
 
 4. De netgebruiker, bedoeld in het eerste tot en met derde lid, is de balanceringsverantwoordelijke voor gas op het aan die aansluiting toegekende allocatiepunt, dan wel, indien van toepassing, voor het door hem gecontracteerde deel van het aan het gasopslagsysteem, LNG-systeem, interconnectorsysteem voor gas of gasproductienet toegekende allocatiepunt.
 
-##### Artikel 2.44. gasoverdracht
+#### Artikel 2.44. gasoverdracht
 
 Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een andere balanceringsportfolio dan vindt deze overdracht plaats op een virtueel handelspunt op dat systeem.
 
-##### Artikel 2.45. overstappen
+#### Artikel 2.45. overstappen
 
 1. Als een aangeslotene, marktdeelnemer of gebruiker als bedoeld in [artikel 2.43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.4&artikel=2.43&z=2026-02-14&g=2026-02-14), kiest voor een andere balanceringsverantwoordelijke, zorgt de nieuw gecontracteerde balanceringsverantwoordelijke ervoor dat de handelingen die noodzakelijk zijn voor deze overstap worden verricht.
 
@@ -1107,7 +1080,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 #### Paragraaf 2.5.1. Algemene bepalingen
 
-##### Artikel 2.46. beschikken over meetinrichting
+#### Artikel 2.46. beschikken over meetinrichting
 
 1. Een aangeslotene beschikt op of nabij ieder overdrachtspunt over een geïnstalleerde meetinrichting die voldoet aan de krachtens het derde lid gestelde eisen, tenzij:
 
@@ -1147,7 +1120,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 - i. naar hetgeen op grond van de [artikelen 2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.48&z=2026-02-14&g=2026-02-14), [2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.3&artikel=2.54&z=2026-02-14&g=2026-02-14), [2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.3&artikel=2.55&z=2026-02-14&g=2026-02-14), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.57&z=2026-02-14&g=2026-02-14), [3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.58&z=2026-02-14&g=2026-02-14), [3.59](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.59&z=2026-02-14&g=2026-02-14) en [3.60](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.60&z=2026-02-14&g=2026-02-14) gemeten moet worden.
 
-##### Artikel 2.47. meetactiviteiten
+#### Artikel 2.47. meetactiviteiten
 
 1. Een aangeslotene met een kleine aansluiting verleent de distributiesysteembeheerder de nodige medewerking aan de uitvoering van de taken, genoemd in de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.51&z=2026-02-14&g=2026-02-14) en [3.53, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.53&z=2026-02-14&g=2026-02-14).
 
@@ -1159,7 +1132,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 #### Paragraaf 2.5.2. Verplichtingen meetverantwoordelijke partijen
 
-##### Artikel 2.48. meetverplichtingen
+#### Artikel 2.48. meetverplichtingen
 
 1. Een meetverantwoordelijke partij:
 
@@ -1189,13 +1162,13 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 3. Een meetverantwoordelijke partij kan met een aangeslotene overeenkomen dat de aangeslotene de meetgegevens ten aanzien van de kwaliteit van het door hem ingevoede gas zelf verzamelt, valideert en vaststelt. In dat geval geeft de aangeslotene de meetgegevens overeenkomstig het eerste lid, onderdeel c, door.
 
-##### Artikel 2.49. controlesystematiek meetinrichtingen
+#### Artikel 2.49. controlesystematiek meetinrichtingen
 
 1. Een meetverantwoordelijke partij past een door Onze Minister goedgekeurd protocol voor een periodieke controle van meetinrichtingen toe op de bij of krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), en de bij of krachtens [artikel 5 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) gestelde eisen.
 
 2. Bij ministeriële regeling kunnen eisen worden gesteld aan het protocol.
 
-##### Artikel 2.50. erkenning meetverantwoordelijke partij
+#### Artikel 2.50. erkenning meetverantwoordelijke partij
 
 1. Het is verboden zonder een erkenning als bedoeld in het vierde lid, bij aangeslotenen als bedoeld in [artikel 2.47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.47&z=2026-02-14&g=2026-02-14), meetinrichtingen te installeren en te beheren en daar te meten.
 
@@ -1219,7 +1192,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 - c. de informatie die een meetverantwoordelijke partij na het verlenen van de erkenning al dan niet periodiek moet verstrekken.
 
-##### Artikel 2.51. wijzigen en intrekken erkenning
+#### Artikel 2.51. wijzigen en intrekken erkenning
 
 1. De Autoriteit Consument en Markt kan een erkenning als bedoeld in [artikel 2.50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.50&z=2026-02-14&g=2026-02-14), wijzigen of intrekken indien:
 
@@ -1235,13 +1208,13 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de tijdelijke voorzieningen en de procedure bij intrekking van de erkenning.
 
-##### Artikel 2.52. rapportageverplichting
+#### Artikel 2.52. rapportageverplichting
 
 1. Een meetverantwoordelijke partij rapporteert aan de Autoriteit Consument en Markt over de uitvoering van het bepaalde bij of krachtens [artikel 2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.48&z=2026-02-14&g=2026-02-14).
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de frequentie waarmee gerapporteerd wordt en de eisen waaraan een rapportage moet voldoen.
 
-##### Artikel 2.53. overdragen erkenning
+#### Artikel 2.53. overdragen erkenning
 
 1. Een erkenning als bedoeld in [artikel 2.50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.50&z=2026-02-14&g=2026-02-14), kan slechts worden overgedragen met toestemming van de Autoriteit Consument en Markt.
 
@@ -1249,7 +1222,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 #### Paragraaf 2.5.3. Verplichtingen voor anderen dan meetverantwoordelijke partijen
 
-##### Artikel 2.54. verplichtingen leverancier
+#### Artikel 2.54. verplichtingen leverancier
 
 1. Een leverancier die actief is op een primair allocatiepunt van een aangeslotene met een kleine aansluiting die beschikt over een meetinrichting zonder communicatiefunctionaliteit of een meetinrichting waarvan de communicatiefunctionaliteit administratief is uitgeschakeld:
 
@@ -1269,7 +1242,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 - d. de methoden voor het herleiden en berekenen ten behoeve van het valideren en vaststellen van meetgegevens.
 
-##### Artikel 2.55. verplichtingen aangeslotenen die zelf meten
+#### Artikel 2.55. verplichtingen aangeslotenen die zelf meten
 
 1. Een aangeslotene met een grote aansluiting op het transmissiesysteem voor gas die uitsluitend gas invoedt of die een gasopslagbeheerder is:
 
@@ -1295,7 +1268,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 - g. de methoden voor het herleiden en berekenen ten behoeve van het valideren en vaststellen van meetgegevens.
 
-##### Artikel 2.56. erkenning meetverantwoordelijkheid kleine aansluitingen buiten overdrachtspunten
+#### Artikel 2.56. erkenning meetverantwoordelijkheid kleine aansluitingen buiten overdrachtspunten
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat het voor een partij, uitgezonderd de distributiesysteembeheerder of meetverantwoordelijke partij, in bij die maatregel te bepalen situaties en op daarbij te bepalen plaatsen, verboden is zonder erkenning van de Autoriteit Consument en Markt meetinrichtingen als bedoeld in [artikel 2.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), te installeren en te beheren en daar te meten.
 
@@ -1305,7 +1278,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 #### Paragraaf 2.6.1. Garanties van oorsprong
 
-##### Artikel 2.57. bewijs garantie van oorsprong
+#### Artikel 2.57. bewijs garantie van oorsprong
 
 1. Een garantie van oorsprong voor elektriciteit uit hernieuwbare bronnen toont bij uitsluiting aan dat een producent de daarop aangegeven hoeveelheid elektriciteit heeft geproduceerd uit hernieuwbare bronnen of met energie uit hernieuwbare bronnen.
 
@@ -1315,7 +1288,7 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 4. Een garantie van oorsprong voor elektriciteit uit niet-hernieuwbare bronnen toont bij uitsluiting aan dat een producent de daarop aangegeven hoeveelheid elektriciteit heeft geproduceerd uit een andere energiebron dan hernieuwbare bronnen.
 
-##### Artikel 2.58. taken Minister en mandateren taken
+#### Artikel 2.58. taken Minister en mandateren taken
 
 1. Onze Minister is belast met het uitgeven, overdragen en innemen via een elektronisch systeem van garanties van oorsprong als bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.57&z=2026-02-14&g=2026-02-14).
 
@@ -1337,17 +1310,17 @@ Als gas binnen het transmissiesysteem voor gas wordt overgedragen naar een ander
 
 5. Onze Minister kan de taken, bedoeld in het eerst tot en met derde lid, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, handelaren, marktdeelnemers die aggregeren en handelaren in garanties van oorsprong.
 
-##### Artikel 2.59. afboeken garanties van oorsprong
+#### Artikel 2.59. afboeken garanties van oorsprong
 
 Een leverancier zorgt ervoor dat als bewijs van levering van elektriciteit, of gas uit hernieuwbare bronnen, aan een in Nederland gevestigde eindafnemer binnen één maand na de levering een corresponderende hoeveelheid garanties van oorsprong als bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.57&z=2026-02-14&g=2026-02-14) van een Nederlandse rekening voor garanties van oorsprong wordt afgeboekt.
 
-##### Artikel 2.60. garanties van oorsprong binnen Europese Unie
+#### Artikel 2.60. garanties van oorsprong binnen Europese Unie
 
 1. Garanties van oorsprong uitgegeven door een onafhankelijke instantie in een andere lidstaat van de Europese Unie, die naar aard en strekking overeenkomen met in Nederland uitgegeven garanties van oorsprong als bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.57&z=2026-02-14&g=2026-02-14) worden daarmee gelijkgesteld.
 
 2. Garanties van oorsprong uitgegeven door een onafhankelijke instantie in een derde land worden niet erkend, behalve indien de Europese Unie daarvoor een overeenkomst heeft afgesloten met het derde land en de energie rechtstreeks uit dat land wordt ingevoerd of uitgevoerd.
 
-##### Artikel 2.61. delegatiegrondslag garanties van oorsprong
+#### Artikel 2.61. delegatiegrondslag garanties van oorsprong
 
 1. Bij ministeriële regeling worden tarieven vastgesteld ter dekking van de kosten die worden gemaakt met betrekking tot de activiteiten, bedoeld in [artikel 2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.58&z=2026-02-14&g=2026-02-14).
 
@@ -1371,7 +1344,7 @@ Een leverancier zorgt ervoor dat als bewijs van levering van elektriciteit, of g
 
 #### Paragraaf 2.6.2. Beperken gebruik laagcalorisch gas
 
-##### Artikel 2.62. maximaal verbruik laagcalorisch gas
+#### Artikel 2.62. maximaal verbruik laagcalorisch gas
 
 1. Het is een aangeslotene op het transmissie- of distributiesysteem van gas met ingang van 1 oktober 2022 verboden via een aansluiting die is verbonden met dat deel van het transmissie- of distributiesysteem voor gas waarmee laagcalorisch gas wordt getransporteerd in een gasjaar meer dan 100 miljoen m3(n) gas aan dat transmissie- of distributiesysteem te onttrekken.
 
@@ -1381,7 +1354,7 @@ Een leverancier zorgt ervoor dat als bewijs van levering van elektriciteit, of g
 
 4. Het eerste en tweede lid zijn niet van toepassing op een aangeslotene, zijnde een gasopslagbeheerder.
 
-##### Artikel 2.63. verbod onttrekken laagcalorisch gas grootste eindafnemers
+#### Artikel 2.63. verbod onttrekken laagcalorisch gas grootste eindafnemers
 
 1. Het is een aangeslotene op het transmissie- of distributiesysteem van gas die in de gasjaren 2016/2017, 2017/2018 en 2018/2019 in ten minste twee van die gasjaren meer dan 100 miljoen m3 (n) gas via diens aansluiting heeft onttrokken en die verbonden is met dat deel van het transmissie- of distributiesysteem voor gas waarmee laagcalorisch gas wordt getransporteerd, met ingang van 1 oktober 2022 verboden via die aansluiting gas aan dat deel van het transmissie- of distributiesysteem te onttrekken.
 
@@ -1389,13 +1362,13 @@ Een leverancier zorgt ervoor dat als bewijs van levering van elektriciteit, of g
 
 3. Het eerste en tweede lid zijn niet van toepassing op een aangeslotene, zijnde een gasopslagbeheerder.
 
-##### Artikel 2.64. planning afsluiten
+#### Artikel 2.64. planning afsluiten
 
 1. De aangeslotene die ingevolge [artikel 2.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.63&z=2026-02-14&g=2026-02-14), de transmissiesysteembeheerder voor gas heeft gemeld dat diens aansluiting buiten werking gesteld dient te worden, informeert de transmissiesysteembeheerder en Onze Minister over de planning van de buitenwerkingstelling, voorzien van een onderbouwing van de benodigde tijd voor de onderscheiden activiteiten die naar zijn oordeel noodzakelijk zijn om afgesloten te kunnen worden van het transmissie- of distributiesysteem voor gas en, voor zover aan de orde, over te kunnen stappen naar een alternatieve energiebron.
 
 2. Indien de planning naar het oordeel van de aangeslotene als gevolg van gewijzigde omstandigheden aanpassing behoeft, informeert de eindafnemer de transmissiesysteembeheerder voor gas en Onze Minister zo spoedig mogelijk over de aangepaste planning. De aangepaste planning wordt voorzien van een onderbouwing van elke afwijking ten opzichte van de eerder ingediende planning.
 
-##### Artikel 2.65. ontheffing verbodsbepalingen laagcalorisch gas
+#### Artikel 2.65. ontheffing verbodsbepalingen laagcalorisch gas
 
 1. Onze Minister kan een aangeslotene op diens verzoek ontheffing verlenen van het verbod, bedoeld in [artikel 2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.63&z=2026-02-14&g=2026-02-14), gedurende een in de ontheffing te bepalen periode, voor zover verlenging noodzakelijk is vanwege omstandigheden die niet zijn toe te rekenen aan de aangeslotene of redelijkerwijs niet door hem hadden kunnen worden voorzien of voorkomen.
 
@@ -1421,13 +1394,13 @@ Een leverancier zorgt ervoor dat als bewijs van levering van elektriciteit, of g
 
 #### Paragraaf 2.6.3. Overige bepalingen
 
-##### Artikel 2.66. strafbaarstelling [verordening 1227/2011](32011R1227)
+#### Artikel 2.66. strafbaarstelling [verordening 1227/2011](32011R1227)
 
 1. Het is verboden te handelen in strijd met de artikelen 3, 4 en 5 van [verordening 1227/2011](32011R1227).
 
 2. Overtreding van het eerste lid is een misdrijf.
 
-##### Artikel 2.67. monopolie wettelijke taken en uitzonderingen
+#### Artikel 2.67. monopolie wettelijke taken en uitzonderingen
 
 Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder, verboden wettelijke taken of verplichtingen uit te voeren, met uitzondering van:
 
@@ -1437,7 +1410,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 - c. werkzaamheden die verband houden met tijdelijke taken.
 
-##### Artikel 2.68. vergelijkingsinstrument
+#### Artikel 2.68. vergelijkingsinstrument
 
 1. Een huishoudelijk eindafnemer en een micro-onderneming hebben recht op kosteloze toegang tot ten minste één onafhankelijk vergelijkingsinstrument dat de gehele energiemarkt bestrijkt of meerdere vergelijkingsinstrumenten die in voldoende mate de markt bestrijken, waarmee ze het aanbod van leveranciers, met uitzondering van het aanbod om ten behoeve van eindafnemers te faciliteren in peer-to-peer-handel, kunnen vergelijken.
 
@@ -1465,7 +1438,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 ### Afdeling 3.1. Aanwijzen, certificeren en erkennen van systeembeheerders
 
-##### Artikel 3.1. verplichtingen eigenaar systeem
+#### Artikel 3.1. verplichtingen eigenaar systeem
 
 1. Een onderneming die eigenaar is van of die alle aandelen heeft in de rechtspersoon die eigenaar is van een transmissiesysteem, distributiesysteem of interconnectorsysteem draagt er zorg voor:
 
@@ -1477,7 +1450,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 3. Een onderneming die eigenaar is van een systeem waarvoor geen beheerder is aangewezen, handelt als beheerder van zijn systeem. De wettelijke taken en verplichtingen zijn van overeenkomstige toepassing.
 
-##### Artikel 3.2. aanwijzing systeembeheerder
+#### Artikel 3.2. aanwijzing systeembeheerder
 
 1. Onze Minister kan op aanvraag een rechtspersoon die eigenaar is van of die alle aandelen heeft in de rechtspersoon die eigenaar is van een:
 
@@ -1501,7 +1474,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 2. In afwijking van het eerste lid kan Onze Minister bij overdracht van de eigendom van een systeem indien de aanwijzing vervalt, op aanvraag van de rechtspersoon die eigenaar wordt van of die alle aandelen krijgt in de rechtspersoon die eigenaar wordt van dat systeem, die rechtspersoon aanwijzen als beheerder van het betreffende systeem. De aanwijzing treedt in werking op de dag waarop overdracht van de eigendom van het systeem plaatsvindt.
 
-##### Artikel 3.3. toetsingskader aanwijzing Minister
+#### Artikel 3.3. toetsingskader aanwijzing Minister
 
 1. Onze Minister wijst een aanvraag van een rechtspersoon als bedoeld in [artikel 3.2, eerste lid, de onderdelen a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), af als die rechtspersoon niet krachtens [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.4&z=2026-02-14&g=2026-02-14) is gecertificeerd.
 
@@ -1529,7 +1502,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 7. Als Onze Minister krachtens het tweede tot en met zesde lid, voorschriften verbindt aan de aanwijzing, strekken deze ertoe geconstateerde tekortkomingen, bedoeld in die leden, zo veel mogelijk weg te nemen.
 
-##### Artikel 3.4. certificering systeembeheerder
+#### Artikel 3.4. certificering systeembeheerder
 
 1. De Autoriteit Consument en Markt certificeert op aanvraag een rechtspersoon die eigenaar is van of die alle aandelen heeft in de rechtspersoon die eigenaar is van een transmissie- of distributiesysteem of interconnectorsysteem indien ten aanzien van die rechtspersoon is voldaan aan de eisen gesteld bij of krachtens [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.10&z=2026-02-14&g=2026-02-14) respectievelijk [artikel 3.90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.90&z=2026-02-14&g=2026-02-14), ten aanzien van de van overeenkomstige toepassing verklaring van artikel 3.10.
 
@@ -1543,7 +1516,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 4. Een systeembeheerder stelt de Autoriteit Consument en Markt in kennis van elke voorgenomen transactie die relevant is voor de beoordeling of nog wordt voldaan aan de eisen gesteld bij of krachtens [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.10&z=2026-02-14&g=2026-02-14) of [artikel 3.90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.90&z=2026-02-14&g=2026-02-14), ten aanzien van de van overeenkomstige toepassing verklaring van artikel 3.10.
 
-##### Artikel 3.5. intrekken certificering
+#### Artikel 3.5. intrekken certificering
 
 1. De Autoriteit Consument en Markt kan een certificering als bedoeld in [artikel 3.4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.4&z=2026-02-14&g=2026-02-14), intrekken als niet langer aan de eisen, gesteld bij of krachtens [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.10&z=2026-02-14&g=2026-02-14) of [artikel 3.90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.90&z=2026-02-14&g=2026-02-14), ten aanzien van de van overeenkomstige toepassing verklaring van artikel 3.10 wordt voldaan.
 
@@ -1555,7 +1528,7 @@ Het is een natuurlijk persoon of rechtspersoon, niet zijnde een systeembeheerder
 
 - c. op verzoek van de Europese Commissie.
 
-##### Artikel 3.6. aanwijzing beheerder gesloten systeem
+#### Artikel 3.6. aanwijzing beheerder gesloten systeem
 
 De Autoriteit Consument en Markt wijst op aanvraag:
 
@@ -1563,7 +1536,7 @@ De Autoriteit Consument en Markt wijst op aanvraag:
 
 - b. van de eigenaar van een distributiesysteem voor gas dat krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-02-14&g=2026-02-14) is erkend als gesloten systeem een door de eigenaar voorgedragen beheerder aan.
 
-##### Artikel 3.7. erkenning gesloten systeem
+#### Artikel 3.7. erkenning gesloten systeem
 
 1. De Autoriteit Consument en Markt erkent op aanvraag van de eigenaar van een transmissie- of distributiesysteem voor elektriciteit, of een distributiesysteem voor gas dat systeem als een gesloten systeem indien:
 
@@ -1585,7 +1558,7 @@ De Autoriteit Consument en Markt wijst op aanvraag:
 
 2. De Autoriteit Consument en Markt erkent op aanvraag een systeem dat zal worden aangelegd als een gesloten systeem, indien aan de aanvrager voor de aanleg van dat systeem de daarvoor benodigde vergunningen, ontheffingen en toestemmingen zijn verstrekt en is voldaan aan het eerste lid.
 
-##### Artikel 3.8. vervallen, intrekken en delegatiegrondslag aanwijzing, certificering of erkenning
+#### Artikel 3.8. vervallen, intrekken en delegatiegrondslag aanwijzing, certificering of erkenning
 
 1. In geval van fusie, splitsing, ontbinding of faillissement van de rechtspersoon die als transmissie- of distributiesysteembeheerder of interconnectorsysteembeheerder is aangewezen, vervalt de aanwijzing als systeembeheerder van rechtswege.
 
@@ -1609,7 +1582,7 @@ De Autoriteit Consument en Markt wijst op aanvraag:
 
 - e. de informatie die bij een certificeringsonderzoek, bedoeld in het tweede lid, moet worden verstrekt en de procedure die bij dat onderzoek wordt gevolgd.
 
-##### Artikel 3.9. melding directe lijn
+#### Artikel 3.9. melding directe lijn
 
 1. Als directe lijn wordt aangemerkt één of meer leidingen en daarmee verbonden hulpmiddelen ten behoeve van het transport van elektriciteit of gas:
 
@@ -1629,7 +1602,7 @@ De Autoriteit Consument en Markt wijst op aanvraag:
 
 #### Paragraaf 3.2.1. Inrichtingseisen en voorwaarden voor transmissiesysteembeheerders en distributiesysteembeheerders
 
-##### Artikel 3.10. groepsverbod
+#### Artikel 3.10. groepsverbod
 
 1. Een transmissie- of distributiesysteembeheerder maakt geen deel uit van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waartoe ook een rechtspersoon of vennootschap behoort die elektriciteit, gas of waterstofgas produceert, levert of daarin handelt; onverminderd [artikel 3.19, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-14&g=2026-02-14).
 
@@ -1665,7 +1638,7 @@ Dit verbod is niet van toepassing op een verbonden groepsmaatschappij die aandel
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter implementatie van artikel 43 van [richtlijn 2019/944](32019L0944) en artikel 9 van [richtlijn 2009/73](32009L0073).
 
-##### Artikel 3.11. statuten transmissiesysteembeheerder
+#### Artikel 3.11. statuten transmissiesysteembeheerder
 
 1. De [artikelen 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=155a), [158 tot en met 161a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=158) en [164](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=164) dan wel [265a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=265), [268 tot en met 271a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=268) en [274 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=274) zijn van toepassing op een transmissiesysteembeheerder en haar statuten worden dienovereenkomstig ingericht.
 
@@ -1677,7 +1650,7 @@ Dit verbod is niet van toepassing op een verbonden groepsmaatschappij die aandel
 
 - b. beschikt de raad van commissarissen van de rechtspersoon waarvan de transmissiesysteembeheerder een afhankelijke maatschappij is over de bevoegdheden tot goedkeuring van de besluiten van het bestuur van de transmissiesysteembeheerder, bedoeld in [artikel 164, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=164), of [artikel 274, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=274).
 
-##### Artikel 3.12. statuten distributiesysteembeheerder
+#### Artikel 3.12. statuten distributiesysteembeheerder
 
 1. De statuten van een distributiesysteembeheerder bevatten in elk geval:
 
@@ -1697,11 +1670,11 @@ Dit verbod is niet van toepassing op een verbonden groepsmaatschappij die aandel
 
 - b. beschikt de raad van commissarissen van de distributiesysteembeheerder, bedoeld in onderdeel a, waarvan de distributiesysteembeheerder een afhankelijke maatschappij is over de bevoegdheden, bedoeld in het eerste lid, onderdeel c, ten aanzien van het bestuur van de distributiesysteembeheerder.
 
-##### Artikel 3.13. verbod beschikbaar stellen systeem voor financiële middelen
+#### Artikel 3.13. verbod beschikbaar stellen systeem voor financiële middelen
 
 Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde systeem of een deel daarvan niet beschikbaar als zekerheid voor het aantrekken van financiële middelen anders dan voor hemzelf.
 
-##### Artikel 3.14. privatiseringsverbod
+#### Artikel 3.14. privatiseringsverbod
 
 1. De aandelen in een transmissiesysteembeheerder berusten direct of indirect bij de Staat der Nederlanden.
 
@@ -1717,7 +1690,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 7. Het vierde en vijfde lid zijn niet van toepassing indien voor een transmissie- of distributiesysteem een beheerder van een gesloten systeem is aangewezen.
 
-##### Artikel 3.15. kruisparticipaties
+#### Artikel 3.15. kruisparticipaties
 
 1. In afwijking van [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.14&z=2026-02-14&g=2026-02-14), kunnen aandelen in een transmissiesysteembeheerder direct of indirect berusten bij een buitenlandse instelling die op grond van nationale wettelijke regels is belast met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 35, van [richtlijn 2019/944](32019L0944), of in artikel 2, onderdeel 4, van [richtlijn 2009/73](32009L0073) of bij de middellijk of onmiddellijk aandeelhouder van die buitenlandse instelling, indien:
 
@@ -1733,13 +1706,13 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 3. Onze Minister van Financiën treedt niet eerder in onderhandeling dan dertig dagen nadat hij schriftelijk mededeling heeft gedaan aan de Staten-Generaal van het voornemen, bedoeld in het tweede lid.
 
-##### Artikel 3.16. nalevingsprogramma gemeenschappelijke onderneming
+#### Artikel 3.16. nalevingsprogramma gemeenschappelijke onderneming
 
 1. Indien een transmissiesysteembeheerder voor gas deelneemt aan een gemeenschappelijke onderneming waaraan ook een verticaal geïntegreerde buitenlandse transmissiesysteembeheerder deelneemt, draagt de transmissiesysteembeheerder voor gas er zorg voor dat de gemeenschappelijke onderneming een nalevingsprogramma, met maatregelen die waarborgen dat discriminerend en concurrentieverstorend gedrag uitgesloten is, opstelt en implementeert in de gemeenschappelijke onderneming.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de inhoud van het nalevingsprogramma en de procedure van de totstandkoming van het nalevingsprogramma.
 
-##### Artikel 3.17. uitvoering en uitbesteding werkzaamheden
+#### Artikel 3.17. uitvoering en uitbesteding werkzaamheden
 
 1. Een transmissie- of distributiesysteembeheerder verricht geen andere werkzaamheden dan die noodzakelijk zijn voor een goede uitvoering van zijn wettelijke taken of verplichtingen of van taken die Onze Minister aan hem heeft gemandateerd.
 
@@ -1751,7 +1724,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 3. Ingeval van uitbesteding van werkzaamheden behoudt de transmissie- of distributiesysteembeheerder de verantwoordelijkheid voor de onafhankelijke, volledige en juiste uitvoering van deze werkzaamheden.
 
-##### Artikel 3.18. bescherming vitale processen systeembeheerders
+#### Artikel 3.18. bescherming vitale processen systeembeheerders
 
 1. Bij of krachtens algemene maatregel van bestuur:
 
@@ -1767,7 +1740,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 #### Paragraaf 3.2.2. Voorwaarden en samenwerking infrastructuurgroep
 
-##### Artikel 3.19. handelingen en activiteiten infrastructuurgroep of infrastructuurbedrijf
+#### Artikel 3.19. handelingen en activiteiten infrastructuurgroep of infrastructuurbedrijf
 
 1. Een infrastructuurgroep verricht in hoofdzaak handelingen of activiteiten ter uitvoering van de taken of verplichtingen die zijn opgedragen aan de transmissie- of distributiesysteembeheerder die deel uitmaakt van die groep.
 
@@ -1833,13 +1806,13 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de procedure voor de melding, bedoeld in het zesde lid, of de informatie die daarbij moet worden verstrekt.
 
-##### Artikel 3.20. delegatiegrondslag andere handelingen of activiteiten infrastructuurbedrijf
+#### Artikel 3.20. delegatiegrondslag andere handelingen of activiteiten infrastructuurbedrijf
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen andere aan energie-infrastructuur gerelateerde handelingen of activiteiten worden toegestaan die een infrastructuurbedrijf voor een bij of krachtens deze maatregel vast te stellen periode van maximaal tien jaar kan verrichten, indien deze handelingen of activiteiten niet zijn gelegen op het gebied van productie, levering of handel van energiedragers.
 
 2. Indien handelingen of activiteiten op grond van het eerste lid worden aangewezen, worden bij of krachtens algemene maatregel van bestuur regels gesteld over de voortzetting of beëindiging van die handelingen of activiteiten.
 
-##### Artikel 3.21. aandelen infrastructuurbedrijf
+#### Artikel 3.21. aandelen infrastructuurbedrijf
 
 1. Een infrastructuurbedrijf houdt, buiten de aandelen in een transmissie- of distributiesysteembeheerder, geen aandelen in een rechtspersoon die in Nederland andere activiteiten verricht dan de handelingen of activiteiten die op grond van [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-14&g=2026-02-14) of krachtens [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.20&z=2026-02-14&g=2026-02-14) zijn toegestaan.
 
@@ -1859,7 +1832,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het derde lid.
 
-##### Artikel 3.22. bevoordeling eigen infrastructuurbedrijven
+#### Artikel 3.22. bevoordeling eigen infrastructuurbedrijven
 
 1. Een transmissie- of distributiesysteembeheerder bevoordeelt niet de infrastructuurbedrijven waarmee hij een infrastructuurgroep vormt boven andere ondernemingen en kent die bedrijven ook anderszins geen voordelen toe die verder gaan dan in het normale handelsverkeer gebruikelijk is.
 
@@ -1869,7 +1842,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 #### Paragraaf 3.3.1. Taken algemeen
 
-##### Artikel 3.23. algemene bepaling transmissie- en distributiesysteembeheerder in verhouding tot Europees recht
+#### Artikel 3.23. algemene bepaling transmissie- en distributiesysteembeheerder in verhouding tot Europees recht
 
 1. De transmissiesysteembeheerder voor elektriciteit die krachtens [artikel 3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), is aangewezen, is uit dien hoofde belast met de taken en verplichtingen die bij of krachtens [verordening 2019/943](32843R2019), of andere bindende EU-rechtshandelingen op het gebied van elektriciteit aan transmissiesysteembeheerders voor elektriciteit zijn opgedragen.
 
@@ -1883,7 +1856,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 6. Bij ministeriële regeling kunnen ter uitvoering van bindende EU-rechtshandelingen op het gebied van elektriciteit of gas, taken of verplichtingen aan een transmissie- of distributiesysteembeheerder worden opgedragen.
 
-##### Artikel 3.24. handelen en samenwerken transmissie- of distributiesysteembeheerder
+#### Artikel 3.24. handelen en samenwerken transmissie- of distributiesysteembeheerder
 
 1. Een transmissie- of distributiesysteembeheerder handelt bij de uitoefening van zijn wettelijke taken of verplichtingen redelijk, transparant en niet discriminerend.
 
@@ -1897,7 +1870,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 #### Paragraaf 3.3.2. Taken inzake beheren, onderhouden en ontwikkelen
 
-##### Artikel 3.25. beheren, onderhouden en ontwikkelen
+#### Artikel 3.25. beheren, onderhouden en ontwikkelen
 
 1. Een transmissie- of distributiesysteembeheerder waarborgt dat zijn systeem op de korte en lange termijn kan voldoen aan een redelijke vraag naar transport van elektriciteit of gas en beheert, onderhoudt en ontwikkelt het systeem, onder economische voorwaarden, op zodanige wijze dat de veiligheid, betrouwbaarheid en doelmatigheid van dat systeem is gewaarborgd, en met inachtneming van de belangen van het milieu, digitalisering, energie-efficiëntie, de transitie naar een duurzaam energiesysteem en de werking van de Europese interne markt.
 
@@ -1907,7 +1880,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de invulling van de taak, bedoeld in het eerste tot en met derde lid, en de wijze waarop uitvoering wordt gegeven aan het eerste tot en met derde lid.
 
-##### Artikel 3.26. enkelvoudige storingsreserve transmissiesysteem elektriciteit
+#### Artikel 3.26. enkelvoudige storingsreserve transmissiesysteem elektriciteit
 
 1. De transmissiesysteembeheerder voor elektriciteit ontwerpt het transmissiesysteem voor elektriciteit zodanig en houdt het zodanig in werking dat het transport van elektriciteit ook verzekerd is als zich een uitvalsituatie voordoet, in vol bedrijf, en ten tijde van onderhoud, tenzij:
 
@@ -1919,7 +1892,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de verlening, wijziging en intrekking van een ontheffing als bedoeld in het eerste lid, onderdeel c.
 
-##### Artikel 3.27. verplaatsen en verkabelen delen elektriciteitssysteem
+#### Artikel 3.27. verplaatsen en verkabelen delen elektriciteitssysteem
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit verplaatst op verzoek van een college van burgemeester en wethouders of van gedeputeerde staten bovengrondse delen van systemen die bestemd zijn voor transport van elektriciteit op een spanningsniveau van 50 kilovolt of hoger of vervangt deze door ondergrondse delen indien deze door Onze Minister zijn aangewezen.
 
@@ -1943,7 +1916,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 - f. de procedure voor de aanvraag van een ontheffing als bedoeld in het vierde lid.
 
-##### Artikel 3.28. inkopen niet-frequentiegerelateerde ondersteunende diensten elektriciteit
+#### Artikel 3.28. inkopen niet-frequentiegerelateerde ondersteunende diensten elektriciteit
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit koopt niet-frequentiegerelateerde ondersteunende diensten in en doet dit volgens transparante, niet-discriminerende en marktgebaseerde procedures die deelname van alle in aanmerking komende marktdeelnemers faciliteren.
 
@@ -1953,7 +1926,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 4. De Autoriteit Consument en Markt kan voorschriften en beperkingen verbinden aan een ontheffing.
 
-##### Artikel 3.29. inkopen congestiebeheers- of systeembeheersdiensten elektriciteit
+#### Artikel 3.29. inkopen congestiebeheers- of systeembeheersdiensten elektriciteit
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit koopt congestiebeheers- of systeembeheersdiensten, niet zijnde redispatching als bedoeld in artikel 2, onderdeel 26, van [verordening 2019/943](32843R2019), aan volgens transparante, niet-discriminerende en marktgebaseerde procedures die deelname van alle in aanmerking komende marktdeelnemers faciliteren.
 
@@ -1963,7 +1936,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 4. Met het oog op de uitvoering van het eerste lid, worden in de methoden of voorwaarden, bedoeld in [artikel 3.119](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), ten minste opgenomen de specificaties voor het inkopen van congestiebeheers- of systeembeheersdiensten en, indien van toepassing, gestandaardiseerde marktproducten voor deze diensten.
 
-##### Artikel 3.30. minimaliseren systeemverliezen
+#### Artikel 3.30. minimaliseren systeemverliezen
 
 1. Een transmissie- of distributiesysteembeheerder treft doelmatige maatregelen om systeemverliezen te minimaliseren.
 
@@ -1971,7 +1944,7 @@ Een transmissie- of distributiesysteembeheerder stelt het door hem beheerde syst
 
 3. Een transmissie- of distributiesysteembeheerder is verantwoordelijk voor de onbalans die het gevolg is van systeemverliezen binnen zijn systeem.
 
-##### Artikel 3.31. elektriciteitsopslagfaciliteit
+#### Artikel 3.31. elektriciteitsopslagfaciliteit
 
 Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwikkelt, beheert of exploiteert geen elektriciteitsopslagfaciliteit, tenzij:
 
@@ -1979,7 +1952,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - b. de Autoriteit Consument en Markt op verzoek van een transmissie- of distributiesysteembeheerder krachtens [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.33&z=2026-02-14&g=2026-02-14) ten aanzien van een specifieke elektriciteitsopslagfaciliteit een ontheffing heeft verleend.
 
-##### Artikel 3.32. elektriciteitsopslagfaciliteit als volledig geïntegreerde netwerkcomponent
+#### Artikel 3.32. elektriciteitsopslagfaciliteit als volledig geïntegreerde netwerkcomponent
 
 1. De Autoriteit Consument en Markt erkent op aanvraag van een transmissie- of distributiesysteembeheerder voor elektriciteit een elektriciteitsopslagfaciliteit als volledig geïntegreerde netwerkcomponent als het voldoet aan de volgende voorwaarden:
 
@@ -1989,7 +1962,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de aanvraag en de informatie die daarbij moet worden verstrekt.
 
-##### Artikel 3.33. ontheffing elektriciteitsopslagfaciliteit
+#### Artikel 3.33. ontheffing elektriciteitsopslagfaciliteit
 
 1. De Autoriteit Consument en Markt kan op verzoek van een transmissie- of distributiesysteembeheerder voor elektriciteit ten aanzien van een specifieke elektriciteitsopslagfaciliteit een ontheffing verlenen als is voldaan aan de volgende voorwaarden:
 
@@ -2013,7 +1986,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 3. In een besluit tot intrekking van een ontheffing als bedoeld in het tweede lid, onderdeel c, wordt aan de transmissie- of distributiesysteembeheerder een termijn van ten hoogste achttien maanden gesteld om het gebruik van de elektriciteitsopslagfaciliteit te beëindigen, tenzij deze krachtens [artikel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.32&z=2026-02-14&g=2026-02-14) is erkend als volledig geïntegreerde netwerkcomponent.
 
-##### Artikel 3.34. investeringsplan
+#### Artikel 3.34. investeringsplan
 
 1. Een transmissie- of distributiesysteembeheerder stelt periodiek een investeringsplan op.
 
@@ -2037,7 +2010,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - e. die nodig zijn om de aanbiedingen te doen als bedoeld in [artikel 3.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.38&z=2026-02-14&g=2026-02-14), [3.40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.40&z=2026-02-14&g=2026-02-14), [artikel 3.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.4&artikel=3.46&z=2026-02-14&g=2026-02-14), en [3.47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.4&artikel=3.47&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 3.35. onderzoek en toets investeringsplan
+#### Artikel 3.35. onderzoek en toets investeringsplan
 
 1. Een transmissie- of distributiesysteembeheerder legt een ontwerpinvesteringsplan voor aan eenieder ter consultatie en aan Onze Minister ten behoeve van het onderzoek bedoeld in het tweede lid.
 
@@ -2057,7 +2030,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 6. Een transmissie- of distributiesysteembeheerder voert de in het investeringsplan opgenomen investeringen en de inkoop van congestiebeheers- of systeembeheersdiensten uit conform het investeringsplan.
 
-##### Artikel 3.36. nadere regels investeringsplan
+#### Artikel 3.36. nadere regels investeringsplan
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 
@@ -2085,13 +2058,13 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 #### Paragraaf 3.3.3. Taken inzake aansluiten
 
-##### Artikel 3.37. gebiedsindeling transmissie- en distributiesysteembeheerders
+#### Artikel 3.37. gebiedsindeling transmissie- en distributiesysteembeheerders
 
 1. De Autoriteit Consument en Markt stelt, met inachtneming van een voorstel van de transmissie- en distributiesysteembeheerders voor elektriciteit respectievelijk gas, voor ieder van deze systeembeheerders een gebied vast waarbinnen de betreffende systeembeheerder de taak, bedoeld in [artikel 3.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.38&z=2026-02-14&g=2026-02-14), respectievelijk [3.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.40&z=2026-02-14&g=2026-02-14), verricht. De Autoriteit Consument en Markt kan daarbij tevens vaststellen in welke omstandigheden en onder welke voorwaarden een distributiesysteembeheerder deze taak mag verrichten in een aangrenzend gebied.
 
 2. De Autoriteit Consument en Markt publiceert een besluit als bedoeld in het eerste lid op een voor eenieder kenbare en toegankelijke wijze.
 
-##### Artikel 3.38. aansluiten elektriciteit
+#### Artikel 3.38. aansluiten elektriciteit
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit doet in het voor hem krachtens [artikel 3.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.37&z=2026-02-14&g=2026-02-14), vastgestelde gebied op verzoek een aanbod tot:
 
@@ -2113,7 +2086,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - c. de informatie die een transmissie- of distributiesysteembeheerder aan de verzoeker verschaft over redelijkerwijs beschikbare alternatieven voor de verzochte aansluiting.
 
-##### Artikel 3.39. aanleggen aansluitleidingen elektriciteit door verzoeker
+#### Artikel 3.39. aanleggen aansluitleidingen elektriciteit door verzoeker
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit doet op verzoek en met het oog op het realiseren van een aansluiting op zijn systeem een aanbod tot koppeling met zijn systeem van een door de verzoeker aangelegde leiding en daarmee verbonden hulpmiddelen, mits de leidingen en hulpmiddelen voldoen aan de voorafgaand aan de aanleg door de transmissie- of distributiesysteembeheerder gestelde technische vereisten waardoor de betrouwbaarheid van het door de transmissie- of distributiesystembeheerder beheerde systeem gewaarborgd blijft en:
 
@@ -2127,7 +2100,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 4. Met het oog op de uitvoering van het eerste lid worden in de methoden of voorwaarden, bedoeld in [artikel 3.119](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), in ieder geval opgenomen de voorwaarden waaraan een aangelegde leiding en daarmee verbonden hulpmiddelen als bedoeld in het eerste lid moeten voldoen.
 
-##### Artikel 3.40. aansluiten gas
+#### Artikel 3.40. aansluiten gas
 
 1. Een transmissie- of distributiesysteembeheerder voor gas doet in het voor hem krachtens [artikel 3.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.37&z=2026-02-14&g=2026-02-14), vastgestelde gebied op verzoek een aanbod tot:
 
@@ -2153,7 +2126,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - b. de informatie die een transmissie- of distributiesysteembeheerder voor gas aan de verzoeker verschaft over de maatregelen die hij neemt om de capaciteit uit te breiden om een aanbod op het verzoek te kunnen doen.
 
-##### Artikel 3.41. in werking stellen, in gebruik geven, beheren, onderhouden, afsluiten en verwijderen van aansluitingen
+#### Artikel 3.41. in werking stellen, in gebruik geven, beheren, onderhouden, afsluiten en verwijderen van aansluitingen
 
 1. Een transmissie- of distributiesysteembeheerder doet op verzoek een aanbod om een aansluiting in werking te stellen, in gebruik te geven, te beheren en te onderhouden.
 
@@ -2169,7 +2142,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - b. de informatie die een transmissie- of distributiesysteembeheerder voorafgaand aan een buitenwerkingstelling of verwijdering aan een aangeslotene verstrekt.
 
-##### Artikel 3.42. gebieden met beperking aansluiting gas
+#### Artikel 3.42. gebieden met beperking aansluiting gas
 
 1. Een college van burgemeester en wethouders kan gebieden aanwijzen waar de taak voor een distributiesysteembeheerder voor gas als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.40&z=2026-02-14&g=2026-02-14) niet geldt voor kleine aansluitingen voor het onttrekken van gas indien zich in dat gebied een andere energie-infrastructuur bevindt die kan voorzien in de verwachte warmtebehoefte.
 
@@ -2185,7 +2158,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de melding, bedoeld in het tweede en derde lid, en de in het register, bedoeld in het vierde lid, te vermelden gegevens.
 
-##### Artikel 3.43. overdrachtspunten
+#### Artikel 3.43. overdrachtspunten
 
 1. Een transmissie- of distributiesysteembeheerder stelt voor een aansluiting op zijn systeem de locatie van het overdrachtspunt vast, met inachtneming van de redelijke belangen van de aangeslotene.
 
@@ -2193,7 +2166,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 3. De betreffende transmissie- of distributiesysteembeheerders stellen gezamenlijk het overdrachtspunt van een systeemkoppeling vast.
 
-##### Artikel 3.44. allocatiepunten
+#### Artikel 3.44. allocatiepunten
 
 1. Een transmissie- of distributiesysteembeheerder kent ten behoeve van een aansluiting op zijn systeem een primair allocatiepunt toe.
 
@@ -2201,7 +2174,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 3. Indien een aangeslotene op een transmissie- of distributiesysteem voor elektriciteit meer dan één marktdeelnemer contracteert inzake verbruik of invoeding, kent een transmissie- of distributiesysteembeheerder voor elektriciteit op verzoek van die aangeslotene een of meerdere additionele allocatiepunten toe.
 
-##### Artikel 3.45. toegang meetverantwoordelijke partij
+#### Artikel 3.45. toegang meetverantwoordelijke partij
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit geeft een meetverantwoordelijke partij toegang tot zijn systeem, voor zover dit noodzakelijk is voor de uitvoering van het bepaalde bij of krachtens [artikel 2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.48&z=2026-02-14&g=2026-02-14).
 
@@ -2209,7 +2182,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 #### Paragraaf 3.3.4. Taken inzake transporteren
 
-##### Artikel 3.46. transporteren elektriciteit
+#### Artikel 3.46. transporteren elektriciteit
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit doet op verzoek een aanbod tot het verzorgen van transport van elektriciteit over zijn systeem.
 
@@ -2221,7 +2194,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - b. met het oog op de uitvoering van het tweede lid, de wijze waarop een transmissie- of distributiesysteembeheerder voor elektriciteit bepaalt en onderbouwt dat onvoldoende transportcapaciteit beschikbaar is op zijn systeem en de informatie die hij daarover aan de verzoeker verschaft.
 
-##### Artikel 3.47. transporteren gas
+#### Artikel 3.47. transporteren gas
 
 1. Een transmissie- of distributiesysteembeheerder voor gas doet op verzoek een aanbod tot het verzorgen van transport van gas over zijn systeem.
 
@@ -2233,7 +2206,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - b. de informatie die een transmissie- of distributiesysteembeheerder voor gas aan de verzoeker verschaft over de maatregelen die hij neemt om de capaciteit uit te breiden om een aanbod op het verzoek te kunnen doen.
 
-##### Artikel 3.48. invoed- en afleverspecificaties gas
+#### Artikel 3.48. invoed- en afleverspecificaties gas
 
 1. Een transmissie- of distributiesysteembeheerder voor gas:
 
@@ -2255,7 +2228,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 #### Paragraaf 3.3.5. Taken inzake balanceren
 
-##### Artikel 3.49. balanceren elektriciteit en afhandelen vraagrespons
+#### Artikel 3.49. balanceren elektriciteit en afhandelen vraagrespons
 
 1. De transmissiesysteembeheerder voor elektriciteit:
 
@@ -2275,7 +2248,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 5. Bij de uitvoering van het eerste en tweede lid gebruikt een systeembeheerder voor elektriciteit van aangeslotenen met een kleine aansluiting ten hoogste meetgegevens per kwartier en aggregeert bij eerste gelegenheid de meetgegevens van de aangeslotenen op zijn systeem.
 
-##### Artikel 3.50. balanceren gas
+#### Artikel 3.50. balanceren gas
 
 1. De transmissiesysteembeheerder voor gas:
 
@@ -2297,7 +2270,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 #### Paragraaf 3.3.6. Taken inzake meten
 
-##### Artikel 3.51. ter beschikking stellen meetinrichting distributiesysteembeheerder
+#### Artikel 3.51. ter beschikking stellen meetinrichting distributiesysteembeheerder
 
 1. Een distributiesysteembeheerder stelt aan een aangeslotene met een kleine aansluiting voor elektriciteit of gas, die op grond van [artikel 2.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), over een meetinrichting moet beschikken, een meetinrichting met communicatiefunctionaliteit beschikbaar, installeert deze op of nabij het overdrachtspunt en doet een aanbod om de meetinrichting in gebruik te geven en te beheren.
 
@@ -2311,7 +2284,7 @@ Een transmissie- of distributiesysteembeheerder voor elektriciteit bezit, ontwik
 
 - b. ter vervanging van een meetinrichting zonder communicatiefunctionaliteit.
 
-##### Artikel 3.52. delegatiegrondslag meetinrichtingen
+#### Artikel 3.52. delegatiegrondslag meetinrichtingen
 
 Bij ministeriële regeling kunnen inzake aangeslotenen met een kleine aansluiting regels worden gesteld over:
 
@@ -2321,7 +2294,7 @@ Bij ministeriële regeling kunnen inzake aangeslotenen met een kleine aansluitin
 
 - c. de informatieverstrekking door een distributiesysteembeheerder over het gebruik en de mogelijkheden van een meetinrichting met communicatiefunctionaliteit.
 
-##### Artikel 3.53. uitschakelen communicatiefunctionaliteit en weigeren meetinrichting
+#### Artikel 3.53. uitschakelen communicatiefunctionaliteit en weigeren meetinrichting
 
 1. Een distributiesysteembeheerder schakelt op verzoek van een aangeslotene met een kleine aansluiting de communicatiefunctionaliteit administratief aan of uit.
 
@@ -2329,7 +2302,7 @@ Bij ministeriële regeling kunnen inzake aangeslotenen met een kleine aansluitin
 
 3. Een distributiesysteembeheerder zendt Onze Minister de persoonsgegevens van een aangeslotene met een kleine aansluiting indien hij deze aangeslotene een meetinrichting die voldoet aan de krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), gestelde eisen ter beschikking heeft gesteld maar dit niet heeft geleid tot installatie van die meetinrichting.
 
-##### Artikel 3.54. meetinrichtingen transmissiesysteem voor gas
+#### Artikel 3.54. meetinrichtingen transmissiesysteem voor gas
 
 1. De transmissiesysteembeheerder voor gas stelt aan een aangeslotene op zijn systeem voor gas nabij het overdrachtspunt een meetinrichting beschikbaar, installeert deze en doet een aanbod om de meetinrichting in gebruik te geven en te beheren indien de aangeslotene:
 
@@ -2339,13 +2312,13 @@ Bij ministeriële regeling kunnen inzake aangeslotenen met een kleine aansluitin
 
 2. Bij ministeriële regeling worden regels gesteld over de installatie en het beheer van meetinrichtingen.
 
-##### Artikel 3.55. meetinrichtingen en eisen systeemkoppelingen
+#### Artikel 3.55. meetinrichtingen en eisen systeemkoppelingen
 
 1. Een systeembeheerder beschikt op of nabij het overdrachtspunt van een systeemkoppeling over een meetinrichting die voldoet aan de krachtens het tweede lid gestelde eisen.
 
 2. Bij ministeriële regeling worden regels gesteld over de eisen en functionaliteiten waaraan een meetinrichting of een onderdeel van een meetinrichting, bedoeld in het eerste lid, ten minste moet voldoen.
 
-##### Artikel 3.56. meetverantwoordelijke partij systeemkoppelingen
+#### Artikel 3.56. meetverantwoordelijke partij systeemkoppelingen
 
 1. Een systeembeheerder draagt er zorg voor dat op zijn systeemkoppeling een meetverantwoordelijke partij actief is die de meetinrichting als bedoeld in [artikel 3.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.55&z=2026-02-14&g=2026-02-14), installeert en beheert en wijst gezamenlijk met de bij een systeemkoppeling betrokken andere systeembeheerder een meetverantwoordelijke partij aan.
 
@@ -2353,7 +2326,7 @@ Bij ministeriële regeling kunnen inzake aangeslotenen met een kleine aansluitin
 
 3. Bij ministeriële regeling worden regels gesteld over de installatie en het beheer van meetinrichtingen.
 
-##### Artikel 3.57. verzamelen meetgegevens distributiesysteembeheerders
+#### Artikel 3.57. verzamelen meetgegevens distributiesysteembeheerders
 
 1. Een distributiesysteembeheerder verzamelt, valideert en stelt de meetgegevens vast van aangeslotenen met een kleine aansluiting voor elektriciteit of gas, die beschikken over een door een distributiesysteembeheerder op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.51&z=2026-02-14&g=2026-02-14) geïnstalleerde meetinrichting waarvan de communicatiefunctionaliteit aan staat, indien dit noodzakelijk is voor:
 
@@ -2379,7 +2352,7 @@ Bij ministeriële regeling kunnen inzake aangeslotenen met een kleine aansluitin
 
 - f. methoden voor het herleiden en berekenen ten behoeve van het valideren en vaststellen van meetgegevens.
 
-##### Artikel 3.58. verzamelen meetgegevens bijzondere situaties
+#### Artikel 3.58. verzamelen meetgegevens bijzondere situaties
 
 Een distributiesysteembeheerder verzamelt, valideert en stelt de meetgegevens vast van aangeslotenen met een kleine aansluiting voor elektriciteit of gas, die bij het overdrachtspunt beschikken over een meetinrichting zonder communicatiefunctionaliteit of een meetinrichting waarvan de communicatiefunctionaliteit niet wordt gebruikt:
 
@@ -2391,7 +2364,7 @@ Een distributiesysteembeheerder verzamelt, valideert en stelt de meetgegevens va
 
 - d. bij aanwijzingen van onbetrouwbaarheid of onvolledigheid van meetgegevens, volgens bij ministeriële regeling te bepalen criteria.
 
-##### Artikel 3.59. verzamelen meetgegevens transmissiesysteembeheerder gas
+#### Artikel 3.59. verzamelen meetgegevens transmissiesysteembeheerder gas
 
 1. Een transmissiesysteembeheerder voor gas verzamelt, valideert en stelt de meetgegevens vast van een aangeslotene op zijn systeem indien de aangeslotene:
 
@@ -2413,7 +2386,7 @@ Een distributiesysteembeheerder verzamelt, valideert en stelt de meetgegevens va
 
 - f. methoden voor het herleiden en berekenen ten behoeve van het valideren en vaststellen van meetgegevens.
 
-##### Artikel 3.60. verzamelen meetgegevens systeemkoppelingen
+#### Artikel 3.60. verzamelen meetgegevens systeemkoppelingen
 
 1. Een meetverantwoordelijke partij, bedoeld in [artikel 3.56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.56&z=2026-02-14&g=2026-02-14), verzamelt, valideert en stelt de meetgegevens vast op een systeemkoppeling.
 
@@ -2433,7 +2406,7 @@ Een distributiesysteembeheerder verzamelt, valideert en stelt de meetgegevens va
 
 - f. methoden voor het herleiden en berekenen ten behoeve van het valideren en vaststellen van meetgegevens.
 
-##### Artikel 3.61. controlesystematiek meetinrichtingen distributiesysteembeheerder en transmissiesysteembeheerder voor gas
+#### Artikel 3.61. controlesystematiek meetinrichtingen distributiesysteembeheerder en transmissiesysteembeheerder voor gas
 
 1. De transmissiesysteembeheerder voor gas en een distributiesysteembeheerder past een door Onze Minister goedgekeurd protocol voor een steekproefsgewijze controle van in gebruik zijnde meetinrichtingen op de bij of krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), en de bij of krachtens [artikel 5 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) gestelde eisen.
 
@@ -2441,11 +2414,11 @@ Een distributiesysteembeheerder verzamelt, valideert en stelt de meetgegevens va
 
 #### Paragraaf 3.3.7. Overige en ondersteunende taken
 
-##### Artikel 3.62. verordening risicoparaatheid en leveringszekerheid gas
+#### Artikel 3.62. verordening risicoparaatheid en leveringszekerheid gas
 
 Een transmissiesysteembeheerder voor elektriciteit of gas heeft, indien Onze Minister hem dit opdraagt, tot taak werkzaamheden te verrichten ter uitvoering van [verordening 2019/941](32841R2019) respectievelijk [verordening 2017/1938](31938R2017).
 
-##### Artikel 3.63. vaststellen hernieuwbare energiebron of WKK
+#### Artikel 3.63. vaststellen hernieuwbare energiebron of WKK
 
 Een transmissie- of distributiesysteembeheerder stelt op verzoek van een aangeslotene op haar systeem, of van een aangeslotene op een gesloten systeem dat met haar systeem is verbonden, vast:
 
@@ -2457,13 +2430,13 @@ Een transmissie- of distributiesysteembeheerder stelt op verzoek van een aangesl
 
 #### Paragraaf 3.3.8. Bijzondere taken voor de transmissiesysteembeheerder voor gas
 
-##### Artikel 3.64. pieklevering in uitzonderlijke omstandigheden
+#### Artikel 3.64. pieklevering in uitzonderlijke omstandigheden
 
 1. De transmissiesysteembeheerder voor gas treft voorzieningen om vergunninghouders in staat te stellen de levering van gas aan alle aangeslotenen met een kleine aansluiting te verzorgen in perioden van extreme koude.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de perioden van extreme koude en de te treffen voorzieningen, bedoeld in het eerste lid.
 
-##### Artikel 3.65. kwaliteitsconversie
+#### Artikel 3.65. kwaliteitsconversie
 
 De transmissiesysteembeheerder voor gas zet, ten behoeve van aangeslotenen, netgebruikers, marktdeelnemers en balanceringsverantwoordelijken, indien noodzakelijk, gelet op het verschil tussen de kwaliteit van het zich in het transmissiesysteem bevindende gas en het aan het transmissiesysteem te onttrekken gas:
 
@@ -2473,7 +2446,7 @@ De transmissiesysteembeheerder voor gas zet, ten behoeve van aangeslotenen, netg
 
 tenzij dit redelijkerwijs niet van een transmissiesysteembeheerder voor gas kan worden gevergd.
 
-##### Artikel 3.66. overzicht leveringszekerheid van gas
+#### Artikel 3.66. overzicht leveringszekerheid van gas
 
 1. Een transmissiesysteembeheerder voor gas biedt jaarlijks voor een bij ministeriële regeling te bepalen datum, na raadpleging van de representatieve organisaties van aangeslotenen aan Onze Minister een overzicht aan met daarin:
 
@@ -2525,7 +2498,7 @@ tenzij dit redelijkerwijs niet van een transmissiesysteembeheerder voor gas kan 
 
 4. Bij ministeriële regeling wordt de datum, bedoeld in het eerste lid, vastgesteld en kunnen nadere regels worden gesteld omtrent het overzicht.
 
-##### Artikel 3.67. transporteren gas uit gasvoorkomens
+#### Artikel 3.67. transporteren gas uit gasvoorkomens
 
 1. De transmissiesysteembeheerder voor gas heeft, in het belang van het planmatig beheer van voorkomens van gas, ter verzekering op lange termijn van een behoedzaam en rationeel gebruik van deze natuurlijke hulpbron tot taak zorg te dragen voor de inname en het transport van gas uit de gasvoorkomens in gebieden binnen Nederland en op het continentaal plat.
 
@@ -2535,7 +2508,7 @@ tenzij dit redelijkerwijs niet van een transmissiesysteembeheerder voor gas kan 
 
 4. De transmissiesysteembeheerder voor gas overlegt jaarlijks aan Onze Minister een overzicht, waarin ten aanzien van de eerstvolgende twintig jaar ramingen zijn opgenomen met betrekking tot de uitoefening van de taak, bedoeld in het eerste lid, onder vermelding van daarbij gehanteerde vooronderstellingen en relevante onderscheiden.
 
-##### Artikel 3.68. voorwaarden inname gas uit gasvoorkomens
+#### Artikel 3.68. voorwaarden inname gas uit gasvoorkomens
 
 1. De transmissiesysteembeheerder voor gas kan, ten einde te waarborgen dat hij de taken, bedoeld in [artikel 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.8&artikel=3.67&z=2026-02-14&g=2026-02-14) zo doelmatig mogelijk kan uitvoeren, voorwaarden stellen aan de wijze waarop het gas van de houders van Nederlandse winningsvergunningen dan wel degene met wie voor het gebruik van die vergunning een overeenkomst is gesloten inzake het voor gezamenlijke rekening winnen van gas, wordt ingenomen.
 
@@ -2543,15 +2516,15 @@ tenzij dit redelijkerwijs niet van een transmissiesysteembeheerder voor gas kan 
 
 3. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de in het eerste lid bedoelde voorwaarden en de in het tweede lid genoemde gegevens en inlichtingen.
 
-##### Artikel 3.69. verstrekken inlichtingen investeringen transporttaak gas uit gasvoorkomens
+#### Artikel 3.69. verstrekken inlichtingen investeringen transporttaak gas uit gasvoorkomens
 
 De transmissiesysteembeheerder voor gas verstrekt Onze Minister alle inlichtingen die hij nodig heeft voor de toepassing van [artikel 3.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.8&artikel=3.67&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 3.70. omschakelen
+#### Artikel 3.70. omschakelen
 
 De transmissiesysteembeheerder voor gas schakelt een aangeslotene op zijn systeem die ingevolge [artikel 2.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.62&z=2026-02-14&g=2026-02-14), heeft gemeld dat diens aansluiting omgeschakeld moet worden, om overeenkomstig de planning of aangepaste planning, bedoeld in [artikel 3.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.8&artikel=3.71&z=2026-02-14&g=2026-02-14), onderscheidenlijk tweede of derde lid, of, indien op grond van [artikel 2.64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.64&z=2026-02-14&g=2026-02-14), een ontheffing is verleend aan de betrokken aangeslotene, overeenkomstig de aangepaste planning die aan die ontheffing ten grondslag ligt.
 
-##### Artikel 3.71. planning en proces omschakelen
+#### Artikel 3.71. planning en proces omschakelen
 
 1. Ter uitvoering van de taak, bedoeld in [artikel 3.70](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.8&artikel=3.70&z=2026-02-14&g=2026-02-14), informeert de transmissiesysteembeheerder voor gas de betrokken aangeslotene en Onze Minister over de planning van de omschakeling, voorzien van een onderbouwing van de benodigde tijd voor de onderscheiden activiteiten ten behoeve van de omschakeling en de mate waarin rekening is gehouden met de gegevens, bedoeld in [artikel 2.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.63&z=2026-02-14&g=2026-02-14).
 
@@ -2559,7 +2532,7 @@ De transmissiesysteembeheerder voor gas schakelt een aangeslotene op zijn systee
 
 3. Onze Minister kan de transmissiesysteembeheerder voor gas een bindende gedragslijn opleggen in verband met de planning of aangepaste planning van de onderscheiden activiteiten ten behoeve van de omschakeling, indien dit naar zijn oordeel in het belang is van de zo spoedig mogelijke afbouw of beëindiging van de gaswinning uit het gebied dat is aangewezen in de bij koninklijk besluit van 30 mei 1963, nr. 39 (Stcrt. 126) verleende winningsvergunning of in het economisch belang is van de aangeslotene. De transmissiesysteembeheerder voor gas stuurt binnen vier weken na ontvangst van de bindende gedragslijn een aangepaste planning aan Onze Minister en de betrokken aangeslotene.
 
-##### Artikel 3.72. rapportageplicht omschakelen
+#### Artikel 3.72. rapportageplicht omschakelen
 
 1. De transmissiesysteembeheerder voor gas zendt binnen een maand na afloop van een gasjaar een rapportage aan Onze Minister over:
 
@@ -2581,7 +2554,7 @@ De transmissiesysteembeheerder voor gas schakelt een aangeslotene op zijn systee
 
 #### Paragraaf 3.3.9. Tijdelijke taken
 
-##### Artikel 3.73. tijdelijke taken
+#### Artikel 3.73. tijdelijke taken
 
 1. Bij algemene maatregel van bestuur kunnen één of meer andere taken dan de op grond van deze wet opgedragen taken voor een bij die maatregel te bepalen periode van ten hoogste tien jaren per taak worden toegestaan aan een transmissie- of distributiesysteembeheerder indien:
 
@@ -2599,7 +2572,7 @@ De transmissiesysteembeheerder voor gas schakelt een aangeslotene op zijn systee
 
 ### Afdeling 3.4. Verplichtingen transmissiesysteembeheerder en distributiesysteembeheerder bij taakuitoefening
 
-##### Artikel 3.74. kwaliteitsborging en calamiteitenplan
+#### Artikel 3.74. kwaliteitsborging en calamiteitenplan
 
 Een transmissie- of distributiesysteembeheerder waarborgt bij de uitvoering van zijn wettelijke taken of verplichtingen de kwaliteit daarvan. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -2607,7 +2580,7 @@ Een transmissie- of distributiesysteembeheerder waarborgt bij de uitvoering van 
 
 - b. de wijze waarop een transmissie- of distributiesysteembeheerder omgaat met calamiteiten of voorvallen die nadelige gevolgen voor mens of milieu hebben of kunnen hebben.
 
-##### Artikel 3.75. financieel beheer en boekhouding
+#### Artikel 3.75. financieel beheer en boekhouding
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -2615,11 +2588,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 - b. de boekhouding van een transmissie- of distributiesysteembeheerder, waaronder eisen aan de scheiding van de boekhouding voor verschillende wettelijke taken of verplichtingen.
 
-##### Artikel 3.76. bijhouden gegevens
+#### Artikel 3.76. bijhouden gegevens
 
 Een transmissie- of distributiesysteembeheerder verzamelt en gebruikt bij de uitvoering van zijn wettelijke taken of verplichtingen de daarvoor noodzakelijke gegevens.
 
-##### Artikel 3.77. beschermen en verstrekken van informatie
+#### Artikel 3.77. beschermen en verstrekken van informatie
 
 1. Een transmissie- of distributiesysteembeheerder die bij de uitvoering van zijn wettelijke taken of verplichtingen de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, draagt er zorg voor dat die gegevens niet ter beschikking komen of kunnen komen van derden, tenzij enig wettelijk voorschrift anders bepaalt.
 
@@ -2627,7 +2600,7 @@ Een transmissie- of distributiesysteembeheerder verzamelt en gebruikt bij de uit
 
 3. Een transmissie- of distributiesysteembeheerder verstrekt aangeslotenen, netgebruikers, marktdeelnemers en balanceringsverantwoordelijken, de informatie die ze nodig hebben voor een efficiënte toegang tot het transmissie- of distributiesysteem inclusief het gebruik ervan.
 
-##### Artikel 3.78. actief en passief openbaar maken
+#### Artikel 3.78. actief en passief openbaar maken
 
 1. Een transmissie- of distributiesysteembeheerder maakt uit eigen beweging gegevens die hij bij de uitvoering van zijn wettelijke taken of verplichtingen verzamelt en ontvangt, ten behoeve van inzicht in de structuur en het functioneren van het energiesysteem en de transitie naar een CO2-arme energievoorziening openbaar, waarbij:
 
@@ -2655,7 +2628,7 @@ Een transmissie- of distributiesysteembeheerder verzamelt en gebruikt bij de uit
 
 - b. regels worden gesteld over de wijze van en voorwaarden voor openbaarmaking.
 
-##### Artikel 3.79. delegatiegrondslag nadere verplichtingen
+#### Artikel 3.79. delegatiegrondslag nadere verplichtingen
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -2669,11 +2642,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
 - e. de informatie die een transmissie- of distributiesysteembeheerder een aangeslotene verstrekt met het oog op het voorkomen van buitenwerkingstelling van een aansluiting als bedoeld in [artikel 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.41&z=2026-02-14&g=2026-02-14) in geval van het faillissement of de intrekking van een vergunning, erkenning of toelating van een marktdeelnemer, balanceringsverantwoordelijke of meetverantwoordelijke partij, en de termijn waarbinnen deze informatie wordt verstrekt, in geval van intrekking van een vergunning als bedoeld in [artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.17&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 3.80. kosten voor het transmissiesysteem voor elektriciteit op zee
+#### Artikel 3.80. kosten voor het transmissiesysteem voor elektriciteit op zee
 
 De transmissie- en distributiesysteembeheerders voor elektriciteit voldoen aan de transmissiesysteembeheerder voor elektriciteit op zee de door deze op grond van [artikel 3.118, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.118&z=2026-02-14&g=2026-02-14), bij hen in rekening gebrachte kosten.
 
-##### Artikel 3.81. technische overeenkomsten interconnectoren en interconnectorsystemen voor gas
+#### Artikel 3.81. technische overeenkomsten interconnectoren en interconnectorsystemen voor gas
 
 Een transmissiesysteembeheerder voor gas of een interconnectorsysteembeheerder voor gas informeert de Autoriteit Consument en Markt over technische overeenkomsten over interconnectoren of interconnectorsystemen voor gas met derde landen.
 
@@ -2681,11 +2654,11 @@ Een transmissiesysteembeheerder voor gas of een interconnectorsysteembeheerder v
 
 #### Paragraaf 3.5.1. Beheerder van het transmissiesysteem voor elektriciteit op zee
 
-##### Artikel 3.82. transmissiesysteem voor elektriciteit op zee
+#### Artikel 3.82. transmissiesysteem voor elektriciteit op zee
 
 Het transmissiesysteem voor elektriciteit op zee omvat de systemen die bestemd zijn voor het transport van elektriciteit en die één of meer windparken op zee verbinden met het transmissiesysteem voor elektriciteit of met dit systeem en het transportsysteem voor elektriciteit van een ander land met uitzondering van leidingen en daarmee verbonden hulpmiddelen ten behoeve van het transport van elektriciteit die één of meer windparken op zee verbinden met het transmissiesysteem voor elektriciteit en waarvoor voor 1 januari 2016 een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) is verleend.
 
-##### Artikel 3.83. ontwikkelkader transmissiesysteem voor elektriciteit op zee
+#### Artikel 3.83. ontwikkelkader transmissiesysteem voor elektriciteit op zee
 
 1. Onze Minister stelt een kader vast inzake de ontwikkeling van windenergie op zee en het gebruik van het transmissiesysteem voor elektriciteit op zee. In het ontwikkelkader wordt in ieder geval opgenomen:
 
@@ -2709,17 +2682,17 @@ Het transmissiesysteem voor elektriciteit op zee omvat de systemen die bestemd z
 
 3. De transmissiesysteembeheerder voor elektriciteit op zee werkt het ontwikkelkader uit in het investeringsplan, bedoeld in [artikel 3.85](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=3.85&z=2026-02-14&g=2026-02-14) juncto [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.34&z=2026-02-14&g=2026-02-14), en voert zijn wettelijke taken of verplichtingen uit in overeenstemming met het ontwikkelkader.
 
-##### Artikel 3.84. algemene bepaling transmissiesysteembeheerder voor elektriciteit op zee in verhouding tot Europees recht
+#### Artikel 3.84. algemene bepaling transmissiesysteembeheerder voor elektriciteit op zee in verhouding tot Europees recht
 
 1. De transmissiesysteembeheerder voor elektriciteit op zee die krachtens [artikel 3.2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), is aangewezen, is uit dien hoofde belast met de taken en verplichtingen die bij of krachtens [verordening 2019/943](32843R2019) aan transmissiesysteembeheerders zijn opgedragen.
 
 2. De transmissiesysteembeheerder voor elektriciteit op zee stelt op zijn systeem beschikbare zoneoverschrijdende capaciteit ter beschikking.
 
-##### Artikel 3.85. overeenkomstige toepassing transmissiesysteembeheerder voor elektriciteit op zee
+#### Artikel 3.85. overeenkomstige toepassing transmissiesysteembeheerder voor elektriciteit op zee
 
 De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.10&z=2026-02-14&g=2026-02-14), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.11&z=2026-02-14&g=2026-02-14), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.13&z=2026-02-14&g=2026-02-14), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.14&z=2026-02-14&g=2026-02-14), [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.15&z=2026-02-14&g=2026-02-14), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.17&z=2026-02-14&g=2026-02-14), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.18&z=2026-02-14&g=2026-02-14), [3.19, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.19&z=2026-02-14&g=2026-02-14), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.20&z=2026-02-14&g=2026-02-14), [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.21&z=2026-02-14&g=2026-02-14), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.22&z=2026-02-14&g=2026-02-14), [3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.24&z=2026-02-14&g=2026-02-14), [3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.25&z=2026-02-14&g=2026-02-14), [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.28&z=2026-02-14&g=2026-02-14), [3.30 tot en met 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.30&z=2026-02-14&g=2026-02-14), [3.49, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.5&artikel=3.49&z=2026-02-14&g=2026-02-14), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.7&artikel=3.63&z=2026-02-14&g=2026-02-14), [3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.75&z=2026-02-14&g=2026-02-14), [3.76](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.76&z=2026-02-14&g=2026-02-14), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.77&z=2026-02-14&g=2026-02-14), [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.78&z=2026-02-14&g=2026-02-14), [3.79, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.79&z=2026-02-14&g=2026-02-14), en [3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.6&artikel=3.125&z=2026-02-14&g=2026-02-14) zijn van overeenkomstige toepassing op de transmissiesysteembeheerder voor elektriciteit op zee met dien verstande dat voor «transmissie- of distributiesysteembeheerder», «transmissiesysteembeheerder» of «distributiesysteembeheerder» telkens wordt gelezen «transmissiesysteembeheerder voor elektriciteit op zee».
 
-##### Artikel 3.86. aansluiten en transporteren transmissiesysteem voor elektriciteit op zee
+#### Artikel 3.86. aansluiten en transporteren transmissiesysteem voor elektriciteit op zee
 
 1. De transmissiesysteembeheerder voor elektriciteit op zee doet op verzoek een aanbod tot aanleg van een aansluiting op zijn systeem of een aanbod om een aansluiting in gebruik te geven, te beheren en te onderhouden aan:
 
@@ -2731,7 +2704,7 @@ De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&
 
 3. In afwijking van het eerste lid, onderdeel b, en het tweede lid kan de transmissiesysteembeheerder voor elektriciteit op zee een verzoek van een eindafnemer afwijzen indien er onvoldoende aansluit- of transportcapaciteit beschikbaar is op het dichtstbijzijnde voor aansluiting geschikte punt op zijn systeem om aan het verzoek te kunnen voldoen.
 
-##### Artikel 3.87. schadevergoedingsregeling transmissiesysteem voor elektriciteit op zee
+#### Artikel 3.87. schadevergoedingsregeling transmissiesysteem voor elektriciteit op zee
 
 1. Een aangeslotene als bedoeld in [artikel 3.86, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=3.86&z=2026-02-14&g=2026-02-14), heeft recht op vergoeding van schade door de transmissiesysteembeheerder voor elektriciteit op zee, indien:
 
@@ -2747,7 +2720,7 @@ De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&
 
 #### Paragraaf 3.5.2. Interconnectorsysteembeheerder
 
-##### Artikel 3.88. algemene bepaling interconnectorbeheerder in verhouding tot Europees recht
+#### Artikel 3.88. algemene bepaling interconnectorbeheerder in verhouding tot Europees recht
 
 1. Een interconnectorsysteembeheerder voor elektriciteit, die een interconnectorsysteem voor elektriciteit met een lidstaat of een land dat onderdeel uitmaakt van de Europese economische ruimte beheert die krachtens [artikel 3.2, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), is aangewezen, is uit dien hoofde belast met de taken en verplichtingen die bij of krachtens [verordening 2019/943](32843R2019) of andere bindende EU-rechtshandeling op het gebied van elektriciteit aan interconnectorsysteembeheerders zijn opgedragen.
 
@@ -2755,11 +2728,11 @@ De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&
 
 3. Een interconnectorsysteembeheerder voor gas die krachtens [artikel 3.2, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), is aangewezen, is uit dien hoofde belast met de taken en verplichtingen die bij of krachtens [verordening 715/2009](32009R0715) of andere bindende EU-rechtshandeling op het gebied van gas aan interconnectorsysteembeheerders zijn opgedragen.
 
-##### Artikel 3.89. Privatiseringsverbod
+#### Artikel 3.89. Privatiseringsverbod
 
 Ten minste de helft van de aandelen in een interconnectorsysteembeheerder voor elektriciteit berusten direct of indirect bij de Staat der Nederlanden, waarbij onder indirect berusten van aandelen wordt verstaan dat de desbetreffende aandelen berusten bij één of meer rechtspersonen waarvan alle aandelen worden gehouden door de staat of bij een rechtspersoon die een volledige dochtermaatschappij is van één of meer rechtspersonen waarvan alle aandelen worden gehouden door de staat.
 
-##### Artikel 3.90. overeenkomstige toepassing interconnectorsysteembeheerder
+#### Artikel 3.90. overeenkomstige toepassing interconnectorsysteembeheerder
 
 1. De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.10&z=2026-02-14&g=2026-02-14), [3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.24&z=2026-02-14&g=2026-02-14), [3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.25&z=2026-02-14&g=2026-02-14), [3.75, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.75&z=2026-02-14&g=2026-02-14), [3.76](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.76&z=2026-02-14&g=2026-02-14), [3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.77&z=2026-02-14&g=2026-02-14) en [3.78](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.78&z=2026-02-14&g=2026-02-14) zijn van overeenkomstige toepassing op een interconnectorsysteembeheerder, met dien verstande dat voor «transmissie- of distributiesysteembeheerder», «transmissiesysteembeheerder» of «distributiesysteembeheerder» telkens wordt gelezen «interconnectorbeheerder».
 
@@ -2769,19 +2742,19 @@ Ten minste de helft van de aandelen in een interconnectorsysteembeheerder voor e
 
 #### Paragraaf 3.5.3. LNG-beheerder
 
-##### Artikel 3.91. algemene bepaling LNG-beheerder in verhouding tot Europees recht
+#### Artikel 3.91. algemene bepaling LNG-beheerder in verhouding tot Europees recht
 
 Een LNG-beheerder die krachtens [artikel 3.2, eerste lid, aanhef en onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), is aangewezen, is uit dien hoofde belast met de taken en verplichtingen die krachtens [verordening 715/2009](32009R0715) of andere bindende EU-rechtshandeling op het gebied van gas aan LNG-beheerders zijn opgedragen.
 
-##### Artikel 3.92. handelen LNG-beheerder
+#### Artikel 3.92. handelen LNG-beheerder
 
 Een LNG-beheerder handelt bij de uitoefening van zijn wettelijke taken of verplichtingen redelijk, transparant en niet-discriminerend.
 
-##### Artikel 3.93. beheren, onderhouden en ontwikkelen
+#### Artikel 3.93. beheren, onderhouden en ontwikkelen
 
 Een LNG-beheerder beheert, onderhoudt en ontwikkelt zijn systeem, onder economische voorwaarden, op zodanige wijze dat de veiligheid, betrouwbaarheid en doelmatigheid van dat systeem is gewaarborgd en met inachtneming van de belangen van het milieu.
 
-##### Artikel 3.94. gereguleerde toegang
+#### Artikel 3.94. gereguleerde toegang
 
 1. Een LNG-beheerder doet op verzoek een aanbod om LNG-activiteiten of ondersteunende diensten voor gas uit te voeren.
 
@@ -2795,7 +2768,7 @@ Een LNG-beheerder beheert, onderhoudt en ontwikkelt zijn systeem, onder economis
 
 - b. toe te passen technische specificaties.
 
-##### Artikel 3.95. beschermen en verstrekken van informatie
+#### Artikel 3.95. beschermen en verstrekken van informatie
 
 1. Een LNG-beheerder die bij de uitvoering van zijn wettelijke taken of verplichtingen de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, houdt die gegevens geheim tenzij enig wettelijk voorschrift anders bepaalt.
 
@@ -2811,25 +2784,25 @@ Een LNG-beheerder beheert, onderhoudt en ontwikkelt zijn systeem, onder economis
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de informatie die een LNG-beheerder verstrekt aan systeembeheerders of gebruikers van het LNG-systeem.
 
-##### Artikel 3.96. boekhouding
+#### Artikel 3.96. boekhouding
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de boekhouding van een LNG-beheerder, waaronder eisen aan de scheiding van de boekhouding voor verschillende wettelijke taken of verplichtingen.
 
 #### Paragraaf 3.5.4. Gasopslagbeheerder
 
-##### Artikel 3.97. algemene bepaling gasopslagbeheerder in verhouding tot Europees recht
+#### Artikel 3.97. algemene bepaling gasopslagbeheerder in verhouding tot Europees recht
 
 Een gasopslagbeheerder die krachtens [artikel 3.2, eerste lid, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), is aangewezen, is uit dien hoofde belast met de taken en verplichtingen die bij of krachtens [verordening 715/2009](32009R0715) of andere bindende EU-rechtshandeling op het gebied van gas aan gasopslagbeheerders zijn opgedragen.
 
-##### Artikel 3.98. handelen gasopslagbeheerder
+#### Artikel 3.98. handelen gasopslagbeheerder
 
 Een gasopslagbeheerder handelt bij de uitoefening van zijn wettelijke taken of verplichtingen redelijk, transparant en niet-discriminerend.
 
-##### Artikel 3.99. beheren, onderhouden en ontwikkelen gasopslagsysteem
+#### Artikel 3.99. beheren, onderhouden en ontwikkelen gasopslagsysteem
 
 Een gasopslagbeheerder beheert, onderhoudt en ontwikkelt zijn systeem, op economische voorwaarden, op zodanige wijze dat de veiligheid, betrouwbaarheid en doelmatigheid is geborgd en met inachtneming van de belangen van het milieu.
 
-##### Artikel 3.100. onderhandelde toegang
+#### Artikel 3.100. onderhandelde toegang
 
 1. Een gasopslagbeheerder onderhandelt op verzoek over toegang tot zijn gasopslagsysteem of de door hem aangeboden ondersteunende diensten als de toegang tot dat gasopslagsysteem in technische of economische zin noodzakelijk is voor een efficiënte toegang tot de gasmarkt met het oog op de levering aan aangeslotenen.
 
@@ -2845,7 +2818,7 @@ Een gasopslagbeheerder beheert, onderhoudt en ontwikkelt zijn systeem, op econom
 
 - b. de procedure voor het vaststellen van de indicatie van de tarieven en voorwaarden en de bekendmaking van de indicatie van de tarieven en voorwaarden.
 
-##### Artikel 3.101. beschermen en verstrekken van informatie
+#### Artikel 3.101. beschermen en verstrekken van informatie
 
 1. Een gasopslagbeheerder die bij de uitvoering van zijn wettelijke taken of verplichtingen de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, houdt die gegevens geheim tenzij enig wettelijk voorschrift anders bepaalt.
 
@@ -2861,11 +2834,11 @@ Een gasopslagbeheerder beheert, onderhoudt en ontwikkelt zijn systeem, op econom
 
 5. Als een gasopslagbeheerder gegevens over zijn bedrijfsvoering die commercieel voordeel kunnen opleveren ter beschikking stelt aan derden, stelt hij deze gegevens onder gelijke voorwaarden beschikbaar aan anderen.
 
-##### Artikel 3.102. boekhouding
+#### Artikel 3.102. boekhouding
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de boekhouding van een gasopslagbeheerder, waaronder eisen aan de scheiding van de boekhouding voor verschillende wettelijke taken of verplichtingen.
 
-##### Artikel 3.103. onafhankelijkheid beheerder gasopslag
+#### Artikel 3.103. onafhankelijkheid beheerder gasopslag
 
 1. Als een gasopslagbeheerder tevens producent of leverancier is of deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarvan ook een producent of leverancier deel uitmaakt, en de gasopslagbeheerder krachtens [artikel 3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=3.100&z=2026-02-14&g=2026-02-14) verplicht is te onderhandelen over de toegang tot zijn opslagsysteem, is de gasopslagbeheerder wat betreft de rechtsvorm, organisatie en besluitvorming onafhankelijk van de activiteiten op het gebied van productie en levering.
 
@@ -2873,7 +2846,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 #### Paragraaf 3.5.5. Beheerder gesloten systeem
 
-##### Artikel 3.104. overeenkomstige toepassing beheerder gesloten systeem
+#### Artikel 3.104. overeenkomstige toepassing beheerder gesloten systeem
 
 1. De [artikelen 3.24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.24&z=2026-02-14&g=2026-02-14), [3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.25&z=2026-02-14&g=2026-02-14), [3.43](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.43&z=2026-02-14&g=2026-02-14), [3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.44&z=2026-02-14&g=2026-02-14), [3.77, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.77&z=2026-02-14&g=2026-02-14), [artikel 3.79, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.4&artikel=3.79&z=2026-02-14&g=2026-02-14), zijn van overeenkomstige toepassing op een beheerder van een gesloten systeem, met dien verstande dat voor «transmissie- of distributiesysteembeheerder», «transmissiesysteembeheerder» of «distributiesysteembeheerder» telkens wordt gelezen «beheerder van een gesloten systeem».
 
@@ -2883,7 +2856,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 - b. het tarief voor installatie en onderhoud van de meetinrichting in rekening wordt gebracht conform [artikel 3.114](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.114&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 3.105. aansluiten en transporteren gesloten systeem
+#### Artikel 3.105. aansluiten en transporteren gesloten systeem
 
 1. Een beheerder van een gesloten systeem kan op verzoek een aanbod doen tot aanleg of wijziging van een aansluiting op zijn systeem.
 
@@ -2899,7 +2872,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 #### Paragraaf 3.6.1. Tarieven algemeen
 
-##### Artikel 3.106. algemene bepalingen tarieven
+#### Artikel 3.106. algemene bepalingen tarieven
 
 1. Een transmissie- of distributiesysteembeheerder brengt voor het uitvoeren van wettelijke taken of verplichtingen bij aangeslotenen op zijn systeem, bij beheerders van transmissie- of distributiesystemen die via een systeemkoppeling zijn verbonden met zijn systeem, of, in het geval van de transmissiesysteembeheerder voor gas, bij netgebruikers tarieven in rekening:
 
@@ -2921,7 +2894,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 #### Paragraaf 3.6.2. Tariefreguleringsmethode vooraf vastgestelde tarieven
 
-##### Artikel 3.107. uitgangspunten en tariefstructuren
+#### Artikel 3.107. uitgangspunten en tariefstructuren
 
 1. De Autoriteit Consument en Markt stelt de door transmissie- en distributiesysteembeheerders toe te passen tarieven waarop [artikel 3.106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.1&artikel=3.106&z=2026-02-14&g=2026-02-14), van toepassing is, overeenkomstig deze paragraaf vast en met inachtneming van het bepaalde bij of krachtens [verordening 2019/943](32843R2019) en [verordening 715/2009](32009R0715) inzake tarieven.
 
@@ -2935,7 +2908,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 4. De methoden of voorwaarden, bedoeld in [artikel 3.119](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), omvatten ten aanzien van de tarieven in ieder geval een nadere onderscheiding van de tarieven, de toedeling van kostensoorten aan deze tarieven en de wijze waarop de kostensoorten in aanmerking worden genomen.
 
-##### Artikel 3.108. methodebesluit
+#### Artikel 3.108. methodebesluit
 
 1. De Autoriteit Consument en Markt stelt, overeenkomstig [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), de tariefreguleringsmethode vast voor vaststelling van de tarieven, bedoeld in [artikel 3.107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.107&z=2026-02-14&g=2026-02-14), voor onderscheidenlijk:
 
@@ -2959,13 +2932,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 5. De Autoriteit Consument en Markt bepaalt de periode waarvoor de tariefreguleringsmethode geldt. Deze periode bedraagt minimaal vier en maximaal zes jaar.
 
-##### Artikel 3.109. inkomstenbesluit
+#### Artikel 3.109. inkomstenbesluit
 
 1. De Autoriteit Consument en Markt stelt voorafgaand aan het eerste jaar van een reguleringsperiode als bedoeld in [artikel 3.108, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.108&z=2026-02-14&g=2026-02-14), met inachtneming van het methodebesluit voor iedere transmissie- of distributiesysteembeheerder, de voor elk jaar van de reguleringsperiode toegestane inkomsten vast of de beoogde inkomsten en rekenvolumes.
 
 2. De Autoriteit Consument en Markt herziet de inkomstenbesluiten indien het methodebesluit, bedoeld in het eerste lid, bij een onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit van de Autoriteit Consument en Markt is herzien, en neemt daarbij die uitspraak of dat besluit in acht.
 
-##### Artikel 3.110. tarievenbesluit
+#### Artikel 3.110. tarievenbesluit
 
 1. De Autoriteit Consument en Markt stelt voor iedere transmissie- of distributiesysteembeheerder, op basis van een daartoe strekkend voorstel van de transmissie- of distributiesysteembeheerder, jaarlijks de tarieven, bedoeld in [artikel 3.107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.107&z=2026-02-14&g=2026-02-14), vast met inachtneming van de nadere regels over algemene tariefbeginselen, bedoeld in artikel 3.107, derde lid.
 
@@ -3013,7 +2986,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 - b. de procedure en wijze van besluitvorming door de Autoriteit Consument en Markt bij ontbreken van een voorstel van de transmissie- of distributiesysteembeheerder als bedoeld in eerste lid.
 
-##### Artikel 3.111. inwerkingtreding en publicatie tarieven
+#### Artikel 3.111. inwerkingtreding en publicatie tarieven
 
 1. De op grond van [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.110&z=2026-02-14&g=2026-02-14) vastgestelde tarieven treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden tot 1 januari van het volgende jaar.
 
@@ -3023,7 +2996,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 #### Paragraaf 3.6.3. Berekeningsmethoden overige tarieven
 
-##### Artikel 3.112. tarieven voor maatwerk
+#### Artikel 3.112. tarieven voor maatwerk
 
 1. De transmissie- en distributiesysteembeheerders stellen voor de tarieven, bedoeld in [artikel 3.106, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.1&artikel=3.106&z=2026-02-14&g=2026-02-14) een voorstel voor de berekeningsmethode op en leggen dit ter goedkeuring voor aan de Autoriteit Consument en Markt. Per transmissie- of distributiesysteembeheerder of soort transmissie- of distributiesysteembeheerder kan een afzonderlijk voorstel voor de berekeningsmethode worden opgesteld.
 
@@ -3039,7 +3012,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 5. De Autoriteit Consument en Markt bepaalt dat de transmissie- of distributiesysteembeheerder een door hem op grond van [artikel 3.106, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.1&artikel=3.106&z=2026-02-14&g=2026-02-14), in rekening gebracht tarief aanpast, indien de Autoriteit Consument en Markt naar aanleiding van een klacht als bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.1&artikel=5.4&z=2026-02-14&g=2026-02-14), vaststelt dat dit tarief niet voldoet aan de vereisten, bedoeld in het tweede lid.
 
-##### Artikel 3.113. tarieven tijdelijke taken
+#### Artikel 3.113. tarieven tijdelijke taken
 
 1. De Autoriteit Consument en Markt stelt jaarlijks het tarief voor het uitvoeren van een tijdelijke taak vast op basis van een daartoe strekkend voorstel van de transmissie- of distributiesysteembeheerder, indien bij het toekennen van die tijdelijke taak is bepaald dat voor het uitvoeren daarvan een tarief in rekening wordt gebracht bij de aangeslotenen of, in het geval van de transmissiesysteembeheerder voor gas, de netgebruiker, ten behoeve van wie de tijdelijke taak wordt uitgevoerd.
 
@@ -3059,7 +3032,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 #### Paragraaf 3.6.4. Tarieven beheerders bijzondere systemen
 
-##### Artikel 3.114. tarieven beheerder gesloten systeem
+#### Artikel 3.114. tarieven beheerder gesloten systeem
 
 1. Een beheerder van een gesloten systeem brengt voor het uitvoeren van de bij of krachtens [paragraaf 3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.5&z=2026-02-14&g=2026-02-14) aan hem opgedragen taken of verplichtingen bij aangeslotenen op zijn systeem een tarief in rekening dat is vastgesteld met inachtneming van een vooraf door hem opgestelde en bekendgemaakte berekeningsmethode, die leidt tot tarieven die de kosten in verband met de uitvoering van zijn taken of verplichtingen reflecteren en transparant en niet-discriminerend zijn.
 
@@ -3067,7 +3040,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de bo
 
 de door hem toegepaste berekeningsmethode of een door hem in rekening gebracht tarief aanpast, indien de Autoriteit Consument en Markt naar aanleiding van een klacht als bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.1&artikel=5.4&z=2026-02-14&g=2026-02-14), vaststelt dat deze berekeningsmethode of dit tarief niet in overeenstemming is met de vereisten, bedoeld in het eerste lid.
 
-##### Artikel 3.115. tarieven LNG-beheerder
+#### Artikel 3.115. tarieven LNG-beheerder
 
 1. Een LNG-beheerder brengt voor het uitvoeren van de bij of krachtens [paragraaf 3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&z=2026-02-14&g=2026-02-14) aan hem opgedragen taken of verplichtingen een tarief in rekening dat is vastgesteld met inachtneming van een vooraf door de Autoriteit Consument en Markt goedgekeurde berekeningsmethode.
 
@@ -3083,11 +3056,11 @@ de door hem toegepaste berekeningsmethode of een door hem in rekening gebracht t
 
 - b. goedkeuring door de Autoriteit Consument en Markt, bedoeld in het tweede lid.
 
-##### Artikel 3.116. tarieven interconnectorsysteembeheerder
+#### Artikel 3.116. tarieven interconnectorsysteembeheerder
 
 Een interconnectorsysteembeheerder brengt voor het uitvoeren van de taken, bedoeld in [artikel 3.88](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.88&z=2026-02-14&g=2026-02-14) en [3.90](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.90&z=2026-02-14&g=2026-02-14) tarieven in rekening, waarbij [artikel 3.106](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.1&artikel=3.106&z=2026-02-14&g=2026-02-14), [paragraaf 3.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&z=2026-02-14&g=2026-02-14) en [artikel 3.112](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.3&artikel=3.112&z=2026-02-14&g=2026-02-14) van overeenkomstige toepassing zijn, met dien verstande dat voor transmissie- of distributiesysteembeheerder of «transmissiesysteembeheerder voor elektriciteit» steeds wordt gelezen «interconnectorsysteembeheerder».
 
-##### Artikel 3.117. tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
+#### Artikel 3.117. tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
 
 De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in rekening, waarbij [artikel 3.106](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.1&artikel=3.106&z=2026-02-14&g=2026-02-14), [paragraaf 3.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&z=2026-02-14&g=2026-02-14) en [artikel 3.112](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.3&artikel=3.112&z=2026-02-14&g=2026-02-14) van overeenkomstige toepassing zijn, met dien verstande dat voor «transmissie- of distributiesysteembeheerder» of «transmissiesysteembeheerder voor elektriciteit» steeds wordt gelezen «transmissiesysteembeheerder voor elektriciteit op zee», voor het uitvoeren van:
 
@@ -3095,7 +3068,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 - b. de taak bedoeld in [artikel 3.86, eerste, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=3.86&z=2026-02-14&g=2026-02-14), indien deze taak wordt uitgevoerd ten behoeve van aangeslotenen als bedoeld in artikel 3.86, eerste lid, onderdeel b.
 
-##### Artikel 3.118. bekostiging niet-tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
+#### Artikel 3.118. bekostiging niet-tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
 
 1. De Autoriteit Consument en Markt stelt de vergoeding vast voor het uitvoeren van de bij of krachtens [paragraaf 3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&z=2026-02-14&g=2026-02-14) aan de transmissiesysteembeheerder voor elektriciteit op zee opgedragen taken of verplichtingen, met uitzondering van de taken bedoeld in [artikel 3.117](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.117&z=2026-02-14&g=2026-02-14).
 
@@ -3115,7 +3088,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 #### Paragraaf 3.6.5. Overige methoden en voorwaarden
 
-##### Artikel 3.119. toepassen methoden of voorwaarden transmissie- en distributiesysteembeheerders
+#### Artikel 3.119. toepassen methoden of voorwaarden transmissie- en distributiesysteembeheerders
 
 1. Een transmissie- of distributiesysteembeheerder of de transmissiesysteembeheerder voor elektriciteit op zee past bij de uitvoering van wettelijke taken of verplichtingen met betrekking tot aansluiten op en transporteren van elektriciteit of gas over het systeem, ter beschikking stellen van op het systeem beschikbare zoneoverschrijdende capaciteit, meten, balanceren en inkopen van ondersteunende diensten of congestiebeheers- of systeembeheersdiensten, methoden of voorwaarden toe die vooraf zijn goedgekeurd door de Autoriteit Consument en Markt overeenkomstig [artikel 3.121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.121&z=2026-02-14&g=2026-02-14).
 
@@ -3129,7 +3102,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 - c. de vindplaats van rechtstreeks bij of krachtens [verordening 715/2009](32009R0715) of [verordening 2019/943](32843R2019) geldende methoden of voorwaarden.
 
-##### Artikel 3.120. totstandkoming voorstel transmissie- en distributiesysteembeheerders
+#### Artikel 3.120. totstandkoming voorstel transmissie- en distributiesysteembeheerders
 
 1. Elke transmissie- of distributiesysteembeheerder voor elektriciteit en, voor zover relevant, de transmissiesysteembeheerder voor elektriciteit op zee, en elke transmissie- of distributiesysteembeheerder voor gas draagt zorg voor de totstandkoming van een gezamenlijk voorstel voor of aanvulling of wijziging van methoden of voorwaarden, bedoeld in [artikel 3.119](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), en het ter goedkeuring voorleggen daarvan aan de Autoriteit Consument en Markt.
 
@@ -3147,7 +3120,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 - b. de inhoud en onderbouwing van een voorstel als bedoeld in het eerste of derde lid.
 
-##### Artikel 3.121. goedkeuren methoden of voorwaarden transmissie- en distributiesysteembeheerders
+#### Artikel 3.121. goedkeuren methoden of voorwaarden transmissie- en distributiesysteembeheerders
 
 1. De Autoriteit Consument en Markt keurt de methoden of voorwaarden die ingevolge [artikel 3.120](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.120&z=2026-02-14&g=2026-02-14) aan haar worden voorgelegd goed indien de resultaten van het overleg met de representatieve organisaties, bedoeld in artikel 3.120, tweede lid, zijn verwerkt in de methoden of voorwaarden en deze methoden of voorwaarden objectief, evenredig, transparant, niet discriminerend, in overeenstemming zijn met deze wet en met bindende EU-rechtshandelingen, en de volgende belangen dienen:
 
@@ -3175,7 +3148,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de procedure voor de goedkeuring van de methoden en voorwaarden.
 
-##### Artikel 3.122. toepassen methoden of voorwaarden beheerders bijzondere systemen
+#### Artikel 3.122. toepassen methoden of voorwaarden beheerders bijzondere systemen
 
 1. Een interconnectorsysteembeheerder past bij de uitvoering van de bij of krachtens [paragraaf 3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&z=2026-02-14&g=2026-02-14) aan hem opgedragen taken of verplichtingen methoden of voorwaarden toe die vooraf zijn goedgekeurd door de Autoriteit Consument en Markt overeenkomstig [artikel 3.123](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.123&z=2026-02-14&g=2026-02-14).
 
@@ -3183,7 +3156,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 3. [Artikel 3.119, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), zijn van overeenkomstige toepassing.
 
-##### Artikel 3.123. goedkeuren methoden of voorwaarden beheerders bijzondere systemen
+#### Artikel 3.123. goedkeuren methoden of voorwaarden beheerders bijzondere systemen
 
 1. De Autoriteit Consument en Markt keurt de methoden of voorwaarden van een interconnectorsysteembeheerder, bedoeld in [artikel 3.122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.122&z=2026-02-14&g=2026-02-14), op basis van een daartoe strekkend voorstel van de betreffende interconnectorsysteembeheerder goed indien deze in overeenstemming zijn met het bepaalde bij of krachtens [verordening 715/2009](32009R0715), [verordening 2019/943](32843R2019) of andere bindende EU-rechtshandelingen.
 
@@ -3195,7 +3168,7 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 5. Bij ministeriële regeling kunnen ten aanzien van de methoden of voorwaarden van de LNG-beheerder, bedoeld in het tweede lid, nadere regels worden gesteld over de procedure tot goedkeuring van de methoden of voorwaarden en de publicatie en inwerkingtreding van de methoden of voorwaarden.
 
-##### Artikel 3.124. ontheffing methoden en voorwaarden
+#### Artikel 3.124. ontheffing methoden en voorwaarden
 
 1. De Autoriteit Consument en Markt kan op verzoek voor een in de ontheffing te bepalen periode ontheffing verlenen van [artikel 3.119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), indien onverkorte toepassing daarvan naar het oordeel van de Autoriteit Consument en Markt in het voorliggende geval ongewenste gevolgen heeft en de vereisten en belangen, bedoeld in [artikel 3.121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.121&z=2026-02-14&g=2026-02-14), zich daar niet tegen verzetten.
 
@@ -3217,13 +3190,13 @@ De transmissiesysteembeheerder voor elektriciteit op zee brengt tarieven in reke
 
 #### Paragraaf 3.6.6. Overige verplichtingen t.a.v. overeenkomsten met aangeslotenen, netgebruikers, marktdeelnemers en balanceringsverantwoordelijken
 
-##### Artikel 3.125. algemene voorwaarden
+#### Artikel 3.125. algemene voorwaarden
 
 1. Indien een transmissie- of distributiesysteembeheerder, een transmissiesysteembeheerder voor elektriciteit op zee, een interconnectorsysteembeheerder of een LNG-beheerder bij het sluiten van overeenkomsten algemene voorwaarden toepast waarop [artikel 3.119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), of [artikel 3.122](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.122&z=2026-02-14&g=2026-02-14) niet van toepassing is, zijn deze redelijk, transparant en niet-discriminerend.
 
 2. De [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=236) en [237 van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=237) zijn van toepassing op algemene voorwaarden, bedoeld in het eerste lid, in een overeenkomst tussen een distributiesysteembeheerder en een aangeslotene met een kleine aansluiting die handelt in de uitoefening van een beroep of bedrijf.
 
-##### Artikel 3.126. eisen overeenkomsten met transmissie- en distributiesysteembeheerders
+#### Artikel 3.126. eisen overeenkomsten met transmissie- en distributiesysteembeheerders
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -3233,11 +3206,11 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 ### Afdeling 3.7. Ontheffingen nieuwe systemen
 
-##### Artikel 3.127. ontheffing nieuwe interconnectorsystemen voor elektriciteit
+#### Artikel 3.127. ontheffing nieuwe interconnectorsystemen voor elektriciteit
 
 Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend geval, Acer, hierover advies heeft uitgebracht, op een verzoek om ontheffing als bedoeld in artikel 63 van [verordening 2019/943](32843R2019).
 
-##### Artikel 3.128. ontheffing nieuwe interconnectorsystemen voor gas
+#### Artikel 3.128. ontheffing nieuwe interconnectorsystemen voor gas
 
 1. Onze Minister kan voor een nieuw interconnectorsysteem voor gas op verzoek ontheffing verlenen van de [artikelen 3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-02-14&g=2026-02-14), en [3.2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14), voor wat betreft het vereiste dat het interconnectorsysteem direct of indirect in eigendom moet zijn van de rechtspersoon die aanwijzing verzoekt, [artikel 3.90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.90&z=2026-02-14&g=2026-02-14), ten aanzien van het van overeenkomstige toepassing verklaarde [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.10&z=2026-02-14&g=2026-02-14), artikel 3.90, derde lid, ten aanzien van het van overeenkomstige toepassing verklaarde [artikel 3.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.4&artikel=3.47&z=2026-02-14&g=2026-02-14), en [artikel 3.122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.122&z=2026-02-14&g=2026-02-14), voor een in de ontheffing te bepalen periode, indien wordt voldaan aan de volgende voorwaarden:
 
@@ -3253,7 +3226,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 2. Het eerste lid is van overeenkomstige toepassing op aanmerkelijke uitbreidingen van de capaciteit van bestaande interconnectorsystemen en op wijzigingen van de interconnectorsystemen die de ontwikkeling van nieuwe bronnen van gasvoorziening bevorderen.
 
-##### Artikel 3.129. ontheffing nieuwe LNG-systemen of gasopslagsystemen
+#### Artikel 3.129. ontheffing nieuwe LNG-systemen of gasopslagsystemen
 
 1. Onze Minister kan voor een nieuw LNG-systeem of gasopslagsysteem op verzoek een ontheffing verlenen van het bepaalde bij of krachtens de [artikelen 3.94, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=3.94&z=2026-02-14&g=2026-02-14), [3.100, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=3.100&z=2026-02-14&g=2026-02-14), [3.103](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.4&artikel=3.103&z=2026-02-14&g=2026-02-14), [3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.115&z=2026-02-14&g=2026-02-14), [3.122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.122&z=2026-02-14&g=2026-02-14), voor een in de ontheffing bepaalde periode, indien wordt voldaan aan de volgende voorwaarden:
 
@@ -3271,7 +3244,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 3. De ontheffing kan betrekking hebben op het gehele nieuwe systeem onderscheidenlijk de aanmerkelijke uitbreiding of wijziging van een bestaand systeem dan wel op gedeelten daarvan.
 
-##### Artikel 3.130. procedure en voorschriften en beperkingen ontheffing nieuwe interconnectorsystemen, LNG-systemen of gasopslagsystemen
+#### Artikel 3.130. procedure en voorschriften en beperkingen ontheffing nieuwe interconnectorsystemen, LNG-systemen of gasopslagsystemen
 
 1. Onze Minister beslist zo spoedig mogelijk op een aanvraag om een ontheffing als bedoeld in [artikel 3.128, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.7&artikel=3.128&z=2026-02-14&g=2026-02-14), of [artikel 3.129, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.7&artikel=3.129&z=2026-02-14&g=2026-02-14), maar uiterlijk binnen zes maanden na ontvangst van de aanvraag.
 
@@ -3303,7 +3276,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 ### Afdeling 4.1. Gegevens en processen
 
-##### Artikel 4.1. gegevens en processen
+#### Artikel 4.1. gegevens en processen
 
 1. Gegevens binnen de reikwijdte van deze wet kunnen worden onderscheiden in gegevens die worden verzameld, aangeleverd, ontvangen, bewerkt, verstrekt, waar toegang toe is en die worden uitgewisseld.
 
@@ -3329,7 +3302,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 4. Dit hoofdstuk is niet van toepassing op de toegang tot en de uitwisseling van gegevens die op grond van de verordeningen genoemd in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.23&z=2026-02-14&g=2026-02-14) worden uitgewisseld, met uitzondering van bij ministeriële regeling aangewezen gegevens uit een bij ministeriële regeling aangewezen EU-verordening.
 
-##### Artikel 4.2. controle bij verzamelen gegevens
+#### Artikel 4.2. controle bij verzamelen gegevens
 
 1. Een partij die gegevens verzamelt of bewerkt draagt zorg voor de betrouwbaarheid en volledigheid daarvan en past redelijke procedures voor correctie van gegevens toe.
 
@@ -3337,7 +3310,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van het eerste lid.
 
-##### Artikel 4.3. zorgplicht gegevensbeveiliging
+#### Artikel 4.3. zorgplicht gegevensbeveiliging
 
 1. Een partij die gegevens verzamelt, aanlevert, ontvangt, bewerkt of in een register heeft opgenomen, neemt passende en evenredige technische en organisatorische maatregelen om de risico’s voor de beveiliging van die gegevens te beheersen.
 
@@ -3347,7 +3320,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de maatregelen, bedoeld in het eerste, tweede en derde lid.
 
-##### Artikel 4.4. melden incidenten
+#### Artikel 4.4. melden incidenten
 
 1. Een partij als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2026-02-14&g=2026-02-14), meldt onverwijld bij Onze Minister een inbreuk op de beveiliging van gegevens met aanzienlijke gevolgen voor:
 
@@ -3363,7 +3336,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 ### Afdeling 4.2. Registers
 
-##### Artikel 4.5. register transmissie- of distributiesysteembeheerder
+#### Artikel 4.5. register transmissie- of distributiesysteembeheerder
 
 1. Een transmissie- of distributiesysteembeheerder houdt een register bij waarin hij bij ministeriële regeling te bepalen gegevens opneemt die hij op grond van deze wet verzamelt of bewerkt over:
 
@@ -3405,7 +3378,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 3. Bij ministeriële regeling worden regels gesteld over de frequentie waarmee en de termijn waarbinnen een transmissie- of distributiesysteembeheerder gegevens verzamelt, bewerkt en opneemt in het register.
 
-##### Artikel 4.6. register beheerder gesloten systeem
+#### Artikel 4.6. register beheerder gesloten systeem
 
 1. Een beheerder van een gesloten systeem, met uitzondering van de beheerder, bedoeld in [artikel 1 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), houdt een register bij waarin hij bij ministeriële regeling te bepalen gegevens opneemt die hij op grond van deze wet verzamelt of bewerkt over:
 
@@ -3447,7 +3420,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 5. Gegevens worden niet langer bewaard dan noodzakelijk is voor het doel van gebruik.
 
-##### Artikel 4.7. register meetverantwoordelijke partij
+#### Artikel 4.7. register meetverantwoordelijke partij
 
 1. Een meetverantwoordelijke partij houdt ter uitvoering van [artikel 2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.48&z=2026-02-14&g=2026-02-14) en [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.56&z=2026-02-14&g=2026-02-14) een register bij waarin hij bij ministeriële regeling te bepalen gegevens opneemt die hij verzamelt of bewerkt over:
 
@@ -3457,7 +3430,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 2. Bij ministeriële regeling worden regels gesteld over de frequentie waarmee en de termijn waarbinnen een meetverantwoordelijke partij gegevens verzamelt, bewerkt en opneemt in het register.
 
-##### Artikel 4.8. aanleveren gegevens
+#### Artikel 4.8. aanleveren gegevens
 
 1. Een leverancier levert de bij ministeriële regeling te bepalen door hem verzamelde gegevens aan bij een daarbij bepaalde registerbeheerder met betrekking tot:
 
@@ -3533,7 +3506,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 - c. de voorwaarden waaronder gegevens moeten worden aangeleverd.
 
-##### Artikel 4.9. gebruiken en verstrekken gegevens transmissie- of distributiesysteembeheerder
+#### Artikel 4.9. gebruiken en verstrekken gegevens transmissie- of distributiesysteembeheerder
 
 1. Een transmissie- of distributiesysteembeheerder gebruikt de bij ministeriële regeling te bepalen gegevens die in zijn register zijn opgenomen voor de uitvoering van zijn wettelijke taken of verplichtingen met betrekking tot het:
 
@@ -3581,7 +3554,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 4. Een transmissie- of distributiesysteembeheerder verstrekt de gegevens, bedoeld in het tweede en derde lid, middels de faciliteit van de gegevensuitwisselingsentiteit en geeft de gegevensuitwisselingsentiteit ter uitvoering van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.16&z=2026-02-14&g=2026-02-14) toegang tot zijn register.
 
-##### Artikel 4.10. gebruiken en verstrekken gegevens beheerder gesloten systeem
+#### Artikel 4.10. gebruiken en verstrekken gegevens beheerder gesloten systeem
 
 1. Een beheerder van een gesloten systeem gebruikt de bij ministeriële regeling te bepalen gegevens die in zijn register zijn opgenomen voor de uitvoering van zijn wettelijke taken of verplichtingen met betrekking tot het:
 
@@ -3615,7 +3588,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 4. Een beheerder van een gesloten systeem verstrekt de gegevens, bedoeld in het eerste en tweede lid, middels een faciliteit van de gegevensuitwisselingsentiteit en geeft de gegevensuitwisselingsentiteit ter uitvoering van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.16&z=2026-02-14&g=2026-02-14) toegang tot zijn register.
 
-##### Artikel 4.11. gebruiken en verstrekken gegevens meetverantwoordelijke partij
+#### Artikel 4.11. gebruiken en verstrekken gegevens meetverantwoordelijke partij
 
 1. Een meetverantwoordelijke partij verstrekt aan een marktdeelnemer, balanceringsverantwoordelijke, systeembeheerder en Onze Minister de bij ministeriële regeling te bepalen gegevens die in zijn register zijn opgenomen ten behoeve van het:
 
@@ -3635,7 +3608,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 3. Een meetverantwoordelijke partij verstrekt de gegevens, bedoeld in het eerste en tweede lid, middels een faciliteit van de gegevensuitwisselingsentiteit en geeft de gegevensuitwisselingsentiteit ter uitvoering van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.16&z=2026-02-14&g=2026-02-14) toegang tot zijn register.
 
-##### Artikel 4.12. register andere partijen
+#### Artikel 4.12. register andere partijen
 
 1. Bij algemene maatregel van bestuur kan:
 
@@ -3657,7 +3630,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 3. Een aangewezen partij verstrekt de gegevens, bedoeld in het tweede lid, middels de faciliteit van de gegevensuitwisselingsentiteit en geeft de gegevensuitwisselingsentiteit ter uitvoering van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.16&z=2026-02-14&g=2026-02-14) toegang tot zijn register.
 
-##### Artikel 4.13. controle van gegevens door registerbeheerder
+#### Artikel 4.13. controle van gegevens door registerbeheerder
 
 1. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2026-02-14&g=2026-02-14) gaat een registerbeheerder bij het ontvangen van gegevens de betrouwbaarheid en volledigheid daarvan na en past hij redelijke procedures voor correctie van gegevens door de partij van wie hij de gegevens heeft ontvangen toe.
 
@@ -3669,7 +3642,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van het eerste, tweede en derde lid.
 
-##### Artikel 4.14. identificatie door registerbeheerder
+#### Artikel 4.14. identificatie door registerbeheerder
 
 1. Een registerbeheerder neemt passende en evenredige technische en organisatorische maatregelen ter identificatie, authenticatie en autorisatie van degene die op grond van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.2&artikel=4.8&z=2026-02-14&g=2026-02-14) gegevens aanlevert.
 
@@ -3677,13 +3650,13 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 ### Afdeling 4.3. Taken van de gegevensuitwisselingsentiteit
 
-##### Artikel 4.15. gegevensuitwisselingsentiteit
+#### Artikel 4.15. gegevensuitwisselingsentiteit
 
 1. De transmissie- en distributiesysteembeheerders richten gezamenlijk een rechtspersoon op die de taken van de gegevensuitwisselingsentiteit uitvoert en houden gezamenlijk de zeggenschap over deze rechtspersoon.
 
 2. De transmissie- en distributiesysteembeheerders voorzien de gegevensuitwisselingsentiteit van voldoende middelen ter uitvoering van de bij of krachtens de [artikelen 4.16 tot en met 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.16&z=2026-02-14&g=2026-02-14) opgedragen taken.
 
-##### Artikel 4.16. toegang en uitwisseling
+#### Artikel 4.16. toegang en uitwisseling
 
 1. De gegevensuitwisselingsentiteit geeft overeenkomstig het bepaalde bij en krachtens de [artikelen 4.8 tot en met 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.2&artikel=4.8&z=2026-02-14&g=2026-02-14) toegang tot en faciliteert de uitwisseling van de gegevens, bedoeld in de [artikelen 4.8 tot en met 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.2&artikel=4.8&z=2026-02-14&g=2026-02-14).
 
@@ -3695,7 +3668,7 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de gegevens die worden opgenomen in het register.
 
-##### Artikel 4.17. procedures voor toegang en uitwisseling
+#### Artikel 4.17. procedures voor toegang en uitwisseling
 
 1. De gegevensuitwisselingsentiteit neemt passende en evenredige technische en organisatorische maatregelen om te zorgen voor toegang tot en uitwisseling van gegevens ten behoeve van de verschillende processen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-02-14&g=2026-02-14).
 
@@ -3707,11 +3680,11 @@ Onze Minister beslist, nadat de Autoriteit Consument en Markt, of in voorkomend 
 
 5. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het tweede en derde lid.
 
-##### Artikel 4.18. weigeren toegang
+#### Artikel 4.18. weigeren toegang
 
 De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toegang tot en de uitwisseling van gegevens weigeren indien die partij de procedures, bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.17&z=2026-02-14&g=2026-02-14), niet naleeft.
 
-##### Artikel 4.19. efficiënte en gemakkelijke toegang
+#### Artikel 4.19. efficiënte en gemakkelijke toegang
 
 1. De gegevensuitwisselingsentiteit verleent binnen een redelijke termijn op een gemakkelijke wijze toegang tot gegevens ten behoeve van de processen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-02-14&g=2026-02-14).
 
@@ -3721,7 +3694,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 4. De gegevensuitwisselingsentiteit brengt geen kosten in rekening voor de toegang tot en uitwisseling van gegevens ten behoeve van de processen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 4.20. identificatie door gegevensuitwisselingsentiteit
+#### Artikel 4.20. identificatie door gegevensuitwisselingsentiteit
 
 1. De gegevensuitwisselingsentiteit neemt bij het verlenen van toegang tot gegevens passende en evenredige technische en organisatorische maatregelen ter identificatie, authenticatie en autorisatie:
 
@@ -3737,7 +3710,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 5. De gegevensuitwisselingsentiteit is bij de toepassing van het vierde lid bevoegd de registraties, bedoeld in [artikel 3, eerste lid, onder d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3) te raadplegen.
 
-##### Artikel 4.21. gegevensbescherming en gegevensbeveiliging
+#### Artikel 4.21. gegevensbescherming en gegevensbeveiliging
 
 1. De gegevensuitwisselingsentiteit neemt passende en evenredige technische en organisatorische maatregelen om de risico’s te beheersen:
 
@@ -3751,7 +3724,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de maatregelen, bedoeld in het eerste, tweede en derde lid.
 
-##### Artikel 4.22. melden incidenten
+#### Artikel 4.22. melden incidenten
 
 1. De gegevensuitwisselingsentiteit meldt onverwijld bij Onze Minister een inbreuk op de beveiliging van gegevens met aanzienlijke gevolgen voor:
 
@@ -3765,7 +3738,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de melding, informatieverstrekking aan Onze Minister en openbaarmaking.
 
-##### Artikel 4.23. rapportageverplichting
+#### Artikel 4.23. rapportageverplichting
 
 1. De gegevensuitwisselingsentiteit rapporteert jaarlijks aan de Autoriteit Consument en Markt over de uitvoering van zijn taken en maakt deze rapportage openbaar.
 
@@ -3773,7 +3746,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de eisen waaraan de rapportages moeten voldoen.
 
-##### Artikel 4.24. klachtenprocedure
+#### Artikel 4.24. klachtenprocedure
 
 1. De gegevensuitwisselingsentiteit voorziet in een transparante en eenvoudige procedure voor de behandeling van klachten van degene die gegevens aanlevert die in een register als bedoeld in [artikel 4.16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.3&artikel=4.16&z=2026-02-14&g=2026-02-14), zijn opgenomen en degene die toegang vraagt tot gegevens ten behoeve de processen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-02-14&g=2026-02-14).
 
@@ -3785,7 +3758,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 ### Afdeling 4.4. Overleg en afspraken
 
-##### Artikel 4.25. overleg en afspraken
+#### Artikel 4.25. overleg en afspraken
 
 1. De gegevensuitwisselingsentiteit treedt in overleg met de overige partijen die voor de processen, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-02-14&g=2026-02-14), overeenkomstig het bepaalde bij of krachtens deze wet gegevens dienen te verzamelen, aanleveren, ontvangen, bewerken, verstrekken of uitwisselen, alsmede met anderen die een belang hebben bij de uitvoering van deze processen, ten einde tot afspraken te komen die nodig zijn voor een effectieve, efficiënte en betrouwbare elektronische uitwisseling van gegevens ten behoeve van voornoemde processen.
 
@@ -3797,7 +3770,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 ### Afdeling 5.1. Uitvoering door Autoriteit Consument en Markt
 
-##### Artikel 5.1. aanwijzen regulerende instantie en taken ACM
+#### Artikel 5.1. aanwijzen regulerende instantie en taken ACM
 
 1. De Autoriteit Consument en Markt is de nationale regulerende instantie, bedoeld in artikel 39, eerste lid, van [richtlijn 2009/73](32009L0073) en artikel 57, eerste lid, van [richtlijn 2019/944](32019L0944) en uit dien hoofde belast met de taken die aan de nationale regulerende instantie zijn opgedragen bij of krachtens [verordening 715/2009](32009R0715), [verordening 1227/2011](32011R1227), [verordening 2017/1938](31938R2017), [verordening 2019/941](32841R2019), [verordening 2019/942](32842R2019), [verordening 2019/943](32843R2019) en [verordening 2022/869](32769R2022).
 
@@ -3815,7 +3788,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 4. De Autoriteit Consument en Markt houdt bij de uitoefening van de haar bij of krachtens deze wet toegekende taken en bevoegdheden rekening met artikel 40 van [richtlijn 2009/73](32009L0073) en artikel 58 van [richtlijn 2019/944](32019L0944).
 
-##### Artikel 5.2. markttoezicht levering
+#### Artikel 5.2. markttoezicht levering
 
 1. De Autoriteit Consument en Markt ziet er op toe dat huishoudelijk eindafnemers en micro-ondernemingen verzekerd zijn van de levering van elektriciteit of gas tegen concurrerende, eenvoudig en duidelijk vergelijkbare, transparante, redelijke en niet-discriminerende prijzen.
 
@@ -3825,13 +3798,13 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 4. Bij ministeriële regeling worden met het oog op de uitvoering van de taak, bedoeld in het eerste lid, regels gesteld over de verstrekking van gegevens door leveranciers aan de Autoriteit Consument en Markt.
 
-##### Artikel 5.3. jaarlijks verslag ACM
+#### Artikel 5.3. jaarlijks verslag ACM
 
 1. De Autoriteit Consument en Markt stelt jaarlijks een verslag op over de uitvoering van de haar bij of krachtens deze wet opgedragen taken. Het verslag bevat een overzicht van de behaalde resultaten en genomen maatregelen.
 
 2. De Autoriteit Consument en Markt zendt het verslag toe aan Onze Minister, Acer en de Europese Commissie.
 
-##### Artikel 5.4. geschillenbeslechting partij-systeembeheerder door ACM
+#### Artikel 5.4. geschillenbeslechting partij-systeembeheerder door ACM
 
 1. Een partij die een geschil heeft met een systeembeheerder over de wijze waarop deze beheerder zijn taken en bevoegdheden op grond van deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan een klacht bij de Autoriteit Consument en Markt indienen. Een klacht omvat een aanvraag om een besluit.
 
@@ -3841,7 +3814,7 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 4. Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende partij een hem ter beschikking staand rechtsmiddel aan te wenden.
 
-##### Artikel 5.5. geschillenbeslechting vraagrespons door ACM
+#### Artikel 5.5. geschillenbeslechting vraagrespons door ACM
 
 1. Als de balanceringsverantwoordelijken, bedoeld in [artikel 2.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.3&artikel=2.41&z=2026-02-14&g=2026-02-14), een geschil hebben over de financiële compensatie of de voorwaarden voor aanpassing van het elektriciteitsprogramma als gevolg van de vraagrespons of de uitwisseling van relevante gegevens, over de vergoeding van eventuele onbalanskosten die hierdoor ontstaan en de uitwisseling van relevante gegevens kan elk van de balanceringsverantwoordelijken een klacht bij de Autoriteit Consument en Markt indienen. Een klacht omvat een aanvraag om een besluit.
 
@@ -3849,13 +3822,13 @@ De gegevensuitwisselingsentiteit kan een partij die om toegang verzoekt de toega
 
 3. Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende partij een hem ter beschikking staand rechtsmiddel aan te wenden.
 
-##### Artikel 5.6. grensoverschrijdende geschillen
+#### Artikel 5.6. grensoverschrijdende geschillen
 
 In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument en Markt onbevoegd te beslissen op een klacht als bedoeld in de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.1&artikel=5.4&z=2026-02-14&g=2026-02-14) respectievelijk [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.1&artikel=5.5&z=2026-02-14&g=2026-02-14), als de systeembeheerder waartegen de klacht is gericht onder de rechtsmacht van een andere lidstaat van de Europese Unie valt, dan wel, indien het een interconnectorsysteembeheerder voor gas betreft, onder de rechtsmacht van een ander land valt.
 
 ### Afdeling 5.2. Uitvoering door Onze Minister
 
-##### Artikel 5.7. aanwijzen Minister als bevoegde instantie
+#### Artikel 5.7. aanwijzen Minister als bevoegde instantie
 
 1. Onze Minister is belast met de taken die bij algemene maatregel van bestuur kunnen worden vastgesteld:
 
@@ -3869,19 +3842,19 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 - b. kunnen procedurevoorschriften worden gesteld ter uitvoering van de in onderdeel a bedoelde taken of bevoegdheden.
 
-##### Artikel 5.8. voorzieningen capaciteit en kwaliteit
+#### Artikel 5.8. voorzieningen capaciteit en kwaliteit
 
 1. Indien naar het oordeel van de Autoriteit Consument en Markt blijkt dat een transmissie- of distributiesysteembeheerder in onvoldoende mate of niet op een doelmatige wijze kan of zal kunnen voorzien in het door hem te bereiken niveau van de kwaliteit van zijn transportdienst of de totale behoefte aan capaciteit voor het transport van elektriciteit of gas over de door hem beheerde systemen, meldt zij dat na overleg met de desbetreffende beheerder aan Onze Minister.
 
 2. Nadat Onze Minister een melding heeft ontvangen, kan hij aan de desbetreffende beheerder opdragen voorzieningen te treffen teneinde zeker te stellen dat het transport van elektriciteit of gas in voldoende mate of op een doelmatige wijze plaatsvindt.
 
-##### Artikel 5.9. maatregelen functioneren transmissie- of distributiesysteembeheerder
+#### Artikel 5.9. maatregelen functioneren transmissie- of distributiesysteembeheerder
 
 1. Indien Onze Minister vaststelt dat een transmissie- of distributiesysteembeheerder niet meer voldoet aan de eisen om te worden aangewezen, kan hij de desbetreffende beheerder opdragen door hem noodzakelijk geachte voorzieningen te treffen.
 
 2. Indien een transmissie- of distributiesysteembeheerder niet voldoet aan een opdracht als bedoeld in het eerste lid, indien Onze Minister vaststelt dat opdrachten, bedoeld in [artikel 5.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.2&artikel=5.8&z=2026-02-14&g=2026-02-14), niet worden uitgevoerd of indien naar zijn oordeel door de bedrijfsvoering van deze beheerder de continuïteit of de betrouwbaarheid van de elektriciteits- of gasvoorziening in gevaar komt en onverwijld ingrijpen noodzakelijk is, kan Onze Minister de aanwijzing van de desbetreffende beheerder vervallen verklaren en uiterlijk op de dag waarop die aanwijzing vervalt een andere rechtspersoon als transmissie- of distributiesysteembeheerder aanwijzen.
 
-##### Artikel 5.10. aanwijzen stille curator
+#### Artikel 5.10. aanwijzen stille curator
 
 1. Indien naar het oordeel van Onze Minister door de bedrijfsvoering van een transmissie- of distributiesysteembeheerder de continuïteit of de betrouwbaarheid van de leveringszekerheid of de voorzieningszekerheid in gevaar komt en onverwijld ingrijpen noodzakelijk is, kan Onze Minister de desbetreffende beheerder aanzeggen dat hij vanaf een bepaald tijdstip voor een bepaalde termijn de opdrachten dient op te volgen die aan hem worden gegeven door een door Onze Minister aangewezen persoon.
 
@@ -3891,7 +3864,7 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 4. Voor schade die is voorgekomen uit handelen dat is verricht in strijd met het belang, bedoeld in het tweede lid, zijn bestuurders van de transmissie- of distributiesysteembeheerder persoonlijk aansprakelijk.
 
-##### Artikel 5.11. beschermingsmaatregelen energiemarkt
+#### Artikel 5.11. beschermingsmaatregelen energiemarkt
 
 1. Onze Minister kan een transmissie- of distributiesysteembeheerder voor gas bij een plotselinge crisis op de energiemarkt of wanneer de fysieke veiligheid van personen, de veiligheid of betrouwbaarheid van apparatuur of installaties of de systeemintegriteit worden bedreigd, opdragen maatregelen als bedoeld in artikel 46 van [richtlijn 2009/73](32009L0073) te nemen. Aan de opdracht kunnen voorwaarden, voorschriften en beperkingen worden verbonden.
 
@@ -3899,13 +3872,13 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 3. Bij ministeriële regeling kunnen met het oog op het tegengaan en beheersen van elektriciteitscrises regels worden gesteld ter uitvoering van risicoparaatheidsplannen voor elektriciteit als bedoeld in hoofdstuk III, van [verordening 2019/941](32841R2019).
 
-##### Artikel 5.12. strategische reserve
+#### Artikel 5.12. strategische reserve
 
 1. Onze Minister kan de transmissiesysteembeheerder voor elektriciteit opdragen een strategische reserve in te richten als bedoeld in artikel 21, derde lid, van [verordening 2019/943](32843R2019).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de strategische reserve, bedoeld in het eerste lid.
 
-##### Artikel 5.13. analyse leveringszekerheid en voorzieningszekerheid
+#### Artikel 5.13. analyse leveringszekerheid en voorzieningszekerheid
 
 1. Onze Minister verzamelt en analyseert systematisch inlichtingen en geaggregeerde gegevens met betrekking tot de leveringszekerheid en de voorzieningszekerheid.
 
@@ -3921,13 +3894,13 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 - c. over de wijze waarop bekendheid wordt gegeven aan een verslag.
 
-##### Artikel 5.14. subsidie transmissiesysteem voor elektriciteit op zee
+#### Artikel 5.14. subsidie transmissiesysteem voor elektriciteit op zee
 
 1. Onze Minister kan een subsidie verstrekken aan een transmissiesysteembeheerder voor elektriciteit op zee ter dekking van de door de Autoriteit Consument en Markt op grond van [artikel 3.118](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.118&z=2026-02-14&g=2026-02-14) vastgestelde toegestane vergoeding voor de uitvoering van zijn wettelijke taken, met uitzondering van de taken bedoeld in [artikel 3.117](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.117&z=2026-02-14&g=2026-02-14).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het verstrekken van de subsidie.
 
-##### Artikel 5.15. nadeelcompensatie
+#### Artikel 5.15. nadeelcompensatie
 
 1. Onze Minister kan een eindafnemer als bedoeld in [artikel 2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.63&z=2026-02-14&g=2026-02-14), een vergoeding toekennen indien het verbod, bedoeld in dat artikel, voor die eindafnemer schade veroorzaakt die uitgaat boven het normale maatschappelijke risico en die de eindafnemer in vergelijking met anderen onevenredig zwaar treft.
 
@@ -3953,7 +3926,7 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 ### Afdeling 5.3. Toezicht op de naleving
 
-##### Artikel 5.17. toezicht op naleving door ACM
+#### Artikel 5.17. toezicht op naleving door ACM
 
 1. De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde:
 
@@ -3963,7 +3936,7 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 2. Het eerste lid is niet van toepassing voor zover Onze Minister de geadresseerde is.
 
-##### Artikel 5.18. toezicht op naleving door Onze Minister
+#### Artikel 5.18. toezicht op naleving door Onze Minister
 
 1. Onze Minister is belast met het toezicht op de naleving van:
 
@@ -3977,13 +3950,13 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 ### Afdeling 5.4. Handhaving
 
-##### Artikel 5.19. last onder dwangsom
+#### Artikel 5.19. last onder dwangsom
 
 1. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen in geval van overtreding van de voorschriften waarvoor het toezicht op de naleving aan haar is opgedragen krachtens [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.3&artikel=5.17&z=2026-02-14&g=2026-02-14).
 
 2. Onze Minister kan een last onder dwangsom opleggen in geval van overtreding van de voorschriften waarvoor het toezicht op de naleving aan hem is opgedragen krachtens [artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.3&artikel=5.18&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 5.20. bindende gedragslijn en bindende aanwijzing
+#### Artikel 5.20. bindende gedragslijn en bindende aanwijzing
 
 1. De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verband met de naleving van voorschriften waarvoor het toezicht op de naleving aan haar is opgedragen krachtens [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.3&artikel=5.17&z=2026-02-14&g=2026-02-14).
 
@@ -3993,7 +3966,7 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 - b. de uitvoering van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.25&z=2026-02-14&g=2026-02-14), voor zover het gaat om de bescherming van het transmissie- of distributiesysteem tegen invloeden van buitenaf.
 
-##### Artikel 5.21. bestuurlijke boete
+#### Artikel 5.21. bestuurlijke boete
 
 1. De Autoriteit Consument en Markt of Onze Minister kan, indien deze belast is met het toezicht op de naleving van deze artikelen, de overtreder per overtreding een bestuurlijke boete opleggen in geval van overtreding van:
 
@@ -4039,7 +4012,7 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 ### Afdeling 5.5. Verstrekken en gebruiken gegevens en inlichtingen
 
-##### Artikel 5.22. verstrekken gegevens en inlichtingen aan Onze Minister
+#### Artikel 5.22. verstrekken gegevens en inlichtingen aan Onze Minister
 
 1. Eenieder verstrekt Onze Minister desgevraagd de gegevens, bescheiden of inlichtingen en verschaft hem desgevraagd inzage in de gegevens of bescheiden die redelijkerwijs nodig zijn voor de uitvoering van zijn taken.
 
@@ -4047,7 +4020,7 @@ In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument
 
 3. Zij die uit hoofde van ambt, beroep of enig wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-##### Artikel 5.23. delegatiegrondslag gegevens
+#### Artikel 5.23. delegatiegrondslag gegevens
 
 Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder met betrekking tot zijn wettelijke taken of verplichtingen regels worden gesteld over:
 
@@ -4055,7 +4028,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 - b. het bewaren, registreren en openbaar maken van gegevens en bescheiden.
 
-##### Artikel 5.24. gebruik gegevens en inlichtingen door Onze Minister
+#### Artikel 5.24. gebruik gegevens en inlichtingen door Onze Minister
 
 1. Gegevens, bescheiden of inlichtingen die Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet of van EU-verordeningen en EU-besluiten inzake elektriciteit of gas verkrijgt, mogen uitsluitend worden gebruikt voor de toepassing van deze wet, die EU-verordeningen en EU-besluiten en van een andere wettelijke regeling dan deze wet die de toepassing of mede de toepassing van bepalingen op het gebied van elektriciteit of gas betreffen, voor zover die bescheiden, gegevens of inlichtingen noodzakelijk zijn voor de uitoefening van zijn taak.
 
@@ -4075,13 +4048,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 4. Indien Onze Minister op grond van [artikel 5.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.2&artikel=5.13&z=2026-02-14&g=2026-02-14), een transmissiesysteembeheerder opdraagt werkzaamheden te verrichten, zijn het eerste tot en met het derde lid van overeenkomstige toepassing op die systeembeheerder.
 
-##### Artikel 5.25. verstrekken gegevens aan Acer
+#### Artikel 5.25. verstrekken gegevens aan Acer
 
 1. In afwijking van [artikel 7, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=7) en onverminderd artikel 7, derde lid, van die wet is de Autoriteit Consument en Markt bevoegd gegevens of inlichtingen te verstrekken aan Acer, voor zover die gegevens of inlichtingen van betekenis kunnen zijn voor de uitoefening van de taak van Acer.
 
 2. [Artikel 7, vierde lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=7) is van overeenkomstige toepassing.
 
-##### Artikel 5.26. verstrekken gegevens en inlichtingen aan Europese Commissie
+#### Artikel 5.26. verstrekken gegevens en inlichtingen aan Europese Commissie
 
 1. De Europese Commissie kan van een marktdeelnemer, een transmissiesysteembeheerder of interconnectorsysteembeheerder de gegevens, bescheiden of inlichtingen verlangen die zij nodig heeft voor de uitvoering van artikel 52 van [richtlijn 2019/944](32019L0944) of artikel 10 van [richtlijn 2009/73](32009L0073).
 
@@ -4089,7 +4062,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 ### Afdeling 5.6. Retributies
 
-##### Artikel 5.27. retributies Minister
+#### Artikel 5.27. retributies Minister
 
 1. Overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels is een door Onze Minister vast te stellen vergoeding verschuldigd voor kosten die samenhangen met het behandelen van een aanvraag om of het geven van een beschikking inzake een bij of krachtens deze wet door Onze Minister te verlenen instemming, aanwijzing, ontheffing of vergunning.
 
@@ -4103,7 +4076,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 ### Afdeling 6.1. Projectbesluit
 
-##### Artikel 6.1. projectbesluit Minister
+#### Artikel 6.1. projectbesluit Minister
 
 1. Werken met een nationaal belang waarvoor Onze Minister in ieder geval een projectbesluit als bedoeld in [afdeling 5.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=5.2) vaststelt, zijn de volgende projecten:
 
@@ -4139,7 +4112,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 6. Voor projecten als bedoeld in het eerste lid, onderdeel e, stelt Onze Minister, in overeenstemming met Onze Minister van Volkshuisvesting en Ruimtelijke Ordening, een handleiding vast als bedoeld in artikel 9, eerste lid, van de verordening, genoemd in dat onderdeel.
 
-##### Artikel 6.2. projectbesluit gedeputeerde staten
+#### Artikel 6.2. projectbesluit gedeputeerde staten
 
 1. Werken met een provinciaal belang waarvoor gedeputeerde staten in ieder geval een projectbesluit als bedoeld in [afdeling 5.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=5.2) vaststellen, zijn de volgende projecten:
 
@@ -4155,7 +4128,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 ### Afdeling 6.2. Investeringstoetsen
 
-##### Artikel 6.3. wijziging zeggenschap LNG en productie elektriciteit
+#### Artikel 6.3. wijziging zeggenschap LNG en productie elektriciteit
 
 1. Iedere wijziging van zeggenschap als bedoeld in [artikel 26 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=26) over een LNG-systeem of in een onderneming die eigenaar is van een LNG-systeem wordt voorafgaand aan de wijziging door één van de bij de wijziging betrokken partijen binnen een bij ministeriële regeling te bepalen termijn gemeld aan Onze Minister.
 
@@ -4175,7 +4148,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 #### Paragraaf 6.3.1. Nationaal plan energiesysteem
 
-##### Artikel 6.4. Nationaal plan energiesysteem
+#### Artikel 6.4. Nationaal plan energiesysteem
 
 1. Onze Minister stelt ten minste eens in de vijf jaar een Nationaal plan energiesysteem vast.
 
@@ -4199,7 +4172,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 - f. een overzicht van en visie op de beoogde resultaten van het in het tweede lid bedoelde rijksbeleid en de wijzen waarop die resultaten zullen worden nagestreefd.
 
-##### Artikel 6.5. procedure en verantwoording Nationaal plan energiesysteem
+#### Artikel 6.5. procedure en verantwoording Nationaal plan energiesysteem
 
 1. Onze Minister legt een ontwerp van een Nationaal plan energiesysteem aan eenieder ter consultatie voor.
 
@@ -4217,7 +4190,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 #### Paragraaf 6.3.2. Raad voor Energie
 
-##### Artikel 6.6. instelling Raad voor Energie
+#### Artikel 6.6. instelling Raad voor Energie
 
 1. Er is een Raad voor Energie.
 
@@ -4225,7 +4198,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 3. De voorzitter en de leden hebben aantoonbare expertise en ervaring ten aanzien van energiebeleid en vraagstukken met betrekking tot leveringszekerheid en energieonafhankelijkheid.
 
-##### Artikel 6.7. taak Raad voor Energie
+#### Artikel 6.7. taak Raad voor Energie
 
 1. De Raad voor Energie heeft tot taak de regering en beide kamers der Staten-Generaal te adviseren over het te voeren beleid, gericht op:
 
@@ -4243,17 +4216,17 @@ Bij of krachtens algemene maatregel van bestuur kunnen voor een systeembeheerder
 
 ### Afdeling 6.4. Parlementaire betrokkenheid bij gedelegeerde regelgeving
 
-##### Artikel 6.8. voorhangprocedure
+#### Artikel 6.8. voorhangprocedure
 
 De voordracht voor een krachtens de [artikelen 3.20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.20&z=2026-02-14&g=2026-02-14), [3.27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.27&z=2026-02-14&g=2026-02-14), [3.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.36&z=2026-02-14&g=2026-02-14), en [3.87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&artikel=3.87&z=2026-02-14&g=2026-02-14), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
 ### Afdeling 6.5. Verhoudingen andere wetten
 
-##### Artikel 6.9. verhouding tot Burgerlijk Wetboek
+#### Artikel 6.9. verhouding tot Burgerlijk Wetboek
 
 Voor de toepassing van [artikel 20, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20) wordt een systeem beschouwd als een net.
 
-##### Artikel 6.10. verhouding tot [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691)
+#### Artikel 6.10. verhouding tot [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691)
 
 1. De [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) is mede van toepassing op het continentaal plat ten aanzien van het verrichten van transport van gas met behulp van een gasproductienet.
 
@@ -4261,11 +4234,11 @@ Voor de toepassing van [artikel 20, tweede lid, van Boek 5 van het Burgerlijk We
 
 ### Afdeling 6.6. Overige bepalingen
 
-##### Artikel 6.11. belanghebbende representatieve organisaties
+#### Artikel 6.11. belanghebbende representatieve organisaties
 
 Een representatieve organisatie van partijen op de elektriciteits- of gasmarkt wordt geacht belanghebbende te zijn bij besluiten van de Autoriteit Consument en Markt als bedoeld in [Afdeling 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 6.12. decentrale overheden
+#### Artikel 6.12. decentrale overheden
 
 1. Provinciale staten en de gemeenteraad zijn niet bevoegd het produceren, transporteren, opslaan of leveren van elektriciteit of gas in het belang van de energievoorziening aan regels te binden.
 
@@ -4279,7 +4252,7 @@ Een representatieve organisatie van partijen op de elektriciteits- of gasmarkt w
 
 - c. voor zover minder dan 50 procent mede-eigendom is overeengekomen, wat de redenen daarvan zijn en of er andere vormen van financiële participatie zijn overeengekomen.
 
-##### Artikel 6.13. grondslag regels ter uitvoering EU-besluiten
+#### Artikel 6.13. grondslag regels ter uitvoering EU-besluiten
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de uitvoering van EU-verordeningen krachtens artikel 194 van het Verdrag betreffende de werking van de Europese Unie.
 
@@ -4293,7 +4266,7 @@ Een representatieve organisatie van partijen op de elektriciteits- of gasmarkt w
 
 6. Indien een bindende EU-rechtshandeling waarnaar in deze wet of de daarop berustende bepalingen wordt verwezen, in het kader van hercodificatie wordt ingetrokken en vervangen door een nieuwe bindende EU-rechtshandeling, kunnen bij ministeriële regeling de verwijzingen naar de ingetrokken bindende EU-rechtshandeling worden vervangen door verwijzingen naar de nieuwe bindende EU-rechtshandeling.
 
-##### Artikel 6.14. laadinfrastructuur elektrisch vervoer
+#### Artikel 6.14. laadinfrastructuur elektrisch vervoer
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de laadinfrastructuur voor elektrisch vervoer ter uitvoering van bindende onderdelen van EU-rechtshandelingen op het gebied van elektrisch vervoer.
 
@@ -4303,21 +4276,21 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ### Afdeling 7.2. Overgangsrecht
 
-##### Artikel 7.21. overgangsrecht leveringsvergunning
+#### Artikel 7.21. overgangsrecht leveringsvergunning
 
 Als op grond van [artikel 95d van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95d) of [artikel 45 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=45), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.18&z=2026-02-14&g=2026-02-14), een vergunning is verleend, wordt deze vergunning voor de duur van deze vergunning aangemerkt als een vergunning als bedoeld in artikel 2.18, derde lid.
 
-##### Artikel 7.22. overgangsrecht intrekken leveringsvergunning
+#### Artikel 7.22. overgangsrecht intrekken leveringsvergunning
 
 Indien op grond van [artikel 95f, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95f) en [artikel 47, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=47), zoals die luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=2.25&z=2026-02-14&g=2026-02-14), kleinverbruikers zijn toegedeeld aan een aangewezen vergunninghouder, blijven de regels krachtens genoemde artikelen van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) en de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) ten aanzien van de verbintenissen met kleinverbruikers van toepassing.
 
-##### Artikel 7.23. overgangsrecht eisen meetinrichtingen grote aansluitingen elektriciteit (E3-meetinrichtingen)
+#### Artikel 7.23. overgangsrecht eisen meetinrichtingen grote aansluitingen elektriciteit (E3-meetinrichtingen)
 
 1. Indien voor inwerkingtreding van [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14) een aangeslotene met grote aansluiting met een gecontracteerd vermogen van minder dan 0,1 MW, met uitzondering van een aangeslotene als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=1&artikel=1.3&z=2026-02-14&g=2026-02-14), beschikt over een meetinrichting zonder communicatiefunctionaliteit die voldoet aan de krachtens [artikel 36 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=36) gestelde voorwaarden zoals deze luidden voor de inwerkingtreding van artikel 2.46, mag een aangeslotene deze meetinrichting tot en met 31 december 2025 gebruiken.
 
 2. Indien voor inwerkingtreding van [artikel 3.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.55&z=2026-02-14&g=2026-02-14), bij een systeemkoppeling tussen een distributiesysteem en een transmissiesysteem voor elektriciteit op grond van de krachtens [artikel 36 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=36) gestelde voorwaarden zoals deze luidden voor de inwerkingtreding van artikel 3.55, eerste lid, geen meetinrichting is vereist, beschikt deze systeemkoppeling uiterlijk op 31 december 2029 over een geïnstalleerde meetinrichting.
 
-##### Artikel 7.24. overgangsrecht meetinrichtingen en verzamelen meetgegevens maatschappelijke multisites (A1-meetinrichtingen)
+#### Artikel 7.24. overgangsrecht meetinrichtingen en verzamelen meetgegevens maatschappelijke multisites (A1-meetinrichtingen)
 
 1. Een meetinrichting zonder communicatiefunctionaliteit waarover een aangeslotene als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=1&artikel=1.3&z=2026-02-14&g=2026-02-14), voor inwerkingtreding van [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14) beschikt, wordt tot 1 januari 2028 aangemerkt als een meetinrichting die voldoet aan de krachtens artikel 2.46, derde lid, gestelde eisen.
 
@@ -4327,13 +4300,13 @@ Indien op grond van [artikel 95f, tweede lid, van de Elektriciteitswet 1998](htt
 
 - b. verzamelt een erkende meetverantwoordelijke partij bij deze aangeslotene uiterlijk op 1 januari 2028 de meetgegevens met de krachtens [artikel 2.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.48&z=2026-02-14&g=2026-02-14), vastgestelde frequentie.
 
-##### Artikel 7.25. overgangsrecht eisen meetinrichtingen en verzamelen meetgegevens grote aansluitingen gas (G2C-meetinrichtingen)
+#### Artikel 7.25. overgangsrecht eisen meetinrichtingen en verzamelen meetgegevens grote aansluitingen gas (G2C-meetinrichtingen)
 
 1. Indien voor inwerkingtreding van [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14) een aangeslotene met grote aansluiting op een systeem voor gas met een jaarlijks verbruik van ten hoogste 170.000 m3 gas beschikt over een meetinrichting zonder communicatiefunctionaliteit die voldoet aan de krachtens [artikel 12f van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12f) gestelde voorwaarden zoals deze luidden voor de inwerkingtreding van artikel 2.46, mag een aangeslotene deze meetinrichting tot en met 31 december 2026 gebruiken.
 
 2. Een erkende meetverantwoordelijke partij verzamelt bij een aangeslotene als bedoeld in het eerste lid, uiterlijk op 1 januari 2027 de meetgegevens met de krachtens [artikel 2.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.48&z=2026-02-14&g=2026-02-14), vastgestelde frequentie.
 
-##### Artikel 7.26. overgangsrecht beheer meetinrichtingen
+#### Artikel 7.26. overgangsrecht beheer meetinrichtingen
 
 1. Indien voor inwerkingtreding van deze wet door een systeembeheerder op verzoek een meetinrichting ter beschikking is gesteld aan een aangeslotene met een grote aansluiting, blijft de systeembeheerder deze meetinrichting op verzoek ter beschikking stellen en wordt deze meetinrichting op verzoek van de aangeslotene beheerd door de systeembeheerder.
 
@@ -4347,13 +4320,13 @@ Indien op grond van [artikel 95f, tweede lid, van de Elektriciteitswet 1998](htt
 
 - c. de doorgifte van gegevens van de beheerde meetinrichtingen en meetgegevens aan een bij die ministeriële regeling te bepalen registerbeheerder.
 
-##### Artikel 7.27. overgangsrecht meetinrichtingen kleine aansluitingen
+#### Artikel 7.27. overgangsrecht meetinrichtingen kleine aansluitingen
 
 1. Een meetinrichting met communicatiefunctionaliteit die voor inwerkingtreding van deze wet aan een aangeslotene met een kleine aansluiting ter beschikking is gesteld en die niet of niet geheel voldoet aan de krachtens [artikel 95la, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95la) of de krachtens [artikel 42a, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=42a) gestelde eisen zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, wordt voor 15 jaren, te rekenen vanaf de datum van terbeschikkingstelling aan die aangeslotene aangemerkt als een meetinrichting die voldoet aan de krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), gestelde eisen.
 
 2. Een meetinrichting met communicatiefunctionaliteit die voor inwerkingtreding van deze wet aan een aangeslotene met een kleine aansluiting ter beschikking is gesteld en die tenminste voldoet aan de krachtens [artikel 95la, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95la) of de krachtens [artikel 42a, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=42a) gestelde eisen zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, wordt aangemerkt als een meetinrichting die voldoet aan de krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), gestelde eisen.
 
-##### Artikel 7.28. regels tijdens uitrol meetinrichtingen met communicatiefunctionaliteit
+#### Artikel 7.28. regels tijdens uitrol meetinrichtingen met communicatiefunctionaliteit
 
 1. Een distributiesysteembeheerder stelt in een bij algemene maatregel van bestuur te bepalen periode op een door hem voorzien tijdstip aan aangeslotenen met een kleine aansluiting een meetinrichting die voldoet aan de krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), gestelde eisen op of nabij het overdrachtspunt beschikbaar, tenzij hij redelijkerwijs niet in staat is die meetinrichting te plaatsen en de oorzaak daarvan niet in de macht van de aangeslotene ligt.
 
@@ -4373,13 +4346,13 @@ Indien op grond van [artikel 95f, tweede lid, van de Elektriciteitswet 1998](htt
 
 6. Een distributiesysteembeheerder zendt Onze Minister de persoonsgegevens van een aangeslotene met een kleine aansluiting indien hij deze aangeslotene een meetinrichting die voldoet aan de krachtens [artikel 2.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), gestelde eisen ter beschikking heeft gesteld maar dit niet heeft geleid tot installatie van die meetinrichting.
 
-##### Artikel 7.29. overgangsrecht erkenning meetverantwoordelijke partij
+#### Artikel 7.29. overgangsrecht erkenning meetverantwoordelijke partij
 
 1. Indien een meetverantwoordelijke partij die de krachtens [artikel 36 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=36) onderscheidenlijk [artikel 12f van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12f) gestelde voorwaarden zoals deze luidden voor de inwerkingtreding van [artikel 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.50&z=2026-02-14&g=2026-02-14), is erkend, wordt deze erkenning tot het tijdstip waarop de Autoriteit Consument en Markt heeft besloten op een aanvraag om een erkenning als bedoeld in artikel 2.50 aangemerkt als een erkenning als bedoeld in artikel 2.50.
 
 2. Een meetverantwoordelijke partij als bedoeld in het eerste lid vraagt binnen twee jaar na inwerkingtreding van [artikel 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.2&artikel=2.50&z=2026-02-14&g=2026-02-14) een erkenning aan bij de Autoriteit Consument en Markt.
 
-##### Artikel 7.30. overgangsrecht garanties van oorsprong
+#### Artikel 7.30. overgangsrecht garanties van oorsprong
 
 1. Een rekening die is geopend op grond van [artikel 73 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=73) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 2.58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.58&z=2026-02-14&g=2026-02-14), wordt aangemerkt als rekening geopend op grond van artikel 2.58, tweede lid.
 
@@ -4393,7 +4366,7 @@ Indien op grond van [artikel 95f, tweede lid, van de Elektriciteitswet 1998](htt
 
 6. Een garantie van oorsprong voor hernieuwbare energiebronnen die is uitgegeven op grond van [artikel 66i van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=66i) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 2.57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.1&artikel=2.57&z=2026-02-14&g=2026-02-14), wordt aangemerkt als garantie van oorsprong voor gas uit hernieuwbare bronnen uitgegeven op grond van artikel 2.57, derde lid.
 
-##### Artikel 7.31. overgangsrecht aanwijzing en certificering
+#### Artikel 7.31. overgangsrecht aanwijzing en certificering
 
 1. Als op grond van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), of [artikel 10Aa, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10Aa) zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.2&z=2026-02-14&g=2026-02-14) een netbeheerder van het landelijk hoogspanningsnet of interconnectorbeheerder is aangewezen, wordt deze aanwijzing voor de duur daarvan aangemerkt als een aanwijzing als bedoeld in artikel 3.2, eerste lid, onderdeel a of onderdeel b.
 
@@ -4413,17 +4386,17 @@ Indien op grond van [artikel 95f, tweede lid, van de Elektriciteitswet 1998](htt
 
 9. Als op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [2b, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2b), zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.4&z=2026-02-14&g=2026-02-14) een netbeheerder of interconnectorbeheerder is gecertificeerd, wordt deze certificering aangemerkt als een certificering als bedoeld in artikel 3.4, eerste lid.
 
-##### Artikel 7.32. overgangsrecht gesloten distributiesysteem
+#### Artikel 7.32. overgangsrecht gesloten distributiesysteem
 
 1. Als op grond van [artikel 15 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=15) zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.6&z=2026-02-14&g=2026-02-14) en [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-02-14&g=2026-02-14), aan een eigenaar van een gesloten distributiesysteem ontheffing is verleend van het gebod van [artikel 10, negende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10) wordt de eigenaar van een gesloten systeem gedurende de tijd waarvoor hij over deze ontheffing beschikt, geacht te beschikken over een erkenning als bedoeld in artikel 3.7 en een aanwijzing als bedoeld in artikel 3.6, onderdeel a.
 
 2. Als op grond van [artikel 2a van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2a), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.6&z=2026-02-14&g=2026-02-14) en [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-02-14&g=2026-02-14), aan een eigenaar van een gesloten distributiesysteem ontheffing is verleend van het gebod van [artikel 2, achtste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), wordt de eigenaar van een gesloten systeem gedurende de tijd waarvoor hij over deze ontheffing beschikt, geacht te beschikken over een erkenning als bedoeld in artikel 3.7 en een aanwijzing als bedoeld in artikel 3.6, onderdeel b.
 
-##### Artikel 7.33. overgangsrecht directe lijn
+#### Artikel 7.33. overgangsrecht directe lijn
 
 Als op grond van [artikel 9h van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=9h) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.1&artikel=3.9&z=2026-02-14&g=2026-02-14) of op basis van [artikel 39h van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=39h), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.9 een melding is gedaan, wordt deze melding aangemerkt als een melding als bedoeld in artikel 3.9, tweede lid.
 
-##### Artikel 7.34. overgangsrecht eigendom systemen
+#### Artikel 7.34. overgangsrecht eigendom systemen
 
 1. Het beheer van een systeem met een spanningsniveau van 110 kilovolt of van 150 kilovolt door een transmissiesysteembeheerder voor elektriciteit geschiedt voor zover dat, en op een wijze die, in overeenstemming is met de rechten van derden die voortvloeien uit een overeenkomst als bedoeld in [artikel V, eerste lid, van de Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=V) (Stb. 2006, 614) met betrekking tot dat systeem.
 
@@ -4433,35 +4406,35 @@ Als op grond van [artikel 9h van de Elektriciteitswet 1998](https://wetten.overh
 
 4. De transmissiesysteembeheerder voor gas behoeft, in afwijking van [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.14&z=2026-02-14&g=2026-02-14), niet over de eigendom te beschikken van een aansluitleiding en daarmee verbonden hulpmiddelen die een buiten Nederland gelegen gasopslagsysteem verbindt met het transmissiesysteem voor gas indien hij onmiddellijk voorafgaand aan inwerkingtreding van artikel 3.14 niet over de eigendom van deze aansluitleiding en daarmee verbonden hulpmiddelen beschikte.
 
-##### Artikel 7.35. overgangsrecht leidingen op zee
+#### Artikel 7.35. overgangsrecht leidingen op zee
 
 Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van elektriciteit die één of meer windparken op zee verbinden met een transmissiesysteem voor elektriciteit en waarvoor voor de datum waarop deze wet in werking treedt een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) is verleend, geacht geen onderdeel uit te maken van het transmissiesysteem voor elektriciteit op zee.
 
-##### Artikel 7.36. werkzaamheden transmissie- of distributiesysteembeheerders
+#### Artikel 7.36. werkzaamheden transmissie- of distributiesysteembeheerders
 
 1. Als op grond van [artikel 17, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=17) en [artikel 10Aa, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10Aa), zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.17&z=2026-02-14&g=2026-02-14), werkzaamheden werden uitgevoerd of uitbesteed, die op grond van artikel 3.17, eerste lid, niet langer zijn toegestaan, mogen deze gedurende vijf jaar worden voortgezet.
 
 2. Indien voor inwerkingtreding van [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.17&z=2026-02-14&g=2026-02-14), een transformator en de daaraan verbonden installaties ter beschikking is gesteld aan een eindafnemer, blijft de systeembeheerder deze transformator en de daaraan verbonden installaties ter beschikking stellen en wordt deze transformator beheerd door de systeembeheerder.
 
-##### Artikel 7.37. overgangsbepaling investeringsplan
+#### Artikel 7.37. overgangsbepaling investeringsplan
 
 1. Een transmissie- of distributiesysteembeheerder voor elektriciteit stelt voor de eerste maal een investeringsplan als bedoeld in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.34&z=2026-02-14&g=2026-02-14) op, twee jaar nadat zij voor de laatste maal een investeringsplan heeft opgesteld op grond van [artikel 21 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=21) zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.34. Tot dat tijdstip wordt het laatste investeringsplan dat is opgesteld op grond van artikel 21 van de Elektriciteitswet 1998 zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.35&z=2026-02-14&g=2026-02-14), beschouwd als investeringsplan als bedoeld in dat voorschrift.
 
 2. Een transmissie- of distributiesysteembeheerder voor gas stelt voor de eerste maal een investeringsplan als bedoeld in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.34&z=2026-02-14&g=2026-02-14) op, twee jaar nadat zij voor de laatste maal een investeringsplan heeft opgesteld op grond van [artikel 7a van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=7a) zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.34. Tot dat tijdstip wordt het laatste investeringsplan dat ze op grond van artikel 7a van de Gaswet zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.35&z=2026-02-14&g=2026-02-14), beschouwd als investeringsplan als bedoeld in dat voorschrift.
 
-##### Artikel 7.38. overgangsbepaling gebiedsindeling
+#### Artikel 7.38. overgangsbepaling gebiedsindeling
 
 1. Het besluit van de Autoriteit Consument en Markt van 21 april 2016 inzake de Gebiedsindeling elektriciteit, als bedoeld in [artikel 31, eerste lid, onderdeel d, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31), zoals dat is gepubliceerd op de website van de Autoriteit Consument en Markt, en zoals dat nadien is gewijzigd, wordt geacht te zijn een besluit genomen krachtens [artikel 3.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.37&z=2026-02-14&g=2026-02-14). De Autoriteit Consument en Markt publiceert dit besluit in de Staatscourant.
 
 2. Het besluit van de Autoriteit Consument en Markt van 21 april 2016 inzake de Gebiedsindeling gas, onderdeel van de voorwaarden als bedoeld in [artikel 12b van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b), zoals dat is gepubliceerd op de website van de Autoriteit Consument en Markt, en zoals dat nadien is gewijzigd, wordt geacht te zijn een besluit genomen krachtens [artikel 3.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.37&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 7.39. overgangsbepaling aanwijzen gebieden waar verbod aansluiten nieuwbouw niet geldt of waar een alternatieve infrastructuur voor warmte aanwezig is
+#### Artikel 7.39. overgangsbepaling aanwijzen gebieden waar verbod aansluiten nieuwbouw niet geldt of waar een alternatieve infrastructuur voor warmte aanwezig is
 
 1. Een besluit van een college van burgemeester en wethouders dat voorafgaand aan inwerkingtreding van deze wet is genomen krachtens [artikel 10, zevende lid, onderdeel a, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), wordt geacht te zijn een besluit genomen krachtens [artikel 3.40, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.40&z=2026-02-14&g=2026-02-14).
 
 2. Een besluit van een college van burgemeester en wethouders dat voorafgaand aan inwerkingtreding van deze wet is genomen krachtens [artikel 10, zevende lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), wordt geacht te zijn een besluit genomen krachtens [artikel 3.42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.42&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 7.40. overgangsbepaling methodebesluiten en tarievenbesluiten
+#### Artikel 7.40. overgangsbepaling methodebesluiten en tarievenbesluiten
 
 1. Indien op basis van [artikel 41, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=41), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.108](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.108&z=2026-02-14&g=2026-02-14), of op basis van [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81), of [82, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=82), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.108, een methodebesluit is vastgesteld waarvan de geldigheidsperiode nog niet is verstreken, wordt dit methodebesluit geacht te zijn vastgesteld op basis van artikel 3.108, eerste lid.
 
@@ -4473,7 +4446,7 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 5. In de situatie, bedoeld in het vierde lid, wordt het besluit dat wordt vastgesteld met overeenkomstige toepassing van [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.110&z=2026-02-14&g=2026-02-14), in afwijking van dat [artikel 3.118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.4&artikel=3.118&z=2026-02-14&g=2026-02-14), vastgesteld met inachtneming van de relevante bepalingen bij of krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), zoals deze luidden onmiddellijk voorafgaand aan inwerkingtreding van artikel 3.118, voor het vaststellen van de totale toegestane of beoogde inkomsten voor een betreffend jaar.
 
-##### Artikel 7.41. overgangsbepaling meettarieven
+#### Artikel 7.41. overgangsbepaling meettarieven
 
 1. De tarieven voor het in gebruik geven en beheren van een meetinrichting, als bedoeld in [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.51&z=2026-02-14&g=2026-02-14), worden vastgesteld op basis van [artikel 40a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=40a) respectievelijk [artikel 81e, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81e) en de krachtens deze artikelen vastgestelde [Regeling meettarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0028965), zoals die luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, tot het moment waarop voor de eerste maal na inwerkingtreding van deze wet de op grond van [artikel 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.2&artikel=3.110&z=2026-02-14&g=2026-02-14) vastgestelde tarieven in werking treden.
 
@@ -4481,7 +4454,7 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 3. De cumulatieve verschillen, bedoeld in het tweede lid, worden over een door de Autoriteit Consument en Markt te bepalen periode gebruikt om de totale toegestane of beoogde inkomsten en de tarieven voor het in gebruik geven en beheren van een meetinrichting, als bedoeld in [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.51&z=2026-02-14&g=2026-02-14), te corrigeren.
 
-##### Artikel 7.42. overgangsbepaling tariefstructuren en voorwaarden
+#### Artikel 7.42. overgangsbepaling tariefstructuren en voorwaarden
 
 1. Tariefstructuren of voorwaarden die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.121](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.121&z=2026-02-14&g=2026-02-14) overeenkomstig [hoofdstuk 3, paragraaf 5, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&paragraaf=5) en [paragraaf 2.2 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&paragraaf=2.2) van kracht waren, worden, voor zover vallend binnen de reikwijdte van [artikel 3.119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.119&z=2026-02-14&g=2026-02-14), beschouwd als op grond van [artikel 3.121](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.121&z=2026-02-14&g=2026-02-14) goedgekeurde methoden of voorwaarden.
 
@@ -4491,7 +4464,7 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 4. Op een overeenkomst tussen een transmissie- of distributiesysteembeheerder of de transmissiesysteembeheerder voor elektriciteit op zee en een aangeslotene, netgebruiker, marktdeelnemer of balanceringsverantwoordelijke die onmiddellijk voor het tijdstip van inwerkingtreding van [paragraaf 3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&z=2026-02-14&g=2026-02-14) van kracht was, zijn de methoden of voorwaarden, bedoeld in [artikel 3.121](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.121&z=2026-02-14&g=2026-02-14), van toepassing.
 
-##### Artikel 7.43. overgangsbepaling ontheffing methoden en voorwaarden
+#### Artikel 7.43. overgangsbepaling ontheffing methoden en voorwaarden
 
 1. Een ontheffing die onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.124&z=2026-02-14&g=2026-02-14), overeenkomstig [artikel 37a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=37a) of [artikel 12h van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12h) van kracht is, wordt voor de duur van deze ontheffing gelijkgesteld met een ontheffing als bedoeld in artikel 3.124.
 
@@ -4499,7 +4472,7 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 3. Een ontheffing die overeenkomstig het tweede lid wordt verleend wordt, zodra deze onherroepelijk is geworden, gelijkgesteld met een ontheffing als bedoeld in [artikel 3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.124&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 7.44. overgangsbepaling methoden en voorwaarden met Europese grondslag
+#### Artikel 7.44. overgangsbepaling methoden en voorwaarden met Europese grondslag
 
 1. Methoden of voorwaarden die zijn vastgesteld op grond van een krachtens [artikel 39 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=39) of [artikel 35a van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=35a) vastgestelde algemene maatregel van bestuur worden gelijkgesteld met methoden of voorwaarden als bedoeld in [artikel 3.121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&artikel=3.121&z=2026-02-14&g=2026-02-14).
 
@@ -4507,7 +4480,7 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 3. Op een overeenkomst tussen een transmissiesysteembeheerder of de transmissiesysteembeheerder voor elektriciteit op zee en een aangeslotene, netgebruiker, marktdeelnemer, of balanceringsverantwoordelijke die onmiddellijk voor het tijdstip van inwerkingtreding van [paragraaf 3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.6&paragraaf=3.6.5&z=2026-02-14&g=2026-02-14) van kracht was, zijn de methoden of voorwaarden van de transmissiesysteembeheerder, bedoeld het eerste en tweede lid, van toepassing.
 
-##### Artikel 7.45. overgangsrecht ontheffingen
+#### Artikel 7.45. overgangsrecht ontheffingen
 
 1. Als op grond van [artikel 16, vierde lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=16) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 3.26, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.26&z=2026-02-14&g=2026-02-14), een ontheffing is verleend, wordt deze ontheffing voor de duur daarvan aangemerkt als een ontheffing als bedoeld in artikel 3.26, eerste lid, onderdeel c.
 
@@ -4517,7 +4490,7 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 - b. indien deze is verleend voor een gasopslaginstallatie of een LNG-installatie, voor de duur daarvan aangemerkt als een ontheffing als bedoeld in [artikel 3.129](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.7&artikel=3.129&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 7.46. overgangsbepaling omschakelen
+#### Artikel 7.46. overgangsbepaling omschakelen
 
 1. Als op grond van [artikel 10g, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10g), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 2.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.6&paragraaf=2.6.2&artikel=2.63&z=2026-02-14&g=2026-02-14), een melding is gedaan, wordt deze melding aangemerkt als een melding als bedoeld in artikel 2.63, tweede lid.
 
@@ -4529,33 +4502,33 @@ Voor de toepassing van deze wet worden leidingen en daarmee verbonden hulpmiddel
 
 5. Als op grond van [artikel 10m, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m), zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.2&artikel=5.14&z=2026-02-14&g=2026-02-14), een vergoeding is toegekend, worden deze vergoeding aangemerkt als vergoeding als bedoeld in artikel 5.14, eerste lid.
 
-##### Artikel 7.47. overgangsrecht bestaande experimenten
+#### Artikel 7.47. overgangsrecht bestaande experimenten
 
 1. Als op grond van de [artikelen 7a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=7a) en [1i van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1i) zoals deze artikelen luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, een ontheffing is verleend, blijft deze ontheffing van kracht voor de duur van die ontheffing.
 
 2. Onze Minister zendt de Tweede Kamer der Staten-Generaal uiterlijk drie maanden na de beëindiging van een experiment een verslag over de doeltreffendheid en de effecten ervan, alsmede een standpunt inzake de wenselijkheid van wijziging van wet- of regelgeving.
 
-##### Artikel 7.48. overgangsrecht kleine velden
+#### Artikel 7.48. overgangsrecht kleine velden
 
 [Artikel 66d, vierde lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=66d) zoals dat luidde voor inwerkingtreding van het bij koninklijke boodschap van 19 mei 2020 ingediende voorstel van wet tot wijziging van de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) (het verwijderen of hergebruiken van mijnbouwwerken en investeringsaftrek) (Kamerstukken 35 462) blijft van toepassing op reeds aangegane verplichtingen ter uitvoering van de taak, bedoeld in [artikel 54, eerste lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=54) zoals dat luidde voor inwerkingtreding van dat voorstel van wet.
 
-##### Artikel 7.49. overgangsrecht aansluiting voor gas
+#### Artikel 7.49. overgangsrecht aansluiting voor gas
 
 1. Onder een aansluiting voor gas wordt mede verstaan een aansluitpunt, dat bestaat uit een deel van de aansluiting van het transmissiesysteem of distributiesysteem tot en met de eerste afsluiter die is aangelegd voor 1 januari 2019.
 
 2. Indien sprake is van een aansluitpunt als bedoeld in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) zoals die luidde voor 1 januari 2019, beperkt de taak, bedoeld in [artikel 3.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.41&z=2026-02-14&g=2026-02-14), zich tot het in gebruik geven, beheren en onderhouden van dat aansluitpunt.
 
-##### Artikel 7.50. overgangsrecht raffinaderijgas
+#### Artikel 7.50. overgangsrecht raffinaderijgas
 
 De gaskwaliteitseisen in [bijlage 3 bij de Regeling gaskwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0035367&bijlage=3), zoals die luidde voor het tijdstip van inwerkingtreding van artikel 1 en [artikel 3.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.3&artikel=3.38&z=2026-02-14&g=2026-02-14), blijven van toepassing het raffinaderijgas-systeem, bedoeld in [bijlage 8 bij die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035367&bijlage=8).
 
-##### Artikel 7.51. overgangsrecht aanhangige procedures
+#### Artikel 7.51. overgangsrecht aanhangige procedures
 
 1. De op het tijdstip van inwerkingtreding van de desbetreffende bepaling van deze wet aanhangige aanvragen tot en verzoeken om het nemen van besluiten op grond van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) en de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) en bezwaren tegen besluiten op grond van de Elektriciteitswet 1998 en de Gaswet worden, met uitzondering van de besluiten en bezwaren tegen besluiten, bedoeld in [artikel 7.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=7&afdeling=7.2&artikel=7.42&z=2026-02-14&g=2026-02-14), geacht met ingang van dat tijdstip van rechtswege aanvragen, verzoeken en bezwaren te zijn op grond van deze wet.
 
 2. Overtredingen van het bepaalde bij of krachtens de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) en de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) worden afgehandeld overeenkomstig de Elektriciteitswet 1998 en de Gaswet, zoals deze wetten luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=5&afdeling=5.4&z=2026-02-14&g=2026-02-14).
 
-##### Artikel 7.52. overgangsregime meten
+#### Artikel 7.52. overgangsregime meten
 
 1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&artikel=5), [6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&artikel=6), en [9 van het Besluit op afstand uitleesbare meetinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0030605&artikel=9), zoals die luidden onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=2&afdeling=2.5&paragraaf=2.5.1&artikel=2.46&z=2026-02-14&g=2026-02-14), blijven na inwerkingtreding van artikel 2.46 van toepassing, totdat de bij ministeriële regeling te stellen regels, bedoeld in dat artikel, zijn vastgesteld en in werking getreden.
 
@@ -4569,7 +4542,7 @@ De gaskwaliteitseisen in [bijlage 3 bij de Regeling gaskwaliteit](https://wetten
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing, bedoeld in het tweede tot en met vierde lid, en kunnen voorwaarden worden uitgezonderd van deze toepassing.
 
-##### Artikel 7.53. overgangsregime gegevensuitwisseling
+#### Artikel 7.53. overgangsregime gegevensuitwisseling
 
 1. [Artikel 13 van het Besluit factuur, verbruiks- en indicatief kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&artikel=13), zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&hoofdstuk=4&afdeling=4.2&artikel=4.9&z=2026-02-14&g=2026-02-14), blijft na inwerkingtreding van artikel 4.9 van toepassing, totdat de bij ministeriële regeling te stellen regels, bedoeld in artikel 4.9, derde lid, zijn vastgesteld en in werking getreden.
 

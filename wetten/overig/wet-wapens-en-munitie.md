@@ -1,41 +1,14 @@
 ---
-title: "Wet van 5 juli 1997, houdende regels inzake het vervaardigen, verhandelen, vervoeren, voorhanden hebben, dragen enz. van wapens en munitie (Wet wapens en munitie)"
+title: "Wet wapens en munitie"
 identifier: "BWBR0008804"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008804"
-soort: "wet"
-stam_id: "2763383"
-version_id: "28149302"
-internal_id: "C40438591"
-label_id: "2710884"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008804/2026-01-01/0"
-intitule_bron: "Stb.1997-292"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-07-05"
-intitule_published: "1997-07-10"
-intitule_in_force: "1997-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2021-544"
-original_signed_date: "2021-11-04"
-original_published_date: "2021-11-11"
-original_effect: "structuurwijziging"
-original_dossier: "35564"
-original_url_id: "stb-2021-544"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0008804&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0008804&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet wapens en munitie"
-signed_date: "2021-11-04"
-entry_into_force: "2022-07-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0008804"
 ---
-# Wet van 5 juli 1997, houdende regels inzake het vervaardigen, verhandelen, vervoeren, voorhanden hebben, dragen enz. van wapens en munitie (Wet wapens en munitie)
+
+# Wet wapens en munitie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -45,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -85,7 +58,7 @@ In deze wet wordt verstaan onder:
 
 - 18°. onbruikbaar gemaakte vuurwapens: vuurwapens als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn die voorgoed onbruikbaar zijn gemaakt als bedoeld in artikel 1, eerste lid, onderdeel 6, van de Richtlijn.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld in de volgende categorieën.
 
@@ -181,7 +154,7 @@ Alle overige munitie.
 
 4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub 7°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die specifiek bestemd zijn voor die wapens, de essentiële onderdelen van vuurwapens en op de onderdelen van wapens die van wezenlijke aard zijn.
 
@@ -189,7 +162,7 @@ Alle overige munitie.
 
 3. Magazijnen voor vuurwapens als bedoeld in artikel 10, eerste lid, van de Richtlijn zijn in elk geval hulpstukken als bedoeld in het eerste lid.
 
-##### Artikel 3a
+#### Artikel 3a
 
 1. De [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01), [20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4a&artikel=20a&z=2026-01-01&g=2026-01-01)[22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2026-01-01&g=2026-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2026-01-01&g=2026-01-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2026-01-01&g=2026-01-01), [32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32a&z=2026-01-01&g=2026-01-01), en [32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7a&artikel=32b&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.
 
@@ -201,7 +174,7 @@ Alle overige munitie.
 
 5. De [artikelen 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2026-01-01&g=2026-01-01) en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op particulier maritiem beveiligingspersoneel dat optreedt krachtens het bepaalde in de [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278).
 
-##### Artikel 4
+#### Artikel 4
 
 1. Onverminderd de artikelen 4 en 9 van verordening (EU) nr. 258/2012 kan Onze Minister van bij of krachtens deze wet vastgestelde voorschriften of verboden vrijstelling of, op daartoe strekkend verzoek, ontheffing verlenen voor daarbij te omschrijven wapens of munitie, behorend tot een van de volgende groepen:
 
@@ -227,15 +200,15 @@ Alle overige munitie.
 
 5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek tot ontheffing.
 
-##### Artikel 5
+#### Artikel 5
 
 Onze Minister kan bij regeling nadere omschrijvingen geven van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), vermelde en de overeenkomstig dat artikel aangewezen wapens, alsmede van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde wapens.
 
-##### Artikel 6
+#### Artikel 6
 
 De in deze wet genoemde erkenningen, consenten, vergunningen, verloven, vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend. Voorts kunnen er voorschriften aan worden verbonden.
 
-##### Artikel 7
+#### Artikel 7
 
 1. De in deze wet genoemde erkenningen, consenten, vergunningen, verloven en ontheffingen worden, onverminderd de bijzondere gronden tot weigering daarvan en onverminderd verordening (EU) nr. 258/2012, geweigerd indien:
 
@@ -269,7 +242,7 @@ De in deze wet genoemde erkenningen, consenten, vergunningen, verloven, vrijstel
 
 5. De in het tweede lid bedoelde verloven en ontheffingen voor vuurwapens als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn worden ingetrokken indien de houder ervan in het bezit is van een magazijn voor een vuurwapen als bedoeld in artikel 10, eerste lid, van de Richtlijn zonder hiervoor een verlof of ontheffing te hebben.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Hij die een wapen of munitie voorhanden heeft, zonder daartoe gerechtigd te zijn, is verplicht deze terstond bij de korpschef in bewaring te geven.
 
@@ -289,7 +262,7 @@ De in deze wet genoemde erkenningen, consenten, vergunningen, verloven, vrijstel
 
 #### § 2. Erkenning
 
-##### Artikel 9
+#### Artikel 9
 
 1. Het is verboden zonder erkenning een wapen of munitie te vervaardigen, te transformeren of in de uitoefening van een bedrijf uit te wisselen, te verhuren of anderszins ter beschikking te stellen, te herstellen, te beproeven of te verhandelen. Dit verbod is ook van toepassing op het onderhandelen over of regelen van transacties voor de aankoop, verkoop of levering van wapens of munitie of het organiseren van de overbrenging van wapens of munitie binnen, naar of vanuit een lidstaat van de Europese Unie.
 
@@ -309,7 +282,7 @@ De in deze wet genoemde erkenningen, consenten, vergunningen, verloven, vrijstel
 
 7. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek tot erkenning of een verzoek tot het verlengen van een erkenning.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Een erkenning wordt geweigerd indien:
 
@@ -321,11 +294,11 @@ De in deze wet genoemde erkenningen, consenten, vergunningen, verloven, vrijstel
 
 2. Voor de bij regeling van Onze Minister te onderscheiden categorieën van erkenningen kunnen verschillende eisen worden vastgesteld.
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
-##### Artikel 12
+#### Artikel 12
 
 Een erkenning kan worden ingetrokken:
 
@@ -337,7 +310,7 @@ Een erkenning kan worden ingetrokken:
 
 #### § 2. Erkenning
 
-##### Artikel 13
+#### Artikel 13
 
 1. Het is verboden een wapen van categorie I te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.
 
@@ -357,7 +330,7 @@ Een erkenning kan worden ingetrokken:
 
 #### § 4. Binnenkomen en uitgaan van wapens en munitie van de categorieën II en III
 
-##### Artikel 14
+#### Artikel 14
 
 1. Het is verboden zonder consent een wapen of munitie van de categorieën II en III te doen binnenkomen of te doen uitgaan, alsmede om de bij binnenkomst aangegeven bestemming van zulke wapens of munitie zonder consent te wijzigen.
 
@@ -381,29 +354,29 @@ Geen vrijstelling kan worden verleend ten aanzien van het, anders dan tijdelijk,
 
 7. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek om een consent.
 
-##### Artikel 15
+#### Artikel 15
 
 Onze Minister kan, na overleg met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, bepalen dat op grond van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) afgegeven vergunningen tevens gelden als consent in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 16
+#### Artikel 16
 
 1. Voor zover het krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=15&z=2026-01-01&g=2026-01-01) bepaalde niet van toepassing is, verleent Onze Minister van Defensie het consent tot binnenkomen ten behoeve van de krijgsmacht en Onze Minister dat ten behoeve van de overige openbare dienst.
 
 2. In alle overige gevallen wordt een consent verleend door het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer.
 
-##### Artikel 17
+#### Artikel 17
 
 Vervallen
 
-##### Artikel 18
+#### Artikel 18
 
 Vervallen
 
-##### Artikel 19
+#### Artikel 19
 
 Vervallen
 
-##### Artikel 20
+#### Artikel 20
 
 1. Een consent tot binnenkomen wordt geweigerd indien de aanvrager niet gerechtigd is de wapens of de munitie in Nederland voorhanden te hebben, tenzij deze zijn bestemd voor overbrenging en opslag onder douaneverband.
 
@@ -411,23 +384,23 @@ Vervallen
 
 3. Wanneer een lidstaat van de Europese Unie het land van bestemming of van doorvoer is van de wapens of munitie waarop de aanvraag betrekking heeft, doet het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer mededeling aan die lidstaat van het verlenen van het consent.
 
-##### Artikel 21
+#### Artikel 21
 
 Vervallen
 
 #### § 5. Vervoer van wapens en munitie van de categorieën II en III
 
-##### Artikel 22
+#### Artikel 22
 
 1. Het is verboden een wapen of munitie van de categorieën II en III te vervoeren zonder vergunning tot vervoer, als bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), dan wel verlof tot vervoer, als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=24&z=2026-01-01&g=2026-01-01).
 
 2. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot sportschutters en jagers, die gerechtigd zijn tot het voorhanden hebben van wapens of munitie, alsmede personen die in de uitoefening van een beroep of bedrijf of als werknemer van de houder van een erkenning als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), wapens of munitie vervoeren.
 
-##### Artikel 23
+#### Artikel 23
 
 Vervallen
 
-##### Artikel 24
+#### Artikel 24
 
 Een verlof tot vervoer wordt, uitsluitend voor wapens en munitie van categorie III, verleend door de korpschef indien:
 
@@ -435,13 +408,13 @@ Een verlof tot vervoer wordt, uitsluitend voor wapens en munitie van categorie I
 
 - b. een redelijk belang de verlening van het verlof vordert.
 
-##### Artikel 25
+#### Artikel 25
 
 Vervallen
 
 #### § 4a. Uitvoer van vuurwapens en munitie opgenomen in bijlage I van verordening (EU) nr. 258/2012
 
-##### Artikel 26
+#### Artikel 26
 
 1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden te hebben.
 
@@ -465,7 +438,7 @@ Vervallen
 
 6. Onze Minister kan bij regeling vrijstelling van het verbod van het vijfde lid verlenen in het kader van in verenigingsverband beoefende sporten of door Onze Minister aangewezen recreatieve activiteiten in daartoe gevestigde bedrijven waarin wapens worden gedragen als bedoeld in [artikel 2, eerste lid, categorie IV, onderdeel 4° en onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01) met betrekking tot kruisbogen.
 
-##### Artikel 27
+#### Artikel 27
 
 1. Het is verboden een wapen van de categorieën II, III en IV te dragen.
 
@@ -487,7 +460,7 @@ Vervallen
 
 - b. recreatieve activiteiten.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Verlof tot het voorhanden hebben van een wapen en munitie wordt, uitsluitend voor wapens en munitie behorend tot categorie III, verleend door de korpschef.
 
@@ -509,7 +482,7 @@ Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen sprake i
 
 6. In afwijking van het eerste lid wordt een verlof niet verstrekt voor een vuurwapen als bedoeld in Categorie A, onderdeel 8, in bijlage I van de Richtlijn.
 
-##### Artikel 28a
+#### Artikel 28a
 
 1. Aan personen die gerechtigd zijn tot het voorhanden hebben van een vuurwapen wordt desverzocht een Europese vuurwapenpas uitgereikt.
 
@@ -517,7 +490,7 @@ Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen sprake i
 
 3. De Europese vuurwapenpas wordt afgegeven door de korpschef en heeft een geldigheidsduur van ten hoogste vijf jaar.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Indien een redelijk belang dit vordert, kan de instantie die een verlof tot het voorhanden hebben van een wapen van categorie III verleent of heeft verleend, bepalen dat dit verlof ook betrekking heeft op het dragen van dit wapen.
 
@@ -525,13 +498,13 @@ Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen sprake i
 
 3. Indien een redelijk belang dit vordert, kan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2026-01-01&g=2026-01-01), bedoelde instantie verlof verlenen tot het dragen van een wapen van categorie IV.
 
-##### Artikel 30
+#### Artikel 30
 
 Vervallen
 
 #### § 7. Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
 
-##### Artikel 31
+#### Artikel 31
 
 1. Het is verboden een wapen of munitie van de categorieën II en III over te dragen.
 
@@ -545,7 +518,7 @@ Vervallen
 
 6. Het eerste tot en met derde lid zijn ook van toepassing op verkoop middels een overeenkomst op afstand als bedoeld in [artikel 230g, eerste lid, onderdeel e, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=230g).
 
-##### Artikel 32
+#### Artikel 32
 
 1. Verlof tot verkrijging van wapens van categorie II of III wordt door de korpschef verleend aan:
 
@@ -561,7 +534,7 @@ Vervallen
 
 #### § 7. Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
 
-##### Artikel 33
+#### Artikel 33
 
 1. Onverminderd [artikel 10, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01), kan Onze Minister, ten behoeve van de beveiliging, eisen vaststellen, waaraan ruimten en vervoermiddelen, waarin wapens of munitie van de categorieën II en III worden bewaard of vervoerd, moeten voldoen. Worden zulke eisen vastgesteld voor ruimten en vervoermiddelen, in gebruik bij de krijgsmacht, dan geschiedt dit door Onze Minister van Defensie.
 
@@ -569,7 +542,7 @@ Vervallen
 
 #### § 9. Beroep
 
-##### Artikel 34
+#### Artikel 34
 
 1. Tegen beschikkingen van de korpschef en het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister.
 
@@ -579,13 +552,13 @@ Vervallen
 
 - b. in de overige gevallen door de aanvrager, dan wel de houder van de erkenning, het consent, de vergunning of het verlof.
 
-##### Artikel 35
+#### Artikel 35
 
 1. De op grond van deze wet verleende erkenningen, vergunningen, verloven en ontheffingen voor vuurwapens als bedoeld in [artikel 1, eerste lid, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), in samenhang met bijlage I, van de Richtlijn, en de op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) verleende omgevingsvergunning voor een jachtgeweeractiviteit voor vuurwapens als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn, worden door de korpschef ingevoerd en bijgehouden in een geautomatiseerd systeem van gegevensbestanden.
 
 2. Bij algemene maatregel van bestuur wordt bepaald welke persoonsgegevens en welke gegevens over de vuurwapens waarvoor een erkenning, vergunning, verlof, ontheffing of omgevingsvergunning voor een jachtgeweeractiviteit is verleend op grond van het eerste lid worden ingevoerd en bijgehouden.
 
-##### Artikel 36
+#### Artikel 36
 
 1. Om te voldoen aan de in artikel 4, vierde lid, van de Richtlijn bedoelde verplichting worden de op grond van artikel 35, tweede lid, ingevoerde en bijgehouden gegevens gedurende een periode van 30 jaar na vernietiging van het vuurwapen of de betreffende essentiële onderdelen van het vuurwapen bewaard.
 
@@ -593,7 +566,7 @@ Vervallen
 
 3. De op grond van [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=9a&artikel=35&z=2026-01-01&g=2026-01-01), ingevoerde en bijgehouden gegevens kunnen door Onze Minister, de politie en het openbaar ministerie ten behoeve van hun taken met betrekking tot de voorkoming, het onderzoek, de opsporing of de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, tot dertig jaar na vernietiging van het vuurwapen of de betreffende essentiële onderdelen van het vuurwapen worden geraadpleegd.
 
-##### Artikel 37
+#### Artikel 37
 
 1. De korpschef verstrekt ter voldoening van de verplichting, bedoeld in artikel 13, vierde lid, van de Richtlijn op elektronische wijze, met gebruikmaking van een hiertoe, op grond van artikel 13, vijfde lid, van de Richtlijn voorzien systeem, aan de bevoegde autoriteiten van andere lidstaten gegevens over vergunningen die zijn verleend voor de overbrenging van vuurwapens als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn, naar een andere lidstaat en gegevens over de weigering om overeenkomstig de artikelen 6 en 7 van de Richtlijn vergunningen te verlenen op grond van veiligheidsoverwegingen of in verband met de betrouwbaarheid van de aanvrager.
 
@@ -601,7 +574,7 @@ Vervallen
 
 #### § 10. Bepalingen over de uitvoering van de wet
 
-##### Artikel 38
+#### Artikel 38
 
 1. Onze Minister kan regels vaststellen over de door de korpschef bij de uitvoering van deze wet te voeren administratie.
 
@@ -609,35 +582,35 @@ Vervallen
 
 3. [Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:22) is van overeenkomstige toepassing.
 
-##### Artikel 39
+#### Artikel 39
 
 Onze Minister kan, onverminderd artikel 4, eerste lid, van verordening (EU) nr. 258/2012, modellen vaststellen van het bewijs van erkenning, de consenten, de vergunningen, de verloven, alsmede van andere ter uitvoering van de wet te gebruiken bescheiden. Deze modellen worden bekendgemaakt in de **Nederlandse Staatscourant**.
 
-##### Artikel 40
+#### Artikel 40
 
 Onze Minister kan regels geven over combinatie van verschillende krachtens deze wet vereiste consenten, vergunningen en verloven, alsmede van andere ter uitvoering van de wet te gebruiken bescheiden.
 
-##### Artikel 41
+#### Artikel 41
 
 Onze Minister geeft regels met betrekking tot het bedrag dat is verschuldigd bij de aanvraag op grond van deze wet van een erkenning, een ontheffing, een consent, een vergunning, een verlof, een Europese vuurwapenpas en een controle als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=10&artikel=43&z=2026-01-01&g=2026-01-01). Het bedrag is verschuldigd aan het Rijk indien de aanvraag wordt ingediend bij Onze Minister of Onze Minister van Defensie, of aan de politie indien de aanvraag bij de korpschef wordt ingediend.
 
-##### Artikel 42
+#### Artikel 42
 
 1. Onze Minister geeft regels betreffende een door de erkende te houden register waarin alle door deze onder enige titel verkregen of overgedragen wapens en munitie worden aangetekend.
 
 2. Onze Minister geeft regels betreffende een door de erkende te verstrekken ontvangstbewijs bij verkrijging van wapens van categorie III van personen die een verlof tot het voorhanden hebben als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2026-01-01&g=2026-01-01) bezitten, dan wel op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2026-01-01&g=2026-01-01), voor de jacht en beheer en schadebestrijding bestemde wapens voorhanden mogen hebben.
 
-##### Artikel 43
+#### Artikel 43
 
 De korpschef is de bevoegde autoriteit voor de controle, bedoeld in artikel 10 ter, eerste lid, van de Richtlijn.
 
-##### Artikel 44
+#### Artikel 44
 
 Ten behoeve van de taakuitoefening op grond van deze wet kan de korpschef persoonsgegevens verwerken waaruit ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen kan blijken, alsmede gegevens betreffende gezondheid, strafrechtelijke veroordelingen of strafbare feiten bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) en [3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2).
 
 #### § 11. Toezicht op de naleving
 
-##### Artikel 45
+#### Artikel 45
 
 1. Met het toezicht op de naleving van het bij en krachtens deze wet bepaalde zijn belast:
 
@@ -653,25 +626,25 @@ Ten behoeve van de taakuitoefening op grond van deze wet kan de korpschef persoo
 
 4. De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-##### Artikel 46
+#### Artikel 46
 
 Vervallen
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 48
+#### Artikel 48
 
 Vervallen
 
 #### § 10. Bepalingen over de uitvoering van de wet
 
-##### Artikel 49
+#### Artikel 49
 
 De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, ter inbeslagneming doorzoeking doen.
 
-##### Artikel 50
+#### Artikel 50
 
 1. De opsporingsambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van:
 
@@ -689,7 +662,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 
 5. Het bevel, bedoeld in het derde lid, wordt schriftelijk gegeven, tenzij dit omwille van de spoed niet mogelijk is. In dat geval wordt het bevel zo spoedig mogelijk op schrift gesteld.
 
-##### Artikel 51
+#### Artikel 51
 
 1. De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:
 
@@ -707,7 +680,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 
 5. Het bevel, bedoeld in het derde lid, wordt schriftelijk gegeven, tenzij dit omwille van de spoed niet mogelijk is. In dat geval wordt het bevel zo spoedig mogelijk op schrift gesteld.
 
-##### Artikel 52
+#### Artikel 52
 
 1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
@@ -727,7 +700,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 
 6. Onze Minister wijst een luchthaven met toepassing van het vijfde lid slechts aan indien dat naar zijn oordeel met het oog op de veiligheid nodig is.
 
-##### Artikel 53
+#### Artikel 53
 
 1. Ingeval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=13&artikel=56a&z=2026-01-01&g=2026-01-01).
 
@@ -735,11 +708,11 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 
 #### § 11a. Opsporing
 
-##### Artikel 54
+#### Artikel 54
 
 Met geldboete van de derde categorie wordt gestraft hij die handelt in strijd met een krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), [8, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=8&artikel=33&z=2026-01-01&g=2026-01-01) of [42](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=10&artikel=42&z=2026-01-01&g=2026-01-01) vastgesteld voorschrift, dan wel in strijd met de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9a&z=2026-01-01&g=2026-01-01), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01), [20a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4a&artikel=20a&z=2026-01-01&g=2026-01-01), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2026-01-01&g=2026-01-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=27&z=2026-01-01&g=2026-01-01), of [31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 55
+#### Artikel 55
 
 1. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), [20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4a&artikel=20a&z=2026-01-01&g=2026-01-01), voor zover het betreft een geluiddemper, [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=5&artikel=22&z=2026-01-01&g=2026-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2026-01-01&g=2026-01-01), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2026-01-01&g=2026-01-01).
 
@@ -761,31 +734,31 @@ Met geldboete van de derde categorie wordt gestraft hij die handelt in strijd me
 
 7. Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt gestraft hij die handelt in strijd met de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=26&z=2026-01-01&g=2026-01-01), of [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=31&z=2026-01-01&g=2026-01-01), en het feit begaat met betrekking tot een wapen van categorie II, onderdeel 2° of onderdeel 7°.
 
-##### Artikel 56
+#### Artikel 56
 
 De in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=54&z=2026-01-01&g=2026-01-01) strafbaar gestelde feiten zijn overtredingen. De in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=55&z=2026-01-01&g=2026-01-01) strafbaar gestelde feiten zijn misdrijven.
 
 #### § 11a. Opsporing
 
-##### Artikel 57
+#### Artikel 57
 
 Na de inwerkingtreding van deze wet berusten de krachtens de Wet wapens en munitie (**Stb.** 1995, 580) vastgestelde regels en andere besluiten op deze wet.
 
-##### Artikel 58
+#### Artikel 58
 
 De Wet wapens en munitie (**Stb.** 1995, 580) wordt ingetrokken.
 
-##### Artikel 59
+#### Artikel 59
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-##### Artikel 60
+#### Artikel 60
 
 Deze wet wordt aangehaald als: Wet wapens en munitie.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 32a
+#### Artikel 32a
 
 1. Een vuurwapen als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn en de essentiële onderdelen daarvan, die op of na 14 september 2018 zijn vervaardigd of ingevoerd in de Europese Unie, zijn voorzien van een duidelijke, blijvende en unieke markering.
 
@@ -805,7 +778,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen in afwijking van het eerste tot en met het vierde lid voorschriften worden gegeven voor de markering van vuurwapens in de zin van de Richtlijn en essentiële onderdelen van vuurwapens die van bijzonder historisch belang zijn.
 
-##### Artikel 32b
+#### Artikel 32b
 
 1. Bij munitie voor een vuurwapen als bedoeld in artikel 1, eerste lid, onderdeel 1, in samenhang met bijlage I, van de Richtlijn, bevat de kleinste verpakkingseenheid van volledige munitie:
 
@@ -837,7 +810,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 4a. Uitvoer van vuurwapens en munitie opgenomen in bijlage I van verordening (EU) nr. 258/2012
 
-##### Artikel 20a
+#### Artikel 20a
 
 1. De [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=4&artikel=20&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op het doen uitgaan van vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, wanneer dat tevens is aan te merken als uitvoer.
 
@@ -853,7 +826,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 7. Onze Minister kan met het oog op de uitvoer van geluiddempers zoals opgenomen in bijlage I van verordening (EU) nr. 258/2012, en onverminderd het bepaalde in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), ontheffing verlenen van een of meer verboden genoemd in artikel 13, eerste lid.
 
-##### Artikel 20b
+#### Artikel 20b
 
 1. Onze Minister kan, na overleg met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, bepalen dat op grond van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) afgegeven vergunningen tevens gelden als uitvoervergunningen.
 
@@ -877,7 +850,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 6a
+#### Artikel 6a
 
 1. Ontheffingen op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), erkenningen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en verloven op grond van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2026-01-01&g=2026-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=29&z=2026-01-01&g=2026-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=32&z=2026-01-01&g=2026-01-01) worden, onverminderd het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), en in afwijking van [artikel 2:1, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1), slechts verleend indien:
 
@@ -895,7 +868,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Bij ministeriële regeling kunnen regels worden gegeven over het bepaalde in het eerste lid. Deze regels kunnen in elk geval betrekking hebben op het door Onze Minister aangewezen onderzoek, bedoeld in het eerste lid, onderdeel b, en de selectie van referenten als bedoeld in het eerste lid, onderdeel c. Ook kan de plaats waar de aanvraag moet worden gedaan worden bepaald.
 
-##### Artikel 7a
+#### Artikel 7a
 
 1. Over aanvragers van een ontheffing, erkenning of verlof als bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6a&z=2026-01-01&g=2026-01-01), of een omgevingsvergunning voor een jachtgeweeractiviteit op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), wordt op verzoek van de korpschef informatie verstrekt door:
 
@@ -915,7 +888,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Bij ministeriële regeling worden regels gegeven over de wijze van verstrekking van de in het eerste en tweede lid bedoelde gegevens.
 
-##### Artikel 7b
+#### Artikel 7b
 
 Op de gegevens die ter uitvoering van het bepaalde in [artikel 6a, eerste lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6a&z=2026-01-01&g=2026-01-01), en [artikel 7a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=7a&z=2026-01-01&g=2026-01-01), worden verwerkt zijn de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16), en [17a tot en met 20 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18) niet van toepassing, tenzij sprake is van verstrekking aan Onze Minister ter uitoefening van een bevoegdheid op grond van deze wet.
 
@@ -945,7 +918,7 @@ Op de gegevens die ter uitvoering van het bepaalde in [artikel 6a, eerste lid, o
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 44
+#### Artikel 44
 
 Vervallen
 
@@ -955,17 +928,17 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 55a
+#### Artikel 55a
 
 1. Bij veroordeling wegens een der misdrijven omschreven in [artikel 55, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=55&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
 
 2. Bij veroordeling wegens een der misdrijven omschreven in [artikel 55, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=55&z=2026-01-01&g=2026-01-01), kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.
 
-##### Artikel 1a
+#### Artikel 1a
 
 Een wijziging van de Richtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-##### Artikel 6b
+#### Artikel 6b
 
 1. Bij algemene maatregel van bestuur kunnen ontheffingen op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) en verloven op grond van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=28&z=2026-01-01&g=2026-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=6&artikel=29&z=2026-01-01&g=2026-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=7&artikel=32&z=2026-01-01&g=2026-01-01) worden aangewezen die, onverminderd het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=6a&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), worden geweigerd indien de aanvrager geen bewijs van lidmaatschap overlegt van een door Onze Minister erkende vereniging.
 
@@ -983,7 +956,7 @@ Een wijziging van de Richtlijn gaat voor de toepassing van deze wet gelden met i
 
 3. Onze Minister weigert, onverminderd het bepaalde in het tweede lid, de erkenning indien er reden is om te vrezen dat door de vereniging of zijn leden misbruik wordt of zal worden gemaakt van wapens of munitie, zoals bedoeld in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 9a
+#### Artikel 9a
 
 1. De houder van een erkenning of de beheerder meldt verdachte transacties rond de verwerving van munitie, als bedoeld in artikel 10, tweede lid, van de Richtlijn bij de korpschef.
 
@@ -1007,7 +980,7 @@ Een wijziging van de Richtlijn gaat voor de toepassing van deze wet gelden met i
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 56a
+#### Artikel 56a
 
 1. Op vordering van het openbaar ministerie kan de rechter bepalen dat aan degene die is veroordeeld wegens een feit strafbaar gesteld in de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=54&z=2026-01-01&g=2026-01-01) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&paragraaf=12&artikel=55&z=2026-01-01&g=2026-01-01), de verplichting wordt opgelegd tot het vergoeden van de kosten die ten laste van de staat komen, in verband met de vernietiging van voorwerpen die ernstig gevaar opleveren voor de leefomgeving of voor de volksgezondheid en ten aanzien waarvan:
 

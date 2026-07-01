@@ -1,42 +1,14 @@
 ---
-title: "Wet van 29 november 1995, tot goedkeuring van het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens alsmede invoering van een belasting met betrekking tot zware motorrijtuigen"
+title: "Wet belasting zware motorrijtuigen"
 identifier: "BWBR0007678"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007678"
-soort: "wet"
-stam_id: "1963563"
-version_id: "2910182"
-internal_id: "C2910181"
-label_id: "1913404"
-dtd_version: "2.0"
-original_entry_into_force: "1995-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007678/2026-01-01/0"
-intitule_bron: "Stb.1995-563"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-29"
-intitule_published: "1995-11-30"
-intitule_in_force: "1995-11-30"
-intitule_status: "goed"
-original_publication: "Stb.1995-563"
-original_signed_date: "1995-11-29"
-original_published_date: "1995-11-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "24070"
-original_url_id: "stb-1995-563"
-entry_into_force_date: "1995-12-01"
-entry_into_force_dossier: "24070"
-jci_1_3: "jci1.3:c:BWBR0007678&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0007678&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet belasting zware motorrijtuigen"
-signed_date: "1995-11-29"
-entry_into_force: "1995-12-01"
+categorie: "Belastingrecht"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007678"
 ---
-# Wet van 29 november 1995, tot goedkeuring van het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens alsmede invoering van een belasting met betrekking tot zware motorrijtuigen
+
+# Wet belasting zware motorrijtuigen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -46,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Goedkeuring verdrag
 
-##### Artikel 1
+#### Artikel 1
 
 Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, waarvan de Nederlandse en Franse tekst is geplaatst in **Tractatenblad** 1994, 69, wordt goedgekeurd voor Nederland.
 
@@ -54,13 +26,13 @@ Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing va
 
 ### Afdeling 1. Belastbaar feit
 
-##### Artikel 2
+#### Artikel 2
 
 Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
 
 ### Afdeling 2. Definities
 
-##### Artikel 3
+#### Artikel 3
 
 In deze wet en in de daarop berustende regelingen wordt verstaan onder:
 
@@ -88,17 +60,17 @@ In deze wet en in de daarop berustende regelingen wordt verstaan onder:
 
 ### Afdeling 3. Voorwerp van de belasting
 
-##### Artikel 4
+#### Artikel 4
 
 De belasting wordt geheven met betrekking tot elk motorrijtuig afzonderlijk.
 
 ### Hoofdstuk III. Belastingplichtige
 
-##### Artikel 5
+#### Artikel 5
 
 De belasting wordt geheven van de houder van het motorrijtuig.
 
-##### Artikel 6
+#### Artikel 6
 
 Als houder wordt aangemerkt:
 
@@ -108,7 +80,7 @@ Als houder wordt aangemerkt:
 
 - c. van een in het buitenland geregistreerd motorrijtuig, degene die het motorrijtuig in Nederland feitelijk ter beschikking heeft.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het motorrijtuig in het kentekenregister, genoemd in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), is gesteld, kan de inspecteur:
 
@@ -118,7 +90,7 @@ Als houder wordt aangemerkt:
 
 2. De inspecteur neemt de beslissing op het verzoek, bedoeld in het eerste lid, onderdeel **a**, en de beslissing, bedoeld in het eerste lid, onderdeel **b**, bij voor bezwaar vatbare beschikking.
 
-##### Artikel 8
+#### Artikel 8
 
 Als degene die het motorrijtuig feitelijk ter beschikking heeft, wordt beschouwd degene ten aanzien van wie het gebruik van de autosnelweg is geconstateerd, met dien verstande dat ingeval het gebruik van de autosnelweg met een in het buitenland geregistreerd motorrijtuig wordt geconstateerd zonder dat gevorderd wordt het motorrijtuig te doen stilstaan, degene op wiens naam het buitenlandse kenteken is gesteld wordt beschouwd als degene ten aanzien van wie het gebruik van de autosnelweg is geconstateerd.
 
@@ -126,13 +98,13 @@ Als degene die het motorrijtuig feitelijk ter beschikking heeft, wordt beschouwd
 
 ### Afdeling 1. Tijdvak
 
-##### Artikel 9
+#### Artikel 9
 
 Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een maand of een jaar.
 
 ### Afdeling 2. Tarief
 
-##### Artikel 10
+#### Artikel 10
 
 1. Het tarief voor een tijdvak van één jaar is ingevolge de navolgende tabel voor een motorrijtuig met een CO2-emissieklasse in kolom 1, een eventuele EURO-emissieklasse in kolom 2, voor motorrijtuigen met ten hoogste drie assen het corresponderende bedrag in kolom 3 of indien het een motorrijtuig met ten minste vier assen betreft het bedrag, genoemd in kolom 4:
 
@@ -226,7 +198,7 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 
 ### Afdeling 3. Aangifte
 
-##### Artikel 11
+#### Artikel 11
 
 1. De belasting moet op aangifte worden voldaan.
 
@@ -238,13 +210,13 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 
 ### Hoofdstuk V. Het certificaat
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
 ### Hoofdstuk VI. Boetebepaling
 
-##### Artikel 13
+#### Artikel 13
 
 1. Indien wordt geconstateerd dat de verschuldigde belasting niet, niet tijdig of niet geheel is betaald, vormt dit een verzuim ter zake waarvan de inspecteur, in afwijking van de [artikelen 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b), [67c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) en [67f van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f), een bestuurlijke boete van ten hoogste € 6.709 kan opleggen aan de houder.
 
@@ -256,7 +228,7 @@ Vervallen
 
 ### Afdeling 1. Teruggaaf
 
-##### Artikel 14
+#### Artikel 14
 
 1. Op verzoek wordt aan de houder van het motorrijtuig teruggaaf van belasting verleend.
 
@@ -266,7 +238,7 @@ Vervallen
 
 4. De ingevolge het tweede lid berekende teruggaaf wordt verminderd met een bedrag van € 25 voor administratiekosten. Onder bij ministeriële regeling te stellen voorwaarden wordt geen vermindering toegepast.
 
-##### Artikel 14a
+#### Artikel 14a
 
 1. Voor motorrijtuigen die worden gebruikt voor gecombineerd vervoer wordt op verzoek teruggaaf verleend van de belasting of een gedeelte daarvan.
 
@@ -298,7 +270,7 @@ Vervallen
 
 ### Afdeling 2. Vrijstelling
 
-##### Artikel 15
+#### Artikel 15
 
 1. Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verleend voor motorrijtuigen:
 
@@ -318,31 +290,31 @@ Vervallen
 
 ### Hoofdstuk VIII. Aanvullende bepalingen
 
-##### Artikel 16
+#### Artikel 16
 
 Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 17
+#### Artikel 17
 
 Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveiligheid bepaalde wegen, niet zijnde autosnelwegen, of delen daarvan worden aangewezen waarvan het gebruik aan de belasting is onderworpen.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Op eerste vordering van ambtenaren van de rijksbelastingdienst, van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), of van bij besluit van Onze Minister van Financiën in overeenstemming met Onze Minister van Infrastructuur en Waterstaat aangewezen ambtenaren van het Ministerie van Infrastructuur en Waterstaat, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-##### Artikel 19
+#### Artikel 19
 
 De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2026-01-01&g=2026-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
-##### Artikel 20
+#### Artikel 20
 
 1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
 
 2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Bij algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de wet nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
@@ -350,31 +322,31 @@ De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII
 
 ### Hoofdstuk IX. Bijzondere bepalingen
 
-##### Artikel 22
+#### Artikel 22
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 23
+#### Artikel 23
 
 Bevat wijzigingen in andere regelgeving.
 
-##### Artikel 24
+#### Artikel 24
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk X. Slotbepalingen
 
-##### Artikel 25
+#### Artikel 25
 
 Bevat wijzigingen in deze regelgeving.
 
-##### Artikel 26
+#### Artikel 26
 
 1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.
 
-##### Artikel 27
+#### Artikel 27
 
 Deze wet wordt aangehaald als: Wet belasting zware motorrijtuigen.
 

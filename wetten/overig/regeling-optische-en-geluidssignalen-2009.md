@@ -1,46 +1,20 @@
 ---
-title: "Regeling houdende aanwijzing hulpverleningsdiensten, omschrijving werkzaamheden en omstandigheden, en vaststelling van optische en geluidssignalen (Regeling optische en geluidssignalen 2009)"
+title: "Regeling optische en geluidssignalen 2009"
 identifier: "BWBR0025357"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-05"
-last_updated: "2021-01-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025357"
-soort: "ministeriele-regeling"
-stam_id: "9913283"
-version_id: "16164032"
-internal_id: "C22178041"
-label_id: "9889754"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025357/2021-01-05/0"
-intitule_bron: "Stcrt.2009-38"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-23"
-intitule_published: "2009-02-25"
-intitule_in_force: "2009-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-38"
-original_signed_date: "2009-02-23"
-original_published_date: "2009-02-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-2844"
-entry_into_force_date: "2009-03-01"
-jci_1_3: "jci1.3:c:BWBR0025357&z=2021-01-05&g=2021-01-05"
-jci_1_0: "1.0:c:BWBR0025357&g=2021-01-05"
-citeertitel_status: "officieel"
-short_title: "Regeling optische en geluidssignalen 2009"
-signed_date: "2009-02-23"
-entry_into_force: "2009-03-01"
+categorie: "Overig"
+publicatiedatum: 2021-01-05
+laatste_update: 2021-01-05
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0025357"
 ---
+
 # Regeling houdende aanwijzing hulpverleningsdiensten, omschrijving werkzaamheden en omstandigheden, en vaststelling van optische en geluidssignalen (Regeling optische en geluidssignalen 2009)
 
 Gelet op de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) en [71 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=71);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 1. Als hulpverleningsdiensten worden aangewezen die diensten die, voor zover de aan hen opgedragen taak hierin voorziet, voor het vervullen van een dringende taak worden ingezet.
 
@@ -108,7 +82,7 @@ Besluit:
 
 - s. de weginspecteurs en officieren van dienst van Rijkswaterstaat.
 
-##### Artikel 2
+#### Artikel 2
 
 Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29), en in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2021-01-05&g=2021-01-05), in geval van:
 
@@ -118,7 +92,7 @@ Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste l
 
 - c. een ernstige verstoring van de openbare orde of de rechtsorde, waarvoor een directe en snelle inzet noodzakelijk is.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De politie, de brandweer en de diensten voor spoedeisende medische hulpverlening stellen elk een richtlijn op met betrekking tot de werkzaamheden en de omstandigheden, waarin van de optische en geluidssignalen gebruik mag worden gemaakt.
 
@@ -146,7 +120,7 @@ Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste l
 
 - c. de rijbaan wordt bereden met een snelheid van maximaal 40 km per uur boven de ter plaatse geldende maximumsnelheid. De politie mag hiervan in overleg met de meldkamer in uitzonderlijke gevallen afwijken.
 
-##### Artikel 4
+#### Artikel 4
 
 1. De in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) genoemde diensten en de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2021-01-05&g=2021-01-05) aangewezen hulpverleningsdiensten wijzen personen of groepen van personen aan, die daartoe ingerichte motorvoertuigen met de inwerking zijnde optische en geluidsignalen mogen besturen.
 
@@ -160,7 +134,7 @@ Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste l
 
 - d. wat de effecten van een hoge rijsnelheid zijn op de remweg, het reactievermogen, de letselernst en de responstijd.
 
-##### Artikel 5
+#### Artikel 5
 
 De signalen zijn als volgt uitgevoerd:
 
@@ -176,7 +150,7 @@ De signalen zijn als volgt uitgevoerd:
 
 - 6. **extra richtingaanwijzers:** richtingaanwijzers als bedoeld in [artikel 30a van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=30a). Deze richtingaanwijzers worden alleen gevoerd in combinatie met het blauwe zwaai-, knipper- of flitslicht.
 
-##### Artikel 6
+#### Artikel 6
 
 Bij de volgende werkzaamheden of omstandigheden voert een voertuig, indien de kans bestaat dat het voertuig niet tijdig door andere weggebruikers wordt opgemerkt, geel zwaai-, flits- of knipperlicht:
 
@@ -196,7 +170,7 @@ Bij de volgende werkzaamheden of omstandigheden voert een voertuig, indien de ka
 
 - h. werkzaamheden van de Belastingdienst, waaronder begrepen de Belastingdienst/Douane.
 
-##### Artikel 7
+#### Artikel 7
 
 De signalen op motorvoertuigen die op 1 maart 2009 waren voorzien van blauw zwaai- of knipperlicht en een twee- of drietonige hoorn of van geel zwaai- of knipperlicht, overeenkomstig het bepaalde in [artikel 3 van de Regeling optische en geluidssignalen](https://wetten.overheid.nl/jci1.3:c:BWBR0009147&artikel=3), zoals die regeling luidde op 28 februari 2009, zijn in afwijking van [artikel 5, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=5&z=2021-01-05&g=2021-01-05), als volgt uitgevoerd:
 
@@ -206,15 +180,15 @@ De signalen op motorvoertuigen die op 1 maart 2009 waren voorzien van blauw zwaa
 
 - c. de hoorn is tweetonig en geeft achtereenvolgens de tonen b en e aan, waarbij de geluidssterkte van elke toon bij dag ten minste 110 db(A) en ’s nachts ten minste 100 db(A) is, met een maximale geluidssterkte van 125 db(A); de meting van de geluidssterkte van de hoorn vindt plaats overeenkomstig [hoofdstuk 11 van de Regeling toelatingseisen](https://wetten.overheid.nl/jci1.3:c:BWBR0009107&hoofdstuk=11), zoals die regeling luidde op 30 april 2009, waarbij de geluidssterkte vanaf het wegdek wordt gemeten.
 
-##### Artikel 8
+#### Artikel 8
 
 De [Regeling optische en geluidssignalen](https://wetten.overheid.nl/jci1.3:c:BWBR0009147) en de [regeling van 19 mei 2000, nr. DGP/VI/U000167, houdende erkenning van bepaalde Belgische en Duitse hulpverleningsdiensten en vrijstelling van de Regeling optische en geluidssignalen](https://wetten.overheid.nl/jci1.3:c:BWBR0011363), worden ingetrokken.
 
-##### Artikel 9
+#### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 maart 2009.
 
-##### Artikel 10
+#### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling optische en geluidssignalen 2009.
 

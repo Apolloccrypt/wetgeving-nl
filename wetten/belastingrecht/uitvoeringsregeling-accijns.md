@@ -1,38 +1,13 @@
 ---
 title: "Uitvoeringsregeling accijns"
 identifier: "BWBR0005355"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005355"
-soort: "ministeriele-regeling"
-stam_id: "5203773"
-version_id: "17039152"
-internal_id: "C23498991"
-label_id: "5180154"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005355/2025-01-01/0"
-intitule_bron: "Stcrt.1991-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-20"
-intitule_published: "1991-12-30"
-intitule_in_force: "1991-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20624"
-original_signed_date: "2009-12-17"
-original_published_date: "2009-12-31"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-20624"
-entry_into_force_date: "2010-04-01"
-jci_1_3: "jci1.3:c:BWBR0005355&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0005355&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2009-12-17"
-entry_into_force: "2010-04-01"
+categorie: "Belastingrecht"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0005355"
 ---
+
 # Uitvoeringsregeling accijns
 
 Gelet op de [artikelen 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), [3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=3), [7, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=11), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=19), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=22), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=23), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=25), [26, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26), [27, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=36), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=38), [40, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=41), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42), [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=63), [64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), [65, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), [66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=67), [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71), [73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=73), [75, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [78, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=78), [79, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=79), [80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=80), [82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=82), [84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84), [85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=85), [88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=88), [90, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90), [91, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=91), [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=94), [95, vierde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=95) (Stb. 1991, 561) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=14) en [22, derde lid, van het Uitvoeringsbesluit accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=22) (Stb. 1991, 754);
@@ -43,11 +18,11 @@ Besluit:
 
 ### Afdeling 1. Inleidende bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), [2, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), [2d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2d), [2e, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2e), [3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=3), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=7), [26, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=38), [40, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=41), [42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42), [42a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42a), [50c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50c), [50d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50d), [50f, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50f), [50i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50i), [50k, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50k), [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53), [56, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), [64a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64a), [65, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), [66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66), [66a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66a), [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69), [69a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69a), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71), [71a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a), [71d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71d), [71e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71e), [71g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g), [71h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71h), [73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=73), [75, vierde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [76, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76), [77, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=77), [78, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=78), [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=79), [80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=80), [82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=82), [83, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=83), [84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84), [90, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90), [90a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90a), [91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=91), [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=94), [95, vierde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=95) en de artikelen 9da, tweede lid, en [12 van het Uitvoeringsbesluit accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=12).
 
-##### Artikel 2
+#### Artikel 2
 
 In deze regeling wordt verstaan onder:
 
@@ -63,7 +38,7 @@ In deze regeling wordt verstaan onder:
 
 ### Afdeling 2. Overbrenging van accijnsgoederen
 
-##### Artikel 3
+#### Artikel 3
 
 1. De vergunninghouder van een accijnsgoederenplaats doet van de algehele vernietiging of het onherstelbare algehele of gedeeltelijke verlies van accijnsgoederen door niet te voorziene omstandigheden of overmacht, bedoeld in [artikel 2, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), in zijn accijnsgoederenplaats onverwijld mededeling aan de inspecteur onder opgaaf van het tijdstip en de oorzaak van de algehele vernietiging of het onherstelbare algehele of gedeeltelijke verlies.
 
@@ -75,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ### Afdeling 3. Accijnsgoederen voor eigen verbruik
 
-##### Artikel 3a
+#### Artikel 3a
 
 De hoeveelheden, bedoeld in [artikel 2d, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2d), bedragen voor:
 
@@ -97,7 +72,7 @@ De hoeveelheden, bedoeld in [artikel 2d, tweede lid, van de wet](https://wetten.
 
 ### Afdeling 4. Gebruik als brandstof in een accijnsgoederenplaats
 
-##### Artikel 3b
+#### Artikel 3b
 
 1. De inspecteur bepaalt na overleg met de vergunninghouder welke in [artikel 6c, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=6c) bedoelde productie-eenheden tot een productielocatie kunnen worden gerekend.
 
@@ -105,7 +80,7 @@ De hoeveelheden, bedoeld in [artikel 2d, tweede lid, van de wet](https://wetten.
 
 ### Afdeling 5. Normale reservoirs van bedrijfsmotorrijtuigen
 
-##### Artikel 3c
+#### Artikel 3c
 
 1. Voor de toepassing van [artikel 2e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2e) wordt verstaan onder normale reservoirs:
 
@@ -119,53 +94,53 @@ De hoeveelheden, bedoeld in [artikel 2d, tweede lid, van de wet](https://wetten.
 
 ### Afdeling 1. Bier
 
-##### Artikel 4
+#### Artikel 4
 
 1. Het van toepassing zijn van het tarief van de accijns, bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=7), moet bij de uitslag tot verbruik worden aangetoond door degene die het bier uitslaat tot verbruik.
 
 2. Indien de inrichting waar het bier is geproduceerd of verwerkt, slechts gedurende een deel van het aan de in het eerste lid bedoelde uitslag tot verbruik voorafgaande kalenderjaar in werking is geweest, wordt voor de toepassing van [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=7), de productie van het desbetreffende kalenderjaar vastgesteld door de feitelijke productie te vermenigvuldigen met twaalf, gedeeld door het aantal maanden dat de inrichting in werking is geweest.
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
 ### Afdeling 2. Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
 ### Afdeling 3. Vervallen
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
 ### Afdeling 4. Vervallen
 
-##### Artikel 9
+#### Artikel 9
 
 Vervallen
 
-##### Artikel 10
+#### Artikel 10
 
 Vervallen
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
 ### Afdeling 5. Minerale oliën
 
-##### Artikel 12
+#### Artikel 12
 
 Het loodgehalte van lichte olie wordt bepaald volgens de in [bijlage MO.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&bijlage=MO.1&z=2025-01-01&g=2025-01-01) bij deze regeling omschreven methode.
 
-##### Artikel 13
+#### Artikel 13
 
 1. Als herkenningsmiddel als bedoeld in [artikel 1a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a) wordt aan halfzware olie toegevoegd: per liter ten minste 12,5 mg en niet meer dan 18,75 mg ACCUTRACE™ PLUS. Het gehalte aan ACCUTRACE™ PLUS komt overeen met ten minste 9,5 mg en niet meer dan 14,25 mg butoxybenzeen per liter.
 
@@ -173,7 +148,7 @@ Het loodgehalte van lichte olie wordt bepaald volgens de in [bijlage MO.1](https
 
 3. Onverminderd het bepaalde in het tweede lid wordt aan lichte gasolie een voldoende hoeveelheid kleursel toegevoegd om aan de gasolie een goed zichtbare en blijvende rode kleur te geven.
 
-##### Artikel 14
+#### Artikel 14
 
 1. De herleiding tot een hoeveelheid bij een temperatuur van 15°C van een hoeveelheid lichte olie, halfzware olie of gasolie waarvan de dichtheid, gemeten met de areometer en uitgedrukt in grammen per milliliter bij een andere temperatuur is opgenomen, geschiedt aan de hand van de in [bijlage MO.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&bijlage=MO.2&z=2025-01-01&g=2025-01-01) bij deze regeling opgenomen tabel, dan wel met gebruikmaking van de ASTM-IP tabellen 54A en 54B, genoemd in de meest actuele versie van de gestandaardiseerde methoden ASTM-D1250 of ISO 91-1.
 
@@ -187,7 +162,7 @@ Het loodgehalte van lichte olie wordt bepaald volgens de in [bijlage MO.1](https
 
 ### Afdeling 6. Alcoholgehalte en volume
 
-##### Artikel 15
+#### Artikel 15
 
 1. Het alcoholgehalte van bier, wijn, tussenproducten en overige alcoholhoudende producten wordt bepaald volgens de in [bijlage A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&bijlage=A.1&z=2025-01-01&g=2025-01-01) bij deze regeling omschreven methode.
 
@@ -195,7 +170,7 @@ Het loodgehalte van lichte olie wordt bepaald volgens de in [bijlage MO.1](https
 
 3. Bij de vermelding in de aangifte van het alcoholgehalte van bier op andere wijze verpakt dan in kleinhandelsverpakking is een tolerantie toegestaan in positieve en negatieve zin. De tolerantie is 0,5 volumeprocent alcohol bij biersoorten met een alcoholgehalte van ten hoogste 5,5 volumeprocent en 1 volumeprocent alcohol bij biersoorten met een alcoholgehalte van meer dan 5,5 volumeprocent, onverminderd de toleranties die voortvloeien uit de voor de bepaling van het alcoholgehalte toegepaste analysemethode.
 
-##### Artikel 16
+#### Artikel 16
 
 Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksproducten zijn verpakt in kleinhandelsverpakking, wordt het volume of de massa in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het [Warenwetbesluit hoeveelheden voorverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035560).
 
@@ -203,7 +178,7 @@ Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksp
 
 ### Afdeling 1. Accijnsgoederenplaats
 
-##### Artikel 17
+#### Artikel 17
 
 1. Een plaats waar geen accijnsgoederen worden geproduceerd of verwerkt, kan uitsluitend als accijnsgoederenplaats voor de opslag van accijnsgoederen van een of meer soorten in aanmerking komen, indien de hoeveelheid die aldaar gemiddeld over een jaar van het desbetreffende soort accijnsgoed voorhanden of in opslag is, meer bedraagt dan:
 
@@ -227,7 +202,7 @@ Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksp
 
 - c. die accijnsgoederenplaats uitsluitend wordt aangewezen voor accijnsgoederen die met vrijstelling van accijns worden afgeleverd om te worden gebruikt aan boord van luchtvaartuigen in het verkeer van Nederland naar een andere lidstaat.
 
-##### Artikel 18
+#### Artikel 18
 
 1. In afwijking van [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als accijnsgoederenplaats in aanmerking komen:
 
@@ -259,7 +234,7 @@ Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksp
 
 - 5°. een partner als bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a).
 
-##### Artikel 19
+#### Artikel 19
 
 1. Indien de inspecteur op grond van [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=9) voorwaarden stelt voor een vergunning voor een accijnsgoederenplaats waar accijnsgoederen worden geproduceerd of verwerkt, kan daarbij worden bepaald dat ter zake van de productie of verwerking werkaangiften moeten worden gedaan.
 
@@ -275,7 +250,7 @@ Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksp
 
 5. Indien overige alcoholhoudende producten worden geproduceerd of verwerkt, kan de inspecteur het gebruik van een ambtelijk afgesloten opvangreservoir voorschrijven.
 
-##### Artikel 20
+#### Artikel 20
 
 1. In een verzoek om een vergunning voor een accijnsgoederenplaats dienen met betrekking tot hetgeen in [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42) is bepaald, in elk geval te worden vermeld:
 
@@ -291,7 +266,7 @@ Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksp
 
 2. Indien toepassing van [artikel 2a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=2a) wordt gewenst, wordt dit in het verzoek, bedoeld in het eerste lid, opgenomen.
 
-##### Artikel 20a
+#### Artikel 20a
 
 In een verzoek om een vergunning voor een geregistreerde geadresseerde moeten met betrekking tot hetgeen in [artikel 50c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50c) is bepaald, in ieder geval worden vermeld:
 
@@ -301,7 +276,7 @@ In een verzoek om een vergunning voor een geregistreerde geadresseerde moeten me
 
 - c. een omschrijving van de administratie, alsmede het adres waar de administratie wordt gehouden.
 
-##### Artikel 20b
+#### Artikel 20b
 
 In een verzoek om een vergunning als geregistreerde afzender moeten met betrekking tot hetgeen in [artikel 50d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50d) is bepaald, in ieder geval worden vermeld:
 
@@ -311,7 +286,7 @@ In een verzoek om een vergunning als geregistreerde afzender moeten met betrekki
 
 - c. een omschrijving van de administratie van de geregistreerde afzender, alsmede het adres waar deze administratie wordt gehouden.
 
-##### Artikel 20c
+#### Artikel 20c
 
 In een verzoek om een vergunning als fiscaal vertegenwoordiger van de afzender die in een andere lidstaat een zelfstandige economische activiteit verricht, wordt met betrekking tot hetgeen in [artikel 50f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50f) is bepaald, in ieder geval vermeld:
 
@@ -323,7 +298,7 @@ In een verzoek om een vergunning als fiscaal vertegenwoordiger van de afzender d
 
 ### Afdeling 2. Aangifte
 
-##### Artikel 21
+#### Artikel 21
 
 1. Een vergunninghouder van een accijnsgoederenplaats die tevens vergunninghouder is van één of meer andere accijnsgoederenplaatsen kan op verzoek één aangifte voor die plaatsen tezamen doen, indien:
 
@@ -339,7 +314,7 @@ In een verzoek om een vergunning als fiscaal vertegenwoordiger van de afzender d
 
 ### Afdeling 3. Zekerheid
 
-##### Artikel 22
+#### Artikel 22
 
 1. Voor de accijns die de vergunninghouder van een accijnsgoederenplaats verschuldigd is of kan worden, stelt hij zekerheid. De zekerheid wordt bepaald op basis van het accijnsbelang.
 
@@ -359,7 +334,7 @@ In een verzoek om een vergunning als fiscaal vertegenwoordiger van de afzender d
 
 5. Geen zekerheidstelling is vereist wanneer een overheidslichaam de accijns verschuldigd is of kan worden.
 
-##### Artikel 22a
+#### Artikel 22a
 
 1. De geregistreerde geadresseerde, de geregistreerde afzender, de gecertificeerde geadresseerde, de afzender in een andere lidstaat die een zelfstandige economische activiteit verricht dan wel de fiscaal vertegenwoordiger van een afzender die in een andere lidstaat een zelfstandige economische activiteit verricht, stelt zekerheid voor de accijns die hij verschuldigd is of kan worden. De zekerheid wordt bepaald op basis van het accijnsbelang.
 
@@ -373,7 +348,7 @@ In een verzoek om een vergunning als fiscaal vertegenwoordiger van de afzender d
 
 6. Geen zekerheidstelling is vereist wanneer een overheidslichaam de accijns verschuldigd is of kan worden.
 
-##### Artikel 22b
+#### Artikel 22b
 
 1. De vervoerder, de eigenaar of de gecertificeerde afzender, bedoeld in [artikel 56, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), stelt zekerheid in plaats van de vergunninghouder van een accijnsgoederenplaats, de geregistreerde afzender of de gecertificeerde geadresseerde, bedoeld in artikel 56, eerste lid, van de wet, voor de accijns die hij verschuldigd is of kan worden. De zekerheid wordt bepaald op basis van het accijnsbelang.
 
@@ -385,11 +360,11 @@ In een verzoek om een vergunning als fiscaal vertegenwoordiger van de afzender d
 
 ### Afdeling 3. Zekerheid
 
-##### Artikel 24
+#### Artikel 24
 
 Vervallen
 
-##### Artikel 25
+#### Artikel 25
 
 De vrijstelling van accijns voor overige alcoholhoudende producten, bedoeld in [artikel 64a, aanhef en eerste lid, onderdelen a en b, van de wet](onbekend), is uitsluitend van toepassing:
 
@@ -397,15 +372,15 @@ De vrijstelling van accijns voor overige alcoholhoudende producten, bedoeld in [
 
 - b. in geval van denaturering als bedoeld in [artikel 64a, eerste lid, onderdeel b, van de wet](onbekend), indien die overige alcoholhoudende producten zijn vermengd op een wijze als bedoeld in [bijlage A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&bijlage=A.2&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
-##### Artikel 26
+#### Artikel 26
 
 Vervallen
 
-##### Artikel 27
+#### Artikel 27
 
 Vervallen
 
-##### Artikel 28
+#### Artikel 28
 
 1. In het verzoek om een vergunning als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), dienen te worden vermeld:
 
@@ -421,7 +396,7 @@ Vervallen
 
 2. Met betrekking tot het verlenen, het aanpassen en het intrekken van de vergunning zijn de [artikelen 43 tot en met 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43) van overeenkomstige toepassing.
 
-##### Artikel 29
+#### Artikel 29
 
 1. De verklaring, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=19), bevat de volgende gegevens:
 
@@ -449,11 +424,11 @@ Vervallen
 
 2. De verklaring wordt in het Nederlands of in het Engels opgesteld.
 
-##### Artikel 29a
+#### Artikel 29a
 
 Vervallen
 
-##### Artikel 58
+#### Artikel 58
 
 1. In een vergunning voor het vervaardigen van distilleertoestellen worden opgenomen:
 
@@ -469,7 +444,7 @@ Vervallen
 
 4. De inspecteur is bevoegd distilleertoestellen te voorzien van ambtelijke herkenningsmerken.
 
-##### Artikel 30a
+#### Artikel 30a
 
 1. De verklaring, bedoeld in [artikel 21a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=21a) bevat de volgende gegevens:
 
@@ -495,11 +470,11 @@ Vervallen
 
 2. De verklaring wordt in het Nederlands of in het Engels opgesteld.
 
-##### Artikel 31
+#### Artikel 31
 
 Vervallen
 
-##### Artikel 32
+#### Artikel 32
 
 1. Degene die in het bezit is van een vergunning als bedoeld in [artikel 23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=23), dient in zijn administratie met betrekking tot de accijnsgoederen die worden gebruikt voor onderzoek, kwaliteitscontroles of smaaktesten buiten de accijnsgoederenplaats, op overzichtelijke wijze bij te houden:
 
@@ -521,7 +496,7 @@ Vervallen
 
 3. Degene die de accijnsgoederen met vrijstelling invoert neemt in zijn administratie tevens een elektronisch of geprint exemplaar op van de voor de desbetreffende accijnsgoederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), gedane aangifte voor het vrije verkeer.
 
-##### Artikel 32a
+#### Artikel 32a
 
 1. Vrijstelling van accijns ter zake van de uitslag van accijnsgoederen uit een accijnsgoederenplaats wordt verleend in gevallen waarin bij invoer deze accijnsgoederen met toepassing van de [artikelen 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:8), [7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:9) of [7:11 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:11) met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.
 
@@ -531,7 +506,7 @@ Vervallen
 
 ### Afdeling 2. Teruggaven
 
-##### Artikel 33
+#### Artikel 33
 
 1. Een verzoek om teruggaaf van accijns als bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70) wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin:
 
@@ -587,7 +562,7 @@ Vervallen
 
 4. De verklaring bedoeld in het tweede en derde lid wordt in het Nederlands of in het Engels opgesteld.
 
-##### Artikel 34
+#### Artikel 34
 
 1. Een verzoek om teruggaaf van accijns als bedoeld in [artikel 71, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71) voor accijnsgoederen die zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd wordt gedaan uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de accijnsgoederen zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd.
 
@@ -601,31 +576,31 @@ Vervallen
 
 - d. de soort en de hoeveelheid alsmede de waarde van de restanten van verloren gegane goederen en andere van belang zijnde gegevens.
 
-##### Artikel 35
+#### Artikel 35
 
 Een verzoek om teruggaaf van accijns als bedoeld in [artikel 71, eerste lid, onderdelen c, d, e en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71) wordt gedaan uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de accijnsgoederen hun bestemming hebben bereikt.
 
-##### Artikel 35a
+#### Artikel 35a
 
 Vervallen
 
-##### Artikel 35b
+#### Artikel 35b
 
 Vervallen
 
-##### Artikel 35c
+#### Artikel 35c
 
 Vervallen
 
-##### Artikel 35d
+#### Artikel 35d
 
 Vervallen
 
-##### Artikel 35e
+#### Artikel 35e
 
 Vervallen
 
-##### Artikel 35f
+#### Artikel 35f
 
 1. In de administratie van degene die verzoekt om teruggaaf van accijns op grond van [artikel 71d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71d) is opgenomen:
 
@@ -649,7 +624,7 @@ Vervallen
 
 4. De administratie van degene die verzoekt om teruggaaf van accijns is voorts zodanig ingericht dat daaruit per luchtvaartuig op overzichtelijke wijze blijkt dat de vlucht waarvoor de minerale olie is gebruikt waarvoor teruggaaf van accijns wordt gevraagd, geen plezierluchtvaart betreft.
 
-##### Artikel 35g
+#### Artikel 35g
 
 1. Indien een luchtvaartuig feitelijk ter beschikking staat van een ander dan degene op wiens naam het is geregistreerd, kan de inspecteur op verzoek de teruggaaf verlenen aan degene die feitelijk de beschikking over het luchtvaartuig heeft gehad, indien deze in zijn administratie een machtiging heeft opgenomen die is ondertekend door degene op wiens naam het luchtvaartuig is geregistreerd.
 
@@ -663,7 +638,7 @@ Vervallen
 
 3. [Artikel 35f](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=IV&afdeling=2&artikel=35f&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
-##### Artikel 35h
+#### Artikel 35h
 
 1. Met betrekking tot door een in het buitenland geregistreerd luchtvaartuig in Nederland getankte minerale oliën wordt of worden, in afwijking in zoverre van [artikel 32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=IV&afdeling=2&artikel=32b&z=2025-01-01&g=2025-01-01), en van [artikel 35f](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=IV&afdeling=2&artikel=35f&z=2025-01-01&g=2025-01-01):
 
@@ -685,7 +660,7 @@ Vervallen
 
 ### Afdeling 1. Accijnszegels
 
-##### Artikel 36
+#### Artikel 36
 
 In afwijking van [artikel 73, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=73), hoeven tabaksproducten niet te zijn voorzien van accijnszegels als die tabaksproducten:
 
@@ -701,7 +676,7 @@ In afwijking van [artikel 73, eerste lid van de wet](https://wetten.overheid.nl/
 
 - f. na de uitslag tot verbruik worden overgebracht naar een plaats waar zij onder ambtelijk toezicht worden vernietigd.
 
-##### Artikel 37
+#### Artikel 37
 
 In een verzoek om toestemming als bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), wordt in ieder geval vermeld:
 
@@ -721,7 +696,7 @@ In een verzoek om toestemming als bedoeld in [artikel 75, tweede lid, van de wet
 
 - h. de naam en het adres van degene die de tabaksproducten uitslaat tot verbruik als het een bedrijf als bedoeld in [artikel 75, eerste lid, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), betreft.
 
-##### Artikel 38
+#### Artikel 38
 
 1. De toestemming om onbedrukte blanco zegels aan te vragen wordt verleend aan een geregistreerde geadresseerde of een vergunninghouder van een accijnsgoederenplaats die ten minste 10 miljoen accijnszegels in het voorafgaande kalenderjaar heeft aangevraagd en op de verpakking van de tot verbruik uitgeslagen sigaretten, rooktabak en sigaren heeft aangebracht.
 
@@ -735,11 +710,11 @@ In een verzoek om toestemming als bedoeld in [artikel 75, tweede lid, van de wet
 
 6. De inspecteur kan in de toestemming om accijnszegels aan te vragen nadere voorwaarden stellen ten aanzien van de zegeladministratie, bedoeld in [artikel 9e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=9e).
 
-##### Artikel 39
+#### Artikel 39
 
 Met betrekking tot het verlenen en aanpassen van de toestemming om accijnszegels aan te vragen zijn de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43), [44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) en [46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=46) van overeenkomstige toepassing.
 
-##### Artikel 40
+#### Artikel 40
 
 1. In de zegeladministratie, bedoeld in [artikel 9e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=9e), wordt in ieder geval aantekening gehouden van:
 
@@ -781,7 +756,7 @@ Met betrekking tot het verlenen en aanpassen van de toestemming om accijnszegels
 
 - b. bij de zegeladministratie een afschrift worden bewaard van de aangifte, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53) en [53a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53a) of van de aangifte tot het brengen in het vrije verkeer van de EU, bedoeld in artikel 201 van het Douanewetboek van de Unie, voor de van accijnszegels voorziene tabaksproducten.
 
-##### Artikel 41
+#### Artikel 41
 
 1. Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=V&afdeling=1&artikel=40&z=2025-01-01&g=2025-01-01) blijkt uit de zegeladministratie van de houder van een accijnsgoederenplaats of een geregistreerde geadresseerde die toestemming heeft om onbedrukte blanco accijnszegels aan te vragen, welke gegevens op de onbedrukte blanco accijnszegels zijn gedrukt.
 
@@ -799,11 +774,11 @@ Met betrekking tot het verlenen en aanpassen van de toestemming om accijnszegels
 
 4. In de zegeladministratie wordt een duidelijk verband gelegd tussen de aangevraagde onbedrukte blanco accijnszegels en de op de accijnszegels gedrukte gegevens.
 
-##### Artikel 41a
+#### Artikel 41a
 
 Vervallen
 
-##### Artikel 42
+#### Artikel 42
 
 1. De accijnszegels worden aangevraagd bij de zegelproducent die door de directeur-generaal Douane, bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4), is aangewezen.
 
@@ -833,7 +808,7 @@ Vervallen
 
 5. De zegelproducent en de aanvrager leggen de aanvraag vast in hun administratie.
 
-##### Artikel 43
+#### Artikel 43
 
 1. De accijnszegels worden verkrijgbaar gesteld door de zegelproducent op het distributiepunt in hoeveelheden van één of meer vellen.
 
@@ -843,7 +818,7 @@ Vervallen
 
 4. Als de aangevraagde accijnszegels niet binnen vier weken na het tijdstip waarop zij op het distributiepunt beschikbaar zijn gesteld zijn afgehaald, wordt de aanvraag geacht niet te zijn gedaan.
 
-##### Artikel 44
+#### Artikel 44
 
 1. De accijnszegels hebben de vorm van een rechthoek en hebben een grootte van 2,0 x 4,4 cm.
 
@@ -851,13 +826,13 @@ Vervallen
 
 3. Op de zegel is op een door de inspecteur voorgeschreven plaats de tariefcode AB12 voor sigaretten en BB12 voor rooktabak vermeld.
 
-##### Artikel 45
+#### Artikel 45
 
 1. De accijnszegels worden met een kleefstof duurzaam bevestigd op de verpakking van tabaksproducten.
 
 2. De accijnszegels moeten op de verpakking zodanig worden aangebracht dat alle op de accijnszegels voorkomende vermeldingen duidelijk leesbaar zijn.
 
-##### Artikel 46
+#### Artikel 46
 
 1. Op de verpakking van tabaksproducten worden de soort en de hoeveelheid van het tabaksproduct, het merk waaronder het tabaksproduct in de handel wordt gebracht en, ter keuze van degene die de accijnszegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=V&afdeling=1&artikel=48&z=2025-01-01&g=2025-01-01), vermeld. De vermelding van de soort van het tabaksproduct kan achterwege blijven als er geen twijfel bestaat over de inhoud van de verpakking.
 
@@ -865,11 +840,11 @@ Vervallen
 
 3. De verpakking is niet zodanig van aard en vorm dat daarmee tevens een later gebruik voor andere doeleinden wordt beoogd.
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 48
+#### Artikel 48
 
 1. De inspecteur kan op verzoek van degene die de accijnszegels heeft aangevraagd, toestaan dat op de accijnszegel, in plaats van de naam van de aanvrager, een fabrieks- of handelsmerk of een door de directeur-generaal Douane, bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4), vastgesteld nummer wordt vermeld.
 
@@ -879,7 +854,7 @@ Vervallen
 
 4. Het is verboden om zonder toestemming van de inspecteur op de accijnszegels andere dan de in dit artikel voorgeschreven en toegestane vermeldingen aan te brengen.
 
-##### Artikel 49
+#### Artikel 49
 
 1. De houder van een toestemming om onbedrukte blanco zegels aan te vragen drukt op de accijnszegels de tariefcode, het soort tabaksproduct, de kleinhandelsprijs en de hoeveelheid overeenkomstig [artikel 44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=V&afdeling=1&artikel=44&z=2025-01-01&g=2025-01-01).
 
@@ -887,7 +862,7 @@ Vervallen
 
 3. De vermeldingen worden op een duidelijke en onuitwisbare wijze aangebracht op de plaats, bedoeld in [artikel 44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=V&afdeling=1&artikel=44&z=2025-01-01&g=2025-01-01). Het bedrukken vindt plaats met zwarte inkt en met hetzelfde lettertype als waarmee de gegevens, bedoeld in [artikel 48, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=V&afdeling=1&artikel=48&z=2025-01-01&g=2025-01-01), worden gedrukt.
 
-##### Artikel 50
+#### Artikel 50
 
 1. Als de vellen met accijnszegels niet aan de kwaliteitseisen voldoen of niet overeenkomen met de aangevraagde soorten accijnszegels of als er te veel dan wel te weinig accijnszegels zijn geleverd, wordt dit direct gemeld bij de zegelproducent en de inspecteur. In overleg met de inspecteur en de zegelproducent worden de accijnszegels die niet aan de kwaliteitseisen voldoen, niet overeenkomen met de aangevraagde soorten accijnszegels of die te veel zijn geleverd, door degene die de accijnszegels heeft aangevraagd teruggezonden naar de zegelproducent.
 
@@ -911,7 +886,7 @@ Vervallen
 
 3. Het exemplaar voor de inspecteur van het formulier, bedoeld in het tweede lid, wordt door de aanvrager naar de inspecteur gezonden. De aanvrager en de zegelproducent nemen hun exemplaren van het formulier op in hun administratie.
 
-##### Artikel 51
+#### Artikel 51
 
 1. Op verzoek van degene die de accijnszegels heeft aangevraagd kunnen de volgende accijnszegels of vellen met accijnszegels onder ambtelijk toezicht in Nederland worden vernietigd:
 
@@ -937,7 +912,7 @@ Vervallen
 
 6. Als tabaksproducten waarop de accijnszegels in een andere lidstaat zijn aangebracht en die zich aldaar onder een accijnsschorsingsregeling bevinden op verzoek worden vernietigd, gebeurt dat onder ambtelijk toezicht en wordt dit aan de hand van een ambtelijke verklaring van (douane)autoriteiten van die lidstaat aangetoond. De verklaring bevat dezelfde gegevens als de gegevens die zijn genoemd in de mededeling tot vernietiging en de specificatie, bedoeld in het vijfde lid. Degene die de accijnszegels heeft aangevraagd neemt de verklaring op in zijn zegeladministratie.
 
-##### Artikel 52
+#### Artikel 52
 
 1. Als accijnszegels door overmacht of ongeval in Nederland verloren gaan of geacht worden te zijn vermist, doet degene die de accijnszegels heeft aangevraagd hiervan onverwijld mededeling aan de inspecteur, onder vermelding van het tijdstip, de plaats en de oorzaak van het verloren gaan dan wel van de vermissing.
 
@@ -949,13 +924,13 @@ Vervallen
 
 5. Als tabaksproducten waarop in een andere lidstaat accijnszegels zijn aangebracht en die zich aldaar onder een accijnsschorsingsregeling bevinden in die lidstaat verloren gaan, blijkt dit uit een ambtelijke verklaring van de (douane)autoriteiten in die lidstaat. De verklaring bevat dezelfde gegevens als de gegevens die zijn genoemd in het formulier, bedoeld in het tweede lid. Degene die de accijnszegels heeft aangevraagd neemt de verklaring op in zijn zegeladministratie.
 
-##### Artikel 53
+#### Artikel 53
 
 Vervallen
 
 ### Afdeling 2. Controlebepalingen
 
-##### Artikel 54
+#### Artikel 54
 
 1. Als een in [artikel 34, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=34) bedoeld bescheid kan dienen een (elektronische) factuur of een (elektronisch) vervoersbescheid. Indien het bescheid betrekking heeft op het vervoer van wijn kan, in plaats van de factuur of het vervoersbescheid, als bescheid tevens dienen een etiket dat op de andere verpakking dan de rechtstreekse verpakking van de wijn is aangebracht.
 
@@ -975,15 +950,15 @@ Vervallen
 
 - f. indien het (elektronische) bescheid is uitgereikt in een andere lidstaat: het ARC of VARC.
 
-##### Artikel 55
+#### Artikel 55
 
 Op het in [artikel 35 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=35) bedoelde bescheid van herkomst voor ruwe en voor gedeeltelijk tot verbruik bereide tabak is [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=V&afdeling=2&artikel=54&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
-##### Artikel 55a
+#### Artikel 55a
 
 Met betrekking tot de vordering, bedoeld in [artikel 83, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=83) is de regeling van de Minister van Justitie en Veiligheid, bedoeld in de [artikelen 1:24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:24), en [1:27, tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27) van toepassing.
 
-##### Artikel 56
+#### Artikel 56
 
 Een op grond van [artikel 84 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84) gevorderd monster wordt:
 
@@ -995,23 +970,23 @@ Een op grond van [artikel 84 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Afdeling 2. Controlebepalingen
 
-##### Artikel 56a
+#### Artikel 56a
 
 Vervallen
 
-##### Artikel 56b
+#### Artikel 56b
 
 Vervallen
 
 ### Afdeling 2a. Wijziging van de accijns van minerale oliën
 
-##### Artikel 57
+#### Artikel 57
 
 Vervallen
 
 ### Hoofdstuk VI. Ontheffing verbodsbepalingen
 
-##### Artikel 58
+#### Artikel 58
 
 1. In een vergunning voor het vervaardigen van distilleertoestellen worden opgenomen:
 
@@ -1027,11 +1002,11 @@ Vervallen
 
 4. De inspecteur is bevoegd distilleertoestellen te voorzien van ambtelijke herkenningsmerken.
 
-##### Artikel 59
+#### Artikel 59
 
 Als distilleertoestellen als bedoeld in [artikel 90, zevende lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90) worden aangewezen de in [bijlage A.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&bijlage=A.3&z=2025-01-01&g=2025-01-01) bij deze regeling omschreven toestellen.
 
-##### Artikel 60
+#### Artikel 60
 
 1. In afwijking van [artikel 91, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=91) mag vóór 1 januari 2013 gekochte en afgeleverde gasolie voorzien van bij ministeriële regeling voorgeschreven herkenningsmiddelen voorhanden zijn in:
 
@@ -1053,19 +1028,19 @@ Als distilleertoestellen als bedoeld in [artikel 90, zevende lid, onderdeel b, v
 
 - b. in de administratie van het scheepsonderhoudsbedrijf op overzichtelijke wijze de ontvangst uit schepen, niet zijnde een pleziervaartuig, en de afgifte aan een vergunninghouder als bedoeld in onderdeel a worden vastgelegd.
 
-##### Artikel 61
+#### Artikel 61
 
 1. [Artikel 94, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=94) is niet van toepassing ingeval een zelfde tabaksproduct onder hetzelfde merk in de handel wordt gebracht in verpakkingseenheden met verschillende inhoud en de kleinhandelsprijzen van die verpakkingseenheden, omgerekend tot een prijs van een hoeveelheid van 1000 stuks of 1 kg nettomassa, niet met elkaar overeenkomen voor zover dit het gevolg is van de afronding van de kleinhandelsprijzen per verpakkingseenheid naar boven of naar beneden op € 0,05.
 
 2. [Artikel 94, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=94) is niet van toepassing bij wijziging van de kleinhandelsprijs van een tabaksproduct gedurende een tijdvak van vier weken, dat aanvangt op het tijdstip met ingang waarvan het tabaksproduct tegen de gewijzigde kleinhandelsprijs in de handel wordt gebracht.
 
-##### Artikel 62
+#### Artikel 62
 
 In afwijking van [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=95) mogen sigaren in de detailhandelszaken voorhanden zijn in de geopende oorspronkelijke kleinhandelsverpakking met een inhoud van maximaal 100 stuks sigaren. Deze sigaren mogen zonder accijnszegel per stuk worden verkocht tegen een kleinhandelsprijs die is vastgesteld naar rato van de hoeveelheid in de oorspronkelijke kleinhandelsverpakking en de kleinhandelsprijs op de accijnszegel die op de oorspronkelijke kleinhandelsverpakking is aangebracht. In het geval de sigaren buiten de oorspronkelijke verpakking voorhanden zijn, dient deze oorspronkelijke verpakking in de detailhandelszaak aanwezig te zijn.
 
 ### Hoofdstuk VI. Ontheffing verbodsbepalingen
 
-##### Artikel 63
+#### Artikel 63
 
 Strafbare feiten zijn:
 
@@ -1077,7 +1052,7 @@ Strafbare feiten zijn:
 
 ### Hoofdstuk VIII. Slotbepaling
 
-##### Artikel 64
+#### Artikel 64
 
 1. Deze regeling treedt in werking op het tijdstip waarop de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) in werking treedt, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=II&afdeling=1&artikel=4&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=II&afdeling=1&artikel=5&z=2025-01-01&g=2025-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=II&afdeling=1&artikel=6&z=2025-01-01&g=2025-01-01) die in werking treden met ingang van 1 januari 1993.
 
@@ -1149,7 +1124,7 @@ Vervallen
 
 - 4. Interpretatie van de resultaten geschiedt aan de hand van ISO-norm 4259.
 
-##### Artikel 35i
+#### Artikel 35i
 
 1. Het verzoek om teruggaaf van accijns, bedoeld in [artikel 69a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69a), wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin het gebruik voor het opwekken van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt heeft plaatsgevonden.
 
@@ -1173,7 +1148,7 @@ Vervallen
 
 ### Hoofdstuk VI. Ontheffing verbodsbepalingen
 
-##### Artikel 58
+#### Artikel 58
 
 1. In een vergunning voor het vervaardigen van distilleertoestellen worden opgenomen:
 
@@ -1288,11 +1263,11 @@ Het bier wordt door meermalen overschenken en daarna door filtreren zoveel mogel
 | 987 |   | tot en met 0,00066 |
 | 1000 |   |   |
 
-##### Artikel 30
+#### Artikel 30
 
 Vervallen
 
-##### Artikel 35j
+#### Artikel 35j
 
 1. Het verzoek om teruggaaf van accijns, bedoeld in [artikel 71a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71a), wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de accijns door de andere lidstaat is geheven.
 
@@ -1396,7 +1371,7 @@ Het bier wordt door meermalen overschenken en daarna door filtreren zoveel mogel
 
 - 2. Indien het niet mogelijk is een van de wijzen van vermenging, genoemd in onderdeel 1, toe te passen, kan in overeenstemming met de directeur-generaal Douane, bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4), een andere wijze van vermenging worden vastgesteld.
 
-##### Artikel 20d
+#### Artikel 20d
 
 In een verzoek om een vergunning voor een accijnsgoederenplaats als bedoeld in [artikel 42a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42a) wordt met betrekking tot hetgeen in artikel 42a van de wet is bepaald, in ieder geval vermeld:
 
@@ -1416,15 +1391,15 @@ In een verzoek om een vergunning voor een accijnsgoederenplaats als bedoeld in [
 
 ### Afdeling 2. Teruggaven
 
-##### Artikel 35a
+#### Artikel 35a
 
 Vervallen
 
-##### Artikel 35b
+#### Artikel 35b
 
 Vervallen
 
-##### Artikel 35c
+#### Artikel 35c
 
 [Artikel 26 van de Uitvoeringsregeling belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&artikel=26) is van overeenkomstige toepassing op de teruggaafregeling, bedoeld in [artikel 71g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g), met dien verstande dat in [artikel 26, eerste lid, onderdeel c, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005355&hoofdstuk=IV&afdeling=1&artikel=26&z=2025-01-01&g=2025-01-01), voor ‘eindfactuur’ wordt gelezen: aankoopfactuur. De in artikel 26, eerste lid, onderdelen a en c, en tweede lid, onderdelen a, c en d, genoemde bescheiden moeten zijn opgenomen in de administratie. Hetgeen op grond van artikel 26, eerste lid, onderdeel d, en tweede lid, onderdeel b, moet worden verklaard wordt aangetoond aan de hand van de administratie.
 
@@ -1458,7 +1433,7 @@ Van 100 g van dit bier wordt ten minste 75 ml voorzichtig afgedestilleerd. Het d
 
 - 2. Glazen distillatie-opzetten, aanwezig buiten inrichtingen van onderwijs, waarmee door distillatie een hoeveelheid alcoholhoudend product van ten minste 0,5 l met een alcoholgehalte van meer dan 50%vol per uur kan worden verkregen worden altijd aangemerkt als distilleertoestellen waarvoor een vergunning is vereist.
 
-##### Artikel 35k
+#### Artikel 35k
 
 1. Het verzoek om teruggaaf van accijns, bedoeld in [artikel 71h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71h), vermeldt:
 
@@ -1476,7 +1451,7 @@ Van 100 g van dit bier wordt ten minste 75 ml voorzichtig afgedestilleerd. Het d
 
 - b. dat de duurzaam geproduceerde biobrandstof is afgeleverd als motorbrandstof voor het aandrijven van motorrijtuigen.
 
-##### Artikel 32b
+#### Artikel 32b
 
 1. Voor een verzoek om teruggaaf van accijns wordt gebruik gemaakt van een van rijkswege beschikbaar gesteld elektronisch formulier dat via elektronische weg wordt ingediend op de op dat formulier aangegeven wijze.
 
@@ -1510,7 +1485,7 @@ Het extractgehalte (e) wordt berekend door middel van de formule:
 
 Vervallen
 
-##### Artikel 22c
+#### Artikel 22c
 
 1. De inspecteur bepaalt het bedrag van de zekerheid, bedoeld in [artikel 76, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76), op basis van het accijnsbelang.
 
@@ -1544,13 +1519,13 @@ Het bij de destillatie verkregen residu wordt tot 100 g aangevuld met gedestille
 
 Vervallen
 
-##### Artikel 52a
+#### Artikel 52a
 
 1. De inspecteur kan bepalen dat accijnszegels die bij het normale productieproces verloren zijn gegaan niet als vermist worden aangemerkt.
 
 2. De aanvrager doet maandelijks mededeling van de hoeveelheid accijnszegels, bedoeld in het eerste lid, die verloren zijn gegaan bij het normale productieproces.
 
-##### Artikel 62a
+#### Artikel 62a
 
 In afwijking van [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=95) mogen tabaksproducten worden verkocht, te koop worden aangeboden of worden afgeleverd in onderscheidenlijk aan militaire winkels, kantines, restaurants, clubs of messes als bedoeld in [artikel 42g van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=42g) zonder dat op die producten of kleinhandelsverpakking een accijnszegel is aangebracht.
 
@@ -1566,7 +1541,7 @@ Het bier wordt door meermalen overschenken en daarna door filtreren zoveel mogel
 
 Vervallen
 
-##### Artikel 28a
+#### Artikel 28a
 
 1. De verklaring, bedoeld in [artikel 18a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=18a), bevat de volgende gegevens:
 
@@ -1608,7 +1583,7 @@ Van 100 g van dit bier wordt ten minste 75 ml voorzichtig afgedestilleerd. Het d
 
 Vervallen
 
-##### Artikel 59a
+#### Artikel 59a
 
 1. In een vergunning voor het in het vrije verkeer brengen, het brengen naar een andere lidstaat of de uitvoer naar een derde land van een tabaksproductieapparaat worden opgenomen:
 
@@ -1646,7 +1621,7 @@ Vervallen
 
 5. In het verzoek om een vergunning dienen de voor het verlenen van de vergunning benodigde gegevens te worden vermeld.
 
-##### Artikel 59b
+#### Artikel 59b
 
 Een vrijstelling van de vergunningplicht als bedoeld in [artikel 90a, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90a) geldt in de gevallen waarin:
 
@@ -1682,11 +1657,11 @@ Vervallen
 
 - 4. Interpretatie van de resultaten geschiedt aan de hand van ISO-norm 4259.
 
-##### Artikel 20ca
+#### Artikel 20ca
 
 De afzender, bedoeld in [artikel 50f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50f), meldt zich op een door de inspecteur bepaald adres.
 
-##### Artikel 20e
+#### Artikel 20e
 
 In een verzoek om een vergunning voor een gecertificeerde geadresseerde wordt met betrekking tot hetgeen in [artikel 50i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50i) is bepaald in ieder geval vermeld:
 
@@ -1694,7 +1669,7 @@ In een verzoek om een vergunning voor een gecertificeerde geadresseerde wordt me
 
 - b. een omschrijving van de administratie en het adres waar de administratie wordt gehouden.
 
-##### Artikel 20f
+#### Artikel 20f
 
 In een verzoek om een vergunning als gecertificeerde afzender wordt met betrekking tot hetgeen in [artikel 50k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50k) is bepaald in ieder geval vermeld:
 
@@ -1712,7 +1687,7 @@ In een verzoek om een vergunning als gecertificeerde afzender wordt met betrekki
 
 ### Afdeling 1. Vrijstellingen
 
-##### Artikel 28b
+#### Artikel 28b
 
 1. De verklaring, bedoeld in [artikel 18b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&artikel=18b), bevat de volgende gegevens:
 
@@ -1907,7 +1882,7 @@ Het extractgehalte (e) wordt uitgedrukt in massapercenten (g/100 g) in tienden n
 
 - 2. Glazen distillatie-opzetten, aanwezig buiten inrichtingen van onderwijs, waarmee door distillatie een hoeveelheid alcoholhoudend product van ten minste 0,5 l met een alcoholgehalte van meer dan 50%vol per uur kan worden verkregen worden altijd aangemerkt als distilleertoestellen waarvoor een vergunning is vereist.
 
-##### Artikel 3bis
+#### Artikel 3bis
 
 1. Als uitslag tot verbruik wordt niet aangemerkt het gedeeltelijke verlies als gevolg van de aard van de goederen, bedoeld in de [artikelen 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), en [3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=3), dat zich voordoet tijdens het vervoer van minerale oliën en ethylalcohol per tankwagen of tanker in hoeveelheden van ten minste 5.000 liter of kilogram per soort accijnsgoed, voor zover het verlies niet hoger is dan de volgende vastgestelde verliesnormen:
 

@@ -1,46 +1,20 @@
 ---
-title: "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43324058, houdende instelling van de programmaraad Digitalisering voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Digitalisering 2023–2025)"
+title: "Instellingsbesluit programmaraad Digitalisering"
 identifier: "BWBR0049274"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-04-18"
-last_updated: "2024-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049274"
-soort: "ministeriele-regeling"
-stam_id: "17010443"
-version_id: "29920752"
-internal_id: "C42887031"
-label_id: "16920404"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049274/2024-04-18/0"
-intitule_bron: "Stcrt.2024-1885"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-22"
-intitule_published: "2024-01-18"
-intitule_in_force: "2024-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-1885"
-original_signed_date: "2023-12-22"
-original_published_date: "2024-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-1885"
-entry_into_force_date: "2024-01-19"
-jci_1_3: "jci1.3:c:BWBR0049274&z=2024-04-18&g=2024-04-18"
-jci_1_0: "1.0:c:BWBR0049274&g=2024-04-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit programmaraad Digitalisering"
-signed_date: "2023-12-22"
-entry_into_force: "2024-01-19"
+categorie: "Overig"
+publicatiedatum: 2024-04-18
+laatste_update: 2024-04-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0049274"
 ---
+
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43324058, houdende instelling van de programmaraad Digitalisering voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Digitalisering 2023–2025)
 
 Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=1) en [2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
 
 Besluit:
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -48,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 - **Programmaraad:** Programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049274&artikel=2&z=2024-04-18&g=2024-04-18).
 
-##### Artikel 2. Instelling en taak van de programmaraad
+#### Artikel 2. Instelling en taak van de programmaraad
 
 1. Er is een programmaraad Digitalisering.
 
@@ -62,7 +36,7 @@ In dit besluit wordt verstaan onder:
 
 - c. In overleg kan ook tussentijds een beroep gedaan kunnen worden op de programmaraad of leden van de programmaraad.
 
-##### Artikel 3. Samenstelling, benoeming en ontslag
+#### Artikel 3. Samenstelling, benoeming en ontslag
 
 1. De programmaraad bestaat uit een voorzitter en ten hoogste 10 overige leden.
 
@@ -84,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 7. Bij tussentijds ontslag van een overig lid kan de minister een ander lid benoemen.
 
-##### Artikel 4. Leden
+#### Artikel 4. Leden
 
 Tot leden van de programmaraad Digitalisering worden benoemd:
 
@@ -110,7 +84,7 @@ Tot leden van de programmaraad Digitalisering worden benoemd:
 
 - k. mevrouw A. Levie;
 
-##### Artikel 5. Secretariaat
+#### Artikel 5. Secretariaat
 
 1. De minister voorziet in het secretariaat van de programmaraad.
 
@@ -118,17 +92,17 @@ Tot leden van de programmaraad Digitalisering worden benoemd:
 
 3. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de programmaraad.
 
-##### Artikel 6. Werkwijze
+#### Artikel 6. Werkwijze
 
 1. De programmaraad stelt haar eigen werkwijze vast binnen de kaders van de programma’s.
 
 2. Na toestemming van de minister kan de programmaraad zich door andere personen laten bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-##### Artikel 7. Informatieplicht
+#### Artikel 7. Informatieplicht
 
 De programmaraad verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-##### Artikel 8. Vergoeding
+#### Artikel 8. Vergoeding
 
 1. De vergoeding van een programmaraad lid bedraagt € 302,50 incl. BTW per vergadering.
 
@@ -136,25 +110,25 @@ De programmaraad verstrekt aan de minister desgevraagd de door hem gewenste inli
 
 3. De reiskostenvergoeding is maximaal € 69,00 per vergadering.
 
-##### Artikel 9. Kosten van de programmaraad
+#### Artikel 9. Kosten van de programmaraad
 
 Voor zover goedgekeurd komen de kosten van de programmaraad voor rekening van de minister.
 
-##### Artikel 10. Openbaarmaking
+#### Artikel 10. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de programmaraad worden vervaardigd of vergaard, worden niet door de programmaraad openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-##### Artikel 11. Archiefbescheiden
+#### Artikel 11. Archiefbescheiden
 
 De programmaraad draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Voortgezet Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-##### Artikel 12. Inwerkingtreding en vervaldatum
+#### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 2. Dit besluit vervalt met ingang van 1 juli 2026.
 
-##### Artikel 13. Citeertitel
+#### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit programmaraad Digitalisering.
 

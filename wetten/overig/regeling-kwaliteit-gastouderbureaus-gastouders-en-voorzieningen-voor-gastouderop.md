@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)"
+title: "Regeling kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang"
 identifier: "BWBR0031613"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031613"
-soort: "ministeriele-regeling"
-stam_id: "11744763"
-version_id: "24326512"
-internal_id: "C34920461"
-label_id: "11717374"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031613/2026-01-01/0"
-intitule_bron: "Stcrt.2012-10966"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-29"
-intitule_published: "2012-06-04"
-intitule_in_force: "2012-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-49278"
-original_signed_date: "2017-08-21"
-original_published_date: "2017-09-01"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2017-49278"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0031613&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0031613&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang"
-signed_date: "2017-08-21"
-entry_into_force: "2018-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0031613"
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)
 
 Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=4), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=5), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=6), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=12), [13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=15), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=17), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=18), [19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=19), [20, vierde lid van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=20);
@@ -44,51 +18,51 @@ Treedt in werking op het tijdstip waarop het Besluit kwaliteit kinderopvang en p
 
 #### Paragraaf 1. Algemeen
 
-##### Artikel 1. Begrippen
+#### Artikel 1. Begrippen
 
 In deze regeling wordt onder ‘besluit’ verstaan: [Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621).
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
 
-##### Artikel 2. Inventarisatie van risico’s met betrekking tot veiligheid en gezondheid
+#### Artikel 2. Inventarisatie van risico’s met betrekking tot veiligheid en gezondheid
 
 Vervallen
 
-##### Artikel 3. Meldcode kindermishandeling
+#### Artikel 3. Meldcode kindermishandeling
 
 Vervallen
 
-##### Artikel 4. Beroepskwalificatie personeel
+#### Artikel 4. Beroepskwalificatie personeel
 
 Vervallen
 
-##### Artikel 5. Aantal beroepskrachten en groepsgrootte in de dagopvang
+#### Artikel 5. Aantal beroepskrachten en groepsgrootte in de dagopvang
 
 Vervallen
 
-##### Artikel 6. Aantal beroepskrachten en de groepsgrootte in buitenschoolse opvang
+#### Artikel 6. Aantal beroepskrachten en de groepsgrootte in buitenschoolse opvang
 
 Vervallen
 
-##### Artikel 7. Pedagogisch beleidsplan
+#### Artikel 7. Pedagogisch beleidsplan
 
 Vervallen
 
-##### Artikel 8. Verblijfruimten voor kinderen
+#### Artikel 8. Verblijfruimten voor kinderen
 
 Vervallen
 
-##### Artikel 9. Slaapruimten voor kinderen
+#### Artikel 9. Slaapruimten voor kinderen
 
 Vervallen
 
-##### Artikel 10. Buitenspeelterrein
+#### Artikel 10. Buitenspeelterrein
 
 Vervallen
 
 #### Paragraaf 3. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
 
-##### Artikel 11. Inventarisatie van risico’s voorzieningen voor gastouderopvang
+#### Artikel 11. Inventarisatie van risico’s voorzieningen voor gastouderopvang
 
 1. Bij elke voorziening voor gastouderopvang is een originele door de bemiddelingsmedewerker en de gastouder ondertekende versie van de in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7) bedoelde inventarisatie van de veiligheids- en gezondheidsrisico’s aanwezig. De inventarisatie bevat in ieder geval de risico’s, bedoeld in artikel 7, derde lid, van het besluit.
 
@@ -104,11 +78,11 @@ Vervallen
 
 4. De gastouder draagt er zorg voor dat de lijst, bedoeld in het derde lid, onder c, actueel is.
 
-##### Artikel 12. Adequate vervanging bij calamiteiten
+#### Artikel 12. Adequate vervanging bij calamiteiten
 
 Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=12), houdt in dat in ieder geval bij de opvang van meer dan drie aanwezige kinderen een achterwachtregeling wordt getroffen waarin een achterwacht beschikbaar is die bij calamiteiten binnen 15 minuten bij het opvangadres aanwezig is. Deze persoon is tijdens opvangtijden altijd telefonisch bereikbaar.
 
-##### Artikel 13. Aantal op te vangen kinderen
+#### Artikel 13. Aantal op te vangen kinderen
 
 1. Bij een gastouder worden maximaal zes kinderen in de leeftijd tot 13 jaar gelijktijdig opgevangen. Eigen kinderen tot 10 jaar worden meegerekend.
 
@@ -116,7 +90,7 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 3. In de groep, bedoeld in het eerste en tweede lid, worden maximaal 4 kinderen tot 2 jaar gelijktijdig opgevangen, waarvan maximaal 2 kinderen tot 1 jaar.
 
-##### Artikel 14. Eisen ruimtes gastouderopvang
+#### Artikel 14. Eisen ruimtes gastouderopvang
 
 1. De voorziening voor gastouderopvang:
 
@@ -130,21 +104,21 @@ Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, va
 
 #### Paragraaf 4. Kwaliteitseisen peuterspeelzalen
 
-##### Artikel 15. Gewijzigde grondslag
+#### Artikel 15. Gewijzigde grondslag
 
 Deze regeling berust op de [artikelen 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=7), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=9), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=11), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=12), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=14), en [15, tweede lid, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=15).
 
-##### Artikel 16. Citeertitel
+#### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang.
 
-##### Artikel 17. Beroepskwalificatie personeel
+#### Artikel 17. Beroepskwalificatie personeel
 
 1. De beroepskwalificatie-eisen en bewijsstukken genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Welzijn en Maatschappelijke Dienstverlening worden aangemerkt als een passende beroepskwalificatie, als bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=18).
 
 2. De houder van een peuterspeelzaal informeert ouders over het aantal, de inzet en de opleiding van het personeel voor zover de ouder dat nodig heeft om een goede keuze te kunnen maken voor een peuterspeelzaal.
 
-##### Artikel 18. Aantal kinderen, vaste beroepskrachten en omvang van de peuterspeelzaalgroep
+#### Artikel 18. Aantal kinderen, vaste beroepskrachten en omvang van de peuterspeelzaalgroep
 
 1. In een peuterspeelzaal vindt de opvang plaats in peuterspeelzaalgroepen, met dien verstande dat in een peuterspeelzaalgroep ten hoogste zestien kinderen gelijktijdig aanwezig zijn.
 
@@ -156,11 +130,11 @@ Deze regeling wordt aangehaald als: Regeling kwaliteit gastouderbureaus, gastoud
 
 5. Bij werk in een peuterspeelzaalgroep met meer dan acht feitelijk aanwezige kinderen, doch ten hoogste zestien feitelijk aanwezige kinderen, zijn er twee beroepskrachten of een beroepskracht en een vrijwilliger aanwezig.
 
-##### Artikel 19. Adequate vervanging bij calamiteiten
+#### Artikel 19. Adequate vervanging bij calamiteiten
 
 Een adequate vervanging bij calamiteiten, bedoeld in [artikel 19, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=19), houdt in ieder geval in dat zodra er slechts één beroepskracht in een peuterspeelzaal aanwezig is op het moment dat er kinderen aanwezig zijn in de peuterspeelzaal, er een volwassen achterwacht beschikbaar is, die in geval van calamiteiten binnen 15 minuten in de peuterspeelzaal aanwezig kan zijn. De houder van een peuterspeelzaal informeert de bij de peuterspeelzaal werkzame personen over de naam en het telefoonnummer van deze persoon.
 
-##### Artikel 20. Pedagogisch beleidsplan
+#### Artikel 20. Pedagogisch beleidsplan
 
 Een pedagogisch beleidsplan, bedoeld in [artikel 20 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=20), bevat in duidelijke en observeerbare termen ten minste een beschrijving van:
 
@@ -182,7 +156,7 @@ Een pedagogisch beleidsplan, bedoeld in [artikel 20 van het besluit](https://wet
 
 - i. de wijze waarop het vierogenprincipe van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=4&artikel=18a&z=2016-09-01&g=2016-09-01) is vormgegeven.
 
-##### Artikel 21. Vrijwilligersbeleid
+#### Artikel 21. Vrijwilligersbeleid
 
 1. In een beleidsplan, bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=18) staan in ieder geval:
 
@@ -196,17 +170,17 @@ Een pedagogisch beleidsplan, bedoeld in [artikel 20 van het besluit](https://wet
 
 #### Paragraaf 5. Slotbepalingen
 
-##### Artikel 22. Inwerkingtreding
+#### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621) in werking treedt.
 
-##### Artikel 23. Citeertitel
+#### Artikel 23. Citeertitel
 
 Deze Regeling wordt aangehaald als: Regeling kwaliteit kinderopvang en peuterspeelzalen 2012
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 5a. Vierogenprincipe bij dagopvang
+#### Artikel 5a. Vierogenprincipe bij dagopvang
 
 Vervallen
 
@@ -228,7 +202,7 @@ In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 11a. Gesprekken gastouderbureau
+#### Artikel 11a. Gesprekken gastouderbureau
 
 1. De houder van een gastouderbureau draagt er zorg voor dat:
 
@@ -246,7 +220,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De gesprekken, bedoeld in het eerste lid, onder a, b, c en d, worden gevoerd door een bemiddelingsmedewerker van het gastouderbureau.
 
-##### Artikel 11b. Zorgplicht gastouderbureaus
+#### Artikel 11b. Zorgplicht gastouderbureaus
 
 1. De houder van een gastouderbureau draagt er zorg voor dat per voorziening voor gastouderopvang wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen, bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=14), verantwoord is.
 
@@ -278,7 +252,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De houder van een gastouderbureau draagt er zorg voor dat het gastouderbureau goed bereikbaar is voor de vraagouder en de gastouder en verstrekt hen hierover informatie.
 
-##### Artikel 12a. Pedagogisch beleidsplan
+#### Artikel 12a. Pedagogisch beleidsplan
 
 1. Een pedagogisch beleidsplan als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=11) bevat in duidelijke en observeerbare termen ten minste een beschrijving van:
 
@@ -306,7 +280,7 @@ In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 18a. Vierogenprincipe bij peuterspeelzaal
+#### Artikel 18a. Vierogenprincipe bij peuterspeelzaal
 
 De houder van een peuterspeelzaal organiseert de opvang op zodanige wijze, dat de beroepskracht of de beroepskracht in opleiding de werkzaamheden uitsluitend kan verrichten terwijl hij gezien of gehoord kan worden door een andere volwassene.
 

@@ -1,38 +1,13 @@
 ---
-title: "Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op het gebruik in de openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in de openbare lichamen Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028778"
-country: "nl"
-rank: "circulaire_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028778"
-soort: "circulaire-BES"
-stam_id: "11011963"
-version_id: "28332462"
-internal_id: "C39940251"
-label_id: "10997434"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028778/2026-01-01/0"
-intitule_bron: "Stcrt.2010-15167"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-48343"
-original_signed_date: "2021-12-08"
-original_published_date: "2021-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-48343"
-entry_into_force_date: "2022-04-01"
-jci_1_3: "jci1.3:c:BWBR0028778&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028778&g=2026-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in de openbare lichamen Bonaire, Sint Eustatius en Saba"
-signed_date: "2021-12-08"
-entry_into_force: "2022-04-01"
+categorie: "Staatsinrichting en bestuur"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0028778"
 ---
+
 # Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op het gebruik in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ### Algemeen
