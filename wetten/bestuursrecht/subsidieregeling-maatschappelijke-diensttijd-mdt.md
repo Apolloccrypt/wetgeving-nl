@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 april 2023, nr. 37179289, houdende regels voor de subsidiëring van het programma Maatschappelijke Diensttijd (Subsidieregeling MDT 2023)"
+title: "Subsidieregeling Maatschappelijke Diensttijd (MDT)"
 identifier: "BWBR0048113"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-08"
-last_updated: "2026-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048113"
-soort: "ministeriele-regeling"
-stam_id: "16735063"
-version_id: "31515302"
-internal_id: "C45001951"
-label_id: "16651334"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048113/2026-04-08/0"
-intitule_bron: "Stcrt.2023-12901"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-24"
-intitule_published: "2023-05-01"
-intitule_in_force: "2023-05-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-13740"
-original_signed_date: "2026-04-01"
-original_published_date: "2026-04-07"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2026-13740"
-entry_into_force_date: "2026-04-01"
-jci_1_3: "jci1.3:c:BWBR0048113&z=2026-04-08&g=2026-04-08"
-jci_1_0: "1.0:c:BWBR0048113&g=2026-04-08"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Maatschappelijke Diensttijd (MDT)"
-signed_date: "2026-04-01"
-entry_into_force: "2026-04-01"
+categorie: "Overig"
+publicatiedatum: 2026-04-08
+laatste_update: 2026-05-06
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048113"
 ---
+
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 april 2023, nr. 37179289, houdende regels voor de subsidiëring van het programma Maatschappelijke Diensttijd (Subsidieregeling MDT 2023)
 
 ##### Artikel 1. Begripsbepalingen
@@ -214,17 +188,17 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - k. is verplicht deel te nemen aan meerdere onderdelen van onderzoek ten behoeve van de doorontwikkeling van het MDT-programma, te weten:
 
-- i. een gegevensuitvraag: penvoerder overlegt per kwartaal een overzicht aan het onafhankelijke onderzoeksbureau, met daarin kenmerken van jongeren en hun MDT-traject;
+  - i. een gegevensuitvraag: penvoerder overlegt per kwartaal een overzicht aan het onafhankelijke onderzoeksbureau, met daarin kenmerken van jongeren en hun MDT-traject;
 
-- ii. jongeren vragenlijsten: de penvoerder draagt zorg voor een minimum respons van 70% van de deelnemende jongeren op de jongeren vragenlijsten;
+  - ii. jongeren vragenlijsten: de penvoerder draagt zorg voor een minimum respons van 70% van de deelnemende jongeren op de jongeren vragenlijsten;
 
-- iii. projectleiders vragenlijsten: het invullen van aanvullende vragenlijsten door de penvoerder éénmaal per kwartaal. De penvoerder is hiervoor onder andere verplicht een geanonimiseerde registratie bij te houden met betrekking tot eigenschappen van de deelnemende jongeren ten behoeve van onderzoek naar MDT;
+  - iii. projectleiders vragenlijsten: het invullen van aanvullende vragenlijsten door de penvoerder éénmaal per kwartaal. De penvoerder is hiervoor onder andere verplicht een geanonimiseerde registratie bij te houden met betrekking tot eigenschappen van de deelnemende jongeren ten behoeve van onderzoek naar MDT;
 
-- iv. impactonderzoek: deelname aan het centrale onderzoek naar de maatschappelijke impact van MDT;
+  - iv. impactonderzoek: deelname aan het centrale onderzoek naar de maatschappelijke impact van MDT;
 
-- v. beleidsevaluaties: deelname aan door de minister nader te bepalen overige beleidsevaluaties;
+  - v. beleidsevaluaties: deelname aan door de minister nader te bepalen overige beleidsevaluaties;
 
-- vi. een vragenlijst na verlening: de penvoerder overlegt binnen twee maanden na verlening een ingevulde vragenlijst ten behoeve van de registratie van het MDT-project en startmeting van onderzoek.
+  - vi. een vragenlijst na verlening: de penvoerder overlegt binnen twee maanden na verlening een ingevulde vragenlijst ten behoeve van de registratie van het MDT-project en startmeting van onderzoek.
 
 ##### Artikel 10. Beoordelingscommissie
 
@@ -431,13 +405,13 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - b. in afwijking van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=2&artikel=6&z=2026-04-08&g=2026-04-08), het aangevraagde subsidiebedrag niet hoger kan zijn dan:
 
-- i. maximaal € 1.476,– per MDT-basis-traject;
+  - i. maximaal € 1.476,– per MDT-basis-traject;
 
-- ii. maximaal € 2.110,– per MDT-extra-traject;
+  - ii. maximaal € 2.110,– per MDT-extra-traject;
 
-- iii. maximaal € 2.363,– per MDT-plus-traject;
+  - iii. maximaal € 2.363,– per MDT-plus-traject;
 
-- iv. maximaal € 3.967,– per MDT-intensief-traject.
+  - iv. maximaal € 3.967,– per MDT-intensief-traject.
 
 ##### Artikel 9e. Wijze van verdeling beschikbare middelen
 
@@ -677,17 +651,17 @@ Aan de subsidie zijn de volgende verplichtingen verbonden:
 
 - i. De penvoerder is verplicht deel te nemen aan onderzoek ten behoeve van de doorontwikkeling van het MDT-programma. Het onderzoek omvat:
 
-- 1°. een gegevensregistratie: het invullen van een geanonimiseerde en doorlopende registratie van deelnemers bij het onafhankelijke onderzoeksbureau ten behoeve van onderzoek naar MDT;
+  - 1°. een gegevensregistratie: het invullen van een geanonimiseerde en doorlopende registratie van deelnemers bij het onafhankelijke onderzoeksbureau ten behoeve van onderzoek naar MDT;
 
-- 2°. jongerenvragenlijsten: de penvoerder draagt zorg voor een minimum respons van 70% van de deelnemende jongeren op de jongerenvragenlijsten;
+  - 2°. jongerenvragenlijsten: de penvoerder draagt zorg voor een minimum respons van 70% van de deelnemende jongeren op de jongerenvragenlijsten;
 
-- 3°. projectleidersvragenlijsten: het invullen van aanvullende vragenlijsten door de penvoerder eenmaal per kwartaal;
+  - 3°. projectleidersvragenlijsten: het invullen van aanvullende vragenlijsten door de penvoerder eenmaal per kwartaal;
 
-- 4°. impactonderzoek: deelname aan het centrale onderzoek naar de maatschappelijke impact van MDT;
+  - 4°. impactonderzoek: deelname aan het centrale onderzoek naar de maatschappelijke impact van MDT;
 
-- 5°. beleidsevaluaties: deelname aan door de minister nader te bepalen overige beleidsevaluaties; en
+  - 5°. beleidsevaluaties: deelname aan door de minister nader te bepalen overige beleidsevaluaties; en
 
-- 6°. een vragenlijst na verlening: de penvoerder overlegt binnen twee maanden na de datum van het besluit tot subsidieverlening een ingevulde vragenlijst ten behoeve van de registratie van het MDT-project en startmeting van onderzoek.
+  - 6°. een vragenlijst na verlening: de penvoerder overlegt binnen twee maanden na de datum van het besluit tot subsidieverlening een ingevulde vragenlijst ten behoeve van de registratie van het MDT-project en startmeting van onderzoek.
 
 - j. De penvoerder draagt er zorg voor dat medewerkers en vrijwilligers binnen het partnerschap die met jongeren werkzaam zijn, in het bezit zijn van een geldige Verklaring Omtrent Gedrag;
 
@@ -754,7 +728,7 @@ De beoordelingscommissie beoordeelt de kwaliteit van de aanvragen voor nieuwe pe
 | **6. Samenwerking en toekomstgericht werken** **Weging: 10%** | b. Wervingsstrategie **Weging: 30%** | Uit de aanvraag blijkt in ieder geval: – een passende wervingsstrategie, inclusief een concrete beschrijving van de werkwijze en een onderbouwing waaruit blijkt dat deze aansluit bij de beoogde doelgroep; – duidelijkheid over de betrokken partij(en) bij de werving en de rolverdeling binnen de uitvoering. |
 | **6. Samenwerking en toekomstgericht werken** **Weging: 10%** | c. Samenwerking en kennisdeling buiten het partnerschap **Weging: 20%** | Uit de aanvraag blijkt in ieder geval: – hoe het partnerschap kennis deelt en samenwerking opzoekt met andere MDT-partnerschappen, bijvoorbeeld binnen een regionaal samenwerkingsverband; – welke activiteiten opgezet worden in het kader van kennisdeling en samenwerking, en welk doel of welke meerwaarde deze activiteiten hebben. |
 | **6. Samenwerking en toekomstgericht werken** **Weging: 10%** | d. Verduurzaming **Weging: 20%** | Uit de aanvraag blijkt in ieder geval: – welke stappen al zijn gezet en/of welke plannen er zijn om de voorgestelde MDT-activiteiten toekomstbestendig en duurzaam te maken. Denk aan aansluiting op bestaande initiatieven en infrastructuur van onderwijs, gemeenten en andere lokale overheden, maatschappelijke organisaties, bedrijven en fondsen; – welke stappen al zijn gezet en/of welke plannen er zijn om het financiële eigenaarschap (cofinanciering) uit te breiden en het inhoudelijk eigenaarschap te verbreden via relevante samenwerkingen die bijdragen aan projectdoelen en toekomstbestendigheid van activiteiten. |
-| **7. Begroting en activiteitenplan** **Weging: voldoet/voldoet niet** | a. Cofinanciering **Weging: voldoet/voldoet niet (+ 0,1 of +0,2 op eindscore)** | Uit de begroting en cofinancieringsverklaringen blijkt: – dat de minimale cofinanciering van 30% is begroot en voldoet aan de eisen van de regeling. – Indien de totale cofinanciering meer dan 35% betreft, wordt 0,1 punt extra toegekend aan de gewogen totaalscore. – Indien meer dan 5% van de totale projectkosten wordt gedekt door cofinanciering in geld of op geld waardeerbaar wordt 0,1 punt extra toegekend aan de gewogen totaalscore. |
+| **7. Begroting en activiteitenplan** **Weging: voldoet/voldoet niet** | a. Cofinanciering **Weging: voldoet/voldoet niet (+ 0,1 of +0,2 op eindscore)** | Uit de begroting en cofinancieringsverklaringen blijkt: – dat de minimale cofinanciering van 30% is begroot en voldoet aan de eisen van de regeling. – Indien de totale cofinanciering meer dan 35% betreft, wordt 0,1 punt extra toegekend aan de gewogen totaalscore. – Indien meer dan 5% van de totale projectkosten wordt gedekt door cofinanciering in geld wordt 0,1 punt extra toegekend aan de gewogen totaalscore. |
 | **7. Begroting en activiteitenplan** **Weging: voldoet/voldoet niet** | b. Sluitende meerjarenbegroting **Weging: voldoet/voldoet niet** | – De aangeleverde begroting voldoet aan de voorwaarden van [artikel 3.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5). – De aangeleverde begroting is meerjarig, sluitend en geeft inzicht in de loonkosten, materiële kosten en overige kosten. Daarnaast maakt de begroting inzichtelijk hoe de middelen binnen het partnerschap worden verdeeld. |
 | **7. Begroting en activiteitenplan** **Weging: voldoet/voldoet niet** | c. Activiteitenplan **Weging: voldoet/voldoet niet** | Uit het activiteitenplan blijkt dat de voorgestelde activiteiten subsidiabel zijn op basis van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=1&artikel=4&z=2026-04-08&g=2026-04-08) van deze subsidieregeling. |
 

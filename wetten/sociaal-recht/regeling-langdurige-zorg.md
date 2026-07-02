@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende regels inzake de Wet langdurige zorg (Regeling langdurige zorg)"
+title: "Regeling langdurige zorg"
 identifier: "BWBR0036014"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0036014"
-soort: "ministeriele-regeling"
-stam_id: "12906903"
-version_id: "26381612"
-internal_id: "C37490001"
-label_id: "12876954"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0036014/2026-01-01/0"
-intitule_bron: "Stcrt.2014-36917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-11"
-intitule_published: "2014-12-24"
-intitule_in_force: "2014-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-70431"
-original_signed_date: "2019-12-17"
-original_published_date: "2019-12-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2019-70431"
-entry_into_force_date: "2019-12-17"
-jci_1_3: "jci1.3:c:BWBR0036014&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0036014&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling langdurige zorg"
-signed_date: "2019-12-17"
-entry_into_force: "2019-12-17"
+categorie: "Overig"
+publicatiedatum: 2026-05-30
+laatste_update: 2026-06-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0036014"
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende regels inzake de Wet langdurige zorg (Regeling langdurige zorg)
 
 Gelet op de [artikelen 3.1.1, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1), [3.1.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.2), [3.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.2), [3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.5), [3.3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3), [3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.5.2), [3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.5.3), [3.6.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.2), [3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.3), [3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.4), [3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.5), [3.6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.6), [3.6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.7), [3.7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.7.2), [4.2.1, tweede lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=4.2.1), [artikel 21, derde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=21), de [artikelen 9.1.2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.2), [9.1.3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.3), [11.1.5, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.5), [11.1.8, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.8), en [artikel 49e, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e),
@@ -66,23 +40,23 @@ In deze regeling wordt verstaan onder:
 
 - **multiple sclerose met ernstige motorische beperkingen:** multiple sclerose waarbij sprake is van daaruit voortvloeiende ernstige motorische beperkingen met volledige afhankelijkheid van een rolstoel of bedgebondenheid, cognitieve beperkingen en zorgafhankelijkheid voor de (instrumentele) algemene dagelijkse levensverrichtingen, in combinatie met:
 
-- a. somatische kwetsbaarheid;
+  - a. somatische kwetsbaarheid;
 
-- b. communicatiestoornissen;
+  - b. communicatiestoornissen;
 
-- c. problemen in het psychosociaal functioneren; of
+  - c. problemen in het psychosociaal functioneren; of
 
-- d. een uit de multiple sclerose voortvloeiende psychiatrische stoornis;
+  - d. een uit de multiple sclerose voortvloeiende psychiatrische stoornis;
 
-- **niet-aangeboren hersenletsel met zeer ernstig probleemgedrag:** hersenletsel dat is ontstaan anders dan voor, rondom of vanwege de geboorte en dat niet progressief is, waarbij sprake is van uit het hersenletsel voortvloeiend zeer ernstig regieverlies, een ernstige stoornis in de zelfregulering van het sociaal-emotioneel functioneren en zeer ernstig probleemgedrag dat geen gevolg is van een aandoening als bedoeld in [artikel 2.2, eerste lid, onderdeel c, onder 8° tot en met 13°](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) in combinatie met:
+- **niet-aangeboren hersenletsel met zeer ernstig probleemgedrag:** hersenletsel dat is ontstaan anders dan voor, rondom of vanwege de geboorte en dat niet progressief is, waarbij sprake is van uit het hersenletsel voortvloeiend zeer ernstig regieverlies, een ernstige stoornis in de zelfregulering van het sociaal-emotioneel functioneren en zeer ernstig probleemgedrag dat geen gevolg is van een aandoening als bedoeld in [artikel 2.2, eerste lid, onderdeel c, onder 8° tot en met 13°](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) in combinatie met:
 
-- a. ernstige meervoudige cognitieve stoornissen;
+  - a. ernstige meervoudige cognitieve stoornissen;
 
-- b. problemen met betrekking tot (instrumentele) algemene dagelijkse levensverrichtingen;
+  - b. problemen met betrekking tot (instrumentele) algemene dagelijkse levensverrichtingen;
 
-- c. onvoldoende inzicht in het eigen functioneren of zelfreflectie; of
+  - c. onvoldoende inzicht in het eigen functioneren of zelfreflectie; of
 
-- d. een stoornis in de prikkelverwerking;
+  - d. een stoornis in de prikkelverwerking;
 
 - **persoonlijk plan:** persoonlijk plan als bedoeld in [artikel 3.3.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3), waarin een aanvulling kan worden gegeven op het budgetplan;
 
@@ -102,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2.1
 
-De zorgprofielen, bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1), zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-01-01&g=2026-01-01) bij deze regeling.
+De zorgprofielen, bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1), zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-05-30&g=2026-05-30) bij deze regeling.
 
 ##### Artikel 2.2
 
@@ -110,83 +84,83 @@ De zorgprofielen, bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https:
 
 - a. de verzekerde krachtens zijn indicatiebesluit is aangewezen op zorgprofiel:
 
-- –. VV Beschermd wonen met zeer intensieve zorg vanwege specifieke aandoeningen, met de nadruk op begeleiding,
+  - –. VV Beschermd wonen met zeer intensieve zorg vanwege specifieke aandoeningen, met de nadruk op begeleiding,
 
-- –. VV Beschermd wonen met zeer intensieve zorg vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging,
+  - –. VV Beschermd wonen met zeer intensieve zorg vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging,
 
-- –. VG Wonen met intensieve begeleiding en intensieve verzorging,
+  - –. VG Wonen met intensieve begeleiding en intensieve verzorging,
 
-- –. VG (Besloten) wonen met zeer intensieve begeleiding, verzorging en gedragsregulering,
+  - –. VG (Besloten) wonen met zeer intensieve begeleiding, verzorging en gedragsregulering,
 
-- –. VG Wonen met begeleiding en volledige verzorging en verpleging,
+  - –. VG Wonen met begeleiding en volledige verzorging en verpleging,
 
-- –. LVG Wonen met zeer intensieve behandeling en begeleiding,
+  - –. LVG Wonen met zeer intensieve behandeling en begeleiding,
 
-- –. LVG Besloten wonen met zeer intensieve behandeling en begeleiding,
+  - –. LVG Besloten wonen met zeer intensieve behandeling en begeleiding,
 
-- –. LVG Behandeling in een SGLVG behandelcentrum,
+  - –. LVG Behandeling in een SGLVG behandelcentrum,
 
-- –. LG Wonen met begeleiding en intensieve verzorging,
+  - –. LG Wonen met begeleiding en intensieve verzorging,
 
-- –. LG Wonen met intensieve begeleiding en intensieve verzorging,
+  - –. LG Wonen met intensieve begeleiding en intensieve verzorging,
 
-- –. LG Wonen met zeer intensieve begeleiding en zeer intensieve verzorging,
+  - –. LG Wonen met zeer intensieve begeleiding en zeer intensieve verzorging,
 
-- –. ZGaud Wonen met intensieve begeleiding en intensieve verzorging,
+  - –. ZGaud Wonen met intensieve begeleiding en intensieve verzorging,
 
-- –. ZGvis Wonen met zeer intensieve begeleiding en zeer intensieve verzorging,
+  - –. ZGvis Wonen met zeer intensieve begeleiding en zeer intensieve verzorging,
 
-- –. GGZ-B Voortgezet verblijf met intensieve begeleiding en intensieve verpleging en verzorging,
+  - –. GGZ-B Voortgezet verblijf met intensieve begeleiding en intensieve verpleging en verzorging,
 
-- –. GGZ-B Beveiligd voortgezet verblijf vanwege extreme gedragsproblematiek met zeer intensieve begeleiding,
+  - –. GGZ-B Beveiligd voortgezet verblijf vanwege extreme gedragsproblematiek met zeer intensieve begeleiding,
 
-- –. GGZ wonen met intensieve begeleiding en intensieve verpleging en verzorging, of
+  - –. GGZ wonen met intensieve begeleiding en intensieve verpleging en verzorging, of
 
-- –. GGZ Beveiligd wonen vanwege extreme gedragsproblematiek met zeer intensieve begeleiding.
+  - –. GGZ Beveiligd wonen vanwege extreme gedragsproblematiek met zeer intensieve begeleiding.
 
 - b. de verzekerde op 31 december 2014 recht had op zorgzwaartepakket 7 VV, 8 VV, 5 VG, 7 VG, 8 VG, 4 LVG, 5 LVG, 1 SGLVG, 5 LG, 6 LG, 7 LG, 3 ZGaud, 5 ZGvis, 6b GGZ of 7b GGZ, of
 
 - c. de behoefte aan zorg tevens bestaat uit:
 
-- 1°. gespecialiseerde epilepsiezorg;
+  - 1°. gespecialiseerde epilepsiezorg;
 
-- 2°. chronische invasieve beademing;
+  - 2°. chronische invasieve beademing;
 
-- 3°. non-invasieve beademing;
+  - 3°. non-invasieve beademing;
 
-- 4°. klinisch intensieve behandeling;
+  - 4°. klinisch intensieve behandeling;
 
-- 5°. niet-strafrechtelijke forensische psychiatrie;
+  - 5°. niet-strafrechtelijke forensische psychiatrie;
 
-- 6°. observatie;
+  - 6°. observatie;
 
-- 7°. zorg in verband met een CVA;
+  - 7°. zorg in verband met een CVA;
 
-- 8°. zorg in verband met de ziekte van Huntington;
+  - 8°. zorg in verband met de ziekte van Huntington;
 
-- 9°. gespecialiseerde zorg in verband met de ziekte van Huntington waarbij sprake is van verblijf in een instelling;
+  - 9°. gespecialiseerde zorg in verband met de ziekte van Huntington waarbij sprake is van verblijf in een instelling;
 
-- 10°. gespecialiseerde zorg in verband met het syndroom van Korsakov waarbij sprake is van verblijf in een instelling;
+  - 10°. gespecialiseerde zorg in verband met het syndroom van Korsakov waarbij sprake is van verblijf in een instelling;
 
-- 11°. gespecialiseerde zorg in verband met een langdurige bewustzijnsstoornis waarbij sprake is van verblijf in een instelling;
+  - 11°. gespecialiseerde zorg in verband met een langdurige bewustzijnsstoornis waarbij sprake is van verblijf in een instelling;
 
-- 12°. gespecialiseerde zorg in verband met dementie met zeer ernstig probleemgedrag die gericht is op verbetering van het probleemgedrag en waarbij sprake is van verblijf in een instelling;
+  - 12°. gespecialiseerde zorg in verband met dementie met zeer ernstig probleemgedrag die gericht is op verbetering van het probleemgedrag en waarbij sprake is van verblijf in een instelling;
 
-- 13°. gespecialiseerde zorg in verband met een zeer ernstige gerontopsychiatrische aandoening waarbij sprake is van verblijf in een instelling;
+  - 13°. gespecialiseerde zorg in verband met een zeer ernstige gerontopsychiatrische aandoening waarbij sprake is van verblijf in een instelling;
 
-- 14°. gespecialiseerde zorg in verband met multiple sclerose met ernstige motorische beperkingen waarbij sprake is van verblijf in een instelling;
+  - 14°. gespecialiseerde zorg in verband met multiple sclerose met ernstige motorische beperkingen waarbij sprake is van verblijf in een instelling;
 
-- 15°. gespecialiseerde zorg in verband met niet-aangeboren hersenletsel met zeer ernstig probleemgedrag waarbij sprake is van verblijf in een instelling; of
+  - 15°. gespecialiseerde zorg in verband met niet-aangeboren hersenletsel met zeer ernstig probleemgedrag waarbij sprake is van verblijf in een instelling; of
 
-- 16°. coördinerende activiteiten in het kader van de levensloopaanpak zoals omschreven in de Ketenveldnorm levensloopfunctie en beveiligde intensieve zorg.
+  - 16°. coördinerende activiteiten in het kader van de levensloopaanpak zoals omschreven in de Ketenveldnorm levensloopfunctie en beveiligde intensieve zorg.
 
 - d. de verzekerde is aangewezen op palliatief terminale zorg en hij verblijft in een instelling en voor zover:
 
-- 1°. er een noodzaak is tot zeer intensieve 24-uurszorg, die op grond van het hem geïndiceerde zorgprofiel niet mogelijk is;
+  - 1°. er een noodzaak is tot zeer intensieve 24-uurszorg, die op grond van het hem geïndiceerde zorgprofiel niet mogelijk is;
 
-- 2°. er een noodzaak is tot bestrijding van zware pijn, verwardheid, benauwdheid of onrust; en
+  - 2°. er een noodzaak is tot bestrijding van zware pijn, verwardheid, benauwdheid of onrust; en
 
-- 3°. er sprake is van complexe zorg en inzet van verschillende disciplines en noodzaak van continue nabijheid van zorg, of
+  - 3°. er sprake is van complexe zorg en inzet van verschillende disciplines en noodzaak van continue nabijheid van zorg, of
 
 - e. de verzekerde is aangewezen op palliatief terminale zorg en hij zijn recht op zorg tot gelding brengt met een volledig pakket thuis, of
 
@@ -196,9 +170,9 @@ De zorgprofielen, bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https:
 
 - a. de verzekerde krachtens zijn indicatiebesluit is aangewezen op het zorgprofiel:
 
-- –. VG wonen met intensieve begeleiding en intensieve verzorging en er sprake is van een noodzaak tot permanent toezicht vanwege zwaar complexe somatische problematiek,
+  - –. VG wonen met intensieve begeleiding en intensieve verzorging en er sprake is van een noodzaak tot permanent toezicht vanwege zwaar complexe somatische problematiek,
 
-- –. VG wonen met begeleiding en volledige verzorging en verpleging en er sprake is van een noodzaak tot permanent toezicht vanwege zwaar complexe somatische problematiek, of
+  - –. VG wonen met begeleiding en volledige verzorging en verpleging en er sprake is van een noodzaak tot permanent toezicht vanwege zwaar complexe somatische problematiek, of
 
 - b. de behoefte aan zorg tevens bestaat uit chronische invasieve beademing of chronische non-invasieve beademing.
 
@@ -294,9 +268,9 @@ De zorgprofielen, bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https:
 
 - b. drie maanden, indien het betreft:
 
-- 1°. aanvullende functionele diagnostiek;
+  - 1°. aanvullende functionele diagnostiek;
 
-- 2°. consultatie;
+  - 2°. consultatie;
 
 - c. een jaar, indien het medebehandeling betreft.
 
@@ -320,49 +294,33 @@ Vervallen
 
 - a. het bedrag van een uitkering die een schadevergoeding vormt voor letselschade waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak;
 
-- b. het bedrag van een uitkering als bedoeld in [artikel 9bis van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9bis);
+- b. het bedrag van een uitkering als bedoeld in de [artikelen 9bis](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9bis) en [9quater van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9quater);
 
 - c. het bedrag van een uitkering als bedoeld in [artikel 9ter van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9ter);
 
-- d. het bedrag van een uitkering als bedoeld in [artikel 9quater van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9quater);
+- d. een uitkering van kindgebonden budget met betrekking tot de berekeningsjaren 2013 tot en met 2017 door de Dienst Toeslagen in het kader van de herstelactie kindgebonden budget.
 
-- e. het bedrag van een uitkering als bedoeld in [artikel 9quinquies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9quinquies);
+2. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdeel d, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.3.1.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2), bedraagt een jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
 
-- f. het bedrag van een uitkering als bedoeld in [artikel 9sexies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9sexies);
+3. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdeel b, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.3.1.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2), bedraagt tien jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
 
-- g. het bedrag van een uitkering als bedoeld in [artikel 9septies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9septies);
-
-- h. het bedrag van een uitkering als bedoeld in [artikel 9octies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9octies);
-
-- i. het bedrag van een uitkering als bedoeld in [artikel 9novies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9novies);
-
-- j. het bedrag van een uitkering als bedoeld in artikel 9decies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen;
-
-- k. het bedrag van een uitkering als bedoeld in artikel 9undecies van de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen;
-
-- l. een uitkering van kindgebonden budget met betrekking tot de berekeningsjaren 2013 tot en met 2017 door de Dienst Toeslagen in het kader van de herstelactie kindgebonden budget.
-
-2. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdeel l, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.3.1.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2), bedraagt een jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
-
-3. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdeel e tot en met g, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.3.1.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2), bedraagt drie jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
-
-4. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdelen b, c, d, h, i, j en k, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.3.1.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2), bedraagt tien jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
+4. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdeel c, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.3.1.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2), bedraagt drie jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
 
 ##### Artikel 4.2
 
 Ingevolge [artikel 3.3.2.3, eerste lid, onderdeel b, onder 2°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3) worden op het bedrag, bedoeld in het eerste lid, onderdeel a, van dat artikel, in mindering gebracht:
 
-- a. een bedrag voor zak- en kleedgeld, genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01);
+- a. een bedrag voor zak- en kleedgeld, genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-05-30&g=2026-05-30);
 
-- b. een bedrag in verband met de premie zorgverzekering, genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01);
+- b. een bedrag in verband met de premie zorgverzekering, genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-05-30&g=2026-05-30);
 
-- c. een aftrekpost, genoemd in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.5&z=2026-01-01&g=2026-01-01), en
+- c. een aftrekpost, genoemd in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.5&z=2026-05-30&g=2026-05-30), en
 
-- d. een extra vrijlating, genoemd in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01).
+- d. een extra vrijlating, genoemd in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-05-30&g=2026-05-30).
 
 ##### Artikel 4.3
 
-Het bedrag voor zak- en kleedgeld, bedoeld in [artikel 4.2, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), bedraagt:
+Het bedrag voor zak- en kleedgeld, bedoeld in [artikel 4.2, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-05-30&g=2026-05-30), bedraagt:
 
 - a. voor de ongehuwde verzekerde: € 4.925;
 
@@ -370,7 +328,7 @@ Het bedrag voor zak- en kleedgeld, bedoeld in [artikel 4.2, aanhef en onder a](h
 
 ##### Artikel 4.4
 
-1. Het bedrag in verband met de premie zorgverzekering, bedoeld in [artikel 4.2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), bedraagt:
+1. Het bedrag in verband met de premie zorgverzekering, bedoeld in [artikel 4.2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-05-30&g=2026-05-30), bedraagt:
 
 - a. voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd heeft bereikt: € 1.987 vermeerderd met 5,32% van het inkomen, met dien verstande dat ten minste € 3.029,45 en ten hoogste € 5.797,61 in mindering wordt gebracht;
 
@@ -382,9 +340,9 @@ Het bedrag voor zak- en kleedgeld, bedoeld in [artikel 4.2, aanhef en onder a](h
 
 - e. voor de overige gehuwde verzekerden wordt de aftrek:
 
-- 1°. voor de gehuwde verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt, berekend overeenkomstig de in onderdeel b geregelde berekeningswijze en geldt het daarbij genoemde maximumbedrag;
+  - 1°. voor de gehuwde verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt, berekend overeenkomstig de in onderdeel b geregelde berekeningswijze en geldt het daarbij genoemde maximumbedrag;
 
-- 2°. voor de gehuwde verzekerde die de pensioengerechtigde leeftijd heeft bereikt berekend overeenkomstig de in onderdeel c geregelde berekeningswijze en geldt het daarbij genoemde maximum- en minimumbedrag.
+  - 2°. voor de gehuwde verzekerde die de pensioengerechtigde leeftijd heeft bereikt berekend overeenkomstig de in onderdeel c geregelde berekeningswijze en geldt het daarbij genoemde maximum- en minimumbedrag.
 
 2. Indien de verzekerde op 1 januari van het peiljaar aanspraak had op een zorgtoeslag wordt op de aftrek, bedoeld in het eerste lid, in mindering gebracht:
 
@@ -394,7 +352,7 @@ Het bedrag voor zak- en kleedgeld, bedoeld in [artikel 4.2, aanhef en onder a](h
 
 ##### Artikel 4.5
 
-Het bedrag van de aftrekpost, bedoeld in [artikel 4.2, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), bedraagt:
+Het bedrag van de aftrekpost, bedoeld in [artikel 4.2, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-05-30&g=2026-05-30), bedraagt:
 
 - a. voor de verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt: € 2.315;
 
@@ -408,11 +366,11 @@ Het bedrag van de aftrekpost, bedoeld in [artikel 4.2, aanhef en onder c](https:
 
 1. Een modulair pakket thuis, persoonsgebonden budget of een combinatie hiervan kan slechts worden toegekend indien de zorg op een verantwoorde en doelmatige wijze ten huize van de verzekerde kan worden verleend.
 
-2. Voor het persoonsgebonden budget is het basisbedrag, genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-01-01&g=2026-01-01), beschikbaar, verminderd met de kosten van het modulair pakket thuis voor huishoudelijke hulp, persoonlijke verzorging, verpleging, logeeropvang, individuele begeleiding en begeleiding in groepsverband en vervoer.
+2. Voor het persoonsgebonden budget is het basisbedrag, genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-05-30&g=2026-05-30), beschikbaar, verminderd met de kosten van het modulair pakket thuis voor huishoudelijke hulp, persoonlijke verzorging, verpleging, logeeropvang, individuele begeleiding en begeleiding in groepsverband en vervoer.
 
 3. Indien de verzekerde kiest voor deeltijdverblijf, wordt het basisbedrag berekend naar rato van het aantal etmalen per week dat de verzekerde zorg thuis organiseert.
 
-4. De toepassing van het derde lid heeft geen betrekking op het basisbedrag dat volgens de bedragen in [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-01-01&g=2026-01-01) beschikbaar is voor begeleiding in groepsverband en vervoer.
+4. De toepassing van het derde lid heeft geen betrekking op het basisbedrag dat volgens de bedragen in [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-05-30&g=2026-05-30) beschikbaar is voor begeleiding in groepsverband en vervoer.
 
 ##### Artikel 5.2
 
@@ -430,7 +388,7 @@ Het bedrag van de aftrekpost, bedoeld in [artikel 4.2, aanhef en onder c](https:
 
 - b. de zorg niet langer wordt verleend dan gedurende ten hoogste dertien weken.
 
-2. Bij het verlenen van een volledig pakket thuis of modulair pakket thuis als bedoeld in [artikel 3.3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) zijn de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-01-01&g=2026-01-01), [5.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1a&z=2026-01-01&g=2026-01-01), [5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1b&z=2026-01-01&g=2026-01-01), [5.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1c&z=2026-01-01&g=2026-01-01), [5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1d&z=2026-01-01&g=2026-01-01), [5.1f](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1f&z=2026-01-01&g=2026-01-01) en 2 niet van toepassing.
+2. Bij het verlenen van een volledig pakket thuis of modulair pakket thuis als bedoeld in [artikel 3.3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) zijn de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-05-30&g=2026-05-30), [5.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1a&z=2026-05-30&g=2026-05-30), [5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1b&z=2026-05-30&g=2026-05-30), [5.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1c&z=2026-05-30&g=2026-05-30), [5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1d&z=2026-05-30&g=2026-05-30), [5.1f](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1f&z=2026-05-30&g=2026-05-30) en 2 niet van toepassing.
 
 3. Een volledig pakket thuis of een modulair pakket thuis als bedoeld in [artikel 3.3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) kan na de periode genoemd in het eerste lid worden verleend indien er zicht op is dat gezien de bijzondere omstandigheden van de verzekerde en zijn zorgbehoefte binnen afzienbare tijd na afloop van die periode zorg kan worden geboden in de instelling waar de verzekerde bij voorkeur in wil verblijven.
 
@@ -446,17 +404,17 @@ Een persoonsgebonden budget wordt niet verleend aan een verzekerde die:
 
 - a. krachtens zijn indicatiebesluit is aangewezen op zorgprofiel:
 
-- –. VV Herstelgerichte behandeling met verpleging en verzorging,
+  - –. VV Herstelgerichte behandeling met verpleging en verzorging,
 
-- –. LVG Wonen met intensieve behandeling en begeleiding, kleine groep,
+  - –. LVG Wonen met intensieve behandeling en begeleiding, kleine groep,
 
-- –. LVG Wonen met zeer intensieve behandeling en begeleiding,
+  - –. LVG Wonen met zeer intensieve behandeling en begeleiding,
 
-- –. LVG Besloten wonen met zeer intensieve behandeling en begeleiding, of
+  - –. LVG Besloten wonen met zeer intensieve behandeling en begeleiding, of
 
-- –. LVG Behandeling in een SGLVG behandelcentrum, of
+  - –. LVG Behandeling in een SGLVG behandelcentrum, of
 
-- –. GGZ Beveiligd wonen vanwege extreme gedragsproblematiek met zeer intensieve begeleiding, of
+  - –. GGZ Beveiligd wonen vanwege extreme gedragsproblematiek met zeer intensieve begeleiding, of
 
 - b. op 31 december 2014 recht had op zorgzwaartepakket 9b VV, 3 LVG, 4 LVG, 5 LVG of 1 SGLVG; of
 
@@ -474,7 +432,7 @@ Vervallen
 
 - b. aansluit op een periode waarin de verzekerde verbleef in een instelling als bedoeld in de wet of de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en dit verblijf aansloot op een eerdere subsidieperiode voor een persoonsgebonden budget.
 
-2. De [artikelen 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2026-01-01&g=2026-01-01), [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.8&z=2026-01-01&g=2026-01-01) en [5.9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op het verlenen van een persoonsgebonden budget met toepassing van het eerste lid.
+2. De [artikelen 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2026-05-30&g=2026-05-30), [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.8&z=2026-05-30&g=2026-05-30) en [5.9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2026-05-30&g=2026-05-30), zijn niet van toepassing op het verlenen van een persoonsgebonden budget met toepassing van het eerste lid.
 
 #### § 3. De aanvraag van een persoonsgebonden budget
 
@@ -504,7 +462,7 @@ Het verlenen van een persoonsgebonden budget wordt geweigerd indien:
 
 ##### Artikel 5.10
 
-Het zorgkantoor gaat bij de toepassing van [artikel 4:25 van de Algemene bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25), gelezen in samenhang met het subsidieplafond van de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.2&z=2026-01-01&g=2026-01-01), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.4&z=2026-01-01&g=2026-01-01), [8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.6&z=2026-01-01&g=2026-01-01), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.8&z=2026-01-01&g=2026-01-01), [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.10&z=2026-01-01&g=2026-01-01), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.12&z=2026-01-01&g=2026-01-01), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.14&z=2026-01-01&g=2026-01-01) en [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.16&z=2026-01-01&g=2026-01-01) van deze regeling uit van de datum van ontvangst van het in [artikel 3.6.2, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.2) bedoelde aanvraagformulier of, indien dat aanvraagformulier is ontvangen voor de datum van vaststelling van het indicatiebesluit, de datum van het indicatiebesluit.
+Het zorgkantoor gaat bij de toepassing van [artikel 4:25 van de Algemene bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25), gelezen in samenhang met het subsidieplafond van de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.2&z=2026-05-30&g=2026-05-30), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.4&z=2026-05-30&g=2026-05-30), [8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.6&z=2026-05-30&g=2026-05-30), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.8&z=2026-05-30&g=2026-05-30), [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.10&z=2026-05-30&g=2026-05-30), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.12&z=2026-05-30&g=2026-05-30), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.14&z=2026-05-30&g=2026-05-30) en [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.16&z=2026-05-30&g=2026-05-30) van deze regeling uit van de datum van ontvangst van het in [artikel 3.6.2, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.2) bedoelde aanvraagformulier of, indien dat aanvraagformulier is ontvangen voor de datum van vaststelling van het indicatiebesluit, de datum van het indicatiebesluit.
 
 ##### Artikel 5.11
 
@@ -548,15 +506,15 @@ Het persoonsgebonden budget wordt verleend voor een subsidieperiode die:
 
 - a. krachtens zijn indicatiebesluit is aangewezen op zorgprofiel:
 
-- –. VV Beschut wonen met intensieve begeleiding en uitgebreide verzorging;
+  - –. VV Beschut wonen met intensieve begeleiding en uitgebreide verzorging;
 
-- –. VV Beschermd wonen met intensieve dementiezorg;
+  - –. VV Beschermd wonen met intensieve dementiezorg;
 
-- –. VV Beschermd wonen met intensieve verzorging en verpleging;
+  - –. VV Beschermd wonen met intensieve verzorging en verpleging;
 
-- –. VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op begeleiding; of
+  - –. VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op begeleiding; of
 
-- –. VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging; of
+  - –. VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging; of
 
 - b. op 31 december 2014 recht had op zorgzwaartepakket 4 VV, 5 VV, 6 VV, 7 VV en 8 VV.
 
@@ -594,7 +552,7 @@ Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een k
 
 - a. de wijze waarop de zorgaanbieder of mantelzorger voorziet in de behoefte aan zorg van de verzekerde;
 
-- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 5.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.23&z=2026-01-01&g=2026-01-01), bevat of, indien van toepassing, dat wordt gebruikgemaakt van periodiek maandbetalingen;
+- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 5.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.23&z=2026-05-30&g=2026-05-30), bevat of, indien van toepassing, dat wordt gebruikgemaakt van periodiek maandbetalingen;
 
 - c. een beding, inhoudende dat het zorgkantoor een vordering heeft op de persoon die ten laste van het persoonsgebonden budget zorg levert indien het persoonsgebonden budget naar aanleiding van toerekenbaar handelen van die persoon is ingetrokken of herzien, ter hoogte van het bedrag dat gelijk is aan het door die persoon vanwege dat toerekenbaar handelen ten laste van het persoonsgebonden budget ten onrechte ontvangen bedrag;
 
@@ -608,11 +566,11 @@ Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een k
 
 - b. uit de omschrijving van de wijze waarop de zorgverlener voorziet in de behoefte aan zorg van de verzekerde, blijkt dat de overeenkomst:
 
-- 1°. strekt tot de inkoop van persoonlijke verzorging, verpleging, begeleiding, huishoudelijke hulp en vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt;
+  - 1°. strekt tot de inkoop van persoonlijke verzorging, verpleging, begeleiding, huishoudelijke hulp en vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt;
 
-- 2°. strekt tot inkoop van logeeropvang; of
+  - 2°. strekt tot inkoop van logeeropvang; of
 
-- 3°. betrekking heeft op de kosten van zorginfrastructuur als bedoeld in [artikel 5.17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01).
+  - 3°. betrekking heeft op de kosten van zorginfrastructuur als bedoeld in [artikel 5.17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30).
 
 5. De Sociale verzekeringsbank kan haar goedkeuring slechts onthouden wegens strijd met het recht, of in het belang van de uitvoerbaarheid van het persoonsgebonden budget of van het budgetbeheer, bedoeld in [artikel 3.3.3, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3).
 
@@ -634,15 +592,15 @@ Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een k
 
 - e. voor zorg die, in de periode van 1 oktober 2020 tot en met 31 december 2021, door de desbetreffende zorgaanbieder of mantelzorger die ten laste van het persoonsgebonden budget zorg verleent, niet is verleend in verband met:
 
-- 1°. een besmetting van de budgethouder of diens zorgaanbieder of mantelzorger, werkzaam op basis van een overeenkomst van opdracht, met Covid-19;
+  - 1°. een besmetting van de budgethouder of diens zorgaanbieder of mantelzorger, werkzaam op basis van een overeenkomst van opdracht, met Covid-19;
 
-- 2°. een noodzakelijke quarantaine van de budgethouder of diens zorgaanbieder of mantelzorger in verband met Covid-19;
+  - 2°. een noodzakelijke quarantaine van de budgethouder of diens zorgaanbieder of mantelzorger in verband met Covid-19;
 
-- 3°. een besmetting met Covid-19 op de dagbesteding;
+  - 3°. een besmetting met Covid-19 op de dagbesteding;
 
-- 4°. de door een dagbesteding overeenkomstig de bij of krachtens de [Tijdelijke wet maatregelen covid-19](https://wetten.overheid.nl/jci1.3:c:BWBR0044337) genomen maatregelen; of
+  - 4°. de door een dagbesteding overeenkomstig de bij of krachtens de [Tijdelijke wet maatregelen covid-19](https://wetten.overheid.nl/jci1.3:c:BWBR0044337) genomen maatregelen; of
 
-- 5°. het niet kunnen verlenen overeenkomstig de maatregelen in verband met Covid-19 vanwege een beperking bij de budgethouder als bedoeld in [artikel 6.6, tweede lid, onderdelen d en e, van de Tijdelijke regeling maatregelen covid-19](https://wetten.overheid.nl/jci1.3:c:BWBR0044416&artikel=6.6); of
+  - 5°. het niet kunnen verlenen overeenkomstig de maatregelen in verband met Covid-19 vanwege een beperking bij de budgethouder als bedoeld in [artikel 6.6, tweede lid, onderdelen d en e, van de Tijdelijke regeling maatregelen covid-19](https://wetten.overheid.nl/jci1.3:c:BWBR0044416&artikel=6.6); of
 
 - f. voor kosten die een kleinschalig wooninitiatief, waarvan de zorginkomsten vanwege Covid-19 of daarmee samenhangende sterfte onder verzekerden en leegstand zodanig zijn teruggelopen dat het wooninitiatief in financiële nood is geraakt, in de periode van 1 maart 2020 tot en met 31 december 2021 heeft gehad om de zorgverlening aan verzekerden te continueren, of
 
@@ -650,11 +608,11 @@ Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een k
 
 - h. voor bijkomende zorgkosten die onlosmakelijk verbonden zijn aan de zorgverlening aan de budgethouder, waaronder in elk geval:
 
-- 1°. de consumpties van de zorgverlener met een arbeidsovereenkomst, indien deze kosten zijn gemaakt als gevolg van overwerk bij desbetreffende budgethouder. De zorgverlener maakt hierbij geen onderdeel uit van het cliëntsysteem van de budgethouder;
+  - 1°. de consumpties van de zorgverlener met een arbeidsovereenkomst, indien deze kosten zijn gemaakt als gevolg van overwerk bij desbetreffende budgethouder. De zorgverlener maakt hierbij geen onderdeel uit van het cliëntsysteem van de budgethouder;
 
-- 2°. een cursus van de zorgverlener van ten hoogste 12 maanden die direct verband houdt met de beperkingen van desbetreffende budgethouder;
+  - 2°. een cursus van de zorgverlener van ten hoogste 12 maanden die direct verband houdt met de beperkingen van desbetreffende budgethouder;
 
-- 3°. entreegeld voor de zorgverlener, indien zorg wordt geleverd op een locatie waar men entreegeld moet betalen. De zorgverlener maakt hierbij geen onderdeel uit van het cliëntsysteem van de budgethouder.
+  - 3°. entreegeld voor de zorgverlener, indien zorg wordt geleverd op een locatie waar men entreegeld moet betalen. De zorgverlener maakt hierbij geen onderdeel uit van het cliëntsysteem van de budgethouder.
 
 2. In afwijking van het eerste lid, onderdeel a, kan het persoonsgebonden budget worden besteed aan kosten van vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding in groepsverband of behandeling in groepsverband ontvangt, indien:
 
@@ -670,7 +628,7 @@ Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een k
 
 1. Bij de verlening van het persoonsgebonden budget worden de verzekerde in ieder geval de volgende verplichtingen opgelegd:
 
-- a. de verzekerde gebruikt het persoonsgebonden budget uitsluitend voor het doen betalen door de Sociale verzekeringsbank als bedoeld in [artikel 5.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01);
+- a. de verzekerde gebruikt het persoonsgebonden budget uitsluitend voor het doen betalen door de Sociale verzekeringsbank als bedoeld in [artikel 5.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30);
 
 - b. de zorg die de verzekerde inkoopt, is kwalitatief verantwoord;
 
@@ -716,7 +674,7 @@ De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste 
 
 - a. met ingang van de dag waarop de verzekerde niet beschikt over een woonadres als bedoeld in [artikel 1.1 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1);
 
-- b. met ingang van de dag waarop de verzekerde, of diens wettelijk vertegenwoordiger dan wel gevolmachtigde, de opgelegde verplichtingen niet nakomt of niet langer voldoet aan de voorwaarden of verleningsgrond van het persoonsgebonden budget dan wel verhoging van het budget als bedoeld in [artikel 5.1c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1c&z=2026-01-01&g=2026-01-01), of aan de eisen als bedoeld in [artikel 5.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2026-01-01&g=2026-01-01); of
+- b. met ingang van de dag waarop de verzekerde, of diens wettelijk vertegenwoordiger dan wel gevolmachtigde, de opgelegde verplichtingen niet nakomt of niet langer voldoet aan de voorwaarden of verleningsgrond van het persoonsgebonden budget dan wel verhoging van het budget als bedoeld in [artikel 5.1c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1c&z=2026-05-30&g=2026-05-30), of aan de eisen als bedoeld in [artikel 5.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2026-05-30&g=2026-05-30); of
 
 - c. indien de verzekerde zich bij de eerdere verstrekking van een persoonsgebonden budget niet heeft gehouden aan de opgelegde verplichtingen.
 
@@ -726,9 +684,9 @@ De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste 
 
 2. Het zorgkantoor stelt het persoonsgebonden budget binnen een half jaar na afloop van de subsidieperiode vast.
 
-3. Het persoonsgebonden budget wordt vastgesteld op de som van de bedragen die de Sociale verzekeringsbank op grond van [artikel 5.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01), heeft uitbetaald.
+3. Het persoonsgebonden budget wordt vastgesteld op de som van de bedragen die de Sociale verzekeringsbank op grond van [artikel 5.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30), heeft uitbetaald.
 
-4. Indien de verzekerde geen betalingen, als bedoeld in [artikel 5.17, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01), heeft laten doen dan wordt de subsidie, in afwijking van het derde lid, vastgesteld op nihil.
+4. Indien de verzekerde geen betalingen, als bedoeld in [artikel 5.17, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30), heeft laten doen dan wordt de subsidie, in afwijking van het derde lid, vastgesteld op nihil.
 
 #### § 4. De hoogte van het persoonsgebonden budget
 
@@ -764,21 +722,21 @@ De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste 
 
 - c. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg, in de periode van 1 maart 2020 tot en met 30 juni 2020, of, voor zover het zorg in een kleinschalig wooninitiatief, dagbesteding of vervoer ten behoeve van dagbesteding betreft, in de periode van 1 maart 2020 tot en met 31 juli 2020, als gevolg van de maatregelen in verband met Covid-19, door de desbetreffende zorgaanbieder of mantelzorger, niet is verleend;
 
-- d. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg in de periode van 1 oktober 2020 tot en met 31 december 2021 overeenkomstig de voorwaarden, bedoeld in [artikel 5.17, eerste lid, onderdeel e, subonderdeel 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01) door de desbetreffende zorgaanbieder of mantelzorger, niet is verleend;
+- d. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg in de periode van 1 oktober 2020 tot en met 31 december 2021 overeenkomstig de voorwaarden, bedoeld in [artikel 5.17, eerste lid, onderdeel e, subonderdeel 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30) door de desbetreffende zorgaanbieder of mantelzorger, niet is verleend;
 
-- e. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg in de periode van 1 oktober 2020 tot en met 31 december 2021, overeenkomstig de voorwaarden, bedoeld in [artikel 5.17, eerste lid, onderdeel e, subonderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01), door de betreffende zorgverlener of mantelzorger niet is verleend;
+- e. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg in de periode van 1 oktober 2020 tot en met 31 december 2021, overeenkomstig de voorwaarden, bedoeld in [artikel 5.17, eerste lid, onderdeel e, subonderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30), door de betreffende zorgverlener of mantelzorger niet is verleend;
 
-- f. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg in de periode van 2 maart 2021 tot en met 31 december 2021 overeenkomstig de voorwaarden, bedoeld in [artikel 5.17, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01), door de betreffende zorgverlener of mantelzorger niet is verleend;
+- f. een declaratie of zorgovereenkomst, bedoeld in de onderdelen a en b, indien de overeengekomen zorg in de periode van 2 maart 2021 tot en met 31 december 2021 overeenkomstig de voorwaarden, bedoeld in [artikel 5.17, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30), door de betreffende zorgverlener of mantelzorger niet is verleend;
 
-- g. een declaratie voor bijkomende zorgkosten zoals bedoeld in [artikel 5.17, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-01-01&g=2026-01-01).
+- g. een declaratie voor bijkomende zorgkosten zoals bedoeld in [artikel 5.17, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=5&artikel=5.17&z=2026-05-30&g=2026-05-30).
 
 2. Een declaratie als bedoeld in het eerste lid, onderdelen a, c, d, e, f en g, bevat:
 
 - a. de naam van deze persoon en:
 
-- 1°. het nummer waarmee die staat ingeschreven bij de Kamer van Koophandel, of
+  - 1°. het nummer waarmee die staat ingeschreven bij de Kamer van Koophandel, of
 
-- 2°. indien deze persoon niet over dat nummer kan beschikken, geboortedatum of burgerservicenummer;
+  - 2°. indien deze persoon niet over dat nummer kan beschikken, geboortedatum of burgerservicenummer;
 
 - b. de naam van de verzekerde en zijn adres of burgerservicenummer of klantnummer bij de Sociale verzekeringsbank;
 
@@ -834,13 +792,13 @@ De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste 
 
 ##### Artikel 5.24
 
-De aanvaardbaarheidspercentages, bedoeld in [artikel 3.7.2, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.7.2), zijn de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=D&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen aanvaardbaarheidspercentages.
+De aanvaardbaarheidspercentages, bedoeld in [artikel 3.7.2, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.7.2), zijn de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=D&z=2026-05-30&g=2026-05-30) bij deze regeling opgenomen aanvaardbaarheidspercentages.
 
 ### Hoofdstuk 6. Organisatie en verantwoording van de langdurige zorg
 
 ##### Artikel 6.1
 
-Tot de regio's, genoemd in [artikel 4.2.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=4.2.1), behoren de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=B&z=2026-01-01&g=2026-01-01) genoemde gemeenten.
+Tot de regio's, genoemd in [artikel 4.2.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=4.2.1), behoren de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=B&z=2026-05-30&g=2026-05-30) genoemde gemeenten.
 
 ### Hoofdstuk 6. Organisatie en verantwoording van de langdurige zorg
 
@@ -868,7 +826,7 @@ Als persoonsgegevens, waaronder gegevens over gezondheid, die voor Wlz-uitvoerde
 
 - j. het bank- of gironummer, en
 
-- k. overige gegevens die noodzakelijk zijn voor het verrichten van een materiële controle als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.2&z=2026-01-01&g=2026-01-01), dan wel voor het verrichten van fraudeonderzoek als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.10&z=2026-01-01&g=2026-01-01).
+- k. overige gegevens die noodzakelijk zijn voor het verrichten van een materiële controle als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.2&z=2026-05-30&g=2026-05-30), dan wel voor het verrichten van fraudeonderzoek als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.10&z=2026-05-30&g=2026-05-30).
 
 ##### Artikel 7.2
 
@@ -878,19 +836,19 @@ De controle, bedoeld in [artikel 9.1.2, eerste lid, onder i, van de wet](https:/
 
 - b. formele controle: een onderzoek waarbij de Wlz-uitvoerder nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht:
 
-- 1°. een prestatie betreft, welke is geleverd aan een bij die Wlz-uitvoerder verzekerde persoon;
+  - 1°. een prestatie betreft, welke is geleverd aan een bij die Wlz-uitvoerder verzekerde persoon;
 
-- 2°. een prestatie betreft, welke behoort tot het verzekerde pakket van die persoon,
+  - 2°. een prestatie betreft, welke behoort tot het verzekerde pakket van die persoon,
 
-- 3°. een prestatie betreft, tot levering waarvan de zorgaanbieder bevoegd is, en
+  - 3°. een prestatie betreft, tot levering waarvan de zorgaanbieder bevoegd is, en
 
-- 4°. het tarief betreft, dat voor die prestatie krachtens de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is vastgesteld of een tarief is dat, met inachtneming van het bepaalde bij of krachtens die wet, voor die prestatie met de zorgaanbieder is overeengekomen, en
+  - 4°. het tarief betreft, dat voor die prestatie krachtens de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is vastgesteld of een tarief is dat, met inachtneming van het bepaalde bij of krachtens die wet, voor die prestatie met de zorgaanbieder is overeengekomen, en
 
-- c. detailcontrole: onderzoek door de Wlz-uitvoerder naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.3&z=2026-01-01&g=2026-01-01) of fraudeonderzoek als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.10&z=2026-01-01&g=2026-01-01).
+- c. detailcontrole: onderzoek door de Wlz-uitvoerder naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle als bedoeld in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.3&z=2026-05-30&g=2026-05-30) of fraudeonderzoek als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.10&z=2026-05-30&g=2026-05-30).
 
 ##### Artikel 7.3
 
-1. De Wlz-uitvoerder verricht materiële controle op de wijze zoals bepaald in de [artikelen 7.4 tot en met 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.4&z=2026-01-01&g=2026-01-01).
+1. De Wlz-uitvoerder verricht materiële controle op de wijze zoals bepaald in de [artikelen 7.4 tot en met 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.4&z=2026-05-30&g=2026-05-30).
 
 2. De zorgaanbieder is verplicht zijn medewerking te verlenen aan de overeenkomstig het eerste lid uitgevoerde materiële controle.
 
@@ -920,17 +878,17 @@ De controle, bedoeld in [artikel 9.1.2, eerste lid, onder i, van de wet](https:/
 
 3. Het naar aanleiding van de algemene risicoanalyse opgestelde algemene controleplan voorziet niet in de inzet van het controle-instrument detailcontrole.
 
-4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.4&z=2026-01-01&g=2026-01-01), is bereikt, kan alleen detailcontrole worden uitgevoerd als er van een ander dan de Wlz-uitvoerder afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
+4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.4&z=2026-05-30&g=2026-05-30), is bereikt, kan alleen detailcontrole worden uitgevoerd als er van een ander dan de Wlz-uitvoerder afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
 
 ##### Artikel 7.7
 
-De Wlz-uitvoerder maakt informatie openbaar over het ingevolge [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.4&z=2026-01-01&g=2026-01-01) vastgestelde controledoel en het ingevolge [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.6&z=2026-01-01&g=2026-01-01) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor verzekerden en zorgaanbieders gemakkelijk verkrijgbaar is.
+De Wlz-uitvoerder maakt informatie openbaar over het ingevolge [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.4&z=2026-05-30&g=2026-05-30) vastgestelde controledoel en het ingevolge [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.6&z=2026-05-30&g=2026-05-30) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor verzekerden en zorgaanbieders gemakkelijk verkrijgbaar is.
 
 ##### Artikel 7.8
 
 1. De Wlz-uitvoerder voert geen detailcontrole uit, dan nadat is voldaan aan de volgende voorwaarden:
 
-- a. de Wlz-uitvoerder heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan bedoeld in [artikel 7.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.5&z=2026-01-01&g=2026-01-01);
+- a. de Wlz-uitvoerder heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan bedoeld in [artikel 7.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.5&z=2026-05-30&g=2026-05-30);
 
 - b. de Wlz-uitvoerder heeft naar aanleiding van de specifieke risicoanalyse een specifiek controleplan en specifiek controledoel opgesteld, waarin de objecten van materiële controle en de methoden van detailcontrole zijn opgenomen;
 
@@ -954,7 +912,7 @@ De Wlz-uitvoerder legt de specifieke risicoanalyse en de uitvoering van detailco
 
 1. Het fraudeonderzoek, bedoeld in [artikel 9.1.2, eerste lid, onder j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.2) houdt een onderzoek in waarbij de Wlz-uitvoerder nagaat of de verzekerde of de zorgaanbieder valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen bij de uitvoering door betrokken personen en organisaties van de verzekering op grond van de wet, met het doel een prestatie, vergoeding, betaling of ander voordeel te krijgen waarop de verzekerde dan wel de zorgaanbieder geen recht heeft of recht kan hebben.
 
-2. Bij fraudeonderzoek zijn de voorwaarden bedoeld in [artikel 7.8, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.8&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de betrokken verzekerde zich daar niet tegen verzet.
+2. Bij fraudeonderzoek zijn de voorwaarden bedoeld in [artikel 7.8, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=7&artikel=7.8&z=2026-05-30&g=2026-05-30), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de betrokken verzekerde zich daar niet tegen verzet.
 
 3. In afwijking van het tweede lid kan de Wlz-uitvoerder met betrekking tot een individuele verzekerde detailcontrole uitvoeren zonder dat de in dat lid genoemde voorwaarden van toepassing zijn, indien deze verzekerde ten behoeve van het fraudeonderzoek schriftelijk toestemming heeft gegeven voor verstrekking van hem betreffende gegevens over gezondheid aan de Wlz-uitvoerder.
 
@@ -1036,7 +994,7 @@ Een zorgovereenkomst die krachtens [artikel 2.6.15 van de Regeling subsidies AWB
 
 ##### Artikel 9.6
 
-1. De verzekerde die met ingang van 1 januari 2015 recht krijgt op verblijf in een instelling waar de verzekerde met verblijf gepaard gaande behandeling als bedoeld in [artikel 3.1.1, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) had en die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) krachtens de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) het individueel gebruik van een mobiliteitshulpmiddel had, behoudt het gebruik van dat hulpmiddel totdat krachtens [artikel 2.3 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01) een mobiliteitshulpmiddel kan worden verstrekt.
+1. De verzekerde die met ingang van 1 januari 2015 recht krijgt op verblijf in een instelling waar de verzekerde met verblijf gepaard gaande behandeling als bedoeld in [artikel 3.1.1, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) had en die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) krachtens de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) het individueel gebruik van een mobiliteitshulpmiddel had, behoudt het gebruik van dat hulpmiddel totdat krachtens [artikel 2.3 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.3&z=2026-05-30&g=2026-05-30) een mobiliteitshulpmiddel kan worden verstrekt.
 
 2. De verzekerde die met ingang van 1 januari 2016 recht krijgt op zorg krachtens de wet en onmiddellijk daaraan voorafgaand krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) het individueel gebruik van een mobiliteitshulpmiddel had, behoudt dit hulpmiddel totdat het op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) kan worden verstrekt.
 
@@ -1052,9 +1010,9 @@ Deze regeling wordt aangehaald als: Regeling langdurige zorg.
 
 ##### Artikel 10.3
 
-1. Deze regeling treedt in werking op 1 januari 2015, met uitzondering van [artikel 2.3, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01), welke in werking treden op 1 januari 2016.
+1. Deze regeling treedt in werking op 1 januari 2015, met uitzondering van [artikel 2.3, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.3&z=2026-05-30&g=2026-05-30), welke in werking treden op 1 januari 2016.
 
-2. Met ingang van 1 januari 2016 vervalt [artikel 2.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01).
+2. Met ingang van 1 januari 2016 vervalt [artikel 2.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.3&z=2026-05-30&g=2026-05-30).
 
 ## Bijlage A. bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.1&z=2015-01-01&g=2015-01-01) van de Regeling langdurige zorg
 
@@ -2410,13 +2368,13 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 9.8
 
-1. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) wordt met ingang van de datum waarop de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ingetrokken, met toepassing van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-01-01&g=2026-01-01) bij deze regeling ambtshalve omgezet in een bij de verzekerde best passende zorgprofiel als bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1).
+1. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) wordt met ingang van de datum waarop de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ingetrokken, met toepassing van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-05-30&g=2026-05-30) bij deze regeling ambtshalve omgezet in een bij de verzekerde best passende zorgprofiel als bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1).
 
-2. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) wordt met ingang van de datum waarop de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ingetrokken, met toepassing van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01) bij deze regeling ambtshalve omgezet in een bij de verzekerde best passend zorgprofiel.
+2. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) wordt met ingang van de datum waarop de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ingetrokken, met toepassing van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30) bij deze regeling ambtshalve omgezet in een bij de verzekerde best passend zorgprofiel.
 
 3. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) wordt eerst met ingang van de datum waarop hij in een instelling is gaan verblijven overeenkomstig het tweede lid ambtshalve omgezet in een bij de verzekerde best passend zorgprofiel.
 
-4. [Artikel 3.2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.5) en [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de verzekerden, bedoeld in het eerste lid.
+4. [Artikel 3.2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.5) en [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-05-30&g=2026-05-30) zijn van overeenkomstige toepassing op de verzekerden, bedoeld in het eerste lid.
 
 5. [Artikel 3.2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.5) is van overeenkomstige toepassing op de verzekerden, bedoeld in het tweede en derde lid.
 
@@ -2424,9 +2382,9 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 9.9
 
-1. Indien een verzekerde als bedoeld in [artikel 11.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt en het CIZ constateert dat hij niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01).
+1. Indien een verzekerde als bedoeld in [artikel 11.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt en het CIZ constateert dat hij niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30).
 
-2. De [artikelen 11.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1), [11.1.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.2), en [11.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.4) zijn van overeenkomstige toepassing op een verzekerde voor wie na toepassing van het eerste lid een zorgprofiel als bedoeld in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01) is geïndiceerd.
+2. De [artikelen 11.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1), [11.1.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.2), en [11.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.4) zijn van overeenkomstige toepassing op een verzekerde voor wie na toepassing van het eerste lid een zorgprofiel als bedoeld in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30) is geïndiceerd.
 
 3. Het eerste lid is van overeenkomstige toepassing in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4) en het CIZ constateert dat de verzekerde niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) en hij zijn recht op zorg met verblijf in een instelling wil behouden.
 
@@ -2434,7 +2392,7 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 9.10
 
-1. Indien een verzekerde als bedoeld in [artikel 11.1.1, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1)tijdens de periode van zijn overgangrecht, een herindicatie aanvraagt, dan wel in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4), en het CIZ constateert dat hij geen behoefte heeft aan permanent toezicht of vierentwintig uur per dag zorg in de nabijheid als bedoeld in [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1), indiceert het CIZ hem met toepassing van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01) bij deze regeling in een bij de verzekerde best passend zorgprofiel.
+1. Indien een verzekerde als bedoeld in [artikel 11.1.1, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1)tijdens de periode van zijn overgangrecht, een herindicatie aanvraagt, dan wel in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4), en het CIZ constateert dat hij geen behoefte heeft aan permanent toezicht of vierentwintig uur per dag zorg in de nabijheid als bedoeld in [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1), indiceert het CIZ hem met toepassing van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30) bij deze regeling in een bij de verzekerde best passend zorgprofiel.
 
 2. Het CIZ geeft een besluit tot herindicatie, dan wel herziening van het indicatiebesluit, van een verzekerde als bedoeld in [artikel 11.1.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) een geldigheidsduur die de duur van het voor de verzekerde geldende overgangsrecht niet overschrijdt.
 
@@ -2442,9 +2400,9 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 9.11
 
-1. Een verzekerde die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket als bedoeld in [artikel 11.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) waarbij de datum van ingang van dat zorgzwaartepakket ligt na de datum van intrekking van de Algemene Wet Bijzondere Ziektekosten, wordt met ingang van de datum van ingang van dat zorgzwaartepakket voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 11.1.1, eerste lid, van de wet ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1). [Artikel 9.8, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+1. Een verzekerde die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket als bedoeld in [artikel 11.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) waarbij de datum van ingang van dat zorgzwaartepakket ligt na de datum van intrekking van de Algemene Wet Bijzondere Ziektekosten, wordt met ingang van de datum van ingang van dat zorgzwaartepakket voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 11.1.1, eerste lid, van de wet ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1). [Artikel 9.8, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-05-30&g=2026-05-30), is van overeenkomstige toepassing.
 
-2. Een verzekerde die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket als bedoeld in [artikel 11.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) waarbij de datum van ingang van dat zorgzwaartepakket ligt na de datum van intrekking van de Algemene Wet Bijzondere Ziektekosten, wordt met ingang van de datum van ingang van dat zorgzwaartepakket voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 11.1.1, tweede lid, van de wet ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1). [Artikel 9.8, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. Een verzekerde die onmiddellijk voorafgaand aan de intrekking van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket als bedoeld in [artikel 11.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) waarbij de datum van ingang van dat zorgzwaartepakket ligt na de datum van intrekking van de Algemene Wet Bijzondere Ziektekosten, wordt met ingang van de datum van ingang van dat zorgzwaartepakket voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 11.1.1, tweede lid, van de wet ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1). [Artikel 9.8, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-05-30&g=2026-05-30), is van overeenkomstige toepassing.
 
 ##### Artikel 9.12
 
@@ -3132,9 +3090,9 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 9.8a
 
-1. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.3, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.3) wordt met ingang van de datum waarop de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ingetrokken, met toepassing van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01) bij deze regeling ambtshalve omgezet in een bij de verzekerde best passende zorgprofiel als bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1).
+1. Het in het indicatiebesluit opgenomen zorgzwaartepakket van de verzekerde, bedoeld in [artikel 11.1.3, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.3) wordt met ingang van de datum waarop de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ingetrokken, met toepassing van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30) bij deze regeling ambtshalve omgezet in een bij de verzekerde best passende zorgprofiel als bedoeld in [artikel 3.1.1, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1).
 
-2. [Artikel 3.2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.5) en [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de verzekerden, bedoeld in het eerste lid.
+2. [Artikel 3.2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.2.5) en [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-05-30&g=2026-05-30) zijn van overeenkomstige toepassing op de verzekerden, bedoeld in het eerste lid.
 
 3. Met betrekking tot de omzetting, bedoeld in het eerste lid, is [artikel 9.1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.2) van overeenkomstige toepassing.
 
@@ -4438,9 +4396,9 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 5.23a
 
-1. In afwijking van [artikel 5.23, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.23&z=2026-01-01&g=2026-01-01), kan de Sociale verzekeringsbank beslissen tot beëindiging of opschorting van de betalingen of een gehele of gedeeltelijke weigering of opschorting van een betaling uit het persoonsgebonden budget indien de Sociale verzekeringsbank een declaratie ter betaling van de vervoerskosten, bedoeld in [artikel 3.6.4, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.4), niet uiterlijk binnen tien weken, na de maand waarin de prestatie is verleend, ontvangt van de verzekerde.
+1. In afwijking van [artikel 5.23, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.23&z=2026-05-30&g=2026-05-30), kan de Sociale verzekeringsbank beslissen tot beëindiging of opschorting van de betalingen of een gehele of gedeeltelijke weigering of opschorting van een betaling uit het persoonsgebonden budget indien de Sociale verzekeringsbank een declaratie ter betaling van de vervoerskosten, bedoeld in [artikel 3.6.4, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.4), niet uiterlijk binnen tien weken, na de maand waarin de prestatie is verleend, ontvangt van de verzekerde.
 
-2. In afwijking van [artikel 5.23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.23&z=2026-01-01&g=2026-01-01), onderdelen d en e, ontvangt de Sociale verzekeringsbank een verzoek om het verantwoordingsvrij bedrag, bedoeld in [artikel 3.6.6, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.6), voor het eindigen van de beschikking tot verlening van het persoonsgebonden budget.
+2. In afwijking van [artikel 5.23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.23&z=2026-05-30&g=2026-05-30), onderdelen d en e, ontvangt de Sociale verzekeringsbank een verzoek om het verantwoordingsvrij bedrag, bedoeld in [artikel 3.6.6, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.6.6), voor het eindigen van de beschikking tot verlening van het persoonsgebonden budget.
 
 3. De Sociale verzekeringsbank verricht betalingen, indien de declaratie, bedoeld in het eerste lid, of het verzoek, bedoeld in het tweede lid, is opgesteld met gebruikmaking van de modellen die door de Sociale verzekeringsbank daartoe beschikbaar zijn gesteld.
 
@@ -4995,7 +4953,15 @@ Zorgprofielen integraal pakket als bedoeld in [artikel 3.1.1, eerste lid, van he
 
 ##### Artikel 5.13a
 
-Vervallen
+1. Het zorgkantoor verhoogt het persoonsgebonden budget voor de jaren 2026 en 2027 indien:
+
+- a. de verzekerde met een zorgverlener een arbeidsovereenkomst heeft gesloten die vóór 1 januari 2026 is ingegaan en na die datum is voortgezet; en
+
+- b. de arbeidsverhouding op de ingangsdatum van de arbeidsovereenkomst ingevolge [artikel 6, eerste lid, onderdeel c, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) en [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) niet als dienstbetrekking werd beschouwd.
+
+2. Het zorgkantoor verhoogt het persoonsgebonden budget ten behoeve van de premies die de verzekerde ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) verschuldigd is of zou zijn wanneer de arbeidsverhouding wel als dienstbetrekking wordt of zou worden beschouwd.
+
+3. Het zorgkantoor neemt bij de verhoging als uitgangspunt de over het voorgaande jaar ingediende declaraties.
 
 #### § 3. De aanvraag van een persoonsgebonden budget
 
@@ -6025,9 +5991,9 @@ Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van
 
 ##### Artikel 2.5
 
-1. De verzekerde, bedoeld in [artikel 3.2.1, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1), heeft slechts recht op zorg indien hij is aangewezen op behandeling van de gedragsproblematiek en in verband daarmee verblijft in een instelling en is aangewezen op een van de zorgprofielen genoemd in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01).
+1. De verzekerde, bedoeld in [artikel 3.2.1, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1), heeft slechts recht op zorg indien hij is aangewezen op behandeling van de gedragsproblematiek en in verband daarmee verblijft in een instelling en is aangewezen op een van de zorgprofielen genoemd in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-05-30&g=2026-05-30).
 
-2. In afwijking van het eerste lid heeft de verzekerde recht op zorg indien hij is aangewezen op behandeling van gedragsproblematiek en de Wlz-uitvoerder op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2026-01-01&g=2026-01-01) een volledig pakket thuis of een modulair pakket thuis verleent, of verblijf in een intramurale instelling waar geen LVG- of SGLVG-behandeling geboden en gedeclareerd wordt.
+2. In afwijking van het eerste lid heeft de verzekerde recht op zorg indien hij is aangewezen op behandeling van gedragsproblematiek en de Wlz-uitvoerder op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2026-05-30&g=2026-05-30) een volledig pakket thuis of een modulair pakket thuis verleent, of verblijf in een intramurale instelling waar geen LVG- of SGLVG-behandeling geboden en gedeclareerd wordt.
 
 ### Hoofdstuk 3. De indicatiebesluiten
 
@@ -6593,7 +6559,7 @@ Vervallen
 
 ##### Artikel 5.7a
 
-1. Bij de toepassing van een persoonsgebonden budget als bedoeld in [artikel 3.3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) zijn de [artikelen 5.9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2026-01-01&g=2026-01-01), [5.18, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=6&artikel=5.18&z=2026-01-01&g=2026-01-01), en [5.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.22&z=2026-01-01&g=2026-01-01), niet van toepassing.
+1. Bij de toepassing van een persoonsgebonden budget als bedoeld in [artikel 3.3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) zijn de [artikelen 5.9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.9&z=2026-05-30&g=2026-05-30), [5.18, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=6&artikel=5.18&z=2026-05-30&g=2026-05-30), en [5.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.22&z=2026-05-30&g=2026-05-30), niet van toepassing.
 
 2. Een persoonsgebonden budget als bedoeld in [artikel 3.3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) wordt verleend voor ten hoogste dertien weken.
 
@@ -7226,7 +7192,7 @@ De bedragen die in 2017 beschikbaar zijn voor de verstrekking van persoonsgebond
 
 ##### Artikel 9.13
 
-Voor de verzekerde die op 31 december 2016 een persoonsgebonden budget ontving op grond van de wet en waarvoor het op grond van [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.22&z=2026-01-01&g=2026-01-01) zoals dat luidde op 31 december 2016 uit het persoonsgebonden budget te betalen bruto loon of de te betalen vergoeding aan een zorgaanbieder ten hoogste het in het eerste lid van dat artikel genoemde bedrag of tarief bedroeg, blijft dat bedrag of tarief gelden.
+Voor de verzekerde die op 31 december 2016 een persoonsgebonden budget ontving op grond van de wet en waarvoor het op grond van [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=7&artikel=5.22&z=2026-05-30&g=2026-05-30) zoals dat luidde op 31 december 2016 uit het persoonsgebonden budget te betalen bruto loon of de te betalen vergoeding aan een zorgaanbieder ten hoogste het in het eerste lid van dat artikel genoemde bedrag of tarief bedroeg, blijft dat bedrag of tarief gelden.
 
 ### Hoofdstuk 10. Slotbepalingen
 
@@ -7738,7 +7704,7 @@ Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn
 
 ##### Artikel 4.6
 
-Het bedrag van de extra vrijlating, bedoeld in [artikel 4.2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), bedraagt 25% van het verschil tussen het op grond van [artikel 3.3.2.3, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3), na toepassing van de [artikelen 4.3 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01), berekende bedrag en:
+Het bedrag van de extra vrijlating, bedoeld in [artikel 4.2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.2&z=2026-05-30&g=2026-05-30), bedraagt 25% van het verschil tussen het op grond van [artikel 3.3.2.3, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3), na toepassing van de [artikelen 4.3 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-05-30&g=2026-05-30), berekende bedrag en:
 
 - a. € 11.830, indien het gaat om een ongehuwde verzekerde die de pensioengerechtigde leeftijd heeft bereikt;
 
@@ -7809,7 +7775,7 @@ De bedragen die in 2018 beschikbaar zijn voor de verstrekking van persoonsgebond
 
 1. Een verzekerde als bedoeld in [artikel 11.1.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.3) die op 31 december 2014 op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket B GGZ en die zorg behorende tot een zorgzwaartepakket VV, VG, LG, ZGaud en ZGvis ontvangt en die niet op 1 januari 2018 op grond van een indicatiebesluit is aangewezen op zorg, kan er voor kiezen met ingang van 1 januari 2018 voor de toepassing van de wet gelijk te worden gesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1).
 
-2. Het CIZ indiceert de verzekerde, bedoeld in het eerste lid, met toepassing van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-01-01&g=2026-01-01) of [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01) bij deze regeling in een bij hem best passende zorgprofiel.
+2. Het CIZ indiceert de verzekerde, bedoeld in het eerste lid, met toepassing van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-05-30&g=2026-05-30) of [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30) bij deze regeling in een bij hem best passende zorgprofiel.
 
 3. In afwijking van [artikel 3.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.1) heeft de verzekerde, bedoeld in het eerste lid, slechts recht op zorg met verblijf in een instelling.
 
@@ -7817,19 +7783,19 @@ De bedragen die in 2018 beschikbaar zijn voor de verstrekking van persoonsgebond
 
 1. Een verzekerde als bedoeld in [artikel 11.1.3. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.3) die op 31 december 2014 op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket B GGZ en die zorg behorende tot een zorgzwaartepakket LVG of SGLVG ontvangt en die niet op 1 januari 2018 op grond van een indicatiebesluit is aangewezen op zorg, wordt voor de toepassing van de wet gelijk gesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1).
 
-2. Het CIZ indiceert de verzekerde, bedoeld in het eerste lid, met toepassing van bijlage A bij deze regeling in een bij hem best passend profiel waarbij de geldigheidsduur van het indicatiebesluit de totale, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01), geldende geldigheidsduur, niet overschrijdt.
+2. Het CIZ indiceert de verzekerde, bedoeld in het eerste lid, met toepassing van bijlage A bij deze regeling in een bij hem best passend profiel waarbij de geldigheidsduur van het indicatiebesluit de totale, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=3&artikel=3.2&z=2026-05-30&g=2026-05-30), geldende geldigheidsduur, niet overschrijdt.
 
-3. [Artikel 9.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+3. [Artikel 9.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-05-30&g=2026-05-30), is van overeenkomstige toepassing.
 
 ##### Artikel 9.16
 
-1. Indien de verzekerde, bedoeld in [artikel 9.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-01-01&g=2026-01-01), anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt dan wel in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4), en het CIZ constateert dat hij niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-01-01&g=2026-01-01) of [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-01-01&g=2026-01-01) bij deze regeling.
+1. Indien de verzekerde, bedoeld in [artikel 9.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-05-30&g=2026-05-30), anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt dan wel in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4), en het CIZ constateert dat hij niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-05-30&g=2026-05-30) of [F](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F&z=2026-05-30&g=2026-05-30) bij deze regeling.
 
-2. Indien de verzekerde, bedoeld in [artikel 9.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.15&z=2026-01-01&g=2026-01-01), anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt dan wel in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4), en het CIZ constateert dat hij niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-01-01&g=2026-01-01) bij deze regeling.
+2. Indien de verzekerde, bedoeld in [artikel 9.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.15&z=2026-05-30&g=2026-05-30), anders dan met de bedoeling om buiten een instelling te gaan verblijven een herindicatie aanvraagt dan wel in geval van herziening van het indicatiebesluit op grond van [artikel 3.2.4, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.4), en het CIZ constateert dat hij niet voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) indiceert het CIZ voor hem één van de zorgprofielen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A&z=2026-05-30&g=2026-05-30) bij deze regeling.
 
 ##### Artikel 9.17
 
-1. De verzekerde, bedoeld in [artikel 9.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-01-01&g=2026-01-01), die er niet voor kiest met ingang van 1 januari 2018 voor de toepassing van de wet gelijk te worden gesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) heeft in afwijking van [artikel 3.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.1) vanaf 1 januari 2018 slechts recht op zorg met verblijf in een instelling.
+1. De verzekerde, bedoeld in [artikel 9.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-05-30&g=2026-05-30), die er niet voor kiest met ingang van 1 januari 2018 voor de toepassing van de wet gelijk te worden gesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1) heeft in afwijking van [artikel 3.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.1) vanaf 1 januari 2018 slechts recht op zorg met verblijf in een instelling.
 
 2. Het eerste lid geldt niet voor de verzekerde van wie het CIZ na inwerkingtreding van deze regeling op aanvraag heeft vastgesteld dat hij voldoet aan [artikel 3.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.1).
 
@@ -10360,7 +10326,7 @@ Alblasserdam, Dordrecht, Giessenlanden, Gorinchem, Hardinxveld-Giessendam,
 
 ##### Artikel 4.8
 
-De bedragen, bedoeld in [artikel 3.3.1.7, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.7), voor zover vastgesteld voor het lopende kalenderjaar, zijn de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=G&z=2026-01-01&g=2026-01-01) van deze regeling opgenomen bedragen.
+De bedragen, bedoeld in [artikel 3.3.1.7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.7), voor zover vastgesteld voor het lopende kalenderjaar, zijn de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=G&z=2026-05-30&g=2026-05-30) van deze regeling opgenomen bedragen.
 
 ### Hoofdstuk 5. Leveringsvormen
 
@@ -10376,7 +10342,7 @@ Alvorens de levering van een modulair pakket thuis of verlening van een persoons
 
 3. De Wlz-uitvoerder beoordeelt de aanvraag voor behandeling in groepsverband in samenhang met de aanvraag voor begeleiding in groepsverband.
 
-4. Indien naar het oordeel van de Wlz-uitvoerder meer behandeling nodig is om te voorzien in de behoefte van de verzekerde, kan de Wlz-uitvoerder het meerdere toekennen indien er ruimte resteert binnen het beschikbare basisbedrag, eventueel verhoogd door toepassing van [artikel 5.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1a&z=2026-01-01&g=2026-01-01).
+4. Indien naar het oordeel van de Wlz-uitvoerder meer behandeling nodig is om te voorzien in de behoefte van de verzekerde, kan de Wlz-uitvoerder het meerdere toekennen indien er ruimte resteert binnen het beschikbare basisbedrag, eventueel verhoogd door toepassing van [artikel 5.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1a&z=2026-05-30&g=2026-05-30).
 
 ##### Artikel 5.1c
 
@@ -10400,23 +10366,23 @@ Alvorens de levering van een modulair pakket thuis of verlening van een persoons
 
 ##### Artikel 5.1e
 
-1. De Wlz-uitvoerder kan op verzoek van de verzekerde een aanvraag voor meerzorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) starten, indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-01-01&g=2026-01-01) en de verzekerde voldoet aan de voorwaarden genoemd in artikel 2.2, eerste of tweede lid.
+1. De Wlz-uitvoerder kan op verzoek van de verzekerde een aanvraag voor meerzorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) starten, indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-05-30&g=2026-05-30) en de verzekerde voldoet aan de voorwaarden genoemd in artikel 2.2, eerste of tweede lid.
 
-2. Het zorgkantoor kan op verzoek van de verzekerde een aanvraag voor meerzorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) starten, indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-01-01&g=2026-01-01) en de verzekerde voldoet aan de voorwaarden genoemd in artikel 2.2, eerste of tweede lid.
+2. Het zorgkantoor kan op verzoek van de verzekerde een aanvraag voor meerzorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) starten, indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-05-30&g=2026-05-30) en de verzekerde voldoet aan de voorwaarden genoemd in artikel 2.2, eerste of tweede lid.
 
-3. De Wlz-uitvoerder kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van de bedragen genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-01-01&g=2026-01-01) indien de verzekerde naar het oordeel van de Wlz-uitvoerder aanspraak heeft op meer zorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) van deze regeling.
+3. De Wlz-uitvoerder kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van de bedragen genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-05-30&g=2026-05-30) indien de verzekerde naar het oordeel van de Wlz-uitvoerder aanspraak heeft op meer zorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) van deze regeling.
 
-4. Het zorgkantoor kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van de bedragen genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-01-01&g=2026-01-01) indien de verzekerde naar het oordeel van het zorgkantoor aanspraak heeft op meer zorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) van deze regeling.
+4. Het zorgkantoor kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van de bedragen genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-05-30&g=2026-05-30) indien de verzekerde naar het oordeel van het zorgkantoor aanspraak heeft op meer zorg als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) van deze regeling.
 
 ##### Artikel 5.1f
 
-1. Indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-01-01&g=2026-01-01) en de voorwaarden genoemd in [artikel 2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) niet van toepassing zijn, kan de Wlz-uitvoerder extra kosten toestaan, indien:
+1. Indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-05-30&g=2026-05-30) en de voorwaarden genoemd in [artikel 2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) niet van toepassing zijn, kan de Wlz-uitvoerder extra kosten toestaan, indien:
 
-- –. de kosten van begeleiding in groepsverband hoger zijn dan het bedrag wat voor dat zorgprofiel voor die zorgvorm is opgenomen in [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-01-01&g=2026-01-01); of
+- –. de kosten van begeleiding in groepsverband hoger zijn dan het bedrag wat voor dat zorgprofiel voor die zorgvorm is opgenomen in [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-05-30&g=2026-05-30); of
 
 - –. de verzekerde een behoefte heeft aan behandeling in groepsverband of individuele behandeling waarvan de kosten in natura de voor die onderdelen beschikbare bedragen overstijgen naar het oordeel van de Wlz-uitvoerder.
 
-2. Indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-01-01&g=2026-01-01) en de voorwaarden genoemd in [artikel 2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) niet van toepassing zijn, kan het zorgkantoor extra kosten toestaan, indien de kosten van begeleiding in groepsverband hoger zijn dan het bedrag wat voor dat zorgprofiel voor die zorgvorm is opgenomen in [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-01-01&g=2026-01-01).
+2. Indien de verzekerde een zorgbehoefte heeft waarvan de kosten het bedrag overstijgen dat beschikbaar is na toepassing van de [artikelen 5.1 tot en met 5.1d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-05-30&g=2026-05-30) en de voorwaarden genoemd in [artikel 2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.2&z=2026-05-30&g=2026-05-30) niet van toepassing zijn, kan het zorgkantoor extra kosten toestaan, indien de kosten van begeleiding in groepsverband hoger zijn dan het bedrag wat voor dat zorgprofiel voor die zorgvorm is opgenomen in [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=H&z=2026-05-30&g=2026-05-30).
 
 #### § 6. Regels over verlenen en vaststellen van een persoonsgebonden budget
 
@@ -13564,11 +13530,11 @@ Son en Breugel, Valkenswaard, Veldhoven, Waalre
 
 ### Zorgprofielen als bedoeld in de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2023-07-01&g=2023-07-01), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2023-07-01&g=2023-07-01), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2023-07-01&g=2023-07-01), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2023-07-01&g=2023-07-01), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2023-07-01&g=2023-07-01), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2023-07-01&g=2023-07-01), van de Regeling langdurige zorg (met conversietabel zzp’s Algemene Wet Bijzondere Ziektekosten)
 
-## Bijlage C. bij [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=4&artikel=5.13&z=2026-01-01&g=2026-01-01) van de Regeling langdurige zorg
+## Bijlage C. bij [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=4&artikel=5.13&z=2026-05-30&g=2026-05-30) van de Regeling langdurige zorg
 
 Vervallen
 
-## Bijlage D. bij [artikel 5.24](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=8&artikel=5.24&z=2026-01-01&g=2026-01-01) van de Regeling langdurige zorg.
+## Bijlage D. bij [artikel 5.24](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=8&artikel=5.24&z=2026-05-30&g=2026-05-30) van de Regeling langdurige zorg.
 
 ##### Artikel 8.19
 
@@ -14206,7 +14172,7 @@ Beesel, Bergen lb, Echt-Susteren, Horst aan de Maas, Leudal, Maasgouw, Nederweer
 
 ##### Artikel 5.8a
 
-Het zorgkantoor stelt aan de hand van het budgetplan, bedoeld in [artikel 5.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.8&z=2026-01-01&g=2026-01-01), en het gesprek, bedoeld in artikel 5.8, derde lid, de bij de zorgvraag passende zorginzet van de verzekerde vast en verleent met inachtneming van het basisbedrag, bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-01-01&g=2026-01-01), een op die zorginzet afgestemd persoonsgebonden budget.
+Het zorgkantoor stelt aan de hand van het budgetplan, bedoeld in [artikel 5.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=3&artikel=5.8&z=2026-05-30&g=2026-05-30), en het gesprek, bedoeld in artikel 5.8, derde lid, de bij de zorgvraag passende zorginzet van de verzekerde vast en verleent met inachtneming van het basisbedrag, bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-05-30&g=2026-05-30), een op die zorginzet afgestemd persoonsgebonden budget.
 
 #### § 7. Betaling uit het persoonsgebonden budget
 
@@ -15357,11 +15323,11 @@ Het aanvaardbaarheidspercentage voor een land dat in bovenstaande lijst ontbreek
 
 ### Zorgprofielen als bedoeld in de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2025-03-20&g=2025-03-20), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2025-03-20&g=2025-03-20), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2025-03-20&g=2025-03-20), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2025-03-20&g=2025-03-20), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2025-03-20&g=2025-03-20), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2025-03-20&g=2025-03-20), van de Regeling langdurige zorg (met conversietabel zzp’s Algemene Wet Bijzondere Ziektekosten)
 
-## Bijlage E. bij [artikel 9.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.3d&z=2026-01-01&g=2026-01-01) van de Regeling langdurige zorg
+## Bijlage E. bij [artikel 9.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.3d&z=2026-05-30&g=2026-05-30) van de Regeling langdurige zorg
 
 Vervallen
 
-## Bijlage F. bij de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-01-01&g=2026-01-01), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2026-01-01&g=2026-01-01), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2026-01-01&g=2026-01-01), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2026-01-01&g=2026-01-01), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-01-01&g=2026-01-01), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg
+## Bijlage F. bij de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-05-30&g=2026-05-30), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2026-05-30&g=2026-05-30), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2026-05-30&g=2026-05-30), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2026-05-30&g=2026-05-30), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-05-30&g=2026-05-30), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg
 
 ## Bijlage H. Tarieventabel 2025
 
@@ -15500,41 +15466,39 @@ Het aanvaardbaarheidspercentage voor een land dat in bovenstaande lijst ontbreek
 
 ### Zorgprofielen als bedoeld in de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2025-07-01&g=2025-07-01), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2025-07-01&g=2025-07-01), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2025-07-01&g=2025-07-01), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2025-07-01&g=2025-07-01), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2025-07-01&g=2025-07-01), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2025-07-01&g=2025-07-01), van de Regeling langdurige zorg (met conversietabel zzp’s Algemene Wet Bijzondere Ziektekosten)
 
-## Bijlage G. bij [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.8&z=2026-01-01&g=2026-01-01) van de Regeling langdurige zorg
+## Bijlage G. bij [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.8&z=2026-05-30&g=2026-05-30) van de Regeling langdurige zorg
 
-- 1. Deze bijlage is uitsluitend van toepassing op de berekening van de in 2025 verschuldigde bijdrage met inachtneming van het lopende kalenderjaar, bedoeld in de [artikelen 3.3.2.3, eerste lid, onderdeel b, subonderdelen 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3), [3.3.2.4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4), [3.3.2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.5), en [3.3.2.6, eerste lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.6).
+- 1. Deze bijlage is uitsluitend van toepassing op de berekening van de in 2026 verschuldigde bijdrage met inachtneming van het lopende kalenderjaar, bedoeld in de [artikelen 3.3.2.3, eerste lid, onderdeel b, subonderdelen 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3), [3.3.2.4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4), [3.3.2.6 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.6).
 
-- 2. Het in [artikel 3.3.1.2, eerste lid, onder b, aanhef, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.2) genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, telkens vastgesteld op: € 12.828.
+- 2. De in [artikel 3.3.2.3, eerste lid, onderdeel b, subonderdelen 4 en 5, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3) genoemde bedragen worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 26.131.
 
-- 3. De in [artikel 3.3.2.3, eerste lid, onderdeel b, subonderdelen 4 en 5, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.3) genoemde bedragen worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 25.394.
+- 3. Het in [artikel 3.3.2.4, eerste lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4) genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.727,60.
 
-- 4. Het in [artikel 3.3.2.4, eerste lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4) genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.456,20.
+- 4. De in [artikel 3.3.2.4a, eerste en derde lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4a) genoemde bedragen worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 26.131.
 
-- 5. De in [artikel 3.3.2.4a, eerste en derde lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4a) genoemde bedragen worden voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 25.394.
+- 5. Het in [artikel 3.3.2.4a, vierde lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4a) genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.727,60.
 
-- 6. Het in [artikel 3.3.2.4a, vierde lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.4a) genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.456,20.
+- 6. Het in [artikel 4.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 5.325.
 
-- 7. Het in [artikel 4.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 5.112.
+- 7. Het in [artikel 4.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 8.283.
 
-- 8. Het in [artikel 4.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 7.952.
+- 8. De in [artikel 4.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.119, 4,85%, € 3.134,08 en € 5.970,34.
 
-- 9. De in [artikel 4.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.112, 5,26%, € 3.174,55 en € 6.102,24.
+- 9. De in [artikel 4.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.119, 4,85% en € 5.970,34.
 
-- 10. De in [artikel 4.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.112, 5,26% en € 6.102,24.
+- 10. De in [artikel 4.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.119, 4,85%, € 2.816,36 en € 5.970,34.
 
-- 11. De in [artikel 4.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.112, 5,26%, € 2.840,83 en € 6.102,24.
+- 11. De in [artikel 4.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden vastgesteld op respectievelijk: € 1.550, € 29.736, 13,73% en € 29.736.
 
-- 12. De in [artikel 4.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedragen en het in dat onderdeel genoemde percentage worden vastgesteld op respectievelijk: € 1.573, € 28.406, 13,70% en € 28.406.
+- 12. De in [artikel 4.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-05-30&g=2026-05-30), van de Regeling langdurig genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 2.963, € 29.736, 13,73% en € 29.736.
 
-- 13. De in [artikel 4.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.4&z=2026-01-01&g=2026-01-01), van de Regeling langdurig genoemde bedragen en het in dat onderdeel genoemde percentage worden voor de berekening, bedoeld in het eerste lid, vastgesteld op respectievelijk: € 3.010, € 28.406, 13,70% en € 28.406.
+- 13. Het in [artikel 4.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 12.726.
 
-- 14. Het in [artikel 4.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 12.238.
+- 14. Het in [artikel 4.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 15.216.
 
-- 15. Het in [artikel 4.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 14.590.
+- 15. Het in [artikel 4.6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 10.206.
 
-- 16. Het in [artikel 4.6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 9.771.
-
-- 17. Het in [artikel 4.6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 19.732.
+- 16. Het in [artikel 4.6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=4&artikel=4.6&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg genoemde bedrag wordt voor de berekening, bedoeld in het eerste lid, vastgesteld op: € 20.601.
 
 ##### Artikel 8.23
 
@@ -15584,7 +15548,7 @@ De bedragen die in 2026 beschikbaar zijn voor de verstrekking van persoonsgebond
 
 ### Hoofdstuk 10. Slotbepalingen
 
-## Bijlage A. bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van de Regeling langdurige zorg
+## Bijlage A. bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=2&artikel=2.1&z=2026-05-30&g=2026-05-30) van de Regeling langdurige zorg
 
 Zorgprofielen integraal pakket als bedoeld in [artikel 3.1.1, eerste lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1) (met conversietabel ZZP’s [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en tevens met aanduiding van zorgprofielen waarboven meer zorg mogelijk is met *)
 
@@ -16127,7 +16091,7 @@ Zorgprofielen integraal pakket als bedoeld in [artikel 3.1.1, eerste lid, van he
 | **Grondslag** |
 | Bij cliënten in dit zorgprofiel is sprake van een psychiatrische aandoening, psychische stoornis (waartoe ook verslaving behoort), mogelijk in combinatie met een somatische aandoening, een lichamelijke en/of (lichte) verstandelijke handicap. |
 
-## Bijlage B. bij [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.4&z=2026-01-01&g=2026-01-01) van de Regeling langdurige zorg
+## Bijlage B. bij [artikel 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=8&artikel=8.4&z=2026-05-30&g=2026-05-30) van de Regeling langdurige zorg
 
 ### Verdeling van gemeenten over zorgkantoorregio's in 2016
 
@@ -16139,7 +16103,7 @@ Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, 
 
 Het aanvaardbaarheidspercentage voor een land dat in bovenstaande lijst ontbreekt is 30%.
 
-### Zorgprofielen als bedoeld in de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-01-01&g=2026-01-01), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2026-01-01&g=2026-01-01), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2026-01-01&g=2026-01-01), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2026-01-01&g=2026-01-01), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-01-01&g=2026-01-01), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2026-01-01&g=2026-01-01), van de Regeling langdurige zorg (met conversietabel zzp’s Algemene Wet Bijzondere Ziektekosten)
+### Zorgprofielen als bedoeld in de [artikelen 9.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8&z=2026-05-30&g=2026-05-30), [9.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.8a&z=2026-05-30&g=2026-05-30), [9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.9&z=2026-05-30&g=2026-05-30), [9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.10&z=2026-05-30&g=2026-05-30), [9.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.14&z=2026-05-30&g=2026-05-30), alsmede [9.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&hoofdstuk=9&artikel=9.16&z=2026-05-30&g=2026-05-30), van de Regeling langdurige zorg (met conversietabel zzp’s Algemene Wet Bijzondere Ziektekosten)
 
 ## Bijlage H. Tarieventabel 2026
 

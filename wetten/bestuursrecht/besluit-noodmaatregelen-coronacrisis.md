@@ -1,38 +1,13 @@
 ---
 title: "Besluit noodmaatregelen coronacrisis"
 identifier: "BWBR0047168"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-01"
-last_updated: "2021-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047168"
-soort: "beleidsregel"
-stam_id: "16486403"
-version_id: "28895392"
-internal_id: "C40911111"
-label_id: "16409374"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047168/2024-01-01/0"
-intitule_bron: "Stcrt.2022-24204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-13"
-intitule_published: "2022-09-19"
-intitule_in_force: "2022-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-24204"
-original_signed_date: "2022-09-13"
-original_published_date: "2022-09-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-24204"
-entry_into_force_date: "2022-09-20"
-jci_1_3: "jci1.3:c:BWBR0047168&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0047168&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2022-09-13"
-entry_into_force: "2022-09-20"
+categorie: "Overig"
+publicatiedatum: 2024-01-01
+laatste_update: 2026-05-13
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0047168"
 ---
+
 # Besluit noodmaatregelen coronacrisis
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

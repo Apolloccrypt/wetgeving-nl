@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Justitie en Veiligheid van 25 november 2025, nr. 6882787, houdende nadere regels betreffende een toelage wegens bijzondere belastende werkomstandigheden bij de politie (Regeling toelage bijzondere belastende werkomstandigheden politie)"
+title: "Regeling toelage bijzondere belastende werkomstandigheden politie"
 identifier: "BWBR0051876"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051876"
-soort: "ministeriele-regeling"
-stam_id: "17625003"
-version_id: "31114162"
-internal_id: "C44536491"
-label_id: "17525384"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051876/2026-01-01/0"
-intitule_bron: "Stcrt.2025-39555"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-25"
-intitule_published: "2025-11-28"
-intitule_in_force: "2025-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39555"
-original_signed_date: "2025-11-25"
-original_published_date: "2025-11-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39555"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051876&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051876&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toelage bijzondere belastende werkomstandigheden politie"
-signed_date: "2025-11-25"
-entry_into_force: "2026-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-04-17
+laatste_update: 2026-04-21
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051876"
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 25 november 2025, nr. 6882787, houdende nadere regels betreffende een toelage wegens bijzondere belastende werkomstandigheden bij de politie (Regeling toelage bijzondere belastende werkomstandigheden politie)
 
 Gelet op [artikel 21 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=21);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- **beoordelingskader:** kader waarmee beoordeeld wordt of de werkomstandigheden van een groep medewerkers die werkzaam is in een vergelijkbare situatie, aanleiding geven tot een toelage voor bijzondere belastende werkomstandigheden, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&bijlage=1&z=2026-01-01&g=2026-01-01);
+- **beoordelingskader:** kader waarmee beoordeeld wordt of de werkomstandigheden van een groep medewerkers die werkzaam is in een vergelijkbare situatie, aanleiding geven tot een toelage voor bijzondere belastende werkomstandigheden, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&bijlage=1&z=2026-04-17&g=2026-04-17);
 
 - **commissie:** een door de korpschef landelijk ingesteld paritair adviesorgaan bestaande uit vertegenwoordigers van de werkgever en de politievakbonden;
 
@@ -80,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte van de regeling
 
-##### Artikel 2
+#### Artikel 2
 
 Aan een functie wordt door de korpschef een toelage toegekend als aan de volgende voorwaarden is voldaan:
 
@@ -92,11 +66,11 @@ Aan een functie wordt door de korpschef een toelage toegekend als aan de volgend
 
 ### Hoofdstuk 3. Aanwijzing en herbeoordeling van functies met toelage
 
-##### Artikel 3
+#### Artikel 3
 
 1. De korpschef wijst de functies aan waarvoor een toelage geldt.
 
-2. Over de aanwijzing en herbeoordeling van functies met een toelage wint de korpschef vooraf een advies in bij de commissie, indien aan de voorwaarden, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), is voldaan.
+2. Over de aanwijzing en herbeoordeling van functies met een toelage wint de korpschef vooraf een advies in bij de commissie, indien aan de voorwaarden, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=2&artikel=2&z=2026-04-17&g=2026-04-17), is voldaan.
 
 3. De commissie toetst, op basis van het beoordelingskader, of een functie voldoet aan de definitie van ten minste drie van de vier in het beoordelingskader opgenomen aspecten, beoordeelt vervolgens per aspect de toepasselijke categorie en berekent tenslotte het totaal van de aan deze categorieën toegekende percentages;
 
@@ -106,13 +80,13 @@ Aan een functie wordt door de korpschef een toelage toegekend als aan de volgend
 
 6. De aangewezen functies worden door de korpschef opgenomen in de Functielijst bijzondere belastende werkomstandigheden.
 
-##### Artikel 4
+#### Artikel 4
 
 De aangewezen functies worden iedere vijf jaar met toepassing van het beoordelingskader opnieuw door de commissie beoordeeld, of eerder op aangeven van het bevoegd gezag vanwege gewijzigde werkomstandigheden.
 
 ### Hoofdstuk 4. Hoogte en toekenningsperiode toelage
 
-##### Artikel 5
+#### Artikel 5
 
 1. De toelage is een percentage van salarisschaal 8, trede 14.
 
@@ -122,19 +96,19 @@ De aangewezen functies worden iedere vijf jaar met toepassing van het beoordelin
 
 4. De toelage wordt maandelijks uitbetaald.
 
-##### Artikel 6
+#### Artikel 6
 
 1. De aanspraak op de toelage eindigt bij het bereiken van de einddatum van de functieverblijfstermijn.
 
 2. Bij een ontheffing uit de werkzaamheden gedurende de functieverblijfstermijn eindigt de toelage, tenzij die ontheffing mede een organisatiebelang dient.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Indien de ambtenaar, in opdracht van het bevoegd gezag, in zijn functie wordt ingezet als heimelijk of forensisch duiker, ontvangt deze ambtenaar een duiktoelage.
 
-2. De duiktoelage voor de heimelijke duiker bedraagt € 350,– per maand.
+2. De duiktoelage voor de heimelijke duiker bedraagt € 357,– per maand.
 
-3. De duiktoelage voor de forensische duiker bedraagt € 175,– per maand.
+3. De duiktoelage voor de forensische duiker bedraagt € 178,50 per maand.
 
 4. De duiktoelage wordt stopgezet als de ambtenaar, bedoeld in het eerste lid, in opdracht van het bevoegd gezag of op eigen verzoek, niet meer wordt ingezet als heimelijk of forensisch duiker.
 
@@ -142,13 +116,13 @@ De aangewezen functies worden iedere vijf jaar met toepassing van het beoordelin
 
 ### Hoofdstuk 7. Eenmalige uitkeringen
 
-##### Artikel 8
+#### Artikel 8
 
 1. De ambtenaar komt in aanmerking voor een eenmalige uitkering van maximaal € 6.000,– netto als aan de volgende voorwaarden wordt voldaan:
 
 - a. de ambtenaar is op 31 december 2025 in dienst bij een team binnen SO/DISO van de eenheid LO, met uitzondering van een Undercover Team en;
 
-- b. de ambtenaar op 31 december 2025 is aangesteld op een per 1 januari 2026 aangewezen functie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=3&artikel=3&z=2026-01-01&g=2026-01-01) en;
+- b. de ambtenaar op 31 december 2025 is aangesteld op een per 1 januari 2026 aangewezen functie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=3&artikel=3&z=2026-04-17&g=2026-04-17) en;
 
 - c. de ambtenaar kon geen aanspraak maken op de tijdelijke toelage op grond van het Besluit Vergoedingsafspraken medewerkers Observatie en Techniek en Delta1Stcrt. 2021, 43543..
 
@@ -156,17 +130,17 @@ De aangewezen functies worden iedere vijf jaar met toepassing van het beoordelin
 
 3. De uitkering wordt met het salaris van januari 2026 uitbetaald.
 
-##### Artikel 9
+#### Artikel 9
 
 1. De ambtenaar die op 31 december 2025 in dienst is als heimelijk duiker bij een team binnen SO/DISO heeft recht op een eenmalige duikuitkering van € 1.000,– netto.
 
 2. De duikuitkering, bedoeld in het vorige lid, wordt met het salaris van januari 2026 uitbetaald.
 
-##### Artikel 10
+#### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-##### Artikel 11
+#### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling toelage bijzondere belastende werkomstandigheden politie.
 

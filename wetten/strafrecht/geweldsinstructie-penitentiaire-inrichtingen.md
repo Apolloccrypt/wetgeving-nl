@@ -1,38 +1,13 @@
 ---
 title: "Geweldsinstructie penitentiaire inrichtingen"
 identifier: "BWBR0010095"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-05"
-last_updated: "2026-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010095"
-soort: "ministeriele-regeling"
-stam_id: "3532123"
-version_id: "31363742"
-internal_id: "C44819421"
-label_id: "3512204"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010095/2026-02-05/0"
-intitule_bron: "Stcrt.1998-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-14"
-intitule_published: "1998-12-24"
-intitule_in_force: "1998-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-2976"
-original_signed_date: "2026-01-26"
-original_published_date: "2026-02-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2026-2976"
-entry_into_force_date: "2026-01-26"
-jci_1_3: "jci1.3:c:BWBR0010095&z=2026-02-05&g=2026-02-05"
-jci_1_0: "1.0:c:BWBR0010095&g=2026-02-05"
-citeertitel_status: "officieel"
-signed_date: "2026-01-26"
-entry_into_force: "2026-01-26"
+categorie: "Overig"
+publicatiedatum: 2026-02-05
+laatste_update: 2026-02-05
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0010095"
 ---
+
 # Geweldsinstructie penitentiaire inrichtingen
 
 Gelet op [artikel 35, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=35);
@@ -41,7 +16,7 @@ Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 19 mei 199
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 In deze instructie wordt verstaan onder:
 
@@ -83,7 +58,7 @@ In deze instructie wordt verstaan onder:
 
 - i. **vuurwapen:** een geweldsmiddel als bedoeld in artikel 1, onderdeel f, onder 1, 2 en 3.
 
-##### Artikel 2
+#### Artikel 2
 
 1. Het gebruik van een geweldsmiddel is uitsluitend toegestaan aan een daartoe door de directeur aangewezen ambtenaar of medewerker:
 
@@ -95,19 +70,19 @@ In deze instructie wordt verstaan onder:
 
 2. Aan het gebruik van een geweldmiddel gaat zo mogelijk een waarschuwing vooraf.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De inrichtingsdirecteur stelt een voor zijn inrichting geldende dienstinstructie voor het personeel vast.
 
 2. De directeur geeft daarin aan onder welke omstandigheden, welke ambtenaren of medewerkers bevoegd zijn, binnen en buiten de inrichting, jegens een gedetineerde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden en van welk geweldsmiddel dan wel vrijheidsbeperkend middel daarbij gebruik mag worden gemaakt.
 
-##### Artikel 4
+#### Artikel 4
 
 1. De directeur of de daartoe door hem aangewezen ambtenaar of medewerker kan de eenheid inzetten.
 
 2. De ambtenaar of medewerker zet de eenheid slechts in na toestemming van de directeur.
 
-##### Artikel 5
+#### Artikel 5
 
 Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
@@ -119,17 +94,17 @@ Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - d. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
-##### Artikel 6
+#### Artikel 6
 
 De ambtenaar of medewerker mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
-##### Artikel 7
+#### Artikel 7
 
 1. De ambtenaar of medewerker geeft onmiddellijk voordat hij gericht met een vuurwapen zal schieten een waarschuwing. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot moet op zodanige wijze worden afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Het gebruik van CS-traangas is slechts geoorloofd:
 
@@ -141,7 +116,7 @@ De ambtenaar of medewerker mag in verband met zijn eigen veiligheid of die van a
 
 3. De directeur die bevel geeft tot het verspreiden van CS-traangas geeft bij dit bevel aan hoeveel CS-traangasgranaten worden gebruikt.
 
-##### Artikel 9
+#### Artikel 9
 
 1. De ambtenaar of medewerker die geweld heeft gebruikt of vrijheidsbeperkende middelen heeft aangewend, meldt dit onverwijld schriftelijk aan de directeur van de betrokken inrichting of de selectiefunctionaris. De schriftelijke melding dient duidelijkheid te verschaffen over de redenen die tot het aanwenden van geweld hebben geleid, de daaruit voortvloeiende gevolgen en op wiens last dit aanwenden van geweld heeft plaatsgevonden.
 
@@ -153,25 +128,25 @@ De ambtenaar of medewerker mag in verband met zijn eigen veiligheid of die van a
 
 - b. gebruik is gemaakt van enig geweldsmiddel en lichamelijk letsel dan wel de dood veroorzaakt is.
 
-##### Artikel 10
+#### Artikel 10
 
 De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer, een broekstok, of ten behoeve van het vervoer of interne verplaatsing, handboeien aanleggen.
 
-##### Artikel 11
+#### Artikel 11
 
 Deze regeling wordt aangehaald als: Geweldsinstructie penitentiaire inrichtingen.
 
-##### Artikel 12
+#### Artikel 12
 
 Deze regeling treedt in werking op 1 januari 1999.
 
-##### Artikel 13
+#### Artikel 13
 
 De Geweldsinstructie gestichtspersoneel van 25 mei 1966, nr. GW 12, met de bijbehorende handleiding van 30 juni 1966, van de Directie Gevangeniswezen/ Bureau Beveiliging, de besluiten van 31 mei 1985, nr.195/ P385, van de Directie Gevangeniswezen, Staf. J.Z., tot wijziging van de Geweldsinstructie gestichtspersoneel, en het besluit van 19 maart 1991, nr. 47988/91 DJ, van de Dir. D&J, worden ingetrokken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 8a
+#### Artikel 8a
 
 1. Het gebruik van pepperspray is slechts geoorloofd voorzover dit noodzakelijk is ter aanhouding van een gedetineerde indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
 
@@ -193,13 +168,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 10a
+#### Artikel 10a
 
 De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer met een verhoogd veiligheidsrisico, van een blinderingsmiddel voorzien.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 5a
+#### Artikel 5a
 
 Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 

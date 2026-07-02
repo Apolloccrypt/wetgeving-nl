@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2022, kenmerk 2022-0000150909, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2022 (Regeling bekostiging financieel toezicht 2022)"
+title: "Regeling bekostiging financieel toezicht 2022"
 identifier: "BWBR0046730"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-06-04"
-last_updated: "2022-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046730"
-soort: "ministeriele-regeling"
-stam_id: "16374093"
-version_id: "28661052"
-internal_id: "C40441121"
-label_id: "16298274"
-dtd_version: "2.0"
-original_entry_into_force: "2022-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046730/2022-06-04/0"
-intitule_bron: "Stcrt.2022-14472"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-31"
-intitule_published: "2022-06-03"
-intitule_in_force: "2022-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-14472"
-original_signed_date: "2022-05-31"
-original_published_date: "2022-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-14472"
-entry_into_force_date: "2022-06-04"
-jci_1_3: "jci1.3:c:BWBR0046730&z=2022-06-04&g=2022-06-04"
-jci_1_0: "1.0:c:BWBR0046730&g=2022-06-04"
-citeertitel_status: "officieel"
-short_title: "Regeling bekostiging financieel toezicht 2022"
-signed_date: "2022-05-31"
-entry_into_force: "2022-06-04"
+categorie: "Overig"
+publicatiedatum: 2025-12-03
+laatste_update: 2026-06-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046730"
 ---
+
 # Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2022, kenmerk 2022-0000150909, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2022 (Regeling bekostiging financieel toezicht 2022)
 
 Gelet op [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9);
@@ -178,11 +152,11 @@ Voor het kalenderjaar 2022 worden de bandbreedtes en tarieven, bedoeld in [artik
 
 | Toezichtcategorie | Maatstaf | Bandbreedtes | Tarieven |
 | --- | --- | --- | --- |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | **Aanbieders voor het wisselen tussen virtuele valuta en fiduciaire valuta die op grond van artikel 23b, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd of aanbieders van bewaarportemonnees die op grond van artikel 23b, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd.** **Voor de partijen geldt een maximumheffing van 10 procent van de omzet op jaarbasis met een minimum van € 2.000 (het basisbedrag) en een absoluut maximum van € 900.000.** | € 2.000 in voorkomend geval vermeerderd met: |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 0 tot en met € 1 miljoen omzet | € 38,89 per € 1.000 omzet |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 1 miljoen tot en met € 10 miljoen omzet | € 23,33 per € 1.000 omzet |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 10 miljoen tot en met € 50 miljoen omzet | € 9,72 per € 1.000 omzet |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 50 miljoen omzet | € 3,89 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta; | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | **Aanbieders voor het wisselen tussen virtuele valuta en fiduciaire valuta die op grond van artikel 23b, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd of aanbieders van bewaarportemonnees die op grond van artikel 23b, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd.** **Voor de partijen geldt een maximumheffing van 10 procent van de omzet op jaarbasis met een minimum van € 1.769 (het basisbedrag) en een absoluut maximum van € 796.050.** | € 1.769 in voorkomend geval vermeerderd met: |
+| Aanbieders van diensten met betrekking tot virtuele valuta; | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 0 tot en met € 1 miljoen omzet | € 34,40 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta; | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 1 miljoen tot en met € 10 miljoen omzet | € 20,64 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta; | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 10 miljoen tot en met € 50 miljoen omzet | € 8,60 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta; | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 50 miljoen omzet | € 3,44 per € 1.000 omzet |
 | Banken en kredietunies | Voor banken (personen a,b,d,e,f): **Minimum omvang toetsingsvermogen (MTV):** Minimum omvang toetsingsvermogen berekend conform de regels die op grond van [artikel 3:57 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) worden bepaald. | **Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:11, 2:20, 3:4, eerste lid, of 3:110, eerste lid, van de Wet op het financieel toezicht** | € 35.000 vermeerderd met: |
 | Banken en kredietunies |   | >€ 0 tot en met € 80 miljoen MTV | € 8.332 per € miljoen MTV |
 | Banken en kredietunies |   | >€ 80 miljoen tot en met € 400 miljoen MTV | in voorkomend geval vermeerderd met: € 3.589 per € miljoen MTV |
@@ -216,15 +190,15 @@ Voor het kalenderjaar 2022 worden de bandbreedtes en tarieven, bedoeld in [artik
 |   | b. de omvang van het totaal van: – het balanstotaal van de beheerde beleggingsinstelling(en); – het balanstotaal van de beheerde icbe(’s); – het beheerd individueel vermogen zoals omschreven in het in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) gedefinieerde begrip ‘het beheren van individueel vermogen’, welk begrip wordt gebruikt in [onderdeel c van het in artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) gedefinieerde begrip ‘het verlenen van een beleggingsdienst’, in [artikel 2:67a, tweede lid, onderdeel a, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67a) en in [artikel 2:97, derde of vierde lid, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:97); – het vermogen waarover wordt geadviseerd bij het «adviseren over financiële instrumenten» zoals genoemd in [onderdeel d van het in artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) gedefinieerde begrip ‘het verlenen van een beleggingsdienst’, in [artikel 2:67a, tweede lid, onderdeel b, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67a) en in [artikel 2:97, derde of vierde lid, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:97); – honderd maal het minimum aan te houden toetsingsvermogen dat door DNB is vastgesteld van degene die handelt voor eigen rekening zoals genoemd in [onderdeel a van het in artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) gedefinieerde begrip ‘het verrichten van een beleggingsactiviteit’. | > € 1 miljard tot en met € 10 miljard | in voorkomend geval vermeerderd met: € 8,79 per miljoen van honderd maal het aan te houden toetsingsvermogen |
 |   |   | > € 10 miljard tot en met € 50 miljard | in voorkomend geval vermeerderd met: € 3,49 per miljoen van honderd maal het aan te houden toetsingsvermogen |
 |   |   | > € 50 miljard | in voorkomend geval vermeerderd met: € 0,56 per miljoen van honderd maal het aan te houden toetsingsvermogen |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | **Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:3a, eerste lid, 2:4, of 2:10a van de Wet op het financieel toezicht:** | € 7.500 in voorkomend geval vermeerderd met: |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | Bij 2 toegestane betaaldiensten op basis vergunning | € 5.000 |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | Bij 3 of meer toegestane betaaldiensten op basis vergunning | € 7.500 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | **Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:3a, eerste lid, 2:4, of 2:10a van de Wet op het financieel toezicht:** | € 6.550 in voorkomend geval vermeerderd met: |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | Bij 2 toegestane betaaldiensten op basis vergunning | € 4.367 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | Bij 3 of meer toegestane betaaldiensten op basis vergunning | € 6.550 |
 | Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | **Personen met PI in het bereik van:** |   |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | € 0 tot en met € 1 miljoen | € 75 per € 1.000 |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | > € 1 miljoen tot en met € 10 miljoen | € 31 per € 1.000 |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | > € 10 miljoen tot en met € 50 miljoen | € 2,40 per € 1.000 |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | > € 50 miljoen | € 0,25 per € 1.000 |
-| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | **Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:54i, eerste lid, of 2:54l, eerste lid van de Wet op het financieel toezicht** | € 3.000 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | € 0 tot en met € 1 miljoen | € 65,50 per € 1.000 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | > € 1 miljoen tot en met € 10 miljoen | € 27,07 per € 1.000 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | > € 10 miljoen tot en met € 50 miljoen | € 2,10 per € 1.000 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | > € 50 miljoen | € 0,22 per € 1.000 |
+| Betaalinstellingen, clearinginstellingen en elektronischgeldinstellingen | **Bruto-provisie-inkomsten (PI)** | **Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:54i, eerste lid, of 2:54l, eerste lid van de Wet op het financieel toezicht** | € 2.620 |
 | Depositogarantiestelsel: banken | **Gegarandeerde deposito’s (GDs)** |   | € 500 vermeerderd met: |
 | Depositogarantiestelsel: banken | **Gegarandeerde deposito’s (GDs)** | < 1 miljard GDs | € 14,02 per € 1.000.000 GDs |
 | Depositogarantiestelsel: banken | **Gegarandeerde deposito’s (GDs)** | 1 tot en met 10 miljard GDs | € 11,21 per € 1.000.000 GDs |

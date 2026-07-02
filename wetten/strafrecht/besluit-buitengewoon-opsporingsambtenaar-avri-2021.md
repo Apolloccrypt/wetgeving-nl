@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Minister voor Rechtsbescherming van 2 juli 2021 nr. BOACAT2021/20, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Avri"
+title: "Besluit buitengewoon opsporingsambtenaar Avri 2021"
 identifier: "BWBR0045474"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-07"
-last_updated: "2021-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045474"
-soort: "ministeriele-regeling"
-stam_id: "16038123"
-version_id: "27932222"
-internal_id: "C39385451"
-label_id: "15971054"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045474/2021-07-07/0"
-intitule_bron: "Stcrt.2021-36557"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-02"
-intitule_published: "2021-07-27"
-intitule_in_force: "2021-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-36557"
-original_signed_date: "2021-07-02"
-original_published_date: "2021-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-36557"
-entry_into_force_date: "2021-07-07"
-jci_1_3: "jci1.3:c:BWBR0045474&z=2021-07-07&g=2021-07-07"
-jci_1_0: "1.0:c:BWBR0045474&g=2021-07-07"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Avri 2021"
-signed_date: "2021-07-02"
-entry_into_force: "2021-07-07"
+categorie: "Overig"
+publicatiedatum: 2021-07-07
+laatste_update: 2021-07-07
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0045474"
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 2 juli 2021 nr. BOACAT2021/20, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Avri
 
 Gelezen het verzoek van de directeur van Avri 25 februari 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederlanden de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -56,15 +30,15 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-##### Artikel 1
+#### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045474&artikel=2&z=2021-07-07&g=2021-07-07).
 
-##### Artikel 2
+#### Artikel 2
 
 De personen, werkzaam in de functie van Medewerker Handhaving in dienst van Avri, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -72,21 +46,21 @@ De personen, werkzaam in de functie van Medewerker Handhaving in dienst van Avri
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-##### Artikel 4
+#### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 30 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-##### Artikel 6
+#### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
-##### Artikel 7
+#### Artikel 7
 
 1. De directeur van Avri brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -98,15 +72,15 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, v
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045474&artikel=5&z=2021-07-07&g=2021-07-07) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-##### Artikel 8
+#### Artikel 8
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045474&artikel=9&z=2021-07-07&g=2021-07-07) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-##### Artikel 9
+#### Artikel 9
 
 Het [Besluit buitengewoon opsporingsambtenaar Avri 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038205) van 1 juli 2016 nr. BOACAT2016/046 zal vervallen op 7 juli 2021.Dit besluit treedt in werking met ingang van 7 juli 2021 en vervalt met ingang van 7 juli 2026.
 
-##### Artikel 10
+#### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Avri 2021.
 

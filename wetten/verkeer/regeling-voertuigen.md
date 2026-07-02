@@ -1,39 +1,13 @@
 ---
-title: "Regeling tot uitvoering de hoofdstukken III en VI van de Wegenverkeerswet 1994 (Regeling voertuigen)"
+title: "Regeling voertuigen"
 identifier: "BWBR0025798"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025798"
-soort: "ministeriele-regeling"
-stam_id: "10005703"
-version_id: "30989332"
-internal_id: "C44381481"
-label_id: "9995254"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025798/2026-01-01/0"
-intitule_bron: "Supplement-Stcrt.2009-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-04-10"
-intitule_published: "2009-04-29"
-intitule_in_force: "2009-04-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-36058"
-original_signed_date: "2025-10-20"
-original_published_date: "2025-10-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-36058"
-entry_into_force_date: "2025-10-20"
-jci_1_3: "jci1.3:c:BWBR0025798&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0025798&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling voertuigen"
-signed_date: "2025-10-20"
-entry_into_force: "2025-10-20"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-05-14
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0025798"
 ---
+
 # Regeling tot uitvoering de hoofdstukken III en VI van de Wegenverkeerswet 1994 (Regeling voertuigen)
 
 Gelet op de [artikelen 21, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [22, eerste, derde, vierde, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22), [22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22a), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=23), [25a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25a), [25b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25b), [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25c), [25e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25e), [26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26), [30, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=30), [31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=31), [34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=34), [58, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=58), [60, eerste lid, onderdeel c, derde lid, vijfde lid, onderdeel c, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=71), [71a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=71a), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=75), [76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=76), [81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [83, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=83), [84, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=84), [85a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=85a), [86, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86), [86a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86a), [88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=88), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98), [99, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=99), [101, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=101);
@@ -82,9 +56,9 @@ In deze regeling wordt verstaan onder:
 
 - **bedrijfsauto:** voertuig op vier of meer wielen, en ingericht voor: in ieder geval wordt als bedrijfsauto aangemerkt een voertuig van de voertuigcategorie N;
 
-- a. het vervoer van goederen, of
+  - a. het vervoer van goederen, of
 
-- b. het uitvoeren van andere werkzaamheden;
+  - b. het uitvoeren van andere werkzaamheden;
 
 - **belastbare as:** as waarvan de belasting kan worden gevarieerd zonder dat de as met behulp van een ashefinrichting wordt opgetrokken;
 
@@ -114,13 +88,13 @@ In deze regeling wordt verstaan onder:
 
 - **dolly:** aanhangwagen van de voertuigcategorie O met carrosserietype DA, DB, DC of subcategorie SJ of aanhangwagen van de voertuigcategorie R, bestemd voor:
 
-- a. het koppelen van een oplegger aan een trekkend voertuig waarbij de dolly de voorzijde van een oplegger draagt;
+  - a. het koppelen van een oplegger aan een trekkend voertuig waarbij de dolly de voorzijde van een oplegger draagt;
 
-- b. het dragen van de achterzijde van in de lengte ondeelbare lading, indien deze lading het chassis van het voertuig vervangt;
+  - b. het dragen van de achterzijde van in de lengte ondeelbare lading, indien deze lading het chassis van het voertuig vervangt;
 
-- c. het dragen van één van de assen van een motorvoertuig, de afsleepdolly; of
+  - c. het dragen van één van de assen van een motorvoertuig, de afsleepdolly; of
 
-- d. het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras dan wel -assen van het trekkend voertuig en de as of assen van de dolly;
+  - d. het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras dan wel -assen van het trekkend voertuig en de as of assen van de dolly;
 
 - **door alternatieve brandstoffen aangedreven voertuig:** motorvoertuig van de voertuigcategorie M2, M3, N2 of N3 dat geheel of gedeeltelijk wordt aangedreven op basis van een alternatieve brandstof, te herkennen aan de vermelding op de voorgeschreven constructieplaat;
 
@@ -134,17 +108,17 @@ In deze regeling wordt verstaan onder:
 
 - **elektrische aandrijflijn:** aandrijflijn met elektrische circuit, bestaande uit:
 
-- a. de tractiebatterij;
+  - a. de tractiebatterij;
 
-- b. de elektronische omzetters;
+  - b. de elektronische omzetters;
 
-- c. de tractiemotoren;
+  - c. de tractiemotoren;
 
-- d. het laadcircuit;
+  - d. het laadcircuit;
 
-- e. de kabelset en de connectoren; en
+  - e. de kabelset en de connectoren; en
 
-- f. de elektronische hulpapparatuur;
+  - f. de elektronische hulpapparatuur;
 
 - **emissiebeheersingssysteem:** emissiebeheersingssysteem als bedoeld in artikel 3, elfde lid, van [verordening (EG) 715/2007](32007R0715);
 
@@ -190,15 +164,15 @@ In deze regeling wordt verstaan onder:
 
 - **kampeerwagen:** voertuig dat voorzien is van een woongedeelte met ten minste de volgende uitrusting die vast in het woongedeelte bevestigd is: in ieder geval wordt als kampeerwagen aangemerkt een voertuig voor speciale doeleinden van de voertuigcategorie M met subcategorie SA;
 
-- a. tafel, die eventueel eenvoudig te verwijderen is;
+  - a. tafel, die eventueel eenvoudig te verwijderen is;
 
-- b. stoelen;
+  - b. stoelen;
 
-- c. slaapgelegenheid, eventueel door de stoelen om te vormen;
+  - c. slaapgelegenheid, eventueel door de stoelen om te vormen;
 
-- d. kookvoorzieningen, en
+  - d. kookvoorzieningen, en
 
-- e. opbergmogelijkheden;
+  - e. opbergmogelijkheden;
 
 - **kermis- en circusvoertuig:** voertuig, niet zijnde een voertuig op rupsbanden, dat uitsluitend wordt gebruikt voor de feitelijke exploitatie van een kermis- of circusbedrijf;
 
@@ -216,11 +190,11 @@ In deze regeling wordt verstaan onder:
 
 - **lastdrager:** afneembare of uitschuifbare constructie die is bestemd voor het vervoer van goederen, met inbegrip van hulpmiddelen, en die:
 
-- a. aan de bumper, op de trekhaak of op het dak van een personenauto, bedrijfsauto, bus of driewielig motorrijtuig is aangebracht, dan wel is geïntegreerd in de achterzijde van het voertuig;
+  - a. aan de bumper, op de trekhaak of op het dak van een personenauto, bedrijfsauto, bus of driewielig motorrijtuig is aangebracht, dan wel is geïntegreerd in de achterzijde van het voertuig;
 
-- b. aan de achterzijde, op de trekdriehoek of trekboom van een (middenas) aanhangwagen met een technisch toegestane maximummassa van niet meer dan 3.500 kg is aangebracht, of
+  - b. aan de achterzijde, op de trekdriehoek of trekboom van een (middenas) aanhangwagen met een technisch toegestane maximummassa van niet meer dan 3.500 kg is aangebracht, of
 
-- c. uitsluitend voor het vervoer van glas, plaatmateriaal of soortgelijke goederen aan één of beide zijkanten van een bedrijfsauto of aanhangwagen met een technisch toegestane maximummassa van niet meer dan 3.500 kg is aangebracht;
+  - c. uitsluitend voor het vervoer van glas, plaatmateriaal of soortgelijke goederen aan één of beide zijkanten van een bedrijfsauto of aanhangwagen met een technisch toegestane maximummassa van niet meer dan 3.500 kg is aangebracht;
 
 - **licht:** inrichting voor het verlichten van de weg of het geven van een lichtsignaal aan andere weggebruikers, waaronder begrepen de achterkentekenplaatverlichting en retroreflectoren;
 
@@ -254,13 +228,13 @@ In deze regeling wordt verstaan onder:
 
 - **massa ledig voertuig voor voertuigen van de voertuigcategorie L:**
 
-- a. massa van het voertuig zoals vermeld in de goedkeuring; of
+  - a. massa van het voertuig zoals vermeld in de goedkeuring; of
 
-- b. indien niet vermeld in de goedkeuring, massa van het voertuig in rijklare toestand, verminderd met:
+  - b. indien niet vermeld in de goedkeuring, massa van het voertuig in rijklare toestand, verminderd met:
 
-- 1°. 7 kg voor voertuigen met de voertuigclassificatie L1e, L2e, L3e, L4e of L6e;
+    - 1°. 7 kg voor voertuigen met de voertuigclassificatie L1e, L2e, L3e, L4e of L6e;
 
-- 2°. 100 kg voor voertuigen met de voertuigclassificatie L5e of L7e;
+    - 2°. 100 kg voor voertuigen met de voertuigclassificatie L5e of L7e;
 
 - **massa in rijklare toestand voor voertuigen van de voertuigcategorie L:** massa van het voertuig als bedoeld in artikel 5 van verordening (EU) 168/2013;
 
@@ -294,17 +268,17 @@ In deze regeling wordt verstaan onder:
 
 - **motorrijtuig met beperkte snelheid:** motorvoertuig voor het eerst in gebruik genomen voor 1 januari 2022 met een maximumconstructiesnelheid van niet meer dan:
 
-- a. 25 km/h, niet ingericht voor het vervoer van personen en;
+  - a. 25 km/h, niet ingericht voor het vervoer van personen en;
 
-- 1°. ingericht voor het bij op korte afstand van elkaar gelegen plaatsen afleveren of ophalen van goederen; of
+    - 1°. ingericht voor het bij op korte afstand van elkaar gelegen plaatsen afleveren of ophalen van goederen; of
 
-- 2°. voorzien van een stuurwiel en een trekinrichting, dat uitsluitend wordt gebruikt in de periode van 1 juli tot en met 30 november, een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het dragen van voorraadkisten of -kratten, en als samenstel, inclusief lading of uitrusting, niet breder is dan 1,3 m;
+    - 2°. voorzien van een stuurwiel en een trekinrichting, dat uitsluitend wordt gebruikt in de periode van 1 juli tot en met 30 november, een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het dragen van voorraadkisten of -kratten, en als samenstel, inclusief lading of uitrusting, niet breder is dan 1,3 m;
 
-- b. 45 km/h,
+  - b. 45 km/h,
 
-- 1°. niet ingericht voor het vervoer van personen en wel ingericht voor het uitvoeren van werkzaamheden buiten wegen, aan wegen of aan werken op, in, langs en boven wegen;
+    - 1°. niet ingericht voor het vervoer van personen en wel ingericht voor het uitvoeren van werkzaamheden buiten wegen, aan wegen of aan werken op, in, langs en boven wegen;
 
-- 2°. voorzien van niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen;
+    - 2°. voorzien van niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen;
 
 - **motorvoertuig:** motorrijtuig als bedoeld in [artikel 1, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
@@ -346,19 +320,19 @@ In deze regeling wordt verstaan onder:
 
 - **schadevoertuig:** voertuig als bedoeld in [artikel 1, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1). Hieronder wordt in ieder geval verstaan een voertuig:
 
-- a. waarvan de dragende carrosseriedelen ernstig zijn vervormd;
+  - a. waarvan de dragende carrosseriedelen ernstig zijn vervormd;
 
-- b. waarvan de langsbalken van het chassis ernstig zijn vervormd;
+  - b. waarvan de langsbalken van het chassis ernstig zijn vervormd;
 
-- c. waarvan één of meer deurstijlen ernstig zijn vervormd;
+  - c. waarvan één of meer deurstijlen ernstig zijn vervormd;
 
-- d. waarvan het dak is verwijderd of de deur- of raamstijlen zijn doorgeknipt;
+  - d. waarvan het dak is verwijderd of de deur- of raamstijlen zijn doorgeknipt;
 
-- e. waarvan één of meer wielophangingen ernstig zijn vervormd in combinatie met één van de overige punten;
+  - e. waarvan één of meer wielophangingen ernstig zijn vervormd in combinatie met één van de overige punten;
 
-- f. met ernstige brand- of waterschade, of
+  - f. met ernstige brand- of waterschade, of
 
-- g. waarvan het frame ernstig is beschadigd;
+  - g. waarvan het frame ernstig is beschadigd;
 
 - **semi-dieplader:** open voertuig van de voertuigcategorie O met de voertuigclassificatie O3 of O4 waarvan het grotendeels verlaagde laadvlak zich in onbeladen toestand meer dan 0,70 m maar niet meer dan 1,10 m boven het wegdek bevindt, gemeten vanaf het wegdek tot aan de bovenkant van het laadvlak;
 
@@ -426,11 +400,11 @@ In deze regeling wordt verstaan onder:
 
 - **wielbasis:**
 
-- a. ten aanzien van vóór 1 april 1983 in gebruik genomen voertuigen: de horizontaal, evenwijdig aan het middenlangsvlak van het voertuig gemeten afstand tussen het hart van de eerste as, van het eerste samenstel van assen of van de koppelingspen en het hart van de laatste as of het hart van het laatste samenstel van assen;
+  - a. ten aanzien van vóór 1 april 1983 in gebruik genomen voertuigen: de horizontaal, evenwijdig aan het middenlangsvlak van het voertuig gemeten afstand tussen het hart van de eerste as, van het eerste samenstel van assen of van de koppelingspen en het hart van de laatste as of het hart van het laatste samenstel van assen;
 
-- b. ten aanzien van na 31 maart 1983 in gebruik genomen voertuigen, niet zijnde opleggers of na 28 april 2009 in gebruik genomen middenasaanhangwagens: de horizontaal, evenwijdig aan het middenlangsvlak van het voertuig gemeten afstand tussen het hart van de eerste en het hart van de laatste as van het voertuig;
+  - b. ten aanzien van na 31 maart 1983 in gebruik genomen voertuigen, niet zijnde opleggers of na 28 april 2009 in gebruik genomen middenasaanhangwagens: de horizontaal, evenwijdig aan het middenlangsvlak van het voertuig gemeten afstand tussen het hart van de eerste en het hart van de laatste as van het voertuig;
 
-- c. ten aanzien van na 31 maart 1983 in gebruik genomen opleggers of na 28 april 2009 in gebruik genomen middenasaanhangwagens: de horizontaal, evenwijdig aan het middenlangsvlak van het voertuig gemeten afstand tussen de verticale hartlijn van de koppeling en het hart van de laatste as;
+  - c. ten aanzien van na 31 maart 1983 in gebruik genomen opleggers of na 28 april 2009 in gebruik genomen middenasaanhangwagens: de horizontaal, evenwijdig aan het middenlangsvlak van het voertuig gemeten afstand tussen de verticale hartlijn van de koppeling en het hart van de laatste as;
 
 - **zelfsturende as:** as die wordt gestuurd doordat, door de wrijving van de banden op het wegdek, de wielen zelfstandig een zodanige stand innemen dat zij de cirkelbaan van het voertuig volgen;
 
@@ -444,11 +418,11 @@ In deze regeling wordt verstaan onder:
 
 - **zitplaats:** constructie, inclusief bekleding, die al dan niet een integrerend deel vormt van de constructie van het voertuig, die plaats biedt aan een volwassen persoon, met dien verstande dat de zitplaats zowel een afzonderlijke zitplaats kan zijn als een gedeelte van een bank dat plaats biedt aan één persoon en die afhankelijk van de richting als volgt wordt aangeduid:
 
-- a. naar voren gerichte zitplaats: zitplaats die kan worden gebruikt terwijl het voertuig in beweging is en die zodanig naar de voorkant van het voertuig is gericht dat het middenlangsvlak van de zitplaats een hoek van minder dan + 10° of – 10° vormt met het middenlangsvlak van het voertuig;
+  - a. naar voren gerichte zitplaats: zitplaats die kan worden gebruikt terwijl het voertuig in beweging is en die zodanig naar de voorkant van het voertuig is gericht dat het middenlangsvlak van de zitplaats een hoek van minder dan + 10° of – 10° vormt met het middenlangsvlak van het voertuig;
 
-- b. naar achteren gerichte zitplaats: zitplaats die kan worden gebruikt terwijl het voertuig in beweging is en die zodanig naar de achterkant van het voertuig is gericht dat het middenlangsvlak van de zitplaats een hoek van minder dan + 10° of – 10° vormt met het middenlangsvlak van het voertuig;
+  - b. naar achteren gerichte zitplaats: zitplaats die kan worden gebruikt terwijl het voertuig in beweging is en die zodanig naar de achterkant van het voertuig is gericht dat het middenlangsvlak van de zitplaats een hoek van minder dan + 10° of – 10° vormt met het middenlangsvlak van het voertuig;
 
-- c. zijdelings gerichte zitplaats: zitplaats die, gelet op haar gerichtheid ten opzichte van het middenlangsvlak van het voertuig, niet voldoet aan de onderdelen a en b.
+  - c. zijdelings gerichte zitplaats: zitplaats die, gelet op haar gerichtheid ten opzichte van het middenlangsvlak van het voertuig, niet voldoet aan de onderdelen a en b.
 
 ### Afdeling 1a. Aanvulling grondslagen
 
@@ -940,15 +914,15 @@ Gehandicaptenvoertuigen zonder motor moeten voldoen aan de in [afdeling 9](https
 
 - d. rijdende werktuigen met:
 
-- 1°. een lengte van meer dan 12,00 m;
+  - 1°. een lengte van meer dan 12,00 m;
 
-- 2°. een breedte van meer dan 2,55 m, indien de toegestane maximummassa niet meer bedraagt dan 10.000 kg;
+  - 2°. een breedte van meer dan 2,55 m, indien de toegestane maximummassa niet meer bedraagt dan 10.000 kg;
 
-- 3°. een breedte van meer dan 2,60 m, indien de toegestane maximummassa meer bedraagt dan 10.000 kg;
+  - 3°. een breedte van meer dan 2,60 m, indien de toegestane maximummassa meer bedraagt dan 10.000 kg;
 
-- 4°. een toegestane maximummassa van meer dan 50.000 kg, dan wel
+  - 4°. een toegestane maximummassa van meer dan 50.000 kg, dan wel
 
-- 5°. een toegestane maximumlast onder enige as van meer dan 10.000 kg voor een niet-aangedreven as, dan wel van meer dan 11.500 kg voor een aangedreven as.
+  - 5°. een toegestane maximumlast onder enige as van meer dan 10.000 kg voor een niet-aangedreven as, dan wel van meer dan 11.500 kg voor een aangedreven as.
 
 2. Van de in het eerste lid, onderdeel d, bedoelde uitzondering wordt melding gemaakt in het kentekenregister.
 
@@ -1000,9 +974,9 @@ Bij de vaststelling van de afmetingen van motorvoertuigen en samenstellen daarva
 
 - c. een verlichtingsinrichting vormen waarvan:
 
-- 1°. de lichtdoorlatende gedeelten van de lichten op een zelfde verticaal vlak ten minste 60,0% beslaan van het oppervlak van de kleinste vierhoek die om de lichtdoorlatende gedeelten van de lichten kan worden beschreven, of
+  - 1°. de lichtdoorlatende gedeelten van de lichten op een zelfde verticaal vlak ten minste 60,0% beslaan van het oppervlak van de kleinste vierhoek die om de lichtdoorlatende gedeelten van de lichten kan worden beschreven, of
 
-- 2°. de onderlinge afstand tussen de lichtdoorlatende gedeelten niet meer dan 75 mm bedraagt.
+  - 2°. de onderlinge afstand tussen de lichtdoorlatende gedeelten niet meer dan 75 mm bedraagt.
 
 2. Het eerste lid, onderdeel c, is niet van toepassing, indien het voertuig is uitgerust met van fabriekswege aangebrachte lichten.
 
@@ -1020,15 +994,15 @@ Met betrekking tot de in dit hoofdstuk opgenomen eisen en de wijze van keuren da
 
 - b. **stationair toerental:** toerental van de draaiende motor, waarbij:
 
-- 1°. de koudstartinrichting of het handgas niet is ingeschakeld;
+  - 1°. de koudstartinrichting of het handgas niet is ingeschakeld;
 
-- 2°. het gaspedaal of het handgas en het koppelingspedaal in ruststand zijn;
+  - 2°. het gaspedaal of het handgas en het koppelingspedaal in ruststand zijn;
 
-- 3°. de keuzehendel van de versnellingsbak in de neutrale stand staat bij een niet- of halfautomatische versnellingsbak dan wel in de parkeerstand of in de neutrale stand bij een volautomatische versnellingsbak;
+  - 3°. de keuzehendel van de versnellingsbak in de neutrale stand staat bij een niet- of halfautomatische versnellingsbak dan wel in de parkeerstand of in de neutrale stand bij een volautomatische versnellingsbak;
 
-- 4°. lampen en andere stroomverbruikers niet zijn ingeschakeld, met uitzondering van lampen die bij het starten automatisch gaan branden; en
+  - 4°. lampen en andere stroomverbruikers niet zijn ingeschakeld, met uitzondering van lampen die bij het starten automatisch gaan branden; en
 
-- 5°. geen hydraulische functies actief zijn;
+  - 5°. geen hydraulische functies actief zijn;
 
 - c. **controleapparaat:** controleapparaat als bedoeld in artikel 2, tweede lid, onderdeel a, van Verordening (EU) nr. 165/2014 van het Europees Parlement en de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU 2014, L 60).
 
@@ -8007,17 +7981,17 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 - g. indien de lastdrager is bevestigd op een trekhaak aan de achterzijde:
 
-- 1°. mag de door de fabrikant van de trekhaak vastgestelde maximale verticale last onder de koppeling niet worden overschreden; indien de trekhaak hieromtrent geen gegevens vermeldt, mag de verticale last niet meer dan 75 kg bedragen;
+  - 1°. mag de door de fabrikant van de trekhaak vastgestelde maximale verticale last onder de koppeling niet worden overschreden; indien de trekhaak hieromtrent geen gegevens vermeldt, mag de verticale last niet meer dan 75 kg bedragen;
 
-- 2°. mag de lastdrager met inbegrip van de bevestigingsdelen onder normale gebruiksomstandigheden het wegdek niet kunnen raken;
+  - 2°. mag de lastdrager met inbegrip van de bevestigingsdelen onder normale gebruiksomstandigheden het wegdek niet kunnen raken;
 
-- 3°. mogen bevestigingsdelen, die na het gedeeltelijk verwijderen van de lastdrager op de trekhaak achterblijven, de bewegingsvrijheid van een aangekoppelde aanhangwagen niet beperken;
+  - 3°. mogen bevestigingsdelen, die na het gedeeltelijk verwijderen van de lastdrager op de trekhaak achterblijven, de bewegingsvrijheid van een aangekoppelde aanhangwagen niet beperken;
 
 - h. indien de lastdrager is bevestigd op de voorzijde van de aanhangwagen:
 
-- 1°. mag de door de fabrikant van de trekhaak vastgestelde maximumlast onder de koppeling niet worden overschreden; indien dit gegeven niet bekend is, mag de maximumlast onder de koppeling niet meer dan 75 kg bedragen;
+  - 1°. mag de door de fabrikant van de trekhaak vastgestelde maximumlast onder de koppeling niet worden overschreden; indien dit gegeven niet bekend is, mag de maximumlast onder de koppeling niet meer dan 75 kg bedragen;
 
-- 2°. mag de lastdrager met inbegrip van de lading op de trekdriehoek of trekboom de bewegingsvrijheid van de aanhangwagen niet beperken.
+  - 2°. mag de lastdrager met inbegrip van de lading op de trekdriehoek of trekboom de bewegingsvrijheid van de aanhangwagen niet beperken.
 
 2. Bij het vervoer van goederen op het dak moet worden voldaan aan de volgende eisen:
 
@@ -8201,21 +8175,21 @@ De stootbalk en de bevestiging daarvan mogen niet zodanig zijn vervormd of breuk
 
 - a. de lengte van de vervoerde lading meer bedragen dan ingevolge [artikel 5.18.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2026-01-01&g=2026-01-01), is toegestaan, waarbij:
 
-- 1°. de lading aan de achterzijde van personenauto’s, bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg en driewielige motorrijtuigen niet meer dan 1,00 m achter het voertuig mag uitsteken;
+  - 1°. de lading aan de achterzijde van personenauto’s, bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg en driewielige motorrijtuigen niet meer dan 1,00 m achter het voertuig mag uitsteken;
 
-- 2°. de uitsteek van de lading achter het hart van de achterste as van bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg en aanhangwagens niet meer dan 0,5 maal de lengte van het voertuig mag bedragen, zoals vermeld in het kentekenregister of na meting is vastgesteld, met een maximum van 5,00 m, waarbij voor een oplegger geldt dat de uitsteek van de lading achter het hart van de achterste as van het voertuig niet meer mag zijn dan 0,5 maal de afstand van hart koppeling tot achterzijde met eveneens een maximum van 5,00 m;
+  - 2°. de uitsteek van de lading achter het hart van de achterste as van bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg en aanhangwagens niet meer dan 0,5 maal de lengte van het voertuig mag bedragen, zoals vermeld in het kentekenregister of na meting is vastgesteld, met een maximum van 5,00 m, waarbij voor een oplegger geldt dat de uitsteek van de lading achter het hart van de achterste as van het voertuig niet meer mag zijn dan 0,5 maal de afstand van hart koppeling tot achterzijde met eveneens een maximum van 5,00 m;
 
-- 3°. de lading aan de voorzijde van personenauto’s, bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg en driewielige motorrijtuigen niet meer dan 1,00 m voor het voertuig mag uitsteken;
+  - 3°. de lading aan de voorzijde van personenauto’s, bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg en driewielige motorrijtuigen niet meer dan 1,00 m voor het voertuig mag uitsteken;
 
-- 4°. de lading aan de voorzijde van bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg niet meer dan 4,30 m voor het hart van de voorste as van het voertuig mag uitsteken;
+  - 4°. de lading aan de voorzijde van bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg niet meer dan 4,30 m voor het hart van de voorste as van het voertuig mag uitsteken;
 
-- 5°. de lading niet voor de voorzijde van de aanhangwagen, niet zijnde een oplegger, mag uitsteken;
+  - 5°. de lading niet voor de voorzijde van de aanhangwagen, niet zijnde een oplegger, mag uitsteken;
 
-- 6°. de lading die voor of achter het voertuig meer dan 1,00 m uitsteekt, aan de voorzijde respectievelijk aan de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2026-01-01&g=2026-01-01), artikelen 130 tot en met 133;
+  - 6°. de lading die voor of achter het voertuig meer dan 1,00 m uitsteekt, aan de voorzijde respectievelijk aan de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2026-01-01&g=2026-01-01), artikelen 130 tot en met 133;
 
-- 7°. de verwisselbare gedragen uitrustingsstukken die voor of achter het voertuig meer dan 1,00 m uitsteken, moeten aan de zijkant zijn voorzien van een zijmarkeringslicht of een ambergele retroreflector of ambergele opvallende markering, die is aangebracht op een afstand van niet meer dan 1,00 m van de uiterste voor- of achterzijde;
+  - 7°. de verwisselbare gedragen uitrustingsstukken die voor of achter het voertuig meer dan 1,00 m uitsteken, moeten aan de zijkant zijn voorzien van een zijmarkeringslicht of een ambergele retroreflector of ambergele opvallende markering, die is aangebracht op een afstand van niet meer dan 1,00 m van de uiterste voor- of achterzijde;
 
-- 8°. het zicht op de verlichting, de retroreflectoren, de richtingaanwijzers of de kentekenplaat aan de achterzijde van het voertuig niet mag worden belemmerd, tenzij aan de achterzijde van de uitstekende lading op gelijke wijze als het betrokken voertuig zijn aangebracht verlichting, retroreflectoren, richtingaanwijzers of de kentekenplaat van dat voertuig;
+  - 8°. het zicht op de verlichting, de retroreflectoren, de richtingaanwijzers of de kentekenplaat aan de achterzijde van het voertuig niet mag worden belemmerd, tenzij aan de achterzijde van de uitstekende lading op gelijke wijze als het betrokken voertuig zijn aangebracht verlichting, retroreflectoren, richtingaanwijzers of de kentekenplaat van dat voertuig;
 
 - b. onverminderd het bepaalde in onderdeel a, de lengte van een trekker en oplegger, met inbegrip van de lading, indien de volledige lengte van de laadvloer wordt gebruikt voor het vervoer van ondeelbare lading, uitgezonderd het verhoogde laadvloerdeel van een semi-dieplader, meer bedragen dan ingevolge [artikel 5.18.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.11&z=2026-01-01&g=2026-01-01), is toegestaan, doch niet meer dan voor dat vervoer noodzakelijk is, met een maximum van 22,00 m;
 
@@ -8263,9 +8237,9 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - b. 1,00 m, indien:
 
-- 1°. het voertuig met een ashefinrichting is uitgerust en de as van de grond is opgetrokken; of
+  - 1°. het voertuig met een ashefinrichting is uitgerust en de as van de grond is opgetrokken; of
 
-- 2°. de achterste as een gestuurde as is.
+  - 2°. de achterste as een gestuurde as is.
 
 ##### Artikel 5.18.17a
 
@@ -8327,45 +8301,45 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - c. voor voertuigen met een asstel met twee niet-aangedreven assen:
 
-- 1°. indien de onderlinge afstand tussen de assen minder bedraagt dan 1,00 m, 11.000 kg tezamen;
+  - 1°. indien de onderlinge afstand tussen de assen minder bedraagt dan 1,00 m, 11.000 kg tezamen;
 
-- 2°. indien de onderlinge afstand tussen de assen 1,00 m of meer bedraagt maar minder dan 1,30 m, 16.000 kg tezamen;
+  - 2°. indien de onderlinge afstand tussen de assen 1,00 m of meer bedraagt maar minder dan 1,30 m, 16.000 kg tezamen;
 
-- 3°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m, 18.000 kg tezamen;
+  - 3°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m, 18.000 kg tezamen;
 
 - d. voor voertuigen met een asstel met twee assen waarvan één of twee assen zijn aangedreven:
 
-- 1°. indien de onderlinge afstand tussen de assen minder bedraagt dan 1,00 m, 11.500 kg tezamen;
+  - 1°. indien de onderlinge afstand tussen de assen minder bedraagt dan 1,00 m, 11.500 kg tezamen;
 
-- 2°. indien de onderlinge afstand tussen de assen 1,00 m of meer bedraagt maar minder dan 1,30 m, 16.000 kg tezamen;
+  - 2°. indien de onderlinge afstand tussen de assen 1,00 m of meer bedraagt maar minder dan 1,30 m, 16.000 kg tezamen;
 
-- 3°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m:
+  - 3°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m:
 
-- –. 18.000 kg tezamen;
+    - –. 18.000 kg tezamen;
 
-- –. 19.000 kg tezamen indien de aangedreven as is voorzien van banden in dubbele montage alsmede van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering;
+    - –. 19.000 kg tezamen indien de aangedreven as is voorzien van banden in dubbele montage alsmede van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering;
 
-- –. 19.000 kg tezamen indien beide aangedreven assen zijn voorzien van banden in dubbele montage, waarbij de last onder ieder der assen niet meer mag bedragen dan 9.500 kg;
+    - –. 19.000 kg tezamen indien beide aangedreven assen zijn voorzien van banden in dubbele montage, waarbij de last onder ieder der assen niet meer mag bedragen dan 9.500 kg;
 
 - e. voor voertuigen met een asstel met drie achter elkaar gelegen assen:
 
-- 1°. indien de onderlinge afstand tussen de assen minder bedraagt dan 1,30 m, 7.000 kg per as;
+  - 1°. indien de onderlinge afstand tussen de assen minder bedraagt dan 1,30 m, 7.000 kg per as;
 
-- 2°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m, 8.000 kg per as;
+  - 2°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m, 8.000 kg per as;
 
-- 3°. de onder 2° vermelde maximale aslasten mogen, indien het een aangedreven as betreft, worden verhoogd tot: waarbij de last onder het asstel niet meer mag bedragen dan 24.000 kg tezamen;
+  - 3°. de onder 2° vermelde maximale aslasten mogen, indien het een aangedreven as betreft, worden verhoogd tot: waarbij de last onder het asstel niet meer mag bedragen dan 24.000 kg tezamen;
 
-- –. 10.000 kg indien slechts één as van het asstel is aangedreven;
+    - –. 10.000 kg indien slechts één as van het asstel is aangedreven;
 
-- –. 9.000 kg indien twee assen van het asstel zijn aangedreven;
+    - –. 9.000 kg indien twee assen van het asstel zijn aangedreven;
 
-- 4°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m, 9.000 kg per as, mits het asstel is voorzien van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering, waarbij de last onder het asstel niet meer mag bedragen dan 27.000 kg tezamen;
+  - 4°. indien de onderlinge afstand tussen de assen 1,30 m of meer bedraagt maar minder dan 1,80 m, 9.000 kg per as, mits het asstel is voorzien van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering, waarbij de last onder het asstel niet meer mag bedragen dan 27.000 kg tezamen;
 
-- 5°. de onder 4° vermelde maximale aslasten mogen, indien het een aangedreven as betreft die is voorzien van banden in dubbele montage, worden verhoogd tot: waarbij de last onder het asstel niet meer mag bedragen dan 27.000 kg tezamen.
+  - 5°. de onder 4° vermelde maximale aslasten mogen, indien het een aangedreven as betreft die is voorzien van banden in dubbele montage, worden verhoogd tot: waarbij de last onder het asstel niet meer mag bedragen dan 27.000 kg tezamen.
 
-- –. 11.500 kg indien slechts één as van het asstel is aangedreven;
+    - –. 11.500 kg indien slechts één as van het asstel is aangedreven;
 
-- –. 9.500 kg indien twee assen van het asstel zijn aangedreven;
+    - –. 9.500 kg indien twee assen van het asstel zijn aangedreven;
 
 3. In afwijking van het tweede lid, mag de last onder enige as van een rijdend werktuig niet meer bedragen dan:
 
@@ -8385,17 +8359,17 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - c. voor aanhangwagens met een asstel met twee achter elkaar gelegen enkele assen, indien de onderlinge afstand tussen de assen:
 
-- 1°. minder bedraagt dan 1,00 m, 11.000 kg tezamen;
+  - 1°. minder bedraagt dan 1,00 m, 11.000 kg tezamen;
 
-- 2°. 1,00 m of meer bedraagt maar minder dan 1,30 m, 16.000 kg tezamen;
+  - 2°. 1,00 m of meer bedraagt maar minder dan 1,30 m, 16.000 kg tezamen;
 
-- 3°. 1,30 m of meer bedraagt maar minder dan 1,80 m, 18.000 kg tezamen;
+  - 3°. 1,30 m of meer bedraagt maar minder dan 1,80 m, 18.000 kg tezamen;
 
 - d. voor aanhangwagens met een asstel met meer dan twee achter elkaar gelegen assen:
 
-- 1°. indien de afstand tot de dichtstbijzijnde naastgelegen as van dat asstel minder bedraagt dan 1,30 m, 7.000 kg per as;
+  - 1°. indien de afstand tot de dichtstbijzijnde naastgelegen as van dat asstel minder bedraagt dan 1,30 m, 7.000 kg per as;
 
-- 2°. indien de afstand tot de dichtstbijzijnde naastgelegen as van dat asstel 1,30 m of meer bedraagt maar minder dan 1,80 m, 8.000 kg per as, dan wel 9.000 kg per as indien het asstel is voorzien van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering;
+  - 2°. indien de afstand tot de dichtstbijzijnde naastgelegen as van dat asstel 1,30 m of meer bedraagt maar minder dan 1,80 m, 8.000 kg per as, dan wel 9.000 kg per as indien het asstel is voorzien van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering;
 
 - e. voor aanhangwagens met één pendelas, 13.000 kg, waarbij de last onder ieder der assen niet meer mag bedragen dan 6.500 kg;
 
@@ -8403,17 +8377,17 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - g. voor aanhangwagens met twee pendelassen, waarbij de onderlinge afstand tussen de pendelassen: waarbij de last onder ieder der assen niet meer mag bedragen dan 6.500 kg;
 
-- 1°. minder bedraagt dan 1,00 m, 13.000 kg tezamen;
+  - 1°. minder bedraagt dan 1,00 m, 13.000 kg tezamen;
 
-- 2°. 1,00 m of meer bedraagt maar minder dan 1,30 m, 17.000 kg tezamen;
+  - 2°. 1,00 m of meer bedraagt maar minder dan 1,30 m, 17.000 kg tezamen;
 
-- 3°. 1,30 m of meer bedraagt maar minder dan 1,80 m, 21.000 kg tezamen;
+  - 3°. 1,30 m of meer bedraagt maar minder dan 1,80 m, 21.000 kg tezamen;
 
 - h. voor aanhangwagens, bestemd voor het vervoer van ondeelbare lading, met twee of meer pendelassen, waarbij de onderlinge afstand tussen de pendelassen: waarbij de last onder ieder der assen niet meer mag bedragen dan 8.000 kg;
 
-- 1°. minder bedraagt dan 1,00 m, 16.000 kg tezamen;
+  - 1°. minder bedraagt dan 1,00 m, 16.000 kg tezamen;
 
-- 2°. 1,00 m of meer bedraagt, 12.000 kg vermenigvuldigd met het aantal pendelassen;
+  - 2°. 1,00 m of meer bedraagt, 12.000 kg vermenigvuldigd met het aantal pendelassen;
 
 - i. voor aanhangwagens met meer dan twee pendelassen, waarbij de onderlinge afstand tussen de pendelassen 1,30 m of meer bedraagt maar minder dan 1,80 m, het aantal pendelassen vermenigvuldigd met 13.000 kg, waarbij de last onder ieder der assen niet meer mag bedragen dan 6.500 kg, mits het asstel is voorzien van gasvering of van in EU-verband als gelijkwaardig aangemerkte vering;
 
@@ -8421,9 +8395,9 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - k. De last onder de assen van aanhangwagens bestemd voor het vervoer van ondeelbare lading, mag niet meer bedragen dan 24.000 kg tezamen indien het betreft aanhangwagens met een asstel bestaande uit:
 
-- 1°. een pendelas, en
+  - 1°. een pendelas, en
 
-- 2°. een enkele as, waarbij de onderlinge afstand tussen de pendelas en de enkele as 1,00 m of meer bedraagt maar minder dan 1,30 m.
+  - 2°. een enkele as, waarbij de onderlinge afstand tussen de pendelas en de enkele as 1,00 m of meer bedraagt maar minder dan 1,30 m.
 
 ##### Artikel 5.18.17f
 
@@ -8447,61 +8421,61 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - a. indien een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg of een bus een aanhangwagen voortbeweegt voorzien van een bedrijfsremsysteem:
 
-- 1°. de opgegeven technisch toegestane maximummassa van het trekkende voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt;
+  - 1°. de opgegeven technisch toegestane maximummassa van het trekkende voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt;
 
-- 2°. in afwijking van onderdeel 1°, 1,5 maal de technisch toegestane maximummassa van een bedrijfsauto vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien de bedrijfsauto een aantekening op de kentekencard, het kentekenbewijs of in het kentekenregister ‘G’ heeft;
+  - 2°. in afwijking van onderdeel 1°, 1,5 maal de technisch toegestane maximummassa van een bedrijfsauto vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien de bedrijfsauto een aantekening op de kentekencard, het kentekenbewijs of in het kentekenregister ‘G’ heeft;
 
-- 3°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
+  - 3°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
 
-- 4°. de daarvoor ten aanzien van het remsysteem van het trekkende voertuig opgegeven technisch toegestane maximummassa;
+  - 4°. de daarvoor ten aanzien van het remsysteem van het trekkende voertuig opgegeven technisch toegestane maximummassa;
 
-- 5°. 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt,
+  - 5°. 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt,
 
 - b. indien een bedrijfsauto met een technisch toegestane maximummassa van meer dan 3.500 kg een aanhangwagen voortbeweegt voorzien van een bedrijfsremsysteem:
 
-- 1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
+  - 1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
 
-- 2°. de daarvoor ten aanzien van het remsysteem van het trekkende voertuig opgegeven technisch toegestane maximummassa;
+  - 2°. de daarvoor ten aanzien van het remsysteem van het trekkende voertuig opgegeven technisch toegestane maximummassa;
 
-- 3°. 3.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het voertuig uitsluitend bestemd is voor het trekken van aanhangwagens die zijn voorzien van een oploopreminrichting;
+  - 3°. 3.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het voertuig uitsluitend bestemd is voor het trekken van aanhangwagens die zijn voorzien van een oploopreminrichting;
 
-- 4°. de toegestane maximummassa van het samenstel van een bedrijfsauto met een aanhangwagen verminderd met de massa in rijklare toestand van het trekkende voertuig;
+  - 4°. de toegestane maximummassa van het samenstel van een bedrijfsauto met een aanhangwagen verminderd met de massa in rijklare toestand van het trekkende voertuig;
 
-- 5°. 24.000 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt in het geval van een middenasaanhangwagen of een aanhangwagen met stijve dissel met een continureminrichting,
+  - 5°. 24.000 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt in het geval van een middenasaanhangwagen of een aanhangwagen met stijve dissel met een continureminrichting,
 
 - c. indien een bedrijfsauto of bus een ongeremde aanhangwagen voortbeweegt:
 
-- 1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
+  - 1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
 
-- 2°. de helft van de massa in rijklare toestand van het trekkende voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt;
+  - 2°. de helft van de massa in rijklare toestand van het trekkende voertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt;
 
-- 3°. 750 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt,
+  - 3°. 750 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt,
 
 - d. in het geval van een dolly:
 
-- 1°. de ten aanzien van de constructiekenmerken van de dolly opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
+  - 1°. de ten aanzien van de constructiekenmerken van de dolly opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
 
-- 2°. de sterkte van de koppelingen in relatie tot de opgegeven technisch toegestane maximummassa van het trekkende motorvoertuig en de technisch toegestane maximummassa van de te trekken oplegger;
+  - 2°. de sterkte van de koppelingen in relatie tot de opgegeven technisch toegestane maximummassa van het trekkende motorvoertuig en de technisch toegestane maximummassa van de te trekken oplegger;
 
-- 3°. de daarvoor ten aanzien van het remsysteem van de dolly opgegeven technisch toegestane maximummassa;
+  - 3°. de daarvoor ten aanzien van het remsysteem van de dolly opgegeven technisch toegestane maximummassa;
 
-- 4°. het samenstel van een dolly en oplegger:
+  - 4°. het samenstel van een dolly en oplegger:
 
-- –. de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg is;
+    - –. de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg is;
 
-- –. 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg met een aantekening ‘G’ op de kentekencard, het kentekenbewijs of in het kentekenregister is of;
+    - –. 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg met een aantekening ‘G’ op de kentekencard, het kentekenbewijs of in het kentekenregister is of;
 
-- –. de toegestane maximummassa van het samenstel van een bedrijfsauto, dolly en oplegger met een aanhangwagen verminderd met de massa in rijklare toestand van het trekkende voertuig,
+    - –. de toegestane maximummassa van het samenstel van een bedrijfsauto, dolly en oplegger met een aanhangwagen verminderd met de massa in rijklare toestand van het trekkende voertuig,
 
 - e. in het geval van een aanhangwagen ingericht voor het vervoer van personen:
 
-- 1°. de ten aanzien van de constructiekenmerken van de aanhangwagen opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
+  - 1°. de ten aanzien van de constructiekenmerken van de aanhangwagen opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
 
-- 2°. de sterkte van de koppelingen in relatie tot de opgegeven technisch toegestane maximummassa van het trekkende motorvoertuig en de technisch toegestane maximummassa van de te trekken aanhangwagen;
+  - 2°. de sterkte van de koppelingen in relatie tot de opgegeven technisch toegestane maximummassa van het trekkende motorvoertuig en de technisch toegestane maximummassa van de te trekken aanhangwagen;
 
-- 3°. de daarvoor ten aanzien van het remsysteem van de aanhangwagen opgegeven technisch toegestane maximummassa;
+  - 3°. de daarvoor ten aanzien van het remsysteem van de aanhangwagen opgegeven technisch toegestane maximummassa;
 
-- 4°. de toegestane maximummassa van het samenstel van een bedrijfsauto en meer aanhangwagens ingericht voor het vervoer van personen verminderd met de massa in rijklare toestand van het trekkende voertuig.
+  - 4°. de toegestane maximummassa van het samenstel van een bedrijfsauto en meer aanhangwagens ingericht voor het vervoer van personen verminderd met de massa in rijklare toestand van het trekkende voertuig.
 
 3. Indien in het kentekenregister of op de kentekencard dan wel het kentekenbewijs van een bedrijfsauto, bus of dolly geen maximum te trekken massa aanhangwagen is vermeld, mag geen aanhangwagen worden voortbewogen.
 
@@ -8689,17 +8663,17 @@ De hoogte van landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid
 
 - a. landbouw- of bosbouwtrekkers die:
 
-- 1°. zijn voorzien van metalen rupsbanden niet meer bedragen dan 10.000 kg;
+  - 1°. zijn voorzien van metalen rupsbanden niet meer bedragen dan 10.000 kg;
 
-- 2°. twee-assig zijn niet meer bedragen dan 18.000 kg;
+  - 2°. twee-assig zijn niet meer bedragen dan 18.000 kg;
 
-- 3°. drie-assig zijn niet meer bedragen dan 24.000 kg;
+  - 3°. drie-assig zijn niet meer bedragen dan 24.000 kg;
 
 - b. motorrijtuigen met beperkte snelheid en mobiele machines die:
 
-- 1°. zijn voorzien van metalen rupsbanden niet meer bedragen dan 10.000 kg;
+  - 1°. zijn voorzien van metalen rupsbanden niet meer bedragen dan 10.000 kg;
 
-- 2°. zijn ingericht voor het uitvoeren van in hoofdzaak andere werkzaamheden dan het vervoer van goederen of personen niet meer bedragen dan 60.000 kg.
+  - 2°. zijn ingericht voor het uitvoeren van in hoofdzaak andere werkzaamheden dan het vervoer van goederen of personen niet meer bedragen dan 60.000 kg.
 
 #### A. Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen en daardoor voortbewogen aanhangwagens
 
@@ -9023,23 +8997,23 @@ Onverminderd het bepaalde in de [artikelen 5.3.1](https://wetten.overheid.nl/jci
 
 - c. aanhangwagens van de voertuigcategorie O met een toegestane maximummassa van meer dan 3.500 kg, zijn voorzien van:
 
-- 1°. een constructieplaat, waarvan de gegevens in overeenstemming zijn met het kentekenregister, en een plaat waarop zijn vermeld:
+  - 1°. een constructieplaat, waarvan de gegevens in overeenstemming zijn met het kentekenregister, en een plaat waarop zijn vermeld:
 
-- –. de naam van de fabrikant;
+    - –. de naam van de fabrikant;
 
-- –. het voertuigidentificatienummer;
+    - –. het voertuigidentificatienummer;
 
-- –. de lengte van het motorvoertuig of de aanhangwagen;
+    - –. de lengte van het motorvoertuig of de aanhangwagen;
 
-- –. de breedte van het motorvoertuig of de aanhangwagen;
+    - –. de breedte van het motorvoertuig of de aanhangwagen;
 
-- –. de afstand tussen de voorkant van het motorvoertuig en het middelpunt van de koppelinrichting ervan, en
+    - –. de afstand tussen de voorkant van het motorvoertuig en het middelpunt van de koppelinrichting ervan, en
 
-- –. de afstand tussen het middelpunt van de koppelinrichting van de aanhangwagen en de achterkant van de aanhangwagen, hetzij
+    - –. de afstand tussen het middelpunt van de koppelinrichting van de aanhangwagen en de achterkant van de aanhangwagen, hetzij
 
-- 2°. één plaat waarop de gegevens van de onder 1° bedoelde platen zijn vermeld, hetzij
+  - 2°. één plaat waarop de gegevens van de onder 1° bedoelde platen zijn vermeld, hetzij
 
-- 3°. een door de Dienst Wegverkeer afgegeven document waarin de gegevens van de onder 1° bedoelde platen zijn vermeld.
+  - 3°. een door de Dienst Wegverkeer afgegeven document waarin de gegevens van de onder 1° bedoelde platen zijn vermeld.
 
 ### Hoofdstuk 6. Wijziging in de constructie
 
@@ -9083,13 +9057,13 @@ Onverminderd het bepaalde in de [artikelen 5.3.1](https://wetten.overheid.nl/jci
 
 - h. de breedte van bedrijfsauto’s, bussen, bijzondere bromfietsen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens, indien deze meer dan 50 mm afwijkt van de in het kentekenregister geregistreerde oorspronkelijke waarde en, voor zover het een landbouw- of bosbouwtrekker, motorrijtuig met beperkte snelheid, mobiele machine, landbouw- of bosbouwaanhangwagen of verwisselbaar getrokken uitrustingsstuk betreft de afwijking, niet ontstaat door het aanbrengen van:
 
-- 1°. een samenstel van wielen die op één wielnaaf zijn gemonteerd;
+  - 1°. een samenstel van wielen die op één wielnaaf zijn gemonteerd;
 
-- 2°. bredere banden, en eventuele afscherming en markering hiervan;
+  - 2°. bredere banden, en eventuele afscherming en markering hiervan;
 
-- 3°. lading; of
+  - 3°. lading; of
 
-- 4°. verwisselbare gedragen uitrustingsstukken;
+  - 4°. verwisselbare gedragen uitrustingsstukken;
 
 - i. de massa in rijklare toestand, indien deze meer dan 20% afwijkt van de in het kentekenregister geregistreerde oorspronkelijke waarde;
 
@@ -9927,29 +9901,29 @@ De roetmeter is voorzien van een analoge of digitale aanwijsinrichting die ten m
 
 - b. de informatie van het desbetreffende voertuig:
 
-- 1°. de minimale en maximale waarde van het stationair toerental;
+  - 1°. de minimale en maximale waarde van het stationair toerental;
 
-- 2°. de minimale en maximale waarde van het afregeltoerental;
+  - 2°. de minimale en maximale waarde van het afregeltoerental;
 
-- 3°. de maximale waarde van de absorptiecoëfficiënt;
+  - 3°. de maximale waarde van de absorptiecoëfficiënt;
 
-- 4°. de minimale waarde van de motorolietemperatuur;
+  - 4°. de minimale waarde van de motorolietemperatuur;
 
 - c. de uitgangspunten:
 
-- 1°. de soort meetsonde: opgave volgens handleiding roetmeter;
+  - 1°. de soort meetsonde: opgave volgens handleiding roetmeter;
 
-- 2°. de aanduiding van de functiestand, indien dit niet de functiestand ‘controle’ of ‘piekmeting’ (of een gelijksoortige benaming) is;
+  - 2°. de aanduiding van de functiestand, indien dit niet de functiestand ‘controle’ of ‘piekmeting’ (of een gelijksoortige benaming) is;
 
 - d. de meetresultaten van de drie geldige meetcycli:
 
-- 1°. de gemiddelde waarde van het stationaire toerental, gedurende de laatste 5 seconden voor het gas geven;
+  - 1°. de gemiddelde waarde van het stationaire toerental, gedurende de laatste 5 seconden voor het gas geven;
 
-- 2°. de gemiddelde waarde van het afregeltoerental;
+  - 2°. de gemiddelde waarde van het afregeltoerental;
 
-- 3°. de piekwaarde van de absorptiecoëfficiënt;
+  - 3°. de piekwaarde van de absorptiecoëfficiënt;
 
-- 4°. de voor de aanvang van de cyclus gemeten motorolietemperatuur dan wel het teken, bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2026-01-01&g=2026-01-01).
+  - 4°. de voor de aanvang van de cyclus gemeten motorolietemperatuur dan wel het teken, bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2026-01-01&g=2026-01-01).
 
 2. Indien de meting, ongeacht de reden, vroegtijdig wordt beëindigd, moeten de tot dan gemeten gegevens met de afdrukinrichting kunnen worden vastgelegd.
 
@@ -9977,13 +9951,13 @@ De roetmeter is voorzien van een analoge of digitale aanwijsinrichting die ten m
 
 - b. automatische controle of:
 
-- 1°. alle gegevens, bedoeld in onderdeel a, zijn ingevoerd;
+  - 1°. alle gegevens, bedoeld in onderdeel a, zijn ingevoerd;
 
-- 2°. de minimum motorolietemperatuur, bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2026-01-01&g=2026-01-01), is bereikt, tenzij deze controle is uitgeschakeld;
+  - 2°. de minimum motorolietemperatuur, bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2026-01-01&g=2026-01-01), is bereikt, tenzij deze controle is uitgeschakeld;
 
-- 3°. het stationair toerental gedurende 5 seconden binnen de ingevoerde waarden ligt; en
+  - 3°. het stationair toerental gedurende 5 seconden binnen de ingevoerde waarden ligt; en
 
-- 4°. het afregeltoerental gedurende 2 seconden binnen de ingevoerde waarden ligt;
+  - 4°. het afregeltoerental gedurende 2 seconden binnen de ingevoerde waarden ligt;
 
 - c. indien de resultaten van de onder punt b uitgevoerde controle juist zijn, mag de roetmeter de testprocedure vrijgeven;
 
@@ -10131,33 +10105,33 @@ De manometer voldoet aan de volgende eisen:
 
 - c. de maximale fout, in plus en in min, van de aangewezen druk bedraagt:
 
-- 1°. in geval van een aanwijsinrichting:
+  - 1°. in geval van een aanwijsinrichting:
 
-- i. voor nieuwe manometers:
+    - i. voor nieuwe manometers:
 
-- –. bij een druk van ten hoogste 500 kPa (5 bar): 10 kPa (0,1 bar);
+      - –. bij een druk van ten hoogste 500 kPa (5 bar): 10 kPa (0,1 bar);
 
-- –. bij een druk hoger dan 500 kPa (5 bar): 2%;
+      - –. bij een druk hoger dan 500 kPa (5 bar): 2%;
 
-- ii. voor manometers die in gebruik zijn:
+    - ii. voor manometers die in gebruik zijn:
 
-- –. bij een druk van ten hoogste 500 kPa (5 bar): 12,5 kPa (0,125 bar);
+      - –. bij een druk van ten hoogste 500 kPa (5 bar): 12,5 kPa (0,125 bar);
 
-- –. bij een druk hoger dan 500 kPa (5 bar): 2,5%;
+      - –. bij een druk hoger dan 500 kPa (5 bar): 2,5%;
 
-- 2°. in geval van een registratie-inrichting:
+  - 2°. in geval van een registratie-inrichting:
 
-- i. voor nieuwe manometers:
+    - i. voor nieuwe manometers:
 
-- –. bij een druk van ten hoogste 500 kPa (5 bar): 20 kPa (0,2 bar);
+      - –. bij een druk van ten hoogste 500 kPa (5 bar): 20 kPa (0,2 bar);
 
-- –. bij een druk hoger dan 500 kPa (5 bar): 4%;
+      - –. bij een druk hoger dan 500 kPa (5 bar): 4%;
 
-- ii. voor manometers die in gebruik zijn:
+    - ii. voor manometers die in gebruik zijn:
 
-- –. bij een druk van ten hoogste 500 kPa (5 bar): 25 kPa (0,25 bar);
+      - –. bij een druk van ten hoogste 500 kPa (5 bar): 25 kPa (0,25 bar);
 
-- –. bij een druk hoger dan 500 kPa (5 bar): 5%;
+      - –. bij een druk hoger dan 500 kPa (5 bar): 5%;
 
 - d. indien gelijktijdig met de registratie van de druk door middel van dezelfde registratie-inrichting een registratie van de remvertraging of remkracht plaatsvindt, mag in de registratie van gelijktijdige veranderingen in de betrokken meetsignalen, geen tijdverschil optreden waardoor een goede beoordeling van het remsysteem van het voertuig wordt belemmerd.
 
@@ -10185,11 +10159,11 @@ De pedaalkrachtmeter voldoet aan de volgende eisen:
 
 - d. de maximale fout, in plus en in min, van de aangegeven pedaalkracht bedraagt:
 
-- 1°. bij een centrisch uitgeoefende pedaalkracht die niet groter is dan 500 N: 50 N;
+  - 1°. bij een centrisch uitgeoefende pedaalkracht die niet groter is dan 500 N: 50 N;
 
-- 2°. bij een centrisch uitgeoefende pedaalkracht die groter is dan 500 N: 10% van de uitgeoefende pedaalkracht;
+  - 2°. bij een centrisch uitgeoefende pedaalkracht die groter is dan 500 N: 10% van de uitgeoefende pedaalkracht;
 
-- 3°. bij een excentrisch uitgeoefende pedaalkracht van 200 N: 80 N;
+  - 3°. bij een excentrisch uitgeoefende pedaalkracht van 200 N: 80 N;
 
 - e. het verschil tussen de resultaten van verscheidene metingen van dezelfde pedaalkracht, verricht onder dezelfde omstandigheden en met dezelfde meter, mag niet groter zijn dan 30 N.
 
@@ -10309,25 +10283,25 @@ Een resulterende meetwaarde is representatief voor de gemeten remvertraging, ind
 
 - c. de resulterende meetwaarde wordt berekend door middeling van zes achtereen verkregen meetwaarden:
 
-- 1°. bepaal de maximale meetwaarde van de remvertraging gedurende de meetperiode (te noemen am);
+  - 1°. bepaal de maximale meetwaarde van de remvertraging gedurende de meetperiode (te noemen am);
 
-- 2°. bepaal met een interval van 0,1 seconde de vijf gemeten waarden direct vóór de maximale meetwaarde (te noemen a1, a2, a3, a4 en a5) en de vijf gemeten waarden direct na de maximale meetwaarde (te noemen a6, a7, a8, a9 en a10);
+  - 2°. bepaal met een interval van 0,1 seconde de vijf gemeten waarden direct vóór de maximale meetwaarde (te noemen a1, a2, a3, a4 en a5) en de vijf gemeten waarden direct na de maximale meetwaarde (te noemen a6, a7, a8, a9 en a10);
 
-- 3°. voer de volgende zes berekeningen uit:
+  - 3°. voer de volgende zes berekeningen uit:
 
-- i. (a1+a2+a3+a4+a5+am)/6;
+    - i. (a1+a2+a3+a4+a5+am)/6;
 
-- ii. (a2+a3+a4+a5+am+a6)/6;
+    - ii. (a2+a3+a4+a5+am+a6)/6;
 
-- iii. (a3+a4+a5+am+a6+a7)/6;
+    - iii. (a3+a4+a5+am+a6+a7)/6;
 
-- iv. (a4+a5+am+a6+a7+a8)/6;
+    - iv. (a4+a5+am+a6+a7+a8)/6;
 
-- v. (a5+am+a6+a7+a8+a9)/6;
+    - v. (a5+am+a6+a7+a8+a9)/6;
 
-- vi. (am+a6+a7+a8+a9+a10)/6;
+    - vi. (am+a6+a7+a8+a9+a10)/6;
 
-- 4°. de hoogste van de onder 3° berekende waarden geldt als de resulterende meetwaarde, waarbij uitsluitend de berekende waarden in beschouwing worden genomen die opgebouwd zijn uit meetwaarden die ten minste gelijk zijn aan 75% van de maximale meetwaarde.
+  - 4°. de hoogste van de onder 3° berekende waarden geldt als de resulterende meetwaarde, waarbij uitsluitend de berekende waarden in beschouwing worden genomen die opgebouwd zijn uit meetwaarden die ten minste gelijk zijn aan 75% van de maximale meetwaarde.
 
 - d. het grootste verschil tussen de meetwaarden, verkregen vanaf 0,5 seconde vóór de meetperiode tot 0,5 seconde na de meetperiode, maximaal 1 m/s2 bedraagt.
 
@@ -10497,19 +10471,19 @@ Op de rollenremtestbank kunnen gelijktijdig voor het linker- en rechterwiel van 
 
 - b. tijdens de remtest:
 
-- 1°. de momentele waarde van de remkracht;
+  - 1°. de momentele waarde van de remkracht;
 
-- 2°. de fluctuaties in de momentele waarde van de remkracht, relevant voor de beoordeling van het geteste remsysteem;
+  - 2°. de fluctuaties in de momentele waarde van de remkracht, relevant voor de beoordeling van het geteste remsysteem;
 
 - c. na correcte uitvoering van de remtest moeten de volgende waarden worden aangegeven:
 
-- 1°. de resulterende meetwaarde;
+  - 1°. de resulterende meetwaarde;
 
-- 2°. de waarde van het verschil in remkracht inclusief de rolweerstand aan het linker- en rechterwiel, uitgedrukt in een percentage van de hoogste remkracht. Dit verschil moet worden bepaald uit:
+  - 2°. de waarde van het verschil in remkracht inclusief de rolweerstand aan het linker- en rechterwiel, uitgedrukt in een percentage van de hoogste remkracht. Dit verschil moet worden bepaald uit:
 
-- –. de resulterende meetwaarde voor klasse I rollenremtestbanken, en
+    - –. de resulterende meetwaarde voor klasse I rollenremtestbanken, en
 
-- –. de niet-geëxtrapoleerde resulterende meetwaarde bij druk PH voor klasse II rollenremtestbanken en voor het tweede aanwijsbereik van klasse I/II rollenremtestbanken.
+    - –. de niet-geëxtrapoleerde resulterende meetwaarde bij druk PH voor klasse II rollenremtestbanken en voor het tweede aanwijsbereik van klasse I/II rollenremtestbanken.
 
 ##### Artikel 8.4.59a
 
@@ -10573,9 +10547,9 @@ Een niet-geëxtrapoleerde resulterende meetwaarde reageert als volgt op testsign
 
 - b. op de testaansluiting wordt een simulatiesignaal aangeboden met een veranderende gemiddelde en periodiek variërende waarde met een laagste frequentie overeenkomend met één rotatieperiode. De resulterende meetwaarde:
 
-- 1°. mag slechts worden gepresenteerd, indien de hoogste gemiddelde waarde van het simulatiesignaal over een rotatieperiode binnen 5% overeenkomt met de gemiddelde waarde over de voorafgaande of daarop volgende rotatieperiode, en
+  - 1°. mag slechts worden gepresenteerd, indien de hoogste gemiddelde waarde van het simulatiesignaal over een rotatieperiode binnen 5% overeenkomt met de gemiddelde waarde over de voorafgaande of daarop volgende rotatieperiode, en
 
-- 2°. komt overeen met de aanwijzing verkregen met een constant simulatiesignaal met een gemiddelde gelijk aan de hoogst gemiddelde waarde, bedoeld onder 1°, met een tolerantie van 2,5%.
+  - 2°. komt overeen met de aanwijzing verkregen met een constant simulatiesignaal met een gemiddelde gelijk aan de hoogst gemiddelde waarde, bedoeld onder 1°, met een tolerantie van 2,5%.
 
 ##### Artikel 8.4.66
 
@@ -10635,25 +10609,25 @@ Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens 
 
 - c. de ingevoerde informatie van het betreffende voertuig:
 
-- 1°. identificatie bestaande uit het kenteken of de meldcode;
+  - 1°. identificatie bestaande uit het kenteken of de meldcode;
 
-- 2°. maximummassa onderscheidenlijk de maximum af te remmen massa;
+  - 2°. maximummassa onderscheidenlijk de maximum af te remmen massa;
 
-- 3°. de maximum extrapolatiedruk PEX per as;
+  - 3°. de maximum extrapolatiedruk PEX per as;
 
-- 4°. de wettelijk vereiste remvertraging;
+  - 4°. de wettelijk vereiste remvertraging;
 
 - d. een getalsmatige of grafische weergave van de relatie tussen:
 
-- 1°. de pedaalkracht en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor hydraulische remsystemen;
+  - 1°. de pedaalkracht en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor hydraulische remsystemen;
 
-- 2°. de ingestuurde druk en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor pneumatische remsystemen; de relatie wordt minstens weergegeven door de waarden van de druk PL en PH, bedoeld in [artikel 8.4.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.67&z=2026-01-01&g=2026-01-01), gebruikt bij de remtest van het voertuig;
+  - 2°. de ingestuurde druk en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor pneumatische remsystemen; de relatie wordt minstens weergegeven door de waarden van de druk PL en PH, bedoeld in [artikel 8.4.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.67&z=2026-01-01&g=2026-01-01), gebruikt bij de remtest van het voertuig;
 
 - e. de berekende waarden:
 
-- 1°. de resulterende meetwaarde gesommeerd per as;
+  - 1°. de resulterende meetwaarde gesommeerd per as;
 
-- 2°. de berekende statische remvertraging;
+  - 2°. de berekende statische remvertraging;
 
 - f. de vermelding, bedoeld in [artikel 8.4.64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&artikel=8.4.64&z=2026-01-01&g=2026-01-01);
 
@@ -16051,11 +16025,11 @@ Een typegoedkeuring voor het alcoholslot verliest haar geldigheid, indien:
 
 - b. moet het kalibratiegas zodanig zijn vervaardigd dat het onder de volgende omgevingscondities voldoet aan de in het eerste lid gestelde eisen:
 
-- 1°. omgevingstemperaturen van 10 °C tot en met 33 °C;
+  - 1°. omgevingstemperaturen van 10 °C tot en met 33 °C;
 
-- 2°. luchtdrukken van 970 hPa tot en met 1050 hPa;
+  - 2°. luchtdrukken van 970 hPa tot en met 1050 hPa;
 
-- 3°. relatieve luchtvochtigheid van 5% tot en met 95%;
+  - 3°. relatieve luchtvochtigheid van 5% tot en met 95%;
 
 - c. moet het kalibratiegas zodanig zijn vervaardigd dat het aan de voorschriften van deze bijlage kan voldoen gedurende ten minste 100 kalibraties of gedurende ten minste 200 dagen;
 
@@ -16275,9 +16249,9 @@ De geometrische zichtbaarheid van de achterretroreflectoren, achterrichtingaanwi
 
 - a. op een horizontale lijn, loodrecht en gecentreerd ten opzichte van de lengteas van het voertuig (lijn-Z), waarvan:
 
-- 1°. het middelpunt is gelegen op een afstand van 25 m ten opzichte van het achterste punt van het voertuig;
+  - 1°. het middelpunt is gelegen op een afstand van 25 m ten opzichte van het achterste punt van het voertuig;
 
-- 2°. de lengte 13,4 m is, vermeerderd met de breedte van het voertuig in meters tot één decimaal nauwkeurig; en
+  - 2°. de lengte 13,4 m is, vermeerderd met de breedte van het voertuig in meters tot één decimaal nauwkeurig; en
 
 - b. op een hoogte tussen 1,00 m en 2,20 m boven het wegdek.
 
@@ -16305,9 +16279,9 @@ In aanvulling op punt 4.1 uit NEN-EN 50436-1, gelden de volgende eisen:
 
 - 3. Het alcoholslot waarborgt dat het motorrijtuig waarin het is ingebouwd alleen kan worden gestart indien:
 
-- a. een geldig initieel ademmonster met een alcoholgehalte lager dan de in annex 1 vastgestelde limiet wordt afgegeven én de motor van dat motorrijtuig binnen de in die annex vastgestelde startperiode wordt gestart;
+  - a. een geldig initieel ademmonster met een alcoholgehalte lager dan de in annex 1 vastgestelde limiet wordt afgegeven én de motor van dat motorrijtuig binnen de in die annex vastgestelde startperiode wordt gestart;
 
-- b. de motor van het desbetreffende motorrijtuig na het uitschakelen van de motor binnen de in annex 1 vastgestelde periode van vrije herstart wordt gestart of gebruik wordt gemaakt van de overeenkomstig artikel 4 bedoelde overbruggingsfunctie.
+  - b. de motor van het desbetreffende motorrijtuig na het uitschakelen van de motor binnen de in annex 1 vastgestelde periode van vrije herstart wordt gestart of gebruik wordt gemaakt van de overeenkomstig artikel 4 bedoelde overbruggingsfunctie.
 
 - 4. In aanvulling op het derde lid, onderdeel a, wordt, indien er sprake is van een draadloze handset, uitsluitend een ademmonster gegeven als het contact van het motorrijtuig in de accessoire stand staat. Indien het contact is uitgeschakeld, is het afgeven van een ademmonster onmogelijk.
 
@@ -16437,15 +16411,15 @@ In aanvulling op punt 5 van NEN-EN 50436-1, gelden de volgende eisen:
 
 - 1. De volgende gegevens van het alcoholslot zijn duidelijk leesbaar aangebracht op een constructieplaat op de vaste eenheid:
 
-- a. fabrikant;
+  - a. fabrikant;
 
-- b. merk;
+  - b. merk;
 
-- c. type;
+  - c. type;
 
-- d. serienummer van het desbetreffende onderdeel;
+  - d. serienummer van het desbetreffende onderdeel;
 
-- e. typegoedkeuringsnummer van het type alcoholslot, zoals dat overeenkomstig de in annex 3 opgenomen eisen is samengesteld.
+  - e. typegoedkeuringsnummer van het type alcoholslot, zoals dat overeenkomstig de in annex 3 opgenomen eisen is samengesteld.
 
 - 2. De in onderdeel 1, onder d en e, bedoelde gegevens, zijn in barcode leesbaar. De barcode is samengesteld met inachtneming van de in annex 3 opgenomen eisen.
 
@@ -16525,19 +16499,19 @@ In aanvulling op punt 8.4.2 van NEN-EN 50436-1, worden met losse handsets de vol
 
 - 1. niet eerder dan één uur nadat de behuizing van het alcoholslot de laagste omgevingstemperatuur heeft bereikt die door de fabrikant is gespecificeerd, zoals overeenkomstig punt 5 van NEN-EN 50436-1 aangegeven op het etiket van het alcoholslot, waarbij de omgevingstemperatuur echter niet hoger is dan –5 °C, met: wordt het alcoholslot onder deze omstandigheden beproefd en voldoet het aan de eisen van functionele beproeving type 2 van 7.5, bij gebruik van natte testgassen;
 
-- a. voor een nominale bedrijfsspanning van 12V: een voedingsspanning van 9V;
+  - a. voor een nominale bedrijfsspanning van 12V: een voedingsspanning van 9V;
 
-- b. voor een nominale bedrijfsspanning van 24V: een voedingsspanning van 16V;
+  - b. voor een nominale bedrijfsspanning van 24V: een voedingsspanning van 16V;
 
-- c. voor geïntegreerde accu’s: een voedingsspanning van 0,1V boven de spanning waarbij een lage accuspanning wordt aangegeven en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu’s volgens de accuspecificatie,
+  - c. voor geïntegreerde accu’s: een voedingsspanning van 0,1V boven de spanning waarbij een lage accuspanning wordt aangegeven en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu’s volgens de accuspecificatie,
 
 - 2. niet eerder dan één uur nadat de behuizing van het alcoholslot een omgevingstemperatuur van 65 °C, heeft bereikt met wordt het alcoholslot onder deze omstandigheden beproefd en voldoet het aan de eisen van functionele beproeving type 2 van 7.5, bij gebruik van natte testgassen;
 
-- a. voor een nominale bedrijfsspanning van 12V: een voedingsspanning van 16V;
+  - a. voor een nominale bedrijfsspanning van 12V: een voedingsspanning van 16V;
 
-- b. voor een nominale bedrijfsspanning van 24V: een voedingsspanning van 32V;
+  - b. voor een nominale bedrijfsspanning van 24V: een voedingsspanning van 32V;
 
-- c. voor geïntegreerde accu’s: een voedingsspanning van 125% van de nominale accuspanning en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu’s volgens de accuspecificatie,
+  - c. voor geïntegreerde accu’s: een voedingsspanning van 125% van de nominale accuspanning en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu’s volgens de accuspecificatie,
 
 - 3. bij een temperatuur van 5 °C onder de laagste omgevingstemperatuur die door de fabrikant is gespecificeerd zoals overeenkomstig punt 5 van NEN-EN 50436-1 aangegeven op het etiket van het alcoholslot, mag het slot niet gereed zijn voor het afnemen van een ademmonster.
 
@@ -16549,19 +16523,19 @@ In afwijking van punt 8.4.4. van NEN-EN 50436-1, worden met losse handsets de vo
 
 - 2. niet eerder dan één uur nadat de behuizing van het alcoholslot nadat het alcoholslot in de stand van beperkt energieverbruik in een omgeving met een temperatuur van –5 °C is gebracht, met is het alcoholslot binnen 90 seconden na inschakeling gereed om een ademmonster af te nemen en voldoet het in deze omgevingsomstandigheden aan de eisen van functionele beproeving type 2 van 7.5 van NEN-EN 50436-1, bij gebruik van natte testgassen;
 
-- a. voor een nominale bedrijfsspanning van 12 V: een voedingsspanning van 9 V;
+  - a. voor een nominale bedrijfsspanning van 12 V: een voedingsspanning van 9 V;
 
-- b. voor een nominale bedrijfsspanning van 24 V: een voedingsspanning van 16 V;
+  - b. voor een nominale bedrijfsspanning van 24 V: een voedingsspanning van 16 V;
 
-- c. voor geïntegreerde accu’s: een voedingsspanning van 0,1 V boven de spanning waarbij een lage accuspanning wordt aangegeven en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu’s volgens de accuspecificatie,
+  - c. voor geïntegreerde accu’s: een voedingsspanning van 0,1 V boven de spanning waarbij een lage accuspanning wordt aangegeven en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu’s volgens de accuspecificatie,
 
 - 3. indien een alcoholslot is gespecificeerd voor een omgevingstemperatuur van –20 °C en niet eerder dan één uur nadat de behuizing van het alcoholslot in een omgeving met een temperatuur van –20 °C is gebracht, in de stand van beperkt energieverbruik, met : is het alcoholslot binnen drie minuten na inschakeling gereed om een ademmonster af te nemen en voldoet het in deze omgevingsomstandigheden aan de eisen van functionele beproeving type 2 van 7.5 NEN-EN 50436-1, bij gebruik van natte testgassen.
 
-- a. voor een nominale bedrijfsspanning van 12 V: een voedingsspanning van 9 V;
+  - a. voor een nominale bedrijfsspanning van 12 V: een voedingsspanning van 9 V;
 
-- b. voor een nominale bedrijfsspanning van 24 V: een voedingsspanning van 16 V;
+  - b. voor een nominale bedrijfsspanning van 24 V: een voedingsspanning van 16 V;
 
-- c. voor geïntegreerde accu’s: een voedingsspanning van 0,1 V boven de spanning waarbij een lage accuspanning wordt aangegeven en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu volgens de accuspecificatie,
+  - c. voor geïntegreerde accu’s: een voedingsspanning van 0,1 V boven de spanning waarbij een lage accuspanning wordt aangegeven en een stroomsterkte die is beperkt tot de dienovereenkomstige meest ongunstige omstandigheden voor de accu volgens de accuspecificatie,
 
 ### Artikel 5. **Duurbeproeving in verticale richting van het voertuig**
 
@@ -16571,13 +16545,13 @@ In aanvulling op punt 8.8. van NEN-EN 50436-1, gelden de volgende eisen:
 
 - 1. het alcoholslot deblokkeert het startmechanisme niet als:
 
-- a. driemaal een ademmonster in het alcoholslot wordt geblazen door een mondstuk met een verstopte luchtuitlaat;
+  - a. driemaal een ademmonster in het alcoholslot wordt geblazen door een mondstuk met een verstopte luchtuitlaat;
 
-- b. driemaal een ademmonster in het alcoholslot wordt geblazen door een mondstuk respectievelijk rechtstreeks in het alcoholslot zonder dat daarbij gebruik is gemaakt van het mondstuk totdat de minimale gasstroom is bereikt, waarna in omgekeerde richting wordt gezogen;
+  - b. driemaal een ademmonster in het alcoholslot wordt geblazen door een mondstuk respectievelijk rechtstreeks in het alcoholslot zonder dat daarbij gebruik is gemaakt van het mondstuk totdat de minimale gasstroom is bereikt, waarna in omgekeerde richting wordt gezogen;
 
-- c. driemaal een ademmonster in het alcoholslot wordt geblazen door via het mondstuk respectievelijk rechtstreeks in het alcoholslot zonder dat daarbij gebruik is gemaakt vanmondstuk, lucht wordt aangezogen;
+  - c. driemaal een ademmonster in het alcoholslot wordt geblazen door via het mondstuk respectievelijk rechtstreeks in het alcoholslot zonder dat daarbij gebruik is gemaakt vanmondstuk, lucht wordt aangezogen;
 
-- d. indien dit mogelijk is, driemaal een ademmonster in het alcoholslot wordt geblazen door via de ademuitgang van het mondstuk respectievelijk het alcoholslot zonder dat daarbij gebruik is gemaakt vanmondstuk, lucht wordt aangezogen.
+  - d. indien dit mogelijk is, driemaal een ademmonster in het alcoholslot wordt geblazen door via de ademuitgang van het mondstuk respectievelijk het alcoholslot zonder dat daarbij gebruik is gemaakt vanmondstuk, lucht wordt aangezogen.
 
 ### Artikel 3. **Duurbeproeving in langsrichting van het voertuig**
 
@@ -19764,9 +19738,9 @@ Onverminderd de toepassing van bijlage II bij verordening (EU) 2018/858, worden,
 
 - a. aan de voor de desbetreffende voertuigclassificatie van categorie L vastgestelde goedkeuringseisen van bijlage II en V tot en met VIII bij verordening (EU) 168/2013 met uitzondering van de eisen opgenomen in:
 
-- 1°. de bijlagen V en XI bij verordening (EU) 3/2014; en
+  - 1°. de bijlagen V en XI bij verordening (EU) 3/2014; en
 
-- 2°. de bijlagen III, IV, XII, XV en XVII bij verordening (EU) 44/2014;
+  - 2°. de bijlagen III, IV, XII, XV en XVII bij verordening (EU) 44/2014;
 
 - b. aan de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de desbetreffende voertuigcategorie vastgestelde permanente eisen.
 
@@ -19802,9 +19776,9 @@ Onverminderd de toepassing van bijlage II bij verordening (EU) 2018/858, worden,
 
 - a. aan de voor de desbetreffende categorie vastgestelde goedkeuringseisen in bijlage I bij verordening (EU) 167/2013, met uitzondering van de eisen opgenomen in:
 
-- 1°. bijlagen III tot en met XI, XIII, XV, XVI, XVII, XX, XXII, XXV en XXIX bij verordening (EU) 1322/2014; en
+  - 1°. bijlagen III tot en met XI, XIII, XV, XVI, XVII, XX, XXII, XXV en XXIX bij verordening (EU) 1322/2014; en
 
-- 2°. bijlagen X, XVIII, XXI en XXIII bij verordening (EU) 2015/208; en
+  - 2°. bijlagen X, XVIII, XXI en XXIII bij verordening (EU) 2015/208; en
 
 - b. aan de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de desbetreffende voertuigcategorie vastgestelde permanente eisen.
 
@@ -19812,9 +19786,9 @@ Onverminderd de toepassing van bijlage II bij verordening (EU) 2018/858, worden,
 
 - a. aan de voor de desbetreffende categorie vastgestelde goedkeuringseisen in bijlage I bij verordening (EU) 167/2013, met uitzondering van de eisen opgenomen in:
 
-- 1°. bijlagen XXII, XXV, XXVI en XXIX bij verordening (EU) 1322/2014; en
+  - 1°. bijlagen XXII, XXV, XXVI en XXIX bij verordening (EU) 1322/2014; en
 
-- 2°. bijlage XVIII, XXI en XXII bij verordening (EU) 2015/208; en
+  - 2°. bijlage XVIII, XXI en XXII bij verordening (EU) 2015/208; en
 
 - b. aan de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de desbetreffende voertuigcategorie vastgestelde permanente eisen.
 
@@ -20816,47 +20790,47 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - a. de voor de overeenkomstige voertuigcategorie M respectievelijk N vastgestelde eisen in bijlage II, deel I, van verordening (EU) 2018/858 omtrent:
 
-- 1°. veiligheidsruiten;
+  - 1°. veiligheidsruiten;
 
-- 2°. voorzieningen voor indirect zicht;
+  - 2°. voorzieningen voor indirect zicht;
 
-- 3°. stuurinrichting;
+  - 3°. stuurinrichting;
 
-- 4°. elektromagnetische compatibiliteit;
+  - 4°. elektromagnetische compatibiliteit;
 
-- 5°. snelheidsmeter;
+  - 5°. snelheidsmeter;
 
-- 6°. kilometerteller;
+  - 6°. kilometerteller;
 
-- 7°. snelheidsbegrenzers;
+  - 7°. snelheidsbegrenzers;
 
-- 8°. installatie van lichtsignaal-, wegverlichtings- en retroflecterende inrichtingen;
+  - 8°. installatie van lichtsignaal-, wegverlichtings- en retroflecterende inrichtingen;
 
-- 9°. voorgeschreven plaat en voertuigidentificatienummer;
+  - 9°. voorgeschreven plaat en voertuigidentificatienummer;
 
-- 10°. geluidsniveau;
+  - 10°. geluidsniveau;
 
-- 11°. emissie van verontreinigende stoffen;
+  - 11°. emissie van verontreinigende stoffen;
 
-- 12°. veiligheid van vloeibaar petroleumgas;
+  - 12°. veiligheid van vloeibaar petroleumgas;
 
-- 13°. veiligheid van gecomprimeerd en vloeibaar aardgas;
+  - 13°. veiligheid van gecomprimeerd en vloeibaar aardgas;
 
-- 14°. veiligheid van waterstof;
+  - 14°. veiligheid van waterstof;
 
-- 15°. elektrische veiligheid tijdens gebruik;
+  - 15°. elektrische veiligheid tijdens gebruik;
 
-- 16°. montage van banden en bandenveiligheid;
+  - 16°. montage van banden en bandenveiligheid;
 
-- 17°. remsysteem, met uitzondering van de eisen omtrent ABS;
+  - 17°. remsysteem, met uitzondering van de eisen omtrent ABS;
 
-- 18°. ruimte voor de kentekenplaat;
+  - 18°. ruimte voor de kentekenplaat;
 
-- 19°. achteruitrijbeweging;
+  - 19°. achteruitrijbeweging;
 
-- 20°. mechanische koppelingen; en
+  - 20°. mechanische koppelingen; en
 
-- 21°. ontvlambaarheid in bussen;
+  - 21°. ontvlambaarheid in bussen;
 
 - b. de voor de voertuigcategorie T vastgestelde en op de voertuigcategorieën M en N toe te passen eisen in bijlage I van [verordening (EU) 167/2013](32013R0167) omtrent voorwaarts zicht en zitplaatsen voor meerijders; en
 
@@ -20868,27 +20842,27 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - b. niet voorzien van:
 
-- 1°. staanplaatsen;
+  - 1°. staanplaatsen;
 
-- 2°. meerdere passagiersdekken; of
+  - 2°. meerdere passagiersdekken; of
 
-- 3°. meer dan 25 zitplaatsen; en
+  - 3°. meer dan 25 zitplaatsen; en
 
 - c. voorzien van:
 
-- 1°. een vloer waarvan de hoogte niet hoger ligt dan 75 cm boven het wegdek;
+  - 1°. een vloer waarvan de hoogte niet hoger ligt dan 75 cm boven het wegdek;
 
-- 2°. een communicatie-inrichting om te kunnen communiceren met de bestuurder indien het een gesloten ruimte betreft;
+  - 2°. een communicatie-inrichting om te kunnen communiceren met de bestuurder indien het een gesloten ruimte betreft;
 
-- 3°. een plaat of duidelijk opschrift hoeveel personen vervoerd mogen worden;
+  - 3°. een plaat of duidelijk opschrift hoeveel personen vervoerd mogen worden;
 
-- 4°. minimaal één zijmarkeringslicht;
+  - 4°. minimaal één zijmarkeringslicht;
 
-- 5°. een nooduitgang, aan een andere zijde dan de passagiersuitgangen, met een minimale afmeting van 1.200 mm bij 550 mm;
+  - 5°. een nooduitgang, aan een andere zijde dan de passagiersuitgangen, met een minimale afmeting van 1.200 mm bij 550 mm;
 
-- 6°. een deur, ketting, of band op alle zitplaatstoegangen die de passagiersruimte afbakenen;
+  - 6°. een deur, ketting, of band op alle zitplaatstoegangen die de passagiersruimte afbakenen;
 
-- 7°. een technische toegestane maximummassa die minimaal de rijklare massa vermeerderd met het aantal passagiersplaatsen maal 75 kg bedraagt.
+  - 7°. een technische toegestane maximummassa die minimaal de rijklare massa vermeerderd met het aantal passagiersplaatsen maal 75 kg bedraagt.
 
 3. In afwijking van het eerste lid, onderdeel a, kan de Dienst Wegverkeer vrijstelling verlenen van de daarin bedoelde goedkeuringseisen en een nationale individuele goedkeuring verlenen voor zover wordt voldaan aan de in verband daarmee door de Dienst Wegverkeer vastgestelde alternatieve voorschriften.
 
@@ -20900,45 +20874,45 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - a. de voor de overeenkomstige voertuigcategorie vastgestelde goedkeuringseisen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2026-01-01&g=2026-01-01), zoals deze bijlage luidde op 31 augustus 2020 omtrent:
 
-- 1°. veiligheidsruiten;
+  - 1°. veiligheidsruiten;
 
-- 2°. voorzieningen voor indirect zicht;
+  - 2°. voorzieningen voor indirect zicht;
 
-- 3°. stuurinrichting;
+  - 3°. stuurinrichting;
 
-- 4°. elektromagnetische compatibiliteit;
+  - 4°. elektromagnetische compatibiliteit;
 
-- 5°. snelheidsmeter;
+  - 5°. snelheidsmeter;
 
-- 6°. snelheidsbegrenzers;
+  - 6°. snelheidsbegrenzers;
 
-- 7°. installatie van lichtsignaal-, wegverlichtings- en retroflecterende inrichtingen;
+  - 7°. installatie van lichtsignaal-, wegverlichtings- en retroflecterende inrichtingen;
 
-- 8°. voorgeschreven plaat en voertuigidentificatienummer;
+  - 8°. voorgeschreven plaat en voertuigidentificatienummer;
 
-- 9°. geluidsniveau;
+  - 9°. geluidsniveau;
 
-- 10°. emissie van verontreinigende stoffen;
+  - 10°. emissie van verontreinigende stoffen;
 
-- 11°. veiligheid van vloeibaar petroleumgas;
+  - 11°. veiligheid van vloeibaar petroleumgas;
 
-- 12°. veiligheid van gecomprimeerd en vloeibaar aardgas;
+  - 12°. veiligheid van gecomprimeerd en vloeibaar aardgas;
 
-- 13°. veiligheid van waterstof;
+  - 13°. veiligheid van waterstof;
 
-- 14°. elektrische veiligheid tijdens gebruik;
+  - 14°. elektrische veiligheid tijdens gebruik;
 
-- 15°. montage van banden en bandenveiligheid;
+  - 15°. montage van banden en bandenveiligheid;
 
-- 16°. remsysteem, met uitzondering van de eisen omtrent ABS;
+  - 16°. remsysteem, met uitzondering van de eisen omtrent ABS;
 
-- 17°. ruimte voor de kentekenplaat;
+  - 17°. ruimte voor de kentekenplaat;
 
-- 18°. achteruitrijbeweging;
+  - 18°. achteruitrijbeweging;
 
-- 19°. mechanische koppelingen; en
+  - 19°. mechanische koppelingen; en
 
-- 20°. ontvlambaarheid in bussen; en
+  - 20°. ontvlambaarheid in bussen; en
 
 - b. de voor de voertuigcategorie T vastgestelde en op de voertuigcategorieën M en N toe te passen eisen in bijlage I van [verordening (EU) 167/2013](32013R0167) omtrent voorwaarts zicht en zitplaatsen voor meerijders; en
 
@@ -20950,27 +20924,27 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - b. niet voorzien van:
 
-- 1°. staanplaatsen;
+  - 1°. staanplaatsen;
 
-- 2°. meerdere passagiersdekken; of
+  - 2°. meerdere passagiersdekken; of
 
-- 3°. meer dan 25 zitplaatsen; en
+  - 3°. meer dan 25 zitplaatsen; en
 
 - c. voorzien van:
 
-- 1°. een vloer waarvan de hoogte niet hoger ligt dan 75 cm boven het wegdek;
+  - 1°. een vloer waarvan de hoogte niet hoger ligt dan 75 cm boven het wegdek;
 
-- 2°. een communicatie-inrichting om te kunnen communiceren met de bestuurder indien het een gesloten ruimte betreft;
+  - 2°. een communicatie-inrichting om te kunnen communiceren met de bestuurder indien het een gesloten ruimte betreft;
 
-- 3°. een plaat of duidelijk opschrift hoeveel personen vervoerd mogen worden;
+  - 3°. een plaat of duidelijk opschrift hoeveel personen vervoerd mogen worden;
 
-- 4°. minimaal één zijmarkeringslicht;
+  - 4°. minimaal één zijmarkeringslicht;
 
-- 5°. een nooduitgang, aan een andere zijde dan de passagiersuitgangen, met een minimale afmeting van 1.200 mm bij 550 mm;
+  - 5°. een nooduitgang, aan een andere zijde dan de passagiersuitgangen, met een minimale afmeting van 1.200 mm bij 550 mm;
 
-- 6°. een deur, ketting, of band op alle zitplaatstoegangen die de passagiersruimte afbakenen;
+  - 6°. een deur, ketting, of band op alle zitplaatstoegangen die de passagiersruimte afbakenen;
 
-- 7°. een technische toegestane maximummassa die minimaal de rijklare massa vermeerderd met het aantal passagierszitplaatsen maal 75 kg bedraagt.
+  - 7°. een technische toegestane maximummassa die minimaal de rijklare massa vermeerderd met het aantal passagierszitplaatsen maal 75 kg bedraagt.
 
 3. In afwijking van het eerste lid, onderdeel a, kan de Dienst Wegverkeer vrijstelling verlenen van de daarin bedoelde goedkeuringseisen en een nationale individuele goedkeuring verlenen voor zover wordt voldaan aan de in verband daarmee door de Dienst Wegverkeer vastgestelde alternatieve voorschriften.
 
@@ -20994,27 +20968,27 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - a. de eisen in:
 
-- 1°. [richtlijn 2006/42/EG](32006L0042);
+  - 1°. [richtlijn 2006/42/EG](32006L0042);
 
-- 2°. verordening (EU) 2016/1628;
+  - 2°. verordening (EU) 2016/1628;
 
-- 3°. bijlage XX bij verordening (EU) 2015/208;
+  - 3°. bijlage XX bij verordening (EU) 2015/208;
 
-- 4°. VN/ECE-reglement nr. 67 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen voor het gebruik van vloeibaar petroleumgas;
+  - 4°. VN/ECE-reglement nr. 67 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen voor het gebruik van vloeibaar petroleumgas;
 
-- 5°. VN/ECE-reglement nr. 100 inzake uniforme voorschriften voor de goedkeuring van voertuigen wat de specifieke voorschriften voor de elektrische aandrijflijn betreft;
+  - 5°. VN/ECE-reglement nr. 100 inzake uniforme voorschriften voor de goedkeuring van voertuigen wat de specifieke voorschriften voor de elektrische aandrijflijn betreft;
 
-- 6°. VN/ECE-reglement nr. 110 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen voor het gebruik van gecomprimeerd aardgas en/of vloeibaar aardgas;
+  - 6°. VN/ECE-reglement nr. 110 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen voor het gebruik van gecomprimeerd aardgas en/of vloeibaar aardgas;
 
-- 7°. VN/ECE-reglement nr. 115 inzake uniforme bepalingen voor de goedkeuring van specifieke retrofitsystemen voor installatie in motorvoertuigen met het oog op het gebruik van LPG of CNG als brandstof, ten aanzien van de voorschriften voor de bevestiging van LPG- en CNG-tanks;
+  - 7°. VN/ECE-reglement nr. 115 inzake uniforme bepalingen voor de goedkeuring van specifieke retrofitsystemen voor installatie in motorvoertuigen met het oog op het gebruik van LPG of CNG als brandstof, ten aanzien van de voorschriften voor de bevestiging van LPG- en CNG-tanks;
 
-- 8°. bijlage VII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent het gezichtsveld;
+  - 8°. bijlage VII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent het gezichtsveld;
 
-- 9°. [Verordening (EG) 79/2009](32009R0079) zoals deze verordening luidde op 5 juli 2022;
+  - 9°. [Verordening (EG) 79/2009](32009R0079) zoals deze verordening luidde op 5 juli 2022;
 
-- 10°. [Verordening (EU) 406/2010](32010R0406) zoals deze verordening luidde op 5 juli 2022;
+  - 10°. [Verordening (EU) 406/2010](32010R0406) zoals deze verordening luidde op 5 juli 2022;
 
-- 11°. bijlage XII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent signalisatieborden en signalisatiefolies; en
+  - 11°. bijlage XII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent signalisatieborden en signalisatiefolies; en
 
 - b. de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de desbetreffende voertuigcategorie vastgestelde permanente eisen.
 
@@ -21030,11 +21004,11 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - b. indien de breedte meer dan 3,00 m bedraagt:
 
-- 1°. de maximumconstructiesnelheid niet hoger is dan 40 km/h;
+  - 1°. de maximumconstructiesnelheid niet hoger is dan 40 km/h;
 
-- 2°. de buitenspiegels en cameramonitoringsystemen inclusief hun armen omklapbaar zijn; en
+  - 2°. de buitenspiegels en cameramonitoringsystemen inclusief hun armen omklapbaar zijn; en
 
-- 3°. een markering van de breedte aan de voor- en achterzijde van de mobiele machine aanwezig is die voldoet aan artikel 132 van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2026-01-01&g=2026-01-01) bij deze regeling;
+  - 3°. een markering van de breedte aan de voor- en achterzijde van de mobiele machine aanwezig is die voldoet aan artikel 132 van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2026-01-01&g=2026-01-01) bij deze regeling;
 
 - c. indien de massa onder een niet-geveerde aangedreven as meer is dan 12.000 kg, de maximumconstructiesnelheid niet hoger is dan 40 km/h.
 
@@ -21046,27 +21020,27 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - a. de eisen in:
 
-- 1°. [richtlijn 2006/42/EG](32006L0042);
+  - 1°. [richtlijn 2006/42/EG](32006L0042);
 
-- 2°. verordening (EU) 2016/1628;
+  - 2°. verordening (EU) 2016/1628;
 
-- 3°. bijlage XX bij verordening (EU) 2015/208;
+  - 3°. bijlage XX bij verordening (EU) 2015/208;
 
-- 4°. VN/ECE-reglement nr. 67 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen voor het gebruik van vloeibaar petroleumgas;
+  - 4°. VN/ECE-reglement nr. 67 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen voor het gebruik van vloeibaar petroleumgas;
 
-- 5°. VN/ECE-reglement nr. 100 inzake uniforme voorschriften voor de goedkeuring van voertuigen wat de specifieke voorschriften voor de elektrische aandrijflijn betreft;
+  - 5°. VN/ECE-reglement nr. 100 inzake uniforme voorschriften voor de goedkeuring van voertuigen wat de specifieke voorschriften voor de elektrische aandrijflijn betreft;
 
-- 6°. VN/ECE-reglement nr. 110 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (CNG) en/of vloeibaar aardgas (LNG) als brandstof;
+  - 6°. VN/ECE-reglement nr. 110 inzake uniforme voorschriften voor de goedkeuring van specifieke voorzieningen en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (CNG) en/of vloeibaar aardgas (LNG) als brandstof;
 
-- 7°. VN/ECE-reglement nr. 115 inzake uniforme bepalingen voor de goedkeuring van specifieke retrofitsystemen voor installatie in motorvoertuigen met het oog op het gebruik van LPG of CNG als brandstof, ten aanzien van de voorschriften voor de bevestiging van LPG- en CNG-tanks;
+  - 7°. VN/ECE-reglement nr. 115 inzake uniforme bepalingen voor de goedkeuring van specifieke retrofitsystemen voor installatie in motorvoertuigen met het oog op het gebruik van LPG of CNG als brandstof, ten aanzien van de voorschriften voor de bevestiging van LPG- en CNG-tanks;
 
-- 8°. bijlage VII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent het gezichtsveld;
+  - 8°. bijlage VII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent het gezichtsveld;
 
-- 9°. [Verordening (EG) 79/2009](32009R0079) zoals deze verordening luidde op 5 juli 2022;
+  - 9°. [Verordening (EG) 79/2009](32009R0079) zoals deze verordening luidde op 5 juli 2022;
 
-- 10°. [Verordening (EU) 406/2010](32010R0406) zoals deze verordening luidde op 5 juli 2022; en
+  - 10°. [Verordening (EU) 406/2010](32010R0406) zoals deze verordening luidde op 5 juli 2022; en
 
-- 11°. bijlage XII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent signalisatieborden en signalisatiefolies; en
+  - 11°. bijlage XII bij [verordening (EU) 2015/208](32015R0208), ten aanzien van het gestelde omtrent signalisatieborden en signalisatiefolies; en
 
 - b. de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de desbetreffende voertuigcategorie vastgestelde permanente eisen.
 
@@ -21084,11 +21058,11 @@ Deze regeling berust mede op de [artikelen 20f, tweede lid](https://wetten.overh
 
 - b. indien de breedte meer dan 3,00 m bedraagt:
 
-- 1°. de maximumconstructiesnelheid niet hoger is dan 40 km/h;
+  - 1°. de maximumconstructiesnelheid niet hoger is dan 40 km/h;
 
-- 2°. de buitenspiegels en cameramonitoringsystemen inclusief hun armen omklapbaar zijn; en
+  - 2°. de buitenspiegels en cameramonitoringsystemen inclusief hun armen omklapbaar zijn; en
 
-- 3°. een markering van de breedte aan de voor- en achterzijde van de mobiele machine aanwezig is die voldoet aan artikel 132 van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2026-01-01&g=2026-01-01) bij deze regeling;
+  - 3°. een markering van de breedte aan de voor- en achterzijde van de mobiele machine aanwezig is die voldoet aan artikel 132 van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2026-01-01&g=2026-01-01) bij deze regeling;
 
 - c. indien de massa onder een niet-geveerde aangedreven as meer is dan 12.000 kg, de maximumconstructiesnelheid niet hoger is dan 40 km/h.
 
@@ -21847,11 +21821,11 @@ Met mobiele machines, al dan niet voorzien van een aanhangwagen, mag geen lading
 
 - d. indien een landbouw- of bosbouwtrekker, motorrijtuig met beperkte snelheid, mobiele machine, landbouw- of bosbouwaanhangwagen of verwisselbaar getrokken uitrustingsstuk een ongeremde aanhangwagen voortbeweegt:
 
-- 1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
+  - 1°. de ten aanzien van de constructiekenmerken van het trekkende voertuig opgegeven technisch toegestane maximum te trekken massa van een aanhangwagen en de sterkte van de koppeling;
 
-- 2°. 1.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien het een landbouw- of bosbouwaanhangwagen betreft;
+  - 2°. 1.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien het een landbouw- of bosbouwaanhangwagen betreft;
 
-- 3°. 3.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien het een verwisselbaar getrokken uitrustingsstuk betreft.
+  - 3°. 3.500 kg, vermeerderd met de technisch toegestane maximummassa op het koppelpunt, indien het een verwisselbaar getrokken uitrustingsstuk betreft.
 
 3. Indien in het kentekenregister dan wel op het kentekenbewijs van een landbouw- of bosbouwtrekker, mobiele machine, landbouw- of bosbouwaanhangwagen of verwisselbaar getrokken uitrustingsstuk met een datum van eerste toelating na 30 juni 2021 geen technisch toegestane maximum te trekken massa aanhangwagen is vermeld, mag geen aanhangwagen worden voortbewogen.
 
@@ -21863,23 +21837,23 @@ Met mobiele machines, al dan niet voorzien van een aanhangwagen, mag geen lading
 
 - a. een koppelingskogel met een nominale diameter van:
 
-- 1°. 50 mm, niet meer bedragen dan 150 kg;
+  - 1°. 50 mm, niet meer bedragen dan 150 kg;
 
-- 2°. 80 mm, niet meer bedragen dan 4.000 kg;
+  - 2°. 80 mm, niet meer bedragen dan 4.000 kg;
 
-- 3°. 110 mm, niet meer bedragen dan de technisch toegestane maximummassa van het voertuig verminderd met de massa in rijklare toestand;
+  - 3°. 110 mm, niet meer bedragen dan de technisch toegestane maximummassa van het voertuig verminderd met de massa in rijklare toestand;
 
-- 4°. 150 mm, niet meer bedragen dan de technisch toegestane maximummassa van het voertuig verminderd met de massa in rijklare toestand;
+  - 4°. 150 mm, niet meer bedragen dan de technisch toegestane maximummassa van het voertuig verminderd met de massa in rijklare toestand;
 
 - b. een vangmuilkoppeling, niet meer bedragen dan 2.000 kg;
 
 - c. een penkoppeling met een nominale pendiameter van:
 
-- 1°. 30 mm, niet meer bedragen dan 2.000 kg;
+  - 1°. 30 mm, niet meer bedragen dan 2.000 kg;
 
-- 2°. 30,6 mm, niet meer bedragen dan 2.000 kg;
+  - 2°. 30,6 mm, niet meer bedragen dan 2.000 kg;
 
-- 3°. 44,5 mm, niet meer bedragen dan 3.000 kg;
+  - 3°. 44,5 mm, niet meer bedragen dan 3.000 kg;
 
 - d. een trekhaak (Hitchhaak) conform ISO 6489-1:2001, niet meer bedragen dan 3.000 kg;
 
@@ -22535,33 +22509,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. de eisen in:
 
-- 1°. VN/ECE-reglement nr. 3;
+  - 1°. VN/ECE-reglement nr. 3;
 
-- 2°. VN/ECE-reglement nr. 10;
+  - 2°. VN/ECE-reglement nr. 10;
 
-- 3°. VN/ECE-reglement nr. 14;
+  - 3°. VN/ECE-reglement nr. 14;
 
-- 4°. VN/ECE-reglement nr. 16 of VN/ECE-reglement nr. 44;
+  - 4°. VN/ECE-reglement nr. 16 of VN/ECE-reglement nr. 44;
 
-- 5°. VN/ECE-reglement nr. 50 of VN/ECE-reglement nr. 56 en VN/ECE-reglement nr. 74;
+  - 5°. VN/ECE-reglement nr. 50 of VN/ECE-reglement nr. 56 en VN/ECE-reglement nr. 74;
 
-- 6°. VN/ECE-reglement nr. 60;
+  - 6°. VN/ECE-reglement nr. 60;
 
-- 7°. VN/ECE-reglement nr. 75;
+  - 7°. VN/ECE-reglement nr. 75;
 
-- 8°. VN/ECE-reglement nr. 78;
+  - 8°. VN/ECE-reglement nr. 78;
 
-- 9°. VN/ECE-reglement nr. 81;
+  - 9°. VN/ECE-reglement nr. 81;
 
-- 10°. VN/ECE-reglement nr. 136;
+  - 10°. VN/ECE-reglement nr. 136;
 
-- 11°. [verordening (EU) 3/2014](32014R0003), bijlage II, IV, VII tot en met IX, XII, deel I, XIII tot en met XV, punt 1.1, XVIII en XIX;
+  - 11°. [verordening (EU) 3/2014](32014R0003), bijlage II, IV, VII tot en met IX, XII, deel I, XIII tot en met XV, punt 1.1, XVIII en XIX;
 
-- 12°. [verordening (EU) 44/2014](32014R0044), bijlage II, VI, VIII, X, XIV en XVI.
+  - 12°. [verordening (EU) 44/2014](32014R0044), bijlage II, VI, VIII, X, XIV en XVI.
 
-- 13°. [verordening (EU) 134/2014](32014R0134), bijlage X, aanhangsel 1 en 1.1;
+  - 13°. [verordening (EU) 134/2014](32014R0134), bijlage X, aanhangsel 1 en 1.1;
 
-- 14°. [verordening (EU) 901/2014](32014R0901), bijlage V;
+  - 14°. [verordening (EU) 901/2014](32014R0901), bijlage V;
 
 - b. de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de bijzondere bromfiets vastgestelde permanente eisen.
 
@@ -23049,9 +23023,9 @@ Mobiele machines met een datum van eerste toelating van voor 1 januari 2021, vol
 
 - a. de eisen in:
 
-- 1°. [richtlijn 98/37/EG](31998L0037) van het Europees Parlement en de Raad van 22 juni 1998 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende machines (PbEG 1998, L 207), indien het voertuig in gebruik genomen is na 31 december 1992 en voor 29 december 2009; of
+  - 1°. [richtlijn 98/37/EG](31998L0037) van het Europees Parlement en de Raad van 22 juni 1998 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende machines (PbEG 1998, L 207), indien het voertuig in gebruik genomen is na 31 december 1992 en voor 29 december 2009; of
 
-- 2°. [richtlijn 2006/42/EG](32006L0042), indien het voertuig in gebruik genomen is na 28 december 2009; en
+  - 2°. [richtlijn 2006/42/EG](32006L0042), indien het voertuig in gebruik genomen is na 28 december 2009; en
 
 - b. de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2026-01-01&g=2026-01-01) voor de desbetreffende voertuigcategorie vastgestelde permanente eisen.
 

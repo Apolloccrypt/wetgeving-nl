@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 25 april 2024, nr. IENW/BSK-2024/125958, houdende vaststelling van regels ter uitvoering van de Wet vrachtwagenheffing (Regeling vrachtwagenheffing)"
+title: "Regeling vrachtwagenheffing"
 identifier: "BWBR0049655"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-01"
-last_updated: "2026-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049655"
-soort: "ministeriele-regeling"
-stam_id: "17091973"
-version_id: "31398802"
-internal_id: "C44866341"
-label_id: "17000714"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049655/2026-03-01/0"
-intitule_bron: "Stcrt.2024-13728"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-25"
-intitule_published: "2024-05-03"
-intitule_in_force: "2026-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-13728"
-original_signed_date: "2024-04-25"
-original_published_date: "2024-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-13728"
-entry_into_force_date: "2026-03-01"
-jci_1_3: "jci1.3:c:BWBR0049655&z=2026-03-01&g=2026-03-01"
-jci_1_0: "1.0:c:BWBR0049655&g=2026-03-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vrachtwagenheffing"
-signed_date: "2024-04-25"
-entry_into_force: "2026-03-01"
+categorie: "Overig"
+publicatiedatum: 2026-04-22
+laatste_update: 2026-04-23
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0049655"
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 april 2024, nr. IENW/BSK-2024/125958, houdende vaststelling van regels ter uitvoering van de Wet vrachtwagenheffing (Regeling vrachtwagenheffing)
 
 Gelet op de [artikelen 2, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=2), en [4, derde en vierde lid, van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=4);
@@ -45,6 +19,8 @@ Inwerkingtreding voorheen door Stcrt. 2024/13728 gesteld op het tijdstip waarop 
 ##### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze regeling wordt verstaan onder:
+
+- **rotonde:** rotonde aangeduid door een of meer verkeersborden D1 als bedoeld in [bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1);
 
 - **wet:** [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082).
 
@@ -58,9 +34,9 @@ Deze regeling berust mede op [artikel 5, vierde lid, van de wet](https://wetten.
 
 - a. op een knooppunt of bij een aansluiting met een ander wegvak waar de vrachtwagenheffing wordt geheven indien dat knooppunt of die aansluiting twee of meer wegvakken waar de vrachtwagenheffing wordt geheven met elkaar verbindt;
 
-- b. na respectievelijk voor een rotonde of een gelijkvloerse kruising die twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
+- b. na respectievelijk voor een rotonde die twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
 
-- c. na respectievelijk voor een rotonde of gelijkvloerse kruising die is gelegen op een tussenliggend gedeelte van een wegvak waar de vrachtwagenheffing wordt geheven dat tevens twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
+- c. na respectievelijk voor een rotonde die is gelegen op een tussenliggend gedeelte van een wegvak waar de vrachtwagenheffing wordt geheven dat tevens twee of meer wegvakken, niet zijnde wegvakken waar de vrachtwagenheffing wordt geheven, met elkaar verbindt;
 
 - d. na respectievelijk voor een verzorgingsplaats, tankstation of parkeerplaats die direct verbonden is met een wegvak waar de vrachtwagenheffing wordt geheven, indien die verzorgingsplaats, dat tankstation of die parkeerplaats tevens de aansluiting vormt met een wegvak waarvoor geen vrachtwagenheffing verschuldigd is.
 
@@ -139,7 +115,7 @@ De vrachtwagenheffing wordt geheven met ingang van 1 juli 2026.
 
 ##### Artikel 6. (inwerkingtreding)
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=2) in werking treedt, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1&z=2026-03-01&g=2026-03-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1a&z=2026-03-01&g=2026-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=2&z=2026-03-01&g=2026-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5&z=2026-03-01&g=2026-03-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5a&z=2026-03-01&g=2026-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=6&z=2026-03-01&g=2026-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=7&z=2026-03-01&g=2026-03-01), die in werking treden met ingang van 1 maart 2026.
+Deze regeling treedt in werking op het tijdstip waarop [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=2) in werking treedt, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1&z=2026-04-22&g=2026-04-22), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=1a&z=2026-04-22&g=2026-04-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=2&z=2026-04-22&g=2026-04-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5&z=2026-04-22&g=2026-04-22), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=5a&z=2026-04-22&g=2026-04-22), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=6&z=2026-04-22&g=2026-04-22) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049655&artikel=7&z=2026-04-22&g=2026-04-22), die in werking treden met ingang van 1 maart 2026.
 
 ##### Artikel 7. (citeertitel)
 

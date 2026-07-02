@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2023 kenmerk 2023-0000112901, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2023, en tot herstel van de normbedragen en woonlasten in de Regeling financiële markten BES 2012 (Regeling bekostiging financieel toezicht 2023)"
+title: "Regeling bekostiging financieel toezicht 2023"
 identifier: "BWBR0048249"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048249"
-soort: "ministeriele-regeling"
-stam_id: "16765093"
-version_id: "29443312"
-internal_id: "C42109791"
-label_id: "16680484"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048249/2023-07-01/0"
-intitule_bron: "Stcrt.2023-16023"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-31"
-intitule_published: "2023-06-09"
-intitule_in_force: "2023-06-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-16023"
-original_signed_date: "2023-05-31"
-original_published_date: "2023-06-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-16023"
-entry_into_force_date: "2023-06-10"
-jci_1_3: "jci1.3:c:BWBR0048249&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0048249&g=2023-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling bekostiging financieel toezicht 2023"
-signed_date: "2023-05-31"
-entry_into_force: "2023-06-10"
+categorie: "Overig"
+publicatiedatum: 2025-12-03
+laatste_update: 2026-06-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048249"
 ---
+
 # Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2023 kenmerk 2023-0000112901, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2023, en tot herstel van de normbedragen en woonlasten in de Regeling financiële markten BES 2012 (Regeling bekostiging financieel toezicht 2023)
 
 Gelet op [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9) en [artikel 7:17, zesde lid, van het Besluit financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=7:17);
@@ -195,11 +169,11 @@ Voor het kalenderjaar 2023 worden de bandbreedtes en tarieven, bedoeld in [artik
 
 | Toezichtcategorie | Maatstaf | Bandbreedtes | Tarieven |
 | --- | --- | --- | --- |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | **Aanbieders voor het wisselen tussen virtuele valuta en fiduciaire valuta die op grond van artikel 23b, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd of aanbieders van bewaarportemonnees die op grond van artikel 23b, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd.** **Voor de partijen geldt een maximumheffing van 10 procent van de omzet op jaarbasis met een minimum van € 2.000 (het basisbedrag) en een absoluut maximum van € 946.800.** | € 2.000 in voorkomend geval vermeerderd met: |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 0 tot en met € 1 miljoen omzet | € 47,64 per € 1.000 omzet |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 1 miljoen tot en met € 10 miljoen omzet | € 33,35 per € 1.000 omzet |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 10 miljoen tot en met € 50 miljoen omzet | € 14,29 per € 1.000 omzet |
-| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 50 miljoen omzet | € 5,72 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | **Aanbieders voor het wisselen tussen virtuele valuta en fiduciaire valuta die op grond van artikel 23b, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd of aanbieders van bewaarportemonnees die op grond van artikel 23b, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme zijn geregistreerd.** **Voor de partijen geldt een maximumheffing van 10 procent van de omzet op jaarbasis met een minimum van € 1.628 (het basisbedrag) en een absoluut maximum van € 770.885.** | € 1.628 in voorkomend geval vermeerderd met: |
+| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 0 tot en met € 1 miljoen omzet | € 38,64 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 1 miljoen tot en met € 10 miljoen omzet | € 27,15 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 10 miljoen tot en met € 50 miljoen omzet | € 11,63 per € 1.000 omzet |
+| Aanbieders van diensten met betrekking tot virtuele valuta | **Omzet verkregen uit het aanbieden van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta** **Omzet verkregen uit het aanbieden van bewaarportemonnees.** **Omzet wordt indien mogelijk bepaald aan de hand van de bruto provisie-inkomsten (PI)** | > € 50 miljoen omzet | € 4,66 per € 1.000 omzet |
 | Banken en kredietunies | Voor banken (personen a,b,d,e,f): **Minimum omvang toetsingsvermogen (MTV):** Minimum omvang toetsingsvermogen berekend conform de regels die op grond van [artikel 3:57 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) worden bepaald. | **Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:11, 2:20, 3:4, eerste lid, of 3:110, eerste lid, van de Wet op het financieel toezicht** | € 45.000 vermeerderd met: |
 | Banken en kredietunies |   | >€ 0 tot en met € 80 miljoen MTV | € 8.345 per € miljoen MTV |
 | Banken en kredietunies |   | >€ 80 miljoen tot en met € 400 miljoen MTV | in voorkomend geval vermeerderd met: € 3.594 per € miljoen MTV |
@@ -278,7 +252,7 @@ Wijzigt de Regeling financiële markten BES 2012.
 
 ##### Artikel 5
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048249&artikel=4&z=2023-07-01&g=2023-07-01), dat in werking treedt met ingang van 1 juli 2023.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048249&artikel=4&z=2025-12-03&g=2025-12-03), dat in werking treedt met ingang van 1 juli 2023.
 
 ##### Artikel 6
 

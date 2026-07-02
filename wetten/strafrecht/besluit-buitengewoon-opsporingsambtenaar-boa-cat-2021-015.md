@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Minister voor Rechtsbescherming van 17 mei 2021 nr. BOACAT2021/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Alkmaar"
+title: "Besluit buitengewoon opsporingsambtenaar BOA CAT 2021-015"
 identifier: "BWBR0045140"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-27"
-last_updated: "2024-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045140"
-soort: "ministeriele-regeling"
-stam_id: "15958833"
-version_id: "27773182"
-internal_id: "C39172011"
-label_id: "15893014"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045140/2024-11-27/0"
-intitule_bron: "Stcrt.2021-24906"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-17"
-intitule_published: "2021-05-20"
-intitule_in_force: "2021-05-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-24906"
-original_signed_date: "2021-05-17"
-original_published_date: "2021-05-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-24906"
-entry_into_force_date: "2021-05-25"
-jci_1_3: "jci1.3:c:BWBR0045140&z=2024-11-27&g=2024-11-27"
-jci_1_0: "1.0:c:BWBR0045140&g=2024-11-27"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar BOA CAT 2021-015"
-signed_date: "2021-05-17"
-entry_into_force: "2021-05-25"
+categorie: "Overig"
+publicatiedatum: 2024-11-27
+laatste_update: 2026-05-25
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0045140"
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 17 mei 2021 nr. BOACAT2021/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Alkmaar
 
 Gelezen het verzoek van gemeente Alkmaar van 20 april 2021 en de adviezen van de hoofdofficier van Justitie bij het Arrondissementsparket Noord-Holland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);

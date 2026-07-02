@@ -1,35 +1,13 @@
 ---
 title: "Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, inzake de Europese satellietnavigatieprogramma's"
 identifier: "BWBV0006317"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-12-01"
-last_updated: "2025-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006317"
-soort: "verdrag"
-stam_id: "10005163643"
-version_id: "10005528272"
-internal_id: "C10010224731"
-label_id: "10005146614"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006317/2025-12-01/0"
-intitule_bron: "Trb.2014-44"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-02-21"
-intitule_in_force: "2025-11-28"
-intitule_status: "goed"
-original_publication: "Trb.2014-44"
-original_published_date: "2014-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2014-44"
-entry_into_force_date: "2025-12-01"
-jci_1_3: "jci1.3:c:BWBV0006317&z=2025-12-01&g=2025-12-01"
-jci_1_0: "1.0:c:BWBV0006317&g=2025-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-12-01"
+categorie: "Overig"
+publicatiedatum: 2025-12-01
+laatste_update: 2026-06-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBV0006317"
 ---
+
 # Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, inzake de Europese satellietnavigatieprogramma's
 
 De Europese Unie

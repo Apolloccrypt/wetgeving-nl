@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 5 november 2014, houdende regels ter uitvoering van de Jeugdwet (Besluit Jeugdwet)"
+title: "Besluit Jeugdwet"
 identifier: "BWBR0035779"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035779"
-soort: "AMvB"
-stam_id: "12844773"
-version_id: "21823792"
-internal_id: "C31316961"
-label_id: "12815704"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035779/2026-01-01/0"
-intitule_bron: "Stb.2014-441"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-05"
-intitule_published: "2014-11-21"
-intitule_in_force: "2014-11-21"
-intitule_status: "goed"
-original_publication: "Stb.2014-441"
-original_signed_date: "2014-11-05"
-original_published_date: "2014-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2014-441"
-entry_into_force_date: "2014-11-22"
-jci_1_3: "jci1.3:c:BWBR0035779&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0035779&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Jeugdwet"
-signed_date: "2014-11-05"
-entry_into_force: "2014-11-22"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-05-08
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0035779"
 ---
+
 # Besluit van 5 november 2014, houdende regels ter uitvoering van de Jeugdwet (Besluit Jeugdwet)
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 5 augustus 2014, registratienummer 547112, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -672,11 +646,11 @@ Onze Minister van Volksgezondheid, Welzijn en Sport stelt, voor zover mogelijk a
 
 - a. indien de geautoriseerde een natuurlijk persoon is:
 
-- 1°. de familienaam en voornamen;
+  - 1°. de familienaam en voornamen;
 
-- 2°. de geboortedatum en geboorteplaats;
+  - 2°. de geboortedatum en geboorteplaats;
 
-- 3°. de titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+  - 3°. de titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
 - b. indien de geautoriseerde een rechtspersoon is: naam van de rechtspersoon;
 
@@ -780,9 +754,9 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan op aanvraag middelen ver
 
 - m. gegevens over de outcome van:
 
-- 1°. de jeugdhulp die is verleend door een jeugdhulpaanbieder als bedoeld in [artikel 1.1, onderdeel 1°, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), voor zover de gemeente en die jeugdhulpaanbieder hebben afgesproken dat de jeugdhulpaanbieder deze gegevens registreert of in subsidievoorwaarden is opgenomen dat de jeugdhulpaanbieder dit zal registreren, of
+  - 1°. de jeugdhulp die is verleend door een jeugdhulpaanbieder als bedoeld in [artikel 1.1, onderdeel 1°, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), voor zover de gemeente en die jeugdhulpaanbieder hebben afgesproken dat de jeugdhulpaanbieder deze gegevens registreert of in subsidievoorwaarden is opgenomen dat de jeugdhulpaanbieder dit zal registreren, of
 
-- 2°. gecertificeerde instellingen.
+  - 2°. gecertificeerde instellingen.
 
 2. Een incidentele verstrekking van gegevens als bedoeld in [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.4.3) door jeugdhulpaanbieders of gecertificeerde instellingen betreft geen persoonsgegevens.
 
@@ -1252,35 +1226,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 In de regiovisie wordt in ieder geval opgenomen:
 
-- a. de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders en professionals in algemene zin afstemmen over schaarste van de vormen van jeugdhulp bedoeld in artikel 2.19, eerste lid, onderdeel a;
+- a. de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders en professionals in algemene zin afstemmen over schaarste van de vormen van jeugdhulp bedoeld in [artikel 2.19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19);
 
 - b. de aanpak van wachttijden en de wijze waarop de gemeenten in de regio samen met jeugdhulpaanbieders maximaal aanvaardbare wachttijden formuleren;
 
 - c. een voorziening waarmee inspraak mogelijk wordt gemaakt voor jeugdigen en diens wettelijk vertegenwoordigers;
 
-- d. de wijze waarop de afstemming, bedoeld in artikel 2.19, eerste lid, onderdeel c, van de wet plaatsvindt;
+- d. de wijze waarop de afstemming, bedoeld in [artikel 2.19, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) plaatsvindt;
 
-- e. de wijze waarop de afstemming en verbinding wordt geborgd tussen de op grond van artikel 2.19, eerste lid, onderdeel a, van de wet gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
+- e. de wijze waarop de afstemming en verbinding wordt geborgd tussen de op grond van [artikel 2.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
 
-- 1°. de vormen van jeugdhulp die zijn gecontracteerd door een door alle gemeenten gezamenlijk in stand gehouden landelijk werkende organisatie en waarbij alle gemeenten in de regio uitsluitend gebruikmaken van dat landelijk gecontracteerde aanbod;
+  - 1°. de vormen van jeugdhulp die zijn gecontracteerd door een door alle gemeenten gezamenlijk in stand gehouden landelijk werkende organisatie en waarbij alle gemeenten in de regio uitsluitend gebruikmaken van dat landelijk gecontracteerde aanbod;
 
-- 2°. de vormen van jeugdhulp die door de colleges worden gecontracteerd of gesubsidieerd;
+  - 2°. de vormen van jeugdhulp die door de colleges worden gecontracteerd of gesubsidieerd;
 
-- f. de wijze waarop de verbinding wordt geborgd tussen de op grond van artikel 2.19, eerste lid, onderdeel a, van de wet gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
+- f. de wijze waarop de verbinding wordt geborgd tussen de op grond van [artikel 2.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) gecontracteerde of gesubsidieerde jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en
 
-- 1°. jeugdgezondheidszorg als bedoeld in de Wet publieke gezondheid;
+  - 1°. jeugdgezondheidszorg als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
 
-- 2°. zorg of diensten als omschreven bij of krachtens de Wet langdurige zorg en de Zorgverzekeringswet;
+  - 2°. zorg of diensten als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- 3°. maatschappelijke ondersteuning als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015;
+  - 3°. maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
-- 4°. ondersteuning als bedoeld in de Wet op het primair onderwijs, de Wet voortgezet onderwijs 2020 of de Wet op de expertisecentra;
+  - 4°. ondersteuning als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
 - g. de wijze waarop wordt voorzien in regionale expertteams.
 
 ##### Artikel 2.2.2
 
-1. De regio’s, bedoeld in artikel 2.17 van de wet, zijn:
+1. De regio’s, bedoeld in [artikel 2.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.17), zijn:
 
 - –. Achterhoek;
 
@@ -1368,33 +1342,33 @@ In de regiovisie wordt in ieder geval opgenomen:
 
 ##### Artikel 2.2.3
 
-De vormen van jeugdhulp, bedoeld in artikel 2.19, eerste lid, onderdeel a, onder 1°, van de wet zijn:
+De vormen van jeugdhulp, bedoeld in [artikel 2.19, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) zijn:
 
 - a. jeugdhulp met verblijf;
 
-- b. pleegzorg als bedoeld in artikel 1.1 van de wet;
+- b. pleegzorg als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
 - c. multidisciplinaire specialistische jeugdhulp in verband met meervoudige of complexe problemen, waarbij:
 
-- 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
+  - 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
 
-- 2°. sprake is van:
+  - 2°. sprake is van:
 
-- –. een hoog risico voor de jeugdige of diens omgeving;
+    - –. een hoog risico voor de jeugdige of diens omgeving;
 
-- –. ernstige ontwikkelingsproblemen;
+    - –. ernstige ontwikkelingsproblemen;
 
-- –. ernstige opvoedproblemen; of
+    - –. ernstige opvoedproblemen; of
 
-- –. crimineel gedrag dan wel een vermoeden daarvan; en
+    - –. crimineel gedrag dan wel een vermoeden daarvan; en
 
-- 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
+  - 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
 
-- –. sprake is van een psychische aandoening of een vermoeden daarvan; en
+    - –. sprake is van een psychische aandoening of een vermoeden daarvan; en
 
-- –. onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
+    - –. onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
 
-- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in artikel 77z van het Wetboek van Strafrecht of wordt verleend ter uitvoering van jeugdreclassering;
+- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering;
 
 - e. jeugdhulp in verband met een zintuiglijke beperking;
 
@@ -1410,33 +1384,33 @@ De vormen van jeugdhulp, bedoeld in artikel 2.19, eerste lid, onderdeel a, onder
 
 ##### Artikel 2.2.3a
 
-1. De vormen van jeugdhulp, bedoeld in artikel 10.3, eerste lid, onderdeel a, van de wet, zijn:
+1. De vormen van jeugdhulp, bedoeld in [artikel 10.3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.3), zijn:
 
 - a. jeugdhulp met verblijf;
 
-- b. pleegzorg als bedoeld in artikel 1.1 van de wet;
+- b. pleegzorg als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
 - c. multidisciplinaire specialistische jeugdhulp in verband met meervoudige of complexe problemen, waarbij:
 
-- 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
+  - 1°. de jeugdige als gevolg van de betreffende problemen aanzienlijke beperkingen in het dagelijks functioneren ervaart;
 
-- 2°. sprake is van:
+  - 2°. sprake is van:
 
-- –. een hoog risico voor de jeugdige of diens omgeving;
+    - –. een hoog risico voor de jeugdige of diens omgeving;
 
-- –. ernstige ontwikkelingsproblemen;
+    - –. ernstige ontwikkelingsproblemen;
 
-- –. ernstige opvoedproblemen; of
+    - –. ernstige opvoedproblemen; of
 
-- –. crimineel gedrag dan wel een vermoeden daarvan; en
+    - –. crimineel gedrag dan wel een vermoeden daarvan; en
 
-- 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
+  - 3°. in het geval van multidisciplinaire specialistische jeugdhulp mede bestaande uit geestelijke gezondheidszorg tevens:
 
-- –. sprake is van een psychische aandoening of een vermoeden daarvan; en
+    - –. sprake is van een psychische aandoening of een vermoeden daarvan; en
 
-- –. onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
+    - –. onvoldoende resultaat wordt verwacht of is gebleken van jeugdhulp bestaande uit generalistische basis geestelijke gezondheidszorg of monodisciplinaire specialistische geestelijke gezondheidszorg;
 
-- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in artikel 77z van het Wetboek van Strafrecht of wordt verleend ter uitvoering van jeugdreclassering;
+- d. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering;
 
 - e. jeugdhulp in verband met een zintuiglijke beperking;
 
@@ -1454,19 +1428,19 @@ De vormen van jeugdhulp, bedoeld in artikel 2.19, eerste lid, onderdeel a, onder
 
 ##### Artikel 2.2.4
 
-De vormen van jeugdhulp, bedoeld in artikel 2.19, eerste lid, onderdeel c, onder 1°, van de wet zijn:
+De vormen van jeugdhulp, bedoeld in [artikel 2.19, eerste lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.19) zijn:
 
 - a. jeugdhulp met verblijf voor zover:
 
-- 1°. sprake is van gesloten jeugdhulp als bedoeld in artikel 1.1 van de wet; of
+  - 1°. sprake is van gesloten jeugdhulp als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1); of
 
-- 2°. deze jeugdhulp mede is gericht op de drie milieus wonen, onderwijs en vrije tijd;
+  - 2°. deze jeugdhulp mede is gericht op de drie milieus wonen, onderwijs en vrije tijd;
 
 - b. jeugdhulp die wordt verleend door een forensische jeugdhulpaanbieder, mede is gericht op het voorkomen van recidive en:
 
-- 1°. is gesteld als bijzondere voorwaarde als bedoeld in artikel 77z van het Wetboek van Strafrecht of wordt verleend ter uitvoering van jeugdreclassering; en
+  - 1°. is gesteld als bijzondere voorwaarde als bedoeld in [artikel 77z van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77z) of wordt verleend ter uitvoering van jeugdreclassering; en
 
-- 2°. geen sprake is van jeugdhulp met verblijf;
+  - 2°. geen sprake is van jeugdhulp met verblijf;
 
 - c. jeugdhulp bestaande uit crisishulp die gezien de ernst van de problematiek 7 x 24 uur beschikbaar is;
 
@@ -1476,9 +1450,9 @@ De vormen van jeugdhulp, bedoeld in artikel 2.19, eerste lid, onderdeel c, onder
 
 ##### Artikel 4.0.a1
 
-Artikel 4.4.1 van de wet is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
+[Artikel 4.4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.4.1) is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
 
-- a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in artikel 2.3, tweede lid, van de wet; en
+- a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.3); en
 
 - b. gemeenten.
 
@@ -1496,25 +1470,25 @@ Artikel 4.4.1 van de wet is niet van toepassing op de volgende categorieën van 
 
 - b. een lid van de interne toezichthouder, diens echtgenoot of andere levensgezel, pleegkind of bloed- of aanverwant tot in de tweede graad:
 
-- 1°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen lid is van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling;
+  - 1°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen lid is van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling;
 
-- 2°. in de periode van een jaar voorafgaand aan het lidmaatschap van de interne toezichthouder niet tijdelijk heeft voorzien in de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling bij belet of ontstentenis van een of meer leden van de dagelijkse of algemene leiding;
+  - 2°. in de periode van een jaar voorafgaand aan het lidmaatschap van de interne toezichthouder niet tijdelijk heeft voorzien in de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling bij belet of ontstentenis van een of meer leden van de dagelijkse of algemene leiding;
 
-- 3°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen werknemer van de jeugdhulpaanbieder of de gecertificeerde instelling is dan wel krachtens een overeenkomst van opdracht werkzaamheden voor de jeugdhulpaanbieder of de gecertificeerde instelling heeft verricht;
+  - 3°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen werknemer van de jeugdhulpaanbieder of de gecertificeerde instelling is dan wel krachtens een overeenkomst van opdracht werkzaamheden voor de jeugdhulpaanbieder of de gecertificeerde instelling heeft verricht;
 
-- 4°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen zakelijke relatie onderhoudt met de jeugdhulpaanbieder of de gecertificeerde instelling die de onafhankelijkheid van het lid van de interne toezichthouder dan wel het vertrouwen in die onafhankelijkheid in gevaar brengt;
+  - 4°. tijdens dan wel in de periode van drie jaar voorafgaand aan het lidmaatschap van de interne toezichthouder geen zakelijke relatie onderhoudt met de jeugdhulpaanbieder of de gecertificeerde instelling die de onafhankelijkheid van het lid van de interne toezichthouder dan wel het vertrouwen in die onafhankelijkheid in gevaar brengt;
 
-- 5°. geen lid is van de dagelijkse of algemene leiding van een andere jeugdhulpaanbieder of gecertificeerde instelling indien een lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde lid is van de interne toezichthouder van die andere jeugdhulpaanbieder of de gecertificeerde instelling;
+  - 5°. geen lid is van de dagelijkse of algemene leiding van een andere jeugdhulpaanbieder of gecertificeerde instelling indien een lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde lid is van de interne toezichthouder van die andere jeugdhulpaanbieder of de gecertificeerde instelling;
 
-- 6°. geen aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt;
+  - 6°. geen aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt;
 
-- 7°. geen lid is van de dagelijkse of algemene leiding van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt dan wel van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of de gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht;
+  - 7°. geen lid is van de dagelijkse of algemene leiding van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt dan wel van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of de gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht;
 
-- 8°. geen lid is van de interne toezichthouder van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht, tenzij die andere jeugdhulpaanbieder of gecertificeerde instelling een dochtermaatschappij van de jeugdhulpaanbieder of gecertificeerde instelling is als bedoeld in artikel 24a van Boek 2 van het Burgerlijk Wetboek of die andere jeugdhulpaanbieder of gecertificeerde instelling met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek;
+  - 8°. geen lid is van de interne toezichthouder van een andere jeugdhulpaanbieder of gecertificeerde instelling die binnen het verzorgingsgebied van de jeugdhulpaanbieder of gecertificeerde instelling geheel of gedeeltelijk dezelfde werkzaamheden verricht, tenzij die andere jeugdhulpaanbieder of gecertificeerde instelling een dochtermaatschappij van de jeugdhulpaanbieder of gecertificeerde instelling is als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) of die andere jeugdhulpaanbieder of gecertificeerde instelling met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- 9°. geen lid is van de interne toezichthouder van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt, tenzij die rechtspersoon met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek.
+  - 9°. geen lid is van de interne toezichthouder van een rechtspersoon die aandelen in de jeugdhulpaanbieder of de gecertificeerde instelling houdt, tenzij die rechtspersoon met de jeugdhulpaanbieder of de gecertificeerde instelling is verbonden in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
 
-2. Met jeugdhulpaanbieder of gecertificeerde instelling als bedoeld in het eerste lid, onderdelen a en b, wordt gelijkgesteld een dochtermaatschappij van de jeugdhulpaanbieder of de gecertificeerde instelling als bedoeld in artikel 24a van Boek 2 van het Burgerlijk Wetboek alsmede met de jeugdhulpaanbieder of de gecertificeerde instelling in een groep verbonden rechtspersonen of vennootschappen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek.
+2. Met jeugdhulpaanbieder of gecertificeerde instelling als bedoeld in het eerste lid, onderdelen a en b, wordt gelijkgesteld een dochtermaatschappij van de jeugdhulpaanbieder of de gecertificeerde instelling als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) alsmede met de jeugdhulpaanbieder of de gecertificeerde instelling in een groep verbonden rechtspersonen of vennootschappen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
 
 3. Onder lid van de dagelijkse of algemene leiding als bedoeld in de subonderdelen 1°, 5° en 7° van onderdeel b van het eerste lid, wordt mede verstaan de natuurlijke persoon die het beleid van de instelling heeft bepaald of mede heeft bepaald, als ware hij lid van de dagelijkse of algemene leiding van de jeugdhulpaanbieder of de gecertificeerde instelling.
 

@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)"
+title: "Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
 identifier: "BWBR0041860"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041860"
-soort: "ministeriele-regeling"
-stam_id: "14964903"
-version_id: "25639352"
-internal_id: "C36594271"
-label_id: "14915154"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041860/2026-01-01/0"
-intitule_bron: "Stcrt.2019-4491"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-01-15"
-intitule_published: "2019-01-30"
-intitule_in_force: "2019-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-4491"
-original_signed_date: "2019-01-15"
-original_published_date: "2019-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-4491"
-entry_into_force_date: "2019-01-31"
-jci_1_3: "jci1.3:c:BWBR0041860&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0041860&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
-signed_date: "2019-01-15"
-entry_into_force: "2019-01-31"
+categorie: "Overig"
+publicatiedatum: 2026-06-01
+laatste_update: 2026-06-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0041860"
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)
 
 Gezien [artikel 20 Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=20);
@@ -46,7 +20,7 @@ In dit besluit wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2026-01-01&g=2026-01-01).
+- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2026-06-01&g=2026-06-01).
 
 ##### Artikel 2. Instelling commissie
 
@@ -54,7 +28,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2028.
 
-3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2026-01-01&g=2026-01-01) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2026-06-01&g=2026-06-01) genoemde taken van de commissie.
 
 ##### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
 
@@ -132,9 +106,11 @@ Tot leden van de commissie worden benoemd:
 
 - f. de heer P.W. van Amersfoort te Amsterdam;
 
-- g. de heer H.A. Lukken te Assen; en
+- g. de heer J.A.L.M. van Erp te ’s-Hertogenbosch;
 
-- h. de heer J.A.L.M. van Erp te ’s-Hertogenbosch.
+- h. de heer L.G.J. van Horen te Neerkant; en
+
+- i. de heer J. Nap te Groningen.
 
 ##### Artikel 7. Secretariaat
 
@@ -164,15 +140,15 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 - a. voor het beoordelen van een subsidieaanvraag als bedoeld in [artikel 21 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19 van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19):
 
-- 1°. twee dagdelen voor het bestuderen van de stukken; en
+  - 1°. twee dagdelen voor het bestuderen van de stukken; en
 
-- 2°. één dagdeel voor het bijwonen van de mondelinge toelichting, bedoeld in [artikel 21, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19, tweede lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), blijkend uit de taakverdeling tussen de commissieleden;
+  - 2°. één dagdeel voor het bijwonen van de mondelinge toelichting, bedoeld in [artikel 21, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19, tweede lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), blijkend uit de taakverdeling tussen de commissieleden;
 
 - b. voor het beoordelen van een voortgangsrapportage als bedoeld in [artikel 22 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22):
 
-- 1°. twee dagdelen voor het bestuderen van de stukken; en
+  - 1°. twee dagdelen voor het bestuderen van de stukken; en
 
-- 2°. één dagdeel voor het bijwonen van het gesprek of het bezoek aan het project, bedoeld in [artikel 22, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), blijkend uit de taakverdeling tussen de commissieleden;
+  - 2°. één dagdeel voor het bijwonen van het gesprek of het bezoek aan het project, bedoeld in [artikel 22, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), blijkend uit de taakverdeling tussen de commissieleden;
 
 - c. per aanvraagperiode één dagdeel voor het uitbrengen van advies aan de Minister.
 

@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 22 september 1999, houdende het Warenwetbesluit Smeerbare vetproducten"
+title: "Warenwetbesluit Smeerbare vetproducten"
 identifier: "BWBR0010734"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-10-06"
-last_updated: "2014-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0010734"
-soort: "AMvB"
-stam_id: "1167343"
-version_id: "1726622"
-internal_id: "C1726621"
-label_id: "1131394"
-dtd_version: "2.0"
-original_entry_into_force: "1999-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0010734/2016-10-06/0"
-intitule_bron: "Stb.1999-428"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-09-22"
-intitule_published: "1999-10-14"
-intitule_in_force: "1999-10-14"
-intitule_status: "goed"
-original_publication: "Stb.1999-428"
-original_signed_date: "1999-09-22"
-original_published_date: "1999-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-1999-428"
-entry_into_force_date: "1999-12-01"
-jci_1_3: "jci1.3:c:BWBR0010734&z=2016-10-06&g=2016-10-06"
-jci_1_0: "1.0:c:BWBR0010734&g=2016-10-06"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Smeerbare vetproducten"
-signed_date: "1999-09-22"
-entry_into_force: "1999-12-01"
+categorie: "Overig"
+publicatiedatum: 2016-10-06
+laatste_update: 2026-05-13
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0010734"
 ---
+
 # Besluit van 22 september 1999, houdende het Warenwetbesluit Smeerbare vetproducten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 april 1999, nr GZB/VVB 991504, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;

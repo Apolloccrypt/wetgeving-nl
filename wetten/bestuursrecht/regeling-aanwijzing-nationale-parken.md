@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 augustus 2007, nr. TRCJZ/2007/1221, houdende aanwijzing nationale parken (Regeling aanwijzing nationale parken)"
+title: "Besluit aanwijzing nationale parken"
 identifier: "BWBR0022396"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-10-17"
-last_updated: "2024-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022396"
-soort: "ministeriele-regeling"
-stam_id: "9182483"
-version_id: "30365262"
-internal_id: "C43550521"
-label_id: "9161374"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022396/2024-10-17/0"
-intitule_bron: "Stcrt.2007-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-08-08"
-intitule_published: "2007-08-15"
-intitule_in_force: "2007-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-32539"
-original_signed_date: "2024-10-13"
-original_published_date: "2024-10-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-32539"
-entry_into_force_date: "2024-10-17"
-jci_1_3: "jci1.3:c:BWBR0022396&z=2024-10-17&g=2024-10-17"
-jci_1_0: "1.0:c:BWBR0022396&g=2024-10-17"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing nationale parken"
-signed_date: "2024-10-13"
-entry_into_force: "2024-10-17"
+categorie: "Overig"
+publicatiedatum: 2026-05-12
+laatste_update: 2026-05-12
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0022396"
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 augustus 2007, nr. TRCJZ/2007/1221, houdende aanwijzing nationale parken (Regeling aanwijzing nationale parken)
 
 Besluit:
@@ -61,6 +35,8 @@ Vervallen
 - –. Dwingelderveld;
 
 - –. De Groote Peel;
+
+- –. Hollandse Duinen;
 
 - –. Lauwersmeer;
 
@@ -142,7 +118,7 @@ Deze regeling treedt in werking met ingang van 1 september 2007.
 
 ##### Artikel 15
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing nationale parken.
+Dit besluit wordt aangehaald als: Besluit aanwijzing nationale parken.
 
 ## Bijlage
 

@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]"
+title: "Subsidieregeling inclusiviteitstechnologie voor het mkb"
 identifier: "BWBR0051195"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051195"
-soort: "ministeriele-regeling"
-stam_id: "17463943"
-version_id: "30800652"
-internal_id: "C44145381"
-label_id: "17366334"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051195/2025-09-01/0"
-intitule_bron: "Stcrt.2025-23088"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-30"
-intitule_published: "2025-07-08"
-intitule_in_force: "2025-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-23088"
-original_signed_date: "2025-06-30"
-original_published_date: "2025-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-23088"
-entry_into_force_date: "2025-09-01"
-jci_1_3: "jci1.3:c:BWBR0051195&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0051195&g=2025-09-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling inclusiviteitstechnologie voor het mkb"
-signed_date: "2025-06-30"
-entry_into_force: "2025-09-01"
+categorie: "Overig"
+publicatiedatum: 2026-05-28
+laatste_update: 2026-05-29
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051195"
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]
 
 Gelet op [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3);
@@ -88,7 +62,7 @@ Het doel van deze regeling is om werkgevers financieel te ondersteunen bij de aa
 
 ##### Artikel 5. Subsidiabele kosten
 
-De kosten voor de activiteiten, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01), komen in aanmerking voor subsidie.
+De kosten voor de activiteiten, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28), komen in aanmerking voor subsidie.
 
 ##### Artikel 6. Niet subsidiabele kosten
 
@@ -116,9 +90,9 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 - a. van 1 oktober 2025, 09:00 uur, tot en met 28 november 2025, 17:00 uur; en
 
-- b. van 5 januari 2026, 09:00 uur, tot en met 29 mei 2026, 17:00.
+- b. van 5 januari 2026, 09:00 uur, tot en met 31 augustus 2026, 17:00.
 
-2. Het subsidieplafond voor deze regeling bedraagt € 2.000.000,–, waarvan € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 1 oktober 2025 tot en met 28 november 2025 en € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 5 januari 2026 tot en met 29 mei 2026.
+2. Het subsidieplafond voor deze regeling bedraagt € 2.000.000,–, waarvan € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 1 oktober 2025 tot en met 28 november 2025 en € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 5 januari 2026 tot en met 31 augustus 2026.
 
 3. De staatssecretaris verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, waarbij alleen volledige aanvragen in behandeling worden genomen.
 
@@ -128,7 +102,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 ##### Artikel 8. Hoogte subsidie
 
-1. Per aanvraag wordt een subsidie verstrekt tot € 25.000, waarvan maximaal € 1.000 kan worden verstrekt voor de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01).
+1. Per aanvraag wordt een subsidie verstrekt tot € 25.000, waarvan maximaal € 1.000 kan worden verstrekt voor de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28).
 
 2. De subsidie bedraagt maximaal 50% van de subsidiabele kosten.
 
@@ -142,7 +116,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 - a. een activiteitenplan waarbij gebruikgemaakt is van het beschikbaar gestelde format;
 
-- b. een afschrift van de offerte of offertes op naam van de aanvrager waarop de subsidiabele activiteiten waarvoor subsidie wordt aangevraagd zijn vermeld. In de offerte of offertes wordt onderscheid gemaakt tussen de kosten, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01) en de kosten, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01);
+- b. een afschrift van de offerte of offertes op naam van de aanvrager waarop de subsidiabele activiteiten waarvoor subsidie wordt aangevraagd zijn vermeld. In de offerte of offertes wordt onderscheid gemaakt tussen de kosten, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28) en de kosten, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28);
 
 - c. een verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening;
 
@@ -174,11 +148,11 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 - d. door de toepassing van de de-minimisverordening een bedrag aan subsidie zou worden verstrekt dat hoger is dan geoorloofd op grond van deze verordening om nog van de-minimissteun te kunnen spreken;
 
-- e. de verstrekking van de subsidie tot gevolg heeft dat het subsidieplafond, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=7&z=2025-09-01&g=2025-09-01), wordt overschreden;
+- e. de verstrekking van de subsidie tot gevolg heeft dat het subsidieplafond, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=7&z=2026-05-28&g=2026-05-28), wordt overschreden;
 
 - f. de activiteiten reeds vanuit een andere wettelijke regeling worden gefinancierd of gesubsidieerd;
 
-- g. de aanvraag alleen ziet op de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01).
+- g. de aanvraag alleen ziet op de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28).
 
 ##### Artikel 11. Subsidieverlening
 
@@ -190,7 +164,7 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 ##### Artikel 12. Subsidievaststelling
 
-1. In overeenstemming met [artikel 7.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) neemt de staatssecretaris binnen 22 weken na afloop van de datum, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=11&z=2025-09-01&g=2025-09-01), ambtshalve een besluit over de vaststelling van de subsidie.
+1. In overeenstemming met [artikel 7.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) neemt de staatssecretaris binnen 22 weken na afloop van de datum, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=11&z=2026-05-28&g=2026-05-28), ambtshalve een besluit over de vaststelling van de subsidie.
 
 2. De staatssecretaris stelt de subsidie vast op ten hoogste het bedrag, genoemd in de beschikking tot subsidieverlening.
 
@@ -218,7 +192,7 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 september 2025 en vervalt met ingang van 31 december 2027, met dien verstande dat deze regeling van toepassing blijft op subsidies die voor laatstgenoemde datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van 1 september 2025 en vervalt met ingang van 31 maart 2028, met dien verstande dat deze regeling van toepassing blijft op subsidies die voor laatstgenoemde datum zijn verstrekt.
 
 ##### Artikel 16. Citeertitel
 

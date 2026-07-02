@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Financiën van 18 december 2019 tot vaststelling van het Organisatiebesluit Ministerie van Financiën 2020"
+title: "Organisatiebesluit Ministerie van Financiën 2020"
 identifier: "BWBR0043027"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-03"
-last_updated: "2026-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043027"
-soort: "ministeriele-regeling"
-stam_id: "15308703"
-version_id: "30959672"
-internal_id: "C44342651"
-label_id: "15255094"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043027/2026-04-03/0"
-intitule_bron: "Stcrt.2019-70716"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-18"
-intitule_published: "2019-12-30"
-intitule_in_force: "2019-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-33869"
-original_signed_date: "2025-09-22"
-original_published_date: "2025-10-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-33869"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0043027&z=2026-04-03&g=2026-04-03"
-jci_1_0: "1.0:c:BWBR0043027&g=2026-04-03"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit Ministerie van Financiën 2020"
-signed_date: "2025-09-22"
-entry_into_force: "2026-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-04-03
+laatste_update: 2026-04-03
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0043027"
 ---
+
 # Regeling van de Minister van Financiën van 18 december 2019 tot vaststelling van het Organisatiebesluit Ministerie van Financiën 2020
 
 Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -44,7 +18,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
-##### Artikel 1. Begrippen
+#### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -78,13 +52,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Algemene leiding
 
-##### Artikel 2. Missie en taakopdracht
+#### Artikel 2. Missie en taakopdracht
 
 Het ministerie werkt aan een goede financiële huishouding van Nederland, int belastingen op basis van solide fiscale regelgeving en ziet toe op een doelmatige besteding van overheidsgeld. Het ministerie maakt regels voor het goed functioneren van het financiële stelsel en werkt aan een sterke economische structuur die verankerd is in een economisch en financieel gezond Europa.
 
 De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg voor de bevordering van deze waarden onder de medewerkers. Zij stimuleert de toewijding, de deskundigheid, de professionaliteit en de aanspreekbaarheid van de medewerkers. De algemene leiding geeft ruimte aan talent in de organisatie en bevordert de samenwerking tussen dienstonderdelen en met andere ministeries. De algemene leiding legt over de bedrijfsvoering en het beheer van de haar toevertrouwde middelen op inzichtelijke wijze verantwoording af.
 
-##### Artikel 3. Secretaris-generaal
+#### Artikel 3. Secretaris-generaal
 
 1. Overeenkomstig [artikel 1 van het Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal (Stb. 1988, 499)](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1), is de secretaris-generaal (de SG), met inachtneming van de aanwijzingen van de Minister, belast met de ambtelijke leiding van al hetgeen het ministerie betreft.
 
@@ -104,7 +78,7 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - b. de plaatsvervangend secretaris-generaal voor de overige verantwoordelijkheden.
 
-##### Artikel 4. De bestuursraad
+#### Artikel 4. De bestuursraad
 
 1. Er is een bestuursraad.
 
@@ -132,7 +106,7 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 4. De directie Bestuursondersteuning en Advies (BOA) verzorgt het secretariaat van de bestuursraad.
 
-##### Artikel 5. Plaatsvervangend secretaris-generaal
+#### Artikel 5. Plaatsvervangend secretaris-generaal
 
 1. De plaatsvervangend secretaris-generaal (de pSG) is verantwoordelijk voor:
 
@@ -194,7 +168,7 @@ De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in be
 
 6. De pSG vertegenwoordigt het kernministerie in interdepartementaal overleg.
 
-##### Artikel 6. Departementaal Chief Information Officer (dCIO)
+#### Artikel 6. Departementaal Chief Information Officer (dCIO)
 
 1. De pSG is Departementaal Chief Information Officer (dCIO) voor het ministerie.
 
@@ -216,7 +190,7 @@ De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in be
 
 5. De directeur Informatievoorziening en Openbaarmaking is de plaatsvervangend dCIO.
 
-##### Artikel 7. Coördinerend Directeur Inkoop (CDI)
+#### Artikel 7. Coördinerend Directeur Inkoop (CDI)
 
 1. De directeur Bedrijfsvoering is Coördinerend Directeur Inkoop (CDI) en is verantwoordelijk voor het goed functioneren van het inkoopstelsel binnen het ministerie van Financiën en het categoriemanagement van de categorieën die ressorteren onder het ministerie.
 
@@ -234,7 +208,7 @@ De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in be
 
 3. De CDI wordt ondersteund door een CDI Office.
 
-##### Artikel 8. De bestuursraad bedrijfsvoering
+#### Artikel 8. De bestuursraad bedrijfsvoering
 
 1. Er is een bestuursraad bedrijfsvoering.
 
@@ -264,13 +238,13 @@ De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in be
 
 4. De pSG beslist welke bespreekpunten worden geagendeerd in de bestuursraad, gehoord hebbende de bestuursraad bedrijfsvoering.
 
-##### Artikel 9. Overleg met bewindspersonen
+#### Artikel 9. Overleg met bewindspersonen
 
 Over vraagstukken die van politiek gevoelige of anderszins zwaarwegende aard zijn, treedt de algemene leiding in contact met de bewindspersoon die het aangaat, voordat van bevoegdheden gebruik wordt gemaakt.
 
 ### Hoofdstuk 3. Structuur ministerie
 
-##### Artikel 10. Dienstonderdelen
+#### Artikel 10. Dienstonderdelen
 
 Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderdelen:
 
@@ -292,7 +266,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - i. het bureau van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden (bureau BBT).
 
-##### Artikel 11. Tijdelijke organisatieonderdelen
+#### Artikel 11. Tijdelijke organisatieonderdelen
 
 1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-04-03&g=2026-04-03) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
@@ -304,7 +278,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 #### Paragraaf 4.1. Structuur SG-cluster
 
-##### Artikel 12. Inrichting SG-cluster
+#### Artikel 12. Inrichting SG-cluster
 
 1. Het SG-cluster bestaat uit de volgende ministeriebrede organisatieonderdelen:
 
@@ -362,7 +336,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 #### Paragraaf 4.2. Ministeriebrede organisatieonderdelen SG-cluster
 
-##### Artikel 13. Directie Algemene Financiële en Economische Politiek (AFEP)
+#### Artikel 13. Directie Algemene Financiële en Economische Politiek (AFEP)
 
 De directie AFEP heeft de volgende hoofdtaken:
 
@@ -386,7 +360,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - j. Het doen en entameren van kwantitatief beleidsgericht (wetenschappelijk) onderzoek op nationaal en internationaal financieel-economisch terrein, waarbij het datateam binnen AFEP (AFEP Analytics) hierbij een zelfstandige verantwoordelijkheid voor onderzoeksselectie, dataverzameling en -beheer, analyses, conclusies en presentaties draagt.
 
-##### Artikel 14. Directie Bedrijfsvoering
+#### Artikel 14. Directie Bedrijfsvoering
 
 1. De directie Bedrijfsvoering heeft de volgende hoofdtaken:
 
@@ -440,7 +414,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2026-04-03&g=2026-04-03). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
-##### Artikel 15. Concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek (VTI)
+#### Artikel 15. Concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek (VTI)
 
 1. De directie VTI heeft binnen het Ministerie van Financiën de taak:
 
@@ -460,7 +434,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 2. De concerndirectie Veiligheid, Toezicht en Integriteitsonderzoek bestaat uit een afdeling Integrale Veiligheid en Beveiliging, een afdeling Toezicht en een afdeling Integriteitsonderzoeken Financiën.
 
-##### Artikel 16. Directie Juridische Zaken (DJZ)
+#### Artikel 16. Directie Juridische Zaken (DJZ)
 
 1. De directie Juridische Zaken heeft de volgende taken:
 
@@ -486,7 +460,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 2. De directie Juridische Zaken bestaat uit een afdeling Publiekrecht en een afdeling Privaatrecht.
 
-##### Artikel 17. Directie Bestuursondersteuning en Advies (BOA)
+#### Artikel 17. Directie Bestuursondersteuning en Advies (BOA)
 
 1. De directie Bestuursondersteuning en Advies heeft de volgende taken:
 
@@ -514,7 +488,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 2. De directie Bestuursondersteuning en Advies bestaat uit de afdelingen Advies, Bestuursondersteuning (BO), Eigenaarsadvisering (EA) en de tijdelijke projectafdeling Parlementaire enquêtes (PE).
 
-##### Artikel 18. Directie Communicatie
+#### Artikel 18. Directie Communicatie
 
 De directie Communicatie heeft de volgende taken:
 
@@ -532,7 +506,7 @@ De directie Communicatie heeft de volgende taken:
 
 - g. coördineert het beleid ter zake van uitnodigingen, werkbezoeken en speeches van de politieke leiding.
 
-##### Artikel 19. Directie Financieel-Economische Zaken (DFEZ)
+#### Artikel 19. Directie Financieel-Economische Zaken (DFEZ)
 
 1. De directie Financieel-Economische Zaken heeft de volgende hoofdtaken:
 
@@ -558,7 +532,7 @@ De directie Communicatie heeft de volgende taken:
 
 #### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
 
-##### Artikel 20. Auditdienst Rijk (ADR)
+#### Artikel 20. Auditdienst Rijk (ADR)
 
 1. De Auditdienst Rijk heeft de volgende hoofdtaken:
 
@@ -600,7 +574,7 @@ De directie Communicatie heeft de volgende taken:
 
 - d. EU-audit.
 
-##### Artikel 21. Dienst Domeinen Roerende Zaken
+#### Artikel 21. Dienst Domeinen Roerende Zaken
 
 1. Dienst Domeinen Roerende Zaken (DRZ) is een directie van het Ministerie van Financiën. De dienst heeft twee hoofdtaken:
 
@@ -634,7 +608,7 @@ De directie Communicatie heeft de volgende taken:
 
 ### Hoofdstuk 5. Directoraat-generaal belastingdienst
 
-##### Artikel 22. Directeur-generaal Belastingdienst
+#### Artikel 22. Directeur-generaal Belastingdienst
 
 1. De directeur-generaal Belastingdienst is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 4 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=4).
 
@@ -644,13 +618,13 @@ De directie Communicatie heeft de volgende taken:
 
 4. De directeur-generaal Belastingdienst vervult de rol van opdrachtnemer in het driehoeksmodel dat van toepassing is.
 
-##### Artikel 23. Missie en strategie Belastingdienst
+#### Artikel 23. Missie en strategie Belastingdienst
 
 Vervallen
 
 ### Hoofdstuk 5. Directoraat-generaal belastingdienst
 
-##### Artikel 24. Directeur-generaal Fiscale Zaken
+#### Artikel 24. Directeur-generaal Fiscale Zaken
 
 1. De directeur-generaal Fiscale Zaken is verantwoordelijk voor de beleidsterreinen van de onder hem ressorterende directies, genoemd in dit hoofdstuk, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering.
 
@@ -660,7 +634,7 @@ Vervallen
 
 4. De directeur-generaal Fiscale Zaken vervult de rol van de (coördinerend) opdrachtgever in het driehoeksmodel dat van toepassing is.
 
-##### Artikel 25. Structuur DGFZ
+#### Artikel 25. Structuur DGFZ
 
 Het directoraat-generaal voor Fiscale Zaken (DGFZ) bestaat uit de volgende organisatieonderdelen:
 
@@ -670,7 +644,7 @@ Het directoraat-generaal voor Fiscale Zaken (DGFZ) bestaat uit de volgende organ
 
 - c. de directie Directe Belastingen & Toeslagen (DB&T).
 
-##### Artikel 26. Taken DGFZ
+#### Artikel 26. Taken DGFZ
 
 Het directoraat-generaal voor Fiscale Zaken:
 
@@ -686,7 +660,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - f. treedt op als coördinerend opdrachtgever voor het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen.
 
-##### Artikel 27. De directie Algemene Fiscale Politiek
+#### Artikel 27. De directie Algemene Fiscale Politiek
 
 1. De directie Algemene Fiscale Politiek (AFP) heeft de volgende hoofdtaken:
 
@@ -766,7 +740,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - v. De coördinatie van planning & controlproducten.
 
-##### Artikel 28. De directie Verbruiksbelastingen, Douane en Internationale aangelegenheden
+#### Artikel 28. De directie Verbruiksbelastingen, Douane en Internationale aangelegenheden
 
 1. De directie Verbruiksbelastingen, Douane en Internationale aangelegenheden (VDI) heeft de volgende hoofdtaken:
 
@@ -842,7 +816,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - vi. Het optreden als coördinerend opdrachtgever van het directoraat-generaal Douane.
 
-##### Artikel 29. De Directie Directe Belastingen
+#### Artikel 29. De Directie Directe Belastingen
 
 1. De Directie Directe Belastingen & Toeslagen (DB&T) heeft de volgende hoofdtaken:
 
@@ -910,7 +884,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 ### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
 
-##### Artikel 30. Directeur-generaal Rijksbegroting
+#### Artikel 30. Directeur-generaal Rijksbegroting
 
 1. De directeur-generaal Rijksbegroting is verantwoordelijk voor de beleidsterreinen van de onder hem ressorterende directies, genoemd in dit hoofdstuk, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering.
 
@@ -918,7 +892,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 3. De directeur-generaal Rijksbegroting geeft leiding aan de onder hem ressorterende directeuren.
 
-##### Artikel 31. Structuur DGRB
+#### Artikel 31. Structuur DGRB
 
 Het directoraat-generaal van de Rijksbegroting bestaat uit de volgende organisatieonderdelen:
 
@@ -928,7 +902,7 @@ Het directoraat-generaal van de Rijksbegroting bestaat uit de volgende organisat
 
 - c. de Inspectie der Rijksfinanciën.
 
-##### Artikel 32. Taken DGRB
+#### Artikel 32. Taken DGRB
 
 Het directoraat-generaal van de Rijksbegroting:
 
@@ -942,7 +916,7 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - e. heeft een strategie- en onderzoeksfunctie op haar beleidsterrein.
 
-##### Artikel 33. Directie Begrotingszaken
+#### Artikel 33. Directie Begrotingszaken
 
 1. De Directie Begrotingszaken (BZ) heeft de volgende hoofdtaken:
 
@@ -1036,7 +1010,7 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - ii. Verzorgt ondersteuning van buitenlandse centrale overheidsinstanties op gebied van financieel management en audit.
 
-##### Artikel 34. De Inspectie der Rijksfinanciën
+#### Artikel 34. De Inspectie der Rijksfinanciën
 
 1. De Inspectie der Rijksfinanciën (IRF) heeft de volgende hoofdtaken:
 
@@ -1090,7 +1064,7 @@ Het directoraat-generaal van de Rijksbegroting:
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
-##### Artikel 35. De thesaurier-generaal
+#### Artikel 35. De thesaurier-generaal
 
 1. De thesaurier-generaal is verantwoordelijk voor de beleidsterreinen van de onder hem ressorterende directies, genoemd in dit hoofdstuk, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering.
 
@@ -1098,7 +1072,7 @@ Het directoraat-generaal van de Rijksbegroting:
 
 3. De thesaurier-generaal geeft leiding aan de onder hem ressorterende directeuren.
 
-##### Artikel 36. Structuur GT
+#### Artikel 36. Structuur GT
 
 De Generale Thesaurie bestaat uit de volgende organisatieonderdelen:
 
@@ -1112,7 +1086,7 @@ De Generale Thesaurie bestaat uit de volgende organisatieonderdelen:
 
 - e. de programmadirectie Herstel- en Veerkrachtplan.
 
-##### Artikel 37. Taken GT
+#### Artikel 37. Taken GT
 
 De Generale Thesaurie:
 
@@ -1128,7 +1102,7 @@ De Generale Thesaurie:
 
 - f. heeft een strategie- en onderzoeksfunctie op zijn beleidsterrein.
 
-##### Artikel 38. Directie Financiële Markten
+#### Artikel 38. Directie Financiële Markten
 
 1. De directie Financiële Markten (FM) kent de volgende operationele doelstellingen:
 
@@ -1194,7 +1168,7 @@ De Generale Thesaurie:
 
 - iv. Missing markets/overheidscoördinatie (nucleaire aansprakelijkheid, motorrijtuigen, terrorismeverzekeringen, collectieve sector).
 
-##### Artikel 39. Het Agentschap van de Generale Thesaurie
+#### Artikel 39. Het Agentschap van de Generale Thesaurie
 
 1. Het Agentschap van de Generale Thesaurie heeft de volgende hoofdtaken:
 
@@ -1286,7 +1260,7 @@ De Generale Thesaurie:
 
 - x. Is verantwoordelijk voor het data- en informatiemanagement van het Agentschap.
 
-##### Artikel 40. Directie Buitenlandse Financiële Betrekkingen
+#### Artikel 40. Directie Buitenlandse Financiële Betrekkingen
 
 1. De Directie Buitenlandse Financiële Betrekkingen (BFB) heeft de volgende hoofdtaken:
 
@@ -1326,7 +1300,7 @@ De Generale Thesaurie:
 
 - iii. Voorbereiden van het Nederlandse beleid ten aanzien van ontwikkelingsbanken en -fondsen EBRD en EIB en financiële aspecten ontwikkelingssamenwerking.
 
-##### Artikel 41. Directie Deelnemingen
+#### Artikel 41. Directie Deelnemingen
 
 1. De Directie Deelnemingen heeft de volgende doelstellingen:
 
@@ -1356,11 +1330,11 @@ De Generale Thesaurie:
 
 ### Hoofdstuk 8. Generale thesaurie
 
-##### Artikel 42. Planning en control
+#### Artikel 42. Planning en control
 
 De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tussentijds, gestructureerd verantwoording af over de uitvoering van aan hen opgelegde taken en het gebruik van daarbij verleende bevoegdheden.
 
-##### Artikel 43. Planning en managementrapportages
+#### Artikel 43. Planning en managementrapportages
 
 1. De DG’s stellen ieder jaar een jaarplan op en bespreken dit met de SG. In het jaarplan worden beleidsdoelstellingen opgenomen, alsmede een risicoanalyse, voorgenomen activiteiten en budgetten.
 
@@ -1372,7 +1346,7 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 5. De SG stelt na afloop van ieder jaar een samenvattende managementverklaring (bedrijfsvoeringsparagraaf) op en brengt deze ter kennis van de minister.
 
-##### Artikel 44. Control
+#### Artikel 44. Control
 
 1. De directeur Financieel-Economische Zaken (FEZ) ondersteunt in de vorm van toezicht en advies de SG, de DG’s, de IG en de BBT bij hun overkoepelende verantwoordelijkheid voor beleidsterreinen en bijbehorende bedrijfsvoering.
 
@@ -1380,7 +1354,7 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 3. De verantwoordelijkheden en bevoegdheden van de directeur FEZ zijn vastgelegd in het [Besluit taak FEZ](https://wetten.overheid.nl/jci1.3:c:BWBR0005333).
 
-##### Artikel 45. Audit
+#### Artikel 45. Audit
 
 1. De directeur Auditdienst Rijk (ADR), respectievelijk de certificerend accountant van de ministeries, verschaft zekerheid over de rechtmatigheid van verplichtingen, de uitgaven en de ontvangsten van de aangesloten ministeries. Hij voert de accountantscontrole uit op de jaarverslagen van deze ministeries. Hij informeert de algemene leiding, de bewindspersonen en het Audit Committee over de uitkomsten van deze werkzaamheden.
 
@@ -1388,7 +1362,7 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 3. De verantwoordelijkheden en bevoegdheden van de directeur ADR zijn vastgelegd in het Besluit taak DAD.
 
-##### Artikel 46. Audit Committee
+#### Artikel 46. Audit Committee
 
 1. Er is een Audit Committee.
 
@@ -1398,13 +1372,13 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 ### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
-##### Artikel 47. Aanpassing organisatie
+#### Artikel 47. Aanpassing organisatie
 
 1. Een voornemen tot aanpassing van de organisatie zoals deze is weergegeven in dit besluit, wordt genomen door de secretaris-generaal, gehoord de bestuursraad.
 
 2. De directeur CDMO adviseert de secretaris-generaal alvorens een beslissing omtrent instemming wordt genomen.
 
-##### Artikel 48. Organisatie- en formatierapport
+#### Artikel 48. Organisatie- en formatierapport
 
 1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2026-04-03&g=2026-04-03) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
@@ -1418,25 +1392,25 @@ De SG, de DG’s, de IG en de BBT leggen, aan het eind van het verslagjaar en tu
 
 ### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
-##### Artikel 49. Vaste verandermomenten
+#### Artikel 49. Vaste verandermomenten
 
 Wijzigingen van dit besluit treden in werking per 1 januari, 1 april, 1 juli of 1 oktober, behoudens spoedeisende gevallen.
 
-##### Artikel 50. Intrekking andere regelingen
+#### Artikel 50. Intrekking andere regelingen
 
 De volgende regelingen worden ingetrokken: [Organisatie- en mandaatbesluit Ministerie van Financiën 2015 en bijlagen 1a, 1b, 1c, 1d, 1e, 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037135) en het [Besluit d.d. 15 februari 2019 (2019-25152 M) betreffende de vervangingsregeling van de secretaris-generaal van het Ministerie van Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0041938).
 
-##### Artikel 51. Inwerkingtreding
+#### Artikel 51. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst.
 
-##### Artikel 52. Citeertitel
+#### Artikel 52. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatiebesluit Ministerie van Financiën 2020.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 23a. Directeur-generaal Toeslagen
+#### Artikel 23a. Directeur-generaal Toeslagen
 
 1. De directeur-generaal Toeslagen is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 7 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7).
 
@@ -1446,7 +1420,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
-##### Artikel 23b. Directeur-generaal Douane
+#### Artikel 23b. Directeur-generaal Douane
 
 1. De directeur-generaal Douane is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 9 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9).
 
@@ -1468,7 +1442,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 19a. Tijdelijke programmadirectie Informatie op Orde (IOO)
+#### Artikel 19a. Tijdelijke programmadirectie Informatie op Orde (IOO)
 
 1. De (tijdelijke) programmadirectie Informatie op Orde heeft de volgende taken:
 
@@ -1512,7 +1486,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 41a. Structuur IBTD
+#### Artikel 41a. Structuur IBTD
 
 1. De IBTD staat onder leiding van de inspecteur-generaal belastingen, toeslagen en douane (IG).
 
@@ -1522,7 +1496,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De IG stelt de organisatie van de IBTD nader vast in een organisatiebesluit.
 
-##### Artikel 41b. Taken IBTD
+#### Artikel 41b. Taken IBTD
 
 De IBTD heeft de volgende taken:
 
@@ -1532,7 +1506,7 @@ De IBTD heeft de volgende taken:
 
 - c. het delen van bevindingen en adviezen met de bewindspersonen over onderwerpen die hen aangaan, voor zover het het werkterrein van de IBTD betreft.
 
-##### Artikel 41c. Nadere regeling
+#### Artikel 41c. Nadere regeling
 
 De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van de IBTD.
 
@@ -1542,7 +1516,7 @@ De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van d
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 41.0a. Programmadirectie Herstel- en Veerkrachtplan
+#### Artikel 41.0a. Programmadirectie Herstel- en Veerkrachtplan
 
 De programmadirectie Herstel- en Veerkrachtplan heeft de volgende taken:
 
@@ -1564,7 +1538,7 @@ De programmadirectie Herstel- en Veerkrachtplan heeft de volgende taken:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 32a. Bureau Directeur-Generaal
+#### Artikel 32a. Bureau Directeur-Generaal
 
 1. Het Bureau Directeur-Generaal (BDG) staat onder leiding van de DG-secretaris.
 
@@ -1586,7 +1560,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 19b. Concerndirectie Informatievoorziening en Openbaarmaking (CDIO)
+#### Artikel 19b. Concerndirectie Informatievoorziening en Openbaarmaking (CDIO)
 
 1. De concerndirectie Informatievoorziening en Openbaarmaking heeft de volgende taken:
 
@@ -1628,7 +1602,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 19c. Concerndirectie Mens en Organisatie (CDMO)
+#### Artikel 19c. Concerndirectie Mens en Organisatie (CDMO)
 
 1. De concerndirectie Mens en Organisatie heeft de volgende taken:
 
@@ -1670,7 +1644,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 41d. Structuur bureau BBT
+#### Artikel 41d. Structuur bureau BBT
 
 1. Het bureau BBT staat onder leiding van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden (BBT).
 
@@ -1684,7 +1658,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Het bureau BBT ressorteert rechtstreeks onder de SG. De BBT kan over algemene bevindingen rechtstreeks rapporteren aan de bewindspersoon.
 
-##### Artikel 41e. Taken bureau BBT
+#### Artikel 41e. Taken bureau BBT
 
 Het bureau BBT heeft de volgende taken:
 
@@ -1694,7 +1668,7 @@ Het bureau BBT heeft de volgende taken:
 
 - c. het verzamelen van algemene signalen over aangedragen individuele casuïstiek en het delen van die signalen met de bewindspersoon, de IBTD en met een of beide Kamers der Staten-Generaal.
 
-##### Artikel 41f. Nadere regeling
+#### Artikel 41f. Nadere regeling
 
 De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van de BBT en het bureau BBT.
 
@@ -1704,7 +1678,7 @@ De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van d
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 41g. Algemeen
+#### Artikel 41g. Algemeen
 
 1. Rechtstreeks onder de SG ressorteert de volgende regeringscommissaris:
 
@@ -1718,7 +1692,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Een regeringscommissaris rapporteert over zijn bevindingen, oordelen, adviezen en andere relevante gegevens rechtstreeks aan de verantwoordelijke bewindspersoon van het Ministerie van Financiën.
 
-##### Artikel 41h. Taakuitoefening door regeringscommissarissen
+#### Artikel 41h. Taakuitoefening door regeringscommissarissen
 
 Bij besluit van de verantwoordelijke bewindspersoon van het Ministerie van Financiën kunnen aanvullende regels worden gesteld over de taakuitoefening van een regeringscommissaris die het betreft.
 
@@ -1726,7 +1700,7 @@ Bij besluit van de verantwoordelijke bewindspersoon van het Ministerie van Finan
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 21a. Dienst Financieel-Economische Integriteit (DFEI)
+#### Artikel 21a. Dienst Financieel-Economische Integriteit (DFEI)
 
 1. De Dienst Financieel-Economische Integriteit heeft de volgende hoofdtaken:
 

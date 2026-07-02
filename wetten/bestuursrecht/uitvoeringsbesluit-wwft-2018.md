@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 17 juli 2018, houdende nadere regels met betrekking tot uiteindelijk belanghebbenden en politiek prominente personen, het vaststellen van indicatoren voor het melden van ongebruikelijke transacties en tot wijziging van enige andere besluiten in verband met de implementatie van de vierde anti-witwasrichtlijn en de verordening betreffende bij geldovermakingen te voegen informatie (Uitvoeringsbesluit Wwft 2018)"
+title: "Uitvoeringsbesluit Wwft 2018"
 identifier: "BWBR0041193"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-02-04"
-last_updated: "2025-02-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041193"
-soort: "AMvB"
-stam_id: "14687423"
-version_id: "26722792"
-internal_id: "C37878701"
-label_id: "14639934"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041193/2025-02-04/0"
-intitule_bron: "Stb.2018-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-07-17"
-intitule_published: "2018-07-24"
-intitule_in_force: "2018-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2020-147"
-original_signed_date: "2020-05-11"
-original_published_date: "2020-05-20"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2020-147"
-entry_into_force_date: "2020-05-21"
-jci_1_3: "jci1.3:c:BWBR0041193&z=2025-02-04&g=2025-02-04"
-jci_1_0: "1.0:c:BWBR0041193&g=2025-02-04"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Wwft 2018"
-signed_date: "2020-05-11"
-entry_into_force: "2020-05-21"
+categorie: "Overig"
+publicatiedatum: 2026-04-30
+laatste_update: 2026-05-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0041193"
 ---
+
 # Besluit van 17 juli 2018, houdende nadere regels met betrekking tot uiteindelijk belanghebbenden en politiek prominente personen, het vaststellen van indicatoren voor het melden van ongebruikelijke transacties en tot wijziging van enige andere besluiten in verband met de implementatie van de vierde anti-witwasrichtlijn en de verordening betreffende bij geldovermakingen te voegen informatie (Uitvoeringsbesluit Wwft 2018)
 
 Op de voordracht van Onze Minister van Financiën van 31 mei 2018, 2018-0000071536, directie Financiële Markten, gedaan mede namens Onze Minister van Justitie en Veiligheid;
@@ -108,55 +82,55 @@ In dit besluit wordt verstaan onder:
 
 - a. in het geval van een besloten vennootschap met beperkte aansprakelijkheid of een naamloze vennootschap, niet zijnde een vennootschap die als uitgevende instelling is onderworpen aan openbaarmakingsvereisten als bedoeld in de richtlijn transparantie, dan wel aan vergelijkbare internationale standaarden, met inbegrip van een 100 procent dochtermaatschappij van een dergelijke vennootschap:
 
-- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de vennootschap, via:
+  - 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de vennootschap, via:
 
-- –. het direct of indirect houden van meer dan 25 procent van de aandelen, van de stemrechten of van het eigendomsbelang in de vennootschap, met inbegrip van het houden van toonderaandelen; of
+    - –. het direct of indirect houden van meer dan 25 procent van de aandelen, van de stemrechten of van het eigendomsbelang in de vennootschap, met inbegrip van het houden van toonderaandelen; of
 
-- –. andere middelen, waaronder de voorwaarden voor consolidatie van een jaarrekening, bedoeld in [artikel 406](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=406), in samenhang met de [artikelen 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) en [24d, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24d); of
+    - –. andere middelen, waaronder de voorwaarden voor consolidatie van een jaarrekening, bedoeld in [artikel 406](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=406), in samenhang met de [artikelen 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) en [24d, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24d); of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de vennootschap;
+  - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de vennootschap;
 
 - b. in het geval van een kerkgenootschap als bedoeld in [artikel 2 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2):
 
-- 1°. natuurlijke personen die bij ontbinding van het kerkgenootschap als rechtsopvolger in het statuut van het kerkgenootschap zijn benoemd; of
+  - 1°. natuurlijke personen die bij ontbinding van het kerkgenootschap als rechtsopvolger in het statuut van het kerkgenootschap zijn benoemd; of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke personen die als bestuurder staan vermeld in het eigen statuut, of zo mogelijk als bestuurder staan genoemd in de documenten van de kerkelijke organisatie;
+  - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke personen die als bestuurder staan vermeld in het eigen statuut, of zo mogelijk als bestuurder staan genoemd in de documenten van de kerkelijke organisatie;
 
 - c. in het geval van een overige rechtspersoon:
 
-- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de rechtspersoon, via:
+  - 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de rechtspersoon, via:
 
-- –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de rechtspersoon;
+    - –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de rechtspersoon;
 
-- –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de statuten van de rechtspersoon; of
+    - –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de statuten van de rechtspersoon; of
 
-- –. het kunnen uitoefenen van feitelijk zeggenschap over de rechtspersoon; of
+    - –. het kunnen uitoefenen van feitelijk zeggenschap over de rechtspersoon; of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de rechtspersoon;
+  - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de rechtspersoon;
 
 - d. in het geval van een personenvennootschap:
 
-- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de personenvennootschap via:
+  - 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de personenvennootschap via:
 
-- –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de personenvennootschap;
+    - –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de personenvennootschap;
 
-- –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de overeenkomst die ten grondslag ligt aan de personenvennootschap, of ter zake van de uitvoering van die overeenkomst anders dan door daden van beheer, voor zover in die overeenkomst besluitvorming bij meerderheid van stemmen is voorgeschreven; of
+    - –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de overeenkomst die ten grondslag ligt aan de personenvennootschap, of ter zake van de uitvoering van die overeenkomst anders dan door daden van beheer, voor zover in die overeenkomst besluitvorming bij meerderheid van stemmen is voorgeschreven; of
 
-- –. het kunnen uitoefenen van feitelijke zeggenschap over de personenvennootschap; of
+    - –. het kunnen uitoefenen van feitelijke zeggenschap over de personenvennootschap; of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de personenvennootschap;
+  - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de personenvennootschap;
 
 - e. in het geval van een trust, de volgende natuurlijke personen:
 
-- 1°. de oprichter of oprichters;
+  - 1°. de oprichter of oprichters;
 
-- 2°. de trustee of trustees;
+  - 2°. de trustee of trustees;
 
-- 3°. voor zover van toepassing, de protector of protectors;
+  - 3°. voor zover van toepassing, de protector of protectors;
 
-- 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald dan wel het vijfde lid, tweede volzin van toepassing is, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
+  - 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald dan wel het vijfde lid, tweede volzin van toepassing is, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
 
-- 5°. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere middelen uiteindelijke zeggenschap over de trust uitoefent.
+  - 5°. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere middelen uiteindelijke zeggenschap over de trust uitoefent.
 
 2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op Europese naamloze vennootschappen en Europese coöperatieve vennootschappen, alsmede op andere juridische entiteiten vergelijkbaar met een besloten vennootschap met beperkte aansprakelijkheid of een naamloze vennootschap.
 
@@ -172,7 +146,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2025-02-04&g=2025-02-04) bij dit besluit.
+1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2026-04-30&g=2026-04-30) bij dit besluit.
 
 2. Voor bijkantoren in Nederland van een bank of andere financiële onderneming met zetel buiten Nederland als bedoeld in [artikel 1a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), gelden de indicatoren die van toepassing zijn voor een bank of het type financiële onderneming waarvan het bijkantoor deel uitmaakt.
 
@@ -307,14 +281,13 @@ Het ligt in de rede dat transacties die in verband met witwassen of financieren 
 | Trustkantoor ([artikel 1a, vierde lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie voor een bedrag van € 10.000,– of meer, betaald aan of door tussenkomst van de instelling in contanten, met cheques aan toonder, een vooraf betaald betaalinstrument (prepaid card) of soortgelijke betaalmiddelen. |
 | Persoon die beroeps- of bedrijfmatig een adres of postadres ter beschikking stelt ([artikel 1a, vierde lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. |
 | Tussenpersoon, voor zover deze bemiddelt bij het tot stand brengen en het sluiten van overeenkomsten inzake onroerende zaken of rechten waaraan onroerende zaken zijn onderworpen ([artikel 1a, vierde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie voor een bedrag van € 10.000,– of meer, betaald aan of door tussenkomst van de instelling in contanten, met cheques aan toonder, een vooraf betaald betaalinstrument (prepaid card) of soortgelijke betaalmiddelen. |
-| Natuurlijke personen, rechtspersonen of vennootschappen die beroeps- of bedrijfsmatig bemiddelen inzake koop en verkoop van voertuigen, schepen, kunstvoorwerpen, antiquiteiten, edelstenen, edele metalen, sieraden of juwelen ([artikel 1a, vierde lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie waarbij een of meerdere voertuigen, schepen, kunstvoorwerpen, antiquiteiten, edelstenen, edele metalen, sieraden of juwelen verkocht worden tegen geheel of gedeeltelijke contante betaling, waarbij het contant te betalen bedrag € 20.000,– of meer bedraagt. |
-| Beroeps- of bedrijfsmatig handelende koper of verkoper van goederen, voor zover betaling van deze goederen in contanten plaatsvindt voor een bedrag van € 10.000 of meer ([artikel 1a, vierde lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie waarbij tegen geheel of gedeeltelijke contante betaling een of meerdere voertuigen, schepen, antiquiteiten, edelstenen, edele metalen, sieraden of juwelen gekocht of verkocht worden, waarbij het contant te betalen bedrag € 20.000,- of meer bedraagt. |
+| Natuurlijke personen, rechtspersonen of vennootschappen die beroeps- of bedrijfsmatig bemiddelen inzake koop en verkoop van voertuigen, schepen, kunstvoorwerpen, antiquiteiten, edelstenen, edele metalen, sieraden of juwelen ([artikel 1a, vierde lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. |
 | Speelcasino ([artikel 1a, vierde lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Het in depot nemen van munten, bankbiljetten of andere waarden voor een bedrag van € 10.000,– of meer. Een girale betalingstransactie voor een bedrag van € 15.000,– of meer. Een transactie voor een bedrag van € 10.000,– of meer, betaald aan of door tussenkomst van de instelling in contanten, met cheques, een vooraf betaald betaalinstrument (prepaid card) of buitenlandse valuta. |
 | Kansspelen op afstand ([artikel 1a, vierde lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een girale betalingstransactie voor een bedrag van € 15.000,- of meer. |
 | Aanbieders van kansspelen, anders dan een speelcasino of kansspelen op afstand ([artikel 1a, vierde lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. |
-| Taxateur ([artikel 1a, vierde lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie voor een bedrag van € 10.000,– of meer, betaald aan of door tussenkomst van de instelling in contanten, met cheques, een vooraf betaald betaalinstrument (prepaid card) of buitenlandse valuta. |
-| Pandhuis ([artikel 1a, vierde lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie waarbij een goed of goederen in de macht van het pandhuis gebracht worden, waarbij het door het pandhuis daarvoor ter beschikking gestelde bedrag € 20.000,– of meer bedraagt. |
-| Kopers en verkopers van kunstvoorwerpen ([artikel 1a, vierde lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie waarbij tegen geheel of gedeeltelijke contante betaling één of meer kunstvoorwerpen gekocht of verkocht worden, waarbij het contant te betalen bedrag € 20.000,- of meer bedraagt. |
+| Taxateur ([artikel 1a, vierde lid, onderdeel m, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. Een transactie voor een bedrag van € 10.000,– of meer, betaald aan of door tussenkomst van de instelling in contanten, met cheques, een vooraf betaald betaalinstrument (prepaid card) of buitenlandse valuta. |
+| Pandhuis ([artikel 1a, vierde lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. |
+| Kopers en verkopers van kunstvoorwerpen ([artikel 1a, vierde lid, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a)) | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme. |
 | Aanbieders van cryptoactivadiensten als bedoeld in artikel 3, eerste lid, onderdeel 16, sub a, b en d tot en met j, van [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen financieren van terrorisme. |
 | Aanbieders van wisseldiensten als bedoeld in artikel 3, eerste lid, onderdeel 16, sub c, van [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 | Een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen financieren van terrorisme. Een transactie van een bedrag van € 10.000,– of meer waarbij een omwisseling plaatsvindt tussen virtuele valuta en contante fiduciaire valuta. |
 

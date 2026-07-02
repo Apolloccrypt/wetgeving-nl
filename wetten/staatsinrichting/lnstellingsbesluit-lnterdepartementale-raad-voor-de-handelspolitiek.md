@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 juni 2022, kenmerk Min-BuZa.2022.11939-7, tot heroprichting van de lnterdepartementale Raad voor de Handelspolitiek"
+title: "lnstellingsbesluit lnterdepartementale Raad voor de Handelspolitiek"
 identifier: "BWBR0046773"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-06-22"
-last_updated: "2022-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046773"
-soort: "ministeriele-regeling"
-stam_id: "16383863"
-version_id: "28692112"
-internal_id: "C40485821"
-label_id: "16308414"
-dtd_version: "2.0"
-original_entry_into_force: "2022-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046773/2022-06-22/0"
-intitule_bron: "Stcrt.2022-16113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-13"
-intitule_published: "2022-06-21"
-intitule_in_force: "2022-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16113"
-original_signed_date: "2022-06-13"
-original_published_date: "2022-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16113"
-entry_into_force_date: "2022-06-22"
-jci_1_3: "jci1.3:c:BWBR0046773&z=2022-06-22&g=2022-06-22"
-jci_1_0: "1.0:c:BWBR0046773&g=2022-06-22"
-citeertitel_status: "officieel"
-short_title: "lnstellingsbesluit lnterdepartementale Raad voor de Handelspolitiek"
-signed_date: "2022-06-13"
-entry_into_force: "2022-06-22"
+categorie: "Overig"
+publicatiedatum: 2026-05-30
+laatste_update: 2026-05-30
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046773"
 ---
+
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 juni 2022, kenmerk Min-BuZa.2022.11939-7, tot heroprichting van de lnterdepartementale Raad voor de Handelspolitiek
 
 Handelend in overeenstemming met de Ministers van Buitenlandse Zaken, van Algemene Zaken, van Financiën, van Economische Zaken en Klimaat, van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, van Landbouw, Natuur en Voedselkwaliteit, van Welzijn en Sport en van lnfrastructuur en Waterstaat;
@@ -90,7 +64,7 @@ Er is een lnterdepartementale Raad voor de Handelspolitiek, hierna te noemen: IR
 
 ##### Artikel 4
 
-1. Afhankelijk van de te behandelen onderwerpen kan de voorzitter van de IRHP vertegenwoordigers van andere dan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=3&z=2022-06-22&g=2022-06-22) genoemde ministeries, dan wel van andere dan de in artikel 3 genoemde dienstonderdelen, uitnodigen om deel te nemen aan de beraadslagingen.
+1. Afhankelijk van de te behandelen onderwerpen kan de voorzitter van de IRHP vertegenwoordigers van andere dan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=3&z=2026-05-30&g=2026-05-30) genoemde ministeries, dan wel van andere dan de in artikel 3 genoemde dienstonderdelen, uitnodigen om deel te nemen aan de beraadslagingen.
 
 2. Indien de IRHP aangelegenheden bespreekt die mede van belang zijn voor Aruba, Curaçao en Sint-Maarten en die aan de Rijksministerraad moeten worden voorgelegd, nodigt de voorzitter ook vertegenwoordigers van de gevolmachtigde Ministers van Aruba, Curaçao en Sint-Maarten uit deel te nemen aan de beraadslagingen.
 
@@ -100,7 +74,7 @@ De voorzitter kan voor de behandeling van bepaalde onderwerpen werkgroepen inste
 
 ##### Artikel 6
 
-De voorzitter kan regels stellen omtrent de werkwijze van de IRHP en van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=5&z=2022-06-22&g=2022-06-22) bedoelde werkgroepen.
+De voorzitter kan regels stellen omtrent de werkwijze van de IRHP en van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=5&z=2026-05-30&g=2026-05-30) bedoelde werkgroepen.
 
 ##### Artikel 7
 
@@ -114,6 +88,6 @@ Dit besluit wordt aangehaald als: lnstellingsbesluit lnterdepartementale Raad vo
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2022. Het besluit vervalt met ingang van 1 juni 2026.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2022. Dit besluit vervalt met ingang van 1 juni 2030.
 
 Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.

@@ -1,35 +1,13 @@
 ---
 title: "Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP)"
 identifier: "BWBV0004371"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-06-22"
-last_updated: "2024-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004371"
-soort: "verdrag"
-stam_id: "10004085793"
-version_id: "10004255052"
-internal_id: "C10006999231"
-label_id: "10004070924"
-dtd_version: "2.0"
-original_entry_into_force: "1979-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004371/2024-06-22/0"
-intitule_bron: "Trb.1972-112"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1972-10-11"
-intitule_in_force: "1979-06-21"
-intitule_status: "goed"
-original_publication: "Trb.1972-112"
-original_published_date: "1972-10-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1972-112"
-entry_into_force_date: "1979-11-30"
-jci_1_3: "jci1.3:c:BWBV0004371&z=2024-06-22&g=2024-06-22"
-jci_1_0: "1.0:c:BWBV0004371&g=2024-06-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-11-30"
+categorie: "Overig"
+publicatiedatum: 2024-06-22
+laatste_update: 2026-05-30
+status: geldig
+bron: "https://wetten.overheid.nl/BWBV0004371"
 ---
+
 # Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP)
 
 De Overeenkomstsluitende Partijen,
@@ -202,9 +180,9 @@ Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijk
 
 - (b). indien ten minste één Overeenkomstsluitende Partij de Secretaris-Generaal, overeenkomstig het bepaalde in het tweede lid, letter **b**, van dit artikel, een kennisgeving heeft gezonden, op één van de twee volgende data, en wel die datum welke het eerst valt:
 
-- -. de datum waarop alle Overeenkomstsluitende Partijen die een dergelijke kennisgeving hebben ingezonden de Secretaris-Generaal van hun aanvaarding van het voorstel in kennis hebben gesteld, met dien verstande dat, indien alle kennisgevingen van aanvaarding worden ingezonden vóór het verstrijken van de in het tweede lid van dit artikel genoemde termijn van zes maanden, deze datum zal worden aangemerkt als de datum waarop de bedoelde termijn van zes maanden verstrijkt;
+  - -. de datum waarop alle Overeenkomstsluitende Partijen die een dergelijke kennisgeving hebben ingezonden de Secretaris-Generaal van hun aanvaarding van het voorstel in kennis hebben gesteld, met dien verstande dat, indien alle kennisgevingen van aanvaarding worden ingezonden vóór het verstrijken van de in het tweede lid van dit artikel genoemde termijn van zes maanden, deze datum zal worden aangemerkt als de datum waarop de bedoelde termijn van zes maanden verstrijkt;
 
-- -. de datum waarop de in het derde lid van dit artikel genoemde termijn van negen maanden verstrijkt.
+  - -. de datum waarop de in het derde lid van dit artikel genoemde termijn van negen maanden verstrijkt.
 
 6. Een als aanvaard geachte wijziging wordt zes maanden na de datum waarop zij werd geacht te zijn aanvaard van kracht.
 

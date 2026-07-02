@@ -1,39 +1,13 @@
 ---
-title: "Beleidsregel van De Nederlandsche Bank N.V. van 21 maart 2019 tot toepassing van richtsnoeren van de Europese toezichthoudende autoriteiten in verband met het prudentieel toezicht en de afwikkelingstaak bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren Europese toezichthoudende autoriteiten Wft 2019)"
+title: "Beleidsregel toepassing Europese toezichthoudende autoriteiten Wft 2019"
 identifier: "BWBR0042098"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-04-06"
-last_updated: "2019-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042098"
-soort: "zbo"
-stam_id: "15048823"
-version_id: "25786462"
-internal_id: "C36766481"
-label_id: "14998174"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042098/2019-04-06/0"
-intitule_bron: "Stcrt.2019-18510"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-03-21"
-intitule_published: "2019-04-05"
-intitule_in_force: "2019-04-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-18510"
-original_signed_date: "2019-03-21"
-original_published_date: "2019-04-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-18510"
-entry_into_force_date: "2019-04-06"
-jci_1_3: "jci1.3:c:BWBR0042098&z=2019-04-06&g=2019-04-06"
-jci_1_0: "1.0:c:BWBR0042098&g=2019-04-06"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel toepassing Europese toezichthoudende autoriteiten Wft 2019"
-signed_date: "2019-03-21"
-entry_into_force: "2019-04-06"
+categorie: "Overig"
+publicatiedatum: 2019-04-06
+laatste_update: 2026-05-16
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0042098"
 ---
+
 # Beleidsregel van De Nederlandsche Bank N.V. van 21 maart 2019 tot toepassing van richtsnoeren van de Europese toezichthoudende autoriteiten in verband met het prudentieel toezicht en de afwikkelingstaak bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren Europese toezichthoudende autoriteiten Wft 2019)
 
 Gelet op [artikel 1:29a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:29a) (Wft) en [artikel 6 van de Uitvoeringsregeling Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&artikel=6);

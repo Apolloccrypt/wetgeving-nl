@@ -1,40 +1,14 @@
 ---
-title: "Wet van 22 juni 1950, houdende vaststelling van regelen voor de opsporing, de vervolging en de berechting van economische delicten"
+title: "Wet op de economische delicten"
 identifier: "BWBR0002063"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002063"
-soort: "wet"
-stam_id: "2680753"
-version_id: "22957592"
-internal_id: "C33189531"
-label_id: "2626304"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002063/2026-01-01/0"
-intitule_bron: "Stb.1950-K 258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1950-06-22"
-intitule_status: "goed"
-original_publication: "Stb.2015-521"
-original_signed_date: "2015-12-09"
-original_published_date: "2015-12-21"
-original_effect: "structuurwijziging"
-original_dossier: "33872"
-original_url_id: "stb-2015-521"
-entry_into_force_date: "2015-12-09"
-entry_into_force_dossier: "33872"
-jci_1_3: "jci1.3:c:BWBR0002063&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0002063&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de economische delicten"
-signed_date: "2015-12-09"
-entry_into_force: "2015-12-09"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-04-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0002063"
 ---
-# Wet van 22 juni 1950, houdende vaststelling van regelen voor de opsporing, de vervolging en de berechting van economische delicten
+
+# Wet op de economische delicten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -44,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel I. Van de economische delicten
 
-##### Artikel 1
+#### Artikel 1
 
 Economische delicten zijn:
 
@@ -58,7 +32,7 @@ Economische delicten zijn:
 
 - 5°. de delicten, genoemd in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=III&artikel=26&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=V&artikel=33&z=2026-01-01&g=2026-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=V&artikel=34&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 1a
+#### Artikel 1a
 
 Economische delicten zijn eveneens:
 
@@ -68,7 +42,7 @@ Economische delicten zijn eveneens:
 
 - 3°. overtredingen van voorschriften, gesteld bij of krachtens: de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402), de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=4), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=36), en – voor zover aangeduid als strafbare feiten – [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=73); de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=5a), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=6), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9), [11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=16), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=37), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=38), en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=40); de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.38), [2.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.40), [4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1), in overige gevallen dan bedoeld onder 1°, [4.3, eerste lid, aanhef en onder g, k en p, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), met uitzondering van voorschriften als bedoeld in artikel 4.3, eerste lid, aanhef en onder k, in samenhang met [artikel 4.31, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.31), [5.1, eerste lid, aanhef en onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.3), in overige gevallen dan bedoeld onder categorie 1°, [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4), in overige gevallen dan bedoeld onder categorie 1°, [5.5, derde lid, vierde lid, aanhef en onder b, en vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5), [5.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.37), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=8.5), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.2), [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.3), [10.6 tot en met 10.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.10), [10.10c tot en met 10.10h](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.10c), [10.10j](onbekend), [10.13 tot en met 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.13), [10.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.16), [10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.17), [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.18), [10.19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.19), [10.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.19a), [10.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.21), [10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.24), [10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.25), [10.27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.27), [20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.3) en [20.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6); de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), de [artikelen 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=3) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=3a), voor zover de overtreding van die voorschriften in de EU- verordening ter uitvoering waarvan zij strekken niet als ernstige inbreuk wordt aangemerkt, [4, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=4), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=7), voor zover wordt gevist met meer dan twee hengels of de peur, [9, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=9), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=16) en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), voor zover wordt gevist met de hengel of de peur, dan wel overtreding van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=7), en [21, tweede lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21) verleende schriftelijke toestemmingen en huurovereenkomsten; de [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449), de [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=19), en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=33); de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250), [artikelen 2.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.18a), [3.3 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3), al dan niet in samenhang met [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), of [artikel 7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5); de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670): de [artikelen 20, tweede en derde, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=20), [28, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=29), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=45), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=73), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=77), [78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=78), en [115](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=115); de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), de [artikelen 6.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.60), [6.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.61), [6.61a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.61a), en [6.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.62); de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), de [artikelen 10.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) – voor zover aangeduid als strafbare feiten – , [10.60, zesde lid, onder a en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.60), in verbinding met onderdeel a, en zevende lid, onder a, onder b, in verbinding met onderdeel a, en onder c en [15.53](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.53); de [Wet van 13 mei 1993, Stb. 283, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen)](https://wetten.overheid.nl/jci1.3:c:BWBR0005986), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0005986&artikel=VII), voor zover het betreft gemeentelijke verordeningen, vastgesteld krachtens artikel 2 van de Afvalstoffenwet; de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606): de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=47) en [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=48); de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642), [artikel 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12).
 
-##### Artikel 2
+#### Artikel 2
 
 1. De economische delicten, bedoeld in [artikel 1, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01), en [artikel 1**a**, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1a&z=2026-01-01&g=2026-01-01), zijn misdrijven, voor zover zij opzettelijk zijn begaan; voor zover deze economische delicten geen misdrijven zijn, zijn zij overtredingen.
 
@@ -80,21 +54,21 @@ Economische delicten zijn eveneens:
 
 5. De economische delicten, bedoeld in [artikel 1, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01), zijn misdrijven.
 
-##### Artikel 3
+#### Artikel 3
 
 Deelneming aan een binnen het Rijk in Europa gepleegd economisch delict is strafbaar ook indien de deelnemer zich buiten het Rijk aan het feit heeft schuldig gemaakt.
 
-##### Artikel 4
+#### Artikel 4
 
 Waar in deze wet in het algemeen of in het bijzonder wordt gesproken van een economisch delict, dat een misdrijf oplevert, wordt medeplichtigheid aan en poging tot zodanig delict daaronder begrepen, voor zover niet uit enige bepaling het tegendeel volgt.
 
 ## Titel II. Van de straffen en maatregelen
 
-##### Artikel 5
+#### Artikel 5
 
 Tenzij bij de wet anders is bepaald, kunnen ter zake van economische delicten geen andere voorzieningen met de strekking van straf of tuchtmaatregel worden getroffen dan de straffen en maatregelen, overeenkomstig deze wet op te leggen.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Hij, die een economisch delict begaat, wordt gestraft:
 
@@ -116,7 +90,7 @@ Indien de waarde der goederen, waarmede of met betrekking tot welke het economis
 
 4. In afwijking van het bepaalde in het eerste lid wordt hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=2) en [3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3), [artikel 3, eerste lid, van de Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=3), dan wel de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3) en [4 van de Uitvoeringswet verdrag biologische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4), gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien het feit opzettelijk is begaan met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83a), dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in [artikel 83 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) voor te bereiden of gemakkelijk te maken.
 
-##### Artikel 7
+#### Artikel 7
 
 De bijkomende straffen zijn:
 
@@ -134,7 +108,7 @@ De bijkomende straffen zijn:
 
 - g. openbaarmaking van de rechterlijke uitspraak.
 
-##### Artikel 8
+#### Artikel 8
 
 Maatregelen zijn:
 
@@ -146,17 +120,17 @@ Maatregelen zijn:
 
 - d. het opleggen van de verplichting tot het vergoeden van de kosten die ten laste van de staat komen in verband met de vernietiging van voorwerpen die ernstig gevaar opleveren voor de leefomgeving of voor de volksgezondheid en ten aanzien waarvan:
 
-- 1°. de maatregel, bedoeld in [artikel 36b, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b), wordt opgelegd;
+  - 1°. de maatregel, bedoeld in [artikel 36b, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b), wordt opgelegd;
 
-- 2°. de maatregel, bedoeld in [artikel 36b, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b), had kunnen worden opgelegd maar waarvan door de veroordeelde afstand is gedaan op de wijze, bedoeld in [artikel 116, tweede lid, aanhef en onderdeel c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116); of
+  - 2°. de maatregel, bedoeld in [artikel 36b, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b), had kunnen worden opgelegd maar waarvan door de veroordeelde afstand is gedaan op de wijze, bedoeld in [artikel 116, tweede lid, aanhef en onderdeel c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116); of
 
-- 3°. een machtiging tot vernietiging als bedoeld in [artikel 117, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=117) is verleend, voor zover het voorwerpen betreft die van zodanige aard zijn dat het ongecontroleerde bezit daarvan in strijd is met de wet of het algemeen belang.
+  - 3°. een machtiging tot vernietiging als bedoeld in [artikel 117, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=117) is verleend, voor zover het voorwerpen betreft die van zodanige aard zijn dat het ongecontroleerde bezit daarvan in strijd is met de wet of het algemeen belang.
 
-##### Artikel 9
+#### Artikel 9
 
 De maatregelen vermeld in [artikel 8, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01), kunnen te zamen met straffen en met andere maatregelen worden opgelegd.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Bij de uitspraak, waarbij een bijkomende straf of een maatregel, als vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01), wordt opgelegd, worden, voor zoveel nodig, alle bijzonderheden en gevolgen naar behoefte geregeld, daaronder begrepen bij onderbewindstelling de benoeming van een of meer bewindvoerders. Bij oplegging van een bijkomende straf als vermeld in [artikel 7, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=7&z=2026-01-01&g=2026-01-01), kan bovendien worden bevolen, dat de veroordeelde
 
@@ -170,33 +144,33 @@ en zijn medewerking verleent bij inventarisatie van die voorraden.
 
 3. Wij behouden Ons voor, nadere voorschriften te geven ter uitvoering van dit artikel.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Voor zover de rechter niet anders bepaalt, heeft een bewindvoerder, krachtens het voorgaande artikel of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=29&z=2026-01-01&g=2026-01-01) benoemd, dezelfde rechten en verplichtingen als de bewindvoerder, bedoeld in [artikel 409 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=409), en kan zonder zijn machtiging geen ander persoon enige daad van beheer in de onderneming verrichten.
 
 2. De beschikking tot onderbewindstelling wordt door de griffier van het gerecht in feitelijke aanleg, dat de beschikking heeft gegeven, openbaar gemaakt in de **Nederlandse Staatscourant** en in één of meer door de rechter aan te wijzen nieuwsbladen. De beschikking tot onderbewindstelling wordt in het handelsregister ingeschreven met toepassing van het krachtens de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) bepaalde.
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
-##### Artikel 13
+#### Artikel 13
 
 1. Het recht tot uitvoering van verbeurdverklaring vervalt niet door de dood van de veroordeelde.
 
 2. De in [artikel 8 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01) vermelde maatregel vervalt door de dood van de veroordeelde.
 
-##### Artikel 14
+#### Artikel 14
 
 1. De tenuitvoerlegging van een veroordeling tot de betaling van kosten, andere dan die van openbaarmaking van de rechterlijke uitspraak, geschiedt op de wijze van de tenuitvoerlegging ener veroordeling tot geldboete, met dien verstande, dat geen vervangende vrijheidsstraf wordt toegepast.
 
 2. In afwijking van het eerste lid geschiedt de tenuitvoerlegging van de in [artikel 8 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01) vermelde maatregel op de wijze van tenuitvoerlegging van de maatregel, bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e).
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
-##### Artikel 16
+#### Artikel 16
 
 1. Indien aannemelijk is dat iemand die, alvorens in zijn zaak een onherroepelijke uitspraak is gedaan, is overleden, zich heeft schuldig gemaakt aan een economisch delict, kan de rechter bij beschikking op de vordering van het openbaar ministerie:
 
@@ -216,7 +190,7 @@ Vervallen
 
 ## Titel III. Van de opsporing
 
-##### Artikel 17
+#### Artikel 17
 
 1. Met de opsporing van economische delicten zijn belast:
 
@@ -232,13 +206,13 @@ Vervallen
 
 4. Van een besluit als bedoeld in het eerste lid, onder 2°, wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-##### Artikel 18
+#### Artikel 18
 
 1. De opsporingsambtenaren zijn in het belang van de opsporing bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij kunnen daartoe hun uitlevering vorderen.
 
 2. Voor inbeslagneming van voorwerpen ter verbeurdverklaring uit hoofde van [artikel 7, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=7&z=2026-01-01&g=2026-01-01), behoeven zij evenwel de machtiging van de officier van justitie.
 
-##### Artikel 19
+#### Artikel 19
 
 1. De opsporingsambtenaren zijn in het belang van de opsporing bevoegd inzage te vorderen van gegevens en bescheiden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
@@ -246,11 +220,11 @@ Vervallen
 
 3. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
-##### Artikel 20
+#### Artikel 20
 
 De opsporingsambtenaren hebben in het belang van de opsporing toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
-##### Artikel 21
+#### Artikel 21
 
 1. De opsporingsambtenaren zijn bevoegd in het belang van de opsporing zaken te onderzoeken, aan opneming te onderwerpen en daarvan monsters te nemen, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
@@ -264,11 +238,11 @@ De opsporingsambtenaren hebben in het belang van de opsporing toegang tot elke p
 
 6. De belanghebbende wordt op zijn verzoek zo spoedig mogelijk in kennis gesteld van de resultaten van het onderzoek, de opneming of de monsterneming.
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
-##### Artikel 23
+#### Artikel 23
 
 1. De opsporingsambtenaren zijn bevoegd in het belang van de opsporing vervoermiddelen te onderzoeken met het oog op de naleving van de voorschriften, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01) en [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1a&z=2026-01-01&g=2026-01-01), voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
@@ -282,19 +256,19 @@ Vervallen
 
 6. De in dit artikel genoemde bevoegdheden kunnen tevens worden uitgeoefend jegens personen, die zaken vervoeren.
 
-##### Artikel 23a
+#### Artikel 23a
 
 1. Onder de opsporingsambtenaren, bedoeld in de [artikelen 18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=III&artikel=18&z=2026-01-01&g=2026-01-01), worden mede begrepen de ambtenaren, die ingevolge [artikel 83 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=83), [artikel 28, eerste lid, van de Natuurbeschermingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002611&artikel=28), artikel 30, onder 3°, van de Vogelwet 1936, artikel 8, eerste lid, van de Wet bedreigde uitheemse diersoorten, [artikel 11.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) of [artikel 44 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), zijn belast met de opsporing van strafbare feiten.
 
 2. Bij de opsporing van overtredingen van voorschriften gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) of [titel 6.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=6.5) komen de bevoegdheden, genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=III&artikel=21&z=2026-01-01&g=2026-01-01), slechts toe aan de krachtens [artikel 44 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44) of krachtens [artikel 11.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat en van het militair Korps controleurs gevaarlijke stoffen.
 
-##### Artikel 24
+#### Artikel 24
 
 1. Onze Minister van Justitie en - na overleg met deze - elk Onzer andere Ministers, wie het aangaat, zijn bevoegd regelen te stellen omtrent de wijze, waarop de vordering tot stilhouden, omschreven in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=III&artikel=23&z=2026-01-01&g=2026-01-01), wordt gedaan.
 
 2. Onze Minister van Justitie en elk Onzer andere Ministers, wie het aangaat, zijn bevoegd te bepalen, dat ter verzekering van de richtige opsporing van economische delicten op openbare land- en waterwegen versperringen worden aangebracht.
 
-##### Artikel 24a
+#### Artikel 24a
 
 1. Een ieder is verplicht aan de opsporingsambtenaren binnen de door hen gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kunnen vorderen bij de uitoefening van de hen krachtens deze titel toekomende bevoegdheden.
 
@@ -302,21 +276,21 @@ Vervallen
 
 3. De opsporingsambtenaren zijn bevoegd op kosten van de overtreder door feitelijk handelen op te treden tegen hetgeen in strijd met de in het eerste lid bedoelde verplichting is of wordt gedaan, gehouden of nagelaten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
-##### Artikel 25
+#### Artikel 25
 
 Voor zover daarvan niet in deze wet of de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01) en [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1a&z=2026-01-01&g=2026-01-01) genoemde wetten en besluiten is afgeweken, gelden ten aanzien van de opsporing van economische delicten de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-##### Artikel 26
+#### Artikel 26
 
 Het opzettelijk niet voldoen aan een vordering, krachtens enig voorschrift van deze wet gedaan door een opsporingsambtenaar, is een economisch delict.
 
-##### Artikel 27
+#### Artikel 27
 
 Vervallen
 
 ## Titel IV. Van voorlopige maatregelen
 
-##### Artikel 28
+#### Artikel 28
 
 1. Indien tegen de verdachte ernstige bezwaren zijn gerezen en tevens de belangen, welke door het vermoedelijk overtreden voorschrift worden beschermd, een onmiddellijk ingrijpen vereisen, is de officier van justitie in alle zaken, economische delicten betreffende, met uitzondering van die, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=6&z=2026-01-01&g=2026-01-01), bevoegd, zolang de behandeling ter terechtzitting nog niet is aangevangen, de verdachte bij deze te betekenen kennisgeving als voorlopige maatregel te bevelen:
 
@@ -334,7 +308,7 @@ Vervallen
 
 Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen, nadat het ter griffie is ingediend.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Indien tegen de verdachte ernstige bezwaren zijn gerezen en tevens de belangen, welke door het vermoedelijk overtreden voorschrift worden beschermd, een onmiddellijk ingrijpen vereisen, kan het gerecht in alle zaken, economische delicten betreffende, met uitzondering van die, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=6&z=2026-01-01&g=2026-01-01), vóór de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, als voorlopige maatregel bevelen:
 
@@ -358,13 +332,13 @@ Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen, nadat het
 
 Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen, nadat het ter griffie is ingediend.
 
-##### Artikel 30
+#### Artikel 30
 
 1. Van de in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=28&z=2026-01-01&g=2026-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=29&z=2026-01-01&g=2026-01-01) bedoelde rechterlijke bevelen en beschikkingen kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in beroep komen bij het gerechtshof.
 
 2. Het hof beslist zo spoedig mogelijk. De verdachte wordt gehoord, althans behoorlijk opgeroepen.
 
-##### Artikel 30a
+#### Artikel 30a
 
 1. Van de beschikking van het hof kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening beroep in cassatie instellen.
 
@@ -374,11 +348,11 @@ Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen, nadat het
 
 4. De Hoge Raad beslist zo spoedig mogelijk.
 
-##### Artikel 31
+#### Artikel 31
 
 De in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=28&z=2026-01-01&g=2026-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=29&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=30&z=2026-01-01&g=2026-01-01) en [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=IV&artikel=30a&z=2026-01-01&g=2026-01-01) bedoelde bevelen en beschikkingen zijn dadelijk uitvoerbaar. Zij worden onverwijld aan de verdachte betekend.
 
-##### Artikel 32
+#### Artikel 32
 
 1. Indien de zaak eindigt hetzij zonder oplegging van straf of maatregel, hetzij met oplegging van een zodanige straf of maatregel, dat de opgelegde voorlopige maatregel als onevenredig hard moet worden beschouwd, kan het gerecht, op verzoek van de gewezen verdachte of van zijn erfgenamen, hem of zijn erfgenamen een geldelijke tegemoetkoming ten laste van de Staat toekennen voor de schade, welke hij ten gevolge van de opgelegde voorlopige maatregel werkelijk heeft geleden. Tot deze toekenning is bevoegd het gerecht in feitelijke aanleg, waarvoor de zaak tijdens de beëindiging daarvan werd vervolgd of anders het laatst werd vervolgd.
 
@@ -386,21 +360,21 @@ De in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldee
 
 3. Indien de gewezen verdachte na het indienen van zijn verzoek of na de instelling van hoger beroep overleden is, geschiedt de toekenning ten behoeve van zijn erfgenamen.
 
-##### Artikel 32a
+#### Artikel 32a
 
 Waar in deze titel de bevoegdheid wordt gegeven tot het horen van personen, is [artikel 131a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131a) van overeenkomstige toepassing.
 
 ## Titel V. Van handelingen in strijd met straffen en maatregelen
 
-##### Artikel 33
+#### Artikel 33
 
 Het opzettelijk handelen of nalaten in strijd met een bijkomende straf, als bedoeld in [artikel 7, onder a, c of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=7&z=2026-01-01&g=2026-01-01), een maatregel, als vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01), een regeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=10&z=2026-01-01&g=2026-01-01), of een voorlopige maatregel, of het ontduiken van zodanige bijkomende straf, maatregel, regeling of voorlopige maatregel is een economisch delict.
 
-##### Artikel 34
+#### Artikel 34
 
 Het opzettelijk, al dan niet door middel van een ander, onttrekken van vermogensbestanddelen aan verhaal of tenuitvoerlegging van een krachtens deze wet opgelegde straf, maatregel of voorlopige maatregel is een economisch delict.
 
-##### Artikel 35
+#### Artikel 35
 
 1. Rechtshandelingen in strijd met het bepaalde in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=V&artikel=33&z=2026-01-01&g=2026-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=V&artikel=34&z=2026-01-01&g=2026-01-01) zijn nietig.
 
@@ -410,65 +384,65 @@ Het opzettelijk, al dan niet door middel van een ander, onttrekken van vermogens
 
 ## Titel VI. Van de afdoening buiten geding
 
-##### Artikel 36
+#### Artikel 36
 
 1. Bij toepassing van [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) kan tevens de aanwijzing worden gegeven dat wordt verricht hetgeen wederrechtelijk is nagelaten, tenietgedaan hetgeen wederrechtelijk is verricht en dat prestaties tot het goedmaken van een en ander worden verricht, alles op kosten van de verdachte, voor zover niet anders wordt bepaald.
 
 2. Indien de verdachte een rechtspersoon is, behoeft deze, in afwijking van [artikel 257c, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257c), slechts onder bijstand van een raadsman te worden gehoord als de strafbeschikking betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel bevat welke afzonderlijk of gezamenlijk meer belopen dan € 10 000.
 
-##### Artikel 37
+#### Artikel 37
 
 Vervallen
 
 ## Titel VI. Van de afdoening buiten geding
 
-##### Artikel 38
+#### Artikel 38
 
 1. De kennisneming van economische delicten in eerste aanleg is bij uitsluiting opgedragen aan de rechtbank. Economische delicten worden behandeld en beslist door de economische kamers van de rechtbank, bedoeld in [artikel 52 van Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=52).
 
 2. De kennisneming van economische delicten met betrekking tot de Verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende marktmisbruik en inhoudende intrekking van Richtlijn 2003/6/EG van het Europees Parlement en de Raad en Richtlijnen 2003/124, 2003/125/EG en 2004/72/EG van de Commissie (PbEU 2014 L 173) in eerste aanleg is bij uitsluiting opgedragen aan de Rechtbank Amsterdam.
 
-##### Artikel 39
+#### Artikel 39
 
 1. De economische kamers van de rechtbank, bedoeld in [artikel 52 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=52), behandelen en beslissen ook zaken betreffende strafbare feiten die geen economische delicten zijn, indien de rechtbank bevoegd is tot kennisneming van die strafbare feiten en die strafbare feiten zijn begaan in samenhang met een of meer economische delicten, en die strafbare feiten ten laste zijn gelegd samen met een of meer van die economische delicten.
 
 2. Berechting door een andere dan de economische kamer is mogelijk indien economische delicten zijn begaan in samenhang met een of meer strafbare feiten, niet zijnde economische delicten waarvan de rechtbank bevoegd is kennis te nemen en die economische delicten ten laste zijn gelegd samen met een of meer van die andere strafbare feiten.
 
-##### Artikel 40
+#### Artikel 40
 
 Vervallen
 
-##### Artikel 41
+#### Artikel 41
 
 Vervallen
 
-##### Artikel 42
+#### Artikel 42
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 Vervallen
 
-##### Artikel 44
+#### Artikel 44
 
 Vervallen
 
-##### Artikel 45
+#### Artikel 45
 
 De bepalingen van deze titel brengen geen wijziging in de bevoegdheden van de kinderrechter, behoudens het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=VII&artikel=38&z=2026-01-01&g=2026-01-01).
 
 ## Titel VIII
 
-##### Artikel 46
+#### Artikel 46
 
 De behandeling door de raadkamer vindt plaats in het openbaar.
 
-##### Artikel 47
+#### Artikel 47
 
 In afwijking in zoverre van het bepaalde in [artikel 261 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=261) kan voor de dagvaarding betreffende een economisch delict worden volstaan met een korte aanduiding van het feit, dat te laste wordt gelegd, met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn.
 
-##### Artikel 48
+#### Artikel 48
 
 1. Op het rechtgeding voor de economische politierechter zijn de [artikelen 367 tot en met 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=367), alsmede [398, onder 2°, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=398) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -478,61 +452,61 @@ In afwijking in zoverre van het bepaalde in [artikel 261 van het Wetboek van Str
 
 2. Het bepaalde in het eerste lid, onder 1°-2°, vindt overeenkomstige toepassing, indien bij dagvaarding voor de meervoudige kamer is volstaan met een korte aanduiding en vermelding als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=VIII&artikel=47&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 49
+#### Artikel 49
 
 Waar deze wet voorziet in de mogelijkheid van een verzoek van de verdachte, de erfgenamen van de verdachte of de veroordeelde aan de rechter of aan het gerecht, kan een schriftelijk verzoek langs elektronische weg worden gedaan met behulp van een bij of krachtens algemene maatregel van bestuur aangewezen elektronische voorziening.
 
-##### Artikel 50
+#### Artikel 50
 
 Vervallen
 
 ## Titel IX. Van het hoger beroep
 
-##### Artikel 51
+#### Artikel 51
 
 Vervallen
 
-##### Artikel 52
+#### Artikel 52
 
 De economische kamers van de gerechtshoven, bedoeld in [artikel 64 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=64), behandelen en beslissen uitsluitend zaken waarin door de economische kamers van de rechtbanken vonnis is gewezen.
 
-##### Artikel 53
+#### Artikel 53
 
 1. In zaken betreffende economische delicten treedt als raadkamer een economische kamer op.
 
 2. De behandeling door de raadkamer vindt plaats in het openbaar.
 
-##### Artikel 54
+#### Artikel 54
 
 De economische kamers kunnen ook zitting houden buiten de plaats, waar de zetel van het hof gevestigd is.
 
-##### Artikel 55
+#### Artikel 55
 
 [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=VIII&artikel=49&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
 ## Titel X
 
-##### Artikel 56
+#### Artikel 56
 
 Vervallen
 
-##### Artikel 57
+#### Artikel 57
 
 Vervallen
 
 ## Titel X
 
-##### Artikel 58
+#### Artikel 58
 
 In overleg met Onze Minister van Justitie kunnen lichamen met een publieke taak belast, hiertoe bevoegd verklaard door een Onzer andere Ministers, wie het aangaat, ten dienste van de opsporing, vervolging en berechting van economische delicten ambtenaren benoemen, die het contact onderhouden met het openbaar ministerie.
 
 ## Titel XI. Van de contactambtenaren
 
-##### Artikel 59
+#### Artikel 59
 
 Van de ambtenaren van de Fiscale Inlichtingen- en Opsporingsdienst zijn degenen, die daartoe door Onze Minister van Justitie zijn aangewezen, hulpofficier van justitie ten aanzien van het voorbereidende onderzoek naar de overtredingen der voorschriften gesteld bij of krachtens de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547).
 
-##### Artikel 60
+#### Artikel 60
 
 1. Het Besluit berechting economische delicten (**Staatsblad** No. E 135) wordt ingetrokken.
 
@@ -546,11 +520,11 @@ Van de ambtenaren van de Fiscale Inlichtingen- en Opsporingsdienst zijn degenen,
 
 6. De ingevolge het Besluit berechting economische delicten opgelegde bijkomende straffen, bedoeld in artikel 1, eerste lid, II, onder **a** en **b**, van dit besluit, worden geacht te zijn bijkomende straffen, als bedoeld in [artikel 7, eerste lid, onderscheidenlijk onder **c** en **a** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=7&z=2026-01-01&g=2026-01-01); zij worden geacht te zijn opgelegd krachtens deze wet.
 
-##### Artikel 61
+#### Artikel 61
 
 Vervallen
 
-##### Artikel 62
+#### Artikel 62
 
 1. Het Besluit voorlopige tuchtmaatregelen voedselvoorziening (**Staatsblad**, No. F 284) wordt ingetrokken.
 
@@ -562,7 +536,7 @@ Vervallen
 
 - c. voorlopige tuchtmaatregelen, bevolen door het Centraal College voor de Tuchtrechtspraak, worden geacht te zijn bevolen door het gerechtshof binnen welks rechtsgebied de tuchtrechter bevoegd was, die in eerste aanleg uitspraak heeft gedaan.
 
-##### Artikel 63
+#### Artikel 63
 
 1. De wet van 24 Mei 1947, tot opneming van de mogelijkheid van voorlopige maatregelen ter zake van overtreding van prijsvoorschriften (**Staatsblad** No. H 156) wordt ingetrokken.
 
@@ -570,99 +544,99 @@ Vervallen
 
 ## Titel XIII. Slotbepalingen
 
-##### Artikel 64
+#### Artikel 64
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 65
+#### Artikel 65
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 66
+#### Artikel 66
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 67
+#### Artikel 67
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 68
+#### Artikel 68
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 69
+#### Artikel 69
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 70
+#### Artikel 70
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 71
+#### Artikel 71
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 72
+#### Artikel 72
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 73
+#### Artikel 73
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 74
+#### Artikel 74
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 75
+#### Artikel 75
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 76
+#### Artikel 76
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 77
+#### Artikel 77
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 78
+#### Artikel 78
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 79
+#### Artikel 79
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 80
+#### Artikel 80
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 81
+#### Artikel 81
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 82
+#### Artikel 82
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 83
+#### Artikel 83
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 84
+#### Artikel 84
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 85
+#### Artikel 85
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 86
+#### Artikel 86
 
 Bevat wijziging in andere regelgeving.
 
-##### Artikel 87
+#### Artikel 87
 
 1. Deze wet treedt in werking op een nader door Ons te bepalen tijdstip, dat voor onderscheidene groepen van economische delicten en voor onderscheidene voorschriften verschillend kan zijn.
 
@@ -676,7 +650,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 58a
+#### Artikel 58a
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen in het belang van een doelmatige handhaving regels worden gesteld over de samenwerking van de personen en instanties die belast zijn met de opsporing van economische delicten onderling en met de bestuursorganen die belast zijn met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01) en [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=I&artikel=1a&z=2026-01-01&g=2026-01-01) genoemde wetten.
 
@@ -690,7 +664,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 7a
+#### Artikel 7a
 
 Bij veroordeling wegens een van de misdrijven omschreven in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=6&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
 
@@ -718,7 +692,7 @@ Bij veroordeling wegens een van de misdrijven omschreven in [artikel 6, vierde l
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 8a
+#### Artikel 8a
 
 1. De maatregel vermeld in [artikel 8, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01), kan op vordering van het openbaar ministerie door de rechter worden opgelegd aan degene die is veroordeeld wegens een economisch delict.
 
@@ -746,7 +720,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 18a
+#### Artikel 18a
 
 1. Ingeval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&titeldeel=II&artikel=8&z=2026-01-01&g=2026-01-01).
 

@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 september 2024, nr. 2024-0000412659, tot vaststelling van de tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024 (Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024)"
+title: "Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024"
 identifier: "BWBR0050230"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2025-09-18"
-last_updated: "2025-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050230"
-soort: "ministeriele-regeling-BES"
-stam_id: "17227773"
-version_id: "30340822"
-internal_id: "C43518371"
-label_id: "17133614"
-dtd_version: "2.0"
-original_entry_into_force: "2024-09-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050230/2025-09-18/0"
-intitule_bron: "Stcrt.2024-31123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-09-18"
-intitule_published: "2024-09-26"
-intitule_in_force: "2024-09-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-31123"
-original_signed_date: "2024-09-18"
-original_published_date: "2024-09-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-31123"
-entry_into_force_date: "2024-09-27"
-jci_1_3: "jci1.3:c:BWBR0050230&z=2025-09-18&g=2025-09-18"
-jci_1_0: "1.0:c:BWBR0050230&g=2025-09-18"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024"
-signed_date: "2024-09-18"
-entry_into_force: "2024-09-27"
+categorie: "Overig"
+publicatiedatum: 2025-09-18
+laatste_update: 2025-09-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0050230"
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 september 2024, nr. 2024-0000412659, tot vaststelling van de tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024 (Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024)
 
 Gelet op [artikel 9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9);
 
 **Besluit:**
 
-##### Artikel 1. Begripsbepaling
+#### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -58,7 +32,7 @@ In deze regeling wordt verstaan onder:
 
 - **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-##### Artikel 2. Recht op tegemoetkoming kinderen met intensieve zorg
+#### Artikel 2. Recht op tegemoetkoming kinderen met intensieve zorg
 
 1. Een ingezetene van een openbaar lichaam heeft per tijdvak, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=8&z=2025-09-18&g=2025-09-18), eenmaal recht op een tegemoetkoming voor een kind, indien op enig moment gedurende het betreffende tijdvak:
 
@@ -70,13 +44,13 @@ In deze regeling wordt verstaan onder:
 
 2. Indien voor een ingezetene recht op een tegemoetkoming is vastgesteld op basis van een aanvraag voor een eerder tijdvak, of de [Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0047397), wordt voor de beoordeling van recht op een tegemoetkoming sprake van intensieve zorg voorondersteld.
 
-##### Artikel 3. Bedrag tegemoetkoming
+#### Artikel 3. Bedrag tegemoetkoming
 
 1. De tegemoetkoming bedraagt USD 3.982,76 voor het tijdvak in 2025.
 
 2. De hoogte van de tegemoetkoming voor een tijdvak na 2025 wordt gebaseerd op de tegemoetkoming van het voorgaande tijdvak, gewijzigd overeenkomstig de wijziging van het kinderbijslagbedrag op grond van [artikel 10 van de Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&artikel=10). Het gewijzigde bedrag wordt bekend gemaakt op [www.rijksdienstcn.com](http://www.rijksdienstcn.com).
 
-##### Artikel 4. Aanwijzing adviseur intensieve zorg
+#### Artikel 4. Aanwijzing adviseur intensieve zorg
 
 Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medische gegevens gebaseerd advies in bij:
 
@@ -86,7 +60,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 - c. Openbaar Lichaam Saba voor aanvragen die zien op ingezetenen van Saba.
 
-##### Artikel 5. Beoordeling intensieve zorg
+#### Artikel 5. Beoordeling intensieve zorg
 
 1. Van intensieve zorg is sprake als een kind zodanig ernstig beperkt is in het dagelijks functioneren als gevolg van een ziekte of stoornis van lichamelijke, verstandelijke, zintuiglijke of geestelijke aard dat de verzorging en oppassing door de ouders in ernstige mate wordt verzwaard.
 
@@ -124,7 +98,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 5. In afwijking van het vierde lid kan de adviseur oordelen dat het kind intensieve zorg behoeft indien het desbetreffende kind een punt toegekend krijgt op het onderwerp medische verzorging of gedrag, bedoeld in het tweede lid onder e of f, en er daardoor sprake is van de noodzaak tot permanent toezicht van de ouders.
 
-##### Artikel 6. Beoordeling herstelperspectief
+#### Artikel 6. Beoordeling herstelperspectief
 
 1. In aanvulling op de beoordeling, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=5&z=2025-09-18&g=2025-09-18), beoordeelt de adviseur ook het herstelperspectief van het kind.
 
@@ -132,7 +106,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 3. De in het tweede lid bedoelde informatie wordt door de minister niet bij de adviseur ingewonnen voordat vaststaat dat herbeoordeling plaats zal vinden op basis van de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
 
-##### Artikel 7. Geldend maken van het recht op de tegemoetkoming
+#### Artikel 7. Geldend maken van het recht op de tegemoetkoming
 
 1. De minister stelt op aanvraag vast of er recht op de tegemoetkoming bestaat.
 
@@ -158,7 +132,7 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 - f. de hoogte van de tegemoetkoming.
 
-##### Artikel 8. De aanvraag
+#### Artikel 8. De aanvraag
 
 1. Een aanvraag kan jaarlijks door middel van een door de Minister beschikbaar gesteld aanvraagformulier worden ingediend in het tijdvak van 1 oktober 8:00 lokale tijd tot en met 15 december 17:00 uur lokale tijd.
 
@@ -170,21 +144,21 @@ Om te bepalen of een kind intensieve zorg behoeft, wint de minister een op medis
 
 5. De aanvrager verstrekt op verzoek van de adviseur of uit eigen beweging aan de adviseur de informatie, waarvan het hem redelijkerwijs duidelijk moet zijn dat die van belang kan zijn voor de beoordeling van de zorgbehoefte.
 
-##### Artikel 9. Bekendmaking
+#### Artikel 9. Bekendmaking
 
 De bekendmaking van een voornemen als bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050230&artikel=8&z=2025-09-18&g=2025-09-18), of een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
 
-##### Artikel 10. Terugvordering
+#### Artikel 10. Terugvordering
 
 1. De verstrekte tegemoetkoming wordt teruggevorderd van de ontvanger indien deze ten onrechte is verstrekt.
 
 2. De minister kan afwijken van het eerste lid, indien toepassing ervan zou leiden tot een onbillijkheid van overwegende aard.
 
-##### Artikel 11. Mandaat, volmacht en machtiging hoofd RCN-unit SZW
+#### Artikel 11. Mandaat, volmacht en machtiging hoofd RCN-unit SZW
 
 Het [Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037446) is van toepassing op de uitoefening van bevoegdheden op grond van deze regeling door het hoofd van de RCN-unit SZW, bedoeld in [artikel 6 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&artikel=6), en tevens op de uitoefening van bevoegdheden die krachtens ondermandaat respectievelijk doorverlening van volmacht en machtiging worden uitgeoefend.
 
-##### Artikel 12. Overeenkomst tussen de minister (RCN-Unit SZW) en de adviseurs
+#### Artikel 12. Overeenkomst tussen de minister (RCN-Unit SZW) en de adviseurs
 
 1. De minister en de adviseur stellen een overeenkomst op over de samenwerking en werkwijze in het kader van de uitvoering van deze regeling.
 
@@ -198,19 +172,19 @@ Het [Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 201
 
 - d. afspraken over privacy en de verwerking van persoonsgegevens.
 
-##### Artikel 13. Evaluatie
+#### Artikel 13. Evaluatie
 
 1. Ten behoeve van wetenschappelijk onderzoek of statistiek kan de minister, of de adviseur desgevraagd persoonsgegevens, inclusief gegevens betreffende iemands gezondheid, aan derden verstrekken voor zover de persoonlijke levenssfeer van de betrokkenen daardoor niet onevenredig wordt geschaad.
 
 2. De adviseur verstrekt desgevraagd aan de minister gegevens en inlichtingen die de minister voor de statistiek, informatievoorziening en beleidsvorming met betrekking tot deze regeling nodig heeft.
 
-##### Artikel 14. Inwerkingtreding
+#### Artikel 14. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. In afwijking van het eerste lid blijft deze regeling van toepassing op de afwikkeling van verleende tegemoetkomingen op grond van deze regeling.
 
-##### Artikel 15. Citeertitel
+#### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024.
 

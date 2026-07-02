@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]"
+title: "Stimuleringsregeling Wonen en Zorg 2025"
 identifier: "BWBR0051092"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-06-11"
-last_updated: "2025-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051092"
-soort: "ministeriele-regeling"
-stam_id: "17443093"
-version_id: "30758392"
-internal_id: "C44087101"
-label_id: "17346014"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051092/2025-06-11/0"
-intitule_bron: "Stcrt.2025-19260"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-05-28"
-intitule_published: "2025-06-10"
-intitule_in_force: "2025-06-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-19260"
-original_signed_date: "2025-05-28"
-original_published_date: "2025-06-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-19260"
-entry_into_force_date: "2025-06-11"
-jci_1_3: "jci1.3:c:BWBR0051092&z=2025-06-11&g=2025-06-11"
-jci_1_0: "1.0:c:BWBR0051092&g=2025-06-11"
-citeertitel_status: "officieel"
-short_title: "Stimuleringsregeling Wonen en Zorg 2025"
-signed_date: "2025-05-28"
-entry_into_force: "2025-06-11"
+categorie: "Overig"
+publicatiedatum: 2026-05-05
+laatste_update: 2026-05-06
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051092"
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
@@ -66,7 +40,7 @@ Besluit:
 
 - –. **Wlz-indicatie:** een verklaring van het Centrum Indicatiestelling Zorg (CIZ) waarin staat dat iemand recht heeft op langdurige en intensieve zorg voor de Zorgzwaartepakketten VV4 tot en met VV10 zoals bedoeld in de beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis van de Nederlandse Zorgautoriteit;
 
-- –. **woonzorgarrangement:** een samenhangend geheel van activiteiten, uitgevoerd in de vorm van een rechtspersoon, gericht op het voorbereiden en realiseren van wooneenheden overeenkomstig de voorwaarden genoemd in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.4&z=2025-06-11&g=2025-06-11) van deze regeling;
+- –. **woonzorgarrangement:** een samenhangend geheel van activiteiten, uitgevoerd in de vorm van een rechtspersoon, gericht op het voorbereiden en realiseren van wooneenheden overeenkomstig de voorwaarden genoemd in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.4&z=2026-05-05&g=2026-05-05) van deze regeling;
 
 - –. **WZ-ondernemer:** één of meerdere rechtspersonen (vereniging, stichting of besloten vennootschap) niet zijnde rechtspersonen die krachtens publiekrecht zijn ingesteld, die een kmo in stand houden, die gericht is op het realiseren van een woonzorgarrangement;
 
@@ -84,7 +58,7 @@ Deze regeling heeft als doel het stimuleren van de ontwikkeling en totstandkomin
 
 ##### Artikel 1.4. Voorwaarden woonzorgarrangement
 
-Voor een woonzorgarrangement, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.3&z=2025-06-11&g=2025-06-11), geldt dat:
+Voor een woonzorgarrangement, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.3&z=2026-05-05&g=2026-05-05), geldt dat:
 
 - a. het project in Nederland uitgevoerd wordt en uit minimaal 5 wooneenheden bestaat;
 
@@ -114,13 +88,13 @@ De minister kan op grond van dit hoofdstuk op aanvraag subsidie verstrekken aan 
 
 - a. een verklaring, die niet ouder is dan een jaar op het moment van de aanvraag, van de betreffende gemeente:
 
-- –. dat er een locatie beschikbaar is voor de ontwikkeling van het woonzorgarrangement, of
+  - –. dat er een locatie beschikbaar is voor de ontwikkeling van het woonzorgarrangement, of
 
-- –. dat zij het voornemen tot het uitvoeren van een haalbaarheidsonderzoek ondersteunt, of
+  - –. dat zij het voornemen tot het uitvoeren van een haalbaarheidsonderzoek ondersteunt, of
 
-- –. dat zij zich inspant een locatie beschikbaar te stellen, of
+  - –. dat zij zich inspant een locatie beschikbaar te stellen, of
 
-- –. dat de verkoop van de locatie via een openbare aanbesteding verloopt en het woonzorgarrangement naar verwachting zal passen binnen de voorwaarden van de aanbesteding;
+  - –. dat de verkoop van de locatie via een openbare aanbesteding verloopt en het woonzorgarrangement naar verwachting zal passen binnen de voorwaarden van de aanbesteding;
 
 - b. een bewijs waaruit blijkt dat het mogelijk is op de betreffende locatie een woonzorgarrangement te realiseren, indien de locatie niet van de gemeente is;
 
@@ -141,6 +115,8 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 2. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de complete aanvragen.
 
 3. Indien op de dag dat het subsidieplafond wordt bereikt meer dan één complete aanvraag ontvangen wordt en de volgorde van binnenkomst van deze aanvragen niet is vast te stellen, wordt de volgorde vastgesteld door middel van loting.
+
+4. In afwijking van het eerste lid, bedraagt het subsidieplafond voor het jaar 2026 € 0.
 
 ##### Artikel 2.5. Verlening, bevoorschotting en betaling
 
@@ -164,7 +140,7 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 ##### Artikel 2.7. Subsidieverplichtingen
 
-1. Het onderzoek naar de haalbaarheid van het woonzorgarrangement als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=2&artikel=2.1&z=2025-06-11&g=2025-06-11) dient binnen één jaar na het verlenen van de subsidie te zijn afgerond met een verslag over de haalbaarheid.
+1. Het onderzoek naar de haalbaarheid van het woonzorgarrangement als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=2&artikel=2.1&z=2026-05-05&g=2026-05-05) dient binnen één jaar na het verlenen van de subsidie te zijn afgerond met een verslag over de haalbaarheid.
 
 2. De termijn, bedoeld in het eerste lid, kan op verzoek worden verlengd, indien door onvoorziene omstandigheden het onderzoek naar de haalbaarheid nog niet is afgerond.
 
@@ -174,7 +150,7 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 ##### Artikel 2.8. Vaststelling
 
-1. De minister neemt binnen 6 weken na het verstrijken van de termijn, bedoeld in [artikel 2.7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=2&artikel=2.7&z=2025-06-11&g=2025-06-11), ambtshalve een besluit tot vaststelling van de subsidie.
+1. De minister neemt binnen 6 weken na het verstrijken van de termijn, bedoeld in [artikel 2.7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=2&artikel=2.7&z=2026-05-05&g=2026-05-05), ambtshalve een besluit tot vaststelling van de subsidie.
 
 2. De ontvanger van een subsidie toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verleend, zijn verricht en dat is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie.
 
