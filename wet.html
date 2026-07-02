@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'self'">
+<meta name="referrer" content="no-referrer">
 <title>Wet — vrijewetgeving.nl</title>
 <meta name="description" content="Nederlandse wet, leesbaar weergegeven met inhoudsopgave, kruisverwijzingen en een link naar de officiële versie.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
@@ -83,6 +85,7 @@
 <div class="toast" id="toast"></div>
 
 <script src="vendor/marked.min.js"></script>
+<script src="vendor/purify.min.js"></script>
 <script>
 const GH_BLOB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
 const GH_COMMITS = 'https://github.com/Apolloccrypt/wetgeving-nl/commits/main/';
@@ -114,7 +117,7 @@ function toast(tekst){
 
 async function init(){
   const id = getId();
-  if(!id || !/^BWBR\d{7}$/.test(id)){
+  if(!id || !/^BWB[RVW]\d{4,8}$/.test(id)){
     melding('Geen geldige wet-identifier opgegeven.<br>Ga terug naar <a href="index.html" style="color:var(--petrol)">alle wetten</a> en kies een wet.');
     return;
   }
@@ -164,7 +167,7 @@ function toonWet(wet, mdTekst, verwijzingen, index){
   document.getElementById('og-title').setAttribute('content', wet.titel.slice(0,90));
 
   let html = body
-    ? (window.marked ? marked.parse(body) : `<pre style="white-space:pre-wrap">${esc(body)}</pre>`)
+    ? (window.marked && window.DOMPurify ? DOMPurify.sanitize(marked.parse(body)) : `<pre style="white-space:pre-wrap">${esc(body)}</pre>`)
     : '<p style="color:var(--zacht)">De volledige tekst kon niet worden geladen. Bekijk de wet via de knoppen hierboven.</p>';
 
   const kop = `
@@ -223,7 +226,7 @@ async function laadSamenvatting(wet){
   if(lijst.includes(wet.identifier)){
     try {
       const md = await fetch(`samenvattingen/${wet.identifier}.md`).then(r => r.text());
-      const inhoud = window.marked ? marked.parse(md) : `<p>${esc(md)}</p>`;
+      const inhoud = window.marked && window.DOMPurify ? DOMPurify.sanitize(marked.parse(md)) : `<p>${esc(md)}</p>`;
       el.innerHTML = `<div class="samenvatting">
         <div class="samenvatting-kop">In het kort <span>· uitleg in gewone taal, door de community</span></div>
         <div class="samenvatting-body">${inhoud}</div>

@@ -126,13 +126,17 @@ def main():
     wetten_dir = Path(args.wetten)
     index = []
     zoekindex = []
+    per_id = {}  # identifier -> positie in index, voor deduplicatie
+    overgeslagen = 0
 
     bestanden = sorted(wetten_dir.rglob("*.md"))
     print(f"{len(bestanden)} bestanden verwerken...")
 
-    for i, bestand in enumerate(bestanden):
+    for bestand in bestanden:
         meta = lees_frontmatter(bestand)
         if not meta:
+            overgeslagen += 1
+            print(f"  OVERGESLAGEN (geen frontmatter): {bestand}")
             continue
 
         rel = bestand.relative_to(wetten_dir)
@@ -146,7 +150,7 @@ def main():
         status_raw = meta.get("status", "")
         status = STATUS_NAAM.get(status_raw, status_raw or "geldig")
 
-        index.append({
+        entry = {
             "titel":      meta.get("title", bestand.stem),
             "identifier": meta.get("identifier", ""),
             "categorie":  categorie,
@@ -154,16 +158,41 @@ def main():
             "datum":      meta.get("last_updated", meta.get("publication_date", "")),
             "status":     status,
             "pad":        "wetten/" + str(rel).replace("\\", "/"),
-        })
+        }
+        zoek_entry = {"b": lees_body(bestand)}
 
-        body = lees_body(bestand)
-        zoekindex.append({"i": i, "b": body})
+        # Dedupliceer op identifier: hetzelfde BWB-id kan (historisch) in twee
+        # categorie-mappen staan. Eén kaart per wet; niet-overig wint, daarna
+        # de nieuwste datum.
+        ident = entry["identifier"]
+        if ident and ident in per_id:
+            pos = per_id[ident]
+            oud = index[pos]
+            oud_overig = oud["categorie"] == "Overig"
+            nieuw_overig = entry["categorie"] == "Overig"
+            vervang = (oud_overig and not nieuw_overig) or (
+                oud_overig == nieuw_overig and entry["datum"] > oud["datum"])
+            if vervang:
+                index[pos] = entry
+                zoekindex[pos] = zoek_entry
+            continue
 
-    # Sorteer beide op titel
+        if ident:
+            per_id[ident] = len(index)
+        index.append(entry)
+        zoekindex.append(zoek_entry)
+
+    if overgeslagen:
+        print(f"LET OP: {overgeslagen} bestanden zonder frontmatter overgeslagen")
+    dubbel = len([b for b in bestanden]) - overgeslagen - len(index)
+    if dubbel:
+        print(f"{dubbel} duplicaat-bestanden samengevoegd tot 1 kaart per identifier")
+
+    # Sorteer beide op titel — met DEZELFDE permutatie, zodat zoekindex[pos]
+    # de body van index[pos] blijft (de frontend koppelt ze positioneel)
     gesorteerd = sorted(range(len(index)), key=lambda x: index[x]["titel"].lower())
     index = [index[i] for i in gesorteerd]
-    zoekindex_gesorteerd = {gesorteerd[i]: zoekindex[i] for i in range(len(gesorteerd))}
-    zoekindex_lijst = [zoekindex_gesorteerd[i] for i in range(len(index))]
+    zoekindex_lijst = [zoekindex[i] for i in gesorteerd]
 
     output_pad = Path(args.output)
     output_pad.write_text(
@@ -179,8 +208,8 @@ def main():
     )
     print(f"zoekindex.json: {zoek_pad.stat().st_size/1024/1024:.1f} MB")
 
-    # Genereer verwijzingen.json
-    bwbr_pat = re.compile(r'BWBR\d{7}')
+    # Genereer verwijzingen.json (ook verdragen BWBV en BWBW-nummers)
+    bwbr_pat = re.compile(r'BWB[RVW]\d{4,8}')
     bwbr_naar_idx = {w['identifier']: i for i, w in enumerate(index) if w.get('identifier')}
     verwijzingen = {}
     for i, item in enumerate(zoekindex_lijst):

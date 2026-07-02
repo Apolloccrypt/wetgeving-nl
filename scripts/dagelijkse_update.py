@@ -52,6 +52,7 @@ CATEGORIE_TREFWOORDEN = {
     "digitaal":          ["persoonsgegevens", "privacy", "avg", "telecommunicatie"],
     "internationaal-recht": ["verdrag", "internationaal"],
     "staatsinrichting":  ["grondwet", "kiesrecht", "rijkswet", "rechterlijke"],
+    "financieel-recht":  ["financieel toezicht", "wft", "financiele markten", "effecten", "verzekeraar"],
 }
 
 CATEGORIE_NAAM = {
@@ -68,6 +69,7 @@ CATEGORIE_NAAM = {
     "milieu":               "Milieu",
     "verkeer":              "Verkeer",
     "internationaal-recht": "Internationaal recht",
+    "financieel-recht":     "Financieel recht",
     "overig":               "Overig",
 }
 
@@ -361,7 +363,38 @@ def legalize_md_cleanup(md_inhoud: str, identifier: str) -> str:
     return "\n".join(fm) + "\n\n" + body.strip() + "\n"
 
 
+_id_naar_pad: dict[str, Path] = {}
+
+
+def _lees_identifier(pad: Path) -> str:
+    """Lees alleen de identifier uit de frontmatter (snel, eerste ~1 KB)."""
+    try:
+        with pad.open(encoding="utf-8", errors="replace") as f:
+            kop = f.read(1024)
+    except Exception:
+        return ""
+    m = re.search(r'^identifier:\s*"?(BWB\w+)"?\s*$', kop, re.MULTILINE)
+    return m.group(1) if m else ""
+
+
+def bouw_id_index(output_dir: Path) -> None:
+    """Bouw eenmalig de map identifier -> bestaand bestand, zodat een update
+    het bestaande bestand overschrijft i.p.v. een duplicaat in een andere
+    categorie-map aan te maken (de map-plaatsing is de bron van waarheid)."""
+    for pad in output_dir.rglob("*.md"):
+        ident = _lees_identifier(pad)
+        if ident and ident not in _id_naar_pad:
+            _id_naar_pad[ident] = pad
+    log.info(f"Identifier-index: {len(_id_naar_pad)} bestaande wetten gevonden")
+
+
 def sla_op(inhoud: str, identifier: str, output_dir: Path) -> Path:
+    # Bestaat deze wet al? Overschrijf dan op de bestaande plek (behoud categorie)
+    bestaand = _id_naar_pad.get(identifier)
+    if bestaand and bestaand.exists():
+        bestaand.write_text(inhoud, encoding="utf-8")
+        return bestaand
+
     # Haal categorie uit frontmatter
     categorie = "overig"
     for regel in inhoud.split("\n"):
@@ -383,7 +416,12 @@ def sla_op(inhoud: str, identifier: str, output_dir: Path) -> Path:
     submap = output_dir / categorie
     submap.mkdir(parents=True, exist_ok=True)
     pad = submap / (slugify(titel) + ".md")
+    # Slug-collisie: zelfde titel-slug maar ander BWB-id mag geen bestaande
+    # wet overschrijven — maak de bestandsnaam dan uniek met het id
+    if pad.exists() and _lees_identifier(pad) not in ("", identifier):
+        pad = submap / (slugify(titel)[:60] + "-" + identifier.lower() + ".md")
     pad.write_text(inhoud, encoding="utf-8")
+    _id_naar_pad[identifier] = pad
     return pad
 
 
@@ -444,6 +482,7 @@ def main():
         sys.exit(1)
 
     ok = fout = 0
+    bouw_id_index(output_dir)
 
     if sru_werkt:
         # Directe route: SRU + BWB

@@ -1,9 +1,9 @@
 // vrijewetgeving.nl service worker — offline, volledig same-origin
-const CACHE = 'vw-v1';
+const CACHE = 'vw-v2';
 const SHELL = [
   'index.html','over.html','api.html','wet.html',
   'bevoegdheden.html','bevoegdhedenketen.html','rechten.html',
-  'style.css','vendor/fonts.css','vendor/marked.min.js','vendor/minisearch.min.js',
+  'style.css','vendor/fonts.css','vendor/marked.min.js','vendor/minisearch.min.js','vendor/purify.min.js',
   'manifest.webmanifest','icon.svg'
 ];
 self.addEventListener('install', e => {
