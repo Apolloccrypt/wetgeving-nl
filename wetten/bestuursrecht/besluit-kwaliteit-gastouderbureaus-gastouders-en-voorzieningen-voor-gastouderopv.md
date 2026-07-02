@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 30 mei 2012 tot het stellen van eisen aan de Kwaliteit kinderopvang en peuterspeelzalen (Besluit kwaliteit kinderopvang en peuterspeelzalen)"
+title: "Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang"
 identifier: "BWBR0031621"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031621"
-soort: "AMvB"
-stam_id: "11747103"
-version_id: "24325632"
-internal_id: "C34919511"
-label_id: "11719774"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031621/2020-10-01/0"
-intitule_bron: "Stb.2012-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-30"
-intitule_published: "2012-06-05"
-intitule_in_force: "2012-06-05"
-intitule_status: "goed"
-original_publication: "Stb.2017-323"
-original_signed_date: "2017-08-23"
-original_published_date: "2017-09-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2017-323"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0031621&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0031621&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang"
-signed_date: "2017-08-23"
-entry_into_force: "2018-01-01"
+categorie: "Overig"
+publicatiedatum: 2020-10-01
+laatste_update: 2020-10-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0031621"
 ---
+
 # Besluit van 30 mei 2012 tot het stellen van eisen aan de Kwaliteit kinderopvang en peuterspeelzalen (Besluit kwaliteit kinderopvang en peuterspeelzalen)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2012, nr. KO/2012/3708;
@@ -50,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 1. Begrippen
+#### Artikel 1. Begrippen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,29 +46,29 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
 
-##### Artikel 2. Veiligheid en gezondheid
+#### Artikel 2. Veiligheid en gezondheid
 
 Vervallen
 
-##### Artikel 3. Opleidingseisen beroepskrachten en inzet beroepskrachten in opleiding
+#### Artikel 3. Opleidingseisen beroepskrachten en inzet beroepskrachten in opleiding
 
 Vervallen
 
-##### Artikel 4. Aantal beroepskrachten in relatie tot aantal kinderen per leeftijdscategorie en groepsgrootte
+#### Artikel 4. Aantal beroepskrachten in relatie tot aantal kinderen per leeftijdscategorie en groepsgrootte
 
 Vervallen
 
-##### Artikel 5. Pedagogisch beleid en pedagogische praktijk
+#### Artikel 5. Pedagogisch beleid en pedagogische praktijk
 
 Vervallen
 
-##### Artikel 6. Eisen aan ruimtes voor kinderopvang
+#### Artikel 6. Eisen aan ruimtes voor kinderopvang
 
 Vervallen
 
 #### Paragraaf 3. Kwaliteitseisen gastouderbureaus
 
-##### Artikel 7. Veiligheid en gezondheid
+#### Artikel 7. Veiligheid en gezondheid
 
 1. De houder van een gastouderbureau voert een beleid dat ertoe leidt dat de veiligheid en de gezondheid van de op te vangen kinderen op het adres waar de opvang plaatsvindt door de gastouder zoveel mogelijk is gewaarborgd.
 
@@ -112,7 +86,7 @@ Vervallen
 
 - b. de wijze waarop de houder van een gastouderbureau de inventarisatie openbaar maakt.
 
-##### Artikel 8. Meldcode huiselijk geweld en kindermishandeling
+#### Artikel 8. Meldcode huiselijk geweld en kindermishandeling
 
 1. De door de houder van een gastouderbureau voor de gastouders vast te stellen meldcode bevat ten minste de volgende elementen:
 
@@ -142,15 +116,15 @@ Vervallen
 
 - 2°. het inzetten van de noodzakelijke hulp.
 
-##### Artikel 9. Aanvullende regels inzake kwaliteit gastouderbureaus
+#### Artikel 9. Aanvullende regels inzake kwaliteit gastouderbureaus
 
 Bij ministeriële regeling kunnen in ieder geval nadere regels worden gesteld omtrent de kwaliteit van gastouderbureaus inzake het voeren van gesprekken met gastouders en vraagouders en inzake de zorgplicht van gastouderbureaus.
 
-##### Artikel 10. Zorgplicht gastouderbureaus
+#### Artikel 10. Zorgplicht gastouderbureaus
 
 Vervallen
 
-##### Artikel 11. Pedagogisch beleidsplan
+#### Artikel 11. Pedagogisch beleidsplan
 
 1. De houder van een gastouderbureau stelt een pedagogisch beleidsplan vast, waarin de voor dat gastouderbureau kenmerkende visie op de omgang met kinderen is beschreven.
 
@@ -158,7 +132,7 @@ Vervallen
 
 #### Paragraaf 4. Kwaliteitseisen gastouders en voorzieningen voor gastouderopvang
 
-##### Artikel 12. Veiligheid en gezondheid
+#### Artikel 12. Veiligheid en gezondheid
 
 1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2020-10-01&g=2020-10-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
@@ -166,7 +140,7 @@ Vervallen
 
 3. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot de inhoud, de naleving en de beschikbaarheid van de inventarisatie, bedoeld in het eerste lid, alsmede ten aanzien van de vervanging, bedoeld in het tweede lid.
 
-##### Artikel 13. Deskundigheidseisen gastouder
+#### Artikel 13. Deskundigheidseisen gastouder
 
 1. De deskundigheid van de gastouderopvang omvat:
 
@@ -186,33 +160,33 @@ Vervallen
 
 3. Het voldoen aan de in het eerste lid, onderdeel b, bedoelde eis blijkt uit het bezit van bij ministeriële regeling aan te wijzen bewijsstukken van met goed gevolg afgesloten onderricht dat in elk geval omvat eerste hulp aan kinderen bij ongevallen.
 
-##### Artikel 14. Groepsgrootte
+#### Artikel 14. Groepsgrootte
 
 1. De maximale groepsgrootte per gastouder wordt afgestemd op de leeftijdscategorieën van de kinderen, waarbij naarmate er meer kinderen in een hogere leeftijdscategorie vallen, de gastouder meer kinderen mag opvangen.
 
 2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot de groepsgrootte, bedoeld in het eerste lid.
 
-##### Artikel 15. Eisen aan ruimtes gastouderopvang
+#### Artikel 15. Eisen aan ruimtes gastouderopvang
 
 1. Het adres waar opvang plaatsvindt, beschikt over voldoende speel- en slaapruimte afgestemd op het aantal kinderen. De binnen- en buitenruimtes waar de kinderen, gedurende de tijd dat zij worden opgevangen, verblijven zijn veilig, toegankelijk en passend ingericht in overeenstemming met het aantal en de leeftijd van de op te vangen kinderen.
 
 2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot de eisen waaraan de binnen- en buitenruimtes, bedoeld in het eerst lid, voldoen.
 
-##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
+#### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
 De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2020-10-01&g=2020-10-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
-##### Artikel 17. Overgangsrecht
+#### Artikel 17. Overgangsrecht
 
 Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde op 31 december 2011, dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2020-10-01&g=2020-10-01), bedoelde deskundigheidseis.
 
-##### Artikel 18. Citeertitel
+#### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang.
 
-##### Artikel 19. Aantal beroepskrachten en vrijwilligers en groepsgrootte
+#### Artikel 19. Aantal beroepskrachten en vrijwilligers en groepsgrootte
 
 1. De groepsgrootte kan worden afgestemd op de leeftijdscategorieën van de kinderen.
 
@@ -228,7 +202,7 @@ Dit besluit wordt aangehaald als: Besluit kwaliteit gastouderbureaus, gastouders
 
 - c. de vervanging, bedoel in het derde lid, en wijze waarop deze vervanging bekend gemaakt wordt.
 
-##### Artikel 20. Pedagogisch beleid en pedagogische praktijk
+#### Artikel 20. Pedagogisch beleid en pedagogische praktijk
 
 1. De opvang vindt in beginsel plaats in vaste groepen met vaste beroepskrachten in een vaste groepsruimte.
 
@@ -246,7 +220,7 @@ Dit besluit wordt aangehaald als: Besluit kwaliteit gastouderbureaus, gastouders
 
 #### Paragraaf 1. Overgangsbepaling
 
-##### Artikel 21. Overgangsrecht
+#### Artikel 21. Overgangsrecht
 
 1. De gastouder of de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal wordt geacht tot 1 juli 2017 verlengd tot 1 januari 2018 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor 6 juni 2012 heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan, tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
 
@@ -256,25 +230,25 @@ Dit besluit wordt aangehaald als: Besluit kwaliteit gastouderbureaus, gastouders
 
 #### Paragraaf 1. Overgangsbepaling
 
-##### Artikel 22. Intrekking besluit
+#### Artikel 22. Intrekking besluit
 
 Het [Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824) wordt ingetrokken.
 
-##### Artikel 23. Grondslag
+#### Artikel 23. Grondslag
 
 Vervallen
 
-##### Artikel 24. Inwerkingtreding
+#### Artikel 24. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-##### Artikel 25. Citeertitel
+#### Artikel 25. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit kwaliteit kinderopvang en peuterspeelzalen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 2a. Meldcode huiselijk geweld en kindermishandeling
+#### Artikel 2a. Meldcode huiselijk geweld en kindermishandeling
 
 Vervallen
 
@@ -284,7 +258,7 @@ Vervallen
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
-##### Artikel 17a. Meldcode huiselijk geweld en kindermishandeling
+#### Artikel 17a. Meldcode huiselijk geweld en kindermishandeling
 
 1. De door de houder van een peuterspeelzaal voor het personeel vast te stellen meldcode bevat ten minste de volgende elementen:
 
@@ -314,7 +288,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 3a. Opleidingseisen beroepskrachten meertalige buitenschoolse opvang
+#### Artikel 3a. Opleidingseisen beroepskrachten meertalige buitenschoolse opvang
 
 Vervallen
 

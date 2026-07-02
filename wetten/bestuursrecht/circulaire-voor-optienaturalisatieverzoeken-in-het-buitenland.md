@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Minister van Justitie van 30 maart 2009, nummer WBN 2009/1, houdende wijziging van de tekst van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op buiten het Koninkrijk afgelegde optieverklaringen en ingediende naturalisatieverzoeken"
+title: "Circulaire voor Optie/Naturalisatieverzoeken in het buitenland"
 identifier: "BWBR0025740"
-country: "nl"
-rank: "circulaire"
-publication_date: "2026-02-01"
-last_updated: "2026-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025740"
-soort: "circulaire"
-stam_id: "9991663"
-version_id: "31206842"
-internal_id: "C44639111"
-label_id: "9970194"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025740/2026-02-01/0"
-intitule_bron: "Stcrt.2009-86"
-intitule_effect: "wijziging"
-intitule_signed: "2009-03-30"
-intitule_published: "2009-05-12"
-intitule_in_force: "2009-05-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35600"
-original_signed_date: "2025-10-20"
-original_published_date: "2025-10-31"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-35600"
-entry_into_force_date: "2026-02-01"
-jci_1_3: "jci1.3:c:BWBR0025740&z=2026-02-01&g=2026-02-01"
-jci_1_0: "1.0:c:BWBR0025740&g=2026-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Circulaire voor Optie/Naturalisatieverzoeken in het buitenland"
-signed_date: "2025-10-20"
-entry_into_force: "2026-02-01"
+categorie: "Overig"
+publicatiedatum: 2026-02-01
+laatste_update: 2026-02-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0025740"
 ---
+
 # Besluit van de Minister van Justitie van 30 maart 2009, nummer WBN 2009/1, houdende wijziging van de tekst van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op buiten het Koninkrijk afgelegde optieverklaringen en ingediende naturalisatieverzoeken
 
 **Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap, toegespitst op buiten het Koninkrijk afgelegde optieverklaringen en ingediende naturalisatieverzoeken**

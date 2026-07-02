@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 30 juni 1997, houdende vaststelling van het Hersendoodprotocol"
+title: "Besluit vaststelling van de dood bij postmortale orgaandonatie"
 identifier: "BWBR0008776"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0008776"
-soort: "AMvB"
-stam_id: "594643"
-version_id: "26499442"
-internal_id: "C37886321"
-label_id: "576864"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0008776/2020-07-01/0"
-intitule_bron: "Stb.1997-306"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-30"
-intitule_published: "1997-07-17"
-intitule_in_force: "1998-01-29"
-intitule_status: "goed"
-original_publication: "Stb.2020-36"
-original_signed_date: "2020-01-23"
-original_published_date: "2020-02-06"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2020-36"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0008776&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0008776&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vaststelling van de dood bij postmortale orgaandonatie"
-signed_date: "2020-01-23"
-entry_into_force: "2020-07-01"
+categorie: "Overig"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0008776"
 ---
+
 # Besluit van 30 juni 1997, houdende vaststelling van het Hersendoodprotocol
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 12 februari 1997, DWJZ-U-97197, gedaan mede namens Onze Minister van Justitie;
@@ -48,13 +22,13 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-##### Artikel 1
+#### Artikel 1
 
 1. De protocollen voor vaststelling van de dood op grond van circulatoire criteria, bedoeld in [artikel 15, eerste lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=15), worden vastgesteld overeenkomstig [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008776&bijlage=1&z=2020-07-01&g=2020-07-01) bij dit besluit.
 
 2. Het Hersendoodprotocol, bedoeld in [artikel 15, eerste lid, van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=15), wordt vastgesteld overeenkomstig [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008776&bijlage=2&z=2020-07-01&g=2020-07-01) bij dit besluit.
 
-##### Artikel 2
+#### Artikel 2
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -190,7 +164,7 @@ Bij hersendood kunnen via het ruggenmerg verlopende reflexen aanwezig zijn. Dit 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 3
+#### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit vaststelling van de dood bij postmortale orgaandonatie.
 

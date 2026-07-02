@@ -1,41 +1,14 @@
 ---
-title: "Wet van 22 augustus 2022, houdende regels voor het in rekening brengen van een vrachtwagenheffing voor het rijden met een vrachtwagen op aangewezen wegvakken (Wet vrachtwagenheffing)"
+title: "Wet vrachtwagenheffing"
 identifier: "BWBR0047082"
-country: "nl"
-rank: "wet"
-publication_date: "2026-03-01"
-last_updated: "2026-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047082"
-soort: "wet"
-stam_id: "16466723"
-version_id: "28850522"
-internal_id: "C41400321"
-label_id: "16389574"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047082/2026-03-01/0"
-intitule_bron: "Stb.2022-330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-22"
-intitule_published: "2022-08-30"
-intitule_in_force: "2022-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2022-330"
-original_signed_date: "2022-08-22"
-original_published_date: "2022-08-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "35910"
-original_url_id: "stb-2022-330"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047082&z=2026-03-01&g=2026-03-01"
-jci_1_0: "1.0:c:BWBR0047082&g=2026-03-01"
-citeertitel_status: "officieel"
-short_title: "Wet vrachtwagenheffing"
-signed_date: "2022-08-22"
-entry_into_force: "2023-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-03-01
+laatste_update: 2026-03-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0047082"
 ---
-# Wet van 22 augustus 2022, houdende regels voor het in rekening brengen van een vrachtwagenheffing voor het rijden met een vrachtwagen op aangewezen wegvakken (Wet vrachtwagenheffing)
+
+# Wet vrachtwagenheffing
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -45,7 +18,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1. (begripsbepalingen)
+#### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -133,7 +106,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ### Hoofdstuk 2. Vrachtwagenheffing
 
-##### Artikel 2. (betalingsplichtige en belastbaar feit)
+#### Artikel 2. (betalingsplichtige en belastbaar feit)
 
 1. Dit lid is nog niet in werking getreden.
 
@@ -147,7 +120,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 6. Bij het heffen van de vrachtwagenheffing wordt geen direct of indirect onderscheid als bedoeld in artikel 7, vijfde lid, van [Richtlijn 99/62/EG](31999L0062) gemaakt op grond van de nationaliteit van de weggebruiker, de lidstaat van de Europese Unie of de staat, niet zijnde een lidstaat van de Europese Unie waar de vervoerder gevestigd is dan wel waar het voertuig geregistreerd is, of de herkomst of de bestemming van het vervoer.
 
-##### Artikel 3. (vrijstelling of ontheffing)
+#### Artikel 3. (vrijstelling of ontheffing)
 
 1. De houder is vrijgesteld van de vrachtwagenheffing voor vrachtwagens die:
 
@@ -183,13 +156,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ### Hoofdstuk 4. Betaling en invordering
 
-##### Artikel 13. (overtreding)
+#### Artikel 13. (overtreding)
 
 1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 4, tweede lid, aanhef, of aanhef en onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2026-03-01&g=2026-03-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2026-03-01&g=2026-03-01).
 
 2. Een overtreding als bedoeld in het eerste lid valt onder het begrip niet-betalen van wegentol, bedoeld in [artikel 1 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=1).
 
-##### Artikel 14. (toezicht)
+#### Artikel 14. (toezicht)
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van Onze Minister aangewezen ambtenaren.
 
@@ -215,7 +188,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 6. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-##### Artikel 15. (bestuurlijke boete voor een overtreding)
+#### Artikel 15. (bestuurlijke boete voor een overtreding)
 
 1. Onze Minister kan aan de houder een bestuurlijke boete opleggen voor een overtreding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2026-03-01&g=2026-03-01). Daartoe kan Onze Minister de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2026-03-01&g=2026-03-01), verwerken.
 
@@ -223,7 +196,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 3. Voor één feit dat valt onder meerdere omschrijvingen van overtredingen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2026-03-01&g=2026-03-01), kan slechts één bestuurlijke boete worden opgelegd. In dat geval is de ten hoogste op te leggen boete de hoogste boete van de afzonderlijke overtredingen.
 
-##### Artikel 16. (hoogte bestuurlijke boete)
+#### Artikel 16. (hoogte bestuurlijke boete)
 
 1. De op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2026-03-01&g=2026-03-01), op te leggen boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -241,7 +214,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 8. [Artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) is niet van toepassing op het opleggen van de bestuurlijk boete.
 
-##### Artikel 17. (stilhouden en voorlopige maatregelen)
+#### Artikel 17. (stilhouden en voorlopige maatregelen)
 
 1. Op de eerste vordering van een aangewezen ambtenaar als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2026-03-01&g=2026-03-01), is de bestuurder van een vrachtwagen verplicht die te doen stilhouden.
 
@@ -259,7 +232,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de overbrenging, bewaring, eigendomsoverdracht om niet, verkoop, vernietiging, de berekening van de kosten van overbrenging en bewaring, alsmede over hetgeen verder voor de uitvoering van dit artikel noodzakelijk is.
 
-##### Artikel 18. (kwijtschelden bestuurlijke boete)
+#### Artikel 18. (kwijtschelden bestuurlijke boete)
 
 Onze Minister scheldt de bestuurlijke boete in ieder geval kwijt als degene aan wie de boete is opgelegd bezwaar tegen de bestuurlijke boete maakt en:
 
@@ -269,11 +242,11 @@ Onze Minister scheldt de bestuurlijke boete in ieder geval kwijt als degene aan 
 
 ### Hoofdstuk 6. Terugsluis
 
-##### Artikel 19. (schorsende werking bezwaar en beroep tegen boete ex [art. 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2026-03-01&g=2026-03-01))
+#### Artikel 19. (schorsende werking bezwaar en beroep tegen boete ex [art. 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2026-03-01&g=2026-03-01))
 
 Als bezwaar wordt gemaakt of beroep wordt ingesteld tegen de beschikking tot het opleggen van de bestuurlijke boete, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2026-03-01&g=2026-03-01), en die beschikking is niet bekendgemaakt met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2026-03-01&g=2026-03-01), wordt de werking van die beschikking geschorst totdat die onherroepelijk is.
 
-##### Artikel 20. (opkomen tegen beschikking die direct is ingevorderd)
+#### Artikel 20. (opkomen tegen beschikking die direct is ingevorderd)
 
 Het bezwaar en beroep tegen de beschikking tot het opleggen van een bestuurlijke boete die is bekendgemaakt met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2026-03-01&g=2026-03-01), richt zich ook tegen de voorlopige maatregel, bedoeld in artikel 17, derde lid.
 
@@ -281,43 +254,43 @@ Het bezwaar en beroep tegen de beschikking tot het opleggen van een bestuurlijke
 
 ### Hoofdstuk 10. Wijziging andere wetten
 
-##### Artikel 25. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+#### Artikel 25. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 Wijzigt de Algemene wet bestuursrecht.
 
-##### Artikel 26. (wijziging [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770))
+#### Artikel 26. (wijziging [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770))
 
 Wijzigt de Invorderingswet 1990.
 
-##### Artikel 27. (wijziging [Wegenverkeerswet 1994](onbekend))
+#### Artikel 27. (wijziging [Wegenverkeerswet 1994](onbekend))
 
 Wijzigt de Wegenverkeerswet 1994.
 
-##### Artikel 28. (wijziging [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948))
+#### Artikel 28. (wijziging [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948))
 
 Wijzigt de Wegenwet.
 
-##### Artikel 29. (wijziging [Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678))
+#### Artikel 29. (wijziging [Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678))
 
 1. De [Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678) wordt ingetrokken.
 
 2. De heffing van het gemeenschappelijk gebruiksrecht, bedoeld in artikel 3 van het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens (Trb. 1994, 69) wordt overeenkomstig artikel 17 van dat verdrag beëindigd.
 
-##### Artikel 30. (wijziging [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324))
+#### Artikel 30. (wijziging [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324))
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-##### Artikel 31. (wijziging [Wet overgang belastingheffing in euro’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010136))
+#### Artikel 31. (wijziging [Wet overgang belastingheffing in euro’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010136))
 
 Wijzigt de Wet overgang belastingheffing in euro’s.
 
-##### Artikel 32. (wijziging [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604))
+#### Artikel 32. (wijziging [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604))
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-##### Artikel 33. (spoedregeling)
+#### Artikel 33. (spoedregeling)
 
 1. Onze Minister kan met het oog op de verkeersveiligheid, de bereikbaarheid of de toestand van de fysieke leefomgeving in spoedeisende gevallen die zijn ontstaan als gevolg van de vrachtwagenheffing, bij ministeriële regeling wegvakken aanwijzen waarvoor het tarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=5&z=2026-03-01&g=2026-03-01), komt te gelden of wegvakken die zijn opgenomen in de bijlage aanwijzen waarvoor in afwijking van artikel 5, eerste lid, een tarief van € 0,00 komt te gelden.
 
@@ -325,19 +298,19 @@ Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en
 
 3. Na plaatsing in de Staatscourant van een krachtens het eerste lid vastgestelde ministeriële regeling wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Tweede Kamer der Staten-Generaal ingediend. Als een voorstel wordt ingetrokken of als een van de beide Kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onmiddellijk ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
-##### Artikel 34. (evaluatie)
+#### Artikel 34. (evaluatie)
 
 Onze Minister zendt telkens uiterlijk op het moment dat hij het in artikel 11 van [Richtlijn 99/62/EG](31999L0062) bedoelde verslag publiceert, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-##### Artikel 35. (overgangsrecht)
+#### Artikel 35. (overgangsrecht)
 
 De bepalingen gesteld bij of krachtens de [Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678), [artikel 9, achtste lid, onderdeel b, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) en [artikel 42, vierde lid, onder b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42) zoals zij luidden voor de inwerkingtreding van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=10&artikel=26&z=2026-03-01&g=2026-03-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=10&artikel=27&z=2026-03-01&g=2026-03-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=10&artikel=29&z=2026-03-01&g=2026-03-01) blijven van toepassing voor zover een belastbaar feit als bedoeld in [artikel 2 van de Wet belasting zware motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&artikel=2) heeft plaatsgevonden op een tijdstip voordat artikel 29 in werking is getreden.
 
-##### Artikel 36. (inwerkingtreding)
+#### Artikel 36. (inwerkingtreding)
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 37. (citeertitel)
+#### Artikel 37. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet vrachtwagenheffing.
 
@@ -487,11 +460,11 @@ Deze wet wordt aangehaald als: Wet vrachtwagenheffing.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 7. (betaling zonder beschikking)
+#### Artikel 7. (betaling zonder beschikking)
 
 Het bedrag van de vrachtwagenheffing wordt betaald zonder dat dit bij beschikking wordt vastgesteld.
 
-##### Artikel 8. (dienstverleningsovereenkomst tussen dienstaanbieder en houder)
+#### Artikel 8. (dienstverleningsovereenkomst tussen dienstaanbieder en houder)
 
 1. Dit lid is nog niet in werking getreden.
 
@@ -525,7 +498,7 @@ Het bedrag van de vrachtwagenheffing wordt betaald zonder dat dit bij beschikkin
 
 9. Artikel 2, zesde lid, van Uitvoerings[verordening (EU) 2020/204](32104R2020) is van overeenkomstige toepassing bij het factureren, bedoeld in het vijfde lid, onder b, van de houder door de hoofddienstaanbieder.
 
-##### Artikel 9. (relatie Onze Minister en dienstaanbieder)
+#### Artikel 9. (relatie Onze Minister en dienstaanbieder)
 
 1. Als een dienstverleningsovereenkomst is gesloten, opgeschort, of beëindigd, en als de houder een melding heeft gedaan als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2026-03-01&g=2026-03-01), geeft de dienstaanbieder dat onmiddellijk door aan Onze Minister. Artikel 2, vierde lid, van Uitvoerings[verordening (EU) 2020/204](32104R2020) is van overeenkomstige toepassing op de gegevensverstrekking door de hoofddienstaanbieder aan de tolheffer.
 
@@ -537,13 +510,13 @@ Het bedrag van de vrachtwagenheffing wordt betaald zonder dat dit bij beschikkin
 
 5. Verwerking voor het doel, bedoeld in het vierde lid, kan plaatsvinden door de vastgelegde gegevens door middel van een technisch systeem geautomatiseerd te vergelijken met andere gegevens die voor dit doel zijn verkregen.
 
-##### Artikel 10. (invordering via privaatrecht)
+#### Artikel 10. (invordering via privaatrecht)
 
 Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2026-03-01&g=2026-03-01), en [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=9&z=2026-03-01&g=2026-03-01), zijn de [artikelen 4:88, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:88), [4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94) en [4:94a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94a) en de [afdelingen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2), [4.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.3) en [4.4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.4) niet van toepassing.
 
 ### Hoofdstuk 5. Hoofddienstaanbieder
 
-##### Artikel 11. (verplichtingen hoofddienstaanbieder)
+#### Artikel 11. (verplichtingen hoofddienstaanbieder)
 
 1. De hoofddienstaanbieder, bedoeld in [artikel 1 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=1), is verplicht met elke houder die daarom verzoekt, een dienstverleningsovereenkomst te sluiten.
 
@@ -551,7 +524,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wet
 
 ### Hoofdstuk 6. Terugsluis
 
-##### Artikel 12. (meerjarenprogramma)
+#### Artikel 12. (meerjarenprogramma)
 
 1. Onze Minister stelt na overleg met de vervoerssector telkens voor een termijn van ten hoogste vijf jaar een meerjarenprogramma voor innovatie en verduurzaming van de vervoerssector vast.
 
@@ -573,7 +546,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wet
 
 ### Hoofdstuk 8. Bezwaar en beroep
 
-##### Artikel 21. (bescherming persoonsgegevens, gebruikt door Onze Minister)
+#### Artikel 21. (bescherming persoonsgegevens, gebruikt door Onze Minister)
 
 1. Onze Minister is verwerkingsverantwoordelijke voor de verwerking van de bij algemene maatregel van bestuur aan te wijzen persoonsgegevens en de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2026-03-01&g=2026-03-01), die verwerkt worden voor:
 
@@ -603,7 +576,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wet
 
 5. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
 
-##### Artikel 22. (bescherming persoonsgegevens, gebruikt door de toezichthouder)
+#### Artikel 22. (bescherming persoonsgegevens, gebruikt door de toezichthouder)
 
 1. De toezichthouder is verwerkingsverantwoordelijke voor de verwerking van de bij algemene maatregel van bestuur aan te wijzen persoonsgegevens en de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2026-03-01&g=2026-03-01), die verwerkt worden voor:
 
@@ -621,7 +594,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wet
 
 4. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
 
-##### Artikel 23. (bescherming persoonsgegevens, gebruikt door de dienstaanbieder)
+#### Artikel 23. (bescherming persoonsgegevens, gebruikt door de dienstaanbieder)
 
 1. Een dienstaanbieder is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens voor:
 
@@ -637,7 +610,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wet
 
 4. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
 
-##### Artikel 24. (register)
+#### Artikel 24. (register)
 
 1. Er is een register voor de vrachtwagenheffing waarin de gegevens worden verwerkt die nodig zijn voor een goede uitvoering van de vrachtwagenheffing.
 
@@ -809,7 +782,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8, tweede lid](https://wet
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 4. (registratie km’s met boordapparatuur)
+#### Artikel 4. (registratie km’s met boordapparatuur)
 
 1. De registratie van het aantal gereden kilometers op een wegvak als bedoeld in de bijlage vindt plaats met behulp van boordapparatuur.
 
@@ -829,7 +802,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Als de dienstaanbieder waarmee de houder een dienstverleningsovereenkomst heeft, zijn diensten niet meer kan leveren gelden de verplichtingen van de houder, bedoeld in het tweede lid, niet gedurende een bij ministeriële regeling te stellen termijn waarbinnen de houder in de gelegenheid wordt gesteld een dienstverleningsovereenkomst te sluiten met een andere dienstaanbieder.
 
-##### Artikel 5. (tarieven)
+#### Artikel 5. (tarieven)
 
 1. Het tarief voor de vrachtwagenheffing bedraagt per gereden kilometer in euro op een wegvak als aangewezen in de bijlage en is de som van:
 
@@ -896,7 +869,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Bij de inwerkingtreding van dit artikel worden de bedragen, bedoeld in het eerste lid, bij ministeriële regeling gewijzigd. Het tweede lid is van overeenkomstige toepassing met dien verstande dat de tabelcorrectiefactoren die van toepassing zijn op 1 januari 2024 en de daarop volgende jaren tot en met het jaar waarin dit artikel in werking treedt, achtereenvolgend worden toegepast.
 
-##### Artikel 6. (bedrag van de vrachtwagenheffing)
+#### Artikel 6. (bedrag van de vrachtwagenheffing)
 
 Het door de houder te betalen bedrag van de vrachtwagenheffing per wegvak wordt berekend als volgt:
 

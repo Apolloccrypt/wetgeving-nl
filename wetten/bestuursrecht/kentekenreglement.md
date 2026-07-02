@@ -1,38 +1,13 @@
 ---
-title: "Besluit van 6 oktober 1994, houdende uitvoering van de Wegenverkeerswet 1994"
+title: "Kentekenreglement"
 identifier: "BWBR0006951"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006951"
-soort: "AMvB"
-stam_id: "1870273"
-version_id: "30702692"
-internal_id: "C44009851"
-label_id: "1823374"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006951/2025-07-01/0"
-intitule_bron: "Stb.1994-760"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-06"
-intitule_in_force: "1994-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2025-104"
-original_signed_date: "2025-04-07"
-original_published_date: "2025-04-24"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2025-104"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0006951&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0006951&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Kentekenreglement"
-signed_date: "2025-04-07"
-entry_into_force: "2025-07-01"
+categorie: "Overig"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0006951"
 ---
+
 # Besluit van 6 oktober 1994, houdende uitvoering van de Wegenverkeerswet 1994
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 15 juni 1993, nr. RV 151906, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
@@ -47,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -85,13 +60,13 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Kentekens
 
-##### Artikel 2. Opgave en inrichting kenteken
+#### Artikel 2. Opgave en inrichting kenteken
 
 1. De opgave van een kenteken geschiedt door inschrijving dan wel door tenaamstelling van een voertuig in het kentekenregister.
 
 2. Het kenteken bestaat uit een combinatie van letters en cijfers dan wel een combinatie van één letter en cijfers.
 
-##### Artikel 3. Handelaarskenteken
+#### Artikel 3. Handelaarskenteken
 
 Aan een erkend bedrijf bedrijfsvoorraad of aan een natuurlijke persoon of rechtspersoon als bedoeld in [artikel 42, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2025-07-01&g=2025-07-01), kan, indien wordt voldaan aan [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&z=2025-07-01&g=2025-07-01), voor de in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) bedoelde voertuigen een kenteken worden opgegeven dat slechts één lettergroep bevat, zijnde voor:
 
@@ -103,7 +78,7 @@ Aan een erkend bedrijf bedrijfsvoorraad of aan een natuurlijke persoon of rechts
 
 - d. aanhangwagens de lettergroep OA.
 
-##### Artikel 4. Bijzondere kentekens
+#### Artikel 4. Bijzondere kentekens
 
 1. Aan leden van het Koninklijk Huis en aan buitenlandse diplomaten kan een kenteken worden opgegeven bevattende de lettergroep AA onderscheidenlijk CD en aan hen die behoren tot het Internationaal Gerechtshof dan wel tot een door Onze Minister van Buitenlandse Zaken aangewezen internationale organisatie een kenteken bevattende de lettergroep CDJ.
 
@@ -125,7 +100,7 @@ Aan een erkend bedrijf bedrijfsvoorraad of aan een natuurlijke persoon of rechts
 
 4. Indien naar oordeel van Onze Minister sprake is van een uitzonderlijke gelegenheid met een karakter van nationaal of internationaal belang kunnen tijdelijke kentekens worden opgegeven.
 
-##### Artikel 5. Kentekenplaat
+#### Artikel 5. Kentekenplaat
 
 1. Het kenteken wordt aangebracht op een plaat die behoort tot een door de Dienst Wegverkeer goedgekeurde soort.
 
@@ -135,7 +110,7 @@ Aan een erkend bedrijf bedrijfsvoorraad of aan een natuurlijke persoon of rechts
 
 ### Hoofdstuk 3. Registratie van kentekens
 
-##### Artikel 6. De inrichting van het kentekenregister
+#### Artikel 6. De inrichting van het kentekenregister
 
 1. Het kentekenregister bevat uitsluitend de volgende categorieën gegevens:
 
@@ -193,7 +168,7 @@ Aan een erkend bedrijf bedrijfsvoorraad of aan een natuurlijke persoon of rechts
 
 3. De in het eerste lid bedoelde gegevens worden, voor zover zij verband houden met een tenaamstelling, maximaal negen jaar na het verval van de tenaamstelling in het kentekenregister bewaard. De overige gegevens worden gedurende een door de Dienst Wegverkeer vastgestelde periode bewaard.
 
-##### Artikel 7. Authentieke en gevoelige gegevens
+#### Artikel 7. Authentieke en gevoelige gegevens
 
 1. Als authentieke gegevens of categorieën daarvan als bedoeld in [artikel 42a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42a) worden aangewezen gegevens omtrent:
 
@@ -239,7 +214,7 @@ Aan een erkend bedrijf bedrijfsvoorraad of aan een natuurlijke persoon of rechts
 
 3. Niet-gevoelige gegevens zijn alle gegevens die niet op grond van het tweede lid als gevoelig zijn aangewezen.
 
-##### Artikel 8. Mededeling feiten en onjuistheden door overheidsorganen
+#### Artikel 8. Mededeling feiten en onjuistheden door overheidsorganen
 
 De Dienst Wegverkeer bepaalt de wijze waarop:
 
@@ -247,7 +222,7 @@ De Dienst Wegverkeer bepaalt de wijze waarop:
 
 - b. een authentiek gegeven als bedoeld in [artikel 41a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) «in onderzoek» wordt geplaatst als bedoeld in [artikel 43c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43c).
 
-##### Artikel 9. Verstrekking van gevoelige gegevens aan anderen dan overheidsorganen, autoriteiten buiten Nederland en instellingen van volkenrechtelijke organisaties
+#### Artikel 9. Verstrekking van gevoelige gegevens aan anderen dan overheidsorganen, autoriteiten buiten Nederland en instellingen van volkenrechtelijke organisaties
 
 1. Aan de volgende personen en instanties kunnen gevoelige gegevens worden verstrekt:
 
@@ -271,7 +246,7 @@ De Dienst Wegverkeer bepaalt de wijze waarop:
 
 3. Bij ministeriële regeling kunnen regels worden gesteld omtrent het gebruik van de aan de in het eerste lid genoemde personen en instanties verstrekte gegevens. Daarbij kunnen beperkingen aan het gebruik worden gesteld alsmede voorschriften ten aanzien van de beveiliging van de verstrekte gegevens en voorschriften voor het verlenen van medewerking aan het toezicht door de Dienst Wegverkeer.
 
-##### Artikel 10. Aanvraag van gegevens
+#### Artikel 10. Aanvraag van gegevens
 
 1. De aanvraag tot het verstrekken van gegevens geschiedt op door de Dienst Wegverkeer te bepalen wijze en onder opgave van de reden, waarbij de identiteit van de aanvrager met voldoende zekerheid door deze dienst kan worden vastgesteld.
 
@@ -281,7 +256,7 @@ De Dienst Wegverkeer bepaalt de wijze waarop:
 
 4. In afwijking van het eerste tot en met derde lid hoeft bij de aanvraag van niet-gevoelige gegevens geen reden voor de aanvraag te worden opgegeven noch is vaststelling van de identiteit van de aanvrager noodzakelijk.
 
-##### Artikel 11. Verstrekking van persoonsgegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01)
+#### Artikel 11. Verstrekking van persoonsgegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01)
 
 1. Nadat een belanghebbende als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01), een verzoek om verstrekking van persoonsgegevens heeft ingediend, vraagt de Dienst Wegverkeer aan betrokkene toestemming voor de verstrekking van deze gegevens. Deze dienst geeft daarbij aan voor welke doeleinden de verstrekking is verzocht.
 
@@ -293,17 +268,17 @@ De Dienst Wegverkeer bepaalt de wijze waarop:
 
 5. In afwijking van het eerste lid blijft het vragen van toestemming achterwege indien het een aanvraag betreft door degene die als eigenaar van het desbetreffende voertuig in het kentekenregister staat geregistreerd tot verstrekking van persoonsgegevens met betrekking tot de houder aan wie het kentekenbewijs is afgegeven.
 
-##### Artikel 12. Verstrekking van gevoelige gegevens aan beroepsbeoefenaren
+#### Artikel 12. Verstrekking van gevoelige gegevens aan beroepsbeoefenaren
 
 Aan beroepsbeoefenaren of categorieën van beroepsbeoefenaren als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01), worden de gevraagde gegevens verstrekt, voor zover zij deze gegevens beroepshalve nodig hebben voor het realiseren van rechten en plichten met betrekking tot het desbetreffende voertuig of de eigenaar dan wel houder daarvan, die voor de aanvrager of diens cliënt bestaan of kunnen ontstaan, voortvloeiend uit wettelijk voorschrift of uit overeenkomst, een en ander voor zover bij de aanwijzing, bedoeld in artikel 9, eerste lid, onderdeel a, is bepaald.
 
-##### Artikel 13. Verstrekking van gevoelige gegevens aan geregistreerde rechtspersonen en bedrijven
+#### Artikel 13. Verstrekking van gevoelige gegevens aan geregistreerde rechtspersonen en bedrijven
 
 1. Aan rechtspersonen kunnen gevoelige gegevens worden verstrekt met betrekking tot de motorrijtuigen en aanhangwagens ten aanzien waarvan de desbetreffende rechtspersoon als eigenaar dan wel houder in het kentekenregister staat geregistreerd.
 
 2. In aanvulling op het eerste lid kunnen aan degene die in het kentekenregister staat geregistreerd als eigenaar van een voertuig waarvan het kentekenbewijs is afgegeven aan een houder, gevoelige gegevens als bedoeld in [artikel 7, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=7&z=2025-07-01&g=2025-07-01), die betrekking hebben op de houder of diens voertuig worden verstrekt.
 
-##### Artikel 14. Verstrekking van gevoelige gegevens aan informatieproviders
+#### Artikel 14. Verstrekking van gevoelige gegevens aan informatieproviders
 
 1. Aan informatieproviders bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01), kunnen op aanvraag bij ministeriële regeling bepaalde gevoelige gegevens worden verstrekt in overeenstemming met de aanwijzing als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01). De verstrekking van gevoelige gegevens vindt slechts plaats ten behoeve van:
 
@@ -315,17 +290,17 @@ Aan beroepsbeoefenaren of categorieën van beroepsbeoefenaren als bedoeld in [ar
 
 2. Aan de in het eerste lid bedoelde informatieproviders worden uitsluitend gegevens verstrekt die de situatie weergeven op het moment van de verstrekking.
 
-##### Artikel 15. Gebruik van gevoelige gegevens
+#### Artikel 15. Gebruik van gevoelige gegevens
 
 De personen en instanties als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01), mogen de aan hen verstrekte gevoelige gegevens slechts gebruiken voor de doeleinden waarvoor zij zijn verstrekt.
 
-##### Artikel 16. Beperking aan verstrekking en gebruik van gevoelige gegevens
+#### Artikel 16. Beperking aan verstrekking en gebruik van gevoelige gegevens
 
 Op verzoek van betrokkene wordt in het kentekenregister geregistreerd dat hij zijn toestemming onthoudt aan de verstrekking van op hem betrekking hebbende gevoelige gegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2025-07-01&g=2025-07-01).
 
 ### Hoofdstuk 4. Kentekenbewijzen
 
-##### Artikel 17. Kentekenbewijzen
+#### Artikel 17. Kentekenbewijzen
 
 1. In verband met de tenaamstelling van een voertuig in het kentekenregister wordt een kentekencard en een kentekenbewijs deel II afgegeven en een tenaamstellingscode verstrekt. De Dienst Wegverkeer houdt het kentekenbewijs deel II in bewaring.
 
@@ -339,17 +314,17 @@ Op verzoek van betrokkene wordt in het kentekenregister geregistreerd dat hij zi
 
 6. In bij ministeriële regeling te bepalen gevallen kan worden afgeweken van het vijfde lid, indien de aanvraag van een kentekenbewijs betrekking heeft op een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 18. Uitzondering verstrekking tenaamstellingscode
+#### Artikel 18. Uitzondering verstrekking tenaamstellingscode
 
 Voor voertuigen waarvoor een van de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2025-07-01&g=2025-07-01), bedoelde kentekens is opgegeven, verstrekt de Dienst Wegverkeer geen tenaamstellingscode.
 
-##### Artikel 19. Uitzonderingen aanvraageisen
+#### Artikel 19. Uitzonderingen aanvraageisen
 
 1. Het in [artikel 48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) bedoelde vereiste dat een natuurlijk persoon of een rechtspersoon die inschrijving en tenaamstelling verzoekt, in Nederland woonachtig, respectievelijk gevestigd moet zijn, is niet van toepassing op aanvragen gericht op opgave van een kenteken als bedoeld in [artikel 4, eerste of tweede lid, derde lid, onderdeel b of c, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01).
 
 2. Het in [artikel 50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) bedoelde vereiste, dat de aanvrager van een tenaamstelling persoonlijk dient te verschijnen bij een erkend bedrijf tenaamstelling of bij de Dienst Wegverkeer, is niet van toepassing op de aanvraag gericht op de opgave van een kenteken als bedoeld in [artikel 4, eerste of tweede lid, derde lid, onderdeel b of c, of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 19a. Weigering afgifte kentekenbewijs
+#### Artikel 19a. Weigering afgifte kentekenbewijs
 
 1. De afgifte van een kentekenbewijs wordt geweigerd indien uit het kentekenregister blijkt dat de aanvrager ten aanzien van een of meer voertuigen waarvan het kenteken aan hem is dan wel was opgegeven, niet voldoet aan:
 
@@ -359,7 +334,7 @@ Voor voertuigen waarvoor een van de in [artikel 17, derde lid](https://wetten.ov
 
 2. De in het eerste lid bedoelde weigering vindt slechts plaats indien onherroepelijk vaststaat dat de aanvrager tenminste vijf maal niet aan een of meer van de in dat lid bedoelde verplichtingen heeft voldaan.
 
-##### Artikel 20. Weigering tenaamstelling
+#### Artikel 20. Weigering tenaamstelling
 
 1. De tenaamstelling van een voertuig wordt geweigerd indien uit het kentekenregister blijkt dat de aanvrager ten aanzien van een of meer voertuigen die op zijn naam in het kentekenregister zijn of waren ingeschreven, niet voldoet aan:
 
@@ -371,11 +346,11 @@ Voor voertuigen waarvoor een van de in [artikel 17, derde lid](https://wetten.ov
 
 3. De tenaamstelling van een voertuig wordt tevens geweigerd indien uit de gegevens, bedoeld in [artikel 6, eerste lid, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=6&z=2025-07-01&g=2025-07-01), in het kentekenregister blijkt dat het voertuig in beslag is genomen.
 
-##### Artikel 21. Inschrijving zonder tenaamstelling
+#### Artikel 21. Inschrijving zonder tenaamstelling
 
 Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) kan een voertuig worden ingeschreven zonder tenaamstelling, indien met betrekking tot het voertuig bij een in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) of [26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) bedoelde keuring niet kan worden vastgesteld, dan wel slechts op termijn kan worden vastgesteld of dat voertuig al dan niet voldoet aan de voor toelating tot het verkeer op de weg vastgestelde eisen en inschrijving naar het oordeel van de Dienst Wegverkeer verantwoord is.
 
-##### Artikel 22. Vordering afgifte kentekenbewijs ter inzage
+#### Artikel 22. Vordering afgifte kentekenbewijs ter inzage
 
 1. De verplichting tot het ter inzage afgeven van het kentekenbewijs als bedoeld in [artikel 160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), heeft betrekking op de voor het voertuig afgegeven kentekencard en op het kentekenbewijs deel II voor zover dit door de Dienst Wegverkeer is afgegeven.
 
@@ -383,7 +358,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 3. Indien de in [artikel 160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.2) of [3.7 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.7) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.
 
-##### Artikel 23. Rijden met geschorste tenaamstelling en met niet tenaamgesteld voertuig
+#### Artikel 23. Rijden met geschorste tenaamstelling en met niet tenaamgesteld voertuig
 
 1. Gedurende de tijd dat de tenaamstelling van een voertuig is geschorst ingevolge [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=67), mag:
 
@@ -393,13 +368,13 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 2. Met een voertuig zonder tenaamstelling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=21&z=2025-07-01&g=2025-07-01) mag worden gereden gedurende een periode van drie maanden na de dag waarop het voertuig is ingeschreven.
 
-##### Artikel 24. Ter beschikking stellen van een voertuig ten behoeve van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01)
+#### Artikel 24. Ter beschikking stellen van een voertuig ten behoeve van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01)
 
 1. De eigenaar of houder van een voertuig waarvoor opgave van een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), wordt gevraagd stelt het desbetreffende voertuig voor een onderzoek ter beschikking van de Dienst Wegverkeer onder overlegging van een bij ministeriële regeling aangewezen legitimatiebewijs.
 
 2. Bij ministeriële regeling kan worden bepaald dat een aanvraag als bedoeld in het eerste lid niet binnen een bij die regeling te bepalen periode meerdere keren voor hetzelfde voertuig plaatsvindt.
 
-##### Artikel 25. Eerste inschrijving en tenaamstelling van een voertuig
+#### Artikel 25. Eerste inschrijving en tenaamstelling van een voertuig
 
 1. De eigenaar of houder van een voertuig waarvoor de eerste inschrijving en tenaamstelling wordt gevraagd, stelt het voertuig voor een onderzoek ter beschikking bij de Dienst Wegverkeer en legt een bij ministeriële regeling aangewezen legitimatiebewijs over.
 
@@ -423,7 +398,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 - d. een kentekenbewijs met een bijzonder kenteken is afgegeven.
 
-##### Artikel 25a. Tenaamstelling uit bedrijfsvoorraad
+#### Artikel 25a. Tenaamstelling uit bedrijfsvoorraad
 
 1. Indien de aanvraag, bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2025-07-01&g=2025-07-01), wordt gedaan met betrekking tot een voertuig in bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01), kan de aanvraag, gericht tot de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 25, tweede en derde lid, is dit artikel van toepassing.
 
@@ -451,7 +426,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 6. De Dienst Wegverkeer houdt de beslissing op de aanvraag aan, indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.
 
-##### Artikel 26. Wijziging van de tenaamstelling: overdracht tussen particulieren
+#### Artikel 26. Wijziging van de tenaamstelling: overdracht tussen particulieren
 
 1. Degene op wiens naam een voertuig in het kentekenregister is ingeschreven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, ingeval hij ophoudt eigenaar of houder te zijn van het voertuig waarvoor de inschrijving gold verplicht terstond de kentekencard ter hand te stellen en de tenaamstellingscode terstond mee te delen aan degene die eigenaar of houder van het voertuig is geworden.
 
@@ -467,7 +442,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 7. De verplichting, bedoeld in het tweede lid, geldt niet in het geval tenaamstelling wordt geweigerd op grond van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=20&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 27. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
+#### Artikel 27. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
 
 1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig dat is ingeschreven en te naam gesteld, zijn in afwijking van [artikel 26, het tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2025-07-01&g=2025-07-01) van toepassing.
 
@@ -493,7 +468,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 - b. bij het erkende bedrijf bedrijfsvoorraad de bij ministeriële regeling aangewezen documenten overlegt.
 
-##### Artikel 28. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
+#### Artikel 28. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
 1. Indien een voertuig dat is ingeschreven en te naam gesteld ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad, is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2025-07-01&g=2025-07-01) of, in geval van overdracht ten behoeve van een bedrijfsvoorraad, [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
@@ -501,7 +476,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 3. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het tweede lid heeft voldaan zowel een kentekencard als een vrijwaringsbewijs af en verstrekt een nieuwe tenaamstellingscode.
 
-##### Artikel 28a. Wijziging van de tenaamstelling: overdracht en tenaamstellen van een voertuig uit bedrijfsvoorraad
+#### Artikel 28a. Wijziging van de tenaamstelling: overdracht en tenaamstellen van een voertuig uit bedrijfsvoorraad
 
 1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01), kan, in afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2025-07-01&g=2025-07-01), een aanvraag om tenaamstelling gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 28 is dit artikel van toepassing.
 
@@ -527,7 +502,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 5. De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan, een nieuwe kentekencard, een tenaamstellingsverslag en een vrijwaringsbewijs af aan de aanvrager en verstrekt een nieuwe tenaamstellingscode.
 
-##### Artikel 29. Wijziging van de tenaamstelling: overlijden van een tenaamgestelde
+#### Artikel 29. Wijziging van de tenaamstelling: overlijden van een tenaamgestelde
 
 1. In afwijking van de [artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2025-07-01&g=2025-07-01), en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2025-07-01&g=2025-07-01), is, in geval van overlijden van degene die in het kentekenregister als tenaamgestelde staat geregistreerd, degene die als erfgenaam eigenaar of houder van het voertuig is geworden, verplicht binnen vijf weken nadat hij eigenaar of houder is geworden bij de Dienst Wegverkeer een verzoek in te dienen om het voertuig op zijn naam te registreren onder overlegging van de kentekencard, de tenaamstellingscode en een bij ministeriële regeling aangewezen legitimatiebewijs of, indien de tenaamstellingscode niet kan worden overgelegd, een verklaring van erfrecht.
 
@@ -535,13 +510,13 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 3. De Dienst Wegverkeer geeft na de wijziging van tenaamstelling als bedoeld in het eerste of tweede lid aan de eigenaar een vrijwaringsbewijs, een tenaamstellingsverslag en een kentekencard af en verstrekt een tenaamstellingscode.
 
-##### Artikel 30. Wijziging van de tenaamstelling: bijzondere procedure
+#### Artikel 30. Wijziging van de tenaamstelling: bijzondere procedure
 
 1. De Dienst Wegverkeer kan een voertuig te naam stellen zonder dat aan de in de [artikelen 26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2025-07-01&g=2025-07-01) bedoelde verplichtingen is voldaan, indien de aanvraag hiertoe wordt ingediend door een natuurlijk persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
 
 2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van de inschrijving en tenaamstelling het voertuig toont, een bij ministeriële regeling aangewezen legitimatiebewijs overlegt en de kentekencard, respectievelijk het kentekenbewijs inlevert.
 
-##### Artikel 31. Verval van de tenaamstelling: overdracht van een voertuig aan een in het buitenland woonachtig of gevestigd persoon
+#### Artikel 31. Verval van de tenaamstelling: overdracht van een voertuig aan een in het buitenland woonachtig of gevestigd persoon
 
 1. Degene die als tenaamgestelde van een voertuig in het kentekenregister is ingeschreven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, in geval van overdracht van een voertuig aan een in het buitenland woonachtige natuurlijk persoon of een in het buitenland gevestigde rechtspersoon verplicht de kentekencard tezamen met de tenaamstellingscode aan de degene aan wie het voertuig wordt overgedragen ter hand te stellen.
 
@@ -553,7 +528,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 5. Het eerste tot en met het vierde lid is van overeenkomstige toepassing in geval van overdracht van een tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad behorend voertuig aan een in het buitenland woonachtige natuurlijk persoon of een in het buitenland gevestigde rechtspersoon, indien het erkende bedrijf bedrijfsvoorraad geen gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 32. Verval van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad aan een in het buitenland woonachtig of gevestigd persoon
+#### Artikel 32. Verval van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad aan een in het buitenland woonachtig of gevestigd persoon
 
 1. In afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2025-07-01&g=2025-07-01), zijn, ingeval het erkende bedrijf bedrijfsvoorraad gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel b, het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01) van toepassing.
 
@@ -567,7 +542,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 - c. een vrijwaringsbewijs aan te maken en onder zich te houden.
 
-##### Artikel 33. Verval van de tenaamstelling: voorgoed buiten Nederland brengen van een voertuig
+#### Artikel 33. Verval van de tenaamstelling: voorgoed buiten Nederland brengen van een voertuig
 
 1. Degene aan wie een kentekencard is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, ingeval hij het voertuig voorgoed buiten Nederland brengt, verplicht de kentekencard en een bij ministeriële regeling aangewezen legitimatiebewijs bij de Dienst Wegverkeer over te leggen.
 
@@ -575,7 +550,7 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 3. In afwijking van het eerste en tweede lid is, ingeval het erkende bedrijf bedrijfsvoorraad gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01), het erkende bedrijf verplicht het voorgoed buiten Nederland brengen van het voertuig te melden.
 
-##### Artikel 34. Melden wijziging voertuiggegevens
+#### Artikel 34. Melden wijziging voertuiggegevens
 
 1. Indien een voertuig niet meer overeenstemt met de gegevens in het kentekenregister, is degene op wiens naam het voertuig is geregistreerd of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.
 
@@ -583,11 +558,11 @@ Overeenkomstig [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jc
 
 3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98) een nieuwe kentekencard af nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.
 
-##### Artikel 35. Uitzondering aanwijzing kentekenbewijzen in verband met tarieven
+#### Artikel 35. Uitzondering aanwijzing kentekenbewijzen in verband met tarieven
 
 Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor geen bedrag ter dekking van de in [artikel 4q, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q), bedoelde kosten wordt vastgesteld.
 
-##### Artikel 36. Vervangende kentekencard en tenaamstellingscode
+#### Artikel 36. Vervangende kentekencard en tenaamstellingscode
 
 1. De aanvraag van een vervangende kentekencard of een vervangende tenaamstellingscode geschiedt bij de Dienst Wegverkeer door degene die als tenaamgestelde in het kentekenregister is geregistreerd.
 
@@ -599,7 +574,7 @@ Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor ge
 
 5. De aanvraag, bedoeld in het eerste lid, heeft geen betrekking op een kentekencard die hoort bij een kenteken als bedoeld in [artikel 4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 37. Vervangende kentekencard en tenaamstellingscode bij einde beslag
+#### Artikel 37. Vervangende kentekencard en tenaamstellingscode bij einde beslag
 
 1. Indien ingevolge [artikel 440, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=440), of [artikel 442, tweede lid, tweede zin, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=442) de inschrijving van een proces-verbaal van inbeslagneming als bedoeld in [artikel 6, eerste lid, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=6&z=2025-07-01&g=2025-07-01), wordt beëindigd door een deurwaarder nadat het desbetreffende motorrijtuig of de desbetreffende aanhangwagen is verkocht, worden in afwijking van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=36&z=2025-07-01&g=2025-07-01) door die deurwaarder een vervangende kentekencard en een vervangende tenaamstellingscode aangevraagd.
 
@@ -607,7 +582,7 @@ Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor ge
 
 3. De vervangende kentekencard, bedoeld in het eerste lid, wordt afgegeven in de vorm van een tijdelijk documentnummer.
 
-##### Artikel 38. Verbod rijden over de weg
+#### Artikel 38. Verbod rijden over de weg
 
 1. De Dienst Wegverkeer kan bepalen dat met een te naam gesteld voertuig niet op de weg mag worden gereden indien naar het oordeel van deze dienst:
 
@@ -623,7 +598,7 @@ Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor ge
 
 5. Onverminderd het in het eerste lid bepaalde mag een voertuig waarmee niet mag worden gereden op de weg staan.
 
-##### Artikel 39. Vordering tot overgifte van de kentekencard
+#### Artikel 39. Vordering tot overgifte van de kentekencard
 
 1. Tot het vorderen tot overgifte als bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60) van de kentekencard zijn bevoegd:
 
@@ -639,7 +614,7 @@ Bij ministeriële regeling kunnen kentekenbewijzen worden aangewezen waarvoor ge
 
 4. Indien de in het eerste lid bedoelde vordering betrekking heeft op een kentekencard die is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.2) of [3.7 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.7) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.
 
-##### Artikel 40. Verval van de tenaamstelling in het kentekenregister
+#### Artikel 40. Verval van de tenaamstelling in het kentekenregister
 
 De tenaamstelling in het register vervalt zodra:
 
@@ -659,11 +634,11 @@ De tenaamstelling in het register vervalt zodra:
 
 ### Hoofdstuk 5. Handelaarskentekenbewijzen
 
-##### Artikel 41. Basis handelaarskentekenbewijzen
+#### Artikel 41. Basis handelaarskentekenbewijzen
 
 Voor voertuigen als bedoeld in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), geldt het vereiste dat een kenteken voor een bepaald voertuig dient te zijn opgegeven niet, mits dat voertuig een handelaarskenteken voert, dat behoort bij een ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2025-07-01&g=2025-07-01) afgegeven handelaarskentekenbewijs waarvan gebruik wordt gemaakt overeenkomstig de in dit hoofdstuk bedoelde voorschriften.
 
-##### Artikel 42. Aanvraag
+#### Artikel 42. Aanvraag
 
 1. Een handelaarskentekenbewijs kan worden aangevraagd door en worden afgegeven aan:
 
@@ -675,11 +650,11 @@ Voor voertuigen als bedoeld in [artikel 37, derde lid, van de wet](https://wette
 
 3. De aanvrager stelt de Dienst Wegverkeer in de gelegenheid te onderzoeken of te zijnen aanzien aan het eerste lid wordt voldaan.
 
-##### Artikel 43. Weigering afgifte
+#### Artikel 43. Weigering afgifte
 
 Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2025-07-01&g=2025-07-01) wordt de afgifte van handelaarskentekenbewijzen geweigerd indien een of meer aan de aanvrager afgegeven handelaarskentekenbewijzen op grond van [artikel 45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2025-07-01&g=2025-07-01), ongeldig zijn verklaard binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van zes maanden.
 
-##### Artikel 44. Gebruik
+#### Artikel 44. Gebruik
 
 1. Een handelaarskenteken mag slechts worden gebruikt door degene aan wie het is opgegeven dan wel een door deze aangewezen persoon. Het gebruik is slechts toegestaan voor de categorie waarvoor het is opgegeven.
 
@@ -691,7 +666,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 5. Voor overtreding van het eerste tot en met vierde lid is degene aan wie het handelaarskenteken is opgegeven aansprakelijk.
 
-##### Artikel 45. Ongeldigverklaring
+#### Artikel 45. Ongeldigverklaring
 
 1. De Dienst Wegverkeer kan een handelaarskentekenbewijs ongeldig verklaren indien degene aan wie het handelaarskentekenbewijs is afgegeven:
 
@@ -713,7 +688,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 ### Hoofdstuk 5. Handelaarskentekenbewijzen
 
-##### Artikel 46. Onderwerp erkenning
+#### Artikel 46. Onderwerp erkenning
 
 1. Een erkenning als bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62), wordt verleend teneinde voertuigen met behulp van een bedrijfsvoorraadpas in bedrijfsvoorraad op te nemen.
 
@@ -727,7 +702,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 - d. de bevoegdheid om in geval van verkoop van een voertuig uit eigen bedrijfsvoorraad namens de aanvrager middels een voor datacommunicatie geschikte voorziening bij de Dienst Wegverkeer, overeenkomstig [artikel 50, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) een aanvraag van een tenaamstelling in te dienen.
 
-##### Artikel 47. Aanvraag
+#### Artikel 47. Aanvraag
 
 1. Een erkenning als bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62), kan worden aangevraagd door en worden verleend aan:
 
@@ -741,7 +716,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 3. De aanvrager stelt de Dienst Wegverkeer in de gelegenheid te onderzoeken of te zijnen aanzien aan het eerste lid wordt voldaan.
 
-##### Artikel 48. Bedrijfsvoorraadpassen
+#### Artikel 48. Bedrijfsvoorraadpassen
 
 1. Bij het verlenen van de erkenning verstrekt de Dienst Wegverkeer aan het erkende bedrijf een of meer bedrijfsvoorraadpassen van een bij ministeriële regeling vastgesteld model, waarmee de registratie van voertuigen in bedrijfsvoorraad kan plaatsvinden.
 
@@ -751,7 +726,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 4. De Dienst Wegverkeer kan verlangen dat de aanvrager van nieuwe en vervangende bedrijfsvoorraadpassen, bedoeld in het tweede en derde lid, de bij ministeriële regeling aangewezen bescheiden overlegt die verband houden met de aanvraag.
 
-##### Artikel 49. Intrekking erkenning
+#### Artikel 49. Intrekking erkenning
 
 1. Indien dit bij de intrekking, wijziging of schorsing van de erkenning als bedoeld in [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=65), is bepaald, levert degene aan wie de erkenning is dan wel was verleend alle aan hem verstrekte bedrijfsvoorraadpassen onverwijld in bij de Dienst Wegverkeer.
 
@@ -759,7 +734,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 ### Hoofdstuk 6. Erkenningsregeling bedrijfsvoorraad
 
-##### Artikel 50. Aanvraag schorsing
+#### Artikel 50. Aanvraag schorsing
 
 1. De aanvraag bij de Dienst Wegverkeer van een schorsing als bedoeld in [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=67) vindt plaats op één van de volgende wijzen:
 
@@ -769,7 +744,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 2. De Dienst Wegverkeer geeft aan de aanvrager een schorsingsverslag af en in het geval van een aanvraag als bedoeld in het eerste lid, onderdeel a, verstrekt deze dienst een nieuwe tenaamstellingscode.
 
-##### Artikel 51. Verzoek beëindiging schorsing
+#### Artikel 51. Verzoek beëindiging schorsing
 
 1. Een verzoek tot beëindiging van een schorsing ingevolge [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=69) vindt plaats op één van de volgende wijzen:
 
@@ -779,7 +754,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 2. De Dienst Wegverkeer verstrekt in het geval van een verzoek als bedoeld in het eerste lid, onderdeel a, een nieuwe tenaamstellingscode.
 
-##### Artikel 52. Gebruik van de weg zonder einde schorsing
+#### Artikel 52. Gebruik van de weg zonder einde schorsing
 
 Een schorsing eindigt niet door gebruik van de weg indien:
 
@@ -789,7 +764,7 @@ Een schorsing eindigt niet door gebruik van de weg indien:
 
 ### Hoofdstuk 5a. Erkenningsregeling tenaamstelling
 
-##### Artikel 53. Strafbare feiten
+#### Artikel 53. Strafbare feiten
 
 Overtreding van de hierna genoemde artikelen is een strafbaar feit:
 
@@ -861,49 +836,49 @@ Overtreding van de hierna genoemde artikelen is een strafbaar feit:
 
 ### Hoofdstuk 6. Erkenningsregeling bedrijfsvoorraad
 
-##### Artikel 54
+#### Artikel 54
 
 1. Kentekenbewijzen en ter vervanging van die bewijzen uitgereikte duplicaten, afgegeven op basis van de Wegenverkeerswet, worden vóór een bij ministeriële regeling vastgesteld tijdstip vervangen door een kentekenbewijs, afgegeven op basis van de wet.
 
 2. Overeenkomstig het eerste lid vervangen kentekenbewijzen en duplicaten verliezen hun geldigheid op het in het eerste lid bedoelde tijdstip; zij worden onverwijld ingeleverd bij de Dienst Wegverkeer.
 
-##### Artikel 55
+#### Artikel 55
 
 1. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=7), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=14), eerste lid, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=15), eerste lid en [16 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=16), zoals deze bepalingen luidden vóór het tijdstip waarop zij op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=10&artikel=59&z=2025-07-01&g=2025-07-01) zijn ingetrokken, blijven voor wat betreft het in die bepalingen bepaalde ten aanzien van registratiebewijzen en aanvullingsbladen van kracht tot een bij ministeriële regeling vastgesteld tijdstip. Tot dat tijdstip kan de Dienst Wegverkeer tevens een voorlopig registratiebewijs afgeven van een bij ministeriële regeling vastgesteld model.
 
 2. Voor de toepassing van [artikel 5 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5) wordt met een kentekenbewijs gelijkgesteld een kentekenbewijs, afgegeven op basis van de wet.
 
-##### Artikel 56
+#### Artikel 56
 
 Vervallen
 
-##### Artikel 57
+#### Artikel 57
 
 1. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=17) en [23 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=23), zoals deze artikelen luidden vóór het tijdstip waarop zij op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=10&artikel=59&z=2025-07-01&g=2025-07-01) zijn ingetrokken, blijven van kracht ten aanzien van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die vóór bedoeld tijdstip met toepassing van genoemde [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2025-07-01&g=2025-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=23&z=2025-07-01&g=2025-07-01) ongeldig zijn verklaard en moeten worden ingeleverd, indien op eerderbedoeld tijdstip die inlevering nog niet heeft plaatsgevonden.
 
 2. Op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die nog niet op grond van [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9&artikel=54&z=2025-07-01&g=2025-07-01), zijn vervangen, worden voor de toepassing van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=37&z=2025-07-01&g=2025-07-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2025-07-01&g=2025-07-01) gelijkgesteld met kentekenbewijzen, afgegeven op basis van de wet.
 
-##### Artikel 58
+#### Artikel 58
 
 Voor de toepassing van dit besluit wordt een op basis van het [Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938) afgegeven kopie deel III gelijkgesteld met een overschrijvingsbewijs tot het tijdstip dat het kopie deel III is vervangen door een zodanig bewijs.
 
 ### Hoofdstuk 6a. Erkenningsregeling exportdienstverlening
 
-##### Artikel 59. Intrekking RKR
+#### Artikel 59. Intrekking RKR
 
 Het [Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938) wordt ingetrokken met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 60. Inwerkingtreding
+#### Artikel 60. Inwerkingtreding
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 61. Citeertitel
+#### Artikel 61. Citeertitel
 
 Dit besluit kan worden aangehaald als: Kentekenreglement.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 40a. Verval van een tijdelijke tenaamstelling in het kentekenregister
+#### Artikel 40a. Verval van een tijdelijke tenaamstelling in het kentekenregister
 
 1. De tenaamstelling van een voertuig waarvoor een kenteken als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2025-07-01&g=2025-07-01), is opgegeven vervalt na twaalf maanden.
 
@@ -925,7 +900,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 25b. Inschrijving en tenaamstelling voertuig uit andere EU-lidstaat
+#### Artikel 25b. Inschrijving en tenaamstelling voertuig uit andere EU-lidstaat
 
 1. De eigenaar of houder van een voertuig waarvoor de eerste inschrijving en tenaamstelling wordt gevraagd en waarvoor reeds eerder een kentekenbewijs is afgegeven in een andere lidstaat van de Europese Unie, overlegt het deel I van dat kentekenbewijs en, voor zover dit is afgegeven, tevens het deel II.
 
@@ -945,11 +920,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 7. Schorsing
 
-##### Artikel 58a
+#### Artikel 58a
 
 In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2025-07-01&g=2025-07-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2025-07-01&g=2025-07-01) zijn op driedelige kentekenbewijzen alsmede op kentekenbewijzen die bestaan uit een deel I dat is afgegeven voor 31 mei 2004, een deel I B en een overschrijvingsbewijs, de [artikelen 58b tot en met 58i](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2025-07-01&g=2025-07-01) van toepassing.
 
-##### Artikel 58b. Wijziging van de tenaamstelling: overdracht tussen particulieren
+#### Artikel 58b. Wijziging van de tenaamstelling: overdracht tussen particulieren
 
 1. Degene aan wie een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2025-07-01&g=2025-07-01) is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, ingeval hij ophoudt eigenaar of houder te zijn van het voertuig waarvoor dat kentekenbewijs is afgegeven, verplicht:
 
@@ -969,7 +944,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 7. De verplichting, bedoeld in het tweede lid, geldt niet in het geval tenaamstelling wordt geweigerd op grond van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=20&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 58c. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
+#### Artikel 58c. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
 
 1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2025-07-01&g=2025-07-01) is afgegeven, zijn in afwijking van [artikel 58b, het tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2025-07-01&g=2025-07-01) van toepassing.
 
@@ -997,7 +972,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 - c. bij het erkende bedrijf de bij ministeriële regeling aangewezen documenten overlegt.
 
-##### Artikel 58d. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
+#### Artikel 58d. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
 1. Indien een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2025-07-01&g=2025-07-01) is afgegeven, ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad, is [artikel 58b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2025-07-01&g=2025-07-01) of, in geval van overdracht ten behoeve van een bedrijfsvoorraad, [artikel 58c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58c&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
@@ -1005,7 +980,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 3. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het tweede lid heeft voldaan, zowel een vrijwaringsbewijs, een tenaamstellingsverslag als een kentekencard af en verstrekt een tenaamstellingscode.
 
-##### Artikel 58e. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
+#### Artikel 58e. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
 1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkende bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d,](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01)kan, in afwijking van artikel 58d, een aanvraag om tenaamstelling, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 58d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2025-07-01&g=2025-07-01) is dit artikel van toepassing.
 
@@ -1031,19 +1006,19 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 5. De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan, aan de aanvrager een nieuwe kentekencard, een tenaamstellingsverslag en een vrijwaringsbewijs af en verstrekt een tenaamstellingscode.
 
-##### Artikel 58f. Wijziging van de tenaamstelling: overlijden van een kentekenhouder
+#### Artikel 58f. Wijziging van de tenaamstelling: overlijden van een kentekenhouder
 
 1. In afwijking van de [artikelen 58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2025-07-01&g=2025-07-01), en [58c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58c&z=2025-07-01&g=2025-07-01), is, in geval van overlijden van degene aan wie een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2025-07-01&g=2025-07-01) is afgegeven, degene die als erfgenaam eigenaar of houder van het voertuig is geworden, verplicht binnen vijf weken nadat hij eigenaar of houder is geworden bij de Dienst Wegverkeer een verzoek in te dienen om het voertuig op zijn naam te registreren onder overlegging van het deel II, het deel I B of het bedrijfsvoorraad deel II of I B, het overschrijvingsbewijs en een bij ministeriële regeling aangewezen legitimatiebewijs.
 
 2. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het eerste lid heeft voldaan, zowel een kentekencard, een tenaamstellingsverslag, als een vrijwaringsbewijs af en verstrekt een tenaamstellingcode.
 
-##### Artikel 58g. Wijziging van de tenaamstelling: bijzondere procedure
+#### Artikel 58g. Wijziging van de tenaamstelling: bijzondere procedure
 
 1. De Dienst Wegverkeer kan een voertuig tenaamstellen zonder dat aan de in de [artikelen 58b tot en met 58f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2025-07-01&g=2025-07-01) bedoelde verplichtingen is voldaan, indien de aanvraag hiertoe wordt ingediend door een natuurlijk persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
 
 2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van de tenaamstelling het voertuig toont, een bij ministeriële regeling aangewezen legitimatiebewijs overlegt en een of meer delen van het kentekenbewijs inlevert.
 
-##### Artikel 58h. Aanvraag en afgifte nieuw kentekenbewijs
+#### Artikel 58h. Aanvraag en afgifte nieuw kentekenbewijs
 
 1. Indien het voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2025-07-01&g=2025-07-01) is afgegeven niet meer overeenstemt met de gegevens op het deel I, is degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.
 
@@ -1055,7 +1030,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 8a. Verstrekking van gevoelige gegevens aan autoriteiten buiten Nederland en instellingen van volkenrechtelijke organisaties
+#### Artikel 8a. Verstrekking van gevoelige gegevens aan autoriteiten buiten Nederland en instellingen van volkenrechtelijke organisaties
 
 Uit het kentekenregister worden door de Dienst Wegverkeer gevoelige gegevens verstrekt aan:
 
@@ -1083,7 +1058,7 @@ Uit het kentekenregister worden door de Dienst Wegverkeer gevoelige gegevens ver
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 17a
+#### Artikel 17a
 
 De Dienst Wegverkeer brengt die aantekeningen aan op dan wel verwijdert die aantekeningen van het kentekenbewijs voor zover dat bij of krachtens de wet is voorgeschreven of mogelijk wordt gemaakt.
 
@@ -1099,7 +1074,7 @@ De Dienst Wegverkeer brengt die aantekeningen aan op dan wel verwijdert die aant
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 1a. Uitzondering kentekenplicht
+#### Artikel 1a. Uitzondering kentekenplicht
 
 Als categorieën bromfietsen, bedoeld in [artikel 37, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) waarop [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) niet van toepassing is, worden, voor zover deze voertuigen voldoen aan de begripsomschrijving van bromfiets in [artikel 1, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), vastgesteld:
 
@@ -1123,7 +1098,7 @@ Als categorieën bromfietsen, bedoeld in [artikel 37, eerste lid, onderdeel a, o
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 24a. Afgifte van een kentekenbewijs als bedoel in [artikel 4, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2013-01-01&g=2013-01-01)
+#### Artikel 24a. Afgifte van een kentekenbewijs als bedoel in [artikel 4, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2013-01-01&g=2013-01-01)
 
 1. De eigenaar of houder van een voertuig waarvoor de afgifte van een kentekenbewijs als bedoeld in [artikel 17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2013-01-01&g=2013-01-01), wordt gevraagd, stelt het voertuig voor een onderzoek ter beschikking van de Dienst Wegverkeer en vraagt bij deze dienst onder overlegging van een bij ministeriële regeling aangewezen legitimatiebewijs, een kentekenbewijs aan.
 
@@ -1135,7 +1110,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 16a. Tarief voor toezicht
+#### Artikel 16a. Tarief voor toezicht
 
 Het tarief, bedoeld in [artikel 45a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=45a) wordt in rekening gebracht in bij ministeriële regeling te bepalen gevallen aan in die ministeriële regeling aangewezen personen en instanties of categorieën daarvan.
 
@@ -1147,7 +1122,7 @@ Het tarief, bedoeld in [artikel 45a, derde lid, van de wet](https://wetten.overh
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 51a
+#### Artikel 51a
 
 Indien het een aanvraag inzake een driedelig kentekenbewijs, dan wel een kentekenbewijs bestaande uit een voor 31 mei 2004 afgegeven deel I, een deel I B en een overschrijvingsbewijs betreft geldt:
 
@@ -1167,11 +1142,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 49a. Onderwerp erkenning
+#### Artikel 49a. Onderwerp erkenning
 
 Een erkenning als bedoeld in [artikel 66a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=66a), wordt verleend teneinde ten behoeve van derden de tenaamstelling van voertuigen in het kentekenregister langs geautomatiseerde weg te beëindigen in verband met het voorgoed buiten Nederland brengen van een voertuig.
 
-##### Artikel 49b. Aanvraag
+#### Artikel 49b. Aanvraag
 
 1. Een erkenning als bedoeld in [artikel 66a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=66a), kan worden aangevraagd door en worden verleend aan een natuurlijk persoon of rechtspersoon die exploitant is van een of meer ondernemingen waarin aan derden bedrijfsmatig diensten worden verleend in verband met de export van in het kentekenregister tenaamgestelde voertuigen.
 
@@ -1183,7 +1158,7 @@ Een erkenning als bedoeld in [artikel 66a, eerste lid, van de wet](https://wette
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 40b. Vervallenverklaring van de tenaamstelling
+#### Artikel 40b. Vervallenverklaring van de tenaamstelling
 
 1. De Dienst Wegverkeer verklaart een tenaamstelling vervallen indien deze dienst van oordeel is, dat de omstandigheden bedoeld in [artikel 51a, tweede lid, onderdelen a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=51a) zich voordoen.
 
@@ -1229,7 +1204,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. 30 dagen na een kennisgeving aan de Dienst Wegverkeer van de in dat lid genoemde personen dat het voertuig niet langer wordt vermist.
 
-##### Artikel 40c. Verzoek verval tenaamstelling
+#### Artikel 40c. Verzoek verval tenaamstelling
 
 1. Degene die naar zijn mening ten onrechte als tenaamgestelde in het kentekenregister is vermeld, kan de Dienst Wegverkeer verzoeken de tenaamstelling te doen vervallen. De Dienst Wegverkeer verklaart de tenaamstelling vervallen indien hiervoor naar het oordeel van deze dienst voldoende gronden aanwezig zijn.
 
@@ -1237,19 +1212,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. In afwijking van het tweede lid kan de Dienst Wegverkeer in uitzonderlijke gevallen het vervallen van de tenaamstelling eerder laten ingaan.
 
-##### Artikel 40d. Herstel vervallenverklaring
+#### Artikel 40d. Herstel vervallenverklaring
 
 De Dienst Wegverkeer kan de vervallen tenaamstelling in het register herstellen indien de reden voor vervallenverklaring is komen te vervallen.
 
-##### Artikel 40e. Gelding EU-richtlijn
+#### Artikel 40e. Gelding EU-richtlijn
 
 Een wijziging van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) gaat voor de toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=40&z=2025-07-01&g=2025-07-01) en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-##### Artikel 45a. Termijn erkenning na verzoek om intrekking
+#### Artikel 45a. Termijn erkenning na verzoek om intrekking
 
 Na indiening van het verzoek om intrekking, als bedoeld in [artikel 61d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=61d), kan de Dienst Wegverkeer bepalen dat de erkenning gedurende twee jaar van kracht blijft.
 
-##### Artikel 58i. Aanvraag schorsing
+#### Artikel 58i. Aanvraag schorsing
 
 Indien de aanvraag tot schorsing van de tenaamstelling betrekking heeft op een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2025-07-01&g=2025-07-01) geldt:
 
@@ -1259,17 +1234,17 @@ Indien de aanvraag tot schorsing van de tenaamstelling betrekking heeft op een k
 
 ### Hoofdstuk 9b. Overgangsbepalingen in verband met de wijziging van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) in verband met de modernisering van de wijze van tenaamstelling van kentekenbewijzen en enkele andere wijzigingen van uiteenlopende aard
 
-##### Artikel 58j
+#### Artikel 58j
 
 In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=22&z=2025-07-01&g=2025-07-01), [26 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2025-07-01&g=2025-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2025-07-01&g=2025-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=36&z=2025-07-01&g=2025-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2025-07-01&g=2025-07-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=50&z=2025-07-01&g=2025-07-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=51&z=2025-07-01&g=2025-07-01) zijn op tweedelige kentekenbewijzen afgegeven na 31 mei 2004, maar voor 1 januari 2014 de [artikelen 58k tot en met 58w](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58k&z=2025-07-01&g=2025-07-01) van toepassing.
 
-##### Artikel 58k. Vordering afgifte kentekenbewijs ter inzage
+#### Artikel 58k. Vordering afgifte kentekenbewijs ter inzage
 
 1. De verplichting tot het ter inzage afgeven van het kentekenbewijs als bedoeld in artikel 160 van de wet, heeft betrekking op het voor het voertuig afgegeven kentekenbewijs deel I, indien sprake is van een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01).
 
 2. Indien de in [artikel 160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.2) of [3.7 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.7) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.
 
-##### Artikel 58l. Wijziging van de tenaamstelling: overdracht tussen particulieren
+#### Artikel 58l. Wijziging van de tenaamstelling: overdracht tussen particulieren
 
 1. Degene aan wie een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, ingeval hij ophoudt eigenaar of houder te zijn van het voertuig waarvoor dat kentekenbewijs is afgegeven, verplicht:
 
@@ -1289,7 +1264,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 7. De verplichting, bedoeld in het tweede lid, geldt niet in het geval tenaamstelling wordt geweigerd op grond van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=20&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 58m. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
+#### Artikel 58m. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
 
 1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven, zijn in afwijking van [artikel 58l het tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58l&z=2025-07-01&g=2025-07-01) van toepassing.
 
@@ -1321,7 +1296,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 - c. bij het erkende bedrijf de bij ministeriële regeling aangewezen documenten overlegt.
 
-##### Artikel 58n. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
+#### Artikel 58n. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
 1. Indien een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven, ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad, is [artikel 58l](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58l&z=2025-07-01&g=2025-07-01) of, in geval van overdracht ten behoeve van een bedrijfsvoorraad, [artikel 58m](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58m&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
@@ -1329,7 +1304,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 3. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het tweede lid heeft voldaan een vrijwaringsbewijs en een kentekencard af en verstrekt een tenaamstellingcode.
 
-##### Artikel 58o. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
+#### Artikel 58o. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
 1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01), kan, in afwijking van [artikel 58n](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58n&z=2025-07-01&g=2025-07-01), een aanvraag om tenaamstelling, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 58n is dit artikel van toepassing.
 
@@ -1355,19 +1330,19 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 5. De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan aan de aanvrager een kentekencard, een tenaamstellingsverslag en een vrijwaringsbewijs af en verstrekt een tenaamstellingscode.
 
-##### Artikel 58p. Wijziging van de tenaamstelling: overlijden van een kentekenhouder
+#### Artikel 58p. Wijziging van de tenaamstelling: overlijden van een kentekenhouder
 
 1. In afwijking van de [artikelen 58l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58l&z=2025-07-01&g=2025-07-01), en [58m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58m&z=2025-07-01&g=2025-07-01), is, in geval van overlijden van degene aan wie een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven, degene die als erfgenaam eigenaar of houder van het voertuig is geworden, verplicht binnen vijf weken nadat hij eigenaar of houder is geworden bij de Dienst Wegverkeer een verzoek in te dienen om het voertuig op zijn naam te registreren onder overlegging van het deel I B of het bedrijfsvoorraad deel I B, het overschrijvingsbewijs en een bij ministeriële regeling aangewezen legitimatiebewijs.
 
 2. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het eerste lid heeft voldaan zowel een kentekencard, een tenaamstellingsverslag als een vrijwaringsbewijs af en verstrekt een tenaamstellingscode.
 
-##### Artikel 58q. Wijziging van de tenaamstelling: bijzondere procedure
+#### Artikel 58q. Wijziging van de tenaamstelling: bijzondere procedure
 
 1. De Dienst Wegverkeer kan een voertuig tenaamstellen zonder dat aan de in de [artikelen 58l tot en met 58p](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58l&z=2025-07-01&g=2025-07-01) bedoelde verplichtingen is voldaan, indien de aanvraag hiertoe wordt ingediend door een natuurlijk persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
 
 2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van de tenaamstelling het voertuig toont, een bij ministeriële regeling aangewezen legitimatiebewijs overlegt en een of meer delen van het kentekenbewijs inlevert.
 
-##### Artikel 58r. Verval van de tenaamstelling: overdracht van een voertuig aan een in het buitenland woonachtig of gevestigd persoon
+#### Artikel 58r. Verval van de tenaamstelling: overdracht van een voertuig aan een in het buitenland woonachtig of gevestigd persoon
 
 1. Degene aan wie een tweedelig kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, in geval van overdracht van een voertuig aan een in het buitenland woonachtige natuurlijk persoon of een in het buitenland gevestigde rechtspersoon, verplicht:
 
@@ -1385,7 +1360,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 6. In geval van overdracht van een tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad behorend voertuig waarvoor een tweedelig kentekenbewijs is afgegeven aan een in het buitenland woonachtige natuurlijk persoon of een in het buitenland gevestigde rechtspersoon, zonder dat het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2025-07-01&g=2025-07-01), is het eerste tot en met vijfde lid van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het deel I B.
 
-##### Artikel 58s. Melding wijziging voertuiggegevens
+#### Artikel 58s. Melding wijziging voertuiggegevens
 
 1. Indien het voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven niet meer overeenstemt met de gegevens op het deel I, is degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.
 
@@ -1393,7 +1368,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98) een nieuwe kentekencard af en verstrekt een tenaamstellingscode nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.
 
-##### Artikel 58t. Vervangende kentekencard
+#### Artikel 58t. Vervangende kentekencard
 
 1. De aanvraag van een vervangende kentekencard geschiedt bij de Dienst Wegverkeer door degene aan wie het tweedelig kentekenbewijs, waarvoor een vervangend document wordt aangevraagd, is afgegeven.
 
@@ -1401,7 +1376,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 3. Indien een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven aan de houder van een voertuig en deze een vervangende kentekencard aanvraagt, kan de Dienst Wegverkeer in door deze dienst te bepalen gevallen verlangen dat de eigenaar voor de afgifte van de vervangende kentekencard, toestemming verleent. In deze gevallen kan de Dienst Wegverkeer bepalen dat de vervangende kentekencard naar de eigenaar of een door deze aangewezen persoon wordt gezonden.
 
-##### Artikel 58u. Vordering tot overgifte van het kentekenbewijs
+#### Artikel 58u. Vordering tot overgifte van het kentekenbewijs
 
 1. Tot het vorderen tot overgifte van een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) zijn bevoegd:
 
@@ -1419,7 +1394,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 5. Indien de vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.2) of [3.7 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.7) is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.
 
-##### Artikel 58v. Aanvraag schorsing
+#### Artikel 58v. Aanvraag schorsing
 
 1. De aanvraag bij de Dienst Wegverkeer tot een schorsing als bedoeld in [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=67) van een tenaamstelling van een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven vindt plaats op één van de volgende wijzen:
 
@@ -1429,7 +1404,7 @@ In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 2. De Dienst Wegverkeer geeft aan de aanvrager een kentekencard en een schorsingsverslag af en verstrekt een tenaamstellingscode.
 
-##### Artikel 58w. Verzoek beëindiging schorsing
+#### Artikel 58w. Verzoek beëindiging schorsing
 
 1. Een aanvraag tot opheffing van een schorsing ingevolge [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=69) van een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58j](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9b&artikel=58j&z=2025-07-01&g=2025-07-01) is afgegeven, vindt plaats op één van de volgende wijzen:
 
@@ -1453,7 +1428,7 @@ Wanneer het voertuig nog niet is toegelaten tot het verkeer op de weg, wordt voo
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 1b. Uitzondering kentekenplicht motorrijtuigen met beperkte snelheid, mobiele machines en bepaalde aanhangwagens
+#### Artikel 1b. Uitzondering kentekenplicht motorrijtuigen met beperkte snelheid, mobiele machines en bepaalde aanhangwagens
 
 1. Als motorrijtuigen met beperkte snelheid en mobiele machines als bedoeld in [artikel 37, eerste lid, onderdeel a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) worden aangewezen:
 
@@ -1517,13 +1492,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 9c. Overgangsbepalingen conversieperiode invoering kentekenplicht bijzondere bromfietsen
 
-##### Artikel 58x. Inschrijving en tenaamstelling bijzondere bromfietsen die voor 1 juli 2025 in het verkeer zijn gebracht
+#### Artikel 58x. Inschrijving en tenaamstelling bijzondere bromfietsen die voor 1 juli 2025 in het verkeer zijn gebracht
 
 1. Overeenkomstig de [artikelen 58y](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9c&artikel=58y&z=2025-07-01&g=2025-07-01) en [58z](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9c&artikel=58z&z=2025-07-01&g=2025-07-01) vraagt de eigenaar of houder bij de Dienst Wegverkeer de inschrijving en tenaamstelling aan van bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](onbekend), die voor 1 juli 2025 in het verkeer zijn gebracht.
 
 2. Indien niet aan de verplichtingen, bedoeld in de [artikelen 58y](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9c&artikel=58y&z=2025-07-01&g=2025-07-01) en [58z](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9c&artikel=58y&z=2025-07-01&g=2025-07-01), is voldaan, kan de inschrijving en tenaamstelling slechts geschieden overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 58y. Wijze van aanvragen inschrijving en tenaamstelling
+#### Artikel 58y. Wijze van aanvragen inschrijving en tenaamstelling
 
 1. De aanvraag van de inschrijving en tenaamstelling geschiedt langs elektronische weg of door persoonlijke verschijning van de aanvrager bij een vestiging van de Dienst Wegverkeer.
 
@@ -1533,7 +1508,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De aanvrager verstrekt de bij ministeriële regeling voorgeschreven gegevens.
 
-##### Artikel 58z. Weigeringsgronden inschrijving en tenaamstelling
+#### Artikel 58z. Weigeringsgronden inschrijving en tenaamstelling
 
 1. De Dienst Wegverkeer weigert de inschrijving en tenaamstelling indien:
 
@@ -1551,11 +1526,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Met betrekking tot de tenaamstelling is [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=20&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-##### Artikel 58aa. Weigeringsgronden inschrijving en tenaamstelling
+#### Artikel 58aa. Weigeringsgronden inschrijving en tenaamstelling
 
 Vervallen
 
-##### Artikel 58bb. Vervallen tenaamstelling voertuigen met GV-kenteken
+#### Artikel 58bb. Vervallen tenaamstelling voertuigen met GV-kenteken
 
 Vervallen
 
@@ -1571,7 +1546,7 @@ De emissieklasse van een voertuig volgt uit de transponeringstabellen 1 tot en m
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 37. Ongeldigverklaring en inlevering
+#### Artikel 37. Ongeldigverklaring en inlevering
 
 Vervallen
 

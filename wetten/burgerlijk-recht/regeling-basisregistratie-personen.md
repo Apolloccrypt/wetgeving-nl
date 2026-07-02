@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 december 2013, nr. 2013-0000731182, DCB/CZW/S&B, houdende regels ter uitvoering van de Wet basisregistratie personen en het Besluit basisregistratie personen (Regeling basisregistratie personen)"
+title: "Regeling basisregistratie personen"
 identifier: "BWBR0034327"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0034327"
-soort: "ministeriele-regeling"
-stam_id: "12468373"
-version_id: "30155822"
-internal_id: "C43210791"
-label_id: "12439674"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0034327/2026-04-01/0"
-intitule_bron: "Stcrt.2013-34313"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-12-03"
-intitule_published: "2013-12-10"
-intitule_in_force: "2013-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-18997"
-original_signed_date: "2024-06-13"
-original_published_date: "2024-06-18"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-18997"
-entry_into_force_date: "2024-06-13"
-jci_1_3: "jci1.3:c:BWBR0034327&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0034327&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling basisregistratie personen"
-signed_date: "2024-06-13"
-entry_into_force: "2024-06-13"
+categorie: "Overig"
+publicatiedatum: 2026-04-01
+laatste_update: 2026-04-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0034327"
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 december 2013, nr. 2013-0000731182, DCB/CZW/S&B, houdende regels ter uitvoering van de Wet basisregistratie personen en het Besluit basisregistratie personen (Regeling basisregistratie personen)
 
 Gelet op [richtlijn nr. 95/46/EG](31995L0046) van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281), de [artikelen 1.12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.12), [1.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.15), [2.21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21), [2.40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), en [4.7, tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.7) en de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=6), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=9), [15, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=15), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=17), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=38), [47, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=47), [48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=49) en [52 van het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=52);
@@ -46,7 +20,7 @@ Treedt in werking op het tijdstip waarop de Wet basisregistratie personen in wer
 
 #### § 1. Algemeen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -60,17 +34,17 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De systeembeschrijving
 
-##### Artikel 2
+#### Artikel 2
 
 De systeembeschrijving wordt gevormd door de niet als toelichting gemarkeerde delen van het Logisch Ontwerp BRP, versie 2026.Q2, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 3
+#### Artikel 3
 
 Het Logisch Ontwerp BRP, versie 2026.Q2, is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
 #### § 3. De bewaring van geschriften en andere bescheiden
 
-##### Artikel 4
+#### Artikel 4
 
 1. De te bewaren geschriften en andere bescheiden, ongeacht hun vorm, die de verwerkingsverantwoordelijke heeft gebruikt in verband met de verwerking van gegevens in de basisregistratie, zijn vermeld in de lijst die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=6&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
@@ -78,23 +52,23 @@ Het Logisch Ontwerp BRP, versie 2026.Q2, is opgenomen in [bijlage 1](https://wet
 
 #### § 4. De bewerker
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
 #### § 5. Het onderzoek
 
-##### Artikel 7
+#### Artikel 7
 
 Een overheidsorgaan of een derde als bedoeld in [artikel 1.12, eerste onderscheidenlijk vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.12), stelt de door de minister hiertoe aangewezen personen in staat gegevens te verzamelen ten behoeve van het onderzoek, bedoeld in artikel 1.12, eerste lid, van de Wet BRP.
 
 #### § 6. Kosten in verband met de uitvoering van de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
 
-##### Artikel 8
+#### Artikel 8
 
 1. Voor de toepassing van [artikel 15 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=15) worden als afstemmingsbericht aangemerkt:
 
@@ -104,7 +78,7 @@ Een overheidsorgaan of een derde als bedoeld in [artikel 1.12, eerste onderschei
 
 2. In afwijking van het eerste lid worden niet als afstemmingsbericht aangemerkt de berichten die door het overheidsorgaan of de derde over het stelsel van berichtuitwisseling worden verzonden en ontvangen, voor zover deze berichten het aantal afstemmingsberichten, bedoeld in [artikel 15, achtste lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=15), te boven gaan.
 
-##### Artikel 9
+#### Artikel 9
 
 Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=15), bedraagt per overheidsorgaan of derde:
 
@@ -112,13 +86,13 @@ Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://we
 
 - b. bij verzending en ontvangst van afstemmingsberichten met behulp van alternatieve media het bedrag, genoemd onder a, vermeerderd met € 166.
 
-##### Artikel 10
+#### Artikel 10
 
 1. De bijdrage die op grond van [artikel 16 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=16) ten hoogste in rekening kan worden gebracht, bedraagt € 166.
 
 2. De bijdrage die op grond van [artikel 17 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=17) ten hoogste in rekening kan worden gebracht, bedraagt € 7,50.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Onverminderd de kosten waaraan door de betrokkene al wordt bijgedragen op grond van [artikel 14 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=14), worden de kosten op basis waarvan een bijdrage kan worden vastgesteld op grond van [artikel 18 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=18) bepaald door het aantal uren dat wordt gewerkt aan de verstrekking, vermenigvuldigd met een uurtarief van € 98.
 
@@ -128,7 +102,7 @@ Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://we
 
 #### § 7. Het overleg
 
-##### Artikel 12
+#### Artikel 12
 
 1. De representatieve vertegenwoordigingen van de gemeenten, van de aangewezen bestuursorganen als bedoeld in [artikel 2.65 van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.65) en van de overheidsorganen waaraan en derden aan wie op grond van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3) of [3.13 van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.13) gegevens uit de basisregistratie worden verstrekt, bedoeld in [artikel 1.15, eerste lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.15), bestaan gezamenlijk uit ten hoogste twaalf personen.
 
@@ -136,7 +110,7 @@ Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://we
 
 3. Op verzoek van de minister of een van de vertegenwoordigers kan ook tussentijds overleg plaatsvinden.
 
-##### Artikel 13
+#### Artikel 13
 
 1. Het overleg wordt voorgezeten door een onafhankelijk voorzitter die, na overleg met de vertegenwoordigers, wordt benoemd door de minister.
 
@@ -144,33 +118,33 @@ Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://we
 
 ### Hoofdstuk 2. De bijhouding van de basisregistratie
 
-##### Artikel 14
+#### Artikel 14
 
 De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2026-04-01&g=2026-04-01) bij de [artikelen 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23), en [32, tweede lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32) bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=7&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-##### Artikel 15
+#### Artikel 15
 
 De administratieve gegevens, bedoeld in de [artikelen 23, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23)[32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32), en 36a, tweede lid, van het Besluit BRP, zijn nader bepaald in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=8&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-##### Artikel 16
+#### Artikel 16
 
 Het model van het verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-##### Artikel 17
+#### Artikel 17
 
 Als instellingen voor gezondheidszorg als bedoeld in [artikel 2.40, derde lid, onderdeel a, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de instellingen, bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), voor zover het gaat om instellingen voor behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening en instellingen voor verpleging.
 
-##### Artikel 18
+#### Artikel 18
 
 Als instellingen op het gebied van de kinderbescherming als bedoeld in [artikel 2.40, derde lid, onderdeel b, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de justitiële jeugdinrichtingen, bedoeld in [artikel 3a van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3a), en gesloten accommodaties als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-##### Artikel 19
+#### Artikel 19
 
 Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdeel c, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de inrichtingen die door de Minister van Justitie en Veiligheid zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=18&z=2026-04-01&g=2026-04-01).
 
 ### Hoofdstuk 2a. Ondersteuning bij het onderzoek of een persoon als ingezetene in de basisregistratie op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie
 
-##### Artikel 20
+#### Artikel 20
 
 1. Het aanvraagformulier, bedoeld in [artikel 38 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=38), is opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=10&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
@@ -180,7 +154,7 @@ Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdee
 
 #### § 1. Toezicht
 
-##### Artikel 21
+#### Artikel 21
 
 1. De gegevens in het uittreksel, bedoeld in [artikel 4.3, tweede lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.3), dat door het college van burgemeester en wethouders aan de Autoriteit persoonsgegevens wordt gezonden, zijn geaggregeerd zodanig:
 
@@ -220,35 +194,35 @@ Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdee
 
 #### § 2. De oude registers
 
-##### Artikel 22
+#### Artikel 22
 
 1. Het college van burgemeester en wethouders kan besluiten het persoonsregister, bedoeld in het Besluit bevolkingsboekhouding, op een andere wijze dan in de vorm van persoonskaarten als bedoeld in het Besluit bevolkingsboekhouding aan te houden. Indien het college hiertoe besluit, regelt het tevens de vernietiging van de persoonskaarten.
 
 2. Op een besluit als bedoeld in het eerste lid is [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) van toepassing.
 
-##### Artikel 23
+#### Artikel 23
 
 1. Het schakelregister wordt aangehouden in de vorm van microfoto’s. De inhoud van het register is vervangen door een afschrift in dubbel.
 
 2. Het dubbel van het schakelregister is in bewaring bij het Nationaal Archief. Bij de overbrenging zijn met betrekking tot verstrekkingen uit het register beperkingen aan de openbaarheid gesteld in verband met de bescherming van de persoonlijke levenssfeer van de daarin opgenomen personen.
 
-##### Artikel 24
+#### Artikel 24
 
 Het college van burgemeester en wethouders van ’s-Gravenhage heeft de zorg over het persoonskaartenarchief en het schakelregister.
 
-##### Artikel 25
+#### Artikel 25
 
 Indien het college van burgemeester en wethouders van ’s-Gravenhage voor een doelmatige dagelijkse uitvoering van de taak ten aanzien van het schakelregister gebruikmaakt van een op basis van het oorspronkelijke register vervaardigd elektronisch hulpregister, worden uit dat hulpregister geen gegevens verstrekt.
 
-##### Artikel 26
+#### Artikel 26
 
 Het college van burgemeester en wethouders van ’s-Gravenhage treft ter beveiliging van het persoonskaartenarchief en het schakelregister de maatregelen, bedoeld in [artikel 6 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=6).
 
-##### Artikel 27
+#### Artikel 27
 
 [Hoofdstuk III van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III) blijft met betrekking tot het persoonskaartenarchief, het schakelregister en de daarbij behorende bescheiden onverkort van kracht.
 
-##### Artikel 28
+#### Artikel 28
 
 1. De minister wijst personen aan die rechtstreeks toegang hebben tot het centraal archief van overledenen.
 
@@ -260,11 +234,11 @@ Het college van burgemeester en wethouders van ’s-Gravenhage treft ter beveili
 
 - b. rust de zorgplicht, bedoeld in het tweede lid, op de beheerder.
 
-##### Artikel 29
+#### Artikel 29
 
 Het doel van het centraal archief van overledenen is het verstrekken van gegevens ten behoeve van ambtelijk, wetenschappelijk en historisch onderzoek. Onder historisch onderzoek wordt in ieder geval verstaan genealogisch onderzoek.
 
-##### Artikel 30
+#### Artikel 30
 
 1. Ten behoeve van een onderzoek als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=4&paragraaf=2&artikel=29&z=2026-04-01&g=2026-04-01) kunnen uit het centraal archief van overledenen op schriftelijk verzoek gegevens worden verstrekt aan:
 
@@ -292,7 +266,7 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 - b. met overeenkomstige toepassing van het vijfde lid.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Eenieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen kan de minister schriftelijk verzoeken, geen gegevens die hem betreffen aan een derde te verstrekken. [Artikel 2.55, tweede en vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.55) is van overeenkomstige toepassing.
 
@@ -306,7 +280,7 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 6. De minister maakt een beschikking om krachtens het vierde lid gegevens omtrent een levende persoon te verstrekken terstond bekend aan de betrokkene. Hij geeft geen uitvoering aan de beschikking binnen een bij die beschikking gestelde termijn.
 
-##### Artikel 32
+#### Artikel 32
 
 1. Eenieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen wordt op diens verzoek binnen vier weken kosteloos inzage verleend in die gegevens. [Artikel 2.55, tweede en vierde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.55) is van overeenkomstige toepassing.
 
@@ -314,7 +288,7 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 3. De minister verstrekt de verzoeker binnen vier weken een afschrift van de gegevens, bedoeld in het eerste lid.
 
-##### Artikel 33
+#### Artikel 33
 
 1. In verband met de verstrekking van gegevens uit het persoonskaartenarchief, het schakelregister en het centraal archief van overledenen, bedoeld in [artikel 49 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=49), wordt een vergoeding in rekening gebracht aan een derde, behoudens in verband met verstrekkingen overeenkomstig [artikel 3.3 van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3) en verstrekkingen aan de betrokkene van hem betreffende gegevens.
 
@@ -322,25 +296,25 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 #### § 3. Overgangs- en slotbepalingen
 
-##### Artikel 34
+#### Artikel 34
 
 [Artikel 26 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=26) is niet van toepassing in de gevallen dat de in dat artikel bedoelde gegevens, bescheiden of inlichtingen worden verstrekt of mededelingen worden gedaan aan een college van burgemeester en wethouders dat gebruikmaakt van een oude gemeentelijke voorziening als bedoeld in [artikel 4.15, eerste lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.15).
 
-##### Artikel 35
+#### Artikel 35
 
 1. Een besluit tot wijziging van de inhoud van een in de systeembeschrijving beschreven tabel voor de ordening en de codering van de gegevens in de basisregistratie of voor de verstrekking van gegevens op grond van een autorisatiebesluit wordt bekendgemaakt op https://www.rvig.nl.
 
 2. Van de inhoud van de tabellen, bedoeld in het eerste lid, wordt voorts mededeling gedaan door verstrekking ervan op een wijze die overeenstemt met de systeembeschrijving.
 
-##### Artikel 36
+#### Artikel 36
 
 Bij de inwerkingtreding van deze regeling gelden als tabellen als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=4&paragraaf=3&artikel=35&z=2026-04-01&g=2026-04-01), de tabellen zoals deze laatstelijk zijn vastgesteld op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&artikel=13) en [14 van het Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&artikel=14), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze regeling.
 
-##### Artikel 37
+#### Artikel 37
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) in werking treedt.
 
-##### Artikel 38
+#### Artikel 38
 
 Deze regeling wordt aangehaald als: Regeling basisregistratie personen.
 
@@ -488,7 +462,7 @@ Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](onbekend).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2023-01-01&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2023-01-01&g=2023-01-01), die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
 
-##### Artikel 19a
+#### Artikel 19a
 
 1. Bestuursorganen als bedoeld in [artikel 2.37b, eerste lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37b) zijn:
 
@@ -500,15 +474,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 2. De in [artikel 28b, derde lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=28b) bedoelde gegevens zijn als zodanig nader bepaald in de tabel die als [bijlage 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9a&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
-##### Artikel 19b
+#### Artikel 19b
 
 De selectiefactoren, bedoeld in [artikel 28c, derde lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=28c), zijn opgenomen in [bijlage 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9b&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-##### Artikel 19c
+#### Artikel 19c
 
 De in [artikel 28e, eerste lid, onderdeel a en b, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=28e) bedoelde gegevens zijn als zodanig nader bepaald in de tabel die als [bijlage 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9c&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 
-##### Artikel 19d
+#### Artikel 19d
 
 De in [artikel 28e, eerste lid, onderdeel c, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=28e) bedoelde gegevens zijn als zodanig nader bepaald in de tabel die als [bijlage 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9d&z=2026-04-01&g=2026-04-01) bij deze regeling is gevoegd.
 

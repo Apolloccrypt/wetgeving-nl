@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Buitenlandse Zaken van 5 december 2008, nr. DJZ/BR/1140-08, houdende nadere regels in verband met de elektronische bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties (Regeling elektronische bekendmaking Tractatenblad)"
+title: "Regeling elektronische bekendmaking Tractatenblad"
 identifier: "BWBR0024875"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-30"
-last_updated: "2014-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024875"
-soort: "ministeriele-regeling"
-stam_id: "9800773"
-version_id: "21381472"
-internal_id: "C30699171"
-label_id: "9777484"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024875/2014-04-30/0"
-intitule_bron: "Stcrt.2008-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-05"
-intitule_published: "2008-12-19"
-intitule_in_force: "2009-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-11877"
-original_signed_date: "2014-04-17"
-original_published_date: "2014-04-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-11877"
-entry_into_force_date: "2014-04-17"
-jci_1_3: "jci1.3:c:BWBR0024875&z=2014-04-30&g=2014-04-30"
-jci_1_0: "1.0:c:BWBR0024875&g=2014-04-30"
-citeertitel_status: "officieel"
-short_title: "Regeling elektronische bekendmaking Tractatenblad"
-signed_date: "2014-04-17"
-entry_into_force: "2014-04-17"
+categorie: "Overig"
+publicatiedatum: 2014-04-30
+laatste_update: 2014-04-30
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0024875"
 ---
+
 # Regeling van de Minister van Buitenlandse Zaken van 5 december 2008, nr. DJZ/BR/1140-08, houdende nadere regels in verband met de elektronische bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties (Regeling elektronische bekendmaking Tractatenblad)
 
 Gelet op de [artikelen 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16), 16a en 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen;
@@ -42,7 +16,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel I, onderdeel A en onderdeel B, wat betreft artikel 16a en artikel 16b, van de Rijkswet houdende wijziging van de Rijkswet goedkeuring en bekendmaking verdragen in werking treedt.
 
-##### Artikel 1
+#### Artikel 1
 
 1. Het Tractatenblad wordt uitgegeven op het internetadres www.officielebekendmakingen.nl.
 
@@ -50,7 +24,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel A en onderdeel B, 
 
 3. De Minister van Buitenlandse Zaken draagt er zorg voor dat het Tractatenblad na de uitgifte beschikbaar blijft via het in het eerste lid genoemde internetadres.
 
-##### Artikel 2
+#### Artikel 2
 
 De Minister van Buitenlandse Zaken draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarheid van het Tractatenblad voldoen aan de volgende eisen:
 
@@ -64,7 +38,7 @@ De Minister van Buitenlandse Zaken draagt er zorg voor dat de betrouwbaarheid en
 
 - e. Van elke publicatie wordt een elektronische kopie gemaakt, die wordt opgeslagen buiten het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden.
 
-##### Artikel 3
+#### Artikel 3
 
 Vervangende uitgifte als bedoeld in artikel 16a van de Rijkswet goedkeuring en bekendmaking verdragen, geschiedt:
 
@@ -74,21 +48,21 @@ Vervangende uitgifte als bedoeld in artikel 16a van de Rijkswet goedkeuring en b
 
 - c. op een andere door de Minister van Buitenlandse Zaken te bepalen wijze.
 
-##### Artikel 4
+#### Artikel 4
 
 Het uitgiftepunt, bedoeld in [artikel 16b, tweede lid, van de Rijkswet goedkeuring en bekendmaking verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16b), is ondergebracht bij het Kennis- en exploitatiecentrum Officiële Overheidspublicaties van De Werkmaatschappij, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
 
-##### Artikel 5
+#### Artikel 5
 
 Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdeel A en onderdeel B, wat betreft artikel 16a en artikel 16b, van de Rijkswet van 27 november 2008 houdende wijziging van de Rijkswet goedkeuring en bekendmaking verdragen in verband met de elektronische bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties en de beschikbaarstelling daarvan in geconsolideerde vorm in werking treedt.
 
-##### Artikel 6
+#### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling elektronische bekendmaking Tractatenblad.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-##### Artikel 4a
+#### Artikel 4a
 
 1. De teksten en in voorkomend geval de vertalingen in het Nederlands van de op grond van de [Rijkswet goedkeuring en bekendmaking verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0006799) bekendgemaakte verdragen en besluiten van volkenrechtelijke organisaties zijn in geconsolideerde vorm voor een ieder beschikbaar op internet.
 

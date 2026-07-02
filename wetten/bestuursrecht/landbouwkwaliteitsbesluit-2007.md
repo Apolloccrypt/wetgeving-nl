@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 19 september 2007, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsbesluit 2007)"
+title: "Landbouwkwaliteitsbesluit 2007"
 identifier: "BWBR0022535"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-12-29"
-last_updated: "2023-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022535"
-soort: "AMvB"
-stam_id: "9210613"
-version_id: "28607382"
-internal_id: "C40359361"
-label_id: "9189394"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022535/2023-12-29/0"
-intitule_bron: "Stb.2007-344"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-09-19"
-intitule_published: "2007-09-27"
-intitule_in_force: "2007-09-27"
-intitule_status: "goed"
-original_publication: "Stb.2022-170"
-original_signed_date: "2022-04-21"
-original_published_date: "2022-05-04"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2022-170"
-entry_into_force_date: "2022-05-05"
-jci_1_3: "jci1.3:c:BWBR0022535&z=2023-12-29&g=2023-12-29"
-jci_1_0: "1.0:c:BWBR0022535&g=2023-12-29"
-citeertitel_status: "officieel"
-short_title: "Landbouwkwaliteitsbesluit 2007"
-signed_date: "2022-04-21"
-entry_into_force: "2022-05-05"
+categorie: "Overig"
+publicatiedatum: 2023-12-29
+laatste_update: 2023-12-29
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0022535"
 ---
+
 # Besluit van 19 september 2007, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsbesluit 2007)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 1 juni 2007, Directie Juridische Zaken, no. TRCJZ/2007/1788;
@@ -48,7 +22,7 @@ Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwalit
 
 Hebben goedgevonden en verstaan:
 
-##### Artikel 1
+#### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -94,11 +68,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. Stichting BKD: Stichting Bloembollenkeuringsdienst te Lisse.
 
-##### Artikel 2
+#### Artikel 2
 
 Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 33 van [verordening (EU) 2018/848](32748R2018), slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens [verordening (EU) 2018/848](32748R2018), bij [verordening (EU) 2023/2419](32023R2419), bij ministeriële regeling aangewezen andere krachtens artikel 43, tweede lid, van het Verdrag betreffende de werking van de Europese Unie vastgestelde bindende EU-rechtshandelingen voor het in de handel brengen, etiketteren van, of reclame maken voor biologische producten, en bij of krachtens dit besluit gestelde regels.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Wijn en gearomatiseerde wijn die in voorverpakkingen binnen de in punt 1 van de bijlage bij richtlijn 2007/45/EG vermelde intervallen zijn verpakt, worden slechts in de handel gebracht indien zij zijn verpakt in de nominale hoeveelheden vermeld in punt 1 van die bijlage.
 
@@ -108,33 +82,33 @@ Bij het in de handel brengen of etiketteren van of reclame maken voor producten 
 
 4. Indien een voorverpakking bestaat uit twee of meer individuele verpakkingen die niet voor individuele verkoop zijn bestemd, zijn de in het eerste lid bedoelde nominale hoeveelheden van toepassing op de voorverpakking.
 
-##### Artikel 4
+#### Artikel 4
 
 1. Groenten en fruit worden slechts in de handel gebracht indien voldaan is aan artikel 76, eerste en derde lid, van verordening (EU) 1308/2013, aan artikel 3, eerste lid, van verordening (EU) 543/2011, aan de krachtens de artikelen 75, tweede en zesde lid, en 76, vierde lid, van verordening (EU) 1308/2013 voor groenten en fruit vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
 
 2. Bananen worden slechts in de handel gebracht indien voldaan is aan artikel 1 van verordening (EU) 1333/2011, aan de voor bananen krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013 vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 6
+#### Artikel 6
 
 De bescherming van kwaliteitsaanduidingen geschiedt overeenkomstig het bij of krachtens verordening (EU) 1151/2012 bepaalde en de bij of krachtens dit besluit gestelde regels.
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
-##### Artikel 9
+#### Artikel 9
 
 Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien het teeltmateriaal, de leverancier, de wijze van in de handel brengen en de etiketten of andere documenten die door de leverancier zijn opgemaakt voldoen aan het bepaalde bij of krachtens [richtlijn 98/56/EG](31998L0056) en de bij of krachtens dit besluit gestelde regels.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-29&g=2023-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2023-12-29&g=2023-12-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2023-12-29&g=2023-12-29) genoemde verordeningen of krachtens die artikelen aangewezen EU-rechtshandelingen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2023-12-29&g=2023-12-29) genoemde EU-richtlijn noodzakelijk is.
 
@@ -154,7 +128,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien het te
 
 4. De wijze van keuring van producten, bedoeld in het tweede lid, onder c, heeft onder meer betrekking op de voorwaarden waaronder betrokkenen door de controle-instellingen of door een controlerende instantie erkend kunnen worden voor het verrichten van de bij ministeriële regeling aan te duiden keuringsactiviteiten.
 
-##### Artikel 11
+#### Artikel 11
 
 De Stichting BKD is de instantie, bedoeld in de artikelen 12 en 13 van richtlijn 98/56/EG en belast met:
 
@@ -166,15 +140,15 @@ De Stichting BKD is de instantie, bedoeld in de artikelen 12 en 13 van richtlijn
 
 - d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de in de aanhef bedoelde richtlijn.
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
-##### Artikel 13
+#### Artikel 13
 
 Vervallen
 
-##### Artikel 14
+#### Artikel 14
 
 1. De Stichting KCB is de controle-instantie, bedoeld in artikel 9, eerste lid, onderdeel b, van verordening (EU) 543/2011, en belast met:
 
@@ -188,7 +162,7 @@ Vervallen
 
 2. De Stichting KCB is de bevoegde autoriteit voor de officiële controles, bedoeld in artikel 36, derde lid, van verordening (EU) 1151/2012 ten aanzien van producten die op grond van het eerste lid onder haar bevoegdheid vallen.
 
-##### Artikel 15
+#### Artikel 15
 
 De Stichting Skal wordt aangewezen als bevoegde autoriteit voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017) voor:
 
@@ -204,7 +178,7 @@ De Stichting Skal wordt aangewezen als bevoegde autoriteit voor zover het betref
 
 en belast met deze taken.
 
-##### Artikel 16
+#### Artikel 16
 
 1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-29&g=2023-12-29) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=18&z=2023-12-29&g=2023-12-29), of het tweede lid aan de Stichting Skal zijn opgedragen.
 
@@ -214,7 +188,7 @@ en belast met deze taken.
 
 - b. gelet op artikel 4, derde lid, van [verordening (EU) 2017/625](32525R2017) belast met de officiële controles en andere officiële activiteiten en de daarbij behorende taken en verantwoordelijkheden bedoeld in titel II, hoofdstukken II, V en VII, van [verordening (EU) 2017/625](32525R2017) ten aanzien van de in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017) bedoelde regels.
 
-##### Artikel 17
+#### Artikel 17
 
 Onze Minister is de bevoegde autoriteit, voor:
 
@@ -224,11 +198,11 @@ Onze Minister is de bevoegde autoriteit, voor:
 
 - c. het toezicht op de naleving van bij dit besluit gestelde regels inzake wijn en gearomatiseerde wijn.
 
-##### Artikel 18
+#### Artikel 18
 
 Indien het in het belang van een goede uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-29&g=2023-12-29) genoemde verordeningen of krachtens dat artikel aangewezen EU-rechtshandelingen aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-29&g=2023-12-29) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2023-12-29&g=2023-12-29), worden opgedragen bij ministeriële regeling.
 
-##### Artikel 19
+#### Artikel 19
 
 De volgende besluiten worden ingetrokken:
 
@@ -250,37 +224,37 @@ De volgende besluiten worden ingetrokken:
 
 - i. [Landbouwkwaliteitsbesluit zuigelingenvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0003732).
 
-##### Artikel 20
+#### Artikel 20
 
 Dit besluit wordt aangehaald als: Landbouwkwaliteitsbesluit 2007.
 
-##### Artikel 21
+#### Artikel 21
 
 Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet.
 
-##### Artikel 22
+#### Artikel 22
 
 Wijzigt het Besluit glastuinbouw, het Besluit verhandeling teeltmateriaal, het Besluit aanwijzing Bloembollenkeuringsdienst en het Lozingenbesluit open teelt en veehouderij.
 
-##### Artikel 23
+#### Artikel 23
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 7a
+#### Artikel 7a
 
 Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 18a
+#### Artikel 18a
 
 Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 18
+#### Artikel 18
 
 Vervallen
 

@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 25 maart 2009, houdende regels betreffende de postale dienstverlening (Postbesluit 2009)"
+title: "Postbesluit 2009"
 identifier: "BWBR0025577"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025577"
-soort: "AMvB"
-stam_id: "9959213"
-version_id: "16261642"
-internal_id: "C22291421"
-label_id: "9935794"
-dtd_version: "2.0"
-original_entry_into_force: "2009-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025577/2018-01-01/0"
-intitule_bron: "Stb.2009-157"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-25"
-intitule_published: "2009-03-30"
-intitule_in_force: "2009-03-30"
-intitule_status: "goed"
-original_publication: "Stb.2009-157"
-original_signed_date: "2009-03-25"
-original_published_date: "2009-03-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-157"
-entry_into_force_date: "2009-04-01"
-jci_1_3: "jci1.3:c:BWBR0025577&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0025577&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Postbesluit 2009"
-signed_date: "2009-03-25"
-entry_into_force: "2009-04-01"
+categorie: "Overig"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0025577"
 ---
+
 # Besluit van 25 maart 2009, houdende regels betreffende de postale dienstverlening (Postbesluit 2009)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 28 november 2007, nr. WJZ 7137300;
@@ -50,7 +24,7 @@ Treedt in werking op het tijdstip waarop de Postwet 2009 in werking treedt.
 
 #### § 1. Begripsbepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,7 +38,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **postpakket:** een geadresseerd verpakt poststuk, dat zaken, niet zijnde brieven, bevat.
 
-##### Artikel 2
+#### Artikel 2
 
 Als ander geadresseerd stuk als bedoeld in [artikel 2, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2), wordt aangewezen:
 
@@ -76,7 +50,7 @@ Als ander geadresseerd stuk als bedoeld in [artikel 2, eerste lid, onderdeel b, 
 
 #### § 2. Omvang universele postdienstverlening
 
-##### Artikel 3
+#### Artikel 3
 
 1. Met betrekking tot poststukken als bedoeld in [artikel 16, eerste lid, onderdeel a en b, en het derde lid, onderdeel a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16) omvat de universele postdienst het postvervoer tegen enkelstukstarief.
 
@@ -84,13 +58,13 @@ Als ander geadresseerd stuk als bedoeld in [artikel 2, eerste lid, onderdeel b, 
 
 3. De universele postdienst omvat ten aanzien van het postvervoer naar een land buiten Nederland, niet de poststukken die vanuit een land buiten Nederland naar Nederland zijn gebracht om deze ten vervoer aan te bieden met als bestemming adressen buiten Nederland.
 
-##### Artikel 4
+#### Artikel 4
 
 Poststukken komen voor vervoer binnen de universele postdienst in aanmerking indien zij afmetingen hebben die kleiner zijn dan de bij ministeriële regeling vastgestelde maximumafmetingen en groter zijn dan de bij ministeriële regeling vastgestelde minimumafmetingen.
 
 #### § 3. Kwaliteit universele postdienstverlening
 
-##### Artikel 5
+#### Artikel 5
 
 1. Een verlener van de universele postdienst hanteert algemene voorwaarden bij de uitvoering van de universele postdienst, waarin de waarborgen voor de uitvoering van de goede postale dienstverlening en de kwaliteit van die dienstverlening voor een ieder kenbaar zijn opgenomen.
 
@@ -106,13 +80,13 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 3. Een verlener van de universele postdienst legt de algemene voorwaarden ter inzage op zijn dienstverleningspunten.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Een verlener van de universele postdienst draagt er zorg voor dat de voor het postvervoer binnen de universele postdienst verschuldigde porten op verschillende manieren kunnen worden voldaan, maar in elk geval door middel van postzegels of postzegelafdrukken.
 
 2. Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2018-01-01&g=2018-01-01) verkrijgbaar gesteld.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Poststukken die zijn bestemd voor postvervoer binnen de universele postdienst worden in voor het publiek bestemde brievenbussen van de verlener de universele postdienst gedeponeerd of bij daartoe bestemde dienstverleningspunten van de verlener van de universele postdienst afgegeven.
 
@@ -120,13 +94,13 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 3. Bij ministeriële regeling worden regels gesteld over de voorwaarden, bedoeld in het tweede lid.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2018-01-01&g=2018-01-01) zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de toegankelijkheid van brievenbussen van een verlener van de universele postdienst.
 
-##### Artikel 9
+#### Artikel 9
 
 1. Een verlener van de universele postdienst voldoet in het kader van het postvervoer ten aanzien van brieven en andere poststukken van en naar een andere lidstaat van de Europese Unie of van en naar andere staten die partij zijn bij de overeenkomst inzake de Europese Economische Ruimte aan de kwaliteitsnormen die in de bijlage bij de [richtlijn 97/67/EG](31997L0067) van het Europees Parlement en de Raad van de Europese Unie van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998 L 15).
 
@@ -134,7 +108,7 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 3. Wanneer dat noodzakelijk is voor de belangen van de gebruikers van postvervoerdiensten, geeft een verlener van de universele postdienst aan de toe te passen normen bekendheid door middel van een verwijzing in de algemene voorwaarden naar die normen en naar de vindplaats ervan in het Publicatieblad van de Europese Gemeenschappen.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2018-01-01&g=2018-01-01).
 
@@ -142,7 +116,7 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 #### § 4. Bedragen aansprakelijkheid
 
-##### Artikel 11
+#### Artikel 11
 
 De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=29), zijn:
 
@@ -152,35 +126,35 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 #### § 5. Vergoeding kosten Autoriteit Consument en Markt binnen de universele postdienst
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
 #### § 4. Bedragen aansprakelijkheid
 
-##### Artikel 13
+#### Artikel 13
 
 Vervallen
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
-##### Artikel 17
+#### Artikel 17
 
 Vervallen
 
 #### § 7. Aanwijzingsprocedure verlener universele postdienst
 
-##### Artikel 18
+#### Artikel 18
 
 1. In de mededeling, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=15), wordt opgenomen dat belangstellende postvervoerbedrijven een aanvraag om te worden aangewezen als verlener van de universele postdienst binnen drie maanden na de datum van de mededeling moeten hebben ingediend.
 
@@ -200,11 +174,11 @@ Vervallen
 
 #### § 8. Overgangs- en slotbepalingen
 
-##### Artikel 19
+#### Artikel 19
 
 De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2018-01-01&g=2018-01-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
 
-##### Artikel 20
+#### Artikel 20
 
 1. In het kalenderjaar van de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572):
 
@@ -214,27 +188,27 @@ De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jc
 
 2. Postvervoerbedrijven delen binnen zes weken na de datum van inwerkingtreding van dit besluit aan de Autoriteit Consument en Markt de relevante omzet mee, die gerealiseerd is in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar van inwerkingtreding.
 
-##### Artikel 21
+#### Artikel 21
 
 1. Het tegen vergoeding aan natuurlijke of rechtspersonen ter beschikking stellen van het gebruik van postbussen voor het ontvangen van voor hun bestemde poststukken maakt, indien de overeenkomst tussen een verlener van de universele postdienst en de gebruiker van een postbus is gesloten voor de inwerkingtreding van dit besluit, deel uit van de universele postdienst voor de looptijd van de overeenkomst, maar niet langer dan een jaar na inwerkingtreding van dit besluit.
 
 2. Het tegen vergoeding mogelijk maken, dat de verzender van poststukken de kosten voor zijn rekening neemt van het postvervoer van de poststukken die de ontvangers aan hem terugsturen met gebruikmaking van een antwoordnummer, maakt, indien de overeenkomst tussen een verlener van de universele postdienst en de gebruiker van het antwoordnummer, gesloten voor de inwerkingtreding van dit besluit, deel uit van de universele postdienst voor de looptijd van de overeenkomst, maar niet langer dan een jaar na inwerkingtreding van dit besluit.
 
-##### Artikel 22
+#### Artikel 22
 
 Dit besluit treedt in werking op het tijdstip waarop de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt.
 
-##### Artikel 23
+#### Artikel 23
 
 Dit besluit wordt aangehaald als: Postbesluit met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 4a
+#### Artikel 4a
 
 Een verlener van de universele postdienst zorgt ervoor dat de brieven, die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor postvervoer binnen Nederland met de standaard overnight service, per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zon- of maandag of officiële feestdag, volgend op de dag van aanbieding, met dien verstande dat rouwbrieven en medische brieven per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zondag of officiële feestdag, volgend op de dag van aanbieding.
 
-##### Artikel 4b
+#### Artikel 4b
 
 De verlener van de universele postdienst zorgt ervoor dat het net van dienstverleningspunten voor het aanbieden van postzendingen en voor het verrichten van andere met het postvervoer samenhangende handelingen voldoet aan de volgende spreidingsmaatstaven:
 
@@ -242,7 +216,7 @@ De verlener van de universele postdienst zorgt ervoor dat het net van dienstverl
 
 - b. de spreiding van dienstverleningspunten met een volledig assortiment van diensten buiten woonkernen met meer dan 5.000 inwoners resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 85% van de betrokken inwoners.
 
-##### Artikel 4c
+#### Artikel 4c
 
 1. De verlener van de universele postdienst zorgt ervoor dat:
 
@@ -252,7 +226,7 @@ De verlener van de universele postdienst zorgt ervoor dat het net van dienstverl
 
 2. De verlener van de universele postdienst kan in afwijking van de in het eerste lid, onderdeel b, gestelde eis, wanneer deze eis redelijkerwijs niet haalbaar is, afwijken van die eis indien hij de betrokken gebruikers de gelegenheid biedt om bij de bestelling poststukken ten vervoer aan te bieden.
 
-##### Artikel 4d
+#### Artikel 4d
 
 De verlener van de universele postdienst houdt bij de uitvoering van het bepaalde in de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2018-01-01&g=2018-01-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2018-01-01&g=2018-01-01) rekening met een advies als bedoeld in [artikel 18a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=18a) ten aanzien van de belangen van kwetsbare gebruikers van de universele postdienst.
 
