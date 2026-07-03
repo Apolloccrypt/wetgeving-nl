@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 22 november 2007, houdende regels inzake de kwaliteit van de bodem (Besluit bodemkwaliteit)"
+title: "Besluit bodemkwaliteit"
 identifier: "BWBR0022929"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022929"
-soort: "AMvB"
-stam_id: "9297723"
-version_id: "27580002"
-internal_id: "C38906571"
-label_id: "9277174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022929/2025-07-01/0"
-intitule_bron: "Stb.2007-469"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-22"
-intitule_published: "2007-12-03"
-intitule_in_force: "2007-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2021-98"
-original_signed_date: "2020-11-27"
-original_published_date: "2021-02-25"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2021-98"
-entry_into_force_date: "2020-11-27"
-jci_1_3: "jci1.3:c:BWBR0022929&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0022929&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bodemkwaliteit"
-signed_date: "2020-11-27"
-entry_into_force: "2020-11-27"
+categorie: "Milieu"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0022929"
 ---
+
 # Besluit van 22 november 2007, houdende regels inzake de kwaliteit van de bodem (Besluit bodemkwaliteit)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juli 2007, nr. DJZ2007057947, Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens de Staatssecretaris van Verkeer en Waterstaat en de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -54,7 +28,7 @@ Treedt voor het toepassen van grond en baggerspecie in de Nederlandse territoria
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
@@ -120,31 +94,31 @@ Treedt voor het toepassen van grond en baggerspecie in de Nederlandse territoria
 
 4. Een milieuverklaring bodemkwaliteit kan de vorm hebben van een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring, fabrikant-eigenverklaring, verklaring op grond van een bodemonderzoek of verklaring op grond van een bodemkwaliteitskaart.
 
-##### Artikel 2
+#### Artikel 2
 
 Vervallen
 
-##### Artikel 3
+#### Artikel 3
 
 Vervallen
 
-##### Artikel 4
+#### Artikel 4
 
 Vervallen
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
@@ -152,7 +126,7 @@ Vervallen
 
 ### Afdeling 1. Erkenning van personen en instellingen
 
-##### Artikel 9
+#### Artikel 9
 
 1. Onze Minister kan op aanvraag voor een werkzaamheid een erkenning bodemkwaliteit verlenen aan een persoon of een instelling.
 
@@ -164,7 +138,7 @@ Vervallen
 
 5. Een erkenning bodemkwaliteit is niet overdraagbaar.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Een aanvraag voor een erkenning bodemkwaliteit wordt door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister.
 
@@ -182,7 +156,7 @@ Vervallen
 
 3. Onze Minister kan nadere regels stellen met betrekking tot de in het tweede lid bedoelde gegevens.
 
-##### Artikel 11
+#### Artikel 11
 
 1. Onze Minister beslist binnen acht weken na de datum van ontvangst van de aanvraag.
 
@@ -200,7 +174,7 @@ Vervallen
 
 6. Voordat toepassing wordt gegeven aan het vijfde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Op verzoek van de erkende persoon of instelling kan de erkenning bodemkwaliteit worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
@@ -208,7 +182,7 @@ Vervallen
 
 3. Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-##### Artikel 13
+#### Artikel 13
 
 1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2025-07-01&g=2025-07-01), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
 
@@ -216,13 +190,13 @@ Vervallen
 
 3. Met een erkenning bodemkwaliteit wordt gelijkgesteld een erkenning bodemkwaliteit of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2025-07-01&g=2025-07-01), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-07-01&g=2025-07-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
 ### Afdeling 2. Verboden en verplichtingen
 
-##### Artikel 15
+#### Artikel 15
 
 1. Het is verboden een werkzaamheid uit te voeren zonder daartoe verleende erkenning bodemkwaliteit.
 
@@ -230,11 +204,11 @@ Vervallen
 
 3. Het bepaalde in het eerste en tweede lid geldt niet voorzover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat of een accreditatie.
 
-##### Artikel 16
+#### Artikel 16
 
 Het is een persoon of instelling verboden een resultaat van een werkzaamheid te gebruiken of aan een ander ter beschikking te stellen indien hij weet of redelijkerwijs had kunnen vermoeden dat dit resultaat, gelet op het doel waarvoor dit wordt gebruikt, geen betrouwbaar beeld verschaft van de eigenschappen, aard, hoedanigheid of samenstelling van de bodem, grond, baggerspecie of bouwstof.
 
-##### Artikel 17
+#### Artikel 17
 
 1. Een bij regeling van Onze Minister aangewezen instelling of persoon verricht niet een bij ministeriële regeling aangewezen handeling met betrekking tot bodem, grond, baggerspecie of bouwstof, waarop deze instelling of persoon een persoonlijk of zakelijk recht heeft.
 
@@ -250,31 +224,31 @@ Het is een persoon of instelling verboden een resultaat van een werkzaamheid te 
 
 4. Indien een normdocument eisen bevat ten aanzien van organisatorische maatregelen als bedoeld in het derde lid voldoet de persoon of instelling die voor de desbetreffende werkzaamheid is erkend aan het derde lid, indien hij aan het normdocument voldoet.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Het is verboden een werkzaamheid uit te voeren in strijd met het daarvoor geldende normdocument.
 
 2. Het in het eerste lid gestelde verbod geldt niet voor zover het afwijken van het normdocument bij wettelijk voorschrift is toegestaan.
 
-##### Artikel 19
+#### Artikel 19
 
 De houder van een erkenning bodemkwaliteit meldt onverwijld aan een door Onze Minister aangewezen instantie zijn door de rechtbank uitgesproken faillissement of surseance van betaling. De melding geschiedt door middel van een door Onze Minister vastgesteld formulier.
 
-##### Artikel 20
+#### Artikel 20
 
 Een certificeringsinstelling of de Raad voor Accreditatie meldt een schorsing of intrekking van een certificaat, onderscheidenlijk een accreditatie, voor een werkzaamheid onverwijld aan een door Onze Minister aangewezen instantie. De melding geschiedt door middel van een door Onze Minister vastgesteld formulier.
 
-##### Artikel 21
+#### Artikel 21
 
 Vervallen
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
 ### Afdeling 3. Sancties
 
-##### Artikel 23
+#### Artikel 23
 
 1. Onze Minister kan een erkenning bodemkwaliteit geheel of gedeeltelijk intrekken:
 
@@ -302,11 +276,11 @@ Vervallen
 
 6. Ingeval van aanwijzingen dat er sprake is van een overtreding als bedoeld in het eerste lid, onderdeel e, kan Onze Minister de desbetreffende persoon of instelling verzoeken binnen een redelijke termijn een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) over te leggen, die niet ouder is dan twee maanden. Indien de desbetreffende persoon of instelling niet binnen de gestelde termijn aan dit verzoek voldoet of kan voldoen, kan Onze Minister de erkenning bodemkwaliteit voor een periode van ten hoogste twee jaren geheel of gedeeltelijk schorsen.
 
-##### Artikel 24
+#### Artikel 24
 
 Onze Minister verwerkt de schorsing en intrekking van de erkenning bodemkwaliteit in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 25
+#### Artikel 25
 
 1. Onze Minister kan normdocumenten aanwijzen voorzover deze:
 
@@ -328,45 +302,45 @@ Onze Minister verwerkt de schorsing en intrekking van de erkenning bodemkwalitei
 
 #### Paragraaf 1. Algemeen
 
-##### Artikel 34
+#### Artikel 34
 
 Vervallen
 
-##### Artikel 35
+#### Artikel 35
 
 Vervallen
 
-##### Artikel 36
+#### Artikel 36
 
 Vervallen
 
-##### Artikel 37
+#### Artikel 37
 
 Vervallen
 
 #### Paragraaf 2. Algemene voorschriften voor degene die grond of baggerspecie toepast
 
-##### Artikel 38
+#### Artikel 38
 
 Vervallen
 
-##### Artikel 39
+#### Artikel 39
 
 Vervallen
 
-##### Artikel 40
+#### Artikel 40
 
 Vervallen
 
-##### Artikel 41
+#### Artikel 41
 
 Vervallen
 
-##### Artikel 42
+#### Artikel 42
 
 Vervallen
 
-##### Artikel 43
+#### Artikel 43
 
 Vervallen
 
@@ -374,101 +348,101 @@ Vervallen
 
 #### Paragraaf 2. Algemene voorschriften voor degene die grond of baggerspecie toepast
 
-##### Artikel 44
+#### Artikel 44
 
 Vervallen
 
-##### Artikel 45
+#### Artikel 45
 
 Vervallen
 
-##### Artikel 46
+#### Artikel 46
 
 Vervallen
 
-##### Artikel 47
+#### Artikel 47
 
 Vervallen
 
-##### Artikel 48
+#### Artikel 48
 
 Vervallen
 
-##### Artikel 49
+#### Artikel 49
 
 Vervallen
 
-##### Artikel 50
+#### Artikel 50
 
 Vervallen
 
-##### Artikel 51
+#### Artikel 51
 
 Vervallen
 
-##### Artikel 52
+#### Artikel 52
 
 Vervallen
 
-##### Artikel 53
-
-Vervallen
-
-#### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
-
-##### Artikel 54
-
-Vervallen
-
-##### Artikel 55
-
-Vervallen
-
-##### Artikel 56
-
-Vervallen
-
-##### Artikel 57
-
-Vervallen
-
-##### Artikel 58
-
-Vervallen
-
-##### Artikel 59
-
-Vervallen
-
-##### Artikel 60
-
-Vervallen
-
-##### Artikel 61
+#### Artikel 53
 
 Vervallen
 
 #### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
 
-##### Artikel 62
+#### Artikel 54
 
 Vervallen
 
-##### Artikel 63
+#### Artikel 55
 
 Vervallen
 
-##### Artikel 64
+#### Artikel 56
+
+Vervallen
+
+#### Artikel 57
+
+Vervallen
+
+#### Artikel 58
+
+Vervallen
+
+#### Artikel 59
+
+Vervallen
+
+#### Artikel 60
+
+Vervallen
+
+#### Artikel 61
+
+Vervallen
+
+#### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
+
+#### Artikel 62
+
+Vervallen
+
+#### Artikel 63
+
+Vervallen
+
+#### Artikel 64
 
 Vervallen
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
-##### Artikel 65
+#### Artikel 65
 
 Vervallen
 
-##### Artikel 66
+#### Artikel 66
 
 [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2025-07-01&g=2025-07-01) van dit besluit is niet van toepassing op:
 
@@ -478,75 +452,75 @@ Vervallen
 
 - c. de opsporing en vervolging van strafbare feiten.
 
-##### Artikel 67
+#### Artikel 67
 
 Vervallen
 
-##### Artikel 68
+#### Artikel 68
 
 Vervallen
 
-##### Artikel 69
+#### Artikel 69
 
 Vervallen
 
-##### Artikel 70
+#### Artikel 70
 
 Vervallen
 
-##### Artikel 71
+#### Artikel 71
 
 Vervallen
 
-##### Artikel 72
+#### Artikel 72
 
 Vervallen
 
-##### Artikel 73
+#### Artikel 73
 
 Vervallen
 
-##### Artikel 74
+#### Artikel 74
 
 Vervallen
 
-##### Artikel 75
+#### Artikel 75
 
 Vervallen
 
-##### Artikel 76
+#### Artikel 76
 
 Vervallen
 
-##### Artikel 77
+#### Artikel 77
 
 Vervallen
 
-##### Artikel 78
+#### Artikel 78
 
 Vervallen
 
-##### Artikel 79
+#### Artikel 79
 
 Vervallen
 
-##### Artikel 80
+#### Artikel 80
 
 Een kaart van de bodemfunctieklassen van het gebied binnen een gemeente die is vastgesteld op grond van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2025-07-01&g=2025-07-01), zoals dat luidde voor de inwerkingtreding van [artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI), geldt als een bodemfunctieklassenkaart op grond van artikel 55, eerste lid, zoals dat luidt na de inwerkingtreding van artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022.
 
-##### Artikel 81
+#### Artikel 81
 
 Vervallen
 
-##### Artikel 82
+#### Artikel 82
 
 Vervallen
 
-##### Artikel 83
+#### Artikel 83
 
 Vervallen
 
-##### Artikel 84
+#### Artikel 84
 
 Dit besluit wordt aangehaald als: Besluit bodemkwaliteit.
 
@@ -839,7 +813,7 @@ Dit besluit wordt aangehaald als: Besluit bodemkwaliteit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 82a
+#### Artikel 82a
 
 Dit besluit berust mede op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
@@ -1132,35 +1106,35 @@ Dit besluit berust mede op [artikel 9.2.2.1 van de Wet milieubeheer](https://wet
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 26
+#### Artikel 26
 
 Vervallen
 
-##### Artikel 27
+#### Artikel 27
 
 Vervallen
 
-##### Artikel 28
+#### Artikel 28
 
 Vervallen
 
-##### Artikel 29
+#### Artikel 29
 
 Vervallen
 
-##### Artikel 30
+#### Artikel 30
 
 Vervallen
 
-##### Artikel 31
+#### Artikel 31
 
 Vervallen
 
-##### Artikel 32
+#### Artikel 32
 
 Vervallen
 
-##### Artikel 33
+#### Artikel 33
 
 Vervallen
 
@@ -1469,7 +1443,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 1a
+#### Artikel 1a
 
 Vervallen
 
@@ -1786,19 +1760,19 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 33a
+#### Artikel 33a
 
 Vervallen
 
-##### Artikel 33b
+#### Artikel 33b
 
 Vervallen
 
-##### Artikel 33c
+#### Artikel 33c
 
 Vervallen
 
-##### Artikel 33d
+#### Artikel 33d
 
 Vervallen
 
@@ -2110,7 +2084,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 8a
+#### Artikel 8a
 
 Bij ministeriële regeling worden met betrekking tot bouwstoffen, grond, baggerspecie, de bodem of bodemenergiesystemen werkzaamheden aangewezen als bedoeld in [artikel 11a.2, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2).
 
@@ -2434,11 +2408,11 @@ Bij ministeriële regeling worden met betrekking tot bouwstoffen, grond, baggers
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 25a
+#### Artikel 25a
 
 Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het daarvoor te verrichten onderzoek voor het uitvoeren van handelingen met bouwstoffen overeenkomstig [artikel 25h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3a&artikel=25h&z=2025-07-01&g=2025-07-01) en het toepassen van bouwstoffen, grond of baggerspecie overeenkomstig het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330).
 
-##### Artikel 25b
+#### Artikel 25b
 
 1. Een verklaring op grond van een partijkeuring heeft betrekking op de kwaliteit van bouwstoffen, grond of baggerspecie en wordt afgegeven voor een partij.
 
@@ -2450,7 +2424,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 5. Een verklaring op grond van een bodemkwaliteitskaart heeft betrekking op de kwaliteit van de bodem op een in de verklaring aangegeven locatie op de bodemkwaliteitskaart of op de kwaliteit van grond of baggerspecie, die uit de bodem op die locatie is of wordt ontgraven.
 
-##### Artikel 25c
+#### Artikel 25c
 
 1. Een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring of verklaring op grond van een bodemonderzoek wordt afgegeven op grond van een onderzoek dat is verricht door een persoon of instelling die beschikt over een erkenning bodemkwaliteit als die voor het uitvoeren van die werkzaamheid op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2025-07-01&g=2025-07-01), is vereist.
 
@@ -2458,7 +2432,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 3. Een verklaring op grond van een bodemkwaliteitskaart wordt afgegeven op grond van een onderzoek dat is verricht met gebruikmaking van een bodemkwaliteitskaart waarop de feitelijke kwaliteit van de bodem in het gebied waarop de kaart betrekking heeft is weergegeven en die voldoet aan de op grond van [artikel 25g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2025-07-01&g=2025-07-01), gestelde eisen.
 
-##### Artikel 25d
+#### Artikel 25d
 
 1. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van bouwstoffen, vermeldt of de bouwstoffen voldoen aan de daarvoor geldende kwaliteitseisen die gelden voor verontreinigende stoffen of andere parameters.
 
@@ -2508,7 +2482,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 7. De kwaliteitseisen, bedoeld in dit artikel, zijn de kwaliteitseisen, vastgesteld op grond van [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2025-07-01&g=2025-07-01).
 
-##### Artikel 25e
+#### Artikel 25e
 
 1. Een milieuverklaring bodemkwaliteit bevat voor elke relevante kwaliteitseis de gegevens waarop de verklaring is gebaseerd of een verwijzing naar een rapport waarin deze gegevens zijn opgenomen.
 
@@ -2522,7 +2496,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 - d. de hoeveelheid bouwstoffen, grond of baggerspecie waarop de verklaring betrekking heeft, uitgedrukt in ton.
 
-##### Artikel 25f
+#### Artikel 25f
 
 1. Als er op grond van de activiteiten die op de locatie van het ontgraven hebben plaatsgevonden, de ontstaansgeschiedenis van een partij of anderszins aanleiding bestaat om te veronderstellen dat in grond, baggerspecie, mijnsteen of vermengde mijnsteen stoffen of andere parameters aanwezig zijn waardoor dat materiaal niet geschikt is om op of in de bodem of in een oppervlaktewaterlichaam te worden toegepast, wordt daarnaar het nodige onderzoek verricht voordat met betrekking tot het materiaal een milieuverklaring bodemkwaliteit wordt afgegeven.
 
@@ -2530,7 +2504,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 3. Als uit een onderzoek als bedoeld in het eerste of tweede lid blijkt dat de aanwezigheid van verontreinigende stoffen, andere relevante parameters of bodemvreemd materiaal grond, baggerspecie, mijnsteen of vermengde mijnsteen ongeschikt kan maken voor het toepassen op of in de bodem of in een oppervlaktewaterlichaam, wordt de aanwezigheid van de stoffen, andere relevante parameters of bodemvreemd materiaal in de milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van de grond, baggerspecie, mijnsteen of vermengde mijnsteen aangegeven, waarbij bovendien de concentraties, emissies, gehalten of andere waarden van de verontreinigende stoffen of andere parameters en het gewichtspercentage van het bodemvreemde materiaal worden vermeld.
 
-##### Artikel 25g
+#### Artikel 25g
 
 1. Bij ministeriële regeling worden de kwaliteitseisen, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2025-07-01&g=2025-07-01), vastgesteld.
 
@@ -2588,7 +2562,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 - s. de inhoud en vormgeving van afleverbonnen.
 
-##### Artikel 25h
+#### Artikel 25h
 
 1. Het vervaardigen, invoeren, voor toepassing in Nederland of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben, vervoeren of aan een ander ter beschikking stellen van bouwstoffen is verboden, tenzij:
 

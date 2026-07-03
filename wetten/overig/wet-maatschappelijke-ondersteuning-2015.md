@@ -1,42 +1,14 @@
 ---
-title: "Wet van 9 juli 2014, houdende regels inzake de gemeentelijke ondersteuning op het gebied van zelfredzaamheid, participatie, beschermd wonen en opvang (Wet maatschappelijke ondersteuning 2015)"
+title: "Wet maatschappelijke ondersteuning 2015"
 identifier: "BWBR0035362"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035362"
-soort: "wet"
-stam_id: "12734193"
-version_id: "25890322"
-internal_id: "C36896831"
-label_id: "12705494"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035362/2026-01-01/0"
-intitule_bron: "Stb.2014-280"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-07-09"
-intitule_published: "2014-07-18"
-intitule_in_force: "2014-07-18"
-intitule_status: "goed"
-original_publication: "Stb.2019-221"
-original_signed_date: "2019-05-22"
-original_published_date: "2019-06-24"
-original_effect: "structuurwijziging"
-original_dossier: "35070"
-original_url_id: "stb-2019-221"
-entry_into_force_date: "2019-05-22"
-entry_into_force_dossier: "35070"
-jci_1_3: "jci1.3:c:BWBR0035362&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0035362&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet maatschappelijke ondersteuning 2015"
-signed_date: "2019-05-22"
-entry_into_force: "2019-05-22"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0035362"
 ---
-# Wet van 9 juli 2014, houdende regels inzake de gemeentelijke ondersteuning op het gebied van zelfredzaamheid, participatie, beschermd wonen en opvang (Wet maatschappelijke ondersteuning 2015)
+
+# Wet maatschappelijke ondersteuning 2015
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -48,7 +20,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Begripsbepalingen
 
-##### Artikel 1.1.1
+#### Artikel 1.1.1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -154,7 +126,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Personen of rechtspersonen die als vertegenwoordiger als bedoeld in het eerste lid kunnen optreden zijn de curator, de mentor of de gevolmachtigde van de cliënt, dan wel, indien zodanige persoon of rechtspersoon ontbreekt, diens echtgenoot, de geregistreerde partner of andere levensgezel van de cliënt, tenzij deze persoon dat niet wenst, dan wel, indien ook zodanige persoon ontbreekt, diens ouder, kind, broer, zus, grootouder of kleinkind, tenzij deze persoon dat niet wenst.
 
-##### Artikel 1.1.2
+#### Artikel 1.1.2
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:
 
@@ -186,7 +158,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 2. Algemene bepalingen
 
-##### Artikel 1.2.1
+#### Artikel 1.2.1
 
 Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in aanmerking voor een maatwerkvoorziening, bestaande uit:
 
@@ -196,7 +168,7 @@ Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in a
 
 - c. opvang, te verstrekken door het college van de gemeente tot welke hij zich wendt, indien hij de thuissituatie heeft verlaten, al dan niet in verband met risico’s voor zijn veiligheid als gevolg van huiselijk geweld, en niet in staat is zich op eigen kracht, met gebruikelijke hulp, met mantelzorg of met hulp van andere personen uit zijn sociale netwerk te handhaven in de samenleving.
 
-##### Artikel 1.2.2
+#### Artikel 1.2.2
 
 1. Een vreemdeling komt voor het verstrekken van een maatwerkvoorziening slechts in aanmerking indien hij rechtmatig verblijf houdt in de zin van [artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
@@ -210,13 +182,13 @@ Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in a
 
 #### § 1. Opdracht gemeente
 
-##### Artikel 2.1.1
+#### Artikel 2.1.1
 
 1. Het gemeentebestuur draagt zorg voor de maatschappelijke ondersteuning.
 
 2. Het gemeentebestuur draagt zorg voor de kwaliteit en de continuïteit van de voorzieningen.
 
-##### Artikel 2.1.2
+#### Artikel 2.1.2
 
 1. De gemeenteraad stelt periodiek een plan vast met betrekking tot het door het gemeentebestuur te voeren beleid met betrekking tot maatschappelijke ondersteuning.
 
@@ -266,7 +238,7 @@ Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in a
 
 6. In het plan wordt aangegeven welke resultaten het gemeentebestuur in de door het plan bestreken periode wenst te behalen, welke criteria worden gehanteerd om te meten hoe deze resultaten zijn behaald en welke prestatie-indicatoren worden gehanteerd ten aanzien van aanbieders.
 
-##### Artikel 2.1.3
+#### Artikel 2.1.3
 
 1. De gemeenteraad stelt bij verordening de regels vast die noodzakelijk zijn voor de uitvoering van het in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01) bedoelde plan en de door het college ter uitvoering daarvan te nemen besluiten of te verrichten handelingen.
 
@@ -298,7 +270,7 @@ Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in a
 
 4. In de verordening worden regels gesteld voor de bestrijding van het ten onrechte ontvangen van een maatwerkvoorziening of een persoonsgebonden budget, alsmede van misbruik of oneigenlijk gebruik van de wet.
 
-##### Artikel 2.1.4
+#### Artikel 2.1.4
 
 1. Bij verordening kan worden bepaald dat een cliënt een bijdrage in de kosten verschuldigd is voor het gebruik van een algemene voorziening.
 
@@ -316,7 +288,7 @@ Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in a
 
 6. De bijdrage, bedoeld in het tweede lid, gaat de kostprijs van de voorziening niet te boven. Bij verordening wordt bepaald op welke wijze de kostprijs wordt berekend.
 
-##### Artikel 2.1.5
+#### Artikel 2.1.5
 
 1. Indien een maatwerkvoorziening of een persoonsgebonden budget wordt verstrekt ten behoeve van een woningaanpassing voor een minderjarige cliënt, kan bij verordening worden bepaald dat de in [artikel 2.1.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), bedoelde bijdrage is verschuldigd door:
 
@@ -330,31 +302,31 @@ Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in a
 
 4. Indien meer dan één persoon een bijdrage is verschuldigd, is ieder der bijdrageplichtigen de bijdrage verschuldigd, met dien verstande dat indien de een heeft betaald, de ander is bevrijd.
 
-##### Artikel 2.1.6
+#### Artikel 2.1.6
 
 Bij verordening wordt bepaald op welke wijze het college zorg draagt voor een jaarlijkse blijk van waardering voor de mantelzorgers van cliënten in de gemeente.
 
-##### Artikel 2.1.7
+#### Artikel 2.1.7
 
 Bij verordening kan worden bepaald dat door het college aan personen met een beperking of chronische psychische of psychosociale problemen die daarmee verband houdende aannemelijke meerkosten hebben, een tegemoetkoming wordt verstrekt ter ondersteuning van de zelfredzaamheid en de participatie.
 
 #### § 2. Algemene maatregelen en algemene voorzieningen
 
-##### Artikel 2.2.1
+#### Artikel 2.2.1
 
 Het college bevordert en treft de algemene maatregelen om de sociale samenhang, de toegankelijkheid van voorzieningen, diensten en ruimten voor mensen met een beperking, de veiligheid en leefbaarheid in de gemeente te bevorderen, alsmede huiselijk geweld te voorkomen en te bestrijden, die noodzakelijk zijn ter uitvoering van het plan, bedoeld in [artikel 2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 2.2.2
+#### Artikel 2.2.2
 
 1. Het college bevordert en treft de algemene maatregelen ter bevordering van mantelzorg en vrijwilligerswerk en ter ondersteuning van mantelzorgers en vrijwilligers, die noodzakelijk zijn ter uitvoering van het plan, bedoeld in [artikel 2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01).
 
 2. Het college bevordert en treft voorts de algemene voorzieningen die ter uitvoering van het plan, bedoeld in [artikel 2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01), noodzakelijk zijn om de onderscheiden categorieën van mantelzorgers en vrijwilligers zoveel mogelijk in staat te stellen hun taken als mantelzorger en vrijwilliger uit te voeren.
 
-##### Artikel 2.2.3
+#### Artikel 2.2.3
 
 Het college bevordert en treft de algemene voorzieningen ter bevordering van de zelfredzaamheid, participatie, beschermd wonen en opvang, die noodzakelijk zijn ter uitvoering van het plan, bedoeld in [artikel 2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 2.2.4
+#### Artikel 2.2.4
 
 1. Het college draagt er in ieder geval zorg voor dat voor ingezetenen cliëntondersteuning beschikbaar is.
 
@@ -362,11 +334,11 @@ Het college bevordert en treft de algemene voorzieningen ter bevordering van de 
 
 #### § 3. Maatwerkvoorzieningen
 
-##### Artikel 2.3.1
+#### Artikel 2.3.1
 
 Het college draagt er zorg voor dat aan personen die daarvoor in aanmerking komen, een maatwerkvoorziening wordt verstrekt.
 
-##### Artikel 2.3.2
+#### Artikel 2.3.2
 
 1. Indien bij het college melding wordt gedaan van een behoefte aan maatschappelijke ondersteuning, voert het college in samenspraak met degene door of namens wie de melding is gedaan en waar mogelijk met de mantelzorger of mantelzorgers dan wel diens vertegenwoordiger, zo spoedig mogelijk, doch uiterlijk binnen zes weken, een onderzoek uit overeenkomstig het tweede tot en met achtste lid. Het college bevestigt de ontvangst van de melding.
 
@@ -400,17 +372,17 @@ Het college draagt er zorg voor dat aan personen die daarvoor in aanmerking kome
 
 9. Een aanvraag als bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) kan niet worden gedaan dan nadat het onderzoek is uitgevoerd, tenzij het onderzoek niet is uitgevoerd binnen de in het eerste lid genoemde termijn.
 
-##### Artikel 2.3.3
+#### Artikel 2.3.3
 
 In spoedeisende gevallen, daaronder begrepen de gevallen waarin terstond opvang noodzakelijk is, al dan niet in verband met risico’s voor de veiligheid als gevolg van huiselijk geweld, beslist het college na een melding als bedoeld in [artikel 2.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), onverwijld tot verstrekking van een tijdelijke maatwerkvoorziening in afwachting van de uitkomst van het onderzoek, bedoeld in artikel 2.3.2 en de aanvraag van de cliënt.
 
-##### Artikel 2.3.4
+#### Artikel 2.3.4
 
 1. Bij het onderzoek, bedoeld in [artikel 2.3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), stelt het college de identiteit van de cliënt vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
 2. De cliënt die een aanvraag doet voor een maatwerkvoorziening, verstrekt het college desgevraagd terstond een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage.
 
-##### Artikel 2.3.5
+#### Artikel 2.3.5
 
 1. Het college beslist op een aanvraag:
 
@@ -452,7 +424,7 @@ afgestemd op:
 
 9. De voordracht voor een krachtens het achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.
 
-##### Artikel 2.3.6
+#### Artikel 2.3.6
 
 1. Indien de cliënt dit wenst, verstrekt het college hem een persoonsgebonden budget dat de cliënt in staat stelt de diensten, hulpmiddelen, woningaanpassingen en andere maatregelen die tot de maatwerkvoorziening behoren, van derden te betrekken.
 
@@ -476,7 +448,7 @@ afgestemd op:
 
 6. Op een persoonsgebonden budget is [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) niet van toepassing.
 
-##### Artikel 2.3.7
+#### Artikel 2.3.7
 
 1. Indien het college heeft beslist tot verstrekking van een maatwerkvoorziening in de vorm van een woningaanpassing aan een woning waarvan de cliënt niet de eigenaar is, dan wel een persoonsgebonden budget daarvoor, is het college dan wel de cliënt, bevoegd zonder toestemming van de eigenaar deze woningaanpassing aan te brengen of te doen aanbrengen.
 
@@ -484,7 +456,7 @@ afgestemd op:
 
 3. Het college dan wel de cliënt is niet gehouden de woningaanpassing ongedaan te maken, indien de cliënt niet langer gebruik maakt van de woning.
 
-##### Artikel 2.3.8
+#### Artikel 2.3.8
 
 1. De cliënt doet aan het college op verzoek of onverwijld uit eigen beweging mededeling van alle feiten en omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij aanleiding kunnen zijn tot heroverweging van een beslissing als bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) of [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01).
 
@@ -492,13 +464,13 @@ afgestemd op:
 
 3. De cliënt is verplicht aan het college desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
 
-##### Artikel 2.3.9
+#### Artikel 2.3.9
 
 1. Het college onderzoekt periodiek of er aanleiding is een beslissing als bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) of [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01) te heroverwegen.
 
 2. [Artikel 2.3.2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), en [artikel 2.3.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
-##### Artikel 2.3.10
+#### Artikel 2.3.10
 
 1. Het college kan een beslissing als bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) of [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01) herzien dan wel intrekken, indien het college vaststelt dat:
 
@@ -516,17 +488,17 @@ afgestemd op:
 
 #### § 4. Verhaal van kosten
 
-##### Artikel 2.4.1
+#### Artikel 2.4.1
 
 1. Indien het college een beslissing als bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) of [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01) met toepassing van [artikel 2.3.10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.10&z=2026-01-01&g=2026-01-01), heeft ingetrokken en de verstrekking van de onjuiste of onvolledige gegevens door de cliënt opzettelijk heeft plaatsgevonden, kan het college van de cliënt en van degene die daaraan opzettelijk zijn medewerking heeft verleend, geheel of gedeeltelijk de geldswaarde vorderen van de ten onrechte genoten maatwerkvoorziening of het ten onrechte genoten persoonsgebonden budget.
 
 2. Het college kan het terug te vorderen bedrag bij dwangbevel invorderen.
 
-##### Artikel 2.4.2
+#### Artikel 2.4.2
 
 Roerende zaken die aan de cliënt in gebruik zijn verstrekt als onderdeel van een maatwerkvoorziening dan wel zijn aangeschaft met een persoonsgebonden budget, zijn niet vatbaar voor vervreemding, verpanding, belening of beslag, gedurende de periode waarvoor de beslissing, bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) of [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01), geldt.
 
-##### Artikel 2.4.3
+#### Artikel 2.4.3
 
 1. Behoudens toepassing van [artikel 2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=4&artikel=2.4.4&z=2026-01-01&g=2026-01-01), heeft een gemeente voor de krachtens deze wet gemaakte kosten verhaal op degene, die jegens de cliënt naar burgerlijk recht tot schadevergoeding is verplicht in verband met het feit dat aanleiding heeft gegeven tot het verstrekken van een maatwerkvoorziening of een persoonsgebonden budget.
 
@@ -538,7 +510,7 @@ Roerende zaken die aan de cliënt in gebruik zijn verstrekt als onderdeel van ee
 
 5. Voor de toepassing van het vierde lid wordt mede als werkgever beschouwd de inlener, bedoeld in [artikel 34 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34).
 
-##### Artikel 2.4.4
+#### Artikel 2.4.4
 
 1. De Vereniging van Nederlandse Gemeenten kan met verzekeraars een overeenkomst sluiten inhoudende een door die verzekeraars te betalen afkoopsom voor de voor de komende periode ingevolge [artikel 2.4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=4&artikel=2.4.3&z=2026-01-01&g=2026-01-01), te verwachten schadelast tengevolge van de schadeplichtigheid van hun verzekerden.
 
@@ -548,7 +520,7 @@ Roerende zaken die aan de cliënt in gebruik zijn verstrekt als onderdeel van ee
 
 #### § 5. Evaluatie van beleid
 
-##### Artikel 2.5.1
+#### Artikel 2.5.1
 
 1. Het college onderzoekt hoe de cliënten de kwaliteit van de maatschappelijke ondersteuning ervaren en publiceert jaarlijks voor 1 juli de uitkomsten hiervan.
 
@@ -558,19 +530,19 @@ Roerende zaken die aan de cliënt in gebruik zijn verstrekt als onderdeel van ee
 
 4. Bij regeling van Onze Minister worden regels gesteld over de inrichting van het onderzoek, bedoeld in het eerste lid.
 
-##### Artikel 2.5.2
+#### Artikel 2.5.2
 
 1. Het college verstrekt desgevraagd kosteloos aan Onze Minister de gegevens die hij nodig heeft om de werking van deze wet te kunnen beoordelen.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de te verstrekken gegevens, de wijze van verstrekking, de tijdvakken waarop de te verstrekken gegevens betrekking hebben en de tijdstippen waarop de verstrekking plaatsvindt.
 
-##### Artikel 2.5.3
+#### Artikel 2.5.3
 
 Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het voorafgaande jaar zijn behaald op basis van de in het plan, bedoeld in [artikel 2.1.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01), gestelde resultaten en hierbij uitgaande van de in het plan aangegeven criteria om resultaten te meten en de ten aanzien van aanbieders gehanteerde prestatie-indicatoren.
 
 #### § 6. Overige bepalingen
 
-##### Artikel 2.6.1
+#### Artikel 2.6.1
 
 1. De colleges werken met elkaar samen, indien dat voor een doeltreffende en doelmatige uitvoering van deze wet aangewezen is.
 
@@ -580,7 +552,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 4. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
-##### Artikel 2.6.2
+#### Artikel 2.6.2
 
 1. De Sociale verzekeringsbank, genoemd in [artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3), voert namens de colleges de betalingen ten laste van verstrekte persoonsgebonden budgetten, alsmede het hiermee verbonden budgetbeheer, uit.
 
@@ -588,13 +560,13 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de overeenkomst die de cliënt sluit met de derde van wie hij diensten, hulpmiddelen, woningaanpassingen of andere maatregelen die tot een maatwerkvoorziening behoren betrekt en die daarvoor betaling ontvangt uit het persoonsgebonden budget.
 
-##### Artikel 2.6.3
+#### Artikel 2.6.3
 
 1. Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de cliënt, door derden laten verrichten.
 
 2. Het college kan de vaststelling van rechten en plichten van de cliënt mandateren aan een aanbieder.
 
-##### Artikel 2.6.4
+#### Artikel 2.6.4
 
 1. Indien werkzaamheden als bedoeld in [artikel 2.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=6&artikel=2.6.3&z=2026-01-01&g=2026-01-01) worden aanbesteed en [artikel 2.114 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.114) niet van toepassing is, wordt:
 
@@ -604,7 +576,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 2. Indien [artikel 2.114 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.114) op een aanbesteding van toepassing is, wordt geen gebruik gemaakt van de bevoegdheid, bedoeld in het vierde lid van dat artikel, om te gunnen op basis van de laagste prijs.
 
-##### Artikel 2.6.5
+#### Artikel 2.6.5
 
 1. De aanbieder aan welke een overheidsopdracht voor het leveren van een voorziening wordt gegund, overlegt met de aanbieder of aanbieders die in opdracht van het college laatstelijk voor hem die voorziening leverden dan wel na hem gaan leveren, over de overname van het betrokken personeel.
 
@@ -616,7 +588,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 - b. de aanbieder of aanbieders, bedoeld in het eerste lid, zoveel mogelijk inspanning leveren om bij het overleg, bedoeld in het eerste lid, de overname van betrokken personeel en het voortzetten van bestaande relaties tussen hulpverleners en cliënten te bewerkstelligen.
 
-##### Artikel 2.6.6
+#### Artikel 2.6.6
 
 1. Indien [artikel 2.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=6&artikel=2.6.3&z=2026-01-01&g=2026-01-01) wordt toegepast, worden bij verordening regels gesteld ter waarborging van:
 
@@ -630,7 +602,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 4. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
-##### Artikel 2.6.7
+#### Artikel 2.6.7
 
 1. Bij algemene maatregel van bestuur kunnen voorwaarden worden bepaald waaronder ingezetenen en maatschappelijke initiatieven bij de uitvoering van het beleid kunnen worden betrokken, het uitvoeren van taken van het college op grond van deze wet daaronder begrepen.
 
@@ -642,7 +614,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 3. Het ontwerp van een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt aan beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
-##### Artikel 2.6.8
+#### Artikel 2.6.8
 
 1. Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering van deze wet ernstige tekortkomingen vaststelt, aan het college, nadat het college gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen.
 
@@ -650,7 +622,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 ### Hoofdstuk 3. Kwaliteit
 
-##### Artikel 3.1
+#### Artikel 3.1
 
 1. De aanbieder draagt er zorg voor dat de voorziening van goede kwaliteit is.
 
@@ -668,7 +640,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 4. Het ontwerp van een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt aan beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door tenminste een vijfde van het grondwettelijke aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
-##### Artikel 3.2
+#### Artikel 3.2
 
 1. Indien de aanbieder een voorziening levert als bedoeld in [artikel 2.1.3, tweede lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2026-01-01&g=2026-01-01), treft de aanbieder:
 
@@ -678,7 +650,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen, indien het niveau van een vorm van maatschappelijke ondersteuning dit vereist, nadere eisen worden gesteld aan aanbieders van voorzieningen.
 
-##### Artikel 3.3
+#### Artikel 3.3
 
 1. De aanbieder, niet zijnde een aanbieder die hulpmiddelen of woningaanpassingen levert, stelt een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.
 
@@ -686,7 +658,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 3. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.
 
-##### Artikel 3.4
+#### Artikel 3.4
 
 1. De aanbieder doet bij de toezichthoudende ambtenaar, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=6&artikel=6.1&z=2026-01-01&g=2026-01-01), onverwijld melding van:
 
@@ -698,7 +670,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 3. Persoonsgegevens als bedoeld in het tweede lid, ten aanzien waarvan de aanbieder of de beroepskracht op grond van een wettelijk voorschrift of op grond van zijn ambt of beroep tot geheimhouding is verplicht, worden uitsluitend zonder toestemming van betrokkene verstrekt, indien deze niet meer in staat is de toestemming te geven dan wel dit noodzakelijk kan worden geacht ter bescherming van cliënten.
 
-##### Artikel 3.5
+#### Artikel 3.5
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de situaties waarin een aanbieder, niet zijnde een aanbieder die hulpmiddelen of woningaanpassingen levert, in het bezit dient te zijn van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) voor beroepskrachten en andere personen die beroepsmatig met zijn cliënten in contact kunnen komen, welke niet eerder is afgegeven dan drie maanden voor het tijdstip waarop betrokkene voor de aanbieder ging werken.
 
@@ -712,7 +684,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 #### § 1. Advies- en meldpunt huiselijk geweld en kindermishandeling
 
-##### Artikel 4.1.1
+#### Artikel 4.1.1
 
 1. Het college draagt zorg voor de inrichting van een Veilig Thuis-organisatie. [Artikel 2.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=6&artikel=2.6.1&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -742,7 +714,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 #### § 2. Kwaliteit en rechtspositie
 
-##### Artikel 4.2.1
+#### Artikel 4.2.1
 
 1. Veilig Thuis draagt er zorg voor dat de uitvoering van de taken, bedoeld in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01), van goede kwaliteit is.
 
@@ -750,7 +722,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 3. Veilig Thuis neemt bij zijn werkzaamheden de zorg van een goede hulpverlener in acht en handelt daarbij in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiende uit de voor die hulpverlener geldende professionele standaard.
 
-##### Artikel 4.2.2
+#### Artikel 4.2.2
 
 1. Het uitvoeren van [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit.
 
@@ -762,7 +734,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 - c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veranderen van de wijze waarop [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), wordt uitgevoerd.
 
-##### Artikel 4.2.3
+#### Artikel 4.2.3
 
 1. Bij algemene maatregel van bestuur kunnen, indien het niveau van de uitvoering van de taken dit vereist, nadere regels worden gesteld met betrekking tot de uitvoering van de [artikelen 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.2&z=2026-01-01&g=2026-01-01).
 
@@ -770,7 +742,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 3. De voordracht voor een krachtens het eerste of tweede lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister en Onze Minister voor Rechtsbescherming te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
-##### Artikel 4.2.4
+#### Artikel 4.2.4
 
 1. Veilig Thuis is in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0015677) van personen die in zijn opdracht beroepsmatig en niet-incidenteel als vrijwilliger in contact kunnen komen met personen die bij een melding aan Veilig Thuis betrokken zijn.
 
@@ -794,7 +766,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 - g. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.
 
-##### Artikel 4.2.5
+#### Artikel 4.2.5
 
 1. Veilig Thuis doet aan de ingevolge [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01) met het toezicht belaste ambtenaren onverwijld melding van:
 
@@ -804,7 +776,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 2. Veilig Thuis verstrekt bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ingevolge [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01) met toezicht belaste ambtenaren de gegevens, daaronder begrepen persoonsgegevens, gegevens over gezondheid en andere bijzondere categorieën van persoonsgegevens, die voor het onderzoeken van de melding noodzakelijk zijn.
 
-##### Artikel 4.2.6
+#### Artikel 4.2.6
 
 1. Veilig Thuis informeert personen die bij een melding betrokken zijn tijdig over de mogelijkheid gebruik te maken van de diensten van een vertrouwenspersoon.
 
@@ -824,7 +796,7 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 9. Een vertrouwenspersoon kan zich op grond van zijn geheimhoudingsplicht verschonen van het geven van getuigenis of het beantwoorden van vragen in een klachtprocedure of een rechterlijke procedure.
 
-##### Artikel 4.2.7
+#### Artikel 4.2.7
 
 1. Veilig Thuis treft een regeling voor de behandeling van klachten over gedragingen van Veilig Thuis of van voor hem werkzame personen jegens andere personen in het kader van de uitvoering van de taken van Veilig Thuis. Veilig Thuis brengt de regeling op passende wijze onder de aandacht van de jeugdigen, ouders en pleegouders.
 
@@ -852,15 +824,15 @@ Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het vo
 
 5. Veilig Thuis deelt de klager en de klachtencommissie, bedoeld in het tweede lid, onderdeel a, binnen een maand na ontvangst van het in het tweede lid, onderdeel c, bedoelde oordeel van de klachtencommissie schriftelijk mee of hij naar aanleiding van dat oordeel maatregelen zal nemen en zo ja welke. Bij afwijking van de in de eerste volzin genoemde termijn, doet Veilig Thuis daarvan met redenen omkleed mededeling aan de klager en de klachtencommissie, onder vermelding van de termijn waarbinnen Veilig Thuis zijn standpunt aan hen kenbaar zal maken.
 
-##### Artikel 4.2.8
+#### Artikel 4.2.8
 
 Indien een klacht zich richt op een ernstige situatie met een structureel karakter, stelt de klachtencommissie Veilig Thuis daarvan in kennis. Indien de klachtencommissie niet is gebleken dat Veilig Thuis ter zake maatregelen heeft getroffen, meldt de klachtencommissie deze klacht aan de ingevolge [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01) met het toezicht belaste ambtenaren. Onder een klacht over een ernstige situatie wordt verstaan een klacht over een situatie waarbij sprake is van onverantwoorde hulp.
 
-##### Artikel 4.2.9
+#### Artikel 4.2.9
 
 De [artikelen 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.7&z=2026-01-01&g=2026-01-01) en [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.8&z=2026-01-01&g=2026-01-01)zijn niet van toepassing op klachten ten aanzien van jeugdigen die op grond van een andere wet onvrijwillig in een accommodatie zijn opgenomen, voor zover deze overeenkomstig een bijzondere wettelijke regeling door een klachtencommissie kunnen worden behandeld.
 
-##### Artikel 4.2.10
+#### Artikel 4.2.10
 
 1. Veilig Thuis stelt jaarlijks een verslag op over de naleving van deze wet in het voorafgaande jaar met betrekking tot regels omtrent de kwaliteit van de uitvoering van de taken en het klachtrecht.
 
@@ -888,7 +860,7 @@ De [artikelen 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4
 
 3. Bij regeling van Onze Minister en Onze Minister voor Rechtsbescherming kunnen nadere regels worden gesteld met betrekking tot het verslag.
 
-##### Artikel 4.2.11
+#### Artikel 4.2.11
 
 1. Veilig Thuis maakt binnen tien dagen na vaststelling van het verslag, bedoeld in [artikel 4.2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.10&z=2026-01-01&g=2026-01-01), doch uiterlijk voor 1 juni, of 15 juli, indien het verslag betrekking heeft op een Veilig Thuis-organisatie die valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), van het jaar volgend op het jaar waarop het verslag ziet, de volgende zaken openbaar:
 
@@ -908,7 +880,7 @@ De [artikelen 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4
 
 5. Veilig Thuis zendt het verslag voor 1 juni of 15 juli, indien het verslag betrekking heeft op een Veilig Thuis-organisatie die valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), van het jaar van vaststelling aan Onze Minister en Onze Minister voor Rechtsbescherming en aan de ingevolge [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01) met het toezicht belaste ambtenaar, alsmede aan organisaties die in de regio die in algemene zin de belangen behartigen van personen ten behoeve van wie hij zijn taken uitvoert.
 
-##### Artikel 4.2.12
+#### Artikel 4.2.12
 
 1. Veilig Thuis verstrekt kosteloos gegevens aan het college, aan Onze Minister en aan Onze Minister voor Rechtsbescherming, ten behoeve van de verwerking van gegevens voor beleidsinformatie. Deze verstrekking kan zowel een structureel als incidenteel karakter hebben.
 
@@ -924,17 +896,17 @@ De [artikelen 4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4
 
 5. Bij of krachtens de in het vierde lid bedoelde maatregel kan worden bepaald dat Veilig Thuis de in het eerste lid bedoelde gegevens op een bij of krachtens die maatregel aangewezen wijze bij Onze Minister en Onze Minister voor Rechtsbescherming of een door hen aan te wijzen instantie indient.
 
-##### Artikel 4.2.13
+#### Artikel 4.2.13
 
 Veilig Thuis stelt overeenkomstig door Onze Minister en Onze Minister voor Rechtsbescherming te stellen regels de begroting, de balans en de resultatenrekening, alsmede de daarbij behorende toelichting vast en maakt deze op door Onze Minister en Onze Minister voor Rechtsbescherming te bepalen wijze openbaar.
 
-##### Artikel 4.2.14
+#### Artikel 4.2.14
 
 Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming de bij regeling van Onze Minister en Onze Minister voor Rechtsbescherming omschreven gegevens betreffende de exploitatie van Veilig Thuis. In de regeling kan worden bepaald dat de gegevens worden verstrekt aan een daarin aangewezen bestuursorgaan.
 
 #### § 3. Toezicht en handhaving
 
-##### Artikel 4.3.1
+#### Artikel 4.3.1
 
 1. Met het toezicht op de naleving van de bij of krachtens deze wet met betrekking tot Veilig Thuis gestelde regels zijn belast de door Onze Minister en Onze Minister voor Rechtsbescherming aangewezen ambtenaren.
 
@@ -942,7 +914,7 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 3. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de met het toezicht belaste ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
 
-##### Artikel 4.3.2
+#### Artikel 4.3.2
 
 1. Indien Onze Minister of Onze Minister voor Rechtsbescherming van oordeel is dat een Veilig Thuis-organisatie deze wet of de daarop berustende bepalingen niet of in onvoldoende mate of op onjuiste wijze naleeft, kan hij die Veilig Thuis-organisatie een schriftelijke aanwijzing geven.
 
@@ -956,13 +928,13 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 6. Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een ingevolge [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01) met het toezicht belaste ambtenaar.
 
-##### Artikel 4.3.3
+#### Artikel 4.3.3
 
 1. Onze Minister en Onze Minister voor Rechtsbescherming zijn beiden bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de [artikelen 4.2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.13&z=2026-01-01&g=2026-01-01) en [4.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.14&z=2026-01-01&g=2026-01-01) en van een krachtens [artikel 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.2&z=2026-01-01&g=2026-01-01) gegeven aanwijzing of bevel.
 
 2. Onze Minister en Onze Minister voor Rechtsbescherming zijn beiden bevoegd tot oplegging van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens [artikel 4.2.7, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.7&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 4.3.4
+#### Artikel 4.3.4
 
 1. Onze Minister en Onze Minister voor Rechtsbescherming zijn beiden bevoegd een bestuurlijke boete van ten hoogste € 6.700,– op te leggen ter zake van een gedraging van een Veilig Thuis-organisatie die in strijd is met een krachtens [artikelen 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.2&z=2026-01-01&g=2026-01-01)gegeven aanwijzing, voor zover deze betreft het niet of onvoldoende naleven van [artikel 4.2.10, tweede lid, onderdelen d tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=2&artikel=4.2.10&z=2026-01-01&g=2026-01-01).
 
@@ -978,7 +950,7 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 #### § 1. Verwerking van persoonsgegevens
 
-##### Artikel 5.1.1
+#### Artikel 5.1.1
 
 1. Het college is bevoegd tot het verwerken van persoonsgegevens van de cliënt, waaronder gegevens over gezondheid die noodzakelijk zijn voor de beoordeling van diens behoefte aan ondersteuning van zijn participatie of zelfredzaamheid dan wel opvang of beschermd wonen, alsmede persoonsgegevens van diens echtgenoot, ouders, inwonende kinderen en andere huisgenoten die noodzakelijk zijn om vast te stellen welke hulp deze aan de cliënt bieden of kunnen bieden, voor zover deze zijn verkregen in het kader van het onderzoek, bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), dan wel op grond van [artikel 2.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.8&z=2026-01-01&g=2026-01-01), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.2&z=2026-01-01&g=2026-01-01), [5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.3&z=2026-01-01&g=2026-01-01), [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.4&z=2026-01-01&g=2026-01-01) of [5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.5&z=2026-01-01&g=2026-01-01), en noodzakelijk zijn voor de uitvoering van [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01), [2.1.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), [2.1.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2026-01-01&g=2026-01-01), [2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01), [2.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.9&z=2026-01-01&g=2026-01-01), [2.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.10&z=2026-01-01&g=2026-01-01), [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=4&artikel=2.4.1&z=2026-01-01&g=2026-01-01) of [2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=4&artikel=2.4.3&z=2026-01-01&g=2026-01-01).
 
@@ -1002,7 +974,7 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 9. Indien het Inlichtingenbureau op grond van het achtste lid persoonsgegevens verwerkt, is het voor deze verwerking, in afwijking van het zevende lid, verwerkingsverantwoordelijke.
 
-##### Artikel 5.1.2
+#### Artikel 5.1.2
 
 1. Een aanbieder die een maatwerkvoorziening levert en een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, is bevoegd tot het verwerken van persoonsgegevens van de cliënt, waaronder gegevens over gezondheid, alsmede persoonsgegevens van de mantelzorger van de cliënt met betrekking tot de hulp die deze aan de cliënt biedt of kan bieden, voor zover deze zijn verkregen van het college, van de cliënt of van de mantelzorger en noodzakelijk zijn voor:
 
@@ -1022,7 +994,7 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 3. De aanbieder respectievelijk de bedoelde derde is de verwerkingsverantwoordelijke voor de verwerking, bedoeld in het eerste en tweede lid.
 
-##### Artikel 5.1.3
+#### Artikel 5.1.3
 
 1. Het CAK en een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), zijn bevoegd tot het verwerken van persoonsgegevens van de cliënt, zijn echtgenoot, inwonende minderjarige kinderen en zijn ouders, waaronder gegevens over gezondheid die noodzakelijk zijn voor de vaststelling en inning van een bijdrage als bedoeld in artikel 2.1.4b, eerste lid, of [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01), voor zover deze op grond van [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2026-01-01&g=2026-01-01), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.2&z=2026-01-01&g=2026-01-01) of [5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.3&z=2026-01-01&g=2026-01-01) zijn verkregen en noodzakelijk zijn voor de uitvoering van [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01)[2.1.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), 2.1.4b of 2.1.5.
 
@@ -1032,19 +1004,19 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 4. Het CAK respectievelijk de andere instantie is de verwerkingsverantwoordelijke voor de verwerking, bedoeld in het eerste lid en het CAK is de verwerkingsverantwoordelijke voor de verwerking, bedoeld in het tweede en derde lid.
 
-##### Artikel 5.1.4
+#### Artikel 5.1.4
 
 1. De Sociale verzekeringsbank is bevoegd tot het verwerken van persoonsgegevens van de cliënt, waaronder gegevens over gezondheid die noodzakelijk zijn voor het verrichten van betalingen en het budgetbeheer, bedoeld in [artikel 2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=6&artikel=2.6.2&z=2026-01-01&g=2026-01-01), voor zover deze zijn verkregen van de cliënt dan wel op grond van [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2026-01-01&g=2026-01-01), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.2&z=2026-01-01&g=2026-01-01) of [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.4&z=2026-01-01&g=2026-01-01) en noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=6&artikel=2.6.2&z=2026-01-01&g=2026-01-01).
 
 2. De Sociale verzekeringsbank is de verwerkingsverantwoordelijke voor de verwerking, bedoeld in het eerste lid.
 
-##### Artikel 5.1.5
+#### Artikel 5.1.5
 
 1. De toezichthoudende ambtenaren zijn bevoegd tot het verwerken van persoonsgegevens, waaronder gegevens over gezondheid van de cliënt, alsmede persoonsgegevens, waaronder bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard betreffende personen die betrokken bij calamiteiten, geweld bij de verstrekking van een voorziening, huiselijk geweld of kindermishandeling, voor zover deze zijn verkregen bij de uitoefening van het toezicht, bedoeld in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=3&artikel=4.3.1&z=2026-01-01&g=2026-01-01), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=6&artikel=6.1&z=2026-01-01&g=2026-01-01) of [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=6&artikel=6.2&z=2026-01-01&g=2026-01-01), en noodzakelijk zijn voor een goede uitoefening van het toezicht of het nemen van maatregelen ter handhaving van wettelijke voorschriften.
 
 2. De toezichthoudende ambtenaren zijn de verantwoordelijken voor de verwerking, bedoeld in het eerste lid. De aanbieder en de beroepskrachten die voor hem werkzaam zijn, verstrekken bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de toezichthoudende ambtenaar de gegevens, daaronder begrepen persoonsgegevens, gegevens over gezondheid en andere bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard, voor zover deze voor het onderzoeken van de melding noodzakelijk zijn.
 
-##### Artikel 5.1.6
+#### Artikel 5.1.6
 
 1. Veilig Thuis is bevoegd tot het verwerken van persoonsgegevens ten behoeve van de goede vervulling van de taken, bedoeld in [4.1.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01). Veilig Thuis is de verwerkingsverantwoordelijke voor deze verwerking.
 
@@ -1054,7 +1026,7 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 #### § 3. Toezicht en handhaving
 
-##### Artikel 5.2.1
+#### Artikel 5.2.1
 
 1. Het college is bevoegd aan de in het tweede lid genoemde derden persoonsgegevens, waaronder gegevens over gezondheid, te verstrekken, die het college heeft verkregen:
 
@@ -1074,7 +1046,7 @@ Veilig Thuis verstrekt aan Onze Minister en Onze Minister voor Rechtsbescherming
 
 - d. toezichthoudende ambtenaren, voor zover deze noodzakelijk zijn voor een goede uitoefening van het toezicht of het nemen van maatregelen ter handhaving van wettelijke voorschriften.
 
-##### Artikel 5.2.2
+#### Artikel 5.2.2
 
 De aanbieder die een maatwerkvoorziening levert en een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, zijn bevoegd uit eigen beweging en desgevraagd verplicht kosteloos persoonsgegevens van de cliënt, waaronder bijzondere persoonsgegevens, te verstrekken, aan;
 
@@ -1086,11 +1058,11 @@ De aanbieder die een maatwerkvoorziening levert en een derde aan wie ten laste v
 
 - d. toezichthoudende ambtenaren, voor zover deze noodzakelijk zijn voor een goede uitoefening van het toezicht of het nemen van maatregelen ter handhaving van wettelijke voorschriften.
 
-##### Artikel 5.2.3
+#### Artikel 5.2.3
 
 De rijksbelastingdienst is bevoegd uit eigen beweging en desgevraagd verplicht aan het college, het CAK en een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), persoonsgegevens te verstrekken, voor zover deze noodzakelijk zijn voor de uitvoering van de artikelen 2.1.4b, [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01) of [2.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=5&artikel=2.5.4&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 5.2.4
+#### Artikel 5.2.4
 
 1. Het CAK en een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), zijn bevoegd uit eigen beweging en desgevraagd verplicht persoonsgegevens, waaronder gegevens over gezondheid, die zijn verkregen ten behoeve van de uitvoering van de [artikelen 2.1.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01) of [2.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=5&artikel=2.5.4&z=2026-01-01&g=2026-01-01), te verstrekken aan het college, voor zover deze noodzakelijk zijn voor de uitvoering van de artikelen 2.1.4b, 2.1.5 of 2.5.4 door het college.
 
@@ -1098,7 +1070,7 @@ De rijksbelastingdienst is bevoegd uit eigen beweging en desgevraagd verplicht a
 
 3. Toezichthoudende ambtenaren zijn bevoegd uit eigen beweging en desgevraagd verplicht persoonsgegevens, waaronder gegevens over gezondheid, die zijn verkregen ten behoeve van de uitoefening van het toezicht, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=6&artikel=6.1&z=2026-01-01&g=2026-01-01), te verstrekken aan het college, voor zover deze noodzakelijk zijn voor de uitvoering van [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01), [2.1.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), [2.1.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), [2.1.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), [2.1.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01), [2.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.9&z=2026-01-01&g=2026-01-01), [2.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.10&z=2026-01-01&g=2026-01-01) of [2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=4&artikel=2.4.3&z=2026-01-01&g=2026-01-01) door het college.
 
-##### Artikel 5.2.5
+#### Artikel 5.2.5
 
 1. Een zorgverzekeraar en een zorgaanbieder als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) zijn, voor zover betrokkene daarvoor zijn uitdrukkelijke toestemming heeft verleend, bevoegd uit eigen beweging en desgevraagd verplicht aan het college kosteloos persoonsgegevens, waaronder gegevens over gezondheid, te verstrekken van een verzekerde ingevolge die wet, die zorg als omschreven in die wet ontvangt of heeft ontvangen en in aanvulling of in aansluiting daarop aangewezen is of kan zijn op een maatwerkvoorziening, voor zover deze noodzakelijk zijn voor de uitvoering van [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2026-01-01&g=2026-01-01), [2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01), [2.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.9&z=2026-01-01&g=2026-01-01), [2.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.10&z=2026-01-01&g=2026-01-01).
 
@@ -1106,21 +1078,21 @@ De rijksbelastingdienst is bevoegd uit eigen beweging en desgevraagd verplicht a
 
 3. Het CIZ is bevoegd uit eigen beweging en desgevraagd verplicht aan het college mede te delen dat een indicatiebesluit is afgegeven waarin is vastgesteld dat een persoon is aangewezen op zorg op grond van de Wet langdurige zorg, voor zover dit noodzakelijk is voor de uitvoering van [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2026-01-01&g=2026-01-01), [2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01) of [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2026-01-01&g=2026-01-01), [2.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.9&z=2026-01-01&g=2026-01-01), of [2.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.10&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 5.2.6
+#### Artikel 5.2.6
 
 Derden die beroepshalve beschikken over inlichtingen die noodzakelijk kunnen worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken, kunnen aan Veilig Thuis deze inlichtingen desgevraagd of uit eigen beweging verstrekken zonder toestemming van degene die het betreft en indien nodig met doorbreking van de plicht tot geheimhouding op grond van een wettelijk voorschrift of op grond van hun ambt of beroep.
 
-##### Artikel 5.2.7
+#### Artikel 5.2.7
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald op welke wijze persoonsgegevens worden verwerkt, de technische standaarden voor verwerking daaronder begrepen.
 
 2. Bij of krachtens algemene maatregel van bestuur kan, op voordracht van Onze Minister, mede namens Onze Minister voor Rechtsbescherming, worden bepaald aan welke beveiligingseisen de in dit hoofdstuk bedoelde verwerking van persoonsgegevens voldoet.
 
-##### Artikel 5.2.8
+#### Artikel 5.2.8
 
 De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage waarmee zijn identiteit kan worden vastgesteld.
 
-##### Artikel 5.2.9
+#### Artikel 5.2.9
 
 1. Het college, het Inlichtingenbureau, een aanbieder en een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, het CAK, een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), de Sociale verzekeringsbank, de toezichthoudende ambtenaren en een zorgverzekeraar of een zorgaanbieder als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) gebruiken het burgerservicenummer van een persoon bij het verstrekken van persoonsgegevens als bedoeld in de [artikelen 5.2.1 tot en met 5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2026-01-01&g=2026-01-01) met het doel te waarborgen dat de in het kader van de uitvoering van deze wet te verwerken persoonsgegevens op die persoon betrekking hebben.
 
@@ -1156,7 +1128,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 #### § 3. Rechten van de betrokkene
 
-##### Artikel 5.3.1
+#### Artikel 5.3.1
 
 1. Indien aan Veilig Thuis bij de uitoefening van de taken, bedoeld in [artikel 4.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01), persoonsgegevens worden verstrekt door een ander dan betrokkene, brengt Veilig Thuis betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.
 
@@ -1166,7 +1138,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 4. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of kindermishandeling of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.
 
-##### Artikel 5.3.2
+#### Artikel 5.3.2
 
 1. Het college, het Inlichtingenbureau, een aanbieder, een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, het CAK en een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), de Sociale verzekeringsbank, toezichthoudende ambtenaren en Veilig Thuis verstrekken aan een betrokkene desgevraagd zo spoedig mogelijk inzage in en afschrift van de bescheiden waarover zij met betrekking tot die betrokkene beschikken.
 
@@ -1182,7 +1154,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 5. De persoon van wie de gegevens zijn opgeslagen, heeft het recht te verzoeken de gegevens te laten corrigeren.
 
-##### Artikel 5.3.3
+#### Artikel 5.3.3
 
 1. Onverminderd het bij of krachtens de wet bepaalde, verstrekken het college, het Inlichtingenbureau, een aanbieder, een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, het CAK en een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), de Sociale verzekeringsbank, toezichthoudende ambtenaren en Veilig Thuis aan anderen dan de betrokkene geen inlichtingen over betrokkene, dan wel inzage in of afschrift van de bescheiden dan met toestemming van betrokkene.
 
@@ -1196,7 +1168,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 4. Bij regeling van Onze Minister, voor zover nodig in overeenstemming met Onze Minister voor Rechtsbescherming, kunnen regels worden gesteld over de wijze waarop een Veilig Thuis-organisatie gegevens verwerkt en over de uitwisseling van gegevens tussen een Veilig Thuis-organisatie en andere Veilig Thuis-organisaties en met de raad voor de kinderbescherming, jeugdhulpaanbieders en gecertificeerde instellingen als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-##### Artikel 5.3.4
+#### Artikel 5.3.4
 
 1. Onverminderd [artikel 5.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=3&artikel=5.3.5&z=2026-01-01&g=2026-01-01) bewaren het college, het Inlichtingenbureau, een aanbieder, een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, een instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), en toezichthoudende ambtenaren de persoonsgegevens die zij op grond van deze wet met betrekking tot een betrokkene onder zich hebben, gedurende vijftien jaren, te rekenen vanaf het tijdstip waarop de laatste wijziging van die persoonsgegevens is vastgelegd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van hun taken op grond van deze wet noodzakelijk is.
 
@@ -1204,7 +1176,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 3. Onverminderd [artikel 5.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=3&artikel=5.3.5&z=2026-01-01&g=2026-01-01) bewaren het CAK en de Sociale verzekeringsbank de persoonsgegevens die zij op grond van deze wet met betrekking tot een betrokkene onder zich hebben, gedurende zeven jaren, te rekenen vanaf het tijdstip waarop de laatste wijziging van die persoonsgegevens is vastgelegd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van hun taken op grond van deze wet noodzakelijk is.
 
-##### Artikel 5.3.5
+#### Artikel 5.3.5
 
 1. Het college, het Inlichtingenbureau, een aanbieder, een derde aan wie ten laste van een persoonsgebonden budget betalingen worden gedaan, het CAK en een andere instantie als bedoeld in [artikel 2.1.4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4b&z=2026-01-01&g=2026-01-01), de Sociale verzekeringsbank, toezichthoudende ambtenaren en Veilig Thuis vernietigen de persoonsgegevens die zij op grond van deze wet met betrekking tot een betrokkene onder zich hebben, binnen drie maanden na een daartoe strekkend schriftelijk verzoek van degene op wie de persoonsgegevens betrekking hebben.
 
@@ -1218,7 +1190,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 4. In de gevallen, bedoeld in het derde lid, kan het verzoek door een wettelijke vertegenwoordiger worden gedaan.
 
-##### Artikel 5.3.6
+#### Artikel 5.3.6
 
 1. In afwijking van [artikel 5.3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=3&artikel=5.3.3&z=2026-01-01&g=2026-01-01), kunnen zonder toestemming van de betrokkene ten behoeve van statistiek of wetenschappelijk onderzoek op het gebied van de volksgezondheid, opgroei- en opvoedingsproblemen, psychische problemen en stoornissen, kinderbescherming of jeugdreclassering aan een ander desgevraagd inlichtingen over de betrokkene of inzage in het dossier worden verstrekt indien:
 
@@ -1238,7 +1210,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 #### § 4. Gegevens ten behoeve van integrale dienstverlening
 
-##### Artikel 5.4.1
+#### Artikel 5.4.1
 
 1. Het college stemt de wijze waarop het de taken op grond van deze wet uitvoert af met zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), met het oog op de wettelijke taken van die laatsten.
 
@@ -1254,7 +1226,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 ### Hoofdstuk 6. Toezicht en handhaving
 
-##### Artikel 6.1
+#### Artikel 6.1
 
 1. Het college wijst personen aan die belast zijn met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
@@ -1262,7 +1234,7 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 3. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de toezichthoudende ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar, onverminderd [artikel 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=5&paragraaf=2&artikel=5.2.4&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 6.2
+#### Artikel 6.2
 
 1. De ambtenaren van de Inspectie gezondheidszorg en jeugd dienen de toezichthoudende ambtenaren, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=6&artikel=6.1&z=2026-01-01&g=2026-01-01), desgevraagd van advies inzake het houden van toezicht en inzake de handhaving van de bij of krachtens deze wet gestelde regels.
 
@@ -1270,155 +1242,155 @@ De cliënt verstrekt de aanbieder die een maatwerkvoorziening levert, een docume
 
 ### Hoofdstuk 7. Wijziging andere wetten
 
-##### Artikel 7.1
+#### Artikel 7.1
 
 Wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 
-##### Artikel 7.2
+#### Artikel 7.2
 
 Op procedures inzake de naleving van de [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920), aangevangen voor inwerkingtreding van [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=7&artikel=7.1&z=2026-01-01&g=2026-01-01), blijft die wet van toepassing.
 
-##### Artikel 7.3
+#### Artikel 7.3
 
 Wijzigt de Wet klachtrecht cliënten zorgsector.
 
-##### Artikel 7.4
+#### Artikel 7.4
 
 1. Op klachten, voor inwerkingtreding van [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=7&artikel=7.3&z=2026-01-01&g=2026-01-01) ingediend bij een klachtencommissie als bedoeld in [artikel 2 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414), blijft die wet van toepassing.
 
 2. De [artikelen 3 tot en met 3b van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=3) blijven van toepassing op gedragingen van een zorgaanbieder die hebben plaatsgevonden voor inwerkingtreding van [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=7&artikel=7.3&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 7.5
+#### Artikel 7.5
 
 Wijzigt de Kwaliteitswet zorginstellingen.
 
-##### Artikel 7.6
+#### Artikel 7.6
 
 De [artikelen 8 tot en met 10 van de Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850&artikel=8) blijven van toepassing op gedragingen van een zorgaanbieder die hebben plaatsgevonden voor inwerkingtreding van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=7&artikel=7.5&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 7.7
+#### Artikel 7.7
 
 Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
-##### Artikel 7.8
+#### Artikel 7.8
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-##### Artikel 7.9
+#### Artikel 7.9
 
 Wijzigt de Penitentiaire beginselenwet.
 
-##### Artikel 7.10
+#### Artikel 7.10
 
 Wijzigt de Wet Centraal Orgaan opvang asielzoekers.
 
-##### Artikel 7.11
+#### Artikel 7.11
 
 Wijzigt de Leerplichtwet 1969.
 
-##### Artikel 7.12
+#### Artikel 7.12
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-##### Artikel 7.13
+#### Artikel 7.13
 
 Wijzigt de Wet op de expertisecentra.
 
-##### Artikel 7.14
+#### Artikel 7.14
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-##### Artikel 7.15
+#### Artikel 7.15
 
 Wijzigt de Wet op het primair onderwijs.
 
-##### Artikel 7.16
+#### Artikel 7.16
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-##### Artikel 7.17
+#### Artikel 7.17
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
-##### Artikel 7.18
+#### Artikel 7.18
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
-##### Artikel 7.19
+#### Artikel 7.19
 
 Wijzigt de Jeugdwet.
 
-##### Artikel 7.20
+#### Artikel 7.20
 
 Wijzigt de Wijzigingswet Zorgverzekeringswet en Algemene Wet Bijzondere Ziektekosten (bijdragen bij inkomstenderving ten gevolge van verlenen medisch noodzakelijke zorg aan bepaalde groepen vreemdelingen, en verzekering bepaalde groepen minderjarige vreemdelingen).
 
-##### Artikel 7.21
+#### Artikel 7.21
 
 Wijzigt de Wet forensische zorg (Kst. 32 398).
 
-##### Artikel 7.22
+#### Artikel 7.22
 
 Wijzigt de Algemene wet bestuursrecht.
 
-##### Artikel 7.23
+#### Artikel 7.23
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-##### Artikel 7.24
+#### Artikel 7.24
 
 Wijzigt de Gemeentewet.
 
-##### Artikel 7.25
+#### Artikel 7.25
 
 Wijzigt de Werkloosheidswet.
 
-##### Artikel 7.26
+#### Artikel 7.26
 
 Wijzigt de Wet basisregistratie personen.
 
-##### Artikel 7.27
+#### Artikel 7.27
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-##### Artikel 7.28
+#### Artikel 7.28
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-##### Artikel 7.29
+#### Artikel 7.29
 
 Wijzigt de Participatiewet.
 
-##### Artikel 7.30
+#### Artikel 7.30
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-##### Artikel 7.31
+#### Artikel 7.31
 
 Wijzigt de Woningwet.
 
-##### Artikel 7.33
+#### Artikel 7.33
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
 
-##### Artikel 7.34
+#### Artikel 7.34
 
 Wijzigt de Wet kwaliteit, klachten en geschillen.
 
-##### Artikel 7.35
+#### Artikel 7.35
 
 Wijzigt de Wet verplichte geestelijke gezondheidszorg (Kst. 32 399.
 
-##### Artikel 7.36
+#### Artikel 7.36
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-##### Artikel 7.37
+#### Artikel 7.37
 
 Wijzigt de Zorgverzekeringswet.
 
 ### Hoofdstuk 8. Invoerings- en slotbepalingen
 
-##### Artikel 8.1
+#### Artikel 8.1
 
 1. De aanspraken op zorg, bedoeld in [artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6) omvatten met ingang van de eerste dag van het kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden, niet:
 
@@ -1436,7 +1408,7 @@ Wijzigt de Zorgverzekeringswet.
 
 2. Onverminderd het eerste lid besluit het indicatieorgaan, bedoeld in [artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9b) zo spoedig mogelijk op aanvragen met betrekking tot zorg als bedoeld in het eerste lid, onderdelen a tot en met e, die zijn ingediend voor het in het eerste lid bedoelde tijdstip.
 
-##### Artikel 8.2
+#### Artikel 8.2
 
 Met betrekking tot een verzekerde in de zin van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) aan wie een indicatiebesluit is afgegeven waarin is vastgesteld dat hij is aangewezen op zorg als bedoeld in [artikel 8.1, eerste lid, onderdelen a, b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.1&z=2026-01-01&g=2026-01-01), verstrekken het indicatieorgaan, bedoeld in [artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9b), en de zorgverzekeraar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1), onderscheidenlijk de rechtspersoon, bedoeld in [artikel 40 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), zo spoedig mogelijk aan het college van de gemeente waarvan betrokkene ingezetene is, gegevens omtrent de inhoud van:
 
@@ -1446,7 +1418,7 @@ Met betrekking tot een verzekerde in de zin van de [Algemene Wet Bijzondere Ziek
 
 - c. de aard, inhoud en omvang van de zorg die betrokkene ontvangt en de zorgaanbieder van wie hij de zorg ontvangt dan wel, indien aan betrokkene subsidie wordt verstrekt als bedoeld in [artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44), en gegevens omtrent het bedrag van de subsidie en degene die hem de zorg verleent.
 
-##### Artikel 8.3
+#### Artikel 8.3
 
 1. Indien voor een verzekerde in de zin van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) een indicatiebesluit is afgegeven waarin is vastgesteld dat hij is aangewezen op zorg als bedoeld in [artikel 8.1, eerste lid, onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.1&z=2026-01-01&g=2026-01-01), heeft belanghebbende met ingang van de eerste dag van het kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden, jegens het college van de gemeente waarvan hij ingezetene is, de rechten en verplichtingen met betrekking tot het tot gelding brengen van de aanspraak op zorg die aan het indicatiebesluit waren verbonden, gedurende de looptijd van het indicatiebesluit, doch ten hoogste tot de eerste dag van het tweede kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden.
 
@@ -1472,13 +1444,13 @@ Met betrekking tot een verzekerde in de zin van de [Algemene Wet Bijzondere Ziek
 
 9. De vergoedingen en uitkeringen, bedoeld in het zevende en achtste lid, komen ten laste van het Fonds langdurige zorg, bedoeld in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89).
 
-##### Artikel 8.4
+#### Artikel 8.4
 
 1. Indien voor een verzekerde in de zin van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) een indicatiebesluit is afgegeven waarin is vastgesteld dat hij is aangewezen op zorg als bedoeld in [artikel 8.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.1&z=2026-01-01&g=2026-01-01), heeft belanghebbende met ingang van de eerste dag van het kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden, jegens het college van de gemeente waarvan hij ingezetene is, de rechten en verplichtingen met betrekking tot het tot gelding brengen van de aanspraak op zorg die aan het indicatiebesluit waren verbonden, gedurende de looptijd van het indicatiebesluit, doch ten hoogste tot een bij koninklijk besluit vast te stellen tijdstip dat niet eerder is gelegen dan de eerste dag van het zesde kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden.
 
 2. [Artikel 8.3, tweede, derde en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.3&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 8.5
+#### Artikel 8.5
 
 De [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is niet van toepassing op handelingen op het gebied van de individuele gezondheidszorg als bedoeld in [artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), die deel uitmaken van zorg die:
 
@@ -1486,13 +1458,13 @@ De [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - b. door derden wordt geleverd aan een belanghebbende, aan wie op grond van [artikel 8.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.3&z=2026-01-01&g=2026-01-01), een persoongebonden budget wordt verstrekt.
 
-##### Artikel 8.6
+#### Artikel 8.6
 
 1. Nadat het indicatieorgaan, bedoeld in [artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9b), en de zorgverzekeraar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1), onderscheidenlijk de rechtspersoon, bedoeld in [artikel 40 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), de in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.2&z=2026-01-01&g=2026-01-01) genoemde gegevens hebben verstrekt aan het college van de gemeente waarvan betrokkene ingezetene is, voert het college, met overeenkomstige toepassing van [artikel 2.3.2, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), zonder melding als bedoeld in [artikel 2.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat betrokkene tijdig voor het tijdstip waarop hij niet langer op grond van [artikel 8.3, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.3&z=2026-01-01&g=2026-01-01), of [artikel 8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.4&z=2026-01-01&g=2026-01-01), aanspraak zal hebben op de in die gegevens omschreven zorg onderscheidenlijk de in die gegevens omschreven subsidie, een aanvraag kan doen voor een maatwerkvoorziening als bedoeld in [artikel 2.3.5. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01).
 
 2. Nadat de zorgverzekeraar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1), onderscheidenlijk de rechtspersoon, bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), de in [artikel 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.2&z=2026-01-01&g=2026-01-01), bedoelde gegevens heeft verstrekt aan het college van de gemeente waarvan betrokkene ingezetene is, voert het college, met overeenkomstige toepassing van [artikel 2.3.2, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), zonder melding als bedoeld in artikel 2.3.2, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat betrokkene tijdig voor het tijdstip waarop hij niet langer op grond van [artikel 8.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=8&artikel=8.3&z=2026-01-01&g=2026-01-01), aanspraak zal hebben op de in die gegevens omschreven zorg, een aanvraag kan doen voor een maatwerkvoorziening als bedoeld in [artikel 2.3.5. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 8.7
+#### Artikel 8.7
 
 1. De gemeenteraad stelt het beleidsplan, bedoeld in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01), en de verordening, bedoeld in [de artikelen 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2026-01-01&g=2026-01-01), [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01), [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01), [2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.6&z=2026-01-01&g=2026-01-01)en [2.6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=6&artikel=2.6.6&z=2026-01-01&g=2026-01-01), vast voor 1 november van het kalenderjaar waarin enig artikel van deze wet in werking is getreden.
 
@@ -1504,13 +1476,13 @@ De [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. Het college wijst voor de eerste dag van het kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden, personen aan die belast zijn met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
-##### Artikel 8.8
+#### Artikel 8.8
 
 1. In afwijking van [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=3&artikel=3.5&z=2026-01-01&g=2026-01-01), is de aanbieder voor beroepskrachten als in dat lid bedoeld die op het tijdstip van inwerkingtreden van dat lid voor hem werkzaam zijn en ten aanzien van wie een verklaring omtrent het gedrag is vereist, uiterlijk binnen een bij algemene maatregel van bestuur vast te stellen termijn na dat tijdstip in het bezit van een verklaring omtrent het gedrag die niet eerder dan drie maanden voor het verstrijken van de vastgestelde termijn is afgegeven. De termijn kan voor verschillende groepen beroepskrachten verschillend worden vastgesteld.
 
 2. [Artikel 3.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=3&artikel=3.5&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op een aanbieder als bedoeld in het eerste lid.
 
-##### Artikel 8.9
+#### Artikel 8.9
 
 1. De [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) wordt ingetrokken, onverminderd de rechten en verplichtingen die onmiddellijk voor het tijdstip waarop [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01) in werking is getreden, voor betrokkene zijn verbonden aan een met toepassing van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) door het college genomen besluit waarbij aanspraak is verstrekt op een individuele voorziening in natura of het ontvangen van een persoonsgebonden budget dan wel een financiële tegemoetkoming.
 
@@ -1522,11 +1494,11 @@ De [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=11) en [12 van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=12) zijn van overeenkomstige toepassing op de voorbereiding van de vaststelling van het beleidsplan, bedoeld in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01), en de verordening, bedoeld in [artikel 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 8.10
+#### Artikel 8.10
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-##### Artikel 8.11
+#### Artikel 8.11
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -1534,13 +1506,13 @@ Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de 
 
 3. Wijzigt deze wet en de Algemene wet bestuursrecht.
 
-##### Artikel 8.12
+#### Artikel 8.12
 
 Deze wet wordt aangehaald als: Wet maatschappelijke ondersteuning 2015.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 8.6a
+#### Artikel 8.6a
 
 [Artikel 2.3.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2026-01-01&g=2026-01-01), geldt tot een bij koninklijk besluit vast te stellen tijdstip niet voor daar bedoelde cliënten:
 
@@ -1552,7 +1524,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 2.6.7a
+#### Artikel 2.6.7a
 
 1. In het belang van de beperking van uitvoeringslasten stelt Onze Minister regels. Deze regels kunnen slechts betrekking hebben op:
 
@@ -1598,7 +1570,7 @@ belast met het beheer van standaarden die worden gebruikt in het elektronisch ge
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 2.1.4a
+#### Artikel 2.1.4a
 
 1. Bij verordening kan worden bepaald dat een cliënt een bijdrage in de kosten verschuldigd is voor een maatwerkvoorziening, dan wel een persoonsgebonden budget.
 
@@ -1622,7 +1594,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. de wijze waarop het inkomen en het vermogen bij de vaststelling van de hoogte van de bijdrage worden betrokken.
 
-##### Artikel 2.1.4b
+#### Artikel 2.1.4b
 
 1. De bijdragen als bedoeld in [artikel 2.1.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01), en [2.1.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), worden, met uitzondering van de krachtens het vierde lid van het laatstgenoemde artikel omschreven maatwerkvoorzieningen, vastgesteld en voor de gemeente geïnd door het CAK.
 
@@ -1646,7 +1618,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 5. Evaluatie van beleid
 
-##### Artikel 2.5.4
+#### Artikel 2.5.4
 
 1. Het CAK verstrekt desgevraagd kosteloos aan Onze Minister de gegevens die hij nodig heeft om de effecten van [artikel 2.1.4 tot en met 2.1.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01) in de praktijk te kunnen beoordelen.
 
@@ -1662,7 +1634,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1. Voorzieningen maatschappelijke ondersteuning van de centrale overheid
 
-##### Artikel 3a.1.1
+#### Artikel 3a.1.1
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen heeft tot taak personen met een auditieve beperking door middel van het bekostigen van tolkvoorzieningen te ondersteunen bij het deelnemen aan het maatschappelijke verkeer, mits deze personen ingezetenen van Nederland zijn of vreemdelingen behorende tot een categorie die daaraan bij algemene maatregel van bestuur is gelijkgesteld.
 
@@ -1692,7 +1664,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Bij ministeriële regeling kunnen regels worden gesteld over de vergoeding van de tolk.
 
-##### Artikel 3a.1.2
+#### Artikel 3a.1.2
 
 Onze Minister draagt er zorg voor dat:
 
@@ -1702,7 +1674,7 @@ Onze Minister draagt er zorg voor dat:
 
 #### § 2. Toezicht en handhaving
 
-##### Artikel 3a.2.1
+#### Artikel 3a.2.1
 
 1. Met het toezicht op de naleving van de bij of krachtens deze wet met betrekking tot de in [artikel 3a.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=3a&paragraaf=1&artikel=3a.1.1&z=2026-01-01&g=2026-01-01) gestelde regels zijn belast de door Onze Minister aangewezen ambtenaren.
 
@@ -1712,13 +1684,13 @@ Onze Minister draagt er zorg voor dat:
 
 4. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-##### Artikel 3a.2.2
+#### Artikel 3a.2.2
 
 De Raad van bestuur van het UWV is bevoegd tot het opleggen van een last onder bestuursdwang of een last onder dwangsom ter handhaving van de voorschriften of verplichtingen gesteld krachtens [artikel 3a.1.1, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=3a&paragraaf=1&artikel=3a.1.1&z=2026-01-01&g=2026-01-01).
 
 #### § 3. Bekostiging voorzieningen
 
-##### Artikel 3a.3.1
+#### Artikel 3a.3.1
 
 1. De kosten die worden gemaakt voor het bekostigen van tolkvoorzieningen, bedoeld in [artikel 3a.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=3a&paragraaf=1&artikel=3a.1.1&z=2026-01-01&g=2026-01-01), komen ten laste van het Rijk.
 
@@ -1748,7 +1720,7 @@ De Raad van bestuur van het UWV is bevoegd tot het opleggen van een last onder b
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 3.4a
+#### Artikel 3.4a
 
 1. In dit artikel wordt verstaan onder:
 
@@ -1782,7 +1754,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 2. Kwaliteit en rechtspositie
 
-##### Artikel 4.2.5a
+#### Artikel 4.2.5a
 
 1. In dit artikel wordt verstaan onder:
 
@@ -1822,7 +1794,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 5.2.5a
+#### Artikel 5.2.5a
 
 1. Verstrekking van persoonsgegevens door of aan het college geschiedt, voor zover het bij of krachtens algemene maatregel van bestuur aangewezen verstrekkingen betreft, door tussenkomst van het Inlichtingenbureau.
 
@@ -1838,7 +1810,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 5.1.7
+#### Artikel 5.1.7
 
 1. Bij het voeren van een telefonisch of elektronisch gesprek als bedoeld in [artikel 3a.1.2., onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&hoofdstuk=3a&paragraaf=1&artikel=3a.1.2&z=2026-01-01&g=2026-01-01), worden IP-adres en telefoonnummer van deze persoon verwerkt, voor zover deze noodzakelijk zijn om:
 

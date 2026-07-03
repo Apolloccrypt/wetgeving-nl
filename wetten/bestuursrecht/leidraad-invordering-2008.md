@@ -1,39 +1,13 @@
 ---
-title: "Bijlage bij besluit van 12 juni 2008, nr. CPP2008/1137M"
+title: "Leidraad Invordering 2008"
 identifier: "BWBR0024096"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024096"
-soort: "beleidsregel"
-stam_id: "9618253"
-version_id: "25528472"
-internal_id: "C36487311"
-label_id: "9608064"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024096/2026-01-01/0"
-intitule_bron: "Supplement-Stcrt.2008-122"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-12"
-intitule_published: "2008-06-27"
-intitule_in_force: "2008-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-68651"
-original_signed_date: "2018-12-06"
-original_published_date: "2018-12-21"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-68651"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0024096&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0024096&g=2026-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Leidraad Invordering 2008"
-signed_date: "2018-12-06"
-entry_into_force: "2019-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0024096"
 ---
+
 # Bijlage bij besluit van 12 juni 2008, nr. CPP2008/1137M
 
 ### Artikel 1. Inleiding en toepassingsgebied
@@ -7956,7 +7930,7 @@ Als zekerheid is gesteld op grond van communautaire bepalingen of van de [Algeme
 
 Als het bedrag van een vordering zo laag is dat dit niet voor verdragsinvordering in aanmerking komt, schrijft de ontvanger bij uitblijven van de betaling na betekening van het dwangbevel de borg aan met het verzoek het verschuldigde bedrag te voldoen.
 
-##### Artikel 22bis.1. Uitzondering verplichte mededeling ex [artikel 22bis, tweede of derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis)
+#### Artikel 22bis.1. Uitzondering verplichte mededeling ex [artikel 22bis, tweede of derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis)
 
 1. De verplichting tot mededeling, bedoeld in [artikel 22bis, tweede of derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), geldt behoudens de in de wet genoemde gevallen bovendien niet indien de derde of belastingschuldige geen ander voornemen in de zin van artikel 22bis, tweede of derde lid van de wet heeft dan het afvoeren van een bodemzaak van de bodem van de belastingschuldige en:
 
@@ -7980,7 +7954,7 @@ Als het bedrag van een vordering zo laag is dat dit niet voor verdragsinvorderin
 
 3. Voor ‘individuele bodemzaak’, ‘zaak’ of ‘bodemzaak’ zoals genoemd in het eerste lid, onderdeel B, kan gelezen worden ‘verschillende bodemzaken die gezamenlijk en gelijktijdig verworven en geleverd of verpand worden’.
 
-##### Artikel 22bis.2. Onverkorte mededelingsverplichting
+#### Artikel 22bis.2. Onverkorte mededelingsverplichting
 
 In afwijking van [artikel 22bis.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.1&z=2026-01-01&g=2026-01-01), geldt de mededelingsplicht voor de onder onderdeel B genoemde gevallen onverkort indien:
 
@@ -7992,21 +7966,21 @@ In afwijking van [artikel 22bis.1., eerste lid](https://wetten.overheid.nl/jci1.
 
 - d. ter zake van de bodemzaak een wederzijdse zekerheden-regeling is overeengekomen waarbij een derde-financier betrokken is.
 
-##### Artikel 22bis.3. Normale uitoefening van het bedrijf of beroep
+#### Artikel 22bis.3. Normale uitoefening van het bedrijf of beroep
 
 Onder handelingen die worden verricht in de normale uitoefening van het bedrijf of beroep van de belastingschuldige worden verstaan vervangingsinvesteringen of andere handelingen die nadrukkelijk in het teken staan van de continuïteit van het bedrijf of beroep van de belastingschuldige zoals dat bedrijf ten tijde van die handeling wordt gevoerd respectievelijk het beroep wordt uitgeoefend. Handelingen die plaatsvinden met het oogmerk zekerheid uit te winnen of te versterken, vinden niet plaats in de normale uitoefening van het bedrijf of het beroep.
 
-##### Artikel 22bis.4. Reactietermijn ontvanger na mededeling
+#### Artikel 22bis.4. Reactietermijn ontvanger na mededeling
 
 In het geval de ontvanger na ontvangst van een mededeling besluit geen beslag te leggen, stelt hij de derde of de belastingschuldige daarvan zo spoedig mogelijk in kennis.
 
 Ten aanzien van de behandelingstermijn van de mededeling houdt de ontvanger zoveel als mogelijk rekening met de hem ter kennis gebrachte gerechtvaardigde belangen van de belastingschuldige en van derden.
 
-##### Artikel 22bis.5. Overleg n.a.v. mededeling ex [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis)
+#### Artikel 22bis.5. Overleg n.a.v. mededeling ex [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis)
 
 De derde of de belastingschuldige die voornemens is zijn rechten uit te oefenen, dan wel een andere handeling te verrichten of te laten verrichten in de zin van [artikel 22bis, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), kan in overleg treden met de ontvanger teneinde overeenstemming te bereiken over de afhandeling van de mededeling. Hierbij zijn de uitgangspunten als beschreven in de [artikelen 22bis.5.1. tot en met 22bis.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.5.1&z=2026-01-01&g=2026-01-01). van deze leidraad van toepassing.
 
-##### Artikel 22bis.5.1. Afkoop voorrecht of verhaalsrecht
+#### Artikel 22bis.5.1. Afkoop voorrecht of verhaalsrecht
 
 Op verzoek van de derde of de belastingschuldige die de mededeling heeft gedaan, kan de ontvanger afzien van het leggen van beslag c.q. de vervolging van een naar aanleiding van de mededeling gelegd beslag op de betreffende bodemzaken, tegen betaling van een geldsom. Daarbij gelden de volgende voorwaarden:
 
@@ -8016,11 +7990,11 @@ Op verzoek van de derde of de belastingschuldige die de mededeling heeft gedaan,
 
 - c. de ontvanger behoudt zich het recht voor het restant van de belastingschuld in te vorderen met alle middelen rechtens.
 
-##### Artikel 22bis.5.2. Reorganisatie en schuldsanering
+#### Artikel 22bis.5.2. Reorganisatie en schuldsanering
 
 Op verzoek van de belastingschuldige of de derde die de mededeling heeft gedaan, kan de ontvanger afzien van het leggen van beslag c.q. de vervolging van een naar aanleiding van de mededeling gelegd beslag op de betreffende bodemzaken indien dit noodzakelijk is voor de instandhouding van de onderneming of van een deel van de onderneming. Wanneer de bedoelde instandhouding niet kan slagen zonder schuldsanering, is daarbij het bepaalde in de artikelen 26.3 of 73.6 van deze leidraad van overeenkomstige toepassing. Waar op grond van deze artikelen zekerheidstelling wordt vereist, omvat die zekerheid tenminste de betreffende bodemzaken.
 
-##### Artikel 22bis.5.3. Reorganisatie en uitstel van betaling
+#### Artikel 22bis.5.3. Reorganisatie en uitstel van betaling
 
 Op verzoek van de belastingschuldige of de derde die de mededeling heeft gedaan, kan de ontvanger afzien van het leggen van beslag c.q. de vervolging van een naar aanleiding van de mededeling gelegd beslag op de betreffende bodemzaken indien dit noodzakelijk is voor de instandhouding van de onderneming of van een deel van de onderneming. Wanneer de bedoelde instandhouding niet kan slagen zonder dat voor een bepaalde periode uitstel van betaling wordt verleend, is daarbij het bepaalde in de artikelen 25.6.1. tot en met 25.6.2B. van deze leidraad van overeenkomstige toepassing. In elk geval is voor het uitstel zekerheidstelling vereist, welke zekerheid tenminste de betreffende bodemzaken omvat.
 
@@ -8166,7 +8140,7 @@ Met inachtneming van artikel 97 DWU kan versnelde invordering plaatsvinden als a
 
 De ontvanger zal het verplichtingensignaal opheffen als hem blijkt dat de aanslagen betaald zijn of het recht op invordering ervan is vervallen.
 
-##### Artikel 79.16. Uitbetaling van toeslagen aan een derde die failliet is gegaan of dreigt te failleren
+#### Artikel 79.16. Uitbetaling van toeslagen aan een derde die failliet is gegaan of dreigt te failleren
 
 Als de Dienst Toeslagen, met gebruikmaking van de mogelijkheid in [artikel 25, derde lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), toeslagen aan een derde uitbetaalt, stopt zij hiermee in de volgende situaties:
 
@@ -8220,7 +8194,7 @@ Het komt voor dat bijstand kan worden gevraagd aan een bepaalde staat op grond v
 
 De ontvanger verzoekt om bijstand bij de invordering van belastingaanslagen die onherroepelijk vaststaan, geheel invorderbaar zijn en waarvoor een dwangbevel voor de gehele schuld is uitgevaardigd en betekend. Het mag ook gaan om het niet-bestreden gedeelte van een betwiste belastingaanslag of een ambtshalve opgelegde belastingaanslag waarvan het vermoeden gerechtvaardigd is dat deze (gedeeltelijk) materieel verschuldigd is. De ontvanger kan daarnaast altijd een verzoek om conservatoire maatregelen doen als hij zekerheidsmaatregelen noodzakelijk acht.
 
-##### Artikel 22bis.6. Overgangsrecht
+#### Artikel 22bis.6. Overgangsrecht
 
 Met betrekking tot de financieringsovereenkomsten die zijn gesloten voor 1 juli 2014 is [artikel 22bis.2, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.2&z=2026-01-01&g=2026-01-01), van deze leidraad niet van toepassing als de derde schriftelijk afstand heeft gedaan van zijn eigendoms- of zekerheidsrechten vóór het in het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde mededelingsplichtige voornemen.
 
@@ -8316,7 +8290,7 @@ De ontvanger gaat bij de invordering van een bedrag, dat op verzoek van een bevo
 
 ### 22.8.3. Opschorting verkoop na verzet in rechte tegen bodembeslag
 
-##### 22bis.2.1. Gevolgen niet melden door de belastingschuldige
+#### 22bis.2.1. Gevolgen niet melden door de belastingschuldige
 
 Als de belastingschuldige niet heeft voldaan aan de verplichting tot mededeling, bedoeld in [artikel 22bis, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), is de pandhouder of overige derde gehouden tot betaling van het bedrag zoals bepaald in artikel 22bis, twaalfde lid, van de wet. Deze betalingsverplichting geldt niet voor zover de pandhouder of overige derde aannemelijk maakt dat de waarde van de bodemzaken hem direct, noch indirect ten goede is gekomen.
 
