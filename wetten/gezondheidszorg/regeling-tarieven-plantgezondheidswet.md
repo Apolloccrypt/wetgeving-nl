@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 20038819, houdende vaststelling van de tarieven op basis van de Plantgezondheidswet (Regeling tarieven Plantgezondheidswet)"
+title: "Regeling tarieven Plantgezondheidswet"
 identifier: "BWBR0044857"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044857"
-soort: "ministeriele-regeling"
-stam_id: "15859113"
-version_id: "30702982"
-internal_id: "C44010141"
-label_id: "15794874"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044857/2026-01-01/0"
-intitule_bron: "Stcrt.2021-9547"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-02-10"
-intitule_published: "2021-02-25"
-intitule_in_force: "2021-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-14294"
-original_signed_date: "2025-04-18"
-original_published_date: "2025-04-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-14294"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0044857&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0044857&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tarieven Plantgezondheidswet"
-signed_date: "2025-04-18"
-entry_into_force: "2025-07-01"
+categorie: "Gezondheidszorg"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0044857"
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 20038819, houdende vaststelling van de tarieven op basis van de Plantgezondheidswet (Regeling tarieven Plantgezondheidswet)
 
 Gelet op [artikel 21 van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen en algemeen
 
-##### Artikel 1
+#### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -98,7 +72,7 @@ Besluit:
 
 #### § 2.1. Inspecties en overige werkzaamheden
 
-##### Artikel 2
+#### Artikel 2
 
 1. Voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export, doorvoer en in het handelsverkeer aangeboden zendingen respectievelijk voor aanvullende controles als bedoeld in artikel 79, tweede lid, onder c, van [verordening 2017/625](32525R2017) wordt de aanvrager respectievelijk de aanvullend gecontroleerde het volgende tarief in rekening gebracht:
 
@@ -124,7 +98,7 @@ Besluit:
 
 4. Voor werkzaamheden met betrekking tot de goedkeuring van het Bedrijfseigen Controlesysteem voor exportcertificering en de controles op de aan die goedkeuring verbonden eisen zijn de tarieven, genoemd in het eerste lid, van overeenkomstige toepassing.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Voor het afgeven van een instructie voor invoervergunning welke noodzakelijk is voor de afgifte van een fytosanitair certificaat bij een zending waarvoor een derde land een importvergunning heeft afgegeven, wordt de aanvrager een tarief in rekening gebracht.
 
@@ -142,7 +116,7 @@ Besluit:
 
 - d. Indien een aanvullende officiële controle als bedoeld in het eerste lid digitaal plaatsvindt, wordt een bedrag in rekening gebracht voor een controle op een digitale terugmelding.
 
-##### Artikel 4
+#### Artikel 4
 
 Indien degene die voor het verrichten van werkzaamheden desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, wordt de aanvrager als kosten een bedrag in rekening gebracht:
 
@@ -154,25 +128,25 @@ Indien degene die voor het verrichten van werkzaamheden desgevraagd op een bepaa
 
 - d. indien het de werkzaamheden bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01), betreft.
 
-##### Artikel 5
+#### Artikel 5
 
 Voor het op verzoek intrekken van een teeltverbod als bedoeld in [artikel 8 van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8) voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht.
 
 #### § 2.2. Laboratoriumonderzoek
 
-##### Artikel 6
+#### Artikel 6
 
 Indien in het kader van de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde tarief een bedrag per genomen monster in rekening gebracht.
 
 #### § 2.3. Certificaten, vergunningen en ontheffingen
 
-##### Artikel 7
+#### Artikel 7
 
 1. Voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen en voor de afgifte van een exportcertificaat zonder dat voorafgaand een fysieke inspectie heeft plaatsgevonden wordt de aanvrager per certificaat een bedrag in rekening gebracht.
 
 2. In afwijking van het eerste lid, wordt voor de afgifte van een certificaat ten behoeve van een bedrijf met een goedgekeurd Bedrijfseigen Controlesysteem voor exportcertificering een bedrag in rekening gebracht.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Voor de behandeling en afhandeling van een verzoek om ontheffing als bedoeld in [artikel 10 Van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=7) voor de toestemmingen als bedoeld in artikel 5 en 7 van [Verordening 2019/829](32729R2019), waaronder zo nodig een aanwijzing als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=11), of een verzoek om aanwijzing als bedoeld in artikel 11 van de wet wordt de verzoeker per verzoek een bedrag in rekening gebracht, vermeerderd met een bedrag indien een risicobeoordeling is uitgevoerd. Voor het uitvoeren van een aan de beoordeling van het verzoek verbonden verificatieaudit wordt een bedrag per bezoek, vermeerderd met een bedrag per kwartier die aan de audit en de auditrapportage is besteed, in rekening gebracht.
 
@@ -190,7 +164,7 @@ Indien in het kader van de werkzaamheden, bedoeld in [artikel 2](https://wetten.
 
 #### § 3.1. Inspecties en overige werkzaamheden
 
-##### Artikel 9
+#### Artikel 9
 
 Als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export, doorvoer en in het handelsverkeer aangeboden zendingen, met uitzondering van de in [artikel 21, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21) bedoelde werkzaamheden, alsmede voor aanvullende controles als bedoeld in artikel 79, tweede lid, onder c, van [verordening 2017/625](32525R2017) en voor invoercontroles op gebruikte land- en bosbouwmachines, zijnde materialen als bedoeld in artikel 11 en Bijlage XI, deel A, van uitvoeringsverordening 2019/2072, wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -208,15 +182,15 @@ Als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden
 
 - g. een tarief voor de documentcontrole op kantoor bij verlegging naar een andere lidstaat.
 
-##### Artikel 10
+#### Artikel 10
 
 Vervallen
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
-##### Artikel 12
+#### Artikel 12
 
 Als vergoeding van de kosten voor het verrichten van monitoringwerkzaamheden en overige werkzaamheden in het kader van de door of namens de minister afgegeven of af te geven erkenningen voor de export naar derde landen waar bilaterale afspraken mee zijn gemaakt op grond waarvan fytosanitaire voorwaarden van toepassing zijn met betrekking tot vruchtgroenten, uien en hardfruit, wordt de aanvrager van deze erkenning, afhankelijk van de uit te voeren werkzaamheden, een of meer van de volgende tarieven in rekening gebracht:
 
@@ -254,7 +228,7 @@ Als vergoeding van de kosten voor het verrichten van monitoringwerkzaamheden en 
 
 - 5°. extra controle bij vondst.
 
-##### Artikel 13
+#### Artikel 13
 
 Voor het verlenen van een erkenning voor de afgifte van plantenpaspoorten wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -266,31 +240,31 @@ Voor het verlenen van een erkenning voor de afgifte van plantenpaspoorten wordt 
 
 - d. een tarief voor de bedrijfscontrole administratie.
 
-##### Artikel 14
+#### Artikel 14
 
 Het controlepercentage voor houten verpakkingsmateriaal van zendingen van oorsprong uit China, Wit-Rusland en India met GN-code 2514 00 00, 2515, 2516, 4401, 4415, 6801, 6802, 6803, 6907 of 7606 is 15%.
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
-##### Artikel 17
+#### Artikel 17
 
 1. Indien de overeenstemmingscontroles en materiële controles als bedoeld in artikel 49 overeenkomstig artikel 53, eerste lid, onder c, van [verordening 2017/625](32525R2017) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief per zending in rekening gebracht.
 
 2. Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document een tarief per zending in rekening gebracht.
 
-##### Artikel 18
+#### Artikel 18
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, of indien minder zendingen of partijen gereed staan voor inspectie dan waarop de inspectieaanvraag betrekking heeft, wordt de aanvrager een tarief in rekening gebracht.
 
 #### § 3.2. Laboratoriumonderzoek
 
-##### Artikel 19
+#### Artikel 19
 
 1. Indien in het kader van de werkzaamheden, bedoeld in de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in deze artikelen genoemde tarief een tarief, vermeerderd met het tarief bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01) per genomen monster in rekening gebracht.
 
@@ -300,7 +274,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de [artikele
 
 #### § 3.2. Laboratoriumonderzoek
 
-##### Artikel 20
+#### Artikel 20
 
 1. Voor het waarmerken en het afgeven van een exportcertificaat ten behoeve van inspectieplichtige zendingen alsook niet-inspectieplichtige zendingen, wordt de aanvrager per certificaat een tarief in rekening gebracht.
 
@@ -310,7 +284,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de [artikele
 
 #### § 3.2. Laboratoriumonderzoek
 
-##### Artikel 21
+#### Artikel 21
 
 Voor de door het KCB, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van veertien dagen, gerekend vanaf de datering van de nota’s.
 
@@ -318,7 +292,7 @@ Voor de door het KCB, op grond van deze regeling, verzonden nota’s geldt een b
 
 #### § 3.3. Certificaten
 
-##### Artikel 22
+#### Artikel 22
 
 1. Voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export en in het handelsverkeer aangeboden zendingen, met uitzondering van de in [artikel 21, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21) bedoelde werkzaamheden, wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -340,15 +314,15 @@ Voor de door het KCB, op grond van deze regeling, verzonden nota’s geldt een b
 
 2. Voor het verrichten van overige fytosanitaire werkzaamheden anders dan die bedoeld in dit hoofdstuk, gelden de tarieven bedoeld in het eerste lid.
 
-##### Artikel 23
+#### Artikel 23
 
 Bedrijven die fytosanitaire inspectieaanvragen bij de BKD indienen, wordt jaarlijks voor registratie een tarief in rekening gebracht, tenzij zij reeds een registratie tarief in het kader van kwaliteitsinspecties hebben betaald.
 
-##### Artikel 24
+#### Artikel 24
 
 Vervallen
 
-##### Artikel 25
+#### Artikel 25
 
 Voor het onderzoek naar PSTVd in Dahlia wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -356,11 +330,11 @@ Voor het onderzoek naar PSTVd in Dahlia wordt de aanvrager het volgende tarief i
 
 - b. een tarief per monster (steekproef 60 knollen, partijen groter dan 200 knollen).
 
-##### Artikel 26
+#### Artikel 26
 
 Vervallen
 
-##### Artikel 27
+#### Artikel 27
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2026-01-01&g=2026-01-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager een tarief in rekening gebracht:
 
@@ -372,11 +346,11 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 22]
 
 #### § 4.2. Laboratoriumonderzoek
 
-##### Artikel 28
+#### Artikel 28
 
 Vervallen
 
-##### Artikel 29
+#### Artikel 29
 
 Indien ten behoeve van het vervroegd vrijgeven van percelen waarvoor een teeltverbod in verband met een geconstateerde besmetting met Ditylenchus dipsaci geldt, onderzoek wordt uitgevoerd, wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -388,13 +362,13 @@ Indien ten behoeve van het vervroegd vrijgeven van percelen waarvoor een teeltve
 
 - d. ten behoeve van het laboratoriumonderzoek van de grondmonsters, een tarief per geanalyseerd grondmonster.
 
-##### Artikel 30
+#### Artikel 30
 
 Vervallen
 
 #### § 4.2. Laboratoriumonderzoek
 
-##### Artikel 31
+#### Artikel 31
 
 1. Voor het ten kantore waarmerken van certificaten ten behoeve van inspectieplichtige of niet-inspectieplichtige zendingen wordt de aanvrager een tarief per minuut in rekening gebracht.
 
@@ -406,7 +380,7 @@ Vervallen
 
 #### § 4.3. Certificaten
 
-##### Artikel 32
+#### Artikel 32
 
 Voor de door de BKD, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van eenentwintig dagen, gerekend vanaf de datering van de nota’s.
 
@@ -414,7 +388,7 @@ Voor de door de BKD, op grond van deze regeling, verzonden nota’s geldt een be
 
 #### § 4.3. Certificaten
 
-##### Artikel 33
+#### Artikel 33
 
 1. Voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export en in het handelsverkeer aangeboden zendingen wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -432,11 +406,11 @@ Voor de door de BKD, op grond van deze regeling, verzonden nota’s geldt een be
 
 2. In afwijking van het eerste lid kan geen inspectie worden aangevraagd voor maandag, dinsdag, woensdag, donderdag en vrijdag van 22.00 uur tot 5.00 uur, op zaterdag van 16.30 uur tot 8.30 uur, en op zondag of op een algemeen erkende feestdag van 16.30 uur tot 8.30 uur.
 
-##### Artikel 34
+#### Artikel 34
 
 Bedrijven die fytosanitaire inspectieaanvragen bij de Naktuinbouw indienen wordt jaarlijks voor registratie en indeling in de groep importeurs of exporteurs een tarief in rekening gebracht.
 
-##### Artikel 35
+#### Artikel 35
 
 Voor het gebruik van een Naktuinbouw Laboratorium autorisatie ten behoeve van een verleende erkenning als bedoeld in [artikel 7, derde lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=7), wordt de aanvrager een tarief in rekening gebracht voor:
 
@@ -444,27 +418,27 @@ Voor het gebruik van een Naktuinbouw Laboratorium autorisatie ten behoeve van ee
 
 - b. monstername van zaden bij de nacontrole, een basistarief vermeerderd met een tarief per minuut.
 
-##### Artikel 36
+#### Artikel 36
 
 Vervallen
 
-##### Artikel 37
+#### Artikel 37
 
 Indien de overeenstemmingscontroles en materiële controles als bedoeld in artikel 49 overeenkomstig artikel 53, eerste lid, onder c, van [verordening 2017/625](32525R2017) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief per zending in rekening gebracht.
 
-##### Artikel 38
+#### Artikel 38
 
 Vervallen
 
 #### § 5.2. Laboratoriumonderzoek
 
-##### Artikel 39
+#### Artikel 39
 
 Indien in het kader van de werkzaamheden, bedoeld in [artikel33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2026-01-01&g=2026-01-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven het in artikel 33 genoemde tarief voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek het tarief, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01) in rekening gebracht.
 
 #### § 5.2. Laboratoriumonderzoek
 
-##### Artikel 40
+#### Artikel 40
 
 1. Voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager een tarief per certificaat in rekening gebracht.
 
@@ -472,7 +446,7 @@ Indien in het kader van de werkzaamheden, bedoeld in [artikel33](https://wetten.
 
 #### § 5.2. Laboratoriumonderzoek
 
-##### Artikel 41
+#### Artikel 41
 
 Voor de door de Naktuinbouw, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van dertig dagen, gerekend vanaf de datering van de nota’s.
 
@@ -480,7 +454,7 @@ Voor de door de Naktuinbouw, op grond van deze regeling, verzonden nota’s geld
 
 #### § 5.3. Certificaten
 
-##### Artikel 42
+#### Artikel 42
 
 1. Voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export en in het handelsverkeer aangeboden zendingen wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -512,23 +486,23 @@ Voor de door de Naktuinbouw, op grond van deze regeling, verzonden nota’s geld
 
 5. Voor het opmaken en afgeven van een exportcertificaat waarvan de gegevens niet via E-CertNL worden aangeleverd, wordt per certificaat naast het tarief, genoemd in het vierde lid, een tarief in rekening gebracht.
 
-##### Artikel 43
+#### Artikel 43
 
 Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlijks voor registratie een tarief in rekening gebracht, tenzij zij reeds een registratie tarief in het kader van kwaliteitsinspecties hebben betaald.
 
-##### Artikel 44
+#### Artikel 44
 
 1. Indien de NAK inspecties verricht op een locatie waar producten ter keuring worden aangeboden waarvoor verlaagde inspectiefrequenties bij import gelden, zoals bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-01-01&g=2026-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), gelden de tarieven bedoeld in artikel 12 of 13.
 
 2. In geval van export en import anders dan die bedoeld in het eerste lid, is het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2026-01-01&g=2026-01-01) van toepassing.
 
-##### Artikel 45
+#### Artikel 45
 
 1. Indien de overeenstemmingscontroles en materiële controles als bedoeld in artikel 49 overeenkomstig artikel 53, eerste lid, onder c, van [verordening 2017/625](32525R2017) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief per zending in rekening gebracht.
 
 2. Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document een tarief per zending in rekening gebracht.
 
-##### Artikel 46
+#### Artikel 46
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2026-01-01&g=2026-01-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager als kosten een tarief in rekening gebracht:
 
@@ -538,7 +512,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42]
 
 - c. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2026-01-01&g=2026-01-01), betreft.
 
-##### Artikel 47
+#### Artikel 47
 
 1. Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in [artikel 41, eerste lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=41) van het verbod, bedoeld in [artikel 21, eerste lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=21), wordt de aanvrager een bedrag per aanvraag in rekening gebracht.
 
@@ -556,7 +530,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42]
 
 #### § 6.2. Laboratoriumonderzoek
 
-##### Artikel 48
+#### Artikel 48
 
 1. Indien dit onderzoek door de NVWA wordt uitgevoerd, wordt hiervoor het tarief bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01) in rekening gebracht, vermeerderd met een tarief voor bemonstering en administratie.
 
@@ -570,13 +544,13 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42]
 
 #### § 6.2. Laboratoriumonderzoek
 
-##### Artikel 49
+#### Artikel 49
 
 Voor het ten kantore van de NAK waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager een tarief per certificaat in rekening gebracht.
 
 #### § 6.2. Laboratoriumonderzoek
 
-##### Artikel 50
+#### Artikel 50
 
 1. Voor onderzoek als bedoeld in [artikel 10, tweede lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=10), worden de volgende kosten in rekening gebracht:
 
@@ -606,7 +580,7 @@ Voor het ten kantore van de NAK waarmerken van certificaten ten behoeve van niet
 
 #### § 6.3. Certificaten
 
-##### Artikel 51
+#### Artikel 51
 
 1. Voor het onderzoek waaruit blijkt dat het perceel vrij is of wordt geacht te zijn van besmetting met het aardappelcysteaaltje als bedoeld in [artikel 35, eerste lid, van de Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=35), wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -640,7 +614,7 @@ Voor het ten kantore van de NAK waarmerken van certificaten ten behoeve van niet
 
 #### § 6.4. Bruin- en ringrot
 
-##### Artikel 52
+#### Artikel 52
 
 Voor het onderzoek naar PMTV of TRV wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -650,21 +624,21 @@ Voor het onderzoek naar PMTV of TRV wordt de aanvrager het volgende tarief in re
 
 #### § 6.5. Aardappelcysteaaltje
 
-##### Artikel 53
+#### Artikel 53
 
 Voor de door de NAK, op grond van deze regeling, verzonden nota’s geldt een betalingstermijn van veertien dagen, gerekend vanaf de datering van de nota’s.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-##### Artikel 54
+#### Artikel 54
 
 Op betalingsverplichtingen ontstaan vóór de inwerkingtreding van deze regeling blijven de regels van toepassing, geldende ten tijde van het ontstaan van die betalingsverplichtingen.
 
-##### Artikel 55
+#### Artikel 55
 
 Deze regeling treedt in werking met ingang van 1 maart 2021.
 
-##### Artikel 56
+#### Artikel 56
 
 Deze regeling wordt aangehaald als: Regeling tarieven Plantgezondheidswet.
 
@@ -810,7 +784,7 @@ Deze regeling wordt aangehaald als: Regeling tarieven Plantgezondheidswet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 17a
+#### Artikel 17a
 
 1. In het kader van de Pilot NVWA erkenning gebruik voorraadregister e-CertNL voor voorraad- en veldinspectie wordt de aanvrager een tarief in rekening gebracht voor:
 
@@ -936,7 +910,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 13a
+#### Artikel 13a
 
 Voor het verlenen van een erkenning voor een bedrijfscontrolesysteem wordt de aanvrager het volgende tarief in rekening gebracht:
 
@@ -1039,7 +1013,7 @@ Voor het verlenen van een erkenning voor een bedrijfscontrolesysteem wordt de aa
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 8a
+#### Artikel 8a
 
 1. Voor controles op afstand om met Naam, Adres en Woonplaats voorbedrukte exportcertificaten op voorraad te mogen hebben wordt de aanvrager per controle een bedrag in rekening gebracht.
 
@@ -1321,7 +1295,7 @@ CFA: Fyto Algemeen: Diverse producten (fytosanitair)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 8b
+#### Artikel 8b
 
 Vervallen
 
@@ -1588,7 +1562,7 @@ CFA: Fyto Algemeen: Diverse producten (fytosanitair)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 5a
+#### Artikel 5a
 
 Voor de administratieve handelingen ten behoeve van fytosanitaire verleningen wordt de aanvrager per aanvraag en per kleine administratieve wijziging een tarief in rekening gebracht.
 
