@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de algemene raad van 1 december 2014 tot vaststelling van de regeling op de advocatuur (Regeling op de advocatuur)"
+title: "Regeling op de advocatuur"
 identifier: "BWBR0046271"
-country: "nl"
-rank: "pbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046271"
-soort: "pbo"
-stam_id: "16256203"
-version_id: "28394172"
-internal_id: "C40046251"
-label_id: "16184034"
-dtd_version: "2.0"
-original_entry_into_force: "2015-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046271/2025-01-01/0"
-intitule_bron: "Stcrt.2022-744"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-12-01"
-intitule_published: "2022-02-04"
-intitule_in_force: "2022-02-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-744"
-original_signed_date: "2014-12-01"
-original_published_date: "2022-02-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-744"
-entry_into_force_date: "2015-01-01"
-jci_1_3: "jci1.3:c:BWBR0046271&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0046271&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling op de advocatuur"
-signed_date: "2014-12-01"
-entry_into_force: "2015-01-01"
+categorie: "Overig"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046271"
 ---
+
 # Besluit van de algemene raad van 1 december 2014 tot vaststelling van de regeling op de advocatuur (Regeling op de advocatuur)
 
 Gelet op [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=4), en [artikel 60, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=60);
@@ -46,7 +20,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Definities
 
-##### Artikel 1. Definities
+#### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981).
 
@@ -54,7 +28,7 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 #### Paragraaf 2.1. Financiële bijdrage
 
-##### Artikel 2. Indeling en inkomen
+#### Artikel 2. Indeling en inkomen
 
 1. Voor de financiële bijdrage, bedoeld in [artikel 32, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32), wordt ingedeeld in:
 
@@ -72,7 +46,7 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 3. De advocaat die buiten Nederland belastingplichtig was doet de in het eerste lid bedoelde opgave op basis van het inkomen waarover in het desbetreffende land belasting is geheven.
 
-##### Artikel 3. Procedure voor opgave van de inkomenscategorie
+#### Artikel 3. Procedure voor opgave van de inkomenscategorie
 
 1. De advocaat geeft binnen een door de algemene raad kenbaar gemaakte termijn op elektronische wijze via het door de algemene raad beschikbaar gestelde middel aan welke van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), genoemde inkomenscategorieën van toepassing is.
 
@@ -88,13 +62,13 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 7. De berichten en besluiten die op grond van dit artikel automatisch worden gegenereerd bevatten geen handtekening.
 
-##### Artikel 4. Bewijsmiddelen bruto-inkomen
+#### Artikel 4. Bewijsmiddelen bruto-inkomen
 
 Vervallen
 
 #### Paragraaf 2.2. Vacatiegelden en vergoedingen
 
-##### Artikel 5. Hoogte vacatiegeld
+#### Artikel 5. Hoogte vacatiegeld
 
 1. Het vacatiegeld, bedoeld in [artikel 2.31, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=2.31), bedraagt:
 
@@ -122,15 +96,15 @@ Vervallen
 
 4. In afwijking van het tweede en derde lid komen meerdere vergaderingen plaatsvindend op verzoek van de algemene raad op één dag in aanmerking voor een vacatiegeld per vergadering.
 
-##### Artikel 6. Vergoeding griffier raad van discipline
+#### Artikel 6. Vergoeding griffier raad van discipline
 
 De griffier van de raad van discipline ontvangt de vergoedingen en verdere verschotten, bedoeld in [artikel 50a, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=50a), van de Stichting Ondersteuning Tuchtcolleges Advocatuur.
 
-##### Artikel 7. Vergoeding griffier hof van discipline
+#### Artikel 7. Vergoeding griffier hof van discipline
 
 De griffier van het hof van discipline ontvangt de vergoedingen en verdere verschotten, bedoeld in [artikel 60, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=60), van de Stichting Ondersteuning Tuchtcolleges Advocatuur.
 
-##### Artikel 8. Reiskostenvergoeding
+#### Artikel 8. Reiskostenvergoeding
 
 1. Ter zake van de reiskosten in het binnenland worden ten hoogste vergoed:
 
@@ -152,7 +126,7 @@ De griffier van het hof van discipline ontvangt de vergoedingen en verdere versc
 
 #### Paragraaf 2.3. Declaratieregels
 
-##### Artikel 9. Declaratiewijze
+#### Artikel 9. Declaratiewijze
 
 1. Degenen die recht hebben op vergoeding als bedoeld in [paragraaf 2.2.3 van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&paragraaf=2.2.3), dienen bij de algemene raad een declaratie in ter betaling van die vergoeding.
 
@@ -162,17 +136,17 @@ De griffier van het hof van discipline ontvangt de vergoedingen en verdere versc
 
 #### Paragraaf 2.4. Vergoedingen
 
-##### Artikel 10. Vergoeding examen cassatie
+#### Artikel 10. Vergoeding examen cassatie
 
 De advocaat is voor het afleggen van het examen, bedoeld in [artikel 4.9, eerste lid, aanhef en onderdeel b, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.9), per (her)examen, aan de algemene raad een vergoeding verschuldigd van € 1.100.
 
-##### Artikel 11. Vergoeding proeve van bekwaamheid civiele cassatie
+#### Artikel 11. Vergoeding proeve van bekwaamheid civiele cassatie
 
 De advocaat is voor het afleggen van de proeve van bekwaamheid, bedoeld in [artikel 4.11, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.11), per (her)proeve, aan de algemene raad een vergoeding verschuldigd van € 1.700.
 
 ### Hoofdstuk 3. Stage en beroepsopleiding
 
-##### Artikel 12. Formulier goedkeuring stage
+#### Artikel 12. Formulier goedkeuring stage
 
 De algemene raad stelt vast als het formulier, bedoeld in [artikel 3.5, tweede lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.5):
 
@@ -186,7 +160,7 @@ De algemene raad stelt vast als het formulier, bedoeld in [artikel 3.5, tweede l
 
 - e. voor de wijziging van patroon: het Formulier verzoek tot wijziging patroon, bedoeld in [bijlage 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1e&z=2025-01-01&g=2025-01-01) van deze regeling.
 
-##### Artikel 12a. Nadere vereisten patroonscursus
+#### Artikel 12a. Nadere vereisten patroonscursus
 
 De cursus voor patroons bedoeld in [artikel 3.5a, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.5a) omvat in elk geval:
 
@@ -204,7 +178,7 @@ De cursus voor patroons bedoeld in [artikel 3.5a, eerste lid, van de Verordening
 
 - –. kennis van de vernieuwde beroepsopleiding advocaten en aansluiting op de kantoorpraktijk.
 
-##### Artikel 13. Accreditatie- en kwaliteitskader
+#### Artikel 13. Accreditatie- en kwaliteitskader
 
 De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.22a): het accreditatie- en kwaliteitskader beroepsopleiding advocaten, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=2&z=2025-01-01&g=2025-01-01).
 
@@ -212,7 +186,7 @@ De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a
 
 #### Paragraaf 4.1. Kwaliteitstoetsen
 
-##### Artikel 13a. Vereisten aan vormen van kwaliteitstoetsen
+#### Artikel 13a. Vereisten aan vormen van kwaliteitstoetsen
 
 1. Intervisie als bedoeld in [artikel 4.3a, eerste lid, onderdeel a, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.3a) voldoet aan de volgende vereisten:
 
@@ -240,7 +214,7 @@ De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a
 
 - g. de reviewer bevestigt in een verslag dat peer review heeft plaatsgevonden met een korte, niet inhoudelijke, omschrijving van hetgeen aan de orde is gekomen.
 
-##### Artikel 13b. Vereisten aan gestructureerd intercollegiaal overleg
+#### Artikel 13b. Vereisten aan gestructureerd intercollegiaal overleg
 
 Gestructureerd intercollegiaal overleg, als bedoeld in [artikel 4.3b van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.3b) voldoet aan de volgende vereisten:
 
@@ -254,7 +228,7 @@ Gestructureerd intercollegiaal overleg, als bedoeld in [artikel 4.3b van de Vero
 
 - e. de begeleider bevestigt ieders deelname in een bewijs van deelname met een korte, niet inhoudelijke, omschrijving van hetgeen aan de orde is gekomen.
 
-##### Artikel 13c. Gespreksleider, reviewer en begeleider
+#### Artikel 13c. Gespreksleider, reviewer en begeleider
 
 1. Een gespreksleider wordt uitsluitend als deskundige als bedoeld in [artikel 26, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=26) aangewezen indien deze:
 
@@ -288,7 +262,7 @@ Gestructureerd intercollegiaal overleg, als bedoeld in [artikel 4.3b van de Vero
 
 #### Paragraaf 4.1a. Opleidingspunten
 
-##### Artikel 14. Opleidingspuntwaardige activiteiten
+#### Artikel 14. Opleidingspuntwaardige activiteiten
 
 De advocaat kan ingevolge [artikel 4.4, vijfde lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.4), en [artikel 4.13, derde lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.13), een of meer opleidingspunten behalen door:
 
@@ -310,7 +284,7 @@ De advocaat kan ingevolge [artikel 4.4, vijfde lid, aanhef en onderdeel e](https
 
 - i. aantoonbaar op vergelijkbare wijze de professionele kennis en kunde te onderhouden.
 
-##### Artikel 15. Niet opleidingspuntwaardige activiteiten
+#### Artikel 15. Niet opleidingspuntwaardige activiteiten
 
 De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.4), geen opleidingspunten behalen door:
 
@@ -324,7 +298,7 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 #### Paragraaf 4.2. Erkenning van opleidingsinstellingen
 
-##### Artikel 16. Aanvraag erkenning
+#### Artikel 16. Aanvraag erkenning
 
 1. Een opleidingsinstelling kan de algemene raad verzoeken om erkenning als bedoeld in [artikel 4.4, zesde lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.4) waardoor de opleidingsinstelling:
 
@@ -356,7 +330,7 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 - b. informatie over de voorgenomen opleidingen.
 
-##### Artikel 17. Weigeringsgronden
+#### Artikel 17. Weigeringsgronden
 
 1. De algemene raad wijst het verzoek om erkenning af indien:
 
@@ -390,7 +364,7 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 2. De algemene raad kan een verzoek om erkenning afwijzen indien naar zijn overtuiging de instelling niet voldoet of kan voldoen aan de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2025-01-01&g=2025-01-01).
 
-##### Artikel 18. Verplichtingen erkende instellingen
+#### Artikel 18. Verplichtingen erkende instellingen
 
 1. De erkende opleidingsinstelling draagt zorg voor continuïteit van de opleiding en wijst een vaste contactpersoon aan.
 
@@ -418,7 +392,7 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 13. De erkende opleidingsinstelling werkt mee aan onderzoek door de algemene raad naar het naleven van de in dit artikel genoemde verplichtingen.
 
-##### Artikel 19. Geldigheid en intrekking van erkenning
+#### Artikel 19. Geldigheid en intrekking van erkenning
 
 De algemene raad kan de erkenning intrekken indien:
 
@@ -432,7 +406,7 @@ De algemene raad kan de erkenning intrekken indien:
 
 #### Paragraaf 4.3. Cassatie
 
-##### Artikel 20. Aanvragen examen of proeve van bekwaamheid
+#### Artikel 20. Aanvragen examen of proeve van bekwaamheid
 
 1. De advocaat kan verzoeken om het examen, bedoeld in [artikel 4.9, eerste lid, aanhef en onderdeel b, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.9), of de proeve van bekwaamheid, bedoeld in [artikel 4.11, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.11), af te leggen. Binnen twaalf weken na het verzoek wordt de advocaat daartoe in de gelegenheid gesteld. De algemene raad deelt de advocaat binnen vier weken mee wanneer het examen of de proeve wordt afgenomen.
 
@@ -452,7 +426,7 @@ De algemene raad kan de erkenning intrekken indien:
 
 6. Op de herkansing van het examen en van de proeve van bekwaamheid zijn het tweede lid, aanhef en onderdelen b en c, vierde en vijfde lid van overeenkomstige toepassing.
 
-##### Artikel 21. Stof examen civiele cassatie
+#### Artikel 21. Stof examen civiele cassatie
 
 De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.9) bestaat uit de volgende onderdelen:
 
@@ -470,7 +444,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 - c. administratieve en financiële aspecten van de cassatiepraktijk, in het bijzonder betreffende griffierechten en toevoegingszaken.
 
-##### Artikel 22. Afleggen examen
+#### Artikel 22. Afleggen examen
 
 1. Tijdens het examen wordt de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.3&artikel=21&z=2025-01-01&g=2025-01-01) omschreven kennis getoetst, waarbij als richtlijn de navolgende indeling wordt gehanteerd:
 
@@ -482,7 +456,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 2. Het examen is met goed gevolg afgelegd indien het resultaat van elk van de in het vorige lid opgenomen onderdelen als voldoende kan worden aangemerkt.
 
-##### Artikel 23. Afleggen proeve van bekwaamheid cassatie
+#### Artikel 23. Afleggen proeve van bekwaamheid cassatie
 
 1. De advocaat bij de Hoge Raad stelt de commissie cassatie twee volledige dossiers van bij de Hoge Raad afgeronde procedures ter hand, één waarin hij namens de eisende partij heeft opgetreden en één waarin hij namens de verwerende partij heeft opgetreden.
 
@@ -490,7 +464,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 3. Op de herkansing van de proeve van bekwaamheid zijn het eerste en tweede lid van toepassing.
 
-##### Artikel 24. Opgave en toerekening van cassatiezaken
+#### Artikel 24. Opgave en toerekening van cassatiezaken
 
 1. De advocaat doet opgave van de door hem behandelde cassatiezaken bedoeld in [artikel 4.14, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.14).
 
@@ -516,7 +490,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 #### Paragraaf 5.1. Professioneel statuut
 
-##### Artikel 25. Model professioneel statuut
+#### Artikel 25. Model professioneel statuut
 
 1. De algemene raad stelt als het model voor het professioneel statuut vast, het model in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=4&z=2025-01-01&g=2025-01-01).
 
@@ -524,7 +498,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 #### Paragraaf 5.2. Advocatenpas en authenticatiemiddel
 
-##### Artikel 26. Aanvraag advocatenpas
+#### Artikel 26. Aanvraag advocatenpas
 
 1. Bij de aanvraag geeft de advocaat de namen van de eventuele gemachtigden op voor de uitgifte van de advocatenpas.
 
@@ -532,13 +506,13 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 3. Bij de aanvraag maakt de advocaat gebruik van de door de algemene raad beschikbaar gestelde website.
 
-##### Artikel 27. Geldigheid advocatenpas en authenticatiemiddel
+#### Artikel 27. Geldigheid advocatenpas en authenticatiemiddel
 
 De advocatenpas en het authenticatiemiddel zijn ten hoogste vijf jaar geldig.
 
 #### Paragraaf 5.3. Geheimhoudernummers
 
-##### Artikel 28. Op te geven nummers voor alle advocaten
+#### Artikel 28. Op te geven nummers voor alle advocaten
 
 Iedere advocaat geeft op als geheimhoudernummer aan de secretaris van de algemene raad, indien hij over de genoemde apparatuur beschikt:
 
@@ -552,7 +526,7 @@ Iedere advocaat geeft op als geheimhoudernummer aan de secretaris van de algemen
 
 - e. het nummer van een vaste (afzonderlijke) telefoonaansluiting in het woonhuis van de advocaat, voor zover deze aansluiting alleen voor zakelijk gebruik is bestemd en wordt gebruikt, en de advocaat een andere (vaste) aansluiting heeft die voor privégebruik is bestemd en wordt gebruikt.
 
-##### Artikel 29. Alle advocaten uitgezonderd die met een dienstverband of op gemengde kantoren
+#### Artikel 29. Alle advocaten uitgezonderd die met een dienstverband of op gemengde kantoren
 
 De advocaat, niet zijnde een advocaat werkzaam op een kantoor met niet-geheimhouders of een advocaat met een dienstverband, geeft – indien hij over de genoemde apparatuur beschikt – aanvullend de volgende nummers op als geheimhoudernummer aan de secretaris van de algemene raad:
 
@@ -564,7 +538,7 @@ De advocaat, niet zijnde een advocaat werkzaam op een kantoor met niet-geheimhou
 
 - d. het doorkiesnummer van paralegals, studentstagiaires en medewerkers van de financiële administratie met een van hem afgeleid verschoningsrecht.
 
-##### Artikel 30. Advocaten op gemengde kantoren
+#### Artikel 30. Advocaten op gemengde kantoren
 
 De advocaat werkzaam op een kantoor met niet-geheimhouders, niet zijnde een advocaat met een dienstverband, geeft – indien hij over de genoemde apparatuur beschikt – aanvullend de volgende nummers op als geheimhoudernummer aan de secretaris van de algemene raad:
 
@@ -574,11 +548,11 @@ De advocaat werkzaam op een kantoor met niet-geheimhouders, niet zijnde een advo
 
 #### Paragraaf 5.4. Beschrijving werkwijze
 
-##### Artikel 31. Dossierbeheer
+#### Artikel 31. Dossierbeheer
 
 De advocaat zorgt ervoor dat dossiers snel te vinden zijn en relevante gegevens overzichtelijk en toegankelijk weergeven, ook voor bevoegde derden.
 
-##### Artikel 32. Kantoorhandboek
+#### Artikel 32. Kantoorhandboek
 
 De advocaat beschrijft, op grond van [artikel 6.4 van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=6.4), ten minste de volgende aspecten:
 
@@ -672,13 +646,13 @@ De advocaat beschrijft, op grond van [artikel 6.4 van de Verordening](https://we
 
 #### Paragraaf 5.5. Stichting derdengelden
 
-##### Artikel 33. Modelstatuten stichting derdengelden
+#### Artikel 33. Modelstatuten stichting derdengelden
 
 1. De algemene raad stelt als het model voor de statuten vast, het model in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=5&z=2025-01-01&g=2025-01-01).
 
 2. Het in het eerste lid bedoelde model geldt voor stichtingen die worden opgericht en statuten die anderszins worden gewijzigd na inwerkingtreding van dit artikel.
 
-##### Artikel 34. Overeenkomst stichting derdengelden
+#### Artikel 34. Overeenkomst stichting derdengelden
 
 1. De algemene raad stelt vast als het model voor de overeenkomst tussen de stichting derdengelden en de advocaat of zijn kantoor, het model in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=6&z=2025-01-01&g=2025-01-01).
 
@@ -686,19 +660,19 @@ De advocaat beschrijft, op grond van [artikel 6.4 van de Verordening](https://we
 
 #### Paragraaf 5.6. Beroepsaansprakelijkheid
 
-##### Artikel 35. Vrijwaring van beroepsaansprakelijkheid
+#### Artikel 35. Vrijwaring van beroepsaansprakelijkheid
 
 De algemene raad stelt als het model vrijwaringsovereenkomst beroepsaansprakelijkheid door de Staat vast, het model in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=7&z=2025-01-01&g=2025-01-01).
 
 #### Paragraaf 5.7. Registratie rechtsgebieden
 
-##### Artikel 35a. Registratie rechtsgebieden
+#### Artikel 35a. Registratie rechtsgebieden
 
 1. De advocaat registreert de rechtsgebieden, als bedoeld in [artikel 6.32, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=6.32), direct na het behalen van de bedoelde opleidingspunten, doch uiterlijk 1 maart na het kalenderjaar waarin de vereiste opleidingspunten zijn behaald.
 
 2. De advocaat maakt de registratie bekend, als bedoeld in [artikel 6.32, tweede lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=6.32), binnen een maand na zijn registratie.
 
-##### Artikel 35b. Modellen bekendmaking en lijst van rechtsgebieden
+#### Artikel 35b. Modellen bekendmaking en lijst van rechtsgebieden
 
 1. De algemene raad stelt vast als modellen voor het gemakkelijk fysiek of elektronisch toegankelijk bekendmaken, de modellen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=8&z=2025-01-01&g=2025-01-01).
 
@@ -706,19 +680,19 @@ De algemene raad stelt als het model vrijwaringsovereenkomst beroepsaansprakelij
 
 ### Hoofdstuk 6. Termijn herintreden na schrapping
 
-##### Artikel 36. Termijn herintreden na schrapping op grond van [artikel 8c, eerste lid, onderdeel c, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=8c)
+#### Artikel 36. Termijn herintreden na schrapping op grond van [artikel 8c, eerste lid, onderdeel c, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=8c)
 
 De algemene raad stelt de termijn, bedoeld in [artikel 4, eerste lid, aanhef en onderdeel c, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=4), op vijf jaar.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-##### Artikel 37. Inwerkingtredingsbepalingen
+#### Artikel 37. Inwerkingtredingsbepalingen
 
 1. De [Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981) treedt in werking met ingang van 1 januari 2015.
 
 2. Dit besluit treedt in werking met ingang van 1 januari 2015.
 
-##### Artikel 38. Citeertitel
+#### Artikel 38. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling op de advocatuur.
 
