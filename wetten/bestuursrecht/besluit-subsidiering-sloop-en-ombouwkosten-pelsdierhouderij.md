@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 25 oktober 2017, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw van nertsenhouderijen (Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij)"
+title: "Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij"
 identifier: "BWBR0040594"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-07-08"
-last_updated: "2021-07-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040594"
-soort: "AMvB"
-stam_id: "14533673"
-version_id: "24872422"
-internal_id: "C35636251"
-label_id: "14491324"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040594/2021-07-08/0"
-intitule_bron: "Stb.2018-19"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-10-25"
-intitule_published: "2018-02-07"
-intitule_in_force: "2018-02-27"
-intitule_status: "goed"
-original_publication: "Stb.2018-19"
-original_signed_date: "2017-10-25"
-original_published_date: "2018-02-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-19"
-entry_into_force_date: "2018-02-28"
-jci_1_3: "jci1.3:c:BWBR0040594&z=2021-07-08&g=2021-07-08"
-jci_1_0: "1.0:c:BWBR0040594&g=2021-07-08"
-citeertitel_status: "officieel"
-short_title: "Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij"
-signed_date: "2017-10-25"
-entry_into_force: "2018-02-28"
+categorie: "Overig"
+publicatiedatum: 2021-07-08
+laatste_update: 2021-07-08
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0040594"
 ---
+
 # Besluit van 25 oktober 2017, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw van nertsenhouderijen (Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij)
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -46,7 +20,7 @@ entry_into_force: "2018-02-28"
 
 ### Hoofdstuk 5. Wijziging [Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066)
 
-##### Artikel 16. Overgangsrecht
+#### Artikel 16. Overgangsrecht
 
 Op aanvragen om subsidie die zijn ingediend vóór het tijdstip van inwerkingtreding van een wijziging van dit besluit, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft dit besluit van toepassing zoals het luidde vóór dat tijdstip.
 
@@ -62,7 +36,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 20 oktober 
 
 Hebben goedgevonden en verstaan:
 
-##### Artikel 1. Definities
+#### Artikel 1. Definities
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -82,13 +56,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739).
 
-##### Artikel 2. Verstrekking subsidie
+#### Artikel 2. Verstrekking subsidie
 
 1. Onze Minister verstrekt op aanvraag, ten behoeve van de sloop van een nertsenhouderij, een subsidie per plaats.
 
 2. Een aanvrager komt slechts in aanmerking voor subsidie krachtens dit hoofdstuk indien hij op de plaats waarvoor hij subsidie aanvraagt, nertsen hield.
 
-##### Artikel 3. Hoogte subsidie
+#### Artikel 3. Hoogte subsidie
 
 1. De subsidie voor sloop bedraagt 100% van de gemaakte subsidiabele sloopkosten.
 
@@ -100,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De subsidie voor sloop bedraagt per onderneming als bedoeld in artikel 2, tweede lid, van [Verordening (EU) nr. 1408/2013](32013R1408) van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector (PbEU 2013, L 352/9) in elk geval niet meer dan een bij ministeriele regeling te bepalen bedrag.
 
-##### Artikel 4. Voor subsidie in aanmerking komende kosten
+#### Artikel 4. Voor subsidie in aanmerking komende kosten
 
 Als subsidiabele kosten voor sloop komen in aanmerking de kosten van:
 
@@ -126,7 +100,7 @@ Als subsidiabele kosten voor sloop komen in aanmerking de kosten van:
 
 - k. algemene kosten in verband met de sloop, zoals voor het inschakelen van architecten.
 
-##### Artikel 5. Niet voor subsidie in aanmerking komende kosten
+#### Artikel 5. Niet voor subsidie in aanmerking komende kosten
 
 Als subsidiabele kosten komen niet in aanmerking de kosten voor zover die verband houden met:
 
@@ -136,13 +110,13 @@ Als subsidiabele kosten komen niet in aanmerking de kosten voor zover die verban
 
 ### Hoofdstuk 3. Ombouw
 
-##### Artikel 6. Verstrekking subsidie
+#### Artikel 6. Verstrekking subsidie
 
 1. Onze Minister verstrekt op aanvraag, ten behoeve van de ombouw naar een nieuw landbouwbedrijf, of een nieuw bedrijf niet zijnde een landbouwbedrijf, een subsidie per plaats.
 
 2. Een aanvrager komt slechts in aanmerking voor subsidie krachtens dit hoofdstuk indien hij op de plaats waarvoor hij subsidie aanvraagt, nertsen hield en hij op dezelfde plaats waar de nertsenhouderij zich bevond de nertsenhouderij ombouwt naar een nieuw landbouwbedrijf, of naar een nieuw bedrijf niet zijnde een landbouwbedrijf.
 
-##### Artikel 7. Hoogte subsidie
+#### Artikel 7. Hoogte subsidie
 
 1. De subsidie voor ombouw bedraagt 40% van de gemaakte subsidiabele kosten.
 
@@ -150,7 +124,7 @@ Als subsidiabele kosten komen niet in aanmerking de kosten voor zover die verban
 
 3. Indien de aanvrager een grote onderneming heeft als bedoeld in onderdeel 97 van de richtsnoeren, en ombouwt naar een nieuw landbouwbedrijf, wordt de hoogte van de subsidie beperkt aan de hand van de berekening, bedoeld in de onderdelen 96 en 97 van de richtsnoeren.
 
-##### Artikel 8. Voor subsidie in aanmerking komende kosten
+#### Artikel 8. Voor subsidie in aanmerking komende kosten
 
 Als subsidiabele kosten voor ombouw komen in aanmerking de kosten ten behoeve van het nieuwe landbouwbedrijf, of het nieuwe bedrijf niet zijnde een landbouwbedrijf van:
 
@@ -164,7 +138,7 @@ Als subsidiabele kosten voor ombouw komen in aanmerking de kosten ten behoeve va
 
 - e. algemene kosten in verband met de ombouw, zoals voor het inschakelen van architecten.
 
-##### Artikel 9. Niet voor subsidie in aanmerking komende kosten
+#### Artikel 9. Niet voor subsidie in aanmerking komende kosten
 
 Als subsidiabele kosten komen niet in aanmerking, de kosten voor zover die verband houden met:
 
@@ -176,17 +150,17 @@ Als subsidiabele kosten komen niet in aanmerking, de kosten voor zover die verba
 
 - d. investeringen in verband met de productie van biobrandstoffen, de productie van energie uit hernieuwbare bronnen, of irrigatie.
 
-##### Artikel 10. De minimis
+#### Artikel 10. De minimis
 
 Er wordt geen subsidie krachtens dit hoofdstuk verleend voor de ombouw naar een nieuw bedrijf niet zijnde een landbouwbedrijf, voor zover de verlening in strijd is met het bepaalde in Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 VWEU van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352).
 
 ### Hoofdstuk 4. Bepalingen die van toepassing zijn op de subsidieverstrekking krachtens [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=2&z=2021-07-08&g=2021-07-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=3&z=2021-07-08&g=2021-07-08)
 
-##### Artikel 11. Maximumbedrag per plaats bij samenloop sloop en ombouw
+#### Artikel 11. Maximumbedrag per plaats bij samenloop sloop en ombouw
 
 De subsidies per plaats, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=2&artikel=3&z=2021-07-08&g=2021-07-08), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=3&artikel=7&z=2021-07-08&g=2021-07-08), bedragen tezamen ten hoogste een bij ministeriële regeling te bepalen bedrag.
 
-##### Artikel 12. Weigering subsidieverlening sloop en ombouw
+#### Artikel 12. Weigering subsidieverlening sloop en ombouw
 
 Geen subsidie wordt verleend:
 
@@ -208,11 +182,11 @@ Geen subsidie wordt verleend:
 
 - i. voor ombouw, indien voor de plaats reeds een ombouwsubsidie is aangevraagd.
 
-##### Artikel 13. Behandeling aanvragen
+#### Artikel 13. Behandeling aanvragen
 
 Onze Minister behandelt de aanvragen op volgorde van binnenkomst.
 
-##### Artikel 14. Verplichtingen subsidie-ontvanger
+#### Artikel 14. Verplichtingen subsidie-ontvanger
 
 1. De subsidieontvanger verleent aan de door Onze Minister aangewezen toezichthouders alle medewerking die redelijkerwijs gevergd kan worden bij de uitoefening van het toezicht op het bij of krachtens dit besluit bepaalde.
 
@@ -222,7 +196,7 @@ Onze Minister behandelt de aanvragen op volgorde van binnenkomst.
 
 4. De subsidieontvanger, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&hoofdstuk=3&z=2021-07-08&g=2021-07-08) van dit besluit, voert een afzonderlijke en gescheiden boekhouding tussen de voormalige nertsenhouderij enerzijds en het nieuw op te bouwen bedrijf anderzijds en bewaart deze boekhouding ten minste drie jaar.
 
-##### Artikel 15. [Kaderbesluit nationale EZK- en LNV- subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796) van toepassing
+#### Artikel 15. [Kaderbesluit nationale EZK- en LNV- subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796) van toepassing
 
 1. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=8), [10, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=11), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=27), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=46), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=48), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50) en [52 van het Kaderbesluit nationale EZK- en LNV- subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=52) zijn van overeenkomstige toepassing.
 
@@ -232,11 +206,11 @@ Onze Minister behandelt de aanvragen op volgorde van binnenkomst.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-##### Artikel 17. Horizonbepaling
+#### Artikel 17. Horizonbepaling
 
 Dit besluit vervalt vijf jaar na het tijdstip van inwerkingtreding van het Besluit van 25 juni 2021 tot wijziging van het Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij in verband met een vervroegde beëindiging van de pelsdierhouderij (Stb. 2021, 311), met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-##### Artikel 18. Citeertitel
+#### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij.
 

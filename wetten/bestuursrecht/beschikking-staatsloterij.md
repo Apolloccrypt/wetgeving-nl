@@ -1,53 +1,28 @@
 ---
 title: "Beschikking Staatsloterij"
 identifier: "BWBR0005544"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005544"
-soort: "ministeriele-regeling"
-stam_id: "4338573"
-version_id: "15155832"
-internal_id: "C20659791"
-label_id: "4317264"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005544/2022-01-01/0"
-intitule_bron: "Stcrt.1992-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-15"
-intitule_published: "1992-06-26"
-intitule_in_force: "1992-06-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-28"
-original_signed_date: "2008-01-25"
-original_published_date: "2008-02-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-28-p7-SC84411"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0005544&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0005544&g=2022-01-01"
-citeertitel_status: "officieel"
-signed_date: "2008-01-25"
-entry_into_force: "2008-02-01"
+categorie: "Overig"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0005544"
 ---
+
 # Beschikking Staatsloterij
 
 Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9) en [artikel 10 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=10):
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 Vervallen
 
-##### Artikel 2
+#### Artikel 2
 
 De vergunning tot het organiseren van de staatsloterij als bedoeld in [artikel 9, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9) (hierna: de wet) is voor onbepaalde tijd verleend aan Staatsloterij B.V., een besloten vennootschap naar Nederlands recht gevestigd te Den Haag met KvK-nummer 27139788 (hierna: de vergunninghouder).
 
-##### Artikel 3
+#### Artikel 3
 
 Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de staatsloterij inschakelt, hetzij direct, hetzij indirect.
 
@@ -127,83 +102,83 @@ Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghoud
 
 - 28. De vergunninghouder verstrekt uiterlijk vóór 1 april van elk jaar een overzicht van de maatregelen en voorzieningen die hij in het voorgaande kalenderjaar heeft getroffen om verslaving aan de staatsloterij zoveel mogelijk te voorkomen. De vergunninghouder voegt daarbij een rapportage over eventuele wijzigingen in het overzicht ten opzichte van het verstrekte overzicht van het jaar daarvoor, en, indien van toepassing, over het aantal interventies en maatregelen dat hij in het voorgaande kalenderjaar heeft ondernomen.
 
-##### Artikel 4
+#### Artikel 4
 
 Vervallen
 
-##### Artikel 5
+#### Artikel 5
 
 Vervallen
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 Vervallen
 
-##### Artikel 8
+#### Artikel 8
 
 Vervallen
 
-##### Artikel 9
+#### Artikel 9
 
 Vervallen
 
-##### Artikel 10
+#### Artikel 10
 
 Vervallen
 
-##### Artikel 11
+#### Artikel 11
 
 Vervallen
 
-##### Artikel 12
+#### Artikel 12
 
 Vervallen
 
-##### Artikel 13
+#### Artikel 13
 
 Vervallen
 
-##### Artikel 14
+#### Artikel 14
 
 Vervallen
 
-##### Artikel 15
+#### Artikel 15
 
 Vervallen
 
-##### Artikel 16
+#### Artikel 16
 
 Vervallen
 
-##### Artikel 17
+#### Artikel 17
 
 Vervallen
 
-##### Artikel 18
+#### Artikel 18
 
 Vervallen
 
-##### Artikel 19
+#### Artikel 19
 
 Vervallen
 
-##### Artikel 20
+#### Artikel 20
 
 Vervallen
 
-##### Artikel 21
+#### Artikel 21
 
 Vervallen
 
-##### Artikel 22
+#### Artikel 22
 
 Vervallen
 
-##### Artikel 23
+#### Artikel 23
 
 1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
 
