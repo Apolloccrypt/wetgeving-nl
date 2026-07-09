@@ -1,39 +1,13 @@
 ---
-title: "Besluit van 15 oktober 2018, houdende regels inzake de rechtspositie van staten- en commissieleden, gedeputeerden, commissarissen van de Koning, raads- en commissieleden, wethouders, burgemeesters en de leden van het algemeen bestuur en het dagelijks bestuur en de voorzitters van de waterschappen (Rechtspositiebesluit decentrale politieke ambtsdragers)"
+title: "Rechtspositiebesluit decentrale politieke ambtsdragers"
 identifier: "BWBR0041522"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041522"
-soort: "AMvB"
-stam_id: "14850753"
-version_id: "25389842"
-internal_id: "C36253171"
-label_id: "14804194"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041522/2026-01-01/0"
-intitule_bron: "Stb.2018-386"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-15"
-intitule_published: "2018-11-06"
-intitule_in_force: "2018-11-06"
-intitule_status: "goed"
-original_publication: "Stb.2018-386"
-original_signed_date: "2018-10-15"
-original_published_date: "2018-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2018-386"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041522&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0041522&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Rechtspositiebesluit decentrale politieke ambtsdragers"
-signed_date: "2018-10-15"
-entry_into_force: "2019-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0041522"
 ---
+
 # Besluit van 15 oktober 2018, houdende regels inzake de rechtspositie van staten- en commissieleden, gedeputeerden, commissarissen van de Koning, raads- en commissieleden, wethouders, burgemeesters en de leden van het algemeen bestuur en het dagelijks bestuur en de voorzitters van de waterschappen (Rechtspositiebesluit decentrale politieke ambtsdragers)
 
 ### Hoofdstuk 1. Algemeen
@@ -50,7 +24,7 @@ entry_into_force: "2019-01-01"
 
 #### Paragraaf 2. Vergoedingen en voorzieningen raadslid
 
-##### Artikel 3.1.6. Onkostenvergoeding
+#### Artikel 3.1.6. Onkostenvergoeding
 
 1. Een raadslid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van de gemeenteraad een onkostenvergoeding voor de aan de uitoefening van het raadlidmaatschap verbonden kosten van € 223,50 per maand.
 
@@ -58,7 +32,7 @@ entry_into_force: "2019-01-01"
 
 3. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 3.1.7. Reiskostenvergoeding
+#### Artikel 3.1.7. Reiskostenvergoeding
 
 1. Een raadslid heeft ten laste van de gemeente aanspraak op vergoeding van:
 
@@ -68,7 +42,7 @@ entry_into_force: "2019-01-01"
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 3.1.8. Loopbaanoriëntatie
+#### Artikel 3.1.8. Loopbaanoriëntatie
 
 1. De gemeenteraad van een gemeente die is ingedeeld in inwonersklasse 7, 8 of 9 kan bij verordening bepalen dat de kosten die raadsleden maken omdat zij zich tijdens het ambt oriënteren op hun verdere loopbaan of mobiliteit bevorderende activiteiten ontplooien, ten laste komen van de gemeente.
 
@@ -82,7 +56,7 @@ entry_into_force: "2019-01-01"
 
 3. Onze Minister kan over de in het eerste lid bedoelde loopbaanoriëntatie of mobiliteit bevorderende activiteiten nadere regels stellen.
 
-##### Artikel 3.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
+#### Artikel 3.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
 
 1. Het raadslid dat nog niet de pensioengerechtigde leeftijd als bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt, ontvangt per jaar ten laste van de gemeente een bedrag ter hoogte van het bedrag van de vergoeding van de werkzaamheden voor één maand, waarmee hij voorzieningen kan treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
 
@@ -92,7 +66,7 @@ entry_into_force: "2019-01-01"
 
 4. Dit artikel is niet van toepassing op een raadslid dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een raadslid wegens zwangerschap en bevalling of ziekte op grond van [artikel X 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_12).
 
-##### Artikel 3.1.10. Ziektekostenverzekering
+#### Artikel 3.1.10. Ziektekostenverzekering
 
 1. Een raadslid ontvangt ten laste van de gemeente een tegemoetkoming in de kosten van een ziektekostenverzekering van € 136,85 per jaar.
 
@@ -100,7 +74,7 @@ entry_into_force: "2019-01-01"
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 3.1.11. Samenloop met arbeidsongeschiktheidsuitkering
+#### Artikel 3.1.11. Samenloop met arbeidsongeschiktheidsuitkering
 
 In het geval een raadslid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), de toelage voor het lid van de vertrouwenscommissie, bedoeld in [artikel 3.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.2&z=2026-01-01&g=2026-01-01), de toelage voor het lid van de onderzoekscommissie, bedoeld in [artikel 3.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.3&z=2026-01-01&g=2026-01-01), de toelage voor het lid van een bijzondere commissie, bedoeld in [artikel 3.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.4&z=2026-01-01&g=2026-01-01), de toelage voor de vaste voorzitter van een commissie, bedoeld in [artikel 3.1.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.4a&z=2026-01-01&g=2026-01-01), of de toelage voor de fractievoorzitter, bedoeld in [artikel 3.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.5&z=2026-01-01&g=2026-01-01), op verzoek van het desbetreffende raadslid worden verlaagd.
 
@@ -128,7 +102,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-##### Artikel 1. Begripsomschrijvingen
+#### Artikel 1. Begripsomschrijvingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -142,7 +116,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 3.0. Algemeen
 
-##### Artikel 3.1. Begripsomschrijvingen
+#### Artikel 3.1. Begripsomschrijvingen
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -158,7 +132,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **commissielid:** lid van een commissie als bedoeld in de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=83) en [84 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=84), dat niet tevens raadslid is of ambtenaar die als zodanig tot lid van een commissie is benoemd.
 
-##### Artikel 3.2. Indeling gemeenten in inwonersklassen
+#### Artikel 3.2. Indeling gemeenten in inwonersklassen
 
 1. De gemeenten worden ingedeeld in inwonersklassen aan de hand van de volgende tabel:
 
@@ -176,7 +150,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Voor de toepassing van het eerste lid wordt onder het aantal inwoners verstaan het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfer per 1 januari.
 
-##### Artikel 3.3. Overgang naar andere inwonersklasse
+#### Artikel 3.3. Overgang naar andere inwonersklasse
 
 1. Een gemeente gaat voor de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2026-01-01&g=2026-01-01) in verband met de toeneming van het aantal inwoners over naar een hogere klasse met ingang van het jaar waarin op 1 januari het aantal inwoners van die gemeente de minimumgrens van de volgende klasse bereikt heeft en blijkt dat zij die grens ook heeft bereikt op:
 
@@ -190,7 +164,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voor de eerste indeling van een nieuw ingestelde gemeente vindt het derde lid overeenkomstige toepassing.
 
-##### Artikel 3.4. Opclassificatie
+#### Artikel 3.4. Opclassificatie
 
 1. Op grond van bijzondere omstandigheden kunnen gedeputeerde staten van de provincie waarin de betrokken gemeente ligt, de gemeenteraad gehoord, een gemeente voor de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2026-01-01&g=2026-01-01) voor een bepaald tijdvak in een hogere klasse plaatsen dan die waartoe zij op grond van haar aantal inwoners behoort.
 
@@ -198,7 +172,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Van het tot verhoging strekkende besluit doen gedeputeerde staten onmiddellijk schriftelijk mededeling aan Onze Minister.
 
-##### Artikel 3.5
+#### Artikel 3.5
 
 (leeg)
 
@@ -206,7 +180,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Beloning raadslid
 
-##### Artikel 3.1.1. Vergoeding voor de werkzaamheden
+#### Artikel 3.1.1. Vergoeding voor de werkzaamheden
 
 1. Een raadslid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van de gemeenteraad een vergoeding voor de werkzaamheden per maand die afhankelijk is van de inwonersklasse van de gemeente waarin hij raadslid is en wordt vastgesteld aan de hand van de volgende tabel.
 
@@ -229,7 +203,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 6. De gemeenteraad kan bij verordening bepalen dat ten hoogste 20% van de vergoeding voor de werkzaamheden wordt uitgekeerd, berekend naar het aantal gehouden vergaderingen. In dat geval geschiedt de uitkering aan het raadslid op basis van het aantal bijgewoonde vergaderingen.
 
-##### Artikel 3.1.2. Toelage lid vertrouwenscommissie
+#### Artikel 3.1.2. Toelage lid vertrouwenscommissie
 
 1. Aan een raadslid dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61), of [artikel 61a, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61a), wordt voor de duur van de activiteiten van die commissie per jaar ten laste van de gemeente een toelage verleend van € 153,33 per maand.
 
@@ -237,13 +211,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 3.1.3. Toelage lid onderzoekscommissie
+#### Artikel 3.1.3. Toelage lid onderzoekscommissie
 
 1. Aan een raadslid dat lid is van een onderzoekscommissie als bedoeld in [artikel 155a, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=155a) wordt voor de duur van de activiteiten van die commissie ten laste van de gemeente een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), bedraagt.
 
 2. Voor de toepassing van het eerste lid stelt de burgemeester de duur van de activiteiten vast.
 
-##### Artikel 3.1.4. Toelage lid bijzondere commissie
+#### Artikel 3.1.4. Toelage lid bijzondere commissie
 
 1. Indien de gemeenteraad besluit ter uitvoering van zijn taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een raadslid geacht kunnen worden te behoren, kan de gemeenteraad bij verordening besluiten aan de raadsleden die lid zijn van die commissie ten laste van de gemeente een toelage toe te kennen van maximaal € 153,33 per maand voor de duur van de activiteiten van de commissie per maand.
 
@@ -251,7 +225,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 3.1.5. Toelage fractievoorzitter
+#### Artikel 3.1.5. Toelage fractievoorzitter
 
 1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 89,46 per maand, vermeerderd met € 12,77 voor elk raadslid dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 191,67 per maand.
 
@@ -269,7 +243,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. Waarneming door statenlid
 
-##### Artikel 3.1.12. Waarneming voorzitter of burgemeester door raadslid
+#### Artikel 3.1.12. Waarneming voorzitter of burgemeester door raadslid
 
 1. Een raadslid dat op grond van [artikel 77, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) meer dan dertig dagen onafgebroken het voorzitterschap van de gemeenteraad waarneemt, ontvangt voor de duur van de waarneming een toeslag van 8% op zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01), alsmede een toeslag van 8% op de onkostenvergoeding, bedoeld in [artikel 3.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2026-01-01&g=2026-01-01).
 
@@ -283,7 +257,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 4. Tijdelijk ontslagen statenlid
 
-##### Artikel 3.1.13. Vergoeding voor werkzaamheden en onkostenvergoeding
+#### Artikel 3.1.13. Vergoeding voor werkzaamheden en onkostenvergoeding
 
 1. [Artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op het raadslid aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10)tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door de gemeenteraad toepassing is gegeven aan artikel 3.1.1, vijfde lid, dit raadslid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
 
@@ -295,7 +269,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Beloning commissaris en gedeputeerde
 
-##### Artikel 3.2.1. Bezoldiging en uitkeringen
+#### Artikel 3.2.1. Bezoldiging en uitkeringen
 
 1. De bezoldiging van de burgemeester is afhankelijk van de inwonersklasse waarin de gemeente, waarin hij burgemeester is, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2026-01-01&g=2026-01-01), is ingedeeld en wordt vastgesteld aan de hand van de volgende tabel:
 
@@ -349,11 +323,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 14. De burgemeester ontvangt ter aanvulling van de eindejaarsuitkering, bedoeld in het twaalfde lid, jaarlijks een bedrag van € 450, met dien verstande dat, indien de eindejaarsuitkering over minder dan twaalf maanden is opgebouwd, dit bedrag naar evenredigheid wordt verminderd.
 
-##### Artikel 3.2.2. Waarneming burgemeester door wethouder
+#### Artikel 3.2.2. Waarneming burgemeester door wethouder
 
 Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van burgemeester is belast, wordt zijn bezoldiging voor die tijd ten laste van de gemeente aangevuld tot het bedrag waarop de bezoldiging van de burgemeester ingevolge [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2026-01-01&g=2026-01-01) is vastgesteld.
 
-##### Artikel 3.2.3. Neveninkomsten
+#### Artikel 3.2.3. Neveninkomsten
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -381,7 +355,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 8. Op verzoek van de burgemeester of de wethouder kan het college van burgemeester en wethouders besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.
 
-##### Artikel 3.2.4. Uitkering bij overlijden
+#### Artikel 3.2.4. Uitkering bij overlijden
 
 1. In het geval van overlijden van de burgemeester of de wethouder wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 3.2.1, eerste of tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2026-01-01&g=2026-01-01), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
 
@@ -389,7 +363,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 3. Indien voor de overledene een tijdsbestedingsnorm als bedoeld in [artikel 36, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36) was vastgesteld, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van die tijdsbestedingsnorm uitgekeerd.
 
-##### Artikel 3.2.5. Mobiliteitstoelage burgemeester
+#### Artikel 3.2.5. Mobiliteitstoelage burgemeester
 
 1. Een burgemeester die, nadat hij ten minste twee ambtstermijnen heeft vervuld in dezelfde gemeente, benoemd wordt tot burgemeester van een andere gemeente, ontvangt, indien die andere gemeente in een gelijke inwonersklasse is ingedeeld, ten laste van die andere gemeente eenmalig een mobiliteitstoelage op de bezoldiging van € 12.700,20.
 
@@ -399,7 +373,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 #### Paragraaf 2. Vergoedingen en voorzieningen commissaris en gedeputeerde
 
-##### Artikel 3.2.6. Ambtskosten
+#### Artikel 3.2.6. Ambtskosten
 
 1. De burgemeester ontvangt een vergoeding van € 507,99 per maand voor aan de uitoefening van het ambt verbonden kosten. De burgemeester van meer dan een gemeente ontvangt deze vergoeding van elke van die gemeenten.
 
@@ -411,7 +385,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 5. De bedragen, genoemd in het eerste en tweede lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 3.2.7. Kosten in verband met verhuizing
+#### Artikel 3.2.7. Kosten in verband met verhuizing
 
 1. Indien de burgemeester of de wethouder bij zijn benoeming zijn werkelijke woonplaats nog niet heeft in de gemeente, heeft hij ten laste van de gemeente eenmalig aanspraak op een vergoeding van verhuiskosten bij verhuizing in verband met zijn benoeming naar de gemeente.
 
@@ -429,7 +403,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 6. Onze Minister stelt bij ministeriële regeling nadere regels over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 3.2.8. Ter beschikking gestelde woning
+#### Artikel 3.2.8. Ter beschikking gestelde woning
 
 1. De burgemeester of de wethouder betaalt voor het bewonen van een door de gemeente aan hem in verband met de uitoefening van zijn ambt ter beschikking gestelde woning een eigen bijdrage per maand aan de gemeente.
 
@@ -439,7 +413,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 4. Bij ministeriële regeling worden regels gesteld met betrekking tot de hoogte van de eigen bijdrage, bedoeld in het eerste lid, en kunnen regels worden gesteld met betrekking tot het gebruik van een ter beschikking gestelde woning.
 
-##### Artikel 3.2.9. Woon-werkverkeer en reis- en verblijfkosten
+#### Artikel 3.2.9. Woon-werkverkeer en reis- en verblijfkosten
 
 1. De burgemeester en de wethouder hebben ten laste van de gemeente aanspraak op vergoeding van:
 
@@ -449,7 +423,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 2. Onze Minister stelt nadere regels over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 3.2.10. Ter beschikking gestelde auto
+#### Artikel 3.2.10. Ter beschikking gestelde auto
 
 1. Het college van burgemeester en wethouders kan aan de burgemeester of de wethouder ten laste van de gemeente een auto ter beschikking stellen, daaronder begrepen een auto voor gemeenschappelijk gebruik of een auto op afroep van een daartoe door de gemeente gecontracteerde vervoerder.
 
@@ -473,7 +447,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 11. Onze Minister stelt nadere regels over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan, alsmede over de hoogte van de eigen bijdrage, bedoeld in het achtste lid.
 
-##### Artikel 3.2.11. Loopbaanoriëntatie
+#### Artikel 3.2.11. Loopbaanoriëntatie
 
 1. De kosten die de burgemeester of de wethouder maakt omdat hij zich tijdens het ambt oriënteert op zijn verdere loopbaan of mobiliteit bevorderende activiteiten ontplooit, komen ten laste van de gemeente, op voorwaarde dat het college van burgemeester en wethouders van oordeel is dat:
 
@@ -487,7 +461,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 3. Onze Minister kan met betrekking tot het eerste en tweede lid nadere regels stellen.
 
-##### Artikel 3.2.12. Terugkeer wegens dringende redenen
+#### Artikel 3.2.12. Terugkeer wegens dringende redenen
 
 1. Indien er sprake is van een dringende reden van dienstbelang en de burgemeester of de wethouder die buiten de gemeente verblijft, zou schade lijden als hij direct terugkeert naar de gemeente, legt hij zijn voornemen om vanwege deze reden terug te keren naar zijn gemeente voor aan de commissaris onderscheidenlijk de burgemeester.
 
@@ -495,19 +469,19 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 3. De schadeloosstelling betreft uitsluitend de direct uit de terugkeer voortvloeiende kosten van de burgemeester of de wethouder. Het college van burgemeester en wethouders stelt de hoogte van de schadeloosstelling vast.
 
-##### Artikel 3.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
+#### Artikel 3.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
 
 De wethouder aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 45, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=45) verlof is verleend, ontvangt in afwijking van [artikel 3.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2026-01-01&g=2026-01-01), een vergoeding voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
 
 #### Paragraaf 3. Overige bepalingen
 
-##### Artikel 3.2.14. Vergoeding bij waarneming van de burgemeester
+#### Artikel 3.2.14. Vergoeding bij waarneming van de burgemeester
 
 1. Op degene die op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) onafgebroken met de waarneming van het ambt van burgemeester is belast, zijn voor die tijd de bepalingen in deze afdeling en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2026-01-01&g=2026-01-01), voor zover die betrekking hebben op de rechtspositie van de burgemeester, van overeenkomstige toepassing, met uitzondering van de [artikelen 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.3&z=2026-01-01&g=2026-01-01), [3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.5&z=2026-01-01&g=2026-01-01), [3.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2026-01-01&g=2026-01-01), [3.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.17&z=2026-01-01&g=2026-01-01), [3.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.18&z=2026-01-01&g=2026-01-01) en [3.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.19&z=2026-01-01&g=2026-01-01).
 
 2. Indien een waarnemend burgemeester, aangewezen op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78), tevens burgemeester is van een andere gemeente, kan in afwijking van [artikel 3.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.16&z=2026-01-01&g=2026-01-01) de verhouding waarin de bezoldiging en de overige financiële aanspraken op grond van [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&z=2026-01-01&g=2026-01-01) ten laste van de gemeenten komen, door Onze Minister worden vastgesteld.
 
-##### Artikel 3.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger wethouder
+#### Artikel 3.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger wethouder
 
 1. De tijdelijke vervanger van de wethouder die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden per maand een bedrag dat afhankelijk is van de inwonersklasse van de gemeente waarin hij wethouder is en wordt vastgesteld aan de hand van de volgende tabel:
 
@@ -525,7 +499,7 @@ De wethouder aan wie in verband met zwangerschap en bevalling of ziekte op grond
 
 2. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, worden in het eerste lid de in de tabel genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 3.2.16. Verdeling lasten over meerdere gemeenten
+#### Artikel 3.2.16. Verdeling lasten over meerdere gemeenten
 
 Wanneer dezelfde persoon burgemeester is van meer dan één gemeente, komen:
 
@@ -533,11 +507,11 @@ Wanneer dezelfde persoon burgemeester is van meer dan één gemeente, komen:
 
 - b. de vergoeding voor aan de uitoefening van het ambt verbonden kosten, bedoeld in [artikel 3.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2026-01-01&g=2026-01-01), en overige financiële aanspraken en voorzieningen op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&z=2026-01-01&g=2026-01-01) van deze afdeling en van [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2026-01-01&g=2026-01-01) in gelijke mate ten laste van elke gemeente, tenzij die kunnen worden toegerekend aan de uitoefening van het ambt in een van de gemeenten, in welk geval zij ten laste komen van die gemeente.
 
-##### Artikel 3.2.17. Kennisgeving bij afwezigheid
+#### Artikel 3.2.17. Kennisgeving bij afwezigheid
 
 Indien de burgemeester langer dan acht dagen wegens ziekte of om andere redenen zijn ambt niet kan vervullen, geeft hij daarvan kennis aan de commissaris.
 
-##### Artikel 3.2.18. Schorsing
+#### Artikel 3.2.18. Schorsing
 
 1. Een besluit tot schorsing als bedoeld in [artikel 62, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=62) bevat in ieder geval een aanduiding van het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
@@ -545,7 +519,7 @@ Indien de burgemeester langer dan acht dagen wegens ziekte of om andere redenen 
 
 3. Gedurende een schorsing is het de burgemeester als zodanig niet toegestaan de gemeentelijke dienstgebouwen te betreden.
 
-##### Artikel 3.2.19. Ontslag
+#### Artikel 3.2.19. Ontslag
 
 1. De burgemeester wordt op zijn verzoek ontslagen of na afloop van de benoemingstermijn niet herbenoemd. Het ontslag wordt eervol verleend, tenzij naar het oordeel van Onze Minister zwaarwichtige redenen zich daartegen verzetten.
 
@@ -575,17 +549,17 @@ Indien de burgemeester langer dan acht dagen wegens ziekte of om andere redenen 
 
 ### Afdeling 2.3. Gemeenschappelijke bepalingen
 
-##### Artikel 3.3.1. Bewaken en beveiligen
+#### Artikel 3.3.1. Bewaken en beveiligen
 
 1. Indien het college van burgemeester en wethouders ten behoeve van een raadslid, een wethouder of de burgemeester kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van de gemeente.
 
 2. Onze Minister kan regels stellen met betrekking tot het treffen van andere voorzieningen ten behoeve van een veilige woon- en werkplek van een raadslid, een wethouder of de burgemeester dan die welke op grond van het eerste lid ten laste van de gemeente komen.
 
-##### Artikel 3.3.2. Informatie- en communicatievoorzieningen
+#### Artikel 3.3.2. Informatie- en communicatievoorzieningen
 
 Het college van burgemeester en wethouders stelt ten laste van de gemeente aan een raadslid, een wethouder of de burgemeester voor de duur van de uitoefening van zijn functie informatie- en communicatievoorzieningen ter beschikking. Onder informatie- en communicatievoorzieningen wordt ook verstaan de daarbij behorende abonnementen.
 
-##### Artikel 3.3.3. Vergoeding kosten scholing
+#### Artikel 3.3.3. Vergoeding kosten scholing
 
 1. De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van raadslid, wethouder of burgemeester komen ten laste van de gemeente, op voorwaarde dat het college van burgemeester en wethouders van oordeel is dat de prijs/kwaliteitverhouding van de desbetreffende scholing redelijk is en de kosten ervan niet reeds uit anderen hoofde voor vergoeding in aanmerking komen.
 
@@ -593,15 +567,15 @@ Het college van burgemeester en wethouders stelt ten laste van de gemeente aan e
 
 3. Onder de kosten, bedoeld in het eerste lid, worden mede begrepen reiskosten voor het volgen van de scholing. De reiskosten worden berekend met overeenkomstige toepassing van de nadere regels op grond van [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.7&z=2026-01-01&g=2026-01-01) onderscheidenlijk [3.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 3.3.4. Beroepsvereniging
+#### Artikel 3.3.4. Beroepsvereniging
 
 Indien een raadslid, een wethouder of de burgemeester als zodanig lid is van een voor ieder raadslid, iedere wethouder of iedere burgemeester toegankelijke, landelijk georganiseerde beroepsvereniging die blijkens haar statuten deskundigheidsbevordering of belangenbehartiging van de functie van raadslid, wethouder of burgemeester ten doel heeft of mede ten doel heeft, wordt de contributie van die beroepsvereniging ten laste van de gemeente vergoed, tenzij het college van burgemeester en wethouders van oordeel is dat de activiteiten van de vereniging onvoldoende invulling geven aan het in de eerste volzin bedoelde doel.
 
-##### Artikel 3.3.5. Bedrijfsgeneeskundige zorg
+#### Artikel 3.3.5. Bedrijfsgeneeskundige zorg
 
 Het college van burgemeester en wethouders treft ten laste van de gemeente een voorziening voor bedrijfsgeneeskundige zorg voor de raadsleden, de wethouders en de burgemeester.
 
-##### Artikel 3.3.6. Voorzieningen in verband met beroepsziekte of een dienstongeval
+#### Artikel 3.3.6. Voorzieningen in verband met beroepsziekte of een dienstongeval
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -621,7 +595,7 @@ Het college van burgemeester en wethouders treft ten laste van de gemeente een v
 
 5. Als de schade van de beroepsziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden of ontslag, is dit artikel van overeenkomstige toepassing op het gewezen raadslid, de gewezen wethouder of de gewezen burgemeester.
 
-##### Artikel 3.3.7. Voorzieningen in verband met een structurele functionele beperking
+#### Artikel 3.3.7. Voorzieningen in verband met een structurele functionele beperking
 
 1. Indien een raadslid, een wethouder of de burgemeester naar het oordeel van een arts een structurele functionele beperking heeft, kan het college van burgemeester en wethouders hem op zijn aanvraag ten laste van de gemeente voorzieningen toekennen, die strekken tot het kunnen blijven uitoefenen van het ambt of tot herstel of bevordering van de mogelijkheid om het ambt weer te gaan uitoefenen dan wel een financiële vergoeding daarvoor.
 
@@ -631,7 +605,7 @@ Het college van burgemeester en wethouders treft ten laste van de gemeente een v
 
 4. De regels, gesteld krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) zijn van overeenkomstige toepassing.
 
-##### Artikel 3.3.8. Eindheffingsbestanddelen
+#### Artikel 3.3.8. Eindheffingsbestanddelen
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
@@ -665,7 +639,7 @@ Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f,
 
 ### Afdeling 2.4. Commissieleden
 
-##### Artikel 3.4.1. Vergoeding voor het bijwonen van de vergaderingen
+#### Artikel 3.4.1. Vergoeding voor het bijwonen van de vergaderingen
 
 1. Aan een commissielid wordt per bijgewoonde vergadering van de commissie ten laste van de gemeente een vergoeding toegekend die afhankelijk is van het aantal inwoners van de gemeente, en wordt vastgesteld aan de hand van de volgende tabel:
 
@@ -682,7 +656,7 @@ Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f,
 
 3. De bedragen, genoemd in het eerste lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 3.4.2. Hogere vergoeding
+#### Artikel 3.4.2. Hogere vergoeding
 
 De gemeenteraad kan bij verordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de vergoeding, bedoeld in [artikel 3.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2026-01-01&g=2026-01-01), ten aanzien van:
 
@@ -690,7 +664,7 @@ De gemeenteraad kan bij verordening bepalen dat de vergoeding voor het bijwonen 
 
 - b. een commissielid ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid.
 
-##### Artikel 3.4.3. Reiskostenvergoeding
+#### Artikel 3.4.3. Reiskostenvergoeding
 
 1. Een commissielid heeft ten laste van de gemeente aanspraak op vergoeding van:
 
@@ -700,7 +674,7 @@ De gemeenteraad kan bij verordening bepalen dat de vergoeding voor het bijwonen 
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 3.4.4. Overige vergoedingen en voorzieningen
+#### Artikel 3.4.4. Overige vergoedingen en voorzieningen
 
 Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.11&z=2026-01-01&g=2026-01-01), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.1&z=2026-01-01&g=2026-01-01), [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2026-01-01&g=2026-01-01), [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.3&z=2026-01-01&g=2026-01-01), [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.4&z=2026-01-01&g=2026-01-01), [3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.6&z=2026-01-01&g=2026-01-01), [3.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.7&z=2026-01-01&g=2026-01-01) en [3.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.8&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -708,7 +682,7 @@ Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overh
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-##### Artikel 5.1. Overgangsbepalingen
+#### Artikel 5.1. Overgangsbepalingen
 
 1. De bedragen, genoemd in de [artikelen 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01), en [2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2026-01-01&g=2026-01-01), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
 
@@ -748,7 +722,7 @@ Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overh
 
 19. De bedragen, genoemd in de [artikelen 4.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2026-01-01&g=2026-01-01), en [4.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2026-01-01&g=2026-01-01), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
 
-##### Artikel 5.2. Intrekken en vervallen rechtspositiebesluiten
+#### Artikel 5.2. Intrekken en vervallen rechtspositiebesluiten
 
 1. Het [Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534) wordt ingetrokken.
 
@@ -770,7 +744,7 @@ Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overh
 
 9. [Hoofdstuk 3 van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3) vervalt.
 
-##### Artikel 5.3. Inwerkingtreding
+#### Artikel 5.3. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2019.
 
@@ -780,13 +754,13 @@ Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overh
 
 4. [Artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.9&z=2026-01-01&g=2026-01-01) werkt terug tot en met 29 maart 2018.
 
-##### Artikel 5.4. Citeertitel
+#### Artikel 5.4. Citeertitel
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit decentrale politieke ambtsdragers.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 2.1. Begripsomschrijvingen
+#### Artikel 2.1. Begripsomschrijvingen
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -802,19 +776,19 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **commissaris:** commissaris van de Koning.
 
-##### Artikel 2.2
+#### Artikel 2.2
 
 (leeg)
 
-##### Artikel 2.3
+#### Artikel 2.3
 
 (leeg)
 
-##### Artikel 2.4
+#### Artikel 2.4
 
 (leeg)
 
-##### Artikel 2.5
+#### Artikel 2.5
 
 (leeg)
 
@@ -822,7 +796,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Beloning statenlid
 
-##### Artikel 2.1.1. Vergoeding voor de werkzaamheden
+#### Artikel 2.1.1. Vergoeding voor de werkzaamheden
 
 1. Een statenlid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van provinciale staten een vergoeding voor de werkzaamheden van € 2.256,23 per maand.
 
@@ -832,7 +806,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Provinciale staten kunnen bij verordening bepalen dat ten hoogste 20% van de vergoeding voor de werkzaamheden wordt uitgekeerd, berekend naar het aantal gehouden vergaderingen. In dat geval geschiedt de uitkering aan het statenlid op basis van het aantal bijgewoonde vergaderingen.
 
-##### Artikel 2.1.2. Toelage lid vertrouwenscommissie
+#### Artikel 2.1.2. Toelage lid vertrouwenscommissie
 
 1. Aan een statenlid dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=61), of [artikel 61a, vierde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=61a), wordt voor de duur van de activiteiten van die commissie per jaar ten laste van de provincie een toelage verleend van € 153,33 per maand.
 
@@ -840,13 +814,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 2.1.3. Toelage lid onderzoekscommissie
+#### Artikel 2.1.3. Toelage lid onderzoekscommissie
 
 1. Aan een statenlid dat lid is van een onderzoekscommissie als bedoeld in [artikel 151a, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=151a) wordt voor de duur van de activiteiten van die commissie ten laste van de provincie een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01), bedraagt.
 
 2. Voor de toepassing van het eerste lid stelt de commissaris de duur van de activiteiten vast.
 
-##### Artikel 2.1.4. Toelage lid bijzondere commissie
+#### Artikel 2.1.4. Toelage lid bijzondere commissie
 
 1. Indien provinciale staten besluiten ter uitvoering van hun taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een statenlid geacht kunnen worden te behoren, kunnen zij bij verordening besluiten aan de statenleden die lid zijn van die commissie ten laste van de provincie een toelage toe te kennen van maximaal € 153,33 per maand voor de duur van de activiteiten van de commissie per maand.
 
@@ -854,7 +828,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 2.1.5. Toelage fractievoorzitter
+#### Artikel 2.1.5. Toelage fractievoorzitter
 
 1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 89,46 per maand, vermeerderd met € 12,77 voor elk statenlid dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 191,67 per maand.
 
@@ -870,7 +844,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Vergoedingen en voorzieningen statenlid
 
-##### Artikel 2.1.6. Onkostenvergoeding
+#### Artikel 2.1.6. Onkostenvergoeding
 
 1. Een statenlid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van provinciale staten een onkostenvergoeding voor de aan de uitoefening van het statenlidmaatschap verbonden kosten van € 223,50 per maand.
 
@@ -878,7 +852,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 2.1.7. Reiskostenvergoeding
+#### Artikel 2.1.7. Reiskostenvergoeding
 
 1. Een statenlid heeft ten laste van de provincie aanspraak op vergoeding van:
 
@@ -888,11 +862,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 2.1.8
+#### Artikel 2.1.8
 
 (leeg)
 
-##### Artikel 2.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
+#### Artikel 2.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
 
 1. Het statenlid dat nog niet de pensioengerechtigde leeftijd als bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt, ontvangt per jaar ten laste van de provincie een bedrag ter hoogte van het bedrag van de vergoeding van de werkzaamheden voor één maand, om voorzieningen te treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
 
@@ -902,7 +876,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Dit artikel is niet van toepassing op een statenlid dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een statenlid wegens zwangerschap en bevalling of ziekte op grond van [artikel X 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_12).
 
-##### Artikel 2.1.10. Ziektekostenverzekering
+#### Artikel 2.1.10. Ziektekostenverzekering
 
 1. Een statenlid ontvangt ten laste van de provincie een tegemoetkoming in de kosten van een ziektekostenverzekering van € 136,85 per jaar.
 
@@ -910,13 +884,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 2.1.11. Samenloop met arbeidsongeschiktheidsuitkering
+#### Artikel 2.1.11. Samenloop met arbeidsongeschiktheidsuitkering
 
 In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01), de toelage voor het lid van de vertrouwenscommissie, bedoeld in [artikel 2.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.2&z=2026-01-01&g=2026-01-01), de toelage voor het lid van de onderzoekscommissie, bedoeld in [artikel 2.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.3&z=2026-01-01&g=2026-01-01), de toelage voor het lid van een bijzondere commissie, bedoeld in [artikel 2.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01), de toelage voor de vaste voorzitter van een commissie, bedoeld in [artikel 2.1.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.4a&z=2026-01-01&g=2026-01-01), of de toelage voor de fractievoorzitter, bedoeld in [artikel 2.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.5&z=2026-01-01&g=2026-01-01), op verzoek van het desbetreffende statenlid worden verlaagd.
 
 #### Paragraaf 3. Waarneming door statenlid
 
-##### Artikel 2.1.12. Waarneming voorzitter of commissaris door statenlid
+#### Artikel 2.1.12. Waarneming voorzitter of commissaris door statenlid
 
 1. Een statenlid dat op grond van [artikel 75, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=75) meer dan dertig dagen onafgebroken het voorzitterschap van provinciale staten waarneemt, ontvangt voor de duur van de waarneming een toeslag van 8% op zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01), alsmede een toeslag van 8% op de onkostenvergoeding, bedoeld in [artikel 2.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2026-01-01&g=2026-01-01).
 
@@ -930,7 +904,7 @@ In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke 
 
 #### Paragraaf 4. Tijdelijk ontslagen statenlid
 
-##### Artikel 2.1.13. Vergoeding voor werkzaamheden en onkostenvergoeding
+#### Artikel 2.1.13. Vergoeding voor werkzaamheden en onkostenvergoeding
 
 1. [Artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op het statenlid aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door provinciale staten toepassing is gegeven aan artikel 2.1.1, vierde lid, dit statenlid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
 
@@ -942,7 +916,7 @@ In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke 
 
 #### Paragraaf 1. Beloning commissaris en gedeputeerde
 
-##### Artikel 2.2.1. Bezoldiging en uitkeringen
+#### Artikel 2.2.1. Bezoldiging en uitkeringen
 
 1. De bezoldiging van de commissaris bedraagt € 14.760,00 per maand.
 
@@ -962,11 +936,11 @@ In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke 
 
 9. Indien de gedeputeerde gedurende een tijdvak als bedoeld in [artikel 35c, tweede lid, onder a of b, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35c) tevens statenlid is, vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 2.2.2. Waarneming commissaris door gedeputeerde
+#### Artikel 2.2.2. Waarneming commissaris door gedeputeerde
 
 Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van commissaris is belast, wordt zijn bezoldiging voor die tijd ten laste van de provincie aangevuld tot het bedrag, genoemd in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 2.2.3. Neveninkomsten
+#### Artikel 2.2.3. Neveninkomsten
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -994,7 +968,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 8. Op verzoek van de commissaris of de gedeputeerde kunnen gedeputeerde staten besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.
 
-##### Artikel 2.2.4. Uitkering bij overlijden
+#### Artikel 2.2.4. Uitkering bij overlijden
 
 1. In het geval van overlijden van de commissaris of de gedeputeerde wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2026-01-01&g=2026-01-01), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
 
@@ -1002,13 +976,13 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 3. Indien voor de overledene een tijdsbestedingsnorm als bedoeld in [artikel 35a, vierde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35a) was vastgesteld, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van die tijdsbestedingsnorm uitgekeerd.
 
-##### Artikel 2.2.5
+#### Artikel 2.2.5
 
 (leeg)
 
 #### Paragraaf 2. Vergoedingen en voorzieningen commissaris en gedeputeerde
 
-##### Artikel 2.2.6. Ambtskosten
+#### Artikel 2.2.6. Ambtskosten
 
 1. De commissaris ontvangt per maand voor aan de uitoefening van het ambt verbonden kosten:
 
@@ -1028,7 +1002,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 5. De bedragen, genoemd in het eerste en tweede lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 2.2.7. Kosten in verband met verhuizing
+#### Artikel 2.2.7. Kosten in verband met verhuizing
 
 1. Indien de commissaris of de gedeputeerde bij zijn benoeming zijn werkelijke woonplaats nog niet heeft in de provincie, heeft hij ten laste van de provincie eenmalig aanspraak op een vergoeding van verhuiskosten bij verhuizing in verband met zijn benoeming naar de provincie.
 
@@ -1046,7 +1020,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 6. Onze Minister stelt bij ministeriële regeling nadere regels over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 2.2.8. Ter beschikking gestelde woning
+#### Artikel 2.2.8. Ter beschikking gestelde woning
 
 1. De commissaris of de gedeputeerde betaalt voor het bewonen van een door de provincie aan hem in verband met de uitoefening van zijn ambt ter beschikking gestelde woning een eigen bijdrage per maand aan de provincie.
 
@@ -1056,7 +1030,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 4. Bij ministeriële regeling worden regels gesteld met betrekking tot de hoogte van de eigen bijdrage, bedoeld in het eerste lid, en kunnen regels worden gesteld met betrekking tot het gebruik van een ter beschikking gestelde woning.
 
-##### Artikel 2.2.9. Woon-werkverkeer en reis- en verblijfkosten
+#### Artikel 2.2.9. Woon-werkverkeer en reis- en verblijfkosten
 
 1. De commissaris en de gedeputeerde hebben ten laste van de provincie aanspraak op vergoeding van:
 
@@ -1066,7 +1040,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 2. Onze Minister stelt nadere regels over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 2.2.10. Ter beschikking gestelde auto
+#### Artikel 2.2.10. Ter beschikking gestelde auto
 
 1. Gedeputeerde staten kunnen aan de commissaris of de gedeputeerde ten laste van de provincie een auto ter beschikking stellen, daaronder begrepen een auto voor gemeenschappelijk gebruik of een auto op afroep van een daartoe door de provincie gecontracteerde vervoerder.
 
@@ -1090,7 +1064,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 11. Onze Minister stelt nadere regels over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan, alsmede over de hoogte van de eigen bijdrage, bedoeld in het achtste lid.
 
-##### Artikel 2.2.11. Loopbaanoriëntatie
+#### Artikel 2.2.11. Loopbaanoriëntatie
 
 1. De kosten die de commissaris of gedeputeerde maakt omdat hij zich tijdens het ambt oriënteert op zijn verdere loopbaan of mobiliteit bevorderende activiteiten ontplooit, komen ten laste van de provincie, op voorwaarde dat gedeputeerde staten van oordeel zijn dat:
 
@@ -1102,7 +1076,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 2. Onze Minister kan over de in het eerste lid bedoelde loopbaanoriëntatie of mobiliteit bevorderende activiteiten nadere regels stellen.
 
-##### Artikel 2.2.12. Terugkeer wegens dringende redenen
+#### Artikel 2.2.12. Terugkeer wegens dringende redenen
 
 1. Indien er sprake is van een dringende reden van dienstbelang en de commissaris of de gedeputeerde die buiten de provincie verblijft, zou schade lijden als hij direct terugkeert naar de provincie, legt hij zijn voornemen om vanwege deze reden terug te keren naar zijn provincie voor aan Onze Minister onderscheidenlijk de commissaris.
 
@@ -1110,17 +1084,17 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 3. De schadeloosstelling betreft uitsluitend de direct uit de terugkeer voortvloeiende kosten van de commissaris of de gedeputeerde. Gedeputeerde staten stellen de hoogte van de schadeloosstelling vast.
 
-##### Artikel 2.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
+#### Artikel 2.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
 
 De gedeputeerde aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 44, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=44) verlof is verleend, ontvangt in afwijking van [artikel 2.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2026-01-01&g=2026-01-01), een vergoeding voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
 
 #### Paragraaf 3. Overige bepalingen
 
-##### Artikel 2.2.14. Vergoeding bij waarneming van de commissaris
+#### Artikel 2.2.14. Vergoeding bij waarneming van de commissaris
 
 Op degene die op grond van [artikel 76 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=76) met de waarneming van het ambt van commissaris is belast, zijn voor die tijd de bepalingen in deze afdeling en [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2026-01-01&g=2026-01-01), voor zover die betrekking hebben op de rechtspositie van de commissaris, van overeenkomstige toepassing, met uitzondering van de [artikelen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.3&z=2026-01-01&g=2026-01-01), [2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2026-01-01&g=2026-01-01), [2.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.17&z=2026-01-01&g=2026-01-01), [2.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.18&z=2026-01-01&g=2026-01-01) en [2.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.19&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 2.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger gedeputeerde
+#### Artikel 2.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger gedeputeerde
 
 1. De tijdelijke vervanger van de gedeputeerde die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden € 753,94 per maand.
 
@@ -1128,15 +1102,15 @@ Op degene die op grond van [artikel 76 van de Provinciewet](https://wetten.overh
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 2.2.16
+#### Artikel 2.2.16
 
 (leeg)
 
-##### Artikel 2.2.17. Kennisgeving bij afwezigheid
+#### Artikel 2.2.17. Kennisgeving bij afwezigheid
 
 Indien de commissaris langer dan acht dagen wegens ziekte of om andere redenen zijn ambt niet kan vervullen, geeft hij daarvan kennis aan Onze Minister.
 
-##### Artikel 2.2.18. Schorsing
+#### Artikel 2.2.18. Schorsing
 
 1. Een besluit tot schorsing als bedoeld in [artikel 62, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=62) bevat in ieder geval een aanduiding van het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
@@ -1144,7 +1118,7 @@ Indien de commissaris langer dan acht dagen wegens ziekte of om andere redenen z
 
 3. Gedurende een schorsing is het de commissaris als zodanig niet toegestaan de provinciale dienstgebouwen te betreden.
 
-##### Artikel 2.2.19. Ontslag
+#### Artikel 2.2.19. Ontslag
 
 1. De commissaris wordt op zijn aanvraag ontslagen of na afloop van de benoemingstermijn niet herbenoemd. Het ontslag wordt eervol verleend, tenzij naar het oordeel van Onze Minister zwaarwichtige redenen zich daartegen verzetten.
 
@@ -1170,17 +1144,17 @@ Indien de commissaris langer dan acht dagen wegens ziekte of om andere redenen z
 
 ### Afdeling 2.3. Gemeenschappelijke bepalingen
 
-##### Artikel 2.3.1. Bewaken en beveiligen
+#### Artikel 2.3.1. Bewaken en beveiligen
 
 1. Indien gedeputeerde staten ten behoeve van een statenlid, een gedeputeerde of de commissaris kosten maken, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van de provincie.
 
 2. Onze Minister kan regels stellen met betrekking tot het treffen van andere voorzieningen ten behoeve van een veilige woon- en werkplek van een statenlid, een gedeputeerde of de commissaris dan die welke op grond van het eerste lid ten laste van de provincie komen.
 
-##### Artikel 2.3.2. Informatie- en communicatievoorzieningen
+#### Artikel 2.3.2. Informatie- en communicatievoorzieningen
 
 Gedeputeerde staten stellen ten laste van de provincie aan een statenlid, een gedeputeerde of de commissaris voor de duur van de uitoefening van zijn functie informatie- en communicatievoorzieningen ter beschikking. Onder informatie- en communicatievoorzieningen wordt ook verstaan de daarbij behorende abonnementen.
 
-##### Artikel 2.3.3. Vergoeding kosten scholing
+#### Artikel 2.3.3. Vergoeding kosten scholing
 
 1. De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van statenlid, gedeputeerde of commissaris komen ten laste van de provincie, op voorwaarde dat gedeputeerde staten van oordeel zijn dat de prijs/kwaliteitverhouding van de desbetreffende scholing redelijk is en de kosten ervan niet reeds uit anderen hoofde voor vergoeding in aanmerking komen.
 
@@ -1188,15 +1162,15 @@ Gedeputeerde staten stellen ten laste van de provincie aan een statenlid, een ge
 
 3. Onder de kosten, bedoeld in het eerste lid, worden mede begrepen reiskosten voor het volgen van de scholing. De reiskosten worden berekend met overeenkomstige toepassing van de nadere regels op grond van [artikel 2.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.7&z=2026-01-01&g=2026-01-01) onderscheidenlijk [2.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 2.3.4. Beroepsvereniging
+#### Artikel 2.3.4. Beroepsvereniging
 
 Indien een statenlid, een gedeputeerde of de commissaris als zodanig lid is van een voor ieder statenlid, iedere gedeputeerde of iedere commissaris toegankelijke, landelijk georganiseerde beroepsvereniging die blijkens haar statuten deskundigheidsbevordering of belangenbehartiging van de functie van statenlid, gedeputeerde of commissaris ten doel heeft of mede ten doel heeft, wordt de contributie van die beroepsvereniging ten laste van de provincie vergoed, tenzij gedeputeerde staten van oordeel zijn dat de activiteiten van de vereniging onvoldoende invulling geven aan het in de eerste volzin bedoelde doel.
 
-##### Artikel 2.3.5. Bedrijfsgeneeskundige zorg
+#### Artikel 2.3.5. Bedrijfsgeneeskundige zorg
 
 Gedeputeerde staten treffen ten laste van de provincie een voorziening voor bedrijfsgeneeskundige zorg voor de statenleden, de gedeputeerden en de commissaris.
 
-##### Artikel 2.3.6. Voorzieningen in verband met beroepsziekte of een dienstongeval
+#### Artikel 2.3.6. Voorzieningen in verband met beroepsziekte of een dienstongeval
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1216,7 +1190,7 @@ Gedeputeerde staten treffen ten laste van de provincie een voorziening voor bedr
 
 5. Als de schade van de beroepsziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden of ontslag, is dit artikel van overeenkomstige toepassing op het gewezen statenlid, de gewezen gedeputeerde of de gewezen commissaris.
 
-##### Artikel 2.3.7. Voorzieningen in verband met een structurele functionele beperking
+#### Artikel 2.3.7. Voorzieningen in verband met een structurele functionele beperking
 
 1. Indien een statenlid, een gedeputeerde of de commissaris naar het oordeel van een arts een structurele functionele beperking heeft, kunnen gedeputeerde staten hem op zijn aanvraag ten laste van de provincie voorzieningen toekennen, die strekken tot het kunnen blijven uitoefenen van het ambt of tot herstel of bevordering van de mogelijkheid om het ambt weer te gaan uitoefenen dan wel een financiële vergoeding daarvoor.
 
@@ -1226,7 +1200,7 @@ Gedeputeerde staten treffen ten laste van de provincie een voorziening voor bedr
 
 4. De regels, gesteld krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) zijn van overeenkomstige toepassing.
 
-##### Artikel 2.3.8. Eindheffingsbestanddelen
+#### Artikel 2.3.8. Eindheffingsbestanddelen
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
@@ -1260,13 +1234,13 @@ Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f,
 
 ### Afdeling 2.4. Commissieleden
 
-##### Artikel 2.4.1. Vergoeding voor het bijwonen van de vergaderingen
+#### Artikel 2.4.1. Vergoeding voor het bijwonen van de vergaderingen
 
 1. Aan een commissielid wordt ten laste van de provincie een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 152,70 per vergadering.
 
 2. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 2.4.2. Hogere vergoeding
+#### Artikel 2.4.2. Hogere vergoeding
 
 Provinciale staten kunnen bij verordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van het bedrag, genoemd in [artikel 2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2026-01-01&g=2026-01-01), ten aanzien van:
 
@@ -1274,7 +1248,7 @@ Provinciale staten kunnen bij verordening bepalen dat de vergoeding voor het bij
 
 - b. een commissielid ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid.
 
-##### Artikel 2.4.3. Reiskostenvergoeding
+#### Artikel 2.4.3. Reiskostenvergoeding
 
 1. Een commissielid heeft ten laste van de provincie aanspraak op vergoeding van:
 
@@ -1284,7 +1258,7 @@ Provinciale staten kunnen bij verordening bepalen dat de vergoeding voor het bij
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 2.4.4. Overige vergoedingen en voorzieningen
+#### Artikel 2.4.4. Overige vergoedingen en voorzieningen
 
 Ten aanzien van een commissielid zijn de [artikelen 2.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.11&z=2026-01-01&g=2026-01-01), [2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2026-01-01&g=2026-01-01), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.2&z=2026-01-01&g=2026-01-01), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.3&z=2026-01-01&g=2026-01-01), [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.4&z=2026-01-01&g=2026-01-01), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.6&z=2026-01-01&g=2026-01-01), [2.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.7&z=2026-01-01&g=2026-01-01) en [2.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.8&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -1318,7 +1292,7 @@ Ten aanzien van een commissielid zijn de [artikelen 2.1.11](https://wetten.overh
 
 ### Afdeling 4.0. Algemeen
 
-##### Artikel 4.1. Begripsomschrijvingen
+#### Artikel 4.1. Begripsomschrijvingen
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1344,19 +1318,19 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. **commissaris:** commissaris van de Koning van de provincie waarbinnen het waterschap gelegen is, dan wel, indien het een interprovinciaal waterschap betreft, de als zodanig bij reglement van het waterschap aangewezen commissaris.
 
-##### Artikel 4.2
+#### Artikel 4.2
 
 (leeg)
 
-##### Artikel 4.3
+#### Artikel 4.3
 
 (leeg)
 
-##### Artikel 4.4
+#### Artikel 4.4
 
 (leeg)
 
-##### Artikel 4.5. Totale bezoldiging dagelijks bestuur
+#### Artikel 4.5. Totale bezoldiging dagelijks bestuur
 
 1. Het totaal van de bezoldiging van de leden van het dagelijks bestuur is gesteld op ten hoogste 400% van een voltijds bezoldigingsbedrag.
 
@@ -1370,7 +1344,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Beloning lid algemeen bestuur
 
-##### Artikel 4.1.1. Vergoeding voor de werkzaamheden
+#### Artikel 4.1.1. Vergoeding voor de werkzaamheden
 
 1. Een lid van het algemeen bestuur ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van het algemeen bestuur een vergoeding voor de werkzaamheden van € 857,36 per maand.
 
@@ -1380,7 +1354,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het algemeen bestuur kan bij verordening bepalen dat ten hoogste 50% van de vergoeding voor de werkzaamheden, bedoeld in het eerste lid, wordt uitgekeerd, berekend naar het aantal gehouden vergaderingen. In dat geval geschiedt de uitkering aan het lid van het algemeen bestuur op basis van het aantal bijgewoonde vergaderingen.
 
-##### Artikel 4.1.2. Toelage lid vertrouwenscommissie
+#### Artikel 4.1.2. Toelage lid vertrouwenscommissie
 
 1. Aan een lid van het algemeen bestuur dat lid is van de vertrouwenscommissie wordt voor de duur van de activiteiten van die commissie per jaar ten laste van het waterschap een toelage verleend van € 153,33 per maand.
 
@@ -1388,13 +1362,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 4.1.3. Toelage lid onderzoekscommissie
+#### Artikel 4.1.3. Toelage lid onderzoekscommissie
 
 1. Aan een lid van het algemeen bestuur dat lid is van een onderzoekscommissie wordt voor de duur van de activiteiten van die commissie ten laste van het waterschap een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01), bedraagt.
 
 2. Voor de toepassing van het eerste lid stelt de voorzitter de duur van de activiteiten vast.
 
-##### Artikel 4.1.4. Toelage lid bijzondere commissie
+#### Artikel 4.1.4. Toelage lid bijzondere commissie
 
 1. Indien het algemeen bestuur besluit ter uitvoering van zijn taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een lid van het algemeen bestuur geacht kunnen worden te behoren, kan het bij verordening besluiten aan de leden van het algemeen bestuur die lid zijn van die commissie ten laste van het waterschap een toelage toe te kennen van maximaal € 153,33 per maand voor de duur van de activiteiten van de commissie per maand.
 
@@ -1402,7 +1376,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 4.1.5. Toelage fractievoorzitter
+#### Artikel 4.1.5. Toelage fractievoorzitter
 
 1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 89.46 per maand, vermeerderd met € 12,77 voor elk lid van het algemeen bestuur dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 191,67 per maand.
 
@@ -1418,7 +1392,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Vergoedingen en voorzieningen lid van het algemeen bestuur
 
-##### Artikel 4.1.6. Onkostenvergoeding
+#### Artikel 4.1.6. Onkostenvergoeding
 
 1. Een lid van het algemeen bestuur ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van het algemeen bestuur een onkostenvergoeding voor de aan de uitoefening van het lidmaatschap van het algemeen bestuur verbonden kosten van € 223,50 per maand.
 
@@ -1426,7 +1400,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 4.1.7. Reiskostenvergoeding
+#### Artikel 4.1.7. Reiskostenvergoeding
 
 1. Een lid van het algemeen bestuur heeft ten laste van het waterschap aanspraak op vergoeding van:
 
@@ -1436,11 +1410,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 4.1.8
+#### Artikel 4.1.8
 
 (leeg)
 
-##### Artikel 4.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
+#### Artikel 4.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
 
 1. Het lid van het algemeen bestuur dat nog niet de pensioengerechtigde leeftijd als bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt, ontvangt per jaar ten laste van het waterschap een bedrag ter hoogte van het bedrag van de vergoeding van de werkzaamheden voor één maand, waarmee hij voorzieningen kan treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
 
@@ -1450,7 +1424,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Dit artikel is niet van toepassing op een lid van het algemeen bestuur dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van het algemeen bestuur wegens zwangerschap en bevalling of ziekte op grond van [artikel X 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_12).
 
-##### Artikel 4.1.10. Ziektekostenverzekering
+#### Artikel 4.1.10. Ziektekostenverzekering
 
 1. Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 136,85 per jaar.
 
@@ -1458,13 +1432,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 4.1.11. Samenloop met arbeidsongeschiktheidsuitkering
+#### Artikel 4.1.11. Samenloop met arbeidsongeschiktheidsuitkering
 
 In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01), de toelage voor het lid van de vertrouwenscommissie, bedoeld in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.2&z=2026-01-01&g=2026-01-01), de toelage voor het lid van de onderzoekscommissie, bedoeld in [artikel 4.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.3&z=2026-01-01&g=2026-01-01), de toelage voor het lid van een bijzondere commissie, bedoeld in [artikel 4.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.4&z=2026-01-01&g=2026-01-01), of de toelage voor de fractievoorzitter, bedoeld in [artikel 4.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.5&z=2026-01-01&g=2026-01-01), op verzoek van het desbetreffende lid worden verlaagd.
 
 #### Paragraaf 3. Waarneming door lid algemeen bestuur
 
-##### Artikel 4.1.12. Waarneming voorzitter
+#### Artikel 4.1.12. Waarneming voorzitter
 
 Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51a) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast:
 
@@ -1476,7 +1450,7 @@ Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, v
 
 #### Paragraaf 3. Waarneming door lid algemeen bestuur
 
-##### Artikel 4.1.13. vergoeding voor werkzaamheden en onkostenvergoeding
+#### Artikel 4.1.13. vergoeding voor werkzaamheden en onkostenvergoeding
 
 1. [Artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door het algemeen bestuur toepassing is gegeven aan artikel 4.1.1, vierde lid, dit lid van het algemeen bestuur een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
 
@@ -1488,7 +1462,7 @@ Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, v
 
 #### Paragraaf 1. Beloning voorzitter en lid dagelijks bestuur
 
-##### Artikel 4.2.1. Bezoldiging en uitkeringen
+#### Artikel 4.2.1. Bezoldiging en uitkeringen
 
 1. Onze Minister van Infrastructuur en Waterstaat kan op verzoek van het algemeen bestuur, gedeputeerde staten gehoord, een deeltijdfactor voor de voorzitter vaststellen.
 
@@ -1506,11 +1480,11 @@ Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, v
 
 8. Wanneer de voorzitter of het lid van het dagelijks bestuur in de loop van een maand is benoemd of in de loop van een maand is afgetreden, ontslagen of overleden, wordt de bezoldiging voor die maand genoten naar evenredigheid van de periode van uitoefening van het ambt in die maand.
 
-##### Artikel 4.2.2. Waarneming voorzitter door lid dagelijks bestuur
+#### Artikel 4.2.2. Waarneming voorzitter door lid dagelijks bestuur
 
 Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, wordt zijn bezoldiging voor die tijd ten laste van het waterschap aangevuld tot het bedrag, genoemd in [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 4.2.3. Neveninkomsten
+#### Artikel 4.2.3. Neveninkomsten
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1538,19 +1512,19 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 8. Op verzoek van de voorzitter of het lid van het dagelijks bestuur kan het dagelijks bestuur besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.
 
-##### Artikel 4.2.4. Uitkering bij overlijden
+#### Artikel 4.2.4. Uitkering bij overlijden
 
 1. In het geval van overlijden van de voorzitter of het lid van het dagelijks bestuur wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 4.2.1, tweede onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2026-01-01&g=2026-01-01), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overledene ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
-##### Artikel 4.2.5
+#### Artikel 4.2.5
 
 (leeg)
 
 #### Paragraaf 2. Vergoedingen en voorzieningen voorzitter en lid dagelijks bestuur
 
-##### Artikel 4.2.6. Ambtskosten
+#### Artikel 4.2.6. Ambtskosten
 
 1. De voorzitter ontvangt een vergoeding voor aan de uitoefening van het ambt verbonden kosten van € 507,99 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
 
@@ -1560,7 +1534,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 4. De bedragen, genoemd in het eerste en tweede lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
-##### Artikel 4.2.7. Kosten in verband met verhuizing
+#### Artikel 4.2.7. Kosten in verband met verhuizing
 
 1. Indien de voorzitter bij zijn benoeming zijn werkelijke woonplaats nog niet heeft in het waterschap, heeft hij ten laste van het waterschap eenmalig aanspraak op een vergoeding van verhuiskosten bij verhuizing naar het waterschap in verband met zijn benoeming.
 
@@ -1578,7 +1552,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 6. Bij ministeriële regeling worden nadere regels gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 4.2.8. Ter beschikking gestelde woning
+#### Artikel 4.2.8. Ter beschikking gestelde woning
 
 1. Indien een voorzitter bij zijn benoeming verplicht is om zijn werkelijke woonplaats in het waterschap te hebben en hem door het waterschap in verband met de uitoefening van zijn ambt een woning ter beschikking wordt gesteld, betaalt hij voor het bewonen daarvan een eigen bijdrage per maand aan het waterschap.
 
@@ -1588,7 +1562,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 4. Bij ministeriële regeling worden regels gesteld met betrekking tot de hoogte van de eigen bijdrage, bedoeld in het eerste lid, en kunnen regels worden gesteld met betrekking tot het gebruik van een ter beschikking gestelde woning.
 
-##### Artikel 4.2.9. Woon-werkverkeer en reis- en verblijfkosten
+#### Artikel 4.2.9. Woon-werkverkeer en reis- en verblijfkosten
 
 1. De voorzitter en het lid van het dagelijks bestuur hebben ten laste van het waterschap aanspraak op vergoeding van:
 
@@ -1598,7 +1572,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 2. Onze Minister stelt nadere regels over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 4.2.10. Ter beschikking gestelde auto
+#### Artikel 4.2.10. Ter beschikking gestelde auto
 
 1. Het dagelijks bestuur kan aan de voorzitter of het lid van het dagelijks bestuur ten laste van het waterschap een auto ter beschikking stellen, daaronder begrepen een auto voor gemeenschappelijk gebruik of een auto op afroep van een daartoe door het waterschap gecontracteerde vervoerder.
 
@@ -1622,7 +1596,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 11. Onze Minister stelt nadere regels over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan, alsmede over de hoogte van de eigen bijdrage, bedoeld in het achtste lid.
 
-##### Artikel 4.2.11. Loopbaanoriëntatie
+#### Artikel 4.2.11. Loopbaanoriëntatie
 
 1. De kosten die de voorzitter of het lid van het dagelijks bestuur maakt omdat hij zich tijdens het ambt oriënteert op zijn verdere loopbaan of mobiliteit bevorderende activiteiten ontplooit, komen ten laste van het waterschap, op voorwaarde dat het dagelijks bestuur van oordeel is dat:
 
@@ -1634,7 +1608,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 2. Onze Minister kan over de in het eerste lid bedoelde loopbaanoriëntatie of mobiliteit bevorderende activiteiten nadere regels stellen.
 
-##### Artikel 4.2.12. Terugkeer wegens dringende redenen
+#### Artikel 4.2.12. Terugkeer wegens dringende redenen
 
 1. Indien er sprake is van een dringende reden van dienstbelang en de voorzitter of het lid van het dagelijks bestuur die buiten het waterschap verblijft, zou schade lijden als hij direct terugkeert naar het waterschap, legt hij zijn voornemen om vanwege deze reden terug te keren naar zijn waterschap voor aan de commissaris onderscheidenlijk de voorzitter.
 
@@ -1642,33 +1616,33 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 3. De schadeloosstelling betreft uitsluitend de direct uit de terugkeer voortvloeiende kosten van de voorzitter of het lid van het dagelijks bestuur. Het dagelijks bestuur stelt de hoogte van de schadeloosstelling vast.
 
-##### Artikel 4.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
+#### Artikel 4.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
 
 Dit besluit is, voor zover het betrekking heeft op de leden van het dagelijks bestuur, van overeenkomstige toepassing op het lid van het dagelijks bestuur aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 21 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) tijdelijk ontslag is verleend, met dien verstande dat dit tijdelijk ontslagen lid, in afwijking van [artikel 4.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2026-01-01&g=2026-01-01), een vergoeding ontvangt voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
 
 #### Paragraaf 3. Overige bepalingen
 
-##### Artikel 4.2.14. Vergoeding bij waarneming van de voorzitter
+#### Artikel 4.2.14. Vergoeding bij waarneming van de voorzitter
 
 Op degene die op grond van [artikel 51a, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51a) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, zijn de bepalingen in deze [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&z=2026-01-01&g=2026-01-01) en [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2026-01-01&g=2026-01-01), voor zover die betrekking hebben op de rechtspositie van de voorzitter, van overeenkomstige toepassing, met uitzondering van de [artikelen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.3&z=2026-01-01&g=2026-01-01), [4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.17&z=2026-01-01&g=2026-01-01), [4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.18&z=2026-01-01&g=2026-01-01) en [4.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.19&z=2026-01-01&g=2026-01-01).
 
 #### Paragraaf 3. Overige bepalingen
 
-##### Artikel 4.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden
+#### Artikel 4.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden
 
 1. De tijdelijke vervanger van het lid van het dagelijks bestuur dat verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden een bedrag van € 753,94 per maand naar evenredigheid van de vastgestelde deeltijdfactor.
 
 2. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
-##### Artikel 4.2.16
+#### Artikel 4.2.16
 
 (leeg)
 
-##### Artikel 4.2.17. Kennisgeving bij afwezigheid
+#### Artikel 4.2.17. Kennisgeving bij afwezigheid
 
 Indien de voorzitter langer dan acht dagen wegens ziekte of om andere redenen zijn ambt niet kan vervullen, geeft hij daarvan kennis aan het dagelijks bestuur.
 
-##### Artikel 4.2.18. Schorsing
+#### Artikel 4.2.18. Schorsing
 
 1. Een schorsingsbesluit als bedoeld in [artikel 46, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=46) bevat in ieder geval het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
@@ -1676,7 +1650,7 @@ Indien de voorzitter langer dan acht dagen wegens ziekte of om andere redenen zi
 
 3. Gedurende de schorsing is het de voorzitter als zodanig niet toegestaan de dienstgebouwen van het waterschap te betreden.
 
-##### Artikel 4.2.19. Ontslag
+#### Artikel 4.2.19. Ontslag
 
 1. De voorzitter wordt op zijn verzoek ontslagen of na afloop van de benoemingstermijn niet herbenoemd. Het ontslag wordt eervol verleend, tenzij naar het oordeel van Onze Minister van Infrastructuur en Waterstaat zwaarwichtige redenen zich daartegen verzetten.
 
@@ -1706,17 +1680,17 @@ Indien de voorzitter langer dan acht dagen wegens ziekte of om andere redenen zi
 
 ### Afdeling 4.3. Gemeenschappelijke bepalingen
 
-##### Artikel 4.3.1. Bewaken en beveiligen
+#### Artikel 4.3.1. Bewaken en beveiligen
 
 1. Indien het dagelijks bestuur ten behoeve van een lid van het algemeen bestuur, een lid van het dagelijks bestuur of de voorzitter kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het waterschap.
 
 2. Onze Minister kan regels stellen met betrekking tot het treffen van andere voorzieningen ten behoeve van een veilige woon- en werkplek van een lid van het algemeen bestuur, een lid van het dagelijks bestuur of de voorzitter dan die welke op grond van het eerste lid ten laste van het waterschap komen.
 
-##### Artikel 4.3.2. Informatie- en communicatievoorzieningen
+#### Artikel 4.3.2. Informatie- en communicatievoorzieningen
 
 Het dagelijks bestuur stelt ten laste van het waterschap aan een lid van het algemeen bestuur, een lid van het dagelijks bestuur en de voorzitter voor de duur van de uitoefening van zijn functie informatie- en communicatievoorzieningen ter beschikking. Onder informatie- en communicatievoorzieningen wordt ook verstaan de daarbij behorende abonnementen.
 
-##### Artikel 4.3.3. Vergoeding kosten scholing
+#### Artikel 4.3.3. Vergoeding kosten scholing
 
 1. De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van lid van het algemeen bestuur, lid van het dagelijks bestuur en de voorzitter komen ten laste van het waterschap op voorwaarde dat het dagelijks bestuur van oordeel is dat de prijs/kwaliteitverhouding van de desbetreffende scholing redelijk is en de kosten ervan niet reeds uit anderen hoofde voor vergoeding in aanmerking komen.
 
@@ -1724,15 +1698,15 @@ Het dagelijks bestuur stelt ten laste van het waterschap aan een lid van het alg
 
 3. Onder de kosten, bedoeld in het eerste lid, worden mede begrepen reiskosten voor het volgen van de scholing. De reiskosten worden berekend met overeenkomstige toepassing van de nadere regels op grond van [artikel 4.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.7&z=2026-01-01&g=2026-01-01) onderscheidenlijk [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2026-01-01&g=2026-01-01).
 
-##### Artikel 4.3.4. Beroepsvereniging
+#### Artikel 4.3.4. Beroepsvereniging
 
 Indien een lid van het algemeen bestuur, een lid van het dagelijks bestuur of de voorzitter als zodanig lid is van een voor ieder lid van een algemeen bestuur, ieder lid van het dagelijks bestuur of iedere voorzitter toegankelijke, landelijk georganiseerde beroepsvereniging die blijkens haar statuten deskundigheidsbevordering of belangenbehartiging van de functie van lid van het algemeen bestuur, lid van het dagelijks bestuur onderscheidenlijk voorzitter ten doel heeft of mede ten doel heeft, wordt de contributie van die beroepsvereniging ten laste van het waterschap vergoed, tenzij het dagelijks bestuur van oordeel is dat de activiteiten van de vereniging onvoldoende invulling geven aan het in de eerste volzin bedoelde doel.
 
-##### Artikel 4.3.5. Bedrijfsgeneeskundige zorg
+#### Artikel 4.3.5. Bedrijfsgeneeskundige zorg
 
 Het dagelijks bestuur treft ten laste van het waterschap een voorziening voor bedrijfsgeneeskundige zorg voor de leden van het algemeen bestuur, de leden van het dagelijks bestuur en de voorzitter.
 
-##### Artikel 4.3.6. Voorzieningen in verband met beroepsziekte of een dienstongeval
+#### Artikel 4.3.6. Voorzieningen in verband met beroepsziekte of een dienstongeval
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -1752,7 +1726,7 @@ Het dagelijks bestuur treft ten laste van het waterschap een voorziening voor be
 
 5. Als de schade van de beroepsziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn aftreden of ontslag, is dit artikel van overeenkomstige toepassing op het gewezen lid van het algemeen bestuur, het gewezen lid van het dagelijks bestuur of de gewezen voorzitter.
 
-##### Artikel 4.3.7. Voorzieningen in verband met een structurele functionele beperking
+#### Artikel 4.3.7. Voorzieningen in verband met een structurele functionele beperking
 
 1. Indien een lid van het algemeen bestuur, een lid van het dagelijks bestuur of de voorzitter naar het oordeel van een arts een structurele functionele beperking heeft, kan het dagelijks bestuur hem op zijn aanvraag ten laste van het waterschap voorzieningen toekennen, die strekken tot het kunnen blijven uitoefenen van het ambt of tot herstel of bevordering van de mogelijkheid om het ambt weer te gaan uitoefenen dan wel een financiële vergoeding daarvoor.
 
@@ -1762,7 +1736,7 @@ Het dagelijks bestuur treft ten laste van het waterschap een voorziening voor be
 
 4. De regels, gesteld krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) zijn van overeenkomstige toepassing.
 
-##### Artikel 4.3.8. Eindheffingsbestanddelen
+#### Artikel 4.3.8. Eindheffingsbestanddelen
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
@@ -1792,13 +1766,13 @@ Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f,
 
 ### Afdeling 4.4. Commissieleden
 
-##### Artikel 4.4.1. Vergoeding voor het bijwonen van de vergaderingen
+#### Artikel 4.4.1. Vergoeding voor het bijwonen van de vergaderingen
 
 1. Aan een commissielid wordt ten laste van het waterschap een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 152,70 per vergadering.
 
 2. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande.
 
-##### Artikel 4.4.2. Hogere vergoeding
+#### Artikel 4.4.2. Hogere vergoeding
 
 Het algemeen bestuur kan bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van het bedrag, genoemd in [artikel 4.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2026-01-01&g=2026-01-01), ten aanzien van:
 
@@ -1806,7 +1780,7 @@ Het algemeen bestuur kan bepalen dat de vergoeding voor het bijwonen van de verg
 
 - b. een commissielid ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid.
 
-##### Artikel 4.4.3. Reiskostenvergoeding
+#### Artikel 4.4.3. Reiskostenvergoeding
 
 1. Een commissielid heeft ten laste van het waterschap aanspraak op vergoeding van:
 
@@ -1816,7 +1790,7 @@ Het algemeen bestuur kan bepalen dat de vergoeding voor het bijwonen van de verg
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de hoogte van de vergoedingen en de voorwaarden voor de aanspraken op grond van dit artikel.
 
-##### Artikel 4.4.4. Overige vergoedingen en voorzieningen
+#### Artikel 4.4.4. Overige vergoedingen en voorzieningen
 
 Ten aanzien van een commissielid zijn de [artikelen 4.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.11&z=2026-01-01&g=2026-01-01), [4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.1&z=2026-01-01&g=2026-01-01), [4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.2&z=2026-01-01&g=2026-01-01), [4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.3&z=2026-01-01&g=2026-01-01), [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.4&z=2026-01-01&g=2026-01-01), [4.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.6&z=2026-01-01&g=2026-01-01), [4.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.7&z=2026-01-01&g=2026-01-01) en [4.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.8&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -1824,7 +1798,7 @@ Ten aanzien van een commissielid zijn de [artikelen 4.1.11](https://wetten.overh
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 2.1.4a. Toelage vaste voorzitter commissie als bedoeld in [artikel 80 Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=80)
+#### Artikel 2.1.4a. Toelage vaste voorzitter commissie als bedoeld in [artikel 80 Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=80)
 
 1. Indien provinciale staten van oordeel zijn dat de belasting en het tijdsbeslag van het vaste voorzitterschap van een commissie als bedoeld in [artikel 80 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=80) niet redelijkerwijs tot het reguliere werk van een statenlid geacht kunnen worden te behoren, kunnen zij bij verordening besluiten aan die voorzitter ten laste van de provincie een toelage toe te kennen van maximaal het bedrag, genoemd in [artikel 2.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.4&z=2026-01-01&g=2026-01-01), per maand voor de duur van de activiteiten van de commissie.
 
@@ -1836,7 +1810,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 1. Beloning raadslid
 
-##### Artikel 3.1.4a. Toelage vaste voorzitter commissie als bedoeld in [artikel 82 Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82)
+#### Artikel 3.1.4a. Toelage vaste voorzitter commissie als bedoeld in [artikel 82 Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82)
 
 1. Indien de gemeenteraad van oordeel is dat de belasting en het tijdsbeslag van het vaste voorzitterschap van een commissie als bedoeld in [artikel 82 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82) niet redelijkerwijs tot het reguliere werk van een raadslid geacht kunnen worden te behoren, kan de gemeenteraad bij verordening besluiten aan die voorzitter ten laste van de gemeente een toelage toe te kennen van maximaal het bedrag, genoemd in [artikel 3.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.4&z=2026-01-01&g=2026-01-01), per maand voor de duur van de activiteiten van de commissie.
 

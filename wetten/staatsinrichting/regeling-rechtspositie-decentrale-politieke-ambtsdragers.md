@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 november 2018, nr. 2018-0000893805, houdende nadere regels inzake de rechtspositie van staten- en commissieleden, gedeputeerden, commissarissen van de Koning, raads- en commissieleden, wethouders, burgemeesters en de leden van het algemeen bestuur en het dagelijks bestuur en de voorzitters van de waterschappen (Regeling rechtspositie decentrale politieke ambtsdragers)"
+title: "Regeling rechtspositie decentrale politieke ambtsdragers"
 identifier: "BWBR0041573"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-18"
-last_updated: "2025-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041573"
-soort: "ministeriele-regeling"
-stam_id: "14876753"
-version_id: "25444272"
-internal_id: "C36316601"
-label_id: "14828394"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041573/2025-12-18/0"
-intitule_bron: "Stcrt.2018-66006"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-11-16"
-intitule_published: "2018-11-23"
-intitule_in_force: "2018-11-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-66006"
-original_signed_date: "2018-11-16"
-original_published_date: "2018-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-66006"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBR0041573&z=2025-12-18&g=2025-12-18"
-jci_1_0: "1.0:c:BWBR0041573&g=2025-12-18"
-citeertitel_status: "officieel"
-short_title: "Regeling rechtspositie decentrale politieke ambtsdragers"
-signed_date: "2018-11-16"
-entry_into_force: "2019-01-01"
+categorie: "Overig"
+publicatiedatum: 2025-12-18
+laatste_update: 2025-12-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0041573"
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 november 2018, nr. 2018-0000893805, houdende nadere regels inzake de rechtspositie van staten- en commissieleden, gedeputeerden, commissarissen van de Koning, raads- en commissieleden, wethouders, burgemeesters en de leden van het algemeen bestuur en het dagelijks bestuur en de voorzitters van de waterschappen (Regeling rechtspositie decentrale politieke ambtsdragers)
 
 Gelet op de [artikelen 2.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.1.7), [2.2.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), [2.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.8), [2.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.9), [2.2.10, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.10), [2.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.4.3), [3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.7), [3.2.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7), [3.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8), [3.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.9), [3.2.10, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.10), [3.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.3), [4.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.1.7), [4.2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), [4.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.9), [4.2.10, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.10), en [4.4.3, tweede lid, van het Rechtspositiebesluit decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.4.3);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-##### Artikel 1.1. Begripsbepaling
+#### Artikel 1.1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +24,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **openbaar vervoer:** voor een ieder openstaand personenvervoer volgens een dienstregeling met een auto, bus, trein, metro, tram of via een geleidesysteem voortbewogen voertuig dan wel met een veerpont of een veerboot.
 
-##### Artikel 1.2. Wijze van declareren
+#### Artikel 1.2. Wijze van declareren
 
 Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) werkelijk gemaakte kosten worden vergoed, geschiedt het declareren van die kosten onder overlegging van bewijsstukken.
 
@@ -58,7 +32,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 3. Gemeenten
 
-##### Artikel 3.1. Reis- en verblijfkostenvergoeding raads- en commissieleden
+#### Artikel 3.1. Reis- en verblijfkostenvergoeding raads- en commissieleden
 
 1. Voor het bijwonen van vergaderingen van de gemeenteraad en commissies alsmede voor reizen, gemaakt voor de uitoefening van de functie, worden of wordt aan een raads- of commissielid vergoed:
 
@@ -74,7 +48,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 5. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die een raads- of commissielid maakt in verband met reizen, gemaakt voor de uitoefening van de functie, worden ten laste van de gemeente vergoed.
 
-##### Artikel 3.2. Verhuiskosten burgemeester en wethouders
+#### Artikel 3.2. Verhuiskosten burgemeester en wethouders
 
 1. De vergoeding van verhuiskosten, bedoeld in [artikel 3.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7), en de vergoeding van de kosten voor verhuizing in verband met ontslag of niet-herbenoeming, bedoeld in artikel 3.2.7, vierde lid, van het besluit betreft:
 
@@ -84,7 +58,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 2. Het recht op vergoeding van verhuiskosten vervalt, indien betrokkene niet binnen drie jaar na zijn benoeming is verhuisd.
 
-##### Artikel 3.3. Vergoeding kosten tijdelijke huisvesting burgemeester en wethouders
+#### Artikel 3.3. Vergoeding kosten tijdelijke huisvesting burgemeester en wethouders
 
 1. De vergoeding voor tijdelijke huisvesting, bedoeld in [artikel 3.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging van de burgemeester of de wethouder bedoeld in [artikel 3.2.1, eerste onderscheidenlijk derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.1).
 
@@ -92,7 +66,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2025-12-18&g=2025-12-18), vergoed.
 
-##### Artikel 3.4. Tegemoetkoming kosten dubbele woonlasten burgemeester en wethouders
+#### Artikel 3.4. Tegemoetkoming kosten dubbele woonlasten burgemeester en wethouders
 
 1. De tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 3.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging van de burgemeester of de wethouder.
 
@@ -114,7 +88,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2025-12-18&g=2025-12-18), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
-##### Artikel 3.5. Ter beschikking gestelde woning burgemeester en wethouders
+#### Artikel 3.5. Ter beschikking gestelde woning burgemeester en wethouders
 
 1. De eigen bijdrage per maand voor het bewonen van een ter beschikking gestelde woning, bedoeld in [artikel 3.2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8), betreft een bedrag ter grootte van 18% van de bezoldiging, bedoeld in [artikel 3.2.1, eerste of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.1).
 
@@ -122,7 +96,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 3. Bij het bewonen van een ter beschikking gestelde woning draagt de burgemeester of de wethouder de onderhoudskosten welke volgens de wet ten laste van de huurder zijn.
 
-##### Artikel 3.6. Reis- en verblijfkosten burgemeester en wethouders
+#### Artikel 3.6. Reis- en verblijfkosten burgemeester en wethouders
 
 1. Voor woon-werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, worden of wordt aan de burgemeester of de wethouder vergoed:
 
@@ -144,7 +118,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 6. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die de burgemeester of de wethouder maakt in verband met reizen voor de uitoefening van het ambt worden aan hem vergoed.
 
-##### Artikel 3.7. Bijzondere bepalingen reiskostenvergoeding burgemeester
+#### Artikel 3.7. Bijzondere bepalingen reiskostenvergoeding burgemeester
 
 1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2025-12-18&g=2025-12-18), een vaste vergoeding worden toegekend.
 
@@ -160,7 +134,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 3. Een burgemeester die de beschikking heeft over een dienstauto en daarnaast regelmatig gebruik maakt van een eigen personenauto, ontvangt een vergoeding die is gebaseerd op de helft van de in het tweede lid genoemde bedragen.
 
-##### Artikel 3.8. Ter beschikking gestelde auto burgemeester en wethouders
+#### Artikel 3.8. Ter beschikking gestelde auto burgemeester en wethouders
 
 1. De eigen bijdrage per maand voor het gebruik, anders dan voor zakelijke of bestuurlijke doeleinden, van een aan de burgemeester of de wethouder ter beschikking gestelde auto, bedoeld in [artikel 3.2.10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.10), wordt, voor zover nodig op basis van nacalculatie, berekend volgens de formule (a/b)p/12, waarbij:
 
@@ -178,7 +152,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-##### Artikel 5.1. Overgangsbepalingen
+#### Artikel 5.1. Overgangsbepalingen
 
 1. Aan de commissaris die op 27 maart 2019 in functie was, wordt op zijn verzoek tot uiterlijk de datum van zijn herbenoeming, bij gebruik van een eigen auto, reiskostenvergoeding verstrekt met toepassing van de [Regeling rechtspositie commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0016419), zoals die luidde op 27 maart 2019. Een verzoek als bedoeld in de eerste volzin kan slechts eenmaal worden ingediend.
 
@@ -190,7 +164,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 5. Aan de voorzitter van een waterschap die op 27 maart 2019 in functie was, wordt op zijn verzoek tot uiterlijk de datum van zijn herbenoeming bij gebruik van een eigen auto reiskostenvergoeding verstrekt met toepassing van [artikel 3.6 van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.6), zoals dat luidde op 27 maart 2019. Een verzoek als bedoeld in de eerste volzin kan slechts eenmaal worden ingediend.
 
-##### Artikel 5.2. Intrekken regelingen
+#### Artikel 5.2. Intrekken regelingen
 
 1. De [Regeling rechtspositie commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0016419) wordt ingetrokken.
 
@@ -200,19 +174,19 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 4. De [Regeling rechtspositie wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0016420) wordt ingetrokken.
 
-##### Artikel 5.3. Inwerkingtreding
+#### Artikel 5.3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
 2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2025-12-18&g=2025-12-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2025-12-18&g=2025-12-18) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2025-12-18&g=2025-12-18), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2025-12-18&g=2025-12-18), in werking met ingang van 28 maart 2019.
 
-##### Artikel 5.4. Citeertitel
+#### Artikel 5.4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling rechtspositie decentrale politieke ambtsdragers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 2.1. Reis- en verblijfkostenvergoeding staten- en commissieleden
+#### Artikel 2.1. Reis- en verblijfkostenvergoeding staten- en commissieleden
 
 1. Voor het bijwonen van vergaderingen van provinciale staten en commissies alsmede voor reizen, gemaakt voor de uitoefening van de functie, worden of wordt aan een staten- of commissielid vergoed:
 
@@ -228,7 +202,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die een staten- of commissielid maakt in verband met reizen voor de uitoefening van de functie, worden ten laste van de provincie vergoed.
 
-##### Artikel 2.2. Verhuiskosten commissaris en gedeputeerden
+#### Artikel 2.2. Verhuiskosten commissaris en gedeputeerden
 
 1. De vergoeding van verhuiskosten, bedoeld in [artikel 2.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7) en de vergoeding van de kosten voor verhuizing in verband met ontslag of niet-herbenoeming, bedoeld in artikel 2.2.7, vierde lid, van het besluit betreft:
 
@@ -238,7 +212,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het recht op vergoeding van verhuiskosten vervalt indien betrokkene niet binnen drie jaar na zijn benoeming is verhuisd.
 
-##### Artikel 2.3. Vergoeding kosten tijdelijke huisvesting commissaris en gedeputeerden
+#### Artikel 2.3. Vergoeding kosten tijdelijke huisvesting commissaris en gedeputeerden
 
 1. De vergoeding voor tijdelijke huisvesting, bedoeld in [artikel 2.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging van de commissaris of de gedeputeerde, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
 
@@ -246,7 +220,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in [artikel 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), worden met overeenkomstige toepassing van [artikel 2.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2025-12-18&g=2025-12-18), vergoed.
 
-##### Artikel 2.4. Tegemoetkoming kosten dubbele woonlasten commissaris en gedeputeerden
+#### Artikel 2.4. Tegemoetkoming kosten dubbele woonlasten commissaris en gedeputeerden
 
 1. De tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 2.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging van de commissaris of de gedeputeerde, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
 
@@ -268,7 +242,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2025-12-18&g=2025-12-18), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
-##### Artikel 2.5. Ter beschikking gestelde woning commissaris en gedeputeerden
+#### Artikel 2.5. Ter beschikking gestelde woning commissaris en gedeputeerden
 
 1. De eigen bijdrage per maand voor het bewonen van een ter beschikking gestelde woning, bedoeld in [artikel 2.2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.8), is een bedrag ter grootte van 18% van de bezoldiging, bedoeld in [artikel 2.2.1, eerste of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
 
@@ -276,7 +250,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Bij het bewonen van een ter beschikking gestelde woning draagt de commissaris of de gedeputeerde de onderhoudskosten welke volgens de wet ten laste van de huurder zijn.
 
-##### Artikel 2.6. Reis- en verblijfkosten commissaris en gedeputeerden
+#### Artikel 2.6. Reis- en verblijfkosten commissaris en gedeputeerden
 
 1. Voor woon-werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, worden of wordt aan de commissaris of de gedeputeerde vergoed:
 
@@ -298,11 +272,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die de commissaris of de gedeputeerde maakt in verband met reizen voor de uitoefening van het ambt worden aan hem vergoed.
 
-##### Artikel 2.7
+#### Artikel 2.7
 
 (leeg)
 
-##### Artikel 2.8. Ter beschikking gestelde auto commissaris en gedeputeerden
+#### Artikel 2.8. Ter beschikking gestelde auto commissaris en gedeputeerden
 
 1. De eigen bijdrage per maand voor het gebruik, anders dan voor zakelijke of bestuurlijke doeleinden, van een aan de commissaris of de gedeputeerde ter beschikking gestelde auto, bedoeld in [artikel 2.2.10, achtste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.10), wordt, voor zover nodig op basis van nacalculatie, berekend volgens de formule (a/b)p/12, waarbij:
 
@@ -320,7 +294,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 4. Waterschappen
 
-##### Artikel 4.1. Reis- en verblijfkostenvergoeding leden van het algemeen bestuur en commissieleden
+#### Artikel 4.1. Reis- en verblijfkostenvergoeding leden van het algemeen bestuur en commissieleden
 
 1. Voor het bijwonen van vergaderingen van het algemeen bestuur en commissies alsmede voor reizen gemaakt voor de uitoefening van de functie, worden of wordt aan een lid van het algemeen bestuur of een commissielid vergoed:
 
@@ -336,7 +310,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die een lid van het algemeen bestuur maakt in verband met reizen voor de uitoefening van de functie, worden ten laste van het waterschap vergoed.
 
-##### Artikel 4.2. Verhuiskosten voorzitter
+#### Artikel 4.2. Verhuiskosten voorzitter
 
 1. De vergoeding van verhuiskosten, bedoeld in [artikel 4.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), betreft:
 
@@ -346,7 +320,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het recht op vergoeding van verhuiskosten vervalt, indien betrokkene niet binnen drie jaar na zijn benoeming is verhuisd.
 
-##### Artikel 4.3. Vergoeding kosten tijdelijke huisvesting voorzitter en leden dagelijks bestuur
+#### Artikel 4.3. Vergoeding kosten tijdelijke huisvesting voorzitter en leden dagelijks bestuur
 
 1. De vergoeding voor de kosten van tijdelijke huisvesting, bedoeld in [artikel 4.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging, bedoeld in [artikel 4.2.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.1).
 
@@ -354,7 +328,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De reiskosten voor één bezoek per week aan de woning waar de voorzitter ten tijde van de benoeming woonde, bedoeld in [artikel 4.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), worden met overeenkomstige toepassing van [artikel 4.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&artikel=4.6&z=2025-12-18&g=2025-12-18), vergoed.
 
-##### Artikel 4.4. Tegemoetkoming kosten dubbele woonlasten voorzitter
+#### Artikel 4.4. Tegemoetkoming kosten dubbele woonlasten voorzitter
 
 1. De tegemoetkoming in dubbele woonlasten, bedoeld in [artikel 4.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging, bedoeld in [artikel 4.2.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.1).
 
@@ -376,7 +350,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Indien de voorzitter een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 4.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&artikel=4.6&z=2025-12-18&g=2025-12-18), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
-##### Artikel 4.5. Ter beschikking gestelde woning voorzitter
+#### Artikel 4.5. Ter beschikking gestelde woning voorzitter
 
 1. De eigen bijdrage per maand voor het bewonen van een ter beschikking gestelde woning, bedoeld in [artikel 4.2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.8), is een bedrag ter grootte van 18% van de bezoldiging, bedoeld in [artikel 4.2.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.1).
 
@@ -384,7 +358,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Bij het bewonen van een ter beschikking gestelde woning draagt de voorzitter de onderhoudskosten welke volgens de wet ten laste van de huurder zijn.
 
-##### Artikel 4.6. Reis- en verblijfkosten voorzitter en leden van het dagelijks bestuur
+#### Artikel 4.6. Reis- en verblijfkosten voorzitter en leden van het dagelijks bestuur
 
 1. Voor woon-werkverkeer en voor reizen, gemaakt voor de uitoefening van het ambt, worden of wordt aan de voorzitter of het lid van het dagelijks bestuur vergoed:
 
@@ -400,11 +374,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De noodzakelijke en redelijkerwijs gemaakte werkelijke verblijfkosten die de voorzitter of het lid van het dagelijks bestuur maakt in verband met reizen voor de uitoefening van het ambt worden aan hem vergoed.
 
-##### Artikel 4.7
+#### Artikel 4.7
 
 (leeg)
 
-##### Artikel 4.8. Ter beschikking gestelde auto voorzitter en leden van het dagelijks bestuur
+#### Artikel 4.8. Ter beschikking gestelde auto voorzitter en leden van het dagelijks bestuur
 
 1. De eigen bijdrage per maand voor het gebruik, anders dan voor zakelijke of bestuurlijke doeleinden, van een aan de voorzitter of het lid van het dagelijks bestuur ter beschikking gestelde auto, bedoeld in [artikel 4.2.10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.10), wordt, voor zover nodig op basis van nacalculatie, berekend volgens de formule (a/b)p/12, waarbij:
 
@@ -422,7 +396,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 2.9
+#### Artikel 2.9
 
 1. Ten behoeve van een veilige woonplek als bedoeld in [artikel 2.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.3.1), van het besluit worden aan de commissaris of de gedeputeerde de in een beveiligingsadvies geadviseerde beveiligingsmaatregelen verstrekt.
 
@@ -450,7 +424,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 7. In afwijking van het eerste, tweede, vierde en vijfde lid, kunnen een of meer maatregelen voor de duur van de uitoefening van het ambt ter beschikking worden gesteld.
 
-##### Artikel 3.9
+#### Artikel 3.9
 
 1. Ten behoeve van een veilige woonplek als bedoeld in [artikel 3.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.3.1), van het besluit worden aan de burgemeester of wethouder de in een beveiligingsadvies geadviseerde beveiligingsmaatregelen verstrekt.
 
@@ -480,7 +454,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 4. Waterschappen
 
-##### Artikel 4.9
+#### Artikel 4.9
 
 1. Ten behoeve van een veilige woonplek als bedoeld in [artikel 4.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.3.1), van het besluit worden aan de voorzitter of het lid van het dagelijks bestuur de in een beveiligingsadvies geadviseerde beveiligingsmaatregelen verstrekt.
 
