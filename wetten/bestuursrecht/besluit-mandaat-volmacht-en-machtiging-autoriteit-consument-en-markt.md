@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Minister van Economische Zaken van 2 april 2013, nr. WJZ / 13052618, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de ACM (Besluit mandaat, volmacht en machtiging ACM)"
+title: "Besluit mandaat, volmacht en machtiging Autoriteit Consument en Markt"
 identifier: "BWBR0033132"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-12"
-last_updated: "2024-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033132"
-soort: "ministeriele-regeling"
-stam_id: "12174103"
-version_id: "20329522"
-internal_id: "C28598611"
-label_id: "12145654"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033132/2024-11-12/0"
-intitule_bron: "Stcrt.2013-9333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-02"
-intitule_published: "2013-04-04"
-intitule_in_force: "2013-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-9333"
-original_signed_date: "2013-04-02"
-original_published_date: "2013-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-9333"
-entry_into_force_date: "2013-04-05"
-jci_1_3: "jci1.3:c:BWBR0033132&z=2024-11-12&g=2024-11-12"
-jci_1_0: "1.0:c:BWBR0033132&g=2024-11-12"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Autoriteit Consument en Markt"
-signed_date: "2013-04-02"
-entry_into_force: "2013-04-05"
+categorie: "Overig"
+publicatiedatum: 2024-11-12
+laatste_update: 2024-11-12
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0033132"
 ---
+
 # Besluit van de Minister van Economische Zaken van 2 april 2013, nr. WJZ / 13052618, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de ACM (Besluit mandaat, volmacht en machtiging ACM)
 
 Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
@@ -42,7 +16,7 @@ Gezien de schriftelijke instemming van de Autoriteit Consument en Markt;
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -58,7 +32,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **de EG concentratieverordening:** [Verordening (EG) nr. 139/2004](32004R0139) van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEU L 24/14).
 
-##### Artikel 2
+#### Artikel 2
 
 1. Aan de ACM wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met:
 
@@ -74,19 +48,19 @@ In dit besluit wordt verstaan onder:
 
 - f. de [artikelen 10, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=10), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=11), en [13 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=13).
 
-##### Artikel 3
+#### Artikel 3
 
 Aan de ACM wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de artikelen 4, vierde en vijfde lid, 9 en 22 van de EG concentratieverordening.
 
-##### Artikel 4
+#### Artikel 4
 
 Aan de ACM wordt op het werkterrein van de ACM volmacht en machtiging verleend voor het aangaan van privaatrechtelijke rechtshandelingen en voor de daarmee samenhangende handelingen, waaronder begrepen de P&O-aangelegenheden van de ACM.
 
-##### Artikel 5
+#### Artikel 5
 
 Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-11-12), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
-##### Artikel 6
+#### Artikel 6
 
 1. Voor de volgende P&O-aangelegenheden geldt dat deze slechts in overeenstemming met de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
 
@@ -122,7 +96,7 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 - e. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
-##### Artikel 7
+#### Artikel 7
 
 1. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-11-12) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
 
@@ -132,13 +106,13 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2024-11-12&g=2024-11-12) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
 
-##### Artikel 8
+#### Artikel 8
 
 1. Het verlenen van ondermandaat, volmacht of machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
 2. Een afschrift van besluiten inzake ondermandaat, volmacht of machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens dit besluit ondermandaat is verleend.
 
-##### Artikel 9
+#### Artikel 9
 
 Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
@@ -152,15 +126,15 @@ namens deze:
 
 (functie)
 
-##### Artikel 10
+#### Artikel 10
 
 Het [Besluit mandaat, volmacht en machtiging raad van bestuur van de Nederlandse Mededingingsautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0018529) wordt ingetrokken.
 
-##### Artikel 11
+#### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013.
 
-##### Artikel 12
+#### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Autoriteit Consument en Markt.
 

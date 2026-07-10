@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 7 juli 2025, nr. WJZ/ 99303433, houdende vaststelling van de Regeling schoolzuivel 2025"
+title: "Regeling schoolzuivel 2025"
 identifier: "BWBR0051223"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-12"
-last_updated: "2025-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051223"
-soort: "ministeriele-regeling"
-stam_id: "17468433"
-version_id: "30808412"
-internal_id: "C44154721"
-label_id: "17370854"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051223/2025-07-12/0"
-intitule_bron: "Stcrt.2025-21794"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-07"
-intitule_published: "2025-07-11"
-intitule_in_force: "2025-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-21794"
-original_signed_date: "2025-07-07"
-original_published_date: "2025-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-21794"
-entry_into_force_date: "2025-07-12"
-jci_1_3: "jci1.3:c:BWBR0051223&z=2025-07-12&g=2025-07-12"
-jci_1_0: "1.0:c:BWBR0051223&g=2025-07-12"
-citeertitel_status: "officieel"
-short_title: "Regeling schoolzuivel 2025"
-signed_date: "2025-07-07"
-entry_into_force: "2025-07-12"
+categorie: "Onderwijs"
+publicatiedatum: 2025-07-12
+laatste_update: 2025-07-12
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051223"
 ---
+
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 7 juli 2025, nr. WJZ/ 99303433, houdende vaststelling van de Regeling schoolzuivel 2025
 
 Gelet op:
@@ -48,7 +22,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -84,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Erkenning van leveranciers
 
-##### Artikel 2
+#### Artikel 2
 
 1. De minister verleent op verzoek aan maximaal vier leveranciers van zuivelproducten voor de periode van schooljaar 2025/2026 een erkenning indien de leverancier:
 
@@ -132,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 8. Het aantal scholen dat per schooljaar aan een leverancier wordt toegewezen is afhankelijk van het beschikbare budget in het betrokken schooljaar en het aantal scholen dat zich aanmeldt.
 
-##### Artikel 3
+#### Artikel 3
 
 1. De minister schorst een erkenning of trekt een erkenning in overeenkomstig artikel 7 van [verordening (EU) 2017/40](32017R0040) wanneer een erkende leverancier niet langer voldoet aan de voorwaarden van [verordening (EU) 2017/39](32017R0039), [verordening (EU) 2017/40](32017R0040), de erkenningsvoorwaarden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051223&hoofdstuk=2&artikel=2&z=2025-07-12&g=2025-07-12), of overige voorwaarden ingevolge deze regeling.
 
@@ -142,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Deelnemende scholen
 
-##### Artikel 4
+#### Artikel 4
 
 1. Een school die wil deelnemen aan de regeling schoolzuivel meldt zich in de periode van 1 september 2025 tot en met 12 september 2025 hiervoor aan bij de minister.
 
@@ -156,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 6. In afwijking van het vijfde lid kan een school zich gedurende een schooljaar afmelden in een periode waarin beperkende maatregelen van overheidswege gelden en zich weer aanmelden voor deelname in het daaropvolgende schooljaar.
 
-##### Artikel 5
+#### Artikel 5
 
 1. Een erkende leverancier en een deelnemende school aan de regeling schoolzuivel sluiten een contract voor een schooljaar, waarin tenminste worden opgenomen:
 
@@ -174,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het aantal leerlingen bedoeld in het eerste lid, onderdeel c, is maximaal het aantal leerlingen dat bij aanvang van het schooljaar is ingeschreven.
 
-##### Artikel 6
+#### Artikel 6
 
 Alle aan deze regeling deelnemende scholen:
 
@@ -200,7 +174,7 @@ Alle aan deze regeling deelnemende scholen:
 
 ### Hoofdstuk 4. Subsidie voor zuivelproducten
 
-##### Artikel 7
+#### Artikel 7
 
 1. Eenheden zijn subsidiabel indien in de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051223&hoofdstuk=5&artikel=9&z=2025-07-12&g=2025-07-12), genoemde perioden, 20 weken per schooljaar twee maal per week per leerling gratis eenheden zuivelproducten worden verstrekt, waarvan maximaal 25 procent yoghurt, die voorzien zijn van een topkeurmerk voor zuivel zoals aangegeven op de website van Milieu Centraal (Keurmerkenwijzer.nl, overzicht – Zuivel) dat geldend is op de datum van inwerkingtreding van deze regeling.
 
@@ -208,13 +182,13 @@ Alle aan deze regeling deelnemende scholen:
 
 3. Ingeval van niet-naleving van de voorwaarden van het eerste of tweede lid wordt de toekenning van de steunaanvraag naar rato van de hoeveelheid eenheden zuivelproduct waarop de niet-naleving betrekking heeft verminderd.
 
-##### Artikel 8
+#### Artikel 8
 
 Een erkende leverancier van zuivelproducten ontvangt steun ten bedrage van 40,7 eurocent per geleverde eenheid zuivelproduct per dag.
 
 ### Hoofdstuk 5. Steunaanvraag
 
-##### Artikel 9
+#### Artikel 9
 
 1. Een erkende leverancier van zuivelproducten verzoekt de minister in drie termijnen om betaling van steun over de periode waarin hij de zuivelproducten heeft afgeleverd aan een deelnemende school als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051223&hoofdstuk=3&artikel=4&z=2025-07-12&g=2025-07-12).
 
@@ -238,7 +212,7 @@ Een erkende leverancier van zuivelproducten ontvangt steun ten bedrage van 40,7 
 
 5. De leverancier houdt ten behoeve van controles ter plaatse in zijn administratie bewijsstukken beschikbaar waaruit blijkt dat alle subsidiabele kosten zijn betaald voordat de subsidie over de betreffende periode is betaald.
 
-##### Artikel 10
+#### Artikel 10
 
 1. De minister kent de steunaanvraag toe indien de aanvrager voldoet aan de relevante voorwaarden van [verordening (EU) 1308/2013](32013R1308), [verordening (EU) 2017/39](32017R0039) en [verordening (EU) 2017/40](32017R0040) alsmede van deze regeling.
 
@@ -248,17 +222,17 @@ Een erkende leverancier van zuivelproducten ontvangt steun ten bedrage van 40,7 
 
 ### Hoofdstuk 6. Slotbepalingen
 
-##### Artikel 11
+#### Artikel 11
 
 1. De [Regeling schoolzuivel 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050082) wordt ingetrokken.
 
 2. De [artikelen 6 tot en met 8 van de Regeling schoolzuivel 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050082&artikel=6) blijven van toepassing op steunaanvragen voor het schooljaar 2024/2025.
 
-##### Artikel 12
+#### Artikel 12
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-##### Artikel 13
+#### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling schoolzuivel 2025.
 

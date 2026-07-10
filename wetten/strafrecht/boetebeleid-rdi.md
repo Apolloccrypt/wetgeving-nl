@@ -1,42 +1,20 @@
 ---
 title: "Boetebeleid RDI"
 identifier: "BWBR0050716"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-01-30"
-last_updated: "2025-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050716"
-soort: "beleidsregel"
-stam_id: "17354143"
-version_id: "30587612"
-internal_id: "C43843511"
-label_id: "17257214"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050716/2025-01-30/0"
-intitule_bron: "Stcrt.2025-3483"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-01-29"
-intitule_in_force: "2025-01-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3483"
-original_published_date: "2025-01-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3483"
-entry_into_force_date: "2025-01-30"
-jci_1_3: "jci1.3:c:BWBR0050716&z=2025-01-30&g=2025-01-30"
-jci_1_0: "1.0:c:BWBR0050716&g=2025-01-30"
-citeertitel_status: "officieel"
-entry_into_force: "2025-01-30"
+categorie: "Overig"
+publicatiedatum: 2025-01-30
+laatste_update: 2025-01-30
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0050716"
 ---
+
 # Boetebeleid RDI
 
 De Rijksinspectie Digitale Infrastructuur (RDI) heeft het volgende beleid vastgesteld met betrekking tot het bepalen van de hoogte van bestuurlijke boetes. Dit boetebeleid heeft betrekking op boetes die worden opgelegd wegens overtredingen waarop de RDI toezicht houdt en waarvoor de RDI bevoegd is om namens de Minister van Economische Zaken een bestuurlijke boete op te leggen. Deze voorschriften zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050716&bijlage=1&z=2025-01-30&g=2025-01-30).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1. – Definities
+#### Artikel 1. – Definities
 
 In het kader van dit beleid wordt verstaan onder:
 
@@ -52,13 +30,13 @@ In het kader van dit beleid wordt verstaan onder:
 
 - f. **recidive:** de omstandigheid dat binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), nog geen vijf jaar zijn verlopen sinds een aan die overtreder voor een eerdere overtreding van eenzelfde of soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-##### Artikel 2. – Reikwijdte
+#### Artikel 2. – Reikwijdte
 
 Dit Boetebeleid RDI is van toepassing op bestuurlijke boetes die worden opgelegd vanwege overtredingen van de bepalingen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050716&bijlage=1&z=2025-01-30&g=2025-01-30).
 
 ### Hoofdstuk 2. Bepalen hoogte bestuurlijke boete
 
-##### Artikel 3. – Categorieën
+#### Artikel 3. – Categorieën
 
 In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050716&bijlage=2&z=2025-01-30&g=2025-01-30) bij dit boetebeleid heeft de RDI overtredingen van de bepalingen waarop de RDI toeziet ingedeeld in categorie I, II, III, IV, V, VI of VII. De boetebandbreedtes en basisbedragen luiden voor deze categorieën als volgt:
 
@@ -72,7 +50,7 @@ In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050716&bijlage=2&z=2025-
 | Categorie VI |   | € 0 t/m € 900.000 |
 | Categorie VII |   | € 0 t/m € 5.000.000 |
 
-##### Artikel 4. – Stappen boeteoplegging
+#### Artikel 4. – Stappen boeteoplegging
 
 4.1. In het kader van dit boeteregime hanteert de RDI een stappenplan zoals bedoeld in artikel 4.2 voor het vaststellen van een boete wegens een overtreding van een voorschrift dat is ingedeeld in een categorie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050716&hoofdstuk=2&artikel=3&z=2025-01-30&g=2025-01-30).
 
@@ -221,7 +199,7 @@ Indien de RDI het voordeel dat met de overtreding is verkregen heeft kunnen vast
 
 - c. Indien en voor zover de bestuurlijke boete voor een overtreding van een bepaling die is ingedeeld in categorieën II tot en met VII na toepassing van de stappen 1 tot en met 7 van dit Boetebeleid RDI op een bedrag is vastgesteld lager dan € 5.000 voor rechtspersonen en € 2.500 voor natuurlijke personen, wordt dat bedrag in deze stap in beginsel niet verder verlaagd.
 
-##### Artikel 5. – Omzetgerelateerde boete
+#### Artikel 5. – Omzetgerelateerde boete
 
 5.1. Indien en voor zover de RDI op grond van een wettelijke bepaling bevoegd is om een omzetgerelateerde boete op te leggen, kan de RDI, indien toepassing van het stappenplan op basis van een basisbedrag geen passende bestraffing oplevert, een omzetgerelateerde boete opleggen.
 
@@ -235,7 +213,7 @@ Bij de toepassing van stap 5 gaat de RDI, indien zij een omzetgerelateerde boete
 
 ### Hoofdstuk 3. Slotbepalingen
 
-##### Artikel 6. – Citeertitel en inwerkingtreding
+#### Artikel 6. – Citeertitel en inwerkingtreding
 
 Dit beleid wordt aangehaald als: Boetebeleid RDI en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

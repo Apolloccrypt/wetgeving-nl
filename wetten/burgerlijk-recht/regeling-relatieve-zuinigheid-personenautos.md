@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 31 oktober 2012, nr. IenM/BSK-2012/219507, houdende regels voor de bepaling van de energie-efficiëntieklasse, en voor de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid van personenauto’s (Regeling relatieve zuinigheid personenauto´s)"
+title: "Regeling relatieve zuinigheid personenauto’s"
 identifier: "BWBR0032215"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-12-19"
-last_updated: "2020-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032215"
-soort: "ministeriele-regeling"
-stam_id: "11904893"
-version_id: "19772352"
-internal_id: "C27768181"
-label_id: "11876834"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032215/2020-12-19/0"
-intitule_bron: "Stcrt.2012-22334"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-31"
-intitule_published: "2012-11-12"
-intitule_in_force: "2012-11-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-22334"
-original_signed_date: "2012-10-31"
-original_published_date: "2012-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-22334"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032215&z=2020-12-19&g=2020-12-19"
-jci_1_0: "1.0:c:BWBR0032215&g=2020-12-19"
-citeertitel_status: "officieel"
-short_title: "Regeling relatieve zuinigheid personenauto’s"
-signed_date: "2012-10-31"
-entry_into_force: "2013-01-01"
+categorie: "Overig"
+publicatiedatum: 2020-12-19
+laatste_update: 2020-12-19
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0032215"
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 31 oktober 2012, nr. IenM/BSK-2012/219507, houdende regels voor de bepaling van de energie-efficiëntieklasse, en voor de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid van personenauto’s (Regeling relatieve zuinigheid personenauto´s)
 
 Gelet op de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=6a) en [8, eerste lid, van het Besluit etikettering energieverbruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 1. De energie-efficiëntieklasse van een nieuw model personenauto wordt bepaald aan de hand van de relatieve energiezuinigheid van de personenauto volgens de volgende tabel:
 
@@ -84,7 +58,7 @@ Besluit:
 
 8. Voor de kalenderjaren 2017, 2018 en 2019 wordt voor het bepalen van de relatieve zuinigheid van personenauto’s met een typegoedkeuring volgens de WLTP-testprocedure uitgegaan van de gecombineerde NEDC CO2-waarde, bedoeld in punt 49, tabel 1, van het certificaat van overeenstemming van de betreffende auto.
 
-##### Artikel 2
+#### Artikel 2
 
 1. De constanten, bedoeld in [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8), C1, lengte, C2, lengte, C3, lengte, C1, benzine, C2, benzine, C3, benzine, C1, diesel, C2, diesel en C3, dieselworden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Bij de berekening van deze constanten worden buiten beschouwing gelaten:
 
@@ -98,11 +72,11 @@ Besluit:
 
 4. Voor de kalenderjaren 2020 en 2021 worden de constanten en waarden berekend op basis van de gegevens omtrent CO2-uitstoot, de lengte, de breedte en de aantallen van de in de periode 1 januari 2017 tot en met 31 augustus 2019 verkochte nieuwe personenauto’s met een typegoedkeuring volgens de WLTP-testprocedure.
 
-##### Artikel 3
+#### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-##### Artikel 4
+#### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling relatieve zuinigheid personenauto’s.
 
