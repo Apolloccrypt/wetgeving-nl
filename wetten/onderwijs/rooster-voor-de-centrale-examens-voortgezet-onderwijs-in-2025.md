@@ -1,46 +1,20 @@
 ---
-title: "Besluit van het College voor toetsen en examens van 26 juni 2023, met nummer CvTE-23 23.00859, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2025 (Rooster voor de centrale examens voortgezet onderwijs in 2025)"
+title: "Rooster voor de centrale examens voortgezet onderwijs in 2025"
 identifier: "BWBR0048485"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-02-13"
-last_updated: "2025-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048485"
-soort: "zbo"
-stam_id: "16823923"
-version_id: "29557742"
-internal_id: "C42248971"
-label_id: "16736574"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048485/2025-02-13/0"
-intitule_bron: "Stcrt.2023-18580"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-26"
-intitule_published: "2023-07-06"
-intitule_in_force: "2023-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-18580"
-original_signed_date: "2023-06-26"
-original_published_date: "2023-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-18580"
-entry_into_force_date: "2024-08-01"
-jci_1_3: "jci1.3:c:BWBR0048485&z=2025-02-13&g=2025-02-13"
-jci_1_0: "1.0:c:BWBR0048485&g=2025-02-13"
-citeertitel_status: "officieel"
-short_title: "Rooster voor de centrale examens voortgezet onderwijs in 2025"
-signed_date: "2023-06-26"
-entry_into_force: "2024-08-01"
+categorie: "Onderwijs"
+publicatiedatum: 2025-02-13
+laatste_update: 2025-02-13
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048485"
 ---
+
 # Besluit van het College voor toetsen en examens van 26 juni 2023, met nummer CvTE-23 23.00859, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2025 (Rooster voor de centrale examens voortgezet onderwijs in 2025)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel b, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
 Besluit:
 
-##### Artikel 1. Tijdvakken en examenrooster centrale examens 2025
+#### Artikel 1. Tijdvakken en examenrooster centrale examens 2025
 
 1. Het eerste tijdvak voor de schriftelijke centrale examens begint op vrijdag 9 mei en eindigt op maandag 26 mei. De dagen en uren waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=1&z=2025-02-13&g=2025-02-13).
 
@@ -52,15 +26,15 @@ Besluit:
 
 5. Het derde tijdvak vindt plaats in augustus. De dagen en uren waarop de toetsen van het centraal examen in het derde tijdvak worden afgenomen, worden na aanmelding aan de kandidaat door het College voor toetsen en examens meegedeeld.
 
-##### Artikel 2. Onderdelen met een vroege start
+#### Artikel 2. Onderdelen met een vroege start
 
 In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&artikel=1&z=2025-02-13&g=2025-02-13), vangt de afname van het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving vwo aan op woensdag 1 januari en het centraal praktisch examen van de beeldende vakken vmbo gemengde en theoretische leerweg op maandag 10 maart.
 
-##### Artikel 3. Inwerkingtreding
+#### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 augustus 2024.
 
-##### Artikel 4. Citeertitel
+#### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens voortgezet onderwijs in 2025.
 
