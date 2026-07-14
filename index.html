@@ -19,6 +19,7 @@
 <meta name="twitter:card" content="summary">
 </head>
 <body>
+<a class="skip-link" href="#inhoud">Naar de inhoud</a>
 
 <header>
   <div class="header-inner">
@@ -28,27 +29,30 @@
 
 <nav class="nav-bar">
   <div class="nav-inner">
-    <a class="nav-btn actief" href="index.html">Alle wetten</a>
+    <a class="nav-btn actief" href="index.html" aria-current="page">Alle wetten</a>
     <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
     <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
-    <button class="nav-gh" id="gh-btn" aria-haspopup="true" aria-expanded="false">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-      GitHub
-      <div class="nav-gh-menu" id="gh-menu" role="menu">
+    <div class="nav-gh-wrap">
+      <button class="nav-gh" id="gh-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="gh-menu">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+        GitHub
+      </button>
+      <div class="nav-gh-menu" id="gh-menu">
         <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
         <div class="nav-gh-sep"></div>
         <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank" rel="noopener">Wetsvoorstel indienen</a>
         <a href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank" rel="noopener">Discussie</a>
         <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">Fout melden</a>
       </div>
-    </button>
+    </div>
   </div>
 </nav>
 
 <div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
+<main id="inhoud">
 
 <div class="hero hero-compact">
   <div class="hero-inner">
@@ -73,18 +77,18 @@
         <button class="dropdown-knop" type="button" aria-haspopup="true" aria-expanded="false">
           Rechtsgebied: <span class="dd-waarde" id="dd-cat-waarde">alle</span> <span class="dd-pijl">▾</span>
         </button>
-        <div class="dropdown-menu" id="dd-cat-menu" role="menu"></div>
+        <div class="dropdown-menu" id="dd-cat-menu"></div>
       </div>
       <div class="dropdown" id="dd-type">
         <button class="dropdown-knop" type="button" aria-haspopup="true" aria-expanded="false">
           Soort: <span class="dd-waarde" id="dd-type-waarde">alle</span> <span class="dd-pijl">▾</span>
         </button>
-        <div class="dropdown-menu" id="dd-type-menu" role="menu"></div>
+        <div class="dropdown-menu" id="dd-type-menu"></div>
       </div>
       <div class="filter-spacer"></div>
       <div class="sorteer-rij">
-        <button class="sort-btn actief" data-sort="az">A–Z</button>
-        <button class="sort-btn" data-sort="nieuw">Nieuwste</button>
+        <button class="sort-btn actief" type="button" data-sort="az" aria-pressed="true">A–Z</button>
+        <button class="sort-btn" type="button" data-sort="nieuw" aria-pressed="false">Nieuwste</button>
       </div>
     </div>
   </div>
@@ -93,11 +97,13 @@
 <div class="radar" id="radar" hidden></div>
 
 <div class="resultaten-sectie">
-  <div class="resultaten-info"><span id="info">Laden…</span></div>
+  <h2 class="visueel-verborgen">Zoekresultaten</h2>
+  <div class="resultaten-info"><span id="info" role="status" aria-live="polite">Laden…</span></div>
   <div id="resultaten"><div class="laden">Wetten laden…</div></div>
   <div id="sentinel" style="height:1px"></div>
   <div class="meer-info" id="meer-info"></div>
 </div>
+</main>
 
 <noscript>
   <div style="max-width:1100px;margin:0 auto;padding:2rem;text-align:center;color:var(--zacht)">
@@ -139,9 +145,14 @@ const BATCH = 60;
 let alleWetten = [], gefilterd = [], getoond = BATCH;
 let actieveCat = 'alles', actieveType = 'alles', actieveSort = 'az', query = '';
 let zoekData = null, mini = null, zoekKlaar = false, volledigeTekst = false;
+let zoekindexGestart = false;
 let CHANGELOG = null;
 
+if('scrollRestoration' in history) history.scrollRestoration = 'manual';
+
 const esc = t => (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+// diakriet-ongevoelig vouwen: é wordt e, ï wordt i, zodat zoeken met of zonder accent hetzelfde vindt
+const vouw = t => (t||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const MAANDEN = ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'];
 function leesbareDatum(d){
   const m = /^(\d{4})-(\d{2})/.exec(d||'');
@@ -178,10 +189,13 @@ async function init(){
     document.getElementById('stat-datum').textContent = datumVol(datums.reduce((a,b)=>a>b?a:b));
   }
 
-  bouwDropdowns();
   leesUrl();
+  vulDropdowns();
+  const herstel = leesScrollState();
+  if(herstel) getoond = herstel.getoond;
   filterEnToon();
-  laadZoekindex();
+  if(herstel) window.scrollTo(0, herstel.y);
+  if(query.trim()) startZoekindex();   // gedeelde/herladen zoek-URL heeft full-text meteen nodig
   laadMeta();
   laadRadar();
 }
@@ -215,7 +229,8 @@ function renderRadar(){
   el.hidden = false;
 }
 
-// Full-text index lazy laden (blokkeert de pagina niet)
+// Full-text index pas laden zodra iemand daadwerkelijk gaat zoeken (spaart 7 MB + CPU voor bladeraars)
+function startZoekindex(){ if(zoekindexGestart) return; zoekindexGestart = true; render(); laadZoekindex(); }
 async function laadZoekindex(){
   try {
     const r = await fetch('zoekindex.json');
@@ -226,14 +241,15 @@ async function laadZoekindex(){
       'over onder ten ter dan wel niet geen').split(' '));
     mini = new MiniSearch({
       fields: ['titel','body'], idField: 'id',
-      processTerm: term => { const t = term.toLowerCase(); return STOPW.has(t) ? null : t; },
+      processTerm: term => { const t = vouw(term); return STOPW.has(t) ? null : t; },
       searchOptions: { boost: {titel: 3}, prefix: true, fuzzy: 0.2, combineWith: 'AND' }
     });
     const docs = alleWetten.map((w, pos) => ({
       id: pos, titel: w.titel || '', body: (zoekData[pos] && zoekData[pos].b) || ''
     }));
-    await mini.addAllAsync(docs, { chunkSize: 1000 });
-    zoekKlaar = true;
+    await mini.addAllAsync(docs, { chunkSize: 500 });
+    zoekKlaar = true; window.__zoekKlaar = true;
+    document.dispatchEvent(new Event('zoekklaar'));
     if(query.trim()) filterEnToon();
   } catch(e){ /* stil: titelzoek blijft werken */ }
 }
@@ -252,30 +268,47 @@ function snippet(w){
 }
 
 const DROPDOWNS = [
-  {veld:'categorie', menu:'dd-cat-menu',  waarde:'dd-cat-waarde',  get:()=>actieveCat,  set:v=>actieveCat=v},
-  {veld:'type',      menu:'dd-type-menu', waarde:'dd-type-waarde', get:()=>actieveType, set:v=>actieveType=v},
+  {veld:'categorie', menu:'dd-cat-menu',  waarde:'dd-cat-waarde',  get:()=>actieveCat,  set:v=>actieveCat=v,  knop:'dd-cat'},
+  {veld:'type',      menu:'dd-type-menu', waarde:'dd-type-waarde', get:()=>actieveType, set:v=>actieveType=v, knop:'dd-type'},
 ];
 
-function bouwDropdowns(){
+// Tellingen per dimensie houden rekening met het al gekozen andere filter
+function tellingVoor(veld){
+  const t = {};
+  for(const w of alleWetten){
+    if(veld!=='categorie' && !(actieveCat==='alles' || w.categorie===actieveCat)) continue;
+    if(veld!=='type'      && !(actieveType==='alles' || w.type===actieveType)) continue;
+    const k = w[veld] || 'Overig'; t[k] = (t[k]||0)+1;
+  }
+  return t;
+}
+
+let ddGebonden = false;
+function vulDropdowns(){
   DROPDOWNS.forEach(d => {
-    const telling = {};
-    alleWetten.forEach(w => { const k = w[d.veld] || 'Overig'; telling[k] = (telling[k]||0)+1; });
-    const items = Object.entries(telling).sort((a,b)=>b[1]-a[1]);
+    const tel = tellingVoor(d.veld);
+    const totaal = Object.values(tel).reduce((a,b)=>a+b,0);
+    const items = Object.entries(tel).sort((a,b)=>b[1]-a[1]);
     const menu = document.getElementById(d.menu);
     menu.innerHTML =
-      `<button class="dd-optie" data-waarde="alles" role="menuitem"><span>Alle</span><span class="dd-aantal">${alleWetten.length.toLocaleString('nl-NL')}</span></button>` +
-      items.map(([k,n]) => `<button class="dd-optie" data-waarde="${esc(k)}" role="menuitem"><span>${esc(k)}</span><span class="dd-aantal">${n.toLocaleString('nl-NL')}</span></button>`).join('');
-    menu.addEventListener('click', e => {
-      const o = e.target.closest('.dd-optie');
-      if(!o) return;
-      d.set(o.dataset.waarde);
-      getoond = BATCH;
-      sluitDropdowns();
-      werkDropdownUI();
-      schrijfUrl();
-      filterEnToon();
-    });
+      `<button class="dd-optie" type="button" data-waarde="alles"><span>Alle</span><span class="dd-aantal">${totaal.toLocaleString('nl-NL')}</span></button>` +
+      items.map(([k,n]) => `<button class="dd-optie" type="button" data-waarde="${esc(k)}"><span>${esc(k)}</span><span class="dd-aantal">${n.toLocaleString('nl-NL')}</span></button>`).join('');
+    if(!ddGebonden){
+      menu.addEventListener('click', e => {
+        const o = e.target.closest('.dd-optie');
+        if(!o) return;
+        d.set(o.dataset.waarde);
+        getoond = BATCH;
+        sluitDropdowns();
+        vulDropdowns();
+        schrijfUrl();
+        filterEnToon();
+        const knop = document.querySelector('#'+d.knop+' .dropdown-knop');
+        if(knop) knop.focus();
+      });
+    }
   });
+  ddGebonden = true;
   werkDropdownUI();
 }
 
@@ -293,16 +326,25 @@ function sluitDropdowns(){
   document.querySelectorAll('.dropdown-knop').forEach(b => b.setAttribute('aria-expanded','false'));
 }
 
+// Sorteerknoppen eerlijk tonen: bij full-text is de volgorde relevantie, niet A-Z
+function werkSortUI(){
+  const azActief = actieveSort==='az' && !volledigeTekst;
+  const nieuwActief = actieveSort==='nieuw';
+  const az = document.querySelector('.sort-btn[data-sort="az"]');
+  const nw = document.querySelector('.sort-btn[data-sort="nieuw"]');
+  if(az){ az.classList.toggle('actief', azActief); az.setAttribute('aria-pressed', String(azActief)); az.textContent = volledigeTekst ? 'Relevantie' : 'A–Z'; }
+  if(nw){ nw.classList.toggle('actief', nieuwActief); nw.setAttribute('aria-pressed', String(nieuwActief)); }
+}
+
 function setSort(s){
   actieveSort = s; getoond = BATCH;
-  document.querySelectorAll('.sort-btn').forEach(b => b.classList.toggle('actief', b.dataset.sort === s));
   schrijfUrl(); filterEnToon();
 }
 
 function zoekBijwerken(v){
   query = v;
-  const mini = document.getElementById('zoek-mini');
-  if(mini.value !== v) mini.value = v;
+  const el = document.getElementById('zoek-mini');
+  if(el.value !== v) el.value = v;
   getoond = BATCH;
   schrijfUrl();
   filterEnToon();
@@ -312,6 +354,18 @@ function filterEnToon(){
   const q = query.trim();
   const matchtFilter = w => (actieveCat==='alles' || w.categorie===actieveCat) &&
                             (actieveType==='alles' || w.type===actieveType);
+
+  // BWBR-nummer: altijd direct op identifier zoeken, ook nadat de full-text index geladen is
+  const compact = q.replace(/\s+/g,'');
+  if(q && /^bwb[rvw]?\d+$/i.test(compact)){
+    volledigeTekst = false;
+    const qi = compact.toUpperCase();
+    gefilterd = alleWetten.filter(w => matchtFilter(w) && (w.identifier||'').toUpperCase().includes(qi));
+    if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
+    else gefilterd.sort((a,b)=>(a.titel||'').localeCompare(b.titel||'','nl'));
+    render(); return;
+  }
+
   if(q && zoekKlaar && mini){
     volledigeTekst = true;
     gefilterd = mini.search(q).map(h => alleWetten[h.id]).filter(w => w && matchtFilter(w));
@@ -319,56 +373,71 @@ function filterEnToon(){
     // anders: relevantie-volgorde van MiniSearch behouden
   } else {
     volledigeTekst = false;
-    const ql = q.toLowerCase();
+    const qf = vouw(q);
     gefilterd = alleWetten.filter(w => matchtFilter(w) &&
-      (!ql || (w.titel||'').toLowerCase().includes(ql) || (w.identifier||'').toLowerCase().includes(ql)));
+      (!qf || vouw(w.titel).includes(qf) || vouw(w.identifier).includes(qf)));
     if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
     else gefilterd.sort((a,b)=>(a.titel||'').localeCompare(b.titel||'','nl'));
   }
   render();
 }
 
+function kaartHTML(w){
+  return `<a class="wet-kaart" href="wet.html?id=${encodeURIComponent(w.identifier)}">
+    <div class="wet-titel">${esc(w.titel)}</div>
+    <div class="wet-sub">
+      <span>${esc(w.identifier)}</span>
+      ${w.type ? `<span class="wet-cat">${esc(w.type)}</span>` : ''}
+      ${w.datum ? `<span>· ${leesbareDatum(w.datum)}</span>` : ''}
+    </div>
+    ${volledigeTekst ? snippet(w) : ''}
+  </a>`;
+}
+
+function werkMeerInfo(){
+  const getoondN = Math.min(getoond, gefilterd.length);
+  document.getElementById('meer-info').textContent =
+    gefilterd.length > getoond
+      ? `${getoondN.toLocaleString('nl-NL')} van ${gefilterd.length.toLocaleString('nl-NL')} getoond, scroll voor meer`
+      : '';
+}
+
 function render(){
+  werkSortUI();
   const slice = gefilterd.slice(0, getoond);
   let status = '';
   if(query.trim()){
     if(volledigeTekst) status = `<span class="zoek-status">volledige tekst · op relevantie</span>`;
-    else if(!zoekKlaar) status = `<span class="zoek-status">volledige tekst laadt…</span>`;
+    else if(zoekindexGestart && !zoekKlaar) status = `<span class="zoek-status">volledige tekst laadt…</span>`;
   }
   document.getElementById('info').innerHTML =
     `${gefilterd.length.toLocaleString('nl-NL')} wetten` +
     (actieveCat!=='alles' ? ' · ' + esc(actieveCat) : '') +
     (actieveType!=='alles' ? ' · ' + esc(actieveType) : '') + status;
 
-  document.getElementById('resultaten').innerHTML = gefilterd.length ? `
-    <div class="wet-grid">${slice.map(w => `
-      <a class="wet-kaart" href="wet.html?id=${encodeURIComponent(w.identifier)}">
-        <div class="wet-titel">${esc(w.titel)}</div>
-        <div class="wet-sub">
-          <span>${esc(w.identifier)}</span>
-          ${w.type ? `<span class="wet-cat">${esc(w.type)}</span>` : ''}
-          ${w.datum ? `<span>· ${leesbareDatum(w.datum)}</span>` : ''}
-        </div>
-        ${volledigeTekst ? snippet(w) : ''}
-      </a>`).join('')}
-    </div>` : `<div class="laden">${
-      volledigeTekst
-        ? 'Geen wet bevat al deze woorden in titel of tekst. Probeer minder of andere woorden — bijv. één kernterm zoals ‘ontslag’ of ‘huurprijs’.'
-        : 'Geen wetten gevonden. Pas je zoekterm of filters aan.'
-    }</div>`;
+  document.getElementById('resultaten').innerHTML = gefilterd.length
+    ? `<div class="wet-grid">${slice.map(kaartHTML).join('')}</div>`
+    : `<div class="laden">${
+        volledigeTekst
+          ? 'Geen wet bevat al deze woorden in titel of tekst. Probeer minder of andere woorden, bijvoorbeeld één kernterm zoals ‘ontslag’ of ‘huurprijs’.'
+          : 'Geen wetten gevonden. Pas je zoekterm of filters aan.'
+      }</div>`;
 
-  const restant = gefilterd.length - getoond;
-  document.getElementById('meer-info').textContent =
-    restant > 0 ? `${slice.length.toLocaleString('nl-NL')} van ${gefilterd.length.toLocaleString('nl-NL')} getoond — scroll voor meer` : '';
-
+  werkMeerInfo();
   renderRadar();
 }
 
-// Infinite scroll
+// Infinite scroll: alleen de nieuwe batch toevoegen i.p.v. de hele lijst herbouwen
+function toonMeer(){
+  const grid = document.querySelector('#resultaten .wet-grid');
+  if(!grid){ getoond += BATCH; render(); return; }
+  const vorige = getoond;
+  getoond += BATCH;
+  grid.insertAdjacentHTML('beforeend', gefilterd.slice(vorige, getoond).map(kaartHTML).join(''));
+  werkMeerInfo();
+}
 new IntersectionObserver(entries => {
-  if(entries[0].isIntersecting && gefilterd.length > getoond){
-    getoond += BATCH; render();
-  }
+  if(entries[0].isIntersecting && gefilterd.length > getoond){ toonMeer(); }
 }, { rootMargin: '600px' }).observe(document.getElementById('sentinel'));
 
 // URL-state
@@ -389,11 +458,26 @@ function leesUrl(){
   actieveSort = p.get('sort') || 'az';
   document.getElementById('zoek-mini').value = query;
   werkDropdownUI();
-  document.querySelectorAll('.sort-btn').forEach(b => b.classList.toggle('actief', b.dataset.sort === actieveSort));
+  werkSortUI();
 }
 
+// Scrollpositie + geladen batch bewaren, zodat terugkeer uit een wet je plek herstelt
+function bewaarScrollState(){
+  try { sessionStorage.setItem('vw_scroll', JSON.stringify({ key:location.search, getoond, y:window.scrollY, t:Date.now() })); } catch(e){}
+}
+function leesScrollState(){
+  try {
+    const s = JSON.parse(sessionStorage.getItem('vw_scroll')||'null');
+    if(s && s.key===location.search && (Date.now()-s.t)<1800000) return { getoond:Math.max(BATCH, s.getoond||BATCH), y:s.y||0 };
+  } catch(e){}
+  return null;
+}
+window.addEventListener('pagehide', bewaarScrollState);
+
 // Listeners
-document.getElementById('zoek-mini').addEventListener('input', e => zoekBijwerken(e.target.value));
+const zoekEl = document.getElementById('zoek-mini');
+zoekEl.addEventListener('input', e => { startZoekindex(); zoekBijwerken(e.target.value); });
+zoekEl.addEventListener('focus', startZoekindex, { once:true });
 document.querySelectorAll('.sort-btn').forEach(b => b.addEventListener('click', () => setSort(b.dataset.sort)));
 
 // Filter-dropdowns openen/sluiten

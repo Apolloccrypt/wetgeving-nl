@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'self'">
 <meta name="referrer" content="no-referrer">
+<title>Mijn rechten — vrijewetgeving.nl</title>
+<meta name="description" content="Kies wie je bent en zie welke Nederlandse wetten voor jou gelden.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
 <link rel="stylesheet" href="vendor/fonts.css">
 <link rel="stylesheet" href="style.css">
@@ -12,6 +14,7 @@
 <meta name="theme-color" content="#155E75">
 </head>
 <body>
+<a class="skip-link" href="#inhoud">Naar de inhoud</a>
 <header>
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
@@ -22,12 +25,14 @@
     <a class="nav-btn" href="index.html">Alle wetten</a>
     <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
     <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
-    <a class="nav-btn actief" href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn actief" href="rechten.html" aria-current="page">Mijn rechten</a>
     <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
-    <div class="nav-gh" onclick="toggleGH(event)">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+    <div class="nav-gh-wrap">
+      <button class="nav-gh" id="gh-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="gh-menu" onclick="toggleGH(event)">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
       GitHub
+      </button>
       <div class="nav-gh-menu" id="gh-menu">
         <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
         <div class="nav-gh-sep"></div>
@@ -39,6 +44,8 @@
   </div>
 </nav>
 <div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
+<main id="inhoud">
+<div id="a11y-status" class="visueel-verborgen" role="status" aria-live="polite"></div>
 <div class="hero">
   <div class="hero-inner">
     <h1>Mijn <span>rechten</span></h1>
@@ -56,12 +63,13 @@
   </div>
 </div>
 <div class="resultaten" id="resultaten"></div>
+</main>
 <footer>
   <div class="footer-inner">
     <div class="footer-col">
       <h4>vrijewetgeving.nl</h4>
       <p>Nederlandse wetgeving als open data. Elke wet een bestand, elke wijziging een commit.</p>
-      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.5rem;color:var(--oranje)">→ Bekijk op GitHub</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.5rem;color:var(--petrol)">→ Bekijk op GitHub</a>
     </div>
     <div class="footer-col">
       <h4>Tools</h4>
@@ -127,7 +135,7 @@ const ROLLEN = [
     situaties:[
       { label:'Opdracht & contract', titelTermen:['aanneming werk','opdracht','opdrachtovereenkomst'] },
       { label:'BTW & belasting',     titelTermen:['omzetbelasting','btw','inkomstenbelasting ondernemer'] },
-      { label:'Pensioen & AOV',      titelTermen:['pensioen zelfstandige','arbeidsongeschiktheid zelfstandige'] },
+      { label:'Pensioen & AOV',      titelTermen:['pensioen','arbeidsongeschiktheid','oudedagsreserve','zelfstandigenaftrek'] },
     ]
   },
   {
@@ -137,7 +145,7 @@ const ROLLEN = [
     uitsluit:['opsporings','buitengewoon','belasting'],
     situaties:[
       { label:'Behandeling & toestemming', titelTermen:['behandelingsovereenkomst','toestemming','informed consent','wgbo'] },
-      { label:'Medisch dossier',  titelTermen:['medisch dossier','patientendossier','inzagerecht'] },
+      { label:'Medisch dossier',  titelTermen:['dossier','geneeskundige verklaring','persoonsgegevens','inzage'] },
       { label:'Klachten & tucht', titelTermen:['klachtenregeling','wkkgz','tuchtrecht','klacht zorgaanbieder'] },
       { label:'Eigen bijdrage',   titelTermen:['eigen bijdrage','wlz','wmo eigen'] },
     ]
@@ -149,7 +157,7 @@ const ROLLEN = [
     uitsluit:['opsporings','belasting','ambtenaar'],
     situaties:[
       { label:'Online kopen',    titelTermen:['herroepingsrecht','koop op afstand','bedenktijd','webwinkel'] },
-      { label:'Garantie',        titelTermen:['non-conformiteit','garantie product','gebrekkig'] },
+      { label:'Garantie',        titelTermen:['garantie','koop','consumentenkoop','productaansprakelijkheid'] },
       { label:'Incasso & schuld',titelTermen:['incasso','schulden','betalingsachterstand','wsnp'] },
     ]
   },
@@ -204,31 +212,26 @@ const ROLLEN = [
     uitsluit:['buitengewoon opsporings','politie opsporings','gemeentelijk opsporings'],
     situaties:[
       { label:'Rechtspositie',   titelTermen:['rechtspositie ambtenaar','wnra','ambtenaren wet','normalisering'] },
-      { label:'Bezwaar & beroep',titelTermen:['bezwaar ambtenaar','ambtenarenrecht beroep','rechtbank ambtenaar'] },
-      { label:'Integriteit',     titelTermen:['integriteit ambtenaar','nevenfuncties','geschenken ambtenaar'] },
+      { label:'Bezwaar & beroep',titelTermen:['bezwaar','beroep','rechtspositie'] },
+      { label:'Integriteit',     titelTermen:['integriteit','gedragscode','nevenfunctie','ambtseed'] },
     ]
   },
 ];
 
 let indexData = [];
-let zoekData  = [];
 let actieveRol = null;
 let activeSits = new Set();
 
 async function init() {
-  const [idx, zoek] = await Promise.all([
-    fetch('index.json').then(r => r.json()),
-    fetch('zoekindex.json').then(r => r.json()).catch(() => []),
-  ]);
-  indexData = idx;
-  zoekData  = zoek;
+  // Alleen index.json: rechten matcht op titel + categorie, de 36 MB zoekindex is hier niet nodig.
+  indexData = await fetch('index.json').then(r => r.json());
   renderRollen();
 }
 
 function renderRollen() {
   document.getElementById('rollen').innerHTML = ROLLEN.map(r => `
-    <button class="rol-btn${actieveRol === r.id ? ' actief' : ''}" onclick="selectRol('${r.id}')">
-      <span class="rol-icoon">${r.icoon}</span>
+    <button class="rol-btn${actieveRol === r.id ? ' actief' : ''}" aria-pressed="${actieveRol === r.id}" onclick="selectRol('${r.id}')">
+      <span class="rol-icoon" aria-hidden="true">${r.icoon}</span>
       <div class="rol-naam">${r.naam}</div>
     </button>`).join('');
 }
@@ -242,7 +245,7 @@ function selectRol(rolId) {
   const wrap = document.getElementById('situaties-wrap');
   wrap.className = 'situaties-wrap open';
   document.getElementById('situaties').innerHTML = rol.situaties.map(s =>
-    `<button class="sit-btn" onclick="toggleSit('${s.label}', this)">${s.label}</button>`
+    `<button class="sit-btn" aria-pressed="false" onclick="toggleSit('${s.label}', this)">${s.label}</button>`
   ).join('');
 
   toonResultaten(zoekRol(rol, []));
@@ -251,6 +254,7 @@ function selectRol(rolId) {
 function toggleSit(label, btn) {
   activeSits.has(label) ? activeSits.delete(label) : activeSits.add(label);
   btn.classList.toggle('actief', activeSits.has(label));
+  btn.setAttribute('aria-pressed', String(activeSits.has(label)));
 
   const rol = ROLLEN.find(r => r.id === actieveRol);
   const sitTermen = rol.situaties.filter(s => activeSits.has(s.label)).flatMap(s => s.titelTermen);
@@ -285,29 +289,35 @@ function zoekRol(rol, extraTermen) {
       const scoreA = termen.filter(t => (a.titel||'').toLowerCase().includes(t.toLowerCase())).length;
       const scoreB = termen.filter(t => (b.titel||'').toLowerCase().includes(t.toLowerCase())).length;
       return scoreB - scoreA;
-    })
-    .slice(0, 150);
+    });
 }
 
 function esc(t) { return (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
+const CAP = 150;
 function toonResultaten(wetten) {
   const container = document.getElementById('resultaten');
+  const status = document.getElementById('a11y-status');
   if (wetten.length === 0) {
-    container.innerHTML = '<div class="leeg">Geen wetten gevonden voor deze selectie.</div>';
+    container.innerHTML = '<div class="leeg">Geen wetten gevonden voor deze selectie. Kies een andere situatie of rol.</div>';
+    if (status) status.textContent = 'Geen wetten gevonden voor deze selectie.';
     return;
   }
 
-  // Groepeer per categorie
+  const totaal = wetten.length;
+  const getoond = wetten.slice(0, CAP);
+
+  // Groepeer per categorie (alleen wat getoond wordt)
   const groepen = {};
-  wetten.forEach(w => {
+  getoond.forEach(w => {
     const c = w.categorie || 'Overig';
     if (!groepen[c]) groepen[c] = [];
     groepen[c].push(w);
   });
 
-  const totaal = wetten.length;
-  let html = `<div class="telling">${totaal} relevante wetten</div>`;
+  let html = `<div class="telling">${totaal} relevante ${totaal === 1 ? 'wet' : 'wetten'}</div>`;
+  if (totaal > CAP) html += `<div class="cap-melding">De eerste ${CAP} van ${totaal} worden getoond. Verfijn met een situatie hierboven om gerichter te zoeken.</div>`;
+  if (status) status.textContent = `${totaal} relevante ${totaal === 1 ? 'wet' : 'wetten'}${totaal > CAP ? `, eerste ${CAP} getoond` : ''}.`;
   Object.entries(groepen).sort((a,b) => b[1].length - a[1].length).forEach(([cat, ws]) => {
     html += `<div class="sectie-titel">${esc(cat)} (${ws.length})</div>`;
     ws.forEach(wet => {
@@ -329,8 +339,10 @@ function toonResultaten(wetten) {
 
 init();
 
-function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu');if(m)m.style.display=m.style.display==='block'?'none':'block';}
-document.addEventListener('click',()=>{const m=document.getElementById('gh-menu');if(m)m.style.display='none';});
+function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu'),b=document.getElementById('gh-btn');if(!m)return;const open=m.style.display==='block';m.style.display=open?'none':'block';if(b)b.setAttribute('aria-expanded',String(!open));}
+function sluitGH(){const m=document.getElementById('gh-menu'),b=document.getElementById('gh-btn');if(m)m.style.display='none';if(b)b.setAttribute('aria-expanded','false');}
+document.addEventListener('click',sluitGH);
+document.addEventListener('keydown',e=>{if(e.key==='Escape')sluitGH();});
 </script>
 <script>if("serviceWorker" in navigator){addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})})}</script>
 </body>

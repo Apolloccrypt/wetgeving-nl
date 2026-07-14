@@ -19,6 +19,7 @@
 <meta name="twitter:card" content="summary">
 </head>
 <body>
+<a class="skip-link" href="#inhoud">Naar de inhoud</a>
 
 <header>
   <div class="header-inner">
@@ -34,15 +35,17 @@
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
-    <button class="nav-gh" id="gh-btn" aria-haspopup="true" aria-expanded="false">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-      GitHub
-      <div class="nav-gh-menu" id="gh-menu" role="menu">
+    <div class="nav-gh-wrap">
+      <button class="nav-gh" id="gh-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="gh-menu">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+        GitHub
+      </button>
+      <div class="nav-gh-menu" id="gh-menu">
         <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
         <div class="nav-gh-sep"></div>
         <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank" rel="noopener">Fout melden</a>
       </div>
-    </button>
+    </div>
   </div>
 </nav>
 
@@ -82,7 +85,7 @@
   </div>
 </footer>
 
-<div class="toast" id="toast"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script src="vendor/marked.min.js"></script>
 <script src="vendor/purify.min.js"></script>
@@ -152,16 +155,24 @@ async function init(){
 }
 
 function toonWet(wet, mdTekst, verwijzingen, index){
-  // frontmatter eraf
-  let body = mdTekst;
+  // frontmatter parsen (voor datum-terugval) en eraf halen
+  let fm = {}, body = mdTekst;
   if(body.startsWith('---')){
     const eind = body.indexOf('\n---', 3);
-    if(eind > -1) body = body.slice(eind + 4);
+    if(eind > -1){
+      body.slice(3, eind).split('\n').forEach(regel => {
+        const mm = /^([a-z_]+):\s*(.*)$/i.exec(regel.trim());
+        if(mm) fm[mm[1]] = mm[2].replace(/^["']|["']$/g,'');
+      });
+      body = body.slice(eind + 4);
+    }
   }
   body = body.trim();
   // de eerste # titel weglaten (staat al in de kop)
   body = body.replace(/^#\s+.*\n+/, '');
 
+  // datum uit de index, met terugval op de frontmatter als de index leeg is
+  const datum = wet.datum || fm.laatste_update || fm.publicatiedatum || '';
   const officieel = `https://wetten.overheid.nl/${wet.identifier}`;
   document.title = `${wet.titel.slice(0,60)} — vrijewetgeving.nl`;
   document.getElementById('og-title').setAttribute('content', wet.titel.slice(0,90));
@@ -177,7 +188,7 @@ function toonWet(wet, mdTekst, verwijzingen, index){
         ${wet.categorie && wet.categorie!=='Overig' ? `<span class="badge">${esc(wet.categorie)}</span>` : ''}
         <span class="badge badge-id">${esc(wet.identifier)}</span>
         ${wet.status ? `<span class="badge badge-status">${esc(wet.status)}</span>` : ''}
-        ${wet.datum ? `<span class="badge">bijgewerkt ${esc(leesbareDatum(wet.datum))}</span>` : ''}
+        ${datum ? `<span class="badge">bijgewerkt ${esc(leesbareDatum(datum))}</span>` : ''}
       </div>
       <h1>${esc(wet.titel)}</h1>
       <div class="wet-acties">
@@ -191,13 +202,17 @@ function toonWet(wet, mdTekst, verwijzingen, index){
   document.getElementById('inhoud').innerHTML = kop + `
     <div id="samenvatting"></div>
     <div class="wet-grid2">
-      <nav class="wet-toc" id="toc" aria-label="Inhoudsopgave"></nav>
+      <details class="toc-details" id="toc-details" open>
+        <summary>Inhoudsopgave</summary>
+        <nav class="wet-toc" id="toc" aria-label="Inhoudsopgave"></nav>
+      </details>
       <div>
         <article class="wet-content" id="tekst">${html}</article>
         <div class="wet-refs" id="refs"></div>
       </div>
     </div>`;
 
+  herschrijfJci(index);
   bouwTOC();
   bouwVerwijzingen(wet, verwijzingen, index);
   laadSamenvatting(wet);
@@ -241,14 +256,28 @@ async function laadSamenvatting(wet){
   </div>`;
 }
 
+// In-tekst verwijzingen naar wetten.overheid.nl omzetten naar interne wet.html-links waar de wet in de index staat
+function herschrijfJci(index){
+  const ids = new Set(index.map(w => (w.identifier||'').toUpperCase()));
+  document.querySelectorAll('#tekst a[href]').forEach(a => {
+    const href = a.getAttribute('href') || '';
+    if(!/wetten\.overheid\.nl/i.test(href)) return;
+    const m = /BWB[RVW]\d{4,8}/i.exec(href);
+    if(!m || !ids.has(m[0].toUpperCase())) return;   // onbekende wet: externe link laten staan
+    const art = /artikel=([\w.]+)/i.exec(href);
+    a.setAttribute('href', 'wet.html?id=' + m[0].toUpperCase() + (art ? '#artikel-' + art[1].toLowerCase() : ''));
+    a.removeAttribute('target'); a.removeAttribute('rel');
+  });
+}
+
 function bouwTOC(){
   const tekst = document.getElementById('tekst');
   const toc = document.getElementById('toc');
   const koppen = tekst.querySelectorAll('h2, h3, h4, h5, h6');
-  if(koppen.length < 2){ toc.style.display = 'none'; return; }
+  if(koppen.length < 2){ const d = document.getElementById('toc-details'); if(d) d.style.display = 'none'; return; }
 
   const gebruikt = {};
-  let items = '';
+  let items = '', vorigeLabel = '';
   koppen.forEach(k => {
     let id = slug(k.textContent);
     if(gebruikt[id]) id += '-' + (++gebruikt[id]); else gebruikt[id] = 1;
@@ -256,10 +285,15 @@ function bouwTOC(){
     const anchor = document.createElement('a');
     anchor.href = '#' + id; anchor.className = 'art-anchor'; anchor.textContent = '#';
     k.appendChild(anchor);
+    const label = k.textContent.replace(/#$/,'').trim();
+    if(label === vorigeLabel) return;   // opeenvolgende duplicaten samenvouwen in de inhoudsopgave
+    vorigeLabel = label;
     const niveau = k.tagName === 'H2' ? '' : 'lvl-3';
-    items += `<a href="#${id}" class="${niveau}">${esc(k.textContent.replace(/#$/,'').trim())}</a>`;
+    items += `<a href="#${id}" class="${niveau}">${esc(label)}</a>`;
   });
   toc.innerHTML = `<h4>Inhoud</h4>${items}`;
+  const det = document.getElementById('toc-details');
+  if(det && window.matchMedia('(max-width:850px)').matches) det.open = false;
 
   // actieve sectie markeren bij scrollen
   const links = [...toc.querySelectorAll('a')];

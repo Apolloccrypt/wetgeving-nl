@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'self'">
 <meta name="referrer" content="no-referrer">
+<title>Bevoegdhedencheck — vrijewetgeving.nl</title>
+<meta name="description" content="Zoek in de Nederlandse wetgeving wie waartoe bevoegd is: vergunningen, handhaving, toezicht, bestuursorganen.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
 <link rel="stylesheet" href="vendor/fonts.css">
 <link rel="stylesheet" href="style.css">
@@ -12,6 +14,7 @@
 <meta name="theme-color" content="#155E75">
 </head>
 <body>
+<a class="skip-link" href="#inhoud">Naar de inhoud</a>
 <header>
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
@@ -20,14 +23,16 @@
 <nav class="nav-bar">
   <div class="nav-inner">
     <a class="nav-btn" href="index.html">Alle wetten</a>
-    <a class="nav-btn actief" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn actief" href="bevoegdheden.html" aria-current="page">Bevoegdhedencheck</a>
     <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
-    <div class="nav-gh" onclick="toggleGH(event)">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+    <div class="nav-gh-wrap">
+      <button class="nav-gh" id="gh-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="gh-menu" onclick="toggleGH(event)">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
       GitHub
+      </button>
       <div class="nav-gh-menu" id="gh-menu">
         <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
         <div class="nav-gh-sep"></div>
@@ -39,6 +44,8 @@
   </div>
 </nav>
 <div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
+<main id="inhoud">
+<div id="a11y-status" class="visueel-verborgen" role="status" aria-live="polite"></div>
 
 <div class="hero">
   <div class="hero-inner">
@@ -51,14 +58,17 @@
   <div class="zoek-card">
     <div class="zoek-rij">
       <div class="zoek-wrap">
+        <label for="zoek" class="visueel-verborgen">Zoek op orgaan, bevoegdheid of onderwerp</label>
         <input class="zoek-input" id="zoek" type="search" autocomplete="off"
+          role="combobox" aria-expanded="false" aria-controls="ac" aria-autocomplete="list"
+          aria-label="Zoek op orgaan, bevoegdheid of onderwerp"
           placeholder="Zoek op orgaan, bevoegdheid of onderwerp..."
           oninput="zoekBijwerken()" onkeydown="acKey(event)">
-        <div class="ac" id="ac"></div>
+        <div class="ac" id="ac" role="listbox" aria-label="Suggesties"></div>
       </div>
     </div>
     <div class="begrippen">
-      <span style="font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);display:flex;align-items:center;margin-right:0.3rem;">Begrip:</span>
+      <span style="font-family:'DM Mono',monospace;font-size:0.68rem;color:var(--zacht);display:flex;align-items:center;margin-right:0.3rem;">Begrip:</span>
       <button class="begrip-btn" onclick="snel('bevoegdheid vergunning')">Vergunning</button>
       <button class="begrip-btn" onclick="snel('handhaving bevoegdheid')">Handhaving</button>
       <button class="begrip-btn" onclick="snel('toezicht bevoegdheid')">Toezicht</button>
@@ -115,12 +125,13 @@
   </div>
 </div>
 
+</main>
 <footer>
   <div class="footer-inner">
     <div class="footer-col">
       <h4>vrijewetgeving.nl</h4>
       <p>Nederlandse wetgeving als open data. Elke wet een bestand, elke wijziging een commit.</p>
-      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.5rem;color:var(--oranje)">→ Bekijk op GitHub</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.5rem;color:var(--petrol)">→ Bekijk op GitHub</a>
     </div>
     <div class="footer-col">
       <h4>Tools</h4>
@@ -191,70 +202,108 @@ function snel(q) {
   renderLijst(q);
 }
 
+const CAP = 150;
 function renderLijst(q) {
   const ql = q.toLowerCase().trim();
   const termen = ql.split(/\s+/).filter(t => t.length > 2);
 
-  gefilterd = indexData.filter((wet, i) => {
+  const alle = [];
+  for (let i = 0; i < indexData.length; i++) {
+    const wet = indexData[i];
     const titel = (wet.titel || '').toLowerCase();
     const body  = (zoekData[i]?.b || '').toLowerCase();
-    const isBevoegdheid = BEVOEGDHEID_TERMEN.some(t => titel.includes(t) || body.includes(t));
-    if (!isBevoegdheid) return false;
-    return termen.some(t => titel.includes(t) || body.includes(t));
-  })
-  .sort((a, b) => {
-    // Titelmatch scoort hoger
-    const sA = termen.filter(t => (a.titel||'').toLowerCase().includes(t)).length * 3 +
-               termen.filter(t => (zoekData[indexData.indexOf(a)]?.b||'').toLowerCase().includes(t)).length;
-    const sB = termen.filter(t => (b.titel||'').toLowerCase().includes(t)).length * 3 +
-               termen.filter(t => (zoekData[indexData.indexOf(b)]?.b||'').toLowerCase().includes(t)).length;
-    return sB - sA;
-  })
-  .slice(0, 150);
+    if (!BEVOEGDHEID_TERMEN.some(t => titel.includes(t) || body.includes(t))) continue;
+    if (!termen.some(t => titel.includes(t) || body.includes(t))) continue;
+    const score = termen.filter(t => titel.includes(t)).length * 3 +
+                  termen.filter(t => body.includes(t)).length;
+    alle.push({ wet, i, score });
+  }
+  alle.sort((a, b) => b.score - a.score);
 
-  document.getElementById('telling').textContent = `${gefilterd.length} wetten gevonden`;
-  document.getElementById('lijst').innerHTML = gefilterd.map((wet, i) => `
-    <div class="besluit-item" id="item-${i}" onclick="toonDetail(${i})">
+  const totaal = alle.length;
+  gefilterd = alle.slice(0, CAP);
+  const lijst = document.getElementById('lijst');
+  const status = document.getElementById('a11y-status');
+
+  if (!totaal) {
+    document.getElementById('telling').textContent = '0 wetten gevonden';
+    lijst.innerHTML = '<div class="laden">Geen bevoegdheidswet gevonden voor deze zoekterm. Probeer een orgaan (minister, inspectie, burgemeester) of een begrip (vergunning, toezicht, handhaving).</div>';
+    if (status) status.textContent = 'Geen wetten gevonden.';
+    return;
+  }
+
+  document.getElementById('telling').textContent = `${totaal} ${totaal===1?'wet':'wetten'} gevonden`;
+  if (status) status.textContent = `${totaal} ${totaal===1?'wet':'wetten'} gevonden${totaal>CAP?`, eerste ${CAP} getoond`:''}.`;
+  lijst.innerHTML =
+    (totaal > CAP ? `<div class="cap-melding">De eerste ${CAP} van ${totaal} worden getoond. Verfijn je zoekterm voor een kortere lijst.</div>` : '') +
+    gefilterd.map((it, i) => {
+      const wet = it.wet, type = detecteerType(wet.titel);
+      return `
+    <button class="besluit-item" id="item-${i}" type="button" aria-pressed="false" onclick="toonDetail(${i})">
       <div class="besluit-header">
-        <span class="type-badge b-${detecteerType(wet.titel)}">${detecteerType(wet.titel)}</span>
+        <span class="type-badge b-${type}">${type}</span>
         <div>
           <div class="besluit-titel">${esc(wet.titel)}</div>
-          <div class="besluit-meta">${wet.identifier} · ${wet.datum||''} · ${wet.categorie}</div>
+          <div class="besluit-meta">${esc(wet.identifier)} · ${esc(wet.datum||'')} · ${esc(wet.categorie)}</div>
         </div>
       </div>
-    </div>`).join('');
+    </button>`;
+    }).join('');
+}
+
+// Open exact één wet (vanuit een autocomplete-suggestie) i.p.v. op de BWBR-code te zoeken.
+function openWet(identifier) {
+  document.getElementById('ac').className = 'ac';
+  document.getElementById('zoek').setAttribute('aria-expanded','false');
+  const i = indexData.findIndex(w => (w.identifier||'') === identifier);
+  if (i < 0) return;
+  const wet = indexData[i], type = detecteerType(wet.titel);
+  document.getElementById('zoek').value = wet.titel;
+  huidigZoek = wet.titel;
+  gefilterd = [{ wet, i, score: 1 }];
+  document.getElementById('telling').textContent = '1 wet gevonden';
+  document.getElementById('lijst').innerHTML = `
+    <button class="besluit-item" id="item-0" type="button" aria-pressed="false" onclick="toonDetail(0)">
+      <div class="besluit-header">
+        <span class="type-badge b-${type}">${type}</span>
+        <div>
+          <div class="besluit-titel">${esc(wet.titel)}</div>
+          <div class="besluit-meta">${esc(wet.identifier)} · ${esc(wet.datum||'')} · ${esc(wet.categorie)}</div>
+        </div>
+      </div>
+    </button>`;
+  toonDetail(0);
 }
 
 function toonDetail(idx) {
-  const wet = gefilterd[idx];
-  if (!wet) return;
+  const it = gefilterd[idx];
+  if (!it) return;
+  const wet = it.wet;
 
-  document.querySelectorAll('.besluit-item').forEach(el => el.classList.remove('geselecteerd'));
-  document.getElementById(`item-${idx}`)?.classList.add('geselecteerd');
+  document.querySelectorAll('.besluit-item').forEach(el => { el.classList.remove('geselecteerd'); el.setAttribute('aria-pressed','false'); });
+  const sel = document.getElementById(`item-${idx}`);
+  if (sel) { sel.classList.add('geselecteerd'); sel.setAttribute('aria-pressed','true'); }
 
-  // Haal bodytekst op
-  const wetIdx = indexData.indexOf(wet);
-  let bodyTekst = zoekData[wetIdx]?.b || '';
-
-  // Markeer zoektermen + bevoegdheids-termen
-  let body = esc(bodyTekst || '(Geen previektekst beschikbaar — bekijk de volledige wet via de links hieronder)');
+  // Bodytekst via de aan de index gekoppelde positie (geen dure indexOf)
+  let bodyTekst = zoekData[it.i]?.b || '';
+  let body = esc(bodyTekst || '(Geen preview-tekst beschikbaar — bekijk de volledige wet via de links hieronder)');
   huidigZoek.toLowerCase().split(/\s+/).filter(t => t.length > 2).forEach(t => {
     body = body.replace(new RegExp(t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'), 'gi'), m => `<mark>${m}</mark>`);
   });
   ['bevoegd','verleent','mandaat','volmacht','machtiging','delegatie','aanwijst','toezicht','handhaving'].forEach(t => {
-    body = body.replace(new RegExp(`\\b${t}\\b`, 'gi'), m => `<strong style="color:var(--oranje)">${m}</strong>`);
+    body = body.replace(new RegExp(`\\b${t}\\b`, 'gi'), m => `<strong style="color:var(--petrol)">${m}</strong>`);
   });
 
   const type = detecteerType(wet.titel);
   document.getElementById('detail').innerHTML = `
     <div class="detail-header">
-      <span style="display:inline-block;padding:0.2rem 0.55rem;border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;margin-bottom:0.5rem;background:${typeBg(type)};color:${typeClr(type)}">${type}</span>
+      <span style="display:inline-block;padding:0.2rem 0.55rem;border-radius:3px;font-family:'DM Mono',monospace;font-size:0.62rem;font-weight:600;margin-bottom:0.5rem;background:${typeBg(type)};color:${typeClr(type)}">${type}</span>
       <div class="detail-titel">${esc(wet.titel)}</div>
-      <div class="detail-meta">${wet.identifier} · ${wet.datum||''} · ${wet.categorie}</div>
+      <div class="detail-meta">${esc(wet.identifier)} · ${esc(wet.datum||'')} · ${esc(wet.categorie)}</div>
     </div>
     <div class="detail-acties">
       <a class="detail-btn prim" href="wet.html?id=${encodeURIComponent(wet.identifier)}">Volledige wet</a>
-      <a class="detail-btn" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank" rel="noopener">wetten.overheid.nl</a>
+      <a class="detail-btn" href="https://wetten.overheid.nl/${encodeURIComponent(wet.identifier)}" target="_blank" rel="noopener">wetten.overheid.nl</a>
     </div>
     <div class="detail-body">
       <div class="detail-sectie-lbl">Inhoud</div>
@@ -262,21 +311,26 @@ function toonDetail(idx) {
     </div>`;
 }
 
+function sluitAC(){
+  document.getElementById('ac').className = 'ac';
+  document.getElementById('zoek').setAttribute('aria-expanded','false');
+}
 function updateAC(q) {
   const ac = document.getElementById('ac');
   acIdx = -1;
-  if (q.length < 2) { ac.className = 'ac'; return; }
+  if (q.length < 2) { sluitAC(); return; }
   const hits = indexData
     .filter(w => (w.titel||'').toLowerCase().includes(q.toLowerCase()) &&
       BEVOEGDHEID_TERMEN.some(t => (w.titel||'').toLowerCase().includes(t)))
     .slice(0, 8);
-  if (!hits.length) { ac.className = 'ac'; return; }
+  if (!hits.length) { sluitAC(); return; }
   ac.innerHTML = hits.map((w,i) => `
-    <div class="ac-item" onclick="snel('${w.identifier}')">
+    <div class="ac-item" role="option" id="ac-opt-${i}" onclick="openWet('${esc(w.identifier)}')">
       <div class="ac-naam">${esc(w.titel).replace(new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi'), m=>`<mark>${m}</mark>`)}</div>
       <div class="ac-sub">${esc(w.identifier)} · ${esc(w.categorie)}</div>
     </div>`).join('');
   ac.className = 'ac open';
+  document.getElementById('zoek').setAttribute('aria-expanded','true');
 }
 
 function acKey(e) {
@@ -289,8 +343,10 @@ function acKey(e) {
 }
 
 function esc(t){return(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
-function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu');m.style.display=m.style.display==='block'?'none':'block';}
-document.addEventListener('click',()=>{document.getElementById('gh-menu').style.display='none';document.getElementById('ac').className='ac';});
+function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu'),b=document.getElementById('gh-btn');if(!m)return;const open=m.style.display==='block';m.style.display=open?'none':'block';if(b)b.setAttribute('aria-expanded',String(!open));}
+function sluitGH(){const m=document.getElementById('gh-menu'),b=document.getElementById('gh-btn');if(m)m.style.display='none';if(b)b.setAttribute('aria-expanded','false');}
+document.addEventListener('click',()=>{sluitGH();sluitAC();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){sluitGH();sluitAC();}});
 
 init();
 </script>

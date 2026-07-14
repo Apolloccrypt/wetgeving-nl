@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'self'">
 <meta name="referrer" content="no-referrer">
+<title>Bevoegdhedenketen — vrijewetgeving.nl</title>
+<meta name="description" content="Mandaat, delegatie, ondermandaat, volmacht en machtiging: wie heeft welke bevoegdheid aan wie gegeven.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
 <link rel="stylesheet" href="vendor/fonts.css">
 <link rel="stylesheet" href="style.css">
@@ -12,6 +14,7 @@
 <meta name="theme-color" content="#155E75">
 </head>
 <body>
+<a class="skip-link" href="#inhoud">Naar de inhoud</a>
 <header>
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
@@ -21,13 +24,15 @@
   <div class="nav-inner">
     <a class="nav-btn" href="index.html">Alle wetten</a>
     <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
-    <a class="nav-btn actief" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+    <a class="nav-btn actief" href="bevoegdhedenketen.html" aria-current="page">Bevoegdhedenketen</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="over.html">Over</a>
     <div class="nav-spacer"></div>
-    <div class="nav-gh" onclick="toggleGH(event)">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+    <div class="nav-gh-wrap">
+      <button class="nav-gh" id="gh-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="gh-menu" onclick="toggleGH(event)">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
       GitHub
+      </button>
       <div class="nav-gh-menu" id="gh-menu">
         <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener">Repository</a>
         <div class="nav-gh-sep"></div>
@@ -39,6 +44,8 @@
   </div>
 </nav>
 <div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
+<main id="inhoud">
+<div id="a11y-status" class="visueel-verborgen" role="status" aria-live="polite"></div>
 
 <div class="hero">
   <div class="hero-inner">
@@ -51,10 +58,13 @@
   <div class="zoek-card">
     <div class="zoek-rij">
       <div class="zoek-wrap">
+        <label for="zoek" class="visueel-verborgen">Zoek op orgaan, onderwerp of BWBR-nummer</label>
         <input class="zoek-input" id="zoek" type="search" autocomplete="off"
+          role="combobox" aria-expanded="false" aria-controls="ac" aria-autocomplete="list"
+          aria-label="Zoek op orgaan, onderwerp of BWBR-nummer"
           placeholder="Zoek op orgaan, onderwerp of BWBR-nummer..."
           oninput="zoekBijwerken()" onkeydown="acKey(event)">
-        <div class="ac" id="ac"></div>
+        <div class="ac" id="ac" role="listbox" aria-label="Suggesties"></div>
       </div>
     </div>
     <div class="filters">
@@ -95,12 +105,13 @@
   </div>
 </div>
 
+</main>
 <footer>
   <div class="footer-inner">
     <div class="footer-col">
       <h4>vrijewetgeving.nl</h4>
       <p>Nederlandse wetgeving als open data. Elke wet een bestand, elke wijziging een commit.</p>
-      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.5rem;color:var(--oranje)">→ Bekijk op GitHub</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" rel="noopener" style="margin-top:0.5rem;color:var(--petrol)">→ Bekijk op GitHub</a>
     </div>
     <div class="footer-col">
       <h4>Tools</h4>
@@ -158,34 +169,42 @@ function getFiltred() {
 }
 
 function renderLijst() {
+  const CAP = 100;
   gefilterd = getFiltred();
   const lijst = document.getElementById('lijst');
+  const status = document.getElementById('a11y-status');
+  const totaal = gefilterd.length;
   document.getElementById('telling').textContent =
-    `${gefilterd.length} besluiten${huidigZoek ? ` voor "${huidigZoek}"` : ''}`;
+    `${totaal} ${totaal===1?'besluit':'besluiten'}${huidigZoek ? ` voor "${huidigZoek}"` : ''}`;
 
-  if (!gefilterd.length) {
-    lijst.innerHTML = '<div class="laden">Geen besluiten gevonden.</div>';
+  if (!totaal) {
+    lijst.innerHTML = '<div class="laden">Geen besluiten gevonden. Probeer een orgaan (minister, inspectie) of een BWBR-nummer.</div>';
+    if (status) status.textContent = 'Geen besluiten gevonden.';
     return;
   }
+  if (status) status.textContent = `${totaal} ${totaal===1?'besluit':'besluiten'}${totaal>CAP?`, eerste ${CAP} getoond`:''}.`;
 
-  lijst.innerHTML = gefilterd.slice(0, 100).map((b, i) => `
-    <div class="besluit-item" id="item-${i}" onclick="toonDetail(${i})">
+  lijst.innerHTML =
+    (totaal > CAP ? `<div class="cap-melding">De eerste ${CAP} van ${totaal} worden getoond. Verfijn met een type of zoekterm.</div>` : '') +
+    gefilterd.slice(0, CAP).map((b, i) => `
+    <button class="besluit-item" id="item-${i}" type="button" aria-pressed="false" onclick="toonDetail(${i})">
       <div class="besluit-header">
-        <span class="type-badge b-${b.type}">${b.type}</span>
+        <span class="type-badge b-${esc(b.type)}">${esc(b.type)}</span>
         <div>
           <div class="besluit-titel">${esc(b.titel)}</div>
-          <div class="besluit-meta">${b.identifier} · ${b.datum || 'datum onbekend'} · ${b.categorie}</div>
+          <div class="besluit-meta">${esc(b.identifier)} · ${esc(b.datum || 'datum onbekend')} · ${esc(b.categorie)}</div>
         </div>
       </div>
-    </div>`).join('');
+    </button>`).join('');
 }
 
 function toonDetail(idx) {
   const b = gefilterd[idx];
   if (!b) return;
 
-  document.querySelectorAll('.besluit-item').forEach(el => el.classList.remove('geselecteerd'));
-  document.getElementById(`item-${idx}`)?.classList.add('geselecteerd');
+  document.querySelectorAll('.besluit-item').forEach(el => { el.classList.remove('geselecteerd'); el.setAttribute('aria-pressed','false'); });
+  const sel = document.getElementById(`item-${idx}`);
+  if (sel) { sel.classList.add('geselecteerd'); sel.setAttribute('aria-pressed','true'); }
 
   // Markeer zoektermen
   let body = esc(b.body || '(Geen tekst beschikbaar)');
@@ -199,23 +218,23 @@ function toonDetail(idx) {
   ['verleent','verleen','ondermandaat','mandaat','volmacht','machtiging','delegatie',
    'gemandateerd','bevoegd namens','opdracht','doorgeven','doorgegeven'].forEach(t => {
     const re = new RegExp(`\\b${t}\\b`, 'gi');
-    body = body.replace(re, m => `<strong style="color:var(--oranje)">${m}</strong>`);
+    body = body.replace(re, m => `<strong style="color:var(--petrol)">${m}</strong>`);
   });
 
   document.getElementById('detail').innerHTML = `
     <div class="detail-header">
       <span style="display:inline-block;padding:0.2rem 0.55rem;border-radius:3px;
-        font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;
-        margin-bottom:0.5rem;background:${typeBg(b.type)};color:${typeClr(b.type)}">${b.type}</span>
+        font-family:'DM Mono',monospace;font-size:0.62rem;font-weight:600;
+        margin-bottom:0.5rem;background:${typeBg(b.type)};color:${typeClr(b.type)}">${esc(b.type)}</span>
       <div class="detail-titel">${esc(b.titel)}</div>
-      <div class="detail-meta">${b.identifier} · ${b.datum || 'datum onbekend'} · ${b.categorie}</div>
+      <div class="detail-meta">${esc(b.identifier)} · ${esc(b.datum || 'datum onbekend')} · ${esc(b.categorie)}</div>
     </div>
     <div class="detail-acties">
       <a class="detail-btn prim" href="wet.html?id=${encodeURIComponent(b.identifier)}">Bekijk op deze site</a>
-      <a class="detail-btn" href="https://wetten.overheid.nl/${b.identifier}" target="_blank" rel="noopener">wetten.overheid.nl</a>
+      <a class="detail-btn" href="https://wetten.overheid.nl/${encodeURIComponent(b.identifier)}" target="_blank" rel="noopener">wetten.overheid.nl</a>
     </div>
     <div class="detail-body">
-      <div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--zacht);
+      <div style="font-family:'DM Mono',monospace;font-size:0.65rem;color:var(--zacht);
         margin-bottom:0.6rem;text-transform:uppercase;letter-spacing:0.05em;">
         Inhoud besluit
       </div>
@@ -244,18 +263,23 @@ function snel(q) {
   document.getElementById('ac').className = 'ac';
 }
 
+function sluitAC(){
+  document.getElementById('ac').className = 'ac';
+  document.getElementById('zoek').setAttribute('aria-expanded','false');
+}
 function updateAC(q) {
   const ac = document.getElementById('ac');
   acIdx = -1;
-  if (q.length < 2) { ac.className = 'ac'; return; }
+  if (q.length < 2) { sluitAC(); return; }
   const hits = data.filter(b => (b.titel||'').toLowerCase().includes(q.toLowerCase())).slice(0, 8);
-  if (!hits.length) { ac.className = 'ac'; return; }
+  if (!hits.length) { sluitAC(); return; }
   ac.innerHTML = hits.map((b, i) => `
-    <div class="ac-item" onclick="snel('${b.identifier}')">
+    <div class="ac-item" role="option" id="ac-opt-${i}" onclick="snel('${esc(b.identifier)}')">
       <div class="ac-naam">${esc(b.titel).replace(new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi'), m => `<mark>${m}</mark>`)}</div>
       <div class="ac-sub">${esc(b.identifier)} · ${esc(b.type)} · ${esc(b.datum||'')}</div>
     </div>`).join('');
   ac.className = 'ac open';
+  document.getElementById('zoek').setAttribute('aria-expanded','true');
 }
 
 function acKey(e) {
@@ -269,9 +293,11 @@ function acKey(e) {
 
 function esc(t){return(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 
-function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu');m.style.display=m.style.display==='block'?'none':'block';}
-document.addEventListener('click',()=>{const m=document.getElementById('gh-menu');if(m)m.style.display='none';});
-document.addEventListener('click',e=>{if(!e.target.closest('.zoek-wrap'))document.getElementById('ac').className='ac';});
+function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu'),b=document.getElementById('gh-btn');if(!m)return;const open=m.style.display==='block';m.style.display=open?'none':'block';if(b)b.setAttribute('aria-expanded',String(!open));}
+function sluitGH(){const m=document.getElementById('gh-menu'),b=document.getElementById('gh-btn');if(m)m.style.display='none';if(b)b.setAttribute('aria-expanded','false');}
+document.addEventListener('click',()=>sluitGH());
+document.addEventListener('click',e=>{if(!e.target.closest('.zoek-wrap'))sluitAC();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){sluitGH();sluitAC();}});
 
 init();
 </script>
