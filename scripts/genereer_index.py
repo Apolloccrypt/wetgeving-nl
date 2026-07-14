@@ -155,7 +155,9 @@ def main():
             "identifier": meta.get("identifier", ""),
             "categorie":  categorie,
             "type":       type_naam,
-            "datum":      meta.get("last_updated", meta.get("publication_date", "")),
+            # De schrijvers emitten Nederlandse sleutels; val terug op de oude Engelse
+            "datum":      (meta.get("laatste_update") or meta.get("publicatiedatum")
+                           or meta.get("last_updated") or meta.get("publication_date") or ""),
             "status":     status,
             "pad":        "wetten/" + str(rel).replace("\\", "/"),
         }
@@ -193,6 +195,19 @@ def main():
     gesorteerd = sorted(range(len(index)), key=lambda x: index[x]["titel"].lower())
     index = [index[i] for i in gesorteerd]
     zoekindex_lijst = [zoekindex[i] for i in gesorteerd]
+
+    # Regressie-guard: weiger een run die de dataset plotseling doet krimpen
+    # (bv. een half-mislukte bron-run die goede wetten met afval zou overschrijven).
+    oud_meta = Path(args.meta)
+    if oud_meta.exists():
+        try:
+            oud_n = json.loads(oud_meta.read_text(encoding="utf-8")).get("aantal_wetten", 0)
+            if oud_n and len(index) < 0.99 * oud_n:
+                raise SystemExit(
+                    f"AFGEBROKEN: index kromp van {oud_n} naar {len(index)} (<99%). "
+                    "Waarschijnlijk een slechte bron-run; niets weggeschreven.")
+        except (ValueError, KeyError):
+            pass
 
     output_pad = Path(args.output)
     output_pad.write_text(
@@ -233,7 +248,7 @@ def main():
 
     # sitemap.xml — alle wet-URLs + hoofdpagina's (zoekmachine-neutraal)
     basis = "https://vrijewetgeving.nl"
-    statisch = ["", "over.html", "bevoegdheden.html", "bevoegdhedenketen.html", "rechten.html"]
+    statisch = ["", "over.html", "api.html", "bevoegdheden.html", "bevoegdhedenketen.html", "rechten.html"]
     regels = ['<?xml version="1.0" encoding="UTF-8"?>',
               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for s in statisch:

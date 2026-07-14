@@ -38,6 +38,7 @@ def feed(titel, self_url, items):
         f'<link rel="self" href="{x(self_url)}"/>',
         f"<id>{x(self_url)}</id>",
         f"<updated>{bijgewerkt}</updated>",
+        "<author><name>vrijewetgeving.nl</name></author>",
     ]
     for w in items:
         url = f"{BASIS}/wet.html?id={w['identifier']}"
