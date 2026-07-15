@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Economische Zaken en Klimaat van 1 februari 2018, nr. WJZ/17203973, houdende regels voor het verstrekken van subsidies door de Ministeries van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit aan de instituten voor toegepast onderzoek (Subsidieregeling instituten voor toegepast onderzoek)"
+title: "Subsidieregeling instituten voor toegepast onderzoek"
 identifier: "BWBR0040605"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040605"
-soort: "ministeriele-regeling"
-stam_id: "14536163"
-version_id: "24878272"
-internal_id: "C35592191"
-label_id: "14494154"
-dtd_version: "2.0"
-original_entry_into_force: "2018-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040605/2026-04-01/0"
-intitule_bron: "Stcrt.2018-5475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-02-01"
-intitule_published: "2018-02-05"
-intitule_in_force: "2018-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-5475"
-original_signed_date: "2018-02-01"
-original_published_date: "2018-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2018-5475"
-entry_into_force_date: "2018-04-01"
-jci_1_3: "jci1.3:c:BWBR0040605&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0040605&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling instituten voor toegepast onderzoek"
-signed_date: "2018-02-01"
-entry_into_force: "2018-04-01"
+categorie: "Overig"
+publicatiedatum: 2026-04-01
+laatste_update: 2026-04-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0040605"
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 1 februari 2018, nr. WJZ/17203973, houdende regels voor het verstrekken van subsidies door de Ministeries van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit aan de instituten voor toegepast onderzoek (Subsidieregeling instituten voor toegepast onderzoek)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -44,7 +18,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -132,11 +106,11 @@ In deze regeling wordt verstaan onder:
 
 - **wettelijke onderzoekstaak:** niet economische dienst van algemeen belang in de vorm van onderzoek, advisering of inzet van onderzoeksfaciliteiten, onlosmakelijk verbonden met de uitoefening van taken, met inbegrip van de uitoefening van openbaar gezag, door de minister of andere ministers die het aangaat of instellingen of organen van de Europese Unie, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=1&z=2026-04-01&g=2026-04-01) en ingericht en gefinancierd overeenkomstig de aanwijzingen en vergoedingen die door de minister worden vastgesteld overeenkomstig deze regeling.
 
-##### Artikel 2
+#### Artikel 2
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing.
 
-##### Artikel 3
+#### Artikel 3
 
 1. Het instituut legt eenmaal per vier jaren een strategisch plan ter goedkeuring voor aan de minister. De goedkeuring geschiedt, in afwijking van de begripsbepaling van minister in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=1&z=2026-04-01&g=2026-04-01), door de minister die op basis van deze regeling instituutssubsidie verstrekt aan het instituut.
 
@@ -168,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 5. De minister beslist, in overeenstemming met de minister die het mede aangaat, uiterlijk op 31 juli van het boekjaar voorafgaand aan het eerste boekjaar waarop het strategisch plan betrekking heeft over de goedkeuring van het strategisch plan.
 
-##### Artikel 4
+#### Artikel 4
 
 In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) bevat het activiteitenplan:
 
@@ -186,19 +160,19 @@ In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten
 
 - d. een beschrijving van de methode, bedoeld in [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-04-01&g=2026-04-01), die het instituut gebruikt bij economische activiteiten en hoe deze wordt toegepast, zodat het instituut bewerkstelligt dat het voldoet aan de verplichtingen, bedoeld in artikel 29, eerste lid.
 
-##### Artikel 5
+#### Artikel 5
 
 1. De minister kan op grond van deze regeling subsidie verstrekken aan een instituut dat ten doel heeft toepassingsgericht onderzoek te doen om kennis te ontwikkelen, toe te passen en te verspreiden om maatschappelijke vraagstukken op te lossen, bij te dragen aan de innovatiekracht van Nederland en strategische onderzoeksfaciliteiten te beheren.
 
 2. De minister verstrekt subsidie in de vorm van instituutssubsidie, programmasubsidie of infrastructuursubsidie.
 
-##### Artikel 6
+#### Artikel 6
 
 1. In afwijking van [artikel 4:60 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:60) wordt de aanvraag om subsidie uiterlijk acht weken voor de aanvang van het boekjaar ingediend.
 
 2. De minister geeft een beschikking op een aanvraag om subsidie binnen acht weken na ontvangst van de aanvraag.
 
-##### Artikel 7
+#### Artikel 7
 
 1. Voor subsidie komen de redelijk gemaakte kosten in aanmerking die verbonden zijn met de uitvoering van een activiteit waarvoor instituutssubsidie, programmasubsidie of infrastructuursubsidie wordt aangewend, die zien op:
 
@@ -220,7 +194,7 @@ In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten
 
 5. Afschrijvingskosten van apparatuur en gebouwen worden lineair berekend als fractie van de aanschafprijs op basis van bedrijfseconomische grondslagen en normen.
 
-##### Artikel 8
+#### Artikel 8
 
 1. De subsidiabele kosten worden berekend op basis van een voor het instituut gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die het instituut stelselmatig toepast.
 
@@ -236,13 +210,13 @@ In aanvulling op [artikel 4:62 van de Algemene wet bestuursrecht](https://wetten
 
 #### § 2. Instituutssubsidie
 
-##### Artikel 9
+#### Artikel 9
 
 1. De minister verstrekt op aanvraag instituutssubsidie aan een instituut voor de verwezenlijking van de doelstellingen van een door de minister goedgekeurd strategisch plan.
 
 2. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=2&z=2026-04-01&g=2026-04-01) bij deze regeling per instituut het subsidieplafond bekend voor de instituutssubsidie in het aankomende boekjaar of de aankomende boekjaren.
 
-##### Artikel 10
+#### Artikel 10
 
 Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor subsidiabele kosten die gefinancierd kunnen worden uit een instituutssubsidie, wordt slechts een zodanig bedrag aan subsidie verstrekt dat:
 
@@ -254,7 +228,7 @@ het totale bedrag aan subsidies
 
 #### § 3. Programmasubsidie
 
-##### Artikel 11
+#### Artikel 11
 
 De minister verstrekt, in overeenstemming met de minister die het mede aangaat, op aanvraag programmasubsidie aan een instituut voor de uitvoering van
 
@@ -262,17 +236,17 @@ De minister verstrekt, in overeenstemming met de minister die het mede aangaat, 
 
 - b. programma’s voor wettelijke onderzoekstaken.
 
-##### Artikel 12
+#### Artikel 12
 
 1. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling de onderzoeksthema’s en de subsidieplafonds bekend voor de programmasubsidies in het aankomende boekjaar of de aankomende boekjaren.
 
 2. De minister stelt een subsidieplafond vast voor een instituut binnen een bepaald onderzoeksprogramma met een bepaald onderzoeksthema, of programma voor wettelijke onderzoekstaken.
 
-##### Artikel 13
+#### Artikel 13
 
 De activiteiten die vanuit een programmasubsidie gesubsidieerd worden, binnen de reikwijdte van de definitie van programmasubsidie in artikel 1, onderdeel a, bestaan uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan.
 
-##### Artikel 14
+#### Artikel 14
 
 1. Het instituut verschaft op verzoek van de minister inlichtingen over de voortgang van een programma, waarvoor programmasubsidie wordt aangewend.
 
@@ -284,7 +258,7 @@ De activiteiten die vanuit een programmasubsidie gesubsidieerd worden, binnen de
 
 - b. niet, niet tijdig of niet geheel aan de aan de programmasubsidie verbonden verplichtingen zal worden voldaan.
 
-##### Artikel 15
+#### Artikel 15
 
 1. Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister indien er sprake is van essentiële wijzigingen in de aard of uitvoering van een programma, waarvoor programmasubsidie wordt aangewend.
 
@@ -292,7 +266,7 @@ De activiteiten die vanuit een programmasubsidie gesubsidieerd worden, binnen de
 
 3. Geen toestemming is vereist voor een wijziging van de in de subsidieverlening gespecificeerde kostenposten indien de omvang van de kostenpost niet meer dan 15 procent wijzigt.
 
-##### Artikel 16
+#### Artikel 16
 
 Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten van een activiteit in een programma, waarvoor programmasubsidie wordt aangewend, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies:
 
@@ -302,13 +276,13 @@ Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstr
 
 #### § 4. Infrastructuursubsidie
 
-##### Artikel 17
+#### Artikel 17
 
 1. De minister verstrekt, in overeenstemming met de minister die het mede aangaat, op aanvraag infrastructuursubsidie aan een instituut.
 
 2. Indien van toepassing maakt de minister uiterlijk op 1 augustus in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=4&z=2026-04-01&g=2026-04-01) bij deze regeling per instituut het subsidieplafond bekend voor infrastructuursubsidie in het aankomende boekjaar of de aankomende boekjaren.
 
-##### Artikel 18
+#### Artikel 18
 
 1. De infrastructuursubsidie bedraagt 100 procent van de subsidiabele kosten, voor zover het instituut bij het verrichten van economische activiteiten waarvoor infrastructuursubsidie wordt aangewend, voldoet aan [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-04-01&g=2026-04-01).
 
@@ -316,11 +290,11 @@ Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstr
 
 #### § 5. Afwijzingsgronden
 
-##### Artikel 19
+#### Artikel 19
 
 De minister wijst een aanvraag om subsidie af indien de aanvraag niet voldoet aan de in deze regeling gestelde regels.
 
-##### Artikel 20
+#### Artikel 20
 
 De minister wijst een aanvraag om subsidie af voor zover:
 
@@ -338,11 +312,11 @@ De minister wijst een aanvraag om subsidie af voor zover:
 
 #### § 6.1. Algemeen
 
-##### Artikel 21
+#### Artikel 21
 
 [Artikel 4:65 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:65) is van overeenkomstige toepassing op aanvragen voor financiële bijstand bij de Europese Commissie, de Europese Investeringsbank of het Europees Investeringsfonds.
 
-##### Artikel 22
+#### Artikel 22
 
 1. Een instituut maakt uiterlijk twaalf weken na afloop van het boekjaar alle resultaten die zijn behaald met activiteiten waarvoor in dat boekjaar subsidie is verstrekt openbaar, voor zover hierop geen intellectuele eigendomsrechten zijn of zullen worden gevestigd.
 
@@ -360,17 +334,17 @@ De minister wijst een aanvraag om subsidie af voor zover:
 
 6. In afwijking van het eerste tot en met vijfde lid, worden de regels voor openbaarmaking van resultaten die voortvloeien uit programma’s voor wettelijke onderzoekstaken die gefinancierd zijn met programmasubsidie, vastgelegd in het desbetreffende programma overeenkomstig de aanwijzingen van de minister die het aangaat.
 
-##### Artikel 23
+#### Artikel 23
 
 Indien een instituut inkomsten verwerft uit activiteiten die met instituutssubsidie zijn bekostigd, worden deze uitsluitend ingezet onder dezelfde voorwaarden als instituutssubsidie.
 
-##### Artikel 24
+#### Artikel 24
 
 Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen b, i en j, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
 
 #### § 6.2. Staatssteun
 
-##### Artikel 25
+#### Artikel 25
 
 1. Het is verboden instituutssubsidie aan te wenden voor:
 
@@ -386,7 +360,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 3. Het is verboden infrastructuursubsidie aan te wenden voor de financiering van economische activiteiten door het instituut.
 
-##### Artikel 26
+#### Artikel 26
 
 1. Voor zover het instituut personeel, apparatuur of andere faciliteiten ter beschikking stelt aan een derde, anders dan in de vorm van een samenwerking als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=27&z=2026-04-01&g=2026-04-01), of door middel van het verrichten van economische activiteiten als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=28&z=2026-04-01&g=2026-04-01), brengt het instituut:
 
@@ -396,7 +370,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 2. Artikel 8 is van overeenkomstige toepassing.
 
-##### Artikel 27
+#### Artikel 27
 
 1. Indien een instituut deelneemt aan een project dat wordt uitgevoerd in daadwerkelijke samenwerking met ondernemingen:
 
@@ -428,7 +402,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 5. Dit artikel is van overeenkomstige toepassing op andere activiteiten die een instituut verricht in samenwerking met ondernemingen, voor zover deze activiteiten van het instituut worden gefinancierd door subsidies van een ander bestuursorgaan of financiële bijstand ontvangen van de Europese Commissie, de Europese Investeringsbank of het Europees Investeringsfonds.
 
-##### Artikel 28
+#### Artikel 28
 
 1. Indien een instituut economische activiteiten verricht in de vorm van contractonderzoek of in de vorm van een onderzoeksdienst aan een onderneming, draagt het instituut er zorg voor dat het:
 
@@ -444,7 +418,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 3. Wanneer de eigendom van of de toegangsrechten tot intellectuele eigendomsrechten bij het instituut blijven berusten, mag de marktwaarde daarvan in mindering worden gebracht op de voor de betrokken economische activiteiten verschuldigde prijs.
 
-##### Artikel 29
+#### Artikel 29
 
 1. Bij het verrichten van economische activiteiten neemt het instituut de verplichtingen in acht die van toepassing zijn op grond van artikel 107, derde lid, onderdelen b, c en e, van het Verdrag betreffende de werking van de Europese Unie en daarop gebaseerde kaders, mededelingen en andere richtsnoeren van de Europese Commissie evenals de verordeningen, bedoeld in de artikelen 108, vierde lid, en 109 van het Verdrag betreffende de werking van de Europese Unie.
 
@@ -470,7 +444,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 7. Het instituut verstrekt alle benodigde informatie aan de minister om de verslaglegging of aanmelding op effectieve wijze te kunnen verrichten. De minister informeert het instituut over de verslaglegging of aanmelding.
 
-##### Artikel 30
+#### Artikel 30
 
 1. Het instituut voert een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden:
 
@@ -492,7 +466,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 5. In de administratie wordt de methode verwerkt die overeenkomstig [artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-04-01&g=2026-04-01), is toegepast door het instituut overeenkomstig de verplichtingen die voortvloeien uit de kaders, bedoeld in artikel 29, eerste lid.
 
-##### Artikel 31
+#### Artikel 31
 
 1. Indien uit de administratie, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-04-01&g=2026-04-01), blijkt dat het maximumpercentage als bedoeld in[artikel 29, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=6&sub-paragraaf=6.2&artikel=29&z=2026-04-01&g=2026-04-01), is overschreden in het desbetreffende boekjaar, neemt het instituut in het boekjaar volgend op het boekjaar waarin de overtreding is begaan, een voorziening ten laste van het eigen vermogen ter grootte van een percentage van de instituutssubsidie die is verleend in het boekjaar waarin de overtreding is begaan. Dit percentage wordt bepaald door het percentage, berekend op basis van artikel 29, tweede lid, onderdeel a, onder 1°, te vermenigvuldigen met 0,5.
 
@@ -506,7 +480,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 #### § 6.3. Derivaten
 
-##### Artikel 32
+#### Artikel 32
 
 1. Een instituut sluit geen overeenkomsten af inzake financiële instrumenten, als bedoeld in [artikel 1.1, onderdelen d tot en met j, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
@@ -518,7 +492,7 @@ Het instituut vraagt voorafgaand schriftelijk toestemming aan de minister voor d
 
 - b. het beperken van valutarisico’s door schommelingen in wisselkoersen door middel van een valutatermijncontract of valutaoptie.
 
-##### Artikel 33
+#### Artikel 33
 
 Een instituut dat derivaten aanhoudt, draagt er zorg voor dat:
 
@@ -530,7 +504,7 @@ Een instituut dat derivaten aanhoudt, draagt er zorg voor dat:
 
 - d. beheersingsstructuren aanwezig zijn rond de risico’s van derivaten.
 
-##### Artikel 34
+#### Artikel 34
 
 1. Een instituut sluit een overeenkomst inzake een derivaat slechts af met een financiële onderneming die:
 
@@ -542,7 +516,7 @@ Een instituut dat derivaten aanhoudt, draagt er zorg voor dat:
 
 3. De financiële onderneming beschikt over verklaringen van twee kredietbeoordelingsbureaus, waaruit blijkt dat de financiële onderneming voldoet aan de eisen opgenomen in het tweede lid.
 
-##### Artikel 35
+#### Artikel 35
 
 Een instituut sluit geen overeenkomsten inzake derivaten af waarin:
 
@@ -552,7 +526,7 @@ Een instituut sluit geen overeenkomsten inzake derivaten af waarin:
 
 - c. een verplichting tot onderpand voor het instituut is opgenomen.
 
-##### Artikel 36
+#### Artikel 36
 
 1. Een overeenkomst inzake derivaten wordt pas afgesloten vanaf het moment dat een onderliggende financiële verplichting is aangegaan.
 
@@ -564,11 +538,11 @@ Een instituut sluit geen overeenkomsten inzake derivaten af waarin:
 
 5. De minister kan op aanvraag van het instituut ontheffing verlenen van de verplichtingen, bedoeld in het eerste tot en met vierde lid.
 
-##### Artikel 37
+#### Artikel 37
 
 Een instituut dat derivaten aanhoudt, verantwoordt zich hierover in zijn jaarverslag op een transparante, complete en inzichtelijke wijze.
 
-##### Artikel 38
+#### Artikel 38
 
 1. Een instituut dat op het tijdstip van inwerkingtreding van deze regeling een of meerdere derivaten aanhoudt met clausules die niet in overeenstemming zijn met de verplichtingen opgenomen in deze paragraaf, stelt een plan van aanpak vast om deze derivaten binnen een redelijkerwijs haalbaar te achten termijn af te bouwen en stuurt dit naar de minister.
 
@@ -578,13 +552,13 @@ Een instituut dat derivaten aanhoudt, verantwoordt zich hierover in zijn jaarver
 
 #### § 7. Begrotingsvoorbehoud
 
-##### Artikel 39
+#### Artikel 39
 
 Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 #### § 8. Bevoorschotting
 
-##### Artikel 40
+#### Artikel 40
 
 1. De minister verstrekt ambtshalve voorschotten voor instituutssubsidie, programmasubsidie en infrastructuursubsidie.
 
@@ -596,7 +570,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 #### § 9. Subsidievaststelling
 
-##### Artikel 41
+#### Artikel 41
 
 1. Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
@@ -604,13 +578,13 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 3. Indien een beschikking tot subsidievaststelling niet binnen de in het tweede lid genoemde termijn kan worden gegeven, kan deze termijn eenmaal met dertien weken worden verlengd.
 
-##### Artikel 42
+#### Artikel 42
 
 1. De opdracht, bedoeld in [artikel 4:78, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78) strekt tevens tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen.
 
 2. Het onderzoek, bedoeld in het eerste lid, vindt plaats overeenkomstig het controleprotocol, opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&bijlage=5&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-##### Artikel 43
+#### Artikel 43
 
 1. Indien in een bepaald boekjaar meer of minder subsidiabele kosten worden gemaakt dan waarvoor subsidie is verleend, waardoor er sprake is van een tekort of een overschot aan subsidie, worden de oorzaken en de gevolgen hiervan toegelicht in de aanvraag tot subsidievaststelling, bedoeld in [artikel 4:74 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:74).
 
@@ -630,7 +604,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 #### § 10. Evaluatie
 
-##### Artikel 44
+#### Artikel 44
 
 1. De subsidieontvanger verleent medewerking aan een evaluatie van de effecten van de door hem op grond van deze regeling uitgevoerde activiteiten, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
@@ -638,7 +612,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 #### § 11. Slotbepalingen
 
-##### Artikel 45
+#### Artikel 45
 
 1. Deze regeling is niet van toepassing op subsidies die voorafgaande aan de inwerkingtreding van deze regeling zijn verleend of vastgesteld.
 
@@ -650,7 +624,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 3. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=1&artikel=3&z=2026-04-01&g=2026-04-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&paragraaf=2&artikel=9&z=2026-04-01&g=2026-04-01), geldt als strategisch plan voor de boekjaren 2018 tot en met 2021 het strategisch plan van het instituut, zoals dat voorafgaand aan de inwerkingtreding van deze regeling is opgesteld en ter beschikking is gesteld aan de minister en dat op die boekjaren van toepassing is.
 
-##### Artikel 46
+#### Artikel 46
 
 De volgende regelingen worden ingetrokken:
 
@@ -658,15 +632,15 @@ De volgende regelingen worden ingetrokken:
 
 - b. de [Subsidieregeling NLR](https://wetten.overheid.nl/jci1.3:c:BWBR0027612).
 
-##### Artikel 47
+#### Artikel 47
 
 Deze regeling vervalt met ingang van 31 januari 2031, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-##### Artikel 48
+#### Artikel 48
 
 Deze regeling treedt in werking met ingang van 1 april 2018.
 
-##### Artikel 49
+#### Artikel 49
 
 Deze regeling wordt aangehaald als: Subsidieregeling instituten voor toegepast onderzoek.
 
@@ -1121,7 +1095,7 @@ Het subsidieplafond voor de programmasubsidie voor het boekjaar 2022 wordt als v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 43a
+#### Artikel 43a
 
 Indien de subsidie voor twee of meer boekjaren wordt verleend en de betreffende subsidiabele activiteiten moesten niet in het voorgaande boekjaar worden afgerond, wordt de subsidie ambtshalve vastgesteld binnen dertien weken na het verstrekken van de gegevens bedoeld in [artikel 4:67, tweede lid, van de algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:67).
 

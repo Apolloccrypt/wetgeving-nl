@@ -1,54 +1,28 @@
 ---
-title: "Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00951, houdende vaststelling van het examenreglement staatsexamens vo (Regeling examenreglement staatsexamens vo)"
+title: "Regeling examenreglement staatsexamens vo"
 identifier: "BWBR0051170"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-10-01"
-last_updated: "2025-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051170"
-soort: "zbo"
-stam_id: "17459033"
-version_id: "30791722"
-internal_id: "C44135671"
-label_id: "17361484"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051170/2025-10-01/0"
-intitule_bron: "Stcrt.2025-22376"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-23"
-intitule_published: "2025-07-02"
-intitule_in_force: "2025-07-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-22376"
-original_signed_date: "2025-06-23"
-original_published_date: "2025-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-22376"
-entry_into_force_date: "2025-10-01"
-jci_1_3: "jci1.3:c:BWBR0051170&z=2025-10-01&g=2025-10-01"
-jci_1_0: "1.0:c:BWBR0051170&g=2025-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling examenreglement staatsexamens vo"
-signed_date: "2025-06-23"
-entry_into_force: "2025-10-01"
+categorie: "Overig"
+publicatiedatum: 2025-10-01
+laatste_update: 2025-10-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0051170"
 ---
+
 # Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00951, houdende vaststelling van het examenreglement staatsexamens vo (Regeling examenreglement staatsexamens vo)
 
 Gelet op [artikel 2, derde lid onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 2.81, eerste lid van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.81);
 
 Besluit:
 
-##### Artikel 1. Examenreglement staatsexamens voortgezet onderwijs
+#### Artikel 1. Examenreglement staatsexamens voortgezet onderwijs
 
 Het examenreglement staatsexamens voortgezet onderwijs, bedoeld in [artikel 2, derde lid, onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 2.81, eerste lid van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.81), wordt vastgesteld als opgenomen in de bijlage bij deze regeling.
 
-##### Artikel 2. Inwerkingtreding
+#### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2025.
 
-##### Artikel 3. Citeertitel
+#### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling examenreglement staatsexamens vo.
 

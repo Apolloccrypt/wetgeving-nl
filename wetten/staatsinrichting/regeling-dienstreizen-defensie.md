@@ -1,38 +1,13 @@
 ---
 title: "Regeling dienstreizen defensie"
 identifier: "BWBR0039787"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-18"
-last_updated: "2026-03-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039787"
-soort: "ministeriele-regeling"
-stam_id: "14071653"
-version_id: "24230662"
-internal_id: "C34804031"
-label_id: "14032884"
-dtd_version: "2.0"
-original_entry_into_force: "1996-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039787/2026-03-18/0"
-intitule_bron: "Stcrt.2017-40224"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-07"
-intitule_published: "2017-07-17"
-intitule_in_force: "1996-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-40224"
-original_signed_date: "2017-07-07"
-original_published_date: "2017-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-40224"
-entry_into_force_date: "1996-05-01"
-jci_1_3: "jci1.3:c:BWBR0039787&z=2026-03-18&g=2026-03-18"
-jci_1_0: "1.0:c:BWBR0039787&g=2026-03-18"
-citeertitel_status: "officieel"
-signed_date: "2017-07-07"
-entry_into_force: "1996-05-01"
+categorie: "Overig"
+publicatiedatum: 2026-03-18
+laatste_update: 2026-03-18
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0039787"
 ---
+
 # Regeling dienstreizen defensie
 
 Gelet op:
@@ -45,7 +20,7 @@ Treedt in werking op het tijdstip waarop het Besluit dienstreizen defensie in we
 
 #### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 1. Begripsbepaling
+#### Artikel 1. Begripsbepaling
 
 - 1. In deze regeling wordt verstaan onder:
 
@@ -71,19 +46,19 @@ Treedt in werking op het tijdstip waarop het Besluit dienstreizen defensie in we
 
 - 2. Onder commandant, bedoeld in deze regeling wordt verstaan de commandant als bedoeld in de Regeling aanwijzing commandanten defensie.
 
-##### Artikel 2. Niet-toepasselijkheid regeling
+#### Artikel 2. Niet-toepasselijkheid regeling
 
 De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=3) zijn degenen die op individuele basis of in groepsverband zijn ingezet in het kader van een door de minister als zodanig aangemerkte vredes- en humanitaire operatie of andere vorm van daadwerkelijke inzet buiten Nederland.
 
 #### Paragraaf 2. Vergoeding van reiskosten
 
-##### Artikel 3. Reiskosten openbaar vervoer
+#### Artikel 3. Reiskosten openbaar vervoer
 
 - 1. Wegens reiskosten met openbaar vervoer worden vergoed de kosten die blijkens overgelegde bewijsstukken in verband met de dienstreis zijn gemaakt in het vervoermiddel dat voor de dienstreis in aanmerking komt.
 
 - 2. Niet voor vergoeding komen in aanmerking de kosten wegens reizen met lokaal openbaar vervoer in een gebied buiten Nederland.
 
-##### Artikel 4. Indeling in groepen
+#### Artikel 4. Indeling in groepen
 
 - 1. De dienstreizigers zijn ingedeeld in vier groepen:
 
@@ -97,7 +72,7 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 - 2. Ingeval van een dienstreiziger met een titulaire rang of een rang verbonden aan de fase van een bepaalde opleiding, wordt deze door de commandant ingedeeld in de met deze rang overeenkomende groep.
 
-##### Artikel 5. Indeling in reisklassen
+#### Artikel 5. Indeling in reisklassen
 
 - 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2026-03-18&g=2026-03-18), Klasse-indeling bij dienstreizen Defensie.
 
@@ -109,7 +84,7 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 - 5. De commandant kan de persoonsbeveiliger die ter uitvoering van zijn opdracht een dienstreis onderneemt met een of meer dienstreizigers die in een hogere klasse mogen reizen, toestaan in diezelfde klasse te reizen.
 
-##### Artikel 6. Omslagpunt niet van overheidswege verstrekt abonnement
+#### Artikel 6. Omslagpunt niet van overheidswege verstrekt abonnement
 
 - 1. Ter bepaling van het omslagpunt, bedoeld in [artikel 7, derde lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), worden de door de dienstreiziger gemaakte reiskosten gesaldeerd met de door de dienstreiziger ontvangen reiskostentegemoetkomingen.
 
@@ -127,11 +102,11 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 - 4. De eigen bijdrage bedraagt € 48,29 per maand indien een door Defensie verstrekt openbaar vervoerabonnement of een tegemoetkoming voor het dagelijks reizen per openbaar vervoer op basis van een jaar(traject)kaart wordt ontvangen. De eigen bijdrage bedraagt € 59,95 per maand indien een tegemoetkoming voor het dagelijks reizen per openbaar vervoer wordt ontvangen op basis van een maand(traject)kaart.
 
-##### Artikel 7. Vergoeding gebruik eigen motorrijtuig
+#### Artikel 7. Vergoeding gebruik eigen motorrijtuig
 
 De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van bijlage B, tabel 1.
 
-##### Artikel 8. Kilometeromslagpunt en inbegrepen kosten
+#### Artikel 8. Kilometeromslagpunt en inbegrepen kosten
 
 - 1. Het aantal kilometers, bedoeld in [artikel 9, derde lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), bedraagt 10.000.
 
@@ -147,15 +122,15 @@ De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https:/
 
 - 3. De betaalde tol in het buitenland wordt vergoed.
 
-##### Artikel 9
+#### Artikel 9
 
 Vervallen
 
-##### Artikel 10
+#### Artikel 10
 
 Vervallen
 
-##### Artikel 11. Vergoeding van fietsgebruik
+#### Artikel 11. Vergoeding van fietsgebruik
 
 - 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van bijlage B, tabel 2.
 
@@ -163,7 +138,7 @@ Vervallen
 
 #### Paragraaf 3. Vergoeding van verblijfkosten en andere kosten
 
-##### Artikel 12. Verblijfkostenvergoedingen
+#### Artikel 12. Verblijfkostenvergoedingen
 
 - 1. De vergoeding van de verblijfkosten, bedoeld in [artikel 12, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=12), bestaat uit:
 
@@ -219,7 +194,7 @@ Vervallen
 
 - 9. Indien bij reizen door verschillende gebieden buiten Nederland tijdens één of meer reisgedeelten geen uitgaven voor maaltijden of logies hoeven te worden gedaan, worden deze reisgedeelten gevoegd bij een volgend of voorafgaand reisgedeelte buiten Nederland in welk geval aanspraak bestaat op de in dat geval van toepassing zijnde uur component.
 
-##### Artikel 13. Vergoeding van andere kosten bij een buitenlandse dienstreis
+#### Artikel 13. Vergoeding van andere kosten bij een buitenlandse dienstreis
 
 - 1. Andere kosten, bedoeld in [artikel 12, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=12), die bij een buitenlandse dienstreis worden vergoed zijn de naar het oordeel van de commandant noodzakelijk gemaakte kosten ter zake van:
 
@@ -243,7 +218,7 @@ Vervallen
 
 - b. de dienstreis plaatsvindt binnen 5 jaar nadat een tegemoetkoming, bedoeld in het tweede lid, voor kleding voor hetzelfde klimaat is verstrekt.
 
-##### Artikel 14. Beperkingen in de vergoeding van verblijfkosten
+#### Artikel 14. Beperkingen in de vergoeding van verblijfkosten
 
 De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=13), aan te wijzen activiteiten zijn:
 
@@ -269,7 +244,7 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 #### Paragraaf 4. Reis- en verblijfkostenvergoeding bij detachering
 
-##### Artikel 15. Detachering en reiskostenvergoeding
+#### Artikel 15. Detachering en reiskostenvergoeding
 
 - 1. In geval van een detachering heeft de dienstreiziger die de status heeft van:
 
@@ -301,7 +276,7 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 5. Indien eerst achteraf blijkt dat een dienstreis een detachering wordt, is dit artikel, met uitzondering van het tweede lid, niet van toepassing op de reeds verstreken dagen.
 
-##### Artikel 16. Detachering en verblijfkostenvergoeding
+#### Artikel 16. Detachering en verblijfkostenvergoeding
 
 - 1. De eigen bijdrage, bedoeld in [artikel 14, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), wordt voor de dienstreiziger met de status van militair bij een detachering binnen Nederland, gesteld op:
 
@@ -325,17 +300,17 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2026-03-18&g=2026-03-18), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2026-03-18&g=2026-03-18), worden gehalveerd.
 
-##### Artikel 16a. Detachering Koninklijke Marechaussee
+#### Artikel 16a. Detachering Koninklijke Marechaussee
 
 Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2026-03-18&g=2026-03-18) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2026-03-18&g=2026-03-18), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
 
 #### Paragraaf 5. Diverse bepalingen; slotbepalingen
 
-##### Artikel 17. Voorschotverlening
+#### Artikel 17. Voorschotverlening
 
 De commandant kan voor de in deze regeling bedoelde vergoedingen een voorschot verstrekken.
 
-##### Artikel 18. Reisdeclaratie
+#### Artikel 18. Reisdeclaratie
 
 - 1. De reisdeclaratie wordt voldaan tot het bedrag, waarop volgens de door de dienstreiziger vermelde gegevens op grond van het [BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956) en de Regeling dienstreizen defensie aanspraak kan worden gemaakt of wordt gemaakt.
 
@@ -353,19 +328,19 @@ De commandant kan voor de in deze regeling bedoelde vergoedingen een voorschot v
 
 - e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2026-03-18&g=2026-03-18).
 
-##### Artikel 19. Rekenregels
+#### Artikel 19. Rekenregels
 
 Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2026-03-18&g=2026-03-18) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
 
-##### Artikel 20. Afbouwregeling militairen en burgerambtenaren
+#### Artikel 20. Afbouwregeling militairen en burgerambtenaren
 
 Vervallen
 
-##### Artikel 21. Inwerkingtreding
+#### Artikel 21. Inwerkingtreding
 
 Deze regeling treedt in werking op de dag waarop het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956) in werking treedt.
 
-##### Artikel 22. Citeertitel
+#### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 

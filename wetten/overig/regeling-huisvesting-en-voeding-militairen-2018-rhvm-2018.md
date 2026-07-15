@@ -1,38 +1,13 @@
 ---
 title: "Regeling huisvesting en voeding militairen 2018 (RHVM 2018)"
 identifier: "BWBR0040470"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0040470"
-soort: "ministeriele-regeling"
-stam_id: "14468323"
-version_id: "24758612"
-internal_id: "C35423931"
-label_id: "14428844"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0040470/2026-01-01/0"
-intitule_bron: "Stcrt.2017-74740"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-12-19"
-intitule_published: "2017-12-29"
-intitule_in_force: "2017-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-74740"
-original_signed_date: "2017-12-19"
-original_published_date: "2017-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-74740"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBR0040470&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0040470&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2017-12-19"
-entry_into_force: "2018-01-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0040470"
 ---
+
 # Regeling huisvesting en voeding militairen 2018 (RHVM 2018)
 
 Gelet op:
@@ -47,7 +22,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleiding
 
-##### Artikel 1. Begripsomschrijving
+#### Artikel 1. Begripsomschrijving
 
 In deze regeling wordt verstaan onder:
 
@@ -61,13 +36,13 @@ In deze regeling wordt verstaan onder:
 
 - **woning:** de verblijfplaats in Nederland waar de militair volgens de Basisregistratie Personen als ‘woonplaats’ staat ingeschreven, dan wel de verblijfplaats in het buitenland waar de militair metterwoon woonachtig is.
 
-##### Artikel 2. Toepasselijkheid
+#### Artikel 2. Toepasselijkheid
 
 Deze regeling is niet van toepassing op de militair op wie [hoofdstuk 3 van het Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3) van toepassing is.
 
 ### Hoofdstuk 2. Huisvesting
 
-##### Artikel 3. Verstrekking bij verplichte huisvesting
+#### Artikel 3. Verstrekking bij verplichte huisvesting
 
 De militair kan door de commandant worden verplicht gebruik te maken van huisvesting in het geval:
 
@@ -79,7 +54,7 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 - d. er sprake is van een opgelegde beperking van de bewegingsvrijheid.
 
-##### Artikel 4. Verstrekking op aanvraag
+#### Artikel 4. Verstrekking op aanvraag
 
 1. Aan de militair wordt door de commandant, op aanvraag, door Defensie huisvesting verleend;
 
@@ -97,7 +72,7 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 6. Samenloop van huisvesting en een tegemoetkoming in de kosten van het dagelijks reizen, genoemd in [artikel 19 van het Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=19), is niet mogelijk.
 
-##### Artikel 5. Huisvestingsaccommodatie
+#### Artikel 5. Huisvestingsaccommodatie
 
 1. De militair wordt huisvesting verleend op maximaal 15 kilometer van de plaats van tewerkstelling.
 
@@ -105,7 +80,7 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 3. In afwijking van het eerste lid kunnen in het Sector Overleg Defensie per locatie afwijkende afspraken worden gemaakt.
 
-##### Artikel 6. Eigen bijdrage huisvesting
+#### Artikel 6. Eigen bijdrage huisvesting
 
 1. De militair die huisvesting geniet op grond van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040470&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), is hiervoor een maandelijkse bijdrage verschuldigd.
 
@@ -129,7 +104,7 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 - c. om redenen van dienst – waaronder medische redenen – huisvesting geniet.
 
-##### Artikel 7. Defensiewoning
+#### Artikel 7. Defensiewoning
 
 1. De militair die een passende woning huurt uit een bestand van door Defensie in eigendom verworven of gehuurde, specifiek voor militairen bestemde woningen, is hiervoor maandelijks een bijdrage verschuldigd.
 
@@ -173,13 +148,13 @@ De militair kan door de commandant worden verplicht gebruik te maken van huisves
 
 ### Hoofdstuk 3. Voeding
 
-##### Artikel 8. Aanspraak
+#### Artikel 8. Aanspraak
 
 De militair heeft aanspraak op voeding van Defensie en voor rekening van Defensie tijdens het verrichten van werkzaamheden in het kader van het oefenen, inzet als bedoeld in [artikel 1, onderdeel c, van de Regeling voorzieningen vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789&artikel=1), aan boord van een schip tijdens het varen dan wel aan boord van een vliegtuig tijdens het vliegen, niet zijnde een detachering of een verplaatsing als bedoeld in het [Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312) of een dienstreis als bedoeld in het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956), doch uitsluitend indien de militair, naar het oordeel van de commandant, niet in staat is in eigen voeding te voorzien.
 
 ### Hoofdstuk 4. Vrijstelling en tegemoetkoming
 
-##### Artikel 9. Vrijstelling van betaling eigen bijdrage huisvesting en tegemoetkoming voedingskosten
+#### Artikel 9. Vrijstelling van betaling eigen bijdrage huisvesting en tegemoetkoming voedingskosten
 
 1. De militair is vrijgesteld van het betalen van de bijdrage voor huisvesting en ontvangt een tegemoetkoming in de kosten van voeding indien deze niet van rijkswege is verstrekt:
 
@@ -222,7 +197,7 @@ De militair heeft aanspraak op voeding van Defensie en voor rekening van Defensi
 
 5. De militair die is gehuisvest op basis van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040470&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01) heeft geen vrijstelling van het betalen van de bijdrage voor huisvesting of recht op een tegemoetkoming in voedingskosten, tenzij hem op grond van een reden, genoemd in het eerste, derde lid of vierde lid van dit artikel vrijstelling is verleend.
 
-##### Artikel 10. Tegemoetkoming
+#### Artikel 10. Tegemoetkoming
 
 1. De militair als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040470&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040470&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01) die is ingedeeld in een functie bij Joint Force Command Brunssum, de NSE Brunssum of de vertegenwoordiging van de KMar bij het Joint Force Command Brunssum voor wie het niet mogelijk is de maaltijden in de Nederlandse militaire eetgelegenheden te gebruiken, heeft aanspraak op een tegemoetkoming van voedingskosten gedurende de dagen dat hij om redenen van dienst in Brunssum verblijf houdt.
 
@@ -232,15 +207,15 @@ De militair heeft aanspraak op voeding van Defensie en voor rekening van Defensi
 
 4. De militair die zich houdt aan de voor hem geldende religieuze drank- en voedselvoorschriften heeft, voor elke dag dat hij is vrijgesteld van de bijdrage voor huisvesting, aanspraak op een tegemoetkoming in de door hem voor zijn voeding noodzakelijk te maken werkelijke kosten tot een maximum van € 19,20 per dag.
 
-##### Artikel 11. Verrekening
+#### Artikel 11. Verrekening
 
 De militair heeft geen aanspraak op een tegemoetkoming bij afwezigheid, waaronder mede begrepen verlof, roostervrije dagen, vergoeding in tijd, ziekte en thuiswerken of indien hij uit andere hoofde een aanspraak maakt op een tegemoetkoming of een gratis maaltijd heeft ontvangen.
 
-##### Artikel 12. Declareren
+#### Artikel 12. Declareren
 
 Voor het bereken van de tegemoetkoming van de voedingskosten zoals bedoeld in deze regeling wordt gebruik gemaakt van DIDO. Hierbij worden de procedures en instructies als vermeld in DIDO gevolgd.
 
-##### Artikel 13. Overgangsbepaling
+#### Artikel 13. Overgangsbepaling
 
 1. De militair, die op datum inwerkingtreding van deze regeling huisvesting is verstrekt en daarbij is vrijgesteld van betaling van een eigen bijdrage voor huisvesting, maar die niet voldoet aan de criteria van [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040470&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), heeft voor de duur van zijn plaatsing op de functie die hij vervult ten tijde van inwerkingtreding van deze regeling gelijke aanspraken op grond van deze regeling als de militair die wel aan voornoemde criteria voldoet.
 
@@ -248,16 +223,16 @@ Voor het bereken van de tegemoetkoming van de voedingskosten zoals bedoeld in de
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 14. Intrekking
+#### Artikel 14. Intrekking
 
 De [Regeling huisvesting en voeding militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0039895) wordt ingetrokken.
 
-##### Artikel 15. Inwerkingtreding
+#### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 16. Citeertitel
+#### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als ‘Regeling huisvesting en voeding militairen 2018 (RHVM 2018)’.

@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 september 2008, nr. TRCJZ/2007/3190, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de visserij (Uitvoeringsregeling visserij)"
+title: "Uitvoeringsregeling visserij"
 identifier: "BWBR0024539"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024539"
-soort: "ministeriele-regeling"
-stam_id: "9733603"
-version_id: "28799472"
-internal_id: "C40779071"
-label_id: "9711584"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024539/2026-04-01/0"
-intitule_bron: "Stcrt.2008-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-19"
-intitule_published: "2008-09-26"
-intitule_in_force: "2008-09-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-18634"
-original_signed_date: "2022-07-11"
-original_published_date: "2022-07-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-18634"
-entry_into_force_date: "2022-07-11"
-jci_1_3: "jci1.3:c:BWBR0024539&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0024539&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling visserij"
-signed_date: "2022-07-11"
-entry_into_force: "2022-07-11"
+categorie: "Overig"
+publicatiedatum: 2026-04-01
+laatste_update: 2026-04-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0024539"
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 september 2008, nr. TRCJZ/2007/3190, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de visserij (Uitvoeringsregeling visserij)
 
 Gelet op de [artikelen 1, tweede lid, onderdelen a en b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1), [2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2c), [17, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=17), en [24 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=24);
@@ -46,7 +20,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1
+#### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -124,15 +98,15 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. Aanwijzingen op grond van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416)
 
-##### Artikel 2
+#### Artikel 2
 
 Als vissen, onderscheidenlijk schaal- en schelpdieren als bedoeld in [artikel 1, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1), worden aangewezen de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=1&z=2026-04-01&g=2026-04-01) opgenomen soorten.
 
-##### Artikel 3
+#### Artikel 3
 
 Vervallen
 
-##### Artikel 4
+#### Artikel 4
 
 Als middelen, bedoeld in [artikel 2c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2c), waarmee het verboden is vis te bedwelmen, te verwonden of te doden, worden aangewezen:
 
@@ -146,23 +120,23 @@ Als middelen, bedoeld in [artikel 2c, eerste lid, van de wet](https://wetten.ove
 
 - e. andere vergiftigende, bedwelmende en ontplofbare stoffen.
 
-##### Artikel 5
+#### Artikel 5
 
 Als water waarvoor de bepalingen van [paragraaf 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&paragraaf=5) betreffende de huur en verhuur van visrecht niet gelden, wordt aangewezen: het Grevelingenmeer.
 
 #### § 2.2. Aanwijzingen op grond van het [Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027)
 
-##### Artikel 6
+#### Artikel 6
 
 Vervallen
 
-##### Artikel 7
+#### Artikel 7
 
 1. Degene die vissen van de vissoorten alver, baars, barbeel, beekforel, blankvoorn, bot, brasem, giebel, graskarper, karper, kolblei, kopvoorn, kroeskarper, pos, rietvoorn, riviergrondel, rivierprik, roofblei, snoek, snoekbaars, spiering, winde, witvingrondel, zeelt, niet inheemse rivierkreeft en Chinese wolhandkrab aanvoert, degene die in de uitoefening van een beroep of bedrijf deze vissoorten afneemt en degene die bemiddeling verleent bij het veilen van deze vissoorten als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=10a), zijn verplicht dagelijks een administratie bij te houden van de overdracht en de opslag van deze vissoorten.
 
 2. Degene die bemiddeling verleent bij het veilen van de vissoorten, genoemd in het eerste lid, is verplicht er voor zorg te dragen dat op bij de op de veiling aanwezige vissoorten de naam van de aanvoerder is vermeld alsmede de herkomst van de vissoorten.
 
-##### Artikel 8
+#### Artikel 8
 
 1. In het geval een aanvoerder van aal als bedoeld in [artikel 10a, eerste lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=10a), deze soort onder zich houdt, blijkt uit de administratie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2026-04-01&g=2026-04-01):
 
@@ -216,11 +190,11 @@ Vervallen
 
 - f. de herkomst van de vissoort.
 
-##### Artikel 9
+#### Artikel 9
 
 Alle bewijsstukken of bescheiden waarin de gegevens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-04-01&g=2026-04-01), zijn vastgelegd, moeten vanaf het tijdstip van hun opstelling of verkrijging tot het tijdstip waarop drie kalenderjaren zijn verlopen, worden bewaard.
 
-##### Artikel 10
+#### Artikel 10
 
 De verplichting om een administratie bij te houden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2026-04-01&g=2026-04-01), is niet van toepassing op:
 
@@ -234,17 +208,17 @@ De verplichting om een administratie bij te houden als bedoeld in [artikel 7, ee
 
 #### § 3.1. Verbodsbepalingen visserijzone, zeegebied en kustwateren
 
-##### Artikel 11
+#### Artikel 11
 
 Het is verboden te vissen in het gebied, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=3&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 12
+#### Artikel 12
 
 1. Het is verboden te vissen in het zeegebied en de kustwateren met een aalfuik, staand want, hoekwant, aalkistje, ankerkuil of enig ander vast vistuig, niet zijnde een vistuig, bestemd voor het vangen van schelpdieren.
 
 2. Het is verboden in de kustwateren te vissen met een zegen.
 
-##### Artikel 13
+#### Artikel 13
 
 Het is verboden te vissen met:
 
@@ -252,7 +226,7 @@ Het is verboden te vissen met:
 
 - b. sleepnetten met wekkerkettingen in de gebieden, genoemd in de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=3a&z=2026-04-01&g=2026-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=5&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 14
+#### Artikel 14
 
 1. Het is verboden in het zeegebied en de kustwateren te vissen met:
 
@@ -278,15 +252,15 @@ Het is verboden te vissen met:
 
 4. Het is verboden in de kustwateren te vissen met een vistuig, waarvoor een minimummaaswijdte is vastgesteld, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.
 
-##### Artikel 15
+#### Artikel 15
 
 Het is verboden de visserij uit te oefenen met een vissersvaartuig waarvan het motorvermogen groter is dan het motorvermogen dat staat vermeld op de ten behoeve van dat vissersvaartuig verleende vergunning als bedoeld in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.14&artikel=70&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 16
+#### Artikel 16
 
 Het is verboden te vissen met mechanische vistuigen, geschikt voor het vangen van kokkels in de kustwateren, bedoeld in [artikel 2, eerste lid, van het Besluit aanwijzing zeegebied en kustwateren 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002703&artikel=2).
 
-##### Artikel 17
+#### Artikel 17
 
 Het is verboden te vissen met enig vistuig, geschikt voor het vangen van schelpdieren, in:
 
@@ -298,7 +272,7 @@ Het is verboden te vissen met enig vistuig, geschikt voor het vangen van schelpd
 
 - d. de kustwateren.
 
-##### Artikel 18
+#### Artikel 18
 
 1. Het is verboden schaal- en schelpdieren te rapen in de visserijzone, het zeegebied en de kustwateren tussen één uur na zonsondergang en één uur vóór zonsopgang.
 
@@ -306,45 +280,45 @@ Het is verboden te vissen met enig vistuig, geschikt voor het vangen van schelpd
 
 3. Het is verboden schelpdieren te rapen in het gebied, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=5&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 19
+#### Artikel 19
 
 Het is verboden schelpdieren uit te zaaien of uit te zetten in de visserijzone, het zeegebied en de kustwateren.
 
-##### Artikel 20
+#### Artikel 20
 
 Het is verboden te vissen met vistuigen, geschikt voor het vangen van garnalen in het gebied, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=6&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 21
+#### Artikel 21
 
 Het is verboden te vissen met enig vistuig geschikt voor het vangen van garnalen in de visserijzone, het zeegebied en de kustwateren met uitzondering van de Westerschelde.
 
-##### Artikel 22
+#### Artikel 22
 
 Het is verboden om van vrijdag 12.00 uur tot de daaropvolgende zondag 24.00 uur buiten de haven te zijn met een vaartuig dat enig vistuig aan boord heeft geschikt voor het vangen van garnalen.
 
-##### Artikel 23
+#### Artikel 23
 
 Het is verboden op of in de nabijheid van enig water, behorend tot de visserijzone, het zeegebied of de kustwateren, een vistuig voorhanden te hebben, indien en voor zover het gebruik van dat vistuig in dat water ingevolge het bepaalde in de [artikelen 11 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2026-04-01&g=2026-04-01) verboden is.
 
 #### § 3.2. Verbodsbepalingen binnenwateren
 
-##### Artikel 24
+#### Artikel 24
 
 Als wateren waarin het ingevolge [artikel 7, tweede lid, onderdeel a, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=7), is verboden te vissen tussen twee uur na zonsondergang en één uur vóór zonsopgang worden aangewezen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=2&z=2026-04-01&g=2026-04-01) opgenomen wateren.
 
-##### Artikel 25
+#### Artikel 25
 
 Als water waarin het verboden is te vissen met de hengel in de periode van 1 april tot en met 31 mei, wordt aangewezen de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=7&z=2026-04-01&g=2026-04-01) opgenomen wateren.
 
-##### Artikel 26
+#### Artikel 26
 
 Als water, waarin het verboden is te vissen met enig vistuig wordt aangewezen: de Geul, bovenstrooms van de grens tussen de gemeenten Valkenburg en Meerssen en haar zijbeken, de Voerenbeek en de Noorbeek met dien verstande, dat het van 1 april tot en met 30 september toegestaan is te vissen met de hengel, voor zover deze niet is geaasd met worm of nabootsing daarvan.
 
-##### Artikel 27
+#### Artikel 27
 
 Vervallen
 
-##### Artikel 28
+#### Artikel 28
 
 Het uitzetten van graskarpers is verboden in:
 
@@ -358,7 +332,7 @@ Het uitzetten van graskarpers is verboden in:
 
 #### § 3.3. Verbodsbepalingen IJsselmeer
 
-##### Artikel 29
+#### Artikel 29
 
 1. Het is verboden te vissen in het IJsselmeer met:
 
@@ -386,17 +360,17 @@ Het uitzetten van graskarpers is verboden in:
 
 6. Voor zover nodig vanuit het oogpunt van visstandbeheer, kan de minister in de vergunning, bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=8), het aantal dagen waarop het is toegestaan om met de zegen te vissen, bedoeld in het vierde lid, voor dat visseizoen reduceren. In dat geval is het, in afwijking van het vierde lid, eveneens verboden om buiten de periode, bedoeld in het eerste lid, onderdeel c, met de zegen te vissen in het IJsselmeer op meer dagen dan het aantal dagen waarop het overeenkomstig de vergunning toegestaan is met de zegen te vissen.
 
-##### Artikel 30
+#### Artikel 30
 
 1. Het is verboden te vissen met de schietfuik binnenvisserij in de gebieden in het IJsselmeer, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=8&z=2026-04-01&g=2026-04-01).
 
 2. Het is verboden te vissen met de schietfuik binnenvisserij in het IJsselmeer in andere gebieden dan die genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=8&z=2026-04-01&g=2026-04-01) zonder hierbij gebruik te maken van een naar behoren werkende overlevingsbun.
 
-##### Artikel 31
+#### Artikel 31
 
 Het is verboden te vissen met de aaskuil in de gebieden in het IJsselmeer, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=9&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 32
+#### Artikel 32
 
 1. Onverminderd het bepaalde in de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2026-04-01&g=2026-04-01), is het verboden te vissen in het IJsselmeer gedurende een door de Minister te bepalen periode, met alle vistuigen behalve de hengel en de peur.
 
@@ -406,7 +380,7 @@ Het is verboden te vissen met de aaskuil in de gebieden in het IJsselmeer, genoe
 
 #### § 3.2. Verbodsbepalingen binnenwateren
 
-##### Artikel 33
+#### Artikel 33
 
 1. Bij het verlenen van vrijstellingen of ontheffingen alsmede bij het daaraan verbinden van voorschriften en het verlenen onder beperkingen, als bedoeld in [artikel 6d, tweede lid, van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d), en de [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [12, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=12), wordt mede rekening gehouden met de belangen van de natuurbescherming.
 
@@ -414,11 +388,11 @@ Het is verboden te vissen met de aaskuil in de gebieden in het IJsselmeer, genoe
 
 3. Niet naleven van beperkingen of voorschriften als bedoeld in het eerste lid, wordt aangemerkt als handelen zonder vrijstelling, ontheffing of vergunning als bedoeld in het tweede lid.
 
-##### Artikel 34
+#### Artikel 34
 
 Een vrijstelling als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2026-04-01&g=2026-04-01), wordt niet verleend voor het rapen van schelpdieren in het gebied, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=3&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 35
+#### Artikel 35
 
 1. Een vergunning als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2026-04-01&g=2026-04-01), wordt niet verleend voor:
 
@@ -430,7 +404,7 @@ Een vrijstelling als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c
 
 2. In afwijking van het eerste lid, aanhef en onderdeel b, kan wel een vergunning worden verleend voor het zonder mechanische hulpmiddelen vissen op kokkels in de gebieden, genoemd in [bijlage 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=5a&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 36
+#### Artikel 36
 
 1. De in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-04-01&g=2026-04-01), [17, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2026-04-01&g=2026-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2026-04-01&g=2026-04-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2026-04-01&g=2026-04-01), [32a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.4&artikel=32a&z=2026-04-01&g=2026-04-01), en [32b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.4&artikel=32b&z=2026-04-01&g=2026-04-01), gestelde verboden, gelden niet voor degene, die is voorzien van een vergunning van de Minister.
 
@@ -438,13 +412,13 @@ Een vrijstelling als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c
 
 3. Een vergunning als bedoeld in het eerste lid voor het gebruik van de vistuigen, genoemd in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.4&artikel=32a&z=2026-04-01&g=2026-04-01), wordt enkel verleend indien de vangst van aal met de desbetreffende vistuigen aantoonbaar beperkt is.
 
-##### Artikel 37
+#### Artikel 37
 
 Het verbod, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2026-04-01&g=2026-04-01), geldt niet indien het vistuig zodanig is verpakt of in zodanige toestand is, dat dadelijk gebruik daarvan niet mogelijk is.
 
 #### § 4.2. Vrijstellingen sleepnetvisserij
 
-##### Artikel 38
+#### Artikel 38
 
 1. Van het bepaalde in [artikel 6c, eerste lid, van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6c) wordt vrijstelling verleend:
 
@@ -468,7 +442,7 @@ Het verbod, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024
 
 5. Vaartuigen ten aanzien waarvan de in het eerste lid, aanhef en onderdeel b, bedoelde vrijstelling is verleend, staan vermeld op de door de bevoegde Belgische autoriteiten vastgestelde lijst van de Belgische zeeschepen onder ‘Schelde Fishing Vessels’. Deze lijst is beschikbaar via internetadres: [https://mobilit.belgium.be/nl/Resources/publicaties/scheepvaart/pub_koopvaardij_lijst_belg_schepen](https://mobilit.belgium.be/nl/Resources/publicaties/scheepvaart/pub_koopvaardij_lijst_belg_schepen).
 
-##### Artikel 39
+#### Artikel 39
 
 Van het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2026-04-01&g=2026-04-01), wordt vrijstelling verleend voor het vissen in de visserijzone en het zeegebied:
 
@@ -476,7 +450,7 @@ Van het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024539
 
 - b. met vaartuigen met een lengte over alles kleiner dan 10 meter, voor zover het betreft de visserij met een bordennet.
 
-##### Artikel 40
+#### Artikel 40
 
 Van [artikel 79, eerste lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=79) wordt vrijstelling verleend voor vaartuigen, andere dan vissersvaartuigen:
 
@@ -484,11 +458,11 @@ Van [artikel 79, eerste lid, van de Uitvoeringsregeling zeevisserij](https://wet
 
 - b. met een lengte over alles kleiner dan 10 meter, voor zover het betreft het verbod om een bordennet aan boord te hebben in de visserijzone, het zeegebied en de Westerschelde.
 
-##### Artikel 41
+#### Artikel 41
 
 De vrijstellingen, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.2&artikel=39&z=2026-04-01&g=2026-04-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.2&artikel=40&z=2026-04-01&g=2026-04-01), worden slechts verleend voor vaartuigen met één boomkor als bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2026-04-01&g=2026-04-01), of met één bordennet waarvan de hoogte van de visborden niet meer bedraagt dan 70 centimeter en waarvan de lengte van de bovenpees, inclusief stroppen en kabels, niet meer bedraagt dan 225 centimeter, gemeten vanaf de achterzijde van het ene tot de achterzijde van het andere bord.
 
-##### Artikel 42
+#### Artikel 42
 
 1. Aan de vrijstellingen, bedoeld in [artikel 38, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2026-04-01&g=2026-04-01), [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.2&artikel=39&z=2026-04-01&g=2026-04-01) en [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.2&artikel=40&z=2026-04-01&g=2026-04-01), worden de volgende voorschriften verbonden:
 
@@ -510,7 +484,7 @@ De vrijstellingen, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.
 
 4. Het indienen van het logboek, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Nederlandse Voedsel- en Warenautoriteit of deponering van het formulier in een opgavebus als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=1).
 
-##### Artikel 43
+#### Artikel 43
 
 1. Van het verbod in de [artikelen 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-04-01&g=2026-04-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2026-04-01&g=2026-04-01), voor wat betreft de Oosterschelde ten oosten van de Oosterscheldekering, is degene die op 15 april 2007 in het bezit was van een vergunning als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2026-04-01&g=2026-04-01), vrijgesteld onder de voorwaarden dat:
 
@@ -522,7 +496,7 @@ De vrijstellingen, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.
 
 #### § 4.1. Algemeen
 
-##### Artikel 44
+#### Artikel 44
 
 Van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2026-04-01&g=2026-04-01) wordt vrijstelling verleend voor het vissen met enig vistuig geschikt voor het vangen van:
 
@@ -532,15 +506,15 @@ Van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024539
 
 - c. oesters door de visrechthebbende op de oesterpercelen in de Oosterschelde.
 
-##### Artikel 45
+#### Artikel 45
 
 Van het verbod in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2026-04-01&g=2026-04-01) wordt vrijstelling verleend voor zover het betreft het uitzetten of uitzaaien van mosselen, kokkels, oesters en Japanse oesters.
 
-##### Artikel 46
+#### Artikel 46
 
 De vrijstelling, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.3&artikel=44&z=2026-04-01&g=2026-04-01), wordt slechts verleend voor zover de som van de totale breedte van de gebruikte mosselkorren, binnenwerks gemeten over het mes, maximaal 7,60 meter, per vissersvaartuig bedraagt.
 
-##### Artikel 47
+#### Artikel 47
 
 Onverminderd het bepaalde in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.3&artikel=46&z=2026-04-01&g=2026-04-01) is het vissen van mosselen, zeesterren en oesters, met uitzondering van het vissen op verwaterpercelen, verboden:
 
@@ -550,7 +524,7 @@ Onverminderd het bepaalde in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 3.4. Verbodsbepalingen voor alle wateren
 
-##### Artikel 48
+#### Artikel 48
 
 Van het verbod in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2026-04-01&g=2026-04-01), wordt vrijstelling verleend aan:
 
@@ -560,11 +534,11 @@ Van het verbod in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 4.1. Algemeen
 
-##### Artikel 49
+#### Artikel 49
 
 Van het verbod, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2026-04-01&g=2026-04-01), is vrijgesteld degene, die anders dan met behulp van een vaartuig op garnalen vist.
 
-##### Artikel 50
+#### Artikel 50
 
 Het verbod, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=22&z=2026-04-01&g=2026-04-01), geldt niet
 
@@ -574,11 +548,11 @@ Het verbod, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024
 
 #### § 4.2. Vrijstellingen sleepnetvisserij
 
-##### Artikel 51
+#### Artikel 51
 
 Van het verbod in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-04-01&g=2026-04-01) wordt vrijstelling verleend aan de rechthebbende op het visrecht in staatswateren om te vissen in een visvak met die vaste vistuigen, waarop het visrecht betrekking heeft.
 
-##### Artikel 52
+#### Artikel 52
 
 1. Aan de vrijstelling, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.6&artikel=51&z=2026-04-01&g=2026-04-01), zijn de volgende voorschriften verbonden:
 
@@ -598,19 +572,19 @@ Van het verbod in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&h
 
 #### § 4.2. Vrijstellingen sleepnetvisserij
 
-##### Artikel 53
+#### Artikel 53
 
 Van het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2) en [artikel 5, eerste lid, van het Reglement voor de Binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=5) wordt vrijstelling verleend voor zover het betreft het vissen met de oesterkor in het Grevelingenmeer.
 
 #### § 4.5. Vrijstellingen garnalenvisserij
 
-##### Artikel 54
+#### Artikel 54
 
 Van het bepaalde in [artikel 6, eerste lid, onderdeel a, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=6) wordt vrijstelling verleend voor zover het betreft het vissen met de hengel, geaasd met enig kunstaas, in het Oostvoornsemeer.
 
 #### § 4.3. Vrijstellingen schelpdiervisserij
 
-##### Artikel 55
+#### Artikel 55
 
 1. Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=7a), is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die:
 
@@ -630,7 +604,7 @@ Van het bepaalde in [artikel 6, eerste lid, onderdeel a, van het Reglement voor 
 
 5. Het aantal personen waarvan op grond van het vierde lid bij wijze van steekproef de gegevens wordt gecontroleerd, wordt, in voorkomend geval, afgerond op het naaste hele getal.
 
-##### Artikel 56
+#### Artikel 56
 
 1. Het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=7a), is niet van toepassing op de visrechthebbende en de houder van een schriftelijk toestemming, die:
 
@@ -652,19 +626,19 @@ Van het bepaalde in [artikel 6, eerste lid, onderdeel a, van het Reglement voor 
 
 4. Het aantal personen waarvan op grond van het vierde lid bij wijze van steekproef de gegevens wordt gecontroleerd, wordt, in voorkomend geval, afgerond op het naaste hele getal.
 
-##### Artikel 57
+#### Artikel 57
 
 Van het verbod, bedoeld in [artikel 7a, eerste lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=7a), is vrijgesteld degene die de visrechthebbende of de houder van de schriftelijke toestemming, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01), en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=56&z=2026-04-01&g=2026-04-01), behulpzaam is bij het vissen met een vistuig, dat niet door één persoon kan worden bediend.
 
-##### Artikel 58
+#### Artikel 58
 
 Werknemers die vissen in dienst van de visrechthebbende of de houder van een schriftelijke toestemming, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01), en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=56&z=2026-04-01&g=2026-04-01), hebben het bewijs van dit dienstverband bij de uitvoering van de visserij bij zich.
 
-##### Artikel 59
+#### Artikel 59
 
 De Minister bevestigt binnen drie weken de ontvangst van de melding, bedoeld in de [artikelen 55, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01), en [56, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=56&z=2026-04-01&g=2026-04-01), en de ontvangst van het assurance-rapport, bedoeld in [artikel 55, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01).
 
-##### Artikel 60
+#### Artikel 60
 
 1. Indien degene die zich heeft gemeld op grond van [artikel 55 , eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01), niet meer voldoet aan het criterium, bedoeld in [artikel 55, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01), doet hij hiervan zo spoedig mogelijk mededeling aan de Minister.
 
@@ -672,7 +646,7 @@ De Minister bevestigt binnen drie weken de ontvangst van de melding, bedoeld in 
 
 #### § 4.4. Vrijstelling rapen schelpdieren
 
-##### Artikel 61
+#### Artikel 61
 
 1. Van het bepaalde in [artikel 6, eerste lid, aanhef en onderdeel a, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=6) en van het bepaalde in [artikel 2, aanhef en onderdeel a, van het Reglement minimummaten en gesloten tijden 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2), voor zover het betreft de vissoorten baars, snoek, en snoekbaars wordt jaarlijks vrijstelling verleend vanaf de laatste zaterdag in mei tot en met 31 mei.
 
@@ -680,7 +654,7 @@ De Minister bevestigt binnen drie weken de ontvangst van de melding, bedoeld in 
 
 #### § 4.4. Vrijstelling rapen schelpdieren
 
-##### Artikel 62
+#### Artikel 62
 
 1. In afwijking van het verbod van [artikel 28, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.2&artikel=28&z=2026-04-01&g=2026-04-01), is het uitzetten van graskarpers toegestaan indien:
 
@@ -704,27 +678,27 @@ De Minister bevestigt binnen drie weken de ontvangst van de melding, bedoeld in 
 
 #### § 4.4. Vrijstelling rapen schelpdieren
 
-##### Artikel 63
+#### Artikel 63
 
 Vervallen
 
 #### § 4.5. Vrijstellingen garnalenvisserij
 
-##### Artikel 64
+#### Artikel 64
 
 1. Van het bepaalde in [artikel 4, derde lid, van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=4) wordt voor de spieringvisserij op het IJsselmeer een vrijstelling verleend voor de periode die door de Minister kan worden vastgesteld krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=65&z=2026-04-01&g=2026-04-01).
 
 2. Vis van andere soorten dan spiering dient onmiddellijk nadat deze is opgehaald weer in hetzelfde water te worden teruggezet.
 
-##### Artikel 65
+#### Artikel 65
 
 In afwijking van het bepaalde in [artikel 29, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2026-04-01&g=2026-04-01), is het toegestaan te vissen met de grote fuik en de schietfuik binnenvisserij ten behoeve van de vangst van spiering gedurende een periode die de Minister daartoe jaarlijks kan vaststellen, welke periode maximaal drie weken duurt en een aanvang neemt na 1 maart.
 
-##### Artikel 66
+#### Artikel 66
 
 Het verbod, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.3&artikel=30&z=2026-04-01&g=2026-04-01), geldt niet gedurende de door de Minister krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=65&z=2026-04-01&g=2026-04-01) vastgestelde periode.
 
-##### Artikel 67
+#### Artikel 67
 
 1. Van het verbod, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.3&artikel=32&z=2026-04-01&g=2026-04-01), wordt vrijstelling verleend indien de Minister:
 
@@ -768,7 +742,7 @@ Het verbod, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024
 
 - i. het desgevraagd onverwijld verstrekken aan de Minister van een afschrift van de in de onderdelen d, e en f bedoelde gegevens.
 
-##### Artikel 68
+#### Artikel 68
 
 1. Goedkeuring door de Minister van een visplan als bedoeld in [artikel 67, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=67&z=2026-04-01&g=2026-04-01), kan slechts plaatsvinden indien:
 
@@ -780,13 +754,13 @@ Het verbod, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024
 
 2. In afwijking van het eerste lid kan ten genoegen van de Minister een andere datum dan 1 januari worden aangehouden mits deze zich naar het oordeel van de Minister verdraagt met het doel en de effectiviteit van het visplan.
 
-##### Artikel 69
+#### Artikel 69
 
 Aan de aangeslotenen bij de Coöperatieve Producentenorganisatie Nederlandse Vissersbond-IJsselmeer U.A. wordt vrijstelling verleend als bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=67&z=2026-04-01&g=2026-04-01).
 
 #### § 4.8. Vrijstelling kunstaasvisserij in het Oostvoornsemeer
 
-##### Artikel 70
+#### Artikel 70
 
 1. Een vergunning als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2026-04-01&g=2026-04-01), bestemd voor het vissen met enig vistuig geschikt voor het vangen van garnalen in de visserijzone, het zeegebied of de kustwateren, bevat met ingang van 1 januari 2002 de volgende gegevens:
 
@@ -816,13 +790,13 @@ Aan de aangeslotenen bij de Coöperatieve Producentenorganisatie Nederlandse Vis
 
 7. Indien binnen een jaar na afloop van de schorsing, als bedoeld in het vorige lid, naar het oordeel van de Minister nogmaals met het vaartuig in strijd met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=22&z=2026-04-01&g=2026-04-01), of met [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.5&artikel=50&z=2026-04-01&g=2026-04-01), wordt gehandeld, kan de Minister de vergunning voor een periode van vier weken schorsen.
 
-##### Artikel 71
+#### Artikel 71
 
 Vervallen
 
 #### § 4.8. Vrijstelling kunstaasvisserij in het Oostvoornsemeer
 
-##### Artikel 72
+#### Artikel 72
 
 Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=8), wordt slechts verleend, voor zover:
 
@@ -832,7 +806,7 @@ Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisser
 
 - c. niet wordt gevist in strijd met de nadere voorschriften zoals deze in de desbetreffende vergunning zijn opgenomen.
 
-##### Artikel 73
+#### Artikel 73
 
 1. Een vergunning als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=8), wordt slechts verleend aan een ondernemer ten behoeve van een vissersvaartuig, dat in het visserijregister, bedoeld in [artikel 4 van het Besluit registratie visservaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4), staat geregistreerd.
 
@@ -844,7 +818,7 @@ Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisser
 
 5. Indien de Minister niet binnen de in [artikel 4:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13) gestelde termijn op een aanvraag voor een vergunning als bedoeld in het eerste lid heeft beslist en de aanvraag is in overeenstemming met het bepaalde in het eerste, tweede, derde en vierde lid, is de vergunning van rechtswege verleend overeenkomstig de aanvraag.
 
-##### Artikel 74
+#### Artikel 74
 
 1. Overdracht van een gehele vergunning als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=8), is slechts mogelijk in het geval dat :
 
@@ -856,7 +830,7 @@ Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisser
 
 3. De overdracht vindt plaats door een gelijktijdige kennisgeving door de Minister aan de aanvrager en aan de ondernemer aan wie de vergunning van het [Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027), wordt overgedragen, dat laatstgenoemde deze vergunning is verleend.
 
-##### Artikel 75
+#### Artikel 75
 
 1. Overdracht van een deel van de vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=8), is slechts mogelijk voor zover daarin is voorzien door het goedgekeurde visplan, bedoeld in [artikel 67, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=67&z=2026-04-01&g=2026-04-01), en kan tijdelijk zijn of voor onbepaalde tijd. Een tijdelijke overdracht kan slechts betrekking hebben op een aaneengesloten periode van ten hoogste 12 maanden, gerekend vanaf 1 juli.
 
@@ -876,7 +850,7 @@ Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisser
 
 7. Een overdracht als bedoeld in het eerste, vierde en zesde lid, ongeacht of deze tijdelijk dan wel voor onbepaalde tijd is, is slechts mogelijk, indien daarvan uiterlijk op 1 april voorafgaand aan de eerstvolgende vergunningsperiode waarvoor de overdracht geldt, een aanvraag is ingediend bij de Minister.
 
-##### Artikel 76
+#### Artikel 76
 
 1. Een erkende producentenorganisatie voor het IJsselmeer wijzigt namens de Minister jaarlijks, voor zover nodig, de vergunningen van de aangeslotenen, om de reductie te bereiken van de visserij-inspanning, zoals vastgesteld in het goedgekeurde visplan, bedoeld in [artikel 67, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=67&z=2026-04-01&g=2026-04-01).
 
@@ -884,13 +858,13 @@ Een vergunning, als bedoeld in [artikel 8 van het Reglement voor de binnenvisser
 
 3. Het bepaalde in het eerste lid is slechts van toepassing indien de vrijstelling in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.13&artikel=67&z=2026-04-01&g=2026-04-01), van kracht is.
 
-##### Artikel 77
+#### Artikel 77
 
 Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 78
+#### Artikel 78
 
 De volgende regelingen worden ingetrokken:
 
@@ -922,7 +896,7 @@ De volgende regelingen worden ingetrokken:
 
 - n. de [Vrijstellingsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0020734) (Stcrt. 2006, 247).
 
-##### Artikel 79
+#### Artikel 79
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2009.
 
@@ -2438,7 +2412,7 @@ Schelpdieren
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 1a
+#### Artikel 1a
 
 Deze regeling berust op:
 
@@ -2458,7 +2432,7 @@ Deze regeling berust op:
 
 #### § 3.1. Verbodsbepalingen visserijzone, zeegebied en kustwateren
 
-##### Artikel 23a
+#### Artikel 23a
 
 1. Aal gevangen met een hengel of peur in de visserijzone, het zeegebied en de kustwateren wordt onmiddellijk levend in hetzelfde water teruggezet.
 
@@ -2470,7 +2444,7 @@ Deze regeling berust op:
 
 #### § 3.4. Verbodsbepalingen voor alle wateren
 
-##### Artikel 32a
+#### Artikel 32a
 
 1. Onverminderd [artikel 13, tweede lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=13), zijn de zeevisserij en de kustvisserij verboden in de periode van 1 september tot en met 28 februari, of in een schrikkeljaar tot en met 29 februari, en is de binnenvisserij verboden in de periode van 1 september tot en met 30 november met de volgende vistuigen:
 
@@ -2500,7 +2474,7 @@ Deze regeling berust op:
 
 3. Van het verbod, bedoeld in het eerste lid, onderdeel c, en in het tweede lid, wordt vrijstelling verleend voor de zee- en kustvisserij met een drijvend of in de waterkolom zwevend vistuig bestaande uit een lange lijn met daaraan aan zijlijntjes bevestigde enkeltandige haken, waarvan de kortste afstand tussen de punt en de steel ten minste 10 mm bedraagt, die de zeebodem niet raken.
 
-##### Artikel 32b
+#### Artikel 32b
 
 1. Aal, gevangen in de visserijzone, het zeegebied, de kustwateren of de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1), in de perioden, genoemd in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.4&artikel=32a&z=2026-04-01&g=2026-04-01), met een vistuig dat niet genoemd is in artikel 32a, eerste lid, wordt onmiddellijk na het lichten van het vistuig levend in hetzelfde water teruggezet.
 
@@ -3201,23 +3175,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
 #### § 4.12. Vrijstelling nachtvisserij
 
-##### Artikel 77a
+#### Artikel 77a
 
 Een vergunning voor een mosselzaadinvanginstallatie wordt op aanvraag door de Minister verleend aan rechthebbenden op een vergunning als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2026-04-01&g=2026-04-01) om met een vissersvaartuig op mosselen te vissen in de Waddenzee.
 
-##### Artikel 77b
+#### Artikel 77b
 
 Een vergunning voor een mosselzaadinvanginstallatie kan op aanvraag door de Minister worden verleend aan personen die in de jaren 2003 en 2004 als pionier met een mosselzaadinvanginstallatie hebben geëxperimenteerd in de kustwateren dan wel hun rechtsopvolger en waarvoor door de Minister een ontheffing van het verbod, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2026-04-01&g=2026-04-01), is verleend.
 
-##### Artikel 77c
+#### Artikel 77c
 
 Vervallen
 
-##### Artikel 77d
+#### Artikel 77d
 
 De locaties in de gebieden, waarvoor een vergunning voor een mosselzaadinvanginstallatie kan worden verleend, worden voor een door de Minister te bepalen periode aangewezen.
 
-##### Artikel 77e
+#### Artikel 77e
 
 1. De verlening van een vergunning voor een mosselzaadinvanginstallatie op een locatie in de gebieden, bedoeld in [artikel 77d](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.16&artikel=77d&z=2026-04-01&g=2026-04-01), aan een aanvrager als bedoeld in [artikel 77a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.16&artikel=77a&z=2026-04-01&g=2026-04-01), geschiedt op basis van een door de Producentenorganisatie van de Nederlandse Mosselcultuur opgesteld visplan.
 
@@ -3225,11 +3199,11 @@ De locaties in de gebieden, waarvoor een vergunning voor een mosselzaadinvangins
 
 3. Indien er voor 31 december van het kalenderjaar waarin de termijn van de vergunning voor een mosselzaadinvanginstallatie afloopt, geen visplan voor de aanvrager, bedoeld in [artikel 77a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.16&artikel=77a&z=2026-04-01&g=2026-04-01), is vastgesteld, geschiedt de verlening van de vergunning door middel van loting.
 
-##### Artikel 77f
+#### Artikel 77f
 
 Vervallen
 
-##### Artikel 77g
+#### Artikel 77g
 
 Een vergunning voor een mosselzaadinvanginstallatie wordt verleend voor een door de Minister te bepalen termijn. De vergunning kan worden verlengd met een door de Minister te bepalen termijn.
 
@@ -3779,7 +3753,7 @@ Het gebied, begrensd door de lijn lopend over de punten met de coördinaten:
 
 #### § 2.3. Administratieverplichtingen
 
-##### Artikel 10a
+#### Artikel 10a
 
 1. Een visser die gebruik maakt van de vistuigen, genoemd in [artikel 32a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.4&artikel=32a&z=2026-04-01&g=2026-04-01), met uitzondering van onderdeel h, doet wekelijks uiterlijk op dinsdag om 24.00 uur opgave aan de Minister van zijn aalvangsten en zijn visserij-inspanning in de voorafgaande week. Uit deze opgave blijkt:
 
@@ -3797,7 +3771,7 @@ Het gebied, begrensd door de lijn lopend over de punten met de coördinaten:
 
 4. Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van [artikel 104, tweede lid, van de Uitvoeringsregeling zeevisserij](https://wetten.overheid.nl/jci1.3:c:BWBR0030288&artikel=104) alle aalvangsten registreren.
 
-##### Artikel 10b
+#### Artikel 10b
 
 1. Een visser die gebruik maakt van het staand net, grote fuik of de zegen, doet ten aanzien van de vissoorten baars, blankvoorn, bot, brasem en snoekbaars op verzoek van de Minister opgave van:
 
@@ -4137,7 +4111,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 28a
+#### Artikel 28a
 
 Het is verboden de volgende rivierkreeften in de binnenwateren uit te zetten:
 
@@ -4207,7 +4181,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 5a
+#### Artikel 5a
 
 Vervallen
 
@@ -4219,7 +4193,7 @@ Vervallen
 
 #### § 3.1. Verbodsbepalingen visserijzone, zeegebied en kustwateren
 
-##### Artikel 23b
+#### Artikel 23b
 
 1. Het is verboden te vissen in de wateren, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=15&z=2026-04-01&g=2026-04-01), met de volgende vistuigen:
 
@@ -4259,7 +4233,7 @@ wordt onmiddellijk in hetzelfde water teruggezet.
 
 #### § 3.2. Verbodsbepalingen binnenwateren
 
-##### Artikel 28b
+#### Artikel 28b
 
 1. Het is verboden te vissen in de wateren, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=16&z=2026-04-01&g=2026-04-01), met de volgende vistuigen:
 
@@ -4313,7 +4287,7 @@ wordt onmiddellijk in hetzelfde water teruggezet.
 
 #### § 3.4. Verbodsbepalingen voor alle wateren
 
-##### Artikel 35a
+#### Artikel 35a
 
 De Minister kan op aanvraag ontheffing verlenen van het bepaalde in de [artikelen 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=23b&z=2026-04-01&g=2026-04-01) en [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.2&artikel=28b&z=2026-04-01&g=2026-04-01) voor het verrichten van onderzoek. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden. De ontheffing kan worden geschorst of ingetrokken.
 
@@ -4873,7 +4847,7 @@ Overzicht van gebieden en mosselkweekpercelen waarvoor een vergunning voor een m
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 52a
+#### Artikel 52a
 
 1. Van het verbod in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2026-04-01&g=2026-04-01) wordt voor de kustwateren vrijstelling verleend voor het gebruik voor de recreatieve visserij met vistuig van het type staand want.
 
@@ -5251,13 +5225,13 @@ Het gebied Oostwad (Rottum), begrensd door de lijn lopende over de punten met de
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 12a
+#### Artikel 12a
 
 Het recreatief gebruik van vistuig van het type staand want in de visserijzone is verboden.
 
 ### Hoofdstuk 4. Vrijstellingen, ontheffingen en vergunningen
 
-##### Artikel 52b
+#### Artikel 52b
 
 1. Van het verbod, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.1&artikel=12a&z=2026-04-01&g=2026-04-01) wordt, voor het grondgebied van de gemeenten, genoemd in bijlage 19, vrijstelling verleend voor het gebruik voor de recreatieve visserij van een vistuig per persoon van het type staand want, mits:
 
@@ -5449,7 +5423,7 @@ Het gebied Oostwad (Rottum), begrensd door de lijn lopende over de punten met de
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 5b
+#### Artikel 5b
 
 De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a), bedraagt:
 
@@ -5471,7 +5445,7 @@ De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https:
 
 - •. 20 centimeter voor rivierprik.
 
-##### Artikel 5c
+#### Artikel 5c
 
 1. Het tijdvak, bedoeld in [artikel 2a, tweede lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a), is:
 
@@ -5493,7 +5467,7 @@ De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https:
 
 #### § 3.2. Verbodsbepalingen binnenwateren
 
-##### Artikel 28c
+#### Artikel 28c
 
 1. Het is verboden met enig vistuig te vissen in de rivieren de Neder-Rijn, de Maas, de Lek en de Overijsselsche Vecht:
 
@@ -5511,7 +5485,7 @@ De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https:
 
 #### § 3.4. Verbodsbepalingen voor alle wateren
 
-##### Artikel 57a
+#### Artikel 57a
 
 1. [Artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=55&z=2026-04-01&g=2026-04-01), en de vrijstellingen, bedoeld in [artikel 56, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=56&z=2026-04-01&g=2026-04-01), en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=4&paragraaf=4.9&artikel=57&z=2026-04-01&g=2026-04-01), gelden onder de voorwaarden dat:
 
@@ -5525,7 +5499,7 @@ De afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https:
 
 3. In afwijking van het tweede lid, kan de Minister in bijzondere gevallen tussentijdse wijziging van de opgave toestaan, indien dat naar zijn oordeel aangewezen is om onevenredig nadeel te voorkomen.
 
-##### Artikel 60a
+#### Artikel 60a
 
 Van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1) en [2 van het Reglement minimummaten en gesloten tijd 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2), van [artikel 7a van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=7a), en van [artikel 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.2&artikel=28b&z=2026-04-01&g=2026-04-01) en [artikel 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.4&artikel=32a&z=2026-04-01&g=2026-04-01) is degene vrijgesteld die ten gevolge van plotselinge vissterfte, of van de dreiging daarvan, gebruik maakt van de vistuigen, bedoeld in artikel 7a van het Reglement voor de binnenvisserij 1985, mits de vis, die met dat gebruik wordt verkregen, onverwijld wordt uitgezet in een nabij gelegen water waar een dergelijke dreiging zich niet voordoet.
 
@@ -6003,11 +5977,11 @@ Gebieden en mosselkweekpercelen waarvoor aan de personen, bedoeld in [artikel 77
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 31a
+#### Artikel 31a
 
 Het is verboden om te vissen met de zegen in de havens van het IJsselmeer.
 
-##### Artikel 31b
+#### Artikel 31b
 
 Het is verboden bij het vissen met de zegen in de gebieden in het IJsselmeer om meerdere zegennetten aan elkaar te binden.
 
@@ -6067,7 +6041,7 @@ Zandvoort
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 75a
+#### Artikel 75a
 
 1. Een overdracht van het aantal dagen, bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2026-04-01&g=2026-04-01), is slechts mogelijk, voor zover het totale aantal dagen wordt overgedragen en het een tijdelijke overdracht betreft voor een aaneengesloten periode van ten hoogste 12 maanden, gerekend vanaf 1 juli.
 
@@ -6141,7 +6115,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-##### Artikel 11a
+#### Artikel 11a
 
 Het is verboden te vissen in het gebied, bedoeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=3b&z=2026-04-01&g=2026-04-01), met uitzondering van het vissen met de volgende vistuigen:
 
@@ -6157,7 +6131,7 @@ Het is verboden te vissen in het gebied, bedoeld in [bijlage 3b](https://wetten.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 20a
+#### Artikel 20a
 
 Het is verboden te vissen met vistuigen geschikt voor het vangen van garnalen in de gebieden, genoemd in [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=6a&z=2026-04-01&g=2026-04-01).
 
@@ -6175,7 +6149,7 @@ Het is verboden te vissen met vistuigen geschikt voor het vangen van garnalen in
 
 #### § 2.4. Blackbox-systeemverplichting en andere verplichtingen
 
-##### Artikel 10c
+#### Artikel 10c
 
 1. De eigenaar van een vaartuig schaft een blackbox-systeem aan indien zijn vaartuig:
 

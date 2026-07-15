@@ -1,39 +1,13 @@
 ---
-title: "Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666114, op grond van artikel 3.121 van de Energiewet en artikel 36 van de Elektriciteitswet 1998 juncto artikel 7.42, tweede lid, van de Energiewet tot goedkeuring en vaststelling van de methoden en voorwaarden over de systeemtarieven elektriciteit (Tarievencode elektriciteit 2026)"
+title: "Tarievencode elektriciteit 2026"
 identifier: "BWBR0052321"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-21"
-last_updated: "2026-02-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052321"
-soort: "zbo"
-stam_id: "17763953"
-version_id: "31401032"
-internal_id: "C44868581"
-label_id: "17662454"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052321/2026-02-21/0"
-intitule_bron: "Stcrt.2026-4090"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-05"
-intitule_published: "2026-02-20"
-intitule_in_force: "2026-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-4090"
-original_signed_date: "2026-02-05"
-original_published_date: "2026-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-4090"
-entry_into_force_date: "2026-02-21"
-jci_1_3: "jci1.3:c:BWBR0052321&z=2026-02-21&g=2026-02-21"
-jci_1_0: "1.0:c:BWBR0052321&g=2026-02-21"
-citeertitel_status: "officieel"
-short_title: "Tarievencode elektriciteit 2026"
-signed_date: "2026-02-05"
-entry_into_force: "2026-02-21"
+categorie: "Overig"
+publicatiedatum: 2026-02-21
+laatste_update: 2026-02-21
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0052321"
 ---
+
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666114, op grond van artikel 3.121 van de Energiewet en artikel 36 van de Elektriciteitswet 1998 juncto artikel 7.42, tweede lid, van de Energiewet tot goedkeuring en vaststelling van de methoden en voorwaarden over de systeemtarieven elektriciteit (Tarievencode elektriciteit 2026)
 
 Gelet op [artikel 3.121 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.121);
@@ -42,11 +16,11 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1.1
+#### Artikel 1.1
 
 Deze code is onderdeel van de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.119), voor zover die betrekking hebben op elektriciteit en bevat de nadere onderscheiding van de tarieven, de toedeling van kostensoorten aan deze tarieven en de wijze waarop de kostensoorten in aanmerking worden genomen, bedoeld in [artikel 3.107, vierde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.107).
 
-##### Artikel 1.2
+#### Artikel 1.2
 
 1. Voor de toepassing van deze code gelden de begrippen en bijbehorende begripsbepalingen uit de [Begrippencode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052320), de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714), [Verordening (EU) 2015/1222](32015R1222) (GL CACM), [Verordening (EU) 2016/631](32016R0631) (NC RfG), [Verordening (EU) 2016/1388](32016R1388) (ND DCC), [Verordening (EU) 2026/1447](32026R1447) (NC HVDC), [Verordening (EU) 2016/1719](32016R1719) (GL FCA), [Verordening (EU) 2017/1485](32017R1485) (GL SO), [Verordening (EU) 2017/2195](32017R2195) (GL EB), [Verordening (EU) 2027/2196](32027R2196) (NC ER) en [Verordening (EU) 2019/943](32019R0943).
 
@@ -56,11 +30,11 @@ Deze code is onderdeel van de methoden of voorwaarden, bedoeld in [artikel 3.119
 
 4. In deze code wordt onder distributiesysteem en transmissiesysteem verstaan een distributiesysteem en een transmissiesysteem waarvoor op grond van [artikel 3.2 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.2) een distributiesysteembeheerder voor elektriciteit respectievelijk een transmissiesysteembeheerder voor elektriciteit is aangewezen.
 
-##### Artikel 1.3
+#### Artikel 1.3
 
 Indien een aansluit- en transportovereenkomst in de loop van de maand wordt aangegaan, gewijzigd of beëindigd, worden de maandelijks verschuldigde vergoedingen voor die maand op dagbasis bepaald en in rekening gebracht.
 
-##### Artikel 1.4
+#### Artikel 1.4
 
 1. Met het oog op de uitvoering van [artikel 3.106, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.106), voor zover dat lid betrekking heeft op het in rekening brengen van tarieven bij beheerders van transmissie- of distributiesystemen die via een systeemkoppeling zijn verbonden met zijn systeem, is deze code van overeenkomstige toepassing op het leveren van de dienst tussen systeembeheerders onderling die gepaard gaat met het realiseren, wijzigen en onderhouden van een systeemkoppeling alsmede op het leveren van de transportdienst tussen systeembeheerders onderling via een systeemkoppeling, waarbij voor ‘aansluiting’ ‘systeemkoppeling’ gelezen dient te worden en voor ‘aangeslotene’ ‘systeembeheerder wiens systeem via een systeemkoppeling is verbonden met zijn systeem’.
 
@@ -72,7 +46,7 @@ Indien een aansluit- en transportovereenkomst in de loop van de maand wordt aang
 
 #### § 2.1. Beschrijving van de aansluitdienst
 
-##### Artikel 2.1
+#### Artikel 2.1
 
 1. De transmissie- of distributiesysteembeheerder biedt aan iedere aangeslotene die een aansluiting op het door die transmissie- of distributiesysteembeheerder beheerde systeem heeft of daarom overeenkomstig [artikel 3.38, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.38) verzoekt de aansluitdienst aan.
 
@@ -88,7 +62,7 @@ Indien een aansluit- en transportovereenkomst in de loop van de maand wordt aang
 
 4. Een aangeslotene heeft recht op een aansluiting op het door hem gevraagde spanningsniveau, tenzij dit om technische redenen redelijkerwijs niet van de systeembeheerder kan worden verlangd. De systeembeheerder en de aangeslotene overleggen over onder welke voorwaarden en tegen welke vergoeding de aansluiting in deze gevallen wordt gerealiseerd.
 
-##### Artikel 2.2
+#### Artikel 2.2
 
 1. De systeembeheerder brengt voor het leveren van de aansluitdienst aan iedere aangeslotene het aansluittarief in rekening.
 
@@ -102,7 +76,7 @@ Indien een aansluit- en transportovereenkomst in de loop van de maand wordt aang
 
 - c. de verbindingen maken deel uit van een aansluiting groter dan 10 MVA of 1 MVA, indien de aangeslotene daar om verzocht heeft.
 
-##### Artikel 2.3
+#### Artikel 2.3
 
 1. Indien een aangeslotene overeenkomstig [artikel 3.39, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.39), aansluitingswerkzaamheden laat uitvoeren door een ander dan de systeembeheerder, brengt de systeembeheerder, in afwijking van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2026-02-21&g=2026-02-21), geen aansluittarief in rekening voor de desbetreffende aansluiting, maar slechts de vergoeding, bedoeld in het derde lid.
 
@@ -112,7 +86,7 @@ Indien een aansluit- en transportovereenkomst in de loop van de maand wordt aang
 
 #### § 2.2. Kosten gedekt door het aansluittarief
 
-##### Artikel 2.4
+#### Artikel 2.4
 
 1. Het aansluittarief dient ter bestrijding van de kosten die de systeembeheerder in verband met de in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2026-02-21&g=2026-02-21), genoemde werkzaamheden maakt, en voor zover deze geen deel uitmaken van de transportkosten.
 
@@ -126,7 +100,7 @@ Indien een aansluit- en transportovereenkomst in de loop van de maand wordt aang
 
 #### § 2.3. De tariefstructuur van de aansluitdienst
 
-##### Artikel 2.5
+#### Artikel 2.5
 
 Het aansluittarief bestaat uit ten hoogste drie tariefdragers:
 
@@ -136,7 +110,7 @@ Het aansluittarief bestaat uit ten hoogste drie tariefdragers:
 
 - c. een periodieke vergoeding per maand ter dekking van de kosten voor het in stand houden van de aansluiting.
 
-##### Artikel 2.6
+#### Artikel 2.6
 
 Het eenmalige aansluittarief bestaat uit een bedrag dat is opgebouwd uit:
 
@@ -146,7 +120,7 @@ Het eenmalige aansluittarief bestaat uit een bedrag dat is opgebouwd uit:
 
 - c. een vast bedrag voor het tot stand brengen van een verbinding met een maximale kabellengte van 25 meter tussen de plaats waar het systeem verbroken is en de voorzieningen om het systeem te beveiligen (de verbinding), aangevuld met een bedrag per meter voor elke meter meer dan die 25 meter.
 
-##### Artikel 2.7
+#### Artikel 2.7
 
 1. De periodieke vergoeding voor aansluitingen met een aansluitcapaciteit kleiner dan 3 MVA bestaat uit een bedrag ter dekking van de kosten:
 
@@ -156,7 +130,7 @@ Het eenmalige aansluittarief bestaat uit een bedrag dat is opgebouwd uit:
 
 2. De periodieke vergoeding voor aansluitingen met een aansluitcapaciteit groter dan of gelijk aan 3 MVA bestaat uit een bedrag ter dekking van de kosten van het instandhouden van de aansluiting, aangevuld met een bedrag per meter ter dekking van de kosten van het instandhouden voor elke meter meer dan die 25 meter.
 
-##### Artikel 2.8
+#### Artikel 2.8
 
 1. Met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=1&z=2026-02-21&g=2026-02-21) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=2&z=2026-02-21&g=2026-02-21) wordt het aansluittarief bepaald door de aansluitcapaciteit die de aangeslotene wenst.
 
@@ -168,7 +142,7 @@ Het eenmalige aansluittarief bestaat uit een bedrag dat is opgebouwd uit:
 
 5. Wijzigingen van de in het tweede lid bedoelde grenzen zijn van toepassing met ingang van de datum waarop ook nieuw vastgestelde tarieven in werking treden.
 
-##### Artikel 2.9
+#### Artikel 2.9
 
 1. Voor de volgende aansluitingen geldt een aansluittarief dat is gebaseerd op de voorcalculatorische projectkosten met betrekking tot een dergelijke aansluiting:
 
@@ -184,11 +158,11 @@ Het eenmalige aansluittarief bestaat uit een bedrag dat is opgebouwd uit:
 
 4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op eenmalige werkzaamheden van de systeembeheerder ten behoeve van het aanpassen van de aansluiting en het realiseren van voorzieningen aan de aansluiting voor het kunnen toekennen van additionele allocatiepunten aan een aansluiting.
 
-##### Artikel 2.10
+#### Artikel 2.10
 
 Het aansluittarief voor een systeemkoppeling is gebaseerd op de voorcalculatorische projectkosten met betrekking tot een dergelijke systeemkoppeling volgens [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=3&z=2026-02-21&g=2026-02-21).
 
-##### Artikel 2.11
+#### Artikel 2.11
 
 1. Voor de instandhouding van de in [artikel 2.9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2026-02-21&g=2026-02-21), bedoelde aansluitingen en de in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2026-02-21&g=2026-02-21) bedoelde systeemkoppelingen verricht de systeembeheerder de in de tabel in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=4&z=2026-02-21&g=2026-02-21) genoemde (categorieën) werkzaamheden.
 
@@ -222,7 +196,7 @@ Het aansluittarief voor een systeemkoppeling is gebaseerd op de voorcalculatoris
 
 - d. overige operationele werkzaamheden: werkzaamheden met betrekking tot een bedrijfsvoeringscentrum, instandhouding van een storingsdienst en storingsvoorraad, het verrichten van diverse operationele werkzaamheden, het bijhouden van documentatie en het verstrekken van informatie over leidingen.
 
-##### Artikel 2.12
+#### Artikel 2.12
 
 1. De in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2026-02-21&g=2026-02-21), en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=4&z=2026-02-21&g=2026-02-21) genoemde percentages betreffen voor alle in artikel 2.11 bedoelde aansluitingen van een systeembeheerder uniforme percentages.
 
@@ -232,19 +206,19 @@ Het aansluittarief voor een systeemkoppeling is gebaseerd op de voorcalculatoris
 
 #### § 2.4. Overige bepalingen aansluittarief
 
-##### Artikel 2.13
+#### Artikel 2.13
 
 1. Bij het verbreken of aflopen van de aansluit- en transportovereenkomst worden de kosten voor het uitgebruik nemen van de aansluiting via een eenmalige bijdrage in rekening gebracht bij de aangeslotene.
 
 2. Bij het verlengen van de aansluit- en transportovereenkomst hoeven bestaande aansluitingen niet ingrijpend te worden aangepast, tenzij wijzigingen noodzakelijk zijn om de systeembeheerder in de gelegenheid te stellen zijn wettelijke taken uit te voeren.
 
-##### Artikel 2.14
+#### Artikel 2.14
 
 1. Bij wijziging van een aansluiting op verzoek van aangeslotenen geldt een tarief gebaseerd op de voorcalculatorische projectkosten met betrekking tot een dergelijke wijziging tot een maximum van het aansluittarief dat geldt voor de nieuwe aansluiting volgens de tabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=2&z=2026-02-21&g=2026-02-21) plus eventueel de eenmalige bijdrage conform [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2026-02-21&g=2026-02-21), voor het verwijderen van de oude aansluiting.
 
 2. Voor het berekenen van de eenmalige bijdrage voor het uitgebruik nemen van de aansluiting, bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2026-02-21&g=2026-02-21), en voor het berekenen van de voorcalculatorische projectkosten voor het wijzigen van een aansluiting als bedoeld in het eerste lid wordt de wijze, zoals bepaald in [artikel 2.9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2026-02-21&g=2026-02-21), toegepast.
 
-##### Artikel 2.15
+#### Artikel 2.15
 
 1. In het geval dat op een bestaande aansluiting een nieuwe aansluiting wordt gemaakt, zodat een deel van de aansluitkabel in een systeem verandert, zal de systeembeheerder onder de volgende voorwaarden overgaan tot restitutie van een deel van het door de “eerstaangeslotene” betaalde eenmalige aansluittarief:
 
@@ -272,7 +246,7 @@ Het aansluittarief voor een systeemkoppeling is gebaseerd op de voorcalculatoris
 
 #### § 3.1. Beschrijving van de transportdienst
 
-##### Artikel 3.1
+#### Artikel 3.1
 
 1. Voor het leveren van de transportdienst wordt het transportonafhankelijk transporttarief en het transportafhankelijk transporttarief in rekening gebracht per aansluiting van een aangeslotene die elektriciteit ontvangt.
 
@@ -284,7 +258,7 @@ Het aansluittarief voor een systeemkoppeling is gebaseerd op de voorcalculatoris
 
 #### § 3.2. Kosten gedekt door het transporttarief
 
-##### Artikel 3.2
+#### Artikel 3.2
 
 1. Het transporttarief dient ter dekking van de kosten van de door de systeembeheerder beheerde infrastructuur.
 
@@ -362,7 +336,7 @@ Het aansluittarief voor een systeemkoppeling is gebaseerd op de voorcalculatoris
 
 8. Indien een systeembeheerder van een of meer van de in het zesde of zevende lid geboden mogelijkheden gebruik wil maken, wordt het voornemen hiertoe aan de Autoriteit Consument en Markt ter kennis gebracht, tegelijk met het voorstel voor de tarieven, bedoeld in [3.110 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.110). Wijzigingen zijn van toepassing met ingang van de datum waarop ook nieuw vastgestelde tarieven in werking treden.
 
-##### Artikel 3.3
+#### Artikel 3.3
 
 In de verhouding tussen systeembeheerders onderling geldt met betrekking tot de toerekening van de transportafhankelijke kosten van de systemen op de in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2026-02-21&g=2026-02-21), genoemde spanningsniveaus, dat:
 
@@ -376,7 +350,7 @@ In de verhouding tussen systeembeheerders onderling geldt met betrekking tot de 
 
 #### § 3.3. De tariefstructuur van het transporttarief
 
-##### Artikel 3.4
+#### Artikel 3.4
 
 1. De transporttarieven zijn:
 
@@ -386,7 +360,7 @@ In de verhouding tussen systeembeheerders onderling geldt met betrekking tot de 
 
 2. Het in het eerste lid, onderdeel a, genoemde tarief valt uiteen in een transportafhankelijk tarief, beschreven in de [artikelen 3.6 tot en met 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.4&artikel=3.6&z=2026-02-21&g=2026-02-21), en een transportonafhankelijk tarief, beschreven in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.7&artikel=3.16&z=2026-02-21&g=2026-02-21).
 
-##### Artikel 3.5
+#### Artikel 3.5
 
 1. Een streng van lichtmasten wordt voor de toepassing van het transporttarief beschouwd als één aansluiting waarbij de indeling in een transporttariefcategorie, conform [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21), wordt gebaseerd op (de som van) het gecontracteerd transportvermogen voor afname van de lichtmasten in deze streng.
 
@@ -394,13 +368,13 @@ In de verhouding tussen systeembeheerders onderling geldt met betrekking tot de 
 
 #### § 3.4. Het transportafhankelijke tarief – kostentoerekening aan producenten en verbruikers
 
-##### Artikel 3.6
+#### Artikel 3.6
 
 Voor de bepaling van het transportafhankelijke tarief vindt een toerekening van de in [artikel 3.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2026-02-21&g=2026-02-21), genoemde kosten plaats tussen producenten enerzijds, verbruikers anderzijds, aldus dat aangeslotenen die elektriciteit ontvangen 100 (honderd) procent van de som van de transportafhankelijke kosten van EHS- en HS-systemen alsmede de transportafhankelijke kosten met betrekking tot de overige systeemvlakken wordt toegerekend, een en ander volgens het cascadebeginsel, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.5&artikel=3.7&z=2026-02-21&g=2026-02-21).
 
 #### § 3.5. Het transportafhankelijke tarief – kostentoerekening aan verbruikers volgens het cascade-beginsel
 
-##### Artikel 3.7
+#### Artikel 3.7
 
 1. Voor de kostentoerekening aan verbruikers worden kosten van een systeem op een hoger spanningsniveau toegerekend aan een systeem op een lager spanningsniveau naar rato van het aandeel van laatstgenoemd systeem in de totale afname van energie en/of vermogen van het eerstgenoemde systeem (het cascadebeginsel).
 
@@ -428,7 +402,7 @@ Voor de bepaling van het transportafhankelijke tarief vindt een toerekening van 
 
 #### § 3.6. Het transportafhankelijke tarief – het transportafhankelijke verbruikers transporttarief (TAVT)
 
-##### Artikel 3.8
+#### Artikel 3.8
 
 1. Met inachtneming van [artikel 3.2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2026-02-21&g=2026-02-21), worden voor de bepaling van het transportafhankelijke verbruikers-transporttarief (TAVT) de volgende tariefcategorieën onderscheiden:
 
@@ -468,7 +442,7 @@ Voor de bepaling van het transportafhankelijke tarief vindt een toerekening van 
 
 5. De verdeling van de aangeslotenen over de categorieën voor het gecontracteerd transportvermogen voor afname, bedoeld in het tweede lid, kan echter afwijken van die voor de gewenste aansluitcapaciteit, bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2026-02-21&g=2026-02-21) in die zin dat aangeslotenen voor het gecontracteerde transportvermogen voor afname op verzoek van de aangeslotene in een lagere categorie kunnen worden ingedeeld dan voor de gewenste aansluitcapaciteit.
 
-##### Artikel 3.9
+#### Artikel 3.9
 
 1. De tariefdragers voor het TAVT voor verbruikers in de tariefcategorieën, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21), zijn voor afname:
 
@@ -512,7 +486,7 @@ Voor de bepaling van het transportafhankelijke tarief vindt een toerekening van 
 
 7. De in het eerste lid, onderdelen a en b, beide subonderdeel 1°, en het tweede lid, onderdelen a en b, beide subonderdeel 1°, genoemde tariefdragers worden gebaseerd op de waarde van het gecontracteerd transportvermogen voor afname voor een kalenderjaar.
 
-##### Artikel 3.10
+#### Artikel 3.10
 
 1. De tariefdragers voor het TAVT voor verbruikers in de tariefcategorie, bedoeld in [artikel 3.8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21), zijn voor afname:
 
@@ -532,7 +506,7 @@ Voor de bepaling van het transportafhankelijke tarief vindt een toerekening van 
 
 3. Voor de in het eerste en tweede lid, telkens onderdeel a, bedoelde tariefdrager wordt uitgegaan van een waarde voor het gecontracteerd transportvermogen voor afname die voor onbepaalde tijd geldt.
 
-##### Artikel 3.11
+#### Artikel 3.11
 
 1. De tariefdragers voor het TAVT, die met toepassing van [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.5&artikel=3.7&z=2026-02-21&g=2026-02-21), worden toegerekend aan verbruikers in de tariefcategorieën, bedoeld in [artikel 3.8, eerste lid, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21), zijn voor afname:
 
@@ -554,15 +528,15 @@ Voor de bepaling van het transportafhankelijke tarief vindt een toerekening van 
 
 3. Het TAVT voor verbruikers met een aansluiting met een doorlaatwaarde kleiner dan of gelijk aan 3x80A wordt berekend door de totale toegerekende transportafhankelijke kosten te delen door de som van het aantal aansluitingen per categorie vermenigvuldigd met de rekencapaciteit van deze categorie overeenkomstig de tabel in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=6&z=2026-02-21&g=2026-02-21). De rekencapaciteit wordt gebruikt om de capaciteitsafhankelijke tarieven voor de onderscheiden categorieën te bepalen.
 
-##### Artikel 3.12
+#### Artikel 3.12
 
 Bij aangeslotenen met een aansluiting met een doorlaatwaarde kleiner dan of gelijk aan 3x80A in de tariefcategorie, bedoeld in [artikel 3.8, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21), en waarachter zich uitsluitend één of meer elektriciteitsproductie-eenheid/eenheden bevind(t)(en) en geen ander verbruik dan het eigen verbruik van de desbetreffende elektriciteitsproductie-eenheid/eenheden, wordt geen TAVT in rekening gebracht.
 
-##### Artikel 3.13
+#### Artikel 3.13
 
 De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunninghouders, de laaguren en de normaaluren vast en gaat daarbij uit van de in het verleden gehanteerde schakeltijden.
 
-##### Artikel 3.14
+#### Artikel 3.14
 
 1. In afwijking van [artikel 3.9, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.9&z=2026-02-21&g=2026-02-21), [artikel 3.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.10&z=2026-02-21&g=2026-02-21), en [artikel 3.11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.11&z=2026-02-21&g=2026-02-21), zijn de tariefdragers voor het TAVT voor verbruikers die overeenkomstig [artikel 7.5 van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=7.5) een aansluit- en transportovereenkomst zijn overeengekomen met een variabel recht op transport van elektriciteit:
 
@@ -614,7 +588,7 @@ De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunningho
 
 - 2°. kWh waarvoor het tarief gelijk is aan het tarief, bedoeld in [artikel 3.11, eerste lid, onderdeel a, tweede subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.11&z=2026-02-21&g=2026-02-21).
 
-##### Artikel 3.15
+#### Artikel 3.15
 
 1. Indien sprake is van een groepstransportovereenkomst, wordt in [artikel 3.9, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.9&z=2026-02-21&g=2026-02-21), [artikel 3.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.10&z=2026-02-21&g=2026-02-21), en [artikel 3.14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.14&z=2026-02-21&g=2026-02-21), voor het bepalen van de TAVT:
 
@@ -628,7 +602,7 @@ De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunningho
 
 #### § 3.7. Beschrijving van het transportonafhankelijke tarief
 
-##### Artikel 3.16
+#### Artikel 3.16
 
 1. De transportonafhankelijke kosten worden toegerekend aan de in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21), bedoelde tariefcategorieën naar de mate waarin zij in een tariefcategorie zijn veroorzaakt.
 
@@ -636,7 +610,7 @@ De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunningho
 
 #### § 3.8. Transporttarief voor blindenergie
 
-##### Artikel 3.17
+#### Artikel 3.17
 
 1. Voor verbruikers geldt een blindenergietarief indien de uitgewisselde blindenergie, bedoeld in [artikel 2.19 van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=2.19), uitgaat boven de bij de arbeidsfactor van 0,85 (inductief) of 1.0 (capacitief) behorende hoeveelheid. Als tariefdrager geldt de kvarh.
 
@@ -658,7 +632,7 @@ De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunningho
 
 #### § 3.9. Overige bepalingen transporttarief
 
-##### Artikel 3.18
+#### Artikel 3.18
 
 1. De kostentoerekening en de vaststelling van de waarden van de tariefdragers vinden plaats op basis van door middel van een meetinrichting als bedoeld in [artikel 2.46, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.46) gemeten waarden. Uitgezonderd worden de waarden van de tariefdrager voor aangeslotenen in de tariefcategorieën genoemd in [3.8, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&hoofdstuk=3&paragraaf=3.6&artikel=3.8&z=2026-02-21&g=2026-02-21) met een aansluiting met een doorlaatwaarde kleiner dan of gelijk aan 3x80A en onderdeel g. Deze waarden worden bepaald volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052321&bijlage=6&z=2026-02-21&g=2026-02-21).
 
@@ -666,7 +640,7 @@ De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunningho
 
 ### Hoofdstuk 4. Leveringszekerheid
 
-##### Artikel 4.1
+#### Artikel 4.1
 
 1. Indien distributiesysteembeheerders door faillissement van een leverancier als gevolg van toepassing van het leveranciersmodel, bedoeld in [artikel 2.27 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.27), tariefinkomsten derven, mogen zij deze gederfde inkomsten gezamenlijk met alle aangeslotenen met een kleine aansluiting verrekenen, waarbij voor iedere kleine aansluiting een gelijk bedrag in rekening wordt gebracht bij de aangeslotene.
 
@@ -686,15 +660,15 @@ De systeembeheerder stelt, na overleg met de in zijn gebied actieve vergunningho
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 5.1
+#### Artikel 5.1
 
 De [Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951) wordt ingetrokken.
 
-##### Artikel 5.2
+#### Artikel 5.2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-##### Artikel 5.3
+#### Artikel 5.3
 
 Dit besluit wordt aangehaald als: Tarievencode elektriciteit 2026.
 

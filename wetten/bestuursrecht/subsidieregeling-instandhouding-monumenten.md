@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 september 2012, nr. WJZ/387165 (10152), houdende regels voor de verstrekking van subsidie voor de instandhouding van rijksmonumenten (Subsidieregeling instandhouding monumenten)"
+title: "Subsidieregeling instandhouding monumenten"
 identifier: "BWBR0032075"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-19"
-last_updated: "2025-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032075"
-soort: "ministeriele-regeling"
-stam_id: "11868183"
-version_id: "28329242"
-internal_id: "C39936361"
-label_id: "11840864"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032075/2025-11-19/0"
-intitule_bron: "Stcrt.2012-20420"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-19"
-intitule_published: "2012-10-09"
-intitule_in_force: "2012-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-353"
-original_signed_date: "2021-12-17"
-original_published_date: "2022-01-11"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-353"
-entry_into_force_date: "2021-12-17"
-jci_1_3: "jci1.3:c:BWBR0032075&z=2025-11-19&g=2025-11-19"
-jci_1_0: "1.0:c:BWBR0032075&g=2025-11-19"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling instandhouding monumenten"
-signed_date: "2021-12-17"
-entry_into_force: "2021-12-17"
+categorie: "Overig"
+publicatiedatum: 2025-11-19
+laatste_update: 2025-11-19
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0032075"
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 september 2012, nr. WJZ/387165 (10152), houdende regels voor de verstrekking van subsidie voor de instandhouding van rijksmonumenten (Subsidieregeling instandhouding monumenten)
 
 Gelet op [artikel 3, tweede lid, van het Besluit rijkssubsidiëring instandhouding monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032036&artikel=3);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -84,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. **Algemeen**
 
-##### Artikel 2. Reikwijdte
+#### Artikel 2. Reikwijdte
 
 De minister kan jaarlijks aan de eigenaar van een rijksmonument of zelfstandig onderdeel op aanvraag voor een periode van zes kalenderjaren subsidie verstrekken voor:
 
@@ -92,7 +66,7 @@ De minister kan jaarlijks aan de eigenaar van een rijksmonument of zelfstandig o
 
 - b. indien het een archeologisch monument betreft, incidenteel onderhoud of conservering van dat archeologisch monument.
 
-##### Artikel 3. Subsidieplafonds
+#### Artikel 3. Subsidieplafonds
 
 1. Voor subsidieverlening zijn jaarlijks ten hoogste de volgende bedragen beschikbaar voor:
 
@@ -110,11 +84,11 @@ De minister kan jaarlijks aan de eigenaar van een rijksmonument of zelfstandig o
 
 5. Voor zover zulks voortvloeit uit hoofdstuk 1.3, paragraaf 92, van de bijlage bij deze regeling, kan een aanvraag voor een groen monument eveneens betrekking hebben op ten hoogste vier kleine rijksbeschermde gebouwde elementen die onderdeel zijn van de aanleg. Een dergelijke aanvraag wordt voor de verdeling van de subsidie op grond van deze regeling, integraal aangemerkt als aanvraag voor een groen monument als bedoeld in het eerste lid, onderdeel b.
 
-##### Artikel 4. Subsidiabele kosten
+#### Artikel 4. Subsidiabele kosten
 
 Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen die als zodanig zijn aangemerkt in de Leidraad subsidiabele instandhoudingskosten die als bijlage bij deze regeling is opgenomen.
 
-##### Artikel 5. Maximumbedrag subsidiabele kosten
+#### Artikel 5. Maximumbedrag subsidiabele kosten
 
 1. De subsidiabele kosten op grond waarvan het subsidiebedrag wordt bepaald, zijn ten hoogste 3 procent van de herbouwwaarde.
 
@@ -124,15 +98,15 @@ Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen die a
 
 #### § 2.2. **Aanvraag**
 
-##### Artikel 6. Aanvraagtermijn
+#### Artikel 6. Aanvraagtermijn
 
 Een aanvraag om subsidie wordt ingediend van 1 februari tot en met 31 maart in het jaar voorafgaand aan de periode van zes kalenderjaren waarvoor subsidie wordt gevraagd.
 
-##### Artikel 7. Wijze van indiening
+#### Artikel 7. Wijze van indiening
 
 Ten behoeve van het doen van een subsidieaanvraag is een online-portaal ingericht, dat is te bereiken via [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl). Een aanvraag wordt elektronisch ingediend bij de Rijksdienst voor het Cultureel Erfgoed met gebruikmaking van een aanvraagformulier als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2025-11-19&g=2025-11-19), dat op het portaal beschikbaar is gesteld.
 
-##### Artikel 8. In te dienen bescheiden
+#### Artikel 8. In te dienen bescheiden
 
 1. Bij een aanvraag om subsidie wordt gebruik gemaakt van een hiervoor door de minister vastgesteld aanvraagformulier.
 
@@ -170,7 +144,7 @@ Ten behoeve van het doen van een subsidieaanvraag is een online-portaal ingerich
 
 4. Indien de verzekeringspolis of de taxatie, bedoeld in het tweede lid, onderdeel c, ouder is dan één jaar, kan de aanvrager in zijn aanvraag voor de herbouwwaarde van het desbetreffende monument of zelfstandig onderdeel rekening houden met een indexering van de herbouwwaarde van ten hoogste 3% voor elk jaar dat is verstreken sinds het moment van opmaken van de verzekeringspolis of de taxatie, met een maximum van 15 jaar.
 
-##### Artikel 9. In te dienen bescheiden door professionele organisaties voor monumentenbehoud
+#### Artikel 9. In te dienen bescheiden door professionele organisaties voor monumentenbehoud
 
 1. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2025-11-19&g=2025-11-19), gaat een aanvraag van een professionele organisatie voor monumentenbehoud slechts vergezeld van een meerjarenbegroting op basis van een door de minister vastgesteld model.
 
@@ -184,7 +158,7 @@ Ten behoeve van het doen van een subsidieaanvraag is een online-portaal ingerich
 
 - d. voor zover het geen molen, archeologisch rijksmonument of groen monument betreft, de herbouwwaarde.
 
-##### Artikel 10. Instandhoudingsplan
+#### Artikel 10. Instandhoudingsplan
 
 1. Het instandhoudingsplan heeft betrekking op zes kalenderjaren en omvat:
 
@@ -200,11 +174,11 @@ Ten behoeve van het doen van een subsidieaanvraag is een online-portaal ingerich
 
 #### § 2.3. **Verlening**
 
-##### Artikel 11. Beslistermijn
+#### Artikel 11. Beslistermijn
 
 De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetreffende jaar ingediende en voor subsidie in aanmerking komende aanvragen.
 
-##### Artikel 12. Weigeringsgronden
+#### Artikel 12. Weigeringsgronden
 
 1. Onverminderd [artikel 7.6 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.6) wordt een aanvraag om subsidie in ieder geval geweigerd:
 
@@ -232,7 +206,7 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 - b. professionele organisatie voor monumentenbehoud met een hoofdactiviteit tot het in stand houden van monumenten voor zover deze blijkt uit het aanwijzingsbesluit.
 
-##### Artikel 13. Subsidiebedrag
+#### Artikel 13. Subsidiebedrag
 
 1. Het subsidiebedrag dat wordt verleend, bedraagt 80 procent van de subsidiabele kosten voor archeologische rijksmonumenten als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-11-19&g=2025-11-19), en 50 procent van de subsidiabele kosten voor groene monumenten en overige rijksmonumenten als bedoeld in artikel 3, eerste lid, onderdeel b, onderscheidenlijk onderdeel c, met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2025-11-19&g=2025-11-19).
 
@@ -244,7 +218,7 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 3. Het tweede lid is niet van toepassing indien de eigenaar een professionele organisatie voor monumentenbehoud is.
 
-##### Artikel 14. Verdeelcriteria
+#### Artikel 14. Verdeelcriteria
 
 1. Indien in enig jaar een subsidieplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-11-19&g=2025-11-19) niet hoog genoeg is om alle aanvragen ten laste van het desbetreffende beschikbare bedrag te honoreren, wordt op die aanvragen in de volgende volgorde beslist:
 
@@ -264,7 +238,7 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 4. Indien bij toepassing van het tweede lid binnen één van de deelbudgetten, bedoeld in het tweede lid, onderdelen a en b, na toewijzing van alle daarvoor in aanmerking komende aanvragen, nog middelen resteren, worden deze middelen eerst aangewend voor alle daarvoor in aanmerking komende aanvragen ten laste van het andere deelbudget, alvorens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-11-19&g=2025-11-19), wordt toegepast.
 
-##### Artikel 15. Bevoorschotting
+#### Artikel 15. Bevoorschotting
 
 1. Indien de subsidie minder dan € 25.000 bedraagt, verleent de minister de eigenaar een voorschot van 100% van het subsidiebedrag.
 
@@ -276,7 +250,7 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 5. Indien de liquiditeitsbehoefte van de subsidieontvanger om een ander betaalritme vraagt, kan de minister in afwijking van het vierde lid een groter of kleiner deel van de subsidie in door hem te bepalen termijnen als voorschot betalen.
 
-##### Artikel 16. Bijzondere bepalingen voor professionele organisaties voor monumentenbehoud
+#### Artikel 16. Bijzondere bepalingen voor professionele organisaties voor monumentenbehoud
 
 1. Een professionele organisatie voor monumentenbehoud kan de subsidie aanwenden voor uitvoering van subsidiabele werkzaamheden aan alle rijksmonumenten en zelfstandige onderdelen uit de meerjarenbegroting, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2025-11-19&g=2025-11-19), waarvoor subsidie is verleend.
 
@@ -288,23 +262,23 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 #### § 2.4. **Verplichtingen van de subsidieontvanger**
 
-##### Artikel 17. Meldingsplicht
+#### Artikel 17. Meldingsplicht
 
 De subsidieontvanger doet onverwijld een schriftelijke melding aan de Rijksdienst voor het Cultureel Erfgoed zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
-##### Artikel 18. Nader onderzoek herbouwwaarde
+#### Artikel 18. Nader onderzoek herbouwwaarde
 
 Indien de minister ernstige twijfel heeft over de juistheid van de opgegeven herbouwwaarde, kan de minister een nader onderzoek naar de herbouwwaarde instellen. De subsidieontvanger werkt mee aan dit onderzoek.
 
-##### Artikel 19. Onderhoudsplicht
+#### Artikel 19. Onderhoudsplicht
 
 De minister kan de subsidieontvanger verplichten na afloop van de werkzaamheden waarvoor subsidie is verleend, het rijksmonument of het zelfstandig onderdeel te bewaren en te onderhouden in de staat waarin het door de werkzaamheden waarvoor subsidie is verleend, is gebracht.
 
-##### Artikel 20. Gebruik kerkgebouw
+#### Artikel 20. Gebruik kerkgebouw
 
 Vervallen
 
-##### Artikel 21. Verplichtingen bij de uitvoering van werkzaamheden
+#### Artikel 21. Verplichtingen bij de uitvoering van werkzaamheden
 
 De minister kan de subsidieontvanger verplichten:
 
@@ -324,7 +298,7 @@ De minister kan de subsidieontvanger verplichten:
 
 - h. werkzaamheden onder nader door hem te stellen voorwaarden te doen begeleiden indien voor de uitvoering daarvan specifieke kennis is vereist.
 
-##### Artikel 22. Verzekeringsplicht
+#### Artikel 22. Verzekeringsplicht
 
 De minister kan de subsidieontvanger verplichten:
 
@@ -334,11 +308,11 @@ De minister kan de subsidieontvanger verplichten:
 
 #### § 2.5. **Verantwoording en vaststelling**
 
-##### Artikel 23. Desgevraagd verantwoording over prestaties bij subsidies minder dan € 25.000
+#### Artikel 23. Desgevraagd verantwoording over prestaties bij subsidies minder dan € 25.000
 
 Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op verzoek van de minister aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Bij beschikking wordt aangegeven op welke wijze dit wordt aangetoond.
 
-##### Artikel 24. Verantwoording over prestaties bij subsidies van € 25.000 of meer
+#### Artikel 24. Verantwoording over prestaties bij subsidies van € 25.000 of meer
 
 1. Indien de subsidie € 25.000 of meer bedraagt, toont de subsidieontvanger aan de hand van een prestatieverklaring aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -352,7 +326,7 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op
 
 6. Onverminderd het bepaalde in het eerste tot en met vierde lid, toont de subsidieontvanger op verzoek van de minister aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Bij beschikking wordt aangegeven op welke wijze dit wordt aangetoond.
 
-##### Artikel 25. Verantwoording van kosten bij subsidies van € 125.000 of meer
+#### Artikel 25. Verantwoording van kosten bij subsidies van € 125.000 of meer
 
 1. Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger rekening en verantwoording af aan de hand van een financieel verslag. [Artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) is van overeenkomstige toepassing.
 
@@ -366,7 +340,7 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op
 
 6. De minister kan de subsidieontvanger verplichten de desbetreffende originele rekeningen en betalingsbewijzen te overleggen.
 
-##### Artikel 26. Vaststelling
+#### Artikel 26. Vaststelling
 
 1. Een aanvraag tot subsidievaststelling wordt ingediend in de periode van 1 juni tot en met 15 juli van het kalenderjaar dat volgt op de periode waarvoor subsidie is verleend. Indien de verleende subsidie minder dan € 25.000 bedraagt, wordt deze vastgesteld zonder aanvraag daartoe.
 
@@ -378,17 +352,17 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op
 
 - b. indien de verleende subsidie € 25.000 of meer bedraagt binnen 22 weken na ontvangst van de aanvraag tot vaststelling.
 
-##### Artikel 27. Lager vaststellen bij werkzaamheden in strijd met de wet
+#### Artikel 27. Lager vaststellen bij werkzaamheden in strijd met de wet
 
 Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) kan de subsidie in ieder geval lager dan de verlening worden vastgesteld indien werkzaamheden waarvoor subsidie is verleend, zijn verricht in strijd met het bij of krachtens de wet bepaalde.
 
-##### Artikel 28. Eigendomsoverdracht
+#### Artikel 28. Eigendomsoverdracht
 
 1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een rijksmonument of een zelfstandig onderdeel overdraagt aan een derde, dient de subsidieontvanger binnen drie maanden na de overdracht een aanvraag tot vaststelling van de subsidie in bij de minister. De [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2025-11-19&g=2025-11-19) zijn van overeenkomstige toepassing.
 
 2. Na de vaststelling, bedoeld in het eerste lid, kan de minister op verzoek van de eigenaar aan wie de eigendom of het zakelijk recht is overgedragen, aan die eigenaar subsidie verstrekken ten behoeve van de afronding van het instandhoudingsplan. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-11-19&g=2025-11-19) is niet van toepassing.
 
-##### Artikel 29. Terugvordering
+#### Artikel 29. Terugvordering
 
 1. De subsidieontvanger is na de subsidievaststelling verplicht een teveel aan ontvangen voorschot onverwijld terug te betalen, tenzij de minister tot verrekening op andere wijze heeft besloten.
 
@@ -398,7 +372,7 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### § 3.1. **Aanwijzingsprocedure**
 
-##### Artikel 30. Aanwijzing
+#### Artikel 30. Aanwijzing
 
 1. De minister kan op aanvraag een privaatrechtelijke rechtspersoon of kerkgenootschap aanwijzen als professionele organisatie voor monumentenbehoud.
 
@@ -406,7 +380,7 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. Indien een aanvrager bij de aanvraag heeft aangetoond dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, vermeldt de minister dit in het aanwijzingsbesluit.
 
-##### Artikel 31. Beoordelingscriteria
+#### Artikel 31. Beoordelingscriteria
 
 1. Een aanvrager toont in ieder geval aan dat:
 
@@ -422,7 +396,7 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 2. Indien een aanvrager een vermelding als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2025-11-19&g=2025-11-19), wenst, toont deze aan dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, hetgeen onder meer kan blijken uit de feitelijke activiteiten van de organisatie.
 
-##### Artikel 32. Aanvraag
+#### Artikel 32. Aanvraag
 
 1. Een aanvraag tot aanwijzing als professionele organisatie voor monumentenbehoud wordt ingediend bij de Rijksdienst voor het Cultureel Erfgoed en omvat in ieder geval:
 
@@ -444,19 +418,19 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 2. De stukken, bedoeld in het eerste lid, gaan niet bij de aanvraag voor zover de aanvrager er redelijkerwijs van uit kan gaan dat deze al in het bezit van de minister zijn.
 
-##### Artikel 33. Termijnen
+#### Artikel 33. Termijnen
 
 1. Aanvragen kunnen in enig jaar tot en met 31 augustus van dat jaar worden ingediend.
 
 2. De minister beslist in enig jaar binnen 22 weken na 31 augustus op de aanvragen die in dat jaar zijn ingediend.
 
-##### Artikel 34. Advies
+#### Artikel 34. Advies
 
 1. De minister vraagt advies over een aanvraag aan de Raad.
 
 2. De Raad zendt binnen dertien weken na ontvangst van het adviesverzoek zijn advies aan de minister.
 
-##### Artikel 35. Intrekking van de aanwijzing
+#### Artikel 35. Intrekking van de aanwijzing
 
 1. Indien een professionele organisatie voor monumentenbehoud niet meer voldoet aan de criteria op grond waarvan zij is aangewezen, trekt de minister de aanwijzing in.
 
@@ -464,33 +438,33 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### § 3.2. **Beoordelingscommissie**
 
-##### Artikel 36. Commissie
+#### Artikel 36. Commissie
 
 Vervallen
 
-##### Artikel 37. Advies en werkwijze beoordelingscommissie
+#### Artikel 37. Advies en werkwijze beoordelingscommissie
 
 Vervallen
 
-##### Artikel 38. Inlichtingenplicht
+#### Artikel 38. Inlichtingenplicht
 
 Vervallen
 
-##### Artikel 39. Vergoeding
+#### Artikel 39. Vergoeding
 
 Vervallen
 
-##### Artikel 40. Openbaarmaking en archivering
+#### Artikel 40. Openbaarmaking en archivering
 
 Vervallen
 
 ### Hoofdstuk 3. Aanwijzing van professionele organisaties
 
-##### Artikel 41. Wijziging [Subsidieregeling stimulering herbestemming monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0030544)
+#### Artikel 41. Wijziging [Subsidieregeling stimulering herbestemming monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0030544)
 
 Vervallen
 
-##### Artikel 42. Verlenging activiteitenperiode vanwege overmacht of onvoorziene omstandigheden
+#### Artikel 42. Verlenging activiteitenperiode vanwege overmacht of onvoorziene omstandigheden
 
 1. De minister kan de periode waarvoor de subsidie is verleend op verzoek van de subsidieontvanger met een jaar verlengen, indien de subsidieontvanger door overmacht of onvoorziene omstandigheden redelijkerwijs niet in staat is de activiteiten waarvoor de subsidie is verleend binnen de oorspronkelijke periode af te ronden.
 
@@ -502,13 +476,13 @@ Vervallen
 
 3. De subsidieontvanger dient een aanvraag als bedoeld in het eerste lid in ieder geval in voor het einde van de periode waarvoor de subsidie is verleend.
 
-##### Artikel 43. Inwerkingtreding
+#### Artikel 43. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027.
 
-##### Artikel 44. Citeertitel
+#### Artikel 44. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling instandhouding monumenten.
 
@@ -672,7 +646,7 @@ In de toelichting op het aanvraagformulier is aangegeven aan welke eisen genoemd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 42a. Overgangsperiode Aangewezen organisaties voor monumentenbehoud
+#### Artikel 42a. Overgangsperiode Aangewezen organisaties voor monumentenbehoud
 
 Vervallen
 
@@ -786,7 +760,7 @@ Ten aanzien van de fysieke hechtheid van de verbinding werd in het verleden ook 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 1a. Grondslag
+#### Artikel 1a. Grondslag
 
 Deze regeling berust op [artikel 7.7, eerste en tweede lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7).
 
@@ -806,11 +780,11 @@ Deze regeling berust op [artikel 7.7, eerste en tweede lid, van de Erfgoedwet](h
 
 ### Hoofdstuk 3. Aanwijzing van professionele organisaties
 
-##### Artikel 42b. Verhoging subsidieplafond 2016 monumenten met hoge herbouwwaarde
+#### Artikel 42b. Verhoging subsidieplafond 2016 monumenten met hoge herbouwwaarde
 
 Vervallen
 
-##### Artikel 42c. Verhoging subsidieplafond overige beschermde rijksmonumenten 2018
+#### Artikel 42c. Verhoging subsidieplafond overige beschermde rijksmonumenten 2018
 
 Vervallen
 
@@ -840,7 +814,7 @@ Eerst wordt het honorariumpercentage bepaald aan de hand van het hiernavolgende 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 42d. Aanpassing subsidieplafond 2019
+#### Artikel 42d. Aanpassing subsidieplafond 2019
 
 Vervallen
 
@@ -862,7 +836,7 @@ Bij instandhoudingsplannen is begeleiding door een architect/bouwkundige/groenbe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 42e. Aanpassing subsidieplafond 2020
+#### Artikel 42e. Aanpassing subsidieplafond 2020
 
 Vervallen
 
@@ -878,7 +852,7 @@ Bij instandhoudingsplannen is begeleiding door een architect/bouwkundige/groenbe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 42f. Structurele verhoging subsidieplafonds monumenten met hoge subsidiabele kosten of hoge herbouwwaarde
+#### Artikel 42f. Structurele verhoging subsidieplafonds monumenten met hoge subsidiabele kosten of hoge herbouwwaarde
 
 Vervallen
 
@@ -906,17 +880,17 @@ Het subsidiabele honorariumbedrag voor de begeleiding wordt als volgt vastgestel
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 29a. [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+#### Artikel 29a. [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op de subsidies die op grond van dit hoofdstuk worden verstrekt.
 
-##### Artikel 29b. Subsidieverstrekking verduurzamingsonderzoek
+#### Artikel 29b. Subsidieverstrekking verduurzamingsonderzoek
 
 1. De Minister kan subsidie verstrekken voor het uitvoeren van een verduurzamingsonderzoek voor een rijksmonument of zelfstandig onderdeel.
 
 2. De Minister verstrekt een subsidie voor een verduurzamingsonderzoek uitsluitend als aanvulling op een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-11-19&g=2025-11-19).
 
-##### Artikel 29c. Subsidieplafonds en verdeelcriteria
+#### Artikel 29c. Subsidieplafonds en verdeelcriteria
 
 1. Voor subsidieverstrekking op grond van dit hoofdstuk is:
 
@@ -934,7 +908,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 3. De verdeling van de subsidie vindt plaats in dezelfde volgorde als die waarin op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-11-19&g=2025-11-19) op de aanvragen wordt beslist.
 
-##### Artikel 29d. Subsidiabele kosten
+#### Artikel 29d. Subsidiabele kosten
 
 1. Subsidiabel zijn de kosten van een verduurzamingsonderzoek dat voldoet aan de eisen, bedoeld in [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2a&artikel=29g&z=2025-11-19&g=2025-11-19). Voor de subsidieverlening wordt een vast bedrag van € 4.000 aan subsidiabele kosten in aanmerking genomen.
 
@@ -942,39 +916,39 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 3. Ten aanzien van het verduurzamingsonderzoek en het rapport over de monumentale waarden van het rijksmonument is hoofdstuk 1.1, onderdeel f, van de bijlage bij deze regeling niet van toepassing, met dien verstande dat een verduurzamingsonderzoek uitsluitend voor subsidie in aanmerking komt, indien het onderzoek nog niet is afgerond op het moment van de subsidieaanvraag.
 
-##### Artikel 29e. Subsidiebedrag
+#### Artikel 29e. Subsidiebedrag
 
 Ten aanzien van het percentage van de subsidiabele kosten, waarvoor subsidie wordt verstrekt, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2025-11-19&g=2025-11-19) van overeenkomstige toepassing.
 
-##### Artikel 29f. Subsidieaanvraag
+#### Artikel 29f. Subsidieaanvraag
 
 1. Een aanvraag om subsidie voor een verduurzamingsonderzoek kan uitsluitend tezamen worden gedaan met de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-11-19&g=2025-11-19).
 
 2. De aanvraag om subsidie voor een verduurzamingsonderzoek wordt op dezelfde manier gedaan als de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-11-19&g=2025-11-19). [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-11-19&g=2025-11-19) is daarbij van overeenkomstige toepassing.
 
-##### Artikel 29g. Eisen verduurzamingsonderzoek
+#### Artikel 29g. Eisen verduurzamingsonderzoek
 
 1. Een verduurzamingsonderzoek wordt uitgevoerd volgens de daarvoor in de beroepsgroep geldende normen, met dien verstande dat daarbij rekening wordt gehouden met de monumentale waarden op basis van een door een bouw- of architectuurhistoricus opgesteld rapport over de aanwezige monumentale waarden.
 
 2. Via de website [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl) wordt een nadere specificatie beschikbaar gesteld van de inhoud van het op te maken verduurzamingsrapport.
 
-##### Artikel 29h. Subsidieverplichtingen
+#### Artikel 29h. Subsidieverplichtingen
 
 [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2025-11-19&g=2025-11-19) is van overeenkomstige toepassing op een subsidie die op grond van dit hoofdstuk is verstrekt.
 
-##### Artikel 29i. Verlening en weigeringsgrond
+#### Artikel 29i. Verlening en weigeringsgrond
 
 1. De Minister beslist op de aanvraag om subsidie voor een verduurzamingsonderzoek, gelijktijdig met de aanvraag voor de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-11-19&g=2025-11-19), voor het desbetreffende rijksmonument of het zelfstandige onderdeel. De subsidie wordt als één totaalbedrag verleend.
 
 2. Onverminderd [artikel 7.6 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.6) wordt een aanvraag om subsidie voor een verduurzamingsonderzoek in ieder geval geweigerd, voor zover aan de eigenaar voor het verduurzamingsonderzoek reeds uit anderen hoofde rijkssubsidie is verstrekt.
 
-##### Artikel 29j. Verantwoording en vaststelling
+#### Artikel 29j. Verantwoording en vaststelling
 
 1. De eigenaar verantwoordt de subsidie voor het verduurzamingsonderzoek als onderdeel van de verantwoording van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-11-19&g=2025-11-19), voor het desbetreffende rijksmonument of het zelfstandige onderdeel. Voor het toe te passen verantwoordingsregime, genoemd in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2025-11-19&g=2025-11-19), alsmede voor de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=26&z=2025-11-19&g=2025-11-19), worden het subsidiebedrag dat uit hoofde van artikel 2 wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking genomen.
 
 2. De artikelen [27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=27&z=2025-11-19&g=2025-11-19) zijn van overeenkomstige toepassing.
 
-##### Artikel 29k. Bevoorschotting
+#### Artikel 29k. Bevoorschotting
 
 [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2025-11-19&g=2025-11-19) is van overeenkomstige toepassing op een subsidie die op grond van dit hoofdstuk is verstrekt, met dien verstande dat voor de toepassing van dat artikel het subsidiebedrag dat uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-11-19&g=2025-11-19) wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking worden genomen.
 
@@ -1012,7 +986,7 @@ De kosten van een aannemer zijn te verdelen in directe en indirecte kosten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 42g. Aanpassing subsidieplafond 2023
+#### Artikel 42g. Aanpassing subsidieplafond 2023
 
 Vervallen
 
@@ -1030,7 +1004,7 @@ Indien de instandhoudingswerkzaamheden ingrijpender herstel of grote ingrepen om
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 42h. Aanpassing subsidieplafond 2024
+#### Artikel 42h. Aanpassing subsidieplafond 2024
 
 1. In 2024 wordt aan het budget voor groene monumenten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-11-19&g=2025-11-19), een bedrag van € 5,2 miljoen toegevoegd.
 
@@ -1054,7 +1028,7 @@ Tot de directe kosten van een bouwwerk behoren de kosten van de daarin te verwer
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3a. Verhoging subsidieplafonds monumenten met hoge subsidiabele kosten of hoge herbouwwaarde
+#### Artikel 3a. Verhoging subsidieplafonds monumenten met hoge subsidiabele kosten of hoge herbouwwaarde
 
 Vervallen
 
@@ -1068,7 +1042,7 @@ Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
-##### Artikel 42i. Aanpassing subsidieplafond 2025
+#### Artikel 42i. Aanpassing subsidieplafond 2025
 
 1. In 2025 wordt bij toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2025-11-19&g=2025-11-19):
 
@@ -1098,7 +1072,7 @@ De onderdelen c, d en e bij elkaar vormen een opslag van maximaal 20%.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 3b. Verhoging subsidieplafond grote overige rijksmonumenten specifiek voor kerkgebouwen
+#### Artikel 3b. Verhoging subsidieplafond grote overige rijksmonumenten specifiek voor kerkgebouwen
 
 1. Nadat de middelen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-11-19&g=2025-11-19), zijn verdeeld, wordt aan het budget voor overige rijksmonumenten, bedoeld in artikel 3, eerste lid, onderdeel c, met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 5 miljoen toegevoegd voor kerkgebouwen.
 
