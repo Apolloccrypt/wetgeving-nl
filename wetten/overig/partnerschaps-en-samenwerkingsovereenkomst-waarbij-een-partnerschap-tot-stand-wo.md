@@ -3,7 +3,7 @@ title: "Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot
 identifier: "BWBV0001350"
 categorie: "Overig"
 publicatiedatum: 1999-07-01
-laatste_update: 2026-07-10
+laatste_update: 2026-07-14
 status: geldig
 bron: "https://wetten.overheid.nl/BWBV0001350"
 ---

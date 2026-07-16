@@ -2,8 +2,8 @@
 title: "Begrippencode elektriciteit 2026"
 identifier: "BWBR0052320"
 categorie: "Overig"
-publicatiedatum: 2026-02-21
-laatste_update: 2026-02-21
+publicatiedatum: 2026-07-09
+laatste_update: 2026-07-15
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052320"
 ---
@@ -14,11 +14,11 @@ Gelet op [artikel 3.121 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:B
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze code wordt onder balanceringsverantwoordelijke, congestie, distributiesysteembeheerder of transmissiesysteembeheerder telkens verstaan balanceringsverantwoordelijke, congestie, distributiesysteembeheerder, of transmissiesysteembeheerder voor elektriciteit, tenzij anders vermeld.
 
-#### Artikel 2
+##### Artikel 2
 
 In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.119), voor zover deze betrekking hebben op elektriciteit, wordt verstaan onder:
 
@@ -48,7 +48,7 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **allocatiemethode:** methode als bedoeld in [artikel 2.1.3, onderdeel s, van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.3);
 
-- **balanceringsverantwoordelijkenregister:** register als bedoeld in [artikel 10.3 van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=10.3);
+- **balanceringsverantwoordelijkenregister:** register als bedoeld in artikel 10.3 van de Systeemcode elektriciteit 2026;
 
 - **bedrijfsvoeringscriteria:** criteria die ten aanzien van de veiligheid en betrouwbaarheid van het transport van elektriciteit worden gehanteerd door systeembeheerders;
 
@@ -58,7 +58,7 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **capaciteitstariefcode:** aanduiding in het aansluitingenregister van het op een aansluiting van toepassing zijnde tarief als bedoeld in [artikel 2.35, eerste lid, van de Energieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051774&artikel=2.35);
 
-- **CG-aangeslotene:** aangeslotene of congestiebeheersdienstverlener waarvan een bieding overeenkomstig [artikel 9.29, vierde lid, van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=9.29) is afgeroepen dan wel waarvoor een capaciteitssturing overeenkomstig artikel 9.29, vierde lid, of [artikel 9.33, vijfde lid, van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=9.33) is opgedragen;
+- **CG-aangeslotene:** aangeslotene of congestiebeheersdienstverlener waarvan een bieding overeenkomstig artikel 9.29, vierde lid, van de Systeemcode elektriciteit 2026 is afgeroepen dan wel waarvoor een capaciteitssturing overeenkomstig artikel 9.29, vierde lid, of artikel 9.33, vijfde lid, van de Systeemcode elektriciteit 2026 is opgedragen;
 
 - **congestiebeheersdienstverlener:** partij die congestiebeheersdiensten levert aan een transmissie- of distributiesysteembeheerder;
 
@@ -74,11 +74,11 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **energieprogramma:** door een balanceringsverantwoordelijke opgesteld en bij de transmissiesysteembeheerder ingediend programma dat voor elke onbalansverrekeningsperiode in een kalenderdag bevat:
 
-- a. de positie;
+  - a. de positie;
 
-- b. het intern commercieel handelsprogramma;
+  - b. het intern commercieel handelsprogramma;
 
-- c. het extern commercieel handelsprogramma;
+  - c. het extern commercieel handelsprogramma;
 
 - **energietransactie:** overeenkomst die inhoudt dat een zekere hoeveelheid elektrische energie (in MWh) wordt geproduceerd en afgenomen;
 
@@ -92,7 +92,7 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **gevraagde transportcapaciteit:** transportcapaciteit nodig om aan de vraag naar transport van een aangeslotene of een distributiesysteembeheerder, namelijk de aanvrager, te voldoen;
 
-- **groepstransportovereenkomst:** op grond van [artikel 7.8, eerste lid, van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=7.8) afgesloten transportovereenkomst met twee of meer aangeslotenen gezamenlijk;
+- **groepstransportovereenkomst:** op grond van artikel 7.8, eerste lid, van de Systeemcode elektriciteit 2026 afgesloten transportovereenkomst met twee of meer aangeslotenen gezamenlijk;
 
 - **grootschalige storing:** uitval van verscheidene elementen in het systeem van een transmissie- of distributiesysteembeheerder of elektriciteitsproductie-eenheden waardoor in een groot gebied dan wel bij een groot aantal aangeslotenen de transportdienst onderbroken wordt;
 
@@ -136,6 +136,8 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **nominaal meetvermogen:** schijnbaar vermogen, overeenkomstig het bepaalde in [B3.1.1.2.1 tot en met B3.1.1.2.4 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3), te berekenen uit de nominale primaire spanning van de spanningstransformatoren en de nominale primaire stroom van de stroomtransformatoren;
 
+- **noodvermogen:** Het specifieke product voor manuele frequentieherstelreserves voor balanceringscapaciteit (balanceringscapaciteit noodvermogen) en balanceringsenergie (balanceringsenergie noodvermogen) dat door de transmissiesysteembeheerder wordt gebruikt ter invulling van de beschikbaarheid van reservecapaciteit voor frequentieherstelreserves en ter uitvoering van het manuele frequentieherstelproces;
+
 - **normaal telwerk:** telwerk van een meetinrichting bij een kleine aansluiting met twee of meer telwerken dat gebruikt wordt of kan worden voor de bepaling van de met het systeem uitgewisselde energie tijdens normaaluren;
 
 - **normaaluren:** uren van de dag waarvoor, in geval van een meetinrichting met dubbel telwerk, de met het systeem uitgewisselde elektrische energie wordt geregistreerd door het normaaltelwerk;
@@ -160,9 +162,9 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **recreatiesysteem:** systeem waarvoor niet op grond van [artikel 3.2 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.2) een systeembeheerder is aangewezen, of niet op grond van [artikel 3.6 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.6) een ontheffing is verleend, en waarvan de onroerende zaken, bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) waarmee het systeem een verbinding vormt ingevolge het omgevingsplan, de WOZ-beschikking of een notariële akte recreatieve doeleinden hebben of ingevolge het omgevingsplan, de WOZ-beschikking of een notariële akte niet bestemd zijn voor permanente bewoning en voor recreatieve doeleinden zijn bestemd;
 
-- **regelbaar vermogen voor afnamecongestie:** vermogen dat overeenkomstig [artikel 9.14, eerste lid, van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=9.14) voor inzet beschikbaar is;
+- **regelbaar vermogen voor afnamecongestie:** vermogen dat overeenkomstig artikel 9.14, eerste lid, van de Systeemcode elektriciteit 2026 voor inzet beschikbaar is;
 
-- **regelbaar vermogen voor invoedingscongestie:** vermogen dat overeenkomstig [artikel 9.14, eerste lid, van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=9.14) voor inzet beschikbaar is, vermeerderd met het overige vermogen van elektriciteitsproductie-eenheden dat bij inzet van de verplichting overeenkomstig [artikel 9.1, vierde lid, van de Systeemcode elektriciteit 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052336&artikel=9.1), met toepassing van een ondergrens van 1 MW, beschikbaar is voor het verminderen van elektriciteitsinvoeding;
+- **regelbaar vermogen voor invoedingscongestie:** vermogen dat overeenkomstig artikel 9.14, eerste lid, van de Systeemcode elektriciteit 2026 voor inzet beschikbaar is, vermeerderd met het overige vermogen van elektriciteitsproductie-eenheden dat bij inzet van de verplichting overeenkomstig artikel 9.1, vierde lid, van de Systeemcode elektriciteit 2026, met toepassing van een ondergrens van 1 MW, beschikbaar is voor het verminderen van elektriciteitsinvoeding;
 
 - **regionaal hoogspanningssysteem:** systeem bestemd voor het transport van elektriciteit op een spanningsniveau van 50 kV of hoger, maar lager dan 110 kV en dat als zodanig wordt bedreven;
 
@@ -214,9 +216,9 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **telwerkindicatie:** identificatie van de onderscheiden telwerken op een meetinrichting:
 
-- a. bij een handopgenomen meetinrichting zoals zichtbaar op de meter zelf, en;
+  - a. bij een handopgenomen meetinrichting zoals zichtbaar op de meter zelf, en;
 
-- b. bij een meetinrichting die op afstand uitleesbaar is door middel van de OBIS-code;
+  - b. bij een meetinrichting die op afstand uitleesbaar is door middel van de OBIS-code;
 
 - **toegankelijk meetregister:** register, bevattende vastgestelde meterstanden en verbruiken betreffende kleine aansluitingen;
 
@@ -234,9 +236,9 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **vastgestelde meterstand:** meterstand die na collectie en succesvolle validatie is vastgesteld door:
 
-- a. het meetbedrijf (ingeval deze meterstand betrekking heeft op een meetinrichting bij een kleine aansluiting); of
+  - a. het meetbedrijf (ingeval deze meterstand betrekking heeft op een meetinrichting bij een kleine aansluiting); of
 
-- b. de meetverantwoordelijke partij (ingeval deze meterstand betrekking heeft op een meetinrichting bij een grote aansluiting);
+  - b. de meetverantwoordelijke partij (ingeval deze meterstand betrekking heeft op een meetinrichting bij een grote aansluiting);
 
 - **verbruiker:** aangeslotene die elektrische energie afneemt van het systeem;
 
@@ -270,15 +272,15 @@ In de methoden of voorwaarden, bedoeld in [artikel 3.119 van de Energiewet](http
 
 - **werkdag:** dag, niet zijnde een zaterdag of een zondag en niet zijnde een algemeen erkende feestdag als bedoeld in [artikel 3, eerste lid, van de Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3), noch een in het tweede of krachtens het derde lid van genoemd artikel met een algemeen erkende feestdag gelijkgestelde dag;
 
-#### Artikel 3
+##### Artikel 3
 
 De [Begrippencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037938) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Begrippencode elektriciteit 2026.
 

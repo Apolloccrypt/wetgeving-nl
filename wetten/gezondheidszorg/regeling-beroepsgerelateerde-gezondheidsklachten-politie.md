@@ -1,39 +1,13 @@
 ---
-title: "Regeling van de Minister van Justitie en Veiligheid van 14 maart 2025, nr. 6204920, houdende regels voor de toepassing van het Besluit van 4 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere besluiten in verband met herziening van het stelsel voor beroepsziekten, beroepsincidenten en dienstongevallen (Regeling beroepsgerelateerde gezondheidsklachten politie)"
+title: "Regeling beroepsgerelateerde gezondheidsklachten politie"
 identifier: "BWBR0050873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-10"
-last_updated: "2025-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050873"
-soort: "ministeriele-regeling"
-stam_id: "17387553"
-version_id: "30653802"
-internal_id: "C43950811"
-label_id: "17291324"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050873/2025-07-10/0"
-intitule_bron: "Stcrt.2025-9867"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-14"
-intitule_published: "2025-03-21"
-intitule_in_force: "2025-03-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-9867"
-original_signed_date: "2025-03-14"
-original_published_date: "2025-03-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-9867"
-entry_into_force_date: "2025-04-01"
-jci_1_3: "jci1.3:c:BWBR0050873&z=2025-07-10&g=2025-07-10"
-jci_1_0: "1.0:c:BWBR0050873&g=2025-07-10"
-citeertitel_status: "officieel"
-short_title: "Regeling beroepsgerelateerde gezondheidsklachten politie"
-signed_date: "2025-03-14"
-entry_into_force: "2025-04-01"
+categorie: "Gezondheidszorg"
+publicatiedatum: 2025-07-10
+laatste_update: 2025-07-10
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0050873"
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 14 maart 2025, nr. 6204920, houdende regels voor de toepassing van het Besluit van 4 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere besluiten in verband met herziening van het stelsel voor beroepsziekten, beroepsincidenten en dienstongevallen (Regeling beroepsgerelateerde gezondheidsklachten politie)
 
 Gelet op de [artikelen 53b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53b), [53d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53d), [53e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53e), [53f](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53f), [54, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), [54a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54a), en [54b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54b);
@@ -42,7 +16,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-##### Artikel 1.1. Definities
+#### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -74,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **zelfwerkzaamheid:** hetgeen onder zelfwerkzaamheid wordt verstaan in de Letselschade Richtlijn Zelfwerkzaamheid van De Letselschade Raad.
 
-##### Artikel 1.2. Schadebeperking
+#### Artikel 1.2. Schadebeperking
 
 1. Voor zover dit redelijkerwijs van hem kan worden verlangd, houdt de ambtenaar de schade die voortvloeit uit de beroepsgerelateerde gezondheidsklachten zo beperkt mogelijk.
 
@@ -88,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 6. Kosten die de ambtenaar in redelijkheid maakt ten behoeve van de schadebeperking worden aan hem vergoed, tenzij de beperking ziet op de schade die op grond van [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=3&artikel=2.5&z=2025-07-10&g=2025-07-10) respectievelijk [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=3&artikel=2.7&z=2025-07-10&g=2025-07-10) wordt begroot.
 
-##### Artikel 1.3. Voorwaardelijke aanspraak
+#### Artikel 1.3. Voorwaardelijke aanspraak
 
 1. Zolang niet duidelijk is of en tot welke hoogte de aanspraak voor de vergoeding van schade, bedoeld in [artikel 1.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=1&artikel=1.2&z=2025-07-10&g=2025-07-10), tot uitkering leidt, heeft de ambtenaar een voorwaardelijke aanspraak op vergoeding van schade uit deze regeling.
 
@@ -100,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Algemeen
 
-##### Artikel 2.1. Bewijsverdeling
+#### Artikel 2.1. Bewijsverdeling
 
 1. Om toepassing te geven aan dit hoofdstuk stelt de ambtenaar dat hij schade heeft die causaal is aan zijn beroepsgerelateerde gezondheidsklachten of de daaruit voortvloeiende beperkingen.
 
@@ -110,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Gezondheidskundige behandeling of gezondheidskundige verzorging
 
-##### Artikel 2.2. Regulier
+#### Artikel 2.2. Regulier
 
 Kosten van de gezondheidskundige behandeling of gezondheidskundige verzorging die causaal zijn aan de beroepsgerelateerde gezondheidsklachten van de ambtenaar worden aan hem vergoed:
 
@@ -124,7 +98,7 @@ Kosten van de gezondheidskundige behandeling of gezondheidskundige verzorging di
 
 - e. tot maximaal de kosten die in de markt voor die behandeling of verzorging gebruikelijk zijn.
 
-##### Artikel 2.3. Alternatief
+#### Artikel 2.3. Alternatief
 
 Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezondheidskundige verzorging die causaal zijn aan de beroepsgerelateerde gezondheidsklachten van de ambtenaar worden aan hem vergoed:
 
@@ -140,7 +114,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 - f. tot maximaal de kosten die in de markt voor die behandeling of verzorging gebruikelijk zijn.
 
-##### Artikel 2.4. Overig
+#### Artikel 2.4. Overig
 
 1. Kosten van persoonlijke verzorging die causaal zijn aan de beroepsgerelateerde gezondheidsklachten van de ambtenaar worden aan hem vergoed:
 
@@ -180,7 +154,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 #### § 3. Huishoudelijke hulp, kinderopvang en verlies van zelfwerkzaamheid
 
-##### Artikel 2.5. Huishoudelijke hulp
+#### Artikel 2.5. Huishoudelijke hulp
 
 1. De schade door de behoefte aan huishoudelijke hulp komt voor vergoeding in aanmerking als die schade causaal is aan de beroepsgerelateerde gezondheidsklachten en de daaruit voortvloeiende beperkingen voor de ambtenaar.
 
@@ -190,7 +164,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 4. In aanvulling op de richtlijn, genoemd in het tweede lid, wordt ook professioneel ingehuurde hulp vergoed volgens de normbedragen en berekeningsformule, bedoeld in het tweede respectievelijk derde lid.
 
-##### Artikel 2.6. Extra kinderopvang
+#### Artikel 2.6. Extra kinderopvang
 
 1. De schade door de behoefte aan extra kinderopvang komt voor vergoeding in aanmerking als:
 
@@ -202,7 +176,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 3. De schade als gevolg van extra kinderopvang per uur wordt maximaal begroot op de door de Rijksoverheid gehanteerde uurprijs voor deze opvang.
 
-##### Artikel 2.7. Verlies van zelfwerkzaamheid
+#### Artikel 2.7. Verlies van zelfwerkzaamheid
 
 1. De schade door verlies van zelfwerkzaamheid komt voor vergoeding in aanmerking als die schade causaal is aan de beroepsgerelateerde gezondheidsklachten en de daaruit voortvloeiende beperkingen voor de ambtenaar.
 
@@ -210,7 +184,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 #### § 4. Smartengeld
 
-##### Artikel 2.8. Smartengeld
+#### Artikel 2.8. Smartengeld
 
 1. Indien de beroepsgerelateerde gezondheidsklachten minimaal vier weken hebben bestaan komt de ambtenaar in aanmerking voor smartengeld.
 
@@ -230,7 +204,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 #### § 5. Vrijwilligersvergoeding vrijwillige ambtenaren
 
-##### Artikel 2.9. Vrijwilligersvergoeding
+#### Artikel 2.9. Vrijwilligersvergoeding
 
 1. De schade, bedoeld in [artikel 53b, tweede lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53b), wordt begroot op de vrijwilligersvergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=2) respectievelijk [artikel 3 van de Regeling vergoedingen politievrijwilligers](https://wetten.overheid.nl/jci1.3:c:BWBR0043862&artikel=3), die op de vrijwilliger van toepassing is.
 
@@ -238,7 +212,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 #### § 6. Bijzondere Voorziening
 
-##### Artikel 2.10. Voorziening
+#### Artikel 2.10. Voorziening
 
 1. Schade als bedoeld in [artikel 53b, derde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53b), die causaal is aan de beroepsgerelateerde gezondheidsklachten of de daaruit voortvloeiende beperkingen wordt vergoed voor zover de schade:
 
@@ -250,7 +224,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 #### § 7. Vaststellen vergoeding
 
-##### Artikel 2.11. Schadevergoeding
+#### Artikel 2.11. Schadevergoeding
 
 1. Het bevoegd gezag stelt schadevergoeding op grond van dit hoofdstuk vast door middel van het omzetten van begrote schade in een vergoeding voor die schade.
 
@@ -260,7 +234,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 ### Hoofdstuk 3. Berekening bij gedeeltelijke aanspraak [artikel 53d Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53d)
 
-##### Artikel 3.1. Gedeeltelijke aanspraak
+#### Artikel 3.1. Gedeeltelijke aanspraak
 
 1. Indien sprake is van gedeeltelijke aanspraak als bedoeld in [artikel 53d, vierde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53d), wordt op de begrote schade na toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&z=2025-07-10&g=2025-07-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=6&z=2025-07-10&g=2025-07-10) van deze regeling, met uitzondering van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2025-07-10&g=2025-07-10), een percentage toegepast dat overeenkomt met de volgende tabel:
 
@@ -280,27 +254,27 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 #### § 1. Algemeen
 
-##### Artikel 4.1. Schade
+#### Artikel 4.1. Schade
 
 Voor toepassing van dit hoofdstuk geldt dat de te begroten schade de werkelijke schade niet te boven mag gaan.
 
-##### Artikel 4.2. Bewijsverdeling
+#### Artikel 4.2. Bewijsverdeling
 
 Om toepassing te geven aan de hoofdstukken 4, [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=5&z=2025-07-10&g=2025-07-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=6&z=2025-07-10&g=2025-07-10) toont de ambtenaar aan dat hij schade heeft die causaal is aan zijn beroepsgerelateerde gezondheidsklachten en de daaruit voortvloeiende beperkingen.
 
-##### Artikel 4.3. Rekenrente
+#### Artikel 4.3. Rekenrente
 
 1. Bij de begroting van toekomstige schade wordt rekening gehouden met rente en inflatie.
 
 2. De begroting, bedoeld in het eerste lid, vindt steeds plaats per schadepost.
 
-##### Artikel 4.4. Rekenprogramma
+#### Artikel 4.4. Rekenprogramma
 
 1. Bij de schadebegroting kan gebruik gemaakt worden van het paritair overeengekomen rekenprogramma.
 
 2. Het rekenprogramma wordt vastgesteld door het bevoegd gezag.
 
-##### Artikel 4.5. Fiscale schade
+#### Artikel 4.5. Fiscale schade
 
 1. Schade door wijziging van het belastbare inkomen uit sparen en beleggen als gevolg van de schadevergoeding die voortvloeit uit de schadeposten, genoemd in dit hoofdstuk, wordt vergoed.
 
@@ -308,7 +282,7 @@ Om toepassing te geven aan de hoofdstukken 4, [5](https://wetten.overheid.nl/jci
 
 3. Overige fiscale schade wordt vergoed voor zover dit paritair is overeengekomen en door het bevoegd gezag is vastgelegd.
 
-##### Artikel 4.6. Verplaatste schade
+#### Artikel 4.6. Verplaatste schade
 
 1. Voor de schadeposten, genoemd in de [paragrafen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&z=2025-07-10&g=2025-07-10) van dit hoofdstuk, geldt dat onder overeenkomstige voorwaarden, ook schade aan de ambtenaar kan worden vergoed van kosten die een derde in het belang van die ambtenaar heeft gemaakt.
 
@@ -322,11 +296,11 @@ Om toepassing te geven aan de hoofdstukken 4, [5](https://wetten.overheid.nl/jci
 
 #### § 2. Verlies van verdienvermogen
 
-##### Artikel 4.7. Begroting verlies van verdienvermogen
+#### Artikel 4.7. Begroting verlies van verdienvermogen
 
 Begroting van de schade door verlies van verdienvermogen vindt plaats door het hypothetisch te verdienen inkomen in de situatie zonder het ontstaan van de beroepsgerelateerde gezondheidsklachten te vergelijken met het werkelijke inkomen na het ontstaan van de beroepsgerelateerde klachten.
 
-##### Artikel 4.8. Verlies van verdienvermogen in dienst
+#### Artikel 4.8. Verlies van verdienvermogen in dienst
 
 1. Voor de ambtenaar, met uitzondering van de vrijwillige ambtenaar, in dienst bij de politie wordt onder het hypothetisch te verdienen inkomen in de situatie zonder het ontstaan van de beroepsgerelateerde gezondheidsklachten, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-10&g=2025-07-10), verstaan het salaris, de toelagen, de vergoedingen en uitkeringen waar de ambtenaar op grond van het [Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) en [Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) aanspraak op heeft of zou hebben gehad zonder het ontstaan van de beroepsgerelateerde klachten, alsmede de pensioenvoorziening.
 
@@ -336,7 +310,7 @@ Begroting van de schade door verlies van verdienvermogen vindt plaats door het h
 
 4. Schade door studievertraging die niet onder het derde lid valt, wordt begroot bij de vergelijking, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-10&g=2025-07-10).
 
-##### Artikel 4.9. Verlies van verdienvermogen uit dienst
+#### Artikel 4.9. Verlies van verdienvermogen uit dienst
 
 1. Voor de ambtenaar, met uitzondering van de vrijwillige ambtenaar, die ten tijde van de berekening van het verlies van verdienvermogen uit dienst is wordt onder het hypothetisch te verdienen inkomen in de situatie zonder het ontstaan van de beroepsgerelateerde gezondheidsklachten, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-10&g=2025-07-10), verstaan het salaris, de toelagen, de vergoedingen en uitkeringen waar de ambtenaar op grond van het [Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) en [Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) aanspraak op zou hebben gehad als hij in dienst was gebleven, alsmede de pensioenvoorziening.
 
@@ -344,11 +318,11 @@ Begroting van de schade door verlies van verdienvermogen vindt plaats door het h
 
 3. Bij de vergelijking, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-10&g=2025-07-10), wordt geen rekening gehouden met de schade die is ontstaan of ontstaat in verband met het niet afsluiten van een basisverzekering arbeidsongeschiktheid.
 
-##### Artikel 4.10. Verlies van verdienvermogen deelbetrekking
+#### Artikel 4.10. Verlies van verdienvermogen deelbetrekking
 
 Op de ambtenaar die een deelbetrekking heeft bij de politie en tevens inkomen buiten de politie genereert zijn de [artikelen 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2025-07-10&g=2025-07-10) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2025-07-10&g=2025-07-10) van overeenkomstige toepassing.
 
-##### Artikel 4.11. Verlies van verdienvermogen vrijwillige ambtenaren
+#### Artikel 4.11. Verlies van verdienvermogen vrijwillige ambtenaren
 
 1. Voor de toepassing van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2025-07-10&g=2025-07-10), wordt voor de vrijwillige ambtenaar het hypothetisch te verdienen inkomen gesteld op het inkomen, bedoeld in het tweede en derde lid.
 
@@ -360,7 +334,7 @@ Op de ambtenaar die een deelbetrekking heeft bij de politie en tevens inkomen bu
 
 #### § 3. Gezondheidskundige behandeling of gezondheidskundige verzorging
 
-##### Artikel 4.12. Gezondheidskundige behandeling of gezondheidskundige verzorging
+#### Artikel 4.12. Gezondheidskundige behandeling of gezondheidskundige verzorging
 
 1. Zo lang een ambtenaar in dienst is van de politie vindt vergoeding van de kosten van gezondheidskundige behandeling of gezondheidskundige verzorging, onverminderd het bepaalde in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-07-10&g=2025-07-10), plaats door toepassing van [hoofdstuk 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=2&z=2025-07-10&g=2025-07-10).
 
@@ -368,7 +342,7 @@ Op de ambtenaar die een deelbetrekking heeft bij de politie en tevens inkomen bu
 
 #### § 4. Huishoudelijke hulp, verlies van zelfwerkzaamheid en zorgschade
 
-##### Artikel 4.13. Huishoudelijke hulp
+#### Artikel 4.13. Huishoudelijke hulp
 
 1. De schade door de behoefte aan huishoudelijke hulp komt voor vergoeding in aanmerking als die schade causaal is aan de beroepsgerelateerde gezondheidsklachten en de daaruit voortvloeiende beperkingen voor de ambtenaar.
 
@@ -376,7 +350,7 @@ Op de ambtenaar die een deelbetrekking heeft bij de politie en tevens inkomen bu
 
 3. Indien de werkelijke schade voor de behoefte aan huishoudelijke hulp van de ambtenaar de vergoeding van schade op grond van [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=3&artikel=2.5&z=2025-07-10&g=2025-07-10) heeft overstegen, wordt het verschil tot maximaal de schade op basis van het tarief dat in de markt voor huishoudelijke hulp gebruikelijk is, toegevoegd aan de begrote schade, bedoeld in het tweede lid.
 
-##### Artikel 4.14. Verlies van zelfwerkzaamheid
+#### Artikel 4.14. Verlies van zelfwerkzaamheid
 
 1. De schade door verlies van zelfwerkzaamheid komt voor vergoeding in aanmerking als die schade causaal is aan de beroepsgerelateerde gezondheidsklachten en de daaruit voortvloeiende beperkingen voor de ambtenaar.
 
@@ -386,7 +360,7 @@ Op de ambtenaar die een deelbetrekking heeft bij de politie en tevens inkomen bu
 
 4. Indien de werkelijke schade door het verlies van zelfwerkzaamheid van de ambtenaar de vergoeding van schade op grond van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=3&artikel=2.7&z=2025-07-10&g=2025-07-10) heeft overstegen, wordt het verschil tot maximaal de schade op basis van de tarieven die in de markt voor werkzaamheden op het gebied van zelfwerkzaamheid gebruikelijk zijn, toegevoegd aan de begrote schade, bedoeld in het tweede lid.
 
-##### Artikel 4.15. Zorgschade
+#### Artikel 4.15. Zorgschade
 
 1. Zorgschade is schade als gevolg van de zorgbehoefte en voortdurende zorgbehoefte van de ambtenaar die kan bestaan uit de zorgfuncties: persoonlijke verzorging, verpleging, begeleiding en toezicht. Zorgschade kan ook tijdelijk verblijf betreffen.
 
@@ -402,13 +376,13 @@ Op de ambtenaar die een deelbetrekking heeft bij de politie en tevens inkomen bu
 
 #### § 5. Smartengeld en overige schade
 
-##### Artikel 4.16. Smartengeld
+#### Artikel 4.16. Smartengeld
 
 1. De ambtenaar heeft aanspraak op aanvullend smartengeld indien er sprake is geweest van smartengeld in categorie 3 als bedoeld in [artikel 2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=4&artikel=2.8&z=2025-07-10&g=2025-07-10).
 
 2. De hoogte van het smartengeld wordt bepaald door toepassing van de categorieën en factoren die zijn opgenomen in de Rotterdamse schaal.
 
-##### Artikel 4.17. Overige schade
+#### Artikel 4.17. Overige schade
 
 Overige kosten komen voor vergoeding in aanmerking:
 
@@ -424,7 +398,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 #### § 6. Overlijdensschade [artikel 53f Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53f)
 
-##### Artikel 4.18. Overlijdensschade
+#### Artikel 4.18. Overlijdensschade
 
 1. De schadevergoeding voor het derven van levensonderhoud wordt berekend volgens de Richtlijn Rekenmodel Overlijdensschade van De Letselschade Raad. De hoogte van de schadevergoeding die verband houdt met de kinderen is minimaal de hoogte van de krachtens wettelijke verplichting aan hen verschuldigde bijdrage aan levensonderhoud en studie.
 
@@ -434,7 +408,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 #### § 7. Vaststellen vergoeding
 
-##### Artikel 4.19. Schadevergoeding
+#### Artikel 4.19. Schadevergoeding
 
 1. Het bevoegd gezag stelt schadevergoeding op grond van dit hoofdstuk vast door middel van het omzetten van begrote schade in een vergoeding voor die schade.
 
@@ -442,7 +416,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 ### Hoofdstuk 5. Juridische bijstand en extern advies [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54) en [54a Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54a)
 
-##### Artikel 5.1. Beroepsmatig verleende juridische bijstand
+#### Artikel 5.1. Beroepsmatig verleende juridische bijstand
 
 1. Van beroepsmatig verleende juridische bijstand is sprake indien de bijstand wordt verleend door:
 
@@ -468,7 +442,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 5. De tegemoetkoming, genoemd in het tweede lid, en het uurtarief, genoemd in het derde lid, worden jaarlijks per 1 juli gewijzigd met het procentuele verschil tussen de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek in het betreffende kalenderjaar en de overeenkomstige prijsindex in het hieraan voorgaande kalenderjaar.
 
-##### Artikel 5.2. Extern advies
+#### Artikel 5.2. Extern advies
 
 1. Het externe advies, bedoeld in [artikel 54a, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54a), komt tot stand door een herbeoordeling van de voorgenomen beslissing van het bevoegd gezag op basis van alle bij het primaire oordeel betrokken informatie.
 
@@ -486,7 +460,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 ### Hoofdstuk 6. Aanspraak gezinsleden [artikel 54b Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54b)
 
-##### Artikel 6.1. Aanspraak echtgenoten of inwonende gezinsleden
+#### Artikel 6.1. Aanspraak echtgenoten of inwonende gezinsleden
 
 1. Aan de in [artikel 54b van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54b) bedoelde echtgenoten of anderszins inwonende gezinsleden van de ambtenaar bij wie sprake is van beroepsgerelateerde gezondheidsklachten kunnen de kosten, bedoeld in het tweede of derde lid, worden vergoed.
 
@@ -504,11 +478,11 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 ### Hoofdstuk 7. Slotbepalingen
 
-##### Artikel 7.1. Inwerkingtreding
+#### Artikel 7.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2025.
 
-##### Artikel 7.2. Citeertitel
+#### Artikel 7.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beroepsgerelateerde gezondheidsklachten politie.
 

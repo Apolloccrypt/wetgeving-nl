@@ -2,8 +2,8 @@
 title: "Regeling examenreglement staatsexamens vo"
 identifier: "BWBR0051170"
 categorie: "Overig"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
+publicatiedatum: 2026-07-11
+laatste_update: 2026-07-15
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0051170"
 ---
@@ -14,19 +14,19 @@ Gelet op [artikel 2, derde lid onderdeel a, van de Wet College voor toetsen en e
 
 Besluit:
 
-#### Artikel 1. Examenreglement staatsexamens voortgezet onderwijs
+##### Artikel 1. Examenreglement staatsexamens voortgezet onderwijs
 
 Het examenreglement staatsexamens voortgezet onderwijs, bedoeld in [artikel 2, derde lid, onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 2.81, eerste lid van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.81), wordt vastgesteld als opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2025.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling examenreglement staatsexamens vo.
 
-## Bijlage. Examenreglement staatsexamens voortgezet onderwijs, voor staatsexamen vwo, staatsexamen havo en staatsexamen vmbo als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051170&artikel=1&z=2025-10-01&g=2025-10-01)
+## Bijlage. Examenreglement staatsexamens voortgezet onderwijs, voor staatsexamen vwo, staatsexamen havo en staatsexamen vmbo als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051170&artikel=1&z=2026-07-11&g=2026-07-11)
 
 Volgens [artikel 2, derde lid, onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 2.81, eerste lid van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.81) stelt het College bij regeling het examenreglement voor de staatsexamens vo vast. Het examenreglement omvat procedurele en organisatorische regelingen voor de uitvoering van het centraal examen en het college-examen, en inhoudelijke bepalingen.
 
@@ -70,7 +70,7 @@ In aanvulling op hetgeen bepaald in [artikel 4.32 van het Uitvoeringsbesluit WVO
 
 ### Artikel 15. Ontheffingen anders dan op grond van een diploma of certificaat
 
-Op basis van een diploma of getuigschrift, niet zijnde een diploma of certificaat vwo, havo, vmbo en mavo, kan een kandidaat een verzoek om ontheffing voor één of meer vakken indienen. Een verzoek om ontheffing dient voor 1 januari van het kalenderjaar waarin men examen wil afleggen, te worden ingediend.
+Op basis van een diploma of getuigschrift, niet zijnde een diploma of certificaat vwo, havo, vmbo en mavo, kan een kandidaat een verzoek om ontheffing voor één of meer vakken indienen. Een verzoek om ontheffing kan tot en met 31 december van het jaar voorafgaand aan het jaar waarin het staatsexamen wordt afgelegd, worden ingediend.
 
 ### Artikel 16. Inzien van schriftelijk examenwerk
 

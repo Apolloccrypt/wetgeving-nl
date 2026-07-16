@@ -3,7 +3,7 @@ title: "Specifiek interventiebeleid NVWA visketen zeevisserij (IB03-SPEC 48, ver
 identifier: "BWBR0049246"
 categorie: "Overig"
 publicatiedatum: 2024-01-13
-laatste_update: 2024-01-13
+laatste_update: 2026-07-15
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0049246"
 ---
