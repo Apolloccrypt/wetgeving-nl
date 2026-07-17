@@ -1,44 +1,20 @@
 ---
 title: "Mandaatregeling VWS"
 identifier: "BWBR0007923"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0007923"
-soort: "ministeriele-regeling"
-stam_id: "4939673"
-version_id: "7997062"
-internal_id: "C9921121"
-label_id: "4917684"
-dtd_version: "2.0"
-original_entry_into_force: "1996-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0007923/2026-01-01/0"
-intitule_bron: "Stcrt.1996-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-02-29"
-intitule_published: "1996-03-26"
-intitule_in_force: "1996-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1996-61"
-original_signed_date: "1996-02-29"
-original_published_date: "1996-03-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-03-01"
-jci_1_3: "jci1.3:c:BWBR0007923&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0007923&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "1996-02-29"
-entry_into_force: "1996-03-01"
+categorie: "Overig"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007923"
 ---
+
 # Mandaatregeling VWS
 
 Besluit:
 
 #### Hoofdstuk 1. Definities en reikwijdte
 
-##### Artikel 1. Definities
+#### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -56,41 +32,41 @@ In deze regeling wordt verstaan onder:
 
 - g. budget: budget als bedoeld in artikel 1 van het Organisatiebesluit VWS 2025.
 
-##### Artikel 1a. Personeelsaangelegenheden
+#### Artikel 1a. Personeelsaangelegenheden
 
 Vervallen
 
-##### Artikel 1b. Machtiging
+#### Artikel 1b. Machtiging
 
 Hetgeen in deze regeling is bepaald met betrekking tot mandaat is van overeenkomstige toepassing op machtiging.
 
 #### Hoofdstuk 2. Algemene bepalingen
 
-##### Artikel 2. Uitoefening bevoegdheid door mandaatgever
+#### Artikel 2. Uitoefening bevoegdheid door mandaatgever
 
 1. De mandaatgever blijft bevoegd de gemandateerde bevoegdheid uit te oefenen.
 
 2. De mandaatgever kan het mandaat te allen tijde beëindigen.
 
-##### Artikel 3. Aanwijzingen en inlichtingen
+#### Artikel 3. Aanwijzingen en inlichtingen
 
 1. De mandaatgever kan ter zake van de uitoefening van de gemandateerde bevoegdheid zowel algemene als bijzondere aanwijzingen geven.
 
 2. De gemandateerde verschaft de mandaatgever op diens verzoek inlichtingen over de uitoefening van de bevoegdheid.
 
-##### Artikel 4. Toerekening aan mandaatgever
+#### Artikel 4. Toerekening aan mandaatgever
 
 Een door de gemandateerde binnen de grenzen van zijn bevoegdheid genomen besluit geldt als een besluit van de mandaatgever.
 
-##### Artikel 5. Beperking uitoefening mandaat
+#### Artikel 5. Beperking uitoefening mandaat
 
 Vervallen
 
-##### Artikel 6. Vermelden mandaatgever
+#### Artikel 6. Vermelden mandaatgever
 
 Een krachtens mandaat genomen besluit vermeldt namens welk bewindspersoon het besluit is genomen.
 
-##### Artikel 7. Vervanging
+#### Artikel 7. Vervanging
 
 1. Bij afwezigheid of verhindering van een gemandateerde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van een ondermandaat.
 
@@ -98,15 +74,15 @@ Een krachtens mandaat genomen besluit vermeldt namens welk bewindspersoon het be
 
 #### Hoofdstuk 3. Verlening algemeen mandaat
 
-##### Artikel 8. De Secretaris-Generaal
+#### Artikel 8. De Secretaris-Generaal
 
 De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluiting van de stukken die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) door de Minister dienen te worden ondertekend.
 
-##### Artikel 9. De plaatsvervangend Secretaris-Generaal
+#### Artikel 9. De plaatsvervangend Secretaris-Generaal
 
 Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01), heeft de plaatsvervangend Secretaris-Generaal mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.
 
-##### Artikel 10
+#### Artikel 10
 
 1. Behoudens de [artikelen 12 tot en met 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01) hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren:
 
@@ -134,7 +110,7 @@ Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk
 
 #### Hoofdstuk 4. Beperkingen algemeen mandaat
 
-##### Artikel 11. Minister
+#### Artikel 11. Minister
 
 1. De Minister ondertekent de stukken gericht aan:
 
@@ -164,11 +140,11 @@ Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk
 
 - f. stukken, inhoudende een aanwijzing als bedoeld in [artikel 3, eerste lid, van het Besluit taakuitoefening IGJ](https://wetten.overheid.nl/jci1.3:c:BWBR0039998&artikel=3) aan de Inspectie gezondheidszorg en jeugd.
 
-##### Artikel 12. Secretaris-Generaal
+#### Artikel 12. Secretaris-Generaal
 
 In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken bestemd voor de Nationale ombudsman.
 
-##### Artikel 13
+#### Artikel 13
 
 In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10, eerste lid, onder b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
 
@@ -178,7 +154,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 - c. het vragen om inlichtingen.
 
-##### Artikel 14
+#### Artikel 14
 
 1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) hebben ten aanzien van verweerschriften en beroepschriften ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat:
 
@@ -208,7 +184,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 10. Alle functionarissen ondergeschikt aan de Directeur Zorg en Jeugd in Caribisch Nederland hebben mandaat met betrekking tot het nemen van beslissingen en het verrichten van handelingen betreffende de voorbereiding van een beslissing op bezwaar, voor zover behorend tot het werkterrein van de directie Zorg en Jeugd in Caribisch Nederland.
 
-##### Artikel 15. [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754)
+#### Artikel 15. [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754)
 
 1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal en de Directeur Open Overheid ieder mandaat tot het nemen van besluiten in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
@@ -226,7 +202,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 #### Hoofdstuk 5. Ondermandaat
 
-##### Artikel 16. Ondermandaat
+#### Artikel 16. Ondermandaat
 
 1. De directeur van een directie of eenheid is bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de Directeur Organisatie, Bedrijfsvoering en Personeel met betrekking tot stukken ter zake van onderwerpen die tot het werkterrein van de Directie Organisatie, Bedrijfsvoering en Personeel behoren.
 
@@ -242,7 +218,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 #### Hoofdstuk 5. Ondermandaat
 
-##### Artikel 16a. Bijzonder ondermandaat
+#### Artikel 16a. Bijzonder ondermandaat
 
 1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01), kan de Secretaris-Generaal, in het kader van een bepaald project en andere bijzondere gevallen, naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&z=2026-01-01&g=2026-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&z=2026-01-01&g=2026-01-01) bevoegde functionarissen, aan anderen de bevoegdheid verlenen om in naam van de Minister besluiten te nemen.
 
@@ -250,7 +226,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 #### Hoofdstuk 5. Ondermandaat
 
-##### Artikel 17
+#### Artikel 17
 
 1. De Directeur Organisatie, Bedrijfsvoering en Personeel houdt een centraal register bij van alle gemandateerden en van de inhoud van hun mandaat
 
@@ -258,7 +234,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 #### Hoofdstuk 5a. Bijzonder ondermandaat
 
-##### Artikel 18. Overgangsbepaling
+#### Artikel 18. Overgangsbepaling
 
 1. Mandaten verleend vóór het tijdstip van het inwerkingtreden van deze regeling vervallen met ingang van het inwerkingtreden van deze regeling.
 
@@ -266,21 +242,21 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 3. Een kopie van een mandaat als bedoeld in het tweede lid wordt binnen één maand, nadat deze regeling in werking is getreden, toegezonden aan de Secretaris-Generaal.
 
-##### Artikel 19. Intrekking
+#### Artikel 19. Intrekking
 
 De regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 31 januari 1984, kenmerk CDJBZ-46, wordt ingetrokken.
 
-##### Artikel 20. Inwerkingtreding
+#### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 maart 1996.
 
-##### Artikel 21. Citeertitel
+#### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Mandaatregeling VWS.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-##### Artikel 15a
+#### Artikel 15a
 
 1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-01-01&g=2026-01-01) hebben de Inspecteur-Generaal en de Hoofdinspecteurs van de Inspectie gezondheidszorg en jeugd ieder mandaat voor:
 
@@ -306,7 +282,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-##### Artikel 15b
+#### Artikel 15b
 
 1. De Inspecteur-Generaal, de Hoofdinspecteurs van de Inspectie gezondheidszorg en jeugd en de Inspecteurs van de Inspectie gezondheidszorg en jeugd, hebben mandaat tot het nemen van besluiten tot openbaarmaking, als bedoeld in [onderdeel II, onder 5, subonderdeel a, en onderdeel III, onder 5, subonderdeel a, van de bijlage bij het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet](onbekend), met uitzondering van de besluiten, bedoeld in het tweede lid, te nemen.
 
@@ -318,7 +294,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-##### Artikel 15b
+#### Artikel 15b
 
 Vervallen
 
@@ -326,11 +302,11 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-##### Artikel 15c
+#### Artikel 15c
 
 De Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu heeft mandaat tot het nemen van besluiten tot openbaarmaking van onderzoeksresultaten, publiekssamenvattingen en persberichten op grond van [artikel 3.1, eerste lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.1).
 
-##### Artikel 13a
+#### Artikel 13a
 
 1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) heeft de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit mandaat ten aanzien van het vaststellen van beleidsregels, met uitzondering van beleidsregels omtrent de uitleg van wettelijke voorschriften.
 
@@ -346,7 +322,7 @@ De Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu heef
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-##### Artikel 10a
+#### Artikel 10a
 
 Het mandaat, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=8&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
 

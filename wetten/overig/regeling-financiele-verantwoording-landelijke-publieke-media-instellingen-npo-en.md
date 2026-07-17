@@ -2,8 +2,8 @@
 title: "Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022"
 identifier: "BWBR0046601"
 categorie: "Overig"
-publicatiedatum: 2022-04-30
-laatste_update: 2022-04-30
+publicatiedatum: 2026-07-15
+laatste_update: 2026-07-16
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0046601"
 ---
@@ -14,23 +14,23 @@ Gelet op [artikel 2.172, derde lid, van de Mediawet 2008](https://wetten.overhei
 
 Besluit:
 
-#### Artikel 1. Vaststelling handboek financiële verantwoording
+##### Artikel 1. Vaststelling handboek financiële verantwoording
 
 Op de jaarrekening van de landelijke publieke media-instellingen, de NPO en de Ster is de bij deze regeling gevoegde bijlage van toepassing.
 
-#### Artikel 2. Intrekking oude [Regeling financiële verantwoording](https://wetten.overheid.nl/jci1.3:c:BWBR0044843)
+##### Artikel 2. Intrekking oude [Regeling financiële verantwoording](https://wetten.overheid.nl/jci1.3:c:BWBR0044843)
 
 De [Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044843) wordt ingetrokken, met dien verstande dat die regeling van toepassing blijft op de verantwoording tot en met het boekjaar 2021.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046601&artikel=1&z=2022-04-30&g=2022-04-30) van de Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046601&artikel=1&z=2026-07-15&g=2026-07-15) van de Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022
 
 **Copro 21087A3**
 
@@ -412,7 +412,7 @@ Bij bezoldiging boven de norm van iedere reguliere functionaris (niet zijnde top
 
 Instellingen die onder de reikwijdte van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) vallen én tevens bezoldigingsgegevens van bestuurders en toezichthouders openbaar moeten maken op grond van [artikelen 2:383, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383), en [2:383c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383c), kunnen er voor kiezen om de BW-verantwoording van bezoldigingsgegevens achterwege te laten. In dit Handboek is er voor gekozen om in deze situatie vermelding van bezoldigingsgegevens in het kader van [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) achterwege te laten met als doel om overlap van gegevens te vermijden.
 
-Voor meer actuele informatie wordt verwezen naar de site [www.topinkomens.nl](onbekend). Specifiek geldt met ingang van boekjaar 2021 dat voor publieke media-instellingen die onder categorie A, B en C zijn ingedeeld een verlaagde bezoldingsmaxima topfunctionarissen van toepassing is, zie bezoldigingsmaxima 4. Media-instellingen (bijlage 1).
+Voor meer actuele informatie wordt verwezen naar de site [www.topinkomens.nl](http://www.topinkomens.nl/). Specifiek geldt met ingang van boekjaar 2021 dat voor publieke media-instellingen die onder categorie A, B en C zijn ingedeeld een verlaagde bezoldingsmaxima topfunctionarissen van toepassing is, zie bezoldigingsmaxima 4. Media-instellingen (bijlage 1).
 
 ### 2.3.14.3. BPPO
 

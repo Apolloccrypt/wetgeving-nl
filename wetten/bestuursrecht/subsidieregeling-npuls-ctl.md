@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40194623, houdende regels voor subsidieverstrekking in het kader van het programma Npuls ten behoeve van de inrichting en de verdere ontwikkeling van een Center for Teaching and Learning voor de periode 2023 tot en met 2026 (Subsidieregeling Npuls CTL)"
+title: "Subsidieregeling Npuls CTL"
 identifier: "BWBR0048587"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-16"
-last_updated: "2025-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048587"
-soort: "ministeriele-regeling"
-stam_id: "16846683"
-version_id: "29599922"
-internal_id: "C42342741"
-label_id: "16759034"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048587/2025-07-16/0"
-intitule_bron: "Stcrt.2023-24497"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-08-24"
-intitule_published: "2023-08-31"
-intitule_in_force: "2023-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-24497"
-original_signed_date: "2023-08-24"
-original_published_date: "2023-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-24497"
-entry_into_force_date: "2023-09-01"
-jci_1_3: "jci1.3:c:BWBR0048587&z=2025-07-16&g=2025-07-16"
-jci_1_0: "1.0:c:BWBR0048587&g=2025-07-16"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Npuls CTL"
-signed_date: "2023-08-24"
-entry_into_force: "2023-09-01"
+categorie: "Overig"
+publicatiedatum: 2025-07-16
+laatste_update: 2025-07-16
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048587"
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40194623, houdende regels voor subsidieverstrekking in het kader van het programma Npuls ten behoeve van de inrichting en de verdere ontwikkeling van een Center for Teaching and Learning voor de periode 2023 tot en met 2026 (Subsidieregeling Npuls CTL)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -70,11 +44,11 @@ In deze regeling wordt verstaan onder:
 
 - **verordening:** [Verordening (EU) 2021/241](32021R0241) van het Europees Parlement en de Raad van 12 februari 2021 tot instelling van de herstel- en veerkrachtfaciliteit (PbEU 2021, L 057).
 
-##### Artikel 2. Toepasselijke regelgeving
+#### Artikel 2. Toepasselijke regelgeving
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-##### Artikel 3. Subsidieverstrekking
+#### Artikel 3. Subsidieverstrekking
 
 1. De minister kan subsidie verstrekken aan een onderwijsinstelling voor een project waarmee een Center for Teaching and Learning wordt gerealiseerd of verder wordt ontwikkeld.
 
@@ -82,7 +56,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. In afwijking van het tweede lid bedraagt het subsidiebedrag per onderwijsinstelling voor een aanvraag in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-07-16&g=2025-07-16), ten minste € 125.000 en ten hoogste € 500.000.
 
-##### Artikel 4. Ontvankelijkheidscriteria
+#### Artikel 4. Ontvankelijkheidscriteria
 
 1. Een subsidie kan uitsluitend worden verleend aan het bevoegd gezag of het instellingsbestuur van een onderwijsinstelling dan wel diens rechtsvoorganger die nog geen subsidie heeft ontvangen op grond van deze regeling.
 
@@ -90,7 +64,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De eigen bijdrage, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=8&z=2025-07-16&g=2025-07-16), is verplicht en is opgenomen in de begroting op het moment van indiening van de aanvraag.
 
-##### Artikel 5. Aanvraagronde
+#### Artikel 5. Aanvraagronde
 
 1. Op grond van deze regeling kan subsidie worden aangevraagd:
 
@@ -104,7 +78,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Aanvragen die buiten een in het eerste lid genoemde aanvraagperiode worden ingediend, worden afgewezen.
 
-##### Artikel 6. Subsidieplafond
+#### Artikel 6. Subsidieplafond
 
 1. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-07-16&g=2025-07-16), is een bedrag van ten hoogste € 10.000.000 beschikbaar.
 
@@ -114,7 +88,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De minister kan het bedrag dat resteert na toewijzing van alle in aanmerking komende aanvragen in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2025-07-16&g=2025-07-16), toevoegen aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b.
 
-##### Artikel 7. Te subsidiëren activiteiten
+#### Artikel 7. Te subsidiëren activiteiten
 
 1. Subsidiabele activiteiten ten behoeve van de inrichting en verdere ontwikkeling van een Center for Teaching and Learning zijn:
 
@@ -138,7 +112,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. De activiteiten voor het oprichten van een Center for Teaching and Learning moeten binnen een jaar na de startdatum, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=12&z=2025-07-16&g=2025-07-16), zijn afgerond en hebben geleid tot een opgezet Center for Teaching and Learning.
 
-##### Artikel 8. Eigen bijdrage
+#### Artikel 8. Eigen bijdrage
 
 1. De eigen bijdrage bedraagt ten minste 70% van het aangevraagde subsidiebedrag.
 
@@ -146,7 +120,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De verplichte eigen bijdrage, genoemd in het eerste lid, kan bestaan uit een bijdrage in geld, uit een op economische waarde bepaalbare bijdrage die relevant of noodzakelijk is voor de ontwikkeling van het Center for Teaching and Learning waarvoor de subsidie is aangevraagd, of uit een combinatie van deze twee bijdragen.
 
-##### Artikel 9. Aanvraag subsidie
+#### Artikel 9. Aanvraag subsidie
 
 1. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat is bekendgemaakt op de website van DUS-I.
 
@@ -156,7 +130,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. een begroting die voldoet aan de eisen die zijn gesteld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=11&z=2025-07-16&g=2025-07-16).
 
-##### Artikel 10. CTL-plan
+#### Artikel 10. CTL-plan
 
 1. Het CTL-plan, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2025-07-16&g=2025-07-16), bevat de volgende onderdelen:
 
@@ -172,7 +146,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Het CTL-plan wordt aangeleverd in het door DUS-I daarvoor beschikbaar gestelde format.
 
-##### Artikel 11. Begroting
+#### Artikel 11. Begroting
 
 1. De begroting, bedoeld in [artikel 9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2025-07-16&g=2025-07-16), sluit aan op de activiteiten die zijn beschreven in het CTL-plan.
 
@@ -194,7 +168,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 6. De begroting wordt aangeleverd in het door DUS-I daarvoor beschikbaar gestelde format.
 
-##### Artikel 12. Aanvullende verplichtingen
+#### Artikel 12. Aanvullende verplichtingen
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
@@ -214,7 +188,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - 8. De administratie van het project en de daartoe behorende bescheiden worden gedurende tien jaar na de vaststelling van de subsidie bewaard.
 
-##### Artikel 13. Verantwoording
+#### Artikel 13. Verantwoording
 
 1. De verantwoording over de verleende subsidie geschiedt in het jaarverslag overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132), met [model G, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
 
@@ -224,7 +198,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 4. De minister stelt de subsidie vast binnen een jaar na ontvangst van het jaarverslag over het laatste jaar van de projectperiode.
 
-##### Artikel 14. Beoordeling subsidieaanvragen
+#### Artikel 14. Beoordeling subsidieaanvragen
 
 1. De minister stelt een onafhankelijke beoordelingscommissie in die is belast met het beoordelen van de aanvragen.
 
@@ -238,7 +212,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 6. Indien na toewijzing van de hoger gerangschikte aanvragen voor de betreffende ronde twee aanvragen resteren die met een gelijk aantal punten zijn beoordeeld, maar budget resteert dat toereikend is voor een aanvraag, worden deze aanvragen primair beoordeeld op grond van de geografische spreiding en secundair op grond van de onderwijssector. De aanvraag die betrekking heeft op een regio die bij de toegewezen aanvragen het minst is vertegenwoordigd, wordt in dat geval hoger gerangschikt. Indien de twee aanvragen ook na toepassing van dit criterium een gelijke beoordeling hebben, wordt de aanvraag die betrekking heeft op een onderwijssector die bij de toegewezen aanvragen het minst is vertegenwoordigd hoger gerangschikt.
 
-##### Artikel 15. Besluitvorming minister
+#### Artikel 15. Besluitvorming minister
 
 1. De minister beoordeelt de aanvragen met kennisneming van het advies van beoordelingscommissie.
 
@@ -252,17 +226,17 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 6. Indien in een aanvraagronde budget resteert, maar een gerangschikt voorstel niet volledig kan worden gehonoreerd, doet de minister aan de aanvrager het voorstel om met het nog resterende bedrag van het subsidiebudget zijn project in volledige of aangepaste vorm uit te voeren. Indien de betreffende aanvrager niet instemt met dit voorstel wordt de aanvraag afgewezen.
 
-##### Artikel 16. Bevoorschotting en betaling
+#### Artikel 16. Bevoorschotting en betaling
 
 De minister verstrekt een voorschot van 100%, dat in drie gelijke termijnen wordt uitbetaald.
 
-##### Artikel 17. Inwerkingtreding en vervaldatum
+#### Artikel 17. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 september 2023.
 
 2. Deze regeling vervalt met ingang van 1 september 2026, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
 
-##### Artikel 18. Citeertitel
+#### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Npuls CTL.
 
