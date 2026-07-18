@@ -2,8 +2,8 @@
 title: "Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026"
 identifier: "BWBR0052002"
 categorie: "Overig"
-publicatiedatum: 2026-07-14
-laatste_update: 2026-07-15
+publicatiedatum: 2026-07-16
+laatste_update: 2026-07-17
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052002"
 ---
@@ -30,6 +30,7 @@ Besluiten:
 | [Titel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.5): Borgstelling MKB-landbouw- en visserijkredieten | [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.2) | MKB-landbouw- en visserijonderneming | Borgstellingskredieten | 01-01-2026 t/m 31-12-2026 | € 60.000.000 |
 | [Titel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.6). Praktijkontwikkeling van regeneratieve landbouwmethoden | [Artikel 2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.6.2) |   |   | 1-7-2026 t/m 31-8-2026 | € 576.000,– |
 | [Titel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.10) Marktintroductie energie-innovaties | [2.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.10.2) | Glastuinbouwonderneming | Marktintroductie energie-innovaties | 08-09-2026 t/m 24-09-2026 | € 8.500.000 |
+| [Titel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.17): Programma Jong Leren Eten 2027–2028 | [2.17.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.17.2) |   |   | 1 september 2026 t/m 25 september 2026 | Ten hoogste € 200.000 tot € 330.000 voor activiteiten die in dezelfde provincie worden uitgevoerd, afhankelijk van de provincie. |
 | [Titel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.18): Hoogwaardige mestverwerking | [2.18.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.18.2) | Inrichting van een hoogwaardige mestverwerkingsinstallatie |   | 31-08-2026 t/m 12-10-2026 | € 4.500.000 |
 |   | [2.18.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.18.2) | Herinrichting van een hoogwaardige mestverwerkingsinstallatie |   | 31-08-2026 t/m 12-10-2025 | € 4.500.000 |
 | [Titel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.23): Warmte-infrastructuur glastuinbouw | [2.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.23.2) | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | 03-02-2026 t/m 31-03-2026 | € 89.400.000 |

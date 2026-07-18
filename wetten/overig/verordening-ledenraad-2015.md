@@ -1,9 +1,9 @@
 ---
-title: "Verordening ledenraad 2015"
+title: "Verordening ledenraad 2026"
 identifier: "BWBR0036499"
 categorie: "Overig"
-publicatiedatum: 2018-11-22
-laatste_update: 2026-07-16
+publicatiedatum: 2026-07-17
+laatste_update: 2026-07-17
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0036499"
 ---
@@ -120,13 +120,25 @@ Het is van belang dat de leden van de KNB zo snel mogelijk op de hoogte zijn van
 
 ##### Artikel 6
 
-De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van overeenkomstige toepassing op deze verordening
+1. Ledenraadsleden en hun plaatsvervangers zijn verplicht omstandigheden of belangen te melden die mogelijk een conflict met het algemeen of publiek belang kunnen opleveren, of die een afbreukrisico voor het notariaat of de ledenraad kunnen vormen.
+
+2. Een dergelijke melding wordt gedaan aan de voorzitter van de ledenraad of, indien van toepassing, aan de technisch voorzitter zoals bepaald in [artikel 1 lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036499&artikel=1&z=2026-07-17&g=2026-07-17). De voorzitter of technisch voorzitter beoordeelt of tijdelijk terugtreden aangewezen is. Bij twijfel kan overleg worden gevoerd met de secretaris van de ledenraad en/of de vacaturecommissie.
+
+3. Indien de melding afkomstig is van de voorzitter of technisch voorzitter, wordt deze gedaan aan de plaatsvervangend voorzitter, die de procedure zoals onder lid 2 volgt.
+
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036499&artikel=6&z=2026-07-17&g=2026-07-17) borgt de integriteit en transparantie van de ledenraad. Ledenraadsleden en hun plaatsvervangers melden belangen of omstandigheden die mogelijk conflicteren met het algemeen of publiek belang, of het vertrouwen in het notariaat kunnen schaden. De voorzitter of technisch voorzitter beoordeelt of tijdelijk terugtreden nodig is. Meldingen van de voorzitter of technisch voorzitter worden door de plaatsvervangend voorzitter behandeld. Bij twijfel kan de (technisch) voorzitter van de ledenraad overleg voeren met de secretaris van de ledenraad en/of de vacaturecommissie. Zo worden enerzijds de belangen van de betrokkene op grond van privacy beschermd, maar kan gelijktijdig in twijfelgevallen de situatie toch van meerdere kanten belicht worden. Het bepaalde in dit artikel is ook van toepassing op een externe persoon die door de fungerend voorzitter is aangewezen om als technisch voorzitter op te treden ([artikel 1, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036499&artikel=1&z=2026-07-17&g=2026-07-17)).
+
+(Toelichting van 6 mei 2026)
 
 ##### Artikel 7
 
-Deze verordening wordt aangehaald als de Verordening ledenraad 2015.
+De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van overeenkomstige toepassing op deze verordening
 
 ##### Artikel 8
+
+Deze verordening wordt aangehaald als de Verordening ledenraad 2026.
+
+##### Artikel 9
 
 Deze verordening treedt in werking met ingang van 1 maart 2015 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 92 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=92) is verstreken en vervangt de [Verordening ledenraad](https://wetten.overheid.nl/jci1.3:c:BWBR0011168) van 1 oktober 2000.
 

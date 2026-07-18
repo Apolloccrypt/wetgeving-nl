@@ -1,38 +1,13 @@
 ---
 title: "Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022"
 identifier: "BWBR0046568"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-04-19"
-last_updated: "2022-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046568"
-soort: "zbo"
-stam_id: "16330093"
-version_id: "28552592"
-internal_id: "C40291781"
-label_id: "16254954"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046568/2022-04-19/0"
-intitule_bron: "Stcrt.2022-10536"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-08"
-intitule_published: "2022-04-19"
-intitule_in_force: "2022-04-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-10536"
-original_signed_date: "2022-04-08"
-original_published_date: "2022-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-10536"
-entry_into_force_date: "2022-04-19"
-jci_1_3: "jci1.3:c:BWBR0046568&z=2022-04-19&g=2022-04-19"
-jci_1_0: "1.0:c:BWBR0046568&g=2022-04-19"
-citeertitel_status: "officieel"
-signed_date: "2022-04-08"
-entry_into_force: "2022-04-19"
+categorie: "Verkeer"
+publicatiedatum: 2022-04-19
+laatste_update: 2022-04-19
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046568"
 ---
+
 # Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022
 
 Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022
@@ -41,7 +16,7 @@ De Dienst Wegverkeer is op basis van de [Wegenverkeerswet 1994](onbekend) en het
 
 ### Hoofdstuk 1. Algemeen deel van toepassing op alle categorieën van ontvangers
 
-##### Artikel 1. Begrippen
+#### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -75,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 - **WVW:** de [Wegenverkeerswet 1994](onbekend).
 
-##### Artikel 2. Werkingssfeer
+#### Artikel 2. Werkingssfeer
 
 Deze bepalingen zijn van toepassing op de aanvragers en ontvangers van gegevens uit het register. De bepalingen zijn aanvullend op en ter uitwerking van de regels voor de aanvraag en het gebruik van gegevens in de [WVW](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045) en de aanwijzingsbeschikkingen van de minister.
 
-##### Artikel 3. Algemene verstrekkingsvoorwaarden
+#### Artikel 3. Algemene verstrekkingsvoorwaarden
 
 Ongeacht de wijze van levering behoudt de RDW zich het recht voor om:
 
@@ -89,7 +64,7 @@ Ongeacht de wijze van levering behoudt de RDW zich het recht voor om:
 
 - c. aansluitkosten, waaronder ook ontwikkelkosten van software en quick services, bij offerte in rekening te brengen.
 
-##### Artikel 4. Aanvullende voorwaarden voor online – verbindingen
+#### Artikel 4. Aanvullende voorwaarden voor online – verbindingen
 
 Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
@@ -103,7 +78,7 @@ Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
 - e. Ter beveiliging van digitale gegevensstromen naar externe relaties hanteert de RDW digitale cliëntcertificaten en digitale servicecertificaten. Hierbij zijn de aanvullende eisen vermeld in de Bijlage van deze Verstrekkingsvoorwaarden van toepassing.
 
-##### Artikel 5. Laten uitvoeren van taken door derden (uitbesteding, knooppunten, cloud, etc.)
+#### Artikel 5. Laten uitvoeren van taken door derden (uitbesteding, knooppunten, cloud, etc.)
 
 - a. De ontvanger blijft onverkort verantwoordelijk voor alle handelingen die een derde in zijn opdracht uitvoert richting de RDW en/of met van RDW verkregen gevoelige gegevens.
 
@@ -127,7 +102,7 @@ Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
 - k. De RDW kan indien gewenst op technisch niveau een aansluiting met een door ontvanger(s) aangewezen derde regelen.
 
-##### Artikel 6. Toezicht
+#### Artikel 6. Toezicht
 
 - a. De RDW houdt zelfstandig en actief toezicht op het gebruik van gevoelige gegevens uit het register en op de naleving van de relevante vereisten uit wet- en regelgeving en deze voorwaarden;
 
@@ -143,21 +118,21 @@ Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
 - g. Binnen de categorieën informatieproviders en overige belanghebbenden, niet zijnde overheidsorganen, kan de RDW met het oog op correct gebruik van de gevoelige gegevens een jaarlijkse accountants- of EDP- verklaring verlangen.
 
-##### Artikel 7. Aansprakelijkheid
+#### Artikel 7. Aansprakelijkheid
 
 De aanvrager en/of ontvanger van de gegevens uit het kentekenregister is aansprakelijk voor alle hem toe te rekenen handelingen die in strijd zijn met doel en strekking van deze voorwaarden, waarbij hetgeen is bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) van deze voorwaarden onverkort van toepassing is. Bij digitale verstrekkingen is de ontvanger in ieder geval aansprakelijk voor alle handelingen vanaf het moment dat hij de informatie uit het register van de RDW heeft ontvangen.
 
-##### Artikel 8. Intellectuele eigendom
+#### Artikel 8. Intellectuele eigendom
 
 De RDW is rechthebbende op alle intellectuele eigendomsrechten met betrekking tot zijn eigen ontwikkelde en ontworpen producten en software. Inbreuk op deze intellectuele eigendomsrechten is niet toegestaan.
 
-##### Artikel 9. Toepasselijk recht
+#### Artikel 9. Toepasselijk recht
 
 Op basis van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=2&z=2022-04-19&g=2022-04-19) van deze voorwaarden genoemde wet- en regelgeving en deze voorwaarden tot stand gekomen verstrekkingen is het Nederlandse recht onverminderd van toepassing.
 
 ### Hoofdstuk 2. Voorwaarden specifiek geldend voor overheidsorganen
 
-##### Artikel 10
+#### Artikel 10
 
 Voor overheidsorganen zijn naast de voorwaarden genoemd in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&z=2022-04-19&g=2022-04-19) tevens de volgende voorwaarden van toepassing:
 
@@ -167,21 +142,21 @@ Voor overheidsorganen zijn naast de voorwaarden genoemd in [hoofdstuk 1](https:/
 
 - c. Overheidsorganen moeten voldoen aan de BIO en ingeschakelde derden dienen daarom minimaal te beschikken over een actueel ISO 27001 certificaat.
 
-##### Artikel 11. Tergmelden
+#### Artikel 11. Tergmelden
 
 Voor meer informatie over terugmelden bij gerede twijfel over de juistheid van een in het kentekenregister opgenomen authentiek gegeven zie: [www.rdw.nl](onbekend) zoekterm ‘terugmelden’
 
 ### Hoofdstuk 3. Informatieproviders en overige belanghebbenden, niet zijnde overheidsorganen
 
-##### Artikel 12
+#### Artikel 12
 
 Naast de verstrekkingsvoorwaarden genoemd in onderdeel A kunnen voor bepaalde (groepen van) belanghebbenden specifieke voorwaarden van toepassing zijn. Deze specifieke verstrekkingsvoorwaarden zijn aan de betreffende individuele ontvangers bekend gemaakt. De informatieproviders dienen tevens te voldoen aan de op hen van toepassing zijnde ‘Eisen en voorwaarden voor Informatieproviders’ van de RDW.
 
-##### Artikel 13. Tarief
+#### Artikel 13. Tarief
 
 Ongeacht de wijze van levering geldt dat verstrekking van gegevens plaatsvindt tegen betaling van het verschuldigde tarief dat door de RDW is vastgesteld, waarbij de door de RDW vastgestelde aantallen verstrekkingen bepalend zijn.
 
-##### Artikel 14. Voorwaarden bij verstrekking van gevoelige gegevens
+#### Artikel 14. Voorwaarden bij verstrekking van gevoelige gegevens
 
 - a. De verkregen gegevens worden uitsluitend binnen de eigen organisatie van de ontvanger gebruikt en derhalve niet verder doorgeleverd, tenzij van de RDW schriftelijk toestemming is ontvangen voor doorlevering, dan wel dat er een aantoonbare wettelijke verplichting tot doorlevering bestaat.
 
@@ -191,7 +166,7 @@ Ongeacht de wijze van levering geldt dat verstrekking van gegevens plaatsvindt t
 
 - d. De gegevens uit de registers van de RDW kunnen alleen worden verkregen/opgevraagd door personen, die hiervoor expliciet zijn geautoriseerd door de daartoe (hoogst verantwoordelijke) bevoegde persoon binnen de organisatie van de ontvanger. De organisatie wordt door de RDW verantwoordelijk gehouden voor het toezicht op verleende autorisaties en het gebruik van de autorisaties of de gegevens. Zie ook [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) van deze voorwaarden.
 
-##### Artikel 15. Citeertitel
+#### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022.
 
