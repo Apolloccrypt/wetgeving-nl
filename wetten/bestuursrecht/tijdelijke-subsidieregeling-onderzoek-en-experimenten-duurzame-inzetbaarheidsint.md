@@ -1,46 +1,20 @@
 ---
-title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2022, 2022-0000091000, tot vaststelling van een tijdelijke subsidieregeling gericht op het ontwikkelen, uitvoeren en onderzoeken van experimenten en het uitvoeren van wetenschappelijke onderzoek naar effectieve interventies inzake duurzame inzetbaarheid en leven lang ontwikkelen (Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)"
+title: "Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
 identifier: "BWBR0046626"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-02"
-last_updated: "2024-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046626"
-soort: "ministeriele-regeling"
-stam_id: "16347893"
-version_id: "29931292"
-internal_id: "C42898971"
-label_id: "16272714"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046626/2024-07-02/0"
-intitule_bron: "Stcrt.2022-11641"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-21"
-intitule_published: "2022-05-03"
-intitule_in_force: "2022-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-1881"
-original_signed_date: "2024-01-15"
-original_published_date: "2024-01-19"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-1881"
-entry_into_force_date: "2024-01-15"
-jci_1_3: "jci1.3:c:BWBR0046626&z=2024-07-02&g=2024-07-02"
-jci_1_0: "1.0:c:BWBR0046626&g=2024-07-02"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
-signed_date: "2024-01-15"
-entry_into_force: "2024-01-15"
+categorie: "Overig"
+publicatiedatum: 2024-07-02
+laatste_update: 2024-07-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0046626"
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2022, 2022-0000091000, tot vaststelling van een tijdelijke subsidieregeling gericht op het ontwikkelen, uitvoeren en onderzoeken van experimenten en het uitvoeren van wetenschappelijke onderzoek naar effectieve interventies inzake duurzame inzetbaarheid en leven lang ontwikkelen (Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)
 
 Gelet op de [artikelen 3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
 
 Besluit:
 
-##### Artikel 1. Begripsbepalingen
+#### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -88,13 +62,13 @@ Besluit:
 
 2. Voor de toepassing van deze regeling wordt onder werkgeversorganisatie mede verstaan een beroepsorganisatie, zijnde een vereniging met volledige rechtsbevoegdheid van beroepsgenoten, die krachtens haar statuten de belangbehartiging van beroepsgenoten beoogt.
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
+#### Artikel 2. Toepasselijkheid [Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
 
 1. Op het aanvragen en verstrekken van subsidies op grond van deze regeling is de [Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603), met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1), van toepassing.
 
 2. De formulieren, modellen en formats waarnaar in deze regeling wordt verwezen, zijn door de Minister elektronisch beschikbaar gesteld op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl/).
 
-##### Artikel 3. Doel en reikwijdte van de regeling
+#### Artikel 3. Doel en reikwijdte van de regeling
 
 1. Het doel van de regeling is het stimuleren van het ontwikkelen of verder ontwikkelen van uitvoerbare, overdraagbare en gevalideerde praktijk- en wetenschappelijke kennis op het terrein van duurzame inzetbaarheid en leven lang ontwikkelen teneinde de toepassing in bedrijven, sectoren en organisaties te vergroten en zo meer werkenden te bereiken.
 
@@ -108,7 +82,7 @@ Besluit:
 
 - d. het bevorderen van bewustwording bij werkenden en bedrijven of organisaties en van de eigen regie van werkenden op hun loopbaan.
 
-##### Artikel 4. Subsidiabele activiteiten
+#### Artikel 4. Subsidiabele activiteiten
 
 1. De Minister kan op aanvraag subsidie verstrekken voor de volgende activiteiten die passen bij het doel van deze regeling:
 
@@ -120,7 +94,7 @@ Besluit:
 
 3. De activiteiten dragen bij aan het vergroten van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2024-07-02&g=2024-07-02) bedoelde kennis, de werkzaamheid daarvan en het breder toepasbaar maken van die kennis voor andere bedrijven of organisaties en hun werkenden.
 
-##### Artikel 5. Subsidieplafond en maximale hoeveelheid aanvragen
+#### Artikel 5. Subsidieplafond en maximale hoeveelheid aanvragen
 
 1. Het subsidieplafond bedraagt € 21,3 miljoen voor aanvragen in 2024.
 
@@ -130,23 +104,23 @@ Besluit:
 
 4. De mogelijkheid tot het indienen van aanvragen voor subsidie bestaat slechts gedurende door de Minister vastgestelde aanvraagtijdvakken.
 
-##### Artikel 6. Aanvraagtijdvakken
+#### Artikel 6. Aanvraagtijdvakken
 
 1. Het eerste aanvraagtijdvak loopt van 23 mei 2022 9.00 uur tot en met 24 juni 2022 17.00 uur.
 
 2. Het tweede aanvraagtijdvak loopt van 27 mei 2024 9.00 uur tot en met 21 juni 2024 17.00 uur.
 
-##### Artikel 7. Minimaal en maximaal aan te vragen subsidiebedrag
+#### Artikel 7. Minimaal en maximaal aan te vragen subsidiebedrag
 
 Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan te vragen subsidiebedrag bedraagt € 4 miljoen.
 
-##### Artikel 8. Looptijd van de activiteiten
+#### Artikel 8. Looptijd van de activiteiten
 
 1. Activiteiten hebben een looptijd van minimaal een jaar en maximaal vier jaar.
 
 2. Uiterlijk op de dag gelegen drie maanden voor het einde van de voor de subsidieontvanger geldende looptijd, kan de subsidieontvanger de Minister verzoeken de looptijd van zijn activiteiten te verlengen. De Minister bepaalt, bij inwilliging van het verzoek, een nieuwe einddatum.
 
-##### Artikel 9. Subsidieaanvraag
+#### Artikel 9. Subsidieaanvraag
 
 1. Een subsidieaanvraag wordt ingediend door middel van een elektronisch aanvraagformulier ondertekend door een daartoe bevoegd functionaris van de hoofdaanvrager. Onderdeel van de aanvraag is in ieder geval:
 
@@ -168,7 +142,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 4. Door het indienen van een aanvraag stemt de subsidieaanvrager ermee in dat het subsidiedossier, met uitzondering van persoonsgegevens en stukken met betrekking tot het preadvies, openbaar wordt gemaakt.
 
-##### Artikel 10. Behandeling subsidieaanvragen
+#### Artikel 10. Behandeling subsidieaanvragen
 
 1. Het beschikbare subsidiebedrag wordt na beoordeling van de subsidieaanvragen en hun onderlinge afweging verdeeld, waarbij de Minister aan de hand van de criteria, opgenomen in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11&z=2024-07-02&g=2024-07-02), voorrang geeft aan subsidieaanvragen voor activiteiten die naar verwachting meer geschikt zijn om bij te dragen aan de doelstellingen van de regeling.
 
@@ -186,7 +160,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 8. Als een aanvraag krachtens het zesde lid is aangevuld of aangepast, geldt bij de indeling in tranches de datum waarop de aangepaste of volledig aangevulde aanvraag is ontvangen, als de datum van ontvangst.
 
-##### Artikel 11. Beoordeling subsidieaanvragen
+#### Artikel 11. Beoordeling subsidieaanvragen
 
 1. De Minister kent, na advies van het adviespanel, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=12&z=2024-07-02&g=2024-07-02), aan een subsidieaanvraag een hoger aantal punten toe naarmate:
 
@@ -218,7 +192,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 5. De Minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan de aanvraag zijn toegekend.
 
-##### Artikel 12. Adviespanel
+#### Artikel 12. Adviespanel
 
 1. De Minister stelt een adviespanel in dat tot taak heeft de Minister te adviseren over de beoordeling van de aanvragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2024-07-02&g=2024-07-02), en de beoordeling van de verzoeken tot een preadvies, bedoeld in artikel 11a.
 
@@ -228,7 +202,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 - b. verzoeken tot een preadvies op basis van de criteria, bedoeld in artikel 11a, eerste lid.
 
-##### Artikel 13. Samenwerkingsverband
+#### Artikel 13. Samenwerkingsverband
 
 1. Een samenwerkingsverband bestaat in elk geval uit enerzijds een onderzoeksinstelling en anderzijds een of meer werkgeversorganisaties, werknemersorganisaties, O&O-fondsen, brancheorganisaties, bedrijven of organisaties.
 
@@ -254,7 +228,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 6. Betalingen van subsidie en voorschotten daarop aan de hoofdaanvrager gelden als betalingen aan het samenwerkingsverband.
 
-##### Artikel 14. Subsidieverlening
+#### Artikel 14. Subsidieverlening
 
 1. De Minister besluit binnen 22 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=6&z=2024-07-02&g=2024-07-02), op de in dat tijdvak ingediende subsidieaanvragen.
 
@@ -274,7 +248,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 7. De hoofdaanvrager kan na indiening van het eerste en het tweede tussentijdse voortgangsverslag, als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2024-07-02&g=2024-07-02), de Minister verzoeken opnieuw een voorschot van 25% van de toegekende subsidie te verlenen.
 
-##### Artikel 15. Weigeringsgronden
+#### Artikel 15. Weigeringsgronden
 
 De aanvraag tot verlening van subsidie wordt in ieder geval geheel of gedeeltelijk geweigerd, indien naar het oordeel van de Minister:
 
@@ -294,7 +268,7 @@ De aanvraag tot verlening van subsidie wordt in ieder geval geheel of gedeelteli
 
 - h. de subsidieaanvraag als onvoldoende is aangemerkt, als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11&z=2024-07-02&g=2024-07-02).
 
-##### Artikel 16. Subsidiabele kosten
+#### Artikel 16. Subsidiabele kosten
 
 1. Voor de subsidie van activiteiten komen de volgende kosten in aanmerking:
 
@@ -342,7 +316,7 @@ rechtstreeks aan de uitvoering van de activiteit zijn toe te rekenen.
 
 - c. meer dan de helft van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van de organisatie kan benoemen.
 
-##### Artikel 17. Niet subsidiabele kosten
+#### Artikel 17. Niet subsidiabele kosten
 
 Niet voor subsidie komen in aanmerking:
 
@@ -364,7 +338,7 @@ Niet voor subsidie komen in aanmerking:
 
 - i. in rekening gebrachte en betaalde omzetbelasting die door de betreffende organisatie verrekend dan wel teruggevorderd kan worden.
 
-##### Artikel 18. Meewerken aan controle en onderzoek
+#### Artikel 18. Meewerken aan controle en onderzoek
 
 1. De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor:
 
@@ -378,7 +352,7 @@ Niet voor subsidie komen in aanmerking:
 
 2. Een of meer deelnemers van het samenwerkingsverband nemen minimaal één keer per looptijd van de activiteit deel aan dan wel leveren een bijdrage aan een kennisdeelbijeenkomst die wordt georganiseerd door het Ministerie van Sociale Zaken en Werkgelegenheid voor alle subsidieaanvragers.
 
-##### Artikel 19. Administratievoorschriften
+#### Artikel 19. Administratievoorschriften
 
 1. De hoofdaanvrager houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van de activiteit waarvoor subsidie is verleend en de in verband daarmee gedane uitgaven en verworven inkomsten. De volledige administratie is te allen tijde voor controle beschikbaar op een voor de hoofdaanvrager vrij toegankelijke locatie.
 
@@ -390,7 +364,7 @@ Niet voor subsidie komen in aanmerking:
 
 5. De hoofdaanvrager verstrekt desgevraagd inzage in of informatie uit de administratie aan de Minister.
 
-##### Artikel 20. Rapportageverplichting
+#### Artikel 20. Rapportageverplichting
 
 1. De hoofdaanvrager overlegt telkens uiterlijk acht weken na afloop van een jaar een tussentijds voortgangsverslag met de tot dan toe behaalde resultaten en gemaakte kosten aan de Minister onder gebruikmaking van het daartoe door de Minister elektronisch beschikbaar gestelde formulier.
 
@@ -402,7 +376,7 @@ Niet voor subsidie komen in aanmerking:
 
 5. Elk van de partijen in het samenwerkingsverband stelt op verzoek de meest recente jaarrekening beschikbaar, met dien verstande dat deze niet ouder is dan de jaarrekening die betrekking heeft op het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de subsidieaanvraag wordt gedaan, voorzien van een verklaring omtrent de getrouwheid, of een mededeling, inhoudende dat van onjuistheden niet is gebleken, afkomstig van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-##### Artikel 21. Einddeclaratie en subsidievaststelling
+#### Artikel 21. Einddeclaratie en subsidievaststelling
 
 1. De hoofdaanvrager dient binnen 22 weken na afloop van de in de beschikking tot subsidieverlening vastgelegde looptijd door middel van een elektronisch formulier een aanvraag tot vaststelling van de subsidie in bij de Minister.
 
@@ -420,7 +394,7 @@ Niet voor subsidie komen in aanmerking:
 
 8. Het eindproduct wordt door de Minister openbaar gemaakt, met uitzondering van persoonsgegevens.
 
-##### Artikel 22. Intrekking en terugvordering
+#### Artikel 22. Intrekking en terugvordering
 
 1. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) wordt de beschikking tot subsidieverlening geheel ingetrokken indien de subsidie niet is besteed aan de in de beschikking tot subsidieverlening toegekende subsidiabele kosten.
 
@@ -430,19 +404,19 @@ Niet voor subsidie komen in aanmerking:
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot voorschotverlening, bedoeld in [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=14&z=2024-07-02&g=2024-07-02).
 
-##### Artikel 23. Evaluatie van de regeling
+#### Artikel 23. Evaluatie van de regeling
 
 1. De Minister draagt zorg voor de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling.
 
 2. De hoofdaanvrager, of de indiener van een verzoek tot een preadvies, werkt mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor de evaluatie van de doeltreffendheid en de doelmatigheid van deze regeling en de ontwikkeling van het beleid van de Minister. De hoofdaanvrager, of de indiener van een verzoek tot een preadvies, verstrekt in dat kader de daartoe benodigde inlichtingen, onderzoeksbestanden, gegevens en bescheiden.
 
-##### Artikel 24. Inwerkingtreding en vervaldatum
+#### Artikel 24. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juni 2028.
 
 2. In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 mei 2028, van toepassing op de afwikkeling van ingediende verzoeken tot vaststelling van subsidie op grond van deze regeling.
 
-##### Artikel 25. Citeertitel
+#### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies.
 
@@ -458,7 +432,7 @@ Het gaat hierbij in elk geval om:
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-##### Artikel 11a. Preadvies
+#### Artikel 11a. Preadvies
 
 1. Voorafgaand aan de subsidieaanvraag kan een partij als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2024-07-02&g=2024-07-02), die voornemens is deel te nemen aan een samenwerkingsverband namens dat samenwerkingsverband bij de Minister een verzoek tot een preadvies indienen.
 

@@ -1,7 +1,7 @@
 ---
 title: "Wet op het financieel toezicht"
 identifier: "BWBR0020368"
-categorie: "Overig"
+categorie: "Financieel recht"
 publicatiedatum: 2026-05-29
 laatste_update: 2026-06-02
 status: geldig
