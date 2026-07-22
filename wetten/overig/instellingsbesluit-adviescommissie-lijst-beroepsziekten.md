@@ -2,8 +2,8 @@
 title: "Instellingsbesluit Adviescommissie Lijst beroepsziekten"
 identifier: "BWBR0047526"
 categorie: "Overig"
-publicatiedatum: 2022-11-30
-laatste_update: 2022-11-30
+publicatiedatum: 2026-07-16
+laatste_update: 2026-07-21
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0047526"
 ---
@@ -14,19 +14,19 @@ Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commi
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **adviescommissie:** de adviescommissie Lijst beroepsziekten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047526&artikel=2&z=2022-11-30&g=2022-11-30);
+- b. **adviescommissie:** de adviescommissie Lijst beroepsziekten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047526&artikel=2&z=2026-07-16&g=2026-07-16);
 
 - c. **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven;
 
 - d. **Lexces:** het samenwerkingsverband, genoemd in de samenwerkingsovereenkomst Landelijk Expertisecentrum Stoffengerelateerde beroepsziekten (Lexces) van 27 juni 2022, gepubliceerd in Staatscourant 2022, nr. 29239.
 
-#### Artikel 2. Adviescommissie beroepsziekten
+##### Artikel 2. Adviescommissie beroepsziekten
 
 1. Er is een Adviescommissie Lijst beroepsziekten.
 
@@ -40,25 +40,25 @@ In dit besluit wordt verstaan onder:
 
 4. De adviescommissie kan bij de taakuitoefening deskundigen raadplegen.
 
-#### Artikel 3. Leden adviescommissie
+##### Artikel 3. Leden adviescommissie
 
-1. De adviescommissie bestaat uit een voorzitter, een plaatsvervangend voorzitter, maximaal vijf leden en maximaal vijf plaatsvervangend leden.
+1. De adviescommissie bestaat uit maximaal negen leden, waaronder een voorzitter en een plaatsvervangend voorzitter.
 
-2. De voorzitter, de leden en de plaatsvervangend leden van de adviescommissie worden door de minister benoemd telkens voor een termijn van 3 jaar. Zij kunnen worden herbenoemd.
+2. De voorzitter en de leden van de adviescommissie worden door de minister benoemd telkens voor een termijn van 3 jaar. Zij kunnen worden herbenoemd.
 
 3. De leden kiezen uit hun midden een plaatsvervangend voorzitter, die de voorzitter vervangt bij diens afwezigheid.
 
-4. De adviescommissie beslist bij gewone meerderheid van stemmen. Komt de adviescommissie met meerderheid van stemmen tot een advies, dan wordt op verzoek van het desbetreffende lid of plaatsvervangend lid in het advies ook het minderheidsstandpunt weergegeven.
+4. De adviescommissie beslist bij gewone meerderheid van stemmen. Komt de adviescommissie met meerderheid van stemmen tot een advies, dan wordt op verzoek van het desbetreffende lid in het advies ook het minderheidsstandpunt weergegeven.
 
 5. De voorzitter en de plaatsvervangend voorzitter brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
 
-6. Indien in voorkomend geval uit feiten of omstandigheden blijkt dat de voorzitter, de plaatsvervangend voorzitter, een van leden of een van de plaatsvervangend leden zelf direct of indirect betrokkenheid heeft bij een vast te stellen advies, dan zullen zij zich weerhouden van enige bemoeienis ten aanzien van het vast te stellen advies.
+6. Indien in voorkomend geval uit feiten of omstandigheden blijkt dat de voorzitter, de plaatsvervangend voorzitter of een van de leden zelf direct of indirect betrokkenheid heeft bij een vast te stellen advies, dan zullen zij zich weerhouden van enige bemoeienis ten aanzien van het vast te stellen advies.
 
-7. De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangend leden kunnen door de minister worden geschorst en ontslagen.
+7. De voorzitter, de plaatsvervangend voorzitter en de leden kunnen door de minister worden geschorst en ontslagen.
 
-#### Artikel 4. Werkwijze adviescommissie
+##### Artikel 4. Werkwijze adviescommissie
 
-1. De adviescommissie stelt haar werkwijze schriftelijk vast en laat deze publiceren op [www.lexces.nl](onbekend).
+1. De adviescommissie stelt haar werkwijze schriftelijk vast en laat deze publiceren op [www.lexces.nl](http://www.lexces.nl).
 
 2. Het secretariaat van de adviescommissie geschiedt door het Bureau Lexces, onderdeel van het RIVM. De coördinator van het Bureau Lexces is secretaris van de adviescommissie.
 
@@ -66,17 +66,27 @@ In dit besluit wordt verstaan onder:
 
 4. De adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen.
 
-#### Artikel 5. Vergoeding leden adviescommissie
+##### Artikel 5. Vergoeding leden adviescommissie
 
-1. De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangend leden van de adviescommissie wordt een vergoeding toegekend op de voet van [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2). In het benoemingsbesluit worden de vergoedingen vastgelegd.
+1. Leden van de adviescommissie komen, indien zij daar gebruik van wensen te maken, in aanmerking voor een vergoeding per vergadering en reiskostenvergoeding.
 
-2. Het door het RIVM voorgedragen lid en plaatsvervangend lid ontvangen geen vergoeding als bedoeld in het eerste lid.
+2. De vergoeding wordt vastgesteld met inachtneming van het bij of krachtens de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) bepaalde en bedraagt per vergadering voor:
 
-#### Artikel 6. Citeertitel
+- a. een lid: 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn; en
+
+- b. de voorzitter: 130% van de hoogte van de vergoeding per vergadering die aan een lid kan worden toegekend.
+
+3. In afwijking van het eerste lid wordt geen vergoeding toegekend aan leden die:
+
+- a. vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2); of
+
+- b. door het RIVM zijn voorgedragen.
+
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Lijst beroepsziekten.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 29 november 2022.
 

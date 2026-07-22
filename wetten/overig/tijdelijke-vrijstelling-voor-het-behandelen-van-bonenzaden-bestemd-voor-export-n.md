@@ -3,7 +3,7 @@ title: "Tijdelijke vrijstelling voor het behandelen van bonenzaden bestemd voor 
 identifier: "BWBR0052296"
 categorie: "Overig"
 publicatiedatum: 2026-03-23
-laatste_update: 2026-03-23
+laatste_update: 2026-07-21
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052296"
 ---
@@ -16,19 +16,19 @@ Gelet op [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://w
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Tijdelijke vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) en artikel 53 van [Verordening (EG) nr. 1107/2009](32009R1107) wordt verleend het gebruik van Lumiderm VG voor het behandelen van bonenzaden bestemd voor export naar EU lidstaten die vrijstelling verleend hebben voor de uitzaai van me Ltumiderm VG behandelde bonenzaden.
 
-#### Artikel 2
+##### Artikel 2
 
 De vrijstelling is slechts van toepassing indien de gebruiksvoorschriften in de bijlage bij dit besluit worden nageleefd.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking op 23 maart 2026 en vervalt op 21 juli 2026.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Tijdelijke vrijstelling voor het behandelen van bonenzaden bestemd voor export naar EU lidstaten, 2026.
 
