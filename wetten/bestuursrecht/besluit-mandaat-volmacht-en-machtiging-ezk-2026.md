@@ -2,8 +2,8 @@
 title: "Besluit mandaat, volmacht en machtiging EZK 2026"
 identifier: "BWBR0052019"
 categorie: "Overig"
-publicatiedatum: 2026-07-08
-laatste_update: 2026-07-10
+publicatiedatum: 2026-07-15
+laatste_update: 2026-07-22
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052019"
 ---
@@ -396,13 +396,13 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 3. De secretaris-generaal kan voorts aan de plaatsvervangend secretaris-generaal ondermandaat, volmacht en machtiging verlenen voor de aangelegenheden op zijn werkterrein, waaronder voor P&O-aangelegenheden.
 
-4. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerste lid, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=4&z=2026-07-08&g=2026-07-08). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
+4. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerste lid, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=4&z=2026-07-15&g=2026-07-15). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
 
 5. De plaatsvervangend secretaris-generaal kan voor wat betreft de bevoegdheden verband houdend met de rol van CIO ondermandaat, volmacht en machtiging verlenen aan de uitvoerend CIO.
 
 ##### Artikel 14
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=6&z=2026-07-08&g=2026-07-08), en [7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=7&z=2026-07-08&g=2026-07-08), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=6&z=2026-07-15&g=2026-07-15), en [7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=2&artikel=7&z=2026-07-15&g=2026-07-15), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -436,7 +436,7 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=14&z=2026-07-08&g=2026-07-08) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-07-08&g=2026-07-08) wordt gezonden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=14&z=2026-07-15&g=2026-07-15) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-07-15&g=2026-07-15) wordt gezonden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -574,7 +574,7 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de plaa
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
-2. Na inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-07-08&g=2026-07-08) van dit besluit:
+2. Na inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&paragraaf=4&artikel=15&z=2026-07-15&g=2026-07-15) van dit besluit:
 
 - –. het [Besluit ondermandaat, volmacht en machtiging voor het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041818);
 
@@ -610,19 +610,21 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging EZK 20
 
 ### F. Het stafbureau DG
 
-### IV. Het directoraat-generaal Bedrijfsleven en Innovatie (DGBI)
+### IV. Het directoraat-generaal Bedrijfsleven en Innovatie (DG B&I)
 
 ### A. Algemeen
 
-### B. De directie Topsectoren en Industriebeleid (TOP)
+### B. De directie Innovatie- en Industriebeleid (I&I)
 
-### C. De directie Innovatie
+### C. De directie Ondernemingsklimaat (O)
 
-### D. De directie Regio en Ruimte (R&R)
+### D. De directie Ruimte en Regionale Economie (RRE)
 
-### E. De directie Ondernemingsklimaat (O)
+### E. De directie Economische Veiligheid en Weerbaarheid (EVW)
 
-### F. De eenheid Strategie, Analyse en Advies (SAA)
+### F. De Centrale Staf
+
+### G. De eenheid Strategie en Beleidsanalyseteam (BAT)
 
 ### V. Het directoraat-generaal Realisatie Groene Groei (DGRGG)
 
@@ -644,21 +646,19 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging EZK 20
 
 ### XIV. De directie Mens & Organisatie (M&O)
 
-### XV. De programmadirectie Klaar voor de toekomst
-
 Het secretariaat van de Wetenschappelijke Klimaatraad staat onder leiding van een secretaris-directeur.
 
-### XVII. Het Centraal Planbureau (CPB)
+### XVI. Het secretariaat van de Wetenschappelijke Klimaatraad en de Raad voor Energie
 
 ### XVII. Het secretariaat van de Productiviteitsraad
 
-### XVIII. De Dienst ICT Uitvoering (DICTU)
+### XVII. Het secretariaat van de Productiviteitsraad
+
+### XVIII. Het Centraal Planbureau (CPB)
 
 ### XVIII. Het Centraal Planbureau (CPB)
 
 ### XIX. De Dienst ICT Uitvoering (DICTU)
-
-### XX. Het Staatstoezicht op de mijnen (SodM)
 
 Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
@@ -690,17 +690,25 @@ Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige t
 
 ## Bijlage. Organisatie van het Ministerie van Economische Zaken en Klimaat
 
-### XVI. Het secretariaat van de Wetenschappelijke Klimaatraad en de Raad voor Energie
+### XV. De programmadirectie Klaar voor de toekomst
 
 Het secretariaat van de Wetenschappelijke Klimaatraad en de Raad voor Energie staat onder leiding van een secretaris-directeur.
 
-### XXI. De Rijksdienst voor Ondernemend Nederland (RVO)
+### XX. Het Staatstoezicht op de mijnen (SodM)
 
 Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 Het secretariaat van de Productiviteitsraad heeft de volgende kerntaken:
 
+### XXI. De Rijksdienst voor Ondernemend Nederland (RVO)
+
 ### XXII. De Rijksinspectie Digitale Infrastructuur (RDI)
+
+Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+Het secretariaat van de Wetenschappelijke Klimaatraad en de Raad voor Energie staat onder leiding van een secretaris-directeur.
+
+Het secretariaat van de Productiviteitsraad heeft de volgende kerntaken:
 
 ### XXIII. De Dienst Nederlandse Emissieautoriteit (Dienst NEa)
 
