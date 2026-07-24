@@ -2,8 +2,8 @@
 title: "Regeling volksverzekeringen BES"
 identifier: "BWBR0029205"
 categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
+publicatiedatum: 2026-07-22
+laatste_update: 2026-07-23
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0029205"
 ---
@@ -16,7 +16,7 @@ Besluit:
 
 #### § 1. Herleiding gedeelten van kalenderjaren algemene ouderdomsverzekering
 
-#### Artikel 1. Samentelling onverzekerde gedeelten van kalenderjaren
+##### Artikel 1. Samentelling onverzekerde gedeelten van kalenderjaren
 
 1. Gedeelten van kalenderjaren, gedurende welke de pensioengerechtigde na het bereiken van de 15-jarige, doch vóór het bereiken van de 65-jarige leeftijd, niet verzekerd is geweest, worden voor de vaststelling van de korting, bedoeld in [artikel 8, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=8) samengeteld en herleid tot gehele kalenderjaren.
 
@@ -28,41 +28,35 @@ Besluit:
 
 - 2°. een dag, waarop de verzekering een aanvang nam of eindigde, wordt:
 
-- a. voor een gehele dag gerekend, wanneer de betrokkene gedurende die gehele dag ingezetene was;
+  - a. voor een gehele dag gerekend, wanneer de betrokkene gedurende die gehele dag ingezetene was;
 
-- b. verwaarloosd, wanneer de betrokkene gedurende die dag of gedurende een gedeelte van die dag geen ingezetene was.
+  - b. verwaarloosd, wanneer de betrokkene gedurende die dag of gedurende een gedeelte van die dag geen ingezetene was.
 
 4. Een na de in het eerste, tweede en derde lid bedoelde herleiding overblijvend gedeelte van een kalenderjaar blijft verder buiten beschouwing. De eerste zin vindt overeenkomstige toepassing, indien de samentelling minder dan een kalenderjaar oplevert, alsmede indien de betrokkene slechts éénmaal gedurende een voor korting meetellend gedeelte van een kalenderjaar niet verzekerd is geweest.
 
-#### Artikel 2. Samentelling onbetaalde gedeelten van jaarpremies
+##### Artikel 2. Samentelling onbetaalde gedeelten van jaarpremies
 
 Vervallen
 
-#### Artikel 3. Jaarpremie
+##### Artikel 3. Jaarpremie
 
 Vervallen
 
 #### § 2. Beperking kring verzekerden algemene ouderdomsverzekering en algemene weduwen- en wezenverzekering
 
-#### Artikel 4. Beperking kring verzekerden algemene ouderdomsverzekering
+##### Artikel 4. Beperking kring verzekerden algemene ouderdomsverzekering
 
-Niet als verzekerde in de zin van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) wordt aangemerkt:
+Niet als verzekerde in de zin van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) wordt aangemerkt de ambtenaar in Nederlandse pensioengerechtigde overheidsdienst, die naar de openbare lichamen Bonaire, Sint Eustatius of Saba is gedetacheerd.
 
-- a. de Canadese staatsburger, die niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen, verzekerd is krachtens een in Canada geldende wettelijke regeling inzake geldelijke gevolgen van ouderdom en in dienstbetrekking staat tot de I.B.M. World Trade Corporation te Curaçao;
+##### Artikel 5. Beperking kring verzekerden algemene ouderdomsverzekering en algemene weduwen- en wezenverzekering
 
-- b. de ambtenaar in Nederlandse pensioengerechtigde overheidsdienst, die naar de openbare lichamen Bonaire, Sint Eustatius of Saba is gedetacheerd;
-
-- c. de Engelse staatsburger, die niet geacht kan worden binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen, verzekerd is krachtens een in Engeland geldende wettelijke regeling inzake geldelijke gevolgen van ouderdom en in dienstbetrekking staat tot de bankinstelling, handelende onder de naam van Banco Barclays Antiliano N.V.
-
-#### Artikel 5. Beperking kring verzekerden algemene ouderdomsverzekering en algemene weduwen- en wezenverzekering
-
-Niet als verzekerd in de zin van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) en van de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387) worden aangemerkt de werknemers van Saipem S.p.A., die van vreemde nationaliteit zijn, indien hun verblijf in openbare lichamen Bonaire, Sint Eustatius en Saba niet langer dan vier jaren heeft geduurd.
+Vervallen
 
 #### § 3. Slotbepalingen
 
-#### Artikel 6. Overgangsartikel
+##### Artikel 6. Overgangsartikel
 
-In afwijking van de [artikelen 1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029205&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), en [2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029205&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), wordt:
+In afwijking van de [artikelen 1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029205&paragraaf=1&artikel=1&z=2026-07-22&g=2026-07-22), en [2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029205&paragraaf=1&artikel=2&z=2026-07-22&g=2026-07-22), wordt:
 
 - a. voor degene die voor 1 januari 2013 de leeftijd van 60 jaar bereikt, in die artikelen in plaats van ‘65 jaar’ gelezen: 60 jaar;
 
@@ -72,7 +66,7 @@ In afwijking van de [artikelen 1, eerste en tweede lid](https://wetten.overheid.
 
 - d. voor degene die in 2015 de leeftijd van 60 jaar bereikt, in die artikelen in plaats van ‘65 jaar’ gelezen: 64 jaar.
 
-#### Artikel 7. Intrekking ministeriële regelingen
+##### Artikel 7. Intrekking ministeriële regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -88,21 +82,21 @@ De volgende regelingen worden ingetrokken:
 
 - f. Ministeriële regeling AOV/AWW en loonbelasting 1976.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2011.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling volksverzekeringen BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Aanvulling wettelijke grondslag
+##### Artikel 1a. Aanvulling wettelijke grondslag
 
 Deze regeling berust mede op [artikel 8, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=8).
 
-#### § 2. Beperking kring verzekerden algemene ouderdomsverzekering en algemene weduwen- en wezenverzekering
+#### § 2. Beperking kring verzekerden algemene ouderdomsverzekering
 
 #### § 3. Slotbepalingen
 
