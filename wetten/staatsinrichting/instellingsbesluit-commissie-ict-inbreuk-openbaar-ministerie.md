@@ -2,8 +2,8 @@
 title: "Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie"
 identifier: "BWBR0052266"
 categorie: "Overig"
-publicatiedatum: 2026-05-01
-laatste_update: 2026-05-05
+publicatiedatum: 2026-07-22
+laatste_update: 2026-07-24
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052266"
 ---
@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **college:** het College van procureurs-generaal;
 
-- c. **commissie:** de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-05-01&g=2026-05-01);
+- c. **commissie:** de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-07-22&g=2026-07-22);
 
 ##### Artikel 2. Instelling en taak
 
@@ -88,7 +88,7 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 2. De commissie is bevoegd om zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken om alle medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-3. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft, daarbij het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=7&z=2026-05-01&g=2026-05-01) bedoelde protocol in acht nemend.
+3. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft, daarbij het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=7&z=2026-07-22&g=2026-07-22) bedoelde protocol in acht nemend.
 
 4. Ambtenaren van het Ministerie van Justitie en Veiligheid en het openbaar ministerie zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak en dit zonder schending van hun ambtsgeheim kan geschieden.
 
@@ -126,7 +126,7 @@ De commissie brengt haar eindrapport uit aan de minister en het college.
 
 ##### Artikel 12. Inwerkingtreding en verval
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 december 2025 en vervalt op 1 juli 2026.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 december 2025 en vervalt op 1 oktober 2026.
 
 ##### Artikel 13. Citeertitel
 

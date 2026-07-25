@@ -2,8 +2,8 @@
 title: "Subsidieregeling extensivering melkveehouderij"
 identifier: "BWBR0052578"
 categorie: "Overig"
-publicatiedatum: 2026-04-29
-laatste_update: 2026-04-30
+publicatiedatum: 2026-07-23
+laatste_update: 2026-07-24
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052578"
 ---
@@ -24,7 +24,7 @@ Besluit:
 
 - **grasland:** het voor het op of in de bodem brengen van dierlijke meststoffen beschikbare deel van de tot de melkveehouderij behorende oppervlakte landbouwgrond dat gedurende de periode van 15 mei tot en met 15 september van een kalenderjaar onafgebroken beteeld is met gras bestemd om te worden gebruikt als ruwvoer;
 
-- **GVE:** grootvee-eenheid, zoals opgenomen in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&bijlage=1&z=2026-04-29&g=2026-04-29);
+- **GVE:** grootvee-eenheid, zoals opgenomen in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&bijlage=1&z=2026-07-23&g=2026-07-23);
 
 - **melk- en kalfkoeien:** koeien (bos taurus) die ten minste éénmaal hebben gekalfd en die worden gehouden voor de productie van melk voor menselijke consumptie of verwerking of voor de fokkerij van runderen voor de melkveehouderij, ook als ze drooggezet zijn om een kalf te krijgen, of worden vetgemest en in de mesttijd worden gemolken;
 
@@ -46,7 +46,7 @@ De minister kan op aanvraag aan een melkveehouder subsidie verstrekken voor het 
 
 ##### Artikel 4. Vereisten
 
-1. Er is sprake van een extensiveringsmaatregel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=3&z=2026-04-29&g=2026-04-29), indien een vermindering plaatsvindt van het aantal melk- en kalfkoeien dat gemiddeld per jaar wordt gehouden op de melkveehouderij en de melkveehouder overeenkomstig [artikel 31, eerste lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=31) een kennisgeving heeft gedaan van het vervallen van het deel van diens fosfaatrecht dat overeenkomt met het fosfaatrecht dat is vereist voor het aantal melk- en kalfkoeien dat gemiddeld per jaar minder wordt gehouden.
+1. Er is sprake van een extensiveringsmaatregel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=3&z=2026-07-23&g=2026-07-23), indien een vermindering plaatsvindt van het aantal melk- en kalfkoeien dat gemiddeld per jaar wordt gehouden op de melkveehouderij en de melkveehouder overeenkomstig [artikel 31, eerste lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=31) een kennisgeving heeft gedaan van het vervallen van het deel van diens fosfaatrecht dat overeenkomt met het fosfaatrecht dat is vereist voor het aantal melk- en kalfkoeien dat gemiddeld per jaar minder wordt gehouden.
 
 2. De in het eerste lid genoemde vermindering bedraagt ten minste 10 procent en ten hoogste 20 procent ten opzichte van het referentieaantal, bedoeld in het derde en vierde lid.
 
@@ -66,11 +66,11 @@ De minister kan op aanvraag aan een melkveehouder subsidie verstrekken voor het 
 
 ##### Artikel 6. Bijdrage vermindering melk- en kalfkoeien
 
-De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=5&z=2026-04-29&g=2026-04-29), genoemde bijdrage wordt bepaald aan de hand van de vermindering van het aantal melk- en kalfkoeien, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29), en een bijdrage voor netto inkomensderving per koe per jaar van € 1.606.
+De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=5&z=2026-07-23&g=2026-07-23), genoemde bijdrage wordt bepaald aan de hand van de vermindering van het aantal melk- en kalfkoeien, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23), en een bijdrage voor netto inkomensderving per koe per jaar van € 1.606.
 
 ##### Artikel 7. Bijdrage vervallen fosfaatrecht
 
-De in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=5&z=2026-04-29&g=2026-04-29), genoemde bijdrage wordt bepaald aan de hand van het deel van het fosfaatrecht dat vervalt en de verkoopwaarde van een fosfaatrecht, benodigd voor een kilogram fosfaat, van € 110.
+De in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=5&z=2026-07-23&g=2026-07-23), genoemde bijdrage wordt bepaald aan de hand van het deel van het fosfaatrecht dat vervalt en de verkoopwaarde van een fosfaatrecht, benodigd voor een kilogram fosfaat, van € 110.
 
 ##### Artikel 8. Afwijzingsgronden
 
@@ -82,7 +82,7 @@ De minister beslist afwijzend op een aanvraag voor subsidieverlening indien:
 
 ##### Artikel 9. Openstellingsperiode en subsidieplafond
 
-1. Aanvragen voor subsidie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=3&z=2026-04-29&g=2026-04-29) kunnen worden ingediend in de periode van maandag 1 juni 2026 9:00 uur tot en met woensdag 29 juli 2026 17:00 uur.
+1. Aanvragen voor subsidie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=3&z=2026-07-23&g=2026-07-23) kunnen worden ingediend in de periode van maandag 1 juni 2026 9:00 uur tot en met woensdag 27 januari 2027 17:00 uur.
 
 2. Het subsidieplafond voor de verstrekking van subsidies op aanvragen die zijn ingediend in de in het eerste lid bedoelde periode, bedraagt € 615.700.000.
 
@@ -98,9 +98,9 @@ De minister beslist afwijzend op een aanvraag voor subsidieverlening indien:
 
 - c. het aantal melk- en kalfkoeien, dat door de melkveehouderij is gehouden op 1 april 2026;
 
-- d. het aantal melk- en kalfkoeien dat gemiddeld per jaar zal worden gehouden na de vermindering bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29);
+- d. het aantal melk- en kalfkoeien dat gemiddeld per jaar zal worden gehouden na de vermindering bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23);
 
-- e. het aantal melk- en kalfkoeien dat na de subsidieverlening wordt afgevoerd van de melkveehouderij, zodat kan worden voldaan aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=12&z=2026-04-29&g=2026-04-29), bedoelde verplichting;
+- e. het aantal melk- en kalfkoeien dat na de subsidieverlening wordt afgevoerd van de melkveehouderij, zodat kan worden voldaan aan de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=12&z=2026-07-23&g=2026-07-23), bedoelde verplichting;
 
 - f. gegevens over het fosfaatrecht vereist voor de gemiddelde productie van dierlijke meststoffen op de melkveehouderij per melk- en kalfkoe in 2025;
 
@@ -110,31 +110,31 @@ De minister beslist afwijzend op een aanvraag voor subsidieverlening indien:
 
 ##### Artikel 11. Verdeling subsidieplafond
 
-De minister verdeelt het subsidieplafond, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=9&z=2026-04-29&g=2026-04-29), op volgorde van binnenkomst van de aanvragen.
+De minister verdeelt het subsidieplafond, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=9&z=2026-07-23&g=2026-07-23), op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 12. Verplichtingen van de subsidieontvanger
 
-1. De subsidieontvanger doet de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29), binnen vier weken na de subsidieverlening.
+1. De subsidieontvanger doet de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23), binnen vier weken na de subsidieverlening.
 
-2. De subsidieontvanger zorgt ervoor dat binnen vier weken na de subsidieverlening een zodanig aantal melk- en kalfkoeien wordt afgevoerd, als nodig is om uit te komen op het aantal melk- en kalfkoeien, bedoeld in [artikel 10, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=10&z=2026-04-29&g=2026-04-29).
+2. De subsidieontvanger zorgt ervoor dat binnen vier weken na de subsidieverlening een zodanig aantal melk- en kalfkoeien wordt afgevoerd, als nodig is om uit te komen op het aantal melk- en kalfkoeien, bedoeld in [artikel 10, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=10&z=2026-07-23&g=2026-07-23).
 
-3. De subsidieontvanger handhaaft de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29), genoemde vermindering van het gemiddeld aantal gehouden melk- en kalfkoeien per jaar gedurende drie jaar, waarbij de periode van drie jaar aanvangt op het moment van de kennisgeving, bedoeld in artikel 4, eerste lid.
+3. De subsidieontvanger handhaaft de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23), genoemde vermindering van het gemiddeld aantal gehouden melk- en kalfkoeien per jaar gedurende drie jaar, waarbij de periode van drie jaar aanvangt op het moment van de kennisgeving, bedoeld in artikel 4, eerste lid.
 
-4. De subsidieontvanger zorgt ervoor dat het gemiddeld aantal in de melkveehouderij gehouden graasdieren, anders dan melk- en kalfkoeien, omgerekend naar GVE, vanaf het moment van het doen van de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29), gedurende drie jaar niet toeneemt ten opzichte van het gemiddeld aantal in het jaar 2025 door de melkveehouderij gehouden graasdieren, anders dan melk- en kalfkoeien, omgerekend naar GVE.
+4. De subsidieontvanger zorgt ervoor dat het gemiddeld aantal in de melkveehouderij gehouden graasdieren, anders dan melk- en kalfkoeien, omgerekend naar GVE, vanaf het moment van het doen van de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23), gedurende drie jaar niet toeneemt ten opzichte van het gemiddeld aantal in het jaar 2025 door de melkveehouderij gehouden graasdieren, anders dan melk- en kalfkoeien, omgerekend naar GVE.
 
-5. De subsidieontvanger zorgt ervoor dat de oppervlakte grasland van de melkveehouderij vanaf het moment van de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29), gedurende drie jaar niet minder is dan de oppervlakte grasland in het jaar 2025.
+5. De subsidieontvanger zorgt ervoor dat de oppervlakte grasland van de melkveehouderij vanaf het moment van de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23), gedurende drie jaar niet minder is dan de oppervlakte grasland in het jaar 2025.
 
 6. De subsidieontvanger verstrekt op verzoek van de minister nadere informatie om aan te tonen dat is voldaan aan het vierde lid.
 
 ##### Artikel 13. Voorschot subsidie
 
-1. De minister verstrekt de subsidieontvanger uiterlijk acht weken na het doen van de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-04-29&g=2026-04-29), een voorschot van 30% van het subsidiebedrag.
+1. De minister verstrekt de subsidieontvanger uiterlijk acht weken na het doen van de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=4&z=2026-07-23&g=2026-07-23), een voorschot van 30% van het subsidiebedrag.
 
-2. In de jaren 2027 en 2028 verstrekt de minister uiterlijk 1 november voorschotten van 30% van het subsidiebedrag.
+2. In het tweede en derde jaar van de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=12&z=2026-07-23&g=2026-07-23), bepaalde periode van drie jaar, verstrekt de minister uiterlijk 1 november voorschotten van 30% van het subsidiebedrag.
 
 ##### Artikel 14. Subsidievaststelling
 
-De subsidie wordt ambtshalve vastgesteld uiterlijk 16 weken na afloop van de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=12&z=2026-04-29&g=2026-04-29), bepaalde termijn van drie jaar.
+De subsidie wordt ambtshalve vastgesteld uiterlijk 16 weken na afloop van de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=12&z=2026-07-23&g=2026-07-23), bepaalde termijn van drie jaar.
 
 ##### Artikel 15. Gegevensgebruik
 
@@ -144,7 +144,7 @@ De subsidie wordt ambtshalve vastgesteld uiterlijk 16 weken na afloop van de in 
 
 ##### Artikel 16. Staatssteun
 
-1. De subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=3&z=2026-04-29&g=2026-04-29), bevat staatssteun.
+1. De subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=3&z=2026-07-23&g=2026-07-23), bevat staatssteun.
 
 2. De minister maakt, gelet op de Richtsnoeren voor staatssteun in de landbouw- en de bosbouwsector en in plattelandsgebieden (2022/C 485/01), na de datum van de subsidievaststelling de volgende gegevens over de subsidieverstrekking bekend:
 
@@ -186,7 +186,7 @@ De subsidie wordt ambtshalve vastgesteld uiterlijk 16 weken na afloop van de in 
 
 Deze regeling wordt aangehaald als: Subsidieregeling extensivering melkveehouderij.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=1&z=2026-04-29&g=2026-04-29) van de Subsidieregeling extensivering melkveehouderij voor graasdieren, anders dan melk- en kalfkoeien
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052578&artikel=1&z=2026-07-23&g=2026-07-23) van de Subsidieregeling extensivering melkveehouderij voor graasdieren, anders dan melk- en kalfkoeien
 
 | Soort | Leeftijd categorie | GVE |
 | --- | --- | --- |
