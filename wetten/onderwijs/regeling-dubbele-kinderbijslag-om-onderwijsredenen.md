@@ -1,58 +1,32 @@
 ---
-title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 november 2014, 2014-0000166464, tot aanwijzing van beroepsopleidingen en scholen en vaststelling van de afstand tussen deze en het woonadres van de verzekerde als bedoeld in de Algemene Kinderbijslagwet (Regeling dubbele kinderbijslag om onderwijsredenen)"
+title: "Regeling dubbele kinderbijslag om onderwijsredenen"
 identifier: "BWBR0035797"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-15"
-last_updated: "2025-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0035797"
-soort: "ministeriele-regeling"
-stam_id: "12852723"
-version_id: "24855432"
-internal_id: "C35563121"
-label_id: "12822264"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0035797/2025-07-15/0"
-intitule_bron: "Stcrt.2014-33284"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2014-11-17"
-intitule_published: "2014-11-25"
-intitule_in_force: "2014-11-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-3892"
-original_signed_date: "2018-01-18"
-original_published_date: "2018-01-26"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-3892"
-entry_into_force_date: "2018-01-18"
-jci_1_3: "jci1.3:c:BWBR0035797&z=2025-07-15&g=2025-07-15"
-jci_1_0: "1.0:c:BWBR0035797&g=2025-07-15"
-citeertitel_status: "officieel"
-short_title: "Regeling dubbele kinderbijslag om onderwijsredenen"
-signed_date: "2018-01-18"
-entry_into_force: "2018-01-18"
+categorie: "Onderwijs"
+publicatiedatum: 2025-07-15
+laatste_update: 2025-07-15
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0035797"
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 november 2014, 2014-0000166464, tot aanwijzing van beroepsopleidingen en scholen en vaststelling van de afstand tussen deze en het woonadres van de verzekerde als bedoeld in de Algemene Kinderbijslagwet (Regeling dubbele kinderbijslag om onderwijsredenen)
 
 Gelet op [artikel 7, zesde lid, onderdeel b, onder 1°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7);
 
 Besluit:
 
-##### Artikel 1
+#### Artikel 1
 
 Als beroepsopleiding of school als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1° of 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt aangewezen een beroepsopleiding of school die is opgenomen in de bij deze regeling behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035797&bijlage=A&z=2025-07-15&g=2025-07-15).
 
-##### Artikel 2
+#### Artikel 2
 
 De afstand, bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1° of 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), bedraagt 25 kilometer.
 
-##### Artikel 3
+#### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-##### Artikel 4
+#### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling dubbele kinderbijslag om onderwijsredenen.
 
@@ -4119,7 +4093,7 @@ Deze regeling wordt aangehaald als: Regeling dubbele kinderbijslag om onderwijsr
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-##### Artikel 2a
+#### Artikel 2a
 
 Deze regeling berust mede op [artikel 7, zesde lid, onderdeel b, onder 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7).
 
