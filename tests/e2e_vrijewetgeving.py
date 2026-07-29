@@ -128,6 +128,26 @@ def run(page_factory):
     check("wet: mobiele inhoudsopgave ingeklapt", open_attr is None)
     page.close()
 
+    # ---------- CITEERTITEL ----------
+    # Mensen zoeken op "Grondwet" of "Awb", niet op "Wet van 21 april 1994,
+    # houdende vervanging van de Wegenverkeerswet". Zonder citeertitel in de
+    # index is zo'n wet alleen via de volledige tekst te vinden.
+    page = page_factory()
+    page.goto(BASE + "/index.html", wait_until="networkidle")
+    page.wait_for_timeout(400)
+    met_citeertitel = page.evaluate("() => alleWetten.filter(w => w.citeertitel).length")
+    check("citeertitel: index draagt citeertitels", met_citeertitel > 0, f"{met_citeertitel} wetten")
+    if met_citeertitel:
+        proef = page.evaluate("() => alleWetten.find(w => w.citeertitel).citeertitel")
+        page.fill("#zoek-mini", proef)
+        page.wait_for_timeout(400)
+        eerste = page.eval_on_selector(".wet-kaart .wet-titel", "e => e.textContent") if page.query_selector(".wet-kaart .wet-titel") else ""
+        check("citeertitel: zoeken op citeertitel zet de wet bovenaan",
+              eerste.strip().lower() == proef.strip().lower(), f"'{proef}' -> '{eerste[:40]}'")
+        check("citeertitel: officiele titel blijft zichtbaar",
+              page.eval_on_selector_all(".wet-officieel", "e=>e.length") > 0)
+    page.close()
+
     # ---------- GELDIGHEID: vervallen regelingen ----------
     # Een mirror die ingetrokken recht als geldend toont is erger dan een
     # mirror met een gat. Deze toetsen bewaken dat onderscheid.

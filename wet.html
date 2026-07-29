@@ -192,7 +192,8 @@ function toonWet(wet, mdTekst, verwijzingen, index){
         ${wet.status ? `<span class="badge ${vervallen ? 'badge-vervallen' : 'badge-status'}">${esc(wet.status)}</span>` : ''}
         ${datum ? `<span class="badge">bijgewerkt ${esc(leesbareDatum(datum))}</span>` : ''}
       </div>
-      <h1>${esc(wet.titel)}</h1>
+      <h1>${esc(wet.citeertitel || wet.titel)}</h1>
+      ${wet.citeertitel ? `<p class="wet-officiele-titel">${esc(wet.titel)}</p>` : ''}
       ${vervallen ? `<div class="disclaimer disclaimer-waarschuwing"><strong>Deze regeling geldt niet meer.</strong>
         Ze staat hier omdat oudere zaken er nog onder vallen. Kijk voor het geldende recht op
         <a href="${officieel}" target="_blank" rel="noopener">wetten.overheid.nl</a>.</div>` : ''}

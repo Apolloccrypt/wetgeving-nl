@@ -246,12 +246,15 @@ async function laadZoekindex(){
       'aan bij om door of ook naar uit tot is zijn was bedoeld artikel lid wordt worden ' +
       'over onder ten ter dan wel niet geen').split(' '));
     mini = new MiniSearch({
-      fields: ['titel','body'], idField: 'id',
+      // citeertitel weegt het zwaarst: wie 'Awb' typt zoekt de Algemene wet
+      // bestuursrecht, niet elke wet die de afkorting ergens noemt
+      fields: ['citeertitel','titel','body'], idField: 'id',
       processTerm: term => { const t = vouw(term); return STOPW.has(t) ? null : t; },
-      searchOptions: { boost: {titel: 3}, prefix: true, fuzzy: 0.2, combineWith: 'AND' }
+      searchOptions: { boost: {citeertitel: 6, titel: 3}, prefix: true, fuzzy: 0.2, combineWith: 'AND' }
     });
     const docs = alleWetten.map((w, pos) => ({
-      id: pos, titel: w.titel || '', body: (zoekData[pos] && zoekData[pos].b) || ''
+      id: pos, titel: w.titel || '', citeertitel: w.citeertitel || '',
+      body: (zoekData[pos] && zoekData[pos].b) || ''
     }));
     await mini.addAllAsync(docs, { chunkSize: 500 });
     zoekKlaar = true; window.__zoekKlaar = true;
@@ -383,16 +386,23 @@ function filterEnToon(){
     volledigeTekst = false;
     const qf = vouw(q);
     gefilterd = alleWetten.filter(w => matchtFilter(w) &&
-      (!qf || vouw(w.titel).includes(qf) || vouw(w.identifier).includes(qf)));
-    if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
-    else gefilterd.sort((a,b)=>(a.titel||'').localeCompare(b.titel||'','nl'));
+      (!qf || vouw(w.titel).includes(qf) || vouw(w.identifier).includes(qf)
+           || (w.citeertitel && vouw(w.citeertitel).includes(qf))));
+    // Wie 'Awb' of 'Grondwet' typt bedoelt die ene wet. Een citeertitel die
+    // met de zoekterm begint gaat daarom voorop, binnen de gekozen sortering.
+    const voorrang = w => qf && vouw(w.citeertitel||'').startsWith(qf) ? 0 : 1;
+    const daarna = actieveSort==='nieuw'
+      ? (a,b) => (b.datum||'').localeCompare(a.datum||'')
+      : (a,b) => (a.titel||'').localeCompare(b.titel||'','nl');
+    gefilterd.sort((a,b) => (voorrang(a) - voorrang(b)) || daarna(a,b));
   }
   render();
 }
 
 function kaartHTML(w){
   return `<a class="wet-kaart" href="wet.html?id=${encodeURIComponent(w.identifier)}">
-    <div class="wet-titel">${esc(w.titel)}</div>
+    <div class="wet-titel">${esc(w.citeertitel || w.titel)}</div>
+    ${w.citeertitel ? `<div class="wet-officieel">${esc(w.titel)}</div>` : ''}
     <div class="wet-sub">
       <span>${esc(w.identifier)}</span>
       ${w.type ? `<span class="wet-cat">${esc(w.type)}</span>` : ''}
