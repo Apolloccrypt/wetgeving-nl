@@ -59,17 +59,25 @@ wetgeving-nl/
 ├── proposals/                     # Community wetsvoorstellen
 │   └── templates/
 ├── scripts/
-│   ├── cleanup_legalize.py        # Hoofdconverter BWB naar Markdown
+│   ├── bwb_bron.py                # De officiele bron: regelinglijst, manifest, wettekst
+│   ├── bwb_markdown.py            # Converter BWB-toestand-XML naar Markdown
+│   ├── dekking.py                 # Meet de site tegen de officiele BWB-lijst
+│   ├── vul_aan.py                 # Vult ontbrekende regelingen aan en ververst
+│   ├── cleanup_legalize.py        # Converter voor de oude legalize-nl-set
 │   ├── dagelijkse_update.py       # Dagelijkse BWB-sync
 │   ├── genereer_index.py          # Genereert index.json en zoekindex.json
 │   ├── koppel_kamerstukken.py     # Koppelt Kamerstukken aan wetten
 │   └── hercategoriseer.py         # Verbetert categorisering
+├── tests/
+│   ├── test_pijplijn.py           # Toetsen op converter, index en dekking
+│   └── e2e_vrijewetgeving.py      # Playwright-regressiesuite op de site
 ├── .github/
 │   └── workflows/
 │       └── update-wetten.yml
 ├── index.html                     # Web-interface (vrijewetgeving.nl)
 ├── index.json                     # Metadata index (5MB)
 ├── zoekindex.json                 # Volledige tekst zoekindex (8MB)
+├── dekking.json                   # Wat er nog ontbreekt t.o.v. de officiele lijst
 ├── CNAME                          # Domeinkoppeling
 ├── README.md
 ├── CONTRIBUTING.md
@@ -156,6 +164,25 @@ Ga naar [Discussions](../../discussions).
 Alle officiele wetten komen van het **Basis Wetten Bestand (BWB)** via
 [data.overheid.nl](https://data.overheid.nl/dataset/basis-wetten-bestand).
 De data is eigendom van de Nederlandse overheid en valt onder de CC0 licentie.
+
+Concreet lopen er drie routes naar die bron, alledrie in `scripts/bwb_bron.py`:
+
+| Wat | Waar |
+| --- | --- |
+| lijst van alle regelingen | SRU-zoekservice, `zoekservice.overheid.nl/sru/Search` met `x-connection=BWB` |
+| toestand van een regeling | `repository.officiele-overheidspublicaties.nl/bwb/<id>/` (het manifest) |
+| de wettekst | het XML-pad dat dat manifest noemt |
+
+Twee oudere routes (`BWBIDLIST.zip` en `<id>/xml/<id>_xml.zip`) antwoorden met
+HTTP 204 en een lege body. Ze worden niet meer gebruikt; `tests/test_pijplijn.py`
+houdt in de gaten dat een leeg antwoord nooit weer als geslaagd telt.
+
+### Hoe compleet is dit?
+
+`dekking.json` zegt het, elke dag opnieuw gemeten: hoeveel regelingen het BWB
+vandaag als geldend kent, hoeveel daarvan hier staan, en welke identifiers nog
+ontbreken. Het percentage staat ook op de homepage. Een spiegel die niet zegt
+wat hij mist, laat de lezer denken dat hij alles heeft.
 
 De community-bijdragen in `proposals/` vallen onder CC BY-SA 4.0.
 De scripts vallen onder de MIT licentie.
