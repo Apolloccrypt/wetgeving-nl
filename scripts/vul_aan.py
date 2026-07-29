@@ -148,13 +148,15 @@ def main() -> int:
     dekkingspad = Path(args.dekking)
     if dekkingspad.exists():
         dekking = json.loads(dekkingspad.read_text(encoding="utf-8"))
-    elif args.ontbrekend or args.status:
+    elif args.ontbrekend is not None or args.status:
         log.error("%s ontbreekt — draai eerst scripts/dekking.py", dekkingspad)
         return 1
 
     totaal = 0
 
-    if args.ontbrekend:
+    # Let op: 0 is een geldige opdracht ("doe deze stap niet"), geen ontbrekende
+    # opdracht. Vandaar overal 'is not None' en niet de waarheidswaarde.
+    if args.ontbrekend is not None:
         ids = [w["id"] for w in dekking.get("ontbrekend", [])][:args.ontbrekend]
         totaal += verwerk(ids, output_dir, "Ontbrekend")
 
@@ -174,7 +176,7 @@ def main() -> int:
         log.info("Status: %d wetten op vervallen gezet", bijgewerkt)
         totaal += bijgewerkt
 
-    if args.ververs:
+    if args.ververs is not None:
         # oudste eerst: wetten zonder 'opgehaald' komen nog uit de legalize-seed
         kandidaten = []
         for pad in output_dir.rglob("*.md"):
@@ -189,7 +191,7 @@ def main() -> int:
         log.info("Verversing: %d wetten kwamen nog nooit van de officiele bron", nooit)
         totaal += verwerk(ids, output_dir, "Verversen")
 
-    if not (args.ontbrekend or args.ververs or args.status):
+    if args.ontbrekend is None and args.ververs is None and not args.status:
         p.print_help()
         return 1
 

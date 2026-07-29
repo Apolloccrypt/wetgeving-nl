@@ -197,6 +197,30 @@ class DekkingTest(unittest.TestCase):
             self.assertIn(sleutel, self.rapport)
 
 
+class VulAanTest(unittest.TestCase):
+    """De aanroepen die de workflow doet, moeten slagen."""
+
+    def _draai(self, *vlaggen):
+        import subprocess, tempfile
+        with tempfile.TemporaryDirectory() as tmp:
+            return subprocess.run(
+                [sys.executable, str(WORTEL / "scripts" / "vul_aan.py"),
+                 "--output", tmp, "--dekking", str(WORTEL / "dekking.json"), *vlaggen],
+                capture_output=True, text=True, timeout=120)
+
+    def test_nul_is_een_geldige_opdracht(self):
+        # "--ververs 0" betekent: sla deze stap over. Dat viel eerst door naar
+        # de tak "geen opdracht gegeven" met exit 1, waardoor de hele workflow
+        # afbrak en niets werd gecommit.
+        for vlaggen in (["--ververs", "0"], ["--ontbrekend", "0"]):
+            r = self._draai(*vlaggen)
+            self.assertEqual(r.returncode, 0, f"{vlaggen} gaf exit {r.returncode}: {r.stderr[-300:]}")
+
+    def test_zonder_opdracht_faalt_nog_steeds(self):
+        r = self._draai()
+        self.assertEqual(r.returncode, 1)
+
+
 class BronTest(unittest.TestCase):
     """Toetsen tegen de echte bron; alleen met --netwerk."""
 
