@@ -5,7 +5,7 @@ country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
 last_updated: "2026-01-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0052088"
 soort: "zbo"
 stam_id: "17717043"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Regeling voorwaarden deelname examen LPG-technicus"
 signed_date: "2025-12-11"
 entry_into_force: "2026-01-01"
+gecontroleerd: 2026-07-29
 ---
 # Regeling voorwaarden deelname examen LPG technicus
 

@@ -4,8 +4,9 @@ identifier: "BWBR0049334"
 categorie: "Overig"
 publicatiedatum: 2024-07-01
 laatste_update: 2026-04-21
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049334"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de directeur Contraterrorisme en Beveiliging Burgerluchtvaart van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 januari 2024, nr. 5164834, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering ressorterende ambtenaren (Mandaatbesluit Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering NCTV 2023)

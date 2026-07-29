@@ -4,8 +4,9 @@ identifier: "BWBR0050921"
 categorie: "Overig"
 publicatiedatum: 2026-05-01
 laatste_update: 2026-05-21
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0050921"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 maart 2025, kenmerk 4055328-1078653-OBP, houdende de vaststelling van het Organisatiebesluit VWS 2025

@@ -4,8 +4,9 @@ identifier: "BWBR0052464"
 categorie: "Overig"
 publicatiedatum: 2026-04-12
 laatste_update: 2026-04-21
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052464"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 21 maart 2026, nr. WJZ/105341340, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Oudemolen, Noord-Brabant (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Oudemolen, Noord-Brabant 2026)

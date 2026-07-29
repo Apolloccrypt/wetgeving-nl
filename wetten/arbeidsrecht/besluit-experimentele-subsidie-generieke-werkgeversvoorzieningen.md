@@ -4,8 +4,9 @@ identifier: "BWBR0045276"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2024-01-01
 laatste_update: 2024-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045276"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 16 juni 2021 houdende regels voor experimenten met het verstrekken van subsidies voor generieke werkgeversvoorzieningen (Besluit experimentele subsidie generieke werkgeversvoorzieningen)

@@ -4,8 +4,9 @@ identifier: "BWBR0051223"
 categorie: "Onderwijs"
 publicatiedatum: 2025-07-12
 laatste_update: 2025-07-12
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051223"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 7 juli 2025, nr. WJZ/ 99303433, houdende vaststelling van de Regeling schoolzuivel 2025

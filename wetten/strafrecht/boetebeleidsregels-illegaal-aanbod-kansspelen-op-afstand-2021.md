@@ -3,9 +3,10 @@ title: "Boetebeleidsregels illegaal aanbod kansspelen op afstand 2021"
 identifier: "BWBR0045639"
 categorie: "Overig"
 publicatiedatum: 2021-10-01
-laatste_update: 2021-10-01
-status: geldig
+laatste_update: 2026-07-28
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045639"
+gecontroleerd: 2026-07-29
 ---
 
 # Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit

@@ -4,8 +4,9 @@ identifier: "BWBR0011531"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2000-09-06
 laatste_update: 2026-07-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0011531"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)

@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
 last_updated: "2023-09-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0037455"
 soort: "ministeriele-regeling"
 stam_id: "13369323"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015"
 signed_date: "2015-12-14"
 entry_into_force: "2015-12-30"
+gecontroleerd: 2026-07-29
 ---
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000305694, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015)
 

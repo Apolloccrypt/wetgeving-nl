@@ -4,8 +4,9 @@ identifier: "BWBR0015483"
 categorie: "Overig"
 publicatiedatum: 2003-09-26
 laatste_update: 2003-09-26
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0015483"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 16 augustus 2003, houdende wijziging van het Aanduidingenbesluit tabaksproducten

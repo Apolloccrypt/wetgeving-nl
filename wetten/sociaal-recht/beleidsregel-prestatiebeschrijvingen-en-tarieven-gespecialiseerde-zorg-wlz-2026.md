@@ -4,8 +4,9 @@ identifier: "BWBR0051662"
 categorie: "Overig"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-07-21
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051662"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2026

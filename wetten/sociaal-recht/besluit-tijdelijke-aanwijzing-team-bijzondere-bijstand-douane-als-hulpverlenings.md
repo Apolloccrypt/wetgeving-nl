@@ -4,8 +4,9 @@ identifier: "BWBR0049830"
 categorie: "Sociaal recht"
 publicatiedatum: 2024-07-01
 laatste_update: 2024-07-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049830"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 juni 2024, nr. IENW/BSK-2024/166052, houdende tijdelijke aanwijzing van het Team Bijzondere Bijstand van de Douane als hulpverleningsdienst als bedoeld in artikel 29 van het Reglement verkeersregels en verkeerstekens 1990

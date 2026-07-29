@@ -4,8 +4,9 @@ identifier: "BWBR0045114"
 categorie: "Bestuursrecht"
 publicatiedatum: 2024-01-30
 laatste_update: 2026-05-11
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045114"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 mei 2021, nr. BOACAT2021/017, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Breda

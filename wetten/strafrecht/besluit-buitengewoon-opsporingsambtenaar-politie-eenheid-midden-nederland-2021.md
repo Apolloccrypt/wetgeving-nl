@@ -4,8 +4,9 @@ identifier: "BWBR0045458"
 categorie: "Overig"
 publicatiedatum: 2021-07-24
 laatste_update: 2026-07-24
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045458"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 juli 2021 nr. BOACAT2021/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij politie eenheid Midden-Nederland

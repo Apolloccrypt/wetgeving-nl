@@ -4,8 +4,9 @@ identifier: "BWBR0043395"
 categorie: "Overig"
 publicatiedatum: 2025-02-13
 laatste_update: 2025-02-13
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0043395"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 april 2020, nr. WJZ/ 20004577 houdende regels inzake het verlenen van mandaat en machtiging voor de uitgifte van identificatiedocumenten van paardachtigen (Besluit mandaat en machtiging inzake de uitgifte van paardachtigen 2020)

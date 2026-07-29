@@ -4,8 +4,9 @@ identifier: "BWBR0049576"
 categorie: "Sociaal recht"
 publicatiedatum: 2024-04-18
 laatste_update: 2026-05-02
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049576"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 13 april 2024, nr. WJZ/ 52559000, tot voorlopige aanwijzing van de ambtenaren van de Autoriteit Consument en Markt als functionarissen belast met het verlenen van bijstand bij een inspectie in het kader van Verordening (EU) 2022/2560 van het Europees Parlement en de Raad van 14 december 2022 betreffende buitenlandse subsidies die de interne markt verstoren (Besluit voorlopige aanwijzing ambtenaren ACM als functionarissen belast met het verlenen van bijstand bij een inspectie op grond van de verordening buitenlandse subsidies)

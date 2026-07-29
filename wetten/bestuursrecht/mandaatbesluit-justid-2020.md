@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-01"
 last_updated: "2021-04-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0044124"
 soort: "ministeriele-regeling"
 stam_id: "15640323"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Mandaatbesluit Justid 2020"
 signed_date: "2020-09-10"
 entry_into_force: "2020-09-29"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de algemeen directeur van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 10 september 2020, nr. Alg. 6164, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende ambtenaren (Mandaatbesluit Justid 2020)
 

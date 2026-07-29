@@ -4,8 +4,9 @@ identifier: "BWBR0051099"
 categorie: "Overig"
 publicatiedatum: 2025-07-01
 laatste_update: 2025-07-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051099"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 23 mei 2025 tot vaststelling van het Specifiek interventiebeleid NVWA tabak en rookwaren (IB03-SPEC 31, versie 21)

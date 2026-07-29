@@ -1,0 +1,98 @@
+---
+title: "Culturele Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek"
+identifier: "BWBV0004216"
+categorie: "Staatsinrichting en bestuur"
+soort: "verdrag"
+publicatiedatum: 1970-01-27
+laatste_update: 1970-01-27
+status: geldig
+toestand: 1970-01-27
+bron: "https://wetten.overheid.nl/BWBV0004216"
+opgehaald: 2026-07-29
+---
+
+# Culturele Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek
+
+*The Government of the Kingdom of the Netherlands and the Government of the Hungarian People's Republic, being desirous of promoting co-operation between the two countries in the fields of education, science and culture, and convinced that such co-operation will contribute to a better understanding between the two nations, have decided to conclude a cultural agreement and have agreed as follows:*
+
+##### Article I
+
+In order to promote co-operation between the two countries in the fields of science, education and social welfare the Contracting Parties undertake in particular, and on a basis of reciprocity:
+
+- a. to further the exchange of, and contacts between, university professors, other scholars and students, social welfare officials, as well as co-operation between the universities and other scientific institutions;
+
+- b. to promote in similar fashion co-operation between specialists and institutions active in the field of secondary education, including technical and artistic education;
+
+- c. to provide scholarships in order to enable nationals of the other country to study at their scientific, educational and social welfare institutions or to visit the respective countries for study purposes, including the participation in summer courses;
+
+- d. promoting tourism by facilitating free contacts and other means that may contribute to a better understanding of the way of life, work and culture of the other country;
+
+- e. promoting co-operation between sport-organisations and sport-federations;
+
+- f. to facilitate the access to libraries, archives, museums and cultural and scientific institutions for scientists and research workers in the respective countries;
+
+- g. fostering the exchange of books, periodicals and other publications of a scientific, technical, and cultural nature between libraries and other institutions of both countries;
+
+- h. to determine through mutual consultations the value to be attributed to the certificates and academic titles awarded by the institutions of the other country.
+
+##### Article II
+
+In order to promote in their respective countries a better knowledge of the culture of the other country, the Contracting Parties shall encourage exchange visits and other contacts between persons active in the fields of culture, such as authors, composers, choreographers, artists, art critics, and specialists in mass media, social welfare, popular education, youth training and sports.
+
+With the same object in view the Contracting Parties shall, on a basis of reciprocity, assist each other as much as possible in:
+
+- a. establishing and further developing professorships, lectureships and courses on the language, culture, and civilization of the other country at their respective universities and other educational and research institutes;
+
+- b. having translations made of literary works from the other country;
+
+- c. organizing art exhibitions and other exhibitions of cultural nature;
+
+- d. organizing conferences, concerts and theatrical performances;
+
+- e. organizing radio and television broadcasts and disseminating gramophone records and similar aids;
+
+- f. disseminating books, periodicals and other publications;
+
+- g. showing scientific, educational and cultural films.
+
+##### Article III
+
+The Contracting Parties shall set up a mixed committee whose duty it shall be, in application of Articles I and II, to recommend to the two Governments a programme of activities for a period of two years at a time; the programme shall be accompanied by suggestions as to the financing of its various parts. Each Contracting Party shall submits its decisions concerning the recommendations and suggestions of the mixed committee to the other Party through the ordinary diplomatic channels.
+
+##### Article IV
+
+The committee shall consist of not more than ten members; each Contracting Party shall appoint an equal number of members.
+
+##### Article V
+
+The mixed committee shall in principle meet every two years, alternately in the Netherlands and in Hungary.
+
+The respective diplomatic representatives of each of the Contracting Parties shall be invited to attend the meetings of the committee. The members may be assisted at the meetings by a limited number of specialists.
+
+The meetings shall be presided over by a member of the committee belonging to the country in which the meeting is held.
+
+##### Article VI
+
+As regards the Kingdom of the Netherlands the present Agreement shall apply to the Kingdom in Europe.
+
+##### Article VII
+
+The Agreement shall be ratified and the instruments of ratification shall be exchanged as soon as possible at the Hague.
+
+The Agreement shall enter into force on the date on which the instruments of ratification are exchanged.
+
+##### Article VIII
+
+The present Agreement shall remain in force for a period of five years. If it has not been denounced six months before the date of its termination, it shall be tacitly renewed. However, either Contracting Party shall then have the right to denounce the Agreement at any time by giving six months' notice to the other Contracting Party.
+
+IN WITNESS WHEREOF the respective plenipotentiaries have signed the present Agreement and affixed their seals thereto.
+
+DONE at Budapest on the 14th February, 1968, in duplicate, in the English language.
+
+For the Government of the Kingdom of the Netherlands:
+
+(sd.) J. LUNS.
+
+For the Government of the Hungarian People's Republic:
+
+(sd.) PÉTER JÁNOS

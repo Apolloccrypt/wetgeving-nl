@@ -4,8 +4,9 @@ identifier: "BWBR0046805"
 categorie: "Overig"
 publicatiedatum: 2023-04-01
 laatste_update: 2023-04-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0046805"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 15 juni 2022, nr. 32713080, houdende regels voor subsidieverstrekking aan samenwerkingsverbanden voor het bereiken van niet-ingeschreven jongeren ten behoeve van de stimulering van hun ontwikkeling (Subsidieregeling Wel in Ontwikkeling)

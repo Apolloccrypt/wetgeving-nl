@@ -4,8 +4,9 @@ identifier: "BWBR0045263"
 categorie: "Overig"
 publicatiedatum: 2022-06-23
 laatste_update: 2022-06-23
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045263"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 7 juni 2021, tot instelling van de Taskforce Onze hulpverleners veilig (Instellingsbesluit Taskforce Onze hulpverleners veilig)

@@ -4,8 +4,9 @@ identifier: "BWBR0051329"
 categorie: "Gezondheidszorg"
 publicatiedatum: 2025-07-26
 laatste_update: 2025-07-26
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051329"
+gecontroleerd: 2026-07-29
 ---
 
 # Gewijzigde Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2024

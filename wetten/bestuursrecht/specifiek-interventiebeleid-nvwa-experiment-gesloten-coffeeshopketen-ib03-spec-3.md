@@ -5,7 +5,7 @@ country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-09-01"
 last_updated: "2024-09-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050117"
 soort: "beleidsregel"
 stam_id: "17199233"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)"
 signed_date: "2024-06-28"
 entry_into_force: "2024-09-01"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 28 juni 2024 tot vaststelling van het Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)
 

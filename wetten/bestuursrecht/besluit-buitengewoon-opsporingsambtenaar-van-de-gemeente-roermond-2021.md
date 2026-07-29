@@ -4,8 +4,9 @@ identifier: "BWBR0045160"
 categorie: "Bestuursrecht"
 publicatiedatum: 2021-05-25
 laatste_update: 2026-05-25
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045160"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 20 mei 2021 nr. BOACAT2021/023, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Roermond

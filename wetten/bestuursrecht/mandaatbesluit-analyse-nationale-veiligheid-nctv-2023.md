@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-14"
 last_updated: "2022-12-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0049355"
 soort: "ministeriele-regeling"
 stam_id: "17027613"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Mandaatbesluit Analyse Nationale Veiligheid NCTV 2023"
 signed_date: "2024-01-25"
 entry_into_force: "2024-02-14"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van het hoofd van de Afdeling Analyse Nationale Veiligheid van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 januari 2024, nr. 5164881, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van die afdeling (Mandaatbesluit Analyse Nationale Veiligheid NCTV 2023)
 

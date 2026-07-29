@@ -1,0 +1,38 @@
+---
+title: "Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten der Europese Gemeenschappen) en de Helleense Republiek betreffende de toetreding van de Helleense Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie"
+identifier: "BWBV0006410"
+categorie: "Internationaal recht"
+soort: "verdrag"
+publicatiedatum: 1981-01-01
+laatste_update: 1981-01-01
+status: geldig
+toestand: 1981-01-01
+bron: "https://wetten.overheid.nl/BWBV0006410"
+opgehaald: 2026-07-29
+---
+
+# Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten der Europese Gemeenschappen) en de Helleense Republiek betreffende de toetreding van de Helleense Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie
+
+*Zijne Majesteit de Koning der Belgen, Hare Majesteit de Koningin van Denemarken, de President van de Bondsrepubliek Duitsland, de President van de Helleense Republiek, de President van de Franse Republiek, de President van Ierland, de President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verenigd in de wil de verwezenlijking van de doelstellingen van het Verdrag tot oprichting van de Europese Economische Gemeenschap en van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie voort te zetten, Vastbesloten, in de geest van deze Verdragen, op de reeds gelegde grondslagen een steeds hechtere eenheid tussen de Europese volkeren tot stand te brengen, Overwegende dat artikel 237 van het Verdrag tot oprichting van de Europese Economische Gemeenschap alsmede artikel 205 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, aan de Europese Staten de mogelijkheid bieden lid van deze Gemeenschappen te worden, Overwegende dat de Helleense Republiek heeft verzocht lid te worden van deze Gemeenschappen, Overwegende dat de Raad der Europese Gemeenschappen, na advies van de Commissie te hebben ingewonnen, zich heeft uitgesproken voor toelating van deze Staat, Hebben besloten in gemeenschappelijk overleg de voorwaarden voor deze toelating en de in de Verdragen tot oprichting van de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie aan te brengen aanpassingen vast te stellen, en hebben daartoe als gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen, de heer Wilfried Martens, Eerste Minister; de heer Henri Simonet, Minister van Buitenlandse Zaken; de heer Joseph van der Meulen, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; Hare Majesteit de Koningin van Denemarken, de heer Niels Anker Kofoed, Minister van Landbouw; de heer Gunnar Riberholdt, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; de President van de Bondsrepubliek Duitsland, de heer Hans-Dietrich Genscher, Bondsminister van Buitenlandse Zaken; de heer Helmut Sigrist, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; de President van de Helleense Republiek, de heer Constantinos Karamanlis, Eerste Minister; de heer Georgios Rallis, Minister van Buitenlandse Zaken; de heer Georgios Kontogeorgis, Minister zonder portefeuille, belast met de betrekkingen met de Europese Gemeenschappen; de President van de Franse Republiek, de heer Jean François-Poncet, Minister van Buitenlandse Zaken; de heer Pierre Bernard-Reymond, Staatssecretaris van Buitenlandse Zaken; de heer Luc de La Barre de Nanteuil, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; de President van Ierland, de heer John Lynch, Eerste Minister; de heer Michael O'Kennedy, Minister van Buitenlandse Zaken; de heer Brendan Dillon, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; de President van de Italiaanse Republiek, de heer Giulio Andreotti, Voorzitter van de Ministerraad; de heer Adolfo Battaglia, Adjunct-Staatssecretaris van Buitenlandse Zaken; de heer Eugenio Plaja, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, de heer Gaston Thorn, President van de Regering, Minister van Buitenlandse Zaken; de heer Jean Dondelinger, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; Hare Majesteit de Koningin der Nederlanden, de heer Ch. A. van der Klaauw, Minister van Buitenlandse Zaken; de heer J. H. Lubbers, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Lord Carrington, Minister van Buitenlandse en Gemenebest-Zaken; Sir Donald Maitland, Ambassadeur, Permanente Vertegenwoordiger bij de Europese Gemeenschappen; die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:*
+
+##### Artikel 1
+
+1. De Helleense Republiek wordt lid van de Europese Economische Gemeenschap en van de Europese Gemeenschap voor Atoomenergie en wordt Partij bij de Verdragen tot oprichting van deze Gemeenschappen, zoals deze Verdragen zijn gewijzigd of aangevuld.
+
+2. De voorwaarden voor de toelating en de daaruit voortvloeiende aanpassingen van de [Verdragen tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en [van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) zijn neergelegd in de bij dit Verdrag gevoegde [Akte](https://wetten.overheid.nl/BWBV0006410). De bepalingen van deze Akte die betrekking hebben op de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie maken een integrerend deel van dit Verdrag uit.
+
+3. De in de in lid 1 genoemde Verdragen voorkomende bepalingen betreffende de rechten en verplichtingen van de Lid-Staten alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Gemeenschappen, zijn van toepassing ten aanzien van dit Verdrag.
+
+##### Artikel 2
+
+Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De Akten van bekrachtiging zullen uiterlijk 31 december 1980 worden neergelegd bij de Regering van de Italiaanse Republiek.
+
+Dit Verdrag treedt in werking op 1 januari 1981, mits alle Akten van bekrachtiging voor dit tijdstip zijn neergelegd en mits de Akte van toetreding van de Helleense Republiek tot de Europese Gemeenschap voor Kolen en Staal op dit tijdstip is neergelegd.
+
+##### Artikel 3
+
+Dit Verdrag, opgesteld in één enkel exemplaar, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse en de Nederlandse taal, zijnde de acht teksten gelijkelijk authentiek, zal worden neergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
+
+TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
+
+GEDAAN te Athene, de achtentwintigste mei negentienhonderdnegenenzeventig.

@@ -4,8 +4,9 @@ identifier: "BWBR0045121"
 categorie: "Bestuursrecht"
 publicatiedatum: 2021-05-12
 laatste_update: 2026-05-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045121"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 mei 2021 nr. BOACAT2021/010 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Venlo

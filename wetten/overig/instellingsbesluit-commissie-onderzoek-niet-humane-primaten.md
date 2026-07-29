@@ -4,8 +4,9 @@ identifier: "BWBR0049327"
 categorie: "Overig"
 publicatiedatum: 2025-04-10
 laatste_update: 2025-04-10
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049327"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 december 2023, nr. OWB/42696432 houdende instelling van de Commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven op niet-humane primaten (Instellingsbesluit Commissie onderzoek niet-humane primaten)

@@ -4,8 +4,9 @@ identifier: "BWBR0052063"
 categorie: "Overig"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052063"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen en landbouwvoertuigen

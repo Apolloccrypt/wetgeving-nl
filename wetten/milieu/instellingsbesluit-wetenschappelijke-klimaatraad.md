@@ -4,8 +4,9 @@ identifier: "BWBR0047416"
 categorie: "Milieu"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-07-15
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0047416"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 29 oktober 2022 tot instelling van de Wetenschappelijke Klimaatraad

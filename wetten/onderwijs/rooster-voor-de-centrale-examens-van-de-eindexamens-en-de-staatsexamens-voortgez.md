@@ -4,8 +4,9 @@ identifier: "BWBR0046997"
 categorie: "Onderwijs"
 publicatiedatum: 2024-02-15
 laatste_update: 2024-02-15
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0046997"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van het College voor toetsen en examens van 27 juni 2022, met nummer CvTE-22.2200845, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2024 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024)

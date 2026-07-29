@@ -4,8 +4,9 @@ identifier: "BWBR0052119"
 categorie: "Overig"
 publicatiedatum: 2026-01-06
 laatste_update: 2026-01-06
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052119"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de programmadirecteur-generaal Ondermijning van het Ministerie van Justitie en Veiligheid van 1 december 2025, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de directeur van het Strategisch Kenniscentrum (SKC) van het programmadirectoraat-generaal ondermijning

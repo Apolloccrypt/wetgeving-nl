@@ -4,8 +4,9 @@ identifier: "BWBR0041827"
 categorie: "Milieu"
 publicatiedatum: 2025-02-13
 laatste_update: 2025-02-13
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0041827"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken van 21 december 2018, nr. 18320844, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019)

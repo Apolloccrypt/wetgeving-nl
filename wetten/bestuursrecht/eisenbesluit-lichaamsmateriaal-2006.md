@@ -4,8 +4,9 @@ identifier: "BWBR0021255"
 categorie: "Overig"
 publicatiedatum: 2020-10-01
 laatste_update: 2020-10-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0021255"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 17 januari 2007, houdende nieuwe eisen inzake de veiligheid en kwaliteit van lichaamsmateriaal (Eisenbesluit lichaamsmateriaal 2006)

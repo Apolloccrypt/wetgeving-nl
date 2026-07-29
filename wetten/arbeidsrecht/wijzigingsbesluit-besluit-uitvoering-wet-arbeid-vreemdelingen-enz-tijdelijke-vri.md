@@ -4,8 +4,9 @@ identifier: "BWBR0045179"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2021-06-01
 laatste_update: 2026-05-27
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045179"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 26 mei 2021 tot wijziging van het Besluit uitvoering Wet arbeid vreemdelingen en het Vreemdelingenbesluit 2000 in verband met een tijdelijke vrijstelling voor startende innovatieve ondernemingen

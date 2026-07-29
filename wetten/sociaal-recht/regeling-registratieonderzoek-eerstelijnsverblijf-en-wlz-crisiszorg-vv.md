@@ -4,8 +4,9 @@ identifier: "BWBR0046857"
 categorie: "Overig"
 publicatiedatum: 2022-07-07
 laatste_update: 2022-07-07
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0046857"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling registratieonderzoek eerstelijnsverblijf en Wlz crisiszorg vv

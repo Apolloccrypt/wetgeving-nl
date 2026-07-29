@@ -4,8 +4,9 @@ identifier: "BWBR0035167"
 categorie: "Overig"
 publicatiedatum: 2014-06-05
 laatste_update: 2014-06-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0035167"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 3 juni 2014, nr. IENM/BSK-2014/117255 tot wijziging van de periode waarop het Nationaal Samenwerkingsprogramma Luchtkwaliteit betrekking heeft (besluit verlenging NSL)

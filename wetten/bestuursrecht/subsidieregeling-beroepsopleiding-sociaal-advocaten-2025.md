@@ -5,7 +5,7 @@ country: "nl"
 rank: "zbo"
 publication_date: "2025-07-02"
 last_updated: "2025-07-02"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0051159"
 soort: "zbo"
 stam_id: "17456773"
@@ -32,6 +32,7 @@ jci_1_0: "1.0:c:BWBR0051159&g=2025-07-02"
 citeertitel_status: "officieel"
 signed_date: "2025-06-24"
 entry_into_force: "2025-07-02"
+gecontroleerd: 2026-07-29
 ---
 # Subsidieregeling beroepsopleiding sociaal advocaten 2025
 

@@ -4,8 +4,9 @@ identifier: "BWBR0052447"
 categorie: "Overig"
 publicatiedatum: 2026-03-25
 laatste_update: 2026-07-22
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052447"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026

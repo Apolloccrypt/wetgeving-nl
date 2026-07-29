@@ -4,8 +4,9 @@ identifier: "BWBR0044695"
 categorie: "Overig"
 publicatiedatum: 2021-01-08
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0044695"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit vaststelling selectielijst primair proces 'de Rechtspraak' vanaf (1985) 2005

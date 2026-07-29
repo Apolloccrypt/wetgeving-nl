@@ -4,8 +4,9 @@ identifier: "BWBR0050230"
 categorie: "Overig"
 publicatiedatum: 2025-09-18
 laatste_update: 2025-09-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0050230"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 september 2024, nr. 2024-0000412659, tot vaststelling van de tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024 (Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024)

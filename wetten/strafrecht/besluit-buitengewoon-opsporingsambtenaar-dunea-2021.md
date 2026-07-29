@@ -4,8 +4,9 @@ identifier: "BWBR0045142"
 categorie: "Overig"
 publicatiedatum: 2021-07-07
 laatste_update: 2021-07-07
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045142"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 mei 2021 nr. BOACAT2021/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Dunea

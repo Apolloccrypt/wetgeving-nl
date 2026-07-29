@@ -4,8 +4,9 @@ identifier: "BWBR0042676"
 categorie: "Overig"
 publicatiedatum: 2019-10-19
 laatste_update: 2026-07-17
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0042676"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de waarnemend directeur van de Directie Internationale Zaken van 10 oktober 2019, kenmerk 1582184-195102-IZ, houdende het verlenen van ondervolmacht aan het afdelingshoofd Jeugd van de Programmadirectie Zorg en Jeugd in Caribisch Nederland i.o

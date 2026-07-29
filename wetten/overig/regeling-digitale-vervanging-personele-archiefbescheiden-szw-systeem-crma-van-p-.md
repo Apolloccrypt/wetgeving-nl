@@ -4,8 +4,9 @@ identifier: "BWBR0036581"
 categorie: "Overig"
 publicatiedatum: 2015-05-05
 laatste_update: 2015-05-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0036581"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, tot Besluit digitale vervanging personele archiefbescheiden SZW systeem cRMA van P-Direkt

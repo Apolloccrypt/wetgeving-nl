@@ -4,8 +4,9 @@ identifier: "BWBR0046942"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2022-07-20
 laatste_update: 2022-07-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0046942"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 7 juli 2022, 2022-0000107346, houdende de vaststelling van een subsidieplafond tot eind 2022 voor de experimentele subsidie generieke werkgeversvoorzieningen

@@ -4,8 +4,9 @@ identifier: "BWBR0052538"
 categorie: "Overig"
 publicatiedatum: 2026-04-15
 laatste_update: 2026-04-16
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052538"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 april 2026, nr. RT-0000136054, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van schurft in de biologische teelt van appel en peer (Tijdelijke vrijstelling voor de beheersing van schurft in de biologische teelt van appel en peer, 2026)

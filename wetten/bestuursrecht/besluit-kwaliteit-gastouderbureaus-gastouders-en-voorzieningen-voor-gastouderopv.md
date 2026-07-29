@@ -4,8 +4,9 @@ identifier: "BWBR0031621"
 categorie: "Overig"
 publicatiedatum: 2020-10-01
 laatste_update: 2020-10-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0031621"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 30 mei 2012 tot het stellen van eisen aan de Kwaliteit kinderopvang en peuterspeelzalen (Besluit kwaliteit kinderopvang en peuterspeelzalen)

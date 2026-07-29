@@ -150,8 +150,15 @@ def main():
         status_raw = meta.get("status", "")
         status = STATUS_NAAM.get(status_raw, status_raw or "geldig")
 
+        # De citeertitel is waar mensen op zoeken ("Awb", "Grondwet",
+        # "Wegenverkeerswet 1994"); de officiele titel begint vaak met
+        # "Wet van 21 april 1994, houdende...". Zonder citeertitel in de index
+        # is een wet alleen te vinden via de volledige tekst.
+        citeertitel = (meta.get("citeertitel") or meta.get("short_title") or "").strip()
+        titel = meta.get("title", bestand.stem)
+
         entry = {
-            "titel":      meta.get("title", bestand.stem),
+            "titel":      titel,
             "identifier": meta.get("identifier", ""),
             "categorie":  categorie,
             "type":       type_naam,
@@ -161,6 +168,8 @@ def main():
             "status":     status,
             "pad":        "wetten/" + str(rel).replace("\\", "/"),
         }
+        if citeertitel and citeertitel.lower() != titel.lower():
+            entry["citeertitel"] = citeertitel
         zoek_entry = {"b": lees_body(bestand)}
 
         # Dedupliceer op identifier: hetzelfde BWB-id kan (historisch) in twee

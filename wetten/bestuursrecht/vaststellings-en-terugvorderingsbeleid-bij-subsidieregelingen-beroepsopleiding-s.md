@@ -5,7 +5,7 @@ country: "nl"
 rank: "zbo"
 publication_date: "2024-11-06"
 last_updated: "2024-11-06"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050368"
 soort: "zbo"
 stam_id: "17258243"
@@ -32,6 +32,7 @@ jci_1_0: "1.0:c:BWBR0050368&g=2024-11-06"
 citeertitel_status: "officieel"
 signed_date: "2024-10-18"
 entry_into_force: "2024-11-06"
+gecontroleerd: 2026-07-29
 ---
 # Vaststellings- en terugvorderingsbeleid bij Subsidieregelingen beroepsopleiding sociaal advocaten
 

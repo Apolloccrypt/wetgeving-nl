@@ -4,8 +4,9 @@ identifier: "BWBR0026109"
 categorie: "Overig"
 publicatiedatum: 2010-02-17
 laatste_update: 2010-02-17
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0026109"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Economische Zaken, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister en Staatssecretaris van Verkeer en Waterstaat, het Algemeen Bestuur van NWO en het NWO Gebiedsbestuur Aard- en Levenswetenschappen van 8 juni 2009, nr. WJZ/9098704, houdende regels inzake mandaat, volmacht en machtiging aan de directeur NSO inzake aangelegenheden van het Netherlands Space Office (Besluit mandaat, volmacht en machtiging directeur NSO)

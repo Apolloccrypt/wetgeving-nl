@@ -4,8 +4,9 @@ identifier: "BWBR0052215"
 categorie: "Bestuursrecht"
 publicatiedatum: 2026-01-28
 laatste_update: 2026-01-28
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052215"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Asiel en Migratie en de Minister voor Asiel en Migratie van 16 januari 2026, nr. 6944227, houdende tijdelijke regels om de uitstroom van vergunninghouders uit de asielopvang te stimuleren (Tijdelijke regeling stimuleren uitstroom vergunninghouders uit de asielopvang 2026)

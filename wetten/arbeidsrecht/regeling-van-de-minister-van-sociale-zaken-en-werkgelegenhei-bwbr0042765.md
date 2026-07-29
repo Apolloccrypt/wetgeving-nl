@@ -1,0 +1,59 @@
+---
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 november 2019, 2019-0000154274, tot vaststelling van de premiepercentages werknemers- en volksverzekeringen, het maximumpremieloon werknemersverzekeringen en de opslag kinderopvangtoeslag voor 2020"
+citeertitel: "Regeling tot vaststelling premiepercentages werknemers- en volksverzekeringen, maximumpremieloon werknemersverzekeringen en opslag kinderopvangtoeslag 2020"
+identifier: "BWBR0042765"
+categorie: "Arbeidsrecht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042765"
+opgehaald: 2026-07-29
+---
+
+# Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 november 2019, 2019-0000154274, tot vaststelling van de premiepercentages werknemers- en volksverzekeringen, het maximumpremieloon werknemersverzekeringen en de opslag kinderopvangtoeslag voor 2020
+
+##### Artikel 1. Premiepercentage algemene ouderdomsverzekering
+
+Het premiepercentage voor de algemene ouderdomsverzekering, bedoeld in [artikel 11, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11), is voor het jaar 2020 17,90%.
+
+##### Artikel 2. Premiepercentage nabestaandenverzekering
+
+Het premiepercentage voor de nabestaandenverzekering, bedoeld in [artikel 11, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11), is voor het jaar 2020 0,10%.
+
+##### Artikel 3. Maximum premieloon
+
+Het bedrag, bedoeld in [artikel 17, eerste lid, eerste zin, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), bedraagt voor het jaar 2020 voor een loontijdvak van een jaar: € 57.232.
+
+##### Artikel 4. Premiepercentage Algemeen Werkloosheidsfonds
+
+1. Het percentage van de lage premie, bedoeld in [artikel 27, eerste, tweede en derde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=27), is voor het jaar 2020 2,94%.
+
+2. Het percentage van de hoge premie, bedoeld in [artikel 27, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=27), is voor het jaar 2020 7,94%.
+
+##### Artikel 5. Premie Uitvoeringsfonds voor de overheid
+
+Het premiepercentage, bedoeld in [artikel 31 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=31), is voor het jaar 2020 0,68%.
+
+##### Artikel 6. Basispremie Arbeidsongeschiktheidsfonds
+
+Het premiepercentage, bedoeld in [artikel 36 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=36), is voor het jaar 2020 6,77%.
+
+##### Artikel 7. Opslag tot dekking kinderopvangtoeslag
+
+De premieopslag, bedoeld in [artikel 1.10, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.10), is voor het jaar 2020 0,50%.
+
+##### Artikel 8. Minimumloonsomgrens Whk sector Grootwinkelbedrijf
+
+*Wijzigt de Regeling Wfsv.*.
+
+##### Artikel 9. Inwerkingtreding
+
+1. Deze regeling treedt in werking met ingang van 1 januari 2020.
+
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042765&artikel=8&z=2020-01-01&g=2020-01-01) werkt terug tot en met 1 januari 2019.
+
+##### Artikel 10. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling tot vaststelling premiepercentages werknemers- en volksverzekeringen, maximumpremieloon werknemersverzekeringen en opslag kinderopvangtoeslag 2020.

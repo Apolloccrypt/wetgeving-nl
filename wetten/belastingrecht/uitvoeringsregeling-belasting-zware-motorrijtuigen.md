@@ -4,8 +4,9 @@ identifier: "BWBR0007677"
 categorie: "Belastingrecht"
 publicatiedatum: 2019-01-01
 laatste_update: 2019-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0007677"
+gecontroleerd: 2026-07-29
 ---
 
 # Uitvoeringsregeling belasting zware motorrijtuigen

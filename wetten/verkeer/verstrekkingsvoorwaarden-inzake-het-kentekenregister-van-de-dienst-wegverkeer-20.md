@@ -4,8 +4,9 @@ identifier: "BWBR0046568"
 categorie: "Verkeer"
 publicatiedatum: 2022-04-19
 laatste_update: 2026-07-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0046568"
+gecontroleerd: 2026-07-29
 ---
 
 # Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022

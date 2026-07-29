@@ -1,0 +1,108 @@
+---
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 november 2020, kenmerk 1774425-213510-WJZ, houdende aanpassing van de factoren, grondslagen en bedragen in de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2021"
+citeertitel: "Regeling aanpassing factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2021"
+identifier: "BWBR0044363"
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044363"
+opgehaald: 2026-07-29
+---
+
+# Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 november 2020, kenmerk 1774425-213510-WJZ, houdende aanpassing van de factoren, grondslagen en bedragen in de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2021
+
+##### Artikel 1
+
+De pensioenbedragen, bedoeld in [artikel 31b, eerste lid, onder a, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31b) en in [artikel 28b, eerste lid, onder a, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28b), zoals zij golden op 1 juli 2020, worden met ingang van 1 januari 2021 verhoogd met 0,29%.
+
+##### Artikel 2
+
+De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden met ingang van 1 januari 2021 vastgesteld als volgt:
+
+| A |  | B |  |
+| --- | --- | --- | --- |
+| pensioengrondslagen 1947 per jaar in euro | welvaartstoeslag vanaf 1 januari 2021 |  |  |
+| van | tot en met |  |  |
+| 1.225,21 | 1.356,79 | 27.837,48 minus pensioengrondslag |  |
+|  |  |  |  |
+| van | tot en met | pensioen-grondslag maal | plus extra bedrag in euro |
+| 1.356,80 | 1.404,44 | 19,3641 | 220,00 |
+| 1.404,45 | 1.446,64 | 19,3944 | 220,00 |
+| 1.446,65 | 2.021,13 | 19,4457 | 220,00 |
+| 2.021,14 | 2.066,96 | 19,4656 | 220,00 |
+| 2.066,97 | 2.113,24 | 19,4674 | 220,00 |
+| 2.113,25 | 2.158,62 | 19,4689 | 220,00 |
+| 2.158,63 | 2.204,45 | 19,4714 | 220,00 |
+| 2.204,46 | 2.248,92 | 19,4734 | 220,00 |
+| 2.248,93 | 2.294,76 | 19,4751 | 220,00 |
+| 2.294,77 | 2.385,51 | 19,4773 | 220,00 |
+| 2.385,52 | 2.485,34 | 19,4816 | 220,00 |
+| 2.485,35 | 2.583,36 | 19,4851 | 220,00 |
+| 2.583,37 | 2.678,65 | 19,4893 | 220,00 |
+| 2.678,66 | 2.679,11 | 19,5259 | 220,00 |
+| 2.679,12 | 2.726,30 | 19,5298 | 220,00 |
+| 2.726,31 | 2.773,49 | 19,5318 | 220,00 |
+| 2.773,50 | 2.820,23 | 19,5378 | 220,00 |
+| 2.820,24 | 2.867,88 | 19,5395 | 220,00 |
+| 2.867,89 | 2.914,62 | 19,5462 | 220,00 |
+| 2.914,63 | 2.961,36 | 19,5482 | 220,00 |
+| 2.961,37 | 2.961,81 | 19,5490 | 220,00 |
+| 2.961,82 | 3.004,92 | 19,5529 | 221,00 |
+| 3.004,93 | 3.048,94 | 19,5543 | 221,00 |
+| 3.048,95 | 3.092,96 | 19,5589 | 221,00 |
+| 3.092,97 | 3.136,07 | 19,5599 | 221,00 |
+| 3.136,08 | 3.136,52 | 19,5642 | 221,00 |
+| 3.136,53 | 3.180,08 | 19,5653 | 221,00 |
+| 3.180,09 | 3.223,19 | 19,5662 | 221,00 |
+| 3.223,20 | 3.223,64 | 19,5702 | 221,00 |
+| 3.223,65 | 3.267,21 | 19,5712 | 221,00 |
+| 3.267,22 | 3.310,32 | 19,5720 | 221,00 |
+| 3.310,33 | 3.353,88 | 19,5782 | 221,00 |
+| 3.353,89 | 3.397,44 | 19,5905 | 221,00 |
+| 3.397,45 | 3.441,01 | 19,5937 | 221,00 |
+| 3.441,02 | 3.484,57 | 19,5950 | 221,00 |
+| 3.484,58 | 3.528,13 | 19,6004 | 221,00 |
+| 3.528,14 | 3.571,69 | 19,6012 | 221,00 |
+| 3.571,70 | 3.615,26 | 19,6072 | 221,00 |
+| 3.615,27 | 3.658,82 | 19,6086 | 221,00 |
+| 3.658,83 | 3.659,27 | 19,6098 | 221,00 |
+| 3.659,28 | 3.713,73 | 19,6135 | 221,00 |
+| 3.713,74 | 3.768,18 | 19,6147 | 221,00 |
+| 3.768,19 | 3.822,63 | 19,6205 | 221,00 |
+| 3.822,64 | 3.823,09 | 19,6374 | 221,00 |
+| 3.823,10 | 3.877,54 | 19,6391 | 221,00 |
+| 3.877,55 | 3.932,00 | 19,6428 | 221,00 |
+| 3.932,01 | 3.986,45 | 19,6445 | 221,00 |
+| 3.986,46 | 4.040,90 | 19,6499 | 221,00 |
+| 4.040,91 | 4.084,02 | 19,6518 | 221,00 |
+
+##### Artikel 3
+
+De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=10), zoals zij golden op 1 juli 2020, worden met ingang van 1 januari 2021 verhoogd met 0,29%.
+
+##### Artikel 4
+
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
+
+##### Artikel 5
+
+De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8), zoals zij golden op 1 juli 2020, worden met ingang van 1 januari 2021 verhoogd met 0,29%.
+
+##### Artikel 6
+
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.*
+
+##### Artikel 7
+
+De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=10), zoals zij golden op 1 juli 2020, worden met ingang van 1 januari 2021 verhoogd met 0,29%.
+
+##### Artikel 8
+
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.*
+
+##### Artikel 9
+
+Deze regeling treedt in werking met ingang van 1 januari 2021.

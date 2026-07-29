@@ -61,6 +61,7 @@
     <div class="stats">
       <div><div class="stat-n" id="stat-n">—</div><div class="stat-l">wetten</div></div>
       <div><div class="stat-n" id="stat-datum">—</div><div class="stat-l">laatst bijgewerkt</div></div>
+      <div><div class="stat-n" id="stat-dekking">—</div><div class="stat-l" id="stat-dekking-l">dekking</div></div>
       <div><div class="stat-n">CC0</div><div class="stat-l">open data</div></div>
     </div>
   </div>
@@ -87,6 +88,8 @@
       </div>
       <div class="filter-spacer"></div>
       <div class="sorteer-rij">
+        <button class="sort-btn" type="button" id="toon-vervallen" data-aan="nee"
+                aria-pressed="false" title="Regelingen die zijn ingetrokken of vervallen">Ook vervallen</button>
         <button class="sort-btn actief" type="button" data-sort="az" aria-pressed="true">A–Z</button>
         <button class="sort-btn" type="button" data-sort="nieuw" aria-pressed="false">Nieuwste</button>
       </div>
@@ -144,6 +147,10 @@
 const BATCH = 60;
 let alleWetten = [], gefilterd = [], getoond = BATCH;
 let actieveCat = 'alles', actieveType = 'alles', actieveSort = 'az', query = '';
+// Vervallen en ingetrokken regelingen staan er wel in, maar horen niet in het
+// eerste beeld: wie zoekt wil weten wat vandaag geldt.
+let toonVervallen = false;
+const geldig = w => !/vervallen|ingetrokken|expired|repealed/i.test(w.status || '');
 let zoekData = null, mini = null, zoekKlaar = false, volledigeTekst = false;
 let zoekindexGestart = false;
 let CHANGELOG = null;
@@ -189,6 +196,10 @@ async function init(){
     document.getElementById('stat-datum').textContent = datumVol(datums.reduce((a,b)=>a>b?a:b));
   }
 
+  // Hoe compleet deze spiegel is, gemeten tegen de officiele BWB-lijst.
+  // Een mirror die niet zegt wat hij mist, laat de lezer denken dat hij alles heeft.
+  toonDekking();
+
   leesUrl();
   vulDropdowns();
   const herstel = leesScrollState();
@@ -229,6 +240,28 @@ function renderRadar(){
   el.hidden = false;
 }
 
+// Dekking tegen de officiele BWB-lijst, uit dekking.json (dagelijks vernieuwd).
+// Ontbreekt het bestand, dan blijft het vakje leeg; nooit een verzonnen cijfer.
+async function toonDekking(){
+  const cijfer = document.getElementById('stat-dekking');
+  const label  = document.getElementById('stat-dekking-l');
+  if(!cijfer) return;
+  try {
+    const r = await fetch('dekking.json');
+    if(!r.ok) throw new Error('geen rapport');
+    const d = await r.json();
+    if(typeof d.dekkingsgraad !== 'number') throw new Error('rapport zonder cijfer');
+    cijfer.textContent = (d.dekkingsgraad * 100).toFixed(1).replace('.', ',') + '%';
+    label.textContent = 'van het geldende recht';
+    cijfer.title = `${d.site_geldend.toLocaleString('nl-NL')} van ${d.bwb_geldend.toLocaleString('nl-NL')} `
+                 + `geldende regelingen; ${d.aantal_ontbrekend.toLocaleString('nl-NL')} nog niet opgehaald `
+                 + `(gemeten ${d.gegenereerd})`;
+  } catch(e){
+    cijfer.textContent = '—';
+    label.textContent = 'dekking onbekend';
+  }
+}
+
 // Full-text index pas laden zodra iemand daadwerkelijk gaat zoeken (spaart 7 MB + CPU voor bladeraars)
 function startZoekindex(){ if(zoekindexGestart) return; zoekindexGestart = true; render(); laadZoekindex(); }
 async function laadZoekindex(){
@@ -240,12 +273,15 @@ async function laadZoekindex(){
       'aan bij om door of ook naar uit tot is zijn was bedoeld artikel lid wordt worden ' +
       'over onder ten ter dan wel niet geen').split(' '));
     mini = new MiniSearch({
-      fields: ['titel','body'], idField: 'id',
+      // citeertitel weegt het zwaarst: wie 'Awb' typt zoekt de Algemene wet
+      // bestuursrecht, niet elke wet die de afkorting ergens noemt
+      fields: ['citeertitel','titel','body'], idField: 'id',
       processTerm: term => { const t = vouw(term); return STOPW.has(t) ? null : t; },
-      searchOptions: { boost: {titel: 3}, prefix: true, fuzzy: 0.2, combineWith: 'AND' }
+      searchOptions: { boost: {citeertitel: 6, titel: 3}, prefix: true, fuzzy: 0.2, combineWith: 'AND' }
     });
     const docs = alleWetten.map((w, pos) => ({
-      id: pos, titel: w.titel || '', body: (zoekData[pos] && zoekData[pos].b) || ''
+      id: pos, titel: w.titel || '', citeertitel: w.citeertitel || '',
+      body: (zoekData[pos] && zoekData[pos].b) || ''
     }));
     await mini.addAllAsync(docs, { chunkSize: 500 });
     zoekKlaar = true; window.__zoekKlaar = true;
@@ -276,6 +312,7 @@ const DROPDOWNS = [
 function tellingVoor(veld){
   const t = {};
   for(const w of alleWetten){
+    if(!toonVervallen && !geldig(w)) continue;
     if(veld!=='categorie' && !(actieveCat==='alles' || w.categorie===actieveCat)) continue;
     if(veld!=='type'      && !(actieveType==='alles' || w.type===actieveType)) continue;
     const k = w[veld] || 'Overig'; t[k] = (t[k]||0)+1;
@@ -353,7 +390,8 @@ function zoekBijwerken(v){
 function filterEnToon(){
   const q = query.trim();
   const matchtFilter = w => (actieveCat==='alles' || w.categorie===actieveCat) &&
-                            (actieveType==='alles' || w.type===actieveType);
+                            (actieveType==='alles' || w.type===actieveType) &&
+                            (toonVervallen || geldig(w));
 
   // BWBR-nummer: altijd direct op identifier zoeken, ook nadat de full-text index geladen is
   const compact = q.replace(/\s+/g,'');
@@ -375,19 +413,27 @@ function filterEnToon(){
     volledigeTekst = false;
     const qf = vouw(q);
     gefilterd = alleWetten.filter(w => matchtFilter(w) &&
-      (!qf || vouw(w.titel).includes(qf) || vouw(w.identifier).includes(qf)));
-    if(actieveSort==='nieuw') gefilterd.sort((a,b)=>(b.datum||'').localeCompare(a.datum||''));
-    else gefilterd.sort((a,b)=>(a.titel||'').localeCompare(b.titel||'','nl'));
+      (!qf || vouw(w.titel).includes(qf) || vouw(w.identifier).includes(qf)
+           || (w.citeertitel && vouw(w.citeertitel).includes(qf))));
+    // Wie 'Awb' of 'Grondwet' typt bedoelt die ene wet. Een citeertitel die
+    // met de zoekterm begint gaat daarom voorop, binnen de gekozen sortering.
+    const voorrang = w => qf && vouw(w.citeertitel||'').startsWith(qf) ? 0 : 1;
+    const daarna = actieveSort==='nieuw'
+      ? (a,b) => (b.datum||'').localeCompare(a.datum||'')
+      : (a,b) => (a.titel||'').localeCompare(b.titel||'','nl');
+    gefilterd.sort((a,b) => (voorrang(a) - voorrang(b)) || daarna(a,b));
   }
   render();
 }
 
 function kaartHTML(w){
   return `<a class="wet-kaart" href="wet.html?id=${encodeURIComponent(w.identifier)}">
-    <div class="wet-titel">${esc(w.titel)}</div>
+    <div class="wet-titel">${esc(w.citeertitel || w.titel)}</div>
+    ${w.citeertitel ? `<div class="wet-officieel">${esc(w.titel)}</div>` : ''}
     <div class="wet-sub">
       <span>${esc(w.identifier)}</span>
       ${w.type ? `<span class="wet-cat">${esc(w.type)}</span>` : ''}
+      ${geldig(w) ? '' : `<span class="wet-vervallen">${esc(w.status || 'vervallen')}</span>`}
       ${w.datum ? `<span>· ${leesbareDatum(w.datum)}</span>` : ''}
     </div>
     ${volledigeTekst ? snippet(w) : ''}
@@ -478,7 +524,20 @@ window.addEventListener('pagehide', bewaarScrollState);
 const zoekEl = document.getElementById('zoek-mini');
 zoekEl.addEventListener('input', e => { startZoekindex(); zoekBijwerken(e.target.value); });
 zoekEl.addEventListener('focus', startZoekindex, { once:true });
-document.querySelectorAll('.sort-btn').forEach(b => b.addEventListener('click', () => setSort(b.dataset.sort)));
+document.querySelectorAll('.sort-btn[data-sort]').forEach(b => b.addEventListener('click', () => setSort(b.dataset.sort)));
+
+const knopVervallen = document.getElementById('toon-vervallen');
+if(knopVervallen){
+  knopVervallen.addEventListener('click', () => {
+    toonVervallen = !toonVervallen;
+    knopVervallen.dataset.aan = toonVervallen ? 'ja' : 'nee';
+    knopVervallen.classList.toggle('actief', toonVervallen);
+    knopVervallen.setAttribute('aria-pressed', String(toonVervallen));
+    getoond = BATCH;
+    vulDropdowns();
+    filterEnToon();
+  });
+}
 
 // Filter-dropdowns openen/sluiten
 document.querySelectorAll('.dropdown-knop').forEach(knop => {

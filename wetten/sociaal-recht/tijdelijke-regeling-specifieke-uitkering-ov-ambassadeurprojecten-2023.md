@@ -4,8 +4,9 @@ identifier: "BWBR0047413"
 categorie: "Sociaal recht"
 publicatiedatum: 2023-01-01
 laatste_update: 2023-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0047413"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 oktober 2022, nr. IENW/BSK-2021/66906, houdende regels voor een specifieke uitkering ten behoeve van gemeentelijke OV-ambassadeurprojecten in de periode van 2023–2025 (Tijdelijke regeling specifieke uitkering OV-ambassadeurprojecten 2023)

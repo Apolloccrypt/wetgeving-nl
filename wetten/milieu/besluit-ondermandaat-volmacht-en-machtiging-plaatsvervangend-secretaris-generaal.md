@@ -4,8 +4,9 @@ identifier: "BWBR0041897"
 categorie: "Milieu"
 publicatiedatum: 2025-08-01
 laatste_update: 2026-05-28
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0041897"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 van 4 februari 2019, nr. WJZ/18313389, voor de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019)

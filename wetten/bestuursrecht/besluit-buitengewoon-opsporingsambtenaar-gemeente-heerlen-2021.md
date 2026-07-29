@@ -4,8 +4,9 @@ identifier: "BWBR0044836"
 categorie: "Bestuursrecht"
 publicatiedatum: 2024-06-20
 laatste_update: 2024-06-20
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0044836"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 februari 2021 nr. BOACAT2021/003, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Heerlen

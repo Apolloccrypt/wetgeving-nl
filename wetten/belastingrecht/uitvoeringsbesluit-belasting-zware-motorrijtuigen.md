@@ -4,8 +4,9 @@ identifier: "BWBR0007679"
 categorie: "Belastingrecht"
 publicatiedatum: 2013-01-01
 laatste_update: 2013-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0007679"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 29 november 1995, tot vaststelling van het Uitvoeringsbesluit belasting zware motorrijtuigen

@@ -4,8 +4,9 @@ identifier: "BWBR0052296"
 categorie: "Overig"
 publicatiedatum: 2026-03-23
 laatste_update: 2026-07-21
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052296"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 9 februari 2026, nr. RT-0000129557, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor het behandelen van bonenzaden bestemd voor export naar EU-lidstaten die vrijstelling verleend hebben voor de uitzaai van met Lumiderm VG behandelde bonenzaden (Tijdelijke vrijstelling voor het behandelen van bonenzaden bestemd voor export naar EU-lidstaten, 2026)

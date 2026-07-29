@@ -4,8 +4,9 @@ identifier: "BWBR0050716"
 categorie: "Overig"
 publicatiedatum: 2025-01-30
 laatste_update: 2025-01-30
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0050716"
+gecontroleerd: 2026-07-29
 ---
 
 # Boetebeleid RDI

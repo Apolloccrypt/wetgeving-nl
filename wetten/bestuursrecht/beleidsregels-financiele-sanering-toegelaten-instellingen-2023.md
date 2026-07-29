@@ -5,7 +5,7 @@ country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-01-01"
 last_updated: "2023-01-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0047632"
 soort: "beleidsregel"
 stam_id: "16596563"
@@ -29,6 +29,7 @@ jci_1_3: "jci1.3:c:BWBR0047632&z=2023-01-01&g=2023-01-01"
 jci_1_0: "1.0:c:BWBR0047632&g=2023-01-01"
 citeertitel_status: "officieel"
 entry_into_force: "2023-01-01"
+gecontroleerd: 2026-07-29
 ---
 # Beleidsregels financiële sanering toegelaten instellingen 2023
 

@@ -5,7 +5,7 @@ country: "nl"
 rank: "zbo"
 publication_date: "2026-03-03"
 last_updated: "2026-04-15"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0042208"
 soort: "zbo"
 stam_id: "15072813"
@@ -33,6 +33,7 @@ citeertitel_status: "redactioneel"
 short_title: "Besluit machtiging P-Direkt (Bureau Financieel Toezicht)"
 signed_date: "2019-04-17"
 entry_into_force: "2019-05-16"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de Directeur van het Bureau Financieel Toezicht van 11 december 2018, tot het verlenen van machtiging aan P-Direkt
 

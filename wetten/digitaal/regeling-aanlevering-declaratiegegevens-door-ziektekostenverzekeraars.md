@@ -5,7 +5,7 @@ country: "nl"
 rank: "zbo"
 publication_date: "2024-10-11"
 last_updated: "2024-10-11"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050285"
 soort: "zbo"
 stam_id: "17238413"
@@ -32,6 +32,7 @@ jci_1_0: "1.0:c:BWBR0050285&g=2024-10-11"
 citeertitel_status: "officieel"
 signed_date: "2024-09-24"
 entry_into_force: "2024-10-11"
+gecontroleerd: 2026-07-29
 ---
 # Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars
 

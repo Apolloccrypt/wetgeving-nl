@@ -4,8 +4,9 @@ identifier: "BWBR0052463"
 categorie: "Overig"
 publicatiedatum: 2026-04-13
 laatste_update: 2026-04-14
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052463"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 21 maart 2026, nr. WJZ/105349014, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Geesbrug (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Geesbrug 2026)

@@ -4,8 +4,9 @@ identifier: "BWBR0045807"
 categorie: "Overig"
 publicatiedatum: 2023-10-01
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045807"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 1 november 2021, nr. 3565428, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2021

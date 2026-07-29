@@ -4,8 +4,9 @@ identifier: "BWBR0040568"
 categorie: "Sociaal recht"
 publicatiedatum: 2018-01-31
 laatste_update: 2018-01-31
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0040568"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 januari 2018, 2018-0000002657, tot digitale vervanging archiefbescheiden Ministerie Sociale Zaken en Werkgelegenheid

@@ -4,8 +4,9 @@ identifier: "BWBR0052042"
 categorie: "Overig"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052042"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Raad voor Rechtsbijstand over de voorwaarden tot inschrijving van advocaten 2026 (Inschrijvingsvoorwaarden advocatuur 2026)

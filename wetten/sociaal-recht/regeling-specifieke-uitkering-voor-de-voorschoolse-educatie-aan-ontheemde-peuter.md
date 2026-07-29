@@ -4,8 +4,9 @@ identifier: "BWBR0048019"
 categorie: "Sociaal recht"
 publicatiedatum: 2023-04-01
 laatste_update: 2023-04-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0048019"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 maart 2023, nr. 35151531, houdende regels voor het verstrekken van specifieke uitkeringen voor de voorschoolse educatie aan ontheemde peuters (Regeling specifieke uitkering voor de voorschoolse educatie aan ontheemde peuters)

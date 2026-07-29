@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-29"
 last_updated: "2019-01-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0041843"
 soort: "ministeriele-regeling"
 stam_id: "14961653"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Besluit ondermandaat, volmacht en machtiging voor de directie Europese en Internationale Zaken van het Ministerie van Economische Zaken en Klimaat 2019"
 signed_date: "2019-01-09"
 entry_into_force: "2019-01-29"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de directeur Europese en Internationale Zaken van 9 januari 2019, nr. 19009690, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Europese en Internationale Zaken van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Europese en Internationale Zaken van het Ministerie van Economische Zaken en Klimaat 2019)
 

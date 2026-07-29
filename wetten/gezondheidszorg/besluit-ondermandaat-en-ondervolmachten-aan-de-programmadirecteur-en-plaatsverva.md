@@ -4,8 +4,9 @@ identifier: "BWBR0045511"
 categorie: "Gezondheidszorg"
 publicatiedatum: 2021-09-01
 laatste_update: 2026-07-17
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045511"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 10 augustus 2021, kenmerk 3239331-1013756-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de programmadirecteur en plaatsvervangend Directeur-Generaal van het programma Medische Isotopen

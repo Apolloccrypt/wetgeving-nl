@@ -4,8 +4,9 @@ identifier: "BWBR0040594"
 categorie: "Overig"
 publicatiedatum: 2021-07-08
 laatste_update: 2021-07-08
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0040594"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 25 oktober 2017, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw van nertsenhouderijen (Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij)

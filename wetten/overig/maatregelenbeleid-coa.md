@@ -3,9 +3,10 @@ title: "Maatregelenbeleid COA"
 identifier: "BWBR0052486"
 categorie: "Overig"
 publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
+laatste_update: 2026-07-28
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052486"
+gecontroleerd: 2026-07-29
 ---
 
 # Maatregelenbeleid COA

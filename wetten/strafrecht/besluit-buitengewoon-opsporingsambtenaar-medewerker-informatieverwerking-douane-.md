@@ -4,8 +4,9 @@ identifier: "BWBR0045391"
 categorie: "Overig"
 publicatiedatum: 2021-07-13
 laatste_update: 2026-07-13
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045391"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 juli 2021 nr. BOACAT2021/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Ministerie van Financiën/Douane

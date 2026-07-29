@@ -4,8 +4,9 @@ identifier: "BWBR0045140"
 categorie: "Overig"
 publicatiedatum: 2024-11-27
 laatste_update: 2026-05-25
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045140"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 17 mei 2021 nr. BOACAT2021/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Alkmaar

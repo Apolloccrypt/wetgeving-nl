@@ -4,8 +4,9 @@ identifier: "BWBR0048584"
 categorie: "Overig"
 publicatiedatum: 2023-10-01
 laatste_update: 2023-10-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0048584"
+gecontroleerd: 2026-07-29
 ---
 
 # Kaderbesluit bzm

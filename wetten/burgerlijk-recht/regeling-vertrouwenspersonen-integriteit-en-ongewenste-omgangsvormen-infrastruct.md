@@ -4,8 +4,9 @@ identifier: "BWBR0040783"
 categorie: "Milieu"
 publicatiedatum: 2020-03-07
 laatste_update: 2020-03-07
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0040783"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 27 maart 2018, nr. IENW/BSK-2018/66380, houdende vaststelling van de Regeling vertrouwenspersonen ongewenste omgangsvormen en integriteit in de arbeidsorganisatie Ministerie van Infrastructuur en Waterstaat

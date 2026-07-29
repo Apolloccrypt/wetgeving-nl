@@ -4,8 +4,9 @@ identifier: "BWBR0019826"
 categorie: "Digitaal en privacy"
 publicatiedatum: 2006-05-24
 laatste_update: 2026-05-28
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0019826"
+gecontroleerd: 2026-07-29
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen College Bescherming Persoonsgegevens beleidsterrein Persoonsregistraties vanaf 1989

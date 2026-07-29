@@ -4,8 +4,9 @@ identifier: "BWBR0046496"
 categorie: "Bestuursrecht"
 publicatiedatum: 2022-04-01
 laatste_update: 2026-05-21
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0046496"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 21 februari 2022, nr. IENW/ILT-2022/12059, houdende vaststelling van beleid inzake de kwalificatie van verontreinigd papier-, kunststof- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EG) Nr. 1013/2006 van het Europees Parlement en Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)

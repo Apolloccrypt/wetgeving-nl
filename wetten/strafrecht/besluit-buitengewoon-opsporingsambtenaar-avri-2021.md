@@ -4,8 +4,9 @@ identifier: "BWBR0045474"
 categorie: "Overig"
 publicatiedatum: 2021-07-07
 laatste_update: 2021-07-07
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045474"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 juli 2021 nr. BOACAT2021/20, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Avri

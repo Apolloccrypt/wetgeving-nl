@@ -4,8 +4,9 @@ identifier: "BWBR0045441"
 categorie: "Bestuursrecht"
 publicatiedatum: 2021-07-22
 laatste_update: 2026-07-22
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045441"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 juli 2021 nr. BOACAT2021/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Gouda

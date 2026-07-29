@@ -4,8 +4,9 @@ identifier: "BWBR0049659"
 categorie: "Overig"
 publicatiedatum: 2024-05-04
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049659"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 1 mei 2024, nr. OA2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: open aanvraag 2024–2026

@@ -4,8 +4,9 @@ identifier: "BWBR0049672"
 categorie: "Overig"
 publicatiedatum: 2024-05-07
 laatste_update: 2024-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049672"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit houdende verlening van mandaat en machtiging in het kader van beperkingengebieden militaire luchthavens en radarverstoringsgebieden 2024 (Mandaat- en machtigingsbesluit beperkingengebieden militaire luchthavens en radarverstoringsgebieden 2024)

@@ -4,8 +4,9 @@ identifier: "BWBR0041829"
 categorie: "Milieu"
 publicatiedatum: 2024-04-24
 laatste_update: 2024-04-24
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0041829"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat van 9 januari 2019, nr. 19008305, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019)
