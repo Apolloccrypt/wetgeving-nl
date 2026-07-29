@@ -128,6 +128,17 @@ def run(page_factory):
     check("wet: mobiele inhoudsopgave ingeklapt", open_attr is None)
     page.close()
 
+    # ---------- DEKKING ZICHTBAAR ----------
+    page = page_factory()
+    page.goto(BASE + "/index.html", wait_until="networkidle")
+    page.wait_for_timeout(600)
+    dek = page.inner_text("#stat-dekking")
+    check("dekking: percentage staat op de homepage", dek.strip().endswith("%"), dek)
+    titel = page.get_attribute("#stat-dekking", "title") or ""
+    check("dekking: toelichting noemt het aantal ontbrekende regelingen",
+          "geldende regelingen" in titel, titel[:70])
+    page.close()
+
     # ---------- CITEERTITEL ----------
     # Mensen zoeken op "Grondwet" of "Awb", niet op "Wet van 21 april 1994,
     # houdende vervanging van de Wegenverkeerswet". Zonder citeertitel in de
