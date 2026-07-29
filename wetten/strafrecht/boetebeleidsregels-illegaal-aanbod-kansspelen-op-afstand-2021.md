@@ -1,29 +1,33 @@
 ---
-title: "Boetebeleidsregels illegaal aanbod kansspelen op afstand 2021"
+title: "Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit"
+citeertitel: "Boetebeleidsregels illegaal aanbod kansspelen op afstand 2021"
 identifier: "BWBR0045639"
-categorie: "Overig"
+categorie: "Bestuursrecht"
+soort: "zbo"
 publicatiedatum: 2021-10-01
-laatste_update: 2026-07-28
+laatste_update: 2021-10-01
 status: vervallen
+vervallen_op: 2026-07-23
+toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0045639"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-07-29
 ---
 
 # Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit
 
 Kansspelautoriteit
 
-1 oktober 2021
+1 oktober 2021
 
 ### 1. Inleiding
 
-De boetebeleidsregels, laatstelijk herzien op 1 maart 2019, worden per 1 oktober 2021 geactualiseerd. Deze actualisering heeft te maken met de [wet Kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) (wet Koa), die per 1 april 2021 in werking is getreden.
+De boetebeleidsregels, laatstelijk herzien op 1 maart 2019, worden per 1 oktober 2021 geactualiseerd. Deze actualisering heeft te maken met de [wet Kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) (wet Koa), die per 1 april 2021 in werking is getreden.
 
-Deze geactualiseerde boetebeleidsregels gelden voor zaken die in nader onderzoek worden genomen op of na 1 oktober 2021.
+Deze geactualiseerde boetebeleidsregels gelden voor zaken die in nader onderzoek worden genomen op of na 1 oktober 2021.
 
 De doelstellingen van het kansspelbeleid zijn het beschermen van de speler, het voorkomen van kansspelverslaving en de bestrijding van illegaliteit en criminaliteit.
 
-De inwerkingtreding van de [wet Koa](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) op 1 april 2021 heeft vergunningverlening voor het aanbieden van kansspelen online mogelijk gemaakt. Bedrijven kunnen een vergunning aanvragen voor het aanbieden van online kansspelen. De Kansspelautoriteit zal handhavend optreden tegen het resterende illegale aanbod. Onduidelijk is immers of de aanbieders van dergelijke kansspelen voldoende betrouwbaar zijn en of zij de speler voldoende beschermen. Deze situatie is bijzonder onwenselijk.
+De inwerkingtreding van de [wet Koa](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) op 1 april 2021 heeft vergunningverlening voor het aanbieden van kansspelen online mogelijk gemaakt. Bedrijven kunnen een vergunning aanvragen voor het aanbieden van online kansspelen. De Kansspelautoriteit zal handhavend optreden tegen het resterende illegale aanbod. Onduidelijk is immers of de aanbieders van dergelijke kansspelen voldoende betrouwbaar zijn en of zij de speler voldoende beschermen. Deze situatie is bijzonder onwenselijk.
 
 ### 2. Reikwijdte van deze boetebeleidsregels
 
@@ -37,11 +41,15 @@ In deze boetebeleidsregels is opgenomen hoe de raad van bestuur van de Kansspela
 
 De boete bestaat uit een basisboete. De basisboete wordt verhoogd indien zich boeteverhogende omstandigheden voordoen. Wat wordt verstaan onder boeteverhogende omstandigheden wordt verderop nader uitgewerkt, alsmede met welk bedrag of met welk percentage de basisboete dan wordt verhoogd.
 
-De vastgestelde boete wordt naar beneden afgerond op een veelvoud van € 1.000,–.
+De vastgestelde boete wordt naar beneden afgerond op een veelvoud van € 1.000,–.
 
 ### 4. De wijze van berekening van de boete
 
 Hoe de boete wordt berekend, is afhankelijk van de omzet van de overtreder:
+
+- a. als de omzet van de overtreder minder is dan 15 miljoen euro, wordt de boete berekend aan de hand van vaste bedragen;
+
+- b. als de omzet van de overtreder gelijk is aan of meer is dan 15 miljoen euro, wordt de boete berekend aan de hand van de omzet.
 
 Het begrip ‘omzet’ ([artikel 2:377, zesde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377)) is in de kansspelwereld geen gangbaar begrip: veel gebruikelijker is de term bruto spelresultaat (BSR). Daar komt bij dat de term omzet voor de verschillende segmenten binnen kansspelen op verschillende manieren worden geïnterpreteerd. Om alle segmenten gelijk te behandelen hanteert de Kansspelautoriteit de volgende definitie als omzet: de som van alle inzetten/inleggen. Op basis van deze definitie wordt de vraag beantwoord of een overtreder meer of minder dan 15 miljoen euro omzet heeft.
 
@@ -51,7 +59,7 @@ Bij schatting of berekening van de omzet gaat de Kansspelautoriteit in eerste in
 
 ### 4.1. Omzet minder dan 15 miljoen euro
 
-De basisboete is € 600.000,–. Dit bedrag wordt verhoogd in het geval van het zich voordoen van boeteverhogende omstandigheden.
+De basisboete is € 600.000,–. Dit bedrag wordt verhoogd in het geval van het zich voordoen van boeteverhogende omstandigheden.
 
 ### 4.2. Omzet gelijk aan of meer dan 15 miljoen euro
 
@@ -59,18 +67,34 @@ De basisboete is gelijk aan 4% van de omzet. Dit percentage wordt verhoogd in he
 
 ### 5. Boeteverhogende omstandigheden
 
-De basisboete wordt verhoogd indien onderstaande boeteverhogende omstandigheden zich voordoen. Per omstandigheid wordt vermeld welk vast bedrag er bij de basisboete van € 600.000,– komt, dan wel hoeveel procentpunten er bij de basisboete van 4% van de omzet worden geteld. De lijst is niet limitatief: ook andere, op dit moment nog niet voorziene, omstandigheden kunnen tot een verhoging leiden.
+De basisboete wordt verhoogd indien onderstaande boeteverhogende omstandigheden zich voordoen. Per omstandigheid wordt vermeld welk vast bedrag er bij de basisboete van € 600.000,– komt, dan wel hoeveel procentpunten er bij de basisboete van 4% van de omzet worden geteld. De lijst is niet limitatief: ook andere, op dit moment nog niet voorziene, omstandigheden kunnen tot een verhoging leiden.
 
 De Kansspelautoriteit hanteert de volgende boeteverhogende omstandigheden:
+
+|  | Omschrijving | Vast bedrag | Procentpunt |
+| --- | --- | --- | --- |
+| A | Gerichtheid op minderjarigen of andere kwetsbare groepen | € 150.000,– | 1 |
+| B | Aanbod verboden spellen/weddenschappen | € 150.000,– | 1 |
+| C | Inactiviteitskosten | € 75.000,– | 0,5 |
+| D | Onjuiste of irrelevante mededelingen over vergunningen | € 75.000,– | 0,5 |
+| E | De voorwaarden van de prijzen | € 75.000,– | 0,5 |
+| F | De hoogte en manier van stortingen | € 75.000,– | 0,5 |
+| G | Autoplay en/of turboplay | € 75.000,– | 0,5 |
+| H | Ontbreken informatie verslavingspreventie | € 75.000,– | 0,5 |
+| I | Ontbreken speellimieten of vooringevulde speellimieten | € 75.000,– | 0,5 |
+| J | Ontbreken leeftijdsverificatie | € 75.000,– | 0,5 |
+| K | Aanbod via een mobiele applicatie | € 75.000,– | 0,5 |
+| L | Duaal karakter | € 75.000,– | 0,5 |
+| M | Bijzondere omstandigheden | – | – |
 
 In aanvulling hierop hanteert de Kansspelautoriteit de volgende boeteverhogende omstandigheid:
 
 In geval van recidive verhoogt de Kansspelautoriteit de bestuurlijke boete (inclusief verhogende omstandigheden) met 100%, tenzij dit percentage gezien de omstandigheden van het concrete geval evident onredelijk is.
 
+Bestuurders
+
 De Kansspelautoriteit zal waar mogelijk en nodig natuurlijke of rechtspersonen beboeten indien zij feitelijk leiding hebben gegeven aan de overtreding van [artikel 1, eerste lid, onder a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1). Indien de Kansspelautoriteit een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, wordt er rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de organisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was
 
 ### 6. Slotbepalingen
 
-Deze beleidsregels treden in werking per 1 oktober 2021. Van de vaststelling van de beleidsregels zal mededeling worden gedaan in de Staatscourant.
-
-Deze beleidsregels kunnen worden aangehaald als ‘Boetebeleidsregels illegaal aanbod kansspelen op afstand 2021’.
+Deze beleidsregels treden in werking per 1 oktober 2021. Van de vaststelling van de beleidsregels zal mededeling worden gedaan in de Staatscourant.
