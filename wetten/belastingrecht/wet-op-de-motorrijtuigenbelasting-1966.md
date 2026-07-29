@@ -1,44 +1,18 @@
 ---
 title: "Wet van 21 juli 1966, houdende vervanging van de Motorrijtuigenbelastingwet (Stb. 1926, 464) door een nieuwe wettelijke regeling"
+citeertitel: "Wet op de motorrijtuigenbelasting 1966"
 identifier: "BWBR0002534"
-country: "nl"
-rank: "wet"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002534"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1291733"
-version_id: "1924722"
-internal_id: "C1924721"
-label_id: "1251464"
-dtd_version: "2.0"
-original_entry_into_force: "1966-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002534/1995-01-01/0"
-intitule_bron: "Stb.1966-332"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1966-07-21"
-intitule_status: "goed"
-original_publication: "Stb.1966-332"
-original_signed_date: "1966-07-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "8445"
-entry_into_force_date: "1966-10-01"
-entry_into_force_dossier: "8445"
-jci_1_3: "jci1.3:c:BWBR0002534&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0002534&g=1995-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de motorrijtuigenbelasting 1966"
-signed_date: "1966-07-21"
-entry_into_force: "1966-10-01"
+publicatiedatum: 1966-10-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0002534"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 21 juli 1966, houdende vervanging van de Motorrijtuigenbelastingwet (Stb. 1926, 464) door een nieuwe wettelijke regeling
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wetgeving betreffende de motorrijtuigenbelasting aan te passen aan de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) en voorts op enkele punten te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Belastbaar feit
 
@@ -50,7 +24,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 - b. met een motorrijtuig dat op de voet van [artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) wordt aangemerkt als een personenauto;
 
-- c. met een ander motorrijtuig dan is bedoeld onder letter **a** of **b**, door daarmede op de weg te rijden.
+- c. met een ander motorrijtuig dan is bedoeld onder letter *a* of *b*, door daarmede op de weg te rijden.
 
 ##### Artikel 2
 
@@ -80,13 +54,13 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 1. De belasting bedraagt over een tijdvak van twaalf maanden:
 
-| **a.** voor een motorrijtuig op twee wielen, met een eigen gewicht van |   |
+| a. voor een motorrijtuig op twee wielen, met een eigen gewicht van |  |
 | --- | --- |
 | niet meer dan 60 kilogram | f 31 |
 | meer dan 60 doch niet meer dan 120 kilogram | f 62 |
 | meer dan 120 doch niet meer dan 200 kilogram | f 92 |
 | meer dan 20 kilogram | f 109; |
-| **b.** voor een motorrijtuig als bedoeld in artikel 1, onderdeel **b**, met een eigen gewicht van niet meer dan 200 kilogram | f 93 |
+| b. voor een motorrijtuig als bedoeld in artikel 1, onderdeel b, met een eigen gewicht van niet meer dan 200 kilogram | f 93 |
 | meer dan 200 doch niet meer dan 500 kilogram | f 112 |
 | 600 kilogram | f 137 |
 | 700 kilogram | f 164 |
@@ -95,14 +69,14 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 | 1000 kilogram | f 388 |
 | meer dan 100 kilogram | f 388 |
 | benevens per 100 kilogram eigen gewicht boven 1000 kilogram | f 103; |
-| **c.** voor een motorrijtuig op drie of meer wielen, ingericht voor personenvervoer en wel voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen | f 26 |
+| c. voor een motorrijtuig op drie of meer wielen, ingericht voor personenvervoer en wel voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen | f 26 |
 | benevens per 100 kilogram eigen gewicht boven 1000 kilogram | f 10; |
-| **d.** voor een ander motorrijtuig met een eigen gewicht van |   |
+| d. voor een ander motorrijtuig met een eigen gewicht van |  |
 | 1°. niet meer dan 120 kilogram . | f 4 |
 | meer dan 120 doch niet meer dan 200 kilogram | f 14 |
 | meer dan 200 doch niet meer dan 500 kilogram | f 32 |
 | meer dan 500 doch niet meer dan 1000 kilogram, per 100 kilogram eigen gewicht | f 10 |
-| verminderd met f 18; |   |
+| verminderd met f 18; |  |
 | 2°. meer dan 1000 doch niet meer dan 2000 kilogram | f 82 |
 | benevens per 100 kilogram eigen gewicht boven 1000 kilogram | f 10; |
 | 3°. meer dan 2000 doch niet meer dan 3000 kilogram | f 182 |
@@ -116,11 +90,11 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 | 7°. meer dan 6000 | f 582 |
 | benevens per 100 kilogram eigen gewicht boven 6000 kilogram | f 10. |
 
-2. De belasting voor een motorrijtuig op drie of meer wielen, dat verbonden is met één of meer dan één rij- of voertuig, niet zijnde een motorrijtuig of een kampeeraanhangwagen, wordt voor elk van die rij- of voertuigen vermeerderd met de som van f 18 en het bedrag dat voor elk van die rij- of voertuigen zou zijn verschuldigd, indien dit als een motorrijtuig op drie of meer wielen werd aangemerkt, met dien verstande dat in geval van toepassing van het eerste lid, letter **d**, ten aanzien van een rij- of voertuig met een eigen gewicht van niet meer dan 500 kilogram, de vermeerdering f 10 per 100 kilogram bedraagt.
+2. De belasting voor een motorrijtuig op drie of meer wielen, dat verbonden is met één of meer dan één rij- of voertuig, niet zijnde een motorrijtuig of een kampeeraanhangwagen, wordt voor elk van die rij- of voertuigen vermeerderd met de som van f 18 en het bedrag dat voor elk van die rij- of voertuigen zou zijn verschuldigd, indien dit als een motorrijtuig op drie of meer wielen werd aangemerkt, met dien verstande dat in geval van toepassing van het eerste lid, letter *d*, ten aanzien van een rij- of voertuig met een eigen gewicht van niet meer dan 500 kilogram, de vermeerdering f 10 per 100 kilogram bedraagt.
 
 3. De belasting voor een motorrijtuig op drie of meer wielen dat is verbonden met een kampeeraanhangwagen wordt voor die kampeeraanhangwagen vermeerderd met f 47 per 100 kilogram eigen gewicht van de kampeeraanhangwagen.
 
-4. Onder eigen gewicht wordt verstaan het gewicht van het rij- of voertuig in bedrijfsvaardige staat, met inbegrip van de bedrijfsstoffen, reservedelen en gereedschappen, welke tot de normale uitrusting behoren. Indien een motorrijtuig als bedoeld in het eerste lid, letter **b**, of een motorrijtuig als bedoeld in het eerste lid, letter **d**, met een toegestane maximum massa van 3500 kilogram of minder, is voorzien van een installatie voor het verplaatsen of vastzetten van een rolstoel, wordt onder bij algemene maatregel van bestuur te stellen voorwaarden, op verzoek het gewicht van die installatie niet meegerekend bij het vaststellen van het eigen gewicht van het motorrijtuig.
+4. Onder eigen gewicht wordt verstaan het gewicht van het rij- of voertuig in bedrijfsvaardige staat, met inbegrip van de bedrijfsstoffen, reservedelen en gereedschappen, welke tot de normale uitrusting behoren. Indien een motorrijtuig als bedoeld in het eerste lid, letter *b*, of een motorrijtuig als bedoeld in het eerste lid, letter *d*, met een toegestane maximum massa van 3500 kilogram of minder, is voorzien van een installatie voor het verplaatsen of vastzetten van een rolstoel, wordt onder bij algemene maatregel van bestuur te stellen voorwaarden, op verzoek het gewicht van die installatie niet meegerekend bij het vaststellen van het eigen gewicht van het motorrijtuig.
 
 5. Voor de toepassing van het eerste lid wordt, behoudens waar een gewichtsgrens van 60 of 120 kilogram is genoemd, het eigen gewicht van het motorrijtuig afgerond tot het naaste honderdtal kilogrammen, met dien verstande dat 50 kilogram naar beneden wordt afgerond.
 
@@ -128,13 +102,13 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 ##### Artikel 6
 
-1. Voor een in [artikel 5, eerste lid, letter **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door:
+1. Voor een in [artikel 5, eerste lid, letter *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door:
 
-- a. een kracht welke wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdeel **b**, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) (**Stb.** 1991, 561) wordt de op de voet van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), berekende belasting vermeerderd met f 350, alsmede met f 69 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), wordt vermeerderd met f 39 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 44 per 100 kilogram eigen gewicht boven 1000 kilogram.
+- a. een kracht welke wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdeel *b*, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) (*Stb.* 1991, 561) wordt de op de voet van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), berekende belasting vermeerderd met f 350, alsmede met f 69 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), wordt vermeerderd met f 39 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 44 per 100 kilogram eigen gewicht boven 1000 kilogram.
 
-- b. een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdelen **a** of **b**, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), wordt op de voet van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), berekende belasting vermeerderd met f 538, alsmede met f 91 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), wordt vermeerderd met f 46 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 52 per 100 kilogram eigen gewicht boven 1000 kilogram.
+- b. een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdelen *a* of *b*, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), wordt op de voet van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), berekende belasting vermeerderd met f 538, alsmede met f 91 per 100 kilogram eigen gewicht boven 500 kilogram. De vermeerdering van belasting bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), wordt vermeerderd met f 46 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 52 per 100 kilogram eigen gewicht boven 1000 kilogram.
 
-2. Voor een in [artikel 5, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdelen **a** of **b**, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), wordt de op de voet van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), berekende belasting vermeerderd met f 155, alsmede met f 31 per 100 kilogram eigen gewicht boven 500 kilogram tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram. De vermeerdering van belasting bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), wordt vermeerderd met f 31 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram.
+2. Voor een in [artikel 5, eerste lid, onder *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan minerale oliën als zijn bedoeld in [artikel 27, eerste lid, onderdelen *a* of *b*, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), wordt de op de voet van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), berekende belasting vermeerderd met f 155, alsmede met f 31 per 100 kilogram eigen gewicht boven 500 kilogram tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram. De vermeerdering van belasting bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), wordt vermeerderd met f 31 per 100 kilogram eigen gewicht tot en met 1000 kilogram en met f 34 per 100 kilogram eigen gewicht boven 1000 kilogram.
 
 3. Onder de in het eerste en tweede lid bedoelde minerale oliën worden begrepen mengsels van de minerale oliën met hiertoe door Onze Minister, al dan niet voorwaardelijk, aangewezen stoffen.
 
@@ -142,11 +116,11 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 1. Ingeval krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=I&artikel=3&z=1995-01-01&g=1995-01-01), de belasting niet voor ieder motorrijtuig afzonderlijk wordt geheven, bedraagt de belasting over een tijdvak van twaalf maanden:
 
-| **a.** voor motorrijtuigen op twee wielen | f 77; |
+| a. voor motorrijtuigen op twee wielen | f 77; |
 | --- | --- |
-| **b.** voor een motorrijtuig als bedoeld in artikel 1, onderdeel **b**, | f 388; |
-| **c.** voor motorrijtuigen op drie of meer wielen, ingericht voor personenvervoer en wel voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen | f 103; |
-| **d.** voor andere motorrijtuigen | f 145. |
+| b. voor een motorrijtuig als bedoeld in artikel 1, onderdeel b, | f 388; |
+| c. voor motorrijtuigen op drie of meer wielen, ingericht voor personenvervoer en wel voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen | f 103; |
+| d. voor andere motorrijtuigen | f 145. |
 
 2. Wordt met twee of meer motorrijtuigen gelijktijdig de weg gebruikt, dan wordt het in het eerste lid omschreven tarief toegepast op elk van die motorrijtuigen.
 
@@ -186,7 +160,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 - h. motorrijtuigen, ingericht en uitsluitend gebezigd als rijdend uitleenbureau van boeken en tijdschriften en gehouden door lichamen, welker werkzaamheid uitsluitend of nagenoeg uitsluitend bestaat uit het in stand houden van openbare leeszalen en bibliotheken;
 
-- i. een motorrijtuig op drie of meer wielen, ingericht voor personenvervoer en wel voor het vervoer van niet meer dan acht personen, de bestuurder daaronder niet begrepen, dat blijkens een ingevolge de Wet personenvervoer ( **Stb.** 1987, 175) afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, is bestemd om openbaar vervoer of taxivervoer te verrichten en uitsluitend daarvoor wordt gebezigd;
+- i. een motorrijtuig op drie of meer wielen, ingericht voor personenvervoer en wel voor het vervoer van niet meer dan acht personen, de bestuurder daaronder niet begrepen, dat blijkens een ingevolge de Wet personenvervoer ( *Stb.* 1987, 175) afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, is bestemd om openbaar vervoer of taxivervoer te verrichten en uitsluitend daarvoor wordt gebezigd;
 
 - j. motorrijtuigen die zijn verbonden met een rij- of voertuig, niet zijnde een motorrijtuig, dat een eigen gewicht heeft van niet meer dan 450 kilogram, voor dat deel van de belasting dat ter zake van het verbonden zijn met dat rij- of voertuig wordt geheven.
 
@@ -206,7 +180,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 ##### Artikel 11
 
-Onze Minister kan omtrent de aangifte regelen geven welke afwijken van [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) (**Stb.** 1959, 301).
+Onze Minister kan omtrent de aangifte regelen geven welke afwijken van [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) (*Stb.* 1959, 301).
 
 ##### Artikel 12
 
@@ -222,13 +196,13 @@ Wij behouden Ons voor bij algemene maatregel van bestuur, ter verzekering van de
 
 1. Teruggaaf wordt slechts verleend van belasting, betaald:
 
-- a. voor motorrijtuigen als zijn bedoeld in [artikel 5, eerste lid, letters **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), over de op het tijdstip van een daartoe strekkend verzoek nog niet ingetreden maanden van het tijdvak;
+- a. voor motorrijtuigen als zijn bedoeld in [artikel 5, eerste lid, letters *a* en *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), over de op het tijdstip van een daartoe strekkend verzoek nog niet ingetreden maanden van het tijdvak;
 
-- b. voor motorrijtuigen als zijn bedoeld in [artikel 5, eerste lid, letters **d** en **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), over de op het tijdstip van een daartoe strekkend verzoek nog niet ingetreden halve maanden van het tijdvak.
+- b. voor motorrijtuigen als zijn bedoeld in [artikel 5, eerste lid, letters *d* en *e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), over de op het tijdstip van een daartoe strekkend verzoek nog niet ingetreden halve maanden van het tijdvak.
 
 Onder een halve maand wordt verstaan een periode van de eerste tot en met de vijftiende dan wel van de zestiende tot en met de laatste dag van een kalendermaand.
 
-2. Het in [artikel 8, tweede lid, letter **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=8&z=1995-01-01&g=1995-01-01), genoemde bedrag van f 2 komt niet voor teruggaaf in aanmerking. Op de teruggaaf van belasting, betaald over een tijdvak van twaalf maanden, wordt een bedrag van f 2 in mindering gebracht.
+2. Het in [artikel 8, tweede lid, letter *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=8&z=1995-01-01&g=1995-01-01), genoemde bedrag van f 2 komt niet voor teruggaaf in aanmerking. Op de teruggaaf van belasting, betaald over een tijdvak van twaalf maanden, wordt een bedrag van f 2 in mindering gebracht.
 
 3. Het verzoek geschiedt bij een aangifte waarvan Onze Minister het formulier vaststelt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -260,17 +234,17 @@ Onder een halve maand wordt verstaan een periode van de eerste tot en met de vij
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
 ##### Artikel 20
 
-Behoudens wettige bevoegdheid tot heffing van tol, de bevoegdheid van de provincies ingevolge de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) tot het heffen van opcenten op de motorrijtuigenbelasting en de bevoegdheid van de gemeenten ingevolge de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) (**Stb.** 1992, 96) tot het heffen van parkeerbelastingen, wordt terzake van het gebruik van de weg met motorrijtuigen geen belasting geheven door andere publiekrechtelijke lichamen dan het Rijk.
+Behoudens wettige bevoegdheid tot heffing van tol, de bevoegdheid van de provincies ingevolge de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) tot het heffen van opcenten op de motorrijtuigenbelasting en de bevoegdheid van de gemeenten ingevolge de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) (*Stb.* 1992, 96) tot het heffen van parkeerbelastingen, wordt terzake van het gebruik van de weg met motorrijtuigen geen belasting geheven door andere publiekrechtelijke lichamen dan het Rijk.
 
 ##### Artikel 20a
 
@@ -278,19 +252,19 @@ Onze Minister kan bij de berekening van de belasting, van de vermeerdering daarv
 
 ##### Artikel 21
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 22
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 23
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 24
 
-1. De Motorrijtuigenbelastingwet (**Stb.** 1926, 464) wordt ingetrokken.
+1. De Motorrijtuigenbelastingwet (*Stb.* 1926, 464) wordt ingetrokken.
 
 2. De bepalingen van de Motorrijtuigenbelastingwet, daaronder begrepen die betreffende de invordering van niet betaalde belasting, blijven van toepassing ten aanzien van strafbare feiten welke zijn begaan vóór het tijdstip waarop deze wet geheel in werking treedt.
 
@@ -298,12 +272,10 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 25
 
-Zolang [artikel 4 van het Reglement verkeersregels en verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=4) (**Stb.** 1966, 181) niet in werking is getreden, wordt in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=I&artikel=2&z=1995-01-01&g=1995-01-01), voor "bromfiets" gelezen: rijwiel met hulpmotor.
+Zolang [artikel 4 van het Reglement verkeersregels en verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=4) (*Stb.* 1966, 181) niet in werking is getreden, wordt in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=I&artikel=2&z=1995-01-01&g=1995-01-01), voor "bromfiets" gelezen: rijwiel met hulpmotor.
 
 ##### Artikel 26
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
-2. Deze wet kan worden aangehaald als Wet op de motorrijtuigenbelasting, met vermelding van het jaar waarin zij in het **Staatsblad** wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. Deze wet kan worden aangehaald als [Wet op de motorrijtuigenbelasting](https://wetten.overheid.nl/BWBR0002534), met vermelding van het jaar waarin zij in het *Staatsblad* wordt geplaatst.

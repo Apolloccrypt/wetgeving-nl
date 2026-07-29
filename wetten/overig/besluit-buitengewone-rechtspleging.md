@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 22 december 1943, houdende vaststelling van het Besluit Buitengewone Rechtspleging"
+citeertitel: "Besluit Buitengewone Rechtspleging"
 identifier: "BWBR0002008"
-country: "nl"
-rank: "kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002008"
+categorie: "Overig"
 soort: "KB"
-stam_id: "301993"
-version_id: "439792"
-internal_id: "C439791"
-label_id: "296774"
-dtd_version: "2.0"
-original_entry_into_force: "1944-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002008/2020-01-01/0"
-intitule_bron: "Stb.1943-D 63"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1943-12-22"
-intitule_status: "goed"
-original_publication: "Stb.1943-D 63"
-original_signed_date: "1943-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1944-09-04"
-jci_1_3: "jci1.3:c:BWBR0002008&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002008&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Buitengewone Rechtspleging"
-signed_date: "1943-12-22"
-entry_into_force: "1944-09-04"
+publicatiedatum: 1944-09-04
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002008"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 22 december 1943, houdende vaststelling van het Besluit Buitengewone Rechtspleging
-
-Op de voordracht van Onze Ministers voor Algemeene Oorlogvoering van het Koninkrijk, van Algemeene Zaken, van Buitenlandsche Zaken, van Justitie, van Binnenlandsche Zaken, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart, van Landbouw en Visscherij, van Sociale Zaken, van Koloniën en van Onze Ministers zonder Portefeuille van 10 December 1943, N°. 2724/G. 92 (**a**);
-
-Overwegende, dat de veiligheid van den Staat het dringend noodzakelijk maakt bijzondere bepalingen vast te stellen betreffende de wijze van rechtspleging in zaken, waarvan de kennisneming aan de ingevolge het [Besluit op de Bijzondere Gerechtshoven](https://wetten.overheid.nl/jci1.3:c:BWBR0002007) in te stellen gerechten behoort;
-
-Den Buitengewonen Raad van Advies gehoord;
-
-Hebben goedgevonden en verstaan:
 
 #### Inleiding
 
@@ -114,7 +88,7 @@ De toegevoegde raadsman heeft terzake van zijn verrichtingen recht op een toelag
 
 ##### Artikel 12
 
-1. De officier van justitie heeft gelijke bevoegdheden en verplichtingen als bij de bepalingen van den Vierden Titel van het [Eerste Boek van het Wetboek van Strafvordering](onbekend) aan den hulpofficier van justitie zijn toegekend en opgelegd.
+1. De officier van justitie heeft gelijke bevoegdheden en verplichtingen als bij de bepalingen van den Vierden Titel van het Eerste Boek van het Wetboek van Strafvordering aan den hulpofficier van justitie zijn toegekend en opgelegd.
 
 2. In de gevallen, waarin bij die bepalingen aan den hulpofficier een bevoegdheid is toegekend, omdat het optreden van den procureur-fiscaal niet kan worden afgewacht, wordt deze bevoegdheid uitgeoefend door den officier van justitie en door een hulpofficier alleen dan, als ook het optreden van den officier van justitie niet kan worden afgewacht.
 
@@ -192,7 +166,7 @@ De officier van justitie heeft gelijke verplichtingen en bevoegdheden als bij de
 
 ##### Artikel 27
 
-In afwijking van [artikel 59 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59) (**Stb.** 1972, 463) worden de raadsheren-commissarissen door de president van het Bijzondere Gerechtshof uit de rechtsgeleerde leden van zijn college benoemd. Het bepaalde in [artikel 11, tweede en derde lid, van het Besluit op de Bijzondere Gerechtshoven](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=11) is daarbij van overeenkomstige toepassing.
+In afwijking van [artikel 59 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59) (*Stb.* 1972, 463) worden de raadsheren-commissarissen door de president van het Bijzondere Gerechtshof uit de rechtsgeleerde leden van zijn college benoemd. Het bepaalde in [artikel 11, tweede en derde lid, van het Besluit op de Bijzondere Gerechtshoven](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=11) is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 28
 
@@ -236,7 +210,7 @@ In afwijking van het bepaalde in [artikel 319](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 33
 
-Al hetgeen in de tweede afdeeling van den Zesden Titel van het [Tweede Boek van het Wetboek van Strafvordering](onbekend) en elders in dat Wetboek met betrekking tot de beleedigde partij is bepaald, blijft buiten toepassing.
+Al hetgeen in de tweede afdeeling van den Zesden Titel van het Tweede Boek van het Wetboek van Strafvordering en elders in dat Wetboek met betrekking tot de beleedigde partij is bepaald, blijft buiten toepassing.
 
 ##### Artikel 34
 
@@ -414,11 +388,11 @@ Het bepaalde in [artikel 6:2:3 van het Wetboek van Strafvordering](https://wette
 
 ##### Artikel 48
 
-De persoon, die tot de doodstraf is veroordeeld, wordt, zoodra die veroordeeling uitvoerbaar is, ter uitvoerlegging van de sententie of het arrest op de wijze als is bepaald in Ons besluit van 26 April 1922 (**Staatsblad** No. 228), overgegeven aan den officier, die het bevel voert ter plaatse in den last van tenuitvoerlegging daarvoor aan te wijzen.
+De persoon, die tot de doodstraf is veroordeeld, wordt, zoodra die veroordeeling uitvoerbaar is, ter uitvoerlegging van de sententie of het arrest op de wijze als is bepaald in Ons besluit van 26 April 1922 (*Staatsblad* No. 228), overgegeven aan den officier, die het bevel voert ter plaatse in den last van tenuitvoerlegging daarvoor aan te wijzen.
 
 ##### Artikel 49
 
-Ten aanzien van de kosten in zaken, waarvan de kennisneming aan de Bijzondere Gerechtshoven of den Bijzonderen Raad van Cassatie behoort, zijn mede van overeenkomstige toepassing, met inachtneming van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2020-01-01&g=2020-01-01) van dit besluit [onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2020-01-01&g=2020-01-01)., [2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2020-01-01&g=2020-01-01). en 3°. gestelde, de bepalingen der wet van 18 April 1874 (**Staatsblad** N°. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de voorschriften tot uitvoering daarvan.
+Ten aanzien van de kosten in zaken, waarvan de kennisneming aan de Bijzondere Gerechtshoven of den Bijzonderen Raad van Cassatie behoort, zijn mede van overeenkomstige toepassing, met inachtneming van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2020-01-01&g=2020-01-01) van dit besluit [onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2020-01-01&g=2020-01-01)., [2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2020-01-01&g=2020-01-01). en 3°. gestelde, de bepalingen der wet van 18 April 1874 (*Staatsblad* N°. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de voorschriften tot uitvoering daarvan.
 
 #### Slotbepaling
 
@@ -427,5 +401,3 @@ Ten aanzien van de kosten in zaken, waarvan de kennisneming aan de Bijzondere Ge
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den dag zijner afkondiging.
 
 2. Het kan worden aangehaald onder den titel: Besluit Buitengewone Rechtspleging.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Wet van 25 juli 1871, houdende regeling van de bevoegdheid der consulaire ambtenaren tot het opmaken van burgerlijke akten, en van de consulaire regtsmagt"
+citeertitel: "Consulaire Wet"
 identifier: "BWBR0001847"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001847"
+categorie: "Burgerlijk recht"
 soort: "rijkswet"
-stam_id: "1268373"
-version_id: "1882392"
-internal_id: "C1882391"
-label_id: "1228314"
-dtd_version: "2.0"
-original_entry_into_force: "1873-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001847/2020-01-01/0"
-intitule_bron: "Stb.1871-91"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1871-07-25"
-intitule_status: "goed"
-original_publication: "Stb.1871-91"
-original_signed_date: "1871-07-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1873-01-01"
-jci_1_3: "jci1.3:c:BWBR0001847&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0001847&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Consulaire Wet"
-signed_date: "1871-07-25"
-entry_into_force: "1873-01-01"
+publicatiedatum: 1873-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0001847"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 25 juli 1871, houdende regeling van de bevoegdheid der consulaire ambtenaren tot het opmaken van burgerlijke akten, en van de consulaire regtsmagt
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is de bevoegdheid der consulaire ambtenaren tot het opmaken van burgerlijke akten, en de consulaire regtsmagt bij eene wet te regelen;
-
-Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### hoofdstuk Eerste. Algemene bepalingen
 
@@ -78,7 +54,7 @@ De tolk, krachtens het voorgaande artikel benoemd of aangewezen, legt, alvorens 
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -170,7 +146,7 @@ De door Nederlanders binnen het ressort van een in het vorige artikel vermelde a
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19a
 
@@ -205,5 +181,3 @@ Vervallen
 ##### Artikel 20
 
 Deze wet kan worden aangehaald onder de titel van Consulaire Wet.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.

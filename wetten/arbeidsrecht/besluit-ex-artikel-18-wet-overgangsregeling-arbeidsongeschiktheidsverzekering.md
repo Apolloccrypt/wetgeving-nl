@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 22 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 18 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering"
+citeertitel: "Besluit ex artikel 18 Wet overgangsregeling arbeidsongeschiktheidsverzekering"
 identifier: "BWBR0002590"
-country: "nl"
-rank: "amvb"
-publication_date: "1967-07-01"
-last_updated: "1967-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002590"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "391763"
-version_id: "577302"
-internal_id: "C577301"
-label_id: "381914"
-dtd_version: "2.0"
-original_entry_into_force: "1967-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002590/1967-07-01/0"
-intitule_bron: "Stb.1967-333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-06-22"
-intitule_status: "goed"
-original_publication: "Stb.1967-333"
-original_signed_date: "1967-06-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1967-07-01"
-jci_1_3: "jci1.3:c:BWBR0002590&z=1967-07-01&g=1967-07-01"
-jci_1_0: "1.0:c:BWBR0002590&g=1967-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 18 Wet overgangsregeling arbeidsongeschiktheidsverzekering"
-signed_date: "1967-06-22"
-entry_into_force: "1967-07-01"
+publicatiedatum: 1967-07-01
+laatste_update: 1967-07-01
+status: geldig
+toestand: 1967-07-01
+bron: "https://wetten.overheid.nl/BWBR0002590"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 22 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 18 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering
-
-Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid van 11 mei 1967, Directoraat-Generaal voor Sociale Voorzieningen, Directie Sociale Verzekering, Afdeling Algemene Zaken, Nr. 57191;
-
-Gelet op [artikel 18 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=18);
-
-De Raad van State gehoord (advies van 31 mei 1967, No. 26);
-
-Gezien het nader rapport van onze Minister van Sociale Zaken en Volksgezondheid van 15 juni 1967, Directoraat-Generaal voor Sociale Voorzieningen, Directie Soc. Verz., Afd. Alg. Zaken, No. 57763;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -98,5 +70,3 @@ De in [artikel 17, eerste lid, van de Wet overgangsregeling arbeidsongeschikthei
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 juli 1967.
-
-Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

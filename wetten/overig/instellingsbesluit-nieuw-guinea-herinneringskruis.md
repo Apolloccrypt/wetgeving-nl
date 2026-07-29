@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 29 september 1962, houdende instelling van het Nieuw-Guinea-herinneringskruis"
+citeertitel: "Instellingsbesluit Nieuw-Guinea-herinneringskruis"
 identifier: "BWBR0002387"
-country: "nl"
-rank: "kb"
-publication_date: "1994-10-01"
-last_updated: "1994-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002387"
+categorie: "Overig"
 soort: "KB"
-stam_id: "400513"
-version_id: "589412"
-internal_id: "C589411"
-label_id: "390304"
-dtd_version: "2.0"
-original_entry_into_force: "1962-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002387/1994-10-01/0"
-intitule_bron: "Stb.1962-385"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1962-09-29"
-intitule_status: "goed"
-original_publication: "Stb.1962-385"
-original_signed_date: "1962-09-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1962-11-12"
-jci_1_3: "jci1.3:c:BWBR0002387&z=1994-10-01&g=1994-10-01"
-jci_1_0: "1.0:c:BWBR0002387&g=1994-10-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nieuw-Guinea-herinneringskruis"
-signed_date: "1962-09-29"
-entry_into_force: "1962-11-12"
+publicatiedatum: 1962-11-12
+laatste_update: 1994-10-01
+status: geldig
+toestand: 1994-10-01
+bron: "https://wetten.overheid.nl/BWBR0002387"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 29 september 1962, houdende instelling van het Nieuw-Guinea-herinneringskruis
-
-Op de gemeenschappelijke voordracht van Onze minister van defensie van 27 september 1962, directie militair personeel, nr. P. 122.894/B, en van de staatssecretaris van binnenlandse zaken van 27 september 1962, directoraat-generaal voor Nederlands Nieuw-Guinea, nr. 518196/-;
-
-Overwegende, dat het gewenst is om aan militairen van de Koninklijke marine, van de Koninklijke landmacht, van de Koninklijke luchtmacht, alsmede aan niet-militairen, Nederlanders, die zich in Nederlands Nieuw-Guinea in militaire zin verdienstelijk hebben gemaakt een herinneringsteken toe te kennen en dit herinneringsteken tevens dienstbaar te stellen als beloning voor hen, die in militair verband hebben deelgenomen aan een door de overheid bevolen actie of een verkennings- of patrouilletocht;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -81,5 +57,3 @@ Op de keerzijde van het kruis is eveneens een cirkelvormig schild van gelijke gr
 ##### Artikel 5
 
 De betrokken minister kan het herinneringskruis, eventueel met gesp, tijdelijk of blijvend ontnemen aan hen, die het zich naar zijn oordeel niet langer waardig tonen.
-
-Onze ministers van defensie en van binnenlandse zaken zijn, ieder voor zover hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kanselier der Nederlandse orden.

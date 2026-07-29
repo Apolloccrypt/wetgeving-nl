@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 30 januari 1958, tot vaststelling van een algemene maatregel van rijksbestuur als bedoeld in artikel 10 van de Schepenwet"
+citeertitel: "Instructie Ambtenaren Scheepvaartinspectie"
 identifier: "BWBR0002271"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002271"
+categorie: "Bestuursrecht"
 soort: "rijksKB"
-stam_id: "771923"
-version_id: "1121212"
-internal_id: "C1121211"
-label_id: "748274"
-dtd_version: "2.0"
-original_entry_into_force: "1958-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002271/2020-01-01/0"
-intitule_bron: "Stb.1958-74"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1958-01-30"
-intitule_status: "goed"
-original_publication: "Stb.1958-74"
-original_signed_date: "1958-01-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1958-02-19"
-jci_1_3: "jci1.3:c:BWBR0002271&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002271&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Instructie Ambtenaren Scheepvaartinspectie"
-signed_date: "1958-01-30"
-entry_into_force: "1958-02-19"
+publicatiedatum: 1958-02-19
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002271"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 30 januari 1958, tot vaststelling van een algemene maatregel van rijksbestuur als bedoeld in artikel 10 van de Schepenwet
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 1 november 1957, nr. 466.089/J./121/121/1, Directoraat-Generaal van Scheepvaart, mede namens Onze Minister van Zaken Overzee;
-
-Gelet op [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10);
-
-De Raad van State van het Koninkrijk gehoord (advies van 10 december 1957, nr. 37);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 9 januari 1958, nr. 468.280, J/121/121/1, Directoraat-Generaal van Scheepvaart, mede namens Onze Minister van Zaken Overzee;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -120,7 +90,7 @@ Het Hoofd van de Scheepvaartinspectie is, indien het in het belang van de uitoef
 
 - e. aan ambtenaren in Curaçao, onderscheidenlijk Sint Maarten het toezicht op te dragen op schepen thuisbehorende in een der districten in Nederland;
 
-- f. aan ambtenaren welke aan hem zijn toegevoegd werkzaamheden op te dragen in een der onder **c** genoemde districten, dan wel hen ter beschikking te stellen van het Districtshoofd.
+- f. aan ambtenaren welke aan hem zijn toegevoegd werkzaamheden op te dragen in een der onder *c* genoemde districten, dan wel hen ter beschikking te stellen van het Districtshoofd.
 
 ##### Artikel 10
 
@@ -184,7 +154,7 @@ Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Cura
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -226,8 +196,6 @@ Dit besluit kan worden aangehaald onder de titel van "Instructie Ambtenaren Sche
 
 ##### Artikel 25
 
-Ons besluit van de 17de december 1932 (**Stb.** nr. 620), zoals dat sedert is gewijzigd, wordt ingetrokken.
+Ons besluit van de 17de december 1932 (*Stb.* nr. 620), zoals dat sedert is gewijzigd, wordt ingetrokken.
 
-Dit besluit treedt in werking in Nederland en de Nederlandse Antillen met ingang van de dag na de datum van uitgifte onderscheidenlijk van het **Staatsblad** en het **Publicatieblad van de Nederlandse Antillen,** waarin het wordt geplaatst.
-
-Onze Ministers van Verkeer en Waterstaat en van Zaken Overzee zijn belast met de uitvoering van dit besluit, dat in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
+Dit besluit treedt in werking in Nederland en de Nederlandse Antillen met ingang van de dag na de datum van uitgifte onderscheidenlijk van het *Staatsblad* en het *Publicatieblad van de Nederlandse Antillen,* waarin het wordt geplaatst.

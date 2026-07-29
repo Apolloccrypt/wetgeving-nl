@@ -1,42 +1,18 @@
 ---
 title: "Wet van 30 april 1940, tot herziening van de wet van 30 april 1815, no. 5, Stb. 33, houdende instelling van de Militaire Willems-Orde"
+citeertitel: "Wet herziening Wet instelling Militaire Willems-Orde"
 identifier: "BWBR0002001"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002001"
+categorie: "Overig"
 soort: "rijkswet"
-stam_id: "368473"
-version_id: "542332"
-internal_id: "C542331"
-label_id: "359984"
-dtd_version: "2.0"
-original_entry_into_force: "1940-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002001/2010-10-10/0"
-intitule_bron: "Stb.1940-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1940-04-30"
-intitule_status: "goed"
-original_publication: "Stb.1940-100"
-original_signed_date: "1940-04-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1940-05-20"
-jci_1_3: "jci1.3:c:BWBR0002001&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0002001&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Wet herziening Wet instelling Militaire Willems-Orde"
-signed_date: "1940-04-30"
-entry_into_force: "1940-05-20"
+publicatiedatum: 1940-05-20
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0002001"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 30 april 1940, tot herziening van de wet van 30 april 1815, no. 5, Stb. 33, houdende instelling van de Militaire Willems-Orde
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat de bij de Wet van 30 April 1815, No. 5 (**Staatsblad** No. 33*) ingestelde **Militaire Willems-Orde** bijzonder geschikt is gebleken, zoo tot aankweeking van krijgshaftige deugden als tot vereerende belooning van hen, die zich in den strijd door uitstekende daden van moed, beleid en trouw in bijzondere mate hebben gekweten van op hen rustende plichten; dat het evenwel noodzakelijk is gebleken de bestaande wet, met handhaving van haar beginselen, te herzien;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -80,13 +56,13 @@ Het bij het ordeteeken behoorend lint is oranje met twee smalle Nassau-blauwe st
 
 1. Het teeken van onderscheiding voor de leden der Orde is:
 
-- a. **Voor den ridder der 4e klasse:** het ordeteeken te dragen op het lint op de linkerborst; de middellijn van het wit geëmailleerde kruis bedraagt 42 millimeter, die van het Bourgondische kruis 36 millimeter; de omlijsting van eerstgenoemd kruis en van het medaillon, de geparelde punten, de lauwerkrans, de W en de kroon zijn van zilver; de breedte van het lint bedraagt 27 millimeter en in opgemaakten vorm 48 millimeter;
+- a. *Voor den ridder der 4e klasse:* het ordeteeken te dragen op het lint op de linkerborst; de middellijn van het wit geëmailleerde kruis bedraagt 42 millimeter, die van het Bourgondische kruis 36 millimeter; de omlijsting van eerstgenoemd kruis en van het medaillon, de geparelde punten, de lauwerkrans, de W en de kroon zijn van zilver; de breedte van het lint bedraagt 27 millimeter en in opgemaakten vorm 48 millimeter;
 
-- b. **Voor den ridder der 3e klasse:** als voor den ridder der 4e klasse, doch de omlijsting van het wit geëmailleerde kruis en van het medaillon, de geparelde punten, de lauwerkrans, de W en de kroon zijn van goud en op het lint is een rozet;
+- b. *Voor den ridder der 3e klasse:* als voor den ridder der 4e klasse, doch de omlijsting van het wit geëmailleerde kruis en van het medaillon, de geparelde punten, de lauwerkrans, de W en de kroon zijn van goud en op het lint is een rozet;
 
-- c. **Voor den commandeur:** als voor den ridder der 3e klasse, doch de middellijn van het wit geëmailleerde kruis bedraagt 50 millimeter, die van het Bourgondische kruis 42 millimeter; het ordeteeken te dragen zonder lint op de linkerborst en tevens aan een lint, breed 55 millimeter, om den hals;
+- c. *Voor den commandeur:* als voor den ridder der 3e klasse, doch de middellijn van het wit geëmailleerde kruis bedraagt 50 millimeter, die van het Bourgondische kruis 42 millimeter; het ordeteeken te dragen zonder lint op de linkerborst en tevens aan een lint, breed 55 millimeter, om den hals;
 
-- d. **Voor den ridder-grootkruis:** het ordeteeken als voor den commandeur, doch zonder kroon, bevestigd op een achtpuntige, uit 40 stralen bestaande, bolvormige zilveren ster, zonder lint te dragen op de linkerborst; de ster heeft een middellijn van 80 millimeter, terwijl de punten gepareld zijn. Het ordeteeken als voor den commandeur tevens te dragen aan een lint, breed 101 millimeter, als sjerp over den rechterschouder naar de linkerheup.
+- d. *Voor den ridder-grootkruis:* het ordeteeken als voor den commandeur, doch zonder kroon, bevestigd op een achtpuntige, uit 40 stralen bestaande, bolvormige zilveren ster, zonder lint te dragen op de linkerborst; de ster heeft een middellijn van 80 millimeter, terwijl de punten gepareld zijn. Het ordeteeken als voor den commandeur tevens te dragen aan een lint, breed 101 millimeter, als sjerp over den rechterschouder naar de linkerheup.
 
 2. Standmodellen van de onderscheidingsteekenen voor de ridders der verschillende klassen worden door Ons vastgesteld.
 
@@ -156,7 +132,7 @@ de overigen € 182
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -178,6 +154,4 @@ De ordeteekenen, vóór de inwerkingtreding dezer wet verleend, mogen onverander
 
 2. Zij treedt in werking op een nader door Ons te bepalen tijdstip.
 
-3. Bij de inwerkingtreding van deze wet vervalt de Wet van 30 April 1815, no. 5 (**Staatsblad** No. 23*), zooals deze is gewijzigd bij de Wetten van 22 April 1864 (**Staatsblad** No. 33), 15 April 1886 ( **Staatsblad** No. 64) en 31 December 1920 (**Staatsblad** No. 941).
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, autoriteiten, Colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+3. Bij de inwerkingtreding van deze wet vervalt de Wet van 30 April 1815, no. 5 (*Staatsblad* No. 23*), zooals deze is gewijzigd bij de Wetten van 22 April 1864 (*Staatsblad* No. 33), 15 April 1886 ( *Staatsblad* No. 64) en 31 December 1920 (*Staatsblad* No. 941).

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 14 juli 1959, tot uitvoering van artikel 42 van de Gezondheidswet"
+citeertitel: "Besluit kennisgeving mutaties Gezondheidswet"
 identifier: "BWBR0002322"
-country: "nl"
-rank: "amvb"
-publication_date: "1959-09-12"
-last_updated: "1959-09-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002322"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "658413"
-version_id: "956542"
-internal_id: "C956541"
-label_id: "638514"
-dtd_version: "2.0"
-original_entry_into_force: "1959-09-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002322/1959-09-12/0"
-intitule_bron: "Stb.1959-284"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1959-07-14"
-intitule_status: "goed"
-original_publication: "Stb.1959-284"
-original_signed_date: "1959-07-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1959-09-12"
-jci_1_3: "jci1.3:c:BWBR0002322&z=1959-09-12&g=1959-09-12"
-jci_1_0: "1.0:c:BWBR0002322&g=1959-09-12"
-citeertitel_status: "officieel"
-short_title: "Besluit kennisgeving mutaties Gezondheidswet"
-signed_date: "1959-07-14"
-entry_into_force: "1959-09-12"
+publicatiedatum: 1959-09-12
+laatste_update: 1959-09-12
+status: geldig
+toestand: 1959-09-12
+bron: "https://wetten.overheid.nl/BWBR0002322"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 14 juli 1959, tot uitvoering van artikel 42 van de Gezondheidswet
-
-Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid a.i. van 5 mei 1959, nr. 6772, Directie Volksgezondheid, Afdeling Medische Beroepen en Ziektenbestrijding;
-
-Gelet op de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=42) en [62 van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=62) (wet van 18 januari 1956, **Stb.** 51);
-
-De Raad van State gehoord (advies van 16 juni 1959, nr. 30);
-
-Gelet op het nader rapport van Onze Minister van Sociale Zaken en Volksgezondheid van 7 juli 1959, nr. 9995, Directie Volksgezondheid, Afdeling Medische Beroepen en Ziektenbestrijding;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -65,5 +37,3 @@ Onze Minister van Sociale Zaken en Volksgezondheid stelt de modellen van de form
 1. Dit besluit kan worden aangehaald als Besluit kennisgeving mutaties Gezondheidswet.
 
 2. Dit besluit treedt in werking met ingang van de datum van inwerkingtreding van [artikel 42 van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=42).
-
-Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling"
+citeertitel: "Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen"
 identifier: "BWBR0002503"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-12-23"
-last_updated: "2023-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002503"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1049893"
-version_id: "1540502"
-internal_id: "C1540501"
-label_id: "1017074"
-dtd_version: "2.0"
-original_entry_into_force: "1966-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002503/2023-12-23/0"
-intitule_bron: "Stb.1965-414"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1965-09-16"
-intitule_status: "goed"
-original_publication: "Stb.1965-414"
-original_signed_date: "1965-09-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1966-03-01"
-jci_1_3: "jci1.3:c:BWBR0002503&z=2023-12-23&g=2023-12-23"
-jci_1_0: "1.0:c:BWBR0002503&g=2023-12-23"
-citeertitel_status: "officieel"
-short_title: "Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen"
-signed_date: "1965-09-16"
-entry_into_force: "1966-03-01"
+publicatiedatum: 1966-03-01
+laatste_update: 2023-12-23
+status: geldig
+toestand: 2023-12-23
+bron: "https://wetten.overheid.nl/BWBR0002503"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 21 juli 1965, no. A-2/031133, Directoraat-Generaal van het Verkeer, mede namens Onze Minister van Justitie;
-
-Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=14), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=34) en [38 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=38);
-
-De Raad van State gehoord (advies van 18 augustus 1965, no. 34);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 8 september 1965, no. A-2 1031777, Directoraat-Generaal van het Verkeer, mede namens Onze Minister van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Definities
 
@@ -62,13 +34,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - g. motorrijtuig, dat gewoonlijk in het buitenland is gestald;
 
-- 1°. een motorrijtuig waarvoor een kenteken met beperkte geldigheidsduur overeenkomstig een door Onze Minister aangewezen model is opgegeven;
+   - 1°. een motorrijtuig waarvoor een kenteken met beperkte geldigheidsduur overeenkomstig een door Onze Minister aangewezen model is opgegeven;
 
-- 2°. een motorrijtuig dat van de toepassing van [artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is uitgezonderd en waarvoor een militair registratienummer is opgegeven;
+   - 2°. een motorrijtuig dat van de toepassing van [artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is uitgezonderd en waarvoor een militair registratienummer is opgegeven;
 
-- 3°. een motorrijtuig dat in een ander land krachtens de aldaar geldende wettelijke regeling is geregistreerd of van een verzekeringsplaat of ander onderscheidingsteken is voorzien;
+   - 3°. een motorrijtuig dat in een ander land krachtens de aldaar geldende wettelijke regeling is geregistreerd of van een verzekeringsplaat of ander onderscheidingsteken is voorzien;
 
-- 4°. een motorrijtuig dat niet in een ander land krachtens een aldaar geldende wettelijke regeling is geregistreerd of van een verzekeringsplaat of ander onderscheidingsteken is voorzien, waarvoor noch in Nederland noch elders een kenteken is opgegeven en dat gewoonlijk in een ander land dan Nederland is gestald.
+   - 4°. een motorrijtuig dat niet in een ander land krachtens een aldaar geldende wettelijke regeling is geregistreerd of van een verzekeringsplaat of ander onderscheidingsteken is voorzien, waarvoor noch in Nederland noch elders een kenteken is opgegeven en dat gewoonlijk in een ander land dan Nederland is gestald.
 
 #### § 2. Bewijs van verzekering binnenlandse niet-kentekenplichtige motorrijtuigen
 
@@ -86,7 +58,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 1. Het bewijs van verzekering, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=2&z=2023-12-23&g=2023-12-23), wordt bevestigd op het achterspatbord in verticale of nagenoeg verticale stand en in de breedterichting van het gehandicaptenvoertuig, op zodanige wijze dat de op het bewijs vermelde letters zich boven de op het bewijs vermelde cijfers bevinden en de letters en cijfers goed zichtbaar zijn. Indien het gehandicaptenvoertuig meer achterwielen heeft, behoeft slechts één bewijs van verzekering op één van de achterspatborden te worden aangebracht. Indien het gehandicaptenvoertuig is voorzien van een bak of opbouw mag het bewijs van verzekering in plaats van op het achterspatbord ook worden bevestigd op de achterzijde van de bak of opbouw, zoveel mogelijk aan de uiterste linkerzijde daarvan.
 
-2. Het bewijs van verzekering kan worden gebruikt met ingang van 1 januari van het kalenderjaar dat erop staat vermeld. De geldigheidsduur van het bewijs eindigt op 30 april van het daarop volgende jaar om 24.00 uur.
+2. Het bewijs van verzekering kan worden gebruikt met ingang van 1 januari van het kalenderjaar dat erop staat vermeld. De geldigheidsduur van het bewijs eindigt op 30 april van het daarop volgende jaar om 24.00 uur.
 
 3. Bij ministeriële regeling worden regels gesteld omtrent de kenmerken van het bewijs van verzekering.
 
@@ -162,7 +134,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 1. Onze Minister kan op verzoek aan fabrikanten van of handelaren in gehandicaptenvoertuigen of andere niet-kentekenplichtige motorrijtuigen één of meer fabrikanten- of handelaarsbewijzen W.A.M. (gehandicaptenvoertuigen) of één of meer fabrikanten- of handelaarsbewijzen W.A.M. (andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen) afgeven voor motorrijtuigen, die deel uitmaken van de fabrieks- of handelsvoorraad van verzoeker, en ten behoeve van het gebruik van de betrokken motorrijtuigen als omschreven in [artikel 4, zesde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=4&z=2023-12-23&g=2023-12-23), onderscheidenlijk in [artikel 5, zesde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23). Een dergelijk bewijs, waarvan het model door Onze Minister wordt vastgesteld, is ten hoogste vijf jaren geldig.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Onze Minister kan een bewijs als bedoeld in het eerste lid, ongeldig verklaren, indien naar zijn oordeel degene aan wie het is afgegeven niet langer fabrikant van of handelaar in gehandicaptenvoertuigen onderscheidenlijk andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen is, dan wel indien een bewijs voor andere doeleinden, dan waarvoor het geldig is, wordt of is gebruikt. Een bewijs dat ongeldig is verklaard, moet door degene aan wie het is afgegeven binnen een week worden ingeleverd bij Onze Minister.
 
@@ -214,22 +186,18 @@ hetzij een bewijs, waaruit blijkt, dat met betrekking tot dat motorrijtuig een v
 
 ##### Artikel 10a
 
-Overtreding van het bepaalde in de [artikelen 5**a**, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5a&z=2023-12-23&g=2023-12-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=9&z=2023-12-23&g=2023-12-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=10&z=2023-12-23&g=2023-12-23) is een strafbaar feit.
+Overtreding van het bepaalde in de [artikelen 5*a*, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5a&z=2023-12-23&g=2023-12-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=9&z=2023-12-23&g=2023-12-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=10&z=2023-12-23&g=2023-12-23) is een strafbaar feit.
 
 #### § 6. Slotbepalingen
 
 ##### Artikel 11
 
-Ons besluit van 14 december 1964, **Stb.** 493, wordt ingetrokken.
+Ons besluit van 14 december 1964, *Stb.* 493, wordt ingetrokken.
 
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van 1 maart 1966, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23), het [vierde en vijfde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23), het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23) en het [vierde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23), welke in werking treden met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het besluit wordt geplaatst.
-
-Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van 1 maart 1966, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23), het [vierde en vijfde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23), het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23) en het [vierde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2023-12-23&g=2023-12-23), welke in werking treden met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het besluit wordt geplaatst.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen.
-
-Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

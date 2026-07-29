@@ -1,502 +1,474 @@
 ---
 title: "Wet van 28 augustus 1851, regelende de onteigening ten algemeenen nutte"
+citeertitel: "Onteigeningswet"
 identifier: "BWBR0001842"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001842"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2979383"
-version_id: "17238492"
-internal_id: "C33893261"
-label_id: "2930684"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001842/2024-01-01/0"
-intitule_bron: "Stb.1851-125"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1851-08-28"
-intitule_status: "goed"
-original_publication: "Stb.2010-135"
-original_signed_date: "2010-03-18"
-original_published_date: "2010-03-30"
-original_effect: "structuurwijziging"
-original_dossier: "32127"
-original_url_id: "stb-2010-135"
-entry_into_force_date: "2010-03-18"
-entry_into_force_dossier: "32127"
-jci_1_3: "jci1.3:c:BWBR0001842&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0001842&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Onteigeningswet"
-signed_date: "2010-03-18"
-entry_into_force: "2010-03-18"
+publicatiedatum: 2010-03-18
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0001842"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 28 augustus 1851, regelende de onteigening ten algemeenen nutte
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten;
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is, de onteigening ten algemeenen nutte, in overeenstemming met art. 147 der [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), bij de wet te regelen;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Algemeene bepalingen
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
-## Titel I. Over onteigening in gewone gevallen
+### Titel I. Over onteigening in gewone gevallen
 
 ### Hoofdstuk I. Over hetgeen aan de verklaring van het algemeen nut vooraf behoort te gaan
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. Over de eindaanwijzing der te onteigenen goederen
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Van het geding tot onteigening
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IIIa
 
-### Afdeling 1. Van de opneming door de deskundigen voor de aanvang van het geding
+#### Afdeling 1. Van de opneming door de deskundigen voor de aanvang van het geding
 
 ##### Artikel 54a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54e
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2. Van de vervroegde uitspraak over de onteigening
+#### Afdeling 2. Van de vervroegde uitspraak over de onteigening
 
 ##### Artikel 54f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54t
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Over de betaling van de schadeloosstelling
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
-## Titel II. Over de onteigening voor aanleg, herstel, versterking of onderhoud van waterkeringen en bouw van militaire verdedigingswerken
+### Titel II. Over de onteigening voor aanleg, herstel, versterking of onderhoud van waterkeringen en bouw van militaire verdedigingswerken
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
-## Titel IIa. Over onteigening van wegen, bruggen, bermen, bermslooten en kanalen en onteigening voor aanleg en verbetering van wegen, bruggen, spoorwegwerken, kanalen, havenwerken, werken ten behoeve van de bestrijding van verontreiniging van oppervlaktewateren en terreinen en werken ten behoeve van verbetering of verruiming van rivieren
+### Titel IIa. Over onteigening van wegen, bruggen, bermen, bermslooten en kanalen en onteigening voor aanleg en verbetering van wegen, bruggen, spoorwegwerken, kanalen, havenwerken, werken ten behoeve van de bestrijding van verontreiniging van oppervlaktewateren en terreinen en werken ten behoeve van verbetering of verruiming van rivieren
 
 ##### Artikel 72a
 
-Vervallen
+*Vervallen*
 
-## Titel IIb. Over onteigening ten behoeve van de openbare drinkwatervoorziening en van de verwijdering van afvalstoffen
+### Titel IIb. Over onteigening ten behoeve van de openbare drinkwatervoorziening en van de verwijdering van afvalstoffen
 
 ##### Artikel 72b
 
-Vervallen
+*Vervallen*
 
-## Titel IIc. Over onteigening in het belang van de winning van oppervlaktedelfstoffen
+### Titel IIc. Over onteigening in het belang van de winning van oppervlaktedelfstoffen
 
 ##### Artikel 72c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72d
 
-Vervallen
+*Vervallen*
 
-## Titel III. Over onteigening in geval van buitengewone omstandigheden
+### Titel III. Over onteigening in geval van buitengewone omstandigheden
 
 ##### Artikel 73
 
@@ -528,7 +500,7 @@ Wanneer hij, in wiens naam de onteigening gelast is, den eigendom van de zaak ni
 
 ##### Artikel 76a
 
-1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 76**a bis** tot en met 76**f bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76b&z=2024-01-01&g=2024-01-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 76*a bis* tot en met 76*f bis*](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76b&z=2024-01-01&g=2024-01-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -538,11 +510,11 @@ Wanneer hij, in wiens naam de onteigening gelast is, den eigendom van de zaak ni
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 76a bis
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Wanneer ogenblikkelijke inbezitneming volstrekt noodzakelijk geacht wordt, kan deze op last van de hoogste militaire autoriteit, ter plaatse aanwezig, geschieden onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.
 
@@ -550,7 +522,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 76a ter
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Door of op last van de burgemeesters kunnen, na bijzondere of algemene machtiging van Onze Minister van Economische Zaken, levensmiddelen, grondstoffen van levensmiddelen, huishoudelijke artikelen en brandstoffen onmiddellijk in bezit worden genomen onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.
 
@@ -566,13 +538,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 76b
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in bezit wil nemen, onmiddellijk ten genoegen van den burgemeester aanbiedt zelf op door dezen goedgekeurde wijze die waren ter beschikking te stellen tegen prijzen, die niet te boven gaan de daarvoor door Onzen voornoemden Minister bepaalde bedragen, kan de burgemeester de inbezitneming opschorten.
 
 ##### Artikel 76c
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze voornoemde Minister kan bepalen, dat de burgemeester bepaalde soorten of hoeveelheden van genoemde waren in bezit zal nemen, alsmede dat van in bezit genomen waren gedeelten ter beschikking worden gesteld van den burgemeester eener andere gemeente tegen den prijs en op de wijze, door dien Minister te bepalen.
 
@@ -584,7 +556,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 76e
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De burgemeester zoomede de door hem aan te wijzen ambtenaren zijn te allen tijde bevoegd de uitlevering te vorderen van de in bezit te nemen waren. Zij, alsmede de hen op hun last vergezellende personen hebben te allen tijde vrijen toegang tot alle plaatsen, waar redelijkerwijs vermoed kan worden, dat zich de waren bevinden. Wordt hun de toegang geweigerd, dan verschaffen zij zich dien desnoods met inroeping van den sterken arm.
 
@@ -594,386 +566,370 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 76f
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 In geval, op grond van [artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, geschieden de machtigingen, bedoeld in [artikel 76a ter, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76a_ter&z=2024-01-01&g=2024-01-01), niet dan na overleg met het militair gezag.
 
 ##### Artikel 76fbis
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Door of op last van de burgemeesters kunnen, na algemene of bijzondere machtiging van Onze Minister van Binnenlandse Zaken, in de gemeente aanwezige verbruiksartikelen, bestemd voor bescherming en ontsmetting in het belang van de bestrijding van rampen en zware ongevallen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking, onmiddellijk in bezit worden genomen onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.
 
 2. De [artikelen 76a ter, derde lid tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76a_ter&z=2024-01-01&g=2024-01-01), [76b](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76b&z=2024-01-01&g=2024-01-01), [76c](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76c&z=2024-01-01&g=2024-01-01), [76e](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76e&z=2024-01-01&g=2024-01-01) en [76f](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=III&artikel=76f&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
-## Titel IV. Onteigening in het belang van de ruimtelijke ontwikkeling, van de Volkshuisvesting, van de openbare orde en van de handhaving van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941)
+### Titel IV. Onteigening in het belang van de ruimtelijke ontwikkeling, van de Volkshuisvesting, van de openbare orde en van de handhaving van de Opiumwet
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
-##### Artikel 140
+##### Artikel 81
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 87
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
-## Titel V. Over onteigening van octrooien van uitvinding
+### Titel V. Over onteigening van octrooien van uitvinding
 
 ##### Artikel 97
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 98
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 100
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 101
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 102
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 103
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 104
 
-Vervallen
+*Vervallen*
 
-## Titel Va. Over de onteigening van de rechten, voortvloeiende uit eene aanvrage om octrooi
+### Titel Va. Over de onteigening van de rechten, voortvloeiende uit eene aanvrage om octrooi
 
 ##### Artikel 104A
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 104B
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 104C
 
-Vervallen
+*Vervallen*
 
-## Titel VI. Over onteigening in het belang der verkrijging door landarbeiders van land met woning in eigendom of van los land in pacht
+### Titel VI. Over onteigening in het belang der verkrijging door landarbeiders van land met woning in eigendom of van los land in pacht
 
 ##### Artikel 105
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 106
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 108
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 109
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 110
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 111
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 112
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 113
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 114
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 115
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 116
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 117
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 118
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 119
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 120
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 121
 
-Vervallen
+*Vervallen*
 
-## Titel VII. Over onteigening in het belang van de landinrichting
+### Titel VII. Over onteigening in het belang van de landinrichting
 
 ##### Artikel 122
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 123
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 124
 
-Vervallen
+*Vervallen*
+
+### Titel VIIa. Evaluatie
 
 ##### Artikel 125
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 126
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 127
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 128
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 129
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 130
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 131
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 132
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 133
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 134
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 135
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 136
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 137
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 138
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 139
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140
 
-Vervallen
+*Vervallen*
 
-## Titel VIII. Over onteigening in het belang der natuurbescherming
+### Titel VIII. Over onteigening in het belang der natuurbescherming
 
 ##### Artikel 141
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 142
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 143
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 144
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 145
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 146
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 147
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 148
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 149
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 150
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 151
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 152
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 153
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 154
 
-Vervallen
+*Vervallen*
 
 #### Slotbepalingen
 
 ##### Artikel 155
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 156
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 157
 
 Deze wet kan worden aangehaald onder den titel van "onteigeningswet".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 81
-
-Vervallen
-
-## Titel VIIa. Evaluatie
-
-##### Artikel 125
-
-Vervallen
-
-## Titel VIII. Over onteigening in het belang der natuurbescherming
-
-#### Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.

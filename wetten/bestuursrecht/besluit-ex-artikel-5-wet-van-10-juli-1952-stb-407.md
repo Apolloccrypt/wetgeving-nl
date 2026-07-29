@@ -1,52 +1,24 @@
 ---
 title: "Besluit van 8 mei 1959, houdende regelen betreffende de schadeloosstelling, bedoeld in artikel 5 van de Wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
+citeertitel: "Besluit ex artikel 5 Wet van 10 juli 1952, Stb. 407"
 identifier: "BWBR0002316"
-country: "nl"
-rank: "amvb"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002316"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "419713"
-version_id: "616672"
-internal_id: "C616671"
-label_id: "408644"
-dtd_version: "2.0"
-original_entry_into_force: "1959-08-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002316/1994-01-01/0"
-intitule_bron: "Stb.1959-287"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1959-05-08"
-intitule_status: "goed"
-original_publication: "Stb.1959-287"
-original_signed_date: "1959-05-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1959-08-23"
-jci_1_3: "jci1.3:c:BWBR0002316&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0002316&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 5 Wet van 10 juli 1952, Stb. 407"
-signed_date: "1959-05-08"
-entry_into_force: "1959-08-23"
+publicatiedatum: 1959-08-23
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0002316"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 8 mei 1959, houdende regelen betreffende de schadeloosstelling, bedoeld in artikel 5 van de Wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-Op de voordracht van Onze Ministers van Economische Zaken, van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie en van Financiën van 30 augustus 1958, no. 32543 W.J.A.;
-
-Gelet op artikel 5 van de wet van 10 juli 1952 (**Stb.** 407);
-
-De Raad van State gehoord (advies van 4 november 1958, no. 33);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 29 april 1959, no. 871 W.J.A.;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 1. Dit besluit verstaat onder:
 
-wet: de wet van 10 juli 1952 (**Stb.** 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden;
+wet: de wet van 10 juli 1952 (*Stb.* 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden;
 
 motorrijtuig: ieder rij- of voertuig, bestemd om uitsluitend of mede door een mechanische kracht, op of aan het rij- of voertuig zelf aanwezig, anders dan langs spoorstaven te worden voortbewogen - behoudens indien het uitsluitend bestemd is voor gebruik buiten de wegen -, met inbegrip van een door zodanig rij- of voertuig voortbewogen aanhangwagen.
 
@@ -148,15 +120,15 @@ Indien een rechthebbende schade lijdt als gevolg van het voldoen aan een bevel, 
 
 ##### Artikel 13a
 
-1. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2**a** van de wet gegeven ten aanzien van andere goederen dan in het tweede lid genoemd, schade lijdt, wordt hij schadeloos gesteld door vergoeding van de als rechtstreeks en onvermijdelijk gevolg van het voldoen aan dat bevel gemaakte kosten en geleden bedrijfsschade.
+1. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2*a* van de wet gegeven ten aanzien van andere goederen dan in het tweede lid genoemd, schade lijdt, wordt hij schadeloos gesteld door vergoeding van de als rechtstreeks en onvermijdelijk gevolg van het voldoen aan dat bevel gemaakte kosten en geleden bedrijfsschade.
 
-2. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2**a** van de wet gegeven ten aanzien van een motorrijtuig schade lijdt, wordt hij schadeloos gesteld overeenkomstig een daarvoor door Onze Minister van Economische Zaken vast te stellen tarief. Dit tarief omvat een vergoeding voor het aantal verreden kilometers en een vergoeding, gebaseerd op het loon van een bestuurder van een dergelijk motorrijtuig; het omvat tevens een vergoeding voor geleden bedrijfsschade.
+2. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2*a* van de wet gegeven ten aanzien van een motorrijtuig schade lijdt, wordt hij schadeloos gesteld overeenkomstig een daarvoor door Onze Minister van Economische Zaken vast te stellen tarief. Dit tarief omvat een vergoeding voor het aantal verreden kilometers en een vergoeding, gebaseerd op het loon van een bestuurder van een dergelijk motorrijtuig; het omvat tevens een vergoeding voor geleden bedrijfsschade.
 
 3. Indien tot het voldoen aan een bevel als in het eerste lid bedoeld voor het vervoer van goederen, waarop dat bevel betrekking heeft, gebruik van een motorrijtuig noodzakelijk is, wordt de rechthebbende, voor zover hij door dat gebruik schade lijdt, schadeloos gesteld overeenkomstig het krachtens het tweede lid vastgestelde tarief.
 
 ##### Artikel 14
 
-1. Tot vaststelling van een schadeloosstelling wordt door of namens de rechthebbende, indien het een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01) gegeven bevel betreft, binnen zes maanden na de intrekking van het bevel of, in geval van toepassing van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01), of 6, tweede lid, binnen zes maanden na het einde van de daarin bedoelde tijdsruimte, en indien het een krachtens artikel 2**a** gegeven bevel betreft, binnen drie maanden nadat aan dat bevel is voldaan, een aanvrage ingediend.
+1. Tot vaststelling van een schadeloosstelling wordt door of namens de rechthebbende, indien het een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01) gegeven bevel betreft, binnen zes maanden na de intrekking van het bevel of, in geval van toepassing van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01), of 6, tweede lid, binnen zes maanden na het einde van de daarin bedoelde tijdsruimte, en indien het een krachtens artikel 2*a* gegeven bevel betreft, binnen drie maanden nadat aan dat bevel is voldaan, een aanvrage ingediend.
 
 2. Indien niet wordt voldaan aan het in het eerste lid bepaalde, wordt geacht dat met de rechthebbende ten aanzien van de schadeloosstelling geen overeenstemming is bereikt.
 
@@ -166,6 +138,4 @@ Indien een rechthebbende schade lijdt als gevolg van het voldoen aan een bevel, 
 
 ##### Artikel 15
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst.
-
-Onze Ministers van Economische Zaken, van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie en van Financiën zijn belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.

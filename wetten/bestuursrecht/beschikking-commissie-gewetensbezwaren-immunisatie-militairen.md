@@ -1,42 +1,17 @@
 ---
 title: "Beschikking Commissie Gewetensbezwaren Immunisatie Militairen"
 identifier: "BWBR0002121"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1953-11-18"
-last_updated: "1953-11-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002121"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3916213"
-version_id: "5669352"
-internal_id: "C20073841"
-label_id: "3896254"
-dtd_version: "2.0"
-original_entry_into_force: "1953-11-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002121/1953-11-18/0"
-intitule_bron: "Stcrt.1953-210"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-10-27"
-intitule_published: "1953-10-29"
-intitule_in_force: "1953-10-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1953-210"
-original_signed_date: "1953-10-27"
-original_published_date: "1953-10-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1953-11-18"
-jci_1_3: "jci1.3:c:BWBR0002121&z=1953-11-18&g=1953-11-18"
-jci_1_0: "1.0:c:BWBR0002121&g=1953-11-18"
-citeertitel_status: "officieel"
-signed_date: "1953-10-27"
-entry_into_force: "1953-11-18"
+publicatiedatum: 1953-11-18
+laatste_update: 1953-11-18
+status: geldig
+toestand: 1953-11-18
+bron: "https://wetten.overheid.nl/BWBR0002121"
+opgehaald: 2026-07-29
 ---
+
 # Beschikking Commissie Gewetensbezwaren Immunisatie Militairen
-
-Overwegende, dat het ter uitvoering van [artikel 5 van de Wet immunisatie militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002117&artikel=5) gewenst is over te gaan tot het instellen van een commissie tot het onderzoek naar en het uitbrengen van advies omtrent gewetensbezwaren met betrekking tot de immunisatie van militairen, alsmede ter zake van de werkzaamheden dezer commissie enige regelen te stellen,
-
-Besluit:
 
 ##### Artikel 1
 

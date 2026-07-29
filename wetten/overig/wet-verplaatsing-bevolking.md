@@ -1,45 +1,18 @@
 ---
 title: "Wet van 10 juli 1952, houdende voorzieningen aangaande de verplaatsing van bevolking voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
+citeertitel: "Wet verplaatsing bevolking"
 identifier: "BWBR0002097"
-country: "nl"
-rank: "wet"
-publication_date: "2023-04-20"
-last_updated: "2023-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002097"
+categorie: "Overig"
 soort: "wet"
-stam_id: "421893"
-version_id: "620582"
-internal_id: "C620581"
-label_id: "411024"
-dtd_version: "2.0"
-original_entry_into_force: "1997-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002097/2023-04-20/0"
-intitule_bron: "Stb.1952-406"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1952-07-10"
-intitule_status: "goed"
-original_publication: "Stb.1996-366"
-original_signed_date: "1996-04-03"
-original_published_date: "1996-07-09"
-original_effect: "structuurwijziging"
-original_dossier: "23791"
-original_url_id: "stb-1996-366"
-entry_into_force_date: "1997-05-01"
-jci_1_3: "jci1.3:c:BWBR0002097&z=2023-04-20&g=2023-04-20"
-jci_1_0: "1.0:c:BWBR0002097&g=2023-04-20"
-citeertitel_status: "officieel"
-short_title: "Wet verplaatsing bevolking"
-signed_date: "1996-04-03"
-entry_into_force: "1997-05-01"
+publicatiedatum: 1997-05-01
+laatste_update: 2023-04-20
+status: geldig
+toestand: 2023-04-20
+bron: "https://wetten.overheid.nl/BWBR0002097"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 10 juli 1952, houdende voorzieningen aangaande de verplaatsing van bevolking voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden, bepalingen vast te stellen betreffende de verplaatsing van bevolking in het belang van haar veiligheid, van de instandhouding van het maatschappelijk leven of van de uitoefening van de taak van de krijgsmacht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -61,41 +34,41 @@ Onze Ministers: Onze Ministers van Binnenlandse Zaken en van Defensie gezamenlij
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 2a
 
-Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.
+*Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.*
 
 Onze Ministers kunnen verplaatsing van de bevolking gelasten in het belang van haar veiligheid, van de instandhouding van het maatschappelijk leven of van de uitoefening van de taak van de krijgsmacht.
 
 ##### Artikel 2b
 
-Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.
+*Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.*
 
 Onze Commissaris in de provincie of de burgemeester kunnen krachtens een algemene of bijzondere machtiging van Onze Ministers in het belang van de veiligheid van de bevolking of van de instandhouding van het maatschappelijk leven verplaatsing van bevolking gelasten.
 
 ##### Artikel 2c
 
-Artikel is door Stb. 2024/157 buiten werking gesteld m.i.v. 27 juni 2024.
+*Artikel is door Stb. 2024/157 buiten werking gesteld m.i.v. 27 juni 2024.*
 
 Deze wet is tevens van toepassing op volksverplaatsingen op grote schaal, welke niet het gevolg zijn van een last tot verplaatsing.
 
 ##### Artikel 2d
 
-Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.
+*Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.*
 
 Indien [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2023-04-20&g=2023-04-20) of [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2023-04-20&g=2023-04-20) wordt toegepast in geval van rampen, alsmede van dreigend gevaar voor het ontstaan daarvan, treedt Onze Minister van Binnenlandse Zaken in de bevoegdheden, welke deze wet aan Onze Ministers toekent.
 
 ##### Artikel 2e
 
-Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.
+*Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.*
 
 Bij algemene maatregel van bestuur kunnen voorlopige voorzieningen worden getroffen, welke naar Ons oordeel in verband met de verplaatsing van bevolking noodzakelijk zijn. In bedoelde voorzieningen kan van de bevoegdheden die in andere wettelijke bepalingen aan andere overheidsorganen zijn toegekend, worden afgeweken.
 
 ##### Artikel 3
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Ministers, en indien deze de verplaatsing van bevolking gelasten, Onze Commissaris in de provincie en de burgemeester kunnen bepalen, welk gebied voor ontruiming in aanmerking komt, wie verplicht is dit te verlaten en wie verplicht is tot achterblijven.
 
@@ -103,7 +76,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 4
 
-Artikel is door Stb. 2024/157 buiten werking gesteld m.i.v. 27 juni 2024.
+*Artikel is door Stb. 2024/157 buiten werking gesteld m.i.v. 27 juni 2024.*
 
 1. De burgemeester is, voorzover uit deze wet niet het tegendeel blijkt, in zijn gemeente belast met de uitvoering van een krachtens [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2023-04-20&g=2023-04-20) of [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2023-04-20&g=2023-04-20) gelaste verplaatsing van bevolking.
 
@@ -111,7 +84,7 @@ Artikel is door Stb. 2024/157 buiten werking gesteld m.i.v. 27 juni 2024.
 
 ##### Artikel 5
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De burgemeester kan in zijn gemeente met betrekking tot de verplaatsing van bevolking bij verordening gedragsregels en andere voorschriften vaststellen. Hij kan in bijzondere gevallen bevelen geven.
 
@@ -121,13 +94,13 @@ De burgemeester kan in zijn gemeente met betrekking tot de verplaatsing van bevo
 
 4. De verordeningen kunnen in de gevallen, bedoeld in het derde lid, door Ons worden vernietigd.
 
-5. De [artikelen 274](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=274) tot en met [280 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=280) (**Stb**. 1992, 96) zijn van toepassing.
+5. De [artikelen 274](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=274) tot en met [280 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=280) (*Stb*. 1992, 96) zijn van toepassing.
 
 6. Bevelen worden, indien mogelijk, schriftelijk gegeven.
 
 ##### Artikel 6
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De burgemeester van een geheel of ten dele te ontruimen gemeente kan voor elk transport van af te voeren bevolking een of meer transportleiders aanwijzen. Gelijke bevoegdheid komt toe aan de door Onze Ministers aangewezen autoriteiten, indien bij de afvoer de grenzen van de gemeente van ontruiming worden overschreden.
 
@@ -137,7 +110,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 7
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 De burgemeester kan ten behoeve van verplaatste en te verplaatsen personen hetzij het beschikbaar stellen in gebruik van woonruimte, gebouwen en andere onderkomens, zo nodig met inventaris, hetzij onderbrenging, al of niet met onderhoud, vorderen. De vordering kan in werking treden zodra de beslissing daartoe is bekendgemaakt op de daarbij bepaalde wijze.
 
@@ -151,7 +124,7 @@ De burgemeester kan ten behoeve van verplaatste en te verplaatsen personen hetzi
 
 ##### Artikel 8
 
-1. Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.
+1. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
 Onze Minister van Binnenlandse Zaken of een door deze aangewezen autoriteit kan in het belang van de volksgezondheid, dan wel met het oog op de gezondheid, de leeftijd of het gedrag van de verplaatste persoon, aan deze, en zo nodig ook aan degenen die met hem samenwonen, een bijzondere verblijfplaats aanwijzen en het verblijf aldaar aan voorschriften onderwerpen.
 
@@ -183,23 +156,23 @@ Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gegeven om
 
 ##### Artikel 11
 
-De kosten voor de gemeente, voortvloeiende uit de verplaatsing van bevolking zijn verplichte uitgaven in de zin van [artikel 193, onder **b**, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=193).
+De kosten voor de gemeente, voortvloeiende uit de verplaatsing van bevolking zijn verplichte uitgaven in de zin van [artikel 193, onder *b*, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=193).
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -227,7 +200,7 @@ Vervallen
 
 1. De burgemeester en de door deze aangewezen personen, de leden der commissies van beroep, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2023-04-20&g=2023-04-20) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=17&z=2023-04-20&g=2023-04-20), de autoriteiten, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20), benevens de transportleiders, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20), hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
 
-2. Een machtiging tot binnentreden als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (**Stb.** 1994, 572) kan worden gegeven door de commissaris van de Koning.
+2. Een machtiging tot binnentreden als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (*Stb.* 1994, 572) kan worden gegeven door de commissaris van de Koning.
 
 3. De personen, bedoeld in het eerste lid, kunnen zich bij het betreden door andere personen doen vergezellen.
 
@@ -251,7 +224,7 @@ Vervallen
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
@@ -259,19 +232,19 @@ Met het opsporen van de feiten, bij of krachtens deze wet strafbaar gesteld, zij
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
@@ -280,5 +253,3 @@ De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij
 ##### Artikel 29
 
 Deze wet kan worden aangehaald als "Wet verplaatsing bevolking".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,48 +1,24 @@
 ---
 title: "Wet van 12 juni 1909, tot uitvoering van het op 17 juli 1905 te 's-Gravenhage gesloten verdrag betreffende de burgerlijke rechtsvordering"
+citeertitel: "Uitvoeringswet Rechtsvorderingsverdrag 1905"
 identifier: "BWBR0001875"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001875"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1778933"
-version_id: "2644172"
-internal_id: "C2644171"
-label_id: "1734924"
-dtd_version: "2.0"
-original_entry_into_force: "1909-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001875/2025-01-01/0"
-intitule_bron: "Stb.1909-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1909-06-12"
-intitule_status: "goed"
-original_publication: "Stb.1909-141"
-original_signed_date: "1909-06-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1909-07-14"
-jci_1_3: "jci1.3:c:BWBR0001875&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0001875&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Rechtsvorderingsverdrag 1905"
-signed_date: "1909-06-12"
-entry_into_force: "1909-07-14"
+publicatiedatum: 1909-07-14
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0001875"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 12 juni 1909, tot uitvoering van het op 17 juli 1905 te 's-Gravenhage gesloten verdrag betreffende de burgerlijke rechtsvordering
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is voorzieningen te treffen tot uitvoering van het op 17 Juli 1905 te 's-Gravenhage gesloten verdrag betreffende de burgerlijke rechtsvordering;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Mededeeling van gerechtelijke en buitengerechtelijke stukken
 
 ##### Artikel 1
 
-Als de autoriteit, die, overeenkomstig de voorschriften van het op 17 Juli 1905 te 's-Gravenhage gesloten en bij de wet van den 15den Juli 1907 (**Staatsblad** n°. 197) goedgekeurd verdrag betreffende de burgerlijke rechtsvordering, zorg draagt voor de mededeeling van gerechtelijke en buitengerechtelijke stukken, afkomstig uit een der Staten, waar het verdrag van kracht is, wordt aangewezen de officier van justitie bij de rechtbank binnen welker rechtsgebied de mededeeling verlangd wordt.
+Als de autoriteit, die, overeenkomstig de voorschriften van het op 17 Juli 1905 te 's-Gravenhage gesloten en bij de wet van den 15den Juli 1907 (*Staatsblad* n°. 197) goedgekeurd verdrag betreffende de burgerlijke rechtsvordering, zorg draagt voor de mededeeling van gerechtelijke en buitengerechtelijke stukken, afkomstig uit een der Staten, waar het verdrag van kracht is, wordt aangewezen de officier van justitie bij de rechtbank binnen welker rechtsgebied de mededeeling verlangd wordt.
 
 ##### Artikel 2
 
@@ -52,7 +28,7 @@ Oordeelt de officier van justitie, dat artikel 4 van het verdrag toepasselijk is
 
 1. De ontvangbewijzen en verklaringen, bedoeld in artikel 5 van het verdrag, af te geven ter zake van de mededeeling van stukken, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=1&z=2025-01-01&g=2025-01-01) dezer wet bedoeld, zijn vrij van zegel en van de formaliteit van registratie of worden, indien deze formaliteit wordt gewenscht, kosteloos geregistreerd. Is de mededeeling ingevolge artikel 3 van het verdrag geschied bij beteekening door een deurwaarder, dan is het exploit van beteekening vrij van zegel en wordt het kosteloos geregistreerd.
 
-2. Artikel 8 der wet van 3 October 1843 (**Staatsblad** n°. 47) en artikel 42 der wet van 22 Frimaire, jaar VII, zijn niet van toepassing op deze ontvangbewijzen, verklaringen en exploiten. Gemeld artikel 8 blijft van toepassing, wanneer de mededeeling betreft hier te lande opgemaakte stukken, welke dadelijk op gezegeld papier hadden moeten zijn gesteld, doch die niet of niet behoorlijk van zegel zijn voorzien.
+2. Artikel 8 der wet van 3 October 1843 (*Staatsblad* n°. 47) en artikel 42 der wet van 22 Frimaire, jaar VII, zijn niet van toepassing op deze ontvangbewijzen, verklaringen en exploiten. Gemeld artikel 8 blijft van toepassing, wanneer de mededeeling betreft hier te lande opgemaakte stukken, welke dadelijk op gezegeld papier hadden moeten zijn gesteld, doch die niet of niet behoorlijk van zegel zijn voorzien.
 
 ##### Artikel 4
 
@@ -64,7 +40,7 @@ Oordeelt de officier van justitie, dat artikel 4 van het verdrag toepasselijk is
 
 - b. mededeeling in den vorm, die in het land van bestemming is voorgeschreven voor het verrichten van soortgelijke mededeelingen;
 
-- c. mededeeling, als sub **b** bedoeld, alléén voor het geval, dat eenvoudige afgifte niet mogelijk is; of
+- c. mededeeling, als sub *b* bedoeld, alléén voor het geval, dat eenvoudige afgifte niet mogelijk is; of
 
 - d. mededeeling in eenen bijzonderen, in het exploit duidelijk aan te geven vorm.
 
@@ -112,13 +88,17 @@ In geval van een getuigenverhoor of deskundigenonderzoek wordt het verzoek gedaa
 
 Oordeelt de rechtbank, aan wie overeenkomstig de voorschriften van het verdrag de rogatoire commissie is toegezonden, dat de uitvoering door een andere rechtbank behoort te geschieden, dan zendt zij de commissie aan deze rechtbank. Deze rechtbank is aan de doorzending gebonden.
 
+##### Artikel 11a
+
+De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien dit voor een goede uitvoering van de rogatoire commissie nodig wordt geoordeeld, de stukken door een beëdigd vertaler in het Nederlands doen vertalen.
+
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -145,6 +125,10 @@ Alle kosten, op de uitvoering van rogatoire commissiën vallende, komen ten last
 - a. de kosten, in artikel 16, tweede lid, van het verdrag genoemd;
 
 - b. in het geval, bedoeld in artikel 23 van het verdrag, de kosten, in het tweede lid van dat artikel genoemd.
+
+##### Artikel 18a
+
+Een afwijzende beslissing op grond van artikel 15, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2 en artikel 14, tweede lid van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
 
 #### Rogatoire commissiën door den Nederlandschen rechter opgedragen
 
@@ -243,21 +227,3 @@ Alle noodzakelijke kosten, ter zake van de uitvoerbaarverklaring van uitspraken 
 ##### Artikel 33
 
 Deze wet treedt in werking op een nader door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11a
-
-De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien dit voor een goede uitvoering van de rogatoire commissie nodig wordt geoordeeld, de stukken door een beëdigd vertaler in het Nederlands doen vertalen.
-
-##### Artikel 18a
-
-Een afwijzende beslissing op grond van artikel 15, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2 en artikel 14, tweede lid van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
-
-#### Rogatoire commissiën door den Nederlandschen rechter opgedragen
-
-#### Verhaal der proceskosten
-
-#### Slotbepaling
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

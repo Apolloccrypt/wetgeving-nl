@@ -1,42 +1,18 @@
 ---
 title: "Wet van 21 juli 1890, tot regeling van het Militair Onderwijs bij de Landmacht, voor zoover daarbij de opleiding voor den officiersrang en de hoogere vorming van den officier zijn betrokken"
+citeertitel: "Wet tot regeling van het Militair Onderwijs bij de Landmacht"
 identifier: "BWBR0001857"
-country: "nl"
-rank: "wet"
-publication_date: "1933-09-16"
-last_updated: "1933-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001857"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "320503"
-version_id: "466182"
-internal_id: "C466181"
-label_id: "314304"
-dtd_version: "2.0"
-original_entry_into_force: "1891-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001857/1933-09-16/0"
-intitule_bron: "Stb.1890-126"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1890-07-21"
-intitule_status: "goed"
-original_publication: "Stb.1890-126"
-original_signed_date: "1890-07-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1891-04-20"
-jci_1_3: "jci1.3:c:BWBR0001857&z=1933-09-16&g=1933-09-16"
-jci_1_0: "1.0:c:BWBR0001857&g=1933-09-16"
-citeertitel_status: "officieel"
-short_title: "Wet tot regeling van het Militair Onderwijs bij de Landmacht"
-signed_date: "1890-07-21"
-entry_into_force: "1891-04-20"
+publicatiedatum: 1891-04-20
+laatste_update: 1933-09-16
+status: geldig
+toestand: 1933-09-16
+bron: "https://wetten.overheid.nl/BWBR0001857"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 21 juli 1890, tot regeling van het Militair Onderwijs bij de Landmacht, voor zoover daarbij de opleiding voor den officiersrang en de hoogere vorming van den officier zijn betrokken
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging hebben genomen, dat het noodig is - ter vervanging van de voorloopige regeling van het onderwijs bij de Koninklijke Militaire Academie, vastgesteld bij de Wet van 30 Mei 1877 (**Staatsblad** n°. 141), met intrekking van die Wet en van de Wetten van 11 Juli 1882 (**Staatsblad** n°. 100), van 25 December 1887 (**Staatsblad** n°. 217), van 4 Augustus 1888 (**Staatsblad** n°. 107) en van 28 Augustus 1889 (**Staatsblad** n°. 111) - eene algemeene regeling vast te stellen van het Militair Onderwijs bij de Landmacht, voor zoover daarbij de opleiding voor den officiersrang en de hoogere vorming van den officier zijn betrokken;
-
-Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk Eerste. Inrichtingen van Militair Onderwijs
 
@@ -72,17 +48,17 @@ Door Ons worden in het belang van de hoogere vorming van officieren - bepaaldeli
 
 ##### Artikel 4
 
-De Hoogere Krijgsschool is gevestigd te **'s Gravenhage**; de Koninklijke Militaire Academie te **Breda**; de Hoofdcursus te **Kampen** of te **Breda**.
+De Hoogere Krijgsschool is gevestigd te *'s Gravenhage*; de Koninklijke Militaire Academie te *Breda*; de Hoofdcursus te *Kampen* of te *Breda*.
 
 Bij Algemeenen Maatregel van Bestuur worden aangewezen:
 
 - a. de plaats waar de Cadettenschool wordt gevestigd;
 
-- b. de korpsen van het Wapen der Infanterie, waarbij een Cursus als onder **b** van art. 2 bedoeld, wordt ingesteld.
+- b. de korpsen van het Wapen der Infanterie, waarbij een Cursus als onder *b* van art. 2 bedoeld, wordt ingesteld.
 
 ##### Artikel 4bis
 
-In **Nederlandsch-Indië** verblijf houdende, tot de Hoogere Krijgsschool, de Koninklijke Militaire Academie, de Cadettenschool of den Hoofdcursus toegelaten leerlingen kunnen, wanneer buitengewone omstandigheden daartoe nopen, naar door Ons te stellen regelen het ingevolge deze wet aan die inrichtingen te geven onderwijs in **Nederlandsch-Indië** ontvangen.
+In *Nederlandsch-Indië* verblijf houdende, tot de Hoogere Krijgsschool, de Koninklijke Militaire Academie, de Cadettenschool of den Hoofdcursus toegelaten leerlingen kunnen, wanneer buitengewone omstandigheden daartoe nopen, naar door Ons te stellen regelen het ingevolge deze wet aan die inrichtingen te geven onderwijs in *Nederlandsch-Indië* ontvangen.
 
 ### Hoofdstuk Tweede. Algemeene bepalingen
 
@@ -106,7 +82,7 @@ Daarbij wordt vastgesteld, hoeveel van de opengestelde plaatsen ter beschikking 
 
 - b. bij de Koninklijke Militaire Academie: voor elk der beide categorieën van adspiranten, bedoeld in de artt. 25 en 26 en wel voor elk Wapen afzonderlijk; en met dien verstande, dat het gezamenlijk aantal voor eerstgemelde categorie beschikbaar te stellen plaatsen gelijk zal moeten wezen aan het aantal te verwachten adspiranten van deze categorie;
 
-- c. bij den Hoofdcursus: voor de Infanterie en voor de Militaire Administratie, met dien verstande, dat, behoudens buitengewone omstandigheden, voor de Infanterie het aantal opengestelde plaatsen niet meer bedraagt dan ongeveer de helft van het aantal plaatsen, voor dat Wapen aan de Koninklijke Militaire Academie opengesteld. Het aantal en de verdeeling dier plaatsen worden in de **Staatscourant** bekend gemaakt. Voor zooveel de Koninklijke Militaire Academie en de Cadettenschool aangaat, worden daarbij tevens de eischen medegedeeld, waaraan voor toelating tot deze Inrichtingen moet worden voldaan.
+- c. bij den Hoofdcursus: voor de Infanterie en voor de Militaire Administratie, met dien verstande, dat, behoudens buitengewone omstandigheden, voor de Infanterie het aantal opengestelde plaatsen niet meer bedraagt dan ongeveer de helft van het aantal plaatsen, voor dat Wapen aan de Koninklijke Militaire Academie opengesteld. Het aantal en de verdeeling dier plaatsen worden in de *Staatscourant* bekend gemaakt. Voor zooveel de Koninklijke Militaire Academie en de Cadettenschool aangaat, worden daarbij tevens de eischen medegedeeld, waaraan voor toelating tot deze Inrichtingen moet worden voldaan.
 
 ##### Artikel 7
 
@@ -136,7 +112,7 @@ Overigens worden bij Reglement bepaald de regelen, waarnaar de leerlingen:
 
 ##### Artikel 10
 
-Tot tegemoetkoming in de kosten van de Koninklijke Militaire Academie moet jaarlijks voor iederen leerling een door Ons vast te stellen som - het bedrag van vierhonderd gulden niet te boven gaande - worden bijgedragen. De sommen, bijgedragen ten behoeve van de cadetten, bestemd voor het leger in **Nederland**, worden in 's Rijks kas gestort, terwijl de sommen, bijgedragen ten behoeve van de cadetten, bestemd voor het leger in **Nederlandsch-Indië**, rechtstreeks ten goede komen aan de geldmiddelen van dat gebiedsdeel.
+Tot tegemoetkoming in de kosten van de Koninklijke Militaire Academie moet jaarlijks voor iederen leerling een door Ons vast te stellen som - het bedrag van vierhonderd gulden niet te boven gaande - worden bijgedragen. De sommen, bijgedragen ten behoeve van de cadetten, bestemd voor het leger in *Nederland*, worden in 's Rijks kas gestort, terwijl de sommen, bijgedragen ten behoeve van de cadetten, bestemd voor het leger in *Nederlandsch-Indië*, rechtstreeks ten goede komen aan de geldmiddelen van dat gebiedsdeel.
 
 Van het betalen der bijdrage kan door Ons geheele of gedeeltelijke vrijstelling worden verleend, volgens bij reglement vast te stellen regelen.
 
@@ -196,13 +172,13 @@ Het leerplan wordt verdeeld over twee studiejaren.
 
 Nederlanders en zij, die uit anderen hoofde Nederlandsche onderdanen zijn, hebben het recht aan het toelatingsexamen voor de Cadettenschool deel te nemen, wanneer zij:
 
-- a. op het tijdstip van den aanvang van het eerstvolgende leerjaar, den vollen ouderdom van vijftien jaren bereikt en dien van achttien jaren niet overschreden hebben, zoo zij opgeleid wenschen te worden voor den dienst hier te lande, den vollen ouderdom van veertien jaren bereikt en dien van negentien jaren niet overschreden hebben, zoo zij opgeleid wenschen te worden voor den dienst in **Nederlandsch-Indië**:
+- a. op het tijdstip van den aanvang van het eerstvolgende leerjaar, den vollen ouderdom van vijftien jaren bereikt en dien van achttien jaren niet overschreden hebben, zoo zij opgeleid wenschen te worden voor den dienst hier te lande, den vollen ouderdom van veertien jaren bereikt en dien van negentien jaren niet overschreden hebben, zoo zij opgeleid wenschen te worden voor den dienst in *Nederlandsch-Indië*:
 
-- b. zich, onder overlegging der bij Reglement aangewezen bescheiden, bij Onzen Minister van Oorlog, vóór het door dien Minister te bepalen tijdstip, tot het afleggen van het examen aangemeld hebben. Zij, die aan de onder **a** of **b** gestelde eischen niet voldoen, mogen aan het examen niet deelnemen. Wij behouden Ons nochtans voor tot het deelnemen aan het toelatingsexamen voor de Cadettenschool ook toe te laten:
+- b. zich, onder overlegging der bij Reglement aangewezen bescheiden, bij Onzen Minister van Oorlog, vóór het door dien Minister te bepalen tijdstip, tot het afleggen van het examen aangemeld hebben. Zij, die aan de onder *a* of *b* gestelde eischen niet voldoen, mogen aan het examen niet deelnemen. Wij behouden Ons nochtans voor tot het deelnemen aan het toelatingsexamen voor de Cadettenschool ook toe te laten:
 
-- 1°. Nederlandsche onderdanen, behoorende tot de Inlandsche of de daarmede gelijkgestelde bevolking van **Nederlandsch-Indië**, die den onder **a** van het eerste lid van dit artikel aangegeven hoogsten leeftijd hebben overschreden, en
+   - 1°. Nederlandsche onderdanen, behoorende tot de Inlandsche of de daarmede gelijkgestelde bevolking van *Nederlandsch-Indië*, die den onder *a* van het eerste lid van dit artikel aangegeven hoogsten leeftijd hebben overschreden, en
 
-- 2°. bij uitzondering, jongelieden, die geen Nederlanders of niet uit anderen hoofde Nederlandsche onderdanen zijn, doch die aan de onder **a** en **b** van het eerste lid van dit artikel gestelde eischen voldoen.
+   - 2°. bij uitzondering, jongelieden, die geen Nederlanders of niet uit anderen hoofde Nederlandsche onderdanen zijn, doch die aan de onder *a* en *b* van het eerste lid van dit artikel gestelde eischen voldoen.
 
 ##### Artikel 16
 
@@ -220,7 +196,7 @@ Het programma van het bij art. 15 genoemde toelatings-examen omvat:
 
 Bedrevenheid in het teekenen strekt tot aanbeveling.
 
-De eischen van kennis, volgens vorenvermeld programma te stellen, worden, bij de in art. 7, onder **b**, bedoelde voorschriften, nader omschreven en toegelicht.
+De eischen van kennis, volgens vorenvermeld programma te stellen, worden, bij de in art. 7, onder *b*, bedoelde voorschriften, nader omschreven en toegelicht.
 
 ##### Artikel 17
 
@@ -240,7 +216,7 @@ Wij behouden Ons nochtans voor van de verplichting, bij het vorige lid bedoeld, 
 
 ##### Artikel 19
 
-Hij, die tot de Cadettenschool is toegelaten en bij de in art. 15, onder **b**, voorgeschreven aanmelding kennis heeft gegeven van zijn verlangen om het voorbereidend onderwijs voor toelating tot de Koninklijke Militaire Academie elders dan aan genoemde school te volgen, wordt daartoe, naar bij Reglement te bepalen regelen, in het genot van groot verlof gesteld.
+Hij, die tot de Cadettenschool is toegelaten en bij de in art. 15, onder *b*, voorgeschreven aanmelding kennis heeft gegeven van zijn verlangen om het voorbereidend onderwijs voor toelating tot de Koninklijke Militaire Academie elders dan aan genoemde school te volgen, wordt daartoe, naar bij Reglement te bepalen regelen, in het genot van groot verlof gesteld.
 
 Hij staat, voor de toepassing dezer Wet, gelijk met hem die het onderwijs aan de Cadettenschool geniet, doch is gedurende zijnen verloftijd vrijgesteld van het betalen der bijdrage bedoeld bij art. 10.
 
@@ -346,31 +322,31 @@ Nederlanders en zij, die uit anderen hoofde Nederlandsche onderdanen zijn, die:
 
 - 1a. opgeleid wenschen te worden voor den dienst hier te lande en op het tijdstip van den aanvang van het eerstvolgende leerjaar den vollen ouderdom van zeventien jaren bereikt en dien van een en twintig jaren niet overschreden hebben,
 
-- 1b. opgeleid wenschen te worden voor den dienst in **Nederlandsch-Indië** en op het tijdstip van den aanvang van het eerstvolgende leerjaar den vollen ouderdom van zestien jaren bereikt en dien van twee en twintig jaren niet overschreden hebben,
+- 1b. opgeleid wenschen te worden voor den dienst in *Nederlandsch-Indië* en op het tijdstip van den aanvang van het eerstvolgende leerjaar den vollen ouderdom van zestien jaren bereikt en dien van twee en twintig jaren niet overschreden hebben,
 
 - 2. zich, onder overlegging der bij Reglement aangewezen bescheiden, bij Onzen Minister van Oorlog, vóór het door dien Minister te bepalen tijdstip met een daartoe strekkend verzoek hebben aangemeld, worden, voor zoover zij bij geneeskundig onderzoek voor den dienst bij het wapen hunner keuze geschikt zijn bevonden, en indien over een voldoend aantal plaatsen bij dat wapen kan worden beschikt, tot de Koninklijke Militaire Academie toegelaten, wanneer zij, in het jaar van toelating of in het jaar daaraan onmiddellijk voorafgaande, in het bezit zijn gekomen:
 
-- I. hetzij van het getuigschrift van goed volbracht eindexamen voor de hoogere burgerschool met vijfjarigen cursus, bedoeld in art. 55 der wet op het middelbaar onderwijs;
+   - I. hetzij van het getuigschrift van goed volbracht eindexamen voor de hoogere burgerschool met vijfjarigen cursus, bedoeld in art. 55 der wet op het middelbaar onderwijs;
 
-- II. hetzij van het in de artt. 11 en 12 der wet op het hooger onderwijs bedoelde getuigschrift van bekwaamheid tot de studie aan eene Universiteit in de faculteit der geneeskunde of der wis- en natuurkunde;
+   - II. hetzij van het in de artt. 11 en 12 der wet op het hooger onderwijs bedoelde getuigschrift van bekwaamheid tot de studie aan eene Universiteit in de faculteit der geneeskunde of der wis- en natuurkunde;
 
-- III. hetzij van een getuigschrift of diploma krachtens eenige wet met een der onder I of II bedoelde gelijkgesteld.
+   - III. hetzij van een getuigschrift of diploma krachtens eenige wet met een der onder I of II bedoelde gelijkgesteld.
 
 Wij behouden Ons nochtans voor tot de Koninklijke Militaire Academie toe te laten:
 
-- 1°. Nederlandsche onderdanen behoorende tot de Inlandsche of de daarmede gelijkgestelde bevolking van **Nederlandsch-Indië**, die den onder 1°. van het eerste lid van dit artikel aangegeven hoogsten leeftijd hebben overschreden, en
+- 1°. Nederlandsche onderdanen behoorende tot de Inlandsche of de daarmede gelijkgestelde bevolking van *Nederlandsch-Indië*, die den onder 1°. van het eerste lid van dit artikel aangegeven hoogsten leeftijd hebben overschreden, en
 
 - 2°. bij uitzondering jongelieden, die geen Nederlanders of niet uit anderen hoofde Nederlandsche onderdanen zijn, doch die overigens aan de eischen voor toelating voldoen.
 
 ##### Artikel 26bis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
 Overtreft voor eenig wapen het aantal aan de eischen van art. 26 beantwoordende adspiranten dat der daarvoor beschikbaar gestelde plaatsen, dan hebben de betrokken adspiranten, ter bepaling van de rangorde, waarin zij voor indeeling bij het wapen hunner keuze in aanmerking komen, zich aan een rangschikkingsonderzoek te onderwerpen.
 
-De indeeling bij de verschillende wapens geschiedt vervolgens naar de rangorde, door die adspiranten bij het onderzoek, blijkens de uitspraak der commissie voor het rangschikkingsonderzoek verkregen; daarbij gelet op hetgeen, krachtens het bepaalde onder **b** van art. 7, is voorgeschreven ten aanzien van den meerderen invloed van bepaalde vakken, voor eene plaatsing bij het wapen der artillerie of bij dat der genie.
+De indeeling bij de verschillende wapens geschiedt vervolgens naar de rangorde, door die adspiranten bij het onderzoek, blijkens de uitspraak der commissie voor het rangschikkingsonderzoek verkregen; daarbij gelet op hetgeen, krachtens het bepaalde onder *b* van art. 7, is voorgeschreven ten aanzien van den meerderen invloed van bepaalde vakken, voor eene plaatsing bij het wapen der artillerie of bij dat der genie.
 
 Bij de indeeling van de in dit artikel bedoelde adspiranten wordt in acht genomen, dat hij, wiens vader in den dienst van den Staat gesneuveld, of binnen één jaar ten gevolge van in dezen dienst voor den vijand bekomen wonden overleden is, op grond hiervan, desverlangd, eene beschikbare plaats voor het wapen der infanterie inneemt, wanneer hij volgens voormelde rangorde niet voor eene benoeming tot cadet bij het wapen zijner keuze in aanmerking kan komen.
 
@@ -396,7 +372,7 @@ Het programma van het in het voorgaande lid genoemde rangschikkingsexamen omvat:
 
 - h. de Engelsche taal.
 
-De eischen van kennis, volgens vorenvermeld programma te stellen, worden bij de in art. 7, onder **b**, bedoelde voorschriften nader omschreven en toegelicht.
+De eischen van kennis, volgens vorenvermeld programma te stellen, worden bij de in art. 7, onder *b*, bedoelde voorschriften nader omschreven en toegelicht.
 
 ##### Artikel 29
 
@@ -426,7 +402,7 @@ De leerlingen der Koninklijke Militaire Academie worden door Ons tot tweede-luit
 
 ##### Artikel 32bis
 
-Aan de applicatieschool bij de Koninklijke Militaire Academie wordt onderwijs gegeven - naar regelen en gedurende een tijdvak door Ons te bepalen - in de vakken, waarin de in [Artikel 1**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Eerste&artikel=1bis&z=1933-09-16&g=1933-09-16) bedoelde officieren als cadet niet, of niet volledig, het onderwijs ontvingen als omschreven in het leerplan voor de Koninklijke Militaire Academie bedoeld in [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Tweede&artikel=5&z=1933-09-16&g=1933-09-16).
+Aan de applicatieschool bij de Koninklijke Militaire Academie wordt onderwijs gegeven - naar regelen en gedurende een tijdvak door Ons te bepalen - in de vakken, waarin de in [Artikel 1*bis*](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Eerste&artikel=1bis&z=1933-09-16&g=1933-09-16) bedoelde officieren als cadet niet, of niet volledig, het onderwijs ontvingen als omschreven in het leerplan voor de Koninklijke Militaire Academie bedoeld in [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Tweede&artikel=5&z=1933-09-16&g=1933-09-16).
 
 Aan het einde van het tijdvak in het vorige lid bedoeld, leggen de officieren, leerlingen in de vakken, waarin hun gedurende dat tijdvak onderwijs is gegeven, ten overstaan van eene door Ons te benoemen commissie een examen af, tot het geven van de vereischte bewijzen van bekwaamheid.
 
@@ -500,7 +476,7 @@ Aan onderofficieren van het Wapen der Infanterie wordt, ongeacht zij al dan niet
 
 - c. voor den militairen dienst, bij geneeskundig onderzoek, geschikt zijn bevonden.
 
-Aan onderofficieren der overige Wapens, die aan de onder **a**, **b** en **c** omschreven eischen voldoen, wordt eveneens de vergunning verleend bedoeld examen af te leggen, wanneer zij tot tweede-luitenant bij de Militaire Administratie wenschen te worden opgeleid.
+Aan onderofficieren der overige Wapens, die aan de onder *a*, *b* en *c* omschreven eischen voldoen, wordt eveneens de vergunning verleend bedoeld examen af te leggen, wanneer zij tot tweede-luitenant bij de Militaire Administratie wenschen te worden opgeleid.
 
 ##### Artikel 36
 
@@ -526,7 +502,7 @@ De onderofficieren van den Hoofdcursus worden door Ons tot tweede-luitenant bij 
 
 ##### Artikel 39bis
 
-Aan de applicatieschool bij den Hoofdcursus wordt onderwijs gegeven - naar regelen en gedurende een tijdvak door Ons te bepalen - in de vakken, waarin de in [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Eerste&artikel=1&z=1933-09-16&g=1933-09-16)**bis** bedoelde officieren als leerling van den Hoofdcursus, niet of niet volledig, het onderwijs ontvingen als omschreven in het leerplan voor den Hoofdcursus, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Tweede&artikel=5&z=1933-09-16&g=1933-09-16).
+Aan de applicatieschool bij den Hoofdcursus wordt onderwijs gegeven - naar regelen en gedurende een tijdvak door Ons te bepalen - in de vakken, waarin de in [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Eerste&artikel=1&z=1933-09-16&g=1933-09-16)*bis* bedoelde officieren als leerling van den Hoofdcursus, niet of niet volledig, het onderwijs ontvingen als omschreven in het leerplan voor den Hoofdcursus, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001857&hoofdstuk=Tweede&artikel=5&z=1933-09-16&g=1933-09-16).
 
 Aan het einde van het tijdvak in het vorige lid bedoeld, leggen de officieren, leerlingen in de vakken, waarin hun gedurende dat tijdvak onderwijs is gegeven, ten overstaan van eene door Ons te benoemen commissie een examen af, tot het geven van de vereischte bewijzen van bekwaamheid.
 
@@ -594,7 +570,7 @@ Aan de Hoogere Krijgsschool wordt - voor zoover toepasselijk ook in verband met 
 
 ##### Artikel 41
 
-Het leerplan voor de studiën bij art. 3, onder **a** en **b**, bedoeld, wordt verdeeld over drie jaren.
+Het leerplan voor de studiën bij art. 3, onder *a* en *b*, bedoeld, wordt verdeeld over drie jaren.
 
 Volgens bij Reglement vastgestelde regelen worden de leerlingen, in het belang van hunne practische vorming of voor het volgen van bijzondere studiën, met dat leerplan verband houdende, bij korpsen en burgerlijke of militaire instellingen gedetacheerd.
 
@@ -640,7 +616,7 @@ Het onderwijs aan de in deze Wet genoemde Inrichtingen van Militair Onderwijs wo
 
 - c. personen niet behoorende tot het vaste leeraarspersoneel.
 
-De onder **b** bedoelde leeraars worden door Ons benoemd, geschorst en ontslagen; die onder **a** en **c** vermeld, worden door Onzen Minister van Oorlog aangewezen.
+De onder *b* bedoelde leeraars worden door Ons benoemd, geschorst en ontslagen; die onder *a* en *c* vermeld, worden door Onzen Minister van Oorlog aangewezen.
 
 ##### Artikel 48
 
@@ -656,6 +632,4 @@ Wij behouden Ons voor, op den grondslag van de in deze Wet voorkomende bepalinge
 
 Deze Wet treedt in werking op een door Ons te bepalen tijdstip.
 
-Op dat tijdstip vervallen de Wet van 30 Mei 1877 (**Staatsblad** n°. 141), gelijk deze is gewijzigd bij de Wetten van 11 Juli 1882 (**Staatsblad** n°. 100), van 25 December 1887 (**Staatsblad** n°. 217), van 4 Augustus 1888 (**Staatsblad** n°. 107) en van 28 Augustus 1889 (**Staatsblad** n°. 111), en voorts alle besluiten, verordeningen en voorschriften betreffende het Militair Onderwijs, voor zoover daarbij de opleiding voor den officiersrang en de hoogere vorming van den officier zijn betrokken.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Op dat tijdstip vervallen de Wet van 30 Mei 1877 (*Staatsblad* n°. 141), gelijk deze is gewijzigd bij de Wetten van 11 Juli 1882 (*Staatsblad* n°. 100), van 25 December 1887 (*Staatsblad* n°. 217), van 4 Augustus 1888 (*Staatsblad* n°. 107) en van 28 Augustus 1889 (*Staatsblad* n°. 111), en voorts alle besluiten, verordeningen en voorschriften betreffende het Militair Onderwijs, voor zoover daarbij de opleiding voor den officiersrang en de hoogere vorming van den officier zijn betrokken.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 14 februari 1964, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in de artikelen 2 en 3 van de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap"
+citeertitel: "Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap"
 identifier: "BWBR0002436"
-country: "nl"
-rank: "amvb"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002436"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "989073"
-version_id: "1452452"
-internal_id: "C1452451"
-label_id: "958534"
-dtd_version: "2.0"
-original_entry_into_force: "1964-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002436/1994-01-01/0"
-intitule_bron: "Stb.1964-35"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1964-02-14"
-intitule_status: "goed"
-original_publication: "Stb.1964-35"
-original_signed_date: "1964-02-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1964-03-01"
-jci_1_3: "jci1.3:c:BWBR0002436&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0002436&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap"
-signed_date: "1964-02-14"
-entry_into_force: "1964-03-01"
+publicatiedatum: 1964-03-01
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0002436"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 14 februari 1964, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in de artikelen 2 en 3 van de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 1963, no. A-2/020324, Directoraat-Generaal van het Verkeer;
-
-Gelet op de [Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBR0002419);
-
-De Raad van State gehoord (adviezen van 4 december 1963, no. 88);
-
-Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 11 februari 1964, no A-2/021668, Directoraat-Generaal van het Verkeer;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Inleidende bepalingen
 
@@ -131,5 +103,3 @@ Onze Minister is bevoegd in bijzondere gevallen op verzoek van de ondernemer ont
 ##### Artikel 10
 
 De [Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBR0002419) en dit besluit treden in werking met ingang van 1 maart 1964.
-
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

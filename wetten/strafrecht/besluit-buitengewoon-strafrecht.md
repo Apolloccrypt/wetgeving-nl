@@ -1,54 +1,28 @@
 ---
 title: "Besluit van 22 december 1943, houdende vaststelling van het Besluit Buitengewoon Strafrecht"
+citeertitel: "Besluit Buitengewoon Strafrecht"
 identifier: "BWBR0002006"
-country: "nl"
-rank: "kb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002006"
+categorie: "Strafrecht"
 soort: "KB"
-stam_id: "308973"
-version_id: "447612"
-internal_id: "C447611"
-label_id: "302604"
-dtd_version: "2.0"
-original_entry_into_force: "1944-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002006/2024-07-01/0"
-intitule_bron: "Stb.1943-D 61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1943-12-22"
-intitule_status: "goed"
-original_publication: "Stb.1943-D 61"
-original_signed_date: "1943-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1944-09-04"
-jci_1_3: "jci1.3:c:BWBR0002006&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0002006&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Buitengewoon Strafrecht"
-signed_date: "1943-12-22"
-entry_into_force: "1944-09-04"
+publicatiedatum: 1944-09-04
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0002006"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 22 december 1943, houdende vaststelling van het Besluit Buitengewoon Strafrecht
-
-Op de voordracht van Onze Ministers voor Algemeene Oorlogvoering van het Koninkrijk, van Algemeene Zaken, van Buitenlandsche Zaken, van Justitie, van Binnenlandsche Zaken, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart, van Landbouw en Visscherij, van Sociale Zaken, van Koloniën en van Onze Ministers zonder Portefeuille van 10 December 1943, N°. 2722/G.92(**a**);
-
-Overwegende, dat de veiligheid van den Staat het dringend noodzakelijk maakt buitengewone bepalingen van strafrecht vast te stellen voor de berechting van zekere gedurende den tijd van den huidigen oorlog begane feiten, welke in zoo ernstige mate strafwaardig zijn, dat hun strafbaarheid daarmede in overeenstemming dient te worden gebracht, zonder dat een beroep op het bepaalde in [artikel 1 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=1) bij die berechting dient te worden toegelaten;
-
-Den Buitengewonen Raad van Advies gehoord;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 De bepalingen van dit besluit zijn van toepassing op de misdrijven, gedurende den tijd van den huidigen oorlog vóór 15 Mei 1945 begaan, welke zijn omschreven in:
 
-- 1°. een der [Titels I](onbekend) en [II](onbekend) van het Tweede Boek of een der [artikelen 137**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137a), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137)**b,**[205](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205) en [278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278), een der [Titels I](onbekend) en [II](onbekend) van het Tweede Boek of [artikel 150 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=150) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2024-07-01&g=2024-07-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2024-07-01&g=2024-07-01) van dit besluit;
+- 1°. een der Titels I en II van het Tweede Boek of een der [artikelen 137*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137a), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137)*b,*[205](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205) en [278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278), een der Titels I en II van het Tweede Boek of [artikel 150 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=150) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2024-07-01&g=2024-07-01) en [27*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2024-07-01&g=2024-07-01) van dit besluit;
 
-- 2°. een der [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=145), [148-151](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=148), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=157), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=159), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161), 161**bis,**[162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=164), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=168), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=170), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=172), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243), [245–250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [279](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=279), [281-283](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281), [284, eerste lid, onder 1°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=284), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [287-289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287); [300-304](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363) en [365 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=365), indien de schuldige gebruik heeft gemaakt of heeft gedreigd te maken van macht, gelegenheid of middel, hem door den vijand of door het feit der vijandelijke bezetting geboden;
+- 2°. een der [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=145), [148-151](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=148), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=157), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=159), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161), 161*bis,*[162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=164), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=168), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=170), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=172), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243), [245–250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [279](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=279), [281-283](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281), [284, eerste lid, onder 1°.](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=284), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [287-289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287); [300-304](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363) en [365 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=365), indien de schuldige gebruik heeft gemaakt of heeft gedreigd te maken van macht, gelegenheid of middel, hem door den vijand of door het feit der vijandelijke bezetting geboden;
 
-- 3°. een der [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en 416-417**bis** van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of een der [artikelen 143](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=143) en [146 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=146), met dien verstande, dat, waar in die artikelen van strafbaar feit of misdrijf wordt gesproken, daaronder ten deze alleen wordt verstaan een misdrijf, als hiervoor onder 1°. of 2°. bedoeld.
+- 3°. een der [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en 416-417*bis* van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of een der [artikelen 143](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=143) en [146 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=146), met dien verstande, dat, waar in die artikelen van strafbaar feit of misdrijf wordt gesproken, daaronder ten deze alleen wordt verstaan een misdrijf, als hiervoor onder 1°. of 2°. bedoeld.
 
 ##### Artikel 2
 
@@ -62,15 +36,15 @@ Het bepaalde in [artikel 1 van het Wetboek van Strafrecht](https://wetten.overhe
 
 1. Onverminderd het bepaalde in de artikelen 2-8 van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en in de [artikelen 4 en 5 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=4) is de Nederlandsche strafwet toepasselijk op een ieder, die zich buiten het Rijk in Europa schuldig heeft gemaakt of maakt aan:
 
-- 1°. een misdrijf, omschreven in [artikel 278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2024-07-01&g=2024-07-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2024-07-01&g=2024-07-01) van dit besluit, of een misdrijf, als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2024-07-01&g=2024-07-01)., van dit besluit, indien het feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlandsch rechtspersoon of indien eenig Nederlandsch belang daardoor is of kon worden geschaad;
+- 1°. een misdrijf, omschreven in [artikel 278 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278) of een der [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2024-07-01&g=2024-07-01) en [27*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2024-07-01&g=2024-07-01) van dit besluit, of een misdrijf, als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2024-07-01&g=2024-07-01)., van dit besluit, indien het feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlandsch rechtspersoon of indien eenig Nederlandsch belang daardoor is of kon worden geschaad;
 
-- 2°. een misdrijf, omschreven in een der artikelen 131-134**bis,** 189 en 416-417**bis** van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), met dien verstande, dat, waar in die artikelen van strafbaar feit of misdrijf wordt gesproken, daaronder ten deze alleen wordt verstaan een misdrijf, omschreven in een der artikelen 92-96, 97**a**, onder 1°., 105 en 108-110 van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), of een misdrijf als hiervoor onder 1°. bedoeld.
+- 2°. een misdrijf, omschreven in een der artikelen 131-134*bis,* 189 en 416-417*bis* van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), met dien verstande, dat, waar in die artikelen van strafbaar feit of misdrijf wordt gesproken, daaronder ten deze alleen wordt verstaan een misdrijf, omschreven in een der artikelen 92-96, 97*a*, onder 1°., 105 en 108-110 van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), of een misdrijf als hiervoor onder 1°. bedoeld.
 
 2. De Nederlandsche strafwet is insgelijks toepasselijk op den Nederlander, die zich buiten het Rijk in Europa schuldig heeft gemaakt of maakt aan eenig misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=1&z=2024-07-01&g=2024-07-01) genoemd.
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -78,7 +52,7 @@ Het bepaalde in [artikel 17 van het Wetboek van Militair Strafrecht](https://wet
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7a
 
@@ -164,7 +138,7 @@ Het bepaalde in [artikel 6:1:21 van het Wetboek van Strafvordering](https://wett
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -226,7 +200,7 @@ Hij, die gedurende den tijd van den huidigen oorlog opzettelijk gebruik maakt of
 
 ##### Artikel 27a
 
-1. Hij die gedurende den tijd van den huidigen oorlog in krijgs-, staats- of publieken dienst bij of van den vijand zich schuldig maakt aan eenig oorlogsmisdrijf of eenig misdrijf tegen de menschelijkheid als bedoeld in artikel 6 onder **(b)** of **(c)** van het handvest, behoorende bij de overeenkomst van Londen van 8 Augustus 1945, bekend gemaakt bij Ons besluit van 4 Januari 1946 (**Staatsblad** no. G 5), wordt, indien zoodanig misdrijf tevens bevat de bestanddeelen van een strafbaar feit waarop dit Besluit of het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) van toepassing is, gestraft met de daarop gestelde straf.
+1. Hij die gedurende den tijd van den huidigen oorlog in krijgs-, staats- of publieken dienst bij of van den vijand zich schuldig maakt aan eenig oorlogsmisdrijf of eenig misdrijf tegen de menschelijkheid als bedoeld in artikel 6 onder *(b)* of *(c)* van het handvest, behoorende bij de overeenkomst van Londen van 8 Augustus 1945, bekend gemaakt bij Ons besluit van 4 Januari 1946 (*Staatsblad* no. G 5), wordt, indien zoodanig misdrijf tevens bevat de bestanddeelen van een strafbaar feit waarop dit Besluit of het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) van toepassing is, gestraft met de daarop gestelde straf.
 
 2. Indien zoodanig misdrijf niet tevens bevat de bestanddeelen van een strafbaar feit volgens de Nederlandsche wet, wordt de dader gestraft met de straf, gesteld op het feit volgens de Nederlandsche wet, waarmede het de meeste overeenkomst vertoont.
 
@@ -234,12 +208,10 @@ Hij, die gedurende den tijd van den huidigen oorlog opzettelijk gebruik maakt of
 
 ##### Artikel 28
 
-De bij de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2024-07-01&g=2024-07-01) en [27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2024-07-01&g=2024-07-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
+De bij de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=26&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27&z=2024-07-01&g=2024-07-01) en [27*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=27a&z=2024-07-01&g=2024-07-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
 
 ##### Artikel 29
 
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den dag zijner afkondiging.
 
 2. Het kan worden aangehaald onder den titel: Besluit Buitengewoon Strafrecht.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 28 augustus 1919, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838"
+citeertitel: "Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838"
 identifier: "BWBR0001897"
-country: "nl"
-rank: "kb"
-publication_date: "1929-05-19"
-last_updated: "1929-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001897"
+categorie: "Staatsinrichting en bestuur"
 soort: "KB"
-stam_id: "1065103"
-version_id: "1566502"
-internal_id: "C1566501"
-label_id: "1032174"
-dtd_version: "2.0"
-original_entry_into_force: "1919-10-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001897/1929-05-19/0"
-intitule_bron: "Stb.1919-547"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1919-08-28"
-intitule_status: "goed"
-original_publication: "Stb.1919-547"
-original_signed_date: "1919-08-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1919-10-22"
-jci_1_3: "jci1.3:c:BWBR0001897&z=1929-05-19&g=1929-05-19"
-jci_1_0: "1.0:c:BWBR0001897&g=1929-05-19"
-citeertitel_status: "officieel"
-short_title: "Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838"
-signed_date: "1919-08-28"
-entry_into_force: "1919-10-22"
+publicatiedatum: 1919-10-22
+laatste_update: 1929-05-19
+status: geldig
+toestand: 1929-05-19
+bron: "https://wetten.overheid.nl/BWBR0001897"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 28 augustus 1919, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838
-
-Op de gemeenschappelijke voordracht van Onzen Minister van Onderwijs, Kunsten en Wetenschappen en van Onzen Minister van Justitie van 30 Mei 1919, n°. 2160 III, afdeeling Kunsten en Wetenschappen en van 18 Juni 1919, 1ste afdeeling C, n°. 713;
-
-Overwegende, dat het wenschelijk is de rechterlijke archieven, dagteekenende van na de invoering der Fransche wetgeving en van vóór de invoering der nieuwe rechterlijke organisatie op 1 October 1838 (voor de provincie Limburg op 1 Januari 1842), welke nog bij den Hoogen Raad der Nederlanden, de gerechtshoven, de arrondissements-rechtbanken, de kantongerechten en de gemeentebesturen berusten, naar 's Rijks archiefbewaarplaats te 's Gravenhage, de Rijksarchiefbewaarplaatsen in de provinciën of andere nader aan te wijzen archiefbewaarplaatsen over te brengen;
-
-Gelet op de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1918 (**Staatsblad** n°. 378);
-
-Den Raad van State gehoord (advies van 22 Juli 1919, n°. 29);
-
-Gelet op het nader rapport van Onze voornoemde Ministers van 16 Augustus 1919, n°. 2938, afdeeling Kunsten en Wetenschappen en van 25 Augustus 1919, 1ste afdeeling C, n°. 723;
-
-Hebben goedgevonden en verstaan:
-
-te bepalen als volgt:
 
 ##### Artikel 1
 
@@ -87,5 +55,3 @@ Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd aan de Rijks
 - d. aan den Algemeenen Rijksarchivaris en aan den Rijksarchivaris in de provincie, waartoe de gemeente behoort, steeds toegang tot de bewaarplaats van die archieven te doen verleenen;
 
 - e. terstond mededeeling te doen aan Onzen voornoemden Minister van iedere vaststelling, wijziging of intrekking van een reglement voor de gemeentelijke archiefbewaarplaats of van eene instructie voor den gemeentearchivaris en van iedere benoeming, schorsing, ontslag of overlijden van een ambtenaar, behoorende tot het personeel van de gemeentelijke archiefbewaarplaats.
-
-Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Justitie zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State en aan de Algemeene Rekenkamer.

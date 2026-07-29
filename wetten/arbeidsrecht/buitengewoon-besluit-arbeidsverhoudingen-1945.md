@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 5 oktober 1945, houdende vaststelling van het Buitengewoon Besluit Arbeidsverhoudingen 1945"
+citeertitel: "Buitengewoon Besluit Arbeidsverhoudingen 1945"
 identifier: "BWBR0002014"
-country: "nl"
-rank: "kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002014"
+categorie: "Arbeidsrecht"
 soort: "KB"
-stam_id: "248253"
-version_id: "350742"
-internal_id: "C350741"
-label_id: "243874"
-dtd_version: "2.0"
-original_entry_into_force: "1945-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002014/2020-01-01/0"
-intitule_bron: "Stb.1945-F 214"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1945-10-05"
-intitule_status: "goed"
-original_publication: "Stb.1945-F 214"
-original_signed_date: "1945-10-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1945-10-15"
-jci_1_3: "jci1.3:c:BWBR0002014&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002014&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Buitengewoon Besluit Arbeidsverhoudingen 1945"
-signed_date: "1945-10-05"
-entry_into_force: "1945-10-15"
+publicatiedatum: 1945-10-15
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002014"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 5 oktober 1945, houdende vaststelling van het Buitengewoon Besluit Arbeidsverhoudingen 1945
-
-Op de voordracht van Onzen Minister van Sociale Zaken van 5 September 1945, n°. 4600, afdeeling Arbeid II;
-
-Overwegende, dat het wenschelijk is gebleken, in afwachting van het tot stand komen van een nadere wettelijke regeling, het Buitengewoon Besluit Arbeidsverhoudingen (**Staatsblad** 1944, n°. E 52), laatstelijk gewijzigd bij Ons besluit van 29 December 1944 (**Staatsblad** n°. E 157), te herzien en opnieuw vast te stellen;
-
-Den Raad van State gehoord (advies van 25 September 1945, n°. 16);
-
-Gezien het nader rapport van Onzen voornoemden Minister van 2 October 1945, n°. 4827, afdeeling Arbeid II;
-
-Hebben goedgevonden en verstaan:
-
-vast te stellen de navolgende bepalingen
 
 #### Eerste titel. Algemene Bepalingen
 
@@ -54,15 +24,15 @@ In dit besluit wordt verstaan onder:
 
 - b. werknemer:
 
-- 1°. de werknemer, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+   - 1°. de werknemer, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- 2°. degene, die persoonlijk arbeid verricht voor een ander, tenzij hij dergelijke arbeid in de regel voor meer dan twee anderen verricht of hij zich door meer dan twee andere personen, niet zijnde zijn echtgenoot of geregistreerde partner of bij hem inwonende bloedverwanten of aanverwanten of pleegkinderen, laat bijstaan of deze arbeid voor hem slechts een bijkomstige werkzaamheid is;
+   - 2°. degene, die persoonlijk arbeid verricht voor een ander, tenzij hij dergelijke arbeid in de regel voor meer dan twee anderen verricht of hij zich door meer dan twee andere personen, niet zijnde zijn echtgenoot of geregistreerde partner of bij hem inwonende bloedverwanten of aanverwanten of pleegkinderen, laat bijstaan of deze arbeid voor hem slechts een bijkomstige werkzaamheid is;
 
 - c. werkgever:
 
-- 1°. de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+   - 1°. de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- 2°. de natuurlijke of rechtspersoon, voor wie de onder b sub 2°. genoemde arbeid wordt verricht;
+   - 2°. de natuurlijke of rechtspersoon, voor wie de onder b sub 2°. genoemde arbeid wordt verricht;
 
 - d. arbeidsverhouding: de rechtsbetrekking tussen werkgever en werknemer;
 
@@ -88,25 +58,25 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### Tweede titel. Van het aangaan en het beëindigen der arbeidsverhouding en daarmede verband houdende onderwerpen
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -124,108 +94,106 @@ Vervallen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 #### Derde titel. Van de lonen en andere arbeidsvoorwaarden
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 #### Vierde titel. Strafbepalingen
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 #### Vijfde titel. Slotbepalingen
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
-
-Onze Minister van Sociale Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.
+*Vervallen*

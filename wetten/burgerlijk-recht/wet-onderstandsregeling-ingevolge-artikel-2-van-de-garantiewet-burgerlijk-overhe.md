@@ -1,44 +1,18 @@
 ---
-title: "Wet van 21 December 1951, houdende een onderstandsregeling ingevolge artikel 2 van de \"Garantiewet Burgerlijk Overheidspersoneel Indonesië\""
+title: "Wet van 21 December 1951, houdende een onderstandsregeling ingevolge artikel 2 van de 'Garantiewet Burgerlijk Overheidspersoneel Indonesië'"
+citeertitel: "Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië"
 identifier: "BWBR0002083"
-country: "nl"
-rank: "wet"
-publication_date: "1998-04-01"
-last_updated: "1998-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002083"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "903213"
-version_id: "1320982"
-internal_id: "C1320981"
-label_id: "876424"
-dtd_version: "2.0"
-original_entry_into_force: "1951-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002083/1998-04-01/0"
-intitule_bron: "Stb.1951-592"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1951-12-21"
-intitule_status: "goed"
-original_publication: "Stb.1951-592"
-original_signed_date: "1951-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "10709"
-entry_into_force_date: "1951-12-22"
-entry_into_force_dossier: "10709"
-jci_1_3: "jci1.3:c:BWBR0002083&z=1998-04-01&g=1998-04-01"
-jci_1_0: "1.0:c:BWBR0002083&g=1998-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië"
-signed_date: "1951-12-21"
-entry_into_force: "1951-12-22"
+publicatiedatum: 1951-12-22
+laatste_update: 1998-04-01
+status: geldig
+toestand: 1998-04-01
+bron: "https://wetten.overheid.nl/BWBR0002083"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 21 December 1951, houdende een onderstandsregeling ingevolge artikel 2 van de "Garantiewet Burgerlijk Overheidspersoneel Indonesië"
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ingevolge [artikel 2, lid 8 van de "Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2)" nodig is Ons besluit van 27 Juni 1950 (**Staatsblad** No. K 268) tot vaststelling van een algemene maatregel van bestuur als bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2), te bevestigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepaling
 
@@ -56,13 +30,13 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk II. Van de onderstand, bedoeld in artikel 2, lid 4 van de Garantiewet
 
-### Afdeling I. Van de onderstand aan overheidsdienaren in vaste dienst
+#### Afdeling I. Van de onderstand aan overheidsdienaren in vaste dienst
 
 #### § 1. Aflopende onderstand
 
 ##### Artikel 2
 
-Aan overheidsdienaren in vaste dienst, die nog geen recht hebben op normaal pensioen, wordt bij dienstbeëindiging als bedoeld in [artikel 2, lid 4 van de Garantiewet](onbekend) een aflopende onderstand toegekend volgens het bepaalde in de[artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=3&z=1998-04-01&g=1998-04-01).
+Aan overheidsdienaren in vaste dienst, die nog geen recht hebben op normaal pensioen, wordt bij dienstbeëindiging als bedoeld in artikel 2, lid 4 van de Garantiewet een aflopende onderstand toegekend volgens het bepaalde in de[artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=3&z=1998-04-01&g=1998-04-01).
 
 ##### Artikel 3
 
@@ -70,7 +44,7 @@ Aan overheidsdienaren in vaste dienst, die nog geen recht hebben op normaal pens
 
 - a. gedurende twee jaren 60 ten honderd van de eerste f 500.- en 40 ten honderd van het restant,
 
-- b. gedurende de resterende termijn 40 ten honderd van de eerste f 500.- en 30 ten honderd van het restant, **a.** en **b.** van de activiteitswedde, voorzover deze een bedrag van f 1250.- 's maands niet te boven gaat.
+- b. gedurende de resterende termijn 40 ten honderd van de eerste f 500.- en 30 ten honderd van het restant, *a.* en *b.* van de activiteitswedde, voorzover deze een bedrag van f 1250.- 's maands niet te boven gaat.
 
 2. Voor een niet-kostwinner bedragen de percentages, bedoeld in lid 1, onder:
 
@@ -100,19 +74,19 @@ Aan hem, die ten tijde van het ontslag een leeftijd van tenminste 40 jaar en een
 
 - a. indien hij ten tijde van het ontslag kostwinner was en deze hoedanigheid gedurende het tijdvak, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=4&z=1998-04-01&g=1998-04-01), heeft behouden, voorzolang hij deze hoedanigheid ook verder blijft behouden, 25 ten honderd,
 
-- b. in andere gevallen 20 ten honderd, **a**. en **b**. van de activiteitswedde, voorzover deze een bedrag van f 1250.- 's maands niet te boven gaat, met dien verstande, dat deze onderstand niet kan uitgaan boven de blijvende onderstand, bedoeld in de[artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=2&artikel=6&z=1998-04-01&g=1998-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=2&artikel=7&z=1998-04-01&g=1998-04-01).
+- b. in andere gevallen 20 ten honderd, *a*. en *b*. van de activiteitswedde, voorzover deze een bedrag van f 1250.- 's maands niet te boven gaat, met dien verstande, dat deze onderstand niet kan uitgaan boven de blijvende onderstand, bedoeld in de[artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=2&artikel=6&z=1998-04-01&g=1998-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=2&artikel=7&z=1998-04-01&g=1998-04-01).
 
 #### § 2. Blijvende onderstand
 
 ##### Artikel 6
 
-Na beëindiging van de in de[artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=2&z=1998-04-01&g=1998-04-01) bedoelde onderstand wordt aan hem, die ten tijde van het ontslag op een voor pensioen tellende diensttijd van tenminste 10 jaren kan wijzen, een blijvende onderstand toegekend, indien hij op het tijdstip van die beeindiging de leeftijd van tenminste 45 jaar heeft bereikt of, indien hij op dat tijdstip nog geen 45 jaar oud is, zodra hij die leeftijd heeft bereikt. Deze blijvende onderstand is gelijk aan het bedrag van het evenredig pensioen, waarop hij volgens de voor hem op 5 Augustus 1949 van kracht zijnde bepalingen aanspraak zou hebben bij ontslag wegens welbewezen ziels- of lichaamsgebreken, met dien verstande, dat de blijvende onderstand niet kan worden gesteld op een hoger percentage van de grondslag dan het met vier verminderde percentage van de grondslag, waarop het pensioen zou zijn gesteld, indien bij dienstbeëindiging op hetzelfde tijdstip het bepaalde in [artikel 2, lid 1, sub **c** , jo lid 3 van de Garantiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2) zou zijn toegepast.
+Na beëindiging van de in de[artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=2&z=1998-04-01&g=1998-04-01) bedoelde onderstand wordt aan hem, die ten tijde van het ontslag op een voor pensioen tellende diensttijd van tenminste 10 jaren kan wijzen, een blijvende onderstand toegekend, indien hij op het tijdstip van die beeindiging de leeftijd van tenminste 45 jaar heeft bereikt of, indien hij op dat tijdstip nog geen 45 jaar oud is, zodra hij die leeftijd heeft bereikt. Deze blijvende onderstand is gelijk aan het bedrag van het evenredig pensioen, waarop hij volgens de voor hem op 5 Augustus 1949 van kracht zijnde bepalingen aanspraak zou hebben bij ontslag wegens welbewezen ziels- of lichaamsgebreken, met dien verstande, dat de blijvende onderstand niet kan worden gesteld op een hoger percentage van de grondslag dan het met vier verminderde percentage van de grondslag, waarop het pensioen zou zijn gesteld, indien bij dienstbeëindiging op hetzelfde tijdstip het bepaalde in [artikel 2, lid 1, sub *c* , jo lid 3 van de Garantiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2) zou zijn toegepast.
 
 ##### Artikel 7
 
 Indien bij het bereiken van de leeftijd van 45 jaar aanspraak is verkregen op de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=2&artikel=6&z=1998-04-01&g=1998-04-01) bedoelde blijvende onderstand, welke, eventueel vermeerderd met toelagen, als genoemd in [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=IV&z=1998-04-01&g=1998-04-01), meer bedraagt dan de op dit tijdstip ingevolge het bepaalde in de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=3&z=1998-04-01&g=1998-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=II&afdeling=I&paragraaf=1&artikel=4&z=1998-04-01&g=1998-04-01) genoten onderstand, eventueel vermeerderd met toelagen als genoemd in [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&hoofdstuk=IV&z=1998-04-01&g=1998-04-01), wordt met ingang van dat tijdstip de blijvende onderstand toegekend.
 
-### Afdeling II. Van de onderstand aan overheidsdienaren in tijdelijke dienst
+#### Afdeling II. Van de onderstand aan overheidsdienaren in tijdelijke dienst
 
 #### § 1. Algemene bepaling
 
@@ -208,16 +182,14 @@ De blijvende onderstand vervalt, wanneer hij, die deze onderstand geniet:
 
 - a. gedurende die tijd over de onderstand van de veroordeelde te beschikken ten behoeve van zijn vrouw of van zijn minderjarige afstammelingen in de rechte linie tot wie hij in familierechtelijke betrekking staat of van zijn bloedverwanten in de opgaande linie;
 
-- b. voorzover van de onder **a** bedoelde bevoegdheid geen gebruik wordt gemaakt, hem, die uit de werkinrichting of uit de gevangenis is ontslagen, in het genot te stellen van een uitkering, welke bij een straftijd van minder dan een jaar de helft van het bedrag van de onderstand over die straftijd, en bij een straftijd van langere duur de helft van het jaarlijkse bedrag van de onderstand niet te boven gaat.
+- b. voorzover van de onder *a* bedoelde bevoegdheid geen gebruik wordt gemaakt, hem, die uit de werkinrichting of uit de gevangenis is ontslagen, in het genot te stellen van een uitkering, welke bij een straftijd van minder dan een jaar de helft van het bedrag van de onderstand over die straftijd, en bij een straftijd van langere duur de helft van het jaarlijkse bedrag van de onderstand niet te boven gaat.
 
 ### Hoofdstuk VI. Slotbepalingen
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
 Deze wet treedt in werking met ingang van de dag, volgende op die van haar afkondiging en werkt terug tot 9 Juli 1950.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

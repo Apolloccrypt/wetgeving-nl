@@ -1,58 +1,24 @@
 ---
 title: "Besluit van 24 november 1932, betreffende de overbrenging van de registers van eigendomsovergangen, welke in de jaren 1812-1832 door de maires en gemeentebesturen zijn aangelegd en bijgehouden met de daarbij behoorende bescheiden naar de Rijksarchiefbewaarplaatsen"
+citeertitel: "Besluit overbrenging van registers van eigendomsovergangen naar Rijksarchiefbewaarplaatsen"
 identifier: "BWBR0001956"
-country: "nl"
-rank: "kb"
-publication_date: "1933-01-02"
-last_updated: "1933-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001956"
+categorie: "Bestuursrecht"
 soort: "KB"
-stam_id: "802613"
-version_id: "1163542"
-internal_id: "C1163541"
-label_id: "777414"
-dtd_version: "2.0"
-original_entry_into_force: "1933-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001956/1933-01-02/0"
-intitule_bron: "Stb.1932-560"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1932-11-24"
-intitule_status: "goed"
-original_publication: "Stb.1932-560"
-original_signed_date: "1932-11-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1933-01-02"
-jci_1_3: "jci1.3:c:BWBR0001956&z=1933-01-02&g=1933-01-02"
-jci_1_0: "1.0:c:BWBR0001956&g=1933-01-02"
-citeertitel_status: "officieel"
-short_title: "Besluit overbrenging van registers van eigendomsovergangen naar Rijksarchiefbewaarplaatsen"
-signed_date: "1932-11-24"
-entry_into_force: "1933-01-02"
+publicatiedatum: 1933-01-02
+laatste_update: 1933-01-02
+status: geldig
+toestand: 1933-01-02
+bron: "https://wetten.overheid.nl/BWBR0001956"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 24 november 1932, betreffende de overbrenging van de registers van eigendomsovergangen, welke in de jaren 1812-1832 door de maires en gemeentebesturen zijn aangelegd en bijgehouden met de daarbij behoorende bescheiden naar de Rijksarchiefbewaarplaatsen
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Financiën van 15 September 1932, n°. 20484, afdeeling Kunsten en Wetenschappen en van 21 September 1932, n°. 49, Centrale Directie;
-
-Overwegende, dat bij Ons besluit van 17 Juli 1915 (**Staatsblad** n°. 334) voorschriften zijn gegeven voor de overbrenging naar de bewaringen van de hypotheken en het kadaster van de registers van eigendomsovergangen, welke in de jaren 1812-1832 door de maires en gemeentebesturen zijn aangelegd en bijgehouden, met de daarbij behoorende bescheiden;
-
-Overwegende, dat het inmiddels wenschelijk is gebleken, deze registers, ongeacht of zij ingevolge Ons bovenaangehaald besluit reeds zijn overgebracht of nog zouden moeten worden overgebracht, voortaan in de Algemeene Rijksarchiefbewaarplaats te **'s-Gravenhage,** de Rijksarchiefbewaarplaatsen in de hoofdplaatsen van de provinciën of andere nader aan te wijzen archiefbewaarplaatsen te doen berusten;
-
-Gelet op de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1918 (**Staatsblad** n°. 378), zooals zij is gewijzigd en aangevuld bij de wet van 14 Mei 1928 (**Staatsblad** n°. 177);
-
-Den Raad van State gehoord (advies van 1 November 1932, n° 25);
-
-Gelet op het nader rapport van Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Financiën van 15 November 1932, n°. 53261, afdeeling Kunsten en Wetenschappen en van 18 November 1932, n°. 123, afdeeling Centrale Directie;
-
-Hebben goedgevonden en verstaan:
-
-te bepalen:
 
 ##### Artikel 1
 
-1. De registers van eigendomsovergangen van gebouwde en ongebouwde eigendommen (livres des mutations des propriétés bâties et non bâties), welke krachtens artikel 33 der wet van 3 frimaire jaar VII ( **Bulletin des lois** n°. 243) door de maires en gemeentebesturen in de jaren 1812-1832 zijn aangelegd en bijgehouden en welke, hetzij overeenkomstig de bepalingen van Ons besluit van 17 Juli 1915 (**Staatsblad** n°. 334) in de bewaringen van de hypotheken en het kadaster berusten, hetzij nog in de archieven der gemeenten, op de griffies der provinciale besturen of in de archieven van de ambtenaren der directe belastingen mochten zijn achtergebleven, zullen met de daarbij behoorende aangiften van notarissen en eigenaars van onroerende goederen en uittreksels uit en afschriften van authentieke en andere akten van overdracht of eigendomsverkrijging worden overgebracht naar de Rijksarchiefbewaarplaatsen in de hoofdplaatsen van de provinciën, waarin de gemeenten, waarop die registers en stukken betrekking hebben, gelegen zijn.
+1. De registers van eigendomsovergangen van gebouwde en ongebouwde eigendommen (livres des mutations des propriétés bâties et non bâties), welke krachtens artikel 33 der wet van 3 frimaire jaar VII ( *Bulletin des lois* n°. 243) door de maires en gemeentebesturen in de jaren 1812-1832 zijn aangelegd en bijgehouden en welke, hetzij overeenkomstig de bepalingen van Ons besluit van 17 Juli 1915 (*Staatsblad* n°. 334) in de bewaringen van de hypotheken en het kadaster berusten, hetzij nog in de archieven der gemeenten, op de griffies der provinciale besturen of in de archieven van de ambtenaren der directe belastingen mochten zijn achtergebleven, zullen met de daarbij behoorende aangiften van notarissen en eigenaars van onroerende goederen en uittreksels uit en afschriften van authentieke en andere akten van overdracht of eigendomsverkrijging worden overgebracht naar de Rijksarchiefbewaarplaatsen in de hoofdplaatsen van de provinciën, waarin de gemeenten, waarop die registers en stukken betrekking hebben, gelegen zijn.
 
-2. Ten aanzien van de provincie **Zuidholland** geschiedt de overbrenging naar de Algemeene Rijksarchiefbewaarplaats te 's-Gravenhage.
+2. Ten aanzien van de provincie *Zuidholland* geschiedt de overbrenging naar de Algemeene Rijksarchiefbewaarplaats te 's-Gravenhage.
 
 ##### Artikel 2
 
@@ -85,5 +51,3 @@ Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd om aan de Ri
 - d. aan den Algemeenen Rijksarchivaris en aan den Rijksarchivaris in de provincie, waartoe de gemeente behoort, steeds toegang tot de bewaarplaats van die registers en stukken te verleenen;
 
 - e. terstond mededeeling te doen aan Onzen voornoemden Minister van iedere vaststelling, wijziging of intrekking van een reglement voor de gemeentelijke archiefbewaarplaats of van eene instructie voor den gemeentearchivaris en van iedere benoeming, schorsing, ontslag of overlijden van een ambtenaar, behoorende tot het personeel van de gemeentelijke archiefbewaarplaats.
-
-Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Financiën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.

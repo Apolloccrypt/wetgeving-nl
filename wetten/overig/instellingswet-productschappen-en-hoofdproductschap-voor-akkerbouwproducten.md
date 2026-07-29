@@ -1,43 +1,18 @@
 ---
 title: "Wet van 30 september 1954, houdende instelling van productschappen en een hoofdproductschap voor akkerbouwproducten"
+citeertitel: "Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten"
 identifier: "BWBR0002152"
-country: "nl"
-rank: "wet"
-publication_date: "1986-01-01"
-last_updated: "1986-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002152"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1400493"
-version_id: "2100412"
-internal_id: "C2100411"
-label_id: "1358434"
-dtd_version: "2.0"
-original_entry_into_force: "1956-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002152/1986-01-01/0"
-intitule_bron: "Stb.1954-451"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1954-09-30"
-intitule_status: "goed"
-original_publication: "Stb.1954-451"
-original_signed_date: "1954-09-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "3343"
-entry_into_force_date: "1956-01-01"
-jci_1_3: "jci1.3:c:BWBR0002152&z=1986-01-01&g=1986-01-01"
-jci_1_0: "1.0:c:BWBR0002152&g=1986-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten"
-signed_date: "1954-09-30"
-entry_into_force: "1956-01-01"
+publicatiedatum: 1956-01-01
+laatste_update: 1986-01-01
+status: geldig
+toestand: 1986-01-01
+bron: "https://wetten.overheid.nl/BWBR0002152"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 30 september 1954, houdende instelling van productschappen en een hoofdproductschap voor akkerbouwproducten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 20 Februari 1953 uit eigen beweging en het door die Raad op 31 Maart 1954 op verzoek van Onze Minister voor Publiekrechtelijke Bedrijfsorganisatie daartoe uitgebrachte advies over te gaan tot instelling van productschappen als bedoeld in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K 22, sedert gewijzigd), alsmede, met toepassing van de artikelen 159-161 der Grondwet, van een hoofdproductschap, voor ondernemingen op het gebied van de teelt van, de be- en verwerking van en de handel in akkerbouwproducten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Eerste hoofdstuk De productschappen voor akkerbouwproducten
 
@@ -73,7 +48,7 @@ uitheemse zetmeelrijke producten;
 
 producten, welke uit de eerderbedoelde producten, met uitzondering van oliehoudende zaden, zijn verkregen en, al dan niet na verdere be- of verwerking, tot menselijke consumptie kunnen dienen, met uitzondering van gedistilleerde dranken en azijn en, voor wat de binnenlandse handel betreft, van bier.
 
-2. In dit artikel worden onder **gedistilleerde dranken** verstaan de alcoholhoudende producten, welke, al dan niet na be- of verwerking, kunnen dienen tot menselijke consumptie en waarvoor in geval van ge- of verbruik hier te lande gedistilleerdaccijns verschuldigd is, met uitzondering van spiritus en moutwijn.
+2. In dit artikel worden onder *gedistilleerde dranken* verstaan de alcoholhoudende producten, welke, al dan niet na be- of verwerking, kunnen dienen tot menselijke consumptie en waarvoor in geval van ge- of verbruik hier te lande gedistilleerdaccijns verschuldigd is, met uitzondering van spiritus en moutwijn.
 
 ##### Artikel 3
 
@@ -108,11 +83,11 @@ landbouwzaaizaden worden geteeld;
 
 de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wordt uitgeoefend in landbouwzaaizaden.
 
-2. In dit artikel worden onder **landbouwzaaizaden** verstaan alle zaaizaden, met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen en van voor zaaidoeleinden bestemde specerijzaden.
+2. In dit artikel worden onder *landbouwzaaizaden* verstaan alle zaaizaden, met uitzondering van zaaizaden van groentegewassen, specerijgewassen, kruiden, siergewassen en bomen en van voor zaaidoeleinden bestemde specerijzaden.
 
 ##### Artikel 6
 
-In afwijking van [artikel 73, vierde lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=73) (**Stb.** 1950, K 22, sedert gewijzigd) bedraagt het aantal door organisaties van werknemers te benoemen leden van het bestuur van het Productschap voor Landbouwzaaizaden ten minste zeven tienden en ten hoogste vier vijfden van het door organisaties van ondernemers te benoemen aantal.
+In afwijking van [artikel 73, vierde lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=73) (*Stb.* 1950, K 22, sedert gewijzigd) bedraagt het aantal door organisaties van werknemers te benoemen leden van het bestuur van het Productschap voor Landbouwzaaizaden ten minste zeven tienden en ten hoogste vier vijfden van het door organisaties van ondernemers te benoemen aantal.
 
 ##### Artikel 6a
 
@@ -170,7 +145,7 @@ veevoeder wordt vervoederd;
 
 de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wordt uitgeoefend in veevoeder.
 
-2. In dit artikel wordt onder **veevoeder** verstaan iedere stof, bestemd om te worden gebruikt als, of te worden verwerkt in voeder voor dieren.
+2. In dit artikel wordt onder *veevoeder* verstaan iedere stof, bestemd om te worden gebruikt als, of te worden verwerkt in voeder voor dieren.
 
 ##### Artikel 12
 
@@ -191,7 +166,7 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 
 ##### Artikel 13
 
-In dit hoofdstuk, met uitzondering van de artikelen 3, 9 en 12, wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
+In dit hoofdstuk, met uitzondering van de artikelen 3, 9 en 12, wordt onder *handel* mede verstaan de werkzaamheid van tussenpersonen.
 
 ##### Artikel 14
 
@@ -205,7 +180,7 @@ In dit hoofdstuk, met uitzondering van de artikelen 3, 9 en 12, wordt onder **ha
 
 - d. de voor de vervulling van de taak van het productschap nodige inzage van boeken en bescheiden en bezichtiging en opneming van bedrijfsmiddelen en voorraden van ondernemingen.
 
-2. Als aangelegenheden, bedoeld in het voorgaande lid, onder **a**, worden niet aangemerkt:
+2. Als aangelegenheden, bedoeld in het voorgaande lid, onder *a*, worden niet aangemerkt:
 
 - a. de vestiging, uitbreiding en stillegging van ondernemingen;
 
@@ -213,7 +188,7 @@ In dit hoofdstuk, met uitzondering van de artikelen 3, 9 en 12, wordt onder **ha
 
 3. Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.
 
-4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder **c** en **d**, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
+4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder *c* en *d*, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
 ##### Artikel 15
 
@@ -253,9 +228,9 @@ De wettelijke voorschriften, geldende met betrekking tot de bij het eerste hoofd
 
 de handel - met uitzondering van de aanvoer, transito- en driehoekshandel - wordt uitgeoefend in thee, koffie- of cacaobonen of daaruit verkregen producten of wijn, welke, al dan niet na verdere be- of verwerking, tot menselijke consumptie kunnen dienen.
 
-2. Als ondernemingen, bedoeld in het eerste lid, onder **b**, worden mede aangemerkt de veilingen van de daar bedoelde producten.
+2. Als ondernemingen, bedoeld in het eerste lid, onder *b*, worden mede aangemerkt de veilingen van de daar bedoelde producten.
 
-3. In dit hoofdstuk, met uitzondering van de artikelen 21 en 23, wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
+3. In dit hoofdstuk, met uitzondering van de artikelen 21 en 23, wordt onder *handel* mede verstaan de werkzaamheid van tussenpersonen.
 
 ##### Artikel 21
 
@@ -298,38 +273,38 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 | --- | --- | --- |
 | de koffiebranderij en de theepakkerij | 4 leden | 3 leden |
 | de invoerhandel in koffie en thee | 3 leden | 2 leden |
-| de werkzaamheid van tussenpersonen in koffie en thee | 1 lid |   |
+| de werkzaamheid van tussenpersonen in koffie en thee | 1 lid |  |
 | de binnenlandse groothandel in koffie en thee | l lid | 2 leden |
-| de detailhandel in koffie en thee | 1 lid |   |
+| de detailhandel in koffie en thee | 1 lid |  |
 
 2. De commissie voor cacaobonen, cacao en cacaoproducten bestaat uit 16 leden. Daarvan worden benoemd:
 
 | voor de ondernemingen op het gebied van | door organisaties van ondernemers | door organisaties van werknemers |
 | --- | --- | --- |
-| de cacaobonen, cacao en cacaoproducten be- en verwerkende industrie | 5 leden |   |
+| de cacaobonen, cacao en cacaoproducten be- en verwerkende industrie | 5 leden |  |
 | de banketbakkerij | 1 lid | 4 leden |
-| de groothandel in cacaobonen, cacao en cacaoproducten | 1 lid |   |
+| de groothandel in cacaobonen, cacao en cacaoproducten | 1 lid |  |
 | de werkzaamheid van tussenpersonen in cacaobonen, cacao en cacaoproducten | 1 lid | 1 lid |
-| de groothandel in chocolade en chocoladeproducten | 1 lid |   |
+| de groothandel in chocolade en chocoladeproducten | 1 lid |  |
 | de detailhandel in cacao, chocolade en chocoladeproducten | 1 lid | 1 lid |
 
 3. De commissie voor wijn bestaat uit 14 leden. Daarvan worden benoemd:
 
 | voor de ondernemingen op het gebied van | door organisaties van ondernemers | door organisaties van werknemers |
 | --- | --- | --- |
-| Het agentuurbedrijf van wijnen | 1 lid |   |
-| De invoerhandel in wijnen tevens groothandel | 3 leden |   |
+| Het agentuurbedrijf van wijnen | 1 lid |  |
+| De invoerhandel in wijnen tevens groothandel | 3 leden |  |
 | De groothandel in wijnen voorzover niet tevens de invoerhandel | 1 lid | 5 leden |
-| De detailhandel in wijnen | 3 leden |   |
-| Het hotel-, café- en restaurantbedrijf | 1 lid |   |
+| De detailhandel in wijnen | 3 leden |  |
+| Het hotel-, café- en restaurantbedrijf | 1 lid |  |
 
 4. De commissie voor vlas bestaat uit 13 leden. Daarvan worden benoemd:
 
 | voor de ondernemingen op het gebied van | door organisaties van ondernemers | door organisaties van werknemers |
 | --- | --- | --- |
-| De teelt van vlas | 3 leden |   |
+| De teelt van vlas | 3 leden |  |
 | De be- en verwerking van vlas en de handel in vlas en vlasprodukten | 4 leden | 4 leden |
-| De be- en verwerking van en de handel in (zaai)lijnzaad | 2 leden |   |
+| De be- en verwerking van en de handel in (zaai)lijnzaad | 2 leden |  |
 
 ##### Artikel 24
 
@@ -400,5 +375,3 @@ Deze wet kan worden aangehaald als: Instellingswet Productschappen en Hoofdprodu
 ##### Artikel 34
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

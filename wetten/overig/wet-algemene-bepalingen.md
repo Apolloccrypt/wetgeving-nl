@@ -1,58 +1,30 @@
 ---
 title: "Wet van 15 mei 1829, houdende algemeene bepalingen der wetgeving van het Koningrijk"
+citeertitel: "Wet algemene bepalingen"
 identifier: "BWBR0001833"
-country: "nl"
-rank: "wet"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001833"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1836223"
-version_id: "2739772"
-internal_id: "C2739771"
-label_id: "1790844"
-dtd_version: "2.0"
-original_entry_into_force: "1838-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001833/2012-01-01/0"
-intitule_bron: "Stb.1829-28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1829-05-15"
-intitule_status: "goed"
-original_publication: "Stb.1829-28"
-original_signed_date: "1829-05-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1838-10-01"
-jci_1_3: "jci1.3:c:BWBR0001833&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0001833&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet algemene bepalingen"
-signed_date: "1829-05-15"
-entry_into_force: "1838-10-01"
+publicatiedatum: 1838-10-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0001833"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 15 mei 1829, houdende algemeene bepalingen der wetgeving van het Koningrijk
-
-Allen den genen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij hebben in overweging genomen, dat **de algemeene bepalingen**, vervat bij de wet van den 14den Juni 1822 (**staatsblad** n°. 10), niet **bij uitsluiting** toepasselijk zijn op het burgerlijk wetboek;
-
-Dat daarenboven art. 1 over eene stoffe handelt, welke hare plaats zal behooren te vinden in eene afzonderlijke wet;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal,
-
-Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan te bepalen hetgeen volgt:
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -64,11 +36,11 @@ Eene wet kan alleen door eene latere wet, voor het geheel of gedeeltelijk, hare 
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -80,7 +52,7 @@ Het burgerlijk regt van het Koningrijk is hetzelfde voor vreemdelingen als voor 
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -92,7 +64,7 @@ Geen regter mag bij wege van algemeene verordening, dispositie of reglement, uit
 
 ##### Artikel 13
 
-De regter die weigert regt te spreken, onder voorwendsel van het stilzwijgen, de duisterheid of de onvolledigheid der wet, kan uit hoofde van **regtsweigering** vervolgd worden.
+De regter die weigert regt te spreken, onder voorwendsel van het stilzwijgen, de duisterheid of de onvolledigheid der wet, kan uit hoofde van *regtsweigering* vervolgd worden.
 
 ##### Artikel 13a
 
@@ -100,6 +72,4 @@ De regtsmagt van den regter en de uitvoerbaarheid van regterlijke vonnissen en v
 
 ##### Artikel 14
 
-Vervallen
-
-Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

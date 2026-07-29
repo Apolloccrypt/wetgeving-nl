@@ -1,59 +1,28 @@
 ---
 title: "Wet van 28 October 1954, houdende aanvaarding van een statuut voor het Koninkrijk der Nederlanden"
+citeertitel: "Statuut voor het Koninkrijk der Nederlanden"
 identifier: "BWBR0002154"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002154"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "3110153"
-version_id: "4812302"
-internal_id: "C4836001"
-label_id: "3075364"
-dtd_version: "2.0"
-original_entry_into_force: "1954-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002154/2024-01-01/0"
-intitule_bron: "Stb.1954-503"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1954-10-28"
-intitule_status: "goed"
-original_publication: "Stb.1954-503"
-original_signed_date: "1954-10-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "3517"
-entry_into_force_date: "1954-12-29"
-jci_1_3: "jci1.3:c:BWBR0002154&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0002154&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Statuut voor het Koninkrijk der Nederlanden"
-signed_date: "1954-10-28"
-entry_into_force: "1954-12-29"
+publicatiedatum: 1954-12-29
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0002154"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 28 October 1954, houdende aanvaarding van een statuut voor het Koninkrijk der Nederlanden
-
-Preambule
-
-Nederland, Aruba, Curaçao en Sint Maarten,
-
-constaterende dat Nederland, Suriname en de Nederlandse Antillen in 1954 uit vrije wil hebben verklaard in het Koninkrijk der Nederlanden een nieuwe rechtsorde te aanvaarden, waarin zij de eigen belangen zelfstandig behartigen en op voet van gelijkwaardigheid de gemeenschappelijke belangen verzorgen en wederkerig bijstand verlenen, en hebben besloten in gemeen overleg het Statuut voor het Koninkrijk vast te stellen;
-
-constaterende dat de statutaire band met Suriname is beëindigd met ingang van 25 november 1975 door wijziging van het Statuut bij rijkswet van 22 november 1975, **Stb.** 617, **PbNA** 233;
-
-constaterende dat Aruba uit vrije wil heeft verklaard deze rechtsorde als land te aanvaarden met ingang van 1 januari 1986 voor een periode van tien jaar en met ingang van 1 januari 1996 voor onbepaalde tijd;
-
-overwegende dat Curaçao en Sint Maarten elk uit vrije wil hebben verklaard deze rechtsorde als land te aanvaarden;
-
-hebben besloten in gemeen overleg het Statuut voor het Koninkrijk als volgt nader vast te stellen.
-
-Treedt in werking om 00.00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
 Het Koninkrijk omvat de landen Nederland, Aruba, Curaçao en Sint Maarten.
+
+##### Artikel 1a
+
+De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana, Prinses van Oranje-Nassau en bij opvolging door Hare wettige opvolgers.
 
 ##### Artikel 2
 
@@ -160,6 +129,10 @@ Hetgeen in dit Statuut is bepaald voor de Gevolmachtigde Minister, is van overee
 4. Wensen meerdere Gevolmachtigde Ministers aan het voortgezette overleg deel te nemen, dan geschiedt dit overleg tussen deze Gevolmachtigde Ministers, een even groot aantal ministers en de minister-president. Het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
 
 5. De raad van ministers oordeelt overeenkomstig de uitkomst van het voortgezette overleg. Wordt van de gelegenheid tot het plegen van voortgezet overleg niet binnen de bepaalde termijn gebruik gemaakt, dan bepaalt de raad van ministers zijn oordeel.
+
+##### Artikel 12a
+
+Bij rijkswet worden voorzieningen getroffen voor de behandeling van bij rijkswet aangewezen geschillen tussen het Koninkrijk en de landen.
 
 ##### Artikel 13
 
@@ -327,7 +300,7 @@ Nederland, Aruba, Curaçao en Sint Maarten verlenen elkander hulp en bijstand.
 
 ##### Artikel 36a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
@@ -360,6 +333,10 @@ Vervallen
 3. Omtrent privaatrechtelijke en strafrechtelijke onderwerpen van interregionale of internationale aard kunnen bij rijkswet regelen worden gesteld, indien omtrent deze regelen overeenstemming tussen de regeringen der betrokken landen bestaat.
 
 4. In het onderwerp van de zetelverplaatsing van rechtspersonen wordt bij rijkswet voorzien. Omtrent deze voorziening is overeenstemming tussen de regeringen der landen vereist.
+
+##### Artikel 38a
+
+De landen kunnen bij onderlinge regeling voorzieningen treffen voor de behandeling van onderlinge geschillen. Het tweede lid van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2024-01-01&g=2024-01-01) is van toepassing.
 
 ##### Artikel 39
 
@@ -465,7 +442,7 @@ Indien Aruba, Curaçao of Sint Maarten de wens daartoe te kennen geven, wordt he
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
@@ -484,6 +461,10 @@ Op het tijdstip van inwerkingtreding van het Statuut bestaande autoriteiten, ver
 ##### Artikel 57
 
 Wetten en algemene maatregelen van bestuur, die in de Nederlandse Antillen golden, hebben de staat van rijkswet, onderscheidenlijk van algemene maatregel van rijksbestuur, met dien verstande, dat zij, voor zover zij ingevolge het Statuut bij landsverordening kunnen worden gewijzigd, de staat hebben van landsverordening.
+
+##### Artikel 57a
+
+Bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur en andere regelingen en besluiten die in strijd zijn met een verandering in het Statuut, blijven gehandhaafd, totdat daarvoor met inachtneming van het Statuut een voorziening is getroffen.
 
 ##### Artikel 58
 
@@ -505,36 +486,6 @@ Wetten en algemene maatregelen van bestuur, die in de Nederlandse Antillen golde
 
 2. Dit tijdstip ligt ten hoogste een maand na de datum van vaststelling van de constitutie. Deze vaststelling vindt plaats ten hoogste een jaar na de datum van het in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2024-01-01&g=2024-01-01) bedoelde referendum.
 
-##### Artikel 61
-
-Het Statuut treedt in werking op het tijdstip van de plechtige afkondiging, nadat het bevestigd is door de Koning.
-
-Alvorens de bevestiging geschiedt, behoeft het Statuut aanvaarding voor Nederland op de wijze, in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) voorzien; voor Suriname en voor de Nederlandse Antillen door een besluit van het vertegenwoordigende lichaam.
-
-Dit besluit wordt genomen met twee derden der uitgebrachte stemmen. Wordt deze meerderheid niet verkregen, dan worden de Staten ontbonden en wordt door de nieuwe Staten bij volstrekte meerderheid der uitgebrachte stemmen beslist.
-
-##### Artikel 62
-
-Vervallen.
-
-##### Artikel 12a
-
-Bij rijkswet worden voorzieningen getroffen voor de behandeling van bij rijkswet aangewezen geschillen tussen het Koninkrijk en de landen.
-
-#### § 3. Onderlinge bijstand, overleg en samenwerking
-
-##### Artikel 38a
-
-De landen kunnen bij onderlinge regeling voorzieningen treffen voor de behandeling van onderlinge geschillen. Het tweede lid van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2024-01-01&g=2024-01-01) is van toepassing.
-
-#### § 4. De staatsinrichting van de landen
-
-#### § 5. Overgangs- en slotbepalingen
-
-##### Artikel 57a
-
-Bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur en andere regelingen en besluiten die in strijd zijn met een verandering in het Statuut, blijven gehandhaafd, totdat daarvoor met inachtneming van het Statuut een voorziening is getroffen.
-
 ##### Artikel 60a
 
 1. De door de eilandsraden van Curaçao en Sint Maarten bij eilandsverordening vastgestelde ontwerpen voor een Staatsregeling van Curaçao, onderscheidenlijk van Sint Maarten, verkrijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II) de staat van Staatsregeling van Curaçao, onderscheidenlijk van Sint Maarten, indien:
@@ -545,9 +496,9 @@ Bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijk
 
 - c. de regering van het Koninkrijk met het door de betrokken eilandsraad vastgestelde ontwerp heeft ingestemd.
 
-2. Indien een ontwerp door een eilandsraad is aanvaard met een kleinere meerderheid dan twee derden van de uitgebrachte stemmen, dan wordt voldaan aan de voorwaarde genoemd in het eerste lid, onder **b**, indien de eilandsraad na de stemming over het ontwerp is ontbonden en het ontwerp met een volstrekte meerderheid van de uitgebrachte stemmen is aanvaard door de in verband met die ontbinding nieuw gekozen eilandsraad.
+2. Indien een ontwerp door een eilandsraad is aanvaard met een kleinere meerderheid dan twee derden van de uitgebrachte stemmen, dan wordt voldaan aan de voorwaarde genoemd in het eerste lid, onder *b*, indien de eilandsraad na de stemming over het ontwerp is ontbonden en het ontwerp met een volstrekte meerderheid van de uitgebrachte stemmen is aanvaard door de in verband met die ontbinding nieuw gekozen eilandsraad.
 
-3. Indien een ontwerp door een eilandsraad is aanvaard met een kleinere meerderheid dan twee derden van de uitgebrachte stemmen en de betrokken eilandsraad niet is ontbonden, dan wordt die eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de eerste samenkomst van de nieuwe eilandsraad binnen drie maanden na de datum van het besluit tot ontbinding. Indien de nieuw gekozen eilandsraad het ontwerp aanvaardt met een volstrekte meerderheid van de uitgebrachte stemmen, wordt voldaan aan de voorwaarde genoemd onder **b** van het eerste lid.
+3. Indien een ontwerp door een eilandsraad is aanvaard met een kleinere meerderheid dan twee derden van de uitgebrachte stemmen en de betrokken eilandsraad niet is ontbonden, dan wordt die eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de eerste samenkomst van de nieuwe eilandsraad binnen drie maanden na de datum van het besluit tot ontbinding. Indien de nieuw gekozen eilandsraad het ontwerp aanvaardt met een volstrekte meerderheid van de uitgebrachte stemmen, wordt voldaan aan de voorwaarde genoemd onder *b* van het eerste lid.
 
 ##### Artikel 60b
 
@@ -559,14 +510,14 @@ Bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijk
 
 De Bestuurscolleges van Curaçao en Sint Maarten kunnen met elkaar en één of meer regeringen van de landen van het Koninkrijk ontwerp-onderlinge regelingen treffen die de staat van onderlinge regeling in de zin van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2024-01-01&g=2024-01-01), krijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
 
-##### Artikel 1a
+##### Artikel 61
 
-De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana, Prinses van Oranje-Nassau en bij opvolging door Hare wettige opvolgers.
+Het Statuut treedt in werking op het tijdstip van de plechtige afkondiging, nadat het bevestigd is door de Koning.
 
-#### § 2. De behartiging van de aangelegenheden van het Koninkrijk
+Alvorens de bevestiging geschiedt, behoeft het Statuut aanvaarding voor Nederland op de wijze, in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) voorzien; voor Suriname en voor de Nederlandse Antillen door een besluit van het vertegenwoordigende lichaam.
 
-#### § 3. Onderlinge bijstand, overleg en samenwerking
+Dit besluit wordt genomen met twee derden der uitgebrachte stemmen. Wordt deze meerderheid niet verkregen, dan worden de Staten ontbonden en wordt door de nieuwe Staten bij volstrekte meerderheid der uitgebrachte stemmen beslist.
 
-#### § 4. De staatsinrichting van de landen
+##### Artikel 62
 
-#### § 5. Overgangs- en slotbepalingen
+*Vervallen.*

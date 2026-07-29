@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 4 December 1925, tot uitvoering van artikel 198 van het nieuwe Wetboek van Strafvordering"
+citeertitel: "Besluit observatie-inrichtingen gedetineerden"
 identifier: "BWBR0001928"
-country: "nl"
-rank: "kb"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001928"
+categorie: "Strafrecht"
 soort: "KB"
-stam_id: "739493"
-version_id: "1080442"
-internal_id: "C1080441"
-label_id: "716334"
-dtd_version: "2.0"
-original_entry_into_force: "1926-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001928/1994-01-01/0"
-intitule_bron: "Stb.1925-461"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1925-12-04"
-intitule_status: "goed"
-original_publication: "Stb.1925-461"
-original_signed_date: "1925-12-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1926-02-01"
-jci_1_3: "jci1.3:c:BWBR0001928&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0001928&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit observatie-inrichtingen gedetineerden"
-signed_date: "1925-12-04"
-entry_into_force: "1926-02-01"
+publicatiedatum: 1926-02-01
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0001928"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 4 December 1925, tot uitvoering van artikel 198 van het nieuwe Wetboek van Strafvordering
-
-Op de voordracht van Onzen Minister van Justitie van 27 October 1925, 2de afdeeling A n°. 897;
-
-Gezien artikel 198 van het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
-
-Den Raad van State gehoord (advies van 17 November 1925 n°. 19);
-
-Gelet op het nader rapport van Onzen Minister van Justitie van 30 November 1925, 2de afdeeling A n°. 931;
-
-Hebben goedgevonden en verstaan te bevelen:
 
 ##### Artikel 1
 
@@ -89,5 +61,3 @@ De aanwijzing kan geschieden onder voorbehoud, dat binnen een daarbij te stellen
 ##### Artikel 6
 
 Dit besluit treedt in werking tegelijk met het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en in afschrift zal worden gezonden aan den Raad van State.

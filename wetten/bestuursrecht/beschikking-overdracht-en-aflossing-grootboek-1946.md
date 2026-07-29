@@ -1,45 +1,18 @@
 ---
 title: "Beschikking Overdracht en Aflossing Grootboek 1946"
+citeertitel: "Beschikking overdracht en aflossing Grootboek 1946"
 identifier: "BWBR0002046"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1950-11-01"
-last_updated: "1950-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002046"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3928133"
-version_id: "5681312"
-internal_id: "C5874141"
-label_id: "3908194"
-dtd_version: "2.0"
-original_entry_into_force: "1949-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002046/1950-11-01/0"
-intitule_bron: "Stcrt.1949-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-02-09"
-intitule_published: "1949-02-11"
-intitule_in_force: "1949-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1949-30"
-original_signed_date: "1949-02-09"
-original_published_date: "1949-02-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1949-03-01"
-jci_1_3: "jci1.3:c:BWBR0002046&z=1950-11-01&g=1950-11-01"
-jci_1_0: "1.0:c:BWBR0002046&g=1950-11-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking overdracht en aflossing Grootboek 1946"
-signed_date: "1949-02-09"
-entry_into_force: "1949-03-01"
+publicatiedatum: 1949-03-01
+laatste_update: 1950-11-01
+status: geldig
+toestand: 1950-11-01
+bron: "https://wetten.overheid.nl/BWBR0002046"
+opgehaald: 2026-07-29
 ---
+
 # Beschikking Overdracht en Aflossing Grootboek 1946
-
-Gelet op [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=3&z=1950-11-01&g=1950-11-01), van het Koninklijk besluit van 14 November 1945 (Staatsblad no. F 268);
-
-Gelet op de [artikelen 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=2&z=1950-11-01&g=1950-11-01), [4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=4&z=1950-11-01&g=1950-11-01), en 8a van het Koninklijk besluit van 8 januari 1946 (Staatsblad no. G 9), zoals dit is gewijzigd en aangevuld bij het Koninklijk besluit van 9 februari 1949 (Staatsblad no. J 64);
-
-Heeft goedgevonden en verstaan te bepalen:
 
 ##### Artikel 1
 
@@ -53,7 +26,7 @@ Heeft goedgevonden en verstaan te bepalen:
 
 2. Een verzoek, ingediend op een tijdstip, waarop bijschrijving op de aangewezen rekening niet kan plaats vinden, of met een onjuist ingevuld formulier, kan als niet voor inwilliging vatbaar worden aangemerkt.
 
-3. In bijzondere gevallen, ter beoordeling van de Directeur, is deze bevoegd een nieuwe rekening te openen, alhoewel het verzoek niet voldoet aan de voorwaarde, gesteld in het eerste lid, sub **b**.
+3. In bijzondere gevallen, ter beoordeling van de Directeur, is deze bevoegd een nieuwe rekening te openen, alhoewel het verzoek niet voldoet aan de voorwaarde, gesteld in het eerste lid, sub *b*.
 
 ##### Artikel 2
 
@@ -71,7 +44,7 @@ De rente van de in het Grootboek 1946 ingeschreven kapitalen wordt halfjaarlijks
 
 ##### Artikel 5
 
-De schuldbewijzen worden, onverminderd het bepaalde bij de Beschikking Beursverkeer van 27 maart 1947 (**Staatsblad** no. H 105), ter beschikking van de rechthebbende gesteld ten kantore van de Agent van het Ministerie van Financiën te Amsterdam.
+De schuldbewijzen worden, onverminderd het bepaalde bij de Beschikking Beursverkeer van 27 maart 1947 (*Staatsblad* no. H 105), ter beschikking van de rechthebbende gesteld ten kantore van de Agent van het Ministerie van Financiën te Amsterdam.
 
 ##### Artikel 6
 
@@ -79,7 +52,7 @@ De schuldbewijzen aan toonder, bedoeld in [artikel 4](https://wetten.overheid.nl
 
 - a. het omgezette bedrag wordt bijgeschreven op een bestaande rekening in het Grootboek 1946, waarop, na de omzetting of na alle op één dag te verrichten omzettingen en bijschrijvingen, als bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=1&z=1950-11-01&g=1950-11-01), een bedrag van ten minste f 10 000 is ingeschreven, of
 
-- b. een nieuwe rekening wordt geopend waarop het om te zetten bedrag wordt bijgeschreven, mits na de omzetting of na alle op één dag te verrichten omzettingen en bijschrijvingen, als bedoeld in [artikel 1, sub **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=1&z=1950-11-01&g=1950-11-01), een bedrag van ten minste f 100 000 is ingeschreven.
+- b. een nieuwe rekening wordt geopend waarop het om te zetten bedrag wordt bijgeschreven, mits na de omzetting of na alle op één dag te verrichten omzettingen en bijschrijvingen, als bedoeld in [artikel 1, sub *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=1&z=1950-11-01&g=1950-11-01), een bedrag van ten minste f 100 000 is ingeschreven.
 
 ##### Artikel 7
 
@@ -107,7 +80,7 @@ Ten behoeve van de aflossing worden onderscheiden:
 | 1957 | 4/101 | 1968 | 4/57 | 1979 | 4/13 |
 | 1958 | 4/ 97 | 1969 | 4/53 | 1980 | 4/ 9 |
 | 1959 | 4/ 93 | 1970 | 4/49 | 1981 | 4/ 5 |
-|   |   |   |   | 1982 | het restant, |
+|  |  |  |  | 1982 | het restant, |
 
 met dien verstande, dat op de aflossing op 1 November 1949 in mindering wordt gebracht het bedrag der tussen 1 Maart en 30 September 1949 voor zekerheidstellingen en heffingen in betaling gegeven schuld en op de aflossing op 1 November 1950 hetgeen uit dezen hoofde in betaling is gegeven tussen 1 October 1949 en 30 September 1950.
 
@@ -115,11 +88,11 @@ met dien verstande, dat op de aflossing op 1 November 1949 in mindering wordt ge
 
 ##### Artikel 9
 
-Het op elk der in [artikel 7, sub **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=7&z=1950-11-01&g=1950-11-01), bedoelde rekeningen af te lossen bedrag wordt gesteld op de uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=8&z=1950-11-01&g=1950-11-01) voortvloeiende delen van het op elke rekening uitstaande bedrag. Het op elke rekening af te lossen bedrag wordt afgerond op f 100 en wel naar boven, indien het bedrag eindigt op f 50 of meer, anders naar beneden.
+Het op elk der in [artikel 7, sub *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=7&z=1950-11-01&g=1950-11-01), bedoelde rekeningen af te lossen bedrag wordt gesteld op de uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=8&z=1950-11-01&g=1950-11-01) voortvloeiende delen van het op elke rekening uitstaande bedrag. Het op elke rekening af te lossen bedrag wordt afgerond op f 100 en wel naar boven, indien het bedrag eindigt op f 50 of meer, anders naar beneden.
 
 ##### Artikel 10
 
-Het voor de aflossing op de in [artikel 7, sub **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=7&z=1950-11-01&g=1950-11-01), bedoelde rekeningen beschikbare bedrag wordt gesteld op de uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=8&z=1950-11-01&g=1950-11-01) voortvloeiende delen van het totaal der saldi dezer rekeningen. De af te lossen rekeningen worden door loting aangewezen.
+Het voor de aflossing op de in [artikel 7, sub *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=7&z=1950-11-01&g=1950-11-01), bedoelde rekeningen beschikbare bedrag wordt gesteld op de uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=8&z=1950-11-01&g=1950-11-01) voortvloeiende delen van het totaal der saldi dezer rekeningen. De af te lossen rekeningen worden door loting aangewezen.
 
 ##### Artikel 11
 
@@ -129,7 +102,7 @@ Het voor aflossing op de schuldbewijzen aan toonder beschikbare bedrag wordt ges
 
 Op naam van een lid van de Vereeniging voor den Effectenhandel (Bedrijfsgroep Effectenhandel) kan ten hoogste één commissionnairsrekening worden geopend.
 
-In afwijking van het bepaalde bij [artikel 1, sub **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=1&z=1950-11-01&g=1950-11-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=6&z=1950-11-01&g=1950-11-01) gelden voor deze commissionnairsrekeningen geen beperkende bepalingen ten aanzien van de grootte der inschrijvingen.
+In afwijking van het bepaalde bij [artikel 1, sub *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=1&z=1950-11-01&g=1950-11-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=6&z=1950-11-01&g=1950-11-01) gelden voor deze commissionnairsrekeningen geen beperkende bepalingen ten aanzien van de grootte der inschrijvingen.
 
 De aflossing van bedragen, ingeschreven op commissionnairsrekeningen, geschiedt op de wijze, als bepaald in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002046&artikel=9&z=1950-11-01&g=1950-11-01).
 
@@ -139,4 +112,4 @@ Voor het aanvragen van verrichtingen bij het Grootboek 1946 moet gebruik worden 
 
 ##### Artikel 14
 
-Deze beschikking, die in de **Nederlandse Staatscourant** zal worden geplaatst, kan worden aangehaald als Beschikking overdracht en aflossing Grootboek 1946. Zij treedt in werking met ingang van 1 maart 1949.
+Deze beschikking, die in de *Nederlandse Staatscourant* zal worden geplaatst, kan worden aangehaald als Beschikking overdracht en aflossing Grootboek 1946. Zij treedt in werking met ingang van 1 maart 1949.

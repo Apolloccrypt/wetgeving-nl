@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 31 oktober 1966, houdende regelen naar welke een toeslag kan worden verleend op pensioenen van in Suriname en de Nederlandse Antillen gevestigde gewezen militairen en van hun nabestaanden"
+citeertitel: "Besluit militaire toeslagregeling pensioenen Suriname en Nederlandse Antillen"
 identifier: "BWBR0002545"
-country: "nl"
-rank: "amvb"
-publication_date: "2003-05-23"
-last_updated: "2003-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002545"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "717683"
-version_id: "1046112"
-internal_id: "C1046111"
-label_id: "695494"
-dtd_version: "2.0"
-original_entry_into_force: "1966-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002545/2003-05-23/0"
-intitule_bron: "Stb.1966-448"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1966-10-31"
-intitule_status: "goed"
-original_publication: "Stb.1966-448"
-original_signed_date: "1966-10-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1966-01-01"
-jci_1_3: "jci1.3:c:BWBR0002545&z=2003-05-23&g=2003-05-23"
-jci_1_0: "1.0:c:BWBR0002545&g=2003-05-23"
-citeertitel_status: "officieel"
-short_title: "Besluit militaire toeslagregeling pensioenen Suriname en Nederlandse Antillen"
-signed_date: "1966-10-31"
-entry_into_force: "1966-01-01"
+publicatiedatum: 1966-01-01
+laatste_update: 2003-05-23
+status: geldig
+toestand: 2003-05-23
+bron: "https://wetten.overheid.nl/BWBR0002545"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 31 oktober 1966, houdende regelen naar welke een toeslag kan worden verleend op pensioenen van in Suriname en de Nederlandse Antillen gevestigde gewezen militairen en van hun nabestaanden
-
-Op de voordracht van Onze Minister van Defensie van 6 september 1966, Directie gezamenlijke militaire personeelsdiensten en pensioenen, afd. pensioenen en wachtgelden, nr. P. 123.583/3-V;
-
-Overwegende, dat het wenselijk is de pensioenen van bepaalde militairen en van hun nabestaanden, die metterwoon gevestigd zijn in Suriname of de Nederlandse Antillen, te verhogen met een toeslag;
-
-De Raad van State gehoord (advies van 12 oktober 1966, nr. 47);
-
-Gezien het nader rapport van Onze Minister van Defensie van 28 oktober 1966, nr. P. 125.583/4-H;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -82,7 +54,7 @@ De weduwe en wezen van een overleden militair of overleden ontslagen militair, w
 
 - a. het pensioen, waarop de overledene als gewezen militair recht had of zou hebben gehad of
 
-- b. de pensioengrondslag, waarnaar het onder **a** bedoelde pensioen is of zou zijn berekend,
+- b. de pensioengrondslag, waarnaar het onder *a* bedoelde pensioen is of zou zijn berekend,
 
 hebben gedurende de tijd, dat zij metterwoon zijn gevestigd in Suriname of de Nederlandse Antillen, recht op een toeslag op dat pensioen.
 
@@ -106,6 +78,4 @@ Behoudens met betrekking tot de aanpassing aan algemene bezoldigingswijzigingen 
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst en werkt terug tot 1 januari 1966.
-
-Onze minister van defensie is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst en werkt terug tot 1 januari 1966.

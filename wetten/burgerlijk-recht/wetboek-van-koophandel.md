@@ -1,34 +1,16 @@
 ---
 title: "Wetboek van Koophandel"
 identifier: "BWBR0001838"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001838"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1327143"
-version_id: "2003882"
-internal_id: "C2003881"
-label_id: "1308524"
-dtd_version: "2.0"
-original_entry_into_force: "1838-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001838/2025-07-01/0"
-intitule_bron: "Stb.1838-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1838-04-10"
-intitule_status: "goed"
-original_publication: "Stb.1838-12"
-original_signed_date: "1838-04-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1838-10-01"
-jci_1_3: "jci1.3:c:BWBR0001838&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0001838&g=2025-07-01"
-citeertitel_status: "officieel"
-signed_date: "1838-04-10"
-entry_into_force: "1838-10-01"
+publicatiedatum: 1838-10-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0001838"
+opgehaald: 2026-07-29
 ---
+
 # Wetboek van Koophandel
 
 ## Algemeene bepaling
@@ -39,63 +21,63 @@ Het Burgerlijk Wetboek is, voor zoo verre daarvan bij dit Wetboek niet bijzonder
 
 ## Boek Eerste. Van den koophandel in het algemeen
 
-## titel Eerste. Van kooplieden en van daden van koophandel
+### titel Eerste. Van kooplieden en van daden van koophandel
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
-## titel Tweede. Vervallen.
+### titel Tweede. Vervallen.
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
-## titel Derde. Van de vennootschap onder ene firma en van die bij wijze van geldschieting of "en commandite" genaamd
+### titel Derde. Van de vennootschap onder ene firma en van die bij wijze van geldschieting of "en commandite" genaamd
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -117,7 +99,7 @@ In vennootschappen onder eene firma is elk der vennooten, wegens de verbindtenis
 
 ##### Artikel 19
 
-1. De vennootschap bij wijze van geldschieting, anders **en commandite** genaamd, wordt aangegaan tusschen eenen persoon, of tusschen meerdere hoofdelijk verbonden vennoten, en eenen of meer andere personen als geldschieters.
+1. De vennootschap bij wijze van geldschieting, anders *en commandite* genaamd, wordt aangegaan tusschen eenen persoon, of tusschen meerdere hoofdelijk verbonden vennoten, en eenen of meer andere personen als geldschieters.
 
 2. Eene vennootschap kan alzoo te gelijker tijd zijn eene vennootschap onder eene firma, ten aanzien van de vennooten onder de firma, en eene vennootschap bij wijze van geldschieting, ten aanzien van den geldschieter.
 
@@ -145,23 +127,23 @@ De vennooten onder eene firma zijn verpligt de vennootschap te doen inschrijven 
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
@@ -193,103 +175,103 @@ De gelden die gedurende de vereffening uit de kas der vennootschap kunnen gemist
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
-## titel Vierde. Van beurzen van koophandel en tussenpersonen
+### titel Vierde. Van beurzen van koophandel en tussenpersonen
 
-### afdeeling Eerste. Van beurzen van koophandel
+#### afdeeling Eerste. Van beurzen van koophandel
 
 ##### Artikel 59
 
@@ -305,7 +287,7 @@ De beurs van koophandel is de zamenkomst van kooplieden, schippers, tussenperson
 
 Het uur van het aangaan en afloopen der beurs, en alles wat de goede orde aldaar betreft, wordt door plaatselijke reglementen bepaald.
 
-### afdeeling Tweede. Van tussenpersonen
+#### afdeeling Tweede. Van tussenpersonen
 
 ##### Artikel 62
 
@@ -321,71 +303,71 @@ Het uur van het aangaan en afloopen der beurs, en alles wat de goede orde aldaar
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63cc
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
@@ -393,7 +375,7 @@ De tussenpersoon is verplicht van iedere door hem gesloten overeenkomst aanteken
 
 ##### Artikel 68a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68b
 
@@ -411,225 +393,225 @@ De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&ti
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
-### afdeling Derde. Van de agentuurovereenkomst
+#### afdeling Derde. Van de agentuurovereenkomst
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74s
 
-Vervallen
+*Vervallen*
 
-### afdeling Vierde. Van de handelsreizigersovereenkomst
+#### afdeling Vierde. Van de handelsreizigersovereenkomst
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75c
 
-Vervallen
+*Vervallen*
 
-## titel Vijfde. Van commissionairs
+### titel Vijfde. Van commissionairs
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 81
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 87
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 97
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 98
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99a
 
-Vervallen
+*Vervallen*
 
-## titel Zesde. Van wisselbrieven en orderbriefjes
+### titel Zesde. Van wisselbrieven en orderbriefjes
 
-### afdeeling Eerste. Van de uitgifte en den vorm van den wisselbrief
+#### afdeeling Eerste. Van de uitgifte en den vorm van den wisselbrief
 
 ##### Artikel 100
 
@@ -725,7 +707,7 @@ De trekker, of degene voor wiens rekening de wisselbrief is getrokken, is verpli
 
 De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bij het vervallen van den wisselbrief of op het tijdstip, waarop ingevolge het [derde lid van artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Zevende&artikel=142&z=2025-07-01&g=2025-07-01) de houder regres kan nemen, aan den trekker of aan dengene voor wiens rekening is getrokken, eene opeischbare som schuldig is, ten minste gelijkstaande met het beloop van den wisselbrief.
 
-### afdeeling Tweede. Van het endossement
+#### afdeeling Tweede. Van het endossement
 
 ##### Artikel 110
 
@@ -797,7 +779,7 @@ Zij, die uit hoofde van den wisselbrief worden aangesproken, kunnen de verweermi
 
 2. Behoudens tegenbewijs wordt het endossement zonder dagteekening geacht te zijn gesteld vóór het verstrijken van den termijn, voor het opmaken van het protest bepaald.
 
-### afdeeling Derde. Van de acceptatie
+#### afdeeling Derde. Van de acceptatie
 
 ##### Artikel 120
 
@@ -877,7 +859,7 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 2. Indien echter de betrokkene van zijne acceptatie schriftelijk heeft doen blijken aan den houder of aan iemand, wiens handteekening op den wisselbrief voorkomt, is hij tegenover dezen gehouden overeenkomstig den inhoud van zijne acceptatie.
 
-### afdeeling Vierde. Van het aval
+#### afdeeling Vierde. Van het aval
 
 ##### Artikel 129
 
@@ -905,7 +887,7 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 3. Door te betalen verkrijgt de avalgever de rechten, welke krachtens den wisselbrief kunnen worden uitgeoefend tegen dengene, voor wien het aval is gegeven en tegen degenen, die tegenover dezen krachtens den wisselbrief verbonden zijn.
 
-### afdeeling Vijfde. Van den vervaldag
+#### afdeeling Vijfde. Van den vervaldag
 
 ##### Artikel 132
 
@@ -955,7 +937,7 @@ op een bepaalden dag.
 
 4. Dit artikel is niet van toepassing, indien uit eene in den wisselbrief opgenomen clausule of uit zijne bewoordingen een afwijkende bedoeling kan worden afgeleid.
 
-### afdeeling Zesde. Van de betaling
+#### afdeeling Zesde. Van de betaling
 
 ##### Artikel 137
 
@@ -995,7 +977,7 @@ op een bepaalden dag.
 
 Bij gebreke van aanbieding ter betaling van den wisselbrief binnen den termijn, bij [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Zesde&artikel=137&z=2025-07-01&g=2025-07-01) vastgesteld, heeft elke schuldenaar de bevoegdheid, het bedrag te bevoegder plaatse in consignatie te geven, op kosten en onder verantwoordelijkheid van den houder.
 
-### afdeeling Zevende. Van het recht van regres in geval van non-acceptatie of non-betaling
+#### afdeeling Zevende. Van het recht van regres in geval van non-acceptatie of non-betaling
 
 ##### Artikel 142
 
@@ -1179,7 +1161,7 @@ vervalt het recht van den houder tegen de endossanten, tegen den trekker, en teg
 
 6. Feiten, welke voor den houder, of voor dengene, dien hij met de aanbieding van den wisselbrief of met het opmaken van het protest belastte, van zuiver persoonlijken aard zijn, worden niet beschouwd als gevallen van overmacht.
 
-### afdeeling Achtste. Van de tusschenkomst
+#### afdeeling Achtste. Van de tusschenkomst
 
 #### 1. Algemeene bepalingen
 
@@ -1247,7 +1229,7 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 3. Indien zich meer personen tot de betaling bij tusschenkomst aanbieden, heeft de voorkeur de betaling, welke het grootste aantal bevrijdingen teweegbrengt. De interveniënt, die desbewust in strijd hiermede handelt, verliest zijn recht van regres tegen hen, die anders zouden zijn bevrijd.
 
-### afdeeling Negende. Van wisselexemplaren, wisselafschriften en vermiste wisselbrieven
+#### afdeeling Negende. Van wisselexemplaren, wisselafschriften en vermiste wisselbrieven
 
 #### 1. Wisselexemplaren
 
@@ -1303,13 +1285,13 @@ Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtnemin
 
 Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49), zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.
 
-### afdeeling Tiende. Van veranderingen
+#### afdeeling Tiende. Van veranderingen
 
 ##### Artikel 168
 
 In geval van verandering van den tekst van eenen wisselbrief, zijn zij, die daarna hunne handteekeningen op den wisselbrief geplaatst hebben, volgens den veranderden tekst verbonden; zij, die daarvoor hunne handteekeningen op den wisselbrief geplaatst hebben, zijn verbonden volgens den oorspronkelijken tekst.
 
-### afdeeling Elfde. Van verjaring
+#### afdeeling Elfde. Van verjaring
 
 ##### Artikel 168a
 
@@ -1329,9 +1311,9 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 
 1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.
 
-2. Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder **a-d** van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder **b** en **c**, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.
+2. Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.
 
-### afdeeling Twaalfde. Algemene bepalingen
+#### afdeeling Twaalfde. Algemene bepalingen
 
 ##### Artikel 171
 
@@ -1351,7 +1333,7 @@ In de wettelijke of bij overeenkomst vastgestelde termijnen is niet begrepen de 
 
 Geen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
-### afdeeling Dertiende. Van orderbriefjes
+#### afdeeling Dertiende. Van orderbriefjes
 
 ##### Artikel 174
 
@@ -1415,9 +1397,9 @@ de feestdagen, de berekening der termijnen en het verbod van respijtdagen ([arti
 
 2. De orderbriefjes, betaalbaar zekeren tijd na zicht, moeten ter teekening voor "gezien" aan den onderteekenaar worden aangeboden binnen den bij [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Derde&artikel=122&z=2025-07-01&g=2025-07-01) vastgestelden termijn. De zichttermijn loopt van de dagteekening van het visum, hetwelk door den onderteekenaar op het orderbriefje moet worden geplaatst. De weigering van dezen zijn visum te plaatsen, moet worden vastgesteld door een protest ([artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Derde&artikel=124&z=2025-07-01&g=2025-07-01)), van welks dagteekening de zichttermijn begint te loopen.
 
-## titel Zevende. Van chèques, en van promessen en quitantiën aan toonder
+### titel Zevende. Van chèques, en van promessen en quitantiën aan toonder
 
-### afdeeling Eerste. Van de uitgifte en den vorm van de chèque
+#### afdeeling Eerste. Van de uitgifte en den vorm van de chèque
 
 ##### Artikel 178
 
@@ -1521,7 +1503,7 @@ De trekker, of degene voor wiens rekening de chèque is getrokken, is verplicht 
 
 De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bij de aanbieding van de chèque aan den trekker of aan dengene voor wiens rekening is getrokken, een opeischbare som schuldig is, ten minste gelijkstaande met het beloop van de chèque.
 
-### afdeeling Tweede. Van de overdracht
+#### afdeeling Tweede. Van de overdracht
 
 ##### Artikel 191
 
@@ -1597,7 +1579,7 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 2. Behoudens tegenbewijs, wordt het endossement zonder dagteekening geacht te zijn gesteld vóór het protest of de daarmede gelijkstaande verklaringen, of vóór het verstrijken van den in het voorgaande lid bedoelden termijn.
 
-### afdeeling Derde. Van het aval
+#### afdeeling Derde. Van het aval
 
 ##### Artikel 202
 
@@ -1625,7 +1607,7 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 3. Door te betalen verkrijgt de avalgever de rechten, welke krachtens de chèque kunnen worden uitgeoefend tegen dengene, voor wien het aval is gegeven en tegen degenen, die tegenover dezen krachtens de chèque verbonden zijn.
 
-### afdeeling Vierde. Van de aanbieding en van de betaling
+#### afdeeling Vierde. Van de aanbieding en van de betaling
 
 ##### Artikel 205
 
@@ -1689,7 +1671,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 4. Indien het bedrag van de chèque is aangegeven in geld, hetwelk dezelfde benaming maar een verschillende waarde heeft in het land van uitgifte en in dat van betaling, wordt men vermoed het geld van de plaats van betaling te hebben bedoeld.
 
-### afdeeling Vijfde. Van de gekruiste chèque en van de verrekeningschèque
+#### afdeeling Vijfde. Van de gekruiste chèque en van de verrekeningschèque
 
 ##### Artikel 214
 
@@ -1725,7 +1707,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 4. De betrokkene, die de bovenstaande bepalingen niet naleeft, is verantwoordelijk voor de schade tot beloop van het bedrag van de chèque.
 
-### afdeeling Zesde. Van het recht van regres in geval van non-betaling
+#### afdeeling Zesde. Van het recht van regres in geval van non-betaling
 
 ##### Artikel 217
 
@@ -1855,7 +1837,7 @@ Hij, die ter voldoening aan zijnen regresplicht de chèque heeft betaald, kan va
 
 5. Feiten, welke voor den houder of voor dengene, dien hij met de aanbieding van de chèque of met het opmaken van het protest of de daarmede gelijkstaande verklaring belastte, van zuiver persoonlijken aard zijn, worden niet beschouwd als gevallen van overmacht.
 
-### afdeeling Zevende. Van chèque-exemplaren en vermiste chèques
+#### afdeeling Zevende. Van chèque-exemplaren en vermiste chèques
 
 ##### Artikel 226
 
@@ -1875,13 +1857,13 @@ Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van [
 
 Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49) zijn rechten alleen tegen de trekker uitoefenen.
 
-### afdeeling Achtste. Van veranderingen
+#### afdeeling Achtste. Van veranderingen
 
 ##### Artikel 228
 
 In geval van verandering van den tekst van eene chèque zijn zij, die daarna hunne handteekeningen op de chèque geplaatst hebben, volgens den veranderden tekst verbonden; zij, die daarvoor hunne handteekeningen op de chèque geplaatst hebben, zijn verbonden volgens den oorspronkelijken tekst.
 
-### afdeeling Negende. Van verjaring
+#### afdeeling Negende. Van verjaring
 
 ##### Artikel 228a
 
@@ -1899,9 +1881,9 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te
 
 1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.
 
-2. Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder **a-d** van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder **b** en **c**, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.
+2. Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=321) heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.
 
-### afdeeling Tiende. Algemeene bepalingen
+#### afdeeling Tiende. Algemeene bepalingen
 
 ##### Artikel 229abis
 
@@ -1927,9 +1909,9 @@ Geen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
 ##### Artikel 229dbis
 
-Vervallen
+*Vervallen*
 
-### afdeeling Elfde. Van quitantiën en promessen aan toonder
+#### afdeeling Elfde. Van quitantiën en promessen aan toonder
 
 ##### Artikel 229e
 
@@ -1967,343 +1949,343 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 
 3. Op de in dit artikel genoemde verjaringen is het [tweede lid van art. 229a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zevende&afdeling=Negende&artikel=229a&z=2025-07-01&g=2025-07-01) van toepassing.
 
-## titel Achtste. Van reclame of terugvordering in geval van faillissement
+### titel Achtste. Van reclame of terugvordering in geval van faillissement
 
 ##### Artikel 230
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 231
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 232
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 233
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 234
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 235
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 236
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 237
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 238
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 239
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 240
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 241
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 242
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 243
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 244
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 245
 
-Vervallen
+*Vervallen*
 
-## titel Negende. Van assurantie of verzekering in het algemeen
+### titel Negende. Van assurantie of verzekering in het algemeen
 
 ##### Artikel 246
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 247
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 248
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 249
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 250
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 251
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 252
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 253
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 254
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 255
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 256
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 257
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 258
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 259
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 260
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 261
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 262
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 263
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 264
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 265
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 266
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 267
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 268
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 269
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 270
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 271
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 272
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 273
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 274
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 275
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 276
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 277
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 278
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 279
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 280
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 281
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 282
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 283
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 284
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 285
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 286
 
-Vervallen
+*Vervallen*
 
-## titel Tiende. Van verzekering tegen de gevaren van brand, tegen die waaraan de voortbrengselen van den landbouw te velde onderhevig zijn, en van levensverzekering
+### titel Tiende. Van verzekering tegen de gevaren van brand, tegen die waaraan de voortbrengselen van den landbouw te velde onderhevig zijn, en van levensverzekering
 
-### afdeeling Eerste. Van verzekering tegen gevaren van brand
+#### afdeeling Eerste. Van verzekering tegen gevaren van brand
 
 ##### Artikel 287
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 288
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 289
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 290
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 291
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 292
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 293
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 294
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 295
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 296
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 297
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 298
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
+#### afdeeling Tweede. Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
 
 ##### Artikel 299
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 300
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 301
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van levensverzekering
+#### afdeeling Derde. Van levensverzekering
 
 ##### Artikel 302
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 303
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 304
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 305
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 306
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 307
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 308
 
-Vervallen
+*Vervallen*
 
 ## Boek Tweede. Van de regten en verpligtingen uit scheepvaart voortspruitende
 
-## Algemeene Bepaling
+### Algemeene Bepaling
 
 ##### Artikel 309
 
 1. De betekenis van begrippen voorkomende in [Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034), met uitzondering van die voorkomende in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=7) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=10), geldt evenzeer voor dit wetboek.
 
-## titel Eerste. Van zeeschepen
+### titel Eerste. Van zeeschepen
 
 ##### Artikel 310
 
@@ -2311,259 +2293,259 @@ In de [eerste tot en met derde titel](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 311
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 311a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 311b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 312
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 313
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 314
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 315
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 316
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 317
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 318v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 319
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 319a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 319b
 
-Vervallen
+*Vervallen*
 
-## titel Tweede
+### titel Tweede
 
 ##### Artikel 320
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 321
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 322
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 323
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 324
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 325
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 326
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 327
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 328
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 329
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 330
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 331
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 332
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 333
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 334
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 335
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 336
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 337
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 338
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 339
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340g
 
-Vervallen
+*Vervallen*
 
-## titel Derde. Van den kapitein
+### titel Derde. Van den kapitein
 
 ##### Artikel 341
 
@@ -2571,11 +2553,11 @@ Onder opvarenden worden in dezen titel verstaan allen, die zich aan boord bevind
 
 ##### Artikel 341a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 341b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 342
 
@@ -2597,13 +2579,13 @@ De kapitein mag gedurende de vaart of bij dreigend gevaar het schip niet verlate
 
 ##### Artikel 346
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 347
 
 1. De kapitein moet aan boord voorzien zijn van:
 
-den zeebrief, den meetbrief en een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder **a**, **c**, **d**, **e**, **f**, **g** en **j**, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat, ingeval dat uittreksel meer dan één dag vóór die van het laatste vertrek van het schip uit een Nederlandse haven is afgegeven, op dat uittreksel een verklaring van de bewaarder van het kadaster en de openbare registers moet voorkomen dat sedert de afgifte de op dat uittreksel vermelde gegevens blijkens de stukken, ingeschreven in de desbetreffende openbare registers tot op de dag vóór die van het vertrek, geen wijziging hebben ondergaan;
+den zeebrief, den meetbrief en een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat, ingeval dat uittreksel meer dan één dag vóór die van het laatste vertrek van het schip uit een Nederlandse haven is afgegeven, op dat uittreksel een verklaring van de bewaarder van het kadaster en de openbare registers moet voorkomen dat sedert de afgifte de op dat uittreksel vermelde gegevens blijkens de stukken, ingeschreven in de desbetreffende openbare registers tot op de dag vóór die van het vertrek, geen wijziging hebben ondergaan;
 
 het manifest der lading, de charter-partij en de cognossementen, dan wel afschriften van die stukken;
 
@@ -2613,7 +2595,7 @@ de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verder
 
 ##### Artikel 348
 
-1. De kapitein zorgt, dat aan boord een scheepsdagboek (**dagregister** of **journaal**) wordt gehouden, waarin alles van eenig belang, dat op de reis voorvalt, nauwkeurig wordt opgeteekend.
+1. De kapitein zorgt, dat aan boord een scheepsdagboek (*dagregister* of *journaal*) wordt gehouden, waarin alles van eenig belang, dat op de reis voorvalt, nauwkeurig wordt opgeteekend.
 
 2. De kapitein van een schip, dat door mechanische kracht wordt voortbewogen, zorgt bovendien, dat door een lid van het machinekamer-personeel een machine-dagboek wordt gehouden.
 
@@ -2635,7 +2617,7 @@ Wanneer de kapitein zich in zaken van aanbelang met leden van de bemanning heeft
 
 ##### Artikel 352
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 353
 
@@ -2689,31 +2671,31 @@ De kapitein heeft de zorg voor alles wat met het beladen en het lossen van het s
 
 ##### Artikel 360
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 361
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 362
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 363
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 364
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 365
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 366
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 367
 
@@ -2725,7 +2707,7 @@ Indien den kapitein blijkt, dat de haven, waarheen het schip is bestemd, wordt g
 
 ##### Artikel 369
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 370
 
@@ -2733,7 +2715,7 @@ De kapitein mag van den koers, welken hij moet volgen, afwijken ter redding van 
 
 ##### Artikel 371
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 371a
 
@@ -2745,65 +2727,65 @@ Noch de kapitein, noch een opvarende mag voor eigen rekening goederen in het sch
 
 ##### Artikel 373
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 374
 
 1. [Artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=347&z=2025-07-01&g=2025-07-01), het [tweede lid van artikel 348](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=348&z=2025-07-01&g=2025-07-01) en [artikel 349, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=349&z=2025-07-01&g=2025-07-01), zijn niet van toepassing op zeevissersschepen.
 
-2. Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder **a**, **c**, **d**, **e**, **f**, **g** en **j**, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing.
+2. Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing.
 
 ##### Artikel 375
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 376
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 377
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 378
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 379
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 380
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 381
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 382
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 383
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 384
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 385
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 386
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 387
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 388
 
@@ -2811,2533 +2793,2533 @@ Na afloop van eene reis is de kapitein verplicht de scheepspapieren aan de werkg
 
 ##### Artikel 389
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 390
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 391
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 392
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 392a
 
-Vervallen
+*Vervallen*
 
-## titel Vierde. Van de schepelingen
+### titel Vierde. Van de schepelingen
 
 #### § 1. Algemeene bepalingen
 
 ##### Artikel 393
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 394
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 395
 
-Vervallen
+*Vervallen*
 
 #### § 2. Van de arbeidsovereenkomst tot de vaart ter zee
 
 ##### Artikel 396
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 397
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 398
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 399
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 400
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 401
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 402
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 403
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 404
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 405
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 406
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 407
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 408
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 409
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 410
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 411
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 412
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 413
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 414
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 415i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 416
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 417
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 418
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 419
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 420
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 421
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 422
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 423
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 424
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 425
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 426
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 427
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 428
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 429
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 430
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 431
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 432
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 433
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 434
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 435
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 436
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 437
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 438
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 439
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 440
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 441
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 442
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 443
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 444
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 445
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 446
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 447
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 448
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 449
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 450
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 450a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 450aa
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 450b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 450c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 450d
 
-Vervallen
+*Vervallen*
 
 #### § 3. Van de monsterrol en het monsterboekje
 
 ##### Artikel 450e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 451j
 
-Vervallen
+*Vervallen*
 
 #### § 4. Van de schepelingen ter visscherij
 
 ##### Artikel 452
 
-Vervallen
+*Vervallen*
 
 #### § 5. Van de schepelingen ter zeevisserij die een arbeidsovereenkomst met de zeewerkgever hebben gesloten
 
 ##### Artikel 452a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452p
 
-Vervallen
+*Vervallen*
 
 #### § 6. Van de kapitein en de schepelingen ter zeevisserij die een maatschapsovereenkomst hebben gesloten
 
 ##### Artikel 452q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 452w
 
-Vervallen
+*Vervallen*
 
-## titel Vijfde. Van vervrachting en bevrachting van schepen
+### titel Vijfde. Van vervrachting en bevrachting van schepen
 
 #### § 1. Algemeene bepalingen
 
 ##### Artikel 453
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 454
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 455
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 456
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 457
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 458
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 459
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 459a
 
-Vervallen
+*Vervallen*
 
 #### § 2. Tijd-bevrachting
 
 ##### Artikel 460
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 461
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 462
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 463
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 464
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 465
 
-Vervallen
+*Vervallen*
 
-## Vijfde titel A. Van het vervoer van goederen
+### Vijfde titel A. Van het vervoer van goederen
 
 #### § 1. Algemeene bepalingen
 
 ##### Artikel 466
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 467
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 467a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 468
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 469
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 469a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 469b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 470
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 470a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 471
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 472
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 473
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 473a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 474
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 475
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 476
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 477
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 478
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 479
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 480
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 481
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 482
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 483
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 484
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 485
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 486
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 487
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 488
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 489
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 490
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 491
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 492
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 493
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 494
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 495
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 496
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 497
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 498
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 499
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 500
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 501
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 502
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 503
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 504
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 505
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 506
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 507
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 508
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 509
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 510
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 511
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 512
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 513
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 513a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 514
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 515
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 516
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517d
 
-Vervallen
+*Vervallen*
 
 #### § 2. Vaste lijnen
 
 ##### Artikel 517e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517ubis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517x
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 517ij
 
-Vervallen
+*Vervallen*
 
 #### § 3. Tijd-bevrachting
 
 ##### Artikel 517z
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518g
 
-Vervallen
+*Vervallen*
 
 #### § 4. Reis-bevrachting
 
 ##### Artikel 518h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518x
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518ij
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 518z
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519x
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519ij
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 519z
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520abis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520f
 
-Vervallen
+*Vervallen*
 
 #### § 5. Vervoer van stukgoederen
 
 ##### Artikel 520g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 520t
 
-Vervallen
+*Vervallen*
 
-## Vijfde titel B. Van het vervoer van personen
+### Vijfde titel B. Van het vervoer van personen
 
 #### § 1. Algemeene bepalingen
 
 ##### Artikel 521
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 522
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 523
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 524
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 524a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 524b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 525
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 526
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 527
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 528
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 529
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 530
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 531
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 532
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533c
 
-Vervallen
+*Vervallen*
 
 #### § 2. Vaste lijnen
 
 ##### Artikel 533d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533mbis
 
-Vervallen
+*Vervallen*
 
 #### § 3. Tijd-bevrachting
 
 ##### Artikel 533n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533p
 
-Vervallen
+*Vervallen*
 
 #### § 4. Reis-bevrachting
 
 ##### Artikel 533q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533u
 
-Vervallen
+*Vervallen*
 
 #### § 5. Vervoer van enkele personen
 
 ##### Artikel 533v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533x
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533ij
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 533z
 
-Vervallen
+*Vervallen*
 
-## titel Zesde. Van aanvaring
+### titel Zesde. Van aanvaring
 
 ##### Artikel 534
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 535
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 536
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 536a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 537
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 538
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 539
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 540
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 541
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 542
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 543
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 544
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 544a
 
-Vervallen
+*Vervallen*
 
-## titel Zevende. Van hulp en berging
+### titel Zevende. Van hulp en berging
 
 ##### Artikel 545
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 546
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 547
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 548
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 549
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 550
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 551
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 552
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 553
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 554
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 555
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 556
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 557
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 558
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 559
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 560
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 561
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 562
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 563
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 564
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 565
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 566
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 567
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 568
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 569
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 570
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 571
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 572
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 573
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 574
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 575
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 576
 
-Vervallen
+*Vervallen*
 
-## titel Achtste. Van bodemerij
+### titel Achtste. Van bodemerij
 
 ##### Artikel 577
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 578
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 579
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 580
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 581
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 582
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 583
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 584
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 585
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 586
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 587
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 588
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 589
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 590
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 591
 
-Vervallen
+*Vervallen*
 
-## titel Negende. Van verzekering tegen de gevaren der zee en die der slavernij
+### titel Negende. Van verzekering tegen de gevaren der zee en die der slavernij
 
-### afdeeling Eerste. Van den vorm en den inhoud der verzekering
+#### afdeeling Eerste. Van den vorm en den inhoud der verzekering
 
 ##### Artikel 592
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 593
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 594
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 595
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 596
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 597
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 598
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 599
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 600
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 601
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 602
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 603
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 604
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 605
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 606
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 607
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 608
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 609
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 610
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 611
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 612
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 613
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 614
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 615
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 616
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 617
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 618
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van de begrooting der verzekerde voorwerpen
+#### afdeeling Tweede. Van de begrooting der verzekerde voorwerpen
 
 ##### Artikel 619
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 620
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 621
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 622
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 623
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van het begin en het einde van het gevaar
+#### afdeeling Derde. Van het begin en het einde van het gevaar
 
 ##### Artikel 624
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 625
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 626
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 627
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 628
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 629
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 630
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 631
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 632
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 633
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 634
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vierde. Van de regten en pligten van den verzekeraar en den verzekerde
+#### afdeeling Vierde. Van de regten en pligten van den verzekeraar en den verzekerde
 
 ##### Artikel 635
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 636
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 637
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 638
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 639
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 640
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 641
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 642
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 643
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 644
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 645
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 646
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 647
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 648
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 649
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 650
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 651
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 652
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 653
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 654
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 655
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 656
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 657
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 658
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 659
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 660
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 661
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 662
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vijfde. Van abandonnement
+#### afdeeling Vijfde. Van abandonnement
 
 ##### Artikel 663
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 664
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 665
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 666
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 667
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 668
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 669
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 670
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 671
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 672
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 673
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 674
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 675
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 676
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 677
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 678
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 679
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 680
 
-Vervallen
+*Vervallen*
 
-### afdeeling Zesde. Van de plichten en rechten van tussenpersonen in zee-assurantiën
+#### afdeeling Zesde. Van de plichten en rechten van tussenpersonen in zee-assurantiën
 
 ##### Artikel 681
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 682
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 683
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 684
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 685
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 685a
 
-Vervallen
+*Vervallen*
 
-## titel Tiende. Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
+### titel Tiende. Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
 
 ##### Artikel 686
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 687
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 688
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 689
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 690
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 691
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 692
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 693
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 694
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 695
 
-Vervallen
+*Vervallen*
 
-## titel Elfde. Van avarijen
+### titel Elfde. Van avarijen
 
 ##### Artikel 696
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 697
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 698
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 699
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 700
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 701
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 702
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 703
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 704
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 705
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 706
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 707
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 708
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 709
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 710
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 711
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 712
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 713
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 714
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 715
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 716
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 717
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 718
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 719
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 720
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 721
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 722
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 723
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 724
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 725
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 726
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 727
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 728
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 729
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 730
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 731
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 732
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 733
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 734
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 735
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 736
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 737
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 738
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 739
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740
 
-Vervallen
+*Vervallen*
 
-## Elfde titel A. Van de beperking der aansprakelijkheid
+### Elfde titel A. Van de beperking der aansprakelijkheid
 
 ##### Artikel 740a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 740j
 
-Vervallen
+*Vervallen*
 
-## titel Twaalfde. Van het te niet gaan der verbindtenissen in den zeehandel
+### titel Twaalfde. Van het te niet gaan der verbindtenissen in den zeehandel
 
 ##### Artikel 741
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 742
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 743
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 744
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 745
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 746
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 747
 
-Vervallen
+*Vervallen*
 
-## titel Dertiende. Van de binnenvaart
+### titel Dertiende. Van de binnenvaart
 
-### afdeling Eerste. Binnenschepen en voorwerpen aan boord daarvan
+#### afdeling Eerste. Binnenschepen en voorwerpen aan boord daarvan
 
 #### § 1. Rechten op binnenschepen
 
 ##### Artikel 748
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 749
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 750
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 751
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 752
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 753
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 754
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 755
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 756
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 757
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 758
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 759
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 760
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 761
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 762
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 763
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 764
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 765n
 
-Vervallen
+*Vervallen*
 
 #### § 2. Voorrechten op binnenschepen
 
 ##### Artikel 766
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 767
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 768
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 769
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 770
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 771
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 772
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 773
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 774
 
-Vervallen
+*Vervallen*
 
 #### § 3. Voorrechten op voorwerpen aan boord van binnenschepen
 
 ##### Artikel 775
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 775a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 775b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 775c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 775d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 775e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 775f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 776
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 777
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 778
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 779
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van den eigenaar en den gebruiker van een binnenschip
+#### afdeeling Tweede. Van den eigenaar en den gebruiker van een binnenschip
 
 ##### Artikel 780
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 781
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van den schipper en de schepelingen
+#### afdeeling Derde. Van den schipper en de schepelingen
 
 ##### Artikel 782
 
@@ -5353,7 +5335,7 @@ Vervallen
 
 ##### Artikel 784
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 785
 
@@ -5365,765 +5347,765 @@ Vervallen
 
 ##### Artikel 786
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 787
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vierde. Van vervrachting en bevrachting van binnenschepen in het algemeen
+#### afdeeling Vierde. Van vervrachting en bevrachting van binnenschepen in het algemeen
 
 ##### Artikel 788
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 789
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 790
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 791
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 791a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 792
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 793
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 794
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 795
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 796
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 797
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 798
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 799
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 800
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 801
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 802
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 803
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 804
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 805
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 806
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 807
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 808
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vijfde. Van het vervoer van goederen
+#### afdeeling Vijfde. Van het vervoer van goederen
 
 ##### Artikel 809
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 810
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 811
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 812
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 813
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 814
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 815
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 815a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 816
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 817
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 818
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 819
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 820
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 821
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 822
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 823
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 824
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 825
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 826
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 827
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 828
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 829
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 830
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 831
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 832
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 833
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 834
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 835
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 836
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 837
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 838
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 839
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 840
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 841
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 842
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 843
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 844
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 845
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 846
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 847
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 848
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 849
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 850
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 851
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 852
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 853
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 854
 
-Vervallen
+*Vervallen*
 
 #### § 2. Beurtvaart
 
 ##### Artikel 855
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 856
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 857
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 858
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 859
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 860
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 861
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 862
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 863
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 864
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 865
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 866
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 867
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 868
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 869
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 870
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 871
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 872
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 873
 
-Vervallen
+*Vervallen*
 
 #### § 3. Reisbevrachting
 
 ##### Artikel 874
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 875
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 876
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 877
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 878
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 879
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 880
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 881
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 882
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 883
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 884
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 885
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 886
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 887
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 888
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 889
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 890
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 891
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 892
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 893
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 894
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 895
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 896
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 897
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 898
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 899
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 900
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 901
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 902
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 903
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 904
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 905
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 906
 
-Vervallen
+*Vervallen*
 
 #### § 4. Bevrachting voor liggen en/of varen
 
 ##### Artikel 907
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 908
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 909
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 910
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 911
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 912
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 913
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 914
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 915
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 916
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 917
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 918
 
-Vervallen
+*Vervallen*
 
-### afdeeling Zesde. Van het vervoer van personen
+#### afdeeling Zesde. Van het vervoer van personen
 
 ##### Artikel 919
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 920
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 921
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 921a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 922
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 923
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 924
 
-Vervallen
+*Vervallen*
 
-### afdeeling Zevende. Van het sleepen van binnenschepen
+#### afdeeling Zevende. Van het sleepen van binnenschepen
 
 ##### Artikel 925
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 926
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 927
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 928
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 929
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 930
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 931
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 931a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 932
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 933
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 934
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 935
 
-Vervallen
+*Vervallen*
 
-### afdeeling Achtste. Van aanvaring
+#### afdeeling Achtste. Van aanvaring
 
 ##### Artikel 936
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 937
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 938
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 939
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 940
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 940a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 941
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 942
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 943
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 944
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 945
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 946
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 947
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 948
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 949
 
-Vervallen
+*Vervallen*
 
-### afdeeling Negende. Van hulp en berging
+#### afdeeling Negende. Van hulp en berging
 
 ##### Artikel 950
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tiende. Van avarijen
+#### afdeeling Tiende. Van avarijen
 
 ##### Artikel 951
 
-Vervallen
+*Vervallen*
 
-### Afdeling 10A. Van de beperking der aansprakelijkheid
+#### Afdeling 10A. Van de beperking der aansprakelijkheid
 
 ##### Artikel 951a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 951b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 951c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 951d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 951e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 951f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 951g
 
-Vervallen
+*Vervallen*
 
-### afdeeling Elfde. Van verjaring en verval
+#### afdeeling Elfde. Van verjaring en verval
 
 ##### Artikel 952
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 953
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 954
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 955
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 956
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 957
 
-Vervallen
+*Vervallen*
 
-## Algemene slotbepaling
+### Algemene slotbepaling
 
 ##### Artikel 958
 

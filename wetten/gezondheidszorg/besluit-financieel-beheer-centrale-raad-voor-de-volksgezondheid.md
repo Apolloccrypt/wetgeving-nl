@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 25 april 1959, tot regeling van het financieel beheer van de Centrale Raad voor de Volksgezondheid"
+citeertitel: "Besluit Financieel Beheer Centrale Raad voor de Volksgezondheid"
 identifier: "BWBR0002314"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-09-01"
-last_updated: "2002-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002314"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "444093"
-version_id: "652592"
-internal_id: "C652591"
-label_id: "431994"
-dtd_version: "2.0"
-original_entry_into_force: "1959-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002314/2002-09-01/0"
-intitule_bron: "Stb.1959-151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1959-04-25"
-intitule_status: "goed"
-original_publication: "Stb.1959-151"
-original_signed_date: "1959-04-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1959-06-04"
-jci_1_3: "jci1.3:c:BWBR0002314&z=2002-09-01&g=2002-09-01"
-jci_1_0: "1.0:c:BWBR0002314&g=2002-09-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Financieel Beheer Centrale Raad voor de Volksgezondheid"
-signed_date: "1959-04-25"
-entry_into_force: "1959-06-04"
+publicatiedatum: 1959-06-04
+laatste_update: 2002-09-01
+status: geldig
+toestand: 2002-09-01
+bron: "https://wetten.overheid.nl/BWBR0002314"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 25 april 1959, tot regeling van het financieel beheer van de Centrale Raad voor de Volksgezondheid
-
-Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid van 10 december 1958, no. 18361, Directie Volksgezondheid, Afdeling Medische Beroepen en Ziektenbestrijding;
-
-Gelet op [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=19), en [artikel 62 van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=62) (wet van 18 januari 1956, **Stb.** 51);
-
-De Raad van State gehoord (advies van 6 januari 1959, no. 29);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Volksgezondheid a.i. van 20 april 1959, no. 3347, Directie Volksgezondheid, Afdeling Medische Beroepen en Ziektenbestrijding;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -52,7 +24,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - b. "Centrale Raad": de Centrale Raad voor de Volksgezondheid;
 
-- c. "de Wet": de [Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202) (wet van 18 januari 1956, **Stb.** 51).
+- c. "de Wet": de [Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202) (wet van 18 januari 1956, *Stb.* 51).
 
 ### Hoofdstuk II. De begroting
 
@@ -191,5 +163,3 @@ De Centrale Raad doet aan Onze Minister en aan de Algemene Rekenkamer mededeling
 ##### Artikel 23
 
 Dit besluit kan worden aangehaald als: Besluit Financieel Beheer Centrale Raad voor de Volksgezondheid.
-
-Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

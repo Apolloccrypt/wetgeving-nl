@@ -1,43 +1,18 @@
 ---
 title: "Wet van 2 februari 1967, houdende liquidatie wettelijke ongevallenverzekering in verband met de invoering van de Wet op de arbeidsongeschiktheidsverzekering"
+citeertitel: "Liquidatiewet ongevallenwetten"
 identifier: "BWBR0002553"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002553"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1605153"
-version_id: "2375422"
-internal_id: "C2375421"
-label_id: "1559974"
-dtd_version: "2.0"
-original_entry_into_force: "1967-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002553/2015-01-01/0"
-intitule_bron: "Stb.1967-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-02-02"
-intitule_status: "goed"
-original_publication: "Stb.1967-99"
-original_signed_date: "1967-02-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "8636"
-entry_into_force_date: "1967-07-01"
-jci_1_3: "jci1.3:c:BWBR0002553&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0002553&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Liquidatiewet ongevallenwetten"
-signed_date: "1967-02-02"
-entry_into_force: "1967-07-01"
+publicatiedatum: 1967-07-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0002553"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 2 februari 1967, houdende liquidatie wettelijke ongevallenverzekering in verband met de invoering van de Wet op de arbeidsongeschiktheidsverzekering
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met de regeling inzake een verplichte verzekering van loontrekkenden tegen geldelijke gevolgen van langdurige arbeidsongeschiktheid de wettelijke ongevallenverzekering te liquideren en daarmede verband houdende voorzieningen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -53,23 +28,23 @@ Voor de toepassing van deze wet en van de tot haar uitvoering genomen besluiten 
 
 - d.
 
-- 1. Ongevallenfonds: het Ongevallenfonds als bedoeld in artikel 40, zesde lid, van de Ongevallenwet 1921;
+   - 1. Ongevallenfonds: het Ongevallenfonds als bedoeld in artikel 40, zesde lid, van de Ongevallenwet 1921;
 
-- 2. Landbouwongevallenfonds: het Landbouwongevallenfonds als bedoeld in artikel 1, eerste lid, onder **d**, van de Land- en Tuinbouwongevallenwet 1922;
+   - 2. Landbouwongevallenfonds: het Landbouwongevallenfonds als bedoeld in artikel 1, eerste lid, onder *d*, van de Land- en Tuinbouwongevallenwet 1922;
 
 - e. risicodrager ingevolge de Ongevallenwet 1921: de Sociale Verzekeringsbank als beheerder van het Ongevallenfonds, de werkgever aan wie krachtens artikel 54 van genoemde wet is toegestaan het risico der bij die wet geregelde verzekering zelf te dragen en de naamloze vennootschap of de rechtspersoonlijkheid bezittende vereniging - daaronder begrepen een wederkerige verzekerings- of waarborgmaatschappij - aan wie krachtens artikel 54 van de Ongevallenwet 1921 door een werkgever het risico der in die wet geregelde verzekering is overgedragen;
 
-- f. risicodrager ingevolge de Land- en Tuinbouwongevallenwet 1922: de Sociale Verzekeringsbank als beheerder van het Landbouwongevallenfonds en de bedrijfsvereniging, bedoeld in artikel 1, eerste lid, onder **e**, van genoemde wet;
+- f. risicodrager ingevolge de Land- en Tuinbouwongevallenwet 1922: de Sociale Verzekeringsbank als beheerder van het Landbouwongevallenfonds en de bedrijfsvereniging, bedoeld in artikel 1, eerste lid, onder *e*, van genoemde wet;
 
 - g. risicodrager ingevolge de Zeeongevallenwet 1919:
 
-- 1. in het geval, bedoeld in artikel 6, eerste lid, onder I, van die wet: de reder;
+   - 1. in het geval, bedoeld in artikel 6, eerste lid, onder I, van die wet: de reder;
 
-- 2. in het geval, bedoeld in artikel 6, eerste lid, onder II, van die wet: de reder alsmede de verzekeraar of andere derde als daar bedoeld;
+   - 2. in het geval, bedoeld in artikel 6, eerste lid, onder II, van die wet: de reder alsmede de verzekeraar of andere derde als daar bedoeld;
 
-- 3. in het geval, bedoeld in artikel 6, tweede lid, van die wet: de reder alsmede de Staat der Nederlanden als verzekeraar als daar bedoeld;
+   - 3. in het geval, bedoeld in artikel 6, tweede lid, van die wet: de reder alsmede de Staat der Nederlanden als verzekeraar als daar bedoeld;
 
-- 4. het Rijk voor zover ingevolge artikel 10, derde lid, van die wet de uitkeringen ingevolge die wet ten laste van het Rijk komen;
+   - 4. het Rijk voor zover ingevolge artikel 10, derde lid, van die wet de uitkeringen ingevolge die wet ten laste van het Rijk komen;
 
 - h. Arbeidsongeschiktheidsfonds: het Arbeidsongeschiktheidsfonds als bedoeld in [hoofdstuk III, § 2, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&paragraaf=2).
 
@@ -83,29 +58,29 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 1. Onverminderd het overigens bij of krachtens deze wet bepaalde worden met ingang van de dag, waarop [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt, ingetrokken:
 
-- a. de wet van 2 januari 1901, **Stb.** 1, (Ongevallenwet 1921);
+- a. de wet van 2 januari 1901, *Stb.* 1, (Ongevallenwet 1921);
 
-- b. de wet van 20 mei 1922, **Stb.** 365, (Land- en Tuinbouwongevallenwet 1922);
+- b. de wet van 20 mei 1922, *Stb.* 365, (Land- en Tuinbouwongevallenwet 1922);
 
-- c. de wet van 8 mei 1915, **Stb.** 214, (Zeeongevallenwet 1919);
+- c. de wet van 8 mei 1915, *Stb.* 214, (Zeeongevallenwet 1919);
 
-- d. de wet van 26 mei 1950, **Stb.** K 191, (Wet tot aanvulling der ongevallenrenten);
+- d. de wet van 26 mei 1950, *Stb.* K 191, (Wet tot aanvulling der ongevallenrenten);
 
-- e. de wet van 4 juli 1957, **Stb.** 223, (Wet compensatie premie [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ongevallenrentetrekkers);
+- e. de wet van 4 juli 1957, *Stb.* 223, (Wet compensatie premie [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ongevallenrentetrekkers);
 
-- f. de wet van 10 oktober 1962, **Stb.** 394, tot tijdelijke verdere verhoging van ongevalsuitkeringen;
+- f. de wet van 10 oktober 1962, *Stb.* 394, tot tijdelijke verdere verhoging van ongevalsuitkeringen;
 
-- g. de wet van 13 februari 1964, **Stb.** 62, tot tijdelijke verdere verhoging van ongevalsuitkeringen;
+- g. de wet van 13 februari 1964, *Stb.* 62, tot tijdelijke verdere verhoging van ongevalsuitkeringen;
 
-- h. de wet van 1 maart 1946, **Stb.** G 46, betreffende ongevallenverzekering van werknemers, die bij hun arbeid in ernstige mate aan het gevaar blootstaan te worden getroffen door ongevallen, welke als gevolg van oorlogshandelingen plaatshebben;
+- h. de wet van 1 maart 1946, *Stb.* G 46, betreffende ongevallenverzekering van werknemers, die bij hun arbeid in ernstige mate aan het gevaar blootstaan te worden getroffen door ongevallen, welke als gevolg van oorlogshandelingen plaatshebben;
 
-- i. de wet van 24 juli 1903, **Stb.** 245, ter voorkoming van gelijktijdig genot van wegens hetzelfde feit toegekende tijdelijke uitkering of rente ingevolge de Ongevallenwet 1901 en pensioen of onderstand ten laste van de Staat;
+- i. de wet van 24 juli 1903, *Stb.* 245, ter voorkoming van gelijktijdig genot van wegens hetzelfde feit toegekende tijdelijke uitkering of rente ingevolge de Ongevallenwet 1901 en pensioen of onderstand ten laste van de Staat;
 
-- j. de wet van 25 november 1953, **Stb.** 560, betreffende ongevallenverzekering van de vrijwillige brandweer.
+- j. de wet van 25 november 1953, *Stb.* 560, betreffende ongevallenverzekering van de vrijwillige brandweer.
 
 2. De bepalingen van de in het vorige lid genoemde wetten en van haar uitvoeringsbesluiten, zoals deze luidden op de dag, voorafgaande aan die, waarop die wetten werden ingetrokken, blijven van toepassing ten aanzien van rechten, bevoegdheden en verplichtingen, betrekking hebbende op tijdvakken, gelegen vóór de in het vorige lid bedoelde dag.
 
-3. Het bepaalde in artikel 10 van de in het eerste lid, onder **f**, in artikel 4 van de in dat lid, onder **h**, en in artikel 9 van de in dat lid, onder **j**, genoemde wet blijft van kracht.
+3. Het bepaalde in artikel 10 van de in het eerste lid, onder *f*, in artikel 4 van de in dat lid, onder *h*, en in artikel 9 van de in dat lid, onder *j*, genoemde wet blijft van kracht.
 
 ### Hoofdstuk III. Afwikkeling rechten en verplichtingen over tijdvakken, gelegen na de liquidatiedatum
 
@@ -117,11 +92,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 2. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, ten gevolge van een hem op eerstbedoelde dag overkomen ongeval ongeschikt wordt tot het verrichten van zijn werk, heeft recht op een uitkering als bedoeld in artikel 15 van de Ongevallenwet 1921 of artikel 36 van de Land- en Tuinbouwongevallenwet 1922 en vervolgens ter zake van aan vorenbedoelde ongeschiktheid aansluitende gehele of gedeeltelijke ongeschiktheid tot werken ten gevolge van dat ongeval, recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921 of artikel 37 van de Land- en Tuinbouwongevallenwet 1922, indien en voor zolang hij deze rechten zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
 
-3. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, ten gevolge van een hem op eerstbedoelde dag overkomen ongeval ongeschikt wordt tot werken, terwijl hij ter zake van die ongeschiktheid geen recht heeft op uitkering ingevolge het bepaalde in het vorige lid, heeft recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, indien en voor zolang hij dit recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
+3. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, ten gevolge van een hem op eerstbedoelde dag overkomen ongeval ongeschikt wordt tot werken, terwijl hij ter zake van die ongeschiktheid geen recht heeft op uitkering ingevolge het bepaalde in het vorige lid, heeft recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, indien en voor zolang hij dit recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
 
 ##### Artikel 5
 
-1. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, terwijl alsdan nog geen jaar is verstreken na de dag van het ongeval, ter zake waarvan die uitkering is verleend, behoudt bedoeld recht, indien en voor zolang hij dit recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
+1. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, terwijl alsdan nog geen jaar is verstreken na de dag van het ongeval, ter zake waarvan die uitkering is verleend, behoudt bedoeld recht, indien en voor zolang hij dit recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
 
 2. In afwijking van het bepaalde in het vorige lid vervalt het daar bedoelde recht met ingang van de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, indien de betrokkene met ingang van die dag uit anderen hoofde een arbeidsongeschiktheidsuitkering ontleent aan de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551).
 
@@ -129,7 +104,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 1. Degene, die op of na de dag, waarop de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, doch binnen 183 dagen na een hem vóór bedoelde dag overkomen ongeval, ten gevolge van dat ongeval ongeschikt wordt tot het verrichten van zijn werk, heeft ter zake van die ongeschiktheid recht op een uitkering als bedoeld in artikel 15 van de Ongevallenwet 1921 of artikel 36 van de Land- en Tuinbouwongevallenwet 1922 en vervolgens, ter zake van aan vorenbedoelde ongeschiktheid aansluitende gehele of gedeeltelijke ongeschiktheid tot werken ten gevolge van dat ongeval, recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921 of artikel 37 van de Land- en Tuinbouwongevallenwet 1922, indien en voor zolang hij deze rechten zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
 
-2. Degene, die op of na de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, doch binnen een jaar na een hem vóór bedoelde dag overkomen ongeval ten gevolge van dat ongeval geheel of gedeeltelijk ongeschikt wordt tot werken, terwijl hij ter zake van die ongeschiktheid geen recht heeft op uitkering ingevolge het bepaalde in het vorige lid, heeft ter zake van die ongeschiktheid recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, indien en voor zolang hij dat recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
+2. Degene, die op of na de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, doch binnen een jaar na een hem vóór bedoelde dag overkomen ongeval ten gevolge van dat ongeval geheel of gedeeltelijk ongeschikt wordt tot werken, terwijl hij ter zake van die ongeschiktheid geen recht heeft op uitkering ingevolge het bepaalde in het vorige lid, heeft ter zake van die ongeschiktheid recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, indien en voor zolang hij dat recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
 
 3. Onverminderd het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01) komen de in de vorige leden bedoelde rechten op uitkering slechts toe aan degene, die op de dag, waarop de ongeschiktheid intreedt, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt of op bedoelde dag anders dan op grond van het bepaalde in [artikel 6, eerste lid, onder a of b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6) niet ingevolge die wet verzekerd is, noch op grond van het bepaalde in [artikel 17, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) beschouwd wordt alsof hij verzekerd was gebleven.
 
@@ -139,7 +114,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 ##### Artikel 7
 
-1. Degene, die binnen het jaar, aanvangende op de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, geheel of gedeeltelijk ongeschikt wordt tot werken ten gevolge van een hem vóór die dag overkomen ongeval, terwijl hij ter zake van die ongeschiktheid geen recht heeft op uitkering ingevolge het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), heeft ter zake van die ongeschiktheid recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, mits hij dit recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
+1. Degene, die binnen het jaar, aanvangende op de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, geheel of gedeeltelijk ongeschikt wordt tot werken ten gevolge van een hem vóór die dag overkomen ongeval, terwijl hij ter zake van die ongeschiktheid geen recht heeft op uitkering ingevolge het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), heeft ter zake van die ongeschiktheid recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, mits hij dit recht zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken.
 
 2. Het in het vorige lid bedoelde recht op uitkering komt niet toe aan degene, die op de dag, waarop de in het vorige lid bedoelde ongeschiktheid intreedt, aan de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551) een vóór die dag ingegane arbeidsongeschiktheidsuitkering ontleent.
 
@@ -147,7 +122,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 ##### Artikel 8
 
-1. Het dagloon, dat aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), genoemde uitkering als bedoeld in artikel 15 van de Ongevallenwet 1921 of artikel 36 van de Land- en Tuinbouwongevallenwet 1922 en aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), genoemde uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 ten grondslag is gelegd, wordt - indien dit dagloon is vastgesteld op het bedrag, bepaald krachtens het eerste lid van [artikel 9 van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9), zoals dat artikel luidde op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten werden ingetrokken - opnieuw vastgesteld met inachtneming van het bepaalde bij of krachtens het vierde lid of [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=7&artikel=22&z=2015-01-01&g=2015-01-01) en met inachtneming van het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag, eventueel verhoogd of verlaagd krachtens [artikel 9a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9a).
+1. Het dagloon, dat aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), genoemde uitkering als bedoeld in artikel 15 van de Ongevallenwet 1921 of artikel 36 van de Land- en Tuinbouwongevallenwet 1922 en aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), genoemde uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 ten grondslag is gelegd, wordt - indien dit dagloon is vastgesteld op het bedrag, bepaald krachtens het eerste lid van [artikel 9 van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9), zoals dat artikel luidde op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten werden ingetrokken - opnieuw vastgesteld met inachtneming van het bepaalde bij of krachtens het vierde lid of [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=7&artikel=22&z=2015-01-01&g=2015-01-01) en met inachtneming van het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag, eventueel verhoogd of verlaagd krachtens [artikel 9a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9a).
 
 2. Aan de aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) ontleende uitkering wordt geen hoger dagloon ten grondslag gelegd dan het bedrag, bepaald krachtens het eerste lid van [artikel 9 van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9), zoals dat artikel luidde op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten werden ingetrokken:
 
@@ -157,13 +132,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 3. Bij toekenning van een uitkering op grond van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) en bij toepassing van het eerste lid, een en ander zonder toepassing van het bepaalde bij of krachtens artikel 15, derde lid, van de Ongevallenwet 1921 of artikel 36, derde lid, van de Land- en Tuinbouwongevallenwet 1922, komt bij de berekening van het dagloon, dat aan de uitkering ten grondslag wordt gelegd, het dagloon, hetwelk meer bedraagt dan 5/6 van het in het eerste lid bedoelde maximum dagloon, voor dat meerdere niet in aanmerking.
 
-4. Onze Minister stelt, onverminderd het overigens in dit artikel bepaalde, de bedragen vast, welke voor de toepassing van deze wet zullen gelden als daglonen, die aan de uitkeringen als bedoeld in artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 ten grondslag worden gelegd.
+4. Onze Minister stelt, onverminderd het overigens in dit artikel bepaalde, de bedragen vast, welke voor de toepassing van deze wet zullen gelden als daglonen, die aan de uitkeringen als bedoeld in artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 ten grondslag worden gelegd.
 
-5. Het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=25) en [27 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=27) en [artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) - met uitzondering van het vijfde lid en de tweede volzin van het achtste lid van dat artikel - is van overeenkomstige toepassing met betrekking tot het dagloon, waarnaar de aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) ontleende uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 ingevolge het bepaalde in de voorgaande leden en in artikel 22 is berekend. Het bepaalde in de vorige volzin is niet van toepassing in de gevallen, omschreven in het tweede lid, onder **a** en **b**.
+5. Het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=25) en [27 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=27) en [artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) - met uitzondering van het vijfde lid en de tweede volzin van het achtste lid van dat artikel - is van overeenkomstige toepassing met betrekking tot het dagloon, waarnaar de aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) ontleende uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 ingevolge het bepaalde in de voorgaande leden en in artikel 22 is berekend. Het bepaalde in de vorige volzin is niet van toepassing in de gevallen, omschreven in het tweede lid, onder *a* en *b*.
 
 ##### Artikel 9
 
-1. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, ter zake van een ongeval, dat plaatsvond een jaar of langer vóór laatstbedoelde dag, heeft - onverminderd het bepaalde in [artikel 13 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=13) en in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=5&artikel=17&z=2015-01-01&g=2015-01-01) - indien hij op de laatste dag van de maand, met ingang van welke die wetten worden ingetrokken, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt, geen recht meer op bedoelde uitkering met ingang van de eerste dag van die maand.
+1. Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, ter zake van een ongeval, dat plaatsvond een jaar of langer vóór laatstbedoelde dag, heeft - onverminderd het bepaalde in [artikel 13 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=13) en in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=5&artikel=17&z=2015-01-01&g=2015-01-01) - indien hij op de laatste dag van de maand, met ingang van welke die wetten worden ingetrokken, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt, geen recht meer op bedoelde uitkering met ingang van de eerste dag van die maand.
 
 2. De in het eerste lid bedoelde persoon behoudt, mits hij op de laatste dag van de maand, met ingang van welke de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, het recht op de in het eerste lid bedoelde uitkering, indien en voor zolang hij dat recht zou hebben behouden, indien bedoelde wetten niet zouden zijn ingetrokken.
 
@@ -177,7 +152,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 ##### Artikel 11
 
-1. Het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) geregelde recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 eindigt indien of zodra de betrokkene aan de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551) een arbeidsongeschiktheidsuitkering ontleent.
+1. Het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) geregelde recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 eindigt indien of zodra de betrokkene aan de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551) een arbeidsongeschiktheidsuitkering ontleent.
 
 2. Het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), geregelde recht op een uitkering bestaat slechts zolang de ongeschiktheid, ter zake waarvan de in genoemde artikelen bedoelde uitkering wordt verleend, onafgebroken voortduurt.
 
@@ -187,11 +162,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt met lichamel
 
 1. Het recht op genees- en heelkundige behandeling of vergoeding daarvoor als bedoeld in artikel 14 van de Ongevallenwet 1921, artikel 35 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, achtste lid, van de Zeeongevallenwet 1919 ter zake van een vóór de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, plaatsgevonden hebbend ongeval, vervalt met ingang van bedoelde dag, onverminderd het bepaalde bij of krachtens het tweede lid, [artikel 44 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=44), en hoofdstuk II, § 3, van de Wet op de arbeidsongeschiktheidsverzekering.
 
-2. Degene, die op de dag, waarop de in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wet wordt ingetrokken, ter zake van een hem vóór die dag overkomen ongeval ingevolge het bepaalde in artikel 2, achtste lid, van de Zeeongevallenwet 1919 in verbinding met het bepaalde in artikel 1, derde lid, van het Koninklijk besluit van 22 mei 1947, **Stb.** H 153, recht heeft op vrij vervoer, hieronder begrepen de kosten van onderhoud en nachtverblijf gedurende de reis, behoudt dit recht, indien hij dit recht zou hebben behouden, indien genoemde wet niet zou zijn ingetrokken.
+2. Degene, die op de dag, waarop de in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wet wordt ingetrokken, ter zake van een hem vóór die dag overkomen ongeval ingevolge het bepaalde in artikel 2, achtste lid, van de Zeeongevallenwet 1919 in verbinding met het bepaalde in artikel 1, derde lid, van het Koninklijk besluit van 22 mei 1947, *Stb.* H 153, recht heeft op vrij vervoer, hieronder begrepen de kosten van onderhoud en nachtverblijf gedurende de reis, behoudt dit recht, indien hij dit recht zou hebben behouden, indien genoemde wet niet zou zijn ingetrokken.
 
 ##### Artikel 13
 
-Het op grond van het bepaalde in artikel 25, eerste lid, of artikel 87**c**, derde lid, van de Ongevallenwet 1921, dan wel artikel 48, eerste lid, of artikel 95**c**, derde lid, van de Land- en Tuinbouwongevallenwet 1922 geven van een opleiding alsmede het op grond van het bepaalde in artikel 25, tweede lid, of artikel 87**c**, eerste lid, van de Ongevallenwet 1921, dan wel artikel 48, derde lid, of artikel 95**c**, eerste lid, van de Land- en Tuinbouwongevallenwet 1922, verlenen van een toelage wegens kosten van onderhoud en huisvesting, onderscheidenlijk wegens loonschade, worden - onverminderd het bepaalde in [artikel 45 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=45) - beëindigd met ingang van de dag, waarop de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken.
+Het op grond van het bepaalde in artikel 25, eerste lid, of artikel 87*c*, derde lid, van de Ongevallenwet 1921, dan wel artikel 48, eerste lid, of artikel 95*c*, derde lid, van de Land- en Tuinbouwongevallenwet 1922 geven van een opleiding alsmede het op grond van het bepaalde in artikel 25, tweede lid, of artikel 87*c*, eerste lid, van de Ongevallenwet 1921, dan wel artikel 48, derde lid, of artikel 95*c*, eerste lid, van de Land- en Tuinbouwongevallenwet 1922, verlenen van een toelage wegens kosten van onderhoud en huisvesting, onderscheidenlijk wegens loonschade, worden - onverminderd het bepaalde in [artikel 45 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=45) - beëindigd met ingang van de dag, waarop de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken.
 
 #### § 3. Afwikkeling renten aan nagelaten betrekkingen
 
@@ -209,7 +184,7 @@ Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid
 
 hebben recht op een uitkering als bedoeld in artikel 19, onder 2°, van de Ongevallenwet 1921, artikel 40, onder 2°, van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, tweede lid, van de Zeeongevallenwet 1919, indien en voor zolang zij dit recht zouden hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken. Bij de berekening van de in de vorige volzin laatstbedoelde uitkering komt het dagloon, hetwelk meer bedraagt dan het bedrag, bepaald krachtens het eerste lid van [artikel 9 van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9), zoals dat artikel luidde op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten werden ingetrokken, voor dat meerdere niet in aanmerking.
 
-2. Het bepaalde in de eerste volzin van het vorige lid is niet van toepassing, indien het recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 van degene, aan wiens overlijden het in het vorige lid bedoelde recht wordt ontleend, ingevolge het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=5&artikel=17&z=2015-01-01&g=2015-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=5&artikel=18&z=2015-01-01&g=2015-01-01) wordt afgekocht.
+2. Het bepaalde in de eerste volzin van het vorige lid is niet van toepassing, indien het recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 van degene, aan wiens overlijden het in het vorige lid bedoelde recht wordt ontleend, ingevolge het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=5&artikel=17&z=2015-01-01&g=2015-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=5&artikel=18&z=2015-01-01&g=2015-01-01) wordt afgekocht.
 
 #### § 4. Afwikkeling schadeloosstelling voor lijkbezorging
 
@@ -221,21 +196,21 @@ Ten aanzien van een overlijden als bedoeld in [artikel 15](https://wetten.overhe
 
 ##### Artikel 17
 
-1. Degene, die op grond van het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), geen recht meer heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 en die op de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht op die uitkering, berekend naar een ongeschiktheid tot werken van niet meer dan 25%, zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken, heeft recht op een afkoopsom ter hoogte van de contante waarde van laatstbedoelde uitkering.
+1. Degene, die op grond van het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), geen recht meer heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 en die op de dag, waarop de in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht op die uitkering, berekend naar een ongeschiktheid tot werken van niet meer dan 25%, zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken, heeft recht op een afkoopsom ter hoogte van de contante waarde van laatstbedoelde uitkering.
 
 2. Degene, die op grond van het bepaalde in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), geen recht meer heeft op een uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) en die op de dag, met ingang van welke het recht op die uitkering vervalt, recht op die uitkering, berekend naar een ongeschiktheid tot werken van niet meer dan 25%, zou hebben behouden, indien het bepaalde in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), niet op hem van toepassing zou zijn geweest, heeft recht op een afkoopsom ter hoogte van de contante waarde van laatstbedoelde uitkering.
 
-3. Degene, die op grond van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, berekend naar een ongeschiktheid tot werken van niet meer dan 25%, en die op de laatste dag van de maand, waarin de in eerstgenoemd artikel bedoelde ongeschiktheid intreedt, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt, heeft recht op een afkoopsom ter hoogte van de contante waarde van die uitkering.
+3. Degene, die op grond van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, berekend naar een ongeschiktheid tot werken van niet meer dan 25%, en die op de laatste dag van de maand, waarin de in eerstgenoemd artikel bedoelde ongeschiktheid intreedt, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt, heeft recht op een afkoopsom ter hoogte van de contante waarde van die uitkering.
 
 4. Het bepaalde in het eerste lid is niet van toepassing op degene, die op de in dat lid bedoelde dag:
 
-- a. recht op meer dan één uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922, of artikel 2, eerste lid, onder **a** van de Zeeongevallenwet 1919, zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken, mits de som van de percentages ongeschiktheid tot werken, waarnaar deze uitkeringen zouden zijn berekend, meer dan 25 zou hebben bedragen;
+- a. recht op meer dan één uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922, of artikel 2, eerste lid, onder *a* van de Zeeongevallenwet 1919, zou hebben gehad, indien genoemde wetten niet zouden zijn ingetrokken, mits de som van de percentages ongeschiktheid tot werken, waarnaar deze uitkeringen zouden zijn berekend, meer dan 25 zou hebben bedragen;
 
 - b. recht op toekenning van een arbeidsongeschiktheidsuitkering aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=4) of [12 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=12) ontleent.
 
 5. Het bepaalde in het tweede onderscheidenlijk het derde lid is niet van toepassing op degene, die op de in het tweede lid bedoelde dag onderscheidenlijk op de dag, waarop de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) bedoelde ongeschiktheid tot werken intreedt:
 
-- a. aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) recht op meer dan één uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919 zou hebben ontleend, indien het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01) of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), niet op hem van toepassing zou zijn geweest, mits de som van de percentages ongeschiktheid tot werken, waarnaar deze uitkeringen zouden zijn berekend, meer dan 25 zou hebben bedragen;
+- a. aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) recht op meer dan één uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919 zou hebben ontleend, indien het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01) of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), niet op hem van toepassing zou zijn geweest, mits de som van de percentages ongeschiktheid tot werken, waarnaar deze uitkeringen zouden zijn berekend, meer dan 25 zou hebben bedragen;
 
 - b. recht op toekenning van een arbeidsongeschiktheidsuitkering aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=4) of [12 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=12) ontleent.
 
@@ -253,7 +228,7 @@ Bij of krachtens algemene maatregel van bestuur worden regelen gesteld voor de b
 
 ##### Artikel 20
 
-Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht heeft op een bijslag ingevolge het bepaalde bij of krachtens die wetten uit hoofde van een recht op een uitkering ingevolge artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, heeft geen recht meer op bedoelde bijslag met ingang van de dag, waarop de in [artikel 3, eerste lid, onder d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken.
+Degene, die op de dag, voorafgaande aan die, waarop de in [artikel 3, eerste lid, onder d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken, recht heeft op een bijslag ingevolge het bepaalde bij of krachtens die wetten uit hoofde van een recht op een uitkering ingevolge artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, heeft geen recht meer op bedoelde bijslag met ingang van de dag, waarop de in [artikel 3, eerste lid, onder d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), genoemde wetten worden ingetrokken.
 
 ##### Artikel 21
 
@@ -301,7 +276,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de uitvoe
 
 ##### Artikel 27
 
-Onverminderd het bepaalde in de volgende paragraaf vervallen de verplichtingen ingevolge de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 van de risicodragers ingevolge die wetten met ingang van de dag, waarop die wetten worden ingetrokken, met uitzondering van de verplichtingen, welke betrekking hebben op tijdvakken, gelegen vóór die dag en van de verplichtingen, omschreven in [artikel 25, eerste lid, onder **a** en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=7&artikel=25&z=2015-01-01&g=2015-01-01).
+Onverminderd het bepaalde in de volgende paragraaf vervallen de verplichtingen ingevolge de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 van de risicodragers ingevolge die wetten met ingang van de dag, waarop die wetten worden ingetrokken, met uitzondering van de verplichtingen, welke betrekking hebben op tijdvakken, gelegen vóór die dag en van de verplichtingen, omschreven in [artikel 25, eerste lid, onder *a* en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=7&artikel=25&z=2015-01-01&g=2015-01-01).
 
 #### § 2. Overdracht contante waarde van verplichtingen aan het Arbeidsongeschiktheidsfonds
 
@@ -315,11 +290,11 @@ Onverminderd het bepaalde in de volgende paragraaf vervallen de verplichtingen i
 
 Het Rijk draagt de volgens bij of krachtens algemene maatregel van bestuur te stellen regelen vast te stellen contante waarde van de op grond van het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&hoofdstuk=III&paragraaf=6&artikel=21&z=2015-01-01&g=2015-01-01) gehandhaafde bijslagen over aan het Arbeidsongeschiktheidsfonds.
 
-#### § 3. Overdracht contante waarde van verplichtingen door het Arbeidsongeschiktheidsfonds aan het College voor zorgverzekeringen, genoemd in [artikel 1a van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1a)
+#### § 3. Overdracht contante waarde van verplichtingen door het Arbeidsongeschiktheidsfonds aan het College voor zorgverzekeringen, genoemd in artikel 1a van de Ziekenfondswet
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Liquidatie vermogenssaldi
 
@@ -383,7 +358,7 @@ Het bestuur van de Sociale Verzekeringsbank doet aan het einde van het boekjaar 
 
 ##### Artikel 38
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 38a
 
@@ -404,5 +379,3 @@ Deze wet kan worden aangehaald onder de titel "Liquidatiewet ongevallenwetten".
 ##### Artikel 41
 
 De artikelen van deze wet treden in werking met ingang van een door Ons te bepalen tijdstip, dat voor de onderscheidene artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

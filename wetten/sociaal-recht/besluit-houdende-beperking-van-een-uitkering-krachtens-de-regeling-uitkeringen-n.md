@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 4 juli 1957, houdende beperking van een uitkering, toegekend krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (Stb. 1948, I 543) bij gelijktijdige aanspraak op een pensioen krachtens de Algemene Ouderdomswet"
+citeertitel: "Besluit houdende beperking van een uitkering krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht 1948, Stb. I 543"
 identifier: "BWBR0002249"
-country: "nl"
-rank: "amvb"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002249"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "575533"
-version_id: "836132"
-internal_id: "C836131"
-label_id: "558384"
-dtd_version: "2.0"
-original_entry_into_force: "1957-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002249/2006-01-01/0"
-intitule_bron: "Stb.1957-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1957-07-04"
-intitule_status: "goed"
-original_publication: "Stb.1957-231"
-original_signed_date: "1957-07-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1957-01-01"
-jci_1_3: "jci1.3:c:BWBR0002249&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0002249&g=2006-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit houdende beperking van een uitkering krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht 1948, Stb. I 543"
-signed_date: "1957-07-04"
-entry_into_force: "1957-01-01"
+publicatiedatum: 1957-01-01
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0002249"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 4 juli 1957, houdende beperking van een uitkering, toegekend krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (Stb. 1948, I 543) bij gelijktijdige aanspraak op een pensioen krachtens de Algemene Ouderdomswet
-
-Op de voordracht van Onze Minister voor Defensie van 8 maart 1957, Nr. P. 111.337/A/Conf en Nr. Minmar 467697/349595;
-
-Overwegende, dat het wenselijk is regelen te stellen ten aanzien van de beperking van de uitbetaling van een uitkering, toegekend krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (**Stb.** 1948, I 543) bij gelijktijdige aanspraak op een pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1956, 281);
-
-De Raad van State gehoord (advies van 21 mei 1957, nr. 70).
-
-Gezien het nader rapport van Onze voornoemde Minister van 28 juni 1957, Nr. 111.337/E/Conf. Nr. minmar 55281/254771;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Waar in dit besluit zonder verdere toevoeging wordt gesproken van een uitkering, wordt daaronder verstaan een uitkering, toegekend krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (**Stb.** 1948, I 543)
+1. Waar in dit besluit zonder verdere toevoeging wordt gesproken van een uitkering, wordt daaronder verstaan een uitkering, toegekend krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (*Stb.* 1948, I 543)
 
 2. Onder ouderdomspensioen wordt in dit besluit verstaan een pensioen, als bedoeld in de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
@@ -80,6 +52,4 @@ Dit besluit werkt terug tot 1 januari 1957.
 
 ##### Artikel 6
 
-Vervallen
-
-Onze Ministers van Oorlog en van Marine zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+*Vervallen*

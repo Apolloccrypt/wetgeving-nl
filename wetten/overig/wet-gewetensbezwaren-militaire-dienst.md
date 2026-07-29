@@ -1,43 +1,18 @@
 ---
 title: "Wet van 27 september 1962, houdende regeling inzake vrijstelling van de militaire dienst wegens ernstige gewetensbezwaren"
+citeertitel: "Wet gewetensbezwaren militaire dienst"
 identifier: "BWBR0002386"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002386"
+categorie: "Overig"
 soort: "wet"
-stam_id: "354763"
-version_id: "523912"
-internal_id: "C523911"
-label_id: "347444"
-dtd_version: "2.0"
-original_entry_into_force: "1964-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002386/2020-01-01/0"
-intitule_bron: "Stb.1962-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1962-09-27"
-intitule_status: "goed"
-original_publication: "Stb.1962-370"
-original_signed_date: "1962-09-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "5394"
-entry_into_force_date: "1964-12-01"
-jci_1_3: "jci1.3:c:BWBR0002386&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002386&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet gewetensbezwaren militaire dienst"
-signed_date: "1962-09-27"
-entry_into_force: "1964-12-01"
+publicatiedatum: 1964-12-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002386"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 27 september 1962, houdende regeling inzake vrijstelling van de militaire dienst wegens ernstige gewetensbezwaren
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is een nieuwe regeling ter uitvoering van [artikel 196 van de Grondwet](onbekend) te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -45,17 +20,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-**«militair»:** degene die behoort tot de krijgsmacht, ook gedurende de tijd, dat deze niet in werkelijke dienst is;
+*«militair»:* degene die behoort tot de krijgsmacht, ook gedurende de tijd, dat deze niet in werkelijke dienst is;
 
-**«vervangende dienst»:** de dienst die verplicht wordt vervuld ter vervanging van de militaire dienst;
+*«vervangende dienst»:* de dienst die verplicht wordt vervuld ter vervanging van de militaire dienst;
 
-**«erkende gewetensbezwaarde»** degene van wie bezwaren tegen de persoonlijke vervulling van de militaire dienst als ernstige gewetensbezwaren zijn erkend;
+*«erkende gewetensbezwaarde»* degene van wie bezwaren tegen de persoonlijke vervulling van de militaire dienst als ernstige gewetensbezwaren zijn erkend;
 
-**«groot verlof»:** de tijd gedurende welke de erkende gewetensbezwaarde geen vervangende dienst vervult of behoeft te vervullen;
+*«groot verlof»:* de tijd gedurende welke de erkende gewetensbezwaarde geen vervangende dienst vervult of behoeft te vervullen;
 
-**«tewerkgestelde»:** degene die voor vervangende dienst is opgeroepen van het ogenblik af dat deze op de plaats van de eerste bestemming is aangekomen tot het tijdstip, waarop deze met groot verlof wordt gezonden;
+*«tewerkgestelde»:* degene die voor vervangende dienst is opgeroepen van het ogenblik af dat deze op de plaats van de eerste bestemming is aangekomen tot het tijdstip, waarop deze met groot verlof wordt gezonden;
 
-**«dienstplichtige»:** degene die ingevolge de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) geschikt is verklaard voor het vervullen van werkelijke dienst.
+*«dienstplichtige»:* degene die ingevolge de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) geschikt is verklaard voor het vervullen van werkelijke dienst.
 
 2. Waar in deze wet en de daarop berustende bepalingen wordt gesproken van personen die ongeschikt zijn verklaard, zijn erkend als gewetensbezwaarde, ontheven zijn van de verplichting tot het vervullen van de vervangende dienst in gewone omstandigheden, disciplinair gestraft of veroordeeld zijn, worden hieronder, voor zover het tegendeel niet blijkt, verstaan degenen omtrent wie het desbetreffende besluit of de desbetreffende uitspraak onherroepelijk is geworden.
 
@@ -87,7 +62,7 @@ Ernstige gewetensbezwaren in de zin van deze wet zijn de onoverkomelijke geweten
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -103,7 +78,7 @@ Vervallen
 
 ##### Artikel 7b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7c
 
@@ -199,27 +174,27 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
@@ -229,7 +204,7 @@ Vervallen
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
@@ -241,7 +216,7 @@ De vervangende dienst kan voor de tewerkgestelde, indien deze voor groot verlof 
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
@@ -353,55 +328,55 @@ De rechtbank kan weigeren personen, die geen advocaat zijn, als raadsman toe te 
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Strafbepalingen
 
@@ -410,6 +385,12 @@ Vervallen
 1. Degene die opzettelijk niet voldoet aan een wettige oproeping tot het vervullen van vervangende dienst, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Blijkt niet, dat het feit opzettelijk is gepleegd, dan wordt degene gestraft met gevangenisstraf van ten hoogste negen maanden of geldboete van de derde categorie.
+
+##### Artikel 52a
+
+1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft degene die niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2020-01-01&g=2020-01-01), op hem rustende verplichtingen.
+
+2. Met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie wordt gestraft degene die opzettelijk niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2020-01-01&g=2020-01-01), op hem rustende verplichtingen.
 
 ##### Artikel 53
 
@@ -435,6 +416,12 @@ De tewerkgestelde die de dienstverplichtingen stelselmatig niet nakomt wordt ges
 
 Onze Minister van Sociale Zaken en Werkgelegenheid kan degene, die op grond van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), of wegens een misdrijf begaan tijdens de vervangende dienst onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf, ontslaan van de voor die persoon uit deze wet voortvloeiende verplichtingen.
 
+##### Artikel 55b
+
+1. De in de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), [52a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2020-01-01&g=2020-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2020-01-01&g=2020-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten zijn misdrijven.
+
+2. De in de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), en [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten zijn overtredingen.
+
 ##### Artikel 56
 
 1. Met betrekking tot de voorlopige hechtenis worden misdrijven, omschreven in deze wet, gelijkgesteld met misdrijven, waarop als maximum een gevangenisstraf van vier jaren of meer is gesteld.
@@ -457,11 +444,11 @@ Alle stukken, die in verband met de bepalingen van deze wet of van de te harer u
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60a
 
@@ -478,21 +465,3 @@ Deze wet kan worden aangehaald als "Wet gewetensbezwaren militaire dienst".
 ##### Artikel 62
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 52a
-
-1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft degene die niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2020-01-01&g=2020-01-01), op hem rustende verplichtingen.
-
-2. Met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie wordt gestraft degene die opzettelijk niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2020-01-01&g=2020-01-01), op hem rustende verplichtingen.
-
-##### Artikel 55b
-
-1. De in de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), [52a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2020-01-01&g=2020-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2020-01-01&g=2020-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten zijn misdrijven.
-
-2. De in de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), en [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten zijn overtredingen.
-
-### Hoofdstuk VII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,42 +1,18 @@
 ---
 title: "Wet van 24 december 1927, houdende nadere regeling van de Collectieve Arbeidsovereenkomst"
+citeertitel: "Wet op de collectieve arbeidsovereenkomst"
 identifier: "BWBR0001937"
-country: "nl"
-rank: "wet"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001937"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "2083163"
-version_id: "3123772"
-internal_id: "C3123771"
-label_id: "2031484"
-dtd_version: "2.0"
-original_entry_into_force: "1928-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001937/2007-01-01/0"
-intitule_bron: "Stb.1927-415"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1927-12-24"
-intitule_status: "goed"
-original_publication: "Stb.1927-415"
-original_signed_date: "1927-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1928-09-01"
-jci_1_3: "jci1.3:c:BWBR0001937&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0001937&g=2007-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de collectieve arbeidsovereenkomst"
-signed_date: "1927-12-24"
-entry_into_force: "1928-09-01"
+publicatiedatum: 1928-09-01
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0001937"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 december 1927, houdende nadere regeling van de Collectieve Arbeidsovereenkomst
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is nadere regelen te stellen betreffende de collectieve arbeidsovereenkomst;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -148,15 +124,15 @@ Wanneer bij de collectieve arbeidsovereenkomst niet anders is bepaald, heeft een
 
 ##### Artikel 22
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 23
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 24
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 25
 
@@ -171,5 +147,3 @@ Ten aanzien van vereenigingen, welke op het tijdstip van de inwerkingtreding dez
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 2. Zij kan worden aangehaald onder den titel: "Wet op de collectieve arbeidsovereenkomst".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

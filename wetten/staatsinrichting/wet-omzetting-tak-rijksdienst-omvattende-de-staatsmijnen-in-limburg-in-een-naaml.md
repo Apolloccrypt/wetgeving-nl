@@ -1,44 +1,18 @@
 ---
 title: "Wet van 23 juni 1966, houdende regelen betreffende de omzetting van de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, in een naamloze vennootschap"
+citeertitel: "Wet omzetting tak Rijksdienst, omvattende de Staatsmijnen in Limburg, in een naamloze vennootschap"
 identifier: "BWBR0002531"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002531"
+categorie: "Overig"
 soort: "wet"
-stam_id: "902713"
-version_id: "1320072"
-internal_id: "C1320071"
-label_id: "875584"
-dtd_version: "2.0"
-original_entry_into_force: "1966-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002531/2019-01-01/0"
-intitule_bron: "Stb.1966-271"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1966-06-23"
-intitule_status: "goed"
-original_publication: "Stb.1966-271"
-original_signed_date: "1966-06-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "7195"
-entry_into_force_date: "1966-07-15"
-entry_into_force_dossier: "7195"
-jci_1_3: "jci1.3:c:BWBR0002531&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0002531&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet omzetting tak Rijksdienst, omvattende de Staatsmijnen in Limburg, in een naamloze vennootschap"
-signed_date: "1966-06-23"
-entry_into_force: "1966-07-15"
+publicatiedatum: 1966-07-15
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0002531"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 23 juni 1966, houdende regelen betreffende de omzetting van de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, in een naamloze vennootschap
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, om te zetten in een naamloze vennootschap en dienaangaande regelen te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -62,7 +36,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de heffing van de vennootschapsbelasting wordt de vennootschap geacht de belastingplicht van de Staatsmijnen in Limburg voort te zetten, met dien verstande dat het bepaalde in artikel 13, onder 5, van het Besluit op de Vennootschapsbelasting 1942 (Verord. bl. 51) op haar niet van toepassing is.
 
-2. De akte van oprichting van de vennootschap en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde volstorting zijn vrijgesteld van het recht van registratie. [Artikel 53 van de Registratiewet](onbekend) 1917 (**Stb.** 243) blijft ten aanzien van die volstorting buiten toepassing.
+2. De akte van oprichting van de vennootschap en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde volstorting zijn vrijgesteld van het recht van registratie. Artikel 53 van de Registratiewet 1917 (*Stb.* 243) blijft ten aanzien van die volstorting buiten toepassing.
 
 ##### Artikel 4
 
@@ -70,15 +44,15 @@ De Staat wordt voor alle met het bezit der aandelen verband houdende handelingen
 
 ##### Artikel 5
 
-1. De wet van 29 december 1928 **(Stb.** 1956, 384) tot aanwijzing van de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, voor een beheer als bedoeld in [artikel 88 der Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=88)**(Stb.** 1927, 259) treedt bij de oprichting van de vennootschap buiten werking. Eerstgenoemde wet blijft echter van kracht ten aanzien van het tot aan dat tijdstip gevoerde beheer van deze tak van Rijksdienst, totdat zij op een door Ons te bepalen tijdstip vervalt.
+1. De wet van 29 december 1928 *(Stb.* 1956, 384) tot aanwijzing van de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, voor een beheer als bedoeld in [artikel 88 der Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=88)*(Stb.* 1927, 259) treedt bij de oprichting van de vennootschap buiten werking. Eerstgenoemde wet blijft echter van kracht ten aanzien van het tot aan dat tijdstip gevoerde beheer van deze tak van Rijksdienst, totdat zij op een door Ons te bepalen tijdstip vervalt.
 
-2. De in [artikel 3, derde lid, onder **a** en **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=3&z=2019-01-01&g=2019-01-01) van eerstgenoemde wet bedoelde bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn opgenomen, worden van dat tijdstip af geacht onder dezelfde voorwaarden door de vennootschap bij de Staat te zijn opgenomen.
+2. De in [artikel 3, derde lid, onder *a* en *b,*](https://wetten.overheid.nl/jci1.3:c:BWBR0002531&artikel=3&z=2019-01-01&g=2019-01-01) van eerstgenoemde wet bedoelde bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn opgenomen, worden van dat tijdstip af geacht onder dezelfde voorwaarden door de vennootschap bij de Staat te zijn opgenomen.
 
-3. De bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn gestort hetzij als uitkering ingevolge artikel 10, tweede lid, van de Bedrijvenwet **(Stb.** 1928, 249) hetzij als vlottende middelen zijn van dat tijdstip af door de Staat onder dezelfde voorwaarden aan de vennootschap verschuldigd.
+3. De bedragen, welke op het tijdstip van oprichting der vennootschap door die tak van Rijksdienst bij de Staat zijn gestort hetzij als uitkering ingevolge artikel 10, tweede lid, van de Bedrijvenwet *(Stb.* 1928, 249) hetzij als vlottende middelen zijn van dat tijdstip af door de Staat onder dezelfde voorwaarden aan de vennootschap verschuldigd.
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -86,10 +60,8 @@ Het personeel in dienst bij de Staatsmijnen in Limburg, voor zover niet tot de h
 
 ##### Artikel 8
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 9
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad,** waarin zij wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad,* waarin zij wordt geplaatst.

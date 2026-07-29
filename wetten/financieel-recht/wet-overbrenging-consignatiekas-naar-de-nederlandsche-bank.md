@@ -1,42 +1,18 @@
 ---
 title: "Wet van 27 maart 1936, tot overbrenging van de consignatiekas voor het bewaren van effecten aan toonder naar de Nederlandsche Bank"
+citeertitel: "Wet overbrenging consignatiekas naar de Nederlandsche Bank"
 identifier: "BWBR0001972"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001972"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "30403"
-version_id: "36462"
-internal_id: "C36461"
-label_id: "30854"
-dtd_version: "2.0"
-original_entry_into_force: "1936-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001972/2002-01-01/0"
-intitule_bron: "Stb.1936-201"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1936-03-27"
-intitule_status: "goed"
-original_publication: "Stb.1936-201"
-original_signed_date: "1936-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1936-10-16"
-jci_1_3: "jci1.3:c:BWBR0001972&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0001972&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet overbrenging consignatiekas naar de Nederlandsche Bank"
-signed_date: "1936-03-27"
-entry_into_force: "1936-10-16"
+publicatiedatum: 1936-10-16
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0001972"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 27 maart 1936, tot overbrenging van de consignatiekas voor het bewaren van effecten aan toonder naar de Nederlandsche Bank
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is de consignatiekas voor het bewaren van effecten aan toonder, bedoeld in de artikelen 391, 392 en 397 van het Burgerlijk Wetboek, te doen houden door de Nederlandsche Bank;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -108,10 +84,8 @@ Wij behouden Ons voor om al wat tot de uitvoering dezer wet behoort, in verband 
 
 ##### Artikel 12
 
-De wet van 26 Mei 1841, **Staatsblad** n° 14, vervalt.
+De wet van 26 Mei 1841, *Staatsblad* n° 14, vervalt.
 
 ##### Artikel 13
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

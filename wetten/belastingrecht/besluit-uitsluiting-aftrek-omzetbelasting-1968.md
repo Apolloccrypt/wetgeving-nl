@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 23 september 1968, tot vaststelling van het Besluit uitsluiting aftrek omzetbelasting 1968"
+citeertitel: "Besluit uitsluiting aftrek omzetbelasting 1968"
 identifier: "BWBR0002636"
-country: "nl"
-rank: "kb"
-publication_date: "2019-02-23"
-last_updated: "2019-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002636"
+categorie: "Belastingrecht"
 soort: "KB"
-stam_id: "1150823"
-version_id: "1701362"
-internal_id: "C1701361"
-label_id: "1115654"
-dtd_version: "2.0"
-original_entry_into_force: "1969-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002636/2019-02-23/0"
-intitule_bron: "Stb.1968-473"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1968-09-23"
-intitule_status: "goed"
-original_publication: "Stb.1968-473"
-original_signed_date: "1968-09-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1969-01-01"
-jci_1_3: "jci1.3:c:BWBR0002636&z=2019-02-23&g=2019-02-23"
-jci_1_0: "1.0:c:BWBR0002636&g=2019-02-23"
-citeertitel_status: "officieel"
-short_title: "Besluit uitsluiting aftrek omzetbelasting 1968"
-signed_date: "1968-09-23"
-entry_into_force: "1969-01-01"
+publicatiedatum: 1969-01-01
+laatste_update: 2019-02-23
+status: geldig
+toestand: 2019-02-23
+bron: "https://wetten.overheid.nl/BWBR0002636"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 23 september 1968, tot vaststelling van het Besluit uitsluiting aftrek omzetbelasting 1968
-
-Op de voordracht van de Staatssecretaris van Financiën van 23 september 1968, nr. D 68/6240, directie Wetgeving Douane en Verbruiksbelastingen;
-
-Gelet op [artikel 16 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=16) (**Stb.** 329);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -50,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onder relatiegeschenken of andere giften worden verstaan alle prestaties welke de ondernemer in verband met zakelijke verhoudingen of uit vrijgevigheid ten behoeve van anderen verricht zonder vergoeding of tegen een vergoeding welke lager is dan de aanschaffings- of voortbrengingskosten dan wel, in geval van diensten, de kostprijs van die prestaties de omzetbelasting niet daaronder begrepen.
 
-3. Onder de prestaties als zijn bedoeld in het eerste lid, onderdeel **c**, worden niet begrepen:
+3. Onder de prestaties als zijn bedoeld in het eerste lid, onderdeel *c*, worden niet begrepen:
 
 - a. het verstrekken van spijzen en dranken aan het personeel van de ondernemer;
 
@@ -58,11 +34,11 @@ Hebben goedgevonden en verstaan:
 
 - c. het aan een werknemer verstrekken of ter beschikking stellen van een fiets voor het vervoer van die werknemer tussen zijn woon- of verblijfplaats en de plaats waar deze zijn werkzaamheden verricht, voorzover:
 
-- 1°. de aanschaffings- of voortbrengingskosten van de fiets niet meer bedragen dan € 749 inclusief omzetbelasting of, in gevallen waarin de werkgever een gebruiksrecht van een derde heeft verworven, de totale kostprijs inclusief omzetbelasting van dat recht niet meer bedraagt dan € 749;
+   - 1°. de aanschaffings- of voortbrengingskosten van de fiets niet meer bedragen dan € 749 inclusief omzetbelasting of, in gevallen waarin de werkgever een gebruiksrecht van een derde heeft verworven, de totale kostprijs inclusief omzetbelasting van dat recht niet meer bedraagt dan € 749;
 
-- 2°. in het kalenderjaar en de twee voorafgaande kalenderjaren aan de werknemer geen fiets is verstrekt of ter beschikking is gesteld; en
+   - 2°. in het kalenderjaar en de twee voorafgaande kalenderjaren aan de werknemer geen fiets is verstrekt of ter beschikking is gesteld; en
 
-- 3°. vanaf het verstrekken of ter beschikking stellen tot het einde van het kalenderjaar en in elk van de twee daaropvolgende kalenderjaren niet voor 50 percent of meer van het aantal dagen dat de werknemer pleegt te reizen tussen zijn woon- of verblijfplaats en de plaats waar deze zijn werkzaamheden verricht, wordt voorzien in een vergoeding of ander vervoer dan het vervoer per fiets;
+   - 3°. vanaf het verstrekken of ter beschikking stellen tot het einde van het kalenderjaar en in elk van de twee daaropvolgende kalenderjaren niet voor 50 percent of meer van het aantal dagen dat de werknemer pleegt te reizen tussen zijn woon- of verblijfplaats en de plaats waar deze zijn werkzaamheden verricht, wordt voorzien in een vergoeding of ander vervoer dan het vervoer per fiets;
 
 - d. outplacement ten behoeve van het personeel van de ondernemer.
 
@@ -87,5 +63,3 @@ Ingeval de ondernemer ter zake van een prestatie als is bedoeld in [artikel 1, e
 1. Dit besluit treedt in werking met ingang van 1 januari 1969.
 
 2. Dit besluit kan worden aangehaald als Besluit uitsluiting aftrek omzetbelasting 1968.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst.

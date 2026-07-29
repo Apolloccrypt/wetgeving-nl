@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 30 juni 1941, waarbij wordt vastgesteld een Reglement op de Militaire Willems-Orde"
+citeertitel: "Reglement op de Militaire Willems-Orde"
 identifier: "BWBR0002003"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "1997-01-01"
-last_updated: "1997-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002003"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "833773"
-version_id: "1208542"
-internal_id: "C1208541"
-label_id: "808204"
-dtd_version: "2.0"
-original_entry_into_force: "1940-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002003/1997-01-01/0"
-intitule_bron: "Stb.1941-B 61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1941-06-30"
-intitule_status: "goed"
-original_publication: "Stb.1941-B 61"
-original_signed_date: "1941-06-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1940-05-20"
-jci_1_3: "jci1.3:c:BWBR0002003&z=1997-01-01&g=1997-01-01"
-jci_1_0: "1.0:c:BWBR0002003&g=1997-01-01"
-citeertitel_status: "officieel"
-short_title: "Reglement op de Militaire Willems-Orde"
-signed_date: "1941-06-30"
-entry_into_force: "1940-05-20"
+publicatiedatum: 1940-05-20
+laatste_update: 1997-01-01
+status: geldig
+toestand: 1997-01-01
+bron: "https://wetten.overheid.nl/BWBR0002003"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 30 juni 1941, waarbij wordt vastgesteld een Reglement op de Militaire Willems-Orde
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Algemeene Zaken, van Defensie, van Koloniën en van Justitie van 14 Mei 1941, N°. 352;
-
-Gelet op artikel 15 van de Wet, houdende herziening van de wet van 30 April 1815, N°. 5 (**Staatsblad** N°. 33) nopens de instelling van de Militaire Willems-Orde;
-
-Den Volksraad, de Staten van Suriname en de Staten van Curaçao gehoord;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
@@ -66,7 +40,7 @@ Benoeming en bevordering in de Orde kan geschieden:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -190,7 +164,7 @@ Door Ons kan worden bepaald, dat de naam van hem, die tijdens het verrichten van
 
 ##### Artikel 28
 
-Van Onze besluiten tot benoeming of bevordering in de Orde, alsmede van die, genoemd in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002003&artikel=24&z=1997-01-01&g=1997-01-01) (2) en 27, wordt, met beknopte vermelding van de uitstekende daad, waarvoor de onderscheiding of vergunning is verleend, mededeeling gedaan in de **Staatscourant**.
+Van Onze besluiten tot benoeming of bevordering in de Orde, alsmede van die, genoemd in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002003&artikel=24&z=1997-01-01&g=1997-01-01) (2) en 27, wordt, met beknopte vermelding van de uitstekende daad, waarvoor de onderscheiding of vergunning is verleend, mededeeling gedaan in de *Staatscourant*.
 
 ##### Artikel 29
 
@@ -216,11 +190,11 @@ Tijdig voordat aan een benoemden ridder het Ordeteeken zal worden uitgereikt, ze
 
 - h. de troepen defileeren voor den benoemden (bevorderden) ridder. Aan boord van een Onzer schepen wordt door de bemanning gedefileerd, voor zoover de ruimte dit toelaat.
 
-Tijdens de handelingen genoemd onder **d** en **e** speelt de muziek het Wilhelmus.
+Tijdens de handelingen genoemd onder *d* en *e* speelt de muziek het Wilhelmus.
 
 2. Voorts wordt bij de in het 1e lid genoemde plechtigheid in acht genomen hetgeen daaromtrent door Ons of door den Gouverneur-Generaal van Nederlandsch-Indië c.q. den Gouverneur van Suriname of van Curaçao in de voorschriften en reglementen voor de onderscheiden deelen der weermacht is of zal worden vastgesteld.
 
-3. Indien door bijzondere omstandigheden de uitreiking van het ordeteeken op de in de beide voorgaande leden omschreven wijze niet kan plaats hebben, zal de in het 1e lid onder **a** genoemde autoriteit op de uitreiking orde stellen, daarbij in acht nemende, dat zulks op plechtige wijze behoort te geschieden.
+3. Indien door bijzondere omstandigheden de uitreiking van het ordeteeken op de in de beide voorgaande leden omschreven wijze niet kan plaats hebben, zal de in het 1e lid onder *a* genoemde autoriteit op de uitreiking orde stellen, daarbij in acht nemende, dat zulks op plechtige wijze behoort te geschieden.
 
 ##### Artikel 31
 
@@ -290,7 +264,7 @@ Van elke onherroepelijke veroordeeling van een ridder der Orde wegens eenig misd
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
@@ -313,5 +287,3 @@ In te trekken:
 ##### Artikel III
 
 Dit besluit treedt in werking tegelijk met de Wet op de Militaire Willems-Orde.
-
-Onze Ministers van Algemeene Zaken, van Defensie, van Koloniën en van Justitie zijn, ieder voor zoover hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State en aan de Kanselarij der Nederlandsche Orden.

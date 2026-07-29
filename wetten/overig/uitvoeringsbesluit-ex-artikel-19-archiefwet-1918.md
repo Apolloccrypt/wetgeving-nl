@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 april 1929, tot uitvoering van het eerste lid van artikel 19 der Archiefwet 1918 (Staatsblad n°. 378), gewijzigd bij de wet van 14 Mei 1928 (Staatsblad n°. 177) en van het vierde lid van dat artikel, voor zoover dit de archieven van de voormalige wees- en momboirkamers betreft"
+citeertitel: "Uitvoeringsbesluit ex artikel 19 Archiefwet 1918"
 identifier: "BWBR0001942"
-country: "nl"
-rank: "kb"
-publication_date: "1929-05-22"
-last_updated: "1929-05-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001942"
+categorie: "Overig"
 soort: "KB"
-stam_id: "988263"
-version_id: "1450812"
-internal_id: "C1450811"
-label_id: "957694"
-dtd_version: "2.0"
-original_entry_into_force: "1929-05-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001942/1929-05-22/0"
-intitule_bron: "Stb.1929-171"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1929-04-19"
-intitule_status: "goed"
-original_publication: "Stb.1929-171"
-original_signed_date: "1929-04-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1929-05-22"
-jci_1_3: "jci1.3:c:BWBR0001942&z=1929-05-22&g=1929-05-22"
-jci_1_0: "1.0:c:BWBR0001942&g=1929-05-22"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit ex artikel 19 Archiefwet 1918"
-signed_date: "1929-04-19"
-entry_into_force: "1929-05-22"
+publicatiedatum: 1929-05-22
+laatste_update: 1929-05-22
+status: geldig
+toestand: 1929-05-22
+bron: "https://wetten.overheid.nl/BWBR0001942"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 19 april 1929, tot uitvoering van het eerste lid van artikel 19 der Archiefwet 1918 (Staatsblad n°. 378), gewijzigd bij de wet van 14 Mei 1928 (Staatsblad n°. 177) en van het vierde lid van dat artikel, voor zoover dit de archieven van de voormalige wees- en momboirkamers betreft
-
-Op de voordracht van Onzen Minister van Onderwijs, Kunsten en Wetenschappen van 12 Februari 1929, n°. 545/3, afdeeling Kunsten en Wetenschappen;
-
-Overwegende, dat volgens het eerste lid van [artikel 19 der Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19) 1918 (**Staatsblad** n°. 378), gewijzigd bij de wet van 14 Mei 1928 (**Staatsblad** n°. 177), bij algemeenen maatregel van bestuur moeten worden vastgesteld de regelen, waarnaar de archieven van de voormalige wees- en momboirkamers, van gemeenten, die geen eigen archivaris en geene doelmatige archiefbewaarplaats hebben, naar de Rijksarchiefbewaarplaatsen moeten worden overgebracht;
-
-Overwegende voorts, dat overeenkomstig het vierde lid van bovengenoemd artikel 19 de voorwaarden, waarop archieven van voormalige wees- en momboirkamers, die in de Rijksarchiefbewaarplaatsen mochten berusten, aan gemeenten in bewaring kunnen worden gegeven, door Ons moeten worden geregeld;
-
-Den Raad van State gehoord (advies van 26 Maart 1929, n°. 32);
-
-Gelet op het nader rapport van Onzen Minister van Onderwijs, Kunsten en Wetenschappen, van 15 April 1929, n°. 1592, afdeeling Kunsten en Wetenschappen;
-
-Hebben goedgevonden en verstaan:
-
-te bepalen als volgt:
 
 ##### Artikel 1
 
@@ -83,5 +51,3 @@ Wanneer stukken, behoorende tot de archieven van wees- en momboirkamers van eene
 - c. te allen tijde aan Onzen voornoemden Mimister, den Algemeenen Rijksarchivaris en de Rijksarchivarissen in de provinciën desverlangd eenige dier stukken tijdelijk af te staan of kosteloos de ten behoeve van het Rijk verlangde afschriften te verstrekken;
 
 - d. aan den Algemeenen Rijksarchivaris en aan den Rijksarchivaris in de provincie, waartoe de gemeente behoort, steeds toegang tot de bewaarplaats van die stukken te verleenen.
-
-Onze Minister van Onderwijs, Kunsten en Wetenschappen is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State en de Algemeene Rekenkamer.

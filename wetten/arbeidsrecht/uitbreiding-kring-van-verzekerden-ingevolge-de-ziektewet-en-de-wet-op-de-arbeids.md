@@ -1,42 +1,17 @@
 ---
 title: "Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering"
 identifier: "BWBR0002622"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002622"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "5137153"
-version_id: "9212782"
-internal_id: "C12240701"
-label_id: "5112904"
-dtd_version: "2.0"
-original_entry_into_force: "1968-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002622/2016-01-01/0"
-intitule_bron: "Stcrt.1968-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1968-03-20"
-intitule_published: "1968-03-26"
-intitule_in_force: "1968-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1968-61"
-original_signed_date: "1968-03-20"
-original_published_date: "1968-03-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1968-04-15"
-jci_1_3: "jci1.3:c:BWBR0002622&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0002622&g=2016-01-01"
-citeertitel_status: "officieel"
-signed_date: "1968-03-20"
-entry_into_force: "1968-04-15"
+publicatiedatum: 1968-04-15
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0002622"
+opgehaald: 2026-07-29
 ---
+
 # Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering
-
-Gelet op de [artikelen 7, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=7), [8, onder b, 11 en 55, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8) en de [artikelen 7, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7), [7a, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7a), en [66, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=66),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -64,7 +39,7 @@ Besluit:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 

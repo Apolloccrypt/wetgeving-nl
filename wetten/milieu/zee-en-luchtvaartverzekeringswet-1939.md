@@ -1,44 +1,18 @@
 ---
 title: "Wet van 24 Juni 1939, houdende regelen teneinde de Regeering te machtigen tot het aangaan in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden van verzekeringsovereenkomsten op het terrein van de scheepvaart en de luchtvaart"
+citeertitel: "Zee- en luchtvaartverzekeringswet 1939"
 identifier: "BWBR0001999"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001999"
+categorie: "Verkeer"
 soort: "rijkswet"
-stam_id: "615543"
-version_id: "894902"
-internal_id: "C894901"
-label_id: "597394"
-dtd_version: "2.0"
-original_entry_into_force: "1939-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001999/2025-07-01/0"
-intitule_bron: "Stb.1939-637"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1939-06-24"
-intitule_status: "goed"
-original_publication: "Stb.1939-637"
-original_signed_date: "1939-06-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "274"
-entry_into_force_date: "1939-07-01"
-entry_into_force_dossier: "274"
-jci_1_3: "jci1.3:c:BWBR0001999&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0001999&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Zee- en luchtvaartverzekeringswet 1939"
-signed_date: "1939-06-24"
-entry_into_force: "1939-07-01"
+publicatiedatum: 1939-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0001999"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 Juni 1939, houdende regelen teneinde de Regeering te machtigen tot het aangaan in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden van verzekeringsovereenkomsten op het terrein van de scheepvaart en de luchtvaart
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stellen, teneinde de Regeering te machtigen in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden maatregelen te nemen betreffende de verzekering van zeeschepen en daarmede gelijk te stellen schepen, luchtvaartuigen of andere middelen van vervoer en de daarmede te vervoeren goederen, van goederen met bestemming naar een der gebiedsdeelen van het Koninkrijk, welke zich buiten dat gebiedsdeel bevinden alsmede van de belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoer van de hiervoor genoemde goederen;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -84,11 +58,11 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - c. goederen, waarbij Nederlandse belangen of belangen van andere gebiedsdelen van het Koninkrijk zijn betrokken en welke:
 
-- 1°. zich bevinden in zeeschepen, luchtvaartuigen of andere middelen van vervoer, of
+   - 1°. zich bevinden in zeeschepen, luchtvaartuigen of andere middelen van vervoer, of
 
-- 2°. met bestemming naar een der gebiedsdelen van het Koninkrijk buiten dat gebiedsdeel liggen opgeslagen;
+   - 2°. met bestemming naar een der gebiedsdelen van het Koninkrijk buiten dat gebiedsdeel liggen opgeslagen;
 
-- d. belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoer van de hiervoor onder **c** bedoelde goederen.
+- d. belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoer van de hiervoor onder *c* bedoelde goederen.
 
 ##### Artikel 3
 
@@ -100,13 +74,13 @@ Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgen
 
 - 3°. ten behoeve van de Staat der Nederlanden zijn, tot zekerheid van het recht van de Staat der Nederlanden tegenover de oorspronkelijke verzekeraar tot vergoeding en uitkering aan de Staat der Nederlanden van diens aandeel in de provenuen, voortvloeiende uit geabandonneerde voorwerpen of het geldend maken van rechten tegenover derden, verkregen door de oorspronkelijke verzekeraar, hetzij krachtens het bepaalde in [artikel 962 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962), hetzij door het abandonnement met betrekking tot de geabandonneerde voorwerpen, bij voorrecht verbonden: De Staat der Nederlanden zal de rechten, waarop het voorrecht rust, op eigen naam geldend kunnen maken;
 
-- a. alle rechten tegen derden, waarin de oorspronkelijke verzekeraar, krachtens het bepaalde in [artikel 962 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962) zal zijn getreden;
+   - a. alle rechten tegen derden, waarin de oorspronkelijke verzekeraar, krachtens het bepaalde in [artikel 962 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962) zal zijn getreden;
 
-- b. alle rechten, welke op de oorspronkelijke verzekeraar door het abandonnement overgaan;
+   - b. alle rechten, welke op de oorspronkelijke verzekeraar door het abandonnement overgaan;
 
-- c. de verzekerde voorwerpen, welke de oorspronkelijke verzekeraar door abandonnement verkrijgt;
+   - c. de verzekerde voorwerpen, welke de oorspronkelijke verzekeraar door abandonnement verkrijgt;
 
-- d. alle rechten, welke de oorspronkelijke verzekeraar met betrekking tot de geabandonneerde goederen na het abandonnement tegen derden verkrijgt.
+   - d. alle rechten, welke de oorspronkelijke verzekeraar met betrekking tot de geabandonneerde goederen na het abandonnement tegen derden verkrijgt.
 
 - 4°. de voorrechten, onder 1° en onder 3°, gaan in rang boven pandrecht en alle andere voorrechten, met dien verstande, dat het voorrecht onder 3° met betrekking tot zeeschepen rang neemt na de voorrechten, vermeld in [artikel 211 van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=211), en de voor het abandonnement gevestigde hypotheken en met betrekking tot lading na de voorrechten, vermeld in [artikel 222 van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=222). De Staat der Nederlanden vervolgt zijn recht op een zeeschip, in wiens handen zich dit ook bevindt. De voorrechten, onder 1° en 3°, omvatten interessen en kosten;
 
@@ -130,22 +104,20 @@ De uit deze wet voortvloeiende baten en lasten zullen over Nederland, Aruba, Cur
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Deze wet kan worden aangehaald onder den titel "Zee- en luchtvaartverzekeringswet 1939".
+Deze wet kan worden aangehaald onder den titel "[Zee- en luchtvaartverzekeringswet 1939](https://wetten.overheid.nl/BWBR0001999)".
 
 ##### Artikel 9
 
 1. De tijdstippen van inwerkingtreding dezer wet worden telkens door Ons bij besluit bepaald.
 
-2. Het besluit wordt geplaatst in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba**. Het treedt voor elk gebiedsdeel in werking met ingang van den dag der dagteekening onderscheidenlijk van het **Staatsblad** en van de overeenkomstige publicatiebladen der overzeesche gebiedsdeelen, waarin het is geplaatst, tenzij bij het besluit een later tijdstip is bepaald.
+2. Het besluit wordt geplaatst in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba*. Het treedt voor elk gebiedsdeel in werking met ingang van den dag der dagteekening onderscheidenlijk van het *Staatsblad* en van de overeenkomstige publicatiebladen der overzeesche gebiedsdeelen, waarin het is geplaatst, tenzij bij het besluit een later tijdstip is bepaald.
 
 3. Na de afkondiging van een besluit, bepalende een tijdstip van inwerkingtreding dezer wet wordt binnen veertien dagen een voorstel aan de Staten-Generaal gedaan om het besluit bij de wet te bekrachtigen. Het voorstel vermeldt tevens den tijdsduur, waarvoor de wet ten hoogste in werking zal zijn. Indien het voorstel wordt ingetrokken of door een van beide Kamers der Staten-Generaal verworpen, wordt het besluit terstond ingetrokken.
 
 4. Wij behouden Ons de bevoegdheid voor ten allen tijde de buitenwerkingtreding der wet bij besluit te bepalen. Het bepaalde in het tweede lid is hierop van toepassing.
 
 5. In afwijking van het in lid 1 omtrent de inwerkingtreding bepaalde, treedt deze wet voor de eerste maal in werking met ingang van den dag volgende op dien harer afkondiging voor den tijd van ten hoogste een jaar.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

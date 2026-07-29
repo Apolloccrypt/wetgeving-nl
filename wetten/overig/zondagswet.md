@@ -1,44 +1,18 @@
 ---
 title: "Wet van 15 October 1953, houdende nadere voorschriften ter wegneming van beletselen voor de viering van en ter verzekering van de openbare rust op de Zondag en enige Christelijke feestdagen"
+citeertitel: "Zondagswet"
 identifier: "BWBR0002120"
-country: "nl"
-rank: "wet"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002120"
+categorie: "Overig"
 soort: "wet"
-stam_id: "768393"
-version_id: "1116282"
-internal_id: "C1116281"
-label_id: "744784"
-dtd_version: "2.0"
-original_entry_into_force: "1953-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002120/1994-04-01/0"
-intitule_bron: "Stb.1953-490"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-10-15"
-intitule_status: "goed"
-original_publication: "Stb.1953-490"
-original_signed_date: "1953-10-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "2176"
-entry_into_force_date: "1953-12-07"
-entry_into_force_dossier: "2176"
-jci_1_3: "jci1.3:c:BWBR0002120&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0002120&g=1994-04-01"
-citeertitel_status: "officieel"
-short_title: "Zondagswet"
-signed_date: "1953-10-15"
-entry_into_force: "1953-12-07"
+publicatiedatum: 1953-12-07
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0002120"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 15 October 1953, houdende nadere voorschriften ter wegneming van beletselen voor de viering van en ter verzekering van de openbare rust op de Zondag en enige Christelijke feestdagen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de wet van 1 Maart 1815, **Staatsblad** no. 21, houdende voorschriften ter viering van de dagen aan de openbare Christelijke Godsdienst toegewijd, te vervangen door nadere voorschriften ter wegneming van beletselen voor de viering van en ter verzekering van de openbare rust op de Zondag en enige Christelijke feestdagen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -80,7 +54,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. wandeltochten die niet door muziek worden begeleid.
 
-3. Met betrekking tot de in het tweede lid onder **a** bedoelde samenkomsten voegt de burgemeester, voor zover dat vereist is ter voorkoming van onnodige verstoring van de openbare rust op de Zondag, aan de voorschriften en beperkingen bedoeld in [artikel 5, eerste lid, van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=5) voorschriften en beperkingen toe met betrekking tot tijd, plaats en duur van zodanige samenkomsten, of worden door hem aanwijzingen ter zake gegeven.
+3. Met betrekking tot de in het tweede lid onder *a* bedoelde samenkomsten voegt de burgemeester, voor zover dat vereist is ter voorkoming van onnodige verstoring van de openbare rust op de Zondag, aan de voorschriften en beperkingen bedoeld in [artikel 5, eerste lid, van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=5) voorschriften en beperkingen toe met betrekking tot tijd, plaats en duur van zodanige samenkomsten, of worden door hem aanwijzingen ter zake gegeven.
 
 ##### Artikel 5a
 
@@ -114,7 +88,7 @@ Het is verboden op Zondag zonder genoegzame reden de openbare rust door arbeid i
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -122,14 +96,12 @@ De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Bij het in werking treden van deze wet vervalt de wet van 1 Maart 1815 (**Staatsblad** no. 21), zoals deze laatstelijk is gewijzigd, zomede het Besluit van de Souvereine Vorst van 1 October 1814, no. 68.
+Bij het in werking treden van deze wet vervalt de wet van 1 Maart 1815 (*Staatsblad* no. 21), zoals deze laatstelijk is gewijzigd, zomede het Besluit van de Souvereine Vorst van 1 October 1814, no. 68.
 
 ##### Artikel 13
 
 Deze wet kan worden aangehaald onder de benaming "Zondagswet".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

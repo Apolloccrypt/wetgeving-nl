@@ -1,46 +1,18 @@
 ---
 title: "Wet van 5 juli 1921, houdende bepalingen omtrent de handelsnaam"
+citeertitel: "Handelsnaamwet"
 identifier: "BWBR0001906"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001906"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1378063"
-version_id: "14340312"
-internal_id: "C19503021"
-label_id: "1336354"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001906/2017-09-01/0"
-intitule_bron: "Stb.1921-842"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1921-07-05"
-intitule_status: "goed"
-original_publication: "Stb.2007-108"
-original_signed_date: "2007-03-08"
-original_published_date: "2007-03-22"
-original_effect: "structuurwijziging"
-original_dossier: "30392"
-original_url_id: "stb-2007-108"
-entry_into_force_date: "2007-03-08"
-entry_into_force_dossier: "30392"
-jci_1_3: "jci1.3:c:BWBR0001906&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0001906&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Handelsnaamwet"
-signed_date: "2007-03-08"
-entry_into_force: "2007-03-08"
+publicatiedatum: 2007-03-08
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0001906"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 5 juli 1921, houdende bepalingen omtrent de handelsnaam
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is wettelijke bepalingen vast te stellen omtrent den handelsnaam;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -62,9 +34,9 @@ De handelsnaam gaat over bij erfopvolging en is vatbaar voor overdracht, doch ee
 
 1. Het is verboden een handelsnaam te voeren, die in strijd met de waarheid aanduidt, dat de onderneming zou toebehoren aan een of meer personen, handelende als een vennootschap onder een firma, als een vennootschap en commandite of een rederij, of wel aan een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een onderlinge waarborgmaatschappij, een coöperatie, een vereniging of aan een stichting.
 
-2. In de handelsnaam duidt de vermelding van meer dan één persoon, ook al worden hun namen niet genoemd, aan, dat de onderneming toebehoort aan personen, handelende als een vennootschap onder een firma; de woorden "en compagnie", dat de onderneming toebehoort aan personen, handelende als een vennootschap onder een firma of aan een of meer personen, handelende als een vennootschap **en commandite**; het woord "maatschappij", dat de onderneming toebehoort aan een naamloze vennootschap, aan een besloten vennootschap met beperkte aansprakelijkheid of aan een vereniging, en het woord "fonds" aan een stichting; alles voor zover niet uit de handelsnaam in zijn geheel het tegendeel blijkt.
+2. In de handelsnaam duidt de vermelding van meer dan één persoon, ook al worden hun namen niet genoemd, aan, dat de onderneming toebehoort aan personen, handelende als een vennootschap onder een firma; de woorden "en compagnie", dat de onderneming toebehoort aan personen, handelende als een vennootschap onder een firma of aan een of meer personen, handelende als een vennootschap *en commandite*; het woord "maatschappij", dat de onderneming toebehoort aan een naamloze vennootschap, aan een besloten vennootschap met beperkte aansprakelijkheid of aan een vereniging, en het woord "fonds" aan een stichting; alles voor zover niet uit de handelsnaam in zijn geheel het tegendeel blijkt.
 
-3. Het eerste lid is niet van toepassing, indien de handelsnaam wordt gevoerd door één persoon zonder vennoten, en die naam en de onderneming afkomstig zijn van een vennootschap onder een firma of van een vennootschap **en commandite,** die die handelsnaam heeft gevoerd niet in strijd met deze wet.
+3. Het eerste lid is niet van toepassing, indien de handelsnaam wordt gevoerd door één persoon zonder vennoten, en die naam en de onderneming afkomstig zijn van een vennootschap onder een firma of van een vennootschap *en commandite,* die die handelsnaam heeft gevoerd niet in strijd met deze wet.
 
 ##### Artikel 5
 
@@ -102,6 +74,16 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 4. Het vierde, vijfde en zesde lid van het vorige artikel vinden overeenkomstige toepassing.
 
+##### Artikel 6b
+
+De voorzieningenrechter kan op vordering van eiser tijdelijke voortzetting van de vermeende strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01) toestaan onder de voorwaarde dat de verweerder zekerheid stelt voor vergoeding van de door eiser geleden schade.
+
+##### Artikel 6c
+
+1. Indien een handelsnaam wordt gevoerd in strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01), kan de rechter in passende gevallen de schadevergoeding vaststellen als een forfaitair bedrag.
+
+2. De rechter kan op vordering van degene die de handelsnaam voert gelasten dat op kosten van degene die heeft gehandeld in strijd met de [artikelen 3 tot en met 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2017-09-01&g=2017-09-01) passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
+
 ##### Artikel 7
 
 1. Hij die een handelsnaam voert in strijd met deze wet, wordt gestraft met een geldboete van de tweede categorie.
@@ -114,11 +96,11 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 #### Slot- en overgangsbepalingen
 
@@ -133,19 +115,3 @@ Deze wet kan worden aangehaald onder de titel "Handelsnaamwet".
 2. Indien bij het in werking treden dezer wet een handelsnaam wordt gevoerd in strijd met deze wet kan te dier zake gedurende vier maanden na dat tijdstip geen rechtsmiddel worden aangewend.
 
 3. Wanneer de uitdrukking "niet in strijd met deze wet" aan het slot van [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2017-09-01&g=2017-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=4&z=2017-09-01&g=2017-09-01) betreft het voeren van een handelsnaam vóór het in werking treden dezer wet, betekent zij: niet in strijd met deze wet, indien zij tijdens het voeren van de handelsnaam van kracht geweest ware.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6b
-
-De voorzieningenrechter kan op vordering van eiser tijdelijke voortzetting van de vermeende strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01) toestaan onder de voorwaarde dat de verweerder zekerheid stelt voor vergoeding van de door eiser geleden schade.
-
-##### Artikel 6c
-
-1. Indien een handelsnaam wordt gevoerd in strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01), kan de rechter in passende gevallen de schadevergoeding vaststellen als een forfaitair bedrag.
-
-2. De rechter kan op vordering van degene die de handelsnaam voert gelasten dat op kosten van degene die heeft gehandeld in strijd met de [artikelen 3 tot en met 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=3&z=2017-09-01&g=2017-09-01) passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
-
-#### Slot- en overgangsbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,79 +1,54 @@
 ---
 title: "Wet van 2 februari 1967, houdende overgangsregeling in verband met aanpassing van de Ziektewet aan de Wet op de arbeidsongeschiktheidsverzekering"
+citeertitel: "Wet overgangsregeling Ziektewet"
 identifier: "BWBR0002552"
-country: "nl"
-rank: "wet"
-publication_date: "2006-05-10"
-last_updated: "2006-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002552"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "54853"
-version_id: "69292"
-internal_id: "C69291"
-label_id: "54824"
-dtd_version: "2.0"
-original_entry_into_force: "1967-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002552/2006-05-10/0"
-intitule_bron: "Stb.1967-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-02-02"
-intitule_status: "goed"
-original_publication: "Stb.1967-103"
-original_signed_date: "1967-02-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "8638"
-entry_into_force_date: "1967-07-01"
-jci_1_3: "jci1.3:c:BWBR0002552&z=2006-05-10&g=2006-05-10"
-jci_1_0: "1.0:c:BWBR0002552&g=2006-05-10"
-citeertitel_status: "officieel"
-short_title: "Wet overgangsregeling Ziektewet"
-signed_date: "1967-02-02"
-entry_into_force: "1967-07-01"
+publicatiedatum: 1967-07-01
+laatste_update: 2006-05-10
+status: geldig
+toestand: 2006-05-10
+bron: "https://wetten.overheid.nl/BWBR0002552"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 2 februari 1967, houdende overgangsregeling in verband met aanpassing van de Ziektewet aan de Wet op de arbeidsongeschiktheidsverzekering
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen vast te stellen inzake overgangsrecht met betrekking tot de aanpassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aan de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -81,23 +56,23 @@ Het bepaalde bij of krachtens de [artikelen 32](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -107,38 +82,36 @@ Vervallen
 
 ##### Artikel 17
 
-Voor zover de termijn van drie jaren, genoemd in [artikel 64, eerste lid, onder c en d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64), is gelegen vóór het in werking treden van de Wijzigingswet, wordt in genoemde bepalingen in plaats van "onafgebroken, al dan niet hier te lande, ingevolge het bepaalde bij of krachtens een wettelijke regeling een voorziening tegen geldelijke gevolgen van ziekte op hem van toepassing is geweest" gelezen: onafgebroken de verzekering ingevolge deze wet op hem van toepassing is geweest, dan wel op hem van toepassing zou zijn geweest of in verband met het bepaalde in [artikel 6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002552&artikel=6&z=2006-05-10&g=2006-05-10), niet op hem van toepassing zou zijn geweest, indien de wet van 18 februari 1966 (**Stb.** 85) tot wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (Aanpassing aan de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)) toen reeds in werking was geweest, of buiten het Rijk, ingevolge het bepaalde bij of krachtens een wettelijke regeling, een voorziening tegen geldelijke gevolgen van ziekte op hem van toepassing is geweest.
+Voor zover de termijn van drie jaren, genoemd in [artikel 64, eerste lid, onder c en d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64), is gelegen vóór het in werking treden van de Wijzigingswet, wordt in genoemde bepalingen in plaats van "onafgebroken, al dan niet hier te lande, ingevolge het bepaalde bij of krachtens een wettelijke regeling een voorziening tegen geldelijke gevolgen van ziekte op hem van toepassing is geweest" gelezen: onafgebroken de verzekering ingevolge deze wet op hem van toepassing is geweest, dan wel op hem van toepassing zou zijn geweest of in verband met het bepaalde in [artikel 6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002552&artikel=6&z=2006-05-10&g=2006-05-10), niet op hem van toepassing zou zijn geweest, indien de wet van 18 februari 1966 (*Stb.* 85) tot wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (Aanpassing aan de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)) toen reeds in werking was geweest, of buiten het Rijk, ingevolge het bepaalde bij of krachtens een wettelijke regeling, een voorziening tegen geldelijke gevolgen van ziekte op hem van toepassing is geweest.
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

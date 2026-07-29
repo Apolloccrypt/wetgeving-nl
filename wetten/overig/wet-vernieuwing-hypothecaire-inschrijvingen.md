@@ -1,42 +1,18 @@
 ---
 title: "Wet van 5 juni 1878, tot vernieuwing der bestaande hypothecaire inschrijvingen"
+citeertitel: "Wet vernieuwing hypothecaire inschrijvingen"
 identifier: "BWBR0001850"
-country: "nl"
-rank: "wet"
-publication_date: "1879-01-01"
-last_updated: "1879-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001850"
+categorie: "Overig"
 soort: "wet"
-stam_id: "402683"
-version_id: "591632"
-internal_id: "C591631"
-label_id: "392274"
-dtd_version: "2.0"
-original_entry_into_force: "1879-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001850/1879-01-01/0"
-intitule_bron: "Stb.1878-90"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1878-06-05"
-intitule_status: "goed"
-original_publication: "Stb.1878-90"
-original_signed_date: "1878-06-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1879-01-01"
-jci_1_3: "jci1.3:c:BWBR0001850&z=1879-01-01&g=1879-01-01"
-jci_1_0: "1.0:c:BWBR0001850&g=1879-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet vernieuwing hypothecaire inschrijvingen"
-signed_date: "1878-06-05"
-entry_into_force: "1879-01-01"
+publicatiedatum: 1879-01-01
+laatste_update: 1879-01-01
+status: geldig
+toestand: 1879-01-01
+bron: "https://wetten.overheid.nl/BWBR0001850"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 5 juni 1878, tot vernieuwing der bestaande hypothecaire inschrijvingen
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is om, met afwijking van de bepaling van art. 1236 van het Burgerlijk Wetboek, de bestaande hypothecaire inschrijvingen te onderwerpen aan vernieuwing en bepalingen te maken omtrent de vernieuwing der overschrijving van processen-verbaal van inbeslagneming;
-
-Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -91,5 +67,3 @@ Met afwijking van de bepaling van art. 1236 Burgerlijk Wetboek zijn alle bij het
 ##### Artikel 7
 
 Deze wet treedt in werking den eersten Januarij 1879.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.

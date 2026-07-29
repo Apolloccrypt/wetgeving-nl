@@ -1,47 +1,46 @@
 ---
 title: "BESCHIKKING REGISTRATIE VERPLAATSTE PERSONEN"
+citeertitel: "Beschikking registratie verplaatste personen"
 identifier: "BWBR0002254"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1957-10-27"
-last_updated: "1957-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002254"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4106283"
-version_id: "5859982"
-internal_id: "C6062811"
-label_id: "4086094"
-dtd_version: "2.0"
-original_entry_into_force: "1957-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002254/1957-10-27/0"
-intitule_bron: "Stcrt.1957-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1957-09-24"
-intitule_published: "1957-10-07"
-intitule_in_force: "1957-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1957-194"
-original_signed_date: "1957-09-24"
-original_published_date: "1957-10-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1957-10-27"
-jci_1_3: "jci1.3:c:BWBR0002254&z=1957-10-27&g=1957-10-27"
-jci_1_0: "1.0:c:BWBR0002254&g=1957-10-27"
-citeertitel_status: "officieel"
-short_title: "Beschikking registratie verplaatste personen"
-signed_date: "1957-09-24"
-entry_into_force: "1957-10-27"
+publicatiedatum: 1957-10-27
+laatste_update: 1957-10-27
+status: geldig
+toestand: 1957-10-27
+bron: "https://wetten.overheid.nl/BWBR0002254"
+opgehaald: 2026-07-29
 ---
+
 # BESCHIKKING REGISTRATIE VERPLAATSTE PERSONEN
-
-Gelet op het [Besluit registratie verplaatste personen](https://wetten.overheid.nl/jci1.3:c:BWBR0002253) (Stb. 1957, 358).
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van deze beschikking wordt verstaan onder:
+
+a.
+
+„intern-verplaatste persoon”:
+
+de verplaatste persoon, die huisvesting heeft verkregen in de gemeente, in welker bevolkingsregister hij is opgenomen;
+
+b.
+
+„extern-verplaatste persoon”:
+
+de verplaatste persoon, die huisvesting heeft verkregen buiten de gemeente, in welker bevolkingsregister hij is opgenomen;
+
+c.
+
+„verplaatsingsformulier”:
+
+het formulier, waarvan het model als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&bijlage=I&z=1957-10-27&g=1957-10-27) bij deze beschikking is gevoegd;
+
+d.
+
+„verwijzingskaartje”:
+
+het kaartje, waarvan het model als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&bijlage=II&z=1957-10-27&g=1957-10-27) bij deze beschikking is gevoegd.
 
 ##### Artikel 2
 
@@ -121,9 +120,9 @@ Bij aangifte van een adresverandering van een extern-verplaatste persoon binnen 
 
 - c. overlijden.
 
-2. Bij beëindiging van de registratie in de gevallen, bedoeld in het eerste lid, onder **a** en **b**, vult de burgemeester van de gemeente, in welker bevolkingsregister de persoon is opgenomen, een verplaatsingsformulier in. In het voorlaatste vak van het verplaatsingsformulier wordt melding gemaakt van de datum en de reden van beëindiging van de registratie.
+2. Bij beëindiging van de registratie in de gevallen, bedoeld in het eerste lid, onder *a* en *b*, vult de burgemeester van de gemeente, in welker bevolkingsregister de persoon is opgenomen, een verplaatsingsformulier in. In het voorlaatste vak van het verplaatsingsformulier wordt melding gemaakt van de datum en de reden van beëindiging van de registratie.
 
-3. Bij beëindiging van de registratie in het geval, bedoeld in het eerste lid, onder **a**, geeft de in het tweede lid bedoelde burgemeester hiervan terstond kennis:
+3. Bij beëindiging van de registratie in het geval, bedoeld in het eerste lid, onder *a*, geeft de in het tweede lid bedoelde burgemeester hiervan terstond kennis:
 
 - a. aan de burgemeester van de gemeente van laatste registratie door toezending van deel A van het verplaatsingsformulier;
 
@@ -133,9 +132,9 @@ De delen A en C van het verplaatsingsformulier worden, met inachtneming van het 
 
 Ten aanzien van deel B van het verplaatsingsformulier is het bepaalde in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002254&artikel=7&z=1957-10-27&g=1957-10-27), van toepassing.
 
-4. Het bepaalde in het voorgaande lid is van toepassing ten aanzien van de beëindiging van de registratie in het geval, bedoeld in het eerste lid, onder **b**, met dien verstande, dat deel B wordt gezonden aan de burgemeester van de gemeente, in welker bevolkingsregister de verplaatste persoon laatstelijk was opgenomen, en dat verzending van deel A achterwege blijft.
+4. Het bepaalde in het voorgaande lid is van toepassing ten aanzien van de beëindiging van de registratie in het geval, bedoeld in het eerste lid, onder *b*, met dien verstande, dat deel B wordt gezonden aan de burgemeester van de gemeente, in welker bevolkingsregister de verplaatste persoon laatstelijk was opgenomen, en dat verzending van deel A achterwege blijft.
 
-5. Bij beëindiging van de registratie in het geval, bedoeld in het eerste lid, onder **c**, legt de burgemeester van de gemeente, waar de extern-verplaatste persoon laatstelijk is geregistreerd, een verplaatsingsformulier aan.
+5. Bij beëindiging van de registratie in het geval, bedoeld in het eerste lid, onder *c*, legt de burgemeester van de gemeente, waar de extern-verplaatste persoon laatstelijk is geregistreerd, een verplaatsingsformulier aan.
 
 In het voorlaatste vak van het formulier wordt melding gemaakt van de datum en de plaats van overlijden.
 
@@ -151,7 +150,7 @@ De delen A en C van het verplaatsingsformulier worden onderscheidenlijk gezonden
 
 ##### Artikel 13
 
-De intern-verplaatste persoon wordt geregistreerd op de door de burgemeester te bepalen wijze. Bij de registratie wordt in ieder geval in vak 24 van de persoonskaart, in uitwisbaar potloodschrift, de aanduiding VPI geplaatst. Voorts wordt, indien de artikelen 100 en 101 van het Besluit bevolkingsboekhouding (**Stb.** 1936, 342) adreswijziging in vak 22 van de persoonskaart niet noodzakelijk maken, in laatstgenoemd vak in uitwisbaar potloodschrift het adres vermeld, waar de persoon is gehuisvest.
+De intern-verplaatste persoon wordt geregistreerd op de door de burgemeester te bepalen wijze. Bij de registratie wordt in ieder geval in vak 24 van de persoonskaart, in uitwisbaar potloodschrift, de aanduiding VPI geplaatst. Voorts wordt, indien de artikelen 100 en 101 van het Besluit bevolkingsboekhouding (*Stb.* 1936, 342) adreswijziging in vak 22 van de persoonskaart niet noodzakelijk maken, in laatstgenoemd vak in uitwisbaar potloodschrift het adres vermeld, waar de persoon is gehuisvest.
 
 ##### Artikel 14
 
@@ -177,68 +176,4 @@ De intern-verplaatste persoon wordt geregistreerd op de door de burgemeester te 
 
 ##### Artikel 16
 
-Deze beschikking, welke kan worden aangehaald als: Beschikking registratie verplaatste personen, zal worden bekendgemaakt in de **Nederlandse Staatscourant**.
-
-## Bijlage I
-
-Kleur: wit. Formaat: 88 × 125 mm.
-
-(Het tweede en het derde deel van het verplaatsingsformulier zijn in de rechterbovenhoek gemerkt
-
-| B |
-| --- |
-| m/v |
-
-, onderscheidenlijk
-
-| C |
-| --- |
-| m/v |
-
-, doch zijn overigens gelijkluidend.)
-
-| 1. | Geslachtsnaam te registreren mannelijk persoon of (laatstoverleden) echtgenoot van nr. 2. | A |
-| --- | --- | --- |
-| 1. | Geslachtsnaam te registreren mannelijk persoon of (laatstoverleden) echtgenoot van nr. 2. | m/v |
-| 2. | (Meisjes) naam te registreren vrouwelijk persoon. |   |
-| 3. | Eigen voorn. |   |
-| 4. | Indien gezinslid, voornamen en geb.jaar v. h. hoofd van het gezin ¹)Voor inwonende stiefkinderen geslachtsnaam en voornamen en geboortejaar van het gezinshoofd.. Geb.jaar: |   |
-| 5. | Geb. op te |   |
-| 6. | Beroep: |   |
-| 7. | Ong./geh./wed. Kerk. gez.: | Nat.: |
-| 8. | Opgen. in het bev.reg. van: aan het adres: |   |
-| 9. | Laatste gem. van reg.: |   |
-| 10. | Dagt.: | Gem. van huisvesting en adres: |
-| 11. | Opmerkingen: |   |
-
-## Bijlage II
-
-(Voorzijde)
-
-Kleur: blauw. Formaat 88 × 125 mm.
-
-I
-
-Geslachtsnaam ............................................
-
-Voornamen ..............................................
-
-II
-
-Geslachtsnaam ............................................
-
-Voornamen ..............................................
-
-Geboortejaar ............................................
-
-(Achterzijde)
-
-Kleur: blauw. Formaat 88 × 125 mm.
-
-Een verwijzingskaartje wordt uitsluitend aangelegd voor een stiefkind, welks geslachtsnaam afwijkt van die van de stiefvader.
-
-Bij I te vermelden de geslachtsnaam en de voornamen van het stiefkind.
-
-Bij II te vermelden de geslachtsnaam, waaronder deel A van het verplaatsingsformulier ten name van het gezinshoofd in het verplaatsingsregister A is gerangschikt ¹)Indien het gezinshoofd een gehuwde vrouw of een weduwe is, derhalve de geslachtsnaam van de (laatstoverleden) echtgenoot., zomede de voornamen en het geboortejaar van het gezinshoofd.
-
-Mij bekend,
+Deze beschikking, welke kan worden aangehaald als: Beschikking registratie verplaatste personen, zal worden bekendgemaakt in de *Nederlandse Staatscourant*.

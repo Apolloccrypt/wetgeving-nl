@@ -1,38 +1,18 @@
 ---
 title: "Wet van 12 juli 1821, houdende de grondslagen van het stelsel van 's Rijks belastingen, met den jare 1822"
+citeertitel: "Stelselwet"
 identifier: "BWBR0001826"
-country: "nl"
-rank: "wet"
-publication_date: "1821-08-01"
-last_updated: "1821-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001826"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1757553"
-version_id: "2607202"
-internal_id: "C2607201"
-label_id: "1712034"
-dtd_version: "2.0"
-original_entry_into_force: "1821-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001826/1821-08-01/0"
-intitule_bron: "Stb.1821-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1821-07-12"
-intitule_status: "goed"
-original_publication: "Stb.1821-9"
-original_signed_date: "1821-07-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1821-08-01"
-jci_1_3: "jci1.3:c:BWBR0001826&z=1821-08-01&g=1821-08-01"
-jci_1_0: "1.0:c:BWBR0001826&g=1821-08-01"
-citeertitel_status: "officieel"
-short_title: "Stelselwet"
-signed_date: "1821-07-12"
-entry_into_force: "1821-08-01"
+publicatiedatum: 1821-08-01
+laatste_update: 1821-08-01
+status: geldig
+toestand: 1821-08-01
+bron: "https://wetten.overheid.nl/BWBR0001826"
+opgehaald: 2026-07-29
 ---
-# Wet van 12 juli 1821, houdende de grondslagen van het stelsel van 's Rijks belastingen, met den jare 1822
 
-Alzoo Wij in overweging genomen hebben den uitslag der deliberatien van de kommissie, door Ons, bij besluit van den 23sten Januari des jaars 1820, n°. 17, tot herziening van het bestaande stelsel der In- en Uitgaande Regten en Accijnsen benoemd, en daardoor de noodzakelijkheid hebben ingezien, om in dat stelsel belangrijke wijzigingen daar te stellen, en hetzelve tevens, in zoo verre het voor de schatkist onvoldoende is, door zoodanige middelen aan te vullen, als daartoe het meest dienstig kunnen geacht worden;
+# Wet van 12 juli 1821, houdende de grondslagen van het stelsel van 's Rijks belastingen, met den jare 1822
 
 ##### Artikel 1
 
@@ -46,69 +26,82 @@ Het voorschreven stelsel, zal bestaan uit de navolgende belastingen:
 
 - I. DIRECTE BELASTINGEN.
 
-- a. Op de ongebouwde en gebouwde eigendommen, zoodanig als dezelve volgens de wetten en verordeningen op die belastingen bestaande, worden geheven tot eene hoofdsom van f 16,028,160.00, welke over de provincien zal worden omgeslagen, behoudens zoodanige bepalingen, als deswege bij volgende wetten nader mogten worden vastgesteld. Boven deze hoofdsom zullen op dezelve nog geheven worden twee opcenten tot goedmaking der niet inkomende posten.
+   - a. Op de ongebouwde en gebouwde eigendommen, zoodanig als dezelve volgens de wetten en verordeningen op die belastingen bestaande, worden geheven tot eene hoofdsom van f 16,028,160.00, welke over de provincien zal worden omgeslagen, behoudens zoodanige bepalingen, als deswege bij volgende wetten nader mogten worden vastgesteld. Boven deze hoofdsom zullen op dezelve nog geheven worden twee opcenten tot goedmaking der niet inkomende posten.
 
-- b. Op het personeel, welke belasting op de zes volgende grondslagen zal worden berekend:
+   - b. Op het personeel, welke belasting op de zes volgende grondslagen zal worden berekend:
 
-- 1°. De huurswaarde, **Vier guldens** van iedere **honderd guldens** jaarlijksche onzuivere huurswaarde van alle woningen en gebouwen. Hiervan worden vrijgesteld alle woningen beneden **twintig guldens** jaarlijksche huurswaarde; of bij de week verhuurd wordende, beneden de **zestig cents** huurswaarde in de week. Alle fabrijk- en trafijk-gebouwen voor zoo verre dezelve niet dienen tot berging der gefabriceerde goederen, mitsgaders alle schuren en stallen van den landbouw, kerken, schoolgebouwen, gestichten van publiek onderwijs en weldadigheid, en alle gebouwen voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. De gedeelten echter dier gebouwen, welke worden bewoond, of tot andere dan de hierboven genoemde einden worden gebruikt, zijn aan de belasting onderworpen.
+      - 1°. De huurswaarde, *Vier guldens* van iedere *honderd guldens* jaarlijksche onzuivere huurswaarde van alle woningen en gebouwen. Hiervan worden vrijgesteld alle woningen beneden *twintig guldens* jaarlijksche huurswaarde; of bij de week verhuurd wordende, beneden de *zestig cents* huurswaarde in de week. Alle fabrijk- en trafijk-gebouwen voor zoo verre dezelve niet dienen tot berging der gefabriceerde goederen, mitsgaders alle schuren en stallen van den landbouw, kerken, schoolgebouwen, gestichten van publiek onderwijs en weldadigheid, en alle gebouwen voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. De gedeelten echter dier gebouwen, welke worden bewoond, of tot andere dan de hierboven genoemde einden worden gebruikt, zijn aan de belasting onderworpen.
 
-- 2°. De deuren en vensters. Van al de buitendeuren en vensters, welke in de huizen en gebouwen gevonden worden, zal door de gebruikers dier huizen en gebouwen betaald worden naar het volgende tarief: Deuren en vensters gelijk vloers, en vensters der twee volgende verdiepingen: Vensters der hoogere verdiepingen: Met betrekking tot de klassificatie der gemeenten ten platten lande, naar derzelver bevolking, zal slechts tot grondslag genomen worden het getal inwoners, hetwelk in de geaglomereerde huizen der gemeente gevonden wordt, zonder daarbij te voegen de bevolking van huizen die in de uitgestrektheid der gemeente verspreid zijn, en welke zullen gerangschikt worden in de klasse tot welke de gemeente, naar hare geaglomereerde bevolking, behoort. Van de belasting op de deuren en vensters, zijn vrijgesteld de deuren en vensters, dienende om licht of lucht te geven in zolders, kelders en andere plaatsen, die niet tot woning van menschen strekken, als mede die, welke gevonden worden in de daken of andere dekkingen van bewoonde huizen; voorts de deuren en vensters in fabrijken en trafijken, schuren en stallen van den landbouw, kerken, schoolgebouwen, gestichten van publiek onderwijs en weldadigheid, en alle gebouwen voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. De deuren en vensters echter, welke gevonden worden in de gedeelten dier gebouwen, welke worden bewoond, of tot andere dan de hierboven genoemde einden worden gebruikt, zijn aan de belasting onderworpen. Voorts zijn van deze belasting vrijgesteld, de deuren en vensters in woonhuizen beneden de twintig guldens, jaarlijksche huurswaarde, of bij de week verhuurd wordende, beneden de zestig cents, huurswaarde in de week.
+      - 2°. De deuren en vensters. Van al de buitendeuren en vensters, welke in de huizen en gebouwen gevonden worden, zal door de gebruikers dier huizen en gebouwen betaald worden naar het volgende tarief: Deuren en vensters gelijk vloers, en vensters der twee volgende verdiepingen: In gemeenten
+ beneden de ... 5,000
+ inwoners
+ f 00.40.
+ van 5,000 tot 10,000
+ „
+ – 00.50.
+ „ 10,000 tot 25,000
+ „
+ – 00.60.
+ „ 25,000 tot 50,000
+ „
+ – 00.80.
+ boven de ... 50,000
+ „
+ – 1.10. Vensters der hoogere verdiepingen: In gemeenten
+ beneden de 5,000
+ inwoners
+ ... f 00.40.
+ In gemeenten
+ beneden de ... 5,000
+ inwoners
+ f 00.40.
+ boven de ... 50,00
+ "
+ -00.50. Met betrekking tot de klassificatie der gemeenten ten platten lande, naar derzelver bevolking, zal slechts tot grondslag genomen worden het getal inwoners, hetwelk in de geaglomereerde huizen der gemeente gevonden wordt, zonder daarbij te voegen de bevolking van huizen die in de uitgestrektheid der gemeente verspreid zijn, en welke zullen gerangschikt worden in de klasse tot welke de gemeente, naar hare geaglomereerde bevolking, behoort. Van de belasting op de deuren en vensters, zijn vrijgesteld de deuren en vensters, dienende om licht of lucht te geven in zolders, kelders en andere plaatsen, die niet tot woning van menschen strekken, als mede die, welke gevonden worden in de daken of andere dekkingen van bewoonde huizen; voorts de deuren en vensters in fabrijken en trafijken, schuren en stallen van den landbouw, kerken, schoolgebouwen, gestichten van publiek onderwijs en weldadigheid, en alle gebouwen voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. De deuren en vensters echter, welke gevonden worden in de gedeelten dier gebouwen, welke worden bewoond, of tot andere dan de hierboven genoemde einden worden gebruikt, zijn aan de belasting onderworpen. Voorts zijn van deze belasting vrijgesteld, de deuren en vensters in woonhuizen beneden de twintig guldens, jaarlijksche huurswaarde, of bij de week verhuurd wordende, beneden de zestig cents, huurswaarde in de week.
 
-| In gemeenten | beneden de ... 5,000 | inwoners | f 00.40. |
-| --- | --- | --- | --- |
-|   | van 5,000 tot 10,000 | „ | – 00.50. |
-|   | „ 10,000 tot 25,000 | „ | – 00.60. |
-|   | „ 25,000 tot 50,000 | „ | – 00.80. |
-|   | boven de ... 50,000 | „ | – 1.10. |
+      - 3°. De haardsteden. Van alle de haardsteden, welke in de huizen en gebouwen gevonden worden, zal door de gebruikers dier huizen en gebouwen, naar evenredigheid van het getal haardsteden, worden betaald: Wanneer er slechts eene haardstede gevonden wordt f 0.40. Wanneer er slechts twee zijn, voor ieder f 0.75. Wanneer er drie of meerdere tot het getal van twaalf zijn, van ieder f 1.75. Hiervan zijn vrijgesteld: De haardsteden in woonhuizen van beneden de twintig guldens jaarlijksche huurswaarde; of bij de week verhuurd wordende, beneden de zestig cents huurswaarde in de week. De haardsteden boven het getal van twaalf, in ieder huis of gebouw. De haardsteden in kerken, schoolgebouwen, gestichten van publiek onderwijs of weldadigheid; en in alle gebouwen voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. De haardsteden echter, welke gevonden worden in de gedeelten dier gebouwen, welke worden bewoond, of tot andere, dan de hierboven genoemden einden, worden gebruikt, zijn aan de belasting onderworpen.
 
-| In gemeenten | beneden de 5,000 | inwoners | ... f 00.40. |
-| --- | --- | --- | --- |
-| In gemeenten | beneden de ... 5,000 | inwoners | f 00.40. |
-|   | boven de ... 50,00 | " | -00.50. |
+      - 4°. Het mobilair: Van elke honderd guldens der waarde van het mobilair, hetwelk gevonden wordt in woningen of gebouwen, zal door de gebruikers daarvan worden betaald f 1.00.Tot vinding der mobilaire waarde, zal het elk vrijstaan dezelve door daartoe aangestelde schatters te doen tauxeren, zullende anders die waarde berekend en bepaald worden op vijfmalen de jaarlijksche onzuivere huur der woningen en gebouwen, waarin het mobilair zich bevindt. Van deze betaling is vrijgesteld: Het mobilair in woonhuizen van beneden de twintig guldens jaarlijksche huurswaarde, of, bij de week verhuurd wordende, beneden de zestig cents huurswaarde in de week. Het mobilair in kerken, schoolgebouwen, gestichten van publiek onderwijs en weldadigheid, en in gebouwen bestemd voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. Dat geen echter, hetwelk gevonden wordt in de gedeelten dier gebouwen welke worden bewoond, of tot andere dan de hierboven genoemde einden worden gebruikt, is aan de belasting onderworpen.
 
-- 3°. De haardsteden. Van alle de haardsteden, welke in de huizen en gebouwen gevonden worden, zal door de gebruikers dier huizen en gebouwen, naar evenredigheid van het getal haardsteden, worden betaald: Wanneer er slechts eene haardstede gevonden wordt f 0.40. Wanneer er slechts twee zijn, voor ieder f 0.75. Wanneer er drie of meerdere tot het getal van twaalf zijn, van ieder f 1.75. Hiervan zijn vrijgesteld: De haardsteden in woonhuizen van beneden de twintig guldens jaarlijksche huurswaarde; of bij de week verhuurd wordende, beneden de zestig cents huurswaarde in de week. De haardsteden boven het getal van twaalf, in ieder huis of gebouw. De haardsteden in kerken, schoolgebouwen, gestichten van publiek onderwijs of weldadigheid; en in alle gebouwen voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. De haardsteden echter, welke gevonden worden in de gedeelten dier gebouwen, welke worden bewoond, of tot andere, dan de hierboven genoemden einden, worden gebruikt, zijn aan de belasting onderworpen.
+      - 5°. De Dienstboden. Personen of huisgezinnen, welke dienstboden houden, zullen daarvan betalen:Voor iedere dienstbode f 7.00. Die gene welke slechts eene vrouwelijke dienstbode houden, zullen kunnen volstaan met voor dezelve te betalen f 4.00. Werkboden zijn vrijgesteld, ten ware dezelve tevens als dienstboden worden gebruikt, als wanneer voor ieder derzelve zal betaald worden f 3.00. Werkboden van den eigenlijk gezegden landbouwer, zijn in allen gevalle vrij van de belasting.
 
-- 4°. Het mobilair: Van elke honderd guldens der waarde van het mobilair, hetwelk gevonden wordt in woningen of gebouwen, zal door de gebruikers daarvan worden betaald f 1.00.Tot vinding der mobilaire waarde, zal het elk vrijstaan dezelve door daartoe aangestelde schatters te doen tauxeren, zullende anders die waarde berekend en bepaald worden op vijfmalen de jaarlijksche onzuivere huur der woningen en gebouwen, waarin het mobilair zich bevindt. Van deze betaling is vrijgesteld: Het mobilair in woonhuizen van beneden de twintig guldens jaarlijksche huurswaarde, of, bij de week verhuurd wordende, beneden de zestig cents huurswaarde in de week. Het mobilair in kerken, schoolgebouwen, gestichten van publiek onderwijs en weldadigheid, en in gebouwen bestemd voor den publieken rijks, provincialen, stedelijken of plaatselijken dienst. Dat geen echter, hetwelk gevonden wordt in de gedeelten dier gebouwen welke worden bewoond, of tot andere dan de hierboven genoemde einden worden gebruikt, is aan de belasting onderworpen.
+      - 6°. De paarden. Personen of huisgezinnen, welke paarden houden tot gemak of weelde, zullen daarvan betalen: Voor ieder paard f 20.00. Voerlieden, postmeesters, stalhouders en verhuurders van paarden, dienende tot transport van personen, van ieder paard f 5.00. Hiervan zijn vrijgesteld: De paarden, welke alleen en uitsluitend worden gebruikt tot den landbouw, de fabrijken, trafijken, bedrijven of neringen, zonder immer te worden gebezigd tot de einden bij de belaste paarden opgenoemd. Wanneer deze paarden echter tevens worden gebruikt voor rijtuigen op veeren of riemen, zal moeten worden betaald voor ieder paard f 7.00. De paarden der geestelijke personen ten platten lande. De paarden van militairen en ambtenaren tot het getal, hetwelk zij verpligt zijn, volgens de dienstreglementen, te houden; meerder paarden houdende, zullen zij daarvan de volle belasting betalen. Wanneer zij paarden, voor den dienst bestemd, ook tot andere einden, dan bij de dienst-reglementen is bepaald, gebruiken, zullen zij voor ieder paard betalen f 7.00.
 
-- 5°. De Dienstboden. Personen of huisgezinnen, welke dienstboden houden, zullen daarvan betalen:Voor iedere dienstbode f 7.00. Die gene welke slechts eene vrouwelijke dienstbode houden, zullen kunnen volstaan met voor dezelve te betalen f 4.00. Werkboden zijn vrijgesteld, ten ware dezelve tevens als dienstboden worden gebruikt, als wanneer voor ieder derzelve zal betaald worden f 3.00. Werkboden van den eigenlijk gezegden landbouwer, zijn in allen gevalle vrij van de belasting.
-
-- 6°. De paarden. Personen of huisgezinnen, welke paarden houden tot gemak of weelde, zullen daarvan betalen: Voor ieder paard f 20.00. Voerlieden, postmeesters, stalhouders en verhuurders van paarden, dienende tot transport van personen, van ieder paard f 5.00. Hiervan zijn vrijgesteld: De paarden, welke alleen en uitsluitend worden gebruikt tot den landbouw, de fabrijken, trafijken, bedrijven of neringen, zonder immer te worden gebezigd tot de einden bij de belaste paarden opgenoemd. Wanneer deze paarden echter tevens worden gebruikt voor rijtuigen op veeren of riemen, zal moeten worden betaald voor ieder paard f 7.00. De paarden der geestelijke personen ten platten lande. De paarden van militairen en ambtenaren tot het getal, hetwelk zij verpligt zijn, volgens de dienstreglementen, te houden; meerder paarden houdende, zullen zij daarvan de volle belasting betalen. Wanneer zij paarden, voor den dienst bestemd, ook tot andere einden, dan bij de dienst-reglementen is bepaald, gebruiken, zullen zij voor ieder paard betalen f 7.00.
-
-- c. Op de patenten. De belasting der patenten zal worden geheven op de uitoefening van allen handel, beroep, bedrijf, handwerk en nering, waaronder ook de binnenlandsche scheepvaart, in plaats van het binnenlandsch tonnengeld, zal begrepen worden, behoudens zoodanige vrijstellingen als bij de wet zullen worden uitgedrukt, en welke vrijstellingen zonder eenige voorafgaande formaliteiten of onkosten zullen genoten worden. Zij zal tot grondslag hebben een evenredig bedrag van de winstgeving der bedrijven, in verband gebragt met het meerder of minder nut, hetwelk elk bedrijf sticht. Het maximum der belasting zal niet hooger zijn, dan bij de wet van dato 21 Mei 1819 (staatsblad, n°. 34), is vastgesteld. Tot vinding en invordering der voorschreven belastingen op het personeel en de patenten zal jaarlijks eene beschrijving geschieden aan de woningen der ingezetenen, en zullen zij, bij die gelegenheid, de vereischte opgaven doen, en zich zelve quotiseren, onder zoodanige penale bepalingen en voorzieningen, als bij de speciale wetten nader zullen worden vastgesteld.
+   - c. Op de patenten. De belasting der patenten zal worden geheven op de uitoefening van allen handel, beroep, bedrijf, handwerk en nering, waaronder ook de binnenlandsche scheepvaart, in plaats van het binnenlandsch tonnengeld, zal begrepen worden, behoudens zoodanige vrijstellingen als bij de wet zullen worden uitgedrukt, en welke vrijstellingen zonder eenige voorafgaande formaliteiten of onkosten zullen genoten worden. Zij zal tot grondslag hebben een evenredig bedrag van de winstgeving der bedrijven, in verband gebragt met het meerder of minder nut, hetwelk elk bedrijf sticht. Het maximum der belasting zal niet hooger zijn, dan bij de wet van dato 21 Mei 1819 (staatsblad, n°. 34), is vastgesteld. Tot vinding en invordering der voorschreven belastingen op het personeel en de patenten zal jaarlijks eene beschrijving geschieden aan de woningen der ingezetenen, en zullen zij, bij die gelegenheid, de vereischte opgaven doen, en zich zelve quotiseren, onder zoodanige penale bepalingen en voorzieningen, als bij de speciale wetten nader zullen worden vastgesteld.
 
 - II. INDIRECTE BELASTINGEN.
 
-- d. De tegenwoordige registratie, zegel, griffie en hypotheek-regten, behoudens de nadere overweging, of, en, in hoe verre, deze regten, op den tegenwoordigen voet zullen blijven bestaan, of door andere vervangen, en intusschen behoudens zoodanige wijzigingen, als daarin zullen worden daargesteld bij eene speciale wet.
+   - d. De tegenwoordige registratie, zegel, griffie en hypotheek-regten, behoudens de nadere overweging, of, en, in hoe verre, deze regten, op den tegenwoordigen voet zullen blijven bestaan, of door andere vervangen, en intusschen behoudens zoodanige wijzigingen, als daarin zullen worden daargesteld bij eene speciale wet.
 
-- e. Het regt op de successien, volgens de bestaande wet, van den 27sten December 1817 (staatsblad, n°. 37), met zoodanige veranderingen, als daarin nader bij de wet zullen worden daargesteld.
+   - e. Het regt op de successien, volgens de bestaande wet, van den 27sten December 1817 (staatsblad, n°. 37), met zoodanige veranderingen, als daarin nader bij de wet zullen worden daargesteld.
 
 - III. ACCIJNSEN.
 
-- f. Op het zout. De belasting op het zout zal bedragen van iedere honderd nederlandsche ponden f 6.00, en van ieder vat pekel f 5.00. De aanslag der belasting zal een aanvang nemen bij den invoer van het zout, doch de betaling zal niet gevorderd worden dan bij den uitslag. Aan de zoutzieders en handelaars in het groot, zal onder behoorlijke borgtogt, een doorloopend crediet worden toegestaan. Aan de zulks behoevende fabrijken, trafijken, vischvangst en vischzouterijen, zal vrijdom van de belasting kunnen worden toegestaan, onder behoorlijke voorzieningen.
+   - f. Op het zout. De belasting op het zout zal bedragen van iedere honderd nederlandsche ponden f 6.00, en van ieder vat pekel f 5.00. De aanslag der belasting zal een aanvang nemen bij den invoer van het zout, doch de betaling zal niet gevorderd worden dan bij den uitslag. Aan de zoutzieders en handelaars in het groot, zal onder behoorlijke borgtogt, een doorloopend crediet worden toegestaan. Aan de zulks behoevende fabrijken, trafijken, vischvangst en vischzouterijen, zal vrijdom van de belasting kunnen worden toegestaan, onder behoorlijke voorzieningen.
 
-- g. Op het gemaal. De belasting op de tarwe, spelt en rogge, welke tot meel wordt gemalen, zal bedragen, van ieder mud tarwe f 1.40, spelt f 0.50 en rogge f 0.40. De turksche tarwe en de gepelde spelt worden met tarwe, en de Egyptische rogge met rogge gelijk gesteld. Van deze belasting zijn vrijgesteld, onder zoodanige verordeningen, als noodig zullen bevonden worden, de tarwe, spelt en rogge, welke gemalen zal worden voor de branderijen, brouwerijen en stijfselmakerijen, en tot mesting of voeding van het vee. De belasting zal moeten worden betaald vóór dat het graan ter molen mag gebragt worden. De molenaars zullen geene granen boven de, bij de speciale wet te bepalen kwantiteiten mogen malen, dan op een bewijs, afgegeven door den ontvanger, dat de belasting is betaald, of dat dezelve daarvan niet is verschuldigd.
+   - g. Op het gemaal. De belasting op de tarwe, spelt en rogge, welke tot meel wordt gemalen, zal bedragen, van ieder mud tarwe f 1.40, spelt f 0.50 en rogge f 0.40. De turksche tarwe en de gepelde spelt worden met tarwe, en de Egyptische rogge met rogge gelijk gesteld. Van deze belasting zijn vrijgesteld, onder zoodanige verordeningen, als noodig zullen bevonden worden, de tarwe, spelt en rogge, welke gemalen zal worden voor de branderijen, brouwerijen en stijfselmakerijen, en tot mesting of voeding van het vee. De belasting zal moeten worden betaald vóór dat het graan ter molen mag gebragt worden. De molenaars zullen geene granen boven de, bij de speciale wet te bepalen kwantiteiten mogen malen, dan op een bewijs, afgegeven door den ontvanger, dat de belasting is betaald, of dat dezelve daarvan niet is verschuldigd.
 
-- h. Op het geslagt. De belasting zal bedragen tien cents van ieder gulden waarde, van alle geslagt wordende stieren, ossen, koeijen, vaarsen, pinken, kalveren, schapen en lammeren, en acht cents van ieder gulden waarde van alle geslagt wordende varkens en speenvarkens. De waarde zal, vóór dat het vee mag worden geslagt, door daartoe gestelde schatters worden bepaald. De belasting zal naar die waarde en mede vóór dat het vee mag worden geslagt, worden betaald.
+   - h. Op het geslagt. De belasting zal bedragen tien cents van ieder gulden waarde, van alle geslagt wordende stieren, ossen, koeijen, vaarsen, pinken, kalveren, schapen en lammeren, en acht cents van ieder gulden waarde van alle geslagt wordende varkens en speenvarkens. De waarde zal, vóór dat het vee mag worden geslagt, door daartoe gestelde schatters worden bepaald. De belasting zal naar die waarde en mede vóór dat het vee mag worden geslagt, worden betaald.
 
-- i. Op den wijn. De belasting zal bedragen, per vat: Van den buitenlandschen wijn f 9.00. Van den binnenlandschen wijn f 1.40. De aanslag der belasting zal plaats hebben, voor den buitenlandschen wijn bij den invoer, en voor den binnenlandschen wijn bij den oogst. Aan de handelaars in het groot, en de wijnkoopers, zal onder behoorlijke borgtogt, een doorloopend crediet kunnen worden gegeven; aan de wijngaardeniers zal mede een doorloopend crediet kunnen worden toegestaan, onder zoodanige bepalingen als bij de speciale wet zullen worden vastgesteld. De betaling van de belasting zal geschieden bij den uitslag.
+   - i. Op den wijn. De belasting zal bedragen, per vat: Van den buitenlandschen wijn f 9.00. Van den binnenlandschen wijn f 1.40. De aanslag der belasting zal plaats hebben, voor den buitenlandschen wijn bij den invoer, en voor den binnenlandschen wijn bij den oogst. Aan de handelaars in het groot, en de wijnkoopers, zal onder behoorlijke borgtogt, een doorloopend crediet kunnen worden gegeven; aan de wijngaardeniers zal mede een doorloopend crediet kunnen worden toegestaan, onder zoodanige bepalingen als bij de speciale wet zullen worden vastgesteld. De betaling van de belasting zal geschieden bij den uitslag.
 
-- k. Op het binnenlandsch gedisteleerd. De belasting zal bedragen twaalf guldens het vat, tot eene sterkte van niet meer dan 10 graden; meerder sterkte volgens het tarief, bij de speciale wet vast te stellen. De aanslag tot het minimum der belasting zal plaats hebben bij de beslagbakken of kuipen, in verband gebragt met de hoeveelheid van het gemaal, doch de betaling niet gevorderd worden dan bij den uitslag. Aan de branders en handelaars in het groot zal, onder behoorlijke borgtogt, een doorloopend crediet worden gegeven.
+   - k. Op het binnenlandsch gedisteleerd. De belasting zal bedragen twaalf guldens het vat, tot eene sterkte van niet meer dan 10 graden; meerder sterkte volgens het tarief, bij de speciale wet vast te stellen. De aanslag tot het minimum der belasting zal plaats hebben bij de beslagbakken of kuipen, in verband gebragt met de hoeveelheid van het gemaal, doch de betaling niet gevorderd worden dan bij den uitslag. Aan de branders en handelaars in het groot zal, onder behoorlijke borgtogt, een doorloopend crediet worden gegeven.
 
-- l. Op het buitenlandsch gedisteleerd. De belasting zal bedragen zestien guldens het vat, tot eene sterkte van niet meer dan 10 graden; meerder sterkte, volgens het tarief, bij de speciale wet vast te stellen. De aanslag der belasting zal plaats hebben bij den invoer, doch de betaling niet gevorderd worden dan bij den uislag. Aan de handelaars in het groot zal, onder behoorlijke borgtogt, een doorloopend crediet worden gegeven.
+   - l. Op het buitenlandsch gedisteleerd. De belasting zal bedragen zestien guldens het vat, tot eene sterkte van niet meer dan 10 graden; meerder sterkte, volgens het tarief, bij de speciale wet vast te stellen. De aanslag der belasting zal plaats hebben bij den invoer, doch de betaling niet gevorderd worden dan bij den uislag. Aan de handelaars in het groot zal, onder behoorlijke borgtogt, een doorloopend crediet worden gegeven.
 
-- m. Op het binnenlandsch bier en de azijn. De belasting zal bedragen f 0.70. voor ieder vat ruimte, welke de roer- of andere beslagkuipen der bier- en azijnbrouwerijen, mitsgaders de werk- of tweelingskuipen in de verzuurplaatsen der kunst-azijnmakerijen bevatten, en voorts ingevorderd worden volgens de wet van den 12den Mei 1819 (staatsblad n°. 23), behoudens zoodanige veranderingen als daarin, inzonderheid ook in verband met de hoeveelheid van het gemaal, mogten worden bevonden noodig te zijn.
+   - m. Op het binnenlandsch bier en de azijn. De belasting zal bedragen f 0.70. voor ieder vat ruimte, welke de roer- of andere beslagkuipen der bier- en azijnbrouwerijen, mitsgaders de werk- of tweelingskuipen in de verzuurplaatsen der kunst-azijnmakerijen bevatten, en voorts ingevorderd worden volgens de wet van den 12den Mei 1819 (staatsblad n°. 23), behoudens zoodanige veranderingen als daarin, inzonderheid ook in verband met de hoeveelheid van het gemaal, mogten worden bevonden noodig te zijn.
 
-- n. Op de suiker. De belasting zal bedragen f 9.00. van iedere honderd nederlandsche ponden ruwe suiker, en geheven worden volgens de bestaande wet van den 21sten Mei 1819 (staatsblad, n°. 33), behoudens zoodanige wijzigingen en veranderingen als daarin nader mogten worden bevonden noodig te zijn.
+   - n. Op de suiker. De belasting zal bedragen f 9.00. van iedere honderd nederlandsche ponden ruwe suiker, en geheven worden volgens de bestaande wet van den 21sten Mei 1819 (staatsblad, n°. 33), behoudens zoodanige wijzigingen en veranderingen als daarin nader mogten worden bevonden noodig te zijn.
 
-- o. Op het collectief zegel. De belasting zal bestaan in een zegel, waarop de kwitantien en dokumenten voor de accijnsen zullen geschreven zijn, naar een tarief bij de afzonderlijke wetten daar te stellen. Het zegel der kwitantien zal beloopen omtrent vijf ten honderd van het bedrag derzelve.
+   - o. Op het collectief zegel. De belasting zal bestaan in een zegel, waarop de kwitantien en dokumenten voor de accijnsen zullen geschreven zijn, naar een tarief bij de afzonderlijke wetten daar te stellen. Het zegel der kwitantien zal beloopen omtrent vijf ten honderd van het bedrag derzelve.
 
 - IV. OP DE GOUDEN EN ZILVEREN WERKEN.
 
-- p. Het bestaande regt op de gouden en zilveren werken, volgens de daarop vigerende wet.
+   - p. Het bestaande regt op de gouden en zilveren werken, volgens de daarop vigerende wet.
 
 - V. DE IN- EN UITGAANDE REGTEN.
 
-- q. De regten op den in-, uit- en doorvoer van alle goederen, waren en koopmanschappen, mitsgaders het buitenlandsche tonnengeld.
+   - q. De regten op den in-, uit- en doorvoer van alle goederen, waren en koopmanschappen, mitsgaders het buitenlandsche tonnengeld.
 
 ##### Artikel 3
 
@@ -122,7 +115,7 @@ Bij de invoering der speciale wetten, zullen worden gehouden voor vervallen de t
 
 ##### Artikel 5
 
-1. Met opzigt tot de accijnsen en in het bijzonder omtrent het gemaal, het geslagt en het binnenlandsch gedisteleerd, zullen de speciale wetten, zoodanige wijzigingen bepalen of faciliteiten toestaan, als in verband met de hoegrootheid en den aard der belasting zullen noodig geacht worden, wanneer de locale of andere omstandigheden zulks vereischen. Bovendien zullen Wij, na geraadpleegd te hebben de Provinciale Staten, en na gehoord te hebben den Raad van State, de accijns op het gemaal ten platten lande, bij wijze van uitkoop of admodiatie door de plaatselijke besturen doen heffen, in geheele distrikten, arrondissementen of provincien, waar zulks ten algemeene nutte of ten gerijve der ingezetenen strekken kan, of wel door de Provinciale Staten zal verlangd worden; en zulks tot eene bepaalde principale som per hoofd berekend, welke in verband met de doorgaande consumtie van tarwe of rogge, en overeenkomstig de quotiteit der belasting zal moeten worden geregeld, zoodanig dat dezelve nimmer het **maximum** van f 1.40 in principaal, zijnde de impost van een mudde tarwe per hoofd, zal mogen te boven gaan.
+1. Met opzigt tot de accijnsen en in het bijzonder omtrent het gemaal, het geslagt en het binnenlandsch gedisteleerd, zullen de speciale wetten, zoodanige wijzigingen bepalen of faciliteiten toestaan, als in verband met de hoegrootheid en den aard der belasting zullen noodig geacht worden, wanneer de locale of andere omstandigheden zulks vereischen. Bovendien zullen Wij, na geraadpleegd te hebben de Provinciale Staten, en na gehoord te hebben den Raad van State, de accijns op het gemaal ten platten lande, bij wijze van uitkoop of admodiatie door de plaatselijke besturen doen heffen, in geheele distrikten, arrondissementen of provincien, waar zulks ten algemeene nutte of ten gerijve der ingezetenen strekken kan, of wel door de Provinciale Staten zal verlangd worden; en zulks tot eene bepaalde principale som per hoofd berekend, welke in verband met de doorgaande consumtie van tarwe of rogge, en overeenkomstig de quotiteit der belasting zal moeten worden geregeld, zoodanig dat dezelve nimmer het *maximum* van f 1.40 in principaal, zijnde de impost van een mudde tarwe per hoofd, zal mogen te boven gaan.
 
 2. Op gelijke wijze behouden Wij Ons voor, om bij de accijns op het geslagt ten platten lande, de waarde van het geslagt wordende vee, door de eigene aangifte der schatpligtigen te doen bepalen, behoudens het regt van benadering.
 
@@ -198,9 +191,9 @@ Bij de daarstelling der wetten op den ophef der in- en uitgaande regten en accij
 
 ##### Artikel 11
 
-1. Met opzigt tot de hoegrootheid der regten, zal van het beginsel worden uitgegaan, dat, aan de eene zijde, de hoogte derzelve voor den bloei der commercie geene nadeelige gevolgen hebbe, of het gevaar zoude doen loopen, dat het aanwenden van middelen, om dezelve te ontwijken, daardoor zoude worden aangemoedigd, en aan de andere zijde, de binnenlandsche industrie eene behoorlijke bescherming tegen buitenlandsche mededinging geniete; zullende dienvolgens het **maximum** der regten, zoo op het inkomen als op het uitgaan, met betrekking tot voorwerpen, welke met de voortbrengselen der inlandsche nijverheid in een onmiddellijk verband staan, op zes per cent, en ten aanzien van alle andere, welke niet in die termen vallen, op drie per cent kunnen gebragt worden, behoudens in het eene, zoo wel als in het andere dezer gevallen, die uitzonderingen, omtrent welke men eventueel een verbod van invoer of uitvoer of een hooger regt mogt onvermijdelijk achten. Ook zal, in het bepalen der regten, op den invoer van grondstoffen ten behoeve der inlandsche nijverheid, en op den uitvoer van voortbrengselen dezer nijverheid, op de belangen van dezelve, een billijk regard worden geslagen, en in het algemeen worden geobserveerd, dat de goederen op 3 of op 6 per cent, en hooger bij den invoer aangeslagen, bij den uitvoer aan geringe regten zullen worden onderworpen en omgekeerd.
+1. Met opzigt tot de hoegrootheid der regten, zal van het beginsel worden uitgegaan, dat, aan de eene zijde, de hoogte derzelve voor den bloei der commercie geene nadeelige gevolgen hebbe, of het gevaar zoude doen loopen, dat het aanwenden van middelen, om dezelve te ontwijken, daardoor zoude worden aangemoedigd, en aan de andere zijde, de binnenlandsche industrie eene behoorlijke bescherming tegen buitenlandsche mededinging geniete; zullende dienvolgens het *maximum* der regten, zoo op het inkomen als op het uitgaan, met betrekking tot voorwerpen, welke met de voortbrengselen der inlandsche nijverheid in een onmiddellijk verband staan, op zes per cent, en ten aanzien van alle andere, welke niet in die termen vallen, op drie per cent kunnen gebragt worden, behoudens in het eene, zoo wel als in het andere dezer gevallen, die uitzonderingen, omtrent welke men eventueel een verbod van invoer of uitvoer of een hooger regt mogt onvermijdelijk achten. Ook zal, in het bepalen der regten, op den invoer van grondstoffen ten behoeve der inlandsche nijverheid, en op den uitvoer van voortbrengselen dezer nijverheid, op de belangen van dezelve, een billijk regard worden geslagen, en in het algemeen worden geobserveerd, dat de goederen op 3 of op 6 per cent, en hooger bij den invoer aangeslagen, bij den uitvoer aan geringe regten zullen worden onderworpen en omgekeerd.
 
-2. Voor zoo veel de aard der voorwerpen het gedoogt, zal aan de berekening der regten, naar het gewigt, het getal of de maat, boven die, welke naar de waarde geschiedt, de voorkeur gegeven worden, daarbij tevens de zoo evengemelde bepaling van het **maximum** in het oog houdende.
+2. Voor zoo veel de aard der voorwerpen het gedoogt, zal aan de berekening der regten, naar het gewigt, het getal of de maat, boven die, welke naar de waarde geschiedt, de voorkeur gegeven worden, daarbij tevens de zoo evengemelde bepaling van het *maximum* in het oog houdende.
 
 3. De doorgevoerd, alsmede de in- en wederom uitgevoerd wordende goederen, zullen aan een trapsgewijze opgaand tarief onderworpen worden, bij de inrigting van welk trapsgewijze opgaand tarief, hetwelk dat van 3 per cent niet zal te boven gaan, behoudens die uitzonderingen, omtrent welke men eventueel een hooger regt mogt onvermijdelijk achten, tevens zal worden in acht genomen, dat de regten, gevoegd bij de andere kosten van vervoer, den vreemdeling niet terug houden zijne goederen naar dit Rijk te verzenden, maar integendeel aan hetzelve de voorkeur doen geven.
 
@@ -218,20 +211,18 @@ Alle bestaande bepalingen omtrent de inkomsten van het Syndikaat, blijven in vol
 
 ##### Artikel 14
 
-1. Ter bestrijding der uitgaven van provinciaal belang, of der kosten van zoodanige andere onderwerpen, als met het algemeen belang in verband staande, tot bezuiniging en vereenvoudiging in de administratie aan het bestuur der provinciale Staten gedemandeerd zijn of mogten worden, zullen **zes** opcenten geheven worden op de hoofdsom der belastingen op de gebouwde en ongebouwde eigendommen en op het personeel. Voorschrevene opcenten zullen in iedere provincie uitsluitend bestemd zijn tot uitgaven tot die provincie betrekkelijk, zonder dat immer een algemeen fonds van deze opcenten kunne worden gemaakt. De aanvrage tot gebruik derzelve opcenten door de provinciale Staten te doen, zal moeten geschieden met opgave der objecten, tot welker bestrijding de aangevraagde sommen zullen moeten dienen, en onder zoodanige verantwoording als door Ons zal worden voorgeschreven.
+1. Ter bestrijding der uitgaven van provinciaal belang, of der kosten van zoodanige andere onderwerpen, als met het algemeen belang in verband staande, tot bezuiniging en vereenvoudiging in de administratie aan het bestuur der provinciale Staten gedemandeerd zijn of mogten worden, zullen *zes* opcenten geheven worden op de hoofdsom der belastingen op de gebouwde en ongebouwde eigendommen en op het personeel. Voorschrevene opcenten zullen in iedere provincie uitsluitend bestemd zijn tot uitgaven tot die provincie betrekkelijk, zonder dat immer een algemeen fonds van deze opcenten kunne worden gemaakt. De aanvrage tot gebruik derzelve opcenten door de provinciale Staten te doen, zal moeten geschieden met opgave der objecten, tot welker bestrijding de aangevraagde sommen zullen moeten dienen, en onder zoodanige verantwoording als door Ons zal worden voorgeschreven.
 
 2. De genoemde opcenten zullen, in allen gevalle, gelijktijdig met de hoofdsommen, door ’s Rijks ambtenaren gepercipieerd worden.
 
 ##### Artikel 15
 
-1. Ter bestrijding der uitgaven van de gemeenten zullen worden geheven, op de hoofdsommen der belastingen op de ongebouwde en gebouwde eigendommen en op het personeel, **vijf** opcenten, tot zoo lang andere bepalingen omtrent de plaatselijke belastingen door Ons zullen zijn goedgekeurd.
+1. Ter bestrijding der uitgaven van de gemeenten zullen worden geheven, op de hoofdsommen der belastingen op de ongebouwde en gebouwde eigendommen en op het personeel, *vijf* opcenten, tot zoo lang andere bepalingen omtrent de plaatselijke belastingen door Ons zullen zijn goedgekeurd.
 
-2. Op denzelfden voet, zullen op dezelve belastingen nog kunnen worden geheven **twee** opcenten, ter dispositie der gemeenten, onder uitdrukkelijke bepaling, dat dezelve in evenredigheid zullen moeten strekken tot het doen wegvallen of verminderen der personele of andere plaatselijke belastingen, terwijl in zoodanige gemeenten, welke ter bestrijding harer uitgaven de gemelde **twee** opcenten niet behoeven, dezelve of niet, of in eene mindere evenredigheid, zullen worden geheven, en het voordeel daarvan mitsdien te goed zal komen aan de contribuabelen.
+2. Op denzelfden voet, zullen op dezelve belastingen nog kunnen worden geheven *twee* opcenten, ter dispositie der gemeenten, onder uitdrukkelijke bepaling, dat dezelve in evenredigheid zullen moeten strekken tot het doen wegvallen of verminderen der personele of andere plaatselijke belastingen, terwijl in zoodanige gemeenten, welke ter bestrijding harer uitgaven de gemelde *twee* opcenten niet behoeven, dezelve of niet, of in eene mindere evenredigheid, zullen worden geheven, en het voordeel daarvan mitsdien te goed zal komen aan de contribuabelen.
 
 3. De opcenten zullen gelijktijdig met de hoofdsommen door ’s Rijks ambtenaren worden geïnd.
 
 ##### Artikel 16
 
 Voor zoo ver door Ons aan eenige gemeenten opcenten mogten worden toegestaan op die accijnsen, ten behoeve van het Rijk wordende geheven, welke daarvoor vatbaar worden gerekend, zullen dezelve door ’s Rijks ambtenaren gelijktijdig met de accijnsen worden geïnd, en, tot schadevergoeding der daaruit voortvloeijende onkosten, zullen door die gemeenten 3 per cent van het beloop dier opcenten aan ’s Rijks schatkist worden uitgekeerd.
-
-Lasten en bevelen, dat deze in het staatsblad zal worden geïnsereerd, en dat alle ministeriële departementen en autoriteiten, kollegien en ambtenaren aan de naauwkeurige uitvoering de hand zullen houden.

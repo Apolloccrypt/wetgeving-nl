@@ -1,46 +1,18 @@
 ---
 title: "Wet van 10 juli 1952, ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
+citeertitel: "Wet beschikbaarheid goederen"
 identifier: "BWBR0002098"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002098"
+categorie: "Overig"
 soort: "wet"
-stam_id: "435543"
-version_id: "11332132"
-internal_id: "C15268711"
-label_id: "423664"
-dtd_version: "2.0"
-original_entry_into_force: "2004-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002098/2021-07-01/0"
-intitule_bron: "Stb.1952-407"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1952-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2004-686"
-original_signed_date: "2004-12-02"
-original_published_date: "2004-12-28"
-original_effect: "structuurwijziging"
-original_dossier: "29514"
-original_url_id: "stb-2004-686"
-entry_into_force_date: "2004-12-02"
-entry_into_force_dossier: "29514"
-jci_1_3: "jci1.3:c:BWBR0002098&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0002098&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet beschikbaarheid goederen"
-signed_date: "2004-12-02"
-entry_into_force: "2004-12-02"
+publicatiedatum: 2004-12-02
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0002098"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 10 juli 1952, ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, maatregelen te kunnen treffen ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -72,7 +44,7 @@ Deze wet verstaat onder:
 
 5. Een bevel is mede van kracht voor de volgende rechthebbenden op de in het bevel begrepen goederen.
 
-6. Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). Indien [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2021-07-01&g=2021-07-01), toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2021-07-01&g=2021-07-01), met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de **Nederlandse Staatscourant** waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
+6. Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). Indien [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2021-07-01&g=2021-07-01), toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2021-07-01&g=2021-07-01), met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de *Nederlandse Staatscourant* waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
 
 ##### Artikel 2a
 
@@ -88,15 +60,15 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 ##### Artikel 3
 
-1. De bekendmaking van een algemeen bevel of van de wijziging of intrekking daarvan geschiedt door plaatsing in de **Staatscourant**.
+1. De bekendmaking van een algemeen bevel of van de wijziging of intrekking daarvan geschiedt door plaatsing in de *Staatscourant*.
 
 2. Indien de bekendmaking van een bijzonder bevel niet kan geschieden op de wijze als voorzien in [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41), geschiedt zij door toezending of uitreiking aan de burgemeester van de gemeente waar het goed zich bevindt; deze doet het stuk op een plaats binnen de gemeente in bewaring houden.
 
 ##### Artikel 4
 
-1. Ieder, die op de voet van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01), of [artikel 2**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2021-07-01&g=2021-07-01), is aangewezen om namens Onze Minister een bevel of bevelen te geven, moet voorzien zijn van een algemene of bijzondere schriftelijke machtiging, waaruit blijkt gedurende welke termijn de lasthebber daartoe bevoegd is.
+1. Ieder, die op de voet van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01), of [artikel 2*a*, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2021-07-01&g=2021-07-01), is aangewezen om namens Onze Minister een bevel of bevelen te geven, moet voorzien zijn van een algemene of bijzondere schriftelijke machtiging, waaruit blijkt gedurende welke termijn de lasthebber daartoe bevoegd is.
 
-2. De eis, in het vorige lid gesteld, geldt niet in spoedeisende gevallen, mits het besluit, waarbij personen zijn aangewezen, die bevoegd zijn namens een Onzer Ministers te gelasten, in de **Nederlandse Staatscourant** of door middel van de radio-omroep bekend gemaakt is.
+2. De eis, in het vorige lid gesteld, geldt niet in spoedeisende gevallen, mits het besluit, waarbij personen zijn aangewezen, die bevoegd zijn namens een Onzer Ministers te gelasten, in de *Nederlandse Staatscourant* of door middel van de radio-omroep bekend gemaakt is.
 
 ##### Artikel 5
 
@@ -130,9 +102,9 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 ##### Artikel 7
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01) of 2**a** zijn belast de bij besluit van Onze Ministers wie het aangaat aangewezen personen.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01) of 2*a* zijn belast de bij besluit van Onze Ministers wie het aangaat aangewezen personen.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 3. De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
@@ -170,7 +142,7 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 3. Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft hij die:
 
-- a. een krachtens [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2021-07-01&g=2021-07-01) gegeven bevel niet nakomt;
+- a. een krachtens [artikel 2*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2021-07-01&g=2021-07-01) gegeven bevel niet nakomt;
 
 - b. met betrekking tot zodanig bevel [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01), overtreedt;
 
@@ -182,13 +154,13 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
 1. Met de opsporing van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2021-07-01&g=2021-07-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe door of vanwege een van Onze Ministers aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 3. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.
 
@@ -196,20 +168,16 @@ Vervallen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
 De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, krachtens enige andere wet genomen ten behoeve van de uitvoering van de militaire taak.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet beschikbaarheid goederen.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

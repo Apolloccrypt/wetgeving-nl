@@ -1,43 +1,18 @@
 ---
 title: "Wet van 27 september 1961, houdende uitvoering van het op 20 juni 1956 te New York gesloten Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud"
+citeertitel: "Uitvoeringswet Verdrag onderhoudsverhaal in het buitenland 1956"
 identifier: "BWBR0002361"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002361"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1781193"
-version_id: "2646452"
-internal_id: "C2646451"
-label_id: "1736844"
-dtd_version: "2.0"
-original_entry_into_force: "1962-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002361/2017-09-01/0"
-intitule_bron: "Stb.1961-303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1961-09-27"
-intitule_status: "goed"
-original_publication: "Stb.1961-303"
-original_signed_date: "1961-09-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "5925"
-entry_into_force_date: "1962-08-30"
-jci_1_3: "jci1.3:c:BWBR0002361&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0002361&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Verdrag onderhoudsverhaal in het buitenland 1956"
-signed_date: "1961-09-27"
-entry_into_force: "1962-08-30"
+publicatiedatum: 1962-08-30
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0002361"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 27 september 1961, houdende uitvoering van het op 20 juni 1956 te New York gesloten Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, voorzieningen te treffen tot uitvoering van het op 20 juni 1956 te New York gesloten Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud (**Trb.** 1957, 121);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -53,7 +28,7 @@ Als ontvangende instelling, bedoeld in artikel 2, tweede lid, van het Verdrag, t
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -75,7 +50,7 @@ Indien van een beslissing inzake onderhoud, gegeven in een land, dat partij is b
 
 ##### Artikel 9
 
-1. Rogatoire commissies in zaken van onderhoud kunnen door een autoriteit van een Staat, voor welke het Verdrag van kracht is, worden opgedragen aan de Nederlandse rechter. Op zodanige rogatoire commissies zijn van overeenkomstige toepassing de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=6&z=2017-09-01&g=2017-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=7&z=2017-09-01&g=2017-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=8&z=2017-09-01&g=2017-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=9&z=2017-09-01&g=2017-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=10&z=2017-09-01&g=2017-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=11&z=2017-09-01&g=2017-09-01), laatste lid, 12, 13 en 14, met uitzondering van het bepaalde onder **a** en **b** van artikel 14, van de wet van 24 december 1958 (**Stb.** 677), houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering.
+1. Rogatoire commissies in zaken van onderhoud kunnen door een autoriteit van een Staat, voor welke het Verdrag van kracht is, worden opgedragen aan de Nederlandse rechter. Op zodanige rogatoire commissies zijn van overeenkomstige toepassing de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=6&z=2017-09-01&g=2017-09-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=7&z=2017-09-01&g=2017-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=8&z=2017-09-01&g=2017-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=9&z=2017-09-01&g=2017-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=10&z=2017-09-01&g=2017-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002361&artikel=11&z=2017-09-01&g=2017-09-01), laatste lid, 12, 13 en 14, met uitzondering van het bepaalde onder *a* en *b* van artikel 14, van de wet van 24 december 1958 (*Stb.* 677), houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering.
 
 2. Rogatoire commissies in zaken van onderhoud kunnen door de Nederlandse rechter worden opgedragen aan een autoriteit van een Staat, voor welke het Verdrag van kracht is, voor zover het recht van die Staat de uitvoering van de rogatoire commissie toelaat. Op zodanige rogatoire commissies zijn van toepassing de artikelen 15, tweede lid, 17 en 18 van de in het eerste lid bedoelde wet.
 
@@ -94,5 +69,3 @@ Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent 
 ##### Artikel 12
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

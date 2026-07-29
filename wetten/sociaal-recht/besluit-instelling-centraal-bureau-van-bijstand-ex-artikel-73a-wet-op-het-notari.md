@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 20 mei 1933, tot vaststelling van een algemeenen maatregel van bestuur, bedoeld in artikel 73a der Wet op het Notarisambt, gelijk dit artikel is vastgesteld bij de wet van 15 mei 1931, Stb. 195"
+citeertitel: "Besluit instelling Centraal Bureau van Bijstand ex artikel 73a Wet op het Notarisambt"
 identifier: "BWBR0001961"
-country: "nl"
-rank: "kb"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001961"
+categorie: "Bestuursrecht"
 soort: "KB"
-stam_id: "625643"
-version_id: "909202"
-internal_id: "C909201"
-label_id: "607134"
-dtd_version: "2.0"
-original_entry_into_force: "1934-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001961/1998-01-01/0"
-intitule_bron: "Stb.1933-292"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1933-05-20"
-intitule_status: "goed"
-original_publication: "Stb.1933-292"
-original_signed_date: "1933-05-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1934-01-01"
-jci_1_3: "jci1.3:c:BWBR0001961&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0001961&g=1998-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling Centraal Bureau van Bijstand ex artikel 73a Wet op het Notarisambt"
-signed_date: "1933-05-20"
-entry_into_force: "1934-01-01"
+publicatiedatum: 1934-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0001961"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 20 mei 1933, tot vaststelling van een algemeenen maatregel van bestuur, bedoeld in artikel 73a der Wet op het Notarisambt, gelijk dit artikel is vastgesteld bij de wet van 15 mei 1931, Stb. 195
-
-Op de voordracht van Onzen Minister van Justitie van den 21 April 1933, Afdeeling I **c**, n°. 839;
-
-Overwegende, dat door Ons voorschriften moeten worden gegeven ter uitvoering van artikel 73**a** der Wet op het Notarisambt, gelijk dit artikel is vastgesteld bij de wet van 15 Mei 1931 (**Staatsblad** n°. 195);
-
-Den Raad van State gehoord (advies van den 9 Mei 1933, n°. 20);
-
-Gezien het nader rapport van Onzen voornoemden Minister van den 17 Mei 1933, 1ste Afdeeling C, n°. 875;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Door Ons wordt ingesteld een Centraal Bureau van Bijstand, hetwelk de Kamers van Toezicht over de notarissen en candidaat-notarissen zal bijstaan bij het toezicht op de nakoming van de in artikel 73**a** der Wet op het Notarisambt neergelegde verplichting der notarissen tot boekhouding.
+1. Door Ons wordt ingesteld een Centraal Bureau van Bijstand, hetwelk de Kamers van Toezicht over de notarissen en candidaat-notarissen zal bijstaan bij het toezicht op de nakoming van de in artikel 73*a* der Wet op het Notarisambt neergelegde verplichting der notarissen tot boekhouding.
 
 2. Op verzoek van het bestuur van het Notarieel Pensioenfonds, bedoeld in [artikel 4 der Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143&artikel=4), kan Onze Minister van Justitie bepalen, dat het Centraal Bureau ten behoeve en op kosten van dat fonds de werkzaamheden verricht, die het bestuur van het fonds aan het bureau mocht opdragen ter inwinning van gegevens als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=11&z=1998-01-01&g=1998-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=12&z=1998-01-01&g=1998-01-01) dier wet.
 
@@ -98,7 +70,7 @@ De deskundigen bekleeden geen openbare of particuliere nevenbetrekkingen of func
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -114,7 +86,7 @@ Vervallen
 
 1. Het Centraal Bureau oefent zijne in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=1&z=1998-01-01&g=1998-01-01), bedoelde taak uit door:
 
-- 1°. in opdracht van de Kamers van Toezicht door zijne deskundigen te doen onderzoeken, of door de notarissen behoorlijk wordt voldaan aan de verplichting tot boekhouding, hun opgelegd bij artikel 73**a** der Wet op het Notarisambt;
+- 1°. in opdracht van de Kamers van Toezicht door zijne deskundigen te doen onderzoeken, of door de notarissen behoorlijk wordt voldaan aan de verplichting tot boekhouding, hun opgelegd bij artikel 73*a* der Wet op het Notarisambt;
 
 - 2°. voor zoover zulks niet reeds krachtens de onder 1°. bedoelde opdrachten geschiedt, het daar bedoeld onderzoek geregeld ten aanzien van alle notarissen te doen verrichten.
 
@@ -136,7 +108,7 @@ In opdracht van den voorzitter van eene Kamer van Toezicht, die een onmiddellijk
 
 ##### Artikel 12
 
-De voorzitter van eene Kamer van Toezicht kan het Centraal Bureau opdragen een zijner deskundigen aan te wijzen om bijstand te verleenen aan het lid of de leden der Kamer, met het instellen van een onderzoek belast ingevolge artikel 17 van den ter uitvoering van artikel 50**b** der Wet op het Notarisambt vastgestelden algemeenen maatregel van bestuur.
+De voorzitter van eene Kamer van Toezicht kan het Centraal Bureau opdragen een zijner deskundigen aan te wijzen om bijstand te verleenen aan het lid of de leden der Kamer, met het instellen van een onderzoek belast ingevolge artikel 17 van den ter uitvoering van artikel 50*b* der Wet op het Notarisambt vastgestelden algemeenen maatregel van bestuur.
 
 ##### Artikel 13
 
@@ -144,7 +116,7 @@ Het Centraal Bureau en de deskundigen verstrekken aan de Kamer van Toezicht en a
 
 ##### Artikel 14
 
-Het Centraal Bureau dient desgevraagd Onzen Minister van Justitie van voorlichting in alle vragen betreffende de uitvoering van artikel 73**a** der Wet op het Notarisambt. Het is bevoegd aan voornoemden Minister ook eigener beweging daaromtrent voordrachten te doen.
+Het Centraal Bureau dient desgevraagd Onzen Minister van Justitie van voorlichting in alle vragen betreffende de uitvoering van artikel 73*a* der Wet op het Notarisambt. Het is bevoegd aan voornoemden Minister ook eigener beweging daaromtrent voordrachten te doen.
 
 ##### Artikel 15
 
@@ -168,11 +140,11 @@ Telken jare vóór 1 Mei brengt het Centraal Bureau aan Onzen Minister van Justi
 
 1. Telken jare vóór 1 April doen de notarissen aan het Centraal Bureau opgave tot welke der tien onderstaande inkomen-klassen zij behooren.
 
-2. Tot klasse **a** behoren zij, die bij de uitoefening van het notariaat over het afgelopen kalenderjaar hebben gehad een zuiver inkomen van minder dan f 25 000,-; tot klasse **b** zij, die hebben gehad een zuiver inkomen van f 25 000,- of meer, doch minder dan f 50 000,-; tot klasse **c** zij, die hebben gehad een zuiver inkomen van f 50 000,- of meer, doch minder dan f 75 000,-; tot klasse **d** zij, die hebben gehad een zuiver inkomen van f 75 000,- of meer, doch minder dan f 100 000,-; tot klasse **e** zij, die hebben gehad een zuiver inkomen van f 100 000,- of meer, doch minder dan f 150 000,-; tot klasse **f** zij, die hebben gehad een zuiver inkomen van f 150 000,- of meer, doch minder dan f 200 000,-; tot klasse **g** zij, die hebben gehad een zuiver inkomen van f 200 000,- of meer, doch minder dan f 300 000,-; tot klasse **h** zij, die hebben gehad een zuiver inkomen van f 300 000,- of meer, doch minder dan f 400 000,-; tot klasse **i** zij, die hebben gehad een zuiver inkomen van f 400 000,- of meer, doch minder dan f 500 000,-; tot klasse **j** zij, die hebben gehad een zuiver inkomen van f 500 000,- of meer.
+2. Tot klasse *a* behoren zij, die bij de uitoefening van het notariaat over het afgelopen kalenderjaar hebben gehad een zuiver inkomen van minder dan f 25 000,-; tot klasse *b* zij, die hebben gehad een zuiver inkomen van f 25 000,- of meer, doch minder dan f 50 000,-; tot klasse *c* zij, die hebben gehad een zuiver inkomen van f 50 000,- of meer, doch minder dan f 75 000,-; tot klasse *d* zij, die hebben gehad een zuiver inkomen van f 75 000,- of meer, doch minder dan f 100 000,-; tot klasse *e* zij, die hebben gehad een zuiver inkomen van f 100 000,- of meer, doch minder dan f 150 000,-; tot klasse *f* zij, die hebben gehad een zuiver inkomen van f 150 000,- of meer, doch minder dan f 200 000,-; tot klasse *g* zij, die hebben gehad een zuiver inkomen van f 200 000,- of meer, doch minder dan f 300 000,-; tot klasse *h* zij, die hebben gehad een zuiver inkomen van f 300 000,- of meer, doch minder dan f 400 000,-; tot klasse *i* zij, die hebben gehad een zuiver inkomen van f 400 000,- of meer, doch minder dan f 500 000,-; tot klasse *j* zij, die hebben gehad een zuiver inkomen van f 500 000,- of meer.
 
 3. Onder het bedoelde inkomen worden verstaan alle inkomsten, welke direct of indirect uit de uitoefening van het notariaat voortvloeien. Onder indirecte inkomsten worden o.a. verstaan administratieloon, executeurs- en bewindvoerdersloon, inkomsten uit penningmeesterschappen van polders of waterschappen of uit andere functiën, indien deze geacht moeten worden te zijn verkregen in verband met het notariaat.
 
-4. De omslag geschiedt over hen, die behoren tot klasse **a, b, c, d, e, f, g, h, i,** of **j** in de verhouding 1, 3, 5, 7, 9, 11, 13, 15, 17 en 19.
+4. De omslag geschiedt over hen, die behoren tot klasse *a, b, c, d, e, f, g, h, i,* of *j* in de verhouding 1, 3, 5, 7, 9, 11, 13, 15, 17 en 19.
 
 5. Over het jaar, waarin een notaris zijne bediening aanvaardt of ophoudt notaris te zijn, draagt hij of dragen zijne erven of rechtverkrijgenden niet bij.
 
@@ -197,5 +169,3 @@ In den in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001961&artikel=1
 ##### Artikel 22
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
-
-Onze voornoemde Minister is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Wet van 29 mei 1952, houdende nadere regelen met betrekking tot de pensioenaanspraken van bepaalde groepen van gewezen militairen van het Koninklijk Nederlands Indonesisch Leger, alsmede van hun nagelaten betrekkingen"
+citeertitel: "Wet pensioenvoorzieningen K.N.I.L."
 identifier: "BWBR0002090"
-country: "nl"
-rank: "wet"
-publication_date: "1952-07-14"
-last_updated: "1952-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002090"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "60243"
-version_id: "76892"
-internal_id: "C76891"
-label_id: "60084"
-dtd_version: "2.0"
-original_entry_into_force: "1952-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002090/1952-07-14/0"
-intitule_bron: "Stb.1952-318"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1952-05-29"
-intitule_status: "goed"
-original_publication: "Stb.1952-318"
-original_signed_date: "1952-05-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "2486"
-entry_into_force_date: "1952-07-14"
-entry_into_force_dossier: "2486"
-jci_1_3: "jci1.3:c:BWBR0002090&z=1952-07-14&g=1952-07-14"
-jci_1_0: "1.0:c:BWBR0002090&g=1952-07-14"
-citeertitel_status: "officieel"
-short_title: "Wet pensioenvoorzieningen K.N.I.L."
-signed_date: "1952-05-29"
-entry_into_force: "1952-07-14"
+publicatiedatum: 1952-07-14
+laatste_update: 1952-07-14
+status: geldig
+toestand: 1952-07-14
+bron: "https://wetten.overheid.nl/BWBR0002090"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 29 mei 1952, houdende nadere regelen met betrekking tot de pensioenaanspraken van bepaalde groepen van gewezen militairen van het Koninklijk Nederlands Indonesisch Leger, alsmede van hun nagelaten betrekkingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nadere regelen te stellen met betrekking tot de pensioenaanspraken van bepaalde groepen van gewezen militairen van het Koninklijk Nederlands Indonesisch Leger, alsmede van hun nagelaten betrekkingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -64,7 +38,7 @@ Indien de nagelaten betrekkingen, bedoeld in [artikel 2](https://wetten.overheid
 
 ##### Artikel 6
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 7
 
@@ -77,5 +51,3 @@ Deze wet kan worden aangehaald als "Wet pensioenvoorzieningen K.N.I.L.".
 2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002090&artikel=4&z=1952-07-14&g=1952-07-14) werkt terug tot 24 Juli 1950.
 
 3. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002090&artikel=6&z=1952-07-14&g=1952-07-14) werkt terug tot 21 Juli 1951.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

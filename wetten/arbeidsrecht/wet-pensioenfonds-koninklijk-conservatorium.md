@@ -1,44 +1,18 @@
 ---
 title: "Wet van 18 maart 1955, houdende regeling voor het voortbestaan van het Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek"
+citeertitel: "Wet Pensioenfonds Koninklijk Conservatorium"
 identifier: "BWBR0002174"
-country: "nl"
-rank: "wet"
-publication_date: "1955-04-08"
-last_updated: "1955-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002174"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "59093"
-version_id: "75072"
-internal_id: "C75071"
-label_id: "58974"
-dtd_version: "2.0"
-original_entry_into_force: "1955-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002174/1955-04-08/0"
-intitule_bron: "Stb.1955-131"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1955-03-18"
-intitule_status: "goed"
-original_publication: "Stb.1955-131"
-original_signed_date: "1955-03-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "3702"
-entry_into_force_date: "1955-04-08"
-entry_into_force_dossier: "3702"
-jci_1_3: "jci1.3:c:BWBR0002174&z=1955-04-08&g=1955-04-08"
-jci_1_0: "1.0:c:BWBR0002174&g=1955-04-08"
-citeertitel_status: "officieel"
-short_title: "Wet Pensioenfonds Koninklijk Conservatorium"
-signed_date: "1955-03-18"
-entry_into_force: "1955-04-08"
+publicatiedatum: 1955-04-08
+laatste_update: 1955-04-08
+status: geldig
+toestand: 1955-04-08
+bron: "https://wetten.overheid.nl/BWBR0002174"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 18 maart 1955, houdende regeling voor het voortbestaan van het Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is gebleken, een regeling te treffen met betrekking tot het voortbestaan van het "Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek";
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -78,6 +52,4 @@ Voor een verandering in de wijze van belegging van de middelen van het fonds is 
 
 ##### Artikel 8
 
-Deze wet treedt in werking op de dag na haar afkondiging in het **Staatsblad** en kan worden aangehaald onder de titel "Wet Pensioenfonds Koninklijk Conservatorium".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking op de dag na haar afkondiging in het *Staatsblad* en kan worden aangehaald onder de titel "Wet Pensioenfonds Koninklijk Conservatorium".

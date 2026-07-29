@@ -1,42 +1,18 @@
 ---
 title: "Wet van 6 april 1933, houdende voorzieningen tot uitvoering van het op 31 mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen"
+citeertitel: "Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië"
 identifier: "BWBR0001959"
-country: "nl"
-rank: "wet"
-publication_date: "2023-05-01"
-last_updated: "2023-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001959"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "362033"
-version_id: "533372"
-internal_id: "C533371"
-label_id: "353934"
-dtd_version: "2.0"
-original_entry_into_force: "1933-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001959/2023-05-01/0"
-intitule_bron: "Stb.1933-136"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1933-04-06"
-intitule_status: "goed"
-original_publication: "Stb.1933-136"
-original_signed_date: "1933-04-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1933-07-29"
-jci_1_3: "jci1.3:c:BWBR0001959&z=2023-05-01&g=2023-05-01"
-jci_1_0: "1.0:c:BWBR0001959&g=2023-05-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië"
-signed_date: "1933-04-06"
-entry_into_force: "1933-07-29"
+publicatiedatum: 1933-07-29
+laatste_update: 2023-05-01
+status: geldig
+toestand: 2023-05-01
+bron: "https://wetten.overheid.nl/BWBR0001959"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 6 april 1933, houdende voorzieningen tot uitvoering van het op 31 mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodig is voorzieningen te treffen tot uitvoering van het op 31 Mei 1932 te **Londen** tusschen **Nederland** en **Groot-Britannië** gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Algemeene bepaling
 
@@ -44,15 +20,15 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 In deze wet wordt verstaan onder:
 
-- a. **het verdrag:** het op 31 Mei 1932 te **Londen** tusschen **Nederland** en **Groot-Britannië** gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
+- a. *het verdrag:* het op 31 Mei 1932 te *Londen* tusschen *Nederland* en *Groot-Britannië* gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
 
-- b. **de bevoegde Nederlandsche consulaire ambtenaar:** indien mededeeling van stukken of uitvoering van rogatoire commissies in Engeland moet geschieden, de Nederlandsche consul-generaal te **Londen** of degeen die hem vervangt; moet mededeeling of uitvoering buiten Engeland geschieden, de door Onzen Minister van Buitenlandsche Zaken aangewezen consulaire ambtenaar.
+- b. *de bevoegde Nederlandsche consulaire ambtenaar:* indien mededeeling van stukken of uitvoering van rogatoire commissies in Engeland moet geschieden, de Nederlandsche consul-generaal te *Londen* of degeen die hem vervangt; moet mededeeling of uitvoering buiten Engeland geschieden, de door Onzen Minister van Buitenlandsche Zaken aangewezen consulaire ambtenaar.
 
 #### Mededeeling van gerechtelijke en buitengerechtelijke stukken in Nederland
 
 ##### Artikel 2
 
-Oordeelt de officier van justitie, wien eene aanvrage om mededeeling van eenig stuk overeenkomstig artikel 3 van het verdrag is toegezonden of doorgezonden, dat het geval, bedoeld bij letter **f** van dat artikel, aanwezig is, dan zendt hij de bescheiden onder opgaaf van redenen aan Onzen Minister van Justitie, die, zoo noodig na overleg met zijn ambtgenoot van Buitenlandsche Zaken, beslist.
+Oordeelt de officier van justitie, wien eene aanvrage om mededeeling van eenig stuk overeenkomstig artikel 3 van het verdrag is toegezonden of doorgezonden, dat het geval, bedoeld bij letter *f* van dat artikel, aanwezig is, dan zendt hij de bescheiden onder opgaaf van redenen aan Onzen Minister van Justitie, die, zoo noodig na overleg met zijn ambtgenoot van Buitenlandsche Zaken, beslist.
 
 ##### Artikel 3
 
@@ -90,7 +66,7 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 
 ##### Artikel 8
 
-1. De officier van justitie ontvangt het bewijsstuk, bedoeld bij artikel 3, letter **g**, van het verdrag, van den Nederlandschen consulairen ambtenaar.
+1. De officier van justitie ontvangt het bewijsstuk, bedoeld bij artikel 3, letter *g*, van het verdrag, van den Nederlandschen consulairen ambtenaar.
 
 2. De officier van justitie kan weigeren dit bewijs aan belanghebbende af te geven, zoolang niet het geheele bedrag der kosten, ter zake van de mededeeling gemaakt, voldaan is.
 
@@ -110,11 +86,11 @@ Verschijnt de gedaagde op de betekende roldatum niet, dan zal, indien de eiser h
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Oordeelt de rechter, aan wie de rogatoire commissie is overgemaakt of doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2023-05-01&g=2023-05-01) dezer wet overeenkomstige toepassing.
+Oordeelt de rechter, aan wie de rogatoire commissie is overgemaakt of doorgezonden, dat het geval, bedoeld bij letter *f* van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2023-05-01&g=2023-05-01) dezer wet overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -122,7 +98,7 @@ Indien een persoon, die voor een rogatoire commissie moet worden gehoord, niet v
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
@@ -153,5 +129,3 @@ Het proces-verbaal van de uitvoering eener rogatoire commissie overeenkomstig he
 ##### Artikel 20
 
 Deze wet treedt tegelijk met het verdrag in werking.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 29 oktober 1964, houdende maatregelen ter uitvoering van de Wet gewetensbezwaren militaire dienst"
+citeertitel: "Besluit gewetensbezwaren militaire dienst"
 identifier: "BWBR0002465"
-country: "nl"
-rank: "amvb"
-publication_date: "2014-01-06"
-last_updated: "2014-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002465"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "538523"
-version_id: "791052"
-internal_id: "C791051"
-label_id: "524074"
-dtd_version: "2.0"
-original_entry_into_force: "1964-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002465/2014-01-06/0"
-intitule_bron: "Stb.1964-404"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1964-10-29"
-intitule_status: "goed"
-original_publication: "Stb.1964-404"
-original_signed_date: "1964-10-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1964-12-01"
-jci_1_3: "jci1.3:c:BWBR0002465&z=2014-01-06&g=2014-01-06"
-jci_1_0: "1.0:c:BWBR0002465&g=2014-01-06"
-citeertitel_status: "officieel"
-short_title: "Besluit gewetensbezwaren militaire dienst"
-signed_date: "1964-10-29"
-entry_into_force: "1964-12-01"
+publicatiedatum: 1964-12-01
+laatste_update: 2014-01-06
+status: geldig
+toestand: 2014-01-06
+bron: "https://wetten.overheid.nl/BWBR0002465"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 29 oktober 1964, houdende maatregelen ter uitvoering van de Wet gewetensbezwaren militaire dienst
-
-Op de voordracht van Onze Ministers van Defensie en van Justitie van 21 augustus 1964, afdeling Dienstplichtzaken, nr. 28.768-C;
-
-Gelet op de [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386);
-
-De Raad van State gehoord (advies van 30 september 1964, nr. 70);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 26 oktober 1964, afdeling Dienstplichtzaken, nr. 28.768-E;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -56,7 +28,7 @@ Hebben goedgevonden en verstaan:
 
 - d. "fungerend voorzitter": het lid van de commissie dat het onderzoek leidt;
 
-- e. "het onderzoek": het onderzoek, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=5), respectievelijk [artikel 7**a**, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=7a);
+- e. "het onderzoek": het onderzoek, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=5), respectievelijk [artikel 7*a*, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=7a);
 
 - f. "de erkende gewetensbezwaarde": hij wiens bezwaren tegen de vervulling van militaire dienst, overeenkomstig de bepalingen der wet zijn erkend als ernstige gewetensbezwaren.
 
@@ -84,7 +56,7 @@ Tenzij Onze Minister van Defensie anders bepaalt, wordt aan de verzoeker die vó
 
 - b. de samenstelling van het rooster der zittingen waarin het onderzoek plaatsvindt;
 
-- c. de deelneming van de leden aan de zittingen zulks op zodanige wijze, dat een zo groot mogelijke spreiding van levensbeschouwing ter zitting wordt bevorderd, dat zo mogelijk rekening wordt gehouden met de levensbeschouwing van de verzoeker en dat aan een onderzoek als bedoeld in [artikel 7**a** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=7a) geen lid deelneemt dat reeds een advies met betrekking tot het verzoek heeft uitgebracht;;
+- c. de deelneming van de leden aan de zittingen zulks op zodanige wijze, dat een zo groot mogelijke spreiding van levensbeschouwing ter zitting wordt bevorderd, dat zo mogelijk rekening wordt gehouden met de levensbeschouwing van de verzoeker en dat aan een onderzoek als bedoeld in [artikel 7*a* van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=7a) geen lid deelneemt dat reeds een advies met betrekking tot het verzoek heeft uitgebracht;;
 
 - d. de frequentie van haar plenaire vergaderingen;
 
@@ -124,23 +96,23 @@ De commissie zendt het verzoek, haar advies en het verslag van het onderzoek ter
 
 ##### Artikel 9a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -150,11 +122,11 @@ Vervallen
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -166,7 +138,7 @@ Indien Onze Minister van Defensie afwijkt van een advies van de commissie, deelt
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -176,9 +148,9 @@ In onvoorziene omstandigheden kan Onze Minister van Defensie na overleg met de v
 
 ##### Artikel 21
 
-1. Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter en de leden een vacatiegeld, waarvan het bedrag wordt vastgesteld op de voet van het [Vacatiegeldenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) 1970 (**Stb.** 1970, 577). Aan de secretaris en de adjunct-secretarissen kan door Onze Minister van Defensie een vergoeding worden toegekend.
+1. Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter en de leden een vacatiegeld, waarvan het bedrag wordt vastgesteld op de voet van het [Vacatiegeldenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) 1970 (*Stb.* 1970, 577). Aan de secretaris en de adjunct-secretarissen kan door Onze Minister van Defensie een vergoeding worden toegekend.
 
-2. Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter, de leden, de secretaris en de adjunct-secretarissen een vergoeding voor reis- en verblijfkosten waarvan het bedrag wordt vastgesteld op de voet van het Reisbesluit 1971 (**Stb.** 1970, 602).
+2. Ten laste van 's Rijks kas genieten de voorzitter, de vice-voorzitters, de fungerend voorzitter, de leden, de secretaris en de adjunct-secretarissen een vergoeding voor reis- en verblijfkosten waarvan het bedrag wordt vastgesteld op de voet van het Reisbesluit 1971 (*Stb.* 1970, 602).
 
 3. Aan de verzoeker die is verschenen ter zitting voor het onderzoek wordt een tegemoetkoming toegekend voor de reiskosten en wegens loonderving overeenkomstig door Onze Minister van Defensie te stellen regelen.
 
@@ -278,7 +250,7 @@ De erkende gewetensbezwaarde die tot het vervullen van vervangende dienst heeft 
 
 ##### Artikel 34
 
-Voor de toepassing van het bepaalde in [artikel 18, tweede lid, onder **a**, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=18) blijft als broederdienst buiten aanmerking de werkelijke militaire dienst, die slechts bestaat in het bijwonen van oefeningen gedurende daarvoor vastgestelde oefeningsuren.
+Voor de toepassing van het bepaalde in [artikel 18, tweede lid, onder *a*, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=18) blijft als broederdienst buiten aanmerking de werkelijke militaire dienst, die slechts bestaat in het bijwonen van oefeningen gedurende daarvoor vastgestelde oefeningsuren.
 
 ##### Artikel 35
 
@@ -296,7 +268,7 @@ De autoriteit, die vermoedt, dat iemand ten onrechte van vervangende of gewone v
 
 1. De erkende gewetensbezwaarde van wie, vóór het tijdstip waarop hij de vervangende dienst voor de eerste maal zou moeten aanvangen, een broeder in Nederlandse krijgsdienst is gesneuveld, wordt slechts verplicht tot het vervullen van buitengewone vervangende dienst. Onder een gesneuvelde wordt mede verstaan de broeder die:
 
-**hetzij als militair**
+*hetzij als militair*
 
 - a. is overleden of wordt vermist ten gevolge van oorlogshandelingen;
 
@@ -304,7 +276,7 @@ De autoriteit, die vermoedt, dat iemand ten onrechte van vervangende of gewone v
 
 - c. is overleden of wordt vermist in en door de militaire dienst;
 
-- d. is overleden ten gevolge van verwonding of ziekte, opgedaan in en door de militaire dienst; **hetzij als erkende gewetensbezwaarde:**
+- d. is overleden ten gevolge van verwonding of ziekte, opgedaan in en door de militaire dienst; *hetzij als erkende gewetensbezwaarde:*
 
 - e. is overleden in en door de vervangende dienst;
 
@@ -352,7 +324,7 @@ Bij beëindiging van de gewone vervangende dienst heeft de tewerkgestelde aanspr
 
 ##### Artikel 46
 
-Voor de toepassing van [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=31) wordt onder zakgeld verstaan het zakgeld na aftrek van de loonbelasting en de premies ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1985, 181) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
+Voor de toepassing van [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=31) wordt onder zakgeld verstaan het zakgeld na aftrek van de loonbelasting en de premies ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (*Stb.* 1985, 181) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
 ##### Artikel 47
 
@@ -378,31 +350,31 @@ De getuigen en deskundigen die verschijnen ter terechtzitting van de in [artikel
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -412,11 +384,11 @@ De voor de uitvoering van dit besluit nodige regelen worden door Onze Minister v
 
 ##### Artikel 60
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 61
 
-Het Koninklijk besluit van 3 mei 1924, **Stb.** 230, wordt ingetrokken.
+Het Koninklijk besluit van 3 mei 1924, *Stb.* 230, wordt ingetrokken.
 
 ##### Artikel 62
 
@@ -425,5 +397,3 @@ Dit besluit kan worden aangehaald als "Besluit gewetensbezwaren militaire dienst
 ##### Artikel 63
 
 De [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386), alsmede dit besluit treden in werking met ingang van 1 december 1964.
-
-Onze Ministers van Defensie en van Justitie zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

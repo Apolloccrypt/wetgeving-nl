@@ -1,43 +1,18 @@
 ---
 title: "Wet van 24 december 1958, houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering"
+citeertitel: "Uitvoeringswet Rechtsvorderingsverdrag 1954"
 identifier: "BWBR0002306"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002306"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1779383"
-version_id: "2644722"
-internal_id: "C2644721"
-label_id: "1735354"
-dtd_version: "2.0"
-original_entry_into_force: "1959-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002306/2025-01-01/0"
-intitule_bron: "Stb.1958-677"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1958-12-24"
-intitule_status: "goed"
-original_publication: "Stb.1958-677"
-original_signed_date: "1958-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "5119"
-entry_into_force_date: "1959-06-27"
-jci_1_3: "jci1.3:c:BWBR0002306&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0002306&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Rechtsvorderingsverdrag 1954"
-signed_date: "1958-12-24"
-entry_into_force: "1959-06-27"
+publicatiedatum: 1959-06-27
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0002306"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 december 1958, houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te treffen tot uitvoering van het op 1 maart 1954 te ’s-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### A. Mededeling van gerechtelijke en buitengerechtelijke stukken
 
@@ -47,11 +22,11 @@ Als de autoriteit, die, overeenkomstig de voorschriften van het verdrag zorg dra
 
 ##### Artikel 2
 
-Oordeelt de officier van justitie, dat [artikel 4 van het verdrag](onbekend) toepasselijk is, dan zendt hij de stukken onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
+Oordeelt de officier van justitie, dat artikel 4 van het verdrag toepasselijk is, dan zendt hij de stukken onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -63,21 +38,21 @@ Vervallen
 
 - b. mededeling in de vorm, die in het land van bestemming is voorgeschreven voor het verrichten van soortgelijke mededelingen;
 
-- c. mededeling, als sub **b** bedoeld, alléén voor het geval, dat eenvoudige afgifte niet mogelijk is; of
+- c. mededeling, als sub *b* bedoeld, alléén voor het geval, dat eenvoudige afgifte niet mogelijk is; of
 
 - d. mededeling in een bijzondere, in het exploit duidelijk aan te geven vorm.
 
-In elk der laatste drie gevallen is het exploit vergezeld van een vertaling in een der talen, bedoeld bij [artikel 3 van het verdrag](onbekend); wordt bij het exploit een afzonderlijk stuk betekend, dan geldt hetzelfde omtrent dit stuk, zo het niet in een van die talen is gesteld. De vertaling moet voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land van bestemming of door een beëdigd vertaler in Nederland.
+In elk der laatste drie gevallen is het exploit vergezeld van een vertaling in een der talen, bedoeld bij artikel 3 van het verdrag; wordt bij het exploit een afzonderlijk stuk betekend, dan geldt hetzelfde omtrent dit stuk, zo het niet in een van die talen is gesteld. De vertaling moet voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land van bestemming of door een beëdigd vertaler in Nederland.
 
 3. Een tweede exemplaar van het exploit, alsmede van de in het voorgaande lid bedoelde stukken en vertalingen zal worden bijgevoegd.
 
 ##### Artikel 5
 
-1. Onze Minister van Buitenlandse Zaken zendt de stukken aan de betrokken Nederlandse diplomatieke of consulaire ambtenaar. Is het exploit of het afzonderlijk stuk vergezeld van een vertaling in een der talen, bedoeld bij [artikel 3 van het verdrag](onbekend), dan verzoekt Onze genoemde Minister de diplomatieke of consulaire ambtenaar, zo de vertaling niet voor overeenstemmend is verklaard door een beëdigd vertaler in het land van bestemming, zelf die vertaling voor overeenstemmend te verklaren.
+1. Onze Minister van Buitenlandse Zaken zendt de stukken aan de betrokken Nederlandse diplomatieke of consulaire ambtenaar. Is het exploit of het afzonderlijk stuk vergezeld van een vertaling in een der talen, bedoeld bij artikel 3 van het verdrag, dan verzoekt Onze genoemde Minister de diplomatieke of consulaire ambtenaar, zo de vertaling niet voor overeenstemmend is verklaard door een beëdigd vertaler in het land van bestemming, zelf die vertaling voor overeenstemmend te verklaren.
 
 2. De diplomatieke of consulaire ambtenaar doet onverwijld de stukken, na, zo nodig, aan het bij de tweede zinsnede van het eerste lid van dit artikel bedoeld verzoek te hebben voldaan, aan de bevoegde autoriteit toekomen; de diplomatieke ambtenaar doet zulks door tussenkomst van de bevoegde consulaire ambtenaar.
 
-Alles behoudens het bepaalde bij het [derde en het vierde lid van artikel 1 van het verdrag](onbekend).
+Alles behoudens het bepaalde bij het derde en het vierde lid van artikel 1 van het verdrag.
 
 #### B. Rogatoire Commissiën aan de Nederlandse rechter opgedragen
 
@@ -95,13 +70,17 @@ In geval van een getuigenverhoor of deskundigenonderzoek wordt het verzoek gedaa
 
 Oordeelt de rechtbank, aan wie overeenkomstig de voorschriften van het verdrag de rogatoire commissie is toegezonden, dat de uitvoering door een andere rechtbank behoort te geschieden, dan zendt zij de commissie aan deze rechtbank. Deze rechtbank is aan de doorzending gebonden.
 
+##### Artikel 7a
+
+De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien dit voor een goede uitvoering van de rogatoire commissie nodig wordt geoordeeld, de stukken door een beëdigd vertaler in het Nederlands doen vertalen.
+
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -125,9 +104,13 @@ Van de rechterlijke handelingen, ter uitvoering van de rogatoire commissie verri
 
 Alle kosten, op de uitvoering van rogatoire commissiën vallende, komen ten laste van de Staat; hiervan zijn echter uitgezonderd:
 
-- a. de kosten, in [artikel 16, tweede lid, van het verdrag](onbekend) genoemd;
+- a. de kosten, in artikel 16, tweede lid, van het verdrag genoemd;
 
-- b. in het geval, bedoeld in [artikel 24 van het verdrag](onbekend), de kosten, in het tweede lid van dat artikel genoemd.
+- b. in het geval, bedoeld in artikel 24 van het verdrag, de kosten, in het tweede lid van dat artikel genoemd.
+
+##### Artikel 14a
+
+Een afwijzende beslissing op grond van artikel 11, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2, en artikel 14, tweede lid, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
 
 #### C. Rogatoire commissieën door de Nederlandse rechter opgedragen
 
@@ -157,7 +140,7 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weer ter rolle zal 
 
 ##### Artikel 19
 
-1. Als de autoriteit, die overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), bevoegd is tot afgifte der verklaring, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak verkregen heeft, wordt aangewezen de voorzieningenrechter of kantonrechter die de veroordeling in de kosten heeft uitgesproken.
+1. Als de autoriteit, die overeenkomstig artikel 19, derde lid, van het verdrag, bevoegd is tot afgifte der verklaring, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak verkregen heeft, wordt aangewezen de voorzieningenrechter of kantonrechter die de veroordeling in de kosten heeft uitgesproken.
 
 2. De in het voorgaande lid bedoelde verklaring wordt door die voorzieningenrechter of die kantonrechter gegeven op verzoek van de partij, die de uitvoerbaarverklaring verlangt, na vertoon van een expeditie der uitspraak.
 
@@ -165,17 +148,17 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weer ter rolle zal 
 
 1. De partij, die de uitvoerbaarverklaring in een der Staten waar het verdrag van kracht is, verlangt, zendt aan Onze Minister van Justitie:
 
-- 1°. een rekest, houdende verzoek, als bedoeld in [artikel 18, eerste lid, van het verdrag](onbekend), gericht tot de bevoegde autoriteit van de Staat, waar de uitvoerbaarverklaring verlangd wordt;
+- 1°. een rekest, houdende verzoek, als bedoeld in artikel 18, eerste lid, van het verdrag, gericht tot de bevoegde autoriteit van de Staat, waar de uitvoerbaarverklaring verlangd wordt;
 
 - 2°. een expeditie van de uitspraak;
 
 - 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2025-01-01&g=2025-01-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
 
-2. De stukken in het voorgaande lid, sub 1° en 3° genoemd, zijn ieder vergezeld van een vertaling in een der talen, bedoeld in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend); van de uitspraak wordt een zodanige vertaling nopens het gedeelte, dat de beslissing bevat, overgelegd. De vertalingen moeten voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
+2. De stukken in het voorgaande lid, sub 1° en 3° genoemd, zijn ieder vergezeld van een vertaling in een der talen, bedoeld in artikel 19, tweede lid, sub 3°, van het verdrag; van de uitspraak wordt een zodanige vertaling nopens het gedeelte, dat de beslissing bevat, overgelegd. De vertalingen moeten voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
 ##### Artikel 21
 
-1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2025-01-01&g=2025-01-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
+1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2025-01-01&g=2025-01-01) dezer wet genoemd, langs de weg, in artikel 18 van het verdrag vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig artikel 19, derde lid, van het verdrag, en een vertaling daarvan in een der talen, in artikel 19, tweede lid, sub 3°, van het verdrag. Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
 2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2025-01-01&g=2025-01-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
 
@@ -219,32 +202,14 @@ Alle noodzakelijke kosten, ter zake van de uitvoerbaarverklaring van uitspraken 
 
 ##### Artikel 28
 
-Als de autoriteit in Nederland bevoegd om het bewijs van onvermogen af te geven of de verklaring van onvermogen voor zich te doen afleggen, als bedoeld in [artikel 21 van het verdrag](onbekend), met het oog op toelating tot het voorrecht van kosteloze rechtsbijstand in een van de Staten, waar het verdrag van kracht is, wordt aangewezen de burgemeester van de gewone verblijfplaats van de betrokkene of, bij gebreke daarvan, van zijn werkelijk verblijf.
+Als de autoriteit in Nederland bevoegd om het bewijs van onvermogen af te geven of de verklaring van onvermogen voor zich te doen afleggen, als bedoeld in artikel 21 van het verdrag, met het oog op toelating tot het voorrecht van kosteloze rechtsbijstand in een van de Staten, waar het verdrag van kracht is, wordt aangewezen de burgemeester van de gewone verblijfplaats van de betrokkene of, bij gebreke daarvan, van zijn werkelijk verblijf.
 
-#### E. Kosteloze rechtsbijstand
+#### Slotbepalingen
 
 ##### Artikel 29
 
-In deze wet wordt onder "het verdrag" verstaan het op 1 maart 1954 te ’s-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering (**Trb.** 1954, nr. 40).
+In deze wet wordt onder "het verdrag" verstaan het op 1 maart 1954 te ’s-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering (*Trb.* 1954, nr. 40).
 
 ##### Artikel 30
 
 Deze wet treedt in werking op een nader door Ons te bepalen datum.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien dit voor een goede uitvoering van de rogatoire commissie nodig wordt geoordeeld, de stukken door een beëdigd vertaler in het Nederlands doen vertalen.
-
-##### Artikel 14a
-
-Een afwijzende beslissing op grond van artikel 11, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2, en artikel 14, tweede lid, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
-
-#### C. Rogatoire commissieën door de Nederlandse rechter opgedragen
-
-#### D. Verhaal der proceskosten
-
-#### Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

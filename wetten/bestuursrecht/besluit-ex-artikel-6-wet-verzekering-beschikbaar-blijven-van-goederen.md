@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 1 augustus 1959, houdende regelen betreffende de samenstelling, benoeming, werkwijze en bevoegdheid der commissies, bedoeld in artikel 6 van de wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
+citeertitel: "Besluit ex artikel 6, Wet verzekering beschikbaar blijven van goederen"
 identifier: "BWBR0002323"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-12-07"
-last_updated: "2012-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002323"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "423663"
-version_id: "622272"
-internal_id: "C622271"
-label_id: "412624"
-dtd_version: "2.0"
-original_entry_into_force: "1959-08-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002323/2012-12-07/0"
-intitule_bron: "Stb.1959-288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1959-08-01"
-intitule_status: "goed"
-original_publication: "Stb.1959-288"
-original_signed_date: "1959-08-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1959-08-23"
-jci_1_3: "jci1.3:c:BWBR0002323&z=2012-12-07&g=2012-12-07"
-jci_1_0: "1.0:c:BWBR0002323&g=2012-12-07"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 6, Wet verzekering beschikbaar blijven van goederen"
-signed_date: "1959-08-01"
-entry_into_force: "1959-08-23"
+publicatiedatum: 1959-08-23
+laatste_update: 2012-12-07
+status: geldig
+toestand: 2012-12-07
+bron: "https://wetten.overheid.nl/BWBR0002323"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 1 augustus 1959, houdende regelen betreffende de samenstelling, benoeming, werkwijze en bevoegdheid der commissies, bedoeld in artikel 6 van de wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-Op de voordracht van Onze Ministers van Economische Zaken en van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie van 28 april 1959, no. 872 W.J.A.;
-
-Gelet op artikel 6, vierde lid, van de wet van 10 juli 1952 (**Stb.** 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden;
-
-De Raad van State gehoord (advies van 16 juni 1959, no. 33);
-
-Gezien het nader rapport van Onze Ministers van Economische Zaken en van Binnenlandse Zaken van 28 juli 1959, no. 1849 W.J.A.;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De commissies, die krachtens artikel 6, tweede lid, van de wet van 10 juli 1952 (**Stb.** 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden in hoogste ressort de schadeloosstellingen vaststellen, bedoeld in artikel 5 van die wet, bestaan ieder uit tien leden en vijf plaatsvervangende leden.
+De commissies, die krachtens artikel 6, tweede lid, van de wet van 10 juli 1952 (*Stb.* 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden in hoogste ressort de schadeloosstellingen vaststellen, bedoeld in artikel 5 van die wet, bestaan ieder uit tien leden en vijf plaatsvervangende leden.
 
 ##### Artikel 2
 
@@ -90,7 +62,7 @@ De voorzitter van de commissie heeft de leiding van haar werkzaamheden. Hij bepa
 
 1. De commissies kunnen getuigen en deskundigen horen en deze laatsten verzoeken hun bericht schriftelijk uit te brengen. Zij kunnen het horen onder ede doen plaats hebben, tenzij de getuige of deskundige de leeftijd van zestien jaren nog niet heeft bereikt.
 
-2. Bij het horen onder ede beëdigt degene die de leiding van de zitting heeft de getuige, dat deze de gehele waarheid en niets dan de waarheid zal zeggen, en de deskundige, dat hij zijn taak naar beste weten zal vervullen. Ten aanzien van het afleggen van een eed en de wijze van beëdiging gelden de wetten van 17 juli 1911 (**Stb.** 215), 28 april 1916 (**Stb.** 174) en 11 mei 1956 (**Stb.** 242).
+2. Bij het horen onder ede beëdigt degene die de leiding van de zitting heeft de getuige, dat deze de gehele waarheid en niets dan de waarheid zal zeggen, en de deskundige, dat hij zijn taak naar beste weten zal vervullen. Ten aanzien van het afleggen van een eed en de wijze van beëdiging gelden de wetten van 17 juli 1911 (*Stb.* 215), 28 april 1916 (*Stb.* 174) en 11 mei 1956 (*Stb.* 242).
 
 3. Met de eed staat gelijk de belofte of bevestiging, die krachtens de wet voor de eed in de plaats treedt.
 
@@ -108,6 +80,4 @@ De commissies dienen, ieder voor wat hun gebied betreft, Onze betrokken Minister
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst.
-
-Onze Ministers van Economische Zaken en van Binnenlandse Zaken zijn belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 22 februari 1896, tot invoering van signalement-kaarten"
+citeertitel: "Besluit invoering signalement-kaarten"
 identifier: "BWBR0001862"
-country: "nl"
-rank: "kb"
-publication_date: "1999-01-01"
-last_updated: "1999-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001862"
+categorie: "Overig"
 soort: "KB"
-stam_id: "640203"
-version_id: "928042"
-internal_id: "C928041"
-label_id: "621204"
-dtd_version: "2.0"
-original_entry_into_force: "1896-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001862/1999-01-01/0"
-intitule_bron: "Stb.1896-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1896-02-22"
-intitule_status: "goed"
-original_publication: "Stb.1896-32"
-original_signed_date: "1896-02-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1896-05-01"
-jci_1_3: "jci1.3:c:BWBR0001862&z=1999-01-01&g=1999-01-01"
-jci_1_0: "1.0:c:BWBR0001862&g=1999-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit invoering signalement-kaarten"
-signed_date: "1896-02-22"
-entry_into_force: "1896-05-01"
+publicatiedatum: 1896-05-01
+laatste_update: 1999-01-01
+status: geldig
+toestand: 1999-01-01
+bron: "https://wetten.overheid.nl/BWBR0001862"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 22 februari 1896, tot invoering van signalement-kaarten
-
-Overwegende dat het wenschelijk is, ter vaststelling van de identiteit van sommige veroordeelden en verdachten, signalement-kaarten in te voeren;
-
-Op de voordracht van den Minister van Justitie dd. 14 Februari 1896, 2de afdeeling A, n°. 165;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Van het opmaken, verzenden, verzamelen en beheeren der signalement-kaarten
 
@@ -54,7 +30,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Overeenkomstig de voorschriften daartoe door den Minister van Justitie te geven, worden de signalement-kaarten opgemaakt in de gevangenissen, in de huizen van bewaring door de Minister van Justitie aan te wijzen en in de bureelen van politie der gemeenten **Amsterdam, Rotterdam** en 's-Gravenhage.
+Overeenkomstig de voorschriften daartoe door den Minister van Justitie te geven, worden de signalement-kaarten opgemaakt in de gevangenissen, in de huizen van bewaring door de Minister van Justitie aan te wijzen en in de bureelen van politie der gemeenten *Amsterdam, Rotterdam* en 's-Gravenhage.
 
 ##### Artikel 3
 
@@ -91,5 +67,3 @@ Jaarlijks voor 1 Maart doen de procureurs-generaal bij de gerechtshoven aan den 
 ##### Artikel 9
 
 Dit Besluit treedt in werking op 1 Mei 1896.
-
-De Minister van Justitie is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst.

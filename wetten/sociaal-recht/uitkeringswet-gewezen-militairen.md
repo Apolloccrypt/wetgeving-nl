@@ -1,46 +1,18 @@
 ---
 title: "Wet van 6 oktober 1966, houdende vaststelling van een regeling tot toekenning van een uitkering aan gewezen militairen, die zijn ontslagen wegens het bereiken van bepaalde leeftijdsgrenzen"
+citeertitel: "Uitkeringswet gewezen militairen"
 identifier: "BWBR0002540"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002540"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1774553"
-version_id: "2638452"
-internal_id: "C2638451"
-label_id: "1730534"
-dtd_version: "2.0"
-original_entry_into_force: "2002-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002540/2020-01-01/0"
-intitule_bron: "Stb.1966-451"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1966-10-06"
-intitule_status: "goed"
-original_publication: "Stb.2002-69"
-original_signed_date: "2001-12-20"
-original_published_date: "2002-02-14"
-original_effect: "structuurwijziging"
-original_dossier: "27875"
-original_url_id: "stb-2002-69"
-entry_into_force_date: "2002-02-15"
-entry_into_force_dossier: "27875"
-jci_1_3: "jci1.3:c:BWBR0002540&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002540&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitkeringswet gewezen militairen"
-signed_date: "2001-12-20"
-entry_into_force: "2002-02-15"
+publicatiedatum: 2002-02-15
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002540"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 6 oktober 1966, houdende vaststelling van een regeling tot toekenning van een uitkering aan gewezen militairen, die zijn ontslagen wegens het bereiken van bepaalde leeftijdsgrenzen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor militairen verleggen van de pensioengerechtigde leeftijd naar het tijdstip waarop de leeftijd van 65 jaar is bereikt het noodzakelijk maakt een financiële voorziening te treffen voor de periode liggende tussen het ontslag en het bereiken van vorengenoemde leeftijd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -50,47 +22,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. ontslag: ontslag, verleend aan een beroepsmilitair in de zin van de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955), dan wel aan een reservist in de zin van die wet, voorzover deze krachtens een vrijwillige verbintenis verplicht is tot doorlopende werkelijke dienst als militair;
 
-- ter zake van het bereiken of overschrijden van de bij of krachtens [artikel 12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) geldende ontslagleeftijd;
+   - ter zake van het bereiken of overschrijden van de bij of krachtens [artikel 12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) geldende ontslagleeftijd;
 
-- ter zake van het bereiken of overschrijden van de leeftijd van 50 jaren, wanneer hij naar Ons oordeel of naar het oordeel van Onze Minister in verband met zijn leeftijd voor het vervullen van de dienst niet meer ten volle geschikt is en de onder 1° bedoelde ontslagleeftijd nog niet heeft bereikt;
+   - ter zake van het bereiken of overschrijden van de leeftijd van 50 jaren, wanneer hij naar Ons oordeel of naar het oordeel van Onze Minister in verband met zijn leeftijd voor het vervullen van de dienst niet meer ten volle geschikt is en de onder 1° bedoelde ontslagleeftijd nog niet heeft bereikt;
 
-- ter zake van het bereiken of overschrijden van een bij koninklijk besluit vastgestelde tijdelijk geldende andere leeftijd;
+   - ter zake van het bereiken of overschrijden van een bij koninklijk besluit vastgestelde tijdelijk geldende andere leeftijd;
 
-- ter zake van een wisseling van betrekking, bedoeld in onderdeel c, onder 3°;
+   - ter zake van een wisseling van betrekking, bedoeld in onderdeel c, onder 3°;
 
 - c. gewezen militair:
 
-- hij, aan wie een ontslag in de zin van deze wet is verleend en behoort tot diegenen:
+   - hij, aan wie een ontslag in de zin van deze wet is verleend en behoort tot diegenen:
 
-- voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens [artikel 12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) is gewijzigd, dan wel
+      - voor wie de ontslagleeftijd met ingang van 1 januari 2006 bij of krachtens [artikel 12 van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) is gewijzigd, dan wel
 
-- die zich op of na 1 januari 2001 hebben verbonden tot het onmiddellijk vrijwillig nadienen na de ontslagleeftijd voor een periode van ten minste twee jaren, een en ander met dien verstande dat onder a voor hen niet van toepassing is, zolang die periode niet is verstreken;
+      - die zich op of na 1 januari 2001 hebben verbonden tot het onmiddellijk vrijwillig nadienen na de ontslagleeftijd voor een periode van ten minste twee jaren, een en ander met dien verstande dat onder a voor hen niet van toepassing is, zolang die periode niet is verstreken;
 
-- anderen dan bedoeld onder 1° aan wie een ontslag in de zin van deze wet is verleend;
+   - anderen dan bedoeld onder 1° aan wie een ontslag in de zin van deze wet is verleend;
 
-- hij, wiens betrekking als militair met ingang van een datum tussen 1januari 2001 en 1januari 2006, dan wel een door Onze Minister nader te bepalen datum is geëindigd, indien
+   - hij, wiens betrekking als militair met ingang van een datum tussen 1januari 2001 en 1januari 2006, dan wel een door Onze Minister nader te bepalen datum is geëindigd, indien
 
-- die datum is gelegen binnen tien jaar vóór de in onderdeel b onder 1° bedoelde ontslagleeftijd,
+      - die datum is gelegen binnen tien jaar vóór de in onderdeel b onder 1° bedoelde ontslagleeftijd,
 
-- die beëindiging van de betrekking is gevolgd door aanvaarding, dan wel aanvaarding en latere wisseling van dienstbetrekking dan wel werkzaamheden, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01), met dien verstande dat
+      - die beëindiging van de betrekking is gevolgd door aanvaarding, dan wel aanvaarding en latere wisseling van dienstbetrekking dan wel werkzaamheden, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01), met dien verstande dat
 
-- de onder b bedoelde dienstbetrekking dan wel werkzaamheden ten minste tot aan het bereiken van die ontslagleeftijd zijn aangehouden;
+      - de onder b bedoelde dienstbetrekking dan wel werkzaamheden ten minste tot aan het bereiken van die ontslagleeftijd zijn aangehouden;
 
 - d. laatstelijk genoten bezoldiging:
 
-- van de datum van het ontslag af tot aan het tijdstip, bedoeld onder 2°: de som van de bij het vaststellen van de pensioengrondslag voor ouderdoms- en nabestaandenpensioen in beschouwing te nemen inkomsten en baten – in geld uitgedrukt –, waarop de gewezen militair op de dag voorafgaande aan zijn ontslag aanspraak had of zou hebben gehad, met dien verstande dat de vaste vergoeding voor extra beslaglegging voor de gewezen militair, bedoeld in:
+   - van de datum van het ontslag af tot aan het tijdstip, bedoeld onder 2°: de som van de bij het vaststellen van de pensioengrondslag voor ouderdoms- en nabestaandenpensioen in beschouwing te nemen inkomsten en baten – in geld uitgedrukt –, waarop de gewezen militair op de dag voorafgaande aan zijn ontslag aanspraak had of zou hebben gehad, met dien verstande dat de vaste vergoeding voor extra beslaglegging voor de gewezen militair, bedoeld in:
 
-- onderdeel c, 1°, voor een percentage van 9,3 zal meetellen;
+      - onderdeel c, 1°, voor een percentage van 9,3 zal meetellen;
 
-- onderdeel c, 2°, buiten beschouwing wordt gelaten;
+      - onderdeel c, 2°, buiten beschouwing wordt gelaten;
 
-- van de datum af, waarop, indien de gewezen militair in dezelfde rang of stand en klasse in dienst was gebleven, de onder 1° bedoelde som, anders dan ten gevolge van wijziging in de voor bezoldiging geldende diensttijd, een ander bedrag zou hebben belopen: dat andere bedrag;
+   - van de datum af, waarop, indien de gewezen militair in dezelfde rang of stand en klasse in dienst was gebleven, de onder 1° bedoelde som, anders dan ten gevolge van wijziging in de voor bezoldiging geldende diensttijd, een ander bedrag zou hebben belopen: dat andere bedrag;
 
 - e. deeltijdfactor: breuk, waarvan de noemer is gevormd door de laatstgenoten bezoldiging en de teller door die bezoldiging, voor zover deze is bepaald door inkomsten en baten, waarop de gewezen militair op de dag voorafgaande aan zijn ontslag daadwerkelijk aanspraak had;
 
 - f. gemiddelde deeltijdfactor: gemiddelde van de deeltijdfactoren per laatste 15 gelijkluidende jaarlijkse kalenderdata voorafgaande aan de datum van het leeftijdsontslag.
 
-2. Voor de toepassing van deze wet wordt begrepen onder **ontslag:** een ontslag verleend aan hem, die is aangesteld in burgerlijke openbare dienst om in de krijgsmacht als geestelijke verzorger doorlopend werkzaam te zijn, met toepassing van een ontslaggrond van gelijke strekking als een der in het eerste lid onder **b** genoemde ontslaggronden.
+2. Voor de toepassing van deze wet wordt begrepen onder *ontslag:* een ontslag verleend aan hem, die is aangesteld in burgerlijke openbare dienst om in de krijgsmacht als geestelijke verzorger doorlopend werkzaam te zijn, met toepassing van een ontslaggrond van gelijke strekking als een der in het eerste lid onder *b* genoemde ontslaggronden.
 
 ##### Artikel 2
 
@@ -182,7 +154,7 @@ Het recht op de uitkering vervalt:
 
 - b. indien op de dag van het overlijden de uitkering verminderd werd krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5&z=2020-01-01&g=2020-01-01) of indien [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=6&z=2020-01-01&g=2020-01-01) van toepassing was, driemaal het maandelijks bedrag aan uitkering waarop op dat moment aanspraak bestond.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Laat de overledene geen weduwe of geen weduwnaar dan wel geen achtergebleven geregistreerde partner na van wie hij, onderscheidenlijk zij, niet duurzaam gescheiden leefde, dan geschiedt de uitkering van het in het eerste lid bedoelde bedrag ten behoeve van de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond, of minderjarige kinderen waarover de overledene ten tijde van het overlijden de pleegouderlijke zorg droeg.
 
@@ -208,10 +180,8 @@ Beslissingen ter uitvoering van deze wet worden genomen door Onze Minister.
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
 Deze wet kan worden aangehaald als "Uitkeringswet gewezen militairen".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

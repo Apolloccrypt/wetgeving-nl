@@ -1,46 +1,18 @@
 ---
 title: "Wet van 15 maart 1928, houdende regeling van sommige van landgoederen geheven belastingen tot bevordering van behoud van natuurschoon"
+citeertitel: "Natuurschoonwet 1928"
 identifier: "BWBR0001939"
-country: "nl"
-rank: "wet"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001939"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "2706443"
-version_id: "4121842"
-internal_id: "C4121841"
-label_id: "2652564"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001939/2021-01-01/0"
-intitule_bron: "Stb.1928-63"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1928-03-15"
-intitule_status: "goed"
-original_publication: "Stb.2000-551"
-original_signed_date: "2000-12-14"
-original_published_date: "2000-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "27030"
-original_url_id: "stb-2000-551"
-entry_into_force_date: "2000-12-28"
-entry_into_force_dossier: "27030"
-jci_1_3: "jci1.3:c:BWBR0001939&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0001939&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Natuurschoonwet 1928"
-signed_date: "2000-12-14"
-entry_into_force: "2000-12-28"
+publicatiedatum: 2000-12-28
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0001939"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 15 maart 1928, houdende regeling van sommige van landgoederen geheven belastingen tot bevordering van behoud van natuurschoon
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is om, tot bevordering van behoud van natuurschoon, sommige van landgoederen geheven wordende belastingen nader te regelen;
-
-Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan, bij deze:
 
 ##### Artikel 1
 
@@ -48,15 +20,15 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 - a. landgoed: een geheel of gedeeltelijk met natuurterreinen, bossen of andere houtopstanden bezette onroerende zaak - daaronder begrepen die waarop een buitenplaats of andere, bij het karakter van het landgoed passende, opstallen voorkomen - voor zover het blijven voortbestaan van die onroerende zaak in zijn karakteristieke verschijningsvorm voor het behoud van het natuurschoon wenselijk is, en:
 
-- 1°. de onroerende zaak in Nederland is gelegen, of
+   - 1°. de onroerende zaak in Nederland is gelegen, of
 
-- 2°. de onroerende zaak is gelegen in een andere lidstaat van de Europese Unie of een staat waarmee Nederland een regeling is overeengekomen die voorziet in de uitwisseling van inlichtingen en deze zaak een element vormt van het Nederlands cultureel erfgoed.
+   - 2°. de onroerende zaak is gelegen in een andere lidstaat van de Europese Unie of een staat waarmee Nederland een regeling is overeengekomen die voorziet in de uitwisseling van inlichtingen en deze zaak een element vormt van het Nederlands cultureel erfgoed.
 
 - b. eigenaar:
 
-- 1°. de eigenaar van een onroerende zaak die niet is bezwaard met het beperkt recht van vruchtgebruik of, behoudens in gevallen als bedoeld in het derde lid, dat van erfpacht;
+   - 1°. de eigenaar van een onroerende zaak die niet is bezwaard met het beperkt recht van vruchtgebruik of, behoudens in gevallen als bedoeld in het derde lid, dat van erfpacht;
 
-- 2°. de vruchtgebruiker of, behoudens in gevallen als bedoeld in het derde lid, de erfpachter;
+   - 2°. de vruchtgebruiker of, behoudens in gevallen als bedoeld in het derde lid, de erfpachter;
 
 - c. economische eigendom: een samenstel van rechten en verplichtingen met betrekking tot een onroerende zaak, dat een belang bij die zaak vertegenwoordigt. Het belang omvat ten minste enig risico van waardeverandering en komt toe aan een ander dan de civiel-juridische eigenaar. De verlening van uitsluitend het recht op levering wordt niet aangemerkt als overdracht van economische eigendom;
 
@@ -108,19 +80,19 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 - c.
 
-- 1°. de eigendom van de onroerende zaak is overgedragen;
+   - 1°. de eigendom van de onroerende zaak is overgedragen;
 
-- 2°. het beperkt recht van vruchtgebruik of, behoudens ingeval de hoofdgerechtigde nog steeds als eigenaar wordt aangemerkt op grond van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), dat van erfpacht op de onroerende zaak is gevestigd of een zodanig recht op de onroerende zaak is geëindigd, waaronder begrepen de gevallen waarin de erfpachter door de toepassing van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), niet langer als eigenaar wordt aangemerkt. Met de vestiging van het recht van erfpacht wordt gelijkgesteld de overdracht van economische eigendom aan een erfpachter die aanvankelijk op grond van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), niet als eigenaar van de onroerende zaak werd aangemerkt;
+   - 2°. het beperkt recht van vruchtgebruik of, behoudens ingeval de hoofdgerechtigde nog steeds als eigenaar wordt aangemerkt op grond van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), dat van erfpacht op de onroerende zaak is gevestigd of een zodanig recht op de onroerende zaak is geëindigd, waaronder begrepen de gevallen waarin de erfpachter door de toepassing van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), niet langer als eigenaar wordt aangemerkt. Met de vestiging van het recht van erfpacht wordt gelijkgesteld de overdracht van economische eigendom aan een erfpachter die aanvankelijk op grond van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), niet als eigenaar van de onroerende zaak werd aangemerkt;
 
-- 3°. de onroerende zaak bij verdeling is gesplitst en aan verschillende deelgenoten is toegedeeld;
+   - 3°. de onroerende zaak bij verdeling is gesplitst en aan verschillende deelgenoten is toegedeeld;
 
 - d. op grond van [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), de oppervlakte van een aangrenzende onroerende zaak in aanmerking is genomen en deze onroerende zaak of het aangrenzende gedeelte daarvan niet langer als een landgoed, onderscheidenlijk als een gedeelte daarvan, wordt aangemerkt;
 
-- e. de onroerende zaak niet voldoet aan de regels, bedoeld in [artikel 1, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01).
+- e. de onroerende zaak niet voldoet aan de regels, bedoeld in [artikel 1, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01).
 
-2. Het eerste lid, aanhef en onderdeel **c**, vindt geen toepassing, voor zover Onze Ministers op verzoek van de eigenaar bij gezamenlijke beschikking beslissen dat de onroerende zaak blijft aangemerkt als een landgoed. Het verzoek dient binnen zes maanden na de overdracht, na de vestiging of het eindigen van het beperkt recht, onderscheidenlijk na de verdeling bij Onze Minister te worden ingediend. Onze Minister is bevoegd in bijzondere gevallen de termijn van zes maanden te verlengen.
+2. Het eerste lid, aanhef en onderdeel *c*, vindt geen toepassing, voor zover Onze Ministers op verzoek van de eigenaar bij gezamenlijke beschikking beslissen dat de onroerende zaak blijft aangemerkt als een landgoed. Het verzoek dient binnen zes maanden na de overdracht, na de vestiging of het eindigen van het beperkt recht, onderscheidenlijk na de verdeling bij Onze Minister te worden ingediend. Onze Minister is bevoegd in bijzondere gevallen de termijn van zes maanden te verlengen.
 
-3. In de gevallen waarin de onroerende zaak niet langer als een landgoed wordt aangemerkt ingevolge het eerste lid, onderdelen **a** of **c**, stellen Onze Ministers bij gezamenlijke beschikking vast dat de onroerende zaak niet langer als zodanig wordt beschouwd met ingang van het tijdstip waarop de mededeling bij Onze Minister is ingekomen, onderscheidenlijk het tijdstip van de overdracht, van de vestiging of het eindigen van het beperkt recht, dan wel van de verdeling.
+3. In de gevallen waarin de onroerende zaak niet langer als een landgoed wordt aangemerkt ingevolge het eerste lid, onderdelen *a* of *c*, stellen Onze Ministers bij gezamenlijke beschikking vast dat de onroerende zaak niet langer als zodanig wordt beschouwd met ingang van het tijdstip waarop de mededeling bij Onze Minister is ingekomen, onderscheidenlijk het tijdstip van de overdracht, van de vestiging of het eindigen van het beperkt recht, dan wel van de verdeling.
 
 4. In het geval waarin de onroerende zaak, naar het oordeel van Onze Ministers, niet langer als een landgoed wordt aangemerkt ingevolge het eerste lid, onderdelen b of e, beslissen Onze Ministers bij gezamenlijke beschikking dat de onroerende zaak niet langer als zodanig wordt beschouwd met ingang van de datum van die beschikking.
 
@@ -166,21 +138,21 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-1. Indien tot een verkrijging in de zin van de [Successiewet 1956](onbekend) een onroerende zaak behoort, die is aangemerkt als een landgoed vindt - mits aan de in het volgende lid gestelde voorwaarden is voldaan - geen invordering plaats van het verschil tussen de volgens de aanslag verschuldigde schenkbelasting onderscheidenlijk erfbelasting en de belasting, welke verschuldigd zou zijn, indien de onroerende zaak wordt gesteld op de helft van de waarde in het economische verkeer, welke op het tijdstip van de verkrijging aan de zaak zou moeten worden toegekend, in geval daarop de last rustte om het gedurende een tijdvak van 25 jaren als zodanig in stand te houden en geen opgaand hout te vellen, dan volgens de regels van normaal bosbeheer noodzakelijk of gebruikelijk is. Voor zover het landgoed overeenkomstig door Onze Ministers goedgekeurde regelen voor het publiek is opengesteld, wordt, in afwijking in zoverre van de vorige volzin, de waarde van dat landgoed gesteld op nihil.
+1. Indien tot een verkrijging in de zin van de [Successiewet 1956](https://wetten.overheid.nl/BWBR0002226) een onroerende zaak behoort, die is aangemerkt als een landgoed vindt - mits aan de in het volgende lid gestelde voorwaarden is voldaan - geen invordering plaats van het verschil tussen de volgens de aanslag verschuldigde schenkbelasting onderscheidenlijk erfbelasting en de belasting, welke verschuldigd zou zijn, indien de onroerende zaak wordt gesteld op de helft van de waarde in het economische verkeer, welke op het tijdstip van de verkrijging aan de zaak zou moeten worden toegekend, in geval daarop de last rustte om het gedurende een tijdvak van 25 jaren als zodanig in stand te houden en geen opgaand hout te vellen, dan volgens de regels van normaal bosbeheer noodzakelijk of gebruikelijk is. Voor zover het landgoed overeenkomstig door Onze Ministers goedgekeurde regelen voor het publiek is opengesteld, wordt, in afwijking in zoverre van de vorige volzin, de waarde van dat landgoed gesteld op nihil.
 
 2. Het vorige lid is slechts van toepassing, indien in de aangifte behalve de naar [artikel 21 van de voormelde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) bepaalde waarde in het economische verkeer worden opgegeven de in dat lid bedoelde waarde in het economische verkeer en de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=2&z=2021-01-01&g=2021-01-01), bedoelde beschikking, zomede, indien en voor zover het een opengesteld landgoed betreft, de beschikking, waarbij de regelen voor de openstelling zijn goedgekeurd.
 
 3. Het in het eerste lid bepaalde geldt ook, indien de hiervoor bedoelde beschikkingen op verzoek van de verkrijgers eerst na het overlijden of de schenking zijn afgegeven.
 
-4. Het in het eerste lid bepaalde geldt niet voor zover het een verkrijging in de zin van de [Successiewet 1956](onbekend) betreft door degene die in de vijf jaren voorafgaande aan de verkrijging de onroerende zaak onder bezwarende titel heeft overgedragen en, gedurende die periode van vijf jaren, voor een verkrijging door zijn rechtsopvolgers onder algemene titel.
+4. Het in het eerste lid bepaalde geldt niet voor zover het een verkrijging in de zin van de [Successiewet 1956](https://wetten.overheid.nl/BWBR0002226) betreft door degene die in de vijf jaren voorafgaande aan de verkrijging de onroerende zaak onder bezwarende titel heeft overgedragen en, gedurende die periode van vijf jaren, voor een verkrijging door zijn rechtsopvolgers onder algemene titel.
 
 5. In het aanslagbiljet wordt behalve van het bedrag van de aanslag melding gemaakt van het bedrag van de terstond invorderbare belasting. De vaststelling van laatstbedoeld bedrag wordt voor de toepassing van de wettelijke bepalingen betreffende de schenk- en erfbelasting en de regeling inzake belastingrente beschouwd als de oplegging van een aanslag.
 
@@ -196,7 +168,7 @@ Vervallen
 
 2. Voor de toepassing van het eerste lid worden rechtspersonen, welke zich uitsluitend of nagenoeg uitsluitend het behoud van natuurschoon ten doel stellen, met natuurlijke personen gelijk gesteld.
 
-3. Het in het eerste lid, onderdeel **c**, genoemde vereiste is niet van toepassing, indien het aantal aandeelhouders, niet meer dan twintig bedragen hebbende, uitsluitend door erfenis, legaten, schenkingen en ontbindingen van huwelijksgemeenschappen of gemeenschappen van geregistreerd partnerschap gestegen is tot meer dan twintig mits, nadat het aantal aandeelhouders gestegen was tot meer dan twintig, dat aantal niet door andere dan de genoemde oorzaken verder gestegen is.
+3. Het in het eerste lid, onderdeel *c*, genoemde vereiste is niet van toepassing, indien het aantal aandeelhouders, niet meer dan twintig bedragen hebbende, uitsluitend door erfenis, legaten, schenkingen en ontbindingen van huwelijksgemeenschappen of gemeenschappen van geregistreerd partnerschap gestegen is tot meer dan twintig mits, nadat het aantal aandeelhouders gestegen was tot meer dan twintig, dat aantal niet door andere dan de genoemde oorzaken verder gestegen is.
 
 ##### Artikel 8
 
@@ -226,11 +198,11 @@ vindt alsnog invordering plaats overeenkomstig de volgende leden van de belastin
 
 2. Voor de toepassing van dit artikel wordt onder overdracht mede begrepen de overdracht van de economische eigendom.
 
-3. De ingevolge het eerste lid in te vorderen belasting bedraagt het product van de ten tijde van de in het eerste lid, onderdeel **a** of **b**, bedoelde gebeurtenis nog niet verstreken volle jaren van het in het eerste lid bedoelde tijdvak en 1/25 gedeelte van de belasting waarvan ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7&z=2021-01-01&g=2021-01-01), invordering achterwege is gebleven.
+3. De ingevolge het eerste lid in te vorderen belasting bedraagt het product van de ten tijde van de in het eerste lid, onderdeel *a* of *b*, bedoelde gebeurtenis nog niet verstreken volle jaren van het in het eerste lid bedoelde tijdvak en 1/25 gedeelte van de belasting waarvan ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7&z=2021-01-01&g=2021-01-01), invordering achterwege is gebleven.
 
 4. Indien een van de in het eerste lid bedoelde gevallen zich voordoet met betrekking tot een gedeelte van het landgoed wordt een bedrag aan belasting ingevorderd dat gelijk is aan het overeenkomstig het derde lid berekende bedrag vermenigvuldigd met een breuk waarvan de teller gelijk is aan de waarde van het betrokken gedeelte van het landgoed en de noemer gelijk is aan de waarde van het gehele landgoed. Voor de in de vorige volzin bedoelde waarde van het betrokken gedeelte van het landgoed respectievelijk die van het gehele landgoed wordt in aanmerking genomen de waarde in het economische verkeer op het moment dat de in het eerste lid bedoelde gebeurtenissen zich voordoen.
 
-5. In afwijking van het eerste lid wordt de belasting niet ingevorderd voorzover tegenover de in de onderdelen **a** of **b** bedoelde gebeurtenis geen directe of indirecte tegenprestatie staat. Indien sprake is van een tegenprestatie die afwijkt van hetgeen in het economische verkeer door onafhankelijke partijen zou zijn overeengekomen, wordt het bedrag aan belasting ingevorderd dat gelijk is aan het overeenkomstig het derde of vierde lid berekende bedrag vermenigvuldigd met een breuk waarvan de teller gelijk is aan de waarde van de tegenprestatie en de noemer gelijk is aan de waarde van de tegenprestatie die tussen onafhankelijke partijen zou zijn overeengekomen.
+5. In afwijking van het eerste lid wordt de belasting niet ingevorderd voorzover tegenover de in de onderdelen *a* of *b* bedoelde gebeurtenis geen directe of indirecte tegenprestatie staat. Indien sprake is van een tegenprestatie die afwijkt van hetgeen in het economische verkeer door onafhankelijke partijen zou zijn overeengekomen, wordt het bedrag aan belasting ingevorderd dat gelijk is aan het overeenkomstig het derde of vierde lid berekende bedrag vermenigvuldigd met een breuk waarvan de teller gelijk is aan de waarde van de tegenprestatie en de noemer gelijk is aan de waarde van de tegenprestatie die tussen onafhankelijke partijen zou zijn overeengekomen.
 
 6. Indien de in het eerste lid genoemde rechtshandelingen worden verricht door degene die het landgoed of een gedeelte daarvan dan wel een van de in het eerste lid genoemde beperkte rechten heeft verkregen krachtens verdeling van een gemeenschap dan wel krachtens een opeenvolging van dergelijke verdelingen, vindt dit artikel toepassing alsof die verdeling of verdelingen niet hebben plaatsgevonden.
 
@@ -248,7 +220,7 @@ Ter zake van de verkrijging van een landgoed is geen overdrachtsbelasting versch
 
 ##### Artikel 9b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9c
 
@@ -262,7 +234,7 @@ De belasting die door toepassing van [artikel 9a](https://wetten.overheid.nl/jci
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -271,5 +243,3 @@ Deze wet kan worden aangehaald als "Natuurschoonwet 1928".
 ##### Artikel 13
 
 Deze wet wordt geacht in werking te zijn getreden met ingang van den eersten Januari 1928.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

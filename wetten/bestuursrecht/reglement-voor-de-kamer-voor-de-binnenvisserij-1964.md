@@ -1,51 +1,22 @@
 ---
 title: "Besluit van 21 mei 1964, houdende uitvoering van artikel 52, tweede lid, van de Visserijwet 1963"
+citeertitel: "Reglement voor de Kamer voor de Binnenvisserij 1964"
 identifier: "BWBR0002444"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002444"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "846383"
-version_id: "1230562"
-internal_id: "C1230561"
-label_id: "820324"
-dtd_version: "2.0"
-original_entry_into_force: "1964-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002444/2013-01-01/0"
-intitule_bron: "Stb.1964-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1964-05-21"
-intitule_in_force: "1964-05-21"
-intitule_status: "goed"
-original_publication: "Stb.1964-170"
-original_signed_date: "1964-05-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1964-06-01"
-jci_1_3: "jci1.3:c:BWBR0002444&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002444&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Reglement voor de Kamer voor de Binnenvisserij 1964"
-signed_date: "1964-05-21"
-entry_into_force: "1964-06-01"
+publicatiedatum: 1964-06-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002444"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 21 mei 1964, houdende uitvoering van artikel 52, tweede lid, van de Visserijwet 1963
-
-Op de voordracht van Onze Ministers van Landbouw en Visserij a.i. van 10 maart 1964, no. J. 642, Directie Juridische en Bedrijfsorganisatorische Zaken en van Justitie van 20 mei 1964, Stafafdeling Wetgeving, Privaatrecht, nr. 163/664;
-
-Gelet op [artikel 52, tweede lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=52);
-
-De Raad van State gehoord (advies van 8 april 1964, no. 68);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 6 mei 1964, Directie Juridische en Bedrijfsorganisatorische Zaken; no. J. 1050;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
@@ -113,7 +84,7 @@ Uitgezonderd de zaterdag en de zondag en de dagen, genoemd in [artikel 10, tweed
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -179,7 +150,7 @@ Van de beslissingen van de enkelvoudige afdeling en de meervoudige afdelingen va
 
 ##### Artikel 23
 
-1. De voorzitter en de leden van de Kamer kunnen worden gewraakt in de gevallen, omschreven in de Vierde Afdeling van de Eerste Titel van het [Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend). Indien niet in de wraking wordt berust, beslist de Kamer, na onderzoek van de redenen van wraking, of deze al dan niet wordt toegestaan.
+1. De voorzitter en de leden van de Kamer kunnen worden gewraakt in de gevallen, omschreven in de Vierde Afdeling van de Eerste Titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering. Indien niet in de wraking wordt berust, beslist de Kamer, na onderzoek van de redenen van wraking, of deze al dan niet wordt toegestaan.
 
 2. Ieder lid van de Kamer, die weet, dat er enige reden van wraking tegen hem bestaat, is gehouden deze aan de Kamer op te geven.
 
@@ -187,6 +158,4 @@ Van de beslissingen van de enkelvoudige afdeling en de meervoudige afdelingen va
 
 Dit besluit treedt in werking op het tijdstip, waarop de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416) in werking treedt.
 
-Het kan worden aangehaald als "Reglement voor de Kamer voor de Binnenvisserij" met vermelding van het jaartal van het **Staatsblad,** waarin het is geplaatst.
-
-Onze Ministers van Landbouw en Visserij en van Justitie zijn belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+Het kan worden aangehaald als "Reglement voor de Kamer voor de Binnenvisserij" met vermelding van het jaartal van het *Staatsblad,* waarin het is geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Gezamenlijke beschikking omtrent Indische pensioenen"
 identifier: "BWBR0002627"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1968-06-01"
-last_updated: "1968-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002627"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3711743"
-version_id: "5494622"
-internal_id: "C5687711"
-label_id: "3691504"
-dtd_version: "2.0"
-original_entry_into_force: "1968-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002627/1968-06-01/0"
-intitule_bron: "Stcrt.1968-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1968-05-15"
-intitule_published: "1968-05-17"
-intitule_in_force: "1968-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1968-96"
-original_signed_date: "1968-05-15"
-original_published_date: "1968-05-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1968-06-01"
-jci_1_3: "jci1.3:c:BWBR0002627&z=1968-06-01&g=1968-06-01"
-jci_1_0: "1.0:c:BWBR0002627&g=1968-06-01"
-citeertitel_status: "officieel"
-signed_date: "1968-05-15"
-entry_into_force: "1968-06-01"
+publicatiedatum: 1968-06-01
+laatste_update: 1968-06-01
+status: geldig
+toestand: 1968-06-01
+bron: "https://wetten.overheid.nl/BWBR0002627"
+opgehaald: 2026-07-29
 ---
+
 # Gezamenlijke beschikking omtrent Indische pensioenen
-
-Gelet op [artikel 17, derde lid, letter b, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=17) (Stb. 1964, 425; Gouvernementsblad 1964, nr. 117);
-
-Besluiten:
 
 ##### Artikel 1
 

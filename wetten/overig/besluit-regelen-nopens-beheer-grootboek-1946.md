@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 8 januari 1946, houdende regelen nopens het beheer van het Grootboek 1946"
+citeertitel: "Besluit regelen nopens beheer Grootboek 1946"
 identifier: "BWBR0002017"
-country: "nl"
-rank: "kb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002017"
+categorie: "Overig"
 soort: "KB"
-stam_id: "914373"
-version_id: "1338412"
-internal_id: "C1338411"
-label_id: "886894"
-dtd_version: "2.0"
-original_entry_into_force: "1946-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002017/2013-01-01/0"
-intitule_bron: "Stb.1946-G 9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1946-01-08"
-intitule_status: "goed"
-original_publication: "Stb.1946-G 9"
-original_signed_date: "1946-01-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1946-01-13"
-jci_1_3: "jci1.3:c:BWBR0002017&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002017&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit regelen nopens beheer Grootboek 1946"
-signed_date: "1946-01-08"
-entry_into_force: "1946-01-13"
+publicatiedatum: 1946-01-13
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002017"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 8 januari 1946, houdende regelen nopens het beheer van het Grootboek 1946
-
-Op de voordracht van Onzen Minister van Financiën d.d. 19 December 1945, Generale Thesaurie, Afd. Geldwezen, No. 178;
-
-Overwegende, dat het wenschelijk is regelen te stellen nopens het beheer van het Grootboek 1946, als bedoeld in Ons besluit van 14 November 1945 (**Staatsblad** No. F 268);
-
-Gelet op artikel 3, derde lid van Ons evengemeld besluit;
-
-Den Raad van State gehoord (advies van 27 December 1945, No. 20);
-
-Gezien het nader rapport van Onzen Minister van Financiën d.d. 2 Januari 1946, Generale Thesaurie, Afd. Geldwezen, No. 142;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -111,5 +81,3 @@ Formulieren, waarvan het gebruik door de Directeur van het Grootboek 1946 is voo
 ##### Artikel 10
 
 Dit besluit treedt in werking met ingang van den tweeden dag volgende op dien zijner afkondiging.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.

@@ -1,44 +1,18 @@
 ---
 title: "Wet van 30 mei 1963, houdende nieuwe regelen omtrent de visserij"
+citeertitel: "Visserijwet 1963"
 identifier: "BWBR0002416"
-country: "nl"
-rank: "wet"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002416"
+categorie: "Overig"
 soort: "wet"
-stam_id: "3005373"
-version_id: "4656492"
-internal_id: "C4656491"
-label_id: "2956834"
-dtd_version: "2.0"
-original_entry_into_force: "1964-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002416/2024-04-01/0"
-intitule_bron: "Stb.1963-312"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1963-05-30"
-intitule_in_force: "1964-05-21"
-intitule_status: "goed"
-original_publication: "Stb.1963-312"
-original_signed_date: "1963-05-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "6560"
-entry_into_force_date: "1964-06-01"
-jci_1_3: "jci1.3:c:BWBR0002416&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0002416&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Visserijwet 1963"
-signed_date: "1963-05-30"
-entry_into_force: "1964-06-01"
+publicatiedatum: 1964-06-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0002416"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 30 mei 1963, houdende nieuwe regelen omtrent de visserij
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wetgeving op het gebied van de visserij aan te passen aan de gewijzigde omstandigheden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -60,9 +34,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. schaal- en schelpdieren van de door Onze Minister aangewezen soorten, delen van deze dieren, alsmede zeesterren en zee- of koraalmos;
 
-- c. kuit en broed van de onder **a** bedoelde vissen;
+- c. kuit en broed van de onder *a* bedoelde vissen;
 
-- d. broed en zaad van de onder **b** bedoelde schaal- en schelpdieren.
+- d. broed en zaad van de onder *b* bedoelde schaal- en schelpdieren.
 
 3. Voor het bepaalde bij of krachtens deze wet wordt verstaan onder "vissen":
 
@@ -92,7 +66,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 #### § 3. Minimummaten, gesloten tijden, welzijnsregels en andere maatregelen in het belang van de visserij
 
@@ -102,7 +76,7 @@ Vervallen
 
 2. Het is verboden vis gedurende een bij of krachtens algemene maatregel van bestuur te bepalen tijdvak, dat voor verschillende vissoorten verschillend kan worden vastgesteld, voorhanden of in voorraad te hebben, aan te voeren, te vervoeren, te koop aan te bieden, te vervreemden, af te leveren, te bewerken of te verwerken.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. Het bepaalde bij het eerste en het tweede lid vindt geen toepassing in de bij of krachtens de aldaar bedoelde algemene maatregelen van bestuur te bepalen gevallen.
 
@@ -110,7 +84,7 @@ Vervallen
 
 1. Onze Minister is bevoegd ter voorkoming of bestrijding van ziekte onder de vis, regelen te stellen ten aanzien van het uitoefenen van de visserij.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Voor de toepassing van het eerste lid wordt onder vis mede begrepen de vissen, schaal- en schelpdieren van andere dan de overeenkomstig het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2024-04-01&g=2024-04-01), aangewezen soorten.
 
@@ -118,7 +92,7 @@ Vervallen
 
 1. Het is verboden vis te bedwelmen, te verwonden of te doden met bij ministeriële regeling aan te wijzen middelen.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Onze Minister kan ontheffing verlenen van het in het eerste lid gestelde verbod. Deze ontheffing kan onder beperkingen worden verleend. Hij kan aan zodanige ontheffing voorschriften verbinden.
 
@@ -164,7 +138,7 @@ Bij of krachtens algemene maatregel van bestuur worden regelen gesteld betreffen
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -188,7 +162,7 @@ Vervallen
 
 ##### Artikel 9
 
-1. In het belang van de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2024-04-01&g=2024-04-01), kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit.
+1. In het belang van de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onder *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2024-04-01&g=2024-04-01), kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit.
 
 2. Bij het stellen van regelen als bedoeld in het eerste lid, wordt mede rekening gehouden met de belangen van de natuurbescherming.
 
@@ -206,33 +180,33 @@ Vervallen
 
 ### Hoofdstuk V. De binnenvisserij
 
-### Afdeling I
+#### Afdeling I
 
 #### § 1. Visakte
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 #### § 3. Maatregelen in het belang van de visserij
 
@@ -262,15 +236,15 @@ Vervallen
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 #### § 4. Schriftelijke toestemmingen voor het vissen in wateren, waarin de binnenvisserij wordt uitgeoefend
 
@@ -338,7 +312,7 @@ Vervallen
 
 ##### Artikel 24
 
-De bepalingen van deze paragraaf gelden niet voor de visserij in het IJsselmeer, in wateren als bedoeld in [artikel 21, tweede lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2024-04-01&g=2024-04-01) en in andere bij ministeriële regeling aan te wijzen wateren of complexen van wateren.
+De bepalingen van deze paragraaf gelden niet voor de visserij in het IJsselmeer, in wateren als bedoeld in [artikel 21, tweede lid, onderdeel *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2024-04-01&g=2024-04-01) en in andere bij ministeriële regeling aan te wijzen wateren of complexen van wateren.
 
 ##### Artikel 25
 
@@ -462,39 +436,39 @@ In geval van beperkte genotsrechten voor onbepaalde tijd blijft de overeenkomsti
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
-### Afdeling II. Het orgaan
+#### Afdeling II. Het orgaan
 
 #### § 1. De organisatie ter verbetering van de binnenvisserij
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 #### § 2. De Kamer voor de Binnenvisserij
 
@@ -586,7 +560,7 @@ Het is aan de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&ho
 
 Bij ministeriële regeling wordt voor de werkzaamheden van de Kamer een tarief vastgesteld.
 
-#### § 3. De Raad voor de Binnenvisserij
+### Hoofdstuk VI. Toezichts-, dwang- en strafbepalingen
 
 ##### Artikel 54a
 
@@ -594,7 +568,21 @@ Bij ministeriële regeling wordt voor de werkzaamheden van de Kamer een tarief v
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-### Hoofdstuk VI. Strafbepalingen
+##### Artikel 54b
+
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+
+##### Artikel 54c
+
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van een overtreding van het bepaalde bij of krachtens de [artikelen 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2a&z=2024-04-01&g=2024-04-01), [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2b&z=2024-04-01&g=2024-04-01), [2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2024-04-01&g=2024-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=II&artikel=3&z=2024-04-01&g=2024-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2024-04-01&g=2024-04-01), [4, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=4&z=2024-04-01&g=2024-04-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=5&z=2024-04-01&g=2024-04-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2024-04-01&g=2024-04-01), [9, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=9&z=2024-04-01&g=2024-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2024-04-01&g=2024-04-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2024-04-01&g=2024-04-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2024-04-01&g=2024-04-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=27&z=2024-04-01&g=2024-04-01), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=32&z=2024-04-01&g=2024-04-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2024-04-01&g=2024-04-01), [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=55&z=2024-04-01&g=2024-04-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=61&z=2024-04-01&g=2024-04-01), dan wel de overtreding van de voorschriften, bedoeld in de [artikelen 22, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2024-04-01&g=2024-04-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2024-04-01&g=2024-04-01), en [33, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=33&z=2024-04-01&g=2024-04-01), dan wel de overtreding van de voorschriften die verbonden zijn aan de op grond van het bepaalde bij of krachtens de [artikelen 2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2024-04-01&g=2024-04-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2024-04-01&g=2024-04-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2024-04-01&g=2024-04-01), en [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2024-04-01&g=2024-04-01), verleende ontheffing, schriftelijke toestemming of de overeenkomst van huur en verhuur van visrecht.
+
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen kan worden opgelegd, waarbij afhankelijk van de mate van verwijtbaarheid, de ernst van de overtreding en het daarmee behaalde voordeel wordt onderscheiden in verschillende categorieën te betalen bestuurlijke boetes. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze, waarop de boetehoogte wordt bepaald.
+
+3. De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het maximum van de boetecategorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), dat als maximum geldt voor de strafrechtelijke boete die voor overtreding van hetzelfde voorschrift kan worden opgelegd.
+
+##### Artikel 54d
+
+Onze Minister van Landbouw, Natuur en Voedselkwaliteit zendt binnen vijf jaar na de inwerkingtreding van [artikel 54c](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=54c&z=2024-04-01&g=2024-04-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dat artikel in de praktijk.
 
 ##### Artikel 55
 
@@ -626,7 +614,7 @@ Bij ministeriële regeling wordt voor de werkzaamheden van de Kamer een tarief v
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
@@ -672,11 +660,11 @@ Ook buiten het geval van ontdekking op heterdaad kunnen de opsporingsambtenaren 
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
@@ -684,7 +672,7 @@ De rechten en verplichtingen, voortspruitende uit overeenkomsten van huur en ver
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
@@ -692,7 +680,7 @@ Overeenkomsten van huur en verhuur van visrecht voor bepaalde tijd, welke op 1 f
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
@@ -700,15 +688,15 @@ De gevolgen, welke het overlijden van de huurder ten aanzien van de overeenkomst
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
@@ -718,7 +706,7 @@ Vervallen
 
 ##### Artikel 75
 
-1. De zorg voor de archiefbescheiden van de bij de [wet van 6 september 2006 tot wijziging van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0020263) (Stb. 2006, 476) opgeheven Organisatie ter verbetering van de binnenvisserij ligt bij Onze Minister.
+1. De zorg voor de archiefbescheiden van de bij de [wet van 6 september 2006 tot wijziging van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0020263) (Stb. 2006, 476) opgeheven Organisatie ter verbetering van de binnenvisserij ligt bij Onze Minister.
 
 2. De archiefbescheiden kunnen, voor zover zij niet zijn overgebracht naar een rijksarchiefbewaarplaats, tijdelijk ter beschikking worden gesteld aan een door Onze Minister aan te wijzen rechtspersoon.
 
@@ -734,44 +722,16 @@ Vervallen
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Deze wet treedt in werking op een nader door Ons te bepalen tijdstip. Zij kan worden aangehaald als: "Visserijwet", met vermelding van het jaartal van het **Staatsblad**, waarin zij is geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk VI. Toezichts-, dwang- en strafbepalingen
-
-##### Artikel 54b
-
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
-
-##### Artikel 54c
-
-1. Onze Minister kan een bestuurlijke boete opleggen ter zake van een overtreding van het bepaalde bij of krachtens de [artikelen 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2a&z=2024-04-01&g=2024-04-01), [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2b&z=2024-04-01&g=2024-04-01), [2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2024-04-01&g=2024-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=II&artikel=3&z=2024-04-01&g=2024-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2024-04-01&g=2024-04-01), [4, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=4&z=2024-04-01&g=2024-04-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=5&z=2024-04-01&g=2024-04-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2024-04-01&g=2024-04-01), [9, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=9&z=2024-04-01&g=2024-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2024-04-01&g=2024-04-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2024-04-01&g=2024-04-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2024-04-01&g=2024-04-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=27&z=2024-04-01&g=2024-04-01), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=32&z=2024-04-01&g=2024-04-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2024-04-01&g=2024-04-01), [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=55&z=2024-04-01&g=2024-04-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=61&z=2024-04-01&g=2024-04-01), dan wel de overtreding van de voorschriften, bedoeld in de [artikelen 22, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2024-04-01&g=2024-04-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2024-04-01&g=2024-04-01), en [33, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=33&z=2024-04-01&g=2024-04-01), dan wel de overtreding van de voorschriften die verbonden zijn aan de op grond van het bepaalde bij of krachtens de [artikelen 2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2024-04-01&g=2024-04-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2024-04-01&g=2024-04-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2024-04-01&g=2024-04-01), en [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2024-04-01&g=2024-04-01), verleende ontheffing, schriftelijke toestemming of de overeenkomst van huur en verhuur van visrecht.
-
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen kan worden opgelegd, waarbij afhankelijk van de mate van verwijtbaarheid, de ernst van de overtreding en het daarmee behaalde voordeel wordt onderscheiden in verschillende categorieën te betalen bestuurlijke boetes. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze, waarop de boetehoogte wordt bepaald.
-
-3. De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het maximum van de boetecategorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), dat als maximum geldt voor de strafrechtelijke boete die voor overtreding van hetzelfde voorschrift kan worden opgelegd.
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 54d
-
-Onze Minister van Landbouw, Natuur en Voedselkwaliteit zendt binnen vijf jaar na de inwerkingtreding van [artikel 54c](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=54c&z=2024-04-01&g=2024-04-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dat artikel in de praktijk.
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking op een nader door Ons te bepalen tijdstip. Zij kan worden aangehaald als: "Visserijwet", met vermelding van het jaartal van het *Staatsblad*, waarin zij is geplaatst.

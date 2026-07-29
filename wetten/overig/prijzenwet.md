@@ -1,43 +1,18 @@
 ---
 title: "Wet van 24 maart 1961, houdende regelen op het gebied van de prijzen van goederen en diensten"
+citeertitel: "Prijzenwet"
 identifier: "BWBR0002353"
-country: "nl"
-rank: "wet"
-publication_date: "2022-05-28"
-last_updated: "2022-05-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002353"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2149003"
-version_id: "3272882"
-internal_id: "C3272881"
-label_id: "2099754"
-dtd_version: "2.0"
-original_entry_into_force: "1961-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002353/2022-05-28/0"
-intitule_bron: "Stb.1961-135"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1961-03-24"
-intitule_status: "goed"
-original_publication: "Stb.1961-135"
-original_signed_date: "1961-03-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "5349"
-entry_into_force_date: "1961-06-01"
-jci_1_3: "jci1.3:c:BWBR0002353&z=2022-05-28&g=2022-05-28"
-jci_1_0: "1.0:c:BWBR0002353&g=2022-05-28"
-citeertitel_status: "officieel"
-short_title: "Prijzenwet"
-signed_date: "1961-03-24"
-entry_into_force: "1961-06-01"
+publicatiedatum: 1961-06-01
+laatste_update: 2022-05-28
+status: geldig
+toestand: 2022-05-28
+bron: "https://wetten.overheid.nl/BWBR0002353"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 maart 1961, houdende regelen op het gebied van de prijzen van goederen en diensten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de mogelijkheid te openen regelen te stellen op het gebied van de prijzen van goederen of diensten, ingeval de ontwikkeling dier prijzen daartoe aanleiding geeft;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -57,7 +32,7 @@ Onze Minister: Onze Minister van Economische Zaken en Klimaat.
 
 - a. voor producten en diensten in het algemeen verbieden, voor zover het de binnenlandse markt betreft, het aanbieden, verkopen, verhuren, krachtens verkoop leveren of krachtens verhuur verschaffen van het genot van producten, onderscheidenlijk het aanbieden of verrichten van diensten of het zich verbinden deze te verrichten, tegen hogere dan door hem aan te geven prijzen;
 
-- b. voorschriften geven betreffende het voeren van een administratie, waaruit de vorming blijkt van de prijzen, die voor producten of diensten, ten aanzien van welke het onder **a** bepaalde toepassing heeft gevonden, op de binnenlandse markt worden gevraagd, bedongen of in rekening gebracht.
+- b. voorschriften geven betreffende het voeren van een administratie, waaruit de vorming blijkt van de prijzen, die voor producten of diensten, ten aanzien van welke het onder *a* bepaalde toepassing heeft gevonden, op de binnenlandse markt worden gevraagd, bedongen of in rekening gebracht.
 
 2. Een regeling op grond van het eerste lid dient gepaard te gaan met de aankondiging van andere maatregelen welke in verband met het zich voordoen van de aldaar bedoelde noodsituatie vereist zijn en die ten doel hebben de inflatie te beperken.
 
@@ -65,7 +40,7 @@ Onze Minister: Onze Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 2a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2b
 
@@ -95,7 +70,7 @@ Vervallen
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister en Onze Minister wie het mede aangaat tezamen aangewezen ambtenaren.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 5
 
@@ -105,31 +80,31 @@ Vervallen
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -143,19 +118,19 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -164,5 +139,3 @@ Deze wet kan worden aangehaald als "Prijzenwet".
 ##### Artikel 18
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

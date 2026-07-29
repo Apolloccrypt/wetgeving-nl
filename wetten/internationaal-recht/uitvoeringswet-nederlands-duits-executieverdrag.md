@@ -1,47 +1,22 @@
 ---
 title: "Wet van 3 maart 1965, houdende uitvoering van het op 30 augustus 1962 te 's-Gravenhage gesloten Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken"
+citeertitel: "Uitvoeringswet Nederlands-Duits Executieverdrag"
 identifier: "BWBR0002481"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002481"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1778373"
-version_id: "2643242"
-internal_id: "C2643241"
-label_id: "1734104"
-dtd_version: "2.0"
-original_entry_into_force: "1965-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002481/2013-01-01/0"
-intitule_bron: "Stb.1965-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1965-03-03"
-intitule_status: "goed"
-original_publication: "Stb.1965-92"
-original_signed_date: "1965-03-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "7571"
-entry_into_force_date: "1965-09-15"
-jci_1_3: "jci1.3:c:BWBR0002481&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002481&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Nederlands-Duits Executieverdrag"
-signed_date: "1965-03-03"
-entry_into_force: "1965-09-15"
+publicatiedatum: 1965-09-15
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002481"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 3 maart 1965, houdende uitvoering van het op 30 augustus 1962 te 's-Gravenhage gesloten Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er aanleiding is om uitvoering te geven aan de artikelen 8 en 14, tweede lid, van het op 30 augustus 1962 te 's-Gravenhage gesloten Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-1. Het verlof tot tenuitvoerlegging, bedoeld in artikel 6 van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken (**Trb.** 1963, no. 50), wordt verleend door de voorzieningenrechter van de rechtbank van het arrondissement, waar de wederpartij woonplaats heeft of waar de tenuitvoerlegging wordt verlangd.
+1. Het verlof tot tenuitvoerlegging, bedoeld in artikel 6 van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken (*Trb.* 1963, no. 50), wordt verleend door de voorzieningenrechter van de rechtbank van het arrondissement, waar de wederpartij woonplaats heeft of waar de tenuitvoerlegging wordt verlangd.
 
 2. De [artikelen 985](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) tot en met [991 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=991) zijn niet van toepassing.
 
@@ -75,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -88,5 +63,3 @@ Het bepaalde bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR000248
 ##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag waarop het Verdrag voor Nederland in werking treedt.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

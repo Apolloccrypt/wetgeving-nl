@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 2 augustus 1946, houdende nieuwe regelen betreffende de instelling van een Eerepenning voor menschlievend hulpbetoon"
+citeertitel: "Besluit instelling erepenning menslievend hulpbetoon"
 identifier: "BWBR0002019"
-country: "nl"
-rank: "kb"
-publication_date: "2013-11-30"
-last_updated: "2013-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002019"
+categorie: "Overig"
 soort: "KB"
-stam_id: "626973"
-version_id: "4846322"
-internal_id: "C4872271"
-label_id: "608424"
-dtd_version: "2.0"
-original_entry_into_force: "2002-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002019/2013-11-30/0"
-intitule_bron: "Stb.1946-G 199"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1946-08-02"
-intitule_status: "goed"
-original_publication: "Stb.2002-496"
-original_signed_date: "2002-07-13"
-original_published_date: "2002-10-08"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2002-496"
-entry_into_force_date: "2002-10-09"
-jci_1_3: "jci1.3:c:BWBR0002019&z=2013-11-30&g=2013-11-30"
-jci_1_0: "1.0:c:BWBR0002019&g=2013-11-30"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling erepenning menslievend hulpbetoon"
-signed_date: "2002-07-13"
-entry_into_force: "2002-10-09"
+publicatiedatum: 2002-10-09
+laatste_update: 2013-11-30
+status: geldig
+toestand: 2013-11-30
+bron: "https://wetten.overheid.nl/BWBR0002019"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 2 augustus 1946, houdende nieuwe regelen betreffende de instelling van een Eerepenning voor menschlievend hulpbetoon
-
-Op de voordracht van Onzen Minister van Binnenlandsche Zaken van 23 Juli 1946, no. U 19203, Afdeeling Wetgeving;
-
-Overwegende, dat de bij het Koninklijk besluit van 19 Juni 1822, no 92, ingestelde **Eerepenning voor Menschlievend Hulpbetoon** bijzonder geschikt is gebleken tot belooning van menschlievende daden, die het kenmerk dragen van moed, beleid en zelfopoffering, doch dat het noodzakelijk is gebleken dit besluit, met handhaving van zijn beginselen, te herzien;
-
-Hebben goedgevonden en verstaan: Onder intrekking van het Koninklijk besluit van 19 Juni 1822, no. 92, zooals dit laatstelijk is gewijzigd bij Ons besluit van 11 Februari 1918, no. 37, te bepalen:
 
 ##### Artikel 1
 
@@ -68,18 +42,6 @@ Eerepenning voor menschlievend hulpbetoon.
 
 2. Indien alleen het lint wordt gedragen, zullen de zilveren en gouden eerepenning worden aangegeven door een zilveren of gouden kroon op het lint.
 
-##### Artikel 5
-
-1. In bijzondere gevallen, te Onzer beoordeeling, kan de Eerepenning voor menschlievend hulpbetoon tijdelijk of blijvend worden ontnomen aan hen, die zich dit eereteeken niet langer waardig toonen.
-
-2. Een voordracht tot het ontnemen van een verleende erepenning wordt gedaan door Onze Minister die het aangaat.
-
-##### Artikel 6
-
-Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het **Staatsblad,** waarin het is geplaatst.
-
-Onze Minister van Binnenlandsche Zaken is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselarij der Nederlandsche Orden.
-
 ##### Artikel 4a
 
 Een voordracht tot toekenning van een erepenning wordt gedaan door:
@@ -88,4 +50,12 @@ Een voordracht tot toekenning van een erepenning wordt gedaan door:
 
 - Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in andere gevallen dan bedoeld onder a.
 
-Onze Minister van Binnenlandsche Zaken is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselarij der Nederlandsche Orden.
+##### Artikel 5
+
+1. In bijzondere gevallen, te Onzer beoordeeling, kan de Eerepenning voor menschlievend hulpbetoon tijdelijk of blijvend worden ontnomen aan hen, die zich dit eereteeken niet langer waardig toonen.
+
+2. Een voordracht tot het ontnemen van een verleende erepenning wordt gedaan door Onze Minister die het aangaat.
+
+##### Artikel 6
+
+Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het *Staatsblad,* waarin het is geplaatst.

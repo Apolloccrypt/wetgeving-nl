@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 14 november 1945, houdende machtiging tot het vestigen van schuldverplichtingen ten laste van het Rijk"
+citeertitel: "Besluit machtiging tot vestigen schuldverplichtingen ten laste van Rijk"
 identifier: "BWBR0002016"
-country: "nl"
-rank: "kb"
-publication_date: "1945-11-17"
-last_updated: "1945-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002016"
+categorie: "Overig"
 soort: "KB"
-stam_id: "701893"
-version_id: "1023822"
-internal_id: "C1023821"
-label_id: "680374"
-dtd_version: "2.0"
-original_entry_into_force: "1945-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002016/1945-11-17/0"
-intitule_bron: "Stb.1945-F 268"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1945-11-14"
-intitule_status: "goed"
-original_publication: "Stb.1945-F 268"
-original_signed_date: "1945-11-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1945-11-17"
-jci_1_3: "jci1.3:c:BWBR0002016&z=1945-11-17&g=1945-11-17"
-jci_1_0: "1.0:c:BWBR0002016&g=1945-11-17"
-citeertitel_status: "officieel"
-short_title: "Besluit machtiging tot vestigen schuldverplichtingen ten laste van Rijk"
-signed_date: "1945-11-14"
-entry_into_force: "1945-11-17"
+publicatiedatum: 1945-11-17
+laatste_update: 1945-11-17
+status: geldig
+toestand: 1945-11-17
+bron: "https://wetten.overheid.nl/BWBR0002016"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 14 november 1945, houdende machtiging tot het vestigen van schuldverplichtingen ten laste van het Rijk
-
-Op de voordracht van Onzen Minister van Financiën van 6 November 1945, Generale Thesaurie, Afdeeling Geldwezen, No. 130;
-
-Overwegende, dat het dringend gewenscht is de geblokkeerde tegoeden in rekening dienstbaar te maken aan de consolidatie van vlottende Staatsschuld;
-
-Den Raad van State gehoord (advies van 6 November 1945, No. 19);
-
-Gezien het nader rapport van Onzen Minister van Financiën van 10 November 1945, Generale Thesaurie, Afdeeling Geldwezen, No. 39;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Machtiging. Bedrag
 
@@ -89,5 +61,3 @@ Het recht tot opvordering van het kapitaal der krachtens dit besluit gevestigde 
 ##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van den dag volgende op dien zijner afkondiging.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.

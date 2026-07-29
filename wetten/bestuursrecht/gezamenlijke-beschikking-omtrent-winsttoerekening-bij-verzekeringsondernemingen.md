@@ -1,43 +1,18 @@
 ---
 title: "GEZAMENLIJKE BESCHIKKING OMTRENT WINSTTOEREKENING BIJ VERZEKERINGSONDERNEMINGEN"
+citeertitel: "Gezamenlijke beschikking omtrent winsttoerekening bij verzekeringsondernemingen"
 identifier: "BWBR0002472"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1965-01-01"
-last_updated: "1965-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002472"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4282823"
-version_id: "6046362"
-internal_id: "C6249761"
-label_id: "4261334"
-dtd_version: "2.0"
-original_entry_into_force: "1965-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002472/1965-01-01/0"
-intitule_bron: "Stcrt.1964-255"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1964-12-17"
-intitule_published: "1964-12-31"
-intitule_in_force: "1964-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1964-255"
-original_signed_date: "1964-12-17"
-original_published_date: "1964-12-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1965-01-01"
-jci_1_3: "jci1.3:c:BWBR0002472&z=1965-01-01&g=1965-01-01"
-jci_1_0: "1.0:c:BWBR0002472&g=1965-01-01"
-citeertitel_status: "officieel"
-short_title: "Gezamenlijke beschikking omtrent winsttoerekening bij verzekeringsondernemingen"
-signed_date: "1964-12-17"
-entry_into_force: "1965-01-01"
+publicatiedatum: 1965-01-01
+laatste_update: 1965-01-01
+status: geldig
+toestand: 1965-01-01
+bron: "https://wetten.overheid.nl/BWBR0002472"
+opgehaald: 2026-07-29
 ---
+
 # GEZAMENLIJKE BESCHIKKING OMTRENT WINSTTOEREKENING BIJ VERZEKERINGSONDERNEMINGEN
-
-Gelet op [artikel 5, vierde lid, van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=5) (Stb. 1964, 425; Gouvernementsblad 1964, 117; Publicatieblad 1964, 178),
-
-Besluiten:
 
 ##### Artikel 1
 

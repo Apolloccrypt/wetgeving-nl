@@ -1,46 +1,18 @@
 ---
 title: "Wet van 22 augustus 1947, tot invoering van een buitengewoon pensioen voor deelnemers aan het verzet, alsmede voor hun nagelaten betrekkingen"
+citeertitel: "Wet buitengewoon pensioen 1940-1945"
 identifier: "BWBR0002032"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002032"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "125173"
-version_id: "15168582"
-internal_id: "C33893231"
-label_id: "126404"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002032/2025-01-01/0"
-intitule_bron: "Stb.1947-H 313"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-08-22"
-intitule_status: "goed"
-original_publication: "Stb.2008-50"
-original_signed_date: "2008-01-24"
-original_published_date: "2008-02-21"
-original_effect: "structuurwijziging"
-original_dossier: "31130"
-original_url_id: "stb-2008-50"
-entry_into_force_date: "2008-01-24"
-entry_into_force_dossier: "31130"
-jci_1_3: "jci1.3:c:BWBR0002032&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0002032&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet buitengewoon pensioen 1940-1945"
-signed_date: "2008-01-24"
-entry_into_force: "2008-01-24"
+publicatiedatum: 2008-01-24
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0002032"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 22 augustus 1947, tot invoering van een buitengewoon pensioen voor deelnemers aan het verzet, alsmede voor hun nagelaten betrekkingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een regeling te treffen met betrekking tot recht op buitengewoon pensioen ten behoeve van hen, die tijdens de vijandelijke bezetting van het Rijk in Europa door daad of houding hebben deelgenomen aan het binnenlands verzet, alsmede van hun nagelaten betrekkingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### hoofdstuk Eerste. Algemene bepalingen
 
@@ -50,7 +22,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 "Onze Minister": Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-"de Raad": de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3);
+"de Raad": de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3);
 
 de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
@@ -58,7 +30,7 @@ de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 
 
 "gewezen echtgenote": de vrouw, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01);
 
-"peiljaar": het jaar vastgesteld ingevolge [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01), en [artikel 41**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01);
+"peiljaar": het jaar vastgesteld ingevolge [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01), en [artikel 41*a*, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01);
 
 "minimum-pensioengrondslag": de pensioengrondslag, bedoeld in [artikel 8, zevende lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01).
 
@@ -76,6 +48,10 @@ Voor de toepassing van deze wet wordt gelijkgesteld met:
 
 - d. weduwe of weduwnaar: de achtergebleven partij bij een geregistreerd partnerschap;
 
+##### Artikel 1b
+
+Waar in deze wet in een artikel of artikellid sprake is van «de Raad of de Sociale verzekeringsbank» is de taakverdeling in overeenstemming met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4) en [6 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6).
+
 ##### Artikel 2
 
 1. Onder de voorwaarden en naar de regelen, bij of krachtens deze wet gesteld, wordt buitengewoon pensioen verleend aan deelnemers aan het verzet, alsmede aan hun nagelaten betrekkingen.
@@ -84,11 +60,11 @@ Voor de toepassing van deze wet wordt gelijkgesteld met:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3a
 
-De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekend gemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
+De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de *Staatscourant* is bekend gemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
 ### hoofdstuk Tweede. Van het buitengewoon pensioen van de deelnemers aan het verzet
 
@@ -150,17 +126,17 @@ Het buitengewoon pensioen wordt blijvend toegekend, indien, hetzij bij eerste to
 
 7. De pensioengrondslag bedraagt ten minste € 1 225,21 en ten hoogste:
 
-- 100. procent van de eerste € 2813,44,
+- 100 procent van de eerste € 2813,44,
 
-- 36,84. procent van de volgende € 1724,37,
+- 36,84 procent van de volgende € 1724,37,
 
-- 30. procent van de volgende € 907,56,
+- 30 procent van de volgende € 907,56,
 
-- 20. procent van de volgende € 907,56,
+- 20 procent van de volgende € 907,56,
 
-- 10. procent van de volgende € 907,56 en
+- 10 procent van de volgende € 907,56 en
 
-- 5. procent van de volgende € 1815,12 van het jaarbedrag, bedoeld in het tweede of zesde lid.
+- 5 procent van de volgende € 1815,12 van het jaarbedrag, bedoeld in het tweede of zesde lid.
 
 #### § 4. Van het pensioenbedrag
 
@@ -178,7 +154,7 @@ Het buitengewoon pensioen wordt éénmaal met twintig procent van de pensioengro
 
 - a. een der ledematen (handen of voeten) is verloren gegaan, of voorgoed geheel onbruikbaar is geworden, dan wel een toestand is ontstaan, die met een zodanig verlies of een zodanige onbruikbaarheid is gelijk te stellen;
 
-- b. twee of meer ledematen dermate in beweeglijkheid of bruikbaarheid zijn verminderd, dat de toestand van de belanghebbende met die onder **a** beschreven is gelijk te stellen;
+- b. twee of meer ledematen dermate in beweeglijkheid of bruikbaarheid zijn verminderd, dat de toestand van de belanghebbende met die onder *a* beschreven is gelijk te stellen;
 
 - c. het gezichtsvermogen door organische oorzaken zodanig is beperkt, dat het vermogen om zich zelfstandig te bewegen er ernstig door wordt getroffen;
 
@@ -210,7 +186,7 @@ Het buitengewoon pensioen wordt éénmaal met veertig procent van de pensioengro
 
 1. Bij algemene maatregel van bestuur worden met inachtneming van de volgende leden regelen vastgesteld betreffende de inkomsten, die voor verrekening met het buitengewoon pensioen in aanmerking komen.
 
-2. De inkomsten van de betrokkene, worden op het buitengewoon pensioen in mindering gebracht voor het bedrag, waarmede het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01), vermeerderd met de inkomsten uit vermogen, alsmede met vijfenzeventig procent van het pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1956, 281) en [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en zeventig procent van de overige inkomsten de grondslag, waarover het buitengewoon pensioen is berekend, overschrijdt.
+2. De inkomsten van de betrokkene, worden op het buitengewoon pensioen in mindering gebracht voor het bedrag, waarmede het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01), vermeerderd met de inkomsten uit vermogen, alsmede met vijfenzeventig procent van het pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (*Stb.* 1956, 281) en [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en zeventig procent van de overige inkomsten de grondslag, waarover het buitengewoon pensioen is berekend, overschrijdt.
 
 Tot de inkomsten van betrokkene als bedoeld in de vorige volzin worden niet gerekend:
 
@@ -218,15 +194,15 @@ Tot de inkomsten van betrokkene als bedoeld in de vorige volzin worden niet gere
 
 - b. inkomsten uit arbeid, arbeidsvervangende inkomsten en inkomsten uit onderneming van zijn echtgenoot;
 
-- c. inkomsten uit vermogen, tot een bedrag van vijfhonderd gulden per 1 januari 2025: elfhonderd negenendertig euro en drieënzeventig eurocent;
+- c. inkomsten uit vermogen, tot een bedrag van vijfhonderd gulden *per 1 januari 2025: elfhonderd negenendertig euro en drieënzeventig eurocent;*
 
 met dien verstande, dat indien met zodanige inkomsten van de echtgenoot of gewezen echtgenoot of uit vermogen reeds rekening is gehouden bij de vaststelling van de pensioengrondslag, een bedrag gelijk aan het met deze inkomsten verband houdende deel van het buitengewoon pensioen op het buitengewoon pensioen in mindering wordt gebracht. Wij bepalen bij algemene maatregel van bestuur in welke gevallen van laatstgenoemde vermindering wordt afgezien. Het in of krachtens de tweede en derde volzin bepaalde vindt geen toepassing, indien zulks zou leiden tot een lager betaalbaar pensioenbedrag.
 
 3. Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering, een pensioen of andere inkomsten worden genoten ten laste van het Rijk, de Republiek Suriname, de Nederlandse Antillen, Aruba, de Republiek Indonesië, een publiekrechtelijk lichaam in een dezer gebieden of een door het openbaar gezag aldaar ingesteld fonds, wordt - behoudens het bepaalde in het vijfde lid - het bedrag van het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01), met het bedrag van die uitkering, dat pensioen of die andere inkomsten verminderd, nadat daarvan is afgetrokken het bedrag ter compensatie ter zake van de premie ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), hetwelk daarin is of naar de voor de buitengewone pensioenen geldende wettelijke maatstaven moet worden geacht te zijn begrepen. Voor zover echter die uitkering, dat pensioen of die andere inkomsten worden genoten uit hoofde van een vrijwillige verzekering, welke werd gesloten op grond van een wettelijk verleende bevoegdheid, of uit hoofde van een verplichte verzekering, welke voor eigen rekening is voortgezet, en door de Sociale verzekeringsbank als zodanig wordt aangemerkt, dan wel krachtens een wettelijke regeling van overeenkomstige strekking als de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), is het bepaalde in de vorige volzin niet van toepassing.
 
-4. Voor de toepassing van de eerste volzin van het vorige lid wordt een afkoopsom krachtens de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553) (**Stb.** 1967, 99) uitsluitend in aanmerking genomen in het jaar van uitbetaling daarvan.
+4. Voor de toepassing van de eerste volzin van het vorige lid wordt een afkoopsom krachtens de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553) (*Stb.* 1967, 99) uitsluitend in aanmerking genomen in het jaar van uitbetaling daarvan.
 
-5. Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering krachtens de Interimwet invaliditeitsrentetrekkers (**Stb.** 1962, 534) of een daarvoor in de plaats tredende uitkering krachtens de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551) (**Stb.** 1967, 102) wordt genoten, wordt - indien dit voor betrokkene voordeliger is - voor de toepassing van het bepaalde in het derde lid die uitkering verminderd met het bedrag van de daarover verschuldigde premie ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), met dien verstande, dat deze vermindering beperkt blijft tot het bedrag, dat over het jaar 1966 in mindering werd gebracht.
+5. Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering krachtens de Interimwet invaliditeitsrentetrekkers (*Stb.* 1962, 534) of een daarvoor in de plaats tredende uitkering krachtens de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551) (*Stb.* 1967, 102) wordt genoten, wordt - indien dit voor betrokkene voordeliger is - voor de toepassing van het bepaalde in het derde lid die uitkering verminderd met het bedrag van de daarover verschuldigde premie ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), met dien verstande, dat deze vermindering beperkt blijft tot het bedrag, dat over het jaar 1966 in mindering werd gebracht.
 
 6. Indien onder het pensioen of de andere inkomsten, bedoeld in de eerste volzin van het derde lid, zijn begrepen bijslagen of toeslagen voor kinderen, die na het tijdstip, hetwelk gediend heeft voor de beoordeling van de pensioengrondslag, zijn geboren of deel zijn gaan uitmaken van het gezin van de gepensioneerde, worden deze bijslagen of toeslagen niet op het buitengewoon pensioen in mindering gebracht. Indien onder het pensioen of andere inkomsten, bedoeld in de eerste volzin van het derde lid, zijn begrepen bedragen, welke worden genoten krachtens in andere wettelijke regelingen voorkomende bepalingen van overeenkomstige strekking als die van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01) van deze wet, worden ook die bedragen niet op het buitengewoon pensioen in mindering gebracht; is evenwel een vermeerdering of vergoeding ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01) van deze wet toegekend, dan wordt die vermeerdering of vergoeding verminderd met het bedrag, dat genoten wordt krachtens de met die artikelen overeenkomende bepalingen in andere wettelijke regelingen.
 
@@ -250,9 +226,9 @@ Het bedrag, genoemd in [artikel 12, tweede lid, onder c](https://wetten.overheid
 
 2. Eveneens recht op buitengewoon pensioen heeft de vrouw, met wie een overleden deelnemer aan het verzet gehuwd is geweest, mits:
 
-- a. de man op de dag waarop de beschikking tot echtscheiding of de ontbinding van het huwelijk is uitgesproken dan wel het geregistreerd partnerschap ingevolge [artikel 80c, onder c en d, van Boek 1 van het Burgerlijk Wetboek](onbekend) is beëindigd, recht op buitengewoon pensioen ontleende aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01) en hij dat recht ook op het tijdstip van zijn overlijden kon doen gelden,
+- a. de man op de dag waarop de beschikking tot echtscheiding of de ontbinding van het huwelijk is uitgesproken dan wel het geregistreerd partnerschap ingevolge artikel 80c, onder c en d, van Boek 1 van het Burgerlijk Wetboek is beëindigd, recht op buitengewoon pensioen ontleende aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01) en hij dat recht ook op het tijdstip van zijn overlijden kon doen gelden,
 
-- b. de onder **a** bedoelde dag ligt na het tijdstip van de inwerkingtreding van de Wet herziening echtscheidingsrecht en de echtscheiding of de ontbinding van het huwelijk niet is uitgesproken met toepassing van het vóór genoemd tijdstip geldende recht, en
+- b. de onder *a* bedoelde dag ligt na het tijdstip van de inwerkingtreding van de Wet herziening echtscheidingsrecht en de echtscheiding of de ontbinding van het huwelijk niet is uitgesproken met toepassing van het vóór genoemd tijdstip geldende recht, en
 
 - c. de vrouw niet als gevolg van hertrouwen, het aangaan van een huwelijk na een geregistreerd partnerschap, het aangaan van een geregistreerd partnerschap na een huwelijk dan wel het opnieuw aangaan van een geregistreerd partnerschap met haar vroegere echtgenoot ter zake van diens overlijden recht op buitengewoon weduwenpensioen verkrijgt,
 
@@ -266,7 +242,7 @@ met dien verstande, dat indien de vrouw op de datum van overlijden van haar vroe
 
 - b. de man, met wie een overleden deelneemster aan het verzet gehuwd is geweest.
 
-Op het buitengewoon pensioen van de in de vorige volzin onder **a** en **b** genoemde personen zijn de bepalingen van deze wet, betrekking hebbende op het buitengewoon pensioen van de in het eerste onderscheidenlijk het tweede lid van dit artikel genoemde personen, van overeenkomstige toepassing.
+Op het buitengewoon pensioen van de in de vorige volzin onder *a* en *b* genoemde personen zijn de bepalingen van deze wet, betrekking hebbende op het buitengewoon pensioen van de in het eerste onderscheidenlijk het tweede lid van dit artikel genoemde personen, van overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -312,21 +288,21 @@ Voor de vaststelling van het recht op buitengewoon pensioen, waarop krachtens de
 
 Het buitengewoon pensioen, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=15&z=2025-01-01&g=2025-01-01), bedraagt:
 
-- a. voor de weduwe, wier echtgenoot het leven heeft verloren in verband met het verzet, dan wel is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), alsmede voor de weduwe van de deelnemer aan het verzet, die is overleden door andere oorzaken dan hiervoor genoemd en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, tenminste zestig procent bedroeg, vijfenzestig procent van de pensioengrondslag, die op grond van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01) of [artikel 41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01) voor de echtgenoot heeft of zou hebben gegolden, indien deze als deelnemer aan het verzet recht op buitengewoon pensioen had of zou hebben gehad. Indien er bij het overlijden van de deelnemer aan het verzet tevens recht of krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), uitzicht op een of meerdere buitengewone pensioenen, als bedoeld onder **i**, bestaat, wordt het buitengewoon weduwenpensioen met het bedrag daarvan verminderd;
+- a. voor de weduwe, wier echtgenoot het leven heeft verloren in verband met het verzet, dan wel is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), alsmede voor de weduwe van de deelnemer aan het verzet, die is overleden door andere oorzaken dan hiervoor genoemd en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, tenminste zestig procent bedroeg, vijfenzestig procent van de pensioengrondslag, die op grond van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01) of [artikel 41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01) voor de echtgenoot heeft of zou hebben gegolden, indien deze als deelnemer aan het verzet recht op buitengewoon pensioen had of zou hebben gehad. Indien er bij het overlijden van de deelnemer aan het verzet tevens recht of krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), uitzicht op een of meerdere buitengewone pensioenen, als bedoeld onder *i*, bestaat, wordt het buitengewoon weduwenpensioen met het bedrag daarvan verminderd;
 
-- b. voor de weduwe van de deelnemer aan het verzet, die het leven heeft verloren door andere oorzaken dan verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, minder dan zestig procent bedroeg, vijfenzestig procent van het pensioen, waarop de deelnemer op het tijdstip van zijn overlijden recht had of zou hebben gehad. Indien er bij het overlijden van de deelnemer aan het verzet tevens recht of krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), uitzicht op een of meer buitengewone pensioenen, als bedoeld onder **j**, bestaat, wordt het buitengewoon weduwenpensioen met het bedrag daarvan verminderd;
+- b. voor de weduwe van de deelnemer aan het verzet, die het leven heeft verloren door andere oorzaken dan verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, minder dan zestig procent bedroeg, vijfenzestig procent van het pensioen, waarop de deelnemer op het tijdstip van zijn overlijden recht had of zou hebben gehad. Indien er bij het overlijden van de deelnemer aan het verzet tevens recht of krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), uitzicht op een of meer buitengewone pensioenen, als bedoeld onder *j*, bestaat, wordt het buitengewoon weduwenpensioen met het bedrag daarvan verminderd;
 
-- c. voor elk kind dat in familierechtelijke betrekking stond tot de deelnemer aan het verzet, die het leven heeft verloren in verband met het verzet, dan wel is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), alsmede voor elk door hem erkend kind, vijftien procent van de eerste € 2268,90 en tien procent van het overige gedeelte van de onder **a** bedoelde pensioengrondslag, indien de andere ouder aan het overlijden van de deelnemer aan het verzet aanspraak op buitengewoon pensioen ontleent; dertig procent van de eerste € 2268,90 en twintig procent van het overige gedeelte van het bedrag van die grondslag, indien de andere ouder aan het overlijden van de deelnemer aan het verzet geen aanspraak op buitengewoon pensioen ontleent. Het vorenstaande is van overeenkomstige toepassing op het kind dat in familierechtelijke betrekking stond tot de deelnemer aan het verzet, die is overleden door andere oorzaken dan hiervoor genoemd en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, tenminste zestig procent bedroeg;
+- c. voor elk kind dat in familierechtelijke betrekking stond tot de deelnemer aan het verzet, die het leven heeft verloren in verband met het verzet, dan wel is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), alsmede voor elk door hem erkend kind, vijftien procent van de eerste € 2268,90 en tien procent van het overige gedeelte van de onder *a* bedoelde pensioengrondslag, indien de andere ouder aan het overlijden van de deelnemer aan het verzet aanspraak op buitengewoon pensioen ontleent; dertig procent van de eerste € 2268,90 en twintig procent van het overige gedeelte van het bedrag van die grondslag, indien de andere ouder aan het overlijden van de deelnemer aan het verzet geen aanspraak op buitengewoon pensioen ontleent. Het vorenstaande is van overeenkomstige toepassing op het kind dat in familierechtelijke betrekking stond tot de deelnemer aan het verzet, die is overleden door andere oorzaken dan hiervoor genoemd en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, tenminste zestig procent bedroeg;
 
-- d. voor elk ander kind ten behoeve van hetwelk de vader, die het leven heeft verloren in verband met het verzet, dan wel is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), een onderhoudsplicht was opgelegd krachtens de bepalingen van het Burgerlijk Wetboek of ten behoeve van hetwelk de vader deze onderhoudsplicht had erkend, vijftien procent van de eerste € 2268,90 en tien procent van het overige gedeelte van de onder **a** bedoelde pensioengrondslag, indien de moeder aan het overlijden van de vader aanspraak op buitengewoon pensioen ontleent; dertig procent van de eerste € 2268,90 en twintig procent van het overige gedeelte van het bedrag van die grondslag, indien de moeder aan het overlijden van de vader geen aanspraak op buitengewoon pensioen ontleent;
+- d. voor elk ander kind ten behoeve van hetwelk de vader, die het leven heeft verloren in verband met het verzet, dan wel is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), een onderhoudsplicht was opgelegd krachtens de bepalingen van het Burgerlijk Wetboek of ten behoeve van hetwelk de vader deze onderhoudsplicht had erkend, vijftien procent van de eerste € 2268,90 en tien procent van het overige gedeelte van de onder *a* bedoelde pensioengrondslag, indien de moeder aan het overlijden van de vader aanspraak op buitengewoon pensioen ontleent; dertig procent van de eerste € 2268,90 en twintig procent van het overige gedeelte van het bedrag van die grondslag, indien de moeder aan het overlijden van de vader geen aanspraak op buitengewoon pensioen ontleent;
 
-- e. voor de ouders of bij ontstentenis van deze de grootouders van de overledene, zoveel als hij in de regel als kostwinner tot hun levensonderhoud bijdroeg, doch niet meer dan veertig procent van de eerste € 2268,90 en dertig procent van het overige bedrag van de boven onder **a** bedoelde pensioengrondslag en wel tot de dood van de langstlevende;
+- e. voor de ouders of bij ontstentenis van deze de grootouders van de overledene, zoveel als hij in de regel als kostwinner tot hun levensonderhoud bijdroeg, doch niet meer dan veertig procent van de eerste € 2268,90 en dertig procent van het overige bedrag van de boven onder *a* bedoelde pensioengrondslag en wel tot de dood van de langstlevende;
 
-- f. voor elk ouderloos kleinkind van de overledene zoveel als hij in de regel als kostwinner tot diens levensonderhoud bijdroeg, doch niet meer dan twintig procent van de eerste € 2268,90 en vijftien procent van het overige bedrag van de boven onder **a** bedoelde pensioengrondslag;
+- f. voor elk ouderloos kleinkind van de overledene zoveel als hij in de regel als kostwinner tot diens levensonderhoud bijdroeg, doch niet meer dan twintig procent van de eerste € 2268,90 en vijftien procent van het overige bedrag van de boven onder *a* bedoelde pensioengrondslag;
 
-- g. voor de schoonouders van de overledene zoveel als hij in de regel als kostwinner tot hun levensonderhoud bijdroeg, doch niet meer dan veertig procent van de eerste € 2268,90 en dertig procent van het overige bedrag van de boven onder **a** bedoelde pensioengrondslag en wel tot de dood van de langstlevende dan wel tot het tijdstip, waarop de overledene, ware hij nog in leven, als behuwdkind jegens hen niet meer onderhoudsplichtig zou zijn geweest;
+- g. voor de schoonouders van de overledene zoveel als hij in de regel als kostwinner tot hun levensonderhoud bijdroeg, doch niet meer dan veertig procent van de eerste € 2268,90 en dertig procent van het overige bedrag van de boven onder *a* bedoelde pensioengrondslag en wel tot de dood van de langstlevende dan wel tot het tijdstip, waarop de overledene, ware hij nog in leven, als behuwdkind jegens hen niet meer onderhoudsplichtig zou zijn geweest;
 
-- h. voor elk kind dat in familierechtelijke betrekking stond tot de deelnemer aan het verzet, die het leven heeft verloren door andere oorzaken dan verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, minder dan zestig procent bedroeg, vijftien procent van de eerste € 2268,90 en zes procent van het overige gedeelte van het onder **b** bedoelde pensioen, indien de andere ouder aan het overlijden van de deelnemer aan het verzet aanspraak op buitengewoon pensioen ontleent; dertig procent van de eerste € 2268,90 en twaalf procent van het overige gedeelte van het bedrag van dat pensioen, indien de andere ouder aan het overlijden van de deelnemer aan het verzet geen aanspraak op buitengewoon pensioen ontleent. Het in dit onderdeel bepaalde is slechts van toepassing op het kind, dat geboren is uit het huwelijk van de hiervoren bedoelde ouders of dat voor de toepassing van deze wet met een kind dat in familierechtelijke betrekking tot de deelnemer aan het verzet staat is gelijkgesteld;
+- h. voor elk kind dat in familierechtelijke betrekking stond tot de deelnemer aan het verzet, die het leven heeft verloren door andere oorzaken dan verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, minder dan zestig procent bedroeg, vijftien procent van de eerste € 2268,90 en zes procent van het overige gedeelte van het onder *b* bedoelde pensioen, indien de andere ouder aan het overlijden van de deelnemer aan het verzet aanspraak op buitengewoon pensioen ontleent; dertig procent van de eerste € 2268,90 en twaalf procent van het overige gedeelte van het bedrag van dat pensioen, indien de andere ouder aan het overlijden van de deelnemer aan het verzet geen aanspraak op buitengewoon pensioen ontleent. Het in dit onderdeel bepaalde is slechts van toepassing op het kind, dat geboren is uit het huwelijk van de hiervoren bedoelde ouders of dat voor de toepassing van deze wet met een kind dat in familierechtelijke betrekking tot de deelnemer aan het verzet staat is gelijkgesteld;
 
 - i. voor de gewezen echtgenote van een overleden deelnemer aan het verzet, die is overleden aan de gevolgen van verwonding, verminking, ziekten of gebreken, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), alsmede voor de gewezen echtgenote van een overleden deelnemer aan het verzet, die is overleden door andere oorzaken dan hiervoor genoemd en wiens invaliditeit, waarnaar zijn buitengewoon pensioen laatstelijk was of zou zijn berekend, ten minste zestig procent bedroeg, een bedrag, berekend volgens de formule: , in welke formule: p voorstelt: het aantal volle jaren, gedurende hetwelk de man in zijn leeftijdsperiode van 25 tot 65 jaar met de vrouw gehuwd is geweest, vermeerderd met het aantal volle jaren, gedurende hetwelk de man in dezelfde leeftijdsperiode vóór het sluiten van dat huwelijk zonder onderbreking ongehuwd is geweest, en q voorstelt: de pensioengrondslag, welke op grond van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01) of [artikel 41a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01) voor de man op het tijdstip van zijn overlijden gold of zou hebben gegolden;
 
@@ -336,11 +312,11 @@ Het buitengewoon pensioen, bedoeld in de [artikelen 14](https://wetten.overheid.
 
 1. De buitengewone pensioenen, toegekend aan de personen, bedoeld in [artikel 17, a, c, d, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), zullen tezamen niet meer mogen bedragen dan negentig procent van de pensioengrondslag, waarnaar die pensioenen zijn berekend, met dien verstande, dat:
 
-- -. de personen, bedoeld in [artikel 17, g](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), alleen aanspraak hebben op buitengewoon pensioen, indien de personen, bedoeld in artikel 17, a, c, d, e, f en i, hun volle buitengewoon pensioen ontvangen hebben;
+- - de personen, bedoeld in [artikel 17, g](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), alleen aanspraak hebben op buitengewoon pensioen, indien de personen, bedoeld in artikel 17, a, c, d, e, f en i, hun volle buitengewoon pensioen ontvangen hebben;
 
-- -. de personen, bedoeld in [artikel 17, f](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), alleen aanspraak hebben op buitengewoon pensioen, indien de personen, bedoeld in artikel 17, a, c, d, e en i, hun volle buitengewoon pensioen ontvangen hebben;
+- - de personen, bedoeld in [artikel 17, f](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), alleen aanspraak hebben op buitengewoon pensioen, indien de personen, bedoeld in artikel 17, a, c, d, e en i, hun volle buitengewoon pensioen ontvangen hebben;
 
-- -. de personen, bedoeld in [artikel 17, d](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01) en e, alleen aanspraak hebben op buitengewoon pensioen, indien de personen, bedoeld in artikel 17, a, c en i, allen hun volle buitengewoon pensioen ontvangen hebben.
+- - de personen, bedoeld in [artikel 17, d](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01) en e, alleen aanspraak hebben op buitengewoon pensioen, indien de personen, bedoeld in artikel 17, a, c en i, allen hun volle buitengewoon pensioen ontvangen hebben.
 
 2. Indien de buitengewone pensioenen van de personen, bedoeld in [artikel 17, a, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), tezamen meer zouden bedragen dan het in het eerste lid voor hen gestelde maximum, zal elk buitengewoon pensioen een evenredige vermindering ondergaan.
 
@@ -358,13 +334,13 @@ Het buitengewoon pensioen, bedoeld in de [artikelen 14](https://wetten.overheid.
 
 ##### Artikel 19
 
-1. De buitengewone pensioenen, toegekend aan de personen, bedoeld in artikel 17, **b**, **h** en **j**, zullen tezamen niet meer mogen bedragen dan tachtig procent van de eerste € 2268,90 en veertig procent van het overige bedrag van de pensioengrondslag.
+1. De buitengewone pensioenen, toegekend aan de personen, bedoeld in artikel 17, *b*, *h* en *j*, zullen tezamen niet meer mogen bedragen dan tachtig procent van de eerste € 2268,90 en veertig procent van het overige bedrag van de pensioengrondslag.
 
-2. Indien de buitengewone pensioenen van de personen, bedoeld in artikel 17, **b**, **h** en **j**, tezamen meer zouden bedragen dan het in het eerste lid voor hen gestelde maximum, zal elk buitengewoon pensioen een evenredige vermindering ondergaan.
+2. Indien de buitengewone pensioenen van de personen, bedoeld in artikel 17, *b*, *h* en *j*, tezamen meer zouden bedragen dan het in het eerste lid voor hen gestelde maximum, zal elk buitengewoon pensioen een evenredige vermindering ondergaan.
 
 3. Ingeval het bepaalde bij het tweede lid is toegepast, en in het aantal op buitengewoon pensioen recht hebbende kinderen wijziging komt, zal de toegepaste evenredige vermindering worden herzien en wel met ingang van de maand volgende op die, waarin de wijziging is ingetreden.
 
-4. Indien het recht op buitengewoon pensioen van een der nagelaten betrekkingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), teniet gaat of krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), later ingaat, alsmede indien het recht op buitengewoon pensioen krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=28&z=2025-01-01&g=2025-01-01) eindigt dan wel opnieuw ingaat, vindt een herziening op grond van het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01) en de voorgaande leden van dit artikel alleen plaats ten aanzien van de buitengewone pensioenen van de overige rechthebbenden, bedoeld in artikel 17, **a**, **b**, **c**, **h**, **i** en **j**.
+4. Indien het recht op buitengewoon pensioen van een der nagelaten betrekkingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), teniet gaat of krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), later ingaat, alsmede indien het recht op buitengewoon pensioen krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=28&z=2025-01-01&g=2025-01-01) eindigt dan wel opnieuw ingaat, vindt een herziening op grond van het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01) en de voorgaande leden van dit artikel alleen plaats ten aanzien van de buitengewone pensioenen van de overige rechthebbenden, bedoeld in artikel 17, *a*, *b*, *c*, *h*, *i* en *j*.
 
 ##### Artikel 20
 
@@ -376,7 +352,7 @@ Het buitengewoon pensioen, bedoeld in de [artikelen 14](https://wetten.overheid.
 
 - a. op een buitengewoon weduwenpensioen, dat geen vermindering als bedoeld in [artikel 17, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), heeft ondergaan: zestig procent;
 
-- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in [artikel 17, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), heeft ondergaan: een evenredig deel van het onder **a** genoemde percentage;
+- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in [artikel 17, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), heeft ondergaan: een evenredig deel van het onder *a* genoemde percentage;
 
 - c. op het buitengewoon pensioen van de gewezen echtgenote, bedoeld in [artikel 17, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), een deel van zestig procent, hetwelk tot dat percentage in dezelfde verhouding staat als het aantal jaren, hetwelk in de in die artikelonderdelen genoemde berekeningsformule door de letter p onderscheidenlijk x wordt voorgesteld, zich verhoudt tot veertig jaar.
 
@@ -388,13 +364,13 @@ Voor een buitengewoon pensioen, toegekend aan de in [artikel 17, b](https://wett
 
 - a. op een buitengewoon weduwenpensioen, dat geen vermindering als bedoeld in [artikel 17, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), heeft ondergaan, en op het buitengewoon wezenpensioen: zestig procent;
 
-- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in [artikel 17, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), heeft ondergaan, een evenredig deel van het onder **a** genoemde percentage;
+- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in [artikel 17, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), heeft ondergaan, een evenredig deel van het onder *a* genoemde percentage;
 
 - c. op het buitengewoon pensioen van de gewezen echtgenote, bedoeld in [artikel 17, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01), een deel van zestig procent, hetwelk tot dat percentage in dezelfde verhouding staat als het aantal jaren, hetwelk in de in die artikelonderdelen genoemde berekeningsformule door de letter p onderscheidenlijk x wordt voorgesteld, zich verhoudt tot veertig jaar.
 
 Het bepaalde in de derde volzin van het derde lid van dit artikel is van overeenkomstige toepassing.
 
-Indien de weduwe tevens in het genot is van een invaliditeitsrente krachtens de Invaliditeitswet, waarop zij tot het in werking treden van dit artikellid, ingevolge de Wet tot aanvulling van renten krachtens de Invaliditeitswet en de wet van 3 februari 1954 (**Stb.** 60) toe- en bijslagen genoot, komt het totaal bedrag dezer toe- en bijslagen in aanmerking voor aftrek op de in de vorige volzin bedoelde vermindering.
+Indien de weduwe tevens in het genot is van een invaliditeitsrente krachtens de Invaliditeitswet, waarop zij tot het in werking treden van dit artikellid, ingevolge de Wet tot aanvulling van renten krachtens de Invaliditeitswet en de wet van 3 februari 1954 (*Stb.* 60) toe- en bijslagen genoot, komt het totaal bedrag dezer toe- en bijslagen in aanmerking voor aftrek op de in de vorige volzin bedoelde vermindering.
 
 Ten aanzien van degene, die aantoont, dat uit hoofde van zijn aanspraak op uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) mede een vermindering plaatsvindt van enig ander pensioen of enige andere verplichte periodieke uitkering, en dat het gezamenlijke bedrag der verminderingen zestig procent van het bedrag van bedoeld bodempensioen overschrijdt, wordt de vermindering, in de vorige volzinnen van dit artikellid bedoeld, zodanig beperkt, dat het inkomen van de belanghebbende zo mogelijk veertig procent van het bedrag van bedoeld bodempensioen meer bedraagt dan ingeval geen uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) wordt genoten.
 
@@ -404,23 +380,23 @@ Ten aanzien van degene, die aantoont, dat uit hoofde van zijn aanspraak op uitke
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ### hoofdstuk Vijfde. Van de aanvraag en de toekenning
 
@@ -448,7 +424,7 @@ De ontvangst van de aanvrage wordt de aanvrager schriftelijk bevestigd. Daarbij 
 
 ##### Artikel 24b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
@@ -460,7 +436,7 @@ Vervallen
 
 4. De beschikking op een aanvrage krachtens [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), wordt gegeven binnen zes maanden na de datum waarop de aanvrage is ingekomen. Indien de Raad ten gevolge van bijzondere omstandigheden niet binnen deze termijn kan beslissen, kan hij eenmaal met ten hoogste vier weken worden verlengd. Van de verlenging doet de Raad schriftelijk mededeling aan de belanghebbende en aan de Stichting 1940–1945.
 
-5. De beschikking op een aanvrage krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), voorzover de aanvrager reeds op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), als deelnemer aan het verzet is erkend, [artikel 11**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=15&z=2025-01-01&g=2025-01-01) voor zover de overleden deelnemer aan het verzet aanspraken op deze wet heeft doen gelden, onderscheidenlijk [artikel 24, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), wordt gegeven binnen dertien weken na de datum waarop de aanvrage is ingekomen. Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstandigheden niet binnen deze termijn kan beslissen, kan hij eenmaal met ten hoogste vier weken worden verlengd. Van de verlenging doet de Raad of de Sociale verzekeringsbank schriftelijk mededeling aan de belanghebbende en aan de Stichting 1940-1945.
+5. De beschikking op een aanvrage krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), voorzover de aanvrager reeds op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), als deelnemer aan het verzet is erkend, [artikel 11*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11a&z=2025-01-01&g=2025-01-01), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=15&z=2025-01-01&g=2025-01-01) voor zover de overleden deelnemer aan het verzet aanspraken op deze wet heeft doen gelden, onderscheidenlijk [artikel 24, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), wordt gegeven binnen dertien weken na de datum waarop de aanvrage is ingekomen. Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstandigheden niet binnen deze termijn kan beslissen, kan hij eenmaal met ten hoogste vier weken worden verlengd. Van de verlenging doet de Raad of de Sociale verzekeringsbank schriftelijk mededeling aan de belanghebbende en aan de Stichting 1940-1945.
 
 6. Met betrekking tot een aanvrage, bedoeld in het vijfde lid, die wordt ingediend terwijl een aanvrage, bedoeld in het derde lid, nog in behandeling is geldt, in afwijking van het vijfde lid, de termijn die resteert voor de beschikking op de aanvrage, bedoeld in het derde lid, tenzij de resterende termijn korter is dan de termijn, bedoeld in het vijfde lid.
 
@@ -492,7 +468,7 @@ Vervallen
 
 3. Een voorlopig buitengewoon pensioen, dat bij vernieuwing wordt toegekend, alsmede een blijvend buitengewoon pensioen, dat verleend wordt ter vervanging van een voorlopig buitengewoon pensioen, gaat in op de dag, volgende op die, waarop het vorige buitengewoon pensioen heeft opgehouden, behalve in de gevallen, genoemd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), in welke gevallen het buitengewoon pensioen ingaat op de dag waarop de aanvrage daartoe is binnengekomen, tenzij de Sociale verzekeringsbank termen aanwezig acht anders te beslissen.
 
-4. Ingeval de aanvrage, bedoeld in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), niet is ontvangen binnen de daar gestelde termijn van twee jaren, zal de vervanging of verlenging van voorlopig buitengewoon pensioen ingaan op de dag, waarop de aanvrage is binnengekomen, tenzij de Sociale verzekeringsbank termen aanwezig acht anders te beslissen.
+4. Ingeval de aanvrage, bedoeld in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=24&z=2025-01-01&g=2025-01-01), niet is ontvangen binnen de daar gestelde termijn van twee jaren, zal de vervanging of verlenging van voorlopig buitengewoon pensioen ingaan op de dag, waarop de aanvrage is binnengekomen, tenzij de Sociale verzekeringsbank termen aanwezig acht anders te beslissen.
 
 ##### Artikel 27
 
@@ -510,11 +486,11 @@ Vervallen
 
 1. Het buitengewoon pensioen van de weduwe en dat van een gewezen echtgenote eindigen voorts bij een volgend door haar gesloten huwelijk en wel met het einde van het kwartaal, in de loop waarvan het huwelijk heeft plaatsgehad. Indien de vrouw dan binnen dertien weken na het sluiten van dat huwelijk een verzoek daartoe indient bij de Sociale verzekeringsbank, ontvangt zij als afkoopsom van haar buitengewoon pensioen een bedrag ineens van tweemaal het jaarbedrag van haar buitengewoon pensioen, verminderd met de bedragen, welke worden genoten krachtens in andere wettelijke regelingen voorkomende bepalingen van overeenkomstige strekking. Wordt een dergelijk verzoek niet gedaan, dan wordt aan de vrouw, indien haar huwelijk wordt ontbonden, op haar aanvrage door de Sociale verzekeringsbank haar vroeger buitengewoon pensioen weder toegekend. Zouden haar echter ter zake van het latere huwelijk pensioen of andere inkomsten toekomen, als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=12&z=2025-01-01&g=2025-01-01), dan vindt deze wetsbepaling overeenkomstige toepassing. Het buitengewoon pensioen gaat dan weer in met de dag volgende op die van de ontbinding van het huwelijk, mits de aanvrage is ingediend binnen één jaar na de datum van de ontbinding van het vorige huwelijk. Wordt de aanvrage later ingediend dan gaat het buitengewoon pensioen in op de dag waarop de aanvrage bij de Sociale verzekeringsbank is binnengekomen.
 
-2. Voor de berekening van de afkoopsom in het eerste lid bedoeld, geldt als bedrag van het buitengewoon pensioen het bedrag, waarop het pensioen zou zijn bepaald zonder de vermindering, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18&z=2025-01-01&g=2025-01-01), of [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01), welk bedrag wordt verminderd met de tijdelijke verhoging, bedoeld in [artikel 18**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18a&z=2025-01-01&g=2025-01-01).
+2. Voor de berekening van de afkoopsom in het eerste lid bedoeld, geldt als bedrag van het buitengewoon pensioen het bedrag, waarop het pensioen zou zijn bepaald zonder de vermindering, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18&z=2025-01-01&g=2025-01-01), of [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01), welk bedrag wordt verminderd met de tijdelijke verhoging, bedoeld in [artikel 18*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18a&z=2025-01-01&g=2025-01-01).
 
-3. Het bepaalde in de vorige leden is van overeenkomstige toepassing ten aanzien van de personen, bedoeld in [artikel 14, vierde lid, eerste volzin, onder **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), alsmede ten aanzien van de moeder, de grootmoeder en de schoonmoeder van een overleden deelnemer aan het verzet.
+3. Het bepaalde in de vorige leden is van overeenkomstige toepassing ten aanzien van de personen, bedoeld in [artikel 14, vierde lid, eerste volzin, onder *a* en *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), alsmede ten aanzien van de moeder, de grootmoeder en de schoonmoeder van een overleden deelnemer aan het verzet.
 
-4. Indien de weduwe in het genot was van een garantietoeslag als bedoeld in [artikel 31**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), bedraagt de afkoopsom, bedoeld in het eerste lid, indien dat voor haar gunstiger is, vierentwintig maal het bedrag van de garantietoeslag, die zij genoot over de maand, voorafgaande aan de maand waarin dat volgende huwelijk heeft plaatsgevonden.
+4. Indien de weduwe in het genot was van een garantietoeslag als bedoeld in [artikel 31*e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), bedraagt de afkoopsom, bedoeld in het eerste lid, indien dat voor haar gunstiger is, vierentwintig maal het bedrag van de garantietoeslag, die zij genoot over de maand, voorafgaande aan de maand waarin dat volgende huwelijk heeft plaatsgevonden.
 
 ##### Artikel 29
 
@@ -522,7 +498,7 @@ Het buitengewoon pensioen van de weduwe en dat van een gewezen echtgenote worden
 
 ##### Artikel 29a
 
-Het buitengewoon pensioen van personen, die zijn gepensioneerd krachtens het bepaalde in artikel 17, **e** en **g**, wordt niet, dan wel slechts ten dele, uitbetaald over de tijd, gedurende welke op grond van de omstandigheden, waarin die personen verkeren, voor uitbetaling, dan wel voor volledige uitbetaling geen noodzaak bestaat.
+Het buitengewoon pensioen van personen, die zijn gepensioneerd krachtens het bepaalde in artikel 17, *e* en *g*, wordt niet, dan wel slechts ten dele, uitbetaald over de tijd, gedurende welke op grond van de omstandigheden, waarin die personen verkeren, voor uitbetaling, dan wel voor volledige uitbetaling geen noodzaak bestaat.
 
 ##### Artikel 30
 
@@ -534,9 +510,9 @@ Een tijdelijk buitengewoon pensioen, verleend op grond van [artikel 16, eerste e
 
 - a. aan de langstlevende der echtgenoten, indien de overledene niet duurzaam van de andere echtgenoot gescheiden leefde;
 
-- b. bij ontstentenis van de onder **a** bedoelde persoon aan de minderjarige kinderen die in familierechtelijke betrekking tot de overledene stonden of minderjarige kinderen, waarvoor de overledene ten tijde van het overlijden de pleegouderlijke zorg droeg;
+- b. bij ontstentenis van de onder *a* bedoelde persoon aan de minderjarige kinderen die in familierechtelijke betrekking tot de overledene stonden of minderjarige kinderen, waarvoor de overledene ten tijde van het overlijden de pleegouderlijke zorg droeg;
 
-- c. bij ontstentenis van de onder **a** en **b** bedoelde personen aan ouders, meerderjarige kinderen, broers of zusters van de overledene, indien de overledene ten tijde van het overlijden grotendeels in de kosten van het bestaan van deze betrekkingen voorzag;
+- c. bij ontstentenis van de onder *a* en *b* bedoelde personen aan ouders, meerderjarige kinderen, broers of zusters van de overledene, indien de overledene ten tijde van het overlijden grotendeels in de kosten van het bestaan van deze betrekkingen voorzag;
 
 - d. bij ontstentenis van de onder a, b en c bedoelde personen aan degenen, ten aanzien van wie de overledene ten tijde van het overlijden grotendeels in de kosten van het bestaan voorzag en met wie hij tot zijn overlijden duurzaam in gezinsverband heeft geleefd.
 
@@ -544,7 +520,7 @@ Een tijdelijk buitengewoon pensioen, verleend op grond van [artikel 16, eerste e
 
 - a. buitengewoon pensioen: het pensioen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=9&z=2025-01-01&g=2025-01-01), verhoogd met de vermeerdering, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01), ongeacht het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=12&z=2025-01-01&g=2025-01-01);
 
-- b. het bedrag van het buitengewoon pensioen: het pensioenbedrag, bedoeld in [artikel 31**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zevende&artikel=31b&z=2025-01-01&g=2025-01-01);
+- b. het bedrag van het buitengewoon pensioen: het pensioenbedrag, bedoeld in [artikel 31*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zevende&artikel=31b&z=2025-01-01&g=2025-01-01);
 
 - c. pleegouderlijke zorg: de zorg voor het onderhoud en de opvoeding van een kind, als ware het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor.
 
@@ -552,9 +528,9 @@ Een tijdelijk buitengewoon pensioen, verleend op grond van [artikel 16, eerste e
 
 4. In het derde lid wordt verstaan onder:
 
-- a. buitengewoon pensioen: het pensioen, bedoeld in artikel 17, **a** en **b**, onderscheidenlijk **i** en **j**, vastgesteld met inachtneming van het bepaalde in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18&z=2025-01-01&g=2025-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01), ongeacht het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=20&z=2025-01-01&g=2025-01-01);
+- a. buitengewoon pensioen: het pensioen, bedoeld in artikel 17, *a* en *b*, onderscheidenlijk *i* en *j*, vastgesteld met inachtneming van het bepaalde in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18&z=2025-01-01&g=2025-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=19&z=2025-01-01&g=2025-01-01), ongeacht het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=20&z=2025-01-01&g=2025-01-01);
 
-- b. het bedrag van het buitengewoon pensioen: het pensioenbedrag, bedoeld in [artikel 31**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zevende&artikel=31b&z=2025-01-01&g=2025-01-01);
+- b. het bedrag van het buitengewoon pensioen: het pensioenbedrag, bedoeld in [artikel 31*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zevende&artikel=31b&z=2025-01-01&g=2025-01-01);
 
 - c. pleegouderlijke zorg: hetgeen daaronder wordt verstaan in het eerste lid.
 
@@ -606,11 +582,11 @@ Voor de toepassing van [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 31c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31d
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7A. De garantietoeslag
 
@@ -622,7 +598,7 @@ Vervallen
 
 - b. de weduwe, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), die recht heeft op een buitengewoon pensioen, dan wel
 
-- c. een weduwnaar, genoemd in [artikel 14, vierde lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), die recht heeft op een buitengewoon pensioen, lager is dan het op grond van [artikel 31**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31f&z=2025-01-01&g=2025-01-01) van toepassing zijnde normbedrag, wordt aan die buitengewoon gepensioneerde een garantietoeslag verleend, gelijk aan het verschil tussen zijn of haar maandinkomen en het van toepassing zijnde normbedrag.
+- c. een weduwnaar, genoemd in [artikel 14, vierde lid, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=14&z=2025-01-01&g=2025-01-01), die recht heeft op een buitengewoon pensioen, lager is dan het op grond van [artikel 31*f*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31f&z=2025-01-01&g=2025-01-01) van toepassing zijnde normbedrag, wordt aan die buitengewoon gepensioneerde een garantietoeslag verleend, gelijk aan het verschil tussen zijn of haar maandinkomen en het van toepassing zijnde normbedrag.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het inkomen, bedoeld in het eerste lid.
 
@@ -638,17 +614,23 @@ Het van toepassing zijnde normbedrag bedraagt:
 
 De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de garantietoeslag is ontstaan.
 
-### hoofdstuk Achtste. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
+### Hoofdstuk 7B. De toeslag inkomensafhankelijke premie
 
 ##### Artikel 31h
 
 1. Indien de pensioengerechtigde over zijn buitengewoon pensioen of garantietoeslag de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43), verschuldigd is, heeft hij recht op een toeslag. Deze toeslag bedraagt het percentage van het buitengewoon pensioen of de garantietoeslag dat overeenkomt met het bijdragepercentage, bedoeld in [artikel 45, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=45), vermenigvuldigd met anderhalf, voorzover het pensioen of de garantietoeslag is te rekenen tot het deel van het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, onderdeel a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43).
 
-2. Indien de pensioengerechtigde over zijn buitengewoon pensioen of garantietoeslag de bijdrage, bedoeld in [artikel 68b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68b), of [artikel 69, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), verschuldigd is, heeft hij recht op een toeslag. Voor de berekening van deze toeslag is het eerste lid, tweede volzin, van overeenkomstige toepassing.
+2. Indien de pensioengerechtigde over zijn buitengewoon pensioen of garantietoeslag de bijdrage, bedoeld in [artikel 68b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68b), of [artikel 69, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), verschuldigd is, heeft hij recht op een toeslag. Voor de berekening van deze toeslag is het eerste lid, tweede volzin, van overeenkomstige toepassing.
 
 3. Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43).
 
 4. Op de toeslagen, bedoeld in het eerste en tweede lid, is het [achtste hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Achtste&z=2025-01-01&g=2025-01-01) van toepassing, met uitzondering van de [artikelen 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Achtste&artikel=31i&z=2025-01-01&g=2025-01-01) en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Achtste&artikel=35a&z=2025-01-01&g=2025-01-01).
+
+### hoofdstuk Achtste. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
+
+##### Artikel 31i
+
+Het buitengewoon pensioen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=9&z=2025-01-01&g=2025-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01) en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18a&z=2025-01-01&g=2025-01-01), de garantietoeslag genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), alsmede de vermeerdering, genoemd in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01), worden naar boven afgerond tot hele euro’s.
 
 ##### Artikel 32
 
@@ -678,9 +660,9 @@ De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de
 
 - 2. wanneer de gepensioneerde:
 
-- a. van Nederlandse nationaliteit zijnde, zonder Onze toestemming zich in vreemde krijgsdienst of vreemde burgerlijke overheidsdienst begeeft;
+   - a. van Nederlandse nationaliteit zijnde, zonder Onze toestemming zich in vreemde krijgsdienst of vreemde burgerlijke overheidsdienst begeeft;
 
-- b. niet van Nederlandse nationaliteit zijnde, zich in vreemde krijgsdienst of vreemde burgerlijke overheidsdienst bevindt of begeeft bij een mogendheid, die met Nederland in oorlog is, ook al is die mogendheid zijn eigen vaderland.
+   - b. niet van Nederlandse nationaliteit zijnde, zich in vreemde krijgsdienst of vreemde burgerlijke overheidsdienst bevindt of begeeft bij een mogendheid, die met Nederland in oorlog is, ook al is die mogendheid zijn eigen vaderland.
 
 2. In bijzondere gevallen kan een op grond van dit artikel vervallen buitengewoon pensioen door de Sociale verzekeringsbank opnieuw worden toegekend. Een dergelijk besluit wordt niet genomen dan nadat daarin bij koninklijk besluit is toegestemd. Toestemming kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
@@ -694,15 +676,15 @@ De Sociale verzekeringsbank is bevoegd geheel of gedeeltelijk van invordering af
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36a
 
-1. De pensioenbedragen, bedoeld in [artikel 31**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zevende&artikel=31b&z=2025-01-01&g=2025-01-01), de overlijdensuitkering, bedoeld in [artikel 30**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=30a&z=2025-01-01&g=2025-01-01), de garantietoeslag, bedoeld in [artikel 31**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), en de vergoedingen zijn niet vatbaar voor vervreemding of verpanding.
+1. De pensioenbedragen, bedoeld in [artikel 31*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zevende&artikel=31b&z=2025-01-01&g=2025-01-01), de overlijdensuitkering, bedoeld in [artikel 30*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=30a&z=2025-01-01&g=2025-01-01), de garantietoeslag, bedoeld in [artikel 31*e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), en de vergoedingen zijn niet vatbaar voor vervreemding of verpanding.
 
-2. De overlijdensuitkering, bedoeld in [artikel 30**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=30a&z=2025-01-01&g=2025-01-01), en de vergoedingen zijn niet vatbaar voor beslag.
+2. De overlijdensuitkering, bedoeld in [artikel 30*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=30a&z=2025-01-01&g=2025-01-01), en de vergoedingen zijn niet vatbaar voor beslag.
 
-3. Volmacht tot ontvangst van het buitengewoon pensioen, van de overlijdensuitkering, bedoeld in [artikel 30**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=30a&z=2025-01-01&g=2025-01-01), de garantietoeslag, bedoeld in [artikel 31**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), of van de vergoedingen is steeds herroepelijk.
+3. Volmacht tot ontvangst van het buitengewoon pensioen, van de overlijdensuitkering, bedoeld in [artikel 30*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=30a&z=2025-01-01&g=2025-01-01), de garantietoeslag, bedoeld in [artikel 31*e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), of van de vergoedingen is steeds herroepelijk.
 
 4. Elk beding, strijdig met enige bepaling van dit artikel, is nietig.
 
@@ -714,13 +696,13 @@ In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 37a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37b
 
 1. Van de beslissing op het bezwaarschrift wordt mededeling gedaan aan de Stichting 1940-1945.
 
-2. [Artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=25b&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
+2. [Artikel 25*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=25b&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
 3. In afwijking van [artikel 7:10, eerste, derde en vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de Raad of de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken. Ingeval van bijzondere omstandigheden kan deze termijn eenmaal met ten hoogste vier weken worden verlengd. Van de verlenging doet de Raad of de Sociale verzekeringsbank schriftelijk mededeling aan de belanghebbende en aan de Stichting 1940-1945.
 
@@ -728,7 +710,7 @@ Vervallen
 
 ##### Artikel 37c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
@@ -736,15 +718,15 @@ In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 38a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ### hoofdstuk Tiende. Van herziening van gegeven beschikkingen
 
@@ -778,63 +760,7 @@ De Raad of de Sociale verzekeringsbank is bevoegd, op daartoe door of vanwege de
 
 ##### Artikel 42b
 
-Op een beschikking, voortvloeiende uit de toepassing van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41&z=2025-01-01&g=2025-01-01), [41**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01) en [42**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=42a&z=2025-01-01&g=2025-01-01) is het vijfde hoofdstuk van overeenkomstige toepassing, met uitzondering van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=25&z=2025-01-01&g=2025-01-01), en [artikel 25**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=25a&z=2025-01-01&g=2025-01-01).
-
-### hoofdstuk Elfde. Slotbepalingen
-
-##### Artikel 43
-
-De belanghebbende is verplicht desgevraagd die inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet of krachtens deze wet vastgestelde algemene maatregelen van bestuur.
-
-##### Artikel 44
-
-Vervallen.
-
-##### Artikel 45
-
-Vervallen
-
-##### Artikel 45a
-
-1. De schoonouders, die op de dag, voorafgaande aan die, waarop [artikel 396, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) (nieuw) in werking treedt, recht hebben op buitengewoon pensioen krachtens [artikel 15, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=15&z=2025-01-01&g=2025-01-01), juncto artikel 17, g, behouden dit recht, indien en voor zolang zij dit zouden hebben, wanneer artikel 464 van het Burgerlijk Wetboek (oud) nog van kracht zou zijn.
-
-2. De schoonmoeder, die op de dag, voorafgaande aan die, waarop [artikel 396, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) (nieuw) in werking treedt, uitzicht heeft op wedertoekenning van buitengewoon pensioen krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=28&z=2025-01-01&g=2025-01-01), behoudt dit uitzicht, indien en voor zolang zij dit zou hebben, wanneer artikel 464 van het Burgerlijk Wetboek (oud) nog van kracht zou zijn.
-
-##### Artikel 46
-
-De ter uitvoering van deze wet nodige bepalingen worden bij algemene maatregel van bestuur vastgesteld.
-
-##### Artikel 47
-
-Deze wet kan worden aangehaald onder de titel "Wet buitengewoon pensioen 1940-1945".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### hoofdstuk Achtste. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
-
-##### Artikel 31h
-
-Het buitengewoon pensioen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=9&z=2008-02-22&g=2008-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2008-02-22&g=2008-01-01) en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18a&z=2008-02-22&g=2008-01-01), de garantietoeslag genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2008-02-22&g=2008-01-01), alsmede de vermeerdering, genoemd in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2008-02-22&g=2008-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2008-02-22&g=2008-01-01), worden naar boven afgerond tot hele euro’s.
-
-##### Artikel 31i
-
-Het buitengewoon pensioen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=9&z=2025-01-01&g=2025-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=17&z=2025-01-01&g=2025-01-01) en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=2&artikel=18a&z=2025-01-01&g=2025-01-01), de garantietoeslag genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=7A&artikel=31e&z=2025-01-01&g=2025-01-01), alsmede de vermeerdering, genoemd in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=10&z=2025-01-01&g=2025-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01), worden naar boven afgerond tot hele euro’s.
-
-### hoofdstuk Negende. Van het indienen van een bezwaarschrift en van beroep
-
-### hoofdstuk Tiende. Van herziening van gegeven beschikkingen
-
-### hoofdstuk Elfde. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### hoofdstuk Negende. Van het indienen van een bezwaarschrift en van beroep
-
-### hoofdstuk Tiende. Van herziening van gegeven beschikkingen
-
-### hoofdstuk Elfde. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Op een beschikking, voortvloeiende uit de toepassing van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41&z=2025-01-01&g=2025-01-01), [41*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=41a&z=2025-01-01&g=2025-01-01) en [42*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Tiende&artikel=42a&z=2025-01-01&g=2025-01-01) is het vijfde hoofdstuk van overeenkomstige toepassing, met uitzondering van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=25&z=2025-01-01&g=2025-01-01), en [artikel 25*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Vijfde&artikel=25a&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 42c
 
@@ -868,42 +794,28 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### hoofdstuk Elfde. Slotbepalingen
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 43
 
-##### Artikel 1b
+De belanghebbende is verplicht desgevraagd die inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet of krachtens deze wet vastgestelde algemene maatregelen van bestuur.
 
-Waar in deze wet in een artikel of artikellid sprake is van «de Raad of de Sociale verzekeringsbank» is de taakverdeling in overeenstemming met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4) en [6 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6).
+##### Artikel 44
 
-### hoofdstuk Tweede. Van het buitengewoon pensioen van de deelnemers aan het verzet
+*Vervallen.*
 
-#### § 1. Van het recht op buitengewoon pensioen
+##### Artikel 45
 
-#### § 2. Van de voet waarop buitengewoon pensioen wordt verleend
+*Vervallen*
 
-#### § 3. Van de pensioengrondslag
+##### Artikel 45a
 
-#### § 4. Van het pensioenbedrag
+1. De schoonouders, die op de dag, voorafgaande aan die, waarop [artikel 396, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) (nieuw) in werking treedt, recht hebben op buitengewoon pensioen krachtens [artikel 15, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Derde&paragraaf=1&artikel=15&z=2025-01-01&g=2025-01-01), juncto artikel 17, g, behouden dit recht, indien en voor zolang zij dit zouden hebben, wanneer artikel 464 van het Burgerlijk Wetboek (oud) nog van kracht zou zijn.
 
-### hoofdstuk Derde. Van het pensioen der nagelaten betrekkingen
+2. De schoonmoeder, die op de dag, voorafgaande aan die, waarop [artikel 396, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) (nieuw) in werking treedt, uitzicht heeft op wedertoekenning van buitengewoon pensioen krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&hoofdstuk=Zesde&artikel=28&z=2025-01-01&g=2025-01-01), behoudt dit uitzicht, indien en voor zolang zij dit zou hebben, wanneer artikel 464 van het Burgerlijk Wetboek (oud) nog van kracht zou zijn.
 
-#### § 1. Van het recht op buitengewoon pensioen
+##### Artikel 46
 
-#### § 2. Van de berekening van het buitengewoon pensioen
+De ter uitvoering van deze wet nodige bepalingen worden bij algemene maatregel van bestuur vastgesteld.
 
-### hoofdstuk Vierde. Van de Buitengewone Pensioenraad
+##### Artikel 47
 
-### hoofdstuk Vijfde. Van de aanvraag en de toekenning
-
-### hoofdstuk Zesde. Van ingang en einde der buitengewone pensioenen
-
-### hoofdstuk Zevende. Van de welvaartsvastheid der buitengewone pensioenen
-
-### Hoofdstuk 7A. De garantietoeslag
-
-### Hoofdstuk 7B. De toeslag inkomensafhankelijke premie
-
-### hoofdstuk Achtste. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
-
-### hoofdstuk Elfde. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet kan worden aangehaald onder de titel "Wet buitengewoon pensioen 1940-1945".

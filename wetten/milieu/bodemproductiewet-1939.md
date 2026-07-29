@@ -1,45 +1,18 @@
 ---
 title: "Wet van 24 juni 1939, houdende regelen met betrekking tot de bodemproductie in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden"
+citeertitel: "Bodemproductiewet 1939"
 identifier: "BWBR0001996"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001996"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1262413"
-version_id: "1868802"
-internal_id: "C1868801"
-label_id: "1222384"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001996/2019-01-01/0"
-intitule_bron: "Stb.1939-632"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1939-06-24"
-intitule_status: "goed"
-original_publication: "Stb.1997-580"
-original_signed_date: "1997-12-04"
-original_published_date: "1997-12-18"
-original_effect: "structuurwijziging"
-original_dossier: "25464"
-original_url_id: "stb-1997-580"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0001996&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0001996&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Bodemproductiewet 1939"
-signed_date: "1997-12-04"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0001996"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 juni 1939, houdende regelen met betrekking tot de bodemproductie in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stellen met betrekking tot de bodemproductie in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -51,7 +24,7 @@ Deze wet verstaat onder:
 
 ##### Artikel 2
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, ten behoeve van de landsverdediging genomen krachtens:
 
@@ -69,17 +42,17 @@ De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij
 
 - g. de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- h. de [Wegenverkeerswet 1994](onbekend).
+- h. de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622).
 
 ##### Artikel 3
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Bij of krachtens algemeenen maatregel van bestuur kunnen algemeene en bijzondere voorschriften worden gegeven met betrekking tot de bodemproductie en de bestemming van den bodem.
 
 ##### Artikel 4
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 In verband met de in het vorige artikel bedoelde voorschriften kunnen uitkeeringen in geld worden gedaan overeenkomstig bij of krachtens algemeenen maatregel van bestuur te stellen regelen.
 
@@ -89,25 +62,25 @@ Bij de uitvoering van deze wet doet Onze Minister zich bijstaan door een regeeri
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze wet gestelde verplichtingen.
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Indien de regeeringscommissaris voor de bodemproductie of door hem gemachtigde personen het voor de uitvoering van deze wet noodig achten iemands grond te betreden of bedrijfsgebouwen binnen te gaan, moeten zoowel de eigenaren als de gebruikers van dien grond en die bedrijfsgebouwen dit te allen tijde gedoogen.
 
@@ -115,29 +88,29 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 10a
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de personen, die daartoe zijn aangewezen bij besluit van Onze Minister of bij besluit van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde regeringscommissaris.
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -157,6 +130,4 @@ Deze wet kan worden aangehaald onder den titel "Bodemproductiewet 1939".
 
 6. Het besluit, bedoeld in het tweede, vierde en vijfde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-7. Het besluit, bedoeld in het tweede, vierde en vijfde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+7. Het besluit, bedoeld in het tweede, vierde en vijfde lid, wordt in ieder geval geplaatst in het *Staatsblad*.

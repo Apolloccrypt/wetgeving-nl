@@ -1,58 +1,18 @@
 ---
 title: "Besluit van 17 december 1932, tot uitvoering van artikel 22, artikel 23, 8ste en 9de lid en van artikel 43, der Schepenwet"
+citeertitel: "Besluit ex artikel 22 Schepenwet"
 identifier: "BWBR0001957"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2000-03-01"
-last_updated: "2000-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001957"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "2594533"
-version_id: "3908302"
-internal_id: "C3908301"
-label_id: "2539794"
-dtd_version: "2.0"
-original_entry_into_force: "1933-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001957/2000-03-01/0"
-intitule_bron: "Stb.1932-621"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1932-12-17"
-intitule_status: "goed"
-original_publication: "Stb.1932-621"
-original_signed_date: "1932-12-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1933-01-01"
-jci_1_3: "jci1.3:c:BWBR0001957&z=2000-03-01&g=2000-03-01"
-jci_1_0: "1.0:c:BWBR0001957&g=2000-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 22 Schepenwet"
-signed_date: "1932-12-17"
-entry_into_force: "1933-01-01"
+publicatiedatum: 1933-01-01
+laatste_update: 2000-03-01
+status: geldig
+toestand: 2000-03-01
+bron: "https://wetten.overheid.nl/BWBR0001957"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 17 december 1932, tot uitvoering van artikel 22, artikel 23, 8ste en 9de lid en van artikel 43, der Schepenwet
-
-Overwegende, dat het ter uitvoering van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=22), [23, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=23), en [43, vijfde lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=43), mede gelet op artikel 26**bis** dier wet, nodig is:
-
-nadere regelen vast te stellen, in acht te nemen bij de behandeling van bij de voorzitter van de Raad voor de Scheepvaart of de Commissie van Onderzoek in de Nederlandse Antillen ingestelde beroepen, alsmede betreffende de aan de deurwaarders toe te kennen vergoedingen voor hun verrichtingen ten behoeve van de Raad of voornoemde Commissie van Onderzoek;
-
-de werkkring en de bevoegdheden te regelen van de voorzitter, de leden en de secretaris van de Raad voor de Scheepvaart en van de Commissie van Onderzoek in de Nederlandse Antillen, zomede van hun plaatsvervangers;
-
-de werkkring en de bevoegdheden te regelen van het hoofd en van andere ambtenaren van de scheepvaartinspectie in verband met hun arbeid bij de Raad voor de Scheepvaart en de Commissie van Onderzoek in de Nederlandse Antillen;
-
-Op de voordracht van Onzen Minister van Waterstaat van 7 December 1932, La. E.E., afdeeling Vervoer- en Mijnwezen;
-
-Den Raad van State gehoord (advies van 13 December 1932, n°. 35);
-
-Gezien het nader rapport van Onzen Minister van Waterstaat van 15 December 1932, La. H.H., afdeeling Vervoer- en Mijnwezen;
-
-Hebben goedgevonden en verstaan:
-
-met ingang van den dag, waarop de Wet van 31 December 1931 (**Staatsblad** n°. 587) tot wijziging van de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876), in werking treedt,
-
-in te trekken Ons besluit van den 5den October 1909 (**Staatsblad** n°. 333), gewijzigd bij Ons besluit van den 28sten September 1914 (**Staatsblad** n°. 465);
-
-vast te stellen de navolgende regelen, als bedoeld bij de artikelen 22, 23, achtste en negende lid, en 43, vijfde lid, der [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876);
 
 ##### Artikel 1
 
@@ -193,5 +153,3 @@ Hetgeen in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001957&arti
 ##### Artikel 17
 
 Het hoofd van de scheepvaartinspectie of degene, die hem vervangt, heeft het recht ter zittingen van den Raad vragen te stellen aan de getuigen, deskundigen, betrokkenen en aangeklaagden en zoodanige vorderingen te doen en toe te lichten als hij noodig acht. Dit recht wordt ter zitting van de Commissies van Onderzoek in de Nederlandse Antillen en in Aruba door het districtshoofd aldaar uitgeoefend krachtens mandaat van het hoofd van de scheepvaartinspectie.
-
-Onze Minister van Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.

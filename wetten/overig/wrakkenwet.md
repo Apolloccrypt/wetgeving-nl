@@ -1,42 +1,18 @@
 ---
 title: "Wet van 19 juli 1934, tot vaststelling van bepalingen omtrent de opruiming van vaartuigen en andere voorwerpen, in openbare wateren gestrand, gezonken of aan den grond geraakt of in waterkeeringen of andere waterstaatswerken vastgeraakt"
+citeertitel: "Wrakkenwet"
 identifier: "BWBR0001963"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001963"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "611083"
-version_id: "887522"
-internal_id: "C887521"
-label_id: "593194"
-dtd_version: "2.0"
-original_entry_into_force: "1934-09-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001963/2021-07-01/0"
-intitule_bron: "Stb.1934-401"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1934-07-19"
-intitule_status: "goed"
-original_publication: "Stb.1934-401"
-original_signed_date: "1934-07-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1934-09-03"
-jci_1_3: "jci1.3:c:BWBR0001963&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0001963&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wrakkenwet"
-signed_date: "1934-07-19"
-entry_into_force: "1934-09-03"
+publicatiedatum: 1934-09-03
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0001963"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 19 juli 1934, tot vaststelling van bepalingen omtrent de opruiming van vaartuigen en andere voorwerpen, in openbare wateren gestrand, gezonken of aan den grond geraakt of in waterkeeringen of andere waterstaatswerken vastgeraakt
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodig is wettelijke bepalingen vast te stellen omtrent de opruiming van vaartuigen en andere voorwerpen, in openbare wateren gestrand, gezonken of aan den grond geraakt of op of in waterkeeringen of andere waterstaatswerken vastgeraakt;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -86,7 +62,7 @@ De beheerder kan niet aansprakelijk worden gesteld voor afgifte van het geborgen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -98,7 +74,7 @@ Handelingen in strijd met het bepaalde in het [tweede lid van artikel 2](https:/
 
 ##### Artikel 12
 
-Met het tijdstip van de inwerkingtreding van deze wet vervalt de wet van 23 Juli 1885 (**Staatsblad** n°. 151). Zij blijft intusschen van toepassing op die opruimingen, ten aanzien van welke reeds vóór de inwerkingtreding dezer wet artikel 2 der wet van 23 Juli 1885 toepassing heeft gevonden.
+Met het tijdstip van de inwerkingtreding van deze wet vervalt de wet van 23 Juli 1885 (*Staatsblad* n°. 151). Zij blijft intusschen van toepassing op die opruimingen, ten aanzien van welke reeds vóór de inwerkingtreding dezer wet artikel 2 der wet van 23 Juli 1885 toepassing heeft gevonden.
 
 ##### Artikel 12a
 
@@ -111,5 +87,3 @@ de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&ar
 ##### Artikel 13
 
 Deze wet kan worden aangehaald onder den naam "Wrakkenwet".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

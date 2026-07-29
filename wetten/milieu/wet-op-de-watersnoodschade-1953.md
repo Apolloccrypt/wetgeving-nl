@@ -1,44 +1,18 @@
 ---
 title: "Wet van 24 december 1953, houdende regeling omtrent het verlenen van bijdragen door de Staat in materiële schade, geleden als gevolg van de op 1 februari 1953 ingetreden watersnood"
+citeertitel: "Wet op de Watersnoodschade 1953"
 identifier: "BWBR0002128"
-country: "nl"
-rank: "wet"
-publication_date: "1971-01-01"
-last_updated: "1971-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002128"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1397923"
-version_id: "2097822"
-internal_id: "C2097821"
-label_id: "1356514"
-dtd_version: "2.0"
-original_entry_into_force: "1954-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002128/1971-01-01/0"
-intitule_bron: "Stb.1953-661"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-12-24"
-intitule_status: "goed"
-original_publication: "Stb.1953-661"
-original_signed_date: "1953-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "3009"
-entry_into_force_date: "1954-01-16"
-entry_into_force_dossier: "3009"
-jci_1_3: "jci1.3:c:BWBR0002128&z=1971-01-01&g=1971-01-01"
-jci_1_0: "1.0:c:BWBR0002128&g=1971-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de Watersnoodschade 1953"
-signed_date: "1953-12-24"
-entry_into_force: "1954-01-16"
+publicatiedatum: 1954-01-16
+laatste_update: 1971-01-01
+status: geldig
+toestand: 1971-01-01
+bron: "https://wetten.overheid.nl/BWBR0002128"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 december 1953, houdende regeling omtrent het verlenen van bijdragen door de Staat in materiële schade, geleden als gevolg van de op 1 februari 1953 ingetreden watersnood
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijke regeling in het leven te roepen omtrent het verlenen van bijdragen door de Staat in materiële schade, geleden als gevolg van de op 1 Februari 1953 ingetreden watersnood;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -222,7 +196,7 @@ de herbouw-, heraanschaffings- of herstelkosten met een dienovereenkomstig bedra
 
 2. Geen bijdrage wordt verleend met betrekking tot geld en geldswaardige papieren of met betrekking tot goederen, welke zelfstandig geen verkoopwaarde bezitten.
 
-3. Het bepaalde in lid 1, onder **a** en **b**, lijdt uitzondering in gevallen, waarin de belanghebbende giften in geld of goederen heeft ontvangen van derden, met dien verstande, dat alsdan op de bijdrage in mindering wordt gebracht het bedrag, waarmede het totaal van de volgens de voorafgaande artikelen berekende bijdrage en de giften de gezamenlijke werkelijke herbouw-, heraanschaffings- of herstelkosten mocht overtreffen.
+3. Het bepaalde in lid 1, onder *a* en *b*, lijdt uitzondering in gevallen, waarin de belanghebbende giften in geld of goederen heeft ontvangen van derden, met dien verstande, dat alsdan op de bijdrage in mindering wordt gebracht het bedrag, waarmede het totaal van de volgens de voorafgaande artikelen berekende bijdrage en de giften de gezamenlijke werkelijke herbouw-, heraanschaffings- of herstelkosten mocht overtreffen.
 
 4. Onze Minister van Financiën kan nadere voorschriften geven voor de uitvoering van de vorige leden.
 
@@ -318,7 +292,7 @@ De bijdrage wordt, voorzover in deze wet niet anders wordt bepaald, betaalbaar g
 
 ##### Artikel 37
 
-Onze Minister van Financiën stelt regelen omtrent de wijze, waarop de betaalbaarstelling van de bijdrage plaats vindt, ingeval meer dan een persoon rechthebbende is, alsmede omtrent de wijze, waarop bij toepassing van het bepaalde in [artikel 36, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&hoofdstuk=III&artikel=36&z=1971-01-01&g=1971-01-01), laatste zin, en lid 5, de verdeling van de bijdrage plaats vindt. Deze regelen worden bekend gemaakt in de **Nederlandse Staatscourant**.
+Onze Minister van Financiën stelt regelen omtrent de wijze, waarop de betaalbaarstelling van de bijdrage plaats vindt, ingeval meer dan een persoon rechthebbende is, alsmede omtrent de wijze, waarop bij toepassing van het bepaalde in [artikel 36, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&hoofdstuk=III&artikel=36&z=1971-01-01&g=1971-01-01), laatste zin, en lid 5, de verdeling van de bijdrage plaats vindt. Deze regelen worden bekend gemaakt in de *Nederlandse Staatscourant*.
 
 ##### Artikel 38
 
@@ -420,7 +394,7 @@ Onze Minister van Financiën kan regelen stellen, waarbij wordt vastgesteld in w
 
 4. De met de behandeling belaste kamer beslist in hoogste ressort.
 
-5. In gevallen, bij de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&hoofdstuk=IV&artikel=45&z=1971-01-01&g=1971-01-01) en 46 en in de vorige leden niet voorzien, kan het Scheidsgerecht zelf regelen stellen ten aanzien van de rechtsgang.
+5. In gevallen, bij de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&hoofdstuk=IV&artikel=45&z=1971-01-01&g=1971-01-01) en [46](https://wetten.overheid.nl/BWBR0002128) en in de vorige leden niet voorzien, kan het Scheidsgerecht zelf regelen stellen ten aanzien van de rechtsgang.
 
 ### Hoofdstuk V. Bijzondere bepalingen
 
@@ -462,7 +436,7 @@ Bij onteigening van een herstelbaar beschadigd gebouwd onroerend goed gaat het r
 
 5. Voor een aanslag, opgelegd na het overlijden van de schuldenaar, zijn diens erfgenamen niet verder aansprakelijk dan ieder ten belope van zijn erfdeel, vermeerderd met het bedrag van hetgeen hem is gelegateerd.
 
-6. Met betrekking tot overeenkomstig lid 3 terug te vorderen bedragen is het bepaalde in de wet van 22 mei 1845 (**Stb.** 22) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645), van toepassing, met dien verstande, dat:
+6. Met betrekking tot overeenkomstig lid 3 terug te vorderen bedragen is het bepaalde in de wet van 22 mei 1845 (*Stb.* 22) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645), van toepassing, met dien verstande, dat:
 
 - a. het terug te vorderen bedrag wordt gelijkgesteld met inkomstenbelasting;
 
@@ -554,7 +528,7 @@ Voor levende have, dienende voor de uitoefening van een agrarisch bedrijf, welke
 
 ##### Artikel 62
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 63
 
@@ -563,5 +537,3 @@ Deze wet treedt in werking met ingang van de dag, volgende op die van haar afkon
 ##### Artikel 64
 
 Deze wet kan worden aangehaald als "Wet op de Watersnoodschade 1953".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,42 +1,18 @@
 ---
 title: "Wet van 11 september 1936, houdende voorzieningen omtrent weerkorpsen"
+citeertitel: "Wet op de weerkorpsen"
 identifier: "BWBR0001980"
-country: "nl"
-rank: "wet"
-publication_date: "1999-04-01"
-last_updated: "1999-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001980"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1399343"
-version_id: "2098612"
-internal_id: "C2098611"
-label_id: "1357144"
-dtd_version: "2.0"
-original_entry_into_force: "1939-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001980/1999-04-01/0"
-intitule_bron: "Stb.1936-206"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1936-09-11"
-intitule_status: "goed"
-original_publication: "Stb.1936-206"
-original_signed_date: "1936-09-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1939-02-01"
-jci_1_3: "jci1.3:c:BWBR0001980&z=1999-04-01&g=1999-04-01"
-jci_1_0: "1.0:c:BWBR0001980&g=1999-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de weerkorpsen"
-signed_date: "1936-09-11"
-entry_into_force: "1939-02-01"
+publicatiedatum: 1939-02-01
+laatste_update: 1999-04-01
+status: geldig
+toestand: 1999-04-01
+bron: "https://wetten.overheid.nl/BWBR0001980"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 11 september 1936, houdende voorzieningen omtrent weerkorpsen
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is enkele voorzieningen te treffen omtrent weerkorpsen;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. De weerkorpsen
 
@@ -72,36 +48,34 @@ Zij treedt op een door Ons te bepalen tijdstip in werking.
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

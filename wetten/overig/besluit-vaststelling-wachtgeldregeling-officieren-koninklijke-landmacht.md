@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor officieren behoorende tot de Koninklijke Landmacht"
+citeertitel: "Besluit vaststelling wachtgeldregeling officieren Koninklijke Landmacht"
 identifier: "BWBR0001966"
-country: "nl"
-rank: "kb"
-publication_date: "1957-01-01"
-last_updated: "1957-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001966"
+categorie: "Overig"
 soort: "KB"
-stam_id: "1176003"
-version_id: "1736892"
-internal_id: "C1736891"
-label_id: "1139444"
-dtd_version: "2.0"
-original_entry_into_force: "1935-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001966/1957-01-01/0"
-intitule_bron: "Stb.1935-514"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1935-08-17"
-intitule_status: "goed"
-original_publication: "Stb.1935-514"
-original_signed_date: "1935-08-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1935-09-22"
-jci_1_3: "jci1.3:c:BWBR0001966&z=1957-01-01&g=1957-01-01"
-jci_1_0: "1.0:c:BWBR0001966&g=1957-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vaststelling wachtgeldregeling officieren Koninklijke Landmacht"
-signed_date: "1935-08-17"
-entry_into_force: "1935-09-22"
+publicatiedatum: 1935-09-22
+laatste_update: 1957-01-01
+status: geldig
+toestand: 1957-01-01
+bron: "https://wetten.overheid.nl/BWBR0001966"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor officieren behoorende tot de Koninklijke Landmacht
-
-Op de voordracht van Onze Ministers van Defensie en van Binnenlandsche Zaken van 4 April 1935, VIIIe Afdeeling, nr. 129 en van 12 April 1935, nr. 489II, Afdeeling Pensioenen en Wachtgelden;
-
-Gelet op Art. 12 van de [Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952);
-
-Overwegende, dat het wenschelijk is Ons Besluit van den 21 Februari 1923 (**Staatsblad** nr. 48) tot vaststelling van een wachtgeldregeling voor officieren, behoorende tot de Landmacht, zooals dat besluit laatstelijk is gewijzigd en aangevuld bij Ons Besluit van 4 Februari 1931 (**Staatsblad** nr. 44), in te trekken en opnieuw vast te stellen;
-
-Den Raad van State gehoord (advies van 14 Mei 1935, nr. 30);
-
-Gezien het nader rapport van Onze Ministers van Defensie en van Binnenlandsche Zaken van 30 Juli 1935, VIIIe Afdeeling, nr. 1, en van 7 Augustus 1935, nr. 489III, Afdeeling Pensioenen en Wachtgelden;
-
-Hebben goedgevonden en verstaan:
-
-A. in te trekken Ons Besluit van 21 Februari 1923 (**Staatsblad** nr. 48) tot regeling van de toekenning van wachtgeld aan officieren behoorende tot de landmacht, zooals dit Besluit bij verschillende Besluiten is gewijzigd en aangevuld, laatstelijk bij Besluit van 4 Februari 1931 (**Staatsblad** nr. 44);
-
-B. te bepalen:
 
 ##### Artikel 1
 
@@ -60,7 +26,7 @@ B. te bepalen:
 
 ##### Artikel 2
 
-1. Voor de toepassing van de verdere artikelen van dit besluit wordt onder diensttijd verstaan de werkelijke diensttijd in den zin van de Pensioenwet voor de landmacht (**Staatsblad** 1922, nr. 66), volbracht op den datum van ingang van het ontslag, met dien verstande dat, wanneer de diensttijd ten gevolge van ontslag is onderbroken geweest, de tijd vóór de onderbreking slechts medetelt, indien de onderbreking minder dan een jaar heeft geduurd.
+1. Voor de toepassing van de verdere artikelen van dit besluit wordt onder diensttijd verstaan de werkelijke diensttijd in den zin van de Pensioenwet voor de landmacht (*Staatsblad* 1922, nr. 66), volbracht op den datum van ingang van het ontslag, met dien verstande dat, wanneer de diensttijd ten gevolge van ontslag is onderbroken geweest, de tijd vóór de onderbreking slechts medetelt, indien de onderbreking minder dan een jaar heeft geduurd.
 
 2. Bij de toepassing van het [tweede lid van art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=3&z=1957-01-01&g=1957-01-01) wordt niettemin de tijd vóór de onderbreking wel medegeteld, ook al heeft de onderbreking een jaar of langer geduurd.
 
@@ -74,7 +40,7 @@ B. te bepalen:
 
 - a. indien de officier ten tijde van het ontslag kostwinner is van een gezin, gedurende de eerste drie maanden de laatstelijk door het genoten bezoldiging, gedurende de volgende drie maanden 85, gedurende de daaropvolgende vijf jaren 70, gedurende de daaraanvolgende vijf jaren 60 en vervolgens 50 ten honderd van de laatstelijke genoten bezoldiging;
 
-- b. in de overige gevallen gedurende de onder **a** bedoelde termijnen onderscheidenlijk de laatstelijk genoten bezoldiging en 75, 60, 50 en 40 ten honderd daarvan;/OI
+- b. in de overige gevallen gedurende de onder *a* bedoelde termijnen onderscheidenlijk de laatstelijk genoten bezoldiging en 75, 60, 50 en 40 ten honderd daarvan;/OI
 
 een en ander voor zoover de termijnen, waarover het genot van wachtgeld is toegekend, niet reeds eerder zijn geëindigd en met dien verstande, dat het wachtgeld niet daalt beneden het bedrag van het uitgesteld pensioen, waarop de betrokkene terzake van het hem verleende ontslag uitzicht heeft of, indien uit hoofde van eenigerlei omstandigheid zoodanig uitzicht niet of niet meer ten volle bestaat, anders zou hebben gehad.
 
@@ -100,11 +66,11 @@ een en ander voor zoover de termijnen, waarover het genot van wachtgeld is toege
 
 1. Voor de toepassing van dit besluit wordt onder laatstelijk genoten bezoldiging verstaan de bezoldiging welke op de dag voor het ontslag in de verlaten betrekking bij plaatsing in Nederland werd genoten of zou genoten zijn, vermeerderd met de tijdelijke kindertoelage, de tijdelijke kindertoeslag, de vakantieuitkering en eventuele in de pensioensgrondslag opgenomen inkomsten en baten.
 
-2. Voor de officier aan wie, terwijl hij met toepassing van artikel 75, eerste lid, onder **b** en **c,** dan wel artikel 116, eerste lid, onder **b** en **c** der Wet bevordering en ontslag beroepsofficieren laatstelijk op nonactiviteit was gesteld, na verkregen ontslag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=1&z=1957-01-01&g=1957-01-01), een wachtgeld wordt toegekend, geldt als laatstelijk genoten bezoldiging de bezoldiging welke op de dag voor zijn op nonactiviteitstelling in de verlaten betrekking bij plaatsing in Nederland werd genoten of zou genoten zijn, vermeerderd me de tijdelijke kindertoelage, de tijdelijke kindertoeslag, de vakantieuitkering en eventuele in de pensioensgrondslag opgenomen inkomsten en baten.
+2. Voor de officier aan wie, terwijl hij met toepassing van artikel 75, eerste lid, onder *b* en *c,* dan wel artikel 116, eerste lid, onder *b* en *c* der Wet bevordering en ontslag beroepsofficieren laatstelijk op nonactiviteit was gesteld, na verkregen ontslag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=1&z=1957-01-01&g=1957-01-01), een wachtgeld wordt toegekend, geldt als laatstelijk genoten bezoldiging de bezoldiging welke op de dag voor zijn op nonactiviteitstelling in de verlaten betrekking bij plaatsing in Nederland werd genoten of zou genoten zijn, vermeerderd me de tijdelijke kindertoelage, de tijdelijke kindertoeslag, de vakantieuitkering en eventuele in de pensioensgrondslag opgenomen inkomsten en baten.
 
 3. Indien in de bezoldiging, de inkomsten en baten, in de voorgaande leden bedoeld, anders dan wegens periodieke verhogingen wijziging zou zijn gekomen, wanneer de belanghebbende op die bezoldiging in dienst was gebleven, geldt van de datum van inwerkingtreding van die wijziging het aldus gewijzigde bedrag als laatstelijk genoten bezoldiging.
 
-4. Voorts wordt, indien ter zake van pensioen van de officieren eene bijdrage wordt gevorderd, bij de vaststelling van de laatstelijk genoten bezoldiging van hen, die vóór 1 Juli 1925 op wachtgeld zijn gesteld, hierop tot 1 Januari 1930 een bedrag in mindering gebracht. Dit bedrag wordt naar denzelfden maatstaf berekend als voor de militairen op grond van art. 15**a** van de Pensioenwet voor de landmacht (**Staatsblad** 1922, nr. 66) plaats vindt, echter met dien verstande, dat deze berekening geschiedt van de gezamenlijke inkomsten gedurende het laatste jaar werkelijken dienst genoten, voor zoover deze inkomsten bij de vaststelling van den pensioensgrondslag in aanmerking kwamen.
+4. Voorts wordt, indien ter zake van pensioen van de officieren eene bijdrage wordt gevorderd, bij de vaststelling van de laatstelijk genoten bezoldiging van hen, die vóór 1 Juli 1925 op wachtgeld zijn gesteld, hierop tot 1 Januari 1930 een bedrag in mindering gebracht. Dit bedrag wordt naar denzelfden maatstaf berekend als voor de militairen op grond van art. 15*a* van de Pensioenwet voor de landmacht (*Staatsblad* 1922, nr. 66) plaats vindt, echter met dien verstande, dat deze berekening geschiedt van de gezamenlijke inkomsten gedurende het laatste jaar werkelijken dienst genoten, voor zoover deze inkomsten bij de vaststelling van den pensioensgrondslag in aanmerking kwamen.
 
 5. Met afwijking van het gestelde in het eerste, tweede, derde en vierde lid wordt voor het wachtgeld, toegekend krachtens het [tweede lid van art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=3&z=1957-01-01&g=1957-01-01), als laatstelijk genoten bezoldiging aangemerkt het bedrag van den pensioensgrondslag, waarnaar het daarbedoelde wachtgeld is berekend.
 
@@ -118,9 +84,9 @@ een en ander voor zoover de termijnen, waarover het genot van wachtgeld is toege
 
 - C. bij het gelijktijdig genieten van inkomsten als bedoeld onder A en B;
 
-- 1. indien de inkomsten, als bedoeld onder A., grooter zijn dan het verschil tusschen de laatstelijk genoten bezoldiging en het wachtgeld, voor die inkomsten een vermindering toegepast als onder A is aangegeven; daarna wordt het wachtgeld nog verminderd met een bedrag, gelijk aan de helft van de inkomsten als bedoeld onder B;
+   - 1. indien de inkomsten, als bedoeld onder A., grooter zijn dan het verschil tusschen de laatstelijk genoten bezoldiging en het wachtgeld, voor die inkomsten een vermindering toegepast als onder A is aangegeven; daarna wordt het wachtgeld nog verminderd met een bedrag, gelijk aan de helft van de inkomsten als bedoeld onder B;
 
-- 2. indien de inkomsten als bedoeld onder A gelijk of kleiner zijn dan het verschil tusschen de laatstelijk genoten bezoldiging en het wachtgeld, voor die inkomsten geen vermindering toegepast; voor de inkomsten als bedoeld onder B wordt het wachtgeld, zoodra en zoolang die inkomsten meer bedragen dan 30 ten honderd van de laatstelijk genoten bezoldiging, met de helft van dat meerdere verminderd, met dien verstande evenwel dat, zoodra en zoolang die inkomsten, ook al bedragen deze 30 of minder ten honderd van de laatstelijk genoten bezoldiging, gezamenlijk met het wachtgeld en de inkomsten als bedoeld onder A meer beloopen dan de laatstelijk genoten bezoldiging, het wachtgeld eveneens met de helft van dat meerdere wordt verminderd.
+   - 2. indien de inkomsten als bedoeld onder A gelijk of kleiner zijn dan het verschil tusschen de laatstelijk genoten bezoldiging en het wachtgeld, voor die inkomsten geen vermindering toegepast; voor de inkomsten als bedoeld onder B wordt het wachtgeld, zoodra en zoolang die inkomsten meer bedragen dan 30 ten honderd van de laatstelijk genoten bezoldiging, met de helft van dat meerdere verminderd, met dien verstande evenwel dat, zoodra en zoolang die inkomsten, ook al bedragen deze 30 of minder ten honderd van de laatstelijk genoten bezoldiging, gezamenlijk met het wachtgeld en de inkomsten als bedoeld onder A meer beloopen dan de laatstelijk genoten bezoldiging, het wachtgeld eveneens met de helft van dat meerdere wordt verminderd.
 
 Het hier bepaalde vindt overeenkomstige toepassing ten aanzien van inkomsten, verkregen uit of in verband met arbeid of bedrijf, welke geacht moeten worden te zijn ter hand genomen, gedurende verlof, c.q. nonactiviteit ingevolge art. 70, 3°. of 4°. der Be[vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) voor de landmacht 1902, voorafgaande aan ontslag.
 
@@ -146,13 +112,13 @@ Het hier bepaalde vindt overeenkomstige toepassing ten aanzien van inkomsten, ve
 
 Voor de toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=6&z=1957-01-01&g=1957-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=7&z=1957-01-01&g=1957-01-01) van dit besluit worden onder inkomsten of verzuimde inkomsten mede verstaan bedragen, die terzake van pensioenen ten laste van belanghebbende komen of zouden gekomen zijn.
 
-Als inkomsten, die genoten worden in dienst van een openbaar lichaam worden ten deze ook aangemerkt inkomsten verbonden aan een betrekking, welke aan de belanghebbende uitzicht geeft of kan geven op pensioen krachtens de Pensioenwet 1922 (**Stb.** 240).
+Als inkomsten, die genoten worden in dienst van een openbaar lichaam worden ten deze ook aangemerkt inkomsten verbonden aan een betrekking, welke aan de belanghebbende uitzicht geeft of kan geven op pensioen krachtens de Pensioenwet 1922 (*Stb.* 240).
 
 ##### Artikel 9
 
 1. Het wachtgeld vervalt:
 
-- a. wanneer de belanghebbende op eenigerlei wijze pensioen gaat genieten hetzij krachtens de Pensioenwet voor de landmacht (**Staatsblad** 1922, nr. 66), hetzij krachtens de Pensioenwet 1922 (**Staatsblad** nr. 240);
+- a. wanneer de belanghebbende op eenigerlei wijze pensioen gaat genieten hetzij krachtens de Pensioenwet voor de landmacht (*Staatsblad* 1922, nr. 66), hetzij krachtens de Pensioenwet 1922 (*Staatsblad* nr. 240);
 
 - b. door vervallenverklaring ingeval de op wachtgeld gestelde zich zoodanig gedraagt, dat hij, ware hij in dienst gebleven, zou zijn ontslagen, of indien hij zich zonder toestemming van Onzen Minister van Defensie in het buitenland vestigt of geacht moet worden aldaar duurzaam te verblijven;
 
@@ -190,12 +156,10 @@ Aan hem, die op wachtgeld zal worden of is gesteld, kan, indien hij elders arbei
 
 1. De ter uitvoering van dit besluit te nemen beslissingen worden genomen door Onzen Minister van Defensie, met medewerking van Onzen Minister van Binnenlandsche Zaken.
 
-2. De Commissie, door Ons ingesteld ingevolge het bepaalde bij art. 12 van Ons besluit van 3 Augustus 1922 (**Staatsblad** nr. 479), brengt advies uit omtrent door belanghebbenden nopens de toepassing van dit besluit in het midden gebrachte bezwaren en wordt in dat geval uitgebreid met twee door Ons aan te wijzen officieren of gewezen officieren van de landmacht.
+2. De Commissie, door Ons ingesteld ingevolge het bepaalde bij art. 12 van Ons besluit van 3 Augustus 1922 (*Staatsblad* nr. 479), brengt advies uit omtrent door belanghebbenden nopens de toepassing van dit besluit in het midden gebrachte bezwaren en wordt in dat geval uitgebreid met twee door Ons aan te wijzen officieren of gewezen officieren van de landmacht.
 
 3. Aan een verzoek om het advies van de in het vorig lid bedoelde Commissie in te winnen zal slechts worden voldaan, indien dat verzoek bij het Departement van Defensie is ingekomen binnen 30 dagen na den datum, waarop de ter zake betrekkelijke beslissing is verzonden.
 
 ##### Artikel 14
 
-Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het **Staatsblad**, waarin het is geplaatst.
-
-Onze Ministers van Defensie en van Binnenlandsche Zaken zijn, ieder voor zooveel hem aangaat, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.
+Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het *Staatsblad*, waarin het is geplaatst.

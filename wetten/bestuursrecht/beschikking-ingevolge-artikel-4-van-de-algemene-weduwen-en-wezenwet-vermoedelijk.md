@@ -1,42 +1,17 @@
 ---
 title: "Beschikking ingevolge artikel 4 van de Algemene Weduwen- en Wezenwet (vermoedelijk overlijden)"
 identifier: "BWBR0002321"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1996-11-28"
-last_updated: "1996-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002321"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4445063"
-version_id: "6241372"
-internal_id: "C6445581"
-label_id: "4423454"
-dtd_version: "2.0"
-original_entry_into_force: "1959-08-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002321/1996-11-28/0"
-intitule_bron: "Stcrt.1959-134"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1959-07-13"
-intitule_published: "1959-07-15"
-intitule_in_force: "1959-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1959-134"
-original_signed_date: "1959-07-13"
-original_published_date: "1959-07-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1959-08-04"
-jci_1_3: "jci1.3:c:BWBR0002321&z=1996-11-28&g=1996-11-28"
-jci_1_0: "1.0:c:BWBR0002321&g=1996-11-28"
-citeertitel_status: "officieel"
-signed_date: "1959-07-13"
-entry_into_force: "1959-08-04"
+publicatiedatum: 1959-08-04
+laatste_update: 1996-11-28
+status: geldig
+toestand: 1996-11-28
+bron: "https://wetten.overheid.nl/BWBR0002321"
+opgehaald: 2026-07-29
 ---
+
 # Beschikking ingevolge artikel 4 van de Algemene Weduwen- en Wezenwet (vermoedelijk overlijden)
-
-Gelet op artikel 4 van de Algemene Weduwen- en Wezenwet,
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,50 +1,18 @@
 ---
 title: "Wet van 29 maart 1955, houdende het in overeenstemming brengen van de Defensiewet voor de Nederlandse Antillen met de nieuwe rechtsorde"
+citeertitel: "Defensiewet voor Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0002177"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002177"
+categorie: "Overig"
 soort: "rijkswet"
-stam_id: "157813"
-version_id: "216072"
-internal_id: "C216071"
-label_id: "156694"
-dtd_version: "2.0"
-original_entry_into_force: "1955-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002177/2010-10-10/0"
-intitule_bron: "Stb.1955-138"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1955-03-29"
-intitule_status: "goed"
-original_publication: "Stb.1955-138"
-original_signed_date: "1955-03-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1955-04-30"
-jci_1_3: "jci1.3:c:BWBR0002177&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0002177&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Defensiewet voor Aruba, Curaçao en Sint Maarten"
-signed_date: "1955-03-29"
-entry_into_force: "1955-04-30"
+publicatiedatum: 1955-04-30
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0002177"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 29 maart 1955, houdende het in overeenstemming brengen van de Defensiewet voor de Nederlandse Antillen met de nieuwe rechtsorde
-
-Op de voordracht van Onze Minister van Overzeese Rijksdelen a.i. van 22 Maart 1955, Directie Suriname en Nederlandse Antillen, No. 124071/-;
-
-Overwegende, dat ingevolge [artikel 59, lid 4 van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=59) de Defensiewet voor de Nederlandse Antillen in overeenstemming moet worden gebracht met de nieuwe rechtsorde;
-
-Gelet op artikel 59, leden 2 en 4 van het Statuut;
-
-De Raad van State van het Koninkrijk gehoord (advies van 25 Maart 1955, No. 1);
-
-Gezien het nader rapport van Onze Minister van Overzeese Rijksdelen van 29 Maart 1955, Directie Suriname en Nederlandse Antillen, No. 125047/10641;
-
-De bepalingen van het Statuut in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan: de tekst van de Defensiewet voor de Nederlandse Antillen vast te stellen, zoals deze bij dit besluit is gevoegd.
 
 ##### Artikel 1
 
@@ -148,6 +116,4 @@ Het militaire straf- en tuchtrecht en de rechtspleging in militaire zaken worden
 
 Deze Rijkswet kan worden aangehaald als "Defensiewet voor Aruba, Curaçao en Sint Maarten".
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Publicatieblad** van de Nederlandse Antillen, waarin het wordt geplaatst.
-
-Onze Minister van Overzeese Rijksdelen is belast met de uitvoering van dit besluit, dat, met de nota van toelichting, in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Publicatieblad* van de Nederlandse Antillen, waarin het wordt geplaatst.

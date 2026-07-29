@@ -1,44 +1,18 @@
 ---
 title: "Wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau"
+citeertitel: "Wet instelling van de Orde van Oranje-Nassau"
 identifier: "BWBR0001859"
-country: "nl"
-rank: "rijkswet"
-publication_date: "1997-01-01"
-last_updated: "1997-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001859"
+categorie: "Overig"
 soort: "rijkswet"
-stam_id: "511563"
-version_id: "751142"
-internal_id: "C751141"
-label_id: "497164"
-dtd_version: "2.0"
-original_entry_into_force: "1892-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001859/1997-01-01/0"
-intitule_bron: "Stb.1892-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1892-04-04"
-intitule_status: "goed"
-original_publication: "Stb.1892-55"
-original_signed_date: "1892-04-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1892-04-15"
-jci_1_3: "jci1.3:c:BWBR0001859&z=1997-01-01&g=1997-01-01"
-jci_1_0: "1.0:c:BWBR0001859&g=1997-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet instelling van de Orde van Oranje-Nassau"
-signed_date: "1892-04-04"
-entry_into_force: "1892-04-15"
+publicatiedatum: 1892-04-15
+laatste_update: 1997-01-01
+status: geldig
+toestand: 1997-01-01
+bron: "https://wetten.overheid.nl/BWBR0001859"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is door het instellen van eene nieuwe Ridderorde de gelegenheid te vermeerderen tot het verleenen van vereerende onderscheidingen;
-
-Gelet op [artikel 66 der Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=66);
-
-Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -84,11 +58,11 @@ De Ridders van de zesde graad van deze Orde dragen de naam van Lid.
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -108,6 +82,4 @@ De Kanselier van de Orde van de Nederlandse Leeuw is tevens Kanselier dezer Orde
 
 1. Bij algemene maatregel van bestuur wordt een reglement op deze Orde vastgesteld, waarin nadere regels worden gesteld met betrekking tot het verlenen van een onderscheiding in deze Orde en de bij de onderscheiding behorende tekenen.
 
-2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 4 oktober 1944, houdende regeling van de gevolgen in bepaalde gevallen van het zich begeven in vreemden krijgs- of staatsdienst"
+citeertitel: "Besluit gevolgen in bepaalde gevallen van het zich begeven in vreemden krijgs- of staatsdienst"
 identifier: "BWBR0002011"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2000-03-01"
-last_updated: "2000-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002011"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "536813"
-version_id: "787262"
-internal_id: "C787261"
-label_id: "521174"
-dtd_version: "2.0"
-original_entry_into_force: "1944-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002011/2000-03-01/0"
-intitule_bron: "Stb.1944-E 127"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1944-10-04"
-intitule_status: "goed"
-original_publication: "Stb.1944-E 127"
-original_signed_date: "1944-10-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1944-10-14"
-jci_1_3: "jci1.3:c:BWBR0002011&z=2000-03-01&g=2000-03-01"
-jci_1_0: "1.0:c:BWBR0002011&g=2000-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gevolgen in bepaalde gevallen van het zich begeven in vreemden krijgs- of staatsdienst"
-signed_date: "1944-10-04"
-entry_into_force: "1944-10-14"
+publicatiedatum: 1944-10-14
+laatste_update: 2000-03-01
+status: geldig
+toestand: 2000-03-01
+bron: "https://wetten.overheid.nl/BWBR0002011"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 4 oktober 1944, houdende regeling van de gevolgen in bepaalde gevallen van het zich begeven in vreemden krijgs- of staatsdienst
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Justitie, van Binnenlandsche Zaken, van Koloniën, van Buitenlandsche Zaken, van Oorlog, van Marine, en van Scheepvaart en Visscherij van 25 September 1944, N°. 1675/J 2134;
-
-Overwegende, dat het, gelet op de huidige buitengewone omstandigheden, noodzakelijk is een voorziening te treffen ter voorkoming van ongewenschte gevolgen van het zich begeven in vreemden krijgs- of staatsdienst door Nederlanders en Nederlandsche onderdanen uit anderen hoofde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -59,5 +35,3 @@ Het bepaalde in de voorgaande artikelen laat onverlet de bestaande of toekomstig
 ##### Artikel 5
 
 Dit besluit is verbindend voor het geheele Koninkrijk en treedt in werking op den dag, volgende op dien zijner afkondiging, met dien verstande, dat het in Suriname en Curaçao in werking treedt met ingang van den dag, volgende op dien zijner afkondiging in het betrokken gebiedsdeel.
-
-Onze Ministers van Justitie, van Binnenlandsche Zaken, van Koloniën en van Buitenlandsche Zaken zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van Curaçao** zal worden geplaatst.

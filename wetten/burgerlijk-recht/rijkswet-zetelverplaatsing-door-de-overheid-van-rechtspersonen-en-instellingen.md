@@ -1,43 +1,18 @@
 ---
 title: "Rijkswet van 9 maart 1967 houdende bijzondere maatregelen van overheidswege aangaande de plaats van vestiging van rechtspersonen en instellingen"
+citeertitel: "Rijkswet zetelverplaatsing door de overheid van rechtspersonen en instellingen"
 identifier: "BWBR0002562"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002562"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "208243"
-version_id: "284522"
-internal_id: "C284521"
-label_id: "204844"
-dtd_version: "2.0"
-original_entry_into_force: "1967-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002562/2010-10-10/0"
-intitule_bron: "Stb.1967-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-03-09"
-intitule_status: "goed"
-original_publication: "Stb.1967-162"
-original_signed_date: "1967-03-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "8022"
-entry_into_force_date: "1967-06-01"
-jci_1_3: "jci1.3:c:BWBR0002562&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0002562&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet zetelverplaatsing door de overheid van rechtspersonen en instellingen"
-signed_date: "1967-03-09"
-entry_into_force: "1967-06-01"
+publicatiedatum: 1967-06-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0002562"
+opgehaald: 2026-07-29
 ---
+
 # Rijkswet van 9 maart 1967 houdende bijzondere maatregelen van overheidswege aangaande de plaats van vestiging van rechtspersonen en instellingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op artikel 38, vierde lid, van het Statuut voor het Koninkrijk, wenselijk is bij rijkswet te voorzien in bijzondere maatregelen, vereist door de belangen van het Koninkrijk, aangaande de plaats van vestiging van rechtspersonen en instellingen, naast de [Rijkswet vrijwillige zetelverplaatsing van rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0002561);
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -99,7 +74,7 @@ Wij behouden Ons voor bij algemene maatregel van rijksbestuur te regelen, wat ve
 
 ##### Artikel 10
 
-Het Koninklijk besluit van 4 maart 1942 (**Stb.** C 16) wordt ingetrokken.
+Het Koninklijk besluit van 4 maart 1942 (*Stb.* C 16) wordt ingetrokken.
 
 ##### Artikel 11
 
@@ -110,5 +85,3 @@ Deze rijkswet kan worden aangehaald onder de titel: Rijkswet zetelverplaatsing d
 1. Deze rijkswet is verbindend voor het gehele Koninkrijk.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

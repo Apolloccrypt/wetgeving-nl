@@ -1,48 +1,22 @@
 ---
 title: "Wet van 7 augustus 1953, houdende goedkeuring en uitvoering van het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten"
+citeertitel: "Wet goedkeuring en uitvoering Verdrag van Londen (NAVO-SOFA)"
 identifier: "BWBR0002118"
-country: "nl"
-rank: "wet"
-publication_date: "1953-09-09"
-last_updated: "1953-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002118"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "364073"
-version_id: "536052"
-internal_id: "C536051"
-label_id: "355764"
-dtd_version: "2.0"
-original_entry_into_force: "1953-09-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002118/1953-09-09/0"
-intitule_bron: "Stb.1953-438"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-08-07"
-intitule_status: "goed"
-original_publication: "Stb.1953-438"
-original_signed_date: "1953-08-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "2881"
-entry_into_force_date: "1953-09-09"
-entry_into_force_dossier: "2881"
-jci_1_3: "jci1.3:c:BWBR0002118&z=1953-09-09&g=1953-09-09"
-jci_1_0: "1.0:c:BWBR0002118&g=1953-09-09"
-citeertitel_status: "redactioneel"
-short_title: "Wet goedkeuring en uitvoering Verdrag van Londen (NAVO-SOFA)"
-signed_date: "1953-08-07"
-entry_into_force: "1953-09-09"
+publicatiedatum: 1953-09-09
+laatste_update: 1953-09-09
+status: geldig
+toestand: 1953-09-09
+bron: "https://wetten.overheid.nl/BWBR0002118"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 7 augustus 1953, houdende goedkeuring en uitvoering van het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij het Noord Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, alvorens te kunnen worden bekrachtigd, ingevolge [artikel 60, lid 2 der Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=60) de goedkeuring van de Staten-Generaal behoeft, alsmede dat ter uitvoering van dit Verdrag enige nadere voorzieningen dienen te worden getroffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-Het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij het Noord Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, waarvan de tekst in **Tractatenblad** 1951, nr. 114 is geplaatst, wordt voor het Rijk in Europa goedgekeurd.
+Het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij het Noord Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, waarvan de tekst in *Tractatenblad* 1951, nr. 114 is geplaatst, wordt voor het Rijk in Europa goedgekeurd.
 
 ##### Artikel 2
 
@@ -52,7 +26,7 @@ Het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij he
 
 ##### Artikel 3
 
-1. Indien een verdachte bij uitsluiting onderworpen is aan de rechtsmacht van de Staat van herkomst, dan wel indien de rechtsmacht van deze Staat voorrang heeft, of de Nederlandse Staat overeenkomstig artikel VII, lid 3, sub **c** van het bij deze Wet goedgekeurde Verdrag heeft besloten niet tot uitoefening van rechtsmacht over te gaan, wordt hij, indien hij door Nederlandse autoriteiten in arrest wordt genomen of gehouden, zo spoedig mogelijk aan de militaire autoriteiten van de Staat van herkomst overgeleverd.
+1. Indien een verdachte bij uitsluiting onderworpen is aan de rechtsmacht van de Staat van herkomst, dan wel indien de rechtsmacht van deze Staat voorrang heeft, of de Nederlandse Staat overeenkomstig artikel VII, lid 3, sub *c* van het bij deze Wet goedgekeurde Verdrag heeft besloten niet tot uitoefening van rechtsmacht over te gaan, wordt hij, indien hij door Nederlandse autoriteiten in arrest wordt genomen of gehouden, zo spoedig mogelijk aan de militaire autoriteiten van de Staat van herkomst overgeleverd.
 
 2. Indien een verdachte zich er op beroept niet de gezochte persoon te zijn, dan wel niet aan de rechtsmacht van de vreemde Staat, zoals in het vorige lid omschreven, onderworpen te zijn, wordt hij onverwijld voor de rechter-commissaris geleid; deze beslist na verhoor van de verdachte op het beroep behoudens indien hij van mening is, dat de verdachte niet onderworpen is aan de rechtsmacht van de Staat van herkomst. In dat geval brengt hij advies uit aan Onze Minister van Justitie. Deze beslist zo spoedig mogelijk op het beroep en doet deze beslissing onverwijld aan de rechter-commissaris toekomen.
 
@@ -62,7 +36,7 @@ Het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij he
 
 ##### Artikel 4
 
-Onze Minister van Justitie neemt de besluiten en doet de verzoeken als bedoeld in artikel VII, lid 3, sub **c** van het bij deze Wet goedgekeurde Verdrag, tenzij het besluit of het verzoek betrekking heeft op personen, aan de rechtsmacht van de Nederlandse militaire rechter onderworpen.
+Onze Minister van Justitie neemt de besluiten en doet de verzoeken als bedoeld in artikel VII, lid 3, sub *c* van het bij deze Wet goedgekeurde Verdrag, tenzij het besluit of het verzoek betrekking heeft op personen, aan de rechtsmacht van de Nederlandse militaire rechter onderworpen.
 
 In het laatste geval wordt het besluit genomen of het verzoek gedaan door Onze Minister van Oorlog, onderscheidenlijk Onze Minister van Marine na overleg met Onze Minister van Justitie.
 
@@ -72,7 +46,7 @@ Op verzoek van de autoriteiten van de Staat van herkomst in beslag genomen goede
 
 ##### Artikel 6
 
-In geval de autoriteiten van een Staat van herkomst overeenkomstig lid 7, sub **b** van artikel VII van het bij deze Wet goedgekeurde Verdrag, om bijstand verzoeken bij de ten uitvoerlegging van een door de rechterlijke autoriteiten van die Staat opgelegde vrijheidsstraf, kan Onze Minister van Justitie deze straf doen ten uitvoer leggen, hetzij op de wijze van gevangenisstraf, hetzij op de wijze van hechtenis of van militaire detentie.
+In geval de autoriteiten van een Staat van herkomst overeenkomstig lid 7, sub *b* van artikel VII van het bij deze Wet goedgekeurde Verdrag, om bijstand verzoeken bij de ten uitvoerlegging van een door de rechterlijke autoriteiten van die Staat opgelegde vrijheidsstraf, kan Onze Minister van Justitie deze straf doen ten uitvoer leggen, hetzij op de wijze van gevangenisstraf, hetzij op de wijze van hechtenis of van militaire detentie.
 
 ##### Artikel 7
 
@@ -83,5 +57,3 @@ In geval de autoriteiten van een Staat van herkomst overeenkomstig lid 7, sub **
 ##### Artikel 8
 
 Deze wet treedt in werking met ingang van de dag na die harer afkondiging.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

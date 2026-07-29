@@ -1,42 +1,18 @@
 ---
 title: "Wet van 16 juli 1869, tot uitvoering der bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart"
+citeertitel: "Uitvoeringswet der bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart"
 identifier: "BWBR0001845"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001845"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1776683"
-version_id: "2641152"
-internal_id: "C2641151"
-label_id: "1732494"
-dtd_version: "2.0"
-original_entry_into_force: "1869-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001845/2002-01-01/0"
-intitule_bron: "Stb.1869-139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1869-07-16"
-intitule_status: "goed"
-original_publication: "Stb.1869-139"
-original_signed_date: "1869-07-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1869-07-01"
-jci_1_3: "jci1.3:c:BWBR0001845&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0001845&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet der bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart"
-signed_date: "1869-07-16"
-entry_into_force: "1869-07-01"
+publicatiedatum: 1869-07-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0001845"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 16 juli 1869, tot uitvoering der bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging hebben genomen, dat het noodig is bij de wet uitvoering te geven aan de bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart, den 17den October 1868 te **Mannheim** gesloten tusschen de wederzijdsche gevolmagtigden der Regeringen van **Nederland, Baden, Beijeren, Frankrijk, Hessen** en **Pruissen** en, voor zooveel noodig, goedgekeurd bij de wet van den 4den April 1869 (**Staatsblad** n°. 37);
-
-Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -84,12 +60,10 @@ In strafzaken en in burgerlijke zaken wordt het hooger beroep tegen de vonnissen
 
 ##### Artikel 5a
 
-De uitspraken, door de centrale commissie voor de Rijnvaart ingevolge artikel 37 der herziene Rijnvaartakte in burgerlijke zaken gewezen, kunnen worden ten uitvoer gelegd nadat daartoe rechterlijk verlof is verkregen. Ten aanzien van dit verlof zijn de bepalingen van de eerste afdeling van de negende titel van het [derde boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) van toepassing.
+De uitspraken, door de centrale commissie voor de Rijnvaart ingevolge artikel 37 der herziene Rijnvaartakte in burgerlijke zaken gewezen, kunnen worden ten uitvoer gelegd nadat daartoe rechterlijk verlof is verkregen. Ten aanzien van dit verlof zijn de bepalingen van de eerste afdeling van de negende titel van het derde boek van het Wetboek van Burgerlijke Rechtsvordering van toepassing.
 
 ##### Artikel 6
 
 1. Deze wet treedt in werking den 1sten Julij 1869.
 
 2. De op het tijdstip der invoering dezer wet aanhangige Rijnvaart-zaken worden verder behandeld en afgedaan door de provinciale geregtshoven en arrondissements-regtbanken, die daartoe tijdens de invoering dezer wet bevoegd waren.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.

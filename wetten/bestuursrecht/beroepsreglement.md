@@ -1,156 +1,128 @@
 ---
 title: "Besluit van 1 augustus 1956, ter uitvoering van de Beroepswet"
+citeertitel: "Beroepsreglement"
 identifier: "BWBR0002228"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002228"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1140903"
-version_id: "1687922"
-internal_id: "C1687921"
-label_id: "1107764"
-dtd_version: "2.0"
-original_entry_into_force: "1957-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002228/2013-01-01/0"
-intitule_bron: "Stb.1956-423"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1956-08-01"
-intitule_status: "goed"
-original_publication: "Stb.1956-423"
-original_signed_date: "1956-08-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1957-01-01"
-jci_1_3: "jci1.3:c:BWBR0002228&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002228&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Beroepsreglement"
-signed_date: "1956-08-01"
-entry_into_force: "1957-01-01"
+publicatiedatum: 1957-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002228"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 1 augustus 1956, ter uitvoering van de Beroepswet
-
-Op de voordracht van Onze Minister van Justitie van 20 juni 1956, Afdeling Wetgeving, No. 241/656;
-
-Gelet op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=24), [28-30](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=28), [54](onbekend), [55](onbekend), [104-106](onbekend), [130](onbekend), [132](onbekend) en [144 der Beroepswet](onbekend) (**Stb.** 1955, 47);
-
-De Raad van State gehoord (advies van 3 juli 1956, no. 19);
-
-Gezien het nader rapport van Onze voornoemde minister van 31 juli 1956, Afdeling Wetgeving, no. 285/656;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Raden van Beroep
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. De Centrale Raad van Beroep
 
@@ -158,7 +130,7 @@ Vervallen
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28a
 
@@ -168,15 +140,15 @@ Vervallen
 
 ##### Artikel 28b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28c
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 29
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 30
 
@@ -188,7 +160,7 @@ De president roept, zo dikwijls hij zulks nodig acht, de Centrale Raad van Beroe
 
 ##### Artikel 31a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
@@ -196,23 +168,23 @@ In de gevallen waarin van Onzentwege bij de Centrale Raad van Beroep bericht of 
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 #### § 2. De griffie
 
@@ -226,7 +198,7 @@ De griffier regelt de inrichting der administratie. Hij beheert het archief.
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
@@ -234,7 +206,7 @@ De griffier heeft de zorg voor de huisvesting van het college, voor de inboedel,
 
 ##### Artikel 42
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 43
 
@@ -250,7 +222,7 @@ De griffie is op de dagen waarop terechtzittingen worden gehouden ten behoeve va
 
 ##### Artikel 45
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 46
 
@@ -260,218 +232,212 @@ Bij ontstentenis van de griffier treedt als hoofd van de griffie op een substitu
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Versnelde behandeling
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Vaste deskundigen
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 81
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 87
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VII. Vergoedingen voor werkzaamheden, tijdverzuim en reis- en verblijfkosten
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VIII. Slotbepaling
 
 ##### Artikel 97
 
 Dit besluit kan worden aangehaald als Beroepsreglement.
-
-## Lijst
-
-Vervallen.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

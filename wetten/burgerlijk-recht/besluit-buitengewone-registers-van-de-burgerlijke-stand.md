@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 26 maart 1942, houdende bepalingen nopens het ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland opmaken van authentieke akten betreffende geboorten, gesloten huwelijken en gevallen van overlijden en de regeling van de overschrijving van de akten, bedoeld bij de artikelen 35, 60 en 61 van het Burgerlijk Wetboek"
+citeertitel: "Besluit buitengewone registers van de burgerlijke stand"
 identifier: "BWBR0002005"
-country: "nl"
-rank: "kb"
-publication_date: "1943-03-24"
-last_updated: "1943-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002005"
+categorie: "Burgerlijk recht"
 soort: "KB"
-stam_id: "307103"
-version_id: "444822"
-internal_id: "C444821"
-label_id: "300764"
-dtd_version: "2.0"
-original_entry_into_force: "1942-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002005/1943-03-24/0"
-intitule_bron: "Stb.1942-C 20"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1942-03-26"
-intitule_status: "goed"
-original_publication: "Stb.1942-C 20"
-original_signed_date: "1942-03-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1942-04-03"
-jci_1_3: "jci1.3:c:BWBR0002005&z=1943-03-24&g=1943-03-24"
-jci_1_0: "1.0:c:BWBR0002005&g=1943-03-24"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewone registers van de burgerlijke stand"
-signed_date: "1942-03-26"
-entry_into_force: "1942-04-03"
+publicatiedatum: 1942-04-03
+laatste_update: 1943-03-24
+status: geldig
+toestand: 1943-03-24
+bron: "https://wetten.overheid.nl/BWBR0002005"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 26 maart 1942, houdende bepalingen nopens het ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland opmaken van authentieke akten betreffende geboorten, gesloten huwelijken en gevallen van overlijden en de regeling van de overschrijving van de akten, bedoeld bij de artikelen 35, 60 en 61 van het Burgerlijk Wetboek
-
-Op de voordracht van Onze Ministers van Justitie en van Binnenlandsche Zaken van 16 Maart 1942, N°. 69/J.2243;
-
-Overwegende, dat het wenschelijk is ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland de mogelijkheid te scheppen authentieke akten op te maken betreffende geboorten, gesloten huwelijken en gevallen van overlijden en de overschrijving van de akten bedoeld en de artikelen 35, 60 en 61 van het Burgerlijk Wetboek nader te regelen;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -240,11 +216,11 @@ Artikel 60 van het Burgerlijk Wetboek blijft van toepassing, met dien verstande,
 
 ##### Artikel 25
 
-Ons besluit van 1 April 1909 (**Staatsblad** N°. 87) zooals dit laatstelijk is gewijzigd bij Ons besluit van 24 Maart 1927 (**Staatsblad** N°. 61) blijft van kracht, behoudens dat, voor zoover betreft de akten, in artikel 2 van dat besluit bedoeld,
+Ons besluit van 1 April 1909 (*Staatsblad* N°. 87) zooals dit laatstelijk is gewijzigd bij Ons besluit van 24 Maart 1927 (*Staatsblad* N°. 61) blijft van kracht, behoudens dat, voor zoover betreft de akten, in artikel 2 van dat besluit bedoeld,
 
 - a. de verrichtingen, bij artikel 4, tweede lid, van dat besluit opgedragen aan den Inspecteur der Militaire Administratie, bij diens ontstentenis geschieden door een daartoe door Onzen Minister van Oorlog aangewezen ambtenaar;
 
-- b. indien de omstandigheden aan het Hoofd van het Departement van Justitie niet veroorloven te handelen overeenkomstig het bepaalde in artikel 6, tweede lid, onder **b**, van dat besluit, de daar bedoelde toezending geschiedt aan den buitengewonen ambtenaar van den burgerlijken stand, die daarop verplicht zal zijn tot inschrijving overeenkomstig de bepalingen van het onderhavige besluit.
+- b. indien de omstandigheden aan het Hoofd van het Departement van Justitie niet veroorloven te handelen overeenkomstig het bepaalde in artikel 6, tweede lid, onder *b*, van dat besluit, de daar bedoelde toezending geschiedt aan den buitengewonen ambtenaar van den burgerlijken stand, die daarop verplicht zal zijn tot inschrijving overeenkomstig de bepalingen van het onderhavige besluit.
 
 ##### Artikel 26
 
@@ -268,6 +244,4 @@ het overlijden van een der partijen, indien hij wegens het inschrijven van een a
 
 ##### Artikel 28
 
-Dit besluit treedt in werking met ingang van den dag volgende op dien zijner opneming in het **Staatsblad**.
-
-Onze Ministers van Justitie en Binnenlandsche Zaken zijn, ieder voor zooveel hem aangaat, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.
+Dit besluit treedt in werking met ingang van den dag volgende op dien zijner opneming in het *Staatsblad*.

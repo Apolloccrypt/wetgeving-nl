@@ -1,46 +1,20 @@
 ---
 title: "Besluit van 17 september 1944, houdende vaststelling van het Tribunaalbesluit"
+citeertitel: "Tribunaalbesluit"
 identifier: "BWBR0002009"
-country: "nl"
-rank: "kb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002009"
+categorie: "Overig"
 soort: "KB"
-stam_id: "961653"
-version_id: "1410832"
-internal_id: "C1410831"
-label_id: "933914"
-dtd_version: "2.0"
-original_entry_into_force: "1944-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002009/2015-01-01/0"
-intitule_bron: "Stb.1944-E 101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1944-09-17"
-intitule_status: "goed"
-original_publication: "Stb.1944-E 101"
-original_signed_date: "1944-09-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1944-09-20"
-jci_1_3: "jci1.3:c:BWBR0002009&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0002009&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Tribunaalbesluit"
-signed_date: "1944-09-17"
-entry_into_force: "1944-09-20"
+publicatiedatum: 1944-09-20
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0002009"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 17 september 1944, houdende vaststelling van het Tribunaalbesluit
 
-Op de voordracht van Onze Ministers voor Algemeene Oorlogvoering van het Koninkrijk, van Algemeene Zaken, van Buitenlandsche Zaken, van Justitie, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Landbouw, van Scheepvaart en Visscherij, van Sociale Zaken, van Koloniën en van Onzen Minister zonder Portefeuille van 15 September 1944, No. 1640/ G 92 (D);
-
-Overwegende, dat de veiligheid van den Staat het dringend noodzakelijk maakt de mogelijkheid te scheppen om Nederlanders en Nederlandsche onderdanen uit anderen hoofde, die zich gedurende de vijandelijkheden in, of tijdens de vijandelijke bezetting van het Rijk in Europa hebben gedragen in strijd met de belangen van het Nederlandsche volk of afbreuk hebben gedaan aan het verzet tegen den vijand en diens handlangers, ten aanzien van hun persoon en hun vermogen aan bijzondere maatregelen te onderwerpen en tevens regelen te stellen omtrent de behandeling van verzoeken om invrijheidstelling van personen, die ingevolge het bepaalde in het Besluit op den bijzonderen staat van beleg of in het Buitengewoon Politiebesluit in bewaring worden gehouden;
-
-Overwegende, dat zich hier dringende omstandigheden voordoen, waarin de Buitengewone Raad van Advies niet kan worden gehoord;
-
-Hebben goedgevonden en verstaan:
-
-## Titel I. Van de oplegging van bijzondere maatregelen
+### Titel I. Van de oplegging van bijzondere maatregelen
 
 ##### Artikel 1
 
@@ -100,7 +74,7 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 ##### Artikel 3c
 
-1. Bij het bevel, bedoeld in [artikel 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3a&z=2015-01-01&g=2015-01-01), kan het Tribunaal behalve de algemeene voorwaarde, dat de schuldige zich als een goed Nederlander zal gedragen, één of meer van de navolgende bijzondere voorwaarden stellen:
+1. Bij het bevel, bedoeld in [artikel 3*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3a&z=2015-01-01&g=2015-01-01), kan het Tribunaal behalve de algemeene voorwaarde, dat de schuldige zich als een goed Nederlander zal gedragen, één of meer van de navolgende bijzondere voorwaarden stellen:
 
 - a. ondertoezichtstelling van den schuldige;
 
@@ -128,7 +102,7 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 1. Met het toezicht op de naleving der voorwaarden is belast de procureur-fiscaal bij het Bijzondere Gerechtshof, binnen welks ressort het arrondissement gelegen is, voor hetwelk het Tribunaal, dat het bevel gegeven heeft, is ingesteld.
 
-2. Indien de voorwaarden niet worden nageleefd, geeft de procureur-fiscaal hiervan kennis aan het Tribunaal, dat het in [artikel 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3a&z=2015-01-01&g=2015-01-01) bedoelde bevel gegeven heeft.
+2. Indien de voorwaarden niet worden nageleefd, geeft de procureur-fiscaal hiervan kennis aan het Tribunaal, dat het in [artikel 3*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3a&z=2015-01-01&g=2015-01-01) bedoelde bevel gegeven heeft.
 
 ##### Artikel 3e
 
@@ -146,17 +120,17 @@ Het Tribunaal kan, hetzij ambtshalve, hetzij op verzoek van den schuldige, gedur
 
 ##### Artikel 3g
 
-1. Het Tribunaal geeft de in de [artikelen 3**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3e&z=2015-01-01&g=2015-01-01) en [3**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) genoemde beslissingen niet dan nadat de schuldige in raadkamer is gehoord, althans behoorlijk is opgeroepen. Het Tribunaal kan de medebrenging van den schuldige bevelen.
+1. Het Tribunaal geeft de in de [artikelen 3*e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3e&z=2015-01-01&g=2015-01-01) en [3*f*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) genoemde beslissingen niet dan nadat de schuldige in raadkamer is gehoord, althans behoorlijk is opgeroepen. Het Tribunaal kan de medebrenging van den schuldige bevelen.
 
 2. De schuldige kan zich bij dit verhoor door een raadsman doen bijstaan.
 
-3. In het geval bedoeld in [artikel 3**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) zijn de [artikelen 37, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=37&z=2015-01-01&g=2015-01-01), [43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=43&z=2015-01-01&g=2015-01-01), en [51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=51&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
+3. In het geval bedoeld in [artikel 3*f*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) zijn de [artikelen 37, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=37&z=2015-01-01&g=2015-01-01), [43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=43&z=2015-01-01&g=2015-01-01), en [51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=51&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
 
 4. De beslissing, waarbij last tot tenuitvoerlegging gegeven wordt, wordt in het openbaar uitgesproken.
 
 ##### Artikel 3h
 
-De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3e&z=2015-01-01&g=2015-01-01) en [3**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) bedoelde beslissingen aan den procureur-fiscaal, die deze onverwijld aan den schuldige doet beteekenen.
+De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3*e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3e&z=2015-01-01&g=2015-01-01) en [3*f*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) bedoelde beslissingen aan den procureur-fiscaal, die deze onverwijld aan den schuldige doet beteekenen.
 
 ##### Artikel 4
 
@@ -192,7 +166,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 - b. al hetgeen, waarover de schuldige sedert de vijandelijke bezetting om niet heeft beschikt, alsmede eenig voordeel, van de zijde van den schuldige aan een ander opgekomen ingevolge eenige sedert de vijandelijke bezetting door den schuldige aangegane overeenkomst, waarbij de waarde der verbintenis aan de zijde van den schuldige aanmerkelijk die der verbintenis aan de andere zijde overtrof;
 
-- c. pensioenen en andere al dan niet periodieke uitkeeringen in verband met het leven of den dood van den schuldige, welke hetzij aan dezen zelf, hetzij aan een derde sedert de vijandelijke bezetting zijn opgekomen of alsnog zullen opkomen ingevolge een vóór de uitspraak door den schuldige verrichte of, met inachtneming van het onder **a** en **b** gestelde, uit diens vermogen afkomstige prestatie;
+- c. pensioenen en andere al dan niet periodieke uitkeeringen in verband met het leven of den dood van den schuldige, welke hetzij aan dezen zelf, hetzij aan een derde sedert de vijandelijke bezetting zijn opgekomen of alsnog zullen opkomen ingevolge een vóór de uitspraak door den schuldige verrichte of, met inachtneming van het onder *a* en *b* gestelde, uit diens vermogen afkomstige prestatie;
 
 - d. eenig voordeel, niet vallende in een gemeenschap van goederen, hetwelk tijdens de vijandelijke bezetting aan den echtgenoot van den schuldige is opgekomen als gevolg van de gedragingen, op grond waarvan aan den schuldige de maatregel van verbeurdverklaring is opgelegd.
 
@@ -204,7 +178,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 5. Het Tribunaal kan, bij het opleggen van den maatregel van verbeurdverklaring van een deel van het vermogen van een persoon, die in eenige gemeenschap van goederen is gehuwd, tevens bepalen, dat die gemeenschap wordt ontbonden. In dat geval vervalt het niet-verbeurdverklaarde deel, voorzoover dit niet de helft van het vermogen van de gemeenschap overschrijdt, aan den echtgenoot, aan wien geen maatregel wordt opgelegd.
 
-6. De scheiding van goederen, bedoeld in het vorige lid, wordt door den secretaris van het Tribunaal openbaar gemaakt door de plaatsing van een uittreksel van de uitspraak, nadat daarop het fiat executie is verleend, in de **Nederlandsche Staatscourant.** Het uittreksel moet bevatten de dagteekening der uitspraak en de aanduiding van het Tribunaal, door hetwelk de uitspraak is gedaan; voorts de namen, voornamen, beroep en woonplaats der echtgenooten. De gronden waarop de uitspraak berust, mogen in dit uittreksel niet worden opgenomen.
+6. De scheiding van goederen, bedoeld in het vorige lid, wordt door den secretaris van het Tribunaal openbaar gemaakt door de plaatsing van een uittreksel van de uitspraak, nadat daarop het fiat executie is verleend, in de *Nederlandsche Staatscourant.* Het uittreksel moet bevatten de dagteekening der uitspraak en de aanduiding van het Tribunaal, door hetwelk de uitspraak is gedaan; voorts de namen, voornamen, beroep en woonplaats der echtgenooten. De gronden waarop de uitspraak berust, mogen in dit uittreksel niet worden opgenomen.
 
 7. De uitspraak betreffende de ontbinding der gemeenschap wordt tegenover derden eerst van kracht, nadat de in het vorige lid bedoelde openbaarmaking heeft plaats gevonden.
 
@@ -216,7 +190,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 3. In bijzondere gevallen kan Onze Minister van Veiligheid en Justitie, doch alleen op een daartoe strekkend voorstel, waartoe bij meerderheid van stemmen kan worden besloten, van de gezamenlijke Hoge Autoriteiten, aangewezen voor het verlenen van fiat-executie, bevelen, hetzij, indien de tenuitvoerlegging van een bijzondere maatregel van verbeurdverklaring nog niet is aangevangen, dat deze maatregel niet of niet geheel zal worden ten uitvoer gelegd, hetzij, indien de tenuitvoerlegging reeds geheel of gedeeltelijk heeft plaats gehad, dat aan de schuldige een bepaald bedrag zal worden gerestitueerd.
 
-## Titel II. Van de Tribunalen
+### Titel II. Van de Tribunalen
 
 ##### Artikel 9
 
@@ -288,7 +262,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 3. Het personeel der Tribunalen is ten aanzien van alles, wat in verband met zijn dienst te zijner kennis komt, tot geheimhouding verplicht.
 
-## Titel III. Van de aangifte
+### Titel III. Van de aangifte
 
 ##### Artikel 17
 
@@ -326,7 +300,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 2. Het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=35&z=2015-01-01&g=2015-01-01) is hierop van overeenkomstige toepassing.
 
-## Titel IV. Van de behandeling der zaak door het Tribunaal
+### Titel IV. Van de behandeling der zaak door het Tribunaal
 
 ##### Artikel 20
 
@@ -340,7 +314,7 @@ Indien onder de behandeling der zaak tegen den beschuldigde verdenking rijst van
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
@@ -368,7 +342,7 @@ Vervallen
 
 1. Het Tribunaal kan, indien het termen vindt tot de instelling van een voorbereidend onderzoek, dat onderzoek hetzij, als raadkamer vergaderende, zelf verrichten, hetzij geheel of gedeeltelijk opdragen aan een voorzitter, een plaatsvervangenden voorzitter, den secretaris, een adjunct-secretaris of een waarnemenden secretaris, dien het in de zaak tot commissaris benoemt. Het Tribunaal is steeds bevoegd een commissaris door een anderen commissaris te vervangen of zelf het onderzoek van den commissaris over te nemen.
 
-2. Onder voorbereidend onderzoek wordt verstaan elk onderzoek, dat aan de behandeling ter zitting voorafgaat, behalve het onderzoek, bedoeld in [artikel 19**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=III&artikel=19a&z=2015-01-01&g=2015-01-01).
+2. Onder voorbereidend onderzoek wordt verstaan elk onderzoek, dat aan de behandeling ter zitting voorafgaat, behalve het onderzoek, bedoeld in [artikel 19*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=III&artikel=19a&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 27
 
@@ -554,11 +528,11 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 - 2°. indien de beschuldigde in het Rijk in Europa geen bekende woon- of verblijfplaats noch een bijzonderen vertegenwoordiger heeft:
 
-- a. ingeval hij een bekende woonplaats heeft in België, Denemarken, Duitschland, Frankrijk, Groot-Brittannië en Ierland, Liechtenstein, Luxemburg, Monaco, Oostenrijk of Zwitserland, terminste één maand,
+   - a. ingeval hij een bekende woonplaats heeft in België, Denemarken, Duitschland, Frankrijk, Groot-Brittannië en Ierland, Liechtenstein, Luxemburg, Monaco, Oostenrijk of Zwitserland, terminste één maand,
 
-- b. ingeval hij elders in Europa een bekende woonplaats heeft, tenminste twee maanden,
+   - b. ingeval hij elders in Europa een bekende woonplaats heeft, tenminste twee maanden,
 
-- c. in alle andere gevallen tenminste drie maanden.
+   - c. in alle andere gevallen tenminste drie maanden.
 
 ##### Artikel 50
 
@@ -692,7 +666,7 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 5. Een uitspraak, waarbij de beschuldging vervallen is verklaard, wordt door den secretaris onverwijld aan Onze Minister van Veiligheid en Justitie schriftelijk medegedeeld.
 
-## Titel V. Van het fiat executie
+### Titel V. Van het fiat executie
 
 ##### Artikel 66
 
@@ -742,29 +716,29 @@ Nadat omtrent de verleening van het fiat executie is beslist, worden alle op de 
 
 4. Na beëindiging van het nieuwe onderzoek doet het Tribunal opnieuw uitspraak met bevestiging of geheele of gedeeltelijke vernietiging der oorspronkelijke uitspraak. Indien de weigering van het fiat executie alleen op een deel der opgelegde bijzondere maatregelen betrekking heeft gehad, kan de oorspronkelijke uitspraak alleen ten aanzien van de gewraakte maatregelen worden vernietigd. In geen geval kan aan den beschuldigde een bijzondere maatregel worden opgelegd, welke in de oorspronkelijke uitspraak niet was vervat; het bepaalde in [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=V&artikel=69&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-## Titel VI. Van verzoeken om invrijheidstelling
+### Titel VI. Van verzoeken om invrijheidstelling
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 76a
 
-Vervallen
+*Vervallen*
 
-## Titel VII. Slotbepalingen
+### Titel VII. Slotbepalingen
 
 ##### Artikel 77
 
@@ -776,12 +750,10 @@ In alle gevallen, waarin ingevolge de bepalingen van dit besluit bij de behandel
 
 ##### Artikel 79
 
-De bepalingen der wet van 18 April 1874 (**Staatsblad**, No. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de bepalingen tot uitvoering dier wet zijn ten aanzien van de kosten in zaken, waarvan de Tribunalen kennis nemen, voor zooveel mogelijk en voor zoover door Ons niet anders mocht worden bepaaldt, van overeenkomstige toepassing.
+De bepalingen der wet van 18 April 1874 (*Staatsblad*, No. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de bepalingen tot uitvoering dier wet zijn ten aanzien van de kosten in zaken, waarvan de Tribunalen kennis nemen, voor zooveel mogelijk en voor zoover door Ons niet anders mocht worden bepaaldt, van overeenkomstige toepassing.
 
 ##### Artikel 80
 
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den dag zijner afkondiging.
 
 2. Het kan worden aangehaald onder den titel: Tribunaalbesluit.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

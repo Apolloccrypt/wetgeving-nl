@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 26 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 28, eerste en tweede lid, van de Liquidatiewet ongevallenwetten"
+citeertitel: "Besluit overdracht contante waarden verplichtingen ongevallenverzekering aan het Arbeidsongeschiktheidsfonds"
 identifier: "BWBR0002593"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002593"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "804913"
-version_id: "1166812"
-internal_id: "C1166811"
-label_id: "780054"
-dtd_version: "2.0"
-original_entry_into_force: "1967-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002593/2002-01-01/0"
-intitule_bron: "Stb.1967-339"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-06-26"
-intitule_status: "goed"
-original_publication: "Stb.1967-339"
-original_signed_date: "1967-06-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1967-07-01"
-jci_1_3: "jci1.3:c:BWBR0002593&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0002593&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit overdracht contante waarden verplichtingen ongevallenverzekering aan het Arbeidsongeschiktheidsfonds"
-signed_date: "1967-06-26"
-entry_into_force: "1967-07-01"
+publicatiedatum: 1967-07-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0002593"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 26 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 28, eerste en tweede lid, van de Liquidatiewet ongevallenwetten
-
-Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid van 13 juni 1967 nr. 57776 Directoraat-Generaal voor Sociale Voorzieningen, Directie Sociale Verzekering, Afdeling Algemene Zaken;
-
-Gelet op [artikel 28, eerste en tweede lid, van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=28);
-
-De Raad van State gehoord (advies van 21 juni 1967 nr. 66.
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Volksgezondheid van 23 juni 1967 nr. 58082 Directoraat-Generaal voor Sociale Voorzieningen, Directie Sociale Verzekering, Afdeling Algemene Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -48,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. de risicodragers ingevolge de ongevallenwetten: de risicodragers, opgesomd in [artikel 1, onder **e** t/m g, van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=1);
+- a. de risicodragers ingevolge de ongevallenwetten: de risicodragers, opgesomd in [artikel 1, onder *e* t/m g, van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=1);
 
 - b. de liquidatiedatum: de datum, waarop [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt;
 
@@ -74,7 +46,7 @@ De verplichtingen wegens renten als bedoeld in artikel 16 der Ongevallenwet 1921
 
 2. De berekening der contante waarden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=2&artikel=3&z=2002-01-01&g=2002-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=2&artikel=4&z=2002-01-01&g=2002-01-01), vindt plaats op basis van de grondslagen - met uitzondering van de rentevoet - die per 31 december 1961 ingevolge het besluit van de Minister van Sociale Zaken en Volksgezondheid van 26 juni 1962, nr. 3294, werden gebruikt voor de opstelling van de wetenschappelijke balans van het Ongevallenfonds, met dien verstande, dat:
 
-- a. ten aanzien van het ontstaan van eventuele nagelaten betrekkingen met het bepaalde in artikel 7, eerste lid, van de wet van 9 april 1959, **Stb.** 140, houdende een interimregeling inzake beperking van samenloop van pensioenen en uitkeringen ingevolge de Algemene Weduwen- en Wezenwet met renten en uitkeringen ingevolge de Ongevallenwetten, bijslagen op die renten en uitkeringen en toeslagen op renten krachtens de Invaliditeitswet, naar de op 1 januari 1967 geldende situatie wordt rekening gehouden;
+- a. ten aanzien van het ontstaan van eventuele nagelaten betrekkingen met het bepaalde in artikel 7, eerste lid, van de wet van 9 april 1959, *Stb.* 140, houdende een interimregeling inzake beperking van samenloop van pensioenen en uitkeringen ingevolge de Algemene Weduwen- en Wezenwet met renten en uitkeringen ingevolge de Ongevallenwetten, bijslagen op die renten en uitkeringen en toeslagen op renten krachtens de Invaliditeitswet, naar de op 1 januari 1967 geldende situatie wordt rekening gehouden;
 
 - b. voor zover het de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=2&artikel=4&z=2002-01-01&g=2002-01-01) bedoelde gevallen betreft, bovendien een reductie van 2% wordt toegepast op het gedeelte der contante waarden, dat betrekking heeft op het ontstaan van eventuele nagelaten betrekkingen en bepaalde in de sterftekansen verwerkte veiligheidsmarges buiten toepassing worden gelaten.
 
@@ -96,7 +68,7 @@ De rekenrente voor de berekening der contante waarden, bedoeld in de voorgaande 
 
 2. Ten aanzien van de in het eerste lid bedoelde omrekening is [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=2&artikel=5&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing.
 
-3. De contante waarden, bedoeld in het eerste lid, worden verhoogd met interest tot aan de in [artikel 14, onder **a**, onderscheidenlijk **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=14&z=2002-01-01&g=2002-01-01), bedoelde datum van overdracht.
+3. De contante waarden, bedoeld in het eerste lid, worden verhoogd met interest tot aan de in [artikel 14, onder *a*, onderscheidenlijk *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=14&z=2002-01-01&g=2002-01-01), bedoelde datum van overdracht.
 
 4. De rekenrente voor de berekening der contante waarden, evenals die voor de vaststelling van de interest, bedoeld in het derde lid, wordt vastgesteld op het percentage, dat een half jaar, onderscheidenlijk een jaar, na de liquidatiedatum gemiddeld geldt voor obligatieleningen aan overheidsinstanties en openbare nutsbedrijven met een looptijd van gemiddeld circa 12 jaar zonder de mogelijkheid van vervroegde aflossing met dien verstande dat het percentage naar boven wordt afgerond op een veelvoud van 1/8 %.
 
@@ -122,7 +94,7 @@ De rekenrente voor de berekening der contante waarden, bedoeld in de voorgaande 
 
 - b. verplichtingen ter zake van renten, waarvan de ingangsdatum ligt op of na 1 oktober 1959.
 
-2. De vaststelling der verplichtingen, bedoeld in het eerste lid, onder **b**, geschiedt met inachtneming van de vermindering, die het gevolg is van de toepassing van artikel 7 van de wet van 9 april 1959, **Stb.** 140, houdende een interimregeling inzake beperking van samenloop van pensioenen en uitkeringen ingevolge de Algemene Weduwen- en Wezenwet met renten en uitkeringen ingevolge de Ongevallenwetten, bijslagen op die renten en uitkeringen en toeslagen op renten krachten de Invaliditeitswet.
+2. De vaststelling der verplichtingen, bedoeld in het eerste lid, onder *b*, geschiedt met inachtneming van de vermindering, die het gevolg is van de toepassing van artikel 7 van de wet van 9 april 1959, *Stb.* 140, houdende een interimregeling inzake beperking van samenloop van pensioenen en uitkeringen ingevolge de Algemene Weduwen- en Wezenwet met renten en uitkeringen ingevolge de Ongevallenwetten, bijslagen op die renten en uitkeringen en toeslagen op renten krachten de Invaliditeitswet.
 
 ##### Artikel 11
 
@@ -176,7 +148,7 @@ Voor zover de overdracht plaatsvindt in de vorm van obligaties en pandbrieven wo
 
 ##### Artikel 17
 
-1. Voor zover de overdracht plaatsvindt in de vorm van onderhandse leningen met op de datum van overdracht een langere gemiddelde looptijd dan een jaar, worden deze gewaardeerd tegen de contante waarde op genoemde datum. De daarbij te bezigen rekenrente is voor elke lening verschillend naar gelang van de gemiddelde looptijd en wordt vastgesteld op basis van het volgende schema: **Gemiddelde looptijd**
+1. Voor zover de overdracht plaatsvindt in de vorm van onderhandse leningen met op de datum van overdracht een langere gemiddelde looptijd dan een jaar, worden deze gewaardeerd tegen de contante waarde op genoemde datum. De daarbij te bezigen rekenrente is voor elke lening verschillend naar gelang van de gemiddelde looptijd en wordt vastgesteld op basis van het volgende schema: *Gemiddelde looptijd*
 
 > 1 jaar < 2 jaar
 
@@ -224,19 +196,19 @@ Vooruitlopend op de definitieve overdracht wordt door elke risicodrager uiterlij
 
 - a. een voorlopige opgave van de bedragen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=13&z=2002-01-01&g=2002-01-01), uitgaande van een door het Uitvoeringsinstituut werknemersverzekeringen uiterlijk 2 maanden vóór de liquidatiedatum op te geven voorlopige rekenrente;
 
-- b. een opgave van objecten en middelen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=6&artikel=15&z=2002-01-01&g=2002-01-01), dienende ter effectuering van de overdracht, met dien verstande dat de waarde dezer objecten en middelen het onder **a** bedoelde bedrag met ten minste 10 en ten hoogste 40% zal overtreffen.
+- b. een opgave van objecten en middelen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=6&artikel=15&z=2002-01-01&g=2002-01-01), dienende ter effectuering van de overdracht, met dien verstande dat de waarde dezer objecten en middelen het onder *a* bedoelde bedrag met ten minste 10 en ten hoogste 40% zal overtreffen.
 
 ##### Artikel 21
 
-1. Het Arbeidsongeschiktheidsfonds heeft gedurende 6 weken na ontvangst van de in [artikel 20, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), genoemde opgave het recht te verlangen, dat de risicodrager een op de opgave voorkomende schuldvordering vervangt door een andere, indien het de solvabiliteit van de debiteur in twijfel trekt. De risicodrager voldoet aan een dergelijk verlangen, behoudens het recht zich te beroepen op de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=8&artikel=27&z=2002-01-01&g=2002-01-01) bedoelde commissie.
+1. Het Arbeidsongeschiktheidsfonds heeft gedurende 6 weken na ontvangst van de in [artikel 20, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), genoemde opgave het recht te verlangen, dat de risicodrager een op de opgave voorkomende schuldvordering vervangt door een andere, indien het de solvabiliteit van de debiteur in twijfel trekt. De risicodrager voldoet aan een dergelijk verlangen, behoudens het recht zich te beroepen op de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=8&artikel=27&z=2002-01-01&g=2002-01-01) bedoelde commissie.
 
-2. Eenzelfde recht als in het eerste lid bedoeld zonder enige beperking en zonder de mogelijkheid van verweer door de risicodrager heeft het Arbeidsongeschiktheidsfonds voor wat betreft objecten, genoemd in [artikel 15, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=6&artikel=15&z=2002-01-01&g=2002-01-01).
+2. Eenzelfde recht als in het eerste lid bedoeld zonder enige beperking en zonder de mogelijkheid van verweer door de risicodrager heeft het Arbeidsongeschiktheidsfonds voor wat betreft objecten, genoemd in [artikel 15, onder *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=6&artikel=15&z=2002-01-01&g=2002-01-01).
 
 ##### Artikel 22
 
-1. De op de opgave, bedoeld in [artikel 20, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), voorkomende contanten worden uiterlijk een maand na de liquidatiedatum door de risicodrager in het bezit van het Arbeidsongeschiktheidsfonds gesteld.
+1. De op de opgave, bedoeld in [artikel 20, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), voorkomende contanten worden uiterlijk een maand na de liquidatiedatum door de risicodrager in het bezit van het Arbeidsongeschiktheidsfonds gesteld.
 
-2. De feitelijke overdracht van andere objecten, voorkomende op de opgave volgens [artikel 20, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), vindt zo spoedig mogelijk, doch uiterlijk 4 maanden na de liquidatiedatum plaats in zodanige omvang, dat te zamen met hetgeen volgens het eerste lid werd overgedragen, de overdracht van ten minste 90% van het krachtens [artikel 20, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), opgegeven bedrag als geëffectueerd kan worden beschouwd.
+2. De feitelijke overdracht van andere objecten, voorkomende op de opgave volgens [artikel 20, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), vindt zo spoedig mogelijk, doch uiterlijk 4 maanden na de liquidatiedatum plaats in zodanige omvang, dat te zamen met hetgeen volgens het eerste lid werd overgedragen, de overdracht van ten minste 90% van het krachtens [artikel 20, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), opgegeven bedrag als geëffectueerd kan worden beschouwd.
 
 ##### Artikel 23
 
@@ -244,9 +216,9 @@ Vooruitlopend op de definitieve overdracht wordt door elke risicodrager uiterlij
 
 - a. een definitieve opgave van de bedragen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=13&z=2002-01-01&g=2002-01-01);
 
-- b. zo nodig een opgave van objecten als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=6&artikel=15&z=2002-01-01&g=2002-01-01), ter aanvulling van de volgens [artikel 20, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), verstrekte opgave. Daarbij is het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=21&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing.
+- b. zo nodig een opgave van objecten als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=6&artikel=15&z=2002-01-01&g=2002-01-01), ter aanvulling van de volgens [artikel 20, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=20&z=2002-01-01&g=2002-01-01), verstrekte opgave. Daarbij is het bepaalde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=21&z=2002-01-01&g=2002-01-01) van overeenkomstige toepassing.
 
-2. Tegelijkertijd met de verstrekking van de in het eerste lid bedoelde opgaven vindt de aanvullende feitelijke overdracht - of ingeval vroeger teveel werd overgedragen, de teruggave - plaats van objecten en middelen waardoor deze overdracht te zamen met de voorlopige overdracht ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=22&z=2002-01-01&g=2002-01-01), het totale in het eerste lid, onder **a**, bedoelde bedrag omvat.
+2. Tegelijkertijd met de verstrekking van de in het eerste lid bedoelde opgaven vindt de aanvullende feitelijke overdracht - of ingeval vroeger teveel werd overgedragen, de teruggave - plaats van objecten en middelen waardoor deze overdracht te zamen met de voorlopige overdracht ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=22&z=2002-01-01&g=2002-01-01), het totale in het eerste lid, onder *a*, bedoelde bedrag omvat.
 
 ##### Artikel 24
 
@@ -254,21 +226,21 @@ Het gestelde in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR000259
 
 ##### Artikel 25
 
-De opgave, bedoeld in [artikel 23, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=23&z=2002-01-01&g=2002-01-01), alsmede de overeenkomstige opgaven, voortvloeiende uit [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=24&z=2002-01-01&g=2002-01-01), vereisen:
+De opgave, bedoeld in [artikel 23, eerste lid, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=23&z=2002-01-01&g=2002-01-01), alsmede de overeenkomstige opgaven, voortvloeiende uit [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=7&artikel=24&z=2002-01-01&g=2002-01-01), vereisen:
 
 - a. voor zover afkomstig van risicodragers in de zin van de Ongevallenwet 1921 dan wel het Landbouwongevallenfonds de akkoordbevinding door de directie van de Sociale verzekeringsbank of haar wiskundig adviseur;
 
 - b. voor zover afkomstig van de overige risicodragers:
 
-- 1e. voor wat betreft de toepassing van de grondslagen en de actuariële berekeningen de akkoordbevinding van de directie van de Sociale verzekeringsbank of haar wiskundig adviseur;
+   - 1e. voor wat betreft de toepassing van de grondslagen en de actuariële berekeningen de akkoordbevinding van de directie van de Sociale verzekeringsbank of haar wiskundig adviseur;
 
-- 2e. voor wat betreft de omvang van de verplichtingen, waarop de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=13&z=2002-01-01&g=2002-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=14&z=2002-01-01&g=2002-01-01) bedoelde bedragen betrekking hebben, de akkoordbevinding van het Uitvoeringsinstituut werknemersverzekeringen.
+   - 2e. voor wat betreft de omvang van de verplichtingen, waarop de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=13&z=2002-01-01&g=2002-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002593&paragraaf=5&artikel=14&z=2002-01-01&g=2002-01-01) bedoelde bedragen betrekking hebben, de akkoordbevinding van het Uitvoeringsinstituut werknemersverzekeringen.
 
 #### § 8. Slotbepalingen
 
 ##### Artikel 26
 
-Panden, die de Sociale verzekeringsbank op grond van artikel 54 of artikel 58, eerste lid, ten 3e, der Ongevallenwet 1921, onderscheidenlijk artikel 17 of artikel 25, onder **b**, der Land- en Tuinbouwongevallenwet 1922, in haar bezit heeft, alsmede de panden, welke het Ministerie van Financiën op grond van artikel 6 van de Zeeongevallenwet 1919 onder zijn berusting heeft, worden aan de betrokken risicodragers teruggegeven:
+Panden, die de Sociale verzekeringsbank op grond van artikel 54 of artikel 58, eerste lid, ten 3e, der Ongevallenwet 1921, onderscheidenlijk artikel 17 of artikel 25, onder *b*, der Land- en Tuinbouwongevallenwet 1922, in haar bezit heeft, alsmede de panden, welke het Ministerie van Financiën op grond van artikel 6 van de Zeeongevallenwet 1919 onder zijn berusting heeft, worden aan de betrokken risicodragers teruggegeven:
 
 - a. voor zover uitmakende aan het Arbeidsongeschiktheidsfonds overeenkomstig de paragrafen 5, 6 en 7 over te dragen objecten dan wel daarvan het equivalent vormende: op het tijdstip van de feitelijke overdracht;
 
@@ -304,6 +276,4 @@ Dit besluit kan worden aangehaald als Besluit overdracht contante waarden verpli
 
 ##### Artikel 33
 
-Dit besluit treedt in werking met ingang van de tweede dag na die, waarop het in het **Staatsblad** is geplaatst en werkt terug tot 1 juli 1967.
-
-Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de tweede dag na die, waarop het in het *Staatsblad* is geplaatst en werkt terug tot 1 juli 1967.

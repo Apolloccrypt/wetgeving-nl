@@ -1,43 +1,18 @@
 ---
 title: "Wet van 24 mei 1956, houdende instelling van een productschap voor vis en visproducten"
+citeertitel: "Instellingswet Productschap voor Vis en Visproducten"
 identifier: "BWBR0002220"
-country: "nl"
-rank: "wet"
-publication_date: "1992-01-01"
-last_updated: "1992-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002220"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1399783"
-version_id: "2099252"
-internal_id: "C2099251"
-label_id: "1357454"
-dtd_version: "2.0"
-original_entry_into_force: "1957-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002220/1992-01-01/0"
-intitule_bron: "Stb.1956-332"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1956-05-24"
-intitule_status: "goed"
-original_publication: "Stb.1956-332"
-original_signed_date: "1956-05-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "4178"
-entry_into_force_date: "1957-02-01"
-jci_1_3: "jci1.3:c:BWBR0002220&z=1992-01-01&g=1992-01-01"
-jci_1_0: "1.0:c:BWBR0002220&g=1992-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Productschap voor Vis en Visproducten"
-signed_date: "1956-05-24"
-entry_into_force: "1957-02-01"
+publicatiedatum: 1957-02-01
+laatste_update: 1992-01-01
+status: geldig
+toestand: 1992-01-01
+bron: "https://wetten.overheid.nl/BWBR0002220"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 mei 1956, houdende instelling van een productschap voor vis en visproducten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een productschap als bedoeld in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K 22) voor ondernemingen op het gebied van de visserij, de be- en verwerking van en de handel in vis en visproducten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -57,17 +32,17 @@ de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wor
 
 2. In deze wet wordt verstaan onder:
 
-**vis:** vis, delen van vis, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren;
+*vis:* vis, delen van vis, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren;
 
-**visserij:** het bedrijf van het vangen of kweken van vissen, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren.
+*visserij:* het bedrijf van het vangen of kweken van vissen, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren.
 
-3. In deze wet wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
+3. In deze wet wordt onder *handel* mede verstaan de werkzaamheid van tussenpersonen.
 
 4. Als ondernemingen, bedoeld in het eerste lid, worden mede aangemerkt de veilingen van de in dat lid bedoelde produkten.
 
 ##### Artikel 3
 
-In afwijking van [artikel 73, vierde lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=73) (**Stb.** 1950, K22) bedraagt het aantal door organisaties van werknemers te benoemen leden van het bestuur van het produktschap tenminste 1/3 van het totaal aantal te benoemen bestuursleden.
+In afwijking van [artikel 73, vierde lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=73) (*Stb.* 1950, K22) bedraagt het aantal door organisaties van werknemers te benoemen leden van het bestuur van het produktschap tenminste 1/3 van het totaal aantal te benoemen bestuursleden.
 
 ##### Artikel 4
 
@@ -79,15 +54,15 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 
 - a. aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, waaronder begrepen:
 
-- -. de bevordering van de kwaliteit en de gezondheidstoestand, de verzorging en de verpakking van vis en visprodukten;
+   - - de bevordering van de kwaliteit en de gezondheidstoestand, de verzorging en de verpakking van vis en visprodukten;
 
-- -. de aanduiding van ten verkoop aangeboden vis en visprodukten;
+   - - de aanduiding van ten verkoop aangeboden vis en visprodukten;
 
-- -. de opslag en bewerking van vis en visprodukten;
+   - - de opslag en bewerking van vis en visprodukten;
 
-- -. de behandeling en de terugzending van verpakkingsmateriaal door degenen, die een onderneming drijven, waarvoor het produktschap is ingesteld;
+   - - de behandeling en de terugzending van verpakkingsmateriaal door degenen, die een onderneming drijven, waarvoor het produktschap is ingesteld;
 
-- -. standaardvoorwaarden voor de verkoop, levering en betaling, voorzover het betreft het economisch verkeer tussen degenen, die een onderneming drijven waarvoor het produktschap is ingesteld;
+   - - standaardvoorwaarden voor de verkoop, levering en betaling, voorzover het betreft het economisch verkeer tussen degenen, die een onderneming drijven waarvoor het produktschap is ingesteld;
 
 - b. de technische inrichting van ondernemingen, voorzover deze verband houden met de bevordering van de kwaliteit of de gezondheidstoestand van vis en visprodukten, verzorging en verpakking van vis en visprodukten, opslag en bewerking van vis en visprodukten;
 
@@ -101,7 +76,7 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 
 - g. de vakopleiding.
 
-2. Als aangelegenheden, bedoeld in het eerste lid, onder **a**, worden niet aangemerkt:
+2. Als aangelegenheden, bedoeld in het eerste lid, onder *a*, worden niet aangemerkt:
 
 - a. de vestiging, uitbreiding en stillegging van ondernemingen;
 
@@ -111,7 +86,7 @@ Het bestuur is bevoegd uit zijn midden voor elk lid van het dagelijks bestuur ee
 
 3. Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.
 
-4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder **d** en **e**, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
+4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder *d* en *e*, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
 ##### Artikel 6
 
@@ -140,5 +115,3 @@ Deze wet kan worden aangehaald als: Instellingswet Productschap voor Vis en Visp
 ##### Artikel 11
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,62 +1,38 @@
 ---
 title: "Wet van 20 december 1956, houdende verhoging van militaire pensioenen met een algemene toeslag"
+citeertitel: "Algemene toeslagwet voor gepensioneerde militairen 1956"
 identifier: "BWBR0002240"
-country: "nl"
-rank: "wet"
-publication_date: "1963-06-01"
-last_updated: "1963-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002240"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "848413"
-version_id: "1233822"
-internal_id: "C1233821"
-label_id: "822784"
-dtd_version: "2.0"
-original_entry_into_force: "1957-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002240/1963-06-01/0"
-intitule_bron: "Stb.1956-619"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1956-12-20"
-intitule_status: "goed"
-original_publication: "Stb.1956-619"
-original_signed_date: "1956-12-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1957-01-01"
-jci_1_3: "jci1.3:c:BWBR0002240&z=1963-06-01&g=1963-06-01"
-jci_1_0: "1.0:c:BWBR0002240&g=1963-06-01"
-citeertitel_status: "officieel"
-short_title: "Algemene toeslagwet voor gepensioneerde militairen 1956"
-signed_date: "1956-12-20"
-entry_into_force: "1957-01-01"
+publicatiedatum: 1957-01-01
+laatste_update: 1963-06-01
+status: geldig
+toestand: 1963-06-01
+bron: "https://wetten.overheid.nl/BWBR0002240"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 20 december 1956, houdende verhoging van militaire pensioenen met een algemene toeslag
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de beperking van overheidspensioenen bij gelijktijdige aanspraak op een pensioenwet krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1956, 281) het wenselijk maakt de militaire pensioenen verder aan te passen aan het geldend bezoldigingspeil;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-1. Deze wet verstaat onder **pensioen:** het nominale bedrag, zoals dit laatstelijk is of wordt vastgesteld, van een pensioen ten laste van het Rijk of van het Algemeen Burgerlijk Pensioenfonds, toegekend krachtens of op de voet van de Pensioenwet voor de zeemacht 1922 (**Stb.** 65), de Pensioenwet voor de landmacht 1922 (**Stb.** 66), de Pensioenwet voor het personeel der Koninklijke marine-reserve 1923 (**Stb** 355), de Pensioenwet voor het reserve-personeel der landmacht 1923 (**Stb.** 356) - met uitzondering van een pensioen toegekend krachtens de artikelen 20 van genoemde wetten -, de Pensioenwet voor de vrijwilligers bij de landstorm 1925 (**Stb.** 278), onderscheidenlijk krachtens of op de voet van de Militaire Weduwenwet 1922 (**Stb.** 337), dan wel een der aan genoemde wetten voorafgaande regelingen of wetten betreffende pensioenaanspraken, welke daarna in eerstbedoelde wetten zijn geregeld of geacht worden te zijn geregeld.
+1. Deze wet verstaat onder *pensioen:* het nominale bedrag, zoals dit laatstelijk is of wordt vastgesteld, van een pensioen ten laste van het Rijk of van het Algemeen Burgerlijk Pensioenfonds, toegekend krachtens of op de voet van de Pensioenwet voor de zeemacht 1922 (*Stb.* 65), de Pensioenwet voor de landmacht 1922 (*Stb.* 66), de Pensioenwet voor het personeel der Koninklijke marine-reserve 1923 (*Stb* 355), de Pensioenwet voor het reserve-personeel der landmacht 1923 (*Stb.* 356) - met uitzondering van een pensioen toegekend krachtens de artikelen 20 van genoemde wetten -, de Pensioenwet voor de vrijwilligers bij de landstorm 1925 (*Stb.* 278), onderscheidenlijk krachtens of op de voet van de Militaire Weduwenwet 1922 (*Stb.* 337), dan wel een der aan genoemde wetten voorafgaande regelingen of wetten betreffende pensioenaanspraken, welke daarna in eerstbedoelde wetten zijn geregeld of geacht worden te zijn geregeld.
 
-2. Deze wet begrijpt mede onder **pensioen:** de wettelijke verhogingen en aanvullingen, met uitzondering van:
+2. Deze wet begrijpt mede onder *pensioen:* de wettelijke verhogingen en aanvullingen, met uitzondering van:
 
 - a. de toeslagen en de extra bijslag verleend krachtens:
 
-- 1. de wet van 1 november 1948 (**Stb.** I 479),
+   - 1. de wet van 1 november 1948 (*Stb.* I 479),
 
-- 2. de wet van 5 november 1948 (**Stb.** I 498),
+   - 2. de wet van 5 november 1948 (*Stb.* I 498),
 
-- 3. de wet van 9 november 1950 (**Stb.** K 502);
+   - 3. de wet van 9 november 1950 (*Stb.* K 502);
 
-- 4. de Toeslagwet-1954 voor gepensioneerden (**Stb.** 1954, 188),
+   - 4. de Toeslagwet-1954 voor gepensioneerden (*Stb.* 1954, 188),
 
-- 5. de Aanpassingstoeslagwet voor gepensioneerden (**Stb.** 1954, 377),
+   - 5. de Aanpassingstoeslagwet voor gepensioneerden (*Stb.* 1954, 377),
 
-- 6. de Nadere Toeslagwet-1954 voor gepensioneerde militairen (**Stb.** 1956, 342);
+   - 6. de Nadere Toeslagwet-1954 voor gepensioneerde militairen (*Stb.* 1956, 342);
 
 - b. de pensioensverhogingen, gegrond op de artikelen 22 van de Pensioenwet voor de zeemacht 1922 en de Pensioenwet voor de landmacht 1922 of op de artikelen 25 en 28 van de Militaire Weduwenwet 1922.
 
@@ -64,7 +40,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor zover het recht op pensioen op het tijdstip van het in werking treden van deze wet niet is vervallen, worden de pensioenen met ingang van dat tijdstip of van het later tijdstip, waarop zij zullen ingaan, met inachtneming van de volgende bepalingen, ambtshalve verhoogd met een toeslag, verder te noemen algemene toeslag.
 
-2. Op het tijdstip, met ingang waarvan een pensioen is verhoogd met een algemene toeslag of met een overgangstoeslag, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=15&z=1963-06-01&g=1963-06-01), vervallen de toeslagen en de extra bijslag, welke, krachtens de in [artikel 1, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01) genoemde wetten, op een pensioen zijn verleend.
+2. Op het tijdstip, met ingang waarvan een pensioen is verhoogd met een algemene toeslag of met een overgangstoeslag, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=15&z=1963-06-01&g=1963-06-01), vervallen de toeslagen en de extra bijslag, welke, krachtens de in [artikel 1, tweede lid, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01) genoemde wetten, op een pensioen zijn verleend.
 
 ##### Artikel 3
 
@@ -76,9 +52,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de berekening van het verhogingspercentage voor pensioenen, welke krachtens of op de voet van een der wetten, genaamd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01), aan militairen der zeemacht en aan nabestaanden man militairen of gepensioneerde militairen der zeemacht zijn of worden toegekend - met uitzondering van die, genoemd in het derde lid - hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarnaast vermelde tijdvakken en de daarboven vermelde rangen en stand of de door Ons of door Onze Minister van Marine daarmede gelijkgestelde rangen en stand:
 
-| Tijdvakken | Tijdvakken |   | Luitenant-admiraal | Vice-admiraal | Schout-bij-nacht | Commandeur | Kapitein ter zee |
+| Tijdvakken |  | Luitenant-admiraal | Vice-admiraal | Schout-bij-nacht | Commandeur | Kapitein ter zee |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 | 1918 | – | 217,8 | 235 | – | 196,9 |
+| vóór 1 januari | 1918 | – | 217,8 | 235 | – | 196,9 |  |
 | 1 januari | 1918 tot en met 31 december | 1919 | – | 182,3 | 175,8 | – | 144 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | – | 126,7 | 118 | – | 106,3 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | – | 137,1 | 127,9 | – | 115,2 |
@@ -101,11 +77,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 19,2 | 19,9 | 20,2 | 21,1 | 20,6 |
 | 1 januari | 1955 „ „ „ 30 juni | 1955 | 10,3 | 10,9 | 11,2 | 12 | 11,6 |
 | 1 juli | 1955 „ „ „ 31 december | 1956 | 8 | 8 | 8 | 8 | 8 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 | 0 |
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Kapitein-luitenant ter zee | Luitenant ter zee der 1e klasse | Luitenant ter zee der 2e klasse oudste categorie en luitenant ter zee der 2e klasse tot 1 januari 1955 | Luitenant ter zee der 2e klasse jongste categorie en luitenant ter zee der 3e klasse van 1 juli 1945 tot 1 januari 1955 | Luitenant ter zee der 3e klasse en adelborst der 1e klasse van 1 juli 1945 tot 1 januari 1955 |
+| Tijdvakken | Kapitein-luitenant ter zee | Luitenant ter zee der 1e klasse | Luitenant ter zee der 2e klasse oudste categorie en luitenant ter zee der 2e klasse tot 1 januari 1955 | Luitenant ter zee der 2e klasse jongste categorie en luitenant ter zee der 3e klasse van 1 juli 1945 tot 1 januari 1955 | Luitenant ter zee der 3e klasse en adelborst der 1e klasse van 1 juli 1945 tot 1 januari 1955 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 |   | 230,4 | 263,4 | 329,8 | – | 302,4 |
+| vóór 1 januari | 1918 |  | 230,4 | 263,4 | 329,8 | – | 302,4 |
 | 1 januari | 1918 tot en met 31 december | 1919 | 138,2 | 118,4 | 177,7 | – | 224,7 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | 100,8 | 89,5 | 137,5 | – | 105,7 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | 109,6 | 97,6 | 146,2 | – | 111,1 |
@@ -126,11 +102,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 20,9 | 20,2 | 19,6 | 19,2 | 19,1 |
 | 1 januari | 1955 „ „ „ 30 juni | 1955 | 11,9 | 11,2 | 10,7 | 10,3 | 10,3 |
 | 1 juli | 1955 „ „ „ 31 december | 1956 | 8 | 8 | 8 | 8 | 7,9 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 | 0 |
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Adjudant-onderofficier | Sergeant-majoor | Sergeant | Korporaal | Matroos |
+| Tijdvakken | Adjudant-onderofficier | Sergeant-majoor | Sergeant | Korporaal | Matroos |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 | 345,5 | 360,1 | 374,4 | 534,5 | 529,2 |   |
+| vóór 1 januari | 1918 | 345,5 | 360,1 | 374,4 | 534,5 | 529,2 |  |
 | 1 januari | 1918 tot en met 31 december | 1919 | 194,2 | 197,2 | 218,4 | 248,8 | 268,9 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | 123,3 | 115,5 | 117,5 | 126,3 | 138,5 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | 129,8 | 120,8 | 121,9 | 132,1 | 143,1 |
@@ -151,13 +127,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 18,5 | 18,8 | 19 | 19,6 | 20 |
 | 1 januari | 1955 „ „ „ 30 juni | 1955 | 9,8 | 10 | 10,1 | 10,9 | 11 |
 | 1 juli | 1955 „ „ „ 31 december | 1956 | 8 | 8 | 7,9 | 8,2 | 8,1 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 | 0 |
 
 2. Voor de berekening van het verhogingspercentage voor pensioenen, welke krachtens of op de voet van een der wetten, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01), aan militairen der Koninklijke landmacht of luchtmacht en aan nabestaanden van militairen of gepensioneerde militairen der Koninklijke landmacht of luchtmacht zijn of worden toegekend - met uitzondering van die, genoemd in het derde lid - hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarnaast vermelde tijdvakken en de daarboven vermelde rangen en stand en klassen of de door Ons of door Onze Minister van Oorlog daarmede gelijkgestelde rangen en stand der klassen:
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Generaal | Luitenant–generaal | Generaal–majoor | Brigade–generaal Comodore | Kolonel |
+| Tijdvakken | Generaal | Luitenant–generaal | Generaal–majoor | Brigade–generaal Comodore | Kolonel |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 |   | – | 247,3 | 270,5 | – | 269,1 |
+| vóór 1 januari | 1918 |  | – | 247,3 | 270,5 | – | 269,1 |
 | 1 januari | 1918 tot en met 31 december | 1919 | – | 182,6 | 191,7 | – | 177,7 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | – | 130,8 | 127,1 | – | 122,3 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | – | 146,5 | 142,9 | – | 138,3 |
@@ -183,11 +159,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 19,2 | 19,9 | 20,2 | 21 | 20,6 |
 | 1 januari | 1955 „ „ „ 31 juli | 1955 | 10,2 | 10,9 | 11,1 | 11,9 | 11,5 |
 | 1 augustus | 1955 „ „ „ 31 december | 1956 | 8 | 8 | 8 | 8 | 8 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 | 0 |
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Luitenant-kolonel | Majoor | Kapitein | Eerste luitenant | Tweede luitenant |
+| Tijdvakken | Luitenant-kolonel | Majoor | Kapitein | Eerste luitenant | Tweede luitenant |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 |   | 278 | 264,6 | 243,3 | 270,7 | 568,6 |
+| vóór 1 januari | 1918 |  | 278 | 264,6 | 243,3 | 270,7 | 568,6 |
 | 1 januari | 1918 tot en met 31 december | 1919 | 171,2 | 156,5 | 130,4 | 156,1 | 397,1 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | 117,1 | 100,6 | 70,3 | 99,5 | 215,2 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | 133,2 | 116 | 83,3 | 116,6 | 223,1 |
@@ -209,11 +185,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 20,9 | 19,8 | 19,4 | 19,1 | 19 |
 | 1 januari | 1955 „ „ „ 31 juli | 1955 | 11,8 | 10,8 | 10,5 | 10,2 | 10 |
 | 1 augustus | 1955 „ „ „ 31 december | 1956 | 8 | 8 | 8 | 8 | 8 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 | 0 |
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Onder–luitenant | Adjudant–onderofficier | Sergeant–majoor | Sergeant der 1e klasse | Sergeant |
+| Tijdvakken | Onder–luitenant | Adjudant–onderofficier | Sergeant–majoor | Sergeant der 1e klasse | Sergeant |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 |   | – | 378,3 | 411,6 | 516,7 | 484,4 |
+| vóór 1 januari | 1918 |  | – | 378,3 | 411,6 | 516,7 | 484,4 |
 | 1 januari | 1918 tot en met 31 december | 1919 | – | 192,4 | 196,9 | 265,3 | 282,2 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | – | 112,5 | 124,2 | 138,3 | 129,1 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | – | 134 | 147,3 | 144,3 | 152,7 |
@@ -235,11 +211,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 18,8 | 18,9 | 19 | 19,6 | 19,2 |
 | 1 januari | 1955 „ „ „ 31 juli | 1955 | 9,9 | 10 | 10 | 10,7 | 10,3 |
 | 1 augustus | 1955 „ „ „ 31 december | 1956 | 7,9 | 8 | 7,9 | 7,9 | 7,9 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 | 0 |
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Korporaal der 1e klasse | Korporaal | Soldaat der 1e klasse | Soldaat |
+| Tijdvakken | Korporaal der 1e klasse | Korporaal | Soldaat der 1e klasse | Soldaat |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| vóór 1 januari | 1918 |   | – | 538,1 | – | 469 |
+| vóór 1 januari | 1918 |  | – | 538,1 | – | 469 |
 | 1 januari | 1918 tot en met 31 december | 1919 | – | 263,1 | – | 178 |
 | 1 januari | 1920 „ „ „ 30 april | 1924 | – | 163,8 | – | 98,2 |
 | 1 mei | 1924 „ „ „ 30 september | 1924 | – | 199,7 | – | 110,8 |
@@ -261,26 +237,26 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 | 1 januari | 1954 „ „ „ 31 december | 1954 | 19,8 | 20,4 | 21,2 | 21,2 |
 | 1 januari | 1955 „ „ „ 31 juli | 1955 | 10,7 | 11,2 | 12,1 | 12,1 |
 | 1 augustus | 1955 „ „ „ 31 december | 1956 | 8 | 7,9 | 7,8 | 7,8 |
-| 1 januari | 1957 |   | 0 | 0 | 0 | 0 |
+| 1 januari | 1957 |  | 0 | 0 | 0 | 0 |
 
 3. Voor de berekening van het verhogingspercentage voor:
 
 - 1°. pensioenen, welke zijn of worden toegekend met gebruikmaking van een pensioensgrondslag, berekend met inachtneming van het bepaalde bij:
 
-- a. het [vierde lid van de artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=13&z=1963-06-01&g=1963-06-01) der Pensioenwetten zee- en landmacht 1922 ,
+   - a. het [vierde lid van de artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=13&z=1963-06-01&g=1963-06-01) der Pensioenwetten zee- en landmacht 1922 ,
 
-- b. het [derde lid van de artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=14&z=1963-06-01&g=1963-06-01) der Pensioenwetten voor het personeel der Koninklijke marine-reserve en het reserve-personeel der landmacht 1923 ,
+   - b. het [derde lid van de artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=14&z=1963-06-01&g=1963-06-01) der Pensioenwetten voor het personeel der Koninklijke marine-reserve en het reserve-personeel der landmacht 1923 ,
 
-- c. punt **b** van artikel 5 der Wet buitengewoon militair pensioen 1914-1918 (**Stb.** 1948, I 496),
+   - c. punt *b* van artikel 5 der Wet buitengewoon militair pensioen 1914-1918 (*Stb.* 1948, I 496),
 
 - 2°. pensioenen, welke zijn of worden toegekend krachtens het bepaalde in de artikelen 37, eerste lid onder 4°, 5° en 6° der Pensioenwetten zee- en landmacht 1922 en de artikelen 30, eerste lid onder 4°, 5° en 6° der Pensioenwetten voor het personeel der Koninklijke marine-reserve en het reserve-personeel der landmacht 1923 ,
 
 hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarnaast vermelde tijdvakken:
 
-| Tijdvakken | Tijdvakken | Tijdvakken | Grondgetallen |
+| Tijdvakken | Grondgetallen |  |  |
 | --- | --- | --- | --- |
-|   |   |   |   |
-| vóór 30 juni | 1947 |   | 71,1 |
+|  |  |  |  |
+| vóór 30 juni | 1947 |  | 71,1 |
 | 30 juni | 1947 | tot en met 31 december 1947 | 69,4 |
 | 1 januari | 1948 | „ „ „ 31 december 1948 | 62,9 |
 | 1 januari | 1949 | „ „ „ 31 december 1949 | 56,9 |
@@ -291,7 +267,7 @@ hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarn
 | 1 januari | 1954 | „ „ „ 31 december 1954 | 17,9 |
 | 1 januari | 1955 | „ „ „ 31 december 1955 | 9,6 |
 | 1 januari | 1956 | „ „ „ 31 december 1956 | 4,8 |
-| 1 januari | 1957 |   | 0 |
+| 1 januari | 1957 |  | 0 |
 
 ##### Artikel 5
 
@@ -309,9 +285,9 @@ hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarn
 
 ##### Artikel 6
 
-1. Het verhogingspercentage voor pensioenen, welke krachtens de wet van 28 augustus 1851 (**Stb.** 127), de Pensioenwet voor de zeemacht 1902 of de wet van 12 juli 1895 (**Stb.** 104) zijn toegekend, bedraagt 481.
+1. Het verhogingspercentage voor pensioenen, welke krachtens de wet van 28 augustus 1851 (*Stb.* 127), de Pensioenwet voor de zeemacht 1902 of de wet van 12 juli 1895 (*Stb.* 104) zijn toegekend, bedraagt 481.
 
-2. Het verhogingspercentage voor pensioenen, welke krachtens de wet van 28 augustus 1851 (**Stb.** 129), de Pensioenwet voor de landmacht 1902 of de Wet voor het reserve-personeel der landmacht 1905 zijn toegekend, bedraagt 469.
+2. Het verhogingspercentage voor pensioenen, welke krachtens de wet van 28 augustus 1851 (*Stb.* 129), de Pensioenwet voor de landmacht 1902 of de Wet voor het reserve-personeel der landmacht 1905 zijn toegekend, bedraagt 469.
 
 3. Het verhogingspercentage voor pensioenen, welke krachtens de Weduwenwet voor de zeemacht 1909 of het reglement voor het weduwen- en wezenfonds der militaire officieren bij de zeemacht zijn toegekend, bedraagt 481.
 
@@ -375,11 +351,11 @@ De wetten, genoemd in [artikel 1, tweede lid, onder a](https://wetten.overheid.n
 
 ##### Artikel 16
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 17
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 18
 
@@ -388,5 +364,3 @@ Deze wet kan worden aangehaald onder de titel: Algemene toeslagwet voor gepensio
 ##### Artikel 19
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

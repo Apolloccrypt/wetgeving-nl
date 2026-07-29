@@ -1,54 +1,24 @@
 ---
 title: "Besluit van 18 december 1933, tot vaststelling van een algemene maatregel van bestuur, ter uitvoering van de wet op de strandvonderij van 27 juli 1931, Stb. 321"
+citeertitel: "Uitvoeringsbesluit wet strandvonderij"
 identifier: "BWBR0001962"
-country: "nl"
-rank: "kb"
-publication_date: "2002-07-10"
-last_updated: "2002-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001962"
+categorie: "Bestuursrecht"
 soort: "KB"
-stam_id: "2621373"
-version_id: "3963282"
-internal_id: "C3963281"
-label_id: "2566404"
-dtd_version: "2.0"
-original_entry_into_force: "1934-01-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001962/2002-07-10/0"
-intitule_bron: "Stb.1933-704"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1933-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1933-704"
-original_signed_date: "1933-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1934-01-17"
-jci_1_3: "jci1.3:c:BWBR0001962&z=2002-07-10&g=2002-07-10"
-jci_1_0: "1.0:c:BWBR0001962&g=2002-07-10"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit wet strandvonderij"
-signed_date: "1933-12-18"
-entry_into_force: "1934-01-17"
+publicatiedatum: 1934-01-17
+laatste_update: 2002-07-10
+status: geldig
+toestand: 2002-07-10
+bron: "https://wetten.overheid.nl/BWBR0001962"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 18 december 1933, tot vaststelling van een algemene maatregel van bestuur, ter uitvoering van de wet op de strandvonderij van 27 juli 1931, Stb. 321
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Justitie en van Waterstaat van 20 April 1933, 1ste afdeeling C, n°. 878, en van 25 April 1933, afdeeling Vervoer- en Mijnwezen, La. C;
-
-Den Raad van State gehoord (advies van 30 Mei 1933, n°. 31);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 6 December 1933, 1ste Afdeeling C, n°. 893 en van 13 December 1933, La. K., Afdeeling Vervoer- en Mijnwezen;
-
-Gelet op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=21) en [23 van de wet op de strandvonderij](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=23) van 27 Juli 1931 (**Staatsblad** n°. 321);
-
-Hebben goedgevonden en verstaan:
-
-met ingang van den dag, waarop de [wet op de strandvonderij](https://wetten.overheid.nl/jci1.3:c:BWBR0001951) van 27 Juli 1931 (**Staatsblad** n°. 321) in werking treedt, de volgende bepalingen vast te stellen:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-"de Wet", de [wet op de strandvonderij](https://wetten.overheid.nl/jci1.3:c:BWBR0001951) van 27 Juli 1931 (**Staatsblad** n°. 321);
+"de Wet", de [wet op de strandvonderij](https://wetten.overheid.nl/jci1.3:c:BWBR0001951) van 27 Juli 1931 (*Staatsblad* n°. 321);
 
 "Onze Minister", Onze Minister van Waterstaat.
 
@@ -66,9 +36,9 @@ Dordrecht;
 
 's-Gravenhage;
 
-Rotterdam met uitzondering van het deel der gemeente, dat vormt Hoek van Holland in den zin der wet van 31 December 1913 (**Staatsblad** n°. 469);
+Rotterdam met uitzondering van het deel der gemeente, dat vormt Hoek van Holland in den zin der wet van 31 December 1913 (*Staatsblad* n°. 469);
 
-Rotterdam voor het deel der gemeente, dat vormt Hoek van Holland in den zin der wet van 31 December 1913 (**Staatsblad** n° 469).
+Rotterdam voor het deel der gemeente, dat vormt Hoek van Holland in den zin der wet van 31 December 1913 (*Staatsblad* n° 469).
 
 ##### Artikel 4
 
@@ -98,31 +68,37 @@ Alle strandvonders gedragen zich naar de instructie voor hen door Onzen Minister
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
 1. Het ingevolge artikel 13 der Wet door den strandvonder in rekening te brengen beheerloon wordt, naar de bruto waarde der beheerde zaken, bepaald:
 
-- 1°. ingeval van verkoop der zaken door den strandvonder, op: te boven gaat;
+- 1°. ingeval van verkoop der zaken door den strandvonder, op: 10% van de eerste
+ € 230
+ 8% van de volgende
+ € 230
+ 6% van de volgende
+ € 460
+ 4% van de volgende
+ € 460
+ 3% van de volgende
+ € 460
+ 2% van hetgeen de
+ € 1 840 te boven gaat;
 
-| 10% van de eerste | € 230 |
-| --- | --- |
-| 8% van de volgende | € 230 |
-| 6% van de volgende | € 460 |
-| 4% van de volgende | € 460 |
-| 3% van de volgende | € 460 |
-| 2% van hetgeen de | € 1 840 |
-
-- 2°. bij afgifte der zaken aan den rechthebbende of bij verkoop ten overstaan van een ander ambtenaar dan de strandvonder, op: te boven gaat.
-
-| 8 % van de eerste | € 230 |
-| --- | --- |
-| 6 % van de volgende | € 230 |
-| 4 % van de volgende | € 460 |
-| 3 % van de volgende | € 460 |
-| 2 % van de volgende | € 460 |
-| 1% van hetgeen de | € 1840 |
+- 2°. bij afgifte der zaken aan den rechthebbende of bij verkoop ten overstaan van een ander ambtenaar dan de strandvonder, op: 8 % van de eerste
+ € 230
+ 6 % van de volgende
+ € 230
+ 4 % van de volgende
+ € 460
+ 3 % van de volgende
+ € 460
+ 2 % van de volgende
+ € 460
+ 1% van hetgeen de
+ € 1840 te boven gaat.
 
 2. Ter zake van de verrichtingen van den hulpstrandvonder wordt afzonderlijk beheerloon niet in rekening gebracht.
 
@@ -152,11 +128,11 @@ De strandvonder verstrekt aan iederen belanghebbende op diens verzoek een voor e
 
 ##### Artikel 13
 
-1. Ontplofbare stoffen genoemd in artikel 1 van het op de wet van 26 April 1884 (**Staatsblad** n°. 81) gegronde Reglement op het vervoer van ontplofbare stoffen mogen door den strandvonder niet worden verkocht dan met toestemming van Onzen Minister.
+1. Ontplofbare stoffen genoemd in artikel 1 van het op de wet van 26 April 1884 (*Staatsblad* n°. 81) gegronde Reglement op het vervoer van ontplofbare stoffen mogen door den strandvonder niet worden verkocht dan met toestemming van Onzen Minister.
 
-2. Schietwapens en munitie in den zin van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) (**Stb.** 1986, 41) mogen door den strandvonder niet worden verkocht dan met toestemming van Onzen Minister van Justitie.
+2. Schietwapens en munitie in den zin van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) (*Stb.* 1986, 41) mogen door den strandvonder niet worden verkocht dan met toestemming van Onzen Minister van Justitie.
 
-3. Sera en vaccins, waarop de wet op sera en vaccins 1927 (**Staatsblad** n°. 91) van toepassing is, alsmede de stoffen genoemd in de [artikelen 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) 1928 (**Staatsblad** n°. 167) mogen door den strandvonder niet worden verkocht dan met toestemming van Onzen Minister van Sociale Zaken.
+3. Sera en vaccins, waarop de wet op sera en vaccins 1927 (*Staatsblad* n°. 91) van toepassing is, alsmede de stoffen genoemd in de [artikelen 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) 1928 (*Staatsblad* n°. 167) mogen door den strandvonder niet worden verkocht dan met toestemming van Onzen Minister van Sociale Zaken.
 
 ##### Artikel 14
 
@@ -206,6 +182,4 @@ In een geval als bedoeld bij het vorige artikel laat de strandvonder de leiding 
 
 ##### Artikel 23
 
-Het Koninklijk besluit van 23 Augustus 1852 (**Staatsblad** n°. 141), laatstelijk gewijzigd bij Koninklijk besluit van 6 Maart 1891 (**Staatsblad** n°. 72), en het Koninklijk besluit van 25 Maart 1854 (**Staatsblad** n°. 18) vervallen.
-
-Onze voornoemde Ministers zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.
+Het Koninklijk besluit van 23 Augustus 1852 (*Staatsblad* n°. 141), laatstelijk gewijzigd bij Koninklijk besluit van 6 Maart 1891 (*Staatsblad* n°. 72), en het Koninklijk besluit van 25 Maart 1854 (*Staatsblad* n°. 18) vervallen.

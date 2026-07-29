@@ -1,44 +1,18 @@
 ---
 title: "Wet van 2 februari 1956, houdende instelling van een productschap voor zuivel"
+citeertitel: "Instellingswet Productschap voor Zuivel"
 identifier: "BWBR0002205"
-country: "nl"
-rank: "wet"
-publication_date: "1956-10-15"
-last_updated: "1956-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002205"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1400133"
-version_id: "2099752"
-internal_id: "C2099751"
-label_id: "1357934"
-dtd_version: "2.0"
-original_entry_into_force: "1956-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002205/1956-10-15/0"
-intitule_bron: "Stb.1956-93"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1956-02-02"
-intitule_status: "goed"
-original_publication: "Stb.1956-93"
-original_signed_date: "1956-02-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "3898"
-entry_into_force_date: "1956-10-15"
-entry_into_force_dossier: "3898"
-jci_1_3: "jci1.3:c:BWBR0002205&z=1956-10-15&g=1956-10-15"
-jci_1_0: "1.0:c:BWBR0002205&g=1956-10-15"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Productschap voor Zuivel"
-signed_date: "1956-02-02"
-entry_into_force: "1956-10-15"
+publicatiedatum: 1956-10-15
+laatste_update: 1956-10-15
+status: geldig
+toestand: 1956-10-15
+bron: "https://wetten.overheid.nl/BWBR0002205"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 2 februari 1956, houdende instelling van een productschap voor zuivel
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot instelling van een productschap als bedoeld in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K 22) voor ondernemingen op het gebied van de melkwinning en de be- en verwerking van en de handel in melk en daaruit verkregen producten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -56,9 +30,9 @@ melk of daaruit verkregen producten worden be- of verwerkt tot producten, welke,
 
 de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wordt uitgeoefend in melk of in daaruit verkregen producten, welke, al dan niet na verdere be- of verwerking, tot menselijk voedsel kunnen dienen.
 
-2. Deze wet verstaat onder: **melk:** melk van runderen.
+2. Deze wet verstaat onder: *melk:* melk van runderen.
 
-3. Deze wet verstaat onder **handel** mede de werkzaamheid van tussenpersonen.
+3. Deze wet verstaat onder *handel* mede de werkzaamheid van tussenpersonen.
 
 ##### Artikel 3
 
@@ -83,7 +57,7 @@ Het bestuur van het productschap bestaat uit 18 leden. Daarvan worden benoemd:
 
 - d. de voor de vervulling van de taak van het productschap nodige inzage van boeken en bescheiden en bezichtiging en opneming van bedrijfsmiddelen en voorraden van ondernemingen.
 
-2. Als aangelegenheden, bedoeld in het eerste lid, onder **a**, worden niet aangemerkt:
+2. Als aangelegenheden, bedoeld in het eerste lid, onder *a*, worden niet aangemerkt:
 
 - a. de vestiging, uitbreiding en stillegging van ondernemingen;
 
@@ -91,11 +65,11 @@ Het bestuur van het productschap bestaat uit 18 leden. Daarvan worden benoemd:
 
 3. Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.
 
-4. Verordeningen betreffende onderwerpen als bedoeld in het eerste lid, onder **c** en **d**, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
+4. Verordeningen betreffende onderwerpen als bedoeld in het eerste lid, onder *c* en *d*, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
 ##### Artikel 5
 
-Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (**Stb.** 1950, K 22) vastgestelde verordening kunnen bij die verordening worden aangewezen als strafbare feiten.
+Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (*Stb.* 1950, K 22) vastgestelde verordening kunnen bij die verordening worden aangewezen als strafbare feiten.
 
 ##### Artikel 6
 
@@ -120,5 +94,3 @@ Deze wet kan worden aangehaald als: Instellingswet Productschap voor Zuivel.
 ##### Artikel 10
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

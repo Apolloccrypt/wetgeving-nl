@@ -1,43 +1,18 @@
 ---
 title: "Wet van 30 september 1954, houdende instelling van een productschap voor gedistilleerde dranken"
+citeertitel: "Instellingswet Productschap voor Gedistilleerde Dranken"
 identifier: "BWBR0002151"
-country: "nl"
-rank: "wet"
-publication_date: "1995-07-26"
-last_updated: "1995-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002151"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1397543"
-version_id: "2096372"
-internal_id: "C2096371"
-label_id: "1355294"
-dtd_version: "2.0"
-original_entry_into_force: "1956-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002151/1995-07-26/0"
-intitule_bron: "Stb.1954-450"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1954-09-30"
-intitule_status: "goed"
-original_publication: "Stb.1954-450"
-original_signed_date: "1954-09-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "3343"
-entry_into_force_date: "1956-01-01"
-jci_1_3: "jci1.3:c:BWBR0002151&z=1995-07-26&g=1995-07-26"
-jci_1_0: "1.0:c:BWBR0002151&g=1995-07-26"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Productschap voor Gedistilleerde Dranken"
-signed_date: "1954-09-30"
-entry_into_force: "1956-01-01"
+publicatiedatum: 1956-01-01
+laatste_update: 1995-07-26
+status: geldig
+toestand: 1995-07-26
+bron: "https://wetten.overheid.nl/BWBR0002151"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 30 september 1954, houdende instelling van een productschap voor gedistilleerde dranken
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een productschap als bedoeld in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de bereiding van en de handel in spiritus, moutwijn en gedistilleerde dranken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -57,11 +32,11 @@ gedistilleerde dranken per glas worden verstrekt.
 
 2. In het eerste lid wordt verstaan onder:
 
-**gedistilleerde** dranken: de alcoholhoudende producten, welke, al dan niet na be- of verwerking, kunnen dienen tot menselijke consumptie en waarvoor in geval van ge- of verbruik hier te lande gedistilleerd accijns verschuldigd is, met uitzondering van spiritus en moutwijn;
+*gedistilleerde* dranken: de alcoholhoudende producten, welke, al dan niet na be- of verwerking, kunnen dienen tot menselijke consumptie en waarvoor in geval van ge- of verbruik hier te lande gedistilleerd accijns verschuldigd is, met uitzondering van spiritus en moutwijn;
 
-**spiritus:** spiritus, welke als grondstof voor de bereiding van gedistilleerde dranken wordt afgezet.
+*spiritus:* spiritus, welke als grondstof voor de bereiding van gedistilleerde dranken wordt afgezet.
 
-3. In deze wet, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002151&artikel=3&z=1995-07-26&g=1995-07-26) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002151&artikel=8&z=1995-07-26&g=1995-07-26), wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
+3. In deze wet, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002151&artikel=3&z=1995-07-26&g=1995-07-26) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002151&artikel=8&z=1995-07-26&g=1995-07-26), wordt onder *handel* mede verstaan de werkzaamheid van tussenpersonen.
 
 ##### Artikel 3
 
@@ -87,7 +62,7 @@ Het Bestuur van het produktschap bestaat uit 28 leden. Daarvan worden benoemd:
 
 - d. de voor de vervulling van de taak van het productschap nodige inzage van boeken en bescheiden en bezichtiging en opneming van bedrijfsmiddelen en voorraden van ondernemingen.
 
-2. Als aangelegenheden, bedoeld in het voorgaande lid, onder **a**, worden niet aangemerkt:
+2. Als aangelegenheden, bedoeld in het voorgaande lid, onder *a*, worden niet aangemerkt:
 
 - a. de vestiging, uitbreiding en stillegging van ondernemingen;
 
@@ -95,11 +70,11 @@ Het Bestuur van het produktschap bestaat uit 28 leden. Daarvan worden benoemd:
 
 3. Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.
 
-4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder **c** en **d**, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
+4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder *c* en *d*, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
 ##### Artikel 5
 
-Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (**Stb.** 1950, K 22, sedert gewijzigd) vastgestelde verordening kunnen bij de verordening worden aangewezen als strafbare feiten.
+Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (*Stb.* 1950, K 22, sedert gewijzigd) vastgestelde verordening kunnen bij de verordening worden aangewezen als strafbare feiten.
 
 ##### Artikel 6
 
@@ -121,7 +96,7 @@ Bij een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisat
 | --- | --- | --- |
 | de spiritus- en moutwijnindustrie | 1 lid | 1 lid |
 | de gedistilleerde-drankenindustrie | 3 leden | 2 leden |
-| de invoerhandel en de werkzaamheid van tussenpersonen in gedistilleerde dranken | 1 lid |   |
+| de invoerhandel en de werkzaamheid van tussenpersonen in gedistilleerde dranken | 1 lid |  |
 | de binnenlandse groothandel in gedistilleerde dranken | 1 lid | 1 lid |
 | de detailhandel in gedistilleerde dranken en het hotel-, café- en restaurantbedrijf | 4 leden | 3 leden |
 
@@ -138,5 +113,3 @@ Deze wet kan worden aangehaald als Instellingswet Productschap voor Gedistilleer
 ##### Artikel 11
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

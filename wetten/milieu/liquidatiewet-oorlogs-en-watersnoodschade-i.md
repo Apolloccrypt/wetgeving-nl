@@ -1,44 +1,18 @@
 ---
 title: "Wet van 14 juli 1960, houdende regelen met betrekking tot de afsluiting van een gedeelte van de uit de Wet op de Materiële Oorlogsschaden, de Wet Overheidsaansprakelijkheid Bezettingshandelingen en de Wet op de Watersnoodschade 1953 voortvloeiende werkzaamheden"
+citeertitel: "Liquidatiewet Oorlogs- en Watersnoodschade I"
 identifier: "BWBR0002342"
-country: "nl"
-rank: "wet"
-publication_date: "1960-08-01"
-last_updated: "1960-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002342"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1605863"
-version_id: "2375602"
-internal_id: "C2375601"
-label_id: "1560124"
-dtd_version: "2.0"
-original_entry_into_force: "1960-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002342/1960-08-01/0"
-intitule_bron: "Stb.1960-294"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1960-07-14"
-intitule_status: "goed"
-original_publication: "Stb.1960-294"
-original_signed_date: "1960-07-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "5910"
-entry_into_force_date: "1960-08-01"
-entry_into_force_dossier: "5910"
-jci_1_3: "jci1.3:c:BWBR0002342&z=1960-08-01&g=1960-08-01"
-jci_1_0: "1.0:c:BWBR0002342&g=1960-08-01"
-citeertitel_status: "officieel"
-short_title: "Liquidatiewet Oorlogs- en Watersnoodschade I"
-signed_date: "1960-07-14"
-entry_into_force: "1960-08-01"
+publicatiedatum: 1960-08-01
+laatste_update: 1960-08-01
+status: geldig
+toestand: 1960-08-01
+bron: "https://wetten.overheid.nl/BWBR0002342"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 14 juli 1960, houdende regelen met betrekking tot de afsluiting van een gedeelte van de uit de Wet op de Materiële Oorlogsschaden, de Wet Overheidsaansprakelijkheid Bezettingshandelingen en de Wet op de Watersnoodschade 1953 voortvloeiende werkzaamheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stellen met het oog op de afsluiting van een gedeelte van de uit de Wet op de Materiële Oorlogsschaden, de [Wet Overheidsaansprakelijkheid Bezettingshandelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002065) en de [Wet op de Watersnoodschade 1953](https://wetten.overheid.nl/jci1.3:c:BWBR0002128) voortvloeiende werkzaamheden, waarmede de opheffing van de voor deze werkzaamheden in het leven geroepen organen gepaard dient te gaan:
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -76,7 +50,7 @@ Deze wet verstaat onder "Onze Minister": Onze Minister van Financiën.
 
 worden niet meer in behandeling genomen.
 
-2. Bevat wijzigingen in andere regelgeving.
+2. *Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 5
 
@@ -84,15 +58,15 @@ worden niet meer in behandeling genomen.
 
 - a. bijdragen op grond van Hoofdstuk II van de Wet op de Materiële Oorlogsschaden, dan wel op grond van een op artikel 102 van die wet steunende regeling, voor zover niet betrekking hebbende op schade aan gebouwde onroerende goederen en tot een bedrijf behorende schepen;
 
-- b. kredieten en rentevergoedingen, als bedoeld zijn in artikel 71 van die wet, en aanvullende bijdragen, als bedoeld zijn in artikel 72 van die wet, verband houdende met de besteding van bijdragen voor andere goederen dan de onder **a** genoemde;
+- b. kredieten en rentevergoedingen, als bedoeld zijn in artikel 71 van die wet, en aanvullende bijdragen, als bedoeld zijn in artikel 72 van die wet, verband houdende met de besteding van bijdragen voor andere goederen dan de onder *a* genoemde;
 
 - c. vergoedingen, als bedoeld zijn in de artikelen 105, veertiende, vijftiende en zestiende lid, 106, eerste lid, en 108 van die wet, alsmede tegemoetkomingen, als bedoeld zijn in artikel 107 van die wet;
 
 - d. bijdragen of kredieten op grond van de [Wet op de Watersnoodschade 1953](https://wetten.overheid.nl/jci1.3:c:BWBR0002128) wegens het verlies van of schade aan roerende goederen, alsmede vergoedingen voor uitgaven tot behoud van die goederen, als bedoeld zijn in artikel 25 van die wet;
 
-- e. tegemoetkomingen, als bedoeld zijn in [artikel 14 van de Wet Overheidsaansprakelijkheid Bezettingshandelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=14), voor het verlies van of schade aan andere goederen dan de onder **a** genoemde;
+- e. tegemoetkomingen, als bedoeld zijn in [artikel 14 van de Wet Overheidsaansprakelijkheid Bezettingshandelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=14), voor het verlies van of schade aan andere goederen dan de onder *a* genoemde;
 
-- f. schadeloosstellingen voor roerende goederen, welke zijn gevorderd bij de beschikkingen van de Ministers van Justitie en van Financiën van 6 mei 1946, 6e afdeling, nr. 1115 A en B, Generale Thesaurie, afdeling Juridische Zaken en Bewindvoering, nr. 221 (**Stcrt.** 1946, 100).
+- f. schadeloosstellingen voor roerende goederen, welke zijn gevorderd bij de beschikkingen van de Ministers van Justitie en van Financiën van 6 mei 1946, 6e afdeling, nr. 1115 A en B, Generale Thesaurie, afdeling Juridische Zaken en Bewindvoering, nr. 221 (*Stcrt.* 1946, 100).
 
 2. Het vorige lid lijdt uitzondering in gevallen, waarin na genoemde datum
 
@@ -102,7 +76,7 @@ worden niet meer in behandeling genomen.
 
 3. Een zodanige uitzondering wordt eveneens gemaakt in gevallen, waarin de belanghebbende vóór 1 januari 1961 bij aangetekende brief aan Onze Minister, dan wel aan Onze Minister van Landbouw en Visserij, indien de afwikkeling van de schade aan een onder hem ressorterend orgaan is opgedragen, om erkenning van zijn aanspraak heeft verzocht en alsnog van het bestaan van een tijdig geldend gemaakte aanspraak blijkt. Op de beslissing op een dergelijk verzoek door Onze Minister is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002342&artikel=3&z=1960-08-01&g=1960-08-01) van overeenkomstige toepassing.
 
-4. Het Koninklijk Besluit van 18 juni 1946 (**Stb.** nr. G 152) vervalt.
+4. Het Koninklijk Besluit van 18 juni 1946 (*Stb.* nr. G 152) vervalt.
 
 ##### Artikel 6
 
@@ -119,5 +93,3 @@ Deze wet treedt in werking met ingang van 1 augustus 1960.
 ##### Artikel 8
 
 Deze wet kan worden aangehaald als "Liquidatiewet Oorlogs- en Watersnoodschade I".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

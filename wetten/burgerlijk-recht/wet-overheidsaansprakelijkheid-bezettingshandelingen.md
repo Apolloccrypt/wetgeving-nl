@@ -1,44 +1,18 @@
 ---
 title: "Wet van 13 oktober 1950, houdende regelen met betrekking tot de aansprakelijkheid van de Overheid voor handelingen, verricht tijdens of ten gevolge van de bezetting"
+citeertitel: "Wet Overheidsaansprakelijkheid Bezettingshandelingen"
 identifier: "BWBR0002065"
-country: "nl"
-rank: "wet"
-publication_date: "2021-04-01"
-last_updated: "2021-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002065"
+categorie: "Overig"
 soort: "wet"
-stam_id: "56653"
-version_id: "71562"
-internal_id: "C71561"
-label_id: "56534"
-dtd_version: "2.0"
-original_entry_into_force: "1950-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002065/2021-04-01/0"
-intitule_bron: "Stb.1950-K 451"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1950-10-13"
-intitule_status: "goed"
-original_publication: "Stb.1950-K 451"
-original_signed_date: "1950-10-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "420"
-entry_into_force_date: "1950-10-25"
-entry_into_force_dossier: "420"
-jci_1_3: "jci1.3:c:BWBR0002065&z=2021-04-01&g=2021-04-01"
-jci_1_0: "1.0:c:BWBR0002065&g=2021-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet Overheidsaansprakelijkheid Bezettingshandelingen"
-signed_date: "1950-10-13"
-entry_into_force: "1950-10-25"
+publicatiedatum: 1950-10-25
+laatste_update: 2021-04-01
+status: geldig
+toestand: 2021-04-01
+bron: "https://wetten.overheid.nl/BWBR0002065"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 13 oktober 1950, houdende regelen met betrekking tot de aansprakelijkheid van de Overheid voor handelingen, verricht tijdens of ten gevolge van de bezetting
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is, regelen te stellen met betrekking tot de aansprakelijkheid van de Overheid voor handelingen, verricht tijdens of tengevolge van de bezetting, alsmede enige andere gevolgen van de bezetting te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -82,7 +56,7 @@ Tegen betalingen, tijdens de bezetting gedaan ingevolge een overeenkomst, een on
 
 3. De na afloop van het verhoor of nadere verhoor door het Hof te geven beschikking is met redenen omkleed en wordt uitgesproken in een openbare zitting.
 
-4. Ten aanzien der proceskosten geldt het bepaalde in de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
+4. Ten aanzien der proceskosten geldt het bepaalde in de tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel 9
 
@@ -94,7 +68,7 @@ Tegen betalingen, tijdens de bezetting gedaan ingevolge een overeenkomst, een on
 
 ##### Artikel 10
 
-Wij behouden Ons voor in verband met de uitvoering van deze wet meer raadsheren-plaatsvervanger in het Gerechtshof te 's-Gravenhage te benoemen dan is toegelaten volgens de wet van 18 December 1947 (**Staatsblad** no. H 430).
+Wij behouden Ons voor in verband met de uitvoering van deze wet meer raadsheren-plaatsvervanger in het Gerechtshof te 's-Gravenhage te benoemen dan is toegelaten volgens de wet van 18 December 1947 (*Staatsblad* no. H 430).
 
 ##### Artikel 11
 
@@ -120,7 +94,7 @@ De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor 
 
 ##### Artikel 15
 
-1. Het bedrag der schadeloosstelling, toekomende aan degenen, van wie roerende goederen zijn gevorderd bij de beschikkingen van de Ministers van Justitie en van Financiën van 6 Mei 1946, 6e Afdeling, no. 1115 A en B, Generale Thesaurie, Afdeling Juridische Zaken en Bewindvoering no. 221 (**Nederlandse Staatscourant** van 22 Mei 1946, n°. 100) wordt, in afwijking van het bepaalde in het Algemeen Vorderingsbesluit 1940, zoals dit gewijzigd is gehandhaafd bij de Algemeene Vorderingsregeling 1944, vastgesteld overeenkomstig [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=14&z=2021-04-01&g=2021-04-01).
+1. Het bedrag der schadeloosstelling, toekomende aan degenen, van wie roerende goederen zijn gevorderd bij de beschikkingen van de Ministers van Justitie en van Financiën van 6 Mei 1946, 6e Afdeling, no. 1115 A en B, Generale Thesaurie, Afdeling Juridische Zaken en Bewindvoering no. 221 (*Nederlandse Staatscourant* van 22 Mei 1946, n°. 100) wordt, in afwijking van het bepaalde in het Algemeen Vorderingsbesluit 1940, zoals dit gewijzigd is gehandhaafd bij de Algemeene Vorderingsregeling 1944, vastgesteld overeenkomstig [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002065&artikel=14&z=2021-04-01&g=2021-04-01).
 
 2. Evenwel wordt het bedrag dezer schadeloosstelling vastgesteld overeenkomstig de bepalingen van het Algemeen Vorderingsbesluit 1940, en van de maatregelen ter uitvoering van dit besluit voorzover:
 
@@ -135,5 +109,3 @@ De Staat en de overige publiekrechtelijke lichamen zijn niet aansprakelijk voor 
 1. Deze wet treedt in werking met ingang van de dag na die harer afkondiging.
 
 2. Zij kan worden aangehaald als: Wet Overheidsaansprakelijkheid Bezettingshandelingen.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

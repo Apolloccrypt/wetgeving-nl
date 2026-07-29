@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 mei 1953, tot vaststelling van een nieuwe algemene maatregel van bestuur als bedoeld in artikel 8 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. K 178)"
+citeertitel: "Besluit ex artikel 8 Garantiewet Burgerlijk Overheidspersoneel Indonesië"
 identifier: "BWBR0002110"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002110"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "428263"
-version_id: "629112"
-internal_id: "C629111"
-label_id: "416844"
-dtd_version: "2.0"
-original_entry_into_force: "1953-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002110/2020-01-01/0"
-intitule_bron: "Stb.1953-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-05-26"
-intitule_status: "goed"
-original_publication: "Stb.1953-239"
-original_signed_date: "1953-05-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1953-06-01"
-jci_1_3: "jci1.3:c:BWBR0002110&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002110&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 8 Garantiewet Burgerlijk Overheidspersoneel Indonesië"
-signed_date: "1953-05-26"
-entry_into_force: "1953-06-01"
+publicatiedatum: 1953-06-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002110"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 26 mei 1953, tot vaststelling van een nieuwe algemene maatregel van bestuur als bedoeld in artikel 8 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. K 178)
-
-Op de voordracht van Onze Minister van Buitenlandse Zaken en van Onze Minister zonder Portefeuille, Mr J.M.A.H. Luns, van 4 Mei 1953, Directie Overgangszaken Indonesië/WJ, no. 55136;
-
-Gelet op [artikel 8 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8) en op artikel 91 van de Zegelwet 1917;
-
-De Raad van State gehoord (advies van 19 Mei 1953, no. 22);
-
-Gezien het nader rapport van Onze Minister van Buitenlandse Zaken a.i. en van Onze Minister zonder Portefeuille, Mr J.M.A.H. Luns, van 22 Mei 1953, DOI/WJ, no. 65557;
-
-Hebben goedgevonden en verstaan:
-
-Met buitenwerkingstelling van Ons besluit van 22 juni 1950
-
-(**Stb.** K 262);
 
 ### Hoofdstuk I. Algemene bepaling
 
@@ -96,11 +64,11 @@ Eén lid en één plaatsvervangend lid worden niet benoemd dan nadat elk der bes
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -186,11 +154,11 @@ De beslissing wordt ondertekend door al degenen, die in de eindbeslissing stemge
 
 ##### Artikel 17
 
-Tegen de beslissingen, genomen door de commissie, kan een belanghebbende als bedoeld in [artikel 12, eerste lid, onder **c, d, e** of **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01), in beroep komen bij Onze Minister.
+Tegen de beslissingen, genomen door de commissie, kan een belanghebbende als bedoeld in [artikel 12, eerste lid, onder *c, d, e* of *f*](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01), in beroep komen bij Onze Minister.
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
@@ -200,13 +168,13 @@ Alvorens een beschikking te nemen wint Onze Minister het gevoelen in van een adv
 
 ##### Artikel 20
 
-Aan de leden van de Advies-commissie in Garantiewetzaken en aan de voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden van de commissie worden beloningen toegekend op de voet van Ons besluit van 29 december 1921 (**Stb.** 1452), laatstelijk gewijzigd bij Ons besluit van 15 februari 1935 (**Stb.** 53), betreffende een regeling ten aanzien van de toekenning van vacatiegeld, volgens door Ons, dan wel door Onze Minister, met medewerking van Onze Minister van Financiën nader vast te stellen regelen.
+Aan de leden van de Advies-commissie in Garantiewetzaken en aan de voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden van de commissie worden beloningen toegekend op de voet van Ons besluit van 29 december 1921 (*Stb.* 1452), laatstelijk gewijzigd bij Ons besluit van 15 februari 1935 (*Stb.* 53), betreffende een regeling ten aanzien van de toekenning van vacatiegeld, volgens door Ons, dan wel door Onze Minister, met medewerking van Onze Minister van Financiën nader vast te stellen regelen.
 
 ##### Artikel 21
 
 1. Personen, die anders dan op eigen verzoek zijn opgeroepen om voor de commissie of voor de adviescommissie, bedoeld in [artikel 19, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=V&artikel=19&z=2020-01-01&g=2020-01-01) te verschijnen, dan wel door haar met een opdracht zijn belast, ontvangen uit 's Rijks kas vergoeding voor reis- en verblijfkosten:
 
-- a. vervallen;
+- a. *vervallen;*
 
 - b. in het Koninkrijk op de voet van het bepaalde in [artikel 31, lid 1, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=31) 1929.
 
@@ -220,6 +188,4 @@ Alle stukken en geschriften, opgemaakt in verband met de naleving van de voorsch
 
 ##### Artikel 23
 
-Vervallen
-
-Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+*Vervallen*

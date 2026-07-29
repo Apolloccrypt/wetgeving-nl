@@ -1,45 +1,18 @@
 ---
 title: "Wet van 9 mei 1963, houdende regelen met betrekking tot het gebruik van havens in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
+citeertitel: "Havennoodwet"
 identifier: "BWBR0002410"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002410"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1380373"
-version_id: "2071322"
-internal_id: "C2071321"
-label_id: "1338724"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002410/2021-07-01/0"
-intitule_bron: "Stb.1963-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1963-05-09"
-intitule_status: "goed"
-original_publication: "Stb.1997-580"
-original_signed_date: "1997-12-04"
-original_published_date: "1997-12-18"
-original_effect: "structuurwijziging"
-original_dossier: "25464"
-original_url_id: "stb-1997-580"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0002410&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0002410&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Havennoodwet"
-signed_date: "1997-12-04"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0002410"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 9 mei 1963, houdende regelen met betrekking tot het gebruik van havens in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen met betrekking tot het gebruik van havens in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -65,7 +38,7 @@ In deze wet wordt verstaan onder:
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 3
 
@@ -77,21 +50,21 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister kan met betrekking tot het gebruik van havens die aanwijzingen geven, welke hij in 's Lands belang nodig oordeelt.
 
 2. Zodanige aanwijzingen kunnen worden gegeven aan de autoriteiten, lichamen of personen, welke zijn belast met het bestuur of het beheer van de haven, dan wel tot het gebruik daarvan gerechtigd zijn, alsmede aan kapiteins van schepen en bestuurders van vervoermiddelen te land; deze zijn verplicht aan de aanwijzingen gevolg te geven. Aanwijzingen kunnen zonodig worden gegeven door openbare bekendmaking ter plaatse in de haven op de wijze door Onze Minister te bepalen.
 
-3. Onze Minister kan door hem aan te wijzen personen bij beschikking machtigen namens hem aanwijzingen te geven, als bedoeld in het eerste lid; van de beschikking wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+3. Onze Minister kan door hem aan te wijzen personen bij beschikking machtigen namens hem aanwijzingen te geven, als bedoeld in het eerste lid; van de beschikking wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 7
 
@@ -105,21 +78,21 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 8
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister is bevoegd de toegang tot-, het verkeer binnen- en het verlaten van havens te regelen, te beperken of te verbieden; hij kan hiervan mandaat verlenen.
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -143,7 +116,7 @@ De in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -161,7 +134,7 @@ Vervallen
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
@@ -199,6 +172,4 @@ Vervallen
 
 ##### Artikel 24
 
-Deze wet kan worden aangehaald als Havennoodwet. Zij treedt in werking met ingang van de dag, na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet kan worden aangehaald als Havennoodwet. Zij treedt in werking met ingang van de dag, na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.

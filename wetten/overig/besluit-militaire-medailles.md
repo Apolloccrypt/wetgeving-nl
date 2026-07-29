@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 25 januari 1951, houdende bepalingen voor toekenning van onderscheidingen voor langdurige trouwe dienst aan beroepsmilitairen beneden de rang van tweede-luitenant, behorende tot de Koninklijke landmacht"
+citeertitel: "Besluit militaire medailles"
 identifier: "BWBR0002070"
-country: "nl"
-rank: "kb"
-publication_date: "2018-07-18"
-last_updated: "2018-07-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002070"
+categorie: "Overig"
 soort: "KB"
-stam_id: "717403"
-version_id: "1045662"
-internal_id: "C1045661"
-label_id: "695224"
-dtd_version: "2.0"
-original_entry_into_force: "1951-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002070/2018-07-18/0"
-intitule_bron: "Stb.1951-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1951-01-25"
-intitule_status: "goed"
-original_publication: "Stb.1951-30"
-original_signed_date: "1951-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1951-03-01"
-jci_1_3: "jci1.3:c:BWBR0002070&z=2018-07-18&g=2018-07-18"
-jci_1_0: "1.0:c:BWBR0002070&g=2018-07-18"
-citeertitel_status: "officieel"
-short_title: "Besluit militaire medailles"
-signed_date: "1951-01-25"
-entry_into_force: "1951-03-01"
+publicatiedatum: 1951-03-01
+laatste_update: 2018-07-18
+status: geldig
+toestand: 2018-07-18
+bron: "https://wetten.overheid.nl/BWBR0002070"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 25 januari 1951, houdende bepalingen voor toekenning van onderscheidingen voor langdurige trouwe dienst aan beroepsmilitairen beneden de rang van tweede-luitenant, behorende tot de Koninklijke landmacht
-
-Op de voordracht van Onze Minister van Oorlog van 20 Januari 1951, Directoraat Personeel, Afdeling A 1, bureau 2, Nr. 180417;
-
-**Overwegende**, dat het wenselijk is het Koninklijk besluit van 18 Februari 1904, nr. 30, te herzien;
-
-**Overwegende voorts**, dat wij bij voortduring blijk willen geven van Onze waardering voor langdurige trouwe militaire dienst van beroepsmilitairen;
-
-**Hebben goedgevonden en verstaan:**
 
 ##### Artikel 1
 
@@ -110,9 +84,9 @@ Na ontslag uit de militaire dienst of na beëindiging van de aanstelling blijft 
 
 Met betrekking tot de vaststelling van de in [artikel 1, tweede lid, onder b, respectievelijk onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2018-07-18&g=2018-07-18) van dit besluit genoemde diensttijd worden evenwel ten hoogste zes, respectievelijk negen jaren dubbel geteld.
 
-2. Mede komt in aanmerking de tijd: **a**. welke op **wachtgeld** is doorgebracht door een - terzake van opheffing van de betrekking van de militair, of ter zake van verandering in de organisatie van de tak van dienst, waartoe de militair behoort - eervol ontslagen beroepsmilitair van de Koninklijke Landmacht, van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, **b**. welke op **pensioen** is doorgebracht door een - terzake van het verbreken van zijn dienstverband tijdens de vijandelijke bezetting van Nederlands grondgebied - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van twee-luitenant, die als zodanig is herplaatst, een en ander met inachtneming van de [Wet van 8 maart 1956 (**Stb.** 132)](https://wetten.overheid.nl/jci1.3:c:BWBR0002206), voorzover deze van toepassing is.
+2. Mede komt in aanmerking de tijd: *a*. welke op *wachtgeld* is doorgebracht door een - terzake van opheffing van de betrekking van de militair, of ter zake van verandering in de organisatie van de tak van dienst, waartoe de militair behoort - eervol ontslagen beroepsmilitair van de Koninklijke Landmacht, van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, *b*. welke op *pensioen* is doorgebracht door een - terzake van het verbreken van zijn dienstverband tijdens de vijandelijke bezetting van Nederlands grondgebied - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van twee-luitenant, die als zodanig is herplaatst, een en ander met inachtneming van de [Wet van 8 maart 1956 (*Stb.* 132)](https://wetten.overheid.nl/jci1.3:c:BWBR0002206), voorzover deze van toepassing is.
 
-3. Voorts komt in aanmerking de **diensttijd**, welke een tijdens de vijandelijke bezetting van Nederlands grondgebied - terzake van overgang in een burgeroverheidsbetrekking - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, na dat ontslag bij de Marechaussee, de Staatspolitie of de Rijkspolitie heeft volbracht.
+3. Voorts komt in aanmerking de *diensttijd*, welke een tijdens de vijandelijke bezetting van Nederlands grondgebied - terzake van overgang in een burgeroverheidsbetrekking - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, na dat ontslag bij de Marechaussee, de Staatspolitie of de Rijkspolitie heeft volbracht.
 
 4. De tijd doorgebracht als vrijwilliger met z.g. kort dienstverband of als militieplichtige bij het voormalig Koninklijk Nederlands Indonesisch Leger, dan wel als schutterplichtige bij de voormalige troepenmacht (c.q. landmacht) in SURINAME en/of in CURAÇAO (c.q. NEDERLANDSE ANTILLEN) wordt - indien deze tijd niet reeds wordt vergolden op grond van het bepaalde in lid 1 van dit artikel - medegeteld op de in lid 1 van dit artikel aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
 
@@ -130,7 +104,7 @@ Met betrekking tot de vaststelling van de in [artikel 1, tweede lid, onder b, re
 
 - d. door verlaging, opgelegd als krijgstuchtelijke straf, dan wel bij rechterlijk gewijsde bevolen.
 
-2. De met een medaille begiftigde, die verkeert in één der gevallen in het voorgaande lid bedoeld, is **verplicht** de hem toegekende of laatstelijk toegekende medaille, alsmede het daarbij behorende brevet, naar door Onze Minister van Defensie te stellen regelen, af te geven of toe te zenden aan een door genoemde Minister aan te wijzen autoriteit.
+2. De met een medaille begiftigde, die verkeert in één der gevallen in het voorgaande lid bedoeld, is *verplicht* de hem toegekende of laatstelijk toegekende medaille, alsmede het daarbij behorende brevet, naar door Onze Minister van Defensie te stellen regelen, af te geven of toe te zenden aan een door genoemde Minister aan te wijzen autoriteit.
 
 3. Bij het verbeuren van de medaille wordt het daarbij uitgereikte brevet vernietigd.
 
@@ -148,10 +122,8 @@ Het Koninklijk besluit van 18 Februari 1904, nr. 30, wordt ingetrokken.
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
-
-Onze Minister van Oorlog is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
+*Vervallen*

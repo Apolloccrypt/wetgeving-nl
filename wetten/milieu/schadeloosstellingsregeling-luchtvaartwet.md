@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 27 maart 1963 ter uitvoering van artikel 60 van de Luchtvaartwet (Schadeloosstellingsregeling Luchtvaartwet)"
+citeertitel: "Schadeloosstellingsregeling Luchtvaartwet"
 identifier: "BWBR0002405"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002405"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "870903"
-version_id: "1272322"
-internal_id: "C1272321"
-label_id: "844504"
-dtd_version: "2.0"
-original_entry_into_force: "1963-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002405/2009-07-01/0"
-intitule_bron: "Stb.1963-117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1963-03-27"
-intitule_status: "goed"
-original_publication: "Stb.1963-117"
-original_signed_date: "1963-03-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1963-05-04"
-jci_1_3: "jci1.3:c:BWBR0002405&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0002405&g=2009-07-01"
-citeertitel_status: "officieel"
-short_title: "Schadeloosstellingsregeling Luchtvaartwet"
-signed_date: "1963-03-27"
-entry_into_force: "1963-05-04"
+publicatiedatum: 1963-05-04
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0002405"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 27 maart 1963 ter uitvoering van artikel 60 van de Luchtvaartwet (Schadeloosstellingsregeling Luchtvaartwet)
-
-Op de voordracht van Onze Minister van Defensie van 11 augustus 1960, afdeling wetgeving en publiekrecht, nr. 202.620/6B, mede namens Onze Ministers van Verkeer en Waterstaat en van Financiën;
-
-Gelet op [artikel 60 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=60);
-
-De Raad van State gehoord (advies van 15 november 1960, nr. 37);
-
-Gezien het nader rapport van Onze voornoemde Minister van 12 maart 1963, afd. wetgeving en publiekrecht nr. 202.620/8X;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -124,6 +96,4 @@ Dit besluit kan worden aangehaald als "Schadeloosstellingsregeling Luchtvaartwet
 
 ##### Artikel 14
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.

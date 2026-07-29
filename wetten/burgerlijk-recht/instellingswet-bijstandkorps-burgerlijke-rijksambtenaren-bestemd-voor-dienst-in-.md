@@ -1,43 +1,18 @@
 ---
 title: "Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea"
+citeertitel: "Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea"
 identifier: "BWBR0002370"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002370"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1396483"
-version_id: "2095462"
-internal_id: "C2095461"
-label_id: "1354524"
-dtd_version: "2.0"
-original_entry_into_force: "1962-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002370/2002-01-01/0"
-intitule_bron: "Stb.1962-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1962-05-25"
-intitule_status: "goed"
-original_publication: "Stb.1962-196"
-original_signed_date: "1962-05-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "6502"
-entry_into_force_date: "1962-09-25"
-jci_1_3: "jci1.3:c:BWBR0002370&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0002370&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea"
-signed_date: "1962-05-25"
-entry_into_force: "1962-09-25"
+publicatiedatum: 1962-09-25
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0002370"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de voortschrijdende ontwikkeling in Nederlands-Nieuw-Guinea wenselijk is bij de wet regelen te stellen betreffende de rechtstoestand van Nederlanders, die ten dienste van het openbaar bestuur aldaar werkzaam zijn of zullen zijn;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -109,7 +84,7 @@ De rechten en verplichtingen van de leden van het Bijstandkorps worden bepaald:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -121,31 +96,31 @@ Leden van het Bijstandkorps, die deel uitmaken van de zittende magistratuur in N
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-1. Met inachtneming van het overigens in deze wet terzake bepaalde worden aan gewezen leden van het Bijstandkorps, die als lid van dat korps in vaste dienst waren aangesteld, en hun weduwen en wezen, alsmede aan de weduwen en wezen van in vaste dienst aangestelde leden van genoemd korps, pensioenen en uitkeringen toegekend overeenkomstig het bij ordonnantie van 29 december 1958 (**Gouvernementsblad** No. 83) vastgestelde Pensioenreglement Nederlands-Nieuw-Guinea - verder aan te duiden als "het pensioenreglement" - zoals dat op de dag van inwerkingtreding van deze wet luidt.
+1. Met inachtneming van het overigens in deze wet terzake bepaalde worden aan gewezen leden van het Bijstandkorps, die als lid van dat korps in vaste dienst waren aangesteld, en hun weduwen en wezen, alsmede aan de weduwen en wezen van in vaste dienst aangestelde leden van genoemd korps, pensioenen en uitkeringen toegekend overeenkomstig het bij ordonnantie van 29 december 1958 (*Gouvernementsblad* No. 83) vastgestelde Pensioenreglement Nederlands-Nieuw-Guinea - verder aan te duiden als "het pensioenreglement" - zoals dat op de dag van inwerkingtreding van deze wet luidt.
 
 2. Voor de toepassing van het eerste lid worden de leden van het Bijstandkorps, die als lid van dat korps in vaste dienst zijn aangesteld, aangemerkt als landsdienaren in de zin van het pensioenreglement.
 
-3. De leden van het Bijstandkorps zijn als zodanig geen ambtenaar in de zin van de Pensioenwet 1922 (**Stb.** 240).
+3. De leden van het Bijstandkorps zijn als zodanig geen ambtenaar in de zin van de Pensioenwet 1922 (*Stb.* 240).
 
 ##### Artikel 16
 
@@ -155,7 +130,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01) wordt de in [het eerste lid van artikel 6 onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) bedoelde wedde als bezoldiging aangemerkt met dien verstande, dat voor vaststelling van de pensioengrondslag mede in aanmerking worden genomen de tot het tijdstip van inwerkingtreding van deze wet genoten bezoldigingen in de zin van het Pensioenreglement Nederlands-Nieuw-Guinea.
+1. Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01) wordt de in [het eerste lid van artikel 6 onder *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) bedoelde wedde als bezoldiging aangemerkt met dien verstande, dat voor vaststelling van de pensioengrondslag mede in aanmerking worden genomen de tot het tijdstip van inwerkingtreding van deze wet genoten bezoldigingen in de zin van het Pensioenreglement Nederlands-Nieuw-Guinea.
 
 2. Als pensioengrondslag van een gewezen lid van het Bijstandkorps, dat nog niet tot landsdienaar was aangesteld, wordt aangemerkt de wedde, waarop bij aanstelling tot landsdienaar recht zou zijn verkregen.
 
@@ -195,31 +170,31 @@ Indien belanghebbenden geen pensioen of uitkering krachtens de voor landsdienare
 
 ##### Artikel 23
 
-1. Op de pensioenen, toegekend krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01), zijn, bij een gelijktijdige aanspraak op pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de wetten van 20 december 1956 (**Stb.** 616) en 23 september 1959 (**Stb.** 340) van overeenkomstige toepassing, met dien verstande:
+1. Op de pensioenen, toegekend krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01), zijn, bij een gelijktijdige aanspraak op pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de wetten van 20 december 1956 (*Stb.* 616) en 23 september 1959 (*Stb.* 340) van overeenkomstige toepassing, met dien verstande:
 
 - a. dat voor de toepassing van deze wetten de pensioendiensttijd met 8/5 wordt vermenigvuldigd, tot een maximum van 40 jaren, en voor de toepassing van de eerstgenoemde wet vervolgens wordt verminderd met de tijd gedurende welke na 1 januari 1957 geen premie is verschuldigd geweest krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
-- b. dat artikel 3, vierde en vijfde lid, van de wet van 20 december 1956 (**Stb.** 616), zomede artikel 14 van de wet van 23 september 1959 (**Stb.** 340) buiten toepassing blijven, indien het aldaar bedoelde andere pensioen is een pensioen als bedoeld in de artikelen 1 en 7 van de wet van 20 december 1956 (**Stb.** 616), in de artikelen 1 en 24 van de wet van 23 september 1959 (**Stb.** 340), of in de artikelen 1 en 8 van de wet van 31 januari 1957 (**Stb.** 30), dan wel een pensioen omschreven in [artikel 2, eerste lid, onder **c** en **d**, van de Toeslagwet Indonesische pensioenen 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002251&artikel=2) ( **Stb.** 1957, 319).
+- b. dat artikel 3, vierde en vijfde lid, van de wet van 20 december 1956 (*Stb.* 616), zomede artikel 14 van de wet van 23 september 1959 (*Stb.* 340) buiten toepassing blijven, indien het aldaar bedoelde andere pensioen is een pensioen als bedoeld in de artikelen 1 en 7 van de wet van 20 december 1956 (*Stb.* 616), in de artikelen 1 en 24 van de wet van 23 september 1959 (*Stb.* 340), of in de artikelen 1 en 8 van de wet van 31 januari 1957 (*Stb.* 30), dan wel een pensioen omschreven in [artikel 2, eerste lid, onder *c* en *d*, van de Toeslagwet Indonesische pensioenen 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002251&artikel=2) ( *Stb.* 1957, 319).
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. De bepalingen van dit artikel blijven buiten toepassing voor degenen, die op grond van gemoedsbezwaren hun aanspraak op uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) niet geldig maken.
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 #### Overgangs- en slotbepalingen
 
 ##### Artikel 25
 
-1. Nederlanders, die op het tijdstip van inwerkingtreding van deze wet in dienst van het Gouvernement van Nederlands-Nieuw-Guinea zijn anders dan op arbeidsovereenkomst, en op wie de "Bezoldigingsregeling Landsdienaren Nederlands-Nieuw-Guinea 1957" (**Gouvernementsblad** No. 24) van toepassing is, worden geacht op dat tijdstip aangesteld te zijn als lid van het Bijstandkorps.
+1. Nederlanders, die op het tijdstip van inwerkingtreding van deze wet in dienst van het Gouvernement van Nederlands-Nieuw-Guinea zijn anders dan op arbeidsovereenkomst, en op wie de "Bezoldigingsregeling Landsdienaren Nederlands-Nieuw-Guinea 1957" (*Gouvernementsblad* No. 24) van toepassing is, worden geacht op dat tijdstip aangesteld te zijn als lid van het Bijstandkorps.
 
 2. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=6&z=2002-01-01&g=2002-01-01) bedoelde algemene maatregel van bestuur stelt ter uitvoering van het in het eerste lid bepaalde nadere overgangsregelingen vast.
 
 ##### Artikel 26
 
-Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01) op gewezen leden van het Bijstandkorps, die krachtens het bepaalde in het eerste lid van artikel 25 lid van dat korps waren en hun weduwen en wezen, alsmede op de weduwen en wezen van leden van het Bijstandkorps, die krachtens evengenoemde bepaling lid van het Bijstandkorps waren, is de ordonnantie van 29 december 1958 (**Gouvernementsblad** no. 83), zoals die op de dag van inwerkingtreding van deze wet luidt, van overeenkomstige toepassing.
+Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002370&artikel=15&z=2002-01-01&g=2002-01-01) op gewezen leden van het Bijstandkorps, die krachtens het bepaalde in het eerste lid van artikel 25 lid van dat korps waren en hun weduwen en wezen, alsmede op de weduwen en wezen van leden van het Bijstandkorps, die krachtens evengenoemde bepaling lid van het Bijstandkorps waren, is de ordonnantie van 29 december 1958 (*Gouvernementsblad* no. 83), zoals die op de dag van inwerkingtreding van deze wet luidt, van overeenkomstige toepassing.
 
 ##### Artikel 27
 
@@ -254,5 +229,3 @@ Onze Minister kan in overeenstemming met Onze Minister van Financiën in bijzond
 ##### Artikel 33
 
 Deze wet treedt in werking met ingang van een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

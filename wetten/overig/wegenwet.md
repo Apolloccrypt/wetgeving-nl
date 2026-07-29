@@ -1,42 +1,18 @@
 ---
 title: "Wet van 31 juli 1930, houdende vaststelling van voorschriften omtrent openbare wegen"
+citeertitel: "Wegenwet"
 identifier: "BWBR0001948"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001948"
+categorie: "Overig"
 soort: "wet"
-stam_id: "3022593"
-version_id: "4686272"
-internal_id: "C4686271"
-label_id: "2973644"
-dtd_version: "2.0"
-original_entry_into_force: "1932-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001948/2024-01-01/0"
-intitule_bron: "Stb.1930-342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1930-07-31"
-intitule_status: "goed"
-original_publication: "Stb.1930-342"
-original_signed_date: "1930-07-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1932-10-01"
-jci_1_3: "jci1.3:c:BWBR0001948&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0001948&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Wegenwet"
-signed_date: "1930-07-31"
-entry_into_force: "1932-10-01"
+publicatiedatum: 1932-10-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0001948"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 31 juli 1930, houdende vaststelling van voorschriften omtrent openbare wegen
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is voorschriften vast te stellen omtrent openbare wegen, hetgeen ingevolge [artikel 190 der Grondwet](onbekend) bij de wet zal moeten geschieden;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeene bepalingen
 
@@ -114,7 +90,7 @@ Een weg heeft opgehouden openbaar te zijn:
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -126,7 +102,7 @@ Vervallen
 
 ##### Artikel 11a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -156,7 +132,7 @@ Van een uitspraak in beroep waarbij een weg aan het openbaar verkeer wordt onttr
 
 4. De rechthebbende op en de onderhoudplichtige van een tot den weg behoorenden berm of een tot den weg behoorende bermsloot hebben ter zake, in het voorgaande lid omschreven, recht op schadevergoeding doch, voor zooveel schade wordt geleden door hetgeen strekt tot onderhoud of verbetering van den weg, alleen dan, wanneer het recht op den berm of de bermsloot meer is beperkt, of de onderhoudslast daarvan meer is verzwaard, dan gebruikelijk was ten opzichte van dien berm of die bermsloot.
 
-5. Het eerste en tweede lid laten onverlet de heffing van de toltarieven, bedoeld in de [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517), en de heffing van de tarieven voor de vrachtwagenheffing, bedoeld in de [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082).
+5. Het eerste en tweede lid laten onverlet de heffing van de toltarieven, bedoeld in de [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517), en de heffing van de tarieven voor de vrachtwagenheffing, bedoeld in de [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082).
 
 ### Hoofdstuk IV. Het onderhoud
 
@@ -170,7 +146,7 @@ Van een uitspraak in beroep waarbij een weg aan het openbaar verkeer wordt onttr
 
 ##### Artikel 16
 
-De gemeente heeft te zorgen, dat de binnen haar gebied liggende wegen, met uitzondering van de wegen, welke door het Rijk of eene provincie worden onderhouden, van die bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2024-01-01&g=2024-01-01) en van die, waarop door een ander tol wordt geheven met uitzondering van de gemeentelijke wegen, genoemd in de [bijlage bij de Wet vrachtwagenheffing](onbekend), verkeeren in goeden staat.
+De gemeente heeft te zorgen, dat de binnen haar gebied liggende wegen, met uitzondering van de wegen, welke door het Rijk of eene provincie worden onderhouden, van die bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2024-01-01&g=2024-01-01) en van die, waarop door een ander tol wordt geheven met uitzondering van de gemeentelijke wegen, genoemd in de [bijlage bij de Wet vrachtwagenheffing](https://wetten.overheid.nl/BWBR0047082), verkeeren in goeden staat.
 
 ##### Artikel 17
 
@@ -340,11 +316,11 @@ De legger wordt overigens ingericht volgens bij algemeenen maatregel van bestuur
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
@@ -396,11 +372,11 @@ Wijziging van den legger kan worden gevorderd op grond:
 
 - I. dat de legger ten onrechte aangeeft:
 
-- a. dat een weg of een deel daarvan is openbaar;
+   - a. dat een weg of een deel daarvan is openbaar;
 
-- b. dat het gebruik van den weg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2024-01-01&g=2024-01-01), niet is beperkt of op andere wijze is beperkt dan in werkelijkheid het geval is;
+   - b. dat het gebruik van den weg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2024-01-01&g=2024-01-01), niet is beperkt of op andere wijze is beperkt dan in werkelijkheid het geval is;
 
-- c. dat iemand verplicht is een weg of duiker te onderhouden of tot het onderhoud daarvan bij te dragen;
+   - c. dat iemand verplicht is een weg of duiker te onderhouden of tot het onderhoud daarvan bij te dragen;
 
 - II. dat de omvang van den onderhoudsplicht, zooals die op den legger is aangegeven, anders, of de geldsom, die volgens den legger tot het onderhoud moet worden bijgedragen, grooter is dan in werkelijkheid het geval is.
 
@@ -448,7 +424,7 @@ Hij, die door den legger wordt aangewezen als onderhoudsplichtige van een weg of
 
 ##### Artikel 51
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk VII. Tolheffing
 
@@ -460,7 +436,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 53
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 54
 
@@ -495,5 +471,3 @@ Deze wet treedt in werking op een nader door Ons te bepalen tijdstip.
 ##### Artikel 59
 
 Deze wet kan worden aangehaald onder den titel "Wegenwet".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

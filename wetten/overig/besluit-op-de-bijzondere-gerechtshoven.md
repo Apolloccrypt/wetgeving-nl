@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 22 december 1943, houdende vaststelling van het Besluit op de Bijzondere Gerechtshoven"
+citeertitel: "Besluit op de Bijzondere Gerechtshoven"
 identifier: "BWBR0002007"
-country: "nl"
-rank: "kb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002007"
+categorie: "Overig"
 soort: "KB"
-stam_id: "758373"
-version_id: "1104832"
-internal_id: "C1104831"
-label_id: "735364"
-dtd_version: "2.0"
-original_entry_into_force: "1944-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002007/2002-01-01/0"
-intitule_bron: "Stb.1943-D 62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1943-12-22"
-intitule_status: "goed"
-original_publication: "Stb.1943-D 62"
-original_signed_date: "1943-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1944-09-04"
-jci_1_3: "jci1.3:c:BWBR0002007&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0002007&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit op de Bijzondere Gerechtshoven"
-signed_date: "1943-12-22"
-entry_into_force: "1944-09-04"
+publicatiedatum: 1944-09-04
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0002007"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 22 december 1943, houdende vaststelling van het Besluit op de Bijzondere Gerechtshoven
-
-Op de voordracht van Onze Ministers voor Algemeene Oorlogvoering van het Koninkrijk, van Algemeene Zaken, van Buitenlandsche Zaken, van Justitie, van Binnenlandsche Zaken, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart, van Landbouw en Visscherij, van Sociale Zaken, van Koloniën en van Onze Ministers zonder Portefeuille van 10 December 1943, No. 2723/G 92 **(a)**;
-
-Overwegende, dat de veiligheid van den Staat het dringend noodzakelijk maakt, dat in het Rijk in Europa terstond met de bevrijding van de vijandelijke bezetting bijzondere gerechten worden ingesteld, ten einde een snelle en doeltreffende berechting van zekere gedurende den tijd van den huidigen oorlog begane misdrijven te verzekeren;
-
-Den Buitengewonen Raad van Advies gehoord;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -112,7 +86,7 @@ voor zoover de overige leden der rechterlijke macht bij de Bijzondere Gerechtsho
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -124,7 +98,7 @@ De Bijzondere Gerechtshoven vonnissen met twee rechtsgeleerde leden en één mil
 
 2. De samenstelling en bezetting van, alsmede de verdeeling der werkzaamheden onder de kamers, de dagen der gewone zittingen en het uur van den aanvang derzelve worden door den president in overleg met de overige leden van zijn college, den procureur-fiscaal en den griffier geregeld en telkens, als hiertoe aanleiding bestaat, herzien. Daarbij kan tevens worden bepaald, dat een of meer kamers hetzij uitsluitend, hetzij mede zitting zullen houden op een of meer andere plaatsen, gelegen binnen het rechtsgebied van het college, dan waar hetzelve gevestigd is.
 
-3. Hetgeen is bepaald overeenkomstig het tweede lid wordt vastgesteld bij een reglement. Dit reglement wordt bekendgemaakt in de **Staatscourant**.
+3. Hetgeen is bepaald overeenkomstig het tweede lid wordt vastgesteld bij een reglement. Dit reglement wordt bekendgemaakt in de *Staatscourant*.
 
 ##### Artikel 12
 
@@ -160,7 +134,7 @@ Ten aanzien van de Bijzondere Raad van Cassatie zijn de [artikelen 2](https://we
 
 ##### Artikel 14a
 
-Onder afwijking in zoverre van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=14&z=2002-01-01&g=2002-01-01) juncto [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=7&z=2002-01-01&g=2002-01-01) wordt bepaald, dat bij het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=7&z=2002-01-01&g=2002-01-01) bedoelde in mindering brengen op de bezoldiging als lid van of rechterlijk ambtenaar bij de Bijzondere Raad van Cassatie buiten beschouwing blijven de toelagen, bedoeld in artikel 5**c** van de wet van 18 December 1947 (**Stb.** H 430), zowel met betrekking tot de hiervoor bedoelde bezoldiging als tot het in mindering te brengen bedrag en dat eerst na vorenbedoeld in mindering brengen wordt vastgesteld het bedrag van vorenbedoelde toelagen, op hetwelk in elk der beklede betrekkingen aanspraak bestaat. Het tweede lid van voormeld artikel 5**c** is van overeenkomstige toepassing.
+Onder afwijking in zoverre van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=14&z=2002-01-01&g=2002-01-01) juncto [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=7&z=2002-01-01&g=2002-01-01) wordt bepaald, dat bij het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002007&artikel=7&z=2002-01-01&g=2002-01-01) bedoelde in mindering brengen op de bezoldiging als lid van of rechterlijk ambtenaar bij de Bijzondere Raad van Cassatie buiten beschouwing blijven de toelagen, bedoeld in artikel 5*c* van de wet van 18 December 1947 (*Stb.* H 430), zowel met betrekking tot de hiervoor bedoelde bezoldiging als tot het in mindering te brengen bedrag en dat eerst na vorenbedoeld in mindering brengen wordt vastgesteld het bedrag van vorenbedoelde toelagen, op hetwelk in elk der beklede betrekkingen aanspraak bestaat. Het tweede lid van voormeld artikel 5*c* is van overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -203,5 +177,3 @@ Op de terechtzittingen van de Bijzondere Gerechtshoven en van de Bijzondere Raad
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den dag zijner afkondiging.
 
 2. Het kan worden aangehaald onder den titel: Besluit op de Bijzondere Gerechtshoven.
-
-Onze Ministers van Justitie, van Marine en van Oorlog zijn, ieder voor zoover hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

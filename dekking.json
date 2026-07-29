@@ -1,15 +1,25 @@
 {
  "gegenereerd": "2026-07-29",
  "geverifieerd": true,
- "bwb_regelingen": 46724,
- "bwb_geldend": 22179,
+ "bwb_regelingen": 46800,
+ "bwb_geldend": 22181,
  "site_totaal": 22327,
  "site_geldend": 22176,
- "dekkingsgraad": 0.9999,
- "aantal_ontbrekend": 3,
+ "dekkingsgraad": 0.9998,
+ "aantal_ontbrekend": 5,
  "aantal_ten_onrechte_geldig": 151,
  "aantal_onbekend": 0,
  "ontbrekend": [
+  {
+   "id": "BWBR0035381",
+   "titel": "Regeling vaststelling tijdelijke subsidieregeling vernieuwende journalistiek 2015 (The Challenge: Reinventing Journalism)",
+   "type": "zbo"
+  },
+  {
+   "id": "BWBR0035393",
+   "titel": "Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Zee en Delta 2013",
+   "type": "ministeriele-regeling"
+  },
   {
    "id": "BWBR0052795",
    "titel": "Instellingsbesluit Commissie Toekomst Rijksdienst",

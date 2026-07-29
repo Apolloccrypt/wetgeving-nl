@@ -1,43 +1,18 @@
 ---
 title: "Wet van 30 september 1954, houdende instelling van een productschap voor groenten en fruit"
+citeertitel: "Instellingswet Productschap voor Groenten en Fruit"
 identifier: "BWBR0002148"
-country: "nl"
-rank: "wet"
-publication_date: "1995-07-26"
-last_updated: "1995-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002148"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1397733"
-version_id: "2096762"
-internal_id: "C2096761"
-label_id: "1355534"
-dtd_version: "2.0"
-original_entry_into_force: "1956-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002148/1995-07-26/0"
-intitule_bron: "Stb.1954-446"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1954-09-30"
-intitule_status: "goed"
-original_publication: "Stb.1954-446"
-original_signed_date: "1954-09-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "3343"
-entry_into_force_date: "1956-01-01"
-jci_1_3: "jci1.3:c:BWBR0002148&z=1995-07-26&g=1995-07-26"
-jci_1_0: "1.0:c:BWBR0002148&g=1995-07-26"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Productschap voor Groenten en Fruit"
-signed_date: "1954-09-30"
-entry_into_force: "1956-01-01"
+publicatiedatum: 1956-01-01
+laatste_update: 1995-07-26
+status: geldig
+toestand: 1995-07-26
+bron: "https://wetten.overheid.nl/BWBR0002148"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 30 september 1954, houdende instelling van een productschap voor groenten en fruit
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een productschap als bedoeld in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de teelt van, de be- en verwerking van en de handel in groenten en fruit;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -57,9 +32,9 @@ de handel - met uitzondering van de aanvoer-, transito- en driehoekshandel - wor
 
 2. Als ondernemingen, bedoeld in het eerste lid, worden mede aangemerkt de veilingen van de in dat lid bedoelde producten.
 
-3. In deze wet worden onder **groenten** mede verstaan uien, eetbare zwammen, specerijen, specerijgewassen, consumptiespecerijzaden en plantgoed van groenten en aardbeien, met uitzondering van plantsjalotten en plantuitjes.
+3. In deze wet worden onder *groenten* mede verstaan uien, eetbare zwammen, specerijen, specerijgewassen, consumptiespecerijzaden en plantgoed van groenten en aardbeien, met uitzondering van plantsjalotten en plantuitjes.
 
-4. In deze wet, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002148&artikel=3&z=1995-07-26&g=1995-07-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002148&artikel=6&z=1995-07-26&g=1995-07-26) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002148&artikel=12&z=1995-07-26&g=1995-07-26), wordt onder **handel** mede verstaan de werkzaamheid van tussenpersonen.
+4. In deze wet, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002148&artikel=3&z=1995-07-26&g=1995-07-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002148&artikel=6&z=1995-07-26&g=1995-07-26) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002148&artikel=12&z=1995-07-26&g=1995-07-26), wordt onder *handel* mede verstaan de werkzaamheid van tussenpersonen.
 
 ##### Artikel 3
 
@@ -101,7 +76,7 @@ Het productschap heeft organen, commissies genaamd, voor de behandeling van aang
 | voor de ondernemingen op het gebied van | door organisaties van ondernemers | door organisaties van werknemers |
 | --- | --- | --- |
 | de invoerhandel in buitenslands verduurzaamde groenten, fruit en uit fruit verkregen producten | 3 leden | 2 leden |
-| de werkzaamheid van tussenpersonen in buitenslands verduurzaamde groenten, fruit en uit fruit verkregen producten | 1 lid |   |
+| de werkzaamheid van tussenpersonen in buitenslands verduurzaamde groenten, fruit en uit fruit verkregen producten | 1 lid |  |
 | de groenten en fruit be- en verwerkende industrie | 1 lid | – |
 | de binnenlandse groothandel in buitenslands verduurzaamde groenten, fruit en uit fruit verkregen producten | 1 lid | 1 lid |
 | de detailhandel in buitenslands verduurzaamde groenten, fruiten uit fruit verkregen producten | 1 lid | 1 lid |
@@ -119,7 +94,7 @@ Het productschap heeft organen, commissies genaamd, voor de behandeling van aang
 | voor de ondernemingen op het gebied van | door organisaties van ondernemers | door organisaties van werknemers |
 | --- | --- | --- |
 | de invoerhandel in consumptiegrondnoten | 2 leden | 2 leden |
-| de werkzaamheid van tussenpersonen in consumptiegrondnoten | 1 lid |   |
+| de werkzaamheid van tussenpersonen in consumptiegrondnoten | 1 lid |  |
 | de consumptiegrondnoten be- en verwerkende industrie | 3 leden | 2 leden |
 | de binnenlandse groothandel en de detailhandel in consumptiegrondnoten en daaruit verkregen producten | 1 lid | 1 lid |
 
@@ -135,7 +110,7 @@ Het productschap heeft organen, commissies genaamd, voor de behandeling van aang
 
 - d. de voor de vervulling van de taak van het productschap nodige inzage van boeken en bescheiden en bezichtiging en opneming van bedrijfsmiddelen en voorraden van ondernemingen.
 
-2. Als aangelegenheden, bedoeld in het voorgaande lid, onder **a**, worden niet aangemerkt:
+2. Als aangelegenheden, bedoeld in het voorgaande lid, onder *a*, worden niet aangemerkt:
 
 - a. de vestiging, uitbreiding en stillegging van ondernemingen;
 
@@ -143,7 +118,7 @@ Het productschap heeft organen, commissies genaamd, voor de behandeling van aang
 
 3. Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.
 
-4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder **c** en **d**, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
+4. Verordeningen betreffende onderwerpen, als bedoeld in het eerste lid, onder *c* en *d*, houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
 ##### Artikel 8
 
@@ -189,5 +164,3 @@ Deze wet kan worden aangehaald als: Instellingswet Productschap voor Groenten en
 ##### Artikel 15
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

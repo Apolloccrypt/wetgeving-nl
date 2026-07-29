@@ -1,44 +1,18 @@
 ---
 title: "Wet van 25 juli 1947, tot het treffen van maatregelen in zake de vernieuwing van hypothecaire inschrijvingen ten hypotheekkantore te Nijmegen"
+citeertitel: "Wet vernieuwing hypothecaire inschrijvingen ten hypotheekkantore Nijmegen"
 identifier: "BWBR0002031"
-country: "nl"
-rank: "wet"
-publication_date: "1947-09-01"
-last_updated: "1947-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002031"
+categorie: "Overig"
 soort: "wet"
-stam_id: "403193"
-version_id: "592402"
-internal_id: "C592401"
-label_id: "392774"
-dtd_version: "2.0"
-original_entry_into_force: "1947-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002031/1947-09-01/0"
-intitule_bron: "Stb.1947-H 265"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-07-25"
-intitule_status: "goed"
-original_publication: "Stb.1947-H 265"
-original_signed_date: "1947-07-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "344"
-entry_into_force_date: "1947-09-01"
-entry_into_force_dossier: "344"
-jci_1_3: "jci1.3:c:BWBR0002031&z=1947-09-01&g=1947-09-01"
-jci_1_0: "1.0:c:BWBR0002031&g=1947-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet vernieuwing hypothecaire inschrijvingen ten hypotheekkantore Nijmegen"
-signed_date: "1947-07-25"
-entry_into_force: "1947-09-01"
+publicatiedatum: 1947-09-01
+laatste_update: 1947-09-01
+status: geldig
+toestand: 1947-09-01
+bron: "https://wetten.overheid.nl/BWBR0002031"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 25 juli 1947, tot het treffen van maatregelen in zake de vernieuwing van hypothecaire inschrijvingen ten hypotheekkantore te Nijmegen
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is gebleken, maatregelen te treffen inzake de vernieuwing van hypothecaire inschrijvingen, genomen ten kantore van bewaring van de hypotheken, het kadaster en de scheepsbewijzen te Nijmegen;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -107,5 +81,3 @@ Met afwijking van de bepaling van artikel 1236 van het Burgerlijk Wetboek zijn a
 ##### Artikel 8
 
 Deze wet treedt in werking met ingang van de maand, volgende op die waarin zij is afgekondigd.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

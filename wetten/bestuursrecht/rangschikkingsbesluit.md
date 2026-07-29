@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 5 augustus 1960, houdende regelen inzake het opnieuw rangschikken en opnieuw vaststellen van de ouderdom in rang van beroepsmilitairen beneden de rang van tweede-luitenant, die behoren tot de Koninklijke Luchtmacht"
+citeertitel: "Rangschikkingsbesluit"
 identifier: "BWBR0002345"
-country: "nl"
-rank: "amvb"
-publication_date: "1960-09-01"
-last_updated: "1960-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002345"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "678123"
-version_id: "986682"
-internal_id: "C986681"
-label_id: "657324"
-dtd_version: "2.0"
-original_entry_into_force: "1960-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002345/1960-09-01/0"
-intitule_bron: "Stb.1960-315"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1960-08-05"
-intitule_status: "goed"
-original_publication: "Stb.1960-315"
-original_signed_date: "1960-08-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1960-09-01"
-jci_1_3: "jci1.3:c:BWBR0002345&z=1960-09-01&g=1960-09-01"
-jci_1_0: "1.0:c:BWBR0002345&g=1960-09-01"
-citeertitel_status: "officieel"
-short_title: "Rangschikkingsbesluit"
-signed_date: "1960-08-05"
-entry_into_force: "1960-09-01"
+publicatiedatum: 1960-09-01
+laatste_update: 1960-09-01
+status: geldig
+toestand: 1960-09-01
+bron: "https://wetten.overheid.nl/BWBR0002345"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 5 augustus 1960, houdende regelen inzake het opnieuw rangschikken en opnieuw vaststellen van de ouderdom in rang van beroepsmilitairen beneden de rang van tweede-luitenant, die behoren tot de Koninklijke Luchtmacht
-
-Op de voordracht van Onze Minister van Defensie van 28 juni 1960, Directie Militair Personeel, nr. P. 118.307/B;
-
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12);
-
-Gezien het verslag van de Commissie B voor georganiseerd overleg in zaken van belang voor de rechtstoestand van militairen;
-
-De Raad van State gehoord (advies van 19 juli 1960, nr. 16);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 3 augustus 1960, nr. P. 118.307/F;
-
-Overwegende:
-
-dat ter zake van het rangschikken van de beroepsmilitairen beneden de rang van tweede-luitenant, die behoren tot de Koninklijke Luchtmacht, welk rangschikken tot dusver niet is kunnen geschieden op voor alle diensten gelijke wijze en naar gelijke maatstaven, thans de gewenste eenheid kan worden bewerkstelligd,
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -58,9 +24,9 @@ In dit besluit wordt verstaan onder:
 
 - c. diensttijd:
 
-- 1°. de werkelijke militaire diensttijd welke op grond van de Pensioenwet voor de landmacht 1922 bij toekenning van een diensttijdpensioen in aanmerking kan worden gebracht om met pensioen te worden vergolden,
+   - 1°. de werkelijke militaire diensttijd welke op grond van de Pensioenwet voor de landmacht 1922 bij toekenning van een diensttijdpensioen in aanmerking kan worden gebracht om met pensioen te worden vergolden,
 
-- 2°. de werkelijke militaire diensttijd verkregen vóór het tijdstip waarop het achttiende levensjaar is volbracht.
+   - 2°. de werkelijke militaire diensttijd verkregen vóór het tijdstip waarop het achttiende levensjaar is volbracht.
 
 ##### Artikel 2
 
@@ -105,5 +71,3 @@ Dit besluit kan worden aangehaald als: "Rangschikkingsbesluit".
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 1 september 1960.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

@@ -1,46 +1,18 @@
 ---
-title: "Rijkswet van 20 juli 1961, houdende de \"Cassatieregeling voor de Nederlandse Antillen\""
+title: "Rijkswet van 20 juli 1961, houdende de 'Cassatieregeling voor de Nederlandse Antillen'"
+citeertitel: "Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0002356"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2017-03-01"
-last_updated: "2017-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002356"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "157223"
-version_id: "17598322"
-internal_id: "C24496671"
-label_id: "155894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002356/2017-03-01/0"
-intitule_bron: "Stb.1961-212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1961-07-20"
-intitule_status: "goed"
-original_publication: "Stb.2010-339"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "32186"
-original_url_id: "stb-2010-339"
-entry_into_force_date: "2010-07-07"
-entry_into_force_dossier: "32186"
-jci_1_3: "jci1.3:c:BWBR0002356&z=2017-03-01&g=2017-03-01"
-jci_1_0: "1.0:c:BWBR0002356&g=2017-03-01"
-citeertitel_status: "officieel"
-short_title: "Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-07-07"
-entry_into_force: "2010-07-07"
+publicatiedatum: 2010-07-07
+laatste_update: 2017-03-01
+status: geldig
+toestand: 2017-03-01
+bron: "https://wetten.overheid.nl/BWBR0002356"
+opgehaald: 2026-07-29
 ---
+
 # Rijkswet van 20 juli 1961, houdende de "Cassatieregeling voor de Nederlandse Antillen"
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig [artikel 23 van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=23) een regeling te geven voor cassatie door de Hoge Raad der Nederlanden ten aanzien van burgerlijke en strafzaken in de Nederlandse Antillen;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepaling
 
@@ -50,15 +22,27 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 2. De rechtsstelsels van Aruba, Curaçao en Sint Maarten en van de openbare lichamen Bonaire, Sint Eustatius en Saba gelden niet als rechtsstelsels van vreemde staten in de zin van [artikel 79, eerste lid, onderdeel b, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=79).
 
+##### Artikel 1a
+
+De Hoge Raad neemt in belastingzaken met betrekking tot Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba kennis van een beroep in cassatie, ingesteld hetzij door de belanghebbende of door Onze Minister van Financiën van onderscheidenlijk Aruba, Curaçao, Sint Maarten of Nederland, hetzij «in het belang der wet» door de procureur-generaal bij de Hoge Raad.
+
+##### Artikel 1b
+
+De Hoge Raad neemt ten aanzien van burgerlijke zaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van burgerlijke zaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.
+
+##### Artikel 1c
+
+De Hoge Raad neemt ten aanzien van belastingzaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van belastingzaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.
+
 #### § 2. Cassatie in burgerlijke zaken ingesteld door partijen
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -76,7 +60,7 @@ Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van 
 
 ##### Artikel 7
 
-Bij de overeenkomstige toepassing van artikel 22 van de wet van 4 juli 1957, **Stb.** 233, treedt de president van de Hoge Raad in de plaats van de president van de rechtbank.
+Bij de overeenkomstige toepassing van artikel 22 van de wet van 4 juli 1957, *Stb.* 233, treedt de president van de Hoge Raad in de plaats van de president van de rechtbank.
 
 ##### Artikel 8
 
@@ -110,7 +94,7 @@ De zaak kan bij de Hoge Raad ook worden bepleit door advocaten, ingeschreven bij
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -134,41 +118,7 @@ Als raadsman van de verdachte kunnen bij de Hoge Raad ook optreden advocaten, in
 
 4. Indien bij het arrest ten principale recht is gedaan, wordt deze beslissing, voor zover geen termen zijn gevonden tot het verlenen van gratie, ten uitvoer gelegd als een uitspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba in hoger beroep gegeven.
 
-#### § 4. Cassatie in het belang der wet
-
-##### Artikel 16
-
-In het geval bedoeld in [artikel 456, laatste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) van het Europese deel van het Koninkrijk zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde afschrift aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-#### § 4. Cassatie in het belang der wet
-
-##### Artikel 17
-
-De Hoge Raad neemt geen kennis van een beroep in cassatie ingesteld door partijen tegen eindvonnissen of eindbeschikkingen, die in de Nederlandse Antillen en Aruba gewezen zijn voordat deze rijkswet aldaar in werking is getreden.
-
-##### Artikel 18
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 19
-
-Deze wet wordt aangehaald als: Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-De Hoge Raad neemt in belastingzaken met betrekking tot Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba kennis van een beroep in cassatie, ingesteld hetzij door de belanghebbende of door Onze Minister van Financiën van onderscheidenlijk Aruba, Curaçao, Sint Maarten of Nederland, hetzij «in het belang der wet» door de procureur-generaal bij de Hoge Raad.
-
-#### § 2. Cassatie in burgerlijke zaken ingesteld door partijen
-
-#### § 3. Cassatie in strafzaken ingesteld door partijen
-
 #### § 3a. Cassatie in belastingzaken ingesteld door de belanghebbende of de minister
-
-#### § 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 15a
 
@@ -182,24 +132,22 @@ Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsb
 
 5. Het Gemeenschappelijk Hof is in het geval, bedoeld in het vierde lid, zoveel mogelijk samengesteld uit rechters die nog niet over de zaak hebben geoordeeld.
 
-#### § 3a. Cassatie in belastingzaken ingesteld door de belanghebbende of de minister
-
 #### § 4. Cassatie in het belang der wet
 
-Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 16
 
-##### Artikel 1b
-
-De Hoge Raad neemt ten aanzien van burgerlijke zaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van burgerlijke zaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.
-
-##### Artikel 1c
-
-De Hoge Raad neemt ten aanzien van belastingzaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van belastingzaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.
-
-#### § 2. Cassatie in burgerlijke zaken ingesteld door partijen
-
-#### § 3. Cassatie in strafzaken ingesteld door partijen
+In het geval bedoeld in [artikel 456, laatste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) van het Europese deel van het Koninkrijk zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde afschrift aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 #### § 5. Overgangs- en slotbepalingen
 
-Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 17
+
+De Hoge Raad neemt geen kennis van een beroep in cassatie ingesteld door partijen tegen eindvonnissen of eindbeschikkingen, die in de Nederlandse Antillen en Aruba gewezen zijn voordat deze rijkswet aldaar in werking is getreden.
+
+##### Artikel 18
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 19
+
+Deze wet wordt aangehaald als: Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.

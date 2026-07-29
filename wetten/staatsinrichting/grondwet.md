@@ -1,46 +1,28 @@
 ---
 title: "Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815"
+citeertitel: "Grondwet"
 identifier: "BWBR0001840"
-country: "nl"
-rank: "grondwet"
-publication_date: "2023-02-22"
-last_updated: "2023-02-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001840"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "2990003"
-version_id: "28844672"
-internal_id: "C40844421"
-label_id: "2942374"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001840/2023-02-22/0"
-intitule_bron: "Stb.1840-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1840-09-04"
-intitule_status: "goed"
-original_publication: "Stb.2022-332"
-original_signed_date: "2022-07-06"
-original_published_date: "2022-08-30"
-original_effect: "structuurwijziging"
-original_dossier: "35786"
-original_url_id: "stb-2022-332"
-entry_into_force_date: "2022-07-06"
-entry_into_force_dossier: "35786"
-jci_1_3: "jci1.3:c:BWBR0001840&z=2023-02-22&g=2023-02-22"
-jci_1_0: "1.0:c:BWBR0001840&g=2023-02-22"
-citeertitel_status: "officieel"
-short_title: "Grondwet"
-signed_date: "2022-07-06"
-entry_into_force: "2022-07-06"
+publicatiedatum: 2022-07-06
+laatste_update: 2023-02-22
+status: geldig
+toestand: 2023-02-22
+bron: "https://wetten.overheid.nl/BWBR0001840"
+opgehaald: 2026-07-29
 ---
+
 # Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
+
+##### Algemene bepaling
+
+De Grondwet waarborgt de grondrechten en de democratische rechtsstaat.
 
 ### Hoofdstuk 1. Grondrechten
 
 ##### Artikel 1
 
-Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan.
+Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan.
 
 ##### Artikel 2
 
@@ -410,6 +392,10 @@ Om lid van de Staten-Generaal te kunnen zijn is vereist dat men Nederlander is, 
 
 4. De wet kan ten aanzien van andere openbare betrekkingen bepalen dat zij niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van een der kamers kunnen worden uitgeoefend.
 
+##### Artikel 57a
+
+De wet regelt de tijdelijke vervanging van een lid van de Staten-Generaal wegens zwangerschap en bevalling, alsmede wegens ziekte.
+
 ##### Artikel 58
 
 Elke kamer onderzoekt de geloofsbrieven van haar nieuwbenoemde leden en beslist met inachtneming van bij de wet te stellen regels de geschillen welke met betrekking tot de geloofsbrieven of de verkiezing zelf rijzen.
@@ -690,17 +676,17 @@ Volgens bij de wet te stellen regels kunnen plichten worden opgelegd ten behoeve
 
 ##### Artikel 101
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 102
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 103
 
 1. De wet bepaalt in welke gevallen ter handhaving van de uit- of inwendige veiligheid bij koninklijk besluit een door de wet als zodanig aan te wijzen uitzonderingstoestand kan worden afgekondigd; zij regelt de gevolgen.
 
-2. Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten, openbare lichamen als bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2023-02-22&g=2023-02-22) en waterschappen, van de grondrechten geregeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=6&z=2023-02-22&g=2023-02-22), voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=9&z=2023-02-22&g=2023-02-22), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=12&z=2023-02-22&g=2023-02-22), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=13&z=2023-02-22&g=2023-02-22), alsmede van [artikel 113, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=113&z=2023-02-22&g=2023-02-22).
+2. Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten, openbare lichamen als bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2023-02-22&g=2023-02-22) en waterschappen, van de grondrechten geregeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=6&z=2023-02-22&g=2023-02-22), voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, [7](https://wetten.overheid.nl/BWBR0001840), [8](https://wetten.overheid.nl/BWBR0001840), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=9&z=2023-02-22&g=2023-02-22), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=12&z=2023-02-22&g=2023-02-22), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=13&z=2023-02-22&g=2023-02-22), alsmede van [artikel 113, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=113&z=2023-02-22&g=2023-02-22).
 
 3. Terstond na de afkondiging van een uitzonderingstoestand en voorts, zolang deze niet bij koninklijk besluit is opgeheven, telkens wanneer zij zulks nodig oordelen beslissen de Staten-Generaal omtrent het voortduren daarvan; zij beraadslagen en besluiten ter zake in verenigde vergadering.
 
@@ -730,7 +716,7 @@ De wet regelt het geldstelsel.
 
 ##### Artikel 108
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 109
 
@@ -816,7 +802,7 @@ Met uitzondering van de gevallen bij de wet bepaald vinden de terechtzittingen i
 
 2. Amnestie wordt bij of krachtens de wet verleend.
 
-### Hoofdstuk 7. Provincies, gemeenten, waterschappen en andere openbare lichamen
+### Hoofdstuk 7. Provincies, gemeenten, Caribische openbare lichamen, waterschappen en andere openbare lichamen
 
 ##### Artikel 123
 
@@ -884,6 +870,16 @@ De commissaris van de Koning en de burgemeester worden aangesteld, geschorst en 
 
 6. De wet bepaalt welke belastingen door de besturen van provincies en gemeenten kunnen worden geheven en regelt hun financiële verhouding tot het Rijk.
 
+##### Artikel 132a
+
+1. Bij de wet kunnen in het Caribische deel van Nederland andere territoriale openbare lichamen dan provincies en gemeenten worden ingesteld en opgeheven.
+
+2. De [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2023-02-22&g=2023-02-22), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2023-02-22&g=2023-02-22) en [127 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2023-02-22&g=2023-02-22) zijn ten aanzien van deze openbare lichamen van overeenkomstige toepassing.
+
+3. In deze openbare lichamen worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. [Artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2023-02-22&g=2023-02-22) is van overeenkomstige toepassing.
+
+4. Voor deze openbare lichamen kunnen regels worden gesteld en andere specifieke maatregelen worden getroffen met het oog op bijzondere omstandigheden waardoor deze openbare lichamen zich wezenlijk onderscheiden van het Europese deel van Nederland.
+
 ##### Artikel 133
 
 1. De opheffing en instelling van waterschappen, de regeling van hun taken en inrichting, alsmede de samenstelling van hun besturen, geschieden volgens bij de wet te stellen regels bij provinciale verordening, voor zover bij of krachtens de wet niet anders is bepaald.
@@ -950,19 +946,19 @@ De Grondwet kan bij de wet met het [Statuut voor het Koninkrijk der Nederlanden]
 
 ##### Artikel I
 
-Vervallen
+*Vervallen*
 
 ##### Artikel II
 
-Vervallen
+*Vervallen*
 
 ##### Artikel III
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IV
 
-Wijzigt het Statuut voor het Koninkrijk der Nederlanden.
+*Wijzigt het Statuut voor het Koninkrijk der Nederlanden.*
 
 ##### Artikel V
 
@@ -976,15 +972,15 @@ Wijzigt het Statuut voor het Koninkrijk der Nederlanden.
 
 ##### Artikel VI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IX
 
@@ -992,170 +988,88 @@ Vervallen
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIX
 
 Het formulier van afkondiging, vastgesteld bij artikel 81 en de formulieren van verzending en kennisgeving, vastgesteld bij de artikelen 123, 124, 127, 128 en 130 van de Grondwet naar de tekst van 1972, blijven van kracht totdat daarvoor een regeling is getroffen.
 
-- Artikel. **81** Het formulier van afkondiging der wetten is het volgende: "Wij" enz. "Koning der Nederlanden", enz. "Allen, die deze zullen zien of horen lezen, saluut! doen te weten: "Alzo Wij in overweging genomen hebben, dat" enz. (De beweegredenen der wet). "Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze" enz. (De inhoud der wet). "Gegeven". enz. Ingeval een Koningin regeert of het Koninklijk gezag door een Regent of door de Raad van State wordt waargenomen, wordt de daardoor nodige wijziging in dit formulier gebracht.
+- Artikel *81* Het formulier van afkondiging der wetten is het volgende: "Wij" enz. "Koning der Nederlanden", enz. "Allen, die deze zullen zien of horen lezen, saluut! doen te weten: "Alzo Wij in overweging genomen hebben, dat" enz. (De beweegredenen der wet). "Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze" enz. (De inhoud der wet). "Gegeven". enz. Ingeval een Koningin regeert of het Koninklijk gezag door een Regent of door de Raad van State wordt waargenomen, wordt de daardoor nodige wijziging in dit formulier gebracht.
 
-- Artikel. **130** De Koning doet de Staten-Generaal zo spoedig mogelijk kennis dragen, of hij een voorstel van wet, door hen aangenomen, al dan niet goedkeurt. Die kennisgeving geschiedt met een der volgende formulieren: "De Koning bewilligt in het voorstel." of: "De Koning houdt het voorstel in overweging."
+- Artikel *130* De Koning doet de Staten-Generaal zo spoedig mogelijk kennis dragen, of hij een voorstel van wet, door hen aangenomen, al dan niet goedkeurt. Die kennisgeving geschiedt met een der volgende formulieren: "De Koning bewilligt in het voorstel." of: "De Koning houdt het voorstel in overweging."
 
 ##### Artikel XX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIX
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXX
 
-Vervallen
-
-##### Artikel I
-
-Vervallen
-
-##### Artikel 57a
-
-De wet regelt de tijdelijke vervanging van een lid van de Staten-Generaal wegens zwangerschap en bevalling, alsmede wegens ziekte.
-
-#### § 2. Werkwijze
-
-### Hoofdstuk 4. Raad van State, Algemene Rekenkamer, Nationale ombudsman en vaste colleges van advies
-
-### Hoofdstuk 5. Wetgeving en bestuur
-
-#### § 1. Wetten en andere voorschriften
-
-#### § 2. Overige bepalingen
-
-### Hoofdstuk 6. Rechtspraak
-
-### Hoofdstuk 7. Provincies, gemeenten, Caribische openbare lichamen, waterschappen en andere openbare lichamen
-
-### Hoofdstuk 8. Herziening van de Grondwet
-
-### Additionele artikelen
-
-##### Artikel II
-
-Vervallen
-
-##### Artikel II
-
-Vervallen
-
-##### Artikel 132a
-
-1. Bij de wet kunnen in het Caribische deel van Nederland andere territoriale openbare lichamen dan provincies en gemeenten worden ingesteld en opgeheven.
-
-2. De [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2023-02-22&g=2023-02-22), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2023-02-22&g=2023-02-22) en [127 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2023-02-22&g=2023-02-22) zijn ten aanzien van deze openbare lichamen van overeenkomstige toepassing.
-
-3. In deze openbare lichamen worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. [Artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2023-02-22&g=2023-02-22) is van overeenkomstige toepassing.
-
-4. Voor deze openbare lichamen kunnen regels worden gesteld en andere specifieke maatregelen worden getroffen met het oog op bijzondere omstandigheden waardoor deze openbare lichamen zich wezenlijk onderscheiden van het Europese deel van Nederland.
-
-### Hoofdstuk 8. Herziening van de Grondwet
-
-### Additionele artikelen
-
-##### Algemene bepaling
-
-De Grondwet waarborgt de grondrechten en de democratische rechtsstaat.
-
-### Hoofdstuk 1. Grondrechten
-
-### Hoofdstuk 2. Regering
-
-#### § 1. Koning
-
-#### § 2. Koning en ministers
-
-### Hoofdstuk 3. Staten-Generaal
-
-#### § 1. Inrichting en samenstelling
-
-#### § 2. Werkwijze
-
-### Hoofdstuk 4. Raad van State, Algemene Rekenkamer, Nationale ombudsman en vaste colleges van advies
-
-### Hoofdstuk 5. Wetgeving en bestuur
-
-#### § 1. Wetten en andere voorschriften
-
-#### § 2. Overige bepalingen
-
-### Hoofdstuk 6. Rechtspraak
-
-### Hoofdstuk 7. Provincies, gemeenten, Caribische openbare lichamen, waterschappen en andere openbare lichamen
-
-### Hoofdstuk 8. Herziening van de Grondwet
-
-### Additionele artikelen
+*Vervallen*

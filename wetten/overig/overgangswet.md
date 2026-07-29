@@ -1,44 +1,18 @@
 ---
 title: "Wet van 16 mei 1829, houdende bepalingen wegens den overgang van de vroegere tot de nieuwe wetgeving"
+citeertitel: "Overgangswet"
 identifier: "BWBR0001834"
-country: "nl"
-rank: "wet"
-publication_date: "1838-01-26"
-last_updated: "1838-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001834"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1710473"
-version_id: "2527732"
-internal_id: "C2527731"
-label_id: "1664014"
-dtd_version: "2.0"
-original_entry_into_force: "1829-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001834/1838-01-26/0"
-intitule_bron: "Stb.1829-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1829-05-16"
-intitule_status: "goed"
-original_publication: "Stb.1829-29"
-original_signed_date: "1829-05-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1829-06-16"
-jci_1_3: "jci1.3:c:BWBR0001834&z=1838-01-26&g=1838-01-26"
-jci_1_0: "1.0:c:BWBR0001834&g=1838-01-26"
-citeertitel_status: "officieel"
-short_title: "Overgangswet"
-signed_date: "1829-05-16"
-entry_into_force: "1829-06-16"
+publicatiedatum: 1829-06-16
+laatste_update: 1838-01-26
+status: geldig
+toestand: 1838-01-26
+bron: "https://wetten.overheid.nl/BWBR0001834"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 16 mei 1829, houdende bepalingen wegens den overgang van de vroegere tot de nieuwe wetgeving
-
-Allen den genen, die deze zullen zien, of hooren lezen, salut! doen te weten:
-
-Alzoo Wij hebben in overweging genomen, dat, ten einde verkeerde uitleggingen en twistgedingen te voorkomen, welke door den overgang der vroegere tot de nieuwe wetgeving zouden kunnen geboren worden, het doelmatig is, om, bij eene transitoire wet, verordeningen vasttestellen, geschikt om den twijfel te doen ophouden, welke ten aanzien van deze en gene punten van wetgeving zoude kunnen ontstaan;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal,
-
-Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan te bepalen, hetgeen volgt:
 
 ### hoofdstuk Eerste. Algemeene bepalingen
 
@@ -88,7 +62,7 @@ De regten van minderjarigen die ingevolge de bepalingen van artikel 477 en volge
 
 ##### Artikel 11
 
-Ten aanzien van personen, uit kracht van het besluit van den 12. Februarij 1815 (**Staatsblad** no. 25), geconfineerd, doch welke niet onder voogdij zijn gesteld of aan welke geen geregtelijke raadsman is toegevoegd, zal na de invoering der Nederlandsche wetgeving nog éénmaal prolongatie van confinement mogen verleend worden, indien daartoe gronden zijn, zonder dat er vooraf in hunne curatele zal behoeven te worden voorzien, mits de vordering daartoe gedaan worde, binnen zes maanden na die invoering.
+Ten aanzien van personen, uit kracht van het besluit van den 12. Februarij 1815 (*Staatsblad* no. 25), geconfineerd, doch welke niet onder voogdij zijn gesteld of aan welke geen geregtelijke raadsman is toegevoegd, zal na de invoering der Nederlandsche wetgeving nog éénmaal prolongatie van confinement mogen verleend worden, indien daartoe gronden zijn, zonder dat er vooraf in hunne curatele zal behoeven te worden voorzien, mits de vordering daartoe gedaan worde, binnen zes maanden na die invoering.
 
 ### hoofdstuk Derde. Van de adoptie en officieuse voogdij
 
@@ -114,7 +88,7 @@ De wettelijke hypotheken ten behoeve van getrouwde vrouwen, minderjarige, en and
 
 ##### Artikel 16
 
-De borderellen zullen zijn ingerigt overeenkomstig het bepaalde bij artikel 2153 van het Wetboek Napoleon, doch met inachtneming tevens van de voorschriften van artikel 1231, no. 4, van het Burgerlijk Wetboek lees: nieuw Burgerlijk Wetboek; zij houden tevens in: de naam, de voornaam, en de qualiteit van den persoon, door wien de inschrijving wordt gevraagd.
+De borderellen zullen zijn ingerigt overeenkomstig het bepaalde bij artikel 2153 van het Wetboek Napoleon, doch met inachtneming tevens van de voorschriften van artikel 1231, no. 4, van het Burgerlijk Wetboek *lees: nieuw Burgerlijk Wetboek*; zij houden tevens in: de naam, de voornaam, en de qualiteit van den persoon, door wien de inschrijving wordt gevraagd.
 
 ##### Artikel 17
 
@@ -190,7 +164,7 @@ Het bepaalde bij art. 1232 van het nieuwe Burgerlijk Wetboek is op de nieuwe ins
 
 ##### Artikel 33
 
-De wettelijke hypotheken in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001834&hoofdstuk=Vierde&artikel=27&z=1838-01-26&g=1838-01-26) vermeld, waarvan het regt reeds vroeger was geboren, doch welke voor de invoering der Nederlandsche wetgeving nog niet zijn ingeschreven, zullen op de nieuwe registers, doch na lees: naar de voorschriften van het Wetboek Napoleon worden ingeschreven, met inachtneming echter van het vastgestelde bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001834&hoofdstuk=Vierde&artikel=15&z=1838-01-26&g=1838-01-26) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001834&hoofdstuk=Vierde&artikel=16&z=1838-01-26&g=1838-01-26).
+De wettelijke hypotheken in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001834&hoofdstuk=Vierde&artikel=27&z=1838-01-26&g=1838-01-26) vermeld, waarvan het regt reeds vroeger was geboren, doch welke voor de invoering der Nederlandsche wetgeving nog niet zijn ingeschreven, zullen op de nieuwe registers, doch na *lees: naar* de voorschriften van het Wetboek Napoleon worden ingeschreven, met inachtneming echter van het vastgestelde bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001834&hoofdstuk=Vierde&artikel=15&z=1838-01-26&g=1838-01-26) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001834&hoofdstuk=Vierde&artikel=16&z=1838-01-26&g=1838-01-26).
 
 ##### Artikel 34
 
@@ -288,7 +262,7 @@ De regtsvordering tot tenietdoening, ter zake eener benadeeling in een verkoop, 
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ### hoofdstuk Twaalfde. Van de aanhangige twistgedingen
 
@@ -335,5 +309,3 @@ De vonnissen, in het hoogste ressort gewezen door de regtbanken van eersten aanl
 ##### Artikel 60
 
 Onverminderd de werkzaamheden bij de wet op de regterlijke organisatie, aan de kantons-regters opgedragen, zullen zij ook waarnemen hetgeen bij bijzondere wetten en verordeningen op dit oogenblik tot de werkzaamheden behoort van de vrederegters.
-
-Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.

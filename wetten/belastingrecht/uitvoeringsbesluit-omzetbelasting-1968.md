@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 12 augustus 1968 tot vaststelling van het Uitvoeringsbesluit omzetbelasting 1968"
+citeertitel: "Uitvoeringsbesluit omzetbelasting 1968"
 identifier: "BWBR0002633"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002633"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "2883393"
-version_id: "4447972"
-internal_id: "C4447971"
-label_id: "2831864"
-dtd_version: "2.0"
-original_entry_into_force: "1996-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002633/2026-01-01/0"
-intitule_bron: "Stb.1968-423"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1968-08-12"
-intitule_status: "goed"
-original_publication: "Stb.1996-167"
-original_signed_date: "1996-03-04"
-original_published_date: "1996-03-21"
-original_effect: "structuurwijziging"
-original_url_id: "stb-1996-167"
-entry_into_force_date: "1996-06-01"
-entry_into_force_dossier: "23806"
-jci_1_3: "jci1.3:c:BWBR0002633&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0002633&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit omzetbelasting 1968"
-signed_date: "1996-03-04"
-entry_into_force: "1996-06-01"
+publicatiedatum: 1996-06-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0002633"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 12 augustus 1968 tot vaststelling van het Uitvoeringsbesluit omzetbelasting 1968
-
-Op de voordracht van de Staatssecretaris van Financiën van 19 juli 1968, nr. D68/4876, directie Wetgeving Douane en Verbruiksbelastingen;
-
-Gelet op de [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [9, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=10), [11, eerste lid, aanhef en letters f, o, 2°, en u](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), [20, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=20), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=39), [41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=41b), [50, achtste en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), alsmede [50a, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50a) (**Stb.** 329);
-
-De Raad van State gehoord (advies van 31 juli 1968, nr. 45);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 7 augustus 1968, nr. D68/4944, directie Wetgeving Douane en Verbruiksbelastingen;
-
-Hebben goedgevonden en verstaan:
 
 ### Begripsbepalingen
 
@@ -73,7 +42,7 @@ Hebben goedgevonden en verstaan:
 
 1. Tot de vergoeding behoren niet:
 
-- a. vervallen;
+- a. *vervallen;*
 
 - b. de assurantiekosten welke de ondernemer die de prestatie verricht, aan een andere ondernemer moet voldoen, mits zij afzonderlijk in rekening worden gebracht;
 
@@ -137,17 +106,57 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 6. Bij wijzigingen in de aard en samenstelling van de leveringen en diensten van een instelling stelt de instelling de inspecteur daarvan in kennis.
 
+##### Artikel 7a
+
+1. Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) worden aangewezen de diensten die verleend worden op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), mits deze diensten:
+
+- a. worden verricht door de gemeente zelf of ter uitvoering van een overeenkomst die door de gemeente daartoe is gesloten;
+
+- b. worden verleend aan personen die op grond van de [artikelen 1.2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.2.1) en [2.2.3. van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.2.3) ondersteund worden, en
+
+- c. bestaan uit:
+
+   - 1°. het schoonhouden van de woonruimte;
+
+   - 2°. het schoonhouden van kleding en huishoudlinnen behorende tot het huishouden van de cliënt;
+
+   - 3°. het ondersteunen bij of het overnemen van activiteiten op het gebied van de verzorging van de cliënt;
+
+   - 4°. ondersteunende activiteiten gericht op de bevordering van participatie en zelfredzaamheid.
+
+2. Het vereiste, genoemd in het eerste lid, onderdeel a, geldt niet ten aanzien van diensten verricht voor de cliënt aan wie een persoonsgebonden budget is verstrekt als bedoeld in [artikel 2.3.6, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6).
+
+3. Tot de diensten, bedoeld in het eerste lid, behoren in ieder geval niet:
+
+- a. het doen van aanpassingen aan, op of in de woonruimte;
+
+- b. het verrichten van onderhoud of herstelwerkzaamheden aan, op of in de woonruimte;
+
+- c. hovenierswerkzaamheden;
+
+- d. vervoersdiensten.
+
+4. Als dienst als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) wordt eveneens aangewezen het ter beschikking stellen van personeel aan een andere ondernemer in het kader van diensten die verleend worden op grond van de Wet maatschappelijke ondersteuning 2015, mits:
+
+- a. de uitlener voor zijn primaire activiteiten de vrijstelling, bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), toepast;
+
+- b. de inlener het personeelslid inzet voor diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11);
+
+- c. de terbeschikkingstelling van het personeel onontbeerlijk is voor het verrichten van deze vrijgestelde diensten; en
+
+- d. de terbeschikkingstelling van het personeel er in hoofdzaak niet toe strekt extra opbrengsten te verkrijgen door de uitlener in rechtstreekse mededinging met commerciële ondernemers die aan de heffing van belasting zijn onderworpen.
+
 ##### Artikel 8
 
 1. Als onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), wordt aangewezen:
 
 - a. beroepsopleidingen verzorgd door:
 
-- 1°. instellingen die opgenomen zijn in het Instellingenregister Beroepsonderwijs;
+   - 1°. instellingen die opgenomen zijn in het Instellingenregister Beroepsonderwijs;
 
-- 2°. natuurlijke personen die opgenomen zijn in het Docentenregister Beroepsonderwijs voor zover het betreft het verzorgen van beroepsopleidingen die niet worden uitgevoerd als instelling als bedoeld onder 1o, of
+   - 2°. natuurlijke personen die opgenomen zijn in het Docentenregister Beroepsonderwijs voor zover het betreft het verzorgen van beroepsopleidingen die niet worden uitgevoerd als instelling als bedoeld onder 1o, of
 
-- 3°. de uit de openbare kassen bekostigde instellingen, genoemd in de bijlage van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of bedoeld bij de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+   - 3°. de uit de openbare kassen bekostigde instellingen, genoemd in de bijlage van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of bedoeld bij de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
 - b. algemeen vormend onderwijs, ontleend aan het uit de openbare kassen bekostigde onderwijs dat is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel o, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), met uitzondering van het onderwijs dat een vrijetijds-karakter heeft dan wel dient om vaardigheden in de persoonlijke levenssfeer te verwerven;
 
@@ -161,11 +170,11 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 1. Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:
 
-- a. vervallen;
+- a. *vervallen;*
 
 - b. instellingen welke zijn toegelaten om op de voet van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) werkzaam te zijn in het belang van de volkshuisvesting, voor zover de diensten rechtstreeks nodig zijn voor het beheer of het onderhoud van woningwet- of premiewoningen;
 
-- c. vervallen;
+- c. *vervallen;*
 
 - d. verplegings- en verzorgingsinstellingen waarvan de prestaties zijn vrijgesteld op grond van [artikel 11, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in de wasverzorging en het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie;
 
@@ -177,11 +186,11 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Grensoverschrijdend verkeer van goederen en diensten
 
@@ -193,21 +202,21 @@ Vervallen
 
 - a.
 
-- 1°. voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II);
+   - 1°. voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II);
 
-- 2°. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) behorende tabel II, onderdeel a, post 6, indien de ondernemer:
+   - 2°. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) behorende tabel II, onderdeel a, post 6, indien de ondernemer:
 
-- –. beschikt over het btw-identificatienummer van degene die de goederen afneemt en dit btw-identificatienummer is toegekend door een andere lidstaat dan die waar de verzending of het vervoer van de goederen aanvangt;
+      - – beschikt over het btw-identificatienummer van degene die de goederen afneemt en dit btw-identificatienummer is toegekend door een andere lidstaat dan die waar de verzending of het vervoer van de goederen aanvangt;
 
-- –. voldoet aan de verplichting om een lijst in te dienen, bedoeld in [artikel 37a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a); en
+      - – voldoet aan de verplichting om een lijst in te dienen, bedoeld in [artikel 37a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a); en
 
-- –. op die lijst opgave doet van de gegevens, bedoeld in [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a);
+      - – op die lijst opgave doet van de gegevens, bedoeld in [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a);
 
 - b.
 
-- 1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
+   - 1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
 
-- 2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer een schriftelijke verklaring kan overleggen van de afnemer van de minerale oliën dat deze de minerale oliën niet aan de accijnsschorsingsregeling zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
+   - 2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer een schriftelijke verklaring kan overleggen van de afnemer van de minerale oliën dat deze de minerale oliën niet aan de accijnsschorsingsregeling zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
 
 - c. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is.
 
@@ -227,7 +236,7 @@ In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b 
 
 ##### Artikel 12a
 
-1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2026-01-01&g=2026-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
+1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel *a*, post 7, onder *a*, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel *b*, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2026-01-01&g=2026-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel *a*, post 7, van toepassing is.
 
 2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2026-01-01&g=2026-01-01), slotzin, niet van toepassing.
 
@@ -241,7 +250,7 @@ Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, e
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Suppletie
 
@@ -253,9 +262,15 @@ Vervallen
 
 3. De suppletie, bedoeld in het eerste lid, geschiedt op de door de inspecteur aangegeven wijze.
 
+##### Artikel 15a
+
+1. Het niet of niet tijdig doen van de suppletie, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01), en het niet doen van de suppletie op de op grond van artikel 15, derde lid, aangegeven wijze worden aangemerkt als een overtreding.
+
+2. De bevoegdheid tot het opleggen van een vergrijpboete voor een overtreding als bedoeld in het eerste lid vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de belastingschuld is ontstaan of de teruggaaf is verleend.
+
 ### Hoofdstuk V. Bijzondere regelingen
 
-### Afdeling A. Ondernemers met verschillende tarieven
+#### Afdeling A. Ondernemers met verschillende tarieven
 
 ##### Artikel 16
 
@@ -263,67 +278,67 @@ De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - I.
 
-- a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 9%-goederen en 21%-goederen;
+   - a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 9%-goederen en 21%-goederen;
 
-- b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde, waaronder in deze afdeling wordt verstaan de prijs waarvoor de goederen door hem worden verkocht;
+   - b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde, waaronder in deze afdeling wordt verstaan de prijs waarvoor de goederen door hem worden verkocht;
 
-- c. hij berekent de totale winkelwaarde van de in het lopende boekjaar tot en met het aan de orde zijnde belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;
+   - c. hij berekent de totale winkelwaarde van de in het lopende boekjaar tot en met het aan de orde zijnde belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;
 
-- d. de totale ontvangsten in het belastingtijdvak wegens levering van goederen verdeelt hij in ontvangsten voor 9%-goederen en ontvangsten voor 21%-goederen naar evenredigheid van de in onderdeel c bedoelde totale winkelwaarden;
+   - d. de totale ontvangsten in het belastingtijdvak wegens levering van goederen verdeelt hij in ontvangsten voor 9%-goederen en ontvangsten voor 21%-goederen naar evenredigheid van de in onderdeel c bedoelde totale winkelwaarden;
 
-- e. over het aldus berekende deel van de ontvangsten dat betrekking heeft op de 9%-goederen, bedraagt de belasting 9/109 en over het deel dat betrekking heeft op de 21%-goederen, 21/121 gedeelte;
+   - e. over het aldus berekende deel van de ontvangsten dat betrekking heeft op de 9%-goederen, bedraagt de belasting 9/109 en over het deel dat betrekking heeft op de 21%-goederen, 21/121 gedeelte;
 
-- f. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
+   - f. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
 
-- g. na afloop van het boekjaar wordt de belasting herrekend als volgt:
+   - g. na afloop van het boekjaar wordt de belasting herrekend als volgt:
 
-- 1°. de ondernemer bepaalt de winkelwaarde van de ten verkoop in voorraad zijnde goederen, gesplitst in 9%-goederen en 21%-goederen;
+      - 1°. de ondernemer bepaalt de winkelwaarde van de ten verkoop in voorraad zijnde goederen, gesplitst in 9%-goederen en 21%-goederen;
 
-- 2°. de onder 1° bedoelde winkelwaarde van de 9%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 9%-goederen en de aldaar bedoelde winkelwaarde van de 21%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 21%-goederen;
+      - 2°. de onder 1° bedoelde winkelwaarde van de 9%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 9%-goederen en de aldaar bedoelde winkelwaarde van de 21%-goederen wordt afgetrokken van de winkelwaarde van de in het boekjaar ingekochte 21%-goederen;
 
-- 3°. de totale ontvangsten in het boekjaar wegens levering van goederen verdeelt de ondernemer over de 9%- en de 21%-goederen naar evenredigheid van de uit 2° voortvloeiende saldi aan winkelwaarden voor die goederen;
+      - 3°. de totale ontvangsten in het boekjaar wegens levering van goederen verdeelt de ondernemer over de 9%- en de 21%-goederen naar evenredigheid van de uit 2° voortvloeiende saldi aan winkelwaarden voor die goederen;
 
-- 4°. van het aldus berekende deel van de ontvangsten dat betrekking heeft op de 9%-goederen, wordt 9/109 en over het deel dat betrekking heeft op de 21%-goederen, wordt 21/121 gedeelte genomen;
+      - 4°. van het aldus berekende deel van de ontvangsten dat betrekking heeft op de 9%-goederen, wordt 9/109 en over het deel dat betrekking heeft op de 21%-goederen, wordt 21/121 gedeelte genomen;
 
-- 5°. de som van de uitkomsten van de berekeningen onder 4° vormt het bedrag dat geacht wordt in het boekjaar aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
+      - 5°. de som van de uitkomsten van de berekeningen onder 4° vormt het bedrag dat geacht wordt in het boekjaar aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
 
-- 6°. indien deze herrekening leidt tot een hoger bedrag dan over het boekjaar aan belasting is afgedragen, moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende boekjaar; leidt de herrekening tot een lager bedrag dan over het boekjaar aan belasting is afgedragen, dan wordt het verschil aan de ondernemer op verzoek teruggegeven;
+      - 6°. indien deze herrekening leidt tot een hoger bedrag dan over het boekjaar aan belasting is afgedragen, moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende boekjaar; leidt de herrekening tot een lager bedrag dan over het boekjaar aan belasting is afgedragen, dan wordt het verschil aan de ondernemer op verzoek teruggegeven;
 
-- 7°. op die aangifte voldoet de ondernemer tevens de belasting ter zake van het beschikken over goederen in de zin van [artikel 3, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3) (eigen gebruik) in het boekjaar, voor zover de vergoeding voor deze goederen niet in de onder 3° bedoelde ontvangsten zijn begrepen;
+      - 7°. op die aangifte voldoet de ondernemer tevens de belasting ter zake van het beschikken over goederen in de zin van [artikel 3, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3) (eigen gebruik) in het boekjaar, voor zover de vergoeding voor deze goederen niet in de onder 3° bedoelde ontvangsten zijn begrepen;
 
-- h. de in onderdeel g - 1° bedoelde in voorraad zijnde goederen worden beschouwd als goederen die in het eerste belastingtijdvak van het volgende boekjaar zijn ingekocht.
+   - h. de in onderdeel g - 1° bedoelde in voorraad zijnde goederen worden beschouwd als goederen die in het eerste belastingtijdvak van het volgende boekjaar zijn ingekocht.
 
 - II.
 
-- a. De ondernemer houdt afzonderlijk aantekening van zijn inkopen van voor wederverkoop bestemde 21%-goederen;
+   - a. De ondernemer houdt afzonderlijk aantekening van zijn inkopen van voor wederverkoop bestemde 21%-goederen;
 
-- b. hij bepaalt voor die goederen de winkelwaarde;
+   - b. hij bepaalt voor die goederen de winkelwaarde;
 
-- c. hij berekent de totale winkelwaarde van de in het belastingtijdvak ingekochte 21%-goederen en het verschil tussen de totale ontvangsten in dat belastingtijdvak wegens leveringen van goederen en die totale winkelwaarde;
+   - c. hij berekent de totale winkelwaarde van de in het belastingtijdvak ingekochte 21%-goederen en het verschil tussen de totale ontvangsten in dat belastingtijdvak wegens leveringen van goederen en die totale winkelwaarde;
 
-- d. de belasting bedraagt 21/121 gedeelte van de in onderdeel c bedoelde totale winkelwaarde, benevens 9/109 gedeelte van het in onderdeel c bedoelde verschil indien de totale ontvangsten de totale winkelwaarde overtreffen;
+   - d. de belasting bedraagt 21/121 gedeelte van de in onderdeel c bedoelde totale winkelwaarde, benevens 9/109 gedeelte van het in onderdeel c bedoelde verschil indien de totale ontvangsten de totale winkelwaarde overtreffen;
 
-- e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
+   - e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
 
-- f. overtreft de in onderdeel c bedoelde totale winkelwaarde de aldaar bedoelde totale ontvangsten, dan wordt het verschil in mindering gebracht op de totale ontvangsten van het volgende belastingtijdvak;
+   - f. overtreft de in onderdeel c bedoelde totale winkelwaarde de aldaar bedoelde totale ontvangsten, dan wordt het verschil in mindering gebracht op de totale ontvangsten van het volgende belastingtijdvak;
 
-- g. ter zake van het eigen gebruik vindt, voor zover de belasting wordt voldaan naar de ontvangsten, het bepaalde in I-g-7° overeenkomstige toepassing, en kan de ondernemer, voor zover de belasting wordt voldaan naar de winkelwaarde, op de in die bepaling bedoelde aangifte in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik, terwijl de in die aangifte te begrijpen ontvangsten met laatstbedoelde winkelwaarde worden verhoogd;
+   - g. ter zake van het eigen gebruik vindt, voor zover de belasting wordt voldaan naar de ontvangsten, het bepaalde in I-g-7° overeenkomstige toepassing, en kan de ondernemer, voor zover de belasting wordt voldaan naar de winkelwaarde, op de in die bepaling bedoelde aangifte in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik, terwijl de in die aangifte te begrijpen ontvangsten met laatstbedoelde winkelwaarde worden verhoogd;
 
-- h. deze regeling is van overeenkomstige toepassing voor 9%-goederen.
+   - h. deze regeling is van overeenkomstige toepassing voor 9%-goederen.
 
 - III.
 
-- a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 9%-goederen en 21%-goederen;
+   - a. De ondernemer splitst zijn inkopen van voor wederverkoop bestemde goederen in 9%-goederen en 21%-goederen;
 
-- b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde;
+   - b. hij bepaalt voor alle in onderdeel a bedoelde goederen de winkelwaarde;
 
-- c. hij berekent de totale winkelwaarde van de in een belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;
+   - c. hij berekent de totale winkelwaarde van de in een belastingtijdvak ingekochte goederen naar de in onderdeel a bedoelde splitsing;
 
-- d. over de aldus berekende totale winkelwaarde die betrekking heeft op de 9%-goederen, bedraagt de belasting 9/109 gedeelte en over de aldus berekende totale winkelwaarde die betrekking heeft op de 21%-goederen, bedraagt de belasting 21/121 gedeelte;
+   - d. over de aldus berekende totale winkelwaarde die betrekking heeft op de 9%-goederen, bedraagt de belasting 9/109 gedeelte en over de aldus berekende totale winkelwaarde die betrekking heeft op de 21%-goederen, bedraagt de belasting 21/121 gedeelte;
 
-- e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
+   - e. de som van beide belastingbedragen vormt het bedrag dat geacht wordt in het belastingtijdvak aan belasting te zijn verschuldigd; op die som worden vervolgens de overige bepalingen van de wet toegepast (aftrek van voorbelasting, enz.);
 
-- f. na afloop van het boekjaar kan de ondernemer op zijn aangifte over het eerste belastingtijdvak van het volgende boekjaar in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik.
+   - f. na afloop van het boekjaar kan de ondernemer op zijn aangifte over het eerste belastingtijdvak van het volgende boekjaar in mindering brengen de belasting over het verschil tussen de winkelwaarde en de vergoeding voor de goederen voor eigen gebruik.
 
 Algemene aantekeningen
 
@@ -333,39 +348,39 @@ Algemene aantekeningen
 
 ##### Artikel 16a
 
-Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het daaraan voorafgaande boekjaar het in artikel 16 voor methode I in onderdeel **g** bepaalde toegepast met inachtneming van de vóór die wijziging geldende tarieven.
+Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het daaraan voorafgaande boekjaar het in artikel 16 voor methode I in onderdeel *g* bepaalde toegepast met inachtneming van de vóór die wijziging geldende tarieven.
 
 ##### Artikel 16b
 
-1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
+1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) voor methode I in de onderdelen *a* tot en met *h* bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
 
-2. Met betrekking tot een in het boekjaar gelegen belastingtijdvak na het tijdstip van tariefwijziging kan de ondernemer voor de toepassing van het voor methode I in de onderdelen **c** en **d** bepaalde:
+2. Met betrekking tot een in het boekjaar gelegen belastingtijdvak na het tijdstip van tariefwijziging kan de ondernemer voor de toepassing van het voor methode I in de onderdelen *c* en *d* bepaalde:
 
 - 1°. de winkelwaarde van de goederen die zijn ingekocht in het lopende boekjaar tot en met het aan de orde zijnde belastingtijdvak, berekenen met inachtneming van de op het moment van inkoop geldende tarieven; en
 
 - 2°. de totale ontvangsten verdelen naar evenredigheid van de aldus bepaalde totale winkelwaarden.
 
-3. Voor de herrekening van de belasting na afloop van het boekjaar past de ondernemer het voor methode I in onderdeel **g**, aanhef en onder 1° tot en met 4°, bepaalde afzonderlijk toe zowel op het gedeelte van het boekjaar vóór de tariefwijziging als op het gedeelte daarna met inachtneming van de tarieven die gelden voor het desbetreffende gedeelte van het boekjaar.
+3. Voor de herrekening van de belasting na afloop van het boekjaar past de ondernemer het voor methode I in onderdeel *g*, aanhef en onder 1° tot en met 4°, bepaalde afzonderlijk toe zowel op het gedeelte van het boekjaar vóór de tariefwijziging als op het gedeelte daarna met inachtneming van de tarieven die gelden voor het desbetreffende gedeelte van het boekjaar.
 
-4. Bij de in het derde lid bedoelde herrekening kan de ondernemer met betrekking tot het gedeelte van het boekjaar vóór de tariefwijziging voor de toepassing van het voor methode I in onderdeel **g**, onder 1°, bepaalde de winkelwaarde van de op het tijdstip van tariefwijziging ten verkoop in voorraad zijnde goederen stellen op het verschil tussen de totale winkelwaarde van de in dat gedeelte van het boekjaar ingekochte goederen, bepaald met inachtneming van en gesplitst naar de vóór die tariefwijziging geldende tarieven, en de naar evenredigheid van deze winkelwaarden gesplitste ontvangsten in dat gedeelte van het boekjaar.
+4. Bij de in het derde lid bedoelde herrekening kan de ondernemer met betrekking tot het gedeelte van het boekjaar vóór de tariefwijziging voor de toepassing van het voor methode I in onderdeel *g*, onder 1°, bepaalde de winkelwaarde van de op het tijdstip van tariefwijziging ten verkoop in voorraad zijnde goederen stellen op het verschil tussen de totale winkelwaarde van de in dat gedeelte van het boekjaar ingekochte goederen, bepaald met inachtneming van en gesplitst naar de vóór die tariefwijziging geldende tarieven, en de naar evenredigheid van deze winkelwaarden gesplitste ontvangsten in dat gedeelte van het boekjaar.
 
-5. Bij de in het derde lid bedoelde herrekening worden met betrekking tot het gedeelte van het boekjaar na de tariefwijziging voor de toepassing van het voor methode I in onderdeel **h** bepaalde in samenhang met het bepaalde in onderdeel **g**, onder 1°, de op het tijdstip van de tariefwijziging ten verkoop in voorraad zijnde goederen beschouwd als goederen die zijn ingekocht in het na dat tijdstip gelegen gedeelte van het boekjaar en wordt de winkelwaarde van die goederen bepaald met inachtneming van de na de tariefwijziging geldende tarieven.
+5. Bij de in het derde lid bedoelde herrekening worden met betrekking tot het gedeelte van het boekjaar na de tariefwijziging voor de toepassing van het voor methode I in onderdeel *h* bepaalde in samenhang met het bepaalde in onderdeel *g*, onder 1°, de op het tijdstip van de tariefwijziging ten verkoop in voorraad zijnde goederen beschouwd als goederen die zijn ingekocht in het na dat tijdstip gelegen gedeelte van het boekjaar en wordt de winkelwaarde van die goederen bepaald met inachtneming van de na de tariefwijziging geldende tarieven.
 
 ##### Artikel 16c
 
-1. Bij een wijziging van de hoogte van het in artikel 16 bij methode II in onderdeel **a** vermelde tarief met ingang van een boekjaar of in de loop daarvan wordt, in afwijking in zoverre van het voor die methode in onderdeel **f** bepaalde, het op de totale ontvangsten van het volgende belastingtijdvak in mindering te brengen verschil bepaald met inachtneming van de tariefwijziging.
+1. Bij een wijziging van de hoogte van het in artikel 16 bij methode II in onderdeel *a* vermelde tarief met ingang van een boekjaar of in de loop daarvan wordt, in afwijking in zoverre van het voor die methode in onderdeel *f* bepaalde, het op de totale ontvangsten van het volgende belastingtijdvak in mindering te brengen verschil bepaald met inachtneming van de tariefwijziging.
 
-2. In geval van tariefverlaging wordt op de verschuldigde belasting in het in het eerste lid bedoelde belastingtijdvak in mindering gebracht een bedrag gelijk aan het bedrag waarmee het voor methode II in onderdeel **f** bedoelde verschil berekend zonder de tariefwijziging uitgaat boven dat verschil bepaald met inachtneming van de tariefwijziging.
+2. In geval van tariefverlaging wordt op de verschuldigde belasting in het in het eerste lid bedoelde belastingtijdvak in mindering gebracht een bedrag gelijk aan het bedrag waarmee het voor methode II in onderdeel *f* bedoelde verschil berekend zonder de tariefwijziging uitgaat boven dat verschil bepaald met inachtneming van de tariefwijziging.
 
-3. In geval van tariefverhoging wordt in het in het eerste lid bedoelde belastingtijdvak aan belasting verschuldigd een bedrag gelijk aan het bedrag waarmee het voor methode II in onderdeel **f** bedoelde verschil bepaald met inachtneming van de tariefwijziging uitgaat boven dat verschil berekend zonder de tariefwijziging.
+3. In geval van tariefverhoging wordt in het in het eerste lid bedoelde belastingtijdvak aan belasting verschuldigd een bedrag gelijk aan het bedrag waarmee het voor methode II in onderdeel *f* bedoelde verschil bepaald met inachtneming van de tariefwijziging uitgaat boven dat verschil berekend zonder de tariefwijziging.
 
 ##### Artikel 16d
 
-Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
+Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) bij methode II in onderdeel *h* vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 17
 
-1. Ingeval de ondernemer goederen levert welke hijzelf heeft vervaardigd, is daarop artikel 16 van overeenkomstige toepassing, met inachtneming van het volgende:
+1. Ingeval de ondernemer goederen levert welke hijzelf heeft vervaardigd, is daarop [artikel 16](https://wetten.overheid.nl/BWBR0002633) van overeenkomstige toepassing, met inachtneming van het volgende:
 
 - a. in de plaats van de inkopen van de goederen worden gesteld de inkopen van de grondstoffen welke voor de vervaardiging zijn bestemd, gesplitst naar grondstoffen voor 9%-goederen en grondstoffen voor 21%-goederen;
 
@@ -399,7 +414,7 @@ Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR00026
 
 Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang van het boekjaar, volgende op dat waarin de ondernemer van zijn voornemen daartoe schriftelijk mededeling aan de inspecteur heeft gedaan. Zij vindt dan toepassing tot het boekjaar, volgende op dat waarin de ondernemer aan de inspecteur schriftelijk heeft medegedeeld, dat hij haar niet langer wenst toe te passen.
 
-### Afdeling B. Zegelsystemen, waardebonnen enz.
+#### Afdeling B. Zegelsystemen, waardebonnen enz.
 
 ##### Artikel 20
 
@@ -409,9 +424,9 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 - b. op de door een ondernemer in een tijdvak verschuldigde belasting brengt deze in mindering:
 
-- 1°. ingeval de geldswaarde van de zegels pas te zijnen laste komt bij inwisseling van de zegels: de belasting over het bedrag van de in dat tijdvak bij hem ingewisselde zegels;
+   - 1°. ingeval de geldswaarde van de zegels pas te zijnen laste komt bij inwisseling van de zegels: de belasting over het bedrag van de in dat tijdvak bij hem ingewisselde zegels;
 
-- 2°. ingeval de geldswaarde van de zegels reeds te zijnen laste komt vóór de verstrekking van de zegels: de belasting over het bedrag van de in dat tijdvak door hem verstrekte zegels.
+   - 2°. ingeval de geldswaarde van de zegels reeds te zijnen laste komt vóór de verstrekking van de zegels: de belasting over het bedrag van de in dat tijdvak door hem verstrekte zegels.
 
 2. Onder zegels worden begrepen andere voorwerpen welke een soortgelijke functie vervullen.
 
@@ -425,21 +440,21 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 2. Ter zake van waardebonnen die de ondernemer aan zijn afnemers bij de levering van goederen of diensten – al dan niet tegen betaling – verstrekt die afzonderlijk of tezamen met andere waardebonnen bij hem of bij een andere ondernemer, hetzij alleen met verplichte bijbetaling kunnen worden ingewisseld tegen goederen of diensten, hetzij zonder bijbetaling kunnen worden ingewisseld tegen bepaalde andere goederen of diensten, is het eerste lid van overeenkomstige toepassing voor zover deze waardebonnen met verplichte bijbetaling worden ingewisseld tegen goederen of diensten.
 
-### Afdeling C. Aftrek van voorbelasting
+#### Afdeling C. Aftrek van voorbelasting
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
-### Afdeling D. Bevoorrading van vervoermiddelen
+#### Afdeling D. Bevoorrading van vervoermiddelen
 
 ##### Artikel 24a
 
@@ -447,7 +462,7 @@ Vervallen
 
 2. De in het eerste lid bedoelde goederen worden slechts vrijgegeven als bedoeld in artikel 194, eerste lid, van het Douanewetboek van de Unie indien wordt aangetoond dat de in het eerste lid van dit artikel bedoelde aangifte is gedaan.
 
-### Afdeling D. Bevoorrading van vervoermiddelen
+#### Afdeling E. Verlegging
 
 ##### Artikel 24b
 
@@ -455,27 +470,27 @@ Vervallen
 
 - a. werknemer, dienstbetrekking en inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de toepassing van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
 
-- b. aannemer: degene, die zich jegens een ander, de opdrachtgever, verbindt om buiten dienstbetrekking tegen een te betalen prijs een werk van stoffelijke aard uit te voeren dat betrekking heeft op onroerende zaken of schepen als bedoeld in Bijlage I, deel II, hoofdstuk 89, van Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256),
+- b. aannemer: degene, die zich jegens een ander, de opdrachtgever, verbindt om buiten dienstbetrekking tegen een te betalen prijs een werk van stoffelijke aard uit te voeren dat betrekking heeft op onroerende zaken of schepen als bedoeld in Bijlage I, deel II, hoofdstuk 89, van Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256),
 
-- c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking tegen een te betalen prijs het in onderdeel **b** bedoelde werk geheel of gedeeltelijk uit te voeren.
+- c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking tegen een te betalen prijs het in onderdeel *b* bedoelde werk geheel of gedeeltelijk uit te voeren.
 
 2. Voor de toepassing van dit artikel wordt de onderaannemer ten opzichte van zijn onderaannemer als aannemer beschouwd.
 
-3. Voor de toepassing van dit artikel wordt met een aannemer gelijkgesteld degene, die zonder daartoe van een opdrachtgever opdracht te hebben gekregen buiten dienstbetrekking in de normale uitoefening van zijn bedrijf een in het eerste lid, onderdeel **b**, bedoeld werk uitvoert.
+3. Voor de toepassing van dit artikel wordt met een aannemer gelijkgesteld degene, die zonder daartoe van een opdrachtgever opdracht te hebben gekregen buiten dienstbetrekking in de normale uitoefening van zijn bedrijf een in het eerste lid, onderdeel *b*, bedoeld werk uitvoert.
 
-4. Voor de toepassing van dit artikel wordt ten opzichte van de aannemer als onderaannemer beschouwd de verkoper van een toekomstige zaak, indien en voor zover de koop en verkoop voortvloeit uit of verband houdt met het in het eerste lid, onderdeel **b**, bedoelde werk.
+4. Voor de toepassing van dit artikel wordt ten opzichte van de aannemer als onderaannemer beschouwd de verkoper van een toekomstige zaak, indien en voor zover de koop en verkoop voortvloeit uit of verband houdt met het in het eerste lid, onderdeel *b*, bedoelde werk.
 
 5. Als gevallen als zijn bedoeld in [artikel 12, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12) worden aangewezen de gevallen waarin:
 
-- a. een onderaannemer een in het eerste lid, onderdeel **b**, bedoeld werk geheel of gedeeltelijk uitvoert;
+- a. een onderaannemer een in het eerste lid, onderdeel *b*, bedoeld werk geheel of gedeeltelijk uitvoert;
 
-- b. een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsplichtige ter beschikking is gesteld van een derde om werkzaam te zijn bij de uitvoering van een in het eerste lid, onderdeel **b**, bedoeld werk.
+- b. een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsplichtige ter beschikking is gesteld van een derde om werkzaam te zijn bij de uitvoering van een in het eerste lid, onderdeel *b*, bedoeld werk.
 
 6. Indien het vijfde lid van toepassing is, dient op de uit te reiken factuur te worden vermeld: btw verlegd.
 
 7. De voorgaande leden zijn niet van toepassing:
 
-- 1°. indien een werk dat betrekking heeft op onroerende zaken of schepen als bedoeld in het eerste lid, onderdeel **b**, tot de uitvoering waarvan een onderaannemer zich jegens een aannemer heeft verbonden, geheel of grotendeels wordt verricht op de plaats, waar de onderneming van de onderaannemer is gevestigd, of
+- 1°. indien een werk dat betrekking heeft op onroerende zaken of schepen als bedoeld in het eerste lid, onderdeel *b*, tot de uitvoering waarvan een onderaannemer zich jegens een aannemer heeft verbonden, geheel of grotendeels wordt verricht op de plaats, waar de onderneming van de onderaannemer is gevestigd, of
 
 - 2°. indien de uitvoering van een werk waartoe een onderaannemer zich jegens de aannemer heeft verbonden ondergeschikt is aan een tussen hen gesloten overeenkomst van koop en verkoop van een bestaande zaak.
 
@@ -495,19 +510,19 @@ Vervallen
 
 - e. een onroerende zaak of een recht waaraan deze is onderworpen, wordt geleverd aan een ondernemer op grond van een executoriale titel door de executieschuldenaar;
 
-- f. een overdracht aan een ondernemer plaatsvindt van broeikasgasemissierechten, als omschreven in artikel 3 van [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van en regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU 2003, L 275), die overdraagbaar zijn overeenkomstig artikel 12 van die richtlijn alsmede de overdracht aan een ondernemer van andere eenheden die door exploitanten kunnen worden gebruikt om aan de betreffende richtlijn te voldoen;
+- f. een overdracht aan een ondernemer plaatsvindt van broeikasgasemissierechten, als omschreven in artikel 3 van Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van en regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU 2003, L 275), die overdraagbaar zijn overeenkomstig artikel 12 van die richtlijn alsmede de overdracht aan een ondernemer van andere eenheden die door exploitanten kunnen worden gebruikt om aan de betreffende richtlijn te voldoen;
 
-- g. een van de volgende goederensoorten wordt geleverd aan een ondernemer voor een totaalbedrag van € 10 000 of meer per levering per soort goed, de omzetbelasting niet daaronder begrepen:
+- g. een van de volgende goederensoorten wordt geleverd aan een ondernemer voor een totaalbedrag van € 10 000 of meer per levering per soort goed, de omzetbelasting niet daaronder begrepen:
 
-- 1°. mobiele telefoons, zoals toestellen die zijn vervaardigd of aangepast voor gebruik in een netwerk waarvoor een vergunning is afgegeven en die op gespecificeerde frequenties werken, ongeacht of zij nog een ander gebruik hebben;
+   - 1°. mobiele telefoons, zoals toestellen die zijn vervaardigd of aangepast voor gebruik in een netwerk waarvoor een vergunning is afgegeven en die op gespecificeerde frequenties werken, ongeacht of zij nog een ander gebruik hebben;
 
-- 2°. geïntegreerde schakelingen, zoals microprocessoren en centrale verwerkingseenheden, voordat deze in een eindproduct zijn ingebouwd;
+   - 2°. geïntegreerde schakelingen, zoals microprocessoren en centrale verwerkingseenheden, voordat deze in een eindproduct zijn ingebouwd;
 
-- 3°. spelcomputers, zoals computers waarvan de objectieve kenmerken en voornaamste functies van dien aard zijn dat zij bedoeld zijn voor het spelen van videogames of andere computerspellen, ongeacht of zij nog een ander gebruik hebben;
+   - 3°. spelcomputers, zoals computers waarvan de objectieve kenmerken en voornaamste functies van dien aard zijn dat zij bedoeld zijn voor het spelen van videogames of andere computerspellen, ongeacht of zij nog een ander gebruik hebben;
 
-- 4°. tablet pc’s;
+   - 4°. tablet pc’s;
 
-- 5°. laptops;
+   - 5°. laptops;
 
 - h. een telecommunicatiedienst wordt verricht als bedoeld in [artikel 2a, eerste lid, onderdeel r, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), voor zover de dienst plaatsvindt in Nederland tussen ondernemers die deze diensten verrichten;
 
@@ -515,7 +530,27 @@ Vervallen
 
 2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-### Afdeling F. Fiscaal vertegenwoordiger
+##### Artikel 24bb
+
+1. Als gevallen als bedoeld in [artikel 12, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), worden tevens aangewezen de gevallen waarin sprake is van de levering aan een ondernemer van oude materialen, oude materialen ongeschikt voor hergebruik in dezelfde staat, industrieel en niet-industrieel afval, afval voor hergebruik, gedeeltelijk verwerkt afval, schroot, en van bepaalde goederen en diensten, voorzover het betreft:
+
+- a. de levering van resten en afval van ferro- en non-ferroproducten en oude materialen, halffabrikaten daaronder begrepen, die het resultaat zijn van het verwerken, vervaardigen of smelten van ferro- en non-ferrometalen of legeringen daarvan;
+
+- b. de levering van ferro- en non-ferrohalffabrikaten en daarmee samenhangende verwerkingsdiensten;
+
+- c. de levering van residuen en andere materialen voor hergebruik bestaande uit ferro- en non-ferrometalen, legeringen daarvan, slakken, assen, bladders en industriële residuen die metalen of legeringen daarvan bevatten, alsmede de diensten bestaande in het scheiden, snijden, fragmenteren en samenpersen van deze producten;
+
+- d. de levering van en verwerkingsdiensten met betrekking tot afval van ferro- en non-ferroproducten alsmede snippers, schroot, resten en afval, en oud materiaal en materiaal voor hergebruik bestaande uit glasscherven en glas, papier en karton, lompen, beenderen, leder, kunstleder, perkament, huiden en vellen, pezen en zenen, bindgaren, touw en kabel, rubber en kunststof;
+
+- e. de levering van de in dit lid genoemde materialen na bewerking in de vorm van reinigen, polijsten, scheiden, snijden, fragmenteren, samenpersen of gieten tot ingots;
+
+- f. de levering van resten en afval dat ontstaat bij de bewerking van grondstoffen.
+
+2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+
+3. Dit artikel is niet van toepassing bij levering van de in het eerste lid genoemde goederen door een wederverkoper met toepassing van [artikel 28b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28b).
+
+#### Afdeling F. Fiscaal vertegenwoordiger
 
 ##### Artikel 24c
 
@@ -555,19 +590,19 @@ Vervallen
 
 - a. de verzoeker kan namens de buitenlandse ondernemer waarvoor hij als fiscaal vertegenwoordiger met een beperkte vergunning is aangesteld, optreden voor:
 
-- 1°. de invoer van goederen;
+   - 1°. de invoer van goederen;
 
-- 2°. de op de invoer volgende levering van goederen andere dan bedoeld in [artikel 5a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a);
+   - 2°. de op de invoer volgende levering van goederen andere dan bedoeld in [artikel 5a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a);
 
-- 3°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 7 of 8, van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
+   - 3°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel *a*, post 7 of 8, van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
 
-- 4°. de intracommunautaire verwerving van goederen die voorafgaat aan een levering als bedoeld onder 3°;
+   - 4°. de intracommunautaire verwerving van goederen die voorafgaat aan een levering als bedoeld onder 3°;
 
-- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2026-01-01&g=2026-01-01);
+   - 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel *a*, post 2 of 6, van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2026-01-01&g=2026-01-01);
 
-- 6°. de levering bedoeld in de bij de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) behorende tabel II, onderdeel **a**, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.
+   - 6°. de levering bedoeld in de bij de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) behorende tabel II, onderdeel *a*, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.
 
-- b. de verzoeker is mede aansprakelijk voor de belasting die is verschuldigd ter zake van de in onderdeel **a** genoemde belastbare handelingen en de daarmee samenhangende verschuldigde renten en bestuurlijke boeten.
+- b. de verzoeker is mede aansprakelijk voor de belasting die is verschuldigd ter zake van de in onderdeel *a* genoemde belastbare handelingen en de daarmee samenhangende verschuldigde renten en bestuurlijke boeten.
 
 6. De aansprakelijkstelling op grond van het vierde en het vijfde lid vindt plaats met toepassing van [hoofdstuk VI, afdeling 2, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&afdeling=2).
 
@@ -589,452 +624,22 @@ De buitenlandse ondernemer wordt van de intrekking van de vergunning in kennis g
 
 2. De buitenlandse ondernemer is gehouden een fiscaal vertegenwoordiger aan te stellen voor de levering die aan hem wordt verricht en waarvoor van hem de belasting wordt geheven ingevolge de bij de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) behorende tabel II, onderdeel a, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling. De eerste volzin is eveneens van toepassing op de door de buitenlandse ondernemer verrichte levering die volgt op de aldaar bedoelde levering.
 
-### Hoofdstuk VI
+### Hoofdstuk VI. Aanwijzingen
 
 ##### Artikel 25
 
-De Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994, wordt aangewezen als nationale autoriteit als bedoeld in artikel 5 ter, vierde lid, van [Uitvoeringsverordening (EU) nr. 79/2012](32012R0079) van de Commissie van 31 januari 2012 tot vaststelling van nadere uitvoeringsvoorschriften voor enkele bepalingen van [Verordening (EU) nr. 904/2010](32010R0904) van de Raad betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2012, L 29) voor het verwerken van inkomende en uitgaande verzoeken om voertuigregistratiegegevens voor btw-doeleinden.
+De Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994, wordt aangewezen als nationale autoriteit als bedoeld in artikel 5 ter, vierde lid, van Uitvoeringsverordening (EU) nr. 79/2012 van de Commissie van 31 januari 2012 tot vaststelling van nadere uitvoeringsvoorschriften voor enkele bepalingen van Verordening (EU) nr. 904/2010 van de Raad betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2012, L 29) voor het verwerken van inkomende en uitgaande verzoeken om voertuigregistratiegegevens voor btw-doeleinden.
 
-### Hoofdstuk VI. Aanwijzingen
+### Hoofdstuk VII
 
 ##### Artikel 25a
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VII
+### Slotbepaling
 
 ##### Artikel 26
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1969.
 
 2. Dit besluit kan worden aangehaald als Uitvoeringsbesluit omzetbelasting 1968.
-
-## Bijlage A
-
-- a. De waarde van een canon, een retributie, een huur of een uitkering van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
-
-| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
-| --- | --- | --- |
-| 15, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 20 jaar of ouder, doch jonger dan 30 jaar is, |
-| 14, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 30 jaar of ouder, doch jonger dan 40 jaar is, |
-| 13, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 40 jaar of ouder, doch jonger dan 50 jaar is, |
-| 12, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 50 jaar of ouder, doch jonger dan 55 jaar is, |
-| 11, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 55 jaar of ouder, doch jonger dan 60 jaar is, |
-| 10, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 60 jaar of ouder, doch jonger dan 65 jaar is, |
-| 8, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 65 jaar of ouder, doch jonger dan 70 jaar is, |
-| 7, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 70 jaar of ouder, doch jonger dan 75 jaar is, |
-| 5, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 75 jaar of ouder, doch jonger dan 80 jaar is |
-| 4, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 80 jaar of ouder, doch jonger dan 85 jaar is, |
-| 3, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 85 jaar of ouder, doch jonger dan 90 jaar is, |
-| 2, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 90 jaar of ouder is. |
-
-- b. De waarde van een canon, een retributie, een huur of een uitkering die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:
-
-|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon |   |
-| --- | --- | --- | --- | --- |
-|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder | indien de schuldplichtigheid niet van het leven afhankelijk is |
-| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
-| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
-| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
-| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
-| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
-| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
-
-- c. De waarde van een canon, een retributie, een huur of een uitkering voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
-
-- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
-
-- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
-
-- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
-
-- e. Een canon, een retributie, een huur of een uitkering die vervalt bij het overlijden:
-
-- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
-
-- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
-
-- f. Een canon, een retributie, een huur of een uitkering tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
-
-- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
-
-- h. Een canon, een retributie, een huur of een uitkering tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
-
-## Bijlage A
-
-- a. De waarde van een canon, een retributie, een huur of een uitkering van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
-
-| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
-| --- | --- | --- |
-| 15, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 20 jaar of ouder, doch jonger dan 30 jaar is, |
-| 14, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 30 jaar of ouder, doch jonger dan 40 jaar is, |
-| 13, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 40 jaar of ouder, doch jonger dan 50 jaar is, |
-| 12, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 50 jaar of ouder, doch jonger dan 55 jaar is, |
-| 11, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 55 jaar of ouder, doch jonger dan 60 jaar is, |
-| 10, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 60 jaar of ouder, doch jonger dan 65 jaar is, |
-| 8, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 65 jaar of ouder, doch jonger dan 70 jaar is, |
-| 7, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 70 jaar of ouder, doch jonger dan 75 jaar is, |
-| 5, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 75 jaar of ouder, doch jonger dan 80 jaar is |
-| 4, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 80 jaar of ouder, doch jonger dan 85 jaar is, |
-| 3, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 85 jaar of ouder, doch jonger dan 90 jaar is, |
-| 2, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 90 jaar of ouder is. |
-
-- b. De waarde van een canon, een retributie, een huur of een uitkering die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:
-
-|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon |   |
-| --- | --- | --- | --- | --- |
-|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder | indien de schuldplichtigheid niet van het leven afhankelijk is |
-| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
-| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
-| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
-| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
-| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
-| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
-
-- c. De waarde van een canon, een retributie, een huur of een uitkering voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
-
-- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
-
-- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
-
-- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
-
-- e. Een canon, een retributie, een huur of een uitkering die vervalt bij het overlijden:
-
-- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
-
-- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
-
-- f. Een canon, een retributie, een huur of een uitkering tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
-
-- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
-
-- h. Een canon, een retributie, een huur of een uitkering tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
-
-## Bijlage A
-
-- a. De waarde van een canon, een retributie, een huur of een uitkering van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
-
-| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
-| --- | --- | --- |
-| 15, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 20 jaar of ouder, doch jonger dan 30 jaar is, |
-| 14, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 30 jaar of ouder, doch jonger dan 40 jaar is, |
-| 13, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 40 jaar of ouder, doch jonger dan 50 jaar is, |
-| 12, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 50 jaar of ouder, doch jonger dan 55 jaar is, |
-| 11, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 55 jaar of ouder, doch jonger dan 60 jaar is, |
-| 10, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 60 jaar of ouder, doch jonger dan 65 jaar is, |
-| 8, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 65 jaar of ouder, doch jonger dan 70 jaar is, |
-| 7, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 70 jaar of ouder, doch jonger dan 75 jaar is, |
-| 5, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 75 jaar of ouder, doch jonger dan 80 jaar is |
-| 4, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 80 jaar of ouder, doch jonger dan 85 jaar is, |
-| 3, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 85 jaar of ouder, doch jonger dan 90 jaar is, |
-| 2, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 90 jaar of ouder is. |
-
-- b. De waarde van een canon, een retributie, een huur of een uitkering die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:
-
-|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon |   |
-| --- | --- | --- | --- | --- |
-|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder | indien de schuldplichtigheid niet van het leven afhankelijk is |
-| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
-| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
-| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
-| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
-| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
-| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
-
-- c. De waarde van een canon, een retributie, een huur of een uitkering voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.
-
-- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
-
-- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
-
-- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
-
-- e. Een canon, een retributie, een huur of een uitkering die vervalt bij het overlijden:
-
-- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
-
-- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
-
-- f. Een canon, een retributie, een huur of een uitkering tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
-
-- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
-
-- h. Een canon, een retributie, een huur of een uitkering tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 24bb
-
-1. Als gevallen als bedoeld in [artikel 12, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), worden tevens aangewezen de gevallen waarin sprake is van de levering aan een ondernemer van oude materialen, oude materialen ongeschikt voor hergebruik in dezelfde staat, industrieel en niet-industrieel afval, afval voor hergebruik, gedeeltelijk verwerkt afval, schroot, en van bepaalde goederen en diensten, voorzover het betreft:
-
-- a. de levering van resten en afval van ferro- en non-ferroproducten en oude materialen, halffabrikaten daaronder begrepen, die het resultaat zijn van het verwerken, vervaardigen of smelten van ferro- en non-ferrometalen of legeringen daarvan;
-
-- b. de levering van ferro- en non-ferrohalffabrikaten en daarmee samenhangende verwerkingsdiensten;
-
-- c. de levering van residuen en andere materialen voor hergebruik bestaande uit ferro- en non-ferrometalen, legeringen daarvan, slakken, assen, bladders en industriële residuen die metalen of legeringen daarvan bevatten, alsmede de diensten bestaande in het scheiden, snijden, fragmenteren en samenpersen van deze producten;
-
-- d. de levering van en verwerkingsdiensten met betrekking tot afval van ferro- en non-ferroproducten alsmede snippers, schroot, resten en afval, en oud materiaal en materiaal voor hergebruik bestaande uit glasscherven en glas, papier en karton, lompen, beenderen, leder, kunstleder, perkament, huiden en vellen, pezen en zenen, bindgaren, touw en kabel, rubber en kunststof;
-
-- e. de levering van de in dit lid genoemde materialen na bewerking in de vorm van reinigen, polijsten, scheiden, snijden, fragmenteren, samenpersen of gieten tot ingots;
-
-- f. de levering van resten en afval dat ontstaat bij de bewerking van grondstoffen.
-
-2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
-
-3. Dit artikel is niet van toepassing bij levering van de in het eerste lid genoemde goederen door een wederverkoper met toepassing van [artikel 28b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28b).
-
-### Afdeling F. Fiscaal vertegenwoordiger
-
-### Hoofdstuk VI
-
-### Hoofdstuk VI. Aanwijzingen
-
-### Hoofdstuk VII
-
-## Bijlage A
-
-- a. De waarde van een canon, een retributie, een huur of een uitkering van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
-
-| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
-| --- | --- | --- |
-| 15, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 20 jaar of ouder, doch jonger dan 30 jaar is, |
-| 14, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 30 jaar of ouder, doch jonger dan 40 jaar is, |
-| 13, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 40 jaar of ouder, doch jonger dan 50 jaar is, |
-| 12, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 50 jaar of ouder, doch jonger dan 55 jaar is, |
-| 11, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 55 jaar of ouder, doch jonger dan 60 jaar is, |
-| 10, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 60 jaar of ouder, doch jonger dan 65 jaar is, |
-| 8, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 65 jaar of ouder, doch jonger dan 70 jaar is, |
-| 7, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 70 jaar of ouder, doch jonger dan 75 jaar is, |
-| 5, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 75 jaar of ouder, doch jonger dan 80 jaar is |
-| 4, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 80 jaar of ouder, doch jonger dan 85 jaar is, |
-| 3, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 85 jaar of ouder, doch jonger dan 90 jaar is, |
-| 2, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | 90 jaar of ouder is. |
-
-- b. De waarde van een canon, een retributie, een huur of een uitkering die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij moet plaatshebben, iedere euro berekend tegen de volgende bedragen:
-
-|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon |   |
-| --- | --- | --- | --- | --- |
-|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder | indien de schuldplichtigheid niet van het leven afhankelijk is |
-| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
-| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
-| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
-| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
-| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
-| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
-
-- c. De waarde van een canon, een retributie, een huur of een uitkering voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.
-
-- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
-
-- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
-
-- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
-
-- e. Een canon, een retributie, een huur of een uitkering die vervalt bij het overlijden:
-
-- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
-
-- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
-
-- f. Een canon, een retributie, een huur of een uitkering tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot het geschatte gemiddelde jaarlijkse bedrag.
-
-- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
-
-- h. Een canon, een retributie, een huur of een uitkering tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie, een huur of een uitkering tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 7a
-
-1. Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) worden aangewezen de diensten die verleend worden op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), mits deze diensten:
-
-- a. worden verricht door de gemeente zelf of ter uitvoering van een overeenkomst die door de gemeente daartoe is gesloten;
-
-- b. worden verleend aan personen die op grond van de [artikelen 1.2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.2.1) en [2.2.3. van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.2.3) ondersteund worden, en
-
-- c. bestaan uit:
-
-- 1°. het schoonhouden van de woonruimte;
-
-- 2°. het schoonhouden van kleding en huishoudlinnen behorende tot het huishouden van de cliënt;
-
-- 3°. het ondersteunen bij of het overnemen van activiteiten op het gebied van de verzorging van de cliënt;
-
-- 4°. ondersteunende activiteiten gericht op de bevordering van participatie en zelfredzaamheid.
-
-2. Het vereiste, genoemd in het eerste lid, onderdeel a, geldt niet ten aanzien van diensten verricht voor de cliënt aan wie een persoonsgebonden budget is verstrekt als bedoeld in [artikel 2.3.6, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6).
-
-3. Tot de diensten, bedoeld in het eerste lid, behoren in ieder geval niet:
-
-- a. het doen van aanpassingen aan, op of in de woonruimte;
-
-- b. het verrichten van onderhoud of herstelwerkzaamheden aan, op of in de woonruimte;
-
-- c. hovenierswerkzaamheden;
-
-- d. vervoersdiensten.
-
-4. Als dienst als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) wordt eveneens aangewezen het ter beschikking stellen van personeel aan een andere ondernemer in het kader van diensten die verleend worden op grond van de Wet maatschappelijke ondersteuning 2015, mits:
-
-- a. de uitlener voor zijn primaire activiteiten de vrijstelling, bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), toepast;
-
-- b. de inlener het personeelslid inzet voor diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11);
-
-- c. de terbeschikkingstelling van het personeel onontbeerlijk is voor het verrichten van deze vrijgestelde diensten; en
-
-- d. de terbeschikkingstelling van het personeel er in hoofdzaak niet toe strekt extra opbrengsten te verkrijgen door de uitlener in rechtstreekse mededinging met commerciële ondernemers die aan de heffing van belasting zijn onderworpen.
-
-### Hoofdstuk III. Grensoverschrijdend verkeer van goederen en diensten
-
-### Hoofdstuk IV. Suppletie
-
-### Hoofdstuk V. Bijzondere regelingen
-
-### Afdeling A. Ondernemers met verschillende tarieven
-
-### Afdeling B. Zegelsystemen, waardebonnen enz.
-
-### Afdeling C. Aftrek van voorbelasting
-
-### Afdeling D. Bevoorrading van vervoermiddelen
-
-### Afdeling E. Verlegging
-
-### Afdeling F. Fiscaal vertegenwoordiger
-
-### Slotbepaling
-
-## Bijlage B
-
-- a. Vervallen;
-
-- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2026-01-01&g=2026-01-01) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen:
-
-- 1. kruisverenigingen;
-
-- 2. instellingen tot bestrijding van de tuberculose;
-
-- 3. instellingen voor reumatiekbestrijding;
-
-- 4. instellingen werkzaam op het gebied van de Eerste Hulp Bij Ongevallen;
-
-- 5. instellingen werkzaam op het gebied van adoptiebemiddeling;
-
-- 6. scholen voor langdurig zieke kinderen;
-
-- 7. consultatiebureaus voor alcohol en drugs;
-
-- 8. bureaus voor seksuele en huwelijksvoorlichting, alleen voor diensten;
-
-- 9. instellingen van verpleging, wijkverpleging, kraam- en gezinsverzorging, voor zover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdelen c of g , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11);
-
-- 10. speeltuinverenigingen;
-
-- 11. vervallen;
-
-- 12. dagverblijven voor gehandicapten;
-
-- 13. ziekenhuizen, poliklinieken, psychiatrische inrichtingen en dergelijke inrichtingen, voor zover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel c , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11);
-
-- 14. instellingen van zeemanszorg, mede voor het verstrekken van spijzen en dranken;
-
-- 15.
-
-- a. aanbieders van preventie als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), mede voor het ter beschikking stellen van personeel;
-
-- b. instellingen die werkzaam zijn op het terrein van het bevorderen van sociale samenhang en leefbaarheid als bedoeld in de [Wet maatschappelijke ondersteuning 2015,](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) voor zover werkzaam op het gebied van club- en buurthuiswerk;
-
-- 16. instellingen die zich bezighouden met vormingswerk in internaatsverband, mede voor het verstrekken van spijzen en dranken;
-
-- 17. Samenwerkingsverbanden als bedoeld in [artikel 18a, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) of landelijke samenwerkingsverbanden als bedoeld in artikel 18a, vijftiende lid, van de Wet op het primair onderwijs, voor zover zij werkzaamheden verrichten als uitvloeisel van het ondersteuningsplan, bedoeld in artikel 18a, achtste lid, van die wet;
-
-- 18. Samenwerkingsverbanden als bedoeld in [artikel 2.47, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47) of landelijke samenwerkingsverbanden als bedoeld in artikel 2.47, achttiende lid, van de Wet voortgezet onderwijs 2020, voor zover zij werkzaamheden verrichten als uitvloeisel van het ondersteuningsplan, bedoeld in artikel 2.47, negende lid, van die wet;
-
-- 19. instellingen die zich ten doel stellen de bestrijding van bos- en heidebranden;
-
-- 20. Samenwerkingsverbanden op het gebied van multidisciplinaire eerstelijns- en geboortezorg die kosten voor zorgprestaties declareren voor zover deze diensten worden bekostigd op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en nader staan beschreven in de door de Nederlandse Zorgautoriteit voor deze vormen van zorg vastgestelde beleidsregels ingevolge de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
-
-- 21. vervallen;
-
-- 22. militaire tehuizen, mede voor het verstrekken van spijzen en dranken;
-
-- 23. instellingen op het gebied van bejaardenzorg voor prestaties die in het bijzonder zijn gericht op het handhaven of bevorderen van de mogelijkheden voor ouderen om zo lang mogelijk zelfstandig te blijven wonen, mede voor het verstrekken van spijzen en dranken, maar met uitzondering van leveringen en diensten in het kader van personenalarmering;
-
-- 24. vervallen;
-
-- 25. gemeenten of door gemeenten aangewezen rechtspersonen voor prestaties verricht op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en [7a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a);
-
-- 26. vervallen;
-
-- 27. instellingen die schoolbegeleiding verzorgen als bedoeld in [artikel 185 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=185), [artikel 164 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164) en [artikel 2.46 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.46);
-
-- 28. vervallen;
-
-- 29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;
-
-- 30. jeugdhulpaanbieders en gecertificeerde instellingen als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), mede voor het verstrekken van spijzen en dranken en het ter beschikking stellen van personeel;
-
-- 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening;
-
-- 32. instellingen ter bestrijding van hart- en vaatziekten voorzover het reanimatieonderwijs betreft, die daarvoor via convenanten nauw samenwerken met de Nederlandse Hartstichting;
-
-- 33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11);
-
-- 34. amateurtoneelverenigingen;
-
-- 35. amateurmuziekverenigingen;
-
-- 36. carnavalsverenigingen;
-
-- 37. kleindierverenigingen.
-
-Algemene aantekening
-
-Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht.
-
-Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 2° en 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) die worden verleend aan anderen dan de personen, bedoeld in dat onderdeel, onder 2° en 3°.
-
-De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 9, voor zover betrekking hebbend op wijkverpleging, 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit waaruit blijkt dat zij recht hebben op de daar bedoelde diensten, 15, onder a, 20, 29, 30 en 33, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
-
-De terbeschikkingstelling van personeel, bedoeld in onderdeel b, post 15, onder a, en post 30, dient te voldoen aan de volgende voorwaarden:
-
-- a. De uitlener is aanbieder van preventie, jeugdhulpaanbieder of gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) en past voor zijn primaire activiteiten de vrijstelling toe van [artikel 11, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11);
-
-- b. De inlener zet het personeelslid in voor leveringen en diensten als bedoeld in [artikel 11, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) in samenhang met [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2026-01-01&g=2026-01-01), en bijlage B, onderdeel b, post 15, onder a, of post 30;
-
-- c. De terbeschikkingstelling van het personeel is onontbeerlijk voor het verrichten van deze vrijgestelde prestaties; en
-
-- d. De terbeschikkingstelling van het personeel strekt er in hoofdzaak niet toe extra opbrengsten te verkrijgen door de uitlener in rechtstreekse mededinging met commerciële ondernemers die aan de heffing van belasting zijn onderworpen.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 25
-
-De Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994, wordt aangewezen als nationale autoriteit als bedoeld in artikel 5 ter, vierde lid, van [Uitvoeringsverordening (EU) nr. 79/2012](32012R0079) van de Commissie van 31 januari 2012 tot vaststelling van nadere uitvoeringsvoorschriften voor enkele bepalingen van [Verordening (EU) nr. 904/2010](32010R0904) van de Raad betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2012, L 29) voor het verwerken van inkomende en uitgaande verzoeken om voertuigregistratiegegevens voor btw-doeleinden.
-
-### Slotbepaling
-
-## Bijlage C
-
-Vervallen.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 15a
-
-1. Het niet of niet tijdig doen van de suppletie, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01), en het niet doen van de suppletie op de op grond van artikel 15, derde lid, aangegeven wijze worden aangemerkt als een overtreding.
-
-2. De bevoegdheid tot het opleggen van een vergrijpboete voor een overtreding als bedoeld in het eerste lid vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de belastingschuld is ontstaan of de teruggaaf is verleend.
-
-### Hoofdstuk V. Bijzondere regelingen
-
-### Afdeling A. Ondernemers met verschillende tarieven
-
-### Afdeling B. Zegelsystemen, waardebonnen enz.
-
-### Afdeling C. Aftrek van voorbelasting
-
-### Afdeling E. Verlegging
-
-### Afdeling F. Fiscaal vertegenwoordiger

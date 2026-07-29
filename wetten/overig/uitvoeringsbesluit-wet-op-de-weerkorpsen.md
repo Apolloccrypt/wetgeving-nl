@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 2 juli 1938, houdende bepalingen tot uitvoering van de Wet op de weerkorpsen"
+citeertitel: "Uitvoeringsbesluit Wet op de weerkorpsen"
 identifier: "BWBR0001992"
-country: "nl"
-rank: "kb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001992"
+categorie: "Overig"
 soort: "KB"
-stam_id: "1041983"
-version_id: "1530502"
-internal_id: "C1530501"
-label_id: "1009754"
-dtd_version: "2.0"
-original_entry_into_force: "1939-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001992/2011-01-01/0"
-intitule_bron: "Stb.1938-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1938-07-02"
-intitule_status: "goed"
-original_publication: "Stb.1938-247"
-original_signed_date: "1938-07-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1939-02-01"
-jci_1_3: "jci1.3:c:BWBR0001992&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0001992&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Wet op de weerkorpsen"
-signed_date: "1938-07-02"
-entry_into_force: "1939-02-01"
+publicatiedatum: 1939-02-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0001992"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 2 juli 1938, houdende bepalingen tot uitvoering van de Wet op de weerkorpsen
-
-Op de voordracht van Onze Ministers van Justitie van 24 Januari 1938, 5de Afdeeling, n°. 500G, van Binnenlandsche Zaken van 28 Januari 1938, Afdeeling Binnenlandsch Bestuur, n°. 1709, en van Defensie van 28 Januari 1938, Geheim Litt. W.23;
-
-Gezien artikel 1 van de wet van den 11den September 1936, **Staatsblad** n°. 206, houdende voorzieningen omtrent weerkorpsen;
-
-Den Raad van State gehoord (advies van 1 Maart 1938, n°. 22);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 11 Juni 1938, 5de Afdeeling, n°. 3384 G, 17 Juni 1938, Afdeeling Binnenlandsch Bestuur, n°. 16791, en 28 Juni 1938, Geheim Litt. Z.158;
-
-Hebben goedgevonden en verstaan:
 
 #### § I. Inleidende bepaling
 
@@ -106,7 +78,7 @@ Elk openbaar vertoon en elke andere in het openbaar blijkende bemoeiing van eene
 
 - c. het programma van de opleiding tot de onderscheidene functies;
 
-- d. de aankoop, de bewaring en het onderhoud van wapenen en munitie - zulks onverminderd de bepalingen bij en krachtens de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) (**Stb.** 1986, 41) gesteld - en van helmen en gasmaskers;
+- d. de aankoop, de bewaring en het onderhoud van wapenen en munitie - zulks onverminderd de bepalingen bij en krachtens de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) (*Stb.* 1986, 41) gesteld - en van helmen en gasmaskers;
 
 - e. de inrichting en het houden van opslagplaatsen.
 
@@ -168,22 +140,20 @@ Dit besluit treedt in werking tegelijk met de Wet op de weerkorpsen.
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
-
-Onze Ministers van Justitie, van Binnenlandsche Zaken en van Defensie zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.
+*Vervallen*

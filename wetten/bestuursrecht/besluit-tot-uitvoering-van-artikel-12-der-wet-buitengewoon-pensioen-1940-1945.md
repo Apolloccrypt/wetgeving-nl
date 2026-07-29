@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 9 augustus 1948, tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945"
+citeertitel: "Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945"
 identifier: "BWBR0002042"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-10-06"
-last_updated: "2016-10-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002042"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1069443"
-version_id: "1576662"
-internal_id: "C1576661"
-label_id: "1036264"
-dtd_version: "2.0"
-original_entry_into_force: "1948-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002042/2016-10-06/0"
-intitule_bron: "Stb.1948-I 362"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-08-09"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 362"
-original_signed_date: "1948-08-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-09-30"
-jci_1_3: "jci1.3:c:BWBR0002042&z=2016-10-06&g=2016-10-06"
-jci_1_0: "1.0:c:BWBR0002042&g=2016-10-06"
-citeertitel_status: "officieel"
-short_title: "Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945"
-signed_date: "1948-08-09"
-entry_into_force: "1948-09-30"
+publicatiedatum: 1948-09-30
+laatste_update: 2016-10-06
+status: geldig
+toestand: 2016-10-06
+bron: "https://wetten.overheid.nl/BWBR0002042"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 9 augustus 1948, tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945
-
-Op de gemeenschappelijke voordracht van de Ministers van Binnenlandse Zaken, van Financiën en van Sociale Zaken van 22 Juni 1948, afdeling Maatschappelijke Zorg II, bureau 4, No. 4077;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=3), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=12), eerste lid, en [20, eerste lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=20) (**Staatsblad** 1947, No. H 313);
-
-Gezien de adviezen van de Buitengewone Pensioenraad en de Stichting 1940-1945;
-
-De Raad van State gehoord (advies van 27 Juli 1948, No. 47);
-
-Gezien het nader rapport van de Minister van Binnenlandse Zaken, mede namens zijn voornoemde Ambtgenoten, van 2 Augustus 1948, Afdeling Maatschappelijke Zorg II, bureau 4, No. 4663;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -58,9 +28,9 @@ In dit besluit wordt verstaan onder:
 
 - a. indien loon wordt genoten het hoogste van de uit de toepassing van de volgende onderdelen voortvloeiende bedragen:
 
-- 1°. bij loon uit tegenwoordige dienstbetrekking: 12% van dat loon, maar niet minder dan € 119 per jaar en niet meer dan € 1605 per jaar;
+   - 1°. bij loon uit tegenwoordige dienstbetrekking: 12% van dat loon, maar niet minder dan € 119 per jaar en niet meer dan € 1605 per jaar;
 
-- 2°. bij loon uit vroegere dienstbetrekking: € 487 per jaar, en
+   - 2°. bij loon uit vroegere dienstbetrekking: € 487 per jaar, en
 
 - b. het bedrag van het over het jaar 2000 toegepaste reiskostenforfait tot een maximum van € 939 per jaar,
 
@@ -122,7 +92,7 @@ Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -134,7 +104,7 @@ Voor de toepassing van dit besluit worden pensioenen en wachtgelden, welke krach
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -146,6 +116,4 @@ Met de contrôle op de in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 13
 
-Vervallen
-
-De Ministers van Binnenlandse Zaken, van Financiën en van Sociale Zaken zijn ieder voor zoveel hem aangaat belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State, aan de Algemene Rekenkamer en aan de Buitengewone Pensioenraad.
+*Vervallen*

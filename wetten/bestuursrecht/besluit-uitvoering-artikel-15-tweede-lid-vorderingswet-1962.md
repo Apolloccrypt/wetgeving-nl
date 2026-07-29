@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 18 mei 1966, tot uitvoering van artikel 15, tweede lid, van de Vorderingswet 1962"
+citeertitel: "Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962"
 identifier: "BWBR0002528"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002528"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1154073"
-version_id: "1708532"
-internal_id: "C1708531"
-label_id: "1118834"
-dtd_version: "2.0"
-original_entry_into_force: "1966-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002528/2024-01-01/0"
-intitule_bron: "Stb.1966-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1966-05-18"
-intitule_status: "goed"
-original_publication: "Stb.1966-230"
-original_signed_date: "1966-05-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1966-06-23"
-jci_1_3: "jci1.3:c:BWBR0002528&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0002528&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962"
-signed_date: "1966-05-18"
-entry_into_force: "1966-06-23"
+publicatiedatum: 1966-06-23
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0002528"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 18 mei 1966, tot uitvoering van artikel 15, tweede lid, van de Vorderingswet 1962
-
-Op de voordracht van de Staatssecretaris van Economische Zaken en Onze Ministers van Justitie en van Financiën van 25 mei 1964, no. 665/540 W.J.A.;
-
-Overwegende, dat aanvullende regelen moeten worden gesteld omtrent de vaststelling van de schadeloosstelling in geval van vordering krachtens de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) van het eigendomsrecht op een roerende zaak, zomede regelen omtrent de vaststelling van de schadeloosstelling in geval van vordering krachtens die wet van een recht tot gebruik van een zaak;
-
-Gelet op [artikel 15, tweede lid, van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=15);
-
-De Raad van State gehoord (advies van 1 juli 1964, no. 96);
-
-Gezien het nader rapport van voornoemde Staatssecretaris en Onze voornoemde Ministers van 12 mei 1966, no. 666/289 W.J.A.;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -50,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 2. In geval van vordering van een recht tot gebruik van een zaak bedraagt het totaal der uit te keren schadeloosstellingen: de waarde van het gevorderde recht, zonodig vermeerderd met een vergoeding van bijkomende schade als in het eerste lid bedoeld.
 
-3. Ten aanzien van de verdeling van het in het tweede lid bedoelde totaalbedrag over de rechthebbenden op schadeloosstelling is [paragraaf 15.3.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=15.3.1), voor zover mogelijk, van overeenkomstige toepassing.
+3. Ten aanzien van de verdeling van het in het tweede lid bedoelde totaalbedrag over de rechthebbenden op schadeloosstelling is [paragraaf 15.3.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=15.3.1), voor zover mogelijk, van overeenkomstige toepassing.
 
 ##### Artikel 2
 
 1. Bij het vaststellen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=1&z=2024-01-01&g=2024-01-01) bedoelde waarde van de zaak of van het gevorderde recht alsmede bij het vaststellen van het bedrag der in dat artikel bedoelde bijkomende schade wordt rekening gehouden met prijsvoorschriften, die van overheidswege zijn gegeven betreffende zaken waarop de vordering betrekking heeft.
 
-2. Bij zodanige vaststelling wordt geen rekening gehouden met andere voordelen dan prijsstijging, die het gevolg zijn geweest van buitengewone omstandigheden, welke tot toepassing van [artikel 3 van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3) (**Stb.** 587) aanleiding hebben gegeven, in het algemeen of van vordering van soortgelijke zaken als waarop de die schade veroorzakende vordering betrekking heeft, in het bijzonder.
+2. Bij zodanige vaststelling wordt geen rekening gehouden met andere voordelen dan prijsstijging, die het gevolg zijn geweest van buitengewone omstandigheden, welke tot toepassing van [artikel 3 van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3) (*Stb.* 587) aanleiding hebben gegeven, in het algemeen of van vordering van soortgelijke zaken als waarop de die schade veroorzakende vordering betrekking heeft, in het bijzonder.
 
 ##### Artikel 3
 
@@ -68,7 +38,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. In geval van vordering van een recht tot gebruik van een onroerende zaak wordt de waarde van het gevorderde recht vastgesteld op de huurwaarde van de zaak naar de maatstaven van de artikelen 7 en 8 van de Wet op de personele belasting 1950 (**Stb.** 598) of de pachtwaarde van de zaak naar de maatstaven van de ter uitvoering van [artikel 327 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=327) gestelde regelen.
+1. In geval van vordering van een recht tot gebruik van een onroerende zaak wordt de waarde van het gevorderde recht vastgesteld op de huurwaarde van de zaak naar de maatstaven van de artikelen 7 en 8 van de Wet op de personele belasting 1950 (*Stb.* 598) of de pachtwaarde van de zaak naar de maatstaven van de ter uitvoering van [artikel 327 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=327) gestelde regelen.
 
 2. In een geval, als in het eerste lid bedoeld, wordt een schadeloosstelling verminderd met de kosten van het onderhoud van de zaak, hetwelk ingevolge het Burgerlijk Wetboek ten laste komt van degene, die op die schadeloosstelling recht heeft, indien en voor zover bij gebreke van zodanig onderhoud door hem dit plaatsheeft door degene, te wiens behoeve de vordering is geschied.
 
@@ -84,9 +54,9 @@ In geval van vordering van een recht tot gebruik van een roerende zaak wordt de 
 
 - c. in andere gevallen: op een bedrag, bestaande uit
 
-- 1. een bedrag, over de duur van het recht tot gebruik berekend naar 6% 's jaars van de waarde der zaak, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=3&z=2024-01-01&g=2024-01-01), en
+   - 1. een bedrag, over de duur van het recht tot gebruik berekend naar 6% 's jaars van de waarde der zaak, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=3&z=2024-01-01&g=2024-01-01), en
 
-- 2. een vergoeding voor de waardevermindering van de zaak, die bij normaal gebruik tijdens die duur ontstaat.
+   - 2. een vergoeding voor de waardevermindering van de zaak, die bij normaal gebruik tijdens die duur ontstaat.
 
 ##### Artikel 6
 
@@ -126,6 +96,4 @@ Indien een rechthebbende op schadeloosstelling een mogelijkheid, die hij redelij
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad,** waarin het wordt geplaatst.
-
-Onze Ministers van Economische Zaken, van Justitie en van Financiën zijn belast met de uitvoering van dit besluit, hetwelk met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad,* waarin het wordt geplaatst.

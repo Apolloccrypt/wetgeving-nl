@@ -1,43 +1,18 @@
 ---
 title: "Wet van 2 februari 1967, houdende overgangsregeling arbeidsongeschiktheidsverzekering"
+citeertitel: "Wet overgangsregeling arbeidsongeschiktheidsverzekering"
 identifier: "BWBR0002551"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002551"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "48833"
-version_id: "61732"
-internal_id: "C61731"
-label_id: "49564"
-dtd_version: "2.0"
-original_entry_into_force: "1967-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002551/2015-01-01/0"
-intitule_bron: "Stb.1967-102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-02-02"
-intitule_status: "goed"
-original_publication: "Stb.1967-102"
-original_signed_date: "1967-02-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "8636"
-entry_into_force_date: "1967-07-01"
-jci_1_3: "jci1.3:c:BWBR0002551&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0002551&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet overgangsregeling arbeidsongeschiktheidsverzekering"
-signed_date: "1967-02-02"
-entry_into_force: "1967-07-01"
+publicatiedatum: 1967-07-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0002551"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 2 februari 1967, houdende overgangsregeling arbeidsongeschiktheidsverzekering
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen vast te stellen inzake overgangsrecht met betrekking tot de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -137,7 +112,7 @@ wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, indien en voor zove
 
 2. Behoudens in het geval dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=4&artikel=28&z=2015-01-01&g=2015-01-01) van toepassing is, wordt, wanneer in de gevallen, bedoeld in het vorige lid, de toegenomen arbeidsongeschiktheid onafgebroken acht weken heeft geduurd, bij de vaststelling van de mate van arbeidsongeschiktheid met de toegenomen arbeidsongeschiktheid rekening gehouden met ingang van de dag, met ingang waarvan de arbeidsongeschiktheidsuitkering wordt toegekend.
 
-#### § 2. Arbeidsongeschiktheidsuitkering in aansluiting op ziekengeld krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmede overeenkomende uitkering
+#### § 2. Arbeidsongeschiktheidsuitkering in aansluiting op ziekengeld krachtens de Ziektewet of een daarmede overeenkomende uitkering
 
 ##### Artikel 12
 
@@ -145,7 +120,7 @@ wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, indien en voor zove
 
 - 1°. eindigt;
 
-- 2°. zou zijn geëindigd, indien hij niet op grond van het bepaalde in [artikel 1, onder c,](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=I&artikel=1&z=2015-01-01&g=2015-01-01) in verbinding met artikel 1a, van de Ziektewet, in de [artikelen 1, onder d,](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1)[20](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=21) van die wet of de artikelen 1a of 1b van het Koninklijk besluit van 28 januari 1931 (**Stb.** 24) - zoals die bepalingen luidden op de dag, voorafgaande aan die, waarop [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt - van de verzekering ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) zou zijn uitgezonderd;
+- 2°. zou zijn geëindigd, indien hij niet op grond van het bepaalde in [artikel 1, onder c,](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=I&artikel=1&z=2015-01-01&g=2015-01-01) in verbinding met artikel 1a, van de Ziektewet, in de [artikelen 1, onder d,](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1)[20](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=21) van die wet of de artikelen 1a of 1b van het Koninklijk besluit van 28 januari 1931 (*Stb.* 24) - zoals die bepalingen luidden op de dag, voorafgaande aan die, waarop [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt - van de verzekering ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) zou zijn uitgezonderd;
 
 heeft, indien hij op de dag, volgende op die, waarop dat ziekengeld eindigt, onderscheidenlijk zou zijn geëindigd, ten minste 15% arbeidsongeschikt is, recht op toekenning van arbeidsongeschiktheidsuitkering.
 
@@ -167,7 +142,7 @@ Degene, die op grond van het bepaalde in [artikel 10, eerste lid, van de Liquida
 
 ##### Artikel 15
 
-Degene, die overeenkomstig het bepaalde in [artikel 7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7) recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a,** van de Zeeongevallenwet 1919 heeft, tenzij het recht op die uitkering overeenkomstig het bepaalde in [artikel 17 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=17) wordt afgekocht, recht op toekenning van arbeidsongeschiktheidsuitkering.
+Degene, die overeenkomstig het bepaalde in [artikel 7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7) recht heeft op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a,* van de Zeeongevallenwet 1919 heeft, tenzij het recht op die uitkering overeenkomstig het bepaalde in [artikel 17 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=17) wordt afgekocht, recht op toekenning van arbeidsongeschiktheidsuitkering.
 
 ##### Artikel 16
 
@@ -177,7 +152,7 @@ Degene, die overeenkomstig het bepaalde in [artikel 7 van de Liquidatiewet ongev
 
 ##### Artikel 17
 
-1. Het in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01), eerstbedoelde dagloon wordt, indien het ongeval ter zake waarvan recht op uitkering werd ontleend aan artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a,** van de Zeeongevallenwet 1919, onderscheidenlijk aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=6) of [7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7), plaatsvond in een van de hierna genoemde tijdvakken, verhoogd tot het percentage van dat dagloon, hetwelk achter dat tijdvak is vermeld:
+1. Het in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01), eerstbedoelde dagloon wordt, indien het ongeval ter zake waarvan recht op uitkering werd ontleend aan artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a,* van de Zeeongevallenwet 1919, onderscheidenlijk aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=6) of [7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7), plaatsvond in een van de hierna genoemde tijdvakken, verhoogd tot het percentage van dat dagloon, hetwelk achter dat tijdvak is vermeld:
 
 | vóór 1 januari 1932 | 603 |
 | --- | --- |
@@ -227,7 +202,7 @@ Degene, die overeenkomstig het bepaalde in [artikel 7 van de Liquidatiewet ongev
 | 1 januari 1967 tot 1 april 1967 | 104 |
 | 1 april 1967 tot 1 juli 1967 | 102 |
 
-2. In de gevallen, waarin het dagloon, waarnaar de uitkering, welke werd ontleend aan artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a,** van de Zeeongevallenwet 1919, onderscheidenlijk aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=6) of [7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7), was berekend, werd vastgesteld met toepassing van het bepaalde bij artikel 7, lid 1**a,** van de Ongevallenwet 1921, artikel 7, lid 1**a,** van de Land- en Tuinbouwongevallenwet 1922, onderscheidenlijk artikel 2, zevende lid, tweede alinea, van de Zeeongevallenwet 1919, wordt voor de toepassing van het vorige lid het ongeval geacht te hebben plaatsgevonden op de dag, welke krachtens vorengenoemde bepalingen in aanmerking werd genomen als de dag, waarop de gevolgen van het ongeval zich opnieuw hebben geopenbaard.
+2. In de gevallen, waarin het dagloon, waarnaar de uitkering, welke werd ontleend aan artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a,* van de Zeeongevallenwet 1919, onderscheidenlijk aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=6) of [7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7), was berekend, werd vastgesteld met toepassing van het bepaalde bij artikel 7, lid 1*a,* van de Ongevallenwet 1921, artikel 7, lid 1*a,* van de Land- en Tuinbouwongevallenwet 1922, onderscheidenlijk artikel 2, zevende lid, tweede alinea, van de Zeeongevallenwet 1919, wordt voor de toepassing van het vorige lid het ongeval geacht te hebben plaatsgevonden op de dag, welke krachtens vorengenoemde bepalingen in aanmerking werd genomen als de dag, waarop de gevolgen van het ongeval zich opnieuw hebben geopenbaard.
 
 3. Voor zoveel nodig in afwijking van het bepaalde in de vorige leden wordt het in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01), eerstbedoelde dagloon ten hoogste gesteld op het in het eerste lid van [artikel 9 der Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) bedoelde maximum dagloon, eventueel verhoogd of verlaagd krachtens [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) van die wet.
 
@@ -247,11 +222,11 @@ Indien het in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1
 
 - b. degene, die het recht op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921 of artikel 37 van de Land- en Tuinbouwongevallenwet 1922, onderscheidenlijk in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=6) of [7 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=7), ontleent aan een vrijwillige verzekering ingevolge de Ongevallenwet 1921 of de Land- en Tuinbouwongevallenwet 1922.
 
-2. Met inachtneming zoveel mogelijk van het beginsel der wederkerigheid kan bij algemene maatregel van bestuur worden bepaald, dat het in het eerste lid, onder **a,** bepaalde geen toepassing vindt ten aanzien van bij die maatregel aan te wijzen personen, die op de dag, waarop [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt, op het grondgebied van een andere Mogendheid wonen.
+2. Met inachtneming zoveel mogelijk van het beginsel der wederkerigheid kan bij algemene maatregel van bestuur worden bepaald, dat het in het eerste lid, onder *a,* bepaalde geen toepassing vindt ten aanzien van bij die maatregel aan te wijzen personen, die op de dag, waarop [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt, op het grondgebied van een andere Mogendheid wonen.
 
 3. Indien een persoon, bedoeld in het eerste lid, onder a, op de dag, voorafgaande aan die, waarop [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) in werking treedt, ingevolge het bepaalde bij of krachtens de Wet compensatie premie [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ongevallenrentetrekkers aanspraak heeft op een bijslag op een uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder a, van de Zeeongevallenwet 1919, wordt het in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01), eerstbedoelde dagloon verhoogd met het voor die bijslag geldende percentage.
 
-#### § 4. Bepalingen aan meer dan één van de in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=1&z=2015-01-01&g=2015-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=2&z=2015-01-01&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=3&z=2015-01-01&g=2015-01-01) bedoelde arbeidsongeschiktheidsuitkeringen gemeen, alsmede garantiebepalingen
+#### § 4. Bepalingen aan meer dan één van de in de paragrafen 1, 2 en 3 bedoelde arbeidsongeschiktheidsuitkeringen gemeen, alsmede garantiebepalingen
 
 ##### Artikel 21
 
@@ -281,7 +256,7 @@ Indien het bepaalde in het eerste lid van het vorige artikel geen toepassing vin
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
@@ -319,7 +294,7 @@ Aan de arbeidsongeschiktheidsuitkering van degene, ten aanzien van wie [artikel 
 
 ##### Artikel 33
 
-Indien [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=4&artikel=32&z=2015-01-01&g=2015-01-01) van toepassing is ten aanzien van een persoon, die recht had op meer dan één uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a,** van de Zeeongevallenwet 1919 op de dag, voorafgaande aan die, waarop genoemde wetten werden ingetrokken, geldt de garantie, vervat in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=4&artikel=32&z=2015-01-01&g=2015-01-01), zolang geen van die uitkeringen in verband met verandering in de toestand als in dat artikel bedoeld, zou zijn verlaagd, indien genoemde wetten niet zouden zijn ingetrokken, tot de som van die uitkeringen en de in dat artikel bedoelde bijslagen.
+Indien [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=4&artikel=32&z=2015-01-01&g=2015-01-01) van toepassing is ten aanzien van een persoon, die recht had op meer dan één uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a,* van de Zeeongevallenwet 1919 op de dag, voorafgaande aan die, waarop genoemde wetten werden ingetrokken, geldt de garantie, vervat in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II&paragraaf=4&artikel=32&z=2015-01-01&g=2015-01-01), zolang geen van die uitkeringen in verband met verandering in de toestand als in dat artikel bedoeld, zou zijn verlaagd, indien genoemde wetten niet zouden zijn ingetrokken, tot de som van die uitkeringen en de in dat artikel bedoelde bijslagen.
 
 ##### Artikel 34
 
@@ -399,7 +374,7 @@ hetzij vóór die dag genees- en heelkundige behandeling of vergoeding daarvoor 
 
 hetzij binnen een jaar, aanvangende op meergenoemde dag, recht op zodanige behandeling of vergoeding daarvoor zou hebben gehad, indien laatstgenoemde wetten niet zouden zijn ingetrokken,
 
-een en ander tenzij de uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, welke hem ter zake van eerdergenoemd ongeval is toegekend, overeenkomstig het bepaalde in [artikel 17 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=17) wordt afgekocht dan wel overeenkomstig het bepaalde in [artikel 18 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=18) is afgekocht, op de voet van het bepaalde in § 3 van hoofdstuk II van de Wet voor zodanige behandeling of vergoeding daarvoor in aanmerking, indien hij daarop, zo de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 niet zouden zijn ingetrokken, recht zou hebben gehad.
+een en ander tenzij de uitkering als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, welke hem ter zake van eerdergenoemd ongeval is toegekend, overeenkomstig het bepaalde in [artikel 17 van de Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=17) wordt afgekocht dan wel overeenkomstig het bepaalde in [artikel 18 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002553&artikel=18) is afgekocht, op de voet van het bepaalde in § 3 van hoofdstuk II van de Wet voor zodanige behandeling of vergoeding daarvoor in aanmerking, indien hij daarop, zo de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 niet zouden zijn ingetrokken, recht zou hebben gehad.
 
 ##### Artikel 45
 
@@ -413,9 +388,9 @@ Het Uitvoeringsinstituut werknemersverzekeringen brengt degene, wiens opleiding 
 
 - a. degene, wiens verzekering ingevolge de Invaliditeitswet is aangevangen vóór of op 1 januari 1962, mits hij op de dag, voorafgaande aan het in werking treden van [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), krachtens de Invaliditeitswet in rekening kan doen brengen:
 
-- 1°. een aantal weekpremies, dat ten minste tweederde bedraagt van het getal der weken, verstreken tussen de aanvang van zijn verzekering en 1 januari 1965 of
+   - 1°. een aantal weekpremies, dat ten minste tweederde bedraagt van het getal der weken, verstreken tussen de aanvang van zijn verzekering en 1 januari 1965 of
 
-- 2°. ten minste 150 weekpremies voor het tijdvak, gelegen tussen 1 januari 1962 en 1 januari 1965;
+   - 2°. ten minste 150 weekpremies voor het tijdvak, gelegen tussen 1 januari 1962 en 1 januari 1965;
 
 - b. degene, die op de dag, voorafgaande aan het in werking treden van [artikel 19 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), verzekerd is ingevolge de Invaliditeitswet en wiens verplichte verzekering ingevolge de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) op of na 1 januari 1965, doch vóór het in werking treden van genoemd artikel zou zijn geëindigd, indien de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) toen reeds in werking was geweest, mits hij gedurende de drie jaren onmiddellijk voorafgaande aan de dag, waarop de verplichte verzekering zou zijn geëindigd, onafgebroken verzekerd of in verband met het bepaalde in [artikel 6, eerste lid, onder a of b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6) niet verzekerd zou zijn geweest ingevolge de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), indien de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) gedurende die termijn van drie jaren reeds in werking was geweest;
 
@@ -485,7 +460,7 @@ Indien [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&hoofdstuk=II
 
 - b. indien het betreft aansluiting op een uitkering, als bedoeld in artikel 37 van de Land- en Tuinbouwongevallenwet 1922,
 
-- c. indien het betreft aansluiting op een uitkering, als bedoeld in artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919.
+- c. indien het betreft aansluiting op een uitkering, als bedoeld in artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919.
 
 ##### Artikel 54
 
@@ -501,7 +476,7 @@ Indien degene, die recht op toekenning van arbeidsongeschiktheidsuitkering ontle
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
@@ -521,7 +496,7 @@ Vervallen
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
@@ -557,7 +532,7 @@ Degene, die ter zake van vóór de dag, waarop [artikel 19 van de Wet](https://w
 
 ##### Artikel 64
 
-Indien over een tijdvak, waarover een uitkering wordt genoten als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder **a**, van de Zeeongevallenwet 1919, naderhand een arbeidsongeschiktheidsuitkering aan deze wet wordt ontleend, kan hetgeen als gevolg van het bepaalde bij of krachtens de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553) over dat tijdvak aan eerstbedoelde uitkering ten onrechte is uitbetaald, geheel of gedeeltelijk worden teruggevorderd dan wel in mindering worden gebracht op de uit te betalen arbeidsongeschiktheidsuitkering.
+Indien over een tijdvak, waarover een uitkering wordt genoten als bedoeld in artikel 16 van de Ongevallenwet 1921, artikel 37 van de Land- en Tuinbouwongevallenwet 1922 of artikel 2, eerste lid, onder *a*, van de Zeeongevallenwet 1919, naderhand een arbeidsongeschiktheidsuitkering aan deze wet wordt ontleend, kan hetgeen als gevolg van het bepaalde bij of krachtens de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553) over dat tijdvak aan eerstbedoelde uitkering ten onrechte is uitbetaald, geheel of gedeeltelijk worden teruggevorderd dan wel in mindering worden gebracht op de uit te betalen arbeidsongeschiktheidsuitkering.
 
 ##### Artikel 65
 
@@ -575,11 +550,11 @@ De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is n
 
 ##### Artikel 68
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 69
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 70
 
@@ -589,10 +564,8 @@ Deze wet kan worden aangehaald onder de titel "Wet overgangsregeling arbeidsonge
 
 1. Waar in deze wet nummeringen van artikelen van de Liquidatiewet invaliditeitswetten worden aangehaald, worden deze door Onze Minister in overeenstemming gebracht in de nummering van die artikelen, zoals deze is komen te luiden na toepassing van artikel 65 van de Liquidatiewet invaliditeitswetten.
 
-2. De tekst van deze wet, zoals die luidt na toepassing van het vorige lid, wordt in het **Staatsblad** geplaatst.
+2. De tekst van deze wet, zoals die luidt na toepassing van het vorige lid, wordt in het *Staatsblad* geplaatst.
 
 ##### Artikel 72
 
 De artikelen van deze wet treden in werking met ingang van een door Ons te bepalen tijdstip, dat voor de onderscheidene artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

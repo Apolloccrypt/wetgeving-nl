@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 20 juli 1953, tot vaststelling van regelen ter uitvoering van de Inkwartieringswet"
+citeertitel: "Inkwartieringsbesluit"
 identifier: "BWBR0002113"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002113"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "356393"
-version_id: "527252"
-internal_id: "C527251"
-label_id: "350244"
-dtd_version: "2.0"
-original_entry_into_force: "1953-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002113/2002-01-01/0"
-intitule_bron: "Stb.1953-342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-07-20"
-intitule_status: "goed"
-original_publication: "Stb.1953-342"
-original_signed_date: "1953-07-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1953-08-01"
-jci_1_3: "jci1.3:c:BWBR0002113&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0002113&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Inkwartieringsbesluit"
-signed_date: "1953-07-20"
-entry_into_force: "1953-08-01"
+publicatiedatum: 1953-08-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0002113"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 20 juli 1953, tot vaststelling van regelen ter uitvoering van de Inkwartieringswet
-
-Op de voordracht van Onze Minister van Oorlog en van Marine van 30 Juni 1953, No. 3963;
-
-Gelet op de [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111);
-
-De Raad van State gehoord (advies van 7 Juli 1953, La. No. 17);
-
-Gezien het nader rapport van Onze voornoemde Minister van 17 Juli 1953, Nr. 380.394 BIJ/Nr. Minmar 329781/249071;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -90,7 +62,7 @@ Zo min mogelijk worden verstrekkingen gevorderd, waardoor de uitoefening van de 
 
 ### Hoofdstuk II. Inkwartiering en onderhoud
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 7
 
@@ -184,7 +156,7 @@ Bacillaire Dysenterie
 
 Amoeben Dysenterie.
 
-### Afdeling 2. Individuele inkwartiering
+#### Afdeling 2. Individuele inkwartiering
 
 ##### Artikel 14
 
@@ -212,7 +184,7 @@ Voor opper- of vlagofficieren, alsmede voor door Onze Minister aangewezen hoofdo
 
 2. Wanneer de kwartiergever verlangt dat de ingekwartierde militair aan de gewone maaltijden van het gezin deelneemt, wordt daaraan voldaan voorzover de militaire dienst zulks toelaat.
 
-### Afdeling 3. Collectieve Inkwartiering
+#### Afdeling 3. Collectieve Inkwartiering
 
 #### § 1. Algemene bepalingen
 
@@ -260,7 +232,7 @@ Voor opper- of vlagofficieren, alsmede voor door Onze Minister aangewezen hoofdo
 
 - c. lokalen, geschikt tot het betrekken van wachten, voorzien van een tafel en stoelen.
 
-3. De in het tweede lid onder **a** bedoelde gebouwen of gedeelten van gebouwen alsmede de onder **c** bedoelde lokalititen dienen zoveel mogelijk voorzien te zijn van een telefoonaansluiting.
+3. De in het tweede lid onder *a* bedoelde gebouwen of gedeelten van gebouwen alsmede de onder *c* bedoelde lokalititen dienen zoveel mogelijk voorzien te zijn van een telefoonaansluiting.
 
 ##### Artikel 21
 
@@ -312,7 +284,7 @@ In geval van buitengewone omstandigheden, welke gevaar opleveren voor de uit- of
 
 De commandant kan boven de verstrekkingen omschreven in dit hoofdstuk, doch binnen de grenzen bij [artikel 3 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=3) bepaald, nog meer verstrekkingen vorderen of aanvragen, welke hij nodig oordeelt ter voorziening in de behoeften aan inkwartiering en onderhoud.
 
-### Afdeling 4. Voeding
+#### Afdeling 4. Voeding
 
 ##### Artikel 28
 
@@ -326,39 +298,39 @@ Voor de voeding van militairen dienen te worden verschaft:
 
 ##### Artikel 29
 
-1. De onder **a** van het vorige artikel bedoelde verstrekking houdt in dat per dag verschaft worden drie maaltijden, waaronder tenminste een warme maaltijd.
+1. De onder *a* van het vorige artikel bedoelde verstrekking houdt in dat per dag verschaft worden drie maaltijden, waaronder tenminste een warme maaltijd.
 
 2. Indien de in het vorige lid bedoelde verstrekking niet bij minnelijke schikking kan worden geregeld, kan zij zich per militair en per dag ten hoogste uitstrekken tot:
 
-- 500. gram brood
+- 500 gram brood
 
-- 40. gram vleeswaren
+- 40 gram vleeswaren
 
-- 40. gram kaas
+- 40 gram kaas
 
-- 40. gram zoet broodbeleg
+- 40 gram zoet broodbeleg
 
-- 75. gram margarine, vet of spijsolie
+- 75 gram margarine, vet of spijsolie
 
-- 800. gram aardappelen of 150 gram peulvruchten
+- 800 gram aardappelen of 150 gram peulvruchten
 
-- 300. gram groente, zo mogelijk vers
+- 300 gram groente, zo mogelijk vers
 
-- 100. gram vlees zonder been, of mager spek, of twee eieren
+- 100 gram vlees zonder been, of mager spek, of twee eieren
 
-- 30. gram grutterswaren
+- 30 gram grutterswaren
 
-- 9. gram koffie
+- 9 gram koffie
 
-- 2. gram thee
+- 2 gram thee
 
-- 500. gram melk
+- 500 gram melk
 
-- 50. gram suiker
+- 50 gram suiker
 
-- 15. gram zout.
+- 15 gram zout.
 
-3. De verschaffing van de onder **b** van het vorige artikel bedoelde verstrekking kan zich per militair en per dag ten hoogste uitstrekken tot hoeveelheden, welke gelijk, dan wel gelijkwaardig zijn aan de in het vorige lid genoemde.
+3. De verschaffing van de onder *b* van het vorige artikel bedoelde verstrekking kan zich per militair en per dag ten hoogste uitstrekken tot hoeveelheden, welke gelijk, dan wel gelijkwaardig zijn aan de in het vorige lid genoemde.
 
 ##### Artikel 30
 
@@ -368,23 +340,23 @@ De [onder c van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoof
 
 Zonodig worden terreinen tot het plaatsen van veldkeukens beschikbaar gesteld, alsmede gereedschappen en materialen voor het inrichten van zodanige keukens.
 
-### Afdeling 5. Het register
+#### Afdeling 5. Het register
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. De voorbereiding van de vordering van gebouwen en terreinen
 
@@ -394,7 +366,7 @@ Degene, die in opdracht van Onze Minister de maatregelen, bedoeld [onder b van a
 
 ### Hoofdstuk IV. De algemene vordering in eigendom van motorrijtuigen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 37
 
@@ -442,13 +414,13 @@ De burgemeester houdt aantekening van alle gegevens en opgaven, welke hij ingevo
 
 Degene, op wie krachtens de bepalingen van dit hoofdstuk de verplichting rust tot bekendmaking, zal ook met andere dan de in die bepalingen genoemde middelen, welke hem ten dienste staan, de bekendmaking bevorderen.
 
-### Afdeling 2. De registratie
+#### Afdeling 2. De registratie
 
 ##### Artikel 45
 
 1. Indien de gegevens, welke Onze Minister nodig heeft voor de registratie van motorrijtuigen, niet verschaft kunnen worden door Onze Minister van Verkeer en Waterstaat, brengt Onze eerstgenoemde Minister ter algemene kennis dat de inwoners de nodige gegevens moeten verschaffen.
 
-2. De algemene kennisgeving, bedoeld in het eerste lid, geschiedt door publicatie in de **Staatscourant**, alsmede door aanplakking in de gemeente door de zorg van de burgemeester.
+2. De algemene kennisgeving, bedoeld in het eerste lid, geschiedt door publicatie in de *Staatscourant*, alsmede door aanplakking in de gemeente door de zorg van de burgemeester.
 
 ##### Artikel 46
 
@@ -466,7 +438,7 @@ De in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofd
 
 2. De burgemeester zendt een exemplaar van de lijst of de kaarten toe aan de vorderingscommissaris-motorrijtuigen en behoudt een exemplaar voor zijn administratie.
 
-### Afdeling 3. De keuring
+#### Afdeling 3. De keuring
 
 ##### Artikel 49
 
@@ -496,7 +468,7 @@ De vorderingscommissaris-motorrijtuigen bepaalt welke geregistreerde motorrijtui
 
 1. De taxateur maakt met inachtneming van de hem verstrekte instructie, bedoeld in het [tweede lid van artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=IV&afdeling=1&artikel=42&z=2002-01-01&g=2002-01-01), een rapport op van de toestand waarin het motorrijtuig zich bevindt en stelt de waarde daarvan vast op de wijze als in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=V&afdeling=3&artikel=97&z=2002-01-01&g=2002-01-01) is bepaald.
 
-2. Het model van het rapport wordt door Onze Minister vastgesteld en in de **Staatscourant** bekendgemaakt.
+2. Het model van het rapport wordt door Onze Minister vastgesteld en in de *Staatscourant* bekendgemaakt.
 
 3. Het rapport wordt door de taxateur, die de waardevaststelling deed, ondertekend en door de keuringscommissaris voor gezien mede ondertekend.
 
@@ -528,7 +500,7 @@ De keuring geschiedt zoveel mogelijk per gemeente.
 
 De burgemeester van de gemeente, waar de keuring plaats heeft, stelt na overleg met de keuringscommissaris de nodige hulpmiddelen als tafels, stoelen en verlichtingsmiddelen ter beschikking ten behoeve van de keuring op de keuringsplaats.
 
-### Afdeling 4. De aanwijzing
+#### Afdeling 4. De aanwijzing
 
 ##### Artikel 60
 
@@ -552,11 +524,11 @@ De burgemeester van de gemeente, waar de keuring plaats heeft, stelt na overleg 
 
 ##### Artikel 62
 
-1. Elke houder van een motorrijtuig, dat krachtens het voorgaande artikel is aangewezen, ontvangt van de burgemeester een lastgeving, inhoudende de verplichting het motorrijtuig in voorkomend geval ter vordering aan te bieden overeenkomstig de bepalingen van de achtste afdeling van dit hoofdstuk. Het model van de lastgeving wordt door Onze Minister vastgesteld en in de **Staatscourant** bekend gemaakt.
+1. Elke houder van een motorrijtuig, dat krachtens het voorgaande artikel is aangewezen, ontvangt van de burgemeester een lastgeving, inhoudende de verplichting het motorrijtuig in voorkomend geval ter vordering aan te bieden overeenkomstig de bepalingen van de achtste afdeling van dit hoofdstuk. Het model van de lastgeving wordt door Onze Minister vastgesteld en in de *Staatscourant* bekend gemaakt.
 
 2. De lastgeving kan vergezeld zijn van nadere instructies en bescheiden, welke de vorderingscommissaris-motorrijtuigen en de burgemeester nodig oordelen.
 
-### Afdeling 5. Vrijstelling
+#### Afdeling 5. Vrijstelling
 
 ##### Artikel 63
 
@@ -572,7 +544,7 @@ De burgemeester van de gemeente, waar de keuring plaats heeft, stelt na overleg 
 
 2. Zo de beslissing inhoudt een vrijstelling van de algemene vordering, dient de houder daarop onverwijld de ontvangen lastgeving in te leveren bij de burgemeester. Zolang dit laatste niet heeft plaats gehad blijft de lastgeving van kracht.
 
-### Afdeling 6. Mededelingen
+#### Afdeling 6. Mededelingen
 
 ##### Artikel 65
 
@@ -590,11 +562,11 @@ De burgemeester van de gemeente, waar de keuring plaats heeft, stelt na overleg 
 
 - f. wanneer aan het motorrijtuig zodanige veranderingen worden aangebracht, dat de gegevens, welke op de lastgeving voorkomen, niet meer daarmede in overeenstemming zijn.
 
-2. Bij de mededeling, bedoeld onder **a** van het eerste lid, dienen tevens de naam, de woonplaats en het adres van de nieuwe houder of eigenaar te worden vermeld.
+2. Bij de mededeling, bedoeld onder *a* van het eerste lid, dienen tevens de naam, de woonplaats en het adres van de nieuwe houder of eigenaar te worden vermeld.
 
 3. De burgemeester geeft van de in het eerste lid bedoelde wijzigingen onverwijld kennis aan de vorderingscommissaris-motorrijtuigen.
 
-### Afdeling 7. Treffen van voorzieningen
+#### Afdeling 7. Treffen van voorzieningen
 
 ##### Artikel 66
 
@@ -620,7 +592,7 @@ De keuringscommissaris stelt de burgemeester in kennis van de voorzieningen, wel
 
 3. De burgemeester geeft hiervan bericht aan de keuringscommissaris.
 
-### Afdeling 8. De Algemene Vordering
+#### Afdeling 8. De Algemene Vordering
 
 ##### Artikel 69
 
@@ -682,7 +654,7 @@ De vorderingscommissaris-motorrijtuigen stelt de burgemeester in kennis van de m
 
 6. Een duplicaat van de bon wordt door de commandant van het onderdeel, ten behoeve waarvan het motorrijtuig is gevorderd, aan de colonnecommandant ter hand gesteld. Deze levert dit duplicaat in bij de burgemeester.
 
-7. Het model van de bon wordt door Onze Minister vastgesteld en in de **Staatscourant** bekend gemaakt.
+7. Het model van de bon wordt door Onze Minister vastgesteld en in de *Staatscourant* bekend gemaakt.
 
 ##### Artikel 77
 
@@ -718,7 +690,7 @@ Indien te voorzien is, dat geen openbare middelen van vervoer aanwezig zullen zi
 
 2. Te dien einde stelt hij zich in verbinding met de burgemeester ter plaatse, die zoveel mogelijk zijn bemiddeling verleent.
 
-### Afdeling 9. Proefvordering
+#### Afdeling 9. Proefvordering
 
 ##### Artikel 82
 
@@ -732,7 +704,7 @@ Indien te voorzien is, dat geen openbare middelen van vervoer aanwezig zullen zi
 
 5. De vorderingscommissaris-motorrijtuigen draagt zorg, dat de schadeloosstelling zo spoedig mogelijk aan de rechthebbende wordt uitbetaald.
 
-### Afdeling 10. De algemene vordering in eigendom van motorrijtuigen waaraan geen voorbereiding is voorafgegaan
+#### Afdeling 10. De algemene vordering in eigendom van motorrijtuigen waaraan geen voorbereiding is voorafgegaan
 
 ##### Artikel 82a
 
@@ -746,7 +718,7 @@ Indien te voorzien is, dat geen openbare middelen van vervoer aanwezig zullen zi
 
 ### Hoofdstuk IVA. De algemene vordering in eigendom van roerende zaken
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 82b
 
@@ -762,13 +734,13 @@ Onder roerende zaken in de zin van dit hoofdstuk zijn niet begrepen motorrijtuig
 
 1. Onze Minister wijst een vorderingscommissaris aan, die met de leiding van de voorbereiding en de uitvoering van de algemene vordering in de zin van dit hoofdstuk is belast.
 
-2. Een aanwijzing, als bedoeld in het eerste lid, wordt in de **Staatscourant** bekend gemaakt.
+2. Een aanwijzing, als bedoeld in het eerste lid, wordt in de *Staatscourant* bekend gemaakt.
 
 ##### Artikel 82e
 
 Degene op wie krachtens de bepalingen van dit hoofdstuk de verplichting tot bekendmaking rust, zal ook met andere dan de in de betreffende bepalingen genoemde middelen, welke hem ten dienste staan, de bekendmaking bevorderen.
 
-### Afdeling 2. De registratie
+#### Afdeling 2. De registratie
 
 ##### Artikel 82f
 
@@ -776,7 +748,7 @@ Degene op wie krachtens de bepalingen van dit hoofdstuk de verplichting tot beke
 
 2. In het besluit, bedoeld in het eerste lid, wordt de aard van de te vorderen zaken aangegeven.
 
-3. Het besluit, bedoeld in het eerste lid, wordt in de **Staatscourant** bekend gemaakt.
+3. Het besluit, bedoeld in het eerste lid, wordt in de *Staatscourant* bekend gemaakt.
 
 ##### Artikel 82g
 
@@ -784,7 +756,7 @@ Degene op wie krachtens de bepalingen van dit hoofdstuk de verplichting tot beke
 
 Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot een gering aantal inwoners, kan de algemene kennisgeving vervangen worden door een persoonlijke kennisgeving aan de betrokkenen.
 
-2. De algemene kennisgeving, bedoeld in het eerste lid, geschiedt door publikatie in de **Staatscourant** en indien Onze Minister zulks wenselijk oordeelt ook in de vakbladen.
+2. De algemene kennisgeving, bedoeld in het eerste lid, geschiedt door publikatie in de *Staatscourant* en indien Onze Minister zulks wenselijk oordeelt ook in de vakbladen.
 
 ##### Artikel 82h
 
@@ -796,7 +768,7 @@ Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot 
 
 4. De burgemeester zendt de ingeleverde registratieformulieren zo spoedig mogelijk toe aan de vorderingscommissaris, met dien verstande, dat de toezending van de krachtens het eerste lid ingeleverde formulieren eerst na afloop van de in dat lid genoemde termijn geschiedt.
 
-### Afdeling 3. De keuring
+#### Afdeling 3. De keuring
 
 ##### Artikel 82i
 
@@ -820,17 +792,17 @@ Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot 
 
 3. De waarde van het monster - zo dit behouden wordt - alsmede de kosten van verzending worden desgevraagd vergoed.
 
-### Afdeling 4. De aanwijzing
+#### Afdeling 4. De aanwijzing
 
 ##### Artikel 82l
 
-1. De vorderingscommissaris wijst de inwoners aan, van wie zaken gevorderd zullen worden, door toezending van een lastgeving vermeldende de aard en de hoeveelheden der zaken die bij vordering moeten worden afgeleverd, alsmede de plaats waar en het uur waarop dit moet geschieden. Het model van de lastgeving wordt door Onze Minister vastgesteld en in de **Staatscourant** bekend gemaakt.
+1. De vorderingscommissaris wijst de inwoners aan, van wie zaken gevorderd zullen worden, door toezending van een lastgeving vermeldende de aard en de hoeveelheden der zaken die bij vordering moeten worden afgeleverd, alsmede de plaats waar en het uur waarop dit moet geschieden. Het model van de lastgeving wordt door Onze Minister vastgesteld en in de *Staatscourant* bekend gemaakt.
 
 2. Afschrift van deze lastgeving zendt de vorderingscommissaris aan de burgemeester van de plaats, waar de in de lastgeving bedoelde zaken zich als regel bevinden, terwijl aan de in [artikel 82f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=IVA&afdeling=2&artikel=82f&z=2002-01-01&g=2002-01-01), bedoelde Ministers bericht wordt gezonden onder vermelding van de gegevens welke op de lastgeving voorkomen.
 
 3. De lastgeving kan vergezeld zijn van nadere instructies en bescheiden.
 
-### Afdeling 5. Vrijstelling
+#### Afdeling 5. Vrijstelling
 
 ##### Artikel 82m
 
@@ -846,7 +818,7 @@ Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot 
 
 2. Zo de beslissing inhoudt een vrijstelling van de algemene vordering, dient de houder daarop onverwijld de ontvangen lastgeving in te leveren bij de burgemeester. Zolang dit laatste niet heeft plaats gehad blijft de lastgeving van kracht.
 
-### Afdeling 6. Mededelingen
+#### Afdeling 6. Mededelingen
 
 ##### Artikel 82o
 
@@ -866,7 +838,7 @@ Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot 
 
 - g. wanneer zijn adres of de plaats, waar de zaken zich als regel bevinden, gewijzigd wordt.
 
-2. Bij de in het eerste lid onder **a** genoemde mededeling dienen tevens de naam, de woonplaats en het adres van de nieuwe ondernemer te worden vermeld.
+2. Bij de in het eerste lid onder *a* genoemde mededeling dienen tevens de naam, de woonplaats en het adres van de nieuwe ondernemer te worden vermeld.
 
 3. De vorderingscommissaris kan bepalen, dat in geval van wijzigingen als bedoeld in het eerste lid, welke bepaalde door hem vastgestelde grenzen niet overschrijden, geen mededeling behoeft te worden gedaan.
 
@@ -874,7 +846,7 @@ Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot 
 
 De vorderingscommissaris zendt de in [artikel 82l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=IVA&afdeling=4&artikel=82l&z=2002-01-01&g=2002-01-01), bedoelde autoriteiten bericht, indien tengevolge van de krachtens [artikel 82o](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=IVA&afdeling=6&artikel=82o&z=2002-01-01&g=2002-01-01) gedane mededeling de lastgeving gewijzigd of ingetrokken wordt.
 
-### Afdeling 7. De algemene vordering
+#### Afdeling 7. De algemene vordering
 
 ##### Artikel 82q
 
@@ -936,7 +908,7 @@ Onverminderd het bepaalde in de [artikelen 82v](https://wetten.overheid.nl/jci1.
 
 2. Degene, aan wie de verklaring van ontvangst is uitgereikt, is verplicht deze aan degene van wie gevorderd is, ter hand te stellen.
 
-### Afdeling 8. De algemene vordering in eigendom van roerende zaken, waaraan geen voorbereiding is voorafgegaan
+#### Afdeling 8. De algemene vordering in eigendom van roerende zaken, waaraan geen voorbereiding is voorafgegaan
 
 ##### Artikel 82z
 
@@ -958,7 +930,7 @@ Een afschrift van de bon wordt toegezonden aan de vorderingscommissaris die onve
 
 ### Hoofdstuk V. Schadeloosstelling
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 83
 
@@ -1030,7 +1002,7 @@ Bij de vaststelling van de schadeloosstelling worden de van overheidswege gegeve
 
 Onze Minister is bevoegd van de bepalingen van dit hoofdstuk, behoudens het voorgaande artikel, af te wijken in gevallen, waarin blijkt dat de toepassing van die bepalingen tot uitkomsten leidt welke aanzienlijk verschillen van het bedrag der werkelijk geleden schade. Alsdan wordt de schadeloosstelling vastgesteld op het geldelijk nadeel hetwelk is ontstaan als rechtstreeks gevolg van de vordering.
 
-### Afdeling 2. Tarieven
+#### Afdeling 2. Tarieven
 
 ##### Artikel 95
 
@@ -1038,13 +1010,13 @@ Onze Minister is bevoegd van de bepalingen van dit hoofdstuk, behoudens het voor
 
 2. In de tarieven is niet begrepen een schadeloosstelling voor bedrijfsschade en buitengewone waardevermindering, noch een vergoeding van de kosten, bedoeld in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=V&afdeling=1&artikel=91&z=2002-01-01&g=2002-01-01), tenzij het tegendeel is vermeld.
 
-### Afdeling 3. Bijzondere bepalingen
+#### Afdeling 3. Bijzondere bepalingen
 
 ##### Artikel 96
 
 1. De afschrijvingspercentages, bedoeld in de [artikelen 84](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=V&afdeling=1&artikel=84&z=2002-01-01&g=2002-01-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=V&afdeling=1&artikel=85&z=2002-01-01&g=2002-01-01), worden, voorzover zij betrekking hebben op motorrijtuigen, door Onze Minister vastgesteld na overleg met de daarvoor in aanmerking komende organen van het bedrijfsleven.
 
-2. De in het voorgaande lid bedoelde afschrijvingspercentages worden door de zorg van Onze Minister in de **Staatscourant** bekend gemaakt.
+2. De in het voorgaande lid bedoelde afschrijvingspercentages worden door de zorg van Onze Minister in de *Staatscourant* bekend gemaakt.
 
 ##### Artikel 97
 
@@ -1058,7 +1030,7 @@ De schadeloosstelling, bedoeld in [artikel 48 der wet](https://wetten.overheid.n
 
 ##### Artikel 98a
 
-Indien tengevolge van een keuring ter plaatse waar de zaken zich bevinden, als bedoeld in artikel 82**i**, eerste lid, schade is geleden, wordt op een daartoe strekkend verzoek een schadeloosstelling verleend.
+Indien tengevolge van een keuring ter plaatse waar de zaken zich bevinden, als bedoeld in artikel 82*i*, eerste lid, schade is geleden, wordt op een daartoe strekkend verzoek een schadeloosstelling verleend.
 
 Zo Onze Minister te dier zake een tarief heeft vastgesteld, wordt de schadeloosstelling vastgesteld overeenkomstig dat tarief.
 
@@ -1078,7 +1050,7 @@ De ingevolge de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&h
 
 De kosten, welke de gemeente ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&hoofdstuk=II&afdeling=3&paragraaf=3&artikel=25&z=2002-01-01&g=2002-01-01) heeft gemaakt, worden vergoed.
 
-### Afdeling 4. De vaststelling en uitkering van de schadeloosstelling
+#### Afdeling 4. De vaststelling en uitkering van de schadeloosstelling
 
 ##### Artikel 103
 
@@ -1092,13 +1064,13 @@ De vaststelling en uitkering van de schadeloosstelling ingevolge het [derde lid 
 
 1. De vaststelling en uitkering van de schadeloosstelling ingevolge het [derde lid van artikel 44 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=44) geschiedt, voorzover zij strekt tot vergoeding van geleden bedrijfsschade, door Onze Minister.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. Onze Minister is bevoegd de vaststelling en uitkering van de schadeloosstelling, bedoeld in het eerste lid, op te dragen aan de in het voorgaande artikel bedoelde officieren, tenzij de schadeloosstelling meer bedraagt dan een bedrag naar reden van € 2 270 per jaar.
 
 ##### Artikel 106
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107
 
@@ -1224,11 +1196,11 @@ De Inspecteurs van 's Rijksbelastingen verschaffen de inlichtingen, welke Onze M
 
 ##### Artikel 119
 
-Het Koninklijk besluit van 10 November 1892, **Stb.** 253, wordt ingetrokken.
+Het Koninklijk besluit van 10 November 1892, *Stb.* 253, wordt ingetrokken.
 
 ##### Artikel 120
 
-De verplichtingen, welke op grond van de artikelen 43 M-71 M van het Koninklijk besluit van 10 November 1892, **Stb.** 253, zijn opgelegd, blijven van kracht totdat zij zijn vervangen door de verplichtingen krachtens het vierde hoofdstuk van dit besluit, dan wel zijn ingetrokken.
+De verplichtingen, welke op grond van de artikelen 43 M-71 M van het Koninklijk besluit van 10 November 1892, *Stb.* 253, zijn opgelegd, blijven van kracht totdat zij zijn vervangen door de verplichtingen krachtens het vierde hoofdstuk van dit besluit, dan wel zijn ingetrokken.
 
 ##### Artikel 121
 
@@ -1245,5 +1217,3 @@ Dit besluit treedt in werking met ingang van 1 Augustus 1953.
 ##### Artikel 124
 
 Gelijktijdig met dit besluit treedt de [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111) in werking.
-
-Onze Ministers van Oorlog, van Marine, van Binnenlandse Zaken en van Financiën zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

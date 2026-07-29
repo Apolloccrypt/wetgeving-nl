@@ -1,42 +1,18 @@
 ---
 title: "Wet van 5 juli 1921, tot vaststelling van voorschriften betreffende overzetveren en veerrechten"
+citeertitel: "Verenwet"
 identifier: "BWBR0001905"
-country: "nl"
-rank: "wet"
-publication_date: "2023-05-01"
-last_updated: "2023-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001905"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1784043"
-version_id: "2651932"
-internal_id: "C2651931"
-label_id: "1740034"
-dtd_version: "2.0"
-original_entry_into_force: "1921-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001905/2023-05-01/0"
-intitule_bron: "Stb.1921-838"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1921-07-05"
-intitule_status: "goed"
-original_publication: "Stb.1921-838"
-original_signed_date: "1921-07-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1921-08-30"
-jci_1_3: "jci1.3:c:BWBR0001905&z=2023-05-01&g=2023-05-01"
-jci_1_0: "1.0:c:BWBR0001905&g=2023-05-01"
-citeertitel_status: "officieel"
-short_title: "Verenwet"
-signed_date: "1921-07-05"
-entry_into_force: "1921-08-30"
+publicatiedatum: 1921-08-30
+laatste_update: 2023-05-01
+status: geldig
+toestand: 2023-05-01
+bron: "https://wetten.overheid.nl/BWBR0001905"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 5 juli 1921, tot vaststelling van voorschriften betreffende overzetveren en veerrechten
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is voorschriften vast te stellen betreffende overzetveren en veerrechten;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Overzetveren
 
@@ -60,7 +36,7 @@ Met betrekking tot overzetveren, gelegen in andere dan de ingevolge [artikel 2](
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -88,7 +64,7 @@ Het veerrecht kan niet worden afgescheiden van de eigendom van de grond onder he
 
 4. Voor zover het veerrecht betrekking heeft op een verbinding waar de op de veerverbinding aansluitende openbare wegen in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) in beheer bij een of meer gemeenten of waterschappen zijn, treedt voor de toepassing van het tweede en het derde lid het college van burgemeester en wethouders van de gemeente of de gemeenten, waarin het veer is gelegen, in de plaats van gedeputeerde staten.
 
-5. Zolang het college van burgemeester en wethouders geen uitvoering heeft gegeven aan het bepaalde in het vierde lid, blijft een voor de inwerkingtreding van de [Wet herverdeling wegenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005697) (**Stb.** 1992, 563.) krachtens het tweede of derde lid genomen beslissing van provinciale staten die betrekking heeft op een veerrecht als bedoeld in het vierde lid, van kracht.
+5. Zolang het college van burgemeester en wethouders geen uitvoering heeft gegeven aan het bepaalde in het vierde lid, blijft een voor de inwerkingtreding van de [Wet herverdeling wegenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005697) (*Stb.* 1992, 563.) krachtens het tweede of derde lid genomen beslissing van provinciale staten die betrekking heeft op een veerrecht als bedoeld in het vierde lid, van kracht.
 
 ##### Artikel 10
 
@@ -136,7 +112,7 @@ De uitspraak in een tegen een besluit als bedoeld in [artikel 13](https://wetten
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 #### § 2. Opheffing
 
@@ -369,5 +345,3 @@ Bij opheffing van een in een brugrecht omgezet veerrecht zijn de kosten, die moe
 ##### Artikel 50
 
 Deze wet kan worden aangehaald onder den naam "Verenwet".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

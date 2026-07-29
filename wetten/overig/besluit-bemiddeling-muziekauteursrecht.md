@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 12 oktober 1932, tot vaststelling van den algemeenen maatregel van bestuur, bedoeld bij artikel 30a, vijfde lid, der Auteurswet 1912, gelijk deze luidt ingevolge de Wet van 11 februari 1932, Stb. 45"
+citeertitel: "Besluit bemiddeling muziekauteursrecht"
 identifier: "BWBR0001954"
-country: "nl"
-rank: "kb"
-publication_date: "2009-12-02"
-last_updated: "2009-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001954"
+categorie: "Bestuursrecht"
 soort: "KB"
-stam_id: "239623"
-version_id: "331852"
-internal_id: "C331851"
-label_id: "234994"
-dtd_version: "2.0"
-original_entry_into_force: "1933-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001954/2009-12-02/0"
-intitule_bron: "Stb.1932-496"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1932-10-12"
-intitule_status: "goed"
-original_publication: "Stb.1932-496"
-original_signed_date: "1932-10-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1933-04-15"
-jci_1_3: "jci1.3:c:BWBR0001954&z=2009-12-02&g=2009-12-02"
-jci_1_0: "1.0:c:BWBR0001954&g=2009-12-02"
-citeertitel_status: "officieel"
-short_title: "Besluit bemiddeling muziekauteursrecht"
-signed_date: "1932-10-12"
-entry_into_force: "1933-04-15"
+publicatiedatum: 1933-04-15
+laatste_update: 2009-12-02
+status: geldig
+toestand: 2009-12-02
+bron: "https://wetten.overheid.nl/BWBR0001954"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 12 oktober 1932, tot vaststelling van den algemeenen maatregel van bestuur, bedoeld bij artikel 30a, vijfde lid, der Auteurswet 1912, gelijk deze luidt ingevolge de Wet van 11 februari 1932, Stb. 45
-
-Op de voordracht van Onzen Minister van Justitie van den 28 Juli 1932, 1e Afdeeling C, n°. 946;
-
-Overwegende, dat het noodig is vast te stellen den algemeenen maatregel van bestuur, bedoeld bij [artikel 30**a**, vijfde lid, der Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a), gelijk deze luidt ingevolge de wet van 11 Februari 1932, **Staatsblad** n°. 45;
-
-Den Raad van State gehoord (advies van den 9 Augustus 1932, n°. 17);
-
-Gezien het nader rapport van Onzen voornoemden Minister van den 6 October 1932, 1e Afdeeling C, n°. 991;
-
-Hebben goedgevonden en verstaan te bepalen:
 
 ##### Artikel 1
 
@@ -86,58 +58,56 @@ Degeen, wien de ministerieele toestemming is verleend, zal bij de uitoefening va
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Dit besluit treedt in werking op hetzelfde tijdstip als de wet van 11 Februari 1932, **Staatsblad** n°. 45, tot wijziging van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886).
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en van hetwelk afschrift zal worden gezonden aan den Raad van State.
+Dit besluit treedt in werking op hetzelfde tijdstip als de wet van 11 Februari 1932, *Staatsblad* n°. 45, tot wijziging van de [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886).

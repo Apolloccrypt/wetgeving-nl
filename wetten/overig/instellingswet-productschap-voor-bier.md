@@ -1,43 +1,18 @@
 ---
 title: "Wet van 24 november 1954, houdende instelling van een productschap voor bier"
+citeertitel: "Instellingswet Productschap voor Bier"
 identifier: "BWBR0002162"
-country: "nl"
-rank: "wet"
-publication_date: "1956-01-01"
-last_updated: "1956-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002162"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1397363"
-version_id: "2096142"
-internal_id: "C2096141"
-label_id: "1355114"
-dtd_version: "2.0"
-original_entry_into_force: "1956-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002162/1956-01-01/0"
-intitule_bron: "Stb.1954-530"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1954-11-24"
-intitule_status: "goed"
-original_publication: "Stb.1954-530"
-original_signed_date: "1954-11-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "3441"
-entry_into_force_date: "1956-01-01"
-jci_1_3: "jci1.3:c:BWBR0002162&z=1956-01-01&g=1956-01-01"
-jci_1_0: "1.0:c:BWBR0002162&g=1956-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Productschap voor Bier"
-signed_date: "1954-11-24"
-entry_into_force: "1956-01-01"
+publicatiedatum: 1956-01-01
+laatste_update: 1956-01-01
+status: geldig
+toestand: 1956-01-01
+bron: "https://wetten.overheid.nl/BWBR0002162"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 november 1954, houdende instelling van een productschap voor bier
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een productschap als bedoeld in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de bereiding van en de binnenlandse handel in bier;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -57,9 +32,9 @@ bier voor verbruik ter plaatse wordt verstrekt.
 
 2. In deze wet wordt mede verstaan onder:
 
-**bier:** dranken, die in uiterlijk en samenstelling grote overeenkomst met bier vertonen;
+*bier:* dranken, die in uiterlijk en samenstelling grote overeenkomst met bier vertonen;
 
-**handel:** de werkzaamheid van tussenpersonen.
+*handel:* de werkzaamheid van tussenpersonen.
 
 ##### Artikel 3
 
@@ -81,7 +56,7 @@ Het bestuur van het productschap bestaat uit 22 leden. Daarvan worden benoemd:
 
 - c. het verstrekken van de voor de vervulling van de taak van het productschap nodige gegevens.
 
-2. Als aangelegenheden, bedoeld in het voorgaande lid, onder **a**, worden niet aangemerkt:
+2. Als aangelegenheden, bedoeld in het voorgaande lid, onder *a*, worden niet aangemerkt:
 
 - a. de vestiging, uitbreiding en stillegging van ondernemingen;
 
@@ -91,11 +66,11 @@ Het bestuur van het productschap bestaat uit 22 leden. Daarvan worden benoemd:
 
 3. Verordeningen betreffende de in het eerste lid bedoelde onderwerpen hebben niet betrekking op de aanvoer-, transito- en driehoekshandel.
 
-4. Verordeningen betreffende het in het eerste lid, onder **c**, bedoelde onderwerp houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
+4. Verordeningen betreffende het in het eerste lid, onder *c*, bedoelde onderwerp houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
 ##### Artikel 5
 
-Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (**Stb.** 1950, K 22, sedert gewijzigd) vastgestelde verordening kunnen bij die verordening worden aangewezen als strafbare feiten.
+Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (*Stb.* 1950, K 22, sedert gewijzigd) vastgestelde verordening kunnen bij die verordening worden aangewezen als strafbare feiten.
 
 ##### Artikel 6
 
@@ -120,5 +95,3 @@ Deze wet kan worden aangehaald als: Instellingswet Productschap voor Bier.
 ##### Artikel 10
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

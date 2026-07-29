@@ -1,54 +1,24 @@
 ---
 title: "Besluit van 16 maart 1951, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in de artikelen 24, eerste lid, en 46 van de Wet buitengewoon pensioen 1940-1945"
+citeertitel: "Besluit tot uitvoering van het vijfde hoofdstuk der Wet buitengewoon pensioen 1940-1945"
 identifier: "BWBR0002071"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002071"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "1070313"
-version_id: "1577922"
-internal_id: "C1577921"
-label_id: "1036954"
-dtd_version: "2.0"
-original_entry_into_force: "1951-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002071/2011-01-01/0"
-intitule_bron: "Stb.1951-76"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1951-03-16"
-intitule_status: "goed"
-original_publication: "Stb.1951-76"
-original_signed_date: "1951-03-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1951-04-12"
-jci_1_3: "jci1.3:c:BWBR0002071&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0002071&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tot uitvoering van het vijfde hoofdstuk der Wet buitengewoon pensioen 1940-1945"
-signed_date: "1951-03-16"
-entry_into_force: "1951-04-12"
+publicatiedatum: 1951-04-12
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0002071"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 16 maart 1951, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in de artikelen 24, eerste lid, en 46 van de Wet buitengewoon pensioen 1940-1945
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Binnenlandse Zaken, van Financiën en van Sociale Zaken van 18 Januari 1951, afdeling Maatschappelijke Zorg II, bureau 4, No. 30162;
-
-Gelet op de artikelen 3 en 46 van de "[Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032)" (**Staatsblad** 1947, No. H 313);
-
-Gezien de adviezen van de Buitengewone Pensioenraad en de Stichting 1940-1945;
-
-De Raad van State gehoord (advies van 6 Februari 1951, No. 26);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 14 Maart 1951, afdeling Maatschappelijke Zorg II, bureau 4, No. 32430;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-de wet: de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1986, 575);
+de wet: de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (*Stb.* 1986, 575);
 
 de Raad: de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3);
 
@@ -92,11 +62,11 @@ Bij een aanvrage om in het genot te worden gesteld van pensioen als bedoeld in a
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Bij een aanvrage om pensioen ten behoeve van de wettige kinderen, bedoeld in artikel 15, eerste lid, onder **a**, en tweede lid, der wet worden bovendien overgelegd:
+Bij een aanvrage om pensioen ten behoeve van de wettige kinderen, bedoeld in artikel 15, eerste lid, onder *a*, en tweede lid, der wet worden bovendien overgelegd:
 
 - 1. de in [artikel 4, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=4&z=2011-01-01&g=2011-01-01), vermelde stukken, voorzover die niet reeds zijn overgelegd ingevolge het bepaalde in dat artikel;
 
@@ -106,7 +76,7 @@ Bij een aanvrage om pensioen ten behoeve van de wettige kinderen, bedoeld in art
 
 ##### Artikel 7
 
-Bij een aanvrage om toekenning van pensioen aan natuurlijke kinderen als bedoeld in artikel 15, eerste lid, onder **b** en **c** der wet en aan de met wettige kinderen gelijkgestelde kinderen als bedoeld in artikel 15, vierde lid, der wet, worden bovendien overgelegd:
+Bij een aanvrage om toekenning van pensioen aan natuurlijke kinderen als bedoeld in artikel 15, eerste lid, onder *b* en *c* der wet en aan de met wettige kinderen gelijkgestelde kinderen als bedoeld in artikel 15, vierde lid, der wet, worden bovendien overgelegd:
 
 - 1. extracten uit het register van huwelijken en echtscheidingen, afgegeven nà het overlijden door de ambtenaar van de burgerlijke stand van de gemeente waar het huwelijk is voltrokken of is ingeschreven, alsmede extracten uit het overlijdensregister, een en ander betreffende de deelnemer op wiens overlijden de aanspraak op pensioen wordt gegrond;
 
@@ -118,7 +88,7 @@ Bij een aanvrage om toekenning van pensioen aan natuurlijke kinderen als bedoeld
 
 ##### Artikel 8
 
-Bij een aanvrage om pensioen ten behoeve van een ouderloos kleinkind als bedoeld in artikel 15, eerste lid, onder **e**, der wet worden bovendien overgelegd:
+Bij een aanvrage om pensioen ten behoeve van een ouderloos kleinkind als bedoeld in artikel 15, eerste lid, onder *e*, der wet worden bovendien overgelegd:
 
 - 1. de in [artikel 7, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=7&z=2011-01-01&g=2011-01-01), vermelde stukken;
 
@@ -128,7 +98,7 @@ Bij een aanvrage om pensioen ten behoeve van een ouderloos kleinkind als bedoeld
 
 ##### Artikel 9
 
-Bij een aanvrage om pensioen van ouders, grootouders of schoonouders als bedoeld in artikel 15, eerste lid, onder **d** en **f**, der wet worden bovendien overgelegd:
+Bij een aanvrage om pensioen van ouders, grootouders of schoonouders als bedoeld in artikel 15, eerste lid, onder *d* en *f*, der wet worden bovendien overgelegd:
 
 - 1. de in [artikel 7, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=7&z=2011-01-01&g=2011-01-01), vermelde stukken;
 
@@ -140,7 +110,7 @@ Bij een aanvrage om pensioen van ouders, grootouders of schoonouders als bedoeld
 
 - 5. een opgave van de inkomsten van de ouders, grootouders of schoonouders geschat per jaar, naar de toestand op het tijdstip van indiening van de aanvrage;
 
-- 6. met betrekking tot de grootouders, als bedoeld in artikel 15, eerste lid, onder **d**, der wet, een extract uit het geboortenregister van de van hem afstammende zoon of dochter die de vader of moeder is van de deelnemer.
+- 6. met betrekking tot de grootouders, als bedoeld in artikel 15, eerste lid, onder *d*, der wet, een extract uit het geboortenregister van de van hem afstammende zoon of dochter die de vader of moeder is van de deelnemer.
 
 ##### Artikel 10
 
@@ -154,6 +124,4 @@ De vergoedingen aan personen, die voor de Raad of de Sociale verzekeringsbank, o
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de tweede dag na die der dagtekening van het **Staatsblad,** waarin het geplaatst is.
-
-Onze Ministers van Binnenlandse Zaken, van Financiën en van Sociale Zaken zijn, ieder voorzoveel hem aangaat, belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden toegezonden aan de Raad van State, aan de Algemene Rekenkamer en aan de Buitengewone Pensioenraad.
+Dit besluit treedt in werking met ingang van de tweede dag na die der dagtekening van het *Staatsblad,* waarin het geplaatst is.

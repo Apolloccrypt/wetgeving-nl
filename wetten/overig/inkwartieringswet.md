@@ -1,43 +1,18 @@
 ---
 title: "Wet van 18 juni 1953, houdende regeling inzake de inkwartiering en het onderhoud van militairen en de transporten en leverantiën voor de legers en verdedigingswerken"
+citeertitel: "Inkwartieringswet"
 identifier: "BWBR0002111"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002111"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1395223"
-version_id: "2094072"
-internal_id: "C2094071"
-label_id: "1353774"
-dtd_version: "2.0"
-original_entry_into_force: "1953-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002111/2015-01-01/0"
-intitule_bron: "Stb.1953-305"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-06-18"
-intitule_status: "goed"
-original_publication: "Stb.1953-305"
-original_signed_date: "1953-06-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "2610"
-entry_into_force_date: "1953-08-01"
-jci_1_3: "jci1.3:c:BWBR0002111&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0002111&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Inkwartieringswet"
-signed_date: "1953-06-18"
-entry_into_force: "1953-08-01"
+publicatiedatum: 1953-08-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0002111"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 18 juni 1953, houdende regeling inzake de inkwartiering en het onderhoud van militairen en de transporten en leverantiën voor de legers en verdedigingswerken
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is nieuwe regelen te stellen ter uitvoering van [artikel 194 der Grondwet](onbekend), alsmede regelen te stellen ter voorziening in de behoeften aan inkwartiering, onderhoud, transporten en leverantiën van de strijdkrachten van de met het Koninkrijk verbonden mogenheden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -65,7 +40,7 @@ In deze wet worden onder militairen mede verstaan:
 
 - d. zij die zich op weg bevinden teneinde militaire goederen in ontvangst te nemen, in te leveren of te doen onderzoeken;
 
-- e. zij die na afloop van de onder **b, c** of **d** genoemde verrichtingen huiswaarts keren.
+- e. zij die na afloop van de onder *b, c* of *d* genoemde verrichtingen huiswaarts keren.
 
 ##### Artikel 3
 
@@ -109,11 +84,11 @@ het beschikbaarstellen in gebruik of in eigendom van roerende zaken van allerlei
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ### Hoofdstuk II. De voorziening in de behoeften aan inkwartiering, onderhoud, transporten en leverantiën anders dan in buitengewone omstandigheden
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 6
 
@@ -121,7 +96,7 @@ het beschikbaarstellen in gebruik of in eigendom van roerende zaken van allerlei
 
 2. De burgemeester voldoet aan de aanvraag met inachtneming van de bepalingen van dit hoofdstuk, hetzij door beschikbaarstelling vanwege de gemeente, hetzij door vordering van de inwoners.
 
-3. Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+3. Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 7
 
@@ -131,7 +106,7 @@ het beschikbaarstellen in gebruik of in eigendom van roerende zaken van allerlei
 
 ##### Artikel 8
 
-Wanneer uit hoofde van een geschil tussen de burgemeester en degene, die de aanvraag als bedoeld in artikel 6 deed, omtrent het gevolggeven aan die aanvraag voor een der partijen geldelijk nadeel mocht zijn ontstaan, komt dit ten laste van de gemeente of het Rijk, al naar mate bij Onze beslissing van het geschil van bestuur, op de wijze voorgeschreven bij de wet van 21 December 1861 **Stb.** no. 129, de burgemeester of de aanvrager in het ongelijk wordt gesteld, onverminderd de mogelijkheid van verhaal door iedere partij op de persoon, die voor haar gehandeld heeft, zo diens handelingen daartoe termen opleveren.
+Wanneer uit hoofde van een geschil tussen de burgemeester en degene, die de aanvraag als bedoeld in artikel 6 deed, omtrent het gevolggeven aan die aanvraag voor een der partijen geldelijk nadeel mocht zijn ontstaan, komt dit ten laste van de gemeente of het Rijk, al naar mate bij Onze beslissing van het geschil van bestuur, op de wijze voorgeschreven bij de wet van 21 December 1861 *Stb.* no. 129, de burgemeester of de aanvrager in het ongelijk wordt gesteld, onverminderd de mogelijkheid van verhaal door iedere partij op de persoon, die voor haar gehandeld heeft, zo diens handelingen daartoe termen opleveren.
 
 ##### Artikel 9
 
@@ -155,7 +130,7 @@ De beslissing ingevolge het vorige artikel door burgemeester en wethouders te ne
 
 6. De krachtens de voorgaande leden vastgestelde schadeloosstellingen worden voor rekening van het Rijk door de gemeente betaald.
 
-### Afdeling 2. Inkwartiering en onderhoud
+#### Afdeling 2. Inkwartiering en onderhoud
 
 ##### Artikel 12
 
@@ -201,7 +176,7 @@ De inkwartiering en het onderhoud van militairen, bestemd tot het verlenen van b
 
 ##### Artikel 17
 
-De verstrekkingen genoemd in [artikel 12 onder **d** en **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=II&afdeling=2&artikel=12&z=2015-01-01&g=2015-01-01) zullen bij voorkeur gevorderd worden van hen, die uit hoofde van hun beroep of bedrijf het best in staat zijn daaraan te voldoen.
+De verstrekkingen genoemd in [artikel 12 onder *d* en *e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=II&afdeling=2&artikel=12&z=2015-01-01&g=2015-01-01) zullen bij voorkeur gevorderd worden van hen, die uit hoofde van hun beroep of bedrijf het best in staat zijn daaraan te voldoen.
 
 ##### Artikel 18
 
@@ -219,21 +194,21 @@ De inkwartiering en het onderhoud worden, voor zover het belang van de dienst zu
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
-### Afdeling 3. Transporten
+#### Afdeling 3. Transporten
 
 ##### Artikel 24
 
@@ -255,7 +230,7 @@ Vervallen
 
 2. Degene, die de bestemming van het transport wijzigt, geeft hiervan een schriftelijk bewijs af aan degene van wie het transport gevorderd is.
 
-### Afdeling 4. Leverantiën
+#### Afdeling 4. Leverantiën
 
 ##### Artikel 27
 
@@ -263,13 +238,13 @@ Leverantiën kunnen op de aanvraag als bedoeld in [artikel 6](https://wetten.ove
 
 ### Hoofdstuk III. De voorziening in de behoeften aan inkwartiering, onderhoud, transporten en leverantiën in geval van buitengewone omstandigheden, alsmede de voorbereiding van die voorziening
 
-### Afdeling 1. De voorziening in het algemeen alsmede de voorbereiding van de vordering van gebouwen en terreinen
+#### Afdeling 1. De voorziening in het algemeen alsmede de voorbereiding van de vordering van gebouwen en terreinen
 
 #### § 1. De voorziening
 
 ##### Artikel 28
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De door Onze Minister aangewezen officieren van de krijgsmacht van het Koninkrijk zijn bevoegd, met inachtneming van de regels, gesteld door de daartoe aangewezen militaire autoriteit, te voorzien in de behoeften aan inkwartiering, onderhoud, transporten en leverantiën, hetzij door vordering, hetzij in spoedeisende gevallen door ingebruik- of ineigendomneming. Van deze voorzieningen wordt zo spoedig mogelijk een schriftelijk bewijs verstrekt.
 
@@ -277,11 +252,11 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Onze Minister voorziet de in het eerste lid bedoelde autoriteit van een instructie.
 
-4. Van een aanwijzing als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+4. Van een aanwijzing als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 29
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De in het voorgaande artikel bedoelde officieren zijn tevens bevoegd ter voorziening in de behoeften aan inkwartiering, onderhoud, transporten en leverantiën een aanvraag te richten tot de burgemeester, op de wijze als omschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=II&afdeling=1&artikel=6&z=2015-01-01&g=2015-01-01).
 
@@ -297,7 +272,7 @@ Ten aanzien van gebouwen en terreinen, waarvan te voorzien is dat deze op grond 
 
 - b. het in bijzondere gevallen treffen van eenvoudige voorzieningen aan deze gebouwen en terreinen;
 
-- c. het controleren van deze gebouwen en terreinen alsmede van de onder **b** bedoelde voorzieningen.
+- c. het controleren van deze gebouwen en terreinen alsmede van de onder *b* bedoelde voorzieningen.
 
 ##### Artikel 31
 
@@ -305,7 +280,7 @@ De in het voorgaande artikel genoemde maatregelen brengen voor de rechthebbenden
 
 ##### Artikel 32
 
-1. De onder **b** van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=1&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01) genoemde maatregel brengt voor de rechthebbenden ten aanzien van de voor die voorzieningen in aanmerking komende gebouwen en terreinen de verplichting mede te gedogen, dat daaraan door Onze Minister in bijzondere gevallen eenvoudige voorzieningen worden getroffen.
+1. De onder *b* van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=1&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01) genoemde maatregel brengt voor de rechthebbenden ten aanzien van de voor die voorzieningen in aanmerking komende gebouwen en terreinen de verplichting mede te gedogen, dat daaraan door Onze Minister in bijzondere gevallen eenvoudige voorzieningen worden getroffen.
 
 2. Deze voorzieningen mogen uitsluitend getroffen worden met het doel het gebouw of terrein voor zijn eventuele militaire bestemming geschikt of meer geschikt te maken. Zij mogen nochtans niet van zodanige aard zijn, dat zij het gebruik van het gebouw of het terrein overeenkomstig zijn normale bestemming noemenswaardig belemmeren.
 
@@ -323,13 +298,13 @@ De in het voorgaande artikel genoemde maatregelen brengen voor de rechthebbenden
 
 Bij algemene maatregel van bestuur worden nadere regelen gesteld ten aanzien van de uitvoering van de bepalingen van deze paragraaf.
 
-### Afdeling 2. De algemene vordering van leverantiën en derzelver voorbereiding
+#### Afdeling 2. De algemene vordering van leverantiën en derzelver voorbereiding
 
 #### § 1. De algemene vordering
 
 ##### Artikel 35
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister kan een algemene vordering van leverantiën tot de inwoners richten ter noodzakelijke voorziening in de behoeften van de zee-, land- en luchtstrijdkrachten van het Koninkrijk en van de verdedigingswerken, waarin niet op andere wijze kan worden voorzien.
 
@@ -353,25 +328,25 @@ Ten aanzien van goederen, welke in aanmerking komen voor de vordering krachtens 
 
 - c. het voor vordering aanwijzen van deze goederen;
 
-- d. het treffen van voorzieningen aan de krachtens punt **c** aangewezen goederen.
+- d. het treffen van voorzieningen aan de krachtens punt *c* aangewezen goederen.
 
 ##### Artikel 37
 
-De onder **a** van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) bedoelde maatregel brengt voor een ieder de verplichting mede de inlichtingen te verschaffen, welke door Onze Minister voor de registratie nodig worden geoordeeld en betrekking hebben op het goed.
+De onder *a* van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) bedoelde maatregel brengt voor een ieder de verplichting mede de inlichtingen te verschaffen, welke door Onze Minister voor de registratie nodig worden geoordeeld en betrekking hebben op het goed.
 
 ##### Artikel 38
 
-1. De onder **b** van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) bedoelde maatregel brengt voor de eigenaar of houder van het goed de verplichting mede hetzelve aanwezig te doen zijn ten tijde en ter plaatse als hem schriftelijk is medegedeeld, en toe te laten dat het goed door daartoe door Onze Minister aangewezen personen wordt onderzocht, of toe te laten dat het goed ter plaatse waar het zich bevindt een zodanig onderzoek ondergaat. Hiertoe is degene, die het goed onder zich heeft, verplicht aan de eigenaar of houder de noodzakelijke medewerking te verlenen en een onderzoek ter plaatse waar het goed zich bevindt toe te laten.
+1. De onder *b* van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) bedoelde maatregel brengt voor de eigenaar of houder van het goed de verplichting mede hetzelve aanwezig te doen zijn ten tijde en ter plaatse als hem schriftelijk is medegedeeld, en toe te laten dat het goed door daartoe door Onze Minister aangewezen personen wordt onderzocht, of toe te laten dat het goed ter plaatse waar het zich bevindt een zodanig onderzoek ondergaat. Hiertoe is degene, die het goed onder zich heeft, verplicht aan de eigenaar of houder de noodzakelijke medewerking te verlenen en een onderzoek ter plaatse waar het goed zich bevindt toe te laten.
 
 2. Een ieder is verplicht de in het voorgaande lid bedoelde personen desgevraagd alle inlichtingen te verschaffen en alle bescheiden te tonen, welke voor de keuring nodig worden geacht en betrekking hebben op het goed.
 
 ##### Artikel 39
 
-De onder **c** van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) bedoelde aanwijzing wordt aan de eigenaar of houder schriftelijk bekend gemaakt. Deze is alsdan gehouden tot het doen van mededelingen betreffende bij algemene maatregel van bestuur aan te duiden rechtshandelingen of gebeurtenissen, met betrekking tot het goed, aan Onze Minister of aan een door deze aangewezen autoriteit.
+De onder *c* van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) bedoelde aanwijzing wordt aan de eigenaar of houder schriftelijk bekend gemaakt. Deze is alsdan gehouden tot het doen van mededelingen betreffende bij algemene maatregel van bestuur aan te duiden rechtshandelingen of gebeurtenissen, met betrekking tot het goed, aan Onze Minister of aan een door deze aangewezen autoriteit.
 
 ##### Artikel 40
 
-1. De onder **d** van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) genoemde maatregel brengt voor de eigenaar of houder van het goed de verplichting mede te gedogen, dat aan dat goed door Onze Minister voorzieningen worden getroffen. Te dien einde kan de eigenaar of houder worden verplicht hetzelve aanwezig te doen zijn ten tijde en ter plaatse als hem schriftelijk is medegedeeld. Hiertoe is degene, die het goed onder zich heeft, verplicht aan de eigenaar of houder de noodzakelijke medewerking te verlenen.
+1. De onder *d* van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) genoemde maatregel brengt voor de eigenaar of houder van het goed de verplichting mede te gedogen, dat aan dat goed door Onze Minister voorzieningen worden getroffen. Te dien einde kan de eigenaar of houder worden verplicht hetzelve aanwezig te doen zijn ten tijde en ter plaatse als hem schriftelijk is medegedeeld. Hiertoe is degene, die het goed onder zich heeft, verplicht aan de eigenaar of houder de noodzakelijke medewerking te verlenen.
 
 2. De voorzieningen, in het eerste lid bedoeld, mogen uitsluitend getroffen worden met het doel het goed geschikt of meer geschikt te maken voor zijn eventuele militaire bestemming. Zij mogen nochtans niet van zodanige aard zijn, dat zij het gebruik van het goed overeenkomstig zijn normale bestemming noemenswaardig belemmeren.
 
@@ -383,17 +358,17 @@ De onder **c** van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&
 
 Bij algemene maatregel van bestuur worden nadere regelen gesteld ten aanzien van de uitvoering van de bepalingen van deze afdeling.
 
-### Afdeling 3. Het betreden van plaatsen
+#### Afdeling 3. Het betreden van plaatsen
 
 ##### Artikel 42
 
-1. Degenen, die door Onze Minister met de uitvoering van de maatregelen, genoemd in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=1&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01) en [36 onder **b** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) zijn belast, hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
+1. Degenen, die door Onze Minister met de uitvoering van de maatregelen, genoemd in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=1&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01) en [36 onder *b* en *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) zijn belast, hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
 
-2. Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (**Stb.** 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) te geven. [Artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is niet van toepassing.
+2. Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (*Stb.* 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) te geven. [Artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is niet van toepassing.
 
 3. Behalve ingeval de beperkte of de algemene noodtoestand is afgekondigd, wordt van het voornemen tot het betreden ten minste twee maal vierentwintig uren van te voren schriftelijk kennis gegeven aan degene, die het goed onder zich heeft.
 
-### Afdeling 4. De schadeloosstelling
+#### Afdeling 4. De schadeloosstelling
 
 ##### Artikel 43
 
@@ -437,7 +412,7 @@ Bij algemene maatregel van bestuur worden nadere regelen gesteld ten aanzien van
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
@@ -445,19 +420,19 @@ De schadeloosstelling voor het voldoen aan de vordering van leverantiën krachte
 
 ##### Artikel 49
 
-Wij stellen bij algemene maatregel van bestuur regelen, volgens welke schadeloosstelling zal geschieden, indien terzake van het brengen van gevorderde goederen op een aangewezen plaats krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=1&artikel=35&z=2015-01-01&g=2015-01-01), dan wel tengevolge van de in de [artikelen 30 onder **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=1&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01) en [36 onder **b** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) genoemde maatregelen, schade is geleden of kosten zijn gemaakt.
+Wij stellen bij algemene maatregel van bestuur regelen, volgens welke schadeloosstelling zal geschieden, indien terzake van het brengen van gevorderde goederen op een aangewezen plaats krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=1&artikel=35&z=2015-01-01&g=2015-01-01), dan wel tengevolge van de in de [artikelen 30 onder *a* en *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=1&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01) en [36 onder *b* en *d*](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=36&z=2015-01-01&g=2015-01-01) genoemde maatregelen, schade is geleden of kosten zijn gemaakt.
 
 ### Hoofdstuk IV. Maatregelen bij weigering of nalatigheid
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
 1. Degene die de vordering gedaan heeft is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-2. Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (**Stb.** 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) te geven. [Artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is niet van toepassing.
+2. Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (*Stb.* 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) te geven. [Artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) is niet van toepassing.
 
 ##### Artikel 52
 
@@ -511,11 +486,11 @@ De feiten strafbaar gesteld in de [artikelen 53-55](https://wetten.overheid.nl/j
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
@@ -529,7 +504,7 @@ Vervallen
 
 1. Voor militaire oefeningen, door Ons aangewezen op voordracht van Onze Minister-President, kunnen de bepalingen van het derde hoofdstuk overeenkomstige toepassing vinden. Alsdan kan bij wijze van proef een algemene vordering van leverantiën krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&hoofdstuk=III&afdeling=2&paragraaf=1&artikel=35&z=2015-01-01&g=2015-01-01) worden gehouden, met dien verstande dat slechts in gebruik kan worden gevorderd.
 
-2. Ons daartoe strekkend besluit wordt ten minste tweemaal vier en twintig uren voor het begin van de oefening in de **Staatscourant** bekend gemaakt.
+2. Ons daartoe strekkend besluit wordt ten minste tweemaal vier en twintig uren voor het begin van de oefening in de *Staatscourant* bekend gemaakt.
 
 ##### Artikel 62
 
@@ -539,11 +514,11 @@ Vervallen
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-De wet van 14 September 1866, **Stb.** 138, wordt ingetrokken.
+De wet van 14 September 1866, *Stb.* 138, wordt ingetrokken.
 
 ##### Artikel 65
 
@@ -552,5 +527,3 @@ Deze wet kan worden aangehaald onder de titel "Inkwartieringswet".
 ##### Artikel 66
 
 Deze wet treedt in werking op een nader door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

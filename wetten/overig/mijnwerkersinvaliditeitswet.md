@@ -1,57 +1,30 @@
 ---
 title: "Wet van den 21sten April 1933, tot verzekering van mijnarbeiders tegen geldelijke gevolgen van invaliditeit en ouderdom"
+citeertitel: "Mijnwerkersinvaliditeitswet"
 identifier: "BWBR0001960"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001960"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "2927703"
-version_id: "4513962"
-internal_id: "C4513961"
-label_id: "2877194"
-dtd_version: "2.0"
-original_entry_into_force: "1996-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001960/2002-01-01/0"
-intitule_bron: "Stb.1933-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1933-04-21"
-intitule_published: "1933-05-09"
-intitule_in_force: "1933-05-09"
-intitule_status: "goed"
-original_publication: "Stb.1933-181"
-original_signed_date: "1933-04-21"
-original_published_date: "1933-05-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-04-01"
-jci_1_3: "jci1.3:c:BWBR0001960&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0001960&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Mijnwerkersinvaliditeitswet"
-signed_date: "1933-04-21"
-entry_into_force: "1996-04-01"
+publicatiedatum: 1996-04-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0001960"
+opgehaald: 2026-07-29
 ---
+
 # Wet van den 21sten April 1933, tot verzekering van mijnarbeiders tegen geldelijke gevolgen van invaliditeit en ouderdom
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is, dat nadere regelen worden gesteld met betrekking tot de verzekering van mijnarbeiders tegen geldelijke gevolgen van invaliditeit en ouderdom;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -61,19 +34,19 @@ Vervallen
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -83,50 +56,48 @@ Vervallen
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

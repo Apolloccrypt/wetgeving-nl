@@ -1,47 +1,22 @@
 ---
 title: "Wet van 9 maart 1962, op de Raad van State"
+citeertitel: "Wet op de Raad van State"
 identifier: "BWBR0002367"
-country: "nl"
-rank: "wet"
-publication_date: "2022-05-01"
-last_updated: "2022-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002367"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2107143"
-version_id: "17331332"
-internal_id: "C24154911"
-label_id: "2055554"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002367/2022-05-01/0"
-intitule_bron: "Stb.1962-88"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1962-03-09"
-intitule_status: "goed"
-original_publication: "Stb.2010-175"
-original_signed_date: "2010-04-22"
-original_published_date: "2010-05-04"
-original_effect: "structuurwijziging"
-original_dossier: "30585"
-original_url_id: "stb-2010-175"
-entry_into_force_date: "2010-09-01"
-jci_1_3: "jci1.3:c:BWBR0002367&z=2022-05-01&g=2022-05-01"
-jci_1_0: "1.0:c:BWBR0002367&g=2022-05-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de Raad van State"
-signed_date: "2010-04-22"
-entry_into_force: "2010-09-01"
+publicatiedatum: 2010-09-01
+laatste_update: 2022-05-01
+status: geldig
+toestand: 2022-05-01
+bron: "https://wetten.overheid.nl/BWBR0002367"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 9 maart 1962, op de Raad van State
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de wet van 21 December 1861, **Stb.** 129, houdende regeling van de samenstelling en de bevoegdheid van de Raad van State, door een nieuwe wet te vervangen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
 ### Hoofdstuk I. De Raad van State in het algemeen
+
+#### Afdeling 1. Samenstelling en taak
 
 ##### Artikel 1
 
@@ -81,69 +56,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De vice-president en de leden worden voorts door de Raad, bij met redenen omkleed besluit, ontslagen, geschorst, of bij ongeschiktheid wegens ziekte met een andere taak belast, en de leden worden door de vice-president, bij met redenen omkleed besluit, berispt overeenkomstig [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A), met dien verstande dat:
 
-- –. in plaats van «procureur-generaal» wordt gelezen: vice-president;
+- – in plaats van «procureur-generaal» wordt gelezen: vice-president;
 
-- –. in plaats van «plaatsvervangend procureur-generaal» wordt gelezen: het oudste aanwezige lid, naar rang van benoeming;
+- – in plaats van «plaatsvervangend procureur-generaal» wordt gelezen: het oudste aanwezige lid, naar rang van benoeming;
 
-- –. in plaats van «bij een gerecht dan wel binnen het gezagsbereik van Onze Minister» wordt gelezen: binnen de Raad dan wel binnen het gezagsbereik van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – in plaats van «bij een gerecht dan wel binnen het gezagsbereik van Onze Minister» wordt gelezen: binnen de Raad dan wel binnen het gezagsbereik van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. in plaats van «functionele autoriteit» wordt gelezen: vice-president;
+- – in plaats van «functionele autoriteit» wordt gelezen: vice-president;
 
-- –. de Raad de mededeling van een beslissing als bedoeld in [artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p), doet aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- – de Raad de mededeling van een beslissing als bedoeld in [artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p), doet aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 3. De [artikelen 46i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46k), en [46l, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l) zijn van overeenkomstige toepassing, met dien verstande dat wordt gelezen:
 
-- –. in plaats van «de rechterlijke ambtenaar»: de vice-president of het lid;
+- – in plaats van «de rechterlijke ambtenaar»: de vice-president of het lid;
 
-- –. in plaats van «op voordracht van Onze Minister»: op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – in plaats van «op voordracht van Onze Minister»: op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. in plaats van «de Hoge Raad»: de Raad.
+- – in plaats van «de Hoge Raad»: de Raad.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot voorzieningen in verband met ziekte, arbeidsongeschiktheid en werkloosheid.
-
-##### Artikel 3a
-
-1. De vice-president en de staatsraden worden door de Raad, bij met redenen omkleed besluit, ontslagen, geschorst, of bij ongeschiktheid wegens ziekte met een andere taak belast, en de staatsraden worden door de vice-president, bij met redenen omkleed besluit, gewaarschuwd overeenkomstig het bepaalde in [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A), met dien verstande dat wordt gelezen:
-
-- –. in plaats van «procureur-generaal»: vice-president;
-
-- –. in plaats van «plaatsvervangend procureur-generaal»: de oudste aanwezige staatsraad, naar rang van benoeming;
-
-- –. in plaats van «bij een gerecht dan wel binnen het gezagsbereik van Onze Minister»: binnen de Raad dan wel binnen het gezagsbereik van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-- –. in plaats van «functionele autoriteit»: vice-president.
-
-De Raad doet de mededeling van een beslissing als bedoeld in [artikel 46p, vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p), aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
-
-2. De [artikelen 46i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46k, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46k), en [46l, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l) zijn van overeenkomstige toepassing, met dien verstande dat wordt gelezen:
-
-- –. in plaats van «de rechterlijke ambtenaar»: de vice-president of de staatsraad;
-
-- –. in plaats van «op voordracht van Onze Minister»: op voordracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-- –. in plaats van «de Hoge Raad»: de Raad
-
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot wachtgeld en voorzieningen in verband met ziekte en arbeidsongeschiktheid.
-
-##### Artikel 3b
-
-Vervallen
-
-##### Artikel 3c
-
-Vervallen
-
-##### Artikel 3d
-
-Vervallen
-
-##### Artikel 3e
-
-Vervallen
-
-##### Artikel 3f
-
-Vervallen
 
 ##### Artikel 4
 
@@ -169,15 +100,31 @@ Slechts Nederlanders kunnen worden benoemd tot vice-president of tot lid.
 
 5. De betrekkingen die de vice-president en de leden buiten hun ambt vervullen worden door de vice-president openbaar gemaakt. De [artikelen 44, vijfde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en [44a, eerste tot en met achtste en tiende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a) zijn van overeenkomstige toepassing.
 
-##### Artikel 14
+##### Artikel 6
 
-1. Op voorstel van de vice-president regelt de Raad zijn werkzaamheden alsmede voor zover nodig de overige aangelegenheden welke op het college betrekking hebben en niet uitsluitend de Afdeling advisering of de Afdeling bestuursrechtspraak aangaan.
+1. Alvorens hun ambt te aanvaarden leggen de vice-president en de leden in handen van de Koning de volgende eed (verklaring en belofte) af:
 
-2. De regeling wordt in de Staatscourant bekendgemaakt.
+«Ik zweer (verklaar) dat ik, tot het verkrijgen van mijn aanstelling, middellijk noch onmiddellijk, onder welke naam of welk voorwendsel ook, aan iemand iets heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, van niemand enig geschenk of enige belofte heb aangenomen of zal aannemen, middellijk of onmiddellijk.
+
+Ik zweer (beloof) trouw aan de Koning, dat ik het Statuut voor het Koninkrijk en de Grondwet steeds zal helpen onderhouden en mijn ambt met eerlijkheid, nauwgezetheid en onpartijdigheid zal vervullen.
+
+Zo waarlijk helpe mij God almachtig!»
+
+(Dat verklaar en beloof ik»).
+
+2. Deze eed (verklaring en belofte) kan door de leden ook worden afgelegd in een vergadering van de Raad in handen van de vice-president, daartoe door de Koning gemachtigd.
 
 ##### Artikel 7
 
 De vice-president wordt bij verhindering of ontstentenis vervangen door het oudste aanwezige lid, naar rang van benoeming.
+
+##### Artikel 7a
+
+De Raad is belast met de taken, bij de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=35) en [38 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=38) aan hem opgedragen.
+
+#### Afdeling 2. Staatsraden en staatsraden in buitengewone dienst
 
 ##### Artikel 8
 
@@ -189,21 +136,9 @@ De vice-president wordt bij verhindering of ontstentenis vervangen door het ouds
 
 4. De [artikelen 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2022-05-01&g=2022-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=3&z=2022-05-01&g=2022-05-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=4&z=2022-05-01&g=2022-05-01), [5, eerste lid, aanhef en onder d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=5&z=2022-05-01&g=2022-05-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=6&z=2022-05-01&g=2022-05-01) zijn op hen van overeenkomstige toepassing.
 
-##### Artikel 17
+##### Artikel 9
 
-1. Wij horen de Afdeling advisering over:
-
-- a. de voorstellen van wet door Ons aan de Staten-Generaal te doen;
-
-- b. de ontwerpen van algemene maatregelen van bestuur;
-
-- c. de voorstellen tot goedkeuring van een verdrag of van het voornemen tot opzegging van een verdrag.
-
-2. Wij horen de Afdeling advisering voorts in de gevallen waarin een wet dit voorschrijft en over alle aangelegenheden waaromtrent Wij het nodig oordelen.
-
-3. Wij brengen bij de Afdeling advisering ter overweging de ontwerpen van krachtens enige wet te nemen koninklijke besluiten tot vernietiging.
-
-4. De voorstellen, ontwerpen en besluiten vermelden dat de Afdeling advisering van de Raad van State is gehoord.
+De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid van de Raad.
 
 ##### Artikel 10
 
@@ -212,6 +147,8 @@ De vice-president wordt bij verhindering of ontstentenis vervangen door het ouds
 2. Een staatsraad in buitengewone dienst neemt slechts deel aan de werkzaamheden van de Raad of van een van zijn afdelingen, voorzover hij daartoe door de vice-president is opgeroepen.
 
 3. De [artikelen 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2022-05-01&g=2022-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=3&z=2022-05-01&g=2022-05-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=4&z=2022-05-01&g=2022-05-01), [5, eerste lid, aanhef en onder d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=5&z=2022-05-01&g=2022-05-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=6&z=2022-05-01&g=2022-05-01), [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=2&artikel=8&z=2022-05-01&g=2022-05-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=2&artikel=9&z=2022-05-01&g=2022-05-01) zijn van overeenkomstige toepassing.
+
+#### Afdeling 3. De secretaris en de ambtenaren van staat
 
 ##### Artikel 11
 
@@ -247,9 +184,19 @@ Zo waarlijk helpe mij God almachtig!»
 
 (Dat verklaar en beloof ik»).
 
+#### Afdeling 4. Overige bepalingen
+
+##### Artikel 13a
+
+1. Ten aanzien van de secretaris en de aan de Raad toegevoegde ambtenaren gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+
+2. Op verzoek van de Raad van State kunnen in de collectieve arbeidsovereenkomst, bedoeld in het eerste lid, andere arbeidsvoorwaarden voor de secretaris en de aan de Raad toegevoegde ambtenaren worden opgenomen.
+
 ##### Artikel 14
 
-De Raad is belast met de taak, bij [artikel 38 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=38) aan hem opgedragen.
+1. Op voorstel van de vice-president regelt de Raad zijn werkzaamheden alsmede voor zover nodig de overige aangelegenheden welke op het college betrekking hebben en niet uitsluitend de Afdeling advisering of de Afdeling bestuursrechtspraak aangaan.
+
+2. De regeling wordt in de Staatscourant bekendgemaakt.
 
 ##### Artikel 15
 
@@ -258,28 +205,6 @@ De Raad is belast met de taak, bij [artikel 38 van de Grondwet](https://wetten.o
 2. Indien de stemmen staken, beslist de stem van de voorzitter der vergadering.
 
 3. De Raad beslist niet, indien minder dan de helft van het aantal leden aanwezig is, waaruit de Raad, de vice-president inbegrepen, op dat moment bestaat.
-
-##### Artikel 15a
-
-1. De Tweede Kamer der Staten-Generaal hoort de Raad over de bij haar door een of meer leden aanhangig gemaakte voorstellen van wet, voordat zij deze in behandeling neemt.
-
-2. In de gevallen waarin de Tweede Kamer zulks nodig oordeelt, hoort zij de Raad voorts omtrent de in het eerste lid bedoelde voorstellen, nadat deze in behandeling zijn genomen.
-
-3. Het bepaalde in het eerste en tweede lid is van overeenkomstige toepassing ten aanzien van de Staten-Generaal in verenigde vergadering.
-
-##### Artikel 15b
-
-Het horen van de Raad kan achterwege blijven over:
-
-- a. voorstellen van wet tot wijziging van de begroting van het Rijk;
-
-- b. voorstellen van wet tot goedkeuring van een verdrag of van het voornemen tot opzegging van een verdrag, indien dit verdrag of dit voornemen eerder ter stilzwijgende goedkeuring aan de Staten-Generaal was voorgelegd.
-
-##### Artikel 15c
-
-1. De Raad heeft tot taak het opstellen van een ontwerp van een koninklijk besluit als bedoeld in [artikel 136 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=136).
-
-2. Binnen zes maanden nadat het ontwerp is opgesteld kan Onze Minister wie het aangaat, de Raad gemotiveerd verzoeken zijn ontwerp in nadere overweging te nemen. Indien het koninklijk besluit afwijkt van het ontwerp of het nader ontwerp wordt het in het **Staatsblad** geplaatst met het ontwerp, bedoeld in het eerste lid en indien daarvan sprake is, het nader ontwerp. Indien niet binnen zes maanden een verzoek als bedoeld in de eerste volzin is gedaan luidt het koninklijk besluit overeenkomstig het ontwerp.
 
 ##### Artikel 16
 
@@ -291,9 +216,39 @@ De vice-president, de leden, de staatsraden en de staatsraden in buitengewone di
 
 - c. de meerderheid van degenen die aan de beraadslaging deelnemen daartoe besluit.
 
+### Hoofdstuk II. De Afdeling advisering
+
+#### Afdeling 1. Samenstelling en taak
+
+##### Artikel 16a
+
+1. De Raad kent een Afdeling advisering.
+
+2. De Afdeling advisering bestaat uit:
+
+- a. de vice-president en
+
+- b. de leden, de staatsraden en de staatsraden in buitengewone dienst die in de Afdeling advisering zijn benoemd.
+
+3. De leden van het koninklijk huis, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2022-05-01&g=2022-05-01), hebben zitting in de Afdeling advisering. Artikel 1, vierde lid, is van overeenkomstige toepassing.
+
+4. De vice-president is voorzitter van de Afdeling advisering. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=7&z=2022-05-01&g=2022-05-01) is van overeenkomstige toepassing.
+
 ##### Artikel 17
 
-De Raad regelt zijn verdeling in afdelingen, welke elk betrekking hebben op één of meer ministeries. De regeling wordt in de **Staatscourant** bekend gemaakt.
+1. Wij horen de Afdeling advisering over:
+
+- a. de voorstellen van wet door Ons aan de Staten-Generaal te doen;
+
+- b. de ontwerpen van algemene maatregelen van bestuur;
+
+- c. de voorstellen tot goedkeuring van een verdrag of van het voornemen tot opzegging van een verdrag.
+
+2. Wij horen de Afdeling advisering voorts in de gevallen waarin een wet dit voorschrijft en over alle aangelegenheden waaromtrent Wij het nodig oordelen.
+
+3. Wij brengen bij de Afdeling advisering ter overweging de ontwerpen van krachtens enige wet te nemen koninklijke besluiten tot vernietiging.
+
+4. De voorstellen, ontwerpen en besluiten vermelden dat de Afdeling advisering van de Raad van State is gehoord.
 
 ##### Artikel 18
 
@@ -304,14 +259,6 @@ De Raad regelt zijn verdeling in afdelingen, welke elk betrekking hebben op éé
 3. Wij horen de Afdeling advisering niet over de bij de Tweede Kamer der Staten-Generaal door een of meer leden aanhangig gemaakte voorstellen van wet, voordat zij door de Staten-Generaal zijn aangenomen.
 
 4. Het eerste, het tweede en het derde lid zijn van overeenkomstige toepassing ten aanzien van de Staten-Generaal in verenigde vergadering.
-
-##### Artikel 18a
-
-1. Een afdeling kan bij de voorbereiding van een ingevolge [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15&z=2010-07-01&g=2010-07-01), uit te brengen advies omtrent vernietiging van een besluit, onderscheidenlijk bij het onderzoek van en de voorbereiding van een ontwerp-besluit inzake de beslissing van geschillen als bedoeld in [artikel 15**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15c&z=2010-07-01&g=2010-07-01), belanghebbenden, getuigen, deskundigen en tolken oproepen om in een vergadering met gesloten deuren te worden gehoord. De [artikelen 32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2010-07-01&g=2010-07-01), alsmede de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:32), [8:33 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:33), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing. Ambtsberichten en andere door Onze Minister wie het aangaat aangewezen stukken zijn niet openbaar.
-
-2. Het ontwerp van een koninklijk besluit tot vernietiging is niet openbaar.
-
-3. Een door Onze Minister wie het aangaat aangewezen ambtenaar kan in een vergadering als bedoeld in het eerste lid aanwezig zijn om inlichtingen te geven.
 
 ##### Artikel 19
 
@@ -331,6 +278,10 @@ Het horen van de Afdeling advisering kan achterwege blijven over:
 
 De Afdeling advisering adviseert Ons voorts indien zij dit nodig acht.
 
+##### Artikel 21a
+
+De Afdeling advisering dient op verzoek Onze Ministers dan wel een van beide kamers der Staten-Generaal van voorlichting in aangelegenheden van wetgeving en bestuur.
+
 ##### Artikel 22
 
 In de gevallen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=17&z=2022-05-01&g=2022-05-01), wordt de aangelegenheid hetzij door Ons, op voordracht van Onze Minister wie het aangaat, hetzij door Onze Minister krachtens koninklijke machtiging, ter overweging aanhangig gemaakt.
@@ -347,79 +298,71 @@ In de gevallen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 De Afdeling advisering beraadslaagt met Onze Minister, wie het aangaat, indien de Afdeling advisering of de Minister zulks mocht verlangen.
 
-##### Artikel 24a
-
-De vice-president, de staatsraden en de staatsraden in buitengewone dienst nemen geen deel aan de beraadslagingen en stemmen niet mee, indien daardoor hun onpartijdigheid schade zou kunnen lijden.
-
-##### Artikel 24b
-
-De vice-president, de staatsraden en de staatsraden in buitengewone dienst nemen geheimhouding in acht indien deze door de Koning of door Onze Minister wie de zaak aangaat nodig is geoordeeld dan wel indien de meerderheid van degenen die aan de beraadslaging deelnemen, daartoe heeft besloten.
-
 ##### Artikel 25
 
 Van de koninklijke besluiten in aangelegenheden, waarover de Afdeling advisering is gehoord, wordt aan deze mededeling gedaan.
 
-##### Artikel 25a
-
-1. Onze Minister wie het rechtstreeks aangaat draagt zorg voor het openbaar maken in de Staatscourant van
-
-- a. adviezen van de Raad, door Ons gevraagd,
-
-- b. voordrachten en andere voorstellen Ons gedaan ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=16&z=2010-07-01&g=2010-07-01).
-
-2. Openbaarmaking van de adviezen, bedoeld in het eerste lid onder **a,** geschiedt te zamen met openbaarmaking van de aan de Raad voorgelegde tekst en van het nader rapport aan Ons. Zij heeft plaats voor wat betreft
-
-- -. adviezen over door Ons ingezonden voorstellen van wet: gelijktijdig met de inzending daarvan aan de Tweede Kamer der Staten-Generaal;
-
-- -. adviezen over voorstellen van wet door de Staten-Generaal aan Ons gedaan: gelijktijdig met de bekendmaking van de wet;
-
-- -. adviezen over verdragen met andere mogendheden en volkenrechtelijke organisaties, aan de Staten-Generaal ter stilzwijgende goedkeuring over te leggen: gelijktijdig met de overlegging daarvan aan de Staten-Generaal;
-
-- -. adviezen over algemene maatregelen van bestuur en andere koninklijke besluiten: gelijktijdig met de bekendmaking.
-
-3. Openbaarmaking van adviezen als bedoeld in het eerste lid, onder **a**, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van voordrachten en andere voorstellen, gedaan ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=16&z=2010-07-01&g=2010-07-01), geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Raad. Daarbij worden mede openbaar gemaakt het nader rapport en, in voorkomend geval, de aan de Raad voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in [artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=9).
-
-4. Openbaarmaking blijft achterwege
-
-- a. in de gevallen, bedoeld in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10);
-
-- b. indien een advies als bedoeld in het eerste lid, onder **a,** zonder meer instemmend luidt, dan wel uitsluitend opmerkingen van redaktionele aard bevat.
-
-5. De Raad doet in zijn adviezen, bedoeld in het eerste lid, voorstellen omtrent de toepassing van de bepalingen van het vierde lid.
-
-##### Artikel 25b
-
-1. De Tweede Kamer der Staten-Generaal en de Staten-Generaal in verenigde vergadering dragen zorg voor het openbaar maken van de adviezen van de Raad, bedoeld in [artikel 15**a**, eerste en tweede lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15a&z=2010-07-01&g=2010-07-01), alsmede voor een schriftelijke reactie op deze adviezen.
-
-2. Openbaarmaking van de adviezen geschiedt te zamen met openbaarmaking van de schriftelijke reactie.
-
-3. Openbaarmaking blijft achterwege:
-
-- a. in de gevallen, bedoeld in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10);
-
-- b. indien het advies zonder meer instemmend luidt, dan wel uitsluitend opmerkingen van redaktionele aard bevat.
-
-4. De Raad doet in de adviezen voorstellen omtrent de toepassing van de bepalingen van het derde lid.
-
-### Hoofdstuk II. De Afdeling bestuursrechtspraak
-
-## Titel I. Algemene bepalingen
-
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
+
+#### Afdeling 2. Overige bepalingen
+
+##### Artikel 27a
+
+1. Bij de voorbereiding van adviezen en ontwerp-besluiten beraadslaagt de Afdeling advisering met gesloten deuren.
+
+2. De Afdeling advisering beslist bij meerderheid van stemmen.
+
+3. Indien de stemmen staken, beslist de stem van de voorzitter der vergadering. Van die omstandigheid wordt in het advies melding gemaakt.
+
+4. De Afdeling advisering beslist niet, indien minder dan de helft van de leden van de Afdeling advisering aanwezig is.
+
+##### Artikel 27b
+
+1. De adviezen zijn met redenen omkleed.
+
+2. Degene die in de vergadering van de Afdeling advisering een van de meerderheid afwijkende mening heeft kenbaar gemaakt, kan een afzonderlijk advies uitbrengen.
+
+3. Dit advies wordt bij het advies van de Afdeling advisering gevoegd.
+
+##### Artikel 27c
+
+1. De voorzitter regelt de werkzaamheden van de Afdeling advisering.
+
+2. De regeling wordt in de Staatscourant bekendgemaakt.
+
+##### Artikel 27d
+
+1. Bij de voorbereiding van:
+
+- a. een advies omtrent de vernietiging van een besluit, of
+
+- b. een ontwerp-besluit omtrent een geschil als bedoeld in [artikel 136 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=136), kan de Afdeling advisering belanghebbenden, getuigen, deskundigen en tolken oproepen om te worden gehoord.
+
+2. [Artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=2&artikel=45&z=2022-05-01&g=2022-05-01) en de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing.
+
+3. Een door Onze Minister wie het aangaat aangewezen ambtenaar kan bij de beraadslaging aanwezig zijn om inlichtingen te geven.
+
+##### Artikel 27e
+
+De vice-president, de leden, de staatsraden en de staatsraden in buitengewone dienst nemen geen deel aan de beraadslagingen en stemmen niet mee, indien daardoor hun onpartijdigheid schade zou kunnen lijden.
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
+
+### Hoofdstuk III. De Afdeling bestuursrechtspraak
+
+#### Afdeling 1. Samenstelling en taak
 
 ##### Artikel 30
 
@@ -427,81 +370,71 @@ Vervallen
 
 2. De Afdeling bestuursrechtspraak bestaat uit de leden, de staatsraden en de staatsraden in buitengewone dienst die in de Afdeling bestuursrechtspraak zijn benoemd.
 
+##### Artikel 30a
+
+1. Bij koninklijk besluit op voordracht van Onze Minister van Justitie in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt uit de leden van de afdeling bestuursrechtspraak die voldoen aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2022-05-01&g=2022-05-01), een voorzitter van de afdeling bestuursrechtspraak benoemd. Voor de benoeming doet de Raad een aanbeveling, de afdeling bestuursrechtspraak gehoord.
+
+2. De benoeming geldt voor het leven. Zij kan slechts op verzoek van de voorzitter worden ingetrokken en vervalt in geval van ontslag als lid van de Raad.
+
+3. De voorzitter kan worden vervangen door een ander lid van de Afdeling bestuursrechtspraak dat voldoet aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2022-05-01&g=2022-05-01).
+
+4. De voorzitter is lid van de Raad van State, zo nodig in afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2022-05-01&g=2022-05-01).
+
+5. De voorzitter regelt de werkzaamheden van de Afdeling bestuursrechtspraak.
+
+6. De daartoe door de voorzitter schriftelijk aangewezen ambtenaren verrichten de werkzaamheden die bij of krachtens de wet aan de griffier zijn opgedragen.
+
+##### Artikel 30b
+
+De Afdeling bestuursrechtspraak is belast met de berechting van de bij de wet aan haar opgedragen geschillen.
+
+2. De Afdeling bestuursrechtspraak neemt kennis van door de rechtbank gestelde prejudiciële vragen.
+
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
-
-##### Artikel 32a
-
-Vervallen
-
-##### Artikel 32b
-
-Vervallen
-
-##### Artikel 32c
-
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
-
-##### Artikel 34a
-
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
-
-## Titel II. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
-
-#### § 1. Beroep
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen door vernummering.
-
-#### § 2. Hoger beroep
+*Vervallen door vernummering.*
 
 ##### Artikel 37
 
-Vervallen door vernummering.
+*Vervallen door vernummering.*
 
 ##### Artikel 38
 
-Vervallen door vernummering.
-
-##### Artikel 38a
-
-Vervallen
+*Vervallen door vernummering.*
 
 ##### Artikel 39
 
-Vervallen door vernummering.
-
-##### Artikel 39a
-
-1. In geval van intrekking van het hoger beroep door het bestuursorgaan kan het bestuursorgaan op verzoek van een partij bij afzonderlijke uitspraak met overeenkomstige toepassing van [artikel 8:75 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) in de kosten worden veroordeeld. Indien het hoger beroep mondeling wordt ingetrokken, wordt het verzoek door de partij die daarbij aanwezig is mondeling gedaan tegelijk met de intrekking van het hoger beroep. Indien aan dit vereiste niet is voldaan, wordt het verzoek niet-ontvankelijk verklaard. Indien het hoger beroep schriftelijk wordt ingetrokken, wordt het verzoek schriftelijk gedaan. De [artikelen 6:5 tot en met 6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:11), [6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:14), [6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:15), [6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:17) en [6:21 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:21) zijn van overeenkomstige toepassing.
-
-2. [Artikel 8:73a, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:73a) is van overeenkomstige toepassing.
+*Vervallen door vernummering.*
 
 ##### Artikel 40
 
-Vervallen door vernummering.
+*Vervallen door vernummering.*
 
 ##### Artikel 41
 
-Vervallen door vernummering.
+*Vervallen door vernummering.*
+
+#### Afdeling 2. Overige bepalingen
 
 ##### Artikel 42
 
@@ -545,543 +478,55 @@ Het is de leden van de Afdeling bestuursrechtspraak en de ten behoeve van deze a
 
 4. De regeling, bedoeld in het eerste lid, wordt gepubliceerd in de Staatscourant.
 
+#### Afdeling 3. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
+
 ##### Artikel 46
 
-Vervallen
-
-### Hoofdstuk III. Slotbepalingen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
-
-##### Artikel 77
-
-Vervallen
-
-##### Artikel 78
-
-Vervallen
-
-##### Artikel 79
-
-Vervallen
-
-##### Artikel 80
-
-Vervallen
-
-##### Artikel 81
-
-Vervallen
-
-##### Artikel 82
-
-Vervallen
-
-##### Artikel 83
-
-Vervallen
-
-##### Artikel 55a
-
-Vervallen
-
-##### Artikel 85
-
-Vervallen
-
-##### Artikel 86
-
-Vervallen
-
-##### Artikel 87
-
-Vervallen
-
-##### Artikel 58a
-
-Vervallen
-
-##### Artikel 58b
-
-Vervallen
-
-##### Artikel 58c
-
-Vervallen
-
-##### Artikel 91
-
-Vervallen
-
-##### Artikel 60
-
-Vervallen
-
-##### Artikel 60a
-
-Vervallen
-
-##### Artikel 60b
-
-Vervallen
-
-##### Artikel 60c
-
-Vervallen
-
-##### Artikel 60d
-
-Vervallen
-
-##### Artikel 60e
-
-Vervallen
-
-##### Artikel 60f
-
-Vervallen
-
-##### Artikel 60g
-
-Vervallen
-
-##### Artikel 60h
-
-Vervallen
-
-##### Artikel 61
-
-Vervallen
-
-##### Artikel 62
-
-Vervallen
-
-##### Artikel 62a
-
-Vervallen
-
-##### Artikel 63
-
-Vervallen
-
-##### Artikel 64
-
-Vervallen
-
-##### Artikel 65
-
-Vervallen
-
-##### Artikel 66
-
-Vervallen
-
-##### Artikel 67
-
-Vervallen
-
-##### Artikel 68
-
-Vervallen
-
-##### Artikel 69
-
-Vervallen
-
-##### Artikel 70
-
-Vervallen
-
-##### Artikel 71
-
-Vervallen
-
-##### Artikel 72
-
-Vervallen
-
-##### Artikel 73
-
-Vervallen
-
-##### Artikel 74
-
-Vervallen
-
-##### Artikel 75
-
-Vervallen
-
-##### Artikel 76
-
-Vervallen
-
-##### Artikel 77
-
-Vervallen
-
-##### Artikel 78
-
-Vervallen
-
-##### Artikel 79
-
-Vervallen
-
-##### Artikel 80
-
-Vervallen
-
-##### Artikel 81
-
-Vervallen
-
-##### Artikel 82
-
-Vervallen
-
-##### Artikel 83
-
-Vervallen
-
-##### Artikel 84
-
-Vervallen
-
-##### Artikel 85
-
-Vervallen
-
-##### Artikel 86
-
-Vervallen
-
-##### Artikel 87
-
-Vervallen
-
-##### Artikel 88
-
-Vervallen
-
-##### Artikel 89
-
-Vervallen
-
-##### Artikel 90
-
-Vervallen
-
-##### Artikel 91
-
-Vervallen
-
-##### Artikel 92
-
-Vervallen
-
-##### Artikel 93
-
-Vervallen
-
-##### Artikel 94
-
-Vervallen
-
-##### Artikel 95
-
-Vervallen
-
-##### Artikel 96
-
-Vervallen
-
-##### Artikel 97
-
-Vervallen
-
-##### Artikel 98
-
-Vervallen
-
-##### Artikel 99
-
-Vervallen
-
-##### Artikel 100
-
-Vervallen
-
-##### Artikel 101
-
-Vervallen
-
-##### Artikel 102
-
-Vervallen
-
-##### Artikel 103
-
-Vervallen
-
-##### Artikel 104
-
-Vervallen
-
-##### Artikel 105
-
-Vervallen
-
-##### Artikel 106
-
-Vervallen
-
-##### Artikel 107
-
-Vervallen
-
-##### Artikel 108
-
-Vervallen
-
-##### Artikel 109
-
-Vervallen
-
-##### Artikel 110
-
-Vervallen
-
-##### Artikel 111
-
-Vervallen
-
-##### Artikel 112
-
-Vervallen
-
-##### Artikel 113
-
-Vervallen
-
-##### Artikel 114
-
-Vervallen
-
-##### Artikel 115
-
-Vervallen
-
-##### Artikel 116
-
-Vervallen
-
-##### Artikel 117
-
-Vervallen
-
-##### Artikel 118
-
-Vervallen
-
-##### Artikel 119
-
-Vervallen
-
-##### Artikel 120
-
-Vervallen
-
-##### Artikel 121
-
-Vervallen
-
-##### Artikel 122
-
-Vervallen
-
-##### Artikel 123
-
-Vervallen
-
-##### Artikel 124
-
-Vervallen
-
-##### Artikel 125
-
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Afdeling 1. Samenstelling en taak
-
-##### Artikel 6
-
-1. Alvorens hun ambt te aanvaarden leggen de vice-president en de leden in handen van de Koning de volgende eed (verklaring en belofte) af:
-
-«Ik zweer (verklaar) dat ik, tot het verkrijgen van mijn aanstelling, middellijk noch onmiddellijk, onder welke naam of welk voorwendsel ook, aan iemand iets heb gegeven of beloofd.
-
-Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, van niemand enig geschenk of enige belofte heb aangenomen of zal aannemen, middellijk of onmiddellijk.
-
-Ik zweer (beloof) trouw aan de Koning, dat ik het Statuut voor het Koninkrijk en de Grondwet steeds zal helpen onderhouden en mijn ambt met eerlijkheid, nauwgezetheid en onpartijdigheid zal vervullen.
-
-Zo waarlijk helpe mij God almachtig!»
-
-(Dat verklaar en beloof ik»).
-
-2. Deze eed (verklaring en belofte) kan door de leden ook worden afgelegd in een vergadering van de Raad in handen van de vice-president, daartoe door de Koning gemachtigd.
-
-##### Artikel 7a
-
-De Raad is belast met de taken, bij de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=35) en [38 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=38) aan hem opgedragen.
-
-### Afdeling 2. Staatsraden en staatsraden in buitengewone dienst
-
-##### Artikel 9
-
-De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid van de Raad.
-
-### Afdeling 3. De secretaris en de ambtenaren van staat
-
-### Afdeling 4. Overige bepalingen
-
-### Hoofdstuk II. De Afdeling advisering
-
-### Afdeling 1. Samenstelling en taak
-
-##### Artikel 16a
-
-1. De Raad kent een Afdeling advisering.
-
-2. De Afdeling advisering bestaat uit:
-
-- a. de vice-president en
-
-- b. de leden, de staatsraden en de staatsraden in buitengewone dienst die in de Afdeling advisering zijn benoemd.
-
-3. De leden van het koninklijk huis, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2022-05-01&g=2022-05-01), hebben zitting in de Afdeling advisering. Artikel 1, vierde lid, is van overeenkomstige toepassing.
-
-4. De vice-president is voorzitter van de Afdeling advisering. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=7&z=2022-05-01&g=2022-05-01) is van overeenkomstige toepassing.
-
-##### Artikel 21a
-
-De Afdeling advisering dient op verzoek Onze Ministers dan wel een van beide kamers der Staten-Generaal van voorlichting in aangelegenheden van wetgeving en bestuur.
-
-### Afdeling 2. Overige bepalingen
-
-##### Artikel 27a
-
-1. Bij de voorbereiding van adviezen en ontwerp-besluiten beraadslaagt de Afdeling advisering met gesloten deuren.
-
-2. De Afdeling advisering beslist bij meerderheid van stemmen.
-
-3. Indien de stemmen staken, beslist de stem van de voorzitter der vergadering. Van die omstandigheid wordt in het advies melding gemaakt.
-
-4. De Afdeling advisering beslist niet, indien minder dan de helft van de leden van de Afdeling advisering aanwezig is.
-
-##### Artikel 27b
-
-1. De adviezen zijn met redenen omkleed.
-
-2. Degene die in de vergadering van de Afdeling advisering een van de meerderheid afwijkende mening heeft kenbaar gemaakt, kan een afzonderlijk advies uitbrengen.
-
-3. Dit advies wordt bij het advies van de Afdeling advisering gevoegd.
-
-##### Artikel 27c
-
-1. De voorzitter regelt de werkzaamheden van de Afdeling advisering.
-
-2. De regeling wordt in de Staatscourant bekendgemaakt.
-
-##### Artikel 27d
-
-1. Bij de voorbereiding van:
-
-- a. een advies omtrent de vernietiging van een besluit, of
-
-- b. een ontwerp-besluit omtrent een geschil als bedoeld in [artikel 136 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=136), kan de Afdeling advisering belanghebbenden, getuigen, deskundigen en tolken oproepen om te worden gehoord.
-
-2. [Artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=2&artikel=45&z=2022-05-01&g=2022-05-01) en de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing.
-
-3. Een door Onze Minister wie het aangaat aangewezen ambtenaar kan bij de beraadslaging aanwezig zijn om inlichtingen te geven.
-
-##### Artikel 27e
-
-De vice-president, de leden, de staatsraden en de staatsraden in buitengewone dienst nemen geen deel aan de beraadslagingen en stemmen niet mee, indien daardoor hun onpartijdigheid schade zou kunnen lijden.
-
-### Hoofdstuk III. De Afdeling bestuursrechtspraak
-
-### Afdeling 1. Samenstelling en taak
-
-##### Artikel 30a
-
-1. Bij koninklijk besluit op voordracht van Onze Minister van Justitie in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt uit de leden van de afdeling bestuursrechtspraak die voldoen aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2022-05-01&g=2022-05-01), een voorzitter van de afdeling bestuursrechtspraak benoemd. Voor de benoeming doet de Raad een aanbeveling, de afdeling bestuursrechtspraak gehoord.
-
-2. De benoeming geldt voor het leven. Zij kan slechts op verzoek van de voorzitter worden ingetrokken en vervalt in geval van ontslag als lid van de Raad.
-
-3. De voorzitter kan worden vervangen door een ander lid van de Afdeling bestuursrechtspraak dat voldoet aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2022-05-01&g=2022-05-01).
-
-4. De voorzitter is lid van de Raad van State, zo nodig in afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2022-05-01&g=2022-05-01).
-
-5. De voorzitter regelt de werkzaamheden van de Afdeling bestuursrechtspraak.
-
-6. De daartoe door de voorzitter schriftelijk aangewezen ambtenaren verrichten de werkzaamheden die bij of krachtens de wet aan de griffier zijn opgedragen.
-
-##### Artikel 30b
-
-1.
-
-De Afdeling bestuursrechtspraak is belast met de berechting van de bij de wet aan haar opgedragen geschillen.
-
-2. De Afdeling bestuursrechtspraak neemt kennis van door de rechtbank gestelde prejudiciële vragen.
-
-### Afdeling 2. Overige bepalingen
-
-### Afdeling 3. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Slotbepalingen
 
@@ -1095,28 +540,302 @@ Vervallen
 
 Deze wet wordt aangehaald als: Wet op de Raad van State.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 60
 
-##### Artikel 13a
+*Vervallen*
 
-1. Ten aanzien van de secretaris en de aan de Raad toegevoegde ambtenaren gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
+##### Artikel 60a
 
-2. Op verzoek van de Raad van State kunnen in de collectieve arbeidsovereenkomst, bedoeld in het eerste lid, andere arbeidsvoorwaarden voor de secretaris en de aan de Raad toegevoegde ambtenaren worden opgenomen.
+*Vervallen*
 
-### Hoofdstuk II. De Afdeling advisering
+##### Artikel 60b
 
-### Afdeling 1. Samenstelling en taak
+*Vervallen*
 
-### Afdeling 2. Overige bepalingen
+##### Artikel 60c
 
-### Hoofdstuk III. De Afdeling bestuursrechtspraak
+*Vervallen*
 
-### Afdeling 1. Samenstelling en taak
+##### Artikel 60d
 
-### Afdeling 2. Overige bepalingen
+*Vervallen*
 
-### Afdeling 3. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
+##### Artikel 60e
 
-### Hoofdstuk IV. Slotbepalingen
+*Vervallen*
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 60f
+
+*Vervallen*
+
+##### Artikel 60g
+
+*Vervallen*
+
+##### Artikel 60h
+
+*Vervallen*
+
+##### Artikel 61
+
+*Vervallen*
+
+##### Artikel 62
+
+*Vervallen*
+
+##### Artikel 62a
+
+*Vervallen*
+
+##### Artikel 63
+
+*Vervallen*
+
+##### Artikel 64
+
+*Vervallen*
+
+##### Artikel 65
+
+*Vervallen*
+
+##### Artikel 66
+
+*Vervallen*
+
+##### Artikel 67
+
+*Vervallen*
+
+##### Artikel 68
+
+*Vervallen*
+
+##### Artikel 69
+
+*Vervallen*
+
+##### Artikel 70
+
+*Vervallen*
+
+##### Artikel 71
+
+*Vervallen*
+
+##### Artikel 72
+
+*Vervallen*
+
+##### Artikel 73
+
+*Vervallen*
+
+##### Artikel 74
+
+*Vervallen*
+
+##### Artikel 75
+
+*Vervallen*
+
+##### Artikel 76
+
+*Vervallen*
+
+##### Artikel 77
+
+*Vervallen*
+
+##### Artikel 78
+
+*Vervallen*
+
+##### Artikel 79
+
+*Vervallen*
+
+##### Artikel 80
+
+*Vervallen*
+
+##### Artikel 81
+
+*Vervallen*
+
+##### Artikel 82
+
+*Vervallen*
+
+##### Artikel 83
+
+*Vervallen*
+
+##### Artikel 84
+
+*Vervallen*
+
+##### Artikel 85
+
+*Vervallen*
+
+##### Artikel 86
+
+*Vervallen*
+
+##### Artikel 87
+
+*Vervallen*
+
+##### Artikel 88
+
+*Vervallen*
+
+##### Artikel 89
+
+*Vervallen*
+
+##### Artikel 90
+
+*Vervallen*
+
+##### Artikel 91
+
+*Vervallen*
+
+##### Artikel 92
+
+*Vervallen*
+
+##### Artikel 93
+
+*Vervallen*
+
+##### Artikel 94
+
+*Vervallen*
+
+##### Artikel 95
+
+*Vervallen*
+
+##### Artikel 96
+
+*Vervallen*
+
+##### Artikel 97
+
+*Vervallen*
+
+##### Artikel 98
+
+*Vervallen*
+
+##### Artikel 99
+
+*Vervallen*
+
+##### Artikel 100
+
+*Vervallen*
+
+##### Artikel 101
+
+*Vervallen*
+
+##### Artikel 102
+
+*Vervallen*
+
+##### Artikel 103
+
+*Vervallen*
+
+##### Artikel 104
+
+*Vervallen*
+
+##### Artikel 105
+
+*Vervallen*
+
+##### Artikel 106
+
+*Vervallen*
+
+##### Artikel 107
+
+*Vervallen*
+
+##### Artikel 108
+
+*Vervallen*
+
+##### Artikel 109
+
+*Vervallen*
+
+##### Artikel 110
+
+*Vervallen*
+
+##### Artikel 111
+
+*Vervallen*
+
+##### Artikel 112
+
+*Vervallen*
+
+##### Artikel 113
+
+*Vervallen*
+
+##### Artikel 114
+
+*Vervallen*
+
+##### Artikel 115
+
+*Vervallen*
+
+##### Artikel 116
+
+*Vervallen*
+
+##### Artikel 117
+
+*Vervallen*
+
+##### Artikel 118
+
+*Vervallen*
+
+##### Artikel 119
+
+*Vervallen*
+
+##### Artikel 120
+
+*Vervallen*
+
+##### Artikel 121
+
+*Vervallen*
+
+##### Artikel 122
+
+*Vervallen*
+
+##### Artikel 123
+
+*Vervallen*
+
+##### Artikel 124
+
+*Vervallen*
+
+##### Artikel 125
+
+*Vervallen*

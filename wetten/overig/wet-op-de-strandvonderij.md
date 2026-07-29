@@ -1,42 +1,18 @@
 ---
 title: "Wet van 27 juli 1931, houdende regeling der strandvonderij"
+citeertitel: "Wet op de strandvonderij"
 identifier: "BWBR0001951"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001951"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1356583"
-version_id: "2019422"
-internal_id: "C2019421"
-label_id: "1315724"
-dtd_version: "2.0"
-original_entry_into_force: "1934-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001951/2017-09-01/0"
-intitule_bron: "Stb.1931-321"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1931-07-27"
-intitule_status: "goed"
-original_publication: "Stb.1931-321"
-original_signed_date: "1931-07-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1934-04-01"
-jci_1_3: "jci1.3:c:BWBR0001951&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0001951&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de strandvonderij"
-signed_date: "1931-07-27"
-entry_into_force: "1934-04-01"
+publicatiedatum: 1934-04-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0001951"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 27 juli 1931, houdende regeling der strandvonderij
-
-Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het wenschelijk is bij afzonderlijke wet bepalingen vast te stellen in zake de strandvonderij;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -46,7 +22,7 @@ In alle aan zee grenzende gemeenten wordt het beheer der strandvonderij uitgeoef
 
 1. De burgemeester der gemeente bekleedt van rechtswege het ambt van strandvonder. In geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), bekleedt de voorzitter van de veiligheidsregio voor het uitvoeren van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=5&z=2017-09-01&g=2017-09-01), van rechtswege het ambt van strandvonder.
 
-2. Bij verhindering of ontstentenis van de burgemeester wordt het ambt van strandvonder waargenomen door degene die ingevolge de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) en [78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) (**Stb.** , ) het ambt van burgemeester waarneemt.
+2. Bij verhindering of ontstentenis van de burgemeester wordt het ambt van strandvonder waargenomen door degene die ingevolge de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) en [78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) (*Stb.* , ) het ambt van burgemeester waarneemt.
 
 ##### Artikel 3
 
@@ -118,7 +94,7 @@ De strandvonder is bevoegd zodanige onder zijn beheer zich bevindende zaken, wel
 
 1. Zoodra iemand zijn recht ten aanzien van de geborgen zaken bewijst, zal de strandvonder deze - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) heeft toepassing gevonden, de opbrengst er van - na bekomen machtiging van Gedeputeerde Staten tegen betaling van de verschuldigde hulploonen, beheerloonen en kosten, aan den rechthebbende afgeven. Na deze afgifte vervalt de verplichting tot het doen van de in het vorige artikel bedoelde oproeping.
 
-2. In geval van twijfel over het recht van den reclamant, van tegenspraak van derden, of indien over het bedrag der beheerloonen en kosten of wel - tusschen de redders en de rechthebbenden - over het bedrag der verschuldigde hulploonen verschil bestaat, wordt de afgifte geweigerd en het geschil beslecht door den in de [tweede afdeling van de derde titel van het eerste boek](onbekend) of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter; deze is bevoegd, op eenvoudig verzoek afgifte tegen zekerheidstelling te gelasten.
+2. In geval van twijfel over het recht van den reclamant, van tegenspraak van derden, of indien over het bedrag der beheerloonen en kosten of wel - tusschen de redders en de rechthebbenden - over het bedrag der verschuldigde hulploonen verschil bestaat, wordt de afgifte geweigerd en het geschil beslecht door den in de tweede afdeling van de derde titel van het eerste boek of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter; deze is bevoegd, op eenvoudig verzoek afgifte tegen zekerheidstelling te gelasten.
 
 3. De strandvonder keert de door hem ontvangen hulploonen aan de redders uit.
 
@@ -134,7 +110,7 @@ Indien na het verstrijken van twee maanden na de oproeping reclamanten zich niet
 
 ##### Artikel 19
 
-1. Na den verkoop, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2017-09-01&g=2017-09-01) - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) heeft toepassing gevonden, nadat twee maanden zijn verstreken na de oproeping, zonder dat zich reclamanten hebben opgedaan, dan wel nadat, na toepassing van het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=16&z=2017-09-01&g=2017-09-01), gebleken is, dat de ingestelde reclames tot afgifte niet kunnen leiden - keert de strandvonder uit de opbrengst de verschuldigde hulploonen aan de redders uit; ontstaat omtrent het bedrag daarvan tusschen hem en de redders verschil, dan moet dit geschil worden beslecht door den in de [tweede afdeling van de derde titel van het eerste boek](onbekend) of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter.
+1. Na den verkoop, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=17&z=2017-09-01&g=2017-09-01) - of, indien [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=14&z=2017-09-01&g=2017-09-01) heeft toepassing gevonden, nadat twee maanden zijn verstreken na de oproeping, zonder dat zich reclamanten hebben opgedaan, dan wel nadat, na toepassing van het [tweede lid van artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=16&z=2017-09-01&g=2017-09-01), gebleken is, dat de ingestelde reclames tot afgifte niet kunnen leiden - keert de strandvonder uit de opbrengst de verschuldigde hulploonen aan de redders uit; ontstaat omtrent het bedrag daarvan tusschen hem en de redders verschil, dan moet dit geschil worden beslecht door den in de tweede afdeling van de derde titel van het eerste boek of [artikel 637 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=637) aangewezen rechter.
 
 2. De strandvonder zendt voorts zo spoedig mogelijk na het in het eerste lid bedoelde tijdstip, alsmede indien de zaken in natura aan de rechthebbende zijn afgegeven, de rekening en verantwoording betreffende het door hem gevoerde beheer, de verkoop en de door hem betaalde of nog te betalen hulplonen, beheerlonen en kosten aan de gemeenteraad.
 
@@ -146,7 +122,7 @@ Indien na het verstrijken van twee maanden na de oproeping reclamanten zich niet
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
@@ -174,7 +150,7 @@ nadere regels te stellen ter bevordering van eene goede uitvoering dezer wet.
 
 ##### Artikel 24
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 25
 
@@ -185,5 +161,3 @@ In de gevallen, waarin de hulp is verleend vóór het in werking treden van deze
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 2. Zij kan worden aangehaald onder den titel: "Wet op de strandvonderij".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

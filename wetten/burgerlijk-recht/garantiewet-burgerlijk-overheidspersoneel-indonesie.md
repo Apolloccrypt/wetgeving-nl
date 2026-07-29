@@ -1,66 +1,40 @@
 ---
 title: "Wet van 11 mei 1950, tot vaststelling van zekere waarborgen jegens bepaalde groepen burgerlijke overheidsdienaren en gewezen burgerlijke overheidsdienaren van Indonesië en hun nagelaten betrekkingen"
+citeertitel: "Garantiewet Burgerlijk Overheidspersoneel Indonesië"
 identifier: "BWBR0002060"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002060"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1313803"
-version_id: "1954852"
-internal_id: "C1954851"
-label_id: "1273354"
-dtd_version: "2.0"
-original_entry_into_force: "1950-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002060/2013-01-01/0"
-intitule_bron: "Stb.1950-K 178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1950-05-11"
-intitule_status: "goed"
-original_publication: "Stb.1950-K 178"
-original_signed_date: "1950-05-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "1499"
-entry_into_force_date: "1950-06-03"
-entry_into_force_dossier: "1499"
-jci_1_3: "jci1.3:c:BWBR0002060&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002060&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Garantiewet Burgerlijk Overheidspersoneel Indonesië"
-signed_date: "1950-05-11"
-entry_into_force: "1950-06-03"
+publicatiedatum: 1950-06-03
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002060"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 11 mei 1950, tot vaststelling van zekere waarborgen jegens bepaalde groepen burgerlijke overheidsdienaren en gewezen burgerlijke overheidsdienaren van Indonesië en hun nagelaten betrekkingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de overgang naar een nieuwe rechtsorde zekere waarborgen van het Rijk jegens bepaalde groepen burgerlijke overheidsdienaren en gewezen burgerlijke overheidsdienaren van Indonesië en hun nagelaten betrekkingen bij de wet vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 Voor de toepassing van het bij deze wet bepaalde wordt verstaan onder:
 
-- I. "overheidsdienaren": burgerlijke landsdienaren van Indonesië, en personen in dienst van de zelfstandige gemeenschappen, ingesteld op de voet van de artikelen 119, 121 of 123 der Indische Staatsregeling, voorzover de onder **a**, **b** en **c** bedoelde personen Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 8**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=5&z=2013-01-01&g=2013-01-01).
+- I. "overheidsdienaren": burgerlijke landsdienaren van Indonesië, en personen in dienst van de zelfstandige gemeenschappen, ingesteld op de voet van de artikelen 119, 121 of 123 der Indische Staatsregeling, voorzover de onder *a*, *b* en *c* bedoelde personen Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 8*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=5&z=2013-01-01&g=2013-01-01).
 
-- a. die op 5 Augustus 1949: hetzij in vaste dienst waren, hetzij waren aangenomen op een kortverband, waaraan recht op vrije overtocht naar Nederland is verbonden, mits op die aanneming een feitelijke indiensttreding is gevolgd, hetzij in tijdelijke dienst waren sedert een aan 1 Maart 1942 voorafgaand tijdstip, hetzij in tijdelijke dienst waren in aansluiting op een dienstverband, dat door het Reglement betreffende de aanneming en de dienstvoorwaarden van werkkrachten op maand-, dag- of uurloon (M.D.R. 1939) of daarmede in aard overeenkomende reglementen werd beheerst, of op een kortverband, dan wel op een betrekking als bijzondere leerkracht in de zin van artikel 1 onder 2° van het Pensioenreglement voor bijzondere leerkrachten, mits deze verbanden of deze betrekking bestonden sedert een aan 1 Maart 1942 voorafgaand tijdstip, hetzij in tijdelijke dienst waren en sedert een aan 1 Maart 1942 voorafgaand tijdstip tot aan dat van aanstelling in tijdelijke dienst als dienst- of reserveplichtige onafgebroken in militaire dienst zijn geweest;
+   - a. die op 5 Augustus 1949: hetzij in vaste dienst waren, hetzij waren aangenomen op een kortverband, waaraan recht op vrije overtocht naar Nederland is verbonden, mits op die aanneming een feitelijke indiensttreding is gevolgd, hetzij in tijdelijke dienst waren sedert een aan 1 Maart 1942 voorafgaand tijdstip, hetzij in tijdelijke dienst waren in aansluiting op een dienstverband, dat door het Reglement betreffende de aanneming en de dienstvoorwaarden van werkkrachten op maand-, dag- of uurloon (M.D.R. 1939) of daarmede in aard overeenkomende reglementen werd beheerst, of op een kortverband, dan wel op een betrekking als bijzondere leerkracht in de zin van artikel 1 onder 2° van het Pensioenreglement voor bijzondere leerkrachten, mits deze verbanden of deze betrekking bestonden sedert een aan 1 Maart 1942 voorafgaand tijdstip, hetzij in tijdelijke dienst waren en sedert een aan 1 Maart 1942 voorafgaand tijdstip tot aan dat van aanstelling in tijdelijke dienst als dienst- of reserveplichtige onafgebroken in militaire dienst zijn geweest;
 
-- b. die na 5 Augustus 1949, doch vóór de souvereiniteitsoverdracht zijn aangesteld in vaste dienst, of aangenomen op een kortverband, waaraan recht op vrije overtocht naar Nederland is verbonden;
+   - b. die na 5 Augustus 1949, doch vóór de souvereiniteitsoverdracht zijn aangesteld in vaste dienst, of aangenomen op een kortverband, waaraan recht op vrije overtocht naar Nederland is verbonden;
 
-- c. die voor de toepassing van deze wet door Onze Minister in overeenstemming met Onze Minister van Financiën met een der onder **a** of **b** bedoelde categorieën zijn gelijkgesteld;
+   - c. die voor de toepassing van deze wet door Onze Minister in overeenstemming met Onze Minister van Financiën met een der onder *a* of *b* bedoelde categorieën zijn gelijkgesteld;
 
-- II. "gewezen overheidsdienaren": voorzover de onder **a** en **b** bedoelde personen Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 8**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=5&z=2013-01-01&g=2013-01-01).
+- II. "gewezen overheidsdienaren": voorzover de onder *a* en *b* bedoelde personen Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 8*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=5&z=2013-01-01&g=2013-01-01).
 
-- a. personen, die na Augustus 1945 in overheidsdienst aan de wederopbouw van Indonesië daadwerkelijk hebben medegewerkt dan wel - ter beslissing van de commissie - daartoe wel bereid zijnde, buiten eigen schuld of toedoen daartoe verhinderd zijn geweest, wier dienstverband op een tijdstip vóór 5 Augustus 1949 is geëindigd en die op dat tijdstip een der dienstverbanden hadden als omschreven onder I;
+   - a. personen, die na Augustus 1945 in overheidsdienst aan de wederopbouw van Indonesië daadwerkelijk hebben medegewerkt dan wel - ter beslissing van de commissie - daartoe wel bereid zijnde, buiten eigen schuld of toedoen daartoe verhinderd zijn geweest, wier dienstverband op een tijdstip vóór 5 Augustus 1949 is geëindigd en die op dat tijdstip een der dienstverbanden hadden als omschreven onder I;
 
-- b. personen, die op of na 1 Maart 1942, doch vóór het tijdstip van de souvereiniteitsoverdracht in tijdelijke dienst van het Land of van een der onder I bedoelde zelfstandige gemeenschappen zijn getreden en wegens in en door de dienst bekomen letsel of gebreken zijn of zullen zijn ontslagen;
+   - b. personen, die op of na 1 Maart 1942, doch vóór het tijdstip van de souvereiniteitsoverdracht in tijdelijke dienst van het Land of van een der onder I bedoelde zelfstandige gemeenschappen zijn getreden en wegens in en door de dienst bekomen letsel of gebreken zijn of zullen zijn ontslagen;
 
-- III. "nagelaten betrekkingen": betrekkingen van een overleden overheidsdienaar, een overleden gewezen overheidsdienaar, zomede van een Nederlander, die nà 1 Maart 1942, doch vóór September 1945, dan wel wegens oorlogsletsel in het tijdvak van 8 December 1941 tot en met 1 Maart 1942 is overleden, en op het tijdstip van overlijden een der dienstverbanden had als omschreven onder I, een en ander voor zover zij op grond van dat overlijden gerechtigd zijn tot een uitkering van overheidswege en voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 8**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=5&z=2013-01-01&g=2013-01-01).
+- III. "nagelaten betrekkingen": betrekkingen van een overleden overheidsdienaar, een overleden gewezen overheidsdienaar, zomede van een Nederlander, die nà 1 Maart 1942, doch vóór September 1945, dan wel wegens oorlogsletsel in het tijdvak van 8 December 1941 tot en met 1 Maart 1942 is overleden, en op het tijdstip van overlijden een der dienstverbanden had als omschreven onder I, een en ander voor zover zij op grond van dat overlijden gerechtigd zijn tot een uitkering van overheidswege en voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 8*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=5&z=2013-01-01&g=2013-01-01).
 
-- IV. "afvloeiingsvoorwaarden": de afvloeiingsvoorwaarden, behorende bij de Overeenkomst inzake de positie van de Burgerlijke Overheidsdienaren in verband met de souvereiniteitsoverdracht (**Stb.** J 570).
+- IV. "afvloeiingsvoorwaarden": de afvloeiingsvoorwaarden, behorende bij de Overeenkomst inzake de positie van de Burgerlijke Overheidsdienaren in verband met de souvereiniteitsoverdracht (*Stb.* J 570).
 
 - V. "normaal pensioen": het pensioen, waarop recht wordt verkregen bij het bereiken van een diensttijd van 20 en een leeftijd van 50 jaar, onderscheidenlijk van een diensttijd van 25 en een leeftijd van 55 jaar, naar gelang de door de betrokken overheidsdienaar beklede betrekking krachtens de terzake op 5 Augustus 1949 voor hem van kracht zijnde pensioenregeling is ingedeeld in de daarin bedoelde pensioengroep I, onderscheidenlijk pensioengroep II.
 
@@ -90,9 +64,9 @@ Voor de toepassing van het bij deze wet bepaalde wordt verstaan onder:
 
 - a. op het tijdstip van beëindiging van dat dienstverband een bezoldiging genoten van ten minste R 485 ’s maands en - ter beslissing van de commissie - bijzondere belangen in Europa hebben in de zin van artikel 3, tweede lid van het Buitenlands verlofreglement 1937;
 
-- b. niet voldoen aan de onder **a** gestelde voorwaarden, doch - zulks ter beslissing van de commissie - in omstandigheden zijn komen te verkeren, welke van dien aard zijn, dat zij niet langer in Indonesië kunnen verblijven, hetzij ten gevolge van dan wel in samenhang met de uitoefening van hun functie, hetzij ten gevolge van het uittreden uit die functie nadat doordienen ten gevolge van dan wel in samenhang met de uitoefening van hun functie onmogelijk was geworden.
+- b. niet voldoen aan de onder *a* gestelde voorwaarden, doch - zulks ter beslissing van de commissie - in omstandigheden zijn komen te verkeren, welke van dien aard zijn, dat zij niet langer in Indonesië kunnen verblijven, hetzij ten gevolge van dan wel in samenhang met de uitoefening van hun functie, hetzij ten gevolge van het uittreden uit die functie nadat doordienen ten gevolge van dan wel in samenhang met de uitoefening van hun functie onmogelijk was geworden.
 
-Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van een gezin, omschreven in artikel 2 van het Koninklijk besluit van 22 Juni 1916 (**Indisch Staatsblad** 1916, no. 605), zoals dit luidde op 5 Augustus 1949. In bijzondere gevallen kunnen door Onze Minister in overeenstemming met Onze Minister van Financiën ook andere personen als gezinsleden worden aangemerkt.
+Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van een gezin, omschreven in artikel 2 van het Koninklijk besluit van 22 Juni 1916 (*Indisch Staatsblad* 1916, no. 605), zoals dit luidde op 5 Augustus 1949. In bijzondere gevallen kunnen door Onze Minister in overeenstemming met Onze Minister van Financiën ook andere personen als gezinsleden worden aangemerkt.
 
 4. Op verzoek van betrokkene kan Onze Minister beslissen, dat in de gevallen, waarin recht bestaat op vrije overtocht naar Nederland ten laste van het Rijk, in de plaats van die vrije overtocht ten laste van het Rijk een geldelijke uitkering aan betrokkene wordt toegekend.
 
@@ -112,7 +86,7 @@ Onverminderd de verplichting tot toekenning en voldoening van weduwenpensioenen 
 
 ##### Artikel 4a
 
-1. Bij beëindiging van het dienstverband onder toekenning van een uitkering krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2&z=2013-01-01&g=2013-01-01) of [2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2a&z=2013-01-01&g=2013-01-01) behoudt de overheidsdienaar in vaste dienst voor zijn weduwe en wezen recht op pensioen onderscheidenlijk onderstand ten laste van de Pensioenstichting op de voet van de rechten en verplichtingen, verbonden aan het verplichte deelgenootschap in een der voormalige Weduwen- en Wezenfondsen of van het voormalige Europees Locaal Pensioenfonds, zulks gerekend van de datum van die beëindiging.
+1. Bij beëindiging van het dienstverband onder toekenning van een uitkering krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2&z=2013-01-01&g=2013-01-01) of [2*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2a&z=2013-01-01&g=2013-01-01) behoudt de overheidsdienaar in vaste dienst voor zijn weduwe en wezen recht op pensioen onderscheidenlijk onderstand ten laste van de Pensioenstichting op de voet van de rechten en verplichtingen, verbonden aan het verplichte deelgenootschap in een der voormalige Weduwen- en Wezenfondsen of van het voormalige Europees Locaal Pensioenfonds, zulks gerekend van de datum van die beëindiging.
 
 2. Wanneer de door een overheidsdienaar in vaste dienst terzake van de dienstbeëindiging genoten inkomsten blijvend ophouden, is van dat tijdstip af het bepaalde in het vorige lid alleen van toepassing, indien door de Pensioenstichting van de betrokken overheidsdienaar het verzoek daartoe wordt ontvangen binnen zes maanden nadat die inkomsten hebben opgehouden dan wel, indien deze termijn bij de inwerkingtreding van deze wet reeds geheel of ten dele is verstreken, binnen zes maanden na die inwerkingtreding. In dit geval worden de door hem verschuldigde bijdragen, behoudens het bepaalde in de volgende leden, berekend over de laatstelijk terzake van die dienstbeëindiging genoten inkomsten.
 
@@ -124,7 +98,7 @@ Onverminderd de verplichting tot toekenning en voldoening van weduwenpensioenen 
 
 ##### Artikel 4b
 
-In de gevallen, waarin in de op 5 Augustus 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in [artikel 4**a**, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01), voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
+In de gevallen, waarin in de op 5 Augustus 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in [artikel 4*a*, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01), voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
 
 ##### Artikel 4c
 
@@ -138,7 +112,7 @@ In de gevallen, waarin in de op 5 Augustus 1949 van kracht zijnde regelingen aan
 
 2. Over de in lid 1 bedoelde uitkeringen zijn door de betrokkene volgens de terzake op 5 Augustus 1949 van kracht zijnde regelingen bijdragen verschuldigd voor de eigen pensioenen en op de voet van het bepaalde in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01) voor de weduwenpensioenen en wezenonderstanden.
 
-3. De nominale bedragen van de onderstand bij wijze van pensioen, bedoeld sub B van de afvloeiingsvoorwaarden, zomede van de blijvende onderstand, bedoeld in [artikel 12 van de wet van 21 December 1951 (**Stb.** 592)](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&artikel=12), worden naar boven afgerond tot het naastbijliggende veelvoud van een halve euro of halve rupiah. De nominale bedragen van andere periodieke uitkeringen worden naar boven afgerond tot het naastbijliggende veelvoud van één euro of één rupiah.
+3. De nominale bedragen van de onderstand bij wijze van pensioen, bedoeld sub B van de afvloeiingsvoorwaarden, zomede van de blijvende onderstand, bedoeld in [artikel 12 van de wet van 21 December 1951 (*Stb.* 592)](https://wetten.overheid.nl/jci1.3:c:BWBR0002083&artikel=12), worden naar boven afgerond tot het naastbijliggende veelvoud van een halve euro of halve rupiah. De nominale bedragen van andere periodieke uitkeringen worden naar boven afgerond tot het naastbijliggende veelvoud van één euro of één rupiah.
 
 4. De periodieke uitkeringen aan buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen, uit hoofde van of krachtens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4&z=2013-01-01&g=2013-01-01) van deze wet gegeven garantie, worden met inachtneming van de door of namens Onze Minister te geven aanwijzingen toegekend door de Raad van Beheer van de Pensioenstichting ten laste van die stichting.
 
@@ -262,7 +236,7 @@ welke bedragen voor ieder minderjarig kind dat tot de betrokkene in familierecht
 
 4. In bijzondere gevallen kan, ter beslissing van de commissie, aan de in de vorige leden bedoelde personen, die, waren zij Nederlanders gebleven, uit hoofde van of krachtens deze wet recht op vrije overtocht naar Nederland zouden hebben, vrij vervoer naar Nederland op redelijke voorwaarden worden verleend.
 
-5. De Indonesische staatsburgers, die garanties genieten krachtens het bepaalde in [lid 2 van artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01), zoals dat luidde ingevolge de wet van 21 December 1951 (**Stb.** 591), behouden deze garanties, met dien verstande, dat de [artikelen 4a tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing zijn.
+5. De Indonesische staatsburgers, die garanties genieten krachtens het bepaalde in [lid 2 van artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01), zoals dat luidde ingevolge de wet van 21 December 1951 (*Stb.* 591), behouden deze garanties, met dien verstande, dat de [artikelen 4a tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing zijn.
 
 ##### Artikel 8b
 
@@ -270,7 +244,7 @@ Voor gevallen, waarin deze wet of de afvloeiingsvoorwaarden niet of niet naar bi
 
 ##### Artikel 8c
 
-De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=10&z=2013-01-01&g=2013-01-01) van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het [tweede lid van artikel 4**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4c&z=2013-01-01&g=2013-01-01) bedoelde duurtetoeslag buiten aanmerking wordt gelaten.
+De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=10&z=2013-01-01&g=2013-01-01) van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het [tweede lid van artikel 4*c*](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4c&z=2013-01-01&g=2013-01-01) bedoelde duurtetoeslag buiten aanmerking wordt gelaten.
 
 ##### Artikel 9
 
@@ -284,14 +258,12 @@ Tenzij bij of krachtens deze wet uitdrukkelijk anders is bepaald, worden de ter 
 
 ##### Artikel 9b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
 Deze wet treedt in werking met ingang van de dag, volgende op die van haar afkondiging. Zij kan worden aangehaald als "Garantiewet Burgerlijk Overheidspersoneel Indonesië".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

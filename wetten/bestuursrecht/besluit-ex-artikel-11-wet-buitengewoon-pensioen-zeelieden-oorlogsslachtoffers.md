@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 6 september 1949, tot uitvoering van artikel 11 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420)"
+citeertitel: "Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
 identifier: "BWBR0002049"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-10-06"
-last_updated: "2016-10-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002049"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "378553"
-version_id: "556452"
-internal_id: "C556451"
-label_id: "369624"
-dtd_version: "2.0"
-original_entry_into_force: "1949-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002049/2016-10-06/0"
-intitule_bron: "Stb.1949-J 418"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-09-06"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 418"
-original_signed_date: "1949-09-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1949-10-27"
-jci_1_3: "jci1.3:c:BWBR0002049&z=2016-10-06&g=2016-10-06"
-jci_1_0: "1.0:c:BWBR0002049&g=2016-10-06"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
-signed_date: "1949-09-06"
-entry_into_force: "1949-10-27"
+publicatiedatum: 1949-10-27
+laatste_update: 2016-10-06
+status: geldig
+toestand: 2016-10-06
+bron: "https://wetten.overheid.nl/BWBR0002049"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 6 september 1949, tot uitvoering van artikel 11 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420)
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Verkeer en Waterstaat en van Sociale Zaken van 11 Juli 1949, No. 195194 Z., Directoraat-Generaal van Scheepvaart;
-
-Gelet op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), en [20, eerste lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20) (**Staatsblad** 1947, No. H 420);
-
-De Raad van State gehoord (advies van 2 Augustus 1949, no. 19);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 18 Augustus 1949, no. 201868 Z., Directoraat-Generaal van Scheepvaart;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -56,9 +28,9 @@ In dit besluit wordt verstaan onder:
 
 - a. indien loon wordt genoten het hoogste van de uit de toepassing van de volgende onderdelen voortvloeiende bedragen:
 
-- 1°. bij loon uit tegenwoordige dienstbetrekking: 12% van dat loon, maar niet minder dan € 119 per jaar en niet meer dan € 1605 per jaar;
+   - 1°. bij loon uit tegenwoordige dienstbetrekking: 12% van dat loon, maar niet minder dan € 119 per jaar en niet meer dan € 1605 per jaar;
 
-- 2°. bij loon uit vroegere dienstbetrekking: € 487 per jaar, en
+   - 2°. bij loon uit vroegere dienstbetrekking: € 487 per jaar, en
 
 - b. het bedrag van het over het jaar 2000 toegepaste reiskostenforfait tot een maximum van € 939 per jaar,
 
@@ -100,7 +72,7 @@ Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.
 
 - b. de inkomsten, welke onverplicht door derden aan de gepensioneerde worden verschaft;
 
-- c. de, tengevolge van inkomstenstijging uit onderneming of arbeid gederfde baten, welke voortvloeien uit de onder **b** bedoelde onverplichte bijdragen van derden, indien en voorzover de omstandigheden naar het oordeel van de Sociale verzekeringsbank daartoe aanleiding geven.
+- c. de, tengevolge van inkomstenstijging uit onderneming of arbeid gederfde baten, welke voortvloeien uit de onder *b* bedoelde onverplichte bijdragen van derden, indien en voorzover de omstandigheden naar het oordeel van de Sociale verzekeringsbank daartoe aanleiding geven.
 
 ##### Artikel 4
 
@@ -120,7 +92,7 @@ Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -132,7 +104,7 @@ Voor de toepassing van dit besluit worden pensioenen en wachtgelden, welke krach
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -140,6 +112,4 @@ Met de contrôle op de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 12
 
-Vervallen
-
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+*Vervallen*

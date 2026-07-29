@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 22 oktober 1949, tot vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 3, derde lid, en in artikel 39 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
+citeertitel: "Besluit ex artikel 3 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
 identifier: "BWBR0002052"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002052"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "411863"
-version_id: "604772"
-internal_id: "C604771"
-label_id: "401454"
-dtd_version: "2.0"
-original_entry_into_force: "1949-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002052/2011-01-01/0"
-intitule_bron: "Stb.1949-J 469"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-10-22"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 469"
-original_signed_date: "1949-10-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1949-12-15"
-jci_1_3: "jci1.3:c:BWBR0002052&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0002052&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 3 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers"
-signed_date: "1949-10-22"
-entry_into_force: "1949-12-15"
+publicatiedatum: 1949-12-15
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0002052"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 22 oktober 1949, tot vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 3, derde lid, en in artikel 39 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
-
-Op de voordracht van Onze Ministers van Verkeer en Waterstaat en van Sociale Zaken van 29 Juli 1949, No. 197564 Z;
-
-Gelet op [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=3), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=13) en [artikel 39 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=39) (**Staatsblad** 1947, No. H 420);
-
-De Raad van State gehoord (advies van 6 September 1949, No. 33);
-
-Gezien het nader rapport van Onze Ministers van Verkeer en Waterstaat en van Sociale Zaken van 3 October 1949, No. 206085 Z;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepaling
 
@@ -48,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-de wet: de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) (**Stb.** 1986, 576);
+de wet: de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) (*Stb.* 1986, 576);
 
 Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;
 
@@ -132,7 +104,7 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 - d. de mogelijkheid van toekomstige verandering van het percentage der arbeidsongeschiktheid en van het vermoedelijke tijdstip der verandering.
 
-4. Het percentage der arbeidsongeschiktheid, bedoeld in het tweede lid, onder **b**, en in het derde lid, onder **b**, wordt bepaald in verband met het beroep, dat de zeeman voor het intreden van zijn arbeidsongeschiktheid laatstelijk heeft vervuld, of indien dit voor de zeeman voordeliger is, naar zijn algemene arbeidsongeschiktheid.
+4. Het percentage der arbeidsongeschiktheid, bedoeld in het tweede lid, onder *b*, en in het derde lid, onder *b*, wordt bepaald in verband met het beroep, dat de zeeman voor het intreden van zijn arbeidsongeschiktheid laatstelijk heeft vervuld, of indien dit voor de zeeman voordeliger is, naar zijn algemene arbeidsongeschiktheid.
 
 5. Na omscholing tot een nieuw beroep, wordt, indien dit voor de zeeman voordeliger is, de arbeidsongeschiktheid bepaald naar het nieuwe beroep.
 
@@ -162,10 +134,8 @@ De geneeskundige behandeling en verpleging, als bedoeld in [artikel 3, zesde lid
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
-
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+*Vervallen*

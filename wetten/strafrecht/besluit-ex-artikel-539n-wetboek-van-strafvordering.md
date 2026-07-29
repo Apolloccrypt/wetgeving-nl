@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 15 december 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 539n, derde lid, van het Wetboek van Strafvordering"
+citeertitel: "Besluit ex artikel 539n Wetboek van Strafvordering"
 identifier: "BWBR0002616"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002616"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "420133"
-version_id: "617032"
-internal_id: "C617031"
-label_id: "408884"
-dtd_version: "2.0"
-original_entry_into_force: "1967-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002616/2025-07-01/0"
-intitule_bron: "Stb.1967-637"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-12-15"
-intitule_status: "goed"
-original_publication: "Stb.1967-637"
-original_signed_date: "1967-12-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1967-12-30"
-jci_1_3: "jci1.3:c:BWBR0002616&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0002616&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 539n Wetboek van Strafvordering"
-signed_date: "1967-12-15"
-entry_into_force: "1967-12-30"
+publicatiedatum: 1967-12-30
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0002616"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 15 december 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 539n, derde lid, van het Wetboek van Strafvordering
-
-Op de voordracht van Onze Minister van Justitie van 12 oktober 1967, Stafafdeling Wetgeving Publiekrecht, nr. 369/667;
-
-Gelet op [artikel 539**n**, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539n);
-
-De Raad van State gehoord (advies van 8 november 1967, nr. 39);
-
-Gezien het nader rapport van Onze voornoemde Minister van 6 december 1967, Stafafdeling Wetgeving Publiekrecht, nr. 442/667;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit besluit heeft betrekking op verdachten die met toepassing van [artikel 539**k** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539k) van hun vrijheid zijn beroofd.
+Dit besluit heeft betrekking op verdachten die met toepassing van [artikel 539*k* van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539k) van hun vrijheid zijn beroofd.
 
 ##### Artikel 2
 
@@ -86,6 +58,4 @@ Indien de omstandigheden zulks toelaten, wordt de verdachte in de gelegenheid ge
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.

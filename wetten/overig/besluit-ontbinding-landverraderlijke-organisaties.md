@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 17 september 1944, houdende vaststelling van het Besluit ontbinding landverraderlijke organisaties"
+citeertitel: "Besluit ontbinding landverraderlijke organisaties"
 identifier: "BWBR0002010"
-country: "nl"
-rank: "kb"
-publication_date: "1945-12-07"
-last_updated: "1945-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002010"
+categorie: "Overig"
 soort: "KB"
-stam_id: "754973"
-version_id: "1100502"
-internal_id: "C1100501"
-label_id: "731554"
-dtd_version: "2.0"
-original_entry_into_force: "1944-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002010/1945-12-07/0"
-intitule_bron: "Stb.1944-E 102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1944-09-17"
-intitule_status: "goed"
-original_publication: "Stb.1944-E 102"
-original_signed_date: "1944-09-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1944-09-20"
-jci_1_3: "jci1.3:c:BWBR0002010&z=1945-12-07&g=1945-12-07"
-jci_1_0: "1.0:c:BWBR0002010&g=1945-12-07"
-citeertitel_status: "officieel"
-short_title: "Besluit ontbinding landverraderlijke organisaties"
-signed_date: "1944-09-17"
-entry_into_force: "1944-09-20"
+publicatiedatum: 1944-09-20
+laatste_update: 1945-12-07
+status: geldig
+toestand: 1945-12-07
+bron: "https://wetten.overheid.nl/BWBR0002010"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 17 september 1944, houdende vaststelling van het Besluit ontbinding landverraderlijke organisaties
-
-Op de voordracht van Onze Ministers voor Algemeene Oorlogvoering van het Koninkrijk, van Algemeene Zaken, van Buitenlandsche Zaken, van Justitie, van Binnenlandsche Zaken, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Landbouw, van Scheepvaart en Visscherij, van Sociale Zaken, van Koloniën en van Onzen Minister zonder Portefeuille van 14 September 1944, N°. 1621/G 20/AT;
-
-Overwegende, dat het dringend noodzakelijk is bijzondere voorzieningen te treffen omtrent de ontbinding van de Nationaal Socialistische Beweging der Nederlanden, alsmede van daaraan verwante en andere nationaalsocialistische en fascistische organisaties;
-
-Overwegende, dat zich hier dringende omstandigheden voordoen, waarin de Buitengewone Raad van Advies niet kan worden gehoord;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -85,89 +59,3 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002010&artikel=1&z=19
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den dag zijner afkondiging.
 
 2. Het kan worden aangehaald onder den titel: Besluit ontbinding landverraderlijke organisaties.
-
-## Lijst. behoorende bij het Besluit ontbinding landverraderlijke organisaties
-
-- 1°. Weer-Afdeeling.
-
-- 2°. Germaansche S.S. der Nederlanden.
-
-- 3°. Nationale Jeugdstorm.
-
-- 4°. Nationaal Socialistische Vrouwenorganisaties.
-
-- 5°. Nationaal Socialistisch Ambtenarencorps.
-
-- 6°. Nationaal Socialistisch Studentencorps.
-
-- 7°. Nationaal Socialistisch Rechtsfront.
-
-- 8°. Medisch Front.
-
-- 9°. Tandartsen Front.
-
-- 10°. Apothekers Front.
-
-- 11°. Dierenartsen Front.
-
-- 12°. Economisch Front.
-
-- 13°. Front voor Nering en Ambacht.
-
-- 14°. Vervoerders Front.
-
-- 15°. Nationaal Socialistische Opvoedersgilde.
-
-- 16°. Technisch Gilde.
-
-- 17°. Technische Noodhulp.
-
-- 18°. Raad voor de Volkshuishouding.
-
-- 19°. Frontzorg.
-
-- 20°. Nederlandsch-Duitsche Kultuurgemeenschap.
-
-- 21°. Sociaal Economisch Genootschap Nederland en Europa.
-
-- 22°. Volksche Werkgemeenschap.
-
-- 23°. Nederlandsche Volksdienst.
-
-- 24°. Nederlandsch Instituut voor Volkshuishoudkundig Onderzoek.
-
-- 25°. Heemkundig Instituut.
-
-- 26°. Volk en Bodem.
-
-- 27°. Instituut voor Sibbekunde.
-
-- 28°. Sibbekundig Genootschap.
-
-- 29°. Gemeenschap Vreugde en Arbeid.
-
-- 30°. Stichting ter bevordering van de kennis van het nationaal-socialisme.
-
-- 31°. Stichting "Het Nationaal Tehuis".
-
-- 32°. Stichting "Fonds voor Gezins- en Jeugdzorg".
-
-- 33°. Stichting Saxo-Frisia.
-
-- 34°. Agrarisch Front.
-
-- 35°. De Nieuwe Omroep.
-
-- 36°. de Nationale Omroep.
-
-- 37°. Nationale Pers.
-
-- 38°. Nederlandsche Nationaal-Socialistische Uitgeverij (Nenasu).
-
-- 39°. Nationaal-Socialistisch Museum.
-
-- 40°. Verpleegstersgemeenschap van den Nederlandschen Volksdienst.
-
-- 41°. Zeevaartfront.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, enz. Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

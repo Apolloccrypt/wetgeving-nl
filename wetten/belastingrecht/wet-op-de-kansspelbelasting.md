@@ -1,44 +1,18 @@
 ---
 title: "Wet van 14 september 1961, houdende regelen inzake de belastingheffing met betrekking tot kansspelen"
+citeertitel: "Wet op de kansspelbelasting"
 identifier: "BWBR0002359"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002359"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1274783"
-version_id: "1893252"
-internal_id: "C1893251"
-label_id: "1234584"
-dtd_version: "2.0"
-original_entry_into_force: "1961-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002359/2026-01-01/0"
-intitule_bron: "Stb.1961-313"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1961-09-14"
-intitule_status: "goed"
-original_publication: "Stb.1961-313"
-original_signed_date: "1961-09-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "5787"
-entry_into_force_date: "1961-11-01"
-entry_into_force_dossier: "5787"
-jci_1_3: "jci1.3:c:BWBR0002359&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0002359&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de kansspelbelasting"
-signed_date: "1961-09-14"
-entry_into_force: "1961-11-01"
+publicatiedatum: 1961-11-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0002359"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 14 september 1961, houdende regelen inzake de belastingheffing met betrekking tot kansspelen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de belastingheffing met betrekking tot kansspelen nader te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Belastingplicht
 
@@ -48,7 +22,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 - a. de houder van een vergunning als bedoeld in [artikel 27g, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g), ten aanzien van de onder die vergunning aangeboden casinospelen, en degene die opbrengst geniet van zonder een vergunning als bedoeld in artikel 27g, eerste lid, van de Wet op de kansspelen aangeboden casinospelen in Nederland, niet zijnde kansspelen op afstand;
 
-- b. de houder van een vergunning voor de exploitatie van speelautomaten als bedoeld in [artikel 30h, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), ten aanzien van de onder diens vergunning in Nederland geplaatste fysieke speelautomaten waarop een kansspelautomatenspel wordt gespeeld;
+- b. de houder van een vergunning voor de exploitatie van speelautomaten als bedoeld in [artikel 30h, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), ten aanzien van de onder diens vergunning in Nederland geplaatste fysieke speelautomaten waarop een kansspelautomatenspel wordt gespeeld;
 
 - c. degene die opbrengst geniet van zonder een vergunning als bedoeld in onderdeel b in Nederland geplaatste fysieke speelautomaten waarop een kansspelautomatenspel wordt gespeeld;
 
@@ -62,9 +36,9 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 - h. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen, niet zijnde:
 
-- 1°. casinospelen, kansspelautomatenspelen, sportweddenschappen en totalisatoren die worden gehouden of georganiseerd door natuurlijke personen of door lichamen van wie er een of meer wonen, onderscheidenlijk zijn gevestigd, in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
+   - 1°. casinospelen, kansspelautomatenspelen, sportweddenschappen en totalisatoren die worden gehouden of georganiseerd door natuurlijke personen of door lichamen van wie er een of meer wonen, onderscheidenlijk zijn gevestigd, in een lidstaat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- 2°. kansspelen op afstand;
+   - 2°. kansspelen op afstand;
 
 - i. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van kansspelen op afstand, niet zijnde kansspelen op afstand als bedoeld in onderdeel d.
 
@@ -82,7 +56,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 4. Onder piramidespelen worden verstaan gelegenheden waarbij deelnemers een goed afgeven of een verplichting aangaan teneinde daaruit een voordeel te verwerven dat geheel of ten dele afhankelijk is van de afgifte van een goed of het aangaan van een verplichting door latere deelnemers.
 
-5. Onder casinospelen worden verstaan casinospelen als bedoeld in [artikel 27i van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27i), met inbegrip van spelen die naar hun aard en opzet vergelijkbaar zijn met dergelijke casinospelen.
+5. Onder casinospelen worden verstaan casinospelen als bedoeld in [artikel 27i van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27i), met inbegrip van spelen die naar hun aard en opzet vergelijkbaar zijn met dergelijke casinospelen.
 
 6. Kansspelen worden als binnenlands beschouwd, indien zij worden gehouden door natuurlijke personen of door lichamen in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), van wie een of meer in Nederland wonen of zijn gevestigd.
 
@@ -108,9 +82,9 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ##### Artikel 4
 
-1. Indien [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, is van de belasting vrijgesteld:
+1. Indien [artikel 1, onderdeel g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, is van de belasting vrijgesteld:
 
-- a. de prijs die niet meer bedraagt dan € 449;
+- a. de prijs die niet meer bedraagt dan € 449;
 
 - b. de prijs welke niet uitgaat boven de prestatie welke staat tegenover de deelneming uit hoofde waarvan aanspraak op de prijs bestaat.
 
@@ -122,7 +96,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 1. De belasting bedraagt 37,8 percent.
 
-2. Neemt, in het geval waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/62,2 vermenigvuldigd.
+2. Neemt, in het geval waarin [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/62,2 vermenigvuldigd.
 
 ### Hoofdstuk V. Wijze van heffing
 
@@ -134,7 +108,7 @@ Onder de naam kansspelbelasting wordt een belasting geheven van:
 
 ##### Artikel 5b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -150,7 +124,7 @@ Vervallen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -162,49 +136,55 @@ Vervallen
 
 - b. vorderbaar en tevens inbaar wordt.
 
+##### Artikel 8a
+
+1. In de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
+
+2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2026-01-01&g=2026-01-01).
+
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Strafbepaling
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
@@ -215,17 +195,3 @@ Vervallen
 ##### Artikel 20
 
 Deze wet kan worden aangehaald als: Wet op de kansspelbelasting.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8a
-
-1. In de gevallen waarin [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2026-01-01&g=2026-01-01), van toepassing is, moet de belasting op aangifte worden voldaan.
-
-2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2026-01-01&g=2026-01-01).
-
-### Hoofdstuk VI. Strafbepaling
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

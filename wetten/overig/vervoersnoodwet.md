@@ -1,44 +1,18 @@
 ---
 title: "Wet van 5 december 1962, houdende regeling van het vervoer te land en op de binnenwateren in buitengewone omstandigheden"
+citeertitel: "Vervoersnoodwet"
 identifier: "BWBR0002391"
-country: "nl"
-rank: "wet"
-publication_date: "2005-03-16"
-last_updated: "2005-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002391"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1785073"
-version_id: "2653132"
-internal_id: "C2653131"
-label_id: "1740864"
-dtd_version: "2.0"
-original_entry_into_force: "1963-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002391/2005-03-16/0"
-intitule_bron: "Stb.1962-571"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1962-12-05"
-intitule_status: "goed"
-original_publication: "Stb.1962-571"
-original_signed_date: "1962-12-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "5425"
-entry_into_force_date: "1963-01-16"
-entry_into_force_dossier: "5425"
-jci_1_3: "jci1.3:c:BWBR0002391&z=2005-03-16&g=2005-03-16"
-jci_1_0: "1.0:c:BWBR0002391&g=2005-03-16"
-citeertitel_status: "officieel"
-short_title: "Vervoersnoodwet"
-signed_date: "1962-12-05"
-entry_into_force: "1963-01-16"
+publicatiedatum: 1963-01-16
+laatste_update: 2005-03-16
+status: geldig
+toestand: 2005-03-16
+bron: "https://wetten.overheid.nl/BWBR0002391"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 5 december 1962, houdende regeling van het vervoer te land en op de binnenwateren in buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen, teneinde in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden de instandhouding van het vervoer te land en op de binnenwateren en een doelmatig gebruik der vervoermiddelen zoveel mogelijk te waarborgen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -50,11 +24,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. "vervoermiddelen":
 
-- 1°. vaartuigen, hoe ook genaamd en van welke aard ook, behalve zeeschepen in de zin van [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2);
+   - 1°. vaartuigen, hoe ook genaamd en van welke aard ook, behalve zeeschepen in de zin van [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2);
 
-- 2°. motorrijtuigen in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en aanhangwagens, bestemd om door zodanige motorrijtuigen te worden voortbewogen;
+   - 2°. motorrijtuigen in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en aanhangwagens, bestemd om door zodanige motorrijtuigen te worden voortbewogen;
 
-- 3°. spoorvoertuigen;
+   - 3°. spoorvoertuigen;
 
 - c. "houder": hij die als eigenaar of krachtens enige andere rechtstitel gerechtigd is een vervoermiddel te gebruiken.
 
@@ -72,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 3
 
@@ -84,37 +58,37 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. De Organen
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Vervoer en Vervoermiddelen
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 9
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn zich in door hem te bepalen gevallen en op een door hem te bepalen wijze en plaats al of niet met het vervoermiddel te melden, zonodig onder mededeling van gegevens omtrent het gebruik, dat van het vervoermiddel wordt gemaakt.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 11
 
@@ -124,7 +98,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 12
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
@@ -140,7 +114,7 @@ Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
 ##### Artikel 13
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister kan aan een beheerder van infrastructuur die open staat voor het verkeer te land, onderscheidenlijk op binnenwater aanwijzingen geven betreffende het beheer, alsmede andere met betrekking tot het verkeer over die infrastructuur toegekende taken en bevoegdheden. Daarbij kan van de op die infrastructuur en die taken en bevoegdheden betrekking hebbende wetgeving worden afgeweken.
 
@@ -156,7 +130,7 @@ Onze Minister kan aan een beheerder van infrastructuur die open staat voor het v
 
 ##### Artikel 15
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. De beheerders of onderhoudsplichtigen van waterstaatswerken zijn verplicht de werken en voorzieningen uit te voeren en na de uitvoering te onderhouden, welke nodig zijn in het belang van een doelmatig vervoer van personen of goederen.
 
@@ -178,7 +152,7 @@ Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
 ##### Artikel 17
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister kan bepalen, dat:
 
@@ -212,7 +186,7 @@ slechts mag geschieden krachtens een door hem verleende vergunning.
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Strafbepalingen
 
@@ -232,7 +206,7 @@ Vervallen
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
@@ -250,7 +224,7 @@ Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in [artik
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -270,10 +244,8 @@ Vervallen
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Deze wet kan worden aangehaald als Vervoersnoodwet. Zij treedt in werking met ingang van de dag, na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet kan worden aangehaald als Vervoersnoodwet. Zij treedt in werking met ingang van de dag, na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Wet van 24 april 1947, houdende voorzieningen onder den vijand aangetroffen goederen"
 identifier: "BWBR0002030"
-country: "nl"
-rank: "wet"
-publication_date: "1947-06-01"
-last_updated: "1947-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002030"
+categorie: "Overig"
 soort: "wet"
-stam_id: "374483"
-version_id: "549552"
-internal_id: "C549551"
-label_id: "365604"
-dtd_version: "2.0"
-original_entry_into_force: "1947-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002030/1947-06-01/0"
-intitule_bron: "Stb.1947-H 133"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-04-24"
-intitule_status: "goed"
-original_publication: "Stb.1947-H 133"
-original_signed_date: "1947-04-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "353"
-entry_into_force_date: "1947-06-01"
-entry_into_force_dossier: "353"
-jci_1_3: "jci1.3:c:BWBR0002030&z=1947-06-01&g=1947-06-01"
-jci_1_0: "1.0:c:BWBR0002030&g=1947-06-01"
-citeertitel_status: "officieel"
-signed_date: "1947-04-24"
-entry_into_force: "1947-06-01"
+publicatiedatum: 1947-06-01
+laatste_update: 1947-06-01
+status: geldig
+toestand: 1947-06-01
+bron: "https://wetten.overheid.nl/BWBR0002030"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 24 april 1947, houdende voorzieningen onder den vijand aangetroffen goederen
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is nadere voorzieningen te treffen ten aanzien van roerende goederen, welke in handen van den vijand zijn aangetroffen;
-
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -59,11 +33,11 @@ Voor de toepassing van de bij of krachtens deze wet uitgevaardigde bepalingen wo
 
 - c. alle goederen, welke hier te lande in handen van den vijand zijn aangetroffen en door de Geallieerden aan Nederlandsche instanties zijn overgedragen, zulks op het tijdstip van de overdracht.
 
-2. Het bepaalde in Hoofdstuk III van het Besluit herstel rechtsverkeer, alsmede het bepaalde in artikel 26 van het Besluit Vijandelijk Vermogen vindt geen toepassing ten aanzien van de in het vorige lid onder **a** tot en met **c** bedoelde goederen.
+2. Het bepaalde in Hoofdstuk III van het Besluit herstel rechtsverkeer, alsmede het bepaalde in artikel 26 van het Besluit Vijandelijk Vermogen vindt geen toepassing ten aanzien van de in het vorige lid onder *a* tot en met *c* bedoelde goederen.
 
 ##### Artikel 3
 
-In afwijking van het bepaalde in het eerste lid van het vorige artikel, onderscheidenlijk van artikel 3 van het Besluit Vijandelijk Vermogen wordt de oorspronkelijke rechthebbende op goederen, als onder **a**, **b** en **c** van eerstgenoemde bepaling bedoeld, ingeval hij vóór het inwerkingtreden dezer wet de feitelijke heerschappij over het goed heeft herkregen, van rechtswege in zijn recht hersteld, mits hij:
+In afwijking van het bepaalde in het eerste lid van het vorige artikel, onderscheidenlijk van artikel 3 van het Besluit Vijandelijk Vermogen wordt de oorspronkelijke rechthebbende op goederen, als onder *a*, *b* en *c* van eerstgenoemde bepaling bedoeld, ingeval hij vóór het inwerkingtreden dezer wet de feitelijke heerschappij over het goed heeft herkregen, van rechtswege in zijn recht hersteld, mits hij:
 
 - a. aan den Staat afdraagt het bedrag, waarmede hij voor het verlies zijner rechten is schadeloosgesteld of, ingeval het goed aanmerkelijk in waarde is verminderd, een naar billijkheid verminderd bedrag, onderscheidenlijk afstand doet tot op het hiervorenbedoeld bedrag van de rechten, welke hij uit hoofde van het verlies van het goed kon doen gelden;
 
@@ -92,5 +66,3 @@ Wij behouden Ons voor, bij algemeenen maatregel van bestuur nadere voorzieningen
 ##### Artikel 7
 
 Deze wet, welke kan worden aangehaald als "Wet voorzieningen onder den vijand aangetroffen goederen", treedt in werking met ingang van den dag, volgende op dien harer afkondiging.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

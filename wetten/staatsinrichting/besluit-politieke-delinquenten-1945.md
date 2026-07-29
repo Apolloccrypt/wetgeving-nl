@@ -1,48 +1,20 @@
 ---
 title: "Besluit van 26 oktober 1945, houdende vaststelling van het Besluit politieke delinquenten 1945"
+citeertitel: "Besluit politieke delinquenten 1945"
 identifier: "BWBR0002015"
-country: "nl"
-rank: "kb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002015"
+categorie: "Overig"
 soort: "KB"
-stam_id: "870103"
-version_id: "1272662"
-internal_id: "C1272661"
-label_id: "844854"
-dtd_version: "2.0"
-original_entry_into_force: "1945-10-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002015/2015-01-01/0"
-intitule_bron: "Stb.1945-F 244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1945-10-26"
-intitule_status: "goed"
-original_publication: "Stb.1945-F 244"
-original_signed_date: "1945-10-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1945-10-29"
-jci_1_3: "jci1.3:c:BWBR0002015&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0002015&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit politieke delinquenten 1945"
-signed_date: "1945-10-26"
-entry_into_force: "1945-10-29"
+publicatiedatum: 1945-10-29
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0002015"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 26 oktober 1945, houdende vaststelling van het Besluit politieke delinquenten 1945
 
-Op de voordracht van Onzen Minister van Justitie van 4 October 1945, no. 1120;
-
-Overwegende, dat het wenschelijk is eenige regelen vast te stellen met betrekking tot politieke delinquenten;
-
-Den Raad van State gehoord (advies van 16 October 1945, no. 18);
-
-Gezien het nader rapport van Onzen voornoemden Minister van 22 October 1945, 6e Afdeeling, no. 1101;
-
-Hebben goedgevonden en verstaan:
-
-### Afdeeling I. Opsporingsambtenaren
+#### Afdeeling I. Opsporingsambtenaren
 
 ##### Artikel 1
 
@@ -54,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 Onze Minister van Veiligheid en Justitie stelt uit de door hem ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) aan te wijzen ambtenaren van politie hoofden van politieke recherche aan, die elk in hun ambtsgebied belast zijn met de leiding van de opsporing der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten en gedragingen, alsmede met de hun bij of krachtens dit besluit opgedragen werkzaamheden. Het [tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) is van toepassing.
 
-### Afdeeling II. Officieren-Fiscaal
+#### Afdeeling II. Officieren-Fiscaal
 
 ##### Artikel 3
 
@@ -70,7 +42,7 @@ Onze Minister van Veiligheid en Justitie benoemt op voordracht van den procureur
 
 Alvorens in bediening te treden leggen de officieren-fiscaal naar de wijze hunner godsdienstige gezindheid ten overstaan van de president van het Bijzondere Gerechtshof, binnen welks ressort hun ambtsgebied is gelegen, den eed of de belofte af, dat zij hun taak naar plicht en geweten, nauwgezet, onpartijdig en als goede vaderlanders zullen vervullen.
 
-### Afdeeling III. Opsporing en aanhouding
+#### Afdeeling III. Opsporing en aanhouding
 
 ##### Artikel 6
 
@@ -114,7 +86,7 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&art
 
 3. Ieder, die werkzaam is bij een instelling van telefonie, geeft terzake van alle verkeer, hetwelk door tusschenkomst van die instelling is geschied, aan den procureur-fiscaal op diens vordering de door dezen gewenschte inlichtingen.
 
-### Afdeeling IV. Bewaring
+#### Afdeeling IV. Bewaring
 
 ##### Artikel 12
 
@@ -148,7 +120,7 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 
 5. In de gevallen, bedoeld in [artikel 33 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33) en [artikel 33 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=33), vinden uitsluitend die artikelen toepassing.
 
-### Afdeeling V. Invrijheidstelling
+#### Afdeeling V. Invrijheidstelling
 
 ##### Artikel 14
 
@@ -202,7 +174,7 @@ Het verzoek kan buiten behandeling blijven:
 
 5. Ook van de overige afwijzende en van de toewijzende beslissingen wordt den bewaarde onverwijld een afschrift uitgereikt.
 
-### Afdeeling VI. Buitenvervolgingstelling
+#### Afdeeling VI. Buitenvervolgingstelling
 
 ##### Artikel 18
 
@@ -250,7 +222,7 @@ De buitenvervolgingstelling geschiedt onvoorwaardelijk:
 
 - l. verplichting binnen te bepalen termijn een bepaald bedrag te betalen.
 
-4. De voorwaarden, behalve die genoemd in het voorgaande lid onder **k** en **l**, gelden voor een proeftijd van ten hoogste drie jaren. De proeftijd kan tweemaal worden verlengd, telkens voor de helft van den duur van den oorspronkelijk opgelegden proeftijd. Voor den duur van den proeftijd telt niet mede, dat den buiten vervolging gestelde rechtens zijn vrijheid is ontnomen.
+4. De voorwaarden, behalve die genoemd in het voorgaande lid onder *k* en *l*, gelden voor een proeftijd van ten hoogste drie jaren. De proeftijd kan tweemaal worden verlengd, telkens voor de helft van den duur van den oorspronkelijk opgelegden proeftijd. Voor den duur van den proeftijd telt niet mede, dat den buiten vervolging gestelde rechtens zijn vrijheid is ontnomen.
 
 5. Het toezicht op de naleving der voorwaarden geschiedt door of vanwege den procureur-fiscaal.
 
@@ -276,7 +248,7 @@ De buitenvervolgingstelling geschiedt onvoorwaardelijk:
 
 2. Geschiedt de buitenvervolgingstelling voorwaardelijk, zoo vangt de proeftijd aan op het oogenblik van uitreiking of ontvangst van de beslissing.
 
-### Afdeeling VII. Wijziging van de beslissingen betreffende invrijheidstelling en buitenvervolgingstelling
+#### Afdeeling VII. Wijziging van de beslissingen betreffende invrijheidstelling en buitenvervolgingstelling
 
 ##### Artikel 23
 
@@ -292,7 +264,7 @@ De buitenvervolgingstelling geschiedt onvoorwaardelijk:
 
 2. Voor zoover in het verleden voldaan is aan voorwaarden, welke ingevolge een beslissing, genomen krachtens het eerste lid, wegvallen, wordt deze voldoening niet ongedaan gemaakt, tenzij door of vanwege den procureur-fiscaal anders wordt beslist.
 
-3. De beslissingen, in dit artikel genoemd, met uitzondering van die tot wijziging van voorwaarden, vermeld in [artikel 20, derde lid onder **a-e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2015-01-01&g=2015-01-01), worden niet genomen, dan na verhoor of oproeping van den betrokkene. Deze kan zich bij zijn verhoor door een advocaat, binnen het rijk de praktijk uitoefenende, doen bijstaan. Van het verhoor wordt een proces-verbaal opgemaakt.
+3. De beslissingen, in dit artikel genoemd, met uitzondering van die tot wijziging van voorwaarden, vermeld in [artikel 20, derde lid onder *a-e*](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2015-01-01&g=2015-01-01), worden niet genomen, dan na verhoor of oproeping van den betrokkene. Deze kan zich bij zijn verhoor door een advocaat, binnen het rijk de praktijk uitoefenende, doen bijstaan. Van het verhoor wordt een proces-verbaal opgemaakt.
 
 4. De beslissingen, in dit artikel genoemd, worden schriftelijk genomen en den betrokkene tegen ontvangstbewijs uitgereikt of bij aangeteekenden brief met ontvangstbewijs toegezonden.
 
@@ -300,7 +272,7 @@ De buitenvervolgingstelling geschiedt onvoorwaardelijk:
 
 Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in [artikel 37 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=37), kan een in vrijheid gestelde niet opnieuw worden aangehouden of in bewaring gesteld op verdenking van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten of gedragingen.
 
-### Afdeeling VIII. Verzet tegen beslissingen betreffende voorwaardelijke buitenvervolgingstelling
+#### Afdeeling VIII. Verzet tegen beslissingen betreffende voorwaardelijke buitenvervolgingstelling
 
 ##### Artikel 25
 
@@ -308,7 +280,7 @@ Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in
 
 2. Het verzet kan worden beperkt tot de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2015-01-01&g=2015-01-01) genoemde rechten.
 
-3. Verzet kan ook worden gedaan tegen een beslissing tot wijziging van de bijzondere voorwaarden, bij een buitenvervolgingstelling gesteld, voor zoover die beslissing betreft voorwaarden, genoemd in [artikel 20, derde lid onder **f-l**](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2015-01-01&g=2015-01-01). Het verzet kan worden gedaan uiterlijk binnen veertien dagen na dien, waarop de betrokkene van de beslissing kennis heeft gekregen.
+3. Verzet kan ook worden gedaan tegen een beslissing tot wijziging van de bijzondere voorwaarden, bij een buitenvervolgingstelling gesteld, voor zoover die beslissing betreft voorwaarden, genoemd in [artikel 20, derde lid onder *f-l*](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2015-01-01&g=2015-01-01). Het verzet kan worden gedaan uiterlijk binnen veertien dagen na dien, waarop de betrokkene van de beslissing kennis heeft gekregen.
 
 ##### Artikel 26
 
@@ -350,7 +322,7 @@ Indien degene, die in verzet is gekomen tegen een beslissing van voorwaardelijke
 
 2. Indien in de in het voorgaande lid omschreven gevallen degene, die in verzet is gekomen, ten dienende dage verschijnt, wordt de beslissing van den procureur-fiscaal bekrachtigd en wel met geheele of gedeeltelijke vernietiging daarvan een nieuwe beslissing genomen. Geen hoogere voorziening staat hiertegen open.
 
-### Afdeeling IX. Overgangs- en slotbepalingen
+#### Afdeeling IX. Overgangs- en slotbepalingen
 
 #### § 1. Overgangsbepaling
 
@@ -370,24 +342,22 @@ Onze Minister van Veiligheid en Justitie stelt regelen vast ter uitvoering van d
 
 ##### Artikel 36
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 37
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 38
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 39
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 40
 
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den tweeden dag na dien zijner afkondiging.
 
 2. Het kan worden aangehaald als "Besluit politieke delinquenten 1945".
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst.

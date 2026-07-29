@@ -1,42 +1,18 @@
 ---
-title: "Besluit van 23 Juli 1951, houdende instelling \"Kruis voor Recht en Vrijheid\""
+title: "Besluit van 23 Juli 1951, houdende instelling 'Kruis voor Recht en Vrijheid'"
+citeertitel: "Instellingsbesluit Kruis voor Recht en Vrijheid"
 identifier: "BWBR0002078"
-country: "nl"
-rank: "kb"
-publication_date: "2002-10-09"
-last_updated: "2002-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002078"
+categorie: "Overig"
 soort: "KB"
-stam_id: "400263"
-version_id: "588932"
-internal_id: "C588931"
-label_id: "389964"
-dtd_version: "2.0"
-original_entry_into_force: "1951-08-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002078/2002-10-09/0"
-intitule_bron: "Stb.1951-319"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1951-07-23"
-intitule_status: "goed"
-original_publication: "Stb.1951-319"
-original_signed_date: "1951-07-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1951-08-30"
-jci_1_3: "jci1.3:c:BWBR0002078&z=2002-10-09&g=2002-10-09"
-jci_1_0: "1.0:c:BWBR0002078&g=2002-10-09"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Kruis voor Recht en Vrijheid"
-signed_date: "1951-07-23"
-entry_into_force: "1951-08-30"
+publicatiedatum: 1951-08-30
+laatste_update: 2002-10-09
+status: geldig
+toestand: 2002-10-09
+bron: "https://wetten.overheid.nl/BWBR0002078"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 23 Juli 1951, houdende instelling "Kruis voor Recht en Vrijheid"
-
-Op de gemeenschappelijke voordracht van Onze Minister-President, Minister van Algemene Zaken en Onze Ministers van Oorlog en van Marine, d.d. 4 Juli 1951, DG La X 161; en dd. 9 Juli 1951, nr. 28174; en dd. 17 Juli 1951, nr. 251 512/251436;
-
-Overwegende dat het gewenst is om aan Nederlanders en Nederlandse onderdanen die, in het belang der oorlogvoering door de Verenigde Naties in enig deel van de wereld, met de strijdkrachten dier Verenigde Naties aan de strijd hebben deelgenomen of deelnemen, een herinneringsteken toe te kennen en dit herinneringsteken tevens dienstbaar te stellen voor krijgsverrichtingen ter handhaving van het Nederlands gezag;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -84,7 +60,7 @@ Voorstellen tot het ontnemen van een door Ons verleend Kruis voor Recht en Vrijh
 
 ##### Artikel 8
 
-Als krijgsbedrijven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=2&z=2002-10-09&g=2002-10-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=3&z=2002-10-09&g=2002-10-09) bedoeld, worden voorshands aangewezen de krijgsbedrijven welke in het jaar 1950 zijn aangevangen op het schiereiland **Korea**.
+Als krijgsbedrijven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=2&z=2002-10-09&g=2002-10-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=3&z=2002-10-09&g=2002-10-09) bedoeld, worden voorshands aangewezen de krijgsbedrijven welke in het jaar 1950 zijn aangevangen op het schiereiland *Korea*.
 
 ##### Artikel 8a
 
@@ -94,6 +70,4 @@ Degenen, die reeds gerechtigd zijn tot het dragen van het in [artikel 3](https:/
 
 Aan de Kanselier der Nederlandse Orden wordt opgedragen een register aan te houden, bevattende de namen van diegenen, aan wie het Kruis voor Recht en Vrijheid is toegekend.
 
-Dit Besluit treedt in werking op de dag, volgende op die zijner afkondiging in het **Staatsblad**.
-
-Onze Minister van Oorlog en van Marine zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
+Dit Besluit treedt in werking op de dag, volgende op die zijner afkondiging in het *Staatsblad*.

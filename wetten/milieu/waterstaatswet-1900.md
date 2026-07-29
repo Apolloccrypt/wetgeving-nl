@@ -1,44 +1,18 @@
 ---
 title: "Wet van 10 november 1900, houdende algemeene regels omtrent het waterstaatsbestuur"
+citeertitel: "Waterstaatswet 1900"
 identifier: "BWBR0001867"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001867"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "2171893"
-version_id: "3309732"
-internal_id: "C33893241"
-label_id: "2123434"
-dtd_version: "2.0"
-original_entry_into_force: "1902-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001867/2024-01-01/0"
-intitule_bron: "Stb.1900-176"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1900-11-10"
-intitule_status: "goed"
-original_publication: "Stb.1900-176"
-original_signed_date: "1900-11-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1902-06-15"
-jci_1_3: "jci1.3:c:BWBR0001867&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0001867&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Waterstaatswet 1900"
-signed_date: "1900-11-10"
-entry_into_force: "1902-06-15"
+publicatiedatum: 1902-06-15
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0001867"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 10 november 1900, houdende algemeene regels omtrent het waterstaatsbestuur
-
-Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
-
-Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is algemeene regels omtrent het waterstaatsbestuur te stellen;
-
-Gezien art. 188 der [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840);
-
-Zoo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Overdracht of overneming van waterstaatswerken
 
@@ -80,209 +54,181 @@ Wanneer de noodzakelijkheid tot voorziening in een waterstaatsbelang bestaat, en
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 #### § 3a. Commissie van advies inzake de waterstaatswetgeving
 
 ##### Artikel 5a
 
-Vervallen
-
-##### Artikel 5b
-
-Vervallen
-
-##### Artikel 5c
-
-Vervallen
-
-##### Artikel 5d
-
-Vervallen
-
-##### Artikel 5e
-
-Vervallen
-
-##### Artikel 5f
-
-Vervallen
-
-##### Artikel 5g
-
-Vervallen
-
-##### Artikel 5h
-
-Vervallen
+*Vervallen*
 
 #### § 4. Bevoegdheid tot onderzoek van waterstaatswerken
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 #### § 5. Binnentreden van woningen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
-#### § 6a. Voorzieningen betreffende beschadiging van waterstaatswerken, in beheer of onderhoud bij provincie, gemeente, waterschap
+#### § 6. Voorzieningen ten behoeve van aanleg, onderhoud en verbetering van waterstaatswerken
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12b
 
-Vervallen
+*Vervallen*
 
 #### § 6a. Voorzieningen betreffende beschadiging van waterstaatswerken, in beheer of onderhoud bij provincie, gemeente, waterschap
 
 ##### Artikel 12c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12f
 
-Vervallen
+*Vervallen*
 
 #### § 7. Vervallen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 #### § 8. Vervallen
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 #### § 9. Vervallen
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 #### § 10. Vervallen
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 #### § 11. Vervallen
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 #### § 12. Staking der uitvoering van werken en uitvoering van noodzakelijke werken
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
@@ -312,15 +258,15 @@ Vervallen
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41a
 
-Vervallen
+*Vervallen*
 
 #### § 13. Middelen van executie
 
@@ -330,7 +276,7 @@ Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last on
 
 ##### Artikel 42a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42b
 
@@ -352,93 +298,93 @@ Indien op een ingesteld beroep geheel of gedeeltelijk ten voordele van hem, aan 
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
-#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2005-01-01&g=2005-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2005-01-01&g=2005-01-01)
+#### § 14. Verhaal der kosten bedoeld in §§ 12 en 13
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
-#### § 17. Voorzieningen inzake voorbereiding op en optreden bij gevaar
+#### § 15. Vervallen
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
-#### § 16. Waterschappen, veenschappen en veenpolders in meer dan eene provincie gelegen
+#### § 16. Waterschappen in meer dan eene provincie gelegen
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
@@ -448,258 +394,170 @@ Vervallen
 
 3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2024-01-01&g=2024-01-01), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
 
-#### § 17. Voorzieningen inzake voorbereiding op en optreden bij gevaar
-
-#### Eerste afdeeling. Algemeene bepalingen
-
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
-Vervallen
-
-#### Tweede afdeeling. Vervallen
+*Vervallen*
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
+
+##### Artikel 72a
+
+*Dit onderdeel is nog niet inwerking getreden*
+
+#### § 17. Voorzieningen inzake voorbereiding op en optreden bij gevaar
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Vervallen
-
-#### Derde afdeeling. Buitengewone bevoegdheden van het hooger gezag bij dringend of dreigend gevaar van bezwijken of overloopen eener waterkeering
+*Vervallen*
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 81
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 87
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 97
 
-Vervallen
-
-#### Vierde afdeeling. Buitengewone bevoegdheden van het hooger gezag tijdens eene overstrooming
+*Vervallen*
 
 ##### Artikel 98
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 100
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 101
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 102
 
-Vervallen
+*Vervallen*
+
+#### Slotbepalingen
 
 ##### Artikel 103
 
 Deze wet is niet van toepassing op een waterstaatswerk als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
-#### Slotbepalingen
-
 ##### Artikel 104
 
 1. Door Ons wordt bepaald, op welk tijdstip, of op welke tijdstippen onderscheidenlijk de bepalingen dezer wet in werking treden, voorzoover dit niet reeds is geschied.
 
-2. Met de inwerkingtreding dezer wet, zooals zij oorspronkelijk is vastgesteld, zijn vervallen de wet van 12 Juli 1855 (**Staatsblad** n°. 102), tot voorloopige voorziening in sommige waterstaatsbelangen, alsmede art. 7 van het Koninklijk besluit van 17 December 1819 n° 1 en de Koninklijke besluiten van 29 Maart 1822 (**Staatsblad** n°. 7), 7 September 1822 (**Staatsblad** n°. 42), 23 September 1849 (**Staatsblad** n°. 50) en 14 April 1850 (**Staatsblad** n°. 16).
+2. Met de inwerkingtreding dezer wet, zooals zij oorspronkelijk is vastgesteld, zijn vervallen de wet van 12 Juli 1855 (*Staatsblad* n°. 102), tot voorloopige voorziening in sommige waterstaatsbelangen, alsmede art. 7 van het Koninklijk besluit van 17 December 1819 n° 1 en de Koninklijke besluiten van 29 Maart 1822 (*Staatsblad* n°. 7), 7 September 1822 (*Staatsblad* n°. 42), 23 September 1849 (*Staatsblad* n°. 50) en 14 April 1850 (*Staatsblad* n°. 16).
 
 3. Met de inwerkingtreding van de bepalingen van § 17 dezer wet, vervallen het Koninklijk besluit van 21 Augustus 1835, n°. 23, houdende vaststelling van een reglement op de correspondentie bij ijsgang en hoog opperwater op de rivieren, met de besluiten, waarbij dat Koninklijk besluit is gewijzigd of aangevuld en de besluiten, die ter uitvoering daarvan zijn genomen, en het Koninklijk besluit van 18 December 1820, n°. 70.
 
 ##### Artikel 105
 
 Deze wet kan worden aangehaald onder den naam "Waterstaatswet 1900".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 69
-
-Vervallen
-
-##### Artikel 70
-
-Vervallen
-
-##### Artikel 71
-
-Vervallen
-
-##### Artikel 72
-
-Vervallen
-
-##### Artikel 73
-
-Vervallen
-
-##### Artikel 74
-
-Vervallen
-
-##### Artikel 75
-
-Vervallen
-
-##### Artikel 76
-
-Vervallen
-
-##### Artikel 77
-
-Vervallen
-
-##### Artikel 78
-
-Vervallen
-
-#### Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 4. Bevoegdheid tot onderzoek van waterstaatswerken
-
-#### § 5. Binnentreden van woningen
-
-#### § 6. Voorzieningen ten behoeve van aanleg, onderhoud en verbetering van waterstaatswerken
-
-#### § 7. Vervallen
-
-#### § 8. Vervallen
-
-#### § 9. Vervallen
-
-#### § 10. Vervallen
-
-#### § 11. Vervallen
-
-#### § 12. Staking der uitvoering van werken en uitvoering van noodzakelijke werken
-
-#### § 13. Middelen van executie
-
-#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2024-01-01&g=2024-01-01)
-
-#### § 15. Vervallen
-
-#### § 16. Waterschappen in meer dan eene provincie gelegen
-
-#### Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Slotbepalingen
-
-##### Artikel 72a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

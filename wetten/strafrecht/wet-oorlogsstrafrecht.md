@@ -1,46 +1,18 @@
 ---
 title: "Wet van 10 Juli 1952, houdende vaststelling van de Wet Oorlogsstrafrecht alsmede van enige daarmede verband houdende wijzigingen in het Wetboek van Strafrecht, het Wetboek van Militair Strafrecht en de Invoeringswet Militair Straf- en Tuchtrecht"
+citeertitel: "Wet oorlogsstrafrecht"
 identifier: "BWBR0002099"
-country: "nl"
-rank: "wet"
-publication_date: "2013-10-01"
-last_updated: "2013-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002099"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "903843"
-version_id: "20435612"
-internal_id: "C28719831"
-label_id: "876904"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002099/2013-10-01/0"
-intitule_bron: "Stb.1952-408"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1952-07-10"
-intitule_status: "goed"
-original_publication: "Stb.2013-25"
-original_signed_date: "2012-12-13"
-original_published_date: "2013-01-24"
-original_effect: "structuurwijziging"
-original_dossier: "33429"
-original_url_id: "stb-2013-25"
-entry_into_force_date: "2012-12-13"
-entry_into_force_dossier: "33429"
-jci_1_3: "jci1.3:c:BWBR0002099&z=2013-10-01&g=2013-10-01"
-jci_1_0: "1.0:c:BWBR0002099&g=2013-10-01"
-citeertitel_status: "officieel"
-short_title: "Wet oorlogsstrafrecht"
-signed_date: "2012-12-13"
-entry_into_force: "2012-12-13"
+publicatiedatum: 2012-12-13
+laatste_update: 2013-10-01
+status: geldig
+toestand: 2013-10-01
+bron: "https://wetten.overheid.nl/BWBR0002099"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 10 Juli 1952, houdende vaststelling van de Wet Oorlogsstrafrecht alsmede van enige daarmede verband houdende wijzigingen in het Wetboek van Strafrecht, het Wetboek van Militair Strafrecht en de Invoeringswet Militair Straf- en Tuchtrecht
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is bepalingen vast te stellen met betrekking tot in geval van oorlog gepleegde misdrijven en hun berechting, zomede enige wijzigingen aan te brengen in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) en de Invoeringswet Militair Straf- en Tuchtrecht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
@@ -56,7 +28,7 @@ De navolgende bepalingen worden vastgesteld, die kunnen worden aangehaald als WE
 
 - 3°. de [artikelen 4 tot en met 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2013-10-01&g=2013-10-01);
 
-- 4°. de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als in dit artikel bedoeld.
+- 4°. de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417*bis* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als in dit artikel bedoeld.
 
 2. In geval van een gewapend conflict, dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale orde en veiligheid, zijn de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2013-10-01&g=2013-10-01) van overeenkomstige toepassing en kunnen Wij bij algemene maatregel van bestuur bepalen, dat de overige bepalingen van deze wet geheel of ten dele van toepassing zullen zijn.
 
@@ -72,7 +44,7 @@ Onverminderd het te dien aanzien in het [Wetboek van Strafrecht](https://wetten.
 
 - 1°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf omschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2013-10-01&g=2013-10-01)-[7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=7&z=2013-10-01&g=2013-10-01), indien dit feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlands rechtspersoon of indien enig Nederlands belang daardoor is of kon worden geschaad;
 
-- 2°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, omschreven in een der [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als hiervoor onder 1°. bedoeld;
+- 2°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, omschreven in een der [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417*bis* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als hiervoor onder 1°. bedoeld;
 
 - 3°. op de Nederlander, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoeld.
 
@@ -100,15 +72,15 @@ Hij die in geval van oorlog opzettelijk gebruik maakt of dreigt te maken van mac
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10a
 
@@ -122,7 +94,7 @@ De bij de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 1. Van de misdrijven, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoeld, door wie ook begaan, nemen, behoudens het bepaalde in het tweede lid, kennis de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), de Hoge Raad daaronder begrepen, op de wijze als in die wet bepaald.
 
-2. Indien de vervolging van een misdrijf als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoeld plaats vindt na een vijandelijke bezetting van het grondgebied van het rijk in Europa of van een gedeelte daarvan, nemen bijzondere rechtbanken en het Bijzondere Hooggerechtshof van deze misdrijven kennis met uitzondering van de misdrijven, door militairen begaan, bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01)., of omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) of [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01).
+2. Indien de vervolging van een misdrijf als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoeld plaats vindt na een vijandelijke bezetting van het grondgebied van het rijk in Europa of van een gedeelte daarvan, nemen bijzondere rechtbanken en het Bijzondere Hooggerechtshof van deze misdrijven kennis met uitzondering van de misdrijven, door militairen begaan, bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01)., of omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) of [416-417*bis* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01).
 
 3. Wij kunnen bij algemene maatregel van bestuur voorzieningen treffen omtrent de overgang van zaken naar de bijzondere gerechten alsmede omtrent de voorbereiding van de vervolging voor de tijd, dat deze gerechten nog niet zijn ingesteld. Daarbij kan tevens worden bepaald dat de bijzondere gerechten mede kennisnemen van misdrijven, omschreven in de [Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252).
 
@@ -292,30 +264,24 @@ Indien alleen door de verdachte beroep in cassatie is ingesteld, kan hij ter zak
 
 2. Hetgeen bij de [artikelen 473](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=473) en [476 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=476), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie van overeenkomstige toepassing.
 
-##### Artikel II
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel III
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel IV
-
-Bevat wijzigingen in andere regelgeving.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel Ia
-
-De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de [artikelen 3, onderdelen 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=3&z=2013-10-01&g=2013-10-01), en [12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=12&z=2013-10-01&g=2013-10-01), van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 37
 
 1. In afwijking in zoverre van [artikel 482g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482g), geschiedt in het daar bedoelde geval, de verwijzing naar een bijzondere rechtbank.
 
 2. Hetgeen bij [artikel 482g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482g), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent de rechtbank, deszelfs voorzitter en de officier van justitie is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie bij die rechtbank van overeenkomstige toepassing.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel Ia
+
+De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de [artikelen 3, onderdelen 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=3&z=2013-10-01&g=2013-10-01), en [12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=12&z=2013-10-01&g=2013-10-01), van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.
+
+##### Artikel II
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel III
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel IV
+
+*Bevat wijzigingen in andere regelgeving.*

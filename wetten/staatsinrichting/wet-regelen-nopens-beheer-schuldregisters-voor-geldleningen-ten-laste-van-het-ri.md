@@ -1,44 +1,18 @@
 ---
 title: "Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk"
+citeertitel: "Wet regelen nopens beheer schuldregisters voor geldleningen ten laste van het rijk"
 identifier: "BWBR0002053"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002053"
+categorie: "Overig"
 soort: "wet"
-stam_id: "103143"
-version_id: "143362"
-internal_id: "C143361"
-label_id: "103504"
-dtd_version: "2.0"
-original_entry_into_force: "1949-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002053/2013-01-01/0"
-intitule_bron: "Stb.1949-J 529"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-11-30"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 529"
-original_signed_date: "1949-11-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "1311"
-entry_into_force_date: "1949-12-17"
-entry_into_force_dossier: "1311"
-jci_1_3: "jci1.3:c:BWBR0002053&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002053&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet regelen nopens beheer schuldregisters voor geldleningen ten laste van het rijk"
-signed_date: "1949-11-30"
-entry_into_force: "1949-12-17"
+publicatiedatum: 1949-12-17
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002053"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 30 november 1949, houdende regelen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen nopens het beheer van schuldregisters voor geldleningen ten laste van het Rijk, andere dan de Grootboeken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -83,5 +57,3 @@ Het is aan de Agent en aan de verdere ambtenaren en beambten van het Agentschap 
 ##### Artikel 11
 
 Deze wet treedt in werking met ingang van de dag volgende op die harer afkondiging.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

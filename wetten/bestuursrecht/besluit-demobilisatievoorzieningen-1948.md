@@ -1,68 +1,40 @@
 ---
 title: "Besluit van 14 februari 1948, houdende vaststelling van het Besluit Demobilisatievoorzieningen 1948"
+citeertitel: "Besluit Demobilisatievoorzieningen 1948"
 identifier: "BWBR0002038"
-country: "nl"
-rank: "amvb"
-publication_date: "1965-01-01"
-last_updated: "1965-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002038"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "341653"
-version_id: "499382"
-internal_id: "C499381"
-label_id: "334094"
-dtd_version: "2.0"
-original_entry_into_force: "1948-02-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002038/1965-01-01/0"
-intitule_bron: "Stb.1948-I 57"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-02-14"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 57"
-original_signed_date: "1948-02-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-02-29"
-jci_1_3: "jci1.3:c:BWBR0002038&z=1965-01-01&g=1965-01-01"
-jci_1_0: "1.0:c:BWBR0002038&g=1965-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Demobilisatievoorzieningen 1948"
-signed_date: "1948-02-14"
-entry_into_force: "1948-02-29"
+publicatiedatum: 1948-02-29
+laatste_update: 1965-01-01
+status: geldig
+toestand: 1965-01-01
+bron: "https://wetten.overheid.nl/BWBR0002038"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 14 februari 1948, houdende vaststelling van het Besluit Demobilisatievoorzieningen 1948
-
-Op de voordracht van Onze Ministers van Oorlog, van Marine, van Overzeese Gebiedsdelen, van Financiën, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening, van Onderwijs, Kunsten en Wetenschappen, van Sociale Zaken en van Binnenlandse Zaken van 16 December 1947, Afdeling A 2, Bureau 3, Nr. 628;
-
-Overwegende, dat het noodzakelijk is om enige voorzieningen te treffen in het belang van de militairen der Koninklijke Landmacht en der Koninklijke Marine, die na 1 Maart 1946 zijn of worden gedemobiliseerd;
-
-De Raad van State gehoord (advies van 20 Januari 1948, Nr. 34);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 10 Februari 1948, Geheim Litt. W. 26;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit en in de regelingen ter uitvoering van dit besluit wordt verstaan onder:
 
-- a. **"demobilisatie":** het verlenen van ontslag of groot verlof aan, dan wel het ontheffen van de werkelijke dienst van militairen, ongeacht of zij daarbij een vrijwillig dienstverband aangaan om doorlopend werkelijke dienst bij de krijgsmacht te verrichten;
+- a. *"demobilisatie":* het verlenen van ontslag of groot verlof aan, dan wel het ontheffen van de werkelijke dienst van militairen, ongeacht of zij daarbij een vrijwillig dienstverband aangaan om doorlopend werkelijke dienst bij de krijgsmacht te verrichten;
 
-- b. **"maand":** de periode tussen een datum en de overeenkomstige datum van de volgende kalendermaand, met dien verstande, dat resterende gedeelten van een maand als volle maand worden berekend, voor zover deze gedeelten vijftien of meer dagen betreffen; resterende gedeelten van minder dan vijftien dagen worden niet berekend;
+- b. *"maand":* de periode tussen een datum en de overeenkomstige datum van de volgende kalendermaand, met dien verstande, dat resterende gedeelten van een maand als volle maand worden berekend, voor zover deze gedeelten vijftien of meer dagen betreffen; resterende gedeelten van minder dan vijftien dagen worden niet berekend;
 
-- c. **"zes maanden":** een periode van 180 dagen;
+- c. *"zes maanden":* een periode van 180 dagen;
 
-- d. **"militair inkomen":** het inkomen, dat voor de militair zou gelden bij dienstvervulling buiten de keerkringen, voor wat het personeel van de Koninklijke Marine betreft bij plaatsing aan wal in Nederland. Dit inkomen wordt berekend naar de rang of stand, laatstelijk in het Oosten bekleed - of, indien de militair daarna mocht zijn bevorderd tot een rang of stand, welke hoger is dan evenbedoelde, naar die rang of stand - waarbij, naar regelen, vast te stellen door Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, in overleg met Onze Minister van Financiën, vergoedingen of toelagen in aanmerking kunnen worden genomen;
+- d. *"militair inkomen":* het inkomen, dat voor de militair zou gelden bij dienstvervulling buiten de keerkringen, voor wat het personeel van de Koninklijke Marine betreft bij plaatsing aan wal in Nederland. Dit inkomen wordt berekend naar de rang of stand, laatstelijk in het Oosten bekleed - of, indien de militair daarna mocht zijn bevorderd tot een rang of stand, welke hoger is dan evenbedoelde, naar die rang of stand - waarbij, naar regelen, vast te stellen door Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, in overleg met Onze Minister van Financiën, vergoedingen of toelagen in aanmerking kunnen worden genomen;
 
-- e. **"het Oosten":** het grondgebied van het voormalige Nederlandsch-Indië; voorts het Verre Oosten met aangrenzende zeegebieden zomede de Stille Oceaan met inbegrip van de daarin gelegen eilanden en de daaraan gelegen havens.
+- e. *"het Oosten":* het grondgebied van het voormalige Nederlandsch-Indië; voorts het Verre Oosten met aangrenzende zeegebieden zomede de Stille Oceaan met inbegrip van de daarin gelegen eilanden en de daaraan gelegen havens.
 
 ##### Artikel 2
 
 Dit besluit is van toepassing op militairen der Koninklijke Marine en der Koninklijke Landmacht, die worden gedemobiliseerd, met uitzondering van:
 
-- a. militairen, behorende tot het beroepspersoneel, behoudens het bepaalde in [artikel 13, onder 1**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01);
+- a. militairen, behorende tot het beroepspersoneel, behoudens het bepaalde in [artikel 13, onder 1*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01);
 
-- b. militairen, die geen werkelijke dienst in het Oosten hebben verricht, behoudens het bepaalde in [artikel 13, onder 1**a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01) of wier werkelijke dienst aldaar minder dan zes maanden heeft geduurd, behoudens het bepaalde in [artikel 13, onder 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01);
+- b. militairen, die geen werkelijke dienst in het Oosten hebben verricht, behoudens het bepaalde in [artikel 13, onder 1*a,*](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01) of wier werkelijke dienst aldaar minder dan zes maanden heeft geduurd, behoudens het bepaalde in [artikel 13, onder 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01);
 
 - c. militairen, wier demobilisatie niet geschiedt in Nederland, behoudens het bepaalde in [artikel 13, onder 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0002038&artikel=13&z=1965-01-01&g=1965-01-01);
 
@@ -110,7 +82,7 @@ De loonbelasting, verschuldigd over de bedragen, bedoeld in de [artikelen 5](htt
 
 2. Ter bevordering van de scholing, herscholing en omscholing der militairen kunnen aan werkgevers en werknemers bijzondere vergoedingen worden toegekend.
 
-3. Onze Ministers van Sociale Zaken, van Marine, van Oorlog en van Financiën stellen nadere regelen vast ter uitvoering van dit artikel met inachtneming van het Koninklijk besluit van 17 Juli 1944 (**Staatsblad** nr. E 51), houdende regelen betreffende de arbeidsbemiddeling en de scholing, herscholing en omscholing.
+3. Onze Ministers van Sociale Zaken, van Marine, van Oorlog en van Financiën stellen nadere regelen vast ter uitvoering van dit artikel met inachtneming van het Koninklijk besluit van 17 Juli 1944 (*Staatsblad* nr. E 51), houdende regelen betreffende de arbeidsbemiddeling en de scholing, herscholing en omscholing.
 
 ##### Artikel 9a
 
@@ -118,7 +90,7 @@ Bij de vervulling van daarvoor naar hun oordeel in aanmerking komende vacatures 
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10a
 
@@ -138,7 +110,7 @@ Vervallen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -146,13 +118,13 @@ Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, kan - de i
 
 - 1. militairen, die daarvan uitgesloten zouden zijn,
 
-- a. omdat zij niet in het Oosten hebben gediend: mits zij elders buiten Nederland hebben gediend;
+   - a. omdat zij niet in het Oosten hebben gediend: mits zij elders buiten Nederland hebben gediend;
 
-- b. omdat zij behoren tot het beroepspersoneel: mits zij eervol worden ontslagen uit hoofde van verwonding, verminking, ziekte of gebreken, voor zover deze gedurende de uitoefening van de dienst in het Oosten zijn ontstaan, tot uiting gekomen of verergerd ten gevolge van een der oorzaken als bedoeld in de artikelen 2, onder 2**e,** van de Pensioenwet voor de zeemacht (**Staatsblad** 1922, nr. 65) en de Pensioenwet voor de landmacht (**Staatsblad** 1922, nr. 66);
+   - b. omdat zij behoren tot het beroepspersoneel: mits zij eervol worden ontslagen uit hoofde van verwonding, verminking, ziekte of gebreken, voor zover deze gedurende de uitoefening van de dienst in het Oosten zijn ontstaan, tot uiting gekomen of verergerd ten gevolge van een der oorzaken als bedoeld in de artikelen 2, onder 2*e,* van de Pensioenwet voor de zeemacht (*Staatsblad* 1922, nr. 65) en de Pensioenwet voor de landmacht (*Staatsblad* 1922, nr. 66);
 
-- c. omdat hun werkelijke dienst in het Oosten is beëindigd, alvorens dezelve zes maanden heeft geduurd: mits zulks het gevolg is van bijzondere omstandigheden;
+   - c. omdat hun werkelijke dienst in het Oosten is beëindigd, alvorens dezelve zes maanden heeft geduurd: mits zulks het gevolg is van bijzondere omstandigheden;
 
-- d. omdat zij elders dan in Nederland worden gedemobiliseerd: mits de kosten voor het Rijk bij hun demobilisatie buiten Nederland niet hoger zijn dan bij hun demobilisatie in Nederland.
+   - d. omdat zij elders dan in Nederland worden gedemobiliseerd: mits de kosten voor het Rijk bij hun demobilisatie buiten Nederland niet hoger zijn dan bij hun demobilisatie in Nederland.
 
 - 2. tijdelijke vlootpredikanten, tijdelijke vlootaalmoezeniers en reserve-legerpredikanten en -aalmoezeniers: mits zij gedurende zes maanden in het Oosten hun taak hebben verricht en de dienst bij de Koninklijke Marine of de Koninklijke Landmacht verlaten.
 
@@ -165,5 +137,3 @@ Onze Minister van Marine, onderscheidenlijk Onze Minister van Oorlog, kan - de i
 ##### Artikel 15
 
 Dit besluit kan worden aangehaald als "Besluit Demobilisatievoorzieningen 1948".
-
-Onze Ministers van Oorlog, van Marine, van Overzeese Gebiedsdelen, van Financiën, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening, van Onderwijs, Kunsten en Wetenschappen, van Sociale Zaken en van Binnenlandse Zaken, zijn ieder voor zoveel hem aangaat, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

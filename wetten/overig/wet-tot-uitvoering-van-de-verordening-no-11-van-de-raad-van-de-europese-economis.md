@@ -1,44 +1,18 @@
 ---
 title: "Wet van 27 juni 1963, tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap"
+citeertitel: "Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap"
 identifier: "BWBR0002419"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002419"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "323183"
-version_id: "469172"
-internal_id: "C469171"
-label_id: "316334"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002419/2013-01-01/0"
-intitule_bron: "Stb.1963-344"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1963-06-27"
-intitule_status: "goed"
-original_publication: "Stb.1963-344"
-original_signed_date: "1963-06-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "6731"
-entry_into_force_date: "1963-08-26"
-entry_into_force_dossier: "6731"
-jci_1_3: "jci1.3:c:BWBR0002419&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002419&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap"
-signed_date: "1963-06-27"
-entry_into_force: "1963-08-26"
+publicatiedatum: 1963-08-26
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002419"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 27 juni 1963, tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het nodig is enige regelen te stellen nopens de uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap betreffende de opheffing van discriminaties inzake vrachtprijzen en vervoervoorwaarden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Definities
 
@@ -46,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze Wet wordt verstaan onder:
 
-- a. Verordening: de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap (**Publikatieblad van de Europese Gemeenschappen** van 16 augustus 1960);
+- a. Verordening: de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap (*Publikatieblad van de Europese Gemeenschappen* van 16 augustus 1960);
 
 - b. Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
@@ -102,12 +76,10 @@ Uiterlijk binnen vijf weken na de datum waarop het verzoek om advies werd ontvan
 
 ##### Artikel 8
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 #### Slotbepalingen
 
 ##### Artikel 9
 
 Deze wet kan worden aangehaald onder de titel: Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

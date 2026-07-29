@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 23 januari 1948, tot uitvoering van artikel 32 der Wet buitengewoon pensioen 1940-1945 (Staatsblad 1947, No. H 313)"
+citeertitel: "Besluit ex artikel 32 Wet buitengewoon pensioen 1940-1945"
 identifier: "BWBR0002037"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002037"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "414963"
-version_id: "607992"
-internal_id: "C607991"
-label_id: "403994"
-dtd_version: "2.0"
-original_entry_into_force: "1948-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002037/2011-01-01/0"
-intitule_bron: "Stb.1948-I 28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-01-23"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 28"
-original_signed_date: "1948-01-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-02-19"
-jci_1_3: "jci1.3:c:BWBR0002037&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0002037&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 32 Wet buitengewoon pensioen 1940-1945"
-signed_date: "1948-01-23"
-entry_into_force: "1948-02-19"
+publicatiedatum: 1948-02-19
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0002037"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 23 januari 1948, tot uitvoering van artikel 32 der Wet buitengewoon pensioen 1940-1945 (Staatsblad 1947, No. H 313)
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Binnenlandse Zaken, van Financiën en van Sociale Zaken van 9 December 1947, afdeling Hulpverlening Oorlogsslachtoffers, no. 6411;
-
-Gelet op de artikelen 3 en 32, vierde lid, van de "[Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032)" (**Staatsblad** 1947, no. H 313);
-
-Gezien de adviezen van de Buitengewone Pensioenraad en de Stichting 1940-1945;
-
-De Raad van State gehoord (advies van 6 Januari 1948, no. 25);
-
-Gezien het nader rapport van voornoemde Ministers van 9 Januari 1948, no. 64505, afdeling Maatschappelijke Zorg II Bureau 4;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -52,7 +22,7 @@ Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;
 
 de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-de gepensioneerde: degene, aan wie pensioen is verleend krachtens de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1986, 575);
+de gepensioneerde: degene, aan wie pensioen is verleend krachtens de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (*Stb.* 1986, 575);
 
 pensioen: het buitengewoon pensioen, verleend ingevolge de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032).
 
@@ -86,10 +56,8 @@ De controle op het in leven zijn van de gepensioneerde en op de verdere omstandi
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Dit besluit treedt in werking op de tweede dag na die der dagtekening van het **Staatsblad**, waarin het geplaatst is.
-
-Onze Ministers van Binnenlandse Zaken, van Financiën en van Sociale Zaken zijn, ieder voor zoveel hem aangaat, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State, aan de Algemene Rekenkamer en aan de Buitengewone Pensioenraad.
+Dit besluit treedt in werking op de tweede dag na die der dagtekening van het *Staatsblad*, waarin het geplaatst is.

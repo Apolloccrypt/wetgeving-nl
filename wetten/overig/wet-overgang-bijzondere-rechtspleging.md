@@ -1,46 +1,20 @@
 ---
 title: "Wet van 13 mei 1948, tot opheffing van de bijzondere gerechtshoven, de Bijzondere Raad van Cassatie en de tribunalen"
+citeertitel: "Wet overgang bijzondere rechtspleging"
 identifier: "BWBR0002040"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002040"
+categorie: "Overig"
 soort: "wet"
-stam_id: "46853"
-version_id: "57692"
-internal_id: "C57691"
-label_id: "46874"
-dtd_version: "2.0"
-original_entry_into_force: "1948-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002040/2020-01-01/0"
-intitule_bron: "Stb.1948-I 186"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-05-13"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 186"
-original_signed_date: "1948-05-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "21967"
-entry_into_force_date: "1948-05-19"
-entry_into_force_dossier: "21967"
-jci_1_3: "jci1.3:c:BWBR0002040&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002040&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet overgang bijzondere rechtspleging"
-signed_date: "1948-05-13"
-entry_into_force: "1948-05-19"
+publicatiedatum: 1948-05-19
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002040"
+opgehaald: 2026-07-29
 ---
+
 # Wet van 13 mei 1948, tot opheffing van de bijzondere gerechtshoven, de Bijzondere Raad van Cassatie en de tribunalen
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de berechting van politieke delinquenten en het opleggen van bijzondere maatregelen krachtens het [Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009) zo spoedig mogelijk aan de organen van de gewone rechterlijke macht over te dragen door de bijzondere gerechtshoven, de Bijzondere Raad van Cassatie en de tribunalen op te heffen en de rechtsmacht dezer colleges te doen overgaan op de organen der gewone rechterlijke macht, alsmede enige andere met de bijzondere rechtspleging verband houdende voorzieningen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### Afdeling I. Opheffing van de bijzondere gerechtshoven en overgang van hun rechtsmacht.
+#### Afdeling I. Opheffing van de bijzondere gerechtshoven en overgang van hun rechtsmacht.
 
 ##### Artikel 1
 
@@ -58,7 +32,7 @@ De bijzondere strafkamers bestaan uit drie rechters.
 
 ##### Artikel 4
 
-Wij behouden Ons voor in verband met de instelling van bijzondere strafkamers meer vice-presidenten, rechters, substituut-officieren van justitie en substituut-griffiers te benoemen dan is toegelaten volgens de wet van 18 December 1947 (**Staatsblad** no. H 430).
+Wij behouden Ons voor in verband met de instelling van bijzondere strafkamers meer vice-presidenten, rechters, substituut-officieren van justitie en substituut-griffiers te benoemen dan is toegelaten volgens de wet van 18 December 1947 (*Staatsblad* no. H 430).
 
 ##### Artikel 5
 
@@ -66,7 +40,7 @@ Eenzelfde persoon kan bij meer dan één arrondissements-rechtbank als lid van e
 
 ##### Artikel 6
 
-1. De op het tijdstip van opheffing van een bijzonder gerechtshof bij dat hof aanhangige zaken - daaronder begrepen de zaken, waarin een bevel, als bedoeld bij [artikel 14**a** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij de door de president van het bijzonder gerechtshof aangewezen, of - mocht zodanige aanwijzing op het tijdstip van opheffing niet hebben plaats gehad - door de Minister van Justitie aan te wijzen arrondissements-rechtbanken binnen het rechtsgebied van het hof. In afwijking van de geldende regelen betreffende de betrekkelijke bevoegdheid is iedere aangewezen rechtbank bevoegd van de bij haar overgebrachte zaak kennis te nemen.
+1. De op het tijdstip van opheffing van een bijzonder gerechtshof bij dat hof aanhangige zaken - daaronder begrepen de zaken, waarin een bevel, als bedoeld bij [artikel 14*a* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij de door de president van het bijzonder gerechtshof aangewezen, of - mocht zodanige aanwijzing op het tijdstip van opheffing niet hebben plaats gehad - door de Minister van Justitie aan te wijzen arrondissements-rechtbanken binnen het rechtsgebied van het hof. In afwijking van de geldende regelen betreffende de betrekkelijke bevoegdheid is iedere aangewezen rechtbank bevoegd van de bij haar overgebrachte zaak kennis te nemen.
 
 2. In de gevallen, waarin de wet een taak opdraagt aan het bijzonder gerechtshof, dat een sententie heeft gewezen, treedt in de plaats van het opgeheven hof de arrondissements-rechtbank ter plaatse, waar de kamer van het hof, die de sententie heeft gewezen, placht zitting te houden.
 
@@ -102,7 +76,7 @@ Tegen de beslissingen van de arrondissements-rechtbanken in zaken, waarop de bep
 
 2. De [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=40) en [41 van het Besluit Buitengewone Rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=41) zijn van overeenkomstige toepassing. In afwijking in zoverre van het bepaalde in [artikel 461, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=461) geschiedt zowel in het daar, als ook in het in [artikel 465, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=465), van dat wetboek bedoelde geval de verwijzing hetzij naar een bijzonder gerechtshof hetzij naar een arrondissementsrechtbank binnen het rechtsgebied van een opgeheven bijzonder gerechtshof.
 
-### Afdeling II. Opheffing van de Bijzondere Raad van Cassatie en overgang van diens rechtsmacht.
+#### Afdeling II. Opheffing van de Bijzondere Raad van Cassatie en overgang van diens rechtsmacht.
 
 ##### Artikel 13
 
@@ -116,13 +90,13 @@ De Bijzondere Raad van Cassatie wordt, gehoord de president van de Raad en de pr
 
 ##### Artikel 15
 
-1. De op het tijdstip van opheffing van de Bijzondere Raad van Cassatie bij die Raad aanhangige zaken - daaronder begrepen de zaken, waarin een bevel, als bedoeld bij [artikel 14**a** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij de Hoge Raad.
+1. De op het tijdstip van opheffing van de Bijzondere Raad van Cassatie bij die Raad aanhangige zaken - daaronder begrepen de zaken, waarin een bevel, als bedoeld bij [artikel 14*a* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij de Hoge Raad.
 
 2. In de gevallen, waarin de wet een taak opdraagt aan de Bijzondere Raad van Cassatie nadat een arrest is gewezen, treedt in de plaats van die Raad de Hoge Raad.
 
 3. De overbrenging der bescheiden van het parket en van de griffie wordt door de Minister van Justitie nader geregeld.
 
-### Afdeling III. Opheffing van de tribunalen en overgang van hun rechtsmacht.
+#### Afdeling III. Opheffing van de tribunalen en overgang van hun rechtsmacht.
 
 ##### Artikel 16
 
@@ -134,15 +108,15 @@ De Bijzondere Raad van Cassatie wordt, gehoord de president van de Raad en de pr
 
 1. De rechtsmacht van de tribunalen gaat met ingang van de datum, genoemd in het voorgaande artikel, over op de kantongerechten.
 
-2. Door Ons worden voor ieder arrondissement één of meer kantonrechters aangewezen om te beslissen omtrent de oplegging van de in de [eerste titel van het Tribunaalbesluit](onbekend) bedoelde maatregelen.
+2. Door Ons worden voor ieder arrondissement één of meer kantonrechters aangewezen om te beslissen omtrent de oplegging van de in de eerste titel van het Tribunaalbesluit bedoelde maatregelen.
 
-3. Wij behouden Ons voor meer substituut-griffiers bij de rechtbanken te benoemen dan is toegelaten volgens de wet van 18 December 1947 (**Staatsblad** no. H 430).
+3. Wij behouden Ons voor meer substituut-griffiers bij de rechtbanken te benoemen dan is toegelaten volgens de wet van 18 December 1947 (*Staatsblad* no. H 430).
 
-4. De beslissing omtrent de oplegging van de in de [eerste titel van het Tribunaalbesluit](onbekend) bedoelde maatregelen geschiedt uitsluitend door kantonrechters of kantonrechters-plaatsvervangers, door Ons aan te wijzen.
+4. De beslissing omtrent de oplegging van de in de eerste titel van het Tribunaalbesluit bedoelde maatregelen geschiedt uitsluitend door kantonrechters of kantonrechters-plaatsvervangers, door Ons aan te wijzen.
 
 ##### Artikel 18
 
-1. De op 1 Januari 1948 bij de tribunalen aanhangige zaken - daaronder begrepen de zaken, waarin het fiat-executie nog niet is verleend, en die, waarin een bevel, als bedoeld in [artikel 3**a** van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=3a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij een door de procureur-fiscaal aan te wijzen kantongerecht, dat krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2020-01-01&g=2020-01-01), tot kennisneming van tribunaalzaken bevoegd is.
+1. De op 1 Januari 1948 bij de tribunalen aanhangige zaken - daaronder begrepen de zaken, waarin het fiat-executie nog niet is verleend, en die, waarin een bevel, als bedoeld in [artikel 3*a* van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=3a), is gegeven - worden op de wijze, door de Minister van Justitie te regelen, overgebracht bij een door de procureur-fiscaal aan te wijzen kantongerecht, dat krachtens [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002040&afdeling=III&artikel=17&z=2020-01-01&g=2020-01-01), tot kennisneming van tribunaalzaken bevoegd is.
 
 2. De stukken betreffende zaken, die op 1 Januari 1948 nog niet in behandeling zijn genomen, worden aan de procureur-fiscaal teruggezonden.
 
@@ -170,13 +144,13 @@ In het gebied, waarin de rechtsmacht van een bijzonder gerechtshof op de rechtba
 
 ##### Artikel 22
 
-Met ingang van een nader door Ons te bepalen tijdstip gaan de bevoegdheden van de Hoge Autoriteit, bedoeld in het Koninklijk besluit van 23 December 1944 (**Staatsblad** no. E 153), houdende tijdelijke wijziging van het [Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009), over op de president van het gerechtshof, binnen welks ressort het tribunaal of het kantongerecht, dat de uitspraak heeft gedaan, is gevestigd.
+Met ingang van een nader door Ons te bepalen tijdstip gaan de bevoegdheden van de Hoge Autoriteit, bedoeld in het Koninklijk besluit van 23 December 1944 (*Staatsblad* no. E 153), houdende tijdelijke wijziging van het [Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009), over op de president van het gerechtshof, binnen welks ressort het tribunaal of het kantongerecht, dat de uitspraak heeft gedaan, is gevestigd.
 
 ##### Artikel 23
 
 Met ingang van een nader door Ons te bepalen tijdstip kan de bijzondere maatregel van internering overeenkomstig door de Minister van Justitie te geven regelen en aanwijzingen worden ten uitvoer gelegd als gevangenisstraf, te ondergaan in een rijkswerkinrichting.
 
-### Afdeling IV. Slotbepalingen
+#### Afdeling IV. Slotbepalingen
 
 ##### Artikel 24
 
@@ -196,11 +170,11 @@ In het gebied, waarin de rechtsmacht van een bijzonder gerechtshof op de arrondi
 
 ##### Artikel 27
 
-Voor de toepassing van [artikel 6:2:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10) wordt met betrekking tot personen, die tot gevangenisstraf zijn veroordeeld wegens het begaan van een misdrijf, waarop het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing is, onder de werkelijke straftijd begrepen de tijd in bewaring of voorlopige hechtenis doorgebracht, waaromtrent is bepaald, dat hij bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht.
+Voor de toepassing van [artikel 6:2:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10) wordt met betrekking tot personen, die tot gevangenisstraf zijn veroordeeld wegens het begaan van een misdrijf, waarop het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing is, onder de werkelijke straftijd begrepen de tijd in bewaring of voorlopige hechtenis doorgebracht, waaromtrent is bepaald, dat hij bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht.
 
 ##### Artikel 28
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 29
 
@@ -211,5 +185,3 @@ De Minister van Justitie is bevoegd nadere regelen te stellen ter uitvoering van
 1. Deze wet kan worden aangehaald als "Wet overgang bijzondere rechtspleging".
 
 2. Zij treedt in werking met ingang van de dag na die harer afkondiging.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

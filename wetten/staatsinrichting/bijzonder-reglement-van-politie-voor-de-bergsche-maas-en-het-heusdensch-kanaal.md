@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 31 Oktober 1894, tot vaststelling van een bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (Staatsblad n°. 4) in aanleg zijnde rivier de Maas, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en het Heusdensch kanaal"
+citeertitel: "Bijzonder reglement van politie voor de Bergsche Maas en het Heusdensch kanaal"
 identifier: "BWBR0001861"
-country: "nl"
-rank: "kb"
-publication_date: "1989-07-29"
-last_updated: "1989-07-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0001861"
+categorie: "Verkeer"
 soort: "KB"
-stam_id: "158413"
-version_id: "217132"
-internal_id: "C217131"
-label_id: "157004"
-dtd_version: "2.0"
-original_entry_into_force: "1894-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0001861/1989-07-29/0"
-intitule_bron: "Stb.1894-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1894-10-31"
-intitule_status: "goed"
-original_publication: "Stb.1894-170"
-original_signed_date: "1894-10-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1894-11-29"
-jci_1_3: "jci1.3:c:BWBR0001861&z=1989-07-29&g=1989-07-29"
-jci_1_0: "1.0:c:BWBR0001861&g=1989-07-29"
-citeertitel_status: "officieel"
-short_title: "Bijzonder reglement van politie voor de Bergsche Maas en het Heusdensch kanaal"
-signed_date: "1894-10-31"
-entry_into_force: "1894-11-29"
+publicatiedatum: 1894-11-29
+laatste_update: 1989-07-29
+status: geldig
+toestand: 1989-07-29
+bron: "https://wetten.overheid.nl/BWBR0001861"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 31 Oktober 1894, tot vaststelling van een bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (Staatsblad n°. 4) in aanleg zijnde rivier de Maas, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en het Heusdensch kanaal
-
-Op de voordracht van den Minister van Waterstaat, Handel en Nijverheid van 18 Juni 1894, La. B, afdeeling Waterstaat;
-
-Gezien de wet van 28 Februari 1891 (**Staatsblad** n°. 69) en art. 1 van het Algemeen Reglement van politie voor rivieren, kanalen, havens, sluizen, bruggen en daartoe behoorende werken onder beheer van het Rijk, vastgesteld bij Ons besluit van 13 Augustus 1891 (**Staatsblad** n°. 158) en gewijzigd bij Ons besluit van 17 April 1894 (**Staatsblad** n°. 57);
-
-Den Raad van State gehoord (advies van 7 Augustus 1894, n°. 42);
-
-Gelet op het nader rapport van voornoemden Minister van 26 October 1894, n°. 93, afdeeling Waterstaat;
-
-Hebben goedgevonden en verstaan, vast te stellen het navolgende Bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (**Staatsblad** n°. 4) in aanleg zijnde rivier **de Maas**, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en **het Heusdensch kanaal**.
 
 ##### Artikel 1
 
-Voor de toepassing van dit en van het Algemeen Reglement worden de tot lossen en laden bestemde inrichtingen in de rivier **de Maas** met havens gelijkgesteld.
+Voor de toepassing van dit en van het Algemeen Reglement worden de tot lossen en laden bestemde inrichtingen in de rivier *de Maas* met havens gelijkgesteld.
 
 ##### Artikel 2
 
@@ -115,5 +87,3 @@ Met uitbreiding van art. 91, 2de lid, van het Algemeen Reglement, wordt voor dez
 ##### Artikel 13
 
 Overtreding van de bepalingen van dit reglement is een strafbaar feit.
-
-De Minister van Waterstaat, Handel en Nijverheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** geplaatst en aan den Raad van State medegedeeld zal worden.

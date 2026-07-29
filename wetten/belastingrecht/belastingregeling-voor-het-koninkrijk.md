@@ -1,45 +1,18 @@
 ---
 title: "Rijkswet van 28 oktober 1964, houdende Belastingregeling voor het Koninkrijk"
+citeertitel: "Belastingregeling voor het Koninkrijk"
 identifier: "BWBR0002464"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002464"
+categorie: "Belastingrecht"
 soort: "rijkswet"
-stam_id: "155183"
-version_id: "211842"
-internal_id: "C211841"
-label_id: "154234"
-dtd_version: "2.0"
-original_entry_into_force: "1965-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002464/2010-10-10/0"
-intitule_bron: "Stb.1964-425"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1964-10-28"
-intitule_status: "goed"
-original_publication: "Stb.1964-425"
-original_signed_date: "1964-10-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "7181"
-entry_into_force_date: "1965-01-01"
-jci_1_3: "jci1.3:c:BWBR0002464&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0002464&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Belastingregeling voor het Koninkrijk"
-signed_date: "1964-10-28"
-entry_into_force: "1965-01-01"
+publicatiedatum: 1965-01-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0002464"
+opgehaald: 2026-07-29
 ---
+
 # Rijkswet van 28 oktober 1964, houdende Belastingregeling voor het Koninkrijk
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de Regeringen van Nederland, Suriname en de Nederlandse Antillen het in onderling overleg raadzaam oordelen, dat op het stuk van de belastingen een onderlinge regeling bij Rijkswet wordt vastgesteld;
-
-dat het derhalve wenselijk is zulke regelen met toepassing van artikel 38 van het Statuut voor het Koninkrijk vast te stellen;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Algemene bepaling
 
@@ -109,21 +82,21 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - a. wordt, tenzij de context anders vereist, verstaan onder:
 
-- 1°. de [Richtlijn 2003/48/EG](32003L0048): de [Richtlijn 2003/48/EG](32003L0048) van de Raad van de Europese Unie van 3 juni 2003 betreffende belastingheffing op inkomsten van spaargelden in de vorm van rentebetalingen (PbEU L 157/38);
+   - 1°. de Richtlijn 2003/48/EG: de Richtlijn 2003/48/EG van de Raad van de Europese Unie van 3 juni 2003 betreffende belastingheffing op inkomsten van spaargelden in de vorm van rentebetalingen (PbEU L 157/38);
 
-- 2°. uiteindelijk gerechtigde: een uiteindelijk gerechtigde als bedoeld in artikel 2 van de [Richtlijn 2003/48/EG](32003L0048);
+   - 2°. uiteindelijk gerechtigde: een uiteindelijk gerechtigde als bedoeld in artikel 2 van de Richtlijn 2003/48/EG;
 
-- 3°. uitbetalende instantie: een uitbetalende instantie als bedoeld in artikel 4 van de [Richtlijn 2003/48/EG](32003L0048);
+   - 3°. uitbetalende instantie: een uitbetalende instantie als bedoeld in artikel 4 van de Richtlijn 2003/48/EG;
 
-- 4°. rentebetaling: een rentebetaling als bedoeld in artikel 6 van de [Richtlijn 2003/48/EG](32003L0048), met inachtneming van artikel 15 van de [Richtlijn 2003/48/EG](32003L0048);
+   - 4°. rentebetaling: een rentebetaling als bedoeld in artikel 6 van de Richtlijn 2003/48/EG, met inachtneming van artikel 15 van de Richtlijn 2003/48/EG;
 
-- 5°. termen, gebruikt in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) en [artikel 24, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=24&z=2010-10-10&g=2010-10-10), die niet anderszins in dit artikel zijn omschreven: de betekenis die in de [Richtlijn 2003/48/EG](32003L0048) daaraan wordt gegeven;
+   - 5°. termen, gebruikt in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) en [artikel 24, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=24&z=2010-10-10&g=2010-10-10), die niet anderszins in dit artikel zijn omschreven: de betekenis die in de Richtlijn 2003/48/EG daaraan wordt gegeven;
 
-- b. wordt in de bepalingen in de [Richtlijn 2003/48/EG](32003L0048) waarnaar in dit artikel, [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) en [artikel 24, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=24&z=2010-10-10&g=2010-10-10), wordt verwezen in plaats van «lidstaten» gelezen: Curaçao, Sint Maarten of Nederland, al naar de context vereist.
+- b. wordt in de bepalingen in de Richtlijn 2003/48/EG waarnaar in dit artikel, [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) en [artikel 24, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=24&z=2010-10-10&g=2010-10-10), wordt verwezen in plaats van «lidstaten» gelezen: Curaçao, Sint Maarten of Nederland, al naar de context vereist.
 
 ### Hoofdstuk II. Vermijding van dubbele belasting
 
-### Afdeling 1. Belastingen naar inkomen en vermogen
+#### Afdeling 1. Belastingen naar inkomen en vermogen
 
 ##### Artikel 3
 
@@ -135,31 +108,31 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - a. zoveel Nederland betreft:
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de vennootschapsbelasting;
+   - 3°. de vennootschapsbelasting;
 
-- 4°. de dividendbelasting;
+   - 4°. de dividendbelasting;
 
-- 5°. de commissarissenbelasting;
+   - 5°. de commissarissenbelasting;
 
-- 6°. de vermogensbelasting;
+   - 6°. de vermogensbelasting;
 
 - b. zoveel Curaçao en Sint Maarten betreft:
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de winstbelasting;
+   - 2°. de winstbelasting;
 
 - c. zoveel Aruba betreft:
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de winstbelasting;
+   - 2°. de winstbelasting;
 
-- 3°. de dividendbelasting.
+   - 3°. de dividendbelasting.
 
 ##### Artikel 4
 
@@ -243,6 +216,22 @@ indien blijkt dat bij de definitieve aanslagregeling in Curaçao onderscheidenli
 
 2. Indien in het land waarvan de persoon die de rente verschuldigd is, inwoner is, bij wege van inhouding een belasting van rente wordt geheven, laat het eerste lid een zodanige belasting onverlet met dien verstande, dat het tarief 10 percent niet te boven gaat. De vorige volzin vindt geen toepassing met betrekking tot rente verschuldigd door een land of een staatkundig onderdeel van een land.
 
+##### Artikel 13a
+
+1. Indien de uiteindelijk gerechtigde van rente woonachtig is in Nederland en de uitbetalende instantie in Curaçao of Sint Maarten is gevestigd, heft Curaçao onderscheidenlijk Sint Maarten gedurende de in artikel 10 van de Richtlijn 2003/48/EG bedoelde overgangsperiode bronbelasting, gedurende de eerste drie jaar van de overgangsperiode tegen een tarief van 15%, gedurende de volgende drie jaar tegen een tarief van 20% en daarna tegen een tarief van 35%. De uitbetalende instantie houdt de bronbelasting in op een wijze als omschreven in artikel 11, tweede en derde lid, van de Richtlijn 2003/48/EG.
+
+2. Het opleggen van bronbelasting door Curaçao of Sint Maarten op grond van dit artikel belet Nederland niet de inkomsten te belasten overeenkomstig het nationale recht met inachtneming van de andere bepalingen in deze Rijkswet.
+
+3. Tijdens de overgangsperiode kunnen Curaçao en Sint Maarten bepalen dat een marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt voor een in Nederland gevestigde entiteit als bedoeld in artikel 4, tweede lid, van de Richtlijn 2003/48/EG, wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en heffen zij de bronbelasting op die rente, tenzij die entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van dat lid.
+
+4. Curaçao onderscheidenlijk Sint Maarten behoudt 25% van de opbrengsten van de bronheffing, bedoeld in het eerste lid, en draagt 75% van de opbrengsten af aan Nederland. Indien Curaçao onderscheidenlijk Sint Maarten overeenkomstig het derde lid bronbelasting heft, behoudt Curaçao onderscheidenlijk Sint Maarten 25% van de opbrengsten geheven op rentebetalingen aan in Nederland gevestigde entiteiten als bedoeld in artikel 4, tweede lid, van de Richtlijn 2003/48/EG en draagt Curaçao onderscheidenlijk Sint Maarten 75% af aan Nederland. Die overdrachten vinden plaats uiterlijk in de zes maanden volgende op het eind van het belastingjaar van Curaçao onderscheidenlijk Sint Maarten. Curaçao onderscheidenlijk Sint Maarten treft de maatregelen die nodig zijn om het systeem voor de verdeling van de belastingopbrengsten correct te doen functioneren.
+
+5. Curaçao onderscheidenlijk Sint Maarten voorziet in één van beide of beide procedures, bedoeld in artikel 13, eerste lid, van de Richtlijn 2003/48/EG. Op verzoek van de uiteindelijk gerechtigde geeft de bevoegde autoriteit van Nederland, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=37&z=2010-10-10&g=2010-10-10) een verklaring af in overeenstemming met artikel 13, tweede lid, van de Richtlijn 2003/48/EG.
+
+6. Voor de toepassing van dit artikel bepaalt Curaçao onderscheidenlijk Sint Maarten de procedures die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigde vast te stellen en dragen zorg voor de toepassing van deze procedures in Curaçao onderscheidenlijk Sint Maarten. Deze procedures voldoen aan de minimumnormen van artikel 3, tweede en derde lid, van de Richtlijn 2003/48/EG, met dien verstande dat met betrekking tot het bepaalde in het tweede lid, onderdeel a, en in het derde lid, onderdeel a, de identiteit en woonplaats van de uiteindelijk gerechtigde worden vastgesteld op grond van de informatie waarover de uitbetalende instantie krachtens de toepassing van de desbetreffende wettelijke en bestuursrechtelijke bepalingen van Curaçao onderscheidenlijk Sint Maarten beschikt. De bestaande vrijstellingen of ontheffingen die in voorkomend geval op verzoek aan uiteindelijk gerechtigden met woonplaats in Nederland zijn verleend, zijn evenwel niet langer van toepassing en aan die uiteindelijk gerechtigden worden geen verdere vrijstellingen of ontheffingen van dien aard verleend.
+
+7. Aan het einde van de overgangsperiode vindt artikel 10, derde lid van de Richtlijn 2003/48/EG overeenkomstige toepassing.
+
 ##### Artikel 14
 
 1. Royalty’s genoten door een inwoner van een van de landen en verschuldigd door een inwoner van een van de andere landen, mogen worden belast in eerstbedoeld land.
@@ -303,7 +292,7 @@ Inkomsten, welke worden genoten door een inwoner van een van de landen in de vor
 
 ##### Artikel 20
 
-Andere dan de in de voorgaande artikelen van deze afdeling bedoelde winsten en inkomsten welke worden genoten door een inwoner van een van de landen mogen worden belast in het land van inwoning, behoudens ingeval [artikel 34, tweede lid, tweede zinsnede van de tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), of [artikel 35**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=6&artikel=35b&z=2010-10-10&g=2010-10-10) van toepassing is.
+Andere dan de in de voorgaande artikelen van deze afdeling bedoelde winsten en inkomsten welke worden genoten door een inwoner van een van de landen mogen worden belast in het land van inwoning, behoudens ingeval [artikel 34, tweede lid, tweede zinsnede van de tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), of [artikel 35*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=6&artikel=35b&z=2010-10-10&g=2010-10-10) van toepassing is.
 
 ##### Artikel 21
 
@@ -343,13 +332,13 @@ Schulden - andere dan obligatieschulden - van een inwoner van een van de landen,
 
 9. Voor de toepassing van het zesde, zevende en achtste lid, stellen de bevoegde autoriteiten van het land waarvan de desbetreffende persoon inwoner is de bevoegde autoriteiten van het andere land op de hoogte van het deel van het betaalde bedrag aan belasting dat toerekenbaar is aan de in de desbetreffende leden bedoelde voordelen of inkomsten.
 
-10. Nederland zorgt ervoor dat het heffen van bronbelasting als bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) niet leidt tot dubbele belasting, overeenkomstig het bepaalde in artikel 14, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048) of zorgt voor restitutie van de bronbelasting.
+10. Nederland zorgt ervoor dat het heffen van bronbelasting als bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13a&z=2010-10-10&g=2010-10-10) niet leidt tot dubbele belasting, overeenkomstig het bepaalde in artikel 14, tweede en derde lid, van de Richtlijn 2003/48/EG of zorgt voor restitutie van de bronbelasting.
 
 ##### Artikel 25
 
 Indien een houdstermaatschappij, welke is opgericht naar het recht van een van de landen, ingevolge [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), geacht wordt inwoner te zijn van een van de andere landen, mag - onverminderd het recht van dat andere land tot belastingheffing als ware dit artikel niet van toepassing - de winst van deze maatschappij in eerstbedoeld land worden belast naar een percentage dat 4 niet te boven gaat.
 
-### Afdeling 2. Belastingen ter zake van successie en schenking
+#### Afdeling 2. Belastingen ter zake van successie en schenking
 
 ##### Artikel 26
 
@@ -359,23 +348,23 @@ Indien een houdstermaatschappij, welke is opgericht naar het recht van een van d
 
 - a. zoveel Nederland betreft:
 
-- 1°. het recht van successie;
+   - 1°. het recht van successie;
 
-- 2°. het recht van overgang;
+   - 2°. het recht van overgang;
 
-- 3°. het recht van schenking;
+   - 3°. het recht van schenking;
 
 - b. zoveel Curaçao en Sint Maarten betreft:
 
-- 1°. de successiebelasting;
+   - 1°. de successiebelasting;
 
-- 2°. de overgangsbelasting;
+   - 2°. de overgangsbelasting;
 
 - c. zoveel Aruba betreft:
 
-- 1°. de successiebelasting;
+   - 1°. de successiebelasting;
 
-- 2°. de overgangsbelasting.
+   - 2°. de overgangsbelasting.
 
 ##### Artikel 27
 
@@ -397,7 +386,7 @@ Het land van inwoning van de overledene of de schenker kan in een verkrijging kr
 
 Ingeval een inwoner van een van de landen binnen een periode van twaalf maanden voorafgaande aan het doen van een schenking inwoner is geweest van een van de andere landen, kan in dat andere land ter zake van die schenking een aanvullend bedrag aan belasting worden geheven. Dit aanvullend belastingbedrag overschrijdt niet het bedrag dat, zo de schenker ten tijde van de schenking nog inwoner van dat andere land was, in de beide landen te zamen meer zou zijn geheven ter zake van de schenking.
 
-### Afdeling 3. Zegelbelastingen
+#### Afdeling 3. Zegelbelastingen
 
 ##### Artikel 30
 
@@ -417,7 +406,7 @@ en op elke gelijksoortige belasting geheven ten behoeve van een van de landen of
 
 2. Het eerste lid geldt niet, indien de ondertekenaar of, zo er meer dan één ondertekenaar is, alle ondertekenaars in een ander land wonen dan het land waar het stuk is opgemaakt, dan wel indien het stuk een beschikking inhoudt omtrent onroerende goederen gelegen of gevestigd in een ander land dan het land waar het stuk is opgemaakt.
 
-### Afdeling 4. Belastingen op motorrijtuigen
+#### Afdeling 4. Belastingen op motorrijtuigen
 
 ##### Artikel 32
 
@@ -435,7 +424,7 @@ en op elke gelijksoortige belasting geheven ten behoeve van een van de landen of
 
 Het in een van de landen rijden met een in een van de andere landen ingeschreven motorrijtuig, waarvan de houder een inwoner van dat andere land is, is in eerstbedoeld land vrijgesteld van belasting.
 
-### Afdeling 5. Bijzondere bepalingen
+#### Afdeling 5. Bijzondere bepalingen
 
 ##### Artikel 34
 
@@ -465,7 +454,7 @@ Zij kunnen ook met elkaar overleg plegen teneinde dubbele belasting ongedaan te 
 
 4. De bevoegde autoriteiten van de landen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde een overeenstemming als bedoeld in de voorgaande leden te bereiken. Indien voor het bereiken van overeenstemming een mondelinge gedachtenwisseling raadzaam lijkt, kan zulk een gedachtenwisseling plaatsvinden in een commissie die bestaat uit vertegenwoordigers van de bevoegde autoriteiten van de landen.
 
-### Afdeling 6. Anti-misbruikbepalingen
+#### Afdeling 6. Anti-misbruikbepalingen
 
 ##### Artikel 35a
 
@@ -481,11 +470,11 @@ De bepalingen van deze rijkswet vormen geen beletsel voor de toepassing van de i
 
 4. In afwijking in zoverre van de voorgaande leden vinden de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=12&z=2010-10-10&g=2010-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=13&z=2010-10-10&g=2010-10-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=20&z=2010-10-10&g=2010-10-10) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=24&z=2010-10-10&g=2010-10-10) geen toepassing ten aanzien van een natuurlijke persoon die inwoner is van een van de landen en in een van de voorafgaande jaren inwoner is geweest van een van de andere landen en als aandeelhouder als bedoeld in het tweede lid, inkomen geniet uit een vennootschap die geen onderneming in materiële zin drijft voor zover dat inkomen uit die vennootschap meer bedraagt dan eenmaal de belastbare winst – winst behaald met het staken van een voordien gedreven materiële onderneming daarbij niet meegerekend – die de vennootschap geniet in het jaar voorafgaande aan dat waarin dat inkomen wordt genoten, of, zo dat meer is, 10% van de waarde in het economische verkeer van de bezittingen minus de schulden van de vennootschap aan het einde van dat voorafgaande kalenderjaar. Indien de in de vorige volzin bedoelde vennootschap de feitelijke leiding heeft verplaatst naar het andere land wordt in afwijking in zoverre van [artikel 34, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=5&artikel=34&z=2010-10-10&g=2010-10-10), de woonplaats van die vennootschap uitsluitend voor de belastingheffing van de genoemde aandeelhouder bepaald volgens de wetgeving van het land waarvan de bedoelde aandeelhouder in een van de voorgaande jaren inwoner was. De eerste volzin is eveneens van toepassing indien de aldaar bedoelde aandeelhouder de aandelen in een vennootschap vervreemdt aan een door hem beheerste vennootschap zonder dat daarbij het belang bij de onderneming van de vennootschap verloren gaat.
 
-- a. Ingeval het eerste, tweede of vierde lid, toepassing vindt, staat het land waarvan de persoon in een van de daaraan voorafgaande jaren inwoner was op zijn belasting over die inkomsten of winst een aftrek toe. Het bedrag van die aftrek is gelijk aan de belasting die is betaald in het andere land over de genoemde inkomsten of winst, maar bedraagt in geen geval meer dan dat deel van de inkomstenbelasting, vennootschapsbelasting of winstbelasting, zoals berekend voor de aftrek is toegestaan, dat toerekenbaar is aan de genoemde inkomsten of winst.
+5. - a. Ingeval het eerste, tweede of vierde lid, toepassing vindt, staat het land waarvan de persoon in een van de daaraan voorafgaande jaren inwoner was op zijn belasting over die inkomsten of winst een aftrek toe. Het bedrag van die aftrek is gelijk aan de belasting die is betaald in het andere land over de genoemde inkomsten of winst, maar bedraagt in geen geval meer dan dat deel van de inkomstenbelasting, vennootschapsbelasting of winstbelasting, zoals berekend voor de aftrek is toegestaan, dat toerekenbaar is aan de genoemde inkomsten of winst.
 
-- b. In afwijking in zoverre van onderdeel **a**, staat het land waarvan de persoon in een van de daaraan voorafgaande jaren inwoner was na een periode van vijf jaren nadat de in dat lid bedoelde aandeelhouder inwoner is geworden van het in dat lid eerstgenoemde land, op zijn belasting over die inkomsten een aftrek toe ter grootte van de in dat land daarover verschuldigde belasting verminderd met 50% van de belasting die in het andere land over die inkomsten is berekend voor een aftrek ter voorkoming van dubbele belasting wordt verleend. In het in het vierde lid eerstgenoemde land wordt vervolgens de belasting die toerekenbaar is aan die inkomsten alvorens een aftrek ter voorkoming van dubbele belasting wordt verleend, verminderd met de in het andere land verschuldigde belasting. Het bepaalde in dit onderdeel vindt alleen toepassing indien die natuurlijke persoon na die vijf jaren in het in het vierde lid eerstbedoelde land ter zake van dat inkomen op grond van een regeling – daaronder begrepen beleid ter uitvoering van de wet – wordt onderworpen aan een tarief dat, of een grondslag die, niet in belangrijke mate afwijkt van het tarief dat, of de grondslag die, in het algemeen geldt voor inwoners van dat land en het tarief ter zake van dat inkomen niet meer dan 10 punten afwijkt van het tarief dat over dat inkomen geldt in het land waarvan de genoemde aandeelhouder oorspronkelijk inwoner was.
+- b. In afwijking in zoverre van onderdeel *a*, staat het land waarvan de persoon in een van de daaraan voorafgaande jaren inwoner was na een periode van vijf jaren nadat de in dat lid bedoelde aandeelhouder inwoner is geworden van het in dat lid eerstgenoemde land, op zijn belasting over die inkomsten een aftrek toe ter grootte van de in dat land daarover verschuldigde belasting verminderd met 50% van de belasting die in het andere land over die inkomsten is berekend voor een aftrek ter voorkoming van dubbele belasting wordt verleend. In het in het vierde lid eerstgenoemde land wordt vervolgens de belasting die toerekenbaar is aan die inkomsten alvorens een aftrek ter voorkoming van dubbele belasting wordt verleend, verminderd met de in het andere land verschuldigde belasting. Het bepaalde in dit onderdeel vindt alleen toepassing indien die natuurlijke persoon na die vijf jaren in het in het vierde lid eerstbedoelde land ter zake van dat inkomen op grond van een regeling – daaronder begrepen beleid ter uitvoering van de wet – wordt onderworpen aan een tarief dat, of een grondslag die, niet in belangrijke mate afwijkt van het tarief dat, of de grondslag die, in het algemeen geldt voor inwoners van dat land en het tarief ter zake van dat inkomen niet meer dan 10 punten afwijkt van het tarief dat over dat inkomen geldt in het land waarvan de genoemde aandeelhouder oorspronkelijk inwoner was.
 
-- c. De bevoegde autoriteiten van het land waarvan de persoon inwoner is geworden, stellen de bevoegde autoriteiten van het land waarvan de persoon in een van de voorgaande jaren inwoner is geweest op de hoogte van het deel van het betaalde bedrag aan belasting dat toerekenbaar is aan de inkomsten die worden genoten uit bronnen in het eerstbedoelde land als bedoeld in de onderdelen **a** en **b**.
+- c. De bevoegde autoriteiten van het land waarvan de persoon inwoner is geworden, stellen de bevoegde autoriteiten van het land waarvan de persoon in een van de voorgaande jaren inwoner is geweest op de hoogte van het deel van het betaalde bedrag aan belasting dat toerekenbaar is aan de inkomsten die worden genoten uit bronnen in het eerstbedoelde land als bedoeld in de onderdelen *a* en *b*.
 
 - d. De toepassing van dit artikel zal met betrekking tot lichamen op geen enkele wijze enige uitsluiting, vrijstelling, aftrek, verrekening of andere tegemoetkomingen ter voorkoming van dubbele belasting beperken, nu dan wel later toegestaan onder de wetgeving van de landen.
 
@@ -579,9 +568,9 @@ De [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&
 
 ##### Artikel 46
 
-1. Artikel 19 van de wet van 26 april 1940 (**Stb.** 200), houdende bijzondere voorzieningen met betrekking tot de in gebiedsdelen van het Koninkrijk der Nederlanden gevestigde naamlooze vennootschappen en andere rechtspersonen, alsmede met betrekking tot zeeschepen, die gerechtigd zijn tot het voeren van de Nederlandsche vlag wordt ingetrokken, indien het op het tijdstip van inwerkingtreden van deze Rijkswet nog van kracht is.
+1. Artikel 19 van de wet van 26 april 1940 (*Stb.* 200), houdende bijzondere voorzieningen met betrekking tot de in gebiedsdelen van het Koninkrijk der Nederlanden gevestigde naamlooze vennootschappen en andere rechtspersonen, alsmede met betrekking tot zeeschepen, die gerechtigd zijn tot het voeren van de Nederlandsche vlag wordt ingetrokken, indien het op het tijdstip van inwerkingtreden van deze Rijkswet nog van kracht is.
 
-2. De wet van 4 augustus 1917 (**Stb.** 507), houdende bepalingen betreffende de beteekening en tenuitvoerlegging in de koloniën, van in Nederland uitgevaardigde dwangbevelen en in Nederland alsmede in Nederlandsch-Indië, Suriname en Curaçao onderling, van in de koloniën uitgevaardigde dwangbevelen, wordt ingetrokken.
+2. De wet van 4 augustus 1917 (*Stb.* 507), houdende bepalingen betreffende de beteekening en tenuitvoerlegging in de koloniën, van in Nederland uitgevaardigde dwangbevelen en in Nederland alsmede in Nederlandsch-Indië, Suriname en Curaçao onderling, van in de koloniën uitgevaardigde dwangbevelen, wordt ingetrokken.
 
 ##### Artikel 47
 
@@ -591,42 +580,8 @@ Het inwerkingtreden van deze Rijkswet wordt door Ons geregeld bij algemene maatr
 
 1. Onverminderd [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&afdeling=1&artikel=18&z=2010-10-10&g=2010-10-10), kan de wetgever van elk van de landen ten aanzien van één of meer van de andere landen bepalen dat gezamenlijk buiten werking treden de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=II&z=2010-10-10&g=2010-10-10) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&z=2010-10-10&g=2010-10-10), en de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=39&z=2010-10-10&g=2010-10-10), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=40&z=2010-10-10&g=2010-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=41&z=2010-10-10&g=2010-10-10), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=44&z=2010-10-10&g=2010-10-10) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=IV&artikel=45&z=2010-10-10&g=2010-10-10). De daartoe strekkende wettelijke regeling treedt niet in werking voor de aanvang van het tweede kalenderjaar volgend op dat waarin de regeling is afgekondigd. Onder het voorbehoud van belangrijke wijzigingen in de wetgeving, de heffing, alsmede in de administratieve praktijk als bedoeld in [artikel 38, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=38&z=2010-10-10&g=2010-10-10), met betrekking tot de belastingen welke het onderwerp uitmaken van deze Rijkswet kan binnen een periode van acht jaar na 1 januari 1986 van de in dit lid gegeven bevoegdheid geen gebruik worden gemaakt.
 
-2. Een wettelijke regeling van een van de landen welke op grond van het eerste lid is getroffen, wordt bekend gemaakt in het andere land door plaatsing van de tekst in, voor zover Nederland betreft het **Staatsblad** en voor zover het Aruba, Curaçao en Sint Maarten betreft in de officiële publicatiebladen.
+2. Een wettelijke regeling van een van de landen welke op grond van het eerste lid is getroffen, wordt bekend gemaakt in het andere land door plaatsing van de tekst in, voor zover Nederland betreft het *Staatsblad* en voor zover het Aruba, Curaçao en Sint Maarten betreft in de officiële publicatiebladen.
 
 ##### Artikel 49
 
 Deze Rijkswet kan worden aangehaald als: Belastingregeling voor het Koninkrijk.
-
-Lasten en bevelen, dat deze in het **Staatsblad**, het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 13a
-
-1. Indien de uiteindelijk gerechtigde van rente woonachtig is in Nederland en de uitbetalende instantie in Curaçao of Sint Maarten is gevestigd, heft Curaçao onderscheidenlijk Sint Maarten gedurende de in artikel 10 van de [Richtlijn 2003/48/EG](32003L0048) bedoelde overgangsperiode bronbelasting, gedurende de eerste drie jaar van de overgangsperiode tegen een tarief van 15%, gedurende de volgende drie jaar tegen een tarief van 20% en daarna tegen een tarief van 35%. De uitbetalende instantie houdt de bronbelasting in op een wijze als omschreven in artikel 11, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048).
-
-2. Het opleggen van bronbelasting door Curaçao of Sint Maarten op grond van dit artikel belet Nederland niet de inkomsten te belasten overeenkomstig het nationale recht met inachtneming van de andere bepalingen in deze Rijkswet.
-
-3. Tijdens de overgangsperiode kunnen Curaçao en Sint Maarten bepalen dat een marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt voor een in Nederland gevestigde entiteit als bedoeld in artikel 4, tweede lid, van de [Richtlijn 2003/48/EG](32003L0048), wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en heffen zij de bronbelasting op die rente, tenzij die entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van dat lid.
-
-4. Curaçao onderscheidenlijk Sint Maarten behoudt 25% van de opbrengsten van de bronheffing, bedoeld in het eerste lid, en draagt 75% van de opbrengsten af aan Nederland. Indien Curaçao onderscheidenlijk Sint Maarten overeenkomstig het derde lid bronbelasting heft, behoudt Curaçao onderscheidenlijk Sint Maarten 25% van de opbrengsten geheven op rentebetalingen aan in Nederland gevestigde entiteiten als bedoeld in artikel 4, tweede lid, van de Richtlijn 2003/48/EG en draagt Curaçao onderscheidenlijk Sint Maarten 75% af aan Nederland. Die overdrachten vinden plaats uiterlijk in de zes maanden volgende op het eind van het belastingjaar van Curaçao onderscheidenlijk Sint Maarten. Curaçao onderscheidenlijk Sint Maarten treft de maatregelen die nodig zijn om het systeem voor de verdeling van de belastingopbrengsten correct te doen functioneren.
-
-5. Curaçao onderscheidenlijk Sint Maarten voorziet in één van beide of beide procedures, bedoeld in artikel 13, eerste lid, van de [Richtlijn 2003/48/EG](32003L0048). Op verzoek van de uiteindelijk gerechtigde geeft de bevoegde autoriteit van Nederland, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=37&z=2010-10-10&g=2010-10-10) een verklaring af in overeenstemming met artikel 13, tweede lid, van de [Richtlijn 2003/48/EG](32003L0048).
-
-6. Voor de toepassing van dit artikel bepaalt Curaçao onderscheidenlijk Sint Maarten de procedures die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigde vast te stellen en dragen zorg voor de toepassing van deze procedures in Curaçao onderscheidenlijk Sint Maarten. Deze procedures voldoen aan de minimumnormen van artikel 3, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048), met dien verstande dat met betrekking tot het bepaalde in het tweede lid, onderdeel a, en in het derde lid, onderdeel a, de identiteit en woonplaats van de uiteindelijk gerechtigde worden vastgesteld op grond van de informatie waarover de uitbetalende instantie krachtens de toepassing van de desbetreffende wettelijke en bestuursrechtelijke bepalingen van Curaçao onderscheidenlijk Sint Maarten beschikt. De bestaande vrijstellingen of ontheffingen die in voorkomend geval op verzoek aan uiteindelijk gerechtigden met woonplaats in Nederland zijn verleend, zijn evenwel niet langer van toepassing en aan die uiteindelijk gerechtigden worden geen verdere vrijstellingen of ontheffingen van dien aard verleend.
-
-7. Aan het einde van de overgangsperiode vindt artikel 10, derde lid van de [Richtlijn 2003/48/EG](32003L0048) overeenkomstige toepassing.
-
-### Afdeling 2. Belastingen ter zake van successie en schenking
-
-### Afdeling 3. Zegelbelastingen
-
-### Afdeling 4. Belastingen op motorrijtuigen
-
-### Afdeling 5. Bijzondere bepalingen
-
-### Afdeling 6. Anti-misbruikbepalingen
-
-### Hoofdstuk III. Wederzijdse bijstand
-
-### Hoofdstuk IV. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad**, het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

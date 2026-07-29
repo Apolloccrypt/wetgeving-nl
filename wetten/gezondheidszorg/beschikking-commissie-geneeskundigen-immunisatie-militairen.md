@@ -1,47 +1,34 @@
 ---
 title: "Beschikking Commissie Geneeskundigen Immunisatie Militairen"
+citeertitel: "Beschikking commissie geneeskundigen immunisatie militairen"
 identifier: "BWBR0002125"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1954-01-18"
-last_updated: "1954-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002125"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "5058333"
-version_id: "9122592"
-internal_id: "C20073711"
-label_id: "5034304"
-dtd_version: "2.0"
-original_entry_into_force: "1953-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002125/1954-01-18/0"
-intitule_bron: "Stcrt.1953-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-12-24"
-intitule_published: "1953-12-29"
-intitule_in_force: "1953-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1953-252"
-original_signed_date: "1953-12-24"
-original_published_date: "1953-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1953-01-18"
-jci_1_3: "jci1.3:c:BWBR0002125&z=1954-01-18&g=1954-01-18"
-jci_1_0: "1.0:c:BWBR0002125&g=1954-01-18"
-citeertitel_status: "officieel"
-short_title: "Beschikking commissie geneeskundigen immunisatie militairen"
-signed_date: "1953-12-24"
-entry_into_force: "1953-01-18"
+publicatiedatum: 1953-01-18
+laatste_update: 1954-01-18
+status: geldig
+toestand: 1954-01-18
+bron: "https://wetten.overheid.nl/BWBR0002125"
+opgehaald: 2026-07-29
 ---
+
 # Beschikking Commissie Geneeskundigen Immunisatie Militairen
-
-Overwegende, dat het ter uitvoering van [artikel 6 van de Wet immunisatie militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002117&artikel=6) gewenst is over te gaan tot het instellen van een commissie tot het uitbrengen van advies omtrent verzoeken om vrijstelling van immunisatiemaatregelen wegens geneeskundige redenen, alsmede ter zake van de werkzaamheden dezer commissie enige regelen te stellen,
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
+
+„de Minister”:
+
+de Minister van Oorlog of de Minister van Marine, al naargelang het betreft een onderzoek van geneeskundige bezwaren tegen immunisatie van een militair van de landmacht dan wel van de zeemacht;
+
+„de wet”:
+
+de [Wet immunisatie militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002117);
+
+„verzoekschrift”:
+
+een geschrift, houdende een verzoek om vrijstelling van immunisatiemaatregelen wegens geneeskundige redenen.
 
 ##### Artikel 2
 

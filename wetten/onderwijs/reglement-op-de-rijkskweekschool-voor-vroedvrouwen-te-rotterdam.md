@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 9 augustus 1958 tot vaststelling van een nieuw Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam"
+citeertitel: "Reglement op de Rijkskweekschool voor Vroedvrouwen te Rotterdam"
 identifier: "BWBR0002291"
-country: "nl"
-rank: "amvb"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002291"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "834773"
-version_id: "1210012"
-internal_id: "C1210011"
-label_id: "808904"
-dtd_version: "2.0"
-original_entry_into_force: "1958-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002291/1994-01-01/0"
-intitule_bron: "Stb.1958-409"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1958-08-09"
-intitule_status: "goed"
-original_publication: "Stb.1958-409"
-original_signed_date: "1958-08-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1958-09-25"
-jci_1_3: "jci1.3:c:BWBR0002291&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0002291&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Reglement op de Rijkskweekschool voor Vroedvrouwen te Rotterdam"
-signed_date: "1958-08-09"
-entry_into_force: "1958-09-25"
+publicatiedatum: 1958-09-25
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0002291"
+opgehaald: 2026-07-29
 ---
+
 # Besluit van 9 augustus 1958 tot vaststelling van een nieuw Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam
-
-Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid, d.d. 17 juni 1958, no. 7631, Directie Volksgezondheid, afd. Medische Beroepen en Ziektenbestrijding;
-
-De Raad van State gehoord (advies van 15 juli 1958, no. 28);
-
-Gelet op het nader rapport van Onze Minister van Sociale Zaken en Volksgezondheid, d.d. 23 juli 1958, no. 11047, Directie Volksgezondheid, afd. Medische Beroepen en Ziektenbestrijding;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -52,7 +26,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Er is een Rijkskweekschool voor Vroedvrouwen te Rotterdam, aan welke inrichting een opleiding kan worden gevolgd voor het examen als vroedvrouw, bedoeld in artikel 12 van het Koninklijk besluit van 12 februari 1879 (**Stb.** 36).
+1. Er is een Rijkskweekschool voor Vroedvrouwen te Rotterdam, aan welke inrichting een opleiding kan worden gevolgd voor het examen als vroedvrouw, bedoeld in artikel 12 van het Koninklijk besluit van 12 februari 1879 (*Stb.* 36).
 
 2. Ten behoeve van het praktisch onderwijs is aan de Rijkskweekschool een kraamafdeling verbonden, waarin opname van patiënten plaats vindt overeenkomstig de voorschriften van het door Onze Minister vast te stellen Huishoudelijk Reglement.
 
@@ -74,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Aan de Rijkskweekschool wordt tevens met inachtneming van hetgeen door Onze Minister is bepaald krachtens het Koninklijk besluit van 21 december 1928, **Stcrt.** 253, onder door de Commissie te stellen voorwaarden, gelegenheid gegeven tot het volgen van de opleiding en het afleggen van het examen in de kraamverpleging.
+1. Aan de Rijkskweekschool wordt tevens met inachtneming van hetgeen door Onze Minister is bepaald krachtens het Koninklijk besluit van 21 december 1928, *Stcrt.* 253, onder door de Commissie te stellen voorwaarden, gelegenheid gegeven tot het volgen van de opleiding en het afleggen van het examen in de kraamverpleging.
 
 2. Onze Minister stelt bij het in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002291&artikel=2&z=1994-01-01&g=1994-01-01) bedoelde Huishoudelijk Reglement aantal en aanvangsdata dezer cursussen en examens vast.
 
@@ -198,7 +172,7 @@ De leerlingen zijn terzake van haar uitrusting in de Rijkskweekschool onderworpe
 
 1. De dagelijkse leiding van de Rijkskweekschool is onder verantwoordelijkheid van de Commissie opgedragen aan de Geneesheer-Directeur, voor wie Onze Minister, de Commissie gehoord, een instructie vaststelt en die verplicht is de aanwijzingen van de Commissie op te volgen.
 
-2. Het financieel beheer van de Rijkskweekschool is onder toezicht van de Commissie opgedragen aan een Administrateur, die onverminderd zijn rekenplichtigheid aan de Algemene Rekenkamer volgens [artikel 39 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=39) (**Stb.** 1927, 259) van het door hem gevoerde beheer verantwoording verschudigd is aan Onze Minister, de Commissie en de Geneesheer-Directeur en die bij de uitoefening van de hem opgedragen taken de aanwijzingen opvolgt van de Commissie en de Geneesheer-Directeur.
+2. Het financieel beheer van de Rijkskweekschool is onder toezicht van de Commissie opgedragen aan een Administrateur, die onverminderd zijn rekenplichtigheid aan de Algemene Rekenkamer volgens [artikel 39 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=39) (*Stb.* 1927, 259) van het door hem gevoerde beheer verantwoording verschudigd is aan Onze Minister, de Commissie en de Geneesheer-Directeur en die bij de uitoefening van de hem opgedragen taken de aanwijzingen opvolgt van de Commissie en de Geneesheer-Directeur.
 
 ##### Artikel 18
 
@@ -224,6 +198,4 @@ Dit besluit kan worden aangehaald als Reglement op de Rijkskweekschool voor Vroe
 
 ##### Artikel 22
 
-Het Koninklijk besluit van 9 januari 1933 (**Stb.** 7) tot vaststelling van een Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam wordt ingetrokken.
-
-Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uivoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Het Koninklijk besluit van 9 januari 1933 (*Stb.* 7) tot vaststelling van een Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam wordt ingetrokken.
