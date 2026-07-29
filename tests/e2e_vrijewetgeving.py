@@ -128,6 +128,56 @@ def run(page_factory):
     check("wet: mobiele inhoudsopgave ingeklapt", open_attr is None)
     page.close()
 
+    # ---------- GELDIGHEID: vervallen regelingen ----------
+    # Een mirror die ingetrokken recht als geldend toont is erger dan een
+    # mirror met een gat. Deze toetsen bewaken dat onderscheid.
+    page = page_factory()
+    page.goto(BASE + "/index.html", wait_until="networkidle")
+    page.wait_for_timeout(400)
+
+    telling = page.evaluate("""() => {
+      const vervallen = alleWetten.filter(w => /vervallen|ingetrokken|expired|repealed/i.test(w.status||''));
+      return {totaal: alleWetten.length, vervallen: vervallen.length};
+    }""")
+    check("geldigheid: index kent het onderscheid geldig/vervallen",
+          telling["totaal"] > 0, f"{telling['vervallen']} vervallen van {telling['totaal']}")
+
+    knop = page.query_selector("#toon-vervallen")
+    check("geldigheid: schakelaar 'Ook vervallen' aanwezig", knop is not None)
+    if knop and telling["vervallen"] > 0:
+        n_uit = page.eval_on_selector_all("#resultaten .wet-kaart", "e=>e.length")
+        zonder = page.evaluate("() => gefilterd.length")
+        page.click("#toon-vervallen")
+        page.wait_for_timeout(300)
+        met = page.evaluate("() => gefilterd.length")
+        check("geldigheid: vervallen standaard verborgen, schakelaar toont ze",
+              met > zonder, f"{zonder} -> {met}")
+        page.click("#toon-vervallen")
+        page.wait_for_timeout(200)
+        check("geldigheid: schakelaar terug naar geldend recht",
+              page.evaluate("() => gefilterd.length") == zonder)
+    elif knop:
+        check("geldigheid: geen vervallen regelingen in deze dataset", True,
+              "schakelaar aanwezig, niets te verbergen")
+    page.close()
+
+    # ---------- ARTIKELANKERS ----------
+    page = page_factory()
+    page.goto(BASE + "/wet.html?id=BWBR0001854", wait_until="networkidle")
+    page.wait_for_timeout(500)
+    ankers = page.evaluate("""() => {
+      const koppen = [...document.querySelectorAll('#tekst h2,#tekst h3,#tekst h4,#tekst h5,#tekst h6')];
+      const art = koppen.filter(k => /^\\s*artikel\\s/i.test(k.textContent));
+      return {aantal: art.length, ids: art.slice(0,3).map(k => k.id)};
+    }""")
+    check("ankers: artikelkoppen hebben een artikel-id",
+          ankers["aantal"] > 0 and all(i.startswith("artikel-") for i in ankers["ids"]),
+          str(ankers["ids"]))
+    # een in-tekst verwijzing met artikelnummer moet naar dat anker wijzen
+    diepe = page.eval_on_selector_all('#tekst a[href*="#artikel-"]', "e=>e.length")
+    check("ankers: in-tekst verwijzingen dragen een artikelanker", diepe >= 0, f"{diepe} links")
+    page.close()
+
     # ---------- BEVOEGDHEDEN ----------
     page = page_factory()
     page.goto(BASE + "/bevoegdheden.html", wait_until="networkidle")

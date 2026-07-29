@@ -4,12 +4,22 @@ on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
+    inputs:
+      ontbrekend:
+        description: 'Maximaal aantal ontbrekende regelingen toevoegen'
+        default: '600'
+      ververs:
+        description: 'Aantal wetten opnieuw ophalen van de officiele bron'
+        default: '400'
+
+permissions:
+  contents: write
+  issues: write
 
 jobs:
   update-wetten:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 330
 
     steps:
       - name: Checkout wetgeving-nl
@@ -25,23 +35,42 @@ jobs:
       - name: Dependencies installeren
         run: pip install requests pyyaml
 
-      - name: Legalize-nl klonen (fallback)
-        run: |
-          git clone --depth 1 https://github.com/legalize-dev/legalize-nl.git /tmp/legalize-nl
-          echo "Legalize-nl: $(ls /tmp/legalize-nl/nl/ | wc -l) bestanden"
+      # De bron moet aantoonbaar leven. Twee eerdere routes gaven HTTP 204 met
+      # een lege body; dat telde als "OK" en de vulling viel er stil op terug.
+      - name: Bron controleren
+        run: python scripts/dagelijkse_update.py --test
 
-      - name: Wetten bijwerken
-        run: |
-          python scripts/dagelijkse_update.py --output wetten/ --dagen 2
+      - name: Gewijzigde wetten ophalen
+        run: python scripts/dagelijkse_update.py --output wetten/ --dagen 3
 
-      - name: Check wijzigingen
-        id: check
+      # --verifieer is niet optioneel: de zoekservice noemt regelingen vervallen
+      # die het volgens hun eigen manifest niet zijn. Zonder deze controle zou
+      # de stap hieronder geldend recht als ingetrokken markeren.
+      - name: Dekking meten tegen de officiele BWB-lijst
+        run: python scripts/dekking.py --index index.json --output dekking.json --verifieer
+
+      - name: Ontbrekende regelingen aanvullen
         run: |
-          git diff --quiet wetten/ || echo "changes=true" >> $GITHUB_OUTPUT
+          python scripts/vul_aan.py \
+            --ontbrekend "${{ github.event.inputs.ontbrekend || 600 }}" \
+            --dekking dekking.json --output wetten/
+
+      - name: Status van vervallen regelingen bijwerken
+        run: python scripts/vul_aan.py --status --dekking dekking.json --output wetten/
+
+      # De bestaande set komt uit legalize-nl en loopt achter op de officiele
+      # toestand. Elke dag een schijf verversen haalt die achterstand weg
+      # zonder een commit van tienduizenden bestanden in een keer.
+      - name: Schijf verversen vanaf de officiele bron
+        run: |
+          python scripts/vul_aan.py \
+            --ververs "${{ github.event.inputs.ververs || 400 }}" --output wetten/
 
       - name: Genereer index + zoekindex + verwijzingen + meta + sitemap
-        run: |
-          python scripts/genereer_index.py --wetten wetten/ --output index.json
+        run: python scripts/genereer_index.py --wetten wetten/ --output index.json
+
+      - name: Dekking opnieuw meten (na aanvulling)
+        run: python scripts/dekking.py --index index.json --output dekking.json --verifieer
 
       - name: Genereer changelog + feeds + samenvattingen-index
         run: |
@@ -49,16 +78,52 @@ jobs:
           python scripts/genereer_feeds.py --changelog changelog.json --output-dir .
           python -c "import json,glob,os; open('samenvattingen/index.json','w').write(json.dumps(sorted(os.path.basename(f)[:-3] for f in glob.glob('samenvattingen/BWBR*.md'))))"
 
+      - name: Toetsen op de datalaag
+        run: python tests/test_pijplijn.py
+
+      - name: Check wijzigingen
+        id: check
+        run: |
+          git add -A
+          git diff --cached --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
       - name: Commit en push
         if: steps.check.outputs.changes == 'true'
         run: |
           git config user.name  "wetgeving-bot"
           git config user.email "bot@wetgeving-nl"
-          AANTAL=$(git diff --name-only wetten/ | wc -l)
-          git add wetten/ index.json zoekindex.json verwijzingen.json meta.json sitemap.xml changelog.json feed.xml feed/ samenvattingen/index.json
-          git commit -m "Dagelijkse update: $AANTAL wetten bijgewerkt ($(date +%Y-%m-%d))"
+          AANTAL=$(git diff --cached --name-only -- wetten/ | wc -l)
+          DEKKING=$(python -c "import json;print(f\"{json.load(open('dekking.json'))['dekkingsgraad']*100:.1f}%\")")
+          git commit -m "Dagelijkse update: $AANTAL wetten bijgewerkt, dekking $DEKKING ($(date +%Y-%m-%d))"
           git push
 
       - name: Geen wijzigingen
         if: steps.check.outputs.changes != 'true'
         run: echo "Geen wetswijzigingen vandaag."
+
+      # Een stille bron is de fout die dit project al eerder heeft gemaakt.
+      # Nu wordt hij zichtbaar gemeld in plaats van weggepoetst.
+      - name: Dekking rapporteren
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, os, pathlib
+          pad = pathlib.Path("dekking.json")
+          if not pad.exists():
+              print("::error::dekking.json ontbreekt — de meting is niet gedraaid")
+              raise SystemExit(1)
+          r = json.loads(pad.read_text())
+          print(f"dekking {r['dekkingsgraad']*100:.2f}% — ontbrekend {r['aantal_ontbrekend']}, "
+                f"ten onrechte geldig {r['aantal_ten_onrechte_geldig']}")
+          uit = os.environ.get("GITHUB_STEP_SUMMARY")
+          if uit:
+              with open(uit, "a") as f:
+                  f.write("## Dekking\n\n"
+                          f"- geldende regelingen bij BWB: **{r['bwb_geldend']}**\n"
+                          f"- daarvan op de site: **{r['site_geldend']}**\n"
+                          f"- dekkingsgraad: **{r['dekkingsgraad']*100:.2f}%**\n"
+                          f"- ontbrekend: {r['aantal_ontbrekend']}\n"
+                          f"- ten onrechte als geldig getoond: {r['aantal_ten_onrechte_geldig']}\n")
+          if r["dekkingsgraad"] < 0.97:
+              print("::warning::dekking onder 97 procent")
+          PY

@@ -1,8 +1,8 @@
 // vrijewetgeving.nl service worker — offline, volledig same-origin
 // Twee caches: een lichte app-shell en een aparte bak voor zware data (zoekindex 36 MB),
 // zodat quota-eviction van de data de shell niet meesleept.
-const SHELL_CACHE = 'vw-shell-v3';
-const DATA_CACHE  = 'vw-data-v3';
+const SHELL_CACHE = 'vw-shell-v4';
+const DATA_CACHE  = 'vw-data-v4';
 const BEHOUD = [SHELL_CACHE, DATA_CACHE];
 
 const SHELL = [
@@ -48,10 +48,24 @@ self.addEventListener('fetch', e => {
   } else {
     // shell: cache eerst. ignoreSearch zodat wet.html?id=BWB... ook offline de
     // voorgecachete wet.html-shell krijgt i.p.v. een browser-foutpagina.
-    e.respondWith(caches.open(SHELL_CACHE).then(c =>
-      c.match(req, {ignoreSearch:true}).then(hit =>
-        hit || fetch(req).then(r => { if (r && r.ok) c.put(req, r.clone()); return r; })
-      )
-    ));
+    e.respondWith(caches.open(SHELL_CACHE).then(async c => {
+      const hit = await c.match(req, {ignoreSearch:true});
+      if (hit) return hit;
+      try {
+        const r = await fetch(req);
+        if (r && r.ok) c.put(req, r.clone());
+        return r;
+      } catch (fout) {
+        // Offline en niets in de cache. De shell is opgeslagen onder
+        // 'index.html', dus een bezoek aan '/' (de start_url uit het manifest)
+        // matcht nergens op en werd een browserfoutpagina. Elke navigatie
+        // valt daarom terug op de app-shell.
+        if (req.mode === 'navigate') {
+          const shell = await c.match('index.html');
+          if (shell) return shell;
+        }
+        throw fout;
+      }
+    }));
   }
 });

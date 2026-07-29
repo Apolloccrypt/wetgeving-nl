@@ -181,16 +181,21 @@ function toonWet(wet, mdTekst, verwijzingen, index){
     ? (window.marked && window.DOMPurify ? DOMPurify.sanitize(marked.parse(body)) : `<pre style="white-space:pre-wrap">${esc(body)}</pre>`)
     : '<p style="color:var(--zacht)">De volledige tekst kon niet worden geladen. Bekijk de wet via de knoppen hierboven.</p>';
 
+  const vervallen = /vervallen|ingetrokken|expired|repealed/i.test(wet.status || '');
+
   const kop = `
     <div class="wet-kop">
       <div class="wet-badges">
         <span class="badge badge-type">${esc(wet.type||'—')}</span>
         ${wet.categorie && wet.categorie!=='Overig' ? `<span class="badge">${esc(wet.categorie)}</span>` : ''}
         <span class="badge badge-id">${esc(wet.identifier)}</span>
-        ${wet.status ? `<span class="badge badge-status">${esc(wet.status)}</span>` : ''}
+        ${wet.status ? `<span class="badge ${vervallen ? 'badge-vervallen' : 'badge-status'}">${esc(wet.status)}</span>` : ''}
         ${datum ? `<span class="badge">bijgewerkt ${esc(leesbareDatum(datum))}</span>` : ''}
       </div>
       <h1>${esc(wet.titel)}</h1>
+      ${vervallen ? `<div class="disclaimer disclaimer-waarschuwing"><strong>Deze regeling geldt niet meer.</strong>
+        Ze staat hier omdat oudere zaken er nog onder vallen. Kijk voor het geldende recht op
+        <a href="${officieel}" target="_blank" rel="noopener">wetten.overheid.nl</a>.</div>` : ''}
       <div class="wet-acties">
         <a class="wet-actie prim" href="${officieel}" target="_blank" rel="noopener">Officiële versie ↗</a>
         <a class="wet-actie" href="${GH_BLOB}${wet.pad}" target="_blank" rel="noopener">Bron op GitHub</a>
@@ -279,7 +284,10 @@ function bouwTOC(){
   const gebruikt = {};
   let items = '', vorigeLabel = '';
   koppen.forEach(k => {
-    let id = slug(k.textContent);
+    // Een kop "Artikel 3.2. Opschrift" moet op #artikel-3.2 te vinden zijn:
+    // in-tekst verwijzingen dragen het artikelnummer, niet het opschrift.
+    const art = /^\s*artikel\s+([\w.]+?)\.?\s*(?:[.–-]|$)/i.exec(k.textContent);
+    let id = art ? 'artikel-' + art[1].toLowerCase() : slug(k.textContent);
     if(gebruikt[id]) id += '-' + (++gebruikt[id]); else gebruikt[id] = 1;
     k.id = id;
     const anchor = document.createElement('a');

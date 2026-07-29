@@ -63,6 +63,8 @@ header{background:var(--wit);border-bottom:1px solid var(--rand);padding:1.1rem 
 
 /* ---- Disclaimer ---- */
 .disclaimer{background:var(--petrol-tint);border-bottom:1px solid var(--rand);padding:0.6rem 2rem;font-size:0.76rem;color:var(--petrol-diep);text-align:center;line-height:1.55;}
+.disclaimer-waarschuwing{background:#fdeaea;border:1px solid #f3c8c8;color:#7a1a1a;border-radius:8px;text-align:left;margin:0.9rem 0 0;padding:0.7rem 0.95rem;}
+.disclaimer-waarschuwing a{color:#7a1a1a;}
 .disclaimer strong{font-weight:700;}
 
 /* ---- Hero (licht & editorial) ---- */
@@ -135,6 +137,9 @@ header{background:var(--wit);border-bottom:1px solid var(--rand);padding:1.1rem 
 .wet-titel{font-size:0.88rem;font-weight:600;line-height:1.4;transition:color 0.1s;}
 .wet-sub{display:flex;gap:0.4rem;align-items:center;flex-wrap:wrap;font-family:'DM Mono',monospace;font-size:0.64rem;color:var(--zacht);}
 .wet-cat{padding:0.1rem 0.4rem;border-radius:4px;background:var(--grijs);border:1px solid var(--rand);font-size:0.62rem;}
+/* een vervallen regeling mag er nooit uitzien als geldend recht */
+.wet-vervallen{padding:0.1rem 0.4rem;border-radius:4px;background:#fdeaea;color:#a02020;border:1px solid #f3c8c8;font-size:0.62rem;text-transform:lowercase;}
+.badge-vervallen{background:#fdeaea;color:#a02020;border-color:#f3c8c8;}
 .laden{padding:3rem 2rem;text-align:center;font-family:'DM Mono',monospace;font-size:0.82rem;color:var(--zacht);}
 .meer-btn{display:block;margin:1.6rem auto 0;padding:0.7rem 2rem;font-family:inherit;font-weight:600;font-size:0.88rem;background:var(--donker);color:var(--wit);border:none;border-radius:8px;cursor:pointer;transition:opacity 0.15s;}
 .meer-btn:hover{opacity:0.85;}

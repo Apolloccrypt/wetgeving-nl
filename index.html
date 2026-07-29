@@ -87,6 +87,8 @@
       </div>
       <div class="filter-spacer"></div>
       <div class="sorteer-rij">
+        <button class="sort-btn" type="button" id="toon-vervallen" data-aan="nee"
+                aria-pressed="false" title="Regelingen die zijn ingetrokken of vervallen">Ook vervallen</button>
         <button class="sort-btn actief" type="button" data-sort="az" aria-pressed="true">A–Z</button>
         <button class="sort-btn" type="button" data-sort="nieuw" aria-pressed="false">Nieuwste</button>
       </div>
@@ -144,6 +146,10 @@
 const BATCH = 60;
 let alleWetten = [], gefilterd = [], getoond = BATCH;
 let actieveCat = 'alles', actieveType = 'alles', actieveSort = 'az', query = '';
+// Vervallen en ingetrokken regelingen staan er wel in, maar horen niet in het
+// eerste beeld: wie zoekt wil weten wat vandaag geldt.
+let toonVervallen = false;
+const geldig = w => !/vervallen|ingetrokken|expired|repealed/i.test(w.status || '');
 let zoekData = null, mini = null, zoekKlaar = false, volledigeTekst = false;
 let zoekindexGestart = false;
 let CHANGELOG = null;
@@ -276,6 +282,7 @@ const DROPDOWNS = [
 function tellingVoor(veld){
   const t = {};
   for(const w of alleWetten){
+    if(!toonVervallen && !geldig(w)) continue;
     if(veld!=='categorie' && !(actieveCat==='alles' || w.categorie===actieveCat)) continue;
     if(veld!=='type'      && !(actieveType==='alles' || w.type===actieveType)) continue;
     const k = w[veld] || 'Overig'; t[k] = (t[k]||0)+1;
@@ -353,7 +360,8 @@ function zoekBijwerken(v){
 function filterEnToon(){
   const q = query.trim();
   const matchtFilter = w => (actieveCat==='alles' || w.categorie===actieveCat) &&
-                            (actieveType==='alles' || w.type===actieveType);
+                            (actieveType==='alles' || w.type===actieveType) &&
+                            (toonVervallen || geldig(w));
 
   // BWBR-nummer: altijd direct op identifier zoeken, ook nadat de full-text index geladen is
   const compact = q.replace(/\s+/g,'');
@@ -388,6 +396,7 @@ function kaartHTML(w){
     <div class="wet-sub">
       <span>${esc(w.identifier)}</span>
       ${w.type ? `<span class="wet-cat">${esc(w.type)}</span>` : ''}
+      ${geldig(w) ? '' : `<span class="wet-vervallen">${esc(w.status || 'vervallen')}</span>`}
       ${w.datum ? `<span>· ${leesbareDatum(w.datum)}</span>` : ''}
     </div>
     ${volledigeTekst ? snippet(w) : ''}
@@ -478,7 +487,20 @@ window.addEventListener('pagehide', bewaarScrollState);
 const zoekEl = document.getElementById('zoek-mini');
 zoekEl.addEventListener('input', e => { startZoekindex(); zoekBijwerken(e.target.value); });
 zoekEl.addEventListener('focus', startZoekindex, { once:true });
-document.querySelectorAll('.sort-btn').forEach(b => b.addEventListener('click', () => setSort(b.dataset.sort)));
+document.querySelectorAll('.sort-btn[data-sort]').forEach(b => b.addEventListener('click', () => setSort(b.dataset.sort)));
+
+const knopVervallen = document.getElementById('toon-vervallen');
+if(knopVervallen){
+  knopVervallen.addEventListener('click', () => {
+    toonVervallen = !toonVervallen;
+    knopVervallen.dataset.aan = toonVervallen ? 'ja' : 'nee';
+    knopVervallen.classList.toggle('actief', toonVervallen);
+    knopVervallen.setAttribute('aria-pressed', String(toonVervallen));
+    getoond = BATCH;
+    vulDropdowns();
+    filterEnToon();
+  });
+}
 
 // Filter-dropdowns openen/sluiten
 document.querySelectorAll('.dropdown-knop').forEach(knop => {

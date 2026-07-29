@@ -30,6 +30,10 @@ from xml.etree import ElementTree as ET
 import requests
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import bwb_bron          # noqa: E402  officiele bron (SRU + manifest + wettekst)
+import bwb_markdown      # noqa: E402  converter op het echte BWB-toestand-schema
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s  %(levelname)-8s  %(message)s", datefmt="%H:%M:%S")
 log = logging.getLogger("update")
 
@@ -167,23 +171,14 @@ def haal_gewijzigde_ids_op(vanaf_datum: str) -> list[str]:
 
 # ── Stap 2: XML ophalen van BWB-repository ───────────────────────────────────
 
-def haal_xml_op_bwb(identifier: str) -> Optional[str]:
-    """Haal XML op van de officiële BWB-repository."""
-    url = f"{REPO_BASE}/{identifier}/xml/{identifier}_xml.zip"
-    r = fetch(url)
-    if not r:
-        return None
-    try:
-        with zipfile.ZipFile(io.BytesIO(r.content)) as z:
-            xml_namen = [n for n in z.namelist() if "toestand" in n.lower() and n.endswith(".xml")]
-            if not xml_namen:
-                xml_namen = [n for n in z.namelist() if n.endswith(".xml")]
-            if xml_namen:
-                return z.read(xml_namen[0]).decode("utf-8", errors="replace")
-    except zipfile.BadZipFile:
-        if r.text.strip().startswith("<"):
-            return r.text
-    return None
+def haal_xml_op_bwb(identifier: str) -> Optional[tuple[str, dict]]:
+    """Haal de XML van de actuele toestand op, via het manifest van de regeling.
+
+    De oude route (<id>/xml/<id>_xml.zip) geeft HTTP 204 met een lege body.
+    Dat is geen fout die een retry-lus opvangt, dus de update viel er stil op
+    terug naar legalize-nl. Zie bwb_bron voor de route die wel werkt.
+    """
+    return bwb_bron.haal_wettekst(identifier)
 
 
 def haal_xml_op_legalize(identifier: str) -> Optional[str]:
@@ -198,129 +193,17 @@ def haal_xml_op_legalize(identifier: str) -> Optional[str]:
 
 # ── Stap 3: XML → Markdown ───────────────────────────────────────────────────
 
-def xml_naar_markdown(xml: str, identifier: str) -> Optional[str]:
-    """Converteer BWB-XML naar nette Markdown."""
-    try:
-        root = ET.fromstring(xml)
-    except ET.ParseError:
-        return None
+def xml_naar_markdown(xml: str, identifier: str, kaart: Optional[dict] = None) -> Optional[str]:
+    """BWB-toestand-XML naar Markdown.
 
-    def zoek(root, *tags):
-        for tag in tags:
-            el = root.find(f".//{tag}")
-            if el is None:
-                el = root.find(f"{{*}}{tag}")
-            if el is not None and el.text:
-                return el.text.strip()
-        return ""
+    De conversie zelf staat in bwb_markdown. De vorige versie hier was
+    geschreven op een schema dat de repository niet levert: artikelnummers
+    werden "Artikel ?" (het nummer staat in <kop><nr>, niet in @nr) en de
+    skip-lijst noemde "metadata" waar het schema "meta-data" heet, waardoor
+    Staatsblad-administratie de wettekst in lekte.
+    """
+    return bwb_markdown.converteer(xml, identifier, kaart)
 
-    def tekst(el):
-        if el is None:
-            return ""
-        delen = [el.text.strip()] if el.text else []
-        for k in el:
-            t = tekst(k)
-            if t:
-                delen.append(t)
-            if k.tail and k.tail.strip():
-                delen.append(k.tail.strip())
-        return " ".join(filter(None, delen))
-
-    def element_naar_md(el, diepte=0):
-        tag = el.tag.split("}")[-1].lower()
-        out = []
-
-        if tag in ("hoofdstuk", "titel", "boek"):
-            kop_el = el.find(".//{*}kop") or el.find(".//{*}opschrift")
-            kop = tekst(kop_el) if kop_el is not None else el.get("nr", "")
-            out.append(f"\n## {kop}\n")
-            for k in el:
-                out.extend(element_naar_md(k, diepte + 1))
-        elif tag in ("afdeling", "paragraaf"):
-            kop_el = el.find(".//{*}kop") or el.find(".//{*}opschrift")
-            kop = tekst(kop_el) if kop_el is not None else el.get("nr", "")
-            out.append(f"\n### {kop}\n")
-            for k in el:
-                out.extend(element_naar_md(k, diepte + 1))
-        elif tag == "artikel":
-            nr = el.get("nr", "?")
-            opschrift_el = el.find("{*}opschrift")
-            opschrift = ""
-            if opschrift_el is not None:
-                t = tekst(opschrift_el)
-                if t and len(t) < 120:
-                    opschrift = f" – {t}"
-            out.append(f"\n#### Artikel {nr}{opschrift}\n")
-            for k in el:
-                if k.tag.split("}")[-1].lower() not in ("opschrift",):
-                    out.extend(element_naar_md(k, diepte + 1))
-        elif tag == "lid":
-            nr = el.get("nr", "")
-            al_el = el.find("{*}al")
-            t = tekst(al_el) if al_el is not None else (el.text or "").strip()
-            if t:
-                prefix = f"{nr}." if nr else "-"
-                out.append(f"\n{prefix} {t}")
-            for k in el:
-                if k.tag.split("}")[-1].lower() not in ("al",):
-                    out.extend(element_naar_md(k, diepte + 1))
-        elif tag in ("lijst", "list"):
-            for item in el:
-                item_tag = item.tag.split("}")[-1].lower()
-                if item_tag in ("li", "onderdeel"):
-                    letter = item.get("nr", "")
-                    t = tekst(item)
-                    out.append(f"   {letter}. {t}" if letter else f"   - {t}")
-        elif tag == "al":
-            t = tekst(el)
-            if t:
-                out.append(f"\n{t}")
-        elif tag in ("kop", "opschrift", "metadata", "wetciteer"):
-            pass
-        elif tag in ("aanhef", "preambule"):
-            t = tekst(el)
-            if t:
-                out.append(f"\n*{t}*\n")
-        elif tag in ("table", "tabel"):
-            out.append(f"\n> *(tabel — zie origineel op wetten.overheid.nl/{identifier})*\n")
-        else:
-            t = tekst(el)
-            if t and len(t) > 5:
-                out.append(f"\n{t}")
-            for k in el:
-                out.extend(element_naar_md(k, diepte + 1))
-        return out
-
-    titel = zoek(root, "officiele-titel", "officieleTitel", "citeertitel", "short_title")
-    citeertitel = zoek(root, "citeertitel", "short_title")
-    pub_datum = zoek(root, "publicatiedatum", "datumInwerking", "publication_date")
-    upd_datum = zoek(root, "datum-laatste-wijziging", "datumLaatsteWijziging", "last_updated")
-    ingetrokken = zoek(root, "datum-intrekking", "datumIntrekking")
-    status = "ingetrokken" if ingetrokken else "geldig"
-    categorie = bepaal_categorie(titel or identifier)
-
-    fm = ["---"]
-    fm.append(f'title: "{titel or identifier}"')
-    if citeertitel and citeertitel != titel:
-        fm.append(f'citeertitel: "{citeertitel}"')
-    fm.append(f'identifier: "{identifier}"')
-    fm.append(f'categorie: "{CATEGORIE_NAAM.get(categorie, "Overig")}"')
-    if pub_datum:
-        fm.append(f"publicatiedatum: {pub_datum[:10]}")
-    if upd_datum:
-        fm.append(f"laatste_update: {upd_datum[:10]}")
-    fm.append(f"status: {status}")
-    fm.append(f'bron: "https://wetten.overheid.nl/{identifier}"')
-    fm.append("---")
-
-    wettekst = root.find(".//{*}wettekst") or root.find(".//{*}regeling-tekst") or root
-    regels = [f"# {titel or identifier}\n"]
-    for el in wettekst:
-        regels.extend(element_naar_md(el))
-
-    inhoud = "\n".join(fm) + "\n\n" + "\n".join(regels)
-    inhoud = re.sub(r"\n{3,}", "\n\n", inhoud)
-    return inhoud.strip() + "\n"
 
 
 def legalize_md_cleanup(md_inhoud: str, identifier: str) -> str:
@@ -440,8 +323,11 @@ def test_verbinding() -> dict:
     resultaat["sru"] = r is not None and r.status_code == 200
 
     log.info("Verbinding testen met BWB-repository...")
-    r2 = fetch(f"{REPO_BASE}/BWBR0001840/xml/BWBR0001840_xml.zip")
-    resultaat["bwb_repo"] = r2 is not None and r2.status_code == 200
+    # Toets op een echte wettekst, niet op een status 200. De oude test vroeg
+    # een zip op die met 204 en een lege body antwoordt; die telde als "OK",
+    # waarna de update maanden ongemerkt op de fallback draaide.
+    proef = bwb_bron.haal_wettekst("BWBR0001840")
+    resultaat["bwb_repo"] = bool(proef and len(proef[0]) > 10_000)
 
     log.info("Verbinding testen met legalize-nl (fallback)...")
     r3 = fetch(f"{LEGALIZE_RAW}/BWBR0001840.md")
@@ -493,9 +379,10 @@ def main():
             md = None
 
             if bwb_werkt:
-                xml = haal_xml_op_bwb(identifier)
-                if xml:
-                    md = xml_naar_markdown(xml, identifier)
+                res = haal_xml_op_bwb(identifier)
+                if res:
+                    xml, kaart = res
+                    md = xml_naar_markdown(xml, identifier, kaart)
 
             if not md and legalize_werkt:
                 # Fallback naar legalize-nl
