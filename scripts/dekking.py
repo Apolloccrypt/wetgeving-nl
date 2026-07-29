@@ -63,6 +63,8 @@ def main() -> int:
                         "(trager, maar het manifest is de zwaarste bron)")
     p.add_argument("--verifieer-max", type=int, default=4000,
                    help="Maximaal aantal regelingen dat tegen het manifest gaat")
+    p.add_argument("--verifieer-tijd", type=float, default=2400,
+                   help="Tijdbudget in seconden voor de manifest-controle (0 = geen limiet)")
     args = p.parse_args()
 
     logging.basicConfig(level=logging.INFO,
@@ -95,7 +97,11 @@ def main() -> int:
     if args.verifieer:
         teverifieren = (ontbrekend + verdacht_vervallen + onbekend)[:args.verifieer_max]
         log.info("Manifest-controle op %d regelingen...", len(teverifieren))
-        manifesten = bwb_bron.manifesten(teverifieren, peildatum)
+        manifesten = bwb_bron.manifesten(teverifieren, peildatum,
+                                         tijdbudget=args.verifieer_tijd or None)
+        if len(manifesten) < len(teverifieren):
+            log.warning("%d regelingen niet gecontroleerd; hun status blijft ongewijzigd",
+                        len(teverifieren) - len(manifesten))
         ontbrekend = [i for i in ontbrekend if manifesten.get(i, {}).get("geldend", True)]
         verdacht_vervallen = [i for i in verdacht_vervallen
                               if i in manifesten and not manifesten[i]["geldend"]]
@@ -106,6 +112,12 @@ def main() -> int:
 
     site_geldend = len(geldend & site_ids)
     graad = site_geldend / len(geldend) if geldend else 0.0
+
+    # Zonder manifest-controle is "vervallen" een vermoeden, geen bevinding.
+    # Zo'n vermoeden hoort niet in een gepubliceerd rapport dat anderen
+    # (en vul_aan.py) als waarheid kunnen lezen.
+    if not args.verifieer:
+        verdacht_vervallen = []
 
     rapport = {
         "gegenereerd": peildatum,

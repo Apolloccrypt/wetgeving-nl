@@ -196,14 +196,34 @@ def manifest(identifier: str, peildatum: Optional[str] = None) -> Optional[dict]
 
 
 def manifesten(identifiers: Iterable[str], peildatum: Optional[str] = None,
-               werkers: int = REPO_WERKERS) -> dict[str, dict]:
-    """Manifesten van veel regelingen tegelijk."""
+               werkers: int = REPO_WERKERS, tijdbudget: Optional[float] = None) -> dict[str, dict]:
+    """Manifesten van veel regelingen tegelijk.
+
+    De bron levert ongeveer twee regelingen per seconde en heeft trage staarten.
+    Met `tijdbudget` (seconden) stopt het ophalen zodra de tijd op is; de rest
+    blijft dan simpelweg ongeverifieerd in plaats van dat een dagelijkse run
+    uren blijft hangen.
+    """
     ids = list(identifiers)
     uit: dict[str, dict] = {}
+    start = time.monotonic()
+    afgekapt = 0
     with ThreadPoolExecutor(max_workers=werkers) as ex:
-        for ident, m in zip(ids, ex.map(lambda i: manifest(i, peildatum), ids)):
+        futures = {ex.submit(manifest, i, peildatum): i for i in ids}
+        for f, ident in futures.items():
+            if tijdbudget and time.monotonic() - start > tijdbudget:
+                f.cancel()
+                afgekapt += 1
+                continue
+            try:
+                m = f.result()
+            except Exception:
+                m = None
             if m:
                 uit[ident] = m
+    if afgekapt:
+        log.warning("Manifest-controle afgekapt na %.0f s: %d van %d regelingen niet gecontroleerd",
+                    tijdbudget, afgekapt, len(ids))
     return uit
 
 
