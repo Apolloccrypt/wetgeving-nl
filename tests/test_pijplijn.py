@@ -67,6 +67,24 @@ PROEF_XML = """<?xml version="1.0" encoding="UTF-8"?>
 """
 
 
+CIRCULAIRE_XML = """<?xml version="1.0" encoding="UTF-8"?>
+<toestand bwb-id="BWBR9999998" inwerkingtreding="1995-06-28">
+ <wetgeving soort="circulaire" inwerkingtredingsdatum="1995-06-28">
+  <intitule>Aanpassing voorschriften</intitule>
+  <citeertitel>Proefcirculaire</citeertitel>
+  <circulaire>
+   <circulaire-tekst>
+    <circulaire.divisie>
+     <kop><nr>I</nr><titel>Samenvatting</titel></kop>
+     <tekst><al>Hierin staat wat de circulaire regelt.</al></tekst>
+    </circulaire.divisie>
+   </circulaire-tekst>
+  </circulaire>
+ </wetgeving>
+</toestand>
+"""
+
+
 class ConverterTest(unittest.TestCase):
     """De converter moet het echte BWB-schema aankunnen."""
 
@@ -127,6 +145,18 @@ class ConverterTest(unittest.TestCase):
     def test_categorie_uit_titel(self):
         self.assertEqual(bwb_markdown.bepaal_categorie("Wet op de omzetbelasting"), "belastingrecht")
         self.assertEqual(bwb_markdown.bepaal_categorie("Iets onbenoembaars"), "overig")
+
+
+    def test_circulaire_krijgt_ook_tekst(self):
+        # Circulaires en beleidsregels hebben geen <wettekst> maar
+        # <circulaire-tekst> met genummerde divisies. Zonder die herkenning
+        # bleven 120 geldende regelingen leeg en dus buiten de site.
+        md = bwb_markdown.converteer(CIRCULAIRE_XML, "BWBR9999998",
+                                     {"geldend": True, "ingegaan": "1995-06-28", "eind": ""})
+        self.assertIsNotNone(md, "circulaire leverde geen Markdown op")
+        self.assertIn("Samenvatting", md)
+        self.assertIn("Hierin staat wat de circulaire regelt.", md)
+        self.assertIn('soort: "circulaire"', md)
 
 
 class IndexTest(unittest.TestCase):

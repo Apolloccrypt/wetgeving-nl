@@ -47,7 +47,14 @@ NEGEER = {
 STRUCTUUR = {
     "boek": 2, "deel": 2, "hoofdstuk": 3, "titeldeel": 3, "titel-deel": 3,
     "afdeling": 4, "paragraaf": 4, "sub-paragraaf": 5, "subparagraaf": 5,
+    # circulaires en beleidsregels kennen geen artikelen maar genummerde
+    # divisies; zonder deze regel bleef hun tekst helemaal buiten beeld
+    "circulaire.divisie": 3, "divisie": 3,
 }
+
+# Waar de leestekst begint. Per soort regeling een ander element: wetten hebben
+# <wettekst>, regelingen <regeling-tekst>, circulaires <circulaire-tekst>.
+TEKST_WORTELS = ("wettekst", "regeling-tekst", "verdragtekst", "circulaire-tekst")
 
 CATEGORIE_TREFWOORDEN = {
     "strafrecht":        ["strafrecht", "strafbaar", "strafvordering", "penitentiair"],
@@ -347,7 +354,7 @@ def converteer(xml_tekst: str, identifier: str, kaart: Optional[dict] = None) ->
 
     tekst_wortel = None
     for el in root.iter():
-        if _tag(el) in ("wettekst", "regeling-tekst", "verdragtekst"):
+        if _tag(el) in TEKST_WORTELS:
             tekst_wortel = el
             break
     if tekst_wortel is None:
