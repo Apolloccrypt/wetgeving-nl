@@ -4,8 +4,9 @@ identifier: "BWBR0032288"
 categorie: "Overig"
 publicatiedatum: 2013-01-01
 laatste_update: 2013-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0032288"
+gecontroleerd: 2026-07-29
 ---
 
 # Aanwijzing review (tweede beoordeling)

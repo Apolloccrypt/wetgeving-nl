@@ -4,8 +4,9 @@ identifier: "BWBR0049579"
 categorie: "Bestuursrecht"
 publicatiedatum: 2024-04-18
 laatste_update: 2026-04-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049579"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 april 2024 nr. BOACAT2024/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Lelystad

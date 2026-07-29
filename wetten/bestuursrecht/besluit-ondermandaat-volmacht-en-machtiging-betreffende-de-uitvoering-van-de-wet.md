@@ -4,8 +4,9 @@ identifier: "BWBR0051048"
 categorie: "Overig"
 publicatiedatum: 2025-05-24
 laatste_update: 2026-05-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051048"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van 6 februari 2025, nr. 2024-560389, houdende verlening van ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid (Besluit ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid op het terrein van het tijdelijke programmadirectoraat-generaal Herstel)

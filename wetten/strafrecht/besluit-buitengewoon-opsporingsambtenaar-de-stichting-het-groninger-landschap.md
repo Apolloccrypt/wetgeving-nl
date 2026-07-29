@@ -4,8 +4,9 @@ identifier: "BWBR0044870"
 categorie: "Overig"
 publicatiedatum: 2024-03-30
 laatste_update: 2026-05-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0044870"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 februari 2021 nr. BOACAT2021/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Het Groninger Landschap

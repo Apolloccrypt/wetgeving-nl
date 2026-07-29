@@ -4,8 +4,9 @@ identifier: "BWBR0007678"
 categorie: "Belastingrecht"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0007678"
+gecontroleerd: 2026-07-29
 ---
 
 # Wet belasting zware motorrijtuigen

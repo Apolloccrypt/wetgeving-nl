@@ -4,8 +4,9 @@ identifier: "BWBR0042107"
 categorie: "Overig"
 publicatiedatum: 2024-09-17
 laatste_update: 2026-06-02
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0042107"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van het bestuur van de huurcommissie, van 8 maart 2019, nr. MA/2019-062/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2019)

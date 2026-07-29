@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
 last_updated: "2025-10-17"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0051627"
 soort: "ministeriele-regeling"
 stam_id: "17555043"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Regeling bekostiging WPO en WEC 2026"
 signed_date: "2025-10-07"
 entry_into_force: "2025-10-17"
+gecontroleerd: 2026-07-29
 ---
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 oktober 2025, nr. PO/FenV/54400275, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2026 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2026 (Regeling bekostiging WPO en WEC 2026)
 

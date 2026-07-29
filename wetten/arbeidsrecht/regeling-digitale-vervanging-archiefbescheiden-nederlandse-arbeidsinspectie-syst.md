@@ -4,8 +4,9 @@ identifier: "BWBR0036576"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2022-01-01
 laatste_update: 2022-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0036576"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, 2015-0000087820, tot Besluit digitale vervanging archiefbescheiden Inspectie SZW systemen Diwi, I-Net en ISBB

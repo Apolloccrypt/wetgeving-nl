@@ -1,56 +1,57 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juni 2022, 2022-0000004989, houdende de inrichting van de directie Informatievoorziening, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022"
 identifier: "BWBR0046804"
-categorie: "Overig"
-publicatiedatum: 2026-01-27
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2022-06-25
 laatste_update: 2026-01-27
-status: geldig
+status: vervallen
+vervallen_op: 2026-07-24
+toestand: 2026-01-27
 bron: "https://wetten.overheid.nl/BWBR0046804"
+opgehaald: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juni 2022, 2022-0000004989, houdende de inrichting van de directie Informatievoorziening, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022)
 
-Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
-
-Besluit:
-
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **afdeling A&O:** de afdeling Analyse en Onderzoek;
+- a. *afdeling A&O:* de afdeling Analyse en Onderzoek;
 
-- b. **afdeling IMV:** de afdeling Informatiemanagement- en voorziening;
+- b. *afdeling IMV:* de afdeling Informatiemanagement- en voorziening;
 
-- c. **directeur:** de directeur Informatievoorziening;
+- c. *directeur:* de directeur Informatievoorziening;
 
-- d. **directie:** de directie Informatievoorziening.
+- d. *directie:* de directie Informatievoorziening.
 
 #### § 2. Organisatie
 
-#### Artikel 2. Organisatie directie
+##### Artikel 2. Organisatie directie
 
 1. De directie bestaat uit de volgende afdelingen:
 
 - a. de afdeling A&O, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. Team Analyse;
+   - 1°. Team Analyse;
 
-- 2°. Teams Onderzoek, waarbinnen de volgende subteams zijn ingericht: Team Eerlijk Werk, Team Veilig en Gezond Werk en Team Bestaanszekerheid en Stelsel;
+   - 2°. Teams Onderzoek, waarbinnen de volgende subteams zijn ingericht: Team Eerlijk Werk, Team Veilig en Gezond Werk en Team Bestaanszekerheid en Stelsel;
 
-- 3°. Team Data-Analyse en Bronnen;
+   - 3°. Team Data-Analyse en Bronnen;
 
-- 4°. Team Data Science Lab;
+   - 4°. Team Data Science Lab;
 
 - b. de afdeling IMV, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. Informatie Services en Veiligheid;
+   - 1°. Informatie Services en Veiligheid;
 
-- 2°. Informatiemanagement;
+   - 2°. Informatiemanagement;
 
-- 3°. Informatievoorziening;
+   - 3°. Informatievoorziening;
 
 - c. de afdeling I-Regie.
 
@@ -62,7 +63,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden afdelingshoofden
+##### Artikel 3. Verantwoordelijkheden afdelingshoofden
 
 De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -84,7 +85,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
 
-#### Artikel 4. Verantwoordelijkheden teamleiders
+##### Artikel 4. Verantwoordelijkheden teamleiders
 
 De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -92,11 +93,11 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
 
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
+   - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van de medewerkers met ziekteverzuim;
+   - 2°. het begeleiden van de medewerkers met ziekteverzuim;
 
-- 3°. het voeren van personeelsgesprekken;
+   - 3°. het voeren van personeelsgesprekken;
 
 - c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
 
@@ -114,15 +115,15 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
 
-- 1°. start- en personeelsgesprekken;
+   - 1°. start- en personeelsgesprekken;
 
-- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+   - 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
 
 - k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
 - l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 5. Verantwoordelijkheden afdeling A&O
+##### Artikel 5. Verantwoordelijkheden afdeling A&O
 
 1. De afdeling A&O is verantwoordelijk voor de volgende taken:
 
@@ -144,7 +145,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. het uitwerken van eigen aanbodgestuurde innovatieve ideeën en het zoeken van toepassingen daarvoor binnen de organisatie.
 
-#### Artikel 6. Verantwoordelijkheden afdeling IMV
+##### Artikel 6. Verantwoordelijkheden afdeling IMV
 
 De afdeling IMV is verantwoordelijk voor:
 
@@ -170,7 +171,7 @@ De afdeling IMV is verantwoordelijk voor:
 
 - k. de liaisonfunctie met de afdeling I-Regie, waaronder begrepen het inbrengen van inzichten voor de strategische visie en besluitvorming.
 
-#### Artikel 7. Verantwoordelijkheden afdeling I-Regie
+##### Artikel 7. Verantwoordelijkheden afdeling I-Regie
 
 De afdeling I-Regie is verantwoordelijk voor:
 
@@ -192,7 +193,7 @@ De afdeling I-Regie is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 8. Volmacht en machtiging betreffende personeelsaangelegenheden
+##### Artikel 8. Volmacht en machtiging betreffende personeelsaangelegenheden
 
 1. Aan de afdelingshoofden en teamleiders van de directie wordt volmacht en machtiging verleend met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -202,33 +203,33 @@ De afdeling I-Regie is verantwoordelijk voor:
 
 - c. het beslissen over verlof van medewerkers;
 
-- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
 
 - e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
 
 2. In aanvulling op het eerste lid wordt in het geval een teamleider de beoordeling van een medewerker opmaakt, aan het afdelingshoofd dat boven de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
 
-#### Artikel 9. Volmachten afdelingshoofden
+##### Artikel 9. Volmachten afdelingshoofden
 
-De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
+De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
 - a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
-#### Artikel 10. Volmacht teamleiders
+##### Artikel 10. Volmacht teamleiders
 
-De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
-#### Artikel 11. Volmachten hoofd en teamleiders IMV
+##### Artikel 11. Volmachten hoofd en teamleiders IMV
 
-1. Het hoofd van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
+1. Het hoofd van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-2. De teamleider Informatievoorziening van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
+2. De teamleider Informatievoorziening van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-3. De teamleider Informatie Services en Veiligheid van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot Exploitatie en Ontwikkeling ICT-uitgaven en het veiligheidsbeleid, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
+3. De teamleider Informatie Services en Veiligheid van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot Exploitatie en Ontwikkeling ICT-uitgaven en het veiligheidsbeleid, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-#### Artikel 12. Plaatsvervanging
+##### Artikel 12. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
@@ -236,12 +237,10 @@ De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2022.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2022.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -4,8 +4,9 @@ identifier: "BWBR0052171"
 categorie: "Bestuursrecht"
 publicatiedatum: 2026-07-01
 laatste_update: 2026-07-15
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052171"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel bestuurlijke boete voertuig openbare weg zonder handelaarskenteken

@@ -4,8 +4,9 @@ identifier: "BWBR0052142"
 categorie: "Overig"
 publicatiedatum: 2026-01-14
 laatste_update: 2026-04-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052142"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Algemene Zaken van Aruba, de Minister van Algemene Zaken van Curaçao, de Minister van Algemene Zaken van Sint Maarten en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland van 1 september 2025, houdende instelling van de evaluatiecommissie Onderlinge regeling samenwerking bij hervormingen (Instellingsbesluit evaluatiecommissie Onderlinge regeling)

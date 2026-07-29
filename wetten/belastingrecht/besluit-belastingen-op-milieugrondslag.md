@@ -4,8 +4,9 @@ identifier: "BWBR0052089"
 categorie: "Belastingrecht"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052089"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-27601 over Belastingen op milieugrondslag

@@ -4,8 +4,9 @@ identifier: "BWBR0045445"
 categorie: "Onderwijs"
 publicatiedatum: 2022-11-05
 laatste_update: 2022-11-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045445"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 16 juli 2021, nr. PO/ 28571561, houdende regels voor subsidieverstrekking ten behoeve van impuls en innovatie in het bewegingsonderwijs (Subsidieregeling impuls en innovatie bewegingsonderwijs)

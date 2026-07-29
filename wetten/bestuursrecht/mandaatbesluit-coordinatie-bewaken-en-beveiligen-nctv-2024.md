@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-13"
 last_updated: "2024-06-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050388"
 soort: "ministeriele-regeling"
 stam_id: "17263353"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Mandaatbesluit Coördinatie Bewaken en Beveiligen NCTV 2024"
 signed_date: "2024-10-28"
 entry_into_force: "2024-11-13"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van het hoofd van de Afdeling Coördinatie Bewaken en Beveiligen van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 28 oktober 2024, nr. 5841775, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van die afdeling (Mandaatbesluit Coördinatie Bewaken en Beveiligen NCTV 2024)
 

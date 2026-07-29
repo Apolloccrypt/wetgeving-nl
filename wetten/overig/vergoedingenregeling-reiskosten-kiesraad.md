@@ -4,8 +4,9 @@ identifier: "BWBR0006938"
 categorie: "Overig"
 publicatiedatum: 1994-10-27
 laatste_update: 1994-10-27
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0006938"
+gecontroleerd: 2026-07-29
 ---
 
 # Vergoedingenregeling reiskosten Kiesraad

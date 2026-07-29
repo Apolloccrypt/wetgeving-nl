@@ -4,8 +4,9 @@ identifier: "BWBR0044328"
 categorie: "Sociaal recht"
 publicatiedatum: 2025-02-13
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0044328"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 november 2020, nr. MBO/25458774, houdende de verstrekking van een specifieke uitkering voor extra financiële middelen voor de RMC-functie (Regeling specifieke uitkering extra financiële middelen RMC-functie)

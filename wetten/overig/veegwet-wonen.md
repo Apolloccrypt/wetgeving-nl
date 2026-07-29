@@ -4,8 +4,9 @@ identifier: "BWBR0039169"
 categorie: "Overig"
 publicatiedatum: 2018-06-13
 laatste_update: 2018-06-13
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0039169"
+gecontroleerd: 2026-07-29
 ---
 
 # Veegwet wonen

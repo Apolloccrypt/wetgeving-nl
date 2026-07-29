@@ -4,8 +4,9 @@ identifier: "BWBR0039527"
 categorie: "Overig"
 publicatiedatum: 2022-11-25
 laatste_update: 2026-05-22
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0039527"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregels RCN-unit SZW uitvoering Wav BES

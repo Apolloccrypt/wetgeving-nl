@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2002-12-22"
 last_updated: "2002-12-22"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0014493"
 soort: "ministeriele-regeling"
 stam_id: "4143993"
@@ -27,6 +27,7 @@ citeertitel_status: "officieel"
 short_title: "Subsidieplafond Onderzoek 2003"
 signed_date: "2002-12-18"
 entry_into_force: "2002-12-22"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de Staatssecretaris voor Ontwikkelingssamenwerking van 18 december 2002, kenmerk DCO/OC-870/02 tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken
 

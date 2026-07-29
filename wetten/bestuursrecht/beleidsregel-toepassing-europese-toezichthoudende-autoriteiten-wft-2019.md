@@ -4,8 +4,9 @@ identifier: "BWBR0042098"
 categorie: "Overig"
 publicatiedatum: 2019-04-06
 laatste_update: 2026-05-16
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0042098"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 21 maart 2019 tot toepassing van richtsnoeren van de Europese toezichthoudende autoriteiten in verband met het prudentieel toezicht en de afwikkelingstaak bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren Europese toezichthoudende autoriteiten Wft 2019)

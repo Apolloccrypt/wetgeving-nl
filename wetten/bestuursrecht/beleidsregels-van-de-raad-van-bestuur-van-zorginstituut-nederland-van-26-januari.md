@@ -1,0 +1,66 @@
+---
+title: "Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 26 januari 2021, kenmerk 2020032052, met het oog op de rechtmatige en doelmatige uitvoering van de Wet langdurige zorg door de zorgkantoren en het CAK"
+citeertitel: "Beleidsregels voor de zorgkantoren en het CAK met het oog op de rechtmatige en doelmatige uitvoering van de Wlz"
+identifier: "BWBR0044785"
+categorie: "Bestuursrecht"
+soort: "zbo"
+publicatiedatum: 2021-02-09
+laatste_update: 2021-02-09
+status: geldig
+toestand: 2021-02-09
+bron: "https://wetten.overheid.nl/BWBR0044785"
+opgehaald: 2026-07-29
+---
+
+# Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 26 januari 2021, kenmerk 2020032052, met het oog op de rechtmatige en doelmatige uitvoering van de Wet langdurige zorg door de zorgkantoren en het CAK
+
+##### Artikel 1
+
+In deze beleidsregels wordt verstaan onder:
+
+- − *CAK:* het CAK, genoemd in [artikel 6.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+
+- − *NZa:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordering gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+
+- − *Wlz:*
+ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+
+- − *Wlz-zorgaanbieder:* rechtspersoon die zorg of een dienst levert als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en die op grond van de [Wet toelating zorginstellingen (WTZi)](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) is toegelaten voor één of meer van de zorgvormen persoonlijke verzorging, verpleging, begeleiding en behandeling, als bedoeld in de Wlz;
+
+- − *Zorginstituut:* Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+
+- − *zorgkantoor:* rechtspersoon als bedoeld in [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
+
+##### Artikel 2
+
+1. Het zorgkantoor kan aan het CAK opdracht geven tot betaling van een maandelijks voorschot aan een Wlz-zorgaanbieder in de regio of regio’s waarvoor hij is aangewezen.
+
+2. Verlening van een voorschot aan een Wlz-zorgaanbieder kan alleen plaatsvinden als dit voorschot betrekking heeft op prestaties waarvoor een tariefbeschikking is afgegeven door de NZa.
+
+3. In uitzonderingsgevallen kan het Zorginstituut aan de zorgkantoren schriftelijk toestemming geven tot het verlenen van voorschotten aan Wlz-zorgaanbieders, vooruitlopend op de afgifte van een tariefbeschikking door de NZa.
+
+##### Artikel 3
+
+Het zorgkantoor geeft aan het CAK met behulp van het formulier BZ/10, zoals opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0044785), opdracht tot betaling of aanpassing van een maandelijks voorschot aan de Wlz-zorgaanbieder die werkzaam is in de regio of regio’s waarvoor het zorgkantoor de in [artikel 4.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=4.2.2) aangegeven werkzaamheden uitvoert. Het maandelijkse voorschot wordt berekend door de aanvaardbare kosten van de Wlz-zorgaanbieder, als bedoeld in de beleidsregel Bekostigingscyclus van de NZa te delen door 12.
+
+Het maandelijks voorschot wordt als volgt bepaald:
+
+- 1. Gedurende de eerste maanden van jaar (t), zolang de NZa nog geen tariefbeschikking voor jaar (t) heeft afgegeven, kan de bevoorschotting plaatshebben op basis van het niveau van de maand december van het jaar (t-1).
+
+- 2. Bij afgifte van de eerste tariefbeschikking door de NZa voor het jaar (t) geeft het zorgkantoor door middel van het formulier BZ/10 een opdracht voor aanpassing van het maandelijkse voorschot voor het jaar (t) (ingangsdatum 1 januari), onder verrekening van het teveel of te weinig bevoorschotte deel over het eerste deel van het jaar (t).
+
+- 3. In de volgende twee situaties past het zorgkantoor vervolgens gedurende het jaar (t) het voorschot aan:
+
+   - a. De afgifte van een nieuwe tariefbeschikking door de NZa;
+
+   - b. De door de Wlz-zorgaanbieder ingediende declaraties wijken substantieel af van de productieafspraak. Het zorgkantoor onderzoekt de oorzaken van de gewijzigde productie en past zo nodig het voorschot aan.
+
+- 4. De afrekening van de betaalde voorschotten ten opzichte van de realisatie verrichten het zorgkantoor aan de hand van gegevens in het nacalculatieformulier van de NZa. Het op grond hiervan resterende positieve of negatieve bedrag wordt door het zorgkantoor éénmalig verrekend via een afzonderlijke betaalopdracht aan het CAK met het formulier BZ/10.
+
+##### Artikel 4
+
+Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
+
+##### Artikel 5
+
+Deze beleidsregels worden aangehaald als: Beleidsregels voor de zorgkantoren en het CAK met het oog op de rechtmatige en doelmatige uitvoering van de Wlz.

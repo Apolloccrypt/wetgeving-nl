@@ -4,8 +4,9 @@ identifier: "BWBR0051213"
 categorie: "Onderwijs"
 publicatiedatum: 2025-07-12
 laatste_update: 2025-07-12
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051213"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 7 juli 2025, nr. WJZ/ 99080498, houdende vaststelling van de Regeling schoolfruit en -groenten 2025

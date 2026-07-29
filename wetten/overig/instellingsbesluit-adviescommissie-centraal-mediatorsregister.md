@@ -4,8 +4,9 @@ identifier: "BWBR0050754"
 categorie: "Overig"
 publicatiedatum: 2025-07-22
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0050754"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 4 februari 2025, nr. 6074718, houdende instelling van de Adviescommissie Centraal Mediatorsregister (Instellingsbesluit Adviescommissie Centraal Mediatorsregister)

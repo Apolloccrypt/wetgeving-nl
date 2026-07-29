@@ -4,8 +4,9 @@ identifier: "BWBR0043959"
 categorie: "Overig"
 publicatiedatum: 2020-07-25
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0043959"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 17 juli 2020, nr. 2957977, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen van de Hoge Raad der Nederlanden

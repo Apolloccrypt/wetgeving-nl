@@ -4,8 +4,9 @@ identifier: "BWBR0035079"
 categorie: "Bestuursrecht"
 publicatiedatum: 2018-03-22
 laatste_update: 2018-03-22
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0035079"
+gecontroleerd: 2026-07-29
 ---
 
 # Bestuursreglement Zorginstituut Nederland

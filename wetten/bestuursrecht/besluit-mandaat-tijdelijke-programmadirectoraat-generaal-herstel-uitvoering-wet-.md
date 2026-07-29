@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
 last_updated: "2024-11-28"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050469"
 soort: "ministeriele-regeling"
 stam_id: "17288373"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Besluit mandaat tijdelijke programmadirectoraat-generaal Herstel uitvoering Wet open overheid"
 signed_date: "2024-11-16"
 entry_into_force: "2024-11-28"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de Minister van Financiën van 16 november 2024 (2024-515548) houdende verlening van mandaat op het terrein van het tijdelijke programmadirectoraat-generaal Herstel betreffende de uitvoering van de Wet open overheid (Besluit mandaat tijdelijke programmadirectoraat-generaal Herstel uitvoering Wet open overheid)
 

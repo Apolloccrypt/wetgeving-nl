@@ -4,8 +4,9 @@ identifier: "BWBR0045196"
 categorie: "Bestuursrecht"
 publicatiedatum: 2021-06-03
 laatste_update: 2021-06-03
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045196"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 juni 2021 nr. BOACAT2021/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Schagen

@@ -4,8 +4,9 @@ identifier: "BWBR0045019"
 categorie: "Burgerlijk recht"
 publicatiedatum: 2021-04-01
 laatste_update: 2021-04-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045019"
+gecontroleerd: 2026-07-29
 ---
 
 # Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (tijdelijke huurkorting)

@@ -4,8 +4,9 @@ identifier: "BWBR0051672"
 categorie: "Overig"
 publicatiedatum: 2025-10-30
 laatste_update: 2025-10-30
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051672"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel budgettair kader Wlz 2025

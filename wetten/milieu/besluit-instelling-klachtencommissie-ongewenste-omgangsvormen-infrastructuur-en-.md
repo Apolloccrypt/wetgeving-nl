@@ -4,8 +4,9 @@ identifier: "BWBR0038720"
 categorie: "Milieu"
 publicatiedatum: 2016-11-18
 laatste_update: 2016-11-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0038720"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu van 1 november 2016

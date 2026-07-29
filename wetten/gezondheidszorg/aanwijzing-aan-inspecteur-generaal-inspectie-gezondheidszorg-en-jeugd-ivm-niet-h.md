@@ -4,8 +4,9 @@ identifier: "BWBR0052267"
 categorie: "Gezondheidszorg"
 publicatiedatum: 2026-02-04
 laatste_update: 2026-02-04
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052267"
+gecontroleerd: 2026-07-29
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2026, kenmerk 4346820-1093991-WJZ, aan de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd in verband met het niet handhavend optreden tegen een overtreding van de handelsvergunningplicht op grond van de Geneesmiddelenwet

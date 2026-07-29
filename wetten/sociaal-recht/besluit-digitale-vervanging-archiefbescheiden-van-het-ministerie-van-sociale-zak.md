@@ -4,8 +4,9 @@ identifier: "BWBR0041317"
 categorie: "Sociaal recht"
 publicatiedatum: 2018-09-05
 laatste_update: 2018-09-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0041317"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 augustus 2018, 2018-0000130316, tot Besluit digitale vervanging archiefbescheiden van het Ministerie van Sociale Zaken en Werkgelegenheid systeem Diane

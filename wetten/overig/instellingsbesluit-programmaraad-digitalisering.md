@@ -4,8 +4,9 @@ identifier: "BWBR0049274"
 categorie: "Overig"
 publicatiedatum: 2024-04-18
 laatste_update: 2024-04-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049274"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43324058, houdende instelling van de programmaraad Digitalisering voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Digitalisering 2023–2025)

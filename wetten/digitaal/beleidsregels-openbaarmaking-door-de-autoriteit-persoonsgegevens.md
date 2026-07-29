@@ -4,8 +4,9 @@ identifier: "BWBR0037531"
 categorie: "Digitaal en privacy"
 publicatiedatum: 2023-04-13
 laatste_update: 2026-04-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0037531"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens

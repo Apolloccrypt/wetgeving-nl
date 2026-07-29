@@ -4,8 +4,9 @@ identifier: "BWBR0050650"
 categorie: "Overig"
 publicatiedatum: 2025-01-01
 laatste_update: 2026-07-17
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0050650"
+gecontroleerd: 2026-07-29
 ---
 
 # Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film

@@ -4,8 +4,9 @@ identifier: "BWBR0031613"
 categorie: "Overig"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0031613"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)

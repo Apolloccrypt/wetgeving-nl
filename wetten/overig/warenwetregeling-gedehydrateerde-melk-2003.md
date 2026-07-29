@@ -4,8 +4,9 @@ identifier: "BWBR0014856"
 categorie: "Overig"
 publicatiedatum: 2014-12-13
 laatste_update: 2014-12-13
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0014856"
+gecontroleerd: 2026-07-29
 ---
 
 # Warenwetregeling gedehydrateerde melk 2003

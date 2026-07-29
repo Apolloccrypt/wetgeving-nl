@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-03"
 last_updated: "2024-07-02"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050913"
 soort: "ministeriele-regeling"
 stam_id: "17396803"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei in oprichting"
 signed_date: "2025-02-27"
 entry_into_force: "2025-04-03"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de kwartiermakend directeur-generaal Realisatie Groene Groei, ZK 0000094156, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei in oprichting (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei in oprichting)
 

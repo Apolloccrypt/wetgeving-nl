@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
 last_updated: "2017-10-05"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0040041"
 soort: "ministeriele-regeling"
 stam_id: "14196223"
@@ -33,6 +33,7 @@ citeertitel_status: "redactioneel"
 short_title: "Besluit verlening ondervolmacht aan secretariaatsmedewerkers bedrijfsbureau"
 signed_date: "2017-09-21"
 entry_into_force: "2017-10-05"
+gecontroleerd: 2026-07-29
 ---
 # Besluit van de directeur Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies van 21 september 2017, kenmerk 1129617-163472-ESTT, houdende de verlening van ondervolmacht aan de secretariaatsmedewerkers van het bedrijfsbureau
 

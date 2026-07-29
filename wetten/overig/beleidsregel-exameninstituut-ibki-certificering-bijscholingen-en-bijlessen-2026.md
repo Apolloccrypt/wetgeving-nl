@@ -1,0 +1,338 @@
+---
+title: "Beleidsregel Exameninstituut IBKI certificering bijscholingen en bijlessen (2026)"
+identifier: "BWBR0052783"
+categorie: "Overig"
+soort: "zbo"
+publicatiedatum: 2026-07-06
+laatste_update: 2026-07-06
+status: geldig
+toestand: 2026-07-06
+bron: "https://wetten.overheid.nl/BWBR0052783"
+opgehaald: 2026-07-29
+---
+
+# Beleidsregel Exameninstituut IBKI certificering bijscholingen en bijlessen (2026)
+
+##### Artikel 1. Definitiebepaling
+
+- a. *Bijscholing:* een theoretische bijscholing (ook wel ‘bijscholingscursus’) zoals bedoeld in de [artikelen 6 tot en met 7 van de Regeling rijonderricht motorrijtuigen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&artikel=6).
+
+- b. *Bijles:* een bijles (ook wel: ‘educatief traject’) als bedoeld in [artikel 8a e.v. van de Regeling rijonderricht motorrijtuigen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&artikel=8a).
+
+### Hoofdstuk 1. Certificering theoretische bijscholing
+
+##### Artikel 2. Aanvraag certificaat theoretische bijscholing
+
+1. Bij het Exameninstituut IBKI kan een aanvraag worden ingediend voor het verkrijgen van een certificaat voor het geven van een theoretische bijscholing.
+
+2. Bij de aanvraag dient de volgende informatie te worden aangeleverd:
+
+- a. Gegevens van de aanbieder: een bij IBKI nog onbekende aanbieder dient een gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel aan te leveren. Exameninstituut IBKI doet daarnaast een onderzoek naar de financiële continuïteit van de aanbieder.
+
+- b. De cursusdoelstelling: de cursus moet een theoretische doelstelling hebben, volgend uit de door Exameninstituut IBKI geaccordeerde leerdoelen; de doelstelling moet gekoppeld kunnen worden aan de praktijkrelevantie (‘waarom is het belangrijk dat een instructeur dit weet?’);
+
+- c. De leerdoelen: in beginsel heeft een cursus van 1 dagdeel maximaal 12 leerdoelen en hebben cursussen van 2 t/m 4 dagdelen maximaal 25 leerdoelen, eventueel bij relevante leerdoelen met extra aandachtspunten. Elk leerdoel:
+
+   - i. is een uitwerking conform de taxonomie-indeling van Bloom: onthouden (kennis), begrijpen (inzicht), toepassen, analyseren, evalueren en creëren. Voor de theoretische bijscholing zijn met name de onderdelen onthouden, begrijpen en toepassen van belang;
+
+   - ii. begint met ‘De rijinstructeur’ en bevat de volgende vier elementen: (1) concrete handelingswerkwoorden die bij de taxonomie-indeling passen (bijvoorbeeld beschrijven, verklaren, demonstreren), (2) inhoudsomschrijving, (3) conditie waaronder leerdoel bereikt wordt en (4) beheersingsnorm;
+
+   - iii. is zoveel mogelijk SMART geformuleerd: Specifiek, Meetbaar, Acceptabel, Realistisch, Tijdgebonden.
+
+- d. Het lesplan: het lesplan moet passen bij de theoretische doelstelling van de cursus en de cursus moet een evaluatiemoment bevatten, inhoudende een korte toets;
+
+- e. De leerstof of het lesmateriaal: de leerstof of het lesmateriaal moet relevant zijn voor de leerdoelen; bij het indienen van het certificeringsverzoek moet een bronvermelding van het lesmateriaal gegeven worden. Dit om plagiaat van ontwikkelwerk te voorkomen;
+
+- f. Bewijzen van professionaliteit van de docenten: docenten moeten een cv aanleveren die voldoende bewijs levert van de professionaliteit en deskundigheid. Exameninstituut IBKI kan afschriften van diploma's opvragen bij aanvrager, voor de beoordeling van de aanvraag. Docenten dienen daarnaast in het bezit te zijn van een geldig WRM-instructeurscertificaat (controle op certificaatdatum) en tenminste drie jaar ervaring te hebben als rijinstructeur, dan wel als docent met docentenkwalificatie;
+
+- g. Informatie met betrekking tot het bedrijfsmatige criteria: de cursus moet een minimale omvang hebben; een cursusdagdeel moet minimaal 3 uur duren (een dag van twee dagdelen 6 uur), een cursus mag maximaal 4 dagdelen omvatten, het maximale aantal cursisten is 15 per docent, de accommodatie moet geschikt zijn voor het geven van cursussen en voldoen aan de ARBO-eisen op dat terrein, er moet een betrouwbare aanwezigheidsregistratie aanwezig zijn en na afloop moet een deelnamecertificaat verstrekt worden. Het is – onder voorwaarden – tevens mogelijk om de bijscholing als webinar (online bijscholingscursus) te verzorgen indien voor het overige aan bovenstaande eisen wordt voldaan.
+
+3. Voor het aanvragen van een certificaat voor een nieuwe cursus – met nieuw cursusonderwerp – dient de cursusdoelstelling uniek van aard te zijn. Een aanvraag voor een cursus met een cursusdoelstelling wordt door IBKI slechts eenmalig toegekend. Indien een (andere) aanvrager een aanvraag indient voor een reeds toegekende cursusdoelstelling wordt de aanvraag door IBKI afgewezen. In dat geval kan een certificaat worden verkregen voor het geven van de reeds bestaande cursus (c.q. bestaand cursusonderwerp).
+
+4. Bij meerdere aanvragen voor eenzelfde cursusdoelstelling zal IBKI de aanvragers hierover informeren om zo mogelijk tot één gezamenlijk in te dienen aanvraag te komen.
+
+5. De aanvraag om te worden gecertificeerd voor een cursus met een nieuw bijscholingsonderwerp gaat vergezeld van alle gegevens en bescheiden die worden genoemd in lid 2 van dit artikel. Exameninstituut IBKI heeft een formulier vastgesteld, dat dient te worden gebruikt voor het indienen van een aanvraag voor een certificaat voor het geven van een bijscholingscursus met nieuw bijscholingsonderwerp. Dit formulier is bij deze beleidsregel gevoegd *(bijlage 1)*.
+
+6. De cursusdoelstellingen die door IBKI zijn goedgekeurd en waarvoor een certificaat is verstrekt, worden door IBKI op de website gepubliceerd. Indien en voor zover een aanvrager een certificaat aanvraagt voor het aanbieden van bestaande cursusdoelstellingen dient bij de aanvraag alle gegevens en bescheiden te worden aangeleverd zoals genoemd in lid 2 van dit artikel, met uitzondering van sub b (de cursusdoelstelling) en sub c (de leerdoelen). Voor het aanvragen van een certificaat voor een bestaande cursusdoelstelling is door Exameninstituut IBKI een formulier vastgesteld. Dit formulier is bij deze beleidsregel gevoegd ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=2&z=2026-07-06&g=2026-07-06)).
+
+##### Artikel 3. De beoordeling van de aanvraag
+
+1. IBKI beoordeelt de aanvraag van een certificaat om een cursus met een bestaand of nieuw bijscholingsonderwerp aan te mogen bieden, na ontvangst van het daartoe opgestelde aanvraagformulier ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=1&z=2026-07-06&g=2026-07-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=2&z=2026-07-06&g=2026-07-06)).
+
+2. Het besluit van IBKI om een certificaat voor een nieuw bijscholingsonderwerp te verstrekken geldt voor de periode van vier jaar, met de mogelijkheid van eenmalige verlenging met vier jaar. De aanvraag van een certificaat voor het aanbieden van een nieuw bijscholingsonderwerp wordt door IBKI beoordeeld op basis van de volgende criteria:
+
+- a. Het onderwerp moet gericht zijn op rijonderricht (conform [art. 12b, lid 1 van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b)) en voldoende praktijkrelevant zijn voor de branche voor minimaal vier jaar. Het onderwerp mag voor één motorrijtuigcategorie bedoeld zijn;
+
+- b. Het onderwerp moet een algemeen aanvaarde wetenschappelijke onderbouwing hebben;
+
+- c. De doelgroep moet landelijk gezien voldoende groot zijn;
+
+- d. Het onderwerp moet voldoende afwijken van al bestaande bijscholingsonderwerpen (doelstellingen);
+
+- e. Onderwerp en leerdoelen moeten zodanig ’algemeen’ geformuleerd zijn, dat elke op dit onderwerp deskundige cursusontwikkelaar/aanbieder die dat wil, hierover een cursus kan ontwikkelen. De indiener van het onderwerp heeft geen alleenrecht. Een zelf ontwikkeld didactiekconcept dat door niemand anders dan de indiener gegeven kan worden, is derhalve niet toegestaan als bijscholings- of bijlesonderwerp.
+
+3. Na het goedkeuringsbesluit aangaande de certificering van een nieuw bijscholingsonderwerp wordt in de 'e-mailnieuwsbrief WRM' van IBKI het nieuwe bijscholingsonderwerp bekendgemaakt en samen met de leerdoelen toegevoegd aan het overzichtsdocument ‘Leerdoelen theoretische bijscholing WRM’ op de website van Exameninstituut IBKI. Dit overzicht maakt tevens onderdeel uit van de onderhavige beleidsregel ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=3&z=2026-07-06&g=2026-07-06)). De bijlage in de Staatscourant wordt elk jaar – per 1 januari – door IBKI geactualiseerd. Overige aanbieders van bijscholingsonderwerpen kunnen vanaf het moment van publicatie op de website van IBKI, certificering aanvragen voor een door hen ontwikkelde cursus over een bestaand bijscholingsonderwerp.
+
+4. Bijscholingsonderwerpen die door IBKI zijn goedgekeurd voorafgaand aan de inwerkingtreding van deze beleidsregel hebben als ingangsdatum 1 januari 2026.
+
+5. Bij de toekenning van een certificaat door IBKI voor een reeds bestaand bijscholingsonderwerp zal – voor wat betreft de duur van het certificaat – worden aangesloten bij de duur dat het bijscholingsonderwerp geldig is en zoals is opgenomen – per bijscholingsonderwerp – in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=3&z=2026-07-06&g=2026-07-06) (c.q. het overzicht).
+
+##### Artikel 4. Verlenging van bijscholingsonderwerpen
+
+1. Na drie jaar van de eerste periode als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=3&z=2026-07-06&g=2026-07-06) van deze beleidsregel kan een belanghebbende bij IBKI het verzoek indienen om het bijscholingsonderwerp te doen verlengen.
+
+2. IBKI neemt vervolgens – voorafgaand aan het aflopen van de geldigheidstermijn van het desbetreffende bijscholingsonderwerp – een besluit, inhoudende één van de volgende besluiten:
+
+- • Geen verlenging; het onderwerp vervalt per 1 januari van het eerstvolgende jaar. IBKI neemt dit besluit indien niet langer wordt voldaan aan de voorwaarden als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=3&z=2026-07-06&g=2026-07-06) van deze beleidsregel.
+
+- • Verlenging met ongewijzigde leerdoelen.
+
+- • Verlenging met een actualisering van de leerdoelen; daarbij wordt gemotiveerd op welke wijze de leerdoelen dienen te worden aangepast voor verlenging.
+
+3. Voor bestaande bijscholingsonderwerpen met ingangsdatum 1 januari 2026 – zoals bedoeld in [artikel 3 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=3&z=2026-07-06&g=2026-07-06) – geldt dat deze eenmalig kunnen worden verlengd op grond van artikel 3 tweede lid.
+
+4. IBKI neemt tijdig een besluit over de verlenging van de geldigheid van een bijscholingsonderwerp met inachtneming van de wettelijke beslistermijn. Aanbieders van een gecertificeerde bijscholingscursus waarvan de leerdoelen op basis van een besluit van IBKI dienen te worden geactualiseerd, zorgen ervoor dat per 1 januari van het eerste jaar van de verlenging de leerdoelen zijn geactualiseerd.
+
+##### Artikel 5. Advisering door de Adviesraad WRM
+
+1. De Adviesraad WRM adviseert IBKI jaarlijks over de op dat moment goedgekeurde bijscholingsonderwerpen ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=3&z=2026-07-06&g=2026-07-06)) en aangaande de vraag of deze onderwerpen aansluiten bij de praktijk van het geven van rijonderricht. Indien en voor zover onderwerpen naar het oordeel van de Adviesraad WRM ontbreken, wordt dit aangegeven en wordt IBKI hierover geadviseerd.
+
+2. De Adviesraad WRM bestaat uit leden van brancheorganisaties van rijscholen, organisaties van opleidingsinstituten voor rijinstructeurs en expertorganisaties.
+
+3. Exameninstituut IBKI kan een reglement vaststellen voor de Adviesraad WRM, dat op de website van het instituut wordt gepubliceerd.
+
+### Hoofdstuk 2. Certificering bijles
+
+##### Artikel 6. Aanvraag certificaat bijles
+
+1. Bij Exameninstituut IBKI kan een aanvraag worden ingediend voor het verkrijgen van een certificaat voor het geven van een bijlessen.
+
+2. Bij de aanvraag dient de volgende informatie te worden aangeleverd:
+
+- a. Gegevens van de aanbieder: een bij IBKI nog onbekende aanbieder dient een gewaarmerkt uittreksel uit het handelsregister van de Kamer van Koophandel bij te voegen. Exameninstituut IBKI doet daarnaast een onderzoek naar de financiële continuïteit van de aanbieder.
+
+- b. De doelstelling van de bijles: de doelstelling dient inzichtelijk te maken op welke wijze bijles wordt gegeven aan een kandidaat die tot driemaal toe niet heeft voldaan aan de praktische bijscholingsverplichting. Van belang is dat de aanvrager inzichtelijk maakt op welke wijze maatwerk wordt geboden, zodat de rijinstructeur verbetert en kan gaan voldoen aan de praktische bijscholingsverplichting;
+
+- c. Het lesplan: het lesplan – bestaande uit 6 dagdelen – moet passen bij de doelstelling van de bijles – het met succes afleggen van de praktische bijscholingsverplichting – en ruimte bieden voor maatwerk;
+
+- d. De leerstof of het lesmateriaal: de leerstof of het lesmateriaal moet relevant zijn voor de doelstelling; bij het indienen van het certificeringsverzoek dient expliciet te worden aangegeven welk materiaal wordt gebruikt (rekening houdend met het gegeven dat het lesplan per kandidaat kan verschillen);
+
+- e. Bewijzen van professionaliteit van de docenten: van docenten moeten cv’s aangeleverd worden die voldoende bewijs leveren van de professionaliteit. Exameninstituut IBKI kan afschriften van diploma's opvragen bij aanvrager, voor de beoordeling van de aanvraag. Docenten dienen daarnaast in het bezit te zijn van een geldig WRM-instructeurscertificaat (controle op certificaatdatum) en tenminste drie jaar ervaring te hebben als rijinstructeur dan wel als docent met docentenkwalificatie;
+
+- f. Informatie met betrekking tot het bedrijfsmatige criteria: de cursus moet een minimale omvang hebben; de accommodatie moet geschikt zijn voor het geven van de bijles en voldoen aan de ARBO-eisen op dat terrein, er moet een betrouwbare aanwezigheidsregistratie aanwezig zijn en na afloop moet een deelnamecertificaat verstrekt worden. Het is niet toegestaan om in het kader van de bijles de kandidaat een webinar te laten volgen.
+
+3. In aanvulling op lid 2, sub c van dit artikel wordt het lesplan afgestemd op de behoefte van cursisten en bestaat het lesplan tenminste uit:
+
+- a. Een individueel intakegesprek als bedoeld in [artikel 8a lid 2 van de Regeling rijonderricht motorrijtuigen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&artikel=8a). Tijdens het intakegesprek worden de drie beoordelingsformulieren van de praktische bijscholing (die de kandidaat met een onvoldoende resultaat heeft afgerond) besproken en wordt de bijles gebruikt met het doel de kandidaat alsnog te laten slagen voor de praktische bijscholing. Er wordt in dat kader een plan van aanpak (c.q. lesplan) opgesteld. Het lesplan is afgestemd op de behoefte van de betrokkene en de onderdelen alwaar eerder een onvoldoende voor is behaald (en volgt uit de beoordelingsformulieren);
+
+- b. Het door degene die de bijles volgt verzorgen van twee praktijklessen aan een leerling die wordt opgeleid voor het praktijkexamen in de motorrijtuigcategorie die overeenkomt met de motorrijtuigcategorie voor het geven van rijonderricht waarvoor de bijles wordt gevolgd;
+
+- c. Een evaluatief eindgesprek als bedoeld in [artikel 8a lid 2 van de Regeling rijonderricht motorrijtuigen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&artikel=8a), na de laatst gegeven praktijkles als bedoeld in sub b van dit lid.
+
+4. De aanvraag om te worden gecertificeerd voor het geven van bijlessen gaat vergezeld van alle gegevens en bescheiden die worden genoemd in lid 2 van dit artikel. Exameninstituut IBKI heeft een formulier vastgesteld, dat dient te worden gebruikt voor het indienen van een aanvraag voor het verkrijgen een certificaat om bijlessen te mogen geven. Dit formulier is bij deze beleidsregel gevoegd ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=4&z=2026-07-06&g=2026-07-06)).
+
+### Hoofdstuk 2*. De aanvraag van een certificaat
+
+##### Artikel 7. De beoordeling van de aanvraag van een bestaand bijscholingsonderwerp en bijles
+
+1. De cursusdoelstelling van een bijscholingscursus (en daarmee de cursus zelf) moet passen binnen het door IBKI vastgestelde bijscholingsonderwerp en de vastgestelde leerdoelen.
+
+2. IBKI beoordeelt elke certificeringsaanvraag (zowel een bijscholings- als bijlescursus) op de aanleververeisten van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=2&z=2026-07-06&g=2026-07-06) respectievelijk [6](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=2&artikel=6&z=2026-07-06&g=2026-07-06) van deze beleidsregel, en stuurt de aanvrager binnen maximaal acht weken via e-mail het genomen besluit op de aanvraag toe. Hierbij zijn er twee mogelijkheden:
+
+- – *Toegekend*: de bijscholingscursus of bijles van de aanbieder wordt gecertificeerd en mag gegeven worden vanaf de ontvangstdatum van het besluit + 10 werkdagen, tot – voor zover het een bijscholingscursus betreft – zo lang als het onderwerp nog gegeven mag worden (zie hiervoor de geldigheidsperiode in jaren van alle onderwerpen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=3&z=2026-07-06&g=2026-07-06)).
+
+- – *Afgewezen*: de bijscholingscursus of bijles voldoet niet aan alle certificeringsvoorwaarden. IBKI stuurt de indiener de afwijzing bij besluit toe. Daarbij geeft IBKI aan op welke punten niet aan de certificeringsvoorwaarden wordt voldaan.
+
+### Hoofdstuk 3. Aanvullende eisen theoretische bijscholing
+
+##### Artikel 8. Aanvullende voorwaarden aan het lesplan
+
+Het lesplan moet in aanvulling op [artikel 2 lid 2, sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=2&z=2026-07-06&g=2026-07-06) de volgende onderdelen bevatten:
+
+- a. Een motivering in welke vorm de cursus wordt aangeboden: als bijscholingscursus met fysieke aanwezigheid van deelnemers of als webinar (online bijscholingscursus). Het aanbieden van een theoretische bijscholingscursus als webinar is niet bij alle bijscholingsonderwerpen toegestaan. Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=3&z=2026-07-06&g=2026-07-06), waarin ten aanzien van specifieke cursussen is aangegeven indien het slechts is toegestaan de cursus fysiek te organiseren. In dat geval staat in het document: ‘Alleen als bijscholingscursus met fysieke aanwezigheid toegestaan’. In dat geval is het niet toegestaan om het bijscholingsonderwerp in de vorm van een webinar aan te bieden. Het is mogelijk dat een cursus als bijscholingscursus met fysieke aanwezigheid en als webinar wordt gegeven; in dat geval dient voor beide vormen een lesplan te worden ingediend.
+
+- b. Werkvormen: het is toegestaan in een cursus een deel oefenen/demonstreren in de praktijk op te nemen.
+
+- c. Hulpmiddelen/media: er dient te worden aangegeven welke hulpmiddelen/media worden gebruikt in het kader van de bijscholing.
+
+- d. Verdeling over de tijd: één dagdeel duurt minimaal 3 klokuren (180 minuten), met daarbinnen maximaal 15 minuten pauze. Bij webinars is maximaal 10 minuten pauze na elk uur toegestaan. Iedere webinar mag maximaal per dag één dagdeel duren. Een bijscholing van twee dagdelen wordt in dat geval dus verdeeld over twee dagen.
+
+##### Artikel 9. Aanvullende voorwaarden aan het lesmateriaal en het evaluatiemoment
+
+1. Bij de certificeringsaanvraag voor een bijscholingscursus moet een bestand van het aan deelnemers uit te reiken lesmateriaal worden meegestuurd ([artikel 2 lid 2, sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=2&z=2026-07-06&g=2026-07-06) van deze beleidsregel). Dit kan een lesstofsyllabus (hand-out) zijn of lesstofsyllabus in combinatie met een PowerPoint. Het is niet toegestaan alleen een PowerPointpresentatie aan te leveren; er moet hoe dan ook een hand-out aangeleverd worden. Aan het lesmateriaal worden de volgende eisen gesteld:
+
+- a. Alle leerdoelen moeten behandeld zijn. Voor wat betreft omvang en diepgang moet het lesmateriaal blijk geven van voldoende dekking van de leerdoelen;
+
+- b. De gekozen werkvormen moeten passen bij de leerdoelen;
+
+- c. De hand-out dient een samenvatting te zijn van wat in de cursus wordt behandeld, met aandacht voor alle hoofdpunten van de leerstof, zodat de deelnemer dit als naslagwerk zelfstandig na afloop van de cursus kan raadplegen of bestuderen. Aanvullende documentatieteksten, zoals bijvoorbeeld een SWOV-factsheet of tekst van regelgeving, zijn toegestaan.
+
+- d. De hand-out moet een leesbare opzet en indeling hebben: een overzichtelijke inhoudsopgave, paginanummers, korte inleidingen per hoofdstuk, waar nodig tussenkopjes en een consequente lay-out.
+
+- e. Als een cursus opdrachten bevat, maken deze deel uit van het lesmateriaal en dienen ze ook ter beoordeling bij de aanvraag voor het certificaat aangeleverd te worden.
+
+- f. Het lesmateriaal mag zelf ontwikkeld zijn, maar dit is niet verplicht. Wel dient het lesmateriaal een duidelijke bronvermelding te hebben:
+
+   - ○ Website: verwijzen naar de concrete geraadpleegde pagina(s), dus niet cbr.nl, maar cbr.nl/jaarverslag/...(enz.).
+
+   - ○ Boek: auteur, titel, jaartal uitgave.
+
+   - ○ Tijdschrift: naam tijdschrift, auteur, titel artikel, jaargang en nummer.
+
+- g. Als lesmateriaal deels of geheel is overgenomen van een andere ontwikkelaar/aanbieder, is het alleen mogelijk om dit materiaal te gebruiken indien daarvoor toestemming is verkregen.
+
+- h. Bij het lesmateriaal moet de aan het einde van de cursus af te nemen toets toegevoegd zijn (het evaluatiemoment). Dit mag alleen een meerkeuzevragentoets van ten minste 10 vragen zijn. Elke vraag dient drie antwoordmogelijkheden te hebben, waarvan één antwoord juist is. In de toets moeten zoveel mogelijk leerdoelen worden getoetst en moeten de toetsvragen een zodanig niveau hebben dat deze alleen beantwoord kunnen worden als de cursus daadwerkelijk inhoudelijk is gevolgd.
+
+##### Artikel 10. Eisen aan webinars
+
+1. Iedere webinar – zijnde een bijscholingscursus – mag maximaal per dag één dagdeel (180 minuten) duren (met daarbinnen een pauze van maximaal 10 minuten na elk uur). Een bijscholing van twee dagdelen moet dus verdeeld worden over twee dagen.
+
+2. De door de docent gebruikte software moet Exameninstituut IBKI in staat stellen gedurende de gehele cursus zonder tussenkomst van de docent en dus onaangekondigd de webinar te volgen.
+
+3. Zowel de docent als deelnemers moeten gedurende de gehele tijd dat de bijscholingscursus wordt gegeven hun camera ingeschakeld hebben en deel kunnen nemen aan de cursus door middel van een microfoon. Deelnemers moeten te allen tijde voor de docent en een toezichthoudende IBKI-medewerker zichtbaar zijn. Dit geldt niet tijdens de koffiepauze (max. 10 minuten per uur). Als de deelnemer niet gedurende de gehele cursus zichtbaar is, kan Exameninstituut IBKI niet vaststellen of de betreffende deelnemer ook daadwerkelijk de cursus volgt. In dit geval zal de theoretische bijscholing niet door IBKI worden verwerkt en telt de theoretische bijscholing niet mee voor de betreffende deelnemer.
+
+4. Deelnemers dienen de cursus te volgen zittend achter een tafel/bureau in een woonhuis dan wel kantoor/lokaal.
+
+### Hoofdstuk 4. Door het instituut gestelde eisen aan bijscholingen en bijlessen
+
+##### Artikel 11. Door het instituut gestelde eisen
+
+1. Bijscholings- of bijlescursussen worden in het Nederlands en – bij een fysieke cursus – in Nederland gegeven.
+
+2. Het maximale aantal deelnemers van een fysieke bijscholingscursus is 15. De docent mag een door hem gegeven cursus ook voor zichzelf bij IBKI als gevolgde bijscholingscursus laten registreren. Dit is per cursusonderwerp één keer toegestaan als hij/zij een cursus met hetzelfde onderwerp meerdere keren geeft. De docent moet in dat geval *altijd* als 16e deelnemer worden toegevoegd op het formulier ‘Presentielijst/identiteit deelnemer’ ([bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=5&z=2026-07-06&g=2026-07-06)).
+
+3. Tijdens bijscholingscursus of bijles moet de docent de identiteit van de deelnemers controleren door het rijbewijs van de deelnemer te vergelijken met de WRM-bevoegdheidspas van de deelnemer. De docent ondertekent het formulier voor indiening bij IBKI.
+
+4. Deelnemers dienen – alwaar het een fysieke bijscholingscursus betreft – op de cursusdag(en) zelf hun handtekening te zetten op de presentielijst als bewijs van hun aanwezigheid. Bij een cursus van twee of meer dagdelen per cursusdag dienen deelnemers twee keer verspreid over de dag hun handtekening te plaatsen (vóór en na de lunchpauze bijvoorbeeld).
+
+##### Artikel 12. Aanmelden bijscholingscursus
+
+1. Om toezicht mogelijk te maken, moet IBKI tijdig weten waar en wanneer er een bijscholingscursus plaatsvindt. Daarom moet de aanbieder ten minste twee weken voordat de cursus plaatsvindt in ‘Mijn IBKI’ op de IBKI-website een vooraanmeldingsformulier volledig hebben ingevuld. De aanmeldingen moeten de volgende gegevens bevatten:
+
+- • Titel bijscholing + nummer van de bijscholing;
+
+- • Naam cursusaanbieder en naam van de docent (zie [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=4&artikel=11&z=2026-07-06&g=2026-07-06) van deze beleidsregel);
+
+- • Locatie vanwaar de bijscholing wordt verzorgd; dit in verband met mogelijke fysieke steekproefinspectie ter plaatse door Exameninstituut IBKI;
+
+- • Presentielijst met namen van de deelnemers.
+
+2. De docent die is opgenomen in het vooraanmeldingsformulier zoals bedoeld in lid 1, is de docent die uitsluitend bevoegd is om de bijscholingscursus te geven.
+
+3. Een bijscholingscursus die plaatsvindt zonder dat deze op de juiste wijze tevoren is aangemeld, is ongeldig. De door de deelnemers bijgewoonde cursusdagdelen hiervan tellen dan niet mee voor het voldoen aan de bijscholingsverplichting.
+
+##### Artikel 13. Aanmelden bijles
+
+1. Om toezicht mogelijk te maken, moet IBKI tijdig weten waar en wanneer er een bijlescursus plaatsvindt. Daarom moet de aanbieder ten minste twee weken voordat de cursus plaatsvindt in ‘Mijn IBKI’ op de IBKI-website een vooraanmeldingsformulier volledig hebben ingevuld. De aanmeldingen moeten de volgende gegevens bevatten:
+
+- a. De cursusnaam;
+
+- b. Naam cursusaanbieder en naam van de docent;
+
+- c. De datum;
+
+- d. Locatie vanwaar de bijscholing wordt verzorgd; dit in verband met mogelijke fysieke steekproefinspectie ter plaatse door Exameninstituut IBKI;
+
+- e. De cursisten.
+
+2. Een geheel van bijlessen bevat in ieder geval een individueel intakegesprek en een evaluatief eindgesprek. Van die gesprekken wordt door degene die de bijles geeft een verslag gemaakt, dat de inbreng bevat van degene die de bijles geeft en degene die de bijles volgt. Het verslag wordt ondertekend door degene die de bijles geeft en degene die de bijles volgt.
+
+3. Een bijles die plaatsvindt zonder dat deze op de juiste wijze tevoren is aangemeld, is ongeldig. De door de deelnemers afgelegde onderdelen van de bijles tellen dan niet mee voor het voldoen aan het educatieve traject (bijles).
+
+4. Uiterlijk twee weken na afloop van de bijlessen meldt degene die de bijles geeft de namen van degenen die de bijles hebben gevolgd en stuurt het verslag, bedoeld in het tweede lid, aan Exameninstituut IBKI toe.
+
+5. Het instituut houdt de gegevens, bedoeld in het vierde lid, bij in het register.
+
+##### Artikel 14. Registratie bijscholingscursus
+
+1. De aanbieder dient te zorgen voor een print van het IBKI-formulier ‘Presentielijst/identiteit deelnemer’ (op de IBKI-site digitaal invulbaar beschikbaar) op de cursuslocatie. Op dit formulier kunnen alle gegevens door de aanbieder worden vooringevuld, zodat deze alleen nog door de docent gecontroleerd hoeven te worden.
+
+2. Het formulier ‘Presentielijst/identiteit deelnemer’ dient te worden ondertekend door – bij een fysieke cursus – de docent en de deelnemers en bij een webinar door de docent. Het formulier dient de volgende informatie per deelnemer te bevatten:
+
+- • Achternaam en voorletters;
+
+- • Geboortedatum en- plaats;
+
+- • Nummer en geldigheidsdatum WRM-bevoegdheidspas;
+
+- • Indien van toepassing: nummer RIS-certificaat.
+
+##### Artikel 15. Administratieve verwerking van de cursus
+
+1. Het ondertekende formulier ‘Presentielijst/identiteit deelnemer’ met de gegevens/handtekeningen van alle deelnemers dient binnen twee weken na de cursusdatum door Exameninstituut IBKI van de aanbieder te zijn ontvangen. Hierna zal IBKI de gevolgde bijscholingscursus en de bijbehorende dagdelen bij elke deelnemer registreren in zijn of haar ‘Mijn IBKI’-account (het register).
+
+2. Als IBKI het formulier niet binnen twee weken na de cursusdatum heeft ontvangen, is de betreffende bijscholingscursus ongeldig.
+
+3. Uiterlijk twee weken na afloop van de bijlessen meldt degene die de bijles geeft de namen van degenen die de bijles hebben gevolgd en stuurt het verslag, bedoeld in [artikel 13 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=4&artikel=13&z=2026-07-06&g=2026-07-06) van deze beleidsregel aan IBKI.
+
+4. De door de deelnemers bijgewoonde cursusdagdelen tellen niet mee in het geval IBKI het formulier dan wel het verslag niet tijdig heeft ontvangen.
+
+### Hoofdstuk 5. Toezicht en handhaving bijscholingscursus
+
+##### Artikel 16. Toezicht op administratie
+
+1. Exameninstituut IBKI controleert onaangekondigd en steekproefsgewijs administratieve en organisatorische aspecten van de bijscholingscursus. Het gaat hierbij om de volgende aspecten:
+
+- a) Is de docent degene die bij de aanmelding is vermeld?
+
+- b) Is het aantal deelnemers exclusief de docent bij een fysieke cursus maximaal 15?
+
+- c) De docent controleert de identiteit van de deelnemers en laat – bij een fysieke cursus – de docent de presentielijst afdoende door alle deelnemers aftekenen?
+
+- d) Bij een fysieke cursus is de cursusruimte geschikt voor het geven van cursussen, is deze groot genoeg voor het aantal deelnemers en voldoet de cursusruimte aan de ARBO-eisen (o.a. verlichting en ventilatie)?
+
+- e) Heeft de cursus de voorgeschreven lengte?
+
+- f) Volgen alle deelnemers de gehele cursus?
+
+- g) Bij een webinar heeft de docent de gehele cursus kunnen geven, zonder langer durende technische storingen (langer dan 15 minuten)?
+
+- h) Bij een webinar zijn de deelnemers gedurende de hele cursus permanent in beeld geweest?
+
+- i) Bij een webinar hebben de deelnemers de cursus gevolgd conform [artikel 10 lid 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=3&artikel=10&z=2026-07-06&g=2026-07-06) van deze beleidsregel?
+
+2. Exameninstituut IBKI controleert of de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en de door het instituut gestelde eisen.
+
+3. Indien en voor zover de aanbieder van de theoretische bijscholing een bijscholingscursus niet tijdig bij IBKI meldt als bedoeld in [artikel 12 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=4&artikel=12&z=2026-07-06&g=2026-07-06) van deze beleidsregel of de namen van de kandidaten ingevolge [artikel 15 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=4&artikel=15&z=2026-07-06&g=2026-07-06) van deze beleidsregel niet binnen de gestelde termijn communiceert aan IBKI, geeft IBKI de aanbieder een zogenoemde waarschuwing. Indien dit vervolgens binnen een termijn van zes maanden andermaal voorkomt, schorst IBKI het certificaat voor het geven van de bijscholingscursus voor de duur van drie maanden. Indien vervolgens binnen een termijn van zes maanden opnieuw niet tijdig wordt gemeld, wordt het certificaat voor het geven van de bijscholingscursus voor onbepaalde tijd ingetrokken.
+
+4. Onder deze beleidsregel wordt onder onbepaalde tijd verstaan: een termijn van vijf jaar, waarbij de aanbieder de theoretische bijscholing niet mag geven. Na afloop van deze termijn kan een nieuwe aanvraag worden ingediend.
+
+##### Artikel 17. Kwaliteitstoezicht
+
+IBKI voert onaangekondigd steekproefsgewijs kwaliteitstoezicht uit. Het gaat het hierbij zowel om de inhoudelijke kwaliteit van de cursus als de kwaliteit van de docent voor de groep. IBKI hanteert hiervoor een beoordelingsformulier met beoordelingscriteria en normering ([bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&bijlage=6&z=2026-07-06&g=2026-07-06)). Exameninstituut IBKI controleert of de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en de door het instituut gestelde eisen.
+
+##### Artikel 18. Handhaving
+
+1. De controle van een bijscholingscursus levert het oordeel voldoende of onvoldoende op. Als een bijscholingscursus bij een controle als bedoeld in [artikel 16 lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=5&artikel=16&z=2026-07-06&g=2026-07-06), of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=5&artikel=17&z=2026-07-06&g=2026-07-06) van deze beleidsregel een onvoldoende krijgt ontvangt de aanbieder een waarschuwing en volgt een tweede toezichtcontrole. Als bij de tweede controle blijkt dat het oordeel onvoldoende gehandhaafd blijft, wordt het certificaat van de aanbieder geschorst voor een periode van 6 maanden. Na de periode van schorsing zal een nieuwe steekproef worden verricht. Na een derde onvoldoende beoordeling trekt exameninstituut IBKI het certificaat voor onbepaalde tijd in.
+
+2. Onder deze beleidsregel wordt onder onbepaalde tijd verstaan: een termijn van vijf jaar, waarbij de aanbieder de theoretische bijscholing niet mag geven. Na afloop van deze termijn kan een nieuwe aanvraag worden ingediend.
+
+3. In het geval een aanbieder de leerdoelen als bedoeld in [artikel 4 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=1&artikel=4&z=2026-07-06&g=2026-07-06) van deze beleidsregel niet – of niet tijdig – actualiseert trekt IBKI het certificaat per direct in.
+
+4. Een onvoldoende voor de onderdelen zoals beschreven in [artikel 16 lid 1, sub h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=5&artikel=16&z=2026-07-06&g=2026-07-06) van deze beleidsregel heeft tevens gevolgen voor de betreffende deelnemer van de cursus; zijn/haar bijscholing wordt dan niet meegeteld voor het voldoen aan de bijscholingsverplichting. Het is aan de aanbieder om een situatie waarin een deelnemer niet voldoet aan deze vereisten dit door te geven aan Exameninstituut IBKI, door dit op de presentielijst aan te geven.
+
+### Hoofdstuk 6. Toezicht en handhaving bijles
+
+##### Artikel 19. Toezicht op administratie
+
+1. Indien en voor zover de aanbieder van bijlessen de locatie van de bijles zoals bedoeld in [artikel 13 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=4&artikel=13&z=2026-07-06&g=2026-07-06) van deze beleidsregel niet tijdig bij IBKI meldt of de namen van de kandidaten ingevolge [artikel 15 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=4&artikel=15&z=2026-07-06&g=2026-07-06) van deze beleidsregel niet binnen de gestelde termijn communiceert aan IBKI, geeft IBKI de aanbieder een zogenoemde waarschuwing. Indien dit vervolgens binnen een termijn van zes maanden andermaal voorkomt, schorst IBKI het certificaat voor het geven van een bijles voor de duur van drie maanden. Indien vervolgens binnen een termijn van zes maanden opnieuw niet tijdig wordt gemeld, wordt het certificaat voor het geven van bijlessen voor onbepaalde tijd ingetrokken.
+
+2. Onder deze beleidsregel wordt onder onbepaalde tijd verstaan: een termijn van vijf jaar, waarbij de aanbieder de bijlessen niet mag geven. Na afloop van deze termijn kan een nieuwe aanvraag worden ingediend.
+
+##### Artikel 20. Repressief toezicht en handhaving
+
+1. Indien en voor zover een kandidaat in het educatieve traject (bijles) – zoals bedoeld in [artikel 12b van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b) – de praktijkbegeleiding na het volgen van de bijlessen voor een tweede keer (na een eerste verlenging met zes maanden) niet met een voldoende resultaat heeft afgerond, zal IBKI – los van steekproefsgewijs toezicht dat door haar wordt verricht – controleren of bijlessen door de gecertificeerde aanbieder worden uitgevoerd conform de bij de aanvraag gevoegde documenten en de door het instituut in deze beleidsregel gestelde eisen.
+
+2. De controle van een bijles levert het oordeel voldoende of onvoldoende op. Als een bijscholingscursus bij een controle als bedoeld in [artikel 20 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052783&hoofdstuk=6&artikel=20&z=2026-07-06&g=2026-07-06) van deze beleidsregel een onvoldoende krijgt zal het certificaat worden geschorst voor een periode van drie maanden. De aanbieder dient in deze periode een verbeterplan op te stellen aan de hand van de beoordeling van de toezichthouder van IBKI. Na de periode van schorsing zal een nieuwe steekproef worden verricht. Als bij een opvolgende tweede controle blijkt dat het oordeel onvoldoende gehandhaafd blijft, trekt exameninstituut IBKI het certificaat voor onbepaalde tijd in.
+
+3. Onder deze beleidsregel wordt onder onbepaalde tijd verstaan: een termijn van vijf jaar, waarbij de aanbieder de bijlessen niet mag geven. Na afloop van deze termijn kan een nieuwe aanvraag worden ingediend.
+
+##### Artikel 21. Inwerkingtreding
+
+Deze regeling treedt in werking na publicatie in de Staatscourant en geldt – met terugwerkende kracht – per 1 januari 2026.
+
+##### Artikel 22. Citeertitel
+
+Deze beleidsregel wordt aangehaald als: Beleidsregel Exameninstituut IBKI certificering bijscholingen en bijlessen (2026).
+
+Deze beleidsregel zal met de toelichting en bijlagen in de Staatscourant worden gepubliceerd.

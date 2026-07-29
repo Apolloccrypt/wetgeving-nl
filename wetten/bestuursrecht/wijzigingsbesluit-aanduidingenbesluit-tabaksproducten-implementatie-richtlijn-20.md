@@ -4,8 +4,9 @@ identifier: "BWBR0032217"
 categorie: "Overig"
 publicatiedatum: 2014-03-28
 laatste_update: 2014-03-28
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0032217"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van 29 oktober 2012, houdende wijziging van het Aanduidingenbesluit tabaksproducten ter implementatie van richtlijn 2012/9/EU

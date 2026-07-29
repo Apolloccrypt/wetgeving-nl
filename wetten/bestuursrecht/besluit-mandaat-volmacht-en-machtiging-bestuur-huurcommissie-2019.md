@@ -4,8 +4,9 @@ identifier: "BWBR0042105"
 categorie: "Bestuursrecht"
 publicatiedatum: 2024-09-17
 laatste_update: 2026-06-02
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0042105"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)

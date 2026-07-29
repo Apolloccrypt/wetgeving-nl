@@ -4,8 +4,9 @@ identifier: "BWBR0049246"
 categorie: "Overig"
 publicatiedatum: 2024-01-13
 laatste_update: 2026-07-15
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049246"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA visketen zeevisserij (IB03-SPEC 48, versie 03)

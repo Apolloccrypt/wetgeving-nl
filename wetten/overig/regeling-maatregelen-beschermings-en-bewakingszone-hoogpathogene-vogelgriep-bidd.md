@@ -4,8 +4,9 @@ identifier: "BWBR0052636"
 categorie: "Overig"
 publicatiedatum: 2026-05-14
 laatste_update: 2026-05-23
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0052636"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 14 mei 2026, nr. WJZ/106398384, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Biddinghuizen (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026)

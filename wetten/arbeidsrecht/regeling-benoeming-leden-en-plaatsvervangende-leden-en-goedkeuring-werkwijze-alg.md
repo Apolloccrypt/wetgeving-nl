@@ -4,8 +4,9 @@ identifier: "BWBR0037549"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2016-01-16
 laatste_update: 2016-01-16
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0037549"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 13 januari 2016, nr. IENM/BSK-2015/220523, houdende benoeming leden en plaatsvervangende leden Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden en goedkeuring omtrent werkwijze van deze commissie

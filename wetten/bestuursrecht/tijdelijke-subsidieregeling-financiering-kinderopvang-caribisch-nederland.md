@@ -4,8 +4,9 @@ identifier: "BWBR0043533"
 categorie: "Overig"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0043533"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 8 mei 2020, nr. 2020-0000031778, tot vaststelling van een tijdelijke subsidieregeling voor de financiering van kinderopvang in Caribisch Nederland (Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland)

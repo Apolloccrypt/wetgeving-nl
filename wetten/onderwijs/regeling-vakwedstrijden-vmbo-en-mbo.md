@@ -4,8 +4,9 @@ identifier: "BWBR0042419"
 categorie: "Overig"
 publicatiedatum: 2025-10-30
 laatste_update: 2026-07-15
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0042419"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 juli 2019, nr. MBO/5897553, houdende regels voor het verstrekken van subsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling vakwedstrijden vmbo en mbo)

@@ -5,7 +5,7 @@ country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-31"
 last_updated: "2026-04-14"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0042260"
 soort: "beleidsregel"
 stam_id: "15084663"
@@ -32,6 +32,7 @@ jci_1_0: "1.0:c:BWBR0042260&g=2025-01-31"
 citeertitel_status: "officieel"
 signed_date: "2021-12-13"
 entry_into_force: "2021-12-23"
+gecontroleerd: 2026-07-29
 ---
 # Verzamelbesluit Lijfrenten
 

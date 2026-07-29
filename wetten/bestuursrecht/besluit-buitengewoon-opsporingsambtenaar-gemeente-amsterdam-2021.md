@@ -4,8 +4,9 @@ identifier: "BWBR0045074"
 categorie: "Bestuursrecht"
 publicatiedatum: 2021-04-29
 laatste_update: 2021-04-29
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0045074"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 april 2021, nr. BOACAT2021/011 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam

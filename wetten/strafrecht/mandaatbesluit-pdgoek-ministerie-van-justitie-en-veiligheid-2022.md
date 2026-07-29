@@ -4,8 +4,9 @@ identifier: "BWBR0048163"
 categorie: "Overig"
 publicatiedatum: 2023-05-18
 laatste_update: 2023-05-18
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0048163"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de programma directeur-generaal Oekraïense Ontheemden van het Ministerie van Justitie en Veiligheid van 21 april 2023, houdende verlening van ondermandaat, volmacht en machtiging aan functionarissen in het programma directoraat-generaal Oekraïense Ontheemden (Mandaatbesluit pDGOek Ministerie van Justitie en Veiligheid 2022)

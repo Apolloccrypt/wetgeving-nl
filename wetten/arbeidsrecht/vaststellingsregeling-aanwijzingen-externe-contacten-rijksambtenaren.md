@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-29"
 last_updated: "2020-12-29"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0044590"
 soort: "ministeriele-regeling"
 stam_id: "15779193"
@@ -33,6 +33,7 @@ citeertitel_status: "redactioneel"
 short_title: "Vaststellingsregeling Aanwijzingen externe contacten rijksambtenaren"
 signed_date: "2020-12-18"
 entry_into_force: "2020-12-29"
+gecontroleerd: 2026-07-29
 ---
 # Regeling van de Minister-President, Minister van Algemene Zaken van 18 december 2020, kenmerk 4177136, tot vaststelling van de Aanwijzingen voor de externe contacten van rijksambtenaren
 

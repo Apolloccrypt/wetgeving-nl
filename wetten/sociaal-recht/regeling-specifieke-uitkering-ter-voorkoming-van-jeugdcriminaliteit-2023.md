@@ -4,8 +4,9 @@ identifier: "BWBR0048376"
 categorie: "Sociaal recht"
 publicatiedatum: 2023-07-08
 laatste_update: 2026-06-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0048376"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 4 juli 2023, nr. 4605733, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ter voorkoming van jeugdcriminaliteit (Regeling specifieke uitkering ter voorkoming van jeugdcriminaliteit 2023)

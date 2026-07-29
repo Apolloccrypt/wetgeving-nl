@@ -4,8 +4,9 @@ identifier: "BWBR0036580"
 categorie: "Overig"
 publicatiedatum: 2015-05-05
 laatste_update: 2015-05-05
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0036580"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, 2015-0000087818, tot Besluit digitale vervanging financiele archiefbescheiden SZW systeem SAP

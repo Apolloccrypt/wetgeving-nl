@@ -4,8 +4,9 @@ identifier: "BWBR0027937"
 categorie: "Overig"
 publicatiedatum: 2010-07-20
 laatste_update: 2010-07-20
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0027937"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 16 juni 2010, nr. GMT/MVG-3006021, houdende vaststelling van als gelijkwaardig erkende opleidingen voor het werken als verantwoordelijk persoon in een weefselinstelling (Regeling gelijkwaardig erkende opleidingen Eisenbesluit lichaamsmateriaal 2006)

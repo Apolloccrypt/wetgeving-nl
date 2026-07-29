@@ -4,8 +4,9 @@ identifier: "BWBR0037446"
 categorie: "Arbeidsrecht"
 publicatiedatum: 2023-12-09
 laatste_update: 2026-05-22
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0037446"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2015, 2015-0000305810, houdende de inrichting van de directie Werknemersregelingen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015)

@@ -4,8 +4,9 @@ identifier: "BWBR0049827"
 categorie: "Overig"
 publicatiedatum: 2024-06-20
 laatste_update: 2024-06-20
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0049827"
+gecontroleerd: 2026-07-29
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 juni 2024, nr. 2024-0000015643, tot aanwijzing van evacués uit het Midden-Oosten met een Nederlandse verblijfsstatus als groep wier huisvesting bijzondere zorg van rijkswege behoeft

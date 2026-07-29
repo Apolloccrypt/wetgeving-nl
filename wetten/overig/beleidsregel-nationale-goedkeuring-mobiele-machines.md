@@ -4,8 +4,9 @@ identifier: "BWBR0050646"
 categorie: "Overig"
 publicatiedatum: 2025-01-01
 laatste_update: 2025-01-01
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0050646"
+gecontroleerd: 2026-07-29
 ---
 
 # Beleidsregel van de directie van de Dienst Wegverkeer van 1 januari 2025 betreffende de verlening van nationale typegoedkeuring en individuele goedkeuring van mobiele machines (Beleidsregel nationale goedkeuring mobiele machines)

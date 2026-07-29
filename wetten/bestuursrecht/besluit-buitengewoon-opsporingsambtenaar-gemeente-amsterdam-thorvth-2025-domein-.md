@@ -4,8 +4,9 @@ identifier: "BWBR0051807"
 categorie: "Bestuursrecht"
 publicatiedatum: 2025-12-11
 laatste_update: 2025-12-11
-status: geldig
+status: vervallen
 bron: "https://wetten.overheid.nl/BWBR0051807"
+gecontroleerd: 2026-07-29
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 14 november 2025 nr. BOACAT2025/200, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam THOR
