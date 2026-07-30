@@ -9,7 +9,7 @@ laatste_update: 2026-07-23
 status: geldig
 toestand: 2026-07-23
 bron: "https://wetten.overheid.nl/BWBR0052869"
-opgehaald: 2026-07-29
+opgehaald: 2026-07-30
 ---
 
 # Benoemingsbesluit van de Raad van Bestuur van de Nederlandse Zorgautoriteit van 7 juli 2026, houdende de aanwijzing van de Functionaris voor gegevensbescherming voor de AVG bij de NZa

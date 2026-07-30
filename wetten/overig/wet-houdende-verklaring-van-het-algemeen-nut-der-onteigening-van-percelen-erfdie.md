@@ -1,44 +1,18 @@
 ---
 title: "Wet van 11 maart 1972, houdende verklaring van het algemeen nut der onteigening van percelen, erfdienstbaarheden en andere zakelijke rechten ten behoeve van de inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens"
+citeertitel: "Wet houdende verklaring van het algemeen nut der onteigening van percelen, erfdienstbaarheden en andere zakelijke rechten tbv inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens"
 identifier: "BWBR0002805"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002805"
+categorie: "Overig"
 soort: "wet"
-stam_id: "374073"
-version_id: "549042"
-internal_id: "C549041"
-label_id: "365224"
-dtd_version: "2.0"
-original_entry_into_force: "1972-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002805/2024-01-01/0"
-intitule_bron: "Stb.1972-145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-03-11"
-intitule_status: "goed"
-original_publication: "Stb.1972-145"
-original_signed_date: "1972-03-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "11355"
-entry_into_force_date: "1972-04-05"
-entry_into_force_dossier: "11355"
-jci_1_3: "jci1.3:c:BWBR0002805&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0002805&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet houdende verklaring van het algemeen nut der onteigening van percelen, erfdienstbaarheden en andere zakelijke rechten tbv inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens"
-signed_date: "1972-03-11"
-entry_into_force: "1972-04-05"
+publicatiedatum: 1972-04-05
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0002805"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 11 maart 1972, houdende verklaring van het algemeen nut der onteigening van percelen, erfdienstbaarheden en andere zakelijke rechten ten behoeve van de inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens in het algemeen belang nodig is, dat daarvoor de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842) behoort te worden toegepast en dat enkele andere wettelijke voorzieningen gewenst zijn;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -46,7 +20,7 @@ Het algemeen nut vordert de onteigening ten name van de Staat van percelen, erfd
 
 ##### Artikel 2
 
-De vordering tot onteigening van hetgeen niet in der minne is verkregen moet worden ingesteld binnen twee jaren na dagtekening van de **Staatscourant** waarin Ons besluit, bedoeld in [artikel 14 der onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=14), is openbaar gemaakt. Deze termijn kunnen Wij, bij een in de **Staatscourant** te plaatsen besluit, met ten hoogste twee jaren verlengen.
+De vordering tot onteigening van hetgeen niet in der minne is verkregen moet worden ingesteld binnen twee jaren na dagtekening van de *Staatscourant* waarin Ons besluit, bedoeld in [artikel 14 der onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=14), is openbaar gemaakt. Deze termijn kunnen Wij, bij een in de *Staatscourant* te plaatsen besluit, met ten hoogste twee jaren verlengen.
 
 ##### Artikel 3
 
@@ -104,7 +78,7 @@ De commissie, bedoeld in [artikel 10 van de onteigeningswet](https://wetten.over
 
 6. Onze Minister van Landbouw en Visserij zendt een afschrift van Ons besluit aan het beheerslichaam en ter overschrijving in de openbare registers aan de hypotheekbewaarder, wie het aangaat.
 
-7. Voor zover het openbaar lichaam voorheen niet was belast met het beheer en het onderhoud van wegen, waterlopen en waterkeringen met de daartoe behorende kunstwerken gaan in afwijking van het bepaalde in de [artikelen 1 en 2 van de Waterstaatswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=1) 1990 en de [artikelen 18**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=18a), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=19) en [20 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=20) het beheer en het onderhoud over door het enkele feit van aanwijzing in beheer en onderhoud.
+7. Voor zover het openbaar lichaam voorheen niet was belast met het beheer en het onderhoud van wegen, waterlopen en waterkeringen met de daartoe behorende kunstwerken gaan in afwijking van het bepaalde in de [artikelen 1 en 2 van de Waterstaatswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=1) 1990 en de [artikelen 18*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=18a), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=19) en [20 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=20) het beheer en het onderhoud over door het enkele feit van aanwijzing in beheer en onderhoud.
 
 8. Wegen, waterlopen en waterkeringen met de daartoe behorende kunstwerken, die zijn opgenomen in het plan van wegen en waterlopen, worden met ingang van de datum van het in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=2024-01-01&g=2024-01-01) bedoelde besluit beschouwd als in eigendom, beheer en onderhoud aan de provincie toe te komen, zolang Gedeputeerde Staten nog geen besluit hebben genomen betreffende de eigendom, beheer en onderhoud.
 
@@ -116,6 +90,4 @@ De commissie, bedoeld in [artikel 10 van de onteigeningswet](https://wetten.over
 
 ##### Artikel 9
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin de wet is geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin de wet is geplaatst.

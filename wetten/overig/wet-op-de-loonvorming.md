@@ -1,43 +1,18 @@
 ---
 title: "Wet van 12 februari 1970, houdende regelen met betrekking tot de loonvorming"
+citeertitel: "Wet op de loonvorming"
 identifier: "BWBR0002698"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002698"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1289453"
-version_id: "1920382"
-internal_id: "C1920381"
-label_id: "1249244"
-dtd_version: "2.0"
-original_entry_into_force: "1970-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002698/2026-01-01/0"
-intitule_bron: "Stb.1970-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1970-02-12"
-intitule_status: "goed"
-original_publication: "Stb.1970-69"
-original_signed_date: "1970-02-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "9716"
-entry_into_force_date: "1970-04-20"
-jci_1_3: "jci1.3:c:BWBR0002698&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0002698&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de loonvorming"
-signed_date: "1970-02-12"
-entry_into_force: "1970-04-20"
+publicatiedatum: 1970-04-20
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0002698"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 12 februari 1970, houdende regelen met betrekking tot de loonvorming
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de voorschriften van de [derde titel van het Buitengewoon Besluit Arbeidsverhoudingen 1945](onbekend) (**Stb.** 1963, 271) door andere regelen met betrekking tot de totstandkoming van lonen en andere arbeidsvoorwaarden te vervangen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -45,19 +20,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - b. werknemer:
 
-- 1°. degene die in dienst van een ander arbeid verricht;
+   - 1°. degene die in dienst van een ander arbeid verricht;
 
-- 2°. degene die in de zelfstandige uitoefening van een bedrijf of beroep persoonlijk arbeid voor een ander verricht - tenzij hij zodanige arbeid in de regel voor meer dan twee anderen verricht of zich daarbij door meer dan twee personen, niet zijnde zijn echtgenoot of geregistreerde partner of een bij hem inwonend bloed- of aanverwant of pleegkind, laat bijstaan, dan wel deze arbeid voor hem slechts een bijkomstige werkzaamheid is;
+   - 2°. degene die in de zelfstandige uitoefening van een bedrijf of beroep persoonlijk arbeid voor een ander verricht - tenzij hij zodanige arbeid in de regel voor meer dan twee anderen verricht of zich daarbij door meer dan twee personen, niet zijnde zijn echtgenoot of geregistreerde partner of een bij hem inwonend bloed- of aanverwant of pleegkind, laat bijstaan, dan wel deze arbeid voor hem slechts een bijkomstige werkzaamheid is;
 
-- Abusievelijk. wordt door Stb. 1997/660 onderdeel c i.p.v. onderdeel b gewijzigd.c. **werkgever:** de natuurlijke persoon of rechtspersoon in wiens dienst dan wel voor wie de onder **b,** onderscheidenlijk sub 1° en sub 2°, bedoelde werknemer arbeid verricht;
+- Abusievelijk *wordt door Stb. 1997/660 onderdeel c i.p.v. onderdeel b gewijzigd.*c. *werkgever:* de natuurlijke persoon of rechtspersoon in wiens dienst dan wel voor wie de onder *b,* onderscheidenlijk sub 1° en sub 2°, bedoelde werknemer arbeid verricht;
 
-- d. **arbeidsverhouding:** de rechtsbetrekking tussen een werknemer en diens werkgever;
+- d. *arbeidsverhouding:* de rechtsbetrekking tussen een werknemer en diens werkgever;
 
-- e. **loon:** arbeidsvoorwaarde, regelende de vergoeding van de werkgever aan de werknemer ter zake van diens arbeid.
+- e. *loon:* arbeidsvoorwaarde, regelende de vergoeding van de werkgever aan de werknemer ter zake van diens arbeid.
 
 ##### Artikel 2
 
@@ -73,7 +48,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### § 2. Aanmelding van collectieve arbeidsovereenkomsten
 
@@ -89,7 +64,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. Onze Minister kan, op gezamenlijk verzoek van een of meer werkgevers of verenigingen met volledige rechtsbevoegdheid van werkgevers enerzijds en een of meer verenigingen met volledige rechtsbevoegdheid van werknemers anderzijds, voor een bij zijn besluit te bepalen tijdvak van ten hoogste twee jaar te hunnen aanzien regelingen vaststellen van dezelfde inhoud als een collectieve arbeidsovereenkomst. Deze regelingen kunnen echter geen bepalingen behelzen als bedoeld in [artikel 2, vijfde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2) (**Stb.** 1937, 801).
+1. Onze Minister kan, op gezamenlijk verzoek van een of meer werkgevers of verenigingen met volledige rechtsbevoegdheid van werkgevers enerzijds en een of meer verenigingen met volledige rechtsbevoegdheid van werknemers anderzijds, voor een bij zijn besluit te bepalen tijdvak van ten hoogste twee jaar te hunnen aanzien regelingen vaststellen van dezelfde inhoud als een collectieve arbeidsovereenkomst. Deze regelingen kunnen echter geen bepalingen behelzen als bedoeld in [artikel 2, vijfde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2) (*Stb.* 1937, 801).
 
 2. Alvorens aan het eerste lid toepassing te geven stelt Onze Minister organisaties van werkgevers en van werknemers, welke naar zijn oordeel op centraal niveau hiervoor in aanmerking komen, in de gelegenheid hem hun zienswijze ter zake kenbaar te maken.
 
@@ -107,7 +82,7 @@ Vaststelling kan slechts geschieden nadat niet in de Stichting van de Arbeid ver
 
 Indien een verzoek als bedoeld in de eerste volzin is gedaan door een centrale organisatie van werkgevers of van werknemers, blijft de tweede volzin ten aanzien van de verzoeker buiten toepassing.
 
-3. Van de indiening van een verzoek als bedoeld in het tweede lid doet Onze Minister mededeling in de **Staatscourant.** Daarbij bepaalt hij een termijn, binnen welke hem bedenkingen tegen de gevraagde toepassing van het eerste lid schriftelijk kunnen worden kenbaar gemaakt.
+3. Van de indiening van een verzoek als bedoeld in het tweede lid doet Onze Minister mededeling in de *Staatscourant.* Daarbij bepaalt hij een termijn, binnen welke hem bedenkingen tegen de gevraagde toepassing van het eerste lid schriftelijk kunnen worden kenbaar gemaakt.
 
 4. Onze Minister wijst een verzoek als bedoeld in het tweede lid niet af zonder de verzoeker in de gelegenheid te hebben gesteld hem zijn bedenkingen daartegen kenbaar te maken.
 
@@ -117,15 +92,15 @@ Indien een verzoek als bedoeld in de eerste volzin is gedaan door een centrale o
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 #### § 5. Andere maatregelen in het algemeen sociaal-economisch belang
 
@@ -159,7 +134,7 @@ Elk beding tussen een werkgever en een werknemer alsmede elke bepaling in een co
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -185,50 +160,48 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Van een besluit als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), [10, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2026-01-01&g=2026-01-01), voor zover het de vrijstelling betreft, [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01) of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=17&z=2026-01-01&g=2026-01-01), wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+Van een besluit als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), [10, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2026-01-01&g=2026-01-01), voor zover het de vrijstelling betreft, [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01) of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=17&z=2026-01-01&g=2026-01-01), wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 20
 
 1. Onverminderd het in de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=131) en [241 van Boek 2 (Rechtspersonen) van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=241) bepaalde, worden burgerlijke rechtsvorderingen van werkgevers of werknemers welke voortvloeien uit niet-naleving van het bij of krachtens deze wet bepaalde, geacht betrekkelijk te zijn tot een arbeidsovereenkomst.
 
-2. [Artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) (**Stb.** 1950, K 258) is niet van toepassing op voorzieningen ter zake van de overtreding van voorschriften, gesteld bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2026-01-01&g=2026-01-01).
+2. [Artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) (*Stb.* 1950, K 258) is niet van toepassing op voorzieningen ter zake van de overtreding van voorschriften, gesteld bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 21
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 22
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 23
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 24
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 25
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
 1. Deze wet kan worden aangehaald als: Wet op de loonvorming.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

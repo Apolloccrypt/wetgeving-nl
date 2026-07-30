@@ -1,44 +1,17 @@
 ---
 title: "Ondernemersbesluit ontvanginrichtingen"
 identifier: "BWBR0003887"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1985-12-14"
-last_updated: "1985-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003887"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3735023"
-version_id: "5517892"
-internal_id: "C5710981"
-label_id: "3714774"
-dtd_version: "2.0"
-original_entry_into_force: "1985-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003887/1985-12-14/0"
-intitule_bron: "Stcrt.1985-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-11-25"
-intitule_published: "1985-12-12"
-intitule_in_force: "1985-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-242"
-original_signed_date: "1985-11-25"
-original_published_date: "1985-12-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-12-14"
-jci_1_3: "jci1.3:c:BWBR0003887&z=1985-12-14&g=1985-12-14"
-jci_1_0: "1.0:c:BWBR0003887&g=1985-12-14"
-citeertitel_status: "officieel"
-signed_date: "1985-11-25"
-entry_into_force: "1985-12-14"
+publicatiedatum: 1985-12-14
+laatste_update: 1985-12-14
+status: geldig
+toestand: 1985-12-14
+bron: "https://wetten.overheid.nl/BWBR0003887"
+opgehaald: 2026-07-30
 ---
+
 # Ondernemersbesluit ontvanginrichtingen
-
-Gelet op de artikelen H.2.1 en H.2.2 van het Besluit radio-elektrische inrichtingen (Stb. 1985, 445);
-
-Gezien het advies van de directeur-generaal der PTT van 26 september 1985;
-
-Besluit:
 
 ##### Artikel 1. Machtiging
 

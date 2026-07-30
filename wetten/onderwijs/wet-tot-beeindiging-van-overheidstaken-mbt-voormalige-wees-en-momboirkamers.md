@@ -1,44 +1,18 @@
 ---
 title: "Wet van 30 oktober 1974, tot beëindiging van de overheidstaken met betrekking tot de zaken van de voormalige wees- en momboirkamers en het beheer van vicarieën, alsmede afkoop van onveranderlijke lasten"
+citeertitel: "Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers"
 identifier: "BWBR0002944"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002944"
+categorie: "Overig"
 soort: "wet"
-stam_id: "310303"
-version_id: "449932"
-internal_id: "C449931"
-label_id: "303724"
-dtd_version: "2.0"
-original_entry_into_force: "1974-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002944/2002-01-01/0"
-intitule_bron: "Stb.1974-700"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1974-10-30"
-intitule_status: "goed"
-original_publication: "Stb.1974-700"
-original_signed_date: "1974-10-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "12025"
-entry_into_force_date: "1974-12-23"
-entry_into_force_dossier: "12025"
-jci_1_3: "jci1.3:c:BWBR0002944&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0002944&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers"
-signed_date: "1974-10-30"
-entry_into_force: "1974-12-23"
+publicatiedatum: 1974-12-23
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0002944"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 30 oktober 1974, tot beëindiging van de overheidstaken met betrekking tot de zaken van de voormalige wees- en momboirkamers en het beheer van vicarieën, alsmede afkoop van onveranderlijke lasten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de aan Onze Minister van Financiën bij en krachtens de wet van 20 augustus 1859 (**Stb.** 95) opgedragen taken met betrekking tot de fondsen en stichtingen, bedoeld in artikel 11 van de wet van 5 maart 1852 (**Stb.** 45), alsmede diens beheer van vicarieën dienen te worden beëindigd, terwijl voorts wenselijk is de in de administratie van het Ministerie van Financiën (dienst der Domeinen) voorkomende onveranderlijke lasten af te kopen:
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -48,7 +22,7 @@ Deze wet verstaat onder "Onze Minister": Onze Minister van Financiën;
 
 ##### Artikel 2
 
-1. Onverminderd het bepaalde in het tweede lid draagt Onze Minister het hem bij de wet van 20 augustus 1859 (**Stb.** 95) opgedragen beheer over de fondsen en stichtingen, bedoeld in artikel 11 van de wet van 5 maart 1852 (**Stb.** 45), voor zover dit niet bij krachtens de stichtingsoorkonden benoemde bewindvoerders berust, over,
+1. Onverminderd het bepaalde in het tweede lid draagt Onze Minister het hem bij de wet van 20 augustus 1859 (*Stb.* 95) opgedragen beheer over de fondsen en stichtingen, bedoeld in artikel 11 van de wet van 5 maart 1852 (*Stb.* 45), voor zover dit niet bij krachtens de stichtingsoorkonden benoemde bewindvoerders berust, over,
 
 - a. indien de begunstigde een rechtspersoon is, aan die rechtspersoon;
 
@@ -94,7 +68,7 @@ Deze wet verstaat onder "Onze Minister": Onze Minister van Financiën;
 
 ##### Artikel 6
 
-De beschikkingen van Onze Minister, houdende een aanwijzing, bedoeld in punt **b** van het eerste lid van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=2&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=4&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=5&z=2002-01-01&g=2002-01-01), of een ontbinding, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=2&z=2002-01-01&g=2002-01-01), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=4&z=2002-01-01&g=2002-01-01), worden in de **Nederlandse Staatscourant** bekend gemaakt. Van deze bekendmaking wordt zoveel mogelijk aan de bekende belanghebbenden kennis gegeven.
+De beschikkingen van Onze Minister, houdende een aanwijzing, bedoeld in punt *b* van het eerste lid van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=2&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=4&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=5&z=2002-01-01&g=2002-01-01), of een ontbinding, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=2&z=2002-01-01&g=2002-01-01), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=4&z=2002-01-01&g=2002-01-01), worden in de *Nederlandse Staatscourant* bekend gemaakt. Van deze bekendmaking wordt zoveel mogelijk aan de bekende belanghebbenden kennis gegeven.
 
 ##### Artikel 7
 
@@ -102,6 +76,4 @@ Onze Minister brengt van de uitvoering van de [artikelen 2](https://wetten.overh
 
 ##### Artikel 8
 
-De wetten van 20 augustus 1859 (**Stb.** 95), van 14 november 1879 (**Stb.** 197) en van 3 april 1922 (**Stb.** 165) worden ingetrokken. Evenwel behoudt Onze Minister de hem in de eerstgenoemde wet opgedragen taak, voorzover zulks voor de uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=2&z=2002-01-01&g=2002-01-01) nodig is.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+De wetten van 20 augustus 1859 (*Stb.* 95), van 14 november 1879 (*Stb.* 197) en van 3 april 1922 (*Stb.* 165) worden ingetrokken. Evenwel behoudt Onze Minister de hem in de eerstgenoemde wet opgedragen taak, voorzover zulks voor de uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002944&artikel=2&z=2002-01-01&g=2002-01-01) nodig is.

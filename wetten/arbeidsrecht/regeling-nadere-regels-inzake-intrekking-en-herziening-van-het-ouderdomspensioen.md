@@ -1,44 +1,18 @@
 ---
 title: "Intrekking en herziening ouderdomspensioen"
+citeertitel: "Regeling nadere regels inzake intrekking en herziening van het ouderdomspensioen"
 identifier: "BWBR0003823"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003823"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "5161563"
-version_id: "19280032"
-internal_id: "C26899391"
-label_id: "5136984"
-dtd_version: "2.0"
-original_entry_into_force: "2012-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003823/2013-01-01/0"
-intitule_bron: "Stcrt.1985-136"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-07-12"
-intitule_published: "1985-07-17"
-intitule_in_force: "1985-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-4675"
-original_signed_date: "2012-03-02"
-original_published_date: "2012-03-12"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-4675"
-entry_into_force_date: "2012-03-02"
-jci_1_3: "jci1.3:c:BWBR0003823&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0003823&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling nadere regels inzake intrekking en herziening van het ouderdomspensioen"
-signed_date: "2012-03-02"
-entry_into_force: "2012-03-02"
+publicatiedatum: 2012-03-02
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0003823"
+opgehaald: 2026-07-30
 ---
+
 # Intrekking en herziening ouderdomspensioen
-
-Gelet op [artikel 17, derde en zesde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,7 +28,7 @@ De herziening van het ouderdomspensioen, toegekend aan de gehuwde pensioengerech
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 

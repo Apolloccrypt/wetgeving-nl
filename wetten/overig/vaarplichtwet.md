@@ -1,45 +1,18 @@
 ---
 title: "Wet van 23 juni 1972, houdende regelen omtrent de vaarplicht in buitengewone omstandigheden"
+citeertitel: "Vaarplichtwet"
 identifier: "BWBR0002828"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002828"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1782233"
-version_id: "2648172"
-internal_id: "C2648171"
-label_id: "1737984"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002828/2025-07-01/0"
-intitule_bron: "Stb.1972-445"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-06-23"
-intitule_status: "goed"
-original_publication: "Stb.1997-580"
-original_signed_date: "1997-12-04"
-original_published_date: "1997-12-18"
-original_effect: "structuurwijziging"
-original_dossier: "25464"
-original_url_id: "stb-1997-580"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0002828&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0002828&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Vaarplichtwet"
-signed_date: "1997-12-04"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0002828"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 23 juni 1972, houdende regelen omtrent de vaarplicht in buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stellen betreffende de vaarplicht in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden alsmede enkele met dat onderwerp samenhangende bijzondere straf- en tuchtbepalingen vast te stellen, een en ander mede met het oog op bij Rijkswet gestelde algemene regelen betreffende de vaarplicht;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -49,21 +22,21 @@ Deze wet verstaat onder:
 
 - b. "schip":
 
-- 1. een geen oorlogsschip zijnd zeeschip in de zin van artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek alsmede een zodanig zeeschip in aanbouw, dan wel
+   - 1. een geen oorlogsschip zijnd zeeschip in de zin van artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek alsmede een zodanig zeeschip in aanbouw, dan wel
 
-- 2. een vissersvaartuig als omschreven onder **c**, sub 2, van dit artikel;
+   - 2. een vissersvaartuig als omschreven onder *c*, sub 2, van dit artikel;
 
 - c. "Nederlands schip":
 
-- 1. een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, hetzij
+   - 1. een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, hetzij
 
-- 2. een Nederlands vissersvaartuig, dat bedrijfsmatig wordt gebruikt voor de zeevisserij, de kustvisserij of de visserij op het IJsselmeer, een en ander in de zin van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416);
+   - 2. een Nederlands vissersvaartuig, dat bedrijfsmatig wordt gebruikt voor de zeevisserij, de kustvisserij of de visserij op het IJsselmeer, een en ander in de zin van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416);
 
 - d. "zeeman": de kapitein van een schip en ieder die krachtens overeenkomst gehouden is tot werk als schepeling aan boord van een schip;
 
 - e. "vaarplicht": de verplichting tot het verrichten van werkzaamheden aan boord of ten behoeve van Nederlandse schepen, zeeschepen die op grond van voor Aruba, Curaçao of Sint Maarten geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren of in Aruba, Curaçao of Sint Maarten thuisbehorende zee- of kustvissersvaartuigen;
 
-- f. "vaarplichtige": hij, aan wie ingevolge [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=2a&z=2025-07-01&g=2025-07-01) de vaarplicht is opgelegd, en die noch overeenkomstig het derde lid van artikel 3 van de vaarplicht is vrijgesteld noch daarvan ontslagen overeenkomstig het vierde lid van dat artikel.
+- f. "vaarplichtige": hij, aan wie ingevolge [artikel 2*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=2a&z=2025-07-01&g=2025-07-01) de vaarplicht is opgelegd, en die noch overeenkomstig het derde lid van artikel 3 van de vaarplicht is vrijgesteld noch daarvan ontslagen overeenkomstig het vierde lid van dat artikel.
 
 ##### Artikel 2
 
@@ -77,11 +50,11 @@ Deze wet verstaat onder:
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 2a
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister is bevoegd met inachtneming van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=3&z=2025-07-01&g=2025-07-01), aan zeelieden en gewezen zeelieden de vaarplicht op te leggen.
 
@@ -165,7 +138,7 @@ De algemene voorwaarden der dienstbetrekking, bedoeld in [artikel 6](https://wet
 
 ##### Artikel 10
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Indien de kapitein gegronde reden heeft om aan te nemen dat het verblijf van een zeeman op het schip de orde aan boord of de veiligheid van het schip in gevaar brengt, kan hij deze in iedere haven, waar zulks is toegestaan, aan land doen zetten of de toegang tot het schip weigeren.
 
@@ -177,7 +150,7 @@ In dat geval doet de kapitein de zeeman in de eerste haven, waar zulks is toeges
 
 ##### Artikel 11
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 De kapitein, die gebruik maakt van de bevoegdheden hem in het vorige artikel gegeven, is verplicht daarvan melding te maken in het scheepsdagboek. Hij stelt tevens zo spoedig mogelijk Onze Minister in kennis van de genomen maatregel en van de feiten, die tot deze maatregel aanleiding hebben gegeven.
 
@@ -209,13 +182,13 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie
 
 ##### Artikel 16
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk ernstige schade veroorzaakt of teweegbrengt aan een Nederlands, Surinaams of Nederlands Antilliaans schip.
 
 ##### Artikel 17
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 De kapitein die zonder dringende reden opzettelijk geen gevolg geeft aan de aanwijzingen, hem gegeven door een bevoegde autoriteit van het Koninkrijk of een verbonden mogendheid, wordt gestraft:
 
@@ -225,7 +198,7 @@ De kapitein die zonder dringende reden opzettelijk geen gevolg geeft aan de aanw
 
 ##### Artikel 18
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie wordt gestraft de kapitein die een verplichting als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=11&z=2025-07-01&g=2025-07-01), opzettelijk niet nakomt.
 
@@ -237,7 +210,7 @@ Met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie 
 
 ##### Artikel 20
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie wordt gestraft de zeeman die niet nakomt enig van overheidswege gesteld voorschrift voor de handhaving van de orde aan boord of ter bescherming van de algemene veiligheid.
 
@@ -297,6 +270,4 @@ Deze wet kan worden aangehaald als "Vaarplichtwet".
 
 ##### Artikel 28
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.

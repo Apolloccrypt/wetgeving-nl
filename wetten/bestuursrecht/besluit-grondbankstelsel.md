@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 december 1982, houdende aanwijzing van de gevallen waarin het bureau beheer landbouwgronden kan overgaan tot de uitgifte in erfpacht van landbouwgrond"
+citeertitel: "Besluit grondbankstelsel"
 identifier: "BWBR0003548"
-country: "nl"
-rank: "amvb"
-publication_date: "2007-10-31"
-last_updated: "2007-10-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003548"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "559483"
-version_id: "815782"
-internal_id: "C815781"
-label_id: "543294"
-dtd_version: "2.0"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003548/2007-10-31/0"
-intitule_bron: "Stb.1982-692"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-12-13"
-intitule_status: "goed"
-original_publication: "Stb.1982-692"
-original_signed_date: "1982-12-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0003548&z=2007-10-31&g=2007-10-31"
-jci_1_0: "1.0:c:BWBR0003548&g=2007-10-31"
-citeertitel_status: "officieel"
-short_title: "Besluit grondbankstelsel"
-signed_date: "1982-12-13"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 2007-10-31
+status: geldig
+toestand: 2007-10-31
+bron: "https://wetten.overheid.nl/BWBR0003548"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 13 december 1982, houdende aanwijzing van de gevallen waarin het bureau beheer landbouwgronden kan overgaan tot de uitgifte in erfpacht van landbouwgrond
-
-Op de voordracht van Onze Minister van Landbouw en Visserij a.i. van 5 augustus 1982, nr. J 4316, Directie Juridische en Bedrijfsorganisatorische Zaken;
-
-Gehoord de commissie beheer landbouwgronden;
-
-Overwegende dat het wenselijk is ter verlichting van de financieringsproblematiek in de landbouw in bepaalde gevallen uitgifte in erfpacht van landbouwgrond door het bureau beheer landbouwgronden aan ondernemers in de landbouw mogelijk te maken;
-
-Gelet op [artikel 57, eerste lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=57) (**Stb.** 1981, 248);
-
-De Raad van State gehoord (advies van 29 september 1982, nr. 2420/17/8238);
-
-Gezien het nader rapport van de Staatssecretaris van Landbouw en Visserij van 30 november 1982, nr. J. 5486, Directie Juridische en Bedrijfsorganisatorische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -66,7 +34,7 @@ Het bureau kan, voor zover zulks uit financieringsoverwegingen noodzakelijk is, 
 
 ##### Artikel 3
 
-1. Onze Minister kan bij in de **Nederlandse Staatscourant** bekend te maken regeling bepalen dat in een of meer gevallen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2&z=2007-10-31&g=2007-10-31) geen aanvragen kunnen worden ingediend tot een nader door hem daarbij te bepalen tijdstip.
+1. Onze Minister kan bij in de *Nederlandse Staatscourant* bekend te maken regeling bepalen dat in een of meer gevallen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2&z=2007-10-31&g=2007-10-31) geen aanvragen kunnen worden ingediend tot een nader door hem daarbij te bepalen tijdstip.
 
 2. Onze Minister kan in zijn op grond van het eerste lid genomen regeling bepalen dat wel aanvragen om uitgifte in erfpacht kunnen worden ingediend voor landbouwgrond die bestemd is voor de uitgifte en waarvan het bureau de eigendom heeft verworven vóór het tijdstip van de indiening van de aanvrage.
 
@@ -91,5 +59,3 @@ De in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=
 1. Dit besluit kan worden aangehaald als "Besluit grondbankstelsel".
 
 2. Het treedt in werking met ingang van 1 januari 1983.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

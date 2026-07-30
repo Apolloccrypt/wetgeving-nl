@@ -1,37 +1,16 @@
 ---
 title: "Reglement examens hoger en middelbaar archiefambtenaar"
 identifier: "BWBR0002765"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1971-08-04"
-last_updated: "1971-08-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002765"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4781593"
-version_id: "6587932"
-internal_id: "C7045171"
-label_id: "4759744"
-dtd_version: "2.0"
-original_entry_into_force: "1971-08-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002765/1971-08-04/0"
-intitule_bron: "Stcrt.1971-134"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-05-18"
-intitule_published: "1971-07-15"
-intitule_in_force: "1971-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1971-134"
-original_signed_date: "1971-05-18"
-original_published_date: "1971-07-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1971-08-04"
-jci_1_3: "jci1.3:c:BWBR0002765&z=1971-08-04&g=1971-08-04"
-jci_1_0: "1.0:c:BWBR0002765&g=1971-08-04"
-citeertitel_status: "officieel"
-signed_date: "1971-05-18"
-entry_into_force: "1971-08-04"
+publicatiedatum: 1971-08-04
+laatste_update: 1971-08-04
+status: geldig
+toestand: 1971-08-04
+bron: "https://wetten.overheid.nl/BWBR0002765"
+opgehaald: 2026-07-30
 ---
+
 # Reglement examens hoger en middelbaar archiefambtenaar
 
 #### A. Algemene bepalingen
@@ -39,6 +18,22 @@ entry_into_force: "1971-08-04"
 ##### Artikel 1
 
 In dit reglement wordt verstaan onder:
+
+Minister:
+
+de Minister van Cultuur, Recreatie en Maatschappelijk Werk;
+
+examen hoger archiefambtenaar:
+
+het examen ter verkrijging van de hoedanigheid van hoger archiefambtenaar, bedoeld in artikel 36, eerste lid, van het Archiefbesluit;
+
+examen middelbaar archiefambtenaar:
+
+het examen ter verkrijging van de hoedanigheid van middelbaar archiefambtenaar, bedoeld in artikel 39, eerste lid, van het Archiefbesluit;
+
+examencommissie:
+
+de commissie, belast met het afnemen van de examens hoger en middelbaar archiefambtenaar, bedoeld in artikel 34, derde lid, van het Archiefbesluit.
 
 ##### Artikel 2
 
@@ -127,5 +122,3 @@ In alle gevallen, waarin dit Reglement niet voorziet, dan wel bij twijfel omtren
 ##### Artikel 16
 
 Dit reglement kan worden aangehaald als: Reglement examens hoger en middelbaar archiefambtenaar.
-
-Aldus vastgesteld.

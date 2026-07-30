@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 18 november 1985, houdende regeling van het georganiseerd overleg over aangelegenheden van algemeen belang voor de rechtstoestand van ambtenaren die overgaan in dienst van de provincie Flevoland"
+citeertitel: "Regeling georganiseerd overleg personeelsovergang Flevoland"
 identifier: "BWBR0003882"
-country: "nl"
-rank: "amvb"
-publication_date: "1985-12-12"
-last_updated: "1985-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003882"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "735023"
-version_id: "1071642"
-internal_id: "C1071641"
-label_id: "712124"
-dtd_version: "2.0"
-original_entry_into_force: "1985-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003882/1985-12-12/0"
-intitule_bron: "Stb.1985-620"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-11-18"
-intitule_status: "goed"
-original_publication: "Stb.1985-620"
-original_signed_date: "1985-11-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-12-12"
-jci_1_3: "jci1.3:c:BWBR0003882&z=1985-12-12&g=1985-12-12"
-jci_1_0: "1.0:c:BWBR0003882&g=1985-12-12"
-citeertitel_status: "officieel"
-short_title: "Regeling georganiseerd overleg personeelsovergang Flevoland"
-signed_date: "1985-11-18"
-entry_into_force: "1985-12-12"
+publicatiedatum: 1985-12-12
+laatste_update: 1985-12-12
+status: geldig
+toestand: 1985-12-12
+bron: "https://wetten.overheid.nl/BWBR0003882"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 18 november 1985, houdende regeling van het georganiseerd overleg over aangelegenheden van algemeen belang voor de rechtstoestand van ambtenaren die overgaan in dienst van de provincie Flevoland
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken a.i. van 7 augustus 1985, nr. AB85/1452, directoraat-generaal voor Overheidspersoneelsbeleid, directie Overheidspersoneelszaken, afdeling Algemene en Juridische Zaken;
-
-Gelet op [artikel 52, tweede lid, van de Wet instelling provincie Flevoland](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&artikel=52) (**Stb.** 1985, nr. 360);
-
-De Raad van State gehoord (advies van 14 oktober 1985, nr. W04.85.0443/07.5.42);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 8 november 1985, nr. AB85/1930, directoraat-generaal voor Overheidspersoneelsbeleid, directie Overheidspersoneelszaken, afdeling Algemene en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § I. Begripsbepalingen
 
@@ -58,7 +30,7 @@ ambtenaar: degene die krachtens aanstelling bij of krachtens arbeidsovereenkomst
 
 Centrale Commissie: de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken bedoeld in [artikel 105 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=105);
 
-Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie bedoeld in [artikel 110**g** van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g);
+Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie bedoeld in [artikel 110*g* van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g);
 
 Commissie: de Commissie voor Georganiseerd Overleg Personeelsovergang Flevoland, bedoeld in [artikel 52, eerste lid, van de Wet instelling provincie Flevoland](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&artikel=52);
 
@@ -144,7 +116,7 @@ plaatsingscommissie: de plaatsingscommissie bedoeld in [artikel 35, tweede lid, 
 
 2. Indien één of meer van de organisaties in het overleg tot het oordeel komen dat dit overleg niet tot een uitkomst leidt die de instemming van alle deelnemers aan dat overleg zal hebben, brengen die organisaties dat oordeel binnen 3 dagen nadat zij daarvan in het overleg hebben blijk gegeven, schriftelijk ter kennis aan de overige deelnemers.
 
-3. Het bepaalde in [artikel 119**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=119b) juncto de [artikelen 110**d** tot en met 110**k** van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110d) is van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 119*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=119b) juncto de [artikelen 110*d* tot en met 110*k* van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110d) is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -166,6 +138,4 @@ Indien over een aangelegenheid in afwijking van het standpunt van de Commissie w
 
 ##### Artikel 13
 
-Dit besluit, dat kan worden aangehaald als Regeling georganiseerd overleg personeelsovergang Flevoland, treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad,** waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit, dat kan worden aangehaald als Regeling georganiseerd overleg personeelsovergang Flevoland, treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad,* waarin het wordt geplaatst.

@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 10 september 1984, houdende afwijkingen van het bepaalde in de Wet medezeggenschap onderwijs"
+citeertitel: "Besluit medezeggenschap onderwijs"
 identifier: "BWBR0003710"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003710"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "704023"
-version_id: "1027032"
-internal_id: "C1027031"
-label_id: "682704"
-dtd_version: "2.0"
-original_entry_into_force: "1984-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003710/2022-08-01/0"
-intitule_bron: "Stb.1984-442"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-09-10"
-intitule_status: "goed"
-original_publication: "Stb.1984-442"
-original_signed_date: "1984-09-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1984-10-13"
-jci_1_3: "jci1.3:c:BWBR0003710&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0003710&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit medezeggenschap onderwijs"
-signed_date: "1984-09-10"
-entry_into_force: "1984-10-13"
+publicatiedatum: 1984-10-13
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0003710"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 10 september 1984, houdende afwijkingen van het bepaalde in de Wet medezeggenschap onderwijs
-
-Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, drs. G. van Leijenhorst, mede namens Onze Minister van Landbouw en Visserij van 1 mei 1984, nr. 5171/1156, centrale directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 17, tweede lid, van de Wet medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005746&artikel=17) (**Stb.** 1981, 778);
-
-De Onderwijsraad gehoord (advies van 15 juli 1983, O.R. 544 Alg.);
-
-De Raad van State gehoord (advies van 20 juli 1984, no. W05.84.0261/14.4.28);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs en Wetenschappen, drs. G. van Leijenhorst, mede namens Onze Minister van Landbouw en Visserij, van 24 augustus 1984, nr. 5535/1156, centrale directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § A. Algemene bepalingen
 
@@ -52,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. de wet: de [Wet medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005746) (**Stb.** 1981, 778);
+- b. de wet: de [Wet medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005746) (*Stb.* 1981, 778);
 
 - c. de medezeggenschapsraad: de raad, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005746&artikel=4);
 
@@ -62,11 +32,11 @@ In dit besluit wordt verstaan onder:
 
 - f. het bevoegd gezag: voor wat betreft
 
-- 1°. een rijksschool: Onze minister;
+   - 1°. een rijksschool: Onze minister;
 
-- 2°. een gemeentelijke school: het college van burgemeester en wethouders, voor zover de raad niet anders bepaalt, en, indien de raad dit wenselijk oordeelt, met inachtneming van door hem te stellen regelen;
+   - 2°. een gemeentelijke school: het college van burgemeester en wethouders, voor zover de raad niet anders bepaalt, en, indien de raad dit wenselijk oordeelt, met inachtneming van door hem te stellen regelen;
 
-- 3°. een bijzondere school: het schoolbestuur.
+   - 3°. een bijzondere school: het schoolbestuur.
 
 #### § B. Zeer kleine scholen voor kleuteronderwijs of gewoon lager onderwijs
 
@@ -102,7 +72,7 @@ Indien op het moment van inwerkingtreding van dit besluit aan een school als bed
 
 In afwijking van de wet voor wat betreft artikel 4, eerste en zevende lid, gelden de bepalingen van deze paragraaf in die gevallen, waarin een of meer scholen voor kleuteronderwijs en een of meer scholen voor gewoon lager onderwijs door hetzelfde bevoegd gezag in stand worden gehouden en samenwerken, of zullen gaan samenwerken met het oog op de vorming van een school voor basisonderwijs als bedoeld in de [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
-(**Stb.** 1984, 2).
+(*Stb.* 1984, 2).
 
 ##### Artikel C-2
 
@@ -110,7 +80,7 @@ In afwijking van de wet voor wat betreft artikel 4, eerste en zevende lid, gelde
 
 2. Bij de berekening van het aantal leden van de medezeggenschapsraad wordt uitgegaan van het gezamenlijk aantal leerlingen van de desbetreffende scholen, met dien verstande dat het aantal leden in elk geval het dubbele van het aantal scholen bedraagt.
 
-3. In elk van de delen van de medezeggenschapsraad, die ingevolge artikel 4, derde lid onder **a** en **b**, van de wet worden gekozen, wordt ten minste een lid uit elk van de desbetreffende scholen gekozen.
+3. In elk van de delen van de medezeggenschapsraad, die ingevolge artikel 4, derde lid onder *a* en *b*, van de wet worden gekozen, wordt ten minste een lid uit elk van de desbetreffende scholen gekozen.
 
 4. De schoolleider van elk van de desbetreffende scholen heeft, met adviserende stem, mede zitting in de medezeggenschapsraad, indien hij niet tot lid daarvan is gekozen.
 
@@ -170,7 +140,7 @@ In afwijking van de wet voor wat betreft artikel 4, eerste en achtste lid, gelde
 
 - c. vereniging van twee of meer scholen in een scholengemeenschap als bedoeld in [artikel 2.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.28);
 
-- d. samenbrenging van scholen in een onderwijsgemeenschap als bedoeld in artikel 25, vierde lid, van het Besluit proefprojecten nieuw vervolg/beroepsonderwijs (**Stb.** 1980, 283) en artikel 23, vierde lid, van het Besluit proefprojecten deeltijd vervolg/beroepsonderwijs (**Stb.** 1983, 128);
+- d. samenbrenging van scholen in een onderwijsgemeenschap als bedoeld in artikel 25, vierde lid, van het Besluit proefprojecten nieuw vervolg/beroepsonderwijs (*Stb.* 1980, 283) en artikel 23, vierde lid, van het Besluit proefprojecten deeltijd vervolg/beroepsonderwijs (*Stb.* 1983, 128);
 
 - e. oprichting van een school door omvorming als bedoeld in artikel 31 van het Besluit proefprojecten deeltijd vervolg/beroepsonderwijs;
 
@@ -236,7 +206,7 @@ In een geval als bedoeld in [artikel I-1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel J-1
 
-In afwijking van de wet voor wat betreft de artikelen 4, tweede, zevende en tiende lid, 13, en 24, tweede lid, gelden de bepalingen van deze paragraaf voor scholen voor hoger beroepsonderwijs, totdat de Wet op het hoger beroepsonderwijs (**Stb.** 1985, 80) wat de regeling van de medezeggenschap betreft in werking is getreden.
+In afwijking van de wet voor wat betreft de artikelen 4, tweede, zevende en tiende lid, 13, en 24, tweede lid, gelden de bepalingen van deze paragraaf voor scholen voor hoger beroepsonderwijs, totdat de Wet op het hoger beroepsonderwijs (*Stb.* 1985, 80) wat de regeling van de medezeggenschap betreft in werking is getreden.
 
 ##### Artikel J-2
 
@@ -262,47 +232,47 @@ In afwijking van de wet voor wat betreft de artikelen 4, tweede, zevende en tien
 
 ##### Artikel K-1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel K-2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel K-3
 
-Vervallen
+*Vervallen*
 
 #### § L
 
 ##### Artikel L-1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel L-2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel L-3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel L-4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel L-5
 
-Vervallen
+*Vervallen*
 
 #### § M. Afwijking betreffende voortgezet speciaal onderwijs
 
 ##### Artikel M-1
 
-In afwijking van de wet voor wat betreft artikel 3, vijfde lid onder **b**, gelden de bepalingen van deze paragraaf voor scholen voor voortgezet speciaal onderwijs en scholen of instellingen voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8).
+In afwijking van de wet voor wat betreft artikel 3, vijfde lid onder *b*, gelden de bepalingen van deze paragraaf voor scholen voor voortgezet speciaal onderwijs en scholen of instellingen voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8).
 
 ##### Artikel M-2
 
-Het deel van de medezeggenschapsraad, bedoeld in artikel 3, derde lid onder **b**, van de wet wordt aan een school voor voortgezet speciaal onderwijs gekozen uit en door de ouders dan wel deels uit en door de leerlingen, en aan een school of instelling voor speciaal en voortgezet speciaal onderwijs uit en door de ouders dan wel deels uit en door de ouders en deels uit en door de leerlingen die zijn toegelaten tot het voortgezet speciaal onderwijs.
+Het deel van de medezeggenschapsraad, bedoeld in artikel 3, derde lid onder *b*, van de wet wordt aan een school voor voortgezet speciaal onderwijs gekozen uit en door de ouders dan wel deels uit en door de leerlingen, en aan een school of instelling voor speciaal en voortgezet speciaal onderwijs uit en door de ouders dan wel deels uit en door de ouders en deels uit en door de leerlingen die zijn toegelaten tot het voortgezet speciaal onderwijs.
 
 ##### Artikel M-3
 
@@ -310,13 +280,13 @@ Het bepaalde in [artikel M-2](https://wetten.overheid.nl/jci1.3:c:BWBR0003710&pa
 
 ##### Artikel M-4
 
-Tot en met 31 juli 1985 gelden de bepalingen van deze paragraaf voor scholen voor voortgezet buitengewoon onderwijs als bedoeld in artikel 6, eerste lid, van het Besluit buitengewoon onderwijs 1967 (**Stb.** 1978, 582).
+Tot en met 31 juli 1985 gelden de bepalingen van deze paragraaf voor scholen voor voortgezet buitengewoon onderwijs als bedoeld in artikel 6, eerste lid, van het Besluit buitengewoon onderwijs 1967 (*Stb.* 1978, 582).
 
 #### § N. Afwijking aangewezen scholen Regeling m.b.o. 1990-1991
 
 ##### Artikel N-1
 
-Ten aanzien van de aangewezen scholen, bedoeld in de Regeling m.b.o. 1990-1991 (kenmerk WJZ 90031766/3473, **Uitleg OenW-Regelingen** 1990, 18**a** extra van 4 juli 1990), geldt tot 1 augustus 1991 dat de bepalingen, opgenomen in het medezeggenschapsreglement ingevolge de toepassing van artikel 6, eerste lid, onderdeel **a** dan wel **b**, van de wet, niet van toepassing zijn voor zover het betreft aangelegenheden waarover overleg wordt gevoerd in het georganiseerd overleg op instellingsniveau als bedoeld in genoemde regeling.
+Ten aanzien van de aangewezen scholen, bedoeld in de Regeling m.b.o. 1990-1991 (kenmerk WJZ 90031766/3473, *Uitleg OenW-Regelingen* 1990, 18*a* extra van 4 juli 1990), geldt tot 1 augustus 1991 dat de bepalingen, opgenomen in het medezeggenschapsreglement ingevolge de toepassing van artikel 6, eerste lid, onderdeel *a* dan wel *b*, van de wet, niet van toepassing zijn voor zover het betreft aangelegenheden waarover overleg wordt gevoerd in het georganiseerd overleg op instellingsniveau als bedoeld in genoemde regeling.
 
 #### § Z. Slotbepalingen
 
@@ -330,6 +300,4 @@ Dit besluit kan worden aangehaald als "Besluit medezeggenschap onderwijs".
 
 ##### Artikel Z-3
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.

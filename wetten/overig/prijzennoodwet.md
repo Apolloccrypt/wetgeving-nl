@@ -1,44 +1,18 @@
 ---
 title: "Wet van 28 november 1984, houdende regelen op het gebied van de prijzen van goederen en diensten in buitengewone omstandigheden"
+citeertitel: "Prijzennoodwet"
 identifier: "BWBR0003734"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003734"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1737553"
-version_id: "2575872"
-internal_id: "C2575871"
-label_id: "1692524"
-dtd_version: "2.0"
-original_entry_into_force: "1984-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003734/2019-01-01/0"
-intitule_bron: "Stb.1984-575"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-11-28"
-intitule_status: "goed"
-original_publication: "Stb.1984-575"
-original_signed_date: "1984-11-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "9585"
-entry_into_force_date: "1984-12-21"
-entry_into_force_dossier: "9585"
-jci_1_3: "jci1.3:c:BWBR0003734&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0003734&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Prijzennoodwet"
-signed_date: "1984-11-28"
-entry_into_force: "1984-12-21"
+publicatiedatum: 1984-12-21
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0003734"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 28 november 1984, houdende regelen op het gebied van de prijzen van goederen en diensten in buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de mogelijkheid te openen tot het stellen van regelen op het gebied van de prijzen van goederen en diensten in geval van buitengewone omstandigheden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -68,29 +42,29 @@ De bij deze wet aan Onze Minister van Economische Zaken en Klimaat verleende bev
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Onze Minister kan, voor zover de binnenlandse markt betreft, regelen vaststellen, strekkende tot de beheersing van de prijzen van goederen en diensten.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 8
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 1. Onze Minister kan, ter bevordering van een bevredigende ontwikkeling van de prijzen van goederen en diensten, ten aanzien van een door hem aangewezen categorie van ondernemers een prijzenfonds instellen en met betrekking tot zodanig fonds in overeenstemming met Onze Minister van Financiën regelen vaststellen. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=7&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing.
 
@@ -100,31 +74,31 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 14
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 15
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 16
 
@@ -138,15 +112,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -154,18 +128,16 @@ Informatie, verkregen op grond van deze wet, wordt, voor zover die betrekking he
 
 ##### Artikel 21
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 22
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 23
 
 1. Deze wet kan worden aangehaald als: Prijzennoodwet.
 
-2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2019-01-01&g=2019-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2019-01-01&g=2019-01-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.
 
 3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2019-01-01&g=2019-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

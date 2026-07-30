@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 2 mei 1975, houdende regels inzake het ongeregeld luchtvervoer"
+citeertitel: "Besluit ongeregeld luchtvervoer"
 identifier: "BWBR0002965"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-06-12"
-last_updated: "2010-06-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002965"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "749093"
-version_id: "16263202"
-internal_id: "C24079111"
-label_id: "726274"
-dtd_version: "2.0"
-original_entry_into_force: "2010-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002965/2010-06-12/0"
-intitule_bron: "Stb.1975-227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1975-05-02"
-intitule_status: "goed"
-original_publication: "Stb.2009-145"
-original_signed_date: "2009-03-05"
-original_published_date: "2009-03-31"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2009-145"
-entry_into_force_date: "2010-06-12"
-jci_1_3: "jci1.3:c:BWBR0002965&z=2010-06-12&g=2010-06-12"
-jci_1_0: "1.0:c:BWBR0002965&g=2010-06-12"
-citeertitel_status: "officieel"
-short_title: "Besluit ongeregeld luchtvervoer"
-signed_date: "2009-03-05"
-entry_into_force: "2010-06-12"
+publicatiedatum: 2010-06-12
+laatste_update: 2010-06-12
+status: geldig
+toestand: 2010-06-12
+bron: "https://wetten.overheid.nl/BWBR0002965"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 2 mei 1975, houdende regels inzake het ongeregeld luchtvervoer
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 7 april 1975, nr. Jur/L 21 811, Rijksluchtvaartdienst;
-
-Gelet op [artikel 76, eerste lid onder **k** en **l**, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=76);
-
-De Raad van State gehoord (advies van 16 april 1975, nr. 17);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 24 april 1975, nr. Jur/L 22 143, Rijksluchtvaartdienst;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -74,7 +44,7 @@ Het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoof
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 #### Richtlijnen
 
@@ -98,21 +68,19 @@ Onze Minister kan nadere regels stellen met betrekking tot het uitvoeren van vlu
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
-
-### Hoofdstuk IV. Slotbepalingen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -120,8 +88,4 @@ Dit besluit kan worden aangeduid als "Besluit ongeregeld luchtvervoer".
 
 ##### Artikel 13
 
-Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het **Staatsblad**, waarin het is geplaatst.
-
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst.

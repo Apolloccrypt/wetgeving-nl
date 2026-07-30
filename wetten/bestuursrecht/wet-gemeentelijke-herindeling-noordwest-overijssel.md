@@ -1,44 +1,18 @@
 ---
 title: "Wet van 15 juni 1972, tot gemeentelijke herindeling van Noordwest-Overijssel"
+citeertitel: "Wet gemeentelijke herindeling Noordwest-Overijssel"
 identifier: "BWBR0002826"
-country: "nl"
-rank: "wet"
-publication_date: "1972-09-06"
-last_updated: "1972-09-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002826"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "349633"
-version_id: "515212"
-internal_id: "C515211"
-label_id: "342324"
-dtd_version: "2.0"
-original_entry_into_force: "1972-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002826/1972-09-06/0"
-intitule_bron: "Stb.1972-449"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-06-15"
-intitule_status: "goed"
-original_publication: "Stb.1972-449"
-original_signed_date: "1972-06-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "10697"
-entry_into_force_date: "1972-09-06"
-entry_into_force_dossier: "10697"
-jci_1_3: "jci1.3:c:BWBR0002826&z=1972-09-06&g=1972-09-06"
-jci_1_0: "1.0:c:BWBR0002826&g=1972-09-06"
-citeertitel_status: "officieel"
-short_title: "Wet gemeentelijke herindeling Noordwest-Overijssel"
-signed_date: "1972-06-15"
-entry_into_force: "1972-09-06"
+publicatiedatum: 1972-09-06
+laatste_update: 1972-09-06
+status: geldig
+toestand: 1972-09-06
+bron: "https://wetten.overheid.nl/BWBR0002826"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 15 juni 1972, tot gemeentelijke herindeling van Noordwest-Overijssel
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeentelijke indeling van Noordwest-Overijssel te herzien;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -176,7 +150,7 @@ De nieuwe gemeente Brederwiede wordt als volgt begrensd: van het snijpunt van de
 
 5. Het indelen in stemdistricten voor de in het eerste lid bedoelde verkiezing van het gebied der nieuwe gemeenten Steenwijk, IJsselham en Brederwiede, het benoemen van de leden en de plaatsvervangende leden van de hoofdstembureaus en het benoemen van de leden en de plaatsvervangende leden van de stembureaus voor deze verkiezing, geschieden vóór een door Gedeputeerde Staten van Overijssel te bepalen datum door burgemeester en wethouders van onderscheidenlijk de op te heffen gemeenten Steenwijk, Oldemarkt en Vollenhove.
 
-6. [Artikel H 17 van de Kieswet](onbekend) blijft bij de in het eerste lid bedoelde verkiezing buiten toepassing.
+6. Artikel H 17 van de Kieswet blijft bij de in het eerste lid bedoelde verkiezing buiten toepassing.
 
 7. Voor zover met betrekking tot de verkiezing van de leden van de raden der nieuwe gemeenten Steenwijk, IJsselham en Brederwiede ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, door burgemeester en wethouders of door de burgemeester, geschiedt dit door de raad, burgemeester en wethouders of de burgemeester van onderscheidenlijk de op te heffen gemeenten Steenwijk, Oldemarkt en Vollenhove.
 
@@ -212,7 +186,7 @@ Met ingang van de datum van herindeling gaan de onderwijzers, werkzaam aan de op
 
 De eden of beloften, in verband met hun ambt door deze ambtenaren afgelegd, worden geacht mede op die voorlopige dienstvervulling betrekking te hebben. Voor de toepassing van dit artikel worden onder ambtenaren mede begrepen personen in dienst van de op te heffen gemeenten op arbeidsovereenkomst naar burgerlijk recht werkzaam.
 
-2. Binnen zes maanden na de datum van herindeling neemt het bevoegde gezag in de nieuwe gemeenten Steenwijk, IJsselham en Brederwiede ten aanzien van de in het vorige lid onder **a**, **b** en **c** bedoelde ambtenaren één van de volgende beslissingen:
+2. Binnen zes maanden na de datum van herindeling neemt het bevoegde gezag in de nieuwe gemeenten Steenwijk, IJsselham en Brederwiede ten aanzien van de in het vorige lid onder *a*, *b* en *c* bedoelde ambtenaren één van de volgende beslissingen:
 
 - A. dat, en in welke rang en op welke voet hij in dienst van de nieuwe gemeente blijft;
 
@@ -254,17 +228,17 @@ Aan de ambtenaren, die door toepassing van [artikel 20](https://wetten.overheid.
 
 - a. hun overeenkomstig de desbetreffende bezoldigingsregeling vast te stellen bezoldiging voor de betrekking, waarin zij in de nieuwe gemeente worden benoemd;
 
-- b. de bezoldiging, welke zij krachtens de op de dag, voorafgaande aan de datum van herindeling, voor hen geldende bezoldigingsregeling in de betrekking, onderscheidenlijk betrekkingen van burgemeester, secretaris en ontvanger genoten, een en ander met dien verstande, dat het bepaalde in [artikel 4, onder **b**, van het Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326&artikel=4) van overeenkomstige toepassing is.
+- b. de bezoldiging, welke zij krachtens de op de dag, voorafgaande aan de datum van herindeling, voor hen geldende bezoldigingsregeling in de betrekking, onderscheidenlijk betrekkingen van burgemeester, secretaris en ontvanger genoten, een en ander met dien verstande, dat het bepaalde in [artikel 4, onder *b*, van het Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326&artikel=4) van overeenkomstige toepassing is.
 
-2. Indien en zolang de in het vorige lid onder **a** bedoelde bezoldiging lager is dan die, bedoeld onder **b**, genieten de in het vorige lid bedoelde personen een persoonlijke toelage, gelijk aan het verschil. Deze, door de nieuwe gemeente uit te betalen toelage, wordt als deel hunner bezoldiging aangemerkt en komt ten laste van Hoofdstuk VII der rijksbegroting.
+2. Indien en zolang de in het vorige lid onder *a* bedoelde bezoldiging lager is dan die, bedoeld onder *b*, genieten de in het vorige lid bedoelde personen een persoonlijke toelage, gelijk aan het verschil. Deze, door de nieuwe gemeente uit te betalen toelage, wordt als deel hunner bezoldiging aangemerkt en komt ten laste van Hoofdstuk VII der rijksbegroting.
 
 ### Hoofdstuk VII. Voorzieningen in verband met de toepassing van enkele administratieve wetten
 
 ##### Artikel 28
 
-1. Voor zover de vaststelling, bedoeld in artikel 55**ter**, eerste lid, onderscheidenlijk tweede lid, van de Lager-onderwijswet 1920 voor de openbare scholen, gelegen in gebied van een op te heffen gemeente, op de datum van herindeling voor enig op die datum verstreken jaar, onderscheidenlijk vijfjarig tijdvak, nog niet heeft plaatsgehad, geschiedt zij door de raad van de nieuwe gemeente naar de grondslagen, die in de opgeheven gemeenten golden.
+1. Voor zover de vaststelling, bedoeld in artikel 55*ter*, eerste lid, onderscheidenlijk tweede lid, van de Lager-onderwijswet 1920 voor de openbare scholen, gelegen in gebied van een op te heffen gemeente, op de datum van herindeling voor enig op die datum verstreken jaar, onderscheidenlijk vijfjarig tijdvak, nog niet heeft plaatsgehad, geschiedt zij door de raad van de nieuwe gemeente naar de grondslagen, die in de opgeheven gemeenten golden.
 
-2. Het vorige lid is van overeenkomstige toepassing indien de vaststelling, bedoeld in artikel 103, tweede lid, en artikel 103**bis**, onderscheidenlijk artikel 103, derde lid, van de Lager-onderwijswet 1920 voor in het gebied van een op te heffen gemeente gelegen bijzondere scholen voor enig op de datum van herindeling verstreken jaar, onderscheidenlijk vijfjarig tijdvak, nog niet heeft plaats gehad. De hieruit voortvloeiende inkomsten of uitgaven komen ten bate of ten laste van de nieuwe gemeente.
+2. Het vorige lid is van overeenkomstige toepassing indien de vaststelling, bedoeld in artikel 103, tweede lid, en artikel 103*bis*, onderscheidenlijk artikel 103, derde lid, van de Lager-onderwijswet 1920 voor in het gebied van een op te heffen gemeente gelegen bijzondere scholen voor enig op de datum van herindeling verstreken jaar, onderscheidenlijk vijfjarig tijdvak, nog niet heeft plaats gehad. De hieruit voortvloeiende inkomsten of uitgaven komen ten bate of ten laste van de nieuwe gemeente.
 
 ##### Artikel 29
 
@@ -274,11 +248,11 @@ Aan de ambtenaren, die door toepassing van [artikel 20](https://wetten.overheid.
 
 ##### Artikel 30
 
-Voor de scholen, gelegen in een nieuwe gemeente, geldt als het bedrag, bedoeld in artikel 55**bis**, eerste lid, van de Lager-onderwijswet 1920 voor het jaar van herindeling, indien de datum van herindeling ligt op of na 1 maart, het hoogste van de bedragen, die de gemeenten, waartoe de openbare lagere scholen van deze gemeente vóór de datum van herindeling behoorden, ingevolge artikel 55**bis**, eerste lid, voor dat jaar hebben vastgesteld of krachtens het tweede lid van dat artikel geacht worden te hebben vastgesteld. Indien de datum van herindeling ligt vóór 1 maart geldt voor het jaar van herindeling het hoogste van de bedragen, die in het voorafgaande jaar hebben gegolden.
+Voor de scholen, gelegen in een nieuwe gemeente, geldt als het bedrag, bedoeld in artikel 55*bis*, eerste lid, van de Lager-onderwijswet 1920 voor het jaar van herindeling, indien de datum van herindeling ligt op of na 1 maart, het hoogste van de bedragen, die de gemeenten, waartoe de openbare lagere scholen van deze gemeente vóór de datum van herindeling behoorden, ingevolge artikel 55*bis*, eerste lid, voor dat jaar hebben vastgesteld of krachtens het tweede lid van dat artikel geacht worden te hebben vastgesteld. Indien de datum van herindeling ligt vóór 1 maart geldt voor het jaar van herindeling het hoogste van de bedragen, die in het voorafgaande jaar hebben gegolden.
 
 ##### Artikel 31
 
-1. Voor het op de datum van herindeling lopende vijfjarige tijdvak wordt voor de extra-vergoeding, bedoeld in artikel 101, vierde lid, der Lager-onderwijswet 1920, het bedrag der overschrijding berekend naar de som van enerzijds de gemiddelden der per leerling omgerekende bedragen der overschrijding, zoals deze door de gemeenten, waartoe de in de nieuwe gemeente gelegen openbare lagere scholen vóór het jaar van herindeling behoorden, ingevolge artikel 55**ter** , eerste lid, der Lager-onderwijswet 1920 voor de vóór het jaar van herindeling vallende jaren van dat vijfjarige tijdvak zijn vastgesteld en anderzijds de per leerling omgerekende bedragen der overschrijding gedurende de resterende jaren van dat vijfjarige tijdvak.
+1. Voor het op de datum van herindeling lopende vijfjarige tijdvak wordt voor de extra-vergoeding, bedoeld in artikel 101, vierde lid, der Lager-onderwijswet 1920, het bedrag der overschrijding berekend naar de som van enerzijds de gemiddelden der per leerling omgerekende bedragen der overschrijding, zoals deze door de gemeenten, waartoe de in de nieuwe gemeente gelegen openbare lagere scholen vóór het jaar van herindeling behoorden, ingevolge artikel 55*ter* , eerste lid, der Lager-onderwijswet 1920 voor de vóór het jaar van herindeling vallende jaren van dat vijfjarige tijdvak zijn vastgesteld en anderzijds de per leerling omgerekende bedragen der overschrijding gedurende de resterende jaren van dat vijfjarige tijdvak.
 
 2. Bij de toepassing van artikel 73, derde lid, van de Kleuteronderwijswet voor het op de datum van herindeling lopende vijfjarige tijdvak wordt ten behoeve van de besturen van de in de nieuwe gemeente Steenwijk gelegen bijzondere kleuterscholen voor de extra-vergoeding het bedrag der overschrijding berekend naar de som van enerzijds de gemiddelden der per lokaal en per kleuter omgerekende bedragen der overschrijding, zoals deze door de gemeenten, waartoe de in de nieuwe gemeente Steenwijk gelegen openbare kleuterscholen vóór het jaar van herindeling behoorden, ingevolge artikel 47, eerste lid, der Kleuteronderwijswet voor de vóór het jaar van herindeling vallende jaren van dat vijfjarige tijdvak zijn vastgesteld en anderzijds de per lokaal en per kleuter omgerekende bedragen der overschrijding gedurende de resterende jaren van dat vijfjarige tijdvak.
 
@@ -286,7 +260,7 @@ Voor de scholen, gelegen in een nieuwe gemeente, geldt als het bedrag, bedoeld i
 
 ##### Artikel 32
 
-De raad van de nieuwe gemeente stelt voor het jaar, waarin de datum van herindeling valt, het getal wekelijkse lesuren vast, bedoeld in artikel 101**bis**, eerste lid, van de Lager-onderwijswet 1920, indien de datum van herindeling ligt vóór 1 maart. Is de datum van herindeling een latere datum, dan blijven de reeds vastgestelde getallen van kracht en vindt de vaststelling van de aan de besturen van de bijzondere scholen uit te keren vergoeding voor beloning van vakonderwijzers plaats als had geen herindeling plaats gevonden. Zijn in het laatstgenoemde geval op de datum van herindeling de vorenbedoelde wekelijkse lesuren nog niet vastgesteld, dan vindt deze vaststelling alsnog plaats door de raad van de nieuwe gemeente.
+De raad van de nieuwe gemeente stelt voor het jaar, waarin de datum van herindeling valt, het getal wekelijkse lesuren vast, bedoeld in artikel 101*bis*, eerste lid, van de Lager-onderwijswet 1920, indien de datum van herindeling ligt vóór 1 maart. Is de datum van herindeling een latere datum, dan blijven de reeds vastgestelde getallen van kracht en vindt de vaststelling van de aan de besturen van de bijzondere scholen uit te keren vergoeding voor beloning van vakonderwijzers plaats als had geen herindeling plaats gevonden. Zijn in het laatstgenoemde geval op de datum van herindeling de vorenbedoelde wekelijkse lesuren nog niet vastgesteld, dan vindt deze vaststelling alsnog plaats door de raad van de nieuwe gemeente.
 
 ##### Artikel 33
 
@@ -308,7 +282,7 @@ De kinderen, die op de dag, voorafgaande aan de datum van herindeling, waren ing
 
 ##### Artikel 36
 
-Kosten van bijstand als bedoeld in de [artikelen 16](onbekend), [17](onbekend) en [18 van de Algemene Bijstandswet](onbekend) ten behoeve van personen, die op of vóór de datum van herindeling woonachtig zijn of geweest zijn in gebied, dat deel gaat uitmaken van een nieuwe gemeente, komen met ingang van die datum ten laste van die nieuwe gemeente.
+Kosten van bijstand als bedoeld in de artikelen 16, 17 en 18 van de Algemene Bijstandswet ten behoeve van personen, die op of vóór de datum van herindeling woonachtig zijn of geweest zijn in gebied, dat deel gaat uitmaken van een nieuwe gemeente, komen met ingang van die datum ten laste van die nieuwe gemeente.
 
 ##### Artikel 37
 
@@ -324,7 +298,7 @@ Kosten van bijstand als bedoeld in de [artikelen 16](onbekend), [17](onbekend) e
 
 ##### Artikel 39
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 40
 
@@ -336,7 +310,7 @@ De notaris ter standplaats de gemeente Oldemarkt zal van de datum van herindelin
 
 ##### Artikel 42
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 43
 
@@ -344,7 +318,7 @@ De in [artikel 2, eerste lid, van de Brandweerwet](https://wetten.overheid.nl/jc
 
 ##### Artikel 44
 
-Binnen twee jaar na de datum van herindeling berichten de raden van de nieuwe gemeenten Steenwijk, IJsselham en Brederwiede aan Gedeputeerde Staten van Overijssel gemotiveerd, of en zo ja op welke wijze uitvoering is gegeven aan de [artikelen 61-64**f** der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61).
+Binnen twee jaar na de datum van herindeling berichten de raden van de nieuwe gemeenten Steenwijk, IJsselham en Brederwiede aan Gedeputeerde Staten van Overijssel gemotiveerd, of en zo ja op welke wijze uitvoering is gegeven aan de [artikelen 61-64*f* der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61).
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -354,6 +328,4 @@ Geschillen omtrent de toepassing van deze wet, waarvan de beslissing niet aan an
 
 ##### Artikel 46
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.

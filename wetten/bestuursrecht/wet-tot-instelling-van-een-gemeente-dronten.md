@@ -1,44 +1,18 @@
 ---
 title: "Wet van 25 maart 1971, tot instelling van een gemeente Dronten"
+citeertitel: "Wet tot instelling van een gemeente Dronten"
 identifier: "BWBR0002754"
-country: "nl"
-rank: "wet"
-publication_date: "1985-07-05"
-last_updated: "1985-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002754"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "315363"
-version_id: "457662"
-internal_id: "C457661"
-label_id: "309074"
-dtd_version: "2.0"
-original_entry_into_force: "1971-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002754/1985-07-05/0"
-intitule_bron: "Stb.1971-342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-03-25"
-intitule_status: "goed"
-original_publication: "Stb.1971-342"
-original_signed_date: "1971-03-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "10937"
-entry_into_force_date: "1971-06-03"
-entry_into_force_dossier: "10937"
-jci_1_3: "jci1.3:c:BWBR0002754&z=1985-07-05&g=1985-07-05"
-jci_1_0: "1.0:c:BWBR0002754&g=1985-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet tot instelling van een gemeente Dronten"
-signed_date: "1971-03-25"
-entry_into_force: "1971-06-03"
+publicatiedatum: 1971-06-03
+laatste_update: 1985-07-05
+status: geldig
+toestand: 1985-07-05
+bron: "https://wetten.overheid.nl/BWBR0002754"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 25 maart 1971, tot instelling van een gemeente Dronten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot instelling van een gemeente Dronten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Instelling van een gemeente
 
@@ -52,7 +26,7 @@ Het gebied van de gemeente Dronten wordt als volgt bepaald:
 
 uitgaande van het punt van samenkomst van de grens tussen de gemeente Kampen (provincie Overijssel) en de gemeente Doornspijk (provincie Gelderland), waarvan de coördinaten in het stelsel van de rijksdriehoekmeting zijn:
 
-X = + 32384,16 en Y = + 40495,55, gelegen in het Veluwemeer wordt de grens, gaande in algemeen zuidelijke richting, gevormd door de grens tussen de gemeenten Doornspijk, Elburg en Ermelo en het openbaar lichaam "Zuidelijke IJsselmeerpolders", vastgesteld bij wet van 9 maart 1968, **Stb.** 118, houdende "wijziging en vaststelling van de grens tussen de gemeenten Doornspijk, Elburg, Ermelo, Harderwijk, Putten en Nijkerk en het openbaar lichaam "Zuidelijke IJsselmeerpolders", tevens wijziging en vaststelling van de grens tussen de provincie Gelderland en dat openbaar lichaam, tot het punt, waarvan de coördinaten in het stelsel van de rijksdriehoekmeting zijn:
+X = + 32384,16 en Y = + 40495,55, gelegen in het Veluwemeer wordt de grens, gaande in algemeen zuidelijke richting, gevormd door de grens tussen de gemeenten Doornspijk, Elburg en Ermelo en het openbaar lichaam "Zuidelijke IJsselmeerpolders", vastgesteld bij wet van 9 maart 1968, *Stb.* 118, houdende "wijziging en vaststelling van de grens tussen de gemeenten Doornspijk, Elburg, Ermelo, Harderwijk, Putten en Nijkerk en het openbaar lichaam "Zuidelijke IJsselmeerpolders", tevens wijziging en vaststelling van de grens tussen de provincie Gelderland en dat openbaar lichaam, tot het punt, waarvan de coördinaten in het stelsel van de rijksdriehoekmeting zijn:
 
 X = + 20257,24 en Y = + 24988,88, gelegen in het Veluwemeer.
 
@@ -96,11 +70,11 @@ X = + 13573,73 ; Y = + 45446,35
 
 X = + 12299,72 ; Y = + 50112,69,
 
-waarvan laatstgenoemde coördinaten het punt bepalen, gelegen in het IJsselmeer op de grens van het gebied van het openbaar lichaam "Zuidelijke IJsselmeerpolders", vastgesteld krachtens artikel 2 van de Wet openbaar lichaam "Zuidelijke IJsselmeerpolders" (**Stb.** 1955, 521) bij Koninklijk besluit van 29 december 1955, nr. 21 (**Stcrt.** 1956, 7).
+waarvan laatstgenoemde coördinaten het punt bepalen, gelegen in het IJsselmeer op de grens van het gebied van het openbaar lichaam "Zuidelijke IJsselmeerpolders", vastgesteld krachtens artikel 2 van de Wet openbaar lichaam "Zuidelijke IJsselmeerpolders" (*Stb.* 1955, 521) bij Koninklijk besluit van 29 december 1955, nr. 21 (*Stcrt.* 1956, 7).
 
 Vanaf laatstgenoemd punt volgt de grens, gaande aanvankemeen noordoostelijke richting, de grens van het openbaar lichaam "Zuidelijke IJsselmeerpolders" tot het punt van samenkomst met de grens van de gemeente Noordoostpolder.
 
-Vanaaf laatstgenoemd punt volgt de grens, gaande aanvankekelijk in algemeen zuidoostelijke richting, de grens van de gemeente Noordoostpolder, vastgesteld bij Wet van 19 januari 1962, **Stb.** 11, tot het punt van samenkomst van de grens van deze gemeente met de grens van de gemeente Kampen, welk punt is gelegen in het Ketelmeer.
+Vanaaf laatstgenoemd punt volgt de grens, gaande aanvankekelijk in algemeen zuidoostelijke richting, de grens van de gemeente Noordoostpolder, vastgesteld bij Wet van 19 januari 1962, *Stb.* 11, tot het punt van samenkomst van de grens van deze gemeente met de grens van de gemeente Kampen, welk punt is gelegen in het Ketelmeer.
 
 Vanaf laatstgenoemd punt volgt de grens, gaande aanvankelijk in zuidelijke richting, de grens van de gemeente Kampen, tot het punt van samenkomst van de grens van deze gemeente met de grens van de gemeente Doornspijk, tevens het punt van samenkomst van de grens tussen de provincie Overijssel en de provincie Gelderland, van welk punt de coördinaten het stelsel van de rijksdriehoekmeting zijn X = + 32384,16 en Y = + 40495,55.
 
@@ -112,7 +86,7 @@ Het in artikel 2 omschreven gebied houdt op deel uit te maken van het gebied van
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Rechtskracht voorschriften en uitoefening bevoegdheden
 
@@ -228,9 +202,9 @@ De leidsters, onderwijzers en leraren, werkzaam aan de openbare scholen, welke z
 
 ##### Artikel 25
 
-1. Ten aanzien van de vergoedingen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" over het op de dag van inwerkingtreding van deze wet lopende kalenderjaar, toekomende aan het bestuur van een in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigde bijzondere lagere school, geschiedt de vaststelling, bedoeld in artikel 103, tweede lid, en artikel 103**bis** der Lager-onderwijswet 1920, door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders". De hieruit voortvloeiende inkomsten of uitgaven komen ten bate of ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
+1. Ten aanzien van de vergoedingen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" over het op de dag van inwerkingtreding van deze wet lopende kalenderjaar, toekomende aan het bestuur van een in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigde bijzondere lagere school, geschiedt de vaststelling, bedoeld in artikel 103, tweede lid, en artikel 103*bis* der Lager-onderwijswet 1920, door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders". De hieruit voortvloeiende inkomsten of uitgaven komen ten bate of ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-2. De vaststelling, bedoeld in artikel 55**ter,** eerste lid, der Lager-onderwijswet 1920, over het op de dag van inwerkingtreding van deze wet lopende kalenderjaar, geschiedt ten aanzien van de in dat jaar in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigde openbare lagere scholen, door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
+2. De vaststelling, bedoeld in artikel 55*ter,* eerste lid, der Lager-onderwijswet 1920, over het op de dag van inwerkingtreding van deze wet lopende kalenderjaar, geschiedt ten aanzien van de in dat jaar in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigde openbare lagere scholen, door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
 3. Bij de toepassing van artikel 101, vierde lid, der Lager-onderwijswet 1920 voor het op de dag van inwerkingtreding van deze wet lopende vijfjarige tijdvak wordt de extra-vergoeding bepaald op de som van enerzijds het overschrijdingsbedrag per leerling, berekend over de kalenderjaren vóór de dag van inwerkingtreding van deze wet en anderzijds het overschrijdingsbedrag per leerling in de gemeente Dronten, berekend over de overige jaren van het vijfjarige tijdvak. De hieruit voortvloeiende uitgaven, betrekking hebbende op de kalenderjaren vóór de dag van inwerkingtreding van deze wet, komen ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
@@ -264,7 +238,7 @@ Met betrekking tot zaken, de noodwachtplicht betreffende, vinden de voorschrifte
 
 ##### Artikel 31
 
-Kosten van bijstand, als bedoeld in de [artikelen 16](onbekend), [17](onbekend) en [18 van de Algemene Bijstandswet](onbekend) ten behoeve van personen, die op of vóór de datum van inwerkingtreding dezer wet woonachtig zijn of geweest zijn in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied, komen met ingang van die datum ten laste der gemeente Dronten.
+Kosten van bijstand, als bedoeld in de artikelen 16, 17 en 18 van de Algemene Bijstandswet ten behoeve van personen, die op of vóór de datum van inwerkingtreding dezer wet woonachtig zijn of geweest zijn in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied, komen met ingang van die datum ten laste der gemeente Dronten.
 
 ##### Artikel 32
 
@@ -276,7 +250,7 @@ Het door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" ge
 
 ##### Artikel 34
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 35
 
@@ -284,11 +258,11 @@ Deze wet is niet van invloed op de bevoegdheid van de rechter en op die van proc
 
 ##### Artikel 36
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 37
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -298,6 +272,4 @@ Geschillen omtrent de toepassing van deze wet, waarvan de beslissing niet aan an
 
 ##### Artikel 39
 
-Deze wet treedt in werking met ingang van een door Ons te bepalen dag, met uitzondering van [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&z=1985-07-05&g=1985-07-05) en de artikelen 20 en 22, die in werking treden op de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin deze wet wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van een door Ons te bepalen dag, met uitzondering van [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&z=1985-07-05&g=1985-07-05) en de artikelen 20 en 22, die in werking treden op de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin deze wet wordt geplaatst.

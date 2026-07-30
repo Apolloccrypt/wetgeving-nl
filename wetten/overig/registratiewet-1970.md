@@ -1,54 +1,26 @@
 ---
 title: "Wet van 24 december 1970, houdende regeling van de formaliteit van registratie van akten"
+citeertitel: "Registratiewet 1970"
 identifier: "BWBR0002739"
-country: "nl"
-rank: "wet"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002739"
+categorie: "Overig"
 soort: "wet"
-stam_id: "3003253"
-version_id: "24755442"
-internal_id: "C35420471"
-label_id: "2953854"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002739/2023-01-01/0"
-intitule_bron: "Stb.1970-610"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1970-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2017-518"
-original_signed_date: "2017-12-20"
-original_published_date: "2017-12-28"
-original_effect: "structuurwijziging"
-original_dossier: "34786"
-original_url_id: "stb-2017-518"
-entry_into_force_date: "2017-12-20"
-entry_into_force_dossier: "34786"
-jci_1_3: "jci1.3:c:BWBR0002739&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0002739&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Registratiewet 1970"
-signed_date: "2017-12-20"
-entry_into_force: "2017-12-20"
+publicatiedatum: 2017-12-20
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0002739"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 24 december 1970, houdende regeling van de formaliteit van registratie van akten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de algemene herziening van de registratie- en de zegelbelasting wenselijk is de formaliteit van registratie van akten bij een afzonderlijke wet te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **KNB:** Koninklijke Notariële Beroepsorganisatie als genoemd in [artikel 60 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=60);
+- a. *KNB:* Koninklijke Notariële Beroepsorganisatie als genoemd in [artikel 60 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=60);
 
-- b. **Onze Minister:** Onze Minister van Financiën.
+- b. *Onze Minister:* Onze Minister van Financiën.
 
 2. Onder registratie van akten wordt verstaan:
 
@@ -58,7 +30,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -102,6 +74,18 @@ Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overhe
 
 2. Bij regeling van Onze Minister wordt, na overleg met Onze Minister voor Rechtsbescherming, de wijze waarop de inschrijving geschiedt alsmede de inrichting en de wijze van bijhouding van het repertorium, bedoeld in het eerste lid, bepaald.
 
+##### Artikel 7a
+
+1. De KNB zendt op een bij regeling van Onze Minister te bepalen wijze aan een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst een elektronisch afschrift of elektronische kopie in de gevallen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2023-01-01&g=2023-01-01), van iedere ter registratie aangeboden akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2023-01-01&g=2023-01-01), alsmede van het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2023-01-01&g=2023-01-01).
+
+2. De inspecteur of door Onze Minister aangewezen andere ambtenaren van de rijksbelastingdienst hebben inzage in het door de KNB gehouden register, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2023-01-01&g=2023-01-01), en in het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2023-01-01&g=2023-01-01).
+
+##### Artikel 7b
+
+1. De notaris zendt op verzoek van een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst, op een bij regeling van Onze Minister te bepalen wijze, een elektronische kopie van een aan een notariële akte gehecht stuk (annex) aan deze ambtenaar.
+
+2. De notaris kan op ieder moment eigener beweging een elektronische kopie van een annex als bedoeld in het eerste lid toezenden op de krachtens het eerste lid te bepalen wijze.
+
 ##### Artikel 8
 
 1. De notaris is gehouden aan de inspecteur of een door Onze Minister aangewezen andere ambtenaar van de rijksbelastingdienst:
@@ -110,11 +94,11 @@ Akten als bedoeld in [artikel 1, tweede lid, onderdeel b,](https://wetten.overhe
 
 - b. desgevorderd de onder hem berustende akten en registers ter inzage te verstrekken ter plaatse waar zij zich bevinden;
 
-- c. toe te staan, afschriften van of uittreksels uit de onder letter **b** bedoelde bescheiden te maken, dan wel die bescheiden voor ten hoogste drie dagen tot nader onderzoek onder zich te nemen. De notaris wordt desgevraagd in de gelegenheid gesteld een afschrift van of uittreksel uit de bescheiden te maken.
+- c. toe te staan, afschriften van of uittreksels uit de onder letter *b* bedoelde bescheiden te maken, dan wel die bescheiden voor ten hoogste drie dagen tot nader onderzoek onder zich te nemen. De notaris wordt desgevraagd in de gelegenheid gesteld een afschrift van of uittreksel uit de bescheiden te maken.
 
 2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2023-01-01&g=2023-01-01), genoemde akten, zolang de beschikkers in leven zijn.
 
-3. Voldoening aan de bij het eerste lid omschreven verplichtingen kan gevorderd worden op elke dag, met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (**Stb.** 1964, 314) en de bij of krachtens artikel 3 van die wet daarmede gelijkgestelde dagen, mits tussen des voormiddags negen uur en des namiddags vier uur.
+3. Voldoening aan de bij het eerste lid omschreven verplichtingen kan gevorderd worden op elke dag, met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (*Stb.* 1964, 314) en de bij of krachtens artikel 3 van die wet daarmede gelijkgestelde dagen, mits tussen des voormiddags negen uur en des namiddags vier uur.
 
 4. Wordt de toegang tot de plaats, met inbegrip van een woning, waar de akten en registers zich bevinden of redelijkerwijs vermoed kunnen worden zich te bevinden, geweigerd, dan is de inspecteur of de in het eerste lid bedoelde andere ambtenaar bevoegd zich die toegang met behulp van de sterke arm te verschaffen.
 
@@ -146,7 +130,7 @@ De Staat is aansprakelijk voor de schade wegens verlies of beschadiging van een 
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -160,6 +144,12 @@ Onze Minister bepaalt:
 
 - d. de wijze waarop blijkt dat een akte is geregistreerd.
 
+##### Artikel 13a
+
+1. Op de taken, genoemd in deze wet en de daarop berustende bepalingen, van de KNB zijn de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) en [41, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) van overeenkomstige toepassing.
+
+2. De kosten die de KNB maakt ten behoeve van de uitoefening van de in deze wet neergelegde taken komen, volgens bij regeling van Onze Minister te stellen regels, ten laste van Onze Minister.
+
 ##### Artikel 14
 
 1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2023-01-01&g=2023-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2023-01-01&g=2023-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
@@ -168,34 +158,10 @@ Onze Minister bepaalt:
 
 3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2023-01-01&g=2023-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
 
-4. De [afdelingen 2](onbekend) en [3 van hoofdstuk IX van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=3) zijn van overeenkomstige toepassing.
+4. De afdelingen 2 en [3 van hoofdstuk IX van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=3) zijn van overeenkomstige toepassing.
 
 ##### Artikel 15
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 2. Zij kan worden aangehaald als 'Registratiewet 1970'.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-1. De KNB zendt op een bij regeling van Onze Minister te bepalen wijze aan een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst een elektronisch afschrift of elektronische kopie in de gevallen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2023-01-01&g=2023-01-01), van iedere ter registratie aangeboden akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2023-01-01&g=2023-01-01), alsmede van het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2023-01-01&g=2023-01-01).
-
-2. De inspecteur of door Onze Minister aangewezen andere ambtenaren van de rijksbelastingdienst hebben inzage in het door de KNB gehouden register, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2023-01-01&g=2023-01-01), en in het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2023-01-01&g=2023-01-01).
-
-##### Artikel 13a
-
-1. Op de taken, genoemd in deze wet en de daarop berustende bepalingen, van de KNB zijn de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) en [41, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) van overeenkomstige toepassing.
-
-2. De kosten die de KNB maakt ten behoeve van de uitoefening van de in deze wet neergelegde taken komen, volgens bij regeling van Onze Minister te stellen regels, ten laste van Onze Minister.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7b
-
-1. De notaris zendt op verzoek van een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst, op een bij regeling van Onze Minister te bepalen wijze, een elektronische kopie van een aan een notariële akte gehecht stuk (annex) aan deze ambtenaar.
-
-2. De notaris kan op ieder moment eigener beweging een elektronische kopie van een annex als bedoeld in het eerste lid toezenden op de krachtens het eerste lid te bepalen wijze.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

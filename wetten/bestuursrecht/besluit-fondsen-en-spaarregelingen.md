@@ -1,52 +1,22 @@
 ---
 title: "Besluit van 23 januari 1973, ter uitvoering van artikel 1637s, tweede lid, onder c en d, Burgerlijk Wetboek"
+citeertitel: "Besluit fondsen en spaarregelingen"
 identifier: "BWBR0002868"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-09-23"
-last_updated: "2017-09-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002868"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "453613"
-version_id: "669442"
-internal_id: "C669441"
-label_id: "441804"
-dtd_version: "2.0"
-original_entry_into_force: "1973-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002868/2017-09-23/0"
-intitule_bron: "Stb.1973-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1973-01-23"
-intitule_status: "goed"
-original_publication: "Stb.1973-33"
-original_signed_date: "1973-01-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1973-01-01"
-jci_1_3: "jci1.3:c:BWBR0002868&z=2017-09-23&g=2017-09-23"
-jci_1_0: "1.0:c:BWBR0002868&g=2017-09-23"
-citeertitel_status: "officieel"
-short_title: "Besluit fondsen en spaarregelingen"
-signed_date: "1973-01-23"
-entry_into_force: "1973-01-01"
+publicatiedatum: 1973-01-01
+laatste_update: 2017-09-23
+status: geldig
+toestand: 2017-09-23
+bron: "https://wetten.overheid.nl/BWBR0002868"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 23 januari 1973, ter uitvoering van artikel 1637s, tweede lid, onder c en d, Burgerlijk Wetboek
-
-Op de gemeenschappelijke voordracht van Onze Ministers van Justitie en van Sociale Zaken van 31 augustus 1972, Stafafdeling Wetgeving Privaatrecht, nr. 422/672.
-
-Gelet op [artikel 1637s, tweede lid, onder c en d, van het Burgerlijk Wetboek](onbekend);
-
-Gezien het advies van de Sociaal-Economische Raad van 21 april 1972, nr. 4;
-
-De Raad van State gehoord (advies van 1 november 1972, nr. 21);
-
-Gezien het nader rapport van Onze voornoemde Ministers van 2 januari 1973, Stafafdeling Wetgeving Privaatrecht, nr. 652/672 en van 9 januari 1973, Directoraat-Generaal voor Algemene Beleidsaangelegenheden, Directie Bedrijfsorganisatie, Ondernemingsraden en Bezitsvorming, Afdeling Bezitsvorming, No. 60093;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Fondsen
 
-## Titel 1. Algemeen
+### Titel 1. Algemeen
 
 ##### Artikel 1
 
@@ -58,7 +28,7 @@ Hebben goedgevonden en verstaan:
 
 4. Betreft het een ander fonds dan bedoeld in het tweede of derde lid, dan voldoen de statuten en reglementen aan de voorschriften gesteld in [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&z=2017-09-23&g=2017-09-23).
 
-## Titel 2. Fondsen ter behartiging van algemene belangen van werknemers of werkgevers
+### Titel 2. Fondsen ter behartiging van algemene belangen van werknemers of werkgevers
 
 ##### Artikel 1a
 
@@ -68,7 +38,7 @@ hetzij een bepaling in een collectieve arbeidsovereenkomst;
 
 hetzij een algemeen verbindend verklaarde bepaling van een collectieve arbeidsovereenkomst;
 
-hetzij een regeling krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=5) of [artikel 6 van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=6) (**Stb.** 1970, 69).
+hetzij een regeling krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=5) of [artikel 6 van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=6) (*Stb.* 1970, 69).
 
 2. Uit de in het eerste lid bedoelde bepaling blijkt tevens:
 
@@ -126,7 +96,7 @@ De statuten of reglementen van het fonds moeten voorts bepalingen inhouden betre
 
 De statuten moeten bepalen dat de reglementen, alsmede de in de statuten en reglementen aangebrachte wijzigingen niet in werking zullen treden alvorens een volledig exemplaar van die stukken onderscheidenlijk van de wijzigingen daarin, door het bestuur ondertekend, voor een ieder ter inzage is neergelegd ter griffie van de rechtbank in het arrondissement waarin het fonds is gevestigd.
 
-## Titel 3. Andere fondsen
+### Titel 3. Andere fondsen
 
 ##### Artikel 2
 
@@ -188,11 +158,11 @@ De statuten moeten voorts bepalingen inhouden betreffende:
 
 - a. door hem zelf ingeval de dienstbetrekking is beëindigd en hij
 
-- 1e. gaat emigreren;
+   - 1e. gaat emigreren;
 
-- 2e. voor meer dan 45% arbeidsongeschikt is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
+   - 2e. voor meer dan 45% arbeidsongeschikt is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
 
-- 3e. de leeftijd van 60 jaar heeft bereikt;
+   - 3e. de leeftijd van 60 jaar heeft bereikt;
 
 - b. door zijn rechtverkrijgenden na zijn overlijden.
 
@@ -240,13 +210,13 @@ Een regeling tot sparen als bedoeld in [artikel 631, derde lid, onder d, van Boe
 
 - a. door de deelnemer zelf ingeval de dienstbetrekking is beëindigd en
 
-- 1e. hij gaat emigreren;
+   - 1e. hij gaat emigreren;
 
-- 2e. hij voor meer dan 45% arbeidsongeschikt is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
+   - 2e. hij voor meer dan 45% arbeidsongeschikt is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
 
-- 3e. hij de leeftijd van 60 jaar heeft bereikt;
+   - 3e. hij de leeftijd van 60 jaar heeft bereikt;
 
-- 4e. de werkgever bij wie de deelnemer in dienst was zijn onderneming heeft gestaakt en deze werkgever tevens degene is die krachtens een ontheffing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=15&z=2017-09-23&g=2017-09-23) het tegoed beheert;
+   - 4e. de werkgever bij wie de deelnemer in dienst was zijn onderneming heeft gestaakt en deze werkgever tevens degene is die krachtens een ontheffing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=15&z=2017-09-23&g=2017-09-23) het tegoed beheert;
 
 - b. door zijn rechtverkrijgenden na het overlijden van de deelnemer.
 
@@ -266,16 +236,14 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van de betrokk
 
 ##### Artikel 16
 
-Een bij de inwerkingtreding van dit besluit bestaand fonds als bedoeld in [artikel 1637**s**, tweede lid, onder **c**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s), dat voldoet aan de voorwaarden gesteld bij het Koninklijk besluit van 31 maart 1908, **Stb.** 94, doch niet aan [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&z=2017-09-23&g=2017-09-23) van dit besluit, wordt niettemin tot 1 januari 1974 geacht aan dit hoofdstuk te voldoen.
+Een bij de inwerkingtreding van dit besluit bestaand fonds als bedoeld in [artikel 1637*s*, tweede lid, onder *c*, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s), dat voldoet aan de voorwaarden gesteld bij het Koninklijk besluit van 31 maart 1908, *Stb.* 94, doch niet aan [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&z=2017-09-23&g=2017-09-23) van dit besluit, wordt niettemin tot 1 januari 1974 geacht aan dit hoofdstuk te voldoen.
 
 ##### Artikel 17
 
-Het Koninklijk besluit van 31 maart 1908, **Stb.** 94, wordt ingetrokken.
+Het Koninklijk besluit van 31 maart 1908, *Stb.* 94, wordt ingetrokken.
 
 ##### Artikel 18
 
 1. Dit besluit kan worden aangehaald als: Besluit fondsen en spaarregelingen.
 
-2. Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot 1 januari 1973.
-
-Lasten en bevelen, dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+2. Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot 1 januari 1973.

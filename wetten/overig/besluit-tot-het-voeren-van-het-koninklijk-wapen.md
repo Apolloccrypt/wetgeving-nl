@@ -1,40 +1,18 @@
 ---
 title: "Besluit van 23 april 1980, tot het voeren van het Koninklijk wapen"
+citeertitel: "Besluit tot het voeren van het Koninklijk wapen"
 identifier: "BWBR0003312"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "1980-05-19"
-last_updated: "1980-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003312"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "1059293"
-version_id: "1554802"
-internal_id: "C1554801"
-label_id: "1026134"
-dtd_version: "2.0"
-original_entry_into_force: "1980-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003312/1980-05-19/0"
-intitule_bron: "Stb.1980-206"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-04-23"
-intitule_status: "goed"
-original_publication: "Stb.1980-206"
-original_signed_date: "1980-04-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1980-05-19"
-jci_1_3: "jci1.3:c:BWBR0003312&z=1980-05-19&g=1980-05-19"
-jci_1_0: "1.0:c:BWBR0003312&g=1980-05-19"
-citeertitel_status: "officieel"
-short_title: "Besluit tot het voeren van het Koninklijk wapen"
-signed_date: "1980-04-23"
-entry_into_force: "1980-05-19"
+publicatiedatum: 1980-05-19
+laatste_update: 1980-05-19
+status: geldig
+toestand: 1980-05-19
+bron: "https://wetten.overheid.nl/BWBR0003312"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 23 april 1980, tot het voeren van het Koninklijk wapen
-
-Hebben besloten en besluiten:
-
-Met intrekking van Onze Besluiten van 10 juli 1907 (**Stb.** 181) en van 13 juli 1909 (**Stb.** 271) te bepalen als volgt:
 
 ##### Artikel 1
 
@@ -76,6 +54,4 @@ Dit wapen voorzien van zijn uitwendige versierselen kan worden geplaatst op een 
 
 ##### Artikel 7
 
-Waar in Koninklijke Besluiten wordt verwezen naar de Koninklijke Besluiten van 10 juli 1907 (**Stb.** 181) en van 13 juli 1909 (**Stb.** 271) wordt deze verwijzing geacht te geschieden naar dit besluit.
-
-Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad**, in de **Nederlandse Staatscourant** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst.
+Waar in Koninklijke Besluiten wordt verwezen naar de Koninklijke Besluiten van 10 juli 1907 (*Stb.* 181) en van 13 juli 1909 (*Stb.* 271) wordt deze verwijzing geacht te geschieden naar dit besluit.

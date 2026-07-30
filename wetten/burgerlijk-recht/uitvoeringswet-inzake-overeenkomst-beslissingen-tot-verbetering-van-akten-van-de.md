@@ -1,47 +1,22 @@
 ---
 title: "Wet van 17 februari 1972, houdende uitvoering van de op 10 september 1964 te Parijs ondertekende Overeenkomst inzake beslissingen tot verbetering van akten van de burgerlijke stand, met Bijlagen en aanvulling, in verband daarmede, van artikel 29 van Boek 1 van het Burgerlijk Wetboek"
+citeertitel: "Uitvoeringswet inzake Overeenkomst beslissingen tot verbetering van akten van de burgerlijke stand"
 identifier: "BWBR0002800"
-country: "nl"
-rank: "wet"
-publication_date: "2004-07-01"
-last_updated: "2004-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002800"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1778183"
-version_id: "2643002"
-internal_id: "C2643001"
-label_id: "1733944"
-dtd_version: "2.0"
-original_entry_into_force: "1972-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002800/2004-07-01/0"
-intitule_bron: "Stb.1972-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-02-17"
-intitule_status: "goed"
-original_publication: "Stb.1972-85"
-original_signed_date: "1972-02-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "11121"
-entry_into_force_date: "1972-05-21"
-jci_1_3: "jci1.3:c:BWBR0002800&z=2004-07-01&g=2004-07-01"
-jci_1_0: "1.0:c:BWBR0002800&g=2004-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet inzake Overeenkomst beslissingen tot verbetering van akten van de burgerlijke stand"
-signed_date: "1972-02-17"
-entry_into_force: "1972-05-21"
+publicatiedatum: 1972-05-21
+laatste_update: 2004-07-01
+status: geldig
+toestand: 2004-07-01
+bron: "https://wetten.overheid.nl/BWBR0002800"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 17 februari 1972, houdende uitvoering van de op 10 september 1964 te Parijs ondertekende Overeenkomst inzake beslissingen tot verbetering van akten van de burgerlijke stand, met Bijlagen en aanvulling, in verband daarmede, van artikel 29 van Boek 1 van het Burgerlijk Wetboek
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er aanleiding is voorzieningen te treffen ter uitvoering van de op 10 september 1964 te Parijs ondertekende Overeenkomst inzake beslissingen tot verbetering van akten van de burgerlijke stand, met Bijlagen, en artikel 29 van Boek 1 van het Burgerlijk Wetboek aan de in deze Overeenkomst vervatte regeling aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-In deze wet wordt onder "de Overeenkomst" verstaan, de op 10 september 1964 te Parijs ondertekende Overeenkomst inzake beslissingen tot verbetering van akten van de burgerlijke stand, met Bijlagen (**Trb.** 1965, 89).
+In deze wet wordt onder "de Overeenkomst" verstaan, de op 10 september 1964 te Parijs ondertekende Overeenkomst inzake beslissingen tot verbetering van akten van de burgerlijke stand, met Bijlagen (*Trb.* 1965, 89).
 
 ##### Artikel 2
 
@@ -79,10 +54,8 @@ Indien Onze Minister van oordeel is, dat de tenuitvoerlegging van de verbetering
 
 ##### Artikel 10
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 11
 
 Deze wet treedt in werking met ingang van de dag waarop de Overeenkomst voor Nederland in werking treedt.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

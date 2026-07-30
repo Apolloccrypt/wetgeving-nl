@@ -1,47 +1,22 @@
 ---
 title: "Wet van 10 september 1986, houdende regelen betreffende de overname van de tenuitvoerlegging van buitenlandse strafrechtelijke beslissingen en de overdracht van de tenuitvoerlegging van Nederlandse strafrechtelijke beslissingen naar het buitenland"
+citeertitel: "Wet overdracht tenuitvoerlegging strafvonnissen"
 identifier: "BWBR0004028"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004028"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "2775183"
-version_id: "4268072"
-internal_id: "C4268071"
-label_id: "2724504"
-dtd_version: "2.0"
-original_entry_into_force: "1988-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004028/2025-07-01/0"
-intitule_bron: "Stb.1986-464"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-09-10"
-intitule_status: "goed"
-original_publication: "Stb.1986-464"
-original_signed_date: "1986-09-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "18129"
-entry_into_force_date: "1988-01-01"
-jci_1_3: "jci1.3:c:BWBR0004028&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0004028&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet overdracht tenuitvoerlegging strafvonnissen"
-signed_date: "1986-09-10"
-entry_into_force: "1988-01-01"
+publicatiedatum: 1988-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0004028"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 10 september 1986, houdende regelen betreffende de overname van de tenuitvoerlegging van buitenlandse strafrechtelijke beslissingen en de overdracht van de tenuitvoerlegging van Nederlandse strafrechtelijke beslissingen naar het buitenland
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het mede met het oog op de uitvoering door Nederland van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968 (**Trb.** 1969, 9), het [Europees Verdrag inzake de internationale geldigheid van strafvonnissen](onbekend) van 28 mei 1970 (**Trb.** 1971, 137), het Europees Verdrag inzake het toezicht op voorwaardelijk veroordeelden of voorwaardelijk in vrijheid gestelden van 30 november 1964 (**Trb.** 1965, 55) en het [Verdrag inzake de overbrenging van gevonniste personen](onbekend) van 21 maart 1983 (**Trb.** 1983, 74) wenselijk is te voorzien in een algemene regeling betreffende de overname en overdracht van de tenuitvoerlegging van strafrechtelijke beslissingen van en aan vreemde Staten, alsmede enkele wetten in verband daarmede te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I
 
-### Afdeling A. Begripsbepalingen
+#### Afdeling A. Begripsbepalingen
 
 ##### Artikel 1
 
@@ -57,7 +32,7 @@ Veroordeelde: degene aan wie een sanctie is opgelegd.
 
 2. Onder rechterlijke beslissing wordt mede begrepen een door een bestuurlijke autoriteit ter zake van een strafbaar feit genomen beslissing, houdende oplegging van een niet tot vrijheidsbeneming strekkende straf of maatregel, waartegen beroep op de rechter is opengesteld.
 
-### Afdeling B. Voorwaarden voor de overname van de tenuitvoerlegging van buitenlandse rechterlijke beslissingen in strafzaken
+#### Afdeling B. Voorwaarden voor de overname van de tenuitvoerlegging van buitenlandse rechterlijke beslissingen in strafzaken
 
 ##### Artikel 2
 
@@ -99,7 +74,7 @@ Een in een vreemde staat opgelegde sanctie kan in Nederland niet worden ten uitv
 
 ### Hoofdstuk II. Voorlopige maatregelen
 
-### Afdeling A. Voorlopige aanhouding
+#### Afdeling A. Voorlopige aanhouding
 
 ##### Artikel 8
 
@@ -139,7 +114,7 @@ Voor zover een verdrag daarin voorziet kan de veroordeelde die zich in Nederland
 
 Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde staat, genomen krachtens een der [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=8&z=2025-07-01&g=2025-07-01)-[11](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2025-07-01&g=2025-07-01), wordt onverwijld kennis gegeven aan Onze Minister.
 
-### Afdeling B. Inbeslagneming
+#### Afdeling B. Inbeslagneming
 
 ##### Artikel 13
 
@@ -147,7 +122,7 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 2. Het strafrechtelijk financieel onderzoek kan slechts worden ingesteld, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten ter zake waarvan de persoon in de verzoekende staat wordt verdacht in Nederland zouden zijn begaan.
 
-3. Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94), en [artikel 94**a**, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
+3. Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94), en [artikel 94*a*, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
 
 4. De officier van justitie zendt van zijn beschikking tot sluiting van een strafrechtelijk financieel onderzoek onverwijld een afschrift aan Onze Minister. Daarbij doet hij tevens mededeling van alle voor de verzoekende vreemde staat dienstige inlichtingen.
 
@@ -161,11 +136,11 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 - c. die kunnen dienen om wederrechtelijk verkregen voordeel aan te tonen.
 
-2. Inbeslagneming, als bedoeld in het eerste lid, onder **a** en **b**, kan slechts plaatsvinden indien blijkens de door de vreemde staat bij zijn verzoek verstrekte inlichtingen, door de bevoegde autoriteiten van die staat een bevel tot inbeslagneming is gegeven of zou zijn gegeven indien de desbetreffende voorwerpen zich binnen zijn grondgebied zouden bevinden, en inbeslagneming naar Nederlands recht is toegestaan.
+2. Inbeslagneming, als bedoeld in het eerste lid, onder *a* en *b*, kan slechts plaatsvinden indien blijkens de door de vreemde staat bij zijn verzoek verstrekte inlichtingen, door de bevoegde autoriteiten van die staat een bevel tot inbeslagneming is gegeven of zou zijn gegeven indien de desbetreffende voorwerpen zich binnen zijn grondgebied zouden bevinden, en inbeslagneming naar Nederlands recht is toegestaan.
 
 3. Voor de toepassing van het tweede lid is inbeslagneming naar Nederlands recht toegestaan, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten naar aanleiding waarvan de inbeslagneming door de vreemde staat wordt verzocht in Nederland zou of zouden zijn begaan.
 
-4. Inbeslagneming van voorwerpen, als bedoeld in het eerste lid, onder **a** en **b**, kan voorts slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
+4. Inbeslagneming van voorwerpen, als bedoeld in het eerste lid, onder *a* en *b*, kan voorts slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
 
 ##### Artikel 13b
 
@@ -179,7 +154,7 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 2. Het krachtens het eerste lid vereiste verlof wordt slechts verleend onder het voorbehoud, dat bij de afgifte aan de buitenlandse autoriteiten wordt bedongen, dat de voorwerpen worden teruggezonden, ook wanneer deze zijn verbeurd verklaard of als wederrechtelijk verkregen voordeel ontnomen, in welk geval zij in eigendom aan de Nederlandse staat worden overgedragen, dan wel dat de verzoekende staat een door Onze Minister te bepalen geldbedrag, overeenkomende met het geheel of een deel van de waarde van de voorwerpen, aan de Nederlandse staat doet overmaken. Onze Minister kan besluiten af te zien van de aanspraak op overmaking van het bedongen geldbedrag, indien de verzoekende staat aantoont dat de afgegeven voorwerpen zijn overgedragen aan derden rechthebbenden.
 
-3. De behandeling van een verzoek of vordering tot verlening van verlof door de raadkamer geschiedt in het openbaar. Op de behandeling is het bepaalde in de [zesde afdeling van Titel I van Boek I van het Wetboek van Strafvordering](onbekend) van overeenkomstige toepassing.
+3. De behandeling van een verzoek of vordering tot verlening van verlof door de raadkamer geschiedt in het openbaar. Op de behandeling is het bepaalde in de zesde afdeling van Titel I van Boek I van het Wetboek van Strafvordering van overeenkomstige toepassing.
 
 4. Beroep in cassatie kan door het openbaar ministerie worden ingesteld binnen veertien dagen na de dagtekening der beschikking en door de overige procesdeelnemers binnen veertien dagen na de dagtekening van de brief waarmee de beschikking is toegezonden.
 
@@ -211,11 +186,11 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 2. Verzoeken als bedoeld in deze afdeling worden, zo zij niet tot een officier van justitie zijn gericht, door de geadresseerde onverwijld doorgezonden aan de officier van justitie in het arrondissement waar de gevraagde handeling moet worden verricht of waarin het verzoek is ontvangen.
 
-3. Klaagschriften als bedoeld in [artikel 552**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), alsmede rechtsgedingen als bedoeld in [artikel 552**c** van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c), dienen te worden aanhangig gemaakt bij de rechtbank van het arrondissement bij welke de officier van justitie is geplaatst bij wie het gehele verzoek in behandeling is.
+3. Klaagschriften als bedoeld in [artikel 552*a* van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), alsmede rechtsgedingen als bedoeld in [artikel 552*c* van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552c), dienen te worden aanhangig gemaakt bij de rechtbank van het arrondissement bij welke de officier van justitie is geplaatst bij wie het gehele verzoek in behandeling is.
 
 ### Hoofdstuk III. Procedure
 
-### Afdeling A. Behandeling van buitenlandse verzoeken tot tenuitvoerlegging
+#### Afdeling A. Behandeling van buitenlandse verzoeken tot tenuitvoerlegging
 
 ##### Artikel 14
 
@@ -239,7 +214,7 @@ Indien de door de vreemde staat overgelegde stukken naar het oordeel van Onze Mi
 
 Indien de officier van justitie, die het verzoek tot tenuitvoerlegging heeft ontvangen, van oordeel is dat het niet voor inwilliging vatbaar is of dat aanleiding bestaat gebruik te maken van een der in het toepasselijke verdrag omschreven gronden tot weigering van de tenuitvoerlegging, brengt hij dit oordeel onverwijld vergezeld van zijn advies ter kennis van Onze Minister, die daaromtrent beslist. De officier van justitie deelt de veroordeelde, die krachtens deze wet van zijn vrijheid is beroofd, onverwijld mede op welke dag hij zijn advies aan Onze Minister heeft uitgebracht.
 
-### Afdeling B. Behandeling van Nederlandse verzoeken tot tenuitvoerlegging in Nederland van in een vreemde Staat opgelegde sancties
+#### Afdeling B. Behandeling van Nederlandse verzoeken tot tenuitvoerlegging in Nederland van in een vreemde Staat opgelegde sancties
 
 ##### Artikel 17
 
@@ -247,7 +222,7 @@ Indien de officier van justitie, die het verzoek tot tenuitvoerlegging heeft ont
 
 2. Is de veroordeelde een in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) bedoelde persoon, dan zendt Onze Minister de stukken toe aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen die ingevolge [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789) bevoegd is over die persoon rechtsmacht uit te oefenen.
 
-### Afdeling C. Gerechtelijke procedure
+#### Afdeling C. Gerechtelijke procedure
 
 ##### Artikel 18
 
@@ -307,7 +282,7 @@ De politierechter, de kinderrechter en de militaire politierechter bezitten elk 
 
 ##### Artikel 25
 
-De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan de veroordeelde mededeling van het tijdstip dat voor de behandeling van de vordering is bepaald. Daarbij wordt de veroordeelde die geen raadsman heeft, gewezen op het recht op bijstand van een raadsman en het recht op kennisneming van de processtukken, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=V&artikel=64&z=2025-07-01&g=2025-07-01).
+De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan de veroordeelde mededeling van het tijdstip dat voor de behandeling van de vordering is bepaald. Daarbij wordt de veroordeelde die geen raadsman heeft, gewezen op het recht op bijstand van een raadsman en het recht op kennisneming van de processtukken, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=V&artikel=64&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 26
 
@@ -323,7 +298,7 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 
 ##### Artikel 28
 
-1. De rechtbank onderzoekt de identiteit van de veroordeelde op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a), alsmede de ontvankelijkheid van de officier van justitie, de mogelijkheid van tenuitvoerlegging in Nederland van de in het buitenland gewezen rechterlijke beslissing en de feiten en omstandigheden die voor haar beslissing van belang zijn. De rechtbank is tevens bevoegd de identiteit van de veroordeelde vast te stellen op de wijze, bedoeld in artikel 27a, tweede lid, van dat wetboek, indien over zijn identiteit twijfel bestaat. [Artikel 29c, tweede lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29c) is van overeenkomstige toepassing.
+1. De rechtbank onderzoekt de identiteit van de veroordeelde op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a), alsmede de ontvankelijkheid van de officier van justitie, de mogelijkheid van tenuitvoerlegging in Nederland van de in het buitenland gewezen rechterlijke beslissing en de feiten en omstandigheden die voor haar beslissing van belang zijn. De rechtbank is tevens bevoegd de identiteit van de veroordeelde vast te stellen op de wijze, bedoeld in artikel 27a, tweede lid, van dat wetboek, indien over zijn identiteit twijfel bestaat. [Artikel 29c, tweede lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29c) is van overeenkomstige toepassing.
 
 2. De officier van justitie en de veroordeelde en diens raadsman worden in de gelegenheid gesteld ter terechtzitting van de rechtbank te worden gehoord.
 
@@ -391,7 +366,7 @@ dan verklaart zij de tenuitvoerlegging ontoelaatbaar.
 
 3. Op uitspraken, houdende een verbeurdverklaring, is het bepaalde in de [artikelen 552b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552b), [552d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), [552e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552e) en [552g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552g) van overeenkomstige toepassing.
 
-4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is het bepaalde in de [artikelen 6:4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:9) en [6:6:26 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:26) van overeenkomstige toepassing.
+4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is het bepaalde in de [artikelen 6:4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:9) en [6:6:26 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:26) van overeenkomstige toepassing.
 
 5. [Artikel 13e](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=B&artikel=13e&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
@@ -421,9 +396,9 @@ dan verklaart zij de tenuitvoerlegging ontoelaatbaar.
 
 ##### Artikel 33
 
-Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoerlegging in kracht van gewijsde is gegaan, geeft de griffier van het gerecht dat de zaak het laatst heeft behandeld daarvan kennis aan Onze Minister. De tenuitvoerlegging van een op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=31&z=2025-07-01&g=2025-07-01) opgelegde straf of maatregel geschiedt op last van Onze Minister.
+Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoerlegging in kracht van gewijsde is gegaan, geeft de griffier van het gerecht dat de zaak het laatst heeft behandeld daarvan kennis aan Onze Minister. De tenuitvoerlegging van een op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=31&z=2025-07-01&g=2025-07-01) opgelegde straf of maatregel geschiedt op last van Onze Minister.
 
-### Afdeling D. Buiten-gerechtelijke procedures
+#### Afdeling D. Buiten-gerechtelijke procedures
 
 #### § 1. Geldboeten
 
@@ -451,7 +426,7 @@ Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoer
 
 6. Op de behandeling van het bezwaarschrift zijn de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=25&z=2025-07-01&g=2025-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=26&z=2025-07-01&g=2025-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=27&z=2025-07-01&g=2025-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=28&z=2025-07-01&g=2025-07-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=30&z=2025-07-01&g=2025-07-01) van deze wet van overeenkomstige toepassing.
 
-7. Verklaart de rechtbank het bezwaar gegrond, dan vernietigt zij de beslissing van de officier van justitie of vult deze aan met inachtneming van het bepaalde in [artikel 24**a** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24a). Acht zij, ondanks vernietiging de tenuitvoerlegging wel toelaatbaar, dan doet zij wat de officier van justitie had behoren te doen. In alle gevallen dat de rechtbank de tenuitvoerlegging van een geldboete toelaatbaar verklaart, bepaalt zij tevens de duur van de vervangende hechtenis.
+7. Verklaart de rechtbank het bezwaar gegrond, dan vernietigt zij de beslissing van de officier van justitie of vult deze aan met inachtneming van het bepaalde in [artikel 24*a* van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24a). Acht zij, ondanks vernietiging de tenuitvoerlegging wel toelaatbaar, dan doet zij wat de officier van justitie had behoren te doen. In alle gevallen dat de rechtbank de tenuitvoerlegging van een geldboete toelaatbaar verklaart, bepaalt zij tevens de duur van de vervangende hechtenis.
 
 8. De[artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=32&z=2025-07-01&g=2025-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&artikel=33&z=2025-07-01&g=2025-07-01) van deze wet zijn toepasselijk.
 
@@ -459,7 +434,7 @@ Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoer
 
 1. Beslissingen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2025-07-01&g=2025-07-01) kunnen zodra zij zijn genomen worden ten uitvoer gelegd, tenzij het toepasselijke verdrag anders bepaalt. Door het indienen van een bezwaarschrift binnen de daarvoor gestelde termijn wordt de tenuitvoerlegging opgeschort.
 
-2. Beslissingen genomen krachtens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2025-07-01&g=2025-07-01) worden ten uitvoer gelegd met inachtneming van het bij of krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) omtrent de tenuitvoerlegging van geldboeten bepaalde, met uitzondering van het [derde lid van artikel 6:4:5 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5).
+2. Beslissingen genomen krachtens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&paragraaf=1&artikel=34&z=2025-07-01&g=2025-07-01) worden ten uitvoer gelegd met inachtneming van het bij of krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) omtrent de tenuitvoerlegging van geldboeten bepaalde, met uitzondering van het [derde lid van artikel 6:4:5 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5).
 
 ##### Artikel 37
 
@@ -467,7 +442,7 @@ Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan do
 
 #### § 2. Toezicht op de naleving van voorwaarden
 
-#### a. overneming van het toezicht
+##### a. overneming van het toezicht
 
 ##### Artikel 38
 
@@ -483,7 +458,7 @@ Indien de officier van justitie termen aanwezig acht om een opdracht te geven to
 
 1. Het te houden toezicht strekt zich niet uit over de naleving van bijzondere voorwaarden, gesteld bij de beslissing die aan het verzoek ten grondslag ligt, welke in strijd zijn met het Nederlandse recht.
 
-2. Het toezicht wordt uitgeoefend met inachtneming van het bij of krachtens de [artikelen 6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15), [6:1:18](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18) en [6:3:14 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14) bepaalde.
+2. Het toezicht wordt uitgeoefend met inachtneming van het bij of krachtens de [artikelen 6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15), [6:1:18](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18) en [6:3:14 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14) bepaalde.
 
 3. De aanvang en duur van de proeftijd worden bepaald naar het recht van de verzoekende staat. De proeftijd duurt in geen geval langer dan zij naar Nederlands recht had kunnen duren.
 
@@ -493,7 +468,7 @@ Indien de officier van justitie termen aanwezig acht om een opdracht te geven to
 
 2. Zodra de proeftijd is verstreken brengt de officier van justitie aan Onze Minister rapport uit omtrent de naleving van de voorwaarden.
 
-#### b. toepassing van buitenlandse voorwaardelijke beslissingen
+##### b. toepassing van buitenlandse voorwaardelijke beslissingen
 
 ##### Artikel 42
 
@@ -506,212 +481,6 @@ De officier van justitie draagt, behoudens het bepaalde in [artikel 16](https://
 1. Voor zover een verdrag daarin uitdrukkelijk voorziet, kan op aanwijzing van Onze Minister de tenuitvoerlegging of verdere tenuitvoerlegging van een in een vreemde staat opgelegde vrijheidsbenemende sanctie in Nederland plaatsvinden buiten toepassing van de afdelingen A, B en C van dit hoofdstuk, maar met inachtneming van het bepaalde in deze paragraaf.
 
 2. De in het vorige lid bedoelde aanwijzing kan, voor zover het toepasselijke verdrag bepaalt dat de instemming van de veroordeelde of diens wettelijke vertegenwoordiger met zijn overbrenging naar Nederland met het oog op de tenuitvoerlegging of voortgezette tenuitvoerlegging is vereist, slechts worden gegeven indien die instemming uit een schriftelijk stuk blijkt.
-
-### Afdeling E. Tenuitvoerlegging van bij verstek gewezen beslissingen
-
-##### Artikel 44
-
-Verzoeken, bedoeld in afdeling D, par. 2, die betrekking hebben op bij verstek gewezen rechterlijke beslissingen zijn niet voor inwilliging vatbaar, tenzij de beslissing in hoger beroep is gewezen en het rechtsmiddel van hoger beroep door de veroordeelde tegen een op tegenspraak gewezen vonnis werd ingesteld.
-
-##### Artikel 45
-
-1. Een verzoek om tenuitvoerlegging van een in de verzoekende staat bij verstek gewezen rechterlijke beslissing kan niet in behandeling worden genomen dan nadat deze beslissing vanwege de officier van justitie, die het verzoek heeft ontvangen, aan de veroordeelde in persoon is betekend. Betekening vindt niet plaats indien het recht tot strafvervolging ter zake van het feit waarvoor de beslissing werd gewezen naar Nederlands recht zou zijn verjaard, met dien verstande, dat handelingen, verricht in de verzoekende staat, die de verjaring aldaar stuiten of schorsen, in Nederland dezelfde rechtskracht hebben. Van de betekening worden de autoriteiten van de staat, waarvan het verzoek is uitgegaan, schriftelijk in kennis gesteld.
-
-2. Voor zover een verdrag daarin voorziet, kan de veroordeelde tegen een bij verstek gewezen rechterlijke beslissing, als bedoeld in het vorige lid, verzet doen bij de rechtbank van het arrondissement waarin hij zijn woonplaats heeft of daadwerkelijk verblijft, gedurende een door het toepasselijke verdrag bepaalde termijn na de betekening. Is de veroordeelde een persoon als bedoeld in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) dan kan deze verzet doen bij de rechtbank, welke ingevolge die wet bevoegd is over die persoon rechtsmacht uit te oefenen.
-
-3. Verzet wordt gedaan door een verklaring, af te leggen door de veroordeelde op het parket van het openbaar ministerie bij de in het vorige lid bedoelde rechtbank of bij aangetekende brief aan dat parket, houdende - op straffe van niet-ontvankelijkheid - de vermelding van de woon- of verblijfplaats van de veroordeelde, alwaar gerechtelijke stukken aan hem kunnen worden uitgereikt. In geval van verzet bij aangetekende brief geldt als dag van verzet de dag van ontvangst van de brief ten parkette. De [artikelen 450](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450) en [451**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451a) zijn van overeenkomstige toepassing.
-
-4. De officier van justitie stelt iedere tijdig afgelegde verklaring of ontvangen brief, bedoeld in het vorige lid, ter hand van de griffier, die daarmee handelt overeenkomstig het bepaalde in [artikel 451 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451).
-
-##### Artikel 46
-
-1. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2025-07-01&g=2025-07-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in de verzoekende staat, doet de griffier de akte van verzet onverwijld toekomen aan Onze Minister ter doorzending aan de verzoekende staat.
-
-2. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2025-07-01&g=2025-07-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland, wordt het verzoek om tenuitvoerlegging van het in de verzoekende staat bij verstek gewezen vonnis beschouwd als een door Onze Minister ingewilligd en op een verdrag gegrond verzoek tot strafvervolging.
-
-##### Artikel 47
-
-1. Aan de veroordeelde die overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2025-07-01&g=2025-07-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland wordt zo spoedig mogelijk een dagvaarding om ter terechtzitting van het in die dagvaarding aangeduide gerecht te verschijnen bij aangetekend schrijven toegezonden of in persoon betekend.
-
-2. Verschijnt hij ten dienenden dage niet in rechte, dan wordt het verzet vervallen verklaard en vindt [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&z=2025-07-01&g=2025-07-01), onderscheidenlijk [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&z=2025-07-01&g=2025-07-01), toepassing, tenzij de rechter, bij niet-verschijning van de veroordeelde, schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen.
-
-3. Indien de veroordeelde die in verzet is gekomen ten dienenden dage verschijnt wordt voor de toepassing van het Nederlandse recht de buitenlandse rechterlijke beslissing als vervallen beschouwd en de zaak overeenkomstig het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) behandeld.
-
-### Afdeling F. Bijzondere vormen van tenuitvoerlegging
-
-##### Artikel 48
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 49
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 50
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk IV. Overdracht van de tenuitvoerlegging van Nederlandse rechterlijke beslissingen
-
-### Afdeling A. Van Nederland uitgaande verzoeken
-
-##### Artikel 51
-
-Indien het openbaar ministerie het in het belang van een goede rechtsbedeling gewenst acht, dat een vreemde staat een door de Nederlandse rechter opgelegde straf of maatregel ten uitvoer legt of verder ten uitvoer legt dan wel toezicht uitoefent op de naleving van door de Nederlandse rechter opgelegde voorwaarden, geeft het, onder overlegging van eventuele met het oog op de tenuitvoerlegging van belang zijnde stukken, aan Onze Minister een met redenen omkleed advies tot overdracht van de tenuitvoerlegging of het toezicht aan die staat.
-
-##### Artikel 52
-
-1. Behoudens het bepaalde in het volgende lid beslist Onze Minister zo spoedig mogelijk na de ontvangst van een advies als bedoeld in het vorige artikel omtrent het daaraan te geven gevolg. Daarbij neemt hij, indien het verzoek tot tenuitvoerlegging of tot overname van toezicht op een verdrag kan worden gegrond, de bepalingen van dat verdrag in acht.
-
-2. Indien het advies van het openbaar ministerie betrekking heeft op een veroordeelde die zich in Nederland bevindt, aan wie een tot vrijheidsbeneming strekkende sanctie is opgelegd en die niet heeft verklaard met de overdracht van de tenuitvoerlegging van die sanctie in te stemmen, dan laat Onze Minister, zo hij voornemens is gevolg te geven aan dit advies, alvorens een beslissing te nemen de veroordeelde schriftelijk van dit advies in kennis stellen. Daarbij wordt de veroordeelde medegedeeld, dat hij binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift kan indienen bij het gerecht, dat in hoogste feitelijke instantie de tot vrijheidsbeneming strekkende sanctie heeft opgelegd.
-
-3. Zo spoedig mogelijk na ontvangst van een tijdig ingediend bezwaarschrift onderzoekt het in het vorige lid bedoelde gerecht of Onze Minister bij afweging van de betrokken belangen in redelijkheid tot de voorgenomen beslissing kan komen. De veroordeelde wordt bij het onderzoek gehoord, althans opgeroepen. Indien niet blijkt dat de veroordeelde reeds een raadsman heeft, geeft de voorzitter aan het bestuur van de raad voor rechtsbijstand last tot aanwijzing van een raadsman.
-
-4. De [artikelen 21–26](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=21) en [29c van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29c) zijn van overeenkomstige toepassing.
-
-5. Van zijn beslissing stelt het gerecht Onze Minister en de veroordeelde schriftelijk in kennis. Acht het gerecht het bezwaarschrift gegrond, dan geeft Onze Minister aan het advies van het openbaar ministerie tot overdracht van de tenuitvoerlegging geen gevolg.
-
-##### Artikel 53
-
-1. Onze Minister geeft het openbaar ministerie, dat een advies als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=51&z=2025-07-01&g=2025-07-01) heeft uitgebracht, schriftelijk kennis van de beslissing die hij terzake heeft genomen alsmede van de door hem ontvangen mededelingen omtrent beslissingen van de autoriteiten van de vreemde staat naar aanleiding van het verzoek tot tenuitvoerlegging of tot overname van toezicht dat op advies van het openbaar ministerie is gedaan.
-
-2. Een aan de autoriteiten van een vreemde staat gedaan verzoek tot tenuitvoerlegging of tot overname van toezicht kan uiterlijk tot de ontvangst van een kennisgeving omtrent de daarop in die staat genomen beslissing worden ingetrokken, onverminderd het bepaalde in artikel 36, tweede lid, van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken.
-
-##### Artikel 54
-
-Degene tegen wie in Nederland bij verstek uitspraak is gedaan, houdende de oplegging van een straf of maatregel of een gedeeltelijke beslissing als bedoeld in § 5 van Hoofdstuk I van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken, kan, wanneer een verzoek tot tenuitvoerlegging of aanvulling daarvan is gedaan aan de autoriteiten van een vreemde staat, ook als de einduitspraak reeds kracht van gewijsde heeft gekregen, tegen die uitspraak verzet doen tot het verstrijken van een door het toepasselijke verdrag bepaalde termijn nadat de uitspraak hem door de autoriteiten van die staat in persoon is betekend. Zulk verzet kan slechts worden gedaan op overeenkomstig de in de wetgeving van de aangezochte staat voorgeschreven wijze bij de bevoegde autoriteiten van die staat.
-
-##### Artikel 55
-
-1. Zodra van de autoriteiten van de aangezochte staat de akte is ontvangen, waaruit blijkt van een rechtsgeldig gedaan verzet, wordt aan degene die in verzet is gekomen een dagvaarding om ter terechtzitting van het gerecht dat de uitspraak heeft gedaan te verschijnen in persoon betekend. Op straffe van nietigheid wordt tussen de dag waarop de dagvaarding is betekend en die ter terechtzitting een termijn van tenminste eenentwintig dagen of zoveel minder als het toepasselijke verdrag toelaat in acht genomen. Met toestemming van de gedagvaarde kan deze termijn worden verkort, mits van deze toestemming uit een schriftelijke verklaring blijkt. Vrijwillige verschijning op een dagvaarding betekend in strijd met de voorschriften van dit artikel dekt de nietigheid.
-
-2. Indien de gedagvaarde niet ten dienenden dage in rechte verschijnt wordt het verzet vervallen verklaard, tenzij de rechter bij niet-verschijning schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen. Het openbaar ministerie geeft van een vervallen verklaard verzet zo spoedig mogelijk schriftelijk kennis aan de autoriteiten van de aangezochte staat en aan Onze Minister.
-
-3. Indien degene die in verzet is gekomen ter terechtzitting verschijnt wordt de zaak overeenkomstig [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VII) of [VIII van het Tweede Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VIII) behandeld, als ware het rechtsgeding bij verstek niet voorafgegaan. De rechter bekrachtigt de bij verstek gewezen uitspraak of doet met gehele of gedeeltelijke vernietiging van die uitspraak opnieuw recht.
-
-### Afdeling B. Tot Nederland gerichte verzoeken
-
-##### Artikel 56
-
-Tenzij Onze Minister reeds aanstonds van oordeel is dat het verzoek van een buitenlandse autoriteit tot overdracht van de tenuitvoerlegging van een in Nederland opgelegde sanctie moet worden afgewezen, wint hij omtrent de vraag of het belang van een goede rechtsbedeling zich tegen inwilliging van het verzoek verzet het advies in van het gerecht dat in hoogste feitelijke instantie de sanctie heeft opgelegd en van het openbaar ministerie.
-
-##### Artikel 57
-
-1. Zo spoedig mogelijk na de ontvangst van de in het vorige artikel bedoelde adviezen beslist Onze Minister over het gevolg, te geven aan het in dat artikel bedoelde verzoek. [Artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=52&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
-
-2. Van zijn beslissing geeft Onze Minister onverwijld kennis aan het gerecht en aan het openbaar ministerie die terzake advies hebben uitgebracht.
-
-### Afdeling B. Tot Nederland gerichte verzoeken
-
-##### Artikel 58
-
-Bij algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de procedure volgens welke een verklaring van of namens een zich in Nederland bevindende veroordeelde, houdende instemming met de overdracht van de tenuitvoerlegging van een hem opgelegde tot vrijheidsbeneming strekkende sanctie, dient te worden afgelegd.
-
-##### Artikel 59
-
-1. Overdracht van de tenuitvoerlegging van rechterlijke beslissingen ingevolge dit Hoofdstuk geschiedt slechts onder het algemene beding, dat de door de Nederlandse rechter opgelegde straf, maatregel of voorwaarden niet ten nadele van de veroordeelde worden gewijzigd en dat daarbij met het reeds hier te lande ten uitvoer gelegde gedeelte van die straf of maatregel rekening wordt gehouden.
-
-2. Een veroordeelde die in Nederland een tot vrijheidsbeneming strekkende sanctie ondergaat of nog zal moeten ondergaan wordt, wanneer met een vreemde staat overeenstemming is bereikt omtrent de verdere tenuitvoerlegging van deze sanctie, zo spoedig mogelijk ter beschikking gesteld van de autoriteiten van die staat, zulks op een door Onze Minister, na overleg met die autoriteiten, te bepalen tijd en plaats.
-
-3. De overbrenging van een veroordeelde, die niet heeft verklaard met de overdracht van de tenuitvoerlegging in te stemmen, geschiedt niet dan onder het algemene beding, dat hij alleen met uitdrukkelijke toestemming van Onze Minister:
-
-- a. zal worden vervolgd, gestraft of op enige wijze in zijn persoonlijke vrijheid beperkt ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan en ter zake waarvan de tenuitvoerlegging niet is overgedragen; en
-
-- b. ter beschikking zal worden gesteld van de autoriteiten van een derde staat ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan, tenzij de veroordeelde nadien de gelegenheid heeft gehad het grondgebied van de staat naar welke hij is overgebracht te verlaten.
-
-4. Op het moment dat een veroordeelde ter beschikking van de in het tweede lid bedoelde autoriteiten wordt gesteld, wordt de tenuitvoerlegging in Nederland van de hem opgelegde sanctie van rechtswege geschorst.
-
-5. In geval van hervatting van het recht tot tenuitvoerlegging van de sanctie wordt het in het buitenland reeds ten uitvoer gelegde gedeelte daarop in mindering gebracht.
-
-### Hoofdstuk V. Slotbepalingen
-
-##### Artikel 60
-
-Waar in deze wet bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van overeenkomstige toepassing zijn verklaard zijn deze bepalingen, voor zover zij betrekking hebben op de verdachte, van overeenkomstige toepassing op de veroordeelde.
-
-##### Artikel 61
-
-Krachtens deze wet gegeven bevelen tot inverzekeringstelling, bewaring of gevangenneming, dan wel tot verlenging van een termijn van vrijheidsbeneming, worden gedagtekend en ondertekend. De grond voor uitvaardiging wordt in het bevel vermeld. Aan de veroordeelde op wie het bevel betrekking heeft, wordt onverwijld een afschrift daarvan uitgereikt.
-
-##### Artikel 62
-
-De bevelen tot vrijheidsbeneming, bedoeld in het voorgaande artikel, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van bevelen tot vrijheidsbeneming zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de [artikelen 6:1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [6:1:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:7), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15) en [6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1) van toepassing.
-
-##### Artikel 63
-
-Veroordeelden die overeenkomstig deze wet in verzekering of in bewaring zijn gesteld, of wier gevangenneming of gevangenhouding is bevolen, worden behandeld als verdachten die krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan een overeenkomstige maatregel zijn onderworpen.
-
-##### Artikel 64
-
-1. De veroordeelde heeft het recht zich door een raadsman te doen bijstaan. De [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28a), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38) en [43 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) en [124 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124), alsmede het in dat wetboek bepaalde betreffende het optreden en de bevoegdheden van de raadsman en de kennisneming van processtukken, zijn van overeenkomstige toepassing.
-
-2. Indien een veroordeelde op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=9&z=2025-07-01&g=2025-07-01) wordt aangehouden, stelt de hulpofficier van justitie het bestuur van de raad voor rechtsbijstand hiervan in kennis, opdat het bestuur een raadsman aanwijst, dan wel stelt hij de door de opgeëiste persoon gekozen raadsman hiervan in kennis. De [artikelen 28b, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28b), en [39 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=39) zijn van overeenkomstige toepassing.
-
-3. Indien een persoon die geen raadsman heeft overeenkomstig deze wet zijn vrijheid wordt benomen – anders dan uit kracht van een bevel tot aanhouding, dan wel tot inverzekeringstelling of tot verlenging van de termijn daarvan – wijst het bestuur van de raad voor rechtsbijstand, na mededeling van de vrijheidsbeneming door het openbaar ministerie, een raadsman aan.
-
-##### Artikel 64a
-
-Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [artikel 66a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=66a) van overeenkomstige toepassing.
-
-##### Artikel 65
-
-1. In gevallen waarin krachtens deze wet een beslissing omtrent de voorlopige vrijheidsbeneming van een veroordeelde kan of moet worden genomen, kan worden bevolen dat die vrijheidsbeneming voorwaardelijk wordt opgeschort of geschorst.
-
-2. Op bevelen krachtens het vorige lid gegeven door de rechtbank, dan wel door de rechter-commissaris zijn de [artikelen 80-88 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80) van overeenkomstige toepassing.
-
-3. De termijn, genoemd in [artikel 11, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2025-07-01&g=2025-07-01), loopt niet gedurende de tijd dat de veroordeelde zich aan de verdere tenuitvoerlegging van de gelaste bewaring heeft onttrokken.
-
-##### Artikel 66
-
-Op bevelen tot beëindiging van voorlopige vrijheidsbeneming krachtens deze wet gegeven en tot tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79) en [6:2:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) van overeenkomstige toepassing.
-
-##### Artikel 67
-
-In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in Nederland niet behoort plaats te vinden kan de rechtbank, die de zaak heeft behandeld, op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsbeneming bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat.
-
-De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529), [530](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530), [534 tot en met 536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534) zijn van overeenkomstige toepassing.
-
-##### Artikel 68
-
-Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet zijn de [artikelen 36b tot en met 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), [36h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h) en [36n van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36n) van overeenkomstige toepassing, tenzij deze wet anders bepaalt.
-
-##### Artikel 69
-
-Op verzoeken om doorvoer over Nederlands grondgebied van personen die ten behoeve van de tenuitvoerlegging van een rechterlijke beslissing door de autoriteiten van een vreemde staat ter beschikking van de autoriteiten van een andere staat worden gesteld, zijn de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=48) en [50 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=50) van overeenkomstige toepassing.
-
-##### Artikel 70
-
-Waar in deze wet de bevoegdheid wordt gegeven tot het horen van personen, is [artikel 131a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131a) van overeenkomstige toepassing.
-
-##### Artikel 71
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 72
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 73
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 74
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 75
-
-De bepalingen van de voorgaande hoofdstukken zijn niet van toepassing op de tenuitvoerlegging van door buitenlandse rechterlijke autoriteiten opgelegde vrijheidsstraf, ingevolge [artikel 6 van de Wet van 7 augustus 1953 (**Stb.** 438), houdende goedkeuring en uitvoering van het Verdrag van Londen van 19 juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBR0002118&artikel=6).
-
-##### Artikel 76
-
-1. Deze wet kan worden aangehaald onder de titel: Wet overdracht tenuitvoerlegging strafvonnissen.
-
-2. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-3. Wij kunnen bepalen dat de verschillende onderdelen van deze wet op afzonderlijke tijdstippen in werking treden.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 43a
 
@@ -749,22 +518,210 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van Onze Minister.
 
-### Afdeling E. Tenuitvoerlegging van bij verstek gewezen beslissingen
+#### Afdeling E. Tenuitvoerlegging van bij verstek gewezen beslissingen
 
-### Afdeling F. Bijzondere vormen van tenuitvoerlegging
+##### Artikel 44
+
+Verzoeken, bedoeld in afdeling D, par. 2, die betrekking hebben op bij verstek gewezen rechterlijke beslissingen zijn niet voor inwilliging vatbaar, tenzij de beslissing in hoger beroep is gewezen en het rechtsmiddel van hoger beroep door de veroordeelde tegen een op tegenspraak gewezen vonnis werd ingesteld.
+
+##### Artikel 45
+
+1. Een verzoek om tenuitvoerlegging van een in de verzoekende staat bij verstek gewezen rechterlijke beslissing kan niet in behandeling worden genomen dan nadat deze beslissing vanwege de officier van justitie, die het verzoek heeft ontvangen, aan de veroordeelde in persoon is betekend. Betekening vindt niet plaats indien het recht tot strafvervolging ter zake van het feit waarvoor de beslissing werd gewezen naar Nederlands recht zou zijn verjaard, met dien verstande, dat handelingen, verricht in de verzoekende staat, die de verjaring aldaar stuiten of schorsen, in Nederland dezelfde rechtskracht hebben. Van de betekening worden de autoriteiten van de staat, waarvan het verzoek is uitgegaan, schriftelijk in kennis gesteld.
+
+2. Voor zover een verdrag daarin voorziet, kan de veroordeelde tegen een bij verstek gewezen rechterlijke beslissing, als bedoeld in het vorige lid, verzet doen bij de rechtbank van het arrondissement waarin hij zijn woonplaats heeft of daadwerkelijk verblijft, gedurende een door het toepasselijke verdrag bepaalde termijn na de betekening. Is de veroordeelde een persoon als bedoeld in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) dan kan deze verzet doen bij de rechtbank, welke ingevolge die wet bevoegd is over die persoon rechtsmacht uit te oefenen.
+
+3. Verzet wordt gedaan door een verklaring, af te leggen door de veroordeelde op het parket van het openbaar ministerie bij de in het vorige lid bedoelde rechtbank of bij aangetekende brief aan dat parket, houdende - op straffe van niet-ontvankelijkheid - de vermelding van de woon- of verblijfplaats van de veroordeelde, alwaar gerechtelijke stukken aan hem kunnen worden uitgereikt. In geval van verzet bij aangetekende brief geldt als dag van verzet de dag van ontvangst van de brief ten parkette. De [artikelen 450](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=450) en [451*a* van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451a) zijn van overeenkomstige toepassing.
+
+4. De officier van justitie stelt iedere tijdig afgelegde verklaring of ontvangen brief, bedoeld in het vorige lid, ter hand van de griffier, die daarmee handelt overeenkomstig het bepaalde in [artikel 451 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=451).
+
+##### Artikel 46
+
+1. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2025-07-01&g=2025-07-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in de verzoekende staat, doet de griffier de akte van verzet onverwijld toekomen aan Onze Minister ter doorzending aan de verzoekende staat.
+
+2. Indien de veroordeelde overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2025-07-01&g=2025-07-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland, wordt het verzoek om tenuitvoerlegging van het in de verzoekende staat bij verstek gewezen vonnis beschouwd als een door Onze Minister ingewilligd en op een verdrag gegrond verzoek tot strafvervolging.
+
+##### Artikel 47
+
+1. Aan de veroordeelde die overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=E&artikel=45&z=2025-07-01&g=2025-07-01) rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland wordt zo spoedig mogelijk een dagvaarding om ter terechtzitting van het in die dagvaarding aangeduide gerecht te verschijnen bij aangetekend schrijven toegezonden of in persoon betekend.
+
+2. Verschijnt hij ten dienenden dage niet in rechte, dan wordt het verzet vervallen verklaard en vindt [afdeling C](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=C&z=2025-07-01&g=2025-07-01), onderscheidenlijk [afdeling D](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=III&afdeling=D&z=2025-07-01&g=2025-07-01), toepassing, tenzij de rechter, bij niet-verschijning van de veroordeelde, schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen.
+
+3. Indien de veroordeelde die in verzet is gekomen ten dienenden dage verschijnt wordt voor de toepassing van het Nederlandse recht de buitenlandse rechterlijke beslissing als vervallen beschouwd en de zaak overeenkomstig het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) behandeld.
+
+#### Afdeling F. Bijzondere vormen van tenuitvoerlegging
+
+##### Artikel 48
+
+*Dit onderdeel is nog niet inwerking getreden*
+
+##### Artikel 49
+
+*Dit onderdeel is nog niet inwerking getreden*
+
+##### Artikel 50
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 ### Hoofdstuk IV. Overdracht van de tenuitvoerlegging van Nederlandse rechterlijke beslissingen
 
-### Afdeling A. Van Nederland uitgaande verzoeken
+#### Afdeling A. Van Nederland uitgaande verzoeken
 
-### Afdeling C. Overbrenging
+##### Artikel 51
+
+Indien het openbaar ministerie het in het belang van een goede rechtsbedeling gewenst acht, dat een vreemde staat een door de Nederlandse rechter opgelegde straf of maatregel ten uitvoer legt of verder ten uitvoer legt dan wel toezicht uitoefent op de naleving van door de Nederlandse rechter opgelegde voorwaarden, geeft het, onder overlegging van eventuele met het oog op de tenuitvoerlegging van belang zijnde stukken, aan Onze Minister een met redenen omkleed advies tot overdracht van de tenuitvoerlegging of het toezicht aan die staat.
+
+##### Artikel 52
+
+1. Behoudens het bepaalde in het volgende lid beslist Onze Minister zo spoedig mogelijk na de ontvangst van een advies als bedoeld in het vorige artikel omtrent het daaraan te geven gevolg. Daarbij neemt hij, indien het verzoek tot tenuitvoerlegging of tot overname van toezicht op een verdrag kan worden gegrond, de bepalingen van dat verdrag in acht.
+
+2. Indien het advies van het openbaar ministerie betrekking heeft op een veroordeelde die zich in Nederland bevindt, aan wie een tot vrijheidsbeneming strekkende sanctie is opgelegd en die niet heeft verklaard met de overdracht van de tenuitvoerlegging van die sanctie in te stemmen, dan laat Onze Minister, zo hij voornemens is gevolg te geven aan dit advies, alvorens een beslissing te nemen de veroordeelde schriftelijk van dit advies in kennis stellen. Daarbij wordt de veroordeelde medegedeeld, dat hij binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift kan indienen bij het gerecht, dat in hoogste feitelijke instantie de tot vrijheidsbeneming strekkende sanctie heeft opgelegd.
+
+3. Zo spoedig mogelijk na ontvangst van een tijdig ingediend bezwaarschrift onderzoekt het in het vorige lid bedoelde gerecht of Onze Minister bij afweging van de betrokken belangen in redelijkheid tot de voorgenomen beslissing kan komen. De veroordeelde wordt bij het onderzoek gehoord, althans opgeroepen. Indien niet blijkt dat de veroordeelde reeds een raadsman heeft, geeft de voorzitter aan het bestuur van de raad voor rechtsbijstand last tot aanwijzing van een raadsman.
+
+4. De [artikelen 21–26](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=21) en [29c van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29c) zijn van overeenkomstige toepassing.
+
+5. Van zijn beslissing stelt het gerecht Onze Minister en de veroordeelde schriftelijk in kennis. Acht het gerecht het bezwaarschrift gegrond, dan geeft Onze Minister aan het advies van het openbaar ministerie tot overdracht van de tenuitvoerlegging geen gevolg.
+
+##### Artikel 53
+
+1. Onze Minister geeft het openbaar ministerie, dat een advies als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=51&z=2025-07-01&g=2025-07-01) heeft uitgebracht, schriftelijk kennis van de beslissing die hij terzake heeft genomen alsmede van de door hem ontvangen mededelingen omtrent beslissingen van de autoriteiten van de vreemde staat naar aanleiding van het verzoek tot tenuitvoerlegging of tot overname van toezicht dat op advies van het openbaar ministerie is gedaan.
+
+2. Een aan de autoriteiten van een vreemde staat gedaan verzoek tot tenuitvoerlegging of tot overname van toezicht kan uiterlijk tot de ontvangst van een kennisgeving omtrent de daarop in die staat genomen beslissing worden ingetrokken, onverminderd het bepaalde in artikel 36, tweede lid, van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken.
+
+##### Artikel 54
+
+Degene tegen wie in Nederland bij verstek uitspraak is gedaan, houdende de oplegging van een straf of maatregel of een gedeeltelijke beslissing als bedoeld in § 5 van Hoofdstuk I van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken, kan, wanneer een verzoek tot tenuitvoerlegging of aanvulling daarvan is gedaan aan de autoriteiten van een vreemde staat, ook als de einduitspraak reeds kracht van gewijsde heeft gekregen, tegen die uitspraak verzet doen tot het verstrijken van een door het toepasselijke verdrag bepaalde termijn nadat de uitspraak hem door de autoriteiten van die staat in persoon is betekend. Zulk verzet kan slechts worden gedaan op overeenkomstig de in de wetgeving van de aangezochte staat voorgeschreven wijze bij de bevoegde autoriteiten van die staat.
+
+##### Artikel 55
+
+1. Zodra van de autoriteiten van de aangezochte staat de akte is ontvangen, waaruit blijkt van een rechtsgeldig gedaan verzet, wordt aan degene die in verzet is gekomen een dagvaarding om ter terechtzitting van het gerecht dat de uitspraak heeft gedaan te verschijnen in persoon betekend. Op straffe van nietigheid wordt tussen de dag waarop de dagvaarding is betekend en die ter terechtzitting een termijn van tenminste eenentwintig dagen of zoveel minder als het toepasselijke verdrag toelaat in acht genomen. Met toestemming van de gedagvaarde kan deze termijn worden verkort, mits van deze toestemming uit een schriftelijke verklaring blijkt. Vrijwillige verschijning op een dagvaarding betekend in strijd met de voorschriften van dit artikel dekt de nietigheid.
+
+2. Indien de gedagvaarde niet ten dienenden dage in rechte verschijnt wordt het verzet vervallen verklaard, tenzij de rechter bij niet-verschijning schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen. Het openbaar ministerie geeft van een vervallen verklaard verzet zo spoedig mogelijk schriftelijk kennis aan de autoriteiten van de aangezochte staat en aan Onze Minister.
+
+3. Indien degene die in verzet is gekomen ter terechtzitting verschijnt wordt de zaak overeenkomstig [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VII) of [VIII van het Tweede Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VIII) behandeld, als ware het rechtsgeding bij verstek niet voorafgegaan. De rechter bekrachtigt de bij verstek gewezen uitspraak of doet met gehele of gedeeltelijke vernietiging van die uitspraak opnieuw recht.
+
+#### Afdeling B. Tot Nederland gerichte verzoeken
+
+##### Artikel 56
+
+Tenzij Onze Minister reeds aanstonds van oordeel is dat het verzoek van een buitenlandse autoriteit tot overdracht van de tenuitvoerlegging van een in Nederland opgelegde sanctie moet worden afgewezen, wint hij omtrent de vraag of het belang van een goede rechtsbedeling zich tegen inwilliging van het verzoek verzet het advies in van het gerecht dat in hoogste feitelijke instantie de sanctie heeft opgelegd en van het openbaar ministerie.
+
+##### Artikel 57
+
+1. Zo spoedig mogelijk na de ontvangst van de in het vorige artikel bedoelde adviezen beslist Onze Minister over het gevolg, te geven aan het in dat artikel bedoelde verzoek. [Artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=IV&afdeling=A&artikel=52&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
+
+2. Van zijn beslissing geeft Onze Minister onverwijld kennis aan het gerecht en aan het openbaar ministerie die terzake advies hebben uitgebracht.
+
+#### Afdeling C. Overbrenging
+
+##### Artikel 58
+
+Bij algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de procedure volgens welke een verklaring van of namens een zich in Nederland bevindende veroordeelde, houdende instemming met de overdracht van de tenuitvoerlegging van een hem opgelegde tot vrijheidsbeneming strekkende sanctie, dient te worden afgelegd.
+
+##### Artikel 59
+
+1. Overdracht van de tenuitvoerlegging van rechterlijke beslissingen ingevolge dit Hoofdstuk geschiedt slechts onder het algemene beding, dat de door de Nederlandse rechter opgelegde straf, maatregel of voorwaarden niet ten nadele van de veroordeelde worden gewijzigd en dat daarbij met het reeds hier te lande ten uitvoer gelegde gedeelte van die straf of maatregel rekening wordt gehouden.
+
+2. Een veroordeelde die in Nederland een tot vrijheidsbeneming strekkende sanctie ondergaat of nog zal moeten ondergaan wordt, wanneer met een vreemde staat overeenstemming is bereikt omtrent de verdere tenuitvoerlegging van deze sanctie, zo spoedig mogelijk ter beschikking gesteld van de autoriteiten van die staat, zulks op een door Onze Minister, na overleg met die autoriteiten, te bepalen tijd en plaats.
+
+3. De overbrenging van een veroordeelde, die niet heeft verklaard met de overdracht van de tenuitvoerlegging in te stemmen, geschiedt niet dan onder het algemene beding, dat hij alleen met uitdrukkelijke toestemming van Onze Minister:
+
+- a. zal worden vervolgd, gestraft of op enige wijze in zijn persoonlijke vrijheid beperkt ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan en ter zake waarvan de tenuitvoerlegging niet is overgedragen; en
+
+- b. ter beschikking zal worden gesteld van de autoriteiten van een derde staat ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan, tenzij de veroordeelde nadien de gelegenheid heeft gehad het grondgebied van de staat naar welke hij is overgebracht te verlaten.
+
+4. Op het moment dat een veroordeelde ter beschikking van de in het tweede lid bedoelde autoriteiten wordt gesteld, wordt de tenuitvoerlegging in Nederland van de hem opgelegde sanctie van rechtswege geschorst.
+
+5. In geval van hervatting van het recht tot tenuitvoerlegging van de sanctie wordt het in het buitenland reeds ten uitvoer gelegde gedeelte daarop in mindering gebracht.
 
 ### Hoofdstuk V. Slotbepalingen
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 60
+
+Waar in deze wet bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van overeenkomstige toepassing zijn verklaard zijn deze bepalingen, voor zover zij betrekking hebben op de verdachte, van overeenkomstige toepassing op de veroordeelde.
+
+##### Artikel 61
+
+Krachtens deze wet gegeven bevelen tot inverzekeringstelling, bewaring of gevangenneming, dan wel tot verlenging van een termijn van vrijheidsbeneming, worden gedagtekend en ondertekend. De grond voor uitvaardiging wordt in het bevel vermeld. Aan de veroordeelde op wie het bevel betrekking heeft, wordt onverwijld een afschrift daarvan uitgereikt.
+
+##### Artikel 62
+
+De bevelen tot vrijheidsbeneming, bedoeld in het voorgaande artikel, zijn dadelijk uitvoerbaar. Bevoegd tot het ten uitvoer leggen van bevelen tot vrijheidsbeneming zijn de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) genoemde ambtenaren. Op de tenuitvoerlegging en de last daartoe zijn de [artikelen 6:1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [6:1:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:7), [6:1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9), [6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15) en [6:2:1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:1) van toepassing.
+
+##### Artikel 63
+
+Veroordeelden die overeenkomstig deze wet in verzekering of in bewaring zijn gesteld, of wier gevangenneming of gevangenhouding is bevolen, worden behandeld als verdachten die krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan een overeenkomstige maatregel zijn onderworpen.
 
 ##### Artikel 63a
 
 Bij de overbrenging van of naar Nederland is de bewaking van de veroordeelde opgedragen aan Nederlandse ambtenaren die bevoegd zijn alle dienstige maatregelen te nemen ter beveiliging van de veroordeelde en ter voorkoming van zijn ontvluchting.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 64
+
+1. De veroordeelde heeft het recht zich door een raadsman te doen bijstaan. De [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28a), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38) en [43 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) en [124 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124), alsmede het in dat wetboek bepaalde betreffende het optreden en de bevoegdheden van de raadsman en de kennisneming van processtukken, zijn van overeenkomstige toepassing.
+
+2. Indien een veroordeelde op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=9&z=2025-07-01&g=2025-07-01) wordt aangehouden, stelt de hulpofficier van justitie het bestuur van de raad voor rechtsbijstand hiervan in kennis, opdat het bestuur een raadsman aanwijst, dan wel stelt hij de door de opgeëiste persoon gekozen raadsman hiervan in kennis. De [artikelen 28b, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28b), en [39 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=39) zijn van overeenkomstige toepassing.
+
+3. Indien een persoon die geen raadsman heeft overeenkomstig deze wet zijn vrijheid wordt benomen – anders dan uit kracht van een bevel tot aanhouding, dan wel tot inverzekeringstelling of tot verlenging van de termijn daarvan – wijst het bestuur van de raad voor rechtsbijstand, na mededeling van de vrijheidsbeneming door het openbaar ministerie, een raadsman aan.
+
+##### Artikel 64a
+
+Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [artikel 66a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=66a) van overeenkomstige toepassing.
+
+##### Artikel 65
+
+1. In gevallen waarin krachtens deze wet een beslissing omtrent de voorlopige vrijheidsbeneming van een veroordeelde kan of moet worden genomen, kan worden bevolen dat die vrijheidsbeneming voorwaardelijk wordt opgeschort of geschorst.
+
+2. Op bevelen krachtens het vorige lid gegeven door de rechtbank, dan wel door de rechter-commissaris zijn de [artikelen 80-88 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80) van overeenkomstige toepassing.
+
+3. De termijn, genoemd in [artikel 11, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&hoofdstuk=II&afdeling=A&artikel=11&z=2025-07-01&g=2025-07-01), loopt niet gedurende de tijd dat de veroordeelde zich aan de verdere tenuitvoerlegging van de gelaste bewaring heeft onttrokken.
+
+##### Artikel 66
+
+Op bevelen tot beëindiging van voorlopige vrijheidsbeneming krachtens deze wet gegeven en tot tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=79) en [6:2:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) van overeenkomstige toepassing.
+
+##### Artikel 67
+
+In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in Nederland niet behoort plaats te vinden kan de rechtbank, die de zaak heeft behandeld, op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsbeneming bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat.
+
+De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529), [530](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530), [534 tot en met 536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534) zijn van overeenkomstige toepassing.
+
+##### Artikel 68
+
+Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet zijn de [artikelen 36b tot en met 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36b), [36h](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h) en [36n van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36n) van overeenkomstige toepassing, tenzij deze wet anders bepaalt.
+
+##### Artikel 69
+
+Op verzoeken om doorvoer over Nederlands grondgebied van personen die ten behoeve van de tenuitvoerlegging van een rechterlijke beslissing door de autoriteiten van een vreemde staat ter beschikking van de autoriteiten van een andere staat worden gesteld, zijn de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=48) en [50 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=50) van overeenkomstige toepassing.
+
+##### Artikel 70
+
+Waar in deze wet de bevoegdheid wordt gegeven tot het horen van personen, is [artikel 131a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131a) van overeenkomstige toepassing.
+
+##### Artikel 71
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 72
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 73
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 74
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 75
+
+De bepalingen van de voorgaande hoofdstukken zijn niet van toepassing op de tenuitvoerlegging van door buitenlandse rechterlijke autoriteiten opgelegde vrijheidsstraf, ingevolge [artikel 6 van de Wet van 7 augustus 1953 (*Stb.* 438), houdende goedkeuring en uitvoering van het Verdrag van Londen van 19 juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBR0002118&artikel=6).
+
+##### Artikel 76
+
+1. Deze wet kan worden aangehaald onder de titel: Wet overdracht tenuitvoerlegging strafvonnissen.
+
+2. Zij treedt in werking op een door Ons te bepalen tijdstip.
+
+3. Wij kunnen bepalen dat de verschillende onderdelen van deze wet op afzonderlijke tijdstippen in werking treden.

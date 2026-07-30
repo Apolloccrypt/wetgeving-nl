@@ -1,45 +1,18 @@
 ---
 title: "Wet van 8 april 1971, houdende een algemene regeling betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij"
+citeertitel: "Landbouwkwaliteitswet"
 identifier: "BWBR0002755"
-country: "nl"
-rank: "wet"
-publication_date: "2021-03-01"
-last_updated: "2021-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002755"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1589833"
-version_id: "26518452"
-internal_id: "C38876721"
-label_id: "1544644"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002755/2021-03-01/0"
-intitule_bron: "Stb.1971-371"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-04-08"
-intitule_status: "goed"
-original_publication: "Stb.2020-65"
-original_signed_date: "2020-02-05"
-original_published_date: "2020-02-19"
-original_effect: "structuurwijziging"
-original_dossier: "35083"
-original_url_id: "stb-2020-65"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0002755&z=2021-03-01&g=2021-03-01"
-jci_1_0: "1.0:c:BWBR0002755&g=2021-03-01"
-citeertitel_status: "officieel"
-short_title: "Landbouwkwaliteitswet"
-signed_date: "2020-02-05"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2021-03-01
+status: geldig
+toestand: 2021-03-01
+bron: "https://wetten.overheid.nl/BWBR0002755"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 8 april 1971, houdende een algemene regeling betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ter bevordering van de afzet een algemene regeling vast te stellen betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -57,7 +30,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 - controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2021-03-01&g=2021-03-01);
 
-- verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
+- verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
 
 - geografische aanduiding: geografische aanduiding als bedoeld in artikel 5, tweede lid, van verordening (EU) 1151/2012;
 
@@ -65,7 +38,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 - houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening (EU) 1151/2012 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen;
 
-- verordening (EU) 2017/625: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de Verordeningen (EG) nr. [854/2004](32754L2004) en (EG) nr. [882/2004](32782L2004) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PbEU 2017, L 95).
+- verordening (EU) 2017/625: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (PbEU 2017, L 95).
 
 ##### Artikel 2
 
@@ -107,11 +80,11 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -125,9 +98,13 @@ Vervallen
 
 2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2021-03-01&g=2021-03-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
 
+##### Artikel 8a
+
+Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2021-03-01&g=2021-03-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
+
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -145,7 +122,7 @@ Vervallen
 
 2. Indien Onze Minister bij of krachtens een landbouwkwaliteitsbesluit de in het eerste lid bedoelde activiteiten uitvoert, kan Onze Minister voor de kosten ter zake van deze activiteiten tarieven vaststellen.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. De tarieven, bedoeld in het eerste en tweede lid:
 
@@ -183,81 +160,13 @@ Vervallen
 
 4. In verband met de uitvoering van voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen kan in afwijking van het eerste lid bij of krachtens algemene maatregel van bestuur worden bepaald dat geen tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij of krachtens die algemene maatregel van bestuur aangewezen bepalingen of onderdelen daarvan.
 
-##### Artikel 14
-
-1. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening (EU) 1151/2012 verricht.
-
-2. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.
-
-3. De voorzieningenrechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.
-
-4. Schadevergoeding kan slechts worden gevorderd van degene die de handelingen bewust verricht. Van bewust handelen is in elk geval sprake, indien de inbreuk is gepleegd nadat de betrokkene bij deurwaardersexploot op de strijd tussen de handelingen en de geografische aanduiding is gewezen.
-
-5. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
-
-6. In plaats van schadevergoeding kan worden gevorderd, dat de verweerder veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter echter van oordeel is dat de omstandigheden van het geval geen aanleiding geven tot een dergelijke veroordeling, zal de rechter de verweerder tot schadevergoeding kunnen veroordelen.
-
-7. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens de overige houders van de desbetreffende geografische aanduiding instellen.
-
-8. De houder van een geografische aanduiding of geografische oorsprongsbenaming heeft de bevoegdheid roerende zaken, waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken als zijn eigendom op te eisen, dan wel onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.
-
-9. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor.
-
-10. De maatregelen bedoeld in het achtste en negende lid worden op kosten van de verweerder uitgevoerd, tenzij bijzondere redenen dit beletten.
-
-11. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
-
-12. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
-
-##### Artikel 15
-
-1. Met het toezicht op de naleving van bij of krachtens een landbouwkwaliteitsbesluit gestelde eisen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en de bij besluit van Onze Minister aangewezen personen, werkzaam bij een controle-instelling.
-
-2. Onze Minister en Onze Ministers, wie het mede aangaat, kunnen tezamen nadere voorschriften geven betreffende de monsterneming, de verpakking, de conservering, de verzegeling, de verzending en het onderzoek der monsters.
-
-3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
-
-##### Artikel 16
-
-Vervallen
-
-##### Artikel 17
-
-Vervallen
-
-##### Artikel 18
-
-1. Aan het slot van [artikel 1, onder 4**e**, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
-
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2021-03-01&g=2021-03-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
-
-##### Artikel 19
-
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
-
-##### Artikel 20
-
-1. Deze wet kan worden aangehaald als: "Landbouwkwaliteitswet".
-
-2. Zij treedt in werking met ingang van een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 13a
 
 De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke of mondelinge vermaning tot de betrokkene in verband met het begane feit.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8a
-
-Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2021-03-01&g=2021-03-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 13b
 
-1. De tuchtrechtelijke maatregel van geldboete bedraagt ten minste € 3 en ten hoogste een bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. De tuchtrechtelijke maatregel van geldboete bedraagt ten minste € 3 en ten hoogste een bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 2. Indien de waarde van de goederen, met betrekking tot welke een overtreding is begaan, of de waarde van het wederrechtelijk genoten voordeel dat geheel of gedeeltelijk door middel van de overtreding is verkregen, hoger is dan een kwart van de geldboete van de derde categorie, kan een geldboete worden opgelegd van ten hoogste de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -481,4 +390,60 @@ De tenuitvoerlegging van uitspraken van een tuchtgerecht en van het College gesc
 
 3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op de kosten van de verscherpte controle, bedoeld in [artikel 13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2021-03-01&g=2021-03-01), met dien verstande dat de termijn voor de kennisgeving van de betalingstermijn eerst aanvangt nadat de kosten zijn gemaakt.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 14
+
+1. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening (EU) 1151/2012 verricht.
+
+2. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.
+
+3. De voorzieningenrechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.
+
+4. Schadevergoeding kan slechts worden gevorderd van degene die de handelingen bewust verricht. Van bewust handelen is in elk geval sprake, indien de inbreuk is gepleegd nadat de betrokkene bij deurwaardersexploot op de strijd tussen de handelingen en de geografische aanduiding is gewezen.
+
+5. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
+
+6. In plaats van schadevergoeding kan worden gevorderd, dat de verweerder veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter echter van oordeel is dat de omstandigheden van het geval geen aanleiding geven tot een dergelijke veroordeling, zal de rechter de verweerder tot schadevergoeding kunnen veroordelen.
+
+7. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens de overige houders van de desbetreffende geografische aanduiding instellen.
+
+8. De houder van een geografische aanduiding of geografische oorsprongsbenaming heeft de bevoegdheid roerende zaken, waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken als zijn eigendom op te eisen, dan wel onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.
+
+9. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor.
+
+10. De maatregelen bedoeld in het achtste en negende lid worden op kosten van de verweerder uitgevoerd, tenzij bijzondere redenen dit beletten.
+
+11. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
+
+12. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
+
+##### Artikel 15
+
+1. Met het toezicht op de naleving van bij of krachtens een landbouwkwaliteitsbesluit gestelde eisen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en de bij besluit van Onze Minister aangewezen personen, werkzaam bij een controle-instelling.
+
+2. Onze Minister en Onze Ministers, wie het mede aangaat, kunnen tezamen nadere voorschriften geven betreffende de monsterneming, de verpakking, de conservering, de verzegeling, de verzending en het onderzoek der monsters.
+
+3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+##### Artikel 16
+
+*Vervallen*
+
+##### Artikel 17
+
+*Vervallen*
+
+##### Artikel 18
+
+1. Aan het slot van [artikel 1, onder 4*e*, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
+
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2021-03-01&g=2021-03-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
+
+##### Artikel 19
+
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+
+##### Artikel 20
+
+1. Deze wet kan worden aangehaald als: "Landbouwkwaliteitswet".
+
+2. Zij treedt in werking met ingang van een door Ons te bepalen tijdstip.

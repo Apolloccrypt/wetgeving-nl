@@ -1,49 +1,22 @@
 ---
 title: "Wet van 29 juni 1978, houdende goedkeuring en uitvoering van de op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen"
+citeertitel: "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen"
 identifier: "BWBR0003186"
-country: "nl"
-rank: "wet"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003186"
+categorie: "Overig"
 soort: "wet"
-stam_id: "364553"
-version_id: "536752"
-internal_id: "C536751"
-label_id: "356344"
-dtd_version: "2.0"
-original_entry_into_force: "1979-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003186/1998-01-01/0"
-intitule_bron: "Stb.1978-430"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1978-06-29"
-intitule_status: "goed"
-original_publication: "Stb.1978-430"
-original_signed_date: "1978-06-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "14414"
-entry_into_force_date: "1979-06-01"
-jci_1_3: "jci1.3:c:BWBR0003186&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0003186&g=1998-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen"
-signed_date: "1978-06-29"
-entry_into_force: "1979-06-01"
+publicatiedatum: 1979-06-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0003186"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 29 juni 1978, houdende goedkeuring en uitvoering van de op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen, ingevolge [artikel 60, tweede lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=60) de goedkeuring der Staten-Generaal behoeft alvorens te kunnen worden bekrachtigd;
-
-dat zodanige bekrachtiging het stellen van regelen ter uitvoering van de Overeenkomst vereist;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-De op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationaal vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen, waarvan de Engelse en Franse tekst en de vertaling in het Nederlands in **Tractatenblad** 1972, 112 zijn geplaatst, wordt goedgekeurd voor Nederland.
+De op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationaal vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen, waarvan de Engelse en Franse tekst en de vertaling in het Nederlands in *Tractatenblad* 1972, 112 zijn geplaatst, wordt goedgekeurd voor Nederland.
 
 ##### Artikel 2
 
@@ -97,7 +70,7 @@ Met het toezicht op de naleving van het bepaalde in de [artikelen 3](https://wet
 
 2. Als bevoegde keuringsinstelling voor goederenwagens wordt aangemerkt een door Onze Minister van Verkeer en Waterstaat aangewezen keuringsinstelling.
 
-3. Als bevoegde keuringsinstelling voor vrachtauto's wordt aangemerkt de Dienst Wegverkeer, bedoeld in [artikel 4**a** van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a).
+3. Als bevoegde keuringsinstelling voor vrachtauto's wordt aangemerkt de Dienst Wegverkeer, bedoeld in [artikel 4*a* van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a).
 
 ##### Artikel 9
 
@@ -115,7 +88,7 @@ Met het toezicht op de naleving van het bepaalde in de [artikelen 3](https://wet
 
 4. De keuringsinstelling kan van degene die een keuringscertificaat onder zich heeft de teruggave daarvan vorderen indien zich naar zijn oordeel omstandigheden voordoen of bekend zijn geworden van dien aard dat, zo deze ten tijde van de afgifte van het certificaat hadden bestaan of bekend waren geweest, die afgifte niet zou hebben plaatsgehad. De betrokkene is alsdan verplicht het certificaat onverwijld bij de instelling in te leveren.
 
-5. Voor de behandeling van een verzoek om keuring van een vervoermiddel is een vergoeding verschuldigd. Voor goederenwagens stelt Onze Minister de hoogte van de vergoeding alsmede de wijze van betaling vast. Voor vrachtauto's stelt de Dienst Wegverkeer de hoogte van de vergoeding alsmede de wijze van betaling vast, waarbij [artikel 4**q**, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) van overeenkomstige toepassing is.
+5. Voor de behandeling van een verzoek om keuring van een vervoermiddel is een vergoeding verschuldigd. Voor goederenwagens stelt Onze Minister de hoogte van de vergoeding alsmede de wijze van betaling vast. Voor vrachtauto's stelt de Dienst Wegverkeer de hoogte van de vergoeding alsmede de wijze van betaling vast, waarbij [artikel 4*q*, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) van overeenkomstige toepassing is.
 
 ##### Artikel 10
 
@@ -147,12 +120,10 @@ Daarbij kan worden afgeweken van de [artikelen 3](https://wetten.overheid.nl/jci
 
 ##### Artikel 14
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 15
 
 Deze wet kan worden aangehaald onder de titel "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen".
 
-Zij treedt in werking op een door Ons te bepalen tijdstip met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=1&z=1998-01-01&g=1998-01-01) dat in werking treedt op de dag na de uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Zij treedt in werking op een door Ons te bepalen tijdstip met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=1&z=1998-01-01&g=1998-01-01) dat in werking treedt op de dag na de uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst.

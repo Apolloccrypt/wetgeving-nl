@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 29 april 1970, houdende vaststelling van het Besluit beleggingsinstellingen"
+citeertitel: "Besluit beleggingsinstellingen"
 identifier: "BWBR0002705"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002705"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "239413"
-version_id: "331442"
-internal_id: "C331441"
-label_id: "234704"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002705/2020-01-01/0"
-intitule_bron: "Stb.1970-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1970-04-29"
-intitule_status: "goed"
-original_publication: "Stb.2000-640"
-original_signed_date: "2000-12-20"
-original_published_date: "2000-12-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2000-640"
-entry_into_force_date: "2001-01-01"
-jci_1_3: "jci1.3:c:BWBR0002705&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0002705&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit beleggingsinstellingen"
-signed_date: "2000-12-20"
-entry_into_force: "2001-01-01"
+publicatiedatum: 2001-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0002705"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 29 april 1970, houdende vaststelling van het Besluit beleggingsinstellingen
-
-Op de voordracht van de Staatssecretaris van Financiën van 29 december 1969, nr. B 69/23370, Directie Wetgeving directe belastingen;
-
-Gelet op artikel 28, eerste lid, en tweede lid, letter **b,** en artikel 31, derde lid, letters **a, b** en **c,** van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) (**Stb.** 469);
-
-De Raad van State gehoord (advies van 21 januari 1970, nr. 8);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 22 april 1970, nr. B 70/1850, Directie Wetgeving directe belastingen;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,27 +24,27 @@ Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggi
 
 ##### Artikel 2
 
-1. Het in [artikel 28, tweede lid, onderdeel **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) bedoelde gedeelte van de winst is het positieve bedrag van de voor uitdeling beschikbare winst verminderd met de te verrekenen uitdelingstekorten.
+1. Het in [artikel 28, tweede lid, onderdeel *b,* van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) bedoelde gedeelte van de winst is het positieve bedrag van de voor uitdeling beschikbare winst verminderd met de te verrekenen uitdelingstekorten.
 
 2. Als voor uitdeling beschikbare winst wordt aangemerkt het bedrag van de in het jaar genoten belastbare winst:
 
 - a. verminderd met een evenredig gedeelte van:
 
-- 1°. de aan commissarissen toegekende beloningen voor zover deze op grond van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=11) niet aftrekbaar zijn;
+   - 1°. de aan commissarissen toegekende beloningen voor zover deze op grond van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=11) niet aftrekbaar zijn;
 
-- 2°. de voordelen uit hoofde van een gecontroleerd lichaam die op grond van [artikel 13ab van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) bij het bepalen van de winst in aanmerking worden genomen;
+   - 2°. de voordelen uit hoofde van een gecontroleerd lichaam die op grond van [artikel 13ab van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) bij het bepalen van de winst in aanmerking worden genomen;
 
-- 3°. het saldo aan renten dat op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b) bij het bepalen van de in een jaar genoten winst niet in aftrek komt;
+   - 3°. het saldo aan renten dat op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b) bij het bepalen van de in een jaar genoten winst niet in aftrek komt;
 
-- 4°. de giften voor zover deze op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16) niet aftrekbaar zijn;
+   - 4°. de giften voor zover deze op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16) niet aftrekbaar zijn;
 
-- 5°. de belasting die buiten Nederland in enige vorm naar de winst wordt geheven over voordelen uit niet in Nederland gelegen onroerende zaken, indien voor de beleggingsinstelling te dier zake een regeling ter voorkoming van dubbele belasting van toepassing is;
+   - 5°. de belasting die buiten Nederland in enige vorm naar de winst wordt geheven over voordelen uit niet in Nederland gelegen onroerende zaken, indien voor de beleggingsinstelling te dier zake een regeling ter voorkoming van dubbele belasting van toepassing is;
 
-- 6°. de kosten en lasten voorzover deze op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) in verbinding met [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) en [3.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.15) niet aftrekbaar zijn;
+   - 6°. de kosten en lasten voorzover deze op grond van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) in verbinding met [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) en [3.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.15) niet aftrekbaar zijn;
 
-- 7°. de belasting die wordt geheven op grond van [Artikel IV, onderdeel B, van Hoofdstuk 2 van de Invoeringswet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=IV);
+   - 7°. de belasting die wordt geheven op grond van [Artikel IV, onderdeel B, van Hoofdstuk 2 van de Invoeringswet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=IV);
 
-- 8°. winst die op grond van artikel 15, zestiende lid, tweede zin, van de wet in aanmerking wordt genomen; en
+   - 8°. winst die op grond van artikel 15, zestiende lid, tweede zin, van de wet in aanmerking wordt genomen; en
 
 - b. vermeerderd met een evenredig gedeelte van het voortgewentelde saldo aan renten dat op de voet van [artikel 15b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b) in aftrek komt bij het bepalen van de winst van dat jaar.
 
@@ -118,7 +88,7 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -128,7 +98,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. De inspecteur stelt de bedragen van de toevoeging aan of de vermindering van onderscheidenlijk de herbeleggingsreserve en de afrondingsreserve bij voor bezwaar vatbare beschikking vast. [Artikel 11, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) (**Stb.** 301) is van overeenkomstige toepassing.
+1. De inspecteur stelt de bedragen van de toevoeging aan of de vermindering van onderscheidenlijk de herbeleggingsreserve en de afrondingsreserve bij voor bezwaar vatbare beschikking vast. [Artikel 11, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) (*Stb.* 301) is van overeenkomstige toepassing.
 
 2. Indien enig feit grond oplevert voor het vermoeden dat een toevoeging tot een te laag bedrag of een vermindering tot een te hoog bedrag is vastgesteld, kan de inspecteur de in het eerste lid bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na het einde van het jaar waarop de beschikking betrekking heeft. Indien voor het doen van aangifte uitstel is verleend, wordt de termijn van vijf jaren met de duur van dit uitstel verlengd.
 
@@ -146,7 +116,7 @@ Ten aanzien van beleggingsinstellingen bedraagt de belasting nul percent van het
 
 - b. de reserves als bedoeld zijn in [artikel 3.53, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.53), opgenomen in de winst.
 
-3. Ingeval een beleggingsinstelling in de loop van een jaar niet langer voldoet aan het bepaalde in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) wordt het lichaam reeds met ingang van dat jaar niet meer als beleggingsinstelling aangemerkt, met dien verstande dat ingeval niet wordt voldaan aan het bepaalde in het tweede lid, onderdeel **b,** van dat artikel het lichaam niet meer als beleggingsinstelling wordt aangemerkt met ingang van het jaar waarop de voor uitdeling beschikbare winst betrekking heeft. De bij het begin van het jaar, met ingang waarvan het lichaam niet meer als beleggingsinstelling wordt aangemerkt, aanwezige afrondingsreserve wordt opgenomen in de winst van dat jaar.
+3. Ingeval een beleggingsinstelling in de loop van een jaar niet langer voldoet aan het bepaalde in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) wordt het lichaam reeds met ingang van dat jaar niet meer als beleggingsinstelling aangemerkt, met dien verstande dat ingeval niet wordt voldaan aan het bepaalde in het tweede lid, onderdeel *b,* van dat artikel het lichaam niet meer als beleggingsinstelling wordt aangemerkt met ingang van het jaar waarop de voor uitdeling beschikbare winst betrekking heeft. De bij het begin van het jaar, met ingang waarvan het lichaam niet meer als beleggingsinstelling wordt aangemerkt, aanwezige afrondingsreserve wordt opgenomen in de winst van dat jaar.
 
 4. Het negatieve saldo aan besmette voordelen, bedoeld in [artikel 13ab, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), dat is ontstaan in een periode waarin een belastingplichtige als beleggingsinstelling is aangemerkt (statusperiode), vermeerdert niet een positief saldo van besmette voordelen als bedoeld in artikel 13ab, eerste en tweede lid, van de wet buiten de statusperiode.
 
@@ -156,12 +126,10 @@ Ten aanzien van beleggingsinstellingen bedraagt de belasting nul percent van het
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
+1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.
 
 2. Dit besluit kan worden aangehaald als: Besluit beleggingsinstellingen.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

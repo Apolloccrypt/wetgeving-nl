@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 7 maart 1985, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 31a, vijfde lid, van de Wet op de ondernemingsraden 1985"
+citeertitel: "Besluit verstrekking financiële informatie aan ondernemingsraden 1985"
 identifier: "BWBR0003773"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003773"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "1200643"
-version_id: "1770942"
-internal_id: "C1770941"
-label_id: "1162864"
-dtd_version: "2.0"
-original_entry_into_force: "1985-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003773/2022-01-01/0"
-intitule_bron: "Stb.1985-151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-03-07"
-intitule_status: "goed"
-original_publication: "Stb.1985-151"
-original_signed_date: "1985-03-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-01-01"
-jci_1_3: "jci1.3:c:BWBR0003773&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0003773&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verstrekking financiële informatie aan ondernemingsraden 1985"
-signed_date: "1985-03-07"
-entry_into_force: "1985-01-01"
+publicatiedatum: 1985-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0003773"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 7 maart 1985, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 31a, vijfde lid, van de Wet op de ondernemingsraden 1985
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 30 november 1984, Directoraat-Generaal voor Algemene Beleidsaangelegenheden, Directie Bijzondere Vraagstukken van Arbeidsverhoudingen, nr. BVA/84/4963/M&O;, gedaan mede namens Onze Minister van Justitie;
-
-Gelet op [artikel 31**a**, vijfde lid, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), zoals deze laatstelijk is gewijzigd bij de Wet van 7 december 1983 (**Stb.** 1983, 663);
-
-De Raad van State gehoord (advies van 12 februari 1985, No. W12.84.0727/12.5.06);
-
-Gezien het nader rapport van Onze Ministers van Sociale Zaken en Werkgelegenheid en van Justitie van 25 februari 1985, Directoraat-Generaal voor Algemene Beleidsaangelegenheden, Nr. ABA/BVA/85/785/M&O;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. ondernemer: de ondernemer, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) (**Stb.** 1979, 449) die een ondernemingsraad heeft ingesteld, met uitzondering van de coöperatieve vereniging, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid;
+- a. ondernemer: de ondernemer, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) (*Stb.* 1979, 449) die een ondernemingsraad heeft ingesteld, met uitzondering van de coöperatieve vereniging, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid;
 
 - b. ondernemingsraad: de door de ondernemer ingestelde ondernemingsraad waarop de bepalingen van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) van toepassing zijn;
 
@@ -56,7 +28,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01) en [zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), en [31**b** van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b).
+De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01) en [zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), en [31*b* van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b).
 
 ##### Artikel 3
 
@@ -64,11 +36,11 @@ De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maan
 
 2. Is de ondernemer een kerkgenootschap of een zelfstandig onderdeel daarvan, of een ander genootschap op geestelijke grondslag, dan kan hij in plaats van jaarstukken betreffende die rechtspersoon, ter bespreking aan de ondernemingsraad jaarstukken verstrekken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld.
 
-3. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), eerste, zesde en zevende lid, en [31**b** van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b).
+3. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), eerste, zesde en zevende lid, en [31*b* van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b).
 
 ##### Artikel 4
 
-1. Indien twee of meer personen te zamen werkzaamheden verrichten in de vorm van een maatschap of een niet rechtspersoonlijkheid bezittende vennootschap, draagt ieder van hen zorg dat jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken worden verstrekt betreffende die maatschap of vennootschap. Daarbij worden tevens de gegevens en mededelingen als bedoeld in de [artikelen 31**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), eerste, zesde en zevende lid, en [31**b** van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b), verstrekt.
+1. Indien twee of meer personen te zamen werkzaamheden verrichten in de vorm van een maatschap of een niet rechtspersoonlijkheid bezittende vennootschap, draagt ieder van hen zorg dat jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken worden verstrekt betreffende die maatschap of vennootschap. Daarbij worden tevens de gegevens en mededelingen als bedoeld in de [artikelen 31*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), eerste, zesde en zevende lid, en [31*b* van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b), verstrekt.
 
 2. Indien de maatschap of de niet rechtspersoonlijkheid bezittende vennootschap een bestuur heeft, dan rusten de in dit besluit vermelde verplichtingen op het bestuur.
 
@@ -196,16 +168,14 @@ Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt
 
 ##### Artikel 14
 
-Het besluit verstrekking financiële informatie aan ondernemingsraden van 22 april 1980 (**Stb.** 1980, 226) wordt ingetrokken.
+Het besluit verstrekking financiële informatie aan ondernemingsraden van 22 april 1980 (*Stb.* 1980, 226) wordt ingetrokken.
 
 ##### Artikel 15
 
-1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1985.
+1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1985.
 
 2. Het vindt ten aanzien van iedere betrokken ondernemer voor het eerst toepassing ten aanzien van het boekjaar dat in 1984 is aangevangen.
 
 ##### Artikel 16
 
 Dit besluit kan worden aangehaald als: Besluit verstrekking financiële informatie aan ondernemingsraden 1985.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

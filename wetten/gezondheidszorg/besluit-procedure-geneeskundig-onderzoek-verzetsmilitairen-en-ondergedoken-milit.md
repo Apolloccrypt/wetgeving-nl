@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 25 augustus 1979, houdende vaststelling van de procedure voor het geneeskundig onderzoek ten aanzien van verzetsmilitairen en ondergedoken militairen"
+citeertitel: "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen"
 identifier: "BWBR0003262"
-country: "nl"
-rank: "amvb"
-publication_date: "2005-05-11"
-last_updated: "2005-05-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003262"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "884833"
-version_id: "1291412"
-internal_id: "C1291411"
-label_id: "858314"
-dtd_version: "2.0"
-original_entry_into_force: "1979-09-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003262/2005-05-11/0"
-intitule_bron: "Stb.1979-517"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-08-25"
-intitule_status: "goed"
-original_publication: "Stb.1979-517"
-original_signed_date: "1979-08-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1979-09-29"
-jci_1_3: "jci1.3:c:BWBR0003262&z=2005-05-11&g=2005-05-11"
-jci_1_0: "1.0:c:BWBR0003262&g=2005-05-11"
-citeertitel_status: "officieel"
-short_title: "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen"
-signed_date: "1979-08-25"
-entry_into_force: "1979-09-29"
+publicatiedatum: 1979-09-29
+laatste_update: 2005-05-11
+status: geldig
+toestand: 2005-05-11
+bron: "https://wetten.overheid.nl/BWBR0003262"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 25 augustus 1979, houdende vaststelling van de procedure voor het geneeskundig onderzoek ten aanzien van verzetsmilitairen en ondergedoken militairen
-
-Op de voordracht van de Staatssecretaris van Defensie, C. L. J. van Lent, van 27 februari 1979, afdeling pensioenen en wachtgelden, nr. P.130087/11-T;
-
-Overwegende dat het wenselijk is het geneeskundig onderzoek, waaraan de verzetsmilitair en de ondergedoken militair in de zin van de [Wet verbetering rechtspositie verzetsmilitairen](https://wetten.overheid.nl/jci1.3:c:BWBR0003015) (**Stb.** 1976, 19) onderworpen dienen te worden in geval van ziekten of gebreken, te doen plaatsvinden op een wijze die nauw aansluit bij de wijze waarop het geneeskundig onderzoek bij de uitvoering van de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1977, 493) geschiedt;
-
-Gelet op de [artikelen 3 en 8 van de Wet verbetering rechtspositie verzetsmilitairen](https://wetten.overheid.nl/jci1.3:c:BWBR0003015&artikel=3), alsmede op artikel T 1 van de Algemene militaire pensioenwet;
-
-De Raad van State gehoord (advies van 28 maart 1979 nr. 9);
-
-Gezien het nader rapport van de voornoemde Staatssecretaris van Defensie van 20 augustus 1979, afdeling Pensioenen en Wachtgelden, nr. 456.009/4 W,
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -90,7 +60,7 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 - e. een beschouwing omtrent de vraag of de bij de onderzochte geconstateerde verwonding, verminking, ziekten of gebreken zijn aan te merken als verwonding, ziekten of gebreken, als bedoeld in artikel E 11 van de pensioenwet, daarbij rekening houdend met het bepaalde in artikel 3 van de wet; de beschouwing dient een zo uitvoerig mogelijke motivering van het ingenomen medische standpunt te bevatten;
 
-- f. indien de onder **e**. bedoelde vraag bevestigend wordt beantwoord, vermelding van het zo nauwkeurig mogelijk vastgestelde tijdstip, waarop de geconstateerde verwonding, verminking, ziekten of gebreken zijn opgelopen;
+- f. indien de onder *e*. bedoelde vraag bevestigend wordt beantwoord, vermelding van het zo nauwkeurig mogelijk vastgestelde tijdstip, waarop de geconstateerde verwonding, verminking, ziekten of gebreken zijn opgelopen;
 
 - g. ingeval een verwonding, verminking, ziekten of gebreken, waarvan de onderzochte aanvankelijk hersteld leek te zijn, zich opnieuw hebben geopenbaard, een beschouwing omtrent de oorzaken daarvan;
 
@@ -138,6 +108,4 @@ Dit besluit kan worden aangehaald als "Besluit procedure geneeskundig onderzoek 
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de tweede dag na datum van afgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na datum van afgifte van het *Staatsblad* waarin het wordt geplaatst.

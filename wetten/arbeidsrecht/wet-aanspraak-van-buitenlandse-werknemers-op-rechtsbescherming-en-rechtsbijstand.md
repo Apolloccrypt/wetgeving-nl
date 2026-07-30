@@ -1,43 +1,18 @@
 ---
 title: "Wet van 8 maart 1980, houdende uitvoering van artikel 19, zevende lid van het op 18 oktober 1961 te Turijn gesloten Europees Sociaal Handvest"
+citeertitel: "Wet aanspraak van buitenlandse werknemers op rechtsbescherming en rechtsbijstand"
 identifier: "BWBR0003301"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003301"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1825963"
-version_id: "2722622"
-internal_id: "C2722621"
-label_id: "1780784"
-dtd_version: "2.0"
-original_entry_into_force: "1980-05-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003301/2002-01-01/0"
-intitule_bron: "Stb.1980-95"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-03-08"
-intitule_status: "goed"
-original_publication: "Stb.1980-95"
-original_signed_date: "1980-03-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "15140"
-entry_into_force_date: "1980-05-22"
-jci_1_3: "jci1.3:c:BWBR0003301&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0003301&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet aanspraak van buitenlandse werknemers op rechtsbescherming en rechtsbijstand"
-signed_date: "1980-03-08"
-entry_into_force: "1980-05-22"
+publicatiedatum: 1980-05-22
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0003301"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 8 maart 1980, houdende uitvoering van artikel 19, zevende lid van het op 18 oktober 1961 te Turijn gesloten Europees Sociaal Handvest
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te treffen tot uitvoering van artikel 19, zevende lid, van het op 18 oktober 1961 te Turijn gesloten Europees Sociaal Handvest (**Trb.** 1962, 3 en 1963, 90);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -56,5 +31,3 @@ De werknemers die onderdaan zijn van een staat welke partij is bij het Europees 
 ##### Artikel 4
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

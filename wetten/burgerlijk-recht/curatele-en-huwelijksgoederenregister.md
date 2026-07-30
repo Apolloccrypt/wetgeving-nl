@@ -1,44 +1,17 @@
 ---
 title: "Curatele- en huwelijksgoederenregister"
 identifier: "BWBR0002720"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1970-11-01"
-last_updated: "1970-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002720"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "4281933"
-version_id: "6045492"
-internal_id: "C6248891"
-label_id: "4260464"
-dtd_version: "2.0"
-original_entry_into_force: "1970-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002720/1970-11-01/0"
-intitule_bron: "Stcrt.1970-175"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1970-07-29"
-intitule_published: "1970-09-11"
-intitule_in_force: "1970-09-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1970-175"
-original_signed_date: "1970-07-29"
-original_published_date: "1970-09-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1970-11-01"
-jci_1_3: "jci1.3:c:BWBR0002720&z=1970-11-01&g=1970-11-01"
-jci_1_0: "1.0:c:BWBR0002720&g=1970-11-01"
-citeertitel_status: "officieel"
-signed_date: "1970-07-29"
-entry_into_force: "1970-11-01"
+publicatiedatum: 1970-11-01
+laatste_update: 1970-11-01
+status: geldig
+toestand: 1970-11-01
+bron: "https://wetten.overheid.nl/BWBR0002720"
+opgehaald: 2026-07-30
 ---
+
 # Curatele- en huwelijksgoederenregister
-
-Gezien het verzoek van de Minister van Justitie van 15 augustus 1969, Stafafdeling Wetgeving Nieuw B.W., nr. 310/669;
-
-Gelet op artikel 20 van het Archiefbesluit;
-
-Besluit:
 
 ##### Artikel 1
 

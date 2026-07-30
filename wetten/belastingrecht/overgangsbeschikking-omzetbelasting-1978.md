@@ -1,46 +1,33 @@
 ---
 title: "Overgangsbeschikking omzetbelasting 1978"
 identifier: "BWBR0003216"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1979-01-01"
-last_updated: "1979-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003216"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3736073"
-version_id: "5518972"
-internal_id: "C5712061"
-label_id: "3715854"
-dtd_version: "2.0"
-original_entry_into_force: "1979-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003216/1979-01-01/0"
-intitule_bron: "Stcrt.1978-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1978-12-29"
-intitule_published: "1978-12-29"
-intitule_in_force: "1978-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1978-253"
-original_signed_date: "1978-12-29"
-original_published_date: "1978-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1979-01-01"
-jci_1_3: "jci1.3:c:BWBR0003216&z=1979-01-01&g=1979-01-01"
-jci_1_0: "1.0:c:BWBR0003216&g=1979-01-01"
-citeertitel_status: "officieel"
-signed_date: "1978-12-29"
-entry_into_force: "1979-01-01"
+publicatiedatum: 1979-01-01
+laatste_update: 1979-01-01
+status: geldig
+toestand: 1979-01-01
+bron: "https://wetten.overheid.nl/BWBR0003216"
+opgehaald: 2026-07-30
 ---
+
 # Overgangsbeschikking omzetbelasting 1978
-
-Gelet op artikel II van de wet van 28 december 1978 (Stb. 677).
-
-Besluit:
 
 ##### Artikel 1
 
 Deze beschikking verstaat onder:
+
+a.
+
+wet:
+
+[Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) (Stb. 329);
+
+b.
+
+uitvoeringsbeschikking:
+
+[Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634) (Stcrt. 169).
 
 ##### Artikel 2
 

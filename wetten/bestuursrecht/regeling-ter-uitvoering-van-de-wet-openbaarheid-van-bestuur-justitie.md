@@ -1,50 +1,35 @@
 ---
 title: "Regeling ter uitvoering van de Wet openbaarheid van bestuur (justitie)"
 identifier: "BWBR0003309"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1980-10-28"
-last_updated: "1980-10-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003309"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "3927713"
-version_id: "5680942"
-internal_id: "C19674891"
-label_id: "3907824"
-dtd_version: "2.0"
-original_entry_into_force: "1980-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003309/1980-10-28/0"
-intitule_bron: "Stcrt.1980-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-04-10"
-intitule_published: "1980-05-14"
-intitule_in_force: "1980-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1980-92"
-original_signed_date: "1980-04-10"
-original_published_date: "1980-05-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1980-04-03"
-jci_1_3: "jci1.3:c:BWBR0003309&z=1980-10-28&g=1980-10-28"
-jci_1_0: "1.0:c:BWBR0003309&g=1980-10-28"
-citeertitel_status: "officieel"
-signed_date: "1980-04-10"
-entry_into_force: "1980-04-03"
+publicatiedatum: 1980-04-03
+laatste_update: 1980-10-28
+status: geldig
+toestand: 1980-10-28
+bron: "https://wetten.overheid.nl/BWBR0003309"
+opgehaald: 2026-07-30
 ---
+
 # Regeling ter uitvoering van de Wet openbaarheid van bestuur (justitie)
-
-Overwegende, dat de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), die in werking treedt met ingang van 1 mei 1980, nadere regelingen voor het Ministerie van Justitie nodig maakt,
-
-Besluit:
-
-voor het Ministerie van Justitie vast te stellen de navolgende [regeling ter uitvoering van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005461).
 
 #### Algemeen
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
+
+de wet:
+
+de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), Stb. 1978, 581;
+
+het besluit:
+
+het Besluit openbaarheid van bestuur, Stb. 1979, 590;
+
+aanwijzing:
+
+het desbetreffende onderdeel van de Aanwijzingen inzake de openbaarheid van bestuur, vastgesteld bij besluit van de Minister-President van 21 december 1979, nr. 292146, Stcrt. 1980, 6.
 
 #### Registers
 

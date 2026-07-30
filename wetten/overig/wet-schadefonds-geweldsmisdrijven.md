@@ -1,45 +1,18 @@
 ---
 title: "Wet van 26 juni 1975, houdende voorlopige regeling schadefonds geweldsmisdrijven"
+citeertitel: "Wet schadefonds geweldsmisdrijven"
 identifier: "BWBR0002979"
-country: "nl"
-rank: "wet"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002979"
+categorie: "Overig"
 soort: "wet"
-stam_id: "115383"
-version_id: "25741032"
-internal_id: "C36751871"
-label_id: "115804"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002979/2024-07-01/0"
-intitule_bron: "Stb.1975-382"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1975-06-26"
-intitule_status: "goed"
-original_publication: "Stb.2019-116"
-original_signed_date: "2019-03-06"
-original_published_date: "2019-03-19"
-original_effect: "structuurwijziging"
-original_dossier: "35041"
-original_url_id: "stb-2019-116"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBR0002979&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0002979&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet schadefonds geweldsmisdrijven"
-signed_date: "2019-03-06"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0002979"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 26 juni 1975, houdende voorlopige regeling schadefonds geweldsmisdrijven
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voorlopige regelen te geven voor de instelling van een fonds waaruit uitkeringen kunnen worden toegekend aan personen die ten gevolge van een geweldsmisdrijf zwaar lichamelijk letsel hebben bekomen, alsmede aan bepaalde nabestaanden van die personen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -149,23 +122,31 @@ De inrichting en werkwijze van de commissie en het secretariaat worden nader ger
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
+
+##### Artikel 18a
+
+1. Een ieder die in het Europese deel van Nederland zijn gewone verblijfplaats heeft en die na 1 januari 2006 in een andere Lid-Staat van de Europese Unie slachtoffer is geworden van een opzettelijk gepleegd geweldsmisdrijf, kan een aanvraag om een uitkering door de desbetreffende Lid-Staat indienen bij de commissie.
+
+2. De commissie zendt een aanvraag tot uitkering zo spoedig mogelijk door aan de bevoegde instantie van de desbetreffende Lid-Staat.
+
+3. Bij algemene maatregel van bestuur worden regels gesteld omtrent het indienen van een aanvraag om uitkering en de procedure van afhandeling daarvan.
 
 ##### Artikel 19
 
@@ -185,7 +166,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven betreffend
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
@@ -200,15 +181,3 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 ##### Artikel 24
 
 Deze wet kan worden aangehaald als "Wet schadefonds geweldsmisdrijven".
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18a
-
-1. Een ieder die in het Europese deel van Nederland zijn gewone verblijfplaats heeft en die na 1 januari 2006 in een andere Lid-Staat van de Europese Unie slachtoffer is geworden van een opzettelijk gepleegd geweldsmisdrijf, kan een aanvraag om een uitkering door de desbetreffende Lid-Staat indienen bij de commissie.
-
-2. De commissie zendt een aanvraag tot uitkering zo spoedig mogelijk door aan de bevoegde instantie van de desbetreffende Lid-Staat.
-
-3. Bij algemene maatregel van bestuur worden regels gesteld omtrent het indienen van een aanvraag om uitkering en de procedure van afhandeling daarvan.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

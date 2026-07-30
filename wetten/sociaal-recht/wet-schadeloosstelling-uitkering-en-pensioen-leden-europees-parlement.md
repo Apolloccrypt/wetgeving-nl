@@ -1,46 +1,18 @@
 ---
 title: "Wet van 5 juli 1979, inzake de schadeloosstelling en de toekenning van uitkering en pensioen aan de leden en de gewezen leden van het Europees Parlement, alsmede van pensioen aan hun weduwen en wezen"
+citeertitel: "Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement"
 identifier: "BWBR0003251"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-10"
-last_updated: "2021-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003251"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "121603"
-version_id: "16124772"
-internal_id: "C22123571"
-label_id: "121934"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003251/2021-07-10/0"
-intitule_bron: "Stb.1979-379"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-07-05"
-intitule_status: "goed"
-original_publication: "Stb.2009-37"
-original_signed_date: "2008-12-18"
-original_published_date: "2009-02-05"
-original_effect: "structuurwijziging"
-original_dossier: "31561"
-original_url_id: "stb-2009-37"
-entry_into_force_date: "2008-12-18"
-entry_into_force_dossier: "31561"
-jci_1_3: "jci1.3:c:BWBR0003251&z=2021-07-10&g=2021-07-10"
-jci_1_0: "1.0:c:BWBR0003251&g=2021-07-10"
-citeertitel_status: "officieel"
-short_title: "Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement"
-signed_date: "2008-12-18"
-entry_into_force: "2008-12-18"
+publicatiedatum: 2008-12-18
+laatste_update: 2021-07-10
+status: geldig
+toestand: 2021-07-10
+bron: "https://wetten.overheid.nl/BWBR0003251"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 5 juli 1979, inzake de schadeloosstelling en de toekenning van uitkering en pensioen aan de leden en de gewezen leden van het Europees Parlement, alsmede van pensioen aan hun weduwen en wezen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een regeling te treffen voor de schadeloosstelling van de in Nederland gekozen leden van het Europese Parlement en voor toekenning van een uitkering en een pensioen aan de gewezen leden van het Europese Parlement, alsmede van een pensioen aan hun weduwen en wezen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -48,15 +20,21 @@ Deze wet verstaat onder:
 
 - a. het Europese Parlement: de Vergadering bestaande uit de vertegenwoordigers van de volkeren van de in de Europese Gemeenschappen verenigde staten;
 
-- b. lid van het Europese Parlement: de in Nederland gekozen vertegenwoordiger in de onder **a** bedoelde vergadering;
+- b. lid van het Europese Parlement: de in Nederland gekozen vertegenwoordiger in de onder *a* bedoelde vergadering;
 
 - c. schadeloosstelling: de schadeloosstelling voor de leden van het Europese Parlement, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=2&z=2021-07-10&g=2021-07-10).
+
+##### Artikel 1a
+
+1. Deze wet is niet van toepassing op de leden van het Europees Parlement die volledig vallen onder de werking van het Statuut van de leden van het Europees Parlement (besluit nr. 2005/684/EG van het Europees Parlement van 28 september 2005, PbEU L 262).
+
+2. Het eerste lid geldt niet zover het betreft de door die leden op grond van deze wet opgebouwde pensioenaanspraken.
 
 ##### Artikel 2
 
 1. De schadeloosstelling komt overeen met de schadeloosstelling, bedoeld in [artikel 2, van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=2).
 
-2. Op de schadeloosstelling wordt een bedrag van € 11 530,10 ingehouden.
+2. Op de schadeloosstelling wordt een bedrag van € 11 530,10 ingehouden.
 
 ##### Artikel 2a
 
@@ -68,11 +46,11 @@ Deze wet verstaat onder:
 
 ##### Artikel 2b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -118,7 +96,7 @@ Vervallen
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -144,7 +122,7 @@ De leden van het Europese Parlement hebben bij aftreden aanspraak op uitkering o
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -152,27 +130,27 @@ De kosten van de uit deze wet voortvloeiende schadeloosstellingen, uitkeringen, 
 
 ##### Artikel 12
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 13
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 14
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 15
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 16
 
-Wanneer na de dag na de inwerkingtreding van deze wet met terugwerkende kracht tot vóór die dag toepassing wordt gegeven aan artikel 7 van de Wet van 30 oktober 1968 (**Stb**. 584) vindt [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=10&z=2021-07-10&g=2021-07-10) mede toepassing.
+Wanneer na de dag na de inwerkingtreding van deze wet met terugwerkende kracht tot vóór die dag toepassing wordt gegeven aan artikel 7 van de Wet van 30 oktober 1968 (*Stb*. 584) vindt [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=10&z=2021-07-10&g=2021-07-10) mede toepassing.
 
 ##### Artikel 17
 
-Indien een lid van het Europese Parlement dat op de dag van zijn benoemdverklaring lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder is, en krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2021-07-10&g=2021-07-10) aanspraak heeft op uitkering ter zake van het aftreden als lid van het Europese Parlement vóór of aan het einde van de in 1979 aangevangen periode van vijf jaar, bedoeld in artikel 3, eerste lid, van de Akte van 20 september 1976, **Trb.** 1976, 175, wordt de vóór het ontslag als lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder zonder wezenlijke onderbreking als zodanig vervulde tijd voor de toepassing van [artikel 52, eerste lid, tweede volzin, van de Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52) geacht als lid van het Europese Parlement te zijn vervuld.
+Indien een lid van het Europese Parlement dat op de dag van zijn benoemdverklaring lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder is, en krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=7&z=2021-07-10&g=2021-07-10) aanspraak heeft op uitkering ter zake van het aftreden als lid van het Europese Parlement vóór of aan het einde van de in 1979 aangevangen periode van vijf jaar, bedoeld in artikel 3, eerste lid, van de Akte van 20 september 1976, *Trb.* 1976, 175, wordt de vóór het ontslag als lid van de Tweede Kamer, lid van gedeputeerde staten, dan wel wethouder zonder wezenlijke onderbreking als zodanig vervulde tijd voor de toepassing van [artikel 52, eerste lid, tweede volzin, van de Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52) geacht als lid van het Europese Parlement te zijn vervuld.
 
 ##### Artikel 17a
 
@@ -184,16 +162,6 @@ Deze wet kan worden aangehaald als Wet schadeloosstelling, uitkering en pensioen
 
 ##### Artikel 19
 
-1. Deze wet treedt, behoudens het bepaalde in het tweede lid, in werking met ingang van 17 juli 1979. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 17 juli 1979, treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** en werkt zij terug tot 17 juli 1979.
+1. Deze wet treedt, behoudens het bepaalde in het tweede lid, in werking met ingang van 17 juli 1979. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 17 juli 1979, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* en werkt zij terug tot 17 juli 1979.
 
 2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=12&z=2021-07-10&g=2021-07-10) treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Deze wet is niet van toepassing op de leden van het Europees Parlement die volledig vallen onder de werking van het Statuut van de leden van het Europees Parlement (besluit nr. 2005/684/EG van het Europees Parlement van 28 september 2005, PbEU L 262).
-
-2. Het eerste lid geldt niet zover het betreft de door die leden op grond van deze wet opgebouwde pensioenaanspraken.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

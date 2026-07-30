@@ -1,42 +1,17 @@
 ---
 title: "Aanwijzing onderwijsinstituten"
 identifier: "BWBR0003689"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003689"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "3887743"
-version_id: "5651312"
-internal_id: "C5844311"
-label_id: "3867664"
-dtd_version: "2.0"
-original_entry_into_force: "1984-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003689/2022-08-01/0"
-intitule_bron: "Stcrt.1985-4"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-06-29"
-intitule_published: "1985-01-07"
-intitule_in_force: "1985-01-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-4"
-original_signed_date: "1984-06-29"
-original_published_date: "1985-01-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1984-08-01"
-jci_1_3: "jci1.3:c:BWBR0003689&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0003689&g=2022-08-01"
-citeertitel_status: "officieel"
-signed_date: "1984-06-29"
-entry_into_force: "1984-08-01"
+publicatiedatum: 1984-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0003689"
+opgehaald: 2026-07-30
 ---
+
 # Aanwijzing onderwijsinstituten
-
-Gelet op de [artikelen 1, onder c sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1) en [32 c van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=32c) (Stb. 1971, 406).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,19 +21,19 @@ Voor de toepassing van de Leerplichtwet 1969 worden tot wederopzegging, aangewez
 
 - 2e. de door mij goedgekeurde cursussen in het kader van de samenwerkingsverbanden vormingswerk/beroepsbegeleidend onderwijs verbonden aan:
 
-- a. de zelfstandige streekscholen voor beroepsbegeleidend onderwijs en
+   - a. de zelfstandige streekscholen voor beroepsbegeleidend onderwijs en
 
-- b. de scholen voor beroepsonderwijs, voorzover daaraan cursussen worden gegeven voor algemeen en op het beroep gericht onderwijs als bedoeld in de Wet op het leerlingwezen;
+   - b. de scholen voor beroepsonderwijs, voorzover daaraan cursussen worden gegeven voor algemeen en op het beroep gericht onderwijs als bedoeld in de Wet op het leerlingwezen;
 
 - 3e. de cursussen algemene vorming en beroepsoriëentering verbonden aan:
 
-- a. de streekschool voor werkende jeugd te 's-Gravenhage;
+   - a. de streekschool voor werkende jeugd te 's-Gravenhage;
 
-- b. de streekschool voor beroepsbegeleidend onderwijs ‘Jong Leven’ te Nijmegen;
+   - b. de streekschool voor beroepsbegeleidend onderwijs ‘Jong Leven’ te Nijmegen;
 
-- c. de streekschool voor beroepsbegeleidend onderwijs te 's-Hertogenbosch;
+   - c. de streekschool voor beroepsbegeleidend onderwijs te 's-Hertogenbosch;
 
-- d. de streekschool voor beroepsbegeleidend onderwijs te Eindhoven.
+   - d. de streekschool voor beroepsbegeleidend onderwijs te Eindhoven.
 
 - 4e. de avondscholen en dag-avondscholen voor middelbaar algemeen voortgezet onderwijs, voor hoger algemeen voortgezet onderwijs, dan wel voor middelbaar economisch en administratief onderwijs;
 

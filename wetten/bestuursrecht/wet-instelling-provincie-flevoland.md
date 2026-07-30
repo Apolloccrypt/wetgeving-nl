@@ -1,43 +1,18 @@
 ---
 title: "Wet van 27 juni 1985, tot instelling van een provincie Flevoland, indeling bij die provincie van de gemeenten Almere, Dronten, Lelystad en Zeewolde en overgang naar die provincie van de gemeenten Noordoostpolder en Urk; tevens houdende wijziging van de Provinciewet en enkele andere wetten"
+citeertitel: "Wet instelling provincie Flevoland"
 identifier: "BWBR0003816"
-country: "nl"
-rank: "wet"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003816"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "509083"
-version_id: "749162"
-internal_id: "C749161"
-label_id: "495734"
-dtd_version: "2.0"
-original_entry_into_force: "1985-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003816/1996-01-01/0"
-intitule_bron: "Stb.1985-360"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-06-27"
-intitule_status: "goed"
-original_publication: "Stb.1985-360"
-original_signed_date: "1985-06-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "18738"
-entry_into_force_date: "1985-07-05"
-jci_1_3: "jci1.3:c:BWBR0003816&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0003816&g=1996-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet instelling provincie Flevoland"
-signed_date: "1985-06-27"
-entry_into_force: "1985-07-05"
+publicatiedatum: 1985-07-05
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0003816"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 27 juni 1985, tot instelling van een provincie Flevoland, indeling bij die provincie van de gemeenten Almere, Dronten, Lelystad en Zeewolde en overgang naar die provincie van de gemeenten Noordoostpolder en Urk; tevens houdende wijziging van de Provinciewet en enkele andere wetten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een provincie Flevoland in te stellen, de gemeenten Almere, Dronten, Lelystad en Zeewolde en een gedeelte van het Markermeer bij die provincie in te delen en de gemeenten Noordoostpolder en Urk naar die provincie te doen overgaan en de grens van het openbaar lichaam "Zuidelijke IJsselmeerpolders" te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § I. Algemene bepalingen
 
@@ -132,25 +107,25 @@ Ten aanzien van de eerste verkiezing van de leden van provinciale staten van de 
 
 ##### Artikel 5
 
-Voor de toepassing van [artikel B1 van de Kieswet](onbekend) en [artikel 8 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=8) worden onder ingezetenen van de provincie verstaan degenen die hun werkelijke woonplaats hebben in het gebied dat met ingang van de datum van instelling het grondgebied van die provincie vormt.
+Voor de toepassing van artikel B1 van de Kieswet en [artikel 8 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=8) worden onder ingezetenen van de provincie verstaan degenen die hun werkelijke woonplaats hebben in het gebied dat met ingang van de datum van instelling het grondgebied van die provincie vormt.
 
 ##### Artikel 6
 
 1. Tot de datum van instelling geschiedt de benoeming van de plaatsvervangend voorzitter, de andere leden alsmede de plaatsvervangende leden van de hoofdstembureaus door Onze Minister van Binnenlandse Zaken.
 
-2. De benoemingen, bedoeld in [artikel E6 van de Kieswet](onbekend), geschieden voor een periode die eindigt op hetzelfde tijdstip als de eerste zittingsperiode van provinciale staten van de provincie.
+2. De benoemingen, bedoeld in artikel E6 van de Kieswet, geschieden voor een periode die eindigt op hetzelfde tijdstip als de eerste zittingsperiode van provinciale staten van de provincie.
 
 ##### Artikel 7
 
-De kandidaatstelling en de stemming vinden plaats op door Onze Minister van Binnenlandse Zaken met inachtneming van [artikel I1 van de Kieswet](onbekend) te bepalen dagen, met dien verstande dat de stemming voor de datum van instelling plaatsvindt.
+De kandidaatstelling en de stemming vinden plaats op door Onze Minister van Binnenlandse Zaken met inachtneming van artikel I1 van de Kieswet te bepalen dagen, met dien verstande dat de stemming voor de datum van instelling plaatsvindt.
 
 ##### Artikel 8
 
-De waarborgsom, bedoeld in [artikel G15 van de Kieswet](onbekend), moet worden gestort in of overgemaakt ten behoeve van 's Rijks kas. Een storting als bedoeld in de vorige volzin vindt plaats bij Onze Minister van Binnenlandse Zaken. Een overmaking als bedoeld in de eerste volzin dient uiterlijk op de veertiende dag vóór die der kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening bij de Postcheque- en Girodienst van Onze Minister van Binnenlandse Zaken, onder vermelding van de aanduiding "waarborgsom", alsmede van de kieskring waar de lijst wordt ingediend.
+De waarborgsom, bedoeld in artikel G15 van de Kieswet, moet worden gestort in of overgemaakt ten behoeve van 's Rijks kas. Een storting als bedoeld in de vorige volzin vindt plaats bij Onze Minister van Binnenlandse Zaken. Een overmaking als bedoeld in de eerste volzin dient uiterlijk op de veertiende dag vóór die der kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening bij de Postcheque- en Girodienst van Onze Minister van Binnenlandse Zaken, onder vermelding van de aanduiding "waarborgsom", alsmede van de kieskring waar de lijst wordt ingediend.
 
 ##### Artikel 9
 
-Bij de eerste verkiezing van de leden van provinciale staten blijft [artikel H14 van de Kieswet](onbekend) buiten toepassing.
+Bij de eerste verkiezing van de leden van provinciale staten blijft artikel H14 van de Kieswet buiten toepassing.
 
 ##### Artikel 10
 
@@ -158,17 +133,17 @@ Provinciale staten van de provincie zullen bestaan uit het door Onze Minister va
 
 ##### Artikel 11
 
-Onze Minister van Binnenlandse Zaken kan zo nodig besluiten tot afwijking van de in [artikel G2, eerste lid, van de Kieswet](onbekend) bedoelde termijnen inzake de registratie van namen en aanduidingen van politieke groeperingen. Een zodanig besluit wordt gepubliceerd in de **Nederlandse Staatscourant**.
+Onze Minister van Binnenlandse Zaken kan zo nodig besluiten tot afwijking van de in artikel G2, eerste lid, van de Kieswet bedoelde termijnen inzake de registratie van namen en aanduidingen van politieke groeperingen. Een zodanig besluit wordt gepubliceerd in de *Nederlandse Staatscourant*.
 
 ##### Artikel 12
 
-1. In afwijking van [artikel C2, eerste lid, van de Kieswet](onbekend) eindigt de eerste zittingsperiode van de leden van provinciale staten van de provincie op het tijdstip waarop de op de datum van instelling zittende leden van de provinciale staten van de overige provincies aftreden.
+1. In afwijking van artikel C2, eerste lid, van de Kieswet eindigt de eerste zittingsperiode van de leden van provinciale staten van de provincie op het tijdstip waarop de op de datum van instelling zittende leden van de provinciale staten van de overige provincies aftreden.
 
 2. Indien de datum van instelling valt binnen een jaar vóór de datum waarop de verkiezingen van de leden van provinciale staten ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) moeten worden gehouden, vinden deze verkiezingen in de provincie niet plaats. De zittingsperiode van de bij de eerste verkiezing gekozen leden van de staten van de provincie wordt in dat geval verlengd. Deze leden treden dan af tegelijk met de leden van de provinciale staten van de overige provincies, gekozen bij de verkiezingen, bedoeld in de eerste volzin.
 
 ##### Artikel 13
 
-Het onderzoek, bedoeld in [artikel U5 van de Kieswet](onbekend), van de geloofsbrieven van de benoemde leden van de staten van de provincie geschiedt door die leden.
+Het onderzoek, bedoeld in artikel U5 van de Kieswet, van de geloofsbrieven van de benoemde leden van de staten van de provincie geschiedt door die leden.
 
 ##### Artikel 14
 
@@ -242,7 +217,7 @@ Wettelijke procedures en rechtsgedingen waarbij het voorbereidingslichaam is bet
 
 ##### Artikel 25
 
-1. De voorschriften welke zijn gegeven krachtens onderscheidenlijk [artikel 4 van de Wet van 25 maart 1971 tot instelling van een gemeente Dronten](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&artikel=4) (**Stb.** 342) voor het grondgebied van de gemeente Dronten, [artikel 4 van de Wet van 5 juli 1979 tot instelling van een gemeente Lelystad](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&artikel=4) (**Stb.** 378) voor het grondgebied van de gemeente Lelystad alsmede [artikel 4 van de Wet van 6 juli 1983 tot instelling van de gemeenten Almere en Zeewolde](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&artikel=4) (**Stb.** 328) en artikel 6 van de Wet openbaar lichaam Zuidelijke IJsselmeerpolders (**Stb.** 1955, 521) voor het grondgebied van de gemeenten Almere en Zeewolde en van het openbaar lichaam "Zuidelijke IJsselmeerpolders", behoudens, indien en voor zover deze voorschriften gelden op de dag voorafgaande aan de datum van instelling, met ingang van die datum gedurende twee jaren hun rechtskracht, voor zover het bestuur van de provincie deze niet eerder vervallen verklaart.
+1. De voorschriften welke zijn gegeven krachtens onderscheidenlijk [artikel 4 van de Wet van 25 maart 1971 tot instelling van een gemeente Dronten](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&artikel=4) (*Stb.* 342) voor het grondgebied van de gemeente Dronten, [artikel 4 van de Wet van 5 juli 1979 tot instelling van een gemeente Lelystad](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&artikel=4) (*Stb.* 378) voor het grondgebied van de gemeente Lelystad alsmede [artikel 4 van de Wet van 6 juli 1983 tot instelling van de gemeenten Almere en Zeewolde](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&artikel=4) (*Stb.* 328) en artikel 6 van de Wet openbaar lichaam Zuidelijke IJsselmeerpolders (*Stb.* 1955, 521) voor het grondgebied van de gemeenten Almere en Zeewolde en van het openbaar lichaam "Zuidelijke IJsselmeerpolders", behoudens, indien en voor zover deze voorschriften gelden op de dag voorafgaande aan de datum van instelling, met ingang van die datum gedurende twee jaren hun rechtskracht, voor zover het bestuur van de provincie deze niet eerder vervallen verklaart.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing op alle geldende voorschriften in de in dat lid genoemde gebieden die zijn gegeven krachtens een provinciale bevoegdheid, alsmede op de in overgaand gebied geldende voorschriften van het bestuur van de provincie Overijssel.
 
@@ -332,7 +307,7 @@ Met betrekking tot de voorziening van drinkwater, elektriciteit en gas worden de
 
 1. De rechten en verplichtingen van de provincie Overijssel voor zover betrekking hebbend op overgaand gebied en van de provincie Gelderland en van de gemeenten Almere, Dronten, Lelystad en Zeewolde, voor zover betrekking hebbend op door die provincie en die gemeenten uitgeoefende taken van de provincie, gaan met ingang van de datum van instelling tegen boekwaarde over op het bestuur van de provincie zonder dat daartoe een nadere akte wordt gevorderd.
 
-2. Met ingang van de datum van instelling gaan alle archiefbescheiden van de provincie Overijssel, uitsluitend betrekking hebbend op overgaand gebied, over naar de provincie. De overbrenging, bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) (**Stb.** 276), geschiedt ten aanzien van deze bescheiden als had geen gebiedsovergang plaatsgevonden. Van de overgang van de archiefbescheiden wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
+2. Met ingang van de datum van instelling gaan alle archiefbescheiden van de provincie Overijssel, uitsluitend betrekking hebbend op overgaand gebied, over naar de provincie. De overbrenging, bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) (*Stb.* 276), geschiedt ten aanzien van deze bescheiden als had geen gebiedsovergang plaatsgevonden. Van de overgang van de archiefbescheiden wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
 
 3. Het bestuur van de provincie is te allen tijde bevoegd inzage te nemen van de overige op overgaand gebied betrekking hebbende archiefbescheiden van de provincie Overijssel en daarvan duplicaten te vorderen. De met de verstrekking van die duplicaten gemoeide kosten komen voor de helft ten laste van de provincie en voor de andere helft van de provincie Overijssel.
 
@@ -396,9 +371,9 @@ De ambtenaar wiens dienstverband is geregeld in een arbeidsovereenkomst naar bur
 
 ##### Artikel 47
 
-1. De ambtenaar in vaste of in tijdelijke dienst, mits dit laatste dienstverband ten minste vijf jaren heeft geduurd en de aanstelling niet is geschied in een betrekking van kennelijk tijdelijke aard, die ten gevolge van het bepaalde in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=VI&artikel=44&z=1996-01-01&g=1996-01-01) is ontslagen, heeft ten laste van Hoofdstuk VII van de rijksbegroting recht op wachtgeld volgens de regelen, vastgesteld bij de algemene maatregel van bestuur van 23 november 1972, **Stb.** 671, onverminderd het bepaalde in artikel 4 van die algemene maatregel.
+1. De ambtenaar in vaste of in tijdelijke dienst, mits dit laatste dienstverband ten minste vijf jaren heeft geduurd en de aanstelling niet is geschied in een betrekking van kennelijk tijdelijke aard, die ten gevolge van het bepaalde in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=VI&artikel=44&z=1996-01-01&g=1996-01-01) is ontslagen, heeft ten laste van Hoofdstuk VII van de rijksbegroting recht op wachtgeld volgens de regelen, vastgesteld bij de algemene maatregel van bestuur van 23 november 1972, *Stb.* 671, onverminderd het bepaalde in artikel 4 van die algemene maatregel.
 
-2. De ambtenaar in tijdelijke dienst wiens dienstverband minder dan vijf jaren heeft geduurd dan wel van kennelijk tijdelijke aard was, alsmede de werknemer in dienst op arbeidsovereenkomst naar burgerlijk recht, die ten gevolge van het bepaalde in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=VI&artikel=44&z=1996-01-01&g=1996-01-01) is ontslagen, onderscheidenlijk wiens dienstverband dientengevolge wordt beëindigd, heeft ten laste van hoofdstuk VII van de rijksbegroting recht op een uitkering volgens de regelen, vastgesteld bij de algemene maatregel van bestuur van 23 november 1972, **Stb.** 672, onverminderd het bepaalde in de artikelen 2 en 6 van die algemene maatregel.
+2. De ambtenaar in tijdelijke dienst wiens dienstverband minder dan vijf jaren heeft geduurd dan wel van kennelijk tijdelijke aard was, alsmede de werknemer in dienst op arbeidsovereenkomst naar burgerlijk recht, die ten gevolge van het bepaalde in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=VI&artikel=44&z=1996-01-01&g=1996-01-01) is ontslagen, onderscheidenlijk wiens dienstverband dientengevolge wordt beëindigd, heeft ten laste van hoofdstuk VII van de rijksbegroting recht op een uitkering volgens de regelen, vastgesteld bij de algemene maatregel van bestuur van 23 november 1972, *Stb.* 672, onverminderd het bepaalde in de artikelen 2 en 6 van die algemene maatregel.
 
 ##### Artikel 48
 
@@ -436,7 +411,7 @@ Onze Minister van Binnenlandse Zaken treft een voorziening ten laste waarvan ove
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
@@ -452,7 +427,7 @@ De uitkeringen met betrekking tot het grondgebied van de gemeenten Noordoostpold
 
 ##### Artikel 58
 
-1. In afwijking van het bepaalde in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=IV&artikel=25&z=1996-01-01&g=1996-01-01), behouden de op de dag voorafgaande aan de datum van instelling geldende verordeningen op de heffing van provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting als bedoeld in [artikel 146 onder **a** van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=146) voor de gebieden omvattende de gemeenten Noordoostpolder en Urk onderscheidenlijk het overige gebied van de provincie hun rechtskracht tot 1 april volgende op de datum van instelling.
+1. In afwijking van het bepaalde in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=IV&artikel=25&z=1996-01-01&g=1996-01-01), behouden de op de dag voorafgaande aan de datum van instelling geldende verordeningen op de heffing van provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting als bedoeld in [artikel 146 onder *a* van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=146) voor de gebieden omvattende de gemeenten Noordoostpolder en Urk onderscheidenlijk het overige gebied van de provincie hun rechtskracht tot 1 april volgende op de datum van instelling.
 
 2. Voor de periode ingaande 1 april na de datum van instelling en eindigend 31 maart van het daarop volgende jaar heft de provincie opcenten op de hoofdsom van de motorrijtuigenbelasting, zonder dat een besluit als bedoeld in [artikel 145 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=145) wordt gevorderd. Het aantal opcenten bedraagt 18.
 
@@ -464,31 +439,31 @@ De uitkeringen met betrekking tot het grondgebied van de gemeenten Noordoostpold
 
 ##### Artikel 59
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 60
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 62
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 63
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 64
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 65
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 #### § IX. Slotbepalingen
 
@@ -505,5 +480,3 @@ Geschillen omtrent de toepassing van deze wet, waarvan de beslissing niet aan an
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld. De datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003816&paragraaf=I&artikel=2&z=1996-01-01&g=1996-01-01) wordt op 1 januari van een kalenderjaar bepaald.
 
 2. Deze wet kan worden aangehaald als Wet instelling provincie Flevoland.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

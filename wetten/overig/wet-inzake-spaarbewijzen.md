@@ -1,44 +1,18 @@
 ---
 title: "Wet van 21 mei 1985, houdende regelen inzake niet op naam gestelde spaarbewijzen"
+citeertitel: "Wet inzake spaarbewijzen"
 identifier: "BWBR0003797"
-country: "nl"
-rank: "wet"
-publication_date: "2005-01-01"
-last_updated: "2005-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003797"
+categorie: "Overig"
 soort: "wet"
-stam_id: "538383"
-version_id: "789452"
-internal_id: "C789451"
-label_id: "522734"
-dtd_version: "2.0"
-original_entry_into_force: "1985-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003797/2005-01-01/0"
-intitule_bron: "Stb.1985-293"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-05-21"
-intitule_status: "goed"
-original_publication: "Stb.1985-293"
-original_signed_date: "1985-05-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "17040"
-entry_into_force_date: "1985-06-13"
-entry_into_force_dossier: "17040"
-jci_1_3: "jci1.3:c:BWBR0003797&z=2005-01-01&g=2005-01-01"
-jci_1_0: "1.0:c:BWBR0003797&g=2005-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet inzake spaarbewijzen"
-signed_date: "1985-05-21"
-entry_into_force: "1985-06-13"
+publicatiedatum: 1985-06-13
+laatste_update: 2005-01-01
+status: geldig
+toestand: 2005-01-01
+bron: "https://wetten.overheid.nl/BWBR0003797"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 21 mei 1985, houdende regelen inzake niet op naam gestelde spaarbewijzen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te geven met betrekking tot de uitgifte, de verhandeling en de uitbetaling van niet op naam gestelde spaarbewijzen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -58,7 +32,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de wijze van uitvoeren van een algemeen verbindend verklaarde regeling.
 
-3. Een algemene maatregel van bestuur als bedoeld in het tweede lid treedt niet eerder in werking dan een maand na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
+3. Een algemene maatregel van bestuur als bedoeld in het tweede lid treedt niet eerder in werking dan een maand na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
 ##### Artikel 3
 
@@ -78,7 +52,7 @@ Handelen in strijd met een op grond van [artikel 2](https://wetten.overheid.nl/j
 
 ##### Artikel 5
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 6
 
@@ -92,6 +66,4 @@ Deze wet is niet van toepassing op:
 
 1. Deze wet kan worden aangehaald als: Wet inzake spaarbewijzen.
 
-2. Zij treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. Zij treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.

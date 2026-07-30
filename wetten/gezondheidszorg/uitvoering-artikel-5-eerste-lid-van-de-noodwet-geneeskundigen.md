@@ -1,44 +1,17 @@
 ---
 title: "Uitvoering artikel 5, eerste lid, van de Noodwet Geneeskundigen"
 identifier: "BWBR0003209"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003209"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "4227603"
-version_id: "5991282"
-internal_id: "C6194671"
-label_id: "4206434"
-dtd_version: "2.0"
-original_entry_into_force: "1978-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003209/2018-08-01/0"
-intitule_bron: "Stcrt.1978-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1978-11-29"
-intitule_published: "1978-12-29"
-intitule_in_force: "1978-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1978-253"
-original_signed_date: "1978-11-29"
-original_published_date: "1978-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1978-12-30"
-jci_1_3: "jci1.3:c:BWBR0003209&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0003209&g=2018-08-01"
-citeertitel_status: "officieel"
-signed_date: "1978-11-29"
-entry_into_force: "1978-12-30"
+publicatiedatum: 1978-12-30
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0003209"
+opgehaald: 2026-07-30
 ---
+
 # Uitvoering artikel 5, eerste lid, van de Noodwet Geneeskundigen
-
-Gelet op [artikel 5, eerste lid, van de Noodwet Geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&artikel=5) (Stb. 1971, 396);
-
-De Raad voor de buitengewone geneeskundige en farmaceutische voorziening gehoord (advies van 9 maart 1978, nr. 17,624/CV);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,23 +19,23 @@ Als autoriteit die in de plaats van de Directeur-Generaal van de Volksgezondheid
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6a
 

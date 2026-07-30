@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0020414"
-opgehaald: 2026-07-29
+opgehaald: 2026-07-30
 ---
 
 # Besluit van 12 oktober 2006, houdende regels met betrekking tot verscheidene bijzondere prudentiële maatregelen, het beleggerscompensatie- en het depositogarantiestelsel op grond van de Wet op het financieel toezicht (Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft)

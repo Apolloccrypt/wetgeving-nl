@@ -9,7 +9,7 @@ laatste_update: 2026-07-25
 status: geldig
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052897"
-opgehaald: 2026-07-29
+opgehaald: 2026-07-30
 ---
 
 # Beleidsregel van de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 16 juli 2026, NVWA/2026/010054479 over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken (Beleidsregel prioriteringsbeleid handhavingsverzoeken NVWA 2026)

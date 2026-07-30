@@ -1,46 +1,33 @@
 ---
 title: "Administratiebesluit wet vervoer over zee"
 identifier: "BWBR0003637"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1983-12-08"
-last_updated: "1983-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003637"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3888473"
-version_id: "5652042"
-internal_id: "C5845041"
-label_id: "3868394"
-dtd_version: "2.0"
-original_entry_into_force: "1983-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003637/1983-12-08/0"
-intitule_bron: "Stcrt.1983-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-11-22"
-intitule_published: "1983-12-06"
-intitule_in_force: "1983-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1983-237"
-original_signed_date: "1983-11-22"
-original_published_date: "1983-12-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-12-08"
-jci_1_3: "jci1.3:c:BWBR0003637&z=1983-12-08&g=1983-12-08"
-jci_1_0: "1.0:c:BWBR0003637&g=1983-12-08"
-citeertitel_status: "officieel"
-signed_date: "1983-11-22"
-entry_into_force: "1983-12-08"
+publicatiedatum: 1983-12-08
+laatste_update: 1983-12-08
+status: geldig
+toestand: 1983-12-08
+bron: "https://wetten.overheid.nl/BWBR0003637"
+opgehaald: 2026-07-30
 ---
+
 # Administratiebesluit wet vervoer over zee
-
-Gelet op [artikel 31 van de Wet vervoer over zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&artikel=31) (Stb. 1982, 629);
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder
+
+‘
+
+lijnvervoer
+
+het vervoer tegen vaste vervoertarieven door scheepvaartondernemingen die een geregelde dienst onderhouden tussen twee of meet havens;
+
+‘
+
+conference
+
+een groep van twee of meet vervoerders die schepen exploiteren, die internationale lijndiensten onderhoudt voor het vervoer van lading op een bepaalde route of bepaalde routes binnen omschreven geografische grenzen en die een overeenkomst of regeling, van welke aard ook, heeft, binnen het kader waarvan zij opereren op basis van eenvormige of gemeenschappelijke vervoertarieven, en enigerlei andere overeengekomen voorwaarden met betrekking tot het aanbieden van lijndiensten.
 
 ##### Artikel 2
 

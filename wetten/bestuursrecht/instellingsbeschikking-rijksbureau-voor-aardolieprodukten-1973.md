@@ -1,54 +1,37 @@
 ---
 title: "Instellingsbeschikking Rijksbureau voor Aardolieprodukten 1973"
 identifier: "BWBR0002909"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1973-11-14"
-last_updated: "1973-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002909"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3718593"
-version_id: "5501502"
-internal_id: "C5694591"
-label_id: "3698384"
-dtd_version: "2.0"
-original_entry_into_force: "1973-11-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002909/1973-11-14/0"
-intitule_bron: "Stcrt.1973-220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1973-11-13"
-intitule_published: "1973-11-13"
-intitule_in_force: "1973-11-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1973-220"
-original_signed_date: "1973-11-13"
-original_published_date: "1973-11-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1973-11-14"
-jci_1_3: "jci1.3:c:BWBR0002909&z=1973-11-14&g=1973-11-14"
-jci_1_0: "1.0:c:BWBR0002909&g=1973-11-14"
-citeertitel_status: "officieel"
-signed_date: "1973-11-13"
-entry_into_force: "1973-11-14"
+publicatiedatum: 1973-11-14
+laatste_update: 1973-11-14
+status: geldig
+toestand: 1973-11-14
+bron: "https://wetten.overheid.nl/BWBR0002909"
+opgehaald: 2026-07-30
 ---
+
 # Instellingsbeschikking Rijksbureau voor Aardolieprodukten 1973
-
-Gelet op de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (Stb. 633),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- A. 1. aardolie: de bij de beschikking van de Minister van Economische Zaken van 30 oktober 1973 (Stcrt. 211) als distributiegoed aangewezen aardolie; 2. aardolieprodukten: de bij de onder 1 vermelde beschikking als distributiegoederen aangewezen aardolieprodukten;
+- A. 1.
+ aardolie:
+ de bij de beschikking van de Minister van Economische Zaken van 30 oktober 1973 (Stcrt. 211) als distributiegoed aangewezen aardolie;
+ 2.
+ aardolieprodukten:
+ de bij de onder 1 vermelde beschikking als distributiegoederen aangewezen aardolieprodukten;
 
-- B. ondernemer: de natuurlijke of rechtspersoon, die zijn bedrijf maakt van het winnen of het vervaardigen van aardolie of aardolieprodukten, het regenereren van gebruikte aardolieprodukten daaronder begrepen, dan wel van de handel in aardolie of aardolieprodukten;
+- B. ondernemer:
+ de natuurlijke of rechtspersoon, die zijn bedrijf maakt van het winnen of het vervaardigen van aardolie of aardolieprodukten, het regenereren van gebruikte aardolieprodukten daaronder begrepen, dan wel van de handel in aardolie of aardolieprodukten;
 
-- C. verbruiker: de natuurlijke of rechtspersoon, die al dan niet in de uitoefening van een bedrijf aardolieprodukten gebruikt of verbruikt, voor zover het niet betreft het gebruik of verbruik als grondstof voor het vervaardigen van aardolieprodukten;
+- C. verbruiker:
+ de natuurlijke of rechtspersoon, die al dan niet in de uitoefening van een bedrijf aardolieprodukten gebruikt of verbruikt, voor zover het niet betreft het gebruik of verbruik als grondstof voor het vervaardigen van aardolieprodukten;
 
-- D. minister: de Minister van Economische Zaken.
+- D. minister:
+ de Minister van Economische Zaken.
 
 ##### Artikel 2
 

@@ -1,46 +1,18 @@
 ---
 title: "Beperking geluidhinder militaire luchtvaart"
+citeertitel: "Regeling beperking geluidhinder luchtvaart"
 identifier: "BWBR0003707"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-10-01"
-last_updated: "2014-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003707"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "3947383"
-version_id: "21767902"
-internal_id: "C31244541"
-label_id: "3927224"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003707/2014-10-01/0"
-intitule_bron: "Stcrt.1984-178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-08-31"
-intitule_published: "1984-09-12"
-intitule_in_force: "1984-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-28717"
-original_signed_date: "2014-09-25"
-original_published_date: "2014-10-14"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-28717"
-entry_into_force_date: "2014-09-25"
-jci_1_3: "jci1.3:c:BWBR0003707&z=2014-10-01&g=2014-10-01"
-jci_1_0: "1.0:c:BWBR0003707&g=2014-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling beperking geluidhinder luchtvaart"
-signed_date: "2014-09-25"
-entry_into_force: "2014-09-25"
+publicatiedatum: 2014-09-25
+laatste_update: 2014-10-01
+status: geldig
+toestand: 2014-10-01
+bron: "https://wetten.overheid.nl/BWBR0003707"
+opgehaald: 2026-07-30
 ---
+
 # Beperking geluidhinder militaire luchtvaart
-
-Gelet op de artikelen 1, 2 en 3, tweede lid, onder b van het Besluit houdende vaststelling van enige regels ter beperking van geluidhinder door luchtvaartuigen (Stb. 1981, 343);
-
-handelende in overeenstemming met de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -56,15 +28,15 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen binn
 
 - e.
 
-- 1°. Het vliegen voor oefendoeleinden is voor militaire luchtvaartuigen niet toegestaan op werkdagen na 00.00 uur plaatselijke tijd tot 07.00 uur plaatselijke tijd of zoveel eerder als de uniforme daglichtperiode aanbreekt, en op vrijdagen vanaf 17.00 uur, zaterdagen, zondagen en algemeen erkende feestdagen.
+   - 1°. Het vliegen voor oefendoeleinden is voor militaire luchtvaartuigen niet toegestaan op werkdagen na 00.00 uur plaatselijke tijd tot 07.00 uur plaatselijke tijd of zoveel eerder als de uniforme daglichtperiode aanbreekt, en op vrijdagen vanaf 17.00 uur, zaterdagen, zondagen en algemeen erkende feestdagen.
 
-- 2°. Het vliegen voor oefendoeleinden is voor militaire luchtvaartuigen, belast met de SAR-taak, niet toegestaan op werkdagen na 01.00 uur plaatselijke tijd tot 07.00 uur plaatselijke tijd of zoveel eerder als de uniforme daglichtperiode aanbreekt, en op zaterdagen, zondagen en algemeen erkende feestdagen.
+   - 2°. Het vliegen voor oefendoeleinden is voor militaire luchtvaartuigen, belast met de SAR-taak, niet toegestaan op werkdagen na 01.00 uur plaatselijke tijd tot 07.00 uur plaatselijke tijd of zoveel eerder als de uniforme daglichtperiode aanbreekt, en op zaterdagen, zondagen en algemeen erkende feestdagen.
 
 - f.
 
-- 1°. Militaire luchtvaartuigen mogen na 22.00 uur plaatselijke tijd geen oefendoorstarts uitvoeren, met uitzondering van de militaire luchthaven Deelen waar militaire helikopters van 1 oktober tot 1 mei tot 22.30 uur plaatselijke tijd en van 1 mei tot 1 oktober tot 23.30 uur plaatselijke tijd oefendoorstarts mogen uitvoeren.
+   - 1°. Militaire luchtvaartuigen mogen na 22.00 uur plaatselijke tijd geen oefendoorstarts uitvoeren, met uitzondering van de militaire luchthaven Deelen waar militaire helikopters van 1 oktober tot 1 mei tot 22.30 uur plaatselijke tijd en van 1 mei tot 1 oktober tot 23.30 uur plaatselijke tijd oefendoorstarts mogen uitvoeren.
 
-- 2°. Militaire luchtvaartuigen, belast met de SAR-taak, mogen na middernacht plaatselijke tijd geen oefendoorstarts uitvoeren.
+   - 2°. Militaire luchtvaartuigen, belast met de SAR-taak, mogen na middernacht plaatselijke tijd geen oefendoorstarts uitvoeren.
 
 ##### Artikel 2
 
@@ -92,13 +64,13 @@ Het is verboden met een militair luchtvaartuig een vlucht uit te voeren met een 
 
 - f. Bij het uitvoeren van tactische ontsnappingsprocedures tijdens bommenwerpoefeningen boven het militaire oefengebied ‘De Vliehors’ mag de voortplantingssnelheid van het geluid worden overschreden mits:
 
-- 1. Voor de start het militaire luchtverkeersleidingscentrum (AOCS NM) is ingelicht.
+   - 1. Voor de start het militaire luchtverkeersleidingscentrum (AOCS NM) is ingelicht.
 
-- 2. Tijdens de nadering van het oefengebied voor het uitvoeren van de manoeuvre toestemming is verzocht aan de vuurleidingsofficier van het oefenterrein.
+   - 2. Tijdens de nadering van het oefengebied voor het uitvoeren van de manoeuvre toestemming is verzocht aan de vuurleidingsofficier van het oefenterrein.
 
-- 3. De vuurleidingsofficier deze toestemming eerst heeft verleend nadat hij zich heeft overtuigd, dat zich binnen een afstand van 10.000 meter uit de kust geen scheepvaart bevindt in een sector van 45° ter weerszijden van de uitvliegrichting 325°
+   - 3. De vuurleidingsofficier deze toestemming eerst heeft verleend nadat hij zich heeft overtuigd, dat zich binnen een afstand van 10.000 meter uit de kust geen scheepvaart bevindt in een sector van 45° ter weerszijden van de uitvliegrichting 325°
 
-- 4. De gehele manoeuvre kan worden uitgevoerd onder zichtweersomstandigheden.
+   - 4. De gehele manoeuvre kan worden uitgevoerd onder zichtweersomstandigheden.
 
 ##### Artikel 4
 

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 17 juni 1971, houdende toepassing van artikel 68 van de Kernenergiewet"
+citeertitel: "Geheimhoudingsbesluit Kernenergiewet"
 identifier: "BWBR0002768"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-02-06"
-last_updated: "2018-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002768"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "326443"
-version_id: "473932"
-internal_id: "C473931"
-label_id: "319424"
-dtd_version: "2.0"
-original_entry_into_force: "1971-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002768/2018-02-06/0"
-intitule_bron: "Stb.1971-420"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-06-17"
-intitule_status: "goed"
-original_publication: "Stb.1971-420"
-original_signed_date: "1971-06-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1971-07-03"
-jci_1_3: "jci1.3:c:BWBR0002768&z=2018-02-06&g=2018-02-06"
-jci_1_0: "1.0:c:BWBR0002768&g=2018-02-06"
-citeertitel_status: "officieel"
-short_title: "Geheimhoudingsbesluit Kernenergiewet"
-signed_date: "1971-06-17"
-entry_into_force: "1971-07-03"
+publicatiedatum: 1971-07-03
+laatste_update: 2018-02-06
+status: geldig
+toestand: 2018-02-06
+bron: "https://wetten.overheid.nl/BWBR0002768"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 17 juni 1971, houdende toepassing van artikel 68 van de Kernenergiewet
-
-Op de voordracht van Onze Ministers van Economische Zaken en van Defensie van 28 april 1971, no. 671/222 W.J.A., gedaan in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Binnenlandse Zaken, van Verkeer en Waterstaat en van Justitie, de Centrale Raad voor de Kernenergie gehoord;
-
-Gelet op de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=68) en [76 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=76) (**Stb.** 1963, 82);
-
-De Raad van State gehoord (advies van 26 mei 1971, no. 14);
-
-Gezien het nader rapport van Onze Ministers van Economische Zaken en van Defensie van 11 juni 1971, no. 671/326 W.J.A., uitgebracht in overeenstemming met Onze Ministers van Buitenlandse Zaken, van Binnenlandse Zaken, van Verkeer en Waterstaat en van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -48,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 - a. gegevens, hulpmiddelen en materialen voor: zover deze gegevens, hulpmiddelen en materialen hetzij rechtstreeks van Onze in het tweede lid genoemde Ministers, hetzij met instemming van deze Ministers, onder verplichting tot geheimhouding zijn verkregen, dan wel door Onze in het tweede lid genoemde Ministers zijn aangewezen;
 
-- 1°. de vrijmaking van kernenergie,
+   - 1°. de vrijmaking van kernenergie,
 
-- 2°. de opslag, vervaardiging, bewerking of verwerking van splijtstoffen en
+   - 2°. de opslag, vervaardiging, bewerking of verwerking van splijtstoffen en
 
-- 3°. de beveiliging van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22) bedoelde splijtstoffen en ertsen, de in [artikel 4.7, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.7) bedoelde radioactieve stoffen en inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15),
+   - 3°. de beveiliging van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22) bedoelde splijtstoffen en ertsen, de in [artikel 4.7, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.7) bedoelde radioactieve stoffen en inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15),
 
 - b. met behulp van zodanige gegevens, hulpmiddelen en materialen verrichte onderzoekingen en toegepaste werkmethoden, voor zover deze onderzoekingen en werkmethoden door Onze in het tweede lid genoemde Ministers zijn aangewezen.
 
@@ -76,9 +48,9 @@ Hebben goedgevonden en verstaan:
 
 - i. in gevallen, waarin de geheimhouding is vereist in het belang van, of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor de telecommunicatie: Onze Minister van Economische Zaken.
 
-3. Een verplichting tot geheimhouding als in het eerste lid, onder **a**, bedoeld kan slechts worden opgelegd en gegevens, hulpmiddelen, materialen, onderzoekingen en werkmethoden kunnen slechts ingevolge het eerste lid, onder **a** of **b**, worden aangewezen, indien dit in het belang van de staat wordt geboden.
+3. Een verplichting tot geheimhouding als in het eerste lid, onder *a*, bedoeld kan slechts worden opgelegd en gegevens, hulpmiddelen, materialen, onderzoekingen en werkmethoden kunnen slechts ingevolge het eerste lid, onder *a* of *b*, worden aangewezen, indien dit in het belang van de staat wordt geboden.
 
-4. Indien een aanwijzing op grond van het eerste lid, onder **a** of **b**, niet uitdrukkelijk tot een of meer bepaalde personen is gericht, wordt zij in de **Staatscourant** bekend gemaakt.
+4. Indien een aanwijzing op grond van het eerste lid, onder *a* of *b*, niet uitdrukkelijk tot een of meer bepaalde personen is gericht, wordt zij in de *Staatscourant* bekend gemaakt.
 
 ##### Artikel 2
 
@@ -90,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 - b. werkzaamheden, waarbij gebruik wordt gemaakt van de betrokken gegevens, hulpmiddelen of materialen of waarbij de betrokken werkmethoden worden toegepast, dan wel werkzaamheden bij het verrichten van de betrokken onderzoekingen uitsluitend worden verricht door personen, die naar het oordeel van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties geacht kunnen worden de verplichting met betrekking tot de geheimhouding naar behoren te vervullen;
 
-- c. van de gegevens, behorende tot of ontleend aan de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden alleen kennis wordt genomen door personen, die rechtstreeks bij werkzaamheden als onder **b** bedoeld zijn betrokken en slechts in die mate als voor een goede uitvoering van die werkzaamheden nodig is;
+- c. van de gegevens, behorende tot of ontleend aan de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden alleen kennis wordt genomen door personen, die rechtstreeks bij werkzaamheden als onder *b* bedoeld zijn betrokken en slechts in die mate als voor een goede uitvoering van die werkzaamheden nodig is;
 
 - d. voor zover Onze Ministers dit verlangen, ten aanzien van de betrokken hulpmiddelen of materialen en ten aanzien van de gegevens, behorende tot of ontleend aan de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden, een administratie wordt gevoerd, waaruit te allen tijde blijkt, op welk tijdstip en aan wie bepaalde gegevens, hulpmiddelen of materialen zijn verstrekt en gedurende welk tijdsverloop een bepaald persoon die gegevens, hulpmiddelen of materialen onder zich heeft gehad.
 
@@ -108,6 +80,4 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit kan worden aangehaald als: Geheimhoudingsbesluit Kernenergiewet.
 
-2. Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst.
-
-Onze Ministers van Economische Zaken en van Defensie zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+2. Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.

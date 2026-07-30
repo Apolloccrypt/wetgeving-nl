@@ -1,44 +1,47 @@
 ---
 title: "Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986"
 identifier: "BWBR0003988"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-08-01"
-last_updated: "1986-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003988"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3745253"
-version_id: "5528232"
-internal_id: "C5721321"
-label_id: "3725114"
-dtd_version: "2.0"
-original_entry_into_force: "1986-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003988/1986-08-01/0"
-intitule_bron: "Stcrt.1986-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-06-18"
-intitule_published: "1986-06-27"
-intitule_in_force: "1986-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-121"
-original_signed_date: "1986-06-18"
-original_published_date: "1986-06-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-08-01"
-jci_1_3: "jci1.3:c:BWBR0003988&z=1986-08-01&g=1986-08-01"
-jci_1_0: "1.0:c:BWBR0003988&g=1986-08-01"
-citeertitel_status: "officieel"
-signed_date: "1986-06-18"
-entry_into_force: "1986-08-01"
+publicatiedatum: 1986-08-01
+laatste_update: 1986-08-01
+status: geldig
+toestand: 1986-08-01
+bron: "https://wetten.overheid.nl/BWBR0003988"
+opgehaald: 2026-07-30
 ---
+
 # Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986
 
-Gelet op de [Aanwijzingen van de minister-president van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met de geautomatiseerde systemen, waarin personeelsgegevens zijn opgenomen, bij de rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0002958);
-
-Besluit:
-
 ##### Artikel 1. Begripsbepalingen
+
+persoonsgegevens:
+
+gegevens die op individuele natuurlijke personen herleidbaar zijn;
+
+registratie
+
+de bij de uitvoerder ondergebrachte geautomatiseerde administratie van gegevens, betreffende al dan niet in werkelijke dienst zijnde militairen, die behoren of hebben behoord tot de Koninklijke landmacht of de Koninklijke luchtmacht of de Koninklijke marine, die bezoldiging genieten of hebben genoten;
+
+houder
+
+de directeur Financieel Beheer;
+
+geregistreerde
+
+degene over wie de registratie gegevens bevat;
+
+uitvoerder
+
+het hoofd van de Afdeling Computerdiensten van de Directie Automatisering en Bestuurlijke Informatie;
+
+G-geheel
+
+geautomatiseerd gegevens verwerkend geheel;
+
+jaarwerk
+
+verzameling van gegevens ten behoeve van de ‘jaaropgaaf belastbaar loon’.
 
 ##### Artikel 2. Doelstelling der registratie
 
@@ -50,7 +53,7 @@ De doelstelling van de registratie is het systematisch vastleggen, opslaan en te
 
 ##### Artikel 3. In de registratie opgenomen gegevens
 
-De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegevens van de geregistreerde en de daaruit resulterende financiële gegevens bevatten, die zijn opgenomen in de bij deze Regeling behorende bijlage.
+De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegevens van de geregistreerde en de daaruit resulterende financiële gegevens bevatten, die zijn opgenomen in de bij deze Regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0003988).
 
 ##### Artikel 4. Verwijdering van gegevens
 
@@ -171,67 +174,3 @@ Deze regeling ligt ter inzage bij:
 - bescherming persoonlijke levenssfeer wedde eerste-oefening-genietenden van 3 juli 1978, nr. 389.678/2N.
 
 3. Deze regeling treedt in werking op 1 augustus 1986 en zal worden gepubliceerd in de Nederlandse Staatscourant.
-
-## Bijlage
-
-De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003988&artikel=3&z=1986-08-01&g=1986-08-01) bedoelde gegevens zijn:
-
-- registratienummer/marinenummer;
-
-- naam, adres, woonplaats;
-
-- burgerlijke staat;
-
-- rang;
-
-- categorie;
-
-- krijgsmachtdeel;
-
-- landencode;
-
-- kinderen;
-
-- lidmaatschap belangenvereniging;
-
-- elementair codenummer/uniforme kostendrager code;
-
-- verbintenis;
-
-- financiële functie;
-
-- loonbelastinggegevens;
-
-- wedde/schaalbezoldiging, wedde e.o./tabelbezoldiging, zakgeld en valuta-inkomen;
-
-- inhoudingen, toelagen en vergoedingen;
-
-- voorschotten;
-
-- delegaties;
-
-- premie berekeningen;
-
-- woningen;
-
-- schorsing;
-
-- code geen bezoldiging;
-
-- datum aanvang wedde/schaalbezoldiging verhogende tellende diensttijd;
-
-- berekeningskenmerk;
-
-- herberekeningskenmerk;
-
-- vervallenkenmerk;
-
-- correctiekenmerk;
-
-- kenmerk onvolledig gezin;
-
-- bouwsteen volgnummer;
-
-- nummer noodbetaalpas;
-
-- bonnummer noodbetaalpas.

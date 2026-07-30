@@ -1,46 +1,45 @@
 ---
 title: "Keuringsbeschikking ATP"
 identifier: "BWBR0003242"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-05-23"
-last_updated: "1997-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003242"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4287253"
-version_id: "6050852"
-internal_id: "C6254251"
-label_id: "4265824"
-dtd_version: "2.0"
-original_entry_into_force: "1979-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003242/1997-05-23/0"
-intitule_bron: "Stcrt.1979-108"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-06-01"
-intitule_published: "1979-06-07"
-intitule_in_force: "1979-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1979-108"
-original_signed_date: "1979-06-01"
-original_published_date: "1979-06-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1979-06-01"
-jci_1_3: "jci1.3:c:BWBR0003242&z=1997-05-23&g=1997-05-23"
-jci_1_0: "1.0:c:BWBR0003242&g=1997-05-23"
-citeertitel_status: "officieel"
-signed_date: "1979-06-01"
-entry_into_force: "1979-06-01"
+publicatiedatum: 1979-06-01
+laatste_update: 1997-05-23
+status: geldig
+toestand: 1997-05-23
+bron: "https://wetten.overheid.nl/BWBR0003242"
+opgehaald: 2026-07-30
 ---
+
 # Keuringsbeschikking ATP
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=9) en [10 van de Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=10) (Stb. 1978, 430),
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
+
+a.
+
+Wet:
+
+[Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0003186);
+
+b.
+
+Minister:
+
+de Minister van Verkeer en Waterstaat;
+
+c.
+
+Keuringsinstelling:
+
+de in [artikel 8, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8) bedoelde keuringsinstelling;
+
+d.
+
+Keuringscertificaat:
+
+het in [artikel 8, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003186&artikel=8) bedoelde keuringscertificaat.
 
 ##### Artikel 2
 

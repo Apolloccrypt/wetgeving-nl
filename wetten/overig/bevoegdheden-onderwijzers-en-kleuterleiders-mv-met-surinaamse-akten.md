@@ -1,44 +1,17 @@
 ---
 title: "Bevoegdheden onderwijzers en kleuterleiders (m/v) met Surinaamse akten"
 identifier: "BWBR0004013"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-08-12"
-last_updated: "1986-08-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004013"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4675853"
-version_id: "6492172"
-internal_id: "C6740601"
-label_id: "4654144"
-dtd_version: "2.0"
-original_entry_into_force: "1986-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004013/1986-08-12/0"
-intitule_bron: "Stcrt.1986-153"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-08-01"
-intitule_published: "1986-08-12"
-intitule_in_force: "1986-08-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-153"
-original_signed_date: "1986-08-01"
-original_published_date: "1986-08-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-08-12"
-jci_1_3: "jci1.3:c:BWBR0004013&z=1986-08-12&g=1986-08-12"
-jci_1_0: "1.0:c:BWBR0004013&g=1986-08-12"
-citeertitel_status: "officieel"
-signed_date: "1986-08-01"
-entry_into_force: "1986-08-12"
+publicatiedatum: 1986-08-12
+laatste_update: 1986-08-12
+status: geldig
+toestand: 1986-08-12
+bron: "https://wetten.overheid.nl/BWBR0004013"
+opgehaald: 2026-07-30
 ---
+
 # Bevoegdheden onderwijzers en kleuterleiders (m/v) met Surinaamse akten
-
-Gelet op artikel 3, derde lid van de Wet op het basisonderwijs;
-
-De Onderwijsraad gehoord (advies van 30 mei 1986, nr. O.R. 5/155 P),
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,46 +1,33 @@
 ---
 title: "Regeling gegevens aardolieprodukten 1985"
 identifier: "BWBR0003761"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2000-12-15"
-last_updated: "2000-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003761"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4536473"
-version_id: "6342892"
-internal_id: "C6587361"
-label_id: "4514964"
-dtd_version: "2.0"
-original_entry_into_force: "1985-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003761/2000-12-15/0"
-intitule_bron: "Stcrt.1985-20"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-01-28"
-intitule_published: "1985-01-29"
-intitule_in_force: "1985-01-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-20"
-original_signed_date: "1985-01-28"
-original_published_date: "1985-01-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-03-01"
-jci_1_3: "jci1.3:c:BWBR0003761&z=2000-12-15&g=2000-12-15"
-jci_1_0: "1.0:c:BWBR0003761&g=2000-12-15"
-citeertitel_status: "officieel"
-signed_date: "1985-01-28"
-entry_into_force: "1985-03-01"
+publicatiedatum: 1985-03-01
+laatste_update: 2000-12-15
+status: geldig
+toestand: 2000-12-15
+bron: "https://wetten.overheid.nl/BWBR0003761"
+opgehaald: 2026-07-30
 ---
+
 # Regeling gegevens aardolieprodukten 1985
-
-Gelet op [artikel 10 van de Wet uitvoering Internationaal Energieprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&artikel=10) (Stb. 1979, 187);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+AFCENT-hoofdkwartier:
+
+het te Brunssum gevestigde hoofdkwartier, als bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden, die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europees grondgebied van het Koninkrijk der Nederlanden (Trb. 1964, 131);
+
+NAVO-krijgsmacht:
+
+de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. 1949, J 355);
+
+continentaal plat:
+
+het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk overeenkomstig het op 29 april 1958 te Genève gesloten verdrag inzake het continentale plateau (Trb. 1959, 126) soevereine rechten heeft.
 
 ##### Artikel 2
 
@@ -86,19 +73,19 @@ Hij, die in de uitoefening van een bedrijf in een kalenderjaar 100 000 ton of me
 
 - a. de data van de vermoedelijke aanvang van de bouw, indienststelling of buitenwerkingstelling, het stadium van besluitvorming, de aard van de verwerkte of te verwerken aardolieprodukten, alsmede de in bijlage VI genoemde kenmerken van het doel, de aard en de capaciteit met betrekking tot de volgende werken, die hij in Nederland in bedrijf of in aanbouw heeft, dan wel die hij voornemens is in Nederland gedurende het lopende kalenderjaar en de twee volgende kalenderjaren te bouwen, in dienst te stellen of buiten werking te stellen:
 
-- 1º. installaties voor distillatie van aardolieprodukten met een gezamenlijke capaciteit van 1 000 000 ton of meer per jaar, met uitzondering van zodanige installaties die niet of slechts als bijprodukt stookolie of motorbrandstoffen produceren,
+   - 1º. installaties voor distillatie van aardolieprodukten met een gezamenlijke capaciteit van 1 000 000 ton of meer per jaar, met uitzondering van zodanige installaties die niet of slechts als bijprodukt stookolie of motorbrandstoffen produceren,
 
-- 2º. buisleidingen met een lengte van 30 km of meer en een capaciteit, indien het vervoer van ruwe aardolie betreft, van 3 000 000 ton of meer per jaar, of, indien het vervoer van andere aardolieprodukten betreft, 1 500 000 ton of meer per jaar, met uitzondering van zodanige buisleidingen die uitsluitend bestemd zijn voor militaire doeleinden of voor gebruik ten dienste van installaties die hiervoor onder 1° van de toepassing van dit artikel zijn uitgezonderd of voor gebruik ten dienste van de in het tweede lid, onder 1°, genoemde installaties,
+   - 2º. buisleidingen met een lengte van 30 km of meer en een capaciteit, indien het vervoer van ruwe aardolie betreft, van 3 000 000 ton of meer per jaar, of, indien het vervoer van andere aardolieprodukten betreft, 1 500 000 ton of meer per jaar, met uitzondering van zodanige buisleidingen die uitsluitend bestemd zijn voor militaire doeleinden of voor gebruik ten dienste van installaties die hiervoor onder 1° van de toepassing van dit artikel zijn uitgezonderd of voor gebruik ten dienste van de in het tweede lid, onder 1°, genoemde installaties,
 
-- 3º. reservoirs voor de opslag van aardolieprodukten met een gezamenlijke capaciteit van 100 000 m³ of meer, met uitzondering van zodanige reservoirs met de hiervoor onder 2° bedoelde bestemmingen:
+   - 3º. reservoirs voor de opslag van aardolieprodukten met een gezamenlijke capaciteit van 100 000 m³ of meer, met uitzondering van zodanige reservoirs met de hiervoor onder 2° bedoelde bestemmingen:
 
 - b. de data van de vermoedelijke aanvang van de bouw of indienststelling, het stadium van besluitvorming, de aard van de te verwerken aardolieprodukten, alsmede de volgende in bijlage VI genoemde werken die hij in Nederland in aanbouw heeft, dan wel die hij voornemens is in Nederland gedurende het lopende kalenderjaar en de tweede volgende kalenderjaren te bouwen, in dienst te stellen of buiten werking te stellen:
 
-- 1º. uitbreidingen van bestaande, niet hiervoor onder a, 1°, van de toepassing van dit artikel uitgezonderde installaties voor distillatie van aardolieprodukten, indien de gezamenlijke capaciteit van de bestaande installaties en de uitbreidingen 1 000 000 ton of meer per jaar bedraagt,
+   - 1º. uitbreidingen van bestaande, niet hiervoor onder a, 1°, van de toepassing van dit artikel uitgezonderde installaties voor distillatie van aardolieprodukten, indien de gezamenlijke capaciteit van de bestaande installaties en de uitbreidingen 1 000 000 ton of meer per jaar bedraagt,
 
-- 2º. uitbreidingen van bestaande, niet hiervoor onder a, 2°, van de toepassing van dit artikel uitgezonderde buisleidingen, met buisleidingen die de onder a, 2°, genoemde capaciteiten en een lengte van 30 km of meer hebben.
+   - 2º. uitbreidingen van bestaande, niet hiervoor onder a, 2°, van de toepassing van dit artikel uitgezonderde buisleidingen, met buisleidingen die de onder a, 2°, genoemde capaciteiten en een lengte van 30 km of meer hebben.
 
-2. Hij, die verplicht is gegevens te verstrekken met betrekking tot de in het eerste lid, onder a, 1°, en b, 1°, genoemde werken, is verplicht jaarlijks voor 15 januari gegevens te verstrekken betreffende de in het eerste lid, onder a, aanhef, genoemde onderwerpen met betrekking tot de volgende, in bijlage VI bedoelde werken, die hij in Nederland in bedrijf of in aanbouw heeft, dan wel die hij voornemens is in Nederland gedurende het lopende kalenderjaar en de twee volgende kalenderjaren te bouwen, in dienst te stellen of buiten werking te stellen:
+2. Hij, die verplicht is gegevens te verstrekken met betrekking tot de in het eerste lid, onder a, 1°, en b, 1°, genoemde werken, is verplicht jaarlijks voor 15 januari gegevens te verstrekken betreffende de in het eerste lid, onder a, [aanhef](https://wetten.overheid.nl/BWBR0003761), genoemde onderwerpen met betrekking tot de volgende, in bijlage VI bedoelde werken, die hij in Nederland in bedrijf of in aanbouw heeft, dan wel die hij voornemens is in Nederland gedurende het lopende kalenderjaar en de twee volgende kalenderjaren te bouwen, in dienst te stellen of buiten werking te stellen:
 
 - 1º. installaties voor het omvormen of kraken van aardolieprodukten met een gezamenlijke capaciteit van 500 ton of meer per dag, met uitzondering van installaties die niet, of slechts als bijprodukt, stookolie of motorbrandstoffen produceren,
 
@@ -106,11 +93,11 @@ Hij, die in de uitoefening van een bedrijf in een kalenderjaar 100 000 ton of me
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 

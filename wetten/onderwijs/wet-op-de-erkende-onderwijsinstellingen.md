@@ -1,47 +1,20 @@
 ---
 title: "Wet van 4 juli 1985, houdende Wet op de erkende onderwijsinstellingen"
+citeertitel: "Wet op de erkende onderwijsinstellingen"
 identifier: "BWBR0003821"
-country: "nl"
-rank: "wet"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003821"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "1236653"
-version_id: "1820652"
-internal_id: "C36443521"
-label_id: "1197394"
-dtd_version: "2.0"
-original_entry_into_force: "1986-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003821/2022-08-01/0"
-intitule_bron: "Stb.1985-407"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-07-04"
-intitule_published: "1985-07-23"
-intitule_status: "goed"
-original_publication: "Stb.1985-407"
-original_signed_date: "1985-07-04"
-original_published_date: "1985-07-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "18197"
-entry_into_force_date: "1986-10-01"
-jci_1_3: "jci1.3:c:BWBR0003821&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0003821&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de erkende onderwijsinstellingen"
-signed_date: "1985-07-04"
-entry_into_force: "1986-10-01"
+publicatiedatum: 1986-10-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0003821"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 4 juli 1985, houdende Wet op de erkende onderwijsinstellingen
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot een regeling voor erkenning voor het bijzonder onderwijs, dat niet uit ’s Rijks kas wordt bekostigd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-## Titel I. Algemene bepalingen
+### Titel I. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -75,7 +48,7 @@ In deze wet wordt verstaan onder:
 
 2. Deze wet is niet van toepassing op het onderwijs, aangewezen op grond van [artikel 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) of [artikel 2.71 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.71), op onderwijs verricht in het kader van contractactiviteiten als bedoeld in [artikel 2.9, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.9), en op het onderwijs in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-## Titel II. Erkenning
+### Titel II. Erkenning
 
 ##### Artikel 3. Voorwaarden erkenning
 
@@ -95,7 +68,7 @@ Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van
 
 Na ontvangst van de aanvraag tot erkenning en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=4&z=2022-08-01&g=2022-08-01), bedoelde bijlagen wordt binnen 1 jaar na ontvangst hiervan, daarop een beslissing genomen.
 
-## Titel III. Voorwaarden voor de erkende instelling
+### Titel III. Voorwaarden voor de erkende instelling
 
 ##### Artikel 6. Vermelding van erkenning
 
@@ -147,35 +120,35 @@ De leden van de directie van de instellingen zijn in het bezit van een verklarin
 
 - f. de aan de cursus en aan het examen verbonden kosten, onder te verdelen in:
 
-- 1°. de kosten van boeken en leermiddelen door de instelling te verstrekken, en te betalen aan de instelling;
+   - 1°. de kosten van boeken en leermiddelen door de instelling te verstrekken, en te betalen aan de instelling;
 
-- 2°. de kosten van boeken en leermiddelen die buiten de instelling moeten worden aangeschaft;
+   - 2°. de kosten van boeken en leermiddelen die buiten de instelling moeten worden aangeschaft;
 
-- 3°. de kosten waartegen de cursist het cursusmateriaal waarvan de instelling zich het eigendomsrecht heeft voorbehouden, na de afsluiting van de overeenkomst zal kunnen overnemen, indien de instelling alsnog tot aanbieding van dat cursusmateriaal aan de cursist zou besluiten;
+   - 3°. de kosten waartegen de cursist het cursusmateriaal waarvan de instelling zich het eigendomsrecht heeft voorbehouden, na de afsluiting van de overeenkomst zal kunnen overnemen, indien de instelling alsnog tot aanbieding van dat cursusmateriaal aan de cursist zou besluiten;
 
-- 4°. de onderwijsbijdrage, waaronder begrepen een eventueel verschuldigd inschrijfgeld;
+   - 4°. de onderwijsbijdrage, waaronder begrepen een eventueel verschuldigd inschrijfgeld;
 
-- 5°. het examengeld;
+   - 5°. het examengeld;
 
 - g. de voorwaarden, waaronder de overeenkomst voortijdig kan worden ontbonden. Tot deze voorwaarden worden in elk geval gerekend: De wederzijdse rechten en verplichtingen, voortvloeiende uit de overeenkomst, eindigen zodra de overeenkomst is ontbonden. Reeds tevoren betaalde onderwijsbijdragen worden terugbetaald voor zover deze betrekking hebben op de periode na het beëindigen van de overeenkomst. Bij algemene maatregel van bestuur kan worden bepaald, dat de plicht tot terugbetaling niet bestaat indien het teveel betaalde bedrag een bepaalde som niet te boven gaat;
 
-- 1°. het overlijden van de cursist;
+   - 1°. het overlijden van de cursist;
 
-- 2°. schriftelijke opzegging van een cursus met een kortere cursusduur dan 6 maanden door de cursist is buiten onderling goedvinden niet mogelijk;
+   - 2°. schriftelijke opzegging van een cursus met een kortere cursusduur dan 6 maanden door de cursist is buiten onderling goedvinden niet mogelijk;
 
-- 3°. schriftelijke opzegging van een schriftelijke cursus met cursusduur van 6 maanden of langer. Bij die schriftelijke opzegging wordt geen opzegtermijn van meer dan 3 maanden bedongen. Bij die schriftelijke opzegging is de cursist geen opgaaf van redenen verschuldigd tenzij hij een overeengekomen opzegtermijn niet in acht neemt;
+   - 3°. schriftelijke opzegging van een schriftelijke cursus met cursusduur van 6 maanden of langer. Bij die schriftelijke opzegging wordt geen opzegtermijn van meer dan 3 maanden bedongen. Bij die schriftelijke opzegging is de cursist geen opgaaf van redenen verschuldigd tenzij hij een overeengekomen opzegtermijn niet in acht neemt;
 
-- 4°. schriftelijke opzegging van een niet-schriftelijke cursus met een cursusduur van 6 maanden of langer. Bij die schriftelijke opzegging wordt geen opzegtermijn van meer dan 5 maanden bedongen. Bij die schriftelijke opzegging is de cursist geen opgaaf van redenen verschuldigd tenzij hij een overeengekomen opzegtermijn niet in acht neemt.
+   - 4°. schriftelijke opzegging van een niet-schriftelijke cursus met een cursusduur van 6 maanden of langer. Bij die schriftelijke opzegging wordt geen opzegtermijn van meer dan 5 maanden bedongen. Bij die schriftelijke opzegging is de cursist geen opgaaf van redenen verschuldigd tenzij hij een overeengekomen opzegtermijn niet in acht neemt.
 
 - h. de eigendoms- en gebruiksrechten van het verstrekte cursusmateriaal;
 
 - i. de mogelijkheid om ingeval van klachten met betrekking tot de cursus de bemiddeling in te roepen van de inspectie, waarvan het adres wordt aangegeven.
 
-2. De in het eerste lid onder **a** bedoelde studiegids maakt deel uit van de overeenkomst.
+2. De in het eerste lid onder *a* bedoelde studiegids maakt deel uit van de overeenkomst.
 
 3. De cursist ontvangt een bewijs, waarbij de instelling verklaart hem als cursist te aanvaarden onder de bepalingen genoemd in het eerste en tweede lid van dit artikel.
 
-4. Het eerste tot en met derde lid, met uitzondering van het eerste lid onder **g** onder 1°, is van overeenkomstige toepassing op overeenkomsten tussen de natuurlijke persoon dan wel de rechtspersoon waarvan de instelling uitgaat en de werkgever, die voor één of meer van zijn werknemers de overeenkomst aangaat. Bij overlijden van een werknemer, wiens werkgever de overeenkomst is aangegaan, kan de overeenkomst voortijdig worden ontbonden, indien zij uitsluitend betrekking heeft op die werknemer.
+4. Het eerste tot en met derde lid, met uitzondering van het eerste lid onder *g* onder 1°, is van overeenkomstige toepassing op overeenkomsten tussen de natuurlijke persoon dan wel de rechtspersoon waarvan de instelling uitgaat en de werkgever, die voor één of meer van zijn werknemers de overeenkomst aangaat. Bij overlijden van een werknemer, wiens werkgever de overeenkomst is aangegaan, kan de overeenkomst voortijdig worden ontbonden, indien zij uitsluitend betrekking heeft op die werknemer.
 
 ##### Artikel 12. Examens
 
@@ -241,7 +214,7 @@ Het bevoegd gezag draagt er zorg voor dat door zijn handelen of nalaten het bela
 
 Onze Minister kan zich omtrent de kwaliteit van de cursussen van de instelling door deskundigen doen voorlichten.
 
-## Titel IV. Nadere voorwaarde voor handhaving van de erkenning; intrekking en verval van de erkenning
+### Titel IV. Nadere voorwaarde voor handhaving van de erkenning; intrekking en verval van de erkenning
 
 ##### Artikel 19. Intrekking erkenning
 
@@ -261,29 +234,29 @@ Onze Minister kan zich omtrent de kwaliteit van de cursussen van de instelling d
 
 2. De erkenning van een instelling vervalt eveneens van rechtswege, wanneer de instelling opgaat in een andere instelling, die niet erkend is op grond van deze wet terwijl zij wel activiteiten verricht waarop deze wet van toepassing is.
 
-## Titel V. Toezicht
+### Titel V. Toezicht
 
 ##### Artikel 22. Opdracht tot toezicht, inspectie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23. Taak inspectie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24. Toegang en inlichting inspectie
 
-Vervallen
+*Vervallen*
 
-## Titel VI. Bijzondere bepalingen
+### Titel VI. Bijzondere bepalingen
 
 ##### Artikel 26. Publikatie in de Nederlandse Staatscourant
 
-1. Onze Minister draagt zorg, dat de krachtens deze wet tot stand gebrachte ministeriële regelingen bekend worden gemaakt in de **Nederlandse Staatscourant**.
+1. Onze Minister draagt zorg, dat de krachtens deze wet tot stand gebrachte ministeriële regelingen bekend worden gemaakt in de *Nederlandse Staatscourant*.
 
-2. Onze Minister draagt eveneens zorg, dat van de beschikking tot verlening van een erkenning, alsmede van die tot intrekking daarvan of tot afwijzing van een aanvraag tot erkenning, en van het vervallen van rechtswege van een erkenning, mededeling wordt gedaan in de **Nederlandse Staatscourant**.
+2. Onze Minister draagt eveneens zorg, dat van de beschikking tot verlening van een erkenning, alsmede van die tot intrekking daarvan of tot afwijzing van een aanvraag tot erkenning, en van het vervallen van rechtswege van een erkenning, mededeling wordt gedaan in de *Nederlandse Staatscourant*.
 
-## Titel VII. Overgangs- en slotbepalingen
+### Titel VII. Overgangs- en slotbepalingen
 
 ##### Artikel 27. Overgangsbepaling inzake erkenning
 
@@ -305,10 +278,8 @@ Deze wet kan worden aangehaald als "Wet op de erkende onderwijsinstellingen".
 
 1. Deze wet treedt in werking op een bij Koninklijk besluit te bepalen tijdstip, met dien verstande dat de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2022-08-01&g=2022-08-01) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=VII&artikel=28&z=2022-08-01&g=2022-08-01), een jaar na dat tijdstip in werking treden.
 
-2. Bevat wijzigingen in andere regelgeving.
+2. *Bevat wijzigingen in andere regelgeving.*
 
-3. Bevat wijzigingen in deze regelgeving.
+3. *Bevat wijzigingen in deze regelgeving.*
 
-4. Bevat wijzigingen in deze regelgeving.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+4. *Bevat wijzigingen in deze regelgeving.*

@@ -1,46 +1,39 @@
 ---
 title: "Wijziging bepalingen Wet uitkeringen burger-oorlogsslachtoffers 1940–1945"
 identifier: "BWBR0003699"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1984-08-24"
-last_updated: "1984-08-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003699"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3734123"
-version_id: "5517022"
-internal_id: "C5710111"
-label_id: "3713904"
-dtd_version: "2.0"
-original_entry_into_force: "1984-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003699/1984-08-24/0"
-intitule_bron: "Stcrt.1984-164"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-08-13"
-intitule_published: "1984-08-23"
-intitule_in_force: "1984-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1984-164"
-original_signed_date: "1984-08-13"
-original_published_date: "1984-08-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1984-08-24"
-jci_1_3: "jci1.3:c:BWBR0003699&z=1984-08-24&g=1984-08-24"
-jci_1_0: "1.0:c:BWBR0003699&g=1984-08-24"
-citeertitel_status: "officieel"
-signed_date: "1984-08-13"
-entry_into_force: "1984-08-24"
+publicatiedatum: 1984-08-24
+laatste_update: 1984-08-24
+status: geldig
+toestand: 1984-08-24
+bron: "https://wetten.overheid.nl/BWBR0003699"
+opgehaald: 2026-07-30
 ---
+
 # Wijziging bepalingen Wet uitkeringen burger-oorlogsslachtoffers 1940–1945
-
-Gelet op artikel 10, zesde lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 (Stb. 1984, 94),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+wet:
+
+de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 (Stb. 1984, 94);
+
+b.
+
+grondslag:
+
+de grondslag, bedoeld in artikel 10, zesde lid, van de wet;
+
+c.
+
+burger-oorlogsslachtoffer:
+
+de persoon, bedoeld in artikel 7, onder b, van de wet.
 
 ##### Artikel 2
 

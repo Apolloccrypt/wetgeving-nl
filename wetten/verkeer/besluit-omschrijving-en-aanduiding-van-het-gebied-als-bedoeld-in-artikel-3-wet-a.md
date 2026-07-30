@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)"
+citeertitel: "Besluit omschrijving en aanduiding van het gebied als bedoeld in artikel 3 Wet agrarisch grondverkeer"
 identifier: "BWBR0003449"
-country: "nl"
-rank: "amvb"
-publication_date: "2006-03-08"
-last_updated: "2006-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003449"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "740603"
-version_id: "1082112"
-internal_id: "C1082111"
-label_id: "717594"
-dtd_version: "2.0"
-original_entry_into_force: "1981-11-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003449/2006-03-08/0"
-intitule_bron: "Stb.1981-659"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-10-16"
-intitule_status: "goed"
-original_publication: "Stb.1981-659"
-original_signed_date: "1981-10-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1981-11-07"
-jci_1_3: "jci1.3:c:BWBR0003449&z=2006-03-08&g=2006-03-08"
-jci_1_0: "1.0:c:BWBR0003449&g=2006-03-08"
-citeertitel_status: "officieel"
-short_title: "Besluit omschrijving en aanduiding van het gebied als bedoeld in artikel 3 Wet agrarisch grondverkeer"
-signed_date: "1981-10-16"
-entry_into_force: "1981-11-07"
+publicatiedatum: 1981-11-07
+laatste_update: 2006-03-08
+status: geldig
+toestand: 2006-03-08
+bron: "https://wetten.overheid.nl/BWBR0003449"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)
-
-Op de voordracht van Onze Minister van Landbouw en Visserij van 29 juni 1981, Directie Juridische en Bedrijfsorganisatorische Zaken, nr. J.4247;
-
-Gelet op [artikel 3, zevende lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=3) (**Stb.** 1981, 248);
-
-De Raad van State gehoord (advies van 17 augustus 1981, nr. 810805/20);
-
-Gezien het nader rapport van Onze Minister van Landbouw en Visserij van 8 oktober 1981, Directie Juridische en Bedrijfsorganisatorische Zaken, nr. J.6158;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -82,10 +54,8 @@ Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eers
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.

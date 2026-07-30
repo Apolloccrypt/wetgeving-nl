@@ -1,43 +1,18 @@
 ---
-title: "Wet van 11 september 1985, houdende regelen betreffende de overgang van personeel van het Staatsbedrijf der PTT en de Rijkspostspaarbank naar de Postbank N.V"
+title: "Wet van 11 september 1985, houdende regelen betreffende de overgang van personeel van het Staatsbedrijf der PTT en de Rijkspostspaarbank naar de Postbank N.V."
+citeertitel: "Personeelswet Postbank N.V."
 identifier: "BWBR0003843"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003843"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "1733683"
-version_id: "2564852"
-internal_id: "C2564851"
-label_id: "1685954"
-dtd_version: "2.0"
-original_entry_into_force: "1985-10-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003843/2019-01-01/0"
-intitule_bron: "Stb.1985-511"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-09-11"
-intitule_status: "goed"
-original_publication: "Stb.1985-511"
-original_signed_date: "1985-09-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "18347"
-entry_into_force_date: "1985-10-28"
-jci_1_3: "jci1.3:c:BWBR0003843&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0003843&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Personeelswet Postbank N.V."
-signed_date: "1985-09-11"
-entry_into_force: "1985-10-28"
+publicatiedatum: 1985-10-28
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0003843"
+opgehaald: 2026-07-30
 ---
-# Wet van 11 september 1985, houdende regelen betreffende de overgang van personeel van het Staatsbedrijf der PTT en de Rijkspostspaarbank naar de Postbank N.V
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelingen te treffen met betrekking tot de overgang van het personeel van het Staatsbedrijf der Posterijen, Telegrafie en Telefonie en van de Rijkspostspaarbank dat werkzaam is bij de Postcheque- en Girodienst of de Rijkspostspaarbank naar de Postbank N.V.;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+# Wet van 11 september 1985, houdende regelen betreffende de overgang van personeel van het Staatsbedrijf der PTT en de Rijkspostspaarbank naar de Postbank N.V.
 
 ##### Artikel 1
 
@@ -45,7 +20,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 - a. Staatsbedrijf: het Staatsbedrijf der Posterijen, Telegrafie en Telefonie;
 
-- b. overgangsdatum: de datum waarop [artikel 7 van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=7) 1954 (**Stb.** 592) vervalt en de Rijkspostspaarbank wordt opgeheven;
+- b. overgangsdatum: de datum waarop [artikel 7 van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=7) 1954 (*Stb.* 592) vervalt en de Rijkspostspaarbank wordt opgeheven;
 
 - c. personeelslid: degene, die op de dag voor de overgangsdatum in dienst is van het Staatsbedrijf of van de Rijkspostspaarbank, hetzij als ambtenaar, hetzij op arbeidsovereenkomst naar burgerlijk recht, en die werkzaam is bij de Postcheque- en Girodienst of de Rijkspostspaarbank.
 
@@ -67,7 +42,7 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Met ingang van de overgangsdatum verkrijgen de in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003843&artikel=2&z=2019-01-01&g=2019-01-01), bedoelde personeelsleden aanspraken jegens een door de Postbank N.V. aan te wijzen instelling, zoals bedoeld in artikel 1, eerste lid, onder **c**, van de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) 1952 (**Stb.** 275), die gelijkwaardig zijn aan die welke deze personeelsleden op voornoemde datum krachtens de Algemene burgerlijke pensioenwet 1979 (**Stb.** 679) hebben jegens het Algemeen Burgerlijk Pensioenfonds, en neemt voornoemde instelling de daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de overgangsdatum verkrijgen de in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003843&artikel=2&z=2019-01-01&g=2019-01-01), bedoelde personeelsleden aanspraken jegens een door de Postbank N.V. aan te wijzen instelling, zoals bedoeld in artikel 1, eerste lid, onder *c*, van de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089) 1952 (*Stb.* 275), die gelijkwaardig zijn aan die welke deze personeelsleden op voornoemde datum krachtens de Algemene burgerlijke pensioenwet 1979 (*Stb.* 679) hebben jegens het Algemeen Burgerlijk Pensioenfonds, en neemt voornoemde instelling de daarmee verband houdende verplichtingen op zich.
 
 2. De aanspraken van de in het eerste lid bedoelde personen krachtens de Algemene Burgerlijke Pensioenwet en de daaruit voortvloeiende verplichtingen van het Algemeen Burgerlijk Pensioenfonds jegens die personen vervallen op de overgangsdatum.
 
@@ -84,5 +59,3 @@ In het bij of krachtens deze wet bepaalde wordt verstaan onder:
 1. Deze wet kan worden aangehaald als: Personeelswet Postbank N.V.
 
 2. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

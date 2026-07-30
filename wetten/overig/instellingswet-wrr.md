@@ -1,48 +1,18 @@
 ---
 title: "Wet van 30 juni 1976, tot instelling van een Wetenschappelijke Raad voor het Regeringsbeleid"
+citeertitel: "Instellingswet W.R.R."
 identifier: "BWBR0003043"
-country: "nl"
-rank: "wet"
-publication_date: "2019-03-01"
-last_updated: "2019-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003043"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1401673"
-version_id: "2102242"
-internal_id: "C2102241"
-label_id: "1359344"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003043/2019-03-01/0"
-intitule_bron: "Stb.1976-413"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-06-30"
-intitule_status: "goed"
-original_publication: "Stb.1998-27"
-original_signed_date: "1997-12-11"
-original_published_date: "1998-01-20"
-original_effect: "structuurwijziging"
-original_dossier: "25248"
-original_url_id: "stb-1998-27"
-entry_into_force_date: "1998-01-21"
-entry_into_force_dossier: "25248"
-jci_1_3: "jci1.3:c:BWBR0003043&z=2019-03-01&g=2019-03-01"
-jci_1_0: "1.0:c:BWBR0003043&g=2019-03-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet W.R.R."
-signed_date: "1997-12-11"
-entry_into_force: "1998-01-21"
+publicatiedatum: 1998-01-21
+laatste_update: 2019-03-01
+status: geldig
+toestand: 2019-03-01
+bron: "https://wetten.overheid.nl/BWBR0003043"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 30 juni 1976, tot instelling van een Wetenschappelijke Raad voor het Regeringsbeleid
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor de vorming van het regeringsbeleid wenselijk is stelselmatig informatie te verkrijgen over ontwikkelingen die op langere termijn de samenleving kunnen beïnvloeden,
-
-dat daartoe kan worden bijgedragen door een vast college van advies en bijstand in te stellen ter vervanging van de Voorlopige Wetenschappelijke Raad voor het Regeringsbeleid:
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -130,7 +100,7 @@ De Raad kan zelfstandig verzoeken bepaalde studies of onderzoekingen te doen ond
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -152,7 +122,7 @@ De Raad kan nadere regelen stellen voor zijn werkwijze.
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -160,10 +130,8 @@ Deze Wet kan worden aangehaald als Instellingswet W.R.R.
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

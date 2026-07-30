@@ -1,43 +1,18 @@
 ---
 title: "Wet van 12 februari 1981, houdende bepalingen betreffende de meting van schepen"
+citeertitel: "Meetbrievenwet 1981"
 identifier: "BWBR0003378"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003378"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1661063"
-version_id: "2450612"
-internal_id: "C2450611"
-label_id: "1614444"
-dtd_version: "2.0"
-original_entry_into_force: "1982-07-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003378/2025-07-01/0"
-intitule_bron: "Stb.1981-122"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-02-12"
-intitule_status: "goed"
-original_publication: "Stb.1981-122"
-original_signed_date: "1981-02-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "16059"
-entry_into_force_date: "1982-07-18"
-jci_1_3: "jci1.3:c:BWBR0003378&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0003378&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Meetbrievenwet 1981"
-signed_date: "1981-02-12"
-entry_into_force: "1982-07-18"
+publicatiedatum: 1982-07-18
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0003378"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 12 februari 1981, houdende bepalingen betreffende de meting van schepen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de uitvoering van het Internationaal Verdrag betreffende de meting van schepen 1969, **Trb.** 1970, 122 en 194, wenselijk is de bepalingen betreffende de meting van zeeschepen opnieuw vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -47,9 +22,9 @@ Deze wet verstaat onder:
 
 - a. "Onze Minister": Onze Minister van Verkeer en Waterstaat;
 
-- b. "Verdrag": het Internationaal Verdrag betreffende de meting van schepen, 1969, **Trb.** 1970, 122 en 194;
+- b. "Verdrag": het Internationaal Verdrag betreffende de meting van schepen, 1969, *Trb.* 1970, 122 en 194;
 
-- c. "Verdrag van Oslo 1947": Het Internationaal Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen, laatstelijk **Trb.** 1970, 55;
+- c. "Verdrag van Oslo 1947": Het Internationaal Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen, laatstelijk *Trb.* 1970, 55;
 
 - d. "de datum van inwerkingtreding van het Verdrag": het tijdstip bedoeld in artikel 17, lid (1), van het Verdrag;
 
@@ -57,9 +32,9 @@ Deze wet verstaat onder:
 
 - f. "Nederlands schip":
 
-- 1°. een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, dan wel
+   - 1°. een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, dan wel
 
-- 2°. een binnenschip dat voldoet aan tenminste een der in het [eerste lid van artikel 784 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) gestelde voorwaarden;
+   - 2°. een binnenschip dat voldoet aan tenminste een der in het [eerste lid van artikel 784 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) gestelde voorwaarden;
 
 - g. inspecteur-generaal: inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
 
@@ -69,9 +44,9 @@ Deze wet verstaat onder:
 
 - j. "Internationale Meetbrief (1969)": de meetbrief, door Onze Minister dan wel door de administratie van een andere Staat, aangesloten bij het Verdrag, afgegeven overeenkomstig de bepalingen van het Verdrag;
 
-- k. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder **j**, vermeldende de bruto- en netto-tonnage van een schip, door Onze Minister afgegeven ten behoeve van een schip;
+- k. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder *j*, vermeldende de bruto- en netto-tonnage van een schip, door Onze Minister afgegeven ten behoeve van een schip;
 
-- l. "voorlopige meetbrief": de meetbrief, anders dan bedoeld onder **j** en **k**, voor een tijdsduur van ten hoogste zes maanden door Onze Minister afgegeven ten behoeve van een Nederlands schip;
+- l. "voorlopige meetbrief": de meetbrief, anders dan bedoeld onder *j* en *k*, voor een tijdsduur van ten hoogste zes maanden door Onze Minister afgegeven ten behoeve van een Nederlands schip;
 
 - m. "nieuw schip": een schip waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium van aanbouw bevindt op of na de datum van inwerkingtreding van het Verdrag;
 
@@ -101,13 +76,13 @@ De bepalingen van deze paragraaf zijn van toepassing op alle Nederlandse schepen
 
 - a. voor schepen met een lengte van 24 meter of meer een Internationale Meetbrief (1969) ten behoeve van:
 
-- 1e. nieuwe schepen;
+   - 1e. nieuwe schepen;
 
-- 2e. bestaande schepen, die veranderingen of wijzigingen ondergaan of hebben ondergaan welke door Onze Minister worden geacht een aanzienlijke afwijking te vormen van hun bestaande bruto-tonnage;
+   - 2e. bestaande schepen, die veranderingen of wijzigingen ondergaan of hebben ondergaan welke door Onze Minister worden geacht een aanzienlijke afwijking te vormen van hun bestaande bruto-tonnage;
 
-- 3e. bestaande schepen, indien de eigenaar of de rompbevrachter zulks verlangt, in welk geval de tonnages van deze schepen na deze afgifte niet meer kunnen worden vastgesteld overeenkomstig de bepalingen die door de Scheepsmetingsdienst werden toegepast vóór de datum van inwerkingtreding van het Verdrag;
+   - 3e. bestaande schepen, indien de eigenaar of de rompbevrachter zulks verlangt, in welk geval de tonnages van deze schepen na deze afgifte niet meer kunnen worden vastgesteld overeenkomstig de bepalingen die door de Scheepsmetingsdienst werden toegepast vóór de datum van inwerkingtreding van het Verdrag;
 
-- 4e. alle bestaande schepen, twaalf jaar na de datum van inwerkingtreding van het Verdrag, met dien verstande dat deze schepen, met uitzondering van de onder 2e en 3e bedoelde, hun alsdan bestaande tonnages behouden voor de toepassing van de daarmee verband houdende bepalingen van andere bestaande internationale verdragen.
+   - 4e. alle bestaande schepen, twaalf jaar na de datum van inwerkingtreding van het Verdrag, met dien verstande dat deze schepen, met uitzondering van de onder 2e en 3e bedoelde, hun alsdan bestaande tonnages behouden voor de toepassing van de daarmee verband houdende bepalingen van andere bestaande internationale verdragen.
 
 - b. een bijzondere meetbrief, afgegeven door Onze Minister ingevolge de bepalingen van de Meetbrievenwet 1948 ten behoeve van alle bestaande schepen, niet vallende onder 2e, 3e en 4e van het eerste lid, onder a.
 
@@ -123,7 +98,7 @@ De bepalingen van deze paragraaf zijn van toepassing op alle Nederlandse schepen
 
 ##### Artikel 5
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als bedoeld in [artikel 4, eerste lid, onder **a**, 1e, 2e, 3e en 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als bedoeld in [artikel 4, eerste lid, onder *a*, 1e, 2e, 3e en 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 6
 
@@ -175,7 +150,7 @@ Indien de aanvrager van een meetbrief, als bedoeld in [artikel 11](https://wette
 
 ##### Artikel 13
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 14
 
@@ -271,7 +246,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gege
 
 4. Indien blijkt, dat de voornaamste kenmerken van het schip afwijken van die vermeld op de Internationale Meetbrief (1969), in dier voege, dat dit tot een vermeerdering van de bruto- of netto-tonnage leidt, wordt de Staat wiens vlag het schip voert hiervan door Onze Minister onmiddellijk in kennis gesteld.
 
-5. Indien niet is voldaan aan de in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) of [artikel 1:5 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:5) in samenhang met artikel 15, eerste lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) bedoelde verplichting, verleent de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), geen expeditie.
+5. Indien niet is voldaan aan de in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) of [artikel 1:5 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:5) in samenhang met artikel 15, eerste lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) bedoelde verplichting, verleent de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), geen expeditie.
 
 ##### Artikel 26
 
@@ -325,6 +300,4 @@ Bij of krachtens algemene maatregel van bestuur kunnen in het belang van een goe
 
 ##### Artikel 35
 
-Deze wet, welke kan worden aangehaald als "Meetbrievenwet" onder vermelding van het jaartal van het **Staatsblad** waarin de wet is geplaatst, treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet, welke kan worden aangehaald als "[Meetbrievenwet](https://wetten.overheid.nl/BWBR0003378)" onder vermelding van het jaartal van het *Staatsblad* waarin de wet is geplaatst, treedt in werking op een door Ons te bepalen tijdstip.

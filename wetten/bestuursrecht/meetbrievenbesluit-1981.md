@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 24 juni 1981, houdende bepalingen voor de meting van schepen"
+citeertitel: "Meetbrievenbesluit 1981"
 identifier: "BWBR0003417"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-12-31"
-last_updated: "2010-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003417"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "484073"
-version_id: "718452"
-internal_id: "C718451"
-label_id: "470424"
-dtd_version: "2.0"
-original_entry_into_force: "1982-07-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003417/2010-12-31/0"
-intitule_bron: "Stb.1981-479"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-06-24"
-intitule_status: "goed"
-original_publication: "Stb.1981-479"
-original_signed_date: "1981-06-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1982-07-18"
-jci_1_3: "jci1.3:c:BWBR0003417&z=2010-12-31&g=2010-12-31"
-jci_1_0: "1.0:c:BWBR0003417&g=2010-12-31"
-citeertitel_status: "officieel"
-short_title: "Meetbrievenbesluit 1981"
-signed_date: "1981-06-24"
-entry_into_force: "1982-07-18"
+publicatiedatum: 1982-07-18
+laatste_update: 2010-12-31
+status: geldig
+toestand: 2010-12-31
+bron: "https://wetten.overheid.nl/BWBR0003417"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 24 juni 1981, houdende bepalingen voor de meting van schepen
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 27 november 1979, Afdeling Juridische Zaken, nr. J/S 24268, Directoraat-Generaal van Scheepvaart;
-
-Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=6), eerste lid, [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=14), eerste lid, [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=23) en [34 van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=34);
-
-De Raad van State gehoord (advies van 2 januari 1980, no. 8);
-
-Gezien het nader Rapport van Onze Minister van Verkeer en Waterstaat van 17 juni 1981, nr. J/S 23360, Directie Wetgeving en Juridische Zaken, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -52,9 +24,9 @@ Dit besluit verstaat onder:
 
 - c. "wet": de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378);
 
-- d. "Internationale Meetbrief (1969)": de meetbrief, door Onze Minister dan wel door de administratie van een andere Staat, aangesloten bij het Internationaal Verdrag betreffende de meting van schepen, 1969 (**Trb.** 1970, 122 en 194) afgegeven overeenkomstig de bepalingen van dat Verdrag;
+- d. "Internationale Meetbrief (1969)": de meetbrief, door Onze Minister dan wel door de administratie van een andere Staat, aangesloten bij het Internationaal Verdrag betreffende de meting van schepen, 1969 (*Trb.* 1970, 122 en 194) afgegeven overeenkomstig de bepalingen van dat Verdrag;
 
-- e. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder **e**, vermeldende de bruto- en netto-tonnage van een schip, door Onze Minister afgegeven ten behoeve van een schip.
+- e. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder *e*, vermeldende de bruto- en netto-tonnage van een schip, door Onze Minister afgegeven ten behoeve van een schip.
 
 ##### Artikel 2. Aanvragen van een meetbrief
 
@@ -132,7 +104,7 @@ Degene, tot wie de vordering is gericht, is verplicht daaraan onverwijld te vold
 
 1. Door of namens Onze Minister kunnen in het belang van een juiste uitvoering van dit besluit nadere regelen worden gesteld.
 
-2. De in het eerste lid bedoelde regelen worden in de **Staatscourant** geplaatst.
+2. De in het eerste lid bedoelde regelen worden in de *Staatscourant* geplaatst.
 
 ##### Artikel 11. Aanwijzingen
 
@@ -148,6 +120,4 @@ Het Meetbrievenbesluit 1949 wordt ingetrokken op een door Ons te bepalen tijdsti
 
 ##### Artikel 14. Citeertitel en inwerkingtreding
 
-Dit besluit, hetwelk kan worden aangehaald als "Meetbrievenbesluit", onder vermelding van het jaartal van het **Staatsblad** waarin dit besluit is geplaatst, treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit, hetwelk kan worden aangehaald als "[Meetbrievenbesluit](https://wetten.overheid.nl/BWBR0003417)", onder vermelding van het jaartal van het *Staatsblad* waarin dit besluit is geplaatst, treedt in werking op een door Ons te bepalen tijdstip.

@@ -1,50 +1,39 @@
 ---
 title: "Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel"
 identifier: "BWBR0003952"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-05-01"
-last_updated: "1986-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003952"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3744943"
-version_id: "5528022"
-internal_id: "C5721111"
-label_id: "3724904"
-dtd_version: "2.0"
-original_entry_into_force: "1986-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003952/1986-05-01/0"
-intitule_bron: "Stcrt.1986-79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-04-21"
-intitule_published: "1986-04-24"
-intitule_in_force: "1986-04-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-79"
-original_signed_date: "1986-04-21"
-original_published_date: "1986-04-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-05-01"
-jci_1_3: "jci1.3:c:BWBR0003952&z=1986-05-01&g=1986-05-01"
-jci_1_0: "1.0:c:BWBR0003952&g=1986-05-01"
-citeertitel_status: "officieel"
-signed_date: "1986-04-21"
-entry_into_force: "1986-05-01"
+publicatiedatum: 1986-05-01
+laatste_update: 1986-05-01
+status: geldig
+toestand: 1986-05-01
+bron: "https://wetten.overheid.nl/BWBR0003952"
+opgehaald: 2026-07-30
 ---
+
 # Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel
-
-Gelet op de [aanwijzingen van de minister-president van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen, waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0002958),
-
-Besluit:
-
-vast te stellen de volgende regeling met betrekking tot de geautomatiseerde registratie van persoonsgegevens betreffende personen die uit hoofde van de toepassing van de Wet effectenhandel door de minister van Financiën worden aangemerkt als aanbieder van effecten, effectenbemiddelaar dan wel beheerder van een fonds voor gemene rekening als bedoeld in voornoemde wet.
 
 #### Algemene bepaling
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+Registratie:
+
+de geautomatiseerde administratie van gegevens betreffende personen die uit hoofde van de toepassing van de Wet effectenhandel door de minister van Financiën worden aangemerkt als aanbieder van effecten, effectenbemiddelaar dan wel beheerder van een fonds voor gemene rekening als bedoeld in voornoemde wet;
+
+houder van de registratie:
+
+degene die als zodanig is aangewezen krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003952&artikel=5&z=1986-05-01&g=1986-05-01);
+
+geregistreerde:
+
+degene over wie de registratie gegevens bevat;
+
+uitvoerder:
+
+degene die door de houder van de registratie is aangewezen en die belast is met de uitvoering van de werkzaamheden verbonden aan de registratie.
 
 #### Doelstelling registratie
 

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 4 juli 1984, houdende herindeling van departementale taken met betrekking tot het wetenschapsbeleid en het technologiebeleid"
+citeertitel: "Besluit herindeling departementale taken met betrekking tot het wetenschapsbeleid en het technologiebeleid"
 identifier: "BWBR0003690"
-country: "nl"
-rank: "kb"
-publication_date: "1983-09-06"
-last_updated: "1983-09-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003690"
+categorie: "Overig"
 soort: "KB"
-stam_id: "561763"
-version_id: "818582"
-internal_id: "C818581"
-label_id: "545464"
-dtd_version: "2.0"
-original_entry_into_force: "1983-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003690/1983-09-06/0"
-intitule_bron: "Stb.1984-335"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-07-04"
-intitule_status: "goed"
-original_publication: "Stb.1984-335"
-original_signed_date: "1984-07-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-09-06"
-jci_1_3: "jci1.3:c:BWBR0003690&z=1983-09-06&g=1983-09-06"
-jci_1_0: "1.0:c:BWBR0003690&g=1983-09-06"
-citeertitel_status: "officieel"
-short_title: "Besluit herindeling departementale taken met betrekking tot het wetenschapsbeleid en het technologiebeleid"
-signed_date: "1984-07-04"
-entry_into_force: "1983-09-06"
+publicatiedatum: 1983-09-06
+laatste_update: 1983-09-06
+status: geldig
+toestand: 1983-09-06
+bron: "https://wetten.overheid.nl/BWBR0003690"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 4 juli 1984, houdende herindeling van departementale taken met betrekking tot het wetenschapsbeleid en het technologiebeleid
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken van 25 juni 1984, nr. 346128, gedaan mede namens Onze Ministers van Onderwijs en Wetenschappen, van Economische Zaken en van Binnenlandse Zaken;
-
-Gelet op [artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -53,5 +29,3 @@ De organisatorische afwikkeling, verband houdende met het in [artikel 1](https:/
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van heden en werkt terug tot en met 6 september 1983.
-
-Onze Minister-President, Minister van Algemene Zaken, en Onze Minister van Binnenlandse Zaken zijn belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst, waarvan mededeling zal worden gedaan in de **Nederlandse Staatscourant** en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de Raad van Ministers, de Gevolmachtigde Minister van de Nederlandse Antillen en de departementen van algemeen bestuur.

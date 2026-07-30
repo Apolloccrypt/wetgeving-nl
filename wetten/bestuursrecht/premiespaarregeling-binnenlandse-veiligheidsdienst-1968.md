@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 29 juni 1970, houdende nadere bepalingen voor de toepassing van de Premiespaarregeling Rijksambtenaren 1968 ten aanzien van belanghebbenden, die werkzaam zijn gesteld bij de Binnenlandse Veiligheidsdienst"
+citeertitel: "Premiespaarregeling Binnenlandse Veiligheidsdienst 1968"
 identifier: "BWBR0002717"
-country: "nl"
-rank: "amvb"
-publication_date: "1968-07-01"
-last_updated: "1968-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002717"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "676483"
-version_id: "984762"
-internal_id: "C984761"
-label_id: "655974"
-dtd_version: "2.0"
-original_entry_into_force: "1968-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002717/1968-07-01/0"
-intitule_bron: "Stb.1970-356"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1970-06-29"
-intitule_status: "goed"
-original_publication: "Stb.1970-356"
-original_signed_date: "1970-06-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1968-07-01"
-jci_1_3: "jci1.3:c:BWBR0002717&z=1968-07-01&g=1968-07-01"
-jci_1_0: "1.0:c:BWBR0002717&g=1968-07-01"
-citeertitel_status: "officieel"
-short_title: "Premiespaarregeling Binnenlandse Veiligheidsdienst 1968"
-signed_date: "1970-06-29"
-entry_into_force: "1968-07-01"
+publicatiedatum: 1968-07-01
+laatste_update: 1968-07-01
+status: geldig
+toestand: 1968-07-01
+bron: "https://wetten.overheid.nl/BWBR0002717"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 29 juni 1970, houdende nadere bepalingen voor de toepassing van de Premiespaarregeling Rijksambtenaren 1968 ten aanzien van belanghebbenden, die werkzaam zijn gesteld bij de Binnenlandse Veiligheidsdienst
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 27 mei 1970, nr. U 1411 Kabinet Afdeling Personeelszaken/Kabinet;
-
-Overwegende, dat het wenselijk is gebleken nadere bepalingen vast te stellen voor de toepassing van de Premiespaarregeling Rijksambtenaren 1968 ten aanzien van belanghebbenden, die werkzaam zijn gesteld bij de Binnenlandse Veiligheidsdienst;
-
-De Raad van State gehoord (advies van 10 juni 1970, nr. 11);
-
-Gezien het nader rapport van Onze Minister voornoemd van 23 juni 1970, nr. 1617, Afdeling Personeelszaken/Kabinet;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
@@ -66,11 +38,11 @@ Voor de toepassing van de spaarregeling 1968 ten aanzien van belanghebbende word
 
 - A. artikel 4 als volgt gelezen:
 
-- 1. De belanghebbende kan op zijn bezoldiging een op hele guldens afgerond bedrag doen inhouden ter storting op een van dienstwege geopende spaarrekening. De inhouding bedraagt per maand niet meer dan f 42,-.
+   - 1. De belanghebbende kan op zijn bezoldiging een op hele guldens afgerond bedrag doen inhouden ter storting op een van dienstwege geopende spaarrekening. De inhouding bedraagt per maand niet meer dan f 42,-.
 
-- 2. Bij de dienst wordt voor iedere belanghebbende, die een bedrag als bedoeld in het eerste lid doet inhouden, een afzonderlijke rekening bijgehouden.
+   - 2. Bij de dienst wordt voor iedere belanghebbende, die een bedrag als bedoeld in het eerste lid doet inhouden, een afzonderlijke rekening bijgehouden.
 
-- 3. De inhouding of wijziging van de inhouding, daaronder begrepen beëindiging van de inhouding, gaat uiterlijk in bij de uitbetaling van de bezoldiging over de tweede maand volgende op die, waarin het verzoek tot inhouding of tot wijziging van het bedrag van de inhouding is ingediend. Een verzoek als in de vorige volzin bedoeld mag slechts eenmaal met betrekking tot hetzelfde kalender-jaar worden ingediend.
+   - 3. De inhouding of wijziging van de inhouding, daaronder begrepen beëindiging van de inhouding, gaat uiterlijk in bij de uitbetaling van de bezoldiging over de tweede maand volgende op die, waarin het verzoek tot inhouding of tot wijziging van het bedrag van de inhouding is ingediend. Een verzoek als in de vorige volzin bedoeld mag slechts eenmaal met betrekking tot hetzelfde kalender-jaar worden ingediend.
 
 - B. onder "bijzondere spaarrekening" verstaan: de afzonderlijke rekening;
 
@@ -112,6 +84,4 @@ Dit besluit kan worden aangehaald als "Premiespaarregeling Binnenlandse Veilighe
 
 ##### Artikel XI
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst, en werkt terug tot 1 juli 1968.
-
-Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst, en werkt terug tot 1 juli 1968.

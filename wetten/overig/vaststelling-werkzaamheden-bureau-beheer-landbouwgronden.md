@@ -1,42 +1,17 @@
 ---
 title: "Vaststelling werkzaamheden bureau beheer landbouwgronden"
 identifier: "BWBR0003560"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-10-21"
-last_updated: "2007-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003560"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4972183"
-version_id: "8634132"
-internal_id: "C11178341"
-label_id: "4949044"
-dtd_version: "2.0"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003560/2007-10-21/0"
-intitule_bron: "Stcrt.1982-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-12-28"
-intitule_published: "1982-12-30"
-intitule_in_force: "1982-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-253"
-original_signed_date: "1982-12-28"
-original_published_date: "1982-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0003560&z=2007-10-21&g=2007-10-21"
-jci_1_0: "1.0:c:BWBR0003560&g=2007-10-21"
-citeertitel_status: "officieel"
-signed_date: "1982-12-28"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 2007-10-21
+status: geldig
+toestand: 2007-10-21
+bron: "https://wetten.overheid.nl/BWBR0003560"
+opgehaald: 2026-07-30
 ---
+
 # Vaststelling werkzaamheden bureau beheer landbouwgronden
-
-Gelet op [artikel 29, eerste lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=29) (Stb. 1981, 248);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -64,9 +39,9 @@ Het bureau verricht de volgende werkzaamheden alsmede werkzaamheden die daarmee 
 
 - i. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een op grond van de Regeling beheersovereenkomsten en natuurontwikkeling vastgesteld reservaatgebied, of natuurontwikkelingsproject, dan wel gelegen in een bij een dergelijk gebied behorend en in het desbetreffende begrenzingenplan opgenomen aankoopgebied;
 
-- j. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken, gelegen in een natuurgebied als bedoeld in [artikel 1, onderdeel s, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1), zoals die luidde op 31 december 2006, onderscheidenlijk [artikel 1, onderdeel s, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1) van de onderscheiden provincies;
+- j. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken, gelegen in een natuurgebied als bedoeld in [artikel 1, onderdeel s, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1), zoals die luidde op 31 december 2006, onderscheidenlijk [artikel 1, onderdeel s, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1) van de onderscheiden provincies;
 
-- k. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een beheersgebied als bedoeld in [artikel 1, onderdeel n, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1), zoals die luidde tot 31 december 2006, onderscheidenlijk [artikel 1, onderdeel n, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1) van de onderscheiden provincies, voor zover met betrekking tot die zaken op grond van die regeling beheerssubsidie is verleend;
+- k. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken gelegen in een beheersgebied als bedoeld in [artikel 1, onderdeel n, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1), zoals die luidde tot 31 december 2006, onderscheidenlijk [artikel 1, onderdeel n, van de Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=1) van de onderscheiden provincies, voor zover met betrekking tot die zaken op grond van die regeling beheerssubsidie is verleend;
 
 - l. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken in het kader van de verwezenlijking van bufferzones, zoals aangegeven op de kaarten 2 en 11 van het tweede rijksmeerjarenprogramma van de Agenda Vitaal Platteland;
 
@@ -86,7 +61,7 @@ Het bureau verricht de volgende werkzaamheden alsmede werkzaamheden die daarmee 
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 

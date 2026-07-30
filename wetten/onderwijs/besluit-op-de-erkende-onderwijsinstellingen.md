@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 26 augustus 1986, houdende nadere voorschriften voor de erkende onderwijsinstellingen"
+citeertitel: "Besluit op de erkende onderwijsinstellingen"
 identifier: "BWBR0004019"
-country: "nl"
-rank: "amvb"
-publication_date: "2014-01-06"
-last_updated: "2014-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004019"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "760693"
-version_id: "1108622"
-internal_id: "C1108621"
-label_id: "738124"
-dtd_version: "2.0"
-original_entry_into_force: "1986-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004019/2014-01-06/0"
-intitule_bron: "Stb.1986-466"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-08-26"
-intitule_status: "goed"
-original_publication: "Stb.1986-466"
-original_signed_date: "1986-08-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-10-01"
-jci_1_3: "jci1.3:c:BWBR0004019&z=2014-01-06&g=2014-01-06"
-jci_1_0: "1.0:c:BWBR0004019&g=2014-01-06"
-citeertitel_status: "officieel"
-short_title: "Besluit op de erkende onderwijsinstellingen"
-signed_date: "1986-08-26"
-entry_into_force: "1986-10-01"
+publicatiedatum: 1986-10-01
+laatste_update: 2014-01-06
+status: geldig
+toestand: 2014-01-06
+bron: "https://wetten.overheid.nl/BWBR0004019"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 26 augustus 1986, houdende nadere voorschriften voor de erkende onderwijsinstellingen
-
-Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, drs. N. J. Ginjaar-Maas, van 16 mei 1986, nr. 7263/3149A, centrale directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=9), [12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=12), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=19), en [30, eerste lid, van de Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=30) (**Stb.** 1985, 407);
-
-Gehoord de Onderwijsraad (advies van 29 oktober 1985, nr. O.R. 4/114K);
-
-De Raad van State gehoord (advies van 16 juni 1986, nr. W05.86.0245);
-
-Gezien het nader rapport van Onze Minister van Onderwijs en Wetenschappen, van 18 augustus 1986, nr. 7722/3149A, centrale directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepaling
 
@@ -54,23 +24,23 @@ In dit besluit wordt verstaan onder:
 
 - b. de wet: de [Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821);
 
-- c. instelling: een instelling, als bedoeld in [artikel 1, onderdeel **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- c. instelling: een instelling, als bedoeld in [artikel 1, onderdeel *b*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
-- d. bevoegd gezag: het bevoegd gezag, als bedoeld in [artikel 1, onderdeel **c**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- d. bevoegd gezag: het bevoegd gezag, als bedoeld in [artikel 1, onderdeel *c*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
 - e. de inspectie: de inspectie bedoeld in [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=22), voor zover belast met taken op het gebied van het onderwijs waarop de wet van toepassing is;
 
 - f. gecommitteerde: een gecommitteerde in de zin van [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=13), belast met het toezicht op het examen of een deel daarvan;
 
-- g. schriftelijk onderwijs: het schriftelijk onderwijs, bedoeld in [artikel 1, onderdeel **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- g. schriftelijk onderwijs: het schriftelijk onderwijs, bedoeld in [artikel 1, onderdeel *e*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
-- h. auteur: een auteur als bedoeld in [artikel 1, onderdeel **f**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- h. auteur: een auteur als bedoeld in [artikel 1, onderdeel *f*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
-- i. docent: een docent als bedoeld in [artikel 1, onderdeel **g**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- i. docent: een docent als bedoeld in [artikel 1, onderdeel *g*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
-- j. cursus: een cursus als bedoeld in [artikel 1, onderdeel **h**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- j. cursus: een cursus als bedoeld in [artikel 1, onderdeel *h*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
-- k. deelexamen: een deelexamen als bedoeld in [artikel 1, onderdeel **i**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
+- k. deelexamen: een deelexamen als bedoeld in [artikel 1, onderdeel *i*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=1);
 
 - l. kandidaat: degene die in staat wordt gesteld examen dan wel een of meer deelexamens af te leggen.
 
@@ -134,7 +104,7 @@ Het bevoegd gezag van de instelling verschaft aan de cursist uitsluitend juiste 
 
 ##### Artikel 12. Overeenkomst met de cursist
 
-Het bevoegd gezag van de instelling vermeldt in de prospectussen en studiegidsen op duidelijke wijze de gegevens die op grond van [artikel 11, eerste lid, de onderdelen **a** tot en met **i**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=11) in de overeenkomst dienen te worden opgenomen.
+Het bevoegd gezag van de instelling vermeldt in de prospectussen en studiegidsen op duidelijke wijze de gegevens die op grond van [artikel 11, eerste lid, de onderdelen *a* tot en met *i*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=11) in de overeenkomst dienen te worden opgenomen.
 
 ##### Artikel 13. Continuïteit van het onderwijs
 
@@ -158,7 +128,7 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat de lokaliteiten waar
 
 3. De examenreglementen bevatten in elk geval:
 
-- a. bepalingen omtrent de in [artikel 12, eerste lid, de onderdelen **a** tot en met **h**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=12) opgenomen onderwerpen;
+- a. bepalingen omtrent de in [artikel 12, eerste lid, de onderdelen *a* tot en met *h*, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=12) opgenomen onderwerpen;
 
 - b. bepalingen omtrent het examengeld en het al dan niet terugbetalen van reeds betaalde examengelden bij niet deelneming aan het examen;
 
@@ -244,7 +214,7 @@ Indien door de geconstateerde onvolkomenheden het belang van de cursisten wordt 
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29. Informatieplicht bevoegd gezag
 
@@ -254,10 +224,8 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat Onze Minister regelm
 
 ##### Artikel 30. Inwerkingtreding Weo en besluit
 
-Dit besluit alsmede de wet met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-06&g=2014-01-06) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=28&z=2014-01-06&g=2014-01-06), treden in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treden zij in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
+Dit besluit alsmede de wet met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-06&g=2014-01-06) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=28&z=2014-01-06&g=2014-01-06), treden in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treden zij in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.
 
 ##### Artikel 31. Citeertitel
 
 Dit besluit kan worden aangehaald als "Besluit op de erkende onderwijsinstellingen".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

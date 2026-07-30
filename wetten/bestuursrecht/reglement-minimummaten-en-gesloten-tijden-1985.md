@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 juni 1985, houdende Reglement minimummaten en gesloten tijden 1985"
+citeertitel: "Reglement minimummaten en gesloten tijden 1985"
 identifier: "BWBR0003805"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-10-01"
-last_updated: "2012-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003805"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "832973"
-version_id: "1206492"
-internal_id: "C1206491"
-label_id: "807104"
-dtd_version: "2.0"
-original_entry_into_force: "1985-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003805/2012-10-01/0"
-intitule_bron: "Stb.1985-301"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-06-05"
-intitule_status: "goed"
-original_publication: "Stb.1985-301"
-original_signed_date: "1985-06-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-06-08"
-jci_1_3: "jci1.3:c:BWBR0003805&z=2012-10-01&g=2012-10-01"
-jci_1_0: "1.0:c:BWBR0003805&g=2012-10-01"
-citeertitel_status: "officieel"
-short_title: "Reglement minimummaten en gesloten tijden 1985"
-signed_date: "1985-06-05"
-entry_into_force: "1985-06-08"
+publicatiedatum: 1985-06-08
+laatste_update: 2012-10-01
+status: geldig
+toestand: 2012-10-01
+bron: "https://wetten.overheid.nl/BWBR0003805"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 5 juni 1985, houdende Reglement minimummaten en gesloten tijden 1985
-
-Op de voordracht van de Staatssecretaris van Landbouw en Visserij van 15 april 1985, Directie Juridische en Bedrijfsorganisatorische Zaken, no. J. 2430;
-
-Overwegende dat het wenselijk is mede ter uitvoering van verordening (EEG) no. 3626/82 van de Raad van de Europese Gemeenschappen van 3 december 1982 (**Pb EG** L384), een herzien Reglement minimummaten en gesloten tijden vast te stellen;
-
-Gelet op de [artikelen 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a), 4, 9 en [16 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=16) (**Stb.** 312);
-
-Gehoord het Produktschap voor Vis en Visprodukten, het Visserijschap, het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, de Nederlandse Vereniging voor Sportvissersfederaties, het Centraal Nederlands Hengelaarsverbond en de Voorlopige Adviesraad voor de Binnenvisserij;
-
-De Raad van State gehoord (advies van 30 mei 1985, no. W.11.85.0214/06.05.22);
-
-Gezien het nader rapport van de Staatssecretaris van Landbouw en Visserij van 31 mei 1985 no. J3589, Directie Juridische en Bedrijfsorganisatorische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -108,7 +76,7 @@ De artikelen [1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=201
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -120,22 +88,20 @@ Aan vrijstellingen en ontheffingen kunnen voorschriften worden verbonden. Zij ku
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Het Reglement minimummaten en gesloten tijden 1970 (**Stb.** 178) wordt ingetrokken.
+Het Reglement minimummaten en gesloten tijden 1970 (*Stb.* 178) wordt ingetrokken.
 
 ##### Artikel 16
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 17
 
-Dit besluit kan worden aangehaald als "Reglement minimummaten en gesloten tijden", met vermelding van het jaartal van het **Staatsblad,** waarin het zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit kan worden aangehaald als "[Reglement minimummaten en gesloten tijden](https://wetten.overheid.nl/BWBR0003805)", met vermelding van het jaartal van het *Staatsblad,* waarin het zal worden geplaatst.

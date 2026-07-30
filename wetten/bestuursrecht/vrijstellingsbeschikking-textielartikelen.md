@@ -1,42 +1,17 @@
 ---
 title: "Vrijstellingsbeschikking textielartikelen"
 identifier: "BWBR0002940"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-12-31"
-last_updated: "1986-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002940"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4611723"
-version_id: "6427942"
-internal_id: "C6673501"
-label_id: "4590014"
-dtd_version: "2.0"
-original_entry_into_force: "1975-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002940/1986-12-31/0"
-intitule_bron: "Stcrt.1974-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1974-10-09"
-intitule_published: "1974-12-16"
-intitule_in_force: "1975-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1974-244"
-original_signed_date: "1974-10-09"
-original_published_date: "1974-12-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1975-12-01"
-jci_1_3: "jci1.3:c:BWBR0002940&z=1986-12-31&g=1986-12-31"
-jci_1_0: "1.0:c:BWBR0002940&g=1986-12-31"
-citeertitel_status: "officieel"
-signed_date: "1974-10-09"
-entry_into_force: "1975-12-01"
+publicatiedatum: 1975-12-01
+laatste_update: 1986-12-31
+status: geldig
+toestand: 1986-12-31
+bron: "https://wetten.overheid.nl/BWBR0002940"
+opgehaald: 2026-07-30
 ---
+
 # Vrijstellingsbeschikking textielartikelen
-
-Gelet op [artikel 14, vierde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) (Stb. 1935, 793),
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -46,9 +21,9 @@ Vrijstelling van [artikel 13, eerste lid, van het Textielartikelenbesluit (Waren
 
 - b. een textielartikel, dat in een winkel, op een markt of in enige andere voor het publiek toegankelijke verkoopplaats krachtens verkoop aan de koper wordt afgeleverd en aldaar in diens tegenwoordigheid met het oog op die aflevering is afgemeten of gemeten, voor zover:
 
-- 1º. dat textielartikel direct vóór die aflevering hetzij deel uitmaakte van een op die plaats aanwezig textielartikel waarvoor de onder a, bedoelde vrijstelling geldt, hetzij zelf een zodanig textielartikel was, en
+   - 1º. dat textielartikel direct vóór die aflevering hetzij deel uitmaakte van een op die plaats aanwezig textielartikel waarvoor de onder a, bedoelde vrijstelling geldt, hetzij zelf een zodanig textielartikel was, en
 
-- 2º. de aanduiding die voor het textielartikel bij het [Textielartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0002932) is vastgesteld of toegelaten, is aangebracht op of aan de rol, plank of een ander voorwerp, om hetwelk dat textielartikel voor die aflevering gewikkeld was, en de vorm van die aanduiding voldoet aan het bepaalde in [artikel 13, derde en vierde lid, van het Textielartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0002932&artikel=13).
+   - 2º. de aanduiding die voor het textielartikel bij het [Textielartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0002932) is vastgesteld of toegelaten, is aangebracht op of aan de rol, plank of een ander voorwerp, om hetwelk dat textielartikel voor die aflevering gewikkeld was, en de vorm van die aanduiding voldoet aan het bepaalde in [artikel 13, derde en vierde lid, van het Textielartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0002932&artikel=13).
 
 - c. een textielartikel als bedoeld in de aanhef van onderdeel b, voor zover dat textielartikel direct voor zijn aflevering deel uitmaakte van een op de betrokken verkoopplaats aanwezig textielartikel dat bij de meter pleegt te worden verkocht en dat is voorzien van de daarvoor bij het [Textielartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0002932) vastgestelde of toegelaten aanduiding die voldoet aan [artikel 13, derde en vierde lid, van voornoemd besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002932&artikel=13).
 

@@ -1,42 +1,17 @@
 ---
 title: "Teruggaafbeschikking motorrijtuigenbelasting 1973"
 identifier: "BWBR0002862"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1973-01-01"
-last_updated: "1973-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002862"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3775693"
-version_id: "5558562"
-internal_id: "C5751651"
-label_id: "3755444"
-dtd_version: "2.0"
-original_entry_into_force: "1973-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002862/1973-01-01/0"
-intitule_bron: "Stcrt.1972-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-12-27"
-intitule_published: "1972-12-27"
-intitule_in_force: "1972-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1972-251"
-original_signed_date: "1972-12-27"
-original_published_date: "1972-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1973-01-01"
-jci_1_3: "jci1.3:c:BWBR0002862&z=1973-01-01&g=1973-01-01"
-jci_1_0: "1.0:c:BWBR0002862&g=1973-01-01"
-citeertitel_status: "officieel"
-signed_date: "1972-12-27"
-entry_into_force: "1973-01-01"
+publicatiedatum: 1973-01-01
+laatste_update: 1973-01-01
+status: geldig
+toestand: 1973-01-01
+bron: "https://wetten.overheid.nl/BWBR0002862"
+opgehaald: 2026-07-30
 ---
+
 # Teruggaafbeschikking motorrijtuigenbelasting 1973
-
-Gelet op artikel 18 van de Wet van 29 november 1972 (Stb. 696), houdende goedkeuring en uitvoering van de op 29 mei 1972 te Luxemburg tussen Nederland, België en Luxemburg gesloten Overeenkomst tot unificatie van accijnzen,
-
-Besluit:
 
 ##### Artikel 1
 

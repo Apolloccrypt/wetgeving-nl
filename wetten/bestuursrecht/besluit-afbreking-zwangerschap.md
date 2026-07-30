@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 17 mei 1984, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet afbreking zwangerschap"
+citeertitel: "Besluit afbreking zwangerschap"
 identifier: "BWBR0003677"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-10-25"
-last_updated: "2025-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003677"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "82223"
-version_id: "30098692"
-internal_id: "C43125371"
-label_id: "83294"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003677/2025-10-25/0"
-intitule_bron: "Stb.1984-218"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-05-17"
-intitule_published: "1984-05-25"
-intitule_status: "goed"
-original_publication: "Stb.2024-125"
-original_signed_date: "2024-04-24"
-original_published_date: "2024-05-14"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2024-125"
-entry_into_force_date: "2024-04-24"
-jci_1_3: "jci1.3:c:BWBR0003677&z=2025-10-25&g=2025-10-25"
-jci_1_0: "1.0:c:BWBR0003677&g=2025-10-25"
-citeertitel_status: "officieel"
-short_title: "Besluit afbreking zwangerschap"
-signed_date: "2024-04-24"
-entry_into_force: "2024-04-24"
+publicatiedatum: 2024-04-24
+laatste_update: 2025-10-25
+status: geldig
+toestand: 2025-10-25
+bron: "https://wetten.overheid.nl/BWBR0003677"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 17 mei 1984, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet afbreking zwangerschap
-
-Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 3 augustus 1983, nr. 184458, DG/Vgz/GBO/MBO;
-
-Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), [6, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11), en [13 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=13) (Stb. 1981, 257);
-
-Gezien de adviezen van de Centrale Raad voor de Volksgezondheid, van de Gezondheidsraad en van de Emancipatieraad;
-
-De Raad van State gehoord (advies van 22 december 1983, nr. W13.83.0417/33.3.51);
-
-Gezien het nader rapport van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 14 mei 1984, DG Vgz/GBO/MBO, nr. 70 034;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -53,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-wet: de [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396) (**Stb.** 1981, 257);
+wet: de [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396) (*Stb.* 1981, 257);
 
 behandeling: een behandeling, gericht op het afbreken van zwangerschap.
 
@@ -141,11 +108,11 @@ De kliniek draagt ervoor zorg dat met betrekking tot iedere behandeling in de kl
 
 De kliniek treft maatregelen met betrekking tot:
 
-- -. het voorkomen, opsporen en bestrijden van infecties;
+- - het voorkomen, opsporen en bestrijden van infecties;
 
-- -. de algemene hygiëne, door het opstellen van regelen en voorschriften;
+- - de algemene hygiëne, door het opstellen van regelen en voorschriften;
 
-- -. een deugdelijke sterilisatie en bewaking van het sterilisatieproces.
+- - een deugdelijke sterilisatie en bewaking van het sterilisatieproces.
 
 ##### Artikel 18
 
@@ -185,54 +152,6 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 #### § 4a. Voorschriften met betrekking tot de medicamenteuze afbreking van de zwangerschap via de huisarts
 
-##### Artikel 25
-
-1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=2025-10-25&g=2025-10-25) gestelde voorschriften wordt voldaan.
-
-2. De kliniek verstrekt naast de in het eerste lid bedoelde gegevens tevens de volgende gegevens:
-
-- a. een omschrijving van de aard van de rechtspersoon;
-
-- b. een exemplaar van de statuten, indien de rechtspersoon geen openbaar lichaam is;
-
-- c. de samenstelling van het bestuur;
-
-- d. het adres van de kliniek met een beschrijving van de voor behandelingen beschikbare ruimten;
-
-- e. een exemplaar van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-10-25&g=2025-10-25) gesloten samenwerkingsovereenkomst of samenwerkingsovereenkomsten.
-
-#### § 6. Gegevens met betrekking tot het afbreken van zwangerschappen
-
-##### Artikel 26
-
-1. De arts bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) doet de in het eerste lid van dat artikel bedoelde gegevens aan de geneesheer-directeur toekomen binnen een maand na het verstrijken van het kalenderjaar waarop ze betrekking hebben.
-
-2. Hij vermeldt die gegevens op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
-
-##### Artikel 27
-
-1. De geneesheer-directeur doet de in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) bedoelde opgave aan de inspecteur toekomen binnen drie maanden na het verstrijken van het kalenderjaar waarop zij betrekking heeft.
-
-2. Hij doet die opgave op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
-
-##### Artikel 28
-
-1. De arts, bedoeld in [artikel 11, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) dan wel de huisarts, bedoeld in [artikel 11a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a) draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste en tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), onderscheidenlijk [artikel 6a, derde lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) verantwoord is te achten.
-
-2. Aan de hand van de gegevens, vervat in de aantekeningen, dient de inspecteur zich een oordeel te kunnen vormen of de arts overeenkomstig [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5) dan wel de huisarts overeenkomstig [artikel 6a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) handelt.
-
-#### § 7. Slotbepalingen
-
-##### Artikel 29
-
-Dit besluit kan worden aangehaald als: Besluit afbreking zwangerschap.
-
-##### Artikel 30
-
-De [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396) en dit besluit treden in werking met ingang van 1 november 1984.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
 ##### Artikel 24a
 
 1. De huisarts, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2), heeft een scholing gevolgd die in overleg met relevante beroepsorganisaties tot stand is gekomen en door de wetenschappelijke beroepsorganisatie van huisartsen is geaccrediteerd.
@@ -263,7 +182,35 @@ De algemene voorschriften met betrekking tot het afbreken van zwangerschappen, b
 
 #### § 5. Gegevens, te verstrekken bij het aanvragen van een vergunning
 
+##### Artikel 25
+
+1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2025-10-25&g=2025-10-25), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=2025-10-25&g=2025-10-25) gestelde voorschriften wordt voldaan.
+
+2. De kliniek verstrekt naast de in het eerste lid bedoelde gegevens tevens de volgende gegevens:
+
+- a. een omschrijving van de aard van de rechtspersoon;
+
+- b. een exemplaar van de statuten, indien de rechtspersoon geen openbaar lichaam is;
+
+- c. de samenstelling van het bestuur;
+
+- d. het adres van de kliniek met een beschrijving van de voor behandelingen beschikbare ruimten;
+
+- e. een exemplaar van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2025-10-25&g=2025-10-25) gesloten samenwerkingsovereenkomst of samenwerkingsovereenkomsten.
+
 #### § 6. Gegevens met betrekking tot het afbreken van zwangerschappen
+
+##### Artikel 26
+
+1. De arts bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) doet de in het eerste lid van dat artikel bedoelde gegevens aan de geneesheer-directeur toekomen binnen een maand na het verstrijken van het kalenderjaar waarop ze betrekking hebben.
+
+2. Hij vermeldt die gegevens op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
+
+##### Artikel 27
+
+1. De geneesheer-directeur doet de in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) bedoelde opgave aan de inspecteur toekomen binnen drie maanden na het verstrijken van het kalenderjaar waarop zij betrekking heeft.
+
+2. Hij doet die opgave op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
 
 ##### Artikel 27a
 
@@ -271,6 +218,18 @@ De algemene voorschriften met betrekking tot het afbreken van zwangerschappen, b
 
 2. Hij doet die opgave op een formulier, waarvan het model door Onze Minister wordt vastgesteld.
 
+##### Artikel 28
+
+1. De arts, bedoeld in [artikel 11, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11) dan wel de huisarts, bedoeld in [artikel 11a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11a) draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste en tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), onderscheidenlijk [artikel 6a, derde lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) verantwoord is te achten.
+
+2. Aan de hand van de gegevens, vervat in de aantekeningen, dient de inspecteur zich een oordeel te kunnen vormen of de arts overeenkomstig [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5) dan wel de huisarts overeenkomstig [artikel 6a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=6a) handelt.
+
 #### § 7. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+##### Artikel 29
+
+Dit besluit kan worden aangehaald als: Besluit afbreking zwangerschap.
+
+##### Artikel 30
+
+De [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396) en dit besluit treden in werking met ingang van 1 november 1984.

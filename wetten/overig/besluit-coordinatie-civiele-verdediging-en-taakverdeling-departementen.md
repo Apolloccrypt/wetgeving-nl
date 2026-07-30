@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 1 november 1971, houdende wijziging van de regeling betreffende de coördinatie van de civiele verdediging en van de taakverdeling van departementen"
+citeertitel: "Besluit coördinatie civiele verdediging en taakverdeling departementen"
 identifier: "BWBR0002789"
-country: "nl"
-rank: "kb"
-publication_date: "1971-11-01"
-last_updated: "1971-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002789"
+categorie: "Overig"
 soort: "KB"
-stam_id: "331633"
-version_id: "480972"
-internal_id: "C480971"
-label_id: "324414"
-dtd_version: "2.0"
-original_entry_into_force: "1971-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002789/1971-11-01/0"
-intitule_bron: "Stb.1971-643"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-11-01"
-intitule_status: "goed"
-original_publication: "Stb.1971-643"
-original_signed_date: "1971-11-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1971-11-01"
-jci_1_3: "jci1.3:c:BWBR0002789&z=1971-11-01&g=1971-11-01"
-jci_1_0: "1.0:c:BWBR0002789&g=1971-11-01"
-citeertitel_status: "officieel"
-short_title: "Besluit coördinatie civiele verdediging en taakverdeling departementen"
-signed_date: "1971-11-01"
-entry_into_force: "1971-11-01"
+publicatiedatum: 1971-11-01
+laatste_update: 1971-11-01
+status: geldig
+toestand: 1971-11-01
+bron: "https://wetten.overheid.nl/BWBR0002789"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 1 november 1971, houdende wijziging van de regeling betreffende de coördinatie van de civiele verdediging en van de taakverdeling van departementen
-
-Op voordracht van Onze minister-president, minister van Algemene Zaken, en van Onze minister van Binnenlandse Zaken, d.d. 26 oktober 1971, nr. 199431, in overeenstemming met het gevoelen van de raad van ministers;
-
-Gelet op artikel 86 van de Grondwet;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
@@ -67,5 +43,3 @@ Ons besluit van 26 september 1960, nr. 2, wordt hierbij ingetrokken.
 ##### Artikel V
 
 Dit besluit treedt in werking met ingang van 1 november 1971.
-
-Onze minister-president, minister van Algemene Zaken en Onze minister van Binnenlandse Zaken zijn belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst, waarvan mededeling zal worden gedaan in de **Nederlandse Staatscourant** en waarvan afschrift zal worden gezonden aan de Raad van Ministers, de Hoge Colleges van Staat, de Gevolmachtigde ministers van Suriname en van de Nederlandse Antillen, de departementen van algemeen bestuur en de Algemene Rekenkamer.

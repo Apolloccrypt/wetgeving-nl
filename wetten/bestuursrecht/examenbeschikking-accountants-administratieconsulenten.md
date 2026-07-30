@@ -1,55 +1,40 @@
 ---
 title: "Examens accountants-administratieconsulenten"
+citeertitel: "Examenbeschikking accountants-administratieconsulenten"
 identifier: "BWBR0002929"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-03-19"
-last_updated: "1986-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002929"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4293623"
-version_id: "6056662"
-internal_id: "C6260271"
-label_id: "4272494"
-dtd_version: "2.0"
-original_entry_into_force: "1974-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002929/1986-03-19/0"
-intitule_bron: "Stcrt.1974-135"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1974-07-04"
-intitule_published: "1974-07-16"
-intitule_in_force: "1974-07-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1974-135"
-original_signed_date: "1974-07-04"
-original_published_date: "1974-07-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1974-07-17"
-jci_1_3: "jci1.3:c:BWBR0002929&z=1986-03-19&g=1986-03-19"
-jci_1_0: "1.0:c:BWBR0002929&g=1986-03-19"
-citeertitel_status: "officieel"
-short_title: "Examenbeschikking accountants-administratieconsulenten"
-signed_date: "1974-07-04"
-entry_into_force: "1974-07-17"
+publicatiedatum: 1974-07-17
+laatste_update: 1986-03-19
+status: geldig
+toestand: 1986-03-19
+bron: "https://wetten.overheid.nl/BWBR0002929"
+opgehaald: 2026-07-30
 ---
+
 # Examens accountants-administratieconsulenten
 
-In overeenstemming met de Staatssecretaris van Onderwijs en Wetenschappen, dr. A. Veerman;
-
-Gelet op [artikel 10 van het Examenbesluit accountantsadministratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002923&artikel=10) (Stb. 1974, 304),
-
-Besluit:
-
-### Afdeling I. **Algemene bepalingen**
+### Afdeling I. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-### Afdeling II. **Regeling van het examen**
+diploma:
 
-#### § 1. **Algemene bepalingen**
+diploma, bedoeld in [artikel 10, onder a, van de Wet op de Accountants-administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=10) (Stb. 1972, 748);
+
+besluit:
+
+[Examenbesluit accountants-administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002923) (Stb. 1974, 304);
+
+examencommissie:
+
+examencommissie, bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002923&artikel=5).
+
+### Afdeling II. Regeling van het examen
+
+#### § 1. Algemene bepalingen
 
 ##### Artikel 1a
 
@@ -69,7 +54,7 @@ In deze beschikking wordt verstaan onder:
 
 3. De onderdelen van het mondeling gedeelte worden jaarlijks tweemaal afgenomen, en wel in de periode april – mei en in de periode september – oktober.
 
-#### § 2. **Schriftelijk gedeelte van het examen**
+#### § 2. Schriftelijk gedeelte van het examen
 
 ##### Artikel 3
 
@@ -109,7 +94,7 @@ De opgaven voor het schriftelijk gedeelte worden vastgesteld door de examencommi
 
 Een kandidaat heeft het schriftelijk gedeelte van het examen met goed gevolg afgelegd, indien hij voor alle onderdelen, van het afleggen waarvan hij niet is vrijgesteld, ten minste het cijfer 6 heeft behaald, mits deze cijfers binnen een periode van vier jaren en zes maanden zijn behaald.
 
-#### § 3. **Mondeling gedeelte van het examen**
+#### § 3. Mondeling gedeelte van het examen
 
 ##### Artikel 7
 
@@ -135,15 +120,55 @@ Een kandidaat heeft het schriftelijk gedeelte van het examen met goed gevolg afg
 
 Een kandidaat heeft het mondeling gedeelte van het examen met goed gevolg afgelegd, indien hij voor beide onderdelen, voor zover hij van het afleggen daarvan niet is vrijgesteld, ten minste het cijfer 6 heeft behaald, mits deze cijfers binnen een periode van twee jaren en drie maanden zijn behaald.
 
-#### § 4. **Beoordeling en uitslag**
+#### § 4. Beoordeling en uitslag
 
 ##### Artikel 8
 
 De beoordeling van de kandidaat wordt voor ieder onderdeel uitgedrukt in gehele cijfers 1 tot en met 10, waaraan de volgende betekenis toekomt:
 
+1
+
+= zeer slecht
+
+2
+
+= slecht
+
+3
+
+= zeer onvoldoende
+
+4
+
+= onvoldoende
+
+5
+
+= bijna voldoende
+
+6
+
+= voldoende
+
+7
+
+= ruim voldoende
+
+8
+
+= goed
+
+9
+
+= zeer goed
+
+10
+
+= uitmuntend
+
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -157,13 +182,13 @@ Vervallen
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
-#### Afdeling III. **Slotbepalingen**
+#### Afdeling III. Slotbepalingen
 
 ##### Artikel 13
 

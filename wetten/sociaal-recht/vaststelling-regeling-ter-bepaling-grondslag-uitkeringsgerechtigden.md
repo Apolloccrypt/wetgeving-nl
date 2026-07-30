@@ -1,48 +1,39 @@
 ---
 title: "Vaststelling Regeling ter bepaling grondslag uitkeringsgerechtigden"
 identifier: "BWBR0004036"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-10-22"
-last_updated: "1986-10-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004036"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3755283"
-version_id: "5538172"
-internal_id: "C5731261"
-label_id: "3735054"
-dtd_version: "2.0"
-original_entry_into_force: "1986-10-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004036/1986-10-22/0"
-intitule_bron: "Stcrt.1986-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-10-13"
-intitule_published: "1986-10-21"
-intitule_in_force: "1986-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-203"
-original_signed_date: "1986-10-13"
-original_published_date: "1986-10-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-10-22"
-jci_1_3: "jci1.3:c:BWBR0004036&z=1986-10-22&g=1986-10-22"
-jci_1_0: "1.0:c:BWBR0004036&g=1986-10-22"
-citeertitel_status: "officieel"
-signed_date: "1986-10-13"
-entry_into_force: "1986-10-22"
+publicatiedatum: 1986-10-22
+laatste_update: 1986-10-22
+status: geldig
+toestand: 1986-10-22
+bron: "https://wetten.overheid.nl/BWBR0004036"
+opgehaald: 2026-07-30
 ---
+
 # Vaststelling Regeling ter bepaling grondslag uitkeringsgerechtigden
-
-Gelet op [artikel 10, zesde lid, van de Wet buitengewoon pensioen Indisch Verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=10) (Stb. 1986, 360);
-
-Gehoord de Buitengewone Pensioenraad en de Stichting Pelita;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+de wet:
+
+de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968) (Stb. 1986, 360);
+
+b.
+
+de belanghebbende:
+
+de deelnemer aan het verzet in de zin van [artikel 2, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=2), alsmede degene die behoort tot een der categorieën van personen, bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=2), op wie [artikel 10, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=10) van toepassing is;
+
+c.
+
+de grondslag:
+
+de pensioengrondslag, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=10).
 
 ##### Artikel 2
 

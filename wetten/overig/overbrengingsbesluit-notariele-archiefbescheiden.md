@@ -1,42 +1,17 @@
 ---
 title: "Overbrengingsbesluit notariële archiefbescheiden"
 identifier: "BWBR0002677"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1969-12-12"
-last_updated: "1969-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002677"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4341753"
-version_id: "6105992"
-internal_id: "C6309501"
-label_id: "4320284"
-dtd_version: "2.0"
-original_entry_into_force: "1969-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002677/1969-12-12/0"
-intitule_bron: "Stcrt.1969-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1969-10-20"
-intitule_published: "1969-12-10"
-intitule_in_force: "1969-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1969-240"
-original_signed_date: "1969-10-20"
-original_published_date: "1969-12-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1969-12-12"
-jci_1_3: "jci1.3:c:BWBR0002677&z=1969-12-12&g=1969-12-12"
-jci_1_0: "1.0:c:BWBR0002677&g=1969-12-12"
-citeertitel_status: "officieel"
-signed_date: "1969-10-20"
-entry_into_force: "1969-12-12"
+publicatiedatum: 1969-12-12
+laatste_update: 1969-12-12
+status: geldig
+toestand: 1969-12-12
+bron: "https://wetten.overheid.nl/BWBR0002677"
+opgehaald: 2026-07-30
 ---
+
 # Overbrengingsbesluit notariële archiefbescheiden
-
-Gelet op het bepaalde in artikel 69a van de Wet op het Notarisambt, juncto artikel 13, vijfde lid, van de Archiefwet 1962,
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -60,4 +35,4 @@ Van de overbrenging wordt op de wijze als in artikel 18 van het Archiefbesluit i
 
 ##### Artikel 6
 
-Deze beschikking zal in de **Nederlandse Staatscourant** worden geplaatst; zij treedt in werking op de tweede dag na die van de uitgifte van de **Nederlandse Staatscourant** waarin zij is geplaatst.
+Deze beschikking zal in de *Nederlandse Staatscourant* worden geplaatst; zij treedt in werking op de tweede dag na die van de uitgifte van de *Nederlandse Staatscourant* waarin zij is geplaatst.

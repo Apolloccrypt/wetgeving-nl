@@ -1,43 +1,18 @@
 ---
 title: "Rijkswet van 23 juni 1972, houdende voorzieningen op het gebied van de zeescheepvaart in buitengewone omstandigheden"
+citeertitel: "Rijkswet Noodvoorzieningen Scheepvaart"
 identifier: "BWBR0002810"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002810"
+categorie: "Verkeer"
 soort: "rijkswet"
-stam_id: "201603"
-version_id: "275562"
-internal_id: "C275561"
-label_id: "198704"
-dtd_version: "2.0"
-original_entry_into_force: "1974-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002810/2025-07-01/0"
-intitule_bron: "Stb.1972-416"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-03-26"
-intitule_status: "goed"
-original_publication: "Stb.1972-416"
-original_signed_date: "1972-03-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "9427"
-entry_into_force_date: "1974-06-01"
-jci_1_3: "jci1.3:c:BWBR0002810&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0002810&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Rijkswet Noodvoorzieningen Scheepvaart"
-signed_date: "1972-03-26"
-entry_into_force: "1974-06-01"
+publicatiedatum: 1974-06-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0002810"
+opgehaald: 2026-07-30
 ---
+
 # Rijkswet van 23 juni 1972, houdende voorzieningen op het gebied van de zeescheepvaart in buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is nieuwe regelen te stellen, opdat in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden in het belang van het Koninkrijk beperkingen gesteld kunnen worden aan de overdracht en de bewegingen van- en het vervoer van goederen of personen met zeeschepen onder de vlag van het Koninkrijk, alsmede de onbeperkte beschikking daarover verkregen kan worden;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk inachtgenomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### I. Inleidende Bepalingen
 
@@ -49,13 +24,13 @@ Voor de toepassing van het bij of krachtens deze Rijkswet bepaalde wordt verstaa
 
 - b. "schip onder de vlag van het Koninkrijk":
 
-- 1°. een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren, niet zijnde een oorlogsschip, hetzij
+   - 1°. een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren, niet zijnde een oorlogsschip, hetzij
 
-- 2°. een Nederlands vissersvaartuig, dat bedrijfsmatig wordt gebruikt voor de zeevisserij, de kustvisserij of de visserij op het IJsselmeer, een en ander in de zin van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), hetzij
+   - 2°. een Nederlands vissersvaartuig, dat bedrijfsmatig wordt gebruikt voor de zeevisserij, de kustvisserij of de visserij op het IJsselmeer, een en ander in de zin van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), hetzij
 
-- 3°. een schip dat op grond van voor Aruba, Curaçao, onderscheidenlijk Sint Maarten geldende rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren, hetzij
+   - 3°. een schip dat op grond van voor Aruba, Curaçao, onderscheidenlijk Sint Maarten geldende rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren, hetzij
 
-- 4°. een bij landsverordening van Aruba, Curaçao, onderscheidenlijk Sint Maarten als zodanig in Aruba, Curaçao, onderscheidenlijk Sint Maarten thuisbehorend vissersvaartuig.
+   - 4°. een bij landsverordening van Aruba, Curaçao, onderscheidenlijk Sint Maarten als zodanig in Aruba, Curaçao, onderscheidenlijk Sint Maarten thuisbehorend vissersvaartuig.
 
 - c. "reder": de eigenaar of, ingeval van rompbevrachting, de rompbevrachter.
 
@@ -75,7 +50,7 @@ Voor de toepassing van het bij of krachtens deze Rijkswet bepaalde wordt verstaa
 
 6. Onverminderd het in het vierde lid bepaalde geldt de bevoegdheid niet en eindigt zij niet, voordat Onze besluiten, bedoeld in het eerste, onderscheidenlijk het vorige lid, algemeen bekend zijn gemaakt op de wijze, door Ons te bepalen.
 
-7. Onze besluiten bedoeld in het eerste en het vijfde lid, worden geplaatst in het **Staatsblad,** in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten.
+7. Onze besluiten bedoeld in het eerste en het vijfde lid, worden geplaatst in het *Staatsblad,* in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten.
 
 ##### Artikel 3
 
@@ -101,7 +76,7 @@ Onze Minister kan aan reders van schepen onder de vlag van het Koninkrijk aanwij
 
 3. Onze Minister kan bepalen, dat geen handeling tengevolge heeft, dat een schip onder de vlag van het Koninkrijk zijn hoedanigheid als bedoeld in [artikel 1, b, onder 1°, 2°, 3°, 4° of 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) verliest dan wel de hoedanigheid verkrijgt van schip van een der andere delen van het Koninkrijk, tenzij door hem is verklaard, dat tegen het verlies, onderscheidenlijk tegen de verkrijging dier hoedanigheid geen bezwaar bestaat.
 
-4. Een verbod krachtens het eerste lid en een bepaling krachtens het derde lid worden bekend gemaakt in de **Staatscourant,** in de Landscourant van Aruba, in de Curaçaose Courant en in de Landscourant van Sint Maarten.
+4. Een verbod krachtens het eerste lid en een bepaling krachtens het derde lid worden bekend gemaakt in de *Staatscourant,* in de Landscourant van Aruba, in de Curaçaose Courant en in de Landscourant van Sint Maarten.
 
 #### III. Vordering van scheepsruimte
 
@@ -143,7 +118,7 @@ Onze Minister is bevoegd bepaalde of alle schepen onder de vlag van het Koninkri
 
 7. Een afschrift van de verklaring wordt zo spoedig mogelijk aan de reder, de eigenaar en de kapitein overhandigd.
 
-8. Met betrekking tot schepen als bedoeld in [artikel 1 onder **b**, 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01), wordt de verklaring ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Nederlandse Burgerlijk Wetboek](onbekend). [Artikel 24, eerste lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing. Met betrekking tot schepen als bedoeld in [artikel 1 onder **b**, 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) wordt de verklaring overgeschreven in het scheepsregister, waarin het schip teboekgesteld is; mocht dit register ontoegankelijk zijn, dan wordt de verklaring overgeschreven in een door Onze Minister aan te wijzen register.
+8. Met betrekking tot schepen als bedoeld in [artikel 1 onder *b*, 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01), wordt de verklaring ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Nederlandse Burgerlijk Wetboek. [Artikel 24, eerste lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing. Met betrekking tot schepen als bedoeld in [artikel 1 onder *b*, 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) wordt de verklaring overgeschreven in het scheepsregister, waarin het schip teboekgesteld is; mocht dit register ontoegankelijk zijn, dan wordt de verklaring overgeschreven in een door Onze Minister aan te wijzen register.
 
 9. Bij de terbeschikking stelling of zo spoedig mogelijk daarna wordt door één of meer deskundigen, daartoe door Onze Minister aangewezen, een verslag omtrent de toestand en de inventaris van het schip opgemaakt; zo mogelijk wordt de eigenaar, of, zo deze onbereikbaar is, de kapitein opgeroepen bij het onderzoek van het schip door de deskundige of deskundigen aanwezig of vertegenwoordigd te zijn. Indien de eigenaar of de kapitein aanwezig of vertegenwoordigd is, wordt het verslag mede door of namens hen getekend. Indien één of meer der in de vorige zin bedoelde personen weigeren te ondertekenen, wordt deze weigering, alsmede de reden daarvan, zo deze is opgegeven, in het verslag vermeld. Een afschrift van het verslag wordt zo spoedig mogelijk aan de eigenaar en de kapitein overhandigd.
 
@@ -177,7 +152,7 @@ Vergoeding wegens aan het schip te verrichten herstellingen wordt niet verleend,
 
 5. Een vergoeding wegens aan het schip te verrichten herstellingen wordt slechts verleend, voor zover deze worden uitgevoerd. Onze Minister kan van deze voorwaarde ontheffing verlenen.
 
-6. Nadat het schip weder ter beschikking van de eigenaar is gesteld, kunnen de inschulden en vorderingen, genoemd in [afdeling 3 van titel 3 van Boek 8 van het Nederlandse Burgerlijk Wetboek](onbekend) of voor zover het betreft een Arubaans, Curaçaos of Sint Maartens zeeschip of een aldaar thuisbehorend vissersvaartuig, genoemd in de overeenkomstige wettelijke bepalingen van Aruba, Curaçao of Sint Maarten, en ontstaan gedurende het gebruik door Onze Minister, niet langer op het schip worden verhaald.
+6. Nadat het schip weder ter beschikking van de eigenaar is gesteld, kunnen de inschulden en vorderingen, genoemd in afdeling 3 van titel 3 van Boek 8 van het Nederlandse Burgerlijk Wetboek of voor zover het betreft een Arubaans, Curaçaos of Sint Maartens zeeschip of een aldaar thuisbehorend vissersvaartuig, genoemd in de overeenkomstige wettelijke bepalingen van Aruba, Curaçao of Sint Maarten, en ontstaan gedurende het gebruik door Onze Minister, niet langer op het schip worden verhaald.
 
 ##### Artikel 12
 
@@ -191,7 +166,7 @@ Vergoeding wegens aan het schip te verrichten herstellingen wordt niet verleend,
 
 1. De vergoeding, welke aan de eigenaar en de vruchtgebruiker wordt verleend, indien het schip verloren is gegaan tijdens het gebruik door Onze Minister, dan wel vóór de terbeschikkingstelling verloren is gegaan als gevolg van omstandigheden waarin het schip is geraakt, doordat aan de vordering gevolg is gegeven, wordt vastgesteld op de wijze, omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01). Vergoeding wegens verlies van het schip wordt niet verleend, indien het niet verloren is gegaan als gevolg van het gebruik door Onze Minister of niet verloren is gegaan als gevolg van omstandigheden, waarin het vóór de terbeschikkingstelling is geraakt, doordat aan de vordering gevolg is gegeven.
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel 14
 
@@ -205,7 +180,7 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 3. Hetgeen in het vorige lid is bepaald, laat onverlet de rechten van de schuldeisers, wier inschuld bevoorrecht was op het tijdstip van vordering, tot verhaal op het schip zelf, nadat dit weder ter beschikking van de eigenaar is gesteld.
 
-4. Indien het schip met hypotheek was belast, vindt [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=14&z=2025-07-01&g=2025-07-01) geen toepassing, tenzij de hypothecaire schuldeiser het bedrag der hoofdsom, dat krachtens de overeenkomst met de schuldenaar onmiddellijk na het verlies van het schip opeisbaar was, met de rente daarover heeft ontvangen of toestemt in inbetalinggeving van scheepsruimte. Waren de schuldeiser en de schuldenaar overeengekomen, dat de schuldeiser in geval van verkoop van het schip, indien het een schip als bedoeld in [artikel 1 onder **b,** 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01), betreft, een verklaring zou afgeven als bedoeld in [artikel 274 van Boek 3 van het Nederlandse Burgerlijk Wetboek](onbekend), en indien het een schip als bedoeld in [artikel 1 onder **b,** 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) betreft, zou toestemmen in doorhaling der inschrijving tegen betaling van een bepaald bedrag, dan staat het de schuldenaar na betaling van dat bedrag vrij een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=14&z=2025-07-01&g=2025-07-01) aan te gaan.
+4. Indien het schip met hypotheek was belast, vindt [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=14&z=2025-07-01&g=2025-07-01) geen toepassing, tenzij de hypothecaire schuldeiser het bedrag der hoofdsom, dat krachtens de overeenkomst met de schuldenaar onmiddellijk na het verlies van het schip opeisbaar was, met de rente daarover heeft ontvangen of toestemt in inbetalinggeving van scheepsruimte. Waren de schuldeiser en de schuldenaar overeengekomen, dat de schuldeiser in geval van verkoop van het schip, indien het een schip als bedoeld in [artikel 1 onder *b,* 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01), betreft, een verklaring zou afgeven als bedoeld in artikel 274 van Boek 3 van het Nederlandse Burgerlijk Wetboek, en indien het een schip als bedoeld in [artikel 1 onder *b,* 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) betreft, zou toestemmen in doorhaling der inschrijving tegen betaling van een bepaald bedrag, dan staat het de schuldenaar na betaling van dat bedrag vrij een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=14&z=2025-07-01&g=2025-07-01) aan te gaan.
 
 #### V. Vordering van schepen in eigendom
 
@@ -225,7 +200,7 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 7. Door de overneming gaat de eigendom van het schip aan Nederland over, vrij van alle lasten en rechten daarop rustende.
 
-8. Met betrekking tot schepen als bedoeld in [artikel 1 onder **b,** 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01), wordt de verklaring ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Nederlandse Burgerlijk Wetboek](onbekend). Met betrekking tot schepen als bedoeld in [artikel 1 onder **b,** 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) wordt de verklaring overgeschreven in het scheepsregister, waarin het schip teboekgesteld is; de op het ogenblik van de overdracht op het schip rustende hypothecaire inschrijvingen in het scheepsregister worden ambtshalve doorgehaald; mocht dit register ontoegankelijk zijn, dan wordt de verklaring overgeschreven in een ander door Onze Minister aan te wijzen register.
+8. Met betrekking tot schepen als bedoeld in [artikel 1 onder *b,* 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01), wordt de verklaring ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Nederlandse Burgerlijk Wetboek. Met betrekking tot schepen als bedoeld in [artikel 1 onder *b,* 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) wordt de verklaring overgeschreven in het scheepsregister, waarin het schip teboekgesteld is; de op het ogenblik van de overdracht op het schip rustende hypothecaire inschrijvingen in het scheepsregister worden ambtshalve doorgehaald; mocht dit register ontoegankelijk zijn, dan wordt de verklaring overgeschreven in een ander door Onze Minister aan te wijzen register.
 
 9. Een afschrift van de verklaring wordt zo spoedig mogelijk aan de eigenaar en de kapitein overhandigd.
 
@@ -241,7 +216,7 @@ Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het vorige arti
 
 3. Onze Minister kan met de eigenaar overeenkomen, dat de krachtens het eerste lid aan deze verschuldigde vergoeding geheel of gedeeltelijk zal worden voldaan door inbetalinggeving van één of meer schepen; [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=15&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-4. Zolang aan de aanspraak op vergoeding wegens eigendomsovergang niet is voldaan kan Onze Minister het gevorderde schip tot een nader te bepalen bedrag ter voldoening van de aanspraak weder in eigendom overdragen aan degene van wie het schip werd gevorderd. Het bedrag wordt vastgesteld op de wijze, omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01). Van de overdracht wordt een verklaring opgemaakt, welke indien het een schip als bedoeld in [artikel 1, onder **b**, 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) betreft, Onze Minister zo spoedig mogelijk doet inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Nederlandse Burgerlijk Wetoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2)“Wetoek” moet zijn “Wetboek”, en welke indien het een schip als bedoeld in [artikel 1, onder **b**, 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) betreft, wordt overgeschreven in het scheepsregister, waarin het schip teboekstaat. [Artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=15&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
+4. Zolang aan de aanspraak op vergoeding wegens eigendomsovergang niet is voldaan kan Onze Minister het gevorderde schip tot een nader te bepalen bedrag ter voldoening van de aanspraak weder in eigendom overdragen aan degene van wie het schip werd gevorderd. Het bedrag wordt vastgesteld op de wijze, omschreven in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VI&artikel=24&z=2025-07-01&g=2025-07-01). Van de overdracht wordt een verklaring opgemaakt, welke indien het een schip als bedoeld in [artikel 1, onder *b*, 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) betreft, Onze Minister zo spoedig mogelijk doet inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Nederlandse Burgerlijk Wetoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2)“Wetoek” moet zijn “Wetboek”, en welke indien het een schip als bedoeld in [artikel 1, onder *b*, 3°, 4°, 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=I&artikel=1&z=2025-07-01&g=2025-07-01) betreft, wordt overgeschreven in het scheepsregister, waarin het schip teboekstaat. [Artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=15&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
 5. De op het schip bevoorrechte inschulden, bestaande op het tijdstip van de vordering in eigendom, zijn bevoorrecht op de vergoeding aan de eigenaar, bedoeld in het eerste lid, zolang deze vergoeding verschuldigd is; indien het schip met hypotheek is belast, heeft de hypothecaire schuldeiser tot het bedrag van zijn hypothecaire inschrijving pandrecht op de vergoeding aan de eigenaar, bedoeld in het eerste lid, zolang deze vergoeding verschuldigd is. De inschulden waarvoor krachtens de vorige zin een voorrecht of een pandrecht geldt, zijn op de vergoedingen aan de eigenaar bij voorrang boven alle inschulden uit anderen hoofde verhaalbaar; hun onderlinge rangorde wordt bepaald door de volgorde waarin zij vóór de vordering op het schip verhaalbaar waren.
 
@@ -307,19 +282,23 @@ De bedragen der vergoedingen, welke ingevolge de [artikelen 4](https://wetten.ov
 
 6. De bepalingen van burgerlijke rechtsvordering van het land waar de rechter is gevestigd zijn op het geding van toepassing voor zover daarvan bij deze Rijkswet niet is afgeweken.
 
+##### Artikel 25a
+
+*Dit onderdeel is nog niet inwerking getreden*
+
 #### VII. Strafbepalingen
 
 ##### Artikel 26
 
-1. De kapitein, de reder of de eigenaar, die opzettelijk niet voldoet aan een hem bij [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=6&z=2025-07-01&g=2025-07-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01), of [16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), opgelegde verplichting, en hij, die opzettelijk belet, belemmert of verijdelt, dat aan zodanige, een ander opgelegde verplichting wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van € 45.000,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 56.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten een geldboete van ten hoogste AWG 100.000,– onderscheidenlijk ANG 100.000,–.
+1. De kapitein, de reder of de eigenaar, die opzettelijk niet voldoet aan een hem bij [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=III&artikel=6&z=2025-07-01&g=2025-07-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=IV&artikel=9&z=2025-07-01&g=2025-07-01), of [16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=V&artikel=16&z=2025-07-01&g=2025-07-01), opgelegde verplichting, en hij, die opzettelijk belet, belemmert of verijdelt, dat aan zodanige, een ander opgelegde verplichting wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van € 45.000,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 56.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten een geldboete van ten hoogste AWG 100.000,– onderscheidenlijk ANG 100.000,–.
 
-2. Hij aan wiens schuld te wijten is, dat aan een verplichting als in het vorige lid bedoeld niet wordt voldaan, of dat de nakoming daarvan wordt belet, belemmerd of verijdeld, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van ten hoogste € 22.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 28.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 50.000,– onderscheidenlijk ANG 50.000,–.
+2. Hij aan wiens schuld te wijten is, dat aan een verplichting als in het vorige lid bedoeld niet wordt voldaan, of dat de nakoming daarvan wordt belet, belemmerd of verijdeld, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van ten hoogste € 22.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 28.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 50.000,– onderscheidenlijk ANG 50.000,–.
 
 ##### Artikel 27
 
-1. Hij die opzettelijk een verbod als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01) overtreedt of een voorwaarde als bedoeld in dat artikel niet nakomt, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van ten hoogste € 45 000,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 56.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 100.000,– onderscheidenlijk ANG 100.000,–.
+1. Hij die opzettelijk een verbod als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01) overtreedt of een voorwaarde als bedoeld in dat artikel niet nakomt, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van ten hoogste € 45 000,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 56.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 100.000,– onderscheidenlijk ANG 100.000,–.
 
-2. Hij aan wiens schuld te wijten is, dat een verbod als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01) wordt overtreden of een voorwaarde als bedoeld in dat artikel niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van ten hoogste € 22.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 28.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 50.000,– onderscheidenlijk ANG 50.000,–.
+2. Hij aan wiens schuld te wijten is, dat een verbod als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=II&artikel=5&z=2025-07-01&g=2025-07-01) wordt overtreden of een voorwaarde als bedoeld in dat artikel niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van ten hoogste € 22.500,–, of, indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius of Saba, een geldboete van ten hoogste USD 28.000,–, dan wel indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van ten hoogste AWG 50.000,– onderscheidenlijk ANG 50.000,–.
 
 ##### Artikel 28
 
@@ -335,7 +314,7 @@ De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002810&paragraaf=VII&
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
@@ -355,7 +334,7 @@ Vervallen
 
 - g. de ambtenaren van Aruba, Curaçao en Sint Maarten, die Onze betrokken Gouverneur daartoe aanwijst.
 
-2. Van een besluit als bedoeld in het eerste lid, onderdeel f, wordt mededeling gedaan door plaatsing in de **Staatscourant**; van een besluit als bedoeld in het eerste lid, onderdeel g, wordt mededeling gedaan door plaatsing in de Landscourant van Aruba, de Curaçaose Courant, onderscheidenlijk de Landscourant van Sint Maarten.
+2. Van een besluit als bedoeld in het eerste lid, onderdeel f, wordt mededeling gedaan door plaatsing in de *Staatscourant*; van een besluit als bedoeld in het eerste lid, onderdeel g, wordt mededeling gedaan door plaatsing in de Landscourant van Aruba, de Curaçaose Courant, onderscheidenlijk de Landscourant van Sint Maarten.
 
 ##### Artikel 33
 
@@ -377,13 +356,13 @@ Een bij of krachtens deze Rijkswet opgelegde verplichting is opgeheven voor zove
 
 ##### Artikel 34a
 
-Bevat wijzigingen in deze wet.
+*Bevat wijzigingen in deze wet.*
 
 ##### Artikel 35
 
-1. Ingetrokken worden de Zeeschepenvorderingswet 1939 (**Stb.** 635), het Koninklijk besluit van 20 februari 1942 (**Stb.** C 12) en het Zeeschepenbesluit 1942 (**Stb.** C 17).
+1. Ingetrokken worden de Zeeschepenvorderingswet 1939 (*Stb.* 635), het Koninklijk besluit van 20 februari 1942 (*Stb.* C 12) en het Zeeschepenbesluit 1942 (*Stb.* C 17).
 
-2. Bevat wijzigingen in andere regelgeving.
+2. *Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 36
 
@@ -392,15 +371,3 @@ Deze Rijkswet kan worden aangehaald als "Rijkswet Noodvoorzieningen Scheepvaart.
 ##### Artikel 37
 
 Deze Rijkswet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad,** het **Gouvernementsblad van Suriname** en het**Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 25a
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### VII. Strafbepalingen
-
-#### VIII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad,** het **Gouvernementsblad van Suriname** en het**Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

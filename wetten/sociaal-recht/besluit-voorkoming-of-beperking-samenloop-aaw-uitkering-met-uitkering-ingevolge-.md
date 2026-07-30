@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43, van de Algemene Arbeidsongeschiktheidswet"
+citeertitel: "Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid"
 identifier: "BWBR0003064"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003064"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "1210383"
-version_id: "26912862"
-internal_id: "C38107751"
-label_id: "1172184"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003064/2021-01-01/0"
-intitule_bron: "Stb.1976-526"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-10-19"
-intitule_status: "goed"
-original_publication: "Stb.2020-280"
-original_signed_date: "2020-07-16"
-original_published_date: "2020-07-23"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2020-280"
-entry_into_force_date: "2020-07-16"
-jci_1_3: "jci1.3:c:BWBR0003064&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0003064&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid"
-signed_date: "2020-07-16"
-entry_into_force: "2020-07-16"
+publicatiedatum: 2020-07-16
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0003064"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43, van de Algemene Arbeidsongeschiktheidswet
-
-Op voordracht van de Staatssecretaris van Sociale Zaken van 21 september 1976, Directoraat-Generaal voor Sociale Voorzieningen, Stafafdeling B.O., nr. 54414;
-
-Gelet op artikel 43 van de Algemene Arbeidsongeschiktheidswet;
-
-De Sociaal-Economische Raad gehoord (advies van 17 september 1976);
-
-De Raad van State gehoord (advies van 6 oktober 1976, nr. 33);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken van 14 oktober 1976, Directoraat-Generaal voor Sociale Voorzieningen, Stafafdeling B.O., nr. 54898;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -94,18 +62,14 @@ Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt
 
 - b. in geval van een herziening van het bedrag van de uitkering ingevolge de sociale wetgeving van een andere Mogendheid als gevolg van een wijziging van het loon- en/of prijspeil geen wijziging gebracht in het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering.
 
-##### Artikel 6
-
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot 1 oktober 1976.
-
-Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
 ##### Artikel 5a. Grondslag besluit
 
 Dit besluit berust op [artikel 59a, zevende lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59a) en [artikel 3:50, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:50).
 
+##### Artikel 6
+
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot 1 oktober 1976.
+
 ##### Artikel 6a. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid.
-
-Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

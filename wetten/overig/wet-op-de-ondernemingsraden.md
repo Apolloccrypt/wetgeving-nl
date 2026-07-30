@@ -1,43 +1,18 @@
 ---
 title: "Wet van 28 januari 1971, houdende nieuwe regelen omtrent de medezeggenschap van de werknemers in de onderneming door middel van ondernemingsraden"
+citeertitel: "Wet op de ondernemingsraden"
 identifier: "BWBR0002747"
-country: "nl"
-rank: "wet"
-publication_date: "2023-02-18"
-last_updated: "2023-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002747"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "1311763"
-version_id: "1951882"
-internal_id: "C1951881"
-label_id: "1272044"
-dtd_version: "2.0"
-original_entry_into_force: "1971-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002747/2023-02-18/0"
-intitule_bron: "Stb.1971-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-01-28"
-intitule_status: "goed"
-original_publication: "Stb.1971-54"
-original_signed_date: "1971-01-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "10335"
-entry_into_force_date: "1971-04-01"
-jci_1_3: "jci1.3:c:BWBR0002747&z=2023-02-18&g=2023-02-18"
-jci_1_0: "1.0:c:BWBR0002747&g=2023-02-18"
-citeertitel_status: "officieel"
-short_title: "Wet op de ondernemingsraden"
-signed_date: "1971-01-28"
-entry_into_force: "1971-04-01"
+publicatiedatum: 1971-04-01
+laatste_update: 2023-02-18
+status: geldig
+toestand: 2023-02-18
+bron: "https://wetten.overheid.nl/BWBR0002747"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 28 januari 1971, houdende nieuwe regelen omtrent de medezeggenschap van de werknemers in de onderneming door middel van ondernemingsraden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regelen te stellen omtrent de medezeggenschap van de werknemers in de onderneming door middel van ondernemingsraden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -61,7 +36,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder in de onderneming werkzame personen mede verstaan:
 
-- a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 15 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Titel 7.10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), en
+- a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 15 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Titel 7.10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), en
 
 - b. degenen die krachtens een publiekrechtelijke aanstelling bij dan wel krachtens arbeidsovereenkomst met de ondernemer werkzaam zijn in een door een andere ondernemer in stand gehouden onderneming.
 
@@ -73,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De ondernemer die een onderneming in stand houdt waarin in de regel ten minste 50 personen werkzaam zijn, is in het belang van het goed functioneren van die onderneming in al haar doelstellingen verplicht om ten behoeve van het overleg met en de vertegenwoordiging van de in de onderneming werkzame personen een ondernemingsraad in te stellen en jegens deze raad de voorschriften, gesteld bij of krachtens deze wet, na te leven.
 
-2. Indien in een onderneming na de instelling van een ondernemingsraad niet langer in de regel ten minste 50 personen werkzaam zijn, houdt de ondernemingsraad van rechtswege op te bestaan bij het eindigen van de lopende zittingsperiode van die raad, tenzij de ondernemer toepassing geeft aan [artikel 5**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=II&artikel=5a&z=2023-02-18&g=2023-02-18).
+2. Indien in een onderneming na de instelling van een ondernemingsraad niet langer in de regel ten minste 50 personen werkzaam zijn, houdt de ondernemingsraad van rechtswege op te bestaan bij het eindigen van de lopende zittingsperiode van die raad, tenzij de ondernemer toepassing geeft aan [artikel 5*a*, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=II&artikel=5a&z=2023-02-18&g=2023-02-18).
 
 ##### Artikel 3
 
@@ -157,9 +132,9 @@ en zo vervolgens bij elk volgend duizendtal personen 2 leden meer, tot ten hoogs
 
 De ondernemingsraad kan met toestemming van de ondernemer in zijn reglement zowel een afwijkend aantal leden vaststellen, als bepalen dat voor een of meer leden van de ondernemingsraad een plaatsvervanger wordt gekozen. Een plaatsvervangend ondernemingsraadslid heeft dezelfde rechten en verplichtingen als het lid dat hij vervangt.
 
-2. Kiesgerechtigd zijn de personen die gedurende ten minste 3 maanden in de onderneming werkzaam zijn geweest.
+2. Kiesgerechtigd zijn de personen die gedurende ten minste 3 maanden in de onderneming werkzaam zijn geweest.
 
-3. Verkiesbaar tot lid van de ondernemingsraad zijn de personen die gedurende ten minste 3 maanden in de onderneming werkzaam zijn geweest.
+3. Verkiesbaar tot lid van de ondernemingsraad zijn de personen die gedurende ten minste 3 maanden in de onderneming werkzaam zijn geweest.
 
 4. De ondernemer en de ondernemingsraad kunnen, indien dit bevorderlijk is voor een goede toepassing van deze wet in de onderneming, gezamenlijk een of meer groepen van personen die anders dan op grond van een arbeidsovereenkomst met de ondernemer, dan wel krachtens publiekrechtelijke aanstelling regelmatig in de onderneming arbeid verrichten, aanmerken als in de onderneming werkzame personen, dan wel een of meer groepen van die personen niet langer aanmerken als in de onderneming werkzame personen. Komen de ondernemer en de ondernemingsraad niet tot overeenstemming, dan kan ieder van hen een beslissing van de kantonrechter vragen.
 
@@ -175,9 +150,9 @@ De ondernemingsraad kiest uit zijn midden een voorzitter en een of meer plaatsve
 
 1. De ondernemingsraad maakt een reglement waarin de onderwerpen worden geregeld die bij of krachtens deze wet ter regeling aan de ondernemingsraad zijn opgedragen of overgelaten. Het reglement bevat geen bepalingen die in strijd zijn met de wet of die een goede toepassing van deze wet in de weg staan. Alvorens het reglement vast te stellen, stelt de ondernemingsraad de ondernemer in de gelegenheid zijn standpunt kenbaar te maken. De ondernemingsraad verstrekt onverwijld een exemplaar van het vastgestelde reglement aan de ondernemer.
 
-2. De Raad kan ten aanzien van de inhoud van het reglement bij verordening nadere regelen stellen voor alle of een groep van ondernemingen. In het laatste geval wordt de betrokken bedrijfscommissie gehoord. Een verordening van de Raad behoeft de goedkeuring van Onze Minister. Een goedgekeurde verordening wordt in de **Staatscourant** bekend gemaakt.
+2. De Raad kan ten aanzien van de inhoud van het reglement bij verordening nadere regelen stellen voor alle of een groep van ondernemingen. In het laatste geval wordt de betrokken bedrijfscommissie gehoord. Een verordening van de Raad behoeft de goedkeuring van Onze Minister. Een goedgekeurde verordening wordt in de *Staatscourant* bekend gemaakt.
 
-3. Indien de Raad een verordening als bedoeld in het tweede lid vaststelt, brengen de betrokken ondernemingsraden binnen een jaar na de bekendmaking van de goedgekeurde verordening in de **Staatscourant**, de bepalingen in hun reglement die in strijd zijn met deze verordening daarmee in overeenstemming.
+3. Indien de Raad een verordening als bedoeld in het tweede lid vaststelt, brengen de betrokken ondernemingsraden binnen een jaar na de bekendmaking van de goedgekeurde verordening in de *Staatscourant*, de bepalingen in hun reglement die in strijd zijn met deze verordening daarmee in overeenstemming.
 
 ##### Artikel 9
 
@@ -291,7 +266,7 @@ De ondernemingsraad stelt in zijn reglement nadere regelen betreffende de kandid
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
@@ -321,7 +296,7 @@ De ondernemer draagt er zorg voor, dat de in de onderneming werkzame personen di
 
 3. Met inachtneming van het eerste lid komen de kosten van scholing en vorming, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=III&artikel=18&z=2023-02-18&g=2023-02-18), ten laste van de ondernemer. De Raad kan voor verschillende kosten verbonden aan scholing en vorming richtbedragen vaststellen.
 
-4. De ondernemer kan in overeenstemming met de ondernemingsraad de kosten die de ondernemingsraad en de commissies van die raad in enig jaar zullen maken, voor zover deze geen verband houden met artikel [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=III&artikel=17&z=2023-02-18&g=2023-02-18) en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=III&artikel=18&z=2023-02-18&g=2023-02-18), vaststellen op een bepaald bedrag, dat de ondernemingsraad naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van de ondernemer voor zover hij in het dragen daarvan toestemt.
+4. De ondernemer kan in overeenstemming met de ondernemingsraad de kosten die de ondernemingsraad en de commissies van die raad in enig jaar zullen maken, voor zover deze geen verband houden met artikel [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=III&artikel=17&z=2023-02-18&g=2023-02-18) en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=III&artikel=18&z=2023-02-18&g=2023-02-18), vaststellen op een bepaald bedrag, dat de ondernemingsraad naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van de ondernemer voor zover hij in het dragen daarvan toestemt.
 
 ##### Artikel 22a
 
@@ -407,11 +382,11 @@ Indien de ondernemingsraad aan een onderdeelcommissie de bevoegdheid heeft toege
 
 - l. het treffen van een belangrijke maatregel in verband met de zorg van de onderneming voor het milieu, waaronder begrepen het treffen of wijzigen van een beleidsmatige, organisatorische en administratieve voorziening in verband met het milieu;
 
-- m. vaststelling van een regeling met betrekking tot het zelf dragen van het risico, bedoeld in [artikel 40, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
+- m. vaststelling van een regeling met betrekking tot het zelf dragen van het risico, bedoeld in [artikel 40, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
 
 - n. het verstrekken en het formuleren van een adviesopdracht aan een deskundige buiten de onderneming betreffende een der hiervoor bedoelde aangelegenheden.
 
-Het onder **b** bepaalde, alsmede het onder n bepaalde, voor zover dit betrekking heeft op een aangelegenheid als bedoeld onder b, is niet van toepassing wanneer de andere onderneming in het buitenland gevestigd is of wordt en redelijkerwijs niet te verwachten is dat het voorgenomen besluit zal leiden tot een besluit als bedoeld onder c-f ten aanzien van een onderneming die door de ondernemer in Nederland in stand wordt gehouden.
+Het onder *b* bepaalde, alsmede het onder n bepaalde, voor zover dit betrekking heeft op een aangelegenheid als bedoeld onder b, is niet van toepassing wanneer de andere onderneming in het buitenland gevestigd is of wordt en redelijkerwijs niet te verwachten is dat het voorgenomen besluit zal leiden tot een besluit als bedoeld onder c-f ten aanzien van een onderneming die door de ondernemer in Nederland in stand wordt gehouden.
 
 2. De ondernemer legt het te nemen besluit schriftelijk aan de ondernemingsraad voor. Het advies moet op een zodanig tijdstip worden gevraagd, dat het van wezenlijke invloed kan zijn op het te nemen besluit.
 
@@ -477,7 +452,7 @@ Een voorziening van de ondernemingskamer kan door derden verworven rechten niet 
 
 - l. een regeling inzake voorzieningen die gericht zijn op of geschikt zijn voor waarneming van of controle op aanwezigheid, gedrag of prestaties van de in de onderneming werkzame personen;
 
-- m. een procedure voor het omgaan met het melden van een vermoeden van een misstand, als bedoeld in [artikel 2, eerste lid, van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=2);
+- m. een procedure voor het omgaan met het melden van een vermoeden van een misstand, als bedoeld in [artikel 2, eerste lid, van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=2);
 
 een en ander voor zover betrekking hebbende op alle of een groep van de in de onderneming werkzame personen.
 
@@ -531,7 +506,7 @@ De ondernemingsraad heeft het recht, al dan niet uit zijn midden, een door de on
 
 - d. indien de ondernemer deel uitmaakt van een aantal in een groep verbonden ondernemers: de ondernemers die deel uitmaken van die groep, de zeggenschapsverhoudingen waardoor zij onderling zijn verbonden, alsmede de naam en de woonplaats van degenen die ten gevolge van de bedoelde verhoudingen feitelijke zeggenschap over de ondernemer kunnen uitoefenen;
 
-- e. de ondernemers of de instellingen met wie de ondernemer, anders dan uit hoofde van zeggenschapsverhoudingen als bedoeld onder **d**, duurzame betrekkingen onderhoudt die van wezenlijk belang kunnen zijn voor het voortbestaan van de onderneming, alsmede de naam en de woonplaats van degenen die ten gevolge van zodanige betrekkingen feitelijke zeggenschap over de ondernemer kunnen uitoefenen;
+- e. de ondernemers of de instellingen met wie de ondernemer, anders dan uit hoofde van zeggenschapsverhoudingen als bedoeld onder *d*, duurzame betrekkingen onderhoudt die van wezenlijk belang kunnen zijn voor het voortbestaan van de onderneming, alsmede de naam en de woonplaats van degenen die ten gevolge van zodanige betrekkingen feitelijke zeggenschap over de ondernemer kunnen uitoefenen;
 
 - f. de organisatie van de onderneming, de naam en de woonplaats van de bestuurders en van de belangrijkste overige leidinggevende personen, alsmede de wijze waarop de bevoegdheden tussen de bedoelde personen zijn verdeeld.
 
@@ -555,7 +530,7 @@ De ondernemingsraad heeft het recht, al dan niet uit zijn midden, een door de on
 
 7. Indien de ondernemer met betrekking tot de onderneming een meerjarenplan, dan wel een raming of een begroting van inkomsten of uitgaven pleegt op te stellen, wordt dat plan, onderscheidenlijk die raming of die begroting, dan wel een samenvatting daarvan, met een toelichting aan de ondernemingsraad verstrekt en in de bespreking betrokken. Het derde en vierde lid van dit artikel zijn van overeenkomstige toepassing.
 
-8. Als een accountantsverklaring een negatieve verklaring omvat als bedoeld in [artikel 393 lid 5, onderdeel h, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), wordt deze accountantsverklaring onverwijld door de accountant aan de ondernemingsraad gezonden.
+8. Als een accountantsverklaring een negatieve verklaring omvat als bedoeld in [artikel 393 lid 5, onderdeel h, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), wordt deze accountantsverklaring onverwijld door de accountant aan de ondernemingsraad gezonden.
 
 ##### Artikel 31b
 
@@ -568,6 +543,32 @@ De ondernemingsraad heeft het recht, al dan niet uit zijn midden, een door de on
 ##### Artikel 31c
 
 De ondernemer doet aan de ondernemingsraad zo spoedig mogelijk mededeling van zijn voornemen tot het verstrekken van een adviesopdracht aan een deskundige buiten de onderneming, met betrekking tot een aangelegenheid als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVA&artikel=27&z=2023-02-18&g=2023-02-18).
+
+##### Artikel 31d
+
+1. De ondernemer verstrekt, mede ten behoeve van de bespreking van de algemene gang van zaken van de onderneming, ten minste eenmaal per jaar aan de ondernemingsraad schriftelijk informatie over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken per verschillende groep van de in de onderneming werkzame personen.
+
+2. De ondernemer verstrekt daarbij tevens schriftelijke informatie over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken met het bestuur dat de rechtspersoon vertegenwoordigt en het totaal van de vergoedingen, dat wordt verstrekt aan het toezichthoudend orgaan, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IV&artikel=24&z=2023-02-18&g=2023-02-18).
+
+3. Ten aanzien van het eerste en tweede lid wordt inzichtelijk gemaakt met welk percentage deze arbeidsvoorwaardelijke regelingen en afspraken zich verhouden tot elkaar en tot die van het voorgaande jaar.
+
+4. Indien een groep, als bedoeld in het eerste lid, het bestuur of het toezichthoudend orgaan, bedoeld in het tweede lid, uit minder dan vijf personen bestaat, is het mogelijk om voor de toepassing van deze leden twee of meer functies samen te voegen, zodat een groep van ten minste vijf personen ontstaat.
+
+5. De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk in kennis te stellen van belangrijke wijzigingen die in deze regelingen en afspraken worden aangebracht.
+
+6. Dit artikel is uitsluitend van toepassing op ondernemingen waarin in de regel ten minste 100 personen werkzaam zijn.
+
+##### Artikel 31e
+
+De [artikelen 23, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IV&artikel=23&z=2023-02-18&g=2023-02-18), en [31d](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVB&artikel=31d&z=2023-02-18&g=2023-02-18) zijn niet van toepassing op:
+
+- a. de besloten vennootschap met beperkte aansprakelijkheid waarvan een van de bestuurders of commissarissen een natuurlijk persoon is die een direct of indirect belang heeft in de rechtspersoon overeenkomstig [artikel 4.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.6), of
+
+- b. de rechtspersoon waarop de [artikelen 396](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) of [397 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) van toepassing zijn.
+
+##### Artikel 31f
+
+De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk schriftelijk te informeren over elke voorgenomen vaststelling, wijziging of intrekking van een uitvoeringsovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of een uitvoeringsreglement als bedoeld in onderdeel b van de definitie van uitvoeringsreglement in artikel 1 van de Pensioenwet.
 
 ### Hoofdstuk IVC. Verdere bevoegdheden van de ondernemingsraad
 
@@ -583,15 +584,15 @@ De ondernemer doet aan de ondernemingsraad zo spoedig mogelijk mededeling van zi
 
 ##### Artikel 32a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32c
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. De centrale ondernemingsraden en de groepsondernemingsraden
 
@@ -629,7 +630,7 @@ Vervallen
 
 ##### Artikel 35a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35b
 
@@ -693,7 +694,7 @@ Vervallen
 
 Iedere in de onderneming werkzame persoon, met uitzondering van een persoon als bedoeld in [artikel 35b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VA&artikel=35b&z=2023-02-18&g=2023-02-18), alsmede een vereniging van werknemers, die één of meer in de onderneming werkzame personen onder haar leden telt, die krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen en als zodanig in de betrokken onderneming of bedrijfstak werkzaam is en voorts tenminste twee jaar in het bezit is van volledige rechtsbevoegdheid, kan de kantonrechter verzoeken te bepalen dat de ondernemer gevolg dient te geven aan [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VA&artikel=35b&z=2023-02-18&g=2023-02-18).
 
-### Hoofdstuk VI. De algemene geschillenregeling
+### Hoofdstuk VII. De bedrijfscommissies
 
 ##### Artikel 37
 
@@ -731,15 +732,15 @@ Ten aanzien van de voorzitters, de leden en de plaatsvervangende leden van de be
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
@@ -747,7 +748,7 @@ Vervallen
 
 2. Indien een ondernemer of een aantal in een groep verbonden ondernemers meerdere ondernemingen in stand houdt waarvoor meer dan één bedrijfscommissie bevoegd zou zijn, kan de Raad voor die ondernemingen een afzonderlijke bedrijfscommissie instellen dan wel de commissie aanwijzen die voor de behandeling van de aangelegenheden betreffende de ondernemingsraden, personeelsvertegenwoordigingen en vergaderingen als bedoeld in[artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VA&artikel=35b&z=2023-02-18&g=2023-02-18) van deze ondernemingen als de krachtens deze wet bevoegde commissie optreedt.
 
-### Hoofdstuk VIIA. Heffingen ter bevordering van de scholing en vorming van ondernemingsraadleden
+### Hoofdstuk VIIA. Bijzondere taak Sociaal-Economische Raad
 
 ##### Artikel 46a
 
@@ -755,11 +756,11 @@ Onverminderd hetgeen hem is toebedeeld in deze wet en de daarop berustende bepal
 
 ##### Artikel 46b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46c
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VII B. Bijzondere bepalingen voor ondernemingsraden bij de overheid
 
@@ -769,21 +770,21 @@ Ten aanzien van een onderneming, waarin uitsluitend of nagenoeg uitsluitend krac
 
 - a. Voor de toepassing van deze wet wordt als bestuurder in de zin van deze wet niet aangemerkt
 
-- 1°. bij een ministerie: de minister of een staatssecretaris;
+   - 1°. bij een ministerie: de minister of een staatssecretaris;
 
-- 2°. bij een provincie: de commissaris van de Koning, een lid van gedeputeerde staten of een lid van provinciale staten;
+   - 2°. bij een provincie: de commissaris van de Koning, een lid van gedeputeerde staten of een lid van provinciale staten;
 
-- 3°. bij een gemeente: de burgemeester, een lid van het college van burgemeester en wethouders of een lid van de gemeenteraad;
+   - 3°. bij een gemeente: de burgemeester, een lid van het college van burgemeester en wethouders of een lid van de gemeenteraad;
 
-- 4°. bij een waterschap: de voorzitter, een lid van het dagelijks bestuur van een waterschap of een lid van het algemeen bestuur;
+   - 4°. bij een waterschap: de voorzitter, een lid van het dagelijks bestuur van een waterschap of een lid van het algemeen bestuur;
 
-- 5°. bij de Kamers der Staten-Generaal: de voorzitter van de Kamer of een lid;
+   - 5°. bij de Kamers der Staten-Generaal: de voorzitter van de Kamer of een lid;
 
-- 6°. bij de Raad van State: de vice-president of een lid;
+   - 6°. bij de Raad van State: de vice-president of een lid;
 
-- 7°. bij de Algemene Rekenkamer: de president of een lid van de Algemene Rekenkamer;
+   - 7°. bij de Algemene Rekenkamer: de president of een lid van de Algemene Rekenkamer;
 
-- 8°. bij de Nationale ombudsman: de Nationale ombudsman of een substituut-ombudsman.
+   - 8°. bij de Nationale ombudsman: de Nationale ombudsman of een substituut-ombudsman.
 
 - b. Voor de toepassing van [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IV&artikel=23&z=2023-02-18&g=2023-02-18), zijn onder de aangelegenheden de onderneming betreffende niet begrepen de publiekrechtelijke vaststelling van taken van publiekrechtelijke lichamen en onderdelen daarvan, noch het beleid ten aanzien van en de uitvoering van die taken, behoudens voor zover het betreft de gevolgen daarvan voor de werkzaamheden van de in de onderneming werkzame personen.
 
@@ -799,27 +800,27 @@ Ten aanzien van een onderneming, waarin uitsluitend of nagenoeg uitsluitend krac
 
 - h. Voor het behandelen van en beslissen op verzoeken als bedoeld in [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVA&artikel=27&z=2023-02-18&g=2023-02-18) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VI&artikel=36&z=2023-02-18&g=2023-02-18), ter zake van een rechtbank, is bevoegd de kantonrechter werkzaam bij de volgende rechtbank:
 
-- 1°. terzake van de rechtbank Amsterdam: de rechtbank Noord-Holland;
+   - 1°. terzake van de rechtbank Amsterdam: de rechtbank Noord-Holland;
 
-- 2°. terzake van de rechtbank Den Haag: de rechtbank Rotterdam;
+   - 2°. terzake van de rechtbank Den Haag: de rechtbank Rotterdam;
 
-- 3°. ter zake van de rechtbank Gelderland: de rechtbank Overijssel;
+   - 3°. ter zake van de rechtbank Gelderland: de rechtbank Overijssel;
 
-- 4°. terzake van de rechtbank Limburg: de rechtbank Oost-Brabant;
+   - 4°. terzake van de rechtbank Limburg: de rechtbank Oost-Brabant;
 
-- 5°. terzake van de rechtbank Midden-Nederland: de rechtbank Noord-Nederland
+   - 5°. terzake van de rechtbank Midden-Nederland: de rechtbank Noord-Nederland
 
-- 6°. terzake van de rechtbank Noord-Holland: de rechtbank Amsterdam;
+   - 6°. terzake van de rechtbank Noord-Holland: de rechtbank Amsterdam;
 
-- 7°. ter zake van de rechtbank Noord-Nederland: de rechtbank Midden-Nederland;
+   - 7°. ter zake van de rechtbank Noord-Nederland: de rechtbank Midden-Nederland;
 
-- 8°. terzake van de rechtbank Oost-Brabant: de rechtbank Zeeland-West-Brabant;
+   - 8°. terzake van de rechtbank Oost-Brabant: de rechtbank Zeeland-West-Brabant;
 
-- 9°. ter zake van de rechtbank Overijssel: de rechtbank Gelderland;
+   - 9°. ter zake van de rechtbank Overijssel: de rechtbank Gelderland;
 
-- 10°. terzake van de rechtbank Rotterdam: de rechtbank Den Haag;
+   - 10°. terzake van de rechtbank Rotterdam: de rechtbank Den Haag;
 
-- 11°. terzake van de rechtbank Zeeland-West-Brabant: de rechtbank Limburg.
+   - 11°. terzake van de rechtbank Zeeland-West-Brabant: de rechtbank Limburg.
 
 - i. Een beroep als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVA&artikel=26&z=2023-02-18&g=2023-02-18), ter zake van het gerechtshof Amsterdam, wordt ingesteld bij het gerechtshof Den Haag.
 
@@ -831,7 +832,7 @@ Ten aanzien van een onderneming, waarin uitsluitend of nagenoeg uitsluitend krac
 
 3. Voor een besluit als bedoeld in de [artikelen 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=III&artikel=8&z=2023-02-18&g=2023-02-18) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII&artikel=39&z=2023-02-18&g=2023-02-18) van deze Wet behoeft Onze Minister van Binnenlandse Zaken de instemming van twee derde van de deelnemers aan het in het eerste lid bedoelde overleg. Voor een besluit als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=II&artikel=5&z=2023-02-18&g=2023-02-18), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII&artikel=37&z=2023-02-18&g=2023-02-18), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII&artikel=38&z=2023-02-18&g=2023-02-18) en [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII&artikel=41&z=2023-02-18&g=2023-02-18), van deze Wet behoeft Onze Minister van Binnenlandse Zaken de instemming van de meerderheid van de deelnemers aan het in het eerste lid bedoelde overleg.
 
-### Hoofdstuk VII B. Bijzondere bepalingen voor ondernemingsraden bij de overheid
+### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
 ##### Artikel 47
 
@@ -853,19 +854,19 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regelen worden ges
 
 ##### Artikel 49a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+Voor de jaren 2006 en 2007 wordt in [artikel 25, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVA&artikel=25&z=2023-02-18&g=2023-02-18), voor «artikel 40, aanhef en eerste lid, onderdeel b» gelezen: artikel 122d, tweede lid.
 
 ##### Artikel 51
 
-De bedrijfscommissies, door de Raad ingesteld krachtens de Wet op de Ondernemingsraden (**Stb.** 1950, K 174), worden geacht door de Raad te zijn ingesteld krachtens deze wet.
+De bedrijfscommissies, door de Raad ingesteld krachtens de [Wet op de Ondernemingsraden](https://wetten.overheid.nl/BWBR0002747) (*Stb.* 1950, K 174), worden geacht door de Raad te zijn ingesteld krachtens deze wet.
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
@@ -875,7 +876,7 @@ Vervallen
 
 3. [Hoofdstuk VII B](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII_B&z=2023-02-18&g=2023-02-18) is niet van toepassing op openbare instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-4. Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek.
+4. *Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek.*
 
 ##### Artikel 53a
 
@@ -900,67 +901,3 @@ Deze wet is niet van toepassing op:
 1. Deze wet kan worden aangehaald als Wet op de ondernemingsraden.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat allen Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 50
-
-Voor de jaren 2006 en 2007 wordt in [artikel 25, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVA&artikel=25&z=2023-02-18&g=2023-02-18), voor «artikel 40, aanhef en eerste lid, onderdeel b» gelezen: artikel 122d, tweede lid.
-
-##### Artikel 31d
-
-1. De ondernemer verstrekt, mede ten behoeve van de bespreking van de algemene gang van zaken van de onderneming, ten minste eenmaal per jaar aan de ondernemingsraad schriftelijk informatie over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken per verschillende groep van de in de onderneming werkzame personen.
-
-2. De ondernemer verstrekt daarbij tevens schriftelijke informatie over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken met het bestuur dat de rechtspersoon vertegenwoordigt en het totaal van de vergoedingen, dat wordt verstrekt aan het toezichthoudend orgaan, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IV&artikel=24&z=2023-02-18&g=2023-02-18).
-
-3. Ten aanzien van het eerste en tweede lid wordt inzichtelijk gemaakt met welk percentage deze arbeidsvoorwaardelijke regelingen en afspraken zich verhouden tot elkaar en tot die van het voorgaande jaar.
-
-4. Indien een groep, als bedoeld in het eerste lid, het bestuur of het toezichthoudend orgaan, bedoeld in het tweede lid, uit minder dan vijf personen bestaat, is het mogelijk om voor de toepassing van deze leden twee of meer functies samen te voegen, zodat een groep van ten minste vijf personen ontstaat.
-
-5. De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk in kennis te stellen van belangrijke wijzigingen die in deze regelingen en afspraken worden aangebracht.
-
-6. Dit artikel is uitsluitend van toepassing op ondernemingen waarin in de regel ten minste 100 personen werkzaam zijn.
-
-##### Artikel 31e
-
-De [artikelen 23, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IV&artikel=23&z=2023-02-18&g=2023-02-18), en [31d](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=IVB&artikel=31d&z=2023-02-18&g=2023-02-18) zijn niet van toepassing op:
-
-- a. de besloten vennootschap met beperkte aansprakelijkheid waarvan een van de bestuurders of commissarissen een natuurlijk persoon is die een direct of indirect belang heeft in de rechtspersoon overeenkomstig [artikel 4.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.6), of
-
-- b. de rechtspersoon waarop de [artikelen 396](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) of [397 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) van toepassing zijn.
-
-### Hoofdstuk IVC. Verdere bevoegdheden van de ondernemingsraad
-
-### Hoofdstuk V. De centrale ondernemingsraden en de groepsondernemingsraden
-
-### Hoofdstuk VA. De medezeggenschap in kleine ondernemingen
-
-### Hoofdstuk VI. De algemene geschillenregeling
-
-### Hoofdstuk VII. De bedrijfscommissies
-
-### Hoofdstuk VIIA. Bijzondere taak Sociaal-Economische Raad
-
-### Hoofdstuk VII B. Bijzondere bepalingen voor ondernemingsraden bij de overheid
-
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat allen Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 31f
-
-De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk schriftelijk te informeren over elke voorgenomen vaststelling, wijziging of intrekking van een uitvoeringsovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of een uitvoeringsreglement als bedoeld in onderdeel b van de definitie van uitvoeringsreglement in artikel 1 van de Pensioenwet.
-
-### Hoofdstuk IVC. Verdere bevoegdheden van de ondernemingsraad
-
-### Hoofdstuk V. De centrale ondernemingsraden en de groepsondernemingsraden
-
-### Hoofdstuk VA. De medezeggenschap in kleine ondernemingen
-
-### Hoofdstuk VII. De bedrijfscommissies
-
-### Hoofdstuk VIIA. Bijzondere taak Sociaal-Economische Raad
-
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat allen Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,18 @@
 ---
 title: "Wet van 16 maart 1971, houdende nadere voorzieningen inzake de door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden in 1959 aan de staat gedane schenking (Wet op het Kroondomein 1959)"
+citeertitel: "Wet op het Kroondomein"
 identifier: "BWBR0002752"
-country: "nl"
-rank: "wet"
-publication_date: "1997-04-25"
-last_updated: "1997-04-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002752"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1722963"
-version_id: "2545342"
-internal_id: "C2545341"
-label_id: "1675464"
-dtd_version: "2.0"
-original_entry_into_force: "1971-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002752/1997-04-25/0"
-intitule_bron: "Stb.1971-159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-03-16"
-intitule_status: "goed"
-original_publication: "Stb.1971-159"
-original_signed_date: "1971-03-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "10686"
-entry_into_force_date: "1971-01-01"
-entry_into_force_dossier: "10686"
-jci_1_3: "jci1.3:c:BWBR0002752&z=1997-04-25&g=1997-04-25"
-jci_1_0: "1.0:c:BWBR0002752&g=1997-04-25"
-citeertitel_status: "officieel"
-short_title: "Wet op het Kroondomein"
-signed_date: "1971-03-16"
-entry_into_force: "1971-01-01"
+publicatiedatum: 1971-01-01
+laatste_update: 1997-04-25
+status: geldig
+toestand: 1997-04-25
+bron: "https://wetten.overheid.nl/BWBR0002752"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 16 maart 1971, houdende nadere voorzieningen inzake de door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden in 1959 aan de staat gedane schenking (Wet op het Kroondomein 1959)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het wenselijk is nadere wettelijke voorzieningen te treffen inzake de door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden in 1959 aan de staat gedane schenking;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -46,7 +20,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 "Kroondrager": de Drager van de Kroon, als bedoeld in de overeenkomst, vermeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=2&z=1997-04-25&g=1997-04-25);
 
-"Kroondomein": de zaken, op 28 januari 1959 door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden aan de staat geschonken, welke schenking is bekrachtigd bij de wet van 25 juli 1959, **Stb.** 291, benevens de daarvoor in de plaats getreden of in de plaats tredende zaken;
+"Kroondomein": de zaken, op 28 januari 1959 door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden aan de staat geschonken, welke schenking is bekrachtigd bij de wet van 25 juli 1959, *Stb.* 291, benevens de daarvoor in de plaats getreden of in de plaats tredende zaken;
 
 "domein": het Kroondomein;
 
@@ -64,7 +38,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -129,29 +103,3 @@ Van het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR000
 1. Deze wet kan worden aangehaald als "Wet op het Kroondomein".
 
 2. Deze wet treedt in werking met ingang van 1 januari 1971.
-
-## Bijlage. bij de Wet op het Kroondomein 1959
-
-### Overeenkomst tussen het Koninklijk Huis en de staat, houdende wijziging van de schenkingsovereenkomst van 1959
-
-Heden, de negenentwintigste mei negentienhonderdzeventig compareerden voor mij, Jonkheer Meester Petrus Adrianus van Buttingha Wichers, notaris ter standplaats 's-Gravenhage, in tegenwoordigheid van de na te noemen getuigen:
-
-Blijkende van de lastgevingen op de comparanten sub I en II uit twee onderhandse stukken, welke na voor echt erkenning overeenkomstig de wet aan deze minute zijn gehecht.
-
-De comparanten verklaarden, handelende als gemeld:
-
-Vervolgens verklaarden de comparanten, handelende als voormeld, overeen te komen als volgt:
-
-I. Ingaande met het in werking treden van deze overeenkomst worden in de overeenkomst van schenking door wijlen Hare Koninklijke Hoogheid Wilhelmina Helena Pauline Maria, Prinses der Nederlanden, Prinses van Oranje Nassau, Hertogin van Meckelenburg, enzovoort, enzovoort, en aanvaarding daarvan namens de Staat, gedaan bij gemelde akte de dato achtentwintig januari negentienhonderd negenenvijftig, bekrachtigd bij de Wet van vijfentwintig juli negentienhonderd negenenvijftig, **Staatsblad** 1959, nummer 291, de volgende wijzigingen aangebracht:
-
-II. Deze overeenkomst treedt slechts in werking indien zij bij de wet wordt bekrachtigd; het inwerkingtreden geschiedt gelijktijdig met het inwerkingtreden van die wet.
-
-Deze overeenkomst vervalt indien zij niet binnen twee jaar na heden in werking is getreden.
-
-De comparanten zijn mij, notaris, bekend. **Waarvan akte in minuut.**
-
-Gepasseerd te 's-Gravenhage, ten dage in het hoofd dezer gemeld, in tegenwoordigheid van de Heren Meester Doctorandus Johannes Adrianus Zacharias Hubertus van der Poel, hoofdadministrateur bij het Ministerie van Financiën, wonende te Voorburg en Meester Willem Leenhard Docter, candidaat-notaris, wonende te Leiden, als getuigen.
-
-Onmiddellijk na voorlezing hebben de comparanten, de genoemde getuigen en ik, notaris, deze akte ondertekend.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

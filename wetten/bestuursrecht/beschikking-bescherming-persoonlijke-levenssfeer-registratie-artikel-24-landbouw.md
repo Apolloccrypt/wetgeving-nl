@@ -1,62 +1,36 @@
 ---
 title: "Beschikking bescherming persoonlijke levenssfeer (Registratie artikel 24 Landbouwwet)"
 identifier: "BWBR0003333"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1983-09-03"
-last_updated: "1983-09-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003333"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3897033"
-version_id: "5661882"
-internal_id: "C5855041"
-label_id: "3877124"
-dtd_version: "2.0"
-original_entry_into_force: "1980-08-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003333/1983-09-03/0"
-intitule_bron: "Stcrt.1980-152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-08-04"
-intitule_published: "1980-08-08"
-intitule_in_force: "1980-08-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1980-152"
-original_signed_date: "1980-08-04"
-original_published_date: "1980-08-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1980-08-09"
-jci_1_3: "jci1.3:c:BWBR0003333&z=1983-09-03&g=1983-09-03"
-jci_1_0: "1.0:c:BWBR0003333&g=1983-09-03"
-citeertitel_status: "officieel"
-signed_date: "1980-08-04"
-entry_into_force: "1980-08-09"
+publicatiedatum: 1980-08-09
+laatste_update: 1983-09-03
+status: geldig
+toestand: 1983-09-03
+bron: "https://wetten.overheid.nl/BWBR0003333"
+opgehaald: 2026-07-30
 ---
+
 # Beschikking bescherming persoonlijke levenssfeer (Registratie artikel 24 Landbouwwet)
-
-Gelet op [aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met de geautomatiseerde systemen, waarin persoonsgegevens zijn opgenomen, bij de rijksoverheid](onbekend), zoals vastgesteld bij besluit van de Minister-President van 7 maart 1975;
-
-Gehoord de Commissie voor de landbouw- en voedselvoorzieningsstatistiek,
-
-Besluit:
 
 ##### Artikel 1
 
 In de beschikking wordt verstaan onder:
 
-**de Minister:** de Minister van Landbouw en Visserij;
+*de Minister:* de Minister van Landbouw en Visserij;
 
-**wet:** [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252);
+*wet:*
+ [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252);
 
-**de registratie:** het geautomatiseerde systeem, waarin gegevens zijn opgenomen van op basis van de wet gehouden tellingen en enquêtes;
+*de registratie:* het geautomatiseerde systeem, waarin gegevens zijn opgenomen van op basis van de wet gehouden tellingen en enquêtes;
 
-**het L.E.I.:** het Landbouw-Economisch Instituut;
+*het L.E.I.:* het Landbouw-Economisch Instituut;
 
-**de commissie:** de Commissie voor de Landbouw- en voedselvoorzieningsstatistiek;
+*de commissie:* de Commissie voor de Landbouw- en voedselvoorzieningsstatistiek;
 
-**de geregistreerde:** de persoon van wie gegevens in de registratie zijn opgenomen;
+*de geregistreerde:* de persoon van wie gegevens in de registratie zijn opgenomen;
 
-**de voedselcommissaris:**de Provinciale voedselcommissaris, tevens gewestelijk directeur van de Stichting tot Uitvoering van Landbouwmaatregelen, voor zover het zijn ambtsgebied betreft.
+*de voedselcommissaris:*de Provinciale voedselcommissaris, tevens gewestelijk directeur van de Stichting tot Uitvoering van Landbouwmaatregelen, voor zover het zijn ambtsgebied betreft.
 
 ##### Artikel 2
 
@@ -116,17 +90,17 @@ De voorzitter van de commissie verstrekt binnen een maand na afloop van ieder ka
 
 - c. gegevens, die ten tijde van het verzoek over hem als zodanig herkenbaar in de registratie zijn opgenomen, te verwijderen dan wel overeenkomstig zijn verzoek te verbeteren of aan te vullen.
 
-2. Een verzoek, bedoeld in het eerste lid, aanhef en onder c, is met redenen omkleed.
+2. Een verzoek, bedoeld in het eerste lid, [aanhef en onder c](https://wetten.overheid.nl/BWBR0003333), is met redenen omkleed.
 
 ##### Artikel 11
 
-1. De houder willigt een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), aanhef en onder a, en een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), aanhef en onder b, in, tenzij sinds het voorgaande verzoek van dezelfde verzoeker een periode van minder dan twaalf maanden is verstreken dan wel het verzoek naar het oordeel van de houder kennelijk onredelijk is.
+1. De houder willigt een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), [aanhef en onder a](https://wetten.overheid.nl/BWBR0003333), en een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), [aanhef en onder b](https://wetten.overheid.nl/BWBR0003333), in, tenzij sinds het voorgaande verzoek van dezelfde verzoeker een periode van minder dan twaalf maanden is verstreken dan wel het verzoek naar het oordeel van de houder kennelijk onredelijk is.
 
 2. Aan de verzoeker wordt kennis gegeven van de gewenste .gegevens door het verstrekken van een door de houder gewaarmerkt afschrift.
 
 ##### Artikel 12
 
-1. De houder willigt een in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), aanhef en onder c bedoeld verzoek om verwijdering, verbetering of aanvulling in, indien de in het verzoek bedoelde gegevens ten onrechte zijn opgenomen, onjuist zijn of ontbreken terwijl zij in de registratie hadden behoren te zijn opgenomen.
+1. De houder willigt een in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), [aanhef en onder c](https://wetten.overheid.nl/BWBR0003333) bedoeld verzoek om verwijdering, verbetering of aanvulling in, indien de in het verzoek bedoelde gegevens ten onrechte zijn opgenomen, onjuist zijn of ontbreken terwijl zij in de registratie hadden behoren te zijn opgenomen.
 
 2. Bij inwilliging van het verzoek doet de houder onverwijld de nodige wijzigingen in de registratie aanbrengen.
 
@@ -134,7 +108,7 @@ De voorzitter van de commissie verstrekt binnen een maand na afloop van ieder ka
 
 ##### Artikel 13
 
-1. Indien de houder een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), aanhef en onder a, dan wel een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), aanhef en onder b, dan wel een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), aanhef en onder c, niet inwilligt, stelt hij de verzoeker daarvan schriftelijk in kennis. De kennisgeving bevat de gronden, waarop de beslissing van de houder berust.
+1. Indien de houder een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), [aanhef en onder a](https://wetten.overheid.nl/BWBR0003333), dan wel een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), [aanhef en onder b](https://wetten.overheid.nl/BWBR0003333), dan wel een verzoek, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003333&artikel=10&z=1983-09-03&g=1983-09-03), [aanhef en onder c](https://wetten.overheid.nl/BWBR0003333), niet inwilligt, stelt hij de verzoeker daarvan schriftelijk in kennis. De kennisgeving bevat de gronden, waarop de beslissing van de houder berust.
 
 2. Binnen dertig dagen na de dag, waarop de kennisgeving is verzonden, kan de verzoeker tegen de beslissing van de houder bij wege van een met redenen omkleed bezwaarschrift bij de Minister in beroep gaan.
 

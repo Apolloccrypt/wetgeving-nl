@@ -1,46 +1,37 @@
 ---
 title: "Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985"
 identifier: "BWBR0003866"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-09-19"
-last_updated: "1986-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003866"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "5046353"
-version_id: "9098872"
-internal_id: "C12093601"
-label_id: "5022544"
-dtd_version: "2.0"
-original_entry_into_force: "1985-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003866/1986-09-19/0"
-intitule_bron: "Stcrt.1985-210"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-10-22"
-intitule_published: "1985-10-29"
-intitule_in_force: "1985-10-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-210"
-original_signed_date: "1985-10-22"
-original_published_date: "1985-10-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-11-01"
-jci_1_3: "jci1.3:c:BWBR0003866&z=1986-09-19&g=1986-09-19"
-jci_1_0: "1.0:c:BWBR0003866&g=1986-09-19"
-citeertitel_status: "officieel"
-signed_date: "1985-10-22"
-entry_into_force: "1985-11-01"
+publicatiedatum: 1985-11-01
+laatste_update: 1986-09-19
+status: geldig
+toestand: 1986-09-19
+bron: "https://wetten.overheid.nl/BWBR0003866"
+opgehaald: 2026-07-30
 ---
+
 # Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985
-
-Gelet op de Aanwijzingen van de minister-president van 7 maart 1975, (Stcrt. 1975, 50) en van 16 juli 1982, (Stcrt. 1982, 156) inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
+
+registratie:
+
+de geautomatiseerde verzameling van gegevens met betrekking tot de toepassing van het militaire tuchtrecht
+
+houder:
+
+bevelhebber der Zeestrijdkrachten
+
+bewerker:
+
+hoofd Bureau Militair Juridische Zaken
+
+uitvoerder:
+
+hoofd van het Duyverman Computer Centrum.
 
 ##### Artikel 2. Doelstelling en gebruik
 
@@ -141,51 +132,3 @@ De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en be
 1. Deze beschikking kan worden aangehaald als ‘Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985’ en vervangt mijn beschikking van 29 mei 1978, nr. 389.269/13X.
 
 2. Deze regeling treedt in werking met ingang van 1 november 1985 en zal worden gepubliceerd in de Nederlandse Staatscourant.
-
-## Bijlage A. Samenstelling registratie
-
-- a. commandementsrol, eenheid waar het formulier bewaard wordt
-
-- b. volgnummer
-
-- 1. Gestrafte
-
-- a. registratienummer
-
-- b. geslachtsnaam (tot max. van 15 posities)
-
-- c. voorzetsels (verkort)
-
-- d. voorletters
-
-- e. kwaliteit
-
-- f. dienstverband
-
-- g. commandementsrol
-
-- h. marinenummer
-
-- 2. Strafoplegger commandementsrol
-
-- 3. Strafoplegging
-
-- a. datum uitreiking uitspraak
-
-- b. datum waarop feit begaan
-
-- c. (voor) parade
-
-- d. opgelegde/gewijzigde straf
-
-- e. (gewijzigde) strafreden en bijz. omstandigheden
-
-- f. wel of geen rapport [art. 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003866&artikel=8&z=1986-09-19&g=1986-09-19) RZ
-
-- 4. Vertrouwensman
-
-- a. wel/geen vertrouwensman
-
-## Bijlage B
-
-P. M.

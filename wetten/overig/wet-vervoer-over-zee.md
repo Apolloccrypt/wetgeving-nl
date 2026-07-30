@@ -1,45 +1,18 @@
 ---
 title: "Wet van 27 oktober 1982, houdende regelen inzake de zeevervoermarkt"
+citeertitel: "Wet vervoer over zee"
 identifier: "BWBR0003528"
-country: "nl"
-rank: "wet"
-publication_date: "2016-05-01"
-last_updated: "2016-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003528"
+categorie: "Overig"
 soort: "wet"
-stam_id: "434133"
-version_id: "20032542"
-internal_id: "C28276291"
-label_id: "422804"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003528/2016-05-01/0"
-intitule_bron: "Stb.1982-629"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-10-27"
-intitule_status: "goed"
-original_publication: "Stb.2012-682"
-original_signed_date: "2012-12-20"
-original_published_date: "2012-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "32450"
-original_url_id: "stb-2012-682"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0003528&z=2016-05-01&g=2016-05-01"
-jci_1_0: "1.0:c:BWBR0003528&g=2016-05-01"
-citeertitel_status: "officieel"
-short_title: "Wet vervoer over zee"
-signed_date: "2012-12-20"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2016-05-01
+status: geldig
+toestand: 2016-05-01
+bron: "https://wetten.overheid.nl/BWBR0003528"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 27 oktober 1982, houdende regelen inzake de zeevervoermarkt
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om, ter uitvoering van de verordening van de Raad van de Europese Gemeenschappen van 15 mei 1979, nummer 954/79 en van het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences en met het oog op ontwikkelingen, waaronder de toename van de overheidsbemoeienis elders, op de internationale zeevervoermarkt, over te gaan tot het scheppen van wettelijke regelen voor de zeevervoermarkt;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Definities
 
@@ -95,7 +68,7 @@ Gedragingen van personen, die partij zijn bij een overeenkomst, waarvan bepaling
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Prijsmaatregelen
 
@@ -113,13 +86,13 @@ In overeenstemming met Onze Minister van Economische Zaken, kan Onze Minister ve
 
 - 2°. zulks ten behoeve van de uitvoering van een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee wenselijk is,
 
-- a. regels stellen omtrent de ladingverdeling van het zeevervoer van Nederlandse havens naar havens van een bepaald land of van een bepaalde groep landen en van het zeevervoer van havens van een bepaald land of een bepaalde groep van landen naar Nederlandse havens;
+   - a. regels stellen omtrent de ladingverdeling van het zeevervoer van Nederlandse havens naar havens van een bepaald land of van een bepaalde groep landen en van het zeevervoer van havens van een bepaald land of een bepaalde groep van landen naar Nederlandse havens;
 
-- b. bepalen dat iedere scheepvaartonderneming die aan het onder **a.** omschreven vervoer deelneemt alleen vervoerdiensten van of naar Nederlandse havens mag aanbieden met inachtneming van een maximum of minimum aantal afvaarten per jaar;
+   - b. bepalen dat iedere scheepvaartonderneming die aan het onder *a.* omschreven vervoer deelneemt alleen vervoerdiensten van of naar Nederlandse havens mag aanbieden met inachtneming van een maximum of minimum aantal afvaarten per jaar;
 
-- c. voor ieder schip van een scheepvaartonderneming die aan het onder **a.** omschreven vervoer deelneemt een maximum of minimum vervoercapaciteit vaststellen;
+   - c. voor ieder schip van een scheepvaartonderneming die aan het onder *a.* omschreven vervoer deelneemt een maximum of minimum vervoercapaciteit vaststellen;
 
-- d. voor iedere scheepvaartonderneming, die aan het onder **a.** omschreven vervoer deelneemt, het in te zetten scheepstype voorschrijven.
+   - d. voor iedere scheepvaartonderneming, die aan het onder *a.* omschreven vervoer deelneemt, het in te zetten scheepstype voorschrijven.
 
 2. Krachtens het eerste lid vastgestelde besluiten kunnen beperkt zijn tot een bepaalde categorie van het zeevervoer of tot het vervoer van bepaalde goederen.
 
@@ -127,7 +100,7 @@ In overeenstemming met Onze Minister van Economische Zaken, kan Onze Minister ve
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Vergunningen
 
@@ -141,11 +114,11 @@ Vervallen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-1. Een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst.
+1. Een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst.
 
 2. Hij vervalt, behoudens eerdere intrekking, drie jaren na zijn inwerkingtreding, tenzij bij wet anders wordt bepaald.
 
@@ -183,7 +156,7 @@ De vergunning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl
 
 - f. indien een in deze wet geregeld belang dit naar zijn oordeel noodzakelijk maakt.
 
-5. Een beschikking houdende intrekking of wijziging krachtens het vierde lid onder letter **f.** wordt niet genomen dan nadat de vergunninghouder van het voornemen tot intrekking of wijziging en van de gronden daarvoor in kennis is gesteld en in de gelegenheid is gesteld daarover zijn zienswijze naar voren te brengen.
+5. Een beschikking houdende intrekking of wijziging krachtens het vierde lid onder letter *f.* wordt niet genomen dan nadat de vergunninghouder van het voornemen tot intrekking of wijziging en van de gronden daarvoor in kennis is gesteld en in de gelegenheid is gesteld daarover zijn zienswijze naar voren te brengen.
 
 ##### Artikel 17
 
@@ -203,7 +176,7 @@ Een besluit als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 19a
 
-Indien ter zake van het vervoer van goederen bij een verordening van de Raad van de Europese Gemeenschappen op grond van de [Verordening (EEG) nr. 4057/86](31986R4057) van de Raad van de Europese Gemeenschappen van 22 december 1986, betreffende oneerlijke tariefpraktijken in het vervoer over zee (**PbEG** L 378) een compenserend recht is ingesteld, wordt dit recht namens Onze Minister opgelegd door de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+Indien ter zake van het vervoer van goederen bij een verordening van de Raad van de Europese Gemeenschappen op grond van de Verordening (EEG) nr. 4057/86 van de Raad van de Europese Gemeenschappen van 22 december 1986, betreffende oneerlijke tariefpraktijken in het vervoer over zee (*PbEG* L 378) een compenserend recht is ingesteld, wordt dit recht namens Onze Minister opgelegd door de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
 ##### Artikel 19b
 
@@ -293,7 +266,7 @@ Het is verboden terzake van een aanvraag voor een ontheffing onjuiste of onvolle
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IX. Het verstrekken van inlichtingen
 
@@ -331,31 +304,29 @@ Vervallen
 
 ##### Artikel 32
 
-1. Op de tenuitvoerlegging van een aanbeveling, voor zover die bindend is overeenkomstig de artikelen 37 en 39 van het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences, met bijlage, (**Trb.** 1980, 165) en die is gegeven in een bemiddelingsprocedure in Nederland, zijn de [artikelen 1062](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1062), [1063](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1063) en [1071 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1071) van overeenkomstige toepassing.
+1. Op de tenuitvoerlegging van een aanbeveling, voor zover die bindend is overeenkomstig de artikelen 37 en 39 van het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences, met bijlage, (*Trb.* 1980, 165) en die is gegeven in een bemiddelingsprocedure in Nederland, zijn de [artikelen 1062](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1062), [1063](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1063) en [1071 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1071) van overeenkomstige toepassing.
 
 2. Op de tenuitvoerlegging van een aanbeveling als bedoeld in het eerste lid, die buiten Nederland is gegeven, is [artikel 1075 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1075) van overeenkomstige toepassing.
 
-### Hoofdstuk XI. Beroep
-
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XII. Strafbepalingen
+### Hoofdstuk XI. Strafbepalingen
 
 ##### Artikel 36
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-### Hoofdstuk XIII. Slotbepalingen
+### Hoofdstuk XII. Slotbepalingen
 
 ##### Artikel 37
 
@@ -365,7 +336,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
@@ -373,7 +344,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
@@ -382,11 +353,3 @@ Deze wet kan worden aangehaald als: Wet vervoer over zee.
 ##### Artikel 42
 
 De artikelen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk XI. Strafbepalingen
-
-### Hoofdstuk XII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

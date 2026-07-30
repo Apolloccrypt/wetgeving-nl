@@ -1,49 +1,24 @@
 ---
 title: "Wet van 11 december 1980, houdende uitvoering van het op 18 maart 1970 te 's-Gravenhage tot stand gekomen Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken"
+citeertitel: "Uitvoeringswet Bewijsverdrag"
 identifier: "BWBR0003362"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003362"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1776173"
-version_id: "2640792"
-internal_id: "C2640791"
-label_id: "1732224"
-dtd_version: "2.0"
-original_entry_into_force: "1981-06-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003362/2025-01-01/0"
-intitule_bron: "Stb.1980-653"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-12-11"
-intitule_status: "goed"
-original_publication: "Stb.1980-653"
-original_signed_date: "1980-12-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1981-06-07"
-entry_into_force_dossier: "15661"
-jci_1_3: "jci1.3:c:BWBR0003362&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0003362&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Bewijsverdrag"
-signed_date: "1980-12-11"
-entry_into_force: "1981-06-07"
+publicatiedatum: 1981-06-07
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0003362"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 11 december 1980, houdende uitvoering van het op 18 maart 1970 te 's-Gravenhage tot stand gekomen Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er aanleiding bestaat om voorzieningen te treffen tot uitvoering van het op 18 maart 1970 te 's-Gravenhage tot stand gekomen Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
 ##### Artikel 1
 
-In deze wet wordt onder "het verdrag" verstaan: het op 18 maart 1970 te 's-Gravenhage tot stand gekomen verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken, waarvan de Franse en de Engelse tekst in **Tractatenblad** 1969, nr. 94 alsmede de vertaling in het Nederlands in **Tractatenblad** 1979, nr. 38 is geplaatst.
+In deze wet wordt onder "het verdrag" verstaan: het op 18 maart 1970 te 's-Gravenhage tot stand gekomen verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken, waarvan de Franse en de Engelse tekst in *Tractatenblad* 1969, nr. 94 alsmede de vertaling in het Nederlands in *Tractatenblad* 1979, nr. 38 is geplaatst.
 
 ##### Artikel 2
 
@@ -85,11 +60,11 @@ Oordeelt de centrale autoriteit dat artikel 12, eerste lid, onder b, van het ver
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -123,6 +98,10 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 3. Zijn met de uitvoering van de rogatoire commissie kosten gemoeid geweest welke niet ten laste van de Staat komen, dan doet de centrale autoriteit daarvan opgave aan de verzoekende autoriteit, met verzoek die kosten te vergoeden.
 
+##### Artikel 15a
+
+Een afwijzende beslissing op grond van artikel 5, artikel 9, tweede lid, en artikel 12, eerste lid, onder a, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
+
 ### Hoofdstuk III. Rogatoire commissies door de Nederlandse rechter opgedragen
 
 ##### Artikel 16
@@ -135,25 +114,25 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 1. De rogatoire commissie moet de volgende gegevens bevatten:
 
-- a). de naam van de verzoekende autoriteit en, indien mogelijk, die van de aangezochte autoriteit;
+- a) de naam van de verzoekende autoriteit en, indien mogelijk, die van de aangezochte autoriteit;
 
-- b). de namen en adressen van de partijen en, zonodig, van hun vertegenwoordigers;
+- b) de namen en adressen van de partijen en, zonodig, van hun vertegenwoordigers;
 
-- c). de aard en het onderwerp van het geding alsmede een beknopte uiteenzetting van de feiten;
+- c) de aard en het onderwerp van het geding alsmede een beknopte uiteenzetting van de feiten;
 
-- d). de onderzoekshandeling of andere gerechtelijke handeling die moet worden verricht.
+- d) de onderzoekshandeling of andere gerechtelijke handeling die moet worden verricht.
 
 2. Voor zover nodig vermeldt de rogatoire commissie bovendien:
 
-- a). de namen en adressen van de te horen personen;
+- a) de namen en adressen van de te horen personen;
 
-- b). de vragen welke aan de te horen personen moeten worden gesteld, dan wel de feiten waarover zij moeten worden gehoord;
+- b) de vragen welke aan de te horen personen moeten worden gesteld, dan wel de feiten waarover zij moeten worden gehoord;
 
-- c). de stukken of andere voorwerpen welke moeten worden onderzocht;
+- c) de stukken of andere voorwerpen welke moeten worden onderzocht;
 
-- d). of de verklaring onder ede of onder belofte moet worden afgenomen en eventueel de formule welke daarbij moet worden gebruikt;
+- d) of de verklaring onder ede of onder belofte moet worden afgenomen en eventueel de formule welke daarbij moet worden gebruikt;
 
-- e). de bijzondere vorm waarvan de toepassing wordt verlangd overeenkomstig artikel 9 van het verdrag.
+- e) de bijzondere vorm waarvan de toepassing wordt verlangd overeenkomstig artikel 9 van het verdrag.
 
 3. De rogatoire commissie vermeldt tevens zonodig de inlichtingen welke nodig zijn voor de toepassing van artikel 11 van het verdrag.
 
@@ -195,15 +174,15 @@ De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden 
 
 - a). De betrokken getuige of deskundige moet behoorlijk zijn opgeroepen bij een oproeping die is gesteld in het Nederlands of vergezeld gaat van een vertaling in het Nederlands. De oproeping moet bovendien vermelden:
 
-- -. de gegevens en een korte omschrijving van de procedure waarin het onderzoek of het verhoor is verzocht alsmede de rechter van wie het verzoek afkomstig is;
+   - - de gegevens en een korte omschrijving van de procedure waarin het onderzoek of het verhoor is verzocht alsmede de rechter van wie het verzoek afkomstig is;
 
-- -. dat de verschijning vrijwillig geschiedt en dat een weigering om te verschijnen, de eed of de belofte af te leggen of een verklaring af te leggen, niet kan leiden tot enigerlei maatregel of straf van welke aard ook tegen de betrokkene, noch in Nederland, noch in de Staat waar de procedure aanhangig is;
+   - - dat de verschijning vrijwillig geschiedt en dat een weigering om te verschijnen, de eed of de belofte af te leggen of een verklaring af te leggen, niet kan leiden tot enigerlei maatregel of straf van welke aard ook tegen de betrokkene, noch in Nederland, noch in de Staat waar de procedure aanhangig is;
 
-- -. dat de betrokkene zich kan doen bijstaan door een raadsman;
+   - - dat de betrokkene zich kan doen bijstaan door een raadsman;
 
-- -. dat de betrokkene zich overeenkomstig artikel 11 van het verdrag kan beroepen op een recht van verschoning of een verbod tot het afleggen van een verklaring;
+   - - dat de betrokkene zich overeenkomstig artikel 11 van het verdrag kan beroepen op een recht van verschoning of een verbod tot het afleggen van een verklaring;
 
-- -. dat de kosten van verschijning door de met het onderzoek belaste commissaris worden vergoed.
+   - - dat de kosten van verschijning door de met het onderzoek belaste commissaris worden vergoed.
 
 - b). Een afschrift van de onder a) bedoelde oproeping moet worden toegezonden aan de voorzieningenrechter.
 
@@ -216,17 +195,3 @@ De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden 
 ##### Artikel 23
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15a
-
-Een afwijzende beslissing op grond van artikel 5, artikel 9, tweede lid, en artikel 12, eerste lid, onder a, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
-
-### Hoofdstuk III. Rogatoire commissies door de Nederlandse rechter opgedragen
-
-### Hoofdstuk IV. Uitvoering van de artikelen 8 en 17 van het verdrag
-
-### Slotbepaling
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

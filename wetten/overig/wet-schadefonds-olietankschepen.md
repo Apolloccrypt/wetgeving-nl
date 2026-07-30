@@ -1,43 +1,18 @@
 ---
 title: "Wet van 14 mei 1981, houdende uitvoering van het op 18 december 1971 te Brussel tot stand gekomen Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (Trb. 1973, 101)"
+citeertitel: "Wet schadefonds olietankschepen"
 identifier: "BWBR0003400"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003400"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "116793"
-version_id: "159912"
-internal_id: "C159911"
-label_id: "117054"
-dtd_version: "2.0"
-original_entry_into_force: "1982-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003400/2019-01-01/0"
-intitule_bron: "Stb.1981-294"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-05-14"
-intitule_status: "goed"
-original_publication: "Stb.1981-294"
-original_signed_date: "1981-05-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "16149"
-entry_into_force_date: "1982-09-15"
-jci_1_3: "jci1.3:c:BWBR0003400&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0003400&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet schadefonds olietankschepen"
-signed_date: "1981-05-14"
-entry_into_force: "1982-09-15"
+publicatiedatum: 1982-09-15
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0003400"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 14 mei 1981, houdende uitvoering van het op 18 december 1971 te Brussel tot stand gekomen Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (Trb. 1973, 101)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, in verband met de bekrachtiging van het op 18 december 1971 te Brussel tot stand gekomen Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (**Trb.** 1973, 101) regelen vast te stellen tot uitvoering van dat Verdrag;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Begripsbepalingen
 
@@ -47,13 +22,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde worden verstaan on
 
 - a. "Onze Minister": Onze Minister van Economische Zaken en Klimaat;
 
-- b. «Verdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (**Trb.** 1994, 228);
+- b. «Verdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (*Trb.* 1994, 228);
 
 - c. "Fonds": het Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het Verdrag;
 
 - d. "schip", "persoon", "eigenaar", "bijdragende olie", "ton" en "garant": hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag;
 
-- e. «Aansprakelijkheidsverdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992, met Bijlage (**Trb.** 1994, 229);
+- e. «Aansprakelijkheidsverdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992, met Bijlage (*Trb.* 1994, 229);
 
 - f. «Aanvullend Fonds»: het Internationaal Aanvullend Fonds voor de vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het op 16 mei 2003 te Londen tot stand gekomen Protocol bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 2004, 196).
 
@@ -79,7 +54,7 @@ Op het recht van verhaal dat het Fonds heeft voor bedragen die het heeft betaald
 
 ##### Artikel 5
 
-1. Een ieder, die in Nederland bijdragende olie ontvangt op de wijze, bepaald in artikel 10, eerste lid, onder **a** of **b**, van het Verdrag, is verplicht ieder kalenderjaar aan Onze Minister schriftelijk opgave te doen van de hoeveelheid bijdragende olie welke hij in het voorafgaande kalenderjaar heeft ontvangen. Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende het tijdstip en de wijze van opgave en kunnen nadere regels worden gesteld betreffende de vraag welke personen tot opgave verplicht zijn; daarbij kunnen personen die in het voorafgaande kalenderjaar niet meer dan een bepaalde hoeveelheid bijdragende olie hebben ontvangen van de verplichting tot opgave worden vrijgesteld.
+1. Een ieder, die in Nederland bijdragende olie ontvangt op de wijze, bepaald in artikel 10, eerste lid, onder *a* of *b*, van het Verdrag, is verplicht ieder kalenderjaar aan Onze Minister schriftelijk opgave te doen van de hoeveelheid bijdragende olie welke hij in het voorafgaande kalenderjaar heeft ontvangen. Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende het tijdstip en de wijze van opgave en kunnen nadere regels worden gesteld betreffende de vraag welke personen tot opgave verplicht zijn; daarbij kunnen personen die in het voorafgaande kalenderjaar niet meer dan een bepaalde hoeveelheid bijdragende olie hebben ontvangen van de verplichting tot opgave worden vrijgesteld.
 
 2. Onze Minister deelt aan de Directeur van het Fonds overeenkomstig artikel 15 van het Verdrag de naam en het adres mede van alle personen die ingevolge artikel 10 van het Verdrag gehouden zijn bij te dragen aan het Fonds, alsmede de gegevens betreffende de hoeveelheden bijdragende olie welke die personen zijns inziens in het voorafgaande kalenderjaar hebben ontvangen.
 
@@ -89,7 +64,7 @@ Op het recht van verhaal dat het Fonds heeft voor bedragen die het heeft betaald
 
 ##### Artikel 6
 
-Onder "geassocieerde personen" als bedoeld in artikel 10, tweede lid, onder **b**, van het Verdrag worden verstaan:
+Onder "geassocieerde personen" als bedoeld in artikel 10, tweede lid, onder *b*, van het Verdrag worden verstaan:
 
 - a. personen, die met elkaar zijn verbonden doordat de een aan de ander voor eigen rekening rechtstreeks of middellijk meer dan de helft van het kapitaal verschaft, al dan niet tezamen met een of meer andere personen met wie hij in eenzelfde groep is verbonden of met wie hij een onderlinge regeling tot samenwerking heeft;
 
@@ -117,11 +92,11 @@ Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 #### § 5. Slotbepalingen
 
@@ -129,9 +104,13 @@ Vervallen
 
 Bij of krachtens algemene maatregel van bestuur kunnen, indien dit in het belang van een goede uitvoering van de wet of in verband met internationale afspraken inzake de uitvoering van het Verdrag en de daarop berustende regelingen gewenst is, nadere regels gesteld worden betreffende de verkrijging van gegevens aangaande in Nederland ontvangen bijdragende olie en andere in deze wet geregelde onderwerpen.
 
+##### Artikel 12a
+
+Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), alsmede een mededeling als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
+
 ##### Artikel 13
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 14
 
@@ -140,11 +119,3 @@ Deze wet kan worden aangehaald als: Wet schadefonds olietankschepen.
 ##### Artikel 15
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), alsmede een mededeling als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2019-01-01&g=2019-01-01), die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

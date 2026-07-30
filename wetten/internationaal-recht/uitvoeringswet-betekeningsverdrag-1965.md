@@ -1,47 +1,22 @@
 ---
 title: "Wet van 8 januari 1975, tot uitvoering van het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken"
+citeertitel: "Uitvoeringswet Betekeningsverdrag 1965"
 identifier: "BWBR0002951"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002951"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1775973"
-version_id: "2640402"
-internal_id: "C2640401"
-label_id: "1731874"
-dtd_version: "2.0"
-original_entry_into_force: "1976-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002951/2013-01-01/0"
-intitule_bron: "Stb.1975-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1975-01-08"
-intitule_status: "goed"
-original_publication: "Stb.1975-5"
-original_signed_date: "1975-01-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "12866"
-entry_into_force_date: "1976-01-02"
-jci_1_3: "jci1.3:c:BWBR0002951&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002951&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Betekeningsverdrag 1965"
-signed_date: "1975-01-08"
-entry_into_force: "1976-01-02"
+publicatiedatum: 1976-01-02
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002951"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 8 januari 1975, tot uitvoering van het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er aanleiding is om voorzieningen te treffen tot uitvoering van het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-In deze wet wordt onder "het verdrag" verstaan het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken, waarvan de Franse en Engelse tekst in **Tractatenblad** 1966, 91 en de vertaling in het Nederlands in **Tractatenblad** 1969, 55 is geplaatst.
+In deze wet wordt onder "het verdrag" verstaan het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken, waarvan de Franse en Engelse tekst in *Tractatenblad* 1966, 91 en de vertaling in het Nederlands in *Tractatenblad* 1969, 55 is geplaatst.
 
 ##### Artikel 2
 
@@ -77,11 +52,11 @@ Tot het opmaken van de verklaring, bedoeld in artikel 6 van het verdrag, is bevo
 
 - b. betekening of kennisgeving met inachtneming van de vormen, in de wetgeving van de aan te zoeken Staat voorgeschreven voor de betekening of de kennisgeving van stukken die in dat land zijn opgemaakt en bestemd zijn voor zich aldaar bevindende personen;
 
-- c. betekening of kennisgeving, als onder **b** bedoeld, alléén voor het geval dat eenvoudige afgifte niet mogelijk is; of
+- c. betekening of kennisgeving, als onder *b* bedoeld, alléén voor het geval dat eenvoudige afgifte niet mogelijk is; of
 
 - d. betekening of kennisgeving in een bijzondere, in het exploit duidelijk aan te geven vorm.
 
-3. In elk van de in het vorige lid onder **b, c** en **d** genoemde gevallen is het exploit vergezeld van een opgave, in een van de talen, genoemd in artikel 7, tweede lid, van het verdrag, van alle gegevens, benodigd voor de opstelling van het gedeelte van de aanvrage, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=5&z=2013-01-01&g=2013-01-01), laatste lid, van het verdrag.
+3. In elk van de in het vorige lid onder *b, c* en *d* genoemde gevallen is het exploit vergezeld van een opgave, in een van de talen, genoemd in artikel 7, tweede lid, van het verdrag, van alle gegevens, benodigd voor de opstelling van het gedeelte van de aanvrage, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002951&artikel=5&z=2013-01-01&g=2013-01-01), laatste lid, van het verdrag.
 
 4. Een tweede exemplaar van het exploit, alsmede indien bij het exploit een afzonderlijk stuk wordt betekend, van dat stuk, zal worden bijgevoegd.
 
@@ -118,5 +93,3 @@ Een verzoek om verlening van een nieuwe termijn, als bedoeld in artikel 16 van h
 ##### Artikel 12
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

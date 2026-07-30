@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 september 1975, tot uitvoering van enige artikelen van de Wet voorlopige regeling schadefonds geweldsmisdrijven"
+citeertitel: "Besluit schadefonds geweldsmisdrijven"
 identifier: "BWBR0002996"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002996"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "952163"
-version_id: "12594602"
-internal_id: "C16927991"
-label_id: "923424"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002996/2013-01-01/0"
-intitule_bron: "Stb.1975-492"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1975-09-03"
-intitule_status: "goed"
-original_publication: "Stb.2005-656"
-original_signed_date: "2005-12-13"
-original_published_date: "2005-12-20"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2005-656"
-entry_into_force_date: "2005-12-13"
-jci_1_3: "jci1.3:c:BWBR0002996&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002996&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit schadefonds geweldsmisdrijven"
-signed_date: "2005-12-13"
-entry_into_force: "2005-12-13"
+publicatiedatum: 2005-12-13
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002996"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 3 september 1975, tot uitvoering van enige artikelen van de Wet voorlopige regeling schadefonds geweldsmisdrijven
-
-Op de voordracht van Onze Minister van Justitie van 22 april 1975, Stafafdeling Wetgeving Publiekrecht, nr. 267/675;
-
-Overwegende, dat het noodzakelijk is ter uitvoering van enige artikelen van de Wet voorlopige regeling schadefonds geweldsmisdrijven nadere regels te stellen, onder meer met betrekking tot de bedragen die ten hoogste kunnen worden uitgekeerd en de inrichting en werkwijze van de commissie tot beheer van het fonds;
-
-Gelet op de artikelen 4, tweede en derde lid, 11, 12 en 22 van de Wet voorlopige regeling schadefonds geweldsmisdrijven;
-
-De Raad van State gehoord (advies van 14 mei 1975, nr.5);
-
-Gezien het nader rapport van Onze Minister van Justitie van 26 augustus 1975, Stafafdeling Wetgeving Publiekrecht, nr. 494/675;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,31 +20,31 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**het fonds:** het schadefonds geweldsmisdrijven;
+*het fonds:* het schadefonds geweldsmisdrijven;
 
-**Onze Minister:** Onze Minister van Justitie;
+*Onze Minister:* Onze Minister van Justitie;
 
-**de commissie:** de commissie tot beheer van het fonds;
+*de commissie:* de commissie tot beheer van het fonds;
 
-**lidstaat:** een lidstaat van de Europese Unie.
+*lidstaat:* een lidstaat van de Europese Unie.
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### § 2. Inrichting en werkwijze van de commissie tot beheer van het fonds
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -96,7 +64,7 @@ De commissie stelt een bestuursreglement vast, waarin onder andere wordt opgenom
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -114,23 +82,13 @@ Vervallen
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
 Een ieder die door de commissie wordt opgeroepen tot het verstrekken van inlichtingen, ontvangt, voor zover hij aan die oproeping gevolg geeft, vergoeding voor reis- en verblijfkosten, alsmede vergoeding voor tijdverzuim, op de voet van het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde.
 
 #### § 2a. Werkwijze van het fonds bij verzoeken tot uitkering en de procedure van afhandeling daarvan bij grensoverschrijdende situaties binnen de Europese Unie
-
-##### Artikel 13
-
-Dit besluit treedt in werking met ingang van de dag waarop de Wet voorlopige regeling schadefonds geweldsmisdrijven in werking treedt.
-
-##### Artikel 14
-
-Dit besluit kan worden aangehaald als "Besluit schadefonds geweldsmisdrijven".
-
-Lasten en bevelen, dat dit besluit, met de nota van toelichting, in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
 
 ##### Artikel 12a
 
@@ -168,4 +126,10 @@ Lasten en bevelen, dat dit besluit, met de nota van toelichting, in het **Staats
 
 #### § 3. Slotbepalingen
 
-Lasten en bevelen, dat dit besluit, met de nota van toelichting, in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+##### Artikel 13
+
+Dit besluit treedt in werking met ingang van de dag waarop de Wet voorlopige regeling schadefonds geweldsmisdrijven in werking treedt.
+
+##### Artikel 14
+
+Dit besluit kan worden aangehaald als "Besluit schadefonds geweldsmisdrijven".

@@ -1,45 +1,18 @@
 ---
 title: "Wet van 4 april 1979, houdende uitvoering van de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma"
+citeertitel: "Wet uitvoering Internationaal Energieprogramma"
 identifier: "BWBR0003235"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003235"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "361373"
-version_id: "20021402"
-internal_id: "C28276231"
-label_id: "353474"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003235/2021-07-01/0"
-intitule_bron: "Stb.1979-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-04-04"
-intitule_status: "goed"
-original_publication: "Stb.2012-682"
-original_signed_date: "2012-12-20"
-original_published_date: "2012-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "32450"
-original_url_id: "stb-2012-682"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0003235&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0003235&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitvoering Internationaal Energieprogramma"
-signed_date: "2012-12-20"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0003235"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 4 april 1979, houdende uitvoering van de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen ten einde te kunnen voldoen aan de verplichtingen, welke voor Nederland voortvloeien uit de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (**Trb.** 1975, 47), en enige verdere voorzieningen te treffen met name inzake het verwerven van gegevens betreffende de oliemarkt;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Begripsbepalingen
 
@@ -47,15 +20,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-**Overeenkomst:** de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (**Trb.** 1975, 47);
+*Overeenkomst:* de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma (*Trb.* 1975, 47);
 
-**aardolieprodukten:** de produkten bedoeld in artikel 9, eerste lid, van de Overeenkomst;
+*aardolieprodukten:* de produkten bedoeld in artikel 9, eerste lid, van de Overeenkomst;
 
-**invoeren:** het brengen in het vrije verkeer;
+*invoeren:* het brengen in het vrije verkeer;
 
-**uitvoeren:** het brengen buiten het vrije verkeer;
+*uitvoeren:* het brengen buiten het vrije verkeer;
 
-**Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
+*Onze Minister:* Onze Minister van Economische Zaken en Klimaat.
 
 #### § 2. Distributie
 
@@ -87,7 +60,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. bepalingen omtrent de leveringsvoorwaarden.
 
-3. Bij de vaststelling op grond van het tweede lid, onder **e**, van een prijs, waartegen geleverd moet worden is van toepassing hetgeen bij of ter uitvoering van de Overeenkomst is bepaald met betrekking tot de prijs voor toebedeelde aardolieprodukten.
+3. Bij de vaststelling op grond van het tweede lid, onder *e*, van een prijs, waartegen geleverd moet worden is van toepassing hetgeen bij of ter uitvoering van de Overeenkomst is bepaald met betrekking tot de prijs voor toebedeelde aardolieprodukten.
 
 4. Degene, tot wie een opdracht als bedoeld in het eerste lid is gericht, wordt geacht daaraan te hebben voldaan, indien hij aantoont, dat hij de nodige aanbiedingen heeft gedaan en ook overigens al het redelijkerwijs mogelijke heeft verricht ten einde aan de opdracht te voldoen en dat het niet uitvoeren van de opdracht niet aan hem te wijten is.
 
@@ -155,7 +128,7 @@ Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragr
 
 3. Onze Minister wijst een of meer van de hierna volgende gegevens en stukken aan, waarop de verplichting, bedoeld in het eerste lid, betrekking heeft. Het betreft gegevens en stukken inzake:
 
-- a. de in het tweede lid, onder **a**-**g**, bedoelde handelingen, zomede het vervoeren van aardolieprodukten door een buisleiding;
+- a. de in het tweede lid, onder *a*-*g*, bedoelde handelingen, zomede het vervoeren van aardolieprodukten door een buisleiding;
 
 - b. de winning van ruwe aardolie zowel binnen als buiten Nederland;
 
@@ -171,7 +144,7 @@ Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragr
 
 - h. de gedane alsmede de voorgenomen investeringen;
 
-- i. onderwerpen vastgesteld krachtens artikel 27, eerste lid, onder **j**, of artikel 33, onder **f**, van de Overeenkomst, alsmede onderwerpen, de beschikbaarheid en voorwaarden van beschikbaarheid van aardolieprodukten betreffende, ten aanzien waarvan voor Nederland op grond van een internationale overeenkomst of een besluit van een volkenrechtelijke organisatie een verplichting bestaat gegevens te verstrekken.
+- i. onderwerpen vastgesteld krachtens artikel 27, eerste lid, onder *j*, of artikel 33, onder *f*, van de Overeenkomst, alsmede onderwerpen, de beschikbaarheid en voorwaarden van beschikbaarheid van aardolieprodukten betreffende, ten aanzien waarvan voor Nederland op grond van een internationale overeenkomst of een besluit van een volkenrechtelijke organisatie een verplichting bestaat gegevens te verstrekken.
 
 4. De ingevolge het eerste lid te stellen regels hebben in ieder geval betrekking op:
 
@@ -197,17 +170,15 @@ Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragr
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
-
-#### § 6. Ambtelijke bevoegdheden
+*Vervallen*
 
 ##### Artikel 16
 
@@ -215,29 +186,29 @@ Vervallen
 
 2. Onze Minister is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het eerste lid bedoelde aangewezen ambtenaren die zijn belast met de uitvoering van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&z=2021-07-01&g=2021-07-01) van deze wet.
 
-3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
-#### § 7. Slotbepalingen
+#### § 6. Slotbepalingen
 
 ##### Artikel 22
 
@@ -245,7 +216,7 @@ Buiten de gevallen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 23
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 24
 
@@ -253,10 +224,4 @@ Deze wet kan worden aangehaald als: Wet uitvoering Internationaal Energieprogram
 
 ##### Artikel 25
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.

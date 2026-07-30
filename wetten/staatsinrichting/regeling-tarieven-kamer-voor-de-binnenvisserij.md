@@ -1,53 +1,29 @@
 ---
 title: "Regeling tarieven Kamer voor de Binnenvisserij"
 identifier: "BWBR0003302"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003302"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4608073"
-version_id: "10843402"
-internal_id: "C14706391"
-label_id: "4586394"
-dtd_version: "2.0"
-original_entry_into_force: "2004-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003302/2023-07-01/0"
-intitule_bron: "Stcrt.1980-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-03-11"
-intitule_published: "1980-03-17"
-intitule_in_force: "1980-03-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-191"
-original_signed_date: "2004-09-28"
-original_published_date: "2004-10-05"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2004-191-p12-SC66855"
-entry_into_force_date: "2004-09-28"
-jci_1_3: "jci1.3:c:BWBR0003302&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0003302&g=2023-07-01"
-citeertitel_status: "officieel"
-signed_date: "2004-09-28"
-entry_into_force: "2004-09-28"
+publicatiedatum: 2004-09-28
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0003302"
+opgehaald: 2026-07-30
 ---
+
 # Regeling tarieven Kamer voor de Binnenvisserij
 
-Gelet op [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54) (Stb. 312),
-
-Besluit:
+#### Paragraaf 1. Tarieven Kamer voor de Binnenvisserij
 
 ##### Artikel 1
 
 Het tarief voor de werkzaamheden van de Kamer voor de Binnenvisserij, zowel voor wat betreft die ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in [artikel 25 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=25), als die ten aanzien van verzoeken tot verlenging van dergelijke overeenkomsten, bedraagt:
 
-- a. € 30,– bij een huurprijs van minder dan € 75,– per jaar;
+- a. € 30,– bij een huurprijs van minder dan € 75,– per jaar;
 
-- b. € 50,– bij een huurprijs van ten minste € 75,– doch minder dan € 250,– per jaar;
+- b. € 50,– bij een huurprijs van ten minste € 75,– doch minder dan € 250,– per jaar;
 
-- c. € 75,– bij een huurprijs van ten minste € 250,– per jaar.
+- c. € 75,– bij een huurprijs van ten minste € 250,– per jaar.
 
 ##### Artikel 2
 
@@ -55,7 +31,7 @@ Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel
 
 ##### Artikel 2a
 
-Het tarief voor de werkzaamheden van de Kamer bedraagt voor wat betreft het verlenen van toestemming als bedoeld in [artikel 22, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=22) (Stb. 312) € 40,– per verzoek om toestemming.
+Het tarief voor de werkzaamheden van de Kamer bedraagt voor wat betreft het verlenen van toestemming als bedoeld in [artikel 22, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=22) (Stb. 312) € 40,– per verzoek om toestemming.
 
 ##### Artikel 3
 
@@ -64,6 +40,18 @@ Deze regeling is niet van toepassing voor werkzaamheden ten aanzien van overeenk
 ##### Artikel 4
 
 De beschikking van de Minister van Landbouw en Visserij van 27 november 1968, nr. J. 2684 (Stcrt. 235) wordt ingetrokken.
+
+#### Paragraaf 2. Geldsom visakten
+
+##### Artikel 4a
+
+*Vervallen*
+
+#### Paragraaf 3. Slotbepalingen
+
+##### Artikel 4b
+
+Deze regeling berust op [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54).
 
 ##### Artikel 5
 
@@ -74,17 +62,3 @@ Deze regeling treedt in werking met ingang van 1 april 1980.
 Deze regeling wordt aangehaald als:
 
 Regeling tarieven Kamer voor de Binnenvisserij.
-
-#### Paragraaf 1. Tarieven Kamer voor de Binnenvisserij
-
-#### Paragraaf 2. Geldsom visakten
-
-##### Artikel 4a
-
-Vervallen
-
-#### Paragraaf 3. Slotbepalingen
-
-##### Artikel 4b
-
-Deze regeling berust op [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54).

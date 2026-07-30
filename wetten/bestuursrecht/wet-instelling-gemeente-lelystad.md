@@ -1,44 +1,18 @@
 ---
 title: "Wet van 5 juli 1979, tot instelling van een gemeente Lelystad en nadere vaststelling van de grens van de gemeente Dronten"
+citeertitel: "Wet instelling gemeente Lelystad"
 identifier: "BWBR0003250"
-country: "nl"
-rank: "wet"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003250"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "507683"
-version_id: "747112"
-internal_id: "C747111"
-label_id: "493954"
-dtd_version: "2.0"
-original_entry_into_force: "1979-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003250/1996-01-01/0"
-intitule_bron: "Stb.1979-378"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-07-05"
-intitule_status: "goed"
-original_publication: "Stb.1979-378"
-original_signed_date: "1979-07-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "15455"
-entry_into_force_date: "1979-07-21"
-entry_into_force_dossier: "15455"
-jci_1_3: "jci1.3:c:BWBR0003250&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0003250&g=1996-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet instelling gemeente Lelystad"
-signed_date: "1979-07-05"
-entry_into_force: "1979-07-21"
+publicatiedatum: 1979-07-21
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0003250"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 5 juli 1979, tot instelling van een gemeente Lelystad en nadere vaststelling van de grens van de gemeente Dronten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot instelling van een gemeente Lelystad en tegelijkertijd de grens van de gemeente Dronten nader vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Instelling van een gemeente en grensbepaling
 
@@ -64,7 +38,7 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&ar
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Rechtskracht voorschriften en uitoefening bevoegdheden
 
@@ -198,19 +172,19 @@ Zij die op de dag, voorafgaande aan de datum van inwerkingtreding dezer wet, ing
 
 ##### Artikel 27
 
-1. Indien de datum van inwerkingtreding dezer wet op of na 1 maart valt, geldt voor de scholen, gevestigd in de nieuwe gemeente Lelystad, als het bedrag, bedoeld in artikel 55**bis**, eerste lid, der Lager-onderwijswet 1920, voor het jaar van inwerkingtreding het bedrag dat de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" ingevolge genoemd artikellid voor dat jaar heeft vastgesteld of krachtens het tweede lid geacht wordt te hebben vastgesteld. Indien de datum van inwerkingtreding vóór 1 maart ligt, geldt voor het jaar van inwerkingtreding het door de nieuwe gemeente Lelystad vastgestelde bedrag.
+1. Indien de datum van inwerkingtreding dezer wet op of na 1 maart valt, geldt voor de scholen, gevestigd in de nieuwe gemeente Lelystad, als het bedrag, bedoeld in artikel 55*bis*, eerste lid, der Lager-onderwijswet 1920, voor het jaar van inwerkingtreding het bedrag dat de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" ingevolge genoemd artikellid voor dat jaar heeft vastgesteld of krachtens het tweede lid geacht wordt te hebben vastgesteld. Indien de datum van inwerkingtreding vóór 1 maart ligt, geldt voor het jaar van inwerkingtreding het door de nieuwe gemeente Lelystad vastgestelde bedrag.
 
-2. Voor zover op de datum van inwerkingtreding dezer wet de vaststelling, bedoeld in artikel 55**ter**, eerste lid, der Lager-onderwijswet 1920, voor de openbare lagere scholen en die, bedoeld in artikel 47, eerste lid, der Kleuteronderwijswet, voor de openbare kleuterscholen, gevestigd in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) van de onderhavige wet omschreven gebied, voor het aan die datum voorafgaande kalenderjaar nog niet heeft plaatsgehad, geschiedt zij door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
+2. Voor zover op de datum van inwerkingtreding dezer wet de vaststelling, bedoeld in artikel 55*ter*, eerste lid, der Lager-onderwijswet 1920, voor de openbare lagere scholen en die, bedoeld in artikel 47, eerste lid, der Kleuteronderwijswet, voor de openbare kleuterscholen, gevestigd in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) van de onderhavige wet omschreven gebied, voor het aan die datum voorafgaande kalenderjaar nog niet heeft plaatsgehad, geschiedt zij door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-3. Voor zover op de datum van inwerkingtreding dezer wet de vergoedingen, bedoeld in de artikelen 101 en 101**bis** der Lager-onderwijswet 1920 onderscheidenlijk artikel 73 der Kleuteronderwijswet, toekomende aan de besturen van de bijzondere lagere onderscheidenlijk kleuterscholen, gevestigd in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) van de onderhavige wet omschreven gebied, over het aan die datum voorafgaande kalenderjaar nog niet zijn vastgesteld krachtens artikel 103, tweede lid, der Lager-onderwijswet 1920 onderscheidenlijk artikel 75, derde lid, der Kleuteronderwijswet, geschiedt deze vaststelling door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" en voor rekening van het openbaar lichaam.
+3. Voor zover op de datum van inwerkingtreding dezer wet de vergoedingen, bedoeld in de artikelen 101 en 101*bis* der Lager-onderwijswet 1920 onderscheidenlijk artikel 73 der Kleuteronderwijswet, toekomende aan de besturen van de bijzondere lagere onderscheidenlijk kleuterscholen, gevestigd in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) van de onderhavige wet omschreven gebied, over het aan die datum voorafgaande kalenderjaar nog niet zijn vastgesteld krachtens artikel 103, tweede lid, der Lager-onderwijswet 1920 onderscheidenlijk artikel 75, derde lid, der Kleuteronderwijswet, geschiedt deze vaststelling door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" en voor rekening van het openbaar lichaam.
 
 4. Bij de toepassing van artikel 101, vierde lid, der Lager-onderwijswet 1920 en artikel 73, derde lid, der Kleuteronderwijswet wordt voor het op de datum van inwerkingtreding van de onderhavige wet lopende vijfjarige tijdvak de extra vergoeding voor de in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied gevestigde bijzondere scholen bepaald op de som van enerzijds de per leerling onderscheidenlijk per lokaal en per kleuter omgerekende overschrijdingsbedragen, berekend over de kalenderjaren vóór het jaar waarin de datum van inwerkingtreding dezer wet valt, en anderzijds de per leerling onderscheidenlijk per lokaal en per kleuter omgerekende overschrijdingsbedragen over de overige jaren van dat tijdvak. De hieruit voortvloeiende uitgaven, betrekking hebbende op de kalenderjaren vóór de datum van inwerkingtreding dezer wet, komen ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-5. Indien de datum van inwerkingtreding dezer wet vóór 1 maart valt, stelt de nieuwe gemeente Lelystad voor het jaar van inwerkingtreding het aantal wekelijkse lesuren, bedoeld in artikel 101**bis**, eerste lid, der Lager-Onderwijswet 1920 vast. Treedt de onderhavige wet op of na genoemde datum in werking, dan blijven de reeds vastgestelde getallen van kracht en vindt de vaststelling van de aan de besturen van de bijzondere scholen uit te keren vergoeding voor beloning van vakonderwijzers plaats op dezelfde grondslagen als voordien golden.
+5. Indien de datum van inwerkingtreding dezer wet vóór 1 maart valt, stelt de nieuwe gemeente Lelystad voor het jaar van inwerkingtreding het aantal wekelijkse lesuren, bedoeld in artikel 101*bis*, eerste lid, der Lager-Onderwijswet 1920 vast. Treedt de onderhavige wet op of na genoemde datum in werking, dan blijven de reeds vastgestelde getallen van kracht en vindt de vaststelling van de aan de besturen van de bijzondere scholen uit te keren vergoeding voor beloning van vakonderwijzers plaats op dezelfde grondslagen als voordien golden.
 
 ##### Artikel 28
 
-1. Op de datum van inwerkingtreding dezer wet gaan alle archiefbescheiden van het openbaar lichaam "Zuidelijke IJsselmeerpolders", uitsluitend betrekking hebbend op het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, over naar de gemeente Lelystad onderscheidenlijk Dronten, met dien verstande dat de overbrenging als bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) ( **Stb.** 276) ten aanzien van deze bescheiden geschiedt als had deze overgang niet plaatsgevonden. Van de overgang wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
+1. Op de datum van inwerkingtreding dezer wet gaan alle archiefbescheiden van het openbaar lichaam "Zuidelijke IJsselmeerpolders", uitsluitend betrekking hebbend op het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, over naar de gemeente Lelystad onderscheidenlijk Dronten, met dien verstande dat de overbrenging als bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) ( *Stb.* 276) ten aanzien van deze bescheiden geschiedt als had deze overgang niet plaatsgevonden. Van de overgang wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
 
 2. De besturen van de gemeenten Lelystad en Dronten hebben van de in het eerste lid genoemde datum af het recht te allen tijde kosteloos inzage te nemen van de archiefbescheiden van het openbaar lichaam "Zuidelijke IJsselmeerpolders" en op kosten hunner gemeente afschriften van of uittreksels uit die archiefbescheiden te vorderen, voor zover deze mede betrekking hebben op het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied.
 
@@ -222,7 +196,7 @@ Zij die op de dag, voorafgaande aan de datum van inwerkingtreding dezer wet, ing
 
 ##### Artikel 30
 
-Kosten van bijstand als bedoeld in de [artikelen 16](onbekend), [17](onbekend) en [18 van de Algemene Bijstandswet](onbekend) ten behoeve van personen die op of vóór de datum van inwerkingtreding dezer wet woonachtig zijn of geweest zijn in het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, komen met ingang van bedoelde datum ten laste van de gemeente Lelystad onderscheidenlijk Dronten.
+Kosten van bijstand als bedoeld in de artikelen 16, 17 en 18 van de Algemene Bijstandswet ten behoeve van personen die op of vóór de datum van inwerkingtreding dezer wet woonachtig zijn of geweest zijn in het in het[eerste onderscheidenlijk tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=I&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebied, komen met ingang van bedoelde datum ten laste van de gemeente Lelystad onderscheidenlijk Dronten.
 
 ##### Artikel 31
 
@@ -238,11 +212,11 @@ Indien vóór de datum van inwerkingtreding dezer wet een notaris en/of een deur
 
 ##### Artikel 34
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 35
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 36
 
@@ -260,6 +234,4 @@ Geschillen omtrent de toepassing van deze wet, waarvan de beslissing niet aan an
 
 ##### Artikel 39
 
-Deze wet treedt in werking met ingang van een door Ons te bepalen dag, met uitzondering van [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&z=1996-01-01&g=1996-01-01) en de[artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=24&z=1996-01-01&g=1996-01-01), die in werking treden op de tweede dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van een door Ons te bepalen dag, met uitzondering van [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=V&z=1996-01-01&g=1996-01-01) en de[artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003250&hoofdstuk=VI&artikel=24&z=1996-01-01&g=1996-01-01), die in werking treden op de tweede dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst.

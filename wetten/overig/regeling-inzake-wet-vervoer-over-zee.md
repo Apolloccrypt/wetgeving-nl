@@ -1,43 +1,18 @@
 ---
 title: "Wijziging besluit tot vaststelling van termijnen ex art. 3-1"
+citeertitel: "Regeling inzake Wet vervoer over zee"
 identifier: "BWBR0003708"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1984-09-19"
-last_updated: "1984-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003708"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3763303"
-version_id: "5546172"
-internal_id: "C5739261"
-label_id: "3743054"
-dtd_version: "2.0"
-original_entry_into_force: "1984-09-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003708/1984-09-19/0"
-intitule_bron: "Stcrt.1984-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-08-31"
-intitule_published: "1984-09-17"
-intitule_in_force: "1984-09-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1984-181"
-original_signed_date: "1984-08-31"
-original_published_date: "1984-09-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1984-09-19"
-jci_1_3: "jci1.3:c:BWBR0003708&z=1984-09-19&g=1984-09-19"
-jci_1_0: "1.0:c:BWBR0003708&g=1984-09-19"
-citeertitel_status: "officieel"
-short_title: "Regeling inzake Wet vervoer over zee"
-signed_date: "1984-08-31"
-entry_into_force: "1984-09-19"
+publicatiedatum: 1984-09-19
+laatste_update: 1984-09-19
+status: geldig
+toestand: 1984-09-19
+bron: "https://wetten.overheid.nl/BWBR0003708"
+opgehaald: 2026-07-30
 ---
+
 # Wijziging besluit tot vaststelling van termijnen ex art. 3-1
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&artikel=3) en [4, eerste lid, van de Wet vervoer over zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&artikel=4) (Stb. 1982, 629);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -45,9 +20,9 @@ De in [artikel 3, eerste lid, van de Wet vervoer over zee](https://wetten.overhe
 
 - A.
 
-- 1º. gesteld op 75 dagen voor lijnvervoerdiensten van Nederlandse havens naar Lidstaten van de EEG en op basis van reciprociteit naar landen, die lid zijn van de Organisatie voor Economische Samenwerking en Ontwikkeling, en die partij zijn bij het verdrag inzake een gedragscode voor lijnvaartconferences (Trb. 1979, 177 en 1980, 165);
+   - 1º. gesteld op 75 dagen voor lijnvervoerdiensten van Nederlandse havens naar Lidstaten van de EEG en op basis van reciprociteit naar landen, die lid zijn van de Organisatie voor Economische Samenwerking en Ontwikkeling, en die partij zijn bij het verdrag inzake een gedragscode voor lijnvaartconferences (Trb. 1979, 177 en 1980, 165);
 
-- 2º. gesteld op 150 dagen voor lijnvervoerdiensten van Nederlandse havens naar overige landen die partij zijn bij het verdrag, met dien verstande dat het minimumtijdvak tussen de datum waarop een algemene verhoging in werking treedt en de datum waarop, met inachtneming van bovengenoemde termijn van 150 dagen, de volgende algemene verhoging wordt aangekondigd, niet korter dient te zijn dan maanden, tenzij de bij de algemene verhoging van de vervoertarieven betrokken partijen anders zijn overeengekomen;
+   - 2º. gesteld op 150 dagen voor lijnvervoerdiensten van Nederlandse havens naar overige landen die partij zijn bij het verdrag, met dien verstande dat het minimumtijdvak tussen de datum waarop een algemene verhoging in werking treedt en de datum waarop, met inachtneming van bovengenoemde termijn van 150 dagen, de volgende algemene verhoging wordt aangekondigd, niet korter dient te zijn dan maanden, tenzij de bij de algemene verhoging van de vervoertarieven betrokken partijen anders zijn overeengekomen;
 
 - B. voor lijnvervoerdiensten van Nederlandse havens naar landen, die geen partij zijn bij het verdrag, op 75 dagen.
 

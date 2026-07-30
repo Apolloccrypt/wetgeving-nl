@@ -1,43 +1,18 @@
 ---
 title: "Overgangsbeschikking omzetbelasting"
+citeertitel: "Overgangsbeschikking omzetbelasting 1983"
 identifier: "BWBR0003649"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1984-01-01"
-last_updated: "1984-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003649"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3736203"
-version_id: "5519082"
-internal_id: "C5712171"
-label_id: "3715964"
-dtd_version: "2.0"
-original_entry_into_force: "1984-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003649/1984-01-01/0"
-intitule_bron: "Stcrt.1983-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-12-29"
-intitule_published: "1983-12-29"
-intitule_in_force: "1983-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1983-253"
-original_signed_date: "1983-12-29"
-original_published_date: "1983-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1984-01-01"
-jci_1_3: "jci1.3:c:BWBR0003649&z=1984-01-01&g=1984-01-01"
-jci_1_0: "1.0:c:BWBR0003649&g=1984-01-01"
-citeertitel_status: "officieel"
-short_title: "Overgangsbeschikking omzetbelasting 1983"
-signed_date: "1983-12-29"
-entry_into_force: "1984-01-01"
+publicatiedatum: 1984-01-01
+laatste_update: 1984-01-01
+status: geldig
+toestand: 1984-01-01
+bron: "https://wetten.overheid.nl/BWBR0003649"
+opgehaald: 2026-07-30
 ---
+
 # Overgangsbeschikking omzetbelasting
-
-Gelet op artikel 11 van de wet van 15 december 1983 (Stb. 624),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -45,7 +20,7 @@ Voor leveringen en diensten, verricht na 31 december 1983, is het tarief van toe
 
 ##### Artikel 2
 
-1. Ingeval de ondernemer de omzetbelasting berekent op de in [artikel 16, onder l van het Uitvoeringsbesluit omzetbelasting 1968](onbekend) (Stb. 423) omschreven wijze handelt hij na afloop van het jaar 1983 als volgt:
+1. Ingeval de ondernemer de omzetbelasting berekent op de in [artikel 16, onder l van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/BWBR0002633) (Stb. 423) omschreven wijze handelt hij na afloop van het jaar 1983 als volgt:
 
 - a. de omzetbelasting over 1983 wordt afgerekend overeenkomstig letter g van dat onderdeel. Zoals die bepaling luidt voor 1 januari 1984.
 

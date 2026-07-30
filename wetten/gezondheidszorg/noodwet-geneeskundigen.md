@@ -1,42 +1,18 @@
 ---
 title: "Wet van 23 april 1971, houdende regeling met betrekking tot de geneeskundige, tandheelkundige, verloskundige en farmaceutische voorziening ten behoeve van de bevolking voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
+citeertitel: "Noodwet Geneeskundigen"
 identifier: "BWBR0002758"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002758"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "1682253"
-version_id: "2480202"
-internal_id: "C2480201"
-label_id: "1636064"
-dtd_version: "2.0"
-original_entry_into_force: "1971-06-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002758/2021-07-01/0"
-intitule_bron: "Stb.1971-396"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-04-23"
-intitule_status: "goed"
-original_publication: "Stb.1971-396"
-original_signed_date: "1971-04-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1971-06-25"
-jci_1_3: "jci1.3:c:BWBR0002758&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0002758&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Noodwet Geneeskundigen"
-signed_date: "1971-04-23"
-entry_into_force: "1971-06-25"
+publicatiedatum: 1971-06-25
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0002758"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 23 april 1971, houdende regeling met betrekking tot de geneeskundige, tandheelkundige, verloskundige en farmaceutische voorziening ten behoeve van de bevolking voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden nieuwe regelen te stellen met betrekking tot de geneeskundige, tandheelkundige, verloskundige en farmaceutische voorziening ten behoeve van de bevolking;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -44,11 +20,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. **Onze Minister**: Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister*: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **bevoegd gezag**: de Directeur-Generaal van de Volksgezondheid, of, voor zover krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=I&artikel=5&z=2021-07-01&g=2021-07-01), een andere autoriteit is aangewezen, deze autoriteit;
+- b. *bevoegd gezag*: de Directeur-Generaal van de Volksgezondheid, of, voor zover krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=I&artikel=5&z=2021-07-01&g=2021-07-01), een andere autoriteit is aangewezen, deze autoriteit;
 
-- c. **geneeskundige**: degene, ten aanzien van wie geen grond tot weigering van inschrijving in het desbetreffende overeenkomstig [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (**Stb**. 1993, 655) ingestelde register als onderscheidenlijk arts, tandarts, apotheker of verloskundige van toepassing is;
+- c. *geneeskundige*: degene, ten aanzien van wie geen grond tot weigering van inschrijving in het desbetreffende overeenkomstig [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (*Stb*. 1993, 655) ingestelde register als onderscheidenlijk arts, tandarts, apotheker of verloskundige van toepassing is;
 
 - d. inwoner van Nederland: degene, die als ingezetene in de basisregistratie personen is ingeschreven of behoort te zijn ingeschreven.
 
@@ -76,11 +52,11 @@ De geneeskundigen die niet ingeschreven staan in het desbetreffende overeenkomst
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -88,7 +64,7 @@ Vervallen
 
 2. De Directeur-Generaal en elk der krachtens het eerste lid aangewezen autoriteiten worden in hun hoedanigheid van bevoegd gezag bijgestaan door een commissie van advies, waarvan de voorzitter, de overige leden en de secretaris door Onze Minister worden benoemd, geschorst en ontslagen. In de commissie van advies hebben in ieder geval zitting een of meer leden, te benoemen op aanbeveling van de door Ons aangewezen organisaties van geneeskundigen.
 
-3. Van een krachtens het eerste lid vastgesteld besluit wordt mededeling gedaan in de **Staatscourant**.
+3. Van een krachtens het eerste lid vastgesteld besluit wordt mededeling gedaan in de *Staatscourant*.
 
 ##### Artikel 6
 
@@ -99,6 +75,172 @@ Het bevoegd gezag oefent de aan dit gezag bij of krachtens deze wet toegekende b
 Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die, zolang de verbinding tussen Onze Minister en enig gebied verbroken is, in dat gebied met inachtneming van de bij de maatregel gestelde regelen de bij de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=1&artikel=8&z=2021-07-01&g=2021-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01) aan Onze Minister toegekende bevoegdheden uitoefenen.
 
 ### Hoofdstuk II. Bepalingen voor buitengewone omstandigheden
+
+#### § 1. Uitoefening van de praktijk
+
+##### Artikel 8
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen in het algemeen, dan wel dat het geneeskundigen, behorende tot bij de regeling aangewezen categorieën, verboden is zonder vergunning van het bevoegd gezag:
+
+- a. de uitoefening van de praktijk geheel of voor een deel te staken;
+
+- b. zich ter uitoefening van de praktijk te vestigen;
+
+- c. bij ontstentenis of afwezigheid van een geneeskundige diens praktijk langer dan een week waar te nemen.
+
+2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+
+4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in dit artikel.
+
+#### § 2. Beperking van het beëindigen en aangaan van rechtsbetrekkingen
+
+##### Artikel 9
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen in het algemeen, dan wel dat het geneeskundigen, behorende tot bij de regeling aangewezen categorieën, verboden is zonder vergunning van het bevoegd gezag een rechtsbetrekking, strekkende tot de uitoefening van hun beroepswerkzaamheden in dienst van of voor een ander:
+
+- a. te beëindigen;
+
+- b. aan te gaan.
+
+2. Een krachtens het eerste lid, onder *a*, gesteld verbod geldt mede voor de wederpartij.
+
+3. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+
+5. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in dit artikel.
+
+##### Artikel 10
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+Indien een rechtsbetrekking door één der partijen is beëindigd in strijd met een krachtens [artikel 9, eerste lid, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.
+
+##### Artikel 11
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Het is zowel de geneeskundige als de wederpartij verboden een rechtsbetrekking, aangegaan in strijd met een krachtens [artikel 9, eerste lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, te laten voortduren.
+
+2. Ten aanzien van het beëindigen van zodanige rechtsbetrekking geldt een krachtens [artikel 9, eerste lid, onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), gesteld verbod niet.
+
+3. De persoon, die zodanige rechtsbetrekking met de geneeskundige heeft aangegaan, is verplicht van de beëindiging van de rechtsbetrekking onverwijld aan het bevoegd gezag schriftelijk mededeling te doen.
+
+##### Artikel 12
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=10&z=2021-07-01&g=2021-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=11&z=2021-07-01&g=2021-07-01) gelden niet ten aanzien van dienstbetrekkingen van geneeskundigen, die overheidswerknemer zijn in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2).
+
+2. Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.
+
+3. Bij een algemene maatregel van bestuur als in het tweede lid bedoeld kunnen omtrent het vragen van voorziening tegen beschikkingen, krachtens die maatregelen genomen, en de rechtsgang ter zake, regelen worden gesteld in afwijking van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=IV&z=2021-07-01&g=2021-07-01).
+
+4. De voordracht tot een algemene maatregel van bestuur als in het tweede lid bedoeld wordt Ons gedaan door Onze Minister, te zamen met Onze Ministers, wie het mede aangaat.
+
+#### § 3. Opleggen van verplichtingen
+
+##### Artikel 13
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Het bevoegd gezag kan aan geneeskundigen, die Nederlander dan wel inwoner van Nederland zijn, met uitzondering van de Nederlanders, woonachtig in de Nederlandse Antillen of Aruba, de verplichting opleggen:
+
+- a. in een daartoe aangewezen gebied, al dan niet van een bepaalde plaats uit, de praktijk uit te oefenen;
+
+- b. bij ontstentenis of afwezigheid van een geneeskundige diens praktijk, geheel of voor een deel en al dan niet van een bepaalde plaats uit, waar te nemen;
+
+- c. anderszins alle of een deel van zijn beroepswerkzaamheden, al dan niet van een bepaalde plaats uit en al dan niet in dienst van of voor een ander, te verrichten;
+
+- d. daartoe aangewezen werkzaamheden, welke niet behoren tot de beroepswerkzaamheden van een geneeskundige, in het belang van de geneeskundige, tandheelkundige, verloskundige of farmaceutische voorziening, al dan niet in dienst van of voor een ander, te verrichten;
+
+- e. daartoe aangewezen werkzaamheden, bestaande in het volgen van een opleiding op geneeskundig, tandheelkundig, verloskundig of farmaceutisch gebied, bij een ander te verrichten.
+
+2. Het in het eerste lid, onder *d* en *e*, bepaalde geldt niet ten aanzien van verloskundigen.
+
+3. Een beschikking krachtens het eerste lid bevat een zo nauwkeurig mogelijke omschrijving van de opgelegde verplichting, alsmede van de plaats en tijd van aanvang en, indien mogelijk, van de waarschijnlijke duur van de werkzaamheden, welke uit de opgelegde verplichting voortvloeien. In voorkomend geval wijst zij voorts de natuurlijke of rechtspersoon aan, in wiens dienst dan wel voor of bij wie de werkzaamheden moeten worden verricht, en geeft zij daarbij aan in welke verhouding de geneeskundige tot die persoon zal staan.
+
+4. De verplichtingen, die krachtens het eerste lid worden opgelegd, kunnen niet strekken tot het verrichten van werkzaamheden op plaatsen buiten Nederland.
+
+5. De geneeskundige, die ten tijde van de oplegging der verplichting een rechtsbetrekking heeft, strekkende tot de uitoefening van zijn beroepswerkzaamheden in dienst van of voor een ander of tot het verrichten van andere werkzaamheden dan de beroepswerkzaamheden van een geneeskundige in dienst van een ander, is verplicht binnen driemaal vierentwintig uur aan zijn wederpartij mededeling te doen van de hem opgelegde verplichting.
+
+##### Artikel 14
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+De verplichtingen, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), kunnen niet worden opgelegd aan geneeskundigen, die:
+
+- a. ingevolge een overeenkomst met een andere mogendheid of met een volkenrechtelijke organisatie van oplegging van zodanige verplichtingen uitgesloten zijn, of
+
+- b. behoren tot bij algemene maatregel van bestuur daartoe aangewezen categorieën of krachtens zodanige maatregel daartoe zijn aangewezen.
+
+##### Artikel 15
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+De overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), aangewezen persoon is verplicht de geneeskundige de werkzaamheden, welke uit de opgelegde verplichting voortvloeien, te laten verrichten.
+
+##### Artikel 16
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Te rekenen van de dag, waarop een geneeskundige, aan wie krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), de verplichting is opgelegd werkzaamheden als bedoeld in dat lid te verrichten in dienst van dan wel voor of bij een ander, deze werkzaamheden verricht, bestaat tussen die geneeskundige en degene, in wiens dienst dan wel voor of bij wie de werkzaamheden moeten worden verricht een rechtsbetrekking, die voor de toepassing van wettelijke voorschriften geacht wordt een rechtsbetrekking te zijn uit een ter zake van een verhouding als aangegeven krachtens [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), aangegane overeenkomst.
+
+2. De inhoud van de rechtsbetrekking is zoveel mogelijk gelijk aan de wettelijk geoorloofde inhoud van rechtsbetrekkingen uit ter zake gebruikelijke overeenkomsten. Bij of krachtens algemene maatregel van bestuur kunnen daaromtrent nadere regelen worden gesteld. Partijen bij de rechtsbetrekking zijn bevoegd gezamenlijk haar inhoud nader vast te stellen. Op verzoek van de meest gerede partij geschiedt de nadere vaststelling door het bevoegd gezag.
+
+3. De rechtsbetrekking kan door partijen niet worden bëeindigd. Zij neemt van rechtswege een einde, zodra de geneeskundige van de opgelegde verplichting is ontslagen, of gaat behoren tot een der in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=14&z=2021-07-01&g=2021-07-01) bedoelde categorieën.
+
+##### Artikel 17
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Zolang een geneeskundige door het voldoen aan een hem krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), opgelegde verplichting verhinderd is te voldoen aan de verplichtingen, welke op hem krachtens een bestaande rechtsbetrekking als bedoeld in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), rusten, is deze rechtsbetrekking geschorst, doch kan zij door partijen niet worden beëindigd zonder vergunning van het bevoegd gezag.
+
+2. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de gevolgen van de schorsing voor de rechten en verplichtingen uit zodanige rechtsbetrekking.
+
+3. Een vergunning als in het eerste lid bedoeld kan onder beperkingen worden verleend. Aan zodanige vergunning kunnen voorschriften worden verbonden.
+
+4. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=10&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing.
+
+##### Artikel 18
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Aan een geneeskundige, als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=12&z=2021-07-01&g=2021-07-01), wordt voor de tijd, gedurende welke hij door het voldoen aan een hem krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), opgelegde verplichting verhinderd is zijn bestaande dienstbetrekking te vervullen, in die dienstbetrekking verlof verleend. Bij algemene maatregel van bestuur worden hieromtrent nadere regelen gesteld.
+
+2. De voordracht tot een algemene maatregel van bestuur als in het eerste lid bedoeld wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister en met Onze Ministers, wie het mede aangaat.
+
+##### Artikel 19
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Het bevoegd gezag kan een geneeskundige van een hem krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), opgelegde verplichting te allen tijde, hetzij ambtshalve, hetzij op verzoek van de geneeskundige of van de overeenkomstig het derde lid van dat artikel aangewezen persoon, ontslaan.
+
+2. [Artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), is met betrekking tot het ontslag van overeenkomstige toepassing.
+
+##### Artikel 20
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen, aan wie ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), een verplichting kan worden opgelegd, verboden is het land te verlaten zonder door hem verleende vergunning.
+
+2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+
+4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in dit artikel.
+
+#### § 4. Opheffing van wettelijke belemmeringen
+
+##### Artikel 21
+
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
+
+1. Onze Minister kan bij regeling onderscheidenlijk bij beschikking, ten aanzien van ondernemingen die werkzaam zijn op het gebied van de geneeskundige of farmaceutische voorziening en die hetzij behoren tot bij de regeling aangewezen categorieën, hetzij bij de beschikking afzonderlijk zijn aangewezen, vrijstelling, onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van het tegengaan van gevaar, schade en hinder, teweeggebracht door inrichtingen.
+
+2. Onze Minister kan bij regeling onderscheidenlijk bij beschikking, ten aanzien van ondernemingen die werkzaam zijn op het gebied van de geneeskundige of farmaceutische voorziening en die hetzij behoren tot bij de regeling aangewezen categorieën, hetzij bij de beschikking afzonderlijk zijn aangewezen, vrijstelling, onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van de beperking van de arbeidsduur en van de veiligheid en de hygiëne bij de arbeid.
+
+3. Een vrijstelling of ontheffing kan onder beperkingen, alsmede voorwaardelijk worden verleend; zij kan te allen tijde worden ingetrokken. Indien een vrijstelling of ontheffing voorwaardelijk is verleend, geldt zij slechts voor zover de gestelde voorwaarden worden nageleefd.
 
 ### Hoofdstuk III. Vergoedingen en sociale voorzieningen
 
@@ -118,7 +260,7 @@ In afwijking van [artikel 6:4, eerste lid, van de Algemene wet bestuursrecht](ht
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
@@ -136,7 +278,7 @@ Een bezwaarschrift, gericht tegen een beschikking van Onze Minister of van Onze 
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
@@ -148,11 +290,11 @@ Vervallen
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29a
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Ambtelijke bevoegdheden
 
@@ -198,7 +340,7 @@ Het bevoegd gezag kan personen oproepen om voor hem of voor door hem daarbij aan
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
@@ -228,7 +370,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 - e. degenen, die bij algemene maatregel van bestuur daartoe aangewezen openbare ambten bekleden.
 
-2. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld ter nadere bepaling van de in het eerste lid, onder **d**, bedoelde categorie van personen.
+2. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld ter nadere bepaling van de in het eerste lid, onder *d*, bedoelde categorie van personen.
 
 ##### Artikel 38
 
@@ -272,7 +414,7 @@ De voorgaande strafbepalingen zijn mede van toepassing op de Nederlander of de i
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
@@ -284,11 +426,11 @@ Vervallen
 
 ##### Artikel 47
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 48
 
-De Wet genees- en tandheelkundige voorziening burgerbevolking (**Stb.** 1939, 802) wordt ingetrokken.
+De Wet genees- en tandheelkundige voorziening burgerbevolking (*Stb.* 1939, 802) wordt ingetrokken.
 
 ##### Artikel 49
 
@@ -296,188 +438,4 @@ Deze wet kan worden aangehaald als: Noodwet Geneeskundigen.
 
 ##### Artikel 50
 
-Deze wet treedt, met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&z=2021-07-01&g=2021-07-01), in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 1. Uitoefening van de praktijk
-
-##### Artikel 8
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen in het algemeen, dan wel dat het geneeskundigen, behorende tot bij de regeling aangewezen categorieën, verboden is zonder vergunning van het bevoegd gezag:
-
-- a. de uitoefening van de praktijk geheel of voor een deel te staken;
-
-- b. zich ter uitoefening van de praktijk te vestigen;
-
-- c. bij ontstentenis of afwezigheid van een geneeskundige diens praktijk langer dan een week waar te nemen.
-
-2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
-
-4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in dit artikel.
-
-#### § 2. Beperking van het beëindigen en aangaan van rechtsbetrekkingen
-
-##### Artikel 9
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen in het algemeen, dan wel dat het geneeskundigen, behorende tot bij de regeling aangewezen categorieën, verboden is zonder vergunning van het bevoegd gezag een rechtsbetrekking, strekkende tot de uitoefening van hun beroepswerkzaamheden in dienst van of voor een ander:
-
-- a. te beëindigen;
-
-- b. aan te gaan.
-
-2. Een krachtens het eerste lid, onder **a**, gesteld verbod geldt mede voor de wederpartij.
-
-3. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
-
-5. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in dit artikel.
-
-##### Artikel 10
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-Indien een rechtsbetrekking door één der partijen is beëindigd in strijd met een krachtens [artikel 9, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, kan de wederpartij gedurende zes maanden de nietigheid der beëindiging inroepen.
-
-##### Artikel 11
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Het is zowel de geneeskundige als de wederpartij verboden een rechtsbetrekking, aangegaan in strijd met een krachtens [artikel 9, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), gesteld verbod of met een voorschrift, verbonden aan een krachtens dat lid verleende vergunning, te laten voortduren.
-
-2. Ten aanzien van het beëindigen van zodanige rechtsbetrekking geldt een krachtens [artikel 9, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), gesteld verbod niet.
-
-3. De persoon, die zodanige rechtsbetrekking met de geneeskundige heeft aangegaan, is verplicht van de beëindiging van de rechtsbetrekking onverwijld aan het bevoegd gezag schriftelijk mededeling te doen.
-
-##### Artikel 12
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=9&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=10&z=2021-07-01&g=2021-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=11&z=2021-07-01&g=2021-07-01) gelden niet ten aanzien van dienstbetrekkingen van geneeskundigen, die overheidswerknemer zijn in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2).
-
-2. Ten aanzien van zodanige dienstbetrekkingen kunnen regelen van overeenkomstige strekking worden gesteld bij algemene maatregel van bestuur.
-
-3. Bij een algemene maatregel van bestuur als in het tweede lid bedoeld kunnen omtrent het vragen van voorziening tegen beschikkingen, krachtens die maatregelen genomen, en de rechtsgang ter zake, regelen worden gesteld in afwijking van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=IV&z=2021-07-01&g=2021-07-01).
-
-4. De voordracht tot een algemene maatregel van bestuur als in het tweede lid bedoeld wordt Ons gedaan door Onze Minister, te zamen met Onze Ministers, wie het mede aangaat.
-
-#### § 3. Opleggen van verplichtingen
-
-##### Artikel 13
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Het bevoegd gezag kan aan geneeskundigen, die Nederlander dan wel inwoner van Nederland zijn, met uitzondering van de Nederlanders, woonachtig in de Nederlandse Antillen of Aruba, de verplichting opleggen:
-
-- a. in een daartoe aangewezen gebied, al dan niet van een bepaalde plaats uit, de praktijk uit te oefenen;
-
-- b. bij ontstentenis of afwezigheid van een geneeskundige diens praktijk, geheel of voor een deel en al dan niet van een bepaalde plaats uit, waar te nemen;
-
-- c. anderszins alle of een deel van zijn beroepswerkzaamheden, al dan niet van een bepaalde plaats uit en al dan niet in dienst van of voor een ander, te verrichten;
-
-- d. daartoe aangewezen werkzaamheden, welke niet behoren tot de beroepswerkzaamheden van een geneeskundige, in het belang van de geneeskundige, tandheelkundige, verloskundige of farmaceutische voorziening, al dan niet in dienst van of voor een ander, te verrichten;
-
-- e. daartoe aangewezen werkzaamheden, bestaande in het volgen van een opleiding op geneeskundig, tandheelkundig, verloskundig of farmaceutisch gebied, bij een ander te verrichten.
-
-2. Het in het eerste lid, onder **d** en **e**, bepaalde geldt niet ten aanzien van verloskundigen.
-
-3. Een beschikking krachtens het eerste lid bevat een zo nauwkeurig mogelijke omschrijving van de opgelegde verplichting, alsmede van de plaats en tijd van aanvang en, indien mogelijk, van de waarschijnlijke duur van de werkzaamheden, welke uit de opgelegde verplichting voortvloeien. In voorkomend geval wijst zij voorts de natuurlijke of rechtspersoon aan, in wiens dienst dan wel voor of bij wie de werkzaamheden moeten worden verricht, en geeft zij daarbij aan in welke verhouding de geneeskundige tot die persoon zal staan.
-
-4. De verplichtingen, die krachtens het eerste lid worden opgelegd, kunnen niet strekken tot het verrichten van werkzaamheden op plaatsen buiten Nederland.
-
-5. De geneeskundige, die ten tijde van de oplegging der verplichting een rechtsbetrekking heeft, strekkende tot de uitoefening van zijn beroepswerkzaamheden in dienst van of voor een ander of tot het verrichten van andere werkzaamheden dan de beroepswerkzaamheden van een geneeskundige in dienst van een ander, is verplicht binnen driemaal vierentwintig uur aan zijn wederpartij mededeling te doen van de hem opgelegde verplichting.
-
-##### Artikel 14
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-De verplichtingen, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), kunnen niet worden opgelegd aan geneeskundigen, die:
-
-- a. ingevolge een overeenkomst met een andere mogendheid of met een volkenrechtelijke organisatie van oplegging van zodanige verplichtingen uitgesloten zijn, of
-
-- b. behoren tot bij algemene maatregel van bestuur daartoe aangewezen categorieën of krachtens zodanige maatregel daartoe zijn aangewezen.
-
-##### Artikel 15
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-De overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), aangewezen persoon is verplicht de geneeskundige de werkzaamheden, welke uit de opgelegde verplichting voortvloeien, te laten verrichten.
-
-##### Artikel 16
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Te rekenen van de dag, waarop een geneeskundige, aan wie krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), de verplichting is opgelegd werkzaamheden als bedoeld in dat lid te verrichten in dienst van dan wel voor of bij een ander, deze werkzaamheden verricht, bestaat tussen die geneeskundige en degene, in wiens dienst dan wel voor of bij wie de werkzaamheden moeten worden verricht een rechtsbetrekking, die voor de toepassing van wettelijke voorschriften geacht wordt een rechtsbetrekking te zijn uit een ter zake van een verhouding als aangegeven krachtens [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), aangegane overeenkomst.
-
-2. De inhoud van de rechtsbetrekking is zoveel mogelijk gelijk aan de wettelijk geoorloofde inhoud van rechtsbetrekkingen uit ter zake gebruikelijke overeenkomsten. Bij of krachtens algemene maatregel van bestuur kunnen daaromtrent nadere regelen worden gesteld. Partijen bij de rechtsbetrekking zijn bevoegd gezamenlijk haar inhoud nader vast te stellen. Op verzoek van de meest gerede partij geschiedt de nadere vaststelling door het bevoegd gezag.
-
-3. De rechtsbetrekking kan door partijen niet worden bëeindigd. Zij neemt van rechtswege een einde, zodra de geneeskundige van de opgelegde verplichting is ontslagen, of gaat behoren tot een der in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=14&z=2021-07-01&g=2021-07-01) bedoelde categorieën.
-
-##### Artikel 17
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Zolang een geneeskundige door het voldoen aan een hem krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), opgelegde verplichting verhinderd is te voldoen aan de verplichtingen, welke op hem krachtens een bestaande rechtsbetrekking als bedoeld in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), rusten, is deze rechtsbetrekking geschorst, doch kan zij door partijen niet worden beëindigd zonder vergunning van het bevoegd gezag.
-
-2. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de gevolgen van de schorsing voor de rechten en verplichtingen uit zodanige rechtsbetrekking.
-
-3. Een vergunning als in het eerste lid bedoeld kan onder beperkingen worden verleend. Aan zodanige vergunning kunnen voorschriften worden verbonden.
-
-4. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=10&z=2021-07-01&g=2021-07-01) is van overeenkomstige toepassing.
-
-##### Artikel 18
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Aan een geneeskundige, als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=2&artikel=12&z=2021-07-01&g=2021-07-01), wordt voor de tijd, gedurende welke hij door het voldoen aan een hem krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), opgelegde verplichting verhinderd is zijn bestaande dienstbetrekking te vervullen, in die dienstbetrekking verlof verleend. Bij algemene maatregel van bestuur worden hieromtrent nadere regelen gesteld.
-
-2. De voordracht tot een algemene maatregel van bestuur als in het eerste lid bedoeld wordt Ons gedaan door Onze Minister van Binnenlandse Zaken, tezamen met Onze Minister en met Onze Ministers, wie het mede aangaat.
-
-##### Artikel 19
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Het bevoegd gezag kan een geneeskundige van een hem krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), opgelegde verplichting te allen tijde, hetzij ambtshalve, hetzij op verzoek van de geneeskundige of van de overeenkomstig het derde lid van dat artikel aangewezen persoon, ontslaan.
-
-2. [Artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), is met betrekking tot het ontslag van overeenkomstige toepassing.
-
-##### Artikel 20
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Bij ministeriële regeling kan worden bepaald, dat het geneeskundigen, aan wie ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&paragraaf=3&artikel=13&z=2021-07-01&g=2021-07-01), een verplichting kan worden opgelegd, verboden is het land te verlaten zonder door hem verleende vergunning.
-
-2. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
-
-4. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning, bedoeld in dit artikel.
-
-#### § 4. Opheffing van wettelijke belemmeringen
-
-##### Artikel 21
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Onze Minister kan bij regeling onderscheidenlijk bij beschikking, ten aanzien van ondernemingen die werkzaam zijn op het gebied van de geneeskundige of farmaceutische voorziening en die hetzij behoren tot bij de regeling aangewezen categorieën, hetzij bij de beschikking afzonderlijk zijn aangewezen, vrijstelling, onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van het tegengaan van gevaar, schade en hinder, teweeggebracht door inrichtingen.
-
-2. Onze Minister kan bij regeling onderscheidenlijk bij beschikking, ten aanzien van ondernemingen die werkzaam zijn op het gebied van de geneeskundige of farmaceutische voorziening en die hetzij behoren tot bij de regeling aangewezen categorieën, hetzij bij de beschikking afzonderlijk zijn aangewezen, vrijstelling, onderscheidenlijk ontheffing verlenen van verplichtingen en verboden, gesteld bij of krachtens wettelijke voorschriften ter zake van de beperking van de arbeidsduur en van de veiligheid en de hygiëne bij de arbeid.
-
-3. Een vrijstelling of ontheffing kan onder beperkingen, alsmede voorwaardelijk worden verleend; zij kan te allen tijde worden ingetrokken. Indien een vrijstelling of ontheffing voorwaardelijk is verleend, geldt zij slechts voor zover de gestelde voorwaarden worden nageleefd.
-
-### Hoofdstuk III. Vergoedingen en sociale voorzieningen
-
-### Hoofdstuk IV. Voorziening tegen beschikkingen
-
-### Hoofdstuk V. Registratie
-
-### Hoofdstuk VI. Ambtelijke bevoegdheden
-
-### Hoofdstuk VII. Verdere bepalingen
-
-### Hoofdstuk VIII. Bepalingen van strafrechtelijke aard
-
-### Hoofdstuk IX. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt, met uitzondering van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II&z=2021-07-01&g=2021-07-01), in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.

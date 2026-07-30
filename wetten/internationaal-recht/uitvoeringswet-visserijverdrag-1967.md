@@ -1,51 +1,24 @@
 ---
 title: "Wet van 7 september 1973, houdende uitvoering van het op 1 juni 1967 te Londen tot stand gekomen Verdrag inzake de uitoefening van de visserij op de Noordatlantische Oceaan, met Bijlagen en Aanhangsel (Trb. 1968, 54) (Verbeterblad)"
+citeertitel: "Uitvoeringswet Visserijverdrag 1967"
 identifier: "BWBR0002897"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002897"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "1781993"
-version_id: "2647582"
-internal_id: "C2647581"
-label_id: "1737634"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002897/2025-07-01/0"
-intitule_bron: "Stb.1973-476"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1973-09-07"
-intitule_status: "goed"
-original_publication: "Stb.1997-510"
-original_signed_date: "1997-11-06"
-original_published_date: "1997-11-18"
-original_effect: "structuurwijziging"
-original_dossier: "25280"
-original_url_id: "stb-1997-510"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0002897&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0002897&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Visserijverdrag 1967"
-signed_date: "1997-11-06"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0002897"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 7 september 1973, houdende uitvoering van het op 1 juni 1967 te Londen tot stand gekomen Verdrag inzake de uitoefening van de visserij op de Noordatlantische Oceaan, met Bijlagen en Aanhangsel (Trb. 1968, 54) (Verbeterblad)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen tot uitvoering van het op 1 juni 1967 te Londen tot stand gekomen Verdrag inzake de uitoefening van de visserij op de Noordatlantische Oceaan, met Bijlagen en Aanhangsel;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 1. Deze wet verstaat onder:
 
-- a. "het Verdrag": het op 1 juni 1967 te Londen tot stand gekomen Verdrag inzake de uitoefening van de visserij op de Noordatlantische Oceaan, met Bijlagen en Aanhangsel (**Trb.** 1968, 54);
+- a. "het Verdrag": het op 1 juni 1967 te Londen tot stand gekomen Verdrag inzake de uitoefening van de visserij op de Noordatlantische Oceaan, met Bijlagen en Aanhangsel (*Trb.* 1968, 54);
 
 - b. "vissersvaartuig": elk vaartuig dat bedrijfsmatig wordt gebruikt voor de visserij op die delen van de Atlantische Oceaan en de Noordelijke IJszee, en de daarmede in verbinding staande zeeën, waarop het Verdrag van toepassing is;
 
@@ -89,7 +62,7 @@ De schipper van een Nederlands vaartuig is verplicht de voorschriften in acht te
 
 ##### Artikel 8
 
-De [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=7&z=2025-07-01&g=2025-07-01) van deze wet zijn van overeenkomstige toepassing op de schippers van vaartuigen die de nationaliteit bezitten van een andere staat die partij is bij dit Verdrag, indien het vaartuig zich bevindt in de visserijzone, bedoeld in [artikel 1, vierde lid, onder a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
+De [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=3&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=5&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=7&z=2025-07-01&g=2025-07-01) van deze wet zijn van overeenkomstige toepassing op de schippers van vaartuigen die de nationaliteit bezitten van een andere staat die partij is bij dit Verdrag, indien het vaartuig zich bevindt in de visserijzone, bedoeld in [artikel 1, vierde lid, onder a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
 
 ##### Artikel 9
 
@@ -103,7 +76,7 @@ Met het toezicht op de naleving van de bepalingen van het Verdrag zijn belast de
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -115,7 +88,7 @@ Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn belast:
 
 ##### Artikel 13
 
-1. De Wet van 7 december 1883, **Stb.** 202, ter uitvoering van de op 6 mei 1882 te 's-Gravenhage gesloten overeenkomst tot regeling van de politie der visserij in de Noordzee, buiten de territoriale wateren, wordt ingetrokken.
+1. De Wet van 7 december 1883, *Stb.* 202, ter uitvoering van de op 6 mei 1882 te 's-Gravenhage gesloten overeenkomst tot regeling van de politie der visserij in de Noordzee, buiten de territoriale wateren, wordt ingetrokken.
 
 2. Indien voor het vaartuig een verklaring is afgegeven overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=4&z=2025-07-01&g=2025-07-01) van genoemde wet, vervangt die verklaring het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2&z=2025-07-01&g=2025-07-01), van deze wet bedoelde document, zolang nog geen vijf jaar verstreken zijn na het tijdstip van inwerkingtreding van deze wet.
 
@@ -126,5 +99,3 @@ Deze wet kan worden aangehaald als: Uitvoeringswet Visserijverdrag 1967.
 ##### Artikel 15
 
 Deze wet treedt in werking met ingang van de dag waarop het Verdrag van Londen van 1 juni 1967 inzake de uitoefening van de visserij op de Noordatlantische Oceaan voor Nederland in werking treedt.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

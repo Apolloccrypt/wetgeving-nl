@@ -1,42 +1,17 @@
 ---
 title: "Toepassing van artikel 15 van de Wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf"
 identifier: "BWBR0003531"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1979-01-01"
-last_updated: "1979-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003531"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8464753"
-version_id: "13349322"
-internal_id: "C18458061"
-label_id: "8445284"
-dtd_version: "2.0"
-original_entry_into_force: "1979-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003531/1979-01-01/0"
-intitule_bron: "Infob.1982-11"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-11-09"
-intitule_published: "1982-01-01"
-intitule_in_force: "1982-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1982-11"
-original_signed_date: "1982-11-09"
-original_published_date: "1982-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1979-01-01"
-jci_1_3: "jci1.3:c:BWBR0003531&z=1979-01-01&g=1979-01-01"
-jci_1_0: "1.0:c:BWBR0003531&g=1979-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1982-11-09"
-entry_into_force: "1979-01-01"
+publicatiedatum: 1979-01-01
+laatste_update: 1979-01-01
+status: geldig
+toestand: 1979-01-01
+bron: "https://wetten.overheid.nl/BWBR0003531"
+opgehaald: 2026-07-30
 ---
+
 # Toepassing van artikel 15 van de Wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf
-
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Toepassing van artikel 15 van de wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf
 
@@ -57,6 +32,28 @@ In dit verband merk ik op dat in gevallen waarin een onroerend goed mede gebruik
 Het ontmoet bij mij geen bezwaar dat als de voor de aftrek van voorbelasting relevante omzetverhouding in een bepaald jaar voorshands wordt genomen die verhouding, zoals die geldt in het voorvorige jaar. Uiterlijk bij de aangifte over het tijdvak waarin de negende maand van het boekjaar valt, dient een herziening van de aftrek van voorbelasting met betrekking tot het voorafgaande jaar plaats te vinden. Bij deze aangifte wordt tevens de in het lopende jaar in aftrek gebrachte belasting voorlopig herzien op basis van de omzetverhouding van het voorafgaande jaar. In het resterende deel van het lopende jaar wordt eveneens deze omzetverhouding voorlopig tot uitgangspunt genomen.
 
 4. Met betrekking tot het bepalen van de voor de aftrek van voorbelasting relevante omzetverhouding merk ik het volgende op:
+
+- a. Als vergoeding voor het verlenen van krediet, met inbegrip van rente-arbitrage, komt in aanmerking de dienaangaande onder de naam rente, provisie, e.d. ontvangen bedragen. Op deze bedragen mogen niet in mindering worden gebracht de door de bank betaalde rente e.d. wegens het verwerven van de voor de kredietverlening benodigde middelen.
+
+- b. Als vergoeding voor valuta-arbitrage komt in aanmerking het saldo van de inkoopprijs en de verkoopprijs (eventueel inclusief provisie) van de valuta. Slechts de aan de bank toekomende marge behoort derhalve tot de vergoeding gerekend te worden. De berekening van de aldus bepaalde vergoeding van prestaties jegens cliënten die binnen en buiten de lid-staten van de Europese Gemeenschappen wonen of gevestigd zijn dient te geschieden naar rato van de vergoeding voor de verkopen van de valuta aan beide categorieën cliënten. De vergoeding voor het omwisselen van geld aan de balie dient op dezelfde wijze te worden bepaald. Deze vergoeding dient volledig aan de vrijgestelde prestaties te worden toegerekend, aangezien de woon- of vestigingsplaats van de clinten in het algemeen niet bekend zal zijn.
+
+- c. Als vergoeding voor de aankopen en verkopen van effecten ten behoeve van derden komt in aanmerking de daarvoor ontvangen provisie, in voorkomende gevallen vermeerderd met het saldo van de verkoopprijs en de inkoopprijs van de effecten. Aldus wordt als vergoeding gerekend de ‘bruto-winst’ die de bank met de effectentransacties behaalt. De verkopen van effecten door een bank uit eigen portefeuille kunnen gelet op het relatief geringe belang van dergelijke transacties bij de bepaling van de voor de aftrek relevante omzetverhouding buiten beschouwing blijven. De op obligaties in eigen portefeuille ontvangen rente dient op de normale wijze als vergoeding in aanmerking te worden genomen. De op aandelen van deelnemingen ontvangen dividenden dienen evenwel niet tot de voor de omzetverhouding relevante vergoedingen te worden gerekend.
+
+- d. Als vergoeding voor de verkoop van goud en zilver, alsmede de uit deze metalen vervaardigde munten komt in aanmerking de aan de kopers van deze goederen in rekening gebrachte bedragen. Wellicht ten overvloede zij opgemerkt dat de voorbelasting op deze goederen, zo de levering daarvan niet vrijgesteld is, volledig in aftrek gebracht kan worden overeenkomstig het onder 2 bepaalde.
+
+- e. In een aantal gevallen ontvangen banken bedragen voor prestaties die niet eigen zijn aan het bankbedrijf dan wel binnen de uitoefening van dat bedrijf in het algemeen van bijkomstige aard. Te denken valt hierbij met name aan: De op deze handelingen betrekking hebbende vergoedingen behoren buiten aanmerking te blijven bij het vaststellen van de omzetverhouding voor de bepaling van de aftrek van voorbelasting op ‘gemengd’ gebruikte goederen en diensten. De omzetbelasting, die op de voor de hierbedoelde prestaties gebruikte goederen drukt, is aftrekbaar volgens de normale bepalingen inzake de aftrek van voorbelasting met dien verstande dat ten aanzien van de huisvestingskosten en dergelijke ter zake van het verstrekken van spijzen en dranken aan het personeel de onder sub 3 bedoelde algemene omzetverhouding tot uitgangspunt wordt genomen. Zo zal de omzetbelasting die door de debiteur in rekening gebracht wordt ter zake van diens levering ex artikel 3, lid 1, letter e, van de wet, van de door de bank als fiduciair eigenaar verkochte goederen, volledig in aftrek kunnen worden gebracht, als de levering door de bank belast is met omzetbelasting. In gevallen van levering van als bedrijfsmiddel gebruikte goederen zal in voorkomende gevallen artikel 13a van meergenoemde beschikking toepassing kunnen vinden.
+
+   - – het verkopen en verhuren van onroerende goederen of delen daarvan;
+
+   - – het leveren van in eigen bedrijf vervaardigde goederen op grond van artikel 3, lid 1, letter h, van de wet;
+
+   - – het verkopen van goederen, die aan de bank tot zekerheid in eigendom zijn overgedragen;
+
+   - – het verkopen van goederen, die als bedrijfsmiddel zijn gebruikt;
+
+   - – de exploitatie van bedrijfskantines (het verstrekken van spijzen en dranken aan personeel).
+
+- f. In de praktijk blijken banken in toenemende mate over te gaan tot het verschaffen van kredietfaciliteiten door middel van de verhuur van bedrijfsmiddelen op grond van een overeenkomst van finance lease. Naar mijn oordeel dienen, nu het hier uit bancair oogpunt gaat om het verstrekken van krediet, slechts de in de huur- en leasetermijnen begrepen bedragen aan rente in aanmerking te worden genomen bij de vaststelling van de omzetverhouding voor de bepaling van de aftrek van voorbelasting op ‘gemengd’ gebruikte goederen en diensten. Indien en voor zover gebruik gemaakt wordt van de in de aanschrijving van 6 februari 1969, nr. D69/786 (OB-BTW-76) vervatte mogelijkheid de in de termijnen begrepen bedragen aan rente buiten de heffing van omzetbelasting te laten, zullen deze rentebedragen moeten worden aangemerkt als vrijgestelde omzet. In de overige gevallen zal ook over de in de termijnen begrepen rente omzetbelasting verschuldigd zijn, zodat in zoverre sprake is van belaste omzet. De op de verhuurde of ter beschikking gestelde goederen drukkende omzetbelasting kan weer op de gewone wijze in af trek worden gebracht. Aangezien ter zake van de verhuur of de terbeschikkingstelling in het algemeen omzetbelasting is verschuldigd, zal de op de goederen drukken omzetbelasting dan volledig voor aftrek in aanmerking komen.
 
 5. De vorenstaande regels met betrekking tot het bepalen van de aftrek van voorbelasting ten aanzien van bancaire prestaties dienen te worden toegepast per bank. In gevallen waarin binnen een fiscale eenheid voor de omzetbelasting meerdere banken werkzaam zijn, kunnen genoemde regels ook worden toegepast per afzonderlijk bankbedrijf, dat in het maatschappelijk verkeer als zodanig optreedt, een eigen administratie voert en wat betreft de bedrijfsuitoefening niet geïntegreerd is met andere tot de fiscale eenheid behorende bankbedrijven.
 

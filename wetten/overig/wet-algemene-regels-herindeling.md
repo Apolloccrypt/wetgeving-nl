@@ -1,43 +1,18 @@
 ---
 title: "Wet van 24 oktober 1984, houdende algemene regelen in verband met wijziging van de gemeentelijke indeling"
+citeertitel: "Wet algemene regels herindeling"
 identifier: "BWBR0003718"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003718"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "2753463"
-version_id: "4210072"
-internal_id: "C4210071"
-label_id: "2701454"
-dtd_version: "2.0"
-original_entry_into_force: "1984-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003718/2024-01-01/0"
-intitule_bron: "Stb.1984-475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-10-24"
-intitule_status: "goed"
-original_publication: "Stb.1984-475"
-original_signed_date: "1984-10-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "16405"
-entry_into_force_date: "1984-11-08"
-jci_1_3: "jci1.3:c:BWBR0003718&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0003718&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet algemene regels herindeling"
-signed_date: "1984-10-24"
-entry_into_force: "1984-11-08"
+publicatiedatum: 1984-11-08
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0003718"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 24 oktober 1984, houdende algemene regelen in verband met wijziging van de gemeentelijke indeling
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is algemene regelen te stellen die bij wijziging van de gemeentelijke indeling van toepassing zijn;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -251,27 +226,27 @@ Een herindelingsontwerp vastgesteld met toepassing van dit hoofdstuk wordt teven
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Rechtskracht voorschriften en uitoefening bevoegdheden
 
@@ -307,7 +282,7 @@ De op de dag, voorafgaande aan de datum van herindeling, geldende besluiten tot 
 
 ##### Artikel 32a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
@@ -367,11 +342,17 @@ Onverminderd de [artikelen 226](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
 Voor zover aan een gemeenschappelijke regeling als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=V&artikel=41&z=2024-01-01&g=2024-01-01), wordt deelgenomen door een provincie en die regeling mede betrekking heeft op gebied dat ingevolge een herindelingsregeling naar een andere provincie overgaat, is artikel 41, derde, vierde, zesde en zevende lid, van overeenkomstige toepassing ten aanzien van de betrokken provincies.
+
+##### Artikel 43a
+
+1. In afwijking van [artikel 81p van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p) kan de raad van een nieuwe gemeente op uiterlijk 15 januari van het jaar waarin de gemeente is ingesteld, de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), opdragen aan een gemeentelijke ombudsman of ombudscommissie, dan wel een gezamenlijke ombudsman of ombudscommissie. Het besluit werkt terug tot en met de datum van herindeling.
+
+2. Indien de raad een besluit als bedoeld in het eerste lid neemt, zendt hij dit binnen een week aan de Nationale ombudsman.
 
 ### Hoofdstuk VI. Overgang rechten en verplichtingen
 
@@ -381,7 +362,7 @@ Voor zover aan een gemeenschappelijke regeling als bedoeld in [artikel 41, derde
 
 2. Alle rechten en verplichtingen van een gemeente, betrekking hebbende op van die gemeente overgaand gebied, gaan op de datum van herindeling over op de gemeente waaraan dat gebied wordt toegevoegd, zonder dat daarvoor een nadere akte wordt gevorderd.
 
-3. Wettelijke procedures en rechtsgedingen waarbij een gemeente waarvan gebied overgaat betrokken is, worden met ingang van de datum van herindeling voortgezet door of tegen de gemeente waaraan dat gebied wordt toegevoegd, voor zover krachtens het eerste en tweede lid de in deze leden bedoelde rechten en verplichtingen op die gemeente overgaan. Ten aanzien van de rechtsgedingen is de [elfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) van overeenkomstige toepassing.
+3. Wettelijke procedures en rechtsgedingen waarbij een gemeente waarvan gebied overgaat betrokken is, worden met ingang van de datum van herindeling voortgezet door of tegen de gemeente waaraan dat gebied wordt toegevoegd, voor zover krachtens het eerste en tweede lid de in deze leden bedoelde rechten en verplichtingen op die gemeente overgaan. Ten aanzien van de rechtsgedingen is de elfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.
 
 4. Gedeputeerde staten van de betrokken provincie doen, ingeval op grond van het eerste en tweede lid registergoederen overgaan, de overgang van de betrokken registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
 
@@ -437,6 +418,8 @@ Bij wijziging van een provinciegrens is [artikel 48](https://wetten.overheid.nl/
 
 ### Hoofdstuk VII. Verkiezing vertegenwoordigend lichaam
 
+#### Paragraaf 1. Algemene bepalingen
+
 ##### Artikel 52
 
 Bij een wijziging van de gemeentelijke indeling vinden tussentijdse raadsverkiezingen plaats. Indien een nieuwe gemeente wordt ingesteld is de naar inwoneraantal grootste gemeente die opgaat in de nieuwe gemeente met de voorbereiding daarvan belast.
@@ -445,11 +428,11 @@ Bij een wijziging van de gemeentelijke indeling vinden tussentijdse raadsverkiez
 
 1. De op de dag, voorafgaande aan de datum van herindeling, zitting hebbende leden van de raad van een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, treden met ingang van die datum af.
 
-2. Indien op de datum van herindeling niet de goedkeuring van de geloofsbrieven van meer dan de helft van de leden van de raad onherroepelijk is geworden, aanvaarden de leden van de raad hun ambt niet, totdat zulks het geval is. Gedurende deze tijd hebben de leden van de raad en de wethouders van de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast zitting als leden van de raad onderscheidenlijk als wethouders. De raad en het college van burgemeester en wethouders nemen gedurende deze tijd slechts besluiten welke geen uitstel kunnen lijden.
+2. Indien op de datum van herindeling niet de goedkeuring van de geloofsbrieven van meer dan de helft van de leden van de raad onherroepelijk is geworden, aanvaarden de leden van de raad hun ambt niet, totdat zulks het geval is. Gedurende deze tijd hebben de leden van de raad en de wethouders van de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast zitting als leden van de raad onderscheidenlijk als wethouders. De raad en het college van burgemeester en wethouders nemen gedurende deze tijd slechts besluiten welke geen uitstel kunnen lijden.
 
 ##### Artikel 54
 
-1. Burgemeester en wethouders van een gemeente waarvan gebied overgaat naar een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, zenden op een door gedeputeerde staten van de provincie waarvan laatstbedoelde gemeente deel uitmaakt of zal uitmaken, te bepalen datum aan burgemeester en wethouders van deze gemeente onderscheidenlijk de gemeente die ingevolge artikel 52, tweede volzin, met de voorbereiding van de tussentijdse raadsverkiezing is belast een opgave van de op bedoelde datum geregistreerde kiesgerechtigde personen welke op die datum in het overgaande gebied werkelijke woonplaats hebben.
+1. Burgemeester en wethouders van een gemeente waarvan gebied overgaat naar een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, zenden op een door gedeputeerde staten van de provincie waarvan laatstbedoelde gemeente deel uitmaakt of zal uitmaken, te bepalen datum aan burgemeester en wethouders van deze gemeente onderscheidenlijk de gemeente die ingevolge artikel 52, tweede volzin, met de voorbereiding van de tussentijdse raadsverkiezing is belast een opgave van de op bedoelde datum geregistreerde kiesgerechtigde personen welke op die datum in het overgaande gebied werkelijke woonplaats hebben.
 
 2. Indien tussen de in het eerste lid bedoelde datum en de dag van kandidaatstelling, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), veranderingen optreden in de registratie van kiesgerechtigden die werkelijke woonplaats hebben of verkrijgen in de gemeente of het deel van de gemeente waarop een opgave als bedoeld in het eerste lid betrekking heeft, worden deze veranderingen onverwijld ter kennis gebracht van burgemeester en wethouders aan wie die opgave is gezonden, waarna dit college deze veranderingen in de opgave aanbrengt.
 
@@ -457,7 +440,7 @@ Bij een wijziging van de gemeentelijke indeling vinden tussentijdse raadsverkiez
 
 1. De raad van een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, zal bestaan uit het door gedeputeerde staten van de betrokken provincie met toepassing van [artikel 8 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=8) te bepalen aantal leden. Daartoe wordt het inwonertal van een gemeente bepaald aan de hand van de door het Centraal Bureau voor de Statistiek bekend gemaakte gegevens betreffende de bevolkingscijfers per 1 januari van het jaar waarin de verkiezing plaatsvindt.
 
-2. De kandidaatstelling vindt plaats op de maandag in de periode van 5 tot en met 11 oktober voorafgaand aan de datum van herindeling. De stemming vindt plaats op de vierenveertigste dag na de kandidaatstelling.
+2. De kandidaatstelling vindt plaats op de maandag in de periode van 5 tot en met 11 oktober voorafgaand aan de datum van herindeling. De stemming vindt plaats op de vierenveertigste dag na de kandidaatstelling.
 
 Gedeputeerde staten kunnen, indien zwaarwegende redenen verband houdend met de dag van kandidaatstelling of met de dag van stemming daartoe nopen, bepalen dat de kandidaatstelling op een andere datum plaatsvindt, met dien verstande dat de stemming voor de datum van herindeling plaatsvindt.
 
@@ -465,21 +448,61 @@ Gedeputeerde staten kunnen, indien zwaarwegende redenen verband houdend met de d
 
 4. Indien het een nieuwe gemeente betreft worden bij de nummering van de kandidatenlijsten in afwijking van [artikel I 14, eerste lid, eerste volzin, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_14) eerst genummerd de lijsten van politieke groeperingen wier aanduiding was geplaatst boven een kandidatenlijst waaraan bij de laatstgehouden verkiezing van de raad van de gemeente die met de voorbereiding van de verkiezing is belast, een of meer zetels zijn toegekend.
 
-5. Als kiesgerechtigden worden geacht te zijn geregistreerd degenen die als zodanig zijn geregistreerd in de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast, nadat daaraan zijn toegevoegd de personen die voorkomen op de ingevolge [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=54&z=2024-01-01&g=2024-01-01), ontvangen opgaven zoals deze luiden na toepassing van het tweede lid van dat artikel, en daarvan zijn afgevoerd de personen die op de dag van kandidaatstelling, bedoeld in het tweede lid, werkelijke woonplaats hebben in het deel der gemeente dat op de datum van herindeling naar een andere gemeente overgaat.
+5. Als kiesgerechtigden worden geacht te zijn geregistreerd degenen die als zodanig zijn geregistreerd in de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast, nadat daaraan zijn toegevoegd de personen die voorkomen op de ingevolge [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=54&z=2024-01-01&g=2024-01-01), ontvangen opgaven zoals deze luiden na toepassing van het tweede lid van dat artikel, en daarvan zijn afgevoerd de personen die op de dag van kandidaatstelling, bedoeld in het tweede lid, werkelijke woonplaats hebben in het deel der gemeente dat op de datum van herindeling naar een andere gemeente overgaat.
 
-6. De benoeming van de leden en de plaatsvervangende leden van de centraal stembureaus, van de gemeentelijk stembureaus en van de stembureaus geschiedt voor een door gedeputeerde staten te bepalen datum door burgemeester en wethouders van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast. De benoeming van de leden en de plaatsvervangende leden van de centraal stembureaus geschiedt, in afwijking van het bepaalde in [artikel E 15, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=E_15), voor een periode tot en met 31 december van het jaar voorafgaande aan het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden.
+6. De benoeming van de leden en de plaatsvervangende leden van de centraal stembureaus, van de gemeentelijk stembureaus en van de stembureaus geschiedt voor een door gedeputeerde staten te bepalen datum door burgemeester en wethouders van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast. De benoeming van de leden en de plaatsvervangende leden van de centraal stembureaus geschiedt, in afwijking van het bepaalde in [artikel E 15, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=E_15), voor een periode tot en met 31 december van het jaar voorafgaande aan het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden.
 
-7. Voor zover ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, door burgemeester en wethouders of door de burgemeester, geschiedt dit door de raad, burgemeester en wethouders of de burgemeester van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast.
+7. Voor zover ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, door burgemeester en wethouders of door de burgemeester, geschiedt dit door de raad, burgemeester en wethouders of de burgemeester van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast.
 
 ##### Artikel 56
 
 1. Voor de toepassing van [artikel 10 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=10) ten aanzien van het lidmaatschap van de raad van een gemeente waarvoor een verkiezing als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) wordt gehouden, worden onder ingezetenen verstaan zij die werkelijke woonplaats hebben in het gebied dat met ingang van de datum van herindeling het grondgebied van de betrokken gemeente vormt.
 
-2. Het onderzoek van de geloofsbrieven van de benoemde raadsleden geschiedt vóór een door gedeputeerde staten van de betrokken provincie te bepalen datum door de raad van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk van de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast.
+2. Het onderzoek van de geloofsbrieven van de benoemde raadsleden geschiedt vóór een door gedeputeerde staten van de betrokken provincie te bepalen datum door de raad van de bij een wijziging van de gemeentelijke indeling betrokken gemeente die niet wordt opgeheven onderscheidenlijk van de gemeente die ingevolge [artikel 52, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01), met de voorbereiding van de tussentijdse raadsverkiezing is belast.
 
 3. De eerste vergadering van de raad wordt gehouden op de eerste werkdag, volgende op de datum van herindeling. In deze vergadering worden de wethouders benoemd. In het geval, bedoeld in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=53&z=2024-01-01&g=2024-01-01), wordt de eerste vergadering van de nieuw gekozen raad gehouden zo spoedig mogelijk nadat veertien dagen zijn verlopen na de onherroepelijke goedkeuring van de geloofsbrieven van meer dan de helft van de leden van de raad.
 
-### Hoofdstuk VIII. Rechtspositie van personeel
+#### Paragraaf 2. Wijziging van de zittingsduur gemeenteraad voorafgaand aan de datum van herindeling
+
+##### Artikel 56a
+
+Deze paragraaf is van toepassing op gemeenten waarvoor in de periode van 1 oktober tot en met 31 december van het jaar voorafgaande aan het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden een voorstel van wet tot wijziging van de gemeentelijke indeling is ingediend bij de Tweede Kamer der Staten-Generaal.
+
+##### Artikel 56b
+
+1. De verkiezing van de leden van de gemeenteraad in het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden en waarvoor de kandidaatstelling plaatsvindt op de dag, bedoeld in [artikel F 1, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=F_1), blijft achterwege.
+
+2. De zittingsduur van de leden van de raad wordt verlengd tot 1 januari van het jaar volgend op het jaar waarin de verkiezing, bedoeld in het eerste lid, achterwege blijft.
+
+##### Artikel 56c
+
+Indien de datum van herindeling volgt op het jaar waarin reguliere gemeenteraadsverkiezingen hebben plaatsgevonden, eindigt de zittingsduur van de leden van de ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) gekozen raad tegelijk met de zittingsduur van de leden van de raden van de overige gemeenten die zitting hebben op de datum van herindeling.
+
+##### Artikel 56d
+
+1. Indien een voorstel van wet als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) niet uiterlijk op de donderdag in de periode van 17 september tot en met 23 september in het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden tot wet is verheven en in werking is getreden, vindt de kandidaatstelling voor de verkiezing van de leden van de raad van een gemeente, genoemd in dat wetsvoorstel, plaats op de maandag in de periode van 5 tot en met 11 oktober van dat jaar. [Artikel 55, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), is van toepassing.
+
+2. In het geval, bedoeld in het eerste lid, gelden in afwijking van de [artikelen G 1 tot en met G 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1) de volgende tijdstippen:
+
+- a. de in de [artikelen G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), en [G 2, achtste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2) bedoelde kennisgeving, voorafgaande aan de kandidaatstelling voor de verkiezing van de raad van een gemeente als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) vindt plaats op de veertiende dag voor die kandidaatstelling.
+
+- b. de in artikel [G 3, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3) bedoelde verzoeken tot registratie van aanduidingen van politieke groeperingen van de raad van een gemeente als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) ingediend na de veertiende dag voor die kandidaatstelling blijven voor de daaropvolgende raadsverkiezing buiten beschouwing.
+
+- c. de in [artikel G 4, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_4) bedoelde beslissing, vindt uiterlijk plaats op de elfde dag voor die kandidaatstelling.
+
+- d. de in [artikel G 5, eerste lid, onderdelen b en c, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_5) bedoelde beschikkingen worden uiterlijk op de zevende dag voor de kandidaatstelling genomen.
+
+3. De zittingsduur van de leden van de ingevolge het eerste lid gekozen raad eindigt tegelijk met de zittingsduur van de leden van de raden van de overige gemeenten die zitting hebben op 1 januari van het jaar volgend op het jaar waarin de reguliere gemeenteraadsverkiezing heeft plaatsgevonden.
+
+#### Paragraaf 3. Wijziging zittingsduur gemeenteraad na de datum van herindeling
+
+##### Artikel 56e
+
+1. Indien de datum van herindeling valt binnen drie jaar voor de datum van de reguliere gemeenteraadsverkiezingen blijven deze verkiezingen in de betrokken gemeenten achterwege.
+
+2. De zittingsduur van de leden van de ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) gekozen raad eindigt in de in het eerste lid bedoelde situatie tegelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste reguliere gemeenteraadsverkiezingen na de datum van herindeling.
+
+### Hoofdstuk VIII. Rechtspositie van het personeel
 
 ##### Artikel 57
 
@@ -491,7 +514,7 @@ Gedeputeerde staten kunnen, indien zwaarwegende redenen verband houdend met de d
 
 ##### Artikel 57a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
@@ -529,23 +552,23 @@ In het geval van een grenscorrectie gaat op de datum van herindeling het persone
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
 
@@ -615,11 +638,11 @@ Een herindelingsregeling heeft geen beperking ten gevolge van het gebied waarbin
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk X. Voorbereiding van de overgang
 
@@ -633,75 +656,75 @@ Vervallen
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 81
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk XII. Kernbepalingen met betrekking tot wijziging van de provinciale indeling
 
 ##### Artikel 87
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk XIII. Slotbepalingen
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 97
 
@@ -709,84 +732,4 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 98
 
-Deze wet wordt aangehaald als: Wet algemene regels herindeling.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 43a
-
-1. In afwijking van [artikel 81p van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p) kan de raad van een nieuwe gemeente op uiterlijk 15 januari van het jaar waarin de gemeente is ingesteld, de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), opdragen aan een gemeentelijke ombudsman of ombudscommissie, dan wel een gezamenlijke ombudsman of ombudscommissie. Het besluit werkt terug tot en met de datum van herindeling.
-
-2. Indien de raad een besluit als bedoeld in het eerste lid neemt, zendt hij dit binnen een week aan de Nationale ombudsman.
-
-### Hoofdstuk VI. Overgang rechten en verplichtingen
-
-### Hoofdstuk VII. Verkiezing vertegenwoordigend lichaam
-
-### Hoofdstuk VIII. Rechtspositie van personeel
-
-### Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
-
-### Hoofdstuk X. Voorbereiding van de overgang
-
-### Hoofdstuk XI. Kernbepalingen met betrekking tot wijziging van de gemeentelijke indeling en grenscorrectie
-
-### Hoofdstuk XI. Kernbepalingen met betrekking tot wijziging van de gemeentelijke indeling en grenscorrectie
-
-### Hoofdstuk XIII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Wijziging van de zittingsduur gemeenteraad voorafgaand aan de datum van herindeling
-
-##### Artikel 56a
-
-Deze paragraaf is van toepassing op gemeenten waarvoor in de periode van 1 oktober tot en met 31 december van het jaar voorafgaande aan het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden een voorstel van wet tot wijziging van de gemeentelijke indeling is ingediend bij de Tweede Kamer der Staten-Generaal.
-
-##### Artikel 56b
-
-1. De verkiezing van de leden van de gemeenteraad in het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden en waarvoor de kandidaatstelling plaatsvindt op de dag, bedoeld in [artikel F 1, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=F_1), blijft achterwege.
-
-2. De zittingsduur van de leden van de raad wordt verlengd tot 1 januari van het jaar volgend op het jaar waarin de verkiezing, bedoeld in het eerste lid, achterwege blijft.
-
-##### Artikel 56c
-
-Indien de datum van herindeling volgt op het jaar waarin reguliere gemeenteraadsverkiezingen hebben plaatsgevonden, eindigt de zittingsduur van de leden van de ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) gekozen raad tegelijk met de zittingsduur van de leden van de raden van de overige gemeenten die zitting hebben op de datum van herindeling.
-
-##### Artikel 56d
-
-1. Indien een voorstel van wet als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) niet uiterlijk op de donderdag in de periode van 17 september tot en met 23 september in het jaar waarin de reguliere gemeenteraadsverkiezingen plaatsvinden tot wet is verheven en in werking is getreden, vindt de kandidaatstelling voor de verkiezing van de leden van de raad van een gemeente, genoemd in dat wetsvoorstel, plaats op de maandag in de periode van 5 tot en met 11 oktober van dat jaar. [Artikel 55, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), is van toepassing.
-
-2. In het geval, bedoeld in het eerste lid, gelden in afwijking van de [artikelen G 1 tot en met G 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1) de volgende tijdstippen:
-
-- a. de in de [artikelen G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), en [G 2, achtste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2) bedoelde kennisgeving, voorafgaande aan de kandidaatstelling voor de verkiezing van de raad van een gemeente als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) vindt plaats op de veertiende dag voor die kandidaatstelling.
-
-- b. de in artikel [G 3, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3) bedoelde verzoeken tot registratie van aanduidingen van politieke groeperingen van de raad van een gemeente als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=2&artikel=56a&z=2024-01-01&g=2024-01-01) ingediend na de veertiende dag voor die kandidaatstelling blijven voor de daaropvolgende raadsverkiezing buiten beschouwing.
-
-- c. de in [artikel G 4, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_4) bedoelde beslissing, vindt uiterlijk plaats op de elfde dag voor die kandidaatstelling.
-
-- d. de in [artikel G 5, eerste lid, onderdelen b en c, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_5) bedoelde beschikkingen worden uiterlijk op de zevende dag voor de kandidaatstelling genomen.
-
-3. De zittingsduur van de leden van de ingevolge het eerste lid gekozen raad eindigt tegelijk met de zittingsduur van de leden van de raden van de overige gemeenten die zitting hebben op 1 januari van het jaar volgend op het jaar waarin de reguliere gemeenteraadsverkiezing heeft plaatsgevonden.
-
-#### Paragraaf 3. Wijziging zittingsduur gemeenteraad na de datum van herindeling
-
-##### Artikel 56e
-
-1. Indien de datum van herindeling valt binnen drie jaar voor de datum van de reguliere gemeenteraadsverkiezingen blijven deze verkiezingen in de betrokken gemeenten achterwege.
-
-2. De zittingsduur van de leden van de ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&hoofdstuk=VII&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) gekozen raad eindigt in de in het eerste lid bedoelde situatie tegelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste reguliere gemeenteraadsverkiezingen na de datum van herindeling.
-
-### Hoofdstuk VIII. Rechtspositie van het personeel
-
-### Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
-
-### Hoofdstuk X. Voorbereiding van de overgang
-
-### Hoofdstuk XII. Kernbepalingen met betrekking tot wijziging van de provinciale indeling
-
-### Hoofdstuk XIII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet wordt aangehaald als: [Wet algemene regels herindeling](https://wetten.overheid.nl/BWBR0003718).

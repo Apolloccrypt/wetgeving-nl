@@ -1,40 +1,17 @@
 ---
 title: "Wet van 4 februari 1981, houdende instelling van het ambt van Nationale ombudsman en wijziging van een aantal wetten"
+citeertitel: "Wet Nationale ombudsman"
 identifier: "BWBR0003372"
-country: "nl"
-rank: "wet"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003372"
+categorie: "Overig"
 soort: "wet"
-stam_id: "898593"
-version_id: "19310952"
-internal_id: "C26967301"
-label_id: "871814"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003372/2022-07-01/0"
-intitule_bron: "Stb.1981-35"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-02-04"
-intitule_published: "1981-02-24"
-intitule_status: "goed"
-original_publication: "Stb.2012-133"
-original_signed_date: "2012-02-11"
-original_published_date: "2012-03-30"
-original_effect: "structuurwijziging"
-original_dossier: "32414"
-original_url_id: "stb-2012-133"
-entry_into_force_date: "2012-02-11"
-entry_into_force_dossier: "32414"
-jci_1_3: "jci1.3:c:BWBR0003372&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0003372&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet Nationale ombudsman"
-signed_date: "2012-02-11"
-entry_into_force: "2012-02-11"
+publicatiedatum: 2012-02-11
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0003372"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 4 februari 1981, houdende instelling van het ambt van Nationale ombudsman en wijziging van een aantal wetten
 
 ### Hoofdstuk I. Begripsbepalingen en toepassingsbereik
@@ -45,7 +22,7 @@ Deze wet verstaat onder:
 
 - a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2022-07-01&g=2022-07-01);
 
-- b. **Kinderombudsman:** de als zodanig aangewezen substituut-ombudsman, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2022-07-01&g=2022-07-01);
+- b. *Kinderombudsman:* de als zodanig aangewezen substituut-ombudsman, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2022-07-01&g=2022-07-01);
 
 - c. veteranenombudsman: de ombudsman voor zover hij optreedt als bedoeld in [hoofdstuk IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIb&z=2022-07-01&g=2022-07-01), of de als zodanig aangewezen substituut-ombudsman bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2022-07-01&g=2022-07-01);
 
@@ -88,6 +65,10 @@ Deze wet verstaat onder:
 - b. de wijze van betaling van de verschuldigde vergoeding;
 
 - c. het tijdstip waarop de verschuldigde vergoeding dient te zijn voldaan.
+
+##### Artikel 1d
+
+De [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1b&z=2022-07-01&g=2022-07-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1c&z=2022-07-01&g=2022-07-01) zijn niet van toepassing op de Kinderombudsman of de Veteranenombudsman, voor zover die als zodanig optreedt.
 
 ### Hoofdstuk II. De Nationale Ombudsman
 
@@ -165,7 +146,7 @@ De bepalingen van de [Algemene pensioen- en uitkeringswet politieke ambtsdragers
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -219,155 +200,13 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 ### Hoofdstuk IIa. De Kinderombudsman
 
-##### Artikel 12
-
-De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), in te stellen of voort te zetten indien een verzoekschrift, dezelfde gedraging betreffende, in behandeling is bij een tot de behandeling van verzoekschriften bevoegde commissie uit de Eerste of Tweede Kamer of uit de verenigde vergadering der Staten-Generaal of – behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over de bedoelde gedraging zou hebben kunnen leiden – daarover door de betrokken commissie haar conclusie op een verzoekschrift aan de Eerste of Tweede Kamer dan wel de verenigde vergadering der Staten-Generaal is voorgesteld.
-
-##### Artikel 13
-
-[Artikel 9:31, eerste lid, derde volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:31) is niet van toepassing op Onze Ministers.
-
-##### Artikel 14
-
-Onze Ministers kunnen aan de ombudsman het betreden van bepaalde plaatsen verbieden, indien dit naar hun oordeel de veiligheid van de staat zou schaden.
-
-##### Artikel 15
-
-De ombudsman kan bevelen dat personen die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht voor hem worden gebracht om aan hun verplichtingen te voldoen.
-
-##### Artikel 16
-
-1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
-
-2. De ombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.
-
-3. De ombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal, vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en algemene besturen van gemeenschappelijke regelingen inlichten omtrent zijn bevindingen en oordeel, zo dikwijls hij de eerdere kennisneming daarvan voor het betreffende orgaan van belang acht of een orgaan als hiervoor bedoeld dit verzoekt.
-
-##### Artikel 17
-
-De voordrachten voor ter uitvoering van deze wet te nemen koninklijke besluiten worden gedaan door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
-
-##### Artikel 18
-
-Indien provincies, gemeenten, openbare lichamen, waterschappen of gemeenschappelijke regelingen een eigen voorziening voor de behandeling van verzoekschriften hebben ingesteld als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), blijft de ombudsman bevoegd verzoekschriften ten aanzien van hun bestuursorganen te behandelen die voor de ingangsdatum van de eigen voorziening door hem zijn ontvangen.
-
-##### Artikel 19
-
-Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat het desbetreffende bestuursorgaan is uitgezonderd, een verzoekschrift bij de ombudsman worden ingediend.
-
-##### Artikel 20
-
-Deze wet wordt aangehaald als: Wet Nationale ombudsman.
-
-##### Artikel 21
-
-1. Oproepingen ingevolge de[artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=20&z=2003-06-30&g=2003-06-30) geschieden bij aangetekende brief.
-
-2. De ombudsman kan bevelen, dat personen die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht voor hem worden gebracht om aan hun verplichtingen te voldoen.
-
-##### Artikel 22
-
-1. De ombudsman kan bevelen, dat getuigen niet zullen worden gehoord en tolken niet tot de uitoefening van hun taak zullen worden toegelaten dan na het afleggen van eed of belofte.
-
-2. Zij leggen in dat geval in handen van de ombudsman de eed of belofte af; indien zij worden gehoord als getuige: dat zij zullen zeggen de gehele waarheid en niets dan de waarheid; de tolken: dat zij hun plichten als tolk met nauwgezetheid zullen vervullen.
-
-3. De deskundigen zijn verplicht hun taak onpartijdig en naar beste weten te verrichten.
-
-##### Artikel 23
-
-1. De ingevolge deze wet opgeroepenen ontvangen desverlangd voor reis- en verblijfkosten alsmede wegens tijdverzuim en daarmede verband houdende noodzakelijke kosten, vergoeding uit ’s Rijks kas overeenkomstig het bij en krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) bepaalde.
-
-2. Voor zover bij algemene maatregel van bestuur niet anders is bepaald, ontvangen de in het eerste lid bedoelde personen die in openbare dienst zijn geen vergoeding als bedoeld in het eerste lid, indien zij zijn opgeroepen in verband met hun taak als zodanig.
-
-3. De ombudsman begroot de ingevolge dit artikel verschuldigde vergoeding.
-
-##### Artikel 24
-
-1. Aan de ombudsman worden op diens schriftelijk verzoek ten behoeve van een onderzoek bescheiden, gebezigd bij de vervulling van de overheidstaak in de aangelegenheid waarop het onderzoek betrekking heeft, al dan niet in afschrift, overgelegd. [Artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30), is van overeenkomstige toepassing.
-
-2. De ombudsman kan, voor zover dit naar zijn oordeel ten behoeve van het onderzoek is vereist, zonder toestemming, met uitzondering van woningen, alle plaatsen betreden waar het bestuursorgaan, wiens gedraging onderzocht wordt, zijn taak verricht. Voor het betreden van woningen is toestemming van de bewoner vereist.
-
-3. Onze Ministers kunnen aan de ombudsman het betreden van bepaalde plaatsen verbieden, indien dit naar hun oordeel de veiligheid van de staat zou schaden.
-
-##### Artikel 25
-
-1. De ombudsman deelt, alvorens het onderzoek te beëindigen, zijn bevindingen schriftelijk mede aan het betrokken bestuursorgaan en, in voorkomend geval, aan de ambtenaar wiens gedraging voorwerp van onderzoek is geweest, alsmede, in het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), bedoelde geval aan de verzoeker.
-
-2. De ombudsman stelt het bestuursorgaan, de ambtenaar en de verzoeker in de gelegenheid zich binnen een door hem te stellen termijn omtrent de bevindingen te uiten.
-
-##### Artikel 26
-
-1. De ombudsman beoordeelt of het bestuursorgaan zich in de door hem onderzochte aangelegenheid al dan niet behoorlijk heeft gedragen.
-
-2. Indien ten aanzien van de gedraging waarop het onderzoek van de ombudsman betrekking heeft anders dan ingevolge een wettelijk geregelde administratiefrechtelijke voorziening door een rechterlijke instantie uitspraak is gedaan, neemt de ombudsman de rechtsgronden waarop die uitspraak steunt of mede steunt, in acht.
-
-##### Artikel 27
-
-1. Wanneer een onderzoek is afgesloten, stelt de ombudsman een rapport op, waarin hij zijn bevindingen en zijn oordeel weergeeft. Met het oog op het bepaalde in het vierde lid neemt hij daarbij [artikel 19, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30) van deze wet en het bepaalde in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), in acht.
-
-2. De ombudsman zendt zijn rapport aan het betrokken bestuursorgaan en, in voorkomend geval, aan de ambtenaar wiens gedraging voorwerp van onderzoek is geweest. Indien het onderzoek berustte op een verzoekschrift als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), zendt hij zijn rapport tevens aan de verzoeker.
-
-3. Zo hij daartoe aanleiding ziet, kan de ombudsman aan het betrokken orgaan zijn zienswijze over eventueel te nemen maatregelen bekendmaken.
-
-4. De ombudsman geeft aan een ieder die daarom verzoekt afschrift of uittreksel van een rapport als bedoeld in het eerste lid. Met betrekking tot de daarvoor in rekening te brengen vergoedingen en met betrekking tot kosteloze verstrekking is het bepaalde bij of krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) van overeenkomstige toepassing. Tevens legt hij een zodanig rapport ter inzage op een door hem daarvoor aan te wijzen plaats.
-
-5. Voor het overige is de ombudsman verplicht tot geheimhouding van hetgeen hem bij de uitoefening van zijn taak is bekend geworden, voor zover dat uit de aard der zaak volgt.
-
-##### Artikel 28
-
-1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
-
-2. Hij draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.
-
-3. De ombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal inlichten omtrent zijn bevindingen en oordeel, zo dikwijls hij de eerdere kennisneming daarvan voor de Kamers van belang acht of één der Kamers dit verzoekt.
-
-### Hoofdstuk IV. Overgangs- en slotbepalingen
-
-##### Artikel 29
-
-De voordrachten voor door Ons te nemen besluiten ter uitvoering van deze wet worden Ons gedaan door Onze Minister van Binnenlandse Zaken.
-
-##### Artikel 30
-
-[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30) vindt geen toepassing ten aanzien van gedragingen van de bij ministerieel besluit aangewezen bestuursorganen, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30), die hebben plaatsgevonden voordat dat besluit in werking is getreden.
-
-##### Artikel 30a
-
-Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a&z=2003-06-30&g=2003-06-30), dan wel na de beëindiging van een aanwijzing als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30) kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden:
-
-- a. voordat het desbetreffende bestuursorgaan is uitgezonderd bij een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a&z=2003-06-30&g=2003-06-30), dan wel
-
-- b. voordat de aanwijzing van het desbetreffende bestuursorgaan als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30) is beëindigd, een verzoekschrift als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30) bij de Nationale ombudsman worden ingediend.
-
-##### Artikel 31
-
-Deze wet kan worden aangehaald als: Wet Nationale ombudsman.
-
-### Hoofdstuk IV. Overgangs- en slotbepalingen
-
-### Hoofdstuk IIa. De Kinderombudsman
-
-### Hoofdstuk IIb. De Veteranenombudsman
-
-##### Artikel 19a
-
-1. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), is deze wet tot twee jaar na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba alleen van toepassing op de gedragingen van de bestuursorganen van de openbare lichamen, voor zover de ombudsman hiertoe op een gezamenlijk verzoek van de eilandsraden van de openbare lichaam heeft besloten. De ombudsman kan daarbij een termijn bepalen waarop deze wet ten aanzien van de gedragingen van de bestuursorganen van de openbare lichamen van toepassing zal zijn.
-
-2. Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in de Staatscourant en in de afkondigingsbladen van de openbare lichamen.
-
-##### Artikel 1d
-
-De [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1b&z=2022-07-01&g=2022-07-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1c&z=2022-07-01&g=2022-07-01) zijn niet van toepassing op de Kinderombudsman of de Veteranenombudsman, voor zover die als zodanig optreedt.
-
-### Hoofdstuk II. De Nationale Ombudsman
-
 ##### Artikel 11a
 
 In dit hoofdstuk wordt verstaan onder:
 
 - a. jeugdige: een persoon die de meerderjarigheidsleeftijd nog niet heeft bereikt;
 
-- b. kinderrechtenverdrag: het op 20 november 1989 te New York tot stand gekomen Verdrag inzake de rechten van het kind (Trb. 1990, 46);
+- b. kinderrechtenverdrag: het op 20 november 1989 te New York tot stand gekomen Verdrag inzake de rechten van het kind (Trb. 1990, 46);
 
 - c. rechten van jeugdigen: de rechten van jeugdigen, opgenomen in het kinderrechtenverdrag.
 
@@ -395,9 +234,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voor zover die:
 
-- 1°. een bij of krachtens de wet geregelde taak ten aanzien van jeugdigen uitoefent; of
+   - 1° een bij of krachtens de wet geregelde taak ten aanzien van jeugdigen uitoefent; of
 
-- 2°. anderszins een taak ten aanzien van jeugdigen uitoefent op het terrein van het onderwijs, de jeugdhulp, de kinderopvang of de gezondheidszorg,
+   - 2° anderszins een taak ten aanzien van jeugdigen uitoefent op het terrein van het onderwijs, de jeugdhulp, de kinderopvang of de gezondheidszorg,
 
 kan een klacht indienen bij de Kinderombudsman.
 
@@ -417,25 +256,21 @@ kan een klacht indienen bij de Kinderombudsman.
 
 ##### Artikel 11e
 
-1. De Kinderombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan andere bestuursorganen en privaatrechtelijke organisaties voor zover hij dat wenselijk acht. [Artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing met dien verstande dat de Kinderombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
+1. De Kinderombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan andere bestuursorganen en privaatrechtelijke organisaties voor zover hij dat wenselijk acht. [Artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing met dien verstande dat de Kinderombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
 
 2. De Kinderombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.
 
 3. De Kinderombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal en vertegenwoordigende organen van provincies en gemeenten inlichten omtrent zijn bevindingen, zo dikwijls hij de eerdere kennisneming daarvan voor het betreffende orgaan van belang acht of een orgaan als hiervoor bedoeld dit verzoekt.
 
-### Hoofdstuk IV. Overgangs- en slotbepalingen
-
-### Hoofdstuk III. Aanvullende bepalingen betreffende het onderzoek
-
-### Hoofdstuk IV. Overgangs- en slotbepalingen
+### Hoofdstuk IIb. De Veteranenombudsman
 
 ##### Artikel 11f
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **veteraan:** een veteraan als bedoeld in [artikel 1 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1);
+- a. *veteraan:* een veteraan als bedoeld in [artikel 1 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1);
 
-- b. **relaties van een veteraan:** relaties als bedoeld in [artikel 1 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1).
+- b. *relaties van een veteraan:* relaties als bedoeld in [artikel 1 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1).
 
 ##### Artikel 11g
 
@@ -455,9 +290,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voorzover die:
 
-- 1°. . een bij of krachtens wet geregelde taak ten aanzien van veteranen uitoefent; of
+   - 1° . een bij of krachtens wet geregelde taak ten aanzien van veteranen uitoefent; of
 
-- 2°. . anderszins een taak ten aanzien van veteranen uitoefent,
+   - 2° . anderszins een taak ten aanzien van veteranen uitoefent,
 
 kan een klacht indienen bij de Veteranenombudsman.
 
@@ -472,3 +307,51 @@ kan een klacht indienen bij de Veteranenombudsman.
 2. De in [artikel 9:33 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:33) bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in [artikel 11h, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIb&artikel=11h&z=2022-07-01&g=2022-07-01).
 
 ### Hoofdstuk III. Aanvullende bepalingen betreffende het onderzoek
+
+##### Artikel 12
+
+De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), in te stellen of voort te zetten indien een verzoekschrift, dezelfde gedraging betreffende, in behandeling is bij een tot de behandeling van verzoekschriften bevoegde commissie uit de Eerste of Tweede Kamer of uit de verenigde vergadering der Staten-Generaal of – behoudens indien een nieuw feit of een nieuwe omstandigheid bekend is geworden en zulks tot een ander oordeel over de bedoelde gedraging zou hebben kunnen leiden – daarover door de betrokken commissie haar conclusie op een verzoekschrift aan de Eerste of Tweede Kamer dan wel de verenigde vergadering der Staten-Generaal is voorgesteld.
+
+##### Artikel 13
+
+[Artikel 9:31, eerste lid, derde volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:31) is niet van toepassing op Onze Ministers.
+
+##### Artikel 14
+
+Onze Ministers kunnen aan de ombudsman het betreden van bepaalde plaatsen verbieden, indien dit naar hun oordeel de veiligheid van de staat zou schaden.
+
+##### Artikel 15
+
+De ombudsman kan bevelen dat personen die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht voor hem worden gebracht om aan hun verplichtingen te voldoen.
+
+##### Artikel 16
+
+1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
+
+2. De ombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.
+
+3. De ombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal, vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en algemene besturen van gemeenschappelijke regelingen inlichten omtrent zijn bevindingen en oordeel, zo dikwijls hij de eerdere kennisneming daarvan voor het betreffende orgaan van belang acht of een orgaan als hiervoor bedoeld dit verzoekt.
+
+### Hoofdstuk IV. Overgangs- en slotbepalingen
+
+##### Artikel 17
+
+De voordrachten voor ter uitvoering van deze wet te nemen koninklijke besluiten worden gedaan door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+
+##### Artikel 18
+
+Indien provincies, gemeenten, openbare lichamen, waterschappen of gemeenschappelijke regelingen een eigen voorziening voor de behandeling van verzoekschriften hebben ingesteld als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), blijft de ombudsman bevoegd verzoekschriften ten aanzien van hun bestuursorganen te behandelen die voor de ingangsdatum van de eigen voorziening door hem zijn ontvangen.
+
+##### Artikel 19
+
+Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat het desbetreffende bestuursorgaan is uitgezonderd, een verzoekschrift bij de ombudsman worden ingediend.
+
+##### Artikel 19a
+
+1. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2022-07-01&g=2022-07-01), is deze wet tot twee jaar na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba alleen van toepassing op de gedragingen van de bestuursorganen van de openbare lichamen, voor zover de ombudsman hiertoe op een gezamenlijk verzoek van de eilandsraden van de openbare lichaam heeft besloten. De ombudsman kan daarbij een termijn bepalen waarop deze wet ten aanzien van de gedragingen van de bestuursorganen van de openbare lichamen van toepassing zal zijn.
+
+2. Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in de Staatscourant en in de afkondigingsbladen van de openbare lichamen.
+
+##### Artikel 20
+
+Deze wet wordt aangehaald als: Wet Nationale ombudsman.

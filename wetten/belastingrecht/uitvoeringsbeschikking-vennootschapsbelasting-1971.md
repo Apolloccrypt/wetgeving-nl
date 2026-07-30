@@ -1,41 +1,17 @@
 ---
 title: "Uitvoeringsbeschikking vennootschapsbelasting 1971"
 identifier: "BWBR0002784"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002784"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "2848243"
-version_id: "29870322"
-internal_id: "C42819771"
-label_id: "2796564"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002784/2024-01-01/0"
-intitule_bron: "Stcrt.1971-169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-34571"
-original_signed_date: "2023-12-15"
-original_published_date: "2023-12-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-34571"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0002784&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0002784&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2023-12-15"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0002784"
+opgehaald: 2026-07-30
 ---
+
 # Uitvoeringsbeschikking vennootschapsbelasting 1971
-
-Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=24) en [29a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29a) (Stb. 469);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -45,7 +21,13 @@ Besluit:
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
+
+##### Artikel 2bis
+
+1. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder werknemers verstaan werknemers in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+
+2. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder het loon op jaarbasis verstaan het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) dat de werknemer heeft genoten in het laatste kalenderjaar dat voor aanvang van het jaar is geëindigd.
 
 ##### Artikel 2a
 
@@ -91,9 +73,9 @@ Vervallen
 
 - c. het lichaam is in zijn bestuur en de dagelijkse bedrijfsvoering, waarbij de normale bemoeienis met de bedrijfsvoering door de aandeelhouder of de concernleiding buiten beschouwing blijft, zelfstandig in het nemen van beslissingen over:
 
-- 1°. de aanschaf, het onderhoud, de vervreemding en het beheer, waaronder begrepen beslissingen inzake de voorwaarden waaronder ter beschikking wordt gesteld, van materiële vaste activa;
+   - 1°. de aanschaf, het onderhoud, de vervreemding en het beheer, waaronder begrepen beslissingen inzake de voorwaarden waaronder ter beschikking wordt gesteld, van materiële vaste activa;
 
-- 2°. de aanschaf, het onderhoud, de ontwikkeling en het beheer, waaronder begrepen beslissingen inzake de voorwaarden waaronder ter beschikking wordt gesteld, van immateriële vaste activa;
+   - 2°. de aanschaf, het onderhoud, de ontwikkeling en het beheer, waaronder begrepen beslissingen inzake de voorwaarden waaronder ter beschikking wordt gesteld, van immateriële vaste activa;
 
 - d. het lichaam heeft de economische eigendom van de ter beschikking gestelde bedrijfsmiddelen;
 
@@ -109,6 +91,54 @@ Vervallen
 
 5. Het eerste tot en met het vierde lid zijn van overeenkomstige toepassing bij de bepaling of, voor de toepassing van [artikel 15g, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), de werkzaamheden van een buitenlandse onderneming als bedoeld in dat artikel, worden aangemerkt als actieve terbeschikkingstellingswerkzaamheden, met dien verstande dat onder lichaam mede een buitenlandse onderneming wordt verstaan.
 
+##### Artikel 2c
+
+1. Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
+
+2. Voor de toepassing van de [artikelen 13d, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), en [15i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i) wordt van de staten waarmee de Europese Unie een associatieovereenkomst heeft gesloten aangewezen: Turkije.
+
+##### Artikel 2d
+
+Voor de toepassing van [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de belastingplichtige geacht het aanmerkelijk belang niet te houden met als hoofddoel of een van de hoofddoelen om de heffing van inkomstenbelasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
+
+- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de belastingplichtige woont of feitelijk is gevestigd in de staat waarin de belastingplichtige is gevestigd;
+
+- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van de belastingplichtige en binnen het kader van de normale concernbemoeienis, over door de belastingplichtige af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
+
+- c. de belastingplichtige beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door de belastingplichtige af te sluiten transacties;
+
+- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van de belastingplichtige worden genomen;
+
+- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van de belastingplichtige worden aangehouden;
+
+- f. in de staat, bedoeld in onderdeel a, de boekhouding van de belastingplichtige wordt gevoerd;
+
+- g. de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden in het kader van de economische activiteiten van de belastingplichtige in het licht van zijn aanmerkelijk belang in de in Nederland gevestigde vennootschap en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd; en
+
+- h. de belastingplichtige gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
+
+##### Artikel 2e
+
+1. Voor de toepassing van [artikel 13ab, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) wordt, tenzij de inspecteur aannemelijk maakt dat slechts aan de in dit lid gestelde voorwaarden wordt voldaan met als hoofddoel of een van de hoofddoelen om in aanmerking te komen voor de uitzondering op de voet van artikel 13ab, vijfde lid, van de wet, een gecontroleerd lichaam geacht een wezenlijke economische activiteit uit te oefenen indien:
+
+- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van het gecontroleerde lichaam woont of feitelijk is gevestigd in de staat waarin het gecontroleerde lichaam is gevestigd;
+
+- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van het gecontroleerde lichaam en binnen het kader van de normale concernbemoeienis, over door het gecontroleerde lichaam af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
+
+- c. het gecontroleerde lichaam beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door het gecontroleerde lichaam af te sluiten transacties;
+
+- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van het gecontroleerde lichaam worden genomen;
+
+- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van het gecontroleerde lichaam worden aangehouden;
+
+- f. in de staat, bedoeld in onderdeel a, de boekhouding van het gecontroleerde lichaam wordt gevoerd;
+
+- g. het gecontroleerde lichaam een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden van het gecontroleerde lichaam en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin het gecontroleerde lichaam is gevestigd; en
+
+- h. het gecontroleerde lichaam gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden van het gecontroleerde lichaam en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
+
+2. Het eerste lid is van overeenkomstige toepassing op aan een vaste inrichting toerekenbare besmette voordelen als bedoeld in [artikel 15e, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e), met dien verstande dat daarbij voor gecontroleerd lichaam wordt gelezen: vaste inrichting.
+
 ##### Artikel 3
 
 1. Een voorlopige verliesverrekening als bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
@@ -117,7 +147,7 @@ Vervallen
 
 ##### Artikel 4. Aftrekbare giften in natura; voorwaarden taxatierapport
 
-1. Het taxatierapport, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), bevat de uitkomsten van een taxatie die is uitgevoerd door een onafhankelijke taxateur die is ingeschreven in een register dat tot doel heeft zijn deskundigheid te waarborgen.
+1. Het taxatierapport, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), bevat de uitkomsten van een taxatie die is uitgevoerd door een onafhankelijke taxateur die is ingeschreven in een register dat tot doel heeft zijn deskundigheid te waarborgen.
 
 2. De taxatie heeft niet meer dan drie maanden voor het moment van schenking alsmede niet meer dan zes maanden na het moment van schenking plaatsgevonden.
 
@@ -141,7 +171,7 @@ Vervallen
 
 ##### Artikel 4a. Aftrekbare giften in natura; voorwaarden factuur
 
-1. De factuur, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), is niet meer dan drie maanden voorafgaand aan het moment van schenking uitgereikt.
+1. De factuur, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), is niet meer dan drie maanden voorafgaand aan het moment van schenking uitgereikt.
 
 2. De factuur bevat voorts de waarde in het economische verkeer zoals die door onafhankelijke partijen is of zou zijn overeengekomen.
 
@@ -155,7 +185,7 @@ Vervallen
 
 ##### Artikel 4b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -165,143 +195,10 @@ Vervallen
 
 ##### Artikel 5a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij is geplaatst.
 
 2. Deze regeling kan worden aangehaald als: Uitvoeringsbeschikking vennootschapsbelasting 1971
-
-##### Artikel 2c
-
-1. Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
-
-2. Voor de toepassing van de [artikelen 13d, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), en [15i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i) wordt van de staten waarmee de Europese Unie een associatieovereenkomst heeft gesloten aangewezen: Turkije.
-
-##### Artikel 2bis
-
-1. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder werknemers verstaan werknemers in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
-
-2. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder het loon op jaarbasis verstaan het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) dat de werknemer heeft genoten in het laatste kalenderjaar dat voor aanvang van het jaar is geëindigd.
-
-##### Artikel 2d
-
-Voor de toepassing van [artikel 17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), wordt, tenzij de inspecteur het tegendeel aannemelijk maakt, de belastingplichtige geacht het aanmerkelijk belang niet te houden met als hoofddoel of een van de hoofddoelen om de heffing van inkomstenbelasting bij een ander te ontgaan en wordt geacht sprake te zijn van geldige zakelijke redenen die de economische realiteit weerspiegelen indien:
-
-- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van de belastingplichtige woont of feitelijk is gevestigd in de staat waarin de belastingplichtige is gevestigd;
-
-- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van de belastingplichtige en binnen het kader van de normale concernbemoeienis, over door de belastingplichtige af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
-
-- c. de belastingplichtige beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door de belastingplichtige af te sluiten transacties;
-
-- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van de belastingplichtige worden genomen;
-
-- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van de belastingplichtige worden aangehouden;
-
-- f. in de staat, bedoeld in onderdeel a, de boekhouding van de belastingplichtige wordt gevoerd;
-
-- g. de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden in het kader van de economische activiteiten van de belastingplichtige in het licht van zijn aanmerkelijk belang in de in Nederland gevestigde vennootschap en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd; en
-
-- h. de belastingplichtige gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
-
-## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
-
-De woonlandfactor, bedoeld in [artikel 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2018-04-01&g=2018-04-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
-
-| Staat | Woonlandfactor |
-| --- | --- |
-| België | 100% |
-| Bulgarije | 50% |
-| Cyprus | 90% |
-| Denemarken | 100% |
-| Duitsland | 100% |
-| Estland | 70% |
-| Finland | 100% |
-| Frankrijk | 100% |
-| Griekenland | 80% |
-| Hongarije | 60% |
-| Ierland | 100% |
-| IJsland | 100% |
-| Italië | 100% |
-| Kroatië | 60% |
-| Letland | 70% |
-| Liechtenstein | 100% |
-| Litouwen | 60% |
-| Luxemburg | 100% |
-| Malta | 80% |
-| Noorwegen | 100% |
-| Oostenrijk | 100% |
-| Polen | 60% |
-| Portugal | 80% |
-| Roemenië | 50% |
-| Slovenië | 80% |
-| Slowakije | 70% |
-| Spanje | 90% |
-| Tsjechië | 60% |
-| Verenigd Koninkrijk | 100% |
-| Zweden | 100% |
-| Zwitserland | 100% |
-
-Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die is opgenomen in de Regeling woonlandbeginsel in de sociale zekerheid 2012](onbekend).
-
-##### Artikel 2e
-
-1. Voor de toepassing van [artikel 13ab, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) wordt, tenzij de inspecteur aannemelijk maakt dat slechts aan de in dit lid gestelde voorwaarden wordt voldaan met als hoofddoel of een van de hoofddoelen om in aanmerking te komen voor de uitzondering op de voet van artikel 13ab, vijfde lid, van de wet, een gecontroleerd lichaam geacht een wezenlijke economische activiteit uit te oefenen indien:
-
-- a. ten minste de helft van het totale aantal statutaire en beslissingsbevoegde bestuursleden van het gecontroleerde lichaam woont of feitelijk is gevestigd in de staat waarin het gecontroleerde lichaam is gevestigd;
-
-- b. de in de staat, bedoeld in onderdeel a, wonende of gevestigde bestuursleden beschikken over de benodigde professionele kennis om hun taken naar behoren uit te voeren, tot welke taken ten minste behoort de besluitvorming, op grond van de eigen verantwoordelijkheid van het gecontroleerde lichaam en binnen het kader van de normale concernbemoeienis, over door het gecontroleerde lichaam af te sluiten transacties, alsmede het zorg dragen voor een goede afhandeling van de afgesloten transacties;
-
-- c. het gecontroleerde lichaam beschikt over gekwalificeerd personeel voor de adequate uitvoering en registratie van de door het gecontroleerde lichaam af te sluiten transacties;
-
-- d. in de staat, bedoeld in onderdeel a, de bestuursbesluiten van het gecontroleerde lichaam worden genomen;
-
-- e. in de staat, bedoeld in onderdeel a, de belangrijkste bankrekeningen van het gecontroleerde lichaam worden aangehouden;
-
-- f. in de staat, bedoeld in onderdeel a, de boekhouding van het gecontroleerde lichaam wordt gevoerd;
-
-- g. het gecontroleerde lichaam een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden van het gecontroleerde lichaam en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin het gecontroleerde lichaam is gevestigd; en
-
-- h. het gecontroleerde lichaam gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden van het gecontroleerde lichaam en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.
-
-2. Het eerste lid is van overeenkomstige toepassing op aan een vaste inrichting toerekenbare besmette voordelen als bedoeld in [artikel 15e, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e), met dien verstande dat daarbij voor gecontroleerd lichaam wordt gelezen: vaste inrichting.
-
-## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
-
-De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2024-01-01&g=2024-01-01), en [2e, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2e&z=2024-01-01&g=2024-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
-
-| Staat | Woonlandfactor |
-| --- | --- |
-| België | 100% |
-| Bulgarije | 50% |
-| Cyprus | 80% |
-| Denemarken | 100% |
-| Duitsland | 100% |
-| Estland | 80% |
-| Finland | 100% |
-| Frankrijk | 100% |
-| Griekenland | 80% |
-| Hongarije | 60% |
-| Ierland | 100% |
-| IJsland | 100% |
-| Italië | 90% |
-| Kroatië | 60% |
-| Letland | 70% |
-| Liechtenstein | 100% |
-| Litouwen | 60% |
-| Luxemburg | 100% |
-| Malta | 80% |
-| Noorwegen | 100% |
-| Oostenrijk | 100% |
-| Polen | 60% |
-| Portugal | 80% |
-| Roemenië | 50% |
-| Slovenië | 80% |
-| Slowakije | 70% |
-| Spanje | 90% |
-| Tsjechië | 70% |
-| Zweden | 100% |
-| Zwitserland | 100% |
-
-Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die is opgenomen in de Regeling woonlandbeginsel in de sociale zekerheid 2012](onbekend).

@@ -1,46 +1,18 @@
 ---
 title: "Wet van 21 mei 1981, houdende regelen omtrent leegstaande woningen en andere gebouwen"
+citeertitel: "Leegstandwet"
 identifier: "BWBR0003403"
-country: "nl"
-rank: "wet"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003403"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1601513"
-version_id: "17583482"
-internal_id: "C24335631"
-label_id: "1556114"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003403/2024-07-01/0"
-intitule_bron: "Stb.1981-337"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-05-21"
-intitule_published: "1981-06-23"
-intitule_status: "goed"
-original_publication: "Stb.2010-320"
-original_signed_date: "2010-07-24"
-original_published_date: "2010-08-17"
-original_effect: "structuurwijziging"
-original_dossier: "31560"
-original_url_id: "stb-2010-320"
-entry_into_force_date: "2010-10-01"
-jci_1_3: "jci1.3:c:BWBR0003403&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0003403&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Leegstandwet"
-signed_date: "2010-07-24"
-entry_into_force: "2010-10-01"
+publicatiedatum: 2010-10-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0003403"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 21 mei 1981, houdende regelen omtrent leegstaande woningen en andere gebouwen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen vast te stellen ter bestrijding van ongerechtvaardigde leegstand van woningen en andere gebouwen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -60,11 +32,31 @@ Voor de toepassing van deze wet met uitzondering van de [artikelen 4](https://we
 
 - f. leegstandverordening: leegstandverordening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=II&artikel=2&z=2024-07-01&g=2024-07-01).
 
+### Hoofdstuk II. Leegstandverordening
+
+##### Artikel 2
+
+De gemeenteraad kan een leegstandverordening vaststellen.
+
+### Hoofdstuk III. Leegstandmelding
+
+##### Artikel 3
+
+1. De gemeenteraad kan in de leegstandverordening bepalen dat de leegstand van een of meer daarbij aangewezen categorieën gebouwen of gedeelten daarvan, gelegen in de gemeente of daarbij aangegeven delen van de gemeente, door de eigenaar wordt gemeld aan burgemeester en wethouders, zodra die leegstand langer duurt dan een in die verordening aangegeven termijn van ten minste zes maanden.
+
+2. Burgemeester en wethouders houden een lijst bij van de overeenkomstig het eerste lid gemelde gebouwen of gedeelten daarvan. Op deze lijst houden zij ook de gebouwen of gedeelten daarvan bij, waarvan ambtshalve geconstateerd is dat deze leegstaan en waarvan de leegstand overeenkomstig het eerste lid van dit artikel gemeld had moeten worden door de eigenaar.
+
+3. In de leegstandverordening worden nadere regels gegeven omtrent het melden, bedoeld in het eerste en tweede lid.
+
+4. De termijnen, bedoeld in het eerste lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2024-07-01&g=2024-07-01), vangen aan op de dag na de datum van inwerkingtreding van de leegstandverordening, bedoeld in dat lid.
+
 ##### Artikel 4
 
 1. Burgemeester en wethouders voeren binnen drie maanden na ontvangst van de melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=3&z=2024-07-01&g=2024-07-01), overleg met de eigenaar van het gebouw omtrent het gebruik van dat gebouw respectievelijk dat gedeelte van het gebouw.
 
 2. Burgemeester en wethouders kunnen na het overleg, bedoeld in het eerste lid, of zonder overleg indien de eigenaar aan dat overleg geen medewerking verleent, in een leegstandsbeschikking vaststellen of het gebouw respectievelijk het gedeelte daarvan geschikt is voor gebruik.
+
+### Hoofdstuk IV. Voordracht gebruiker
 
 ##### Artikel 5
 
@@ -82,51 +74,41 @@ Burgemeester en wethouders kunnen in hun besluit, bedoeld in [artikel 5](https:/
 
 - c. zo nodig andere voorwaarden aan de uitvoering van het besluit stellen.
 
-### Hoofdstuk II. Registratie van leegstaande woningen en gebouwen
+##### Artikel 7
+
+1. De eigenaar is verplicht om de overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2024-07-01&g=2024-07-01) voorgedragen gebruiker binnen drie maanden na de voordracht, een overeenkomst tot ingebruikname van het gebouw, respectievelijk het leegstaand gedeelte daarvan, aan te bieden.
+
+2. Het eerste lid is niet van toepassing indien de eigenaar binnen de termijn, bedoeld in het eerste lid, een overeenkomst is aangegaan met een andere gebruiker, die het gebouw, respectievelijk het gedeelte ervan, binnen redelijke termijn in gebruik neemt.
+
+3. De eigenaar is verplicht om binnen vier weken na beëindiging van het gebruik overeenkomstig dit artikel de leegstand van het gebouw, respectievelijk het gedeelte ervan, te melden aan burgemeester en wethouders, tenzij het gebouw langer dan één jaar in gebruik is geweest.
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
-
-### Hoofdstuk III. Bepalingen met betrekking tot de vordering van leegstaande woningen en gebouwen
-
-##### Artikel 11
-
-Vervallen
-
-##### Artikel 8
-
-Vervallen
-
-##### Artikel 9
-
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
-
-### Hoofdstuk IV. Bepalingen omtrent wederrechtelijk gebruik van leegstaande woningen en gebouwen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Bepalingen omtrent huur en verhuur van leegstaande woningen en gebouwen
 
@@ -138,11 +120,11 @@ Vervallen
 
 - b. woonruimte in een voor de verkoop bestemde woning welke
 
-- 1°. nimmer bewoond is geweest, hetzij
+   - 1°. nimmer bewoond is geweest, hetzij
 
-- 2°. gedurende een tijdvak van ten minste twaalf maanden voorafgaand aan het tijdstip waarop die woning laatstelijk geheel is komen leeg te staan of, indien die woning in haar geheel binnen een tijdvak van twaalf maanden voorafgaand aan dat tijdstip voor bewoning gereed is gekomen, gedurende het overblijvende gedeelte van het laatstgenoemde tijdvak, onafgebroken geheel of grotendeels door de eigenaar als eigenaar bewoond is geweest, hetzij
+   - 2°. gedurende een tijdvak van ten minste twaalf maanden voorafgaand aan het tijdstip waarop die woning laatstelijk geheel is komen leeg te staan of, indien die woning in haar geheel binnen een tijdvak van twaalf maanden voorafgaand aan dat tijdstip voor bewoning gereed is gekomen, gedurende het overblijvende gedeelte van het laatstgenoemde tijdvak, onafgebroken geheel of grotendeels door de eigenaar als eigenaar bewoond is geweest, hetzij
 
-- 3°. gedurende een tijdvak van tien jaren voorafgaand aan het tijdstip waarop de vergunning is aangevraagd, niet langer dan gedurende een al dan niet aaneengesloten tijdvak van drie jaren geheel of grotendeels als woonruimte verhuurd is geweest;
+   - 3°. gedurende een tijdvak van tien jaren voorafgaand aan het tijdstip waarop de vergunning is aangevraagd, niet langer dan gedurende een al dan niet aaneengesloten tijdvak van drie jaren geheel of grotendeels als woonruimte verhuurd is geweest;
 
 - c. woonruimte in een voor de verhuur bestemde woning welke ten tijde van het aanvragen van de vergunning bestemd is voor afbraak of voor vernieuwbouw;
 
@@ -160,7 +142,7 @@ In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan
 
 - c. de eigenaar aantoont dat de te verhuren woonruimte, gelet op de omstandigheden en mogelijkheden, in voldoende mate zal worden bewoond;
 
-- d. de eigenaar, indien het gaat om woonruimte als bedoeld in het eerste lid, onder **c**, aantoont dat de vernieuwbouw van ingrijpende aard zal zijn en voorts dat de afbraak of de vernieuwbouw binnen een redelijke termijn zal plaatsvinden;
+- d. de eigenaar, indien het gaat om woonruimte als bedoeld in het eerste lid, onder *c*, aantoont dat de vernieuwbouw van ingrijpende aard zal zijn en voorts dat de afbraak of de vernieuwbouw binnen een redelijke termijn zal plaatsvinden;
 
 - e. de eigenaar, voor zover het geen rechtspersoon betreft, slechts ten aanzien van één andere woonruimte als bedoeld in het eerste lid, onderdeel b, een nog geldende vergunning op grond van deze wet, heeft verkregen.
 
@@ -170,9 +152,9 @@ In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan
 
 6. De vergunning wordt verleend voor ten hoogste twee jaren. Op verzoek van de eigenaar kunnen burgemeester en wethouders deze duur telkens met ten hoogste een jaar verlengen, met dien verstande dat de gehele duur van de vergunning ten aanzien van woonruimte als bedoeld in het eerste lid, onderdelen a, c en d, ten hoogste tien jaren, zeven jaren onderscheidenlijk vijf jaren kan bedragen. Indien sprake is van een aanvraag van een vergunning voor dezelfde woonruimte wordt die vergunning slechts verleend indien voor die woonruimte voor de duur van ten minste vijf jaren onmiddellijk voorafgaand aan het tijdstip waarop die vergunning wordt verleend geen vergunning voor het aangaan van overeenkomsten van huur en verhuur op grond van deze wet was verleend.
 
-7. In afwijking van het zesde lid, eerste volzin, wordt de vergunning ten aanzien van woonruimte als bedoeld in het eerste lid, onderdeel a, voor het gebruik waarvan een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend, verleend voor de duur van die omgevingsvergunning, met een maximum van tien jaren. Deze vergunning kan niet worden verlengd.
+7. In afwijking van het zesde lid, eerste volzin, wordt de vergunning ten aanzien van woonruimte als bedoeld in het eerste lid, onderdeel a, voor het gebruik waarvan een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend, verleend voor de duur van die omgevingsvergunning, met een maximum van tien jaren. Deze vergunning kan niet worden verlengd.
 
-8. In afwijking van het zesde lid, eerste volzin, wordt de vergunning ten aanzien van woonruimte als bedoeld in het eerste lid, onderdeel b, voor vijf jaren verleend. Deze vergunning kan niet worden verlengd.
+8. In afwijking van het zesde lid, eerste volzin, wordt de vergunning ten aanzien van woonruimte als bedoeld in het eerste lid, onderdeel b, voor vijf jaren verleend. Deze vergunning kan niet worden verlengd.
 
 9. Een verzoek tot verlenging kan uiterlijk tot het tijdstip waarop de vergunning haar geldigheid verliest, worden ingediend. Het bepaalde in het derde lid, onderdelen b, c en d, is van overeenkomstige toepassing.
 
@@ -208,17 +190,17 @@ In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan
 
 ##### Artikel 16
 
-1. Ten aanzien van de huur en verhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in [artikel 15, eerste lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), is verleend, blijven de [artikelen 232](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=232) en [247 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=247) buiten toepassing.
+1. Ten aanzien van de huur en verhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in [artikel 15, eerste lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), is verleend, blijven de [artikelen 232](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=232) en [247 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=247) buiten toepassing.
 
 2. Ten aanzien van de huur en verhuur van woonruimte met betrekking tot de verhuring waarvan een vergunning als bedoeld in artikel 15, eerste lid, onderdeel b, is verleend, blijft artikel 232 en titel 4, afdeling 5, onderafdeling 2, van Boek 7 van het Burgerlijk Wetboek buiten toepassing, behoudens de artikelen 251, 259, 261, eerste lid, en 264.
 
 3. Ten aanzien van huurovereenkomsten, als bedoeld in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), gelden de volgende bijzondere bepalingen.
 
-4. De huurovereenkomst, bedoeld in [artikel 15, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), wordt aangegaan voor ten minste zes maanden. De huurovereenkomst, bedoeld in onderdeel d van dat artikellid, wordt aangegaan voor ten minste drie maanden.
+4. De huurovereenkomst, bedoeld in [artikel 15, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), wordt aangegaan voor ten minste zes maanden. De huurovereenkomst, bedoeld in onderdeel d van dat artikellid, wordt aangegaan voor ten minste drie maanden.
 
 5. Bij opzegging door de huurder is de termijn niet langer dan een maand.
 
-6. Bij opzegging door de verhuurder is de termijn ten aanzien van de huurovereenkomst, bedoeld in [artikel 15, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), niet korter dan drie maanden en ten aanzien van de huurovereenkomst, bedoeld in onderdeel d van dat artikellid, niet korter dan twee maanden.
+6. Bij opzegging door de verhuurder is de termijn ten aanzien van de huurovereenkomst, bedoeld in [artikel 15, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), niet korter dan drie maanden en ten aanzien van de huurovereenkomst, bedoeld in onderdeel d van dat artikellid, niet korter dan twee maanden.
 
 7. Een opzegging die in strijd met het vierde lid van dit artikel of met het eerste tot en met derde lid van [artikel 271 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=271) is gedaan en een opzegging die op kortere termijn is gedaan dan is voorgeschreven in het zesde lid van dit artikel gelden niettemin als waren zij gedaan tegen de voorgeschreven dag en met inachtneming van de voorgeschreven termijn.
 
@@ -234,11 +216,11 @@ In geval van onderverhuur van woonruimte met betrekking tot de verhuring waarvan
 
 13. Indien aan het bepaalde in het twaalfde lid niet is voldaan, kan de verhuurder zich niet beroepen op het buiten toepassing blijven van de artikelen genoemd in [artikel 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01), en op het van toepassing zijn van het bepaalde in het vierde tot en met negende lid van dit artikel.
 
+### Hoofdstuk VI. Handhaving
+
 ##### Artikel 17
 
 Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van burgemeester en wethouders aangewezen ambtenaren.
-
-### Hoofdstuk VI. Wijziging van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 ##### Artikel 18
 
@@ -252,62 +234,16 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 19
 
-Vervallen
-
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van de Wet van [datum] tot wijziging van de Leegstandwet in verband met de verruiming van de mogelijkheden voor tijdelijke verhuur bij leegstand van gebouwen en woningen (Stb. xx) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de door genoemde wet aangebrachte wijzigingen in deze wet in de praktijk.
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-1. Van deze wet, welke kan worden aangehaald als Leegstandwet, treden de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=I&artikel=1&z=2024-07-01&g=2024-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2024-07-01&g=2024-07-01), hoofdstuk V, paragraaf E van artikel 18 en hoofdstuk VII in werking op een door Ons te bepalen tijdstip.
+1. Van deze wet, welke kan worden aangehaald als Leegstandwet, treden de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=I&artikel=1&z=2024-07-01&g=2024-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=III&artikel=4&z=2024-07-01&g=2024-07-01), hoofdstuk V, paragraaf E van artikel 18 en [hoofdstuk VII](https://wetten.overheid.nl/BWBR0003403) in werking op een door Ons te bepalen tijdstip.
 
 2. De [paragrafen A-D van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=VI&artikel=18&z=2024-07-01&g=2024-07-01) treden in werking twaalf maanden na het tijdstip, bedoeld in het eerste lid.
 
 3. De overige bepalingen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat is gelegen na het tijdstip, bedoeld in het eerste lid.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk II. Leegstandverordening
-
-##### Artikel 2
-
-De gemeenteraad kan een leegstandverordening vaststellen.
-
-### Hoofdstuk III. Leegstandmelding
-
-##### Artikel 3
-
-1. De gemeenteraad kan in de leegstandverordening bepalen dat de leegstand van een of meer daarbij aangewezen categorieën gebouwen of gedeelten daarvan, gelegen in de gemeente of daarbij aangegeven delen van de gemeente, door de eigenaar wordt gemeld aan burgemeester en wethouders, zodra die leegstand langer duurt dan een in die verordening aangegeven termijn van ten minste zes maanden.
-
-2. Burgemeester en wethouders houden een lijst bij van de overeenkomstig het eerste lid gemelde gebouwen of gedeelten daarvan. Op deze lijst houden zij ook de gebouwen of gedeelten daarvan bij, waarvan ambtshalve geconstateerd is dat deze leegstaan en waarvan de leegstand overeenkomstig het eerste lid van dit artikel gemeld had moeten worden door de eigenaar.
-
-3. In de leegstandverordening worden nadere regels gegeven omtrent het melden, bedoeld in het eerste en tweede lid.
-
-4. De termijnen, bedoeld in het eerste lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2024-07-01&g=2024-07-01), vangen aan op de dag na de datum van inwerkingtreding van de leegstandverordening, bedoeld in dat lid.
-
-### Hoofdstuk IV. Voordracht gebruiker
-
-##### Artikel 7
-
-1. De eigenaar is verplicht om de overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&hoofdstuk=IV&artikel=5&z=2024-07-01&g=2024-07-01) voorgedragen gebruiker binnen drie maanden na de voordracht, een overeenkomst tot ingebruikname van het gebouw, respectievelijk het leegstaand gedeelte daarvan, aan te bieden.
-
-2. Het eerste lid is niet van toepassing indien de eigenaar binnen de termijn, bedoeld in het eerste lid, een overeenkomst is aangegaan met een andere gebruiker, die het gebouw, respectievelijk het gedeelte ervan, binnen redelijke termijn in gebruik neemt.
-
-3. De eigenaar is verplicht om binnen vier weken na beëindiging van het gebruik overeenkomstig dit artikel de leegstand van het gebouw, respectievelijk het gedeelte ervan, te melden aan burgemeester en wethouders, tenzij het gebouw langer dan één jaar in gebruik is geweest.
-
-### Hoofdstuk VI. Handhaving
-
-##### Artikel 19
-
-Vervallen
-
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 19
-
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van de Wet van [datum] tot wijziging van de Leegstandwet in verband met de verruiming van de mogelijkheden voor tijdelijke verhuur bij leegstand van gebouwen en woningen (Stb. xx) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de door genoemde wet aangebrachte wijzigingen in deze wet in de praktijk.

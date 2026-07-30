@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 juni 1973, houdende nadere regelen met betrekking tot de tegemoetkoming in bijzondere kosten en de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen vervolgingsslachtoffers 1940-1945"
+citeertitel: "Besluit draagkracht vervolgden"
 identifier: "BWBR0002888"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002888"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "350923"
-version_id: "9299412"
-internal_id: "C12391931"
-label_id: "343084"
-dtd_version: "2.0"
-original_entry_into_force: "2003-08-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002888/2013-01-01/0"
-intitule_bron: "Stb.1973-329"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1973-06-21"
-intitule_status: "goed"
-original_publication: "Stb.2003-325"
-original_signed_date: "2003-08-11"
-original_published_date: "2003-08-26"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2003-325"
-entry_into_force_date: "2003-08-11"
-jci_1_3: "jci1.3:c:BWBR0002888&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0002888&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit draagkracht vervolgden"
-signed_date: "2003-08-11"
-entry_into_force: "2003-08-11"
+publicatiedatum: 2003-08-11
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0002888"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 21 juni 1973, houdende nadere regelen met betrekking tot de tegemoetkoming in bijzondere kosten en de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen vervolgingsslachtoffers 1940-1945
-
-Op de voordracht van Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk van 19 april 1973, Directie Bijstandszaken, nr. 964-Bu;
-
-Gelet op [artikel 21, vierde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21) (**Stb.** 1972, 669);
-
-Gezien de adviezen van de Uitkeringsraad, alsmede van de Stichting Joods Maatschappelijk Werk, de Stichting Pelita en de Stichting 1940-1945;
-
-De Raad van State gehoord (advies van 9 mei 1973, nr. 17);
-
-Gezien het nader rapport van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 14 juni 1973, Directie Bijstandszaken, nr. 3527;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -58,11 +26,11 @@ In dit besluit wordt verstaan onder de wet: de [Wet uitkeringen vervolgingsslach
 
 - b. de inkomensbestanddelen welke op grond van [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19) op de uitkering in mindering worden gebracht indien een uitkering wordt genoten, dan wel in mindering zouden worden gebracht indien een uitkering zou worden genoten met dien verstande dat:
 
-- 1. in afwijking van [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19) voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;
+   - 1. in afwijking van [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19) voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;
 
-- 2. in afwijking van [artikel 19, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19) voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;
+   - 2. in afwijking van [artikel 19, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19) voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;
 
-- 3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in [artikel 19, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19).
+   - 3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in [artikel 19, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=19).
 
 2. Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de vaststelling van de uitkering, bedoeld in [artikel 59a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=59a), is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend.
 
@@ -72,29 +40,9 @@ In dit besluit wordt verstaan onder de wet: de [Wet uitkeringen vervolgingsslach
 
 De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
-- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) niet overschrijdt, met dien verstande dat van dat deel 80 procent van de grondslag, genoemd in [artikel 8, zevende lid, onder **a,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) wordt vrijgelaten;
+- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder *b,* van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) niet overschrijdt, met dien verstande dat van dat deel 80 procent van de grondslag, genoemd in [artikel 8, zevende lid, onder *a,* van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) wordt vrijgelaten;
 
-- b. 50 procent van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder **b,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) overschrijdt.
-
-##### Artikel 4
-
-Indien de vervolging in het voormalige Nederlands-Indië heeft plaatsgehad en de uitkeringsgerechtigde in Indonesië gevestigd is, vindt het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) overeenkomstige toepassing, met dien verstande dat in plaats van de grondslagen, genoemd in artikel 8, zevende lid, onder **a** en **b,** wordt uitgegaan van de grondslagen, genoemd in artikel 8, achtste lid, onder **a** en **b,** van de wet.
-
-##### Artikel 5
-
-De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag, waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) berekende financiële draagkracht overschrijden.
-
-##### Artikel 5a
-
-Vervallen
-
-##### Artikel 6
-
-1. Dit besluit kan worden aangehaald als Besluit draagkracht vervolgden.
-
-2. Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot 1 januari 1973.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+- b. 50 procent van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01) vastgestelde inkomen dat de grondslag, genoemd in [artikel 8, zevende lid, onder *b,* van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8) overschrijdt.
 
 ##### Artikel 3a
 
@@ -106,4 +54,20 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 2. Indien toepassing is gegeven aan het eerste lid, onder a, vindt de herziening plaats met ingang van de maand waarin het verzoek is gedaan. Indien toepassing is gegeven aan het eerste lid, onder b, vindt de herziening plaats met ingang van de dag waarop de gerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt.
 
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+##### Artikel 4
+
+Indien de vervolging in het voormalige Nederlands-Indië heeft plaatsgehad en de uitkeringsgerechtigde in Indonesië gevestigd is, vindt het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) overeenkomstige toepassing, met dien verstande dat in plaats van de grondslagen, genoemd in artikel 8, zevende lid, onder *a* en *b,* wordt uitgegaan van de grondslagen, genoemd in artikel 8, achtste lid, onder *a* en *b,* van de wet.
+
+##### Artikel 5
+
+De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=2&z=2013-01-01&g=2013-01-01), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag, waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002888&artikel=3&z=2013-01-01&g=2013-01-01) berekende financiële draagkracht overschrijden.
+
+##### Artikel 5a
+
+*Vervallen*
+
+##### Artikel 6
+
+1. Dit besluit kan worden aangehaald als Besluit draagkracht vervolgden.
+
+2. Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot 1 januari 1973.

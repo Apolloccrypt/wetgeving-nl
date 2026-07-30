@@ -1,47 +1,22 @@
 ---
 title: "Wet van 4 mei 1972, houdende uitvoering van het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol"
+citeertitel: "Uitvoeringswet EEG-Executieverdrag"
 identifier: "BWBR0002815"
-country: "nl"
-rank: "wet"
-publication_date: "2008-09-01"
-last_updated: "2008-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002815"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1776823"
-version_id: "2641402"
-internal_id: "C2641401"
-label_id: "1732674"
-dtd_version: "2.0"
-original_entry_into_force: "1973-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002815/2008-09-01/0"
-intitule_bron: "Stb.1972-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-05-04"
-intitule_status: "goed"
-original_publication: "Stb.1972-240"
-original_signed_date: "1972-05-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "11154"
-entry_into_force_date: "1973-02-01"
-jci_1_3: "jci1.3:c:BWBR0002815&z=2008-09-01&g=2008-09-01"
-jci_1_0: "1.0:c:BWBR0002815&g=2008-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet EEG-Executieverdrag"
-signed_date: "1972-05-04"
-entry_into_force: "1973-02-01"
+publicatiedatum: 1973-02-01
+laatste_update: 2008-09-01
+status: geldig
+toestand: 2008-09-01
+bron: "https://wetten.overheid.nl/BWBR0002815"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 4 mei 1972, houdende uitvoering van het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er aanleiding is om voorzieningen te treffen tot uitvoering van het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol.
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap gesloten Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol (**Trb.** 1969, 101).
+In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap gesloten Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol (*Trb.* 1969, 101).
 
 ##### Artikel 2
 
@@ -99,7 +74,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 2. De beschikking is uitvoerbaar bij voorraad zonder zekerheidstelling, voor zover het gerechtshof niet anders beslist.
 
-3. Ten aanzien van de proceskosten is het bepaalde in de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) van toepassing.
+3. Ten aanzien van de proceskosten is het bepaalde in de tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering van toepassing.
 
 ##### Artikel 8
 
@@ -111,7 +86,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -120,5 +95,3 @@ Het in de voorafgaande artikelen bepaalde is van overeenkomstige toepassing ten 
 ##### Artikel 11
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

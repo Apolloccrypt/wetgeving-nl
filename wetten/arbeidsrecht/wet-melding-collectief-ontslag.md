@@ -1,43 +1,18 @@
 ---
 title: "Wet van 24 maart 1976, houdende regelen inzake melding van collectief ontslag"
+citeertitel: "Wet melding collectief ontslag"
 identifier: "BWBR0003026"
-country: "nl"
-rank: "wet"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003026"
+categorie: "Overig"
 soort: "wet"
-stam_id: "581203"
-version_id: "847532"
-internal_id: "C847541"
-label_id: "564134"
-dtd_version: "2.0"
-original_entry_into_force: "1976-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003026/2018-01-01/0"
-intitule_bron: "Stb.1976-223"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-03-24"
-intitule_status: "goed"
-original_publication: "Stb.1976-223"
-original_signed_date: "1976-03-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "13324"
-entry_into_force_date: "1976-12-01"
-jci_1_3: "jci1.3:c:BWBR0003026&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0003026&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet melding collectief ontslag"
-signed_date: "1976-03-24"
-entry_into_force: "1976-12-01"
+publicatiedatum: 1976-12-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0003026"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 24 maart 1976, houdende regelen inzake melding van collectief ontslag
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is werkgevers die voornemens zijn tot collectief ontslag van werknemers over te gaan, te verplichten dit te melden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -45,15 +20,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt verstaan onder:
 
-- a. **Onze Minister**, Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister*, Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **werkgever** en **werknemer:** partijen bij een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- b. *werkgever* en *werknemer:* partijen bij een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- c. **het Uitvoeringsinstituut werknemersverzekeringen:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- c. *het Uitvoeringsinstituut werknemersverzekeringen:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- d. **commissie:** de commissie, bedoeld in [artikel 671a, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a);
+- d. *commissie:* de commissie, bedoeld in [artikel 671a, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a);
 
-- e. **werkgebied:** een door Onze Minister vastgesteld gebied.
+- e. *werkgebied:* een door Onze Minister vastgesteld gebied.
 
 2. Bij ministeriële regeling kunnen categorieën van personen, voor de toepassing van deze wet, gelijk worden gesteld met werknemers als bedoeld in het eerste lid, onderdeel b.
 
@@ -65,7 +40,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. een arbeidsovereenkomst tijdens de proeftijd.
 
-2. Deze wet is voorts niet van toepassing op het beëindigen van arbeidsovereenkomsten wegens het aflopen van de seizoenarbeid voor het verrichten waarvan zij werden aangegaan. Onze Minister kan arbeid aanwijzen, die voor de toepassing van de vorige volzin in ieder geval als seizoenarbeid wordt beschouwd. Een zodanige aanwijzing wordt in de **Nederlandse Staatscourant** bekend gemaakt.
+2. Deze wet is voorts niet van toepassing op het beëindigen van arbeidsovereenkomsten wegens het aflopen van de seizoenarbeid voor het verrichten waarvan zij werden aangegaan. Onze Minister kan arbeid aanwijzen, die voor de toepassing van de vorige volzin in ieder geval als seizoenarbeid wordt beschouwd. Een zodanige aanwijzing wordt in de *Nederlandse Staatscourant* bekend gemaakt.
 
 #### § 2. Verplichting tot melding collectief ontslag
 
@@ -111,6 +86,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de ingevolge [artikel 4, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01) vereiste gegevens niet volledig zijn verstrekt, zendt het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.
 
+##### Artikel 5a
+
+1. De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.
+
+2. Het eerste lid is niet van toepassing indien een arbeidsovereenkomst wordt beëindigd ten gevolge van het faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.
+
 ##### Artikel 6
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen of de commissie neemt verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomsten van werknemers niet eerder in behandeling, dan wel neemt verzoeken waarop het nog niet heeft beslist niet verder in behandeling dan nadat:
@@ -151,6 +132,14 @@ Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de i
 
 4. Elk beding waarbij de bevoegdheid, bedoeld in het eerste of tweede lid, wordt uitgesloten of beperkt, is nietig.
 
+##### Artikel 7a
+
+Voor de toepassing van deze wet wordt de werkgever geacht aan de verplichting tot raadpleging van een belanghebbende vereniging van werknemers te hebben voldaan indien deze vereniging:
+
+- a. geen gevolg geeft aan een schriftelijke uitnodiging daartoe van de werkgever, mits die uitnodiging ten minste twee weken voor de datum van het overleg door de vereniging is ontvangen; of
+
+- b. schriftelijk heeft aangegeven af te zien van raadpleging.
+
 #### § 4. Slotbepalingen
 
 ##### Artikel 8
@@ -162,25 +151,3 @@ Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in ee
 1. Deze wet kan worden aangehaald als: Wet melding collectief ontslag.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.
-
-2. Het eerste lid is niet van toepassing indien een arbeidsovereenkomst wordt beëindigd ten gevolge van het faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.
-
-#### § 3. Gevolgen van niet-naleving meldingsplicht
-
-##### Artikel 7a
-
-Voor de toepassing van deze wet wordt de werkgever geacht aan de verplichting tot raadpleging van een belanghebbende vereniging van werknemers te hebben voldaan indien deze vereniging:
-
-- a. geen gevolg geeft aan een schriftelijke uitnodiging daartoe van de werkgever, mits die uitnodiging ten minste twee weken voor de datum van het overleg door de vereniging is ontvangen; of
-
-- b. schriftelijk heeft aangegeven af te zien van raadpleging.
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,43 +1,18 @@
 ---
 title: "Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting"
+citeertitel: "Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting."
 identifier: "BWBR0003390"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1981-04-16"
-last_updated: "1981-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003390"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4307063"
-version_id: "6069742"
-internal_id: "C6273351"
-label_id: "4285574"
-dtd_version: "2.0"
-original_entry_into_force: "1981-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003390/1981-04-16/0"
-intitule_bron: "Stcrt.1981-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-04-14"
-intitule_published: "1981-04-14"
-intitule_in_force: "1981-04-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1981-72"
-original_signed_date: "1981-04-14"
-original_published_date: "1981-04-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1981-04-16"
-jci_1_3: "jci1.3:c:BWBR0003390&z=1981-04-16&g=1981-04-16"
-jci_1_0: "1.0:c:BWBR0003390&g=1981-04-16"
-citeertitel_status: "officieel"
-short_title: "Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting."
-signed_date: "1981-04-14"
-entry_into_force: "1981-04-16"
+publicatiedatum: 1981-04-16
+laatste_update: 1981-04-16
+status: geldig
+toestand: 1981-04-16
+bron: "https://wetten.overheid.nl/BWBR0003390"
+opgehaald: 2026-07-30
 ---
+
 # Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting
-
-Gelet op [artikel 152, achtste en elfde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=152) (Stb. 1962, 17);
-
-Besluiten:
 
 ##### Artikel 1
 

@@ -1,43 +1,18 @@
 ---
 title: "Afgifte bewijzen van betrouwbaarheid"
+citeertitel: "Afgifte bewijzen van betrouwbaarheid en non-faillisement"
 identifier: "BWBR0003028"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-04-01"
-last_updated: "2004-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003028"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3694483"
-version_id: "5477402"
-internal_id: "C5670491"
-label_id: "3674284"
-dtd_version: "2.0"
-original_entry_into_force: "1976-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003028/2004-04-01/0"
-intitule_bron: "Stcrt.1976-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-04-02"
-intitule_published: "1976-04-27"
-intitule_in_force: "1976-04-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1976-81"
-original_signed_date: "1976-04-02"
-original_published_date: "1976-04-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1976-05-17"
-jci_1_3: "jci1.3:c:BWBR0003028&z=2004-04-01&g=2004-04-01"
-jci_1_0: "1.0:c:BWBR0003028&g=2004-04-01"
-citeertitel_status: "officieel"
-short_title: "Afgifte bewijzen van betrouwbaarheid en non-faillisement"
-signed_date: "1976-04-02"
-entry_into_force: "1976-05-17"
+publicatiedatum: 1976-05-17
+laatste_update: 2004-04-01
+status: geldig
+toestand: 2004-04-01
+bron: "https://wetten.overheid.nl/BWBR0003028"
+opgehaald: 2026-07-30
 ---
+
 # Afgifte bewijzen van betrouwbaarheid
-
-Gelet op het bepaalde in artikel 3 van de Richtlijn van de Raad van de Europese Gemeenschappen van 24 juli 1973 inzake de opheffing van de beperkingen van de vrijheid van vestiging op het gebied van het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche (nr. 73/240/EEG, Publikatieblad van de Europese Gemeenschappen 1973, nr. L228/20, van 16 augustus 1973),
-
-Besluit:
 
 ##### Artikel 1
 

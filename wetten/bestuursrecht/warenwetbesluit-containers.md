@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 25 maart 1983, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet op de gevaarlijke werktuigen (Stb. 1952, 104)"
+citeertitel: "Warenwetbesluit containers"
 identifier: "BWBR0003584"
-country: "nl"
-rank: "amvb"
-publication_date: "2006-04-01"
-last_updated: "2006-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003584"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "338963"
-version_id: "11204332"
-internal_id: "C15134751"
-label_id: "331614"
-dtd_version: "2.0"
-original_entry_into_force: "2003-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003584/2006-04-01/0"
-intitule_bron: "Stb.1983-177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-03-25"
-intitule_in_force: "1985-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2003-315"
-original_signed_date: "2003-07-03"
-original_published_date: "2003-07-31"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2003-315"
-entry_into_force_date: "2003-07-03"
-jci_1_3: "jci1.3:c:BWBR0003584&z=2006-04-01&g=2006-04-01"
-jci_1_0: "1.0:c:BWBR0003584&g=2006-04-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit containers"
-signed_date: "2003-07-03"
-entry_into_force: "2003-07-03"
+publicatiedatum: 2003-07-03
+laatste_update: 2006-04-01
+status: geldig
+toestand: 2006-04-01
+bron: "https://wetten.overheid.nl/BWBR0003584"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 25 maart 1983, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet op de gevaarlijke werktuigen (Stb. 1952, 104)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, mevr. mr. A. Kappeyne van de Coppello, in overeenstemming met Onze Minister van Verkeer en Waterstaat, van 24 januari 1983, Directoraat-Generaal van de Arbeid, Hoofdafdeling Wetgevingsbeleid, nr. 130773;
-
-Overwegende dat het wenselijk is regelen te stellen ter uitvoering van de Internationale Overeenkomst voor Veilige Containers (**Trb.** 1976, 28, en 1982, 50);
-
-Gelet op [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=1), [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=2), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=3), eerste en tweede lid, [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=6), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=12), derde lid, en [artikel 24 van de Wet op de gevaarlijke werktuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=24) (**Stb.** 1952, 104);
-
-De Raad van State gehoord (advies van 25 februari 1983, nr. W12.83.0071/23.3.08);
-
-Gezien het nader rapport van voornoemde Staatssecretaris van 21 maart 1983, Directoraat-Generaal van de Arbeid, Hoofdafdeling Wetgevingsbeleid, nr. 134385;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -63,6 +30,18 @@ In dit besluit wordt verstaan onder:
 
 - e. aangewezen instelling: een krachtens [artikel 7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a) met betrekking tot de keuring van containers aangewezen instelling.
 
+##### Artikel 1a
+
+Dit besluit is niet van toepassing op:
+
+- 1° containers voor het vervoer met behulp van luchtvaartuigen;
+
+- 2° containers met een door de vier bodemhoeken begrensde oppervlakte van minder dan 14 m² of, bij aanwezigheid van bovenhoekstukken, van minder dan 7 m²;
+
+- 3° containers, zijnde wissellaadbakken, overeenkomstig bij ministeriële regeling gestelde regels.
+
+### Hoofdstuk Ia. Verbodsbepalingen
+
 ##### Artikel 2
 
 1. Het is verboden containers die niet voldoen aan de vervaardigingsvoorschriften van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=II&z=2006-04-01&g=2006-04-01), te vervaardigen, te verhandelen of te gebruiken.
@@ -73,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het is verboden containers te behandelen of te vervoeren anders dan met inachtneming van de voorschriften bij of krachtens dit besluit gesteld met betrekking tot de wijze van vervoeren en behandelen.
 
-### Hoofdstuk Ia. Verbodsbepalingen
+### Hoofdstuk II. Vervaardiging
 
 ##### Artikel 3
 
@@ -126,6 +105,22 @@ Een te keuren container wordt in bedrijfsvaardige staat voor keuring beschikbaar
 - g. een beproeving van de zijwanden.
 
 2. Onze Minister kan met betrekking tot het in het eerste lid bepaalde nadere regelen stellen.
+
+##### Artikel 8a
+
+1. Nadat de keuring heeft plaatsgevonden worden containers die naar het oordeel van de aangewezen instelling voldoen aan artikel 3 voorzien van een merk van goedkeuring.
+
+2. Bij toepassing van artikel 5, tweede lid, wordt iedere container die overeenkomstig het goedgekeurde, het type kenmerkende monster is vervaardigd zonder nadere keuring van een merk van goedkeuring voorzien.
+
+3. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot:
+
+- a. het merk van goedkeuring;
+
+- b. het bevoegd verklaren van fabrikanten en handelaren tot het aanbrengen van het merk van goedkeuring en
+
+- c. de gelijkstelling van in het buitenland aangebrachte merken van goedkeuring met de in het eerste en tweede lid bedoelde merken van goedkeuring.
+
+Aan een bevoegdverklaring als bedoeld onder b kunnen voorschriften worden verbonden.
 
 ##### Artikel 9
 
@@ -181,7 +176,7 @@ De eigenaar van een container die na de goedkeuring zodanig is gewijzigd dat daa
 
 Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=11&z=2006-04-01&g=2006-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=12&z=2006-04-01&g=2006-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13&z=2006-04-01&g=2006-04-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13a&z=2006-04-01&g=2006-04-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13b&z=2006-04-01&g=2006-04-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&hoofdstuk=IV&artikel=13c&z=2006-04-01&g=2006-04-01) is van overeenkomstige toepassing op degene die ingevolge een overeenkomst met de eigenaar verplicht is tot naleving van die artikelen.
 
-### Hoofdstuk V. Merk van afkeuring
+### Hoofdstuk V. Aangewezen instellingen
 
 ##### Artikel 15
 
@@ -200,68 +195,6 @@ Het bepaalde in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR000358
 - f. naar behoren functioneert.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-##### Artikel 16
-
-Dit besluit berust op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=3), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16) en [32b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b).
-
-##### Artikel 17
-
-Dit besluit kan worden aangehaald als "Warenwetbesluit containers".
-
-##### Artikel 18
-
-Vervallen
-
-##### Artikel 19
-
-Vervallen
-
-##### Artikel 20
-
-Dit besluit kan worden aangehaald als "Besluit containers".
-
-##### Artikel 21
-
-Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Dit besluit is niet van toepassing op:
-
-- 1°. containers voor het vervoer met behulp van luchtvaartuigen;
-
-- 2°. containers met een door de vier bodemhoeken begrensde oppervlakte van minder dan 14 m² of, bij aanwezigheid van bovenhoekstukken, van minder dan 7 m²;
-
-- 3°. containers, zijnde wissellaadbakken, overeenkomstig bij ministeriële regeling gestelde regels.
-
-### Hoofdstuk II. Vervaardiging
-
-### Hoofdstuk III. Keuring
-
-##### Artikel 8a
-
-1. Nadat de keuring heeft plaatsgevonden worden containers die naar het oordeel van de aangewezen instelling voldoen aan artikel 3 voorzien van een merk van goedkeuring.
-
-2. Bij toepassing van artikel 5, tweede lid, wordt iedere container die overeenkomstig het goedgekeurde, het type kenmerkende monster is vervaardigd zonder nadere keuring van een merk van goedkeuring voorzien.
-
-3. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot:
-
-- a. het merk van goedkeuring;
-
-- b. het bevoegd verklaren van fabrikanten en handelaren tot het aanbrengen van het merk van goedkeuring en
-
-- c. de gelijkstelling van in het buitenland aangebrachte merken van goedkeuring met de in het eerste en tweede lid bedoelde merken van goedkeuring.
-
-Aan een bevoegdverklaring als bedoeld onder b kunnen voorschriften worden verbonden.
-
-### Hoofdstuk IV. Verkeers- en gebruiksvoorschriften
-
-### Hoofdstuk V. Aangewezen instellingen
 
 ##### Artikel 15a
 
@@ -283,6 +216,10 @@ De aangewezen instelling verstrekt jaarlijks aan Onze Minister een afschrift van
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+##### Artikel 16
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit berust op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=3), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=11a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16) en [32b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b).
+
+##### Artikel 17
+
+Dit besluit kan worden aangehaald als "Warenwetbesluit containers".

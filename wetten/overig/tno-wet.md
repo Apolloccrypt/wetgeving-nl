@@ -1,43 +1,18 @@
 ---
 title: "Wet van 19 december 1985, houdende regeling van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO"
+citeertitel: "TNO-wet"
 identifier: "BWBR0003906"
-country: "nl"
-rank: "wet"
-publication_date: "2022-05-01"
-last_updated: "2022-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003906"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "1763803"
-version_id: "2624282"
-internal_id: "C2624281"
-label_id: "1720334"
-dtd_version: "2.0"
-original_entry_into_force: "1986-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003906/2022-05-01/0"
-intitule_bron: "Stb.1985-762"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-12-19"
-intitule_status: "goed"
-original_publication: "Stb.1985-762"
-original_signed_date: "1985-12-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "18393"
-entry_into_force_date: "1986-05-01"
-jci_1_3: "jci1.3:c:BWBR0003906&z=2022-05-01&g=2022-05-01"
-jci_1_0: "1.0:c:BWBR0003906&g=2022-05-01"
-citeertitel_status: "officieel"
-short_title: "TNO-wet"
-signed_date: "1985-12-19"
-entry_into_force: "1986-05-01"
+publicatiedatum: 1986-05-01
+laatste_update: 2022-05-01
+status: geldig
+toestand: 2022-05-01
+bron: "https://wetten.overheid.nl/BWBR0003906"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 19 december 1985, houdende regeling van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat gewijzigde omstandigheden en inzichten het wenselijk maken de Wet van 30 oktober 1930 tot regeling van het toegepast-natuurwetenschappelijk onderzoek (**Stb.** 416) door een nieuwe wettelijke regeling te vervangen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -219,13 +194,17 @@ De Organisatie verwerft haar geldmiddelen door het aanvaarden van van rijkswege 
 
 7. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de vaststelling van bedragen, bedoeld in het vijfde lid.
 
+##### Artikel 21a
+
+Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet de raad van bestuur daarvan terstond mededeling aan Onze minister onder vermelding van de oorzaak van de verschillen.
+
 ##### Artikel 22
 
 Door de Organisatie kunnen financiële reserves worden gevormd, volgens door Onze minister in overeenstemming met Onze minister van financiën en, voorzover het betreft de hoofdgroep voor defensie-onderzoek, ook in overeenstemming met Onze minister van defensie te stellen regels.
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Inlichtingen, verslaglegging en controle
 
@@ -255,7 +234,11 @@ Vervallen
 
 6. Ten aanzien van de in het tweede lid bedoelde accountant is [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=24&z=2022-05-01&g=2022-05-01), van overeenkomstige toepassing.
 
-### Hoofdstuk 7. Goedkeuring, schorsing, vernietiging
+##### Artikel 26a
+
+Bij ministeriële regeling kunnen, de raad van bestuur gehoord, nadere voorschriften worden vastgesteld voor de inrichting van de begroting, het jaarverslag en de jaarrekening.
+
+### Hoofdstuk 7. Goedkeuring, schorsing, vernietiging en taakverwaarlozingsregeling
 
 ##### Artikel 27
 
@@ -269,7 +252,7 @@ Vervallen
 
 1. De besluiten van de raad van toezicht, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=13&z=2022-05-01&g=2022-05-01), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=14&z=2022-05-01&g=2022-05-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2022-05-01&g=2022-05-01), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=34&z=2022-05-01&g=2022-05-01), alsmede de besluiten van de raad voor defensie-onderzoek, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2022-05-01&g=2022-05-01), en [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=5&artikel=18&z=2022-05-01&g=2022-05-01), kunnen bij koninklijk besluit worden vernietigd.
 
-2. Het koninklijk besluit tot vernietiging wordt in het **Staatsblad** geplaatst.
+2. Het koninklijk besluit tot vernietiging wordt in het *Staatsblad* geplaatst.
 
 ##### Artikel 29
 
@@ -281,11 +264,11 @@ Vervallen
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Overige onderwerpen
 
@@ -317,7 +300,7 @@ Het door de Organisatie in opdracht van anderen dan de rijksoverheid of de lager
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven terzake van in deze wet geregelde onderwerpen, voorzover in de wet niet anders is bepaald.
 
-### Hoofdstuk 9. Nadere regels
+### Hoofdstuk 10. Overgangs- en slotbepalingen
 
 ##### Artikel 38
 
@@ -325,17 +308,17 @@ Het strategisch plan, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 39
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 40
 
-1. Op het tijdstip van inwerkingtreding van deze wet gaan alle rechten en verplichtingen van de Nederlandsche Centrale Organisatie voor toegepast-natuurwetenschappelijk onderzoek, bedoeld in de Wet van 30 oktober 1930 (**Stb.** 416) over op de Organisatie, bedoeld in deze wet, zonder dat daarvoor een nadere akte wordt gevorderd.
+1. Op het tijdstip van inwerkingtreding van deze wet gaan alle rechten en verplichtingen van de Nederlandsche Centrale Organisatie voor toegepast-natuurwetenschappelijk onderzoek, bedoeld in de Wet van 30 oktober 1930 (*Stb.* 416) over op de Organisatie, bedoeld in deze wet, zonder dat daarvoor een nadere akte wordt gevorderd.
 
 2. Wettelijke procedures en rechtsgedingen, waarbij de Nederlandsche Centrale Organisatie voor toegepast-natuurwetenschappelijk onderzoek partij is, worden voortgezet ten name van de Organisatie.
 
 3. Ten aanzien van de in de vorige leden begrepen onroerende zaken zal verandering in de tenaamstelling in de kadastrale legger plaatshebben. De raad van bestuur doet de daartoe nodige opgave aan de desbetreffende hypotheekbewaarder.
 
-4. Terzake van verkrijgingen, bedoeld in dit artikel, is de [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740) (**Stb.** 1970, 611) niet van toepassing.
+4. Terzake van verkrijgingen, bedoeld in dit artikel, is de [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740) (*Stb.* 1970, 611) niet van toepassing.
 
 ##### Artikel 41
 
@@ -347,34 +330,14 @@ Op het tijdstip van inwerkingtreding van deze wet worden al degenen, die in dien
 
 ##### Artikel 43
 
-Het verslag, bedoeld in artikel 12 van de Wet van 30 oktober 1930 (**Stb.** 416), wordt voor het laatst uitgebracht over het kalenderjaar, voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
+Het verslag, bedoeld in artikel 12 van de Wet van 30 oktober 1930 (*Stb.* 416), wordt voor het laatst uitgebracht over het kalenderjaar, voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 44
 
-De Wet van 30 oktober 1930 tot regeling van het toegepast natuurwetenschappelijk onderzoek (**Stb.** 416) wordt ingetrokken.
+De Wet van 30 oktober 1930 tot regeling van het toegepast natuurwetenschappelijk onderzoek (*Stb.* 416) wordt ingetrokken.
 
 ##### Artikel 45
 
 1. Deze wet kan worden aangehaald als: TNO-wet.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet de raad van bestuur daarvan terstond mededeling aan Onze minister onder vermelding van de oorzaak van de verschillen.
-
-### Hoofdstuk 6. Inlichtingen, verslaglegging en controle
-
-##### Artikel 26a
-
-Bij ministeriële regeling kunnen, de raad van bestuur gehoord, nadere voorschriften worden vastgesteld voor de inrichting van de begroting, het jaarverslag en de jaarrekening.
-
-### Hoofdstuk 7. Goedkeuring, schorsing, vernietiging en taakverwaarlozingsregeling
-
-### Hoofdstuk 8. Overige onderwerpen
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

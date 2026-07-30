@@ -1,43 +1,18 @@
 ---
 title: "Rijkswet van 18 december 1985, tot vaststelling van een Reglement voor de Gouverneur van Aruba"
+citeertitel: "Reglement voor de Gouverneur van Aruba"
 identifier: "BWBR0003900"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003900"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "175473"
-version_id: "241962"
-internal_id: "C241961"
-label_id: "174364"
-dtd_version: "2.0"
-original_entry_into_force: "1986-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003900/2020-04-01/0"
-intitule_bron: "Stb.1985-671"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1985-671"
-original_signed_date: "1985-12-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "19108"
-entry_into_force_date: "1986-01-01"
-jci_1_3: "jci1.3:c:BWBR0003900&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0003900&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Reglement voor de Gouverneur van Aruba"
-signed_date: "1985-12-18"
-entry_into_force: "1986-01-01"
+publicatiedatum: 1986-01-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0003900"
+opgehaald: 2026-07-30
 ---
+
 # Rijkswet van 18 december 1985, tot vaststelling van een Reglement voor de Gouverneur van Aruba
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is, in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Aruba, uitvoering te geven aan het bepaalde in artikel 2, tweede en derde lid, van het Statuut voor het Koninkrijk;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Eerste afdeling Benoeming en ontslag van de Gouverneur
 
@@ -263,11 +238,11 @@ De landsverordening kan aan de Gouverneur als orgaan van het Koninkrijk met koni
 
 - c. wanneer hij opzettelijk nalaat uitvoering te geven of te doen geven aan de voorschriften van dit reglement of andere in Aruba geldende wettelijke regelingen, of aan koninklijke besluiten, geen wettelijke regelingen zijnde, doch waarvan hem de uitvoering is opgedragen;
 
-- d. indien hij zonder opzet de uitvoering onder letter **c** omschreven, grovelijk verzuimt.
+- d. indien hij zonder opzet de uitvoering onder letter *c* omschreven, grovelijk verzuimt.
 
 2. De feiten in dit artikel vermeld worden beschouwd als misdrijven.
 
-3. De feiten, vermeld onder letters **a**, b en **c** worden gestraft met de straf genoemd in [artikel 355](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=355), en het feit, vermeld onder letter **d,** met de straf genoemd in [artikel 356 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=356).
+3. De feiten, vermeld onder letters *a*, b en *c* worden gestraft met de straf genoemd in [artikel 355](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=355), en het feit, vermeld onder letter *d,* met de straf genoemd in [artikel 356 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=356).
 
 ##### Artikel 26
 
@@ -276,5 +251,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 27
 
 Deze rijkswet kan worden aangehaald als Reglement voor de Gouverneur van Aruba.
-
-Lasten en bevelen dat deze in het **Staatsblad** en in het **officiële publicatieblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

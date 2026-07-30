@@ -1,43 +1,18 @@
 ---
 title: "Uitvoering Wet op de gevaarlijke werktuigen en Besluit containers"
+citeertitel: "Warenwetregeling containers"
 identifier: "BWBR0003763"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003763"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4874313"
-version_id: "7804572"
-internal_id: "C9520861"
-label_id: "4852464"
-dtd_version: "2.0"
-original_entry_into_force: "1985-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003763/2015-01-01/0"
-intitule_bron: "Stcrt.1985-23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-01-28"
-intitule_published: "1985-02-01"
-intitule_in_force: "1985-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-23"
-original_signed_date: "1985-01-28"
-original_published_date: "1985-02-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-06-30"
-jci_1_3: "jci1.3:c:BWBR0003763&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0003763&g=2015-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Warenwetregeling containers"
-signed_date: "1985-01-28"
-entry_into_force: "1985-06-30"
+publicatiedatum: 1985-06-30
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0003763"
+opgehaald: 2026-07-30
 ---
+
 # Uitvoering Wet op de gevaarlijke werktuigen en Besluit containers
-
-Gelet op artikel 4, tweede lid, eerste zin, vijfde en zesde lid, artikel 5, derde en vierde lid, artikel 11, eerste lid, en artikel 12, eerste lid, eerste zin, van de Wet op de gevaarlijke werktuigen (Stb. 1952 104), alsmede [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=2), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), en [artikel 15, derde lid, van het Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=15) (Stb. 1983, 177).
-
-Besluit:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -65,6 +40,32 @@ Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit
 
 - b. ontworpen zijn en worden gebruikt voor vervoer uitsluitend over de weg of uitsluitend over rails en over de weg dan wel, geplaatst op een rail- of wegvoertuig, worden vervoerd over zee, met uitzondering van oceaankruisend vervoer.
 
+##### Artikel 2a
+
+In het jaarverslag, bedoeld in artikel 7c, tweede lid, van de Warenwet, worden door de aangewezen instelling ten minste de volgende onderwerpen behandeld:
+
+- a. de door de instelling afgegeven, ingetrokken dan wel geweigerde certificaten;
+
+- b. wijzigingen in de op het werkveld van de instelling betrekking hebbende accreditaties, reglementen en procedures;
+
+- c. wijzigingen in de op het werkveld van de instelling betrekking hebbende taakverdeling;
+
+- d. wijzigingen in de bestuurssamenstelling;
+
+- e. wijzigingen in de statuten of het huishoudelijk reglement;
+
+- f. aan derden uitbestede werkzaamheden;
+
+- g. structurele knelpunten op het werkveld van de instelling die zich in de uitvoeringspraktijk hebben voorgedaan;
+
+- h. het gevoerde overleg en de samenwerking op het werkveld met andere instellingen;
+
+- i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
+
+- j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;
+
+- k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.
+
 ### Hoofdstuk II. Keuring
 
 ##### Artikel 3
@@ -79,19 +80,19 @@ De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit cont
 
 - a. in geval van hijsen aan de bovenhoekstukken:
 
-- 1º. bij een nominale lengte van de container tot en met 3000 mm op zodanige wijze onderworpen aan de hijskrachten op de vier bovenhoekstukken, dat de hoek tussen elk deel van de hijsinrichting en de vertikaal 30° bedraagt, en
+   - 1º. bij een nominale lengte van de container tot en met 3000 mm op zodanige wijze onderworpen aan de hijskrachten op de vier bovenhoekstukken, dat de hoek tussen elk deel van de hijsinrichting en de vertikaal 30° bedraagt, en
 
-- 2º. bij een nominale lengte van de container van meer dan 3000 mm onderworpen aan vertikale hijskrachten op de vier bovenhoekstukken;
+   - 2º. bij een nominale lengte van de container van meer dan 3000 mm onderworpen aan vertikale hijskrachten op de vier bovenhoekstukken;
 
 - b. in geval van hijsen aan de bodemhoekstukken op zodanige wijze onderworpen aan de hijskrachten, dat de delen van de hijsinrichting slechts op die bodemhoekstukken uitwerking hebben. De hijskrachten moeten worden uitgeoefend onder een hoek met het horizontale vlak van:
 
-- 60° bij een nominale lengte van de container van minder dan 6000 mm,
+   - 60° bij een nominale lengte van de container van minder dan 6000 mm,
 
-- 45° bij een nominale lengte van de container van 6000 mm tot 9000 mm,
+   - 45° bij een nominale lengte van de container van 6000 mm tot 9000 mm,
 
-- 37° bij een nominale lengte van de container van 9000 mm tot 12000 mm,
+   - 37° bij een nominale lengte van de container van 9000 mm tot 12000 mm,
 
-- 30° bij een nominale lengte van de container van 12000 mm of meer.
+   - 30° bij een nominale lengte van de container van 12000 mm of meer.
 
 3. Een container die ingericht is om te worden opgehesen met behulp van lepels in sleuven, wordt bij de hefbeproeving geplaatst op staven die zich in één horizontaal vlak bevinden en waarvan de breedte overeenstemt met die van de voor het heffen van een beladen container te gebruiken lepels. De container moet zodanig worden geplaatst, dat in elke lepelsleuf een staaf gestoken is over een afstand van 75% van de lengte van de sleuf.
 
@@ -99,7 +100,7 @@ De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit cont
 
 5. Gedurende de hefbeproeving moet de container gelijktijdig onderworpen zijn aan de belastingen overeenkomstig de hierna volgende tabel:
 
-| **kolom 1** | **kolom 2** |
+| kolom 1 | kolom 2 |
 | --- | --- |
 | container als bedoeld in het: | een zodanige inwendige, gelijkmatig verdeelde, belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan: |
 | tweede lid | 2 R |
@@ -182,11 +183,17 @@ een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met
 
 4. Indien de zijwanden van een container zodanig ontworpen zijn, dat zij een andere kracht dan 0,6 × de zwaartekracht bij Pg kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.
 
+##### Artikel 10a
+
+1. Containers met één ontbrekende deur worden voor gebruik gekeurd.
+
+2. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=5&z=2015-01-01&g=2015-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op de keuring, bedoeld in het eerste lid.
+
 ### Hoofdstuk III. Merk van goedkeuring
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -196,27 +203,27 @@ Vervallen
 
 - b. in letters en cijfers met een hoogte van ten minste 5 mm onder elkaar:
 
-- 1º. het teken NL- met daarachter de aanduiding van de goedkeuring,
+   - 1º. het teken NL- met daarachter de aanduiding van de goedkeuring,
 
-- 2º. de maand en het jaar van fabricage,
+   - 2º. de maand en het jaar van fabricage,
 
-- 3º. het identificatienummer dat de fabrikant aan de container heeft toegekend, of het met dat nummer corresponderende identificatienummer (met inbegrip van het voorvoegsel) waaronder de eigenaar de container heeft geregistreerd, dan wel, indien de container is vervaardigd vóór het tijdstip van inwerkingtreding van het [Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) en dat nummer niet bekend is, het identificatienummer dat de aangewezen instelling aan de container heeft toegekend,
+   - 3º. het identificatienummer dat de fabrikant aan de container heeft toegekend, of het met dat nummer corresponderende identificatienummer (met inbegrip van het voorvoegsel) waaronder de eigenaar de container heeft geregistreerd, dan wel, indien de container is vervaardigd vóór het tijdstip van inwerkingtreding van het [Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) en dat nummer niet bekend is, het identificatienummer dat de aangewezen instelling aan de container heeft toegekend,
 
-- 4º. de maximale brutomassa tijdens vervoer (kg en lb),
+   - 4º. de maximale brutomassa tijdens vervoer (kg en lb),
 
-- 5º. de toelaatbare stapelbelasting bij 1,8 g (in kg en lb),
+   - 5º. de toelaatbare stapelbelasting bij 1,8 g (in kg en lb),
 
-- 6º. de kracht bij de torsiebeproeving in newtons,
+   - 6º. de kracht bij de torsiebeproeving in newtons,
 
-- 7º. de kopwandsterkte, indien de kopwanden zo zijn ontworpen dat zij een kracht, anders dan 0,4 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,4 Pg) kunnen weerstaan,
+   - 7º. de kopwandsterkte, indien de kopwanden zo zijn ontworpen dat zij een kracht, anders dan 0,4 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,4 Pg) kunnen weerstaan,
 
-- 8º. de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede
+   - 8º. de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede
 
-- 9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=11) voor de eerste maal moet worden onderzocht,
+   - 9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=11) voor de eerste maal moet worden onderzocht,
 
-- 10°. De stapelsterkte bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TOELAATBARE STAPELBELASTING BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (in kg en lb). De markering wordt aangegeven nabij de waarde van de stapelbeproeving,
+   - 10°. De stapelsterkte bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TOELAATBARE STAPELBELASTING BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (in kg en lb). De markering wordt aangegeven nabij de waarde van de stapelbeproeving,
 
-- 11°. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TORSIEBEPROEVING MET EEN ONTBREKENDE DEUR (newtons). De markering wordt aangegeven nabij de waarde van de torsiebeproeving.
+   - 11°. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TORSIEBEPROEVING MET EEN ONTBREKENDE DEUR (newtons). De markering wordt aangegeven nabij de waarde van de torsiebeproeving.
 
 2. De inrichting van de plaat, bedoeld in het eerste lid, geschiedt overeenkomstig Bijlage 1, Hoofdstuk I, Bepaling 1, en Aanhangsel bij de Internationale Overeenkomst voor veilige containers 1972 (Trb. 1976, 28).
 
@@ -230,11 +237,11 @@ Fabrikanten van en handelaren in containers zijn bevoegd om containers die gehee
 
 - b. in een daartoe bestemd register aantekening wordt gehouden van ten minste:
 
-- 1º. de identificatienummers die de fabrikant aan de containers heeft toegekend,
+   - 1º. de identificatienummers die de fabrikant aan de containers heeft toegekend,
 
-- 2º. de data van aflevering van de containers, alsmede
+   - 2º. de data van aflevering van de containers, alsmede
 
-- 3º. de namen en adressen van degenen aan wie de containers worden afgeleverd;
+   - 3º. de namen en adressen van degenen aan wie de containers worden afgeleverd;
 
 - c. alvorens wordt aangevangen met de vervaardiging van een nieuwe serie containers overeenkomstig het goedgekeurde monster of de goedgekeurde monsters, daarvan aan de aangewezen instelling kennis wordt gegeven;
 
@@ -248,80 +255,30 @@ Fabrikanten van en handelaren in containers zijn bevoegd om containers die gehee
 
 Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die in de staten, zijnde Partijen bij de Internationale Overeenkomst voor Veilige Containers (Trb. 1976, 28) in overeenstemming met de aldaar geldende wettelijke en bestuursrechtelijke regelen op containers aangebracht zijn.
 
-### Hoofdstuk IV. Keuringstarief
+### Hoofdstuk IV. Toezicht
 
 ##### Artikel 15
 
 De toezichthouder onderwerpt een goedgekeurde container aan controle met inachtneming van Bijlage III, paragrafen 1, 2 en 4, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).
 
-### Hoofdstuk IV. Toezicht
+### Hoofdstuk V. Aanwijzing ambtenaren
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Merk van afkeuring
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VI. Merk van afkeuring
+### Hoofdstuk VII. Slotbepalingen
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Warenwetregeling containers.
-
-##### Artikel 2a
-
-In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](onbekend), worden door de aangewezen instelling ten minste de volgende onderwerpen behandeld:
-
-- a. de door de instelling afgegeven, ingetrokken dan wel geweigerde certificaten;
-
-- b. wijzigingen in de op het werkveld van de instelling betrekking hebbende accreditaties, reglementen en procedures;
-
-- c. wijzigingen in de op het werkveld van de instelling betrekking hebbende taakverdeling;
-
-- d. wijzigingen in de bestuurssamenstelling;
-
-- e. wijzigingen in de statuten of het huishoudelijk reglement;
-
-- f. aan derden uitbestede werkzaamheden;
-
-- g. structurele knelpunten op het werkveld van de instelling die zich in de uitvoeringspraktijk hebben voorgedaan;
-
-- h. het gevoerde overleg en de samenwerking op het werkveld met andere instellingen;
-
-- i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
-
-- j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;
-
-- k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.
-
-### Hoofdstuk II. Keuring
-
-### Hoofdstuk III. Merk van goedkeuring
-
-### Hoofdstuk IV. Keuringstarief
-
-### Hoofdstuk V. Aanwijzing ambtenaren
-
-### Hoofdstuk VI. Merk van afkeuring
-
-### Hoofdstuk VII. Slotbepalingen
-
-##### Artikel 10a
-
-1. Containers met één ontbrekende deur worden voor gebruik gekeurd.
-
-2. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=5&z=2015-01-01&g=2015-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op de keuring, bedoeld in het eerste lid.
-
-### Hoofdstuk III. Merk van goedkeuring
-
-### Hoofdstuk V. Aanwijzing ambtenaren
-
-### Hoofdstuk VII. Slotbepalingen

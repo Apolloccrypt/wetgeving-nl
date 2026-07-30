@@ -1,46 +1,18 @@
 ---
 title: "Wet van 1 maart 1980, houdende aanpassing van de Nederlandse wetgeving aan de richtlijn van de Raad van de Europese Gemeenschappen van 9 februari 1976 inzake de gelijke behandeling van mannen en vrouwen"
+citeertitel: "Wet gelijke behandeling van mannen en vrouwen"
 identifier: "BWBR0003299"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003299"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "283373"
-version_id: "412312"
-internal_id: "C412311"
-label_id: "277944"
-dtd_version: "2.0"
-original_entry_into_force: "1998-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003299/2026-01-01/0"
-intitule_bron: "Stb.1980-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-03-01"
-intitule_status: "goed"
-original_publication: "Stb.1998-742"
-original_signed_date: "1998-12-24"
-original_published_date: "1998-12-30"
-original_effect: "structuurwijziging"
-original_dossier: "26239"
-original_url_id: "stb-1998-742"
-entry_into_force_date: "1998-12-31"
-entry_into_force_dossier: "26239"
-jci_1_3: "jci1.3:c:BWBR0003299&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0003299&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet gelijke behandeling van mannen en vrouwen"
-signed_date: "1998-12-24"
-entry_into_force: "1998-12-31"
+publicatiedatum: 1998-12-31
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0003299"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 1 maart 1980, houdende aanpassing van de Nederlandse wetgeving aan de richtlijn van de Raad van de Europese Gemeenschappen van 9 februari 1976 inzake de gelijke behandeling van mannen en vrouwen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de Nederlandse wetgeving aan te passen met het oog op de richtlijn van de Raad van de Europese Gemeenschappen van 9 februari 1976 inzake de gelijke behandeling van mannen en vrouwen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemeen
 
@@ -82,6 +54,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Elk beding dat strijdig is met het in het eerste lid bepaalde is nietig.
 
+##### Artikel 1c
+
+Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en [681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of de [artikelen 1614aa](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614aa) en [1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
+
 ##### Artikel 2
 
 1. Het is niet toegelaten onderscheid te maken met betrekking tot de voorwaarden voor de toegang tot en de mogelijkheden tot uitoefening van en ontplooiing binnen het vrije beroep, alsmede wat betreft regelingen tussen beroepsgenoten inzake sociale zekerheid niet zijnde pensioenvoorzieningen als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=3&artikel=12a&z=2026-01-01&g=2026-01-01).
@@ -109,6 +85,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 2. Van het in het eerste lid van dit artikel bepaalde mag, behoudens voor wat betreft het afnemen van het examen en mits voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn, worden afgeweken indien de eigen aard van een instelling voor bijzonder onderwijs zich tegen het in dat lid bepaalde verzet.
 
 3. Iedere bepaling die strijdig is met het in het eerste lid bepaalde, is nietig.
+
+##### Artikel 4a
+
+1. Het is niet toegelaten onderscheid te maken bij het lidmaatschap van of de betrokkenheid bij een werknemers- of werkgeversorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.
+
+2. Iedere bepaling die in strijd is met het eerste lid is nietig.
 
 ##### Artikel 5
 
@@ -152,7 +134,7 @@ Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent 
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -200,45 +182,45 @@ Het bepaalde in [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wett
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20a
 
-Vervallen
+*Vervallen*
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 21
 
-1. Met het toezicht op de naleving van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen ambtenaren. Onze Minister van Sociale Zaken en Werkgelegenheid kan ten behoeve van dit toezicht een onderzoek doen instellen door die ambtenaren. Voorzover het de openbare dienst betreft kan Onze Minister van Binnenlandse Zaken Onze Minister van Sociale Zaken en Werkgelegenheid verzoeken een onderzoek als bedoeld in de tweede volzin te doen instellen. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+1. Met het toezicht op de naleving van [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen ambtenaren. Onze Minister van Sociale Zaken en Werkgelegenheid kan ten behoeve van dit toezicht een onderzoek doen instellen door die ambtenaren. Voorzover het de openbare dienst betreft kan Onze Minister van Binnenlandse Zaken Onze Minister van Sociale Zaken en Werkgelegenheid verzoeken een onderzoek als bedoeld in de tweede volzin te doen instellen. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 2. Indien uit een onderzoek blijkt dat een onderscheid is of wordt gemaakt als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of in deze wet doet Onze Minister van Sociale Zaken en Werkgelegenheid hiervan mededeling aan de natuurlijke persoon, rechtspersoon of het bevoegde gezag dat het onderscheid heeft gemaakt of maakt, en, indien het een onderscheid als bedoeld in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) of [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1b&z=2026-01-01&g=2026-01-01) of [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1c&z=2026-01-01&g=2026-01-01) van deze wet betreft, aan de betrokken ondernemingsraad of het daarmee vergelijkbare medezeggenschapsorgaan, alsmede aan de daarvoor in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel.
 
@@ -246,40 +228,18 @@ De mededeling aan de betrokken ondernemingsraad of het daarmee vergelijkbare med
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), en de voordracht voor een algemene maatregel van bestuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.
-
-##### Artikel 24
-
-1. Deze wet kan worden aangehaald als: Wet gelijke behandeling van mannen en vrouwen.
-
-2. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1c
-
-Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en [681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) of de [artikelen 1614aa](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614aa) en [1615s van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615s) van overeenkomstige toepassing.
-
-##### Artikel 4a
-
-1. Het is niet toegelaten onderscheid te maken bij het lidmaatschap van of de betrokkenheid bij een werknemers- of werkgeversorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.
-
-2. Iedere bepaling die in strijd is met het eerste lid is nietig.
-
-#### § 2. Gelijke beloning voor arbeid van gelijke waarde
-
-#### § 3. Gelijke behandeling wat betreft pensioenvoorzieningen
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), en de voordracht voor een algemene maatregel van bestuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01) wordt niet gedaan dan nadat het ontwerp in de *Staatscourant* is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide Kamers der Staten-Generaal overgelegd.
 
 ##### Artikel 23a
 
 De [artikelen 1 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze wet zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 24
+
+1. Deze wet kan worden aangehaald als: Wet gelijke behandeling van mannen en vrouwen.
+
+2. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.

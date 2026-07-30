@@ -1,46 +1,53 @@
 ---
 title: "Boekhoudvoorschriften ISOVSO"
 identifier: "BWBR0003850"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1985-10-09"
-last_updated: "1985-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003850"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3971943"
-version_id: "5745022"
-internal_id: "C5947751"
-label_id: "3951934"
-dtd_version: "2.0"
-original_entry_into_force: "1985-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003850/1985-10-09/0"
-intitule_bron: "Stcrt.1985-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-09-20"
-intitule_published: "1985-10-07"
-intitule_in_force: "1985-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-194"
-original_signed_date: "1985-09-20"
-original_published_date: "1985-10-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-10-09"
-jci_1_3: "jci1.3:c:BWBR0003850&z=1985-10-09&g=1985-10-09"
-jci_1_0: "1.0:c:BWBR0003850&g=1985-10-09"
-citeertitel_status: "officieel"
-signed_date: "1985-09-20"
-entry_into_force: "1985-10-09"
+publicatiedatum: 1985-10-09
+laatste_update: 1985-10-09
+status: geldig
+toestand: 1985-10-09
+bron: "https://wetten.overheid.nl/BWBR0003850"
+opgehaald: 2026-07-30
 ---
+
 # Boekhoudvoorschriften ISOVSO
-
-Gelet op artikel 110 van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs (Stb. 1984, 654);
-
-Besluit:
 
 ##### Artikel 1
 
 In de regeling wordt verstaan onder:
+
+wet:
+
+Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs (Stb. 1984, 654);
+
+school:
+
+school voor speciaal onderwijs, school voor voortgezet speciaal onderwijs, school voor speciaal en voortgezet speciaal onderwijs of afdeling als bedoeld in artikel 9, tweede en derde lid, van de wet, tenzij het tegendeel blijkt;
+
+bevoegd gezag:
+
+een rechtspersoon als bedoeld in artikel 44 van de wet;
+
+commissie:
+
+de commissie, bedoeld in artikel 33, tweede lid, van de wet;
+
+ambulante begeleiding:
+
+de begeleiding door een aan een school verbonden leraar van leerlingen in het basisonderwijs of het voortgezet onderwijs die zonder deze begeleiding zouden zijn aangewezen op het speciaal onderwijs of het voortgezet speciaal onderwijs;
+
+stage:
+
+de praktijktijd, bedoeld in artikel 16 van de wet;
+
+symbiose:
+
+onderwijs waarbij een of meer groepen leerlingen, ter uitvoering van een deel van het schoolwerkplan voor zover het betrekking heeft op voortgezet speciaal onderwijs, onderwijs ontvangen op een school voor voortgezet onderwijs;
+
+lichamelijke oefening:
+
+de onderwijsactiviteit lichamelijke oefening, bedoeld in artikel 12 en artikel 13 van de wet.
 
 ##### Artikel 2
 
@@ -52,51 +59,51 @@ In de regeling wordt verstaan onder:
 
 - b. materiële uitgaven ten behoeve van:
 
-- groot onderhoud van schoolgebouwen en bijbehorende terreinen,
+   - groot onderhoud van schoolgebouwen en bijbehorende terreinen,
 
-- klein onderhoud van gebouwen en terreinen,
+   - klein onderhoud van gebouwen en terreinen,
 
-- elektriciteitsgebruik,
+   - elektriciteitsgebruik,
 
-- waterverbruik,
+   - waterverbruik,
 
-- verwarming,
+   - verwarming,
 
-- schoonhouden,
+   - schoonhouden,
 
-- belastingen en andere publiekrechtelijke heffingen,
+   - belastingen en andere publiekrechtelijke heffingen,
 
-- verzekeringen,
+   - verzekeringen,
 
-- beheer en bestuur,
+   - beheer en bestuur,
 
-- onderhoud en vervanging van leer- en hulpmiddelen,
+   - onderhoud en vervanging van leer- en hulpmiddelen,
 
-- onderhoud van meubilair,
+   - onderhoud van meubilair,
 
-- de commissie,
+   - de commissie,
 
-- ambulante begeleiding,
+   - ambulante begeleiding,
 
-- de schooladministratie,
+   - de schooladministratie,
 
-- vervoer en overige kosten in verband met stage,
+   - vervoer en overige kosten in verband met stage,
 
-- vervoer en overige kosten in verband met symbiose,
+   - vervoer en overige kosten in verband met symbiose,
 
-- vervoer en overige kosten in verband met lichamelijke oefening,
+   - vervoer en overige kosten in verband met lichamelijke oefening,
 
-- vervoer en overige kosten in verband met schoolzwemmen,
+   - vervoer en overige kosten in verband met schoolzwemmen,
 
-- de medezeggenschap,
+   - de medezeggenschap,
 
-- andere voorzieningen ter verzekering van de goede gang van het onderwijs;
+   - andere voorzieningen ter verzekering van de goede gang van het onderwijs;
 
 - c. uitgaven ten behoeve van:
 
-- de huisvestingsvoorzieningen, anders dan vermeld in onderdeel b,
+   - de huisvestingsvoorzieningen, anders dan vermeld in onderdeel b,
 
-- de vervanging van meubilair.
+   - de vervanging van meubilair.
 
 3. De administratie van elke school omvat een overzicht van:
 

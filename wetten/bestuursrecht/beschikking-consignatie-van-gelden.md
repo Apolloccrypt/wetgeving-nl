@@ -1,46 +1,17 @@
 ---
 title: "Beschikking consignatie van gelden"
 identifier: "BWBR0003370"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003370"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3898153"
-version_id: "5662922"
-internal_id: "C5856081"
-label_id: "3878164"
-dtd_version: "2.0"
-original_entry_into_force: "1981-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003370/2002-01-01/0"
-intitule_bron: "Stcrt.1981-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-01-26"
-intitule_published: "1981-01-26"
-intitule_in_force: "1981-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1981-16"
-original_signed_date: "1981-01-26"
-original_published_date: "1981-01-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1981-02-15"
-jci_1_3: "jci1.3:c:BWBR0003370&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0003370&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1981-01-26"
-entry_into_force: "1981-02-15"
+publicatiedatum: 1981-02-15
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0003370"
+opgehaald: 2026-07-30
 ---
+
 # Beschikking consignatie van gelden
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=4), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=6), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=7), [9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=9), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=10) en [11, derde lid, van de Wet op de consignatie van gelden](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=11);
-
-Besluit:
-
-Vast te stellen de navolgende beschikking Consignatie van gelden, met één bijlage.
-
-Beschikking consignatie van gelden
 
 ##### Artikel 1
 
@@ -91,31 +62,3 @@ Het model van het bewijs van consignatie, bedoeld in [artikel 6 van de wet](http
 ##### Artikel 7
 
 De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003370&artikel=3&z=2002-01-01&g=2002-01-01) bedoelde Directeur onderscheidenlijk de Directeur van de Belastingdienst/Directie Particulieren, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003370&artikel=6&z=2002-01-01&g=2002-01-01), gaat slechts tot uitkering over nadat hen is gebleken dat de verzoeker tot de door hem verzochte uitkering gerechtigd is.
-
-## 1. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003370&bijlage=1&z=2002-01-01&g=2002-01-01)
-
-Bij de ontvanger der directe belastingen te................
-
-is op...............
-
-geconsigneerd door...............
-
-handelende voor zichzelf/als gemachtigde van )...............
-
-een bedrag van...............
-
-....................................................................(€.....,........)
-
-Deze consignatie is geschied krachtens...............
-
-op verzoek van...............
-
-ten behoeve van de hierna vermelde belanghebbende(n)...............
-
-Het bedrag is geboekt in het journaal Comptabiliteit nr 9 onder volgnummer...............
-
-De ontvanger...............
-
-| Volgnr. | Namen en adressen van de belanghebbenden | Bedrag | Aantekeningen |
-| --- | --- | --- | --- |
-|   | overbrengen |   |   |

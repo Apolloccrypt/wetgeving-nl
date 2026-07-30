@@ -1,43 +1,18 @@
 ---
 title: "RIJKSWET van 11 februari 1971, houdende verdeling van het bedrag bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (Trb. 1967, 195, laatstelijk Trb. 1969, 11)"
+citeertitel: "Rijkswet houdende verdeling van het bedrag bedoeld in de overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen"
 identifier: "BWBR0002749"
-country: "nl"
-rank: "rijkswet"
-publication_date: "1971-07-01"
-last_updated: "1971-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002749"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "200053"
-version_id: "273702"
-internal_id: "C273701"
-label_id: "197374"
-dtd_version: "2.0"
-original_entry_into_force: "1971-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002749/1971-07-01/0"
-intitule_bron: "Stb.1971-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-02-11"
-intitule_status: "goed"
-original_publication: "Stb.1971-60"
-original_signed_date: "1971-02-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "10665"
-entry_into_force_date: "1971-07-01"
-jci_1_3: "jci1.3:c:BWBR0002749&z=1971-07-01&g=1971-07-01"
-jci_1_0: "1.0:c:BWBR0002749&g=1971-07-01"
-citeertitel_status: "officieel"
-short_title: "Rijkswet houdende verdeling van het bedrag bedoeld in de overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen"
-signed_date: "1971-02-11"
-entry_into_force: "1971-07-01"
+publicatiedatum: 1971-07-01
+laatste_update: 1971-07-01
+status: geldig
+toestand: 1971-07-01
+bron: "https://wetten.overheid.nl/BWBR0002749"
+opgehaald: 2026-07-30
 ---
+
 # RIJKSWET van 11 februari 1971, houdende verdeling van het bedrag bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (Trb. 1967, 195, laatstelijk Trb. 1969, 11)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een regeling te treffen omtrent de verdeling van het bedrag dat krachtens de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (laatstelijk **Trb.** 1969, 11) ten behoeve van Nederlandse belanghebbenden ter beschikking is gesteld;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut van het Koninkrijk in acht genomen, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -45,9 +20,9 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 Voor de toepassing van deze Rijkswet wordt verstaan onder:
 
-- a. Overeenkomst: de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (laatstelijk **Trb.** 1969, 11);
+- a. Overeenkomst: de Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen, van 20 oktober 1967 (laatstelijk *Trb.* 1969, 11);
 
-- b. schuldeiser: de natuurlijke of rechtspersoon, te wiens behoeve bij de Overeenkomst schadeloosstelling is overeengekomen, daaronder begrepen de obligatiehouder als hierna onder **c** omschreven;
+- b. schuldeiser: de natuurlijke of rechtspersoon, te wiens behoeve bij de Overeenkomst schadeloosstelling is overeengekomen, daaronder begrepen de obligatiehouder als hierna onder *c* omschreven;
 
 - c. obligatiehouder: de schuldeiser terzake van Letse Volkenbondsleningen of andere vóór 1939 in de gebieden bedoeld in artikel 1 van de Overeenkomst door de overheid uitgegeven, in het buitenland betaalbaar gestelde leningen;
 
@@ -81,7 +56,7 @@ Onze Minister van Justitie heeft de bevoegdheid de Voorzitter of een lid der Com
 
 ##### Artikel 5
 
-De benoeming en het ontslag van de Voorzitter en de leden van de Commissie worden door Onze Minister van Justitie in de **Nederlandse Staatscourant** bekend gemaakt.
+De benoeming en het ontslag van de Voorzitter en de leden van de Commissie worden door Onze Minister van Justitie in de *Nederlandse Staatscourant* bekend gemaakt.
 
 ##### Artikel 6
 
@@ -95,19 +70,19 @@ Het salaris van de Voorzitter, de leden en de secretaris en de vergoeding van de
 
 ### Hoofdstuk 3. Verificatie van de vorderingen
 
-## Titel 1. De termijn van indiening van de vorderingen
+### Titel 1. De termijn van indiening van de vorderingen
 
 ##### Artikel 8
 
 1. De Commissie bepaalt zo spoedig mogelijk de dag waarop uiterlijk de vorderingen moeten worden ingediend.
 
-2. De Commissie doet daarvan aankondiging in de **Nederlandse Staatscourant**, in het **Gouvernements Advertentieblad van Suriname** en in de **Curaçaosche Courant**. Aan de Commissie staat ter beoordeling, of ook op andere wijze daaraan bekendheid zal worden gegeven.
+2. De Commissie doet daarvan aankondiging in de *Nederlandse Staatscourant*, in het *Gouvernements Advertentieblad van Suriname* en in de *Curaçaosche Courant*. Aan de Commissie staat ter beoordeling, of ook op andere wijze daaraan bekendheid zal worden gegeven.
 
-3. Tussen de dag van de aankondiging in de **Nederlandse Staatscourant** en de dag waarop uiterlijk de indiening moet geschieden, moet een termijn van ten minste drie maanden liggen.
+3. Tussen de dag van de aankondiging in de *Nederlandse Staatscourant* en de dag waarop uiterlijk de indiening moet geschieden, moet een termijn van ten minste drie maanden liggen.
 
 4. Vorderingen die niet tijdig zijn ingediend, komen niet in aanmerking voor verificatie noch voor een uitkering. De Commissie kan om gewichtige redenen beslissen, dat een niet tijdig ingediende vordering toch in aanmerking komt voor verificatie en een uitkering.
 
-## Titel 2. De verificatie van de vorderingen der schuldeisers, niet zijnde obligatiehouders
+### Titel 2. De verificatie van de vorderingen der schuldeisers, niet zijnde obligatiehouders
 
 ##### Artikel 9
 
@@ -157,7 +132,7 @@ Wanneer verschillende personen erkenning vragen van vorderingen, betrekking hebb
 
 3. De Commissie zendt bij aangetekend schrijven een afschrift van haar beslissing aan de betrokken schuldeiser en aan de regeringsvertegenwoordiger. Zij zendt op dezelfde wijze een afschrift van de in het vorige lid bedoelde lijst aan elke schuldeiser en aan de regeringsvertegenwoordiger.
 
-## Titel 3. De verificatie van de vorderingen der obligatiehouders
+### Titel 3. De verificatie van de vorderingen der obligatiehouders
 
 ##### Artikel 16
 
@@ -244,5 +219,3 @@ Wij behouden Ons voor bij algemene maatregel van Rijksbestuur nadere regelen te 
 ##### Artikel 28
 
 Deze Rijkswet is verbindend voor het gehele Koninkrijk. Zij treedt voor het gehele Koninkrijk in werking op een nader door Ons te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad**, het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

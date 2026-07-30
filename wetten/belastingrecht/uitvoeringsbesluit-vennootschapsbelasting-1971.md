@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 14 september 1971, houdende uitvoering van de Wet op de vennootschapsbelasting 1969"
+citeertitel: "Uitvoeringsbesluit vennootschapsbelasting 1971"
 identifier: "BWBR0002786"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002786"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "1023153"
-version_id: "1504152"
-internal_id: "C1504151"
-label_id: "991364"
-dtd_version: "2.0"
-original_entry_into_force: "2002-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002786/2025-01-01/0"
-intitule_bron: "Stb.1971-558"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1971-09-14"
-intitule_status: "goed"
-original_publication: "Stb.2001-700"
-original_signed_date: "2001-12-17"
-original_published_date: "2001-12-28"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2001-700"
-entry_into_force_date: "2002-01-01"
-jci_1_3: "jci1.3:c:BWBR0002786&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0002786&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit vennootschapsbelasting 1971"
-signed_date: "2001-12-17"
-entry_into_force: "2002-01-01"
+publicatiedatum: 2002-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0002786"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 14 september 1971, houdende uitvoering van de Wet op de vennootschapsbelasting 1969
-
-Op de voordracht van de Staatssecretaris van Financiën van 17 augustus 1971, nr. B 71/15503, Directie Wetgeving directe belastingen;
-
-Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) en [29 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29) (**Stb.** 469);
-
-De Raad van State gehoord (advies van 25 augustus 1971, nr. 11);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 7 september 1971, nr. B 71/16415, Directie Wetgeving directe belastingen;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -66,7 +36,7 @@ Een in [artikel 5, eerste lid, onderdeel c, van de wet](https://wetten.overheid.
 
 Een in [artikel 5, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam dat werkzaam is op het gebied van de landbouw is van de belasting vrijgesteld mits:
 
-- a. zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7500, dan wel in het jaar en de daaraan voorafgaande vier jaren tezamen niet meer bedraagt dan € 37 500, en
+- a. zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7500, dan wel in het jaar en de daaraan voorafgaande vier jaren tezamen niet meer bedraagt dan € 37 500, en
 
 - b. doel en feitelijke werkzaamheden bestaan in het exploiteren van bedrijfsmiddelen, het beschikbaar stellen van arbeidskrachten of het aankopen van landbouwbenodigdheden een en ander uitsluitend of nagenoeg uitsluitend ten behoeve van de aandeelhouders, leden, deelnemers of deelgerechtigden.
 
@@ -80,7 +50,7 @@ Een in [artikel 5, eerste lid, onderdeel d, van de wet](https://wetten.overheid.
 
 - a. doel en feitelijke werkzaamheid bestaan in het verzorgen van uitvaarten uitsluitend of nagenoeg uitsluitend van de aandeelhouders, leden, deelnemers of deelgerechtigden en hun gezinsleden; en
 
-- b. de uitvaarten van de onder **a** genoemde personen hoofdzakelijk tegen vergoeding van een entreegeld en een jaarlijkse bijdrage worden verzorgd.
+- b. de uitvaarten van de onder *a* genoemde personen hoofdzakelijk tegen vergoeding van een entreegeld en een jaarlijkse bijdrage worden verzorgd.
 
 ##### Artikel 7a
 
@@ -88,11 +58,11 @@ Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://w
 
 ##### Artikel 7aa
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7ab
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7b
 
@@ -104,8 +74,6 @@ Ten aanzien van belastingplichtigen wier winst wordt bepaald over een niet met h
 
 ##### Artikel 8
 
-1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
+1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.
 
 2. Dit besluit kan worden aangehaald als: Uitvoeringsbesluit vennootschapsbelasting 1971.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

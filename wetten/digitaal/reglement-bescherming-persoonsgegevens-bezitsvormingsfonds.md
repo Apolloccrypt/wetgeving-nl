@@ -1,60 +1,33 @@
 ---
 title: "Reglement bescherming persoonsgegevens Bezitsvormingsfonds"
 identifier: "BWBR0003016"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1976-03-14"
-last_updated: "1976-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003016"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3768523"
-version_id: "5551482"
-internal_id: "C5744571"
-label_id: "3748364"
-dtd_version: "2.0"
-original_entry_into_force: "1976-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003016/1976-03-14/0"
-intitule_bron: "Stcrt.1976-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-01-26"
-intitule_published: "1976-02-23"
-intitule_in_force: "1976-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1976-37"
-original_signed_date: "1976-01-26"
-original_published_date: "1976-02-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1976-03-14"
-jci_1_3: "jci1.3:c:BWBR0003016&z=1976-03-14&g=1976-03-14"
-jci_1_0: "1.0:c:BWBR0003016&g=1976-03-14"
-citeertitel_status: "officieel"
-signed_date: "1976-01-26"
-entry_into_force: "1976-03-14"
+publicatiedatum: 1976-03-14
+laatste_update: 1976-03-14
+status: geldig
+toestand: 1976-03-14
+bron: "https://wetten.overheid.nl/BWBR0003016"
+opgehaald: 2026-07-30
 ---
+
 # Reglement bescherming persoonsgegevens Bezitsvormingsfonds
-
-Overwegende, dat ten behoeve van de uitvoering van de Wet Bezitsvormingsfonds persoonsgegevens worden opgeslagen;
-
-Gelet op het [besluit van de Minister-President van 7 maart 1975 (Stcrt. 1975, 50) tot het vaststellen van aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen](onbekend),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-**de Minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
+*de Minister:* de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-**het Ministerie:** het Ministerie van Volkshuisvesting en Ruimtelijke Ordening;
+*het Ministerie:* het Ministerie van Volkshuisvesting en Ruimtelijke Ordening;
 
-**de wet:** de Wet Bezitsvormingsfonds;
+*de wet:* de Wet Bezitsvormingsfonds;
 
-**het fonds:** het fonds ingesteld bij de Wet Bezitsvormingsfonds;
+*het fonds:* het fonds ingesteld bij de Wet Bezitsvormingsfonds;
 
-**de registratie:** de geautomatiseerde opslag van gegevens ten behoeve van de uitvoering van de artikelen 5 tot en met 9 van de Wet Bezitsvormingsfonds;
+*de registratie:* de geautomatiseerde opslag van gegevens ten behoeve van de uitvoering van de artikelen 5 tot en met 9 van de Wet Bezitsvormingsfonds;
 
-**de houder:** het hoofd van de Centrale Afdeling Financiële Zaken van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
+*de houder:* het hoofd van de Centrale Afdeling Financiële Zaken van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 2
 

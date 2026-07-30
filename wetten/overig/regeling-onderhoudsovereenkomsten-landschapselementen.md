@@ -1,46 +1,17 @@
 ---
 title: "Regeling onderhoudsovereenkomsten landschapselementen"
 identifier: "BWBR0003126"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-05-19"
-last_updated: "1995-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003126"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4973843"
-version_id: "8635872"
-internal_id: "C11180081"
-label_id: "4950784"
-dtd_version: "2.0"
-original_entry_into_force: "1977-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003126/1995-05-19/0"
-intitule_bron: "Stcrt.1977-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1977-09-07"
-intitule_published: "1977-09-19"
-intitule_in_force: "1977-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1977-182"
-original_signed_date: "1977-09-07"
-original_published_date: "1977-09-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1977-09-20"
-jci_1_3: "jci1.3:c:BWBR0003126&z=1995-05-19&g=1995-05-19"
-jci_1_0: "1.0:c:BWBR0003126&g=1995-05-19"
-citeertitel_status: "officieel"
-signed_date: "1977-09-07"
-entry_into_force: "1977-09-20"
+publicatiedatum: 1977-09-20
+laatste_update: 1995-05-19
+status: geldig
+toestand: 1995-05-19
+bron: "https://wetten.overheid.nl/BWBR0003126"
+opgehaald: 2026-07-30
 ---
+
 # Regeling onderhoudsovereenkomsten landschapselementen
-
-Overwegende,
-
-dat het gewenst is, dat landschapselementen, die uit een oogpunt van natuur- en landschapsbescherming van groot belang worden geacht, in stand blijven en dat ten behoeve daarvan onderhoudsovereenkomsten tot stand komen;
-
-dat het gewenst is in afwachting van ter zake tot stand te brengen wettelijke regelen voorlopig de totstandkoming van onderhoudsovereenkomsten te bevorderen door middel van de bij deze beschikking gestelde regelen,
-
-Besluit:
 
 #### Titel 1. – Algemene bepalingen
 
@@ -48,13 +19,33 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
+a.
+
+‘de Minister’:
+
+de Minister van Landbouw, Natuurbeheer en Visserij;
+
+b.
+
+‘de gebruiksgerechtigden’:
+
+de natuurlijke persoon of rechtspersoon, niet zijnde een provincie, een gemeente of enig ander rechtspersoonlijkheid bezittend lichaam met openbaar gezag bekleed, die als eigenaar of anderszins zakelijk gerechtigde dan wel als persoonlijk gerechtigde het gebruik heeft van de grond.
+
+c.
+
+‘landschapselement’:
+
+een door de Minister, overeenkomstig nader gestelde regelen, als zodanig aangemerkt element van grote landschappelijke, natuurwetenschappelijke of cultuurhistorische betekenis;
+
+d.
+
+‘onderhoudsovereenkomst’:
+
+een overeenkomst waarbij de gebruiksgerechtigde zich tegen een geldelijke vergoeding jegens de Staat verbindt tot het onderhouden van een of meer landschapselementen.
+
 ##### Artikel 2
 
-1.
-
 Deze regeling is slechts van toepassing op de vóór 1 januari 1992 met gebruiksgerechtigden gesloten onderhoudsovereenkomsten die, bij gebreke van de daarvoor vereiste medewerking van de gebruiksgerechtigden, niet zijn overgegaan naar de provincie waarin het landschapselement is gelegen.
-
-2.
 
 Met ingang van 1 januari 1992 worden door de Minister geen onderhoudsovereenkomsten meer afgesloten.
 

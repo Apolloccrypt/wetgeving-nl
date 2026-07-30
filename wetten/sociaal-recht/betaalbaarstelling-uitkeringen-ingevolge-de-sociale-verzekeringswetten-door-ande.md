@@ -1,42 +1,17 @@
 ---
 title: "Betaalbaarstelling uitkeringen ingevolge de sociale verzekeringswetten door andere organen dan de Sociale Verzekeringsbank en bedrijfsverenigingen"
 identifier: "BWBR0003812"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003812"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4443283"
-version_id: "6239632"
-internal_id: "C6443841"
-label_id: "4421714"
-dtd_version: "2.0"
-original_entry_into_force: "1985-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003812/2007-01-01/0"
-intitule_bron: "Stcrt.1985-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-06-20"
-intitule_published: "1985-06-28"
-intitule_in_force: "1985-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-123"
-original_signed_date: "1985-06-20"
-original_published_date: "1985-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-06-29"
-jci_1_3: "jci1.3:c:BWBR0003812&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBR0003812&g=2007-01-01"
-citeertitel_status: "officieel"
-signed_date: "1985-06-20"
-entry_into_force: "1985-06-29"
+publicatiedatum: 1985-06-29
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBR0003812"
+opgehaald: 2026-07-30
 ---
+
 # Betaalbaarstelling uitkeringen ingevolge de sociale verzekeringswetten door andere organen dan de Sociale Verzekeringsbank en bedrijfsverenigingen
-
-Gelet op artikel 19, vijfde lid, van de Algemene Ouderdomswet, artikel 28, vierde lid, van de Algemene Weduwen- en Wezenwet, artikel 41, vijfde lid, van de Algemene Arbeidsongeschiktheidswet, artikel 164, derde lid, van de Invaliditeitswet en [artikel 50, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50);
-
-Besluit:
 
 ##### Artikel 1
 

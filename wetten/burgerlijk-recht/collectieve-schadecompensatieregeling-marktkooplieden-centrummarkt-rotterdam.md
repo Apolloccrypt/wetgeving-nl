@@ -1,53 +1,48 @@
 ---
 title: "Collectieve Schadecompensatieregeling marktkooplieden Centrummarkt Rotterdam"
+citeertitel: "Collectieve Schadecompensatieregeling Marktkooplieden Centrummarkt Rotterdam"
 identifier: "BWBR0003961"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-05-06"
-last_updated: "1986-05-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003961"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3708303"
-version_id: "5491352"
-internal_id: "C5684441"
-label_id: "3688234"
-dtd_version: "2.0"
-original_entry_into_force: "1986-05-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003961/1986-05-06/0"
-intitule_bron: "Stcrt.1990-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-05-06"
-intitule_published: "1990-01-25"
-intitule_in_force: "1990-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-18"
-original_signed_date: "1986-05-06"
-original_published_date: "1990-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-05-06"
-jci_1_3: "jci1.3:c:BWBR0003961&z=1986-05-06&g=1986-05-06"
-jci_1_0: "1.0:c:BWBR0003961&g=1986-05-06"
-citeertitel_status: "officieel"
-short_title: "Collectieve Schadecompensatieregeling Marktkooplieden Centrummarkt Rotterdam"
-signed_date: "1986-05-06"
-entry_into_force: "1986-05-06"
+publicatiedatum: 1986-05-06
+laatste_update: 1986-05-06
+status: geldig
+toestand: 1986-05-06
+bron: "https://wetten.overheid.nl/BWBR0003961"
+opgehaald: 2026-07-30
 ---
+
 # Collectieve Schadecompensatieregeling marktkooplieden Centrummarkt Rotterdam
-
-Gezien de brief van de minister van Verkeer en Waterstaat aan de Tweede Kamer d.d. 17 november 1983 kenmerk WBJ/V 305 (blz. 4);
-
-Overwegende dat de op de Centrummarkt in Rotterdam handeldrijvende marktkooplieden in verband met de tijdelijke gedwongen verplaatsing van deze markt als gevolg van de bouw van de Willemsspoortunnel, de daarbij behorende werken of de in verband daarmee genomen bestuursmaatregelen een onevenredig financieel nadeel kunnen ondervinden;
-
-Dat het wenselijk is voor deze groep marktkooplieden vast te leggen in welke gevallen en onder welke voorwaarden een financiële compensatie kan worden verstrekt en dat het wenselijk is voor deze groep marktkooplieden een speciale regeling te creëren die in de plaats treedt van de [schadecompensatieregeling Willemsspoortunnel](https://wetten.overheid.nl/jci1.3:c:BWBR0003962);
-
-Stelt de volgende regeling vast.
 
 ### Hoofdstuk I. Algemene Bepalingen
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
+
+De minister:
+
+de minister van Verkeer en Waterstaat.
+
+Aanleg Willemsspoortunnel:
+
+bouw van de Willemsspoortunnel en de daarbij behorende werken of genomen bestuursmaatregelen in verband met die werken ten behoeve van de bouw van de Willemsspoortunnel.
+
+Schade:
+
+onevenredig financieel nadeel welke de marktkooplieden lijden ingevolge de aanleg van de Willemsspoortunnel en de daarmee verband houdende verplaatsing van de centrummarkt en dat uitgaat boven hun normaal maatschappelijk risico en dat redelijkerwijs niet of niet geheel ten laste van de marktkooplieden behoort te blijven.
+
+Centrummarkt:
+
+de markt die wekelijks op dinsdag en zaterdag in het centrum van Rotterdam gehouden wordt.
+
+Marktkooplieden:
+
+officieel bij de Dienst Midden en Kleinbedrijf, Marktwezen en Vrij-Entrepot van de gemeente Rotterdam ingeschreven ondernemers die op de Centrummarkt daadwerkelijk handel drijven.
+
+Winst:
+
+de winst die dient als grondslag voor de berekening van de winst uit onderneming (Wet op de inkomstenbelasting) of de bedrijfswinst (Wet op de vennootschapsbelasting) met dien verstande, dat indien de marktkoopman een rechtspersoon is, daaronder mede wordt verstaan de beloning van de bestuurder(s) en de daaraan verbonden ten laste van de rechtspersoon komende sociale lasten.
 
 ### Hoofdstuk II. Bepalingen inzake de collectieve schadecompensatie
 

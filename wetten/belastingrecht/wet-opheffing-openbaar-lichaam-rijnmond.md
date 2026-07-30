@@ -1,43 +1,18 @@
 ---
 title: "Wet van 19 februari 1986, houdende intrekking van de Wet openbaar lichaam Rijnmond"
+citeertitel: "Wet opheffing openbaar lichaam Rijnmond"
 identifier: "BWBR0003919"
-country: "nl"
-rank: "wet"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003919"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12953"
-version_id: "16182"
-internal_id: "C16181"
-label_id: "13974"
-dtd_version: "2.0"
-original_entry_into_force: "1986-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003919/1994-01-01/0"
-intitule_bron: "Stb.1986-47"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-02-19"
-intitule_status: "goed"
-original_publication: "Stb.1986-47"
-original_signed_date: "1986-02-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "19255"
-entry_into_force_date: "1986-01-01"
-jci_1_3: "jci1.3:c:BWBR0003919&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0003919&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet opheffing openbaar lichaam Rijnmond"
-signed_date: "1986-02-19"
-entry_into_force: "1986-01-01"
+publicatiedatum: 1986-01-01
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0003919"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 19 februari 1986, houdende intrekking van de Wet openbaar lichaam Rijnmond
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is te komen tot opheffing van het openbaar lichaam Rijnmond;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -47,7 +22,7 @@ In deze wet wordt verstaan onder:
 
 - a. de datum van opheffing: de datum van inwerkingtreding van deze wet;
 
-- b. het openbaar lichaam: het openbaar lichaam Rijnmond, bedoeld in artikel 2 van de Wet openbaar lichaam Rijnmond (**Stb.** 1964, 427);
+- b. het openbaar lichaam: het openbaar lichaam Rijnmond, bedoeld in artikel 2 van de Wet openbaar lichaam Rijnmond (*Stb.* 1964, 427);
 
 - c. Onze Minister: Onze Minister van Binnenlandse Zaken;
 
@@ -71,13 +46,13 @@ In deze wet wordt verstaan onder:
 
 2. Door het bestuur van het openbaar lichaam genomen besluiten worden met ingang van de dag, waarop de desbetreffende bevoegdheden krachtens [artikel 7, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003919&paragraaf=2&artikel=7&z=1994-01-01&g=1994-01-01), op de provincie Zuid-Holland dan wel een gemeente overgaan, geacht door het bestuur van die provincie dan wel die gemeente te zijn genomen.
 
-3. Het eerste lid is niet van toepassing met betrekking tot belastingverordeningen. Belastingverordeningen vastgesteld op grond van artikel 59**c**, eerste lid, van de Wet openbaar lichaam Rijnmond behouden hun rechtskracht gedurende één jaar na de datum van opheffing, voor zover het bevoegde gezag deze voorschriften niet eerder vervallen verklaart, met dien verstande dat zij hun rechtskracht behouden voor de belastingjaren welke voordien zijn aangevangen en de belastbare feiten die zich voordien hebben voorgedaan.
+3. Het eerste lid is niet van toepassing met betrekking tot belastingverordeningen. Belastingverordeningen vastgesteld op grond van artikel 59*c*, eerste lid, van de Wet openbaar lichaam Rijnmond behouden hun rechtskracht gedurende één jaar na de datum van opheffing, voor zover het bevoegde gezag deze voorschriften niet eerder vervallen verklaart, met dien verstande dat zij hun rechtskracht behouden voor de belastingjaren welke voordien zijn aangevangen en de belastbare feiten die zich voordien hebben voorgedaan.
 
 4. Belastingverordeningen van de provincie Zuid-Holland gelden niet in het gebied van het openbaar lichaam indien ter zake verordeningen van het openbaar lichaam rechtskracht hebben ingevolge het derde lid.
 
 ##### Artikel 4
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 5
 
@@ -85,13 +60,13 @@ Richtlijnen als bedoeld in artikel 30 en aanwijzingen als bedoeld in artikel 33 
 
 ##### Artikel 6
 
-Een door de raad van Rijnmond vastgesteld en door gedeputeerde staten van Zuid-Holland goedgekeurd streekplan als bedoeld in artikel 17 van de Wet openbaar lichaam Rijnmond, wordt geacht in overeenstemming met het bepaalde in de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) (**Stb.** 1962, 286) te zijn vastgesteld door provinciale Staten van Zuid-Holland.
+Een door de raad van Rijnmond vastgesteld en door gedeputeerde staten van Zuid-Holland goedgekeurd streekplan als bedoeld in artikel 17 van de Wet openbaar lichaam Rijnmond, wordt geacht in overeenstemming met het bepaalde in de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) (*Stb.* 1962, 286) te zijn vastgesteld door provinciale Staten van Zuid-Holland.
 
 ##### Artikel 7
 
 1. Alle bevoegdheden tot regeling en bestuur van het openbaar lichaam Rijnmond worden met ingang van de datum van opheffing uitgeoefend door het provinciaal bestuur van Zuid-Holland, met uitzondering van die bedoeld in de artikelen 30 en 33 van de Wet openbaar lichaam Rijnmond. Op de bevoegdheid tot vaststelling van streekplannen voor het gebied van het voormalig openbaar lichaam zijn met ingang van de datum van opheffing de wettelijke bepalingen die gelden voor provinciale besturen van toepassing.
 
-2. Besluiten als bedoeld in artikel 38, eerste lid, van de Wet openbaar lichaam Rijnmond blijven, voor zover van kracht op 1 januari 1985, van kracht tot uiterlijk een jaar na de datum van opheffing, voor zover gedeputeerde staten van Zuid-Holland deze besluiten niet vervallen verklaren. De taken van het openbaar lichaam ingevolge de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) (**Stb.** 1971, 369), gaan een jaar na de datum van opheffing over naar de desbetreffende gemeente of gemeenten.
+2. Besluiten als bedoeld in artikel 38, eerste lid, van de Wet openbaar lichaam Rijnmond blijven, voor zover van kracht op 1 januari 1985, van kracht tot uiterlijk een jaar na de datum van opheffing, voor zover gedeputeerde staten van Zuid-Holland deze besluiten niet vervallen verklaren. De taken van het openbaar lichaam ingevolge de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) (*Stb.* 1971, 369), gaan een jaar na de datum van opheffing over naar de desbetreffende gemeente of gemeenten.
 
 3. Het Rijk en de gemeenten die krachtens de artikelen 55 en 56 van de Wet openbaar lichaam Rijnmond dan wel op een andere titel over het jaar 1985 bijdragen aan dat lichaam verstrekten, verstrekken op dezelfde titel aan de provincie Zuid-Holland bijdragen in het na de datum van opheffing resterende deel van het jaar 1986. Het bedrag van deze bijdragen is gelijk aan een evenredig deel van de overeenkomstige bijdragen voor het jaar 1984 aan het openbaar lichaam Rijnmond tenzij gedeputeerde staten van Zuid-Holland met burgemeester en wethouders van één of meer gemeenten anders overeenkomen dan wel bij wijziging van deze bedragen bij of krachtens de wet. De gemeente Albrandswaard treedt voor de toepassing van dit lid in de plaats van de gemeenten Rhoon en Poortugaal.
 
@@ -117,13 +92,13 @@ Een door de raad van Rijnmond vastgesteld en door gedeputeerde staten van Zuid-H
 
 2. Op de voorzitter van de raad van Rijnmond zijn de wettelijke bepalingen inzake gewezen burgemeesters, op de andere leden van het dagelijks bestuur van Rijnmond die inzake gewezen wethouders van overeenkomstige toepassing.
 
-3. De uitkeringen die ingevolge een verordening als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131) juncto [artikel 130 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=130) (**Stb.** 1969, 594) aan hen zijn verschuldigd, komen ten laste van de provincie Zuid-Holland.
+3. De uitkeringen die ingevolge een verordening als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131) juncto [artikel 130 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=130) (*Stb.* 1969, 594) aan hen zijn verschuldigd, komen ten laste van de provincie Zuid-Holland.
 
 ##### Artikel 10
 
 1. Met ingang van de datum van opheffing zijn de ambtenaren van rechtswege in dienst van de provincie Zuid-Holland.
 
-2. Binnen één maand na de datum van opheffing stelt Onze Minister zoveel mogelijk in overleg met gedeputeerde staten van Zuid-Holland en met de colleges van burgemeester en wethouders van de gemeenten het aantal ambtenaren vast, dat is belast met de behartiging van de belangen die krachtens artikel 38, eerste lid, van de Wet openbaar lichaam Rijnmond, dan wel anderszins, door gemeentebesturen aan dat lichaam zijn toevertrouwd, alsmede met de taken van dat lichaam ingevolge de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) (**Stb.** 1971, 369).
+2. Binnen één maand na de datum van opheffing stelt Onze Minister zoveel mogelijk in overleg met gedeputeerde staten van Zuid-Holland en met de colleges van burgemeester en wethouders van de gemeenten het aantal ambtenaren vast, dat is belast met de behartiging van de belangen die krachtens artikel 38, eerste lid, van de Wet openbaar lichaam Rijnmond, dan wel anderszins, door gemeentebesturen aan dat lichaam zijn toevertrouwd, alsmede met de taken van dat lichaam ingevolge de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) (*Stb.* 1971, 369).
 
 3. Zoveel mogelijk in overleg met de colleges van burgemeester en wethouders van de gemeenten wijzen gedeputeerde staten van Zuid-Holland de ambtenaren aan die zijn belast met de werkzaamheden, voortvloeiend uit de behartiging van belangen als bedoeld in het tweede lid, alsmede de gemeente of gemeenten, in welker dienst de werkzaamheden van elk van die ambtenaren zullen worden verricht. Beide aanwijzingen geschieden binnen negen maanden na de datum van opheffing.
 
@@ -181,36 +156,34 @@ Op verzoek van gedeputeerde staten van Zuid-Holland dan wel van burgemeester en 
 
 ##### Artikel 16
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 17
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 18
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 19
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 20
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 21
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003919&paragraaf=2&artikel=4&z=1994-01-01&g=1994-01-01) terugwerkt tot 1 januari 1986 en dat [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003919&paragraaf=5&artikel=16&z=1994-01-01&g=1994-01-01) een jaar na de datum van opheffing in werking treedt.
 
 2. Deze wet kan worden aangehaald als Wet opheffing openbaar lichaam Rijnmond.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

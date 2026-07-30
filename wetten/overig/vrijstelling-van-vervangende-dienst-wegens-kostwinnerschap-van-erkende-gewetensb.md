@@ -1,46 +1,17 @@
 ---
 title: "Vrijstelling van vervangende dienst wegens kostwinnerschap van erkende gewetensbezwaarde"
 identifier: "BWBR0003039"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1978-10-21"
-last_updated: "1978-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003039"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4205613"
-version_id: "5968782"
-internal_id: "C6171641"
-label_id: "4184384"
-dtd_version: "2.0"
-original_entry_into_force: "1976-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003039/1978-10-21/0"
-intitule_bron: "Stcrt.1976-132"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-06-25"
-intitule_published: "1976-07-12"
-intitule_in_force: "1976-07-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1976-132"
-original_signed_date: "1976-06-25"
-original_published_date: "1976-07-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1976-07-01"
-jci_1_3: "jci1.3:c:BWBR0003039&z=1978-10-21&g=1978-10-21"
-jci_1_0: "1.0:c:BWBR0003039&g=1978-10-21"
-citeertitel_status: "officieel"
-signed_date: "1976-06-25"
-entry_into_force: "1976-07-01"
+publicatiedatum: 1976-07-01
+laatste_update: 1978-10-21
+status: geldig
+toestand: 1978-10-21
+bron: "https://wetten.overheid.nl/BWBR0003039"
+opgehaald: 2026-07-30
 ---
+
 # Vrijstelling van vervangende dienst wegens kostwinnerschap van erkende gewetensbezwaarde
-
-Overwegende, dat bij beschikking van de Minister van Defensie van 11 mei 1976, nr. 25 077 (Stcrt. 100), de voor dienstplichtingen geldende regeling inzake het toekennen van vrijstelling wegens kostwinnerschap is verruimd;
-
-Overwegende, dat voor hen, wier gewetensbezwaren ingevolge de [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386) zijn erkend, een zoveel mogelijk daarmede overeenkomende regeling dient te worden vastgesteld;
-
-Gelet op het [Besluit gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002465) (Stb. 1964, 404),
-
-Besluit:
 
 ##### Artikel 1
 

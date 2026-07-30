@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 24 april 1986 ter uitvoering van de artikelen 1, 15, 17, 18, 21, 37 en 45, tweede lid, van de TNO-wet"
+citeertitel: "TNO-besluit 1986"
 identifier: "BWBR0003953"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-12-07"
-last_updated: "2012-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003953"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "952133"
-version_id: "1394152"
-internal_id: "C1394151"
-label_id: "923294"
-dtd_version: "2.0"
-original_entry_into_force: "1986-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003953/2012-12-07/0"
-intitule_bron: "Stb.1986-214"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-04-24"
-intitule_status: "goed"
-original_publication: "Stb.1986-214"
-original_signed_date: "1986-04-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-05-01"
-jci_1_3: "jci1.3:c:BWBR0003953&z=2012-12-07&g=2012-12-07"
-jci_1_0: "1.0:c:BWBR0003953&g=2012-12-07"
-citeertitel_status: "officieel"
-short_title: "TNO-besluit 1986"
-signed_date: "1986-04-24"
-entry_into_force: "1986-05-01"
+publicatiedatum: 1986-05-01
+laatste_update: 2012-12-07
+status: geldig
+toestand: 2012-12-07
+bron: "https://wetten.overheid.nl/BWBR0003953"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 24 april 1986 ter uitvoering van de artikelen 1, 15, 17, 18, 21, 37 en 45, tweede lid, van de TNO-wet
-
-Op de voordracht van Onze Minister van Onderwijs en Wetenschappen, van 24 februari 1986, nr. 7208/7158, centrale directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=1), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=15), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=17), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=18), [21, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=21), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=37) en [45, tweede lid, van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=45) (**Stb.** 1985, 762);
-
-De Raad van State gehoord (advies van 16 april 1986, nr. W05.86.0103);
-
-Gezien het nader rapport van Onze Minister van Onderwijs en Wetenschappen, van 23 april 1986, nr. 7504/7158, centrale directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -48,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 Dit besluit verstaat onder:
 
-de wet: de [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906) (**Stb.** 1985, 762);
+de wet: de [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906) (*Stb.* 1985, 762);
 
 hoofdgroep: een hoofdgroep als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=15);
 
@@ -120,7 +92,7 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 - f. ten hoogste drie andere leden.
 
-3. De in het tweede lid, onder **e** en **f**, genoemde leden van de raad voor het defensie-onderzoek worden benoemd voor een tijdvak van vijf jaren, behoudens bij koninklijk besluit tussentijds verleend ontslag en zijn éénmaal voor een tijdvak van vijf jaren herbenoembaar. Hun wordt ontslag verleend met ingang van de eerste dag van de maand, waarin zij de leeftijd van zeventig jaren bereiken. De overige leden worden benoemd voor onbepaalde tijd.
+3. De in het tweede lid, onder *e* en *f*, genoemde leden van de raad voor het defensie-onderzoek worden benoemd voor een tijdvak van vijf jaren, behoudens bij koninklijk besluit tussentijds verleend ontslag en zijn éénmaal voor een tijdvak van vijf jaren herbenoembaar. Hun wordt ontslag verleend met ingang van de eerste dag van de maand, waarin zij de leeftijd van zeventig jaren bereiken. De overige leden worden benoemd voor onbepaalde tijd.
 
 ##### Artikel 6. Taken Raad voor het defensie-onderzoek
 
@@ -152,11 +124,11 @@ doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur
 
 - a. de voor het eerstvolgende kalenderjaar ten laste van de rijksbegroting voorlopig vastgestelde bedragen voor:
 
-- -. het basissubsidie;
+   - - het basissubsidie;
 
-- -. de doelsubsidies en de verdeling daarvan over de daarvoor in aanmerking komende hoofdstukken van de rijksbegroting;
+   - - de doelsubsidies en de verdeling daarvan over de daarvoor in aanmerking komende hoofdstukken van de rijksbegroting;
 
-- b. de voorwaarden aangaande de bestemming van de onder **a** genoemde subsidies.
+- b. de voorwaarden aangaande de bestemming van de onder *a* genoemde subsidies.
 
 - c. de beslissing van Onze Minister van Defensie omtrent de ter goedkeuring voorgelegde bescheiden, als bedoeld in het tweede lid;
 
@@ -172,7 +144,7 @@ Met inachtneming van de subsidiebrief en het bepaalde in [artikel 6](https://wet
 
 ##### Artikel 9. Definitieve vaststelling
 
-Na afloop van elk kalenderjaar stelt Onze Minister, in overeenstemming met Onze Ministers wie het mede aangaat, de bedragen bedoeld in [artikel 7, derde lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=4&artikel=7&z=2012-12-07&g=2012-12-07), definitief vast en zendt hiervan bericht aan de raad van bestuur vóór 1 april van het daaropvolgende kalenderjaar.
+Na afloop van elk kalenderjaar stelt Onze Minister, in overeenstemming met Onze Ministers wie het mede aangaat, de bedragen bedoeld in [artikel 7, derde lid onderdeel *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0003953&hoofdstuk=4&artikel=7&z=2012-12-07&g=2012-12-07), definitief vast en zendt hiervan bericht aan de raad van bestuur vóór 1 april van het daaropvolgende kalenderjaar.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
@@ -183,5 +155,3 @@ Dit besluit kan worden aangehaald als: TNO-besluit 1986.
 ##### Artikel 11. Inwerkingtreding
 
 De [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906) en dit besluit treden in werking op 1 mei 1986.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

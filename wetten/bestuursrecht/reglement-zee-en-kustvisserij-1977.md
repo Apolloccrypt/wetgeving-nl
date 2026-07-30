@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 25 november 1977, houdende bepalingen omtrent de uitoefening van de zee- en kustvisserij"
+citeertitel: "Reglement zee- en kustvisserij 1977"
 identifier: "BWBR0003144"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003144"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "848763"
-version_id: "1233702"
-internal_id: "C1233701"
-label_id: "822694"
-dtd_version: "2.0"
-original_entry_into_force: "1978-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003144/2015-01-01/0"
-intitule_bron: "Stb.1977-666"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1977-11-25"
-intitule_status: "goed"
-original_publication: "Stb.1977-666"
-original_signed_date: "1977-11-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1978-01-01"
-jci_1_3: "jci1.3:c:BWBR0003144&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0003144&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Reglement zee- en kustvisserij 1977"
-signed_date: "1977-11-25"
-entry_into_force: "1978-01-01"
+publicatiedatum: 1978-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0003144"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 25 november 1977, houdende bepalingen omtrent de uitoefening van de zee- en kustvisserij
-
-Op de voordracht van Onze Minister van Landbouw en Visserij van 28 juli 1977, No. J. 2139, Directie Juridische en Bedrijfsorganisatorische Zaken, na overleg met het Produktschap voor Vis en Visprodukten, het Visserijschap, het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven en de Nederlandse Vereniging van Sportvissersfederaties;
-
-Gelet op de [artikelen 2, 3**a**, 4 en 9 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2) (**Stb.** 312);
-
-De Raad van State gehoord (advies van 14 september 1977, No. 19);
-
-Gezien het nader rapport van Onze voornoemde Minister van 22 november 1977, No. J 3192, Directie Juridische en Bedrijfsorganisatorische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -62,7 +34,7 @@ boomkor: vistuig dat bestaat uit één net dat is bevestigd aan en in horizontal
 
 maaswijdte: wijdte van de maas gemeten overeenkomstig het bepaalde in verordening (EG) nr. 517/2008 van de Commissie van 10 juni 2008 houdende uitvoeringsbepalingen inzake de bepaling van de maaswijdte en de twijndikte van visnetten (PbEG L 151);
 
-tonnage: tonnage gemeten overeenkomstig het bepaalde bij en krachtens de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) (**Stb.** 122);
+tonnage: tonnage gemeten overeenkomstig het bepaalde bij en krachtens de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) (*Stb.* 122);
 
 investeringsverplichting: rechtens afdwingbare verplichting die is aangegaan voor de bouw van een vaartuig bestemd voor de bedrijfsmatige uitoefening van de visserij en die is vastgelegd in een schriftelijke overeenkomst.
 
@@ -70,7 +42,7 @@ investeringsverplichting: rechtens afdwingbare verplichting die is aangegaan voo
 
 ##### Artikel 2
 
-Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wateren bedoeld in [artikel 1, vierde lid, onderdeel **b** en **c,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
+Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wateren bedoeld in [artikel 1, vierde lid, onderdeel *b* en *c,* van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
 
 ##### Artikel 3
 
@@ -126,7 +98,7 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6a
 
@@ -134,13 +106,13 @@ Vervallen
 
 2. Het in het eerste lid gestelde verbod is niet van toepassing op:
 
-- a. een vissersvaartuig met een motorvermogen van meer dan 1471 kW dat op de dag van inwerkingtreding van de Tijdelijke regeling beperking capaciteit vissersvaartuigen (**Stcrt.** 1987, 184) staat geregistreerd in het centraal visserijregister, voor zolang nog geen 20 jaren zijn verstreken nadat het vissersvaartuig voor de eerste maal in het centraal visserijregister is geregistreerd en het motorvermogen sinds de dag van inwerkingtreding van de Tijdelijke regeling beperking capaciteit vissersvaartuigen niet is toegenomen;
+- a. een vissersvaartuig met een motorvermogen van meer dan 1471 kW dat op de dag van inwerkingtreding van de Tijdelijke regeling beperking capaciteit vissersvaartuigen (*Stcrt.* 1987, 184) staat geregistreerd in het centraal visserijregister, voor zolang nog geen 20 jaren zijn verstreken nadat het vissersvaartuig voor de eerste maal in het centraal visserijregister is geregistreerd en het motorvermogen sinds de dag van inwerkingtreding van de Tijdelijke regeling beperking capaciteit vissersvaartuigen niet is toegenomen;
 
 - b. een vissersvaartuig met een motorvermogen van meer dan 1471 kW, waarvoor vóór 25 februari 1987 een investeringsverplichting is aangegaan, en waarvan: en dat vóór 25 februari 1990 in gebruik is genomen, voor zolang nog geen 20 jaren zijn verstreken nadat het vissersvaartuig voor de eerste maal in het centraal visserijregister is geregistreerd;
 
-- 1°. de kiel vóór 25 september 1987 is gelegd of
+   - 1°. de kiel vóór 25 september 1987 is gelegd of
 
-- 2°. de aanbouw, herkenbaar als behorend tot een bepaald vissersvaartuig vóór 25 september 1987 is aangevangen en voor deze datum is aangevangen met de samenbouw die ten minste 50.000 kg moet omvatten of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is,
+   - 2°. de aanbouw, herkenbaar als behorend tot een bepaald vissersvaartuig vóór 25 september 1987 is aangevangen en voor deze datum is aangevangen met de samenbouw die ten minste 50.000 kg moet omvatten of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is,
 
 - c. een vissersvaartuig met een brutotonnage van meer dan 1.200 BT waarmee de pelagische visserij wordt uitgeoefend.
 
@@ -150,19 +122,19 @@ Vervallen
 
 1. Aan de ondernemer kan een naar billijkheid te bepalen schadevergoeding worden toegekend in het geval dat:
 
-- a. het in de licentie vermelde motorvermogen hoger is dan 1471 kW en de licentie voor dat gedeelte niet meer geldig is op grond van artikel 7**a**, aanhef en onderdeel **b**, van de Beschikking visserijlicentie (**Stcrt.** 1984, 253), voor zover dat gedeelte vóór 25 februari 1987 door aankoop is verkregen, ten hoogste tot het aankoopbedrag daarvan;
+- a. het in de licentie vermelde motorvermogen hoger is dan 1471 kW en de licentie voor dat gedeelte niet meer geldig is op grond van artikel 7*a*, aanhef en onderdeel *b*, van de Beschikking visserijlicentie (*Stcrt.* 1984, 253), voor zover dat gedeelte vóór 25 februari 1987 door aankoop is verkregen, ten hoogste tot het aankoopbedrag daarvan;
 
 - b. de ondernemer als rechtstreeks gevolg van het verbod van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2015-01-01&g=2015-01-01) een met een scheepswerf aangegane investeringsverplichting voor de bouw van een vissersvaartuig met een motorvermogen van meer dan 1471 kW, en waarvan:
 
-- 1°. de kiel op 25 september 1987 nog niet is gelegd of
+   - 1°. de kiel op 25 september 1987 nog niet is gelegd of
 
-- 2°. de aanbouw, herkenbaar als behorend tot een bepaald vissersvaartuig op 25 september 1987 nog niet is aangevangen en op deze datum nog niet is aangevangen met de samenbouw die ten minste 50.000 kg omvat of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is,
+   - 2°. de aanbouw, herkenbaar als behorend tot een bepaald vissersvaartuig op 25 september 1987 nog niet is aangevangen en op deze datum nog niet is aangevangen met de samenbouw die ten minste 50.000 kg omvat of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is,
 
 wijzigt en daardoor voor hem jegens die scheepswerf een rechtens afdwingbare verplichting ontstaat.
 
-2. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel **a**, dient de ondernemer een daartoe strekkend schriftelijk verzoek bij de minister in, binnen twee maanden nadat de licentie op grond van artikel 7**a**, aanhef en onderdeel **b**, van de Beschikking visserijlicentie gedeeltelijk niet meer geldig is, onder overlegging van de aankoopbewijzen of eventuele andere bewijsstukken.
+2. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel *a*, dient de ondernemer een daartoe strekkend schriftelijk verzoek bij de minister in, binnen twee maanden nadat de licentie op grond van artikel 7*a*, aanhef en onderdeel *b*, van de Beschikking visserijlicentie gedeeltelijk niet meer geldig is, onder overlegging van de aankoopbewijzen of eventuele andere bewijsstukken.
 
-3. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel **b**, dient de ondernemer een daartoe strekkend verzoek, onder overlegging van bewijsstukken, bij de minister vóór 25 november 1987 te hebben ingediend.
+3. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel *b*, dient de ondernemer een daartoe strekkend verzoek, onder overlegging van bewijsstukken, bij de minister vóór 25 november 1987 te hebben ingediend.
 
 ##### Artikel 6c
 
@@ -192,12 +164,10 @@ wijzigt en daardoor voor hem jegens die scheepswerf een rechtens afdwingbare ver
 
 ##### Artikel 7
 
-Het Reglement zeevisserij 1971 (**Stb.** 284), het Reglement voor de visserijzone 1970 (**Stb.** 174) en het Reglement voor de kustvisserij 1970 (**Stb.** 177) worden ingetrokken.
+Het Reglement zeevisserij 1971 (*Stb.* 284), het Reglement voor de visserijzone 1970 (*Stb.* 174) en het Reglement voor de kustvisserij 1970 (*Stb.* 177) worden ingetrokken.
 
 ##### Artikel 8
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1978.
 
 2. Het kan worden aangehaald als "Reglement zee- en kustvisserij 1977".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

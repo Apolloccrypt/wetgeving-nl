@@ -1,43 +1,18 @@
 ---
 title: "Wet van 19 december 1985, tot intrekking van de Wet agglomeratie Eindhoven"
+citeertitel: "Wet opheffing agglomeratie Eindhoven"
 identifier: "BWBR0003904"
-country: "nl"
-rank: "wet"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003904"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1822533"
-version_id: "2716472"
-internal_id: "C2716471"
-label_id: "1777574"
-dtd_version: "2.0"
-original_entry_into_force: "1986-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003904/1994-01-01/0"
-intitule_bron: "Stb.1985-690"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-12-19"
-intitule_status: "goed"
-original_publication: "Stb.1985-690"
-original_signed_date: "1985-12-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "18930"
-entry_into_force_date: "1986-01-01"
-jci_1_3: "jci1.3:c:BWBR0003904&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0003904&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet opheffing agglomeratie Eindhoven"
-signed_date: "1985-12-19"
-entry_into_force: "1986-01-01"
+publicatiedatum: 1986-01-01
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0003904"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 19 december 1985, tot intrekking van de Wet agglomeratie Eindhoven
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is te komen tot opheffing van het openbaar lichaam agglomeratie Eindhoven;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -130,5 +105,3 @@ In afwijking van het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Deze wet kan worden aangehaald als Wet opheffing agglomeratie Eindhoven.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

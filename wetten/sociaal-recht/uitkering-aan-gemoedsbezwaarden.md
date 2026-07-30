@@ -1,42 +1,17 @@
 ---
 title: "Uitkering aan gemoedsbezwaarden"
 identifier: "BWBR0003795"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-02-23"
-last_updated: "2002-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003795"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "5216123"
-version_id: "9373322"
-internal_id: "C12524041"
-label_id: "5191134"
-dtd_version: "2.0"
-original_entry_into_force: "1985-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003795/2002-02-23/0"
-intitule_bron: "Stcrt.1985-98"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-05-15"
-intitule_published: "1985-05-23"
-intitule_in_force: "1985-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-98"
-original_signed_date: "1985-05-15"
-original_published_date: "1985-05-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-05-24"
-jci_1_3: "jci1.3:c:BWBR0003795&z=2002-02-23&g=2002-02-23"
-jci_1_0: "1.0:c:BWBR0003795&g=2002-02-23"
-citeertitel_status: "officieel"
-signed_date: "1985-05-15"
-entry_into_force: "1985-05-24"
+publicatiedatum: 1985-05-24
+laatste_update: 2002-02-23
+status: geldig
+toestand: 2002-02-23
+bron: "https://wetten.overheid.nl/BWBR0003795"
+opgehaald: 2026-07-30
 ---
+
 # Uitkering aan gemoedsbezwaarden
-
-Gelet op [artikel 48, vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=48);
-
-Besluit:
 
 ##### Artikel 1
 

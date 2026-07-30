@@ -1,43 +1,18 @@
 ---
 title: "Wet van 20 januari 1976, tot verbetering van de rechtspositie van militairen die zich gedurende de vijandelijke bezetting van Nederland aan krijgsgevangenschap hebben onttrokken en van die van hun nagelaten betrekkingen"
+citeertitel: "Wet verbetering rechtspositie verzetsmilitairen"
 identifier: "BWBR0003015"
-country: "nl"
-rank: "wet"
-publication_date: "1990-07-01"
-last_updated: "1990-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003015"
+categorie: "Overig"
 soort: "wet"
-stam_id: "364373"
-version_id: "536532"
-internal_id: "C536531"
-label_id: "356124"
-dtd_version: "2.0"
-original_entry_into_force: "1976-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003015/1990-07-01/0"
-intitule_bron: "Stb.1976-19"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1976-01-20"
-intitule_status: "goed"
-original_publication: "Stb.1976-19"
-original_signed_date: "1976-01-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "13271"
-entry_into_force_date: "1976-03-01"
-jci_1_3: "jci1.3:c:BWBR0003015&z=1990-07-01&g=1990-07-01"
-jci_1_0: "1.0:c:BWBR0003015&g=1990-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet verbetering rechtspositie verzetsmilitairen"
-signed_date: "1976-01-20"
-entry_into_force: "1976-03-01"
+publicatiedatum: 1976-03-01
+laatste_update: 1990-07-01
+status: geldig
+toestand: 1990-07-01
+bron: "https://wetten.overheid.nl/BWBR0003015"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 20 januari 1976, tot verbetering van de rechtspositie van militairen die zich gedurende de vijandelijke bezetting van Nederland aan krijgsgevangenschap hebben onttrokken en van die van hun nagelaten betrekkingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de rechtspositie te verbeteren van militairen die zich gedurende de vijandelijke bezetting van Nederland aan krijgsgevangenschap hebben onttrokken en van die van hun nagelaten betrekkingen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -47,13 +22,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. "verzetsorganisatie":
 
-- 1. de op de voet van het Koninklijk Besluit van 5 september 1944, **Stb.** E 62, erkende verzetsorganisaties;
+   - 1. de op de voet van het Koninklijk Besluit van 5 september 1944, *Stb.* E 62, erkende verzetsorganisaties;
 
-- 2. andere bij de Pensioen- en Uitkeringsraad dan wel de Stichting 1940-1945 als zodanig bekende verzetsgroepen;
+   - 2. andere bij de Pensioen- en Uitkeringsraad dan wel de Stichting 1940-1945 als zodanig bekende verzetsgroepen;
 
-- c. "verzetsmilitair": de onder **a** bedoelde militair die tijdens de vijandelijke bezetting van Nederland of door daad en houding of als behorende tot een verzetsorganisatie heeft deelgenomen aan het binnenlands verzet en voor 1 januari 1947 wederom onder de wapenen is gekomen;
+- c. "verzetsmilitair": de onder *a* bedoelde militair die tijdens de vijandelijke bezetting van Nederland of door daad en houding of als behorende tot een verzetsorganisatie heeft deelgenomen aan het binnenlands verzet en voor 1 januari 1947 wederom onder de wapenen is gekomen;
 
-- d. "ondergedoken militair": de onder **a** bedoelde militair die vanwege het zich onttrekken aan feitelijke krijgsgevangenschap is ondergedoken en voor 1 januari 1947 wederom onder de wapenen is gekomen.
+- d. "ondergedoken militair": de onder *a* bedoelde militair die vanwege het zich onttrekken aan feitelijke krijgsgevangenschap is ondergedoken en voor 1 januari 1947 wederom onder de wapenen is gekomen.
 
 2. Als verzetsmilitair onderscheidenlijk ondergedoken militair wordt eveneens aangemerkt de militair die voor 1 januari 1947 is overleden ten gevolge van de ontberingen gedurende de oorlog ondervonden, doch die overigens voldoet aan de omschrijving van verzetsmilitair onderscheidenlijk ondergedoken militair en die, ware hij niet overleden doch op het tijdstip van zijn overlijden uit militaire dienst ontslagen, aan dat ontslag een recht of een uitzicht op pensioen zou hebben ontleend aan een van de vroegere militaire pensioenwetten in de zin van de Algemene militaire pensioenwet.
 
@@ -63,9 +38,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De tijd gedurende welke een ondergedoken militair zich in gevangenschap heeft bevonden ter zake van het zich onttrekken aan krijgsgevangenschap gedurende de vijandelijke bezetting van Nederland, krijgsgevangenschap daaronder niet begrepen, tot de dag van zijn bevrijding uit die gevangenschap dan wel indien zijn terugkeer in Nederland op een later tijdstip viel, tot dat tijdstip, wordt voor de toepassing van de Algemene militaire pensioenwet en van de vroegere militaire pensioenwetten in de zin van die wet geacht onder de wapenen te zijn doorgebracht.
 
-3. De tijd, gedurende welke een verzetsmilitair aangesloten is geweest bij een verzetsorganisatie alsmede de gevangenschapstijd, zoals bedoeld in het eerste en tweede lid, tellen dubbel in de zin van [artikel D4 van de Algemene militaire pensioenwet](onbekend) en overeenkomstige bepalingen in vroegere militaire pensioenwetten in de zin van die wet doch uiterlijk tot 5 mei 1945 dan wel indien de bevrijding uit gevangenschap op een later tijdstip plaatsvond, tot dat tijdstip.
+3. De tijd, gedurende welke een verzetsmilitair aangesloten is geweest bij een verzetsorganisatie alsmede de gevangenschapstijd, zoals bedoeld in het eerste en tweede lid, tellen dubbel in de zin van artikel D4 van de Algemene militaire pensioenwet en overeenkomstige bepalingen in vroegere militaire pensioenwetten in de zin van die wet doch uiterlijk tot 5 mei 1945 dan wel indien de bevrijding uit gevangenschap op een later tijdstip plaatsvond, tot dat tijdstip.
 
-4. De militairen, die hebben behoord tot de Binnenlandse Strijdkrachten worden voor de duur, dat zij zich als zodanig in bezet gebied bevonden, geacht te hebben deelgenomen aan krijgsverrichtingen. De in de vorige volzin bedoelde tijd van deelneming aan krijgsverrichtingen telt dubbel in de zin van [artikel D4 van de Algemene militaire pensioenwet](onbekend) en overeenkomstige bepalingen in de vroegere militaire pensioenwetten in de zin van die wet.
+4. De militairen, die hebben behoord tot de Binnenlandse Strijdkrachten worden voor de duur, dat zij zich als zodanig in bezet gebied bevonden, geacht te hebben deelgenomen aan krijgsverrichtingen. De in de vorige volzin bedoelde tijd van deelneming aan krijgsverrichtingen telt dubbel in de zin van artikel D4 van de Algemene militaire pensioenwet en overeenkomstige bepalingen in de vroegere militaire pensioenwetten in de zin van die wet.
 
 5. De dubbeltelling, bedoeld in het derde en het vierde lid is niet van toepassing op het deel van de tijd, dat bij de berekening zowel van een pensioen krachtens de Algemene militaire pensioenwet of een vroegere militaire pensioenwet in de zin van die wet als van een pensioen of een onderstand bij wijze van pensioen ten laste van:
 
@@ -87,7 +62,7 @@ in aanmerking is of zal worden genomen.
 
 2. Het verband met of het gevolg van deelname aan het verzet of het zich in gevangenschap bevinden, bedoeld in het eerste lid, wordt in elk geval geacht aanwezig te zijn, indien de verzetsmilitair of de ondergedoken militair:
 
-- a. tijdens de bezetting of in aansluiting daarop in verband met het verzet of het zich onttrekken aan krijgsgevangenschap drie maanden of langer in gevangenschap heeft doorgebracht dan wel naar het oordeel van Onze Minister van Defensie, de Pensioen- en Uitkeringsraad op de voet van [artikel 4, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=4) (**Stb.** 1947, H313) gehoord, in verband met de aard van zijn verzetsactiviteiten aan buitengewoon zware en langdurige spanningen heeft blootgestaan en
+- a. tijdens de bezetting of in aansluiting daarop in verband met het verzet of het zich onttrekken aan krijgsgevangenschap drie maanden of langer in gevangenschap heeft doorgebracht dan wel naar het oordeel van Onze Minister van Defensie, de Pensioen- en Uitkeringsraad op de voet van [artikel 4, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=4) (*Stb.* 1947, H313) gehoord, in verband met de aard van zijn verzetsactiviteiten aan buitengewoon zware en langdurige spanningen heeft blootgestaan en
 
 - b. voor ten minste zestig procent invalide is en deze invaliditeit niet duidelijk uit andere oorzaken dan het verzet is ontstaan.
 
@@ -126,5 +101,3 @@ Deze wet kan worden aangehaald als: Wet verbetering rechtspositie verzetsmilitai
 ##### Artikel 11
 
 Deze wet treedt in werking op een nader door Ons te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

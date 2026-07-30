@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 22 december 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 52 van de Wet op de arbeidsongeschiktheidsverzekering"
+citeertitel: "Besluit voorkoming en beperking samenloop WAO- en Wet WIA-uitkeringen met uitkeringen op grond van de sociale wetgeving van een andere Mogendheid"
 identifier: "BWBR0002861"
-country: "nl"
-rank: "amvb"
-publication_date: "2005-12-29"
-last_updated: "2005-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002861"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "1211043"
-version_id: "1784852"
-internal_id: "C1784851"
-label_id: "1172944"
-dtd_version: "2.0"
-original_entry_into_force: "1973-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002861/2005-12-29/0"
-intitule_bron: "Stb.1972-772"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-12-22"
-intitule_status: "goed"
-original_publication: "Stb.1972-772"
-original_signed_date: "1972-12-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1973-02-01"
-jci_1_3: "jci1.3:c:BWBR0002861&z=2005-12-29&g=2005-12-29"
-jci_1_0: "1.0:c:BWBR0002861&g=2005-12-29"
-citeertitel_status: "officieel"
-short_title: "Besluit voorkoming en beperking samenloop WAO- en Wet WIA-uitkeringen met uitkeringen op grond van de sociale wetgeving van een andere Mogendheid"
-signed_date: "1972-12-22"
-entry_into_force: "1973-02-01"
+publicatiedatum: 1973-02-01
+laatste_update: 2005-12-29
+status: geldig
+toestand: 2005-12-29
+bron: "https://wetten.overheid.nl/BWBR0002861"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 22 december 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 52 van de Wet op de arbeidsongeschiktheidsverzekering
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken van 1 november 1972, Directoraat-Generaal voor Sociale Voorzieningen, Directie Soc. Verz., Afd. W.V., no. 54993;
-
-Gelet op [artikel 52 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=52);
-
-De Sociaal-Economische Raad gehoord (advies van 19 november 1971);
-
-De Raad van State gehoord (advies van 15 november 1972, No. 19);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken van 18 december 1972, Directoraat-Generaal voor Sociale Voorzieningen, Directie Soc. Verz., Afd. W.V., no. 55.493;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -52,9 +22,9 @@ Hebben goedgevonden en verstaan:
 
 - b. wezenuitkering;
 
-- c. ouderdomsuitkering, dan wel enige andere uitkering, welke in verband met het bereikt hebben van een bepaalde leeftijd is toegekend, wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, indien en voor zover deze het totale bedrag van de onder **a** t/m **c** bedoelde uitkeringen overtreft.
+- c. ouderdomsuitkering, dan wel enige andere uitkering, welke in verband met het bereikt hebben van een bepaalde leeftijd is toegekend, wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, indien en voor zover deze het totale bedrag van de onder *a* t/m *c* bedoelde uitkeringen overtreft.
 
-2. Bij de toepassing van het bepaalde in het vorige lid wordt met een in dat lid onder **a** bedoelde uitkering slechts rekening gehouden, indien en voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als de arbeidsongeschiktheidsuitkering.
+2. Bij de toepassing van het bepaalde in het vorige lid wordt met een in dat lid onder *a* bedoelde uitkering slechts rekening gehouden, indien en voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als de arbeidsongeschiktheidsuitkering.
 
 3. Het eerste lid en het tweede lid zijn van overeenkomstige toepassing op de uitkeringen op grond van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) met dien verstande dat onder arbeidsongeschiktheid wordt verstaan: volledige en duurzame arbeidsongeschiktheid onderscheidenlijk gedeeltelijke arbeidsgeschiktheid als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
@@ -84,15 +54,15 @@ Hebben goedgevonden en verstaan:
 
 3. Indien ter zake van de samenloop met een uitkering ingevolge de sociale wetgeving van een andere Mogendheid zowel het bepaalde in het eerste lid, als het bepaalde in het tweede lid van toepassing is, wordt voor de toepassing van het tweede lid de eerstgenoemde uitkering in aanmerking genomen voor hetzelfde bedrag, als waarvoor die uitkering in aanmerking zou moeten worden genomen als alleen het bepaalde in het eerste lid van toepassing was.
 
-- a. Indien het bepaalde in de voorgaande leden van toepassing is ten aanzien van reeds voor de datum van inwerkingtreden van dit besluit ingegane uitkeringen, wordt de uitbetaling van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) of [artikel 4 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=4), niet verder beperkt dan tot het bedrag, dat onmiddellijk voorafgaande aan die datum aan arbeidsongeschiktheidsuitkering werd uitbetaald.
+4. - a. Indien het bepaalde in de voorgaande leden van toepassing is ten aanzien van reeds voor de datum van inwerkingtreden van dit besluit ingegane uitkeringen, wordt de uitbetaling van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) of [artikel 4 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=4), niet verder beperkt dan tot het bedrag, dat onmiddellijk voorafgaande aan die datum aan arbeidsongeschiktheidsuitkering werd uitbetaald.
 
-- b. Het bepaalde onder **a** geldt slechts, indien en zolang de arbeidsongeschiktheid in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) niet is afgenomen en geen uitkering ingevolge de sociale wetgeving van een andere Mogendheid, die ingevolge de bepalingen van dit besluit leidt tot vermindering van het bedrag van de uit te betalen arbeidsongeschiktheidsuitkering, wordt toegekend of, om andere reden dan aanpassing aan het loon- en/of prijspeil, wordt verhoogd.
+- b. Het bepaalde onder *a* geldt slechts, indien en zolang de arbeidsongeschiktheid in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) niet is afgenomen en geen uitkering ingevolge de sociale wetgeving van een andere Mogendheid, die ingevolge de bepalingen van dit besluit leidt tot vermindering van het bedrag van de uit te betalen arbeidsongeschiktheidsuitkering, wordt toegekend of, om andere reden dan aanpassing aan het loon- en/of prijspeil, wordt verhoogd.
 
 5. Het eerste, tweede en derde lid, zijn van overeenkomstige toepassing op de uitkeringen, bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7).
 
 ##### Artikel 5
 
-Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) met een of meer uitkeringen als bedoeld in [artikel 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29) en/of een of meer uitkeringen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=3&z=2005-12-29&g=2005-12-29), wordt, zolang de arbeidsongeschiktheid niet is afgenomen, de uitbetaling van de arbeidsongeschiktheidsuitkering ter zake van die samenloop niet verder beperkt dan tot het bedrag, waarop de betrokkene laatstelijk aan invaliditeitsrente ingevolge de Invaliditeitswet en bijslag ingevolge de Interimwet invaliditeitsrentetrekkers aanspraak had.
+Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) met een of meer uitkeringen als bedoeld in [artikel 1 onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29) en/of een of meer uitkeringen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=3&z=2005-12-29&g=2005-12-29), wordt, zolang de arbeidsongeschiktheid niet is afgenomen, de uitbetaling van de arbeidsongeschiktheidsuitkering ter zake van die samenloop niet verder beperkt dan tot het bedrag, waarop de betrokkene laatstelijk aan invaliditeitsrente ingevolge de Invaliditeitswet en bijslag ingevolge de Interimwet invaliditeitsrentetrekkers aanspraak had.
 
 ##### Artikel 6
 
@@ -148,6 +118,4 @@ Dit besluit wordt aangehaald als: Besluit voorkoming en beperking samenloop WAO-
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de eerste dag van de maand na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst, met dien verstande, dat artikel 8 terugwerkt tot 1 oktober 1969 en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=9&z=2005-12-29&g=2005-12-29) tot 1 december 1969.
-
-Onze Minister van Sociale Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de eerste dag van de maand na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst, met dien verstande, dat artikel 8 terugwerkt tot 1 oktober 1969 en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=9&z=2005-12-29&g=2005-12-29) tot 1 december 1969.

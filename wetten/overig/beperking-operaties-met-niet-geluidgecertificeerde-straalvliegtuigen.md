@@ -1,46 +1,17 @@
 ---
 title: "Beperking operaties met niet-geluidgecertificeerde straalvliegtuigen"
 identifier: "BWBR0003673"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1984-05-27"
-last_updated: "1984-05-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003673"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3680833"
-version_id: "5463812"
-internal_id: "C5656901"
-label_id: "3660694"
-dtd_version: "2.0"
-original_entry_into_force: "1984-05-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003673/1984-05-27/0"
-intitule_bron: "Stcrt.1984-88"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-04-25"
-intitule_published: "1984-05-07"
-intitule_in_force: "1984-05-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1984-88"
-original_signed_date: "1984-04-25"
-original_published_date: "1984-05-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1984-05-27"
-jci_1_3: "jci1.3:c:BWBR0003673&z=1984-05-27&g=1984-05-27"
-jci_1_0: "1.0:c:BWBR0003673&g=1984-05-27"
-citeertitel_status: "officieel"
-signed_date: "1984-04-25"
-entry_into_force: "1984-05-27"
+publicatiedatum: 1984-05-27
+laatste_update: 1984-05-27
+status: geldig
+toestand: 1984-05-27
+bron: "https://wetten.overheid.nl/BWBR0003673"
+opgehaald: 2026-07-30
 ---
+
 # Beperking operaties met niet-geluidgecertificeerde straalvliegtuigen
-
-Gelet op [artikel 4 van het Besluit van 21 mei 1981, houdende vaststelling van regels ter beperking van geluidhinder door luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0003404) (Stb. 1981, 343),
-
-Gelet op de Richtlijn van 21 april 1983, 83/206/EG, van de Raad van Europese Gemeenschappen (Publikatieblad van de Europese Gemeenschappen van 4 mei 1983, nr. L 117/15), tot wijziging van de Richtlijn van de Raad van 20 december 1979, 80/51/EG, inzake de beperking van geluidhinder door subsonische luchtvaartuigen (Publikatieblad van de Europese Gemeenschappen van 24 januari 1980, nr. L 18–26);
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
-
-Besluit:
 
 ##### Artikel 1
 

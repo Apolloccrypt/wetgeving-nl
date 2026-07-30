@@ -1,44 +1,18 @@
 ---
 title: "Wet van 8 november 1980, tot provinciale indeling van de Waddenzee"
+citeertitel: "Wet tot provinciale indeling van de Waddenzee"
 identifier: "BWBR0003354"
-country: "nl"
-rank: "wet"
-publication_date: "1981-01-01"
-last_updated: "1981-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003354"
+categorie: "Overig"
 soort: "wet"
-stam_id: "320233"
-version_id: "464812"
-internal_id: "C464811"
-label_id: "313404"
-dtd_version: "2.0"
-original_entry_into_force: "1981-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003354/1981-01-01/0"
-intitule_bron: "Stb.1980-670"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-11-08"
-intitule_status: "goed"
-original_publication: "Stb.1980-670"
-original_signed_date: "1980-11-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "15665"
-entry_into_force_date: "1981-01-01"
-entry_into_force_dossier: "15665"
-jci_1_3: "jci1.3:c:BWBR0003354&z=1981-01-01&g=1981-01-01"
-jci_1_0: "1.0:c:BWBR0003354&g=1981-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot provinciale indeling van de Waddenzee"
-signed_date: "1980-11-08"
-entry_into_force: "1981-01-01"
+publicatiedatum: 1981-01-01
+laatste_update: 1981-01-01
+status: geldig
+toestand: 1981-01-01
+bron: "https://wetten.overheid.nl/BWBR0003354"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 8 november 1980, tot provinciale indeling van de Waddenzee
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het nog niet provinciaal en gemeentelijk ingedeelde gebied van de Waddenzee, vooruitlopend op een nog te verwezenlijken gemeentelijke indeling, reeds thans provinciaal in te delen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -59,5 +33,3 @@ Aan de provincie Noord-Holland wordt toegevoegd het deel van de Waddenzee dat wo
 ##### Artikel 5
 
 Deze wet treedt in werking met ingang van 1 januari 1981.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

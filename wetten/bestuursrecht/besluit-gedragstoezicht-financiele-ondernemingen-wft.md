@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0020421"
-opgehaald: 2026-07-29
+opgehaald: 2026-07-30
 ---
 
 # Besluit van 12 oktober 2006, houdende regels met betrekking tot het gedragstoezicht op financiële ondernemingen (Besluit Gedragstoezicht financiële ondernemingen Wft)

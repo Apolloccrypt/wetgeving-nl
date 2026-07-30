@@ -1,44 +1,17 @@
 ---
 title: "Regeling ter uitvoering van de Wet openbaarheid van bestuur (Binnenlandse Zaken)"
 identifier: "BWBR0003524"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1983-01-01"
-last_updated: "1983-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003524"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "3683973"
-version_id: "5467152"
-internal_id: "C5660241"
-label_id: "3664034"
-dtd_version: "2.0"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003524/1983-01-01/0"
-intitule_bron: "Stcrt.1982-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-10-18"
-intitule_published: "1982-10-27"
-intitule_in_force: "1982-10-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-207"
-original_signed_date: "1982-10-18"
-original_published_date: "1982-10-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0003524&z=1983-01-01&g=1983-01-01"
-jci_1_0: "1.0:c:BWBR0003524&g=1983-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1982-10-18"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 1983-01-01
+status: geldig
+toestand: 1983-01-01
+bron: "https://wetten.overheid.nl/BWBR0003524"
+opgehaald: 2026-07-30
 ---
+
 # Regeling ter uitvoering van de Wet openbaarheid van bestuur (Binnenlandse Zaken)
-
-Overwegende, dat de interim-rapportage van de Evaluatiecommissie Wet openbaarheid van bestuur van 26 oktober 1981 aanleiding geeft tot wijziging van de bij de beschikking van 29 april 1980, nr. SG80/U347 vastgestelde Regeling ter uitvoering van de Wet openbaarheid van bestuur,
-
-Besluit
-
-Voor het departement van Binnenlandse Zaken vast te stellen de navolgende Regeling ter uitvoering van de Wet openbaarheid van bestuur;
 
 #### Algemeen
 
@@ -46,15 +19,15 @@ Voor het departement van Binnenlandse Zaken vast te stellen de navolgende Regeli
 
 In deze beschikking wordt verstaan onder:
 
-- **de wet:** de Wet openbaarheid van bestuur van 9 november 1978, Staatsblad 581;
+- *de wet:* de Wet openbaarheid van bestuur van 9 november 1978, Staatsblad 581;
 
-- **het besluit:** het Besluit openbaarheid van bestuur van 12 oktober 1979, Staatsblad 590;
+- *het besluit:* het Besluit openbaarheid van bestuur van 12 oktober 1979, Staatsblad 590;
 
-- **aanwijzing:** het desbetreffende onderdeel van de Aanwijzingen inzake openbaarheid van bestuur, vastgesteld bij besluit van de minister-president van 21 december 1979, Staatscourant nr. 6 van 9 januari 1980, nadien gewijzigd;
+- *aanwijzing:* het desbetreffende onderdeel van de Aanwijzingen inzake openbaarheid van bestuur, vastgesteld bij besluit van de minister-president van 21 december 1979, Staatscourant nr. 6 van 9 januari 1980, nadien gewijzigd;
 
-- **het departement:** het departement van Binnenlandse Zaken (in de zin van artikel 86 van de Grondwet);
+- *het departement:* het departement van Binnenlandse Zaken (in de zin van artikel 86 van de Grondwet);
 
-- **het ministerie:** het te 's-Gravenhage gevestigde, met de leiding van het departement belaste, deel van het departement.
+- *het ministerie:* het te 's-Gravenhage gevestigde, met de leiding van het departement belaste, deel van het departement.
 
 #### Registers
 

@@ -1,46 +1,17 @@
 ---
 title: "Faciliteitenregeling Vluchtelingen"
 identifier: "BWBR0003591"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1983-05-27"
-last_updated: "1983-05-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003591"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3711353"
-version_id: "5494442"
-internal_id: "C5687531"
-label_id: "3691324"
-dtd_version: "2.0"
-original_entry_into_force: "1983-05-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003591/1983-05-27/0"
-intitule_bron: "Stcrt.1983-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-05-11"
-intitule_published: "1983-05-26"
-intitule_in_force: "1983-05-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1983-99"
-original_signed_date: "1983-05-11"
-original_published_date: "1983-05-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-05-27"
-jci_1_3: "jci1.3:c:BWBR0003591&z=1983-05-27&g=1983-05-27"
-jci_1_0: "1.0:c:BWBR0003591&g=1983-05-27"
-citeertitel_status: "officieel"
-signed_date: "1983-05-11"
-entry_into_force: "1983-05-27"
+publicatiedatum: 1983-05-27
+laatste_update: 1983-05-27
+status: geldig
+toestand: 1983-05-27
+bron: "https://wetten.overheid.nl/BWBR0003591"
+opgehaald: 2026-07-30
 ---
+
 # Faciliteitenregeling Vluchtelingen
-
-Overwegende dat sinds 1 januari 1982 gemeenten die vluchtelingen opnemen, in staat zijn gesteld de opvang, begeleiding en introductie van die vluchtelingen in de Nederlandse samenleving te realiseren op basis van de Faciliteitenregeling Vluchtelingen;
-
-dat gebleken is dat deze regeling op een aantal punten herziening behoeft;
-
-dat in verband daarmee de regeling opnieuw moet worden vastgesteld;
-
-Besluit:
 
 ### Hoofdstuk I. Begripsbepaling
 
@@ -48,7 +19,35 @@ Besluit:
 
 1. Voor de toepassing van dit besluit wordt verstaan onder:
 
-a. de minister: de Minister van Welzijn, Volksgezondheid en Cultuur; b. de vluchteling: de vreemdeling die voldoet aan de omschrijving van artikel 1 (a) van het verdrag van Genève, betreffende de status van vluchtelingen van 1951 (Trb. 1954, 88) en bijbehorend Protocol van New York van 1967 (Trb. 1967, 76) zoals ook neergelegd in artikel 15, eerste lid van de Vreemdelingenwet en op grond daarvan als vluchteling is toegelaten (A-status); Met dien verstande dat niet tot vluchtelingen worden gerekend kinderen van deze vreemdelingen, geboren na 306 dagen na toelating van hun moeder als vluchteling; c. kerngemeente: de door de minister als zodanig aangemerkte gemeente of samenwerkende gemeenten; d. voogdijpupil: de minderjarige vluchteling die door de rechter onder het gezag is gesteld van een door het Ministerie van Justitie aanvaarde voogdijinstelling; e. opvangcentrum: een accommodatie, waarin vluchtelingen in afwachting van definitieve huisvesting, van rijkswege worden opgevangen.
+a.
+
+de minister:
+
+de Minister van Welzijn, Volksgezondheid en Cultuur;
+
+b.
+
+de vluchteling:
+
+de vreemdeling die voldoet aan de omschrijving van artikel 1 (a) van het verdrag van Genève, betreffende de status van vluchtelingen van 1951 (Trb. 1954, 88) en bijbehorend Protocol van New York van 1967 (Trb. 1967, 76) zoals ook neergelegd in artikel 15, eerste lid van de Vreemdelingenwet en op grond daarvan als vluchteling is toegelaten (A-status); Met dien verstande dat niet tot vluchtelingen worden gerekend kinderen van deze vreemdelingen, geboren na 306 dagen na toelating van hun moeder als vluchteling;
+
+c.
+
+kerngemeente:
+
+de door de minister als zodanig aangemerkte gemeente of samenwerkende gemeenten;
+
+d.
+
+voogdijpupil:
+
+de minderjarige vluchteling die door de rechter onder het gezag is gesteld van een door het Ministerie van Justitie aanvaarde voogdijinstelling;
+
+e.
+
+opvangcentrum:
+
+een accommodatie, waarin vluchtelingen in afwachting van definitieve huisvesting, van rijkswege worden opgevangen.
 
 2. Voor zover in dit besluit wordt gesproken van vluchteling wordt daaronder tevens begrepen de vreemdeling die geen vluchteling is, doch als asielgerechtigde in het bezit is gesteld van een gekwalificeerde vergunning tot verblijf op humanitaire gronden (B-status).
 
@@ -124,11 +123,11 @@ Het verzoek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - b. een programma voor de eerste opvang van vluchtelingen, waarin in ieder geval wordt aangegeven:
 
-- 1. op welke wijze de maatschappelijke begeleiding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003591&hoofdstuk=II&artikel=4&z=1983-05-27&g=1983-05-27), gestalte krijgt;
+   - 1. op welke wijze de maatschappelijke begeleiding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003591&hoofdstuk=II&artikel=4&z=1983-05-27&g=1983-05-27), gestalte krijgt;
 
-- 2. welke introductie-activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003591&hoofdstuk=II&artikel=4&z=1983-05-27&g=1983-05-27) zullen worden uitgevoerd;
+   - 2. welke introductie-activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003591&hoofdstuk=II&artikel=4&z=1983-05-27&g=1983-05-27) zullen worden uitgevoerd;
 
-- 3. door wie de maatschappelijke begeleiding en de introductieactiviteiten zullen worden uitgevoerd.
+   - 3. door wie de maatschappelijke begeleiding en de introductieactiviteiten zullen worden uitgevoerd.
 
 ##### Artikel 13
 
@@ -175,5 +174,3 @@ De minister kan in bijzondere gevallen ontheffing verlenen van voorwaarden en be
 ##### Artikel 20
 
 Dit besluit, dat kan worden aangehaald als Faciliteitenregeling Vluchtelingen, treedt in werking op de dag na die van plaatsing in de Nederlandse Staatscourant, en werkt terug tot 1 januari 1983.
-
-Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.

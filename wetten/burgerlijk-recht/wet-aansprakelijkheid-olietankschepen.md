@@ -1,44 +1,18 @@
 ---
 title: "Wet van 11 juni 1975, tot uitvoering van het op 29 november 1969 te Brussel tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, met Bijlage (Trb. 1970, 196) alsmede regeling van die aansprakelijkheid in overeenstemming met dat Verdrag"
+citeertitel: "Wet aansprakelijkheid olietankschepen"
 identifier: "BWBR0002976"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002976"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "1826563"
-version_id: "2723792"
-internal_id: "C2723791"
-label_id: "1781744"
-dtd_version: "2.0"
-original_entry_into_force: "1975-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002976/2025-07-01/0"
-intitule_bron: "Stb.1975-321"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1975-06-11"
-intitule_status: "goed"
-original_publication: "Stb.1975-321"
-original_signed_date: "1975-06-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "12289"
-entry_into_force_date: "1975-07-21"
-entry_into_force_dossier: "12289"
-jci_1_3: "jci1.3:c:BWBR0002976&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0002976&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet aansprakelijkheid olietankschepen"
-signed_date: "1975-06-11"
-entry_into_force: "1975-07-21"
+publicatiedatum: 1975-07-21
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0002976"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 11 juni 1975, tot uitvoering van het op 29 november 1969 te Brussel tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, met Bijlage (Trb. 1970, 196) alsmede regeling van die aansprakelijkheid in overeenstemming met dat Verdrag
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, in verband met de bekrachtiging van het op 29 november 1969 te Brussel tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (**Trb.** 1970, 196) regelen vast te stellen tot uitvoering van dat Verdrag en, in afwachting van de inwerkingtreding van dat Verdrag, reeds in overeenstemming daarmede regelen vast te stellen betreffende de wettelijke aansprakelijkheid voor schade door verontreiniging door olie afkomstig van olietankschepen en betreffende daarmede samenhangende onderwerpen:
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -48,7 +22,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - a. "Onze Minister": Onze Minister van Verkeer en Waterstaat;
 
-- b. «Verdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie 1992, met Bijlage (**Trb**. 1994, 229);
+- b. «Verdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie 1992, met Bijlage (*Trb*. 1994, 229);
 
 - c. «schip»: alle zeeschepen en andere zeegaande vaartuigen, van welk type ook, gebouwd of aangepast voor het vervoer van olie in bulk als lading, met uitzondering van oorlogsschepen of andere schepen in eigendom van of geëxploiteerd door een Staat ten tijde dat zij uitsluitend worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden, en met dien verstande dat een schip dat olie en andere soorten lading kan vervoeren alleen als een schip wordt beschouwd, wanneer het daadwerkelijk olie in bulk als lading vervoert en tijdens iedere reis na een zodanig vervoer, tenzij wordt aangetoond dat het geen residuen van zulk vervoer van olie in bulk aan boord heeft.
 
@@ -60,9 +34,9 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - g. «schade door verontreiniging»:
 
-- a. verlies of schade buiten het schip in Nederland, de territoriale zee daaronder begrepen, en in de Nederlandse exclusieve economische zone (EEZ) of, zolang een zodanige zone niet is ingesteld, binnen een gebied buiten en grenzend aan de territoriale zee, waarvan de buitengrenzen samenvallen met die van het aan Nederland toekomende gedeelte van het continentaal plat, toegebracht door bevuiling als gevolg van het ontsnappen of lozen van olie uit het schip, waar zulk ontsnappen of lozen ook heeft plaatsgevonden, met dien verstande dat vergoeding voor andere schade aan het milieu dan winstderving ten gevolge van deze schade wordt beperkt tot de kosten van redelijke maatregelen tot herstel die daadwerkelijk worden ondernomen of zullen worden ondernomen;
+   - a. verlies of schade buiten het schip in Nederland, de territoriale zee daaronder begrepen, en in de Nederlandse exclusieve economische zone (EEZ) of, zolang een zodanige zone niet is ingesteld, binnen een gebied buiten en grenzend aan de territoriale zee, waarvan de buitengrenzen samenvallen met die van het aan Nederland toekomende gedeelte van het continentaal plat, toegebracht door bevuiling als gevolg van het ontsnappen of lozen van olie uit het schip, waar zulk ontsnappen of lozen ook heeft plaatsgevonden, met dien verstande dat vergoeding voor andere schade aan het milieu dan winstderving ten gevolge van deze schade wordt beperkt tot de kosten van redelijke maatregelen tot herstel die daadwerkelijk worden ondernomen of zullen worden ondernomen;
 
-- b. de kosten van preventieve maatregelen alsmede verlies of schade veroorzaakt door die maatregelen.
+   - b. de kosten van preventieve maatregelen alsmede verlies of schade veroorzaakt door die maatregelen.
 
 - h. "preventieve maatregelen": na een voorval genomen redelijke maatregelen ter voorkoming of beperking van schade door verontreiniging;
 
@@ -82,11 +56,11 @@ Deze wet is mede van toepassing op aansprakelijkheid wegens voorvallen ten tijde
 
 2. De eigenaar is niet aansprakelijk indien hij bewijst dat de schade
 
-- -. werd veroorzaakt door oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of een natuurverschijnsel van een uitzonderlijke, onvermijdelijke en onweerstaanbare aard, of
+- - werd veroorzaakt door oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of een natuurverschijnsel van een uitzonderlijke, onvermijdelijke en onweerstaanbare aard, of
 
-- -. geheel en al werd veroorzaakt door een handelen of nalaten van derden, met het opzet schade te veroorzaken, of
+- - geheel en al werd veroorzaakt door een handelen of nalaten van derden, met het opzet schade te veroorzaken, of
 
-- -. geheel en al werd veroorzaakt door schuldig handelen of nalaten van een regering of andere autoriteit, verantwoordelijk voor het onderhouden van lichten of andere hulpmiddelen bij de navigatie, in de uitoefening van die taak.
+- - geheel en al werd veroorzaakt door schuldig handelen of nalaten van een regering of andere autoriteit, verantwoordelijk voor het onderhouden van lichten of andere hulpmiddelen bij de navigatie, in de uitoefening van die taak.
 
 3. Indien de eigenaar bewijst dat de schade door verontreiniging geheel of gedeeltelijk het gevolg is van een handelen of nalaten van de persoon die de schade heeft geleden, met het opzet schade te veroorzaken of van de schuld van die persoon, kan hij geheel of gedeeltelijk worden ontheven van zijn aansprakelijkheid tegenover die persoon.
 
@@ -104,7 +78,7 @@ Deze wet is mede van toepassing op aansprakelijkheid wegens voorvallen ten tijde
 
 - e. personen die preventieve maatregelen nemen;
 
-- f. alle ondergeschikten, vertegenwoordigers of lasthebbers van personen genoemd onder **b**, **c**, **d** en **e**;
+- f. alle ondergeschikten, vertegenwoordigers of lasthebbers van personen genoemd onder *b*, *c*, *d* en *e*;
 
 tenzij de schade het gevolg is van hun persoonlijk handelen of nalaten, hetzij met het opzet zodanige schade te veroorzaken, hetzij roekeloos en in de wetenschap dat zodanige schade er waarschijnlijk uit zou voortvloeien.
 
@@ -174,7 +148,7 @@ De eigenaar kan zich overeenkomstig het bepaalde in [titel 7 van Boek 8 van het 
 
 ### Hoofdstuk IV. Bepalingen tot uitvoering van artikel vii van het verdrag
 
-## Titel I. De verplichting tot het in stand houden van een verzekering of andere financiële zekerheid en de overeenkomst tot verstrekking van financiële zekerheid
+### Titel I. De verplichting tot het in stand houden van een verzekering of andere financiële zekerheid en de overeenkomst tot verstrekking van financiële zekerheid
 
 ##### Artikel 11
 
@@ -200,7 +174,7 @@ De overeenkomst tot verstrekking van financiële zekerheid ten aanzien van een s
 
 Gelden uit een verzekering of andere financiële zekerheid welke ingevolge de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=IV&titeldeel=I&artikel=11&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=IV&titeldeel=I&artikel=12&z=2025-07-01&g=2025-07-01) wordt in stand gehouden, zijn uitsluitend beschikbaar voor de voldoening van vorderingen ingevolge deze wet. Voor andere vorderingen kan op deze gelden geen beslag worden gelegd.
 
-## Titel 2. Het certificaat en het bewijs van financiële zekerheid
+### Titel 2. Het certificaat en het bewijs van financiële zekerheid
 
 ##### Artikel 15
 
@@ -220,7 +194,7 @@ Gelden uit een verzekering of andere financiële zekerheid welke ingevolge de [a
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -288,13 +262,17 @@ De kapitein van een schip waarmede meer dan 2000 ton olie in bulk als lading wor
 
 ##### Artikel 27
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 27a
+
+In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank Rotterdam bevoegd.
 
 ### Hoofdstuk VI. Slotbepalingen
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
@@ -303,13 +281,3 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 ##### Artikel 30
 
 Deze wet kan worden aangehaald als: Wet aansprakelijkheid olietankschepen. Zij treedt voor wat betreft de [artikelen 4-7](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=II&artikel=4&z=2025-07-01&g=2025-07-01) en [9-29](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=III&artikel=9&z=2025-07-01&g=2025-07-01) in werking op een door Ons nader te bepalen tijdstip. De [artikelen 1-3](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=I&artikel=1&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=II&artikel=8&z=2025-07-01&g=2025-07-01) zijn slechts van toepassing ten aanzien van aansprakelijkheid uit een voorval dat na de dag van inwerkingtreding van deze wet heeft plaats gevonden.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 27a
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank Rotterdam bevoegd.
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

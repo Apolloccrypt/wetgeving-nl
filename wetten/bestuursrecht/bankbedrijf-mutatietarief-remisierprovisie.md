@@ -1,42 +1,31 @@
 ---
 title: "Bankbedrijf, mutatietarief remisierprovisie"
 identifier: "BWBR0003580"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1983-03-14"
-last_updated: "1983-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003580"
+categorie: "Financieel recht"
 soort: "beleidsregel"
-stam_id: "8446583"
-version_id: "13325382"
-internal_id: "C17897611"
-label_id: "8427154"
-dtd_version: "2.0"
-original_entry_into_force: "1983-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003580/1983-03-14/0"
-intitule_bron: "Infob.1983-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-03-14"
-intitule_published: "1983-01-01"
-intitule_in_force: "1983-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1983-3"
-original_signed_date: "1983-03-14"
-original_published_date: "1983-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-03-14"
-jci_1_3: "jci1.3:c:BWBR0003580&z=1983-03-14&g=1983-03-14"
-jci_1_0: "1.0:c:BWBR0003580&g=1983-03-14"
-citeertitel_status: "redactioneel"
-signed_date: "1983-03-14"
-entry_into_force: "1983-03-14"
+publicatiedatum: 1983-03-14
+laatste_update: 1983-03-14
+status: geldig
+toestand: 1983-03-14
+bron: "https://wetten.overheid.nl/BWBR0003580"
+opgehaald: 2026-07-30
 ---
+
 # Bankbedrijf, mutatietarief remisierprovisie
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-
 Bij de tweede herdruk van de Bijlage bij de aanschrijving van 25 juli 1979, nr. 279-12007, is hierin het mutatietarief opgenomen, zijnde een vergoeding voor mutaties in geadministreerde effectendepots. Vooralsnog wordt deze provisie in rekening gebracht bij de volgende handelingen:
+
+- 1. deponeringen respectievelijk lichtingen uit hoofde van aan- en verkoop (inclusief stockdividenden en claims), waaronder begrepen arbitrage en netto-affaires exercises en assignments uit hoofde van optie-affaires.
+
+- 2. lichtingen wegens aflosbaarstelling/uitloting.
+
+- 3. overboekingen op initiatief van de cliënt:
+
+   - – van en naar een ander depot bij eenzelfde bank;
+
+   - – van en naar depots van dezelfde cliënt bij eenzelfde bank;
+
+   - – van en naar een depot bij een andere bank.
 
 Het mutatietarief wordt met ingang van 1 maart 1983 ingevoerd.
 

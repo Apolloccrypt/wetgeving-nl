@@ -1,46 +1,18 @@
 ---
 title: "Rijkswet van 19 december 1984, houdende vaststelling van nieuwe, algemene bepalingen omtrent het Nederlanderschap ter vervanging van de Wet van 12 december 1892, Stb. 268 op het Nederlanderschap en het ingezetenschap"
+citeertitel: "Rijkswet op het Nederlanderschap"
 identifier: "BWBR0003738"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003738"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "1906413"
-version_id: "28434362"
-internal_id: "C40127621"
-label_id: "1856804"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003738/2023-10-01/0"
-intitule_bron: "Stb.1984-628"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-12-19"
-intitule_status: "goed"
-original_publication: "Stb.2022-84"
-original_signed_date: "2022-02-23"
-original_published_date: "2022-02-25"
-original_effect: "structuurwijziging"
-original_dossier: "35934"
-original_url_id: "stb-2022-84"
-entry_into_force_date: "2022-02-23"
-entry_into_force_dossier: "35934"
-jci_1_3: "jci1.3:c:BWBR0003738&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBR0003738&g=2023-10-01"
-citeertitel_status: "officieel"
-short_title: "Rijkswet op het Nederlanderschap"
-signed_date: "2022-02-23"
-entry_into_force: "2022-02-23"
+publicatiedatum: 2022-02-23
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBR0003738"
+opgehaald: 2026-07-30
 ---
+
 # Rijkswet van 19 december 1984, houdende vaststelling van nieuwe, algemene bepalingen omtrent het Nederlanderschap ter vervanging van de Wet van 12 december 1892, Stb. 268 op het Nederlanderschap en het ingezetenschap
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er mede in verband met de bekrachtiging van het op 30 augustus 1961 te New York tot stand gekomen Verdrag tot beperking der staatloosheid (**Trb.** 1967, 124), het op 6 mei 1963 te Straatsburg tot stand gekomen Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende de militaire verplichtingen in geval van meervoudige nationaliteit (**Trb.** 1964, 4) en de op 13 september 1973 te Bern tot stand gekomen Overeenkomst inzake beperking van het aantal gevallen van staatloosheid (**Trb.** 1974, 32), aanleiding bestaat de Wet van 12 december 1892, **Stb.** 268 op het Nederlanderschap en het ingezetenschap aan een algehele herziening te onderwerpen en ter vervanging van die wet nieuwe, algemene bepalingen omtrent het Nederlanderschap vast te stellen;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -60,9 +32,9 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - f. staatloze:
 
-- 1°. voor zover het betreft toepassing in het Europese deel van Nederland: een persoon die als staatloos kan worden beschouwd op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=4) of [5 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=5);
+   - 1°. voor zover het betreft toepassing in het Europese deel van Nederland: een persoon die als staatloos kan worden beschouwd op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=4) of [5 van de Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458&artikel=5);
 
-- 2°. voor zover het betreft toepassing in de landen Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba: een persoon die door geen enkele staat, krachtens diens wetgeving, als onderdaan wordt beschouwd;
+   - 2°. voor zover het betreft toepassing in de landen Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba: een persoon die door geen enkele staat, krachtens diens wetgeving, als onderdaan wordt beschouwd;
 
 - g. toelating: instemming door het bevoegd gezag met het bestendig verblijf van de vreemdeling in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
@@ -114,6 +86,50 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 Nederlander wordt het kind dat in Nederland, Aruba, Curaçao of Sint Maarten bij rechterlijke uitspraak is geadopteerd, indien het kind op de dag van de uitspraak in eerste aanleg minderjarig was en ten minste één der adoptiefouders op de in de volgende zin bedoelde dag Nederlander is. Het kind verkrijgt het Nederlanderschap op de eerste dag na een periode van drie maanden, te rekenen van de dag van de uitspraak in eerste aanleg of, indien binnen deze periode hoger beroep is ingesteld, van drie maanden, te rekenen van de dag van de uitspraak in hoger beroep, dan wel, indien binnen deze laatste periode beroep in cassatie is ingesteld, op de dag van de uitspraak in cassatie.
 
+##### Artikel 5a
+
+1. Nederlander wordt ook het kind dat in het buitenland bij uitspraak van een ter plaatse bevoegde autoriteit wordt geadopteerd in overeenstemming met het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
+
+- a. de adoptie is in overeenstemming met het voornoemde verdrag tot stand gekomen, en
+
+- b. die adoptie heeft tot gevolg dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, en
+
+- c. ten minste één der adoptiefouders is Nederlander op de dag dat de uitspraak kracht van gewijsde heeft gekregen, en
+
+- d. het kind was op de dag van de uitspraak in eerste aanleg minderjarig.
+
+2. Nederlander wordt voorts het kind dat in het buitenland in overeenstemming met het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie is geadopteerd bij een adoptie die niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, welke adoptie in Nederland, Aruba, Curaçao of Sint Maarten bij rechterlijke uitspraak in overeenstemming met artikel 27 van voornoemd verdrag wordt omgezet in een adoptie naar het recht van Nederland, Aruba, Curaçao of Sint Maarten, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
+
+- a. de adoptie is in overeenstemming met het voornoemde verdrag tot stand gekomen; en
+
+- b. ten minste één der adoptiefouders is Nederlander op de dag nadat drie maanden, te rekenen van de dag van de uitspraak houdende omzetting in eerste aanleg of in hoger beroep, zijn verstreken zonder dat daartegen hoger beroep of beroep in cassatie is ingesteld, dan wel, indien beroep in cassatie is ingesteld, op de dag van de uitspraak in cassatie, en
+
+- c. het kind was op de dag van de uitspraak houdende omzetting in eerste aanleg minderjarig.
+
+##### Artikel 5b
+
+1. Nederlander wordt ook het kind dat in het buitenland bij uitspraak van een ter plaatse bevoegde autoriteit wordt geadopteerd, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
+
+- a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=108) of [artikel 109 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=109), en
+
+- b. de adoptie heeft tot gevolg dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, en
+
+- c. ten minste een der adoptiefouders is Nederlander op de dag dat de uitspraak kracht van gewijsde heeft gekregen, en
+
+- d. het kind was op de dag van de uitspraak in eerste aanleg minderjarig.
+
+2. Nederlander wordt voorts het kind dat in het buitenland is geadopteerd bij een adoptie die niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, welke adoptie in Nederland bij rechterlijke uitspraak in overeenstemming met [artikel 111 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=111) wordt omgezet in een adoptie naar Nederlands recht, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
+
+- a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=108) of [artikel 109 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=109), en
+
+- b. ten minste een der adoptiefouders is Nederlander op de dag nadat drie maanden te rekenen van de dag van de uitspraak houdende omzetting in eerste aanleg of in hoger beroep zijn verstreken zonder dat daartegen hoger beroep of beroep in cassatie is ingesteld, dan wel, indien beroep in cassatie is ingesteld, op de dag van de uitspraak in cassatie; en
+
+- c. het kind was op de dag van de uitspraak houdende omzetting in eerste aanleg minderjarig.
+
+##### Artikel 5c
+
+Het kind van degene die door adoptie het Nederlanderschap verkrijgt deelt in die verkrijging.
+
 ### Hoofdstuk 3. Verkrijging van het Nederlanderschap door optie
 
 ##### Artikel 6
@@ -124,7 +140,7 @@ Nederlander wordt het kind dat in Nederland, Aruba, Curaçao of Sint Maarten bij
 
 - b. de vreemdeling die in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, is geboren, aldaar gedurende een onafgebroken periode van tenminste drie jaren toelating en hoofdverblijf heeft en sedert zijn geboorte staatloos is;
 
-- c. de minderjarige vreemdeling die door een Nederlander is erkend en die niet op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=4&z=2023-10-01&g=2023-10-01) Nederlander is of is geworden, indien hij onmiddellijk voorafgaand aan de verklaring gedurende een onafgebroken periode van ten minste drie jaren verzorging en opvoeding heeft genoten van de Nederlander door wie hij is erkend;
+- c. de minderjarige vreemdeling die door een Nederlander is erkend en die niet op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=4&z=2023-10-01&g=2023-10-01) Nederlander is of is geworden, indien hij onmiddellijk voorafgaand aan de verklaring gedurende een onafgebroken periode van ten minste drie jaren verzorging en opvoeding heeft genoten van de Nederlander door wie hij is erkend;
 
 - d. de minderjarige vreemdeling die krachtens Nederlandse rechterlijke beslissing of bij zijn geboorte van rechtwege onder het gezamenlijk gezag is komen te staan van een niet-Nederlandse vader of moeder en een ander die Nederlander is, indien hij na het instellen van dat gezag gedurende een onafgebroken periode van tenminste drie jaren verzorging en opvoeding heeft genoten van deze Nederlander, en hij zijn hoofdverblijf niet heeft in het land waarvan hij onderdaan is. Op de minderjarige die ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar nog niet heeft bereikt, is het vierde lid van dit artikel niet van toepassing;
 
@@ -136,9 +152,9 @@ Nederlander wordt het kind dat in Nederland, Aruba, Curaçao of Sint Maarten bij
 
 - h. de vreemdeling die de leeftijd van vijf en zestig jaar heeft bereikt en gedurende een onafgebroken periode van tenminste vijftien jaren toelating en hoofdverblijf heeft in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- i. de vreemdeling die vóór 1 januari 1985 is geboren uit een moeder die ten tijde van zijn geboorte Nederlander was, terwijl de vader ten tijde van die geboorte niet-Nederlander was;
+- i. de vreemdeling die vóór 1 januari 1985 is geboren uit een moeder die ten tijde van zijn geboorte Nederlander was, terwijl de vader ten tijde van die geboorte niet-Nederlander was;
 
-- j. het vóór 1 januari 1985 in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba bij rechterlijke uitspraak geadopteerde niet-Nederlandse kind van een vrouw die op de dag dat de uitspraak kracht van gewijsde heeft gekregen Nederlander was, indien het kind op de dag van de uitspraak in eerste aanleg minderjarig was;
+- j. het vóór 1 januari 1985 in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba bij rechterlijke uitspraak geadopteerde niet-Nederlandse kind van een vrouw die op de dag dat de uitspraak kracht van gewijsde heeft gekregen Nederlander was, indien het kind op de dag van de uitspraak in eerste aanleg minderjarig was;
 
 - k. de vreemdeling die is geboren als kind van één van de in de onderdelen i of j bedoelde personen die het Nederlanderschap heeft verkregen dan wel voor die verkrijging is overleden;
 
@@ -154,15 +170,15 @@ Nederlander wordt het kind dat in Nederland, Aruba, Curaçao of Sint Maarten bij
 
 - q. de vreemdeling die:
 
-- 1°. de leeftijd van eenentwintig jaar nog niet heeft bereikt;
+   - 1°. de leeftijd van eenentwintig jaar nog niet heeft bereikt;
 
-- 2°. in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba is geboren;
+   - 2°. in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba is geboren;
 
-- 3°. aldaar gedurende een onafgebroken periode van ten minste vijf jaren onmiddellijk voorafgaand aan de verklaring stabiel hoofdverblijf heeft;
+   - 3°. aldaar gedurende een onafgebroken periode van ten minste vijf jaren onmiddellijk voorafgaand aan de verklaring stabiel hoofdverblijf heeft;
 
-- 4°. sedert zijn geboorte staatloos is; en
+   - 4°. sedert zijn geboorte staatloos is; en
 
-- 5°. in redelijkheid geen andere nationaliteit kan verkrijgen.
+   - 5°. in redelijkheid geen andere nationaliteit kan verkrijgen.
 
 2. Bij het afleggen van de verklaring tot verkrijging van het Nederlanderschap verklaart de meerderjarige vreemdeling en de minderjarige vreemdeling die de leeftijd van zestien jaar heeft bereikt tevens bereid te zijn bij de verkrijging van het Nederlanderschap een verklaring van verbondenheid af te leggen. Het besluit tot bevestiging wordt niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd.
 
@@ -179,6 +195,28 @@ Nederlander wordt het kind dat in Nederland, Aruba, Curaçao of Sint Maarten bij
 8. Het minderjarige niet-Nederlandse kind van de vader, moeder of adoptiefouder als bedoeld in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), die een verklaring tot verkrijging van het Nederlanderschap aflegt, deelt in die verkrijging indien het in de verklaring tot dat doel is vermeld en het, behoudens in de gevallen waarin de verklaring wordt afgelegd op grond van het eerste lid, onder c, d of p, sedert het tijdstip van het afleggen van de verklaring toelating en hoofdverblijf heeft in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de bereidverklaring de leeftijd van zestien jaar heeft bereikt, deelt slechts in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het tweede lid bedoelde bereidverklaring, alsmede de verklaring zelf aflegt en jegens hem geen vermoedens bestaan als in het vierde lid bedoeld. Het besluit tot bevestiging wordt niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. Indien de bevestiging strekt tot herkrijging van het Nederlanderschap als bedoeld in het eerste lid, onder p, geschiedt die herkrijging met terugwerkende kracht en behoeft geen verklaring van verbondenheid te worden afgelegd.
 
 9. Aan de vreemdeling die te eniger tijd het Nederlanderschap door optie heeft verkregen, staan van de in het eerste lid genoemde mogelijkheden alleen die, bedoeld onder f en p, open.
+
+##### Artikel 6a
+
+1. De in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), bedoelde bevestiging wordt geweigerd indien de vreemdeling als bedoeld in artikel 6, eerste lid, onder e, een andere nationaliteit bezit en niet het mogelijke heeft gedaan om die nationaliteit te verliezen dan wel niet bereid is het mogelijke te zullen doen om, na de totstandkoming van de bevestiging, die nationaliteit te verliezen, tenzij dit redelijkerwijs niet kan worden verlangd.
+
+2. Het eerste lid is niet van toepassing op
+
+- a. de vreemdeling die onderdaan is van een Staat die Partij is bij het op 2 februari 1993 te Straatsburg tot stand gekomen Tweede Protocol tot wijziging van het Verdrag betreffende de beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1994, 265);
+
+- b. de vreemdeling die in Nederland, Aruba, Curaçao of Sint Maarten is geboren en daar ten tijde van de verklaring tot verkrijging van het Nederlanderschap zijn hoofdverblijf heeft;
+
+- c. de vreemdeling die gehuwd is met een Nederlander;
+
+- d. de vreemdeling die in Nederland, Aruba, Curaçao of Sint Maarten erkend is als vluchteling.
+
+3. De autoriteit, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), beoordeelt of de vreemdeling heeft voldaan aan het vereiste, genoemd in het eerste lid, of dat de vreemdeling een beroep toekomt op een van de uitzonderingen, genoemd in het tweede lid. Indien dit het geval is en ook aan de overige vereisten is voldaan, bevestigt zij schriftelijk de verkrijging van het Nederlanderschap.
+
+4. De autoriteit vraagt advies aan Onze Minister indien de vreemdeling stelt dat afstand van zijn andere nationaliteit redelijkerwijs niet kan worden verlangd. De autoriteit deelt de vreemdeling mee dat Onze Minister om advies is verzocht en binnen welke termijn op de optie zal worden besloten.
+
+5. De autoriteit besluit na de ontvangst van het advies van Onze Minister schriftelijk op de verkrijging van het Nederlanderschap.
+
+6. De beslistermijn als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), wordt met vier weken verlengd, indien de autoriteit Onze Minister verzoekt om advies, bedoeld in het vierde lid.
 
 ### Hoofdstuk 4. Verlening van het Nederlanderschap
 
@@ -206,7 +244,7 @@ Nederlander wordt het kind dat in Nederland, Aruba, Curaçao of Sint Maarten bij
 
 3. De termijn bedoeld in het eerste lid, onder c, wordt op twee jaren gesteld voor degene die in totaal ten minste tien jaren in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba toelating en hoofdverblijf heeft gehad.
 
-4. De termijn bedoeld in het eerste lid, onder c, wordt op drie jaren gesteld voor de verzoeker die hetzij ongehuwd tenminste drie jaren onafgebroken met een ongehuwde Nederlander in een duurzame relatie anders dan het huwelijk samenleeft, hetzij staatloos is, tenzij het Nederlanderschap eerder is ingetrokken op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=14&z=2023-10-01&g=2023-10-01).
+4. De termijn bedoeld in het eerste lid, onder c, wordt op drie jaren gesteld voor de verzoeker die hetzij ongehuwd tenminste drie jaren onafgebroken met een ongehuwde Nederlander in een duurzame relatie anders dan het huwelijk samenleeft, hetzij staatloos is, tenzij het Nederlanderschap eerder is ingetrokken op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=14&z=2023-10-01&g=2023-10-01).
 
 5. De termijn bedoeld in het eerste lid, onder c, wordt eveneens op drie jaren gesteld voor de verzoeker die door erkenning of wettiging zonder erkenning het kind van een Nederlander is geworden. Voor de verzoeker die tijdens zijn minderjarigheid is erkend of gewettigd wordt de termijn van drie jaren verminderd met de onafgebroken periode gedurende welke hij onmiddellijk voorafgaande aan zijn meerderjarigheid na de erkenning of wettiging zonder erkenning, verzorging en opvoeding heeft genoten van de Nederlander door wie hij is erkend of wiens kind hij door wettiging zonder erkenning is geworden.
 
@@ -284,17 +322,17 @@ Het besluit tot verlening wordt niet bekend gemaakt dan nadat de verklaring van 
 
 ##### Artikel 14
 
-1. Onze Minister kan de verkrijging of verlening van het Nederlanderschap intrekken, indien zij berust op een door de betrokken persoon gegeven valse verklaring of bedrog, dan wel op het verzwijgen van enig voor de verkrijging of verlening relevant feit. De intrekking werkt terug tot het tijdstip van verkrijging of verlening van het Nederlanderschap. De intrekking is niet mogelijk indien sedert de verkrijging of verlening een periode van twaalf jaar is verstreken. De derde volzin is niet van toepassing indien de betrokken persoon is veroordeeld voor een van de misdrijven, omschreven in de artikelen 6, 7, 8 en 8 bis van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120 en Trb. 2011, 73).
+1. Onze Minister kan de verkrijging of verlening van het Nederlanderschap intrekken, indien zij berust op een door de betrokken persoon gegeven valse verklaring of bedrog, dan wel op het verzwijgen van enig voor de verkrijging of verlening relevant feit. De intrekking werkt terug tot het tijdstip van verkrijging of verlening van het Nederlanderschap. De intrekking is niet mogelijk indien sedert de verkrijging of verlening een periode van twaalf jaar is verstreken. De derde volzin is niet van toepassing indien de betrokken persoon is veroordeeld voor een van de misdrijven, omschreven in de artikelen 6, 7, 8 en 8 bis van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120 en Trb. 2011, 73).
 
 2. Onze Minister kan het Nederlanderschap intrekken van de persoon die onherroepelijk is veroordeeld wegens:
 
 - a. een misdrijf omschreven in de [titels I tot en met IV van het Tweede Boek van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=I), waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld;
 
-- b. een misdrijf als bedoeld in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a) of [205 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205);
+- b. een misdrijf als bedoeld in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a) of [205 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205);
 
 - c. een misdrijf dat soortgelijk is aan de misdrijven bedoeld onder a waarop naar de wettelijke omschrijving in de strafwet van een van de landen van het Koninkrijk een gevangenisstraf van acht jaar of meer is gesteld, danwel een misdrijf dat naar de wettelijke omschrijving in de strafwet van een van de landen van het Koninkrijk soortgelijk is aan de misdrijven bedoeld onder b;
 
-- d. een misdrijf omschreven in de artikelen 6, 7, 8 en 8 bis van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120 en Trb. 2011, 73).
+- d. een misdrijf omschreven in de artikelen 6, 7, 8 en 8 bis van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120 en Trb. 2011, 73).
 
 3. Onze Minister kan het Nederlanderschap intrekken van de persoon die de leeftijd van zestien jaar heeft bereikt en die zich vrijwillig in vreemde krijgsdienst begeeft van een staat die betrokken is bij gevechtshandelingen tegen het Koninkrijk dan wel tegen een bondgenootschap waarvan het Koninkrijk lid is.
 
@@ -302,7 +340,7 @@ Het besluit tot verlening wordt niet bekend gemaakt dan nadat de verklaring van 
 
 5. De persoon die de Nederlandse nationaliteit heeft verloren op grond van het tweede, derde of vierde lid kan de Nederlandse nationaliteit niet herkrijgen. Wij kunnen, de Raad van State van het Koninkrijk gehoord, in bijzondere gevallen van de eerste zin afwijken, indien ten minste vijf jaren zijn verstreken sedert het verlies van de Nederlandse nationaliteit.
 
-6. Het Nederlanderschap wordt door een minderjarige verloren door het vervallen van de familierechtelijke betrekking waaraan het wordt ontleend ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=4&z=2023-10-01&g=2023-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5&z=2023-10-01&g=2023-10-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5a&z=2023-10-01&g=2023-10-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5b&z=2023-10-01&g=2023-10-01), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5c&z=2023-10-01&g=2023-10-01), of [6, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), alsmede ingevolge artikel 4 zoals dit luidde tot de inwerkingtreding van de [Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) van 21 december 2000, Stb. 618 en ingevolge artikel 5 zoals dat luidde tot de inwerkingtreding van de Rijkswet van 3 juli 2003 tot wijziging van de Rijkswet op het Nederlanderschap in verband met de totstandkoming van de Wet conflictenrecht adoptie (Stb. 284). Het verlies bedoeld in de eerste zin treedt niet in indien de andere ouder op het tijdstip van het vervallen van die betrekking Nederlander is of dat was ten tijde van zijn overlijden. Het verlies treedt evenmin in indien het Nederlanderschap ook kan worden ontleend aan artikel 3, derde lid, of aan artikel 2, onder a, van de Wet van 12 december 1892 op het Nederlanderschap en het ingezetenschap (Stb. 268).
+6. Het Nederlanderschap wordt door een minderjarige verloren door het vervallen van de familierechtelijke betrekking waaraan het wordt ontleend ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=4&z=2023-10-01&g=2023-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5&z=2023-10-01&g=2023-10-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5a&z=2023-10-01&g=2023-10-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5b&z=2023-10-01&g=2023-10-01), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=5c&z=2023-10-01&g=2023-10-01), of [6, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), alsmede ingevolge artikel 4 zoals dit luidde tot de inwerkingtreding van de [Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) van 21 december 2000, Stb. 618 en ingevolge artikel 5 zoals dat luidde tot de inwerkingtreding van de Rijkswet van 3 juli 2003 tot wijziging van de Rijkswet op het Nederlanderschap in verband met de totstandkoming van de Wet conflictenrecht adoptie (Stb. 284). Het verlies bedoeld in de eerste zin treedt niet in indien de andere ouder op het tijdstip van het vervallen van die betrekking Nederlander is of dat was ten tijde van zijn overlijden. Het verlies treedt evenmin in indien het Nederlanderschap ook kan worden ontleend aan artikel 3, derde lid, of aan artikel 2, onder a, van de Wet van 12 december 1892 op het Nederlanderschap en het ingezetenschap (Stb. 268).
 
 7. Het Nederlanderschap wordt niet verloren dan krachtens een van de bepalingen van dit hoofdstuk.
 
@@ -338,6 +376,14 @@ Het besluit tot verlening wordt niet bekend gemaakt dan nadat de verklaring van 
 
 4. De periode, bedoeld in het eerste lid, onder c, wordt gestuit door de verstrekking van een verklaring omtrent het bezit van het Nederlanderschap dan wel van een reisdocument, Nederlandse identiteitskaart of vervangende Nederlandse identiteitskaart in de zin van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212). Vanaf de dag der verstrekking begint een nieuwe periode van dertien jaren te lopen. Indien het Nederlanderschap is herkregen op grond van [artikel 6, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), begint de periode te lopen op de dag dat de optie is bevestigd.
 
+##### Artikel 15A
+
+Voorts gaat het Nederlanderschap voor een meerderjarige verloren:
+
+- a. indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1964, nr. 4) en dit Verdrag dat verlies meebrengt. Het voorgaande is echter niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (Trb. 1994, nr. 265) en de betrokkene behoort tot een van de categorieën, genoemd in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=15&z=2023-10-01&g=2023-10-01);
+
+- b. indien hij ingevolge de op 25 november 1975 te Paramaribo gesloten Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname (Trb. 1975, nr. 132) de Surinaamse nationaliteit verkrijgt.
+
 ##### Artikel 16
 
 1. Het Nederlanderschap gaat voor een minderjarige verloren:
@@ -372,7 +418,11 @@ Voor de toepassing van de onderdelen c, d en e wordt onder vader of moeder mede 
 
 Voor de toepassing van de onderdelen a, b, c en g wordt onder een ouder mede verstaan de adoptiefouder als bedoeld in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), en de persoon die mede het gezamenlijk gezag over de minderjarige uitoefent en aan wie hij het Nederlanderschap ontleent.
 
-### Hoofdstuk 5. Verlies van het Nederlanderschap
+##### Artikel 16A
+
+Voorts gaat het Nederlanderschap voor een minderjarige verloren indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1964, nr. 4) en dit Verdrag dat verlies meebrengt. Het voorgaande is niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (Trb. 1994, nr. 265), en de betrokkene behoort tot een van de categorieën, genoemd in [artikel 16, tweede lid, onder e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=16&z=2023-10-01&g=2023-10-01).
+
+### Hoofdstuk 6. Vaststelling van het Nederlanderschap
 
 ##### Artikel 17
 
@@ -382,7 +432,7 @@ Voor de toepassing van de onderdelen a, b, c en g wordt onder een ouder mede ver
 
 ##### Artikel 18
 
-1. Onze Minister is belanghebbend inzake verzoeken als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6&artikel=17&z=2023-10-01&g=2023-10-01). De rechtbank te ‘s-Gravenhage hoort de Staat, en het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba hoort het openbaar ministerie.
+1. Onze Minister is belanghebbend inzake verzoeken als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6&artikel=17&z=2023-10-01&g=2023-10-01). De rechtbank te ‘s-Gravenhage hoort de Staat, en het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba hoort het openbaar ministerie.
 
 2. In afwijking van [artikel 79 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=79) van het Europese deel van Nederland kan Onze Minister zonder advocaat in rechte optreden.
 
@@ -400,7 +450,7 @@ Aan een onherroepelijk geworden beschikking, gegeven met toepassing van [artikel
 
 3. De behandeling van de zaak wordt terstond hervat zodra het in de vorige leden bedoelde advies is ontvangen.
 
-### Hoofdstuk 6. Vaststelling van het Nederlanderschap
+### Hoofdstuk 7. Verklaringen en registers
 
 ##### Artikel 21
 
@@ -420,169 +470,7 @@ Bij algemene maatregel van rijksbestuur worden de autoriteiten en ambtenaren aan
 
 2. Onze Ministers van Justitie van Aruba, van Curaçao en van Sint Maarten houden een openbaar register van de in het eerste lid bedoelde akten welke betrekking hebben op personen die in hun land woonachtig zijn.
 
-### Hoofdstuk 8. Slotbepalingen
-
-##### Artikel 23
-
-1. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regelen worden gesteld ter uitvoering van deze Rijkswet.
-
-2. De verklaring van verbondenheid, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), [artikel 8, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=8&z=2023-10-01&g=2023-10-01) en [artikel 11, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), wordt afgelegd met de volgende woorden: Ik zweer (verklaar) dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer (beloof) de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen. Degene die de verklaring aflegt voegt daar ter bevestiging aan toe: Zo waarlijk helpe mij God almachtig, of: Dat verklaar en beloof ik.
-
-3. De gevallen waarin het afleggen van de verklaring, in afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), [6 achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), [8, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=8&z=2023-10-01&g=2023-10-01), [11, derde, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), [11 vijfde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=9&artikel=26&z=2023-10-01&g=2023-10-01) en [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=9&artikel=28&z=2023-10-01&g=2023-10-01), niet gevraagd zal worden of redelijkerwijs niet gevraagd kan worden en de wijze waarop deze verklaring kan worden afgelegd, worden bij of krachtens algemene maatregel van bestuur vastgesteld.
-
-##### Artikel 24
-
-1. Deze Rijkswet kan worden aangehaald als "Rijkswet op het Nederlanderschap". Zij treedt in werking op een door Ons te bepalen tijdstip. Wij kunnen een ander tijdstip vaststellen waarop [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6&z=2023-10-01&g=2023-10-01) in werking treedt.
-
-2. De wet van 12 december 1892, **Stb.** 268, op het Nederlanderschap en het ingezetenschap, wordt ingetrokken.
-
-### Hoofdstuk 7. Verklaringen en registers
-
-##### Artikel 25
-
-Nederlanders in de zin van deze Rijkswet zijn mede zij, die bij haar inwerkingtreding het Nederlanderschap bezitten.
-
-##### Artikel 26
-
-1. Het vereiste van toelating en hoofdverblijf, bedoeld in [artikel 6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), is niet van toepassing op de vreemdeling die nadat hij meerderjarig is geworden het Nederlanderschap heeft verloren als gevolg van verkrijging van een andere nationaliteit op grond van artikel 5 (oud) zoals dit luidde tot 1 maart 1964, en [artikel 7, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=7&z=2023-10-01&g=2023-10-01) en ten eerste of ten derde, van de Wet van 12 december 1892, Stb 268, op het Nederlanderschap en het ingezetenschap, dan wel dit heeft verloren op grond van [artikel 15, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=15&z=2023-10-01&g=2023-10-01), indien de persoon:
-
-- a. in het land van die andere nationaliteit is geboren en daar ten tijde van de verkrijging zijn hoofdverblijf heeft gehad;
-
-- b. voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroken periode van tenminste vijf jaren in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad; of
-
-- c. ten tijde van de verkrijging van die andere nationaliteit gehuwd was met een persoon van die andere nationaliteit.
-
-2. Het eerste lid is niet van toepassing op de vreemdeling die na de inwerkingtreding van deze bepaling gedurende een periode van tenminste tien jaren onderdaan is van de Staat van de andere nationaliteit.
-
-3. Het minderjarige niet-Nederlandse kind van de vader of moeder, die de vreemdeling is, bedoeld in het eerste lid, deelt in diens verkrijging van het Nederlanderschap, indien hij in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar heeft bereikt, deelt in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01) bedoelde bereidverklaring daadwerkelijk aflegt en jegens hem geen vermoedens bestaan als bedoeld in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01). Het besluit tot bevestiging wordt niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. [Artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing.
-
-##### Artikel 27
-
-1. [Artikel 3 van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01) is alleen van toepassing op kinderen geboren na de inwerkingtreding van deze Rijkswet.
-
-2. [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01), als gewijzigd bij [Rijkswet van 21 december 2000 tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) (Stb. 618), is alleen van toepassing op kinderen geboren na de inwerkingtreding van die Rijkswet.
-
-##### Artikel 28
-
-1. De vrouw die het Nederlanderschap heeft verloren door of in verband met haar vóór de inwerkingtreding van deze Rijkswet gesloten huwelijk, verkrijgt het Nederlanderschap door het afleggen van een daartoe strekkende schriftelijke en door een bevestiging gevolgde verklaring, welke moet worden afgelegd binnen een jaar na de ontbinding van dat huwelijk of binnen een jaar nadat zij van die ontbinding heeft kunnen kennis nemen. Deze verkrijging werkt terug tot de datum van ontbinding van het huwelijk.
-
-2. [Artikel 6, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing.
-
-3. Het minderjarige niet-Nederlandse kind van de in het eerste lid genoemde persoon die moeder of adoptiefouder als bedoeld in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), van dit kind is deelt in die verkrijging, indien het in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar heeft bereikt, deelt in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01) bedoelde bereidverklaring aflegt en jegens hem geen vermoedens bestaan als bedoeld in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01). Het besluit tot bevestiging wordt met betrekking tot hem niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd.
-
-Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15A
-
-Voorts gaat het Nederlanderschap voor een meerderjarige verloren:
-
-- a. indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1964, nr. 4) en dit Verdrag dat verlies meebrengt. Het voorgaande is echter niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (Trb. 1994, nr. 265) en de betrokkene behoort tot een van de categorieën, genoemd in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=15&z=2023-10-01&g=2023-10-01);
-
-- b. indien hij ingevolge de op 25 november 1975 te Paramaribo gesloten Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname (Trb. 1975, nr. 132) de Surinaamse nationaliteit verkrijgt.
-
-##### Artikel 16A
-
-Voorts gaat het Nederlanderschap voor een minderjarige verloren indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1964, nr. 4) en dit Verdrag dat verlies meebrengt. Het voorgaande is niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (Trb. 1994, nr. 265), en de betrokkene behoort tot een van de categorieën, genoemd in [artikel 16, tweede lid, onder e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=16&z=2023-10-01&g=2023-10-01).
-
-### Hoofdstuk 6. Vaststelling van het Nederlanderschap
-
-### Hoofdstuk 7. Verklaringen en registers
-
-### Hoofdstuk 7. Verklaringen en registers
-
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. Nederlander wordt ook het kind dat in het buitenland bij uitspraak van een ter plaatse bevoegde autoriteit wordt geadopteerd in overeenstemming met het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
-
-- a. de adoptie is in overeenstemming met het voornoemde verdrag tot stand gekomen, en
-
-- b. die adoptie heeft tot gevolg dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, en
-
-- c. ten minste één der adoptiefouders is Nederlander op de dag dat de uitspraak kracht van gewijsde heeft gekregen, en
-
-- d. het kind was op de dag van de uitspraak in eerste aanleg minderjarig.
-
-2. Nederlander wordt voorts het kind dat in het buitenland in overeenstemming met het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie is geadopteerd bij een adoptie die niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, welke adoptie in Nederland, Aruba, Curaçao of Sint Maarten bij rechterlijke uitspraak in overeenstemming met artikel 27 van voornoemd verdrag wordt omgezet in een adoptie naar het recht van Nederland, Aruba, Curaçao of Sint Maarten, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
-
-- a. de adoptie is in overeenstemming met het voornoemde verdrag tot stand gekomen; en
-
-- b. ten minste één der adoptiefouders is Nederlander op de dag nadat drie maanden, te rekenen van de dag van de uitspraak houdende omzetting in eerste aanleg of in hoger beroep, zijn verstreken zonder dat daartegen hoger beroep of beroep in cassatie is ingesteld, dan wel, indien beroep in cassatie is ingesteld, op de dag van de uitspraak in cassatie, en
-
-- c. het kind was op de dag van de uitspraak houdende omzetting in eerste aanleg minderjarig.
-
-##### Artikel 5b
-
-1. Nederlander wordt ook het kind dat in het buitenland bij uitspraak van een ter plaatse bevoegde autoriteit wordt geadopteerd, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
-
-- a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=108) of [artikel 109 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=109), en
-
-- b. de adoptie heeft tot gevolg dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, en
-
-- c. ten minste een der adoptiefouders is Nederlander op de dag dat de uitspraak kracht van gewijsde heeft gekregen, en
-
-- d. het kind was op de dag van de uitspraak in eerste aanleg minderjarig.
-
-2. Nederlander wordt voorts het kind dat in het buitenland is geadopteerd bij een adoptie die niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, welke adoptie in Nederland bij rechterlijke uitspraak in overeenstemming met [artikel 111 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=111) wordt omgezet in een adoptie naar Nederlands recht, indien en op het tijdstip waarop aan de volgende voorwaarden is voldaan:
-
-- a. de adoptie voldoet aan de voorwaarden voor erkenning in Nederland van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=108) of [artikel 109 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=109), en
-
-- b. ten minste een der adoptiefouders is Nederlander op de dag nadat drie maanden te rekenen van de dag van de uitspraak houdende omzetting in eerste aanleg of in hoger beroep zijn verstreken zonder dat daartegen hoger beroep of beroep in cassatie is ingesteld, dan wel, indien beroep in cassatie is ingesteld, op de dag van de uitspraak in cassatie; en
-
-- c. het kind was op de dag van de uitspraak houdende omzetting in eerste aanleg minderjarig.
-
-##### Artikel 5c
-
-Het kind van degene die door adoptie het Nederlanderschap verkrijgt deelt in die verkrijging.
-
-### Hoofdstuk 3. Verkrijging van het Nederlanderschap door optie
-
-### Hoofdstuk 4. Verlening van het Nederlanderschap
-
-### Hoofdstuk 5. Verlies van het Nederlanderschap
-
-### Hoofdstuk 9. Overgangsbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-1. De in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), bedoelde bevestiging wordt geweigerd indien de vreemdeling als bedoeld in artikel 6, eerste lid, onder e, een andere nationaliteit bezit en niet het mogelijke heeft gedaan om die nationaliteit te verliezen dan wel niet bereid is het mogelijke te zullen doen om, na de totstandkoming van de bevestiging, die nationaliteit te verliezen, tenzij dit redelijkerwijs niet kan worden verlangd.
-
-2. Het eerste lid is niet van toepassing op
-
-- a. de vreemdeling die onderdaan is van een Staat die Partij is bij het op 2 februari 1993 te Straatsburg tot stand gekomen Tweede Protocol tot wijziging van het Verdrag betreffende de beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1994, 265);
-
-- b. de vreemdeling die in Nederland, Aruba, Curaçao of Sint Maarten is geboren en daar ten tijde van de verklaring tot verkrijging van het Nederlanderschap zijn hoofdverblijf heeft;
-
-- c. de vreemdeling die gehuwd is met een Nederlander;
-
-- d. de vreemdeling die in Nederland, Aruba, Curaçao of Sint Maarten erkend is als vluchteling.
-
-3. De autoriteit, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), beoordeelt of de vreemdeling heeft voldaan aan het vereiste, genoemd in het eerste lid, of dat de vreemdeling een beroep toekomt op een van de uitzonderingen, genoemd in het tweede lid. Indien dit het geval is en ook aan de overige vereisten is voldaan, bevestigt zij schriftelijk de verkrijging van het Nederlanderschap.
-
-4. De autoriteit vraagt advies aan Onze Minister indien de vreemdeling stelt dat afstand van zijn andere nationaliteit redelijkerwijs niet kan worden verlangd. De autoriteit deelt de vreemdeling mee dat Onze Minister om advies is verzocht en binnen welke termijn op de optie zal worden besloten.
-
-5. De autoriteit besluit na de ontvangst van het advies van Onze Minister schriftelijk op de verkrijging van het Nederlanderschap.
-
-6. De beslistermijn als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), wordt met vier weken verlengd, indien de autoriteit Onze Minister verzoekt om advies, bedoeld in het vierde lid.
-
-### Hoofdstuk 4. Verlening van het Nederlanderschap
-
-### Hoofdstuk 6. Vaststelling van het Nederlanderschap
-
 ### Hoofdstuk 7a. Rechtsbescherming
-
-### Hoofdstuk 9. Overgangsbepalingen
-
-##### Artikel 29
-
-Voor de toepassing van de Rijkswet op het Nederlanderschap en de daarop rustende bepalingen worden de tijdvakken van hoofdverblijf die voor de inwerkingtreding van de [Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen](onbekend) zijn doorgebracht in de Nederlandse Antillen in aanmerking genomen als waren zij doorgebracht in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Saba en Sint Eustatius.
-
-Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 22a
 
@@ -620,10 +508,6 @@ Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van
 
 ### Hoofdstuk 7b. Persoonsgegevens
 
-### Hoofdstuk 9. Overgangsbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 22d
 
 1. Onze Minister kan gegevens waaruit politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen blijken en gegevens over gezondheid als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) verwerken, voor zover dat noodzakelijk is ten behoeve van het nemen van een beslissing als bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=14&z=2023-10-01&g=2023-10-01), van deze rijkswet.
@@ -632,6 +516,54 @@ Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van
 
 ### Hoofdstuk 8. Slotbepalingen
 
+##### Artikel 23
+
+1. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regelen worden gesteld ter uitvoering van deze Rijkswet.
+
+2. De verklaring van verbondenheid, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), [artikel 8, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=8&z=2023-10-01&g=2023-10-01) en [artikel 11, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), wordt afgelegd met de volgende woorden: Ik zweer (verklaar) dat ik de grondwettelijke orde van het Koninkrijk der Nederlanden, haar vrijheden en rechten respecteer en zweer (beloof) de plichten die het staatsburgerschap met zich meebrengt getrouw te vervullen. Degene die de verklaring aflegt voegt daar ter bevestiging aan toe: Zo waarlijk helpe mij God almachtig, of: Dat verklaar en beloof ik.
+
+3. De gevallen waarin het afleggen van de verklaring, in afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), [6 achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), [8, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=8&z=2023-10-01&g=2023-10-01), [11, derde, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), [11 vijfde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=9&artikel=26&z=2023-10-01&g=2023-10-01) en [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=9&artikel=28&z=2023-10-01&g=2023-10-01), niet gevraagd zal worden of redelijkerwijs niet gevraagd kan worden en de wijze waarop deze verklaring kan worden afgelegd, worden bij of krachtens algemene maatregel van bestuur vastgesteld.
+
+##### Artikel 24
+
+1. Deze Rijkswet kan worden aangehaald als "Rijkswet op het Nederlanderschap". Zij treedt in werking op een door Ons te bepalen tijdstip. Wij kunnen een ander tijdstip vaststellen waarop [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=6&z=2023-10-01&g=2023-10-01) in werking treedt.
+
+2. De wet van 12 december 1892, *Stb.* 268, op het Nederlanderschap en het ingezetenschap, wordt ingetrokken.
+
 ### Hoofdstuk 9. Overgangsbepalingen
 
-Lasten en bevelen, dat deze in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 25
+
+Nederlanders in de zin van deze Rijkswet zijn mede zij, die bij haar inwerkingtreding het Nederlanderschap bezitten.
+
+##### Artikel 26
+
+1. Het vereiste van toelating en hoofdverblijf, bedoeld in [artikel 6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), is niet van toepassing op de vreemdeling die nadat hij meerderjarig is geworden het Nederlanderschap heeft verloren als gevolg van verkrijging van een andere nationaliteit op grond van artikel 5 (oud) zoals dit luidde tot 1 maart 1964, en [artikel 7, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=7&z=2023-10-01&g=2023-10-01) en ten eerste of ten derde, van de Wet van 12 december 1892, Stb 268, op het Nederlanderschap en het ingezetenschap, dan wel dit heeft verloren op grond van [artikel 15, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=5&artikel=15&z=2023-10-01&g=2023-10-01), indien de persoon:
+
+- a. in het land van die andere nationaliteit is geboren en daar ten tijde van de verkrijging zijn hoofdverblijf heeft gehad;
+
+- b. voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroken periode van tenminste vijf jaren in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad; of
+
+- c. ten tijde van de verkrijging van die andere nationaliteit gehuwd was met een persoon van die andere nationaliteit.
+
+2. Het eerste lid is niet van toepassing op de vreemdeling die na de inwerkingtreding van deze bepaling gedurende een periode van tenminste tien jaren onderdaan is van de Staat van de andere nationaliteit.
+
+3. Het minderjarige niet-Nederlandse kind van de vader of moeder, die de vreemdeling is, bedoeld in het eerste lid, deelt in diens verkrijging van het Nederlanderschap, indien hij in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar heeft bereikt, deelt in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01) bedoelde bereidverklaring daadwerkelijk aflegt en jegens hem geen vermoedens bestaan als bedoeld in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01). Het besluit tot bevestiging wordt niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd. [Artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing.
+
+##### Artikel 27
+
+1. [Artikel 3 van deze Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01) is alleen van toepassing op kinderen geboren na de inwerkingtreding van deze Rijkswet.
+
+2. [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=2&artikel=3&z=2023-10-01&g=2023-10-01), als gewijzigd bij [Rijkswet van 21 december 2000 tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) (Stb. 618), is alleen van toepassing op kinderen geboren na de inwerkingtreding van die Rijkswet.
+
+##### Artikel 28
+
+1. De vrouw die het Nederlanderschap heeft verloren door of in verband met haar vóór de inwerkingtreding van deze Rijkswet gesloten huwelijk, verkrijgt het Nederlanderschap door het afleggen van een daartoe strekkende schriftelijke en door een bevestiging gevolgde verklaring, welke moet worden afgelegd binnen een jaar na de ontbinding van dat huwelijk of binnen een jaar nadat zij van die ontbinding heeft kunnen kennis nemen. Deze verkrijging werkt terug tot de datum van ontbinding van het huwelijk.
+
+2. [Artikel 6, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing.
+
+3. Het minderjarige niet-Nederlandse kind van de in het eerste lid genoemde persoon die moeder of adoptiefouder als bedoeld in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=4&artikel=11&z=2023-10-01&g=2023-10-01), van dit kind is deelt in die verkrijging, indien het in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van zestien jaar heeft bereikt, deelt in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01) bedoelde bereidverklaring aflegt en jegens hem geen vermoedens bestaan als bedoeld in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&hoofdstuk=3&artikel=6&z=2023-10-01&g=2023-10-01). Het besluit tot bevestiging wordt met betrekking tot hem niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd.
+
+##### Artikel 29
+
+Voor de toepassing van de Rijkswet op het Nederlanderschap en de daarop rustende bepalingen worden de tijdvakken van hoofdverblijf die voor de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen zijn doorgebracht in de Nederlandse Antillen in aanmerking genomen als waren zij doorgebracht in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Saba en Sint Eustatius.

@@ -1,44 +1,17 @@
 ---
 title: "Beschikking aanwijzing overheidsinstanties"
 identifier: "BWBR0003836"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1985-09-16"
-last_updated: "1985-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003836"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3847103"
-version_id: "5622002"
-internal_id: "C5815491"
-label_id: "3827074"
-dtd_version: "2.0"
-original_entry_into_force: "1985-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003836/1985-09-16/0"
-intitule_bron: "Stcrt.1985-178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-08-22"
-intitule_published: "1985-09-13"
-intitule_in_force: "1985-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-178"
-original_signed_date: "1985-08-22"
-original_published_date: "1985-09-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-09-16"
-jci_1_3: "jci1.3:c:BWBR0003836&z=1985-09-16&g=1985-09-16"
-jci_1_0: "1.0:c:BWBR0003836&g=1985-09-16"
-citeertitel_status: "officieel"
-signed_date: "1985-08-22"
-entry_into_force: "1985-09-16"
+publicatiedatum: 1985-09-16
+laatste_update: 1985-09-16
+status: geldig
+toestand: 1985-09-16
+bron: "https://wetten.overheid.nl/BWBR0003836"
+opgehaald: 2026-07-30
 ---
+
 # Beschikking aanwijzing overheidsinstanties
-
-Gelet op artikel 3ter, dertiende lid onder c, van de Telegraaf- en Telefoonwet 1904 (Stb. nr. 7);
-
-Gezien het advies van de directeur-generaal der Posterijen, Telegrafie en Telefonie van 8 juli 1985, nr. 850704/1350 RCD WJZ;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,44 +1,17 @@
 ---
 title: "Verplichting voor uitkeringsgerechtigden inkomsten/vermogen op te geven"
 identifier: "BWBR0003470"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1981-02-24"
-last_updated: "1981-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003470"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3899263"
-version_id: "5663972"
-internal_id: "C5857131"
-label_id: "3879214"
-dtd_version: "2.0"
-original_entry_into_force: "1981-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003470/1981-02-24/0"
-intitule_bron: "Stcrt.1981-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-12-23"
-intitule_published: "1981-02-23"
-intitule_in_force: "1981-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1981-36"
-original_signed_date: "1981-12-23"
-original_published_date: "1981-02-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1981-02-24"
-jci_1_3: "jci1.3:c:BWBR0003470&z=1981-02-24&g=1981-02-24"
-jci_1_0: "1.0:c:BWBR0003470&g=1981-02-24"
-citeertitel_status: "officieel"
-signed_date: "1981-12-23"
-entry_into_force: "1981-02-24"
+publicatiedatum: 1981-02-24
+laatste_update: 1981-02-24
+status: geldig
+toestand: 1981-02-24
+bron: "https://wetten.overheid.nl/BWBR0003470"
+opgehaald: 2026-07-30
 ---
+
 # Verplichting voor uitkeringsgerechtigden inkomsten/vermogen op te geven
-
-Gelet op de artikelen [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=40) en[55 van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=55);
-
-Gezien de adviezen van de Uitkeringsraad, de Stichting Joods Maatschappelijk Werk, de Stichting Pelita en de Stichting 1940–1945,
-
-Besluit:
 
 ##### Artikel I
 

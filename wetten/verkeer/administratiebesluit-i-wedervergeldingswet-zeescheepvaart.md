@@ -1,48 +1,29 @@
 ---
 title: "Administratiebesluit I Wedervergeldingswet zeescheepvaart"
 identifier: "BWBR0003371"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1981-02-27"
-last_updated: "1981-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003371"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "3888223"
-version_id: "5651792"
-internal_id: "C5844791"
-label_id: "3868144"
-dtd_version: "2.0"
-original_entry_into_force: "1981-02-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003371/1981-02-27/0"
-intitule_bron: "Stcrt.1981-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-01-28"
-intitule_published: "1981-02-06"
-intitule_in_force: "1981-02-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1981-25"
-original_signed_date: "1981-01-28"
-original_published_date: "1981-02-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1981-02-27"
-jci_1_3: "jci1.3:c:BWBR0003371&z=1981-02-27&g=1981-02-27"
-jci_1_0: "1.0:c:BWBR0003371&g=1981-02-27"
-citeertitel_status: "officieel"
-signed_date: "1981-01-28"
-entry_into_force: "1981-02-27"
+publicatiedatum: 1981-02-27
+laatste_update: 1981-02-27
+status: geldig
+toestand: 1981-02-27
+bron: "https://wetten.overheid.nl/BWBR0003371"
+opgehaald: 2026-07-30
 ---
+
 # Administratiebesluit I Wedervergeldingswet zeescheepvaart
-
-Gelet op de Beschikkingen van de Raad van de Europese Gemeenschappen van 19 december 1978, nr. 79/4/EEG (Pb.E.G. 9 januari 1979, nr. L 5/31) en van 4 december 1980 (Pb.E.G. 23 december 1980, nr. L 350);
-
-Gelet op de [artikelen 11b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11b), en [11d van de Wedervergeldingswet zeescheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0003104&artikel=11d), zoals gewijzigd bij de wet van 12 juni 1980 (Stb. 1980, 364),
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van het bij dit besluit bepaalde wordt verstaan onder:
+
+‘lijnvervoer’:
+
+het vervoer tegen vaste vervoertarieven door scheepvaartondernemingen, die een geregelde dienst onderhouden tussen twee of meer havens;
+
+‘conference’:
+
+een groep van twee of meer vervoerders, die schepen exploiteren, die internationale lijndiensten onderhoudt voor het vervoer van lading op een bepaalde route of bepaalde routes binnen omschreven geografische grenzen en die een overeenkomst of regeling, van welke aard ook heeft, binnen het kader waarvan zij opereren op basis van eenvormige of gemeenschappelijke vervoertarieven, en enigerlei andere overeengekomen voorwaarden met betrekking tot het aanbieden van lijndiensten.
 
 ##### Artikel 2
 

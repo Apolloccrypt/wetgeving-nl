@@ -1,43 +1,18 @@
 ---
 title: "Wet van 11 juni 1986, houdende regels inzake de opheffing van de organisatie bescherming bevolking en het treffen van enige daarmee verband houdende voorzieningen"
+citeertitel: "Intrekkingswet BB"
 identifier: "BWBR0003986"
-country: "nl"
-rank: "wet"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003986"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1465533"
-version_id: "2193512"
-internal_id: "C2193511"
-label_id: "1424364"
-dtd_version: "2.0"
-original_entry_into_force: "1986-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003986/1996-01-01/0"
-intitule_bron: "Stb.1986-312"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-06-11"
-intitule_status: "goed"
-original_publication: "Stb.1986-312"
-original_signed_date: "1986-06-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "19394"
-entry_into_force_date: "1986-07-01"
-jci_1_3: "jci1.3:c:BWBR0003986&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0003986&g=1996-01-01"
-citeertitel_status: "officieel"
-short_title: "Intrekkingswet BB"
-signed_date: "1986-06-11"
-entry_into_force: "1986-07-01"
+publicatiedatum: 1986-07-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0003986"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 11 juni 1986, houdende regels inzake de opheffing van de organisatie bescherming bevolking en het treffen van enige daarmee verband houdende voorzieningen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de organisatie bescherming bevolking op te heffen en met het oog daarop de [Wet bescherming bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002096) (**Stb.** 1952, 404) en enige andere wetten of onderdelen daarvan in te trekken alsmede enige daarmee verband houdende voorzieningen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Begripsbepaling
 
@@ -49,11 +24,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. liquidatie: het geheel van publiekrechtelijke en privaatrechtelijke rechtshandelingen en overige handelingen, dat is gericht op de opheffing van de organisatie bescherming bevolking en op de vereffening van het vermogen van die organisatie, daaronder begrepen de vaststelling van de voorlopige liquidatierekening en de vereffening van het liquidatiesaldo;
 
-- c. kringraad: de kringraad, bedoeld in [artikel 14, tweede lid, onder **b.** van de Wet bescherming bevolking](onbekend) (**Stb.** 1952, 404);
+- c. kringraad: de kringraad, bedoeld in artikel 14, tweede lid, onder *b.* van de Wet bescherming bevolking (*Stb.* 1952, 404);
 
 - d. bevoegd gezag van de noodwacht: het gezag van de gemeentelijke, kring-, provinciale en rijksnoodwacht (burgemeester, respectievelijk kringraad, Commissaris van de Koningin, Minister van Binnenlandse Zaken);
 
-- e. noodwachter: degene, die is benoemd dan wel in dienst genomen op grond van artikel 9 van de Wet op de noodwachten (**Stb.** 1971, 61);
+- e. noodwachter: degene, die is benoemd dan wel in dienst genomen op grond van artikel 9 van de Wet op de noodwachten (*Stb.* 1971, 61);
 
 - f. onroerende zaken: de grond, alsmede de gebouwen en werken die duurzaam met de grond zijn verenigd, in eigendom van de kringen bescherming bevolking, de commandoposten daaronder niet begrepen.
 
@@ -63,17 +38,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De navolgende wetten of onderdelen daarvan worden ingetrokken:
 
-- a. de [Wet bescherming bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002096) (**Stb.** 1952, 404) behoudens de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=7&z=1996-01-01&g=1996-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=V&artikel=29&z=1996-01-01&g=1996-01-01);
+- a. de [Wet bescherming bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002096) (*Stb.* 1952, 404) behoudens de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=7&z=1996-01-01&g=1996-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=V&artikel=29&z=1996-01-01&g=1996-01-01);
 
-- b. de Wet bijdragen bescherming bevolking en verplaatsing bevolking 1961 (**Stb.** 1964, 121);
+- b. de Wet bijdragen bescherming bevolking en verplaatsing bevolking 1961 (*Stb.* 1964, 121);
 
-- c. Titel I, IV, V, alsmede de artikelen 7**a**, 8, 8**a**, 10, 21, 23, 169 en 171**a** van de Wet op de noodwachten (**Stb.** 1971, 61).
+- c. Titel I, IV, V, alsmede de artikelen 7*a*, 8, 8*a*, 10, 21, 23, 169 en 171*a* van de Wet op de noodwachten (*Stb.* 1971, 61).
 
 ### Hoofdstuk III. Algemene bepalingen met betrekking tot de liquidatie
 
 ##### Artikel 3
 
-1. De gemeenschappelijke regelingen, bedoeld in [artikel 14 van de Wet bescherming bevolking](onbekend), vervallen van rechtswege met ingang van de datum van inwerkingtreding van deze wet.
+1. De gemeenschappelijke regelingen, bedoeld in artikel 14 van de Wet bescherming bevolking, vervallen van rechtswege met ingang van de datum van inwerkingtreding van deze wet.
 
 2. De kringen, ingesteld bij de gemeenschappelijke regelingen, bedoeld in het eerste lid, zijn van rechtswege ontbonden met ingang van de datum van inwerkingtreding van deze wet.
 
@@ -137,13 +112,13 @@ De liquidatierekening wordt binnen een maand na de datum, waarop het geheel van 
 
 2. Aan de noodwachters, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=11&z=1996-01-01&g=1996-01-01), wordt door het bevoegd gezag eervol ontslag verleend met ingang van de dag, waarop de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), is verstreken, of zoveel eerder als de liquidatie is voltooid.
 
-3. Indien in de gevallen, bedoeld in het eerste en het tweede lid, inachtneming van de opzegtermijn, genoemd in artikel 92, tweede lid, van het Ambtenarenreglement noodwachters (**Stb.** 1955, 327) en in artikel 75, tweede en derde lid, van het Arbeidsovereenkomstenbesluit noodwachters (**Stb.** 1955, 328), er toe zou leiden dat het ontslag pas kan worden verleend met ingang van een dag, die ligt na de termijn, bedoeld in [artikel 4, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01) wordt die opzegtermijn zodanig beperkt, dat het ontslag wordt verleend met ingang van de dag waarop de termijn, bedoeld in [artikel 4, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01) is verstreken.
+3. Indien in de gevallen, bedoeld in het eerste en het tweede lid, inachtneming van de opzegtermijn, genoemd in artikel 92, tweede lid, van het Ambtenarenreglement noodwachters (*Stb.* 1955, 327) en in artikel 75, tweede en derde lid, van het Arbeidsovereenkomstenbesluit noodwachters (*Stb.* 1955, 328), er toe zou leiden dat het ontslag pas kan worden verleend met ingang van een dag, die ligt na de termijn, bedoeld in [artikel 4, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01) wordt die opzegtermijn zodanig beperkt, dat het ontslag wordt verleend met ingang van de dag waarop de termijn, bedoeld in [artikel 4, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01) is verstreken.
 
 ##### Artikel 13
 
-1. Ten opzichte van de noodwachter, aan wie na het verstrijken van de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), geen ontslag is verleend op grond van [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), treedt Onze Minister gedurende de zes daaropvolgende maanden op als bevoegd gezag als bedoeld in artikel 1, eerste lid, van het Ambtenarenreglement noodwachters en in artikel 1, onderdeel **b**, van het Arbeidsovereenkomstenbesluit noodwachters.
+1. Ten opzichte van de noodwachter, aan wie na het verstrijken van de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), geen ontslag is verleend op grond van [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), treedt Onze Minister gedurende de zes daaropvolgende maanden op als bevoegd gezag als bedoeld in artikel 1, eerste lid, van het Ambtenarenreglement noodwachters en in artikel 1, onderdeel *b*, van het Arbeidsovereenkomstenbesluit noodwachters.
 
-2. Indien de liquidatie is voltooid voordat de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), is verstreken, treedt Onze Minister ten opzichte van de noodwachter die op het moment waarop de liquidatie is voltooid niet is ontslagen op grond van [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), tot het tijdstip gelegen twaalf maanden na de datum van inwerkingtreding van deze wet op als bevoegd gezag als bedoeld in artikel 1, eerste lid, van het Ambtenarenreglement noodwachters en in artikel 1, onderdeel **b**, van het Arbeidsovereenkomstenbesluit noodwachters.
+2. Indien de liquidatie is voltooid voordat de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), is verstreken, treedt Onze Minister ten opzichte van de noodwachter die op het moment waarop de liquidatie is voltooid niet is ontslagen op grond van [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), tot het tijdstip gelegen twaalf maanden na de datum van inwerkingtreding van deze wet op als bevoegd gezag als bedoeld in artikel 1, eerste lid, van het Ambtenarenreglement noodwachters en in artikel 1, onderdeel *b*, van het Arbeidsovereenkomstenbesluit noodwachters.
 
 ##### Artikel 14
 
@@ -159,15 +134,15 @@ De liquidatierekening wordt binnen een maand na de datum, waarop het geheel van 
 
 ##### Artikel 16
 
-1. De noodwachter in vaste of tijdelijke dienst, mits dit laatste dienstverband tenminste vijf jaren heeft geduurd en de aanstelling niet is geschied in een betrekking van kennelijk tijdelijke aard, die is of wordt ontslagen op grond van het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=14&z=1996-01-01&g=1996-01-01), en [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=15&z=1996-01-01&g=1996-01-01), heeft recht op wachtgeld volgens de regelen, vastgesteld bij algemene maatregel van bestuur van 23 november 1972, **Stb.** 671, onverminderd het bepaalde in artikel 4 van die algemene maatregel.
+1. De noodwachter in vaste of tijdelijke dienst, mits dit laatste dienstverband tenminste vijf jaren heeft geduurd en de aanstelling niet is geschied in een betrekking van kennelijk tijdelijke aard, die is of wordt ontslagen op grond van het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=14&z=1996-01-01&g=1996-01-01), en [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=15&z=1996-01-01&g=1996-01-01), heeft recht op wachtgeld volgens de regelen, vastgesteld bij algemene maatregel van bestuur van 23 november 1972, *Stb.* 671, onverminderd het bepaalde in artikel 4 van die algemene maatregel.
 
-2. De noodwachter in tijdelijke dienst wiens dienstverband minder dan vijf jaren heeft geduurd dan wel van kennelijk tijdelijke aard was, alsmede de noodwachter in dienst op arbeidsovereenkomst naar burgerlijk recht, die is of wordt ontslagen op grond van het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=14&z=1996-01-01&g=1996-01-01), en [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=15&z=1996-01-01&g=1996-01-01), onderscheidenlijk wiens dienstverband dientengevolge wordt beëindigd, heeft recht op uitkering volgens de regelen, vastgesteld bij algemene maatregel van bestuur van 23 november 1972, **Stb.** 672, onverminderd het bepaalde in de artikelen 2 en 6 van die algemene maatregel.
+2. De noodwachter in tijdelijke dienst wiens dienstverband minder dan vijf jaren heeft geduurd dan wel van kennelijk tijdelijke aard was, alsmede de noodwachter in dienst op arbeidsovereenkomst naar burgerlijk recht, die is of wordt ontslagen op grond van het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=12&z=1996-01-01&g=1996-01-01), [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=14&z=1996-01-01&g=1996-01-01), en [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=IV&paragraaf=1&artikel=15&z=1996-01-01&g=1996-01-01), onderscheidenlijk wiens dienstverband dientengevolge wordt beëindigd, heeft recht op uitkering volgens de regelen, vastgesteld bij algemene maatregel van bestuur van 23 november 1972, *Stb.* 672, onverminderd het bepaalde in de artikelen 2 en 6 van die algemene maatregel.
 
 3. Het wachtgeld en de uitkering, die op grond van het bepaalde in het eerste en tweede lid door Onze Minister worden toegekend, komen ten laste van hoofdstuk VII van de rijksbegroting.
 
 ##### Artikel 17
 
-1. De uitvoering van een beschikking, waarbij door het bevoegd gezag krachtens artikel 102 of artikel 102**a** van het Ambtenarenreglement noodwachters onderscheidenlijk artikel 80 van het Arbeidsovereenkomstenbesluit noodwachters wachtgeld op de voet van het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) (**Stb.** 1979, 621) onderscheidenlijk uitkering op de voet van de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) (**Stb.** 1979, 622) is toegekend, geschiedt na het verstrijken van de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), of zoveel eerder als de liquidatie is voltooid, door Onze Minister ten laste van hoofdstuk VII van de rijksbegroting.
+1. De uitvoering van een beschikking, waarbij door het bevoegd gezag krachtens artikel 102 of artikel 102*a* van het Ambtenarenreglement noodwachters onderscheidenlijk artikel 80 van het Arbeidsovereenkomstenbesluit noodwachters wachtgeld op de voet van het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) (*Stb.* 1979, 621) onderscheidenlijk uitkering op de voet van de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) (*Stb.* 1979, 622) is toegekend, geschiedt na het verstrijken van de termijn, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&hoofdstuk=III&artikel=4&z=1996-01-01&g=1996-01-01), of zoveel eerder als de liquidatie is voltooid, door Onze Minister ten laste van hoofdstuk VII van de rijksbegroting.
 
 2. De toepassing van het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) en van de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) met betrekking tot beschikkingen, bedoeld in het eerste lid, geschiedt door Onze Minister.
 
@@ -185,7 +160,7 @@ Indien een noodwachter, die op grond van het bepaalde in deze wet is ontslagen, 
 
 ##### Artikel 20
 
-De hoedanigheid, bedoeld in artikel 7, onder **b**, **c**, **d**, **f** en **g** van de Wet op de noodwachten, vervalt van rechtswege met ingang van de datum van inwerkingtreding van deze wet.
+De hoedanigheid, bedoeld in artikel 7, onder *b*, *c*, *d*, *f* en *g* van de Wet op de noodwachten, vervalt van rechtswege met ingang van de datum van inwerkingtreding van deze wet.
 
 ##### Artikel 21
 
@@ -215,7 +190,7 @@ De hoedanigheid, bedoeld in artikel 7, onder **b**, **c**, **d**, **f** en **g**
 
 2. De besluiten tot koop onderscheidenlijk verkoop van onroerende zaken behoeven de goedkeuring van gedeputeerde staten dan wel in geval de regionale brandweer of de kring in verschillende provincies is gelegen, goedkeuring bij koninklijk besluit, gedeputeerde staten gehoord.
 
-3. De [artikelen 155, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=155), [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=263), [264](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=264), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=266), [272, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=272), [280, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=280), en [281 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=281) (**Stb.** 1992, 96) zijn van overeenkomstige toepassing.
+3. De [artikelen 155, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=155), [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=263), [264](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=264), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=266), [272, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=272), [280, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=280), en [281 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=281) (*Stb.* 1992, 96) zijn van overeenkomstige toepassing.
 
 ##### Artikel 25
 
@@ -239,7 +214,7 @@ Het Ambtenarenreglement noodwachters alsmede het Arbeidsovereenkomstenbesluit no
 
 ##### Artikel 29
 
-Het Besluit Bedrijfszelfbescherming (**Stb.** 1958, 147), het [Besluit bescherming waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0004603) (**Stb.** 1963, 361), alsmede het Besluit bescherming gas- en electriciteitsbedrijven (**Stb.** 1957, 580) blijven van kracht totdat zij worden vervangen of ingetrokken.
+Het Besluit Bedrijfszelfbescherming (*Stb.* 1958, 147), het [Besluit bescherming waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0004603) (*Stb.* 1963, 361), alsmede het Besluit bescherming gas- en electriciteitsbedrijven (*Stb.* 1957, 580) blijven van kracht totdat zij worden vervangen of ingetrokken.
 
 ##### Artikel 30
 
@@ -251,7 +226,7 @@ Het Besluit Bedrijfszelfbescherming (**Stb.** 1958, 147), het [Besluit beschermi
 
 ##### Artikel 31
 
-De archiefbescheiden van de kring worden overgebracht naar de archiefbewaarplaats van de gemeente waar de kring zijn zetel heeft, met inachtneming van de bepalingen van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) (**Stb.** 276).
+De archiefbescheiden van de kring worden overgebracht naar de archiefbewaarplaats van de gemeente waar de kring zijn zetel heeft, met inachtneming van de bepalingen van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) (*Stb.* 276).
 
 ##### Artikel 32
 
@@ -264,5 +239,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 34
 
 Deze wet kan worden aangehaald als Intrekkingswet BB.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,43 +1,17 @@
 ---
 title: "Beschikking grondbankstelsel"
 identifier: "BWBR0003559"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-10-21"
-last_updated: "2007-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003559"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "5740093"
-version_id: "10291562"
-internal_id: "C13922331"
-label_id: "5720634"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003559/2007-10-21/0"
-intitule_bron: "Stcrt.1982-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-12-24"
-intitule_published: "1982-12-29"
-intitule_in_force: "1982-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-252"
-original_signed_date: "1982-12-24"
-original_published_date: "1982-12-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0003559&z=2007-10-21&g=2007-10-21"
-jci_1_0: "1.0:c:BWBR0003559&g=2007-10-21"
-citeertitel_status: "officieel"
-signed_date: "1982-12-24"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 2007-10-21
+status: geldig
+toestand: 2007-10-21
+bron: "https://wetten.overheid.nl/BWBR0003559"
+opgehaald: 2026-07-30
 ---
+
 # Beschikking grondbankstelsel
-
-Gelet op de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=57) en [58 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=58) (Stb. 1981, 248) en op [artikel 2 van het Besluit grondbankstelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2) (Stb. 1982, 692);
-
-Gehoord de commissie beheer landbouwgronden;
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -45,25 +19,26 @@ Besluit:
 
 1. In deze beschikking wordt verstaan onder:
 
-- a. **'commissie':** commissie beheer landbouwgronden als bedoeld in [artikel 30 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=30);
+- a. *'commissie':* commissie beheer landbouwgronden als bedoeld in [artikel 30 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=30);
 
-- b. **'uitgifte':** uitgifte in erfpacht van landbouwgronden door het bureau;
+- b. *'uitgifte':* uitgifte in erfpacht van landbouwgronden door het bureau;
 
-- c. **'aanvrager':** degene, die op de voet van deze beschikking een aanvrage voor uitgifte heeft ingediend;
+- c. *'aanvrager':* degene, die op de voet van deze beschikking een aanvrage voor uitgifte heeft ingediend;
 
-- d. **'sub-commissie':** subcommissie van de provinciale commissie beheer landbouwgronden, als bedoeld in artikel 11, tweede lid, van de Instellingsbeschikking provinciale commissies beheer landbouwgronden (Stcrt. 1982, 236);
+- d. *'sub-commissie':* subcommissie van de provinciale commissie beheer landbouwgronden, als bedoeld in artikel 11, tweede lid, van de Instellingsbeschikking provinciale commissies beheer landbouwgronden (Stcrt. 1982, 236);
 
-- e. **'bedrijfsomvang':** de bedrijfsomvang naar de toestand op het tijdstip van de, bij het indienen van de aanvrage, laatst bekende, in [artikel 24 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) bedoelde, landbouwtelling;
+- e. *'bedrijfsomvang':* de bedrijfsomvang naar de toestand op het tijdstip van de, bij het indienen van de aanvrage, laatst bekende, in [artikel 24 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) bedoelde, landbouwtelling;
 
-- f. **'s.b.e.':** standaardbedrijfseenheden, te weten de door het Landbouw-Economisch Instituut berekende verhoudingsgetallen, die een beoordeling mogelijk maken van de produktie-omvang van het gehele bedrijf, alsmede van de afzonderlijke produktierichtingen, zoals aangegeven op de bij deze beschikking behorende bijlage;
+- f. *'s.b.e.':* standaardbedrijfseenheden, te weten de door het Landbouw-Economisch Instituut berekende verhoudingsgetallen, die een beoordeling mogelijk maken van de produktie-omvang van het gehele bedrijf, alsmede van de afzonderlijke produktierichtingen, zoals aangegeven op de bij deze beschikking behorende bijlage;
 
-- g. **'akkerbouwbedrijf':** bedrijf waarvan de bedrijfsomvang van de sector akkerbouw, in s.b.e. uitgedrukt, ten minste 80% van de totale bedrijfsomvang uitmaakt;
+- g. *'akkerbouwbedrijf':* bedrijf waarvan de bedrijfsomvang van de sector akkerbouw, in s.b.e. uitgedrukt, ten minste 80% van de totale bedrijfsomvang uitmaakt;
 
-- h. **'Landinrichtingcommissie':**commissie als bedoeld in [artikel 27, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=27);
+- h. *'Landinrichtingcommissie':*commissie als bedoeld in [artikel 27, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=27);
 
-- i. **'directeur':** directeur van het bureau;
+- i. *'directeur':* directeur van het bureau;
 
-- j. **'besluit':** [Besluit grondbankstelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0003548) (Stb. 1982, 692).
+- j. *'besluit':*
+ [Besluit grondbankstelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0003548) (Stb. 1982, 692).
 
 2. Voor de toepassing van deze beschikking wordt:
 
@@ -85,7 +60,7 @@ Besluit:
 
 ### Hoofdstuk II. Regelen om voor uitgifte in aanmerking te komen
 
-## Titel I. Algemene regelen
+### Titel I. Algemene regelen
 
 #### Paragraaf 1. Regelen met betrekking tot de ondernemer
 
@@ -111,9 +86,9 @@ Indien meer natuurlijke personen voor gezamenlijke rekening een bedrijf uitoefen
 
 - b. de door hen aangegane samenwerkingsovereenkomst schriftelijk is aangegaan en voorts:
 
-- 1°. een regeling bevat met betrekking tot de beëindiging van de samenwerking;
+   - 1°. een regeling bevat met betrekking tot de beëindiging van de samenwerking;
 
-- 2°. voorziet in de wijze van inbreng van het erfpachtrecht in de samenwerking.
+   - 2°. voorziet in de wijze van inbreng van het erfpachtrecht in de samenwerking.
 
 ##### Artikel 5
 
@@ -121,21 +96,21 @@ Indien een rechtspersoon een bedrijf uitoefent, kan uitgifte slechts plaatsvinde
 
 - 1°. de bedrijfsleider:
 
-- a. voldoet aan het bepaalde in artikel 3, eerste lid, onder a, b en c;
+   - a. voldoet aan het bepaalde in artikel 3, eerste lid, onder a, b en c;
 
-- b. duurzaam met de leiding van het bedrijf zal zijn belast;
+   - b. duurzaam met de leiding van het bedrijf zal zijn belast;
 
-- c. niet tevens buiten het betrokken bedrijf bedrijfsleider is;
+   - c. niet tevens buiten het betrokken bedrijf bedrijfsleider is;
 
 - 2°. de rechtspersoon bij de aanvrage tot uitgifte de navolgende gegevens overlegt:
 
-- a. de rechtsvorm;
+   - a. de rechtsvorm;
 
-- b. de naam van de rechtspersoon;
+   - b. de naam van de rechtspersoon;
 
-- c. de arbeidsovereenkomst met de bedrijfsleider;
+   - c. de arbeidsovereenkomst met de bedrijfsleider;
 
-- d. de statuten, voor zover de rechtspersoon deze heeft.
+   - d. de statuten, voor zover de rechtspersoon deze heeft.
 
 #### Paragraaf 2. Regelen met betrekking tot het bedrijf
 
@@ -181,7 +156,7 @@ In afwijking van [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 2. Landbouwgrond waarvan de aanvrager eigenaar of mede-eigenaar is kan niet in eigendom aan het bureau worden overgedragen.
 
-## Titel II. Bijzondere regelen
+### Titel II. Bijzondere regelen
 
 #### Paragraaf 1. Regelen met betrekking tot de uitgifte in geval van bedrijfsopvolging en uitoefening van het voorkeursrecht door de pachter
 
@@ -219,19 +194,19 @@ De oppervlakte van de uit te geven landbouwgrond bedraagt ten hoogste 5 ha, tenz
 
 3. Onder intensieve veehouderij als bedoeld in het tweede lid, onder c, wordt verstaan het in daartoe bestemde bedrijfsgebouwen houden van:
 
-- -. mestkalveren;
+- - mestkalveren;
 
-- -. stieren, daaronder begrepen ossen, voor de mesterij, jonger dan 24 maanden en niet zijnde mestkalveren;
+- - stieren, daaronder begrepen ossen, voor de mesterij, jonger dan 24 maanden en niet zijnde mestkalveren;
 
-- -. mestvarkens;
+- - mestvarkens;
 
-- -. fokvarkens;
+- - fokvarkens;
 
-- -. slachtkuikens;
+- - slachtkuikens;
 
-- -. leghennen;
+- - leghennen;
 
-- -. kalkoenen.
+- - kalkoenen.
 
 #### Paragraaf 2. Regelen met betrekking tot de uitgifte in geval van vergroting van de bedrijfsoppervlakte
 
@@ -275,19 +250,19 @@ Indien de uit te geven landbouwgrond gelegen is in een beheersgebied als bedoeld
 
 3. Onder intensieve veehouderij als bedoeld in het tweede lid, onder c, wordt verstaan het in daartoe bestemde bedrijfsgebouwen houden van:
 
-- -. mestkalveren;
+- - mestkalveren;
 
-- -. stieren, daaronder begrepen ossen, voor de mesterij, jonger dan 24 maanden en niet zijnde mestkalveren;
+- - stieren, daaronder begrepen ossen, voor de mesterij, jonger dan 24 maanden en niet zijnde mestkalveren;
 
-- -. mestvarkens;
+- - mestvarkens;
 
-- -. fokvarkens;
+- - fokvarkens;
 
-- -. slachtkuikens;
+- - slachtkuikens;
 
-- -. leghennen;
+- - leghennen;
 
-- -. kalkoenen.
+- - kalkoenen.
 
 ### Hoofdstuk III. De aanvraagprocedure
 
@@ -361,146 +336,10 @@ De in de Beschikking uitgiftevoorwaarden grondbank opgenomen voorwaarden maken d
 
 ##### Artikel 30
 
-Vervallen.
+*Vervallen.*
 
 ##### Artikel 31
 
 1. Deze beschikking kan worden aangehaald als 'Beschikking grondbankstelsel'.
 
 2. Zij wordt in de Nederlandse Staatscourant bekend gemaakt en treedt in werking met ingang van 1 januari 1983.
-
-## Bijlage. als bedoeld in artikel 1, eerste lid, van de Beschikking grondbankstelsel
-
-|   | Aantal s.b.e. |
-| --- | --- |
-|   | per ha. |
-| AKKERBOUW |   |
-|   |   |
-| Granen | 2,5 |
-| Korrelmaïs | 2,5 |
-|   |   |
-| Vroege aardappelen | 9,0 |
-| Pootaardappelen (zand of veen) | 9,0 |
-| Pootaardappelen (klei) | 12,0 |
-| Consumptie-aardappelen (zand) | 6,0 |
-| Consumptie-aardappelen (klei) | 7,5 |
-| Fabrieksaardappelen | 4,5 |
-| Suikerbieten | 6,5 |
-| Pootbieten | 16,0 |
-| Aardappelen te velde verkocht | 5,5 |
-|   |   |
-| Groene erwt | 3,5 |
-| Bruine bonen/witte bonen | 3,5 |
-| Conservenerwten (contract) | 2,0 |
-| Tuinbonen (contract) | 2,5 |
-| Stamslabonen (contract) | 2,5 |
-| Erwten, capucijners | 3,5 |
-| Vlas | 3,5 |
-| Bietenzaad | 9,0 |
-| Koolzaad, blauwmaanzaad kanariezaad, graszaad, klaverzaad etc. | 3,0 |
-| Overige landbouwzaden | 3,0 |
-| Vlas te velde verkocht | 2,5 |
-|   |   |
-| Voederbieten | 4,5 |
-| Snijmaïs | 3,5 |
-| Koolrapen, wortelen | 7,0 |
-| Klaver en luzerne | 1,5 |
-| Grasland | 1,0 |
-| Overige voedergewassen | 2,5 |
-| Snijmaïs te velde verkocht | 2,5 |
-| Overige knol- en wortelgewassen | 4,5 |
-| Vervoerderde nagewassen, raaigrassen e.d. | 1,5 |
-| Stoppelknollen e.d. | 4,0 |
-| Bladkool e.d. | 4,5 |
-|   |   |
-| DIVERSEN |   |
-|   |   |
-| Grasland | 1,0 |
-| Zaaiklaar verhuurd land | 1,5 |
-| Deelbouw op eigen land | 2,5 |
-| Werk voor derden | 0,19 |
-| Boerenkaas | 0,2 |
-|   |   |
-| GROENTEN OPEN GROND |   |
-|   |   |
-| Tuinbonen (handpluk) | 25,0 |
-| Stamslabonen (handpluk) | 29,0 |
-| Stokbonen | 39,0 |
-|   |   |
-| Zaaiuien | 7,0 |
-| Zaaiuien te velde verkocht | 5,0 |
-| Zilveruien | 6,0 |
-| Poot- en plantuien | 14,0 |
-| Sjalotten | 13,0 |
-| Waspeen | 23,0 |
-| Bospeen (incl. nateelt) | 44,0 |
-| Witlofwortelen | 9,0 |
-| Winterwortelen | 15,0 |
-| Kroten | 14,0 |
-| Knolselderij | 18,0 |
-| Knolselderij (contract) | 11,0 |
-| Radijs (incl. nateelt) | 74,0 |
-| Schorseneren | 31,0 |
-| Kropsla | 28,0 |
-| Andijvie | 28,0 |
-| Spinazie | 22,0 |
-| Spinazie (contract) | 2,5 |
-| Prei | 32,0 |
-| Rabarber | 29,0 |
-| Asperges | 20,0 |
-| Augurken | 39,0 |
-| Aardbeien | 42,0 |
-| Spruitkool | 19,0 |
-| Witte kool (vroege) | 10,0 |
-| Rode, savooiekool (vroege) | 17,0 |
-| Herfst- en bewaarkool | 18,0 |
-| Bloemkool (incl. nateelt) | 29,0 |
-| Spitskool (incl. nateelt) | 22,0 |
-| Overige groentegewassen Boomgaard en landbouwbedrijven | 4,5 |
-|   |   |
-| TUINBOUW |   |
-|   |   |
-| Appelen | 20 |
-| Peren | 19 |
-| Kersen, pruimen | 17 |
-| Frambozen | 57 |
-| Rode bessen | 52 |
-| Zwarte bessen | 35 |
-| Tuinbouwzaden | 20 |
-| Bloemkwekerijgewassen | 55 |
-| Boomkwekerijgewassen | 75 |
-| Vaste planten | 140 |
-| Hyacinten | 65 |
-| Tulpen | 55 |
-| Narcissen | 32 |
-| Gladiolen | 20 |
-|   |   |
-|   |   |
-|   |   |
-|   | Aantal s.b.e. |
-|   | per dier |
-|   |   |
-| Melkkoeien | 2,5 |
-| Stieren ouder dan 1 jaar | 1,25 |
-| Jongvee | 0,7 |
-| Mestkalveren | 0,4 |
-| Mestvee, meststieren | 0,7 |
-| Paarden (excl. werkpaarden) | 0,7 |
-| Schapen | 0,3 |
-| Mestvarkens | 0,18 |
-| Opfokzeugen en -beren | 0,18 |
-| Fokzeugen en -beren | 1,4 |
-| Leghennen 5 mnd en ouder | 0,013 |
-| Opfokkuikens/jonge hennen | 0,006 |
-| Slachtkuikens | 0,0035 |
-| Slachtkuikenouderdieren | 0,03 |
-| Slachtkuikenouderdieren jonger dan 6 mnd | 0,01 |
-| Eenden voor de leg | 0,03 |
-| Eenden voor de slacht | 0,01 |
-| Kalkoenen voor de slacht | 0,008 |
-| Kalkoenen voor de broed | 0,07 |
-| Kalkoenen voor de broed jonger dan 7 mnd | 0,02 |
-| Overig pluimvee | 0,02 |
-| Nertsen | 0,2 |
-| Konijnen, voedsters | 0,2 |
-| Konijnen voor de slacht | 0,02 |

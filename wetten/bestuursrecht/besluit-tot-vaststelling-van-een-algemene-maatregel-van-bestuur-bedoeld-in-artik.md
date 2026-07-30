@@ -1,54 +1,24 @@
 ---
 title: "Besluit van 5 september 1978, houdende vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945"
+citeertitel: "Besluit tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945"
 identifier: "BWBR0003195"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003195"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "1071943"
-version_id: "1580162"
-internal_id: "C1580161"
-label_id: "1038504"
-dtd_version: "2.0"
-original_entry_into_force: "1978-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003195/2002-01-01/0"
-intitule_bron: "Stb.1978-552"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1978-09-05"
-intitule_status: "goed"
-original_publication: "Stb.1978-552"
-original_signed_date: "1978-09-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1978-01-01"
-jci_1_3: "jci1.3:c:BWBR0003195&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0003195&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945"
-signed_date: "1978-09-05"
-entry_into_force: "1978-01-01"
+publicatiedatum: 1978-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0003195"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 5 september 1978, houdende vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945
-
-Op de voordracht van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 16 mei 1978, Hoofdafdeling Verzetsdeelnemers en Vervolgden, nr. 58001 I;
-
-Gelet op [artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=8) (**Stb.** 1977, 493);
-
-Gezien de adviezen van de Buitengewone Pensioenraad en de Stichting 1940-1945;
-
-De Raad van State gehoord (advies van 12 juli 1978, nr. 17);
-
-Gezien het nader rapport van de Staatssecretaris voornoemd van 29 augustus 1978, nr. 64542;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. "de Wet": de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1986, 575);
+- a. "de Wet": de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (*Stb.* 1986, 575);
 
 - b. "de belanghebbende": de deelnemer aan het verzet in de zin van artikel 1, eerste lid, der wet, alsmede degene die behoort tot een der categorieën van personen, bedoeld in artikel 1, tweede lid, der wet, op wie artikel 8, vierde lid, der wet van toepassing is;
 
@@ -78,6 +48,4 @@ De pensioengrondslag, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot 1 januari 1978.
-
-Lasten en bevelen, dat dit besluit en de bijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot 1 januari 1978.

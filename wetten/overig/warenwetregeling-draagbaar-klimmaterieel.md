@@ -1,45 +1,18 @@
 ---
 title: "Regeling nadere eisen draagbaar klimmaterieel (Warenwet)"
+citeertitel: "Warenwetregeling draagbaar klimmaterieel"
 identifier: "BWBR0003956"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-31"
-last_updated: "2020-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003956"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4538593"
-version_id: "6344882"
-internal_id: "C6589351"
-label_id: "4516954"
-dtd_version: "2.0"
-original_entry_into_force: "1987-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003956/2020-01-31/0"
-intitule_bron: "Stcrt.1986-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-04-25"
-intitule_published: "1986-08-22"
-intitule_in_force: "1986-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-161"
-original_signed_date: "1986-04-25"
-original_published_date: "1986-08-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-03-01"
-jci_1_3: "jci1.3:c:BWBR0003956&z=2020-01-31&g=2020-01-31"
-jci_1_0: "1.0:c:BWBR0003956&g=2020-01-31"
-citeertitel_status: "officieel"
-short_title: "Warenwetregeling draagbaar klimmaterieel"
-signed_date: "1986-04-25"
-entry_into_force: "1987-03-01"
+publicatiedatum: 1987-03-01
+laatste_update: 2020-01-31
+status: geldig
+toestand: 2020-01-31
+bron: "https://wetten.overheid.nl/BWBR0003956"
+opgehaald: 2026-07-30
 ---
+
 # Regeling nadere eisen draagbaar klimmaterieel (Warenwet)
-
-Gelet op [artikel 2, tweede lid, van het Besluit draagbaar klimmaterieel (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003914&artikel=2) (Stb. 1986, 86);
-
-De Adviescommissie Warenwet gehoord (advies van 10 juni 1983, nr. 13451/(11)15);
-
-Besluiten:
 
 ##### Artikel 1
 

@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 8 juli 1978, ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende de omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn"
+citeertitel: "Besluit ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn"
 identifier: "BWBR0003189"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003189"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1031113"
-version_id: "1514922"
-internal_id: "C1514921"
-label_id: "999064"
-dtd_version: "2.0"
-original_entry_into_force: "1978-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003189/2011-01-01/0"
-intitule_bron: "Stb.1978-422"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1978-07-08"
-intitule_status: "goed"
-original_publication: "Stb.1978-422"
-original_signed_date: "1978-07-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1978-01-01"
-jci_1_3: "jci1.3:c:BWBR0003189&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0003189&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn"
-signed_date: "1978-07-08"
-entry_into_force: "1978-01-01"
+publicatiedatum: 1978-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0003189"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 8 juli 1978, ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende de omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn
-
-Op de voordracht van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 15 juni 1978, Hoofdafdeling Verzetsdeelnemers en Vervolgden, nr. 62243, mede namens Onze Minister van Financiën;
-
-Gelet op [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=1) (**Stb.** 1977, 493);
-
-Gezien de adviezen van de Buitengewone Pensioenraad en de Stichting 1940-1945;
-
-De Raad van State gehoord (advies van 28 juni 1978 nr. 14);
-
-Gezien het nader rapport van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk van 6 juli 1978, Hoofdafdeling Verzetsdeelnemers en Vervolgden, nr. 63969;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,7 +24,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Tot de in [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=1) (**Stb.** 1985, 575), bedoelde categorieën van personen behoren zij, gedurende de oorlogsjaren 1940-1945 Nederlander zijnde:
+Tot de in [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=1) (*Stb.* 1985, 575), bedoelde categorieën van personen behoren zij, gedurende de oorlogsjaren 1940-1945 Nederlander zijnde:
 
 - 1. die in de gebieden binnen Europa, met uitzondering van Nederland, welke waren bezet door of onder controle stonden van de vijand, handelingen hebben verricht, welke waren zij binnen Nederland verricht, zouden worden aangemerkt als deelneming aan het binnenlands verzet;
 
@@ -68,11 +38,11 @@ Tot de in [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](ht
 
 - 6. die ná 15 mei 1940, met de bedoeling om een persoonlijke bijdrage te leveren aan de oorlogvoering:
 
-- a. vanuit bezet gebied in Europa naar Engeland zijn uitgeweken en daarna een persoonlijke bijdrage aan de oorlogvoering hebben geleverd;
+   - a. vanuit bezet gebied in Europa naar Engeland zijn uitgeweken en daarna een persoonlijke bijdrage aan de oorlogvoering hebben geleverd;
 
-- b. vanuit bezet gebied in Europa naar Engeland zijn uitgeweken maar wegens ziekten of gebreken, welke zijn ontstaan of verergerd door of in verband met het uitwijken, geen persoonlijke bijdrage hebben kunnen leveren aan de oorlogvoering;
+   - b. vanuit bezet gebied in Europa naar Engeland zijn uitgeweken maar wegens ziekten of gebreken, welke zijn ontstaan of verergerd door of in verband met het uitwijken, geen persoonlijke bijdrage hebben kunnen leveren aan de oorlogvoering;
 
-- c. vanuit bezet gebied in Europa naar Engeland hebben getracht uit te wijken en die in verband met deze poging om uit te wijken het leven hebben verloren, vrijheidsberoving hebben ondergaan, door de vijand zijn mishandeld of ter dood gebracht dan wel wegens ziekten of gebreken, welke door of in verband met het uitwijken zijn ontstaan of verergerd, Engeland niet hebben kunnen bereiken.
+   - c. vanuit bezet gebied in Europa naar Engeland hebben getracht uit te wijken en die in verband met deze poging om uit te wijken het leven hebben verloren, vrijheidsberoving hebben ondergaan, door de vijand zijn mishandeld of ter dood gebracht dan wel wegens ziekten of gebreken, welke door of in verband met het uitwijken zijn ontstaan of verergerd, Engeland niet hebben kunnen bereiken.
 
 ##### Artikel 3
 
@@ -80,6 +50,4 @@ De Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wett
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst en werkt terug tot 1 januari 1978.
-
-Lasten en bevelen, dat dit besluit en de bijbehorende nota van toelichting in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst en werkt terug tot 1 januari 1978.

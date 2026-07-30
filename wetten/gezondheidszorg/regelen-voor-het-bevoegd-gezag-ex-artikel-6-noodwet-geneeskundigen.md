@@ -1,46 +1,17 @@
 ---
 title: "Regelen voor het bevoegd gezag ex artikel 6 Noodwet Geneeskundigen"
 identifier: "BWBR0003479"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003479"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "3701233"
-version_id: "5484152"
-internal_id: "C5677241"
-label_id: "3681034"
-dtd_version: "2.0"
-original_entry_into_force: "1982-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003479/2018-08-01/0"
-intitule_bron: "Stcrt.1982-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-02-01"
-intitule_published: "1982-02-17"
-intitule_in_force: "1982-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-33"
-original_signed_date: "1982-02-01"
-original_published_date: "1982-02-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1982-02-18"
-jci_1_3: "jci1.3:c:BWBR0003479&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0003479&g=2018-08-01"
-citeertitel_status: "officieel"
-signed_date: "1982-02-01"
-entry_into_force: "1982-02-18"
+publicatiedatum: 1982-02-18
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0003479"
+opgehaald: 2026-07-30
 ---
+
 # Regelen voor het bevoegd gezag ex artikel 6 Noodwet Geneeskundigen
-
-Gelet op [artikel 6, eerste lid, van de Noodwet Geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&artikel=6) (Stb. 1971, 396);
-
-Handelende in overeenstemming met het gevoelen van de Raad van Ministers;
-
-De Raad voor de buitengewone geneeskundige en farmaceutische voorziening gehoord (advies van 29 mei 1980, Nr. 75487/CV),
-
-Besluit:
 
 ##### Artikel 1
 

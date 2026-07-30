@@ -1,43 +1,18 @@
 ---
 title: "Rijkswet van 20 juni 1985, houdende vaststelling van enige overgangsbepalingen in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Aruba"
+citeertitel: "Rijkswet houdende overgangsbepalingen verkrijgen hoedanigheid van land in Koninkrijk door Aruba"
 identifier: "BWBR0003813"
-country: "nl"
-rank: "rijkswet"
-publication_date: "1985-07-09"
-last_updated: "1985-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003813"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "203933"
-version_id: "279292"
-internal_id: "C279291"
-label_id: "200564"
-dtd_version: "2.0"
-original_entry_into_force: "1985-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003813/1985-07-09/0"
-intitule_bron: "Stb.1985-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-06-20"
-intitule_status: "goed"
-original_publication: "Stb.1985-370"
-original_signed_date: "1985-06-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "18827"
-entry_into_force_date: "1985-07-09"
-jci_1_3: "jci1.3:c:BWBR0003813&z=1985-07-09&g=1985-07-09"
-jci_1_0: "1.0:c:BWBR0003813&g=1985-07-09"
-citeertitel_status: "redactioneel"
-short_title: "Rijkswet houdende overgangsbepalingen verkrijgen hoedanigheid van land in Koninkrijk door Aruba"
-signed_date: "1985-06-20"
-entry_into_force: "1985-07-09"
+publicatiedatum: 1985-07-09
+laatste_update: 1985-07-09
+status: geldig
+toestand: 1985-07-09
+bron: "https://wetten.overheid.nl/BWBR0003813"
+opgehaald: 2026-07-30
 ---
+
 # Rijkswet van 20 juni 1985, houdende vaststelling van enige overgangsbepalingen in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Aruba
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat een van 7 tot en met 12 maart 1983 te 's-Gravenhage gehouden conferentie van de Nederlandse Antillen, de eilanden van de Nederlandse Antillen en Nederland ermee heeft ingestemd dat Aruba als overgang naar de onafhankelijkheid voor een periode van tien jaren de hoedanigheid verkrijgt van land in het Koninkrijk op de grondslag van het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) en dat het in verband daarmee nodig is enige overgangsbepalingen vast te stellen;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -59,7 +34,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - c. de regering van het Koninkrijk met het door de eilandsraad vastgestelde ontwerp heeft ingestemd.
 
-2. Wordt de in het eerste lid, onder **a**, bedoelde meerderheid niet verkregen, dan wordt de eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de bijeenroeping van de nieuw gekozen eilandsraad binnen drie maanden.
+2. Wordt de in het eerste lid, onder *a*, bedoelde meerderheid niet verkregen, dan wordt de eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de bijeenroeping van de nieuw gekozen eilandsraad binnen drie maanden.
 
 3. De nieuw gekozen eilandsraad beslist over het ontwerp bij volstrekte meerderheid der uitgebrachte stemmen.
 
@@ -79,7 +54,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - c. de regering van het Koninkrijk met het door de Staten van de Nederlandse Antillen en de eilandsraad van Aruba goedgekeurde ontwerp heeft ingestemd.
 
-2. Wordt de in het eerste lid, onder **a**, bedoelde meerderheid in de eilandsraad van Aruba niet verkegen, dan wordt de eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de bijeenroeping van de nieuw gekozen eilandsraad binnen drie maanden.
+2. Wordt de in het eerste lid, onder *a*, bedoelde meerderheid in de eilandsraad van Aruba niet verkegen, dan wordt de eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de bijeenroeping van de nieuw gekozen eilandsraad binnen drie maanden.
 
 3. De nieuw gekozen eilandsraad beslist over het ontwerp bij volstrekte meerderheid der uitgebrachte stemmen.
 
@@ -90,5 +65,3 @@ Indien de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BW
 ##### Artikel 6
 
 Deze rijkswet treedt in werking met ingang van een bij Koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad,** in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 16 december 1977, houdende aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949"
+citeertitel: "Besluit aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949"
 identifier: "BWBR0003148"
-country: "nl"
-rank: "kb"
-publication_date: "1980-12-29"
-last_updated: "1980-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003148"
+categorie: "Overig"
 soort: "KB"
-stam_id: "32243"
-version_id: "38622"
-internal_id: "C38621"
-label_id: "32544"
-dtd_version: "2.0"
-original_entry_into_force: "1978-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003148/1980-12-29/0"
-intitule_bron: "Stb.1977-722"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1977-12-16"
-intitule_status: "goed"
-original_publication: "Stb.1977-722"
-original_signed_date: "1977-12-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1978-02-01"
-jci_1_3: "jci1.3:c:BWBR0003148&z=1980-12-29&g=1980-12-29"
-jci_1_0: "1.0:c:BWBR0003148&g=1980-12-29"
-citeertitel_status: "officieel"
-short_title: "Besluit aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949"
-signed_date: "1977-12-16"
-entry_into_force: "1978-02-01"
+publicatiedatum: 1978-02-01
+laatste_update: 1980-12-29
+status: geldig
+toestand: 1980-12-29
+bron: "https://wetten.overheid.nl/BWBR0003148"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 16 december 1977, houdende aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949
-
-Op de voordracht van Onze Minister van Defensie van 2 december 1977, Landmachtstaf, nr. 456.108 D;
-
-Overwegende de wenselijkheid de vaandel-, c.q. standaardopschriften van regimenten van de Koninklijke landmacht aan te vullen met de krijgsverrichtingen van de stamonderdelen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949;
-
-Gelet op de Koninklijke besluiten van: 7 augustus 1896, nr. 41 en 42; 14 juli 1909, nr. 82; 3 november 1913, nr. 70; 17 april 1919, nr. 24; 29 maart 1927, nr. 24; 3 juli 1945, nr. 28; 1 februari 1947, nr. 70;
-
-alsmede op Onze besluiten van: 13 juli 1949, nr. 42; 4 september 1951, nr. 27; 1 september 1955, nr. 25;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -156,9 +128,9 @@ wegens:
 
 - B. het deelnemen van vier bataljons van het 9e Regiment Infanterie, dat in 1903 is voortgekomen uit het 1e Regiment Infanterie en waarvan het Regiment infanterie Johan Willem Friso de voortzetting is, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 1e bataljon op West-Java van 1946 tot 1948; 3e bataljon op West-Java van 1946 tot 1949; 4e bataljon op West- en Midden-Java van 1947 tot 1949; 5e bataljon in de residentie Palembang (Sumatra) van 1948 tot 1949. Hierbij hebben zich bijzonder onderscheiden:
 
-- a. van het 1e Regiment Infanterie: het 1e bataljon op Oost-Java (onder meer te Soerabaja) en Noord-Sumatra; het 4e bataljon op Zuid-Sumatra; het 5e bataljon op Midden-Sumatra;
+   - a. van het 1e Regiment Infanterie: het 1e bataljon op Oost-Java (onder meer te Soerabaja) en Noord-Sumatra; het 4e bataljon op Zuid-Sumatra; het 5e bataljon op Midden-Sumatra;
 
-- b. van het 9e Regiment Infanterie: het 1e bataljon op West-Java (onder meer te Bandoeng); het 4e bataljon op Midden-Java; het 5e bataljon op Zuid-Sumatra.
+   - b. van het 9e Regiment Infanterie: het 1e bataljon op West-Java (onder meer te Bandoeng); het 4e bataljon op Midden-Java; het 5e bataljon op Zuid-Sumatra.
 
 ##### Artikel 6
 
@@ -176,11 +148,11 @@ wegens:
 
 - C. het deelnemen van één bataljon van het 13e Regiment Infanterie, dat in 1913 uit het 2e Regiment Infanterie is voortgekomen en waarvan de traditie op 1 februari 1947 weer is overgegaan op dat regiment, waarvan het Regiment Limburgse Jagers de voortzetting is, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 2e bataljon op Midden-Java van 1946 tot 1948. Hierbij hebben zich bijzonder onderscheiden:
 
-- a. van het 2e Regiment Infanterie: het 3e bataljon op West-Java (onder meer te Tjiamis en Tasikmalaja); het 4e bataljon op Noord-Sumatra;
+   - a. van het 2e Regiment Infanterie: het 3e bataljon op West-Java (onder meer te Tjiamis en Tasikmalaja); het 4e bataljon op Noord-Sumatra;
 
-- b. van het 11e Regiment Infanterie: het 1e bataljon op West-Java (onder meer te Batavia); het 3e bataljon op Midden-Java; het 5e bataljon op Noord-Sumatra;
+   - b. van het 11e Regiment Infanterie: het 1e bataljon op West-Java (onder meer te Batavia); het 3e bataljon op Midden-Java; het 5e bataljon op Noord-Sumatra;
 
-- c. van het 13e Regiment Infanterie: het 2e bataljon op Midden-Java (onder meer te Semarang).
+   - c. van het 13e Regiment Infanterie: het 2e bataljon op Midden-Java (onder meer te Semarang).
 
 ##### Artikel 7
 
@@ -244,7 +216,7 @@ wegens:
 
 - A. het deelnemen van vijf bataljons van het 7e Regiment Infanterie, waarvan het Regiment infanterie Chassé de voortzetting is, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 2e bataljon op Midden-Java van 1946 tot 1948; 3e bataljon op Midden-Java van 1946 tot 1949; 4e bataljon op Sumatra van 1947 tot 1949; 5e bataljon op West- en Oost-Java van 1948 tot 1949; 6e bataljon, ook genaamd 424e Bataljon Infanterie, op Noord-Sumatra in 1949;
 
-- B. het deelnemen van vier bataljons van het 10e Regiment Infanterie, dat in 1904 uit het 7e Regiment Infanterie is voortgekomen en waarvan het Regiment infanterie Chassé eveneens de voortzetting is, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 2e bataljon op Oost-Java van 1946 tot 1949; 3e bataljon op West-Java van 1946 tot 1949; 4e bataljon op West-Java van 1947 tot 1949; 5e bataljon op Noord-Sumatra van 1948 tot 1949. Hierbij hebben zich bijzonder onderscheiden: **van het 7e Regiment Infanterie:** het 2e bataljon op Midden-Java (onder meer te Semarang); het 4e bataljon op Zuid-Sumatra (onder meer te Djambi).
+- B. het deelnemen van vier bataljons van het 10e Regiment Infanterie, dat in 1904 uit het 7e Regiment Infanterie is voortgekomen en waarvan het Regiment infanterie Chassé eveneens de voortzetting is, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 2e bataljon op Oost-Java van 1946 tot 1949; 3e bataljon op West-Java van 1946 tot 1949; 4e bataljon op West-Java van 1947 tot 1949; 5e bataljon op Noord-Sumatra van 1948 tot 1949. Hierbij hebben zich bijzonder onderscheiden: *van het 7e Regiment Infanterie:* het 2e bataljon op Midden-Java (onder meer te Semarang); het 4e bataljon op Zuid-Sumatra (onder meer te Djambi).
 
 ##### Artikel 10
 
@@ -262,9 +234,9 @@ wegens:
 
 - C. het deelnemen van drie bataljons van het 15e Regiment Infanterie, dat in 1913 uit het 4e Regiment Infanterie is voortgekomen en waarvan de traditie op 1 februari 1947 weer is overgegaan op dat regiment, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 1e bataljon op Midden-Java van 1948 tot 1949; 2e bataljon op Oost-Java van 1948 tot 1949; 3e bataljon op Noord-Sumatra van 1948 tot 1949. Hierbij hebben zich bijzonder onderscheiden:
 
-- a. van het 12e Regiment Infanterie: het 1e bataljon op Oost-Java (onder meer te Soerabaja); het 3e bataljon op West-Java (onder meer te Bantam);
+   - a. van het 12e Regiment Infanterie: het 1e bataljon op Oost-Java (onder meer te Soerabaja); het 3e bataljon op West-Java (onder meer te Bantam);
 
-- b. van het 15e Regiment Infanterie: het 1e bataljon op Midden-Java (onder meer te Djocjakarta); het 3e bataljon op Noord-Sumatra.
+   - b. van het 15e Regiment Infanterie: het 1e bataljon op Midden-Java (onder meer te Djocjakarta); het 3e bataljon op Noord-Sumatra.
 
 ##### Artikel 11
 
@@ -278,9 +250,9 @@ wegens:
 
 - B. het deelnemen van twee bataljons van het 14e Regiment Infanterie dat op 17 maart 1947 werd verdoopt tot 6e Regiment Infanterie, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 2e bataljon op West-Java en Midden-Sumatra van 1946 tot 1948; 3e bataljon op West-Java van 1946 tot 1949. Hierbij hebben zich bijzonder onderscheiden:
 
-- a. van het 6e Regiment Infanterie: het 2e bataljon op Midden-Java (onder meer te Semarang);
+   - a. van het 6e Regiment Infanterie: het 2e bataljon op Midden-Java (onder meer te Semarang);
 
-- b. van het 14e Regiment Infanterie: het 2e bataljon op West-Java (onder meer te Batavia); het 3e bataljon op West-Java (onder meer te Soekaboemi).
+   - b. van het 14e Regiment Infanterie: het 2e bataljon op West-Java (onder meer te Batavia); het 3e bataljon op West-Java (onder meer te Soekaboemi).
 
 ##### Artikel 12
 
@@ -383,5 +355,3 @@ wegens:
 het deelnemen van vier compagnieën van het Regiment Speciale Troepen aan krijgsverrichtingen in het voormalige Nederlands-Indië.
 
 Hierbij hebben deze compagnieën zich bijzonder onderscheiden bij de vermeestering van Djokjakarta en op Midden-Sumatra (onder meer te Djambi, Sawah Loento, Pakan Baroe, Rengat en Ajer Molek)
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons Militaire Huis.

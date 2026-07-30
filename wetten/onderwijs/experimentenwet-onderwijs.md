@@ -1,46 +1,18 @@
 ---
 title: "Wet van 9 juli 1970, houdende vaststelling van de Experimentenwet onderwijs"
+citeertitel: "Experimentenwet onderwijs"
 identifier: "BWBR0002718"
-country: "nl"
-rank: "wet"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0002718"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "2668633"
-version_id: "17609792"
-internal_id: "C24367361"
-label_id: "2613214"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0002718/2022-08-01/0"
-intitule_bron: "Stb.1970-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1970-07-09"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2010-05-17"
-entry_into_force_dossier: "31959"
-jci_1_3: "jci1.3:c:BWBR0002718&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0002718&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Experimentenwet onderwijs"
-signed_date: "2010-05-17"
-entry_into_force: "2010-05-17"
+publicatiedatum: 2010-05-17
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0002718"
+opgehaald: 2026-07-30
 ---
+
 # Wet van 9 juli 1970, houdende vaststelling van de Experimentenwet onderwijs
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor de ontwikkeling van het onderwijs wenselijk is een regeling te treffen op grond waarvan onderwijskundige experimenten kunnen worden gehouden die vallen buiten de kaders van de afzonderlijke onderwijswetten en in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) (**Stb.** 1967, 387) de mogelijkheden te verruimen tot afwijking wegens de bijzondere inrichting van het onderwijs;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -108,9 +80,9 @@ Deze wet verstaat onder:
 
 3. Indien het overleg, bedoeld in het vierde lid, niet leidt tot een afronding overeenkomstig de op grond van dat lid vastgestelde voorwaarden, wordt alsnog over de desbetreffende aangelegenheden het overleg, bedoeld in het tweede en derde lid, gevoerd. De algemene maatregel van bestuur bepaalt tevens de gevallen waarin in dat overleg overeenstemming met de personeelsorganisaties dient te worden bereikt.
 
-4. Door vernummering vervallen.
+4. *Door vernummering vervallen.*
 
-5. Door vernummering vervallen.
+5. *Door vernummering vervallen.*
 
 6. Dit artikel is tot een bij koninklijk besluit te bepalen tijdstip niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -124,13 +96,13 @@ Onze Minister bepaalt welke rechten zijn verbonden aan akten, getuigschriften, d
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7a
 
 1. Ten aanzien van hoger beroepsonderwijs waarop deze wet van toepassing is op het tijdstip van inwerkingtreding van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), blijft het bepaalde bij of krachtens deze wet van toepassing tot het tijdstip waarop de bekostiging voor het desbetreffende experiment wordt beëindigd.
 
-2. Indien een experiment een school voor de opleiding van leraren betreft, wordt aan die school geen nascholing verzorgd onverminderd artikel XIV, eerste volzin, van de wet van 7 juli 1993 (**Stb.** 405).
+2. Indien een experiment een school voor de opleiding van leraren betreft, wordt aan die school geen nascholing verzorgd onverminderd artikel XIV, eerste volzin, van de wet van 7 juli 1993 (*Stb.* 405).
 
 ##### Artikel 7b
 
@@ -148,22 +120,18 @@ Ten aanzien van educatie en beroepsonderwijs waarop deze wet van toepassing is o
 
 Ten behoeve van leerlingen van een experimentele school voor speciaal onderwijs, voor voortgezet speciaal onderwijs dan wel voor speciaal en voortgezet speciaal onderwijs, of een instelling voor speciaal en voortgezet speciaal onderwijs past de gemeente [artikel 4 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=4) toe, alsof het leerlingen zijn van een dergelijke school of instelling.
 
+##### Artikel 7e
+
+*Wijzigt deze wet.*
+
 ##### Artikel 8
 
 Deze wet kan worden aangehaald als "Experimentenwet onderwijs".
 
 ##### Artikel 9
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 10
 
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7e
-
-Wijzigt deze wet.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

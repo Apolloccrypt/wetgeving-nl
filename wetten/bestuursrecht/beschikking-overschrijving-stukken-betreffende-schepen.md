@@ -1,44 +1,17 @@
 ---
 title: "Beschikking overschrijving stukken betreffende schepen"
 identifier: "BWBR0003541"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1983-01-01"
-last_updated: "1983-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003541"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3928343"
-version_id: "5681422"
-internal_id: "C5874251"
-label_id: "3908304"
-dtd_version: "2.0"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003541/1983-01-01/0"
-intitule_bron: "Stcrt.1982-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-11-23"
-intitule_published: "1982-12-13"
-intitule_in_force: "1982-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-240"
-original_signed_date: "1982-11-23"
-original_published_date: "1982-12-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0003541&z=1983-01-01&g=1983-01-01"
-jci_1_0: "1.0:c:BWBR0003541&g=1983-01-01"
-citeertitel_status: "officieel"
-signed_date: "1982-11-23"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 1983-01-01
+status: geldig
+toestand: 1983-01-01
+bron: "https://wetten.overheid.nl/BWBR0003541"
+opgehaald: 2026-07-30
 ---
+
 # Beschikking overschrijving stukken betreffende schepen
-
-Overwegende dat ten gevolge van de intrekking van de Maatregel Schepen (Stb. 1948, 1 359) de beschikking van de Minister van Financiën van 29 mei 1952, nr. 95 (Stcrt. 1952, 104) herziening behoeft;
-
-Gelet op artikel 1 van de wet van 28 februari 1947 (Stb. H 66) en het Koninklijk besluit van 4 juni 1973 (Stb. 272),
-
-Besluit:
 
 ##### Artikel 1
 

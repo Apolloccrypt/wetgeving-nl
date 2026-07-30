@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 26 maart 1982, houdende verhoging van de taxa wegens verlening van adeldom"
+citeertitel: "Besluit verhoging van de taxa wegens verlening van adeldom"
 identifier: "BWBR0003489"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003489"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1194503"
-version_id: "1762112"
-internal_id: "C1762111"
-label_id: "1156934"
-dtd_version: "2.0"
-original_entry_into_force: "1982-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003489/2002-01-01/0"
-intitule_bron: "Stb.1982-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-03-26"
-intitule_status: "goed"
-original_publication: "Stb.1982-216"
-original_signed_date: "1982-03-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1982-05-01"
-jci_1_3: "jci1.3:c:BWBR0003489&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0003489&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verhoging van de taxa wegens verlening van adeldom"
-signed_date: "1982-03-26"
-entry_into_force: "1982-05-01"
+publicatiedatum: 1982-05-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0003489"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 26 maart 1982, houdende verhoging van de taxa wegens verlening van adeldom
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 3 december 1981, nr. B81/U3140, Directoraat-Generaal Binnenlands Bestuur, Directie Binnenlands Bestuur, Afdeling Bestuurlijk-Juridische Zaken;
-
-Gezien het advies van de Hoge Raad van Adel van 21 januari 1981, nr. 80/136-26;
-
-Gelet op [artikel 74 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=74);
-
-De Raad van State gehoord (advies van 26 januari 1982; nr. 820120/10);
-
-Gezien het nader rapport van Onze voornoemde Minister van 18 maart 1982, nr. B82/236, Directoraat-Generaal Binnenlands Bestuur, Directie Binnenlands Bestuur, Afdeling Bestuurlijk-Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -99,5 +69,3 @@ Het Koninklijk besluit van 30 september 1815, nr. 10, zoals dat is gewijzigd bij
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 1 mei 1982.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Hoge Raad van Adel.

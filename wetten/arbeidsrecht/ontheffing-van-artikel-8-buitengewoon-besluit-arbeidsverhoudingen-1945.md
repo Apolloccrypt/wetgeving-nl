@@ -1,44 +1,17 @@
 ---
 title: "Ontheffing van artikel 8 Buitengewoon Besluit Arbeidsverhoudingen 1945"
 identifier: "BWBR0003809"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1985-06-22"
-last_updated: "1985-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003809"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "3735123"
-version_id: "5517992"
-internal_id: "C5711081"
-label_id: "3714874"
-dtd_version: "2.0"
-original_entry_into_force: "1985-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003809/1985-06-22/0"
-intitule_bron: "Stcrt.1985-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-06-12"
-intitule_published: "1985-06-21"
-intitule_in_force: "1985-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1985-118"
-original_signed_date: "1985-06-12"
-original_published_date: "1985-06-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1985-06-22"
-jci_1_3: "jci1.3:c:BWBR0003809&z=1985-06-22&g=1985-06-22"
-jci_1_0: "1.0:c:BWBR0003809&g=1985-06-22"
-citeertitel_status: "officieel"
-signed_date: "1985-06-12"
-entry_into_force: "1985-06-22"
+publicatiedatum: 1985-06-22
+laatste_update: 1985-06-22
+status: geldig
+toestand: 1985-06-22
+bron: "https://wetten.overheid.nl/BWBR0003809"
+opgehaald: 2026-07-30
 ---
+
 # Ontheffing van artikel 8 Buitengewoon Besluit Arbeidsverhoudingen 1945
-
-Overwegende dat een ontheffing van [artikel 8, eerste lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) voor bepaalde groepen van werknemers gewenst is teneinde onnodige in dat artikel gelegen belemmeringen voor structurele werktijdverkorting weg te nemen;
-
-Gelet op [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8);
-
-Besluit:
 
 ##### Artikel 1
 

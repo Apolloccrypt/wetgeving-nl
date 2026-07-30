@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 28 december 1985, houdende aanwijzing van rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder"
+citeertitel: "Besluit aanwijzing rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder"
 identifier: "BWBR0003912"
-country: "nl"
-rank: "kb"
-publication_date: "1993-01-01"
-last_updated: "1993-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003912"
+categorie: "Bestuursrecht"
 soort: "KB"
-stam_id: "56993"
-version_id: "72222"
-internal_id: "C72221"
-label_id: "57174"
-dtd_version: "2.0"
-original_entry_into_force: "1986-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003912/1993-01-01/0"
-intitule_bron: "Stb.1985-771"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-12-28"
-intitule_status: "goed"
-original_publication: "Stb.1985-771"
-original_signed_date: "1985-12-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-12-24"
-jci_1_3: "jci1.3:c:BWBR0003912&z=1993-01-01&g=1993-01-01"
-jci_1_0: "1.0:c:BWBR0003912&g=1993-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanwijzing rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder"
-signed_date: "1985-12-28"
-entry_into_force: "1986-12-24"
+publicatiedatum: 1986-12-24
+laatste_update: 1993-01-01
+status: geldig
+toestand: 1993-01-01
+bron: "https://wetten.overheid.nl/BWBR0003912"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 28 december 1985, houdende aanwijzing van rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 20 december 1985, nr. BT85/U1202, Directoraat-Generaal Binnenlands Bestuur, Directie Bestuurszaken, Afdeling Toezichtsbeleid, en van Onze Minister van Verkeer en Waterstaat van 23 december 1985, nr. R 48335, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken, en van de Staatssecretaris van Financiën, van 23 december 1985, nr. 385-15865, Generale Thesaurie, Directie der Domeinen, Afdeling Rentambten;
-
-Overwegende, dat het wenselijk is ter uitvoering van artikel 8, eerste lid, van de Wet van 19 januari 1962 tot instelling van een gemeente Noordoostpolder en voorlopige indeling van die gemeente bij de provincie Overijssel (**Stb.** 11) aan te wijzen de rijkseigendommen (wegen, kunstwerken en fietspaden), welke in eigendom, beheer en onderhoud op de gemeente Noordoostpolder overgaan, alsmede te bepalen de voorwaarden en het tijdstip van overgang;
-
-Gelet op artikel 8, eerste lid van voornoemde wet;
-
-Gehoord de raad der gemeente Noordoostpolder (brief van 26 september 1985);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -51,279 +23,279 @@ De wegpercelen, kadastraal bekend gemeente Noordoostpolder.
 | Sectie | Nummer | Oppervlakte in m2 | Benaming |
 | --- | --- | --- | --- |
 | A | 441 ∗ | – | Onderduikerstocht |
-|   | 442 | 32 280 | Weg van Ongenade |
-|   | 449 | 28 820 | Onderduikersweg |
-|   | 552 ∗ | – | Karel Doormanweg |
-|   | 553 ∗ | – | Karel Doormanweg |
-|   | 555 ∗ | – | Karel Doormanweg |
-|   | 665 ∗ | – | Klutendwarstocht |
-|   | 717 ∗ | – | Karel Doormanweg |
-|   | 808 | 6 330 | Fietspad Nagelerweg-Vliegtuigweg |
-|   | 892 | 2 838 | Loswal Zuidervaart |
-|   | 980 ∗ | – | Kamperweg |
-|   | 981 ∗ | + 810 | Kamperweg |
-|   | 982 ∗ | – | Bomentocht |
-|   | 1017 | 17 535 | Bomenweg |
-|   | 1021 | 39 065 | Vliegtuigweg |
-|   | 1024 | 15 420 | Weg van Ongenade |
-|   | 1028 | 37 090 | Onderduikersweg |
-|   | 1029 ∗ | – | Onderduikersweg |
-|   | 1035 | 38 990 | Klutenweg |
-|   | 1063 ∗ | – | Marknesserweg |
-|   | 1086 | 48 520 | Lindeweg |
-|   | 1190 | 36 455 | Karel Doormanweg (Randweg) |
-|   | 1331 ∗ |   | Friese Pad |
-|   | 1338 | 18 700 | Friese Pad |
-|   | 1364 ∗ | – | Marknesserweg |
-|   | 1405 | 4 150 | Fietspad Nagelerweg-Vliegtuigweg |
-|   | 1444 ∗ | – | Casteleynsweg |
-|   | 1550 ∗ | – | Kamperweg |
-|   | 1554 ∗ | – | Kleiweg |
-|   | 1555 | 37 610 | Kleiweg |
-|   | 1557 ∗ | – | Kamperweg |
-|   | 1558 ∗ | – | Kamperweg |
-|   | 1560 ∗ | – | Kamperweg |
-|   | 1561 ∗ | – | Bomenweg |
-|   | 1562 ∗ | – | Bomenweg |
-|   | 1576 ∗ | – | Marknesserweg |
-|   | 1578 ∗ | – | Marknesserweg |
-|   | 1625 | 38 130 | Hannie Schaftweg |
-|   | 1628 ∗ | – | Zuidervaart |
-|   | 1640 | 37 846 | Pilotenweg |
-|   |   |   |   |
+|  | 442 | 32 280 | Weg van Ongenade |
+|  | 449 | 28 820 | Onderduikersweg |
+|  | 552 ∗ | – | Karel Doormanweg |
+|  | 553 ∗ | – | Karel Doormanweg |
+|  | 555 ∗ | – | Karel Doormanweg |
+|  | 665 ∗ | – | Klutendwarstocht |
+|  | 717 ∗ | – | Karel Doormanweg |
+|  | 808 | 6 330 | Fietspad Nagelerweg-Vliegtuigweg |
+|  | 892 | 2 838 | Loswal Zuidervaart |
+|  | 980 ∗ | – | Kamperweg |
+|  | 981 ∗ | + 810 | Kamperweg |
+|  | 982 ∗ | – | Bomentocht |
+|  | 1017 | 17 535 | Bomenweg |
+|  | 1021 | 39 065 | Vliegtuigweg |
+|  | 1024 | 15 420 | Weg van Ongenade |
+|  | 1028 | 37 090 | Onderduikersweg |
+|  | 1029 ∗ | – | Onderduikersweg |
+|  | 1035 | 38 990 | Klutenweg |
+|  | 1063 ∗ | – | Marknesserweg |
+|  | 1086 | 48 520 | Lindeweg |
+|  | 1190 | 36 455 | Karel Doormanweg (Randweg) |
+|  | 1331 ∗ |  | Friese Pad |
+|  | 1338 | 18 700 | Friese Pad |
+|  | 1364 ∗ | – | Marknesserweg |
+|  | 1405 | 4 150 | Fietspad Nagelerweg-Vliegtuigweg |
+|  | 1444 ∗ | – | Casteleynsweg |
+|  | 1550 ∗ | – | Kamperweg |
+|  | 1554 ∗ | – | Kleiweg |
+|  | 1555 | 37 610 | Kleiweg |
+|  | 1557 ∗ | – | Kamperweg |
+|  | 1558 ∗ | – | Kamperweg |
+|  | 1560 ∗ | – | Kamperweg |
+|  | 1561 ∗ | – | Bomenweg |
+|  | 1562 ∗ | – | Bomenweg |
+|  | 1576 ∗ | – | Marknesserweg |
+|  | 1578 ∗ | – | Marknesserweg |
+|  | 1625 | 38 130 | Hannie Schaftweg |
+|  | 1628 ∗ | – | Zuidervaart |
+|  | 1640 | 37 846 | Pilotenweg |
+|  |  |  |  |
 | AZ | 4831 ∗ | – | Marknesserweg |
-|   | 4833 ∗ | – | Kamperweg |
-|   |   |   |   |
+|  | 4833 ∗ | – | Kamperweg |
+|  |  |  |  |
 | B | 701 | 29 340 | Neushoornweg |
-|   | 830 | 19 090 | Voorsterweg |
-|   | 844 ∗ | – | Kleeftocht |
-|   | 1050 | 9 090 | Mammouthweg |
-|   | 1051 | 23 840 | Mammouthweg |
-|   | 1052 ∗ | – | Hertenweg |
-|   | 1124 ∗ | – | Marknessertocht |
-|   | 1422 | 10 285 | Baarlose Dwarsweg |
-|   | 1124 ∗ |   | Marknessertocht |
-|   | 1622 | 51 555 | Kleiweg |
-|   | 1623 | 57 900 | Sloefweg |
-|   | 1626 | 18 235 | Mammouthweg |
-|   | 1634 | 30 130 | Baarlose Weg |
-|   | 1672 | 32 520 | Voorsterweg |
-|   | 1745 | 45 530 | Baarlose Weg |
-|   | 1757 | 28 070 | Kalenbergerweg |
-|   | 1788 | 53 710 | Blokzijlerweg |
-|   | 1789 | 8 970 | Blokzijlerweg |
-|   | 1817 | 30 610 | Bomenweg |
-|   | 1824 | 57 795 | Luttelgeesterweg |
-|   | 1859 ∗ | – | Steenwijkerdwarsweg |
-|   | 1870 ∗ | – | Steenwijkerdwarsweg |
-|   | 2055 | 27 790 | Kalenbergerweg |
-|   | 2078 | 29 000 | Blokzijlerdwarsweg |
-|   | 2084 | 11 267 | Loswal Marknesservaart |
-|   | 2161 ∗ | – | Voorstertocht |
-|   | 2180 | 42 370 | Voorsterweg |
-|   | 2219 | 41 826 | Uiterdijkenweg |
-|   | 2234 ∗ |   | Blokzijlerweg, toegangsweg parkeerplaats |
-|   | 2249 | 70 165 | Uiterdijkenweg |
-|   | 2420 ∗ | – | Vollenhoverweg |
-|   |   |   |   |
+|  | 830 | 19 090 | Voorsterweg |
+|  | 844 ∗ | – | Kleeftocht |
+|  | 1050 | 9 090 | Mammouthweg |
+|  | 1051 | 23 840 | Mammouthweg |
+|  | 1052 ∗ | – | Hertenweg |
+|  | 1124 ∗ | – | Marknessertocht |
+|  | 1422 | 10 285 | Baarlose Dwarsweg |
+|  | 1124 ∗ |  | Marknessertocht |
+|  | 1622 | 51 555 | Kleiweg |
+|  | 1623 | 57 900 | Sloefweg |
+|  | 1626 | 18 235 | Mammouthweg |
+|  | 1634 | 30 130 | Baarlose Weg |
+|  | 1672 | 32 520 | Voorsterweg |
+|  | 1745 | 45 530 | Baarlose Weg |
+|  | 1757 | 28 070 | Kalenbergerweg |
+|  | 1788 | 53 710 | Blokzijlerweg |
+|  | 1789 | 8 970 | Blokzijlerweg |
+|  | 1817 | 30 610 | Bomenweg |
+|  | 1824 | 57 795 | Luttelgeesterweg |
+|  | 1859 ∗ | – | Steenwijkerdwarsweg |
+|  | 1870 ∗ | – | Steenwijkerdwarsweg |
+|  | 2055 | 27 790 | Kalenbergerweg |
+|  | 2078 | 29 000 | Blokzijlerdwarsweg |
+|  | 2084 | 11 267 | Loswal Marknesservaart |
+|  | 2161 ∗ | – | Voorstertocht |
+|  | 2180 | 42 370 | Voorsterweg |
+|  | 2219 | 41 826 | Uiterdijkenweg |
+|  | 2234 ∗ |  | Blokzijlerweg, toegangsweg parkeerplaats |
+|  | 2249 | 70 165 | Uiterdijkenweg |
+|  | 2420 ∗ | – | Vollenhoverweg |
+|  |  |  |  |
 | C | 225 ∗ | – | Leemvaart |
-|   | 427 ∗ | – | Neushoornweg |
-|   | 471 ∗ |   | Weggetje naar Vuurtoren |
-|   | 544 ∗ | – | Hertentocht |
-|   | 556 ∗ | – | Neushoornweg |
-|   | 583 | 21 970 | Neushoornweg |
-|   | 610 | 15 340 | Drietorensweg |
-|   | 709 | 23 730 | Mammouthweg |
-|   | 846 | 20 780 | Kamperzandweg |
-|   | 881 | 26 890 | Drietorensweg |
-|   | 882 ∗ | – | Infiltratiesloot |
-|   | 915 | 17 140 | Kamperzandweg |
-|   | 960 ∗ | – | Zwijnsweg |
-|   | 963 ∗ | – | Zwarte Meertocht |
-|   | 964 | 51 580 | Zwartemeerweg |
-|   | 1008 ∗ | – | Zwarte Meertocht |
-|   | 1009 | 77 080 | Zwartemeerweg |
-|   | 1036 ∗ | – | Fietspad naar Zwarte Meerdijk |
-|   | 1086 ∗ | – | Enserdwarstocht |
-|   | 1087 | 43 690 | Drietorensweg |
-|   | 1103 | 8 960 | Mammouthweg |
-|   | 1257 ∗ | – | D-tocht |
-|   | 1362 | 326 | Mammouthweg |
-|   | 1366 | 2 840 | Weggetje kavel Woets |
-|   | 1436 | 11 975 | Hertenpad |
-|   | 1470 ∗ | – | Ramstocht |
-|   | 1471 | 2 650 | Fietspad Oud Kraggenburg-Kraggenburgerweg |
-|   | 1534 | 11 875 | Zwartemeerpad |
-|   | 1555 | 25 960 | Enserweg |
-|   | 1561 | 58 050 | Ramsweg |
-|   | 1562 | 13 085 | Redeweg |
-|   | 1603 | 11 780 | Zwartemeerpad |
-|   | 1635 ∗ | – | Zwarte Meertocht |
-|   | 1642 | 3 770 | Fietspad Vliegtuigweg-Schokland |
-|   | 1676 | 1 174 | Fietspad Vliegtuigweg-Schokland |
-|   | 1678 ∗ |   | Hertenweg |
-|   | 1702 | 23 435 | Zwartemeerweg |
-|   | 1703 | 39 690 | Paardenweg |
-|   | 1708 | 23 050 | Neushoornweg |
-|   | 1714 ∗ |   | Zwijnstocht |
-|   | 1716 | 51 575 | Zwijnsweg |
-|   | 1717 | 18 870 | Zwijnsweg |
-|   | 1718 ∗ |   | Neushoorntocht |
-|   | 1729 | 4 050 | Kamperzandweg |
-|   | 1733 ∗ |   | Zwartemeerweg |
-|   | 1736 ∗ |   | Ramsweg |
-|   | 1741 | 36 135 | Ramsweg |
-|   | 1742 ∗ |   | Infiltratiesloot |
-|   | 1748 | 31 330 | Oude Emmeloorderweg |
-|   | 1757 ∗ |   | Oud Emmeloorderweg |
-|   | 1761 | 19 390 | Vliegtuigweg |
-|   | 2017 ∗ |   | Ramsweg |
-|   | 2017 ∗ |   | Kamperzandweg |
-|   | 2055 | 10 000 | Fietspad Oud Kraggenburg-Kraggenburgerweg en weggetje naar vuurtoren |
-|   | 2072 ∗ |   | Mammouthweg |
-|   | 2093 | 45 510 | Palenweg |
-|   | 2102 | 36 620 | Redeweg |
-|   | 2126 | 13 890 | Hertenpad |
-|   | 2262 | 47 530 | Sloefweg |
-|   | 2264 ∗ |   | Vliegtuigweg |
-|   | 2374 ∗ |   | Ramsweg |
+|  | 427 ∗ | – | Neushoornweg |
+|  | 471 ∗ |  | Weggetje naar Vuurtoren |
+|  | 544 ∗ | – | Hertentocht |
+|  | 556 ∗ | – | Neushoornweg |
+|  | 583 | 21 970 | Neushoornweg |
+|  | 610 | 15 340 | Drietorensweg |
+|  | 709 | 23 730 | Mammouthweg |
+|  | 846 | 20 780 | Kamperzandweg |
+|  | 881 | 26 890 | Drietorensweg |
+|  | 882 ∗ | – | Infiltratiesloot |
+|  | 915 | 17 140 | Kamperzandweg |
+|  | 960 ∗ | – | Zwijnsweg |
+|  | 963 ∗ | – | Zwarte Meertocht |
+|  | 964 | 51 580 | Zwartemeerweg |
+|  | 1008 ∗ | – | Zwarte Meertocht |
+|  | 1009 | 77 080 | Zwartemeerweg |
+|  | 1036 ∗ | – | Fietspad naar Zwarte Meerdijk |
+|  | 1086 ∗ | – | Enserdwarstocht |
+|  | 1087 | 43 690 | Drietorensweg |
+|  | 1103 | 8 960 | Mammouthweg |
+|  | 1257 ∗ | – | D-tocht |
+|  | 1362 | 326 | Mammouthweg |
+|  | 1366 | 2 840 | Weggetje kavel Woets |
+|  | 1436 | 11 975 | Hertenpad |
+|  | 1470 ∗ | – | Ramstocht |
+|  | 1471 | 2 650 | Fietspad Oud Kraggenburg-Kraggenburgerweg |
+|  | 1534 | 11 875 | Zwartemeerpad |
+|  | 1555 | 25 960 | Enserweg |
+|  | 1561 | 58 050 | Ramsweg |
+|  | 1562 | 13 085 | Redeweg |
+|  | 1603 | 11 780 | Zwartemeerpad |
+|  | 1635 ∗ | – | Zwarte Meertocht |
+|  | 1642 | 3 770 | Fietspad Vliegtuigweg-Schokland |
+|  | 1676 | 1 174 | Fietspad Vliegtuigweg-Schokland |
+|  | 1678 ∗ |  | Hertenweg |
+|  | 1702 | 23 435 | Zwartemeerweg |
+|  | 1703 | 39 690 | Paardenweg |
+|  | 1708 | 23 050 | Neushoornweg |
+|  | 1714 ∗ |  | Zwijnstocht |
+|  | 1716 | 51 575 | Zwijnsweg |
+|  | 1717 | 18 870 | Zwijnsweg |
+|  | 1718 ∗ |  | Neushoorntocht |
+|  | 1729 | 4 050 | Kamperzandweg |
+|  | 1733 ∗ |  | Zwartemeerweg |
+|  | 1736 ∗ |  | Ramsweg |
+|  | 1741 | 36 135 | Ramsweg |
+|  | 1742 ∗ |  | Infiltratiesloot |
+|  | 1748 | 31 330 | Oude Emmeloorderweg |
+|  | 1757 ∗ |  | Oud Emmeloorderweg |
+|  | 1761 | 19 390 | Vliegtuigweg |
+|  | 2017 ∗ |  | Ramsweg |
+|  | 2017 ∗ |  | Kamperzandweg |
+|  | 2055 | 10 000 | Fietspad Oud Kraggenburg-Kraggenburgerweg en weggetje naar vuurtoren |
+|  | 2072 ∗ |  | Mammouthweg |
+|  | 2093 | 45 510 | Palenweg |
+|  | 2102 | 36 620 | Redeweg |
+|  | 2126 | 13 890 | Hertenpad |
+|  | 2262 | 47 530 | Sloefweg |
+|  | 2264 ∗ |  | Vliegtuigweg |
+|  | 2374 ∗ |  | Ramsweg |
 | Cz | 86 | 4 440 | Enserweg |
-|   | 182 | 8 940 | Drietorensweg |
-|   | 183 | 9 325 | Drietorensweg |
-|   |   |   |   |
+|  | 182 | 8 940 | Drietorensweg |
+|  | 183 | 9 325 | Drietorensweg |
+|  |  |  |  |
 | D | 115 | 29 900 | Karel Doormanweg |
-|   | 163 | 56 500 | Zuidermeerweg |
-|   | 182 | 20 880 | Monnikenweg |
-|   | 204 ∗ |   | Ketelmeerweg |
-|   | 205 ∗ |   | Zuidermeertocht |
-|   | 299 ∗ | – | Ketelmeerweg |
-|   | 355 ∗ | – | Karel Doormanweg |
-|   | 387 ∗ | – | D-tocht |
-|   | 388 ∗ | – | Ramsweg |
-|   | 613 ∗ | – | Karel Doormanweg |
-|   | 657 | 50 870 | Oud Emmeloorderweg |
-|   | 660 ∗ | – | Karel Doormanweg |
-|   | 662 ∗ | – | Karel Doormanweg |
-|   | 873 ∗ | – | Ketelmeerweg |
-|   | 890 | 24 180 | Johannes Postweg |
-|   | 908 ∗ | – | Zuidermeerweg |
-|   | 909 ∗ | – | Ketelmeerweg |
-|   | 910 ∗ | – | Zuidermeertocht |
-|   | 944 | 39 910 | Prof. Brandsmaweg |
-|   | 954 ∗ | – | Havenweg, Ramsweg |
-|   | 980 | 48 760 | Sluitgatweg |
-|   | 1096 ∗ | – | Zijtak Abtsweg |
-|   | 1096 ∗ | – | Abtsweg |
-|   | 1097 ∗ | – | Ketelmeerweg |
-|   | 1097 ∗ | – | Weggetje naar parkeerplaats Zuidermeerdijk |
-|   | 1098 | 22 190 | Monnikenweg |
-|   | 1190 ∗ | – | Johannes Posttocht |
-|   | 1192 ∗ | – | Johannes Postweg |
-|   | 1196 ∗ | – | Hannie Schafttocht |
-|   | 1199 ∗ | – | Hans Stijkelweg |
-|   | 1201 ∗ | – | Hans Stijkeltocht |
-|   | 1224 ∗ | – | Karel Doormanweg |
-|   | 1225 ∗ | – | Hans Stijkelweg |
-|   |   |   |   |
+|  | 163 | 56 500 | Zuidermeerweg |
+|  | 182 | 20 880 | Monnikenweg |
+|  | 204 ∗ |  | Ketelmeerweg |
+|  | 205 ∗ |  | Zuidermeertocht |
+|  | 299 ∗ | – | Ketelmeerweg |
+|  | 355 ∗ | – | Karel Doormanweg |
+|  | 387 ∗ | – | D-tocht |
+|  | 388 ∗ | – | Ramsweg |
+|  | 613 ∗ | – | Karel Doormanweg |
+|  | 657 | 50 870 | Oud Emmeloorderweg |
+|  | 660 ∗ | – | Karel Doormanweg |
+|  | 662 ∗ | – | Karel Doormanweg |
+|  | 873 ∗ | – | Ketelmeerweg |
+|  | 890 | 24 180 | Johannes Postweg |
+|  | 908 ∗ | – | Zuidermeerweg |
+|  | 909 ∗ | – | Ketelmeerweg |
+|  | 910 ∗ | – | Zuidermeertocht |
+|  | 944 | 39 910 | Prof. Brandsmaweg |
+|  | 954 ∗ | – | Havenweg, Ramsweg |
+|  | 980 | 48 760 | Sluitgatweg |
+|  | 1096 ∗ | – | Zijtak Abtsweg |
+|  | 1096 ∗ | – | Abtsweg |
+|  | 1097 ∗ | – | Ketelmeerweg |
+|  | 1097 ∗ | – | Weggetje naar parkeerplaats Zuidermeerdijk |
+|  | 1098 | 22 190 | Monnikenweg |
+|  | 1190 ∗ | – | Johannes Posttocht |
+|  | 1192 ∗ | – | Johannes Postweg |
+|  | 1196 ∗ | – | Hannie Schafttocht |
+|  | 1199 ∗ | – | Hans Stijkelweg |
+|  | 1201 ∗ | – | Hans Stijkeltocht |
+|  | 1224 ∗ | – | Karel Doormanweg |
+|  | 1225 ∗ | – | Hans Stijkelweg |
+|  |  |  |  |
 | E | 7 | 5 270 | Zuidermiddenweg |
-|   | 20 | 47 610 | Zuidermiddenweg |
-|   | 21 | 29 030 | Pilotenweg |
-|   | 85 | 33 310 | Onderduikersweg |
-|   | 96 | 32 360 | Noordermiddenweg |
-|   | 141 | 17 400 | Tollebekerweg |
-|   | 160 | 11 980 | Zuidermeerpad |
-|   | 168 | 51 500 | Westermeerweg |
-|   | 169 ∗ | – | Westermeertocht |
-|   | 211 ∗ | – | Westermeertocht |
-|   | 254 | 10 730 | Schapenpad |
-|   | 256 | 50 290 | Westermeerweg |
-|   | 257∗ | – | Westermeertocht |
-|   | 300∗ | – | Westermeertocht |
-|   | 579 | 53 470 | Westermeerweg |
-|   | 609 | 34 950 | Espelerpad |
-|   | 709 | 37 210 | Westermeerweg |
-|   | 732 | 15 595 | Noordermiddenweg |
-|   | 734 | 18 435 | Tollebekerweg |
-|   | 735 | 40 440 | Steenbankpad |
-|   | 736 | 18 500 | Zuiderdwarspad |
-|   | 738 | 40 515 | Ankerpad |
-|   | 739 | 28 305 | Zuidermiddenweg |
-|   | 745 | 38 320 | Vormtweg |
-|   | 749 | 5 840 | Zuidermiddenweg |
-|   | 752 | 22 095 | Noorderdwarspad |
-|   | 754 | 39 700 | Onderduikerspad |
-|   | 756 | 48 266 | Klutenpad |
-|   | 853 | 26 400 | Urkerdwarspad |
-|   | 1007 | 55 075 | Tollebekerweg |
+|  | 20 | 47 610 | Zuidermiddenweg |
+|  | 21 | 29 030 | Pilotenweg |
+|  | 85 | 33 310 | Onderduikersweg |
+|  | 96 | 32 360 | Noordermiddenweg |
+|  | 141 | 17 400 | Tollebekerweg |
+|  | 160 | 11 980 | Zuidermeerpad |
+|  | 168 | 51 500 | Westermeerweg |
+|  | 169 ∗ | – | Westermeertocht |
+|  | 211 ∗ | – | Westermeertocht |
+|  | 254 | 10 730 | Schapenpad |
+|  | 256 | 50 290 | Westermeerweg |
+|  | 257∗ | – | Westermeertocht |
+|  | 300∗ | – | Westermeertocht |
+|  | 579 | 53 470 | Westermeerweg |
+|  | 609 | 34 950 | Espelerpad |
+|  | 709 | 37 210 | Westermeerweg |
+|  | 732 | 15 595 | Noordermiddenweg |
+|  | 734 | 18 435 | Tollebekerweg |
+|  | 735 | 40 440 | Steenbankpad |
+|  | 736 | 18 500 | Zuiderdwarspad |
+|  | 738 | 40 515 | Ankerpad |
+|  | 739 | 28 305 | Zuidermiddenweg |
+|  | 745 | 38 320 | Vormtweg |
+|  | 749 | 5 840 | Zuidermiddenweg |
+|  | 752 | 22 095 | Noorderdwarspad |
+|  | 754 | 39 700 | Onderduikerspad |
+|  | 756 | 48 266 | Klutenpad |
+|  | 853 | 26 400 | Urkerdwarspad |
+|  | 1007 | 55 075 | Tollebekerweg |
 | EX | 183 | 6 543 | Tollebekerweg |
-|   |   |   |   |
+|  |  |  |  |
 | F | 237 | 33 890 | Noordermiddenweg |
-|   | 245 | 34 990 | Weg van Ongenade |
-|   | 253 | 28 090 | Klutenweg |
-|   | 261 | 33 150 | Klutenweg |
-|   | 269 ∗ | – | Klutentocht |
-|   | 273 ∗ | – | Noordermeertocht |
-|   | 403 ∗ |   | Noordermeertocht |
-|   | 443 | 19 940 | Polenweg |
-|   | 452 | 16 330 | Weg van Ongenade |
-|   | 456 ∗ | – | Polentocht |
-|   | 725 | 43 515 | Vuurpad |
-|   | 798 | 8 270 | Vuurpad |
-|   | 821 | 50 690 | Noordermeerweg |
-|   | 891 | 11 700 | Noordermeerpad |
-|   | 897 | 63 890 | Noordermeerweg |
-|   | 931 | 27 490 | Venepad |
-|   | 972 | 56 402 | Noordermeerweg |
-|   | 1015 | 49 840 | Creilerpad |
-|   | 1017 | 16 430 | Weg van Ongenade |
-|   | 1018 | 18 658 | Weg van Ongenade |
-|   | 1019 | 51 145 | Veneweg |
-|   | 1031 | 59 825 | Polenweg |
-|   | 1032 | 12 600 | Polenweg |
-|   | 1036 | 270 | Ruttense Weg |
-|   | 1046 | 5 350 | Polenweg |
-|   | 1048 | 49 369 | Wrakkenpad |
-|   | 1050 | 32 560 | Ruttense Pad |
-|   | 1051 | 46 995 | IJzerpad |
-|   | 1054 | 41 250 | Noordermeerweg |
-|   |   |   |   |
+|  | 245 | 34 990 | Weg van Ongenade |
+|  | 253 | 28 090 | Klutenweg |
+|  | 261 | 33 150 | Klutenweg |
+|  | 269 ∗ | – | Klutentocht |
+|  | 273 ∗ | – | Noordermeertocht |
+|  | 403 ∗ |  | Noordermeertocht |
+|  | 443 | 19 940 | Polenweg |
+|  | 452 | 16 330 | Weg van Ongenade |
+|  | 456 ∗ | – | Polentocht |
+|  | 725 | 43 515 | Vuurpad |
+|  | 798 | 8 270 | Vuurpad |
+|  | 821 | 50 690 | Noordermeerweg |
+|  | 891 | 11 700 | Noordermeerpad |
+|  | 897 | 63 890 | Noordermeerweg |
+|  | 931 | 27 490 | Venepad |
+|  | 972 | 56 402 | Noordermeerweg |
+|  | 1015 | 49 840 | Creilerpad |
+|  | 1017 | 16 430 | Weg van Ongenade |
+|  | 1018 | 18 658 | Weg van Ongenade |
+|  | 1019 | 51 145 | Veneweg |
+|  | 1031 | 59 825 | Polenweg |
+|  | 1032 | 12 600 | Polenweg |
+|  | 1036 | 270 | Ruttense Weg |
+|  | 1046 | 5 350 | Polenweg |
+|  | 1048 | 49 369 | Wrakkenpad |
+|  | 1050 | 32 560 | Ruttense Pad |
+|  | 1051 | 46 995 | IJzerpad |
+|  | 1054 | 41 250 | Noordermeerweg |
+|  |  |  |  |
 | G | 553 ∗ | – | Linde Tocht |
-|   | 555 | 28 230 | Lindeweg |
-|   | 633 | 19 630 | Schoterweg |
-|   | 652 | 14 410 | Lindeweg |
-|   | 763 | 16 110 | Lindeweg |
-|   | 871 ∗ | – | Infiltratiesloot |
-|   | 897 ∗ | – | Schotertocht |
-|   | 927 | 37 425 | Schoterweg |
-|   | 979 ∗ | – | Ruttenseweg |
-|   | 980 ∗ | – | Ruttenseweg |
-|   | 1004 | 11 065 | Lindeweg |
-|   | 1005 | 11 695 | Lindeweg |
-|   | 1007 | 26 020 | Blankenhammerweg |
-|   | 1011 | 1 080 | Wellerzandweg |
-|   | 1015 ∗ | – | Hopweg |
-|   | 1025 ∗ | – | Ruttenseweg |
-|   | 1026 ∗ | – | Ruttenseweg |
-|   | 1026∗ | – | Schoterpad |
-|   | 1028 ∗ | – | Schoterpad |
-|   | 1032 ∗ | – | Ruttenseweg |
-|   | 1076 | 17 650 | Blankenhammerweg |
-|   | 1079 | 13 230 | Blankenhammerweg |
-|   | 1083 | 10 940 | Blankenhammerweg |
-|   | 1110 ∗ | – | Hopweg |
-|   | 1224 | 53 848 | Hopweg |
-|   | 1290 | 55 302 | Wellerzandweg |
-|   | 1291 ∗ | – | Schoterweg |
-|   | 1296 ∗ | – | Friese pad |
-|   | 1300 ∗ | – | Friese pad |
-|   | 1306 | 18 950 | Friese pad |
-|   | 1312 | 8 640 | Friese pad |
-|   | 1381 | 89 395 | Uiterdijkenweg |
-|   | 1383 ∗ | – | Marknessertocht |
-|   | 1398 ∗ | – | Burchtweg |
-|   | 1415 ∗ | – | Hopweg |
-|   | 1433 ∗ | – | Schoterpad |
-|   | 1458 | 39 363 | Schansweg |
+|  | 555 | 28 230 | Lindeweg |
+|  | 633 | 19 630 | Schoterweg |
+|  | 652 | 14 410 | Lindeweg |
+|  | 763 | 16 110 | Lindeweg |
+|  | 871 ∗ | – | Infiltratiesloot |
+|  | 897 ∗ | – | Schotertocht |
+|  | 927 | 37 425 | Schoterweg |
+|  | 979 ∗ | – | Ruttenseweg |
+|  | 980 ∗ | – | Ruttenseweg |
+|  | 1004 | 11 065 | Lindeweg |
+|  | 1005 | 11 695 | Lindeweg |
+|  | 1007 | 26 020 | Blankenhammerweg |
+|  | 1011 | 1 080 | Wellerzandweg |
+|  | 1015 ∗ | – | Hopweg |
+|  | 1025 ∗ | – | Ruttenseweg |
+|  | 1026 ∗ | – | Ruttenseweg |
+|  | 1026∗ | – | Schoterpad |
+|  | 1028 ∗ | – | Schoterpad |
+|  | 1032 ∗ | – | Ruttenseweg |
+|  | 1076 | 17 650 | Blankenhammerweg |
+|  | 1079 | 13 230 | Blankenhammerweg |
+|  | 1083 | 10 940 | Blankenhammerweg |
+|  | 1110 ∗ | – | Hopweg |
+|  | 1224 | 53 848 | Hopweg |
+|  | 1290 | 55 302 | Wellerzandweg |
+|  | 1291 ∗ | – | Schoterweg |
+|  | 1296 ∗ | – | Friese pad |
+|  | 1300 ∗ | – | Friese pad |
+|  | 1306 | 18 950 | Friese pad |
+|  | 1312 | 8 640 | Friese pad |
+|  | 1381 | 89 395 | Uiterdijkenweg |
+|  | 1383 ∗ | – | Marknessertocht |
+|  | 1398 ∗ | – | Burchtweg |
+|  | 1415 ∗ | – | Hopweg |
+|  | 1433 ∗ | – | Schoterpad |
+|  | 1458 | 39 363 | Schansweg |
 
 ∗ = gedeeltelijk.
 
@@ -375,11 +347,11 @@ De gedeeltelijk aangeduide kadastrale aanduiding is nader aangegeven op bijlage 
 
 De onderstaande roerende rijkseigendommen gaan in eigendom over op de gemeente met ingang van de dag, volgende op die van de dagtekening van dit besluit:
 
-- -. Motorvoertuigen: 3 dienstauto's, merk Volkswagen (type Pick Up Diesel),
+- - Motorvoertuigen: 3 dienstauto's, merk Volkswagen (type Pick Up Diesel),
 
-- -. Sneeuwploegen: 5 stuks, merk Nido (2 * type 280-EP, 2 * type 280-EPZ, 1 * type 280-S-EP);
+- - Sneeuwploegen: 5 stuks, merk Nido (2 * type 280-EP, 2 * type 280-EPZ, 1 * type 280-S-EP);
 
-- -. Strooiers met bijbehorende portalen: 4 stuks, 3 * merk Nido (typo M-75), 1 * merk Epoke (type P-40); 1 fietspadstrooier, merk Nido (type Baby).
+- - Strooiers met bijbehorende portalen: 4 stuks, 3 * merk Nido (typo M-75), 1 * merk Epoke (type P-40); 1 fietspadstrooier, merk Nido (type Baby).
 
 ##### Artikel 2
 
@@ -409,19 +381,19 @@ De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=1
 
 In dit besluit wordt verstaan onder:
 
-- 1. **hoofdafvoerleiding:** een watergang die hoofdzakelijk dient tot transport van polderwater van de greppels, weg- en kavelsloten naar de vaarten;
+- 1. *hoofdafvoerleiding:* een watergang die hoofdzakelijk dient tot transport van polderwater van de greppels, weg- en kavelsloten naar de vaarten;
 
-- 2. **vaart:** een watergang die hoofdzakelijk dient tot ontvangst van het polderwater uit de hoofdwaterafvoerleidingen en andere watergangen en tot transport daarvan naar de gemalen aan de rand van de polder;
+- 2. *vaart:* een watergang die hoofdzakelijk dient tot ontvangst van het polderwater uit de hoofdwaterafvoerleidingen en andere watergangen en tot transport daarvan naar de gemalen aan de rand van de polder;
 
-- 3. **brug:** een vaste brug met inbegrip van landhoofden, pijlers en grondkegels, gelegen over hoofdafvoerleidingen en vaarten;
+- 3. *brug:* een vaste brug met inbegrip van landhoofden, pijlers en grondkegels, gelegen over hoofdafvoerleidingen en vaarten;
 
-- 4. **beweegbare brug:** een brug met inbegrip van landhoofden, pijlers en grondkegels, gelegen over vaarten, die voor de scheepvaart geopend kan worden;
+- 4. *beweegbare brug:* een brug met inbegrip van landhoofden, pijlers en grondkegels, gelegen over vaarten, die voor de scheepvaart geopend kan worden;
 
-- 5. **viaduct:** een vaste brug met inbegrip van pijlers, gelegen over wegen;
+- 5. *viaduct:* een vaste brug met inbegrip van pijlers, gelegen over wegen;
 
-- 4. **duiker:** een doorlaat voor het transport van water onder een weg of dam door;
+- 4. *duiker:* een doorlaat voor het transport van water onder een weg of dam door;
 
-- 5. **kunstwerken:** een verzamelnaam van werken, genoemd onder 3, 4, 5 en 6.
+- 5. *kunstwerken:* een verzamelnaam van werken, genoemd onder 3, 4, 5 en 6.
 
 ##### Artikel 6
 
@@ -443,11 +415,11 @@ De begrenzing van de op de gemeente in eigendom, beheer en onderhoud overgaande 
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -487,6 +459,4 @@ Het onderhoud van de aansluitingen komt voor rekening van de exploitanten van vo
 
 - h. anderen, die krachtens vergunning duikers, kabels en andere voorzieningen hebben (zoals bijvoorbeeld ANWB-wegwijzers).
 
-2. Het Rijk, de naamloze vennootschap N.V. IJsselcentrale en naamloze vennootschap N.V. GAZO, de W.M.O., het Zuiveringschap West Overijssel, de N.V. Nederlandse Gasunie, en anderen zoals bedoeld in punt **h** van lid 1 van dit artikel, zijn aansprakelijk voor schade aan eigendommen van de gemeente, veroorzaakt door het gebruik maken van de in het vorige lid omschreven bevoegdheden.
-
-Onze Minister van Binnenlandse Zaken, van Verkeer en Waterstaat en van Financiën zijn, ieder voor zoveel hem/haar betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
+2. Het Rijk, de naamloze vennootschap N.V. IJsselcentrale en naamloze vennootschap N.V. GAZO, de W.M.O., het Zuiveringschap West Overijssel, de N.V. Nederlandse Gasunie, en anderen zoals bedoeld in punt *h* van lid 1 van dit artikel, zijn aansprakelijk voor schade aan eigendommen van de gemeente, veroorzaakt door het gebruik maken van de in het vorige lid omschreven bevoegdheden.

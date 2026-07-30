@@ -9,7 +9,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052861"
-opgehaald: 2026-07-29
+opgehaald: 2026-07-30
 ---
 
 # Beleidsregel van de Staatssecretaris van Financiën van 10 juli 2026, kenmerk 2026-280814 betreffende de uitvoering van de brede ondersteuning in het buitenland overeenkomstig afdeling 2.4 van de Wet hersteloperatie toeslagen

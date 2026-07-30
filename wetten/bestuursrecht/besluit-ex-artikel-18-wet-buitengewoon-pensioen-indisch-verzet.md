@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 23 oktober 1986, houdende regels betreffende het geneeskundig onderzoek, bedoeld in artikel 18 van de Wet buitengewoon pensioen Indisch verzet"
+citeertitel: "Besluit ex artikel 18 Wet buitengewoon pensioen Indisch verzet"
 identifier: "BWBR0004039"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004039"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "391263"
-version_id: "576532"
-internal_id: "C27837221"
-label_id: "381634"
-dtd_version: "2.0"
-original_entry_into_force: "1986-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004039/2011-01-01/0"
-intitule_bron: "Stb.1986-596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-10-23"
-intitule_status: "goed"
-original_publication: "Stb.1986-596"
-original_signed_date: "1986-10-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-12-25"
-jci_1_3: "jci1.3:c:BWBR0004039&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0004039&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 18 Wet buitengewoon pensioen Indisch verzet"
-signed_date: "1986-10-23"
-entry_into_force: "1986-12-25"
+publicatiedatum: 1986-12-25
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0004039"
+opgehaald: 2026-07-30
 ---
+
 # Besluit van 23 oktober 1986, houdende regels betreffende het geneeskundig onderzoek, bedoeld in artikel 18 van de Wet buitengewoon pensioen Indisch verzet
-
-Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 17 juli 1986, Directie Verzetsdeelnemers en Vervolgden, nr. U 8604 I;
-
-Gelet op [artikel 18 van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=18) (**Stb.** 1986, 360);
-
-Gehoord de Buitengewone Pensioenraad en de Stichting Pelita;
-
-De Raad van State gehoord (advies van 21 augustus 1986, nr. W13.86.0397);
-
-Gezien het nader rapport van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 13 oktober 1986, Directie Verzetsdeelnemers en Vervolgden, nr. 8870;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -66,7 +36,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -106,6 +76,4 @@ Vervallen
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1983.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1983.

@@ -1,49 +1,42 @@
 ---
 title: "Regeling bescherming persoonsgegevens Indische geïnterneerden"
+citeertitel: "Regeling bescherming persoonsgegevens Indische geïnterneerden."
 identifier: "BWBR0003494"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1982-05-29"
-last_updated: "1982-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003494"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3745463"
-version_id: "5528422"
-internal_id: "C5721511"
-label_id: "3725304"
-dtd_version: "2.0"
-original_entry_into_force: "1982-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003494/1982-05-29/0"
-intitule_bron: "Stcrt.1982-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-05-12"
-intitule_published: "1982-05-28"
-intitule_in_force: "1982-05-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-100"
-original_signed_date: "1982-05-12"
-original_published_date: "1982-05-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1982-05-29"
-jci_1_3: "jci1.3:c:BWBR0003494&z=1982-05-29&g=1982-05-29"
-jci_1_0: "1.0:c:BWBR0003494&g=1982-05-29"
-citeertitel_status: "officieel"
-short_title: "Regeling bescherming persoonsgegevens Indische geïnterneerden."
-signed_date: "1982-05-12"
-entry_into_force: "1982-05-29"
+publicatiedatum: 1982-05-29
+laatste_update: 1982-05-29
+status: geldig
+toestand: 1982-05-29
+bron: "https://wetten.overheid.nl/BWBR0003494"
+opgehaald: 2026-07-30
 ---
+
 # Regeling bescherming persoonsgegevens Indische geïnterneerden
-
-Overwegende, dat ten behoeve van de uitvoering van de [Uitkeringswet Indische geïnterneerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003419) (Stb. 1981, 477) persoonsgegevens worden opgeslagen in een geautomatiseerde registratie;
-
-Gelet op de [Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen, bij de rijksoverheid](onbekend) (Stcrt. 1975, nr. 50);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+‘het Ministerie’:
+
+het Ministerie van Binnenlandse Zaken;
+
+‘de registratie’:
+
+de bij de afdeling Overzeese Pensioenen van het Ministerie gevoerde geautomatiseerde administratie van personen die een aanvraag hebben ingediend om een eenmalige uitkering op grond van de [Uitkeringswet Indische geïnterneerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003419);
+
+‘de houder’:
+
+de chef van de afdeling Overzeese Pensioenen van het Ministerie;
+
+‘de aanvrager’:
+
+de aanvrager van een uitkering op grond van de [Uitkeringswet Indische geïnterneerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003419);
+
+‘de uitvoerder’:
+
+het Rijks Computercentrum.
 
 ##### Artikel 2. Doelstelling van de registratie
 
@@ -105,7 +98,7 @@ De in de registratie opgenomen gegevens worden alleen in het kader van de in [ar
 
 ##### Artikel 10. Beveiliging
 
-De houder ziet erop toe, dat ten aanzien van de organisatie en de beveiliging alle maatregelen genomen zijn en in acht worden genomen die zijn voorgeschreven in de [artikelen 17](onbekend), [18](onbekend), [19](onbekend), [20](onbekend), [21](onbekend), [22](onbekend), [23](onbekend) en [24 van de ‘Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen, bij de rijksoverheid](onbekend)’. (Stcrt. 1975, nr. 50).
+De houder ziet erop toe, dat ten aanzien van de organisatie en de beveiliging alle maatregelen genomen zijn en in acht worden genomen die zijn voorgeschreven in de artikelen 17, 18, 19, 20, 21, 22, 23 en 24 van de ‘Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen, bij de rijksoverheid’. (Stcrt. 1975, nr. 50).
 
 ##### Artikel 11. Inzage van de regeling
 

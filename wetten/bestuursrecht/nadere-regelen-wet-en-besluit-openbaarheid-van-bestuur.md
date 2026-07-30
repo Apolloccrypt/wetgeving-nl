@@ -1,42 +1,17 @@
 ---
 title: "Nadere regelen Wet en Besluit openbaarheid van bestuur"
 identifier: "BWBR0003305"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1980-04-21"
-last_updated: "1980-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0003305"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "3949983"
-version_id: "5713042"
-internal_id: "C5907151"
-label_id: "3929834"
-dtd_version: "2.0"
-original_entry_into_force: "1980-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0003305/1980-04-21/0"
-intitule_bron: "Stcrt.1980-65"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1980-03-25"
-intitule_published: "1980-04-01"
-intitule_in_force: "1980-04-01"
-intitule_status: "goed"
-original_publication: "Stcrt.1980-65"
-original_signed_date: "1980-03-25"
-original_published_date: "1980-04-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1980-04-21"
-jci_1_3: "jci1.3:c:BWBR0003305&z=1980-04-21&g=1980-04-21"
-jci_1_0: "1.0:c:BWBR0003305&g=1980-04-21"
-citeertitel_status: "officieel"
-signed_date: "1980-03-25"
-entry_into_force: "1980-04-21"
+publicatiedatum: 1980-04-21
+laatste_update: 1980-04-21
+status: geldig
+toestand: 1980-04-21
+bron: "https://wetten.overheid.nl/BWBR0003305"
+opgehaald: 2026-07-30
 ---
+
 # Nadere regelen Wet en Besluit openbaarheid van bestuur
-
-Besluit:
-
-vast te stellen de beschikking, houdende nadere regelen ter uitvoering van de Wet en het Besluit openbaarheid van bestuur:
 
 ##### Artikel 1
 
@@ -111,5 +86,3 @@ Met de inning van gelden, verschuldigd voor verstrekte fotocopieën volgens de t
 ##### Artikel 10
 
 De ambtenaar, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003305&artikel=3&z=1980-04-21&g=1980-04-21), draagt behoudens de in dat artikel en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003305&artikel=6&z=1980-04-21&g=1980-04-21) reeds aan hem opgedragen taken de verantwoordelijkheid voor de interne coördinatie bij de uitvoering van [de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), een en ander overeenkomstig de hem bij zijn aanstelling verstrekte taakopdracht. Hij staat het Hoofd VDB bij in de taken, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003305&artikel=7&z=1980-04-21&g=1980-04-21) van deze beschikking.
-
-Deze beschikking zal worden gepubliceerd in de Nederlandse Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer.
