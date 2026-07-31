@@ -1,50 +1,20 @@
 ---
 title: "Besluit van 7 juli 1987, houdende regels inzake de vergoeding voor en de buitengebruikstelling van oude eigendoms- en huurscholen"
+citeertitel: "Besluit oude eigendoms- en huurscholen WPO"
 identifier: "BWBR0004190"
-country: "nl"
-rank: "amvb"
-publication_date: "2006-03-08"
-last_updated: "2006-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004190"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "800053"
-version_id: "1160822"
-internal_id: "C1160821"
-label_id: "775434"
-dtd_version: "2.0"
-original_entry_into_force: "1986-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004190/2006-03-08/0"
-intitule_bron: "Stb.1987-353"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-07"
-intitule_status: "goed"
-original_publication: "Stb.1987-353"
-original_signed_date: "1987-07-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-01-01"
-jci_1_3: "jci1.3:c:BWBR0004190&z=2006-03-08&g=2006-03-08"
-jci_1_0: "1.0:c:BWBR0004190&g=2006-03-08"
-citeertitel_status: "officieel"
-short_title: "Besluit oude eigendoms- en huurscholen WPO"
-signed_date: "1987-07-07"
-entry_into_force: "1986-01-01"
+publicatiedatum: 1986-01-01
+laatste_update: 2006-03-08
+status: geldig
+toestand: 2006-03-08
+bron: "https://wetten.overheid.nl/BWBR0004190"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 7 juli 1987, houdende regels inzake de vergoeding voor en de buitengebruikstelling van oude eigendoms- en huurscholen
 
-Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen van 9 maart 1987, nr. 8551/2353, centrale directie Wetgeving en Juridische Zaken;
-
-Gelet op artikel E 35, vierde lid, van de Overgangswet WBO (**Stb.** 1986, 257);
-
-Gehoord de Onderwijsraad (advies van 24 december 1985, nr. O.R. 1/97 P);
-
-De Raad van State gehoord (advies van 23 april 1987, nr. W05.87.0096);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs en Wetenschappen van 3 juli 1987, nr. 9003/2353, centrale directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
-### Afdeling I. Algemene bepalingen
+#### Afdeling I. Algemene bepalingen
 
 ##### Artikel 1. Definities
 
@@ -70,7 +40,7 @@ Schattingen welke ingevolge dit besluit dienen plaats te vinden, geschieden door
 
 De vergoedingen, bedoeld in [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&z=2006-03-08&g=2006-03-08), zijn niet langer verschuldigd wanneer de gemeente de eigendom van het gebouw en terrein verkrijgt of wanneer het gebouw en terrein niet meer door een basisschool worden gebruikt.
 
-### Afdeling II. Eigendomsscholen
+#### Afdeling II. Eigendomsscholen
 
 #### § 1. Eigendomsscholen als bedoeld in artikel 205 van de Lager-onderwijswet 1920 (Stb. 1974, 565)
 
@@ -82,7 +52,7 @@ De vergoedingen, bedoeld in [afdeling II](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. De waarde van de gebouwen en terreinen die na 1 juli 1914 zijn uitgebreid of waarvan de inrichting na 1 juli 1914 is gewijzigd, wordt met inachtneming van die uitbreiding of wijziging aangepast op gelijke wijze als in het eerste en het tweede lid is aangegeven ten aanzien van de waarde van de gebouwen, terreinen en het meubilair.
 
-4. Voor de toepassing van dit artikel worden onder gebouwen en terreinen van een bijzondere school in aanbouw verstaan, de gebouwen en terreinen van een bijzondere school waarvan de ontwerpen voor 1 januari 1921 overeenkomstig artikel 1 van het koninklijk besluit van 25 juni 1912 (**Stb.** 193) bij het rijksschooltoezicht werden ingediend en die voor 1 juli 1923 zijn voltooid.
+4. Voor de toepassing van dit artikel worden onder gebouwen en terreinen van een bijzondere school in aanbouw verstaan, de gebouwen en terreinen van een bijzondere school waarvan de ontwerpen voor 1 januari 1921 overeenkomstig artikel 1 van het koninklijk besluit van 25 juni 1912 (*Stb.* 193) bij het rijksschooltoezicht werden ingediend en die voor 1 juli 1923 zijn voltooid.
 
 ##### Artikel 6. Hoogte vergoeding
 
@@ -110,7 +80,7 @@ De vergoedingen, bedoeld in [afdeling II](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 10. Buitengebruikstelling gebouw of terrein van een bijzondere school
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11. Vervreemding en buitengebruikstelling
 
@@ -148,7 +118,7 @@ Voor de gebouwen of lokalen en inventaris, bedoeld in artikel 126 van de Kleuter
 
 ##### Artikel 14. Buitengebruikstelling gebouw of terrein van een bijzondere school
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Vervreemding en buitengebruikstelling
 
@@ -162,7 +132,7 @@ Vervallen
 
 5. Indien het bevoegd gezag in de onmogelijkheid verkeert het gebouw en terrein tegen een zodanige prijs te verkopen of op andere wijze daaruit zodanige inkomsten te verwerven, dat uit de opbrengst het verschuldigde bedrag kan worden terugbetaald, kan het bevoegd gezag aan zijn verplichtingen voldoen door overdracht van het gebouw en terrein aan de gemeente, dan wel door betaling aan de gemeente van een door gedeputeerde staten vast te stellen vergoeding.
 
-### Afdeling III. Andere scholen
+#### Afdeling III. Andere scholen
 
 #### § 1. Scholen als bedoeld in de artikelen 84 en 205bis van de Lager-onderwijswet 1920
 
@@ -170,7 +140,7 @@ Vervallen
 
 1. Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 84 van de Lager-onderwijswet 1920, betaalt de gemeente jaarlijks aan het bevoegd gezag een vergoeding, berekend over de geschatte waarde van de lokalen, terreinen en het meubilair. De berekening, bedoeld in de eerste volzin, geschiedt naar de maatstaf van het tarief, dat door Onze Minister van Financiën wordt gehanteerd per ultimo van een kalenderjaar voor het afsluiten van 40-jarige onderhandse leningen onder garantie van de Staat der Nederlanden.
 
-2. Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 205**bis** van de Lager-onderwijswet 1920, betaalt de gemeente aan het bevoegd gezag de verschuldigde en betaalde huur. Indien burgemeester en wethouders bezwaar hebben tegen de hoogte van de huursom, brengen zij die som terug tot het bedrag dat naar hun oordeel met de normale huurwaarde overeenkomt. In geval van verschil wordt dit bedrag geschat op de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08). Wanneer door de gemeente de huur wordt vergoed, blijven voor de toepassing van [artikel 134 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=134) de kosten van gebouwonderhoud buiten aanmerking.
+2. Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 205*bis* van de Lager-onderwijswet 1920, betaalt de gemeente aan het bevoegd gezag de verschuldigde en betaalde huur. Indien burgemeester en wethouders bezwaar hebben tegen de hoogte van de huursom, brengen zij die som terug tot het bedrag dat naar hun oordeel met de normale huurwaarde overeenkomt. In geval van verschil wordt dit bedrag geschat op de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08). Wanneer door de gemeente de huur wordt vergoed, blijven voor de toepassing van [artikel 134 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=134) de kosten van gebouwonderhoud buiten aanmerking.
 
 ##### Artikel 17. Herschatting
 
@@ -190,29 +160,29 @@ Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond 
 
 3. Indien burgemeester en wethouders bezwaar hebben tegen de hoogte van de huursom, brengen zij die som terug tot het bedrag dat naar hun oordeel met de normale huurwaarde overeenkomt. In geval van geschil wordt dit bedrag geschat overeenkomstig het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=I&artikel=3&z=2006-03-08&g=2006-03-08).
 
-### Afdeling IV
+#### Afdeling IV
 
 ##### Artikel 20. Omschrijving lokalen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21. Vergoeding
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22. Vergoeding
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23. Omvang vergoeding
 
-Vervallen
+*Vervallen*
 
-### Afdeling V. Slotbepalingen
+#### Afdeling V. Slotbepalingen
 
 ##### Artikel 24. Overgangsbepaling
 
-Met besluiten als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=6&z=2006-03-08&g=2006-03-08), worden de koninklijke besluiten ingevolge artikel 205, tweede lid, van de Lager-onderwijswet 1920 (**Stb.** 1974, 565) en de ministeriële besluiten ingevolge artikel 3 van de Regeling vergoeding en buitengebruikstelling oude eigendomsscholen en huurscholen (**Stcrt.** 1985, 175) gelijkgesteld.
+Met besluiten als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=6&z=2006-03-08&g=2006-03-08), worden de koninklijke besluiten ingevolge artikel 205, tweede lid, van de Lager-onderwijswet 1920 (*Stb.* 1974, 565) en de ministeriële besluiten ingevolge artikel 3 van de Regeling vergoeding en buitengebruikstelling oude eigendomsscholen en huurscholen (*Stcrt.* 1985, 175) gelijkgesteld.
 
 ##### Artikel 25. Inwerkingtreding
 
@@ -221,5 +191,3 @@ Met inachtneming van het bepaalde in artikel E 35, vijfde lid, van de Overgangsw
 ##### Artikel 26. Citeertitel
 
 Dit besluit kan worden aangehaald als "Besluit oude eigendoms- en huurscholen WPO".
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.

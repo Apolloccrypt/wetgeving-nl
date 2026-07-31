@@ -1,40 +1,17 @@
 ---
 title: "Regeling loonbelasting- en premietabellen 1990"
 identifier: "BWBR0004482"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004482"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "1035143"
-version_id: "11341642"
-internal_id: "C34834461"
-label_id: "1002824"
-dtd_version: "2.0"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004482/2026-01-01/0"
-intitule_bron: "Stcrt.1989-253"
-intitule_effect: "nieuwe-regeling"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-249"
-original_signed_date: "2004-12-17"
-original_published_date: "2004-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2004-249-p25-SC68014"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0004482&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0004482&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2004-12-17"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0004482"
+opgehaald: 2026-07-31
 ---
+
 # Regeling loonbelasting- en premietabellen 1990
-
-Gelet op de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [27 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) (Stb. 521), [artikel 15 van de Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538&artikel=15) (Stb. 1989, 129) en [artikel 7 van het Uitvoeringsbesluit loonbelasting 1965](onbekend) (Stb. 202);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -68,7 +45,7 @@ Als loonbelasting- en premietabellen en als loonbelasting- en premietabellen voo
 
 ##### Artikel 2a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -88,15 +65,15 @@ een en ander tenzij op dat loon de in [artikel 2, onderdeel f](https://wetten.ov
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4a
 
-Door vernummering vervallen.
+*Door vernummering vervallen.*
 
 ##### Artikel 5
 
-1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2026-01-01&g=2026-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
+1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2026-01-01&g=2026-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
 
 2. Bij de in het eerste lid bedoelde herrekening wordt ten aanzien van de werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt rekening gehouden met de algemene heffingskorting. Bij die herrekening wordt ten aanzien van de werknemer die die pensioengerechtigde leeftijd heeft bereikt rekening gehouden met de algemene heffingskorting en de ouderenkorting en, als deze werknemer een uitkering ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) geniet volgens de normen voor een alleenstaande of een alleenstaande ouder, bovendien met de alleenstaande ouderenkorting. De heffingskortingen worden in aanmerking genomen naar rato van de periode waarover in het kalenderjaar loon van de inhoudingsplichtige is genoten.
 
@@ -128,7 +105,7 @@ Q bedraagt: 55,64% voor werknemers die de pensioengerechtigde leeftijd, bedoeld 
 
 ##### Artikel 5a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -151,51 +128,3 @@ De tabellen, bedoeld in deze regeling, worden gepubliceerd op www.belastingdiens
 1. Deze regeling treedt in werking met ingang van 1 januari 1990.
 
 2. Deze regeling kan worden aangehaald als: Regeling loonbelasting- en premietabellen 1990.
-
-## Bijlage A
-
-Vervallen
-
-## Bijlage B
-
-Vervallen
-
-## Bijlage C
-
-Vervallen
-
-## Bijlage D
-
-Vervallen
-
-## Bijlage E
-
-Vervallen
-
-## Bijlage F
-
-Vervallen
-
-## Bijlage G
-
-Vervallen
-
-## Bijlage H
-
-Vervallen
-
-## Bijlage I
-
-Vervallen
-
-## Bijlage J
-
-Vervallen
-
-## Bijlage K
-
-Vervallen
-
-## Bijlage L
-
-Ligt ter inzage bij de Directie Wetgeving directe belastingen van het Ministerie van Financiën.

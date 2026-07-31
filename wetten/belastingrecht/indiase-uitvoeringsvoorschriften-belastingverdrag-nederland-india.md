@@ -1,44 +1,17 @@
 ---
 title: "Indiase uitvoeringsvoorschriften belastingverdrag Nederland-India"
 identifier: "BWBR0004876"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-12-01"
-last_updated: "1990-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004876"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3713363"
-version_id: "5496232"
-internal_id: "C5689321"
-label_id: "3693114"
-dtd_version: "2.0"
-original_entry_into_force: "1990-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004876/1990-12-01/0"
-intitule_bron: "Stcrt.1990-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-10-09"
-intitule_published: "1990-10-09"
-intitule_in_force: "1990-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-196"
-original_signed_date: "1990-10-09"
-original_published_date: "1990-10-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-12-01"
-jci_1_3: "jci1.3:c:BWBR0004876&z=1990-12-01&g=1990-12-01"
-jci_1_0: "1.0:c:BWBR0004876&g=1990-12-01"
-citeertitel_status: "officieel"
-signed_date: "1990-10-09"
-entry_into_force: "1990-12-01"
+publicatiedatum: 1990-12-01
+laatste_update: 1990-12-01
+status: geldig
+toestand: 1990-12-01
+bron: "https://wetten.overheid.nl/BWBR0004876"
+opgehaald: 2026-07-31
 ---
+
 # Indiase uitvoeringsvoorschriften belastingverdrag Nederland-India
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-Regeling inzake vermindering en vrijstelling van Indiase belasting op dividenden, interest, royalty's, vergoedingen voor technische diensten en vergoedingen voor het gebruik van uitrusting, genoten door inwoners van Nederland.
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 

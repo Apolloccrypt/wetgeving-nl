@@ -1,49 +1,18 @@
 ---
 title: "Aanwijzingen inzake de inzet van de krijgsmacht in de Nederlandse Antillen en Aruba"
+citeertitel: "Aanwijzingen inzake de inzet van de krijgsmacht in Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0004185"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004185"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "3694363"
-version_id: "5477302"
-internal_id: "C5670391"
-label_id: "3674184"
-dtd_version: "2.0"
-original_entry_into_force: "1987-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004185/2010-10-10/0"
-intitule_bron: "Stcrt.1987-155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-03"
-intitule_published: "1987-08-14"
-intitule_in_force: "1987-08-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-155"
-original_signed_date: "1987-07-03"
-original_published_date: "1987-08-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-07-03"
-jci_1_3: "jci1.3:c:BWBR0004185&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0004185&g=2010-10-10"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzingen inzake de inzet van de krijgsmacht in Aruba, Curaçao en Sint Maarten"
-signed_date: "1987-07-03"
-entry_into_force: "1987-07-03"
+publicatiedatum: 1987-07-03
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0004185"
+opgehaald: 2026-07-31
 ---
+
 # Aanwijzingen inzake de inzet van de krijgsmacht in de Nederlandse Antillen en Aruba
-
-Op voordracht van Onze minister van Defensie, Directie Juridische Zaken, Afdeling Wetgeving en Publiekrecht, nr. C 86/460, van 26 juni 1987, mede namens Onze minister voor Nederlands-Antilliaanse en Arubaanse Zaken;
-
-Overwegende, dat het wenselijk is de gouverneurs aanwijzingen te geven ten aanzien van de inzet van de krijgsmacht in de Nederlandse Antillen, onderscheidenlijk Aruba;
-
-Gelet op [artikel 15 van het Reglement voor de gouverneur van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0002175&artikel=15), onderscheidenlijk Aruba (Stb. 1985, 674 en Stb. 1985, 671);
-
-Artikel 10 van het Statuut in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -68,5 +37,3 @@ De koninklijke besluiten van 26 november 1969, nr. 2, en van 26 november 1977, n
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de datum van ondertekening.
-
-Onze minister van Defensie is belast met de uitvoering van dit besluit dat in de Nederlandse Staatscourant, de Curaçaosche Courant en de Landscourant van Aruba zal worden geplaatst.

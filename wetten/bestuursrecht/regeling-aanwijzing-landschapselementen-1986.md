@@ -1,56 +1,47 @@
 ---
 title: "Regeling aanwijzing landschapselementen 1986"
 identifier: "BWBR0004209"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-01-04"
-last_updated: "1992-01-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004209"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4302853"
-version_id: "6065552"
-internal_id: "C6269161"
-label_id: "4281384"
-dtd_version: "2.0"
-original_entry_into_force: "1987-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004209/1992-01-04/0"
-intitule_bron: "Stcrt.1987-174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-09-07"
-intitule_published: "1987-09-10"
-intitule_in_force: "1987-09-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-174"
-original_signed_date: "1987-09-07"
-original_published_date: "1987-09-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-09-11"
-jci_1_3: "jci1.3:c:BWBR0004209&z=1992-01-04&g=1992-01-04"
-jci_1_0: "1.0:c:BWBR0004209&g=1992-01-04"
-citeertitel_status: "officieel"
-signed_date: "1987-09-07"
-entry_into_force: "1987-09-11"
+publicatiedatum: 1987-09-11
+laatste_update: 1992-01-04
+status: geldig
+toestand: 1992-01-04
+bron: "https://wetten.overheid.nl/BWBR0004209"
+opgehaald: 2026-07-31
 ---
+
 # Regeling aanwijzing landschapselementen 1986
-
-Gelet op [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&artikel=1), en [artikel 2 van de Regeling onderhoudsovereenkomsten landschapselementen](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&artikel=2) (Stcrt. 1977, 182)1Laatstelijk gewijzigd bij besluit van 7 september 1987, nr. J. 1922, Stcrt. 174.;
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
+boselementen:
+
+hakhoutbos, geriefbos en niet op rij staande boomgroepen voor zover kleiner dan 1 ha, alsmede solitaire beuken, eiken, elzen, essen, esdoorns, espen, grove dennen, iepen, linden, tamme- en paardekastanjes, wilgen en zwarte populieren;
+
+natuurelementen:
+
+heidevelden, rietlanden, ruigten, boezemlanden, grienden en moerassen voor zover kleiner dan 1 ha en niet deel uitmakend van een bos groter dan 5 ha;
+
+kleine wateren:
+
+vennen, pingo's, dobben, petgaten, wielen, kolken, poelen en veenputten voor zover kleiner dan 1 ha;
+
+bomenrijen:
+
+bomenrijen, behoudens voor zover deze bestaan uit niet geknotte populieren.
+
 ##### Artikel 2
 
 1. Voor een onderhoudsovereenkomst als bedoeld in de [Regeling onderhoudsovereenkomsten landschapselementen](https://wetten.overheid.nl/jci1.3:c:BWBR0003126) komen in aanmerking de in de volgende gebieden voorkomende en nader aangeduide landschapselementen, voor zover gelegen in de agrarische cultuurlandschappen, te weten:
 
-**in Groningen**
+in Groningen
 
 Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, natuurelementen en kleine wateren;
 
-**in Friesland**
+in Friesland
 
 - 1. Terschelling – houtsingels, bomenrijen, boselementen, natuurelementen en kleine wateren;
 
@@ -58,7 +49,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 3. Gaasterland – houtwallen, houtsingels, hagen, boselementen, natuurelementen en kleine wateren;
 
-**in Drenthe**
+in Drenthe
 
 - 1. Roden-Norg – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;
 
@@ -68,7 +59,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 4. Zuid-West Drenthe – houtwallen, houtsingels, boselementen, kleine wateren en natuurelementen;
 
-**in Overijssel**
+in Overijssel
 
 - 1. Noord-West Overijssel – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;
 
@@ -84,7 +75,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 7. Omgeving Deventer – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;
 
-**in Gelderland**
+in Gelderland
 
 - 1. Uiterwaarden van de IJssel van Zalk tot Hattem – boselementen, natuurelementen, kleine wateren en hagen;
 
@@ -126,7 +117,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 20. Groesbeek – houtwallen, houtsingels, steilrandbeplantingen, bomenrijen, hagen, natuurelementen, boselementen en kleine wateren;
 
-**in Utrecht**
+in Utrecht
 
 - 1. Loosdrecht-Westbroek – houtwallen, boselementen, natuurelementen, kleine wateren en bomenrijen;
 
@@ -144,7 +135,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 8. Lopikerwaard – houtkaden, bomenrijen, boselementen, natuurelementen en kleine wateren;
 
-**in Noord-Holland**
+in Noord-Holland
 
 - 1. Texel – houtwallen, tuinwallen, houtsingels, boselementen, natuurelementen en kleine wateren;
 
@@ -154,7 +145,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 4. Gooise Engen – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;
 
-**in Zuid-Holland**
+in Zuid-Holland
 
 - 1. Krimpenerwaard – houtkaden, bomenrijen, boselementen, natuurelementen, kleine wateren en houtsingels;
 
@@ -166,7 +157,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 5. Goeree-Overflakkee – boselementen, natuurelementen, kleine wateren, bloemdijken, schurvelingen en bomenrijen;
 
-**in Zeeland**
+in Zeeland
 
 - 1. Zuid-Beveland – hagen, boselementen, natuurelementen, kleine wateren, bloemdijken en bomenrijen;
 
@@ -180,7 +171,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 6. Tholen – hagen, boselementen, natuurelementen, bomenrijen, bloemdijken, kreken en kleine wateren;
 
-**in Noord-Brabant**
+in Noord-Brabant
 
 - 1. Maaskant – houtsingels, hagen, boselementen, natuurelementen en kleine wateren;
 
@@ -192,7 +183,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 - 5. Stroomgebied van de Mark – houtwallen, houtsingels, bomenrijen, boselementen, natuurelementen, kleine wateren en beken;
 
-**in Limburg**
+in Limburg
 
 - 1. Bergen – hagen, houtsingels, boselementen, natuurelementen en kleine wateren;
 
@@ -226,11 +217,11 @@ De aanwijzing in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 

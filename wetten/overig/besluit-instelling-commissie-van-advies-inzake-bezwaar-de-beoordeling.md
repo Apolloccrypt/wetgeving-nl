@@ -1,48 +1,17 @@
 ---
 title: "Besluit instelling Commissie van Advies inzake bezwaar de beoordeling"
 identifier: "BWBR0005144"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-09-01"
-last_updated: "1991-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005144"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4229933"
-version_id: "5993552"
-internal_id: "C6196941"
-label_id: "4208704"
-dtd_version: "2.0"
-original_entry_into_force: "1991-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005144/1991-09-01/0"
-intitule_bron: "Stcrt.1991-176"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-07-15"
-intitule_published: "1991-09-11"
-intitule_in_force: "1991-09-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-176"
-original_signed_date: "1991-07-15"
-original_published_date: "1991-09-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-09-01"
-jci_1_3: "jci1.3:c:BWBR0005144&z=1991-09-01&g=1991-09-01"
-jci_1_0: "1.0:c:BWBR0005144&g=1991-09-01"
-citeertitel_status: "officieel"
-signed_date: "1991-07-15"
-entry_into_force: "1991-09-01"
+publicatiedatum: 1991-09-01
+laatste_update: 1991-09-01
+status: geldig
+toestand: 1991-09-01
+bron: "https://wetten.overheid.nl/BWBR0005144"
+opgehaald: 2026-07-31
 ---
+
 # Besluit instelling Commissie van Advies inzake bezwaar de beoordeling
-
-Overwegende, dat in de praktijk is gebleken dat het voor een optimaal functioneren van de Commissie van Advies inzake bezwaar tegen de beoordeling gewenst is, dat deze een permanent karakter draagt;
-
-Overwegende dat deze commissie zal bestaan uit een voor onbepaalde tijd te benoemen voorzitter, een aantal plaatsvervangend voorzitters, een aantal leden als vertegenwoordigers van de Minister en de Algemeen Inspecteur van het Korps Rijkspolitie, alsmede een aantal leden als vertegenwoordigers van de tot de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken toegelaten centrales van verenigingen van ambtenaren en als vertegenwoordigers van de tot de Commissie voor georganiseerd overleg in politieambtenarenzaken toegelaten verenigingen van politieambtenaren afdeling rijkspolitie;
-
-Overwegende dat de commissie in zijn werkzaamheden zal worden bijgestaan door een voor onbepaalde tijd te benoemen aantal beoordelingsadviseurs, een secretaris en een plaatsvervangend secretaris;
-
-Gelet op de artikelen 8 en 9 van het Beoordelingsvoorschrift Ministerie van Justitie 1987 alsmede op de artikelen 8 en 9 van het Beoordelingsvoorschrift Rijkspolitie 1990;
-
-Besluit:
 
 ##### Artikel I. Instelling
 
@@ -54,13 +23,13 @@ De Commissie van Advies gaat na of er, bij het opmaken van de beoordeling alsmed
 
 ##### Artikel III. Samenstelling
 
-**Voorzitter:**
+*Voorzitter:*
 
 Tot voorzitter van de commissie wordt benoemd:
 
 mr. A. B. M. Borgart, raadsheer in het Gerechtshof te 'sGravenhage.
 
-**Plaatsvervangend voorzitter:**
+*Plaatsvervangend voorzitter:*
 
 Tot plaatsvervangend voorzitter van de commissie worden benoemd:
 
@@ -68,11 +37,11 @@ mr. J. Borgesius, raadsheer in het Gerechtshof te 's-Gravenhage;
 
 mw. mr. G. J. Schlingemann-Vermeulen, raadsheer in het Gerechtshof te 's-Hertogenbosch.
 
-**Leden:**
+*Leden:*
 
 Tot leden van de commissie worden benoemd:
 
-**A. Aangewezen door de Minister van Justitie:**
+*A. Aangewezen door de Minister van Justitie:*
 
 A. Hagedoorn, Directie Jeugdbescherming en Reclassering van het Ministerie van Justitie;
 
@@ -90,7 +59,7 @@ mw. mr. E. Portegies-Damave, Directie Politie van het Ministerie van Justitie;
 
 mr. M. Scholtz, Directie Politie van het Ministerie van Justitie.
 
-**B. Aangewezen door de Algemene Inspecteur van het Korps Rijkspolitie:**
+*B. Aangewezen door de Algemene Inspecteur van het Korps Rijkspolitie:*
 
 J. Kleppers, Algemene Inspectie van het Korps Rijkspolitie;
 
@@ -98,7 +67,7 @@ mw. drs. O. H. M. Knoet-Vrehen, Algemene Inspectie van het Korps Rijkspolitie;
 
 R. Linthorst, Algemene Inspectie van het Korps Rijkspolitie;
 
-**Aangewezen op voordracht van de tot de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken toegelaten centrales van verenigingen van ambtenaren:**
+*Aangewezen op voordracht van de tot de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken toegelaten centrales van verenigingen van ambtenaren:*
 
 J. F. W. van Berkom namens de ABVA/KABO;
 
@@ -118,7 +87,7 @@ Th. H. Somers namens het Ambtenarencentrum;
 
 P. Wiechmann namens het Ambtenarencentrum;
 
-**Aangewezen op voordracht van de tot de Commissie voor Georganiseerd Overleg in Politieambtenarenzaken toegelaten verenigingen van politieambtenaren afdeling Rijkspolitie:**
+*Aangewezen op voordracht van de tot de Commissie voor Georganiseerd Overleg in Politieambtenarenzaken toegelaten verenigingen van politieambtenaren afdeling Rijkspolitie:*
 
 A. van Es namens de Algemene Christelijke Politiebond;
 
@@ -130,7 +99,7 @@ B. J. C. Schot namens de Nederlandse Politie Bond.
 
 ##### Artikel IV. Personele ondersteuning
 
-**A. De commissie wordt bijgestaan door één van de navolgende personeelsfunctionarissen, deskundig op het gebied van personeelsbeoordeling:**
+*A. De commissie wordt bijgestaan door één van de navolgende personeelsfunctionarissen, deskundig op het gebied van personeelsbeoordeling:*
 
 C. J. de Bock, Directie Delinquentenzorg en Jeugdinrichtingen van het Ministerie van Justitie;
 
@@ -162,11 +131,11 @@ mw. S. Wijga, Hoofddirectie Organisatie Rechtspleging en Rechtshulp;
 
 G. J. M. van Zelst, Korps Rijkspolitie.
 
-**B. Tot secretaris van de commissie wordt aangewezen:**
+*B. Tot secretaris van de commissie wordt aangewezen:*
 
 mr. A. A. in 't Veen, Centrale Directie Personeelszaken van het Ministerie van Justitie.
 
-**C. Tot plaatsvervangend secretaris van de commissie wordt aangewezen:**
+*C. Tot plaatsvervangend secretaris van de commissie wordt aangewezen:*
 
 A. F. Belling, Centrale Directie Personeelszaken van het Ministerie van Justitie.
 

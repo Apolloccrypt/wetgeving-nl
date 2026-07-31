@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 27 februari 1987, houdende intrekking en vervanging van de Regeling financiële voorzieningen overgang Surinaamse krijgsmacht"
+citeertitel: "Regeling financiële voorzieningen overgang Surinaamse krijgsmacht"
 identifier: "BWBR0004120"
-country: "nl"
-rank: "amvb"
-publication_date: "1982-12-08"
-last_updated: "1982-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004120"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "734563"
-version_id: "1071082"
-internal_id: "C1071081"
-label_id: "711634"
-dtd_version: "2.0"
-original_entry_into_force: "1982-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004120/1982-12-08/0"
-intitule_bron: "Stb.1987-126"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-02-27"
-intitule_status: "goed"
-original_publication: "Stb.1987-126"
-original_signed_date: "1987-02-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1982-12-08"
-jci_1_3: "jci1.3:c:BWBR0004120&z=1982-12-08&g=1982-12-08"
-jci_1_0: "1.0:c:BWBR0004120&g=1982-12-08"
-citeertitel_status: "officieel"
-short_title: "Regeling financiële voorzieningen overgang Surinaamse krijgsmacht"
-signed_date: "1987-02-27"
-entry_into_force: "1982-12-08"
+publicatiedatum: 1982-12-08
+laatste_update: 1982-12-08
+status: geldig
+toestand: 1982-12-08
+bron: "https://wetten.overheid.nl/BWBR0004120"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 27 februari 1987, houdende intrekking en vervanging van de Regeling financiële voorzieningen overgang Surinaamse krijgsmacht
-
-Op de voordracht van de Staatssecretaris van Defensie van 1 december 1986, Directie Juridische Zaken, nr. C 86/842;
-
-Overwegende, dat door de regering bij nota van 16 december 1982 (**Stcrt.** van 20 december 1982, nr. 245) aan het Militair Gezag in Suriname onder meer is meegedeeld dat het koninklijk besluit van 9 december 1977 (**Stb.** 1977, 710), inzake de Regeling financiële voorzieningen overgang Surinaamse krijgsmacht zal worden ingetrokken en worden vervangen door een nieuw besluit, zodat geen suppletiebetalingen zullen plaatsvinden aan militairen in actieve Surinaamse krijgsdienst;
-
-De Raad van State gehoord (advies van 27 februari 1987, no. W07.86.0642);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 25 februari 1987, nr. C 86/842;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -90,7 +62,7 @@ Hiervoor dient gebruik te worden gemaakt van een door Onze minister van de gewez
 
 1. De uitkering vervalt met ingang van de dag waarop de gewezen militair:
 
-- a. recht heeft op pensioen krachtens de Algemene militaire pensioenwet (**Stb.** 1979, 305);
+- a. recht heeft op pensioen krachtens de Algemene militaire pensioenwet (*Stb.* 1979, 305);
 
 - b. overlijdt.
 
@@ -116,6 +88,4 @@ De kosten van de uitkering ingevolge dit besluit komen ten laste van Hoofdstuk X
 
 ##### Artikel 11
 
-Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 8 december 1982, met dien verstande dat geen terugvordering plaatsvindt van hetgeen de gewezen militair na de genoemde datum op grond van de regeling heeft ontvangen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 8 december 1982, met dien verstande dat geen terugvordering plaatsvindt van hetgeen de gewezen militair na de genoemde datum op grond van de regeling heeft ontvangen.

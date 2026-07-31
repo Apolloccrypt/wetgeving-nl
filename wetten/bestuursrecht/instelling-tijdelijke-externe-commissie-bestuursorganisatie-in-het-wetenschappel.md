@@ -1,46 +1,29 @@
 ---
 title: "Instelling tijdelijke externe Commissie Bestuursorganisatie in het Wetenschappelijk Onderwijs"
 identifier: "BWBR0005052"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-04-24"
-last_updated: "1991-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005052"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "3800893"
-version_id: "5583742"
-internal_id: "C5776831"
-label_id: "3780624"
-dtd_version: "2.0"
-original_entry_into_force: "1991-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005052/1991-04-24/0"
-intitule_bron: "Uitleg.1991-11a"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-04-08"
-intitule_published: "1991-04-24"
-intitule_in_force: "1991-04-24"
-intitule_status: "goed"
-original_publication: "Uitleg.1991-11a"
-original_signed_date: "1991-04-08"
-original_published_date: "1991-04-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-04-24"
-jci_1_3: "jci1.3:c:BWBR0005052&z=1991-04-24&g=1991-04-24"
-jci_1_0: "1.0:c:BWBR0005052&g=1991-04-24"
-citeertitel_status: "officieel"
-signed_date: "1991-04-08"
-entry_into_force: "1991-04-24"
+publicatiedatum: 1991-04-24
+laatste_update: 1991-04-24
+status: geldig
+toestand: 1991-04-24
+bron: "https://wetten.overheid.nl/BWBR0005052"
+opgehaald: 2026-07-31
 ---
+
 # Instelling tijdelijke externe Commissie Bestuursorganisatie in het Wetenschappelijk Onderwijs
-
-Overwegende, dat het, in het licht van de verzelfstandiging van de hoger onderwijs instellingen, gewenst is dat universiteiten de mogelijkheid krijgen een eigen ‘charter’ op te stellen, en dat het gewenst is dat er een advies wordt uitgebracht door een tijdelijke externe commissie zodat inzicht wordt verkregen in de mogelijkheden die een ‘charter’ biedt, maar ook duidelijk wordt waar de grenzen liggen gelet op de criteria waaraan zal moeten worden voldaan;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
+
+minister:
+
+de Minister van Onderwijs en Wetenschappen
+
+commissie:
+
+de tijdelijke externe commissie ‘bestuursorganisatie in het wetenschappelijk onderwijs’, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005052&artikel=2&z=1991-04-24&g=1991-04-24).
 
 ##### Artikel 2
 

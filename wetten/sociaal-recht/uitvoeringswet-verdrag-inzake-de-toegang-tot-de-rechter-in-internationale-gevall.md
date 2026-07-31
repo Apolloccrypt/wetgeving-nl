@@ -1,49 +1,24 @@
 ---
 title: "Wet van 28 oktober 1991, tot uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de toegang tot de rechter in internationale gevallen en de op 27 januari 1977 te Straatsburg tot stand gekomen Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand"
+citeertitel: "Uitvoeringswet Verdrag inzake de toegang tot de rechter in internationale gevallen en Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand"
 identifier: "BWBR0005247"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005247"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1780443"
-version_id: "2645822"
-internal_id: "C2645821"
-label_id: "1736284"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005247/2013-01-01/0"
-intitule_bron: "Stb.1991-679"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-28"
-intitule_status: "goed"
-original_publication: "Stb.1991-679"
-original_signed_date: "1991-10-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "21497"
-entry_into_force_date: "1992-06-01"
-jci_1_3: "jci1.3:c:BWBR0005247&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0005247&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Verdrag inzake de toegang tot de rechter in internationale gevallen en Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand"
-signed_date: "1991-10-28"
-entry_into_force: "1992-06-01"
+publicatiedatum: 1992-06-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0005247"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 28 oktober 1991, tot uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de toegang tot de rechter in internationale gevallen en de op 27 januari 1977 te Straatsburg tot stand gekomen Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat er aanleiding bestaat om bij de wet regels te stellen tot uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de toegang tot de rechter in internationale gevallen (**Trb.** 1989, 114) en de op 27 januari 1977 te Straatsburg tot stand gekomen Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand (**Trb.** 1989, 116);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeen
 
 ##### Artikel 1
 
-In deze wet wordt verstaan onder "het Verdrag": het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de toegang tot de rechter in internationale gevallen, waarvan de Franse en de Engelse tekst alsmede de Nederlandse vertaling zijn opgenomen in **Tractatenblad** 1989, 114, en onder "de Overeenkomst": de op 27 januari 1977 te Straatsburg tot stand gekomen Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand, waarvan de Franse en de Engelse tekst alsmede de Nederlandse vertaling zijn opgenomen in **Tractatenblad** 1989, 116.
+In deze wet wordt verstaan onder "het Verdrag": het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de toegang tot de rechter in internationale gevallen, waarvan de Franse en de Engelse tekst alsmede de Nederlandse vertaling zijn opgenomen in *Tractatenblad* 1989, 114, en onder "de Overeenkomst": de op 27 januari 1977 te Straatsburg tot stand gekomen Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand, waarvan de Franse en de Engelse tekst alsmede de Nederlandse vertaling zijn opgenomen in *Tractatenblad* 1989, 116.
 
 ##### Artikel 2
 
@@ -83,7 +58,7 @@ De ontvangende centrale autoriteit kan, indien het zulks voor een goede behandel
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -137,7 +112,7 @@ De verzendende autoriteit doet de verzoeker om rechtsbijstand mededeling van de 
 
 - b. een verklaring dat de uitspraak ten aanzien van de veroordeling in de kosten kracht van gewijsde heeft verkregen en uitvoerbaar is.
 
-2. Tot het afgeven van een afschrift als bedoeld in het eerste lid, onder **a.,** en een verklaring als bedoeld in het eerste lid, onder **b.,** is bevoegd de griffier van het gerecht dat de veroordeling in de kosten heeft uitgesproken.
+2. Tot het afgeven van een afschrift als bedoeld in het eerste lid, onder *a.,* en een verklaring als bedoeld in het eerste lid, onder *b.,* is bevoegd de griffier van het gerecht dat de veroordeling in de kosten heeft uitgesproken.
 
 ##### Artikel 19
 
@@ -150,67 +125,3 @@ De verzendende autoriteit doet de verzoeker zo spoedig mogelijk nadat de op het 
 ##### Artikel 21
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## Application for legal aid Convention on International Access to Justice, signed at The Hague, the 25th of October 1980.
-
-### European Agreement on the transmission of applications for legal aid
-
-1. Name and address of the applicant for legal aid
-
-2. Court of tribunal in which the proceedings have been or will be initiated (if known)
-
-3.
-
-4. Any date or time-limit relating to proceedings with legal consequences for the applicant, calling for speedy handling of the application(*)Delete if inappropriate.
-
-5. Any other relevant information(*)Delete if inappropriate.
-
-6. Done at ..., the ...
-
-7. Applicant’s signature
-
-### Statement concerning the applicant’s financial circumstances
-
-### I. Personal situation
-
-8. name (maiden name, if applicable)
-
-9. first name(s)
-
-10. date and place of birth
-
-11. nationality
-
-12.
-
-13. civil status (single, married, widow(er), divorced, separated)
-
-14. name and first name(s) of the spouse
-
-15. names, first names and dates of birth of children dependent on the applicant
-
-16. other persons dependent on the applicant
-
-17. supplementary information concerning the family situation
-
-### II. Financial circumstances
-
-18. occupation
-
-19. name and address of employer or place of exercise of occupation
-
-24. income tax and social security contributions for the previous year
-
-25. remarks of the applicant
-
-26. if applicable, list of supporting documents
-
-27. The undersigned, being fully aware of the penalties provided by law for the making of a false statement, declares that the above statement is complete and correct.
-
-28. Done at ... (place)
-
-29. the ... (date)
-
-30. ... (applicant’s signature)
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

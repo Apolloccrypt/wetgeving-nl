@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0048591"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40196764, houdende instelling van de beoordelingscommissie Subsidieregeling Npuls CTL voor de periode 2023 tot en met 2026 (Instellingsbesluit beoordelingscommissie Subsidieregeling Npuls CTL)

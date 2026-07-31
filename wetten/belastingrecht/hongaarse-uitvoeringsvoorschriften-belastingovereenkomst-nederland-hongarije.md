@@ -1,41 +1,20 @@
 ---
 title: "Hongaarse voorschriften belastingovereenkomst Nederland-Hongarije"
+citeertitel: "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije"
 identifier: "BWBR0004933"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-01-01"
-last_updated: "1991-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004933"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3713163"
-version_id: "5496042"
-internal_id: "C5689131"
-label_id: "3692924"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004933/1991-01-01/0"
-intitule_bron: "Stcrt.1990-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-12-18"
-intitule_published: "1990-12-27"
-intitule_in_force: "1990-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-251"
-original_signed_date: "1990-12-18"
-original_published_date: "1990-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004933&z=1991-01-01&g=1991-01-01"
-jci_1_0: "1.0:c:BWBR0004933&g=1991-01-01"
-citeertitel_status: "officieel"
-short_title: "Hongaarse uitvoeringsvoorschriften belastingovereenkomst Nederland-Hongarije"
-signed_date: "1990-12-18"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 1991-01-01
+status: geldig
+toestand: 1991-01-01
+bron: "https://wetten.overheid.nl/BWBR0004933"
+opgehaald: 2026-07-31
 ---
+
 # Hongaarse voorschriften belastingovereenkomst Nederland-Hongarije
 
-Besluit:
+##### Artikel
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
@@ -61,13 +40,13 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004933&a
 
 - b. Royalty's
 
-- 1. Hongaarse belasting Volgens de huidige Hongaarse wetgeving zijn royalty's onderworpen aan een bronbelasting van 2 tot 65%.
+   - 1 Hongaarse belasting Volgens de huidige Hongaarse wetgeving zijn royalty's onderworpen aan een bronbelasting van 2 tot 65%.
 
-- 2. Vrijstelling bij de bron De in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004933&artikel=1&z=1991-01-01&g=1991-01-01), vermelde vrijstelling van royalty's wordt in Hongarije bij de bron verleend. De Hongaarse schuldenaar van de royalty's mag de betalingen aan de in Nederland wonende gerechtigde doen zonder inhouding van Hongaarse belasting. De in Nederland wonende gerechtigde tot de royalty's behoeft derhalve geen verzoek om verlening van vrijstelling bij de Hongaarse belastingautoriteiten in te dienen.
+   - 2 Vrijstelling bij de bron De in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004933&artikel=1&z=1991-01-01&g=1991-01-01), vermelde vrijstelling van royalty's wordt in Hongarije bij de bron verleend. De Hongaarse schuldenaar van de royalty's mag de betalingen aan de in Nederland wonende gerechtigde doen zonder inhouding van Hongaarse belasting. De in Nederland wonende gerechtigde tot de royalty's behoeft derhalve geen verzoek om verlening van vrijstelling bij de Hongaarse belastingautoriteiten in te dienen.
 
-- 2. Abusievelijk is een tweede punt 2 ingevoegd. Verzoek om teruggaaf, indien Hongaarse belasting is ingehouden. In gevallen waarin in afwijking van het bepaalde in het eerste lid bij de uitbetaling van de royalty's Hongaarse belasting is ingehouden, kan de Nederlandse genieter van de royalty's aanspraak maker op teruggaaf daarvan. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier ingesteld. De betrokken inwoner van Nederland moet zich met een verzoek om teruggaaf wenden tot; Adó- és Pénzügyi Ellenörzési Hivatal Fövárosi Igazgatóság (Tax and Financial Control Office Directorate of the Capital) of, indien hij/zij een natuurlijk persoon is, tot Adóés Pénzügyi Ellenörzési Hivatal Fövárosi Adófelügyelöség (Tax and Financial Control Office Taxinspectorate of the Capital) beide gevestigd: Hámán Kató ut 3–5, H 1096 Budapest, Hungary. In het verzoek om teruggaaf, gesteld in de Engelse of Hongaarse taal, dient de betrokken inwoner van Nederland de redenen van zijn verzoek te vermelden. Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende royalty's inwoner van Nederland was in de zin van artikel 4 van de Nederlands-Hongaarse belastingovereenkomst. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal deze verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at............. certifies that ............................................ .... (naam en adres van de verzoeker) on the payable date(s) of the royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Hungary for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - 2 *Abusievelijk is een tweede punt 2 ingevoegd.* Verzoek om teruggaaf, indien Hongaarse belasting is ingehouden. In gevallen waarin in afwijking van het bepaalde in het eerste lid bij de uitbetaling van de royalty's Hongaarse belasting is ingehouden, kan de Nederlandse genieter van de royalty's aanspraak maker op teruggaaf daarvan. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier ingesteld. De betrokken inwoner van Nederland moet zich met een verzoek om teruggaaf wenden tot; Adó- és Pénzügyi Ellenörzési Hivatal Fövárosi Igazgatóság (Tax and Financial Control Office Directorate of the Capital) of, indien hij/zij een natuurlijk persoon is, tot Adóés Pénzügyi Ellenörzési Hivatal Fövárosi Adófelügyelöség (Tax and Financial Control Office Taxinspectorate of the Capital) beide gevestigd: Hámán Kató ut 3–5, H 1096 Budapest, Hungary. In het verzoek om teruggaaf, gesteld in de Engelse of Hongaarse taal, dient de betrokken inwoner van Nederland de redenen van zijn verzoek te vermelden. Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende royalty's inwoner van Nederland was in de zin van artikel 4 van de Nederlands-Hongaarse belastingovereenkomst. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal deze verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at............. certifies that ............................................ .... (naam en adres van de verzoeker) on the payable date(s) of the royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Hungary for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
+   - 4 Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
 
 ##### Artikel 3. Intrekking
 

@@ -1,48 +1,22 @@
 ---
 title: "Wet van 28 juni 1989, houdende uitvoering van de Verordening nr. 2137/85 van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden (PbEG L 199/1)"
+citeertitel: "Uitvoeringswet Verordening tot instelling van Europese economische samenwerkingsverbanden"
 identifier: "BWBR0004579"
-country: "nl"
-rank: "wet"
-publication_date: "2017-09-01"
-last_updated: "2017-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004579"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "1781803"
-version_id: "2647252"
-internal_id: "C2647251"
-label_id: "1737414"
-dtd_version: "2.0"
-original_entry_into_force: "1989-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004579/2017-09-01/0"
-intitule_bron: "Stb.1989-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-06-28"
-intitule_status: "goed"
-original_publication: "Stb.1989-245"
-original_signed_date: "1989-06-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "20651"
-entry_into_force_date: "1989-07-01"
-entry_into_force_dossier: "20651"
-jci_1_3: "jci1.3:c:BWBR0004579&z=2017-09-01&g=2017-09-01"
-jci_1_0: "1.0:c:BWBR0004579&g=2017-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Verordening tot instelling van Europese economische samenwerkingsverbanden"
-signed_date: "1989-06-28"
-entry_into_force: "1989-07-01"
+publicatiedatum: 1989-07-01
+laatste_update: 2017-09-01
+status: geldig
+toestand: 2017-09-01
+bron: "https://wetten.overheid.nl/BWBR0004579"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 28 juni 1989, houdende uitvoering van de Verordening nr. 2137/85 van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden (PbEG L 199/1)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is wettelijke bepalingen vast te stellen ter uitvoering van de [Verordening Nr. 2137/85](31985R2137) van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van Europese economische samenwerkingsverbanden (**PbEG** L 199/1);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=1&z=2017-09-01&g=2017-09-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=8&z=2017-09-01&g=2017-09-01) van deze wet wordt onder "Verordening" verstaan de [Verordening nr. 2137/85](31985R2137) van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van de Europese economische samenwerkingsverbanden (**PbEG** L 199/1).
+Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=1&z=2017-09-01&g=2017-09-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=8&z=2017-09-01&g=2017-09-01) van deze wet wordt onder "Verordening" verstaan de Verordening nr. 2137/85 van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van de Europese economische samenwerkingsverbanden (*PbEG* L 199/1).
 
 ##### Artikel 2
 
@@ -52,7 +26,7 @@ Ter uitvoering van artikel 39 van de Verordening wordt als register voor de insc
 
 1. Een Europees economisch samenwerkingsverband met zetel in Nederland bezit rechtspersoonlijkheid met ingang van de dag van zijn inschrijving in het handelsregister. De vereffening van het samenwerkingsverband eindigt op het tijdstip waarop geen aan de vereffenaars bekende baten meer aanwezig zijn en het samenwerkingsverband behoudt tot dat tijdstip zijn rechtspersoonlijkheid.
 
-2. [Titel 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=1) is op de in het eerste lid bedoelde rechtspersoon van toepassing met uitzondering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=11), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=18), [19 vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=19), en [21 eerste lid onder **b** en **c.**](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=21) De [artikelen 138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138) en [149 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=149) zijn op die rechtspersoon van overeenkomstige toepassing.
+2. [Titel 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=1) is op de in het eerste lid bedoelde rechtspersoon van toepassing met uitzondering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=11), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=18), [19 vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=19), en [21 eerste lid onder *b* en *c.*](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=21) De [artikelen 138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138) en [149 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=149) zijn op die rechtspersoon van overeenkomstige toepassing.
 
 3. De bepalingen van [Titel 8, Afdeling 2, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=2) zijn van toepassing, dan wel van overeenkomstige toepassing op een Europees economisch samenwerkingsverband met zetel in Nederland. Tot het indienen van een verzoek als bedoeld in [artikel 345](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=345) betreffende een zodanig samenwerkingsverband zijn bevoegd de leden van het samenwerkingsverband, een vereniging van werknemers als bedoeld in [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=347), alsmede degenen aan wie daartoe bij de oprichtingsovereenkomst of bij overeenkomst met het samenwerkingsverband de bevoegdheid is toegekend. De verplichting van [artikel 351, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=351), geldt ook voor de leden van het samenwerkingsverband.
 
@@ -64,7 +38,7 @@ Een rechtspersoon kan bestuurder zijn van een Europees economisch samenwerkingsv
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -82,14 +56,12 @@ Het is aan een persoon die geen Europees economisch samenwerkingsverband is, ver
 
 ##### Artikel 9
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 10
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 11
 
-Deze wet treedt in werking met ingang van 1 juli 1989. Indien het **Staatsblad** waarin deze wet wordt geplaatst, wordt uitgegeven na 30 juni 1989, treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van 1 juli 1989. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 30 juni 1989, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.

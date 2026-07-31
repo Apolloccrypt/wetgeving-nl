@@ -1,42 +1,17 @@
 ---
 title: "Vaststelling bijdrage gemoedsbezwaarden als bedoeld in art. 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen 1990"
 identifier: "BWBR0004655"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-01-01"
-last_updated: "1990-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004655"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3758173"
-version_id: "5541032"
-internal_id: "C5734121"
-label_id: "3737914"
-dtd_version: "2.0"
-original_entry_into_force: "1990-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004655/1990-01-01/0"
-intitule_bron: "Stcrt.1989-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-11-29"
-intitule_published: "1989-11-30"
-intitule_in_force: "1989-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-234"
-original_signed_date: "1989-11-29"
-original_published_date: "1989-11-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-01-01"
-jci_1_3: "jci1.3:c:BWBR0004655&z=1990-01-01&g=1990-01-01"
-jci_1_0: "1.0:c:BWBR0004655&g=1990-01-01"
-citeertitel_status: "officieel"
-signed_date: "1989-11-29"
-entry_into_force: "1990-01-01"
+publicatiedatum: 1990-01-01
+laatste_update: 1990-01-01
+status: geldig
+toestand: 1990-01-01
+bron: "https://wetten.overheid.nl/BWBR0004655"
+opgehaald: 2026-07-31
 ---
+
 # Vaststelling bijdrage gemoedsbezwaarden als bedoeld in art. 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen 1990
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20) (Stb. 1984, 269);
-
-Besluit:
 
 ##### Artikel 1
 

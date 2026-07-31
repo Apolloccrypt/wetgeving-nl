@@ -1,44 +1,17 @@
 ---
 title: "Regeling eenmalige uitkering zelfstandigen 1987"
 identifier: "BWBR0004406"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1988-10-01"
-last_updated: "1988-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004406"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3748953"
-version_id: "5531952"
-internal_id: "C5725041"
-label_id: "3728834"
-dtd_version: "2.0"
-original_entry_into_force: "1988-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004406/1988-10-01/0"
-intitule_bron: "Stcrt.1988-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-09-29"
-intitule_published: "1988-09-30"
-intitule_in_force: "1988-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1988-190"
-original_signed_date: "1988-09-29"
-original_published_date: "1988-09-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1988-10-01"
-jci_1_3: "jci1.3:c:BWBR0004406&z=1988-10-01&g=1988-10-01"
-jci_1_0: "1.0:c:BWBR0004406&g=1988-10-01"
-citeertitel_status: "officieel"
-signed_date: "1988-09-29"
-entry_into_force: "1988-10-01"
+publicatiedatum: 1988-10-01
+laatste_update: 1988-10-01
+status: geldig
+toestand: 1988-10-01
+bron: "https://wetten.overheid.nl/BWBR0004406"
+opgehaald: 2026-07-31
 ---
+
 # Regeling eenmalige uitkering zelfstandigen 1987
-
-Handelende in overeenstemming met de Minister van Landbouw en Visserij en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
-
-Overwegende, dat het wenselijk is met het oog op de inkomenssituatie van zelfstandigen in 1987 een eenmalige uitkering te verlenen aan zelfstandigen die in 1984, 1985, 1986 en 1987 alleen dan wel te zamen met een of meer anderen over niet meer dan een minimuninkomen beschikken;
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -46,11 +19,55 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. minister: minister van Economische Zaken; b. CIMK: Stichting Coördinerend Instituut Midden- en Kleinbedrijf; c. STULM: Stichting tot Uitvoering van Landbouwmaatregelen; d. Wet op de inkomstenbelalsting 1964: Wet op de inkomstenbelasting 1964 (Stb. 519), zoals die geldt voor het belastingjaar 1987; e. kinderbijslag: kinderbijslag als bedoeld in de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (Stb. 1980, 1).
+a.
+
+minister:
+
+minister van Economische Zaken;
+
+b.
+
+CIMK:
+
+Stichting Coördinerend Instituut Midden- en Kleinbedrijf;
+
+c.
+
+STULM:
+
+Stichting tot Uitvoering van Landbouwmaatregelen;
+
+d.
+
+Wet op de inkomstenbelalsting 1964:
+
+Wet op de inkomstenbelasting 1964 (Stb. 519), zoals die geldt voor het belastingjaar 1987;
+
+e.
+
+kinderbijslag:
+
+kinderbijslag als bedoeld in de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (Stb. 1980, 1).
 
 2. In deze regeling wordt verstaan onder:
 
-a. gehuwde: degene, die met een ander een gezamenlijke huishouding voert; b. echtgenoot: degene, met wie de gehuwde een gezamenlijke huishouding voert; c. ongehuwde: degene, die niet met een ander een gezamenlijke huishouding voert.
+a.
+
+gehuwde:
+
+degene, die met een ander een gezamenlijke huishouding voert;
+
+b.
+
+echtgenoot:
+
+degene, met wie de gehuwde een gezamenlijke huishouding voert;
+
+c.
+
+ongehuwde:
+
+degene, die niet met een ander een gezamenlijke huishouding voert.
 
 ##### Artikel 2
 
@@ -88,23 +105,23 @@ Waar in deze regeling wordt gesproken over het minimumniveau bedraagt dit:
 
 - a. voor de zelfstandige als bedoeld in [artikel 3, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=I&artikel=3&z=1988-10-01&g=1988-10-01):
 
-- 1º. indien hij geboren is voor 1 januari 1922: f 16254;
+   - 1º. indien hij geboren is voor 1 januari 1922: f 16254;
 
-- 2º. indien hij geboren is op of na 1 januari 1922 en voor 1 januari 1960: f 15 569;
+   - 2º. indien hij geboren is op of na 1 januari 1922 en voor 1 januari 1960: f 15 569;
 
-- 3º. indien hij geboren is op of na 1 januari 1960: f 17 480;
+   - 3º. indien hij geboren is op of na 1 januari 1960: f 17 480;
 
 - b. voor de zelfstandige als bedoeld in [artikel 3, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=I&artikel=3&z=1988-10-01&g=1988-10-01):
 
-- 1º. indien hij geboren is voor 1 januari 1922: f 20 432;
+   - 1º. indien hij geboren is voor 1 januari 1922: f 20 432;
 
-- 2º. indien hij geboren is op of na 1 januari 1922: f 19 641;
+   - 2º. indien hij geboren is op of na 1 januari 1922: f 19 641;
 
 - c. voor de zelfstandige als bedoeld in [artikel 3, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004406&hoofdstuk=I&artikel=3&z=1988-10-01&g=1988-10-01):
 
-- 1º. indien hij geboren is voor 1 januari 1922: f 23 508;
+   - 1º. indien hij geboren is voor 1 januari 1922: f 23 508;
 
-- 2º. indien hij geboren is op of na 1 januari 1922: f 25 579.
+   - 2º. indien hij geboren is op of na 1 januari 1922: f 25 579.
 
 ### Hoofdstuk II. De eenmalige uitkering
 

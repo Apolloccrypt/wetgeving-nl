@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 21 augustus 1991, houdende aanwijzing van de autoriteiten, bedoeld in artikel 16 van de Prijzennoodwet"
+citeertitel: "Aanwijzingsbesluit economische noodwetgeving"
 identifier: "BWBR0005170"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-06-20"
-last_updated: "2015-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005170"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "797373"
-version_id: "1156052"
-internal_id: "C1156051"
-label_id: "772544"
-dtd_version: "2.0"
-original_entry_into_force: "1991-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005170/2015-06-20/0"
-intitule_bron: "Stb.1991-447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-08-21"
-intitule_status: "goed"
-original_publication: "Stb.1991-447"
-original_signed_date: "1991-08-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-11-01"
-jci_1_3: "jci1.3:c:BWBR0005170&z=2015-06-20&g=2015-06-20"
-jci_1_0: "1.0:c:BWBR0005170&g=2015-06-20"
-citeertitel_status: "officieel"
-short_title: "Aanwijzingsbesluit economische noodwetgeving"
-signed_date: "1991-08-21"
-entry_into_force: "1991-11-01"
+publicatiedatum: 1991-11-01
+laatste_update: 2015-06-20
+status: geldig
+toestand: 2015-06-20
+bron: "https://wetten.overheid.nl/BWBR0005170"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 21 augustus 1991, houdende aanwijzing van de autoriteiten, bedoeld in artikel 16 van de Prijzennoodwet
-
-Op de voordracht van Onze Minister van Economische Zaken van 23 november 1990, nr. 90110569 WJA/W;
-
-Gelet op [artikel 16 van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) (**Stb.** 1984, 575);
-
-De Raad van State gehoord (advies van 6 maart 1990, nr. W10.90.0598);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 25 juli 1991, nr. 91054016 WJA/W;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -72,14 +44,12 @@ Als de autoriteiten, bedoeld in [artikel 16, tweede lid, van de Prijzennoodwet](
 
 ##### Artikel 4
 
-De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2015-06-20&g=2015-06-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2015-06-20&g=2015-06-20) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [artikelen 1:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), en [3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
+De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2015-06-20&g=2015-06-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2015-06-20&g=2015-06-20) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (*Stb.* 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (*Stb.* 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (*Stb.* 587) en de [artikelen 1:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), en [3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
 Dit besluit kan worden aangehaald als: Aanwijzingsbesluit economische noodwetgeving.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in de **Staatscourant** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

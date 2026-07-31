@@ -1,50 +1,37 @@
 ---
 title: "Regeling bevoegdheid (voortgezet) speciaal onderwijs voor buitenlandse diploma's"
 identifier: "BWBR0004230"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-04-04"
-last_updated: "1992-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004230"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "5097663"
-version_id: "9156902"
-internal_id: "C12180111"
-label_id: "5073184"
-dtd_version: "2.0"
-original_entry_into_force: "1987-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004230/1992-04-04/0"
-intitule_bron: "Stcrt.1987-220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-11-03"
-intitule_published: "1987-11-13"
-intitule_in_force: "1987-11-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-220"
-original_signed_date: "1987-11-03"
-original_published_date: "1987-11-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-12-01"
-jci_1_3: "jci1.3:c:BWBR0004230&z=1992-04-04&g=1992-04-04"
-jci_1_0: "1.0:c:BWBR0004230&g=1992-04-04"
-citeertitel_status: "officieel"
-signed_date: "1987-11-03"
-entry_into_force: "1987-12-01"
+publicatiedatum: 1987-12-01
+laatste_update: 1992-04-04
+status: geldig
+toestand: 1992-04-04
+bron: "https://wetten.overheid.nl/BWBR0004230"
+opgehaald: 2026-07-31
 ---
+
 # Regeling bevoegdheid (voortgezet) speciaal onderwijs voor buitenlandse diploma's
-
-Gelet op artikel 3, vierde lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs (Stb. 1984, 654);
-
-Overwegende dat het noodzakelijk is voorwaarden en beperkingen te stellen met betrekking tot het verlenen van de bevoegdheid tot het geven van onderwijs aan scholen voor speciaal onderwijs en voortgezet speciaal onderwijs aan personen die in het bezit zijn van een buiten Nederland behaald bewijs van bekwaamheid;
-
-De Onderwijsraad gehoord (advies van 9 maart 1987; nr. O.R. 1/310 P),
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
+
+ISOVSO:
+
+Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs (Stb. 1984, 654);
+
+scholen voor (voortgezet) speciaal onderwijs:
+
+scholen voor speciaal onderwijs, voor voortgezet speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs;
+
+inspecteur:
+
+de inspecteur bedoeld in [artikel 5 van de ISOVSO](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=5);
+
+bepaalde tijd:
+
+40 schoolweken, al dan niet aaneengesloten.
 
 ##### Artikel 2. Voorwaarden verkrijgen onderwijsbevoegdheid voor bepaalde tijd
 
@@ -54,11 +41,11 @@ Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid, waaraan
 
 - b. hij de Nederlandse taal in voldoende mate beheerst, hetgeen blijkt uit het bezit van:
 
-- het ‘Certificaat Nederlands als Vreemde taal’ waarvan de examens op het hoogste niveau (uitgebreide kennis) zijn afgelegd en waarbij de mondelinge vaardigheden (spreken en luisteren) zijn beoordeeld als zeer goed en de schriftelijke vaardigheden (schrijven en lezen) tenminste zijn beoordeeld als goed,
+   - het ‘Certificaat Nederlands als Vreemde taal’ waarvan de examens op het hoogste niveau (uitgebreide kennis) zijn afgelegd en waarbij de mondelinge vaardigheden (spreken en luisteren) zijn beoordeeld als zeer goed en de schriftelijke vaardigheden (schrijven en lezen) tenminste zijn beoordeeld als goed,
 
-- een diploma v.w.o., h.a.v.o. of een diploma van een opleiding middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs
+   - een diploma v.w.o., h.a.v.o. of een diploma van een opleiding middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs
 
-- een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België.
+   - een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België.
 
 ##### Artikel 3. Voorwaarden verkrijgen bevoegdheid vakonderwijs voor bepaalde tijd
 
@@ -68,11 +55,11 @@ Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid, tenzij 
 
 - b. bij de Nederlandse taal in voldoende mate beheerst, hetgeen blijkt uit het bezit van:
 
-- het ‘Certificaat Nederlands als Vreemde taal’ waarvan de examens op het middenniveau (basiskennis) zijn afgelegd en waarbij de mondelinge vaardigheden (spreken en luisteren) zijn beoordeeld als zeer goed en de schriftelijke vaardigheden (schrijven en lezen) tenminste zijn beoordeeld als goed,
+   - het ‘Certificaat Nederlands als Vreemde taal’ waarvan de examens op het middenniveau (basiskennis) zijn afgelegd en waarbij de mondelinge vaardigheden (spreken en luisteren) zijn beoordeeld als zeer goed en de schriftelijke vaardigheden (schrijven en lezen) tenminste zijn beoordeeld als goed,
 
-- een diploma v.w.o., h.a.v.o. of een diploma van een opleiding middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs, of
+   - een diploma v.w.o., h.a.v.o. of een diploma van een opleiding middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs, of
 
-- een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België.
+   - een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België.
 
 ##### Artikel 4. Voorwaarden verkrijgen bevoegdheid voor onbepaalde tijd
 

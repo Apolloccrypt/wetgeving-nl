@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering van Roemeense belasting op dividenden, interest, royalty's en commissiebeloningen uit Roemeense bron, genoten door inwoners van Nederland"
+citeertitel: "Roemeense uitvoeringsvoorschriften belastingovereenkomst Nederland-Roemenië"
 identifier: "BWBR0004983"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-01-27"
-last_updated: "1991-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004983"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3771703"
-version_id: "5554552"
-internal_id: "C5747641"
-label_id: "3751434"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004983/1991-01-27/0"
-intitule_bron: "Stcrt.1991-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-01-25"
-intitule_published: "1991-01-25"
-intitule_in_force: "1991-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-18"
-original_signed_date: "1991-01-25"
-original_published_date: "1991-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-27"
-jci_1_3: "jci1.3:c:BWBR0004983&z=1991-01-27&g=1991-01-27"
-jci_1_0: "1.0:c:BWBR0004983&g=1991-01-27"
-citeertitel_status: "officieel"
-short_title: "Roemeense uitvoeringsvoorschriften belastingovereenkomst Nederland-Roemenië"
-signed_date: "1991-01-25"
-entry_into_force: "1991-01-27"
+publicatiedatum: 1991-01-27
+laatste_update: 1991-01-27
+status: geldig
+toestand: 1991-01-27
+bron: "https://wetten.overheid.nl/BWBR0004983"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inzake vermindering van Roemeense belasting op dividenden, interest, royalty's en commissiebeloningen uit Roemeense bron, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -63,9 +38,9 @@ Ter uitvoering van artikel 1 is van Roemeense zijde de volgende regeling getroff
 
 - 1. Wijze waarop de vermindering of vrijstelling wordt verleend De in artikel 1 vermelde vrijstelling en verminderingen worden in Roemenië bij de bron verleend. De Roemeense schuldenaar van de inkomsten mag de betalingen aan de in Nederland wonende gerechtigde doen: De Nederlandse gerechtigde tot de inkomsten behoeft derhalve geen verzoek om verlening van vermindering of vrijstelling bij de Roemeense belasting-autoriteiten in te dienen.
 
-- in de in artikel 1, onderdelen a, b, d, e en f, genoemde gevallen: onder inhouding van Roemeense belasting naar het in de Overeenkomst neergelegde percentage;
+   - in de in artikel 1, onderdelen a, b, d, e en f, genoemde gevallen: onder inhouding van Roemeense belasting naar het in de Overeenkomst neergelegde percentage;
 
-- in het in artikel 1, onderdeel c, genoemde geval: zonder inhouding van Roemeense belasting.
+   - in het in artikel 1, onderdeel c, genoemde geval: zonder inhouding van Roemeense belasting.
 
 - 2. Woonplaatsverklaring De in Nederland wonende gerechtigde tot de dividenden, interest, royalty's of commissiebeloningen behoeft geen woonplaatsverklaring over te leggen. In het geval dat deze verklaring toch zou worden gevraagd, kan de desbetreffende inwoner van Nederland zich wenden tot het hoofd van de eenheid van de Belastingdienst binnen wiens amtsgebied hij woont of gevestigd is, met het verzoek de gevraagde woonplaatsverklaring af te geven. Verklaard dient te worden dat de gerechtigde tot de dividenden, interest, royalty's of commissiebeloningen inwoner van Nederland is in de zin van artikel 4 van de Overeenkomst tussen Nederland en Roemenië tot het vermijden van dubbele belasting. Aangenomen moet worden dat de over te leggen woonplaatsverklaring niet in de Nederlandse taal zal kunnen worden gesteld, doch dat een verklaring in het Frans, Engels of Duits voor de Roemeense autoriteiten aanvaardbaar zal zijn. In de Franse taal zal de verklaring kunnen luiden als volgt: Le soussigné, Chef de l'unité du Service des Impôts à ..............., certifie que ...................... (naam en adres van de verzoeker) est un résident des Pays-Bas au sens de l'article 4 de la convention entre les Pays-Bas et la Roumanie contre la double imposition du 27 mars 1979. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 

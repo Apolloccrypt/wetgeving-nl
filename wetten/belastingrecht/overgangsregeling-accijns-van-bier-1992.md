@@ -1,42 +1,17 @@
 ---
 title: "Overgangsregeling accijns van bier 1992"
 identifier: "BWBR0005359"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-01-01"
-last_updated: "1992-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005359"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3736493"
-version_id: "5519432"
-internal_id: "C5712521"
-label_id: "3716314"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005359/1992-01-01/0"
-intitule_bron: "Stcrt.1991-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-20"
-intitule_published: "1991-12-30"
-intitule_in_force: "1991-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-252"
-original_signed_date: "1991-12-20"
-original_published_date: "1991-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005359&z=1992-01-01&g=1992-01-01"
-jci_1_0: "1.0:c:BWBR0005359&g=1992-01-01"
-citeertitel_status: "officieel"
-signed_date: "1991-12-20"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1992-01-01
+status: geldig
+toestand: 1992-01-01
+bron: "https://wetten.overheid.nl/BWBR0005359"
+opgehaald: 2026-07-31
 ---
+
 # Overgangsregeling accijns van bier 1992
-
-Gelet op de [artikelen XVIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XVIII), [XIX, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XIX) en [XX, vijfde lid, van de Invoeringswet Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XX) (Stb. 1991, 740);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -45,6 +20,18 @@ Deze regeling geeft uitvoering aan de [artikelen XVIII, derde lid](https://wette
 ##### Artikel 2
 
 Deze regeling verstaat onder:
+
+a.
+
+wet:
+
+[Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) (Stb. 1991, 561);
+
+b.
+
+invoeringswet:
+
+[Invoeringswet Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005346).
 
 ##### Artikel 3
 
@@ -92,7 +79,7 @@ Op daartoe gedaan verzoek bepaalt de inspecteur dat het tarief, vermeld in [arti
 
 3. Van deze vloeistoffen worden vervolgens de dichtheden bij 17,5°C tot op 0,00002 g/ml nauwkeurig bepaald.
 
-4. De in de bijlage bij deze regeling opgenomen tabel wijst voor elke bevonden dichtheid van het destillaat het getal aan, waarmee de bevonden dichtheid van het residu moet worden vermeerderd om de dichtheid bij 17,5°C te verkrijgen van het wort, gebruikt voor de bereiding van het onderzochte bier.
+4. De in de [bijlage](https://wetten.overheid.nl/BWBR0005359) bij deze regeling opgenomen tabel wijst voor elke bevonden dichtheid van het destillaat het getal aan, waarmee de bevonden dichtheid van het residu moet worden vermeerderd om de dichtheid bij 17,5°C te verkrijgen van het wort, gebruikt voor de bereiding van het onderzochte bier.
 
 5. Het getal, aanwijzende het verschil tussen laatstgenoemde dichtheid en die van zuiver water bij dezelfde temperatuur, uitgedrukt in graden en tienden van graden als bedoeld in [artikel XVIII van de invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XVIII), levert na vermenigvuldiging met 100/95 van het getal aanwijzende de in hectoliters en honderdsten van hectoliters uitgedrukte hoeveelheid van het bier waarvan het onderzochte monster afkomstig is, een produkt op, dat, na verwaarlozing van onderdelen van eenheden, het in het eerste lid bedoelde aantal hectolitergraden aanwijst.
 
@@ -113,119 +100,3 @@ De bepaling van het aantal hectolitergraden bedoeld in de [artikelen 6](https://
 1. Deze regeling treedt in werking op het tijdstip waarop de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) in werking treedt.
 
 2. Deze regeling kan worden aangehaald als de Overgangsregeling accijns van bier 1992.
-
-## Bijlage. Tabel, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005359&artikel=6&z=1992-01-01&g=1992-01-01)
-
-| Dichtheid van het destiliaat bepaald bij 17,5° C | Getal waarmede de bevonden dichtheid van het residu moet worden vermeerderd om de dichtheid bij 17,5° C te leren kennen van het wort, gebezigd voor de bereiding van het onderzochte bier |
-| --- | --- |
-| 0.9880 | 0.0517 |
-| 1 | 0.0512 |
-| 2 | 0.0507 |
-| 3 | 0.0501 |
-| 4 | 0.0496 |
-| 5 | 0.0490 |
-| 6 | 0.0484 |
-| 7 | 0.0478 |
-| 8 | 0.0473 |
-| 9 | 0.0467 |
-| 0.9890 | 0.0462 |
-| 1 | 0.0456 |
-| 2 | 0.0456 |
-| 3 | 0.0446 |
-| 4 | 0.0441 |
-| 5 | 0.0436 |
-| 6 | 0.0431 |
-| 7 | 0.0426 |
-| 8 | 0.0421 |
-| 9 | 0.0416 |
-| 0.9900 | 0.0411 |
-| 1 | 0.0406 |
-| 2 | 0.0401 |
-| 3 | 0.0397 |
-| 4 | 0.0392 |
-| 5 | 0.0388 |
-| 6 | 0.0384 |
-| 7 | 0.0379 |
-| 8 | 0.0375 |
-| 9 | 0.0370 |
-| 0.9910 | 0.0366 |
-| 1 | 0.0361 |
-| 2 | 0.0357 |
-| 3 | 0.0353 |
-| 4 | 0.0348 |
-| 5 | 0.0344 |
-| 6 | 0.0339 |
-| 7 | 0.0335 |
-| 8 | 0.0330 |
-| 9 | 0.0326 |
-| 0.9920 | 0.0321 |
-| 1 | 0.0317 |
-| 2 | 0.0312 |
-| 3 | 0.0307 |
-| 4 | 0.0302 |
-| 5 | 0.0297 |
-| 6 | 0.0292 |
-| 7 | 0.0287 |
-| 8 | 0.0282 |
-| 9 | 0.0277 |
-| 0.9930 | 0.0271 |
-| 1 | 0.0266 |
-| 2 | 0.0262 |
-| 3 | 0.0257 |
-| 4 | 0.0252 |
-| 5 | 0.0247 |
-| 6 | 0.0242 |
-| 7 | 0.0237 |
-| 8 | 0.0232 |
-| 9 | 0.0227 |
-| 0.9940 | 0.0222 |
-| 1 | 0.0218 |
-| 2 | 0.0213 |
-| 3 | 0.0209 |
-| 4 | 0.0204 |
-| 5 | 0.0200 |
-| 6 | 0.0196 |
-| 7 | 0.0191 |
-| 8 | 0.0186 |
-| 9 | 0.0182 |
-| 0.9950 | 0.0178 |
-| 1 | 0.0173 |
-| 2 | 0.0169 |
-| 3 | 0.0164 |
-| 4 | 0.0160 |
-| 5 | 0.0155 |
-| 6 | 0.0151 |
-| 7 | 0.0147 |
-| 8 | 0.0142 |
-| 9 | 0.0138 |
-| 0.9960 | 0.0134 |
-| 1 | 0.0129 |
-| 2 | 0.0124 |
-| 3 | 0.0120 |
-| 4 | 0.0116 |
-| 5 | 0.0111 |
-| 6 | 0.0107 |
-| 7 | 0.0102 |
-| 8 | 0.0098 |
-| 9 | 0.0093 |
-| 0.970 | 0.0089 |
-| 1 | 0.0084 |
-| 2 | 0.0080 |
-| 3 | 0.0076 |
-| 4 | 0.0071 |
-| 5 | 0.0067 |
-| 6 | 0.0062 |
-| 7 | 0.0058 |
-| 8 | 0.0053 |
-| 9 | 0.0049 |
-| 0.9980 | 0.0045 |
-| 1 | 0.0040 |
-| 2 | 0.0036 |
-| 3 | 0.0031 |
-| 4 | 0.0027 |
-| 5 | 0.0022 |
-| 6 | 0.0018 |
-| 7 | 0.0013 |
-| 8 | 0.0009 |
-| 9 | 0.0005 |
-| 0.9990 | 0.0000 |

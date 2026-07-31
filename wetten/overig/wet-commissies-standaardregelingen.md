@@ -1,43 +1,18 @@
 ---
 title: "Wet van 13 december 1989, houdende regelen omtrent de wijze van samenstelling en de werkwijze van de commissies, bedoeld in artikel 214 van Boek 6 van het nieuwe Burgerlijk Wetboek"
+citeertitel: "Wet commissies standaardregelingen"
 identifier: "BWBR0004665"
-country: "nl"
-rank: "wet"
-publication_date: "2005-07-01"
-last_updated: "2005-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004665"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "172343"
-version_id: "235912"
-internal_id: "C235911"
-label_id: "170524"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004665/2005-07-01/0"
-intitule_bron: "Stb.1989-567"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-12-13"
-intitule_status: "goed"
-original_publication: "Stb.1989-567"
-original_signed_date: "1989-12-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "18966"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0004665&z=2005-07-01&g=2005-07-01"
-jci_1_0: "1.0:c:BWBR0004665&g=2005-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet commissies standaardregelingen"
-signed_date: "1989-12-13"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2005-07-01
+status: geldig
+toestand: 2005-07-01
+bron: "https://wetten.overheid.nl/BWBR0004665"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 13 december 1989, houdende regelen omtrent de wijze van samenstelling en de werkwijze van de commissies, bedoeld in artikel 214 van Boek 6 van het nieuwe Burgerlijk Wetboek
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de invoering van de Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek regelen vast te stellen omtrent de wijze van samenstelling en de werkwijze van de commissies, bedoeld in artikel 6.5.1.2 van het nieuwe Burgerlijk Wetboek;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -126,5 +101,3 @@ Deze wet treedt in werking op een bij Koninklijk Besluit te bepalen tijdstip.
 ##### Artikel 14
 
 Deze wet kan worden aangehaald als Wet commissies standaardregelingen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 januari 1992, houdende regels ten aanzien van bijdragen in de kosten van beheer en onderhoud van waterstaatswerken"
+citeertitel: "Besluit bijdragen waterstaatswerken"
 identifier: "BWBR0005402"
-country: "nl"
-rank: "amvb"
-publication_date: "1992-04-01"
-last_updated: "1992-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005402"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "289423"
-version_id: "420552"
-internal_id: "C420551"
-label_id: "283284"
-dtd_version: "2.0"
-original_entry_into_force: "1992-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005402/1992-04-01/0"
-intitule_bron: "Stb.1992-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-01-23"
-intitule_status: "goed"
-original_publication: "Stb.1992-69"
-original_signed_date: "1992-01-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-04-01"
-jci_1_3: "jci1.3:c:BWBR0005402&z=1992-04-01&g=1992-04-01"
-jci_1_0: "1.0:c:BWBR0005402&g=1992-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bijdragen waterstaatswerken"
-signed_date: "1992-01-23"
-entry_into_force: "1992-04-01"
+publicatiedatum: 1992-04-01
+laatste_update: 1992-04-01
+status: geldig
+toestand: 1992-04-01
+bron: "https://wetten.overheid.nl/BWBR0005402"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 23 januari 1992, houdende regels ten aanzien van bijdragen in de kosten van beheer en onderhoud van waterstaatswerken
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 5 september 1991, nr. RJI 102399, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
-
-Gelet op artikel 2, tweede lid, van de Wet van 24 april 1991, houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat (**Stb.** 1991, 255);
-
-Gezien de adviezen van het Interprovinciaal Overleg en de Vereniging van Nederlandse Gemeenten;
-
-Gehoord de Raad voor de Gemeentefinanciën;
-
-De Raad van State gehoord (advies van 4 december 1991, nr. W09.91 0489);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 14 januari 1992, nr. RJI 113251, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -52,11 +20,11 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Verkeer en Waterstaat;
 
-- b. bijdrage: een bijdrage als bedoeld in [artikel 2, eerste lid, van de Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2) (**Stb.** 1991, 255);
+- b. bijdrage: een bijdrage als bedoeld in [artikel 2, eerste lid, van de Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2) (*Stb.* 1991, 255);
 
 - c. waterstaatswerken: waterstaatswerken als bedoeld in [artikel 2, eerste lid, van de Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2);
 
-- d. nieuwe beheerder: de provincie dan wel de gemeente, waarbij bij een koninklijk besluit op grond van [artikel 1, tweede lid, van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=1) (**Stb.** 176) een waterstaatswerk in beheer of onderhoud is gebracht.
+- d. nieuwe beheerder: de provincie dan wel de gemeente, waarbij bij een koninklijk besluit op grond van [artikel 1, tweede lid, van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=1) (*Stb.* 176) een waterstaatswerk in beheer of onderhoud is gebracht.
 
 ##### Artikel 2. Voorwaarden om voor een bijdrage in aanmerking te komen
 
@@ -122,10 +90,8 @@ U: het indexcijfer voor de maand dat als prijsbasis heeft gediend voor de vastst
 
 ##### Artikel 9. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 10. Citeertitel
 
 Dit besluit kan worden aangehaald als: Besluit bijdragen waterstaatswerken.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

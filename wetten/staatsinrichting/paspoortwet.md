@@ -1,45 +1,22 @@
 ---
 title: "Rijkswet van 26 september 1991, houdende het stellen van regelen betreffende de verstrekking van reisdocumenten"
+citeertitel: "Paspoortwet"
 identifier: "BWBR0005212"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005212"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "166463"
-version_id: "230712"
-internal_id: "C230711"
-label_id: "166404"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005212/2024-01-01/0"
-intitule_bron: "Stb.1991-498"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-09-26"
-intitule_status: "goed"
-original_publication: "Stb.1991-498"
-original_signed_date: "1991-09-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "20393"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005212&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0005212&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Paspoortwet"
-signed_date: "1991-09-26"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0005212"
+opgehaald: 2026-07-31
 ---
+
 # Rijkswet van 26 september 1991, houdende het stellen van regelen betreffende de verstrekking van reisdocumenten
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat in verband met het recht het land te verlaten, zoals neergelegd in voor het Koninkrijk geldende verdragen, in verband met [artikel 2, vierde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=2) en gelet op [artikel 3, eerste lid, onder **b**, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=3), bij rijkswet regelen dienen te worden gesteld met betrekking tot de aanspraken op paspoorten en andere reisdocumenten en de beperkingen van deze aanspraken;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
 ### Hoofdstuk I. Algemene bepalingen
+
+#### § 1. Definities en reikwijdte
 
 ##### Artikel 1
 
@@ -77,11 +54,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. reisdocument: een document als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01);
 
-- q. burgerservicenummer: het nummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer;
+- q. burgerservicenummer: het nummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer;
 
 - r. publiek identificatiemiddel: een van rijkswege uitgegeven en aan een natuurlijk persoon verstrekt elektronisch middel dat persoonsidentificatiegegevens bevat en wordt gebruikt voor de authenticatie van een natuurlijke persoon die toegang wenst tot elektronische dienstverlening;
 
-- s. elektronische dienstverlening: verlening van elektronische diensten aan natuurlijke personen, ondernemingen of rechtspersonen ter uitoefening van een publieke taak, in het algemeen belang of waarbij het burgerservicenummer wordt verwerkt, door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) of een bij of krachtens de Wet digitale overheid aangewezen organisatie, waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog als bedoeld in de Wet digitale overheid is vereist;
+- s. elektronische dienstverlening: verlening van elektronische diensten aan natuurlijke personen, ondernemingen of rechtspersonen ter uitoefening van een publieke taak, in het algemeen belang of waarbij het burgerservicenummer wordt verwerkt, door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) of een bij of krachtens de Wet digitale overheid aangewezen organisatie, waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog als bedoeld in de Wet digitale overheid is vereist;
 
 - t. tot signalering bevoegd orgaan: een autoriteit of orgaan als bedoeld in een van de [artikelen 18 tot en met 24 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01).
 
@@ -111,6 +88,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Elk reisdocument blijft na uitreiking rijkseigendom. Onze Minister oefent het eigendomsrecht uit.
 
+#### § 2. Gegevens ten behoeve van reisdocumenten
+
 ##### Artikel 3
 
 1. Elk reisdocument vermeldt de volgende persoonsgegevens van de houder: geslachtsnaam, voornamen, geboortedatum, geboorteplaats, geslacht, woonplaats, adres en lengte. Bij of krachtens algemene maatregel van rijksbestuur kan worden bepaald in welke gevallen wordt afgezien van vermelding van respectievelijk geboorteplaats, woonplaats, adres en lengte.
@@ -131,9 +110,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. De bij de aanvraag van een reisdocument opgenomen vingerafdrukken worden bewaard totdat de uitreiking van het aangevraagde reisdocument, dan wel de reden voor het niet uitreiken daarvan, in de administratie, bedoeld in het achtste lid, is geregistreerd en gedurende die periode uitsluitend verwerkt ten behoeve van de verstrekking en de uitreiking van het reisdocument.
 
+##### Artikel 3a
+
+1. Bij algemene maatregel van rijksbestuur kunnen documenten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) worden aangewezen waar het publiek identificatiemiddel op wordt geplaatst.
+
+2. Het publiek identificatiemiddel dat krachtens het eerste lid op het document is geplaatst, bevat de bij algemene maatregel van rijksbestuur vast te stellen gegevens.
+
+3. Gebruik van het publiek identificatiemiddel is alleen mogelijk indien de houder van het document beschikt over een burgerservicenummer.
+
+4. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtrent de technische en organisatorische inrichting van de voorzieningen die noodzakelijk zijn voor de vervaardiging en het kunnen gebruiken van het publiek identificatiemiddel en de daarmee samenhangende verwerking van gegevens.
+
+5. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtrent de kosten die ten laste worden gebracht voor vervaardiging en verstrekking van een publiek identificatiemiddel en voor de handelingen die door Onze Minister worden verricht voor het gebruik kunnen maken van dit middel.
+
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4a
 
@@ -169,9 +160,73 @@ ingevolge [artikel 47, eerste lid, onder a, b, c, e, f, h, i of j](https://wette
 
 9. Onze Minister treft maatregelen met betrekking tot het beheer en de beveiliging van het register.
 
+##### Artikel 4b
+
+*Dit onderdeel is nog niet inwerking getreden*
+
+#### § 3. Het basisregister reisdocumenten
+
+##### Artikel 4c
+
+1. Er is een basisregister reisdocumenten. Onze Minister is verantwoordelijk voor de gegevensverwerkingen in dit register.
+
+2. Het basisregister reisdocumenten heeft tot doel de autoriteiten, instellingen en personen bedoeld in [artikel 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=3&artikel=4e&z=2024-01-01&g=2024-01-01) te voorzien van de in het basisregister reisdocumenten opgenomen gegevens voor zover deze gegevens noodzakelijk zijn voor de vervulling van hun taken en werkzaamheden bedoeld in dat artikel. Het basisregister reisdocumenten heeft mede tot doel om organen en instellingen te voorzien van de in het register opgenomen gegevens in overige bij algemene maatregel van rijkbestuur aan te wijzen gevallen.
+
+3. Onze Minister stelt regels over het beheer, de beveiliging en de betrouwbaarheid van het register.
+
+##### Artikel 4d
+
+1. In het basisregister reisdocumenten worden uitsluitend de volgende gegevens opgenomen:
+
+- a. gegevens als bedoeld in [artikel 3, eerste, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01);
+
+- b. gegevens die bij de aanvraag zijn overgelegd, niet zijnde de gezichtsopname, handtekening dan wel vingerafdruk van de aanvrager, en gegevens die betrekking hebben op de status van een reisdocument, alsmede de autoriteit die de gegevens heeft verstrekt en de datum waarop de gegevens zijn verstrekt;
+
+- c. gegevens met betrekking tot de status van het reisdocument als publiek identificatiemiddel.
+
+2. De autoriteiten, belast met de uitvoering van deze wet, en de bestuursorganen en aangewezen organisaties bedoeld in de Wet digitale overheid verstrekken de in het basisregister reisdocumenten op te nemen gegevens aan Onze Minister.
+
+3. Bij of krachtens algemene maatregel van rijksbestuur kunnen andere organen, instellingen en personen voor verstrekking worden aangewezen die bij de uitoefening van hun wettelijke taak over gegevens komen te beschikken die van belang zijn voor de bijhouding van het basisregister reisdocumenten.
+
+4. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld omtrent de gegevensverwerking in het basisregister reisdocumenten, alsmede de bewaartermijn, de verwijdering en de vernietiging van de in het basisregister reisdocumenten opgenomen gegevens.
+
+##### Artikel 4e
+
+1. De gegevens uit het basisregister reisdocumenten kunnen worden verstrekt ten behoeve van de volgende taken of werkzaamheden aan de daarmee belaste organen en instellingen:
+
+- a. voor het in ontvangst nemen van aanvragen en het uitreiken, verstrekken, weigeren, wijzigen, vervallen verklaren, inhouden, dan wel definitief aan het verkeer onttrekken van documenten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) van deze wet: de autoriteiten die belast zijn met deze taken;
+
+- b. voor het uitvoeren van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01) van deze wet: Onze Minister, de Gouverneurs en de tot signalering bevoegde organen;
+
+- c. voor het laten functioneren van de voorzieningen ten behoeve van elektronisch berichtenverkeer, elektronische informatieverschaffing en elektronische authenticatie: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+- d. ter voorkoming en bestrijding van misbruik van of fraude met reisdocumenten: de organen, instellingen en personen met een wettelijke verplichting of een gerechtvaardigd belang daartoe;
+
+- e. voor de taken in het belang van de nationale veiligheid: de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst;
+
+- f. voor opsporing of voor toezicht op naleving van wettelijke voorschriften: organen en personen met een publiekrechtelijke opsporingstaak, onderscheidenlijk met een toezichthoudende taak;
+
+- g. ter identificatie van slachtoffers als gevolg van rampen of strafbare feiten: organen en personen die op grond van een wettelijk voorschrift zijn belast met deze taak;
+
+- h. ter uitvoering van de Rijkswet op het Nederlanderschap: Onze Minister van Justitie en Veiligheid;
+
+- i. ter uitvoerlegging van strafvonnissen: Onze Minister die het aangaat.
+
+2. De gegevens uit het basisregister reisdocumenten kunnen ook worden verstrekt ten behoeve van aanvullende bij algemene maatregel van rijksbestuur aan te wijzen gevallen.
+
+3. Ten aanzien van de verstrekkingen bedoeld in het eerste lid, onderdeel a, van dit artikel wordt bij of krachtens algemene maatregel van rijksbestuur bepaald welke gegevens worden verstrekt en op welke wijze deze verstrekkingen plaatsvinden.
+
+4. Alle overige verstrekkingen uit het basisregister reisdocumenten vinden plaats op grond van een besluit van Onze Minister naar aanleiding van een daartoe in te dienen aanvraag. In dit besluit wordt bepaald welke gegevens worden verstrekt en de wijze waarop deze gegevens worden verstrekt. Van dit besluit wordt mededeling gedaan op een voor eenieder kenbare wijze.
+
+#### § 4. Overige algemene bepalingen
+
 ##### Artikel 5
 
 Een ieder die, anders dan voor ambtelijke doeleinden of ter voldoening aan een wettelijk voorschrift, in het bezit is van een reisdocument waarvan hij niet de houder is, draagt zorg dat het onverwijld ter beschikking komt van een ingevolge deze wet tot inhouding bevoegde autoriteit.
+
+##### Artikel 5a
+
+De houder wiens reisdocument is vermist of mogelijk voorwerp is van fraude, kan dat op een bij ministeriële regeling te bepalen wijze melden.
 
 ##### Artikel 6
 
@@ -215,7 +270,7 @@ Onze Minister kan in overeenstemming met Onze Minister van Buitenlandse Zaken in
 
 Aan Nederlanders die zich ten behoeve van het Koninkrijk of een der landen van het Koninkrijk naar het buitenland begeven wordt, binnen de grenzen bij deze wet bepaald, een diplomatiek paspoort dan wel een dienstpaspoort verstrekt indien en voor zolang Onze Minister van Buitenlandse Zaken zulks noodzakelijk acht.
 
-#### § 4. Overige algemene bepalingen
+#### § 2. Reisdocumenten voor niet-Nederlanders
 
 ##### Artikel 11
 
@@ -241,23 +296,21 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 2. In bijzondere gevallen kan aan een vreemdeling die zich tijdelijk op het grondgebied van het Europese of Caribische deel van Nederland, dan wel Aruba, Curaçao of Sint Maarten mag bevinden en niet in aanmerking komt voor verstrekking van een reisdocument op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=14&z=2024-01-01&g=2024-01-01), een nooddocument dan wel een reisdocument voor vreemdelingen worden verstrekt.
 
-#### § 3. Andere reisdocumenten
+#### § 3. Nooddocumenten en andere reisdocumenten
 
 ##### Artikel 16
 
 1. Aan degene die ingevolge deze wet recht heeft op een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen en op het moment van vertrek niet in het bezit blijkt van een geldig of voor de reis bruikbaar reisdocument, wordt indien hij aantoont zwaarwegende belangen te hebben bij de reis, na een daartoe strekkende aanvraag binnen de grenzen bij deze wet bepaald een nooddocument verstrekt met een zodanige tijdelijke en territoriale geldigheid als daarvoor vereist is.
 
-2. Ten aanzien van elke categorie van reisdocumenten als bedoeld in [artikel 2, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), wordt bij of krachtens algemene maatregel van rijksbestuur bepaald aan wie en onder welke voorwaarden deze documenten kunnen worden verstrekt.
+2. Ten aanzien van elke categorie van reisdocumenten als bedoeld in [artikel 2, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), wordt bij of krachtens algemene maatregel van rijksbestuur bepaald aan wie en onder welke voorwaarden deze documenten kunnen worden verstrekt.
 
-#### § 3. Andere reisdocumenten
+#### § 3A. Nederlandse identiteitskaart
 
 ##### Artikel 16a
 
 1. Iedere Nederlander die in de basisregistratie personen is ingeschreven of die woonachtig is buiten het Koninkrijk heeft, binnen de grenzen bij deze wet bepaald, recht op een Nederlandse identiteitskaart, geldig voor tien jaren.
 
 2. In afwijking van het eerste lid heeft een Nederlander als bedoeld in het eerste lid, die de leeftijd van achttien jaar nog niet heeft bereikt, recht op een Nederlandse identiteitskaart geldig voor vijf jaren.
-
-#### § 2. Reisdocumenten voor niet-Nederlanders
 
 ##### Artikel 17
 
@@ -277,9 +330,9 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 - a. onherroepelijk is veroordeeld tot:
 
-- 1°. een vrijheidsstraf of vrijheidsbenemende maatregel van vier maanden of meer,
+   - 1°. een vrijheidsstraf of vrijheidsbenemende maatregel van vier maanden of meer,
 
-- 2°. een geldboete van meer dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), of tot betaling van een daarmee overeenkomend geldbedrag op grond van [artikel 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) of [artikel 36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), of
+   - 2°. een geldboete van meer dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), of tot betaling van een daarmee overeenkomend geldbedrag op grond van [artikel 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) of [artikel 36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), of
 
 - b. de bijzondere voorwaarden verbonden aan een voorwaardelijke veroordeling, een terbeschikkingstelling met voorwaarden, een voorwaardelijke plaatsing in een inrichting voor stelselmatige daders, een gedragsbeïnvloedende of vrijheidsbeperkende maatregel, een voorwaardelijke plaatsing in een inrichting voor jeugdigen of een voorwaardelijke gratieverlening niet naleeft.
 
@@ -287,15 +340,15 @@ Aan andere in het Europese of Caribische deel van Nederland, dan wel Aruba, Cura
 
 - a. onherroepelijk is veroordeeld tot:
 
-- 1°. een vrijheidsstraf of vrijheidsbenemende maatregel van vier maanden of meer,
+   - 1°. een vrijheidsstraf of vrijheidsbenemende maatregel van vier maanden of meer,
 
-- 2°. een geldelijke sanctie die overeenkomt met een bedrag dat hoger is dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), of
+   - 2°. een geldelijke sanctie die overeenkomt met een bedrag dat hoger is dan het bedrag dat ten hoogste kan worden opgelegd voor een feit van de tweede categorie, als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), of
 
 - b. de bijzondere voorwaarden verbonden aan een voorwaardelijke veroordeling, een terbeschikkingstelling met voorwaarden, een voorwaardelijke plaatsing in een inrichting voor jeugdigen of een voorwaardelijke gratieverlening niet naleeft.
 
 ##### Artikel 19
 
-Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in [artikel 106 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106) (**Stb.** 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is.
+Weigering of vervallenverklaring kan geschieden op verzoek van de rechter-commissaris, indien de betrokken persoon in staat van faillissement verkeert dan wel op hem het bepaalde in [artikel 106 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106) (*Stb.* 1893, 140) of een overeenkomstige regeling in een openbaar lichaam, Aruba, Curaçao of Sint Maarten van toepassing is.
 
 ##### Artikel 20
 
@@ -323,6 +376,14 @@ zich door verblijf buiten de grenzen van een der landen van het Koninkrijk aan d
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien het gegronde vermoeden bestaat dat de betrokken persoon buiten het Koninkrijk handelingen zal verrichten, die een bedreiging vormen voor de veiligheid en andere gewichtige belangen van het Koninkrijk of een of meerdere landen van het Koninkrijk dan wel de veiligheid van met het Koninkrijk bevriende mogendheden.
 
+##### Artikel 23a
+
+Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien naar aanleiding van een daarop betrekking hebbende kennisgeving door een bevoegde autoriteit van een met het Koninkrijk bevriende mogendheid het gegronde vermoeden bestaat dat de betrokken persoon zich in dat land zal onttrekken aan een tegen hem ingestelde strafvervolging of tenuitvoerlegging van een hem opgelegde straf of maatregel in verband met gedragingen die naar het recht van een van de landen binnen het Koninkrijk een misdrijf opleveren waarvoor een vrijheidsstraf van een jaar of van langere duur kan worden opgelegd.
+
+##### Artikel 23b
+
+Weigering geschiedt op verzoek van Onze Minister die het aangaat, indien de betrokken persoon een verbod is opgelegd als bedoeld in [artikel 3 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=3).
+
 ##### Artikel 24
 
 Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, onderscheidenlijk een met de uitvoering van deze wet belaste autoriteit die het aangaat, indien:
@@ -347,7 +408,7 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 ### Hoofdstuk IV. Aanvraag
 
-#### § 2. Registratie
+#### § 1. Algemeen
 
 ##### Artikel 26
 
@@ -365,7 +426,7 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 2. Bevoegd tot het in ontvangst nemen van aanvragen voor diplomatieke paspoorten en voor dienstpaspoorten is Onze Minister van Buitenlandse Zaken en in bijzondere gevallen de bij of krachtens algemene maatregel van rijksbestuur daartoe aangewezen autoriteiten.
 
-3. Bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten als bedoeld in [artikel 2, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), zijn:
+3. Bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten als bedoeld in [artikel 2, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), zijn:
 
 - a. In Aruba, Curaçao en Sint Maarten: de Gouverneur en de door hem na overleg met Onze Minister daartoe aangewezen autoriteiten;
 
@@ -373,11 +434,11 @@ Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die
 
 - c. In overige gevallen: De bij of krachtens algemene maatregel van rijksbestuur daartoe aangewezen autoriteiten.
 
-4. Bevoegd tot het in ontvangst nemen van aanvragen voor Nederlandse identiteitskaarten en vervangende Nederlandse identiteitskaarten zijn de daartoe bij of krachtens het eerste lid onder a, c, d en e aangewezen autoriteiten.
+4. Bevoegd tot het in ontvangst nemen van aanvragen voor Nederlandse identiteitskaarten en vervangende Nederlandse identiteitskaarten zijn de daartoe bij of krachtens het eerste lid onder a, c, d en e aangewezen autoriteiten.
 
 ##### Artikel 27
 
-1. Een reisdocument kan slechts worden verstrekt, nadat een aanvraag is ingediend bij een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde autoriteit.
+1. Een reisdocument kan slechts worden verstrekt, nadat een aanvraag is ingediend bij een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde autoriteit.
 
 2. Een aanvraag ingediend bij een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde autoriteit in een openbaar lichaam, Aruba, Curaçao of Sint Maarten wordt slechts in behandeling genomen als is voldaan aan het in of krachtens dit hoofdstuk bepaalde. De aanvrager wordt van het niet in behandeling nemen van de aanvraag terstond op de hoogte gesteld.
 
@@ -465,7 +526,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 
 2. De bevoegde rechter, genoemd in [artikel 34, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), en in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=36&z=2024-01-01&g=2024-01-01), is in het Europese deel van Nederland de kinderrechter, in een openbaar lichaam, Aruba, Curaçao en Sint Maarten de rechter in eerste aanleg.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. De bevoegde rechter, genoemd in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01), is in het Europese deel van Nederland de kantonrechter, in een openbaar lichaam, Aruba, Curaçao en Sint Maarten de rechter in eerste aanleg.
 
@@ -477,7 +538,7 @@ Aan de minderjarige die in werkelijke militaire dienst is, wordt een reisdocumen
 
 ##### Artikel 39
 
-Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens aanvraag geen verklaring van toestemming kan worden overgelegd als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), onderscheidenlijk [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01), kan vooruitlopend op een rechterlijke uitspraak of beschikking ter zake van een vervangende verklaring van toestemming, in bijzondere gevallen een reisdocument als bedoeld in [artikel 2, eerste lid, onder **f,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) worden verstrekt.
+Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens aanvraag geen verklaring van toestemming kan worden overgelegd als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=34&z=2024-01-01&g=2024-01-01), onderscheidenlijk [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=IV&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01), kan vooruitlopend op een rechterlijke uitspraak of beschikking ter zake van een vervangende verklaring van toestemming, in bijzondere gevallen een reisdocument als bedoeld in [artikel 2, eerste lid, onder *f,*](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) worden verstrekt.
 
 ### Hoofdstuk V. Verstrekking, wijziging en uitreiking
 
@@ -497,7 +558,7 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 2. Bevoegd tot het verstrekken van diplomatieke paspoorten en dienstpaspoorten is Onze Minister van Buitenlandse Zaken en in bijzondere gevallen de bij of krachtens algemene maatregel van rijksbestuur daartoe aangewezen autoriteiten.
 
-3. Bevoegd tot het verstrekken van reisdocumenten als bedoeld in [artikel 2, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), zijn:
+3. Bevoegd tot het verstrekken van reisdocumenten als bedoeld in [artikel 2, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), zijn:
 
 - a. In Aruba, Curaçao en Sint Maarten: de Gouverneur en de door hem na overleg met Onze Minister daartoe aangewezen autoriteiten;
 
@@ -505,7 +566,7 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 - c. In overige gevallen: De bij of krachtens algemene maatregel van rijksbestuur daartoe aangewezen autoriteiten.
 
-4. Bevoegd tot verstrekken van Nederlandse identiteitskaarten en vervangende Nederlandse identiteitskaarten zijn de daartoe bij of krachtens het eerste lid onder a, c, d en e aangewezen autoriteiten.
+4. Bevoegd tot verstrekken van Nederlandse identiteitskaarten en vervangende Nederlandse identiteitskaarten zijn de daartoe bij of krachtens het eerste lid onder a, c, d en e aangewezen autoriteiten.
 
 5. Verstrekking van een reisdocument op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=14&z=2024-01-01&g=2024-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01) aan een persoon die in het Europese deel van Nederland is toegelaten, vindt slechts plaats nadat Onze Minister van Justitie in overeenstemming met Onze Minister van Buitenlandse Zaken heeft vastgesteld dat aan de voorwaarden voor een aanspraak in de genoemde artikelen is voldaan.
 
@@ -517,13 +578,17 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 ##### Artikel 41
 
-1. De in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01) bedoelde autoriteiten verstrekken het aangevraagde reisdocument zo spoedig mogelijk, doch uiterlijk binnen vier weken na de dag van de aanvraag, tenzij de aanvraag een persoon betreft op wie een mededeling als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), van toepassing is.
+1. De in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01) bedoelde autoriteiten verstrekken het aangevraagde reisdocument zo spoedig mogelijk, doch uiterlijk binnen vier weken na de dag van de aanvraag, tenzij de aanvraag een persoon betreft op wie een mededeling als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), van toepassing is.
 
 2. De termijn genoemd in het eerste lid, kan in bijzondere gevallen met hoogstens vier weken worden verlengd. De aanvrager wordt daarvan zo spoedig mogelijk doch in ieder geval voor de afloop van de eerste termijn, schriftelijk in kennis gesteld.
 
 3. Indien de aanvraag een persoon betreft op wie een mededeling als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), van toepassing is en de autoriteit in een openbaar lichaam, Aruba, Curaçao of Sint Maarten die de aanvraag in ontvangst heeft genomen niet tevens de ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01) tot verstrekking bevoegde autoriteit is, legt hij de aanvraag onverwijld voor aan de tot verstrekking van dat reisdocument bevoegde autoriteit. Van de voorlegging wordt de aanvrager terstond in kennis gesteld.
 
 4. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de termijnen van of de procedures ten aanzien van de verstrekking van reisdocumenten.
+
+##### Artikel 41a
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 42
 
@@ -551,9 +616,9 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 44
 
-1. Bevoegd tot weigering of vervallenverklaring van reisdocumenten op de gronden genoemd in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&z=2024-01-01&g=2024-01-01) zijn de autoriteiten bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01).
+1. Bevoegd tot weigering of vervallenverklaring van reisdocumenten op de gronden genoemd in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&z=2024-01-01&g=2024-01-01) zijn de autoriteiten bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=V&artikel=40&z=2024-01-01&g=2024-01-01).
 
-2. De tot weigering of vervallenverklaring bevoegde autoriteit die een aanvraag in behandeling neemt betreffende een persoon ten aanzien van wie een mededeling als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), is gedaan, of die een ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=52&z=2024-01-01&g=2024-01-01) of [53](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=53&z=2024-01-01&g=2024-01-01) ingehouden reisdocument heeft ontvangen, overtuigt zich er terstond van of de gronden tot weigering of vervallenverklaring ten aanzien van betrokkene nog bestaan.
+2. De tot weigering of vervallenverklaring bevoegde autoriteit die een aanvraag in behandeling neemt betreffende een persoon ten aanzien van wie een mededeling als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), is gedaan, of die een ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=52&z=2024-01-01&g=2024-01-01) of [53](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=53&z=2024-01-01&g=2024-01-01) ingehouden reisdocument heeft ontvangen, overtuigt zich er terstond van of de gronden tot weigering of vervallenverklaring ten aanzien van betrokkene nog bestaan.
 
 3. Op verzoek van de tot weigering of vervallenverklaring bevoegde autoriteit zendt Onze Minister onderscheidenlijk de Gouverneur aan deze de in het register opgenomen gegevens van de betrokkene toe.
 
@@ -575,11 +640,21 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 3. Het bepaalde in het tweede lid is van overeenkomstige toepassing op de vreemdelingen aan wie op grond van de [artikelen 11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01) een Nederlands reisdocument is verstrekt, voor zover zij nog beschikken over een geldige titel tot verblijf in een der landen van het Koninkrijk.
 
+##### Artikel 46a0
+
+1. De [artikelen 44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=46&z=2024-01-01&g=2024-01-01) zijn niet van toepassing indien de weigering geschiedt op de grond, genoemd in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01).
+
+2. Aan de Nederlander aan wie ontheffing is verleend van het uitreisverbod, bedoeld in [artikel 3 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=3), maar aan wie de verstrekking van een reisdocument moet worden geweigerd op grond van [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01), kan een reisdocument worden verstrekt als bedoeld in [artikel 2, eerste lid, onder a of onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), met een zodanige beperkte tijdelijke en territoriale geldigheid als de ontheffing vereist.
+
 ##### Artikel 46a
 
 1. Een Nederlandse identiteitskaart kan niet vervallen worden verklaard en kan uitsluitend worden geweigerd op de grond, genoemd in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01).
 
 2. Een vervangende Nederlandse identiteitskaart kan niet worden geweigerd of vervallen verklaard.
+
+##### Artikel 46b
+
+Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de termijnen of de procedures ten aanzien van de weigering of vervallenverklaring van reisdocumenten.
 
 ### Hoofdstuk VII. Verval van rechtswege
 
@@ -591,7 +666,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 - a. de houder van het reisdocument, waarin staat vermeld dat deze de Nederlandse nationaliteit bezit, het Nederlanderschap heeft verloren;
 
-- b. de houder van het reisdocument voor vluchtelingen of van het reisdocument voor vreemdelingen niet meer beschikt over de status of verblijfstitel op grond waarvan hem het reisdocument is verstrekt, het Nederlanderschap dan wel de nationaliteit van een ander land heeft verkregen of, houder zijnde van een reisdocument als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01),[14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=14&z=2024-01-01&g=2024-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), door een ander land van een reisdocument is voorzien;
+- b. de houder van het reisdocument voor vluchtelingen of van het reisdocument voor vreemdelingen niet meer beschikt over de status of verblijfstitel op grond waarvan hem het reisdocument is verstrekt, het Nederlanderschap dan wel de nationaliteit van een ander land heeft verkregen of, houder zijnde van een reisdocument als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01),[14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=14&z=2024-01-01&g=2024-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=II&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), door een ander land van een reisdocument is voorzien;
 
 - c. de redenen die tot de verstrekking van het diplomatiek paspoort, het dienstpaspoort of het reisdocument als bedoeld in [artikel 2, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), hebben geleid, zijn vervallen;
 
@@ -615,7 +690,7 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 4. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de vermelding bedoeld in het tweede lid, alsmede over de verwijdering daarvan.
 
-#### § 1. Algemeen
+#### § 2. Reisdocumenten van handelingsonbekwamen
 
 ##### Artikel 48
 
@@ -645,7 +720,21 @@ De autoriteiten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/
 
 3. De in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=2&artikel=48&z=2024-01-01&g=2024-01-01), bedoelde autoriteit draagt zorg voor de verwijdering van de vermelding van de houder uit het daarbedoelde register, zodra ingevolge het eerste lid het reisdocument aan de houder is teruggegeven, dan wel ingevolge het tweede lid aan de houder een nieuw reisdocument is verstrekt en het eerder uitgereikt reisdocument door hem is ontvangen. [Artikel 25, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-### Hoofdstuk VI. Weigering of vervallenverklaring
+##### Artikel 50a
+
+Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de procedures ten aanzien van het vervallen van rechtswege van reisdocumenten van handelingsonbekwamen.
+
+### Hoofdstuk VIII. Inhouding en inlevering
+
+##### Artikel 50b
+
+Bevoegd tot het inhouden van reisdocumenten zijn:
+
+- a. de autoriteiten, die bevoegd zijn tot het in ontvangst nemen van een aanvraag voor reisdocumenten;
+
+- b. de autoriteiten belast met de grensbewaking, de politie en de ambtenaren belast met het toezicht op vreemdelingen;
+
+- c. de autoriteiten, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=19&z=2024-01-01&g=2024-01-01), in de situatie bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=52&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 51
 
@@ -677,19 +766,19 @@ Een reisdocument kan worden ingehouden door de autoriteiten, bedoeld in de [arti
 
 - e. blijkt dat daarin abusievelijk verkeerde gegevens zijn vermeld dan wel anderszins fouten zijn gemaakt bij de vervaardiging van het reisdocument.
 
-2. De houder van een reisdocument dat van rechtswege is vervallen ingevolge het bepaalde in [artikel 47, eerste lid, onder a, b, c, e, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01), wordt hiervan op het moment van de inhouding in kennis gesteld door de tot inhouding van het reisdocument bevoegde autoriteit.
+2. De houder van een reisdocument dat van rechtswege is vervallen ingevolge het bepaalde in [artikel 47, eerste lid, onder a, b, c, e, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01), wordt hiervan op het moment van de inhouding in kennis gesteld door de tot inhouding van het reisdocument bevoegde autoriteit.
 
 3. De daartoe bevoegde autoriteit onttrekt het ingehouden reisdocument definitief aan het verkeer, tenzij nog een beroepstermijn openstaat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is.
 
 4. Indien de autoriteit die het reisdocument heeft ingehouden, niet bevoegd is tot definitieve onttrekking van reisdocumenten aan het verkeer, zendt hij het ingehouden reisdocument onverwijld aan een daartoe wel bevoegde autoriteit. De houder wordt hiervan terstond in kennis gesteld.
 
-5. Indien het van rechtswege vervallen reisdocument is ingehouden naar aanleiding van een mededeling van Onze Minister als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), wordt Onze Minister van de inhouding onverwijld in kennis gesteld.
+5. Indien het van rechtswege vervallen reisdocument is ingehouden naar aanleiding van een mededeling van Onze Minister als bedoeld in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01), wordt Onze Minister van de inhouding onverwijld in kennis gesteld.
 
 6. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de procedures ten aanzien van de inhouding van reisdocumenten.
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
@@ -711,7 +800,7 @@ Het toezicht op de uitvoering van deze wet berust bij Onze Minister. Aan hem en 
 
 2. Onze Minister kan regels vaststellen voor de nadere uitwerking van de procedures betreffende het aanvraag- en uitgifteproces van reisdocumenten, alsmede over de technische uitwerking en de beveiliging van dit proces.
 
-### Hoofdstuk IX. Toezicht
+### Hoofdstuk X. Strafbepalingen
 
 ##### Artikel 60
 
@@ -737,119 +826,25 @@ Ieder is verplicht een reisdocument dat hij voorhanden heeft, maar waarvan hij n
 
 Bij wet onderscheidenlijk bij landsverordening wordt overtreding van het in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=X&artikel=60&z=2024-01-01&g=2024-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=X&artikel=61&z=2024-01-01&g=2024-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=X&artikel=62&z=2024-01-01&g=2024-01-01) bepaalde strafbaar gesteld.
 
-### Hoofdstuk X. Strafbepalingen
+### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
 
 ##### Artikel 64
 
 Bij landsverordening wordt geregeld de mogelijkheid voorziening te vragen tegen de op grond van deze wet genomen beschikkingen.
 
-### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
+### Hoofdstuk XII. Overgangs- en slotbepalingen
 
 ##### Artikel 65
 
-Vervallen
-
-##### Artikel 66
-
-Vervallen
-
-##### Artikel 67
-
-Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen verschillende tijdstippen worden vastgesteld, waarop [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), voor zover het betreft de vermelding van het geslacht als persoonsgegeven van de houder, respectievelijk [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=56&z=2024-01-01&g=2024-01-01), voor zover het betreft de inlevering van reisdocumenten die ingevolge [artikel 47, eerste lid, onder **d,**](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01) van rechtswege zijn vervallen, in werking treden.
-
-##### Artikel 68
-
-Deze rijkswet kan worden aangehaald als "Paspoortwet".
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4b
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk II. Aanspraken op reisdocumenten
-
-#### § 1. Paspoorten voor Nederlanders
-
-#### § 2. Reisdocumenten voor niet-Nederlanders
-
-#### § 1. Paspoorten voor Nederlanders
-
-#### § 3A. Nederlandse identiteitskaart
-
-#### § 4. Bijschrijving
-
-### Hoofdstuk III. Gronden tot weigering of vervallenverklaring
-
-#### § 1. De gronden
-
-#### § 1. De gronden
-
-### Hoofdstuk IV. Aanvraag
-
-#### § 1. Algemeen
-
-#### § 2. Aanvragen door of ten behoeve van handelingsonbekwamen
-
-### Hoofdstuk V. Verstrekking, wijziging en uitreiking
-
-##### Artikel 41a
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk VI. Weigering of vervallenverklaring
-
-### Hoofdstuk VII. Verval van rechtswege
-
-#### § 1. Algemeen
-
-### Hoofdstuk VIII. Inhouding en inlevering
-
-### Hoofdstuk IX. Toezicht
-
-### Hoofdstuk IX. Toezicht
-
-### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 23a
-
-Weigering of vervallenverklaring kan geschieden op verzoek van Onze Minister die het aangaat, indien naar aanleiding van een daarop betrekking hebbende kennisgeving door een bevoegde autoriteit van een met het Koninkrijk bevriende mogendheid het gegronde vermoeden bestaat dat de betrokken persoon zich in dat land zal onttrekken aan een tegen hem ingestelde strafvervolging of tenuitvoerlegging van een hem opgelegde straf of maatregel in verband met gedragingen die naar het recht van een van de landen binnen het Koninkrijk een misdrijf opleveren waarvoor een vrijheidsstraf van een jaar of van langere duur kan worden opgelegd.
-
-#### § 2. Registratie
-
-### Hoofdstuk IV. Aanvraag
-
-#### § 1. Algemeen
-
-#### § 1. Algemeen
-
-### Hoofdstuk V. Verstrekking, wijziging en uitreiking
-
-### Hoofdstuk VI. Weigering of vervallenverklaring
-
-### Hoofdstuk VII. Verval van rechtswege
-
-#### § 1. Algemeen
-
-#### § 1. Algemeen
-
-### Hoofdstuk VIII. Inhouding en inlevering
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
-
-### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*
 
 ##### Artikel 65a
 
-Vervallen
+*Vervallen*
 
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 66
+
+*Vervallen*
 
 ##### Artikel 66a
 
@@ -857,178 +852,10 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 2. Op Nederlandse identiteitskaarten, verstrekt vóór de datum van inwerkingtreding van artikel I, onderdeel B, van de Wijziging van de Paspoortwet in verband met onder meer de status van de Nederlandse identiteitskaart, zijn [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=XII&artikel=65&z=2024-01-01&g=2024-01-01) van toepassing zoals deze luidden voor die datum.
 
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 67
 
-##### Artikel 23b
+Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen verschillende tijdstippen worden vastgesteld, waarop [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), voor zover het betreft de vermelding van het geslacht als persoonsgegeven van de houder, respectievelijk [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=56&z=2024-01-01&g=2024-01-01), voor zover het betreft de inlevering van reisdocumenten die ingevolge [artikel 47, eerste lid, onder *d,*](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VII&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01) van rechtswege zijn vervallen, in werking treden.
 
-Weigering geschiedt op verzoek van Onze Minister die het aangaat, indien de betrokken persoon een verbod is opgelegd als bedoeld in [artikel 3 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=3).
+##### Artikel 68
 
-##### Artikel 46a0
-
-1. De [artikelen 44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=44&z=2024-01-01&g=2024-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=45&z=2024-01-01&g=2024-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VI&artikel=46&z=2024-01-01&g=2024-01-01) zijn niet van toepassing indien de weigering geschiedt op de grond, genoemd in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01).
-
-2. Aan de Nederlander aan wie ontheffing is verleend van het uitreisverbod, bedoeld in [artikel 3 van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&artikel=3), maar aan wie de verstrekking van een reisdocument moet worden geweigerd op grond van [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=23b&z=2024-01-01&g=2024-01-01), kan een reisdocument worden verstrekt als bedoeld in [artikel 2, eerste lid, onder a of onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), met een zodanige beperkte tijdelijke en territoriale geldigheid als de ontheffing vereist.
-
-### Hoofdstuk VII. Verval van rechtswege
-
-#### § 2. Reisdocumenten van handelingsonbekwamen
-
-### Hoofdstuk VIII. Inhouding en inlevering
-
-### Hoofdstuk IX. Toezicht
-
-### Hoofdstuk VIII. Inhouding en inlevering
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-De houder wiens reisdocument is vermist of mogelijk voorwerp is van fraude, kan dat op een bij ministeriële regeling te bepalen wijze melden.
-
-### Hoofdstuk II. Aanspraken op reisdocumenten
-
-#### § 1. Paspoorten voor Nederlanders
-
-#### § 2. Reisdocumenten voor niet-Nederlanders
-
-### Hoofdstuk IV. Aanvraag
-
-#### § 1. Algemeen
-
-#### § 2. Aanvragen door of ten behoeve van handelingsonbekwamen
-
-### Hoofdstuk V. Verstrekking, wijziging en uitreiking
-
-### Hoofdstuk VI. Weigering of vervallenverklaring
-
-### Hoofdstuk VII. Verval van rechtswege
-
-#### § 2. Reisdocumenten van handelingsonbekwamen
-
-### Hoofdstuk VIII. Inhouding en inlevering
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 1. Definities en reikwijdte
-
-#### § 2. Gegevens ten behoeve van reisdocumenten
-
-##### Artikel 3a
-
-1. Bij algemene maatregel van rijksbestuur kunnen documenten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) worden aangewezen waar het publiek identificatiemiddel op wordt geplaatst.
-
-2. Het publiek identificatiemiddel dat krachtens het eerste lid op het document is geplaatst, bevat de bij algemene maatregel van rijksbestuur vast te stellen gegevens.
-
-3. Gebruik van het publiek identificatiemiddel is alleen mogelijk indien de houder van het document beschikt over een burgerservicenummer.
-
-4. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtrent de technische en organisatorische inrichting van de voorzieningen die noodzakelijk zijn voor de vervaardiging en het kunnen gebruiken van het publiek identificatiemiddel en de daarmee samenhangende verwerking van gegevens.
-
-5. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtrent de kosten die ten laste worden gebracht voor vervaardiging en verstrekking van een publiek identificatiemiddel en voor de handelingen die door Onze Minister worden verricht voor het gebruik kunnen maken van dit middel.
-
-#### § 3. Het basisregister reisdocumenten
-
-##### Artikel 4c
-
-1. Er is een basisregister reisdocumenten. Onze Minister is verantwoordelijk voor de gegevensverwerkingen in dit register.
-
-2. Het basisregister reisdocumenten heeft tot doel de autoriteiten, instellingen en personen bedoeld in [artikel 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=3&artikel=4e&z=2024-01-01&g=2024-01-01) te voorzien van de in het basisregister reisdocumenten opgenomen gegevens voor zover deze gegevens noodzakelijk zijn voor de vervulling van hun taken en werkzaamheden bedoeld in dat artikel. Het basisregister reisdocumenten heeft mede tot doel om organen en instellingen te voorzien van de in het register opgenomen gegevens in overige bij algemene maatregel van rijkbestuur aan te wijzen gevallen.
-
-3. Onze Minister stelt regels over het beheer, de beveiliging en de betrouwbaarheid van het register.
-
-##### Artikel 4d
-
-1. In het basisregister reisdocumenten worden uitsluitend de volgende gegevens opgenomen:
-
-- a. gegevens als bedoeld in [artikel 3, eerste, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01);
-
-- b. gegevens die bij de aanvraag zijn overgelegd, niet zijnde de gezichtsopname, handtekening dan wel vingerafdruk van de aanvrager, en gegevens die betrekking hebben op de status van een reisdocument, alsmede de autoriteit die de gegevens heeft verstrekt en de datum waarop de gegevens zijn verstrekt;
-
-- c. gegevens met betrekking tot de status van het reisdocument als publiek identificatiemiddel.
-
-2. De autoriteiten, belast met de uitvoering van deze wet, en de bestuursorganen en aangewezen organisaties bedoeld in de Wet digitale overheid verstrekken de in het basisregister reisdocumenten op te nemen gegevens aan Onze Minister.
-
-3. Bij of krachtens algemene maatregel van rijksbestuur kunnen andere organen, instellingen en personen voor verstrekking worden aangewezen die bij de uitoefening van hun wettelijke taak over gegevens komen te beschikken die van belang zijn voor de bijhouding van het basisregister reisdocumenten.
-
-4. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld omtrent de gegevensverwerking in het basisregister reisdocumenten, alsmede de bewaartermijn, de verwijdering en de vernietiging van de in het basisregister reisdocumenten opgenomen gegevens.
-
-##### Artikel 4e
-
-1. De gegevens uit het basisregister reisdocumenten kunnen worden verstrekt ten behoeve van de volgende taken of werkzaamheden aan de daarmee belaste organen en instellingen:
-
-- a. voor het in ontvangst nemen van aanvragen en het uitreiken, verstrekken, weigeren, wijzigen, vervallen verklaren, inhouden, dan wel definitief aan het verkeer onttrekken van documenten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) van deze wet: de autoriteiten die belast zijn met deze taken;
-
-- b. voor het uitvoeren van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=2&artikel=25&z=2024-01-01&g=2024-01-01) van deze wet: Onze Minister, de Gouverneurs en de tot signalering bevoegde organen;
-
-- c. voor het laten functioneren van de voorzieningen ten behoeve van elektronisch berichtenverkeer, elektronische informatieverschaffing en elektronische authenticatie: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-- d. ter voorkoming en bestrijding van misbruik van of fraude met reisdocumenten: de organen, instellingen en personen met een wettelijke verplichting of een gerechtvaardigd belang daartoe;
-
-- e. voor de taken in het belang van de nationale veiligheid: de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst;
-
-- f. voor opsporing of voor toezicht op naleving van wettelijke voorschriften: organen en personen met een publiekrechtelijke opsporingstaak, onderscheidenlijk met een toezichthoudende taak;
-
-- g. ter identificatie van slachtoffers als gevolg van rampen of strafbare feiten: organen en personen die op grond van een wettelijk voorschrift zijn belast met deze taak;
-
-- h. ter uitvoering van de Rijkswet op het Nederlanderschap: Onze Minister van Justitie en Veiligheid;
-
-- i. ter uitvoerlegging van strafvonnissen: Onze Minister die het aangaat.
-
-2. De gegevens uit het basisregister reisdocumenten kunnen ook worden verstrekt ten behoeve van aanvullende bij algemene maatregel van rijksbestuur aan te wijzen gevallen.
-
-3. Ten aanzien van de verstrekkingen bedoeld in het eerste lid, onderdeel a, van dit artikel wordt bij of krachtens algemene maatregel van rijksbestuur bepaald welke gegevens worden verstrekt en op welke wijze deze verstrekkingen plaatsvinden.
-
-4. Alle overige verstrekkingen uit het basisregister reisdocumenten vinden plaats op grond van een besluit van Onze Minister naar aanleiding van een daartoe in te dienen aanvraag. In dit besluit wordt bepaald welke gegevens worden verstrekt en de wijze waarop deze gegevens worden verstrekt. Van dit besluit wordt mededeling gedaan op een voor eenieder kenbare wijze.
-
-### Hoofdstuk II. Aanspraken op reisdocumenten
-
-#### § 3. Nooddocumenten en andere reisdocumenten
-
-#### § 3A. Nederlandse identiteitskaart
-
-### Hoofdstuk III. Gronden tot weigering of vervallenverklaring
-
-#### § 2. Registratie
-
-### Hoofdstuk IV. Aanvraag
-
-#### § 2. Aanvragen door of ten behoeve van handelingsonbekwamen
-
-### Hoofdstuk V. Verstrekking, wijziging en uitreiking
-
-##### Artikel 46b
-
-Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de termijnen of de procedures ten aanzien van de weigering of vervallenverklaring van reisdocumenten.
-
-### Hoofdstuk VII. Verval van rechtswege
-
-#### § 1. Algemeen
-
-#### § 2. Reisdocumenten van handelingsonbekwamen
-
-##### Artikel 50a
-
-Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld over de procedures ten aanzien van het vervallen van rechtswege van reisdocumenten van handelingsonbekwamen.
-
-##### Artikel 50b
-
-Bevoegd tot het inhouden van reisdocumenten zijn:
-
-- a. de autoriteiten, die bevoegd zijn tot het in ontvangst nemen van een aanvraag voor reisdocumenten;
-
-- b. de autoriteiten belast met de grensbewaking, de politie en de ambtenaren belast met het toezicht op vreemdelingen;
-
-- c. de autoriteiten, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=III&paragraaf=1&artikel=19&z=2024-01-01&g=2024-01-01), in de situatie bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=VIII&artikel=52&z=2024-01-01&g=2024-01-01).
-
-### Hoofdstuk IX. Toezicht
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk XI. Administratieve rechtsbescherming in Aruba, Curaçao en Sint Maarten
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze rijkswet kan worden aangehaald als "Paspoortwet".

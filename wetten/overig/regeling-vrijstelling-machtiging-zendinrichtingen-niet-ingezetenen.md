@@ -1,42 +1,17 @@
 ---
 title: "Regeling vrijstelling machtiging zendinrichtingen niet-ingezetenen"
 identifier: "BWBR0004456"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004456"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4994413"
-version_id: "8661412"
-internal_id: "C11213111"
-label_id: "4971024"
-dtd_version: "2.0"
-original_entry_into_force: "1989-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004456/1998-01-01/0"
-intitule_bron: "Stcrt.1988-254"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-12-19"
-intitule_published: "1988-12-30"
-intitule_in_force: "1988-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1988-254"
-original_signed_date: "1988-12-19"
-original_published_date: "1988-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-01-01"
-jci_1_3: "jci1.3:c:BWBR0004456&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0004456&g=1998-01-01"
-citeertitel_status: "officieel"
-signed_date: "1988-12-19"
-entry_into_force: "1989-01-01"
+publicatiedatum: 1989-01-01
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0004456"
+opgehaald: 2026-07-31
 ---
+
 # Regeling vrijstelling machtiging zendinrichtingen niet-ingezetenen
-
-Gelet op artikel D.4.1 van het Besluit radio-elektrische inrichtingen (Stb. 1988, 552);
-
-Besluit:
 
 ### I. Landmobiele radiocommunicatie
 
@@ -59,8 +34,6 @@ Een niet-ingezetene die tijdelijk in Nederland verblijft en in één van de land
 ##### Artikel 2b
 
 1. De zendinrichting mag uitsluitend worden gebruikt voor zakelijk berichtenverkeer.
-
-2.
 
 Het in het land van machtigingsuitgifte afgegeven machtigingsbewijs conform het in CEPT-verband overeengekomen model dient op eerste aanzegging van een toezichthouder te worden getoond.
 

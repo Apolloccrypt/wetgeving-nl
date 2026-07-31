@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 4 juli 1989, houdende vaststelling van het Besluit opneming buitenlandse pleegkinderen en wijziging van het Uitvoeringsbesluit Kinderbescherming"
+citeertitel: "Besluit opneming buitenlandse kinderen ter adoptie"
 identifier: "BWBR0004582"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-02-13"
-last_updated: "2020-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004582"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "794093"
-version_id: "1151882"
-internal_id: "C1151881"
-label_id: "769854"
-dtd_version: "2.0"
-original_entry_into_force: "1998-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004582/2020-02-13/0"
-intitule_bron: "Stb.1989-262"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-07-04"
-intitule_status: "goed"
-original_publication: "Stb.1998-388"
-original_signed_date: "1998-06-30"
-original_published_date: "1998-07-09"
-original_effect: "structuurwijziging"
-original_url_id: "stb-1998-388"
-entry_into_force_date: "1998-10-01"
-entry_into_force_dossier: "24811"
-jci_1_3: "jci1.3:c:BWBR0004582&z=2020-02-13&g=2020-02-13"
-jci_1_0: "1.0:c:BWBR0004582&g=2020-02-13"
-citeertitel_status: "officieel"
-short_title: "Besluit opneming buitenlandse kinderen ter adoptie"
-signed_date: "1998-06-30"
-entry_into_force: "1998-10-01"
+publicatiedatum: 1998-10-01
+laatste_update: 2020-02-13
+status: geldig
+toestand: 2020-02-13
+bron: "https://wetten.overheid.nl/BWBR0004582"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 4 juli 1989, houdende vaststelling van het Besluit opneming buitenlandse pleegkinderen en wijziging van het Uitvoeringsbesluit Kinderbescherming
-
-Op de voordracht van de Staatssecretaris van Justitie van 30 maart 1989, Hoofdafdeling Privaatrecht nr. 156/189;
-
-Gelet op de artikelen 4, onder **d**, 5, derde lid, 7, achtste lid, en 16, achtste lid, van de Wet houdende regelen inzake de opneming in Nederland van buitenlandse pleegkinderen met het oog op adoptie ([Wet opneming buitenlandse pleegkinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004447))(**Stb.** 1988, 566);
-
-De Raad van State gehoord (advies van 27 juni 1989, nr. W03.89.0169);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 29 juni 1989, Hoofdafdeling Privaatrecht, nr. 309/189;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
@@ -51,7 +20,7 @@ Vastgesteld worden de volgende bepalingen, die kunnen worden aangehaald als: Bes
 
 ##### Artikel 1
 
-Onze Minister wijst, ter uitvoering van [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5), een rechtspersoon met volledige rechtsbevoegdheid aan, die krachtens zijn doelstelling tot taak heeft algemene voorlichting te verstrekken aan aspirant-adoptiefouders die een verzoek tot verlening van een beginseltoestemming hebben ingediend, hierna te noemen: aangewezen rechtspersoon.
+Onze Minister wijst, ter uitvoering van [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5), een rechtspersoon met volledige rechtsbevoegdheid aan, die krachtens zijn doelstelling tot taak heeft algemene voorlichting te verstrekken aan aspirant-adoptiefouders die een verzoek tot verlening van een beginseltoestemming hebben ingediend, hierna te noemen: aangewezen rechtspersoon.
 
 ##### Artikel 2
 
@@ -77,7 +46,7 @@ De aan te wijzen rechtspersoon moet aan de volgende eisen voldoen:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -87,7 +56,7 @@ Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de 
 
 1. Behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2020-02-13&g=2020-02-13) wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=4) bedoelde bijdragen van aspirant-adoptiefouders. De algemene voorlichting wordt gegeven gedurende zes bijeenkomsten, waarvan de eerste inleidend is.
 
-2. Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 210,– voor de inleidende bijeenkomst en € 1.385,– voor vijf daaropvolgende bijeenkomsten tezamen.
+2. Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 210,– voor de inleidende bijeenkomst en € 1.385,– voor vijf daaropvolgende bijeenkomsten tezamen.
 
 3. De aangewezen rechtspersoon int de in het eerste lid bedoelde bijdragen.
 
@@ -151,18 +120,16 @@ De vergunninghouder legt de afspraken die tussen hem en de aspirant-pleegouders 
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Dit besluit, alsmede de [Wet opneming buitenlandse pleegkinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) (**Stb.** 1988, 566), treden in werking met ingang van 15 juli 1989.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit, alsmede de [Wet opneming buitenlandse pleegkinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) (*Stb.* 1988, 566), treden in werking met ingang van 15 juli 1989.

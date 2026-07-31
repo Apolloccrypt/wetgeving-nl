@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 6 november 1991, houdende vaststelling van het Kadasterbesluit"
+citeertitel: "Kadasterbesluit"
 identifier: "BWBR0005259"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005259"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "414103"
-version_id: "607652"
-internal_id: "C607651"
-label_id: "403844"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005259/2019-07-01/0"
-intitule_bron: "Stb.1991-571"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-06"
-intitule_status: "goed"
-original_publication: "Stb.1991-571"
-original_signed_date: "1991-11-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005259&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0005259&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Kadasterbesluit"
-signed_date: "1991-11-06"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0005259"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 6 november 1991, houdende vaststelling van het Kadasterbesluit
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 24 januari 1991, nr. MJZ24191041, Centrale Directie Juridische Zaken, afdeling Wetgeving, gedaan mede namens Onze Minister van Justitie;
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=2), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=45), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56), [57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=57), [59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=64), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=65), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=67), [70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=70), [73, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=73), [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=74), [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=75), [87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87), [89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=91), [94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=94), [96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=96), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=98), [102, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), en [105, eerste en tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=105) (**Stb.** 1991, 570);
-
-De Raad van State gehoord, advies van 13 augustus 1991, no. W08.91.0049;
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 oktober 1991, nr. MJZ 29o91014, Centrale Directie Juridische Zaken, afdeling Wetgeving, uitgebracht mede namens Onze Minister van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -60,7 +32,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Onroerende zaken worden kadastraal aangeduid door vermelding van achtereenvolgens de kadastrale gemeente en sectie, waarin de percelen en gedeelten van percelen zijn gelegen waarvan het grondgebied tot die zaak behoort, alsmede de nummers van die percelen. Onze Minister kan regels vaststellen omtrent de wijze waarop gedeelten van percelen, naast vermelding van de kadastrale aanduiding, nader worden aangeduid in het in te schrijven stuk. Voor een onroerende zaak die zich krachtens een opstalrecht op, in of boven de grond van een ander bevindt, geldt dezelfde kadastrale aanduiding als van de onroerende zaak die met dat opstalrecht is bezwaard. De tweede zin is van overeenkomstige toepassing op een onroerende zaak die zich op, in of boven de grond van een ander bevindt krachtens een recht als bedoeld in het vóór 1 januari 1992 geldende [artikel 5, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&hoofdstuk=3&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01), laatste zinsnede, van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en daar aangeduid als een recht niet met name in het Burgerlijk Wetboek genoemd.
+1. Onroerende zaken worden kadastraal aangeduid door vermelding van achtereenvolgens de kadastrale gemeente en sectie, waarin de percelen en gedeelten van percelen zijn gelegen waarvan het grondgebied tot die zaak behoort, alsmede de nummers van die percelen. Onze Minister kan regels vaststellen omtrent de wijze waarop gedeelten van percelen, naast vermelding van de kadastrale aanduiding, nader worden aangeduid in het in te schrijven stuk. Voor een onroerende zaak die zich krachtens een opstalrecht op, in of boven de grond van een ander bevindt, geldt dezelfde kadastrale aanduiding als van de onroerende zaak die met dat opstalrecht is bezwaard. De tweede zin is van overeenkomstige toepassing op een onroerende zaak die zich op, in of boven de grond van een ander bevindt krachtens een recht als bedoeld in het vóór 1 januari 1992 geldende [artikel 5, derde lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&hoofdstuk=3&titeldeel=1&artikel=5&z=2019-07-01&g=2019-07-01), laatste zinsnede, van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en daar aangeduid als een recht niet met name in het Burgerlijk Wetboek genoemd.
 
 2. Appartementsrechten worden kadastraal aangeduid door de vermelding van achtereenvolgens de kadastrale gemeente en sectie, waarin de in de splitsing betrokken percelen zijn gelegen, de complexaanduiding en de appartementsindex.
 
@@ -72,27 +44,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Indien een netwerk is gelegen binnen de kring van meer dan één kantoor van de Dienst, wordt het netwerk ten aanzien van elk van die kantoren kadastraal aangeduid.
 
+### Hoofdstuk 2. Openbare registers voor registergoederen
+
 ##### Artikel 2a
 
 Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op onroerende zaken of op rechten waaraan die zaken zijn onderworpen, worden, voor zover in papieren vorm, aangeboden op een plaats als bedoeld in [artikel 4, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4) en, voor zover in elektronische vorm, aan een elektronisch postadres als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=10).
-
-##### Artikel 2b
-
-Ter uitvoering van de taak, genoemd in [artikel 3, eerste lid, onderdeel f, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3), heeft de Dienst, onverminderd het bepaalde daaromtrent bij of krachtens de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), mede tot taak het vervaardigen van informatie door verwerking van persoons- en niet-persoonsgegevens die de Dienst heeft verkregen in het kader van de vervulling van de hem opgedragen taken en het verstrekken van die informatie, voorzover die informatie strekt tot:
-
-- a. de bevordering van de rechtszekerheid ten aanzien van registergoederen:
-
-- 1°. in het rechtsverkeer;
-
-- 2°. in het economisch verkeer, of
-
-- 3°. in het bestuurlijk verkeer tussen burgers en bestuursorganen;
-
-- b. een doelmatige informatievoorziening van de overheid ten behoeve van de goede vervulling van publiekrechtelijke taken en de nakoming van wettelijke verplichtingen door bestuursorganen, of
-
-- c. ondersteuning en bevordering van de economische activiteiten.
-
-### Hoofdstuk 2. Openbare registers voor registergoederen
 
 ##### Artikel 3
 
@@ -108,9 +64,9 @@ Ter uitvoering van de taak, genoemd in [artikel 3, eerste lid, onderdeel f, van 
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de inschrijving van een overgang van een registergoed, die het gevolg is van een internationaal verdrag dat, of een internationale overeenkomst die, in verband met wijziging van de landsgrenzen, verandering in eigendomssituaties brengt.
 
-### Hoofdstuk 3. Bijwerking van de kadastrale registratie en de kadastrale kaarten
+### Hoofdstuk 3. Bijwerking van de basisregistratie kadaster
 
-## Titel 1. Algemene bepalingen omtrent bijwerking
+### Titel 1. Algemene bepalingen omtrent bijwerking
 
 ##### Artikel 4
 
@@ -136,15 +92,15 @@ Ter uitvoering van de taak, genoemd in [artikel 3, eerste lid, onderdeel f, van 
 
 - a. de gevallen waarin de inschrijving betreft
 
-- 1°. een recht van hypotheek,
+   - 1°. een recht van hypotheek,
 
-- 2°. een erfdienstbaarheid,
+   - 2°. een erfdienstbaarheid,
 
-- 3°. een vruchtgebruik dat betrekking heeft op een gedeelte van een gebouw,
+   - 3°. een vruchtgebruik dat betrekking heeft op een gedeelte van een gebouw,
 
-- 4°. een recht van opstal dat uitsluitend betreft het leggen en houden van leidingen in, op of boven de onroerende zaak van een ander, of
+   - 4°. een recht van opstal dat uitsluitend betreft het leggen en houden van leidingen in, op of boven de onroerende zaak van een ander, of
 
-- 5°. een recht als bedoeld in het vóór 1 januari 1992 geldende [artikel 5, derde lid, onder b, laatste zinsnede, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=5) en daar aangeduid als een recht niet met name in het Burgerlijk Wetboek genoemd, alsmede
+   - 5°. een recht als bedoeld in het vóór 1 januari 1992 geldende [artikel 5, derde lid, onder b, laatste zinsnede, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=5) en daar aangeduid als een recht niet met name in het Burgerlijk Wetboek genoemd, alsmede
 
 - b. bijzondere gevallen waarin het desbetreffende perceel met een voorlopige grens of perceelsgedeelte naar het oordeel van de bewaarder niet voor meting vatbaar is.
 
@@ -160,7 +116,7 @@ Het van de basisregistratie kadaster deel uitmakende namenbestand, dat de in [ar
 
 Het van de basisregistratie kadaster deel uitmakende percelenbestand, waarin alle percelen en appartementsrechten met hun kadastrale aanduiding zijn opgenomen en dat de verwijzingen bevat als bedoeld in [artikel 48, tweede lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), wordt gewijzigd en aangevuld overeenkomstig hetgeen bij of krachtens de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&hoofdstuk=3&titeldeel=1&artikel=4&z=2019-07-01&g=2019-07-01) is bepaald.
 
-## Titel 2. Bijzondere bepalingen betreffende bijhouding
+### Titel 2. Bijzondere bepalingen betreffende bijhouding
 
 ##### Artikel 10
 
@@ -240,11 +196,11 @@ Het van de basisregistratie kadaster deel uitmakende percelenbestand, waarin all
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
@@ -254,7 +210,7 @@ Vervallen
 
 3. In het relaas van bevindingen wordt melding gemaakt van de in het eerste en tweede lid bedoelde omstandigheden.
 
-## Titel 3. Splitsing en samenvoeging van percelen
+### Titel 3. Splitsing en samenvoeging van percelen
 
 ##### Artikel 20
 
@@ -292,7 +248,7 @@ In de volgende gevallen kan de Dienst besluiten tot splitsing van percelen als b
 
 4. [Artikel 14, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&hoofdstuk=3&titeldeel=2&artikel=14&z=2019-07-01&g=2019-07-01), is van overeenkomstige toepassing.
 
-## Titel 4. Vernieuwing
+### Titel 4. Vernieuwing
 
 ##### Artikel 23
 
@@ -350,7 +306,7 @@ Het van de registratie voor schepen deel uitmakende bestand, waarin alle te boek
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Wijze van bijhouding van de registratie voor luchtvaartuigen
 
@@ -388,7 +344,7 @@ Het van de registratie voor luchtvaartuigen deel uitmakende bestand, waarin alle
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Verstrekken van inlichtingen
 
@@ -414,7 +370,7 @@ Vervallen
 
 - f. de beschikbaar gestelde gegevens uit de basisregistratie kadaster, mogen niet aan derden worden verstrekt, behoudens het bepaalde in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&hoofdstuk=6&artikel=37&z=2019-07-01&g=2019-07-01).
 
-2. Indien een houder van een aansluiting als bedoeld in het eerste lid, handelt in strijd met de in het eerste lid, onder **f**, genoemde voorwaarde dan wel de in het eerste lid, onder **d**, bedoelde regels niet in acht neemt, kan het bestuur van de Dienst de aansluiting beëindigen.
+2. Indien een houder van een aansluiting als bedoeld in het eerste lid, handelt in strijd met de in het eerste lid, onder *f*, genoemde voorwaarde dan wel de in het eerste lid, onder *d*, bedoelde regels niet in acht neemt, kan het bestuur van de Dienst de aansluiting beëindigen.
 
 3. Omtrent de wijze waarop de in het eerste lid bedoelde permanente aansluiting kan worden verkregen, worden door het bestuur van de Dienst regels gesteld.
 
@@ -434,6 +390,14 @@ Vervallen
 
 3. Intrekking van de in het eerste lid bedoelde verlening van de bevoegdheid kan ook plaatsvinden op verzoek van de gemeente.
 
+##### Artikel 37a
+
+1. De Dienst verstrekt op verzoek van personen als bedoeld in [artikel 42, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42), niet zijnde leden van het koninklijk huis, en van andere personen over wier veiligheid de politie op grond van die wet waakt gedurende een termijn van vijf jaar van die personen geen persoonsgegevens.
+
+2. De termijn, bedoeld in het eerste lid, wordt ten aanzien van personen als bedoeld in dat lid telkens verlengd met vijf jaar.
+
+3. In afwijking van het eerste lid verstrekt de Dienst aan bestuursorganen, deurwaarders en notarissen, van personen als bedoeld in het eerste lid de persoonsgegevens die zij nodig hebben voor het uitoefenen van hun wettelijke taken.
+
 ### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 38
@@ -450,42 +414,10 @@ De [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&hoo
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1992.
 
 2. Dit besluit kan worden aangehaald als: Kadasterbesluit.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
-
-### Hoofdstuk 2. Openbare registers voor registergoederen
-
-### Hoofdstuk 3. Bijwerking van de basisregistratie kadaster
-
-## Titel 1. Algemene bepalingen omtrent bijwerking
-
-## Titel 2. Bijzondere bepalingen betreffende bijhouding
-
-## Titel 3. Splitsing en samenvoeging van percelen
-
-## Titel 4. Vernieuwing
-
-### Hoofdstuk 4. Wijze van bijhouding van de registratie voor schepen
-
-### Hoofdstuk 5. Wijze van bijhouding van de registratie voor luchtvaartuigen
-
-### Hoofdstuk 6. Verstrekken van inlichtingen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
-
-##### Artikel 37a
-
-1. De Dienst verstrekt op verzoek van personen als bedoeld in [artikel 42, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42), niet zijnde leden van het koninklijk huis, en van andere personen over wier veiligheid de politie op grond van die wet waakt gedurende een termijn van vijf jaar van die personen geen persoonsgegevens.
-
-2. De termijn, bedoeld in het eerste lid, wordt ten aanzien van personen als bedoeld in dat lid telkens verlengd met vijf jaar.
-
-3. In afwijking van het eerste lid verstrekt de Dienst aan bestuursorganen, deurwaarders en notarissen, van personen als bedoeld in het eerste lid de persoonsgegevens die zij nodig hebben voor het uitoefenen van hun wettelijke taken.

@@ -1,42 +1,17 @@
 ---
 title: "Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur"
 identifier: "BWBR0004786"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1998-12-15"
-last_updated: "1998-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004786"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "5000583"
-version_id: "8668442"
-internal_id: "C11220621"
-label_id: "4977134"
-dtd_version: "2.0"
-original_entry_into_force: "1990-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004786/1998-12-15/0"
-intitule_bron: "Stcrt.1990-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-06-11"
-intitule_published: "1990-06-28"
-intitule_in_force: "1990-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-123"
-original_signed_date: "1990-06-11"
-original_published_date: "1990-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-06-29"
-jci_1_3: "jci1.3:c:BWBR0004786&z=1998-12-15&g=1998-12-15"
-jci_1_0: "1.0:c:BWBR0004786&g=1998-12-15"
-citeertitel_status: "officieel"
-signed_date: "1990-06-11"
-entry_into_force: "1990-06-29"
+publicatiedatum: 1990-06-29
+laatste_update: 1998-12-15
+status: geldig
+toestand: 1998-12-15
+bron: "https://wetten.overheid.nl/BWBR0004786"
+opgehaald: 2026-07-31
 ---
+
 # Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur
-
-Gelet op artikel 3 van de Wet op de telecommunicatievoorzieningen (Stb. 1988, 520);
-
-Besluit:
 
 #### 1. Algemeen
 
@@ -44,11 +19,23 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
+a.
+
+de Minister:
+
+de Minister van Verkeer en Waterstaat;
+
+b.
+
+de Hoofddirectie Telecommunicatie en Post:
+
+de Hoofddirectie Telecommunicatie en Post van het Ministerie van Verkeer en Waterstaat.
+
 #### 2. Voorschriften met betrekking tot het etherbeheer en -gebruik
 
 ##### Artikel 2
 
-Aan de houder van de concessie voor de telecommunicatie-infrastructuur worden de in de bijlage, behorende bij deze beschikking, opgenomen frequenties voor de daarbij aangegeven toepassingsdoeleinden toegewezen.
+Aan de houder van de concessie voor de telecommunicatie-infrastructuur worden de in de [bijlage](https://wetten.overheid.nl/BWBR0004786), behorende bij deze beschikking, opgenomen frequenties voor de daarbij aangegeven toepassingsdoeleinden toegewezen.
 
 ##### Artikel 3
 
@@ -85,7 +72,3 @@ Indien één of meer toegewezen frequenties of frequentie-banden in het kader va
 1. Deze beschikking treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 
 2. Deze beschikking kan worden aangehaald als: ‘Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur’.
-
-## Bijlage. behorende bij de Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur
-
-Bijlage integraal gepubliceerd bij beschikking van 20 juni 1996 (Stb. 1996, 321) en laatstelijk gewijzigd bij besluit van 18 augustus 1994 (Stcrt. 1994, 162). Niet opgenomen.

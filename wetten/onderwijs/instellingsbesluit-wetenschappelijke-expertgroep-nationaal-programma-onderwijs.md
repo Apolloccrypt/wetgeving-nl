@@ -1,52 +1,27 @@
 ---
 title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juli 2021, nr. 1161666, houdende instelling van de Wetenschappelijke Expertgroep Nationaal Programma Onderwijs (Instellingsbesluit Wetenschappelijke Expertgroep Nationaal Programma Onderwijs)"
+citeertitel: "Instellingsbesluit Wetenschappelijke Expertgroep Nationaal Programma Onderwijs"
 identifier: "BWBR0045421"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-12-03"
-last_updated: "2024-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045421"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16029503"
-version_id: "27914392"
-internal_id: "C39359821"
-label_id: "15963014"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045421/2024-12-03/0"
-intitule_bron: "Stcrt.2021-35621"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-07"
-intitule_published: "2021-07-20"
-intitule_in_force: "2021-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-35621"
-original_signed_date: "2021-07-07"
-original_published_date: "2021-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-35621"
-entry_into_force_date: "2021-07-21"
-jci_1_3: "jci1.3:c:BWBR0045421&z=2024-12-03&g=2024-12-03"
-jci_1_0: "1.0:c:BWBR0045421&g=2024-12-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Wetenschappelijke Expertgroep Nationaal Programma Onderwijs"
-signed_date: "2021-07-07"
-entry_into_force: "2021-07-21"
+publicatiedatum: 2021-07-21
+laatste_update: 2024-12-03
+status: vervallen
+vervallen_op: 2026-07-30
+toestand: 2024-12-03
+bron: "https://wetten.overheid.nl/BWBR0045421"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juli 2021, nr. 1161666, houdende instelling van de Wetenschappelijke Expertgroep Nationaal Programma Onderwijs (Instellingsbesluit Wetenschappelijke Expertgroep Nationaal Programma Onderwijs)
-
-Gelet op [artikel 1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=1), en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- a. *minister:* Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- b. **expertgroep:** Wetenschappelijke Expertgroep Nationaal Programma Onderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045421&artikel=2&z=2024-12-03&g=2024-12-03).
+- b. *expertgroep:* Wetenschappelijke Expertgroep Nationaal Programma Onderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045421&artikel=2&z=2024-12-03&g=2024-12-03).
 
 ##### Artikel 2. Instelling en taken
 
@@ -90,9 +65,9 @@ Voor de duur van de expertgroep worden tot lid van de expertgroep benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-1. De expertgroep wordt ingesteld met ingang van 1 juni 2021.
+1. De expertgroep wordt ingesteld met ingang van 1 juni 2021.
 
-2. De expertgroep wordt opgeheven op de datum van indiening van het eindverslag. Dat eindverslag zal uiterlijk op 31 februari 2026 door de expertgroep worden aangeboden aan de minister.
+2. De expertgroep wordt opgeheven op de datum van indiening van het eindverslag. Dat eindverslag zal uiterlijk op 31 februari 2026 door de expertgroep worden aangeboden aan de minister.
 
 ##### Artikel 6. Secretariaat
 
@@ -142,12 +117,10 @@ Een ieder die betrokken is geweest bij de werkzaamheden van de expertgroep en da
 
 ##### Artikel 13. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 juni 2021.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 juni 2021.
 
-2. Dit besluit vervalt op 31 juli 2026.
+2. Dit besluit vervalt op 31 juli 2026.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Wetenschappelijke Expertgroep Nationaal Programma Onderwijs.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

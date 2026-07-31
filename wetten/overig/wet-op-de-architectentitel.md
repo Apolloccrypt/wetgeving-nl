@@ -1,46 +1,18 @@
 ---
 title: "Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect"
+citeertitel: "Wet op de architectentitel"
 identifier: "BWBR0004189"
-country: "nl"
-rank: "wet"
-publication_date: "2021-08-26"
-last_updated: "2021-08-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004189"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1088343"
-version_id: "17224372"
-internal_id: "C25968681"
-label_id: "1055304"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004189/2021-08-26/0"
-intitule_bron: "Stb.1987-347"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-07"
-intitule_in_force: "1988-09-27"
-intitule_status: "goed"
-original_publication: "Stb.2010-130"
-original_signed_date: "2010-03-04"
-original_published_date: "2010-03-25"
-original_effect: "structuurwijziging"
-original_dossier: "32016"
-original_url_id: "stb-2010-130"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0004189&z=2021-08-26&g=2021-08-26"
-jci_1_0: "1.0:c:BWBR0004189&g=2021-08-26"
-citeertitel_status: "officieel"
-short_title: "Wet op de architectentitel"
-signed_date: "2010-03-04"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2021-08-26
+status: geldig
+toestand: 2021-08-26
+bron: "https://wetten.overheid.nl/BWBR0004189"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is bij de wet regelen te stellen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect, alsmede regelen te stellen ter uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen van 10 juni 1985 inzake de onderlinge erkenning van de diploma's, certificaten en andere titels op het gebied van de architectuur, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (**PbEG** 1985, L 223/15);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeen
 
@@ -82,7 +54,7 @@ opleidingstitel: diploma, certificaat, of andere titel dat of die door een daart
 
 register: architectenregister als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=II&artikel=2&z=2021-08-26&g=2021-08-26);
 
-richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255), zoals deze laatstelijk gewijzigd is bij richtlijn nr. 2013/55/EU van het Europees Parlement en de Raad van 20 november 2013 tot wijziging van richtlijn nr. 2005/36/EG betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening») (PbEU 2013, L 354).
+richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255), zoals deze laatstelijk gewijzigd is bij richtlijn nr. 2013/55/EU van het Europees Parlement en de Raad van 20 november 2013 tot wijziging van richtlijn nr. 2005/36/EG betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening») (PbEU 2013, L 354).
 
 ### Hoofdstuk II. Het architectenregister
 
@@ -91,6 +63,14 @@ richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de
 Er is een architectenregister, waarin op verzoek wordt ingeschreven als architect, als stedenbouwkundige, als tuin- en landschapsarchitect of als interieurarchitect degene, die voldoet aan de bij of krachtens deze wet gestelde eisen.
 
 ### Hoofdstuk III. Het bureau architectenregister
+
+#### § 1. Het bureau
+
+##### Artikel 2a
+
+1. Er is een bureau architectenregister. Het bureau bezit rechtspersoonlijkheid en is gevestigd te Den Haag.
+
+2. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op het bureau.
 
 ##### Artikel 3
 
@@ -112,6 +92,34 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 6. Het bureau informeert het door Onze Minister op grond van [artikel 34d van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34d) aangewezen assistentiecentrum periodiek over de werkzaamheden die het op grond van het derde en vierde lid heeft verricht en over het resultaat van de door hem op grond van het vierde lid geboden ondersteuning.
 
+##### Artikel 3a
+
+1. Voor de toepassing van [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), wordt, voor zover het de verstrekking van strafrechtelijke sancties betreft, een verklaring omtrent het gedrag aangemerkt als informatie omtrent strafrechtelijke sancties.
+
+2. In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=33) wordt een aanvraag tot het afgeven van een verklaring omtrent het gedrag ten aanzien van een persoon als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), ingediend door een bevoegde autoriteit uit een andere betrokken staat.
+
+3. Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=30) ingediend bij Onze Minister van Justitie.
+
+4. Het bureau kan bij een bevoegde autoriteit uit een andere betrokken staat een verzoek indienen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), mits het verzoek deugdelijk is gemotiveerd.
+
+##### Artikel 3b
+
+1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2021-08-26&g=2021-08-26) is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
+
+2. Onze Minister van Justitie stelt de persoon, bedoeld in het eerste lid, ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3a&z=2021-08-26&g=2021-08-26), en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
+
+3. Indien de persoon, bedoeld in het eerste lid, geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde autoriteit uit een andere betrokken staat die de verklaring omtrent het gedrag heeft aangevraagd.
+
+##### Artikel 3c
+
+1. Onze Minister van Justitie informeert de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2021-08-26&g=2021-08-26), ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.
+
+2. Onze Minister van Justitie verstrekt de verklaring omtrent het gedrag dan wel de weigering tot afgifte daarvan aan de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2021-08-26&g=2021-08-26).
+
+3. Onze Minister van Justitie stelt de bevoegde autoriteit uit een andere betrokken staat zo spoedig mogelijk op de hoogte van de afgifte dan wel weigering van de verklaring omtrent het gedrag. Bij de kennisgeving over de afgifte van de verklaring omtrent het gedrag wordt de strekking van de afgegeven verklaring omtrent het gedrag medegedeeld.
+
+4. Indien de weigering van de verklaring omtrent het gedrag nog niet onherroepelijk is, informeert Onze Minister van Justitie de bevoegde autoriteit van een andere betrokken staat daarover.
+
 ##### Artikel 4
 
 1. Het bureau betrekt de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de nadere eisen en regels, bedoeld in de [artikelen 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2021-08-26&g=2021-08-26), [12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2021-08-26&g=2021-08-26), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26).
@@ -122,6 +130,8 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 4. Indien het bureau toepassing geeft aan [artikel 27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27a&z=2021-08-26&g=2021-08-26), betrekt het de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de in dat lid bedoelde beleidsregels. Het derde lid is van overeenkomstige toepassing op zodanig vastgestelde beleidsregels.
 
+#### § 2. Het bestuur
+
 ##### Artikel 5
 
 1. Het bestuur bestaat uit ten hoogste drie leden. Ingeval Onze Minister het aantal bestuursleden op twee of drie stelt, benoemt hij één lid tot voorzitter.
@@ -130,25 +140,11 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 3. Ingeval Onze Minister het aantal bestuursleden op twee of drie stelt, stelt Onze Minister, behoudens spoedeisende gevallen, de beroepsorganisaties in de gelegenheid voor één te vervullen plaats in het bestuur een gezamenlijke voordracht te doen van ten minste drie personen. Ingeval een bestuurslid voor herbenoeming in aanmerking komt, kan in plaats van een voordracht van ten minste drie personen het voorstel worden gedaan dat bestuurslid te herbenoemen.
 
-##### Artikel 10
+##### Artikel 6
 
-1. Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als stedenbouwkundige te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
+Het bestuur stelt een bestuursreglement vast.
 
-- a. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
-
-- b. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
-
-- c. een getuigschrift van een door Onze Minister aangewezen opleiding op het gebied van stedenbouw met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;
-
-- d. een opleidingstitel op het gebied van stedenbouw, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
-
-- e. een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van stedenbouw, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van stedenbouw, of
-
-- f. een getuigschrift op het gebied van stedenbouw, dat door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, is erkend.
-
-2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2021-08-26&g=2021-08-26) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2021-08-26&g=2021-08-26) als stedenbouwkundige in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
-
-3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
+#### § 3. Financiën
 
 ##### Artikel 7
 
@@ -176,15 +172,17 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 - g. de behandeling van een verzoek om gehele of gedeeltelijke vrijstelling van het doorlopen van de tweejarige beroepservaringperiode krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26).
 
-### Hoofdstuk IV. De inschrijving in het register
+### Hoofdstuk IV. Beroepskwalificaties
+
+#### § 1. Opleidingseisen
 
 ##### Artikel 9
 
 1. Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als architect in het register te worden ingeschreven, dient een persoon in het bezit te zijn van:
 
-- a. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk](onbekend) onderzoek genoemde universiteit;
+- a. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/BWBR0005682) onderzoek genoemde universiteit;
 
-- b. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+- b. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde hogeschool;
 
 - c. een getuigschrift van een door Onze Minister aangewezen opleiding op het gebied van architectuur met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;
 
@@ -206,35 +204,37 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
+##### Artikel 9a
+
+*Vervallen*
+
 ##### Artikel 10
 
-1. Inschrijving in het register als stedebouwkundige wordt verleend aan degene die voldoet aan een van de volgende eisen:
+1. Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als stedenbouwkundige te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
 
-- a. in het bezit van een getuigschrift van een opleiding bouwkunde op het gebied van de techniek aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+- a. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde universiteit;
 
-- b. in het bezit zijn van het op grond van artikel 29 van de Nijverheidsonderwijswet uitgereikte einddiploma Stedebouwkundig Hoger Onderricht;
+- b. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde hogeschool;
 
-- c. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma Stedebouwkundig Hoger Onderricht;
+- c. een getuigschrift van een door Onze Minister aangewezen opleiding op het gebied van stedenbouw met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;
 
-- d. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedebouw dan wel het getuigschrift van een met goed gevolg afgelegd afsluitend examen van een voortgezette opleiding bouwkunst verbonden aan een in de bijlage van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) genoemde hogeschool;
+- d. een opleidingstitel op het gebied van stedenbouw, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
 
-- e. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=1998-01-01&g=2002-09-01) ingericht en afgenomen examen voor stedebouwkundigen of daarvan, wegens ten genoegen van Onze Minister aangetoonde uitzonderlijke bekwaamheid, van Onze Minister ontheffing hebben verkregen;
+- e. een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van stedenbouw, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van stedenbouw, of
 
-- f. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister en na het horen van de representatief te achten beroepsorganisaties van stedebouwkundigen, aangewezen opleiding;
+- f. een getuigschrift op het gebied van stedenbouw, dat door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, is erkend.
 
-- g. in het bezit zijn van een ten aanzien van het beroep van stedebouwkundige afgegeven EG-verklaring als bedoeld in de Algemene wet erkenning EG-hoger-onderwijsdiploma's dan wel in de [Algemene wet erkenning EG-beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006781);
+2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2021-08-26&g=2021-08-26) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2021-08-26&g=2021-08-26) als stedenbouwkundige in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
 
-- h. in het bezit zijn van een der door Onze Minister al dan niet op verzoek van een belanghebbende aangewezen diploma's die door instellingen in het buitenland, waaronder niet zijn begrepen instellingen, gevestigd in de lid-staten van de Europese Unie of de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, zijn of worden verstrekt.
-
-2. Onze Minister kan nadere regels geven over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onder **a** tot en met **d**, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
+3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
 ##### Artikel 11
 
 1. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als tuin- en landschapsarchitect te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
 
-- a. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+- a. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde universiteit;
 
-- b. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+- b. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde hogeschool;
 
 - c. een getuigschrift van een door Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen opleiding op het gebied van tuin- en landschapsarchitectuur met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;
 
@@ -252,9 +252,9 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 1. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, dient een persoon in het bezit te zijn van:
 
-- a. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
+- a. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde universiteit;
 
-- b. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
+- b. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682) genoemde hogeschool;
 
 - c. een getuigschrift van een door Onze Minister aangewezen opleiding op het gebied van interieurarchitectuur met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;
 
@@ -267,6 +267,84 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2021-08-26&g=2021-08-26) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2021-08-26&g=2021-08-26) als interieurarchitect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
+
+#### § 2. Overige kwalificaties
+
+##### Artikel 12a
+
+1. Het bureau kan, gehoord een door hem ingestelde commissie van deskundigen, een persoon, die werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur en die zich door de kwaliteit van zijn prestaties op het betreffende gebied naar het oordeel van het bureau in het bijzonder heeft onderscheiden, een certificaat verlenen op grond waarvan hij zich kan doen inschrijven in het register.
+
+2. Het bureau stelt nadere eisen vast, waaraan een ingeschrevene moet voldoen, die onder een andere titel in het register wenst te worden ingeschreven. Het verzoek kan uitsluitend worden gedaan door een persoon, die in het register is ingeschreven op grond van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26).
+
+3. De nadere eisen, bedoeld in het tweede lid, hebben in ieder geval betrekking op het aantal jaren gedurende welke de verzoeker werkzaam is op het vakgebied waarvoor hij zich in het register wenst in te schrijven, op de kwaliteit en kwantiteit van de door hem geleverde prestaties op het desbetreffende vakgebied en ingeval hij deel uitmaakt van een multidisciplinair team op de meetbaarheid van de aan hem toe te rekenen prestaties of inbreng.
+
+4. Het bureau hoort een door hem ingestelde commissie van deskundigen alvorens te beslissen op een verzoek als bedoeld in het tweede lid.
+
+##### Artikel 12b
+
+1. Ten minste eenmaal per jaar geeft het bureau de gelegenheid tot het afleggen van een examen voor architecten, stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten. Het bureau stelt voor elk van die disciplines een aparte examencommissie in.
+
+2. Tot het afleggen van het examen, bedoeld in het eerste lid, wordt na betaling van het examengeld, toegelaten degene die ten genoegen van het bureau aantoont gedurende ten minste zeven jaar werkzaam te zijn geweest op het gebied waarop hij het examen wenst af te leggen.
+
+3. Het bureau stelt regels vast met betrekking tot het examen, bedoeld in het eerste lid. Die regels hebben in ieder geval betrekking op:
+
+- a. de eisen voor de toelating tot het afleggen van het examen;
+
+- b. de omvang en de inrichting van het examen;
+
+- c. de eisen voor het verkrijgen van vrijstelling van bepaalde onderdelen van het examen;
+
+- d. de commissie, belast met het afnemen van het examen en met het vaststellen van de uitslag daarvan;
+
+- e. de vergoeding van de leden van de examencommissie.
+
+4. Een persoon die met goed gevolg het examen, bedoeld in het eerste lid, heeft afgelegd, kan op diens verzoek worden ingeschreven in het register.
+
+##### Artikel 12c
+
+1. Een persoon die in het bezit is van een opleidingstitel op het gebied van architectuur als bedoeld in artikel 21 van de richtlijn, of van een opleidingstitel als bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), wordt in het register ingeschreven indien hij in de staat, waar hij die opleidingstitel heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
+
+2. Een persoon die in het bezit is van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), wordt in het register ingeschreven indien hij in het derde land, waar hij dat getuigschrift heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
+
+### Hoofdstuk IVa. Beroepservaringperiode
+
+##### Artikel 12d
+
+1. Een persoon die in het bezit is van een getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), waarvan de inrichting voldoet aan de voorschriften, bedoeld in het derde lid van die artikelen, wordt op verzoek in het register ingeschreven, indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
+
+2. Het eerste lid is niet van toepassing op een persoon, die in het jaar waarin de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), worden bekend gemaakt of in de twee daaropvolgende jaren het getuigschrift, bedoeld in het eerste lid, heeft behaald.
+
+3. Het bureau kan besluiten dat het getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), een vrijstelling oplevert van de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), indien:
+
+- a. het praktijkgedeelte van die opleiding wat betreft inrichting en inhoud vergelijkbaar is aan hetgeen daaromtrent krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), is bepaald ten aanzien van de tweejarige beroepservaringperiode;
+
+- b. geborgd is dat de persoon die in het bezit is van het getuigschrift het praktijkgedeelte van die opleiding overeenkomstig onderdeel a heeft gevolgd, en
+
+- c. geborgd is dat het bureau tijdig in kennis wordt gesteld van een voornemen tot wijziging in het praktijkgedeelte.
+
+4. Het bureau erkent de in een andere betrokken staat gevolgde beroepservaringperiode, indien deze in overeenstemming is met de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), en houdt rekening met de in een derde land gevolgde beroepservaringperiode. Een erkenning van een beroepservaringperiode als bedoeld in de eerste volzin vervangt niet een voor de toegang tot het desbetreffende beroep verplicht af te leggen examen.
+
+##### Artikel 12e
+
+1. De tweejarige beroepservaringperiode is gericht op het zich in de praktijk bekwamen in de uitoefening van het beroep waarvoor met goed gevolg een opleiding is gevolgd als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), onder toezicht van een door het bureau erkende persoon of instantie. De in de eerste volzin bedoelde persoon dient bij aanvang van het toezicht blijkens de inschrijving in het register ten minste drie jaar beroepsmatig werkzaam te zijn in datzelfde beroep.
+
+2. Het bureau stelt regels vast met betrekking tot de tweejarige beroepservaringperiode. Die regels hebben in ieder geval betrekking op:
+
+- a. de inrichting van die periode;
+
+- b. het niveau van kennis, inzicht en vaardigheden, waarover een persoon als bedoeld in [artikel 12d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12d&z=2021-08-26&g=2021-08-26), in ieder geval dient te beschikken na het doorlopen van die periode;
+
+- c. de wijze waarop die periode wordt afgesloten;
+
+- d. voorwaarden waaronder geheel of gedeeltelijk vrijstelling kan worden verkregen van het gedurende twee jaar doorlopen van die periode;
+
+- e. de inrichting en de erkenning van de beroepservaringperiode die in een andere betrokken staat of een derde land wordt gevolgd, en de duur van het deel van die periode dat in het buitenland mag worden gevolgd;
+
+- f. het toezicht;
+
+- g. een voorziening in geval van een conflict tussen de toezichthoudende persoon of instantie en de persoon die onder toezicht staat.
+
+### Hoofdstuk IVb. Inschrijving en doorhaling in het register
 
 ##### Artikel 13
 
@@ -310,9 +388,9 @@ Dadelijk na inschrijving in het register en voorts telkens na verloop van een ja
 
 - d. na het overlijden van de ingeschrevene.
 
-2. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder **a**, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan [artikel 4:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7).
+2. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *a*, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan [artikel 4:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7).
 
-3. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder **b**, wordt niet genomen dan nadat vier weken zijn verstreken na de dag, waarop de betrokkene op zijn verzuim en het in het eerste lid bedoelde gevolg daarvan is gewezen.
+3. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *b*, wordt niet genomen dan nadat vier weken zijn verstreken na de dag, waarop de betrokkene op zijn verzuim en het in het eerste lid bedoelde gevolg daarvan is gewezen.
 
 4. Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onderdelen a tot en met c, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2021-08-26&g=2021-08-26) is bepaald.
 
@@ -336,7 +414,7 @@ Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.o
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Titelbescherming
 
@@ -358,153 +436,33 @@ Vervallen
 
 5. Het eerste tot en met vierde lid is niet van toepassing met betrekking tot het voeren van een titel als bedoeld in het eerste lid, of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, indien degene die gebruik maakt van die titel of afkorting geen werkzaamheden verricht die overeenkomen met werkzaamheden die in het economisch verkeer worden verricht door een architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect.
 
+##### Artikel 23a
+
+1. Een bureau dat werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur is slechts gerechtigd in of bij zijn naam een titel als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, te voeren, indien de bestuurder van dat bureau of ten minste de helft van de bestuurders krachtens deze wet gerechtigd is om de desbetreffende titel te voeren.
+
+2. Een bureau dat aan het eerste lid voldoet, is slechts gerechtigd in of bij zijn naam een titel of afkorting als bedoeld in dat lid te combineren met een naam van een natuurlijke persoon indien die persoon krachtens deze wet gerechtigd is de desbetreffende titel te voeren.
+
+3. Tegen een bureau dat handelt in strijd met het eerste of tweede lid kan overeenkomstig [artikel 23, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), een vordering worden ingesteld als bedoeld in artikel 23, tweede lid. Op die vordering is artikel 23, vierde lid, van toepassing.
+
 ##### Artikel 24
 
 1. Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), is degene die voldoet aan [artikel 9, eerste lid, onderdeel d, e, f, g, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), gerechtigd gebruik te maken van de wettige in een andere betrokken staat gevoerde titel of afkorting daarvan in de officiële taal van die staat of in één van de officiële talen van die staat.
 
 2. Het bureau kan bepalen dat bij het voeren van een titel als bedoeld in het eerste lid, tevens de naam en de plaats van vestiging van de instelling of de examencommissie die deze titel heeft verleend, moet worden vermeld.
 
-### Hoofdstuk IVa. Beroepservaringperiode
+### Hoofdstuk VI. Bij- en nascholing; informatieplicht
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
-
-### Hoofdstuk VI. Examens
-
-##### Artikel 28
-
-1. Onverminderd de doorhaling van een inschrijving in het register krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2021-08-26&g=2021-08-26) blijft degene die in het register is ingeschreven door de Stichting bureau architectenregister ingeschreven in het register.
-
-2. Een persoon van wie de inschrijving in het register door de Stichting bureau architectenregister is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken. Op dat verzoek en de behandeling daarvan zijn de [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2021-08-26&g=2021-08-26) van toepassing.
-
-##### Artikel 29
-
-1. Een persoon kan op verzoek in het register worden ingeschreven als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect op grond van een ander door hem in Nederland behaald getuigschrift dan genoemd in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), indien:
-
-- a. hij dat getuigschrift in zijn bezit had op het tijdstip van inwerkingtreding van [artikel I, onderdelen H, I, J en K, van de wet tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I), en
-
-- b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in onderdeel a, recht gaf op inschrijving in het register.
-
-2. [Artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2021-08-26&g=2021-08-26), is van toepassing op een verzoek als bedoeld in het eerste lid.
-
-3. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, kan een persoon op zijn verzoek in het register worden ingeschreven op grond van een ander getuigschrift dan genoemd in [artikel 12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), indien:
-
-- a. hij daarvoor in Nederland een opleiding volgde op het tijdstip, bedoeld in het eerste lid, onderdeel a, en
-
-- b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in het eerste lid, onderdeel a, recht gaf op inschrijving in het register.
-
-##### Artikel 30
-
-Een persoon die op het tijdstip, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2021-08-26&g=2021-08-26), of die daarna krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2021-08-26&g=2021-08-26), in het register is ingeschreven als architect, stedenbouwkundige of tuin- en landschapsarchitect kan een overeenkomstig verzoek doen als bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2021-08-26&g=2021-08-26), indien hij voldoet aan de krachtens dat lid gestelde nadere eisen.
-
-##### Artikel 31
-
-Vervallen
-
-##### Artikel 32
-
-Vervallen
-
-##### Artikel 33
-
-Vervallen
-
-##### Artikel 34
-
-Vervallen
-
-##### Artikel 35
-
-Vervallen
-
-##### Artikel 36
-
-Vervallen
-
-##### Artikel 37
-
-Vervallen
-
-##### Artikel 38
-
-Vervallen
-
-##### Artikel 39
-
-Vervallen
-
-##### Artikel 40
-
-Vervallen
-
-##### Artikel 41
-
-Vervallen
-
-### Hoofdstuk VII. Bij- en nascholing
-
-##### Artikel 42
-
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26) dat vijf jaar nadien in werking treedt.
-
-2. Deze wet kan worden aangehaald als Wet op de architectentitel.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-Vervallen
-
-##### Artikel 10
-
-1. Inschrijving in het register als stedenbouwkundige wordt verleend aan degene die voldoet aan een van de volgende eisen:
-
-- a. in het bezit zijn van:
-
-- 1°. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
-
-- 2°. het getuigschrift van een opleiding bouwkunde op het gebied van de techniek aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde universiteit;
-
-- b. in het bezit zijn van het op grond van artikel 29 van de Nijverheidsonderwijswet uitgereikte einddiploma Stedebouwkundig Hoger Onderricht;
-
-- c. in het bezit zijn van het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma Stedebouwkundig Hoger Onderricht;
-
-- d. in het bezit zijn van:
-
-- 1°. het getuigschrift van een masteropleiding op het gebied van stedenbouw verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
-
-- 2°. het op grond van [artikel 29 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) uitgereikte einddiploma van een Academie van Bouwkunst, het op grond van artikel 34, derde lid, van de Wet op het hoger beroepsonderwijs uitgereikte getuigschrift van een opleiding voor beroepen op het terrein van architectuur en stedenbouw dan wel het getuigschrift van een voortgezette opleiding bouwkunst verbonden aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde hogeschool;
-
-- e. met goed gevolg hebben afgelegd een overeenkomstig het bepaalde in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&z=2009-07-01&g=2009-07-01) ingericht en afgenomen examen voor stedenbouwkundigen of daarvan, wegens ten genoegen van Onze Minister aangetoonde uitzonderlijke bekwaamheid, van Onze Minister ontheffing hebben verkregen;
-
-- f. met goed gevolg hebben afgelegd het examen ter afsluiting van een door Onze Minister en na het horen van de representatief te achten beroepsorganisaties van stedenbouwkundigen, aangewezen opleiding;
-
-- g. in het bezit zijn van een door het bevoegd gezag in een andere betrokken staat afgegeven diploma, certificaat of andere titel op het gebied van stedenbouw, dat of die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) is erkend;
-
-- h. in het bezit zijn van een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van stedenbouw, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van stedenbouw, of
-
-- i. in het bezit zijn van een diploma, certificaat of andere titel op het gebied van stedenbouw, dat of die door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5) is erkend.
-
-2. Onze Minister kan nadere regels geven over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onder **a** tot en met **d**, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
-
-### Hoofdstuk IVa. Beroepservaringperiode
-
-### Hoofdstuk VI. Examens
-
-### Hoofdstuk VII. Bij- en nascholing
-
-### Hoofdstuk VIII. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*
 
 ##### Artikel 27a
 
@@ -518,7 +476,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Het bureau kan kwalitatieve beleidsregels vaststellen ter zake van passende bij- en nascholing.
 
-### Hoofdstuk VIIa. Dienstverrichting op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur
+##### Artikel 27aa
+
+Degene die is ingeschreven in het register informeert de persoon die hem een offerte vraagt over zijn relevante deskundigheid en vakbekwaamheid, met inbegrip van zijn bij- en nascholingsactiviteiten, de dekking van de door hem te verrichten werkzaamheden door een beroepsaansprakelijkheidsverzekering, diens rechten en plichten jegens hem als opdrachtgever en de borging daarvan, alsmede over diens rechten en plichten jegens een derde, ingeval die derde het werk heeft ontworpen waarop de offerte betrekking heeft of werkzaamheden heeft gestaakt die blijkens de offerte dienen te worden hervat.
+
+### Hoofdstuk VII. Dienstverrichting op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur
 
 ##### Artikel 27b
 
@@ -548,180 +510,82 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Het bureau verstrekt aan de bevoegde autoriteit van een andere betrokken staat gegevens van een in het register ingeschrevene voor zover noodzakelijk voor de afhandeling van een klacht van een afnemer over die ingeschrevene in het kader van zijn dienstverrichting.
 
-### Hoofdstuk VII. Dienstverrichting op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-1. Voor de toepassing van [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), wordt, voor zover het de verstrekking van strafrechtelijke sancties betreft, een verklaring omtrent het gedrag aangemerkt als informatie omtrent strafrechtelijke sancties.
-
-2. In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=33) wordt een aanvraag tot het afgeven van een verklaring omtrent het gedrag ten aanzien van een persoon als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), ingediend door een bevoegde autoriteit uit een andere betrokken staat.
-
-3. Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=30) ingediend bij Onze Minister van Justitie.
-
-4. Het bureau kan bij een bevoegde autoriteit uit een andere betrokken staat een verzoek indienen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2021-08-26&g=2021-08-26), mits het verzoek deugdelijk is gemotiveerd.
-
-##### Artikel 3b
-
-1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2021-08-26&g=2021-08-26) is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
-
-2. Onze Minister van Justitie stelt de persoon, bedoeld in het eerste lid, ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3a&z=2021-08-26&g=2021-08-26), en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
-
-3. Indien de persoon, bedoeld in het eerste lid, geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde autoriteit uit een andere betrokken staat die de verklaring omtrent het gedrag heeft aangevraagd.
-
-##### Artikel 3c
-
-1. Onze Minister van Justitie informeert de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2021-08-26&g=2021-08-26), ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.
-
-2. Onze Minister van Justitie verstrekt de verklaring omtrent het gedrag dan wel de weigering tot afgifte daarvan aan de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2021-08-26&g=2021-08-26).
-
-3. Onze Minister van Justitie stelt de bevoegde autoriteit uit een andere betrokken staat zo spoedig mogelijk op de hoogte van de afgifte dan wel weigering van de verklaring omtrent het gedrag. Bij de kennisgeving over de afgifte van de verklaring omtrent het gedrag wordt de strekking van de afgegeven verklaring omtrent het gedrag medegedeeld.
-
-4. Indien de weigering van de verklaring omtrent het gedrag nog niet onherroepelijk is, informeert Onze Minister van Justitie de bevoegde autoriteit van een andere betrokken staat daarover.
-
-### Hoofdstuk IV. De inschrijving in het register
-
-##### Artikel 13
-
-1. Degene die van zijn ingevolge het bepaalde in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28) bestaande recht tot inschrijving in het register gebruik wenst te maken, dient bij het bureau een verzoek tot inschrijving in op een formulier waarvan het model door het bureau wordt vastgesteld. Het verzoek gaat vergezeld door stukken waaruit het bureau de opleiding van de verzoeker kan vaststellen. Een verzoek wordt geacht niet te zijn ingediend zolang niet een inschrijfgeld is betaald, indien en voorzover ingevolge het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&artikel=7&z=2009-12-28&g=2009-12-28) hiervoor een bedrag is vastgesteld.
-
-2. Het bureau bevestigt binnen een maand de ontvangst van een aanvraag om erkenning van een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28), [10, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2009-12-28&g=2009-12-28), [11, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2009-12-28&g=2009-12-28), of [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2009-12-28&g=2009-12-28), of van een diploma, certificaat of andere titel als bedoeld in [artikel 9, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28), [10, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2009-12-28&g=2009-12-28), [11, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2009-12-28&g=2009-12-28), of [12, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2009-12-28&g=2009-12-28). Het wijst er in die bevestiging op dat het besluit omtrent de aangevraagde erkenning gelijktijdig een besluit kan inhouden omtrent inschrijving in het register indien de aanvrager alsnog verzoekt om inschrijving in het register overeenkomstig het eerste lid.
-
-3. Indien een persoon blijkens zijn verzoek om inschrijving in het register in het bezit is van een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28), [10, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2009-12-28&g=2009-12-28), [11, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2009-12-28&g=2009-12-28), of [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2009-12-28&g=2009-12-28), of van een diploma, certificaat of andere titel als bedoeld in [artikel 9, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28), [10, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2009-12-28&g=2009-12-28), [11, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2009-12-28&g=2009-12-28), of [12, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2009-12-28&g=2009-12-28), die of dat nog niet door het bureau is erkend, merkt het bureau het verzoek om inschrijving tevens aan als een aanvraag om erkenning van het betreffende diploma of certificaat, dan wel de betreffende titel. Het bureau doet daarvan binnen een maand na de ontvangst mededeling in de bevestiging van de ontvangst van het verzoek.
-
-4. Het bureau neemt in een geval waarin een aanvraag om erkenning of een verzoek om inschrijving in het register betrekking heeft op een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=9&z=2009-12-28&g=2009-12-28), [10, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=10&z=2009-12-28&g=2009-12-28), [11, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=11&z=2009-12-28&g=2009-12-28), of [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&artikel=12&z=2009-12-28&g=2009-12-28), binnen drie maanden na ontvangst van alle stukken die het nodig acht voor zijn oordeelsvorming een besluit omtrent de erkenning.
-
-5. Indien het bureau toepassing geeft aan [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) houdt het het besluit omtrent de erkenning aan overeenkomstig [artikel 19, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19). Het derde en vierde lid van dat artikel zijn van overeenkomstige toepassing.
-
-### Hoofdstuk VII. Bij- en nascholing
-
-### Hoofdstuk V. Titelbescherming
-
 ### Hoofdstuk VIIa. Overgangsbepalingen
 
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 28
 
-#### § 1. Het bureau
+1. Onverminderd de doorhaling van een inschrijving in het register krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2021-08-26&g=2021-08-26) blijft degene die in het register is ingeschreven door de Stichting bureau architectenregister ingeschreven in het register.
 
-##### Artikel 2a
+2. Een persoon van wie de inschrijving in het register door de Stichting bureau architectenregister is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken. Op dat verzoek en de behandeling daarvan zijn de [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2021-08-26&g=2021-08-26) van toepassing.
 
-1. Er is een bureau architectenregister. Het bureau bezit rechtspersoonlijkheid en is gevestigd te Den Haag.
+##### Artikel 29
 
-2. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op het bureau.
+1. Een persoon kan op verzoek in het register worden ingeschreven als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect op grond van een ander door hem in Nederland behaald getuigschrift dan genoemd in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), indien:
 
-#### § 2. Het bestuur
+- a. hij dat getuigschrift in zijn bezit had op het tijdstip van inwerkingtreding van [artikel I, onderdelen H, I, J en K, van de wet tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I), en
 
-##### Artikel 6
+- b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in onderdeel a, recht gaf op inschrijving in het register.
 
-Het bestuur stelt een bestuursreglement vast.
+2. [Artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2021-08-26&g=2021-08-26), is van toepassing op een verzoek als bedoeld in het eerste lid.
 
-#### § 3. Financiën
+3. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, kan een persoon op zijn verzoek in het register worden ingeschreven op grond van een ander getuigschrift dan genoemd in [artikel 12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), indien:
 
-### Hoofdstuk IV. Beroepskwalificaties
+- a. hij daarvoor in Nederland een opleiding volgde op het tijdstip, bedoeld in het eerste lid, onderdeel a, en
 
-#### § 1. Opleidingseisen
+- b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in het eerste lid, onderdeel a, recht gaf op inschrijving in het register.
 
-#### § 2. Overige kwalificaties
+##### Artikel 30
 
-##### Artikel 12d
+Een persoon die op het tijdstip, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2021-08-26&g=2021-08-26), of die daarna krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2021-08-26&g=2021-08-26), in het register is ingeschreven als architect, stedenbouwkundige of tuin- en landschapsarchitect kan een overeenkomstig verzoek doen als bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2021-08-26&g=2021-08-26), indien hij voldoet aan de krachtens dat lid gestelde nadere eisen.
 
-1. Een persoon die in het bezit is van een getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), waarvan de inrichting voldoet aan de voorschriften, bedoeld in het derde lid van die artikelen, wordt op verzoek in het register ingeschreven, indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
+##### Artikel 31
 
-2. Het eerste lid is niet van toepassing op een persoon, die in het jaar waarin de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), worden bekend gemaakt of in de twee daaropvolgende jaren het getuigschrift, bedoeld in het eerste lid, heeft behaald.
+*Vervallen*
 
-3. Het bureau kan besluiten dat het getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), een vrijstelling oplevert van de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), indien:
+##### Artikel 32
 
-- a. het praktijkgedeelte van die opleiding wat betreft inrichting en inhoud vergelijkbaar is aan hetgeen daaromtrent krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), is bepaald ten aanzien van de tweejarige beroepservaringperiode;
+*Vervallen*
 
-- b. geborgd is dat de persoon die in het bezit is van het getuigschrift het praktijkgedeelte van die opleiding overeenkomstig onderdeel a heeft gevolgd, en
+##### Artikel 33
 
-- c. geborgd is dat het bureau tijdig in kennis wordt gesteld van een voornemen tot wijziging in het praktijkgedeelte.
+*Vervallen*
 
-4. Het bureau erkent de in een andere betrokken staat gevolgde beroepservaringperiode, indien deze in overeenstemming is met de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), en houdt rekening met de in een derde land gevolgde beroepservaringperiode. Een erkenning van een beroepservaringperiode als bedoeld in de eerste volzin vervangt niet een voor de toegang tot het desbetreffende beroep verplicht af te leggen examen.
+##### Artikel 34
 
-##### Artikel 12e
+*Vervallen*
 
-1. De tweejarige beroepservaringperiode is gericht op het zich in de praktijk bekwamen in de uitoefening van het beroep waarvoor met goed gevolg een opleiding is gevolgd als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), onder toezicht van een door het bureau erkende persoon of instantie. De in de eerste volzin bedoelde persoon dient bij aanvang van het toezicht blijkens de inschrijving in het register ten minste drie jaar beroepsmatig werkzaam te zijn in datzelfde beroep.
+##### Artikel 35
 
-2. Het bureau stelt regels vast met betrekking tot de tweejarige beroepservaringperiode. Die regels hebben in ieder geval betrekking op:
+*Vervallen*
 
-- a. de inrichting van die periode;
+##### Artikel 36
 
-- b. het niveau van kennis, inzicht en vaardigheden, waarover een persoon als bedoeld in [artikel 12d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12d&z=2021-08-26&g=2021-08-26), in ieder geval dient te beschikken na het doorlopen van die periode;
+*Vervallen*
 
-- c. de wijze waarop die periode wordt afgesloten;
+##### Artikel 37
 
-- d. voorwaarden waaronder geheel of gedeeltelijk vrijstelling kan worden verkregen van het gedurende twee jaar doorlopen van die periode;
+*Vervallen*
 
-- e. de inrichting en de erkenning van de beroepservaringperiode die in een andere betrokken staat of een derde land wordt gevolgd, en de duur van het deel van die periode dat in het buitenland mag worden gevolgd;
+##### Artikel 38
 
-- f. het toezicht;
+*Vervallen*
 
-- g. een voorziening in geval van een conflict tussen de toezichthoudende persoon of instantie en de persoon die onder toezicht staat.
+##### Artikel 39
 
-##### Artikel 23a
+*Vervallen*
 
-1. Een bureau dat werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur is slechts gerechtigd in of bij zijn naam een titel als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, te voeren, indien de bestuurder van dat bureau of ten minste de helft van de bestuurders krachtens deze wet gerechtigd is om de desbetreffende titel te voeren.
+##### Artikel 40
 
-2. Een bureau dat aan het eerste lid voldoet, is slechts gerechtigd in of bij zijn naam een titel of afkorting als bedoeld in dat lid te combineren met een naam van een natuurlijke persoon indien die persoon krachtens deze wet gerechtigd is de desbetreffende titel te voeren.
+*Vervallen*
 
-3. Tegen een bureau dat handelt in strijd met het eerste of tweede lid kan overeenkomstig [artikel 23, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26), een vordering worden ingesteld als bedoeld in artikel 23, tweede lid. Op die vordering is artikel 23, vierde lid, van toepassing.
+##### Artikel 41
 
-### Hoofdstuk VI. Examens
-
-##### Artikel 27aa
-
-Degene die is ingeschreven in het register informeert de persoon die hem een offerte vraagt over zijn relevante deskundigheid en vakbekwaamheid, met inbegrip van zijn bij- en nascholingsactiviteiten, de dekking van de door hem te verrichten werkzaamheden door een beroepsaansprakelijkheidsverzekering, diens rechten en plichten jegens hem als opdrachtgever en de borging daarvan, alsmede over diens rechten en plichten jegens een derde, ingeval die derde het werk heeft ontworpen waarop de offerte betrekking heeft of werkzaamheden heeft gestaakt die blijkens de offerte dienen te worden hervat.
-
-### Hoofdstuk VIIa. Dienstverrichting op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur
+*Vervallen*
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 42
 
-##### Artikel 12a
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2021-08-26&g=2021-08-26) dat vijf jaar nadien in werking treedt.
 
-1. Het bureau kan, gehoord een door hem ingestelde commissie van deskundigen, een persoon, die werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur en die zich door de kwaliteit van zijn prestaties op het betreffende gebied naar het oordeel van het bureau in het bijzonder heeft onderscheiden, een certificaat verlenen op grond waarvan hij zich kan doen inschrijven in het register.
-
-2. Het bureau stelt nadere eisen vast, waaraan een ingeschrevene moet voldoen, die onder een andere titel in het register wenst te worden ingeschreven. Het verzoek kan uitsluitend worden gedaan door een persoon, die in het register is ingeschreven op grond van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26).
-
-3. De nadere eisen, bedoeld in het tweede lid, hebben in ieder geval betrekking op het aantal jaren gedurende welke de verzoeker werkzaam is op het vakgebied waarvoor hij zich in het register wenst in te schrijven, op de kwaliteit en kwantiteit van de door hem geleverde prestaties op het desbetreffende vakgebied en ingeval hij deel uitmaakt van een multidisciplinair team op de meetbaarheid van de aan hem toe te rekenen prestaties of inbreng.
-
-4. Het bureau hoort een door hem ingestelde commissie van deskundigen alvorens te beslissen op een verzoek als bedoeld in het tweede lid.
-
-##### Artikel 12b
-
-1. Ten minste eenmaal per jaar geeft het bureau de gelegenheid tot het afleggen van een examen voor architecten, stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten. Het bureau stelt voor elk van die disciplines een aparte examencommissie in.
-
-2. Tot het afleggen van het examen, bedoeld in het eerste lid, wordt na betaling van het examengeld, toegelaten degene die ten genoegen van het bureau aantoont gedurende ten minste zeven jaar werkzaam te zijn geweest op het gebied waarop hij het examen wenst af te leggen.
-
-3. Het bureau stelt regels vast met betrekking tot het examen, bedoeld in het eerste lid. Die regels hebben in ieder geval betrekking op:
-
-- a. de eisen voor de toelating tot het afleggen van het examen;
-
-- b. de omvang en de inrichting van het examen;
-
-- c. de eisen voor het verkrijgen van vrijstelling van bepaalde onderdelen van het examen;
-
-- d. de commissie, belast met het afnemen van het examen en met het vaststellen van de uitslag daarvan;
-
-- e. de vergoeding van de leden van de examencommissie.
-
-4. Een persoon die met goed gevolg het examen, bedoeld in het eerste lid, heeft afgelegd, kan op diens verzoek worden ingeschreven in het register.
-
-##### Artikel 12c
-
-1. Een persoon die in het bezit is van een opleidingstitel op het gebied van architectuur als bedoeld in artikel 21 van de richtlijn, of van een opleidingstitel als bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), wordt in het register ingeschreven indien hij in de staat, waar hij die opleidingstitel heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
-
-2. Een persoon die in het bezit is van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2021-08-26&g=2021-08-26), [10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2021-08-26&g=2021-08-26), [11, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2021-08-26&g=2021-08-26), of [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2021-08-26&g=2021-08-26), wordt in het register ingeschreven indien hij in het derde land, waar hij dat getuigschrift heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2021-08-26&g=2021-08-26), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
-
-### Hoofdstuk IVb. Inschrijving en doorhaling in het register
-
-### Hoofdstuk V. Titelbescherming
-
-### Hoofdstuk VI. Bij- en nascholing; informatieplicht
-
-### Hoofdstuk VIII. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+2. Deze wet kan worden aangehaald als Wet op de architectentitel.

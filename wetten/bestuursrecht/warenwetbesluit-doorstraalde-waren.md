@@ -1,62 +1,18 @@
 ---
 title: "Besluit van 2 april 1992 houdende Warenwetbesluit Doorstraalde waren"
+citeertitel: "Warenwetbesluit Doorstraalde waren"
 identifier: "BWBR0005465"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-05-24"
-last_updated: "2016-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005465"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1439723"
-version_id: "2160662"
-internal_id: "C2160661"
-label_id: "1399144"
-dtd_version: "2.0"
-original_entry_into_force: "2000-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005465/2016-05-24/0"
-intitule_bron: "Stb.1992-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-04-02"
-intitule_status: "goed"
-original_publication: "Stb.1999-500"
-original_signed_date: "1999-10-29"
-original_published_date: "1999-12-02"
-original_effect: "structuurwijziging"
-original_url_id: "stb-1999-500"
-entry_into_force_date: "2000-09-20"
-jci_1_3: "jci1.3:c:BWBR0005465&z=2016-05-24&g=2016-05-24"
-jci_1_0: "1.0:c:BWBR0005465&g=2016-05-24"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Doorstraalde waren"
-signed_date: "1999-10-29"
-entry_into_force: "2000-09-20"
+publicatiedatum: 2000-09-20
+laatste_update: 2016-05-24
+status: geldig
+toestand: 2016-05-24
+bron: "https://wetten.overheid.nl/BWBR0005465"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 2 april 1992 houdende Warenwetbesluit Doorstraalde waren
-
-Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 13 augustus 1991, VVP/L-691449, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Overwegende, dat uit oogpunt van volksgezondheid de behandeling van eet- en drinkwaren en andere roerende zaken met ioniserende stralen tot een dosis van 10 kGy als veilig beschouwd kan worden;
-
-Overwegende, dat het evenwel als ongewenst moet worden beschouwd dat eet- en drinkwaren zonder aantoonbare noodzaak aan een dergelijke behandeling zouden worden onderworpen;
-
-Overwegende, dat bovendien voorkomen moet worden dat voor de bereiding van eet- en drinkwaren gebruik zou worden gemaakt van oorspronkelijk ondeugdelijke grondstoffen die evenwel na een behandeling met ioniserende stralen alsnog in overeenstemming zijn gebracht met de van toepassing zijnde eisen;
-
-Overwegende, dat het Algemeen Aanduidingenbesluit (Warenwet) (**Stb.** 1981, 621) en het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) (**Stb.** 1992, 14) moeten worden aangevuld met specifieke voorschriften ten behoeve van de informatie aan eindverbruikers, betreffende de vermelding van een eventuele behandeling met ioniserende stralen van eet- en drinkwaren en ingrediënten daarvan;
-
-Overwegende, dat daarnaast ook bereiders van eet- en drinkwaren moeten worden ingelicht over een eventuele behandeling van grondstoffen met ioniserende stralen;
-
-Gelet op de [artikelen 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), [4, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4)[5, eerste lid, onderdelen a, 1°, en b, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=6), [8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12) en [16 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=16) (Stb. 1988, 360) en op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358), jo [artikel 14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) (Stb. 1935, 793);
-
-Gehoord de Adviescommissie Warenwet (advies van 12 juli 1985, nr. 13516/115);
-
-Gezien het advies van de Gezondheidsraad (advies van 28 april 1983, nr. U 2802/LG/AR);
-
-De Raad van State gehoord (advies van 29 oktober 1991, nr. W13.91.0426);
-
-Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 20 maart 1992, VVP/L-692641, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -64,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. ioniserende stralen: hetgeen daaronder in de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) (**Stb.** 1963, 82) wordt verstaan;
+- a. ioniserende stralen: hetgeen daaronder in de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) (*Stb.* 1963, 82) wordt verstaan;
 
 - b. installatie: een onderneming waaraan krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) een vergunning is verleend voor het voorhanden hebben en toepassen van radioactieve stoffen, of voor het gebruiken van een ioniserende stralen uitzendend toestel, waarmee een behandeling van waren met ioniserende stralen kan worden uitgevoerd;
 
@@ -110,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 - a. aard en hoeveelheid van de doorstraalde eet- of drinkwaren of grondstoffen;
 
-- b. het nummer van de partij;
+- b het nummer van de partij;
 
 - c. de naam van degene die opdracht heeft gegeven tot de behandeling;
 
@@ -180,7 +136,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 7
 
-De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1) (**Stb.** 1988, 360), voor zover het betreft het afleveren van eet- en drinkwaren en grondstoffen om deze door middel van een behandeling met ioniserende stralen kennelijk in overeenstemming te brengen met het bepaalde in of krachtens die wet, is niet van toepassing op eet- en drinkwaren en grondstoffen die niet in overeenstemming zijn met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18) van die wet.
+De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1) (*Stb.* 1988, 360), voor zover het betreft het afleveren van eet- en drinkwaren en grondstoffen om deze door middel van een behandeling met ioniserende stralen kennelijk in overeenstemming te brengen met het bepaalde in of krachtens die wet, is niet van toepassing op eet- en drinkwaren en grondstoffen die niet in overeenstemming zijn met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18) van die wet.
 
 ##### Artikel 8
 
@@ -198,9 +154,9 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 - a. de behandeling moet hebben plaatsgevonden in een installatie
 
-- -. die, indien zij in een andere lid-staat van de Europese Unie is gevestigd, daartoe is erkend door de betrokken autoriteit in de desbetreffende Lid-Staat;
+   - - die, indien zij in een andere lid-staat van de Europese Unie is gevestigd, daartoe is erkend door de betrokken autoriteit in de desbetreffende Lid-Staat;
 
-- –. die, indien zij is gevestigd in een derde land, voorkomt op de door de Commissie van de Europese Gemeenschappen opgestelde lijst, bedoeld in artikel 9, tweede lid, onder a, van [richtlijn nr. 1999/2/EG](31999L0002) van het Europees Parlement en de Raad van de Europese Unie van 22 februari 1999 betreffende de onderlinge aanpassing van de wetgevingen van de lid-staten inzake de behandeling van voedsel met ioniserende straling (PbEG L 66);
+   - – die, indien zij is gevestigd in een derde land, voorkomt op de door de Commissie van de Europese Gemeenschappen opgestelde lijst, bedoeld in artikel 9, tweede lid, onder a, van richtlijn nr. 1999/2/EG van het Europees Parlement en de Raad van de Europese Unie van 22 februari 1999 betreffende de onderlinge aanpassing van de wetgevingen van de lid-staten inzake de behandeling van voedsel met ioniserende straling (PbEG L 66);
 
 - b. bij iedere zending moet zijn vermeld de naam en het adres van de installatie waar de doorstraling is verricht.
 
@@ -212,7 +168,7 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 - b. bij iedere zending moeten de gegevens, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=4&z=2016-05-24&g=2016-05-24), zijn vermeld.
 
-4. Voor de toepassing van het derde lid wordt onder invoer verstaan het plaatsen van de goederen onder de douaneregeling in het vrije verkeer brengen, bedoeld in artikel 201 van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269), dan wel onder een douaneregeling inhoudende de bijzondere regeling actieve veredeling, tijdelijke invoer of passieve veredeling, bedoeld in artikel 210 van die verordening.
+4. Voor de toepassing van het derde lid wordt onder invoer verstaan het plaatsen van de goederen onder de douaneregeling in het vrije verkeer brengen, bedoeld in artikel 201 van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269), dan wel onder een douaneregeling inhoudende de bijzondere regeling actieve veredeling, tijdelijke invoer of passieve veredeling, bedoeld in artikel 210 van die verordening.
 
 #### § 6. Bijzondere bepalingen met betrekking tot de verhandeling van doorstraalde eet- en drinkwaren en grondstoffen die niet als zodanig zijn bestemd voor de eindverbruiker
 
@@ -236,11 +192,11 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 ##### Artikel 12
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 13
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 14
 
@@ -251,67 +207,3 @@ Bevat wijzigingen in andere regelgeving.
 ##### Artikel 15
 
 Dit besluit kan worden aangehaald als: Warenwetbesluit Doorstraalde waren.
-
-## Bijlage. Deze bijlage behoort bij artikel 4, eerste lid, onder g
-
-### 1. Dosimetrie
-
-De totale gemiddelde geabsorbeerde dosis
-
-Bij bepaling van de gezondheid van eet- en drinkwaren en grondstoffen die zijn behandeld met een totale gemiddelde dosis van 10 kGy of minder, gaat men ervan uit dat alle radiochemische effecten binnen dat dosisgebied evenredig zijn aan de dosis.
-
-De totale gemiddelde dosis, D-, is gelijk aan onderstaande integraal over het totale volume van de behandelde levensmiddelen:
-
-D-= [∫ p(x,y,z) d(x,y,z) dV ] / M
-
-waarin
-
-M = de totale massa van het behandelde monster
-
-p = de plaatselijke dichtheid op punt (x,y,z)
-
-d = de plaatselijke geabsorbeerde dosis op punt (x,y,z)
-
-dV = dx, dy, dz, het infinitesimaal volume-element dat in de werkelijkheid wordt weergegeven door de volumefracties
-
-De totale gemiddelde geabsorbeerde dosis kan voor homogene waren of voor bulkgoederen met een homogene dichtheid rechtstreeks worden bepaald door een voldoende aantal stralingsmeters planmatig en willekeurig te verdelen over het totale volume van de goederen. Aan de hand van de op deze wijze vastgestelde dosisverdeling kan een gemiddelde worden berekend, dat de totale gemiddelde geabsorbeerde dosis is.
-
-Indien de vorm van de curve van de dosisverdeling over de waar goed bepaald is, zijn de plaatsen van minimum- en maximumdosis bekend. Op basis van metingen van de dosisverdelingen op deze twee punten in een serie van monsters van de waar, kan een schatting worden gemaakt van de totale gemiddelde dosis.
-
-In bepaalde gevallen kan een goede schatting worden gemaakt van de totale gemiddelde dosis door het gemiddelde te nemen van respectievelijk de gemiddelde minimumdosis (D-min) en de gemiddelde maximumdosis (D-max).
-
-De totale gemiddelde dosis is dan (D-max + D-min ) / 2
-
-De verhouding D-max/D-min bedraagt niet meer dan 3.
-
-### 2. Methoden
-
-### 2.1
-
-Voordat met de routinedoorstraling van een bepaalde categorie eet- of drinkwaren of grondstoffen in een doorstralingsinstallatie wordt begonnen, worden eerst de plaatsen van de minimum- en maximumdosis bepaald door over het gehele volume van de waar stralingsmetingen te verrichten. Deze valideringsmetingen worden een voldoende aantal malen (bijvoorbeeld 3–5) verricht, om rekening te houden met variërende dichtheid of geometrie van een waar.
-
-### 2.2
-
-De metingen worden herhaald wanneer de waar, de geometrie dan wel de omstandigheden van doorstraling zijn veranderd.
-
-### 2.3
-
-Gedurende het proces van doorstraling worden routine stralingsmetingen verricht om overschrijding van de dosislimieten te voorkomen. De metingen gebeuren met stralingsmeters die op de plaatsen van de maximum- of de minimumdosis dan wel op een referentiepunt zijn geplaatst. De dosis op het referentiepunt is kwalitatief gerelateerd aan de maximum- en minimumdosis. Het referentiepunt bevindt zich op een makkelijk bereikbare plaats in of op de waar alwaar de doses weinig variëren.
-
-### 2.4
-
-Tijdens de productie worden aan iedere partij en met passende tussenpozen routine stralingsmetingen verricht.
-
-### 2.5
-
-Bij doorstraling van vloeibare, niet verpakte waren is de bepaling van de plaatsen van de minimum- en maximumdosis niet mogelijk. Hier verdient het de voorkeur aan de hand van steekproefsgewijze metingen de waarden van deze uiterste doses te bepalen.
-
-### 2.6
-
-Bij de stralingsmetingen wordt gebruik gemaakt van erkende dosimetrische systemen en de metingen worden gerelateerd aan basisnormen.
-
-### 2.7
-
-Gedurende de doorstraling worden de relevante parameters van de installatie gecontroleerd en voortdurend geregistreerd. Bij gebruik van radionucliden zijn deze parameters onder meer de transportsnelheid van de waar of de tijd die in de stralingszone wordt doorgebracht en een indicatie die de correcte positie van de stralingsbron bevestigd. Bij deeltjesversnellers zijn die parameters onder meer de transportsnelheid van de waar, het energieniveau, de elektronenstroom en de scannerbreedte van de installatie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering van Koreaanse belasting op dividenden, interest en royalty's uit Koreaanse bron, genoten door inwoners van Nederland"
+citeertitel: "Koreaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Korea"
 identifier: "BWBR0004702"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-06-19"
-last_updated: "1997-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004702"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "5090143"
-version_id: "9149462"
-internal_id: "C12171261"
-label_id: "5065744"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004702/1997-06-19/0"
-intitule_bron: "Stcrt.1991-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-01-25"
-intitule_published: "1991-01-25"
-intitule_in_force: "1991-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-18"
-original_signed_date: "1990-01-25"
-original_published_date: "1991-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-27"
-jci_1_3: "jci1.3:c:BWBR0004702&z=1997-06-19&g=1997-06-19"
-jci_1_0: "1.0:c:BWBR0004702&g=1997-06-19"
-citeertitel_status: "officieel"
-short_title: "Koreaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Korea"
-signed_date: "1990-01-25"
-entry_into_force: "1991-01-27"
+publicatiedatum: 1991-01-27
+laatste_update: 1997-06-19
+status: geldig
+toestand: 1997-06-19
+bron: "https://wetten.overheid.nl/BWBR0004702"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inzake vermindering van Koreaanse belasting op dividenden, interest en royalty's uit Koreaanse bron, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland.
 
@@ -63,19 +38,19 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&a
 
 - 1. Dividenden, interest en royalty's
 
-- a. Koreaanse belasting Volgens de huidige Koreaanse wetgeving zijn dividenden, interest en royalty's onderworpen aan een bronbelasting van 25% indien deze inkomsten worden behaald aan niet-inwoners.
+   - a. Koreaanse belasting Volgens de huidige Koreaanse wetgeving zijn dividenden, interest en royalty's onderworpen aan een bronbelasting van 25% indien deze inkomsten worden behaald aan niet-inwoners.
 
-- b. Wijze waarop de vermindering wordt verleend De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19) vermelde verminderingen worden in Korea bij de bron verleend. De Koreaanse schuldenaar van de inkomsten mag de betalingen aan de Nederlandse gerechtigde doen:
+   - b. Wijze waarop de vermindering wordt verleend De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19) vermelde verminderingen worden in Korea bij de bron verleend. De Koreaanse schuldenaar van de inkomsten mag de betalingen aan de Nederlandse gerechtigde doen:
 
-- in de in [artikel 1, onderdelen a, c, eerste volzin, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19), genoemde gevallen: onder inhouding van Koreaanse bronbelasting naar het volgens de Overeenkomst verlaagde tarief van 15%;
+      - in de in [artikel 1, onderdelen a, c, eerste volzin, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19), genoemde gevallen: onder inhouding van Koreaanse bronbelasting naar het volgens de Overeenkomst verlaagde tarief van 15%;
 
-- in de in [artikel 1, onderdelen b, c, tweede volzin, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19), genoemde gevallen: onder inhouding van Koreaanse bronbelasting naar het volgens de Overeenkomst verlaagde tarief van 10%.
+      - in de in [artikel 1, onderdelen b, c, tweede volzin, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19), genoemde gevallen: onder inhouding van Koreaanse bronbelasting naar het volgens de Overeenkomst verlaagde tarief van 10%.
 
-- c. Woonplaatsformulieren De in Nederland wonende gerechtigde tot de dividenden, interest of royalty's uit Koreaanse bron, moet aan de Koreaanse schuldenaar van die inkomsten twee woonplaatsformulieren Neth/Kor 2 overleggen. Deze twee woonplaatsformulieren Neth/Kor 2 dient de betrokken inwoner van Nederland na invulling te laten viseren door het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Na het stellen van de woonplaatsverklaring geeft vorenbedoeld hoofd de beide formulieren aan de betrokkene terug, nadat hij van een van de beide formulieren een fotocopie heeft gemaakt ten behoeve van de legger van betrokkene.
+   - c. Woonplaatsformulieren De in Nederland wonende gerechtigde tot de dividenden, interest of royalty's uit Koreaanse bron, moet aan de Koreaanse schuldenaar van die inkomsten twee woonplaatsformulieren Neth/Kor 2 overleggen. Deze twee woonplaatsformulieren Neth/Kor 2 dient de betrokken inwoner van Nederland na invulling te laten viseren door het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Na het stellen van de woonplaatsverklaring geeft vorenbedoeld hoofd de beide formulieren aan de betrokkene terug, nadat hij van een van de beide formulieren een fotocopie heeft gemaakt ten behoeve van de legger van betrokkene.
 
-- d. Verzoek om teruggaaf, indien te veel Koreaanse belasting is ingehouden In gevallen waarin in afwijking van het bepaalde in onderdeel b hiervoor bij de uitbetaling van de dividenden, interest of royalty's te veel Koreaanse belasting is ingehouden, kan de Nederlandse genieter van die inkomsten zich met een verzoek om teruggaaf van hetgeen te veel is ingehouden wenden tot degene die de desbetreffende dividenden, interest of royalty's heeft betaald. De verzoeken om teruggaaf zijn niet aan een bepaalde vorm gebonden. Bij het verzoek om teruggaaf moet de betrokken inwoner van Nederland twee woonplaatsformulieren Neth/Kor 2 overleggen. Deze twee woonplaatsformulieren Neth/Kor 2 dient de betrokken inwoner van Nederland na invulling te laten viseren door het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Na het stellen van de woonplaatsverklaring geeft vorenbedoeld hoofd de beide formulieren aan de betrokkene terug, nadat hij van een van de beide formulieren een fotocopie heeft gemaakt ten behoeve van de legger van betrokkene.
+   - d. Verzoek om teruggaaf, indien te veel Koreaanse belasting is ingehouden In gevallen waarin in afwijking van het bepaalde in onderdeel b hiervoor bij de uitbetaling van de dividenden, interest of royalty's te veel Koreaanse belasting is ingehouden, kan de Nederlandse genieter van die inkomsten zich met een verzoek om teruggaaf van hetgeen te veel is ingehouden wenden tot degene die de desbetreffende dividenden, interest of royalty's heeft betaald. De verzoeken om teruggaaf zijn niet aan een bepaalde vorm gebonden. Bij het verzoek om teruggaaf moet de betrokken inwoner van Nederland twee woonplaatsformulieren Neth/Kor 2 overleggen. Deze twee woonplaatsformulieren Neth/Kor 2 dient de betrokken inwoner van Nederland na invulling te laten viseren door het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Na het stellen van de woonplaatsverklaring geeft vorenbedoeld hoofd de beide formulieren aan de betrokkene terug, nadat hij van een van de beide formulieren een fotocopie heeft gemaakt ten behoeve van de legger van betrokkene.
 
-- e. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Koreaanse belasting moeten ingevolge de Koreaanse wetgeving worden ingediend binnen een termijn van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel II van het Protocol).
+   - e. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Koreaanse belasting moeten ingevolge de Koreaanse wetgeving worden ingediend binnen een termijn van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel II van het Protocol).
 
 - 2. Verkrijgbaarheid van het woonplaatsformulier Neth/Kor 2 Exemplaren van het woonplaatsformulier Neth/Kor 2 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Korea bij de National Tax Administration, 108-4, Susong-Dong, Chongro-Ku, Seoul, 110-140, Korea.
 

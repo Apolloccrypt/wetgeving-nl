@@ -1,43 +1,18 @@
 ---
 title: "Regeling aangiftebiljet heffing industrielawaai 1986"
+citeertitel: "Regeling Aangiftebiljet heffing industrielawaai 1986"
 identifier: "BWBR0004075"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1986-12-25"
-last_updated: "1986-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004075"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3740833"
-version_id: "5523712"
-internal_id: "C5716801"
-label_id: "3720594"
-dtd_version: "2.0"
-original_entry_into_force: "1986-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004075/1986-12-25/0"
-intitule_bron: "Stcrt.1986-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-12-19"
-intitule_published: "1986-12-23"
-intitule_in_force: "1986-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-248"
-original_signed_date: "1986-12-19"
-original_published_date: "1986-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1986-12-25"
-jci_1_3: "jci1.3:c:BWBR0004075&z=1986-12-25&g=1986-12-25"
-jci_1_0: "1.0:c:BWBR0004075&g=1986-12-25"
-citeertitel_status: "officieel"
-short_title: "Regeling Aangiftebiljet heffing industrielawaai 1986"
-signed_date: "1986-12-19"
-entry_into_force: "1986-12-25"
+publicatiedatum: 1986-12-25
+laatste_update: 1986-12-25
+status: geldig
+toestand: 1986-12-25
+bron: "https://wetten.overheid.nl/BWBR0004075"
+opgehaald: 2026-07-31
 ---
+
 # Regeling aangiftebiljet heffing industrielawaai 1986
-
-Gelet op artikel 7, tweede en derde lid, van de Tijdelijke heffingwet industrielawaai (Stb. 1983, 685) juncto de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) en [7, derde lid van de Algemene Wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=7) (Stb. 1959, 301).
-
-Besluit
 
 ##### Artikel 1
 

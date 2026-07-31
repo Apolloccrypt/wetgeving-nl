@@ -1,42 +1,17 @@
 ---
 title: "Vaststelling bijdrage voor gemoedsbezwaarden voor 1991"
 identifier: "BWBR0004946"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-01-01"
-last_updated: "1991-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004946"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3757793"
-version_id: "5540652"
-internal_id: "C5733741"
-label_id: "3737534"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004946/1991-01-01/0"
-intitule_bron: "Stcrt.1990-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-12-20"
-intitule_published: "1990-12-27"
-intitule_in_force: "1990-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-251"
-original_signed_date: "1990-12-20"
-original_published_date: "1990-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004946&z=1991-01-01&g=1991-01-01"
-jci_1_0: "1.0:c:BWBR0004946&g=1991-01-01"
-citeertitel_status: "officieel"
-signed_date: "1990-12-20"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 1991-01-01
+status: geldig
+toestand: 1991-01-01
+bron: "https://wetten.overheid.nl/BWBR0004946"
+opgehaald: 2026-07-31
 ---
+
 # Vaststelling bijdrage voor gemoedsbezwaarden voor 1991
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20) (Stb. 1984, 269);
-
-Besluit:
 
 ##### Artikel 1
 

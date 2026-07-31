@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-24
 toestand: 2026-01-27
 bron: "https://wetten.overheid.nl/BWBR0046804"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juni 2022, 2022-0000004989, houdende de inrichting van de directie Informatievoorziening, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022)

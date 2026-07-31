@@ -9,7 +9,7 @@ laatste_update: 2026-07-21
 status: geldig
 toestand: 2026-07-21
 bron: "https://wetten.overheid.nl/BWBR0052858"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2026, nr. 2026-0000076217, houdende beperkingen aan de openbaarheid van het archief van het Ministerie van Sociale Zaken en Werkgelegenheid, directie Gemeenschappelijke Organisatie Bedrijfsvoering (GOB), 1996–2009.

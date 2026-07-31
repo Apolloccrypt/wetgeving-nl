@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering en vrijstelling van Zambiaanse belasting op dividenden, interest en royalty's uit Zambiaanse bron, genoten door inwoners van Nederland"
+citeertitel: "Zambiaanse uitvoeringsvoorschriften belastingovereenkomst Nederland–Zambia"
 identifier: "BWBR0004980"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-06-19"
-last_updated: "1997-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004980"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4486153"
-version_id: "6292462"
-internal_id: "C6496671"
-label_id: "4464544"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004980/1997-06-19/0"
-intitule_bron: "Stcrt.1991-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-01-25"
-intitule_published: "1991-01-25"
-intitule_in_force: "1991-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-18"
-original_signed_date: "1991-01-25"
-original_published_date: "1991-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-27"
-jci_1_3: "jci1.3:c:BWBR0004980&z=1997-06-19&g=1997-06-19"
-jci_1_0: "1.0:c:BWBR0004980&g=1997-06-19"
-citeertitel_status: "officieel"
-short_title: "Zambiaanse uitvoeringsvoorschriften belastingovereenkomst Nederland–Zambia"
-signed_date: "1991-01-25"
-entry_into_force: "1991-01-27"
+publicatiedatum: 1991-01-27
+laatste_update: 1997-06-19
+status: geldig
+toestand: 1997-06-19
+bron: "https://wetten.overheid.nl/BWBR0004980"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inzake vermindering en vrijstelling van Zambiaanse belasting op dividenden, interest en royalty's uit Zambiaanse bron, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -61,15 +36,15 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004980&a
 
 - 1. Dividenden, interest en royalty's
 
-- a. Zambiaanse belasting Volgens de huidige Zambiaanse wetgeving zijn dividenden, interest en royalty's uit bronnen in Zambia onderworpen aan een bronbelasting. Deze bronbelasting bedraagt voor dividenden 20% en voor interest en royalty's 30% van het brutobedrag van die inkomsten.
+   - a. Zambiaanse belasting Volgens de huidige Zambiaanse wetgeving zijn dividenden, interest en royalty's uit bronnen in Zambia onderworpen aan een bronbelasting. Deze bronbelasting bedraagt voor dividenden 20% en voor interest en royalty's 30% van het brutobedrag van die inkomsten.
 
-- b. Wijze waarop de vermindering of vrijstelling wordt verleend
+   - b. Wijze waarop de vermindering of vrijstelling wordt verleend
 
-- 1º. Als algemene regel geldt dat de Zambiaanse belasting bij de uitbetaling van de dividenden, interest en royalty's ten volle wordt ingehouden en dat de vermindering of vrijstelling waarop de belanghebbende inwoner van Nederland op grond van de Overeenkomst aanspraak heeft, hem wordt verleend door teruggaaf van hetgeen te veel is ingehouden. Tot het verkrijgen van de teruggaaf dient de belanghebbende inwoner van Nederland gebruik te maken van een formulier ITF.3(DT). Indien het zijn eerste verzoek is, moet de belanghebbende inwoner van Nederland het formulier ITF.3(DT), nadat het volledig is ingevuld en ondertekend, zenden aan het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Nadat hij het formulier, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging, van vorenbedoeld hoofd heeft terugontvangen, zendt hij dit met de desbetreffende tax deductions certificates naar de Commissioner of Taxes, P.O. Box RW 140, Lusaka, Zambia. Indien het niet zijn eerste verzoek is, dient de belanghebbende inwoner van Nederland het formulier ITF.3(DT), na invulling en ondertekening, tezamen met de desbetreffende tax deductions certificates rechtstreeks te zenden aan voornoemde Commissioner.
+      - 1º. Als algemene regel geldt dat de Zambiaanse belasting bij de uitbetaling van de dividenden, interest en royalty's ten volle wordt ingehouden en dat de vermindering of vrijstelling waarop de belanghebbende inwoner van Nederland op grond van de Overeenkomst aanspraak heeft, hem wordt verleend door teruggaaf van hetgeen te veel is ingehouden. Tot het verkrijgen van de teruggaaf dient de belanghebbende inwoner van Nederland gebruik te maken van een formulier ITF.3(DT). Indien het zijn eerste verzoek is, moet de belanghebbende inwoner van Nederland het formulier ITF.3(DT), nadat het volledig is ingevuld en ondertekend, zenden aan het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Nadat hij het formulier, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging, van vorenbedoeld hoofd heeft terugontvangen, zendt hij dit met de desbetreffende tax deductions certificates naar de Commissioner of Taxes, P.O. Box RW 140, Lusaka, Zambia. Indien het niet zijn eerste verzoek is, dient de belanghebbende inwoner van Nederland het formulier ITF.3(DT), na invulling en ondertekening, tezamen met de desbetreffende tax deductions certificates rechtstreeks te zenden aan voornoemde Commissioner.
 
-- 2º. In afwijking van de in sub 1° hiervoor vermelde algemene regel kan de belanghebbende inwoner van Nederland de uit de Overeenkomst voortvloeiende vrijstelling en verminderingen van Zambiaanse belasting als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004980&artikel=1&z=1997-06-19&g=1997-06-19) reeds aan de bron verkrijgen. Daartoe dient de belanghebbende inwoner van Nederland zich te wenden tot de Commissioner of Taxes, P.O. Box RW 140, Lusaka, Zambia, met het verzoek op de voet van de sections 81 en 82A van de Income Tax Act aan de Zambiaanse betaler van de dividenden, interest en royalty's een verklaring op het formulier WHT.4. af te geven dat die inkomsten op grond van de Overeenkomst mogen worden uitbetaald zonder inhouding van Zambiaanse belasting of onder inhouding van Zambiaanse belasting naar ten hoogste het in die Overeenkomst neergelegde percentage.
+      - 2º. In afwijking van de in sub 1° hiervoor vermelde algemene regel kan de belanghebbende inwoner van Nederland de uit de Overeenkomst voortvloeiende vrijstelling en verminderingen van Zambiaanse belasting als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004980&artikel=1&z=1997-06-19&g=1997-06-19) reeds aan de bron verkrijgen. Daartoe dient de belanghebbende inwoner van Nederland zich te wenden tot de Commissioner of Taxes, P.O. Box RW 140, Lusaka, Zambia, met het verzoek op de voet van de sections 81 en 82A van de Income Tax Act aan de Zambiaanse betaler van de dividenden, interest en royalty's een verklaring op het formulier WHT.4. af te geven dat die inkomsten op grond van de Overeenkomst mogen worden uitbetaald zonder inhouding van Zambiaanse belasting of onder inhouding van Zambiaanse belasting naar ten hoogste het in die Overeenkomst neergelegde percentage.
 
-- 3º. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Zambiaanse belasting moeten worden ingediend binnen een tijdvak van zes jaren na het einde van het aanslagjaar (dit loopt van 1 april tot en met 31 maart) waarin de belasting is geheven (onderdeel II van het Protocol).
+      - 3º. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Zambiaanse belasting moeten worden ingediend binnen een tijdvak van zes jaren na het einde van het aanslagjaar (dit loopt van 1 april tot en met 31 maart) waarin de belasting is geheven (onderdeel II van het Protocol).
 
 - 2. Verkrijgbaarheid van het formulier ITF.3(DT) Exemplaren van het formulier ITF.3(DT) zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Zambia bij The Commissioner of Taxes, P.O. Box RW 140, Lusaka.
 

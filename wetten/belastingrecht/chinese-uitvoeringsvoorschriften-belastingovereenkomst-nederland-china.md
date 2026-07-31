@@ -1,45 +1,18 @@
 ---
-title: "Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting"
+title: "Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting."
+citeertitel: "Chinese uitvoeringsvoorschriften belastingovereenkomst Nederland-China"
 identifier: "BWBR0004931"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-06-19"
-last_updated: "1997-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004931"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "5082553"
-version_id: "9140642"
-internal_id: "C12148231"
-label_id: "5058234"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004931/1997-06-19/0"
-intitule_bron: "Stcrt.1990-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-12-14"
-intitule_published: "1990-12-14"
-intitule_in_force: "1990-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-244"
-original_signed_date: "1990-12-14"
-original_published_date: "1990-12-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004931&z=1997-06-19&g=1997-06-19"
-jci_1_0: "1.0:c:BWBR0004931&g=1997-06-19"
-citeertitel_status: "officieel"
-short_title: "Chinese uitvoeringsvoorschriften belastingovereenkomst Nederland-China"
-signed_date: "1990-12-14"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 1997-06-19
+status: geldig
+toestand: 1997-06-19
+bron: "https://wetten.overheid.nl/BWBR0004931"
+opgehaald: 2026-07-31
 ---
-# Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting
 
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-Regeling inzake vermindering en vrijstelling van Chinese belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland.
+# Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting.
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -65,21 +38,21 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004931&a
 
 - a. Dividenden, interest en royalty's
 
-- 1. Chinese belasting Volgens de huidige Chinese wetgeving zijn dividenden, interest en royalty's uit bronnen in China die door niet-inwoners worden verkregen, onderworpen aan een bronbelasting van 20%.
+   - 1. Chinese belasting Volgens de huidige Chinese wetgeving zijn dividenden, interest en royalty's uit bronnen in China die door niet-inwoners worden verkregen, onderworpen aan een bronbelasting van 20%.
 
-- 2. Verzoek om vrijstelling bij de bron De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004931&artikel=1&z=1997-06-19&g=1997-06-19) vermelde verminderingen en vrijstellingen worden in China in het algemeen bij de bron verleend. De Chinese schuldenaar van de dividenden, interest en royalty's mag, nadat hij daartoe van de bevoegde Chinese belastingautoriteit toestemming heeft verkregen, deze inkomsten uitbetalen zonder inhouding van Chinese belasting of onder inhouding van het volgens de Overeenkomst verlaagde tarief van de Chinese belasting. De in Nederland wonende gerechtigde van vorenbedoelde inkomsten dient, ten einde de Chinese schuldenaar van de inkomsten in staat te stellen de toestemming van de bevoegde Chinese belastingautoriteit te verkrijgen, aan de Chinese schuldenaar over te leggen: Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ............... certifies that .............................................. .... (naam en adres van de verzoeker) on the payable date(s) of the dividends/interest/royalties concerned is a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and the People's Republic of China for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - 2. Verzoek om vrijstelling bij de bron De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004931&artikel=1&z=1997-06-19&g=1997-06-19) vermelde verminderingen en vrijstellingen worden in China in het algemeen bij de bron verleend. De Chinese schuldenaar van de dividenden, interest en royalty's mag, nadat hij daartoe van de bevoegde Chinese belastingautoriteit toestemming heeft verkregen, deze inkomsten uitbetalen zonder inhouding van Chinese belasting of onder inhouding van het volgens de Overeenkomst verlaagde tarief van de Chinese belasting. De in Nederland wonende gerechtigde van vorenbedoelde inkomsten dient, ten einde de Chinese schuldenaar van de inkomsten in staat te stellen de toestemming van de bevoegde Chinese belastingautoriteit te verkrijgen, aan de Chinese schuldenaar over te leggen: Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ............... certifies that .............................................. .... (naam en adres van de verzoeker) on the payable date(s) of the dividends/interest/royalties concerned is a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and the People's Republic of China for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- a. twee volledig ingevulde en ondertekende formulieren "Application Form for Tax Agreement to Foreign Resident";
+      - a. twee volledig ingevulde en ondertekende formulieren "Application Form for Tax Agreement to Foreign Resident";
 
-- b. een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's iwnoner van Nederland is in de zin van artikel 4 van de Overeenkomst.
+      - b. een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's iwnoner van Nederland is in de zin van artikel 4 van de Overeenkomst.
 
-- 3. Verzoek om teruggaaf, indien te veel Chinese belasting is ingehouden In gevallen waarin bij de uitbetaling van de dividenden, interest of royalty's te veel Chinese belasting is ingehouden, kan de Nederlandse genieter van die inkomsten zich met een verzoek om teruggaaf van de te veel ingehouden belasting wenden tot de Chinese belastingautoriteit binnen wiens ambtsgebied de Chinese schuldenaar van de dividenden, interest of royalty's woont of gevestigd is. In het verzoek om teruggaaf, gesteld in de Engelse of Chinese taal, dient de inwoner van Nederland te vermelden: Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal deze verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ................ certifies that ............................................... .... (naam en adres van de verzoeker) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and the People's Republic of China for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - 3. Verzoek om teruggaaf, indien te veel Chinese belasting is ingehouden In gevallen waarin bij de uitbetaling van de dividenden, interest of royalty's te veel Chinese belasting is ingehouden, kan de Nederlandse genieter van die inkomsten zich met een verzoek om teruggaaf van de te veel ingehouden belasting wenden tot de Chinese belastingautoriteit binnen wiens ambtsgebied de Chinese schuldenaar van de dividenden, interest of royalty's woont of gevestigd is. In het verzoek om teruggaaf, gesteld in de Engelse of Chinese taal, dient de inwoner van Nederland te vermelden: Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal deze verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ................ certifies that ............................................... .... (naam en adres van de verzoeker) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and the People's Republic of China for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- a. de naam en het adres van de Chinese betaler van de dividenden, interest of royalty's;
+      - a. de naam en het adres van de Chinese betaler van de dividenden, interest of royalty's;
 
-- b. de datum(s) van betaalbaarstelling van de dividenden, interest of royalty's, de datum en de duur van het contract uit hoofde waarvan de interest of royalty's worden betaald, de brutobedragen van de dividenden, interest of royalty's en de bedragen van de daarop ingehouden Chinese belasting.
+      - b. de datum(s) van betaalbaarstelling van de dividenden, interest of royalty's, de datum en de duur van het contract uit hoofde waarvan de interest of royalty's worden betaald, de brutobedragen van de dividenden, interest of royalty's en de bedragen van de daarop ingehouden Chinese belasting.
 
-- 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven ( onderdeel VIII van het Protocol).
+   - 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven ( onderdeel VIII van het Protocol).
 
 - b. Verkrijgbaarheid van het formulier ‘Application Form for Tax Agreement to Foreign Resident’ Exemplaren van het formulier "Application Form for Tax Agreement to Foreign Resident" zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in China bij The Ministry of Finance, General Taxation Bureau, Beijing, People's Republic of China.
 

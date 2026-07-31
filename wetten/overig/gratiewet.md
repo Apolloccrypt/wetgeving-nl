@@ -1,46 +1,18 @@
 ---
 title: "Wet van 23 december 1987, houdende regelen voor de indiening en behandeling van en de beschikking op verzoekschriften om gratie"
+citeertitel: "Gratiewet"
 identifier: "BWBR0004257"
-country: "nl"
-rank: "wet"
-publication_date: "2021-04-01"
-last_updated: "2021-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004257"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2100663"
-version_id: "17607322"
-internal_id: "C24364681"
-label_id: "2048094"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004257/2021-04-01/0"
-intitule_bron: "Stb.1987-598"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2010-05-17"
-entry_into_force_dossier: "31959"
-jci_1_3: "jci1.3:c:BWBR0004257&z=2021-04-01&g=2021-04-01"
-jci_1_0: "1.0:c:BWBR0004257&g=2021-04-01"
-citeertitel_status: "officieel"
-short_title: "Gratiewet"
-signed_date: "2010-05-17"
-entry_into_force: "2010-05-17"
+publicatiedatum: 2010-05-17
+laatste_update: 2021-04-01
+status: geldig
+toestand: 2021-04-01
+bron: "https://wetten.overheid.nl/BWBR0004257"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 23 december 1987, houdende regelen voor de indiening en behandeling van en de beschikking op verzoekschriften om gratie
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat ingevolge artikel 122, eerste lid, van de herziene [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) een wettelijke regeling dient te voorzien in de aanwijzing van gerechten welke over verzoekschriften om gratie advies uitbrengen en in voorschriften omtrent de behandeling van en beschikking op zulke verzoekschriften, en dat het in dat verband wenselijk is de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) die betrekking hebben op de indiening van verzoekschriften om gratie te wijzigen opdat het mogelijk zij ook gratie te verzoeken en te verkrijgen van bepaalde door de Nederlandse strafrechter opgelegde strafrechtelijke maatregelen, en voorts enkele andere wetten daaraan aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -80,7 +52,7 @@ Gratie kan worden verleend
 
 Het verzoekschrift wordt ingediend op een bij ministeriële regeling vast te stellen formulier.
 
-2. Indien het verzoek op grond van [artikel 6:7:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:5) of [artikel 614 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=614) door een derde wordt ingediend, geeft degene op wie het verzoek betrekking heeft, op het in het eerste lid bedoelde formulier tevens aan of hij met het verzoek instemt.
+2. Indien het verzoek op grond van [artikel 6:7:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:5) of [artikel 614 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=614) door een derde wordt ingediend, geeft degene op wie het verzoek betrekking heeft, op het in het eerste lid bedoelde formulier tevens aan of hij met het verzoek instemt.
 
 3. Indien het formulier niet volledig is ingevuld, wordt de verzoeker in de gelegenheid gesteld de ontbrekende gegevens aan te vullen binnen een termijn van zes weken, ingaande op de dag nadat het verzoek om aanvulling van die gegevens door Onze Minister is verzonden.
 
@@ -96,7 +68,7 @@ Het verzoekschrift wordt ingediend op een bij ministeriële regeling vast te ste
 
 - b. het gerecht dat een bezwaar, hem voorgelegd ingevolge [artikel 35 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=35) of [artikel 592b van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=592b), ongegrond heeft verklaard.
 
-3. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=43) of [artikel 593 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=593) in Nederland is gelast, dan wel van gevangenisstraffen die door het Internationaal Strafhof zijn opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof en waarvan de tenuitvoerlegging in Nederland geschiedt overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&artikel=67) of [68 van de Uitvoeringswet Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&artikel=68), wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het in genoemd artikel 43 respectievelijk artikel 593 bedoelde gerecht. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=2:15) of [artikel 3:14 van de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=3:14) in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het gerecht, bedoeld in [artikel 2:11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=2:11), respectievelijk artikel 3:14, vijfde, zesde of achtste lid van die wet. Omtrent verzoekschriften om vermindering of kwijtschelding van sancties opgelegd in een andere lidstaat van de Europese Unie, waarvan de tenuitvoerlegging met toepassing van de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) tot confiscatie in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van de rechtbank Noord-Nederland. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 6a, eerste en achtste lid, van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=6a) in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van de rechtbank, bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1).
+3. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=43) of [artikel 593 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=593) in Nederland is gelast, dan wel van gevangenisstraffen die door het Internationaal Strafhof zijn opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof en waarvan de tenuitvoerlegging in Nederland geschiedt overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&artikel=67) of [68 van de Uitvoeringswet Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&artikel=68), wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het in genoemd artikel 43 respectievelijk artikel 593 bedoelde gerecht. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=2:15) of [artikel 3:14 van de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=3:14) in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het gerecht, bedoeld in [artikel 2:11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=2:11), respectievelijk artikel 3:14, vijfde, zesde of achtste lid van die wet. Omtrent verzoekschriften om vermindering of kwijtschelding van sancties opgelegd in een andere lidstaat van de Europese Unie, waarvan de tenuitvoerlegging met toepassing van de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) tot confiscatie in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van de rechtbank Noord-Nederland. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 6a, eerste en achtste lid, van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=6a) in Nederland geschiedt, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van de rechtbank, bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1).
 
 4. Voor de toepassing van het eerste lid geldt dat indien het meerdere verzoekschriften betreft die betrekking hebben op dezelfde veroordeelde en die tegelijkertijd worden ingediend, kan worden volstaan met het inwinnen van het advies van het gerecht dat de langste of hoogste straf of maatregel heeft opgelegd. Het desbetreffende gerecht brengt één advies uit over alle verzoekschriften en kan daartoe andere gerechten om advies vragen.
 
@@ -108,7 +80,7 @@ Het verzoekschrift wordt ingediend op een bij ministeriële regeling vast te ste
 
 6. In de gevallen waarin geen toepassing wordt gegeven aan het vijfde lid, onder a of b, omdat blijkt van een nieuwe omstandigheid, wordt het verzoekschrift in behandeling genomen.
 
-7. Een verzoek om gratie terzake van door de Nederlandse strafrechter onherroepelijk opgelegde taakstraffen blijft buiten behandeling indien het is ingediend gedurende de periode dat de rechter nog niet heeft beslist op een beroepschrift van de veroordeelde tegen de beslissing van het openbaar ministerie om met toepassing van [artikel 6:3:3 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:3) de vervangende hechtenis te bevelen.
+7. Een verzoek om gratie terzake van door de Nederlandse strafrechter onherroepelijk opgelegde taakstraffen blijft buiten behandeling indien het is ingediend gedurende de periode dat de rechter nog niet heeft beslist op een beroepschrift van de veroordeelde tegen de beslissing van het openbaar ministerie om met toepassing van [artikel 6:3:3 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:3) de vervangende hechtenis te bevelen.
 
 8. Indien het gerecht waarvan de rechterlijke beslissing afkomstig is, ontbonden of opgeheven is, wordt het advies ingewonnen van het gerecht waaraan de rechtsmacht is opgedragen, tevoren door dat gerecht uitgeoefend.
 
@@ -120,7 +92,7 @@ Het verzoekschrift wordt ingediend op een bij ministeriële regeling vast te ste
 
 3. Onze Minister stelt op basis van de door de verzoeker verstrekte gegevens en de ingevolge het eerste en tweede lid ingewonnen informatie een verslag van bevindingen op.
 
-4. In de gevallen waarin het verzoekschrift betrekking heeft op een vonnis of arrest dat is gewezen door de meervoudige kamer of waarbij het openbaar ministerie een advies als bedoeld in [artikel 6:1:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10) heeft gegeven, zendt Onze Minister het verzoekschrift en zijn verslag van bevindingen naar het openbaar ministerie voor advies. Het openbaar ministerie legt zijn advies neer in een verslag en zendt de stukken vervolgens aan het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=4&z=2021-04-01&g=2021-04-01) aangewezen gerecht.
+4. In de gevallen waarin het verzoekschrift betrekking heeft op een vonnis of arrest dat is gewezen door de meervoudige kamer of waarbij het openbaar ministerie een advies als bedoeld in [artikel 6:1:10 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10) heeft gegeven, zendt Onze Minister het verzoekschrift en zijn verslag van bevindingen naar het openbaar ministerie voor advies. Het openbaar ministerie legt zijn advies neer in een verslag en zendt de stukken vervolgens aan het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=4&z=2021-04-01&g=2021-04-01) aangewezen gerecht.
 
 5. In de overige gevallen zendt Onze Minister het verzoekschrift met zijn verslag van bevindingen rechtstreeks aan het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=4&z=2021-04-01&g=2021-04-01) aangewezen gerecht.
 
@@ -164,7 +136,7 @@ Indien Wij of Onze Minister dit wenselijk achten wordt, behalve het advies van h
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -238,23 +210,23 @@ De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=2&z=202
 
 ##### Artikel 21
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 22
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 23
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 24
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 25
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 26
 
@@ -262,14 +234,10 @@ Bevat wijzigingen in andere regelgeving.
 
 2. Verzoekschriften om gratie, die voordien zijn ingediend, doch waarover op dat tijdstip nog niet is beslist, worden met inachtneming van de bepalingen van deze Wet afgehandeld.
 
-##### Artikel 27
-
-Deze Wet kan worden aangehaald als "Gratiewet".
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 26a
 
 Een verzoekschrift om gratie dat voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), is ingediend bij de griffie van het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba en waarover op dat tijdstip nog niet is beslist, wordt geacht te zijn ingediend bij het Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en wordt met inachtneming van de bepalingen van deze wet afgehandeld.
 
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 27
+
+Deze Wet kan worden aangehaald als "Gratiewet".

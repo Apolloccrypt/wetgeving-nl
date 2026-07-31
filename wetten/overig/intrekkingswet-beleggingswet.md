@@ -1,54 +1,28 @@
 ---
 title: "Wet van 8 december 1988, houdende intrekking van de Beleggingswet"
+citeertitel: "Intrekkingswet Beleggingswet"
 identifier: "BWBR0004446"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004446"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1466533"
-version_id: "2193912"
-internal_id: "C2193911"
-label_id: "1424724"
-dtd_version: "2.0"
-original_entry_into_force: "1989-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004446/2002-01-01/0"
-intitule_bron: "Stb.1988-562"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-12-08"
-intitule_in_force: "1988-12-27"
-intitule_status: "goed"
-original_publication: "Stb.1988-562"
-original_signed_date: "1988-12-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "20654"
-entry_into_force_date: "1989-01-01"
-jci_1_3: "jci1.3:c:BWBR0004446&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0004446&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Intrekkingswet Beleggingswet"
-signed_date: "1988-12-08"
-entry_into_force: "1989-01-01"
+publicatiedatum: 1989-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0004446"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 8 december 1988, houdende intrekking van de Beleggingswet
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Beleggingswet wordt ingetrokken, en dat de gevolgen daarvan voor de beleggingen van het Invaliditeits- en Ouderdomsfonds en het Ouderdomsfonds B worden geregeld;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-1. De Beleggingswet (**Stb.** 1939, 400) wordt ingetrokken.
+1. De Beleggingswet (*Stb.* 1939, 400) wordt ingetrokken.
 
 2. De Centrale Beleggingsraad wordt opgeheven.
 
 ##### Artikel 2
 
-De Sociale verzekeringsbank is belast met de belegging van de gelden en het te gelde maken van de beleggingen van het Invaliditeits- en Ouderdomsfonds, bedoeld in de Invaliditeitswet (**Stb.** 1913, 205), en het Ouderdomsfonds B, bedoeld in de Ouderdomswet 1919 (**Stb.** 1919, 628).
+De Sociale verzekeringsbank is belast met de belegging van de gelden en het te gelde maken van de beleggingen van het Invaliditeits- en Ouderdomsfonds, bedoeld in de Invaliditeitswet (*Stb.* 1913, 205), en het Ouderdomsfonds B, bedoeld in de Ouderdomswet 1919 (*Stb.* 1919, 628).
 
 ##### Artikel 3
 
@@ -62,10 +36,8 @@ De onder de Centrale Beleggingsraad berustende archiefbescheiden worden overgebr
 
 ##### Artikel 5
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 6
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,50 +1,29 @@
 ---
 title: "Begrip zelfstandige in de zin van artikel 1, onder a van de EEG-verordening nr. 1408/71"
 identifier: "BWBR0004596"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1989-07-12"
-last_updated: "1989-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004596"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8398813"
-version_id: "13271482"
-internal_id: "C18432031"
-label_id: "8379564"
-dtd_version: "2.0"
-original_entry_into_force: "1989-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004596/1989-07-12/0"
-intitule_bron: "Infob.1989-7"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-07-12"
-intitule_published: "1989-01-01"
-intitule_in_force: "1989-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1989-7"
-original_signed_date: "1989-07-12"
-original_published_date: "1989-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-07-12"
-jci_1_3: "jci1.3:c:BWBR0004596&z=1989-07-12&g=1989-07-12"
-jci_1_0: "1.0:c:BWBR0004596&g=1989-07-12"
-citeertitel_status: "redactioneel"
-signed_date: "1989-07-12"
-entry_into_force: "1989-07-12"
+publicatiedatum: 1989-07-12
+laatste_update: 1989-07-12
+status: geldig
+toestand: 1989-07-12
+bron: "https://wetten.overheid.nl/BWBR0004596"
+opgehaald: 2026-07-31
 ---
+
 # Begrip zelfstandige in de zin van artikel 1, onder a van de EEG-verordening nr. 1408/71
 
 Hierbij vraag ik uw aandacht voor het volgende.
 
-Ingevolge het bepaalde in art. 13, tweede lid, sub b van de EEG-[Verordening nr. 1408/71](31971R1408) zie 30.00.00) is op degene die op het grondgebied van een Lid-Staat werkzaamheden anders dan in loondienst uitoefent de wetgeving van die Staat van toepassing zelfs indien hij op het grondgebied van een andere Lid-Staat woont. Er van uitgaande, dat degene die anders dan in loondienst werkzaamheden uitoefent ‘zelfstandige’ is moet dus eerst worden vastgesteld wie zelfstandig is in de zin van de Verordening, alvorens kan worden bepaald welke wetgeving op grond van artikel 13, tweede lid, sub b van toepassing is.
+Ingevolge het bepaalde in art. 13, tweede lid, sub b van de EEG-Verordening nr. 1408/71 zie 30.00.00) is op degene die op het grondgebied van een Lid-Staat werkzaamheden anders dan in loondienst uitoefent de wetgeving van die Staat van toepassing zelfs indien hij op het grondgebied van een andere Lid-Staat woont. Er van uitgaande, dat degene die anders dan in loondienst werkzaamheden uitoefent ‘zelfstandige’ is moet dus eerst worden vastgesteld wie zelfstandig is in de zin van de Verordening, alvorens kan worden bepaald welke wetgeving op grond van artikel 13, tweede lid, sub b van toepassing is.
 
-Wat onder zelfstandige moet worden verstaan is vastgelegd in artikel 1, sub a, juncto bijlage I van de EG-[Verordening nr. 1408/71](31971R1408). De in deze bijlage voor verscheidene Lid-Staten opgenomen omschrijvingen van het begrip zelfstandige zijn echter verschillend. Zo wordt wat Nederland betreft als zelfstandige aangemerkt degene die anders dan in dienstbetrekking zijn ‘beroepswerkzaamheden’ uitoefent. Wat Denemarken, de Bondsrepubliek Duitsland, Ierland en het Verenigd Koninkrijk betreft wordt voor de omschrijving van het begrip zelfstandige verwezen naar een bepaalde wettelijke regeling of een bepaalde tak van verzekering.
+Wat onder zelfstandige moet worden verstaan is vastgelegd in artikel 1, sub a, juncto bijlage I van de EG-Verordening nr. 1408/71. De in deze bijlage voor verscheidene Lid-Staten opgenomen omschrijvingen van het begrip zelfstandige zijn echter verschillend. Zo wordt wat Nederland betreft als zelfstandige aangemerkt degene die anders dan in dienstbetrekking zijn ‘beroepswerkzaamheden’ uitoefent. Wat Denemarken, de Bondsrepubliek Duitsland, Ierland en het Verenigd Koninkrijk betreft wordt voor de omschrijving van het begrip zelfstandige verwezen naar een bepaalde wettelijke regeling of een bepaalde tak van verzekering.
 
 De vraag is nu volgens de begripsomschrijving van welke Lid-Staat beoordeeld moet worden of een bepaald persoon in een bepaalde situatie zelfstandige is in de zin van de Verordening en of dus de Verordening op hem van toepassing is.
 
 In haar vergadering van 23 en 24 februari 1984 heeft de Administratieve Commissie van de Europese Gemeenschappen voor de sociale zekerheid van migrerende werknemers besloten dat de begripsomschrijving die geldt ten aanzien van het land waar de werkzaamheden worden uitgeoefend in aanmerking moet worden genomen voor de beoordeling of een bepaald persoon zelfstandige is in de zin van de Verordening.
 
-Het vorenstaande betekent dat voor een persoon die in de Bondsrepubliek Duitsland werkzaamheden anders dan in loondienst uitoefent aan de hand van de voor de Bondsrepubliek Duitsland geldende verordeningsbepalingen, artikel 1, sub a in verbinding met onderdeel C van bijlage I van de EEG-[Verordening nr. 1408/71](31971R1408) beoordeeld moet worden of hij zelfstandige is in de zin van de Verordening.
+Het vorenstaande betekent dat voor een persoon die in de Bondsrepubliek Duitsland werkzaamheden anders dan in loondienst uitoefent aan de hand van de voor de Bondsrepubliek Duitsland geldende verordeningsbepalingen, artikel 1, sub a in verbinding met onderdeel C van bijlage I van de EEG-Verordening nr. 1408/71 beoordeeld moet worden of hij zelfstandige is in de zin van de Verordening.
 
 Voor de beoordeling van de verzekeringsplicht voor de Nederlandse volksverzekeringen is het voor de inspecteurs der directe belastingen van belang te weten of een persoon als vorenbedoeld, indien hij in Nederland woont, als zelfstandige in de zin van de Verordening wordt aangemerkt. Wanneer zulks het geval is, valt hij onder de personele werkingssfeer van de Verordening en is op hem ingevolge het bepaalde in artikel 13, tweede lid, sub b in samenhang met het bepaalde in artikel 13, eerste lid, van de Verordening uitsluitend de Duitse sociale zekerheidswetgeving van toepassing en is hij dientengevolge in Nederland niet verplicht verzekerd voor de volksverzekeringen. Wanneer hij echter niet als zelfstandige in de zin van de Verordening wordt aangemerkt, is deze niet op hem van toepassing en valt hij wegens het hebben van zijn woonplaats in Nederland volgens de nationale Nederlandse bepalingen onder de Nederlandse volksverzekeringen.
 

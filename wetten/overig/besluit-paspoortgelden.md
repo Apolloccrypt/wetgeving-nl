@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 november 1991, houdende regels met betrekking tot de aan het Rijk verschuldigde kosten en rechten terzake van reisdocumenten"
+citeertitel: "Besluit paspoortgelden"
 identifier: "BWBR0005264"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005264"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "770343"
-version_id: "1118722"
-internal_id: "C1118721"
-label_id: "746744"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005264/2026-01-01/0"
-intitule_bron: "Stb.1991-563"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-08"
-intitule_status: "goed"
-original_publication: "Stb.1991-563"
-original_signed_date: "1991-11-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005264&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0005264&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit paspoortgelden"
-signed_date: "1991-11-08"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0005264"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 8 november 1991, houdende regels met betrekking tot de aan het Rijk verschuldigde kosten en rechten terzake van reisdocumenten
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 30 augustus 1991, Directoraat-Generaal Openbaar Bestuur, IBI91/1223-RD, gedaan mede namens Onze Ministers van Financiën, van Buitenlandse Zaken en voor Nederlands-Antilliaanse en Arubaanse Zaken;
-
-Overwegende, dat het wenselijk is de afdracht van de aan het Rijk verschuldigde kosten en de heffing van de aan het Rijk verschuldigde rechten terzake van reisdocumenten nader te regelen en daarvoor bedragen vast te stellen;
-
-Gelet op [artikel 7, eerste lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7) (**Stb.** 1991, 498);
-
-De Raad van State van het Koninkrijk gehoord (advies van 14 oktober 1991, no. WO.4.91 0477/K);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken van 31 oktober 1991, Directoraat-Generaal Openbaar Bestuur, IBI91/1659/RD, uitgebracht mede namens Onze Ministers van Financiën, van Buitenlandse Zaken a.i. en voor Nederlands-Antilliaanse en Arubaanse Zaken;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemeen
 
@@ -78,6 +46,14 @@ In dit besluit wordt verstaan onder:
 
 4. De in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), vastgelegde kosten zijn niet verschuldigd, indien de spoedlevering door toedoen van de leverancier niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten door toedoen van de leverancier niet op de juiste wijze blijken te zijn vervaardigd.
 
+##### Artikel 2a
+
+1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
+
+2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke eilandsverordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens [artikel 8.58, eerste lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.58) gestelde regels.
+
+3. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, die plaatsvindt ter vervanging van een eerder geleverd reisdocument, dat door toedoen van de leverancier niet op de juiste wijze was vervaardigd.
+
 ##### Artikel 3
 
 1. Onze Minister stelt maandelijks het bedrag vast van de kosten die door een gemeente of een openbaar lichaam aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt:
@@ -96,13 +72,13 @@ In dit besluit wordt verstaan onder:
 
 4. De afdracht van de aan het Rijk verschuldigde kosten, bedoeld in het tweede lid, geschiedt:
 
-- a. door een gemeente in het kader van de rijksverrekening op grond van het [Koninklijk Besluit van 28 maart 1925 (Stb. 1925, 125) tot regeling van de betalingen tusschen Rijk en Gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041549), waarbij automatische verrekening bij de N.V. Bank voor Nederlandsche Gemeenten dient plaats te vinden, uiterlijk binnen vier weken na de verzending van de factuur, bedoeld in het tweede lid;
+- a. door een gemeente in het kader van de rijksverrekening op grond van het [Koninklijk Besluit van 28 maart 1925 (Stb. 1925, 125) tot regeling van de betalingen tusschen Rijk en Gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041549), waarbij automatische verrekening bij de N.V. Bank voor Nederlandsche Gemeenten dient plaats te vinden, uiterlijk binnen vier weken na de verzending van de factuur, bedoeld in het tweede lid;
 
 - b. door een openbaar lichaam door middel van automatische incasso van een door het openbaar lichaam daartoe geopende bankrekening.
 
 5. Onze Minister regelt op welke wijze de juistheid van de bedragen die terzake van de verschuldigde kosten aan het Rijk zijn afgedragen, wordt vastgesteld.
 
-#### § 2. In de Nederlandse Antillen en Aruba aan het Rijk verschuldigde kosten
+#### § 2. In Aruba, Curaçao en Sint Maarten aan het Rijk verschuldigde kosten
 
 ##### Artikel 4
 
@@ -128,152 +104,131 @@ In dit besluit wordt verstaan onder:
 
 - a. voor een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld (faciliteitenpaspoort):
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 49,65
+ USD
+ 56,10
+ XCG
+ 100,45
+ AWG
+ 100,45;
 
-| € | 49,65 |
-| --- | --- |
-| USD | 56,10 |
-| XCG | 100,45 |
-| AWG | 100,45; |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 28,05
+ USD
+ 31,70
+ XCG
+ 56,75
+ AWG
+ 56,75;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
-
-| € | 28,05 |
-| --- | --- |
-| USD | 31,70 |
-| XCG | 56,75 |
-| AWG | 56,75; |
-
-- b. voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen:
-
-| € | 28,05 |
-| --- | --- |
-| USD | 31,70 |
-| XCG | 56,75 |
-| AWG | 56,75 |
+- b. voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen: €
+ 28,05
+ USD
+ 31,70
+ XCG
+ 56,75
+ AWG
+ 56,75
 
 - c. voor een Nederlandse identiteitskaart:
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 45,80
+ USD
+ 51,80;
 
-| € | 45,80 |
-| --- | --- |
-| USD | 51,80; |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 8,85
+ USD
+ 10,00;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
+- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon: €
+ 8,85;
 
-| € | 8,85 |
-| --- | --- |
-| USD | 10,00; |
-
-- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon:
-
-| € | 8,85; |
-| --- | --- |
-
-- e. voor de spoedlevering van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart, zijnde een toeslag op de in de onderdelen a tot en met c genoemde bedragen:
-
-| € | 60,30. |
-| --- | --- |
+- e. voor de spoedlevering van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart, zijnde een toeslag op de in de onderdelen a tot en met c genoemde bedragen: €
+ 60,30.
 
 2. De van de aanvrager op grond van de toepasselijke gemeentelijke verordening of eilandsverordening ten hoogste te heffen rechten bedragen:
 
 - a. voor een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat dan een nationaal paspoort (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld (faciliteitenpaspoort):
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 88,65 in een gemeentelijke verordening
+ USD
+ 146,55 in een eilandsverordening;
 
-| € | 88,65 in een gemeentelijke verordening |
-| --- | --- |
-| USD | 146,55 in een eilandsverordening; |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 67,05 in een gemeentelijke verordening
+ USD
+ 121,60 in een eilandsverordening;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
-
-| € | 67,05 in een gemeentelijke verordening |
-| --- | --- |
-| USD | 121,60 in een eilandsverordening; |
-
-- b. voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen:
-
-| € | 67,05 in een gemeentelijke verordening |
-| --- | --- |
-| USD | 121,60 in een eilandsverordening; |
+- b. voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen: €
+ 67,05 in een gemeentelijke verordening
+ USD
+ 121,60 in een eilandsverordening;
 
 - c. voor een Nederlandse identiteitskaart:
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 80,10 in een gemeentelijke verordening;
+ USD
+ 126,50 in een eilandsverordening;
 
-| € | 80,10 in een gemeentelijke verordening; |
-| --- | --- |
-| USD | 126,50 in een eilandsverordening; |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 43,20 in een gemeentelijke verordening;
+ USD
+ 83,75 in een eilandsverordening;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
+- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon: €
+ 39,05;
 
-| € | 43,20 in een gemeentelijke verordening; |
-| --- | --- |
-| USD | 83,75 in een eilandsverordening; |
+- e. voor de versnelde uitreiking van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart zijnde een toeslag op de in de onderdelen a tot en met c genoemde bedragen: €
+ 60,30;
 
-- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon:
-
-| € | 39,05; |
-| --- | --- |
-
-- e. voor de versnelde uitreiking van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart zijnde een toeslag op de in de onderdelen a tot en met c genoemde bedragen:
-
-| € | 60,30; |
-| --- | --- |
-
-- f. voor het bezorgen van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart zijnde een toeslag op de in de onderdelen a tot en met d genoemde bedragen:
-
-| € | 19,00 in een gemeentelijke verordening |
-| --- | --- |
-| USD | 21,05 in een eilandsverordening. |
+- f. voor het bezorgen van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart zijnde een toeslag op de in de onderdelen a tot en met d genoemde bedragen: €
+ 19,00 in een gemeentelijke verordening
+ USD
+ 21,05 in een eilandsverordening.
 
 3. In afwijking van het tweede lid bedragen de op grond van de toepasselijke gemeentelijke verordening ten hoogste te heffen rechten voor een aanvrager die niet als ingezetene in de basisregistratie personen is ingeschreven:
 
 - a. voor een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat dan een nationaal paspoort (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld:
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 133,65;
 
-| € | 133,65; |
-| --- | --- |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 112,10;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
-
-| € | 112,10; |
-| --- | --- |
-
-- b. voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen:
-
-| € | 112,10; |
-| --- | --- |
+- b. voor een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen: €
+ 112,10;
 
 - c. voor een Nederlandse identiteitskaart:
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 128,95;
+ USD
+ 145,70;
+ XCG
+ 260,80;
+ AWG
+ 260,80;
 
-| € | 128,95; |
-| --- | --- |
-| USD | 145,70; |
-| XCG | 260,80; |
-| AWG | 260,80; |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 92,00;
+ USD
+ 104,00;
+ XCG
+ 186,15;
+ AWG
+ 186,15;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
+- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon: €
+ 87,85;
 
-| € | 92,00; |
-| --- | --- |
-| USD | 104,00; |
-| XCG | 186,15; |
-| AWG | 186,15; |
-
-- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon:
-
-| € | 87,85; |
-| --- | --- |
-
-- e. voor het bezorgen van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart, zijnde een toeslag op de in de onderdelen a tot en met c genoemde bedragen:
-
-| € | 31,70. |
-| --- | --- |
+- e. voor het bezorgen van een reisdocument als bedoeld in de onderdelen a en b, of van een Nederlandse identiteitskaart, zijnde een toeslag op de in de onderdelen a tot en met c genoemde bedragen: €
+ 31,70.
 
 4. De toeslag, bedoeld in het tweede lid, onderdeel e, wordt niet in rekening gebracht bij een aanvrager als bedoeld in het derde lid.
 
@@ -307,7 +262,7 @@ Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn 
 
 De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01) vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6)
 
-#### § 2. Heffing van rechten in de Nederlandse Antillen en Aruba
+#### § 2. Heffing van rechten in Aruba, Curaçao en Sint Maarten
 
 ##### Artikel 11
 
@@ -323,75 +278,62 @@ De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://
 
 - a. voor de verstrekking van een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld (faciliteitenpaspoort):
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 101,55
+ XCG
+ 205,45
+ AWG
+ 205,45;
 
-| € | 101,55 |
-| --- | --- |
-| XCG | 205,45 |
-| AWG | 205,45; |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 79,90
+ XCG
+ 161,70
+ AWG
+ 161,70;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
+- b. voor de verstrekking van een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen, een diplomatiek paspoort of een dienstpaspoort: €
+ 79,90
+ XCG
+ 161,70
+ AWG
+ 161,70;
 
-| € | 79,90 |
-| --- | --- |
-| XCG | 161,70 |
-| AWG | 161,70; |
-
-- b. voor de verstrekking van een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen, een diplomatiek paspoort of een dienstpaspoort:
-
-| € | 79,90 |
-| --- | --- |
-| XCG | 161,70 |
-| AWG | 161,70; |
-
-- c. voor de verstrekking van een noodpaspoort of een laissez-passer:
-
-| € | 60,25 |
-| --- | --- |
-| USD | 68,10 |
-| XCG | 121,90 |
-| AWG | 121,90. |
+- c. voor de verstrekking van een noodpaspoort of een laissez-passer: €
+ 60,25
+ USD
+ 68,10
+ XCG
+ 121,90
+ AWG
+ 121,90.
 
 2. De rechten die ten bate van het Rijk van een aanvrager buiten het Koninkrijk kunnen worden geheven, bedragen:
 
 - a. voor de verstrekking van een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld (faciliteitenpaspoort):
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 169,15;
 
-| € | 169,15; |
-| --- | --- |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 147,40;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
-
-| € | 147,40; |
-| --- | --- |
-
-- b. voor de verstrekking van een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen:
-
-| € | 147,40; |
-| --- | --- |
+- b. voor de verstrekking van een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen: €
+ 147,40;
 
 - c. voor een Nederlandse identiteitskaart:
 
-- 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:
+   - 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt: €
+ 167,80;
 
-| € | 167,80; |
-| --- | --- |
+   - 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt: €
+ 128,75;
 
-- 2°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt:
+- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon: €
+ 122,10;
 
-| € | 128,75; |
-| --- | --- |
-
-- d. voor een vervangende Nederlandse identiteitskaart voor personen met een uitreisverbod, ongeacht de leeftijd van de betrokken persoon:
-
-| € | 122,10; |
-| --- | --- |
-
-- e. voor de verstrekking van een noodpaspoort of een laissez-passer:
-
-| € | 60,25; |
-| --- | --- |
+- e. voor de verstrekking van een noodpaspoort of een laissez-passer: €
+ 60,25;
 
 - f. indien de aanvrager kiest voor het bezorgen van het document: ten hoogste de kosten die de lokale bezorgdienst in rekening brengt voor het bezorgen van het document;
 
@@ -416,29 +358,3 @@ Dit besluit treedt in werking met ingang van de dag waarop de [Paspoortwet](http
 ##### Artikel 15
 
 Dit besluit kan worden aangehaald als "Besluit paspoortgelden".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.
-
-##### Artikel 2a
-
-1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
-
-2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke eilandsverordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens [artikel 8.58, eerste lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.58) gestelde regels.
-
-3. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, die plaatsvindt ter vervanging van een eerder geleverd reisdocument, dat door toedoen van de leverancier niet op de juiste wijze was vervaardigd.
-
-#### § 2. In Aruba, Curaçao en Sint Maarten aan het Rijk verschuldigde kosten
-
-#### § 3. De kosten
-
-### Hoofdstuk III. Rechten, verschuldigd terzake van reisdocumenten
-
-#### § 1. Heffing van rechten in Nederland en buiten het Koninkrijk
-
-#### § 2. Heffing van rechten in Aruba, Curaçao en Sint Maarten
-
-#### § 3. De rechten
-
-### Hoofdstuk IV. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.

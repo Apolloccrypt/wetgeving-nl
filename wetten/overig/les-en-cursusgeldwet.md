@@ -1,44 +1,18 @@
 ---
 title: "Wet van 7 juli 1987, tot uitbreiding van de lesgeldregeling tot de groep 16- tot 18-jarigen, vervanging van en intrekking van de Lesgeldwet voor boven 17-jarigen alsmede intrekking van de School- en cursusgeldwet 1972"
+citeertitel: "Les- en cursusgeldwet"
 identifier: "BWBR0004188"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004188"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "2698363"
-version_id: "4108432"
-internal_id: "C4108431"
-label_id: "2644034"
-dtd_version: "2.0"
-original_entry_into_force: "1987-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004188/2026-01-01/0"
-intitule_bron: "Stb.1987-343"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-07"
-intitule_status: "goed"
-original_publication: "Stb.1987-343"
-original_signed_date: "1987-07-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "19879"
-entry_into_force_date: "1987-07-24"
-entry_into_force_dossier: "19879"
-jci_1_3: "jci1.3:c:BWBR0004188&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0004188&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Les- en cursusgeldwet"
-signed_date: "1987-07-07"
-entry_into_force: "1987-07-24"
+publicatiedatum: 1987-07-24
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0004188"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 7 juli 1987, tot uitbreiding van de lesgeldregeling tot de groep 16- tot 18-jarigen, vervanging van en intrekking van de Lesgeldwet voor boven 17-jarigen alsmede intrekking van de School- en cursusgeldwet 1972
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de toestand van ’s Rijks financiën alsmede in verband met ontwikkelingen op het gebied van de studiefinanciering wenselijk is over te gaan tot uitbreiding van de lesgeldregeling tot de groep van 16- tot 18-jarigen en voorts de Lesgeldwet voor boven 17-jarigen (**Stb.** 1986, 250) te vervangen en genoemde wet alsmede de School- en cursusgeldwet 1972 (**Stb.** 1983, 360) in te trekken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -46,27 +20,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bepaald, verstaan onder:
 
-- **bevoegd gezag:** orgaan dat als zodanig wordt aangeduid in de wettelijke regeling op grond waarvan de desbetreffende instelling of cursus wordt bekostigd;
+- *bevoegd gezag:* orgaan dat als zodanig wordt aangeduid in de wettelijke regeling op grond waarvan de desbetreffende instelling of cursus wordt bekostigd;
 
-- **cursus:**
+- *cursus:*
 
-- 1°. cursus in de zin van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+   - 1°. cursus in de zin van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- 2°. onderwijs aan een instelling voor voortgezet onderwijs als bedoeld in [artikel 2.86 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86), voor zover het geen volledig onderwijs betreft;
+   - 2°. onderwijs aan een instelling voor voortgezet onderwijs als bedoeld in [artikel 2.86 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86), voor zover het geen volledig onderwijs betreft;
 
-- 3°. op grond van de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) uit de openbare kas bekostigde cursus, voor zover het voortgezet onderwijs betreft;
+   - 3°. op grond van de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) uit de openbare kas bekostigde cursus, voor zover het voortgezet onderwijs betreft;
 
-- 4°. beroepsopleiding of opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), die aan een regionaal opleidingencentrum of beroepscollege als bedoeld in de Wet educatie en beroepsonderwijs ten laste van ’s Rijks kas wordt verzorgd, niet gevolgd aan een instelling;
+   - 4°. beroepsopleiding of opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), die aan een regionaal opleidingencentrum of beroepscollege als bedoeld in de Wet educatie en beroepsonderwijs ten laste van ’s Rijks kas wordt verzorgd, niet gevolgd aan een instelling;
 
-- **instelling:** instelling als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), voor zover het betreft een beroepsopleiding in de beroepsopleidende leerweg als bedoeld in die wet of een opleiding voortgezet algemeen volwassenenonderwijs die voldoet aan [artikel 2.17 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.17);
+- *instelling:* instelling als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), voor zover het betreft een beroepsopleiding in de beroepsopleidende leerweg als bedoeld in die wet of een opleiding voortgezet algemeen volwassenenonderwijs die voldoet aan [artikel 2.17 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.17);
 
-- **onderwijsdeelnemer:** degene die is toegelaten tot het onderwijs aan een instelling of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01);
+- *onderwijsdeelnemer:* degene die is toegelaten tot het onderwijs aan een instelling of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01);
 
-- **onderwijsnummer:** door Onze Minister uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een burgerservicenummer is verstrekt;
+- *onderwijsnummer:* door Onze Minister uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een burgerservicenummer is verstrekt;
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **studiejaar:** het tijdvak van 1 augustus tot en met 31 juli daaropvolgend.
+- *studiejaar:* het tijdvak van 1 augustus tot en met 31 juli daaropvolgend.
 
 ##### Artikel 2. Heffing les- en cursusgeld
 
@@ -82,7 +56,7 @@ Ter zake van uit de openbare kas bekostigd onderwijs aan een instelling of uit d
 
 ##### Artikel 3a. Bijzondere bepaling dove leerlingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Inschrijvingsplicht
 
@@ -113,6 +87,10 @@ Onze Minister gebruikt het burgerservicenummer of onderwijsnummer van de onderwi
 - b. in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie;
 
 - c. teneinde de gegevens van de onderwijsdeelnemer te vergelijken met de gegevens die over hem zijn opgenomen in het register onderwijsdeelnemers, bedoeld in [artikel 4 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4), voorzover dat noodzakelijk is voor de uitvoering van deze wet.
+
+##### Artikel 5b. Verstrekken van gegevens aan minister
+
+*Vervallen*
 
 ### Hoofdstuk III. Cursusgeld
 
@@ -164,55 +142,55 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 ##### Artikel 11. Intrekking Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs
 
-1. De Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs (**Stb.** 1986, 250) wordt ingetrokken.
+1. De Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs (*Stb.* 1986, 250) wordt ingetrokken.
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing voor zover het betreft lesgeld verschuldigd dan wel voldaan met betrekking tot het cursusjaar 1986-1987.
 
-3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2026-01-01&g=2026-01-01), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2026-01-01&g=2026-01-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Uitvoeringsbesluit Lesgeldwet (*Stb.* 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2026-01-01&g=2026-01-01), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2026-01-01&g=2026-01-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 12. Intrekking School- en cursusgeldwet 1972
 
-1. De School- en cursusgeldwet 1972 (**Stb.** 1983, 360) wordt ingetrokken.
+1. De School- en cursusgeldwet 1972 (*Stb.* 1983, 360) wordt ingetrokken.
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing met betrekking tot de heffing en invordering van school- en cursusgelden over schoolgeldjaren onderscheidenlijk cursusjaren voorafgaand aan het cursusjaar waarop deze wet voor het eerst van toepassing is.
 
-3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2026-01-01&g=2026-01-01), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Besluit cursusgeld voortgezet onderwijs (*Stb.* 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2026-01-01&g=2026-01-01), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 13
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 14
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 15
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 16
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. Verrekening met tegemoetkoming studiekosten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21. Inwerkingtreding
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij is geplaatst, en vindt voor het eerst toepassing met betrekking tot het cursusjaar dat in 1987 aanvangt.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij is geplaatst, en vindt voor het eerst toepassing met betrekking tot het cursusjaar dat in 1987 aanvangt.
 
 2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2026-01-01&g=2026-01-01) vervallen met ingang van 1 augustus 1988.
 
@@ -221,17 +199,3 @@ Vervallen
 ##### Artikel 22. Citeertitel
 
 Deze wet kan worden aangehaald als "Les- en cursusgeldwet".
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5b. Verstrekken van gegevens aan minister
-
-Vervallen
-
-### Hoofdstuk III. Cursusgeld
-
-### Hoofdstuk IV. Bijzondere bepalingen
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

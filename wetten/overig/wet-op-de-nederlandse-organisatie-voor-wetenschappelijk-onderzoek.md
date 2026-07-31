@@ -1,48 +1,18 @@
 ---
 title: "Wet van 7 juli 1987, houdende herziene regeling van de Nederlandse organisatie voor zuiver-wetenschappelijk onderzoek"
+citeertitel: "Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek"
 identifier: "BWBR0004191"
-country: "nl"
-rank: "wet"
-publication_date: "2024-10-29"
-last_updated: "2024-10-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004191"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1294303"
-version_id: "5647472"
-internal_id: "C5840451"
-label_id: "1254314"
-dtd_version: "2.0"
-original_entry_into_force: "2003-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004191/2024-10-29/0"
-intitule_bron: "Stb.1987-369"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-07"
-intitule_status: "goed"
-original_publication: "Stb.2003-188"
-original_signed_date: "2003-04-03"
-original_published_date: "2003-05-13"
-original_effect: "structuurwijziging"
-original_dossier: "28466"
-original_url_id: "stb-2003-188"
-entry_into_force_date: "2003-04-03"
-entry_into_force_dossier: "28466"
-jci_1_3: "jci1.3:c:BWBR0004191&z=2024-10-29&g=2024-10-29"
-jci_1_0: "1.0:c:BWBR0004191&g=2024-10-29"
-citeertitel_status: "officieel"
-short_title: "Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek"
-signed_date: "2003-04-03"
-entry_into_force: "2003-04-03"
+publicatiedatum: 2003-04-03
+laatste_update: 2024-10-29
+status: geldig
+toestand: 2024-10-29
+bron: "https://wetten.overheid.nl/BWBR0004191"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 7 juli 1987, houdende herziene regeling van de Nederlandse organisatie voor zuiver-wetenschappelijk onderzoek
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de taak en de bestuursstructuur van de Nederlandse organisatie voor zuiver-wetenschappelijk onderzoek te wijzigen;
-
-dat het in verband daarmede noodzakelijk is de regeling van deze organisatie, vervat in de Wet op het Zuiver-Wetenschappelijk Onderzoek (**Stb.** 1950, K5), te herzien;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -54,13 +24,21 @@ In deze wet wordt verstaan onder:
 
 - b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2024-10-29&g=2024-10-29);
 
-- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2024-10-29&g=2024-10-29).
+- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2024-10-29&g=2024-10-29).
+
+##### Artikel 1a. Openbare lichamen Bonaire, Sint Eustatius en Saba
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
 1. Er is een organisatie, genaamd Nederlandse organisatie voor wetenschappelijk onderzoek.
 
 2. De organisatie bezit rechtspersoonlijkheid; zij is gevestigd te 's-Gravenhage.
+
+##### Artikel 2a. Toepassing Kaderwet zbo's
+
+Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing met uitzondering van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15).
 
 ##### Artikel 3. Taken NWO
 
@@ -72,9 +50,11 @@ In deze wet wordt verstaan onder:
 
 4. De organisatie richt zich bij het uitvoeren van haar taak in hoofdzaak op het universitaire onderzoek. Daarbij let zij op het aspect van coördinatie en bevordert deze waar nodig.
 
-### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
+##### Artikel 3a
 
-#### § 1. Het algemeen bestuur
+Onderzoeksgegevens die louter tot stand zijn gekomen met een wetenschappelijk oogmerk en die geen betrekking hebben op de bestuursvoering van de organisatie kunnen beschikbaar worden gesteld voor wetenschappelijk onderzoek.
+
+### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
 
 ##### Artikel 4. Organen
 
@@ -90,7 +70,7 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 
 4. Benoeming van de voorzitter en het lid met de portefeuille bedrijfsvoering en financiën geschiedt op voordracht van de raad van toezicht en geschiedt voor ten hoogste vijf jaar. De leden kunnen ten hoogste eenmaal opnieuw benoemd worden.
 
-5. Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming van de voorzitter.
+5. Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming van de voorzitter.
 
 ##### Artikel 6. Raad van bestuur: taak
 
@@ -114,13 +94,11 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 
 2. Het bestuursreglement regelt nader het bestuur en de inrichting van de organisatie.
 
-#### § 2. De gebiedsbesturen
-
 ##### Artikel 9. Raad van bestuur: personeelsbeleid
 
 1. De raad van bestuur voert het personeelsbeleid en personeelsbeheer, daaronder begrepen het aangaan en beëindigen van arbeidsovereenkomsten met het personeel.
 
-2. Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het personeel van de organisatie het bij of krachtens [artikel 4.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=4.5) bepaalde van overeenkomstige toepassing.
+2. Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het personeel van de organisatie het bij of krachtens [artikel 4.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=4.5) bepaalde van overeenkomstige toepassing.
 
 ##### Artikel 10. Raad van toezicht: samenstelling
 
@@ -136,11 +114,9 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 
 6. Benoeming geschiedt voor ten hoogste vijf jaar en leden kunnen ten hoogste eenmaal opnieuw worden benoemd.
 
-#### § 3. De afdelingsbesturen
-
 ##### Artikel 11. Raad van toezicht: taak
 
-1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2024-10-29&g=2024-10-29), als uitgangspunt.
+1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2024-10-29&g=2024-10-29), als uitgangspunt.
 
 2. De raad van toezicht stelt een reglement vast betreffende zijn werkwijze waarin in ieder geval in het bijzonder aandacht is voor:
 
@@ -157,8 +133,6 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 2. De raad van bestuur bepaalt het wetenschappelijk werkterrein van elk van de onderzoeksdomeinen.
 
 3. Een onderzoeksdomein wordt geleid door een domeinbestuur.
-
-#### § 4. Het personeel
 
 ##### Artikel 13. Domeinbestuur: samenstelling
 
@@ -178,19 +152,23 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 
 3. De raad van bestuur kan in het bestuursreglement de taak van een domeinbestuur en de inrichting van een onderzoeksdomein nader bepalen.
 
-#### § 1. Wetenschapsbudget
-
 ##### Artikel 15. Inhoud reglement
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16. Vaststelling reglement
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
-#### § 2. Planning
+#### § 1. Wetenschapsbudget
+
+##### Artikel 16a. Wetenschapbudget
+
+1. Onze Minister stelt het wetenschapsbudget vast. Het wetenschapsbudget heeft betrekking op een tijdvak van ten minste vier jaren.
+
+2. Onze Minister agendeert, in overeenstemming met het gevoelen van de raad van ministers, in het wetenschapsbudget beleidsonderwerpen op het terrein van het fundamenteel en toegepast onderzoek.
 
 ##### Artikel 17. Vaststelling wetenschapbudget
 
@@ -199,6 +177,8 @@ Vervallen
 2. Onze Minister biedt uiterlijk zes maanden voorafgaand aan het tijdstip waarop het wetenschapsbudget moet zijn vastgesteld, een ontwerp daarvan aan de beide Kamers der Staten-Generaal aan.
 
 3. Onze Minister maakt het vastgestelde wetenschapsbudget bekend in de Staatscourant.
+
+#### § 2. Planning
 
 ##### Artikel 18. Instellingsplan
 
@@ -246,21 +226,21 @@ De raad van bestuur is belast met het doelmatig beheer van de financiën en de v
 
 2. Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan.
 
-3. De raad van bestuur zendt de begroting voor 1 november ter goedkeuring aan Onze Minister.
+3. De raad van bestuur zendt de begroting voor 1 november ter goedkeuring aan Onze Minister.
 
 ##### Artikel 22. Goedkeuring begroting
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23. Tussentijdse over- of onderschrijding
 
-Vervallen
+*Vervallen*
 
-##### Artikel 35
+##### Artikel 24. Bestuursverslag
 
-Vervallen
+1. Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het bestuursverslag aan in hoeverre de doelstellingen uit het instellingsplan zijn verwezenlijkt.
 
-#### § 4. Voorschriften inrichting begroting en jaarrekening
+2. De raad van bestuur stelt het jaarverslag vast, gehoord de raad van toezicht. Na vaststelling draagt de raad van bestuur zorg voor de verzending, bedoeld in [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18).
 
 ##### Artikel 25. Jaarrekening
 
@@ -274,6 +254,8 @@ Vervallen
 
 Onverminderd [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) kan Onze Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na ontvangst van de jaarrekening bekend aan het algemeen bestuur.
 
+#### § 4. Voorschriften inrichting begroting, bestuursverslag, jaarrekening en accountantsprotocol
+
 ##### Artikel 27. Voorschriften begroting, bestuursverslag, jaarrekening en accountantsprotocol
 
 1. Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inrichting van de begroting, het bestuursverslag en de jaarrekening.
@@ -282,81 +264,75 @@ Onverminderd [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
-#### § 4. Voorschriften inrichting begroting en jaarrekening
-
 ##### Artikel 28
 
-Vervallen
-
-#### § 2. Rechtsbescherming
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30. Besluiten van een gebiedsbestuur
 
-Vervallen
-
-#### § 2. Rechtsbescherming
+*Vervallen*
 
 ##### Artikel 31. Besluiten van het algemeen bestuur
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32. Besluiten van een gebiedsbestuur
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33. Taakverwaarlozingsregeling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Slot- en overgangsbepalingen
 
 ##### Artikel 35
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor anderen dan het personeel, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=4&artikel=14&z=2001-05-11&g=2001-05-11), met betrekking tot hun rechtspositie.
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41. Overgangsbepaling instellingplan
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45. Overgangsrecht eerste benoemingen raad van bestuur en domeinvoorzitters
 
@@ -369,119 +345,3 @@ Deze wet treedt in werking met ingang van 1 februari 1988.
 ##### Artikel 47. Citeertitel
 
 Deze wet wordt aangehaald als: Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8a. Rechtspositie leden algemeen bestuur
-
-Vervallen
-
-#### § 2. De gebiedsbesturen
-
-#### § 3. De afdelingsbesturen
-
-#### § 4. Het personeel
-
-#### § 1. Wetenschapsbudget
-
-### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
-
-#### § 2. Planning
-
-##### Artikel 16a. Wetenschapbudget
-
-1. Onze Minister stelt het wetenschapsbudget vast. Het wetenschapsbudget heeft betrekking op een tijdvak van ten minste vier jaren.
-
-2. Onze Minister agendeert, in overeenstemming met het gevoelen van de raad van ministers, in het wetenschapsbudget beleidsonderwerpen op het terrein van het fundamenteel en toegepast onderzoek.
-
-#### § 2. Planning
-
-#### § 3. Financiële bepalingen
-
-##### Artikel 24. Bestuursverslag
-
-1. Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het bestuursverslag aan in hoeverre de doelstellingen uit het instellingsplan zijn verwezenlijkt.
-
-2. De raad van bestuur stelt het jaarverslag vast, gehoord de raad van toezicht. Na vaststelling draagt de raad van bestuur zorg voor de verzending, bedoeld in [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18).
-
-### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
-
-#### § 1. Openbaarheid
-
-#### § 3. Schorsing en vernietiging van besluiten
-
-### Hoofdstuk V. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a. Toepassing [Kaderwet zbo's](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
-
-Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing met uitzondering van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15).
-
-### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
-
-#### § 1. Het algemeen bestuur
-
-#### § 2. De gebiedsbesturen
-
-#### § 3. De afdelingsbesturen
-
-#### § 4. Het personeel
-
-#### § 1. Wetenschapsbudget
-
-### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
-
-#### § 3. Financiële bepalingen
-
-#### § 2. Planning
-
-#### § 3. Financiële bepalingen
-
-#### § 4. Voorschriften inrichting begroting en jaarrekening
-
-### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
-
-### Hoofdstuk V. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
-
-#### § 2. Planning
-
-### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
-
-### Hoofdstuk V. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-Onderzoeksgegevens die louter tot stand zijn gekomen met een wetenschappelijk oogmerk en die geen betrekking hebben op de bestuursvoering van de organisatie kunnen beschikbaar worden gesteld voor wetenschappelijk onderzoek.
-
-### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
-
-### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
-
-#### § 4. Voorschriften inrichting begroting en jaarrekening
-
-### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
-
-### Hoofdstuk V. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a. Openbare lichamen Bonaire, Sint Eustatius en Saba
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
-
-### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
-
-#### § 4. Voorschriften inrichting begroting, bestuursverslag, jaarrekening en accountantsprotocol
-
-### Hoofdstuk V. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

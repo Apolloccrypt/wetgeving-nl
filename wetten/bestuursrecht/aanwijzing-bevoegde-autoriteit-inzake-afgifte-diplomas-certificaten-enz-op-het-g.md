@@ -1,44 +1,17 @@
 ---
 title: "Aanwijzing bevoegde autoriteit inzake afgifte diploma's, certificaten enz. op het gebied van de architectuur"
 identifier: "BWBR0004506"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1989-06-01"
-last_updated: "1989-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004506"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3896693"
-version_id: "5661412"
-internal_id: "C5854571"
-label_id: "3876654"
-dtd_version: "2.0"
-original_entry_into_force: "1989-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004506/1989-06-01/0"
-intitule_bron: "Stcrt.1989-75"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-03-10"
-intitule_published: "1989-04-18"
-intitule_in_force: "1989-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-75"
-original_signed_date: "1989-03-10"
-original_published_date: "1989-04-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-06-01"
-jci_1_3: "jci1.3:c:BWBR0004506&z=1989-06-01&g=1989-06-01"
-jci_1_0: "1.0:c:BWBR0004506&g=1989-06-01"
-citeertitel_status: "officieel"
-signed_date: "1989-03-10"
-entry_into_force: "1989-06-01"
+publicatiedatum: 1989-06-01
+laatste_update: 1989-06-01
+status: geldig
+toestand: 1989-06-01
+bron: "https://wetten.overheid.nl/BWBR0004506"
+opgehaald: 2026-07-31
 ---
+
 # Aanwijzing bevoegde autoriteit inzake afgifte diploma's, certificaten enz. op het gebied van de architectuur
-
-Overwegende dat ingevolge artikel 28 van de EEG-richtlijn van 10 juni 1985 inzake de onderlinge erkenning van de diploma's, certificaten en andere titels op het gebied van de architectuur, tevens houdende maatregelen tot vergemakkelijking van de daadwerkelijke uitoefening van het recht van vestiging en vrij verrichten van diensten (PbEG, L 223), zoals gewijzigd bij de EEG-richtlijnen van 20 december 1985 (PbEG 1985, L 376) en van 27 januari 1986 (PbEG 1986, L 27), hierna te noemen: de richtlijn, de autoriteiten en instanties moeten worden aangewezen die in Nederland gemachtigd zijn tot afgifte en ontvangst van de in de richtlijn genoemde diploma's, certificaten, andere titels en overige documenten en gegevens;
-
-Overwegende voorts dat artikel 2 van de statuten van de Stichting bureau architectenregister erin voorziet dat die stichting kan worden belast met het afgeven van attesten en verklaringen als bedoeld in of ter uitvoering van de richtlijn;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,43 +1,18 @@
 ---
 title: "Uitvoeringsregeling overdracht taken onroerend-goedbelastingen"
+citeertitel: "Uitvoeringsregeling overdracht taken OGB"
 identifier: "BWBR0005356"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-03-25"
-last_updated: "1993-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005356"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4705603"
-version_id: "6521962"
-internal_id: "C6979421"
-label_id: "4683814"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005356/1993-03-25/0"
-intitule_bron: "Stcrt.1991-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-20"
-intitule_published: "1991-12-30"
-intitule_in_force: "1991-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-252"
-original_signed_date: "1991-12-20"
-original_published_date: "1991-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0005356&z=1993-03-25&g=1993-03-25"
-jci_1_0: "1.0:c:BWBR0005356&g=1993-03-25"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling overdracht taken OGB"
-signed_date: "1991-12-20"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 1993-03-25
+status: geldig
+toestand: 1993-03-25
+bron: "https://wetten.overheid.nl/BWBR0005356"
+opgehaald: 2026-07-31
 ---
+
 # Uitvoeringsregeling overdracht taken onroerend-goedbelastingen
-
-Gelet op [artikel III, tweede lid, van de Wet overdracht taken OGB](https://wetten.overheid.nl/jci1.3:c:BWBR0004890&artikel=III) (Stb. 1990, 549);
-
-Besluit:
 
 ##### Artikel 1
 

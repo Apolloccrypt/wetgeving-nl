@@ -1,44 +1,18 @@
 ---
 title: "Rijkswet van 14 juni 1990, tot herziening van het militair tuchtrecht"
+citeertitel: "Wet militair tuchtrecht"
 identifier: "BWBR0004788"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004788"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "213863"
-version_id: "295242"
-internal_id: "C295241"
-label_id: "211414"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004788/2020-04-01/0"
-intitule_bron: "Stb.1990-367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-06-14"
-intitule_in_force: "1990-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1990-367"
-original_signed_date: "1990-06-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "16813"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004788&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0004788&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet militair tuchtrecht"
-signed_date: "1990-06-14"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0004788"
+opgehaald: 2026-07-31
 ---
+
 # Rijkswet van 14 juni 1990, tot herziening van het militair tuchtrecht
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gedragsregels van het militair tuchtrecht vast te stellen bij de wet, alsmede nieuwe voorschriften te geven inzake de tuchtstraffen en de behandeling van tuchtzaken;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -292,11 +266,11 @@ De straffen zijn:
 
 ##### Artikel 43
 
-1. Het bedrag van de geldboete is ten minste € 3 en ten hoogste € 350. In Aruba zijn deze bedragen AWG 6 en AWG 770. In Curaçao en Sint Maarten zijn deze bedragen ANG 6 en ANG 770. In de openbare lichamen Bonaire, Sint Eustatius en Saba zijn deze bedragen USD 3 en USD 430.
+1. Het bedrag van de geldboete is ten minste € 3 en ten hoogste € 350. In Aruba zijn deze bedragen AWG 6 en AWG 770. In Curaçao en Sint Maarten zijn deze bedragen ANG 6 en ANG 770. In de openbare lichamen Bonaire, Sint Eustatius en Saba zijn deze bedragen USD 3 en USD 430.
 
-2. Een geldboete kan niet worden opgelegd indien daardoor de som van de geldboetes, ingevolge deze rijkswet in een kalendermaand aan de militair opgelegd, een bedrag van € 700 dan wel ANG 1540, AWG 1540 onderscheidenlijk USD 860 te boven zou gaan.
+2. Een geldboete kan niet worden opgelegd indien daardoor de som van de geldboetes, ingevolge deze rijkswet in een kalendermaand aan de militair opgelegd, een bedrag van € 700 dan wel ANG 1540, AWG 1540 onderscheidenlijk USD 860 te boven zou gaan.
 
-3. Ingeval de schending van een gedragsregel plaatsvindt terwijl de militair deelneemt aan een operatie in internationaal verband buiten het Koninkrijk is, in afwijking van het eerste lid, het bedrag van de geldboete ten hoogste € 700 dan wel ANG 1540, AWG 1540 onderscheidenlijk USD 860. Een geldboete met toepassing van de voorgaande volzin kan niet worden opgelegd indien daardoor de som, bedoeld in het tweede lid, een bedrag van € 1400 dan wel ANG 3080, AWG 3080 onderscheidenlijk USD 1720 te boven zou gaan.
+3. Ingeval de schending van een gedragsregel plaatsvindt terwijl de militair deelneemt aan een operatie in internationaal verband buiten het Koninkrijk is, in afwijking van het eerste lid, het bedrag van de geldboete ten hoogste € 700 dan wel ANG 1540, AWG 1540 onderscheidenlijk USD 860. Een geldboete met toepassing van de voorgaande volzin kan niet worden opgelegd indien daardoor de som, bedoeld in het tweede lid, een bedrag van € 1400 dan wel ANG 3080, AWG 3080 onderscheidenlijk USD 1720 te boven zou gaan.
 
 ##### Artikel 44
 
@@ -312,7 +286,7 @@ De straffen zijn:
 
 2. De inhouding geschiedt door de functionaris belast met de uitbetaling van de militaire bezoldiging.
 
-3. Op het in te houden bedrag wordt een toeslag berekend van tien procent met een minimum van € 0,45, ANG 1, AWG 1, onderscheidenlijk USD 1 welke op gelijke wijze als de geldboete op de aan een gestrafte toekomende bezoldiging wordt ingehouden.
+3. Op het in te houden bedrag wordt een toeslag berekend van tien procent met een minimum van € 0,45, ANG 1, AWG 1, onderscheidenlijk USD 1 welke op gelijke wijze als de geldboete op de aan een gestrafte toekomende bezoldiging wordt ingehouden.
 
 ##### Artikel 46
 
@@ -382,7 +356,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 ##### Artikel 50
 
-1. De bevoegdheid om, hetzij de tenuitvoerlegging van een straf van een geldboete hoger dan € 35, ANG 75, AWG 75, onderscheidenlijk USD 42, van strafdienst of van uitgaansverbod op te schorten of te schorsen, hetzij, na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2020-04-01&g=2020-04-01), en buiten het geval dat tegen de uitspraak beklag is gedaan, een strafoplegging teniet te doen, te wijzigen in de straf van berisping, binnen de opgelegde strafsoort de strafmaat te verminderen of te wijzigen in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2020-04-01&g=2020-04-01), komt toe aan:
+1. De bevoegdheid om, hetzij de tenuitvoerlegging van een straf van een geldboete hoger dan € 35, ANG 75, AWG 75, onderscheidenlijk USD 42, van strafdienst of van uitgaansverbod op te schorten of te schorsen, hetzij, na verloop van de termijn bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&paragraaf=1&artikel=80a&z=2020-04-01&g=2020-04-01), en buiten het geval dat tegen de uitspraak beklag is gedaan, een strafoplegging teniet te doen, te wijzigen in de straf van berisping, binnen de opgelegde strafsoort de strafmaat te verminderen of te wijzigen in een beslissing als bedoeld in [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&paragraaf=6&artikel=74&z=2020-04-01&g=2020-04-01), komt toe aan:
 
 - a. de commandant;
 
@@ -392,7 +366,7 @@ Bij of krachtens algemene maatregel van Rijksbestuur worden regels gesteld met b
 
 ### Hoofdstuk V. Het tuchtproces
 
-## Titel I. Het tuchtproces in eerste aanleg
+### Titel I. Het tuchtproces in eerste aanleg
 
 #### § 1. Begin en einde van het tuchtproces in eerste aanleg
 
@@ -568,7 +542,7 @@ Als bewijsmiddelen worden alleen erkend:
 
 Op zichzelf leveren voldoende grondslag voor de overtuiging dat de in de beschuldiging omschreven gedraging heeft plaatsgevonden:
 
-- a. de eigen waarneming genoemd in het voorgaande artikel onder **a**;
+- a. de eigen waarneming genoemd in het voorgaande artikel onder *a*;
 
 - b. de in een getuigenverklaring of in een geschrift opgenomen waarneming van een in de beschuldiging omschreven gedraging, door een militair of andere ambtenaar, die uit hoofde van zijn functie of rang met enig toezicht op de naleving van gedragsregels is belast.
 
@@ -648,7 +622,7 @@ De uitspraak vermeldt in ieder geval:
 
 7. Tegen de beslissing van het gerecht staat geen verdere voorziening open.
 
-## Titel IA. De beklagprocedure
+### Titel IA. De beklagprocedure
 
 #### § 1. Het doen van beklag
 
@@ -812,7 +786,7 @@ Het feit dat de beklagprocedure van rechtswege is geëindigd, wordt vastgelegd i
 
 Indien de tenuitvoerlegging van de opgelegde straf is opgeschort of geschorst, wordt, als de beslissing van de beklagmeerdere daartoe aanleiding geeft, de straf of het resterende deel van de straf zo spoedig mogelijk ten uitvoer gelegd.
 
-## Titel II. Het beroep
+### Titel II. Het beroep
 
 #### § 1. Instelling van het beroep
 
@@ -954,7 +928,7 @@ De beslissing waartegen beroep is ingesteld wordt vernietigd:
 
 - a. Indien enige in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=I&z=2020-04-01&g=2020-04-01) of[IA van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=IA&z=2020-04-01&g=2020-04-01) voorgeschreven termijn is geschonden;
 
-- b. indien enige andere vorm dan onder **a** bedoeld, is verzuimd en redelijkerwijs kan worden aangenomen dat de gestrafte daardoor in zijn verdediging is geschaad.
+- b. indien enige andere vorm dan onder *a* bedoeld, is verzuimd en redelijkerwijs kan worden aangenomen dat de gestrafte daardoor in zijn verdediging is geschaad.
 
 ##### Artikel 98
 
@@ -1054,7 +1028,7 @@ De Wet op de Krijgstucht wordt ingetrokken, behoudens het bepaalde in de volgend
 
 2. Indien de Hoge Raad een beslissing van het Hoog Militair Gerechtshof, genomen ingevolge artikel 67 van de Wet op de Krijgstucht, na het tijdstip van inwerkingtreden van deze Rijkswet in cassatie vernietigt, wordt de zaak, indien zij niet door de Hoge Raad zelf wordt afgedaan, verwezen naar het gerecht dat uit hoofde van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=V&titeldeel=II&paragraaf=1&artikel=81&z=2020-04-01&g=2020-04-01) van deze Rijkswet bevoegd is.
 
-3. In de zaken, waarin toepassing is gegeven aan [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2020-04-01&g=2020-04-01), van deze Rijkswet, voorzover deze een strafbaar feit betreffen, blijven de bepalingen van de Rijkswet van 22 februari 1979 (**Stb.** 69) tot invoering van de rechtsmiddelen van cassatie, cassatie in het belang der wet en herziening in het militair strafprocesrecht op de beslissing van het gerecht van kracht. Het voorgaande lid is van overeenkomstige toepassing.
+3. In de zaken, waarin toepassing is gegeven aan [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&hoofdstuk=VIII&artikel=107&z=2020-04-01&g=2020-04-01), van deze Rijkswet, voorzover deze een strafbaar feit betreffen, blijven de bepalingen van de Rijkswet van 22 februari 1979 (*Stb.* 69) tot invoering van de rechtsmiddelen van cassatie, cassatie in het belang der wet en herziening in het militair strafprocesrecht op de beslissing van het gerecht van kracht. Het voorgaande lid is van overeenkomstige toepassing.
 
 ##### Artikel 109
 
@@ -1062,7 +1036,7 @@ De krijgstuchtelijke straffen, op grond van de Wet op de Krijgstucht opgelegd vo
 
 ##### Artikel 110
 
-De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (wet van 25 juli 1964, **Stb.** 314) is van toepassing.
+De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (wet van 25 juli 1964, *Stb.* 314) is van toepassing.
 
 ##### Artikel 111
 
@@ -1071,5 +1045,3 @@ Deze Rijkswet kan worden aangehaald als "Wet militair tuchtrecht".
 ##### Artikel 112
 
 Deze Rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

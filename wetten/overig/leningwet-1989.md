@@ -1,44 +1,18 @@
 ---
 title: "Wet van 1 december 1988, tot het uitgeven en belenen van schatkistpapier en het aangaan van geldleningen ten laste van de Staat der Nederlanden in 1989"
+citeertitel: "Leningwet 1989"
 identifier: "BWBR0004443"
-country: "nl"
-rank: "wet"
-publication_date: "1989-01-01"
-last_updated: "1989-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004443"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1602733"
-version_id: "2370842"
-internal_id: "C2370841"
-label_id: "1557074"
-dtd_version: "2.0"
-original_entry_into_force: "1989-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004443/1989-01-01/0"
-intitule_bron: "Stb.1988-568"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-12-01"
-intitule_status: "goed"
-original_publication: "Stb.1988-568"
-original_signed_date: "1988-12-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "20605"
-entry_into_force_date: "1989-01-01"
-entry_into_force_dossier: "20605"
-jci_1_3: "jci1.3:c:BWBR0004443&z=1989-01-01&g=1989-01-01"
-jci_1_0: "1.0:c:BWBR0004443&g=1989-01-01"
-citeertitel_status: "officieel"
-short_title: "Leningwet 1989"
-signed_date: "1988-12-01"
-entry_into_force: "1989-01-01"
+publicatiedatum: 1989-01-01
+laatste_update: 1989-01-01
+status: geldig
+toestand: 1989-01-01
+bron: "https://wetten.overheid.nl/BWBR0004443"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 1 december 1988, tot het uitgeven en belenen van schatkistpapier en het aangaan van geldleningen ten laste van de Staat der Nederlanden in 1989
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is Onze Minister van Financiën te machtigen in 1989 schatkistpapier uit te geven en te belenen en geldleningen ten laste van de Staat der Nederlanden aan te gaan;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -50,7 +24,7 @@ De looptijd van de geldleningen zal ten hoogste vijftig jaar zijn.
 
 ##### Artikel 3
 
-Onze Minister van Financiën stelt met inachtneming van het bepaalde in de Wet schatkistpapier (**Stb.** 1976, 110) en deze wet de voorwaarden vast, waarop schatkistpapier wordt uitgegeven en beleend en geldleningen ten laste van de Staat der Nederlanden worden aangegaan.
+Onze Minister van Financiën stelt met inachtneming van het bepaalde in de Wet schatkistpapier (*Stb.* 1976, 110) en deze wet de voorwaarden vast, waarop schatkistpapier wordt uitgegeven en beleend en geldleningen ten laste van de Staat der Nederlanden worden aangegaan.
 
 ##### Artikel 4
 
@@ -65,5 +39,3 @@ Het recht tot opvordering van een hoofdsom van de overeenkomstig deze wet aangeg
 ##### Artikel 6
 
 Deze wet treedt in werking met ingang van 1 januari 1989; zij kan worden aangehaald als: Leningwet 1989.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

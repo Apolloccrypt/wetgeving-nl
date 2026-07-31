@@ -1,43 +1,17 @@
 ---
 title: "Besluit regels samenloop toeslagen ex artikel 16 Toeslagenwet"
 identifier: "BWBR0004068"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004068"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5742023"
-version_id: "10293362"
-internal_id: "C13924371"
-label_id: "5722254"
-original_entry_into_force: "1987-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004068/2010-01-01/0"
-intitule_bron: "Stcrt.1986-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-12-18"
-intitule_published: "1986-12-23"
-intitule_in_force: "1986-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1986-248"
-original_signed_date: "1986-12-18"
-original_published_date: "1986-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-01-01"
-jci_1_3: "jci1.3:c:BWBR0004068&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0004068&g=2010-01-01"
-citeertitel_status: "officieel"
-signed_date: "1986-12-18"
-entry_into_force: "1987-01-01"
+publicatiedatum: 1987-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0004068"
+opgehaald: 2026-07-31
 ---
+
 # Besluit regels samenloop toeslagen ex artikel 16 Toeslagenwet
-
-Overwegende, dat het wenselijk is regels te stellen met betrekking tot de samenloop van toeslagen en voor het aanwijzen van de bedrijfsvereniging die de toeslag vaststelt en verstrekt;
-
-Gelet op [artikel 16 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=16) (Stb. 1986, 562);
-
-Besluit
 
 ##### Artikel 1
 
@@ -71,4 +45,4 @@ Dit besluit treedt in werking op het tijdstip dat de Toeslagenwet in werking tre
 
 ##### Artikel 8
 
-Vervallen.
+*Vervallen.*

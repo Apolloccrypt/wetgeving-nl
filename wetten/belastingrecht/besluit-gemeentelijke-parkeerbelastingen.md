@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 22 november 1990, houdende nadere regels ter uitvoering van de artikelen 283a en 283b van de gemeentewet"
+citeertitel: "Besluit gemeentelijke parkeerbelastingen"
 identifier: "BWBR0004912"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004912"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "519693"
-version_id: "762242"
-internal_id: "C762241"
-label_id: "505034"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004912/2026-01-01/0"
-intitule_bron: "Stb.1990-574"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-11-22"
-intitule_status: "goed"
-original_publication: "Stb.2001-303"
-original_signed_date: "2001-06-20"
-original_published_date: "2001-07-03"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2001-303"
-entry_into_force_date: "2001-07-04"
-jci_1_3: "jci1.3:c:BWBR0004912&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0004912&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gemeentelijke parkeerbelastingen"
-signed_date: "2001-06-20"
-entry_into_force: "2001-07-04"
+publicatiedatum: 2001-07-04
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0004912"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 22 november 1990, houdende nadere regels ter uitvoering van de artikelen 283a en 283b van de gemeentewet
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken, van 12 juli 1990, directoraat-generaal Openbaar Bestuur, nr. IBI 88/33/U55;
-
-Overwegende, dat het gewenst is nadere regels te stellen omtrent de naheffingsaanslag, het aanbrengen en verwijderen van de wielklem alsmede omtrent het wegslepen en in bewaring stellen van een voertuig met betrekking tot de gemeentelijke parkeerbelastingen;
-
-Gelet op de artikelen 283**a**, zevende lid, en 283**b**, dertiende en vijftiende lid, van de [gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416);
-
-Gezien het advies van de Raad voor de gemeentefinanciën (advies van 27 april 1990, nr. 63948 RGF 1/187);
-
-De Raad van State gehoord (advies van 6 november 1990, nr. W04.90.0361);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken van 14 november 1990, directoraat-generaal Openbaar Bestuur, nr. IBI 88/33/U 61;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -84,7 +50,7 @@ De voorschriften van het college van burgemeester en wethouders, bedoeld in [art
 
 ##### Artikel 3
 
-1. Het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=2&z=2026-01-01&g=2026-01-01), bedraagt met ingang van 1 januari 1999 ten hoogste € 41 per 1 januari 2026: € 82,00.
+1. Het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004912&artikel=2&z=2026-01-01&g=2026-01-01), bedraagt met ingang van 1 januari 1999 ten hoogste € 41 *per 1 januari 2026: € 82,00*.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties past jaarlijks het bedrag, bedoeld in het eerste lid, aan overeenkomstig de procentuele wijziging die de consumentenprijsindex over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van dit prijsindexcijfer over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt afgerond op het dichtstbijzijnde veelvoud van 10 eurocent. Het aldus berekende bedrag wordt door Onze voornoemde Minister voor 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.
 
@@ -217,5 +183,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke parkeerbelastingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

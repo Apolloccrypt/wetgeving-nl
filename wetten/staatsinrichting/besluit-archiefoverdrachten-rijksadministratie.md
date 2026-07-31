@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 9 november 1988, houdende voorschriften met betrekking tot de overgang van archiefbescheiden in geval van organisatieverandering bij de rijksadministratie"
+citeertitel: "Besluit archiefoverdrachten rijksadministratie"
 identifier: "BWBR0004427"
-country: "nl"
-rank: "kb"
-publication_date: "1988-12-15"
-last_updated: "1988-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004427"
+categorie: "Overig"
 soort: "KB"
-stam_id: "194843"
-version_id: "266502"
-internal_id: "C266501"
-label_id: "192054"
-dtd_version: "2.0"
-original_entry_into_force: "1988-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004427/1988-12-15/0"
-intitule_bron: "Stb.1988-541"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-11-09"
-intitule_status: "goed"
-original_publication: "Stb.1988-541"
-original_signed_date: "1988-11-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1988-12-15"
-jci_1_3: "jci1.3:c:BWBR0004427&z=1988-12-15&g=1988-12-15"
-jci_1_0: "1.0:c:BWBR0004427&g=1988-12-15"
-citeertitel_status: "officieel"
-short_title: "Besluit archiefoverdrachten rijksadministratie"
-signed_date: "1988-11-09"
-entry_into_force: "1988-12-15"
+publicatiedatum: 1988-12-15
+laatste_update: 1988-12-15
+status: geldig
+toestand: 1988-12-15
+bron: "https://wetten.overheid.nl/BWBR0004427"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 9 november 1988, houdende voorschriften met betrekking tot de overgang van archiefbescheiden in geval van organisatieverandering bij de rijksadministratie
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 21 oktober 1988, nr. IBI88/48/U19-B, directoraat-generaal Openbaar Bestuur;
-
-Gedaan in overeenstemming met het gevoelen van de Ministerraad en overeenkomstig het bepaalde in [artikel 3](onbekend) van het Besluit algemene secretarie-aangelegenheden rijksadministratie;
-
-Overwegende dat het wenselijk is voorschriften vast te stellen met betrekking tot het beheer van archiefbescheiden in geval van reorganisatie of opheffing van een ministerie of archiefvormend onderdeel daarvan, dan wel in geval van privatisering van rijkstaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -46,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. ministerie: een ministerie als bedoeld in [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44) en als departement aangeduid in [artikel 1, eerste lid](onbekend), van het Besluit algemene secretarie-aangelegenheden rijksadministratie (**Stb.** 1980, 182);
+- a. ministerie: een ministerie als bedoeld in [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44) en als departement aangeduid in artikel 1, eerste lid, van het Besluit algemene secretarie-aangelegenheden rijksadministratie (*Stb.* 1980, 182);
 
 - b. archiefvormend onderdeel: een organisatie-onderdeel van een ministerie waarvoor afzonderlijk wordt gearchiveerd;
 
-- c. overheidsorgaan: een overheidsorgaan als bedoeld in de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1962 (**Stb.** 1962, 313);
+- c. overheidsorgaan: een overheidsorgaan als bedoeld in de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1962 (*Stb.* 1962, 313);
 
 - d. reorganisatie: de situatie, waarbij een deel van de taken van een archiefvormend onderdeel aan een ander archiefvormend onderdeel binnen hetzelfde ministerie dan wel van een ministerie of een archiefvormend onderdeel daarvan aan een ander overheidsorgaan worden overgedragen;
 
@@ -58,11 +32,11 @@ In dit besluit wordt verstaan onder:
 
 - f. privatisering: de situatie, waarbij de taken van een archiefvormend onderdeel geheel of gedeeltelijk worden overgedragen aan een andere rechtspersoon dan bedoeld in [artikel 1, boek 2, Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1);
 
-- g. uitlening: de handeling, bedoeld in [artikel 19 van het Besluit algemene secretarie-aangelegenheden rijksadministratie](onbekend);
+- g. uitlening: de handeling, bedoeld in artikel 19 van het Besluit algemene secretarie-aangelegenheden rijksadministratie;
 
-- h. terbeschikkingstelling: de handeling, bedoeld in [artikel 23 van het Besluit algemene secretarie-aangelegenheden rijksadministratie](onbekend), alsmede, in geval van privatisering, een overeenkomstige handeling ten opzichte van een rechtspersoon;
+- h. terbeschikkingstelling: de handeling, bedoeld in artikel 23 van het Besluit algemene secretarie-aangelegenheden rijksadministratie, alsmede, in geval van privatisering, een overeenkomstige handeling ten opzichte van een rechtspersoon;
 
-- i. vervreemding: de handeling, bedoeld in [artikel 8 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8) (**Stb.** 1968, 200);
+- i. vervreemding: de handeling, bedoeld in [artikel 8 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8) (*Stb.* 1968, 200);
 
 #### § 2. Archiefoverdrachten
 
@@ -116,6 +90,4 @@ Dit besluit kan worden aangehaald als Besluit archiefoverdrachten rijksadministr
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Onze Ministers zijn, ieder voor zover het zijn ministerie betreft, belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.

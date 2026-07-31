@@ -1,58 +1,30 @@
 ---
 title: "Besluit van 15 september 1988, houdende wijziging van a het Besluit herziening bezoldiging militairen zeemacht 1954 (Stb. 50) b de Regeling inkomsten militairen land- en luchtmacht 1969 (Stb. 1968, 523) c de Regeling betreffende de aanspraken van militairen der zeemacht op een jaarlijkse vakantie-uitkering (Stb. 1954, 607), in verband met de verhoging van de leeftijdsgrens van het volwassenensalaris en verscherping van de staffeling in de jeugdsalarissen"
+citeertitel: "Wijzigingsbesluit Besluit herziening bezoldiging militairen zeemacht 1954, enz."
 identifier: "BWBR0004401"
-country: "nl"
-rank: "amvb"
-publication_date: "1993-07-01"
-last_updated: "1993-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004401"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "1464523"
-version_id: "2191812"
-internal_id: "C2191811"
-label_id: "1422774"
-dtd_version: "2.0"
-original_entry_into_force: "1988-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004401/1993-07-01/0"
-intitule_bron: "Stb.1988-435"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-09-15"
-intitule_status: "goed"
-original_publication: "Stb.1988-435"
-original_signed_date: "1988-09-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1988-10-01"
-jci_1_3: "jci1.3:c:BWBR0004401&z=1993-07-01&g=1993-07-01"
-jci_1_0: "1.0:c:BWBR0004401&g=1993-07-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingsbesluit Besluit herziening bezoldiging militairen zeemacht 1954, enz."
-signed_date: "1988-09-15"
-entry_into_force: "1988-10-01"
+publicatiedatum: 1988-10-01
+laatste_update: 1993-07-01
+status: geldig
+toestand: 1993-07-01
+bron: "https://wetten.overheid.nl/BWBR0004401"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 15 september 1988, houdende wijziging van a het Besluit herziening bezoldiging militairen zeemacht 1954 (Stb. 50) b de Regeling inkomsten militairen land- en luchtmacht 1969 (Stb. 1968, 523) c de Regeling betreffende de aanspraken van militairen der zeemacht op een jaarlijkse vakantie-uitkering (Stb. 1954, 607), in verband met de verhoging van de leeftijdsgrens van het volwassenensalaris en verscherping van de staffeling in de jeugdsalarissen
-
-Op de voordracht van Onze Minister van Defensie a.i. van 26 juli 1988, Afdeling arbeidsvoorwaarden militair personeel, nr. D88/091/23352;
-
-Gelet op [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) (**Stb.** 519);
-
-De Raad van State gehoord (advies van 26 augustus 1988, nr. W07.88.0433);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 8 september 1988, nr. D 88/091/26523;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV. Overgangsbepalingen
 
@@ -93,12 +65,10 @@ Bevat wijzigingen in andere regelgeving.
 
 - a. f 227,62, indien hij in die maand 21 jaar of ouder is;
 
-- b. het bedrag genoemd onder **a**, indien hij in die maand jonger dan 21 jaar is, met dien verstande dat een korting van 7½% per leeftijdsjaar beneden die leeftijd wordt toegepast.
+- b. het bedrag genoemd onder *a*, indien hij in die maand jonger dan 21 jaar is, met dien verstande dat een korting van 7½% per leeftijdsjaar beneden die leeftijd wordt toegepast.
 
 3. De militair die op 31 december 1985 jonger was dan 21 jaar en die op die dag reeds aanspraak had op het (volledige) minimumbedrag van de vakantie-uitkering bedoeld in artikel 3 van het Besluit vakantie-uitkering militairen zeemacht of artikel 43 van de Regeling inkomsten militairen land- en luchtmacht 1969, zoals dat artikel luidde op evenbedoelde datum, behoudt deze aanspraak.
 
 ##### Artikel V
 
-Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.

@@ -1,45 +1,18 @@
 ---
 title: "Wet van 4 februari 1988, houdende regeling van de uitgifte van het Staatsblad en de Staatscourant en van de bekendmaking en de inwerkingtreding van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften"
+citeertitel: "Bekendmakingswet"
 identifier: "BWBR0004287"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004287"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "1258393"
-version_id: "26934742"
-internal_id: "C39059511"
-label_id: "1218444"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004287/2024-01-01/0"
-intitule_bron: "Stb.1988-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-02-04"
-intitule_status: "goed"
-original_publication: "Stb.2020-262"
-original_signed_date: "2020-07-01"
-original_published_date: "2020-07-17"
-original_effect: "structuurwijziging"
-original_dossier: "35218"
-original_url_id: "stb-2020-262"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0004287&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0004287&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Bekendmakingswet"
-signed_date: "2020-07-01"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0004287"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 4 februari 1988, houdende regeling van de uitgifte van het Staatsblad en de Staatscourant en van de bekendmaking en de inwerkingtreding van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat ingevolge de [artikelen 88](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=88) en [89 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89) de wet de bekendmaking en de inwerkingtreding van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften dient te regelen, en dat het in verband daarmee tevens gewenst is enkele andere voorzieningen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -109,12 +82,6 @@ Algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet t
 
 3. In geval van een wijziging van informatie als bedoeld in het eerste lid die niet kan worden geconsolideerd, of van een bijlage als bedoeld in het tweede lid wordt die informatie of die bijlage opnieuw vastgesteld.
 
-##### Artikel 7a
-
-1. Indien bij of krachtens de wet is bepaald dat na de bekendmaking van een algemene maatregel van bestuur of een vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift een bepaalde periode dient te verstrijken alvorens de regeling in werking kan treden, kan in afwijking daarvan een eerder tijdstip van inwerkingtreding worden vastgesteld, indien de regeling uitsluitend strekt tot uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie.
-
-2. [Artikel 1:8, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:8) is van overeenkomstige toepassing.
-
 ##### Artikel 8
 
 Een algemeen verbindend voorschrift treedt niet in werking voordat het op de voorgeschreven wijze is bekendgemaakt.
@@ -134,24 +101,6 @@ Een besluit tot vaststelling van het tijdstip waarop een wet, een algemene maatr
 1. Indien bij of krachtens de wet is bepaald dat na de bekendmaking van een algemene maatregel van bestuur of een vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift een bepaalde periode dient te verstrijken alvorens de algemene maatregel van bestuur of het algemeen verbindende voorschrift in werking kan treden, kan in afwijking daarvan een eerder tijdstip van inwerkingtreding worden vastgesteld, indien de algemene maatregel van bestuur of het algemeen verbindende voorschrift uitsluitend strekt tot uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie.
 
 2. [Artikel 1:8, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:8) is van overeenkomstige toepassing.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 10a
-
-1. De teksten van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften zijn in geconsolideerde vorm voor een ieder beschikbaar door middel van een bij algemene maatregel van bestuur aangewezen algemeen toegankelijk elektronisch medium.
-
-2. Bij algemene maatregel van bestuur kunnen categorieën van algemeen verbindende voorschriften worden aangewezen, waarop het eerste lid niet van toepassing is.
-
-3. Een geconsolideerde tekst van een regeling die op grond van het eerste lid beschikbaar is gesteld, blijft beschikbaar indien de regeling na de beschikbaarstelling is gewijzigd of ingetrokken.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 10b
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 12
 
@@ -251,7 +200,7 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
@@ -270,5 +219,3 @@ De voorafgaand aan de inwerkingtreding van de [artikelen 3.1, onderdeel D](https
 ##### Artikel 26
 
 Deze wet wordt aangehaald als: Bekendmakingswet.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

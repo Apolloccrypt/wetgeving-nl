@@ -9,7 +9,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052859"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 juli 2026, kenmerk 4476325-1101043-DMO, houdende een specifieke uitkering voor AZWA- en HLO-doelen (Regeling specifieke uitkering AZWA en HLO) [KetenID WGK029253]

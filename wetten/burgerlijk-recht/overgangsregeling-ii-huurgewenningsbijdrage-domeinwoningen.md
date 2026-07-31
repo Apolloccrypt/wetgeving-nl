@@ -1,44 +1,23 @@
 ---
 title: "Overgangsregeling II huurgewenningsbijdrage domeinwoningen"
 identifier: "BWBR0005448"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-04-11"
-last_updated: "1992-04-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005448"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3736403"
-version_id: "5519262"
-internal_id: "C5712351"
-label_id: "3716144"
-dtd_version: "2.0"
-original_entry_into_force: "1992-04-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005448/1992-04-11/0"
-intitule_bron: "Stcrt.1992-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-03-13"
-intitule_published: "1992-04-09"
-intitule_in_force: "1992-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-71"
-original_signed_date: "1992-03-13"
-original_published_date: "1992-04-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-04-11"
-jci_1_3: "jci1.3:c:BWBR0005448&z=1992-04-11&g=1992-04-11"
-jci_1_0: "1.0:c:BWBR0005448&g=1992-04-11"
-citeertitel_status: "officieel"
-signed_date: "1992-03-13"
-entry_into_force: "1992-04-11"
+publicatiedatum: 1992-04-11
+laatste_update: 1992-04-11
+status: geldig
+toestand: 1992-04-11
+bron: "https://wetten.overheid.nl/BWBR0005448"
+opgehaald: 2026-07-31
 ---
-# Overgangsregeling II huurgewenningsbijdrage domeinwoningen
 
-Besluit:
+# Overgangsregeling II huurgewenningsbijdrage domeinwoningen
 
 ##### Artikel I
 
 De Regeling huurgewenningsbijdrage, zoals zij laatstelijk luidde voor 1 juli 1988 (Stcrt. 1987, 75) wordt, bij toepassing van de [Overgangsregeling huurgewenningsbijdrage domeinwoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0004464) (Stcrt. 1988, 253) gelezen als volgt:
+
+A
 
 Artikel 1, eerste lid, wordt gelezen als volgt:
 
@@ -48,15 +27,19 @@ Artikel 1, eerste lid, wordt gelezen als volgt:
 
 - 3. In plaats van de omschrijving van de begripsbepaling ‘e, duurzaam samenwonen’ wordt gelezen: hetgeen daaronder wordt verstaan in artikel 5, eerste lid, van de Wet individuele huursubsidie.
 
+B
+
 In artikel 3, derde lid, wordt
 
 - 1. in plaats van [artikel 59 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) gelezen: [artikel 70 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) (Stb. 1991, 439);
 
 - 2. tussen ‘op voet van’ en ‘de Regeling geldelijke steun voorzieningen aan huurwoningen 1987’ gelezen: de Regeling woninggebonden subsidies niet-budgetbeherende gemeenten (Stcrt. 1991, 197), de geheel of ten dele ter uitvoering van het Besluit woninggebonden subsidies (Stb. 1991, 440) strekkende gemeentelijke subsidieverordening..
 
+C
+
 Artikel 5, derde lid, wordt gelezen:
 
-**3.**
+*3.*
 
 Voor de vaststelling van de hoogte van de bijdrage wordt van de hogere huurprijs ten hoogste in aanmerking genomen:
 
@@ -64,21 +47,27 @@ Voor de vaststelling van de hoogte van de bijdrage wordt van de hogere huurprijs
 
 - b. in alle andere gevallen, het hoogste huurbedrag in de tabel bedoeld in artikel 7, eerste lid, van de Wet individuele huursubsidie.
 
+D
+
 Artikel 7, derde lid, wordt gelezen:
 
-**3.**
+*3.*
 
 In de gevallen, bedoeld in het eerste en tweede lid, is in afwijking van artikel 5, derde lid, aanhef, in samenhang met onderdeel a, steeds het huurbedrag bedoeld in onderdeel b van toepassing.
 
+E
+
 Artikel 10, eerste lid, wordt gelezen:
 
-**1.**
+*1.*
 
 De bijdrage wordt niet verstrekt, indien het inkomen van de huurder, mede in aanmerking nemende het tweede lid, over het aan 1 juli voorafgaande kalenderjaar meer heeft bedragen dan het hoogste inkomensbedrag op 1 juli in de huursubsidietabel die ten aanzien van hem van toepassing zou zijn ingevolge de Wet individuele huursubsidie of de Wet tot wijziging van de Wet individuele huursubsidie ter beperking van de ter uitvoering van die wet gedane uitgaven.
 
+F
+
 Artikel 13, eerste en vijfde lid, worden onderscheidenlijk gelezen:
 
-**1.**
+*1.*
 
 Aanvragen om verstrekking van een bijdrage worden, ingeval het een woning betreft, waaraan voorzieningen zijn getroffen, binnen zes maanden na de dag, met ingang waarvan de hogere huurprijs voor het eerst verschuldigd is geworden, schriftelijk ingediend bij de gemeente, vergezeld van de volgende bijlagen:
 
@@ -88,13 +77,13 @@ Aanvragen om verstrekking van een bijdrage worden, ingeval het een woning betref
 
 - c. een verklaring van de verhuurder, waaruit blijkt dat de onder a bedoelde woning aan de aanvrager verhuurd is en gedurende tenminste drie jaar, voorafgaande aan de datum, met ingang waaraan de hogere huurprijs verschuldigd is geworden, aan de huurder verhuurd is geweest.
 
-**5.**
+*5.*
 
 De bijdrage is per jaar betaalbaar, voor de eerste maal vanaf de datum, bedoeld in het eerste lid, met betrekking tot alle maanden die op dat tijdstip zijn verstreken sinds de datum van 1 juli, met ingang waarvan ingevolge artikel 12 de bijdrage wordt verstrekt, en vervolgens telkens in het derde kwartaal van het daarop volgende kalenderjaar.
 
 ##### Artikel II
 
-Wijzigt de Overgangsregeling huurgewenningsbijdrage domeinwoningen.
+*Wijzigt de Overgangsregeling huurgewenningsbijdrage domeinwoningen.*
 
 ##### Artikel III
 

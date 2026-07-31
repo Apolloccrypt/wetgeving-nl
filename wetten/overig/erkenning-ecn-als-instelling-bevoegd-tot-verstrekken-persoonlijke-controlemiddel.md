@@ -1,46 +1,17 @@
 ---
 title: "Erkenning ECN als instelling bevoegd tot verstrekken persoonlijke controlemiddelen"
 identifier: "BWBR0004115"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1987-02-25"
-last_updated: "1987-02-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004115"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3710083"
-version_id: "5492972"
-internal_id: "C5686061"
-label_id: "3689854"
-dtd_version: "2.0"
-original_entry_into_force: "1987-02-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004115/1987-02-25/0"
-intitule_bron: "Stcrt.1987-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-02-05"
-intitule_published: "1987-02-20"
-intitule_in_force: "1987-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-36"
-original_signed_date: "1987-02-05"
-original_published_date: "1987-02-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-02-25"
-jci_1_3: "jci1.3:c:BWBR0004115&z=1987-02-25&g=1987-02-25"
-jci_1_0: "1.0:c:BWBR0004115&g=1987-02-25"
-citeertitel_status: "officieel"
-signed_date: "1987-02-05"
-entry_into_force: "1987-02-25"
+publicatiedatum: 1987-02-25
+laatste_update: 1987-02-25
+status: geldig
+toestand: 1987-02-25
+bron: "https://wetten.overheid.nl/BWBR0004115"
+opgehaald: 2026-07-31
 ---
+
 # Erkenning ECN als instelling bevoegd tot verstrekken persoonlijke controlemiddelen
-
-Gelezen het verzoek van de Stichting Energieonderzoek Centrum Nederland te Petten van 29 augustus 1986, ref. ASB/lw, om krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) erkend te worden als instelling bevoegd tot het verstrekken van persoonlijke controlemiddelen (thermoluminescentie-dosismeters);
-
-Overwegende, dat het thermoluminescentiedosimetrie-systeem als beschreven in de bij het verzoek overgelegde bijlage voldoet aan de daaraan te stellen eisen;
-
-Gelet op artikel 32b, eerste lid, van het Radioactieve-stoffenbesluit Kernenergiewet (Stb. 1981, 501), artikel 23c, eerste lid, van het Toestellenbesluit Kernenergiewet (Stb. 1981, 502) en artikel 25, eerste lid, van het Besluit stralenbescherming Kernenergiewet (Stb. 1986, 465);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -72,9 +43,9 @@ Aan de erkenning worden de volgende voorschriften verbonden:
 
 - e. ten aanzien van:
 
-- 1e. de controlemiddelen, alsmede het aan de hand daarvan bepalen van de dosis straling als in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004115&artikel=2&z=1987-02-25&g=1987-02-25) omschreven waaraan de betrokken persoon is blootgesteld geweest;
+   - 1e de controlemiddelen, alsmede het aan de hand daarvan bepalen van de dosis straling als in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004115&artikel=2&z=1987-02-25&g=1987-02-25) omschreven waaraan de betrokken persoon is blootgesteld geweest;
 
-- 2e. de maatregelen ter voorkoming van verwisseling van controlemiddelen, wordt in acht genomen hetgeen ter zake is vermeld in het bij het verzoek overgelegde rapport ECN-86-110 van augustus 1986;
+   - 2e de maatregelen ter voorkoming van verwisseling van controlemiddelen, wordt in acht genomen hetgeen ter zake is vermeld in het bij het verzoek overgelegde rapport ECN-86-110 van augustus 1986;
 
 - f. de resultaten van het onderzoek van elk controlemiddel worden eenduidig vastgelegd. Deze resultaten worden op naam van de betrokken persoon gesteld en onverwijld meegedeeld aan de belanghebbende, die radioactieve stoffen aanwendt of een toestel gebruikt, als onder c bedoeld;
 

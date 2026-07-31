@@ -8,7 +8,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052862"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Besluit subsidieplafonds en indieningstermijn Projectregeling Co-creatie – Samen werken aan cultuur 2025–2028

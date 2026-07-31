@@ -1,48 +1,17 @@
 ---
 title: "Instelling begeleidingscommissie werkdrukonderzoek RCID"
 identifier: "BWBR0004843"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-12-14"
-last_updated: "1990-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004843"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4443793"
-version_id: "6240092"
-internal_id: "C15984501"
-label_id: "4422174"
-dtd_version: "2.0"
-original_entry_into_force: "1990-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004843/1990-12-14/0"
-intitule_bron: "Stcrt.1990-243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-08-28"
-intitule_published: "1990-12-13"
-intitule_in_force: "1990-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-243"
-original_signed_date: "1990-08-28"
-original_published_date: "1990-12-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-12-14"
-jci_1_3: "jci1.3:c:BWBR0004843&z=1990-12-14&g=1990-12-14"
-jci_1_0: "1.0:c:BWBR0004843&g=1990-12-14"
-citeertitel_status: "redactioneel"
-signed_date: "1990-08-28"
-entry_into_force: "1990-12-14"
+publicatiedatum: 1990-12-14
+laatste_update: 1990-12-14
+status: geldig
+toestand: 1990-12-14
+bron: "https://wetten.overheid.nl/BWBR0004843"
+opgehaald: 2026-07-31
 ---
+
 # Instelling begeleidingscommissie werkdrukonderzoek RCID
-
-Overwegende:
-
-dat ten behoeve van een onderzoek naar de feitelijke werkdruk van de RCID'en een meetinstrument moet worden ontwikkeld, dat geschikt is om de verschillen in werkdruk aan te geven;
-
-dat daartoe een vooronderzoek zal worden verricht;
-
-dat een landelijk gecoördineerde begeleiding van dit onderzoek wenselijk is;
-
-Besluiten:
 
 ##### Artikel 1
 

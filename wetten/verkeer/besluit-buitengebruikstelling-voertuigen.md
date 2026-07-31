@@ -1,54 +1,26 @@
 ---
 title: "Besluit van 29 augustus 1990, houdende nadere regels ter uitvoering van artikel 29, vierde lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften"
+citeertitel: "Besluit buitengebruikstelling voertuigen"
 identifier: "BWBR0004845"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004845"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "301633"
-version_id: "437772"
-internal_id: "C437771"
-label_id: "295104"
-dtd_version: "2.0"
-original_entry_into_force: "1990-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004845/2018-01-01/0"
-intitule_bron: "Stb.1990-441"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-08-29"
-intitule_status: "goed"
-original_publication: "Stb.1990-441"
-original_signed_date: "1990-08-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-09-01"
-jci_1_3: "jci1.3:c:BWBR0004845&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0004845&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengebruikstelling voertuigen"
-signed_date: "1990-08-29"
-entry_into_force: "1990-09-01"
+publicatiedatum: 1990-09-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0004845"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 29 augustus 1990, houdende nadere regels ter uitvoering van artikel 29, vierde lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften
-
-Op voordracht van Onze Minister van Justitie van 25 juni 1990, Stafafdeling Wetgeving Publiekrecht, nr. 21766/690;
-
-Gelet op [artikel 29, vierde lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=29) (**Stb.** 1989, 300);
-
-De Raad van State gehoord (advies van 23 juli 1990, nr. W03.90.0270);
-
-Gezien het nader rapport van Onze Minister van Justitie van 20 augustus 1990, Stafafdeling Wetgeving Publiekrecht, nr. 23878/690;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) (**Stb.** 1989, 300);
+- a. wet: de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) (*Stb.* 1989, 300);
 
-- b. buitengebruikstelling: de buitengebruikstelling van het voertuig, bedoeld in artikel 28**b** van de wet.
+- b. buitengebruikstelling: de buitengebruikstelling van het voertuig, bedoeld in artikel 28*b* van de wet.
 
 ##### Artikel 2
 
@@ -77,5 +49,3 @@ Dit besluit treedt in werking met ingang van 1 september 1990.
 ##### Artikel 7
 
 Dit besluit kan worden aangehaald als: Besluit buitengebruikstelling voertuigen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

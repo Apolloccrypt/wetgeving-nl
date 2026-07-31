@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 16 oktober 1991, houdende regels ter uitvoering van artikel 35 van de Wet op het consumentenkrediet"
+citeertitel: "Besluit kredietvergoeding"
 identifier: "BWBR0005233"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005233"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "665503"
-version_id: "968212"
-internal_id: "C968211"
-label_id: "645724"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005233/2024-07-01/0"
-intitule_bron: "Stb.1991-549"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-16"
-intitule_in_force: "1991-12-05"
-intitule_status: "goed"
-original_publication: "Stb.1991-549"
-original_signed_date: "1991-10-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005233&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0005233&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit kredietvergoeding"
-signed_date: "1991-10-16"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0005233"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 16 oktober 1991, houdende regels ter uitvoering van artikel 35 van de Wet op het consumentenkrediet
-
-Op de voordracht van de Staatssecretaris van Economische Zaken van 6 mei 1991, nr. 91041078 WJA/W, gedaan in overeenstemming met Onze Minister van Financiën;
-
-Gelet op de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=35), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=50), derde lid, en [64 van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=64) (**Stb.** 1990, 395);
-
-Gehoord de Adviescommissie consumentenkrediet;
-
-De Raad van State gehoord (advies van 26 september 1991, nr. W10.91.0236);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken van 7 oktober 1991, nr. 91088192 WJA/W, uitgebracht in overeenstemming met Onze Minister van Financiën;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -53,9 +22,9 @@ In dit besluit wordt verstaan onder:
 
 - a. betalingstermijn: het tijdvak dat ligt tussen:
 
-- 1°. het tijdstip waarop ter uitvoering van een kredietovereenkomst door de kredietgever een geldsom ter beschikking wordt gesteld onderscheidenlijk met het verschaffen van het genot van een zaak of het verlenen van een dienst een aanvang wordt gemaakt en het tijdstip waarop de kredietnemer de eerste betaling moet hebben gedaan, dan wel
+   - 1°. het tijdstip waarop ter uitvoering van een kredietovereenkomst door de kredietgever een geldsom ter beschikking wordt gesteld onderscheidenlijk met het verschaffen van het genot van een zaak of het verlenen van een dienst een aanvang wordt gemaakt en het tijdstip waarop de kredietnemer de eerste betaling moet hebben gedaan, dan wel
 
-- 2°. twee opeenvolgende tijdstippen waarop de kredietnemer ter uitvoering van een kredietovereenkomst een betaling moet hebben gedaan;
+   - 2°. twee opeenvolgende tijdstippen waarop de kredietnemer ter uitvoering van een kredietovereenkomst een betaling moet hebben gedaan;
 
 - b. termijnbedrag: het bedrag van een betaling die de kredietnemer aan het einde van een betalingstermijn moet hebben gedaan;
 
@@ -71,6 +40,10 @@ In dit besluit wordt verstaan onder:
 
 - h. vertragingsvergoeding: de in [artikel 76, eerste lid, onderdeel b, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=76) bedoelde vorm van kredietvergoeding.
 
+##### Artikel 1a
+
+Dit besluit berust op [artikel 76, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=76).
+
 ##### Artikel 2
 
 Voor de toepassing van dit besluit wordt een bij een kredietovereenkomst in maanden, kwartalen of jaren uitgedrukte betalingstermijn beschouwd als een gedurende de looptijd gelijk blijvende betalingstermijn, indien dit in een tot de kredietovereenkomst behorende overeenkomst uitdrukkelijk is overeengekomen.
@@ -81,7 +54,7 @@ Kredietvergoeding over een bepaald tijdvak mag niet eerder in rekening worden ge
 
 ### Hoofdstuk II. Ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
 
-### Afdeling 1. Ten hoogste toegelaten effectieve kredietvergoedingspercentages op jaarbasis
+#### Afdeling 1. Ten hoogste toegelaten effectieve kredietvergoedingspercentages op jaarbasis
 
 ##### Artikel 4
 
@@ -89,9 +62,9 @@ Voor de berekening van de ten hoogste toegelaten kredietvergoeding bij regelmati
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2. Berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
+#### Afdeling 2. Berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
 
 ##### Artikel 6
 
@@ -119,7 +92,7 @@ m: het aantal betalingstermijnen per jaar.
 
 2. Indien bij een kredietovereenkomst als bedoeld in het eerste lid een betaling of het opnemen van een geldsom door de kredietnemer dan wel het verschaffen van het genot van een zaak of het verlenen van een dienst aan de kredietnemer, plaatsvinden op een ander tijdstip dan waarop ingevolge de betalingsregeling uiterlijk een termijnbedrag dient te worden voldaan, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de betalingstermijn waarbinnen deze gebeurtenissen plaatsvinden, op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2024-07-01&g=2024-07-01) aangegeven wijze.
 
-3. In het geval, bedoeld in het eerste lid, onder **b**, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de afwijkende betalingstermijnen op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2024-07-01&g=2024-07-01) aangegeven wijze.
+3. In het geval, bedoeld in het eerste lid, onder *b*, wordt de ten hoogste toegelaten kredietvergoeding ter zake van de afwijkende betalingstermijnen op dagbasis berekend, waarbij de ten hoogste toegelaten kredietvergoeding per dag wordt berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2024-07-01&g=2024-07-01) aangegeven wijze.
 
 ##### Artikel 7
 
@@ -187,7 +160,7 @@ mt: een periode die gelijk is aan een jaar, uitgedrukt in eenheden van een betal
 
 1. Indien op een tijdstip na het aangaan van de kredietovereenkomst de betalingsregeling bij nadere overeenkomst wordt gewijzigd, wordt de kredietvergoeding bij regelmatige afwikkeling over de laatste betalingstermijn voor dat tijdstip respectievelijk over de eerste betalingstermijn na dat tijdstip op dagbasis berekend, indien die betalingstermijn afwijkt van de overige betalingstermijnen voor respectievelijk na dat tijdstip. Daarbij wordt de ten hoogste toegelaten kredietvergoeding per dag berekend op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=10&z=2024-07-01&g=2024-07-01) aangegeven wijze.
 
-2. Indien de betalingsregeling na de wijziging voldoet aan de omschrijving van [artikel 7, eerste lid, aanhef en onder **a** of **b**, dan wel tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2024-07-01&g=2024-07-01), wordt de ten hoogste toegelaten kredietvergoeding per betalingstermijn bij regelmatige afwikkeling na dat tijdstip niettemin berekend op de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=8&z=2024-07-01&g=2024-07-01), aangegeven wijze. De aldus berekende ten hoogste toegelaten kredietvergoeding treedt in de plaats van de ten hoogste toegelaten kredietvergoeding die nog in rekening zou kunnen worden gebracht indien de betalingsregeling niet zou zijn gewijzigd.
+2. Indien de betalingsregeling na de wijziging voldoet aan de omschrijving van [artikel 7, eerste lid, aanhef en onder *a* of *b*, dan wel tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=7&z=2024-07-01&g=2024-07-01), wordt de ten hoogste toegelaten kredietvergoeding per betalingstermijn bij regelmatige afwikkeling na dat tijdstip niettemin berekend op de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=2&artikel=8&z=2024-07-01&g=2024-07-01), aangegeven wijze. De aldus berekende ten hoogste toegelaten kredietvergoeding treedt in de plaats van de ten hoogste toegelaten kredietvergoeding die nog in rekening zou kunnen worden gebracht indien de betalingsregeling niet zou zijn gewijzigd.
 
 ##### Artikel 10
 
@@ -227,21 +200,21 @@ q: het aantal dagen van de maand waarvan dag d deel uitmaakt.
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Slotbepalingen
 
 ##### Artikel 15
 
-Op kredietovereenkomsten, aangegaan voor 10 augustus 2020, blijven, ten aanzien van geldsommen of diensten die voor die datum ter beschikking zijn gesteld, zijn opgenomen of verschaft of ten aanzien van genot van zaken dat voor die datum is verschaft, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&artikel=4&z=2024-07-01&g=2024-07-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=16a&z=2024-07-01&g=2024-07-01) van het Besluit kredietvergoeding, zoals die artikelen luidden voor 10 augustus 2020, van toepassing.
+Op kredietovereenkomsten, aangegaan voor 10 augustus 2020, blijven, ten aanzien van geldsommen of diensten die voor die datum ter beschikking zijn gesteld, zijn opgenomen of verschaft of ten aanzien van genot van zaken dat voor die datum is verschaft, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&artikel=4&z=2024-07-01&g=2024-07-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=16a&z=2024-07-01&g=2024-07-01) van het Besluit kredietvergoeding, zoals die artikelen luidden voor 10 augustus 2020, van toepassing.
 
 ##### Artikel 16
 
@@ -251,6 +224,12 @@ Indien gedurende de looptijd van een kredietovereenkomst de wettelijke rente wij
 
 - b. de hoogte van de kredietvergoeding laatstelijk is gewijzigd, indien het betreft variabele kredietvergoeding.
 
+##### Artikel 16a
+
+1. De [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&artikel=4&z=2024-07-01&g=2024-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01) zijn niet van toepassing wanneer het jaarlijks kostenpercentage, bedoeld in [artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) ten hoogste de wettelijke rente verhoogd met 8 procentpunten bedraagt.
+
+2. Indien het eerste lid van toepassing is, wordt in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=16&z=2024-07-01&g=2024-07-01) in plaats van «effectieve kredietvergoedingspercentage op jaarbasis» gelezen: jaarlijks kostenpercentage.
+
 ##### Artikel 17
 
 Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
@@ -258,31 +237,3 @@ Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
 ##### Artikel 18
 
 Dit besluit kan worden aangehaald als: Besluit kredietvergoeding.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 16a
-
-1. De [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&artikel=4&z=2024-07-01&g=2024-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=15&z=2024-07-01&g=2024-07-01) zijn niet van toepassing wanneer het jaarlijks kostenpercentage, bedoeld in [artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) ten hoogste de wettelijke rente verhoogd met 8 procentpunten bedraagt.
-
-2. Indien het eerste lid van toepassing is, wordt in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=16&z=2024-07-01&g=2024-07-01) in plaats van «effectieve kredietvergoedingspercentage op jaarbasis» gelezen: jaarlijks kostenpercentage.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Dit besluit berust op [artikel 76, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=76).
-
-### Hoofdstuk II. Ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
-
-### Afdeling 1. Ten hoogste toegelaten effectieve kredietvergoedingspercentages op jaarbasis
-
-### Afdeling 2. Berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
-
-### Hoofdstuk III. Ten hoogste toegelaten vertragingsvergoeding
-
-### Hoofdstuk IV. Ten hoogste toegelaten vergoeding bij vervroegde aflossing
-
-### Hoofdstuk V. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

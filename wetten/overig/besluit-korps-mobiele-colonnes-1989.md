@@ -1,50 +1,17 @@
 ---
 title: "Besluit Korps Mobiele Colonnes 1989"
 identifier: "BWBR0004647"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1989-09-21"
-last_updated: "1989-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004647"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3699163"
-version_id: "5482302"
-internal_id: "C5675391"
-label_id: "3679184"
-dtd_version: "2.0"
-original_entry_into_force: "1989-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004647/1989-09-21/0"
-intitule_bron: "Stcrt.1989-225"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-11-10"
-intitule_published: "1989-11-17"
-intitule_in_force: "1989-11-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-225"
-original_signed_date: "1989-11-10"
-original_published_date: "1989-11-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-09-21"
-jci_1_3: "jci1.3:c:BWBR0004647&z=1989-09-21&g=1989-09-21"
-jci_1_0: "1.0:c:BWBR0004647&g=1989-09-21"
-citeertitel_status: "officieel"
-signed_date: "1989-11-10"
-entry_into_force: "1989-09-21"
+publicatiedatum: 1989-09-21
+laatste_update: 1989-09-21
+status: geldig
+toestand: 1989-09-21
+bron: "https://wetten.overheid.nl/BWBR0004647"
+opgehaald: 2026-07-31
 ---
+
 # Besluit Korps Mobiele Colonnes 1989
-
-In overeenstemming met de ministers van Welzijn, Volksgezondheid en Cultuur en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Overwegende, dat het in verband met de reorganisatie van de rampenbestrijding wenselijk is nieuwe regels vast te stellen met betrekking tot het Korps Mobiele Colonnes;
-
-dat het Korps Mobiele Colonnes – dat is opgericht bij koninklijk besluit van 14 november 1955, nr. 41 (Stcrt. 1955, 233) – bij koninklijk besluit van 1 februari 1963, nr. 58 (Stcrt. 1963, 30) met ingang van 1 maart 1963 is opgenomen in de organisatie van de Koninklijke landmacht;
-
-dat het Korps Mobiele Colonnes is bestemd om taken te vervullen in het kader van de rampenbestrijding;
-
-dat enerzijds de minister van defensie met betrekking tot het Korps Mobiele Colonnes als onderdeel van de krijgsmacht bevoegdheden en verantwoordelijkheden heeft en anderzijds de minister van Binnenlandse Zaken, gelet op zijn verantwoordelijkheid voor de rampenbestrijding, er van verzekerd dient te zijn dat het Korps Mobiele Colonnes doelmatig wordt voorbereid op zijn taak en deze doelmatig zal kunnen vervullen;
-
-Besluiten:
 
 #### Functie van het Korps Mobiele Colonnes
 
@@ -80,9 +47,9 @@ De minister van Binnenlandse Zaken geeft in overeenstemming met de minister van 
 
 1. De minister van Binnenlandse Zaken draagt met betrekking tot het Korps Mobiele Colonnes, met inachtneming van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=3&z=1989-09-21&g=1989-09-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=4&z=1989-09-21&g=1989-09-21) en de hem voor het Korps Mobiele Colonnes ter beschikking staande financiële middelen, zorg voor:
 
-- a. de aanschaf, de opslag en magazijnruimte, het beheer, het onderhoud en het herstel van de materiële uitrusting van het Korps Mobiele Colonnes voor zover deze in het bijzonder bestemd is voor de taken, bedoeld in [artikel 2, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21);
+- a de aanschaf, de opslag en magazijnruimte, het beheer, het onderhoud en het herstel van de materiële uitrusting van het Korps Mobiele Colonnes voor zover deze in het bijzonder bestemd is voor de taken, bedoeld in [artikel 2, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21);
 
-- b. de magazijnruimte voor de opslag van het militaire materieel met uitzondering van het materieel dat in het bijzonder is bestemd voor de uitvoering van taken, bedoeld in [artikel 2, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21).
+- b de magazijnruimte voor de opslag van het militaire materieel met uitzondering van het materieel dat in het bijzonder is bestemd voor de uitvoering van taken, bedoeld in [artikel 2, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21).
 
 2. De minister van Binnenlandse Zaken draagt er zorg voor, dat het in het eerste lid, onder a, bedoelde materieel dat noodzakelijk is voor de taakuitvoering en de voorbereiding daarop, ter beschikking wordt gesteld van de commandant van het Korps Mobiele Colonnes.
 
@@ -96,19 +63,19 @@ De minister van Binnenlandse Zaken bevordert dat het Korps Mobiele Colonnes tijd
 
 1. De minister van Defensie draagt met betrekking tot het Korps Mobiele Colonnes, met inachtneming van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=3&z=1989-09-21&g=1989-09-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=4&z=1989-09-21&g=1989-09-21) en van de hem voor het Korps Mobiele Colonnes ter beschikking staande financiële en materiële middelen, zorg voor:
 
-- a. het vaststellen van de organisatie;
+- a het vaststellen van de organisatie;
 
-- b. de voorziening met het benodigde personeel;
+- b de voorziening met het benodigde personeel;
 
-- c. de opleiding en oefening van het personeel;
+- c de opleiding en oefening van het personeel;
 
-- d. het vaststellen van de materiële uitrusting voor zover deze niet in het bijzonder is bestemd voor de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21);
+- d het vaststellen van de materiële uitrusting voor zover deze niet in het bijzonder is bestemd voor de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21);
 
-- e. de aanschaf, het beheer, het onderhoud en het herstel van de onder d bedoelde uitrusting;
+- e de aanschaf, het beheer, het onderhoud en het herstel van de onder d bedoelde uitrusting;
 
-- f. de voorzieningen die nodig zijn om in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden het Korps Mobiele Colonnes gereed te stellen;
+- f de voorzieningen die nodig zijn om in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden het Korps Mobiele Colonnes gereed te stellen;
 
-- g. al het overige dat voor de vorming, de instandhouding en een doelmatige taakuitoefening is vereist.
+- g al het overige dat voor de vorming, de instandhouding en een doelmatige taakuitoefening is vereist.
 
 2. De minister van Defensie draagt er zorg voor, dat voor de dienst bij het Korps Mobiele Colonnes niet alleen personeel van de Koninklijke landmacht, doch ook personeel van de Koninklijke marine en van de Koninklijke luchtmacht wordt aangewezen.
 
@@ -132,9 +99,9 @@ De minister van Defensie draagt met inachtneming van het bepaalde in de [artikel
 
 2. De minister van Welzijn, Volksgezondheid en Cultuur draagt met betrekkingt tot het Korps Mobiele Colonnes in overeenstemming met de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en met inachtneming van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=3&z=1989-09-21&g=1989-09-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=4&z=1989-09-21&g=1989-09-21) zorg voor:
 
-- a. de aanschaf, de opslag en magazijnruimte, het beheer, het onderhoud en het herstel van de materiële uitrusting van het Korps Mobiele Colonnes voor zover deze in het bijzonder is bestemd voor de nooddrinkwaterleidingvoorziening en de waterzuivering;
+- a de aanschaf, de opslag en magazijnruimte, het beheer, het onderhoud en het herstel van de materiële uitrusting van het Korps Mobiele Colonnes voor zover deze in het bijzonder is bestemd voor de nooddrinkwaterleidingvoorziening en de waterzuivering;
 
-- b. de magazijnruimte voor de opslag van het militaire materieel dat in het bijzonder is bestemd voor de uitvoering van taken, bedoeld in [artikel 2, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21).
+- b de magazijnruimte voor de opslag van het militaire materieel dat in het bijzonder is bestemd voor de uitvoering van taken, bedoeld in [artikel 2, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004647&artikel=2&z=1989-09-21&g=1989-09-21).
 
 2. De minister van Welzijn, Volksgezondheid en Cultuur draagt er in overeenstemming met de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zorg voor, dat het in het tweede lid, onder a, bedoelde materieel dat noodzakelijk is voor de taakuitoefening en de voorbereiding daarop, ter beschikking wordt gesteld van de commandant van het Korps Mobiele Colonnes.
 

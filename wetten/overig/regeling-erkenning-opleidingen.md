@@ -1,42 +1,17 @@
 ---
 title: "Regeling erkenning opleidingen"
 identifier: "BWBR0004757"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2001-07-01"
-last_updated: "2001-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004757"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4891543"
-version_id: "7830282"
-internal_id: "C18196661"
-label_id: "4869634"
-dtd_version: "2.0"
-original_entry_into_force: "1990-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004757/2001-07-01/0"
-intitule_bron: "Stcrt.1990-107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-05-18"
-intitule_published: "1990-06-06"
-intitule_in_force: "1990-06-06"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-107"
-original_signed_date: "1990-05-18"
-original_published_date: "1990-06-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-06-08"
-jci_1_3: "jci1.3:c:BWBR0004757&z=2001-07-01&g=2001-07-01"
-jci_1_0: "1.0:c:BWBR0004757&g=2001-07-01"
-citeertitel_status: "officieel"
-signed_date: "1990-05-18"
-entry_into_force: "1990-06-08"
+publicatiedatum: 1990-06-08
+laatste_update: 2001-07-01
+status: geldig
+toestand: 2001-07-01
+bron: "https://wetten.overheid.nl/BWBR0004757"
+opgehaald: 2026-07-31
 ---
+
 # Regeling erkenning opleidingen
-
-Gelet op [artikel 39, tweede lid van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=39) (Stb. 1978, 99), laatstelijk gewijzigd bij besluit van 13 juli 1987 (Stb. 1987, 449);
-
-Besluit:
 
 ### Hoofdstuk I. Algemeen
 
@@ -46,7 +21,7 @@ In deze regeling wordt verstaan onder een erkende opleiding: Een instelling die 
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. De aanvraag
 
@@ -199,11 +174,3 @@ De regeling van de directeur-generaal van de Rijksluchtvaartdienst van 4 oktober
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van verschijning van de Nederlandse Staatscourant waarin zij wordt geplaatst
 
 De bij deze regeling behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0004757&bijlage=I&z=2001-07-01&g=2001-07-01) liggen ter inzage bij de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat te Den Haag
-
-## Bijlage I
-
-Ligt ter inzage bij de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat te Den Haag.
-
-## Bijlage II
-
-Ligt ter inzage bij de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat te Den Haag.

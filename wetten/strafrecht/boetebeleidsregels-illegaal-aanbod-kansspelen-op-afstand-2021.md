@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-23
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0045639"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Boetebeleidsregels voor het aanbieden van kansspelen op afstand zonder vergunning, Kansspelautoriteit

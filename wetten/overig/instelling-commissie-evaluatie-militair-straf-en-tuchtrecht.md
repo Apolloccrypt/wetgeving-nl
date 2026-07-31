@@ -1,44 +1,17 @@
 ---
 title: "Instelling Commissie Evaluatie Militair Straf- en Tuchtrecht"
 identifier: "BWBR0005462"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-06-01"
-last_updated: "1992-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005462"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3721693"
-version_id: "5504642"
-internal_id: "C5697731"
-label_id: "3701524"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005462/1992-06-01/0"
-intitule_bron: "Stcrt.1992-79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-03-27"
-intitule_published: "1992-04-23"
-intitule_in_force: "1992-04-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-79"
-original_signed_date: "1992-03-27"
-original_published_date: "1992-04-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-06-01"
-jci_1_3: "jci1.3:c:BWBR0005462&z=1992-06-01&g=1992-06-01"
-jci_1_0: "1.0:c:BWBR0005462&g=1992-06-01"
-citeertitel_status: "officieel"
-signed_date: "1992-03-27"
-entry_into_force: "1992-06-01"
+publicatiedatum: 1992-06-01
+laatste_update: 1992-06-01
+status: geldig
+toestand: 1992-06-01
+bron: "https://wetten.overheid.nl/BWBR0005462"
+opgehaald: 2026-07-31
 ---
+
 # Instelling Commissie Evaluatie Militair Straf- en Tuchtrecht
-
-Gelet op de Rijkswet van 14 juni 1990. Stb. 1990, 368 tot wijziging van het Wetboek van Militair Strafrecht in verband met de herziening van het militair tuchtrecht en ter afschaffing van de doodstraf, de [Rijkswet van 14 juni 1990, Stb. 1990, 367 tot herziening van het militair tuchtrecht (Wet militair tuchtrecht)](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) en de [Rijkswet van 14 juni 1990, Stb. 1990, 370 houdende nieuwe regels inzake de militaire strafrechtspraak (Wet militaire strafrechtspraak)](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), alle in werking getreden op 1 januari 1991, waarin het militair straf-, strafproces- en tuchtrecht op ingrijpende wijze is herzien:
-
-Overwegende dat tijdens de behandeling in de Eerste Kamer der Staten-Generaal van de aan bovengenoemde wetten ten grondslag liggende wetsontwerpen 16 813 (R1165) en 17 804 (R1228) betreffende de herziening van het militair straf-, strafproces- en tuchtrecht het voornemen door de bewindslieden is uitgesproken de nieuwe wetgeving te laten evalueren en dat het met het oog daarop wenselijk is een commissie in het leven te roepen;
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -47,6 +20,30 @@ Er is een Commissie Evaluatie Militair Straf- en Tuchtrecht, hierna te noemen de
 ##### Artikel 2
 
 De commissie is als volgt samengesteld:
+
+Voorzitter:
+
+- Prof. Mr. J. de Ruiter, oud-Minister van Justitie en van Defensie:
+
+Leden:
+
+- Mevrouw Mr. W. Sorgdrager, procureur-generaal bij het gerechtshof te Arnhem;
+
+- Mr. L. R. van der Weij, president van de arrondissementsrechtbank te Arnhem;
+
+- G. L. J. Huyser, Generaal b.d. voormalig Chef Defensiestaf;
+
+- J. F. G. A. M. Maas, Luitenant-generaal. Inspecteur Generaal der Krijgsmacht;
+
+- Mr. S. W. P. C. Braunius, Kapitein ter Zee van administratie b.d. voormalig Hoofd Militair Juridische zaken bij de Marinestaf;
+
+- Prof. mr. Th. de Roos, Hoogleraar Straf- en Strafprocesrecht aan de Rijksuniversiteit Limburg. Advocaat en Procureur te Amsterdam;
+
+Adviserende leden:
+
+- Dr. S. B. Ybema, Directeur Juridische Zaken. Ministerie van Defensie;
+
+- Dr. D. W. Steenhuis, Hoofd Centrale Directie Wetenschapsbeleid en Ontwikkeling, Ministerie van Justitie.
 
 ##### Artikel 3
 

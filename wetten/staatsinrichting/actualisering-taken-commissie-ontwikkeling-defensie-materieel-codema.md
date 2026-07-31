@@ -1,44 +1,17 @@
 ---
 title: "Actualisering taken Commissie Ontwikkeling Defensie Materieel (CODEMA)"
 identifier: "BWBR0004520"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1989-04-03"
-last_updated: "1989-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004520"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3680553"
-version_id: "5463552"
-internal_id: "C5656641"
-label_id: "3660434"
-dtd_version: "2.0"
-original_entry_into_force: "1989-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004520/1989-04-03/0"
-intitule_bron: "Stcrt.1989-94"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-04-03"
-intitule_published: "1989-05-18"
-intitule_in_force: "1989-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-94"
-original_signed_date: "1989-04-03"
-original_published_date: "1989-05-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-04-03"
-jci_1_3: "jci1.3:c:BWBR0004520&z=1989-04-03&g=1989-04-03"
-jci_1_0: "1.0:c:BWBR0004520&g=1989-04-03"
-citeertitel_status: "officieel"
-signed_date: "1989-04-03"
-entry_into_force: "1989-04-03"
+publicatiedatum: 1989-04-03
+laatste_update: 1989-04-03
+status: geldig
+toestand: 1989-04-03
+bron: "https://wetten.overheid.nl/BWBR0004520"
+opgehaald: 2026-07-31
 ---
+
 # Actualisering taken Commissie Ontwikkeling Defensie Materieel (CODEMA)
-
-Handelende in overeenstemming met de ministers van Buitenlandse Zaken, van Economische Zaken en van Financiën;
-
-Overwegende dat de intstellingsbeschikking van de Commissie Ontwikkeling Defensie Materieel (CODEMA) van 20 november 1978 dient te worden geactualiseerd;
-
-Besluit:
 
 ##### Artikel 1. Doelstelling en taken CODEMA
 

@@ -1,54 +1,29 @@
 ---
 title: "Vergaderverordening Nederlandse loodsencorporatie"
 identifier: "BWBR0004389"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-03-06"
-last_updated: "2008-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004389"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4037463"
-version_id: "5811132"
-internal_id: "C6013871"
-label_id: "4018004"
-dtd_version: "2.0"
-original_entry_into_force: "1988-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004389/2008-03-06/0"
-intitule_bron: "Stcrt.1988-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-08-18"
-intitule_published: "1988-08-31"
-intitule_in_force: "1988-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1988-168"
-original_signed_date: "1988-08-18"
-original_published_date: "1988-08-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1988-09-01"
-jci_1_3: "jci1.3:c:BWBR0004389&z=2008-03-06&g=2008-03-06"
-jci_1_0: "1.0:c:BWBR0004389&g=2008-03-06"
-citeertitel_status: "officieel"
-signed_date: "1988-08-18"
-entry_into_force: "1988-09-01"
+publicatiedatum: 1988-09-01
+laatste_update: 2008-03-06
+status: geldig
+toestand: 2008-03-06
+bron: "https://wetten.overheid.nl/BWBR0004389"
+opgehaald: 2026-07-31
 ---
+
 # Vergaderverordening Nederlandse loodsencorporatie
-
-Gelet op [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=67), juncto [artikel 15 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) (Stb. 1988, 353);
-
-Besluit:
 
 ##### Artikel I
 
 De verordening, bedoeld in artikel 15, eerste lid, onderdeel d, van de Loodsenwet (Stb. 1988, 353), wordt als volgt vastgesteld:
 
-**Verordening inzake de ledenvergadering van de corporatie**
+*Verordening inzake de ledenvergadering van de corporatie*
 
-**(Vergaderverordening Nederlandse loodsencorporatie)**
+*(Vergaderverordening Nederlandse loodsencorporatie)*
 
 ### 1. Algemeen
 
-### Hoofdstuk I. Oproep en inzending stukken
+#### Hoofdstuk I. Oproep en inzending stukken
 
 ##### Artikel 1
 
@@ -70,6 +45,12 @@ Van ingekomen stukken bij de algemene raad, waarvan het de bedoeling is dat zij 
 
 De stukken bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004389&hoofdstuk=1&hoofdstuk=I&artikel=4&z=2008-03-06&g=2008-03-06) dienen ten minste 24 uur voor de aanvang der ledenvergadering in het bezit van de voorzitter of de secretaris te zijn. Later ingekomen stukken worden op de eerstvolgende ledenvergadering vermeld.
 
+##### Artikel 5a
+
+1. Een motie is een voorstel, ondertekend door tenminste 5% van het aantal leden, tot het doen van een uitspraak van de vergadering over een niet geagendeerd onderwerp, dat valt binnen de bij of krachtens de wet geregelde taken en bevoegdheden van de ledenvergadering van de Nederlandse Loodsencorporatie.
+
+2. Ten aanzien van de behandeling van de motie bedoeld in het eerste lid, zijn de artikelen in deze verordening met betrekking tot amendementen van overeenkomstige toepassing.
+
 ##### Artikel 6
 
 Amendementen en zienswijzen van leden en zienswijzen van belanghebbenden dienen als zodanig aangeduid uiterlijk drie weken tevoren te worden toegezonden aan de algemene raad.
@@ -82,7 +63,7 @@ De algemene raad draagt ervoor zorg, dat haar schriftelijk reactie op het ingezo
 
 De secretaris zorgt ervoor dat een afschrift van de notulen uiterlijk zes weken vóór de volgende ledenvergadering voor de leden ter inzage wordt gelegd op de kantoren van de regionale loodsencorporaties.
 
-### Hoofdstuk II. Toegang en presentielijst
+#### Hoofdstuk II. Toegang en presentielijst
 
 ##### Artikel 9
 
@@ -108,7 +89,7 @@ Belangstellende is degene die zich uiterlijk drie weken tevoren schriftelijk als
 
 De aanwezigen bij een ledenvergadering tekenen de presentielijst, die is onderverdeeld in de rubrieken ‘leden’, ‘belanghebbenden’, en ‘belangstellenden’, met volledige naam en handtekening.
 
-### Hoofdstuk III. Aanvang, schorsing en verdaging
+#### Hoofdstuk III. Aanvang, schorsing en verdaging
 
 ##### Artikel 14
 
@@ -126,7 +107,7 @@ De secretaris zendt de leden zo spoedig mogelijk een mededeling van de verdaging
 
 Een verdaagde ledenvergadering wordt gehouden, ongeacht het aantal aanwezige leden.
 
-### Hoofdstuk IV. Leiding en notulering
+#### Hoofdstuk IV. Leiding en notulering
 
 ##### Artikel 18
 
@@ -152,7 +133,7 @@ De notulen bevatten in elk geval:
 
 - d. de inhoud van de door de ledenvergadering genomen besluiten.
 
-### Hoofdstuk V. Beraadslaging
+#### Hoofdstuk V. Beraadslaging
 
 ##### Artikel 22
 
@@ -222,7 +203,7 @@ Een voorstel van orde wordt onmiddellijk behandeld, voor zover de door de voorzi
 
 De voorzitter kan aanwezigen bij de vergadering die de orde verstoren van de vergadering uitsluiten.
 
-### Hoofdstuk VI. Besluitvorming
+#### Hoofdstuk VI. Besluitvorming
 
 #### § 1. Algemene bepalingen
 
@@ -361,29 +342,3 @@ Deze verordening kan worden aangehaald als ‘Vergaderverordening Nederlandse lo
 Deze regeling treedt in werking met ingang van 1 september 1988.
 
 Deze regeling zal worden geplaatst in de Nederlandse Staatscourant.
-
-##### Artikel 5a
-
-1. Een motie is een voorstel, ondertekend door tenminste 5% van het aantal leden, tot het doen van een uitspraak van de vergadering over een niet geagendeerd onderwerp, dat valt binnen de bij of krachtens de wet geregelde taken en bevoegdheden van de ledenvergadering van de Nederlandse Loodsencorporatie.
-
-2. Ten aanzien van de behandeling van de motie bedoeld in het eerste lid, zijn de artikelen in deze verordening met betrekking tot amendementen van overeenkomstige toepassing.
-
-### Hoofdstuk II. Toegang en presentielijst
-
-### Hoofdstuk III. Aanvang, schorsing en verdaging
-
-### Hoofdstuk IV. Leiding en notulering
-
-### Hoofdstuk V. Beraadslaging
-
-### Hoofdstuk VI. Besluitvorming
-
-#### § 1. Algemene bepalingen
-
-#### § 2. Stemmen over zaken
-
-#### § 3. Stemmen over personen
-
-### 2. De Jaarvergadering
-
-### 3. Overige bepalingen

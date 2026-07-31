@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0035797"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 november 2014, 2014-0000166464, tot aanwijzing van beroepsopleidingen en scholen en vaststelling van de afstand tussen deze en het woonadres van de verzekerde als bedoeld in de Algemene Kinderbijslagwet (Regeling dubbele kinderbijslag om onderwijsredenen)

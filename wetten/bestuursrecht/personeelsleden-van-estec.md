@@ -1,37 +1,16 @@
 ---
 title: "Personeelsleden van ESTEC"
 identifier: "BWBR0004687"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1990-01-03"
-last_updated: "1990-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004687"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "8376253"
-version_id: "13249002"
-internal_id: "C17821361"
-label_id: "8356934"
-dtd_version: "2.0"
-original_entry_into_force: "1990-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004687/1990-01-03/0"
-intitule_bron: "Infob.1990-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-01-03"
-intitule_published: "1990-01-01"
-intitule_in_force: "1990-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1990-1"
-original_signed_date: "1990-01-03"
-original_published_date: "1990-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-01-03"
-jci_1_3: "jci1.3:c:BWBR0004687&z=1990-01-03&g=1990-01-03"
-jci_1_0: "1.0:c:BWBR0004687&g=1990-01-03"
-citeertitel_status: "redactioneel"
-signed_date: "1990-01-03"
-entry_into_force: "1990-01-03"
+publicatiedatum: 1990-01-03
+laatste_update: 1990-01-03
+status: geldig
+toestand: 1990-01-03
+bron: "https://wetten.overheid.nl/BWBR0004687"
+opgehaald: 2026-07-31
 ---
+
 # Personeelsleden van ESTEC
 
 1. De salarissen en emolumenten die de personeelsleden van de vestiging van ESA te Noordwijk (ESTEC) genieten, zijn op grond van het eerste lid van artikel XVIII van Bijlage 1 (voorrechten en immuniteiten) bij het Verdrag tot oprichting van een Europees Ruimte Agentschap (b.w. IFZ-420.00.00) en artikel 24 van de Overeenkomst tussen Nederland en ESA inzake de oprichting en het functioneren van het Europese Centrum voor Ruimtevaarttechniek (b.w. IFZ-420.01.00), vrijgesteld van heffing van nationale inkomstenbelasting en onderworpen aan een interne belasting.
@@ -43,6 +22,16 @@ De door het Agentschap betaalde jaargelden en pensioenen zijn echter wel belastb
 3. Tot op heden wordt voor de toepassing van het progressievoorbehoud ten aanzien van personeelsleden van ESTEC een met ESRO gesloten overeenkomst (het zgn. packagedeal) gehanteerd. Hierop heeft betrekking de aanschrijving van 7 augustus 1967, nr. B7/10884 (IB’65-90). Die Overeenkomst sluit niet meer aan bij de huidige omstandigheden en is om die reden in overleg met vertegenwoordigers van ESA/ESTEC herzien en zo veel mogelijk in overeenstemming gebracht met nadien voor vergelijkbare internationale organisaties getroffen regelingen.
 
 4. Voor de toepassing van het progressievoorbehoud ten aanzien van personeelsleden van ESTEC dienen de volgende elementen van het totaal aan salaris en emolumenten in aanmerking te worden genomen:
+
+- a. het bedrag aan salaris en emolumenten, waarop de tabel van de interne belasting wordt toegepast (derhalve vóór de inhouding van de interne belasting), verminderd met de werknemersbijdrage in de pensioenvoorziening;
+
+- b.
+
+   - – de household allowance;
+
+   - – de depedant allowance;
+
+- c. het gedeelte van de bijdrage in de ziektekostenverzekering dat door het Agentschap wordt gedragen. Gelet op de omstandigheid, dat de werkgeversbijdrage in de ziektekostenverzekering van het ESTEC-personeel niet op eenvoudige wijze en binnen een redelijke termijn na afloop van een kalenderjaar kan worden vastgesteld, keur ik goed dat deze werkgeversbijdrage wordt gesteld op het bedrag dat ter zake op het salaris van het personeelslid wordt ingehouden.
 
 5. In het onder letter a van punt 4 bedoelde bedrag is in voorkomende gevallen de zgn. leaving allowance opgenomen. Op deze uitkering, die betreft de terugbetaling van pensioenpremies vóórdat pensioenrechten zijn ontstaan, is het eerste lid van genoemd artikel XVIII van toepassing.
 

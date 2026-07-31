@@ -1,68 +1,40 @@
 ---
 title: "Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten"
+citeertitel: "Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten"
 identifier: "BWBR0004224"
-country: "nl"
-rank: "wet"
-publication_date: "2020-02-01"
-last_updated: "2020-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004224"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17153"
-version_id: "14340362"
-internal_id: "C19503071"
-label_id: "18644"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004224/2020-02-01/0"
-intitule_bron: "Stb.1987-484"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-10-28"
-intitule_status: "goed"
-original_publication: "Stb.2007-108"
-original_signed_date: "2007-03-08"
-original_published_date: "2007-03-22"
-original_effect: "structuurwijziging"
-original_dossier: "30392"
-original_url_id: "stb-2007-108"
-entry_into_force_date: "2007-03-08"
-entry_into_force_dossier: "30392"
-jci_1_3: "jci1.3:c:BWBR0004224&z=2020-02-01&g=2020-02-01"
-jci_1_0: "1.0:c:BWBR0004224&g=2020-02-01"
-citeertitel_status: "officieel"
-short_title: "Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten"
-signed_date: "2007-03-08"
-entry_into_force: "2007-03-08"
+publicatiedatum: 2007-03-08
+laatste_update: 2020-02-01
+status: geldig
+toestand: 2020-02-01
+bron: "https://wetten.overheid.nl/BWBR0004224"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen, dat het ter uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen van 16 december 1986 betreffende de rechtsbescherming van topografieën van halfgeleiderprodukten (**Pb.** L/24, 27 januari 1987) wenselijk is regelen te treffen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **halfgeleiderprodukt:** de definitieve vorm of de tussenvorm van een produkt;
+- a. *halfgeleiderprodukt:* de definitieve vorm of de tussenvorm van een produkt;
 
-- 1°. dat uit een lichaam bestaat, dat een laag halfgeleidermateriaal en een of meer lagen geleidend, isolerend of halfgeleidend materiaal bevat, waarbij elk van de lagen een samenstelling heeft die in overeenstemming is met een vooraf bepaald driedimensionaal patroon van het lichaam, en
+   - 1°. dat uit een lichaam bestaat, dat een laag halfgeleidermateriaal en een of meer lagen geleidend, isolerend of halfgeleidend materiaal bevat, waarbij elk van de lagen een samenstelling heeft die in overeenstemming is met een vooraf bepaald driedimensionaal patroon van het lichaam, en
 
-- 2°. dat bestemd is om, uitsluitend of tezamen met andere functies, een elektronische functie te vervullen.
+   - 2°. dat bestemd is om, uitsluitend of tezamen met andere functies, een elektronische functie te vervullen.
 
-- b. **topografie:** een reeks samenhangende beelden, op enigerlei wijze vastgelegd,
+- b. *topografie:* een reeks samenhangende beelden, op enigerlei wijze vastgelegd,
 
-- 1°. die het driedimensionaal patroon van de lagen weergeven waaruit het halfgeleiderprodukt is samengesteld, en
+   - 1°. die het driedimensionaal patroon van de lagen weergeven waaruit het halfgeleiderprodukt is samengesteld, en
 
-- 2°. waarin elk beeld het patroon of een gedeelte van het patroon van een oppervlak van het halfgeleiderprodukt in enig stadium van zijn vervaardiging voorstelt;
+   - 2°. waarin elk beeld het patroon of een gedeelte van het patroon van een oppervlak van het halfgeleiderprodukt in enig stadium van zijn vervaardiging voorstelt;
 
-- c. **het bureau**: het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=1);
+- c. *het bureau*: het bureau, bedoeld in [artikel 1 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=1);
 
-- d. **het register:** het door het bureau beheerde register waarin depots ingevolge deze wet worden ingeschreven;
+- d. *het register:* het door het bureau beheerde register waarin depots ingevolge deze wet worden ingeschreven;
 
-- e. **exploiteren:** het verkopen, verhuren of het op andere wijze in het verkeer brengen van exemplaren van de topografie of van het halfgeleiderprodukt waarin de topografie is vervat, dan wel het aanbieden voor een van deze doeleinden. Voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=4&z=2020-02-01&g=2020-02-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=7&z=2020-02-01&g=2020-02-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=13&z=2020-02-01&g=2020-02-01) wordt onder exploitatie niet verstaan exploitatie die geschiedt onder de voorwaarde van vertrouwelijkheid, mits deze voorwaarde alleen geldt tussen de desbetreffende contractspartijen.
+- e. *exploiteren:* het verkopen, verhuren of het op andere wijze in het verkeer brengen van exemplaren van de topografie of van het halfgeleiderprodukt waarin de topografie is vervat, dan wel het aanbieden voor een van deze doeleinden. Voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=4&z=2020-02-01&g=2020-02-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=7&z=2020-02-01&g=2020-02-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=13&z=2020-02-01&g=2020-02-01) wordt onder exploitatie niet verstaan exploitatie die geschiedt onder de voorwaarde van vertrouwelijkheid, mits deze voorwaarde alleen geldt tussen de desbetreffende contractspartijen.
 
 ##### Artikel 2
 
@@ -90,7 +62,7 @@ Buiten het geval, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 6
 
-Is een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte door de houder van het uitsluitend recht of met diens toestemming in het verkeer gebracht, dan handelt de verkrijger niet in strijd met het uitsluitend recht op de topografie door ten aanzien van deze topografie of dit halfgeleiderprodukt de in [artikel 5, eerste lid, onder **c,**](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) genoemde handelingen te verrichten.
+Is een exemplaar van de topografie of het halfgeleiderprodukt waarin de topografie is vervat, in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte door de houder van het uitsluitend recht of met diens toestemming in het verkeer gebracht, dan handelt de verkrijger niet in strijd met het uitsluitend recht op de topografie door ten aanzien van deze topografie of dit halfgeleiderprodukt de in [artikel 5, eerste lid, onder *c,*](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) genoemde handelingen te verrichten.
 
 ##### Artikel 7
 
@@ -110,7 +82,7 @@ Het uitsluitend recht op een topografie vervalt, indien niet binnen uiterlijk tw
 
 Bij de aanvraag kan een exemplaar van het halfgeleiderprodukt worden overgelegd.
 
-2. Bij het depot kan de deposant aangeven welke delen van de in het vorige lid onder **c** genoemde stukken bedrijfsgeheimen bevatten en niet ter kennis van derden kunnen worden gebracht, mits de herkenbaarheid van de topografie gewaarborgd blijft.
+2. Bij het depot kan de deposant aangeven welke delen van de in het vorige lid onder *c* genoemde stukken bedrijfsgeheimen bevatten en niet ter kennis van derden kunnen worden gebracht, mits de herkenbaarheid van de topografie gewaarborgd blijft.
 
 3. De aanvraag en de bijgevoegde stukken zijn in het Nederlands gesteld.
 
@@ -170,11 +142,11 @@ Bij de aanvraag kan een exemplaar van het halfgeleiderprodukt worden overgelegd.
 
 ##### Artikel 16
 
-1. De verkrijger te goeder trouw van een exemplaar van een halfgeleiderprodukt waarin een topografie is vervat, dat noch door de houder van het uitsluitend recht noch met diens toestemming in het verkeer is gebracht, handelt niet in strijd met het uitsluitend recht op deze topografie, indien hij zonder toestemming van de houder daarvan ten aanzien van dit halfgeleiderprodukt de in [artikel 5, eerste lid, onder **c,**](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) bedoelde handelingen verricht.
+1. De verkrijger te goeder trouw van een exemplaar van een halfgeleiderprodukt waarin een topografie is vervat, dat noch door de houder van het uitsluitend recht noch met diens toestemming in het verkeer is gebracht, handelt niet in strijd met het uitsluitend recht op deze topografie, indien hij zonder toestemming van de houder daarvan ten aanzien van dit halfgeleiderprodukt de in [artikel 5, eerste lid, onder *c,*](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) bedoelde handelingen verricht.
 
-2. Zodra de in het vorige lid bedoelde verkrijger weet of behoort te weten, dat exemplaren van het halfgeleiderprodukt waarin de topografie is vervat, noch door de houder van het uitsluitend recht noch met diens toestemming in het verkeer zijn gebracht, is hij slechts bevoegd ten aanzien van de door hem te goeder trouw verkregen exemplaren van het halfgeleiderprodukt zonder toestemming van de houder van het uitsluitend recht de in [artikel 5, eerste lid, onder **c,**](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) bedoelde handelingen te verrichten, indien hij aan laatstgenoemde een billijke vergoeding betaalt.
+2. Zodra de in het vorige lid bedoelde verkrijger weet of behoort te weten, dat exemplaren van het halfgeleiderprodukt waarin de topografie is vervat, noch door de houder van het uitsluitend recht noch met diens toestemming in het verkeer zijn gebracht, is hij slechts bevoegd ten aanzien van de door hem te goeder trouw verkregen exemplaren van het halfgeleiderprodukt zonder toestemming van de houder van het uitsluitend recht de in [artikel 5, eerste lid, onder *c,*](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) bedoelde handelingen te verrichten, indien hij aan laatstgenoemde een billijke vergoeding betaalt.
 
-3. Is een exemplaar van een halfgeleiderprodukt als bedoeld in het tweede lid in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer gebracht met inachtneming van het bepaalde in voornoemd lid, dan handelt de latere verkrijger niet in strijd met het uitsluitend recht op de topografie door ten aanzien van dit halfgeleiderprodukt de in [artikel 5, eerste lid, onder **c,**](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) genoemde handelingen te verrichten.
+3. Is een exemplaar van een halfgeleiderprodukt als bedoeld in het tweede lid in een van de lid-Staten van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer gebracht met inachtneming van het bepaalde in voornoemd lid, dan handelt de latere verkrijger niet in strijd met het uitsluitend recht op de topografie door ten aanzien van dit halfgeleiderprodukt de in [artikel 5, eerste lid, onder *c,*](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=5&z=2020-02-01&g=2020-02-01) genoemde handelingen te verrichten.
 
 ##### Artikel 17
 
@@ -206,6 +178,10 @@ Bij de aanvraag kan een exemplaar van het halfgeleiderprodukt worden overgelegd.
 
 8. De rechter kan op vordering van de houder van het uitsluitend recht degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de inbreukmakende topografie of het halfgeleiderproduct waarin de inbreukmakende topografie is vervat, aan de houder mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende topografieën of halfgeleiderproducten waarin de inbreukmakende topografie is vervat in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze topografieën of halfgeleiderproducten of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
 
+##### Artikel 18a
+
+De rechter kan op vordering van de houder van het uitsluitend recht gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
+
 ##### Artikel 19
 
 1. De rechtbank Den Haag en de voorzieningenrechter van die rechtbank in kort geding zijn in eerste aanleg bij uitsluiting bevoegd voor alle vorderingen, ingesteld ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=17&z=2020-02-01&g=2020-02-01), alsmede voor alle vorderingen welke worden ingesteld door een ander dan de houder van het uitsluitend recht op een topografie ten einde te doen vaststellen dat bepaalde, door hem verrichte handelingen niet strijdig zijn met een uitsluitend recht op een topografie.
@@ -214,11 +190,11 @@ Bij de aanvraag kan een exemplaar van het halfgeleiderprodukt worden overgelegd.
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
@@ -259,11 +235,3 @@ Voor bescherming ingevolge deze wet komen in aanmerking:
 ##### Artikel 28
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18a
-
-De rechter kan op vordering van de houder van het uitsluitend recht gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

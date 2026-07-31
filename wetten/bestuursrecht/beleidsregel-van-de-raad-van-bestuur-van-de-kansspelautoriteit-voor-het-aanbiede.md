@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0052887"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Beleidsregel van de raad van bestuur van de Kansspelautoriteit voor het aanbieden van kansspelen op afstand zonder vergunning (01.403.400 Boetebeleidsregel illegaal aanbod kansspelen op afstand 2026)

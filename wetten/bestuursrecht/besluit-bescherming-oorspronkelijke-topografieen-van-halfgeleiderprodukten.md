@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 23 juli 1987, tot uitvoering van de wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten"
+citeertitel: "Besluit bescherming oorspronkelijke topografieën van halfgeleiderprodukten"
 identifier: "BWBR0004199"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004199"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "252663"
-version_id: "357702"
-internal_id: "C357701"
-label_id: "247674"
-dtd_version: "2.0"
-original_entry_into_force: "1987-11-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004199/2002-01-01/0"
-intitule_bron: "Stb.1987-486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-23"
-intitule_status: "goed"
-original_publication: "Stb.1987-486"
-original_signed_date: "1987-07-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-11-07"
-jci_1_3: "jci1.3:c:BWBR0004199&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0004199&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bescherming oorspronkelijke topografieën van halfgeleiderprodukten"
-signed_date: "1987-07-23"
-entry_into_force: "1987-11-07"
+publicatiedatum: 1987-11-07
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0004199"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 23 juli 1987, tot uitvoering van de wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten
-
-Op de voordracht van Onze Minister van Justitie van 1 juni 1987, Stafafdeling Wetgeving Privaatrecht, nr. 212/687, gedaan mede namens Onze Minister van Economische Zaken;
-
-Gelet op de artikelen 8, 9, 10, 11 en 23 van de Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten;
-
-De Raad van State gehoord (advies van 29 juni 1987, nr. W03.87.0239);
-
-Gezien het nader rapport van Onze Minister van Justitie van 9 juli 1987, Stafafdeling Wetgeving Privaatrecht, nr. 281/687, uitgebracht mede namens Onze Minister van Economische Zaken
-
-Hebben goedgevonden en verstaan:
 
 #### Algemene bepaling
 
@@ -132,11 +104,11 @@ Het Bureau zendt de houder en degene die het stuk heeft ingediend, indien hij ee
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -156,7 +128,7 @@ Indien het Bureau gesloten is op de laatste dag van een ingevolge de wet of dit 
 
 ##### Artikel 14
 
-1. Het Bureau maakt inschrijvingen in het register bekend in het blad "De Industriële Eigendom", bedoeld in [artikel 38 van het Octrooireglement 1921](onbekend), **Stb.** 1083.
+1. Het Bureau maakt inschrijvingen in het register bekend in het blad "De Industriële Eigendom", bedoeld in artikel 38 van het Octrooireglement 1921, *Stb.* 1083.
 
 2. Dit blad vermeldt daartoe alle gegevens die op grond van [de artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004199&hoofdstuk=II&artikel=4&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004199&hoofdstuk=II&artikel=5&z=2002-01-01&g=2002-01-01) zijn ingeschreven.
 
@@ -164,7 +136,7 @@ Indien het Bureau gesloten is op de laatste dag van een ingevolge de wet of dit 
 
 ##### Artikel 15
 
-De technische adviezen, bedoeld in artikel 23 van de wet worden verstrekt door een bijzondere afdeling van de Octrooiraad, die daartoe telkens door de centrale afdeling van die raad wordt samengesteld uit de gewone, buitengewone en plaatsvervangende leden van de Octrooiraad. De [artikelen 9](onbekend) tot en met [11 van het Octrooireglement 1921](onbekend), **Stb.** 1083, zijn van overeenkomstige toepassing.
+De technische adviezen, bedoeld in artikel 23 van de wet worden verstrekt door een bijzondere afdeling van de Octrooiraad, die daartoe telkens door de centrale afdeling van die raad wordt samengesteld uit de gewone, buitengewone en plaatsvervangende leden van de Octrooiraad. De artikelen 9 tot en met 11 van het Octrooireglement 1921, *Stb.* 1083, zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk V. Rechten
 
@@ -215,5 +187,3 @@ De technische adviezen, bedoeld in artikel 23 van de wet worden verstrekt door e
 ##### Artikel 18
 
 Dit besluit treedt in werking tegelijk met de Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

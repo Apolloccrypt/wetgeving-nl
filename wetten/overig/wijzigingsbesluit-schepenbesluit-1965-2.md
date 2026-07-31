@@ -1,64 +1,26 @@
 ---
 title: "Besluit van 13 november 1991, houdende wijziging van het Schepenbesluit 1965"
+citeertitel: "Wijzigingsbesluit Schepenbesluit 1965 (2)"
 identifier: "BWBR0005268"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "1992-01-01"
-last_updated: "1992-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005268"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "1487413"
-version_id: "2222432"
-internal_id: "C2222431"
-label_id: "1444514"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005268/1992-01-01/0"
-intitule_bron: "Stb.1991-640"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-13"
-intitule_status: "goed"
-original_publication: "Stb.1991-640"
-original_signed_date: "1991-11-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005268&z=1992-01-01&g=1992-01-01"
-jci_1_0: "1.0:c:BWBR0005268&g=1992-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingsbesluit Schepenbesluit 1965 (2)"
-signed_date: "1991-11-13"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1992-01-01
+status: geldig
+toestand: 1992-01-01
+bron: "https://wetten.overheid.nl/BWBR0005268"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 13 november 1991, houdende wijziging van het Schepenbesluit 1965
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 27 februari 1991. nr. S/J 31 313/91, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-Overwegende, dat
-
-alle zeegaande schepen, ongeacht lengte en tonnage moeten voldoen aan het bepaalde in het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) (**Stb.** 367);
-
-het Internationaal Verdrag betreffende de uitwatering van schepen 1966 (**Trb.** 1966, 275 en 1976, 104) geen specifieke regels geeft voor schepen met een lengte van minder dan 24 meter;
-
-het Internationaal Verdrag voor de beveiliging van mensenlevens op zee 1974 (**Trb.** 1976, 157 en 1977, 77) in het algemeen geen specifieke regels geeft voor schepen van minder dan 500 ton met uitzondering van passagiersschepen, gas- en chemicaliëntankers;
-
-Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5), 9 en [73 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=73) (**Stb.** 1932, 86);
-
-De Raad van State van het Koninkrijk gehoord (advies van 9 oktober 1991, nr. W09.91 0115/K);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 8 november 1991, nr. S/J 31 811/91, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III. Overgangsbepalingen
 
@@ -77,5 +39,3 @@ Bevat wijzigingen in andere regelgeving.
 ##### Artikel IV. Slotbepaling
 
 Dit besluit treedt in werking met ingang van 1 januari 1992.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.

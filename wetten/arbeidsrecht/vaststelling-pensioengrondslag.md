@@ -1,44 +1,17 @@
 ---
 title: "Vaststelling pensioengrondslag"
 identifier: "BWBR0004177"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1987-07-22"
-last_updated: "1987-07-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004177"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3760963"
-version_id: "5543812"
-internal_id: "C5736901"
-label_id: "3740694"
-dtd_version: "2.0"
-original_entry_into_force: "1987-07-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004177/1987-07-22/0"
-intitule_bron: "Stcrt.1987-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-06-26"
-intitule_published: "1987-07-21"
-intitule_in_force: "1987-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-137"
-original_signed_date: "1987-06-26"
-original_published_date: "1987-07-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-07-22"
-jci_1_3: "jci1.3:c:BWBR0004177&z=1987-07-22&g=1987-07-22"
-jci_1_0: "1.0:c:BWBR0004177&g=1987-07-22"
-citeertitel_status: "officieel"
-signed_date: "1987-06-26"
-entry_into_force: "1987-07-22"
+publicatiedatum: 1987-07-22
+laatste_update: 1987-07-22
+status: geldig
+toestand: 1987-07-22
+bron: "https://wetten.overheid.nl/BWBR0004177"
+opgehaald: 2026-07-31
 ---
+
 # Vaststelling pensioengrondslag
-
-Gelet op [artikel 10, vijfde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=10) (Stb. 1986, 360);
-
-Gehoord de Buitengewone Pensioenraad, de Commissie Indisch Verzet en de Stichting Pelita;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,48 +1,37 @@
 ---
 title: "Instelling Gemeenschappelijke Raadgevende Commissie"
 identifier: "BWBR0005091"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2004-07-15"
-last_updated: "2004-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005091"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4266363"
-version_id: "6029792"
-internal_id: "C6233181"
-label_id: "4244934"
-dtd_version: "2.0"
-original_entry_into_force: "1991-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005091/2004-07-15/0"
-intitule_bron: "Stcrt.1991-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-05-24"
-intitule_published: "1991-05-27"
-intitule_in_force: "1991-05-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-99"
-original_signed_date: "1991-05-24"
-original_published_date: "1991-05-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-05-29"
-jci_1_3: "jci1.3:c:BWBR0005091&z=2004-07-15&g=2004-07-15"
-jci_1_0: "1.0:c:BWBR0005091&g=2004-07-15"
-citeertitel_status: "officieel"
-signed_date: "1991-05-24"
-entry_into_force: "1991-05-29"
+publicatiedatum: 1991-05-29
+laatste_update: 2004-07-15
+status: geldig
+toestand: 2004-07-15
+bron: "https://wetten.overheid.nl/BWBR0005091"
+opgehaald: 2026-07-31
 ---
+
 # Instelling Gemeenschappelijke Raadgevende Commissie
-
-Handelende in overeenstemming met de directeur-generaal van het Europees Ruimte Agentschap;
-
-Overwegende, dat het wenselijk is het functioneren van de Gemeenschappelijke Raadgevende Commissie, bedoeld in artikel 12 van de op 2 februari 1967 gesloten overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor Ruimteonderzoek, van een formele grondslag te voorzien;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+ESA:
+
+het Europees Ruimte Agentschap (European Space Agency);
+
+ESTEC:
+
+het Europese Centrum voor ruimtevaarttechniek (European Space Research and Technology Centre);
+
+IWWON:
+
+Interdepartementale Werkgroep Werving en Opvang van internationale organisaties in Nederland;
+
+commissie;
+
+de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005091&artikel=2&z=2004-07-15&g=2004-07-15) bedoelde commissie.
 
 ##### Artikel 2
 
@@ -124,7 +113,7 @@ De commissie brengt ten minste eenmaal per jaar verslag uit over de betrekkingen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -135,5 +124,3 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de commissie gesch
 1. Dit besluit wordt bekendgemaakt in de Staatscourant.
 
 2. Het treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer.

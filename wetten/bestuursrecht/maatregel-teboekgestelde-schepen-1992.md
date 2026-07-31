@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 6 november 1991, houdende vaststelling van de Maatregel teboekgestelde schepen 1992"
+citeertitel: "Maatregel teboekgestelde schepen 1992"
 identifier: "BWBR0005260"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005260"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "471393"
-version_id: "695682"
-internal_id: "C695681"
-label_id: "458614"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005260/2025-07-01/0"
-intitule_bron: "Stb.1991-572"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-06"
-intitule_status: "goed"
-original_publication: "Stb.1991-572"
-original_signed_date: "1991-11-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005260&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0005260&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Maatregel teboekgestelde schepen 1992"
-signed_date: "1991-11-06"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0005260"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 6 november 1991, houdende vaststelling van de Maatregel teboekgestelde schepen 1992
-
-Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 24 januari 1991, nr. MJZ24191043, Centrale Directie Juridische Zaken, afdeling Wetgeving, gedaan mede namens Onze Ministers van Justitie en van Verkeer en Waterstaat;
-
-Overwegende, dat het, in verband met de inwerkingtreding van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) (**Stb.** 1991, 570) en de Aanpassingswet Boek 8, noodzakelijk is om de Maatregel teboekgestelde schepen 1990 (**Stb.** 500) te vervangen door een nieuwe regeling, mede strekkend tot uitvoering van de te Genève gesloten Overeenkomst van 25 januari 1965 inzake inschrijving van binnenschepen, met Protocollen (**Trb.** 1966, 228);
-
-Gelet op de artikelen 231 en 841 van Boek 8 van het Burgerlijk Wetboek en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4), eerste lid, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=10), derde lid, en [21, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=21);
-
-De Raad van State gehoord, advies van 13 augustus 1991, no. W08.91.0047;
-
-Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 oktober 1991, nr. MJZ29o91013, Centrale Directie Juridische Zaken, afdeling Wetgeving, uitgebracht mede namens Onze Ministers van Justitie en van Verkeer en Waterstaat;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -66,6 +36,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. vlagregister: vlagregister als bedoeld in de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148).
 
+##### Artikel 1a
+
+Dit besluit is mede gebaseerd op [artikel 7g van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7g).
+
 ##### Artikel 2
 
 De verplichtingen welke krachtens dit besluit rusten op de eigenaar van een schip of van een schip in aanbouw, rusten, indien het schip, onderscheidenlijk het schip in aanbouw toebehoort aan meer personen, aan een vennootschap onder firma, aan een commanditaire vennootschap of aan een rechtspersoon, mede op iedere deelgenoot, beherende vennoot of bestuurder en, indien toepassing is gegeven aan artikel 163 van Boek 8 van het Burgerlijk Wetboek, op de boekhouder, bedoeld in dat artikel.
@@ -88,7 +62,7 @@ Indien een schip tot een andere rubriek dan die waarin het te boek staat gaat be
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -138,7 +112,7 @@ Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid
 
 ### Hoofdstuk 3. Teboekstelling
 
-## Titel 1. Schepen in aanbouw
+### Titel 1. Schepen in aanbouw
 
 ##### Artikel 12
 
@@ -156,7 +130,7 @@ Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid
 
 3. Hij, te wiens name een binnenschip in aanbouw te boek staat, is verplicht binnen drie maanden na de afbouw aan de bewaarder, mede te delen of het afgebouwde schip voldoet aan ten minste één der in [artikel 784, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) te dien aanzien gestelde voorwaarden. Indien het schip aan ten minste één van deze voorwaarden voldoet, is hij verplicht om een verzoek ter inschrijving aan te bieden inhoudende de teboekstelling als afgebouwd schip. Op dit verzoek zijn de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=17&z=2025-07-01&g=2025-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=18&z=2025-07-01&g=2025-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=24&z=2025-07-01&g=2025-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=3&artikel=26&z=2025-07-01&g=2025-07-01) van toepassing. Het verzoek dient tevens in te houden de verklaring, bedoeld in [artikel 784, vijfde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784). Wanneer één of meer van de over te leggen stukken ontbreken, onvolledig zijn of niet met elkaar of met de aangeboden verklaring overeenstemmen, of wanneer hij mededeelt dat het afgebouwde binnenschip niet aan ten minste één der bovengenoemde voorwaarden voldoet, wordt de teboekstelling met inachtneming van de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=2&artikel=30&z=2025-07-01&g=2025-07-01) doorgehaald.
 
-## Titel 2. Overige schepen
+### Titel 2. Overige schepen
 
 ##### Artikel 14
 
@@ -232,13 +206,13 @@ Onze Minister stelt de vorm vast van de in de[artikel 9](https://wetten.overheid
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
-## Titel 3. Brandmerk en overige kentekens
+### Titel 3. Brandmerk en overige kentekens
 
 ##### Artikel 22
 
@@ -258,7 +232,7 @@ Vervallen
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
@@ -288,11 +262,11 @@ Het brandmerk dat dient ter aanduiding van een schip in aanbouw, wordt ook gebru
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
-## Titel 4. Doorhaling van de teboekstelling
+### Titel 4. Doorhaling van de teboekstelling
 
-### Afdeling 1. Zee- en zeevissersschepen
+#### Afdeling 1. Zee- en zeevissersschepen
 
 ##### Artikel 28
 
@@ -310,7 +284,7 @@ Vervallen
 
 Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboekstelling van een zeeschip of een zeevissersschip, geeft de bewaarder hieraan slechts gevolg, indien geen inschrijvingen of voorlopige aantekeningen ten gunste van derden betreffende het schip bestaan of, indien zodanige inschrijvingen of voorlopige aantekeningen wel bestaan, geen dezer derden zich tegen doorhaling verzet.
 
-### Afdeling 2. Binnenschepen
+#### Afdeling 2. Binnenschepen
 
 ##### Artikel 30
 
@@ -342,7 +316,7 @@ Wanneer de bewaarder blijkt van enige omstandigheid die doorhaling van de teboek
 
 Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboekstelling van een binnenschip, is [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=4&afdeling=1&artikel=29&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-## Titel 5. Kennisgeving inzake teboekstelling
+### Titel 5. Kennisgeving inzake teboekstelling
 
 ##### Artikel 34
 
@@ -356,7 +330,7 @@ Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboe
 
 5. In geval van overdracht of doorhaling van de teboekstelling van een zeeschip of van overdracht van aandelen in een zeeschip, zendt de bewaarder daaromtrent een bericht onder vermelding van het brandmerk en het NSI-nummer, aan Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister.
 
-## Titel 6. Wijziging
+### Titel 6. Wijziging
 
 ##### Artikel 35
 
@@ -366,11 +340,29 @@ Wanneer een verzoek of aangifte is gedaan met het oog op doorhaling van de teboe
 
 3. Het tweede lid is van overeenkomstige toepassing in geval van een wijziging door de bewaarder in de registratie voor schepen van informatie als bedoeld in het eerste lid.
 
-## Titel 7. Overige bepaling
+##### Artikel 35a
+
+1. Indien de Dienst een bericht ontvangt van Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister, inzake een wijziging als bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=11), neemt de Dienst een beslissing omtrent wijziging van het betreffende gegeven.
+
+2. Indien de Dienst de beslissing, bedoeld in het eerste lid, niet binnen één dag na ontvangst van die melding heeft genomen, tekent de Dienst in de registratie voor schepen aan dat het betreffende gegeven «in onderzoek» is.
+
+3. De Dienst verwijdert de aantekening dat een gegeven «in onderzoek» is uit de registratie voor schepen tegelijk met de verwerking van de wijziging in die registratie of, indien een bericht als bedoeld in het eerste lid niet tot wijziging leidt, met de beslissing om het gegeven niet te wijzigen.
+
+4. De beslissing, bedoeld in het tweede en derde lid, is een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+
+5. De Dienst zendt Onze Minister, genoemd in het eerste lid, onverwijld een bericht over een handeling of beslissing als bedoeld in het tweede of derde lid.
+
+6. De Dienst doet onverwijld schriftelijk mededeling aan de belanghebbende van zijn beslissing op grond van het tweede of derde lid, indien die beslissing heeft geleid tot een wijziging van het betreffende gegeven.
+
+### Titel 7. Overige bepalingen
 
 ##### Artikel 36
 
 Onze Minister stelt de vorm vast van de in dit hoofdstuk voorziene verzoeken, verklaringen, evenwel met uitzondering van de in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=14&z=2025-07-01&g=2025-07-01), bedoelde verklaring van de bevoegde autoriteit, en aangiften met dien verstande, dat het bestuur van de Dienst de vorm van de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=6&artikel=35&z=2025-07-01&g=2025-07-01) bedoelde aangifte vaststelt.
+
+##### Artikel 36a
+
+Het NSI-nummer wordt opgenomen in de registratie voor schepen, bedoeld in [artikel 85, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85).
 
 ### Hoofdstuk 4. Inschrijvingsvereisten voor akten van levering
 
@@ -394,11 +386,11 @@ Onze Minister stelt de vorm vast van de in dit hoofdstuk voorziene verzoeken, ve
 
 Onverminderd het bepaalde in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=24) wordt ter inschrijving van een akte van levering, ingeval het de levering van een te boek staand zeevissersschip of van aandelen daarin betreft, overgelegd bij het daartoe ter inschrijving aangeboden stuk het bewijs, genoemd in [artikel 16, eerste lid, onder d.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&hoofdstuk=3&titeldeel=2&artikel=16&z=2025-07-01&g=2025-07-01) Dit bewijs wordt na vergelijking met het stuk waarvan de inschrijving verlangd wordt, aan de aanbieder teruggegeven.
 
-### Hoofdstuk 4. Inschrijvingsvereisten voor akten van levering
+### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
@@ -406,54 +398,4 @@ Dit besluit treedt in werking met ingang van 1 januari 1992.
 
 ##### Artikel 41
 
-Dit besluit kan worden aangehaald als: Maatregel teboekgestelde schepen 1992.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
-
-##### Artikel 1a
-
-Dit besluit is mede gebaseerd op [artikel 7g van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7g).
-
-### Hoofdstuk 2. Certificaten omtrent binnenschepen
-
-### Hoofdstuk 3. Teboekstelling
-
-## Titel 1. Schepen in aanbouw
-
-## Titel 2. Overige schepen
-
-## Titel 3. Brandmerk en overige kentekens
-
-## Titel 4. Doorhaling van de teboekstelling
-
-### Afdeling 1. Zee- en zeevissersschepen
-
-### Afdeling 2. Binnenschepen
-
-## Titel 5. Kennisgeving inzake teboekstelling
-
-## Titel 6. Wijziging
-
-##### Artikel 35a
-
-1. Indien de Dienst een bericht ontvangt van Onze Minister van Infrastructuur en Waterstaat als beheerder van het vlagregister, inzake een wijziging als bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0048148&artikel=11), neemt de Dienst een beslissing omtrent wijziging van het betreffende gegeven.
-
-2. Indien de Dienst de beslissing, bedoeld in het eerste lid, niet binnen één dag na ontvangst van die melding heeft genomen, tekent de Dienst in de registratie voor schepen aan dat het betreffende gegeven «in onderzoek» is.
-
-3. De Dienst verwijdert de aantekening dat een gegeven «in onderzoek» is uit de registratie voor schepen tegelijk met de verwerking van de wijziging in die registratie of, indien een bericht als bedoeld in het eerste lid niet tot wijziging leidt, met de beslissing om het gegeven niet te wijzigen.
-
-4. De beslissing, bedoeld in het tweede en derde lid, is een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
-
-5. De Dienst zendt Onze Minister, genoemd in het eerste lid, onverwijld een bericht over een handeling of beslissing als bedoeld in het tweede of derde lid.
-
-6. De Dienst doet onverwijld schriftelijk mededeling aan de belanghebbende van zijn beslissing op grond van het tweede of derde lid, indien die beslissing heeft geleid tot een wijziging van het betreffende gegeven.
-
-## Titel 7. Overige bepalingen
-
-##### Artikel 36a
-
-Het NSI-nummer wordt opgenomen in de registratie voor schepen, bedoeld in [artikel 85, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85).
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+Dit besluit kan worden aangehaald als: [Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/BWBR0005260).

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 30 augustus 1991, houdende instelling van een gemengde ambtelijke werkgroep met als taak de voorbereiding van de vereenvoudiging en modernisering van het Statuut voor het Koninkrijk der Nederlanden"
+citeertitel: "Instellingsbesluit gemengde ambtelijke werkgroep modernisering Statuut voor het Koninkrijk der Nederlanden"
 identifier: "BWBR0005188"
-country: "nl"
-rank: "kb"
-publication_date: "1991-11-01"
-last_updated: "1991-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005188"
+categorie: "Staatsinrichting en bestuur"
 soort: "KB"
-stam_id: "398833"
-version_id: "586472"
-internal_id: "C586471"
-label_id: "388594"
-dtd_version: "2.0"
-original_entry_into_force: "1991-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005188/1991-11-01/0"
-intitule_bron: "Stb.1991-454"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-08-30"
-intitule_status: "goed"
-original_publication: "Stb.1991-454"
-original_signed_date: "1991-08-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-11-01"
-jci_1_3: "jci1.3:c:BWBR0005188&z=1991-11-01&g=1991-11-01"
-jci_1_0: "1.0:c:BWBR0005188&g=1991-11-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit gemengde ambtelijke werkgroep modernisering Statuut voor het Koninkrijk der Nederlanden"
-signed_date: "1991-08-30"
-entry_into_force: "1991-11-01"
+publicatiedatum: 1991-11-01
+laatste_update: 1991-11-01
+status: geldig
+toestand: 1991-11-01
+bron: "https://wetten.overheid.nl/BWBR0005188"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 30 augustus 1991, houdende instelling van een gemengde ambtelijke werkgroep met als taak de voorbereiding van de vereenvoudiging en modernisering van het Statuut voor het Koninkrijk der Nederlanden
-
-Op de voordracht van Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken van 28 augustus 1991, nr 31795;
-
-Overwegende dat in het in mei 1991 te 's-Gravenhage gehouden overleg tussen de drie landen van het Koninkrijk is afgesproken een gemengde ambtelijke werkgroep in te stellen met als taak het voorbereiden van voorstellen tot vereenvoudiging en modernisering van het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
-
-Artikel 10 van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -80,6 +54,4 @@ Elk der landen draagt de kosten die door de door of op voorstel van hen aangewez
 
 De leden van de werkgroep en een ieder die bij de werkzaamheden van de werkgroep wordt betrokken en daarbij de beschikking krijgt over gegevens waarvan hij of zij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem of haar tot bekendmaking verplicht of uit zijn of haar taak bij de uitvoering van de werkzaamheden van de werkgroep de noodzaak tot bekendmaking voortvloeit.
 
-Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting zal worden geplaatst in het **Staatsblad**, het **Publicatieblad van de Nederlandse Antillen** en het **Afkondigingsblad van Aruba** en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer, de beide Kamers der Staten-Generaal, de Staten van de Nederlandse Antillen, de Staten van Aruba en aan de eilandsraden van de eilandgebieden Bonaire, Curaçao, Saba, Sint Eustatius en Sint Maarten.
-
-Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting zal worden geplaatst in het **Staatsblad**, het **Publicatieblad van de Nederlandse Antillen** en het **Afkondigingsblad van Aruba** en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer, de beide Kamers der Staten-Generaal, de Staten van de Nederlandse Antillen, de Staten van Aruba en aan de eilandsraden van de eilandgebieden Bonaire, Curaçao, Saba, Sint Eustatius en Sint Maarten.
+Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting zal worden geplaatst in het *Staatsblad*, het *Publicatieblad van de Nederlandse Antillen* en het *Afkondigingsblad van Aruba* en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer, de beide Kamers der Staten-Generaal, de Staten van de Nederlandse Antillen, de Staten van Aruba en aan de eilandsraden van de eilandgebieden Bonaire, Curaçao, Saba, Sint Eustatius en Sint Maarten.

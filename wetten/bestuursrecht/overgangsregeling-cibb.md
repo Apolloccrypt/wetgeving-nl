@@ -1,54 +1,24 @@
 ---
-title: "Besluit van 2 januari 1990, houdende wijziging van het Rechtspositiebesluit onderwijspersoneel (Stb. 1985, 110) en vaststelling van overgangsmaatregelen bij de totstandkoming van de instelling \"het Centrum voor de Innovatie van Beroepsonderwijs Bedrijfsleven\""
+title: "Besluit van 2 januari 1990, houdende wijziging van het Rechtspositiebesluit onderwijspersoneel (Stb. 1985, 110) en vaststelling van overgangsmaatregelen bij de totstandkoming van de instelling 'het Centrum voor de Innovatie van Beroepsonderwijs Bedrijfsleven'"
+citeertitel: "Overgangsregeling CIBB"
 identifier: "BWBR0004686"
-country: "nl"
-rank: "amvb"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004686"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "668433"
-version_id: "971742"
-internal_id: "C971741"
-label_id: "648064"
-dtd_version: "2.0"
-original_entry_into_force: "1989-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004686/1996-01-01/0"
-intitule_bron: "Stb.1990-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-01-02"
-intitule_status: "goed"
-original_publication: "Stb.1990-41"
-original_signed_date: "1990-01-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-04-01"
-jci_1_3: "jci1.3:c:BWBR0004686&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0004686&g=1996-01-01"
-citeertitel_status: "officieel"
-short_title: "Overgangsregeling CIBB"
-signed_date: "1990-01-02"
-entry_into_force: "1989-04-01"
+publicatiedatum: 1989-04-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0004686"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 2 januari 1990, houdende wijziging van het Rechtspositiebesluit onderwijspersoneel (Stb. 1985, 110) en vaststelling van overgangsmaatregelen bij de totstandkoming van de instelling "het Centrum voor de Innovatie van Beroepsonderwijs Bedrijfsleven"
-
-Op de voordracht van Onze Minister van Onderwijs en Wetenschappen van 31 maart 1989, nr. 156011, directie Arbeidsvoorwaardenbeleid;
-
-Overwegende, dat het wenselijk is te komen tot vaststelling van de rechtspositie van het personeel dat werkzaam is bij de landelijke instelling voor de ondersteuning van de volwasseneneducatie het "Centrum voor de Innovatie van Beroepsonderwijs Bedrijfsleven" (CIBB) en tot vaststelling van overgangsmaatregelen voor de overgang van personeel naar het CIBB vanuit instellingen waaraan de werkzaamheden in verband met de totstandkoming van het CIBB worden beëindigd;
-
-Gelet op artikel 9 van de Kaderwet volwasseneneducatie (**Stb.** 1985, 532);
-
-De Raad van State gehoord (advies van 29 mei 1989, nr. W05.89 0171);
-
-Gezien het nader rapport van Onze Minister van Onderwijs en Wetenschappen van 19 december 1989, nr. 156805, directie Arbeidsvoorwaardenbeleid;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I. Overgangsregeling CIBB
 
 ##### Artikel 1. Begripsbepalingen
 
-1. In deze regeling zijn de begripsbepalingen van het [Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) (**Stb.** 1985, 110) van overeenkomstige toepassing, behoudens het bepaalde in het tweede lid.
+1. In deze regeling zijn de begripsbepalingen van het [Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) (*Stb.* 1985, 110) van overeenkomstige toepassing, behoudens het bepaalde in het tweede lid.
 
 2. In deze regeling wordt verstaan onder:
 
@@ -56,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 - b. "instelling": de landelijke instelling voor de ondersteuning van de volwasseneneducatie het "Centrum voor de Innovatie voor Beroepsonderwijs Bedrijfsleven";
 
-- c. "instituut": de instelling het "Pedagogisch Centrum Beroepsonderwijs Bedrijfsleven" dan wel de instelling het "Centraal Overleg Beroepsbegeleidend Onderwijs" waaraan activiteiten die vergelijkbaar zijn met werkzaamheden voor de ondersteuning van de volwasseneneducatie op 1 april 1989 worden beëindigd in verband met de totstandkoming van de instelling, bedoeld onder **b**;
+- c. "instituut": de instelling het "Pedagogisch Centrum Beroepsonderwijs Bedrijfsleven" dan wel de instelling het "Centraal Overleg Beroepsbegeleidend Onderwijs" waaraan activiteiten die vergelijkbaar zijn met werkzaamheden voor de ondersteuning van de volwasseneneducatie op 1 april 1989 worden beëindigd in verband met de totstandkoming van de instelling, bedoeld onder *b*;
 
 - d. "belanghebbende": degene die is benoemd bij een instituut en zonder onderbreking wordt benoemd bij de instelling;
 
@@ -135,5 +105,3 @@ Ten aanzien van het personeel dat per 1 april 1989 vanuit de instellingen "Pedag
 ##### Artikel III
 
 Dit besluit treedt in werking op een nader bij Koninklijk Besluit te bepalen datum waarbij kan worden geregeld dat het Koninklijk Besluit terugwerkt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

@@ -1,42 +1,17 @@
 ---
 title: "Machtiging tot verschaffen gegevens uit herkenningsdienstregistraties"
 identifier: "BWBR0004587"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1989-07-07"
-last_updated: "1989-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004587"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4180693"
-version_id: "5933412"
-internal_id: "C6136251"
-label_id: "4159454"
-dtd_version: "2.0"
-original_entry_into_force: "1989-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004587/1989-07-07/0"
-intitule_bron: "Stcrt.1989-150"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-07-06"
-intitule_published: "1989-08-04"
-intitule_in_force: "1989-08-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-150"
-original_signed_date: "1989-07-06"
-original_published_date: "1989-08-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-07-07"
-jci_1_3: "jci1.3:c:BWBR0004587&z=1989-07-07&g=1989-07-07"
-jci_1_0: "1.0:c:BWBR0004587&g=1989-07-07"
-citeertitel_status: "officieel"
-signed_date: "1989-07-06"
-entry_into_force: "1989-07-07"
+publicatiedatum: 1989-07-07
+laatste_update: 1989-07-07
+status: geldig
+toestand: 1989-07-07
+bron: "https://wetten.overheid.nl/BWBR0004587"
+opgehaald: 2026-07-31
 ---
+
 # Machtiging tot verschaffen gegevens uit herkenningsdienstregistraties
-
-Gelet op artikel 25, eerste lid onder a, van het Reglement geautomatiseerde regionale herkenningsdienstregistraties (Stcrt. 1988, nr. 154);
-
-Besluit:
 
 ##### Artikel 1
 

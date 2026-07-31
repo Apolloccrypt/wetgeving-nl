@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering van Poolse belasting op dividenden, interest en royalty's uit Poolse bron, genoten door Inwoners van Nederland"
+citeertitel: "Poolse uitvoeringsvoorschriften belastingovereenkomst Nederland-Polen"
 identifier: "BWBR0004934"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-01-01"
-last_updated: "1991-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004934"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3737643"
-version_id: "5520512"
-internal_id: "C5713601"
-label_id: "3717394"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004934/1991-01-01/0"
-intitule_bron: "Stcrt.1990-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-12-18"
-intitule_published: "1990-12-27"
-intitule_in_force: "1990-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-251"
-original_signed_date: "1990-12-18"
-original_published_date: "1990-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004934&z=1991-01-01&g=1991-01-01"
-jci_1_0: "1.0:c:BWBR0004934&g=1991-01-01"
-citeertitel_status: "officieel"
-short_title: "Poolse uitvoeringsvoorschriften belastingovereenkomst Nederland-Polen"
-signed_date: "1990-12-18"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 1991-01-01
+status: geldig
+toestand: 1991-01-01
+bron: "https://wetten.overheid.nl/BWBR0004934"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inzake vermindering van Poolse belasting op dividenden, interest en royalty's uit Poolse bron, genoten door Inwoners van Nederland
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-Besluit:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -65,15 +40,15 @@ Ter uitvoering van artikel 1 is van Poolse zijde de volgende regeling getroffen:
 
 - a. Dividenden, interest en royalty's
 
-- 1. Poolse belasting Volgens de huidige Poolse wetgeving zijn dividenden, interest en royalty's uit bronnen in Polen die door niet-inwoners worden verkregen, onderworpen aan een bronbelasting van 30% van het brutobedrag van die inkomsten.
+   - 1. Poolse belasting Volgens de huidige Poolse wetgeving zijn dividenden, interest en royalty's uit bronnen in Polen die door niet-inwoners worden verkregen, onderworpen aan een bronbelasting van 30% van het brutobedrag van die inkomsten.
 
-- 2. Wijze waarop de vermindering of vrijstelling wordt verleend De in artikel 1 vermelde vrijstellingen en verminderingen worden in Polen verleend door teruggaaf van hetgeen te veel is geheven. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier vastgesteld. De betrokken inwoner van Nederland moet zich met een verzoek om teruggaaf wenden tot: Ministerstwo Finansów, Departament Podatków i Oplat, Swietokryska 12, Warszawa – Poland In het verzoek om teruggaaf, gesteld in de Engelse of Duitse taal, dient de betrokken inwoner van Nederland te vermelden:
+   - 2. Wijze waarop de vermindering of vrijstelling wordt verleend De in artikel 1 vermelde vrijstellingen en verminderingen worden in Polen verleend door teruggaaf van hetgeen te veel is geheven. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier vastgesteld. De betrokken inwoner van Nederland moet zich met een verzoek om teruggaaf wenden tot: Ministerstwo Finansów, Departament Podatków i Oplat, Swietokryska 12, Warszawa – Poland In het verzoek om teruggaaf, gesteld in de Engelse of Duitse taal, dient de betrokken inwoner van Nederland te vermelden:
 
-- a. de naam en het adres van de betalende maatschappij;
+      - a. de naam en het adres van de betalende maatschappij;
 
-- b. de datum(s) van betaalbaarstelling van de dividenden, interest of royalty's, de brutobedragen van de dividenden, interest of royalty's en de bedragen van de daarop ingehouden Poolse belasting In het geval als bedoeld in onderdeel VI van het Protocol dient het verzoek om teruggaaf vergezeld te gaan van een in dat onderdeel bedoelde verklaring.
+      - b. de datum(s) van betaalbaarstelling van de dividenden, interest of royalty's, de brutobedragen van de dividenden, interest of royalty's en de bedragen van de daarop ingehouden Poolse belasting In het geval als bedoeld in onderdeel VI van het Protocol dient het verzoek om teruggaaf vergezeld te gaan van een in dat onderdeel bedoelde verklaring.
 
-- 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel IV van het Protocol).
+   - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel IV van het Protocol).
 
 - b. Woonplaatsverklaring De in Nederland wonende gerechtigde tot de dividenden, interest of royalty's behoeft geen woonplaatsverklaring over te leggen. In het geval dat deze verklaring toch zou worden gevraagd, kan de desbetreffende inwoner van Nederland zich wenden tot het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, met het verzoek de gevraagde woonplaatsverklaring af te geven. Verklaard dient te worden dat de gerechtigde tot de dividenden, interest of royalty's inwoner van Nederland is in de zin van artikel 4 van de Nederlands-Poolse Overeenkomst tot het vermijden van dubbele belasting. Aangenomen moet worden dat de over te leggen woonplaatsverklaring niet in de Nederlandse taal zal kunnen worden gesteld, doch dat een verklaring in de Engelse of Duitse taal voor de Poolse autoriteiten aanvaardbaar zal zijn. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ............. certifies that ..... .......... ............. .................. (naam en adres van de verzoeker) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Poland for the avoidance of double taxation De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 

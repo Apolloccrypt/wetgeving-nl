@@ -1,40 +1,17 @@
 ---
 title: "Besluit voeren van de vlag der Koninklijke marine-reserve"
 identifier: "BWBR0005195"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-09-10"
-last_updated: "1991-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005195"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3704823"
-version_id: "5487732"
-internal_id: "C5680821"
-label_id: "3684614"
-dtd_version: "2.0"
-original_entry_into_force: "1991-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005195/1991-09-10/0"
-intitule_bron: "Stcrt.1992-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-09-10"
-intitule_published: "1992-06-17"
-intitule_in_force: "1992-06-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-114"
-original_signed_date: "1991-09-10"
-original_published_date: "1992-06-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-09-10"
-jci_1_3: "jci1.3:c:BWBR0005195&z=1991-09-10&g=1991-09-10"
-jci_1_0: "1.0:c:BWBR0005195&g=1991-09-10"
-citeertitel_status: "officieel"
-signed_date: "1991-09-10"
-entry_into_force: "1991-09-10"
+publicatiedatum: 1991-09-10
+laatste_update: 1991-09-10
+status: geldig
+toestand: 1991-09-10
+bron: "https://wetten.overheid.nl/BWBR0005195"
+opgehaald: 2026-07-31
 ---
-# Besluit voeren van de vlag der Koninklijke marine-reserve
 
-Besluit:
+# Besluit voeren van de vlag der Koninklijke marine-reserve
 
 ##### Artikel 1
 

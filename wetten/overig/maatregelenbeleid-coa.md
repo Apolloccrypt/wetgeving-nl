@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-21
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052486"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Maatregelenbeleid COA

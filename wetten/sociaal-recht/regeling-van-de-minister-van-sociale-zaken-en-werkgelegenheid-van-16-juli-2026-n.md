@@ -9,7 +9,7 @@ laatste_update: 2026-07-25
 status: geldig
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052895"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 juli 2026, nummer 2026-0000250538 houdende de inrichting van de directie Informatievoorziening, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2026)

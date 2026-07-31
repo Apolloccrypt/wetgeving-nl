@@ -1,48 +1,41 @@
 ---
 title: "Privacyreglement Algemene zaaksregistratie raden voor de kinderbescherming"
 identifier: "BWBR0004801"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-07-01"
-last_updated: "1990-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004801"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3738423"
-version_id: "5521462"
-internal_id: "C5714551"
-label_id: "3718344"
-dtd_version: "2.0"
-original_entry_into_force: "1990-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004801/1990-07-01/0"
-intitule_bron: "Stcrt.1990-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-06-25"
-intitule_published: "1990-06-28"
-intitule_in_force: "1990-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-123"
-original_signed_date: "1990-06-25"
-original_published_date: "1990-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-07-01"
-jci_1_3: "jci1.3:c:BWBR0004801&z=1990-07-01&g=1990-07-01"
-jci_1_0: "1.0:c:BWBR0004801&g=1990-07-01"
-citeertitel_status: "officieel"
-signed_date: "1990-06-25"
-entry_into_force: "1990-07-01"
+publicatiedatum: 1990-07-01
+laatste_update: 1990-07-01
+status: geldig
+toestand: 1990-07-01
+bron: "https://wetten.overheid.nl/BWBR0004801"
+opgehaald: 2026-07-31
 ---
+
 # Privacyreglement Algemene zaaksregistratie raden voor de kinderbescherming
-
-Overwegende dat, ingevolge de artikelen 19, 20 en 22 van de Wet persoonsregistraties (Stb. 1988, 665) een reglement dient te worden vastgesteld voor de ingangskaart- en zaaksadministratie bij de raden voor de kinderbescherming;
-
-Besluit het volgende reglement vast te stellen:
 
 #### Par. 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
+
+a.
+
+de registratie:
+
+de ingangskaart- en algemene zaaksregistratie bij een raad voor de kinderbescherming;
+
+b.
+
+houder:
+
+de raad voor de kinderbescherming;
+
+c.
+
+beheerder:
+
+de directeur van het bureau van de raad voor de kinderbescherming;
 
 ##### Artikel 2. Doelstelling
 
@@ -70,9 +63,9 @@ In de registratie worden uitsluitend persoonsgegevens opgenomen over:
 
 - c. personen, die bij rechterlijke beslissing zijn verplicht tot een bijdrage:
 
-- 1. in de kosten van verzorging en opvoeding dan wel in de kosten van levensonderhoud en studie;
+   - 1. in de kosten van verzorging en opvoeding dan wel in de kosten van levensonderhoud en studie;
 
-- 2. ter bestrijding van de kosten van een maatregel van kinderbescherming;
+   - 2. ter bestrijding van de kosten van een maatregel van kinderbescherming;
 
 - d. aspirant-pleegouders.
 

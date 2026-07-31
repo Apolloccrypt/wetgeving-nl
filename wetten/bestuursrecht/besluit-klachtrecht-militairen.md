@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 25 juni 1991, houdende regelen inzake het klachtrecht voor militairen"
+citeertitel: "Besluit klachtrecht militairen"
 identifier: "BWBR0005120"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-09-13"
-last_updated: "2002-09-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005120"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "664073"
-version_id: "4849232"
-internal_id: "C4878111"
-label_id: "643774"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005120/2002-09-13/0"
-intitule_bron: "Stb.1991-535"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2002-453"
-original_signed_date: "2002-07-22"
-original_published_date: "2002-09-12"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2002-453"
-entry_into_force_date: "2002-09-13"
-jci_1_3: "jci1.3:c:BWBR0005120&z=2002-09-13&g=2002-09-13"
-jci_1_0: "1.0:c:BWBR0005120&g=2002-09-13"
-citeertitel_status: "officieel"
-short_title: "Besluit klachtrecht militairen"
-signed_date: "2002-07-22"
-entry_into_force: "2002-09-13"
+publicatiedatum: 2002-09-13
+laatste_update: 2002-09-13
+status: geldig
+toestand: 2002-09-13
+bron: "https://wetten.overheid.nl/BWBR0005120"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 25 juni 1991, houdende regelen inzake het klachtrecht voor militairen
-
-Op de voordracht van Onze Minister van Defensie van 31 januari 1991, afdeling arbeidsvoorwaardenbeleid, nr. D 90/096/2197;
-
-Gelet op [artikel 2, vijfde lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=2) (**Stb.** 519) en artikel 4 vijfde lid van de Wet rechtstoestand dienstplichtigen (**Stb.** 1971, 231);
-
-De Raad van State gehoord (advies van 15 mei 1991, nr. W07.91.0060);
-
-Gezien het nader rapport van Onze Minister van Defensie, van 17 juni 1991, nr. D90/096/9350;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Betekenis van uitdrukkingen
 
@@ -52,13 +22,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - b. militair ambtenaar: de militair ambtenaar in de zin van [artikel 1 van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
 
-- c. dienstplichtige: de dienstplichtige in de zin van [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005120&artikel=1&z=2002-09-13&g=2002-09-13), ten 1° en 2° van de Wet rechtstoestand dienstplichtigen;
+- c. dienstplichtige: de dienstplichtige in de zin van [artikel 1, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005120&artikel=1&z=2002-09-13&g=2002-09-13), ten 1° en 2° van de Wet rechtstoestand dienstplichtigen;
 
-- d. klager: de militair ambtenaar bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel de dienstplichtige als bedoeld in artikel 4**b**, eerste lid van de Wet rechtstoestand dienstplichtigen;
+- d. klager: de militair ambtenaar bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel de dienstplichtige als bedoeld in artikel 4*b*, eerste lid van de Wet rechtstoestand dienstplichtigen;
 
-- e. beklag: het schriftelijk beklag bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel artikel 4**b**, eerste lid van de Wet rechtstoestand dienstplichtigen;
+- e. beklag: het schriftelijk beklag bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel artikel 4*b*, eerste lid van de Wet rechtstoestand dienstplichtigen;
 
-- f. klaagschrift: het klaagschrift als bedoeld in [artikel 9, derde lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel artikel 4**b**, derde lid van de Wet rechtstoestand dienstplichtigen;
+- f. klaagschrift: het klaagschrift als bedoeld in [artikel 9, derde lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel artikel 4*b*, derde lid van de Wet rechtstoestand dienstplichtigen;
 
 - g. beklagmeerdere: de tot straffen bevoegde militaire meerdere, als bedoeld in [artikel 49 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=49), onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door de minister aangewezen functionaris;
 
@@ -104,16 +74,12 @@ Beklag is niet mogelijk tegen een op beklag genomen beslissing.
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt tegelijkertijd in werking met de Wet van 29 augustus 1991 (**Stb.** 478), houdende wijziging van de [Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) (**Stb.** 519) en van de Wet rechtstoestand dienstplichtigen (**Stb.** 1971, 231) in verband met Herziening van het militair tuchtrecht ([Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788)).
-
-##### Artikel 7. Citeertitel
-
-Dit besluit kan worden aangehaald als "Besluit klachtrecht militairen".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+Dit besluit treedt tegelijkertijd in werking met de Wet van 29 augustus 1991 (*Stb.* 478), houdende wijziging van de [Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) (*Stb.* 519) en van de Wet rechtstoestand dienstplichtigen (*Stb.* 1971, 231) in verband met Herziening van het militair tuchtrecht ([Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788)).
 
 ##### Artikel 6a. Grondslag
 
 Dit besluit berust op [artikel 9, vierde lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 7. Citeertitel
+
+Dit besluit kan worden aangehaald als "Besluit klachtrecht militairen".

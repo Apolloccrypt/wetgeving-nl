@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering van Maltese belasting op dividenden, interest en royalty's uit Maltese bron, genoten door inwoners van Nederland"
+citeertitel: "Maltese uitvoeringsvoorschriften belastingovereenkomst Nederland-Malta"
 identifier: "BWBR0004981"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-01-27"
-last_updated: "1991-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004981"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3731863"
-version_id: "5514732"
-internal_id: "C5707821"
-label_id: "3711614"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004981/1991-01-27/0"
-intitule_bron: "Stcrt.1991-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-01-25"
-intitule_published: "1991-01-25"
-intitule_in_force: "1991-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-18"
-original_signed_date: "1991-01-25"
-original_published_date: "1991-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-27"
-jci_1_3: "jci1.3:c:BWBR0004981&z=1991-01-27&g=1991-01-27"
-jci_1_0: "1.0:c:BWBR0004981&g=1991-01-27"
-citeertitel_status: "officieel"
-short_title: "Maltese uitvoeringsvoorschriften belastingovereenkomst Nederland-Malta"
-signed_date: "1991-01-25"
-entry_into_force: "1991-01-27"
+publicatiedatum: 1991-01-27
+laatste_update: 1991-01-27
+status: geldig
+toestand: 1991-01-27
+bron: "https://wetten.overheid.nl/BWBR0004981"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inzake vermindering van Maltese belasting op dividenden, interest en royalty's uit Maltese bron, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -57,21 +32,23 @@ Aan de op 18 mei 1977 tussen Nederland en Malta gesloten Overeenkomst tot het ve
 
 Ter uitvoering van artikel 1 is van Maltese zijde de volgende regeling getroffen:
 
-- 1. Dividenden De in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004981&artikel=1&z=1991-01-27&g=1991-01-27), vermelde vermindering wordt in Malta verleend door teruggaaf van hetgeen te veel is geheven. Teneinde deze teruggaaf te verkrijgen, moet de betrokken inwoner van Nederland zich met een daartoe strekkend verzoek wenden tot: Office of Inland Revenue Beltissebh, Malta Republic of Malta In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de betrokken inwoner van Nederland te vermelden:
+- 1. Dividenden De in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004981&artikel=1&z=1991-01-27&g=1991-01-27), vermelde vermindering wordt in Malta verleend door teruggaaf van hetgeen te veel is geheven. Teneinde deze teruggaaf te verkrijgen, moet de betrokken inwoner van Nederland zich met een daartoe strekkend verzoek wenden tot: Office of Inland Revenue
+ Beltissebh, Malta
+ Republic of Malta In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de betrokken inwoner van Nederland te vermelden:
 
-- a. de naam en het adres van het uitbetalende lichaam, het aantal aandelen, de datum(s) van betaalbaarstelling van de dividenden, de bedragen van de dividenden en de bedragen van de daarover geheven Maltese belasting;
+   - a. de naam en het adres van het uitbetalende lichaam, het aantal aandelen, de datum(s) van betaalbaarstelling van de dividenden, de bedragen van de dividenden en de bedragen van de daarover geheven Maltese belasting;
 
-- b. dat hij op de datum(s) van betaalbaarstelling van de desbetreffende dividenden de uiteindelijk gerechtigde was tot die dividenden. Bij zijn verzoek om teruggaaf moet de betrokken inwoner van Nederland overleggen:
+   - b. dat hij op de datum(s) van betaalbaarstelling van de desbetreffende dividenden de uiteindelijk gerechtigde was tot die dividenden. Bij zijn verzoek om teruggaaf moet de betrokken inwoner van Nederland overleggen:
 
-- 1. de door het Maltese lichaam bij de uitdeling van het dividend afgegeven ‘dividend-warrent’, waaruit de opbrengst van de desbetreffende dividenden en de geheven Maltese belasting blijken;
+      - 1. de door het Maltese lichaam bij de uitdeling van het dividend afgegeven ‘dividend-warrent’, waaruit de opbrengst van de desbetreffende dividenden en de geheven Maltese belasting blijken;
 
-- 2. een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij is gevestigd, inhoudende een bevestiging dat hij op de datum(s) van betaalbaarstelling van de desbetreffende dividenden inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst tussen Nederland en Malta tot het vermijden van dubbele belasting en ter zake van de desbetreffende dividenden niet in de Nederlandse vennootschapsbelasting is/wordt betrokken. De betrokken inwoner van Nederland kan deze verklaring aanvragen bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ........ ............................ certifies that ............... (naam en adres van de verzoeker) on the payable date(s) of the dividends concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Malta for the avoidance of double taxation and is not/will not be/charged to Netherlands company tax (vennootschapsbelasting) with respect to the dividends concerned. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+      - 2. een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij is gevestigd, inhoudende een bevestiging dat hij op de datum(s) van betaalbaarstelling van de desbetreffende dividenden inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst tussen Nederland en Malta tot het vermijden van dubbele belasting en ter zake van de desbetreffende dividenden niet in de Nederlandse vennootschapsbelasting is/wordt betrokken. De betrokken inwoner van Nederland kan deze verklaring aanvragen bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ........ ............................ certifies that ............... (naam en adres van de verzoeker) on the payable date(s) of the dividends concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Malta for the avoidance of double taxation and is not/will not be/charged to Netherlands company tax (vennootschapsbelasting) with respect to the dividends concerned. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
 - 2. Interest en royalty's De Maltese bronbelasting op interest en royalty's wordt thans ingevolge de Maltese wettelijke bepalingen geheven naar een tarief van 25% indien deze inkomsten worden betaald aan natuurlijke personen niet-inwoners en geheven naar een tarief van 32,5% indien vorenbedoelde inkomsten worden betaald aan lichamen. Deze bronheffing is een voorheffing welke wordt verrekend met de door de ontvanger van de interest en royalty's verschuldigde inkomstenbelasting wanneer aan hem een aanslag in de inkomstenbelasting wordt opgelegd. De Maltese schuldenaar van de interest en de royalty's mag, nadat hij daartoe van de bevoegde Maltese Commissioner toestemming heeft gekregen, de betaling van deze inkomsten aan de in Nederland wonende gerechtigde doen zonder inhouding van de Maltese belasting in het geval als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004981&artikel=1&z=1991-01-27&g=1991-01-27), en onder inhouding van Maltese belasting naar het in de Overeenkomst neergelegde percentage (10% van het bruto bedrag van de inkomsten) in de gevallen als bedoeld in [artikel 1, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004981&artikel=1&z=1991-01-27&g=1991-01-27). De in Nederland wonende gerechtigde van vorenbedoelde inkomsten dient, teneinde de Maltese schuldenaar van de inkomsten in staat te stellen de toestemming van de Maltese Commissioner te verkrijgen, aan de Maltese schuldenaar over te leggen:
 
-- a. een verklaring dat hij de uiteindelijk gerechtigde tot die inkomsten is;
+   - a. een verklaring dat hij de uiteindelijk gerechtigde tot die inkomsten is;
 
-- b. een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende interest/royalty's inwoner van Nederland is in de zin van artikel 4 van de Overeenkomst tussen Nederland en Malta tot het vermijden van dubbele belasting. Deze verklaring kan door de betrokken inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ....................................................... certifies that .......................................................................................(naam en adres van de verzoeker) on the payable date(s) of the interest/royalties concerned is a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Malta for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - b. een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende interest/royalty's inwoner van Nederland is in de zin van artikel 4 van de Overeenkomst tussen Nederland en Malta tot het vermijden van dubbele belasting. Deze verklaring kan door de betrokken inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ....................................................... certifies that .......................................................................................(naam en adres van de verzoeker) on the payable date(s) of the interest/royalties concerned is a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Malta for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
 

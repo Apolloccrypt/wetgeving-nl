@@ -9,7 +9,7 @@ laatste_update: 2026-07-25
 status: geldig
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052890"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107479116, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tabakstrips in de teelt van zaaiuien (Tijdelijke vrijstelling voor de beheersing van tabakstrips in de teelt van zaaiuien, 2026)

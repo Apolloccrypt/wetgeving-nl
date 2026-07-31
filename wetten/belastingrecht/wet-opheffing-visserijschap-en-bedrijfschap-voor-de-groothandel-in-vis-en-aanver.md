@@ -1,49 +1,24 @@
 ---
 title: "Wet van 29 mei 1991, tot opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, tevens strekkende tot wijziging van de Instellingswet Productschap voor Vis en Visproducten"
+citeertitel: "Wet opheffing Visserijschap en Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven"
 identifier: "BWBR0005098"
-country: "nl"
-rank: "wet"
-publication_date: "1999-02-17"
-last_updated: "1999-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005098"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15463"
-version_id: "18282"
-internal_id: "C18281"
-label_id: "15824"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005098/1999-02-17/0"
-intitule_bron: "Stb.1991-350"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-05-29"
-intitule_status: "goed"
-original_publication: "Stb.1991-350"
-original_signed_date: "1991-05-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "21469"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005098&z=1999-02-17&g=1999-02-17"
-jci_1_0: "1.0:c:BWBR0005098&g=1999-02-17"
-citeertitel_status: "officieel"
-short_title: "Wet opheffing Visserijschap en Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven"
-signed_date: "1991-05-29"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1999-02-17
+status: geldig
+toestand: 1999-02-17
+bron: "https://wetten.overheid.nl/BWBR0005098"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 29 mei 1991, tot opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, tevens strekkende tot wijziging van de Instellingswet Productschap voor Vis en Visproducten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 20 januari 1989 daartoe uitgebrachte advies over te gaan tot integratie van taken en bevoegdheden van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven in het Produktschap voor Vis en Visprodukten, daartoe de [Instellingswet Productschap voor Vis en Visproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0002220) te wijzigen en, in samenhang daarmee, beide voornoemde bedrijfschappen op te heffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-1. Het Visserijschap, ingesteld bij het koninklijk besluit van 23 december 1955 (**Stb.** 615), is opgeheven. De door het bedrijfschap vastgestelde verordeningen, voorzover nog van kracht bij de inwerkingtreding van deze wet, vervallen.
+1. Het Visserijschap, ingesteld bij het koninklijk besluit van 23 december 1955 (*Stb.* 615), is opgeheven. De door het bedrijfschap vastgestelde verordeningen, voorzover nog van kracht bij de inwerkingtreding van deze wet, vervallen.
 
-2. Het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, ingesteld bij het koninklijk besluit van 31 januari 1955 (**Stb.** 65), is opgeheven. De door het bedrijfschap vastgestelde verordeningen, voorzover nog van kracht bij de inwerkingtreding van deze wet, vervallen.
+2. Het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, ingesteld bij het koninklijk besluit van 31 januari 1955 (*Stb.* 65), is opgeheven. De door het bedrijfschap vastgestelde verordeningen, voorzover nog van kracht bij de inwerkingtreding van deze wet, vervallen.
 
 ##### Artikel 2
 
@@ -63,7 +38,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. Het Produktschap voor Vis en Visprodukten maakt het tijdstip van de aanvang der vereffening bekend in de **Staatscourant** en in het **Mededelingenblad Bedrijfsorganisatie**, alsmede in de daartoe naar zijn oordeel in aanmerking komende nieuwsbladen, onder vermelding van de afkondiging van deze wet.
+1. Het Produktschap voor Vis en Visprodukten maakt het tijdstip van de aanvang der vereffening bekend in de *Staatscourant* en in het *Mededelingenblad Bedrijfsorganisatie*, alsmede in de daartoe naar zijn oordeel in aanmerking komende nieuwsbladen, onder vermelding van de afkondiging van deze wet.
 
 2. In de bekendmaking worden degenen die een vordering op het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven hebben, opgeroepen die vorderingen binnen een daarbij aangegeven termijn bij het Produktschap voor Vis en Visprodukten in te dienen. Deze termijn wordt niet korter gesteld dan zes maanden, te rekenen vanaf de dag van bekendmaking.
 
@@ -75,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het produktschap kan, voorzover dit ter voldoening van de schulden van het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven noodzakelijk is, bij verordening aan de ondernemers in het betrokken deel van het bedrijfsleven die over het jaar 1988 heffing verschuldigd waren, een heffing opleggen volgens dezelfde maatstaven als in voormeld jaar werden toegepast. De verordening behoeft de goedkeuring van de Sociaal-Economische Raad.
 
-4. Ten aanzien van een heffingsverordening als in het derde lid bedoeld en de krachtens die verordening opgelegde aanslagen, zijn de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) en [127**a** van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127a) van overeenkomstige toepassing.
+4. Ten aanzien van een heffingsverordening als in het derde lid bedoeld en de krachtens die verordening opgelegde aanslagen, zijn de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) en [127*a* van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127a) van overeenkomstige toepassing.
 
 ##### Artikel 6
 
@@ -89,7 +64,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Zo spoedig mogelijk nadat het Produktschap voor Vis en Visprodukten het vermogen van het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven heeft vereffend, brengt het daarover verslag uit aan de Sociaal-Economische Raad.
 
-2. De vaststelling van het verslag en van de rekening van baten en lasten betreffende de vereffening kan slechts plaatsvinden nadat de ontwerpen van deze stukken gedurende twee maanden ten kantore van het produktschap voor een ieder ter lezing zijn neergelegd en tegen betaling van de kosten algemeen verkrijgbaar zijn gesteld en indien binnen die termijn bij het produktschap geen bezwaren zijn ingekomen. Van de nederlegging en de verkrijgbaarstelling geschiedt openbare kennisgeving in de **Staatscourant** en in het **Mededelingenblad Bedrijfsorganisatie**.
+2. De vaststelling van het verslag en van de rekening van baten en lasten betreffende de vereffening kan slechts plaatsvinden nadat de ontwerpen van deze stukken gedurende twee maanden ten kantore van het produktschap voor een ieder ter lezing zijn neergelegd en tegen betaling van de kosten algemeen verkrijgbaar zijn gesteld en indien binnen die termijn bij het produktschap geen bezwaren zijn ingekomen. Van de nederlegging en de verkrijgbaarstelling geschiedt openbare kennisgeving in de *Staatscourant* en in het *Mededelingenblad Bedrijfsorganisatie*.
 
 3. Elk ingekomen bezwaar wordt door het produktschap onderzocht; wordt het gegrond bevonden, dan zet het produktschap de vereffening voort en maakt, zonodig, een nieuw verslag en een nieuwe rekening op waarin aan het bezwaar is tegemoetgekomen. Ten aanzien van laatstbedoeld verslag en laatstbedoelde rekening is het tweede lid van overeenkomstige toepassing, met dien verstande dat het produktschap nieuwe bezwaren, welke reeds tegen het eerste verslag en de eerste rekening hadden kunnen worden ingebracht, niet in overweging neemt. Wordt het bezwaar ongegrond bevonden, dan stelt het produktschap het verslag en de rekening alsnog vast.
 
@@ -107,7 +82,7 @@ Hetgeen blijkens de goedgekeurde rekening aan vermogen van het Visserijschap res
 
 ##### Artikel 10
 
-Het Produktschap voor Vis en Visprodukten bewaart in de zin van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1972 (**Stb.** 313) de archiefbescheiden van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven.
+Het Produktschap voor Vis en Visprodukten bewaart in de zin van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1972 (*Stb.* 313) de archiefbescheiden van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven.
 
 ##### Artikel 11
 
@@ -115,10 +90,8 @@ Het Instellingsbesluit Visserijschap en het Instellingsbesluit Bedrijfschap voor
 
 ##### Artikel 12
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 13
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

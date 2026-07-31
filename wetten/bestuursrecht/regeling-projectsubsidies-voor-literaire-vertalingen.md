@@ -1,82 +1,53 @@
 ---
-title: "Regeling projectsubsidies voor literaire vertalingen"
+title: "Regeling projectsubsidies voor literair vertalers"
 identifier: "BWBR0051470"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-09-10"
-last_updated: "2025-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051470"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17518213"
-version_id: "30911492"
-internal_id: "C44287801"
-label_id: "17420404"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051470/2025-09-10/0"
-intitule_bron: "Stcrt.2025-29426"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-09-09"
-intitule_in_force: "2025-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-29426"
-original_published_date: "2025-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-29426"
-entry_into_force_date: "2025-09-10"
-jci_1_3: "jci1.3:c:BWBR0051470&z=2025-09-10&g=2025-09-10"
-jci_1_0: "1.0:c:BWBR0051470&g=2025-09-10"
-citeertitel_status: "officieel"
-entry_into_force: "2025-09-10"
+publicatiedatum: 2025-09-10
+laatste_update: 2026-07-30
+status: geldig
+toestand: 2026-07-30
+bron: "https://wetten.overheid.nl/BWBR0051470"
+opgehaald: 2026-07-31
 ---
-# Regeling projectsubsidies voor literaire vertalingen
 
-gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-besluit:
-
-De volgende regeling Projectsubsidies voor literair vertalers vast te stellen.
+# Regeling projectsubsidies voor literair vertalers
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van het Letterenfonds;
+- a. *bestuur:* het bestuur van het Letterenfonds;
 
-- b. **belastbaar verzamelinkomen:** het bedrag, zoals gedefinieerd in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18) en zoals definitief vastgesteld door de inspecteur van de Belastingdienst in de definitieve aanslag inkomstenbelasting;
+- b. *belastbaar verzamelinkomen:* het bedrag, zoals gedefinieerd in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18) en zoals definitief vastgesteld door de inspecteur van de Belastingdienst in de definitieve aanslag inkomstenbelasting;
 
-- c. **Cariben:** het Caribisch deel van het Koninkrijk zijnde de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Saba en Sint Eustatius;
+- c. *Cariben:* het Caribisch deel van het Koninkrijk zijnde de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Saba en Sint Eustatius;
 
-- d. **Engels:** de Engelse taal zoals door haar moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk;
+- d. *Engels:* de Engelse taal zoals door haar moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk;
 
-- e. **gevorderde vertaler:** een natuurlijk persoon die op het moment van het indienen van de aanvraag minimaal twee vertalingen op grond van een modelcontract heeft gemaakt, waarvan minimaal één reeds gepubliceerd;
+- e. *gevorderde vertaler:* een natuurlijk persoon die op het moment van het indienen van de aanvraag minimaal twee vertalingen op grond van een modelcontract heeft gemaakt, waarvan minimaal één reeds gepubliceerd;
 
-- f. **hij:** onder hij wordt tevens verstaan iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren;
+- f. *hij:* onder hij wordt tevens verstaan iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren;
 
-- g. **Letterenfonds:** Stichting Nederlands Letterenfonds;
+- g. *Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- h. **modelcontract:** een overeenkomst tussen vertaler en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU (of LUG)/Auteursbond voor literaire vertalingen;
+- h. *modelcontract:* een overeenkomst tussen vertaler en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU (of LUG)/Auteursbond voor literaire vertalingen;
 
-- i. **Papiaments:** Papiamento en Papiamentu;
+- i. *Papiaments:* Papiamento en Papiamentu;
 
-- j. **starter:** natuurlijk persoon die een projectsubsidie aanvraagt op grond van deze regeling voor een eerste, tweede of derde literaire vertaling of voor een vertaling uit een taal dan wel in een taalcombinatie waarvoor de aanvrager niet eerder een projectsubsidie heeft aangevraagd;
+- j. *starter:* natuurlijk persoon die een projectsubsidie aanvraagt op grond van deze regeling voor een eerste, tweede of derde literaire vertaling of voor een vertaling uit een taal dan wel in een taalcombinatie waarvoor de aanvrager niet eerder een projectsubsidie heeft aangevraagd;
 
-- k. **uitgeverij:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literaire werken en voldoet aan de volgende voorwaarden:
+- k. *uitgeverij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literaire werken en voldoet aan de volgende voorwaarden:
 
-- –. beschikt over een onafhankelijke, ter zake kundige redactie die de vertaler begeleidt bij de totstandkoming van de vertaling;
+   - – beschikt over een onafhankelijke, ter zake kundige redactie die de vertaler begeleidt bij de totstandkoming van de vertaling;
 
-- –. biedt de uit te geven vertaling of de uit te geven vertalingen op regelmatige basis aan de boekhandel aan en verspreidt papieren uitgaven via de reguliere boekhandel;
+   - – biedt de uit te geven vertaling of de uit te geven vertalingen op regelmatige basis aan de boekhandel aan en verspreidt papieren uitgaven via de reguliere boekhandel;
 
-- –. voorziet zijn vertalingen van een ISBN;
+   - – voorziet zijn vertalingen van een ISBN;
 
-- l. **vertaling:** een literaire vertaling in papieren of elektronische boekvorm van een literair werk in het Nederlands, het Fries, het Papiaments of voor publicaties op Bonaire, Sint Maarten, Saba of Sint-Eustatius in het Engels;
+- l. *vertaling:* een literaire vertaling in papieren of elektronische boekvorm van een literair werk in het Nederlands, het Fries, het Papiaments of voor publicaties op Bonaire, Sint Maarten, Saba of Sint-Eustatius in het Engels;
 
-- m. **website:** de website van het Letterenfonds, zijnde [www.letterenfonds.nl](http://www.letterenfonds.nl).
+- m. *website:* de website van het Letterenfonds, zijnde [www.letterenfonds.nl](http://www.letterenfonds.nl).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -92,7 +63,7 @@ De vertaling waarvoor subsidie wordt aangevraagd voldoet aan de volgende voorwaa
 
 - c. de vertaling wordt niet door meer dan twee vertalers gemaakt;
 
-- d. de te schrijven vertaling voldoet aan dezelfde eisen die in [artikel 4, tweede lid, onder d, onderdelen i tot en met vi](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=4&z=2025-09-10&g=2025-09-10), worden gesteld aan de reeds gepubliceerde vertaling van de gevorderde vertaler met dien verstande dat in afwijking daarvan de omvang van de vertaling minimaal 10.000 woorden dient te zijn;
+- d. de te schrijven vertaling voldoet aan dezelfde eisen die in [artikel 4, tweede lid, onder d, onderdelen i tot en met vi](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=4&z=2026-07-30&g=2026-07-30), worden gesteld aan de reeds gepubliceerde vertaling van de gevorderde vertaler met dien verstande dat in afwijking daarvan de omvang van de vertaling minimaal 10.000 woorden dient te zijn;
 
 - e. in de vertaling komt een naamsvermelding van de vertaler in het colofon en op het omslag.
 
@@ -104,7 +75,7 @@ De vertaling waarvoor subsidie wordt aangevraagd voldoet aan de volgende voorwaa
 
 - b. aanvrager heeft een modelcontract met een uitgeverij afgesloten voor de uit te voeren vertaling;
 
-- c. de aanvraag is ingediend uiterlijk een maand na ondertekening van het modelcontract, of als een vertaling op de Cariben verschijnt uiterlijk een maand nadat er een uitgeefplan is opgesteld als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=5&z=2025-09-10&g=2025-09-10).
+- c. de aanvraag is ingediend uiterlijk een maand na ondertekening van het modelcontract, of als een vertaling op de Cariben verschijnt uiterlijk een maand nadat er een uitgeefplan is opgesteld als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=5&z=2026-07-30&g=2026-07-30).
 
 2. Als de aanvrager een gevorderde vertaler is, moet de aanvrager voldoen aan de volgende voorwaarden:
 
@@ -116,21 +87,21 @@ De vertaling waarvoor subsidie wordt aangevraagd voldoet aan de volgende voorwaa
 
 - d. van de hand van aanvrager is minimaal één vertaling reeds gepubliceerd die voldoet aan de volgende voorwaarden:
 
-- i. de vertaling is vertaald uit dezelfde brontaal als de tekst waarop de aanvraag betrekking heeft;
+   - i. de vertaling is vertaald uit dezelfde brontaal als de tekst waarop de aanvraag betrekking heeft;
 
-- ii. de vertaling is uitgegeven in een oplage van minimaal 500 exemplaren en de vertaling heeft een omvang van minimaal 20.000 woorden als het gaat om een vertaling in het Nederlands;
+   - ii. de vertaling is uitgegeven in een oplage van minimaal 500 exemplaren en de vertaling heeft een omvang van minimaal 20.000 woorden als het gaat om een vertaling in het Nederlands;
 
-- iii. de vertaling is uitgegeven in een oplage van minimaal 200 exemplaren en de vertaling heeft een omvang van minimaal 20.000 woorden als het gaat om een vertaling in het Fries, Papiaments of Engels;
+   - iii. de vertaling is uitgegeven in een oplage van minimaal 200 exemplaren en de vertaling heeft een omvang van minimaal 20.000 woorden als het gaat om een vertaling in het Fries, Papiaments of Engels;
 
-- iv. de vertaling is uitgegeven in een oplage van minimaal 200 exemplaren en de vertaling heeft een omvang van minimaal 20 pagina’s als het gaat om de vertaling van een poëziebundel;
+   - iv. de vertaling is uitgegeven in een oplage van minimaal 200 exemplaren en de vertaling heeft een omvang van minimaal 20 pagina’s als het gaat om de vertaling van een poëziebundel;
 
-- v. de vertaling is verspreid via de reguliere boekhandel als het gaat om een papieren publicatie met uitzondering van vertalingen die op de Cariben verschijnen;
+   - v. de vertaling is verspreid via de reguliere boekhandel als het gaat om een papieren publicatie met uitzondering van vertalingen die op de Cariben verschijnen;
 
-- vi. de vertaling is tenminste vijf jaar via diverse elektronische kanalen voor het publiek beschikbaar gemaakt als het gaat om een digitale publicatie;
+   - vi. de vertaling is tenminste vijf jaar via diverse elektronische kanalen voor het publiek beschikbaar gemaakt als het gaat om een digitale publicatie;
 
-- vii. de vertaling is niet langer dan vier jaar voor het moment van het indienen van de aanvraag gepubliceerd, als het gaat om een vertaaldebuut.
+   - vii. de vertaling is niet langer dan vier jaar voor het moment van het indienen van de aanvraag gepubliceerd, als het gaat om een vertaaldebuut.
 
-3. De hoogte van de inkomensgrens, bedoeld in het eerste lid, onderdeel a, en tweede lid, onderdeel a, wordt bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
+3. De hoogte van de inkomensgrens, bedoeld in het eerste lid, onderdeel a, en tweede lid, onderdeel a, wordt bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
 ##### Artikel 5. Uitgaven op de Cariben
 
@@ -158,7 +129,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 - b. als voor de activiteiten waarvoor een subsidie wordt aangevraagd, door het Letterenfonds al subsidie is verleend;
 
-- c. als een aanvraag dezelfde activiteiten betreft als een aanvraag die eerder op grond van een toets aan de beoordelingscriteria, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10), is afgewezen;
+- c. als een aanvraag dezelfde activiteiten betreft als een aanvraag die eerder op grond van een toets aan de beoordelingscriteria, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2026-07-30&g=2026-07-30), is afgewezen;
 
 - d. als het een uitgave in eigen beheer betreft, behalve wanneer de vertaling op de Cariben verschijnt;
 
@@ -174,7 +145,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 - b. een afschrift van een modelcontract dan wel een intentieverklaring van een uitgeverij waarin is vastgelegd dat een dergelijk contract zal worden afgesloten en waarbij sprake is van een redelijke honorering van de vertaler in het modelcontract. In het geval van een intentieverklaring dient een afschrift van het modelcontract voorafgaand de subsidieverlening te worden overgelegd.
 
-3. In afwijking van het eerste lid, onderdeel b, bevat een aanvraag voor een vertaling die verschijnt op de Cariben bewijsstukken dat wordt voldaan aan voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=5&z=2025-09-10&g=2025-09-10).
+3. In afwijking van het eerste lid, onderdeel b, bevat een aanvraag voor een vertaling die verschijnt op de Cariben bewijsstukken dat wordt voldaan aan voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=5&z=2026-07-30&g=2026-07-30).
 
 4. Een aanvraag van een literair vertaler woonachtig in België kan uitsluitend bij Literatuur Vlaanderen worden ingediend.
 
@@ -182,7 +153,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 6. Een vertaler kan op grond van deze regeling per jaar maximaal vier aanvragen indienen.
 
-7. Als een eerdere aanvraag van de aanvrager is afgewezen op grond van het criterium vertaalkwaliteit, genoemd in [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10), kan pas een nieuwe aanvraag worden ingediend als een nieuw werk op dat criterium kan worden beoordeeld.
+7. Als een eerdere aanvraag van de aanvrager is afgewezen op grond van het criterium vertaalkwaliteit, genoemd in [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2026-07-30&g=2026-07-30), kan pas een nieuwe aanvraag worden ingediend als een nieuw werk op dat criterium kan worden beoordeeld.
 
 ##### Artikel 8. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
@@ -216,11 +187,11 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 - d. 100% voor de twee vertalers die op basis van een modelcontract werken aan een duo-vertaling indien:
 
-- i. sprake is van een junior vertaler, die maximaal 8 eerdere literaire vertalingen heeft gemaakt en een senior vertaler, die minimaal 7 vertalingen meer heeft gemaakt dan de junior vertaler;
+   - i. sprake is van een junior vertaler, die maximaal 8 eerdere literaire vertalingen heeft gemaakt en een senior vertaler, die minimaal 7 vertalingen meer heeft gemaakt dan de junior vertaler;
 
-- ii. de vertalers samen maximaal 20.000 woorden per maand vertalen; en
+   - ii. de vertalers samen maximaal 20.000 woorden per maand vertalen; en
 
-- iii. de laatste aanvraag van de senior vertaler voor een projectsubsidie niet is afgewezen op basis van vertaalkwaliteit.
+   - iii. de laatste aanvraag van de senior vertaler voor een projectsubsidie niet is afgewezen op basis van vertaalkwaliteit.
 
 3. Het subsidiebedrag zoals berekend op basis van het eerste en tweede lid, wordt voor de gevorderde vertaler aangevuld met een subsidiebedrag gelijk aan 150% van het honorarium dat de uitgever beschikbaar stelt voor het voor- of nawoord, onder de voorwaarde dat het honorarium schriftelijk is vastgelegd.
 
@@ -240,9 +211,9 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 ##### Artikel 11. Adviesprocedure
 
-1. Het bureau beoordeelt de aanvragen van starters op basis van het beoordelingscriterium van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10).
+1. Het bureau beoordeelt de aanvragen van starters op basis van het beoordelingscriterium van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2026-07-30&g=2026-07-30).
 
-2. Een adviescommissie samengesteld uit leden van de Raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds, adviseert het bestuur over de mate waarin de aanvragen van gevorderde vertalers voldoen aan de beoordelingscriteria in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10), en adviseert over de hoogte van de subsidie. De adviescommissie kan zich laten bijstaan door één of meer externe adviseurs.
+2. Een adviescommissie samengesteld uit leden van de Raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds, adviseert het bestuur over de mate waarin de aanvragen van gevorderde vertalers voldoen aan de beoordelingscriteria in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2026-07-30&g=2026-07-30), en adviseert over de hoogte van de subsidie. De adviescommissie kan zich laten bijstaan door één of meer externe adviseurs.
 
 ##### Artikel 12. Verdeling budget
 
@@ -250,7 +221,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 2. Als het subsidieplafond ontoereikend is om alle aanvragen van gevorderde vertalers te honoreren waarover de adviescommissie in de desbetreffende ronde positief oordeelde, wordt van de gevorderde vertaler die in die ronde meer dan één aanvraag heeft ingediend, slechts één aanvraag gehonoreerd en worden de overige aanvragen doorgeschoven naar de volgende ronde.
 
-3. Als het subsidieplafond voor gevorderde vertalers na toepassing van het tweede lid nog ontoereikend is om alle positief beoordeelde aanvragen te honoreren, dan worden in afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=8&z=2025-09-10&g=2025-09-10), deze aanvragen van gevorderde vertalers gelijktijdig behandeld en gehonoreerd volgens indeling in de volgende groepen, waarbij binnen een groep de rangorde wordt bepaald op basis van de in het modelcontract vastgelegde inleverdatum;
+3. Als het subsidieplafond voor gevorderde vertalers na toepassing van het tweede lid nog ontoereikend is om alle positief beoordeelde aanvragen te honoreren, dan worden in afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=8&z=2026-07-30&g=2026-07-30), deze aanvragen van gevorderde vertalers gelijktijdig behandeld en gehonoreerd volgens indeling in de volgende groepen, waarbij binnen een groep de rangorde wordt bepaald op basis van de in het modelcontract vastgelegde inleverdatum;
 
 - a. groep A: aanvragen van aanvragers die niet meer dan tien projectsubsidies voor vertalingen hebben ontvangen;
 
@@ -294,7 +265,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 8. In de vertaling is het Letterenfonds vermeld als subsidieverstrekker op een door het Letterenfonds aangegeven wijze.
 
-9. Indien de inkomensgrens, bedoeld in [artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=4&z=2025-09-10&g=2025-09-10), is overschreden in het tijdvak waarvoor de subsidie is verleend, meldt de subsidieontvanger dit onverwijld aan het Letterenfonds na ontvangst van de definitieve aanslag inkomstenbelasting over de jaren in het desbetreffende tijdvak.
+9. Indien de inkomensgrens, bedoeld in [artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=4&z=2026-07-30&g=2026-07-30), is overschreden in het tijdvak waarvoor de subsidie is verleend, meldt de subsidieontvanger dit onverwijld aan het Letterenfonds na ontvangst van de definitieve aanslag inkomstenbelasting over de jaren in het desbetreffende tijdvak.
 
 10. De subsidieontvanger werkt mee aan door of namens het Letterenfonds ingesteld onderzoek dat erop is gericht het Letterenfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
@@ -304,9 +275,9 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 2. Als het Letterenfonds constateert dat ingrijpende wijzigingen zijn opgetreden ten opzichte van de bij de aanvraag verstrekte gegevens, kan het de subsidievaststelling intrekken of wijzigen.
 
-3. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de termijn, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=14&z=2025-09-10&g=2025-09-10), is overschreden en de subsidieontvanger naar het oordeel van het bestuur hiervoor geen gegronde redenen heeft kunnen aanvoeren.
+3. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de termijn, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=14&z=2026-07-30&g=2026-07-30), is overschreden en de subsidieontvanger naar het oordeel van het bestuur hiervoor geen gegronde redenen heeft kunnen aanvoeren.
 
-4. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de inkomensgrens, bedoeld in [artikel 4, eerste lid, onderdeel a, en tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=4&z=2025-09-10&g=2025-09-10), is overschreden.
+4. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de inkomensgrens, bedoeld in [artikel 4, eerste lid, onderdeel a, en tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=4&z=2026-07-30&g=2026-07-30), is overschreden.
 
 5. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken op grond van het overlijden van de subsidieontvanger.
 
@@ -326,10 +297,8 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 10 september 2025.
+Deze regeling treedt in werking met ingang van 10 september 2025.
 
 ##### Artikel 19. Citeertitel
 
-Deze regeling wordt aangehaald als Regeling projectsubsidies voor literaire vertalingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en gepubliceerd op de website van het Letterenfonds ([www.letterenfonds.nl](https://www.letterenfonds.nl/)).
+Deze regeling wordt aangehaald als Regeling projectsubsidies voor literair vertalers.

@@ -1,1740 +1,1708 @@
 ---
 title: "Besluit van 23 juni 1988, houdende vaststelling van het Academisch Statuut"
+citeertitel: "Academisch Statuut"
 identifier: "BWBR0004353"
-country: "nl"
-rank: "amvb"
-publication_date: "1995-12-31"
-last_updated: "1995-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004353"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "818843"
-version_id: "1192542"
-internal_id: "C1192541"
-label_id: "799294"
-dtd_version: "2.0"
-original_entry_into_force: "1987-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004353/1995-12-31/0"
-intitule_bron: "Stb.1988-315"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-06-23"
-intitule_status: "goed"
-original_publication: "Stb.1988-315"
-original_signed_date: "1988-06-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-09-01"
-jci_1_3: "jci1.3:c:BWBR0004353&z=1995-12-31&g=1995-12-31"
-jci_1_0: "1.0:c:BWBR0004353&g=1995-12-31"
-citeertitel_status: "officieel"
-short_title: "Academisch Statuut"
-signed_date: "1988-06-23"
-entry_into_force: "1987-09-01"
+publicatiedatum: 1987-09-01
+laatste_update: 1995-12-31
+status: geldig
+toestand: 1995-12-31
+bron: "https://wetten.overheid.nl/BWBR0004353"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 23 juni 1988, houdende vaststelling van het Academisch Statuut
-
-Op de voordracht van Onze Minister van Onderwijs en Wetenschappen, mede namens Onze Minister van Landbouw en Visserij, van 16 oktober 1987, nr. 9419/4610, centrale directie Wetgeving en Juridische Zaken;
-
-Gelet op de artikelen 11, tweede lid, 12, tweede, vierde en vijfde lid, 13, vijfde lid, 16, eerste, tweede en vierde lid, 17, eerste, tweede en derde lid, 18, eerste, tweede, derde en vijfde lid, 19, 20, eerste lid, 21, tweede lid, 22, tweede lid, 24, tweede lid, 28, eerste lid, 29, eerste lid, 30 en 231, vierde lid, van de Wet op het wetenschappelijk onderwijs (**Stb.** 1986, 414);
-
-Voorts gelet op [artikel D.3 van de Invoeringswet W.W.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0003991&artikel=D.3) (**Stb.** 1986, 388), artikel 5 van de Tijdelijke wet taakverdeling w.o., artikel 7 van de Wet maatregelen 1987-1991 inzake voorzieningen w.o. en artikel 31, derde lid, van de Wet op het wetenschappelijk onderwijs;
-
-Gezien de adviezen van de universiteiten en van de Onderwijsraad (advies van 15 mei 1987, nr. 3A/416 T);
-
-De Raad van State gehoord (advies van 11 april 1988, nr. W05.87.0576);
-
-Gezien het nader rapport van Onze Minister van Onderwijs en Wetenschappen, mede namens Onze Minister van Landbouw en Visserij, van 13 juni 1988, nr. 88010708/4610, centrale directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemeen deel
 
-### Afdeling I. Algemene bepaling
+#### Afdeling I. Algemene bepaling
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
-### Afdeling II. De studierichtingen
+#### Afdeling II. De studierichtingen
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### § 2. Experimentele studierichtingen
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 #### § 3. Vrije studierichtingen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 #### § 4. Vrij doctoraal examen
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 #### § 5. In deeltijdse vorm verzorgde studierichtingen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
-### Afdeling III. De opleidingen der tweede fase
+#### Afdeling III. De opleidingen der tweede fase
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 #### § 2. Experimentele opleidingen
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 #### § 3. In deeltijdse vorm verzorgde opleidingen
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
-### Afdeling IV. Enkele bepalingen betreffende het onderwijs
+#### Afdeling IV. Enkele bepalingen betreffende het onderwijs
 
 #### § 1. De indeling van het studiejaar
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 #### § 2. Praktische oefeningen
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 #### § 3. Studielast en studievoortgang
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
-### Afdeling V. De examens
+#### Afdeling V. De examens
 
 #### § 1. De inrichting van de examens
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 #### § 2. De aanwijzing van andere deskundigen als lid van de examencommissie
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 #### § 3. Het afnemen van examens
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 #### § 4. Het aanvullend examen
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
-### Afdeling VI. De toegang tot het afleggen van examens van de eerste fase
+#### Afdeling VI. De toegang tot het afleggen van examens van de eerste fase
 
 #### § 1. Voorwaarden betreffende het afleggen van examens, te stellen aan de bezitters van een getuigschrift van met goed gevolg afgelegd eindexamen of staatsexamen voorbereidend wetenschappelijk onderwijs
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
-### Afdeling VII. Gehele of gedeeltelijke vrijstelling van het afleggen van examens
+#### Afdeling VII. Gehele of gedeeltelijke vrijstelling van het afleggen van examens
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 #### § 2. Vrijstellingen op grond van eerder behaalde examenresultaten aan een universiteit
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
-### Afdeling VIII. De toelating tot en de inrichting van de opleidingen van de tweede fase
+#### Afdeling VIII. De toelating tot en de inrichting van de opleidingen van de tweede fase
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 #### § 2. De commissie van toelating
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 #### § 3. Bijzondere bepalingen betreffende de opleiding tot leraar
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
-### Afdeling IX. Hoedanigheden en titels
+#### Afdeling IX. Hoedanigheden en titels
 
 #### § 1. Vereisten ter verkrijging van hoedanigheden
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 76
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 #### § 2. Vereisten ter verkrijging, in bepaalde gevallen, van het recht op het voeren van de titel ingenieur of de titel doctorandus
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. De studierichtingen
 
-## Titel I. De studierichtingen van de universiteiten
+### Titel I. De studierichtingen van de universiteiten
 
-### Afdeling I. Godgeleerdheid
+#### Afdeling I. Godgeleerdheid
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 81
 
-Vervallen
+*Vervallen*
 
-### Afdeling II. Rechtsgeleerdheid
+#### Afdeling II. Rechtsgeleerdheid
 
 #### § 1. De studierichting Nederlands recht
 
 ##### Artikel 82
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 83
 
-Vervallen
+*Vervallen*
 
 #### § 2. De notariële studierichting
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 #### § 3. De fiscaal-juridische studierichting
 
 ##### Artikel 86
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 87
 
-Vervallen
+*Vervallen*
 
 #### § 4. De internationaal-juridische studierichting
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 #### § 5. De juridische bestuurswetenschappelijke studierichting
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 #### § 6. De juridische politiek-wetenschappelijke studierichting
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 #### § 7. De Studierichtingen Antilliaans recht en Arubaans recht
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
-### Afdeling III. Geneeskunde
+#### Afdeling III. Geneeskunde
 
 #### § 1. De studierichting der geneeskunde
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 97
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der tandheelkunde
 
 ##### Artikel 98
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99
 
-Vervallen
+*Vervallen*
 
-### Afdeling IV. Wiskunde en natuurwetenschappen
+#### Afdeling IV. Wiskunde en natuurwetenschappen
 
 #### § 1. De studierichting der wiskunde
 
 ##### Artikel 100
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 101
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 102
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der technische mechanica
 
 ##### Artikel 103
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 104
 
-Vervallen
+*Vervallen*
 
 #### § 3. De studierichting der sterrenkunde
 
 ##### Artikel 105
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 106
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichting der natuurkunde
 
 ##### Artikel 108
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 109
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 110
 
-Vervallen
+*Vervallen*
 
 #### § 5. De studierichting der technische natuurkunde
 
 ##### Artikel 111
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 112
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 113
 
-Vervallen
+*Vervallen*
 
 #### § 6. De studierichting der informatica
 
 ##### Artikel 114
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 115
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 116
 
-Vervallen
+*Vervallen*
 
 #### § 7. De studierichting der scheikunde
 
 ##### Artikel 117
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 118
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 119
 
-Vervallen
+*Vervallen*
 
 #### § 8. De studierichting der technische scheikunde
 
 ##### Artikel 120
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 121
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 122
 
-Vervallen
+*Vervallen*
 
 #### § 9. De studierichting der farmacochemie
 
 ##### Artikel 123
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 124
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 125
 
-Vervallen
+*Vervallen*
 
 #### § 10. De studierichting der geologie
 
 ##### Artikel 126
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 127
 
-Vervallen
+*Vervallen*
 
 #### § 11. De studierichting der geofysica
 
 ##### Artikel 128
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 129
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 130
 
-Vervallen
+*Vervallen*
 
 #### § 12. De studierichting der biologie
 
 ##### Artikel 131
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 132
 
-Vervallen
+*Vervallen*
 
 #### § 13. De studierichting der farmacie
 
 ##### Artikel 133
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 134
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 135
 
-Vervallen
+*Vervallen*
 
-### Afdeling V. Letteren
+#### Afdeling V. Letteren
 
 #### § 1. De studierichtingen der taalwetenschap
 
 ##### Artikel 136
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 137
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 138
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 139
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 141
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der algemene literatuurwetenschap
 
 ##### Artikel 142
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 143
 
-Vervallen
+*Vervallen*
 
 #### § 2a. De studierichting der taal- en literatuurwetenschap
 
 ##### Artikel 143a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 143b
 
-Vervallen
+*Vervallen*
 
 #### § 3. De studierichting der fonetiek
 
 ##### Artikel 144
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 145
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichting der Griekse en Latijnse taal en cultuur
 
 ##### Artikel 146
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 147
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 148
 
-Vervallen
+*Vervallen*
 
 #### § 5. De studierichting der Nederlandse taal- en letterkunde
 
 ##### Artikel 149
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 150
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 151
 
-Vervallen
+*Vervallen*
 
 #### § 6. De studierichtingen der Romaanse talen en hun letterkunde
 
 ##### Artikel 152
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 153
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 154
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 155
 
-Vervallen
+*Vervallen*
 
 #### § 7. De studierichtingen der Germaanse talen en hun letterkunde
 
 ##### Artikel 156
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 157
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 158
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 159
 
-Vervallen
+*Vervallen*
 
 #### § 8. De studierichting der Nieuwgriekse taal- en letterkunde
 
 ##### Artikel 160
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 161
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 162
 
-Vervallen
+*Vervallen*
 
 #### § 9. De studierichting der Slavische talen en hun letterkunde
 
 ##### Artikel 163
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 164
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 165
 
-Vervallen
+*Vervallen*
 
 #### § 10. De studierichting der Finoegrische talen en hun letterkunde
 
 ##### Artikel 166
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 167
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 168
 
-Vervallen
+*Vervallen*
 
 #### § 11. De studierichtingen der niet-westerse talen en culturen
 
 ##### Artikel 169
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 170
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 171
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 172
 
-Vervallen
+*Vervallen*
 
 #### § 12. De studierichting der Afrikaanse taalkunde
 
 ##### Artikel 173
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 174
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 175
 
-Vervallen
+*Vervallen*
 
 #### § 13. De studierichting der geschiedenis
 
 ##### Artikel 176
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 177
 
-Vervallen
+*Vervallen*
 
 #### § 14. De studierichting der kunstgeschiedenis en archeologie
 
 ##### Artikel 178
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 179
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 180
 
-Vervallen
+*Vervallen*
 
 #### § 15. De studierichting der archeologie
 
 ##### Artikel 181
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 182
 
-Vervallen
+*Vervallen*
 
 #### § 16. De studierichting der muziekwetenschap
 
 ##### Artikel 183
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 184
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 185
 
-Vervallen
+*Vervallen*
 
 #### § 17. De studierichting der theaterwetenschap
 
 ##### Artikel 186
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 187
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 188
 
-Vervallen
+*Vervallen*
 
 #### § 18. De studierichting der maatschappijgeschiedenis
 
 ##### Artikel 188a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 188b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 188c
 
-Vervallen
+*Vervallen*
 
-### Afdeling VI. Economische wetenschappen
+#### Afdeling VI. Economische wetenschappen
 
 #### § 1. De studierichting der economie
 
 ##### Artikel 189
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 190
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 191
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der fiscale economie
 
 ##### Artikel 192
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 193
 
-Vervallen
+*Vervallen*
 
 #### § 3. De studierichting der econometrie
 
 ##### Artikel 194
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 195
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 196
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichting der actuariële wetenschappen
 
 ##### Artikel 197
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 198
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 199
 
-Vervallen
+*Vervallen*
 
-### Afdeling VII. Sociale wetenschappen
+#### Afdeling VII. Sociale wetenschappen
 
 #### § 1. De studierichting der onderwijskunde
 
 ##### Artikel 200
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 201
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der sociologie
 
 ##### Artikel 202
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 203
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 204
 
-Vervallen
+*Vervallen*
 
 #### § 3. De studierichting der politicologie
 
 ##### Artikel 205
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 206
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 207
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichting der culturele antropologie en der sociologie der niet-westerse samenlevingen
 
 ##### Artikel 208
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 209
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 210
 
-Vervallen
+*Vervallen*
 
 #### § 5. De studierichting der communicatiewetenschap
 
 ##### Artikel 211
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 212
 
-Vervallen
+*Vervallen*
 
 #### § 6. De studierichting der bestuurskunde
 
 ##### Artikel 213
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 214
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 215
 
-Vervallen
+*Vervallen*
 
 #### § 7. De studierichting der psychologie
 
 ##### Artikel 216
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 217
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 218
 
-Vervallen
+*Vervallen*
 
 #### § 8. De studierichting der pedagogische wetenschappen
 
 ##### Artikel 219
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 220
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 221
 
-Vervallen
+*Vervallen*
 
-### Afdeling VIII. Diergeneeskunde
+#### Afdeling VIII. Diergeneeskunde
 
 #### De studierichting der diergeneeskunde
 
 ##### Artikel 222
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 223
 
-Vervallen
+*Vervallen*
 
-### Afdeling IX. Wijsbegeerte
+#### Afdeling IX. Wijsbegeerte
 
 #### § 1. De studierichting der wijsbegeerte
 
 ##### Artikel 224
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 225
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 226
 
-Vervallen
+*Vervallen*
 
 #### § 2. De bovenbouwstudierichting der wijsbegeerte
 
 ##### Artikel 227
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 228
 
-Vervallen
+*Vervallen*
 
-### Afdeling X. Geografie en prehistorie
+#### Afdeling X. Geografie en prehistorie
 
 #### § 1. De studierichting der fysische geografie
 
 ##### Artikel 229
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 230
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der sociale geografie
 
 ##### Artikel 231
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 232
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 233
 
-Vervallen
+*Vervallen*
 
 #### § 3. De studierichting der planologie
 
 ##### Artikel 234
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 235
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 236
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichting der pre- en protohistorie
 
 ##### Artikel 237
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 238
 
-Vervallen
+*Vervallen*
 
-### Afdeling XI. Lichamelijke opvoeding
+#### Afdeling XI. Lichamelijke opvoeding
 
 #### De studierichting der lichamelijke opvoeding
 
 ##### Artikel 239
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 240
 
-Vervallen
+*Vervallen*
 
-### Afdeling XII. Bedrijfskunde
+#### Afdeling XII. Bedrijfskunde
 
 #### De studierichting der bedrijfskunde
 
 ##### Artikel 241
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 242
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 243
 
-Vervallen
+*Vervallen*
 
-### Afdeling XIII. Beleid en management gezondheidszorg
+#### Afdeling XIII. Beleid en management gezondheidszorg
 
 #### De studierichting van het beleid en het management in de gezondheidszorg
 
 ##### Artikel 243a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 243b
 
-Vervallen
+*Vervallen*
 
-## Titel II. De studierichtingen van de technische universiteiten
+### Titel II. De studierichtingen van de technische universiteiten
 
 #### § 1. De studierichting der bestuurskunde
 
 ##### Artikel 244
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 245
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 246
 
-Vervallen
+*Vervallen*
 
 #### § 1a. De studierichting der toegepaste onderwijskunde
 
 ##### Artikel 246a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 246b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 246c
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der technische wiskunde
 
 ##### Artikel 247
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 248
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 249
 
-Vervallen
+*Vervallen*
 
 #### § 3. De studierichting der technische informatica
 
 ##### Artikel 250
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 251
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 252
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichting der civiele techniek
 
 ##### Artikel 253
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 254
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 255
 
-Vervallen
+*Vervallen*
 
 #### § 5. De studierichting der geodesie
 
 ##### Artikel 256
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 257
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 258
 
-Vervallen
+*Vervallen*
 
 #### § 6. De studierichting der bouwkunde
 
 ##### Artikel 259
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 260
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 261
 
-Vervallen
+*Vervallen*
 
 #### § 7. De studierichting der werktuigbouwkunde
 
 ##### Artikel 262
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 263
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 264
 
-Vervallen
+*Vervallen*
 
 #### § 8. De studierichting der elektrotechniek
 
 ##### Artikel 265
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 266
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 267
 
-Vervallen
+*Vervallen*
 
 #### § 9. De studierichting der scheikundige technologie
 
 ##### Artikel 268
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 269
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 270
 
-Vervallen
+*Vervallen*
 
 #### § 10. De studierichting der mijnbouwkunde en petroleumwinning
 
 ##### Artikel 271
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 272
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 273
 
-Vervallen
+*Vervallen*
 
 #### § 11. De studierichting der technische natuurkunde
 
 ##### Artikel 274
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 275
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 276
 
-Vervallen
+*Vervallen*
 
 #### § 12. De studierichting der maritieme techniek
 
 ##### Artikel 277
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 278
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 279
 
-Vervallen
+*Vervallen*
 
 #### § 13. De studierichting der luchtvaart- en ruimtevaarttechniek
 
 ##### Artikel 280
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 281
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 282
 
-Vervallen
+*Vervallen*
 
 #### § 14. De studierichting der technische bedrijfskunde
 
 ##### Artikel 283
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 284
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 285
 
-Vervallen
+*Vervallen*
 
 #### § 15. De studierichting der materiaalkunde
 
 ##### Artikel 286
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 287
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 288
 
-Vervallen
+*Vervallen*
 
 #### § 16. De studierichting van het industrieel ontwerpen
 
 ##### Artikel 289
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 290
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 291
 
-Vervallen
+*Vervallen*
 
-## Titel III. De studierichtingen van de landbouwuniversiteit
+### Titel III. De studierichtingen van de landbouwuniversiteit
 
 #### § 1. De plantenteeltkundige studierichtingen
 
 ##### Artikel 292
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 293
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 294
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 295
 
-Vervallen
+*Vervallen*
 
 #### § 2. De studierichting der zoötechniek
 
 ##### Artikel 296
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 297
 
-Vervallen
+*Vervallen*
 
 #### § 3. De chemische en technologische studierichtingen
 
 ##### Artikel 298
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 299
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 300
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 301
 
-Vervallen
+*Vervallen*
 
 #### § 4. De studierichtingen met betrekking tot het landgebruik
 
 ##### Artikel 302
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 303
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 304
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 305
 
-Vervallen
+*Vervallen*
 
 #### § 5. De studierichting der agrarische economie
 
 ##### Artikel 306
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 307
 
-Vervallen
+*Vervallen*
 
 #### § 6. De studierichtingen met betrekking tot de ontwikkelings- en tropische studies
 
 ##### Artikel 307a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 307b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 307c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 308
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 309
 
-Vervallen
+*Vervallen*
 
 #### § 7. De studierichting der huishoud- en consumentenwetenschappen
 
 ##### Artikel 310
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 311
 
-Vervallen
+*Vervallen*
 
 #### § 8. De studierichting der biologie
 
 ##### Artikel 312
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 313
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. De opleidingen van de tweede fase
 
-### Afdeling I. De opleidingen ter voorbereiding op het artsexamen, het tandartsexamen, het dierenartsexamen en het apothekersexamen
+#### Afdeling I. De opleidingen ter voorbereiding op het artsexamen, het tandartsexamen, het dierenartsexamen en het apothekersexamen
 
 #### § 1. De opleiding ter voorbereiding op het artsexamen
 
 ##### Artikel 314
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 315
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 316
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 317
 
-Vervallen
+*Vervallen*
 
 #### § 2. De opleiding ter voorbereiding op het tandartsexamen
 
 ##### Artikel 318
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 319
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 320
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 321
 
-Vervallen
+*Vervallen*
 
 #### § 3. De opleiding ter voorbereiding op het dierenartsexamen
 
 ##### Artikel 322
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 323
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 324
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 325
 
-Vervallen
+*Vervallen*
 
 #### § 4. De opleiding ter voorbereiding op het apothekersexamen
 
 ##### Artikel 326
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 327
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 328
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 329
 
-Vervallen
+*Vervallen*
 
-### Afdeling II. Opleidingen, die vereist zijn of dienstig kunnen zijn voor het bekleden van een of meer maatschappelijke betrekkingen
+#### Afdeling II. Opleidingen, die vereist zijn of dienstig kunnen zijn voor het bekleden van een of meer maatschappelijke betrekkingen
 
 #### De opleiding tot wijsgeer van een bepaald wetenschapsgebied
 
 ##### Artikel 330
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 331
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 332
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 333
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
 ##### Artikel 334
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 335
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 336. Vrijstelling getuigschriften Nijenrode en I.I.S.S.
 
-1. De bezitter van een getuigschrift van met goed gevolg voor de inwerkingtreding van het koninklijk besluit van 27 september 1982 (**Stb.** 558) afgelegd examen in de bedrijfskunde, uitgaande van de Stichting Nijenrode, Instituut voor Bedrijfskunde, gevestigd te Breukelen, is vrijgesteld van het afleggen van het propedeutisch examen van de studierichting der economie.
+1. De bezitter van een getuigschrift van met goed gevolg voor de inwerkingtreding van het koninklijk besluit van 27 september 1982 (*Stb.* 558) afgelegd examen in de bedrijfskunde, uitgaande van de Stichting Nijenrode, Instituut voor Bedrijfskunde, gevestigd te Breukelen, is vrijgesteld van het afleggen van het propedeutisch examen van de studierichting der economie.
 
 2. De bezitter van een getuigschrift van een met goed gevolg afgelegd examen aan het Internationaal Instituut voor Sociale Studiën, gevestigd te 's-Gravenhage, kan tot een bij koninklijk besluit te bepalen tijdstip, op een daartoe strekkend verzoek worden vrijgesteld van het afleggen van een of meer der in hoofdstuk I van het Academisch Statuut, zoals vastgesteld bij dit besluit, bedoelde examens of gedeelten daarvan.
 
@@ -1742,22 +1710,20 @@ Vervallen
 
 ##### Artikel 337
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 338
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 339
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 340
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 341
 
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+*Vervallen*

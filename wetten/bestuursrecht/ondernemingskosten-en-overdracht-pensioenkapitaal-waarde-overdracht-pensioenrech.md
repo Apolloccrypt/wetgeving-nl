@@ -1,40 +1,17 @@
 ---
 title: "Ondernemingskosten en overdracht pensioenkapitaal, waarde-overdracht pensioenrechten bij verandering dienstbetrekking, PGGM naar SDS-circuit"
 identifier: "BWBR0004496"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1989-02-21"
-last_updated: "1989-02-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004496"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "8543143"
-version_id: "13453512"
-internal_id: "C18046061"
-label_id: "8523434"
-dtd_version: "2.0"
-original_entry_into_force: "1989-02-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004496/1989-02-21/0"
-intitule_bron: "Infob.1989-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-02-21"
-intitule_published: "1989-01-01"
-intitule_in_force: "1989-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1989-216"
-original_signed_date: "1989-02-21"
-original_published_date: "1989-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-02-21"
-jci_1_3: "jci1.3:c:BWBR0004496&z=1989-02-21&g=1989-02-21"
-jci_1_0: "1.0:c:BWBR0004496&g=1989-02-21"
-citeertitel_status: "redactioneel"
-signed_date: "1989-02-21"
-entry_into_force: "1989-02-21"
+publicatiedatum: 1989-02-21
+laatste_update: 1989-02-21
+status: geldig
+toestand: 1989-02-21
+bron: "https://wetten.overheid.nl/BWBR0004496"
+opgehaald: 2026-07-31
 ---
-# Ondernemingskosten en overdracht pensioenkapitaal, waarde-overdracht pensioenrechten bij verandering dienstbetrekking, PGGM naar SDS-circuit
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Ondernemingskosten en overdracht pensioenkapitaal, waarde-overdracht pensioenrechten bij verandering dienstbetrekking, PGGM naar SDS-circuit
 
 Bij brief van 08-07-1987, gepubliceerd in Infobulletin september 1987, volgnr. 87/560, heb ik het standpunt ingenomen dat aan overdrachten van pensioenkapitaal tussen ondernemingspensioenfondsen en levensverzekeringsmij.’en welke zijn aangesloten bij het Samenwerkingsverband voor waarde-overdrachten, t.a.v. de dienstbetrekkingveranderde werknemer voor de heffing van de l.b. geen gevolgen zijn verbonden, gelet op de wijze waarop dergelijke waardeoverdrachten zijn geregeld.
 

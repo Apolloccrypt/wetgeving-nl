@@ -1,44 +1,17 @@
 ---
 title: "Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe"
 identifier: "BWBR0005064"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-06-01"
-last_updated: "1991-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005064"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3799153"
-version_id: "5581912"
-internal_id: "C5775001"
-label_id: "3778794"
-dtd_version: "2.0"
-original_entry_into_force: "1991-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005064/1991-06-01/0"
-intitule_bron: "Stcrt.1991-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-04-25"
-intitule_published: "1991-04-25"
-intitule_in_force: "1991-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-80"
-original_signed_date: "1991-04-25"
-original_published_date: "1991-04-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-06-01"
-jci_1_3: "jci1.3:c:BWBR0005064&z=1991-06-01&g=1991-06-01"
-jci_1_0: "1.0:c:BWBR0005064&g=1991-06-01"
-citeertitel_status: "officieel"
-signed_date: "1991-04-25"
-entry_into_force: "1991-06-01"
+publicatiedatum: 1991-06-01
+laatste_update: 1991-06-01
+status: geldig
+toestand: 1991-06-01
+bron: "https://wetten.overheid.nl/BWBR0005064"
+opgehaald: 2026-07-31
 ---
+
 # Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen;
-
-Regeling inzake vermindering en vrijstelling van Zimbabwaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland.
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -66,17 +39,17 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005064&a
 
 - 2. Teruggaaf, indien te veel Zimbabwaanse belasting is ingehouden In gevallen waarin bij de uitbetaling van dividenden, interest en royalty's te veel belasting is ingehouden, kan de belanghebbende inwoner van Nederland zich met een verzoek om teruggaaf van hetgeen te veel is ingehouden wenden tot: The Commissioner of Taxes P.O. Box 8126 Causeway Harare Zimbabwe In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de belanghebbende inwoner van Nederland te vermelden: De hiervoor bedoelde verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen leiden als volgt: The undersigned, Head of the Taxation Unit at ..... certifies that .......... (naam en adres van de verzoeker) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and the Republic of Zimbabwe and he was subject to tax in respect of the income concerned. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- (a). de naam van de betalende Zimbabwaanse maatschappij, het aantal en de soort van de aandelen, de datum(s) van betaalbaarstelling van de dividenden en de bedragen van de daarover geheven Zimbabwaanse belasting;
+   - (a) de naam van de betalende Zimbabwaanse maatschappij, het aantal en de soort van de aandelen, de datum(s) van betaalbaarstelling van de dividenden en de bedragen van de daarover geheven Zimbabwaanse belasting;
 
-- (b). de naam en het adres van de Zimbabwaanse schuldenaar van de interest en royalty's;
+   - (b) de naam en het adres van de Zimbabwaanse schuldenaar van de interest en royalty's;
 
-- (c). zijn uiteindelijk gerechtigdheid tot de dividenden, interest en royalty's. Bij zijn verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen:
+   - (c) zijn uiteindelijk gerechtigdheid tot de dividenden, interest en royalty's. Bij zijn verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen:
 
-- a). de dividendnota(s), waaruit de opbrengst van de desbetreffende dividenden en de geheven Zimbabwaanse belasting blijken;
+   - a). de dividendnota(s), waaruit de opbrengst van de desbetreffende dividenden en de geheven Zimbabwaanse belasting blijken;
 
-- b). een verklaring van de Zimbabwaanse schuldenaar van de interest en royalty's, waaruit blijken het bruto bedrag, de geheven belasting en het netto bedrag van de desbetreffende interest en royalty's;
+   - b). een verklaring van de Zimbabwaanse schuldenaar van de interest en royalty's, waaruit blijken het bruto bedrag, de geheven belasting en het netto bedrag van de desbetreffende interest en royalty's;
 
-- c). een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst en ter zake van die inkomsten aan de belasting was onderworpen.
+   - c). een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst en ter zake van die inkomsten aan de belasting was onderworpen.
 
 - 3. Termijn van indiening Verzoeken om teruggaaf van Zimbabwaanse belasting geheven van dividenden, interest en royalty's moeten worden ingediend binnen een tijdvak van drie jaren nadat de belasting is geheven (onderdeel (II) van het Protocol).
 

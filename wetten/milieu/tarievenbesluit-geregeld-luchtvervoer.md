@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 23 november 1990, houdende regels inzake tarieven voor geregeld luchtvervoer"
+citeertitel: "Tarievenbesluit geregeld luchtvervoer"
 identifier: "BWBR0004913"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-06-12"
-last_updated: "2010-06-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004913"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "945683"
-version_id: "10517562"
-internal_id: "C14297261"
-label_id: "916954"
-dtd_version: "2.0"
-original_entry_into_force: "1994-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004913/2010-06-12/0"
-intitule_bron: "Stb.1990-563"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-11-23"
-intitule_status: "goed"
-original_publication: "Stb.1994-493"
-original_signed_date: "1994-06-20"
-original_published_date: "1994-07-12"
-original_effect: "structuurwijziging"
-entry_into_force_date: "1994-06-20"
-jci_1_3: "jci1.3:c:BWBR0004913&z=2010-06-12&g=2010-06-12"
-jci_1_0: "1.0:c:BWBR0004913&g=2010-06-12"
-citeertitel_status: "officieel"
-short_title: "Tarievenbesluit geregeld luchtvervoer"
-signed_date: "1994-06-20"
-entry_into_force: "1994-06-20"
+publicatiedatum: 1994-06-20
+laatste_update: 2010-06-12
+status: geldig
+toestand: 2010-06-12
+bron: "https://wetten.overheid.nl/BWBR0004913"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 23 november 1990, houdende regels inzake tarieven voor geregeld luchtvervoer
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 23 maart 1990, nr. JBZ/L 90.002813, Rijksluchtvaartdienst;
-
-Overwegende dat de Raad van de Europese Gemeenschappen op 14 december 1987 een richtlijn heeft vastgesteld betreffende de tarieven voor geregelde luchtdiensten tussen de Lid-Staten, welke in de Nederlandse wetgeving dient te worden geïmplementeerd (**PbEG** L 374/12);
-
-Gelet op artikel 76, eerste lid, onder **j,** van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) (**Stb.** 1958, 47);
-
-De Raad van State gehoord (advies van 4 juli 1990 nr. W09.90.0129);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 21 november 1990, nr. JBZ/L 90.011811, Rijksluchtvaartdienst;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -53,11 +22,11 @@ EEG-Verdrag: het Verdrag tot oprichting van de Europese Economische Gemeenschap 
 
 tarief: prijs in euro’s die wordt berekend voor luchtvervoer tussen een gegeven plaats van vertrek en een gegeven plaats van bestemming alsmede de voorwaarden waaronder deze prijs geldt, met inbegrip van de vergoeding en de voorwaarden voor agentschappen en andere bijkomende diensten;
 
-communautaire luchtvaartmaatschappij: een luchtvaartmaatschappij met een geldige, door een Lid-Staat overeenkomstig [Verordening (EEG) nr. 2407/92](31992R2407) van de Raad van de Europese Gemeenschappen van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen (PbEG L 240/1) afgegeven exploitatievergunning.
+communautaire luchtvaartmaatschappij: een luchtvaartmaatschappij met een geldige, door een Lid-Staat overeenkomstig Verordening (EEG) nr. 2407/92 van de Raad van de Europese Gemeenschappen van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen (PbEG L 240/1) afgegeven exploitatievergunning.
 
 ##### Artikel 1a
 
-Voor tarieven die worden berekend door communautaire, Zweedse en Noorse luchtvaartmaatschappijen voor luchtdiensten tussen een luchthaven in Nederland en een luchthaven gelegen in een andere Lid-Staat van de Europese Gemeenschap, in het Koninkrijk Zweden of in het Koninkrijk Noorwegen geldt het bepaalde in de [verordening (EEG) nr. 2409/92](31992R2409) van de Raad van de Europese Gemeenschappen van 23 juli 1992 inzake tarieven voor luchtdiensten (PbEG L 240/15).
+Voor tarieven die worden berekend door communautaire, Zweedse en Noorse luchtvaartmaatschappijen voor luchtdiensten tussen een luchthaven in Nederland en een luchthaven gelegen in een andere Lid-Staat van de Europese Gemeenschap, in het Koninkrijk Zweden of in het Koninkrijk Noorwegen geldt het bepaalde in de verordening (EEG) nr. 2409/92 van de Raad van de Europese Gemeenschappen van 23 juli 1992 inzake tarieven voor luchtdiensten (PbEG L 240/15).
 
 ##### Artikel 1b
 
@@ -93,7 +62,7 @@ De hierna volgende bepalingen gelden voor tarieven die worden berekend door:
 
 - c. de opbouw en berekeningswijze van het tarief alsmede informatie betreffende de kosten en de ontwikkeling daarvan in de periode gedurende welke het tarief zal gelden.
 
-2. In het geval van een verzoek als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=3&z=2010-06-12&g=2010-06-12), dient bij het verzoek tevens een verklaring te worden overgelegd dat het overleg heeft plaatsgevonden in overeenstemming met het bepaalde bij of krachtens [Verordening 3976/87/EEG](31987R3976) van de Raad van 14 december 1987 betreffende de toepassing van artikel 85, lid 3, van het Verdrag op bepaalde groepen overeenkomsten en onderling afgestemde feitelijke gedragingen in de sector van het luchtvervoer (**PbEG**, L 374, blz. 9).
+2. In het geval van een verzoek als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=3&z=2010-06-12&g=2010-06-12), dient bij het verzoek tevens een verklaring te worden overgelegd dat het overleg heeft plaatsgevonden in overeenstemming met het bepaalde bij of krachtens Verordening 3976/87/EEG van de Raad van 14 december 1987 betreffende de toepassing van artikel 85, lid 3, van het Verdrag op bepaalde groepen overeenkomsten en onderling afgestemde feitelijke gedragingen in de sector van het luchtvervoer (*PbEG*, L 374, blz. 9).
 
 ##### Artikel 5
 
@@ -113,7 +82,7 @@ De hierna volgende bepalingen gelden voor tarieven die worden berekend door:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -133,11 +102,11 @@ Vervallen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -145,11 +114,11 @@ Met betrekking tot tarieven voor geregeld luchtvervoer tussen luchthavens in Ned
 
 ##### Artikel 12
 
-Overtreding van het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=2&z=2010-06-12&g=2010-06-12), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62) (**Stb.** 1958, 47).
+Overtreding van het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=2&z=2010-06-12&g=2010-06-12), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62) (*Stb.* 1958, 47).
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -157,6 +126,4 @@ Dit besluit wordt aangehaald als: Tarievenbesluit geregeld luchtvervoer.
 
 ##### Artikel 15
 
-Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
-
-Lasten en bevelen, dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.

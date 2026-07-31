@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 1 februari 1990, houdende regelen betreffende de veiligheid van kinderbedden en -boxen"
+citeertitel: "Warenwetbesluit Kinderbedden en -boxen"
 identifier: "BWBR0004710"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004710"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1444133"
-version_id: "2165222"
-internal_id: "C2165221"
-label_id: "1403424"
-dtd_version: "2.0"
-original_entry_into_force: "1990-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004710/2025-01-01/0"
-intitule_bron: "Stb.1990-106"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-02-01"
-intitule_status: "goed"
-original_publication: "Stb.1990-106"
-original_signed_date: "1990-02-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-10-01"
-jci_1_3: "jci1.3:c:BWBR0004710&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0004710&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Kinderbedden en -boxen"
-signed_date: "1990-02-01"
-entry_into_force: "1990-10-01"
+publicatiedatum: 1990-10-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0004710"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 1 februari 1990, houdende regelen betreffende de veiligheid van kinderbedden en -boxen
-
-Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 7 juli 1989, DGVgz/VVP/P-685271, in overeenstemming met Onze Minister van Economische Zaken;
-
-Overwegende, dat het wenselijk is met betrekking tot de veiligheid van kinderbedden en -boxen regelen te stellen ter voorkoming van lichamelijk letsel;
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1), 6, 8, [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12) en [14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14) (**Stb.** 1988, 360);
-
-De Adviescommissie [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gehoord (advies van 26 april 1984, nr. 13555/(11)15);
-
-De Raad van State gehoord (advies van 29 augustus 1989, no. W13.89.0378);
-
-Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 19 januari 1990, VVP/P/U-686200 uitgebracht in overeenstemming met Onze Minister van Economische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -76,15 +44,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -106,10 +74,8 @@ Dit besluit is tot en met 3 maanden na de datum van inwerkingtreding niet van to
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de zevende kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de zevende kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 12
 
 Dit besluit kan worden aangehaald als "Warenwetbesluit Kinderbedden en -boxen".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

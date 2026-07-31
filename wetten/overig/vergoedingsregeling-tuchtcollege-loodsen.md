@@ -1,43 +1,17 @@
 ---
 title: "Vergoedingsregeling tuchtcollege loodsen"
 identifier: "BWBR0004379"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-06"
-last_updated: "2022-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004379"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4707483"
-version_id: "28734702"
-internal_id: "C40788471"
-label_id: "4685694"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004379/2022-07-06/0"
-intitule_bron: "Stcrt.1988-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-08-18"
-intitule_published: "1988-08-31"
-intitule_in_force: "1988-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16820"
-original_signed_date: "2022-07-04"
-original_published_date: "2022-07-05"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-16820"
-entry_into_force_date: "2022-07-04"
-jci_1_3: "jci1.3:c:BWBR0004379&z=2022-07-06&g=2022-07-06"
-jci_1_0: "1.0:c:BWBR0004379&g=2022-07-06"
-citeertitel_status: "officieel"
-signed_date: "2022-07-04"
-entry_into_force: "2022-07-04"
+publicatiedatum: 2022-07-04
+laatste_update: 2022-07-06
+status: geldig
+toestand: 2022-07-06
+bron: "https://wetten.overheid.nl/BWBR0004379"
+opgehaald: 2026-07-31
 ---
+
 # Vergoedingsregeling tuchtcollege loodsen
-
-Gelet op [artikel 35 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=35) (Stb. 1988, 353);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -73,6 +47,10 @@ De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=2&z=202
 
 Het vacatiegeld en de vergoedingen voor reis- en verblijfkosten, bedoeld in deze regeling komen ten laste van de Nederlandse loodsencorporatie en zijn begrepen in de kosten, bedoeld in artikel 13, tweede lid, onderdeel b, 2°, van het Financieel Besluit Loodswezen.
 
+##### Artikel 6a
+
+Deze regeling berust mede op [artikel 32, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=32).
+
 ##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 september 1988.
@@ -80,11 +58,3 @@ Deze regeling treedt in werking met ingang van 1 september 1988.
 ##### Artikel 8
 
 Deze regeling kan worden aangehaald als: Vergoedingsregeling tuchtcollege loodsen.
-
-Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer, de Nederlandse Loodsencorporatie en de personen, bedoeld in deze regeling.
-
-##### Artikel 6a
-
-Deze regeling berust mede op [artikel 32, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=32).
-
-Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer, de Nederlandse Loodsencorporatie en de personen, bedoeld in deze regeling.

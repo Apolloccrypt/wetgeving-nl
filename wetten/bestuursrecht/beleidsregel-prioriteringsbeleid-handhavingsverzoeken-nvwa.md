@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-24
 toestand: 2022-09-06
 bron: "https://wetten.overheid.nl/BWBR0047117"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat van 14 juli 2022, NVWA/2022/5640, over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken

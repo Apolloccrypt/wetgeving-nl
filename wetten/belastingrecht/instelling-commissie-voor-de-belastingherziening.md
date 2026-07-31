@@ -1,42 +1,17 @@
 ---
 title: "Instelling Commissie voor de Belastingherziening"
 identifier: "BWBR0004738"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-06-01"
-last_updated: "1990-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004738"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3722713"
-version_id: "5505702"
-internal_id: "C5698791"
-label_id: "3702584"
-dtd_version: "2.0"
-original_entry_into_force: "1990-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004738/1990-06-01/0"
-intitule_bron: "Stcrt.1990-67"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-04-04"
-intitule_published: "1990-04-04"
-intitule_in_force: "1990-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-67"
-original_signed_date: "1990-04-04"
-original_published_date: "1990-04-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-06-01"
-jci_1_3: "jci1.3:c:BWBR0004738&z=1990-06-01&g=1990-06-01"
-jci_1_0: "1.0:c:BWBR0004738&g=1990-06-01"
-citeertitel_status: "officieel"
-signed_date: "1990-04-04"
-entry_into_force: "1990-06-01"
+publicatiedatum: 1990-06-01
+laatste_update: 1990-06-01
+status: geldig
+toestand: 1990-06-01
+bron: "https://wetten.overheid.nl/BWBR0004738"
+opgehaald: 2026-07-31
 ---
+
 # Instelling Commissie voor de Belastingherziening
-
-Overwegende dat het wenselijk is een commissie voor de belastingherziening in te stellen;
-
-Besluiten:
 
 #### § 1. Instelling en taak
 
@@ -46,7 +21,7 @@ Er is een commissie voor de belastingherziening.
 
 ##### Artikel 2
 
-De commissie heeft tot taak om, met inachtneming van hetgeen is opgenomen in paragraaf 1, punt 24 van het Regeeraccoord (Kamerstukken 11, 1989–1990, 21 132, nr. 9 blz. 13–14), advies uit te brengen over verdere vereenvoudiging en verbreding van het draagvlak van de loon- en inkomstenbelasting en ter stroomlijning van de belasting op de ondernemingswinst.
+De commissie heeft tot taak om, met inachtneming van hetgeen is opgenomen in [paragraaf 1](https://wetten.overheid.nl/BWBR0004738), punt 24 van het Regeeraccoord (Kamerstukken 11, 1989–1990, 21 132, nr. 9 blz. 13–14), advies uit te brengen over verdere vereenvoudiging en verbreding van het draagvlak van de loon- en inkomstenbelasting en ter stroomlijning van de belasting op de ondernemingswinst.
 
 #### § 2. Samenstelling en werkwijze
 
@@ -121,17 +96,3 @@ Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de b
 1. Dit besluit wordt bekendgemaakt in de Nederlandse Staatscourant.
 
 2. Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.
-
-## Bijlage. Bijlage Paragraaf 1, punt 24 van het Regeerakkoord (Kamerstukken II, 1989–1990, 21 132, nr. 9 blz. 13–14)
-
-24. In lijn met dezelfde doelstelling, met name de vermindering van de marginale druk met het oog op beheerste loonkostenontwikkeling en het functioneren van de economie, is het belangrijk na te gaan of in ons land bepaalde hoge tarieven in de sfeer van de belastingen verder verminderd kunnen worden.
-
-Daarom zal een commissie worden ingesteld, die tot taak krijgt advies uit te brengen over verdere vereenvoudiging en verbreding van het draagvlak van de loon- en inkomstenbelasting en ter stroomlijning van de belasting op ondernemingswinst.
-
-De commissie zal bij het advies uitbrengen met name ook aandacht dienen te besteden aan het regime van aftrekposten en het inkomensbegrip in de ons omringende landen en onderzoeken of onderdelen daarvan een plaats verdienen in de Nederlandse wetgeving. Daarbij zal ook aandacht gevraagd worden voor de voor- en nadelen van een verdergaande fiscalisering van de volksverzekeringen.
-
-De uit de voorstellen van de commissie resulterende opbrengsten in de loon- en inkomstenbelasting worden aangewend ter verlaging van de tarieven en/of verlenging van de eerste schijf. Inkomenspolitieke en budgettaire neutraliteit geldt daarbij als uitgangspunt. Daarnaast dient aandacht te worden besteed aan een evenwichtige verdeling van de belastingdruk over de onderscheiden tariefsgroepen: alleenstaanden, alleenverdieners en tweeverdieners.
-
-De door de commissie te ontwikkelen voorstellen zullen geen afbreuk doen aan de bevordering van het eigen woningbezit, rekening houdend met het evenwicht tussen de eigen woning en het huren; het gaat daarbij met name om de combinatie van huurwaardeforfait en hypotheekrenteaftrek enerzijds en trendmatige huurontwikkeling anderzijds.
-
-Daarnaast zal de commissie worden verzocht te onderzoeken of het mogelijk is te komen tot een scherper afgebakend ondernemersbegrip en één overzichtelijke belasting op ondernemingswinst.

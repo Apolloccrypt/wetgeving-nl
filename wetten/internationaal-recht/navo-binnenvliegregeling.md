@@ -1,44 +1,17 @@
 ---
 title: "NAVO-binnenvliegregeling"
 identifier: "BWBR0004210"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1987-09-08"
-last_updated: "1987-09-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004210"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3734743"
-version_id: "5517702"
-internal_id: "C5710791"
-label_id: "3714584"
-dtd_version: "2.0"
-original_entry_into_force: "1987-09-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004210/1987-09-08/0"
-intitule_bron: "Stcrt.1987-218"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-09-08"
-intitule_published: "1987-11-11"
-intitule_in_force: "1987-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-218"
-original_signed_date: "1987-09-08"
-original_published_date: "1987-11-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-09-08"
-jci_1_3: "jci1.3:c:BWBR0004210&z=1987-09-08&g=1987-09-08"
-jci_1_0: "1.0:c:BWBR0004210&g=1987-09-08"
-citeertitel_status: "officieel"
-signed_date: "1987-09-08"
-entry_into_force: "1987-09-08"
+publicatiedatum: 1987-09-08
+laatste_update: 1987-09-08
+status: geldig
+toestand: 1987-09-08
+bron: "https://wetten.overheid.nl/BWBR0004210"
+opgehaald: 2026-07-31
 ---
+
 # NAVO-binnenvliegregeling
-
-Gelet op het Koninklijk besluit van 9 september 1959 (Stb. 332);
-
-Handelend na overleg met de ministers van Buitenlandse Zaken en van Verkeer en Waterstaat;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -58,17 +31,17 @@ Algemeen luchtverkeer dient de luchtverkeersvoorschriften vervat in de Luchtvaar
 
 3. Indien de vlucht met inachtneming van de instrumentvliegverkeersvoorschriften wordt uitgevoerd, dient onverminderd het onder het eerste lid gestelde, aan de hierna volgende voorschriften de hand te worden gehouden:
 
-- (a). Het aantal vluchten dat tussen 00.00 uur en 08.00 uur plaatselijke tijd binnen het vluchtinlichtingengebied Amsterdam wordt uitgevoerd dient uiterlijk te 16.00 uur plaatselijke tijd van de voorafgaande dag bij de betrokken verkeersleidingsdienst te zijn aangemeld. Uiterlijk één uur voor aanvang van de betreffende vlucht binnen het vluchtinlichtingengebied Amsterdam dienen de vliegplannen bij de betrokken verkeersleidingsdienst te zijn ontvangen.
+- (a) Het aantal vluchten dat tussen 00.00 uur en 08.00 uur plaatselijke tijd binnen het vluchtinlichtingengebied Amsterdam wordt uitgevoerd dient uiterlijk te 16.00 uur plaatselijke tijd van de voorafgaande dag bij de betrokken verkeersleidingsdienst te zijn aangemeld. Uiterlijk één uur voor aanvang van de betreffende vlucht binnen het vluchtinlichtingengebied Amsterdam dienen de vliegplannen bij de betrokken verkeersleidingsdienst te zijn ontvangen.
 
-- (b). Vliegplannen van vluchten die tussen 08.00 uur ten 16.45 uur plaatselijke tijd binnen het vluchtinlichtingengebied Amsterdam worden uitgevoerd dienen uiterlijk één uur voor aanvang van de betreffende vlucht binnen het vluchtinlichtingengebied Amsterdam bij de betrokken verkeersleidingsdienst te zijn ontvangen.
+- (b) Vliegplannen van vluchten die tussen 08.00 uur ten 16.45 uur plaatselijke tijd binnen het vluchtinlichtingengebied Amsterdam worden uitgevoerd dienen uiterlijk één uur voor aanvang van de betreffende vlucht binnen het vluchtinlichtingengebied Amsterdam bij de betrokken verkeersleidingsdienst te zijn ontvangen.
 
-- (c). Voor vluchten die tussen 16.45 uur en 24.00 uur plaatselijke tijd binnen het vluchtinlichtingengebied Amsterdam worden uitgevoerd geldt de volgende regeling:
+- (c) Voor vluchten die tussen 16.45 uur en 24.00 uur plaatselijke tijd binnen het vluchtinlichtingengebied Amsterdam worden uitgevoerd geldt de volgende regeling:
 
-- (1). Voor vluchten op vliegniveau 195 of lager: De vliegplannen dienen uiterlijk te 12.00 uur plaatselijke tijd bij de betrokken verkeersleidingsdiensten te zijn ontvangen.
+   - (1) Voor vluchten op vliegniveau 195 of lager: De vliegplannen dienen uiterlijk te 12.00 uur plaatselijke tijd bij de betrokken verkeersleidingsdiensten te zijn ontvangen.
 
-- (2). Voor vluchten hoger dan vliegniveau 195: Het aantal vluchten dient uiterlijk te 12.00 plaatselijke tijd bij de betrokken verkeersleidingsdienst te zijn aangemeld. De vliegplannen dienen uiterlijk één uur voor aanvang van de vlucht binnen het vluchtinlichtingengebied Amsterdam bij de betrokken verkeersleidingsdienst te zijn ontvangen.
+   - (2) Voor vluchten hoger dan vliegniveau 195: Het aantal vluchten dient uiterlijk te 12.00 plaatselijke tijd bij de betrokken verkeersleidingsdienst te zijn aangemeld. De vliegplannen dienen uiterlijk één uur voor aanvang van de vlucht binnen het vluchtinlichtingengebied Amsterdam bij de betrokken verkeersleidingsdienst te zijn ontvangen.
 
-- (d). Tijdens de uitvoering van de vlucht binnen het vluchtinlichtingengebied Amsterdam moet een tweezijdige radioverbinding worden onderhouden met de betrokken verkeersleidingsdienst waaraan de vereiste positiemeldingen moeten worden gedaan.
+- (d) Tijdens de uitvoering van de vlucht binnen het vluchtinlichtingengebied Amsterdam moet een tweezijdige radioverbinding worden onderhouden met de betrokken verkeersleidingsdienst waaraan de vereiste positiemeldingen moeten worden gedaan.
 
 4. Ongeacht de meteorologische omstandigheden is vluchtuitvoering tevens volgens de instrumentvliegverkeersvoorschriften verplicht indien de vlucht wordt uitgevoerd boven vliegniveau 195 alsmede gedurende de periode tussen zonsondergang en zonsopgang.
 
@@ -80,11 +53,11 @@ Algemeen luchtverkeer dient de luchtverkeersvoorschriften vervat in de Luchtvaar
 
 - b. onder leiding van een buitenlands radarstation, behorende tot het geïntegreerde NAVO-meldings- en gevechtsleidingssysteem, vluchten uitvoert in het kader van het NAVO-luchtverdedigingssysteem, onder de volgende voorwaarden:
 
-- (1). het Nederlandse gevechtsleidingscentrum dient vooraf van de voorgenomen activiteiten op de hoogte te worden gesteld;
+   - (1) het Nederlandse gevechtsleidingscentrum dient vooraf van de voorgenomen activiteiten op de hoogte te worden gesteld;
 
-- (2). de door burger-verkeersleidingsdiensten gecontroleerde verkeersleidingsgebieden gelegen op vliegniveau 195 en daaronder dienen te worden vermeden;
+   - (2) de door burger-verkeersleidingsdiensten gecontroleerde verkeersleidingsgebieden gelegen op vliegniveau 195 en daaronder dienen te worden vermeden;
 
-- (3). onder alle omstandigheden dient een horizontale separatie van ten minste 5 zeemijlen of een verticale separatie van ten minste 1500 m ten opzichte van ander luchtverkeer te worden aangehouden.
+   - (3) onder alle omstandigheden dient een horizontale separatie van ten minste 5 zeemijlen of een verticale separatie van ten minste 1500 m ten opzichte van ander luchtverkeer te worden aangehouden.
 
 ##### Artikel 5
 

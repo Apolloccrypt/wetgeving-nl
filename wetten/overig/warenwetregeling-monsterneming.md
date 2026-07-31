@@ -1,53 +1,17 @@
 ---
 title: "Warenwetregeling Monsterneming"
 identifier: "BWBR0004529"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-07-06"
-last_updated: "2007-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004529"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4975493"
-version_id: "14610472"
-internal_id: "C32907731"
-label_id: "4952564"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004529/2007-07-06/0"
-intitule_bron: "Stcrt.1989-89"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-04-20"
-intitule_published: "1989-05-10"
-intitule_in_force: "1989-05-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-126"
-original_signed_date: "2007-06-26"
-original_published_date: "2007-07-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2007-126-p14-SC81123"
-entry_into_force_date: "2007-07-06"
-jci_1_3: "jci1.3:c:BWBR0004529&z=2007-07-06&g=2007-07-06"
-jci_1_0: "1.0:c:BWBR0004529&g=2007-07-06"
-citeertitel_status: "officieel"
-signed_date: "2007-06-26"
-entry_into_force: "2007-07-06"
+publicatiedatum: 2007-07-06
+laatste_update: 2007-07-06
+status: geldig
+toestand: 2007-07-06
+bron: "https://wetten.overheid.nl/BWBR0004529"
+opgehaald: 2026-07-31
 ---
+
 # Warenwetregeling Monsterneming
-
-Overwegende, dat uit oogpunt van rechtszekerheid, regels met betrekking tot het nemen van monsters van waren ten behoeve van de uitvoering van het toezicht gewenst zijn;
-
-Overwegende, dat tevens uitvoering moet worden gegeven aan de Richtlijn van de Commissie tot vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op groenten en fruit (79/700/EEG) (PbEG L 207);
-
-Overwegende, dat tevens uitvoering moet worden gegeven aan bepalingen in de Richtlijn van de Raad betreffende het gebruik van bepaalde conserveermiddelen voor de oppervlaktebehandeling van citrusvruchten alsmede betreffende de controlemaatregelen voor de opsporing en de kwantitatieve bepaling van conserveermiddelen in en op citrusvruchten (67/427/EEG) (PbEG, nr. 148), voor zover het betreft de in dat verband voorgeschreven monsterneming;
-
-Overwegende, dat de Nederlandse regelgeving die uitvoering gaf aan vorengenoemde richtlijnen inmiddels van rechtswege is komen te vervallen vanwege de inwerkingstelling van de Wijzigingswet 1988 Warenwet;
-
-Overwegende, dat uitvoering moet worden gegeven aan de Eerste Richtlijn van de Commissie van de Europese Gemeenschappen tot vaststelling van communautaire methoden voor chemisch onderzoek met het oog op de controle op verduurzaamde melkprodukten (897/524/EEG) (PbEG L 306);
-
-Gelet op [artikel 26, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=26) (Stb. 1988, 360);
-
-Besluit:
 
 #### Paragraaf 1. Monsterneming in het algemeen
 
@@ -63,6 +27,10 @@ Besluit:
 
 5. De grootte der te nemen monsters die in de eerste plaats afhankelijk is van de aard van het in te stellen onderzoek, blijkt uit de voor de desbetreffende waar of het desbetreffende onderzoek vastgestelde methode van onderzoek. Bij gebreke van een dergelijk specifiek voorschrift wordt de grootte van het monster vastgesteld door of namens de directeur van de krachtens [artikel 25 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) aangewezen toezichthoudende instelling.
 
+##### Artikel 1a
+
+Bij monsterneming van een eet- of drinkwaar deelt de controleambtenaar de belanghebbende mede dat hij, voor zover dat technisch uitvoerbaar is, recht heeft op een tweede monster als bedoeld in [artikel 5:18, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), dan wel in [artikel 21, derde lid, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=21).
+
 ##### Artikel 2
 
 1. Na de monsterneming wordt het monster ter plaatse, eventueel na verpakking, verzegeld en zodanig van een opschrift voorzien, dat de herkomst vaststaat.
@@ -75,7 +43,7 @@ Besluit:
 
 5. Nadat de monsters in het laboratorium ontvangen zijn, worden alle gegevens in de administratie opgenomen met vermelding van de naam van de monsternemer.
 
-#### § 2. Monsterneming ten behoeve van controle op de radioactiviteit van groenten en fruit
+#### Paragraaf 2. Monsterneming ten behoeve van controle op de radioactiviteit van groenten en fruit
 
 ##### Artikel 3
 
@@ -113,15 +81,13 @@ Besluit:
 
 ##### Artikel 3a
 
-Vervallen
+*Vervallen*
 
-#### Paragraaf 3. Monsterneming ten behoeve van de controle op conserveermiddelen op citrusvruchten
+#### Paragraaf 3. Monsterneming ten behoeve van de controle op verduurzaamde gedehydrateede melkprodukten
 
 ##### Artikel 4
 
-Vervallen
-
-#### Paragraaf 4. Monsterneming ten behoeve van de controle op verduurzaamde gedehydrateede melkprodukten
+*Vervallen*
 
 ##### Artikel 5
 
@@ -131,13 +97,23 @@ In afwijking van het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 5a
 
-Vervallen
-
-#### Paragraaf 6. Monsterneming ten behoeve van de controle van de temperatuur van diepgevroren levensmiddelen
+*Vervallen*
 
 ##### Artikel 5b
 
 In deze paragraaf wordt verstaan onder:
+
+a.
+
+diepvriezen:
+
+het bevriezingsproces waardoor zo snel als nodig is de maximale kristallisatiezone wordt overschreden, met het gevolg dat na thermische stabilisatie de temperatuur overal in de waar zonder onderbreking gehandhaafd blijft op –18°C of lager;
+
+b.
+
+diepgevroren levensmiddelen:
+
+diepgevroren eet- of drinkwaren, andere dan consumptie-ijs, die verhandeld worden op een wijze waaruit blijkt dat zij dat kenmerk bezitten.
 
 ##### Artikel 5c
 
@@ -167,43 +143,51 @@ In deze paragraaf wordt verstaan onder:
 
 Onverminderd [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0004529&paragraaf=4&artikel=5c&z=2007-07-06&g=2007-07-06) mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de [Warenwetregeling Diepgevroren levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005825) is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd.
 
-#### § 7. Monsterneming voor de chemische analyse van caseïne en caseïnaten
+#### Paragraaf 5. Monsterneming voor de chemische analyse van caseïne en caseïnaten
 
 ##### Artikel 5e
 
-De monsternemingsmethoden voor de chemische analyse van caseïne en caseïnaten, bedoeld in de [Warenwetregeling Melkeiwitten (caseïne en caseïnaten)](https://wetten.overheid.nl/jci1.3:c:BWBR0007075), zijn opgenomen in de eerste [Richtlijn nr. 86/424/EEG](31986L0424) van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243).
+De monsternemingsmethoden voor de chemische analyse van caseïne en caseïnaten, bedoeld in de [Warenwetregeling Melkeiwitten (caseïne en caseïnaten)](https://wetten.overheid.nl/jci1.3:c:BWBR0007075), zijn opgenomen in de eerste Richtlijn nr. 86/424/EEG van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243).
 
-#### Par. 8:. Monsterneming voor de officiële controle op aflatoxinen in levensmiddelen
+#### Paragraaf 6. Monsterneming voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong
 
 ##### Artikel 5f
 
-Vervallen
-
-#### § 9. Monsterneming voor de officiële controle op de maximumgehalten aan lood, cadmium, kwik en 3-MCPD
+*Vervallen*
 
 ##### Artikel 5g
 
-Vervallen
-
-#### Paragraaf 7. Slotbepalingen
+*Vervallen*
 
 ##### Artikel 5h
 
-Vervallen
-
-#### § 11. Monsterneming voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong
+*Vervallen*
 
 ##### Artikel 5i
 
-De bemonstering van producten van plantaardige en van dierlijke oorsprong met het oog op de bepaling van het gehalte aan residuen van bestrijdingsmiddelen, geschiedt met inachtneming van [richtlijn nr. 2002/63/EG](32002L0063) van de Commissie van de Europese Gemeenschappen van 11 juli 2002 (PbEG L 187) houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van [richtlijn 79/700/EG](31979L0700).
+De bemonstering van producten van plantaardige en van dierlijke oorsprong met het oog op de bepaling van het gehalte aan residuen van bestrijdingsmiddelen, geschiedt met inachtneming van richtlijn nr. 2002/63/EG van de Commissie van de Europese Gemeenschappen van 11 juli 2002 (PbEG L 187) houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van richtlijn 79/700/EG.
 
-#### § 12. Monsterneming voor de officiële controle op de maximumgehalten aan dioxinen en furanen, en de gehaltebepaling voor dioxineachtige PCB’s in eet- en drinkwaren
+#### Paragraaf 7. Slotbepalingen
 
 ##### Artikel 5j
 
-Vervallen
+*Vervallen*
 
-#### § 13. Slotbepalingen
+##### Artikel 5k
+
+*Vervallen*
+
+##### Artikel 5l
+
+*Vervallen*
+
+##### Artikel 5m
+
+*Vervallen*
+
+##### Artikel 5n
+
+*Vervallen*
 
 ##### Artikel 6
 
@@ -215,64 +199,10 @@ Vervallen
 
 4. Een wijziging van:
 
-- a. [richtlijn nr. 87/524/EEG](31987L0524) van de Commissie van de Europese Gemeenschappen van 6 oktober 1987 tot vaststelling van communautaire methoden voor de monsterneming voor chemisch onderzoek met het oog op de controle op verduurzaamde melkproducten (PbEG L 306);
+- a. richtlijn nr. 87/524/EEG van de Commissie van de Europese Gemeenschappen van 6 oktober 1987 tot vaststelling van communautaire methoden voor de monsterneming voor chemisch onderzoek met het oog op de controle op verduurzaamde melkproducten (PbEG L 306);
 
-- b. [richtlijn nr. 86/424/EEG](31986L0424) van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243);
+- b. richtlijn nr. 86/424/EEG van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243);
 
-- c. [richtlijn nr. 2002/63/EG](32002L0063) van de Commissie van de Europese Gemeenschappen van 11 juli 2002 (PbEG L 187) houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van [richtlijn 79/700/EG](31979L0700);
+- c. richtlijn nr. 2002/63/EG van de Commissie van de Europese Gemeenschappen van 11 juli 2002 (PbEG L 187) houdende vaststelling van communautaire bemonsteringsmethoden voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong en tot intrekking van richtlijn 79/700/EG;
 
 gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-##### Artikel 1a
-
-Bij monsterneming van een eet- of drinkwaar deelt de controleambtenaar de belanghebbende mede dat hij, voor zover dat technisch uitvoerbaar is, recht heeft op een tweede monster als bedoeld in [artikel 5:18, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), dan wel in [artikel 21, derde lid, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=21).
-
-#### Paragraaf 2. Monsterneming ten behoeve van controle op de radioactiviteit van groenten en fruit
-
-#### Paragraaf 3. Monsterneming ten behoeve van de controle op verduurzaamde gedehydrateede melkprodukten
-
-#### Paragraaf 4. Monsterneming ten behoeve van de controle op verduurzaamde gedehydrateede melkprodukten
-
-#### Paragraaf 5. Monsterneming ten behoeve van de controle van het nitraatgehalte van groenten
-
-#### Paragraaf 6. Monsterneming ten behoeve van de controle van de temperatuur van diepgevroren levensmiddelen
-
-#### Paragraaf 6. Monsterneming voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong
-
-#### Par. 8:. Monsterneming voor de officiële controle op aflatoxinen in levensmiddelen
-
-#### § 9. Monsterneming voor de officiële controle op de maximumgehalten aan lood, cadmium, kwik en 3-MCPD
-
-#### § 10. Monsterneming voor de officiële controle op de gehalten aan ochratoxine A
-
-#### § 11. Monsterneming voor de officiële controle op residuen van bestrijdingsmiddelen in en op producten van plantaardige en van dierlijke oorsprong
-
-#### § 12. Monsterneming voor de officiële controle op de maximumgehalten aan dioxinen en furanen, en de gehaltebepaling voor dioxineachtige PCB’s in eet- en drinkwaren
-
-#### § 13. Monsterneming voor de officiële controle op de gehalten aan patuline
-
-##### Artikel 5k
-
-Vervallen
-
-#### § 14. Monsterneming voor de officiële controle op het tingehalte in levensmiddelen in blik
-
-##### Artikel 5l
-
-Vervallen
-
-#### § 15. Monsterneming voor de officiële controle op de gehalten aan benzo(a)pyreen in levensmiddelen
-
-##### Artikel 5m
-
-Vervallen
-
-#### § 16. Monsterneming voor de officiële controle op de gehalten aan Fusarium-toxinen in levensmiddelen
-
-##### Artikel 5n
-
-Vervallen
-
-#### § 17. Slotbepalingen
-
-#### Paragraaf 5. Monsterneming voor de chemische analyse van caseïne en caseïnaten

@@ -1,42 +1,17 @@
 ---
 title: "Regeling inkomsten Uitkeringswet gewezen militairen"
 identifier: "BWBR0004201"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-02-01"
-last_updated: "1990-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004201"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4522263"
-version_id: "6328652"
-internal_id: "C6535451"
-label_id: "4500724"
-dtd_version: "2.0"
-original_entry_into_force: "1987-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004201/1990-02-01/0"
-intitule_bron: "Stcrt.1987-154"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-08-05"
-intitule_published: "1987-08-13"
-intitule_in_force: "1987-08-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-154"
-original_signed_date: "1987-08-05"
-original_published_date: "1987-08-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-01-01"
-jci_1_3: "jci1.3:c:BWBR0004201&z=1990-02-01&g=1990-02-01"
-jci_1_0: "1.0:c:BWBR0004201&g=1990-02-01"
-citeertitel_status: "officieel"
-signed_date: "1987-08-05"
-entry_into_force: "1987-01-01"
+publicatiedatum: 1987-01-01
+laatste_update: 1990-02-01
+status: geldig
+toestand: 1990-02-01
+bron: "https://wetten.overheid.nl/BWBR0004201"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inkomsten Uitkeringswet gewezen militairen
-
-Gelet op [artikel 5, vijfde lid, van de Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540&artikel=5) (Stb. 1966, 451);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -68,15 +43,15 @@ Bij de vaststelling van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - f. buiten beschouwing gelaten:
 
-- 1e. de uitkering krachtens of overeenkomstig de Interimregeling ziektekosten ambtenaren 1982 (Stb. 173);
+   - 1e. de uitkering krachtens of overeenkomstig de Interimregeling ziektekosten ambtenaren 1982 (Stb. 173);
 
-- 2e. de door de werkgever op grond van [artikel 15, tweede lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=15) (Stb. 1964, 392) of een overeenkomstige regeling verschuldigde premie;
+   - 2e. de door de werkgever op grond van [artikel 15, tweede lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=15) (Stb. 1964, 392) of een overeenkomstige regeling verschuldigde premie;
 
-- 3e. op verzoek het overwerk uit dienstbetrekking, voor zover dat het gevolg is van een extra inspanning die uitgaat boven het normaal geldende aantal uren per week bij een volledige dagtaak en voor zover dat in redelijke verhouding staat tot het normale week- of maandloon;
+   - 3e. op verzoek het overwerk uit dienstbetrekking, voor zover dat het gevolg is van een extra inspanning die uitgaat boven het normaal geldende aantal uren per week bij een volledige dagtaak en voor zover dat in redelijke verhouding staat tot het normale week- of maandloon;
 
-- 4e. een uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+   - 4e. een uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
-- 5e. de onderhevelingstoeslag als bedoeld in de Wet overhevelingstoeslag opslagpremies (Stb. 1989, 128).
+   - 5e. de onderhevelingstoeslag als bedoeld in de Wet overhevelingstoeslag opslagpremies (Stb. 1989, 128).
 
 ##### Artikel 4
 

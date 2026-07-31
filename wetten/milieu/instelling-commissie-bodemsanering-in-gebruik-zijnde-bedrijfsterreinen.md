@@ -1,42 +1,17 @@
 ---
 title: "Instelling Commissie Bodemsanering in gebruik zijnde bedrijfsterreinen"
 identifier: "BWBR0004505"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-05-01"
-last_updated: "1990-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004505"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4266533"
-version_id: "6029942"
-internal_id: "C6233331"
-label_id: "4245084"
-dtd_version: "2.0"
-original_entry_into_force: "1989-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004505/1990-05-01/0"
-intitule_bron: "Stcrt.1989-58"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-03-10"
-intitule_published: "1989-03-22"
-intitule_in_force: "1989-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-58"
-original_signed_date: "1989-03-10"
-original_published_date: "1989-03-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-02-15"
-jci_1_3: "jci1.3:c:BWBR0004505&z=1990-05-01&g=1990-05-01"
-jci_1_0: "1.0:c:BWBR0004505&g=1990-05-01"
-citeertitel_status: "officieel"
-signed_date: "1989-03-10"
-entry_into_force: "1989-02-15"
+publicatiedatum: 1989-02-15
+laatste_update: 1990-05-01
+status: geldig
+toestand: 1990-05-01
+bron: "https://wetten.overheid.nl/BWBR0004505"
+opgehaald: 2026-07-31
 ---
+
 # Instelling Commissie Bodemsanering in gebruik zijnde bedrijfsterreinen
-
-Gezien zijn brief dd. 19 juli 1988 aan de Tweede Kamer (Tweede Kamer, 1987–1988, 20 200, nr. 97) inzake de voorgestane aanpak van de problematiek van bodemsanering op in gebruik zijnde bedrijfsterreinen;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -68,19 +43,19 @@ In de Commissie worden benoemd:
 
 - b. tot lid:
 
-- zes leden aan te wijzen door het Bureau Milieu en Ruimtelijke Ordening van de Raad van Nederlandse Werkgeversverbonden VNO en NCW;
+   - zes leden aan te wijzen door het Bureau Milieu en Ruimtelijke Ordening van de Raad van Nederlandse Werkgeversverbonden VNO en NCW;
 
-- een lid aan te wijzen door het Koninklijk Nederlands Ondernemersverbond;
+   - een lid aan te wijzen door het Koninklijk Nederlands Ondernemersverbond;
 
-- twee leden aan te wijzen door het Interprovinciaal Overleg;
+   - twee leden aan te wijzen door het Interprovinciaal Overleg;
 
-- twee leden aan te wijzen door de Vereniging van Nederlandse Gemeenten;
+   - twee leden aan te wijzen door de Vereniging van Nederlandse Gemeenten;
 
-- Twee leden aan te wijzen door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+   - Twee leden aan te wijzen door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- een lid aan te wijzen door de Minister van Economische Zaken.
+   - een lid aan te wijzen door de Minister van Economische Zaken.
 
-- een lid aan te wijzen door de Vereniging van Kamers van Koophandel in Nederland.
+   - een lid aan te wijzen door de Vereniging van Kamers van Koophandel in Nederland.
 
 ##### Artikel 6
 
@@ -105,5 +80,3 @@ c. Wanneer de commissie organisatorische ondersteuning van een werkgroep nodig a
 1. Het beheer van de bescheiden betreffende de werkzaamheden van de Commissie geschiedt met inachtneming van de bepalingen van het Besluit algemene secretarieaangelegenheden rijksadministratie (Stb. 1980, 182) op overeenkomstige wijze als bij het departement van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 2. De bescheiden worden bij opheffing van de Commissie in het Centraal Archief van dit departement opgenomen.
-
-Deze beschikking zal worden bekendgemaakt in de Nederlandse Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer en aan belanghebbenden.

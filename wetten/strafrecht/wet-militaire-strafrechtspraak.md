@@ -1,44 +1,18 @@
 ---
 title: "Rijkswet van 14 juni 1990, houdende nieuwe regels inzake de militaire strafrechtspraak"
+citeertitel: "Wet militaire strafrechtspraak"
 identifier: "BWBR0004789"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004789"
+categorie: "Strafrecht"
 soort: "rijkswet"
-stam_id: "217193"
-version_id: "302842"
-internal_id: "C302841"
-label_id: "214544"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004789/2020-04-01/0"
-intitule_bron: "Stb.1990-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-06-14"
-intitule_in_force: "1990-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1990-370"
-original_signed_date: "1990-06-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "17804"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004789&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0004789&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet militaire strafrechtspraak"
-signed_date: "1990-06-14"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0004789"
+opgehaald: 2026-07-31
 ---
+
 # Rijkswet van 14 juni 1990, houdende nieuwe regels inzake de militaire strafrechtspraak
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe voorschriften te geven inzake de organisatie van de militaire strafrechtspraak, alsmede enige bepalingen inzake de daarbij plaatsvindende wijze van strafvordering;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -48,21 +22,21 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 2. In deze rijkswet wordt verstaan onder:
 
-- a. **Wetboek van Strafvordering:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het Europese deel van Nederland;
+- a. *Wetboek van Strafvordering:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het Europese deel van Nederland;
 
-- b. **Wetboek van Strafrecht:** het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van Nederland;
+- b. *Wetboek van Strafrecht:* het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van Nederland;
 
-- c. **Gemeenschappelijk Hof van Justitie:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- c. *Gemeenschappelijk Hof van Justitie:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- d. **Gerechten in eerste aanleg:** het Gerecht in eerste aanleg van Aruba, het Gerecht in eerste aanleg van Curaçao, het Gerecht in eerste aanleg van Sint Maarten en het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+- d. *Gerechten in eerste aanleg:* het Gerecht in eerste aanleg van Aruba, het Gerecht in eerste aanleg van Curaçao, het Gerecht in eerste aanleg van Sint Maarten en het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- e. **Militaire kamers:** de kamers, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=49) en [55 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55).
+- e. *Militaire kamers:* de kamers, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=49) en [55 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55).
 
 3. Het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) is van toepassing, tenzij daarvan in deze rijkswet wordt afgeweken.
 
 ### Hoofdstuk II. Organisatie van de militaire strafrechtspraak
 
-## Titel I. Militaire strafrechtspraak in eerste aanleg
+### Titel I. Militaire strafrechtspraak in eerste aanleg
 
 ##### Artikel 2
 
@@ -76,7 +50,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - 2°. strafbare feiten begaan door hen die buiten het grondgebied van het Koninkrijk deel uitmaken van de Nederlandse krijgsmacht;
 
-- 3°. strafbare feiten begaan door personen als bedoeld onder 4 van onderdeel A van artikel 4 van het Verdrag van Genève, betreffende de behandeling van krijgsgevangenen van 12 augustus 1949 (**Trb.** 1951, nr. 74) voor zover die personen de Nederlandse krijgsmacht volgen buiten het grondgebied van het Koninkrijk;
+- 3°. strafbare feiten begaan door personen als bedoeld onder 4 van onderdeel A van artikel 4 van het Verdrag van Genève, betreffende de behandeling van krijgsgevangenen van 12 augustus 1949 (*Trb.* 1951, nr. 74) voor zover die personen de Nederlandse krijgsmacht volgen buiten het grondgebied van het Koninkrijk;
 
 - 4°. strafbare feiten door wie ook begaan in door de Nederlandse krijgsmacht bezet gebied, voorzover kennisneming daarvan in overeenstemming is met de regels door het volkenrecht erkend.
 
@@ -106,7 +80,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -122,11 +96,11 @@ Vervallen
 
 6. Alles wat de wijze van eedsaflegging, het kostuum van de militaire leden alsmede de werkwijze van de militaire kamers aangaat, wordt geregeld bij algemene maatregel van Rijksbestuur.
 
-## Titel II. Hoger beroep
+### Titel II. Hoger beroep
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -144,7 +118,7 @@ Vervallen
 
 4. [Artikel 6, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2020-04-01&g=2020-04-01), is van overeenkomstige toepassing.
 
-## Titel III. Mobiele rechtbanken
+### Titel III. Mobiele rechtbanken
 
 ##### Artikel 10
 
@@ -204,7 +178,7 @@ Vervallen
 
 2. [Artikel 78, eerste, zesde en zevende lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=78) is van overeenkomstige toepassing met betrekking tot de mobiele rechtbank.
 
-## Titel IV. Organisatie van de militaire strafrechtspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba
+### Titel IV. Organisatie van de militaire strafrechtspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 17
 
@@ -254,7 +228,7 @@ Vervallen
 
 ### Hoofdstuk III. Strafvordering
 
-## Titel I. Algemene bepalingen
+### Titel I. Algemene bepalingen
 
 ##### Artikel 20
 
@@ -304,7 +278,7 @@ Onverminderd het bepaalde in [artikel 67 van het Wetboek van Strafvordering](htt
 
 ##### Artikel 27
 
-1. Onverminderd het bepaalde in [artikel 67**a** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67a) kan een op het voorgaand artikel of op [artikel 67 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67) gegrond bevel eveneens worden gegeven, indien uit bepaalde omstandigheden blijkt van een gewichtige reden van militaire veiligheid, welke de onverwijlde vrijheidsbeneming vordert.
+1. Onverminderd het bepaalde in [artikel 67*a* van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67a) kan een op het voorgaand artikel of op [artikel 67 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67) gegrond bevel eveneens worden gegeven, indien uit bepaalde omstandigheden blijkt van een gewichtige reden van militaire veiligheid, welke de onverwijlde vrijheidsbeneming vordert.
 
 2. Een gewichtige reden van militaire veiligheid kan voor de toepassing van het vorige lid slechts in aanmerking worden genomen:
 
@@ -316,7 +290,7 @@ Onverminderd het bepaalde in [artikel 67 van het Wetboek van Strafvordering](htt
 
 De strafbepalingen van het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) en de gedragsregels van de [Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) zijn niet van toepassing op de schending van een bevel, dat aan de verdachte is gegeven ingevolge een bij de wet in het belang van strafvordering toegekende bevoegdheid.
 
-## Titel II. Bepalingen betreffende strafvordering in eerste aanleg
+### Titel II. Bepalingen betreffende strafvordering in eerste aanleg
 
 ##### Artikel 29
 
@@ -350,11 +324,11 @@ De termijn van dagvaarding voor de militaire politierechter en de militaire kant
 
 2. Onze Minister van Justitie en Veiligheid kan aan de verdachte een tegemoetkoming in de reis- en verblijfkosten verlenen, indien de rechter zijn verschijning in persoon heeft bevolen en betrokkene naar het oordeel van Onze Minister zeer hoge kosten heeft moeten maken.
 
-## Titel III. Bepalingen betreffende rechtsmiddelen
+### Titel III. Bepalingen betreffende rechtsmiddelen
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
@@ -382,7 +356,7 @@ De verwezen zaak wordt behandeld door de militaire kamer. Aan de behandeling van
 
 Bij de toepassing van [artikel 473, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=473) zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=26&z=2020-04-01&g=2020-04-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=27&z=2020-04-01&g=2020-04-01) mede van overeenkomstige toepassing.
 
-## Titel IV. Bepalingen betreffende enige rechtsplegingen van bijzondere aard
+### Titel IV. Bepalingen betreffende enige rechtsplegingen van bijzondere aard
 
 ##### Artikel 39
 
@@ -394,15 +368,15 @@ De [artikelen 510](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=510) 
 
 ##### Artikel 41
 
-De bevoegdheden bedoeld in [artikel 551 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=551) kunnen mede worden uitgeoefend in geval van een strafbaar feit als omschreven in de [Eerste Titel van het Tweede Boek van het Wetboek van Militair Strafrecht](onbekend).
+De bevoegdheden bedoeld in [artikel 551 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=551) kunnen mede worden uitgeoefend in geval van een strafbaar feit als omschreven in de Eerste Titel van het Tweede Boek van het Wetboek van Militair Strafrecht.
 
-## Titel V. Bepalingen betreffende tenuitvoerlegging en kosten
+### Titel V. Bepalingen betreffende tenuitvoerlegging en kosten
 
 ##### Artikel 42
 
 In afwijking van het bepaalde in [artikel 36e, eerste lid, aanhef en onder b, en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e) kan het gerechtelijk schrijven bestemd voor hen die feitelijk in werkelijke dienst verblijven worden uitgereikt op het adres van het onderdeel of dienstvak, waarbij zij zijn ingedeeld.
 
-## Titel VI. Bepalingen betreffende de rechtspleging bij een mobiele rechtbank
+### Titel VI. Bepalingen betreffende de rechtspleging bij een mobiele rechtbank
 
 ##### Artikel 43
 
@@ -428,9 +402,9 @@ Indien zulks noodzakelijk is om de militaire strafrechtspraak te waarborgen, kan
 
 - a. in het rechtsgebied van een mobiele rechtbank:
 
-- 1°. de termijnen genoemd in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=58) en [64 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=64) tijdelijk zijn verdubbeld;
+   - 1°. de termijnen genoemd in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=58) en [64 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=64) tijdelijk zijn verdubbeld;
 
-- 2°. tijdelijk bij dagvaarding betreffende een strafbaar feit kan worden volstaan met een korte aanduiding van het feit dat te laste wordt gelegd met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn, en de termijnen genoemd in [artikel 265 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=265) en [artikel 32 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=32&z=2020-04-01&g=2020-04-01) ook zonder toestemming van de verdachte tijdelijk kunnen worden verkort, een en ander voorzover de verdachte daardoor naar het oordeel van de rechtbank niet in zijn verdediging wordt geschaad;
+   - 2°. tijdelijk bij dagvaarding betreffende een strafbaar feit kan worden volstaan met een korte aanduiding van het feit dat te laste wordt gelegd met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn, en de termijnen genoemd in [artikel 265 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=265) en [artikel 32 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=32&z=2020-04-01&g=2020-04-01) ook zonder toestemming van de verdachte tijdelijk kunnen worden verkort, een en ander voorzover de verdachte daardoor naar het oordeel van de rechtbank niet in zijn verdediging wordt geschaad;
 
 - b. de mobiele rechtbank wettelijke voorschriften betreffende de termijnen en vormen, indien deze ten gevolge van de bijzondere omstandigheden in redelijkheid niet konden of kunnen worden in acht genomen, buiten beschouwing kan laten;
 
@@ -456,7 +430,7 @@ Krachtens de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoof
 
 2. De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=48&z=2020-04-01&g=2020-04-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=49&z=2020-04-01&g=2020-04-01) zijn in dat geval van overeenkomstige toepassing met dien verstande dat voor de Minister van Justitie en Veiligheid wordt gelezen de in het eerste lid bedoelde militaire autoriteit.
 
-## Titel VII. Bepalingen betreffende de rechtspleging in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba
+### Titel VII. Bepalingen betreffende de rechtspleging in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 51
 
@@ -498,7 +472,7 @@ In de gevallen van verwijzing als bedoeld in de [artikelen 36, eerste volzin](ht
 
 In Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba kunnen opsporingsambtenaren bij de uitoefening van hun bevoegdheden niet dan met inachtneming van de grenzen in de ter plaatse geldende wetgeving voor de gewone strafvordering gesteld, inbreuk maken op de rechten van niet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2020-04-01&g=2020-04-01) bedoelde rechtsmacht onderworpen personen.
 
-## Titel VIII. Bijzondere bepalingen betreffende het uitoefenen van bevoegdheden inzake strafvordering buiten het Koninkrijk of binnen de territoriale zee
+### Titel VIII. Bijzondere bepalingen betreffende het uitoefenen van bevoegdheden inzake strafvordering buiten het Koninkrijk of binnen de territoriale zee
 
 ##### Artikel 59
 
@@ -540,38 +514,36 @@ Deze Rijkswet kan worden aangehaald als "Wet militaire strafrechtspraak".
 
 1. Deze Rijkswet treedt in werking met ingang van een nader bij koninklijk besluit te bepalen tijdstip.
 
-2. Bij koninklijk besluit kan voordien een tijdstip worden bepaald met ingang waarvan [Titel IIB van het Vierde Boek van het Wetboek van Strafvordering](onbekend) toepassing vindt op aan de militaire rechtsmacht onderworpen personen, met dien verstande dat waar in enige bepaling van [die Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IIB) van "rechtbank" wordt gesproken, daaronder "krijgsraad" wordt verstaan.
+2. Bij koninklijk besluit kan voordien een tijdstip worden bepaald met ingang waarvan Titel IIB van het Vierde Boek van het Wetboek van Strafvordering toepassing vindt op aan de militaire rechtsmacht onderworpen personen, met dien verstande dat waar in enige bepaling van [die Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IIB) van "rechtbank" wordt gesproken, daaronder "krijgsraad" wordt verstaan.
 
 ##### Artikel 65
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+*Vervallen*

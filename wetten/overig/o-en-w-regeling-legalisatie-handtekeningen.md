@@ -1,42 +1,17 @@
 ---
 title: "O. en W.-regeling legalisatie handtekeningen"
 identifier: "BWBR0005229"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005229"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4524723"
-version_id: "6331032"
-internal_id: "C6538061"
-label_id: "4503104"
-dtd_version: "2.0"
-original_entry_into_force: "1991-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005229/2002-01-01/0"
-intitule_bron: "Uitleg.1991-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-10"
-intitule_published: "1991-10-30"
-intitule_in_force: "1991-10-30"
-intitule_status: "goed"
-original_publication: "Uitleg.1991-25"
-original_signed_date: "1991-10-10"
-original_published_date: "1991-10-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-11-02"
-jci_1_3: "jci1.3:c:BWBR0005229&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0005229&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1991-10-10"
-entry_into_force: "1991-11-02"
+publicatiedatum: 1991-11-02
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0005229"
+opgehaald: 2026-07-31
 ---
+
 # O. en W.-regeling legalisatie handtekeningen
-
-Gelet op [artikel 1, tweede lid, van de Wet van 26 juni 1991, houdende regels inzake de heffing van rechten voor de legalisatie van handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0005125&artikel=1) (Stb. 351),
-
-Besluit:
 
 ##### Artikel 1
 

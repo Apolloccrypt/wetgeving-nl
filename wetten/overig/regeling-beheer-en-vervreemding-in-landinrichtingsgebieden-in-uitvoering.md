@@ -1,48 +1,49 @@
 ---
 title: "Regeling beheer en vervreemding in landinrichtingsgebieden in uitvoering"
 identifier: "BWBR0004170"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1987-06-24"
-last_updated: "1987-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004170"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3744083"
-version_id: "5527012"
-internal_id: "C5720101"
-label_id: "3723894"
-dtd_version: "2.0"
-original_entry_into_force: "1987-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004170/1987-06-24/0"
-intitule_bron: "Stcrt.1987-117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-06-18"
-intitule_published: "1987-06-23"
-intitule_in_force: "1987-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-117"
-original_signed_date: "1987-06-18"
-original_published_date: "1987-06-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-06-24"
-jci_1_3: "jci1.3:c:BWBR0004170&z=1987-06-24&g=1987-06-24"
-jci_1_0: "1.0:c:BWBR0004170&g=1987-06-24"
-citeertitel_status: "officieel"
-signed_date: "1987-06-18"
-entry_into_force: "1987-06-24"
+publicatiedatum: 1987-06-24
+laatste_update: 1987-06-24
+status: geldig
+toestand: 1987-06-24
+bron: "https://wetten.overheid.nl/BWBR0004170"
+opgehaald: 2026-07-31
 ---
+
 # Regeling beheer en vervreemding in landinrichtingsgebieden in uitvoering
-
-Gelet op [artikel 29, derde lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=29) (Stb. 1981, 248);
-
-Gehoord de Centrale Landinrichtingscommissie en de Commissie Beheer Landbouwgronden;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+landinrichtingsgebieden in uitvoering:
+
+gebieden waar ingevolge de [Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793) (Stb. 1985, 299) het landinrichtingsplan of een deel daarvan dan wel het aanpassingsplan is vastgesteld en het besluit tot herinrichting, ruilverkaveling of aanpassingsinrichting is genomen;
+
+materieel beheer:
+
+het treffen van regelingen met betrekking tot gebruik en onderhoud van land in landinrichtingsgebieden in uitvoering waarvan het bureau zakelijke of persoonlijke rechten heeft verworven;
+
+landinrichtingscommissie:
+
+de in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=27), dan wel [artikel 99, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=99) bedoelde landinrichtingscommissie;
+
+landinrichtingsplan:
+
+het plan, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=73), dan wel [artikel 86 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=86);
+
+aanpassingsplan:
+
+het plan, bedoeld in [artikel 101 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=101);
+
+plan van toedeling:
+
+het plan van toedeling, bedoeld in [artikel 196, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=196);
+
+akte van toedeling:
+
+de akte van toedeling, bedoeld in [artikel 207, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=207).
 
 ##### Artikel 2
 
@@ -64,21 +65,21 @@ In deze regeling wordt verstaan onder:
 
 - a. het bureau het materieel beheer tot aan de datum waarop de akte van toedeling in de openbare registers wordt overgeschreven ten aanzien van land en de daarop aanwezige opstallen:
 
-- welke worden aangewend voor niet agrarisch gebruik, voor zover niet opgenomen in het landinrichtingsplan dan wel het aanpassingsplan;
+   - welke worden aangewend voor niet agrarisch gebruik, voor zover niet opgenomen in het landinrichtingsplan dan wel het aanpassingsplan;
 
-- welke gelegen zijn binnen als zodanig aangewezen reservaatsgebieden;
+   - welke gelegen zijn binnen als zodanig aangewezen reservaatsgebieden;
 
-- welke worden aangewend voor uitgifte in erfpacht;
+   - welke worden aangewend voor uitgifte in erfpacht;
 
 - b. de landinrichtingscommissie gedurende het tijdvak dat begint met het kalenderjaar volgende op het jaar waarin het landinrichtingsplan of een gedeelte daarvan dan wel het aanpassingsplan is vastgesteld en eindigt op de datum bedoeld in het derde lid, het materieel beheer ten aanzien van het land dat per kalenderjaar aangewend wordt voor:
 
-- uitvoering van werken;
+   - uitvoering van werken;
 
-- tijdelijke compensatie van grondgebruikers op wier grond werken worden uitgevoerd;
+   - tijdelijke compensatie van grondgebruikers op wier grond werken worden uitgevoerd;
 
-- blijvende compensatie van grondgebruikers op wier grond werken zijn uitgevoerd als gevolg waarvan het gebruik niet meer mogelijk is;
+   - blijvende compensatie van grondgebruikers op wier grond werken zijn uitgevoerd als gevolg waarvan het gebruik niet meer mogelijk is;
 
-- oplossing van incidentele problemen bij de uitvoering van een landinrichtingsproject welke geen verband behoeven te hebben met de uitvoering van werken.
+   - oplossing van incidentele problemen bij de uitvoering van een landinrichtingsproject welke geen verband behoeven te hebben met de uitvoering van werken.
 
 3. Onverminderd het bepaalde in het tweede lid voert de landinrichtingscommissie het materieel beheer gedurende het tijdvak dat begint met het kalenderjaar volgende op het jaar waarin het plan van toedeling van het betreffende blok ter visie is gelegd en eindigt op de datum waarop de akte van toedeling in de openbare registers wordt overgeschreven.
 

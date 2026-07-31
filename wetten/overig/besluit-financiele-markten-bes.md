@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0031636"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Besluit van 22 mei 2012 houdende nadere regels met betrekking tot de financiële markten in de openbare lichamen Bonaire, Sint Eustatius en Saba en de financiële ondernemingen die op die markten werkzaam zijn (Besluit financiële markten BES)

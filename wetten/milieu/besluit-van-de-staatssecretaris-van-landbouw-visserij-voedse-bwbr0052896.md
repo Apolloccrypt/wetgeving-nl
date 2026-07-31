@@ -9,7 +9,7 @@ laatste_update: 2026-07-25
 status: geldig
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052896"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107537273, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van koolgalmug en koolwittevlieg in de onbedekte teelt van bloemkool (Tijdelijke vrijstelling voor de beheersing van koolwittevlieg en koolgalmug in de onbedekte teelt van bloemkool, 2026)

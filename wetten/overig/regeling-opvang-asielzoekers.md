@@ -1,42 +1,17 @@
 ---
 title: "Regeling opvang asielzoekers"
 identifier: "BWBR0005366"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005366"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4941433"
-version_id: "7998982"
-internal_id: "C9923041"
-label_id: "4919604"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005366/2009-07-01/0"
-intitule_bron: "Stcrt.1991-251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-23"
-intitule_published: "1991-12-27"
-intitule_in_force: "1991-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-251"
-original_signed_date: "1991-12-23"
-original_published_date: "1991-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005366&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0005366&g=2009-07-01"
-citeertitel_status: "officieel"
-signed_date: "1991-12-23"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0005366"
+opgehaald: 2026-07-31
 ---
+
 # Regeling opvang asielzoekers
-
-Overwegende dat het met het oog op de invoering van een gewijzigd opvangmodel en met het oog op de wijziging van de vreemdelingencirculaire, strekkende tot invoering van de gedoogdenverklaring, wenselijk is de Regeling opvang asielzoekers (Stcrt. 1987, 75) te wijzigen;
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -44,7 +19,37 @@ Besluit:
 
 1. Voor de toepassing van deze regeling wordt verstaan onder:
 
-a. de minister: de Minister van Justitie; b. asielaanvraag: een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28); c. asielzoeker: een vreemdeling aan wie de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend; d. kind: een persoon, jonger dan 21 jaar, die niet samenwoont met een (huwelijks)partner en die een (stief)kind is van de asielzoeker dan wel met de asielzoeker in gezinsverband leeft en te zijnen laste komt; e. woonruimte: 1º. een besloten ruimte die bestemd en geschikt is voor bewoning en voorzien is van een eigen toegang alsmede van alle noodzakelijke woonfuncties; 2º. een kamer in een ruimte als beschreven onder 1° van dit onderdeel.
+a.
+
+de minister:
+
+de Minister van Justitie;
+
+b.
+
+asielaanvraag:
+
+een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
+
+c.
+
+asielzoeker:
+
+een vreemdeling aan wie de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend;
+
+d.
+
+kind:
+
+een persoon, jonger dan 21 jaar, die niet samenwoont met een (huwelijks)partner en die een (stief)kind is van de asielzoeker dan wel met de asielzoeker in gezinsverband leeft en te zijnen laste komt;
+
+e.
+
+woonruimte:
+
+- 1º. een besloten ruimte die bestemd en geschikt is voor bewoning en voorzien is van een eigen toegang alsmede van alle noodzakelijke woonfuncties;
+
+- 2º. een kamer in een ruimte als beschreven onder 1° van dit onderdeel.
 
 2. Voor de toepassing van deze regeling wordt onder asielzoeker tevens verstaan een vreemdeling aan wie de toegang tot Nederland niet is geweigerd en die een verzoek heeft ingediend tot verlening van een vergunning om in Nederland te verblijven ten behoeve van de gezinshereniging met een asielzoeker aan wie met toepassing van deze regeling opvang wordt geboden.
 
@@ -64,7 +69,7 @@ Deze regeling heeft betrekking op een asielzoeker die niet beschikt over voldoen
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -82,39 +87,39 @@ De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&h
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Met gemeenten te sluiten overeenkomsten
 
@@ -150,7 +155,7 @@ Vervallen
 
 ##### Artikel 15a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -236,7 +241,7 @@ De gemeente betaalt op vordering van de minister een bijdrage geheel of gedeelte
 
 ##### Artikel 27a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
@@ -268,27 +273,27 @@ In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&ho
 
 ##### Artikel 31a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31f
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Slotbepalingen
 
@@ -317,5 +322,3 @@ Deze regeling, die met de daarbij behorende toelichting in de Staatscourant zal 
 ##### Artikel 36
 
 Deze regeling kan worden aangehaald als Regeling opvang asielzoekers.
-
-Een afschrift van deze regeling wordt gezonden aan de Algemene Rekenkamer.

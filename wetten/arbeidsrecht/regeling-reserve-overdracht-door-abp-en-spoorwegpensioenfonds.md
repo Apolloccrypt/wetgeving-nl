@@ -1,46 +1,17 @@
 ---
 title: "Regeling reserve-overdracht door ABP en Spoorwegpensioenfonds"
 identifier: "BWBR0004706"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-10-01"
-last_updated: "1990-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004706"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "4655893"
-version_id: "6472082"
-internal_id: "C6718961"
-label_id: "4634084"
-dtd_version: "2.0"
-original_entry_into_force: "1990-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004706/1990-10-01/0"
-intitule_bron: "Stcrt.1990-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-01-30"
-intitule_published: "1990-09-27"
-intitule_in_force: "1990-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-188"
-original_signed_date: "1990-01-30"
-original_published_date: "1990-09-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-10-01"
-jci_1_3: "jci1.3:c:BWBR0004706&z=1990-10-01&g=1990-10-01"
-jci_1_0: "1.0:c:BWBR0004706&g=1990-10-01"
-citeertitel_status: "officieel"
-signed_date: "1990-01-30"
-entry_into_force: "1990-10-01"
+publicatiedatum: 1990-10-01
+laatste_update: 1990-10-01
+status: geldig
+toestand: 1990-10-01
+bron: "https://wetten.overheid.nl/BWBR0004706"
+opgehaald: 2026-07-31
 ---
+
 # Regeling reserve-overdracht door ABP en Spoorwegpensioenfonds
-
-Gelet op artikel 3 van het Besluit reserve-overdracht ambtenaren (Stb. 1988, 154) en [artikel 3 van het Besluit reserve-overdracht N.S.-personeel](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&artikel=3) (Stb. 1988, 153);
-
-Na overleg met het bestuur van het Algemeen burgerlijk pensioenfonds en
-
-gehoord de Raad van toezicht van het Spoorwegpensioenfonds en de wiskundig adviseur bedoeld in artikel L 14 van de Spoorwegpensioenwet;
-
-Besluit:
 
 #### Ouderdomspensioen
 
@@ -48,17 +19,17 @@ Besluit:
 
 De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de berekening van de overdrachtswaarde van een ouderdomspensioen hebben een grootte als vastgesteld in de volgende tabellen:
 
-- A:. de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een y-jarige ongehuwde vrouw, ingaande bij het bereiken van de 65-jarige leeftijd;
+- A: de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een y-jarige ongehuwde vrouw, ingaande bij het bereiken van de 65-jarige leeftijd;
 
-- B:. de contante-waardefactor gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de 65-jarige leeftijd van de vrouw;
+- B: de contante-waardefactor gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de 65-jarige leeftijd van de vrouw;
 
-- C:. de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een x-jarige ongehuwde man, ingaande bij het bereiken van de 65-jarige leeftijd;
+- C: de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een x-jarige ongehuwde man, ingaande bij het bereiken van de 65-jarige leeftijd;
 
-- D:. de contante-waardefactor gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de 65-jarige leeftijd van de man.
+- D: de contante-waardefactor gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de 65-jarige leeftijd van de man.
 
-| **Vrouwen** | **Vrouwen** |   | **Mannen** | **Mannen** |
+| Vrouwen |  | Mannen |  |  |
 | --- | --- | --- | --- | --- |
-| **A** | **B** | **leeftijd** | **C** | **D** |
+| A | B | leeftijd | C | D |
 | 1,7643 | 0,8142 | 18 | 1,2713 | 1,0302 |
 | 1,8354 | 0,8476 | 19 | 1,3230 | 1,0724 |
 | 1,9093 | 0,8825 | 20 | 1,3769 | 1,1165 |
@@ -114,17 +85,17 @@ De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de bere
 
 De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de berekening van de overdrachtswaarde van een weduwenpensioen of weduwnaarspensioen en van een bijzonder weduwenpensioen of weduwnaarspensioen hebben een grootte als vastgesteld in de volgende tabellen:
 
-- E:. de contante-waardefactor weduwenpensioen of bijzonder weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige echtgenoot of gewezen echtgenoot;
+- E: de contante-waardefactor weduwenpensioen of bijzonder weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige echtgenoot of gewezen echtgenoot;
 
-- F:. de contante-waardefactor tijdelijke toeslag weduwenpensioen;
+- F: de contante-waardefactor tijdelijke toeslag weduwenpensioen;
 
-- G:. de contante-waardefactor weduwnaarspensioen of bijzonder weduwnaarspensioen op het leven van een x-jarige man na het overlijden van zijn y-jarige echtgenote of gewezen echtgenote;
+- G: de contante-waardefactor weduwnaarspensioen of bijzonder weduwnaarspensioen op het leven van een x-jarige man na het overlijden van zijn y-jarige echtgenote of gewezen echtgenote;
 
-- H:. de contante-waardefactor tijdelijke toeslag weduwnaarspensioen.
+- H: de contante-waardefactor tijdelijke toeslag weduwnaarspensioen.
 
-| **Weduwenpensioen** | **Weduwenpensioen** |   | **Weduwnaarspensioen** | **Weduwnaarspensioen** |
+| Weduwenpensioen |  | Weduwnaarspensioen |  |  |
 | --- | --- | --- | --- | --- |
-| **E** | **F** | **Leeftijd ambtenaar/ambtenares** | **G** | **H** |
+| E | F | Leeftijd ambtenaar/ambtenares | G | H |
 | 1,4760 | 0,6305 | 18 | 0,5011 | 0,2303 |
 | 1,5205 | 0,6414 | 19 | 0,5147 | 0,2333 |
 | 1,5655 | 0,6516 | 20 | 0,5291 | 0,2366 |

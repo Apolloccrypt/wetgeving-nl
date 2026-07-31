@@ -1,59 +1,34 @@
 ---
 title: "Wet van 2 april 1991, houdende invoering van de Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek houdende het overgangsrecht, tweede stuk"
+citeertitel: "Invoeringswet Boeken 3, 5 en 6 nieuw B.W. (twaalfde gedeelte)"
 identifier: "BWBR0005048"
-country: "nl"
-rank: "wet"
-publication_date: "1999-10-01"
-last_updated: "1999-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005048"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "1488603"
-version_id: "2225062"
-internal_id: "C2225061"
-label_id: "1446374"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005048/1999-10-01/0"
-intitule_bron: "Stb.1991-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-04-02"
-intitule_status: "goed"
-original_publication: "Stb.1991-198"
-original_signed_date: "1991-04-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "19528"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005048&z=1999-10-01&g=1999-10-01"
-jci_1_0: "1.0:c:BWBR0005048&g=1999-10-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Boeken 3, 5 en 6 nieuw B.W. (twaalfde gedeelte)"
-signed_date: "1991-04-02"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1999-10-01
+status: geldig
+toestand: 1999-10-01
+bron: "https://wetten.overheid.nl/BWBR0005048"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 2 april 1991, houdende invoering van de Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek houdende het overgangsrecht, tweede stuk
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de aanpassingen in de wetgeving aan de [Boeken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288) en [6 van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289) bepalingen van overgangsrecht vereisen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 1
 
 1. In de volgende bepalingen wordt onder "de wet" verstaan de Invoeringswet [Boeken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6) nieuw B.W., doch met uitzondering van het tweede, vierde en vijfde gedeelte van die wet.
 
-2. De [artikelen 68**a** tot en met 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=69), [78 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=78), [79 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=79), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=117), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=120), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=173) en [182 Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=182) gelden mede ter regeling van het overgangsrecht in verband met de wijziging door de wet in de wetgeving buiten de [Boeken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289) en [7 van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290).
+2. De [artikelen 68*a* tot en met 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=69), [78 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=78), [79 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=79), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=117), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=120), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=173) en [182 Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=182) gelden mede ter regeling van het overgangsrecht in verband met de wijziging door de wet in de wetgeving buiten de [Boeken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005289) en [7 van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290).
 
 ##### Artikel 2
 
 Ter zake van een dwangbevel, een bevelschrift of rechterlijk verlof tot verkoop, vóór het in werking treden der wet uitgevaardigd, blijft het voordien geldende recht van toepassing. Onverminderd het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005048&titeldeel=4&artikel=19&z=1999-10-01&g=1999-10-01) geschiedt de tenuitvoerlegging nadien met toepassing van de voorschriften der wet.
 
-## Titel 2. Overgangsbepalingen in verband met de wijziging van het Burgerlijk Wetboek
+### Titel 2. Overgangsbepalingen in verband met de wijziging van het Burgerlijk Wetboek
 
-### Afdeling 1. Overgangsbepalingen in verband met de wijziging van Boek 1
+#### Afdeling 1. Overgangsbepalingen in verband met de wijziging van Boek 1
 
 ##### Artikel 3
 
@@ -71,7 +46,7 @@ De [tweede en de derde zin van artikel 97 lid 1 van Boek 1](https://wetten.overh
 
 [Artikel 376 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=376), zoals dat gold tot aan het tijdstip van het in werking treden van de wet, blijft van toepassing op hetgeen de minderjarige op dat tijdstip aan de voogd na het einde van diens bewind nog schuldig was gebleven. De vorige zin is van overeenkomstige toepassing na het einde van een curatele.
 
-### Afdeling 2. Overgangsbepalingen in verband met de wijziging van Boek 2
+#### Afdeling 2. Overgangsbepalingen in verband met de wijziging van Boek 2
 
 ##### Artikel 7
 
@@ -83,11 +58,11 @@ Op een besluit van een orgaan van een rechtspersoon dat vóór het in werking tr
 
 ##### Artikel 9
 
-Op de vereffening van het vermogen van een rechtspersoon, die nog niet is voltooid op het tijdstip van het in werking treden van de wet, zijn de [artikelen 23 tot en met 23**c** van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23) van toepassing, behalve voor zover dit zou nopen tot het ongedaan maken van alsdan reeds in overeenstemming met het voordien geldend recht getroffen maatregelen. De wet wordt niet van toepassing ten aanzien van onderwerpen waaromtrent vóór haar in werking treden een rechterlijke uitspraak is gevraagd.
+Op de vereffening van het vermogen van een rechtspersoon, die nog niet is voltooid op het tijdstip van het in werking treden van de wet, zijn de [artikelen 23 tot en met 23*c* van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23) van toepassing, behalve voor zover dit zou nopen tot het ongedaan maken van alsdan reeds in overeenstemming met het voordien geldend recht getroffen maatregelen. De wet wordt niet van toepassing ten aanzien van onderwerpen waaromtrent vóór haar in werking treden een rechterlijke uitspraak is gevraagd.
 
 ##### Artikel 10
 
-Op een vereniging die op het tijdstip van het in werking treden van de wet bestaat, worden de wijzigingen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=39) en [41**a** van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=41a) van toepassing nadat drie jaren na dat tijdstip zijn verstreken.
+Op een vereniging die op het tijdstip van het in werking treden van de wet bestaat, worden de wijzigingen van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=39) en [41*a* van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=41a) van toepassing nadat drie jaren na dat tijdstip zijn verstreken.
 
 ##### Artikel 11
 
@@ -95,19 +70,19 @@ Op het tijdstip van het in werking treden van de wet wordt een aandeel in een na
 
 ##### Artikel 12
 
-[Artikel 21 lid 1, aanhef en onderdeel **b** van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=21), is gedurende drie jaren van het tijdstip van het in werking treden van deze wet af niet van toepassing op een stichting, waarvan de statuten niet voldoen aan de wijzigingen welke in [artikel 286 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=286) bij deze wet worden aangebracht.
+[Artikel 21 lid 1, aanhef en onderdeel *b* van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=21), is gedurende drie jaren van het tijdstip van het in werking treden van deze wet af niet van toepassing op een stichting, waarvan de statuten niet voldoen aan de wijzigingen welke in [artikel 286 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=286) bij deze wet worden aangebracht.
 
-## Titel 3. Overgangsbepalingen in verband met de wijziging van het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838)
+### Titel 3. Overgangsbepalingen in verband met de wijziging van het Wetboek van Koophandel
 
 ##### Artikel 13
 
-Zekerheid die vóór het tijdstip van het in werking treden van de wet was gesteld ingevolge [artikel 167**a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=167a)[167**b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=167b)[227**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=227a) of [227**b** van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=227b), mag vanaf een jaar na dat tijdstip ongedaan worden gemaakt, indien alsdan twintig jaren na het stellen van de zekerheid zijn verstreken of anderszins de vereisten die [artikel 49 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49) voor voldoening tegen enkele afgifte van een kwijting stelt, zijn vervuld.
+Zekerheid die vóór het tijdstip van het in werking treden van de wet was gesteld ingevolge [artikel 167*a,*](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=167a)[167*b,*](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=167b)[227*a*](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=227a) of [227*b* van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=227b), mag vanaf een jaar na dat tijdstip ongedaan worden gemaakt, indien alsdan twintig jaren na het stellen van de zekerheid zijn verstreken of anderszins de vereisten die [artikel 49 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49) voor voldoening tegen enkele afgifte van een kwijting stelt, zijn vervuld.
 
 ##### Artikel 14
 
 [Artikel 263 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=263), zoals dat van het in werking treden der wet af luidt, is slechts van toepassing in het geval van koop van een zaak waarvoor [artikel 10 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=10) geldt.
 
-## Titel 4. Overgangsbepalingen in verband met de wijziging van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+### Titel 4. Overgangsbepalingen in verband met de wijziging van het Wetboek van Burgerlijke Rechtsvordering
 
 ##### Artikel 15
 
@@ -125,7 +100,7 @@ Gedingen waarin de inleidende dagvaarding is betekend dan wel het inleidende ver
 
 ##### Artikel 17a
 
-[Artikel 125**k** lid 4 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=125k) blijft van toepassing op verzoekschriften, ingediend na het tijdstip van het in werking treden van de wet, indien de daarbij gevorderde wettelijke rente voortvloeit uit het bepaalde in artikel 1286 van het Burgerlijk Wetboek, zoals dat vóór dat tijdstip gold.
+[Artikel 125*k* lid 4 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=125k) blijft van toepassing op verzoekschriften, ingediend na het tijdstip van het in werking treden van de wet, indien de daarbij gevorderde wettelijke rente voortvloeit uit het bepaalde in artikel 1286 van het Burgerlijk Wetboek, zoals dat vóór dat tijdstip gold.
 
 ##### Artikel 18
 
@@ -149,7 +124,7 @@ Gedingen waarin de inleidende dagvaarding is betekend dan wel het inleidende ver
 
 ##### Artikel 20
 
-[Artikel 513**a** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=513a), zoals dit van het in werking treden der wet af luidt, is van toepassing op alle beslagen die na het in werking treden der wet rusten op goederen waarop dat artikel betrekking heeft.
+[Artikel 513*a* van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=513a), zoals dit van het in werking treden der wet af luidt, is van toepassing op alle beslagen die na het in werking treden der wet rusten op goederen waarop dat artikel betrekking heeft.
 
 ##### Artikel 21
 
@@ -169,9 +144,9 @@ Een executie tot afgifte van een roerende zaak of ontruiming van een onroerende 
 
 3. Een rangregeling na de verkoop van een schip wordt afgewikkeld naar het recht waaronder de benoeming van de rechter-commissaris plaatsvindt, te wiens overstaan de verdeling zal plaatsvinden. Indien het nieuwe recht van toepassing is, brengt dit de toepasselijkheid mee van de [artikelen 551-552 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=551).
 
-4. Van het in werking treden van de wet af geschiedt de doorhaling van een beslag met toepassing van [artikel 513**a** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=513a).
+4. Van het in werking treden van de wet af geschiedt de doorhaling van een beslag met toepassing van [artikel 513*a* van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=513a).
 
-5. Aan de verplichtingen van de bewaarder, bedoeld in [artikel 537**d**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=537d), en [553 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=553) en in artikel 25 Wet teboekgestelde Luchtvaartuigen, wordt van het in werking treden van de wet af voldaan door middel van een getuigschrift als bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99), onderscheidenlijk [artikel 107, eerste lid, Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=107), waarin de inschrijvingen en de boekingen in de registers voor voorlopige aantekeningen worden vermeld, die in verband met die voorschriften van belang zijn.
+5. Aan de verplichtingen van de bewaarder, bedoeld in [artikel 537*d*, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=537d), en [553 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=553) en in artikel 25 Wet teboekgestelde Luchtvaartuigen, wordt van het in werking treden van de wet af voldaan door middel van een getuigschrift als bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99), onderscheidenlijk [artikel 107, eerste lid, Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=107), waarin de inschrijvingen en de boekingen in de registers voor voorlopige aantekeningen worden vermeld, die in verband met die voorschriften van belang zijn.
 
 6. Met betrekking tot een beslag als bedoeld in [artikel 636 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=636) gelden de leden 1-5 uitsluitend, voor zover dat beslag op een schip wordt gelegd.
 
@@ -191,15 +166,15 @@ Een voor het in werking treden van de wet aangevangen verzegeling wordt naar het
 
 ##### Artikel 27
 
-De [artikelen 797**a** tot en met 797**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=797a) zijn niet van toepassing op een gerechtelijke bewaring die voor het in werking treden van de wet is tot stand gekomen of door de rechter bevolen.
+De [artikelen 797*a* tot en met 797*f*](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=797a) zijn niet van toepassing op een gerechtelijke bewaring die voor het in werking treden van de wet is tot stand gekomen of door de rechter bevolen.
 
-## Titel 5. Overgangsbepaling in verband met de wijziging van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
+### Titel 5. Overgangsbepaling in verband met de wijziging van het Wetboek van Strafvordering
 
 ##### Artikel 28
 
-Het vierde lid van artikel 552**a** is slechts van toepassing op klaagschriften die na het in werking treden van de wet zijn ingediend.
+Het vierde lid van artikel 552*a* is slechts van toepassing op klaagschriften die na het in werking treden van de wet zijn ingediend.
 
-## Titel 6. Overgangsbepalingen in verband met de wijziging van de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
+### Titel 6. Overgangsbepalingen in verband met de wijziging van de Faillissementswet
 
 ##### Artikel 29
 
@@ -219,7 +194,7 @@ Het vierde lid van artikel 552**a** is slechts van toepassing op klaagschriften 
 
 Indien krachtens [artikel 182 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=182) op de gevolgen van een tekortschieten in de nakoming van een overeenkomst het voor het in werking treden van de wet geldende recht toepasselijk is, blijven ook de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=38), [236](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=236) en [237 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=237), zoals deze voordien golden, van toepassing.
 
-## Titel 7. Overgangsbepalingen in verband met de wijziging van andere wetten
+### Titel 7. Overgangsbepalingen in verband met de wijziging van andere wetten
 
 ##### Artikel 32
 
@@ -245,15 +220,15 @@ Voor zover en zolang een bepaling uit de [Boeken 3](https://wetten.overheid.nl/j
 
 ##### Artikel 37
 
-De [artikelen 48 tot en met 52 van de Grootboekwet](onbekend), zoals die bij deze wet zijn vastgesteld, zijn niet van toepassing, indien de schuldenaar of de pandgever reeds vóór het in werking treden van de wet in de nakoming van zijn verbintenis was tekortgeschoten en aan de pandgever de uitwinning van het pand reeds was aangezegd.
+De artikelen 48 tot en met 52 van de Grootboekwet, zoals die bij deze wet zijn vastgesteld, zijn niet van toepassing, indien de schuldenaar of de pandgever reeds vóór het in werking treden van de wet in de nakoming van zijn verbintenis was tekortgeschoten en aan de pandgever de uitwinning van het pand reeds was aangezegd.
 
 ##### Artikel 38
 
-Van het in werking treden der wet af zijn op een recht dat in het tevoren geldende [artikel 5, derde lid onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005048&titeldeel=2&afdeling=1&artikel=5&z=1999-10-01&g=1999-10-01), laatste zinsnede van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936), werd aangeduid als niet met name in het Burgerlijk Wetboek genoemd, de bepalingen van [titel 8 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&titeldeel=8) van toepassing.
+Van het in werking treden der wet af zijn op een recht dat in het tevoren geldende [artikel 5, derde lid onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005048&titeldeel=2&afdeling=1&artikel=5&z=1999-10-01&g=1999-10-01), laatste zinsnede van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936), werd aangeduid als niet met name in het Burgerlijk Wetboek genoemd, de bepalingen van [titel 8 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&titeldeel=8) van toepassing.
 
 ##### Artikel 39
 
-1. [Artikel 86, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=86) is niet van toepassing, zolang een vóór het in werking treden van de wet, met toepassing van [artikel 22 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22) (**Stb.** 221) of artikel 156 van de Algemene wet inzake de douane en de accijnzen (**Stb.** 1961, 31) gelegd bodembeslag niet is afgewikkeld.
+1. [Artikel 86, eerste lid, van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=86) is niet van toepassing, zolang een vóór het in werking treden van de wet, met toepassing van [artikel 22 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22) (*Stb.* 221) of artikel 156 van de Algemene wet inzake de douane en de accijnzen (*Stb.* 1961, 31) gelegd bodembeslag niet is afgewikkeld.
 
 2. [Artikel 22, derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22) en artikel 156, vierde lid, van de Algemene wet inzake de douane en de accijnzen, zoals die bij deze wet zijn vastgesteld, zijn niet van toepassing met betrekking tot een vóór het tijdstip van het in werking treden van de wet gelegd bodembeslag voor zover het betreft de rechten van hen die tot aan dat tijdstip reeds op grond van de toenmalige artikelen 2014, tweede lid, van het Burgerlijk Wetboek en [230 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=230) bevoegd waren tot de terugvordering van een in beslag genomen zaak.
 
@@ -264,5 +239,3 @@ Van het in werking treden der wet af zijn op een recht dat in het tevoren gelden
 2. Onze Minister van Justitie kan de voorgaande bepalingen als hoofdstuk of deel van een hoofdstuk in het geheel van de Invoeringswet [Boeken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5) en [6 nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6) invoegen met de daartoe nodige wijziging in de nummering, mede in de verwijzingen.
 
 3. Deze wet kan worden aangehaald als Invoeringswet [Boeken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5) en [6 nieuw B.W. (twaalfde gedeelte)](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6).
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

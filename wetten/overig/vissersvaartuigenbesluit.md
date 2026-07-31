@@ -1,51 +1,18 @@
 ---
 title: "Besluit van 5 augustus 1989, houdende nadere regelen voor de veiligheid van Vissersvaartuigen"
+citeertitel: "Vissersvaartuigenbesluit"
 identifier: "BWBR0004607"
-country: "nl"
-rank: "kb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004607"
+categorie: "Overig"
 soort: "KB"
-stam_id: "2627523"
-version_id: "3976572"
-internal_id: "C3976571"
-label_id: "2576554"
-dtd_version: "2.0"
-original_entry_into_force: "1989-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004607/2017-01-01/0"
-intitule_bron: "Stb.1989-354"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-08-05"
-intitule_status: "goed"
-original_publication: "Stb.1989-354"
-original_signed_date: "1989-08-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-11-01"
-entry_into_force_dossier: "7729"
-jci_1_3: "jci1.3:c:BWBR0004607&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0004607&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Vissersvaartuigenbesluit"
-signed_date: "1989-08-05"
-entry_into_force: "1989-11-01"
+publicatiedatum: 1989-11-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0004607"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 5 augustus 1989, houdende nadere regelen voor de veiligheid van Vissersvaartuigen
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 15 november 1988, nr. S/J 32.011/88, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-Overwegende dat het wenselijk is de veiligheidsvoorschriften voor vissersvaartuigen in overeenstemming te brengen met de bepalingen van het op 2 april 1977 te Torremolinos tot stand gekomen Internationaal Verdrag voor de beveiliging van vissersvaartuigen, met Bijlage (**Trb.** 1980, 139);
-
-Gelet op de artikelen 3, 4 **bis**, 5, 9, 17, 66 en 73 van de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) (**Stb.** 1932, 86);
-
-De Raad van State van het Koninkrijk gehoord (advies van 8 maart 1989, nr. W09.88.0652/K);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 25 juli 1989, nr. S/J 31.209/89, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene voorzieningen
 
@@ -65,247 +32,247 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt, tenzij uitdrukkelijk anders bepaald, verstaan onder:
 
-- 1°. **Onze Minister:** Onze Minister van Verkeer en Waterstaat;
+- 1°. *Onze Minister:* Onze Minister van Verkeer en Waterstaat;
 
-- 2°. **kapitein:** elke gezagvoerder van een vaartuig of die deze vervangt;
+- 2°. *kapitein:* elke gezagvoerder van een vaartuig of die deze vervangt;
 
-- 3°. **schepelingen:** allen die zich als scheepsofficieren of scheepsgezellen aan boord bevinden of zich als zodanig hebben verbonden; scheepsofficieren zijn de schepelingen aan wie de monsterrol de rang van officier toekent, scheepsgezellen zijn alle overige schepelingen;
+- 3°. *schepelingen:* allen die zich als scheepsofficieren of scheepsgezellen aan boord bevinden of zich als zodanig hebben verbonden; scheepsofficieren zijn de schepelingen aan wie de monsterrol de rang van officier toekent, scheepsgezellen zijn alle overige schepelingen;
 
-- 4°. **Radioreglement:** het Radioreglement (**Trb.** 1981, 78), behorende bij het op 6 november 1982 te Nairobi tot stand gekomen Internationaal Verdrag betreffende de Telecommunicatie (**Trb.** 1983, 164);
+- 4°. *Radioreglement:* het Radioreglement (*Trb.* 1981, 78), behorende bij het op 6 november 1982 te Nairobi tot stand gekomen Internationaal Verdrag betreffende de Telecommunicatie (*Trb.* 1983, 164);
 
-- 5°. **radio-officier:** een persoon in het bezit van ten minste het overeenkomstig de bepalingen van het Radioreglement afgegeven eerste of tweede klasse certificaat van bekwaamheid als radiotelegrafist, of van een algemeen certificaat als radiotelegrafist voor de maritieme mobiele dienst, die te werk is gesteld in het radiotelegraafstation van een vaartuig;
+- 5°. *radio-officier:* een persoon in het bezit van ten minste het overeenkomstig de bepalingen van het Radioreglement afgegeven eerste of tweede klasse certificaat van bekwaamheid als radiotelegrafist, of van een algemeen certificaat als radiotelegrafist voor de maritieme mobiele dienst, die te werk is gesteld in het radiotelegraafstation van een vaartuig;
 
-- 6°. **radiotelefonist:** een persoon in het bezit van een geëigend certificaat afgegeven in overeenstemming met de bepalingen van het Radioreglement;
+- 6°. *radiotelefonist:* een persoon in het bezit van een geëigend certificaat afgegeven in overeenstemming met de bepalingen van het Radioreglement;
 
-- 7°. **radiotelegraafstation:** een station voorzien van een radiotelegrafie-installatie;
+- 7°. *radiotelegraafstation:* een station voorzien van een radiotelegrafie-installatie;
 
-- 8°. **radiotelefoonstation:** een station voorzien van een radiotelefonie-installatie;
+- 8°. *radiotelefoonstation:* een station voorzien van een radiotelefonie-installatie;
 
-- 9°. **radiotelegrafie-installatie:** een installatie waarmee men kan zenden en ontvangen op de aan de maritieme dienst toegewezen radiotelegrafie-frequentiebanden;
+- 9°. *radiotelegrafie-installatie:* een installatie waarmee men kan zenden en ontvangen op de aan de maritieme dienst toegewezen radiotelegrafie-frequentiebanden;
 
-- 10°. **radiotelefonie-installatie:** een installatie waarmee men kan zenden en ontvangen op de aan de maritieme dienst toegewezen radiotelefonie-frequentiebanden;
+- 10°. *radiotelefonie-installatie:* een installatie waarmee men kan zenden en ontvangen op de aan de maritieme dienst toegewezen radiotelefonie-frequentiebanden;
 
-- 11°. **luisterdienst radiotelegrafie:** een luisterdienst welke wordt gehouden op de radiotelegrafienoodfrequentie;
+- 11°. *luisterdienst radiotelegrafie:* een luisterdienst welke wordt gehouden op de radiotelegrafienoodfrequentie;
 
-- 12°. **luisterdienst radiotelefonie:** een luisterdienst welke wordt gehouden op de radiotelefonienoodfrequentie;
+- 12°. *luisterdienst radiotelefonie:* een luisterdienst welke wordt gehouden op de radiotelefonienoodfrequentie;
 
-- 13°. **passagiers:** alle personen aan boord, met uitzondering van:
+- 13°. *passagiers:* alle personen aan boord, met uitzondering van:
 
-- 13.1. de kapitein en de schepelingen;
+   - 13.1. de kapitein en de schepelingen;
 
-- 13.2. andere personen die, in welke hoedanigheid ook, aan boord ten behoeve van het vaartuig in dienst of tewerkgesteld zijn; en
+   - 13.2. andere personen die, in welke hoedanigheid ook, aan boord ten behoeve van het vaartuig in dienst of tewerkgesteld zijn; en
 
-- 13.3. kinderen die op de dag van inscheping de leeftijd van één jaar nog niet hebben bereikt;
+   - 13.3. kinderen die op de dag van inscheping de leeftijd van één jaar nog niet hebben bereikt;
 
-- 14°. **voortstuwingsvermogen:**
+- 14°. *voortstuwingsvermogen:*
 
-- 14.1. het maximale vermogen, uitgedrukt in kiloWatt (kW), dat door de voortstuwingsmachine(s) zonder overbelasting gedurende onbeperkte tijdsduur kan worden geleverd, zoals dit vermogen, op grond van door de fabrikant verstrekte gegevens door het Hoofd van de Scheepvaartinspectie wordt vastgesteld; of
+   - 14.1. het maximale vermogen, uitgedrukt in kiloWatt (kW), dat door de voortstuwingsmachine(s) zonder overbelasting gedurende onbeperkte tijdsduur kan worden geleverd, zoals dit vermogen, op grond van door de fabrikant verstrekte gegevens door het Hoofd van de Scheepvaartinspectie wordt vastgesteld; of
 
-- 14.2. een door het Hoofd van de Scheepvaartinspectie vastgesteld lager vermogen, indien te zijnen genoegen wordt aangetoond dat slechts dit lagere vermogen ten behoeve van de voortstuwing kan worden gebruikt. Dit vermogen mag niet worden vastgesteld op een waarde die minder is dan 75 percent van het maximale vermogen;
+   - 14.2. een door het Hoofd van de Scheepvaartinspectie vastgesteld lager vermogen, indien te zijnen genoegen wordt aangetoond dat slechts dit lagere vermogen ten behoeve van de voortstuwing kan worden gebruikt. Dit vermogen mag niet worden vastgesteld op een waarde die minder is dan 75 percent van het maximale vermogen;
 
-- 15°. **vlampunt:** de laagste temperatuur van een vloeistof waarbij deze voldoende damp aan de lucht afgeeft om een explosief mengsel van damp en lucht te doen ontstaan. Het vlampunt moet worden bepaald volgens de gesloten-kroes-methode van Abel, Abel-Pensky of Pensky-Martens en gecorrigeerd voor een barometerstand van 760 mm kwikkolom;
+- 15°. *vlampunt:* de laagste temperatuur van een vloeistof waarbij deze voldoende damp aan de lucht afgeeft om een explosief mengsel van damp en lucht te doen ontstaan. Het vlampunt moet worden bepaald volgens de gesloten-kroes-methode van Abel, Abel-Pensky of Pensky-Martens en gecorrigeerd voor een barometerstand van 760 mm kwikkolom;
 
-- 16°. **goedgekeurd:** goedgekeurd door het Hoofd van de Scheepvaartinspectie;
+- 16°. *goedgekeurd:* goedgekeurd door het Hoofd van de Scheepvaartinspectie;
 
-- 17°. **lengte (L):** de lengte gelijk aan 96 percent van de lengte van de lastlijn op 85 percent van de kleinste holte gemeten vanaf de kiellijn, dan wel gelijk aan de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op deze lastlijn gemeten, indien deze laatste lengte groter is. Bij schepen die met stuurlast zijn ontworpen, moet de lastlijn waarop deze lengte wordt gemeten, evenwijdig aan de constructiewaterlijn worden genomen;
+- 17°. *lengte (L):* de lengte gelijk aan 96 percent van de lengte van de lastlijn op 85 percent van de kleinste holte gemeten vanaf de kiellijn, dan wel gelijk aan de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op deze lastlijn gemeten, indien deze laatste lengte groter is. Bij schepen die met stuurlast zijn ontworpen, moet de lastlijn waarop deze lengte wordt gemeten, evenwijdig aan de constructiewaterlijn worden genomen;
 
-- 18°. **loodlijnen:** de loodlijnen op het voorste en het achterste punt van de lengte. De voorloodlijn moet getrokken worden door het snijpunt van de lastlijn waarop de lengte is gemeten en de voorzijde van de voorsteven;
+- 18°. *loodlijnen:* de loodlijnen op het voorste en het achterste punt van de lengte. De voorloodlijn moet getrokken worden door het snijpunt van de lastlijn waarop de lengte is gemeten en de voorzijde van de voorsteven;
 
-- 19°. **breedte (B):** de grootste breedte van het vaartuig, uitgedrukt in meters, midscheeps gemeten op de buitenkant der spanten bij een vaartuig met een metalen huid en op de buitenkant van de huid bij een vaartuig met een huid van een ander materiaal;
+- 19°. *breedte (B):* de grootste breedte van het vaartuig, uitgedrukt in meters, midscheeps gemeten op de buitenkant der spanten bij een vaartuig met een metalen huid en op de buitenkant van de huid bij een vaartuig met een huid van een ander materiaal;
 
-- 20°. **holte:**
+- 20°. *holte:*
 
-- 20.1. de vertikale afstand, uitgedrukt in meters, gemeten vanaf de kiellijn tot de bovenkant van de balken van het werkdek in de zijde;
+   - 20.1. de vertikale afstand, uitgedrukt in meters, gemeten vanaf de kiellijn tot de bovenkant van de balken van het werkdek in de zijde;
 
-- 20.2. bij vaartuigen waar de overgang van de huidbeplating naar de dekbeplating als een rondgezette plaat is uitgevoerd, wordt de holte gemeten tot het snijpunt van de doorgestrookte onderzijde van de dekbeplating en de binnenzijde van de huidbeplating;
+   - 20.2. bij vaartuigen waar de overgang van de huidbeplating naar de dekbeplating als een rondgezette plaat is uitgevoerd, wordt de holte gemeten tot het snijpunt van de doorgestrookte onderzijde van de dekbeplating en de binnenzijde van de huidbeplating;
 
-- 20.3. indien het werkdek verspringt en het verhoogde gedeelte zich uitstrekt voorbij het punt waar de holte moet worden bepaald, wordt de holte gemeten tot een lijn die vanaf het lage gedeelte van het dek, evenwijdig aan het verhoogde gedeelte wordt doorgetrokken;
+   - 20.3. indien het werkdek verspringt en het verhoogde gedeelte zich uitstrekt voorbij het punt waar de holte moet worden bepaald, wordt de holte gemeten tot een lijn die vanaf het lage gedeelte van het dek, evenwijdig aan het verhoogde gedeelte wordt doorgetrokken;
 
-- 21°. **holte (D):** de holte midscheeps gemeten;
+- 21°. *holte (D):* de holte midscheeps gemeten;
 
-- 22°. **hoogst gelegen lastlijn:** de lastlijn behorende bij de maximum toelaatbare diepgang tijdens de reis;
+- 22°. *hoogst gelegen lastlijn:* de lastlijn behorende bij de maximum toelaatbare diepgang tijdens de reis;
 
-- 23°. **maximum toelaatbare diepgang:** de grootste diepgang welke door het Hoofd van de Scheepvaartinspectie toelaatbaar wordt geacht;
+- 23°. *maximum toelaatbare diepgang:* de grootste diepgang welke door het Hoofd van de Scheepvaartinspectie toelaatbaar wordt geacht;
 
-- 24°. **midscheeps:** het punt gelegen op het midden van de lengte;
+- 24°. *midscheeps:* het punt gelegen op het midden van de lengte;
 
-- 25°. **grootspant:** de doorsnede van de romp die bepaald wordt door de snijding van het oppervlak van de romp naar de mal met een vertikaal vlak dat midscheeps loodrecht staat op het vlak van de waterlijn en het vlak door kiel en stevens;
+- 25°. *grootspant:* de doorsnede van de romp die bepaald wordt door de snijding van het oppervlak van de romp naar de mal met een vertikaal vlak dat midscheeps loodrecht staat op het vlak van de waterlijn en het vlak door kiel en stevens;
 
-- 26°. **kiellijn:** de lijn die evenwijdig loopt aan de schuinte van de kiel en die midscheeps gaat door:
+- 26°. *kiellijn:* de lijn die evenwijdig loopt aan de schuinte van de kiel en die midscheeps gaat door:
 
-- 26.1. de bovenkant van de kielplaat of door de aansnijding van de binnenzijde van de huidbeplating met de stafkiel, indien in een vaartuig met een metalen huid een stafkiel boven die lijn uitsteekt;
+   - 26.1. de bovenkant van de kielplaat of door de aansnijding van de binnenzijde van de huidbeplating met de stafkiel, indien in een vaartuig met een metalen huid een stafkiel boven die lijn uitsteekt;
 
-- 26.2. de binnenkant van de sponning in de kiel van een houten of van een composiet vaartuig;
+   - 26.2. de binnenkant van de sponning in de kiel van een houten of van een composiet vaartuig;
 
-- 26.3. de aansnijding van de doorgestrookte lijn van de buitenzijde van de huid met de hartlijn van een vaartuig met een huid van een ander materiaal dan hout of metaal;
+   - 26.3. de aansnijding van de doorgestrookte lijn van de buitenzijde van de huid met de hartlijn van een vaartuig met een huid van een ander materiaal dan hout of metaal;
 
-- 27°. **basislijn:** de horizontale lijn die de kiellijn midscheeps snijdt;
+- 27°. *basislijn:* de horizontale lijn die de kiellijn midscheeps snijdt;
 
-- 28°. **werkdek:** in het algemeen het doorlopende blootgestelde dek van waar de visserij wordt uitgeoefend. Bij vaartuigen met twee of meer doorlopende dekken, kan het Hoofd van de Scheepvaartinspectie toestaan dat een lager dek als werkdek wordt aangemerkt, mits dit dek is gelegen boven de hoogst gelegen lastlijn;
+- 28°. *werkdek:* in het algemeen het doorlopende blootgestelde dek van waar de visserij wordt uitgeoefend. Bij vaartuigen met twee of meer doorlopende dekken, kan het Hoofd van de Scheepvaartinspectie toestaan dat een lager dek als werkdek wordt aangemerkt, mits dit dek is gelegen boven de hoogst gelegen lastlijn;
 
-- 29°. **bovenbouw:** de overdekte constructie op het werkdek, die zich van boord tot boord uitstrekt of waarvan de afstand van de zijbeplating tot elk boord niet groter is dan 4 percent van de breedte;
+- 29°. *bovenbouw:* de overdekte constructie op het werkdek, die zich van boord tot boord uitstrekt of waarvan de afstand van de zijbeplating tot elk boord niet groter is dan 4 percent van de breedte;
 
-- 30°. **gesloten bovenbouw:** een bovenbouw waarvan:
+- 30°. *gesloten bovenbouw:* een bovenbouw waarvan:
 
-- 30.1. de eindschotten voldoende sterk zijn;
+   - 30.1. de eindschotten voldoende sterk zijn;
 
-- 30.2. de eventuele toegangsopeningen in de eindschotten zijn voorzien van vast aangebrachte deuren die dicht zijn tegen weer en wind en van gelijke sterkte als het schot, alsof daarin geen opening aanwezig was, en die aan beide zijden kunnen worden geopend en gesloten;
+   - 30.2. de eventuele toegangsopeningen in de eindschotten zijn voorzien van vast aangebrachte deuren die dicht zijn tegen weer en wind en van gelijke sterkte als het schot, alsof daarin geen opening aanwezig was, en die aan beide zijden kunnen worden geopend en gesloten;
 
-- 30.3. alle openingen in de zijden, alsmede alle overige openingen in de eindschotten zijn voorzien van doeltreffende middelen waarmede deze openingen dicht tegen weer en wind kunnen worden afgesloten; en
+   - 30.3. alle openingen in de zijden, alsmede alle overige openingen in de eindschotten zijn voorzien van doeltreffende middelen waarmede deze openingen dicht tegen weer en wind kunnen worden afgesloten; en
 
-- 30.4. afzonderlijke toegangen voor de bemanning naar de binnen een brughuis of een kampanje gelegen voortstuwingsruimten en andere werkruimten, te allen tijde kunnen worden gebruikt, wanneer de openingen in de schotten zijn gesloten;
+   - 30.4. afzonderlijke toegangen voor de bemanning naar de binnen een brughuis of een kampanje gelegen voortstuwingsruimten en andere werkruimten, te allen tijde kunnen worden gebruikt, wanneer de openingen in de schotten zijn gesloten;
 
-- 31°. **opbouwdek:** dat doorlopende dek of dekgedeelte dat de bovenkant van een bovenbouw, dekhuis of andere opbouw vormt en dat ten minste 1,80 m boven het werkdek ligt. In gevallen waarin de hoogte minder is dan 1,80 m, wordt de bovenkant van zulk een bovenbouw, dekhuis of andere opbouw gelijkgesteld met het werkdek;
+- 31°. *opbouwdek:* dat doorlopende dek of dekgedeelte dat de bovenkant van een bovenbouw, dekhuis of andere opbouw vormt en dat ten minste 1,80 m boven het werkdek ligt. In gevallen waarin de hoogte minder is dan 1,80 m, wordt de bovenkant van zulk een bovenbouw, dekhuis of andere opbouw gelijkgesteld met het werkdek;
 
-- 32°. **hoogte van een bovenbouw, dekhuis of andere opbouw:** de kleinste vertikale hoogte gemeten in de zijde vanaf de bovenkant van de balken van het opbouwdek tot de bovenkant van de balken van het werkdek;
+- 32°. *hoogte van een bovenbouw, dekhuis of andere opbouw:* de kleinste vertikale hoogte gemeten in de zijde vanaf de bovenkant van de balken van het opbouwdek tot de bovenkant van de balken van het werkdek;
 
-- 33°. **dicht tegen weer en wind:** zodanig dicht dat onder alle omstandigheden die zich op zee kunnen voordoen, geen water in het vaartuig kan binnendringen;
+- 33°. *dicht tegen weer en wind:* zodanig dicht dat onder alle omstandigheden die zich op zee kunnen voordoen, geen water in het vaartuig kan binnendringen;
 
-- 34°. **waterdicht:** het vermogen van de constructie om het doorlaten van water in enige richting te voorkomen bij een waterdruk waartegen de omgevende constructie volgens het ontwerp bestand is;
+- 34°. *waterdicht:* het vermogen van de constructie om het doorlaten van water in enige richting te voorkomen bij een waterdruk waartegen de omgevende constructie volgens het ontwerp bestand is;
 
-- 35°. **aanvaringsschot:** een waterdicht schot dat in het voorste deel van het vaartuig tot het werkdek is opgetrokken en dat aan de volgende voorwaarden voldoet:
+- 35°. *aanvaringsschot:* een waterdicht schot dat in het voorste deel van het vaartuig tot het werkdek is opgetrokken en dat aan de volgende voorwaarden voldoet:
 
-- 35.1. het schot moet zodanig zijn geplaatst dat de afstand tot de voorloodlijn:
+   - 35.1. het schot moet zodanig zijn geplaatst dat de afstand tot de voorloodlijn:
 
-- 1°. niet kleiner is dan 5 percent en niet groter is dan 8 percent van de lengte bij vaartuigen waarvan de lengte 45 m of meer bedraagt;
+      - 1°. niet kleiner is dan 5 percent en niet groter is dan 8 percent van de lengte bij vaartuigen waarvan de lengte 45 m of meer bedraagt;
 
-- 2°. niet kleiner is dan 5 percent van de lengte en niet groter is dan 5 percent van de lengte, vermeerderd met 1,35 m, bij vaartuigen waarvan de lengte minder dan 45 m bedraagt, behoudens uitzonderingen toegestaan door het Hoofd van de Scheepvaartinspectie;
+      - 2°. niet kleiner is dan 5 percent van de lengte en niet groter is dan 5 percent van de lengte, vermeerderd met 1,35 m, bij vaartuigen waarvan de lengte minder dan 45 m bedraagt, behoudens uitzonderingen toegestaan door het Hoofd van de Scheepvaartinspectie;
 
-- 3°. in geen geval kleiner is dan 2 m;
+      - 3°. in geen geval kleiner is dan 2 m;
 
-- 35.2. in geval, ten gevolge van een afwijkende stevenvorm, enig deel van het onderwatergedeelte van het vaartuig zich uitstrekt tot vóór de voorloodlijn, moet de afstand als bedoeld onder 35.1 van dit onderdeel worden gemeten vanaf een punt halverwege het deel dat zich voor de voorloodlijn uitstrekt of vanaf een punt dat 1,5 percent van de lengte voor de voorloodlijn ligt, al naar gelang welke afstand kleiner is;
+   - 35.2. in geval, ten gevolge van een afwijkende stevenvorm, enig deel van het onderwatergedeelte van het vaartuig zich uitstrekt tot vóór de voorloodlijn, moet de afstand als bedoeld onder 35.1 van dit onderdeel worden gemeten vanaf een punt halverwege het deel dat zich voor de voorloodlijn uitstrekt of vanaf een punt dat 1,5 percent van de lengte voor de voorloodlijn ligt, al naar gelang welke afstand kleiner is;
 
-- 35.3. indien het aanvaringsschot voorzien is van trapsgewijze sprongen of nissen moeten deze binnen de beperkingen vallen als voorgeschreven onder 35.1 van dit onderdeel;
+   - 35.3. indien het aanvaringsschot voorzien is van trapsgewijze sprongen of nissen moeten deze binnen de beperkingen vallen als voorgeschreven onder 35.1 van dit onderdeel;
 
-- 36°. **hoofdstuurinrichting:** de stuurmachine, de krachtwerktuigen hiervoor, indien aanwezig, en de bijbehorende inrichtingen, alsmede het middel om het koppel op de roerkoning (bijv. de helmstok of het kwadrant) over te brengen, benodigd om de roeruitslag te bewerkstelligen met het doel het vaartuig onder normale bedrijfsomstandigheden te kunnen besturen;
+- 36°. *hoofdstuurinrichting:* de stuurmachine, de krachtwerktuigen hiervoor, indien aanwezig, en de bijbehorende inrichtingen, alsmede het middel om het koppel op de roerkoning (bijv. de helmstok of het kwadrant) over te brengen, benodigd om de roeruitslag te bewerkstelligen met het doel het vaartuig onder normale bedrijfsomstandigheden te kunnen besturen;
 
-- 37°. **krachtwerktuig voor de stuurinrichting:**
+- 37°. *krachtwerktuig voor de stuurinrichting:*
 
-- 37.1. bij een elektrische stuurinrichting: een elektromotor met de daarbij behorende elektrische apparatuur;
+   - 37.1. bij een elektrische stuurinrichting: een elektromotor met de daarbij behorende elektrische apparatuur;
 
-- 37.2. bij een elektrisch-hydraulische stuurinrichting: een elektromotor met de daarbij behorende elektrische apparatuur en de aangesloten pomp; en
+   - 37.2. bij een elektrisch-hydraulische stuurinrichting: een elektromotor met de daarbij behorende elektrische apparatuur en de aangesloten pomp; en
 
-- 37.3. bij een ander type hydraulische stuurinrichting: een pomp en het werktuig voor de aandrijving daarvan;
+   - 37.3. bij een ander type hydraulische stuurinrichting: een pomp en het werktuig voor de aandrijving daarvan;
 
-- 38°. **hulpstuurinrichting:** de inrichting waarmede de roeruitslag wordt bewerkstelligd voor de besturing van het vaartuig wanneer de hoofdstuurinrichting is uitgevallen;
+- 38°. *hulpstuurinrichting:* de inrichting waarmede de roeruitslag wordt bewerkstelligd voor de besturing van het vaartuig wanneer de hoofdstuurinrichting is uitgevallen;
 
-- 39°. **bedieningsinstallatie van de stuurinrichting:** de uitrusting waarmede de opdrachten worden overgedragen vanaf de brug naar de krachtwerktuigen voor de stuurinrichting. Bedieningsinstallaties van stuurinrichtingen bestaan uit gevers, ontvangers, hydraulische verstelpompen met daarbij behorende motoren, bedieningen voor motoren, pijpleidingen en kabels;
+- 39°. *bedieningsinstallatie van de stuurinrichting:* de uitrusting waarmede de opdrachten worden overgedragen vanaf de brug naar de krachtwerktuigen voor de stuurinrichting. Bedieningsinstallaties van stuurinrichtingen bestaan uit gevers, ontvangers, hydraulische verstelpompen met daarbij behorende motoren, bedieningen voor motoren, pijpleidingen en kabels;
 
-- 40°. **maximum dienstsnelheid vooruit:** de grootste snelheid waarvoor het vaartuig is ontworpen en die tijdens de vaart op zee gehandhaafd moet kunnen worden bij de maximum toelaatbare diepgang tijdens de reis;
+- 40°. *maximum dienstsnelheid vooruit:* de grootste snelheid waarvoor het vaartuig is ontworpen en die tijdens de vaart op zee gehandhaafd moet kunnen worden bij de maximum toelaatbare diepgang tijdens de reis;
 
-- 41°. **maximum snelheid achteruit:** de geschatte snelheid die het vaartuig kan bereiken bij het ontworpen vermogen voor het achteruitvaren op de maximum toelaatbare diepgang tijdens de reis;
+- 41°. *maximum snelheid achteruit:* de geschatte snelheid die het vaartuig kan bereiken bij het ontworpen vermogen voor het achteruitvaren op de maximum toelaatbare diepgang tijdens de reis;
 
-- 42°. **oliestookinrichting:** de installatie gebruikt voor de toebereiding van brandstofolie voor levering aan een met olie gestookte ketel, of die installatie gebruikt voor de toebereiding van olie voor levering aan een verbrandingsmotor, met inbegrip van alle oliedrukpompen, filters en verhitters die olie behandelen onder een druk van meer dan 0,18 N/mm2;
+- 42°. *oliestookinrichting:* de installatie gebruikt voor de toebereiding van brandstofolie voor levering aan een met olie gestookte ketel, of die installatie gebruikt voor de toebereiding van olie voor levering aan een verbrandingsmotor, met inbegrip van alle oliedrukpompen, filters en verhitters die olie behandelen onder een druk van meer dan 0,18 N/mm2;
 
-- 43°. **normale toestanden van bedrijfsvoering en leefbaarheid:** de toestanden waarin het vaartuig in zijn geheel, met inbegrip van de werktuigen, dienstuitoefening, hoofd- en hulpwerktuigen ten behoeve van de voortstuwing, stuurinrichting en bijbehorende uitrusting, hulpmiddelen voor een veilige navigatie en voor de beperking van de gevaren van brand en vervulling, middelen voor interne en externe communicatie en seinapparatuur, voorzieningen voor ontsnapping en lieren voor reddingboten en hulpverleningsboten, goed functioneert en waarbij aan minimum voorwaarden voor een comfortabel verblijf aan boord wordt voldaan;
+- 43°. *normale toestanden van bedrijfsvoering en leefbaarheid:* de toestanden waarin het vaartuig in zijn geheel, met inbegrip van de werktuigen, dienstuitoefening, hoofd- en hulpwerktuigen ten behoeve van de voortstuwing, stuurinrichting en bijbehorende uitrusting, hulpmiddelen voor een veilige navigatie en voor de beperking van de gevaren van brand en vervulling, middelen voor interne en externe communicatie en seinapparatuur, voorzieningen voor ontsnapping en lieren voor reddingboten en hulpverleningsboten, goed functioneert en waarbij aan minimum voorwaarden voor een comfortabel verblijf aan boord wordt voldaan;
 
-- 44°. **dood-schip-toestand:** de toestand waarbij de hoofdvoortstuwingsinstallatie, ketels en hulpwerktuigen niet in bedrijf zijn;
+- 44°. *dood-schip-toestand:* de toestand waarbij de hoofdvoortstuwingsinstallatie, ketels en hulpwerktuigen niet in bedrijf zijn;
 
-- 45°. **hoofdschakelbord:** een schakelbord dat rechtstreeks wordt gevoed door de elektrische hoofdkrachtbron en bestemd is om de elektrische energie voor alle diensten te verdelen;
+- 45°. *hoofdschakelbord:* een schakelbord dat rechtstreeks wordt gevoed door de elektrische hoofdkrachtbron en bestemd is om de elektrische energie voor alle diensten te verdelen;
 
-- 46°. **noodschakelbord:** een schakelbord dat, in het geval dat de voeding van de elektrische hoofdkrachtbron uitvalt, direct wordt gevoed door de elektrische noodkrachtbron of door de tijdelijke noodkrachtbron, en bestemd is om de elektrische energie over de nooddiensten te verdelen;
+- 46°. *noodschakelbord:* een schakelbord dat, in het geval dat de voeding van de elektrische hoofdkrachtbron uitvalt, direct wordt gevoed door de elektrische noodkrachtbron of door de tijdelijke noodkrachtbron, en bestemd is om de elektrische energie over de nooddiensten te verdelen;
 
-- 47°. **elektrische hoofdkrachtbron:** een krachtbron welke elektrische energie moet kunnen leveren aan het hoofdschakelbord voor de verdeling naar alle systemen nodig om het schip in normale toestanden van bedrijfsvoering en leefbaarheid te kunnen houden;
+- 47°. *elektrische hoofdkrachtbron:* een krachtbron welke elektrische energie moet kunnen leveren aan het hoofdschakelbord voor de verdeling naar alle systemen nodig om het schip in normale toestanden van bedrijfsvoering en leefbaarheid te kunnen houden;
 
-- 48°. **elektrische noodkrachtbron:** een krachtbron voor elektrische energie, bestemd om het noodschakelbord te voeden in het geval dat de voeding van de elektrische noodkrachtbron uitvalt;
+- 48°. *elektrische noodkrachtbron:* een krachtbron voor elektrische energie, bestemd om het noodschakelbord te voeden in het geval dat de voeding van de elektrische noodkrachtbron uitvalt;
 
-- 49°. **tijdelijk onbemande machinekamers:** die ruimten waarin zich de hoofdvoortstuwingswerktuigen en bijbehorende installaties, alsmede alle elektrische hoofdkrachtbronnen bevinden en die niet te allen tijde bij alle werkzaamheden, met inbegrip van het manoeuvreren, bemand behoeven te zijn;
+- 49°. *tijdelijk onbemande machinekamers:* die ruimten waarin zich de hoofdvoortstuwingswerktuigen en bijbehorende installaties, alsmede alle elektrische hoofdkrachtbronnen bevinden en die niet te allen tijde bij alle werkzaamheden, met inbegrip van het manoeuvreren, bemand behoeven te zijn;
 
-- 50°. **onbrandbaar materiaal:** een materiaal dat noch brandt, noch ontvlambare gassen in voldoende hoeveelheid afgeeft om bij verhitting tot ongeveer 750°C tot zelfontbranding over te gaan, hetgeen ten genoegen van het Hoofd van de Scheepvaartinspectie moet worden aangetoond door middel van een door hem aanvaarde beproevingsmethode. Elk ander materiaal is brandbaar materiaal;
+- 50°. *onbrandbaar materiaal:* een materiaal dat noch brandt, noch ontvlambare gassen in voldoende hoeveelheid afgeeft om bij verhitting tot ongeveer 750°C tot zelfontbranding over te gaan, hetgeen ten genoegen van het Hoofd van de Scheepvaartinspectie moet worden aangetoond door middel van een door hem aanvaarde beproevingsmethode. Elk ander materiaal is brandbaar materiaal;
 
-- 51°. **standaard-brandproef:** een proef waarbij gedeelten van de betrokken schotten of dekken in een proef-oven blootgesteld worden aan temperaturen die ongeveer overeenkomen met de standaard tijdtemperatuurkromme. De gedeelten van de betrokken schotten of dekken moeten een blootgestelde oppervlakte hebben van ten minste 4,65 m2 en een hoogte, of lengte van het dek, van 2,44 m; zij moeten zo nauwkeurig mogelijk overeenkomen met de voorgenomen constructie en waar nodig ten minste één naad bevatten. Met de standaard tijdtemperatuurkromme wordt bedoeld een gelijkmatig verlopende kromme door de volgende punten gemeten boven de aanvankelijke temperatuur in de oven: aan het einde van de eerste 5 minuten: 556°C, aan het einde van de eerste 10 minuten: 659°C, aan het einde van de eerste 15 minuten: 718°C, aan het einde van de eerste 30 minuten: 821°C, aan het einde van de eerste 60 minuten: 925°C;
+- 51°. *standaard-brandproef:* een proef waarbij gedeelten van de betrokken schotten of dekken in een proef-oven blootgesteld worden aan temperaturen die ongeveer overeenkomen met de standaard tijdtemperatuurkromme. De gedeelten van de betrokken schotten of dekken moeten een blootgestelde oppervlakte hebben van ten minste 4,65 m2 en een hoogte, of lengte van het dek, van 2,44 m; zij moeten zo nauwkeurig mogelijk overeenkomen met de voorgenomen constructie en waar nodig ten minste één naad bevatten. Met de standaard tijdtemperatuurkromme wordt bedoeld een gelijkmatig verlopende kromme door de volgende punten gemeten boven de aanvankelijke temperatuur in de oven: aan het einde van de eerste 5 minuten: 556°C, aan het einde van de eerste 10 minuten: 659°C, aan het einde van de eerste 15 minuten: 718°C, aan het einde van de eerste 30 minuten: 821°C, aan het einde van de eerste 60 minuten: 925°C;
 
-- 52°. **schotten van klasse «A»:** schotten en dekken die aan de volgende eisen voldoen:
+- 52°. *schotten van klasse «A»:* schotten en dekken die aan de volgende eisen voldoen:
 
-- 52.1. zij moeten geconstrueerd zijn van staal of van ander, gelijkwaardig materiaal;
+   - 52.1. zij moeten geconstrueerd zijn van staal of van ander, gelijkwaardig materiaal;
 
-- 52.2. zij moeten voldoende verstijfd zijn;
+   - 52.2. zij moeten voldoende verstijfd zijn;
 
-- 52.3. zij moeten tot aan het einde van de standaard-brandproef van één uur de doortocht van rook en vlammen kunnen verhinderen;
+   - 52.3. zij moeten tot aan het einde van de standaard-brandproef van één uur de doortocht van rook en vlammen kunnen verhinderen;
 
-- 52.4. zij moeten zodanig geïsoleerd zijn met goedgekeurde onbrandbare materialen dat de gemiddelde temperatuur aan de niet-blootgestelde zijde niet meer dan 139°C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 180°C boven de begintemperatuur stijgt binnen de onderstaand aangegeven tijd: klasse «A-60» : 60 minuten, klasse «A-30» : 30 minuten, klasse «A-15» : 15 minuten, klasse «A-0» : 0 minuten; en
+   - 52.4. zij moeten zodanig geïsoleerd zijn met goedgekeurde onbrandbare materialen dat de gemiddelde temperatuur aan de niet-blootgestelde zijde niet meer dan 139°C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 180°C boven de begintemperatuur stijgt binnen de onderstaand aangegeven tijd: klasse «A-60» : 60 minuten, klasse «A-30» : 30 minuten, klasse «A-15» : 15 minuten, klasse «A-0» : 0 minuten; en
 
-- 52.5. het Hoofd van de Scheepvaartinspectie kan beproeving eisen van een prototype van een schot van klasse «A» teneinde zekerheid te verkrijgen dat dit voldoet aan bovengenoemde eisen omtrent stijfheid, doorlaten van rook en vlammen en de beperking van de temperatuurstijging;
+   - 52.5. het Hoofd van de Scheepvaartinspectie kan beproeving eisen van een prototype van een schot van klasse «A» teneinde zekerheid te verkrijgen dat dit voldoet aan bovengenoemde eisen omtrent stijfheid, doorlaten van rook en vlammen en de beperking van de temperatuurstijging;
 
-- 53°. **schotten van klasse «B»:** schotten, dekken, plafonds of beschietingen die aan de volgende eisen voldoen:
+- 53°. *schotten van klasse «B»:* schotten, dekken, plafonds of beschietingen die aan de volgende eisen voldoen:
 
-- 53.1. zij moeten tot aan het einde van het eerste half uur van de standaard-brandproef de doortocht van vlammen kunnen verhinderen;
+   - 53.1. zij moeten tot aan het einde van het eerste half uur van de standaard-brandproef de doortocht van vlammen kunnen verhinderen;
 
-- 53.2. zij moeten een zodanig isolerend vermogen hebben dat de gemiddelde temperatuur aan de niet-blootgestelde zijde niet meer dan 139°C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 225°C boven de begintemperatuur stijgt binnen de onderstaand aangegeven tijd: klasse «B-15» : 15 minuten, klasse «B- 0» : 0 minuten;
+   - 53.2. zij moeten een zodanig isolerend vermogen hebben dat de gemiddelde temperatuur aan de niet-blootgestelde zijde niet meer dan 139°C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 225°C boven de begintemperatuur stijgt binnen de onderstaand aangegeven tijd: klasse «B-15» : 15 minuten, klasse «B- 0» : 0 minuten;
 
-- 53.3. zij moeten zijn opgebouwd uit goedgekeurde onbrandbare materialen en alle materialen die gebruikt worden voor schotten van klasse «B» en voor het aanbrengen daarvan, dienen onbrandbaar te zijn, behoudens dat brandbare fineerlagen kunnen worden toegestaan onder voorwaarde dat die voldoen aan de daarop van toepassing zijnde voorschriften van dit besluit; en
+   - 53.3. zij moeten zijn opgebouwd uit goedgekeurde onbrandbare materialen en alle materialen die gebruikt worden voor schotten van klasse «B» en voor het aanbrengen daarvan, dienen onbrandbaar te zijn, behoudens dat brandbare fineerlagen kunnen worden toegestaan onder voorwaarde dat die voldoen aan de daarop van toepassing zijnde voorschriften van dit besluit; en
 
-- 53.4. het Hoofd van de Scheepvaartinspectie kan de beproeving eisen van een prototype van een schot van klasse «B» teneinde zekerheid te verkrijgen dat dit voldoet aan bovengenoemde eisen omtrent het doorlaten van vlammen en de beperking van de temperatuurstijging;
+   - 53.4. het Hoofd van de Scheepvaartinspectie kan de beproeving eisen van een prototype van een schot van klasse «B» teneinde zekerheid te verkrijgen dat dit voldoet aan bovengenoemde eisen omtrent het doorlaten van vlammen en de beperking van de temperatuurstijging;
 
-- 54°. **schotten van klasse «C»:** schotten en dekken welke zijn opgebouwd uit goedgekeurde onbrandbare materialen. Zij behoeven niet te voldoen aan eisen betreffende het doorlaten van rook en vlammen of de beperking van de temperatuurstijging. Brandbare fineerlagen kunnen worden toegestaan onder voorwaarde dat die voldoen aan de daarop van toepassing zijnde voorschriften van dit besluit;
+- 54°. *schotten van klasse «C»:* schotten en dekken welke zijn opgebouwd uit goedgekeurde onbrandbare materialen. Zij behoeven niet te voldoen aan eisen betreffende het doorlaten van rook en vlammen of de beperking van de temperatuurstijging. Brandbare fineerlagen kunnen worden toegestaan onder voorwaarde dat die voldoen aan de daarop van toepassing zijnde voorschriften van dit besluit;
 
-- 55°. **schotten van klasse «F»:** schotten, dekken, plafonds of beschietingen die aan de volgende eisen voldoen:
+- 55°. *schotten van klasse «F»:* schotten, dekken, plafonds of beschietingen die aan de volgende eisen voldoen:
 
-- 55.1. zij moeten tot aan het einde van het eerste half uur van de standaard-brandproef de doortocht van vlammen kunnen verhinderen;
+   - 55.1. zij moeten tot aan het einde van het eerste half uur van de standaard-brandproef de doortocht van vlammen kunnen verhinderen;
 
-- 55.2. zij moeten een zodanig isolerend vermogen hebben dat de gemiddelde temperatuur aan de niet-blootgestelde zijde tot aan het einde van het eerste half uur van de standaard-brandproef niet meer dan 139°C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 225°C boven de begintemperatuur stijgt; en
+   - 55.2. zij moeten een zodanig isolerend vermogen hebben dat de gemiddelde temperatuur aan de niet-blootgestelde zijde tot aan het einde van het eerste half uur van de standaard-brandproef niet meer dan 139°C boven de begintemperatuur stijgt, noch de temperatuur op enig punt, de naden inbegrepen, meer dan 225°C boven de begintemperatuur stijgt; en
 
-- 55.3. het Hoofd van de Scheepvaartinspectie kan de beproeving eisen van een prototype van een schot van klasse «F», teneinde zekerheid te verkrijgen dat dit voldoet aan bovengenoemde eisen omtrent het doorlaten van vlammen en de beperking van de temperatuurstijging;
+   - 55.3. het Hoofd van de Scheepvaartinspectie kan de beproeving eisen van een prototype van een schot van klasse «F», teneinde zekerheid te verkrijgen dat dit voldoet aan bovengenoemde eisen omtrent het doorlaten van vlammen en de beperking van de temperatuurstijging;
 
-- 56°. **doorlopende plafonds of beschietingen van klasse «B»:** plafonds of beschietingen van klasse «B» die slechts eindigen bij een schot van klasse «A» of «B»;
+- 56°. *doorlopende plafonds of beschietingen van klasse «B»:* plafonds of beschietingen van klasse «B» die slechts eindigen bij een schot van klasse «A» of «B»;
 
-- 57°. **staal of ander, gelijkwaardig materiaal:** staal, of elk onbrandbaar materiaal dat zelf, of door middel van isolatiemateriaal, een brandwerendheid heeft die gelijkwaardig is aan die van staal tot aan het einde van de van toepassing zijnde standaard-brandproef. Aluminiumlegering, voorzien van een doeltreffende isolatie, kan als zodanig worden aanvaard;
+- 57°. *staal of ander, gelijkwaardig materiaal:* staal, of elk onbrandbaar materiaal dat zelf, of door middel van isolatiemateriaal, een brandwerendheid heeft die gelijkwaardig is aan die van staal tot aan het einde van de van toepassing zijnde standaard-brandproef. Aluminiumlegering, voorzien van een doeltreffende isolatie, kan als zodanig worden aanvaard;
 
-- 58°. **laag vlamverspreidend vermogen:** de eigenschap die aangeeft dat het aldus omschreven oppervlak de vlamuitbreiding op voldoende wijze kan beperken. Deze eigenschap dient ten genoegen van het Hoofd van de Scheepvaartinspectie te worden aangetoond door middel van een door hem aanvaarde beproevingsmethode;
+- 58°. *laag vlamverspreidend vermogen:* de eigenschap die aangeeft dat het aldus omschreven oppervlak de vlamuitbreiding op voldoende wijze kan beperken. Deze eigenschap dient ten genoegen van het Hoofd van de Scheepvaartinspectie te worden aangetoond door middel van een door hem aanvaarde beproevingsmethode;
 
-- 59°. **ruimten voor accommodatie:** ruimten bestemd voor algemeen gebruik, gangen, toiletten, hutten, kantoren, ziekenverblijven, bioscopen, ontspanningsruimten, afzonderlijke pantries zonder voorzieningen om te koken, en soortgelijke ruimten;
+- 59°. *ruimten voor accommodatie:* ruimten bestemd voor algemeen gebruik, gangen, toiletten, hutten, kantoren, ziekenverblijven, bioscopen, ontspanningsruimten, afzonderlijke pantries zonder voorzieningen om te koken, en soortgelijke ruimten;
 
-- 60°. **ruimten voor algemeen gebruik:** die delen van de accommodatie welke in gebruik zijn als portalen, eetzalen, salons, en soortgelijke permanent ingesloten ruimten;
+- 60°. *ruimten voor algemeen gebruik:* die delen van de accommodatie welke in gebruik zijn als portalen, eetzalen, salons, en soortgelijke permanent ingesloten ruimten;
 
-- 61°. **dienstruimten:** ruimten die gebruikt worden voor kombuizen, pantries met voorzieningen om te koken, kasten en voorraadkamers, werkplaatsen andere dan die welke deel uitmaken van de ruimten voor machines, en soortgelijke ruimten, zomede de bijbehorende schachten;
+- 61°. *dienstruimten:* ruimten die gebruikt worden voor kombuizen, pantries met voorzieningen om te koken, kasten en voorraadkamers, werkplaatsen andere dan die welke deel uitmaken van de ruimten voor machines, en soortgelijke ruimten, zomede de bijbehorende schachten;
 
-- 62°. **controlestations:** ruimten waarin de radio-installatie van het vaartuig, de voornaamste navigatiemiddelen of de elektrische noodkrachtbron zijn ondergebracht of die waarin de uitrusting voor de brandmelding of de brandcontrole is samengebracht;
+- 62°. *controlestations:* ruimten waarin de radio-installatie van het vaartuig, de voornaamste navigatiemiddelen of de elektrische noodkrachtbron zijn ondergebracht of die waarin de uitrusting voor de brandmelding of de brandcontrole is samengebracht;
 
-- 63°. **ruimten voor machines van categorie A:** alle ruimten met inbegrip van de bijbehorende schachten, waarin zijn ondergebracht:
+- 63°. *ruimten voor machines van categorie A:* alle ruimten met inbegrip van de bijbehorende schachten, waarin zijn ondergebracht:
 
-- 63.1. verbrandingsmotoren of gasturbines, die worden gebruikt als hoofdvoortstuwingswerktuig;
+   - 63.1. verbrandingsmotoren of gasturbines, die worden gebruikt als hoofdvoortstuwingswerktuig;
 
-- 63.2. verbrandingsmotoren of gasturbines, andere dan die worden gebruikt als hoofdvoortstuwingswerktuig indien zodanige machines een gezamenlijk vermogen hebben van 375 kW of meer; of
+   - 63.2. verbrandingsmotoren of gasturbines, andere dan die worden gebruikt als hoofdvoortstuwingswerktuig indien zodanige machines een gezamenlijk vermogen hebben van 375 kW of meer; of
 
-- 63.3. met olie gestookte ketels of oliestookinrichtingen;
+   - 63.3. met olie gestookte ketels of oliestookinrichtingen;
 
-- 64°. **ruimten voor machines:** alle ruimten voor machines van categorie A en alle andere ruimten waarin voortstuwingswerktuigen, ketels, oliestookinrichtingen, stoommachines en verbrandingsmotoren, gasturbines, generatoren en belangrijke elektrische werktuigen, olielaadstations, koelmachine-installaties, stabilisatie-inrichtingen, luchtverversings- en luchtbehandelingsinstallaties zijn ondergebracht, en soortgelijke ruimten, zomede de bijbehorende schachten;
+- 64°. *ruimten voor machines:* alle ruimten voor machines van categorie A en alle andere ruimten waarin voortstuwingswerktuigen, ketels, oliestookinrichtingen, stoommachines en verbrandingsmotoren, gasturbines, generatoren en belangrijke elektrische werktuigen, olielaadstations, koelmachine-installaties, stabilisatie-inrichtingen, luchtverversings- en luchtbehandelingsinstallaties zijn ondergebracht, en soortgelijke ruimten, zomede de bijbehorende schachten;
 
-- 65°. **ontdekking:** de vaststelling van de plaats van de overlevenden of de groepsreddingmiddelen;
+- 65°. *ontdekking:* de vaststelling van de plaats van de overlevenden of de groepsreddingmiddelen;
 
-- 66°. **inschepingsladder:** de ladder die op de inschepingsplaats voor de groepsreddingmiddelen is aangebracht ten einde een veilige toegang te bieden tot de groepsreddingmiddelen nadat deze te water gelaten zijn;
+- 66°. *inschepingsladder:* de ladder die op de inschepingsplaats voor de groepsreddingmiddelen is aangebracht ten einde een veilige toegang te bieden tot de groepsreddingmiddelen nadat deze te water gelaten zijn;
 
-- 67°. **te water laten door middel van vrij opdrijven:** de methode van te water laten van een groepsreddingmiddel waarbij dit automatisch van een zinkend vaartuig wordt ontkoppeld en klaar is voor gebruik;
+- 67°. *te water laten door middel van vrij opdrijven:* de methode van te water laten van een groepsreddingmiddel waarbij dit automatisch van een zinkend vaartuig wordt ontkoppeld en klaar is voor gebruik;
 
-- 68°. **overlevingspak:** een beschermend pak dat het verlies van lichaamswarmte van een persoon gekleed in zulk een pak liggend in koud water, vermindert;
+- 68°. *overlevingspak:* een beschermend pak dat het verlies van lichaamswarmte van een persoon gekleed in zulk een pak liggend in koud water, vermindert;
 
-- 69°. **opblaasbaar toestel:** een toestel waarvan het drijfvermogen afhankelijk is van niet-verstijfde, met gas gevulde drijfkamers en dat gewoonlijk, tot aan de klaar voor gebruik situatie, in niet-opgeblazen toestand wordt gehouden;
+- 69°. *opblaasbaar toestel:* een toestel waarvan het drijfvermogen afhankelijk is van niet-verstijfde, met gas gevulde drijfkamers en dat gewoonlijk, tot aan de klaar voor gebruik situatie, in niet-opgeblazen toestand wordt gehouden;
 
-- 70°. **toestel in opgeblazen toestand:** een toestel waarvan het drijfvermogen afhankelijk is van niet-verstijfde, met gas gevulde drijfkamers en dat permanent in opgeblazen toestand en klaar voor gebruik wordt gehouden;
+- 70°. *toestel in opgeblazen toestand:* een toestel waarvan het drijfvermogen afhankelijk is van niet-verstijfde, met gas gevulde drijfkamers en dat permanent in opgeblazen toestand en klaar voor gebruik wordt gehouden;
 
-- 71°. **tewaterlatingsmiddel of -voorziening:** een middel of voorziening om een groepsreddingmiddel of hulpverleningsboot vanaf de opstellingsplaats veilig te water te brengen;
+- 71°. *tewaterlatingsmiddel of -voorziening:* een middel of voorziening om een groepsreddingmiddel of hulpverleningsboot vanaf de opstellingsplaats veilig te water te brengen;
 
-- 72°. **reddingmiddelen of -voorzieningen van een nieuw ontwerp:** reddingmiddelen of -voorzieningen die nieuwe eigenschappen bevatten die niet geheel vallen onder de voorschriften van dit besluit, maar die een gelijke of hogere norm van veiligheid bieden;
+- 72°. *reddingmiddelen of -voorzieningen van een nieuw ontwerp:* reddingmiddelen of -voorzieningen die nieuwe eigenschappen bevatten die niet geheel vallen onder de voorschriften van dit besluit, maar die een gelijke of hogere norm van veiligheid bieden;
 
-- 73°. **hulpverleningsboot:** een boot ontworpen om personen in nood uit het water te kunnen halen en voor het bij elkaar brengen van reddingvlotten;
+- 73°. *hulpverleningsboot:* een boot ontworpen om personen in nood uit het water te kunnen halen en voor het bij elkaar brengen van reddingvlotten;
 
-- 74°. **lichtterugkaatsend materiaal:** materiaal dat een lichtstraal die daarop gericht wordt, in tegengestelde richting terugkaatst;
+- 74°. *lichtterugkaatsend materiaal:* materiaal dat een lichtstraal die daarop gericht wordt, in tegengestelde richting terugkaatst;
 
-- 75°. **groepsreddingmiddel:** een middel dat personen die in nood verkeren, in leven kan houden vanaf het moment dat zij het vaartuig verlaten;
+- 75°. *groepsreddingmiddel:* een middel dat personen die in nood verkeren, in leven kan houden vanaf het moment dat zij het vaartuig verlaten;
 
-- 76°. **hulpmiddel tegen warmteverlies:** een zak of pak, vervaardigd uit waterdicht materiaal met een zeer lage warmtegeleiding;
+- 76°. *hulpmiddel tegen warmteverlies:* een zak of pak, vervaardigd uit waterdicht materiaal met een zeer lage warmtegeleiding;
 
-- 77°. **gediplomeerd sloepsgast:** elk lid der bemanning dat in het bezit is van een diploma als stuurman , of als sloepsgast, als bedoeld in hoofdstuk 12, paragraaf 3;
+- 77°. *gediplomeerd sloepsgast:* elk lid der bemanning dat in het bezit is van een diploma als stuurman , of als sloepsgast, als bedoeld in hoofdstuk 12, paragraaf 3;
 
-- 78°. **een vaartuig gebouwd:** een vaartuig waarvan:
+- 78°. *een vaartuig gebouwd:* een vaartuig waarvan:
 
-- 78.1. de kiel is gelegd; of
+   - 78.1. de kiel is gelegd; of
 
-- 78.2. de aanbouw, herkenbaar als behorend tot een bepaald schip, is aangevangen en is aangevangen met de samenbouw die ten minste 50 000 kg moet omvatten of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is.
+   - 78.2. de aanbouw, herkenbaar als behorend tot een bepaald schip, is aangevangen en is aangevangen met de samenbouw die ten minste 50 000 kg moet omvatten of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is.
 
-- 79°. **laagst gelegen lastlijn:** de lastlijn behorende bij de beladingstoestand, waarbij het vaartuig is beladen met een restant brandstof en zoetwater overeenkomende met 10 percent van de beschikbare inhoud van de betreffende tanks en met een lading in het visruim gelijk aan 20 percent van de lading die in het visruim in rekening moet worden gebracht voor de beoordeling van de stabiliteit;
+- 79°. *laagst gelegen lastlijn:* de lastlijn behorende bij de beladingstoestand, waarbij het vaartuig is beladen met een restant brandstof en zoetwater overeenkomende met 10 percent van de beschikbare inhoud van de betreffende tanks en met een lading in het visruim gelijk aan 20 percent van de lading die in het visruim in rekening moet worden gebracht voor de beoordeling van de stabiliteit;
 
-- 80. **klassebureau:** een natuurlijke persoon of rechtspersoon, aangewezen krachtens [artikel 6, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6) en krachtens [artikel 6 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=6).
+- 80. *klassebureau:* een natuurlijke persoon of rechtspersoon, aangewezen krachtens [artikel 6, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6) en krachtens [artikel 6 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=6).
 
 2. Voor de toepassing van dit besluit wordt onder «vaartuig» begrepen een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1) alsmede een vissersvaartuig dat over zee naar zijn bestemming wordt gesleept.
 
@@ -313,9 +280,13 @@ Hebben goedgevonden en verstaan:
 
 4. Voor de toepassing van dit besluit wordt, ook wat de strafbepalingen betreft, onder «eigenaar» verstaan de persoon die het beheer over het vaartuig heeft, hetzij hij eigenaar, reder of boekhouder is van de rederij van het vaartuig, hetzij hem het vaartuig in gebruik is gegeven.
 
+##### Artikel 2a. Omhangbepaling
+
+Dit besluit berust mede op de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3a) en [4, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4).
+
 ##### Artikel 3. Vrijstellingen en ontheffingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Wederzijdse erkenning
 
@@ -345,7 +316,7 @@ Vervallen
 
 ##### Artikel 8. Voortdurend toezicht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. Klassebureaus
 
@@ -361,7 +332,7 @@ De eigenaar, de kapitein en de schepelingen zijn verplicht aan degene die een on
 
 ##### Artikel 11. Toegankelijk maken voor onderzoek
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. Onderzoeken
 
@@ -423,13 +394,13 @@ Nadat een onderzoek als bedoeld in artikel 12, is beëindigd:
 
 ##### Artikel 18. Kosten van onderzoek
 
-Vervallen
+*Vervallen*
 
 #### § 3. Certificaten
 
 ##### Artikel 19. Vorm en inhoud van certificaten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. Aanvragen van certificaten
 
@@ -483,7 +454,7 @@ Indien het Hoofd van de Scheepvaartinspectie ontheffing verleent, voegt hij aan 
 
 ##### Artikel 25. Het vervallen van certificaten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26. Het intrekken van certificaten
 
@@ -1016,7 +987,7 @@ Elk onderdeel kan te allen tijde, zowel tijdens als na de bewerking, nog worden 
 
 ##### Artikel 59. Tabel, aangevende de te gebruiken belasting bij het beproeven van ankerkettingen met dam
 
-|   | Staal met een treksterkte van 300–490 N/mm2 | Staal met een treksterkte van 300–490 N/mm2 | Staal met een treksterkte van 490–690 N/mm2 | Staal met een treksterkte van 490–690 N/mm2 | Staal met een treksterkte van ≥ 690 N/mm2 | Staal met een treksterkte van ≥ 690 N/mm2 | Massa per lengte van 27,50 m | Massa per lengte van 27,50 m |
+|  | Staal met een treksterkte van 300–490 N/mm2 | Staal met een treksterkte van 490–690 N/mm2 | Staal met een treksterkte van ≥ 690 N/mm2 | Massa per lengte van 27,50 m |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Nominale diameter | Breekproef | Rekproef | Breekproef | Rekproef | Breekproef | Rekproef | Met D-sluiting | Met Patent-sluiting |
 | mm | kN | kN | kN | kN | kN | kN | kg | kg |
@@ -1317,19 +1288,19 @@ Aan boord van een vaartuig waarvan de lengte minder dan 45 m bedraagt, waarop de
 
 - 1.4. moet de hiervoor benodigde omschakelinrichting ten genoegen van het Hoofd van de Scheepvaartinspectie zodanig zijn uitgevoerd, dat:
 
-- 1°. nimmer gelijktijdig vanaf meer dan één bedieningsplaats het voortstuwingswerktuig kan worden aangezet, dan wel, indien van toepassing, de spoed van de verstelbare schroef kan worden versteld;
+   - 1°. nimmer gelijktijdig vanaf meer dan één bedieningsplaats het voortstuwingswerktuig kan worden aangezet, dan wel, indien van toepassing, de spoed van de verstelbare schroef kan worden versteld;
 
-- 2°. het nimmer kan voorkomen dat door omschakeling van de bediening de stuwkracht een noemenswaardige verandering ondergaat; en
+   - 2°. het nimmer kan voorkomen dat door omschakeling van de bediening de stuwkracht een noemenswaardige verandering ondergaat; en
 
-- 3°. op elke bedieningsplaats op duidelijke wijze blijkt welke bedieningsplaats is ingeschakeld. De overschakeling van de bediening van de brug naar de ruimte voor machines dient alleen mogelijk te zijn in de ruimte voor machines of in de controlekamer. Voor vaartuigen waarvan de lengte minder dan 45 m bedraagt, kan het Hoofd van de Scheepvaartinspectie toestaan dat de bedieningsplaats in de ruimte voor machines alleen een noodbedieningsplaats is, mits de controle- inrichting en bedieningsorganen op de brug doelmatig zijn;
+   - 3°. op elke bedieningsplaats op duidelijke wijze blijkt welke bedieningsplaats is ingeschakeld. De overschakeling van de bediening van de brug naar de ruimte voor machines dient alleen mogelijk te zijn in de ruimte voor machines of in de controlekamer. Voor vaartuigen waarvan de lengte minder dan 45 m bedraagt, kan het Hoofd van de Scheepvaartinspectie toestaan dat de bedieningsplaats in de ruimte voor machines alleen een noodbedieningsplaats is, mits de controle- inrichting en bedieningsorganen op de brug doelmatig zijn;
 
 - 1.5. moeten instrumenten op de brug zijn aangebracht die aangeven:
 
-- 1°. de omwentelingssnelheid en de draairichting van de schroef in het geval het vaartuig is voorzien van vaste schroeven;
+   - 1°. de omwentelingssnelheid en de draairichting van de schroef in het geval het vaartuig is voorzien van vaste schroeven;
 
-- 2°. de omwentelingssnelheid en de stand van de spoed in het geval het vaartuig is voorzien van verstelbare schroeven; en
+   - 2°. de omwentelingssnelheid en de stand van de spoed in het geval het vaartuig is voorzien van verstelbare schroeven; en
 
-- 3°. het vooralarm zoals voorgeschreven in artikel 75, zesde lid;
+   - 3°. het vooralarm zoals voorgeschreven in artikel 75, zesde lid;
 
 - 1.6. moeten, indien een storing optreedt in een onderdeel van het afstandbedieningssysteem, de voortstuwingswerktuigen op andere wijze kunnen worden bediend;
 
@@ -1551,11 +1522,11 @@ Aan boord van een vaartuig waarvan de lengte 75 m of meer bedraagt, moet een ala
 
 In aanvulling op het bepaalde in artikel 2, eerste lid, wordt voor de toepassing van deze paragraaf verstaan onder:
 
-- 1°. **elektrische machines:** generatoren, motoren en omvormers;
+- 1°. *elektrische machines:* generatoren, motoren en omvormers;
 
-- 2°. **spanning:** nominale spanning waarbij de elektrische energie onder normale omstandigheden wordt verbruikt; en
+- 2°. *spanning:* nominale spanning waarbij de elektrische energie onder normale omstandigheden wordt verbruikt; en
 
-- 3°. **vochtige ruimten:** ruimten waarin vocht het behouden van een normale isolatietoestand bemoeilijkt of de elektrische weerstand van de daarin vertoevende personen belangrijk vermindert.
+- 3°. *vochtige ruimten:* ruimten waarin vocht het behouden van een normale isolatietoestand bemoeilijkt of de elektrische weerstand van de daarin vertoevende personen belangrijk vermindert.
 
 ##### Artikel 99. Toegelaten spanningen
 
@@ -1569,35 +1540,35 @@ In aanvulling op het bepaalde in artikel 2, eerste lid, wordt voor de toepassing
 
 - 1°. 250 V voor:
 
-- 1.1. de vast aangebrachte verlichting;
+   - 1.1. de vast aangebrachte verlichting;
 
-- 1.2. de vast aangebrachte telecommunicatie-toestellen voor het intern gebruik;
+   - 1.2. de vast aangebrachte telecommunicatie-toestellen voor het intern gebruik;
 
-- 1.3. de vast aangebrachte krachtinstallatie en de verwarmingstoestellen in hutten en verblijven, geen ruimten voor algemeen gebruik zijnde;
+   - 1.3. de vast aangebrachte krachtinstallatie en de verwarmingstoestellen in hutten en verblijven, geen ruimten voor algemeen gebruik zijnde;
 
-- 1.4. contactdozen bestemd voor het aansluiten van navigatielantaarns;
+   - 1.4. contactdozen bestemd voor het aansluiten van navigatielantaarns;
 
-- 1.5. contactdozen in ruimten voor accommodatie, ruimten voor algemeen gebruik en controlestations;
+   - 1.5. contactdozen in ruimten voor accommodatie, ruimten voor algemeen gebruik en controlestations;
 
-- 1.6. contactdozen bestemd voor het aansluiten van scheerapparaten in badkamers en doucheruimten, mits voorzien van een speciaal voor dit doel aangepaste beschermingstransformator; contactdozen voor andere bestemmingen mogen in die ruimten niet zijn aangebracht; en
+   - 1.6. contactdozen bestemd voor het aansluiten van scheerapparaten in badkamers en doucheruimten, mits voorzien van een speciaal voor dit doel aangepaste beschermingstransformator; contactdozen voor andere bestemmingen mogen in die ruimten niet zijn aangebracht; en
 
-- 1.7. contactdozen in vochtige ruimten of aan dek, bestemd voor het aansluiten van handgereedschappen, ruim- of looplampen en dergelijke, met uitzondering van die bedoeld onder 2, onder de voorwaarden dat:
+   - 1.7. contactdozen in vochtige ruimten of aan dek, bestemd voor het aansluiten van handgereedschappen, ruim- of looplampen en dergelijke, met uitzondering van die bedoeld onder 2, onder de voorwaarden dat:
 
-- 1.7.1. deze spanning voor elke contactdoos afzonderlijk wordt verkregen van een bij deze contactdoos vast aangebrachte beschermingstransformator; of
+      - 1.7.1. deze spanning voor elke contactdoos afzonderlijk wordt verkregen van een bij deze contactdoos vast aangebrachte beschermingstransformator; of
 
-- 1.7.2. de op de contactdozen aan te sluiten toestellen dubbel geïsoleerd zijn uitgevoerd.
+      - 1.7.2. de op de contactdozen aan te sluiten toestellen dubbel geïsoleerd zijn uitgevoerd.
 
 - 2°. 55 V, mits deze spanning wordt verkregen van een omvormer of beschermingstransformator; voor:
 
-- 2.1. de onder 1.7 bedoelde contactdozen welke niet voldoen aan de daarin onder 1.7.1 en 1.7.2 genoemde voorwaarden; en
+   - 2.1. de onder 1.7 bedoelde contactdozen welke niet voldoen aan de daarin onder 1.7.1 en 1.7.2 genoemde voorwaarden; en
 
-- 2.2. contactdozen ten behoeve van werkzaamheden in nauwe ruimten zoals ketels, tanks en dergelijke en in het algemeen op plaatsen waar naar het oordeel van het Hoofd van de Scheepvaartinspectie bijzondere veiligheidsvoorzorgen nodig zijn.
+   - 2.2. contactdozen ten behoeve van werkzaamheden in nauwe ruimten zoals ketels, tanks en dergelijke en in het algemeen op plaatsen waar naar het oordeel van het Hoofd van de Scheepvaartinspectie bijzondere veiligheidsvoorzorgen nodig zijn.
 
 - 3°. 660 V voor:
 
-- 3.1. de vast aangebrachte krachtinstallatie en verwarmingstoestellen, andere dan die bedoeld onder 1; en
+   - 3.1. de vast aangebrachte krachtinstallatie en verwarmingstoestellen, andere dan die bedoeld onder 1; en
 
-- 3.2. contactdozen op aansluitkasten voor verplaatsbare werktuigen en toestellen die bij het gebruik niet in de hand worden genomen, een en ander onder de door het Hoofd van de Scheepvaartinspectie te stellen voorwaarden.
+   - 3.2. contactdozen op aansluitkasten voor verplaatsbare werktuigen en toestellen die bij het gebruik niet in de hand worden genomen, een en ander onder de door het Hoofd van de Scheepvaartinspectie te stellen voorwaarden.
 
 3. Het bepaalde in de voorgaande leden van dit artikel geldt niet voor voortstuwingsinstallaties en voor installaties waarbij een hogere spanning noodzakelijk is, onder voorwaarde dat zodanige voorzieningen zijn getroffen dat de veiligheid naar het oordeel van het Hoofd van de Scheepvaartinspectie op overeenkomstige wijze is gewaarborgd.
 
@@ -1761,39 +1732,39 @@ Het Hoofd van de Scheepvaartinspectie kan nadere regels geven betreffende de uit
 
 - 2°. gedurende 6 uur de noodverlichting;
 
-- 2.1. in alle dienst- en accommodatiegangen, bij alle trappen en uitgangen, en in liftkooien en schachten van liften met betreedbare kooi;
+   - 2.1. in alle dienst- en accommodatiegangen, bij alle trappen en uitgangen, en in liftkooien en schachten van liften met betreedbare kooi;
 
-- 2.2. in ruimten voor machines en hoofdgeneratorstations, inclusief hun bedieningsplaatsen;
+   - 2.2. in ruimten voor machines en hoofdgeneratorstations, inclusief hun bedieningsplaatsen;
 
-- 2.3. in alle controlestations, machine-controlekamers en bij elk hoofd- en noodschakelbord;
+   - 2.3. in alle controlestations, machine-controlekamers en bij elk hoofd- en noodschakelbord;
 
-- 2.4. bij alle bergplaatsen van brandweeruitrustingen;
+   - 2.4. bij alle bergplaatsen van brandweeruitrustingen;
 
-- 2.5. bij de stuurinrichting;
+   - 2.5. bij de stuurinrichting;
 
-- 2.6. bij de noodbrandbluspomp, indien aanwezig, bij de sprinklerpomp, indien aanwezig, en op de plaatsen waar de bij die pompen behorende motoren kunnen worden ingeschakeld;
+   - 2.6. bij de noodbrandbluspomp, indien aanwezig, bij de sprinklerpomp, indien aanwezig, en op de plaatsen waar de bij die pompen behorende motoren kunnen worden ingeschakeld;
 
-- 2.7. bij magnetische kompassen;
+   - 2.7. bij magnetische kompassen;
 
-- 2.8. bij peilglazen van stoomketels;
+   - 2.8. bij peilglazen van stoomketels;
 
-- 2.9. in kombuizen, eetzalen en andere ruimten voor algemeen gebruik;
+   - 2.9. in kombuizen, eetzalen en andere ruimten voor algemeen gebruik;
 
-- 2.10. bij de centrale bedieningsplaatsen van vast aangebrachte brandblusinstallaties; en
+   - 2.10. bij de centrale bedieningsplaatsen van vast aangebrachte brandblusinstallaties; en
 
-- 2.11. in de ruimten waar de vis wordt behandeld en verwerkt;
+   - 2.11. in de ruimten waar de vis wordt behandeld en verwerkt;
 
 - 3°. gedurende 6 uur de navigatielichten en andere lichten vereist volgens de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee;
 
 - 4°. gedurende 6 uur:
 
-- 4.1. alle interne communicatiemiddelen welke in geval van nood noodzakelijk zijn, zoals de rechtstreekse spreekverbindingen, bedoeld in artikel 81, vierde lid, en artikel 135 en het nood-communicatiesysteem indien dit vast is aangebracht, bedoeld in artikel 239, eerste lid;
+   - 4.1. alle interne communicatiemiddelen welke in geval van nood noodzakelijk zijn, zoals de rechtstreekse spreekverbindingen, bedoeld in artikel 81, vierde lid, en artikel 135 en het nood-communicatiesysteem indien dit vast is aangebracht, bedoeld in artikel 239, eerste lid;
 
-- 4.2. de brandontdekkings- en brandalarminstallatie;
+   - 4.2. de brandontdekkings- en brandalarminstallatie;
 
-- 4.3. het intermitterend gebruik van de dagseinlamp, de middelen tot het geven van geluidsseinen indien elektrisch uitgevoerd of elektrisch te bedienen en alle interne signaleringen welke in geval van nood zijn vereist; en
+   - 4.3. het intermitterend gebruik van de dagseinlamp, de middelen tot het geven van geluidsseinen indien elektrisch uitgevoerd of elektrisch te bedienen en alle interne signaleringen welke in geval van nood zijn vereist; en
 
-- 4.4. de algemeen alarminstallatie en de omroepinstallatie, bedoeld in artikel 239, tweede lid, de alarminstallatie voor de vast aangebrachte brandblusinstallatie met gas als blusstof en de alarminstallatie van liften met betreedbare kooi, tenzij deze diensten worden gevoed door een onafhankelijke stroombron bestaande uit een accumulatorenbatterij van voldoende capaciteit voor een periode van 6 uur, opgesteld op een voor noodgebruik geschikte plaats;
+   - 4.4. de algemeen alarminstallatie en de omroepinstallatie, bedoeld in artikel 239, tweede lid, de alarminstallatie voor de vast aangebrachte brandblusinstallatie met gas als blusstof en de alarminstallatie van liften met betreedbare kooi, tenzij deze diensten worden gevoed door een onafhankelijke stroombron bestaande uit een accumulatorenbatterij van voldoende capaciteit voor een periode van 6 uur, opgesteld op een voor noodgebruik geschikte plaats;
 
 - 5°. gedurende 3 uur de noodbrandbluspomp als bedoeld in artikel 108, eerste lid, indien de elektrische krachtbron hiervoor afhankelijk is van de noodgenerator.
 
@@ -1801,19 +1772,19 @@ Het Hoofd van de Scheepvaartinspectie kan nadere regels geven betreffende de uit
 
 - 1°. indien de elektrische noodkrachtbron een generator is, dan moet deze:
 
-- 1.1. aangedreven worden door een daartoe geschikte werktuiglijke inrichting, voorzien van een onafhankelijke brandstofvoeding en van een goedgekeurd aanzetsysteem en waarbij het vlampunt van de te gebruiken brandstof niet lager is dan 43°C;
+   - 1.1. aangedreven worden door een daartoe geschikte werktuiglijke inrichting, voorzien van een onafhankelijke brandstofvoeding en van een goedgekeurd aanzetsysteem en waarbij het vlampunt van de te gebruiken brandstof niet lager is dan 43°C;
 
-- 1.2. automatisch starten bij het uitvallen van de elektrische voeding, vanaf de elektrische hoofdkrachtbron, tenzij is voorzien in een tijdelijke noodkrachtbron als bedoeld onder 1.3. Indien de noodgenerator automatisch wordt gestart moet deze automatisch op het noodschakelbord worden geschakeld. De diensten welke genoemd zijn in het vierde lid moeten dan automatisch op de noodgenerator worden geschakeld. Tenzij in een tweede onafhankelijke aanzetinrichting voor de noodgenerator is voorzien, moet de enige bron met geaccumuleerde energie worden beveiligd tegen volledige uitputting door de automatische aanzetinrichting; en
+   - 1.2. automatisch starten bij het uitvallen van de elektrische voeding, vanaf de elektrische hoofdkrachtbron, tenzij is voorzien in een tijdelijke noodkrachtbron als bedoeld onder 1.3. Indien de noodgenerator automatisch wordt gestart moet deze automatisch op het noodschakelbord worden geschakeld. De diensten welke genoemd zijn in het vierde lid moeten dan automatisch op de noodgenerator worden geschakeld. Tenzij in een tweede onafhankelijke aanzetinrichting voor de noodgenerator is voorzien, moet de enige bron met geaccumuleerde energie worden beveiligd tegen volledige uitputting door de automatische aanzetinrichting; en
 
-- 1.3. voorzien zijn van een tijdelijke elektrische noodkrachtbron zoals omschreven in het vierde lid tenzij er een noodgenerator aanwezig is die in staat is om de stroom te leveren voor de in dat artikel genoemde diensten en in staat is om automatisch te starten en zo snel als veilig en praktisch mogelijk is de benodigde stroom te leveren, zulks echter binnen ten hoogste 45 seconden;
+   - 1.3. voorzien zijn van een tijdelijke elektrische noodkrachtbron zoals omschreven in het vierde lid tenzij er een noodgenerator aanwezig is die in staat is om de stroom te leveren voor de in dat artikel genoemde diensten en in staat is om automatisch te starten en zo snel als veilig en praktisch mogelijk is de benodigde stroom te leveren, zulks echter binnen ten hoogste 45 seconden;
 
 - 2°. indien de elektrische noodkrachtbron een accumulatorenbatterij is, moet deze in staat zijn:
 
-- 2.1. zonder wederoplading de noodbelasting op te nemen, waarbij gedurende de gehele ontlaadperiode de spanning van de accumulatorenbatterij binnen 12 percent boven of onder zijn nominale spanning blijft;
+   - 2.1. zonder wederoplading de noodbelasting op te nemen, waarbij gedurende de gehele ontlaadperiode de spanning van de accumulatorenbatterij binnen 12 percent boven of onder zijn nominale spanning blijft;
 
-- 2.2. automatisch op het noodschakelbord te schakelen bij uitvallen van de elektrische hoofdvoeding; en
+   - 2.2. automatisch op het noodschakelbord te schakelen bij uitvallen van de elektrische hoofdvoeding; en
 
-- 2.3. onmiddellijk de stroom te leveren aan ten minste de in het vierde lid genoemde diensten.
+   - 2.3. onmiddellijk de stroom te leveren aan ten minste de in het vierde lid genoemde diensten.
 
 4. De tijdelijke elektrische noodkrachtbron, indien vereist volgens het derde lid, onder 1.3, dient te bestaan uit een accumulatorenbatterij, opgesteld op een voor noodgebruik geschikte plaats, van voldoende capaciteit om zonder wederopladen te kunnen werken, waarbij gedurende de gehele ontlaadperiode de spanning binnen 12 percent boven of onder zijn nominale spanning blijft, en zodanig ingericht dat bij uitvallen van hetzij de elektrische hoofd- hetzij de elektrische noodkrachtbron automatisch ten minste de volgende diensten gedurende een half uur van stroom worden voorzien, voor zover deze voor hun werking afhankelijk zijn van een elektrische krachtbron:
 
@@ -1845,35 +1816,35 @@ Het Hoofd van de Scheepvaartinspectie kan nadere regels geven betreffende de uit
 
 - 2°. gedurende 3 uur de noodverlichting;
 
-- 2.1. in alle dienst- en accommodatiegangen, bij alle trappen en uitgangen, en in liftkooien en schachten van liften met betreedbare kooi;
+   - 2.1. in alle dienst- en accommodatiegangen, bij alle trappen en uitgangen, en in liftkooien en schachten van liften met betreedbare kooi;
 
-- 2.2. in ruimten voor machines en hoofdgeneratorstations, inclusief hun bedieningsplaatsen;
+   - 2.2. in ruimten voor machines en hoofdgeneratorstations, inclusief hun bedieningsplaatsen;
 
-- 2.3. in alle controlestations, machine-controlekamers en bij elk hoofd- en noodschakelbord;
+   - 2.3. in alle controlestations, machine-controlekamers en bij elk hoofd- en noodschakelbord;
 
-- 2.4. bij de stuurinrichting;
+   - 2.4. bij de stuurinrichting;
 
-- 2.5. bij magnetische kompassen;
+   - 2.5. bij magnetische kompassen;
 
-- 2.6. bij peilglazen van stoomketels;
+   - 2.6. bij peilglazen van stoomketels;
 
-- 2.7. in kombuizen, eetzalen en andere ruimten voor algemeen gebruik;
+   - 2.7. in kombuizen, eetzalen en andere ruimten voor algemeen gebruik;
 
-- 2.8. bij de centrale bedieningsplaatsen van vast aangebrachte brandblusinstallaties; en
+   - 2.8. bij de centrale bedieningsplaatsen van vast aangebrachte brandblusinstallaties; en
 
-- 2.9. in de ruimten waar de vis wordt behandeld en verwerkt.
+   - 2.9. in de ruimten waar de vis wordt behandeld en verwerkt.
 
 - 3°. gedurende 3 uur de navigatielichten en andere lichten vereist volgens de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee;
 
 - 4°. gedurende 3 uur:
 
-- 4.1. alle interne communicatiemiddelen welke in geval van nood noodzakelijk zijn, zoals de rechtstreekse spreekverbindingen, bedoeld in de artikelen 81, vierde lid, en 135;
+   - 4.1. alle interne communicatiemiddelen welke in geval van nood noodzakelijk zijn, zoals de rechtstreekse spreekverbindingen, bedoeld in de artikelen 81, vierde lid, en 135;
 
-- 4.2. de brandontdekkings- en brandalarminstallatie;
+   - 4.2. de brandontdekkings- en brandalarminstallatie;
 
-- 4.3. het intermitterend gebruik van de dagseinlamp, de middelen tot het geven van geluidseinen indien elektrisch uitgevoerd of elektrisch te bedienen, en alle interne signaleringen welke in geval van nood zijn vereist; en
+   - 4.3. het intermitterend gebruik van de dagseinlamp, de middelen tot het geven van geluidseinen indien elektrisch uitgevoerd of elektrisch te bedienen, en alle interne signaleringen welke in geval van nood zijn vereist; en
 
-- 4.4. de algemeen alarminstallatie, de alarminstallatie voor de vast aangebrachte brandblusinstallatie met gas als blusstof en de alarminstallatie van liften met betreedbare kooi, tenzij deze diensten worden gevoed door een onafhankelijke stroombron bestaande uit een accumulatorenbatterij van voldoende capaciteit voor een periode van 3 uur, opgesteld op een voor noodgebruik geschikte plaats.
+   - 4.4. de algemeen alarminstallatie, de alarminstallatie voor de vast aangebrachte brandblusinstallatie met gas als blusstof en de alarminstallatie van liften met betreedbare kooi, tenzij deze diensten worden gevoed door een onafhankelijke stroombron bestaande uit een accumulatorenbatterij van voldoende capaciteit voor een periode van 3 uur, opgesteld op een voor noodgebruik geschikte plaats.
 
 3. De elektrische noodkrachtbron mag hetzij een generator hetzij een accumulatorenbatterij zijn, die aan de volgende voorwaarden moet voldoen:
 
@@ -1881,11 +1852,11 @@ Het Hoofd van de Scheepvaartinspectie kan nadere regels geven betreffende de uit
 
 - 2°. indien de elektrische noodkrachtbron een accumulatorenbatterij is, moet deze in staat zijn:
 
-- 2.1. zonder wederoplading de noodbelasting op te nemen, waarbij gedurende de gehele ontlaadperiode de spanning van de accumulatorenbatterij binnen 12 percent boven of onder zijn nominale spanning blijft;
+   - 2.1. zonder wederoplading de noodbelasting op te nemen, waarbij gedurende de gehele ontlaadperiode de spanning van de accumulatorenbatterij binnen 12 percent boven of onder zijn nominale spanning blijft;
 
-- 2.2. automatisch op het noodschakelbord te schakelen bij uitvallen van de elektrische hoofdvoeding; en
+   - 2.2. automatisch op het noodschakelbord te schakelen bij uitvallen van de elektrische hoofdvoeding; en
 
-- 2.3. onmiddellijk de stroom te leveren aan ten minste de in het tweede lid genoemde diensten.
+   - 2.3. onmiddellijk de stroom te leveren aan ten minste de in het tweede lid genoemde diensten.
 
 4. Het noodschakelbord moet zo dicht als praktisch mogelijk bij de elektrische noodkrachtbron zijn opgesteld.
 
@@ -1929,15 +1900,22 @@ Het Hoofd van de Scheepvaartinspectie kan nadere regels geven betreffende de uit
 
 - 3°. de inwendige weerstand van de ventilatiepijpen of -kokers zo gering mogelijk is. Vlamkerende inrichtingen die de doortocht noemenswaard verkleinen, mogen niet worden toegepast;
 
-- 4°. de doortocht van ventilatiepijpen of -kokers ten minste een waarde heeft als in onderstaande tabel is aangegeven:
-
-| Maximum laadvermogen in kW als bedoeld in artikel 114, tweede lid | Doortocht in mm2 | Doortocht in mm2 |
-| --- | --- | --- |
-| Maximum laadvermogen in kW als bedoeld in artikel 114, tweede lid | loodbatterijen | alkalische batterijen |
-| minder dan 1,0 | 7 500 | 12 000 |
-| 1,0 tot 1,5 | 12 000 | 18 000 |
-| 1,5 tot 2,0 | 15 000 | 24 000 |
-| 2,0 tot 3,0 | 24 000 | 40 000 |
+- 4°. de doortocht van ventilatiepijpen of -kokers ten minste een waarde heeft als in onderstaande tabel is aangegeven: Maximum laadvermogen in kW als bedoeld in artikel 114, tweede lid
+ Doortocht in mm2
+ loodbatterijen
+ alkalische batterijen
+ minder dan 1,0
+ 7 500
+ 12 000
+ 1,0 tot 1,5
+ 12 000
+ 18 000
+ 1,5 tot 2,0
+ 15 000
+ 24 000
+ 2,0 tot 3,0
+ 24 000
+ 40 000
 
 - 5°. ventilatiepijpen of -kokers voor afvoer aan het boveneinde zijn voorzien van een doelmatige zuigkap of gelijkwaardige inrichting. Zij moeten zo hoog als praktisch mogelijk zijn opgetrokken.
 
@@ -2227,11 +2205,11 @@ Een veiligheidssysteem moet zijn aangebracht teneinde te verzekeren dat een erns
 
 2. In ruimten voor accommodatie en dienstruimten moet een van de volgende methoden van bescherming zijn toegepast:
 
-- 1°. **methode I F**- het aanbrengen van scheidingsschotten van klasse «B» of «C» van onbrandbare kwaliteit, in het algemeen zonder dat daarbij installaties als voorgeschreven bij methode II of III F in de ruimten voor accommodatie en de dienstruimten zijn aangebracht;
+- 1°. *methode I F*- het aanbrengen van scheidingsschotten van klasse «B» of «C» van onbrandbare kwaliteit, in het algemeen zonder dat daarbij installaties als voorgeschreven bij methode II of III F in de ruimten voor accommodatie en de dienstruimten zijn aangebracht;
 
-- 2°. **methode II F**- het installeren van een automatische sprinkler- en brandalarm- en brandontdekkingsinstallatie voor het ontdekken en blussen van brand in alle ruimten waarin het ontstaan van een brand kan worden verwacht, in het algemeen zonder beperkingen ten aanzien van het type van de scheidingsschotten; of
+- 2°. *methode II F*- het installeren van een automatische sprinkler- en brandalarm- en brandontdekkingsinstallatie voor het ontdekken en blussen van brand in alle ruimten waarin het ontstaan van een brand kan worden verwacht, in het algemeen zonder beperkingen ten aanzien van het type van de scheidingsschotten; of
 
-- 3°. **methode III F**- het installeren van een automatische brandalarm- en brandontdekkingsinstallatie in alle ruimten waarin het ontstaan van een brand kan worden verwacht, in het algemeen zonder beperkingen ten aanzien van het type van de scheidingsschotten, met dien verstande dat de oppervlakte van enige ruimte of ruimten voor accommodatie die door een schot van klasse «A» of «B» dienen te worden begrensd, in geen geval meer dan 50 m2 mag bedragen. Het Hoofd van de Scheepvaartinspectie kan voor ruimten voor algemeen gebruik echter een grotere oppervlakte toestaan. De bepalingen met betrekking tot de toepassing van onbrandbare materialen bij de constructie en isolatie van schotten die de begrenzing vormen van ruimten voor machines, controlestations en dergelijke, en de bescherming van trapomsluitingen en gangen zijn voor alle drie methoden gelijk.
+- 3°. *methode III F*- het installeren van een automatische brandalarm- en brandontdekkingsinstallatie in alle ruimten waarin het ontstaan van een brand kan worden verwacht, in het algemeen zonder beperkingen ten aanzien van het type van de scheidingsschotten, met dien verstande dat de oppervlakte van enige ruimte of ruimten voor accommodatie die door een schot van klasse «A» of «B» dienen te worden begrensd, in geen geval meer dan 50 m2 mag bedragen. Het Hoofd van de Scheepvaartinspectie kan voor ruimten voor algemeen gebruik echter een grotere oppervlakte toestaan. De bepalingen met betrekking tot de toepassing van onbrandbare materialen bij de constructie en isolatie van schotten die de begrenzing vormen van ruimten voor machines, controlestations en dergelijke, en de bescherming van trapomsluitingen en gangen zijn voor alle drie methoden gelijk.
 
 ##### Artikel 140. Constructie
 
@@ -2251,11 +2229,11 @@ Een veiligheidssysteem moet zijn aangebracht teneinde te verzekeren dat een erns
 
 1. Binnen ruimten voor accommodatie en dienstruimten dienen alle schotten welke van klasse «B» moeten zijn, te zijn opgetrokken van dek tot dek en zich uit te strekken tot de huid of tot andere begrenzingswanden, tenzij aan beide zijden van de schotten doorlopende plafonds of beschietingen van klasse «B» zijn aangebracht, in welk geval het schot mag eindigen bij het doorlopende plafond of de doorlopende beschieting.
 
-2. **Methode I F**- Alle schotten die niet ingevolge het bepaalde in deze paragraaf van klasse «A» of «B» moeten zijn, dienen ten minste schotten van klasse «C» te zijn.
+2. *Methode I F*- Alle schotten die niet ingevolge het bepaalde in deze paragraaf van klasse «A» of «B» moeten zijn, dienen ten minste schotten van klasse «C» te zijn.
 
-3. **Methode II F**- De constructie van schotten die niet ingevolge het bepaalde in deze paragraaf van klasse «A» of «B» moeten zijn, is niet aan beperking onderworpen, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 van artikel 144, onder 2.
+3. *Methode II F*- De constructie van schotten die niet ingevolge het bepaalde in deze paragraaf van klasse «A» of «B» moeten zijn, is niet aan beperking onderworpen, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 van artikel 144, onder 2.
 
-4. **Methode III F**- De constructie van schotten die niet ingevolge het bepaalde in deze paragraaf van klasse «A» of «B» moeten zijn, is niet aan beperkingen onderworpen, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 van artikel 144, onder 2. De oppervlakte van enige ruimte of ruimten voor accommodatie die door een doorlopend schot van klasse «A» of «B» dienen te worden begrensd, mag in geen geval meer dan 50 m2 bedragen. Het Hoofd van de Scheepvaartinspectie kan voor ruimten voor algemeen gebruik echter een grotere oppervlakte toestaan.
+4. *Methode III F*- De constructie van schotten die niet ingevolge het bepaalde in deze paragraaf van klasse «A» of «B» moeten zijn, is niet aan beperkingen onderworpen, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 van artikel 144, onder 2. De oppervlakte van enige ruimte of ruimten voor accommodatie die door een doorlopend schot van klasse «A» of «B» dienen te worden begrensd, mag in geen geval meer dan 50 m2 bedragen. Het Hoofd van de Scheepvaartinspectie kan voor ruimten voor algemeen gebruik echter een grotere oppervlakte toestaan.
 
 ##### Artikel 142. Bescherming van trappen en liftschachten in ruimten voor accommodatie, dienstruimten en controlestations
 
@@ -2283,74 +2261,74 @@ Een veiligheidssysteem moet zijn aangebracht teneinde te verzekeren dat een erns
 
 - 2°. ter bepaling van de passende normen voor de brandwerendheid die moeten worden aangelegd voor schotten en dekken tussen aan elkaar grenzende ruimten, zijn deze ruimten ingedeeld op grond van hun brandrisico als hieronder is aangegeven, waarbij het tussen haken geplaatste nummer dat achter elke categorie vermeld staat, naar de desbetreffende kolom of rij in de tabellen verwijst:
 
-- 2.1. **Controlestations (1)** Ruimten waarin de noodkrachtbronnen en de voorzieningen voor de noodverlichting zijn ondergebracht; stuurhuis en kaartenkamer; ruimten waarin de radio-installatie van het vaartuig is ondergebracht; ruimten ten behoeve van brandblussing, stations voor brandcontrole en brandmelding; controleruimte voor de voortstuwingsinstallatie indien gelegen buiten de ruimten voor machines; ruimten waarin de brandalarmeringsapparatuur bijeen is gebracht.
+   - 2.1. *Controlestations (1)* Ruimten waarin de noodkrachtbronnen en de voorzieningen voor de noodverlichting zijn ondergebracht; stuurhuis en kaartenkamer; ruimten waarin de radio-installatie van het vaartuig is ondergebracht; ruimten ten behoeve van brandblussing, stations voor brandcontrole en brandmelding; controleruimte voor de voortstuwingsinstallatie indien gelegen buiten de ruimten voor machines; ruimten waarin de brandalarmeringsapparatuur bijeen is gebracht.
 
-- 2.2. **Gangen (2)** Gangen en portalen.
+   - 2.2. *Gangen (2)* Gangen en portalen.
 
-- 2.3. **Ruimten voor accommodatie (3)** Ruimten zoals omschreven in artikel 2, eerste lid, onder 59, met uitzondering van gangen.
+   - 2.3. *Ruimten voor accommodatie (3)* Ruimten zoals omschreven in artikel 2, eerste lid, onder 59, met uitzondering van gangen.
 
-- 2.4. **Trappen (4)** Binnentrappen, liften en roltrappen, andere dan die welke geheel binnen de ruimten voor machines liggen, zomede de bijbehorende ingesloten ruimten. In dit verband dient een trap die slechts op één niveau is ingesloten, te worden beschouwd als een deel van de ruimte waarin hij niet door een brandwerende deur is gescheiden.
+   - 2.4. *Trappen (4)* Binnentrappen, liften en roltrappen, andere dan die welke geheel binnen de ruimten voor machines liggen, zomede de bijbehorende ingesloten ruimten. In dit verband dient een trap die slechts op één niveau is ingesloten, te worden beschouwd als een deel van de ruimte waarin hij niet door een brandwerende deur is gescheiden.
 
-- 2.5. **Dienstruimten die in geringe mate brandgevaarlijk zijn (5)** Bergkasten en bergplaatsen die een oppervlakte hebben van minder dan 2 m2, droogkamers en wasserijen.
+   - 2.5. *Dienstruimten die in geringe mate brandgevaarlijk zijn (5)* Bergkasten en bergplaatsen die een oppervlakte hebben van minder dan 2 m2, droogkamers en wasserijen.
 
-- 2.6. **Ruimten voor machines van categorie A (6)** Ruimten zoals omschreven in artikel 2, eerste lid, onder 63.
+   - 2.6. *Ruimten voor machines van categorie A (6)* Ruimten zoals omschreven in artikel 2, eerste lid, onder 63.
 
-- 2.7. **Andere ruimten voor machines (7)** Ruimten zoals omschreven in artikel 2, eerste lid, onder 64, alsmede ruimten waar vis tot vismeel wordt verwerkt, doch met uitzondering van ruimten voor machines van categorie A.
+   - 2.7. *Andere ruimten voor machines (7)* Ruimten zoals omschreven in artikel 2, eerste lid, onder 64, alsmede ruimten waar vis tot vismeel wordt verwerkt, doch met uitzondering van ruimten voor machines van categorie A.
 
-- 2.8. **Laadruimten (8)** Alle ruimten die gebruikt worden voor lading, met inbegrip van lading-olietanks alsmede schachten en luikhoofden van zodanige ruimten.
+   - 2.8. *Laadruimten (8)* Alle ruimten die gebruikt worden voor lading, met inbegrip van lading-olietanks alsmede schachten en luikhoofden van zodanige ruimten.
 
-- 2.9. **Dienstruimten die in hoge mate brandgevaarlijk zijn (9)** Kombuizen, pantries die voorzien zijn van kooktoestellen, verfhutten, lampenhutten, bergkasten en bergplaatsen die een oppervlakte hebben van 2 m2 of meer, alsmede werkplaatsen die geen deel uitmaken van de ruimten voor machines.
+   - 2.9. *Dienstruimten die in hoge mate brandgevaarlijk zijn (9)* Kombuizen, pantries die voorzien zijn van kooktoestellen, verfhutten, lampenhutten, bergkasten en bergplaatsen die een oppervlakte hebben van 2 m2 of meer, alsmede werkplaatsen die geen deel uitmaken van de ruimten voor machines.
 
-- 2.10. **Open dekken (10)** Open dekruimten en gesloten wandelgangen, ruimten waar vis in rauwe staat wordt verwerkt, ruimten waar vis wordt schoongespoeld en soortgelijke ruimten die niet brandgevaarlijk zijn; luchtruimten buiten de bovenbouwen en dekhuizen.
+   - 2.10. *Open dekken (10)* Open dekruimten en gesloten wandelgangen, ruimten waar vis in rauwe staat wordt verwerkt, ruimten waar vis wordt schoongespoeld en soortgelijke ruimten die niet brandgevaarlijk zijn; luchtruimten buiten de bovenbouwen en dekhuizen.
 
-**Tabel 1 Brandwerendheid van schotten die aan elkaar grenzende ruimten scheiden**
+*Tabel 1 Brandwerendheid van schotten die aan elkaar grenzende ruimten scheiden*
 
-| Ruimten |   | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
+| Ruimten |  | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Controlestations | (1) | A-0 (e) | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Gangen | (2) |   | C | B-0 | B-0 | B-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Ruimten voor accommodatie | (3) |   |   | C (a,b) | B-0 | B-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
-| Ruimten voor accommodatie |   |   |   |   | A-0 (c) |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Trappen | (4) |   |   |   | B-0 | B-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
-| Trappen |   |   |   |   | A-0 (c) | A-0 (c) |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Dienstruimten die in geringe mate brandgevaarlijk zijn | (5) |   |   |   |   | C | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Ruimten voor machines van categorie A | (6) |   |   |   |   |   | (∗) | A-0 | A-0 | A-60 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Andere ruimten voor machines | (7) |   |   |   |   |   |   | A-0 (d) | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Laadruimten | (8) |   |   |   |   |   |   |   | (∗) | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Dienstruimten die in hoge mate brandgevaarlijk zijn | (9) |   |   |   |   |   |   |   |   | A-0 (d) | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
-| Open dekken | (10) |   |   |   |   |   |   |   |   |   | - |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Gangen | (2) |  | C | B-0 | B-0 | B-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Ruimten voor accommodatie | (3) |  |  | C (a,b) | B-0 | B-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
+|  |  |  |  | A-0 (c) |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Trappen | (4) |  |  |  | B-0 | B-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
+|  |  |  |  | A-0 (c) | A-0 (c) |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Dienstruimten die in geringe mate brandgevaarlijk zijn | (5) |  |  |  |  | C | A-60 | A-0 | A-0 | A-0 | (∗) |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Ruimten voor machines van categorie A | (6) |  |  |  |  |  | (∗) | A-0 | A-0 | A-60 | (∗) |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Andere ruimten voor machines | (7) |  |  |  |  |  |  | A-0 (d) | A-0 | A-0 | (∗) |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Laadruimten | (8) |  |  |  |  |  |  |  | (∗) | A-0 | (∗) |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Dienstruimten die in hoge mate brandgevaarlijk zijn | (9) |  |  |  |  |  |  |  |  | A-0 (d) | (∗) |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Open dekken | (10) |  |  |  |  |  |  |  |  |  | - |
 
-**Tabel 2 Brandwerendheid van dekken die aan elkaar grenzende ruimten scheiden**
+*Tabel 2 Brandwerendheid van dekken die aan elkaar grenzende ruimten scheiden*
 
 | Ruimte onder | Ruimte boven | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Controle stations | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Gangen | (2) | A-0 | (∗) | (∗) | A-0 | (∗) | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Ruimten voor accommodatie | (3) | A-60 | A-0 | (∗) | A-0 | (∗) | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Trappen | (4) | A-0 | A-0 | A-0 | (∗) | A-0 | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Dienstruimten die in geringe mate brandgevaarlijk zijn | (5) | A-15 | A-0 | A-0 | A-0 | (∗) | A-60 | A-0 | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Ruimten voor machines van categorie A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | (∗) | A-60 | A-30 | A-60 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Andere ruimten voor machines | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | (∗) | A-0 | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Laadruimten | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | (∗) | A-0 | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Dienstruimten die in hoge mate brandgevaarlijk zijn | (9) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 (d) | (∗) |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Open dekken | (10) | (∗) | (∗) | (∗) | (∗) | (∗) | (∗) | (∗) | (∗) | (∗) | - |
 
 Noten: Onderstaande noten gelden, voorzover van toepassing, voor zowel tabel 1 als tabel 2.
@@ -2383,11 +2361,11 @@ Noten: Onderstaande noten gelden, voorzover van toepassing, voor zowel tabel 1 a
 
 ##### Artikel 145. Constructiedetails
 
-1. **Methode I F**- In ruimten voor accommodatie, in dienstruimten en in controlestations moeten alle beschietingen, afstoppingen, plafonds en het bijbehorende grondhout van onbrandbaar materiaal zijn.
+1. *Methode I F*- In ruimten voor accommodatie, in dienstruimten en in controlestations moeten alle beschietingen, afstoppingen, plafonds en het bijbehorende grondhout van onbrandbaar materiaal zijn.
 
-2. **Methoden II F en III F**- In de gangen en ingesloten ruimten voor trappen die toegang geven tot ruimten voor accommodatie, dienstruimten en controlestations, moeten plafonds, beschietingen, afstoppingen en het bijbehorende grondhout van onbrandbaar materiaal zijn.
+2. *Methoden II F en III F*- In de gangen en ingesloten ruimten voor trappen die toegang geven tot ruimten voor accommodatie, dienstruimten en controlestations, moeten plafonds, beschietingen, afstoppingen en het bijbehorende grondhout van onbrandbaar materiaal zijn.
 
-3. **Methode I F, II F en III F**:
+3. *Methode I F, II F en III F*:
 
 - 1°. Tenzij toegepast in laadruimten of koel- en vrieskamers in dienstruimten, moeten de isolatiematerialen onbrandbaar zijn. Dampwerende lagen, kleefstoffen gebruikt bij isolatie, alsmede de isolatie van pijpleidingen van koudwatersystemen behoeven niet van onbrandbaar materiaal te zijn, doch zij moeten tot het praktisch mogelijk minimum worden beperkt en het vlamverspreidend vermogen van de blootgestelde oppervlakken ervan moet ten genoegen van het Hoofd van de Scheepvaartinspectie zijn. In ruimten waarin olieprodukten aanwezig kunnen zijn, moet het oppervlak van de isolatie ondoordringbaar zijn voor olie en oliedampen.
 
@@ -2687,13 +2665,13 @@ Een voldoende aantal draagbare brandblustoestellen moet zijn geplaatst in contro
 
 - 1°. een van de volgende vast aangebrachte brandblusinstallaties:
 
-- 1.1. een sproei-installatie voor water onder druk;
+   - 1.1. een sproei-installatie voor water onder druk;
 
-- 1.2. een installatie met gas als blusstof;
+   - 1.2. een installatie met gas als blusstof;
 
-- 1.3. een installatie met gehalogeniseerde koolwaterstoffen met een lage giftigheidsgraad als blusstof; of
+   - 1.3. een installatie met gehalogeniseerde koolwaterstoffen met een lage giftigheidsgraad als blusstof; of
 
-- 1.4. een installatie voor schuim met een hoog verschuimingsgetal; Indien ruimten voor machines aan elkaar grenzen en niet volkomen van elkaar zijn gescheiden of wanneer brandstofolie van een ruimte naar een andere ruimte kan vloeien, moeten de betrokken ruimten als één ruimte worden beschouwd. Het Hoofd van de Scheepvaartinspectie kan nadere regels geven ten aanzien van bedoelde brandblusinstallaties;
+   - 1.4. een installatie voor schuim met een hoog verschuimingsgetal; Indien ruimten voor machines aan elkaar grenzen en niet volkomen van elkaar zijn gescheiden of wanneer brandstofolie van een ruimte naar een andere ruimte kan vloeien, moeten de betrokken ruimten als één ruimte worden beschouwd. Het Hoofd van de Scheepvaartinspectie kan nadere regels geven ten aanzien van bedoelde brandblusinstallaties;
 
 - 2°. ten minste een speciaal draagbaar schuimbrandblustoestel dat voldoet aan het bepaalde in artikel 157, achtste lid.
 
@@ -2766,11 +2744,11 @@ Voor een ruimte voor machines van categorie A die op een laag niveau toegankelij
 
 - 1°. beschermende kleding. Het materiaal waaruit deze kleding wordt vervaardigd, dient zodanig te zijn dat:
 
-- 1.1. de huid van de gebruiker wordt beschermd tegen de hitte die een brand uitstraalt en tegen het ontstaan van brandwonden door stoom;
+   - 1.1. de huid van de gebruiker wordt beschermd tegen de hitte die een brand uitstraalt en tegen het ontstaan van brandwonden door stoom;
 
-- 1.2. de lichaamsventilatie van de gebruiker niet wordt belemmerd; en
+   - 1.2. de lichaamsventilatie van de gebruiker niet wordt belemmerd; en
 
-- 1.3. de buitenste laag water afstoot;
+   - 1.3. de buitenste laag water afstoot;
 
 - 2°. laarzen en handschoenen, vervaardigd uit rubber of ander materiaal dat elektrische stroom niet geleidt. Laarzen dienen antislip te zijn uitgevoerd;
 
@@ -3390,9 +3368,9 @@ Hulpverleningsboten moeten zijn geplaatst:
 
 - 1°. reddingvlotten waarin wordt ingescheept vanaf een plaats aan dek op minder dan 4,5 m boven de laagst gelegen lastlijn van het vaartuig in zeewater en die:
 
-- 1.1. een massa hebben van niet meer dan 185 kg; of
+   - 1.1. een massa hebben van niet meer dan 185 kg; of
 
-- 1.2. geplaatst zijn voor het te water laten rechtstreeks vanaf de opstellingsplaats onder ongunstige omstandigheden van kop- of stuurlast tot 10 graden en met een slagzij van het vaartuig van 20 graden naar iedere zijde;
+   - 1.2. geplaatst zijn voor het te water laten rechtstreeks vanaf de opstellingsplaats onder ongunstige omstandigheden van kop- of stuurlast tot 10 graden en met een slagzij van het vaartuig van 20 graden naar iedere zijde;
 
 - 2°. groepsreddingmiddelen die een massa hebben van niet meer dan 185 kg en die aan boord aanwezig zijn in aanvulling op de groepsreddingmiddelen ten behoeve van 200 percent van het aantal opvarenden.
 
@@ -4082,9 +4060,9 @@ Figuur 1
 
 - 2°. het mechanisme moet de volgende twee ontkoppelingsmogelijkheden hebben:
 
-- 2.1. een normale ontkoppelingsmogelijkheid die de reddingboot kan ontkoppelen wanneer deze in het water ligt of wanneer de haken onbelast zijn; en
+   - 2.1. een normale ontkoppelingsmogelijkheid die de reddingboot kan ontkoppelen wanneer deze in het water ligt of wanneer de haken onbelast zijn; en
 
-- 2.2. een belaste ontkoppelingsmogelijkheid die de reddingboot kan ontkoppelen wanneer de haken belast zijn. Deze ontkoppeling moet zo zijn uitgevoerd dat de reddingboot wordt ontkoppeld onder alle beladingstoestanden, reikend van onbelast met de reddingboot in het water liggend tot een belasting van 1,1 keer de totale massa van de reddingboot met volle bezetting en volledige uitrusting. Deze ontkoppelingsmogelijkheid moet voldoende beschermd zijn tegen ongewild of voortijdig gebruik;
+   - 2.2. een belaste ontkoppelingsmogelijkheid die de reddingboot kan ontkoppelen wanneer de haken belast zijn. Deze ontkoppeling moet zo zijn uitgevoerd dat de reddingboot wordt ontkoppeld onder alle beladingstoestanden, reikend van onbelast met de reddingboot in het water liggend tot een belasting van 1,1 keer de totale massa van de reddingboot met volle bezetting en volledige uitrusting. Deze ontkoppelingsmogelijkheid moet voldoende beschermd zijn tegen ongewild of voortijdig gebruik;
 
 - 3°. de ontkoppelingsbediening moet duidelijk zijn aangegeven in een kleur die contrasteert met die van de omgeving; en
 
@@ -4460,11 +4438,11 @@ Instructies voor het onderhoud van reddingmiddelen aan boord moeten gemakkelijk 
 
 - 2°. de treden van de loodsladder dienen:
 
-- 2.1. te zijn vervaardigd van hardhout of ander materiaal met gelijkwaardige eigenschappen, uit één stuk te bestaan zonder kwasten en een doelmatig stroeve bovenzijde te hebben. De onderste vier treden mogen zijn vervaardigd van rubber van voldoende sterkte en stijfheid of van ander geschikt materiaal met gelijkwaardige eigenschappen;
+   - 2.1. te zijn vervaardigd van hardhout of ander materiaal met gelijkwaardige eigenschappen, uit één stuk te bestaan zonder kwasten en een doelmatig stroeve bovenzijde te hebben. De onderste vier treden mogen zijn vervaardigd van rubber van voldoende sterkte en stijfheid of van ander geschikt materiaal met gelijkwaardige eigenschappen;
 
-- 2.2. niet minder dan 480 mm lang, 115 mm breed en 25 mm dik te zijn, eventueel gebruikt anti-slipmateriaal niet meegerekend; en
+   - 2.2. niet minder dan 480 mm lang, 115 mm breed en 25 mm dik te zijn, eventueel gebruikt anti-slipmateriaal niet meegerekend; en
 
-- 2.3. op gelijke afstanden van niet minder dan 300 mm en niet meer dan 380 mm van elkaar te zijn geplaatst en op zodanige wijze te zijn bevestigd dat zij de horizontale stand behouden;
+   - 2.3. op gelijke afstanden van niet minder dan 300 mm en niet meer dan 380 mm van elkaar te zijn geplaatst en op zodanige wijze te zijn bevestigd dat zij de horizontale stand behouden;
 
 - 3°. in een loodsladder mogen niet meer dan twee vervangende treden voorkomen die op hun plaats worden gehouden op een wijze die afwijkt van die waarop de oorspronkelijke treden zijn bevestigd. Elke trede die zo is vastgezet, dient zo spoedig mogelijk te worden vervangen door een trede die is bevestigd op de wijze zoals bij de oorspronkelijke samenstelling van de ladder is gebezigd. Indien vervangende treden aan de zijleiders zijn bevestigd door middel van uitsparingen in de zijkant van de treden, dienen deze uitsparingen zich te bevinden in de lange zijden van de treden;
 
@@ -4532,7 +4510,7 @@ Ten behoeve van het gebruik van de medische uitrusting is aan boord een bijgehou
 
 ##### Artikel 238. Medische opleiding en bijscholing
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Optreden in noodsituaties
 
@@ -4706,9 +4684,9 @@ Ten aanzien van alarm-, nood- en spoedseinen moeten de volgende bepalingen in ac
 
 - 2°. het alarmsein mag slechts worden gebruikt om aan te kondigen:
 
-- 2.1. dat een noodoproep of -bericht zal volgen;
+   - 2.1. dat een noodoproep of -bericht zal volgen;
 
-- 2.2. dat een bericht betreffende man-over-boord zal volgen, doch uitsluitend als hulp van andere schepen of vaartuigen wordt verlangd en deze niet op afdoende wijze kan worden verkregen door het uitzenden van het spoedsein alleen;
+   - 2.2. dat een bericht betreffende man-over-boord zal volgen, doch uitsluitend als hulp van andere schepen of vaartuigen wordt verlangd en deze niet op afdoende wijze kan worden verkregen door het uitzenden van het spoedsein alleen;
 
 - 3°. het noodsein mag slechts worden gebruikt, indien het vaartuig in ernstig en dreigend gevaar verkeert en onmiddellijk hulp nodig heeft;
 
@@ -4742,7 +4720,7 @@ Ten aanzien van alarm-, nood- en spoedseinen moeten de volgende bepalingen in ac
 
 1. Voor de toepassing van het bepaalde in dit artikel wordt onder routeringssysteem verstaan: elk systeem bestaande uit een of meer routes of routeringsmaatregelen, gericht op het verminderen van gevaar voor scheepsongevallen. Het systeem omvat verkeersscheidingsstelsels, vaarwegen voor tweerichtingsverkeer, aanbevolen koerslijnen, gebieden die dienen te worden gemeden, zones voor kustverkeer, rotondes, voorzorgsgebieden en diepwaterroutes.
 
-2. Van de verkeersscheidingsstelsels als bedoeld in Voorschrift 10 van het besluit «Bepalingen ter voorkoming van aanvaringen op zee, 1972» (**Stb.** 773) moet een passend gebruik worden gemaakt waarbij in het bijzonder de gedragsregels ten aanzien van het gebruik van deze verkeersscheidingsstelsels, vervat in genoemd Voorschrift, moeten worden nagekomen.
+2. Van de verkeersscheidingsstelsels als bedoeld in Voorschrift 10 van het besluit «Bepalingen ter voorkoming van aanvaringen op zee, 1972» (*Stb.* 773) moet een passend gebruik worden gemaakt waarbij in het bijzonder de gedragsregels ten aanzien van het gebruik van deze verkeersscheidingsstelsels, vervat in genoemd Voorschrift, moeten worden nagekomen.
 
 3. Van de overige routeringssystemen die door de Internationale Maritieme Organisatie worden vastgesteld, moet een passend gebruik worden gemaakt.
 
@@ -4758,15 +4736,15 @@ Ten aanzien van alarm-, nood- en spoedseinen moeten de volgende bepalingen in ac
 
 Voor de toepassing van dit hoofdstuk wordt, tenzij uitdrukkelijk anders bepaald, verstaan onder:
 
-- 1°. **bestaande installatie:**
+- 1°. *bestaande installatie:*
 
-- 1.1. een installatie die in zijn geheel vóór 1 september 1984 aan boord van een vaartuig is opgesteld, dan wel
+   - 1.1. een installatie die in zijn geheel vóór 1 september 1984 aan boord van een vaartuig is opgesteld, dan wel
 
-- 1.2. een installatie waarvan een gedeelte vóór 1 september 1984 aan boord van een vaartuig is opgesteld en waarvan het resterende gedeelte bestaande uit onderdelen, aangebracht ter vervanging van gelijksoortige onderdelen, of uit onderdelen die voldoen aan het bepaalde in dit hoofdstuk;
+   - 1.2. een installatie waarvan een gedeelte vóór 1 september 1984 aan boord van een vaartuig is opgesteld en waarvan het resterende gedeelte bestaande uit onderdelen, aangebracht ter vervanging van gelijksoortige onderdelen, of uit onderdelen die voldoen aan het bepaalde in dit hoofdstuk;
 
-- 2°. **nieuwe installatie**: elke installatie die geen bestaande installatie is;
+- 2°. *nieuwe installatie*: elke installatie die geen bestaande installatie is;
 
-- 3°. **noodradiobaken**: een station in de Maritieme Mobiele Radiodienst, waarvan de uitzendingen bedoeld zijn om opsporingsen reddingsacties te vergemakkelijken.
+- 3°. *noodradiobaken*: een station in de Maritieme Mobiele Radiodienst, waarvan de uitzendingen bedoeld zijn om opsporingsen reddingsacties te vergemakkelijken.
 
 ##### Artikel 250. Radiotelegraafstation
 
@@ -4796,9 +4774,9 @@ Elk vaartuig moet zijn uitgerust met een VHF radiotelefonie-installatie die vold
 
 - 2°. indien het is uitgerust met een radiotelegrafie-auto-alarmtoestel:
 
-- 2.1. ten minste 8 uren in totaal per dag, indien de lengte van het vaartuig 75 m of meer bedraagt;
+   - 2.1. ten minste 8 uren in totaal per dag, indien de lengte van het vaartuig 75 m of meer bedraagt;
 
-- 2.2. gedurende een door het Hoofd van de Scheepvaartinspectie bepaalde tijdsduur, indien de lengte van het vaartuig minder dan 75 m bedraagt.
+   - 2.2. gedurende een door het Hoofd van de Scheepvaartinspectie bepaalde tijdsduur, indien de lengte van het vaartuig minder dan 75 m bedraagt.
 
 2. Gedurende de tijd dat een radio-officier ingevolge het bepaalde in het eerste lid moet uitluisteren op de radiotelegrafienoodfrequentie, mag de radio-officier de luisterdienst onderbreken gedurende de tijd waarin hij verkeer op andere frequenties behandelt of andere belangrijke radiowerkzaamheden verricht, doch alleen wanneer het praktisch onmogelijk is met een gesplitste hoofdtelefoon of met een luidspreker op de radiotelegrafienoodfrequentie te blijven luisteren. Tijdens de in het Radioreglement voorgeschreven stilteperiode mag de in het eerste lid voorgeschreven luisterdienst echter niet worden onderbroken, maar moet deze altijd worden onderhouden door een radio-officier die daarbij gebruik maakt van een hoofdtelefoon of luidspreker. Onder de in dit lid bedoelde belangrijke radiowerkzaamheden zijn begrepen het dringend herstel van radiocommunicatie-apparatuur voor veiligheidsdoeleinden, en van radionavigatie-apparatuur in opdracht van de kapitein.
 
@@ -4872,41 +4850,49 @@ Aan boord van een vaartuig dat ingevolge het bepaalde in artikel 252 is uitgerus
 
 7. De hoofd- en de reservezenders moeten, verbonden met de hoofdantenne, een minimum normale reikwijdte hebben als hierna aangegeven; daarbij moeten zij in staat zijn duidelijk waarneembare tekens van schip tot schip, bij dag en onder normale condities en omstandigheden over de aangegeven afstanden over te brengen. Duidelijk waarneembare tekens zullen in normale omstandigheden worden ontvangen, wanneer de effectieve waarde van de veldsterkte bij de ontvanger ten minste 50 microvolt per meter is.
 
-|   | Minimum normale reikwijdtein zeemijlen | Minimum normale reikwijdtein zeemijlen |
+|  | Minimum normale reikwijdtein zeemijlen |  |
 | --- | --- | --- |
-|   | hoofdzender | reservezender |
+|  | hoofdzender | reservezender |
 | vaartuigen waarvan de lengte 75 m of meer bedraagt | 150 | 100 |
 | vaartuigen waarvan de lengte minder dan 75 m bedraagt | 100 | 75 |
 
 Wanneer geen directe meting van de veldsterkte kan worden uitgevoerd, mogen de volgende gegevens als leidraad voor een benadere bepaling van de normale reikwijdte worden gebruikt:
 
-- 1.1°. in geval van antennes die niet van het zelfdragende type zijn:
+- 1.1°. in geval van antennes die niet van het zelfdragende type zijn: Normale reikwijdte in zeemijlen
+ Meter-ampères (1)
+ 200
+ 128
+ 175
+ 102
+ 150
+ 76
+ 125
+ 58
+ 100
+ 45
+ 75
+ 34
 
-| Normale reikwijdte in zeemijlen | Meter-ampères (1) |
-| --- | --- |
-| 200 | 128 |
-| 175 | 102 |
-| 150 | 76 |
-| 125 | 58 |
-| 100 | 45 |
-| 75 | 34 |
-
-- 1.2°. in geval van zelfdragende zendantennes:
-
-| Normale reikwijdte in zeemijlen | Meter-ampères (2) |
-| --- | --- |
-| 200 | 305 |
-| 175 | 215 |
-| 150 | 150 |
-| 125 | 110 |
-| 100 | 85 |
-| 75 | 55 |
+- 1.2°. in geval van zelfdragende zendantennes: Normale reikwijdte in zeemijlen
+ Meter-ampères (2)
+ 200
+ 305
+ 175
+ 215
+ 150
+ 150
+ 125
+ 110
+ 100
+ 85
+ 75
+ 55
 
 Noten:
 
 (1) Het product van de afstand (in meters) van het hoogste gedeelte van de antenne tot de hoogst gelegen lastlijn en de antennestroom (in ampères). De in de tweede kolom van de tabel gegeven waarden komen overeen met een gemiddelde waarde van de verhouding:
 
-**effectieve antennehoogte** = 0,47 maximum antennehoogte
+*effectieve antennehoogte* = 0,47 maximum antennehoogte
 
 Deze verhouding is afhankelijk van de plaats van de antenne en kan variëren tussen ongeveer 0,3 en 0,7.
 
@@ -5446,119 +5432,119 @@ De eigenaar van een vaartuig moet de Scheepvaartinspectie ervan in kennis stelle
 
 ##### Artikel 287. Algemeen voorschrift
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 287a. Arts aan boord
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 288. Wachtbezetting aan dek
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 289. Minimum aantal scheepsgezellen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 290. Duur rusttijd
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 291. Geneeskundige verklaringen betreffende het gezichtsorgaan en het gehoor- en spraakorgaan
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 292. Keuring
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 293. Hernieuwde keuring
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 294. Keuringseisen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 295. Deskundigen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 296. Aantekening van de uitkomst van de keuring
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 297. Kosten van de keuring
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 298. Afgifte van geneeskundige verklaringen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 299. Geldigheidsduur van geneeskundige verklaringen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 300. Handelingen bij niet-goedkeuring
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 301. Scheidsrechters
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 302. Kosten van keuringen door scheidsrechters
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 303. Herkeuringen door scheidsrechters
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 304. Procedure bij ambtshalve keuringen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 305. Beschikbaarbestelling formulieren
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 306. Wijze afgeven diploma’s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 307. Examencommissies
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 308. Vereiste kennis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 309. Aanmelden voor examen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 310. Uitreiken van diploma’s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 311. Herhaalde aanmelding
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 312. Vervanging verloren geraakte diploma’s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 313. Gelijkstelling buitenlandse diploma’s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 314. Tarieven
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 13. Vervoer van personen en lading
 
@@ -5728,13 +5714,13 @@ De kapitein van een vaartuig is verplicht zorg te dragen dat:
 
 - 3°. in andere dan onder 1 en 2 genoemde ruimten slechts werkzaamheden aan ongeïsoleerde of daarmee gelijk te stellen delen van de elektrische installatie worden uitgevoerd, zonder dat deze spanningloos zijn gemaakt, indien hiervoor dringende redenen aanwezig zijn voor de veiligheid en bedrijfszekerheid van het vaartuig, mits:
 
-- 3.1. alle zich in de nabijheid bevindende metalen delen doelmatig tegen aanraking zijn afgeschermd;
+   - 3.1. alle zich in de nabijheid bevindende metalen delen doelmatig tegen aanraking zijn afgeschermd;
 
-- 3.2. de metalen delen van het bij de werkzaamheden benodigde gereedschap voorzover mogelijk doelmatig zijn geïsoleerd;
+   - 3.2. de metalen delen van het bij de werkzaamheden benodigde gereedschap voorzover mogelijk doelmatig zijn geïsoleerd;
 
-- 3.3. zij die de werkzaamheden uitvoeren, zich op een doelmatig isolerende laag bevinden; en
+   - 3.3. zij die de werkzaamheden uitvoeren, zich op een doelmatig isolerende laag bevinden; en
 
-- 3.4. voorzover dit in verband met de plaats en de omstandigheden nodig is, duidelijk leesbare waarschuwingen zijn aangebracht om te voorkomen dat aan een niet met de werkzaamheden belaste persoon een ongeval overkomt;
+   - 3.4. voorzover dit in verband met de plaats en de omstandigheden nodig is, duidelijk leesbare waarschuwingen zijn aangebracht om te voorkomen dat aan een niet met de werkzaamheden belaste persoon een ongeval overkomt;
 
 - 4°. werkzaamheden in de nabijheid van ongeïsoleerde of daarmee gelijk te stellen delen van de elektrische installatie slechts geschieden, indien deze spanningloos zijn gemaakt, tenzij dit om bedrijfstechnische redenen niet mogelijk is, in welk geval alle maatregelen moeten zijn genomen die een veilig verloop van de arbeid waarborgen;
 
@@ -5754,31 +5740,31 @@ De kapitein van een vaartuig is verplicht zorg te dragen dat:
 
 - 2°. bij de beproevingsprocedure, bedoeld onder 1, voor zover van toepassing, de werking van de volgende onderdelen is inbegrepen:
 
-- 2.1. de hoofdstuurinrichting;
+   - 2.1. de hoofdstuurinrichting;
 
-- 2.2. de hulpstuurinrichting;
+   - 2.2. de hulpstuurinrichting;
 
-- 2.3. de afstandbedieningssystemen;
+   - 2.3. de afstandbedieningssystemen;
 
-- 2.4. de besturingsmogelijkheden op de brug;
+   - 2.4. de besturingsmogelijkheden op de brug;
 
-- 2.5. de noodkrachtvoorziening;
+   - 2.5. de noodkrachtvoorziening;
 
-- 2.6. de roerstandaanwijzers, vergeleken met de werkelijke stand van het roer;
+   - 2.6. de roerstandaanwijzers, vergeleken met de werkelijke stand van het roer;
 
-- 2.7. de alarmeringen voor het uitvallen van de bekrachtiging van de afstandbedieningssystemen;
+   - 2.7. de alarmeringen voor het uitvallen van de bekrachtiging van de afstandbedieningssystemen;
 
-- 2.8. de alarmeringen voor het uitvallen van de krachtwerktuigen van de stuurinrichting; en
+   - 2.8. de alarmeringen voor het uitvallen van de krachtwerktuigen van de stuurinrichting; en
 
-- 2.9. de automatische voorzieningen waarmee een defect gedeelte van de stuurinrichting buiten bedrijf wordt gesteld en andere automatische uitrusting;
+   - 2.9. de automatische voorzieningen waarmee een defect gedeelte van de stuurinrichting buiten bedrijf wordt gesteld en andere automatische uitrusting;
 
 - 3°. bij de onder 1 bedoelde controles en beproevingen tevens zijn inbegrepen:
 
-- 3.1. het bewegen van het roer over de volle uitslag zoals vereist voor de betreffende stuurinrichting;
+   - 3.1. het bewegen van het roer over de volle uitslag zoals vereist voor de betreffende stuurinrichting;
 
-- 3.2. een visuele inspectie van de stuurinrichting met de daaraan verbonden systemen; en
+   - 3.2. een visuele inspectie van de stuurinrichting met de daaraan verbonden systemen; en
 
-- 3.3. de werking van de communicatiemiddelen tussen de brug en de stuurmachinekamer;
+   - 3.3. de werking van de communicatiemiddelen tussen de brug en de stuurmachinekamer;
 
 - 4°. eenvoudige gebruiksaanwijzingen met een blokdiagram, waarop de overschakelingsprocedures zijn aangegeven voor de afstandbedieningssystemen en de krachtwerktuigen voor de stuurmachine, op de brug en in de stuurmachinekamer permanent zijn opgehangen;
 
@@ -5942,7 +5928,7 @@ De kapitein van een vaartuig is verplicht zorg te dragen dat aan boord aanwezig 
 
 - 1°. de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876);
 
-- 2°. het Vissersvaartuigenbesluit;
+- 2°. het [Vissersvaartuigenbesluit](https://wetten.overheid.nl/BWBR0004607);
 
 - 3°. de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels, neergelegd in Bekendmakingen aan de Zeevisvaart;
 
@@ -6006,35 +5992,35 @@ Overtreding van de artikelen 322, 325, 326, 327, 336, derde lid, 338, 343, vierd
 
 ##### Artikel 354. Niet nakoming van het bepaalde in de artikelen 325, 326 of 327
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 355. Niet nakoming van het bepaalde in artikel 336, derde lid
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 356. Niet nakoming van het bepaalde in artikel 338
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 357. Handeling in strijd met het bepaalde in artikel 343, vierde tot en met zesde lid
 
-Vervallen
+*Vervallen*
 
 #### § 2
 
 ##### Artikel 358. Niet nakoming van het bepaalde in de artikelen 347, 348, 348a en 349
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 359
 
-Vervallen
+*Vervallen*
 
 #### § 3
 
 ##### Artikel 360. Nadere bepalingen met betrekking tot geldboeten
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 17. Overgangsbepalingen
 
@@ -6080,120 +6066,4 @@ Ministeriële regelingen vastgesteld krachtens dit besluit worden bekendgemaakt 
 
 ##### Artikel 363. Citeertitel
 
-Dit besluit wordt aangehaald als: Vissersvaartuigenbesluit.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
-
-##### Artikel 2a. Omhangbepaling
-
-Dit besluit berust mede op de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3a) en [4, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4).
-
-#### § 2. Onderzoek
-
-#### § 3. Certificaten
-
-### Hoofdstuk 2. Constructie, waterdichte indeling en uitrusting
-
-#### § 1. Constructie en waterdichte indeling
-
-#### § 2. Uitrusting en keuring van materialen
-
-### Hoofdstuk 3. Stabiliteit en de daarmede verband houdende zeewaardigheid
-
-#### § 1. Stabiliteit en de daarmede verband houdende zeewaardigheid
-
-### Hoofdstuk 4. Machine-installaties, elektrische installaties en tijdelijk onbemande machinekamers
-
-#### § 1. Algemeen
-
-#### § 2. Machine-installaties
-
-#### § 3. Elektrische installaties
-
-#### § 4. Tijdelijk onbemande machinekamers
-
-### Hoofdstuk 5. Bescherming tegen, opsporing en bestrijding van brand
-
-#### § 1. Brandbescherming voor vaartuigen waarvan de lengte 55 m of meer bedraagt
-
-#### § 2. Brandbescherming voor vaartuigen, waarvan de lengte minder dan 55 m bedraagt
-
-### Hoofdstuk 6. Voorzieningen voor de bemanning
-
-#### § 1. Bescherming van de bemanning
-
-#### § 2. Verblijven van de bemanning
-
-### Hoofdstuk 7. Reddingmiddelen en -voorzieningen en veiligheidsmiddelen
-
-#### § 1. Algemeen
-
-#### § 2. Bepalingen ten aanzien van het vaartuig
-
-#### § 3. Bepalingen ten aanzien van reddingmiddelen en -voorzieningen
-
-#### § 4. Veiligheidsmiddelen
-
-### Hoofdstuk 8. Optreden in noodsituaties
-
-#### § 1. Intern optreden in noodsituaties
-
-#### § 2. Procedures met betrekking tot nood-, spoed- en veiligheidsberichten
-
-#### § 3. Routering van vaartuigen
-
-### Hoofdstuk 9. Radio
-
-#### § 1. Algemeen, stations
-
-#### § 2. Luisterdienst
-
-#### § 3. Installaties
-
-#### § 4. Radiodagboeken
-
-### Hoofdstuk 10. Hulpmiddelen bij de navigatie
-
-#### § 1. Hulpmiddelen bij de navigatie
-
-### Hoofdstuk 11. Niet voorgeschreven uitrusting
-
-#### § 1. Niet voorgeschreven uitrusting
-
-### Hoofdstuk 12. Vervallen
-
-### Hoofdstuk 13. Vervoer van personen en lading
-
-#### § 1. Vervoer van personen
-
-#### § 2. Vervoer van lading
-
-### Hoofdstuk 14. Verplichtingen van de kapitein en van de eigenaar
-
-#### § 1. Verplichtingen van de kapitein
-
-#### § 2. Verplichtingen van de eigenaar
-
-### Hoofdstuk 15. Bijzondere voorschriften in tijden van oorlog, oorlogsgevaar en daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-#### § 1. Bijzondere voorschriften in tijden van oorlog, oorlogsgevaar en daaraan verwante of daarmede verband houdende buitengewone omstandigheden
-
-#### § 2. Verplichtingen van de kapitein
-
-### Hoofdstuk 16. Strafbepaling
-
-#### § 1. Strafbepalingen ten aanzien van de kapitein
-
-#### § 2
-
-#### § 3
-
-### Hoofdstuk 17. Overgangsbepalingen
-
-#### § 1. Overgangsbepalingen
-
-### Hoofdstuk 18. Slotbepalingen
-
-#### § 1. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
+Dit besluit wordt aangehaald als: [Vissersvaartuigenbesluit](https://wetten.overheid.nl/BWBR0004607).

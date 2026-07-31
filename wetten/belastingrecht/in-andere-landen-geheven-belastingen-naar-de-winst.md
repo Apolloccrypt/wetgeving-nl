@@ -1,37 +1,16 @@
 ---
 title: "In andere landen geheven belastingen naar de winst"
 identifier: "BWBR0005364"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1991-12-23"
-last_updated: "1991-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005364"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "8411273"
-version_id: "13285722"
-internal_id: "C18438111"
-label_id: "8391924"
-dtd_version: "2.0"
-original_entry_into_force: "1991-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005364/1991-12-23/0"
-intitule_bron: "Infob.1991-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-23"
-intitule_published: "1991-01-01"
-intitule_in_force: "1991-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1991-12"
-original_signed_date: "1991-12-23"
-original_published_date: "1991-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-12-23"
-jci_1_3: "jci1.3:c:BWBR0005364&z=1991-12-23&g=1991-12-23"
-jci_1_0: "1.0:c:BWBR0005364&g=1991-12-23"
-citeertitel_status: "redactioneel"
-signed_date: "1991-12-23"
-entry_into_force: "1991-12-23"
+publicatiedatum: 1991-12-23
+laatste_update: 1991-12-23
+status: geldig
+toestand: 1991-12-23
+bron: "https://wetten.overheid.nl/BWBR0005364"
+opgehaald: 2026-07-31
 ---
+
 # In andere landen geheven belastingen naar de winst
 
 Onder intrekking van de niet-gepubliceerde aanschrijving van 25 maart 1980, nr. 080-474 deel ik u het volgende mede.

@@ -1,71 +1,46 @@
 ---
 title: "Wet van 15 april 1992, houdende een nieuwe regeling voor terugvordering en verhaal van kosten van bijstand"
+citeertitel: "Wet houdende nieuwe regeling terugvordering en verhaal van kosten van bijstand"
 identifier: "BWBR0005483"
-country: "nl"
-rank: "wet"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005483"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "370823"
-version_id: "545532"
-internal_id: "C545541"
-label_id: "362254"
-dtd_version: "2.0"
-original_entry_into_force: "1992-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005483/1996-01-01/0"
-intitule_bron: "Stb.1992-193"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-04-15"
-intitule_status: "goed"
-original_publication: "Stb.1992-193"
-original_signed_date: "1992-04-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "20598"
-entry_into_force_date: "1992-08-01"
-jci_1_3: "jci1.3:c:BWBR0005483&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0005483&g=1996-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet houdende nieuwe regeling terugvordering en verhaal van kosten van bijstand"
-signed_date: "1992-04-15"
-entry_into_force: "1992-08-01"
+publicatiedatum: 1992-08-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0005483"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 15 april 1992, houdende een nieuwe regeling voor terugvordering en verhaal van kosten van bijstand
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is verhaal verplicht te stellen, te onderscheiden tussen terugvordering van bijstandskosten van degenen die bijstand hebben ontvangen en verhaal van bijstandskosten op derden en ter zake een nieuwe regeling te geven, alsmede daarmee verband houdende wijzigingen in andere wetten aan te brengen.
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
@@ -77,11 +52,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IX
 
-De twaalfde titel van het [eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) treedt gelijktijdig met deze wet in werking ten aanzien van gedingen bedoeld in § 2 van Hoofdstuk IV A.
+De twaalfde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering treedt gelijktijdig met deze wet in werking ten aanzien van gedingen bedoeld in § 2 van Hoofdstuk IV A.
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel Xa
 
@@ -90,5 +65,3 @@ Indien de echtscheiding, scheiding van tafel en bed of de ontbinding van het huw
 ##### Artikel XI
 
 Onverminderd het bepaalde in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005483&artikel=X&z=1996-01-01&g=1996-01-01), laatste zin, en tweede lid, laatste zin, treden de artikelen van deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

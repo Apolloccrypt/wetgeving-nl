@@ -1,42 +1,17 @@
 ---
 title: "Regeling verkeersbrigadiers"
 identifier: "BWBR0005219"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005219"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4942523"
-version_id: "7999782"
-internal_id: "C9923841"
-label_id: "4920404"
-dtd_version: "2.0"
-original_entry_into_force: "1991-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005219/2013-01-01/0"
-intitule_bron: "Stcrt.1991-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-01"
-intitule_published: "1991-10-17"
-intitule_in_force: "1991-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-202"
-original_signed_date: "1991-10-01"
-original_published_date: "1991-10-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-11-01"
-jci_1_3: "jci1.3:c:BWBR0005219&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0005219&g=2013-01-01"
-citeertitel_status: "officieel"
-signed_date: "1991-10-01"
-entry_into_force: "1991-11-01"
+publicatiedatum: 1991-11-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0005219"
+opgehaald: 2026-07-31
 ---
+
 # Regeling verkeersbrigadiers
-
-Gelet op [artikel 58 van het Besluit administratieve bepalingen inzake het wegverkeer (BABW)](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=58) (Stb. 1990, 460);
-
-Besluit:
 
 #### Paragraaf 1. Opleiding
 
@@ -72,7 +47,7 @@ De aanstelling geschiedt schriftelijk.
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -120,7 +95,7 @@ Verkeersbrigadiers oefenen hun taak uit gedurende de perioden waarin ter plaatse
 
 2. Het stopteken komt voor in twee uitvoeringen:
 
-- a. als stopteken dat met de hand wordt opgehouden en voldoet aan het in de bijlage vastgestelde model;
+- a. als stopteken dat met de hand wordt opgehouden en voldoet aan het in de [bijlage](https://wetten.overheid.nl/BWBR0005219) vastgestelde model;
 
 - b. als stopteken dat onderdeel uitmaakt van een draai-arm-systeem en dat ten minste voldoet aan type II en klasse I als bedoeld in [Hoofdstuk II, paragraaf 3, van de Uitvoeringsvoorschriften BABW inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II).
 
@@ -143,23 +118,3 @@ Deze regeling treedt in werking met ingang van 1 november 1991.
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling verkeersbrigadiers.
-
-## Bijlage
-
-Model F10
-
-Afmetingen:
-
-a = 22,5 cm
-
-b = 20,8 cm
-
-c = 13,6 cm
-
-d = 9,6 cm
-
-e = 2,4 cm
-
-De rode cirkelrand is zowel retroreflecterend als fluorescerend.
-
-Het witte veld is retroreflecterend.

@@ -1,105 +1,78 @@
 ---
 title: "Wet van 19 december 1991, houdende inwerkingtreding van en aanpassing van wetgeving aan de Wet op de accijns"
+citeertitel: "Invoeringswet Wet op de accijns"
 identifier: "BWBR0005346"
-country: "nl"
-rank: "wet"
-publication_date: "1992-01-01"
-last_updated: "1992-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005346"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1520383"
-version_id: "2263062"
-internal_id: "C2263061"
-label_id: "1476994"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005346/1992-01-01/0"
-intitule_bron: "Stb.1991-740"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-19"
-intitule_published: "1991-12-31"
-intitule_in_force: "1991-12-31"
-intitule_status: "goed"
-original_publication: "Stb.1991-740"
-original_signed_date: "1991-12-19"
-original_published_date: "1991-12-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005346&z=1992-01-01&g=1992-01-01"
-jci_1_0: "1.0:c:BWBR0005346&g=1992-01-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Wet op de accijns"
-signed_date: "1991-12-19"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1992-01-01
+status: geldig
+toestand: 1992-01-01
+bron: "https://wetten.overheid.nl/BWBR0005346"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 19 december 1991, houdende inwerkingtreding van en aanpassing van wetgeving aan de Wet op de accijns
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) te regelen, de wetten inzake de heffing van de accijnzen in te trekken en voorts de wetten waarin naar laatstbedoelde wetten wordt verwezen alsmede de Algemene wet inzake de douane en de accijnzen en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) aan te passen aan de bepalingen van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel X
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XII
 
 De navolgende wetten worden ingetrokken:
 
-- 1°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van alcoholhoudende stoffen (**Stb.** 1963, 240);
+- 1°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van alcoholhoudende stoffen (*Stb.* 1963, 240);
 
-- 2°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van bier (**Stb.** 1963, 241);
+- 2°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van bier (*Stb.* 1963, 241);
 
-- 3°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van suiker (**Stb.** 1964, 206);
+- 3°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van suiker (*Stb.* 1964, 206);
 
-- 4°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van minerale oliën (**Stb.** 1964, 207);
+- 4°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van minerale oliën (*Stb.* 1964, 207);
 
-- 5°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van tabaksfabrikaten (**Stb.** 1964, 208);
+- 5°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van tabaksfabrikaten (*Stb.* 1964, 208);
 
-- 6°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van alcoholvrije dranken (**Stb.** 1971, 731).
+- 6°. De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van alcoholvrije dranken (*Stb.* 1971, 731).
 
 ##### Artikel XIII
 
@@ -205,7 +178,7 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 
 ##### Artikel XXIII
 
-1. De hoeveelheid wijn die bij de aanvang van 1 januari 1992 aanwezig is in een kredietbergplaats voor wijn als bedoeld in artikel 59 van het Besluit accijns van alcoholhoudende stoffen (**Stb.** 1963, 252) wordt aangemerkt als te zijn uitgeslagen uit de kredietbergplaats en te zijn ingeslagen in de accijnsgoederenplaats van de handelaar.
+1. De hoeveelheid wijn die bij de aanvang van 1 januari 1992 aanwezig is in een kredietbergplaats voor wijn als bedoeld in artikel 59 van het Besluit accijns van alcoholhoudende stoffen (*Stb.* 1963, 252) wordt aangemerkt als te zijn uitgeslagen uit de kredietbergplaats en te zijn ingeslagen in de accijnsgoederenplaats van de handelaar.
 
 2. De rekening van de handelaar als bedoeld in artikel 69 van dat besluit wordt voor de in het eerste lid bedoelde hoeveelheid gezuiverd.
 
@@ -217,11 +190,11 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 
 ##### Artikel XXV
 
-1. Branders, distillateurs van de eerste klasse en houders van kredietbergplaatsen als bedoeld in [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I), [afdeling 2, van de Wet op de accijns](onbekend) van alcoholhoudende stoffen doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun kredietpanden aanwezige hoeveelheid alcoholhoudende stoffen.
+1. Branders, distillateurs van de eerste klasse en houders van kredietbergplaatsen als bedoeld in [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I), afdeling 2, van de Wet op de accijns van alcoholhoudende stoffen doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun kredietpanden aanwezige hoeveelheid alcoholhoudende stoffen.
 
 2. De aangifte wordt gedaan in liters absolute alcohol bij een temperatuur van 20°C.
 
-3. De inspecteur sluit de rekening die hij houdt met de brander, distillateur van de eerste klasse of houder van de kredietbergplaats af overeenkomstig de bepalingen van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I), [afdeling 5, van de Wet op de accijns](onbekend) van alcoholhoudende stoffen. De in het eerste lid bedoelde aangifte wordt aangemerkt als een peilbewijs in de zin van de vorenbedoelde afdeling 5.
+3. De inspecteur sluit de rekening die hij houdt met de brander, distillateur van de eerste klasse of houder van de kredietbergplaats af overeenkomstig de bepalingen van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I), afdeling 5, van de Wet op de accijns van alcoholhoudende stoffen. De in het eerste lid bedoelde aangifte wordt aangemerkt als een peilbewijs in de zin van de vorenbedoelde afdeling 5.
 
 4. Van een bevonden ondermaat wordt de accijns voldaan overeenkomstig [artikel 44 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=44) van alcoholhoudende stoffen.
 
@@ -229,13 +202,13 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 
 ##### Artikel XXVI
 
-1. Op grond van hoofdstuk I, afdeling 2, onder[afdeling 2](onbekend), en [hoofdstuk IV van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=IV) van alcoholhoudende stoffen verleende bewijzen van goedkeuring tot het voorhanden hebben van een distilleertoestel in een distilleerderij van de tweede klasse onderscheidenlijk verleende vergunningen tot het voorhanden hebben en vervaardigen van een distilleertoestel, worden tot wederopzegging aangemerkt als op grond van [artikel 90 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90) verleende vergunningen.
+1. Op grond van hoofdstuk I, afdeling 2, onderafdeling 2, en [hoofdstuk IV van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=IV) van alcoholhoudende stoffen verleende bewijzen van goedkeuring tot het voorhanden hebben van een distilleertoestel in een distilleerderij van de tweede klasse onderscheidenlijk verleende vergunningen tot het voorhanden hebben en vervaardigen van een distilleertoestel, worden tot wederopzegging aangemerkt als op grond van [artikel 90 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90) verleende vergunningen.
 
 2. De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning of goedkeuring ingevolge dat lid wordt aangemerkt als een op grond van [artikel 90 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90) verleende vergunning, voldoen aan de krachtens [artikel 90 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=90) voor de afgifte van de laatstbedoelde vergunning gestelde voorwaarden.
 
 ##### Artikel XXVII
 
-1. Fabrikanten van parfumerieën, toiletartikelen en kosmetische produkten aan wie een vergunning is verleend als bedoeld in de Beschikking aflopend krediet voor de accijns van alcoholhoudende stoffen (**Stcrt.** 1967, 213) doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun fabriek aanwezige hoeveelheid alcoholhoudende stoffen.
+1. Fabrikanten van parfumerieën, toiletartikelen en kosmetische produkten aan wie een vergunning is verleend als bedoeld in de Beschikking aflopend krediet voor de accijns van alcoholhoudende stoffen (*Stcrt.* 1967, 213) doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 in hun fabriek aanwezige hoeveelheid alcoholhoudende stoffen.
 
 2. In de aangifte wordt een onderscheid gemaakt naar:
 
@@ -243,9 +216,9 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 
 - b. de hoeveelheid waarvoor op het tijdstip waarop deze wet in werking treedt nog aflopend krediet wordt genoten.
 
-3. De inspecteur verleent teruggaaf van de accijns over de in het tweede lid, onderdeel **a,** bedoelde hoeveelheid.
+3. De inspecteur verleent teruggaaf van de accijns over de in het tweede lid, onderdeel *a,* bedoelde hoeveelheid.
 
-4. De inspecteur verleent afschrijving van accijns over de in het tweede lid, onderdeel **b,** bedoelde hoeveelheid.
+4. De inspecteur verleent afschrijving van accijns over de in het tweede lid, onderdeel *b,* bedoelde hoeveelheid.
 
 5. De inspecteur stelt het bedrag van de teruggaaf en het bedrag van de afschrijving vast bij beschikking.
 
@@ -271,7 +244,7 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 
 ##### Artikel XXIX
 
-1. Fabrikanten van suikerhoudende produkten aan wie een vergunning is verleend tot het onder krediet voor de accijns betrekken van suiker voor de vervaardiging van suikerhoudende goederen, als bedoeld in hoofdstuk I van het Besluit accijns van suiker (**Stb.** 1964, 515) doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 aanwezige hoeveelheden suiker en suikerhoudende produkten.
+1. Fabrikanten van suikerhoudende produkten aan wie een vergunning is verleend tot het onder krediet voor de accijns betrekken van suiker voor de vervaardiging van suikerhoudende goederen, als bedoeld in hoofdstuk I van het Besluit accijns van suiker (*Stb.* 1964, 515) doen uiterlijk 7 januari 1992 aangifte van de bij de aanvang van 1 januari 1992 aanwezige hoeveelheden suiker en suikerhoudende produkten.
 
 2. In de aangifte wordt een onderscheid gemaakt naar de hoeveelheden suiker en suikerhoudende produkten waarvoor:
 
@@ -279,9 +252,9 @@ Tot 1 januari 1993 wordt een vergunning voor een accijnsgoederenplaats voor bier
 
 - b. het krediet nog geldt.
 
-3. De inspecteur verleent teruggaaf van de in het tweede lid, onderdeel **a,** bedoelde accijns, met dien verstande dat het terug te geven bedrag wordt verrekend met de te betalen accijns over de uitslagen na 31 december 1991.
+3. De inspecteur verleent teruggaaf van de in het tweede lid, onderdeel *a,* bedoelde accijns, met dien verstande dat het terug te geven bedrag wordt verrekend met de te betalen accijns over de uitslagen na 31 december 1991.
 
-4. De inspecteur verleent afschrijving voor de accijns over de in het tweede lid, onderdeel **b,** bedoelde hoeveelheid.
+4. De inspecteur verleent afschrijving voor de accijns over de in het tweede lid, onderdeel *b,* bedoelde hoeveelheid.
 
 5. De inspecteur stelt het bedrag van de teruggaaf en het bedrag van de afschrijving vast bij beschikking.
 
@@ -297,7 +270,7 @@ De [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=77) en
 
 ##### Artikel XXXII
 
-De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) en deze wet treden in werking met ingang van 1 januari 1992 met uitzondering van artikel XXXIV dat in werking treedt met ingang van de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst.
+De [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) en deze wet treden in werking met ingang van 1 januari 1992 met uitzondering van artikel XXXIV dat in werking treedt met ingang van de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst.
 
 ##### Artikel XXXIII
 
@@ -305,36 +278,32 @@ Bij ministeriële regeling kunnen nadere regels worden gegeven met betrekking to
 
 ##### Artikel XXXIV
 
-Waar in deze wet de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) is aangehaald als [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) met vermelding van het **Staatsblad** waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het **Staatsblad** na "**Stb.** 1991," ingevoegd het nummer van het **Staatsblad** waarin de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) is geplaatst.
+Waar in deze wet de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) is aangehaald als [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) met vermelding van het *Staatsblad* waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het *Staatsblad* na "*Stb.* 1991," ingevoegd het nummer van het *Staatsblad* waarin de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) is geplaatst.
 
 ##### Artikel XXXV
 
-Wijzigt de Invoeringswet Boeken 3, 5 en 6 nieuw B.W. (negende gedeelte) (**Stb.** 1989, 491).
+*Wijzigt de Invoeringswet Boeken 3, 5 en 6 nieuw B.W. (negende gedeelte)* (*Stb.* 1989, 491).
 
 ##### Artikel XXXVI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXXVII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXXVIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXXIX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XL
 
 Deze wet kan worden aangehaald als Invoeringswet Wet op de accijns.
 
-De tekst van de Algemene wet inzake de douane en accijnzen wordt door Onze Minister van Justitie in het **Staatsblad** geplaatst.
+De tekst van de Algemene wet inzake de douane en accijnzen wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.
 
 ##### Artikel XLI
-
-{al}
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.

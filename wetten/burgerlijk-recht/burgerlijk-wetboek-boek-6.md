@@ -1,20 +1,24 @@
 ---
-title: "Burgerlijk Wetboek Boek 6"
+title: "Burgerlijk Wetboek Boek 6, Verbintenissenrecht"
+citeertitel: "Burgerlijk Wetboek Boek 6"
 identifier: "BWBR0005289"
 categorie: "Burgerlijk recht"
-publicatiedatum: 2026-07-16
-laatste_update: 2026-07-18
+soort: "wet"
+publicatiedatum: 1992-01-01
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0005289"
+opgehaald: 2026-07-31
 ---
 
 # Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
 ## Boek 6. Algemeen gedeelte van het verbintenissenrecht
 
-## Titel 1. Verbintenissen in het algemeen
+### Titel 1. Verbintenissen in het algemeen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -48,7 +52,7 @@ Op natuurlijke verbintenissen zijn de wettelijke bepalingen betreffende verbinte
 
 3. Op de overeenkomst zijn de bepalingen betreffende schenkingen en giften niet van toepassing.
 
-### Afdeling 2. Pluraliteit van schuldenaren en hoofdelijke verbondenheid
+#### Afdeling 2. Pluraliteit van schuldenaren en hoofdelijke verbondenheid
 
 ##### Artikel 6
 
@@ -110,7 +114,7 @@ Op de rechtsbetrekkingen tussen de hoofdelijke schuldenaren onderling is [artike
 
 Afstand door de schuldeiser van zijn vorderingsrecht jegens een hoofdelijke schuldenaar bevrijdt deze niet van zijn verplichting tot bijdragen. De schuldeiser kan hem niettemin van zijn verplichting tot bijdragen jegens een medeschuldenaar bevrijden door zich jegens deze laatste te verbinden zijn vordering op hem te verminderen met het bedrag dat als bijdrage gevorderd had kunnen worden.
 
-### Afdeling 3. Pluraliteit van schuldeisers
+#### Afdeling 3. Pluraliteit van schuldeisers
 
 ##### Artikel 15
 
@@ -124,7 +128,7 @@ Afstand door de schuldeiser van zijn vorderingsrecht jegens een hoofdelijke schu
 
 Wanneer met de schuldenaar is overeengekomen dat twee of meer personen als schuldeiser de prestatie van hem voor het geheel kunnen vorderen, des dat de voldoening aan de een hem ook jegens de anderen bevrijdt, doch in de onderlinge verhouding van die personen de prestatie niet aan hen allen gezamenlijk toekomt, zijn op hun rechtsverhouding jegens de schuldenaar de in geval van gemeenschap geldende regels van overeenkomstige toepassing.
 
-### Afdeling 4. Alternatieve verbintenissen
+#### Afdeling 4. Alternatieve verbintenissen
 
 ##### Artikel 17
 
@@ -150,7 +154,7 @@ Een alternatieve verbintenis wordt enkelvoudig door het uitbrengen van de keuze 
 
 2. Indien de keuze aan de schuldenaar toekomt, is deze echter niet bevoegd een onmogelijke prestatie te kiezen, tenzij de onmogelijkheid een gevolg is van een aan de schuldeiser toe te rekenen oorzaak of deze met de keuze instemt.
 
-### Afdeling 5. Voorwaardelijke verbintenissen
+#### Afdeling 5. Voorwaardelijke verbintenissen
 
 ##### Artikel 21
 
@@ -180,7 +184,7 @@ Is een krachtens een verbintenis onder opschortende voorwaarde verschuldigde pre
 
 Op voorwaardelijke verbintenissen zijn de bepalingen betreffende onvoorwaardelijke verbintenissen van toepassing, voor zover het voorwaardelijk karakter van de betrokken verbintenis zich daartegen niet verzet.
 
-### Afdeling 6. Nakoming van verbintenissen
+#### Afdeling 6. Nakoming van verbintenissen
 
 ##### Artikel 27
 
@@ -326,7 +330,7 @@ Slechts met toestemming van de schuldeiser kan een schuldenaar zich van zijn ver
 
 3. Is de gestelde zekerheid door een niet aan de schuldeiser toe te rekenen oorzaak onvoldoende geworden, dan is de schuldenaar verplicht haar aan te vullen of te vervangen.
 
-### Afdeling 7. Opschortingsrechten
+#### Afdeling 7. Opschortingsrechten
 
 ##### Artikel 52
 
@@ -360,7 +364,7 @@ Een bevoegdheid tot opschorting blijft ook na verjaring van de rechtsvordering o
 
 Indien een bevoegdheid tot opschorting voldoet aan de omschrijving van het retentierecht in [artikel 290 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=290), zijn de bepalingen van de onderhavige afdeling van toepassing, voor zover daarvan in [afdeling 4 van titel 10 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=4) niet is afgeweken.
 
-### Afdeling 8. Schuldeisersverzuim
+#### Afdeling 8. Schuldeisersverzuim
 
 ##### Artikel 58
 
@@ -430,7 +434,7 @@ In geval van hoofdelijke verbondenheid gelden de rechtsgevolgen van het verzuim 
 
 Weigert de schuldeiser een aanbod van een derde, dan zijn de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=60&z=2026-07-16&g=2026-07-16), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=62&z=2026-07-16&g=2026-07-16), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=63&z=2026-07-16&g=2026-07-16) en [66-70](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=66&z=2026-07-16&g=2026-07-16) ten behoeve van de derde van overeenkomstige toepassing, mits het aanbod aan de verbintenis beantwoordt en de derde bij de voldoening een gerechtvaardigd belang heeft.
 
-### Afdeling 9. De gevolgen van het niet nakomen van een verbintenis
+#### Afdeling 9. De gevolgen van het niet nakomen van een verbintenis
 
 #### § 1. Algemene bepalingen
 
@@ -562,7 +566,7 @@ Voor het vorderen van nakoming van het boetebeding is een aanmaning of een ander
 
 3. Van lid 1 afwijkende bedingen zijn nietig.
 
-### Afdeling 10. Wettelijke verplichtingen tot schadevergoeding
+#### Afdeling 10. Wettelijke verplichtingen tot schadevergoeding
 
 ##### Artikel 95
 
@@ -738,7 +742,7 @@ Voor nadeel dat niet in vermogensschade bestaat, heeft de benadeelde recht op ee
 
 Opdat de aansprakelijkheid die ter zake van schade kan ontstaan niet hetgeen redelijkerwijs door verzekering kan worden gedekt, te boven gaat, kunnen bij algemene maatregel van bestuur bedragen worden vastgesteld, waarboven de aansprakelijkheid zich niet uitstrekt. Afzonderlijke bedragen kunnen worden bepaald naar gelang van onder meer de aard van de gebeurtenis, de aard van de schade en de grond van de aansprakelijkheid.
 
-### Afdeling 11. Verbintenissen tot betaling van een geldsom
+#### Afdeling 11. Verbintenissen tot betaling van een geldsom
 
 ##### Artikel 111
 
@@ -750,7 +754,7 @@ Het geld dat ter voldoening van de verbintenis wordt betaald, moet op het tijdst
 
 ##### Artikel 113
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 114
 
@@ -783,6 +787,74 @@ Indien de verbintenis is ontstaan bij de uitoefening van bedrijfs- of beroepsbez
 2. Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
 
 3. Een bedongen rente die hoger is dan die welke krachtens de vorige leden verschuldigd zou zijn, loopt in plaats daarvan door nadat de schuldenaar in verzuim is gekomen.
+
+##### Artikel 119a
+
+1. De schadevergoeding, verschuldigd wegens vertraging in de voldoening van een geldsom, bestaat in het geval van een handelsovereenkomst in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als de uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder handelsovereenkomst wordt verstaan de overeenkomst om baat die een of meer van de partijen verplicht iets te geven of te doen en die tot stand is gekomen tussen een of meer natuurlijke personen die handelen in de uitoefening van een beroep of bedrijf of rechtspersonen.
+
+2. Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd:
+
+- a. vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of
+
+- b. indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of
+
+- c. indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.
+
+3. Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
+
+4. De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn overeenkomen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+
+- a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;
+
+- b. de aard van de prestatie; en
+
+- c. elke aanmerkelijke afwijking van goede handelspraktijken.
+
+5. Partijen kunnen een uiterste dag van betaling overeenkomen van ten hoogste 60 dagen, tenzij zij uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+
+- a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 60 dagen termijn;
+
+- b. de aard van de prestatie; en
+
+- c. elke aanmerkelijke afwijking van goede handelspraktijken.
+
+6. In afwijking van lid 5 kunnen partijen geen uiterste dag van betaling overeenkomen van meer dan 30 dagen indien de schuldenaar een rechtspersoon is die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397, leden 1 en 2 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397), en de schuldeiser een natuurlijk persoon is die handelt in de uitoefening van een beroep of bedrijf of een rechtspersoon, die gedurende die periode aan ten minste twee van die vereisten heeft voldaan. Een beding in een overeenkomst in strijd met de vorige zin is nietig.
+
+7. Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+
+8. De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+
+9. Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
+
+##### Artikel 119b
+
+1. De schadevergoeding, verschuldigd door een overheidsinstantie wegens vertraging in de voldoening van een geldsom, bestaat in geval van een handelsovereenkomst met een overheidsinstantie in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder overheidsinstantie wordt verstaan de Staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling dan wel een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen als bedoeld in artikel 2 lid 2 van richtlijn nr. 2011/7 van het Europees Parlement en de Raad van 23 februari 2011 betreffende bestrijding van betalingsachterstand bij handelstransacties (PbEU L48/11).
+
+2. Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd:
+
+- a. vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of
+
+- b. indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of
+
+- c. indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.
+
+3. Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
+
+4. De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn in de overeenkomst en aanbestedingsdocumenten opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+
+- a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;
+
+- b. de aard van de prestatie; en
+
+- c. elke aanmerkelijke afwijking van goede handelspraktijken.
+
+5. Bij overeenkomst kan niet van een uiterste dag van betaling van ten hoogste 30 dagen, overeenkomstig het tweede lid, worden afgeweken, tenzij partijen uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en de bijzondere aard of eigenschappen van de overeenkomst dit objectief rechtvaardigen. De betalingstermijn bedraagt in dat geval ten hoogste 60 dagen.
+
+6. Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+
+7. De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+
+8. Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een hogere overeengekomen rente.
 
 ##### Artikel 120
 
@@ -824,7 +896,7 @@ Wordt de verbintenis als gevolg van toepassing van de [artikelen 121](https://we
 
 Voor de toepassing van deze afdeling geldt als koers de koers tegen welke de schuldeiser zich onverwijld het geld kan verschaffen, zulks met inachtneming van hetgeen uit wet, gewoonte en inhoud of strekking van de verbintenis mocht voortvloeien.
 
-### Afdeling 12. Verrekening
+#### Afdeling 12. Verrekening
 
 ##### Artikel 127
 
@@ -922,9 +994,9 @@ De rechter kan een vordering ondanks een beroep van de verweerder op verrekening
 
 Indien een verbintenis geheel of gedeeltelijk door verrekening tenietgaat, zijn de [leden 1 en 2 van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=48&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
 
-## Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
+### Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
 
-### Afdeling 1. Gevolgen van overgang van vorderingen
+#### Afdeling 1. Gevolgen van overgang van vorderingen
 
 ##### Artikel 142
 
@@ -974,7 +1046,7 @@ De [artikelen 146](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeld
 
 3. De vorige leden zijn van overeenkomstige toepassing ter zake van de uitoefening van een bevoegdheid van de schuldenaar tot vernietiging of ontbinding, nadat op de vordering met mededeling aan hem een beperkt recht is gevestigd.
 
-### Afdeling 2. Subrogatie
+#### Afdeling 2. Subrogatie
 
 ##### Artikel 150
 
@@ -1010,7 +1082,7 @@ In het geval van subrogatie in de hoofdvordering verkrijgt de gesubrogeerde het 
 
 De schuldeiser is jegens degene die, zo hij de vordering voldoet, zal worden gesubrogeerd, verplicht zich te onthouden van elke gedraging die ten koste van deze afbreuk doet aan de rechten waarin hij mag verwachten krachtens de subrogatie te zullen treden.
 
-### Afdeling 3. Schuld- en contractsoverneming
+#### Afdeling 3. Schuld- en contractsoverneming
 
 ##### Artikel 155
 
@@ -1044,7 +1116,7 @@ Indien de rechtsverhouding tussen de vorige en de nieuwe schuldenaar op grond wa
 
 3. [Artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&artikel=156&z=2026-07-16&g=2026-07-16) en de [leden 1-3 van artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&artikel=157&z=2026-07-16&g=2026-07-16) zijn van overeenkomstige toepassing.
 
-### Afdeling 4. Afstand en vermenging
+#### Afdeling 4. Afstand en vermenging
 
 ##### Artikel 160
 
@@ -1068,9 +1140,9 @@ Indien de rechtsverhouding tussen de vorige en de nieuwe schuldenaar op grond wa
 
 3. Tenietgaan van een verbintenis door vermenging laat de op de vordering rustende rechten van derden onverlet.
 
-## Titel 3. Onrechtmatige daad
+### Titel 3. Onrechtmatige daad
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 162
 
@@ -1116,7 +1188,7 @@ Een gedraging van een kind dat de leeftijd van veertien jaren nog niet heeft ber
 
 3. Wordt aan een veroordeling tot schadevergoeding of tot het stellen van zekerheid daarvoor niet voldaan, dan kan de rechter alsnog een verbod van de gedraging opleggen.
 
-### Afdeling 2. Aansprakelijkheid voor personen en zaken
+#### Afdeling 2. Aansprakelijkheid voor personen en zaken
 
 ##### Artikel 169
 
@@ -1168,7 +1240,7 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 ##### Artikel 175
 
-1. Degene die in de uitoefening van zijn beroep of bedrijf een stof gebruikt of onder zich heeft, terwijl van deze stof bekend is dat zij zodanige eigenschappen heeft, dat zij een bijzonder gevaar van ernstige aard voor personen of zaken oplevert, is aansprakelijk, wanneer dit gevaar zich verwezenlijkt. Onder degene die een bedrijf uitoefent, wordt mede begrepen elke rechtspersoon die de stof in de uitoefening van zijn taak gebruikt of onder zich heeft. Als bijzonder gevaar van ernstige aard geldt in elk geval dat de stof ontplofbaar, oxyderend, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, dan wel vergiftig of zeer vergiftig is indien de stof als zodanig is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353).
+1. Degene die in de uitoefening van zijn beroep of bedrijf een stof gebruikt of onder zich heeft, terwijl van deze stof bekend is dat zij zodanige eigenschappen heeft, dat zij een bijzonder gevaar van ernstige aard voor personen of zaken oplevert, is aansprakelijk, wanneer dit gevaar zich verwezenlijkt. Onder degene die een bedrijf uitoefent, wordt mede begrepen elke rechtspersoon die de stof in de uitoefening van zijn taak gebruikt of onder zich heeft. Als bijzonder gevaar van ernstige aard geldt in elk geval dat de stof ontplofbaar, oxyderend, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, dan wel vergiftig of zeer vergiftig is indien de stof als zodanig is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353).
 
 2. Bevindt de stof zich in de macht van een bewaarder die er zijn bedrijf van maakt zodanige stoffen te bewaren, dan rust de aansprakelijkheid uit het eerste lid op deze. Met een zodanige bewaarder wordt gelijkgesteld de vervoerder, expediteur, stuwadoor, bewaarder of soortgelijke ondernemer, die de stof ten vervoer of uit hoofde van een met het vervoer samenhangende overeenkomst in ontvangst heeft genomen, zulks voor de periode waarin de stof zich in zijn macht bevindt zonder dat [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) of [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) van toepassing is.
 
@@ -1178,7 +1250,7 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 5. Vormt de stof, al of niet tezamen met andere bestanddelen, een roerende zaak als bedoeld in [artikel 173 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), is zij in een zodanige zaak verpakt of is zij opgeslagen in een daartoe bestemd gebouw of werk als bedoeld in [artikel 174, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16), dan rust de aansprakelijkheid uit de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16) en [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16), voor wat betreft de schade die door verwezenlijking van het aan de stof verbonden gevaar is veroorzaakt, op dezelfde persoon als op wie krachtens de voorgaande leden aansprakelijkheid ter zake van de stof rust.
 
-6. Een stof wordt geacht aan de omschrijving van de eerste zin van het eerste lid te voldoen, wanneer zij bij algemene maatregel van bestuur als zodanig is aangewezen. Een stof kan in elk geval worden aangewezen als zij is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353). De aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt.
+6. Een stof wordt geacht aan de omschrijving van de eerste zin van het eerste lid te voldoen, wanneer zij bij algemene maatregel van bestuur als zodanig is aangewezen. Een stof kan in elk geval worden aangewezen als zij is ingedeeld overeenkomstig de artikelen 3 en 4 en titel II van verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353). De aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt.
 
 ##### Artikel 176
 
@@ -1216,11 +1288,19 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 4. Voor schade door beweging van de bodem is aansprakelijk degene die ten tijde van het bekend worden van deze schade exploitant is. Indien na het bekend worden een ander exploitant wordt, blijft de aansprakelijkheid rusten op degene die ten tijde van dit bekend worden exploitant was. Indien deze schade bekend wordt na sluiting van het mijnbouwwerk, rust de aansprakelijkheid op degene die de laatste exploitant was.
 
-5. Indien op de gebeurtenis waardoor de uitstroming of de beweging van de bodem is ontstaan, tevens een aansprakelijkheid uit [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16) of [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2026-07-16&g=2026-07-16) kan worden gegrond, rust die aansprakelijkheid, wat betreft de door die uitstroming of beweging van de bodem veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het mijnbouwwerk rust.
+5. Indien op de gebeurtenis waardoor de uitstroming of de beweging van de bodem is ontstaan, tevens een aansprakelijkheid uit [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16) of [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2026-07-16&g=2026-07-16) kan worden gegrond, rust die aansprakelijkheid, wat betreft de door die uitstroming of beweging van de bodem veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het mijnbouwwerk rust.
 
 6. Op verzoek van de wederpartij verstrekt de exploitant alle informatie waarover hij beschikt ten aanzien van de exploitatie, de bodemstructuur en bodembewegingen die benodigd is om te kunnen beoordelen of zijn verweer gegrond is. Het verstrekken van informatie kan achterwege blijven indien daarvoor gewichtige redenen zijn.
 
 7. Onverminderd de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) en [5.2 van de wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.2) staat de informatie ten aanzien van de exploitatie, de bodemstructuur en bodembewegingen waarover publiekrechtelijke rechtspersonen als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=1), alsmede hun adviserende instanties beschikken op verzoek van de exploitant ter beschikking van de wederpartij, voor zover die informatie benodigd is om te kunnen beoordelen of het verweer van de exploitant gegrond is.
+
+##### Artikel 177a
+
+1. Bij fysieke schade aan gebouwen en werken, die naar haar aard redelijkerwijs schade door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk zou kunnen zijn, wordt vermoed dat die schade veroorzaakt is door de aanleg of de exploitatie van dat mijnbouwwerk.
+
+2. De benadeelde kan zich slechts beroepen op het vermoeden, bedoeld in het eerste lid, indien hij de exploitant, bedoeld in [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2026-07-16&g=2026-07-16), op diens verzoek de relevante bescheiden betreffende het gebouw of werk ter inzage geeft indien hij daarover beschikt, en de exploitant genoegzaam gelegenheid geeft de schade te onderzoeken.
+
+3. Bij algemene maatregel van bestuur kunnen een of meer gebieden worden vastgesteld waarbinnen het vermoeden, bedoeld in het eerste lid, in ieder geval geldt.
 
 ##### Artikel 178
 
@@ -1276,7 +1356,7 @@ Indien er in de gevallen van de [artikelen 176](https://wetten.overheid.nl/jci1.
 
 2. Indien de maatregelen, bedoeld in het vorige lid, door een ander worden genomen dan degene die de schade zou hebben geleden ter zake waarvan de ernstige en onmiddellijke dreiging is ontstaan, kan deze ander slechts vergoeding van de in het vorige lid bedoelde kosten, schaden en verliezen vorderen, voor zover zij gevorderd hadden kunnen worden door degene die de dreigende schade zou hebben geleden, en kan de aangesprokene jegens die ander hetzelfde verweer voeren als hem jegens deze ten dienste zou hebben gestaan.
 
-### Afdeling 3. Produktenaansprakelijkheid
+#### Afdeling 3. Produktenaansprakelijkheid
 
 ##### Artikel 185
 
@@ -1336,7 +1416,7 @@ Indien verschillende personen op grond van [artikel 185, eerste lid](https://wet
 
 - b. schade door het produkt toegebracht aan een andere zaak die gewoonlijk voor gebruik of verbruik in de privésfeer is bestemd en door de benadeelde ook hoofdzakelijk in de privésfeer is gebruikt of verbruikt, met toepassing van een franchise ten belope van € 500.
 
-2. Het bedrag genoemd in het eerste lid wordt bij algemene maatregel van bestuur aangepast, indien op grond van artikel 18, tweede lid, van de EEG-richtlijn van 25 juli 1985 (**PbEG** nr. L 210) de in die richtlijn genoemde bedragen worden herzien.
+2. Het bedrag genoemd in het eerste lid wordt bij algemene maatregel van bestuur aangepast, indien op grond van artikel 18, tweede lid, van de EEG-richtlijn van 25 juli 1985 (*PbEG* nr. L 210) de in die richtlijn genoemde bedragen worden herzien.
 
 ##### Artikel 191
 
@@ -1354,887 +1434,7 @@ Indien verschillende personen op grond van [artikel 185, eerste lid](https://wet
 
 Het recht op schadevergoeding jegens de producent uit hoofde van deze afdeling komt de benadeelde toe, onverminderd alle andere rechten of vorderingen.
 
-### Afdeling 4. Misleidende en vergelijkende reclame
-
-##### Artikel 194
-
-1. Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie hij handelt in de uitoefening van een beroep of bedrijf worden aangeboden, een mededeling openbaar maakt of laat openbaar maken, handelt onrechtmatig jegens een ander die handelt in de uitoefening van zijn bedrijf, indien deze mededeling in een of meer opzichten misleidend is, zoals ten aanzien van:
-
-- a. de aard, samenstelling, hoeveelheid, hoedanigheid, eigenschappen of gebruiksmogelijkheden;
-
-- b. de herkomst, de wijze op het tijdstip van vervaardigen;
-
-- c. de omvang van de voorraad;
-
-- d. de prijs of de wijze van berekenen daarvan;
-
-- e. de aanleiding of het doel van de aanbieding;
-
-- f. de toegekende onderscheidingen, getuigschriften of andere door derden uitgebrachte beoordelingen of gedane verklaringen, of de gebezigde wetenschappelijke of vaktermen, technische bevindingen of statistische gegevens;
-
-- g. de voorwaarden, waaronder goederen worden geleverd of diensten worden verricht of de betaling plaatsvindt;
-
-- h. de omvang, inhoud of tijdsduur van de garantie;
-
-- i. de identiteit, hoedanigheden, bekwaamheid of bevoegdheid en degene door wie, onder wiens leiding of toezicht of met wiens medewerking de goederen zijn of worden vervaardigd of aangeboden of de diensten worden verricht.
-
-2. Een mededeling, openbaar of specifiek gericht op een ander, is in ieder geval misleidend indien sprake is van een misleidende omissie, waarbij essentiële informatie welke hij die handelt in de uitoefening van een beroep, bedrijf of organisatie, nodig heeft om een geïnformeerd besluit over een transactie te nemen, wordt weggelaten, waardoor hij die handelt in de uitoefening van een beroep, bedrijf of organisatie, een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
-
-3. Van een misleidende omissie is eveneens sprake indien essentiële informatie als bedoeld in lid 2 verborgen wordt gehouden of op onduidelijke, onbegrijpelijke, dubbelzinnige wijze dan wel laat verstrekt of gepresenteerd wordt, of het commerciële oogmerk, indien dit niet reeds duidelijk uit de context blijkt, niet laat blijken, waardoor hij die handelt in de uitoefening van een beroep, bedrijf of organisatie, een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
-
-4. Bij de beoordeling of sprake is van een misleidende omissie als bedoeld in lid 2 en 3, zijn [artikel 193d, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16), en [artikel 193e, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193e&z=2026-07-16&g=2026-07-16), van overeenkomstige toepassing.
-
-##### Artikel 194a
-
-1. Onder vergelijkende reclame wordt verstaan elke vorm van reclame waarbij een concurrent dan wel door een concurrent aangeboden goederen of diensten uitdrukkelijk of impliciet worden genoemd.
-
-2. Vergelijkende reclame is, wat de vergelijking betreft, geoorloofd op voorwaarde dat deze:
-
-- a. niet misleidend of een misleidende handelspraktijk als bedoeld in de [artikelen 193c tot en met 193g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193c&z=2026-07-16&g=2026-07-16) is;
-
-- b. goederen of diensten vergelijkt die in dezelfde behoeften voorzien of voor hetzelfde doel zijn bestemd;
-
-- c. op objectieve wijze een of meer wezenlijke, relevante, controleerbare en representatieve kenmerken van deze goederen en diensten, zoals de prijs, met elkaar vergelijkt;
-
-- d. er niet toe leidt dat op de markt de adverteerder wordt verward met een concurrent, of de merken, handelsnamen, andere onderscheidende kenmerken, goederen of diensten van de adverteerder met die van een concurrent;
-
-- e. niet de goede naam schaadt van of zich niet kleinerend uitlaat over de merken, handelsnamen, andere onderscheidende kenmerken, goederen, diensten, activiteiten of omstandigheden van een concurrent;
-
-- f. voor producten met een benaming van oorsprong in elk geval betrekking heeft op producten met dezelfde benaming;
-
-- g. geen oneerlijk voordeel oplevert ten gevolge van de bekendheid van een merk, handelsnaam of andere onderscheidende kenmerken van een concurrent dan wel van de oorsprongsbenamingen van concurrerende producten; en
-
-- h. niet goederen of diensten voorstelt als een imitatie of namaak van goederen of diensten met een beschermd merk of beschermde handelsnaam.
-
-3. Elke vergelijking die verwijst naar een speciale aanbieding, moet duidelijk en ondubbelzinnig het einde en, zo de speciale aanbieding nog niet loopt, het begin aangeven van de periode gedurende welke de speciale prijs of andere specifieke voorwaarden gelden dan wel vermelden dat de speciale aanbieding loopt zo lang de voorraad strekt of de diensten kunnen worden verleend.
-
-##### Artikel 195
-
-1. Indien een vordering ingevolge [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2026-07-16&g=2026-07-16) of [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2026-07-16&g=2026-07-16) wordt ingesteld tegen iemand die inhoud en inkleding van de mededeling geheel of ten dele heeft bepaald of doen bepalen, rust op hem de bewijslast ter zake van de juistheid of volledigheid van de feiten die in de mededeling zijn vervat of daardoor worden gesuggereerd en waarop het beweerde misleidende karakter van de mededeling berust onderscheidenlijk waarop de ongeoorloofdheid van de vergelijkende reclame berust. Ingeval van vergelijkende reclame dient degene die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen binnen korte termijn de bewijzen aan te dragen waarop de materiële juistheid en volledigheid van de feitelijke gegevens in de reclame rust.
-
-2. Indien volgens [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2026-07-16&g=2026-07-16) en [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2026-07-16&g=2026-07-16) onrechtmatig is gehandeld door iemand die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
-
-##### Artikel 196
-
-1. Indien iemand door het openbaar maken of laten openbaar maken van een in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2026-07-16&g=2026-07-16) omschreven mededeling of een ongeoorloofde vergelijkende reclame, of door het specifiek richten of laten richten van die mededeling op een ander, aan een ander schade heeft toegebracht of dreigt toe te brengen, kan de rechter hem op vordering van die ander niet alleen het openbaar maken of laten openbaar maken van zodanige mededeling of zodanige ongeoorloofde vergelijkende reclame, of het specifiek richten of laten richten van zodanige mededeling op een ander, verbieden, maar ook hem laten veroordelen tot het op een door de rechter aangegeven wijze openbaar maken of laten openbaar maken van een rectificatie van die mededeling of die ongeoorloofde vergelijkende reclame.
-
-2. Indien een vordering als in het vorige lid bedoeld wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in [artikel 195 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=195&z=2026-07-16&g=2026-07-16) bedoelde schade, is [artikel 167 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=167&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
-
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
-
-##### Artikel 197
-
-1. De [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2026-07-16&g=2026-07-16), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2026-07-16&g=2026-07-16), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2026-07-16&g=2026-07-16), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2026-07-16&g=2026-07-16), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2026-07-16&g=2026-07-16), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2026-07-16&g=2026-07-16), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2026-07-16&g=2026-07-16) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2026-07-16&g=2026-07-16), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) blijven buiten toepassing:
-
-- a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens [artikel 107a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=10&artikel=107a&z=2026-07-16&g=2026-07-16) en de [artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99), [90 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90), [69 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=69), [4:2 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=4:2), [52a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52a), [61 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=61), [artikel 10.2.2 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.2.2), [artikel 2.4.3 Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.4.3) en [8 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=8);
-
-- b. bij de vaststelling van het bedrag, bedoeld in [artikel 3 van de Verhaalswet ongevallen ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=3) waarboven de gehoudenheid krachtens die wet of krachtens [artikel 75 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=75) zich niet uitstrekt.
-
-2. Rechten uit de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2026-07-16&g=2026-07-16), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2026-07-16&g=2026-07-16), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2026-07-16&g=2026-07-16), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2026-07-16&g=2026-07-16), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2026-07-16&g=2026-07-16), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2026-07-16&g=2026-07-16), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2026-07-16&g=2026-07-16) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2026-07-16&g=2026-07-16), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) zijn niet vatbaar voor subrogatie krachtens [artikel 962 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962), behoudens voor zover de uitkering door de verzekeraar de aansprakelijkheid van de verzekerde betreft en een ander krachtens deze artikelen mede aansprakelijk was.
-
-3. Degene wiens verhaal of subrogatie door de vorige leden wordt uitgesloten, kan de in het tweede lid bedoelde rechten evenmin krachtens overeenkomst verkrijgen of te zijnen behoeve door de gerechtigde op diens naam doen uitoefenen.
-
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
-
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
-
-##### Artikel 198
-
-Zaakwaarneming is het zich willens en wetens en op redelijke grond inlaten met de behartiging van eens anders belang, zonder de bevoegdheid daartoe aan een rechtshandeling of een elders in de wet geregelde rechtsverhouding te ontlenen.
-
-##### Artikel 199
-
-1. De zaakwaarnemer is verplicht bij de waarneming de nodige zorg te betrachten en, voor zover dit redelijkerwijze van hem kan worden verlangd, de begonnen waarneming voort te zetten.
-
-2. De zaakwaarnemer doet, zodra dit redelijkerwijze mogelijk is, aan de belanghebbende verantwoording van hetgeen hij heeft verricht. Heeft hij voor de belanghebbende gelden uitgegeven of ontvangen, dan doet hij daarvan rekening.
-
-##### Artikel 200
-
-1. De belanghebbende is, voor zover zijn belang naar behoren is behartigd, gehouden de zaakwaarnemer de schade te vergoeden, die deze als gevolg van de waarneming heeft geleden.
-
-2. Heeft de zaakwaarnemer in de uitoefening van een beroep of bedrijf gehandeld, dan heeft hij, voor zover dit redelijk is, bovendien recht op een vergoeding voor zijn verrichtingen, met inachtneming van de prijzen die daarvoor ten tijde van de zaakwaarneming gewoonlijk werden berekend.
-
-##### Artikel 201
-
-Een zaakwaarnemer is bevoegd rechtshandelingen te verrichten in naam van de belanghebbende, voor zover diens belang daardoor naar behoren wordt behartigd.
-
-##### Artikel 202
-
-Heeft iemand die is opgetreden ter behartiging van eens anders belang, zich zonder redelijke grond daarmede ingelaten of dit belang niet naar behoren behartigd, dan kan de belanghebbende door goedkeuring van het optreden zijn bevoegdheid prijsgeven jegens hem het gebrek in te roepen. Aan de belanghebbende kan door hem een redelijke termijn voor de goedkeuring worden gesteld.
-
-### Afdeling 3B. Schending van mededingingsrecht
-
-##### Artikel 203
-
-1. Degene die een ander zonder rechtsgrond een goed heeft gegeven, is gerechtigd dit van de ontvanger als onverschuldigd betaald terug te vorderen.
-
-2. Betreft de onverschuldigde betaling een geldsom, dan strekt de vordering tot teruggave van een gelijk bedrag.
-
-3. Degene die zonder rechtsgrond een prestatie van andere aard heeft verricht, heeft eveneens jegens de ontvanger recht op ongedaanmaking daarvan.
-
-##### Artikel 204
-
-1. Heeft de ontvanger in een periode waarin hij redelijkerwijze met een verplichting tot teruggave van het goed geen rekening behoefde te houden, niet als een zorgvuldig schuldenaar voor het goed zorg gedragen, dan wordt hem dit niet toegerekend.
-
-2. Degene die namens een ander, maar onbevoegd een niet aan die ander verschuldigde geldsom heeft ontvangen, is van zijn verplichting tot teruggave bevrijd, voor zover hij die geldsom aan die ander heeft doorbetaald in een periode waarin hij redelijkerwijze met die verplichting geen rekening behoefde te houden.
-
-##### Artikel 205
-
-Heeft de ontvanger het goed te kwader trouw aangenomen, dan is hij zonder ingebrekestelling in verzuim.
-
-##### Artikel 206
-
-De [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=120), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=121), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=123) en [124 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=124) zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.
-
-##### Artikel 207
-
-De ontvanger heeft, tenzij hij het goed te kwader trouw heeft aangenomen, binnen de grenzen van de redelijkheid ook recht op vergoeding van de kosten van het ontvangen en teruggeven van het goed, alsmede van uitgaven in de in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2026-07-16&g=2026-07-16) bedoelde periode die zouden zijn uitgebleven als hij het goed niet had ontvangen.
-
-##### Artikel 208
-
-De ontvanger verliest zijn recht op de in de beide vorige artikelen bedoelde vergoedingen, indien de wederpartij afstand doet van haar recht op terugvordering en, voor zover nodig, het onverschuldigd betaalde ter bevrijding van deze vergoedingen op haar kosten aan de ontvanger overdraagt. De ontvanger is verplicht aan een zodanige overdracht mede te werken.
-
-##### Artikel 209
-
-Op de onbekwame die een onverschuldigde betaling heeft ontvangen, rusten de in deze afdeling omschreven verplichtingen slechts, voor zover het ontvangene hem tot werkelijk voordeel heeft gestrekt of in de macht van zijn wettelijke vertegenwoordiger is gekomen.
-
-##### Artikel 210
-
-1. Op de ongedaanmaking van prestaties die niet in het geven van een goed hebben bestaan, zijn de [artikelen 204-209](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
-
-2. Sluit de aard van de prestatie uit dat zij ongedaan wordt gemaakt, dan treedt, voor zover dit redelijk is, vergoeding van de waarde van de prestatie op het ogenblik van ontvangst daarvoor in de plaats, indien de ontvanger door de prestatie is verrijkt, indien het aan hem is toe te rekenen dat de prestatie is verricht, of indien hij erin had toegestemd een tegenprestatie te verrichten.
-
-##### Artikel 211
-
-1. Kan een prestatie die op grond van een nietige overeenkomst is verricht, naar haar aard niet ongedaan worden gemaakt en behoort zij ook niet in rechte op geld te worden gewaardeerd, dan is een tot ongedaanmaking van een tegenprestatie of tot vergoeding van de waarde daarvan strekkende vordering, voor zover deze deswege in strijd met redelijkheid en billijkheid zou zijn, eveneens uitgesloten.
-
-2. Is ingevolge het vorige lid terugvordering van een overgedragen goed uitgesloten, dan brengt de nietigheid van de overeenkomst niet de nietigheid van de overdracht mede.
-
-### Afdeling 1. Zaakwaarneming
-
-##### Artikel 212
-
-1. Hij die ongerechtvaardigd is verrijkt ten koste van een ander, is verplicht, voor zover dit redelijk is, diens schade te vergoeden tot het bedrag van zijn verrijking.
-
-2. Voor zover de verrijking is verminderd als gevolg van een omstandigheid die niet aan de verrijkte kan worden toegerekend, blijft zij buiten beschouwing.
-
-3. Is de verrijking verminderd in de periode waarin de verrijkte redelijkerwijze met een verplichting tot vergoeding van de schade geen rekening behoefde te houden, dan wordt hem dit niet toegerekend. Bij de vaststelling van deze vermindering wordt mede rekening gehouden met uitgaven die zonder de verrijking zouden zijn uitgebleven.
-
-## Titel 5. Overeenkomsten in het algemeen
-
-### Afdeling 3. Ongerechtvaardigde verrijking
-
-##### Artikel 213
-
-1. Een overeenkomst in de zin van deze titel is een meerzijdige rechtshandeling, waarbij een of meer partijen jegens een of meer andere een verbintenis aangaan.
-
-2. Op overeenkomsten tussen meer dan twee partijen zijn de wettelijke bepalingen betreffende overeenkomsten niet toepasselijk, voor zover de strekking van de betrokken bepalingen in verband met de aard van de overeenkomst zich daartegen verzet.
-
-##### Artikel 214
-
-1. Een overeenkomst door een der partijen gesloten in de uitoefening van haar bedrijf of beroep, is behalve aan de wettelijke bepalingen ook onderworpen aan een standaardregeling, wanneer voor de bedrijfstak waartoe het bedrijf behoort, of voor het beroep ten aanzien van zodanige overeenkomst een standaardregeling geldt. De bijzondere soorten van overeenkomsten waarvoor standaardregelingen kunnen worden vastgesteld en de bedrijfstak of het beroep, waarvoor elk dezer regelingen bestemd is te gelden, worden bij algemene maatregel van bestuur aangewezen.
-
-2. Een standaardregeling wordt vastgesteld, gewijzigd en ingetrokken door een daartoe door Onze Minister van Justitie te benoemen commissie. Bij de wet worden nadere regelen gesteld omtrent de wijze van samenstelling en de werkwijze van de commissies.
-
-3. De vaststelling, wijziging of intrekking van een standaardregeling wordt niet van kracht voordat zij door Ons is goedgekeurd en met Ons goedkeuringsbesluit in de **Nederlandse Staatscourant** is afgekondigd.
-
-4. Bij een standaardregeling kan worden afgeweken van wettelijke bepalingen, voor zover daarvan ook afwijking bij overeenkomst, al of niet met inachtneming van een bepaalde vorm, is toegelaten. De vorige zin lijdt uitzondering, wanneer uit een wettelijke bepaling iets anders voortvloeit.
-
-5. Partijen kunnen in hun overeenkomst van een standaardregeling afwijken. Een standaardregeling kan echter voor afwijking een bepaalde vorm voorschrijven.
-
-##### Artikel 215
-
-Voldoet een overeenkomst aan de omschrijving van twee of meer door de wet geregelde bijzondere soorten van overeenkomsten, dan zijn de voor elk van die soorten gegeven bepalingen naast elkaar op de overeenkomst van toepassing, behoudens voor zover deze bepalingen niet wel verenigbaar zijn of de strekking daarvan in verband met de aard van de overeenkomst zich tegen toepassing verzet.
-
-##### Artikel 216
-
-Hetgeen in deze en de volgende vijf afdelingen is bepaald, vindt overeenkomstige toepassing op andere meerzijdige vermogensrechtelijke rechtshandelingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de rechtshandeling zich daartegen niet verzet.
-
-### Afdeling 2. Het tot stand komen van overeenkomsten
-
-##### Artikel 217
-
-1. Een overeenkomst komt tot stand door een aanbod en de aanvaarding daarvan.
-
-2. De [artikelen 219-225](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=219&z=2026-07-16&g=2026-07-16) zijn van toepassing, tenzij iets anders voortvloeit uit het aanbod, uit een andere rechtshandeling of uit een gewoonte.
-
-##### Artikel 218
-
-Een aanbod is geldig, nietig of vernietigbaar overeenkomstig de regels voor meerzijdige rechtshandelingen.
-
-##### Artikel 219
-
-1. Een aanbod kan worden herroepen, tenzij het een termijn voor de aanvaarding inhoudt of de onherroepelijkheid ervan op andere wijze uit het aanbod volgt.
-
-2. De herroeping kan slechts geschieden, zolang het aanbod niet is aanvaard en evenmin een mededeling, houdende de aanvaarding is verzonden. Bevat het aanbod de mededeling dat het vrijblijvend wordt gedaan, dan kan de herroeping nog onverwijld na de aanvaarding geschieden.
-
-3. Een beding waarbij één der partijen zich verbindt om, indien de wederpartij dit wenst, met haar een bepaalde overeenkomst te sluiten, geldt als een onherroepelijk aanbod.
-
-##### Artikel 220
-
-1. Een bij wijze van uitloving voor een bepaalde tijd gedaan aanbod kan wegens gewichtige redenen worden herroepen of gewijzigd.
-
-2. In geval van herroeping of wijziging van een uitloving kan de rechter aan iemand die op grond van de uitloving met de voorbereiding van een gevraagde prestatie is begonnen, een billijke schadeloosstelling toekennen.
-
-##### Artikel 221
-
-1. Een mondeling aanbod vervalt, wanneer het niet onmiddellijk wordt aanvaard, een schriftelijk aanbod, wanneer het niet binnen een redelijke tijd wordt aanvaard.
-
-2. Een aanbod vervalt, doordat het wordt verworpen.
-
-##### Artikel 222
-
-Een aanbod vervalt niet door de dood of het verlies van handelingsbekwaamheid van een der partijen, noch doordat een der partijen de bevoegdheid tot het sluiten van de overeenkomst verliest als gevolg van een bewind.
-
-##### Artikel 223
-
-1. De aanbieder kan een te late aanvaarding toch als tijdig gedaan laten gelden, mits hij dit onverwijld aan de wederpartij mededeelt.
-
-2. Indien een aanvaarding te laat plaatsvindt, maar de aanbieder begrijpt of behoort te begrijpen dat dit voor de wederpartij niet duidelijk was, geldt de aanvaarding als tijdig gedaan, tenzij hij onverwijld aan de wederpartij mededeelt dat hij het aanbod als vervallen beschouwt.
-
-##### Artikel 224
-
-Indien een aanvaarding de aanbieder niet of niet tijdig bereikt door een omstandigheid op grond waarvan zij krachtens [artikel 37 lid 3, tweede zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=37) niettemin haar werking heeft, wordt de overeenkomst geacht tot stand te zijn gekomen op het tijdstip waarop zonder de storende omstandigheid de verklaring zou zijn ontvangen.
-
-##### Artikel 225
-
-1. Een aanvaarding die van het aanbod afwijkt, geldt als een nieuw aanbod en als een verwerping van het oorspronkelijke.
-
-2. Wijkt een tot aanvaarding strekkend antwoord op een aanbod daarvan slechts op ondergeschikte punten af, dan geldt dit antwoord als aanvaarding en komt de overeenkomst overeenkomstig deze aanvaarding tot stand, tenzij de aanbieder onverwijld bezwaar maakt tegen de verschillen.
-
-3. Verwijzen aanbod en aanvaarding naar verschillende algemene voorwaarden, dan komt aan de tweede verwijzing geen werking toe, wanneer daarbij niet tevens de toepasselijkheid van de in de eerste verwijzing aangegeven algemene voorwaarden uitdrukkelijk van de hand wordt gewezen.
-
-##### Artikel 226
-
-Stelt de wet voor de totstandkoming van een overeenkomst een vormvereiste, dan is dit voorschrift van overeenkomstige toepassing op een overeenkomst waarbij een partij in wier belang het strekt, zich tot het aangaan van een zodanige overeenkomst verbindt, tenzij uit de strekking van het voorschrift anders voortvloeit.
-
-##### Artikel 227
-
-De verbintenissen die partijen op zich nemen, moeten bepaalbaar zijn.
-
-##### Artikel 228
-
-1. Een overeenkomst die is tot stand gekomen onder invloed van dwaling en bij een juiste voorstelling van zaken niet zou zijn gesloten, is vernietigbaar:
-
-- a. indien de dwaling te wijten is aan een inlichting van de wederpartij, tenzij deze mocht aannemen dat de overeenkomst ook zonder deze inlichting zou worden gesloten;
-
-- b. indien de wederpartij in verband met hetgeen zij omtrent de dwaling wist of behoorde te weten, de dwalende had behoren in te lichten;
-
-- c. indien de wederpartij bij het sluiten van de overeenkomst van dezelfde onjuiste veronderstelling als de dwalende is uitgegaan, tenzij zij ook bij een juiste voorstelling van zaken niet had behoeven te begrijpen dat de dwalende daardoor van het sluiten van de overeenkomst zou worden afgehouden.
-
-2. De vernietiging kan niet worden gegrond op een dwaling die een uitsluitend toekomstige omstandigheid betreft of die in verband met de aard van de overeenkomst, de in het verkeer geldende opvattingen of de omstandigheden van het geval voor rekening van de dwalende behoort te blijven.
-
-##### Artikel 229
-
-Een overeenkomst die de strekking heeft voort te bouwen op een reeds tussen partijen bestaande rechtsverhouding, is vernietigbaar, indien deze rechtsverhouding ontbreekt, tenzij dit in verband met de aard van de overeenkomst, de in het verkeer geldende opvattingen of de omstandigheden van het geval voor rekening van degene die zich op dit ontbreken beroept, behoort te blijven.
-
-##### Artikel 230
-
-1. De bevoegdheid tot vernietiging op grond van de [artikelen 228](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=228&z=2026-07-16&g=2026-07-16) en [229](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=229&z=2026-07-16&g=2026-07-16) vervalt, wanneer de wederpartij tijdig een wijziging van de gevolgen van de overeenkomst voorstelt, die het nadeel dat de tot vernietiging bevoegde bij intstandhouding van de overeenkomst lijdt, op afdoende wijze opheft.
-
-2. Bovendien kan de rechter op verlangen van een der partijen, in plaats van de vernietiging uit te spreken, de gevolgen van de overeenkomst ter opheffing van dit nadeel wijzigen.
-
-### Afdeling 2. Het tot stand komen van overeenkomsten
-
-##### Artikel 231
-
-In deze afdeling wordt verstaan onder:
-
-- a. algemene voorwaarden: een of meer bedingen die zijn opgesteld teneinde in een aantal overeenkomsten te worden opgenomen, met uitzondering van bedingen die de kern van de prestaties aangeven, voor zover deze laatstgenoemde bedingen duidelijk en begrijpelijk zijn geformuleerd;
-
-- b. gebruiker: degene die algemene voorwaarden in een overeenkomst gebruikt;
-
-- c. wederpartij: degene die door ondertekening van een geschrift of op andere wijze de gelding van algemene voorwaarden heeft aanvaard.
-
-##### Artikel 232
-
-Een wederpartij is ook dan aan de algemene voorwaarden gebonden als bij het sluiten van de overeenkomst de gebruiker begreep of moest begrijpen dat zij de inhoud daarvan niet kende.
-
-##### Artikel 233
-
-Een beding in algemene voorwaarden is vernietigbaar
-
-- a. indien het, gelet op de aard en de overige inhoud van de overeenkomst, de wijze waarop de voorwaarden zijn tot stand gekomen, de wederzijds kenbare belangen van partijen en de overige omstandigheden van het geval, onredelijk bezwarend is voor de wederpartij; of
-
-- b. indien de gebruiker aan de wederpartij niet een redelijke mogelijkheid heeft geboden om van de algemene voorwaarden kennis te nemen.
-
-##### Artikel 234
-
-1. De gebruiker heeft aan de wederpartij de in [artikel 233 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld, de voorwaarden overeenkomstig de in [artikel 230c](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2a&artikel=230c&z=2026-07-16&g=2026-07-16) voorziene wijze heeft verstrekt of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.
-
-2. De gebruiker heeft tevens aan de wederpartij de in [artikel 233 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door haar kunnen worden opgeslagen en voor haar toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden.
-
-Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten langs elektronische weg of op andere wijze aan haar toezendt.
-
-3. Voor het op de in lid 2 bedoelde wijze bieden van een redelijke mogelijkheid om van de algemene voorwaarden kennis te nemen is de uitdrukkelijke instemming van de wederpartij vereist indien de overeenkomst niet langs elektronische weg tot stand komt.
-
-##### Artikel 235
-
-1. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2026-07-16&g=2026-07-16) kan geen beroep worden gedaan door
-
-- a. een rechtspersoon bedoeld in [artikel 360 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=360), die ten tijde van het sluiten van de overeenkomst laatstelijk zijn jaarrekening openbaar heeft gemaakt, of ten aanzien waarvan op dat tijdstip laatstelijk [artikel 403 lid 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) is toegepast;
-
-- b. een partij op wie het onder **a** bepaalde niet van toepassing is, indien op voormeld tijdstip bij haar vijftig of meer personen werkzaam zijn of op dat tijdstip uit een opgave krachtens de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) blijkt dat bij haar vijftig of meer personen werkzaam zijn.
-
-2. Op de vernietigingsgrond bedoeld in [artikel 233 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16), kan mede een beroep worden gedaan door een partij voor wie de algemene voorwaarden door een gevolmachtigde zijn gebruikt, mits de wederpartij meermalen overeenkomsten sluit waarop dezelfde of nagenoeg dezelfde algemene voorwaarden van toepassing zijn.
-
-3. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2026-07-16&g=2026-07-16), kan geen beroep worden gedaan door een partij die meermalen dezelfde of nagenoeg dezelfde algemene voorwaarden in haar overeenkomsten gebruikt.
-
-4. De termijn bedoeld in [artikel 52 lid 1 onder d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=52), begint met de aanvang van de dag, volgende op die waarop een beroep op het beding is gedaan.
-
-##### Artikel 236
-
-Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, wordt als onredelijk bezwarend aangemerkt een in de algemene voorwaarden voorkomend beding
-
-- a. dat de wederpartij geheel en onvoorwaardelijk het recht ontneemt de door de gebruiker toegezegde prestatie op te eisen;
-
-- b. dat de aan de wederpartij toekomende bevoegdheid tot ontbinding, zoals deze in [afdeling 5 van titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&z=2026-07-16&g=2026-07-16) is geregeld, uitsluit of beperkt;
-
-- c. dat een de wederpartij volgens de wet toekomende bevoegdheid tot opschorting van de nakoming uitsluit of beperkt of de gebruiker een verdergaande bevoegdheid tot opschorting verleent dan hem volgens de wet toekomt;
-
-- d. dat de beoordeling van de vraag of de gebruiker in de nakoming van een of meer van zijn verbintenissen is te kort geschoten aan hem zelf overlaat, of dat de uitoefening van de rechten die de wederpartij ter zake van een zodanige tekortkoming volgens de wet toekomen, afhankelijk stelt van de voorwaarde dat deze eerst een derde in rechte heeft aangesproken;
-
-- e. krachtens hetwelk de wederpartij aan de gebruiker bij voorbaat toestemming verleent zijn uit de overeenkomst voortvloeiende verplichtingen op een der in [afdeling 3 van titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&z=2026-07-16&g=2026-07-16) bedoelde wijzen op een derde te doen overgaan, tenzij de wederpartij te allen tijde de bevoegdheid heeft de overeenkomst te ontbinden, of de gebruiker jegens de wederpartij aansprakelijk is voor de nakoming door de derde, of de overgang plaatsvindt in verband met de overdracht van een onderneming waartoe zowel die verplichtingen als de daartegenover bedongen rechten behoren;
-
-- f. dat voor het geval uit de overeenkomst voor de gebruiker voortvloeiende rechten op een derde overgaan, ertoe strekt bevoegdheden of verweermiddelen die de wederpartij volgens de wet jegens die derde zou kunnen doen gelden, uit te sluiten of te beperken;
-
-- g. dat een wettelijke verjarings- of vervaltermijn waarbinnen de wederpartij enig recht moet geldend maken, tot een verjarings- onderscheidenlijk vervaltermijn van minder dan een jaar verkort;
-
-- h. dat voor het geval bij de uitvoering van de overeenkomst schade aan een derde wordt toegebracht door de gebruiker of door een persoon of zaak waarvoor deze aansprakelijk is, de wederpartij verplicht deze schade hetzij aan de derde te vergoeden, hetzij in haar verhouding tot de gebruiker voor een groter deel te dragen dan waartoe zij volgens de wet verplicht zou zijn;
-
-- i. dat de gebruiker de bevoegdheid geeft de door hem bedongen prijs binnen drie maanden na het sluiten van de overeenkomst te verhogen, tenzij de wederpartij bevoegd is in dat geval de overeenkomst te ontbinden;
-
-- j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elektriciteit, warmte en koude daaronder begrepen en dag-, nieuws- en weekbladen en tijdschriften niet daaronder begrepen, of tot het geregeld doen van verrichtingen, leidt tot stilzwijgende verlenging of vernieuwing in een overeenkomst voor bepaalde duur, dan wel tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;
-
-- k. dat de bevoegdheid van de wederpartij om bewijs te leveren uitsluit of beperkt, of dat de uit de wet voortvloeiende verdeling van de bewijslast ten nadele van de wederpartij wijzigt, hetzij doordat het een verklaring van haar bevat omtrent de deugdelijkheid van de haar verschuldigde prestatie, hetzij doordat het haar belast met het bewijs dat een tekortkoming van de gebruiker aan hem kan worden toegerekend;
-
-- l. dat ten nadele van de wederpartij afwijkt van [artikel 37 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=37), tenzij het betrekking heeft op de vorm van door de wederpartij af te leggen verklaringen of bepaalt dat de gebruiker het hem door de wederpartij opgegeven adres als zodanig mag blijven beschouwen totdat hem een nieuw adres is meegedeeld;
-
-- m. waarbij een wederpartij die bij het aangaan van de overeenkomst werkelijke woonplaats in een gemeente in Nederland heeft, woonplaats kiest anders dan voor het geval zij te eniger tijd geen bekende werkelijke woonplaats in die gemeente zal hebben, tenzij de overeenkomst betrekking heeft op een registergoed en woonplaats ten kantore van een notaris wordt gekozen;
-
-- n. dat voorziet in de beslechting van een geschil door een ander dan de rechter die volgens de wet bevoegd zou zijn, tenzij het de wederpartij een termijn gunt van tenminste een maand nadat de gebruiker zich schriftelijk jegens haar op het beding heeft beroepen, om voor beslechting van het geschil door de volgens de wet bevoegde rechter te kiezen;
-
-- o. dat de bevoegdheid van de wederpartij om de overeenkomst, die mondeling, schriftelijk of langs elektronische weg tot stand is gekomen, op een overeenkomstige wijze op te zeggen, uitsluit of beperkt;
-
-- p. dat in geval van een overeenkomst tot het geregeld afleveren van dag-, nieuws- en weekbladen en tijdschriften, leidt tot een stilzwijgende verlenging of vernieuwing van de overeenkomst met een duur die langer is dan drie maanden, dan wel tot een stilzwijgende verlenging of vernieuwing van de overeenkomst met een duur van ten hoogste drie maanden zonder dat de wederpartij de bevoegdheid heeft om de overeenkomst telkens tegen het einde van de duur van de verlenging of de vernieuwing op te zeggen met een opzegtermijn van ten hoogste een maand;
-
-- q. dat in geval van een overeenkomst tot het geregeld afleveren van dag-, nieuws- en weekbladen en tijdschriften, leidt tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand of, in geval de geregelde aflevering minder dan eenmaal per maand plaats heeft, met een opzegtermijn van ten hoogste drie maanden;
-
-- r. dat de wederpartij verplicht de verklaring tot opzegging van een overeenkomst als bedoeld onder j of p respectievelijk q te laten plaatsvinden op een bepaald moment;
-
-- s. dat in geval van een overeenkomst met beperkte duur tot het geregeld ter kennismaking afleveren van dag-, nieuws-, weekbladen en tijdschriften leidt tot voortzetting van de overeenkomst;
-
-- t. dat de geldigheidsduur van een cadeaubon beperkt tot minder dan twee jaar.
-
-##### Artikel 237
-
-Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, wordt vermoed onredelijk bezwarend te zijn een in de algemene voorwaarden voorkomend beding
-
-- a. dat de gebruiker een, gelet op de omstandigheden van het geval, ongebruikelijk lange of onvoldoende bepaalde termijn geeft om op een aanbod of een andere verklaring van de wederpartij te reageren;
-
-- b. dat de inhoud van de verplichtingen van de gebruiker wezenlijk beperkt ten opzichte van hetgeen de wederpartij, mede gelet op de wettelijke regels die op de overeenkomst betrekking hebben, zonder dat beding redelijkerwijs mocht verwachten;
-
-- c. dat de gebruiker de bevoegdheid verleent een prestatie te verschaffen die wezenlijk van de toegezegde prestatie afwijkt, tenzij de wederpartij bevoegd is in dat geval de overeenkomst te ontbinden;
-
-- d. dat de gebruiker van zijn gebondenheid aan de overeenkomst bevrijdt of hem de bevoegdheid daartoe geeft anders dan op in de overeenkomst vermelde gronden welke van dien aard zijn dat deze gebondenheid niet meer van hem kan worden gevergd;
-
-- e. dat de gebruiker een ongebruikelijk lange of onvoldoende bepaalde termijn voor de nakoming geeft;
-
-- f. dat de gebruiker of een derde geheel of ten dele bevrijdt van een wettelijke verplichting tot schadevergoeding;
-
-- g. dat een de wederpartij volgens de wet toekomende bevoegdheid tot verrekening uitsluit of beperkt of de gebruiker een verdergaande bevoegdheid tot verrekening verleent dan hem volgens de wet toekomt;
-
-- h. dat als sanctie op bepaalde gedragingen van de wederpartij, nalaten daaronder begrepen, verval stelt van haar toekomende rechten of van de bevoegdheid bepaalde verweren te voeren, behoudens voor zover deze gedragingen het verval van die rechten of verweren rechtvaardigen;
-
-- i. dat voor het geval de overeenkomst wordt beëindigd anders dan op grond van het feit dat de wederpartij in de nakoming van haar verbintenis is tekort geschoten, de wederpartij verplicht een geldsom te betalen, behoudens voor zover het betreft een redelijke vergoeding voor door de gebruiker geleden verlies of gederfde winst;
-
-- j. dat de wederpartij verplicht tot het sluiten van een overeenkomst met de gebruiker of met een derde, tenzij dit, mede gelet op het verband van die overeenkomst met de in dit artikel bedoelde overeenkomst, redelijkerwijze van de wederpartij kan worden gevergd;
-
-- k. dat voor een overeenkomst als bedoeld in [artikel 236 onder j of p respectievelijk q](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) een duur bepaalt van meer dan een jaar, tenzij de wederpartij na een jaar de bevoegdheid heeft de overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;
-
-- l. dat de wederpartij aan een opzegtermijn bindt die langer is dan de termijn waarop de gebruiker de overeenkomst kan opzeggen;
-
-- m. dat voor de geldigheid van een door de wederpartij te verrichten verklaring een strengere vorm dan het vereiste van een onderhandse akte stelt;
-
-- n. dat bepaalt dat een door de wederpartij verleende volmacht onherroepelijk is of niet eindigt door haar dood of ondercuratelestelling, tenzij de volmacht strekt tot levering van een registergoed;
-
-- o. dat de wederpartij bij overeenkomsten, niet zijnde verlengde, vernieuwde of voortgezette overeenkomsten als bedoeld in [artikel 236, onder j of p respectievelijk q](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16), aan een opzegtermijn bindt die langer is dan een maand.
-
-##### Artikel 238
-
-1. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16), kan jegens de wederpartij geen beroep worden gedaan
-
-- a. op het feit dat de overeenkomst in naam van een derde is gesloten, indien dit beroep berust op het enkele feit dat een beding van deze strekking in de algemene voorwaarden voorkomt;
-
-- b. op het feit dat de algemene voorwaarden beperkingen bevatten van de bevoegdheid van een gevolmachtigde van de gebruiker, die zo ongebruikelijk zijn dat de wederpartij ze zonder het beding niet behoefde te verwachten, tenzij zij ze kende.
-
-2. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16) moeten de bedingen duidelijk en begrijpelijk zijn opgesteld. Bij twijfel over de betekenis van een beding, prevaleert de voor de wederpartij gunstigste uitleg.
-
-##### Artikel 239
-
-1. Bij algemene maatregel van bestuur kunnen de [onderdelen **a-n** van artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16) worden gewijzigd en kan hun toepassingsgebied worden beperkt.
-
-2. Alvorens een voordracht tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het eerste lid te doen, kan Onze Minister van Justitie de naar zijn oordeel representatieve organisaties van hen die bij het sluiten van de overeenkomsten waarop de maatregel betrekking heeft, algemene voorwaarden plegen te gebruiken en van hen die bij die overeenkomsten als hun wederpartij plegen op te treden, horen.
-
-3. Een besluit als in het eerste lid bedoeld wordt zodra het is vastgesteld toegezonden aan de voorzitters van de beide Kamers van de Staten-Generaal. Een dergelijk besluit treedt niet in werking dan nadat twee maanden zijn verstreken sinds de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
-
-##### Artikel 240
-
-1. Op vordering van een rechtspersoon als bedoeld in lid 3 kunnen bepaalde bedingen in bepaalde algemene voorwaarden onredelijk bezwarend worden verklaard; de [artikelen 233 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16), [236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16) zijn van overeenkomstige toepassing. Voor de toepassing van de vorige zin wordt een beding in algemene voorwaarden dat in strijd is met een dwingende wetsbepaling, als onredelijk bezwarend aangemerkt. Bij de beoordeling van een beding blijft de uitlegregel van [artikel 238 lid 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=238&z=2026-07-16&g=2026-07-16), buiten toepassing.
-
-2. De vordering kan worden ingesteld tegen de gebruiker, alsmede tegen een rechtspersoon met volledige rechtsbevoegdheid die ten doel heeft de behartiging van de belangen van personen die een beroep of bedrijf uitoefenen, indien hij het gebruik van de algemene voorwaarden door die personen bevordert.
-
-3. De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben de behartiging van belangen van personen die een beroep of bedrijf uitoefenen of van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten. Zij kan slechts betrekking hebben op algemene voorwaarden die worden gebruikt of bestemd zijn te worden gebruikt in overeenkomsten met personen wier belangen door de rechtspersoon worden behartigd.
-
-4. De eiser is niet ontvankelijk indien niet blijkt dat hij, alvorens de vordering in te stellen, de gebruiker of, in het geval bedoeld in [artikel 1003 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1003), de aldaar bedoelde vereniging, de gelegenheid heeft geboden om in onderling overleg de algemene voorwaarden zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na de ontvangst van een verzoek tot overleg onder vermelding van de bezwaren, is daartoe in elk geval voldoende.
-
-5. Voor zover een rechtspersoon met het gebruik van bedingen in algemene voorwaarden heeft ingestemd, komt hem geen vordering als bedoeld in lid 1 toe.
-
-6. Met een rechtspersoon als bedoeld in lid 3 wordt gelijk gesteld een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 5, eerste lid, van [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van [Richtlijn 2009/22/EG](32009L0022) (PbEU 2020, L 409), mits de vordering betrekking heeft op algemene voorwaarden die worden gebruikt of bestemd zijn te worden gebruikt in overeenkomsten met personen die hun gewone verblijfplaats hebben in het land waar de organisatie of het openbaar lichaam gezeteld is, en de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.
-
-##### Artikel 241
-
-1. Het gerechtshof Den Haag is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.
-
-2. De in het vorige artikel bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=217) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); [artikel 379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
-
-3. Op vordering van de eiser kan aan de uitspraak worden verbonden
-
-- a. een verbod van het gebruik van de door de uitspraak getroffen bedingen of van het bevorderen daarvan;
-
-- b. een gebod om een aanbeveling tot het gebruik van deze bedingen te herroepen;
-
-- c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
-
-4. De rechter kan in zijn uitspraak aangeven op welke wijze het onredelijk bezwarend karakter van de bedingen waarop de uitspraak betrekking heeft, kan worden weggenomen.
-
-5. Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
-
-6. Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16), is de voorzieningenrechter van de rechtbank Den Haag bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=62), [116 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=116), [1003](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1003), [1005](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1005), [1006 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1006) zijn van overeenkomstige toepassing.
-
-##### Artikel 242
-
-1. Op vordering van een of meer van degenen tegen wie de in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) bedoelde uitspraak is gedaan, kan de rechter die uitspraak wijzigen of opheffen op grond dat zij tengevolge van een wijziging in de omstandigheden niet langer gerechtvaardigd is. De vordering wordt ingesteld tegen de rechtspersoon op wiens vordering de uitspraak was gedaan.
-
-2. Indien de rechtspersoon op wiens vordering de uitspraak was gedaan, is ontbonden, wordt de zaak met een verzoekschrift ingeleid. Voor de toepassing van [artikel 279 lid 1 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=279) worden rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) als belanghebbenden aangemerkt.
-
-3. [Artikel 241 leden 1, 2, 3 onder **c** en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
-
-4. De vorige leden zijn niet van toepassing voor zover de uitspraak betrekking had op een beding dat door de wet als onredelijk bezwarend wordt aangemerkt.
-
-##### Artikel 243
-
-Een beding in algemene voorwaarden dat door degene jegens wie een verbod tot gebruik ervan is uitgesproken, in strijd met het verbod in een overeenkomst wordt opgenomen, is vernietigbaar. [Artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=235&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
-
-##### Artikel 244
-
-1. Een persoon die handelt in de uitoefening van een beroep of bedrijf, kan geen beroep doen op een beding in een overeenkomst met een partij die terzake van de goederen of diensten waarop die overeenkomst betrekking heeft, met gebruikmaking van algemene voorwaarden overeenkomsten met haar afnemers heeft gesloten, voor zover een beroep op dat beding onredelijk zou zijn wegens zijn nauwe samenhang met een in de algemene voorwaarden voorkomend beding dat krachtens deze afdeling is vernietigd of door een uitspraak als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) is getroffen.
-
-2. Is tegen de gebruiker een vordering als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) ingesteld, dan is hij bevoegd die persoon in het geding te roepen teneinde voor recht te horen verklaren dat een beroep als bedoeld in het vorige lid onredelijk zou zijn. [Artikel 241 leden 2, 3 onder **c**, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2026-07-16&g=2026-07-16) alsmede de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=210), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=211) en [215 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=215) zijn van overeenkomstige toepassing.
-
-3. Op de uitspraak is [artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=242&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
-
-4. Op eerdere overeenkomsten met betrekking tot de voormelde goederen en diensten zijn de leden 1-3 van overeenkomstige toepassing.
-
-##### Artikel 245
-
-Deze afdeling is noch van toepassing op arbeidsovereenkomsten, noch op collectieve arbeidsovereenkomsten.
-
-##### Artikel 246
-
-Noch van de [artikelen 231-244](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2026-07-16&g=2026-07-16), noch van de bepalingen van de in [artikel 239 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=239&z=2026-07-16&g=2026-07-16) bedoelde algemene maatregelen van bestuur kan worden afgeweken. De bevoegdheid om een beding krachtens deze afdeling door een buitengerechtelijke verklaring te vernietigen, kan niet worden uitgesloten.
-
-##### Artikel 247
-
-1. Op overeenkomsten tussen partijen die handelen in de uitoefening van een beroep of bedrijf en die beide in Nederland gevestigd zijn, is deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.
-
-2. Op overeenkomsten tussen partijen die handelen in de uitoefening van een beroep of bedrijf en die niet beide in Nederland gevestigd zijn, is deze afdeling niet van toepassing, ongeacht het recht dat de overeenkomst beheerst.
-
-3. Een partij is in de zin van de leden 1 en 2 in Nederland gevestigd, indien haar hoofdvestiging, of, zo de prestatie volgens de overeenkomst door een andere vestiging dan de hoofdvestiging moet worden verricht, deze andere vestiging zich in Nederland bevindt.
-
-4. Op overeenkomsten tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, is, indien de wederpartij haar gewone verblijfplaats in Nederland heeft, deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.
-
-### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
-
-##### Artikel 248
-
-1. Een overeenkomst heeft niet alleen de door partijen overeengekomen rechtsgevolgen, maar ook die welke, naar de aard van de overeenkomst, uit de wet, de gewoonte of de eisen van redelijkheid en billijkheid voortvloeien.
-
-2. Een tussen partijen als gevolg van de overeenkomst geldende regel is niet van toepassing, voor zover dit in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn.
-
-##### Artikel 249
-
-De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden onder algemene titel, tenzij uit de overeenkomst iets anders voortvloeit. In het geval van verdeling van een nalatenschap ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) gelden de rechtsgevolgen van de overeenkomst niet mede voor de kinderen van de erflater, tenzij uit de overeenkomst anders voortvloeit.
-
-##### Artikel 250
-
-Bij overeenkomst kan worden afgeweken van de volgende artikelen van deze afdeling, met uitzondering van de [artikelen 251 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=251&z=2026-07-16&g=2026-07-16), [252 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2026-07-16&g=2026-07-16) voor zover het de eis van een notariële akte betreft, en lid 3, [253 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=253&z=2026-07-16&g=2026-07-16), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=257&z=2026-07-16&g=2026-07-16), [258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2026-07-16&g=2026-07-16), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2026-07-16&g=2026-07-16) en [260](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=260&z=2026-07-16&g=2026-07-16).
-
-##### Artikel 251
-
-1. Staat een uit een overeenkomst voortvloeiende, voor overgang vatbaar recht in een zodanig verband met een aan de schuldeiser toebehorend goed, dat hij bij dat recht slechts belang heeft, zolang hij het goed behoudt, dan gaat dat recht over op degene die dat goed onder bijzondere titel verkrijgt.
-
-2. Is voor het recht een tegenprestatie overeengekomen, dan gaat de verplichting tot het verrichten van die tegenprestatie mede over, voor zover deze betrekking heeft op de periode na de overgang. De vervreemder blijft naast de verkrijger jegens de wederpartij aansprakelijk, behoudens voor zover deze zich na de overgang in geval van uitblijven van de tegenprestatie van haar verbintenis kan bevrijden door ontbinding of beëindiging van de overeenkomst.
-
-3. Het in de vorige leden bepaalde geldt niet, indien de verkrijger van het goed tot de wederpartij bij de overeenkomst een verklaring richt dat hij de overgang van het recht niet aanvaardt.
-
-4. Uit de rechtshandeling waarbij het goed wordt overgedragen, kan voortvloeien dat geen overgang plaatsvindt.
-
-##### Artikel 252
-
-1. Bij een overeenkomst kan worden bedongen dat de verplichting van een der partijen om iets te dulden of niet te doen ten aanzien van een haar toebehorend registergoed, zal overgaan op degenen die het goed onder bijzondere titel zullen verkrijgen, en dat mede gebonden zullen zijn degenen die van de rechthebbende een recht tot gebruik van het goed zullen verkrijgen.
-
-2. Voor de werking van het in lid 1 bedoelde beding is vereist dat van de overeenkomst tussen partijen een notariële akte wordt opgemaakt, gevolgd door inschrijving daarvan in de openbare registers. Degene jegens wie de verplichting bestaat, waarop het beding betrekking heeft, moet in de akte ter zake van de inschrijving woonplaats kiezen in Nederland.
-
-3. Ook na inschrijving heeft het beding geen werking:
-
-- a. jegens hen die voor de inschrijving onder bijzondere titel een recht op het goed of tot gebruik van het goed hebben verkregen;
-
-- b. jegens een beslaglegger op het goed of een recht daarop, indien de inschrijving op het tijdstip van de inschrijving van het proces-verbaal van inbeslagneming nog niet had plaats gevonden;
-
-- c. jegens hen die hun recht hebben verkregen van iemand die ingevolge het onder **a** of **b** bepaalde niet aan de bedongen verplichting gebonden was.
-
-4. Is voor de verplichting een tegenprestatie overeengekomen, dan gaat bij de overgang van de verplichting het recht op de tegenprestatie mee over, voor zover deze betrekking heeft op de periode na de overgang en ook het beding omtrent deze tegenprestatie in de registers ingeschreven is.
-
-5. Dit artikel is niet van toepassing op verplichtingen die een rechthebbende beperken in zijn bevoegdheid het goed te vervreemden of te bezwaren.
-
-##### Artikel 253
-
-1. Een overeenkomst schept voor een derde het recht een prestatie van een der partijen te vorderen of op andere wijze jegens een van hen een beroep op de overeenkomst te doen, indien de overeenkomst een beding van die strekking inhoudt en de derde dit beding aanvaardt.
-
-2. Tot de aanvaarding kan het beding door degene die het heeft gemaakt, worden herroepen.
-
-3. Een aanvaarding of herroeping van het beding geschiedt door een verklaring, gericht tot een van de beide andere betrokkenen.
-
-4. Is het beding onherroepelijk en jegens de derde om niet gemaakt, dan geldt het als aanvaard, indien het ter kennis van de derde is gekomen en door deze niet onverwijld is afgewezen.
-
-##### Artikel 254
-
-1. Nadat de derde het beding heeft aanvaard, geldt hij als partij bij de overeenkomst.
-
-2. Hij kan, indien dit met de strekking van het beding in overeenstemming is, daaraan ook rechten ontlenen over de periode vóór de aanvaarding.
-
-##### Artikel 255
-
-1. Heeft een beding ten behoeve van een derde ten opzichte van die derde geen gevolg, dan kan degene die het beding heeft gemaakt, hetzij zichzelf, hetzij een andere derde als rechthebbende aanwijzen.
-
-2. Hij wordt geacht zichzelf als rechthebbende te hebben aangewezen, wanneer hem door degene van wie de prestatie is bedongen, een redelijke termijn voor de aanwijzing is gesteld en hij binnen deze termijn geen aanwijzing heeft uitgebracht.
-
-##### Artikel 256
-
-De partij die een beding ten behoeve van een derde heeft gemaakt, kan nakoming jegens de derde vorderen, tenzij deze zich daartegen verzet.
-
-##### Artikel 257
-
-Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor een gedraging van een aan haar ondergeschikte aan de overeenkomst een verweermiddel jegens haar wederpartij ontlenen, dan kan ook de ondergeschikte, indien hij op grond van deze gedraging door de wederpartij wordt aangesproken, dit verweermiddel inroepen, als ware hijzelf bij de overeenkomst partij.
-
-##### Artikel 258
-
-1. De rechter kan op vordering van een der partijen de gevolgen van een overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden op grond van onvoorziene omstandigheden welke van dien aard zijn dat de wederpartij naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de overeenkomst niet mag verwachten. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
-
-2. Een wijziging of ontbinding wordt niet uitgesproken, voor zover de omstandigheden krachtens de aard van de overeenkomst of de in het verkeer geldende opvattingen voor rekening komen van degene die zich erop beroept.
-
-3. Voor de toepassing van dit artikel staat degene op wie een recht of een verplichting uit een overeenkomst is overgegaan, met een partij bij die overeenkomst gelijk.
-
-##### Artikel 259
-
-1. Indien een overeenkomst ertoe strekt een rechthebbende op of een gebruiker van een registergoed als zodanig te verplichten tot een prestatie die niet bestaat in of gepaard gaat met het dulden van voortdurend houderschap, kan de rechter op zijn vordering de gevolgen van de overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden:
-
-- a. indien ten minste tien jaren na het sluiten van de overeenkomst zijn verlopen en het ongewijzigd voortduren van de verplichting in strijd is met het algemeen belang;
-
-- b. indien de schuldeiser bij de nakoming van de verplichting geen redelijk belang meer heeft en het niet aannemelijk is dat dit belang zal terugkeren.
-
-2. Voor de termijn vermeld in lid 1 onder **a** telt mee de gehele periode waarin rechthebbende op of gebruikers van het goed aan een beding van dezelfde strekking gebonden zijn geweest. De termijn geldt niet, voor zover de strijd met het algemeen belang hierin bestaat dat het beding een beletsel vormt voor verwerkelijking van een geldend omgevingsplan.
-
-##### Artikel 260
-
-1. Een wijziging of ontbinding als bedoeld in de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2026-07-16&g=2026-07-16) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2026-07-16&g=2026-07-16) kan worden uitgesproken onder door de rechter te stellen voorwaarden.
-
-2. Indien hij op grond van die artikelen de overeenkomst wijzigt of gedeeltelijk ontbindt, kan hij bepalen dat een of meer der partijen de overeenkomst binnen een bij de uitspraak vast te stellen termijn door een schriftelijke verklaring geheel zal kunnen ontbinden. De wijziging of gedeeltelijke ontbinding treedt niet in, voordat deze termijn is verstreken.
-
-3. Is de overeenkomst die op grond van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2026-07-16&g=2026-07-16) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2026-07-16&g=2026-07-16) wordt gewijzigd of geheel of gedeeltelijk ontbonden, ingeschreven in de openbare registers, dan kan ook de uitspraak waarbij de wijziging of ontbinding plaatsvond, daarin worden ingeschreven, mits deze uitspraak in kracht van gewijsde is gegaan of uitvoerbaar bij voorraad is.
-
-4. Wordt iemand te dier zake gedagvaard aan zijn overeenkomstig [artikel 252 lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2026-07-16&g=2026-07-16), gekozen woonplaats, dan zijn daarmee tevens gedagvaard al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. [Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=29) zijn van overeenkomstige toepassing.
-
-5. Andere rechtsfeiten die een ingeschreven overeenkomst wijzigen of beëindigen, zijn eveneens inschrijfbaar, voor zover het rechterlijke uitspraken betreft mits zij in kracht van gewijsde zijn gegaan of uitvoerbaar bij voorraad zijn.
-
-### Afdeling 5. Wederkerige overeenkomsten
-
-##### Artikel 261
-
-1. Een overeenkomst is wederkerig, indien elk van beide partijen een verbintenis op zich neemt ter verkrijging van de prestatie waartoe de wederpartij zich daartegenover jegens haar verbindt.
-
-2. De bepalingen omtrent wederkerige overeenkomsten zijn van overeenkomstige toepassing op andere rechtsbetrekkingen die strekken tot het wederzijds verrichten van prestaties, voor zover de aard van die rechtsbetrekkingen zich daartegen niet verzet.
-
-##### Artikel 262
-
-1. Komt een der partijen haar verbintenis niet na, dan is de wederpartij bevoegd de nakoming van haar daartegenover staande verplichtingen op te schorten.
-
-2. In geval van gedeeltelijke of niet behoorlijke nakoming is opschorting slechts toegelaten, voor zover de tekortkoming haar rechtvaardigt.
-
-##### Artikel 263
-
-1. De partij die verplicht is het eerst te presteren, is niettemin bevoegd de nakoming van haar verbintenis op te schorten, indien na het sluiten van de overeenkomst te harer kennis gekomen omstandigheden haar goede grond geven te vrezen dat de wederpartij haar daartegenover staande verplichtingen niet zal nakomen.
-
-2. In geval er goede grond bestaat te vrezen dat slechts gedeeltelijk of niet behoorlijk zal worden nagekomen, is de opschorting slechts toegelaten voor zover de tekortkoming haar rechtvaardigt.
-
-##### Artikel 264
-
-In geval van opschorting op grond van de [artikelen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=262&z=2026-07-16&g=2026-07-16) en [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=263&z=2026-07-16&g=2026-07-16) zijn de [artikelen 54 onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=54&z=2026-07-16&g=2026-07-16) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=55&z=2026-07-16&g=2026-07-16) niet van toepassing.
-
-##### Artikel 265
-
-1. Iedere tekortkoming van een partij in de nakoming van een van haar verbintenissen geeft aan de wederpartij de bevoegdheid om de overeenkomst geheel of gedeeltelijk te ontbinden, tenzij de tekortkoming, gezien haar bijzondere aard of geringe betekenis, deze ontbinding met haar gevolgen niet rechtvaardigt.
-
-2. Voor zover nakoming niet blijvend of tijdelijk onmogelijk is, ontstaat de bevoegdheid tot ontbinding pas, wanneer de schuldenaar in verzuim is.
-
-##### Artikel 266
-
-1. Geen ontbinding kan worden gegrond op een tekortkoming in de nakoming van een verbintenis ten aanzien waarvan de schuldeiser zelf in verzuim is.
-
-2. Wordt echter tijdens het verzuim van de schuldeiser behoorlijke nakoming geheel of gedeeltelijk onmogelijk, dan kan de overeenkomst ontbonden worden, indien door schuld van de schuldenaar of zijn ondergeschikte is tekortgeschoten in de zorg die in de gegeven omstandigheden van hem mocht worden gevergd.
-
-##### Artikel 267
-
-1. De ontbinding vindt plaats door een schriftelijke verklaring van de daartoe gerechtigde. Indien de overeenkomst langs elektronische weg is totstandgekomen, kan deze tevens door een langs elektronische weg uitgebrachte verklaring worden ontbonden. [Artikel 227a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=227a&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
-
-2. Zij kan ook op zijn vordering door de rechter worden uitgesproken.
-
-##### Artikel 268
-
-De bevoegdheid tot buitengerechtelijke ontbinding vervalt door verjaring van de rechtsvordering tot ontbinding. De verjaring staat niet in de weg aan gerechtelijke of buitengerechtelijke ontbinding ter afwering van een op de overeenkomst steunende rechtsvordering of andere rechtsmaatregel.
-
-##### Artikel 269
-
-De ontbinding heeft geen terugwerkende kracht, behoudens dat een aanbod tot nakoming, gedaan nadat de ontbinding is gevorderd, geen werking heeft, indien de ontbinding wordt uitgesproken.
-
-##### Artikel 270
-
-Een gedeeltelijke ontbinding houdt een evenredige vermindering in van de wederzijdse prestaties in hoeveelheid of hoedanigheid.
-
-##### Artikel 271
-
-Een ontbinding bevrijdt de partijen van de daardoor getroffen verbintenissen. Voor zover deze reeds zijn nagekomen, blijft de rechtsgrond voor deze nakoming in stand, maar ontstaat voor partijen een verbintenis tot ongedaanmaking van de reeds door hen ontvangen prestaties.
-
-##### Artikel 272
-
-1. Sluit de aard van de prestatie uit dat zij ongedaan wordt gemaakt, dan treedt daarvoor een vergoeding in de plaats ten belope van haar waarde op het tijdstip van de ontvangst.
-
-2. Heeft de prestatie niet aan de verbintenis beantwoord, dan wordt deze vergoeding beperkt tot het bedrag van de waarde die de prestatie voor de ontvanger op dit tijdstip in de gegeven omstandigheden werkelijk heeft gehad.
-
-##### Artikel 273
-
-Een partij die een prestatie heeft ontvangen, is vanaf het tijdstip dat zij redelijkerwijze met een ontbinding rekening moet houden, verplicht er als een zorgvuldig schuldenaar zorg voor te dragen dat de ingevolge die ontbinding verschuldigde ongedaanmaking van de prestatie mogelijk zal zijn. [Artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
-
-##### Artikel 274
-
-Heeft een partij in weerwil van een dreigende ontbinding te kwader trouw een prestatie ontvangen, dan wordt zij na de ontbinding geacht vanaf de ontvangst van de prestatie in verzuim geweest te zijn.
-
-##### Artikel 275
-
-De [artikelen 120-124 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=120) zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.
-
-##### Artikel 276
-
-Op de onbekwame die een prestatie heeft ontvangen, rusten de in deze afdeling omschreven verplichtingen slechts, voor zover het ontvangene hem tot werkelijk voordeel heeft gestrekt of in de macht van zijn wettelijke vertegenwoordiger is gekomen.
-
-##### Artikel 277
-
-1. Wordt een overeenkomst geheel of gedeeltelijk ontbonden, dan is de partij wier tekortkoming een grond voor ontbinding heeft opgeleverd, verplicht haar wederpartij de schade te vergoeden die deze lijdt, doordat geen wederzijdse nakoming doch ontbinding van de overeenkomst plaatsvindt.
-
-2. Indien de tekortkoming niet aan de schuldenaar kan worden toegerekend, is het vorige lid slechts van toepassing binnen de grenzen van het in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2026-07-16&g=2026-07-16) bepaalde.
-
-##### Artikel 278
-
-1. De partij die ontbinding kiest van een reeds uitgevoerde overeenkomst, nadat de verhouding in waarde tussen hetgeen wederzijds bij ongedaanmaking zou moeten worden verricht, zich te haren gunste heeft gewijzigd, is verplicht door bijbetaling de oorspronkelijke waardeverhouding te herstellen, indien aannemelijk is dat zij zonder deze wijziging geen ontbinding zou hebben gekozen.
-
-2. Het vorige lid is van overeenkomstige toepassing ingeval de partij te wier gunste de wijziging is ingetreden, op andere grond dan ontbinding de stoot tot ongedaanmaking geeft en aannemelijk is dat zij daartoe zonder deze wijziging niet zou zijn overgegaan.
-
-##### Artikel 279
-
-1. Op overeenkomsten waaruit tussen meer dan twee partijen verbintenissen voortvloeien, vinden de bepalingen betreffende wederkerige overeenkomsten met inachtneming van de volgende leden overeenkomstige toepassing, voor zover de aard van de overeenkomst zich daartegen niet verzet.
-
-2. De partij die een verbintenis op zich heeft genomen ter verkrijging van een daartegenover van een of meer der andere partijen bedongen prestatie, kan haar recht op ontbinding gronden op een tekortkoming in de nakoming van de verbintenis jegens haarzelf.
-
-3. Schiet een partij met samenhangende rechten en verplichtingen zelf tekort in de nakoming van haar verbintenis, dan kunnen in ieder geval de overige partijen gezamenlijk de overeenkomst ontbinden.
-
-##### Artikel 119a
-
-1. De schadevergoeding, verschuldigd wegens vertraging in de voldoening van een geldsom, bestaat in het geval van een handelsovereenkomst in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als de uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder handelsovereenkomst wordt verstaan de overeenkomst om baat die een of meer van de partijen verplicht iets te geven of te doen en die tot stand is gekomen tussen een of meer natuurlijke personen die handelen in de uitoefening van een beroep of bedrijf of rechtspersonen.
-
-2. Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd:
-
-- a. vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of
-
-- b. indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of
-
-- c. indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.
-
-3. Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
-
-4. De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn overeenkomen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
-
-- a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;
-
-- b. de aard van de prestatie; en
-
-- c. elke aanmerkelijke afwijking van goede handelspraktijken.
-
-5. Partijen kunnen een uiterste dag van betaling overeenkomen van ten hoogste 60 dagen, tenzij zij uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
-
-- a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 60 dagen termijn;
-
-- b. de aard van de prestatie; en
-
-- c. elke aanmerkelijke afwijking van goede handelspraktijken.
-
-6. In afwijking van lid 5 kunnen partijen geen uiterste dag van betaling overeenkomen van meer dan 30 dagen indien de schuldenaar een rechtspersoon is die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397, leden 1 en 2 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397), en de schuldeiser een natuurlijk persoon is die handelt in de uitoefening van een beroep of bedrijf of een rechtspersoon, die gedurende die periode aan ten minste twee van die vereisten heeft voldaan. Een beding in een overeenkomst in strijd met de vorige zin is nietig.
-
-7. Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
-
-8. De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
-
-9. Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
-
-### Afdeling 12. Verrekening
-
-## Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
-
-### Afdeling 1. Gevolgen van overgang van vorderingen
-
-### Afdeling 2. Subrogatie
-
-### Afdeling 3. Schuld- en contractsoverneming
-
-### Afdeling 4. Afstand en vermenging
-
-## Titel 3. Onrechtmatige daad
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Aansprakelijkheid voor personen en zaken
-
-### Afdeling 3. Produktenaansprakelijkheid
-
-### Afdeling 3A. Oneerlijke handelspraktijken
-
-### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
-
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
-
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
-
-### Afdeling 2. Onverschuldigde betaling
-
-### Afdeling 4. Misleidende en vergelijkende reclame
-
-## Titel 5. Overeenkomsten in het algemeen
-
-### Afdeling 3. Ongerechtvaardigde verrijking
-
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
-
-### Afdeling 2. Het tot stand komen van overeenkomsten
-
-### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
-
-### Afdeling 5. Wederkerige overeenkomsten
-
-##### Artikel 196b
-
-Vervallen
-
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
-
-### Afdeling 1. Zaakwaarneming
-
-### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
-
-## Titel 5. Overeenkomsten in het algemeen
-
-### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
-
-### Afdeling 2. Het tot stand komen van overeenkomsten
-
-### Afdeling 3. Algemene voorwaarden
-
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
-
-### Afdeling 5. Wederkerige overeenkomsten
-
-##### Artikel 196c
-
-Vervallen
-
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
-
-### Afdeling 4. Misleidende en vergelijkende reclame
-
-### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
-
-## Titel 5. Overeenkomsten in het algemeen
-
-### Afdeling 2. Onverschuldigde betaling
-
-### Afdeling 1. Zaakwaarneming
-
-##### Artikel 227a
-
-1. Indien uit de wet voortvloeit dat een overeenkomst slechts in schriftelijke vorm geldig of onaantastbaar tot stand komt, is aan deze eis tevens voldaan indien de overeenkomst langs elektronische weg is totstandgekomen en
-
-- a. raadpleegbaar door partijen is;
-
-- b. de authenticiteit van de overeenkomst in voldoende mate gewaarborgd is;
-
-- c. het moment van totstandkoming van de overeenkomst met voldoende zekerheid kan worden vastgesteld; en
-
-- d. de identiteit van de partijen met voldoende zekerheid kan worden vastgesteld.
-
-2. Lid 1 is niet van toepassing op overeenkomsten waarvoor de wet de tussenkomst voorschrijft van de rechter, een overheidsorgaan of een beroepsbeoefenaar die een publieke taak uitoefent.
-
-##### Artikel 227b
-
-1. Voordat een overeenkomst langs elektronische weg tot stand komt verstrekt degene die een dienst van de informatiemaatschappij verleent als bedoeld in [artikel 15d lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d) de wederpartij ten minste op duidelijke, begrijpelijke en ondubbelzinnige wijze informatie over:
-
-- a. de wijze waarop de overeenkomst tot stand zal komen en in het bijzonder welke handelingen daarvoor nodig zijn;
-
-- b. het al dan niet archiveren van de overeenkomst nadat deze tot stand zal zijn gekomen, alsmede, indien de overeenkomst wordt gearchiveerd, op welke wijze deze voor de wederpartij te raadplegen zal zijn;
-
-- c. de wijze waarop de wederpartij van door hem niet gewilde handelingen op de hoogte kan geraken, alsmede de wijze waarop hij deze kan herstellen voordat de overeenkomst tot stand komt;
-
-- d. de talen waarin de overeenkomst kan worden gesloten;
-
-- e. de gedragscodes waaraan hij zich heeft onderworpen en de wijze waarop deze gedragscodes voor de wederpartij langs elektronische weg te raadplegen zijn.
-
-2. De dienstverlener stelt voor of bij het sluiten van de overeenkomst de voorwaarden daarvan, niet zijnde algemene voorwaarden als bedoeld in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2026-07-16&g=2026-07-16), op zodanige wijze aan de wederpartij ter beschikking, dat deze door hem kunnen worden opgeslagen zodat deze voor hem toegankelijk zijn ten behoeve van latere kennisneming.
-
-3. Lid 1 is niet van toepassing op overeenkomsten die uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand zijn gekomen.
-
-4. Een overeenkomst die tot stand is gekomen onder invloed van het niet naleven door de dienstverlener van zijn in lid 1, aanhef en onder a, c of d, genoemde verplichtingen, is vernietigbaar. Indien de dienstverlener zijn in lid 1, aanhef en onder a of c genoemde verplichting niet is nagekomen, wordt vermoed dat een overeenkomst onder invloed daarvan tot stand is gekomen.
-
-5. Gedurende de tijd dat de dienstverlener de informatie, bedoeld in lid 1, onder b en e en lid 2, niet heeft verstrekt, kan de wederpartij de overeenkomst ontbinden.
-
-6. Tussen partijen die handelen in de uitoefening van een beroep of bedrijf kan van lid 1 worden afgeweken.
-
-##### Artikel 227c
-
-1. Degene die een dienst van de informatiemaatschappij als bedoeld in [artikel 15d lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d) verleent, stelt de wederpartij passende, doeltreffende en toegankelijke middelen ter beschikking waarmee de wederpartij voor de aanvaarding van de overeenkomst van door hem niet gewilde handelingen op de hoogte kan geraken en waarmee hij deze kan herstellen.
-
-2. Indien een wederpartij van een dienstverlener langs elektronische weg een verklaring uitbrengt die door de dienstverlener mag worden opgevat hetzij als een aanvaarding van een door hem langs elektronische weg gedaan aanbod, hetzij als een aanbod naar aanleiding van een door hem langs elektronische weg gedane uitnodiging om in onderhandeling te treden, bevestigt de dienstverlener zo spoedig mogelijk langs elektronische weg de ontvangst van deze verklaring. Zolang de ontvangst van een aanvaarding niet is bevestigd, kan de wederpartij de overeenkomst ontbinden. Het niet tijdig bevestigen van de ontvangst van een aanbod geldt als verwerping daarvan.
-
-3. Een verklaring als bedoeld in lid 2 en de ontvangstbevestiging worden geacht te zijn ontvangen, wanneer deze toegankelijk zijn voor de partijen tot wie zij zijn gericht.
-
-4. De leden 1 en 2 zijn niet van toepassing indien de overeenkomst uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand komt.
-
-5. Een overeenkomst die tot stand is gekomen onder invloed van het niet naleven door de dienstverlener van zijn in lid 1 genoemde verplichting, is vernietigbaar. Indien de dienstverlener zijn in lid 1 genoemde verplichting niet is nagekomen, wordt vermoed dat een overeenkomst onder invloed daarvan tot stand is gekomen.
-
-6. Van dit artikel kan slechts worden afgeweken tussen partijen die handelen in de uitoefening van een beroep of bedrijf.
-
-### Afdeling 3. Algemene voorwaarden
-
-### Afdeling 3. Algemene voorwaarden
-
-### Afdeling 5. Wederkerige overeenkomsten
+#### Afdeling 3A. Oneerlijke handelspraktijken
 
 ##### Artikel 193a
 
@@ -2244,7 +1444,7 @@ Vervallen
 
 - b. handelaar: natuurlijk persoon of rechtspersoon die handelt in de uitoefening van een beroep of bedrijf of degene die ten behoeve van hem handelt;
 
-- c. **product:** goed of dienst, met inbegrip van elektriciteit, digitale diensten en digitale inhoud;
+- c. *product:* goed of dienst, met inbegrip van elektriciteit, digitale diensten en digitale inhoud;
 
 - d. handelspraktijk: iedere handeling, omissie, gedraging, voorstelling van zaken of commerciële communicatie, met inbegrip van reclame en marketing, van een handelaar, die rechtstreeks verband houdt met de verkoopbevordering, verkoop of levering van een product aan consumenten;
 
@@ -2262,45 +1462,45 @@ Vervallen
 
 - k. richtlijn: richtlijn nr. 2005/29/EG van het Europees Parlement en de Raad van de Europese Unie van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt (PbEG L 149);
 
-- l. **rangschikking:** het relatieve belang dat wordt gegeven aan producten zoals gepresenteerd, georganiseerd of meegedeeld door de handelaar, ongeacht de voor die presentatie, organisatie of mededeling gebruikte technologische middelen;
+- l. *rangschikking:* het relatieve belang dat wordt gegeven aan producten zoals gepresenteerd, georganiseerd of meegedeeld door de handelaar, ongeacht de voor die presentatie, organisatie of mededeling gebruikte technologische middelen;
 
-- m. **onlinemarktplaats:** dienst die gebruikmaakt van software, waaronder een website, een deel van een website of een door of namens een handelaar beheerde applicatie, die consumenten in staat stelt een overeenkomst op afstand te sluiten met andere handelaren of consumenten;
+- m. *onlinemarktplaats:* dienst die gebruikmaakt van software, waaronder een website, een deel van een website of een door of namens een handelaar beheerde applicatie, die consumenten in staat stelt een overeenkomst op afstand te sluiten met andere handelaren of consumenten;
 
-- n. **zaak met digitale elementen:** een roerende zaak waarin digitale inhoud of een digitale dienst is verwerkt of die daarmee onderling verbonden is, op zodanige wijze dat het ontbreken daarvan ertoe zou leiden dat de zaak zijn functies niet kan vervullen;
+- n. *zaak met digitale elementen:* een roerende zaak waarin digitale inhoud of een digitale dienst is verwerkt of die daarmee onderling verbonden is, op zodanige wijze dat het ontbreken daarvan ertoe zou leiden dat de zaak zijn functies niet kan vervullen;
 
-- o. **digitale inhoud:** gegevens die in digitale vorm geproduceerd en geleverd worden;
+- o. *digitale inhoud:* gegevens die in digitale vorm geproduceerd en geleverd worden;
 
-- p. **digitale dienst:**
+- p. *digitale dienst:*
 
-  - 1°. dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen; of
+   - 1°. dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen; of
 
-  - 2°. dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
+   - 2°. dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
 
-- q. **milieuclaim:** boodschap of voorstelling die niet verplicht is op grond van het Unierecht of nationale recht, in welke vorm ook, met inbegrip van tekst, beeldende, grafische of symbolische voorstellingen, zoals labels, merknamen, bedrijfsnamen of productnamen, in de context van een commerciële communicatie, waarin wordt gesteld of geïmpliceerd dat een product, productcategorie, merk of handelaar een positief effect of geen effect op het milieu heeft, dan wel minder schadelijk voor het milieu is dan andere producten, productcategorieën, merken of handelaren, of dat dit effect in de loop der tijd is verbeterd;
+- q. *milieuclaim:* boodschap of voorstelling die niet verplicht is op grond van het Unierecht of nationale recht, in welke vorm ook, met inbegrip van tekst, beeldende, grafische of symbolische voorstellingen, zoals labels, merknamen, bedrijfsnamen of productnamen, in de context van een commerciële communicatie, waarin wordt gesteld of geïmpliceerd dat een product, productcategorie, merk of handelaar een positief effect of geen effect op het milieu heeft, dan wel minder schadelijk voor het milieu is dan andere producten, productcategorieën, merken of handelaren, of dat dit effect in de loop der tijd is verbeterd;
 
-- r. **generieke milieuclaim:** een schriftelijk of mondeling, waaronder via audiovisuele media, gedane milieuclaim die niet in een duurzaamheidskeurmerk is opgenomen, en waarbij de specificatie van de claim niet in duidelijke en in het oog springende bewoordingen op hetzelfde medium is aangeboden;
+- r. *generieke milieuclaim:* een schriftelijk of mondeling, waaronder via audiovisuele media, gedane milieuclaim die niet in een duurzaamheidskeurmerk is opgenomen, en waarbij de specificatie van de claim niet in duidelijke en in het oog springende bewoordingen op hetzelfde medium is aangeboden;
 
-- s. **duurzaamheidskeurmerk:** vrijwillig betrouwbaarheidskeurmerk, kwaliteitskeurmerk of gelijkwaardig keurmerk, publiek of privaat, dat tot doel heeft een product, een proces of een bedrijfsactiviteit te onderscheiden en te promoten door verwijzing naar de milieu- of sociale kenmerken ervan of beide, met uitsluiting van op grond van het Unierecht of nationale recht verplichte keurmerken;
+- s. *duurzaamheidskeurmerk:* vrijwillig betrouwbaarheidskeurmerk, kwaliteitskeurmerk of gelijkwaardig keurmerk, publiek of privaat, dat tot doel heeft een product, een proces of een bedrijfsactiviteit te onderscheiden en te promoten door verwijzing naar de milieu- of sociale kenmerken ervan of beide, met uitsluiting van op grond van het Unierecht of nationale recht verplichte keurmerken;
 
-- t. **certificeringsregeling:** verificatieregeling van een derde waarmee wordt gecertificeerd dat een product, proces of bedrijfsactiviteit aan bepaalde vereisten voldoet, op grond waarvan een overeenkomstig duurzaamheidskeurmerk mag worden gebruikt, en waarvan de voorwaarden, met inbegrip van de vereisten van de regeling, openbaar beschikbaar zijn en aan de volgende criteria voldoen:
+- t. *certificeringsregeling:* verificatieregeling van een derde waarmee wordt gecertificeerd dat een product, proces of bedrijfsactiviteit aan bepaalde vereisten voldoet, op grond waarvan een overeenkomstig duurzaamheidskeurmerk mag worden gebruikt, en waarvan de voorwaarden, met inbegrip van de vereisten van de regeling, openbaar beschikbaar zijn en aan de volgende criteria voldoen:
 
-  - 1°. de regeling staat op grond van transparante, eerlijke en niet-discriminerende voorwaarden open voor alle handelaren die bereid en in staat zijn om aan de vereisten van de regeling te voldoen;
+   - 1°. de regeling staat op grond van transparante, eerlijke en niet-discriminerende voorwaarden open voor alle handelaren die bereid en in staat zijn om aan de vereisten van de regeling te voldoen;
 
-  - 2°. de vereisten van de regeling worden in overleg met deskundigen en belanghebbenden ter zake uitgewerkt door de eigenaar van de regeling;
+   - 2°. de vereisten van de regeling worden in overleg met deskundigen en belanghebbenden ter zake uitgewerkt door de eigenaar van de regeling;
 
-  - 3°. de regeling omvat procedures voor het aanpakken van niet-naleving van de vereisten van de regeling en voorziet in de intrekking of schorsing van het gebruik door de handelaar van het duurzaamheidskeurmerk in geval van niet-naleving van de vereisten van de regeling, en
+   - 3°. de regeling omvat procedures voor het aanpakken van niet-naleving van de vereisten van de regeling en voorziet in de intrekking of schorsing van het gebruik door de handelaar van het duurzaamheidskeurmerk in geval van niet-naleving van de vereisten van de regeling, en
 
-  - 4°. het toezicht op de naleving van de vereisten van de regeling door de handelaar is onderworpen aan een objectieve procedure door een bekwame en onafhankelijke derde;
+   - 4°. het toezicht op de naleving van de vereisten van de regeling door de handelaar is onderworpen aan een objectieve procedure door een bekwame en onafhankelijke derde;
 
-- u. **erkende voortreffelijke milieuprestaties:** milieuprestaties die in overeenstemming zijn met [Verordening (EG) nr. 66/2010](32010R0066) van het Europees Parlement en de Raad van 25 november 2009 betreffende de EU-milieukeur (PbEU L 27) of met nationale of regionale EN ISO 14024 type I-milieukeurregelingen die officieel erkend zijn in de lidstaten, of de hoogste milieuprestaties in overeenstemming met ander toepasselijk Unierecht;
+- u. *erkende voortreffelijke milieuprestaties:* milieuprestaties die in overeenstemming zijn met Verordening (EG) nr. 66/2010 van het Europees Parlement en de Raad van 25 november 2009 betreffende de EU-milieukeur (PbEU L 27) of met nationale of regionale EN ISO 14024 type I-milieukeurregelingen die officieel erkend zijn in de lidstaten, of de hoogste milieuprestaties in overeenstemming met ander toepasselijk Unierecht;
 
-- v. **duurzaamheid:** duurzaamheid als bedoeld in [artikel 5 lid 1, onderdeel h, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
+- v. *duurzaamheid:* duurzaamheid als bedoeld in [artikel 5 lid 1, onderdeel h, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
 
-- w. **software-update:** een update die noodzakelijk is om ervoor te zorgen dat een zaak met digitale elementen, digitale inhoud of een digitale dienst aan de overeenkomst blijft beantwoorden, met inbegrip van een beveiligingsupdate of een functionaliteitsupdate;
+- w. *software-update:* een update die noodzakelijk is om ervoor te zorgen dat een zaak met digitale elementen, digitale inhoud of een digitale dienst aan de overeenkomst blijft beantwoorden, met inbegrip van een beveiligingsupdate of een functionaliteitsupdate;
 
-- x. **verbruiksgoed:** component van een zaak dat herhaaldelijk wordt verbruikt en dat moet worden vervangen of aangevuld om de zaak naar behoren te laten functioneren;
+- x. *verbruiksgoed:* component van een zaak dat herhaaldelijk wordt verbruikt en dat moet worden vervangen of aangevuld om de zaak naar behoren te laten functioneren;
 
-- y. **functionaliteit:** functionaliteit als bedoeld in [artikel 5 lid 1, onderdeel f, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5).
+- y. *functionaliteit:* functionaliteit als bedoeld in [artikel 5 lid 1, onderdeel f, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5).
 
 2. In deze afdeling wordt mede verstaan onder gemiddelde consument: het gemiddelde lid van een specifieke groep waarop de handelaar zich richt of het gemiddelde lid van een specifieke groep waarvan de handelaar redelijkerwijs kan voorzien dat die groep wegens hun geestelijke of lichamelijke beperking, hun leeftijd of goedgelovigheid bijzonder vatbaar is voor de handelspraktijk of voor het onderliggende product.
 
@@ -2352,9 +1552,9 @@ waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan 
 
 - b. de handelaar een verplichting die is opgenomen in een gedragscode niet nakomt, voor zover: waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen;
 
-  - 1°. de verplichting concreet en kenbaar is, en
+   - 1°. de verplichting concreet en kenbaar is, en
 
-  - 2°. de handelaar aangeeft dat hij aan die gedragscode gebonden is,
+   - 2°. de handelaar aangeeft dat hij aan die gedragscode gebonden is,
 
 - c. sprake is van marketing van een goed in één lidstaat, waarbij het goed als identiek wordt voorgesteld aan een goed dat in een andere lidstaat op de markt is, terwijl de samenstelling of kenmerken van dat goed aanzienlijk verschillen en hiervoor geen rechtvaardiging bestaat op grond van legitieme en objectieve factoren;
 
@@ -2388,11 +1588,11 @@ waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan 
 
 - f. indien het product op een onlinemarktplaats wordt aangeboden, een vermelding door de aanbieder van de onlinemarktplaats op basis van een verklaring van de derde, of de derde die het product op de onlinemarktplaats aanbiedt al dan niet een handelaar is.
 
-2. Indien consumenten de mogelijkheid wordt geboden om te zoeken naar producten die worden aangeboden door verschillende handelaren of door consumenten op basis van een zoekopdracht in de vorm van een trefwoord, zin of andere invoer, is, ongeacht het sluiten van de overeenkomst, het beschikbaar stellen van algemene informatie, in een specifiek deel van de online interface dat rechtstreeks en eenvoudig toegankelijk is vanaf de pagina waar de zoekresultaten worden gepresenteerd, over de belangrijkste parameters ter bepaling van de rangschikking van producten die aan de consument wordt gepresenteerd als resultaat van de zoekopdracht en het relatieve belang van die parameters ten opzichte van andere parameters, essentieel als bedoeld in [artikel 193d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16). Dit lid is niet van toepassing op aanbieders van online zoekmachines als bedoeld in artikel 2, onderdeel 6, van [verordening (EU) 2019/1150](33050R2019) van het Europees Parlement en de Raad van 20 juni 2019 ter bevordering van billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten (PbEU L 186/57).
+2. Indien consumenten de mogelijkheid wordt geboden om te zoeken naar producten die worden aangeboden door verschillende handelaren of door consumenten op basis van een zoekopdracht in de vorm van een trefwoord, zin of andere invoer, is, ongeacht het sluiten van de overeenkomst, het beschikbaar stellen van algemene informatie, in een specifiek deel van de online interface dat rechtstreeks en eenvoudig toegankelijk is vanaf de pagina waar de zoekresultaten worden gepresenteerd, over de belangrijkste parameters ter bepaling van de rangschikking van producten die aan de consument wordt gepresenteerd als resultaat van de zoekopdracht en het relatieve belang van die parameters ten opzichte van andere parameters, essentieel als bedoeld in [artikel 193d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16). Dit lid is niet van toepassing op aanbieders van online zoekmachines als bedoeld in artikel 2, onderdeel 6, van verordening (EU) 2019/1150 van het Europees Parlement en de Raad van 20 juni 2019 ter bevordering van billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten (PbEU L 186/57).
 
 3. Indien een handelaar toegang biedt tot consumentenbeoordelingen van producten, is informatie over of en hoe de handelaar verzekert dat de gepubliceerde beoordelingen afkomstig zijn van consumenten die het product daadwerkelijk hebben gebruikt of aangekocht, essentieel als bedoeld in [artikel 193d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16).
 
-4. Indien een handelaar een dienst aanbiedt waarmee producten worden vergeleken en aan consumenten informatie wordt verstrekt over milieu- of sociale kenmerken of circulariteitsaspecten, zoals duurzaamheid, repareerbaarheid of recyclebaarheid, van de producten of leveranciers van die producten, is informatie over de vergelijkingsmethode, de producten die met elkaar worden vergeleken en de leveranciers van die producten, alsook over de maatregelen die van kracht zijn om die informatie actueel te houden, essentieel als bedoeld in [artikel 193d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16).
+4. Indien een handelaar een dienst aanbiedt waarmee producten worden vergeleken en aan consumenten informatie wordt verstrekt over milieu- of sociale kenmerken of circulariteitsaspecten, zoals duurzaamheid, repareerbaarheid of recyclebaarheid, van de producten of leveranciers van die producten, is informatie over de vergelijkingsmethode, de producten die met elkaar worden vergeleken en de leveranciers van die producten, alsook over de maatregelen die van kracht zijn om die informatie actueel te houden, essentieel als bedoeld in [artikel 193d lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16).
 
 ##### Artikel 193f
 
@@ -2410,7 +1610,7 @@ Indien er sprake is van commerciële communicatie, reclame of marketing daaronde
 
 - f. [artikel 2b van de Prijzenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b);
 
-- g. artikel 6 van Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van [Richtlijn 2003/71/EG](32003L0071) (PbEU 2017, L 168).
+- g. artikel 6 van Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van Richtlijn 2003/71/EG (PbEU 2017, L 168).
 
 ##### Artikel 193g
 
@@ -2428,11 +1628,11 @@ De volgende handelspraktijken zijn onder alle omstandigheden misleidend:
 
 - f. producten tegen een genoemde prijs te koop aanbieden en vervolgens:
 
-  - 1°. weigeren het aangeboden artikel aan de consument te tonen, of
+   - 1°. weigeren het aangeboden artikel aan de consument te tonen, of
 
-  - 2°. weigeren een bestelling op te nemen of het product binnen een redelijke termijn te leveren, of
+   - 2°. weigeren een bestelling op te nemen of het product binnen een redelijke termijn te leveren, of
 
-  - 3°. een exemplaar van het artikel met gebreken tonen, met de bedoeling een ander product aan te prijzen;
+   - 3°. een exemplaar van het artikel met gebreken tonen, met de bedoeling een ander product aan te prijzen;
 
 - g. bedrieglijk beweren dat het product slechts gedurende een zeer beperkte tijd beschikbaar zal zijn of dat het slechts onder speciale voorwaarden gedurende een zeer beperkte tijd beschikbaar zal zijn om de consument onmiddellijk te doen beslissen en hem geen kans of onvoldoende tijd te geven een geïnformeerd besluit te nemen;
 
@@ -2538,9 +1738,9 @@ De volgende handelspraktijken zijn onder alle omstandigheden agressief:
 
 - h. de bedrieglijke indruk wekken dat de consument al een prijs heeft gewonnen of zal winnen dan wel door een bepaalde handeling te verrichten een prijs zal winnen of een ander soortgelijk voordeel zal behalen, als er in feite:
 
-  - 1°. geen sprake is van een prijs of een ander soortgelijk voordeel; of
+   - 1°. geen sprake is van een prijs of een ander soortgelijk voordeel; of
 
-  - 2°. als het ondernemen van stappen om in aanmerking te komen voor de prijs of voor een ander soortgelijk voordeel afhankelijk is van de betaling van een bedrag door de consument of indien daaraan voor hem kosten zijn verbonden.
+   - 2°. als het ondernemen van stappen om in aanmerking te komen voor de prijs of voor een ander soortgelijk voordeel afhankelijk is van de betaling van een bedrag door de consument of indien daaraan voor hem kosten zijn verbonden.
 
 ##### Artikel 193j
 
@@ -2550,47 +1750,461 @@ De volgende handelspraktijken zijn onder alle omstandigheden agressief:
 
 3. Een overeenkomst die als gevolg van een oneerlijke handelspraktijk tot stand is gekomen, is vernietigbaar.
 
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
+#### Afdeling 3B. Schending van mededingingsrecht
 
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
+##### Artikel 193k
 
-### Afdeling 1. Zaakwaarneming
+In deze afdeling wordt verstaan onder:
 
-### Afdeling 2. Onverschuldigde betaling
+- a. *inbreuk op het mededingingsrecht:* een inbreuk op artikel 101 of 102 van het Verdrag betreffende de Werking van de Europese Unie, het mededingingsrecht van een lidstaat van de Europese Unie dat parallel wordt toegepast aan artikel 101 of 102 van het Verdrag betreffende de Werking van de Europese Unie overeenkomstig artikel 3, eerste lid, van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) of [24 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24);
 
-### Afdeling 3. Ongerechtvaardigde verrijking
+- b. *inbreukpleger:* een onderneming of ondernemersvereniging die een inbreuk op het mededingingsrecht heeft gepleegd;
 
-## Titel 5. Overeenkomsten in het algemeen
+- c. *mededingingsautoriteit:* de Europese Commissie, of een overeenkomstig artikel 35 van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2003 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003 L 1) door een lidstaat aangewezen autoriteit die bevoegd is de artikelen 101 en 102 van het Verdrag betreffende de Werking van de Europese Unie toe te passen, of beide, indien de omstandigheden dit vereisen dan wel de Autoriteit Consument en Markt, voor zover het de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) of [24 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24) betreft;
 
-### Afdeling 2. Onverschuldigde betaling
+- d. *kartel:* een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel hun concurrentiegedrag op de markt te coördineren of de relevante parameters van mededinging te beïnvloeden via praktijken zoals onder meer, doch niet uitsluitend, het bepalen of coördineren van aan- of verkoopprijzen of andere contractuele voorwaarden, onder meer met betrekking tot intellectuele-eigendomsrechten, de toewijzing van productie- of verkoopquota, de verdeling van markten en klanten, met inbegrip van offertevervalsing, het beperken van importen of exporten of mededingingsverstorende maatregelen tegen andere concurrenten;
 
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
+- e. *ontvanger van immuniteit:* een onderneming waaraan of een natuurlijk persoon aan wie door een mededingingsautoriteit in het kader van een clementieregeling vrijwaring van geldboetes is verleend;
 
-### Afdeling 5. Wederkerige overeenkomsten
+- f. *clementieregeling:* een regeling met betrekking tot de toepassing van artikel 101 van het Verdrag betreffende de Werking van de Europese Unie of een overeenkomstige bepaling in het nationale recht van een lidstaat van de Europese Unie op basis waarvan een deelnemer aan een geheim kartel onafhankelijk van de andere bij het kartel betrokken ondernemingen meewerkt aan een onderzoek van een mededingingsautoriteit door vrijwillig informatie te verschaffen over de kennis die deze deelnemer heeft van het kartel en de rol die hij daarin speelt, in ruil waarvoor de deelnemer, op grond van een besluit of door de procedure stop te zetten, immuniteit wordt verleend tegen geldboetes voor betrokkenheid bij het kartel of een vermindering van deze boetes krijgt;
+
+- g. *meerkosten:* het verschil tussen de daadwerkelijk betaalde prijs en de prijs die zonder de inbreuk op het mededingingsrecht van toepassing was geweest;
+
+- h. *directe afnemer:* een natuurlijk persoon of rechtspersoon die rechtstreeks van een inbreukpleger producten of diensten heeft verworven die het voorwerp waren van een inbreuk op het mededingingsrecht;
+
+- i. *indirecte afnemer:* een natuurlijk persoon of rechtspersoon die niet van een inbreukpleger maar van een directe afnemer of een volgende afnemer producten of diensten heeft verworven die het voorwerp waren van een inbreuk op het mededingingsrecht, of producten of diensten waarin deze zijn verwerkt of die daarvan zijn afgeleid.
+
+##### Artikel 193l
+
+Een kartel, dat een inbreuk op het mededingingsrecht vormt, wordt vermoed schade te veroorzaken.
+
+##### Artikel 193m
+
+1. Indien ondernemingen door een gemeenschappelijk optreden een inbreuk hebben gepleegd op het mededingingsrecht, is elk van hun voor het geheel van de door de inbreuk veroorzaakte schade aansprakelijk.
+
+2. Mits volledige vergoeding van schade kan worden verkregen van de andere bij de inbreuk betrokken ondernemingen, is in afwijking van het bepaalde in lid 1 een kleine of middelgrote onderneming als bedoeld in Aanbeveling 2003/361/EG van de Europese Commissie die een inbreuk op het mededingingsrecht heeft gepleegd slechts jegens zijn directe en indirecte afnemers aansprakelijk, indien:
+
+- a. haar marktaandeel op de relevante markt tijdens de inbreuk voortdurend minder dan vijf procent bedroeg, en
+
+- b. de toepassing van lid 1 haar economische levensvatbaarheid onherstelbaar in gevaar zou brengen en haar vermogensbestanddelen al hun waarde zou doen verliezen.
+
+3. Lid 2 mist toepassing indien de onderneming:
+
+- a. een leidinggevende rol heeft gespeeld bij de inbreuk of andere ondernemingen heeft aangezet hieraan deel te nemen, of
+
+- b. eerder schuldig is bevonden aan een inbreuk op het mededingingsrecht.
+
+4. In afwijking van het bepaalde in lid 1 is een ontvanger van immuniteit slechts jegens zijn directe en indirecte afnemers en leveranciers hoofdelijk verbonden tot vergoeding van de schade die voortvloeit uit de inbreuk, tenzij geen volledige vergoeding van schade kan worden verkregen van de andere bij de inbreuk betrokken ondernemingen.
+
+##### Artikel 193n
+
+De bijdrage van een ontvanger van immuniteit in de onderlinge verhouding met de andere bij de inbreuk betrokken inbreukplegers aan de vergoeding van de schade van hun directe en indirecte afnemers en leveranciers, bedraagt ten hoogste de vergoeding van de schade van zijn directe en indirecte afnemers en leveranciers, in evenredigheid met de mate waarin de aan hem toe te rekenen omstandigheden tot de schade hebben bijgedragen.
+
+##### Artikel 193o
+
+1. Na een schikking wordt de vordering tot schadevergoeding van de bij de schikking betrokken benadeelde verminderd met het aandeel dat de bij de schikking betrokken inbreukpleger heeft gehad in de schade die de benadeelde door de inbreuk op het mededingingsrecht heeft geleden.
+
+2. Een bij een schikking betrokken benadeelde kan alleen een niet bij de schikking betrokken inbreukpleger aanspreken voor de vergoeding van de na de schikking resterende vordering tot schadevergoeding. De niet bij de schikking betrokken inbreukpleger kan met betrekking tot deze vordering tot schadevergoeding geen bijdrage vorderen van de bij de schikking betrokken inbreukpleger.
+
+3. Indien niet bij een schikking betrokken inbreukplegers na een schikking niet bij machte zijn om de met de resterende vordering tot schadevergoeding overeenstemmende schade van een bij de schikking betrokken benadeelde te vergoeden, is de bij de schikking betrokken inbreukpleger ook aansprakelijk voor deze schade.
+
+4. Lid 3 mist toepassing indien uitdrukkelijk anders is bepaald in de voorwaarden van de schikking.
+
+##### Artikel 193p
+
+Een partij kan het verweer voeren dat de benadeelde de door de inbreuk op het mededingingsrecht veroorzaakte meerkosten heeft doorberekend.
+
+##### Artikel 193q
+
+Een indirecte afnemer wordt vermoed het bewijs van doorberekening te hebben geleverd indien hij aantoont dat:
+
+- a. de inbreukpleger een inbreuk op het mededingingsrecht heeft gepleegd,
+
+- b. de inbreuk heeft geleid tot meerkosten voor de directe afnemer van de inbreukpleger, en
+
+- c. de indirecte afnemer de goederen of diensten heeft verworven die het voorwerp waren van de inbreuk, of goederen of diensten waarin deze zijn verwerkt of die daarvan zijn afgeleid.
+
+##### Artikel 193r
+
+De rechter kan een procedure waarin vergoeding van schade wordt gevorderd wegens een inbreuk op het mededingingsrecht voor ten hoogste twee jaar aanhouden, indien partijen betrokken zijn bij buitengerechtelijke geschillenbeslechting in verband met die vordering.
+
+##### Artikel 193s
+
+Een rechtsvordering tot vergoeding van schade door een inbreuk op het mededingingsrecht verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de inbreuk is stopgezet en de benadeelde met de inbreuk, de schade die hij dientengevolge lijdt en de daarvoor aansprakelijke persoon bekend is geworden of redelijkerwijs bekend kan worden geacht, en in ieder geval door verloop van twintig jaren na de aanvang van de dag volgende op die waarop de inbreuk is stopgezet.
+
+##### Artikel 193t
+
+1. Een procedure tot buitengerechtelijke geschillenbeslechting is een grond voor verlenging van de verjaringstermijn tussen de daarbij betrokken partijen. In geval van mediation eindigt de procedure doordat een van de partijen of de mediator aan de andere partij schriftelijk heeft meegedeeld dat de mediation is geëindigd of doordat in de mediation gedurende een periode van zes maanden door geen van de partijen enige handeling is verricht.
+
+2. Een handeling van een mededingingsautoriteit verricht in het kader van een onderzoek of procedure met betrekking tot de inbreuk op het mededingingsrecht waarop de rechtsvordering betrekking heeft, is een grond voor verlenging van de verjaringstermijn. De verlenging vangt aan de dag na het verstrijken van de verjaringstermijn. De duur van de verlenging is gelijk aan de periode benodigd voor de vaststelling van een definitieve inbreukbeslissing of het op andere wijze beëindigen van de procedure, vermeerderd met een jaar.
+
+#### Afdeling 4. Misleidende en vergelijkende reclame
+
+##### Artikel 194
+
+1. Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie hij handelt in de uitoefening van een beroep of bedrijf worden aangeboden, een mededeling openbaar maakt of laat openbaar maken, handelt onrechtmatig jegens een ander die handelt in de uitoefening van zijn bedrijf, indien deze mededeling in een of meer opzichten misleidend is, zoals ten aanzien van:
+
+- a. de aard, samenstelling, hoeveelheid, hoedanigheid, eigenschappen of gebruiksmogelijkheden;
+
+- b. de herkomst, de wijze op het tijdstip van vervaardigen;
+
+- c. de omvang van de voorraad;
+
+- d. de prijs of de wijze van berekenen daarvan;
+
+- e. de aanleiding of het doel van de aanbieding;
+
+- f. de toegekende onderscheidingen, getuigschriften of andere door derden uitgebrachte beoordelingen of gedane verklaringen, of de gebezigde wetenschappelijke of vaktermen, technische bevindingen of statistische gegevens;
+
+- g. de voorwaarden, waaronder goederen worden geleverd of diensten worden verricht of de betaling plaatsvindt;
+
+- h. de omvang, inhoud of tijdsduur van de garantie;
+
+- i. de identiteit, hoedanigheden, bekwaamheid of bevoegdheid en degene door wie, onder wiens leiding of toezicht of met wiens medewerking de goederen zijn of worden vervaardigd of aangeboden of de diensten worden verricht.
+
+2. Een mededeling, openbaar of specifiek gericht op een ander, is in ieder geval misleidend indien sprake is van een misleidende omissie, waarbij essentiële informatie welke hij die handelt in de uitoefening van een beroep, bedrijf of organisatie, nodig heeft om een geïnformeerd besluit over een transactie te nemen, wordt weggelaten, waardoor hij die handelt in de uitoefening van een beroep, bedrijf of organisatie, een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+3. Van een misleidende omissie is eveneens sprake indien essentiële informatie als bedoeld in lid 2 verborgen wordt gehouden of op onduidelijke, onbegrijpelijke, dubbelzinnige wijze dan wel laat verstrekt of gepresenteerd wordt, of het commerciële oogmerk, indien dit niet reeds duidelijk uit de context blijkt, niet laat blijken, waardoor hij die handelt in de uitoefening van een beroep, bedrijf of organisatie, een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+
+4. Bij de beoordeling of sprake is van een misleidende omissie als bedoeld in lid 2 en 3, zijn [artikel 193d, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193d&z=2026-07-16&g=2026-07-16), en [artikel 193e, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193e&z=2026-07-16&g=2026-07-16), van overeenkomstige toepassing.
+
+##### Artikel 194a
+
+1. Onder vergelijkende reclame wordt verstaan elke vorm van reclame waarbij een concurrent dan wel door een concurrent aangeboden goederen of diensten uitdrukkelijk of impliciet worden genoemd.
+
+2. Vergelijkende reclame is, wat de vergelijking betreft, geoorloofd op voorwaarde dat deze:
+
+- a. niet misleidend of een misleidende handelspraktijk als bedoeld in de [artikelen 193c tot en met 193g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3A&artikel=193c&z=2026-07-16&g=2026-07-16) is;
+
+- b. goederen of diensten vergelijkt die in dezelfde behoeften voorzien of voor hetzelfde doel zijn bestemd;
+
+- c. op objectieve wijze een of meer wezenlijke, relevante, controleerbare en representatieve kenmerken van deze goederen en diensten, zoals de prijs, met elkaar vergelijkt;
+
+- d. er niet toe leidt dat op de markt de adverteerder wordt verward met een concurrent, of de merken, handelsnamen, andere onderscheidende kenmerken, goederen of diensten van de adverteerder met die van een concurrent;
+
+- e. niet de goede naam schaadt van of zich niet kleinerend uitlaat over de merken, handelsnamen, andere onderscheidende kenmerken, goederen, diensten, activiteiten of omstandigheden van een concurrent;
+
+- f. voor producten met een benaming van oorsprong in elk geval betrekking heeft op producten met dezelfde benaming;
+
+- g. geen oneerlijk voordeel oplevert ten gevolge van de bekendheid van een merk, handelsnaam of andere onderscheidende kenmerken van een concurrent dan wel van de oorsprongsbenamingen van concurrerende producten; en
+
+- h. niet goederen of diensten voorstelt als een imitatie of namaak van goederen of diensten met een beschermd merk of beschermde handelsnaam.
+
+3. Elke vergelijking die verwijst naar een speciale aanbieding, moet duidelijk en ondubbelzinnig het einde en, zo de speciale aanbieding nog niet loopt, het begin aangeven van de periode gedurende welke de speciale prijs of andere specifieke voorwaarden gelden dan wel vermelden dat de speciale aanbieding loopt zo lang de voorraad strekt of de diensten kunnen worden verleend.
+
+##### Artikel 195
+
+1. Indien een vordering ingevolge [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2026-07-16&g=2026-07-16) of [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2026-07-16&g=2026-07-16) wordt ingesteld tegen iemand die inhoud en inkleding van de mededeling geheel of ten dele heeft bepaald of doen bepalen, rust op hem de bewijslast ter zake van de juistheid of volledigheid van de feiten die in de mededeling zijn vervat of daardoor worden gesuggereerd en waarop het beweerde misleidende karakter van de mededeling berust onderscheidenlijk waarop de ongeoorloofdheid van de vergelijkende reclame berust. Ingeval van vergelijkende reclame dient degene die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen binnen korte termijn de bewijzen aan te dragen waarop de materiële juistheid en volledigheid van de feitelijke gegevens in de reclame rust.
+
+2. Indien volgens [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2026-07-16&g=2026-07-16) en [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2026-07-16&g=2026-07-16) onrechtmatig is gehandeld door iemand die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
+
+##### Artikel 196
+
+1. Indien iemand door het openbaar maken of laten openbaar maken van een in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2026-07-16&g=2026-07-16) omschreven mededeling of een ongeoorloofde vergelijkende reclame, of door het specifiek richten of laten richten van die mededeling op een ander, aan een ander schade heeft toegebracht of dreigt toe te brengen, kan de rechter hem op vordering van die ander niet alleen het openbaar maken of laten openbaar maken van zodanige mededeling of zodanige ongeoorloofde vergelijkende reclame, of het specifiek richten of laten richten van zodanige mededeling op een ander, verbieden, maar ook hem laten veroordelen tot het op een door de rechter aangegeven wijze openbaar maken of laten openbaar maken van een rectificatie van die mededeling of die ongeoorloofde vergelijkende reclame.
+
+2. Indien een vordering als in het vorige lid bedoeld wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in [artikel 195 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=195&z=2026-07-16&g=2026-07-16) bedoelde schade, is [artikel 167 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=167&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
+
+#### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
+
+##### Artikel 196b
+
+*Vervallen*
+
+##### Artikel 196c
+
+*Vervallen*
+
+#### Afdeling 5. Tijdelijke regeling verhaalsrechten
+
+##### Artikel 197
+
+1. De [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2026-07-16&g=2026-07-16), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2026-07-16&g=2026-07-16), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2026-07-16&g=2026-07-16), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2026-07-16&g=2026-07-16), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2026-07-16&g=2026-07-16), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2026-07-16&g=2026-07-16), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2026-07-16&g=2026-07-16) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2026-07-16&g=2026-07-16), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) blijven buiten toepassing:
+
+- a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens [artikel 107a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=10&artikel=107a&z=2026-07-16&g=2026-07-16) en de [artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99), [90 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90), [69 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=69), [4:2 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=4:2), [52a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52a), [61 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=61), [artikel 10.2.2 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.2.2), [artikel 2.4.3 Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.4.3) en [8 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=8);
+
+- b. bij de vaststelling van het bedrag, bedoeld in [artikel 3 van de Verhaalswet ongevallen ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=3) waarboven de gehoudenheid krachtens die wet of krachtens [artikel 75 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=75) zich niet uitstrekt.
+
+2. Rechten uit de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2026-07-16&g=2026-07-16), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2026-07-16&g=2026-07-16), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2026-07-16&g=2026-07-16), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2026-07-16&g=2026-07-16), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2026-07-16&g=2026-07-16), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2026-07-16&g=2026-07-16), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2026-07-16&g=2026-07-16), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2026-07-16&g=2026-07-16), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2026-07-16&g=2026-07-16) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2026-07-16&g=2026-07-16), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) zijn niet vatbaar voor subrogatie krachtens [artikel 962 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962), behoudens voor zover de uitkering door de verzekeraar de aansprakelijkheid van de verzekerde betreft en een ander krachtens deze artikelen mede aansprakelijk was.
+
+3. Degene wiens verhaal of subrogatie door de vorige leden wordt uitgesloten, kan de in het tweede lid bedoelde rechten evenmin krachtens overeenkomst verkrijgen of te zijnen behoeve door de gerechtigde op diens naam doen uitoefenen.
+
+### Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
+
+#### Afdeling 1. Zaakwaarneming
+
+##### Artikel 198
+
+Zaakwaarneming is het zich willens en wetens en op redelijke grond inlaten met de behartiging van eens anders belang, zonder de bevoegdheid daartoe aan een rechtshandeling of een elders in de wet geregelde rechtsverhouding te ontlenen.
+
+##### Artikel 199
+
+1. De zaakwaarnemer is verplicht bij de waarneming de nodige zorg te betrachten en, voor zover dit redelijkerwijze van hem kan worden verlangd, de begonnen waarneming voort te zetten.
+
+2. De zaakwaarnemer doet, zodra dit redelijkerwijze mogelijk is, aan de belanghebbende verantwoording van hetgeen hij heeft verricht. Heeft hij voor de belanghebbende gelden uitgegeven of ontvangen, dan doet hij daarvan rekening.
+
+##### Artikel 200
+
+1. De belanghebbende is, voor zover zijn belang naar behoren is behartigd, gehouden de zaakwaarnemer de schade te vergoeden, die deze als gevolg van de waarneming heeft geleden.
+
+2. Heeft de zaakwaarnemer in de uitoefening van een beroep of bedrijf gehandeld, dan heeft hij, voor zover dit redelijk is, bovendien recht op een vergoeding voor zijn verrichtingen, met inachtneming van de prijzen die daarvoor ten tijde van de zaakwaarneming gewoonlijk werden berekend.
+
+##### Artikel 201
+
+Een zaakwaarnemer is bevoegd rechtshandelingen te verrichten in naam van de belanghebbende, voor zover diens belang daardoor naar behoren wordt behartigd.
+
+##### Artikel 202
+
+Heeft iemand die is opgetreden ter behartiging van eens anders belang, zich zonder redelijke grond daarmede ingelaten of dit belang niet naar behoren behartigd, dan kan de belanghebbende door goedkeuring van het optreden zijn bevoegdheid prijsgeven jegens hem het gebrek in te roepen. Aan de belanghebbende kan door hem een redelijke termijn voor de goedkeuring worden gesteld.
+
+#### Afdeling 2. Onverschuldigde betaling
+
+##### Artikel 203
+
+1. Degene die een ander zonder rechtsgrond een goed heeft gegeven, is gerechtigd dit van de ontvanger als onverschuldigd betaald terug te vorderen.
+
+2. Betreft de onverschuldigde betaling een geldsom, dan strekt de vordering tot teruggave van een gelijk bedrag.
+
+3. Degene die zonder rechtsgrond een prestatie van andere aard heeft verricht, heeft eveneens jegens de ontvanger recht op ongedaanmaking daarvan.
+
+##### Artikel 204
+
+1. Heeft de ontvanger in een periode waarin hij redelijkerwijze met een verplichting tot teruggave van het goed geen rekening behoefde te houden, niet als een zorgvuldig schuldenaar voor het goed zorg gedragen, dan wordt hem dit niet toegerekend.
+
+2. Degene die namens een ander, maar onbevoegd een niet aan die ander verschuldigde geldsom heeft ontvangen, is van zijn verplichting tot teruggave bevrijd, voor zover hij die geldsom aan die ander heeft doorbetaald in een periode waarin hij redelijkerwijze met die verplichting geen rekening behoefde te houden.
+
+##### Artikel 205
+
+Heeft de ontvanger het goed te kwader trouw aangenomen, dan is hij zonder ingebrekestelling in verzuim.
+
+##### Artikel 206
+
+De [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=120), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=121), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=123) en [124 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=124) zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.
+
+##### Artikel 207
+
+De ontvanger heeft, tenzij hij het goed te kwader trouw heeft aangenomen, binnen de grenzen van de redelijkheid ook recht op vergoeding van de kosten van het ontvangen en teruggeven van het goed, alsmede van uitgaven in de in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2026-07-16&g=2026-07-16) bedoelde periode die zouden zijn uitgebleven als hij het goed niet had ontvangen.
+
+##### Artikel 208
+
+De ontvanger verliest zijn recht op de in de beide vorige artikelen bedoelde vergoedingen, indien de wederpartij afstand doet van haar recht op terugvordering en, voor zover nodig, het onverschuldigd betaalde ter bevrijding van deze vergoedingen op haar kosten aan de ontvanger overdraagt. De ontvanger is verplicht aan een zodanige overdracht mede te werken.
+
+##### Artikel 209
+
+Op de onbekwame die een onverschuldigde betaling heeft ontvangen, rusten de in deze afdeling omschreven verplichtingen slechts, voor zover het ontvangene hem tot werkelijk voordeel heeft gestrekt of in de macht van zijn wettelijke vertegenwoordiger is gekomen.
+
+##### Artikel 210
+
+1. Op de ongedaanmaking van prestaties die niet in het geven van een goed hebben bestaan, zijn de [artikelen 204-209](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
+
+2. Sluit de aard van de prestatie uit dat zij ongedaan wordt gemaakt, dan treedt, voor zover dit redelijk is, vergoeding van de waarde van de prestatie op het ogenblik van ontvangst daarvoor in de plaats, indien de ontvanger door de prestatie is verrijkt, indien het aan hem is toe te rekenen dat de prestatie is verricht, of indien hij erin had toegestemd een tegenprestatie te verrichten.
+
+##### Artikel 211
+
+1. Kan een prestatie die op grond van een nietige overeenkomst is verricht, naar haar aard niet ongedaan worden gemaakt en behoort zij ook niet in rechte op geld te worden gewaardeerd, dan is een tot ongedaanmaking van een tegenprestatie of tot vergoeding van de waarde daarvan strekkende vordering, voor zover deze deswege in strijd met redelijkheid en billijkheid zou zijn, eveneens uitgesloten.
+
+2. Is ingevolge het vorige lid terugvordering van een overgedragen goed uitgesloten, dan brengt de nietigheid van de overeenkomst niet de nietigheid van de overdracht mede.
+
+#### Afdeling 3. Ongerechtvaardigde verrijking
+
+##### Artikel 212
+
+1. Hij die ongerechtvaardigd is verrijkt ten koste van een ander, is verplicht, voor zover dit redelijk is, diens schade te vergoeden tot het bedrag van zijn verrijking.
+
+2. Voor zover de verrijking is verminderd als gevolg van een omstandigheid die niet aan de verrijkte kan worden toegerekend, blijft zij buiten beschouwing.
+
+3. Is de verrijking verminderd in de periode waarin de verrijkte redelijkerwijze met een verplichting tot vergoeding van de schade geen rekening behoefde te houden, dan wordt hem dit niet toegerekend. Bij de vaststelling van deze vermindering wordt mede rekening gehouden met uitgaven die zonder de verrijking zouden zijn uitgebleven.
+
+### Titel 5. Overeenkomsten in het algemeen
+
+#### Afdeling 1. Algemene bepalingen
+
+##### Artikel 213
+
+1. Een overeenkomst in de zin van deze titel is een meerzijdige rechtshandeling, waarbij een of meer partijen jegens een of meer andere een verbintenis aangaan.
+
+2. Op overeenkomsten tussen meer dan twee partijen zijn de wettelijke bepalingen betreffende overeenkomsten niet toepasselijk, voor zover de strekking van de betrokken bepalingen in verband met de aard van de overeenkomst zich daartegen verzet.
+
+##### Artikel 214
+
+1. Een overeenkomst door een der partijen gesloten in de uitoefening van haar bedrijf of beroep, is behalve aan de wettelijke bepalingen ook onderworpen aan een standaardregeling, wanneer voor de bedrijfstak waartoe het bedrijf behoort, of voor het beroep ten aanzien van zodanige overeenkomst een standaardregeling geldt. De bijzondere soorten van overeenkomsten waarvoor standaardregelingen kunnen worden vastgesteld en de bedrijfstak of het beroep, waarvoor elk dezer regelingen bestemd is te gelden, worden bij algemene maatregel van bestuur aangewezen.
+
+2. Een standaardregeling wordt vastgesteld, gewijzigd en ingetrokken door een daartoe door Onze Minister van Justitie te benoemen commissie. Bij de wet worden nadere regelen gesteld omtrent de wijze van samenstelling en de werkwijze van de commissies.
+
+3. De vaststelling, wijziging of intrekking van een standaardregeling wordt niet van kracht voordat zij door Ons is goedgekeurd en met Ons goedkeuringsbesluit in de *Nederlandse Staatscourant* is afgekondigd.
+
+4. Bij een standaardregeling kan worden afgeweken van wettelijke bepalingen, voor zover daarvan ook afwijking bij overeenkomst, al of niet met inachtneming van een bepaalde vorm, is toegelaten. De vorige zin lijdt uitzondering, wanneer uit een wettelijke bepaling iets anders voortvloeit.
+
+5. Partijen kunnen in hun overeenkomst van een standaardregeling afwijken. Een standaardregeling kan echter voor afwijking een bepaalde vorm voorschrijven.
+
+##### Artikel 215
+
+Voldoet een overeenkomst aan de omschrijving van twee of meer door de wet geregelde bijzondere soorten van overeenkomsten, dan zijn de voor elk van die soorten gegeven bepalingen naast elkaar op de overeenkomst van toepassing, behoudens voor zover deze bepalingen niet wel verenigbaar zijn of de strekking daarvan in verband met de aard van de overeenkomst zich tegen toepassing verzet.
+
+##### Artikel 216
+
+Hetgeen in deze en de volgende vijf afdelingen is bepaald, vindt overeenkomstige toepassing op andere meerzijdige vermogensrechtelijke rechtshandelingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de rechtshandeling zich daartegen niet verzet.
+
+#### Afdeling 2. Het tot stand komen van overeenkomsten
+
+##### Artikel 217
+
+1. Een overeenkomst komt tot stand door een aanbod en de aanvaarding daarvan.
+
+2. De [artikelen 219-225](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=219&z=2026-07-16&g=2026-07-16) zijn van toepassing, tenzij iets anders voortvloeit uit het aanbod, uit een andere rechtshandeling of uit een gewoonte.
+
+##### Artikel 218
+
+Een aanbod is geldig, nietig of vernietigbaar overeenkomstig de regels voor meerzijdige rechtshandelingen.
+
+##### Artikel 219
+
+1. Een aanbod kan worden herroepen, tenzij het een termijn voor de aanvaarding inhoudt of de onherroepelijkheid ervan op andere wijze uit het aanbod volgt.
+
+2. De herroeping kan slechts geschieden, zolang het aanbod niet is aanvaard en evenmin een mededeling, houdende de aanvaarding is verzonden. Bevat het aanbod de mededeling dat het vrijblijvend wordt gedaan, dan kan de herroeping nog onverwijld na de aanvaarding geschieden.
+
+3. Een beding waarbij één der partijen zich verbindt om, indien de wederpartij dit wenst, met haar een bepaalde overeenkomst te sluiten, geldt als een onherroepelijk aanbod.
+
+##### Artikel 220
+
+1. Een bij wijze van uitloving voor een bepaalde tijd gedaan aanbod kan wegens gewichtige redenen worden herroepen of gewijzigd.
+
+2. In geval van herroeping of wijziging van een uitloving kan de rechter aan iemand die op grond van de uitloving met de voorbereiding van een gevraagde prestatie is begonnen, een billijke schadeloosstelling toekennen.
+
+##### Artikel 221
+
+1. Een mondeling aanbod vervalt, wanneer het niet onmiddellijk wordt aanvaard, een schriftelijk aanbod, wanneer het niet binnen een redelijke tijd wordt aanvaard.
+
+2. Een aanbod vervalt, doordat het wordt verworpen.
+
+##### Artikel 222
+
+Een aanbod vervalt niet door de dood of het verlies van handelingsbekwaamheid van een der partijen, noch doordat een der partijen de bevoegdheid tot het sluiten van de overeenkomst verliest als gevolg van een bewind.
+
+##### Artikel 223
+
+1. De aanbieder kan een te late aanvaarding toch als tijdig gedaan laten gelden, mits hij dit onverwijld aan de wederpartij mededeelt.
+
+2. Indien een aanvaarding te laat plaatsvindt, maar de aanbieder begrijpt of behoort te begrijpen dat dit voor de wederpartij niet duidelijk was, geldt de aanvaarding als tijdig gedaan, tenzij hij onverwijld aan de wederpartij mededeelt dat hij het aanbod als vervallen beschouwt.
+
+##### Artikel 224
+
+Indien een aanvaarding de aanbieder niet of niet tijdig bereikt door een omstandigheid op grond waarvan zij krachtens [artikel 37 lid 3, tweede zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=37) niettemin haar werking heeft, wordt de overeenkomst geacht tot stand te zijn gekomen op het tijdstip waarop zonder de storende omstandigheid de verklaring zou zijn ontvangen.
+
+##### Artikel 225
+
+1. Een aanvaarding die van het aanbod afwijkt, geldt als een nieuw aanbod en als een verwerping van het oorspronkelijke.
+
+2. Wijkt een tot aanvaarding strekkend antwoord op een aanbod daarvan slechts op ondergeschikte punten af, dan geldt dit antwoord als aanvaarding en komt de overeenkomst overeenkomstig deze aanvaarding tot stand, tenzij de aanbieder onverwijld bezwaar maakt tegen de verschillen.
+
+3. Verwijzen aanbod en aanvaarding naar verschillende algemene voorwaarden, dan komt aan de tweede verwijzing geen werking toe, wanneer daarbij niet tevens de toepasselijkheid van de in de eerste verwijzing aangegeven algemene voorwaarden uitdrukkelijk van de hand wordt gewezen.
+
+##### Artikel 226
+
+Stelt de wet voor de totstandkoming van een overeenkomst een vormvereiste, dan is dit voorschrift van overeenkomstige toepassing op een overeenkomst waarbij een partij in wier belang het strekt, zich tot het aangaan van een zodanige overeenkomst verbindt, tenzij uit de strekking van het voorschrift anders voortvloeit.
+
+##### Artikel 227
+
+De verbintenissen die partijen op zich nemen, moeten bepaalbaar zijn.
+
+##### Artikel 227a
+
+1. Indien uit de wet voortvloeit dat een overeenkomst slechts in schriftelijke vorm geldig of onaantastbaar tot stand komt, is aan deze eis tevens voldaan indien de overeenkomst langs elektronische weg is totstandgekomen en
+
+- a. raadpleegbaar door partijen is;
+
+- b. de authenticiteit van de overeenkomst in voldoende mate gewaarborgd is;
+
+- c. het moment van totstandkoming van de overeenkomst met voldoende zekerheid kan worden vastgesteld; en
+
+- d. de identiteit van de partijen met voldoende zekerheid kan worden vastgesteld.
+
+2. Lid 1 is niet van toepassing op overeenkomsten waarvoor de wet de tussenkomst voorschrijft van de rechter, een overheidsorgaan of een beroepsbeoefenaar die een publieke taak uitoefent.
+
+##### Artikel 227b
+
+1. Voordat een overeenkomst langs elektronische weg tot stand komt verstrekt degene die een dienst van de informatiemaatschappij verleent als bedoeld in [artikel 15d lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d) de wederpartij ten minste op duidelijke, begrijpelijke en ondubbelzinnige wijze informatie over:
+
+- a. de wijze waarop de overeenkomst tot stand zal komen en in het bijzonder welke handelingen daarvoor nodig zijn;
+
+- b. het al dan niet archiveren van de overeenkomst nadat deze tot stand zal zijn gekomen, alsmede, indien de overeenkomst wordt gearchiveerd, op welke wijze deze voor de wederpartij te raadplegen zal zijn;
+
+- c. de wijze waarop de wederpartij van door hem niet gewilde handelingen op de hoogte kan geraken, alsmede de wijze waarop hij deze kan herstellen voordat de overeenkomst tot stand komt;
+
+- d. de talen waarin de overeenkomst kan worden gesloten;
+
+- e. de gedragscodes waaraan hij zich heeft onderworpen en de wijze waarop deze gedragscodes voor de wederpartij langs elektronische weg te raadplegen zijn.
+
+2. De dienstverlener stelt voor of bij het sluiten van de overeenkomst de voorwaarden daarvan, niet zijnde algemene voorwaarden als bedoeld in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2026-07-16&g=2026-07-16), op zodanige wijze aan de wederpartij ter beschikking, dat deze door hem kunnen worden opgeslagen zodat deze voor hem toegankelijk zijn ten behoeve van latere kennisneming.
+
+3. Lid 1 is niet van toepassing op overeenkomsten die uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand zijn gekomen.
+
+4. Een overeenkomst die tot stand is gekomen onder invloed van het niet naleven door de dienstverlener van zijn in lid 1, aanhef en onder a, c of d, genoemde verplichtingen, is vernietigbaar. Indien de dienstverlener zijn in lid 1, aanhef en onder a of c genoemde verplichting niet is nagekomen, wordt vermoed dat een overeenkomst onder invloed daarvan tot stand is gekomen.
+
+5. Gedurende de tijd dat de dienstverlener de informatie, bedoeld in lid 1, onder b en e en lid 2, niet heeft verstrekt, kan de wederpartij de overeenkomst ontbinden.
+
+6. Tussen partijen die handelen in de uitoefening van een beroep of bedrijf kan van lid 1 worden afgeweken.
+
+##### Artikel 227c
+
+1. Degene die een dienst van de informatiemaatschappij als bedoeld in [artikel 15d lid 3 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d) verleent, stelt de wederpartij passende, doeltreffende en toegankelijke middelen ter beschikking waarmee de wederpartij voor de aanvaarding van de overeenkomst van door hem niet gewilde handelingen op de hoogte kan geraken en waarmee hij deze kan herstellen.
+
+2. Indien een wederpartij van een dienstverlener langs elektronische weg een verklaring uitbrengt die door de dienstverlener mag worden opgevat hetzij als een aanvaarding van een door hem langs elektronische weg gedaan aanbod, hetzij als een aanbod naar aanleiding van een door hem langs elektronische weg gedane uitnodiging om in onderhandeling te treden, bevestigt de dienstverlener zo spoedig mogelijk langs elektronische weg de ontvangst van deze verklaring. Zolang de ontvangst van een aanvaarding niet is bevestigd, kan de wederpartij de overeenkomst ontbinden. Het niet tijdig bevestigen van de ontvangst van een aanbod geldt als verwerping daarvan.
+
+3. Een verklaring als bedoeld in lid 2 en de ontvangstbevestiging worden geacht te zijn ontvangen, wanneer deze toegankelijk zijn voor de partijen tot wie zij zijn gericht.
+
+4. De leden 1 en 2 zijn niet van toepassing indien de overeenkomst uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand komt.
+
+5. Een overeenkomst die tot stand is gekomen onder invloed van het niet naleven door de dienstverlener van zijn in lid 1 genoemde verplichting, is vernietigbaar. Indien de dienstverlener zijn in lid 1 genoemde verplichting niet is nagekomen, wordt vermoed dat een overeenkomst onder invloed daarvan tot stand is gekomen.
+
+6. Van dit artikel kan slechts worden afgeweken tussen partijen die handelen in de uitoefening van een beroep of bedrijf.
+
+##### Artikel 228
+
+1. Een overeenkomst die is tot stand gekomen onder invloed van dwaling en bij een juiste voorstelling van zaken niet zou zijn gesloten, is vernietigbaar:
+
+- a. indien de dwaling te wijten is aan een inlichting van de wederpartij, tenzij deze mocht aannemen dat de overeenkomst ook zonder deze inlichting zou worden gesloten;
+
+- b. indien de wederpartij in verband met hetgeen zij omtrent de dwaling wist of behoorde te weten, de dwalende had behoren in te lichten;
+
+- c. indien de wederpartij bij het sluiten van de overeenkomst van dezelfde onjuiste veronderstelling als de dwalende is uitgegaan, tenzij zij ook bij een juiste voorstelling van zaken niet had behoeven te begrijpen dat de dwalende daardoor van het sluiten van de overeenkomst zou worden afgehouden.
+
+2. De vernietiging kan niet worden gegrond op een dwaling die een uitsluitend toekomstige omstandigheid betreft of die in verband met de aard van de overeenkomst, de in het verkeer geldende opvattingen of de omstandigheden van het geval voor rekening van de dwalende behoort te blijven.
+
+##### Artikel 229
+
+Een overeenkomst die de strekking heeft voort te bouwen op een reeds tussen partijen bestaande rechtsverhouding, is vernietigbaar, indien deze rechtsverhouding ontbreekt, tenzij dit in verband met de aard van de overeenkomst, de in het verkeer geldende opvattingen of de omstandigheden van het geval voor rekening van degene die zich op dit ontbreken beroept, behoort te blijven.
+
+##### Artikel 230
+
+1. De bevoegdheid tot vernietiging op grond van de [artikelen 228](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=228&z=2026-07-16&g=2026-07-16) en [229](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=229&z=2026-07-16&g=2026-07-16) vervalt, wanneer de wederpartij tijdig een wijziging van de gevolgen van de overeenkomst voorstelt, die het nadeel dat de tot vernietiging bevoegde bij intstandhouding van de overeenkomst lijdt, op afdoende wijze opheft.
+
+2. Bovendien kan de rechter op verlangen van een der partijen, in plaats van de vernietiging uit te spreken, de gevolgen van de overeenkomst ter opheffing van dit nadeel wijzigen.
+
+#### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
 
 ##### Artikel 230a
 
 In deze afdeling wordt verstaan onder:
 
-- **afnemer:** natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;
+- *afnemer:* natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;
 
-- **bevoegde instantie:** bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
+- *bevoegde instantie:* bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
 
-- **centraal loket:** het centraal loket, bedoeld in [artikel 5, eerste lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5);
+- *centraal loket:* het centraal loket, bedoeld in [artikel 5, eerste lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5);
 
-- **dienst:** economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;
+- *dienst:* economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;
 
-- **dienstverrichter:** natuurlijke persoon die onderdaan is van een lidstaat of een rechtspersoon in de zin van artikel 48 van het Verdrag, die in een lidstaat is gevestigd en die een dienst aanbiedt of verricht;
+- *dienstverrichter:* natuurlijke persoon die onderdaan is van een lidstaat of een rechtspersoon in de zin van artikel 48 van het Verdrag, die in een lidstaat is gevestigd en die een dienst aanbiedt of verricht;
 
-- **lidstaat:** lidstaat van de Europese Unie of van de Europese Economische Ruimte;
+- *lidstaat:* lidstaat van de Europese Unie of van de Europese Economische Ruimte;
 
-- **vergunning:** beslissing, uitdrukkelijk of stilzwijgend, over de toegang tot of de uitoefening van een dienst;
+- *vergunning:* beslissing, uitdrukkelijk of stilzwijgend, over de toegang tot of de uitoefening van een dienst;
 
-- **vergunningstelsel:** procedure die voor een dienstverrichter of afnemer de verplichting inhoudt bij een bevoegde instantie stappen te ondernemen ter verkrijging van een vergunning.
+- *vergunningstelsel:* procedure die voor een dienstverrichter of afnemer de verplichting inhoudt bij een bevoegde instantie stappen te ondernemen ter verkrijging van een vergunning.
 
 ##### Artikel 230b
 
-De dienstverrichter die diensten verricht als bedoeld in richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376), stelt de afnemer van die diensten de volgende gegevens ter beschikking:
+De dienstverrichter die diensten verricht als bedoeld in richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376), stelt de afnemer van die diensten de volgende gegevens ter beschikking:
 
 - 1. zijn naam, rechtspositie en rechtsvorm, het geografisch adres waar hij is gevestigd, zijn adresgegevens, zodat de afnemers hem snel kunnen bereiken en rechtstreeks met hem kunnen communiceren, eventueel langs elektronische weg;
 
@@ -2598,7 +2212,7 @@ De dienstverrichter die diensten verricht als bedoeld in richtlijn 2006/123/EG v
 
 - 3. wanneer voor de activiteit een vergunningstelsel geldt, de adresgegevens van de bevoegde instantie of van het centraal loket;
 
-- 4. wanneer de dienstverrichter een btw-plichtige activiteit uitoefent, het nummer bedoeld in artikel 214, eerste lid, onder a, van Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het Gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347);
+- 4. wanneer de dienstverrichter een btw-plichtige activiteit uitoefent, het nummer bedoeld in artikel 214, eerste lid, onder a, van Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het Gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347);
 
 - 5. voor gereglementeerde beroepen: elke beroepsorde of vergelijkbare organisatie waarbij de dienstverrichter is ingeschreven, alsmede de beroepstitel en de lidstaat waar die is verleend;
 
@@ -2648,87 +2262,74 @@ De informatie, bedoeld in deze afdeling, is correct, helder en ondubbelzinnig. D
 
 ##### Artikel 230f
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van besluiten op grond van artikel 22, zesde lid, van richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376).
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van besluiten op grond van artikel 22, zesde lid, van richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376).
 
-### Afdeling 2b. Bepalingen voor overeenkomsten tussen handelaren en consumenten
+#### Afdeling 2ab. Toegankelijkheidsvoorschriften voor dienstverleners en hun e-handelsdiensten naar aanleiding van de toegankelijkheidsrichtlijn
 
-### Afdeling 5. Wederkerige overeenkomsten
+##### Artikel 230fa
 
-##### Artikel 119b
+In deze afdeling wordt verstaan onder:
 
-1. De schadevergoeding, verschuldigd door een overheidsinstantie wegens vertraging in de voldoening van een geldsom, bestaat in geval van een handelsovereenkomst met een overheidsinstantie in de wettelijke rente van die som met ingang van de dag volgend op de dag die is overeengekomen als uiterste dag van betaling tot en met de dag waarop de schuldenaar de geldsom heeft voldaan. Onder overheidsinstantie wordt verstaan de Staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling dan wel een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen als bedoeld in artikel 2 lid 2 van richtlijn nr. 2011/7 van het Europees Parlement en de Raad van 23 februari 2011 betreffende bestrijding van betalingsachterstand bij handelstransacties (PbEU L48/11).
+- a. *personen met een handicap:* personen met langdurige fysieke, mentale, intellectuele of zintuiglijke beperkingen die in hun interactie te kampen hebben met diverse drempels die hen kunnen beletten volledig, effectief en op voet van gelijkheid met anderen in de samenleving te participeren;
 
-2. Indien geen uiterste dag van betaling is overeengekomen, is de wettelijke rente van rechtswege verschuldigd:
+- b. *dienst:* dienst als bedoeld in [artikel 230a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2a&artikel=230a&z=2026-07-16&g=2026-07-16);
 
-- a. vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de factuur heeft ontvangen, of
+- c. *dienstverlener:* natuurlijke of rechtspersoon die een dienst verleent op de markt van de Unie of aanbiedt consumenten in de Unie een dienst te verlenen;
 
-- b. indien de datum van ontvangst van de factuur niet vaststaat, of indien de schuldenaar de factuur ontvangt voordat hij de prestatie heeft ontvangen, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de prestatie is ontvangen, of
+- d. *consument:* natuurlijke persoon die een e-handelsdienst afneemt voor andere doeleinden dan zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit;
 
-- c. indien de schuldenaar een termijn heeft bedongen waarbinnen hij de ontvangen prestatie kan aanvaarden dan wel kan beoordelen of deze aan de overeenkomst beantwoordt, en indien hij de factuur ontvangt voordat hij de prestatie heeft aanvaard of beoordeeld, vanaf 30 dagen na de aanvang van de dag, volgende op die waarop de schuldenaar de prestatie heeft aanvaard of beoordeeld, dan wel, indien hij zich niet over goedkeuring of aanvaarding uitspreekt, vanaf 30 dagen na de aanvang van de dag volgende op die waarop de termijn verstrijkt.
+- e. *handelsdiensten:* diensten die worden verleend op afstand, via websites en diensten op basis van mobiele apparaten, langs elektronische weg en op individueel verzoek van een consument met het oog op het sluiten van een overeenkomst;
 
-3. Telkens na afloop van een jaar wordt het bedrag waarover de wettelijke rente wordt berekend, vermeerderd met de over dat jaar verschuldigde rente.
+- f. *richtlijn (EU) 2019/882:*
+ Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151).
 
-4. De termijn bedoeld in lid 2 onder c bedraagt niet meer dan 30 dagen vanaf de datum van ontvangst van de prestatie, tenzij partijen uitdrukkelijk een langere termijn in de overeenkomst en aanbestedingsdocumenten opnemen en deze termijn niet kennelijk onbillijk is jegens de schuldeiser, mede gelet op:
+##### Artikel 230fb
 
-- a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 30 dagen termijn;
+1. De dienstverlener die e-handelsdiensten verricht jegens een consument ontwerpt en verleent die diensten in overeenstemming met de
 
-- b. de aard van de prestatie; en
+toegankelijkheidsvoorschriften in bijlage I, afdeling III en IV, onder g, en bijlage V bij richtlijn (EU) 2019/882.
 
-- c. elke aanmerkelijke afwijking van goede handelspraktijken.
+2. Dienstverleners zijn verplicht tot:
 
-5. Bij overeenkomst kan niet van een uiterste dag van betaling van ten hoogste 30 dagen, overeenkomstig het tweede lid, worden afgeweken, tenzij partijen uitdrukkelijk een langere termijn van betaling in de overeenkomst opnemen en de bijzondere aard of eigenschappen van de overeenkomst dit objectief rechtvaardigen. De betalingstermijn bedraagt in dat geval ten hoogste 60 dagen.
+- a. het overeenkomstig bijlage V bij richtlijn (EU) 2019/882 opstellen van de vereiste informatie en toelichten van de manier waarop de diensten aan de toepasselijke toegankelijkheidsvoorschriften voldoen;
 
-6. Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+- b. het schriftelijk en mondeling ter beschikking stellen van informatie aan het publiek op een manier die mede toegankelijk is voor personen met een handicap;
 
-7. De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+- c. het bewaren van die informatie zolang de dienst in werking is;
 
-8. Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een hogere overeengekomen rente.
+- d. het toepassen van procedures die garanderen dat de dienstverlening in overeenstemming blijft met de toepasselijke toegankelijkheidsvoorschriften;
 
-### Afdeling 12. Verrekening
+- e. het op gepaste wijze rekening houden met veranderingen in de dienstverlening, veranderingen in de toepasselijke toegankelijkheidsvoorschriften, veranderingen in de geharmoniseerde normen of in technische specificaties op basis waarvan wordt verklaard dat een dienst aan de toegankelijkheidsvoorschriften voldoet;
 
-## Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
+- f. het onmiddellijk treffen van corrigerende maatregelen indien de aangeboden dienst niet in overeenstemming is met de onderdelen a tot en met e.
 
-### Afdeling 1. Gevolgen van overgang van vorderingen
+##### Artikel 230fc
 
-### Afdeling 2. Subrogatie
+1. [Artikel 230fb](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2ab&artikel=230fb&z=2026-07-16&g=2026-07-16) is niet van toepassing op ondernemingen met minder dan 10 werknemers en een jaaromzet of een jaarlijks balanstotaal van ten hoogste 2 miljoen euro.
 
-### Afdeling 3. Schuld- en contractsoverneming
+2. De in [artikel 230fb](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2ab&artikel=230fb&z=2026-07-16&g=2026-07-16) bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
 
-### Afdeling 4. Afstand en vermenging
+- a. geen ingrijpende wijziging van een e-handelsdienst vereist die leidt tot een fundamentele wijziging van de wezenlijke aard ervan; of
 
-## Titel 3. Onrechtmatige daad
+- b. geen onevenredige last voor de betrokken dienstverlener oplevert.
 
-### Afdeling 1. Algemene bepalingen
+3. Dienstverleners die uit andere bronnen dan eigen middelen financiering ontvangen ter verbetering van de toegankelijkheid, ongeacht of het om publieke of particuliere financiering gaat, kunnen geen beroep doen op lid 2, onderdeel b.
 
-### Afdeling 2. Aansprakelijkheid voor personen en zaken
+##### Artikel 230fd
 
-### Afdeling 3. Produktenaansprakelijkheid
+1. Het verlenen van e-handelsdiensten wordt vermoed te voldoen aan de eisen, bedoeld in bijlage I, afdelingen III en IV, onderdeel g, van richtlijn (EU) 2019/882, indien is voldaan aan de met betrekking tot die richtlijn vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
 
-### Afdeling 3A. Oneerlijke handelspraktijken
+2. Van een vermoeden van overeenstemming als bedoeld in lid 1 is sprake indien het verlenen van e-handelsdiensten voldoet aan:
 
-### Afdeling 4. Misleidende en vergelijkende reclame
+- a. de geharmoniseerde normen of delen daarvan waarvan de referenties bekend zijn gemaakt in het Publicatieblad van de Europese Unie en deze normen van kracht zijn;
 
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
+- b. de technische specificaties of delen daarvan, voor zover deze technische specificaties of delen daarvan die voorschriften bestrijken.
 
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
+3. Het verlenen van e-handelsdiensten in overeenstemming met de eisen, bedoeld in bijlage I, afdeling VI, van richtlijn (EU) 2019/882, wordt vermoed te voldoen aan de verplichtingen inzake toegankelijkheid krachtens andere Uniehandelingen dan die richtlijn, tenzij in die andere Uniehandelingen anders wordt bepaald.
 
-### Afdeling 3. Ongerechtvaardigde verrijking
+4. Het verlenen van e-handelsdiensten die voldoen aan de geharmoniseerde normen of technische specificaties of delen van die normen of specificaties, bedoeld in lid 2, onderdeel a of b, wordt vermoed in overeenstemming te zijn met lid 3, voor zover deze normen of technische specificaties of delen daarvan voldoen aan de toegankelijkheidsvoorschriften van richtlijn (EU) 2019/882.
 
-## Titel 5. Overeenkomsten in het algemeen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2b. Bepalingen voor overeenkomsten tussen handelaren en consumenten
-
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
-
-### Afdeling 5. Wederkerige overeenkomsten
-
-### Afdeling 2b. Bepalingen voor overeenkomsten tussen handelaren en consumenten
-
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
-
-### Afdeling 5. Wederkerige overeenkomsten
+#### Afdeling 2b. Bepalingen voor overeenkomsten tussen handelaren en consumenten
 
 #### Paragraaf 1. – Algemene bepalingen
 
@@ -2736,79 +2337,79 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 1. In deze afdeling wordt verstaan onder:
 
-- a. **consument:** iedere natuurlijke persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteit vallen;
+- a. *consument:* iedere natuurlijke persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteit vallen;
 
-- b. **handelaar:** iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;
+- b. *handelaar:* iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;
 
-- c. **consumentenkoop:** de overeenkomst, bedoeld in [artikel 5 lid 1, onderdeel a, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
+- c. *consumentenkoop:* de overeenkomst, bedoeld in [artikel 5 lid 1, onderdeel a, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
 
-- d. **overeenkomst tot het verrichten van diensten:** iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst, met inbegrip van een digitale dienst, te verrichten;
+- d. *overeenkomst tot het verrichten van diensten:* iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst, met inbegrip van een digitale dienst, te verrichten;
 
-- e. **overeenkomst op afstand:** de overeenkomst die tussen de handelaar en de consument wordt gesloten in het kader van een georganiseerd systeem voor verkoop of dienstverlening op afstand zonder gelijktijdige persoonlijke aanwezigheid van handelaar en consument en waarbij, tot en met het moment van het sluiten van de overeenkomst, uitsluitend gebruik wordt gemaakt van een of meer middelen voor communicatie op afstand;
+- e. *overeenkomst op afstand:* de overeenkomst die tussen de handelaar en de consument wordt gesloten in het kader van een georganiseerd systeem voor verkoop of dienstverlening op afstand zonder gelijktijdige persoonlijke aanwezigheid van handelaar en consument en waarbij, tot en met het moment van het sluiten van de overeenkomst, uitsluitend gebruik wordt gemaakt van een of meer middelen voor communicatie op afstand;
 
-- f. **overeenkomst buiten de verkoopruimte:** iedere overeenkomst tussen de handelaar en de consument, die:
+- f. *overeenkomst buiten de verkoopruimte:* iedere overeenkomst tussen de handelaar en de consument, die:
 
-  - 1°. wordt gesloten in gelijktijdige persoonlijke aanwezigheid van de handelaar en de consument op een andere plaats dan de verkoopruimte van de handelaar of waarvoor door de consument een aanbod is gedaan onder dezelfde omstandigheden;
+   - 1°. wordt gesloten in gelijktijdige persoonlijke aanwezigheid van de handelaar en de consument op een andere plaats dan de verkoopruimte van de handelaar of waarvoor door de consument een aanbod is gedaan onder dezelfde omstandigheden;
 
-  - 2°. wordt gesloten in de verkoopruimte van de handelaar of met behulp van een middel voor communicatie op afstand, onmiddellijk nadat de consument persoonlijk en individueel is aangesproken op een plaats die niet de verkoopruimte van de handelaar is, in gelijktijdige persoonlijke aanwezigheid van de handelaar en de consument; of
+   - 2°. wordt gesloten in de verkoopruimte van de handelaar of met behulp van een middel voor communicatie op afstand, onmiddellijk nadat de consument persoonlijk en individueel is aangesproken op een plaats die niet de verkoopruimte van de handelaar is, in gelijktijdige persoonlijke aanwezigheid van de handelaar en de consument; of
 
-  - 3°. wordt gesloten tijdens een excursie die door de handelaar is georganiseerd met als doel of effect de promotie en de verkoop van zaken of diensten aan de consument;
+   - 3°. wordt gesloten tijdens een excursie die door de handelaar is georganiseerd met als doel of effect de promotie en de verkoop van zaken of diensten aan de consument;
 
-- g. **verkoopruimte:**
+- g. *verkoopruimte:*
 
-  - 1°. iedere onverplaatsbare ruimte voor detailhandel waar de handelaar op permanente basis zijn activiteiten uitoefent, of
+   - 1°. iedere onverplaatsbare ruimte voor detailhandel waar de handelaar op permanente basis zijn activiteiten uitoefent, of
 
-  - 2°. iedere verplaatsbare ruimte voor detailhandel waar de handelaar gewoonlijk zijn activiteiten uitoefent;
+   - 2°. iedere verplaatsbare ruimte voor detailhandel waar de handelaar gewoonlijk zijn activiteiten uitoefent;
 
-- h. **duurzame gegevensdrager:** ieder hulpmiddel dat de consument of de handelaar in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die is aangepast aan het doel waarvoor de informatie is bestemd, en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt;
+- h. *duurzame gegevensdrager:* ieder hulpmiddel dat de consument of de handelaar in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die is aangepast aan het doel waarvoor de informatie is bestemd, en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt;
 
-- i. **digitale inhoud:** gegevens die in digitale vorm geproduceerd en geleverd worden;
+- i. *digitale inhoud:* gegevens die in digitale vorm geproduceerd en geleverd worden;
 
-- j. **openbare veiling:** een verkoopmethode waarbij zaken of diensten door middel van een transparante competitieve biedprocedure onder leiding van een veilingmeester door de handelaar worden aangeboden aan consumenten, die persoonlijk aanwezig zijn op de veiling of daartoe de mogelijkheid hebben, en waarbij de winnende bieder zich verbindt de zaken of diensten af te nemen;
+- j. *openbare veiling:* een verkoopmethode waarbij zaken of diensten door middel van een transparante competitieve biedprocedure onder leiding van een veilingmeester door de handelaar worden aangeboden aan consumenten, die persoonlijk aanwezig zijn op de veiling of daartoe de mogelijkheid hebben, en waarbij de winnende bieder zich verbindt de zaken of diensten af te nemen;
 
-- k. **commerciële garantie:** iedere verbintenis van de handelaar of een producent om, naast de wettelijke verplichting om een zaak te leveren die voldoet aan de overeenkomst, de consument de betaalde prijs terug te betalen of de zaken op enigerlei wijze te vervangen, herstellen of onderhouden, wanneer die niet voldoen aan specificaties of aan enige andere vereisten die geen verband houden met de hiervoor genoemde wettelijke verplichting, die vermeld zijn in de garantieverklaring of in de desbetreffende reclameboodschappen op het moment van of vóór het sluiten van de overeenkomst;
+- k. *commerciële garantie:* iedere verbintenis van de handelaar of een producent om, naast de wettelijke verplichting om een zaak te leveren die voldoet aan de overeenkomst, de consument de betaalde prijs terug te betalen of de zaken op enigerlei wijze te vervangen, herstellen of onderhouden, wanneer die niet voldoen aan specificaties of aan enige andere vereisten die geen verband houden met de hiervoor genoemde wettelijke verplichting, die vermeld zijn in de garantieverklaring of in de desbetreffende reclameboodschappen op het moment van of vóór het sluiten van de overeenkomst;
 
-- l. **commerciële garantie van duurzaamheid:** commerciële garantie van duurzaamheid voor bepaalde zaken die de producent de consument gedurende een bepaalde periode biedt als bedoeld in [artikel 6a lid 2 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=6a);
+- l. *commerciële garantie van duurzaamheid:* commerciële garantie van duurzaamheid voor bepaalde zaken die de producent de consument gedurende een bepaalde periode biedt als bedoeld in [artikel 6a lid 2 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=6a);
 
-- m. **duurzaamheid:** duurzaamheid als bedoeld in [artikel 5 lid 1, onderdeel h, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
+- m. *duurzaamheid:* duurzaamheid als bedoeld in [artikel 5 lid 1, onderdeel h, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
 
-- n. **producent:** producent als bedoeld in [artikel 5 lid 1, onderdeel i, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
+- n. *producent:* producent als bedoeld in [artikel 5 lid 1, onderdeel i, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=5);
 
-- o. **repareerbaarheidsscore:** score die de repareerbaarheid van een zaak aangeeft op basis van op Unieniveau vastgestelde geharmoniseerde voorschriften;
+- o. *repareerbaarheidsscore:* score die de repareerbaarheid van een zaak aangeeft op basis van op Unieniveau vastgestelde geharmoniseerde voorschriften;
 
-- p. **software-update:** gratis update, met inbegrip van een beveiligingsupdate, die noodzakelijk is om ervoor te zorgen dat een zaak met digitale elementen, digitale inhoud of een digitale dienst aan de overeenkomst blijft beantwoorden;
+- p. *software-update:* gratis update, met inbegrip van een beveiligingsupdate, die noodzakelijk is om ervoor te zorgen dat een zaak met digitale elementen, digitale inhoud of een digitale dienst aan de overeenkomst blijft beantwoorden;
 
-- q. **aanvullende overeenkomst:** een overeenkomst waarbij een consument zaken of diensten verwerft in verband met een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte, en deze zaken of diensten door de handelaar worden geleverd of door een derde partij op basis van een afspraak tussen die derde partij en de handelaar;
+- q. *aanvullende overeenkomst:* een overeenkomst waarbij een consument zaken of diensten verwerft in verband met een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte, en deze zaken of diensten door de handelaar worden geleverd of door een derde partij op basis van een afspraak tussen die derde partij en de handelaar;
 
-- r. **recht van ontbinding:** het recht om de overeenkomst overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230o&z=2026-07-16&g=2026-07-16) respectievelijk [artikel 230x](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=6&artikel=230x&z=2026-07-16&g=2026-07-16) te ontbinden;
+- r. *recht van ontbinding:* het recht om de overeenkomst overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230o&z=2026-07-16&g=2026-07-16) respectievelijk [artikel 230x](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=6&artikel=230x&z=2026-07-16&g=2026-07-16) te ontbinden;
 
-- s. **ontbindingstermijn:** de termijn waarbinnen het recht van ontbinding overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230o&z=2026-07-16&g=2026-07-16) respectievelijk [artikel 230x](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=6&artikel=230x&z=2026-07-16&g=2026-07-16) kan worden uitgeoefend;
+- s. *ontbindingstermijn:* de termijn waarbinnen het recht van ontbinding overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230o&z=2026-07-16&g=2026-07-16) respectievelijk [artikel 230x](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=6&artikel=230x&z=2026-07-16&g=2026-07-16) kan worden uitgeoefend;
 
-- t. **financieel product, financiële dienst, financiële onderneming, fiscaal gefaciliteerd financieel product, krediet, levensverzekering, natura-uitvaartverzekeraar, natura-uitvaartverzekering, pensioeninkomen en verzekering:** hetgeen daaronder wordt verstaan in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en de daarop berustende bepalingen;
+- t. *financieel product, financiële dienst, financiële onderneming, fiscaal gefaciliteerd financieel product, krediet, levensverzekering, natura-uitvaartverzekeraar, natura-uitvaartverzekering, pensioeninkomen en verzekering:* hetgeen daaronder wordt verstaan in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en de daarop berustende bepalingen;
 
-- u. **richtlijn:** Richtlijn 2011/83/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende consumentenrechten, tot wijziging van Richtlijn 93/13/EEG van de Raad en van Richtlijn 1999/44/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijn 85/577/EEG en van Richtlijn 97/7/EG van het Europees Parlement en de Raad (Pb EU L 304/64);
+- u. *richtlijn:* Richtlijn 2011/83/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende consumentenrechten, tot wijziging van Richtlijn 93/13/EEG van de Raad en van Richtlijn 1999/44/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijn 85/577/EEG en van Richtlijn 97/7/EG van het Europees Parlement en de Raad (Pb EU L 304/64);
 
-- v. **richtlijn nr. 2002/65/EG:** richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271/16);
+- v. *richtlijn nr. 2002/65/EG:* richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271/16);
 
-- w. **zaak met digitale elementen:** roerende zaak waarin digitale inhoud of een digitale dienst is verwerkt of die daarmee onderling verbonden is, op zodanige wijze dat het ontbreken daarvan ertoe zou leiden dat de zaak zijn functies niet kan vervullen;
+- w. *zaak met digitale elementen:* roerende zaak waarin digitale inhoud of een digitale dienst is verwerkt of die daarmee onderling verbonden is, op zodanige wijze dat het ontbreken daarvan ertoe zou leiden dat de zaak zijn functies niet kan vervullen;
 
-- x. **persoonsgegevens:** persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van [verordening (EU) 2016/679](32579R2016) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (PbEU 2016 L 119);
+- x. *persoonsgegevens:* persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (PbEU 2016 L 119);
 
-- y. **digitale dienst:**
+- y. *digitale dienst:*
 
-  - 1°. dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen; of
+   - 1°. dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen; of
 
-  - 2°. dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
+   - 2°. dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
 
-- z. **onlinemarktplaats:** dienst die gebruikmaakt van software, waaronder een website, een deel van een website of een door of namens de handelaar beheerde applicatie, die consumenten in staat stelt een overeenkomst op afstand te sluiten met andere handelaren of consumenten;
+- z. *onlinemarktplaats:* dienst die gebruikmaakt van software, waaronder een website, een deel van een website of een door of namens de handelaar beheerde applicatie, die consumenten in staat stelt een overeenkomst op afstand te sluiten met andere handelaren of consumenten;
 
-- aa. **aanbieder van een onlinemarktplaats:** handelaar die consumenten een onlinemarktplaats aanbiedt;
+- aa. *aanbieder van een onlinemarktplaats:* handelaar die consumenten een onlinemarktplaats aanbiedt;
 
-- ab. **compatibiliteit:** het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt, zonder dat die digitale inhoud of digitale dienst moeten worden omgezet;
+- ab. *compatibiliteit:* het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt, zonder dat die digitale inhoud of digitale dienst moeten worden omgezet;
 
-- ac. **functionaliteit:** het vermogen van de digitale inhoud of digitale dienst om zijn functies te vervullen met betrekking tot het doel ervan;
+- ac. *functionaliteit:* het vermogen van de digitale inhoud of digitale dienst om zijn functies te vervullen met betrekking tot het doel ervan;
 
-- ad. **interoperabiliteit:** het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software die verschilt van die waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt.
+- ad. *interoperabiliteit:* het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software die verschilt van die waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt.
 
 2. Voor de toepassing van deze afdeling gelden voor een overeenkomst die zowel de levering van roerende zaken als het verrichten van diensten betreft, met uitzondering van [artikel 230s lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230s&z=2026-07-16&g=2026-07-16), slechts de bepalingen die van toepassing zijn op consumentenkoop.
 
@@ -2832,7 +2433,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 - c. betreffende sociale dienstverlening, met inbegrip van sociale huisvesting, kinderzorg en ondersteuning van gezinnen of personen in permanente of tijdelijke nood, waaronder langdurige zorg;
 
-- d. betreffende gezondheidszorg zoals omschreven in artikel 3 onderdeel a van Richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg (Pb L 88/45), ongeacht of deze diensten al dan niet via gezondheidszorgfaciliteiten worden verleend;
+- d. betreffende gezondheidszorg zoals omschreven in artikel 3 onderdeel a van Richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg (Pb L 88/45), ongeacht of deze diensten al dan niet via gezondheidszorgfaciliteiten worden verleend;
 
 - e. betreffende gokactiviteiten waarbij bij kansspelen een inzet met een waarde in geld wordt gedaan, met inbegrip van loterijen, casinospelen en weddenschappen;
 
@@ -2862,7 +2463,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 1. Van het bepaalde bij of krachtens deze afdeling kan niet ten nadele van de consument worden afgeweken.
 
-2. Op de termijnen genoemd in deze afdeling is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing.
+2. Op de termijnen genoemd in deze afdeling is Verordening (EEG, Euratom) nr. 1182/71 (PbEG L 124) van de Raad van 3 juni 1971 houdende vaststelling van de regels die van toepassing zijn op termijnen, data en aanvangs- en vervaltijden van overeenkomstige toepassing.
 
 3. De in deze afdeling opgenomen bepalingen gelden niet voor zover deze op grond van artikel 3 lid 2 van de richtlijn van het toepassingsgebied van de richtlijn zijn uitgezonderd.
 
@@ -2892,7 +2493,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - d. voor zover van toepassing, de wijze van betaling, levering, nakoming, de termijn waarbinnen de handelaar zich verbindt de zaak te leveren of de dienst te verlenen, en het beleid van de handelaar inzake klachtenbehandeling;
 
-- e. een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst en de belangrijkste elementen daarvan, die op een in het oog springende manier wordt verstrekt met behulp van de kennisgeving, bedoeld in artikel 22 bis van de richtlijn;
+- e. een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst en de belangrijkste elementen daarvan, die op een in het oog springende manier wordt verstrekt met behulp van de kennisgeving, bedoeld in artikel 22 bis van de richtlijn;
 
 - f. voor zover van toepassing, de duur van de overeenkomst, of, wanneer de overeenkomst van onbepaalde duur is of automatisch verlengd wordt, de voorwaarden voor het opzeggen van de overeenkomst;
 
@@ -2900,7 +2501,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - h. voor zover van toepassing, de relevante compatibiliteit en interoperabiliteit van een zaak met digitale elementen, digitale inhoud of een digitale dienst waarvan de handelaar op de hoogte is of redelijkerwijs kan worden verondersteld op de hoogte te zijn;
 
-- i. indien de producent de consument zonder extra kosten een commerciële garantie van duurzaamheid die de gehele zaak dekt biedt voor meer dan twee jaar en deze informatie ter beschikking stelt van de handelaar, de informatie dat de zaak onder deze garantie valt, de duur daarvan, en een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst, die op een in het oog springende manier worden verstrekt met behulp van het etiket, bedoeld in artikel 22 bis van de richtlijn;
+- i. indien de producent de consument zonder extra kosten een commerciële garantie van duurzaamheid die de gehele zaak dekt biedt voor meer dan twee jaar en deze informatie ter beschikking stelt van de handelaar, de informatie dat de zaak onder deze garantie valt, de duur daarvan, en een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst, die op een in het oog springende manier worden verstrekt met behulp van het etiket, bedoeld in artikel 22 bis van de richtlijn;
 
 - j. een herinnering aan het bestaan van de wettelijke regeling om digitale inhoud of een digitale dienst te leveren die beantwoordt aan de overeenkomst;
 
@@ -2910,7 +2511,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - m. voor zover van toepassing, de repareerbaarheidsscore voor de zaken;
 
-- n. indien onderdeel m niet van toepassing is en mits de producent de informatie ter beschikking van de handelaar stelt, informatie over de beschikbaarheid en de geraamde kostprijs van en de procedure voor het bestellen van reserveonderdelen die noodzakelijk zijn om ervoor te zorgen dat de zaken blijven beantwoorden aan de overeenkomst, over de beschikbaarheid van reparatie- en onderhoudsinstructies en over reparatiebeperkingen.
+- n. indien onderdeel m niet van toepassing is en mits de producent de informatie ter beschikking van de handelaar stelt, informatie over de beschikbaarheid en de geraamde kostprijs van en de procedure voor het bestellen van reserveonderdelen die noodzakelijk zijn om ervoor te zorgen dat de zaken blijven beantwoorden aan de overeenkomst, over de beschikbaarheid van reparatie- en onderhoudsinstructies en over reparatiebeperkingen.
 
 #### Paragraaf 3. – Bepalingen voor overeenkomsten op afstand en overeenkomsten buiten de verkoopruimte
 
@@ -2932,7 +2533,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - g. de wijze van betaling, levering, met inbegrip van, in voorkomend geval, milieuvriendelijke leveringsopties, uitvoering, de termijn waarbinnen de handelaar zich verbindt de zaak te leveren of de diensten te verlenen en, voor zover van toepassing, het klachtafhandelingsbeleid van de handelaar;
 
-- h. wanneer een recht van ontbinding van de overeenkomst bestaat, de voorwaarden, de termijn en de modaliteiten voor de uitoefening van dat recht overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2a&artikel=230c&z=2026-07-16&g=2026-07-16), alsmede het modelformulier voor ontbinding opgenomen in bijlage I, deel B, van de richtlijn, en, in voorkomend geval, informatie over de beschikbaarheid en de plaats van de functie, bedoeld in [artikel 230oa lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230oa&z=2026-07-16&g=2026-07-16);
+- h. wanneer een recht van ontbinding van de overeenkomst bestaat, de voorwaarden, de termijn en de modaliteiten voor de uitoefening van dat recht overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2a&artikel=230c&z=2026-07-16&g=2026-07-16), alsmede het modelformulier voor ontbinding opgenomen in bijlage I, deel B, van de richtlijn, en, in voorkomend geval, informatie over de beschikbaarheid en de plaats van de functie, bedoeld in [artikel 230oa lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230oa&z=2026-07-16&g=2026-07-16);
 
 - i. voor zover van toepassing, het feit dat de consument de kosten van het terugzenden van de zaken zal moeten dragen in geval van uitoefening van het recht van ontbinding en, voor een overeenkomst op afstand, indien de zaken door hun aard niet per gewone post kunnen worden teruggezonden, de kosten van het terugzenden van de zaken;
 
@@ -2940,7 +2541,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - k. indien er niet voorzien is in het recht van ontbinding van de overeenkomst, de informatie dat de consument geen recht van ontbinding heeft of, voor zover van toepassing, de omstandigheden waarin de consument afstand doet van zijn recht van ontbinding;
 
-- l. een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst en de belangrijkste elementen daarvan, die op een in het oog springende manier wordt verstrekt met behulp van de kennisgeving, bedoeld in artikel 22 bis van de richtlijn;
+- l. een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst en de belangrijkste elementen daarvan, die op een in het oog springende manier wordt verstrekt met behulp van de kennisgeving, bedoeld in artikel 22 bis van de richtlijn;
 
 - m. voor zover van toepassing, het bestaan en de voorwaarden van bijstand aan de consument na verkoop, van diensten na verkoop en van commerciële garanties;
 
@@ -2960,7 +2561,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - u. indien van toepassing, dat de prijs is gepersonaliseerd op basis van geautomatiseerde besluitvorming;
 
-- v. indien de producent de consument zonder extra kosten een commerciële garantie van duurzaamheid die de gehele zaak dekt biedt voor meer dan twee jaar en deze informatie ter beschikking stelt van de handelaar, de informatie dat die zaak onder deze garantie valt, de duur daarvan en een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst, die op een in het oog springende manier worden verstrekt met behulp van het etiket, bedoeld in artikel 22 bis van de richtlijn;
+- v. indien de producent de consument zonder extra kosten een commerciële garantie van duurzaamheid die de gehele zaak dekt biedt voor meer dan twee jaar en deze informatie ter beschikking stelt van de handelaar, de informatie dat die zaak onder deze garantie valt, de duur daarvan en een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst, die op een in het oog springende manier worden verstrekt met behulp van het etiket, bedoeld in artikel 22 bis van de richtlijn;
 
 - w. een herinnering aan het bestaan van de wettelijke regeling om digitale inhoud of een digitale dienst te leveren die aan de overeenkomst beantwoordt;
 
@@ -2968,7 +2569,7 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - y. waar van toepassing, de repareerbaarheidsscore voor de zaken;
 
-- z. indien onderdeel y niet van toepassing is en mits de producent de informatie ter beschikking van de handelaar stelt, informatie over de beschikbaarheid en de geraamde kostprijs van, en de procedure voor het bestellen van reserveonderdelen die noodzakelijk zijn om ervoor te zorgen dat de zaken aan de overeenkomst blijven beantwoorden, over de beschikbaarheid van reparatie- en onderhoudsinstructies en over reparatiebeperkingen.
+- z. indien onderdeel y niet van toepassing is en mits de producent de informatie ter beschikking van de handelaar stelt, informatie over de beschikbaarheid en de geraamde kostprijs van, en de procedure voor het bestellen van reserveonderdelen die noodzakelijk zijn om ervoor te zorgen dat de zaken aan de overeenkomst blijven beantwoorden, over de beschikbaarheid van reparatie- en onderhoudsinstructies en over reparatiebeperkingen.
 
 2. Bij een openbare veiling kan aan de in lid 1 in onderdelen b, c en d, bedoelde informatieverplichting worden voldaan door de overeenkomstige gegevens van de veilingmeester te verstrekken.
 
@@ -3000,13 +2601,13 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 - b. bij een consumentenkoop:
 
-  - 1°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de zaak heeft ontvangen;
+   - 1°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de zaak heeft ontvangen;
 
-  - 2°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de laatste zaak heeft ontvangen, indien de consument in eenzelfde bestelling meerdere zaken heeft besteld die afzonderlijk worden geleverd;
+   - 2°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de laatste zaak heeft ontvangen, indien de consument in eenzelfde bestelling meerdere zaken heeft besteld die afzonderlijk worden geleverd;
 
-  - 3°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de laatste zending of het laatste onderdeel heeft ontvangen indien de levering van een zaak bestaat uit verschillende zendingen of onderdelen; of
+   - 3°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de laatste zending of het laatste onderdeel heeft ontvangen indien de levering van een zaak bestaat uit verschillende zendingen of onderdelen; of
 
-  - 4°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de eerste zaak heeft ontvangen voor een overeenkomst die strekt tot de regelmatige levering van zaken gedurende een bepaalde periode;
+   - 4°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de eerste zaak heeft ontvangen voor een overeenkomst die strekt tot de regelmatige levering van zaken gedurende een bepaalde periode;
 
 - c. bij een overeenkomst tot levering van water, gas of elektriciteit, die niet gereed voor verkoop zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, van stadsverwarming of van digitale inhoud, anders dan op een materiële drager: de dag waarop de overeenkomst wordt gesloten.
 
@@ -3018,6 +2619,24 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 
 5. Op de consument rust de bewijslast voor de juiste en tijdige uitoefening van het in lid 1 bedoelde recht.
 
+##### Artikel 230oa
+
+1. De handelaar zorgt ervoor dat de consument het recht van ontbinding van een via een online-interface gesloten overeenkomst op afstand kan uitoefenen door een verklaring tot ontbinding in te dienen door middel van een duidelijk zichtbaar op de online-interface weergegeven en gemakkelijk toegankelijke functie. De functie wordt daartoe op een goed leesbare wijze aangeduid met een ondubbelzinnige formulering waaruit blijkt dat daarmee de overeenkomst kan worden ontbonden.
+
+2. De handelaar stelt de consument in staat de volgende informatie in de verklaring tot ontbinding, bedoeld in lid 1, te verstrekken of te bevestigen:
+
+- a. naam van de consument;
+
+- b. de gegevens ter identificatie van de overeenkomst die de consument wenst te ontbinden; en
+
+- c. nadere gegevens over de elektronische middelen waarmee de handelaar de ontbinding aan de consument zal bevestigen.
+
+3. Zodra de consument de in lid 2 bedoelde verklaring heeft ingevuld, stelt de handelaar de consument in staat deze verklaring bij de handelaar in te dienen door middel van een functie die op goed leesbare wijze wordt aangeduid met een ondubbelzinnige formulering waaruit blijkt dat daarmee de ontbinding kan worden bevestigd.
+
+4. Zodra de consument de functie, bedoeld in lid 3, activeert, bevestigt de handelaar de ontvangst van de ontbinding onverwijld op een duurzame gegevensdrager, onder vermelding van informatie over de inhoud van de verklaring en de datum en het tijdstip van indiening.
+
+5. De consument wordt geacht het recht van ontbinding binnen de geldende ontbindingstermijn te hebben uitgeoefend, indien de consument de verklaring, bedoeld in lid 1, voor het verstrijken van de ontbindingstermijn bij de handelaar heeft ingediend. De handelaar zorgt ervoor dat de functie gedurende deze termijn te allen tijde beschikbaar is.
+
 ##### Artikel 230p
 
 De consument heeft geen recht van ontbinding bij:
@@ -3026,43 +2645,43 @@ De consument heeft geen recht van ontbinding bij:
 
 - b. een overeenkomst waarbij de consument de handelaar specifiek verzocht heeft hem te bezoeken om daar dringende herstellingen of onderhoud te verrichten, met uitzondering van:
 
-  - 1°. aanvullende dienstverlening waar de consument niet uitdrukkelijk om heeft verzocht;
+   - 1°. aanvullende dienstverlening waar de consument niet uitdrukkelijk om heeft verzocht;
 
-  - 2°. de levering van andere zaken dan die noodzakelijk zijn om het onderhoud of de herstellingen uit te voeren;
+   - 2°. de levering van andere zaken dan die noodzakelijk zijn om het onderhoud of de herstellingen uit te voeren;
 
 - c. een overeenkomst die is gesloten tijdens een openbare veiling;
 
-- d. een overeenkomst tot het verrichten van diensten, na nakoming van de overeenkomst, en voor zover de overeenkomst voor de consument een betalingsverplichting inhoudt, indien:
+- d. een overeenkomst tot het verrichten van diensten, na nakoming van de overeenkomst, en voor zover de overeenkomst voor de consument een betalingsverplichting inhoudt, indien:
 
-  - 1°. de nakoming is begonnen met uitdrukkelijke voorafgaande instemming van de consument; en
+   - 1°. de nakoming is begonnen met uitdrukkelijke voorafgaande instemming van de consument; en
 
-  - 2°. de consument heeft verklaard afstand te doen van zijn recht van ontbinding zodra de handelaar de overeenkomst is nagekomen;
+   - 2°. de consument heeft verklaard afstand te doen van zijn recht van ontbinding zodra de handelaar de overeenkomst is nagekomen;
 
 - e. een overeenkomst tot het verrichten van diensten die strekt tot de terbeschikkingstelling van accommodatie anders dan voor woondoeleinden, van goederenvervoer, van autoverhuurdiensten, van catering en van diensten met betrekking tot vrijetijdsbesteding, indien in de overeenkomst een bepaald tijdstip of een bepaalde periode van nakoming is voorzien;
 
 - f. een consumentenkoop betreffende:
 
-  - 1°. de levering van volgens specificaties van de consument vervaardigde zaken, die niet geprefabriceerd zijn en die worden vervaardigd op basis van een individuele keuze of beslissing van de consument, of die duidelijk voor een specifieke persoon bestemd zijn;
+   - 1°. de levering van volgens specificaties van de consument vervaardigde zaken, die niet geprefabriceerd zijn en die worden vervaardigd op basis van een individuele keuze of beslissing van de consument, of die duidelijk voor een specifieke persoon bestemd zijn;
 
-  - 2°. de levering van zaken die snel bederven of die een beperkte houdbaarheid hebben;
+   - 2°. de levering van zaken die snel bederven of die een beperkte houdbaarheid hebben;
 
-  - 3°. de levering van zaken die niet geschikt zijn om te worden teruggezonden om redenen van gezondheidsbescherming of hygiëne en waarvan de verzegeling na de levering is verbroken;
+   - 3°. de levering van zaken die niet geschikt zijn om te worden teruggezonden om redenen van gezondheidsbescherming of hygiëne en waarvan de verzegeling na de levering is verbroken;
 
-  - 4°. de levering van zaken die na levering door hun aard onherroepelijk vermengd zijn met andere zaken;
+   - 4°. de levering van zaken die na levering door hun aard onherroepelijk vermengd zijn met andere zaken;
 
-  - 5°. de levering van alcoholische dranken waarvan de prijs is overeengekomen bij het sluiten van een consumentenkoop, maar waarvan de levering slechts kan plaatsvinden na dertig dagen, en waarvan de werkelijke waarde afhankelijk is van schommelingen van de markt waarop de handelaar geen invloed heeft;
+   - 5°. de levering van alcoholische dranken waarvan de prijs is overeengekomen bij het sluiten van een consumentenkoop, maar waarvan de levering slechts kan plaatsvinden na dertig dagen, en waarvan de werkelijke waarde afhankelijk is van schommelingen van de markt waarop de handelaar geen invloed heeft;
 
-  - 6°. de levering van audio- en video-opnamen en computerprogrammatuur waarvan de verzegeling na levering is verbroken;
+   - 6°. de levering van audio- en video-opnamen en computerprogrammatuur waarvan de verzegeling na levering is verbroken;
 
-  - 7°. de levering van kranten, tijdschriften of magazines, met uitzondering van een overeenkomst voor de geregelde levering van dergelijke publicaties;
+   - 7°. de levering van kranten, tijdschriften of magazines, met uitzondering van een overeenkomst voor de geregelde levering van dergelijke publicaties;
 
 - g. een overeenkomst voor de levering van digitale inhoud die niet op een materiële drager is geleverd voor zover de nakoming is begonnen, en voor zover de overeenkomst voor de consument een betalingsverplichting inhoudt, indien:
 
-  - 1°. de nakoming is begonnen met uitdrukkelijke voorafgaande toestemming van de consument;
+   - 1°. de nakoming is begonnen met uitdrukkelijke voorafgaande toestemming van de consument;
 
-  - 2°. de consument heeft verklaard dat hij daarmee afstand doet van zijn recht van ontbinding; en
+   - 2°. de consument heeft verklaard dat hij daarmee afstand doet van zijn recht van ontbinding; en
 
-  - 3°. de handelaar een bevestiging heeft verstrekt als bedoeld in [artikel 230t lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230t&z=2026-07-16&g=2026-07-16), of [artikel 230v lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=5&artikel=230v&z=2026-07-16&g=2026-07-16).
+   - 3°. de handelaar een bevestiging heeft verstrekt als bedoeld in [artikel 230t lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230t&z=2026-07-16&g=2026-07-16), of [artikel 230v lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=5&artikel=230v&z=2026-07-16&g=2026-07-16).
 
 ##### Artikel 230q
 
@@ -3108,17 +2727,17 @@ De consument heeft geen recht van ontbinding bij:
 
 - a. de uitvoering van diensten, of de levering van water, gas of elektriciteit, wanneer deze niet in beperkte volumes of in een bepaalde hoeveelheid gereed voor verkoop zijn gemaakt, of van stadsverwarming, die geheel of gedeeltelijk tijdens de ontbindingstermijn zijn verleend, indien:
 
-  - 1°. de handelaar heeft nagelaten de informatie overeenkomstig [artikel 230m lid 1, onderdeel h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16), te verstrekken; of
+   - 1°. de handelaar heeft nagelaten de informatie overeenkomstig [artikel 230m lid 1, onderdeel h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16), te verstrekken; of
 
-  - 2°. de consument er niet overeenkomstig [artikel 230t lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230t&z=2026-07-16&g=2026-07-16) of [artikel 230v lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=5&artikel=230v&z=2026-07-16&g=2026-07-16) uitdrukkelijk om heeft verzocht met de uitvoering van de dienst tijdens de ontbindingstermijn te beginnen;
+   - 2°. de consument er niet overeenkomstig [artikel 230t lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230t&z=2026-07-16&g=2026-07-16) of [artikel 230v lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=5&artikel=230v&z=2026-07-16&g=2026-07-16) uitdrukkelijk om heeft verzocht met de uitvoering van de dienst tijdens de ontbindingstermijn te beginnen;
 
 - b. de volledige of gedeeltelijke levering van digitale inhoud die niet op een materiële drager is geleverd, indien:
 
-  - 1°. de consument er van te voren niet uitdrukkelijk mee heeft ingestemd dat de uitvoering kan beginnen voor het einde van de ontbindingstermijn;
+   - 1°. de consument er van te voren niet uitdrukkelijk mee heeft ingestemd dat de uitvoering kan beginnen voor het einde van de ontbindingstermijn;
 
-  - 2°. de verklaring van de consument als bedoeld in [artikel 230p onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230p&z=2026-07-16&g=2026-07-16) waarmee hij afstand doet van zijn recht van ontbinding ontbreekt; of
+   - 2°. de verklaring van de consument als bedoeld in [artikel 230p onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230p&z=2026-07-16&g=2026-07-16) waarmee hij afstand doet van zijn recht van ontbinding ontbreekt; of
 
-  - 3°. de handelaar heeft verzuimd om de consument overeenkomstig [artikel 230t lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230t&z=2026-07-16&g=2026-07-16) respectievelijk [artikel 230v lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=5&artikel=230v&z=2026-07-16&g=2026-07-16) een afschrift van de bevestiging te verstrekken.
+   - 3°. de handelaar heeft verzuimd om de consument overeenkomstig [artikel 230t lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230t&z=2026-07-16&g=2026-07-16) respectievelijk [artikel 230v lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=5&artikel=230v&z=2026-07-16&g=2026-07-16) een afschrift van de bevestiging te verstrekken.
 
 6. De consument is niet aansprakelijk noch enige kosten verschuldigd door de uitoefening van zijn recht van ontbinding, onverminderd het bepaalde in lid 3, alsmede [artikel 230r lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230r&z=2026-07-16&g=2026-07-16).
 
@@ -3132,7 +2751,7 @@ De consument heeft geen recht van ontbinding bij:
 
 2. De handelaar verstrekt aan de consument op papier, of, indien de consument hiermee instemt, op een andere duurzame gegevensdrager, een afschrift van de ondertekende overeenkomst of de bevestiging van de overeenkomst, met inbegrip van de bevestiging van de uitdrukkelijke voorafgaande toestemming en de verklaring van de consument waarmee hij afstand doet van zijn recht van ontbinding overeenkomstig [artikel 230p onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230p&z=2026-07-16&g=2026-07-16), voor zover van toepassing.
 
-3. Nakoming van een overeenkomst tot het verrichten van diensten of voor de levering van water, gas of elektriciteit, die niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of van stadsverwarming, en die overeenkomst een betalingsverplichting inhoudt, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, door middel van een daartoe strekkende schriftelijke verklaring op een duurzame gegevensdrager, en de consument heeft verklaard dat hij afstand doet van zijn recht op ontbinding zodra de handelaar de overeenkomst volledig is nagekomen.
+3. Nakoming van een overeenkomst tot het verrichten van diensten of voor de levering van water, gas of elektriciteit, die niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of van stadsverwarming, en die overeenkomst een betalingsverplichting inhoudt, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, door middel van een daartoe strekkende schriftelijke verklaring op een duurzame gegevensdrager, en de consument heeft verklaard dat hij afstand doet van zijn recht op ontbinding zodra de handelaar de overeenkomst volledig is nagekomen.
 
 4. Bij ontbinding overeenkomstig [artikel 230o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230o&z=2026-07-16&g=2026-07-16) haalt de handelaar op zijn kosten de aan de consument geleverde zaak af wanneer deze:
 
@@ -3152,13 +2771,13 @@ Het is een handelaar verboden een aanbod tot het sluiten van een overeenkomst bu
 
 1. Bij een overeenkomst op afstand verstrekt de handelaar de in [artikel 230m lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16) genoemde informatie aan de consument op een wijze die passend is voor de gebruikte middelen voor communicatie op afstand en in een duidelijke en begrijpelijke taal. Verstrekt de handelaar deze informatie op een duurzame gegevensdrager, dan is zij in leesbare vorm opgesteld.
 
-2. Voordat op elektronische wijze een overeenkomst op afstand wordt gesloten waaruit een betalingsverplichting voor de consument voortvloeit, wijst de handelaar de consument op een duidelijke en in het oog springende manier en onmiddellijk voordat de consument zijn bestelling plaatst, op de in [artikel 230m lid 1, onderdelen a, e, o, p en v](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=230&z=2026-07-16&g=2026-07-16), genoemde informatie.
+2. Voordat op elektronische wijze een overeenkomst op afstand wordt gesloten waaruit een betalingsverplichting voor de consument voortvloeit, wijst de handelaar de consument op een duidelijke en in het oog springende manier en onmiddellijk voordat de consument zijn bestelling plaatst, op de in [artikel 230m lid 1, onderdelen a, e, o, p en v](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=230&z=2026-07-16&g=2026-07-16), genoemde informatie.
 
 3. De handelaar richt zijn elektronische bestelproces op zodanige wijze in dat de consument een aanbod niet kan aanvaarden dan nadat hem op niet voor misverstand vatbare wijze duidelijk is gemaakt dat de bestelling een betalingsverplichting inhoudt. Indien de aanvaarding geschiedt door gebruik van een knop of soortgelijke functie, is aan de vorige zin voldaan indien bij het plaatsen van de bestelling in niet voor misverstand vatbare termen en op goed leesbare wijze blijkt dat de aanvaarding een betalingsverplichting jegens de handelaar inhoudt. Een knop of soortgelijke functie wordt daartoe op een goed leesbare wijze aangemerkt met een ondubbelzinnige formulering waaruit blijkt dat het plaatsen van de bestelling een betalingsverplichting jegens de handelaar inhoudt. De enkele zinsnede «bestelling met betalingsverplichting» wordt aangemerkt als een dergelijke ondubbelzinnige verklaring. Een overeenkomst die in strijd met dit lid tot stand komt, is vernietigbaar.
 
 4. Op websites waarop zaken of diensten door de handelaar worden aangeboden wordt uiterlijk aan het begin van het bestelproces duidelijk en leesbaar aangegeven of er beperkingen gelden voor de levering en welke betaalmiddelen worden aanvaard.
 
-5. Voordat een overeenkomst op afstand wordt gesloten met behulp van een middel voor communicatie op afstand dat beperkte ruimte of tijd biedt voor het tonen van de informatie, verstrekt de handelaar, bij of via dat specifieke middel, ten minste de precontractuele informatie over de voornaamste kenmerken van de zaken of diensten, de identiteit van de handelaar, de totale prijs, het recht van ontbinding, de duur van de overeenkomst en, bij een overeenkomst voor onbepaalde tijd, de voorwaarden om de overeenkomst op te zeggen, bedoeld in [artikel 230m lid 1 onderdelen a, b, e, h en o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16), met uitzondering van het in onderdeel h bedoelde en in bijlage I, deel B, van de richtlijn opgenomen modelformulier voor ontbinding. De overige in [artikel 230m lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16) bedoelde informatie, met inbegrip van het modelformulier voor ontbinding, wordt door de handelaar op passende wijze aan de consument verstrekt, overeenkomstig lid 1.
+5. Voordat een overeenkomst op afstand wordt gesloten met behulp van een middel voor communicatie op afstand dat beperkte ruimte of tijd biedt voor het tonen van de informatie, verstrekt de handelaar, bij of via dat specifieke middel, ten minste de precontractuele informatie over de voornaamste kenmerken van de zaken of diensten, de identiteit van de handelaar, de totale prijs, het recht van ontbinding, de duur van de overeenkomst en, bij een overeenkomst voor onbepaalde tijd, de voorwaarden om de overeenkomst op te zeggen, bedoeld in [artikel 230m lid 1 onderdelen a, b, e, h en o](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16), met uitzondering van het in onderdeel h bedoelde en in bijlage I, deel B, van de richtlijn opgenomen modelformulier voor ontbinding. De overige in [artikel 230m lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230m&z=2026-07-16&g=2026-07-16) bedoelde informatie, met inbegrip van het modelformulier voor ontbinding, wordt door de handelaar op passende wijze aan de consument verstrekt, overeenkomstig lid 1.
 
 6. De handelaar deelt bij het gebruik van de telefoon met als doel het sluiten van een overeenkomst op afstand met een consument aan het begin van het gesprek de identiteit en, voor zover van toepassing, de identiteit van de persoon namens wie hij opbelt, alsmede het commerciële doel van het gesprek mede. Een overeenkomst op afstand tot het geregeld verrichten van diensten of tot het geregeld leveren van gas, elektriciteit, water of van stadsverwarming, die het gevolg is van dit gesprek, wordt schriftelijk aangegaan. Van deze eis van schriftelijkheid is uitgezonderd de overeenkomst waarin een tussen partijen bestaande overeenkomst wordt verlengd of vernieuwd.
 
@@ -3168,7 +2787,7 @@ Het is een handelaar verboden een aanbod tot het sluiten van een overeenkomst bu
 
 - b. voor zover van toepassing, de bevestiging van de uitdrukkelijke voorafgaande toestemming en de verklaring van de consument overeenkomstig [artikel 230p onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=3&artikel=230p&z=2026-07-16&g=2026-07-16).
 
-8. Nakoming van een overeenkomst op afstand tot het verrichten van een dienst of tot levering van water, gas of elektriciteit, die niet gereed voor verkoop zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of tot levering van stadsverwarming, en die overeenkomst een betalingsverplichting inhoudt, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, en de consument heeft verklaard dat hij afstand doet van zijn recht op ontbinding zodra de handelaar de overeenkomst volledig is nagekomen.
+8. Nakoming van een overeenkomst op afstand tot het verrichten van een dienst of tot levering van water, gas of elektriciteit, die niet gereed voor verkoop zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of tot levering van stadsverwarming, en die overeenkomst een betalingsverplichting inhoudt, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, en de consument heeft verklaard dat hij afstand doet van zijn recht op ontbinding zodra de handelaar de overeenkomst volledig is nagekomen.
 
 #### Paragraaf 6. – Specifieke bepalingen voor overeenkomsten op afstand en buiten de verkoopruimte inzake financiële producten en financiële diensten
 
@@ -3256,274 +2875,426 @@ Het is een handelaar verboden een aanbod tot het sluiten van een overeenkomst bu
 
 7. [Artikel 230u](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2b&paragraaf=4&artikel=230u&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing op de overeenkomst buiten de verkoopruimte inzake een financieel product of een financiële dienst.
 
-### Afdeling 3. Algemene voorwaarden
+#### Afdeling 3. Algemene voorwaarden
 
-### Afdeling 3. Algemene voorwaarden
-
-### Afdeling 5. Wederkerige overeenkomsten
-
-##### Artikel 177a
-
-1. Bij fysieke schade aan gebouwen en werken, die naar haar aard redelijkerwijs schade door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk zou kunnen zijn, wordt vermoed dat die schade veroorzaakt is door de aanleg of de exploitatie van dat mijnbouwwerk.
-
-2. De benadeelde kan zich slechts beroepen op het vermoeden, bedoeld in het eerste lid, indien hij de exploitant, bedoeld in [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2026-07-16&g=2026-07-16), op diens verzoek de relevante bescheiden betreffende het gebouw of werk ter inzage geeft indien hij daarover beschikt, en de exploitant genoegzaam gelegenheid geeft de schade te onderzoeken.
-
-3. Bij algemene maatregel van bestuur kunnen een of meer gebieden worden vastgesteld waarbinnen het vermoeden, bedoeld in het eerste lid, in ieder geval geldt.
-
-### Afdeling 3. Produktenaansprakelijkheid
-
-### Afdeling 3A. Oneerlijke handelspraktijken
-
-### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
-
-### Afdeling 5. Tijdelijke regeling verhaalsrechten
-
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
-
-### Afdeling 3. Ongerechtvaardigde verrijking
-
-## Titel 5. Overeenkomsten in het algemeen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Het tot stand komen van overeenkomsten
-
-### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
-
-#### Paragraaf 1. – Algemene bepalingen
-
-#### Paragraaf 2. – Bepalingen voor overeenkomsten anders dan op afstand of buiten de verkoopruimte
-
-#### Paragraaf 3. – Bepalingen voor overeenkomsten op afstand en overeenkomsten buiten de verkoopruimte
-
-#### Paragraaf 1. – Algemene bepalingen
-
-#### Paragraaf 3. – Bepalingen voor overeenkomsten op afstand en overeenkomsten buiten de verkoopruimte
-
-#### Paragraaf 6. – Specifieke bepalingen voor overeenkomsten op afstand en buiten de verkoopruimte inzake financiële producten en financiële diensten
-
-### Afdeling 3. Algemene voorwaarden
-
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
-
-### Afdeling 5. Wederkerige overeenkomsten
-
-##### Artikel 193k
+##### Artikel 231
 
 In deze afdeling wordt verstaan onder:
 
-- a. **inbreuk op het mededingingsrecht:** een inbreuk op artikel 101 of 102 van het Verdrag betreffende de Werking van de Europese Unie, het mededingingsrecht van een lidstaat van de Europese Unie dat parallel wordt toegepast aan artikel 101 of 102 van het Verdrag betreffende de Werking van de Europese Unie overeenkomstig artikel 3, eerste lid, van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) of [24 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24);
+- a. algemene voorwaarden: een of meer bedingen die zijn opgesteld teneinde in een aantal overeenkomsten te worden opgenomen, met uitzondering van bedingen die de kern van de prestaties aangeven, voor zover deze laatstgenoemde bedingen duidelijk en begrijpelijk zijn geformuleerd;
 
-- b. **inbreukpleger:** een onderneming of ondernemersvereniging die een inbreuk op het mededingingsrecht heeft gepleegd;
+- b. gebruiker: degene die algemene voorwaarden in een overeenkomst gebruikt;
 
-- c. **mededingingsautoriteit:** de Europese Commissie, of een overeenkomstig artikel 35 van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2003 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003 L 1) door een lidstaat aangewezen autoriteit die bevoegd is de artikelen 101 en 102 van het Verdrag betreffende de Werking van de Europese Unie toe te passen, of beide, indien de omstandigheden dit vereisen dan wel de Autoriteit Consument en Markt, voor zover het de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) of [24 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24) betreft;
+- c. wederpartij: degene die door ondertekening van een geschrift of op andere wijze de gelding van algemene voorwaarden heeft aanvaard.
 
-- d. **kartel:** een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel hun concurrentiegedrag op de markt te coördineren of de relevante parameters van mededinging te beïnvloeden via praktijken zoals onder meer, doch niet uitsluitend, het bepalen of coördineren van aan- of verkoopprijzen of andere contractuele voorwaarden, onder meer met betrekking tot intellectuele-eigendomsrechten, de toewijzing van productie- of verkoopquota, de verdeling van markten en klanten, met inbegrip van offertevervalsing, het beperken van importen of exporten of mededingingsverstorende maatregelen tegen andere concurrenten;
+##### Artikel 232
 
-- e. **ontvanger van immuniteit:** een onderneming waaraan of een natuurlijk persoon aan wie door een mededingingsautoriteit in het kader van een clementieregeling vrijwaring van geldboetes is verleend;
+Een wederpartij is ook dan aan de algemene voorwaarden gebonden als bij het sluiten van de overeenkomst de gebruiker begreep of moest begrijpen dat zij de inhoud daarvan niet kende.
 
-- f. **clementieregeling:** een regeling met betrekking tot de toepassing van artikel 101 van het Verdrag betreffende de Werking van de Europese Unie of een overeenkomstige bepaling in het nationale recht van een lidstaat van de Europese Unie op basis waarvan een deelnemer aan een geheim kartel onafhankelijk van de andere bij het kartel betrokken ondernemingen meewerkt aan een onderzoek van een mededingingsautoriteit door vrijwillig informatie te verschaffen over de kennis die deze deelnemer heeft van het kartel en de rol die hij daarin speelt, in ruil waarvoor de deelnemer, op grond van een besluit of door de procedure stop te zetten, immuniteit wordt verleend tegen geldboetes voor betrokkenheid bij het kartel of een vermindering van deze boetes krijgt;
+##### Artikel 233
 
-- g. **meerkosten:** het verschil tussen de daadwerkelijk betaalde prijs en de prijs die zonder de inbreuk op het mededingingsrecht van toepassing was geweest;
+Een beding in algemene voorwaarden is vernietigbaar
 
-- h. **directe afnemer:** een natuurlijk persoon of rechtspersoon die rechtstreeks van een inbreukpleger producten of diensten heeft verworven die het voorwerp waren van een inbreuk op het mededingingsrecht;
+- a. indien het, gelet op de aard en de overige inhoud van de overeenkomst, de wijze waarop de voorwaarden zijn tot stand gekomen, de wederzijds kenbare belangen van partijen en de overige omstandigheden van het geval, onredelijk bezwarend is voor de wederpartij; of
 
-- i. **indirecte afnemer:** een natuurlijk persoon of rechtspersoon die niet van een inbreukpleger maar van een directe afnemer of een volgende afnemer producten of diensten heeft verworven die het voorwerp waren van een inbreuk op het mededingingsrecht, of producten of diensten waarin deze zijn verwerkt of die daarvan zijn afgeleid.
+- b. indien de gebruiker aan de wederpartij niet een redelijke mogelijkheid heeft geboden om van de algemene voorwaarden kennis te nemen.
 
-##### Artikel 193l
+##### Artikel 234
 
-Een kartel, dat een inbreuk op het mededingingsrecht vormt, wordt vermoed schade te veroorzaken.
+1. De gebruiker heeft aan de wederpartij de in [artikel 233 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld, de voorwaarden overeenkomstig de in [artikel 230c](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2a&artikel=230c&z=2026-07-16&g=2026-07-16) voorziene wijze heeft verstrekt of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt dat de voorwaarden bij hem ter inzage liggen of bij een door hem opgegeven Kamer van Koophandel of een griffie van een gerecht zijn gedeponeerd, alsmede dat zij op verzoek zullen worden toegezonden. Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten aan haar toezendt. Het omtrent de verplichting tot toezending bepaalde is niet van toepassing, voor zover deze toezending redelijkerwijze niet van de gebruiker kan worden gevergd.
 
-##### Artikel 193m
+2. De gebruiker heeft tevens aan de wederpartij de in [artikel 233 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) bedoelde mogelijkheid geboden, indien hij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking heeft gesteld op een zodanige wijze dat deze door haar kunnen worden opgeslagen en voor haar toegankelijk zijn ten behoeve van latere kennisneming of, indien dit redelijkerwijs niet mogelijk is, voor de totstandkoming van de overeenkomst aan de wederpartij heeft bekend gemaakt waar van de voorwaarden langs elektronische weg kan worden kennisgenomen, alsmede dat zij op verzoek langs elektronische weg of op andere wijze zullen worden toegezonden.
 
-1. Indien ondernemingen door een gemeenschappelijk optreden een inbreuk hebben gepleegd op het mededingingsrecht, is elk van hun voor het geheel van de door de inbreuk veroorzaakte schade aansprakelijk.
+Indien de voorwaarden niet voor of bij het sluiten van de overeenkomst aan de wederpartij langs elektronische weg ter beschikking zijn gesteld, zijn de bedingen tevens vernietigbaar indien de gebruiker de voorwaarden niet op verzoek van de wederpartij onverwijld op zijn kosten langs elektronische weg of op andere wijze aan haar toezendt.
 
-2. Mits volledige vergoeding van schade kan worden verkregen van de andere bij de inbreuk betrokken ondernemingen, is in afwijking van het bepaalde in lid 1 een kleine of middelgrote onderneming als bedoeld in Aanbeveling 2003/361/EG van de Europese Commissie die een inbreuk op het mededingingsrecht heeft gepleegd slechts jegens zijn directe en indirecte afnemers aansprakelijk, indien:
+3. Voor het op de in lid 2 bedoelde wijze bieden van een redelijke mogelijkheid om van de algemene voorwaarden kennis te nemen is de uitdrukkelijke instemming van de wederpartij vereist indien de overeenkomst niet langs elektronische weg tot stand komt.
 
-- a. haar marktaandeel op de relevante markt tijdens de inbreuk voortdurend minder dan vijf procent bedroeg, en
+##### Artikel 235
 
-- b. de toepassing van lid 1 haar economische levensvatbaarheid onherstelbaar in gevaar zou brengen en haar vermogensbestanddelen al hun waarde zou doen verliezen.
+1. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2026-07-16&g=2026-07-16) kan geen beroep worden gedaan door
 
-3. Lid 2 mist toepassing indien de onderneming:
+- a. een rechtspersoon bedoeld in [artikel 360 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=360), die ten tijde van het sluiten van de overeenkomst laatstelijk zijn jaarrekening openbaar heeft gemaakt, of ten aanzien waarvan op dat tijdstip laatstelijk [artikel 403 lid 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) is toegepast;
 
-- a. een leidinggevende rol heeft gespeeld bij de inbreuk of andere ondernemingen heeft aangezet hieraan deel te nemen, of
+- b. een partij op wie het onder *a* bepaalde niet van toepassing is, indien op voormeld tijdstip bij haar vijftig of meer personen werkzaam zijn of op dat tijdstip uit een opgave krachtens de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) blijkt dat bij haar vijftig of meer personen werkzaam zijn.
 
-- b. eerder schuldig is bevonden aan een inbreuk op het mededingingsrecht.
+2. Op de vernietigingsgrond bedoeld in [artikel 233 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16), kan mede een beroep worden gedaan door een partij voor wie de algemene voorwaarden door een gevolmachtigde zijn gebruikt, mits de wederpartij meermalen overeenkomsten sluit waarop dezelfde of nagenoeg dezelfde algemene voorwaarden van toepassing zijn.
 
-4. In afwijking van het bepaalde in lid 1 is een ontvanger van immuniteit slechts jegens zijn directe en indirecte afnemers en leveranciers hoofdelijk verbonden tot vergoeding van de schade die voortvloeit uit de inbreuk, tenzij geen volledige vergoeding van schade kan worden verkregen van de andere bij de inbreuk betrokken ondernemingen.
+3. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2026-07-16&g=2026-07-16), kan geen beroep worden gedaan door een partij die meermalen dezelfde of nagenoeg dezelfde algemene voorwaarden in haar overeenkomsten gebruikt.
 
-##### Artikel 193n
+4. De termijn bedoeld in [artikel 52 lid 1 onder d van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=52), begint met de aanvang van de dag, volgende op die waarop een beroep op het beding is gedaan.
 
-De bijdrage van een ontvanger van immuniteit in de onderlinge verhouding met de andere bij de inbreuk betrokken inbreukplegers aan de vergoeding van de schade van hun directe en indirecte afnemers en leveranciers, bedraagt ten hoogste de vergoeding van de schade van zijn directe en indirecte afnemers en leveranciers, in evenredigheid met de mate waarin de aan hem toe te rekenen omstandigheden tot de schade hebben bijgedragen.
+##### Artikel 236
 
-##### Artikel 193o
+Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, wordt als onredelijk bezwarend aangemerkt een in de algemene voorwaarden voorkomend beding
 
-1. Na een schikking wordt de vordering tot schadevergoeding van de bij de schikking betrokken benadeelde verminderd met het aandeel dat de bij de schikking betrokken inbreukpleger heeft gehad in de schade die de benadeelde door de inbreuk op het mededingingsrecht heeft geleden.
+- a. dat de wederpartij geheel en onvoorwaardelijk het recht ontneemt de door de gebruiker toegezegde prestatie op te eisen;
 
-2. Een bij een schikking betrokken benadeelde kan alleen een niet bij de schikking betrokken inbreukpleger aanspreken voor de vergoeding van de na de schikking resterende vordering tot schadevergoeding. De niet bij de schikking betrokken inbreukpleger kan met betrekking tot deze vordering tot schadevergoeding geen bijdrage vorderen van de bij de schikking betrokken inbreukpleger.
+- b. dat de aan de wederpartij toekomende bevoegdheid tot ontbinding, zoals deze in [afdeling 5 van titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&z=2026-07-16&g=2026-07-16) is geregeld, uitsluit of beperkt;
 
-3. Indien niet bij een schikking betrokken inbreukplegers na een schikking niet bij machte zijn om de met de resterende vordering tot schadevergoeding overeenstemmende schade van een bij de schikking betrokken benadeelde te vergoeden, is de bij de schikking betrokken inbreukpleger ook aansprakelijk voor deze schade.
+- c. dat een de wederpartij volgens de wet toekomende bevoegdheid tot opschorting van de nakoming uitsluit of beperkt of de gebruiker een verdergaande bevoegdheid tot opschorting verleent dan hem volgens de wet toekomt;
 
-4. Lid 3 mist toepassing indien uitdrukkelijk anders is bepaald in de voorwaarden van de schikking.
+- d. dat de beoordeling van de vraag of de gebruiker in de nakoming van een of meer van zijn verbintenissen is te kort geschoten aan hem zelf overlaat, of dat de uitoefening van de rechten die de wederpartij ter zake van een zodanige tekortkoming volgens de wet toekomen, afhankelijk stelt van de voorwaarde dat deze eerst een derde in rechte heeft aangesproken;
 
-##### Artikel 193p
+- e. krachtens hetwelk de wederpartij aan de gebruiker bij voorbaat toestemming verleent zijn uit de overeenkomst voortvloeiende verplichtingen op een der in [afdeling 3 van titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&z=2026-07-16&g=2026-07-16) bedoelde wijzen op een derde te doen overgaan, tenzij de wederpartij te allen tijde de bevoegdheid heeft de overeenkomst te ontbinden, of de gebruiker jegens de wederpartij aansprakelijk is voor de nakoming door de derde, of de overgang plaatsvindt in verband met de overdracht van een onderneming waartoe zowel die verplichtingen als de daartegenover bedongen rechten behoren;
 
-Een partij kan het verweer voeren dat de benadeelde de door de inbreuk op het mededingingsrecht veroorzaakte meerkosten heeft doorberekend.
+- f. dat voor het geval uit de overeenkomst voor de gebruiker voortvloeiende rechten op een derde overgaan, ertoe strekt bevoegdheden of verweermiddelen die de wederpartij volgens de wet jegens die derde zou kunnen doen gelden, uit te sluiten of te beperken;
 
-##### Artikel 193q
+- g. dat een wettelijke verjarings- of vervaltermijn waarbinnen de wederpartij enig recht moet geldend maken, tot een verjarings- onderscheidenlijk vervaltermijn van minder dan een jaar verkort;
 
-Een indirecte afnemer wordt vermoed het bewijs van doorberekening te hebben geleverd indien hij aantoont dat:
+- h. dat voor het geval bij de uitvoering van de overeenkomst schade aan een derde wordt toegebracht door de gebruiker of door een persoon of zaak waarvoor deze aansprakelijk is, de wederpartij verplicht deze schade hetzij aan de derde te vergoeden, hetzij in haar verhouding tot de gebruiker voor een groter deel te dragen dan waartoe zij volgens de wet verplicht zou zijn;
 
-- a. de inbreukpleger een inbreuk op het mededingingsrecht heeft gepleegd,
+- i. dat de gebruiker de bevoegdheid geeft de door hem bedongen prijs binnen drie maanden na het sluiten van de overeenkomst te verhogen, tenzij de wederpartij bevoegd is in dat geval de overeenkomst te ontbinden;
 
-- b. de inbreuk heeft geleid tot meerkosten voor de directe afnemer van de inbreukpleger, en
+- j. dat in geval van een overeenkomst tot het geregeld afleveren van zaken, elektriciteit, warmte en koude daaronder begrepen en dag-, nieuws- en weekbladen en tijdschriften niet daaronder begrepen, of tot het geregeld doen van verrichtingen, leidt tot stilzwijgende verlenging of vernieuwing in een overeenkomst voor bepaalde duur, dan wel tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;
 
-- c. de indirecte afnemer de goederen of diensten heeft verworven die het voorwerp waren van de inbreuk, of goederen of diensten waarin deze zijn verwerkt of die daarvan zijn afgeleid.
+- k. dat de bevoegdheid van de wederpartij om bewijs te leveren uitsluit of beperkt, of dat de uit de wet voortvloeiende verdeling van de bewijslast ten nadele van de wederpartij wijzigt, hetzij doordat het een verklaring van haar bevat omtrent de deugdelijkheid van de haar verschuldigde prestatie, hetzij doordat het haar belast met het bewijs dat een tekortkoming van de gebruiker aan hem kan worden toegerekend;
 
-##### Artikel 193r
+- l. dat ten nadele van de wederpartij afwijkt van [artikel 37 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=37), tenzij het betrekking heeft op de vorm van door de wederpartij af te leggen verklaringen of bepaalt dat de gebruiker het hem door de wederpartij opgegeven adres als zodanig mag blijven beschouwen totdat hem een nieuw adres is meegedeeld;
 
-De rechter kan een procedure waarin vergoeding van schade wordt gevorderd wegens een inbreuk op het mededingingsrecht voor ten hoogste twee jaar aanhouden, indien partijen betrokken zijn bij buitengerechtelijke geschillenbeslechting in verband met die vordering.
+- m. waarbij een wederpartij die bij het aangaan van de overeenkomst werkelijke woonplaats in een gemeente in Nederland heeft, woonplaats kiest anders dan voor het geval zij te eniger tijd geen bekende werkelijke woonplaats in die gemeente zal hebben, tenzij de overeenkomst betrekking heeft op een registergoed en woonplaats ten kantore van een notaris wordt gekozen;
 
-##### Artikel 193s
+- n. dat voorziet in de beslechting van een geschil door een ander dan de rechter die volgens de wet bevoegd zou zijn, tenzij het de wederpartij een termijn gunt van tenminste een maand nadat de gebruiker zich schriftelijk jegens haar op het beding heeft beroepen, om voor beslechting van het geschil door de volgens de wet bevoegde rechter te kiezen;
 
-Een rechtsvordering tot vergoeding van schade door een inbreuk op het mededingingsrecht verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de inbreuk is stopgezet en de benadeelde met de inbreuk, de schade die hij dientengevolge lijdt en de daarvoor aansprakelijke persoon bekend is geworden of redelijkerwijs bekend kan worden geacht, en in ieder geval door verloop van twintig jaren na de aanvang van de dag volgende op die waarop de inbreuk is stopgezet.
+- o. dat de bevoegdheid van de wederpartij om de overeenkomst, die mondeling, schriftelijk of langs elektronische weg tot stand is gekomen, op een overeenkomstige wijze op te zeggen, uitsluit of beperkt;
 
-##### Artikel 193t
+- p. dat in geval van een overeenkomst tot het geregeld afleveren van dag-, nieuws- en weekbladen en tijdschriften, leidt tot een stilzwijgende verlenging of vernieuwing van de overeenkomst met een duur die langer is dan drie maanden, dan wel tot een stilzwijgende verlenging of vernieuwing van de overeenkomst met een duur van ten hoogste drie maanden zonder dat de wederpartij de bevoegdheid heeft om de overeenkomst telkens tegen het einde van de duur van de verlenging of de vernieuwing op te zeggen met een opzegtermijn van ten hoogste een maand;
 
-1. Een procedure tot buitengerechtelijke geschillenbeslechting is een grond voor verlenging van de verjaringstermijn tussen de daarbij betrokken partijen. In geval van mediation eindigt de procedure doordat een van de partijen of de mediator aan de andere partij schriftelijk heeft meegedeeld dat de mediation is geëindigd of doordat in de mediation gedurende een periode van zes maanden door geen van de partijen enige handeling is verricht.
+- q. dat in geval van een overeenkomst tot het geregeld afleveren van dag-, nieuws- en weekbladen en tijdschriften, leidt tot een stilzwijgende voortzetting in een overeenkomst voor onbepaalde duur zonder dat de wederpartij de bevoegdheid heeft om de voortgezette overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand of, in geval de geregelde aflevering minder dan eenmaal per maand plaats heeft, met een opzegtermijn van ten hoogste drie maanden;
 
-2. Een handeling van een mededingingsautoriteit verricht in het kader van een onderzoek of procedure met betrekking tot de inbreuk op het mededingingsrecht waarop de rechtsvordering betrekking heeft, is een grond voor verlenging van de verjaringstermijn. De verlenging vangt aan de dag na het verstrijken van de verjaringstermijn. De duur van de verlenging is gelijk aan de periode benodigd voor de vaststelling van een definitieve inbreukbeslissing of het op andere wijze beëindigen van de procedure, vermeerderd met een jaar.
+- r. dat de wederpartij verplicht de verklaring tot opzegging van een overeenkomst als bedoeld onder j of p respectievelijk q te laten plaatsvinden op een bepaald moment;
 
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
+- s. dat in geval van een overeenkomst met beperkte duur tot het geregeld ter kennismaking afleveren van dag-, nieuws-, weekbladen en tijdschriften leidt tot voortzetting van de overeenkomst;
 
-### Afdeling 3. Ongerechtvaardigde verrijking
+- t. dat de geldigheidsduur van een cadeaubon beperkt tot minder dan twee jaar.
 
-## Titel 5. Overeenkomsten in het algemeen
+##### Artikel 237
 
-### Afdeling 1. Algemene bepalingen
+Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, wordt vermoed onredelijk bezwarend te zijn een in de algemene voorwaarden voorkomend beding
 
-### Afdeling 2. Het tot stand komen van overeenkomsten
+- a. dat de gebruiker een, gelet op de omstandigheden van het geval, ongebruikelijk lange of onvoldoende bepaalde termijn geeft om op een aanbod of een andere verklaring van de wederpartij te reageren;
 
-### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
+- b. dat de inhoud van de verplichtingen van de gebruiker wezenlijk beperkt ten opzichte van hetgeen de wederpartij, mede gelet op de wettelijke regels die op de overeenkomst betrekking hebben, zonder dat beding redelijkerwijs mocht verwachten;
 
-### Afdeling 2ab. Toegankelijkheidsvoorschriften voor dienstverleners en hun e-handelsdiensten naar aanleiding van de toegankelijkheidsrichtlijn
+- c. dat de gebruiker de bevoegdheid verleent een prestatie te verschaffen die wezenlijk van de toegezegde prestatie afwijkt, tenzij de wederpartij bevoegd is in dat geval de overeenkomst te ontbinden;
 
-#### Paragraaf 1. – Algemene bepalingen
+- d. dat de gebruiker van zijn gebondenheid aan de overeenkomst bevrijdt of hem de bevoegdheid daartoe geeft anders dan op in de overeenkomst vermelde gronden welke van dien aard zijn dat deze gebondenheid niet meer van hem kan worden gevergd;
 
-#### Paragraaf 2. – Bepalingen voor overeenkomsten anders dan op afstand of buiten de verkoopruimte
+- e. dat de gebruiker een ongebruikelijk lange of onvoldoende bepaalde termijn voor de nakoming geeft;
 
-#### Paragraaf 4. – Aanvullende bepalingen voor overeenkomsten buiten de verkoopruimte
+- f. dat de gebruiker of een derde geheel of ten dele bevrijdt van een wettelijke verplichting tot schadevergoeding;
 
-#### Paragraaf 5. – Aanvullende bepalingen voor overeenkomsten op afstand
+- g. dat een de wederpartij volgens de wet toekomende bevoegdheid tot verrekening uitsluit of beperkt of de gebruiker een verdergaande bevoegdheid tot verrekening verleent dan hem volgens de wet toekomt;
 
-#### Paragraaf 4. – Aanvullende bepalingen voor overeenkomsten buiten de verkoopruimte
+- h. dat als sanctie op bepaalde gedragingen van de wederpartij, nalaten daaronder begrepen, verval stelt van haar toekomende rechten of van de bevoegdheid bepaalde verweren te voeren, behoudens voor zover deze gedragingen het verval van die rechten of verweren rechtvaardigen;
 
-### Afdeling 3. Algemene voorwaarden
+- i. dat voor het geval de overeenkomst wordt beëindigd anders dan op grond van het feit dat de wederpartij in de nakoming van haar verbintenis is tekort geschoten, de wederpartij verplicht een geldsom te betalen, behoudens voor zover het betreft een redelijke vergoeding voor door de gebruiker geleden verlies of gederfde winst;
 
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
+- j. dat de wederpartij verplicht tot het sluiten van een overeenkomst met de gebruiker of met een derde, tenzij dit, mede gelet op het verband van die overeenkomst met de in dit artikel bedoelde overeenkomst, redelijkerwijze van de wederpartij kan worden gevergd;
 
-### Afdeling 5. Wederkerige overeenkomsten
+- k. dat voor een overeenkomst als bedoeld in [artikel 236 onder j of p respectievelijk q](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) een duur bepaalt van meer dan een jaar, tenzij de wederpartij na een jaar de bevoegdheid heeft de overeenkomst te allen tijde op te zeggen met een opzegtermijn van ten hoogste een maand;
 
-##### Artikel 230fa
+- l. dat de wederpartij aan een opzegtermijn bindt die langer is dan de termijn waarop de gebruiker de overeenkomst kan opzeggen;
 
-In deze afdeling wordt verstaan onder:
+- m. dat voor de geldigheid van een door de wederpartij te verrichten verklaring een strengere vorm dan het vereiste van een onderhandse akte stelt;
 
-- a. **personen met een handicap:** personen met langdurige fysieke, mentale, intellectuele of zintuiglijke beperkingen die in hun interactie te kampen hebben met diverse drempels die hen kunnen beletten volledig, effectief en op voet van gelijkheid met anderen in de samenleving te participeren;
+- n. dat bepaalt dat een door de wederpartij verleende volmacht onherroepelijk is of niet eindigt door haar dood of ondercuratelestelling, tenzij de volmacht strekt tot levering van een registergoed;
 
-- b. **dienst:** dienst als bedoeld in [artikel 230a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2a&artikel=230a&z=2026-07-16&g=2026-07-16);
+- o. dat de wederpartij bij overeenkomsten, niet zijnde verlengde, vernieuwde of voortgezette overeenkomsten als bedoeld in [artikel 236, onder j of p respectievelijk q](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16), aan een opzegtermijn bindt die langer is dan een maand.
 
-- c. **dienstverlener:** natuurlijke of rechtspersoon die een dienst verleent op de markt van de Unie of aanbiedt consumenten in de Unie een dienst te verlenen;
+##### Artikel 238
 
-- d. **consument:** natuurlijke persoon die een e-handelsdienst afneemt voor andere doeleinden dan zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit;
+1. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16), kan jegens de wederpartij geen beroep worden gedaan
 
-- e. **handelsdiensten:** diensten die worden verleend op afstand, via websites en diensten op basis van mobiele apparaten, langs elektronische weg en op individueel verzoek van een consument met het oog op het sluiten van een overeenkomst;
+- a. op het feit dat de overeenkomst in naam van een derde is gesloten, indien dit beroep berust op het enkele feit dat een beding van deze strekking in de algemene voorwaarden voorkomt;
 
-- f. **richtlijn (EU) 2019/882:** [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151).
+- b. op het feit dat de algemene voorwaarden beperkingen bevatten van de bevoegdheid van een gevolmachtigde van de gebruiker, die zo ongebruikelijk zijn dat de wederpartij ze zonder het beding niet behoefde te verwachten, tenzij zij ze kende.
 
-##### Artikel 230fb
+2. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16) moeten de bedingen duidelijk en begrijpelijk zijn opgesteld. Bij twijfel over de betekenis van een beding, prevaleert de voor de wederpartij gunstigste uitleg.
 
-1. De dienstverlener die e-handelsdiensten verricht jegens een consument ontwerpt en verleent die diensten in overeenstemming met de
+##### Artikel 239
 
-toegankelijkheidsvoorschriften in bijlage I, afdeling III en IV, onder g, en bijlage V bij [richtlijn (EU) 2019/882](32019L0882).
+1. Bij algemene maatregel van bestuur kunnen de [onderdelen *a-n* van artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16) worden gewijzigd en kan hun toepassingsgebied worden beperkt.
 
-2. Dienstverleners zijn verplicht tot:
+2. Alvorens een voordracht tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het eerste lid te doen, kan Onze Minister van Justitie de naar zijn oordeel representatieve organisaties van hen die bij het sluiten van de overeenkomsten waarop de maatregel betrekking heeft, algemene voorwaarden plegen te gebruiken en van hen die bij die overeenkomsten als hun wederpartij plegen op te treden, horen.
 
-- a. het overeenkomstig bijlage V bij [richtlijn (EU) 2019/882](32019L0882) opstellen van de vereiste informatie en toelichten van de manier waarop de diensten aan de toepasselijke toegankelijkheidsvoorschriften voldoen;
+3. Een besluit als in het eerste lid bedoeld wordt zodra het is vastgesteld toegezonden aan de voorzitters van de beide Kamers van de Staten-Generaal. Een dergelijk besluit treedt niet in werking dan nadat twee maanden zijn verstreken sinds de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.
 
-- b. het schriftelijk en mondeling ter beschikking stellen van informatie aan het publiek op een manier die mede toegankelijk is voor personen met een handicap;
+##### Artikel 240
 
-- c. het bewaren van die informatie zolang de dienst in werking is;
+1. Op vordering van een rechtspersoon als bedoeld in lid 3 kunnen bepaalde bedingen in bepaalde algemene voorwaarden onredelijk bezwarend worden verklaard; de [artikelen 233 onder *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2026-07-16&g=2026-07-16), [236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2026-07-16&g=2026-07-16) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2026-07-16&g=2026-07-16) zijn van overeenkomstige toepassing. Voor de toepassing van de vorige zin wordt een beding in algemene voorwaarden dat in strijd is met een dwingende wetsbepaling, als onredelijk bezwarend aangemerkt. Bij de beoordeling van een beding blijft de uitlegregel van [artikel 238 lid 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=238&z=2026-07-16&g=2026-07-16), buiten toepassing.
 
-- d. het toepassen van procedures die garanderen dat de dienstverlening in overeenstemming blijft met de toepasselijke toegankelijkheidsvoorschriften;
+2. De vordering kan worden ingesteld tegen de gebruiker, alsmede tegen een rechtspersoon met volledige rechtsbevoegdheid die ten doel heeft de behartiging van de belangen van personen die een beroep of bedrijf uitoefenen, indien hij het gebruik van de algemene voorwaarden door die personen bevordert.
 
-- e. het op gepaste wijze rekening houden met veranderingen in de dienstverlening, veranderingen in de toepasselijke toegankelijkheidsvoorschriften, veranderingen in de geharmoniseerde normen of in technische specificaties op basis waarvan wordt verklaard dat een dienst aan de toegankelijkheidsvoorschriften voldoet;
+3. De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid die ten doel hebben de behartiging van belangen van personen die een beroep of bedrijf uitoefenen of van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten. Zij kan slechts betrekking hebben op algemene voorwaarden die worden gebruikt of bestemd zijn te worden gebruikt in overeenkomsten met personen wier belangen door de rechtspersoon worden behartigd.
 
-- f. het onmiddellijk treffen van corrigerende maatregelen indien de aangeboden dienst niet in overeenstemming is met de onderdelen a tot en met e.
+4. De eiser is niet ontvankelijk indien niet blijkt dat hij, alvorens de vordering in te stellen, de gebruiker of, in het geval bedoeld in [artikel 1003 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1003), de aldaar bedoelde vereniging, de gelegenheid heeft geboden om in onderling overleg de algemene voorwaarden zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na de ontvangst van een verzoek tot overleg onder vermelding van de bezwaren, is daartoe in elk geval voldoende.
 
-##### Artikel 230fc
+5. Voor zover een rechtspersoon met het gebruik van bedingen in algemene voorwaarden heeft ingestemd, komt hem geen vordering als bedoeld in lid 1 toe.
 
-1. [Artikel 230fb](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2ab&artikel=230fb&z=2026-07-16&g=2026-07-16) is niet van toepassing op ondernemingen met minder dan 10 werknemers en een jaaromzet of een jaarlijks balanstotaal van ten hoogste 2 miljoen euro.
+6. Met een rechtspersoon als bedoeld in lid 3 wordt gelijk gesteld een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 5, eerste lid, van Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409), mits de vordering betrekking heeft op algemene voorwaarden die worden gebruikt of bestemd zijn te worden gebruikt in overeenkomsten met personen die hun gewone verblijfplaats hebben in het land waar de organisatie of het openbaar lichaam gezeteld is, en de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.
 
-2. De in [artikel 230fb](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2ab&artikel=230fb&z=2026-07-16&g=2026-07-16) bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
+##### Artikel 241
 
-- a. geen ingrijpende wijziging van een e-handelsdienst vereist die leidt tot een fundamentele wijziging van de wezenlijke aard ervan; of
+1. Het gerechtshof Den Haag is bij uitsluiting bevoegd tot kennisneming van vorderingen als in het vorige artikel bedoeld.
 
-- b. geen onevenredige last voor de betrokken dienstverlener oplevert.
+2. De in het vorige artikel bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 217](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=217) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); [artikel 379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
 
-3. Dienstverleners die uit andere bronnen dan eigen middelen financiering ontvangen ter verbetering van de toegankelijkheid, ongeacht of het om publieke of particuliere financiering gaat, kunnen geen beroep doen op lid 2, onderdeel b.
+3. Op vordering van de eiser kan aan de uitspraak worden verbonden
 
-##### Artikel 230fd
+- a. een verbod van het gebruik van de door de uitspraak getroffen bedingen of van het bevorderen daarvan;
 
-1. Het verlenen van e-handelsdiensten wordt vermoed te voldoen aan de eisen, bedoeld in bijlage I, afdelingen III en IV, onderdeel g, van [richtlijn (EU) 2019/882](32019L0882), indien is voldaan aan de met betrekking tot die richtlijn vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
+- b. een gebod om een aanbeveling tot het gebruik van deze bedingen te herroepen;
 
-2. Van een vermoeden van overeenstemming als bedoeld in lid 1 is sprake indien het verlenen van e-handelsdiensten voldoet aan:
+- c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
 
-- a. de geharmoniseerde normen of delen daarvan waarvan de referenties bekend zijn gemaakt in het Publicatieblad van de Europese Unie en deze normen van kracht zijn;
+4. De rechter kan in zijn uitspraak aangeven op welke wijze het onredelijk bezwarend karakter van de bedingen waarop de uitspraak betrekking heeft, kan worden weggenomen.
 
-- b. de technische specificaties of delen daarvan, voor zover deze technische specificaties of delen daarvan die voorschriften bestrijken.
+5. Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
 
-3. Het verlenen van e-handelsdiensten in overeenstemming met de eisen, bedoeld in bijlage I, afdeling VI, van [richtlijn (EU) 2019/882](32019L0882), wordt vermoed te voldoen aan de verplichtingen inzake toegankelijkheid krachtens andere Uniehandelingen dan die richtlijn, tenzij in die andere Uniehandelingen anders wordt bepaald.
+6. Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16), is de voorzieningenrechter van de rechtbank Den Haag bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=62), [116 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=116), [1003](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1003), [1005](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1005), [1006 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1006) zijn van overeenkomstige toepassing.
 
-4. Het verlenen van e-handelsdiensten die voldoen aan de geharmoniseerde normen of technische specificaties of delen van die normen of specificaties, bedoeld in lid 2, onderdeel a of b, wordt vermoed in overeenstemming te zijn met lid 3, voor zover deze normen of technische specificaties of delen daarvan voldoen aan de toegankelijkheidsvoorschriften van [richtlijn (EU) 2019/882](32019L0882).
+##### Artikel 242
 
-#### Paragraaf 2. – Bepalingen voor overeenkomsten anders dan op afstand of buiten de verkoopruimte
+1. Op vordering van een of meer van degenen tegen wie de in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) bedoelde uitspraak is gedaan, kan de rechter die uitspraak wijzigen of opheffen op grond dat zij tengevolge van een wijziging in de omstandigheden niet langer gerechtvaardigd is. De vordering wordt ingesteld tegen de rechtspersoon op wiens vordering de uitspraak was gedaan.
 
-#### Paragraaf 3. – Bepalingen voor overeenkomsten op afstand en overeenkomsten buiten de verkoopruimte
+2. Indien de rechtspersoon op wiens vordering de uitspraak was gedaan, is ontbonden, wordt de zaak met een verzoekschrift ingeleid. Voor de toepassing van [artikel 279 lid 1 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=279) worden rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) als belanghebbenden aangemerkt.
 
-#### Paragraaf 5. – Aanvullende bepalingen voor overeenkomsten op afstand
+3. [Artikel 241 leden 1, 2, 3 onder *c* en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
 
-#### Paragraaf 6. – Specifieke bepalingen voor overeenkomsten op afstand en buiten de verkoopruimte inzake financiële producten en financiële diensten
+4. De vorige leden zijn niet van toepassing voor zover de uitspraak betrekking had op een beding dat door de wet als onredelijk bezwarend wordt aangemerkt.
 
-### Afdeling 3. Algemene voorwaarden
+##### Artikel 243
 
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
+Een beding in algemene voorwaarden dat door degene jegens wie een verbod tot gebruik ervan is uitgesproken, in strijd met het verbod in een overeenkomst wordt opgenomen, is vernietigbaar. [Artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=235&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
 
-### Afdeling 5. Wederkerige overeenkomsten
+##### Artikel 244
 
-##### Artikel 230oa
+1. Een persoon die handelt in de uitoefening van een beroep of bedrijf, kan geen beroep doen op een beding in een overeenkomst met een partij die terzake van de goederen of diensten waarop die overeenkomst betrekking heeft, met gebruikmaking van algemene voorwaarden overeenkomsten met haar afnemers heeft gesloten, voor zover een beroep op dat beding onredelijk zou zijn wegens zijn nauwe samenhang met een in de algemene voorwaarden voorkomend beding dat krachtens deze afdeling is vernietigd of door een uitspraak als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) is getroffen.
 
-1. De handelaar zorgt ervoor dat de consument het recht van ontbinding van een via een online-interface gesloten overeenkomst op afstand kan uitoefenen door een verklaring tot ontbinding in te dienen door middel van een duidelijk zichtbaar op de online-interface weergegeven en gemakkelijk toegankelijke functie. De functie wordt daartoe op een goed leesbare wijze aangeduid met een ondubbelzinnige formulering waaruit blijkt dat daarmee de overeenkomst kan worden ontbonden.
+2. Is tegen de gebruiker een vordering als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2026-07-16&g=2026-07-16) ingesteld, dan is hij bevoegd die persoon in het geding te roepen teneinde voor recht te horen verklaren dat een beroep als bedoeld in het vorige lid onredelijk zou zijn. [Artikel 241 leden 2, 3 onder *c*, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2026-07-16&g=2026-07-16) alsmede de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=210), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=211) en [215 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=215) zijn van overeenkomstige toepassing.
 
-2. De handelaar stelt de consument in staat de volgende informatie in de verklaring tot ontbinding, bedoeld in lid 1, te verstrekken of te bevestigen:
+3. Op de uitspraak is [artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=242&z=2026-07-16&g=2026-07-16) van overeenkomstige toepassing.
 
-- a. naam van de consument;
+4. Op eerdere overeenkomsten met betrekking tot de voormelde goederen en diensten zijn de leden 1-3 van overeenkomstige toepassing.
 
-- b. de gegevens ter identificatie van de overeenkomst die de consument wenst te ontbinden; en
+##### Artikel 245
 
-- c. nadere gegevens over de elektronische middelen waarmee de handelaar de ontbinding aan de consument zal bevestigen.
+Deze afdeling is noch van toepassing op arbeidsovereenkomsten, noch op collectieve arbeidsovereenkomsten.
 
-3. Zodra de consument de in lid 2 bedoelde verklaring heeft ingevuld, stelt de handelaar de consument in staat deze verklaring bij de handelaar in te dienen door middel van een functie die op goed leesbare wijze wordt aangeduid met een ondubbelzinnige formulering waaruit blijkt dat daarmee de ontbinding kan worden bevestigd.
+##### Artikel 246
 
-4. Zodra de consument de functie, bedoeld in lid 3, activeert, bevestigt de handelaar de ontvangst van de ontbinding onverwijld op een duurzame gegevensdrager, onder vermelding van informatie over de inhoud van de verklaring en de datum en het tijdstip van indiening.
+Noch van de [artikelen 231-244](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2026-07-16&g=2026-07-16), noch van de bepalingen van de in [artikel 239 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=239&z=2026-07-16&g=2026-07-16) bedoelde algemene maatregelen van bestuur kan worden afgeweken. De bevoegdheid om een beding krachtens deze afdeling door een buitengerechtelijke verklaring te vernietigen, kan niet worden uitgesloten.
 
-5. De consument wordt geacht het recht van ontbinding binnen de geldende ontbindingstermijn te hebben uitgeoefend, indien de consument de verklaring, bedoeld in lid 1, voor het verstrijken van de ontbindingstermijn bij de handelaar heeft ingediend. De handelaar zorgt ervoor dat de functie gedurende deze termijn te allen tijde beschikbaar is.
+##### Artikel 247
 
-#### Paragraaf 4. – Aanvullende bepalingen voor overeenkomsten buiten de verkoopruimte
+1. Op overeenkomsten tussen partijen die handelen in de uitoefening van een beroep of bedrijf en die beide in Nederland gevestigd zijn, is deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.
 
-#### Paragraaf 5. – Aanvullende bepalingen voor overeenkomsten op afstand
+2. Op overeenkomsten tussen partijen die handelen in de uitoefening van een beroep of bedrijf en die niet beide in Nederland gevestigd zijn, is deze afdeling niet van toepassing, ongeacht het recht dat de overeenkomst beheerst.
 
-#### Paragraaf 6. – Specifieke bepalingen voor overeenkomsten op afstand en buiten de verkoopruimte inzake financiële producten en financiële diensten
+3. Een partij is in de zin van de leden 1 en 2 in Nederland gevestigd, indien haar hoofdvestiging, of, zo de prestatie volgens de overeenkomst door een andere vestiging dan de hoofdvestiging moet worden verricht, deze andere vestiging zich in Nederland bevindt.
 
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
+4. Op overeenkomsten tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, is, indien de wederpartij haar gewone verblijfplaats in Nederland heeft, deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.
 
-### Afdeling 5. Wederkerige overeenkomsten
+#### Afdeling 4. Rechtsgevolgen van overeenkomsten
+
+##### Artikel 248
+
+1. Een overeenkomst heeft niet alleen de door partijen overeengekomen rechtsgevolgen, maar ook die welke, naar de aard van de overeenkomst, uit de wet, de gewoonte of de eisen van redelijkheid en billijkheid voortvloeien.
+
+2. Een tussen partijen als gevolg van de overeenkomst geldende regel is niet van toepassing, voor zover dit in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn.
+
+##### Artikel 249
+
+De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden onder algemene titel, tenzij uit de overeenkomst iets anders voortvloeit. In het geval van verdeling van een nalatenschap ingevolge [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) gelden de rechtsgevolgen van de overeenkomst niet mede voor de kinderen van de erflater, tenzij uit de overeenkomst anders voortvloeit.
+
+##### Artikel 250
+
+Bij overeenkomst kan worden afgeweken van de volgende artikelen van deze afdeling, met uitzondering van de [artikelen 251 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=251&z=2026-07-16&g=2026-07-16), [252 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2026-07-16&g=2026-07-16) voor zover het de eis van een notariële akte betreft, en lid 3, [253 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=253&z=2026-07-16&g=2026-07-16), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=257&z=2026-07-16&g=2026-07-16), [258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2026-07-16&g=2026-07-16), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2026-07-16&g=2026-07-16) en [260](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=260&z=2026-07-16&g=2026-07-16).
+
+##### Artikel 251
+
+1. Staat een uit een overeenkomst voortvloeiende, voor overgang vatbaar recht in een zodanig verband met een aan de schuldeiser toebehorend goed, dat hij bij dat recht slechts belang heeft, zolang hij het goed behoudt, dan gaat dat recht over op degene die dat goed onder bijzondere titel verkrijgt.
+
+2. Is voor het recht een tegenprestatie overeengekomen, dan gaat de verplichting tot het verrichten van die tegenprestatie mede over, voor zover deze betrekking heeft op de periode na de overgang. De vervreemder blijft naast de verkrijger jegens de wederpartij aansprakelijk, behoudens voor zover deze zich na de overgang in geval van uitblijven van de tegenprestatie van haar verbintenis kan bevrijden door ontbinding of beëindiging van de overeenkomst.
+
+3. Het in de vorige leden bepaalde geldt niet, indien de verkrijger van het goed tot de wederpartij bij de overeenkomst een verklaring richt dat hij de overgang van het recht niet aanvaardt.
+
+4. Uit de rechtshandeling waarbij het goed wordt overgedragen, kan voortvloeien dat geen overgang plaatsvindt.
+
+##### Artikel 252
+
+1. Bij een overeenkomst kan worden bedongen dat de verplichting van een der partijen om iets te dulden of niet te doen ten aanzien van een haar toebehorend registergoed, zal overgaan op degenen die het goed onder bijzondere titel zullen verkrijgen, en dat mede gebonden zullen zijn degenen die van de rechthebbende een recht tot gebruik van het goed zullen verkrijgen.
+
+2. Voor de werking van het in lid 1 bedoelde beding is vereist dat van de overeenkomst tussen partijen een notariële akte wordt opgemaakt, gevolgd door inschrijving daarvan in de openbare registers. Degene jegens wie de verplichting bestaat, waarop het beding betrekking heeft, moet in de akte ter zake van de inschrijving woonplaats kiezen in Nederland.
+
+3. Ook na inschrijving heeft het beding geen werking:
+
+- a. jegens hen die voor de inschrijving onder bijzondere titel een recht op het goed of tot gebruik van het goed hebben verkregen;
+
+- b. jegens een beslaglegger op het goed of een recht daarop, indien de inschrijving op het tijdstip van de inschrijving van het proces-verbaal van inbeslagneming nog niet had plaats gevonden;
+
+- c. jegens hen die hun recht hebben verkregen van iemand die ingevolge het onder *a* of *b* bepaalde niet aan de bedongen verplichting gebonden was.
+
+4. Is voor de verplichting een tegenprestatie overeengekomen, dan gaat bij de overgang van de verplichting het recht op de tegenprestatie mee over, voor zover deze betrekking heeft op de periode na de overgang en ook het beding omtrent deze tegenprestatie in de registers ingeschreven is.
+
+5. Dit artikel is niet van toepassing op verplichtingen die een rechthebbende beperken in zijn bevoegdheid het goed te vervreemden of te bezwaren.
+
+##### Artikel 253
+
+1. Een overeenkomst schept voor een derde het recht een prestatie van een der partijen te vorderen of op andere wijze jegens een van hen een beroep op de overeenkomst te doen, indien de overeenkomst een beding van die strekking inhoudt en de derde dit beding aanvaardt.
+
+2. Tot de aanvaarding kan het beding door degene die het heeft gemaakt, worden herroepen.
+
+3. Een aanvaarding of herroeping van het beding geschiedt door een verklaring, gericht tot een van de beide andere betrokkenen.
+
+4. Is het beding onherroepelijk en jegens de derde om niet gemaakt, dan geldt het als aanvaard, indien het ter kennis van de derde is gekomen en door deze niet onverwijld is afgewezen.
+
+##### Artikel 254
+
+1. Nadat de derde het beding heeft aanvaard, geldt hij als partij bij de overeenkomst.
+
+2. Hij kan, indien dit met de strekking van het beding in overeenstemming is, daaraan ook rechten ontlenen over de periode vóór de aanvaarding.
+
+##### Artikel 255
+
+1. Heeft een beding ten behoeve van een derde ten opzichte van die derde geen gevolg, dan kan degene die het beding heeft gemaakt, hetzij zichzelf, hetzij een andere derde als rechthebbende aanwijzen.
+
+2. Hij wordt geacht zichzelf als rechthebbende te hebben aangewezen, wanneer hem door degene van wie de prestatie is bedongen, een redelijke termijn voor de aanwijzing is gesteld en hij binnen deze termijn geen aanwijzing heeft uitgebracht.
+
+##### Artikel 256
+
+De partij die een beding ten behoeve van een derde heeft gemaakt, kan nakoming jegens de derde vorderen, tenzij deze zich daartegen verzet.
+
+##### Artikel 257
+
+Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor een gedraging van een aan haar ondergeschikte aan de overeenkomst een verweermiddel jegens haar wederpartij ontlenen, dan kan ook de ondergeschikte, indien hij op grond van deze gedraging door de wederpartij wordt aangesproken, dit verweermiddel inroepen, als ware hijzelf bij de overeenkomst partij.
+
+##### Artikel 258
+
+1. De rechter kan op vordering van een der partijen de gevolgen van een overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden op grond van onvoorziene omstandigheden welke van dien aard zijn dat de wederpartij naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de overeenkomst niet mag verwachten. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
+
+2. Een wijziging of ontbinding wordt niet uitgesproken, voor zover de omstandigheden krachtens de aard van de overeenkomst of de in het verkeer geldende opvattingen voor rekening komen van degene die zich erop beroept.
+
+3. Voor de toepassing van dit artikel staat degene op wie een recht of een verplichting uit een overeenkomst is overgegaan, met een partij bij die overeenkomst gelijk.
+
+##### Artikel 259
+
+1. Indien een overeenkomst ertoe strekt een rechthebbende op of een gebruiker van een registergoed als zodanig te verplichten tot een prestatie die niet bestaat in of gepaard gaat met het dulden van voortdurend houderschap, kan de rechter op zijn vordering de gevolgen van de overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden:
+
+- a. indien ten minste tien jaren na het sluiten van de overeenkomst zijn verlopen en het ongewijzigd voortduren van de verplichting in strijd is met het algemeen belang;
+
+- b. indien de schuldeiser bij de nakoming van de verplichting geen redelijk belang meer heeft en het niet aannemelijk is dat dit belang zal terugkeren.
+
+2. Voor de termijn vermeld in lid 1 onder *a* telt mee de gehele periode waarin rechthebbende op of gebruikers van het goed aan een beding van dezelfde strekking gebonden zijn geweest. De termijn geldt niet, voor zover de strijd met het algemeen belang hierin bestaat dat het beding een beletsel vormt voor verwerkelijking van een geldend omgevingsplan.
+
+##### Artikel 260
+
+1. Een wijziging of ontbinding als bedoeld in de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2026-07-16&g=2026-07-16) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2026-07-16&g=2026-07-16) kan worden uitgesproken onder door de rechter te stellen voorwaarden.
+
+2. Indien hij op grond van die artikelen de overeenkomst wijzigt of gedeeltelijk ontbindt, kan hij bepalen dat een of meer der partijen de overeenkomst binnen een bij de uitspraak vast te stellen termijn door een schriftelijke verklaring geheel zal kunnen ontbinden. De wijziging of gedeeltelijke ontbinding treedt niet in, voordat deze termijn is verstreken.
+
+3. Is de overeenkomst die op grond van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2026-07-16&g=2026-07-16) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2026-07-16&g=2026-07-16) wordt gewijzigd of geheel of gedeeltelijk ontbonden, ingeschreven in de openbare registers, dan kan ook de uitspraak waarbij de wijziging of ontbinding plaatsvond, daarin worden ingeschreven, mits deze uitspraak in kracht van gewijsde is gegaan of uitvoerbaar bij voorraad is.
+
+4. Wordt iemand te dier zake gedagvaard aan zijn overeenkomstig [artikel 252 lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2026-07-16&g=2026-07-16), gekozen woonplaats, dan zijn daarmee tevens gedagvaard al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. [Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=29) zijn van overeenkomstige toepassing.
+
+5. Andere rechtsfeiten die een ingeschreven overeenkomst wijzigen of beëindigen, zijn eveneens inschrijfbaar, voor zover het rechterlijke uitspraken betreft mits zij in kracht van gewijsde zijn gegaan of uitvoerbaar bij voorraad zijn.
+
+#### Afdeling 5. Wederkerige overeenkomsten
+
+##### Artikel 261
+
+1. Een overeenkomst is wederkerig, indien elk van beide partijen een verbintenis op zich neemt ter verkrijging van de prestatie waartoe de wederpartij zich daartegenover jegens haar verbindt.
+
+2. De bepalingen omtrent wederkerige overeenkomsten zijn van overeenkomstige toepassing op andere rechtsbetrekkingen die strekken tot het wederzijds verrichten van prestaties, voor zover de aard van die rechtsbetrekkingen zich daartegen niet verzet.
+
+##### Artikel 262
+
+1. Komt een der partijen haar verbintenis niet na, dan is de wederpartij bevoegd de nakoming van haar daartegenover staande verplichtingen op te schorten.
+
+2. In geval van gedeeltelijke of niet behoorlijke nakoming is opschorting slechts toegelaten, voor zover de tekortkoming haar rechtvaardigt.
+
+##### Artikel 263
+
+1. De partij die verplicht is het eerst te presteren, is niettemin bevoegd de nakoming van haar verbintenis op te schorten, indien na het sluiten van de overeenkomst te harer kennis gekomen omstandigheden haar goede grond geven te vrezen dat de wederpartij haar daartegenover staande verplichtingen niet zal nakomen.
+
+2. In geval er goede grond bestaat te vrezen dat slechts gedeeltelijk of niet behoorlijk zal worden nagekomen, is de opschorting slechts toegelaten voor zover de tekortkoming haar rechtvaardigt.
+
+##### Artikel 264
+
+In geval van opschorting op grond van de [artikelen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=262&z=2026-07-16&g=2026-07-16) en [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=263&z=2026-07-16&g=2026-07-16) zijn de [artikelen 54 onder *b* en *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=54&z=2026-07-16&g=2026-07-16) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=55&z=2026-07-16&g=2026-07-16) niet van toepassing.
+
+##### Artikel 265
+
+1. Iedere tekortkoming van een partij in de nakoming van een van haar verbintenissen geeft aan de wederpartij de bevoegdheid om de overeenkomst geheel of gedeeltelijk te ontbinden, tenzij de tekortkoming, gezien haar bijzondere aard of geringe betekenis, deze ontbinding met haar gevolgen niet rechtvaardigt.
+
+2. Voor zover nakoming niet blijvend of tijdelijk onmogelijk is, ontstaat de bevoegdheid tot ontbinding pas, wanneer de schuldenaar in verzuim is.
+
+##### Artikel 266
+
+1. Geen ontbinding kan worden gegrond op een tekortkoming in de nakoming van een verbintenis ten aanzien waarvan de schuldeiser zelf in verzuim is.
+
+2. Wordt echter tijdens het verzuim van de schuldeiser behoorlijke nakoming geheel of gedeeltelijk onmogelijk, dan kan de overeenkomst ontbonden worden, indien door schuld van de schuldenaar of zijn ondergeschikte is tekortgeschoten in de zorg die in de gegeven omstandigheden van hem mocht worden gevergd.
+
+##### Artikel 267
+
+1. De ontbinding vindt plaats door een schriftelijke verklaring van de daartoe gerechtigde. Indien de overeenkomst langs elektronische weg is totstandgekomen, kan deze tevens door een langs elektronische weg uitgebrachte verklaring worden ontbonden. [Artikel 227a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=227a&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
+
+2. Zij kan ook op zijn vordering door de rechter worden uitgesproken.
+
+##### Artikel 268
+
+De bevoegdheid tot buitengerechtelijke ontbinding vervalt door verjaring van de rechtsvordering tot ontbinding. De verjaring staat niet in de weg aan gerechtelijke of buitengerechtelijke ontbinding ter afwering van een op de overeenkomst steunende rechtsvordering of andere rechtsmaatregel.
+
+##### Artikel 269
+
+De ontbinding heeft geen terugwerkende kracht, behoudens dat een aanbod tot nakoming, gedaan nadat de ontbinding is gevorderd, geen werking heeft, indien de ontbinding wordt uitgesproken.
+
+##### Artikel 270
+
+Een gedeeltelijke ontbinding houdt een evenredige vermindering in van de wederzijdse prestaties in hoeveelheid of hoedanigheid.
+
+##### Artikel 271
+
+Een ontbinding bevrijdt de partijen van de daardoor getroffen verbintenissen. Voor zover deze reeds zijn nagekomen, blijft de rechtsgrond voor deze nakoming in stand, maar ontstaat voor partijen een verbintenis tot ongedaanmaking van de reeds door hen ontvangen prestaties.
+
+##### Artikel 272
+
+1. Sluit de aard van de prestatie uit dat zij ongedaan wordt gemaakt, dan treedt daarvoor een vergoeding in de plaats ten belope van haar waarde op het tijdstip van de ontvangst.
+
+2. Heeft de prestatie niet aan de verbintenis beantwoord, dan wordt deze vergoeding beperkt tot het bedrag van de waarde die de prestatie voor de ontvanger op dit tijdstip in de gegeven omstandigheden werkelijk heeft gehad.
+
+##### Artikel 273
+
+Een partij die een prestatie heeft ontvangen, is vanaf het tijdstip dat zij redelijkerwijze met een ontbinding rekening moet houden, verplicht er als een zorgvuldig schuldenaar zorg voor te dragen dat de ingevolge die ontbinding verschuldigde ongedaanmaking van de prestatie mogelijk zal zijn. [Artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2026-07-16&g=2026-07-16) is van overeenkomstige toepassing.
+
+##### Artikel 274
+
+Heeft een partij in weerwil van een dreigende ontbinding te kwader trouw een prestatie ontvangen, dan wordt zij na de ontbinding geacht vanaf de ontvangst van de prestatie in verzuim geweest te zijn.
+
+##### Artikel 275
+
+De [artikelen 120-124 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=120) zijn van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de afgifte van vruchten en de vergoeding van kosten en schade.
+
+##### Artikel 276
+
+Op de onbekwame die een prestatie heeft ontvangen, rusten de in deze afdeling omschreven verplichtingen slechts, voor zover het ontvangene hem tot werkelijk voordeel heeft gestrekt of in de macht van zijn wettelijke vertegenwoordiger is gekomen.
+
+##### Artikel 277
+
+1. Wordt een overeenkomst geheel of gedeeltelijk ontbonden, dan is de partij wier tekortkoming een grond voor ontbinding heeft opgeleverd, verplicht haar wederpartij de schade te vergoeden die deze lijdt, doordat geen wederzijdse nakoming doch ontbinding van de overeenkomst plaatsvindt.
+
+2. Indien de tekortkoming niet aan de schuldenaar kan worden toegerekend, is het vorige lid slechts van toepassing binnen de grenzen van het in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2026-07-16&g=2026-07-16) bepaalde.
+
+##### Artikel 278
+
+1. De partij die ontbinding kiest van een reeds uitgevoerde overeenkomst, nadat de verhouding in waarde tussen hetgeen wederzijds bij ongedaanmaking zou moeten worden verricht, zich te haren gunste heeft gewijzigd, is verplicht door bijbetaling de oorspronkelijke waardeverhouding te herstellen, indien aannemelijk is dat zij zonder deze wijziging geen ontbinding zou hebben gekozen.
+
+2. Het vorige lid is van overeenkomstige toepassing ingeval de partij te wier gunste de wijziging is ingetreden, op andere grond dan ontbinding de stoot tot ongedaanmaking geeft en aannemelijk is dat zij daartoe zonder deze wijziging niet zou zijn overgegaan.
+
+##### Artikel 279
+
+1. Op overeenkomsten waaruit tussen meer dan twee partijen verbintenissen voortvloeien, vinden de bepalingen betreffende wederkerige overeenkomsten met inachtneming van de volgende leden overeenkomstige toepassing, voor zover de aard van de overeenkomst zich daartegen niet verzet.
+
+2. De partij die een verbintenis op zich heeft genomen ter verkrijging van een daartegenover van een of meer der andere partijen bedongen prestatie, kan haar recht op ontbinding gronden op een tekortkoming in de nakoming van de verbintenis jegens haarzelf.
+
+3. Schiet een partij met samenhangende rechten en verplichtingen zelf tekort in de nakoming van haar verbintenis, dan kunnen in ieder geval de overige partijen gezamenlijk de overeenkomst ontbinden.

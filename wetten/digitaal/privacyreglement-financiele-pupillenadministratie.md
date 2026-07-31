@@ -1,46 +1,45 @@
 ---
 title: "Privacyreglement financiële pupillenadministratie"
 identifier: "BWBR0004803"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-07-01"
-last_updated: "1990-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004803"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "3738963"
-version_id: "5522002"
-internal_id: "C5715091"
-label_id: "3718884"
-dtd_version: "2.0"
-original_entry_into_force: "1990-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004803/1990-07-01/0"
-intitule_bron: "Stcrt.1990-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-06-25"
-intitule_published: "1990-06-28"
-intitule_in_force: "1990-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-123"
-original_signed_date: "1990-06-25"
-original_published_date: "1990-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-07-01"
-jci_1_3: "jci1.3:c:BWBR0004803&z=1990-07-01&g=1990-07-01"
-jci_1_0: "1.0:c:BWBR0004803&g=1990-07-01"
-citeertitel_status: "officieel"
-signed_date: "1990-06-25"
-entry_into_force: "1990-07-01"
+publicatiedatum: 1990-07-01
+laatste_update: 1990-07-01
+status: geldig
+toestand: 1990-07-01
+bron: "https://wetten.overheid.nl/BWBR0004803"
+opgehaald: 2026-07-31
 ---
+
 # Privacyreglement financiële pupillenadministratie
-
-Overwegende dat ingevolge de artikelen 19, 20 en 22 van de Wet persoonsregistraties (Stb. 1988, 665) een reglement dient te worden vastgesteld voor de financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;
-
-Besluit het volgende reglement vast te stellen:
 
 #### Par. 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
+
+a.
+
+de registratie:
+
+financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;
+
+b.
+
+houder van de registratie:
+
+de minister van Justitie;
+
+c.
+
+beheerder van de registratie:
+
+het Hoofd van de Hoofdafdeling Financieel Economische zaken van de Directie Jeugdbescherming en Reclassering;
+
+d.
+
+jeugdige:
+
+een persoon als bedoeld in [artikel 1, eerste lid, onder b, van de Wet op de jeugdhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0004608&artikel=1) (Stb. 1989, 360).
 
 ##### Artikel 2. Doelstelling
 
@@ -150,19 +149,19 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 - a. binnen de organisatie:
 
-- de sectormanager voogdij- en gezinsvoogdij-instellingen en de door hem aangewezen medewerkers van die sector;
+   - de sectormanager voogdij- en gezinsvoogdij-instellingen en de door hem aangewezen medewerkers van die sector;
 
-- het hoofd van de Hoofdafdeling Financieel Economische Zaken en de door hem aangewezen medewerkers van die Hoofdafdeling;
+   - het hoofd van de Hoofdafdeling Financieel Economische Zaken en de door hem aangewezen medewerkers van die Hoofdafdeling;
 
 - b. buiten de organisatie:
 
-- de voogdij-instellingen, voor zover het betreft onder hun voogdij staande minderjarigen;
+   - de voogdij-instellingen, voor zover het betreft onder hun voogdij staande minderjarigen;
 
-- de gezinsvoogdij-instellingen, voor zover het betreft minderjarigen ten aanzien van wie de begeleiding aan de instelling is opgedragen;
+   - de gezinsvoogdij-instellingen, voor zover het betreft minderjarigen ten aanzien van wie de begeleiding aan de instelling is opgedragen;
 
-- de kinderrechters, voor zover het betreft minderjarigen die onder hun toezicht staan;
+   - de kinderrechters, voor zover het betreft minderjarigen die onder hun toezicht staan;
 
-- de raden voor de kinderbescherming, voor zover het aan hen toevertrouwde minderjarigen betreft.
+   - de raden voor de kinderbescherming, voor zover het aan hen toevertrouwde minderjarigen betreft.
 
 2. Niet tot individuele personen herleidbare gegevens worden verstrekt:
 

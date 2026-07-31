@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 11 maart 1991, ter uitvoering van artikel 1105 van Boek 8 van het Burgerlijk Wetboek"
+citeertitel: "Besluit ex artikel 1105 van Boek 8 van het Burgerlijk Wetboek"
 identifier: "BWBR0005015"
-country: "nl"
-rank: "amvb"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005015"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "380093"
-version_id: "558492"
-internal_id: "C558491"
-label_id: "371024"
-dtd_version: "2.0"
-original_entry_into_force: "1991-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005015/2002-01-01/0"
-intitule_bron: "Stb.1991-109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-03-11"
-intitule_status: "goed"
-original_publication: "Stb.1991-109"
-original_signed_date: "1991-03-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-04-01"
-jci_1_3: "jci1.3:c:BWBR0005015&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0005015&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 1105 van Boek 8 van het Burgerlijk Wetboek"
-signed_date: "1991-03-11"
-entry_into_force: "1991-04-01"
+publicatiedatum: 1991-04-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0005015"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 11 maart 1991, ter uitvoering van artikel 1105 van Boek 8 van het Burgerlijk Wetboek
-
-Op de voordracht van Onze Minister van Justitie van 18 juli 1990, Stafafdeling Wetgeving Nieuw Burgerlijk Wetboek nr. 24355/690;
-
-Gelet op [artikel 1105 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1105);
-
-De Raad van State gehoord (advies van 27 augustus 1990, nr. W03.90.0337);
-
-Gezien het nader rapport van Onze Minister van Justitie van 28 februari 1991, Stafafdeling Wetgeving Nieuw Burgerlijk Wetboek, nr. 46946/91/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -78,10 +50,8 @@ Indien de vervoerder tot schadevergoeding is verplicht, omdat hij noch aan de ui
 
 ##### Artikel 6
 
-Het besluit van 15 juli 1983, **Stb.** 351 wordt ingetrokken.
+Het besluit van 15 juli 1983, *Stb.* 351 wordt ingetrokken.
 
 ##### Artikel 7
 
 Dit besluit treedt in werking op het tijdstip, waarop Boek 8 van het Burgerlijk Wetboek in werking treedt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

@@ -9,7 +9,7 @@ laatste_update: 2026-07-28
 status: geldig
 toestand: 2026-07-28
 bron: "https://wetten.overheid.nl/BWBR0052907"
-opgehaald: 2026-07-30
+opgehaald: 2026-07-31
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 3 juli 2026, nr. IENW/BSK-2026/106467, houdende afhandeling verzoeken inzage beperkt openbare archiefbescheiden Raad voor de Luchtvaart en Rijksluchtvaartdienst met betrekking tot onderzoek naar ongevallen en ernstige incidenten die door het Nationaal Archief worden beheerd (Beleidsregel inzage archiefbescheiden Raad voor de Luchtvaart en Rijksluchtvaartdienst)

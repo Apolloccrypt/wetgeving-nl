@@ -1,42 +1,17 @@
 ---
 title: "Zuid-Afrikaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zuid-Afrika"
 identifier: "BWBR0004909"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1997-06-19"
-last_updated: "1997-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004909"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4486253"
-version_id: "6292562"
-internal_id: "C6496771"
-label_id: "4464644"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004909/1997-06-19/0"
-intitule_bron: "Stcrt.1990-227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-11-21"
-intitule_published: "1990-11-21"
-intitule_in_force: "1990-11-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1990-227"
-original_signed_date: "1990-11-21"
-original_published_date: "1990-11-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-01"
-jci_1_3: "jci1.3:c:BWBR0004909&z=1997-06-19&g=1997-06-19"
-jci_1_0: "1.0:c:BWBR0004909&g=1997-06-19"
-citeertitel_status: "officieel"
-signed_date: "1990-11-21"
-entry_into_force: "1991-01-01"
+publicatiedatum: 1991-01-01
+laatste_update: 1997-06-19
+status: geldig
+toestand: 1997-06-19
+bron: "https://wetten.overheid.nl/BWBR0004909"
+opgehaald: 2026-07-31
 ---
+
 # Zuid-Afrikaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zuid-Afrika
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen: Regeling inzake vermindering of vrijstelling van Zuid-Afrikaanse belasting op dividenden, interest, royalty's pensioenen en lijfrenten, genoten door inwoners van Nederland.
 
 ##### Artikel 1
 
@@ -60,17 +35,17 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004909&a
 
 - a. Dividenden, interest, royalty's, pensioenen en lijfrenten
 
-- 1. Voor het verkrijgen van vermindering of vrijstelling van Zuid-Afrikaanse belasting op dividenden, interest, royalty's, pensioenen en lijfrenten dient de belanghebbende inwoner van Nederland een formulier IT 26 in drievoud in te vullen en te ondertekenen en daarbij de gegevens omtrent de inkomsten ter zake waarvan aanspraak op vermindering of vrijstelling van Zuid-Afrikaanse belasting wordt gemaakt, te vermelden in de desbetreffende rubriek(en) op de achterzijde van de drie exemplaren van het formulier.
+   - 1. Voor het verkrijgen van vermindering of vrijstelling van Zuid-Afrikaanse belasting op dividenden, interest, royalty's, pensioenen en lijfrenten dient de belanghebbende inwoner van Nederland een formulier IT 26 in drievoud in te vullen en te ondertekenen en daarbij de gegevens omtrent de inkomsten ter zake waarvan aanspraak op vermindering of vrijstelling van Zuid-Afrikaanse belasting wordt gemaakt, te vermelden in de desbetreffende rubriek(en) op de achterzijde van de drie exemplaren van het formulier.
 
-- 2. Voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004909&artikel=1&z=1997-06-19&g=1997-06-19) bedoelde verminderingen of vrijstellingen van belasting houdt het formulier in principe het verzoek tot teruggaaf van de in strijd met de bepalingen van de Overeenkomst geheven Zuid-Afrikaanse belasting in. Indien de belanghebbende echter in de eerstvolgende drie jaren geen veranderingen verwacht met betrekking tot de in het formulier vermelde omstandigheden ter zake van de opgegeven inkomsten, kan hij op de daarvoor bestemde plaats op het formulier het verzoek doen toekomstige betalingen van de opbrengsten te mogen ontvangen zonder inhouding van Zuid-Afrikaanse belasting of onder inhouding van Zuid-Afrikaanse belasting naar ten hoogste het in de Overeenkomst neergelegde percentage.
+   - 2. Voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004909&artikel=1&z=1997-06-19&g=1997-06-19) bedoelde verminderingen of vrijstellingen van belasting houdt het formulier in principe het verzoek tot teruggaaf van de in strijd met de bepalingen van de Overeenkomst geheven Zuid-Afrikaanse belasting in. Indien de belanghebbende echter in de eerstvolgende drie jaren geen veranderingen verwacht met betrekking tot de in het formulier vermelde omstandigheden ter zake van de opgegeven inkomsten, kan hij op de daarvoor bestemde plaats op het formulier het verzoek doen toekomstige betalingen van de opbrengsten te mogen ontvangen zonder inhouding van Zuid-Afrikaanse belasting of onder inhouding van Zuid-Afrikaanse belasting naar ten hoogste het in de Overeenkomst neergelegde percentage.
 
-- 3. Nadat de drie exemplaren van het formulier zijn ingevuld en ondertekend, moeten deze door de belanghebbende worden gezonden aan het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Vorenbedoeld hoofd vermeldt op alle drie de exemplaren de datum waarop het formulier bij hem is binnengekomen en voorziet vervolgens de beide, in de Engelse taal luidende, exemplaren van het formulier van een verklaring, inhoudend dat de belanghebbende inwoner van Nederland is. Vervolgens zendt hij die exemplaren aan de bevoegde Zuid-Afrikaanse belastingautoriteit. Het derde, in de Nederlandse taal luidende exemplaar, wordt door hem behouden.
+   - 3. Nadat de drie exemplaren van het formulier zijn ingevuld en ondertekend, moeten deze door de belanghebbende worden gezonden aan het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Vorenbedoeld hoofd vermeldt op alle drie de exemplaren de datum waarop het formulier bij hem is binnengekomen en voorziet vervolgens de beide, in de Engelse taal luidende, exemplaren van het formulier van een verklaring, inhoudend dat de belanghebbende inwoner van Nederland is. Vervolgens zendt hij die exemplaren aan de bevoegde Zuid-Afrikaanse belastingautoriteit. Het derde, in de Nederlandse taal luidende exemplaar, wordt door hem behouden.
 
 - b. Termijn voor indiening van de formulieren
 
-- 1. Ingevolge het bepaalde in onderdeel II van het Protocol bij de Overeenkomst moet een verzoek om teruggaaf van belasting op een formulier IT 26 bij de bevoegde belastingautoriteit in Zuid-Arika worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de Zuid-Afrikaanse belasting over de op het formulier vermelde inkomsten is geheven.
+   - 1. Ingevolge het bepaalde in onderdeel II van het Protocol bij de Overeenkomst moet een verzoek om teruggaaf van belasting op een formulier IT 26 bij de bevoegde belastingautoriteit in Zuid-Arika worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de Zuid-Afrikaanse belasting over de op het formulier vermelde inkomsten is geheven.
 
-- 2. Als datum waarop een formulier IT 26 is ingediend zal gelden de datum waarop het door het bevoegde hoofd van de eenheid van de Belastingdienst is ontvangen.
+   - 2. Als datum waarop een formulier IT 26 is ingediend zal gelden de datum waarop het door het bevoegde hoofd van de eenheid van de Belastingdienst is ontvangen.
 
 - c. Verkrijgbaarheid van de formulieren Exemplaren van het formulier IT 26 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Zuid-Afrika bij The Commissioner for Inland Revenue, P.O. Box 402, Pretoria 0001.
 

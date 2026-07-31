@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 18 december 1986, tot uitvoering van artikel 58 van de Wet overdracht tenuitvoerlegging strafvonnissen"
+citeertitel: "Besluit ex artikel 58 Wet overdracht tenuitvoerlegging strafvonnissen"
 identifier: "BWBR0004072"
-country: "nl"
-rank: "amvb"
-publication_date: "1988-01-01"
-last_updated: "1988-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004072"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "420533"
-version_id: "617912"
-internal_id: "C617911"
-label_id: "409394"
-dtd_version: "2.0"
-original_entry_into_force: "1988-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004072/1988-01-01/0"
-intitule_bron: "Stb.1986-703"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-12-18"
-intitule_status: "goed"
-original_publication: "Stb.1986-703"
-original_signed_date: "1986-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1988-01-01"
-jci_1_3: "jci1.3:c:BWBR0004072&z=1988-01-01&g=1988-01-01"
-jci_1_0: "1.0:c:BWBR0004072&g=1988-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ex artikel 58 Wet overdracht tenuitvoerlegging strafvonnissen"
-signed_date: "1986-12-18"
-entry_into_force: "1988-01-01"
+publicatiedatum: 1988-01-01
+laatste_update: 1988-01-01
+status: geldig
+toestand: 1988-01-01
+bron: "https://wetten.overheid.nl/BWBR0004072"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 18 december 1986, tot uitvoering van artikel 58 van de Wet overdracht tenuitvoerlegging strafvonnissen
-
-Op de voordracht van Onze Minister van Justitie en de Staatssecretaris van Justitie van 24 september 1986, Stafafdeling Wetgeving Publiekrecht nr. 395/686;
-
-Gelet op [artikel 58 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=58) (**Stb.** 1986, 464);
-
-De Raad van State gehoord (advies van 28 november 1986, nr. W03.86.0506);
-
-Gezien het nader rapport van Onze voornoemde Minister en van voornoemde Staatssecretaris van 10 december 1986, nr. 509/686;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -91,5 +63,3 @@ Is een vertegenwoordiger als bedoeld in [artikel 7](https://wetten.overheid.nl/j
 ##### Artikel 10
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 58 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=58) in werking treedt.
-
-Lasten en bevelen dat dit besluit, met de nota van toelichting, in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

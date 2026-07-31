@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 28 april 1988, houdende uitvoering van artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen"
+citeertitel: "Administratiebesluit milieugevaarlijke stoffen en preparaten"
 identifier: "BWBR0004321"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-12-01"
-last_updated: "2010-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004321"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "781023"
-version_id: "15340852"
-internal_id: "C20904261"
-label_id: "756904"
-dtd_version: "2.0"
-original_entry_into_force: "2008-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004321/2010-12-01/0"
-intitule_bron: "Stb.1988-208"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-04-28"
-intitule_status: "goed"
-original_publication: "Stb.2008-160"
-original_signed_date: "2008-04-29"
-original_published_date: "2008-05-15"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2008-160"
-entry_into_force_date: "2008-04-29"
-jci_1_3: "jci1.3:c:BWBR0004321&z=2010-12-01&g=2010-12-01"
-jci_1_0: "1.0:c:BWBR0004321&g=2010-12-01"
-citeertitel_status: "officieel"
-short_title: "Administratiebesluit milieugevaarlijke stoffen en preparaten"
-signed_date: "2008-04-29"
-entry_into_force: "2008-04-29"
+publicatiedatum: 2008-04-29
+laatste_update: 2010-12-01
+status: geldig
+toestand: 2010-12-01
+bron: "https://wetten.overheid.nl/BWBR0004321"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 28 april 1988, houdende uitvoering van artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen
-
-Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 juni 1987, no. MJZ 2667007, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op [artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=32) (**Stb.** 1985, 639);
-
-De Raad van State gehoord (advies van 27 januari 1988, Nr. W08.87.0301);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Ruimtelijke Ordening en Milieubeheer van 21 april 1988, no. MJZ 2148044, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,6 +24,10 @@ In dit besluit wordt verstaan onder:
 
 - c. administratieplichtige: ieder die beroepshalve stoffen of preparaten vervaardigt of in Nederland invoert.
 
+##### Artikel 1a
+
+De administratieplichtige houdt een administratie bij van de hoeveelheden van de stoffen of preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld.
+
 ##### Artikel 2
 
 1. De administratieplichtige administreert met betrekking tot stoffen en preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld de chemische namen en de gewichtspercentages van de belangrijkste daarin aanwezige stoffen tot in totaal 95 gewichtsprocenten van het preparaat, alsmede, voor zover hij daarover beschikt of redelijkerwijs kan beschikken, de chemische namen van de stoffen die de resterende 5 gewichtsprocenten van een preparaat vormen.
@@ -62,7 +36,7 @@ In dit besluit wordt verstaan onder:
 
 - a. ingeval de administratieplichtige een preparaat in een hoeveelheid kleiner dan 1000 kg per jaar vervaardigt, in Nederland invoert of aan een ander ter beschikking stelt, of
 
-- b. ingeval de administratieplichtige een preparaat in een hoeveelheid van 1000 kg of meer per jaar vervaardigt, in Nederland invoert of aan een ander ter beschikking stelt, en de administratieplichtige aantoont dat de gegevens met betrekking tot de samenstelling van het preparaat onderscheidenlijk van de bestanddelen daarvan, met vermelding van de chemische naam volgens de nomenclatuur van de International Union of Pure and Applied Chemistry of met vermelding van het nummer waaronder deze bestanddelen in het register van de Chemical Abstracts Service of van de European inventory of existing commercial chemical substances (**PbEG** 1990 C 146A) zijn opgenomen, reeds zijn verstrekt aan Onze Minister of deze gegevens reeds ingevolge dit besluit worden geadministreerd.
+- b. ingeval de administratieplichtige een preparaat in een hoeveelheid van 1000 kg of meer per jaar vervaardigt, in Nederland invoert of aan een ander ter beschikking stelt, en de administratieplichtige aantoont dat de gegevens met betrekking tot de samenstelling van het preparaat onderscheidenlijk van de bestanddelen daarvan, met vermelding van de chemische naam volgens de nomenclatuur van de International Union of Pure and Applied Chemistry of met vermelding van het nummer waaronder deze bestanddelen in het register van de Chemical Abstracts Service of van de European inventory of existing commercial chemical substances (*PbEG* 1990 C 146A) zijn opgenomen, reeds zijn verstrekt aan Onze Minister of deze gegevens reeds ingevolge dit besluit worden geadministreerd.
 
 3. Indien de bestanddelen van het preparaat behoren tot een categorie, genoemd in bijlage I van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels, dient de administratieplichtige ten aanzien van wie het tweede lid van toepassing is, de bij het preparaat behorende benaming van het gevaar of de gevaren, het bijbehorende symbool of de symbolen en de verwijzing naar de bijzondere aan het gebruik van het preparaat verbonden gevaren, bedoeld in de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels, te administreren.
 
@@ -88,20 +62,12 @@ Van de administratieplicht zijn uitgezonderd:
 
 - c. gewasbeschermingsmiddelen of biociden die zijn toegelaten of vrijgesteld op grond van de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670).
 
+##### Artikel 4a
+
+Dit besluit berust op [artikel 9.2.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.1.4).
+
 ##### Artikel 5
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Het kan worden aangehaald als Administratiebesluit milieugevaarlijke stoffen en preparaten.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-De administratieplichtige houdt een administratie bij van de hoeveelheden van de stoffen of preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld.
-
-##### Artikel 4a
-
-Dit besluit berust op [artikel 9.2.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.1.4).
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

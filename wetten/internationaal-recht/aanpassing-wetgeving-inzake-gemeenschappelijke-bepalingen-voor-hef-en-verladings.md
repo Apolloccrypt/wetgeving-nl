@@ -1,58 +1,31 @@
 ---
 title: "Aanpassing wetgeving inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur SZW – Uitvoering EEG-richtlijnen"
 identifier: "BWBR0004166"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-04-03"
-last_updated: "1999-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004166"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5227373"
-version_id: "9416072"
-internal_id: "C12612771"
-label_id: "5201944"
-dtd_version: "2.0"
-original_entry_into_force: "1987-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004166/1999-04-03/0"
-intitule_bron: "Stcrt.1987-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-06-16"
-intitule_published: "1987-07-02"
-intitule_in_force: "1987-07-02"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-124"
-original_signed_date: "1987-06-16"
-original_published_date: "1987-07-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-07-03"
-jci_1_3: "jci1.3:c:BWBR0004166&z=1999-04-03&g=1999-04-03"
-jci_1_0: "1.0:c:BWBR0004166&g=1999-04-03"
-citeertitel_status: "officieel"
-signed_date: "1987-06-16"
-entry_into_force: "1987-07-03"
+publicatiedatum: 1987-07-03
+laatste_update: 1999-04-03
+status: geldig
+toestand: 1999-04-03
+bron: "https://wetten.overheid.nl/BWBR0004166"
+opgehaald: 2026-07-31
 ---
+
 # Aanpassing wetgeving inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur SZW – Uitvoering EEG-richtlijnen
-
-Overwegende, dat ter uitvoering van de Richtlijnen van de Raad van de Europese Gemeenschappen van 17 september 1984 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur (84/528/EEG, PbEG L 300/72) en betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake liften met elektrische aandrijving (84/529/EEG, PbEG L 300/86), een instantie moet worden aangewezen, die belast is met het verrichten van het EEG-typeonderzoek en van de EEG-controle met betrekking tot onderdelen voor liften met elektrische aandrijving als bedoeld in laatstgenoemde richtlijn alsmede van de daarmede samenhangende werkzaamheden;
-
-dat de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut) te Amsterdam voldoet aan het bepaalde in bijlage II van eerstgenoemde richtlijn,
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. ‘**Richtlijn**’: de Richtlijn van de Raad van de Europese Gemeenschappen van 17 september 1984 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur (84/528/EEG, PbEG L 300/72);
+- a. ‘*Richtlijn*’: de Richtlijn van de Raad van de Europese Gemeenschappen van 17 september 1984 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur (84/528/EEG, PbEG L 300/72);
 
-- b. ‘**bijzondere Richtlijn**’: de Richtlijn van de Raad van de Europese Gemeenschappen van 17 september 1984 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake liften met elektrische aandrijving (84/529/EEG, PbEG L 300/86);
+- b. ‘*bijzondere Richtlijn*’: de Richtlijn van de Raad van de Europese Gemeenschappen van 17 september 1984 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake liften met elektrische aandrijving (84/529/EEG, PbEG L 300/86);
 
-- c. ‘**Liftonderdelen**’: de in bijlage II van de bijzondere Richtlijn genoemde onderdelen voor liften met elektrische aandrijving als bedoeld in artikel 1 van die Richtlijn;
+- c. ‘*Liftonderdelen*’: de in bijlage II van de bijzondere Richtlijn genoemde onderdelen voor liften met elektrische aandrijving als bedoeld in artikel 1 van die Richtlijn;
 
-- d. ‘**EEG-typeonderzoek**’ **en** ‘**EEG-controle**’: hetgeen de Richtlijn en de bijzondere Richtlijn daaronder verstaan;
+- d. ‘*EEG-typeonderzoek*’ *en* ‘*EEG-controle*’: hetgeen de Richtlijn en de bijzondere Richtlijn daaronder verstaan;
 
-- e. ‘**het Liftinstituut**’: De Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut), genoemd in artikel 2.
+- e. ‘*het Liftinstituut*’: De Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut), genoemd in artikel 2.
 
 ##### Artikel 2
 
@@ -134,7 +107,7 @@ De aanvrager is voor een EEG-typeonderzoek alsmede voor een EEG-controle aan het
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 

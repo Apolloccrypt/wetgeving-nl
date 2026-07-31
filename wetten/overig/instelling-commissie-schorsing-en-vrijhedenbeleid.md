@@ -1,42 +1,17 @@
 ---
 title: "Instelling Commissie schorsing en vrijhedenbeleid"
 identifier: "BWBR0005404"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-01-31"
-last_updated: "1992-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005404"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4284263"
-version_id: "6047842"
-internal_id: "C6251241"
-label_id: "4262814"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005404/1992-01-31/0"
-intitule_bron: "Stcrt.1992-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-01-27"
-intitule_published: "1992-01-30"
-intitule_in_force: "1992-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-21"
-original_signed_date: "1992-01-27"
-original_published_date: "1992-01-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-01-31"
-jci_1_3: "jci1.3:c:BWBR0005404&z=1992-01-31&g=1992-01-31"
-jci_1_0: "1.0:c:BWBR0005404&g=1992-01-31"
-citeertitel_status: "officieel"
-signed_date: "1992-01-27"
-entry_into_force: "1992-01-31"
+publicatiedatum: 1992-01-31
+laatste_update: 1992-01-31
+status: geldig
+toestand: 1992-01-31
+bron: "https://wetten.overheid.nl/BWBR0005404"
+opgehaald: 2026-07-31
 ---
+
 # Instelling Commissie schorsing en vrijhedenbeleid
-
-Overwegende, dat het gelet op de noodzaak de belangen van de strafrechtelijke rechtshandhaving te waarborgen, wenselijk is onderzoek te doen instellen naar mogelijke verbeteringen in de wetgeving inzake schorsing van de voorlopige hechtenis en in de praktijk dienaangaande alsmede ten aanzien van de strafonderbreking en het verlof bij de tenuitvoerlegging van vrijheidsstraffen, opgelegd aan meerderjarigen.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -60,27 +35,27 @@ De commissie kan andere dan de in [artikel 2](https://wetten.overheid.nl/jci1.3:
 
 In de commissie hebben zitting:
 
-- a. als **voorzitter**:
+- a. als *voorzitter*:
 
-- prof. mr. Th. W. van Veen, emeritus-hoogleraar strafrecht en strafprocesrecht aan de Rijksuniversiteit te Groningen;
+   - prof. mr. Th. W. van Veen, emeritus-hoogleraar strafrecht en strafprocesrecht aan de Rijksuniversiteit te Groningen;
 
-- b. als **leden**:
+- b. als *leden*:
 
-- mr. J. P. Balkema, raadsheer bij het Gerechtshof te Arnhem:
+   - mr. J. P. Balkema, raadsheer bij het Gerechtshof te Arnhem:
 
-- mr. M. F. L. M. van der Grinten, vice-president van de arrondissementsrechtbank te Rotterdam;
+   - mr. M. F. L. M. van der Grinten, vice-president van de arrondissementsrechtbank te Rotterdam;
 
-- mr. R. P. J. A. Vermeulen, hoofd van de afdeling Selectie en Bejegening van het Minister van Justitie;
+   - mr. R. P. J. A. Vermeulen, hoofd van de afdeling Selectie en Bejegening van het Minister van Justitie;
 
-- mr. W. J. B. Zeyl, hoofdofficier van justitie te Roermond;
+   - mr. W. J. B. Zeyl, hoofdofficier van justitie te Roermond;
 
-- c. als **adviserend lid:**
+- c. als *adviserend lid:*
 
-- mr. F. D. van Asbeck, raadadviseur bij de Stafafdeling Wetgeving Publiekrecht.
+   - mr. F. D. van Asbeck, raadadviseur bij de Stafafdeling Wetgeving Publiekrecht.
 
-- d. als **secretaris:**
+- d. als *secretaris:*
 
-- mr. J. N. Reinders, juridisch medewerker bij de Directie Staats- en Strafrecht van het Ministerie van Justitie.
+   - mr. J. N. Reinders, juridisch medewerker bij de Directie Staats- en Strafrecht van het Ministerie van Justitie.
 
 ##### Artikel 5
 

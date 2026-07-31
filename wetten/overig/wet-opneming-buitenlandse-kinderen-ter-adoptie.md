@@ -1,45 +1,18 @@
 ---
 title: "Wet van 8 december 1988, houdende regelen inzake de opneming in Nederland van buitenlandse pleegkinderen met het oog op adoptie"
+citeertitel: "Wet opneming buitenlandse kinderen ter adoptie"
 identifier: "BWBR0004447"
-country: "nl"
-rank: "wet"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004447"
+categorie: "Overig"
 soort: "wet"
-stam_id: "16803"
-version_id: "18723292"
-internal_id: "C26385911"
-label_id: "18404"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004447/2018-08-01/0"
-intitule_bron: "Stb.1988-566"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-12-08"
-intitule_status: "goed"
-original_publication: "Stb.2011-370"
-original_signed_date: "2011-07-06"
-original_published_date: "2011-07-21"
-original_effect: "structuurwijziging"
-original_dossier: "32446"
-original_url_id: "stb-2011-370"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0004447&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0004447&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Wet opneming buitenlandse kinderen ter adoptie"
-signed_date: "2011-07-06"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0004447"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 8 december 1988, houdende regelen inzake de opneming in Nederland van buitenlandse pleegkinderen met het oog op adoptie
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de voorwaarden waaraan moet zijn voldaan bij de opneming in Nederland van een buitenlands pleegkind met het oog op adoptie in de wet neer te leggen en tevens bij de wet te bepalen dat bemiddelende werkzaamheden inzake een zodanige opneming slechts kunnen worden verricht door organisaties aan welke daartoe een vergunning is verleend en op de bij of krachtens de wet bepaalde wijze, zulks ter bevordering van een verantwoorde gang van zaken rond de opneming in Nederland van buitenlandse pleegkinderen met het oog op adoptie;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -47,19 +20,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-**Onze Minister:** Onze Minister van Justitie;
+*Onze Minister:* Onze Minister van Justitie;
 
-**buitenlands kind:** een buiten Nederland geboren, de Nederlandse nationaliteit niet bezittende minderjarige in de zin van de Nederlandse wet, die in Nederland met het oog op adoptie in een ander gezin dan het ouderlijke wordt of zal worden verzorgd en opgevoed in zodanige omstandigheden dat de verzorgers in feite de plaats van de ouders innemen;
+*buitenlands kind:* een buiten Nederland geboren, de Nederlandse nationaliteit niet bezittende minderjarige in de zin van de Nederlandse wet, die in Nederland met het oog op adoptie in een ander gezin dan het ouderlijke wordt of zal worden verzorgd en opgevoed in zodanige omstandigheden dat de verzorgers in feite de plaats van de ouders innemen;
 
-**aspirant-adoptiefouders:** echtgenoten of een persoon die een buitenlands kind met het oog op adoptie wensen op te nemen of hebben opgenomen;
+*aspirant-adoptiefouders:* echtgenoten of een persoon die een buitenlands kind met het oog op adoptie wensen op te nemen of hebben opgenomen;
 
-**adoptiefouders:** echtgenoten of een persoon die een buitenlands kind hebben geadopteerd;
+*adoptiefouders:* echtgenoten of een persoon die een buitenlands kind hebben geadopteerd;
 
-**beginseltoestemming:** de schriftelijke mededeling van Onze Minister omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2018-08-01&g=2018-08-01);
+*beginseltoestemming:* de schriftelijke mededeling van Onze Minister omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2018-08-01&g=2018-08-01);
 
-**vergunninghouder:** de rechtspersoon die houder is van een vergunning als bedoeld in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2018-08-01&g=2018-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2018-08-01&g=2018-08-01).
+*vergunninghouder:* de rechtspersoon die houder is van een vergunning als bedoeld in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2018-08-01&g=2018-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2018-08-01&g=2018-08-01).
 
-**bemiddeling:** elke activiteit van een vergunninghouder gericht op totstandkoming van, of ondersteuning bij, de plaatsing van een buitenlands kind met het oog op adoptie bij aspirant-adoptiefouders.
+*bemiddeling:* elke activiteit van een vergunninghouder gericht op totstandkoming van, of ondersteuning bij, de plaatsing van een buitenlands kind met het oog op adoptie bij aspirant-adoptiefouders.
 
 ### Hoofdstuk 2. De beginseltoestemming
 
@@ -83,9 +56,9 @@ Een verzoek tot verlening van een beginseltoestemming of tot verlenging van de g
 
 - c. de aspirant-adoptiefouders daarbij hebben overgelegd:
 
-- 1°. de door Onze Minister vastgestelde gegevens die noodzakelijk zijn voor de beoordeling van het verzoek;
+   - 1°. de door Onze Minister vastgestelde gegevens die noodzakelijk zijn voor de beoordeling van het verzoek;
 
-- 2°. de verklaring dat zij bereid zijn het buitenlandse kind de gangbare preventieve en curatieve behandelingen te doen ondergaan die van levensbelang zijn voor het kind;
+   - 2°. de verklaring dat zij bereid zijn het buitenlandse kind de gangbare preventieve en curatieve behandelingen te doen ondergaan die van levensbelang zijn voor het kind;
 
 - d. de aspirant-adoptiefouders, ingeval in hun gezin reeds één of meer eigen kinderen of met het oog op adoptie opgenomen kinderen verblijven, deze kinderen gedurende ten minste een jaar hebben verzorgd en opgevoed;
 
@@ -167,9 +140,33 @@ Onverminderd het bepaalde bij en krachtens de [Vreemdelingenwet 2000](https://we
 
 3. De bepalingen van [titel 17 van boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=17) zijn zoveel mogelijk van overeenkomstige toepassing.
 
+### Hoofdstuk 3a. Tegemoetkoming kosten
+
+##### Artikel 9a
+
+1. Onze Minister verleent adoptiefouders op hun verzoek een tegemoetkoming in de kosten die zij gemaakt hebben in verband met de interlandelijke adoptie van een kind indien:
+
+- a. het verzoek is ingediend binnen drie jaren nadat het kind door de adoptiefouders is geadopteerd;
+
+- b. het kind de Nederlandse nationaliteit heeft verkregen of, indien geen van de adoptiefouders de Nederlandse nationaliteit heeft, het kind de nationaliteit van ten minste één van de adoptiefouders heeft verkregen;
+
+- c. de adoptie in overeenstemming met deze wet is afgerond.
+
+2. Bij ministeriële regeling worden regels gesteld omtrent de aanvraag van de tegemoetkoming.
+
+##### Artikel 9b
+
+1. De hoogte van de tegemoetkoming in de kosten van interlandelijke adoptie als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3a&artikel=9a&z=2018-08-01&g=2018-08-01) bedraagt € 3 700.
+
+2. Bij ministeriële regeling wordt het bedrag, genoemd in het eerste lid, jaarlijks met ingang van 1 januari opnieuw vastgesteld aan de hand van de consumentenprijsindex.
+
+##### Artikel 9c
+
+Dit hoofdstuk is uitsluitend van toepassing op kinderen die tussen 1 januari 2009 en 1 januari 2013 zijn geadopteerd.
+
 ##### Artikel 10
 
-1. Indien is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2018-08-01&g=2018-08-01) kan de kinderrechter een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) alsmede [artikel 306**a** van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
+1. Indien is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2018-08-01&g=2018-08-01) kan de kinderrechter een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) alsmede [artikel 306*a* van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
 
 2. De voorlopige voogdij eindigt, behoudens eerdere intrekking, op het tijdstip waarop hetzij de voogdij over de minderjarige, dan wel diens verblijf bij aspirant-adoptiefouders aan wie een beginseltoestemming is verleend, een aanvang neemt, hetzij de minderjarige in het land van herkomst wordt teruggeplaatst.
 
@@ -239,11 +236,11 @@ Onze Minister beslist afwijzend op een verzoek tot verlening van een vergunning 
 
 - d. hij ziet erop toe dat tussen de aspirant-adoptiefouders en de ouders van het kind of een andere persoon aan wie de zorg voor het kind is toevertrouwd geen contact wordt gelegd totdat vaststaat:
 
-- 1°. dat het kind voor adoptie in aanmerking komt;
+   - 1°. dat het kind voor adoptie in aanmerking komt;
 
-- 2°. dat de autoriteiten van de staat van herkomst instemmen met de opneming van het kind door de aspirant-adoptiefouders, en
+   - 2°. dat de autoriteiten van de staat van herkomst instemmen met de opneming van het kind door de aspirant-adoptiefouders, en
 
-- 3°. dat de vereiste toestemmingen van personen en instellingen in de staat van herkomst zijn verkregen;
+   - 3°. dat de vereiste toestemmingen van personen en instellingen in de staat van herkomst zijn verkregen;
 
 - e. hij belast zich met het aanvragen van de machtiging tot voorlopig verblijf voor het buitenlandse kind;
 
@@ -399,19 +396,19 @@ De toezichthouders beschikken niet over de bevoegdheden genoemd in de [artikelen
 
 ##### Artikel 29
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 30
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 31
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
@@ -424,41 +421,3 @@ Vervallen
 ##### Artikel 34
 
 Deze wet wordt aangehaald als: Wet opneming buitenlandse kinderen ter adoptie.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 3a. Tegemoetkoming kosten
-
-##### Artikel 9a
-
-1. Onze Minister verleent adoptiefouders op hun verzoek een tegemoetkoming in de kosten die zij gemaakt hebben in verband met de interlandelijke adoptie van een kind indien:
-
-- a. het verzoek is ingediend binnen drie jaren nadat het kind door de adoptiefouders is geadopteerd;
-
-- b. het kind de Nederlandse nationaliteit heeft verkregen of, indien geen van de adoptiefouders de Nederlandse nationaliteit heeft, het kind de nationaliteit van ten minste één van de adoptiefouders heeft verkregen;
-
-- c. de adoptie in overeenstemming met deze wet is afgerond.
-
-2. Bij ministeriële regeling worden regels gesteld omtrent de aanvraag van de tegemoetkoming.
-
-##### Artikel 9b
-
-1. De hoogte van de tegemoetkoming in de kosten van interlandelijke adoptie als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3a&artikel=9a&z=2018-08-01&g=2018-08-01) bedraagt € 3 700.
-
-2. Bij ministeriële regeling wordt het bedrag, genoemd in het eerste lid, jaarlijks met ingang van 1 januari opnieuw vastgesteld aan de hand van de consumentenprijsindex.
-
-##### Artikel 9c
-
-Dit hoofdstuk is uitsluitend van toepassing op kinderen die tussen 1 januari 2009 en 1 januari 2013 zijn geadopteerd.
-
-### Hoofdstuk 4. Het gezinsonderzoek na binnenkomst in Nederland van een tijdens gewoon verblijf in het buitenland opgenomen buitenlands kind
-
-### Hoofdstuk 5. De vergunning en de werkzaamheden van vergunninghouders
-
-### Hoofdstuk 5A. De klachtencommissie
-
-### Hoofdstuk 6. Toezicht en strafbepalingen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

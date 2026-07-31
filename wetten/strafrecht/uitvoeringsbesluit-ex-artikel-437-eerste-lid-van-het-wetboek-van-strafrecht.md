@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 6 januari 1992, ter uitvoering van artikel 437, eerste lid, van het Wetboek van Strafrecht"
+citeertitel: "Uitvoeringsbesluit ex artikel 437, eerste lid, van het Wetboek van Strafrecht"
 identifier: "BWBR0005381"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005381"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "991483"
-version_id: "1455932"
-internal_id: "C1455931"
-label_id: "960694"
-dtd_version: "2.0"
-original_entry_into_force: "1992-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005381/2013-01-01/0"
-intitule_bron: "Stb.1992-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-01-06"
-intitule_status: "goed"
-original_publication: "Stb.1992-36"
-original_signed_date: "1992-01-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-02-01"
-jci_1_3: "jci1.3:c:BWBR0005381&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0005381&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit ex artikel 437, eerste lid, van het Wetboek van Strafrecht"
-signed_date: "1992-01-06"
-entry_into_force: "1992-02-01"
+publicatiedatum: 1992-02-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0005381"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 6 januari 1992, ter uitvoering van artikel 437, eerste lid, van het Wetboek van Strafrecht
-
-Op de voordracht van Onze Minister van Justitie van 17 oktober 1991, Stafafdeling Wetgeving Publiekrecht, nr. 158757/91/6;
-
-Gelet op [artikel 437, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=437);
-
-De Raad van State gehoord (advies van 17 december 1991, nr. WO3.91.0581);
-
-Gezien het nader rapport van Onze Minister van Justitie van 20 december 1991, Stafafdeling Wetgeving Publiekrecht, nr. 175875/91/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -68,6 +40,4 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Dit besluit treedt in werking op de dag waarop de Wet van 9 oktober 1991, **Stb.** 520 tot aanvulling van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) met voorzieningen ten behoeve van de bestrijding van heling, in werking treedt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+Dit besluit treedt in werking op de dag waarop de Wet van 9 oktober 1991, *Stb.* 520 tot aanvulling van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) met voorzieningen ten behoeve van de bestrijding van heling, in werking treedt.

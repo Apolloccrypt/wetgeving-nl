@@ -1,43 +1,18 @@
 ---
 title: "Regeling inzake vermindering van Joegoslavische belasting op dividenden, interest en royalty's uit Joegoslavische bron, genoten door inwoners van Nederland"
+citeertitel: "Joegoslavische uitvoeringsvoorschriften belastingovereenkomst Nederland-Joegoslavië"
 identifier: "BWBR0004978"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1991-01-27"
-last_updated: "1991-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004978"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3730813"
-version_id: "5513682"
-internal_id: "C5706771"
-label_id: "3710564"
-dtd_version: "2.0"
-original_entry_into_force: "1991-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004978/1991-01-27/0"
-intitule_bron: "Stcrt.1991-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-01-25"
-intitule_published: "1991-01-25"
-intitule_in_force: "1991-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-18"
-original_signed_date: "1991-01-25"
-original_published_date: "1991-01-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1991-01-27"
-jci_1_3: "jci1.3:c:BWBR0004978&z=1991-01-27&g=1991-01-27"
-jci_1_0: "1.0:c:BWBR0004978&g=1991-01-27"
-citeertitel_status: "officieel"
-short_title: "Joegoslavische uitvoeringsvoorschriften belastingovereenkomst Nederland-Joegoslavië"
-signed_date: "1991-01-25"
-entry_into_force: "1991-01-27"
+publicatiedatum: 1991-01-27
+laatste_update: 1991-01-27
+status: geldig
+toestand: 1991-01-27
+bron: "https://wetten.overheid.nl/BWBR0004978"
+opgehaald: 2026-07-31
 ---
+
 # Regeling inzake vermindering van Joegoslavische belasting op dividenden, interest en royalty's uit Joegoslavische bron, genoten door inwoners van Nederland
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -61,17 +36,19 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004978&a
 
 - b. Royalty's
 
-- 1. Joegoslavische belasting Volgens de huidige Joegoslavische wetgeving zijn royalty's genoten door niet-inwoners onderworpen aan een bronheffing van 20%.
+   - 1. Joegoslavische belasting Volgens de huidige Joegoslavische wetgeving zijn royalty's genoten door niet-inwoners onderworpen aan een bronheffing van 20%.
 
-- 2. Wijze waarop de vermindering wordt verleend De in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004978&artikel=1&z=1991-01-27&g=1991-01-27), vermelde vermindering wordt in Joegoslavië verleend door teruggaaf van hetgeen te veel is geheven. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier vastgesteld. De betrokken inwoner van Nederland moet zich met een verzoek om teruggaaf wenden tot: Federal Secretariat for Finance Omladinskih Brigada-1 11000 — Beograd Joegoslavië In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de betrokken inwoner van Nederland te vermelden: Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende royalty's inwoner van Nederland was in de zin van artikel 4 van de Nederlands-Joegoslavische belastingovereenkomst. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ....................................................... certifies that ........................................................................... naam en adres van de verzoeker) on the payable date(s) of the royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Yugoslavia for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - 2. Wijze waarop de vermindering wordt verleend De in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004978&artikel=1&z=1991-01-27&g=1991-01-27), vermelde vermindering wordt in Joegoslavië verleend door teruggaaf van hetgeen te veel is geheven. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier vastgesteld. De betrokken inwoner van Nederland moet zich met een verzoek om teruggaaf wenden tot: Federal Secretariat for Finance Omladinskih Brigada-1
+ 11000 — Beograd
+ Joegoslavië In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de betrokken inwoner van Nederland te vermelden: Bij het verzoek om teruggaaf moet de belanghebbende inwoner van Nederland overleggen een gedateerde en ondertekende verklaring van het hoofd van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een bevestiging dat hij op de datum(s) van betaling van de desbetreffende royalty's inwoner van Nederland was in de zin van artikel 4 van de Nederlands-Joegoslavische belastingovereenkomst. Deze verklaring kan door de belanghebbende inwoner van Nederland worden aangevraagd bij vorenbedoeld hoofd van de eenheid van de Belastingdienst. In de Engelse taal zal de verklaring kunnen luiden als volgt: The undersigned, Head of the Taxation Unit at ....................................................... certifies that ........................................................................... naam en adres van de verzoeker) on the payable date(s) of the royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Yugoslavia for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- a. de naam en het adres van de Joegoslavische schuldenaar;
+      - a. de naam en het adres van de Joegoslavische schuldenaar;
 
-- b. de gegevens omtrent de royalty's;
+      - b. de gegevens omtrent de royalty's;
 
-- c. de datum(s) van betaalbaarstelling van de royalty's, de brutobedragen van de royalty's en de bedragen van de daarop ingehouden Joegoslavische belasting.
+      - c. de datum(s) van betaalbaarstelling van de royalty's, de brutobedragen van de royalty's en de bedragen van de daarop ingehouden Joegoslavische belasting.
 
-- 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
+   - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel V van het Protocol).
 
 ##### Artikel 3. Intrekking
 

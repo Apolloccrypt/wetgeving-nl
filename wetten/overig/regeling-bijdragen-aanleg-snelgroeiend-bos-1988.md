@@ -1,48 +1,29 @@
 ---
 title: "Regeling bijdragen aanleg snelgroeiend bos 1988"
 identifier: "BWBR0004416"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-22"
-last_updated: "2016-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004416"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4362423"
-version_id: "6118952"
-internal_id: "C6323161"
-label_id: "4341034"
-dtd_version: "2.0"
-original_entry_into_force: "1988-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004416/2016-01-22/0"
-intitule_bron: "Stcrt.1988-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-10-14"
-intitule_published: "1988-10-25"
-intitule_in_force: "1988-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1988-207"
-original_signed_date: "1988-10-14"
-original_published_date: "1988-10-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1988-10-25"
-jci_1_3: "jci1.3:c:BWBR0004416&z=2016-01-22&g=2016-01-22"
-jci_1_0: "1.0:c:BWBR0004416&g=2016-01-22"
-citeertitel_status: "officieel"
-signed_date: "1988-10-14"
-entry_into_force: "1988-10-25"
+publicatiedatum: 1988-10-25
+laatste_update: 2016-01-22
+status: geldig
+toestand: 2016-01-22
+bron: "https://wetten.overheid.nl/BWBR0004416"
+opgehaald: 2026-07-31
 ---
+
 # Regeling bijdragen aanleg snelgroeiend bos 1988
-
-Overwegende, dat het gewenst is een nieuwe regeling vast te stellen voor het verlenen van bijdragen ter bevordering van de aanleg van snelgroeiend bos voor de houtvoorziening op de korte termijn;
-
-Gehoord het Bosschap en de Bosbouwvoorlichtingsraad;
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+minister:
+
+Minister van Economische Zaken;
+
+eigenaar:
+
+natuurlijke persoon of rechtspersoon die krachtens eigendom of enig ander zakelijk recht dan wel krachtens enig duurzaam persoonlijk recht het genot heeft van de grond.
 
 ##### Artikel 2
 
@@ -90,11 +71,11 @@ Indien de voorschriften bedoeld in de [artikelen 5](https://wetten.overheid.nl/j
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 

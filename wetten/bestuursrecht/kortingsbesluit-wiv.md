@@ -1,60 +1,30 @@
 ---
 title: "Besluit van 23 januari 1989, houdende regels betreffende de met het buitengewoon pensioen te verrekenen inkomsten, bedoeld in artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet"
+citeertitel: "Kortingsbesluit WIV"
 identifier: "BWBR0004490"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-02-01"
-last_updated: "2015-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004490"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "437553"
-version_id: "642292"
-internal_id: "C642291"
-label_id: "425544"
-dtd_version: "2.0"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004490/2015-02-01/0"
-intitule_bron: "Stb.1989-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-01-23"
-intitule_status: "goed"
-original_publication: "Stb.1989-54"
-original_signed_date: "1989-01-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0004490&z=2015-02-01&g=2015-02-01"
-jci_1_0: "1.0:c:BWBR0004490&g=2015-02-01"
-citeertitel_status: "officieel"
-short_title: "Kortingsbesluit WIV"
-signed_date: "1989-01-23"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 2015-02-01
+status: geldig
+toestand: 2015-02-01
+bron: "https://wetten.overheid.nl/BWBR0004490"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 23 januari 1989, houdende regels betreffende de met het buitengewoon pensioen te verrekenen inkomsten, bedoeld in artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet
-
-Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 12 juli 1988, DVV/WJZ/U-11958;
-
-Gelet op [artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=16) (**Stb.** 1986, 360);
-
-Gehoord de Buitengewone Pensioenraad, de Commissie Indisch Verzet en de Stichting Pelita;
-
-De Raad van State gehoord (advies van 17 november 1988, nr. W13.88.0387);
-
-Gezien het nader rapport van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 6 januari 1989, Directie Verzetsdeelnemers en Vervolgden, nr. DVV/WJZ/U-12868 I;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- a. de wet: de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968) (**Stb.** 1986, 360);
+- a. de wet: de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968) (*Stb.* 1986, 360);
 
 - b. de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
 - c. de gepensioneerde: degene, aan wie krachtens de wet een buitengewoon pensioen is toegekend.
 
-2. Voor de toepassing van dit besluit worden mede als gehuwd of als echtgenoot aangemerkt degenen die als zodanig worden aangemerkt ingevolge het bepaalde bij of krachtens [artikel 1, derde tot en met vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) (**Stb.** 1990, 129).
+2. Voor de toepassing van dit besluit worden mede als gehuwd of als echtgenoot aangemerkt degenen die als zodanig worden aangemerkt ingevolge het bepaalde bij of krachtens [artikel 1, derde tot en met vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) (*Stb.* 1990, 129).
 
 ##### Artikel 2
 
@@ -66,7 +36,7 @@ Hebben goedgevonden en verstaan:
 
 - b. de belastbare winst uit onderneming in de zin van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
-3. Indien inkomen wordt verkregen uit hoofde van de sociale zekerheidswetgeving, kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (**Stb.** 1990, 128) daaronder niet begrepen, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen in aanmerking genomen de uitkering met inbegrip van de daarover door de gepensioneerde verschuldigde premies, welke uit hoofde van de sociale zekerheidswetgeving worden geheven, dan wel de daarmede overeenkomende bijdrage, als bedoeld in [artikel 11, eerste lid, onder f, ten tweede, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) (**Stb.** 1990, 104).
+3. Indien inkomen wordt verkregen uit hoofde van de sociale zekerheidswetgeving, kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (*Stb.* 1990, 128) daaronder niet begrepen, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen in aanmerking genomen de uitkering met inbegrip van de daarover door de gepensioneerde verschuldigde premies, welke uit hoofde van de sociale zekerheidswetgeving worden geheven, dan wel de daarmede overeenkomende bijdrage, als bedoeld in [artikel 11, eerste lid, onder f, ten tweede, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) (*Stb.* 1990, 104).
 
 4. Indien inkomen in verband met arbeid in beroep of bedrijf wordt genoten, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen het totale bedrag in aanmerking genomen of, voor zover het pensioenen of wachtgelden betreft, welke krachtens een van overheidswege vastgesteld voorschrift in verband met het genot van inkomsten aan vermindering onderworpen zijn, het uit dien hoofde verminderde bedrag.
 
@@ -84,13 +54,13 @@ Indien een ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten
 
 - a. indien de gepensioneerde gehuwd is en de echtgenoot eveneens recht heeft op een ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), het bruto-ouderdomspensioen krachtens die wet, van de gepensioneerde en zijn echtgenoot;
 
-- b. indien de gepensioneerde gehuwd is en niet behoort tot de categorie, bedoeld onder **a**, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), vermeerderd met de toeslag, bedoeld in [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8);
+- b. indien de gepensioneerde gehuwd is en niet behoort tot de categorie, bedoeld onder *a*, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), vermeerderd met de toeslag, bedoeld in [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8);
 
-- c. indien de gepensioneerde gehuwd is en de echtgenoot eveneens een gepensioneerde is, in afwijking van het onder **a** en **b** bepaalde, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), voor zover dat niet meer bedraagt dan tweemaal het bedrag van het bruto-ouderdomspensioen van de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9);
+- c. indien de gepensioneerde gehuwd is en de echtgenoot eveneens een gepensioneerde is, in afwijking van het onder *a* en *b* bepaalde, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), voor zover dat niet meer bedraagt dan tweemaal het bedrag van het bruto-ouderdomspensioen van de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9);
 
 - d. indien de gepensioneerde ongehuwd is en een kind heeft, jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie hij op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) kinderbijslag ontvangt of zou ontvangen, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
-- e. indien de gepensioneerde ongehuwd is en niet behoort tot de categorie, bedoeld onder **d**, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
+- e. indien de gepensioneerde ongehuwd is en niet behoort tot de categorie, bedoeld onder *d*, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
 ##### Artikel 5
 
@@ -98,7 +68,7 @@ Voor de verrekening met het buitengewoon pensioen worden niet in aanmerking geno
 
 - a. van overheidswege verstrekte subsidies en tegemoetkomingen, alsmede afkoopsommen en overlijdensuitkeringen;
 
-- b. de op grond van de [Wet Rietkerk-uitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0004338) (**Stb.** 1988, 226) verstrekte uitkering;
+- b. de op grond van de [Wet Rietkerk-uitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0004338) (*Stb.* 1988, 226) verstrekte uitkering;
 
 - c. de inkomsten van minderjarige kinderen;
 
@@ -118,7 +88,7 @@ Ten aanzien van in het buitenland verworven inkomensbestanddelen vergelijkbaar m
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -130,19 +100,19 @@ Met de controle op de in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2015-02-01&g=2015-02-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2015-02-01&g=2015-02-01) terug tot en met 1 januari 1983.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2015-02-01&g=2015-02-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2015-02-01&g=2015-02-01) terug tot en met 1 januari 1983.
 
 2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2015-02-01&g=2015-02-01), werkt terug tot en met 1 januari 1987.
 
@@ -151,5 +121,3 @@ Vervallen
 ##### Artikel 14
 
 Dit besluit kan worden aangehaald als Kortingsbesluit WIV.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

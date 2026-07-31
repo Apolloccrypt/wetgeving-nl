@@ -1,47 +1,18 @@
 ---
 title: "Premieregeling opgeviste milieugevaarijke stoffen"
+citeertitel: "Premieregeling opgeviste milieugevaarlijke stoffen"
 identifier: "BWBR0004611"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004611"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "4444343"
-version_id: "6240712"
-internal_id: "C6444921"
-label_id: "4422794"
-dtd_version: "2.0"
-original_entry_into_force: "1989-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004611/2019-07-01/0"
-intitule_bron: "Stcrt.1989-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-08-18"
-intitule_published: "1989-08-30"
-intitule_in_force: "1989-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1989-168"
-original_signed_date: "1989-08-18"
-original_published_date: "1989-08-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1989-09-01"
-jci_1_3: "jci1.3:c:BWBR0004611&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0004611&g=2019-07-01"
-citeertitel_status: "officieel"
-short_title: "Premieregeling opgeviste milieugevaarlijke stoffen"
-signed_date: "1989-08-18"
-entry_into_force: "1989-09-01"
+publicatiedatum: 1989-09-01
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0004611"
+opgehaald: 2026-07-31
 ---
+
 # Premieregeling opgeviste milieugevaarijke stoffen
-
-Overwegende dat het wenselijk is de Premieregeling opgeviste milieugevaarlijke stoffen en explosieven (Stcrt. 1988, 254) op een aantal punten bij te stellen en gedeeltelijk in te trekken ingevolge het advies van de Interdepartementale coördinatiecommissie voor Noordzee-aangelegenheden, ICONA, van 10 juli 1989, uitgebracht naar aanleiding van de eerste evaluatie van die regeling;
-
-Handelende in overeenstemming met de regeringbeslissing inzake de bijstelling en gedeeltelijke intrekking van genoemde premieregeling, als vastgesteld in brief nr. ICONA 7958 van 17 augustus 1989, van de minister van Verkeer en Waterstaat, coördinerend minister voor Noordzee-aangelegenheden, aan de voorzitter van de Tweede Kamer der Staten-Generaal;
-
-Overwegende, dat omwille van de duidelijkheid, besloten is tot vaststelling van een nieuwe Premieregeling te geraken onder gelijktijdige intrekking van voornoemde premieregeling;
-
-Besluit:
 
 ##### Artikel 1. Toepassing
 
@@ -61,11 +32,11 @@ Ten aanzien van de toekenning en de hoogte van de premie geldt het volgende:
 
 - 1b. Aan de visser die op of na 1 januari 1990 een verpakte milieugevaarlijke stof opvist en aan land brengt of aan de visser op wiens aanwijzing een dergelijke stof op of na 1 januari 1990 wordt geborgen, kan een premie van € 760,08 (zegge: zevenhonderdzestig euro en 8 eurocent) bruto worden toegekend.
 
-- 2. Toekenning van een premie geschiedt op voorwaarde van onverwijlde melding aan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), overgave van de verpakte milieugevaarlijke stof (indien deze door de visser zelf is geborgen) en het verstrekken van geografische informatie over de vindplaats.
+- 2 Toekenning van een premie geschiedt op voorwaarde van onverwijlde melding aan de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, overgave van de verpakte milieugevaarlijke stof (indien deze door de visser zelf is geborgen) en het verstrekken van geografische informatie over de vindplaats.
 
-- 3. De regeling is van toepassing op alle Nederlandse vissersvaartuigen, alsmede alle vissersvaartuigen die staan geregistreerd in een der lidstaten van de EEG en die gerechtigd zijn in de Nederlandse visserijzone te vissen.
+- 3 De regeling is van toepassing op alle Nederlandse vissersvaartuigen, alsmede alle vissersvaartuigen die staan geregistreerd in een der lidstaten van de EEG en die gerechtigd zijn in de Nederlandse visserijzone te vissen.
 
-- 4. De mogelijkheid bestaat van een extra vergoeding voor gemaakte kosten of geleden schade, volgens normbedragen van het Landbouw-Economisch Instituut (exclusief besomming).
+- 4 De mogelijkheid bestaat van een extra vergoeding voor gemaakte kosten of geleden schade, volgens normbedragen van het Landbouw-Economisch Instituut (exclusief besomming).
 
 ##### Artikel 3. Beoordeling
 
@@ -73,7 +44,7 @@ Met betrekking tot elke melding van een opgeviste milieugevaarlijke stof wordt d
 
 ##### Artikel 4. Praktische uitvoering
 
-1. De melding, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2019-07-01&g=2019-07-01), van een opgeviste milieugevaarlijke stof wordt gedaan aan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
+1. De melding, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=2&z=2019-07-01&g=2019-07-01), van een opgeviste milieugevaarlijke stof wordt gedaan aan de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland.
 
 2. Bij de melding dient de volgende informatie te worden opgegeven:
 
@@ -89,7 +60,7 @@ Met betrekking tot elke melding van een opgeviste milieugevaarlijke stof wordt d
 
 - overige informatie die van belang kan zijn.
 
-3. Op basis van de bij melding verstrekte informatie zullen door of via de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), nadere aanwijzingen gegeven worden over de te volgen handelwijze, zoals eventuele markering, berging, overgave en dergelijke.
+3. Op basis van de bij melding verstrekte informatie zullen door of via de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, nadere aanwijzingen gegeven worden over de te volgen handelwijze, zoals eventuele markering, berging, overgave en dergelijke.
 
 4. Aanmelding van een opgeviste stof wordt tevens beschouwd als een verzoek om toekenning van een premie, zodat geen aparte aanvraag behoeft te worden ingediend.
 
@@ -101,15 +72,15 @@ Uitbetaling geschiedt door tussenkomst van de Directie Noordzee van Rijkswaterst
 
 ##### Artikel 5. Informatie
 
-Vanaf 1 juli 1989 zal bij de directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), en de op grond van [artikel 2 van de Regeling organisatie Kustwacht Nederland](onbekend), samenwerkende diensten een nadere specificatie beschikbaar zijn van milieugevaarlijke stoffen die krachtens de in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2019-07-01&g=2019-07-01) genoemde IMDG-code voor premiëring in aanmerking komen.
+Vanaf 1 juli 1989 zal bij de directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, en de op grond van artikel 2 van de Regeling organisatie Kustwacht Nederland, samenwerkende diensten een nadere specificatie beschikbaar zijn van milieugevaarlijke stoffen die krachtens de in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004611&artikel=1&z=2019-07-01&g=2019-07-01) genoemde IMDG-code voor premiëring in aanmerking komen.
 
 ##### Artikel 6. Budget
 
-Voor toepassing van de regeling is een beperkt budget beschikbaar in de orde van f 200 000 voor de periode 1 september 1989 tot 1 januari 1990 en in de orde van € 136.134,00 per jaar voor 1990 en volgende jaren. Zodra in enig jaar het beschikbare budget is uitgeput zullen voor dat jaar geen rechten meer worden verkregen op de uitkering van een premie. Hiervan zal aan de visserijwereld zo spoedig mogelijk mededeling worden gedaan door een Bericht aan Zeevarenden en een Bekendmaking aan de Visserij, uit te geven door de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
+Voor toepassing van de regeling is een beperkt budget beschikbaar in de orde van f 200 000 voor de periode 1 september 1989 tot 1 januari 1990 en in de orde van € 136.134,00 per jaar voor 1990 en volgende jaren. Zodra in enig jaar het beschikbare budget is uitgeput zullen voor dat jaar geen rechten meer worden verkregen op de uitkering van een premie. Hiervan zal aan de visserijwereld zo spoedig mogelijk mededeling worden gedaan door een Bericht aan Zeevarenden en een Bekendmaking aan de Visserij, uit te geven door de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland.
 
 ##### Artikel 7. Meldingen
 
-Meldingen van opgeviste stoffen zullen in volgorde van binnenkomst door de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), in behandeling worden genomen.
+Meldingen van opgeviste stoffen zullen in volgorde van binnenkomst door de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, in behandeling worden genomen.
 
 ##### Artikel 8
 
@@ -126,5 +97,3 @@ De regeling treedt in werking met ingang van 1 september 1989.
 ##### Artikel 11. Citeertitel
 
 Deze regeling kan worden aangehaald als: Premieregeling opgeviste milieugevaarlijke stoffen.
-
-Deze regeling zal worden geplaatst in de Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer.

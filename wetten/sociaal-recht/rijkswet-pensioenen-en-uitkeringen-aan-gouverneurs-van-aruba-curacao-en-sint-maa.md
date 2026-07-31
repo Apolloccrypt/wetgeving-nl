@@ -1,43 +1,18 @@
 ---
 title: "Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba"
+citeertitel: "Rijkswet pensioenen en uitkeringen aan Gouverneurs van Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0004670"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004670"
+categorie: "Sociaal recht"
 soort: "rijkswet"
-stam_id: "204073"
-version_id: "280472"
-internal_id: "C280471"
-label_id: "201504"
-dtd_version: "2.0"
-original_entry_into_force: "1983-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004670/2010-10-10/0"
-intitule_bron: "Stb.1990-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-12-20"
-intitule_status: "goed"
-original_publication: "Stb.1990-15"
-original_signed_date: "1989-12-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "18855"
-entry_into_force_date: "1983-10-01"
-jci_1_3: "jci1.3:c:BWBR0004670&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0004670&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet pensioenen en uitkeringen aan Gouverneurs van Aruba, Curaçao en Sint Maarten"
-signed_date: "1989-12-20"
-entry_into_force: "1983-10-01"
+publicatiedatum: 1983-10-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0004670"
+opgehaald: 2026-07-31
 ---
+
 # Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het nodig is de regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba en hun nabestaanden opnieuw vast te stellen, terwijl het voorts wenselijk is deze aan te passen aan de huidige omstandigheden:
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Algemene bepalingen
 
@@ -113,7 +88,7 @@ De gewezen Gouverneur krijgt recht op ouderdomspensioen met ingang van de dag wa
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -188,6 +163,16 @@ Het bijzonder nabestaandenpensioen bedraagt 72% van het ouderdomspensioen, waaro
 6. Na beperking van een eigen pensioen volgens het eerste of tweede lid wordt de toegepaste beperkingsbreuk slechts gewijzigd, wanneer een pensioen krachtens een andere regeling wordt toegekend of beëindigd dan wel wordt herzien.
 
 7. Bij regeling van Onze Minister, Onze minister-president van Aruba, van Curaçao, onderscheidenlijk van Sint Maarten gehoord, kan de in het vijfde lid opgenomen opsomming worden aangevuld met andere regelingen en kunnen regelingen van de werking van dit artikel worden uitgezonderd.
+
+##### Artikel 18a
+
+1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing indien voor een nabestaande, naast recht op een of meer nabestaandenpensioenen ingevolge deze rijkswet recht bestaat op een of meer nabestaandenpensioenen krachtens een andere regeling, met dien verstande dat voor het in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) bedoelde grensbedrag en het in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) bedoelde hogere bedrag, met betrekking tot een nabestaandenpensioen krachtens [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), 14% en met betrekking tot een nabestaandenpensioen krachtens [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), 28% van die bedragen in de plaats komt.
+
+2. De gedeelten van de nabestaandenpensioenen en bijzondere nabestaandenpensioenen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), gaan tezamen het bedrag waarvan die pensioenen zijn afgeleid niet te boven.
+
+3. Indien wegens toepassing van het tweede lid de daar bedoelde pensioengedeelten een vermindering moeten ondergaan, geschiedt deze in evenredigheid van de onderscheiden bedragen.
+
+4. Voor de toepassing van het eerste, tweede en derde lid worden krachtens wettelijk voorschrift toegekende toeslagen niet onder pensioen begrepen.
 
 ##### Artikel 19
 
@@ -323,7 +308,7 @@ Tegen een besluit op grond van deze rijkswet kan een belanghebbende beroep inste
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 #### Overgangsbepalingen
 
@@ -339,7 +324,7 @@ Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. De voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=2010-10-10&g=2010-10-10) genoemde koninklijke besluiten verworven rechten en uitzichten blijven gehandhaafd.
 
-2. Het bepaalde in het eerste lid geldt voor de Gouverneurs die voor het tijdstip van inwerkingtreding van deze rijkswet, doch na 1 januari 1962 als zodanig bij koninklijk besluit zijn benoemd op grond van [artikel 1, tweede lid, van het Reglement voor de Gouverneur van de Nederlandse Antillen](onbekend), onderscheidenlijk artikel 1, tweede lid, van het Reglement voor de Gouverneur van Suriname, alsmede voor hun nagelaten betrekkingen.
+2. Het bepaalde in het eerste lid geldt voor de Gouverneurs die voor het tijdstip van inwerkingtreding van deze rijkswet, doch na 1 januari 1962 als zodanig bij koninklijk besluit zijn benoemd op grond van artikel 1, tweede lid, van het Reglement voor de Gouverneur van de Nederlandse Antillen, onderscheidenlijk artikel 1, tweede lid, van het Reglement voor de Gouverneur van Suriname, alsmede voor hun nagelaten betrekkingen.
 
 3. Onverminderd het bepaalde in het eerste lid zijn de [artikelen 31 tot en met 37 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31&z=2010-10-10&g=2010-10-10) van toepassing op de belanghebbenden als bedoeld in het tweede lid.
 
@@ -347,41 +332,9 @@ Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BW
 
 De [artikelen 34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=34&z=2010-10-10&g=2010-10-10) zijn van toepassing met betrekking tot aanspraken, ontleend aan het koninklijk besluit van 8 juni 1953, nr. 22.
 
-#### Slotbepaling
-
-##### Artikel 42
-
-Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 oktober 1983.
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18a
-
-1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing indien voor een nabestaande, naast recht op een of meer nabestaandenpensioenen ingevolge deze rijkswet recht bestaat op een of meer nabestaandenpensioenen krachtens een andere regeling, met dien verstande dat voor het in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) bedoelde grensbedrag en het in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) bedoelde hogere bedrag, met betrekking tot een nabestaandenpensioen krachtens [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), 14% en met betrekking tot een nabestaandenpensioen krachtens [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), 28% van die bedragen in de plaats komt.
-
-2. De gedeelten van de nabestaandenpensioenen en bijzondere nabestaandenpensioenen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), gaan tezamen het bedrag waarvan die pensioenen zijn afgeleid niet te boven.
-
-3. Indien wegens toepassing van het tweede lid de daar bedoelde pensioengedeelten een vermindering moeten ondergaan, geschiedt deze in evenredigheid van de onderscheiden bedragen.
-
-4. Voor de toepassing van het eerste, tweede en derde lid worden krachtens wettelijk voorschrift toegekende toeslagen niet onder pensioen begrepen.
-
-#### Verval van pensioen en uitkering
-
-#### Ingang en einde van pensioen en uitkering
-
-#### Administratieve bepalingen
-
-#### Beroep en herziening
-
-#### Overgangsbepalingen
-
-#### Slotbepaling
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 41a
 
-Aanspraken op een uitkering of pensioen op grond van deze rijkswet, zoals die luidde voor de inwerkingtreding van de [Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen](onbekend), worden geacht te zijn opgebouwd op grond van deze rijkswet, zoals die luidt na de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen.
+Aanspraken op een uitkering of pensioen op grond van deze rijkswet, zoals die luidde voor de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen, worden geacht te zijn opgebouwd op grond van deze rijkswet, zoals die luidt na de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen.
 
 #### Slotbepalingen
 
@@ -389,4 +342,6 @@ Aanspraken op een uitkering of pensioen op grond van deze rijkswet, zoals die lu
 
 Deze rijkswet wordt aangehaald als: Rijkswet pensioenen en uitkeringen aan Gouverneurs van Aruba, Curaçao en Sint Maarten.
 
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 42
+
+Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 oktober 1983.

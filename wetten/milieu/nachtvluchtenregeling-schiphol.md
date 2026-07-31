@@ -1,62 +1,17 @@
 ---
 title: "Nachtvluchtenregeling Schiphol"
 identifier: "BWBR0004219"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1987-10-17"
-last_updated: "1987-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004219"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3734003"
-version_id: "5516892"
-internal_id: "C5709981"
-label_id: "3713774"
-dtd_version: "2.0"
-original_entry_into_force: "1987-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004219/1987-10-17/0"
-intitule_bron: "Stcrt.1987-199"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-10-09"
-intitule_published: "1987-10-15"
-intitule_in_force: "1987-10-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1987-199"
-original_signed_date: "1987-10-09"
-original_published_date: "1987-10-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-10-17"
-jci_1_3: "jci1.3:c:BWBR0004219&z=1987-10-17&g=1987-10-17"
-jci_1_0: "1.0:c:BWBR0004219&g=1987-10-17"
-citeertitel_status: "officieel"
-signed_date: "1987-10-09"
-entry_into_force: "1987-10-17"
+publicatiedatum: 1987-10-17
+laatste_update: 1987-10-17
+status: geldig
+toestand: 1987-10-17
+bron: "https://wetten.overheid.nl/BWBR0004219"
+opgehaald: 2026-07-31
 ---
+
 # Nachtvluchtenregeling Schiphol
-
-Handelende in overeenstemming met de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Overwegende dat de regering heeft besloten haar aanvankelijke in het Structuurschema burgerluchtvaartterreinen Deel d (Tweede Kamer, zitting 1980–1981, 15 880, nrs. 10–11) aangekondigde besluit tot de aanleg van een ten opzichte van de baan 01L-19R gedraaide baan, ter vervanging van deze baan, te herroepen (Deel d, gewijzigde regeringsbeslissing, Tweede Kamer, vergaderjaar 1985, 15 880, nrs. 27–28);
-
-Overwegende dat het in verband daarmee gewenst is het aantal nachtvluchten over Zwanenburg/Halfweg te beperken tot vermindering van de aldaar ondervonden geluidsoverlast;
-
-Gezien de brief van de N.V. Luchthaven Schiphol van 25 september 1985, kenmerk 104/26-1/RS/CB, aan de directeur-generaal van de Rijksluchtvaartdienst, houdende een verzoek tot wijziging van de vigerende nachtvluchtenregeling;
-
-Gezien de brief van de Rijksluchtvaartdienst van 21 oktober 1986, nr. LI/GZ/7525, aan de van de luchthaven Schiphol gebruik makende luchtvaartmaatschappijen, ter zake van een ontwerp-wijziging van de vigerende nachtvluchtenregeling;
-
-Gezien de schriftelijke reacties van een aantal luchtvaartmaatschappijen alsmede van het Schiphol Airport Operators Committee, waarin de vrees wordt uitgesproken dat de in de ontwerp-wijziging voorgestelde bepaling, volgens welke het gebruik van een andere baan dan de geluidpreferente baan 06-24 zou zijn verboden voor vliegtuigen die niet aan de strengste (Hoofdstuk 3) geluidnormen van de internationale burgerluchtvaartorganisatie voldoen, de mogelijkheden tot het uitvoeren van nachtvluchten ernstig zou bemoeilijken, c.q. onmogelijk zou maken;
-
-Gelet op een analyse van het nachtverkeer op de luchthaven Schiphol waaruit blijkt dat, hoewel de aantallen nachtvluchten per maatschappij betrekkelijk gering zijn, een niet onaanzienlijk deel van deze vluchten door de voornoemde verbodsbepaling getroffen zou kunnen worden;
-
-Overwegende dat de luchtvaartmaatschappijen een voldoende termijn moet worden gegeven om op een dergelijke verbodsbepaling te anticiperen;
-
-Overwegende dat een jaar na de inwerkingtreding van dit besluit bezien zal worden of verdere beperkingen in voornoemde zin noodzakelijk zijn in verband met de beoogde vermindering van het aantal nachtelijke landingen over Zwanenburg/Halfweg tot ten hoogste ca. 300 per jaar;
-
-Gelet op de bespreking over de nachtvluchtregeling Schiphol in de vergadering van de Commissie Geluidhinder Schiphol van 23 maart 1987;
-
-Gelet op artikel 4 van het Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen (Stb. 1981, 343);
-
-Besluit:
 
 ##### Artikel 1
 

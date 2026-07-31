@@ -1,46 +1,17 @@
 ---
 title: "Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990)"
 identifier: "BWBR0004976"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1990-12-01"
-last_updated: "1990-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004976"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4229083"
-version_id: "5992892"
-internal_id: "C6196281"
-label_id: "4208044"
-dtd_version: "2.0"
-original_entry_into_force: "1990-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004976/1990-12-01/0"
-intitule_bron: "Stcrt.1991-20"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-01-18"
-intitule_published: "1991-01-29"
-intitule_in_force: "1991-01-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1991-20"
-original_signed_date: "1991-01-18"
-original_published_date: "1991-01-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-12-01"
-jci_1_3: "jci1.3:c:BWBR0004976&z=1990-12-01&g=1990-12-01"
-jci_1_0: "1.0:c:BWBR0004976&g=1990-12-01"
-citeertitel_status: "officieel"
-signed_date: "1991-01-18"
-entry_into_force: "1990-12-01"
+publicatiedatum: 1990-12-01
+laatste_update: 1990-12-01
+status: geldig
+toestand: 1990-12-01
+bron: "https://wetten.overheid.nl/BWBR0004976"
+opgehaald: 2026-07-31
 ---
+
 # Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990)
-
-Overwegende, dat het wenselijk is de regels voor de informatievoorziening in de rijksdienst te actualiseren alsmede, dat de behoefte bestaat tot betere inhoudelijke sturing te komen van de informatievoorziening;
-
-Gezien de notitie Informatievoorziening Openbare Sector (Tweede Kamer, 1987–1988, 20 644, nrs. 1–2);
-
-Handelend in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 #### Beginselen van het informatievoorzieningsbeleid
 
@@ -86,65 +57,65 @@ De minister van Binnenlandse Zaken heeft de verantwoordelijkheid voor de coördi
 
 - de minister van Binnenlandse Zaken:
 
-- brandweer en rampenbestrijding,
+   - brandweer en rampenbestrijding,
 
-- documentaire overheidsinformatie,
+   - documentaire overheidsinformatie,
 
-- interbestuurlijke financiële informatie,
+   - interbestuurlijke financiële informatie,
 
-- personeelsinformatie,
+   - personeelsinformatie,
 
-- persoonsinformatie;
+   - persoonsinformatie;
 
 - de minister van Binnenlandse Zaken en de minister van Justitie:
 
-- politiële informatie;
+   - politiële informatie;
 
 - de minister van Justitie:
 
-- justitiële informatie;
+   - justitiële informatie;
 
 - de minister van Economische Zaken:
 
-- (internationaal) handelsverkeer,
+   - (internationaal) handelsverkeer,
 
-- maatschappelijke objecten,
+   - maatschappelijke objecten,
 
-- statistische informatie;
+   - statistische informatie;
 
 - de minister van Financiën:
 
-- financiële informatie in de rijksdienst;
+   - financiële informatie in de rijksdienst;
 
 - de minister van Onderwijs en Wetenschappen:
 
-- onderwijs en wetenschappen;
+   - onderwijs en wetenschappen;
 
 - de minister van Onderwijs en Wetenschappen en de minister van Welzijn, Volksgezondheid en Cultuur:
 
-- documentaire objecten;
+   - documentaire objecten;
 
 - de minister van Sociale Zaken en Werkgelegenheid:
 
-- sociale zekerheid;
+   - sociale zekerheid;
 
 - de minister van Verkeer en Waterstaat:
 
-- voer- en vaartuigen;
+   - voer- en vaartuigen;
 
 - de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer:
 
-- milieubeheer,
+   - milieubeheer,
 
-- vastgoedinformatie;
+   - vastgoedinformatie;
 
 - de minister van Welzijn, Volksgezondheid en Cultuur:
 
-- culturele objecten,
+   - culturele objecten,
 
-- gezondheidszorg,
+   - gezondheidszorg,
 
-- welzijn.
+   - welzijn.
 
 2. De in het eerste lid genoemde ministers bevorderen de instelling van zo mogelijk één adviesorgaan voor het deelgebied dan wel de deelgebieden van de informatievoorziening, waarvoor zij eerstverantwoordelijk zijn. Het adviesorgaan kan de verantwoordelijke minister desgevraagd of uit eigen beweging van advies dienen.
 
@@ -231,5 +202,3 @@ Een meerjareninformatieplan dat relevant is vanuit het oogpunt van de algemene c
 2. Dit besluit treedt in werking met ingang van 1 december 1990.
 
 3. Dit besluit kan worden aangehaald als het Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990).
-
-Dit besluit zal met bijbehorende toelichting worden gepubliceerd in de Nederlandse Staatscourant en in afschrift worden toegezonden aan de Algemene Rekenkamer.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 23 augustus 1989, tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 3, derde en vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 3, derde en vierde lid, van de Ziektewet en artikel 3, derde en vierde lid, van de Werkloosheidswet"
+citeertitel: "Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990"
 identifier: "BWBR0004613"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004613"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "1132783"
-version_id: "1676522"
-internal_id: "C1676521"
-label_id: "1098724"
-dtd_version: "2.0"
-original_entry_into_force: "1990-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004613/2023-01-01/0"
-intitule_bron: "Stb.1989-402"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-08-23"
-intitule_status: "goed"
-original_publication: "Stb.1989-402"
-original_signed_date: "1989-08-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1990-01-01"
-jci_1_3: "jci1.3:c:BWBR0004613&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0004613&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990"
-signed_date: "1989-08-23"
-entry_into_force: "1990-01-01"
+publicatiedatum: 1990-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0004613"
+opgehaald: 2026-07-31
 ---
+
 # Besluit van 23 augustus 1989, tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 3, derde en vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 3, derde en vierde lid, van de Ziektewet en artikel 3, derde en vierde lid, van de Werkloosheidswet
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 mei 1989, Directoraat-Generaal Sociale Zekerheid, Directie Sociale Verzekeringen, Hoofdafdeling Werknemersverzekeringen, Afdeling Werkloosheidsregelingen, nr. SZ/SVW/89/2566;
-
-Gelet op [artikel 3, derde en vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) (**Stb.** 1987, 89), [artikel 3, derde en vierde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3) (**Stb.** 1987, 88) en [artikel 3, derde en vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3) (**Stb.** 1987, 93);
-
-De Raad van State gehoord (advies van 5 juli 1989, nr. W12.89.0249);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 augustus 1989, Directoraat-Generaal Sociale Zekerheid, nr. SZ/SV/SVW/89/3774;
-
-Hebben goedgevonden en verstaan:
 
 #### Begripsbepaling
 
@@ -48,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **werknemersverzekeringen:** de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- a. *werknemersverzekeringen:* de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- b. **in Nederland arbeid verrichten, dan wel werkzaam zijn:** in Nederland of op het continentaal plat arbeid verrichten;
+- b. *in Nederland arbeid verrichten, dan wel werkzaam zijn:* in Nederland of op het continentaal plat arbeid verrichten;
 
-- c. **buiten Nederland arbeid verrichten, dan wel werkzaam zijn:** buiten Nederland en het continentaal plat arbeid verrichten;
+- c. *buiten Nederland arbeid verrichten, dan wel werkzaam zijn:* buiten Nederland en het continentaal plat arbeid verrichten;
 
-- d. **Nederlandse socialeverzekeringsuitkering:** een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), [artikel 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
+- d. *Nederlandse socialeverzekeringsuitkering:* een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), [artikel 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
 #### Uitbreiding van de kring van verzekerden
 
@@ -65,6 +37,40 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 ##### Artikel 3
 
 Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd degene die niet in Nederland woont en behoort tot het rijdend, vliegend of op de binnenwateren varend personeel van een in Nederland wonende of gevestigde werkgever die internationaal vervoer verricht, tenzij hij in hoofdzaak in het woonland arbeid verricht dan wel werkt bij een filiaal of een vaste vertegenwoordiging van die werkgever buiten Nederland.
+
+##### Artikel 3a. Buiten Nederland en Europa werkzaam
+
+1. Onverminderd de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2023-01-01&g=2023-01-01) en [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2023-01-01&g=2023-01-01) wordt als werknemer in de zin van de werknemersverzekeringen beschouwd degene die:
+
+- a. de nationaliteit heeft van een van de lidstaten van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
+
+- b. woont buiten Nederland in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland;
+
+- c. een dienstbetrekking heeft met een in Nederland wonende of gevestigde werkgever, en
+
+- d. arbeid verricht voor de werkgever, bedoeld onderdeel c, en werkzaam is buiten:
+
+   - 1° Nederland of een andere lidstaat van de Europese Unie;
+
+   - 2° een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of
+
+   - 3° Zwitserland.
+
+2. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd degene die:
+
+- a. niet beschikt over de nationaliteit, bedoeld in het eerste lid, onderdeel a;
+
+- b. die buiten Nederland rechtmatig op het grondgebied verblijft van een andere lidstaat van de Europese Unie, uitgezonderd Denemarken;
+
+- c. een dienstbetrekking heeft met een in Nederland wonende of gevestigde werkgever, en
+
+- d. arbeid verricht voor de werkgever, bedoeld in onderdeel c, en werkzaam is buiten:
+
+   - 1° Nederland of een andere lidstaat van de Europese Unie;
+
+   - 2° een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of
+
+   - 3° Zwitserland.
 
 ##### Artikel 4
 
@@ -138,7 +144,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd dege
 
 - d. een Nederlandse socialeverzekeringsuitkering ontvangen.
 
-3. Als werknemer in de zin van de werknemersverzekeringen worden niet beschouwd de leden van het administratieve, technische en bedienende personeel van de diplomatieke zending of de consulaire post van een andere mogendheid alsmede de particuliere bedienden die in dienst zijn van de ambtenaar, bedoeld in het eerste lid, of van de leden van het personeel, bedoeld in het tweede lid, indien zij reeds vóór 1 augustus 1987 als zodanig in dienst waren, en vanaf 1 augustus 1987 als zodanig onafgebroken in dienst zijn, tenzij zij:
+3. Als werknemer in de zin van de werknemersverzekeringen worden niet beschouwd de leden van het administratieve, technische en bedienende personeel van de diplomatieke zending of de consulaire post van een andere mogendheid alsmede de particuliere bedienden die in dienst zijn van de ambtenaar, bedoeld in het eerste lid, of van de leden van het personeel, bedoeld in het tweede lid, indien zij reeds vóór 1 augustus 1987 als zodanig in dienst waren, en vanaf 1 augustus 1987 als zodanig onafgebroken in dienst zijn, tenzij zij:
 
 - a. in Nederland arbeid in dienstbetrekking verrichten anders dan de werkzaamheden, bedoeld in de aanhef; of
 
@@ -182,7 +188,7 @@ In afwijking van de eerste zin worden de daar genoemde leden en particuliere bed
 
 - a. gevolmachtigd Minister van Aruba, gevolmachtigd Minister van Curaçao of gevolmachtigd Minister van Sint Maarten is, of
 
-- b. als ambtenaar is toegevoegd aan een van de in onderdeel **a** bedoelde personen, of
+- b. als ambtenaar is toegevoegd aan een van de in onderdeel *a* bedoelde personen, of
 
 - c. als ambtenaar van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba of een publiekrechtelijk rechtspersoon van een van de drie landen of openbare lichamen in Nederland een studie-opdracht vervult,
 
@@ -234,17 +240,25 @@ Het in de eerste volzin bedoelde verzoek kan slechts worden gedaan door de in di
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16a
 
 Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), indien hij in Nederland, met uitzondering van het continentaal plat, arbeid in dienstbetrekking verricht zonder dat aan de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) is voldaan.
 
+##### Artikel 16b
+
+[Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2023-01-01&g=2023-01-01), is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen.
+
 #### Slotbepalingen
+
+##### Artikel 16c
+
+[Artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2023-01-01&g=2023-01-01), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op personen die onmiddellijk voor die datum verzekerd waren voor de werknemersverzekeringen op grond van dat lid zolang de verzekering op die grond voortduurt.
 
 ##### Artikel 17
 
-Het besluit van 24 december 1986, **Stb.** 654, wordt ingetrokken.
+Het besluit van 24 december 1986, *Stb.* 654, wordt ingetrokken.
 
 ##### Artikel 18
 
@@ -253,59 +267,3 @@ Dit besluit treedt in werking met ingang van 1 januari 1990.
 ##### Artikel 19
 
 Dit besluit kan worden aangehaald onder de titel "Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990".
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 3a. Buiten Nederland en Europa werkzaam
-
-1. Onverminderd de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2023-01-01&g=2023-01-01) en [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2023-01-01&g=2023-01-01) wordt als werknemer in de zin van de werknemersverzekeringen beschouwd degene die:
-
-- a. de nationaliteit heeft van een van de lidstaten van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
-
-- b. woont buiten Nederland in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland;
-
-- c. een dienstbetrekking heeft met een in Nederland wonende of gevestigde werkgever, en
-
-- d. arbeid verricht voor de werkgever, bedoeld onderdeel c, en werkzaam is buiten:
-
-- 1°. Nederland of een andere lidstaat van de Europese Unie;
-
-- 2°. een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of
-
-- 3°. Zwitserland.
-
-2. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd degene die:
-
-- a. niet beschikt over de nationaliteit, bedoeld in het eerste lid, onderdeel a;
-
-- b. die buiten Nederland rechtmatig op het grondgebied verblijft van een andere lidstaat van de Europese Unie, uitgezonderd Denemarken;
-
-- c. een dienstbetrekking heeft met een in Nederland wonende of gevestigde werkgever, en
-
-- d. arbeid verricht voor de werkgever, bedoeld in onderdeel c, en werkzaam is buiten:
-
-- 1°. Nederland of een andere lidstaat van de Europese Unie;
-
-- 2°. een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of
-
-- 3°. Zwitserland.
-
-#### Beperking van de kring van verzekerden
-
-##### Artikel 16b
-
-[Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2023-01-01&g=2023-01-01), is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen.
-
-#### Slotbepalingen
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 16a*
-
-[Artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2022-08-02&g=2022-08-02), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op personen die onmiddellijk voor die datum verzekerd waren voor de volksverzekeringen op grond van dat lid zolang de verzekering op die grond voortduurt.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 16c
-
-[Artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2023-01-01&g=2023-01-01), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op personen die onmiddellijk voor die datum verzekerd waren voor de werknemersverzekeringen op grond van dat lid zolang de verzekering op die grond voortduurt.

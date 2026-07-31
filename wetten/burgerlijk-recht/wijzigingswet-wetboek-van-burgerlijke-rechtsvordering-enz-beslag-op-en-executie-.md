@@ -1,109 +1,84 @@
 ---
 title: "Wet van 28 oktober 1991, houdende aanpassing van het Wetboek van Burgerlijke Rechtsvordering en de Wet teboekgestelde Luchtvaartuigen (Stb. 1957, 72), voor wat betreft beslag op en executie van schepen en luchtvaartuigen, aan de regels betreffende executie en beslag, in dat wetboek opgenomen bij de Wet van 7 mei 1986 (Stb. 295)"
+citeertitel: "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag op en executie van schepen en luchtvaartuigen)"
 identifier: "BWBR0005245"
-country: "nl"
-rank: "wet"
-publication_date: "1992-01-01"
-last_updated: "1992-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005245"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "562953"
-version_id: "820102"
-internal_id: "C820101"
-label_id: "546714"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005245/1992-01-01/0"
-intitule_bron: "Stb.1991-583"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-28"
-intitule_status: "goed"
-original_publication: "Stb.1991-583"
-original_signed_date: "1991-10-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "21961"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBR0005245&z=1992-01-01&g=1992-01-01"
-jci_1_0: "1.0:c:BWBR0005245&g=1992-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag op en executie van schepen en luchtvaartuigen)"
-signed_date: "1991-10-28"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1992-01-01
+status: geldig
+toestand: 1992-01-01
+bron: "https://wetten.overheid.nl/BWBR0005245"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 28 oktober 1991, houdende aanpassing van het Wetboek van Burgerlijke Rechtsvordering en de Wet teboekgestelde Luchtvaartuigen (Stb. 1957, 72), voor wat betreft beslag op en executie van schepen en luchtvaartuigen, aan de regels betreffende executie en beslag, in dat wetboek opgenomen bij de Wet van 7 mei 1986 (Stb. 295)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en de Wet teboekgestelde Luchtvaartuigen (**Stb.** 1957, 72), voor wat betreft beslag op en executie van schepen en luchtvaartuigen, aan te passen aan de regels betreffende executie en beslag, in dat wetboek opgenomen bij de Wet van 7 mei 1986 (**Stb.** 295);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### Hoofdstuk I. Wijziging van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+### Hoofdstuk I. Wijziging van het Wetboek van Burgerlijke Rechtsvordering
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk II. Wijziging van de Wet teboekgestelde Luchtvaartuigen (stb. 1957. 72)
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk III. Wijziging in enige andere wetten
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk IV. Overgangsrecht en slotbepalingen
 
@@ -130,5 +105,3 @@ Onze Minister van Justitie brengt de in deze wet voorkomende aanhalingen van art
 ##### Artikel IV
 
 De bepalingen van deze wet treden in werking op nader door ons te bepalen tijdstippen.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

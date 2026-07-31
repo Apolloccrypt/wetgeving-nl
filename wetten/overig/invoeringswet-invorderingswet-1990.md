@@ -1,267 +1,238 @@
 ---
 title: "Wet van 30 mei 1990, houdende inwerkingtreding van en aanpassing van wetgeving aan de Invorderingswet 1990 (Invoeringswet Invorderingswet 1990)"
+citeertitel: "Invoeringswet Invorderingswet 1990"
 identifier: "BWBR0004771"
-country: "nl"
-rank: "wet"
-publication_date: "1990-06-01"
-last_updated: "1990-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0004771"
+categorie: "Overig"
 soort: "wet"
-stam_id: "3309773"
-version_id: "5078772"
-internal_id: "C5259161"
-label_id: "3290434"
-dtd_version: "2.0"
-original_entry_into_force: "1990-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0004771/1990-06-01/0"
-intitule_bron: "Stb.1990-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-05-30"
-intitule_published: "1990-05-31"
-intitule_in_force: "1990-05-31"
-intitule_status: "goed"
-original_publication: "Stb.1990-222"
-original_signed_date: "1990-05-30"
-original_published_date: "1990-05-31"
-original_effect: "nieuwe-regeling"
-original_dossier: "21135"
-entry_into_force_date: "1990-06-01"
-entry_into_force_dossier: "21135"
-jci_1_3: "jci1.3:c:BWBR0004771&z=1990-06-01&g=1990-06-01"
-jci_1_0: "1.0:c:BWBR0004771&g=1990-06-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Invorderingswet 1990"
-signed_date: "1990-05-30"
-entry_into_force: "1990-06-01"
+publicatiedatum: 1990-06-01
+laatste_update: 1990-06-01
+status: geldig
+toestand: 1990-06-01
+bron: "https://wetten.overheid.nl/BWBR0004771"
+opgehaald: 2026-07-31
 ---
+
 # Wet van 30 mei 1990, houdende inwerkingtreding van en aanpassing van wetgeving aan de Invorderingswet 1990 (Invoeringswet Invorderingswet 1990)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de inwerkingtreding van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) te regelen alsmede de wet van 22 mei 1845 (Stb. 1926, 334) op de invordering van 's Rijks directe belastingen in te trekken en voorts de wetten waarin naar laatstbedoelde wet wordt verwezen of waarin invorderingsbepalingen dan wel aansprakelijkheidsbepalingen voorkomen die zijn ontleend aan fiscale invorderings- en aansprakelijkheidsbepalingen, aan te passen aan de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel II
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel III
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel IV
 
-Wijzigt de Algemene wet inzake de douane en de accijnzen.
+*Wijzigt de Algemene wet inzake de douane en de accijnzen.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de kansspelbelasting.
+*Wijzigt de Wet op de kansspelbelasting.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de inkomstenbelasting 1964.
+*Wijzigt de Wet op de inkomstenbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de vermogensbelasting 1964.
+*Wijzigt de Wet op de vermogensbelasting 1964.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1966.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1966.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XII
 
-Wijzigt de Kostenwet invordering rijksbelastingen.
+*Wijzigt de Kostenwet invordering rijksbelastingen.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XV
 
-Wijzigt de Wet wederzijdse bijstand bij de invordering van enkele EEG-heffingen en de omzetbelasting.
+*Wijzigt de Wet wederzijdse bijstand bij de invordering van enkele EEG-heffingen en de omzetbelasting.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet tijdelijke fiscale maatregelen betreffende auto en milieu na 1988.
+*Wijzigt de Wet tijdelijke fiscale maatregelen betreffende auto en milieu na 1988.*
 
 ##### Artikel XVII
 
-Wijzigt de Waterstaatswet 1990.
+*Wijzigt de Waterstaatswet 1990.*
 
 ##### Artikel XVIII
 
-Wijzigt de Medische Tuchtwet.
+*Wijzigt de Medische Tuchtwet.*
 
 ##### Artikel XIX
 
-Wijzigt de Ambtenarenwet 1929.
+*Wijzigt de Ambtenarenwet 1929.*
 
 ##### Artikel XX
 
-Wijzigt de Wegenwet.
+*Wijzigt de Wegenwet.*
 
 ##### Artikel XXI
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel XXII
 
-Wijzigt de Herverkavelingswet Walcheren 1947.
+*Wijzigt de Herverkavelingswet Walcheren 1947.*
 
 ##### Artikel XXIII
 
-Wijzigt de Dienstplichtwet.
+*Wijzigt de Dienstplichtwet.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds.
+*Wijzigt de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet op de Bedrijfsorganisatie.
+*Wijzigt de Wet op de Bedrijfsorganisatie.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.
+*Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.*
 
 ##### Artikel XXVII
 
-Wijzigt de Landbouwwet.
+*Wijzigt de Landbouwwet.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet op de paramedische beroepen.
+*Wijzigt de Wet op de paramedische beroepen.*
 
 ##### Artikel XXX
 
-Wijzigt de Oorlogswet voor Nederland.
+*Wijzigt de Oorlogswet voor Nederland.*
 
 ##### Artikel XXXI
 
-Wijzigt de Ontgrondingenwet.
+*Wijzigt de Ontgrondingenwet.*
 
 ##### Artikel XXXII
 
-Wijzigt de Jeugdspaarwet.
+*Wijzigt de Jeugdspaarwet.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wet sloopregeling binnenvaart.
+*Wijzigt de Wet sloopregeling binnenvaart.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet op de dierproeven.
+*Wijzigt de Wet op de dierproeven.*
 
 ##### Artikel XXXV
 
-Wijzigt de Wet Bezitsvormingsfonds.
+*Wijzigt de Wet Bezitsvormingsfonds.*
 
 ##### Artikel XXXVI
 
-Wijzigt de Reconstructiewet Midden-Delfland.
+*Wijzigt de Reconstructiewet Midden-Delfland.*
 
 ##### Artikel XXXVII
 
-Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
+*Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.*
 
 ##### Artikel XXXVIII
 
-Wijzigt de Bevoegdhedenwet waterschappen.
+*Wijzigt de Bevoegdhedenwet waterschappen.*
 
 ##### Artikel XXXIX
 
-Wijzigt de Wet verontreiniging oppervlaktewateren.
+*Wijzigt de Wet verontreiniging oppervlaktewateren.*
 
 ##### Artikel XL
 
-Wijzigt de Prijzennoodwet.
+*Wijzigt de Prijzennoodwet.*
 
 ##### Artikel XLI
 
-Wijzigt de Landinrichtingswet.
+*Wijzigt de Landinrichtingswet.*
 
 ##### Artikel XLII
 
-Wijzigt de Wet van 21 mei 1986, houdende nadere wijziging van enige sociale verzekeringswetten, de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds en enige fiscale wetten in verband met het misbruik van rechtspersonen.
+*Wijzigt de Wet van 21 mei 1986, houdende nadere wijziging van enige sociale verzekeringswetten, de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds en enige fiscale wetten in verband met het misbruik van rechtspersonen.*
 
 ##### Artikel XLIII
 
-Wijzigt de Wet Arbeid Gehandicapte Werknemers.
+*Wijzigt de Wet Arbeid Gehandicapte Werknemers.*
 
 ##### Artikel XLIV
 
-Wijzigt de Ziekenfondswet.
+*Wijzigt de Ziekenfondswet.*
 
 ##### Artikel XLV
 
-Wijzigt de Meststoffenwet.
+*Wijzigt de Meststoffenwet.*
 
 ##### Artikel XLVI
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel XLVII
 
-Wijzigt de Wet op de Arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de Arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel XLVIII
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel XLIX
 
-Wijzigt de Wet Autovervoer Goederen.
+*Wijzigt de Wet Autovervoer Goederen.*
 
 ##### Artikel L
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+*Wijzigt de Coördinatiewet Sociale Verzekering.*
 
 ##### Artikel LI
 
-Wijzigt de Wet algemene bepalingen milieuhygiëne.
+*Wijzigt de Wet algemene bepalingen milieuhygiëne.*
 
 ##### Artikel LII
 
-Wijzigt de In- en uitvoerwet.
+*Wijzigt de In- en uitvoerwet.*
 
 ##### Artikel LIII
 
-Wijzigt de Wet financiering volksverzekering.
+*Wijzigt de Wet financiering volksverzekering.*
 
 ##### Artikel LIV
 
-Wijzigt de Wet van 29 October 1948 tot goedkeuring van het op 29 April 1948 te Washington tussen Nederland en de Verenigde Staten van Amerika gesloten verdrag ter voorkoming van dubbele belasting en ter vermijding van het ontgaan van belasting met betrekking tot belastingen van inkomsten en bepaalde andere belastingen, benevens het treffen van enige voorzieningen in verband met genoemd verdrag.
+*Wijzigt de Wet van 29 October 1948 tot goedkeuring van het op 29 April 1948 te Washington tussen Nederland en de Verenigde Staten van Amerika gesloten verdrag ter voorkoming van dubbele belasting en ter vermijding van het ontgaan van belasting met betrekking tot belastingen van inkomsten en bepaalde andere belastingen, benevens het treffen van enige voorzieningen in verband met genoemd verdrag.*
 
 ##### Artikel LV
 
-Wijzigt de Wet van 23 oktober 1957, houdende goedkeuring van de op 20 februari 1957 te Kopenhagen tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen van inkomsten en van vermogen.
+*Wijzigt de Wet van 23 oktober 1957, houdende goedkeuring van de op 20 februari 1957 te Kopenhagen tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen van inkomsten en van vermogen.*
 
 ##### Artikel LVI
 
@@ -345,14 +316,12 @@ Waar in deze wet de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel LXIII
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel LXIV
 
-Wijzigt de Invorderingswet 1990 en deze wet.
+*Wijzigt de Invorderingswet 1990 en deze wet.*
 
 ##### Artikel LXV
 
 Deze wet kan worden aangehaald als: Invoeringswet Invorderingswet 1990.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.
