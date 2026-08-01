@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 13 december 1993, houdende vaststelling van administratieve bepalingen inzake het scheepvaartverkeer"
+citeertitel: "Besluit administratieve bepalingen scheepvaartverkeer"
 identifier: "BWBR0006309"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006309"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "76463"
-version_id: "105522"
-internal_id: "C27150321"
-label_id: "77754"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006309/2025-01-01/0"
-intitule_bron: "Stb.1993-677"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-13"
-intitule_published: "1993-12-23"
-intitule_in_force: "1993-12-23"
-intitule_status: "goed"
-original_publication: "Stb.1993-677"
-original_signed_date: "1993-12-13"
-original_published_date: "1993-12-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBR0006309&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0006309&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit administratieve bepalingen scheepvaartverkeer"
-signed_date: "1993-12-13"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0006309"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 13 december 1993, houdende vaststelling van administratieve bepalingen inzake het scheepvaartverkeer
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 11 januari 1993, nr. RVR 138115, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=2), [4, eerste lid, onderdelen **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=2), [6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=6), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=7), en [8 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=8);
-
-De Raad van State gehoord (advies van 30 maart 1993, nr. W09.93.0015);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 2 december 1993, nr. RVR 164104, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -55,9 +24,9 @@ Hebben goedgevonden en verstaan:
 
 - b. verkeersbesluit:
 
-- 1°. een besluit tot het aanbrengen of verwijderen van een verkeersteken dat een gebod of verbod dan wel de opheffing van een gebod of verbod aangeeft;
+   - 1°. een besluit tot het aanbrengen of verwijderen van een verkeersteken dat een gebod of verbod dan wel de opheffing van een gebod of verbod aangeeft;
 
-- 2°. een bekendmaking met dezelfde strekking als een verkeersteken als bedoeld onder 1°.
+   - 2°. een bekendmaking met dezelfde strekking als een verkeersteken als bedoeld onder 1°.
 
 2. In dit besluit wordt onder bevoegd gezag mede verstaan degene die de desbetreffende bevoegdheid uitoefent vanwege dat gezag.
 
@@ -69,13 +38,13 @@ Hebben goedgevonden en verstaan:
 
 Het bevoegd gezag brengt slechts verkeerstekens aan opgenomen in:
 
-- a. voor wat betreft het [Binnenvaartpolitiereglement](onbekend) met uitzondering van de Waddenzee, de bij dat besluit behorende [bijlagen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=8);
+- a. voor wat betreft het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/BWBR0003628) met uitzondering van de Waddenzee, de bij dat besluit behorende [bijlagen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=8);
 
-- b. voor wat betreft het [Binnenvaartpolitiereglement](onbekend) op de Waddenzee, de bij dat besluit behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) en het IALA betonningssysteem Regio A;
+- b. voor wat betreft het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/BWBR0003628) op de Waddenzee, de bij dat besluit behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) en het IALA betonningssysteem Regio A;
 
 - c. voor wat betreft het Rijnvaartpolitiereglement 1995, de bij dat besluit behorende bijlagen 7 en 8;
 
-- d. voor wat betreft het [Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552), de bij dat besluit behorende [bijlage 1, hoofdstuk I](onbekend);
+- d. voor wat betreft het [Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552), de bij dat besluit behorende bijlage 1, hoofdstuk I;
 
 - e. voor wat betreft het [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315), de bij dat besluit behorende [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=6);
 
@@ -153,41 +122,41 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&ho
 
 3. In een aanloopgebied als bedoeld in het [Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914), kan door middel van een bekendmaking met dezelfde strekking als een verkeersteken een verbod worden uitgevaardigd met betrekking tot:
 
-- -. het zich bevinden in een bepaald gedeelte van het aanloopgebied,
+- - het zich bevinden in een bepaald gedeelte van het aanloopgebied,
 
-- -. voorbijlopen,
+- - voorbijlopen,
 
-- -. ontmoeten,
+- - ontmoeten,
 
-- -. voor anker gaan,
+- - voor anker gaan,
 
-- -. het laten slepen van ankers, kabels en kettingen,
+- - het laten slepen van ankers, kabels en kettingen,
 
-- -. koers kruisen,
+- - koers kruisen,
 
-- -. het veroorzaken van hinderlijke waterbeweging,
+- - het veroorzaken van hinderlijke waterbeweging,
 
-- -. het sluiten van een deel van het aanloopgebied voor:
+- - het sluiten van een deel van het aanloopgebied voor:
 
-- -. kleine schepen,
+- - kleine schepen,
 
-- -. waterskiërs,
+- - waterskiërs,
 
-- -. zeilschepen,
+- - zeilschepen,
 
-- -. door spierkracht voortbewogen schepen,
+- - door spierkracht voortbewogen schepen,
 
-- -. zeilplanken,
+- - zeilplanken,
 
-- -. snelle motorboten,
+- - snelle motorboten,
 
-- -. waterscooters.
+- - waterscooters.
 
 4. In een aanloopgebied als bedoeld in het [Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914), kan door middel van een bekendmaking met dezelfde strekking als een verkeersteken een gebod worden uitgevaardigd met betrekking tot:
 
-- -. het marifoonkanaal waarop een melding door de scheepvaart dient plaats te vinden;
+- - het marifoonkanaal waarop een melding door de scheepvaart dient plaats te vinden;
 
-- -. punten bij het passeren waarvan een melding door de scheepvaart dient plaats te vinden.
+- - punten bij het passeren waarvan een melding door de scheepvaart dient plaats te vinden.
 
 5. Met betrekking tot het derde lid is [artikel 1.01, onderdeel A, 15° tot en met 18°, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01) van overeenkomstige toepassing.
 
@@ -203,15 +172,15 @@ Bij de voorbereiding van een besluit tot vrijstelling voert het bevoegd gezag ov
 
 ##### Artikel 15
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 16
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 17
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
@@ -232,5 +201,3 @@ Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepal
 ##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit administratieve bepalingen scheepvaartverkeer.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

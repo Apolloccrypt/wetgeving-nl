@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 11 januari 1994, tot vaststelling van het Besluit rechtsbijstand- en toevoegcriteria"
+citeertitel: "Besluit rechtsbijstand- en toevoegcriteria"
 identifier: "BWBR0006404"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006404"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "898123"
-version_id: "1313672"
-internal_id: "C1313671"
-label_id: "871244"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006404/2022-01-01/0"
-intitule_bron: "Stb.1994-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-01-11"
-intitule_status: "goed"
-original_publication: "Stb.1994-32"
-original_signed_date: "1994-01-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-01-19"
-jci_1_3: "jci1.3:c:BWBR0006404&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0006404&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit rechtsbijstand- en toevoegcriteria"
-signed_date: "1994-01-11"
-entry_into_force: "1994-01-19"
+publicatiedatum: 1994-01-19
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0006404"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 11 januari 1994, tot vaststelling van het Besluit rechtsbijstand- en toevoegcriteria
-
-Op de voordracht van Onze Minister van Justitie van 20 oktober 1993, Stafafdeling Wetgeving Puliekrecht nr. 401654/93/6, gedaan mede namens de Staatssecretaris van Justitie;
-
-Gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=12) en [28 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28);
-
-De Raad van State gehoord (advies van 24 december 1993, no. W03.93.0705);
-
-Gezien het nader rapport van Onze Minister van Justitie van 3 januari 1994, Stafafdeling Wetgeving Publiekrecht, nr. 419553/93/6, uitgebracht mede namens de Staatssecretaris van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -140,10 +112,8 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1994.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1994.
 
 ##### Artikel 10
 
 1. Dit besluit kan worden aangehaald als: Besluit rechtsbijstand- en toevoegcriteria.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

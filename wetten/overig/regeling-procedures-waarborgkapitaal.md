@@ -1,40 +1,17 @@
 ---
 title: "Regeling procedures waarborgkapitaal"
 identifier: "BWBR0005900"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2003-02-01"
-last_updated: "2003-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005900"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4732423"
-version_id: "6549232"
-internal_id: "C7000201"
-label_id: "4710604"
-dtd_version: "2.0"
-original_entry_into_force: "1993-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005900/2003-02-01/0"
-intitule_bron: "Stcrt.1993-59"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-09"
-intitule_published: "1993-03-25"
-intitule_in_force: "1993-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-59"
-original_signed_date: "1993-03-09"
-original_published_date: "1993-03-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-03-25"
-jci_1_3: "jci1.3:c:BWBR0005900&z=2003-02-01&g=2003-02-01"
-jci_1_0: "1.0:c:BWBR0005900&g=2003-02-01"
-citeertitel_status: "officieel"
-signed_date: "1993-03-09"
-entry_into_force: "1993-03-25"
+publicatiedatum: 1993-03-25
+laatste_update: 2003-02-01
+status: geldig
+toestand: 2003-02-01
+bron: "https://wetten.overheid.nl/BWBR0005900"
+opgehaald: 2026-08-01
 ---
-# Regeling procedures waarborgkapitaal
 
-Besluit:
+# Regeling procedures waarborgkapitaal
 
 ##### Artikel 1
 

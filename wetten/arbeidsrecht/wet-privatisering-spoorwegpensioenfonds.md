@@ -1,41 +1,18 @@
 ---
 title: "Wet van 15 december 1993, houdende privatisering van het Spoorwegpensioenfonds"
+citeertitel: "Wet privatisering Spoorwegpensioenfonds"
 identifier: "BWBR0006319"
-country: "nl"
-rank: "wet"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006319"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "88573"
-version_id: "123912"
-internal_id: "C123911"
-label_id: "89974"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006319/2015-07-01/0"
-intitule_bron: "Stb.1993-680"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-15"
-intitule_status: "goed"
-original_publication: "Stb.1993-680"
-original_signed_date: "1993-12-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "23305"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBR0006319&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0006319&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet privatisering Spoorwegpensioenfonds"
-signed_date: "1993-12-15"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0006319"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 15 december 1993, houdende privatisering van het Spoorwegpensioenfonds
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten: Alzo Wij in overweging genomen hebben, dat het wenselijk is de verantwoordelijkheid voor de pensioenen van het spoorwegpersoneel in handen te leggen van de betrokken sociale partners, alsmede de bemoeienis van de rijksoverheid met en de financiële verantwoordelijkheid van het rijk voor die pensioenen te beëindigen;
-
-Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -55,11 +32,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. deelgenoot: deelgenoot, bedoeld in artikel B 1 en artikel B 2 van de Spoorwegpensioenwet;
 
-- g. gewezen deelgenoot: gewezen deelgenoot, bedoeld in artikel A 1, onderdeel **g**, van de Spoorwegpensioenwet;
+- g. gewezen deelgenoot: gewezen deelgenoot, bedoeld in artikel A 1, onderdeel *g*, van de Spoorwegpensioenwet;
 
 - h. N.S.: de N.V. Nederlandse Spoorwegen;
 
-- i. Stichting Spoorwegpensioenfonds: de door de N.S. opgerichte instelling, bedoeld in [artikel 1, eerste lid, onderdeel **b**, van de Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1).
+- i. Stichting Spoorwegpensioenfonds: de door de N.S. opgerichte instelling, bedoeld in [artikel 1, eerste lid, onderdeel *b*, van de Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1).
 
 ### Hoofdstuk II. Overgang vermogen Spoorwegpensioenfonds
 
@@ -105,11 +82,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. artikel D 2 van de Spoorwegpensioenwet;
 
-- c. artikel V van de wet van 28 april 1976 (**Stb.** 323);
+- c. artikel V van de wet van 28 april 1976 (*Stb.* 323);
 
-- d. artikel IX, de onderdelen C, K en X, van de wet van 7 mei 1986 (**Stb.** 303);
+- d. artikel IX, de onderdelen C, K en X, van de wet van 7 mei 1986 (*Stb.* 303);
 
-- e. artikel III, onderdeel B, van de wet van 3 juli 1986 (**Stb.** 393); zoals die artikelen luidden op de dag voorafgaande aan de inwerkingtreding van deze wet, met dien verstande, dat het bestuur van de Stichting Spoorwegpensioenfonds in de plaats treedt van de directie bedoeld in artikel D 2 van de Spoorwegpensioenwet.
+- e. artikel III, onderdeel B, van de wet van 3 juli 1986 (*Stb.* 393); zoals die artikelen luidden op de dag voorafgaande aan de inwerkingtreding van deze wet, met dien verstande, dat het bestuur van de Stichting Spoorwegpensioenfonds in de plaats treedt van de directie bedoeld in artikel D 2 van de Spoorwegpensioenwet.
 
 3. Zodra de belanghebbende dit wenst, kan hij om overname verzoeken van externe diensttijd als bedoeld in het eerste lid.
 
@@ -117,13 +94,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Indien gebruik wordt gemaakt van het in het eerste lid bedoelde recht, wordt daarvan door het bestuur van de Stichting Spoorwegpensioenfonds mededeling gedaan aan:
 
-- a. het bestuur van het Algemeen burgerlijkpensioenfonds, indien het diensttijd betreft als bedoeld in artikel D 1, eerste lid en tweede lid, onderdeel **c**, van de Algemene burgerlijke pensioenwet;
+- a. het bestuur van het Algemeen burgerlijkpensioenfonds, indien het diensttijd betreft als bedoeld in artikel D 1, eerste lid en tweede lid, onderdeel *c*, van de Algemene burgerlijke pensioenwet;
 
-- b. aan Onze Minister van Defensie, indien het diensttijd betreft als bedoeld in artikel D 1, tweede lid, onderdeel **a**, van de Algemene burgerlijke pensioenwet, niet zijnde tijd als bedoeld in artikel D 2, derde lid, van die wet.
+- b. aan Onze Minister van Defensie, indien het diensttijd betreft als bedoeld in artikel D 1, tweede lid, onderdeel *a*, van de Algemene burgerlijke pensioenwet, niet zijnde tijd als bedoeld in artikel D 2, derde lid, van die wet.
 
-6. Voor zover de in het vijfde lid bedoelde mededeling diensttijd betreft als bedoeld in het vijfde lid, onderdeel **a**, wordt door het bestuur van het Algemeen burgerlijk pensioenfonds de wiskundige reserve van het uitzicht op pensioen dat bij dat fonds is of geacht wordt te zijn opgebouwd voor degene op wie die mededeling betrekking heeft, overgedragen aan de Stichting Spoorwegpensioenfonds.
+6. Voor zover de in het vijfde lid bedoelde mededeling diensttijd betreft als bedoeld in het vijfde lid, onderdeel *a*, wordt door het bestuur van het Algemeen burgerlijk pensioenfonds de wiskundige reserve van het uitzicht op pensioen dat bij dat fonds is of geacht wordt te zijn opgebouwd voor degene op wie die mededeling betrekking heeft, overgedragen aan de Stichting Spoorwegpensioenfonds.
 
-7. Voor zover de in het vijfde lid bedoelde mededeling diensttijd betreft als bedoeld in het vijfde lid, onderdeel **b**, wordt door Onze Minister van Defensie de actuariële tegenwaarde van het uitzicht op pensioen dat, ingevolge de Algemene militaire pensioenwet en de vroegere militaire pensioenwetten in de zin van die wet, is opgebouwd door degene op wie die mededeling betrekking heeft, overgedragen aan de Stichting Spoorwegpensioenfonds.
+7. Voor zover de in het vijfde lid bedoelde mededeling diensttijd betreft als bedoeld in het vijfde lid, onderdeel *b*, wordt door Onze Minister van Defensie de actuariële tegenwaarde van het uitzicht op pensioen dat, ingevolge de Algemene militaire pensioenwet en de vroegere militaire pensioenwetten in de zin van die wet, is opgebouwd door degene op wie die mededeling betrekking heeft, overgedragen aan de Stichting Spoorwegpensioenfonds.
 
 8. De in het zesde en zevende lid bedoelde overdracht vindt plaats binnen drie maanden na ontvangst van de in het vijfde lid bedoelde mededeling.
 
@@ -177,9 +154,9 @@ De door de Directie van het Spoorwegpensioenfonds vastgestelde mate van algemene
 
 - b. de in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01), bedoelde belanghebbende, de middelsom bedoeld in artikel F 5 en aangepast overeenkomstig artikel A 8 van de Spoorwegpensioenwet, welke middelsom wordt vermenigvuldigd met:
 
-- 1°. een factor waarvan de teller gelijk is aan 1 en de noemer aan 261 voor de belanghebbende waarbij artikel F 7**a**, derde lid, van die wet is toegepast, of
+   - 1°. een factor waarvan de teller gelijk is aan 1 en de noemer aan 261 voor de belanghebbende waarbij artikel F 7*a*, derde lid, van die wet is toegepast, of
 
-- 2°. een factor waarvan de teller gelijk is aan 1 verhoogd met 10%, danwel met een percentage dat overeenkomt met het maximum, bedoeld in artikel F 5, vierde lid, van die wet, gedeeld door de aangepaste middelsom, en de noemer aan 261 voor de belanghebbende waarbij artikel F 7**a**, derde lid, onderdeel **b**, van die wet is toegepast.
+   - 2°. een factor waarvan de teller gelijk is aan 1 verhoogd met 10%, danwel met een percentage dat overeenkomt met het maximum, bedoeld in artikel F 5, vierde lid, van die wet, gedeeld door de aangepaste middelsom, en de noemer aan 261 voor de belanghebbende waarbij artikel F 7*a*, derde lid, onderdeel *b*, van die wet is toegepast.
 
 - c. de in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01), bedoelde belanghebbende, de berekeningsgrondslag van N.S. waarnaar het loon zoals dat gold voor de oorspronkelijke functie is berekend, aangepast overeenkomstig de bruto-loonontwikkelingen bij de N.S. tot aan het tijdstip van de inwerkingtreding van deze wet, gedeeld door 261;
 
@@ -189,7 +166,7 @@ De door de Directie van het Spoorwegpensioenfonds vastgestelde mate van algemene
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -219,7 +196,7 @@ Voor de toepassing van de [Wet terugdringing beroep op de arbeidsongeschiktheids
 
 ##### Artikel 16
 
-Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=13&z=2015-07-01&g=2015-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=14&z=2015-07-01&g=2015-07-01) wordt volgens door Onze Minister in overleg met Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels, rekening gehouden met de aanpassing van de bruto-lonen van werknemers in dienstbetrekking tot N.S., welke plaatsvindt wegens het verschuldigd worden van premies op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en het niet meer van toepassing zijn van de [Inhoudingswet overheidspersoneel 1982](onbekend).
+Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=13&z=2015-07-01&g=2015-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=14&z=2015-07-01&g=2015-07-01) wordt volgens door Onze Minister in overleg met Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels, rekening gehouden met de aanpassing van de bruto-lonen van werknemers in dienstbetrekking tot N.S., welke plaatsvindt wegens het verschuldigd worden van premies op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en het niet meer van toepassing zijn van de Inhoudingswet overheidspersoneel 1982.
 
 ##### Artikel 17
 
@@ -245,7 +222,7 @@ Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten
 
 ##### Artikel 20
 
-Het bepaalde in de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), en [30, eerste lid, onderdeel **a**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) is niet van toepassing ten aanzien van de belanghebbende, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01).
+Het bepaalde in de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), en [30, eerste lid, onderdeel *a*, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) is niet van toepassing ten aanzien van de belanghebbende, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01).
 
 ##### Artikel 21
 
@@ -257,35 +234,35 @@ Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen ter u
 
 ##### Artikel 23
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 26
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 27
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 28
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 29
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 30
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 31
 
@@ -323,7 +300,7 @@ Vanaf het tijdstip van de inwerkingtreding van deze wet worden handelingen met b
 
 ##### Artikel 34
 
-Pensioenen ten aanzien waarvan op de dag voorafgaand aan de inwerkingtreding van deze wet toepassing is gegeven aan artikel J 1**a** of J 14 van de Algemene burgerlijke pensioenwet, [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=93), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=101), [154 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=154) onderscheidenlijk artikel J 1a, J 2a of M 5 van de Algemene militaire pensioenwet, worden op aanvraag van de belanghebbende herzien met inachtneming van de na het tijdstip van inwerkingtreding van deze wet toepasselijke bepalingen inzake samenloop van pensioenen.
+Pensioenen ten aanzien waarvan op de dag voorafgaand aan de inwerkingtreding van deze wet toepassing is gegeven aan artikel J 1*a* of J 14 van de Algemene burgerlijke pensioenwet, [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=93), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=101), [154 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=154) onderscheidenlijk artikel J 1a, J 2a of M 5 van de Algemene militaire pensioenwet, worden op aanvraag van de belanghebbende herzien met inachtneming van de na het tijdstip van inwerkingtreding van deze wet toepasselijke bepalingen inzake samenloop van pensioenen.
 
 ##### Artikel 35
 
@@ -331,11 +308,11 @@ De heffing van overdrachtsbelasting blijft achterwege, terzake van de overgang v
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 38
 
@@ -350,5 +327,3 @@ De Spoorwegpensioenwet wordt ingetrokken.
 ##### Artikel 40
 
 Deze wet wordt aangehaald als: Wet privatisering Spoorwegpensioenfonds.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

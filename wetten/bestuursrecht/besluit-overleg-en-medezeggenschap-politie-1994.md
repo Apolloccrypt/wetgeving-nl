@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 16 maart 1994, houdende vaststelling van regels over het overleg over politie-ambtenarenzaken en over de medezeggenschap bij de politie"
+citeertitel: "Besluit overleg en medezeggenschap politie 1994"
 identifier: "BWBR0006518"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006518"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "811053"
-version_id: "1175682"
-internal_id: "C1175681"
-label_id: "786224"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006518/2025-04-01/0"
-intitule_bron: "Stb.1994-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-16"
-intitule_status: "goed"
-original_publication: "Stb.1994-216"
-original_signed_date: "1994-03-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBR0006518&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0006518&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit overleg en medezeggenschap politie 1994"
-signed_date: "1994-03-16"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0006518"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 16 maart 1994, houdende vaststelling van regels over het overleg over politie-ambtenarenzaken en over de medezeggenschap bij de politie
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 november 1993, directoraat-generaal voor Openbare Orde en Veiligheid, directie Politie, hoofdafdeling Personeel, Onderwijs en Informatievoorziening, afdeling Arbeidsvoorwaardenbeleid, nummer EA93/U3217;
-
-Gelet op [artikel 50, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=50);
-
-De Raad van State gehoord (advies van 7 februari 1994, nummer WO4.93.0768);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 11 maart 1994, directoraat-generaal voor Openbare Orde en Veiligheid, directie Politie, hoofdafdeling Personeel, Onderwijs en Informatievoorziening, afdeling Arbeidsvoorwaardenbeleid, nummer EA94/U766;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -50,21 +22,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Justitie en Veiligheid;
 
-- b. vervallen;
+- b. *vervallen;*
 
-- c. vervallen;
+- c. *vervallen;*
 
-- d. vervallen;
+- d. *vervallen;*
 
-- e. vervallen;
+- e. *vervallen;*
 
 - f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
 - g. bevoegd gezag:
 
-- 1°. de korpschef, voor zover het betreft de ambtenaar, aangesteld bij een onderdeel, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
+   - 1°. de korpschef, voor zover het betreft de ambtenaar, aangesteld bij een onderdeel, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
 
-- 2°. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche.
+   - 2°. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche.
 
 - h. korpschef: de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
@@ -76,11 +48,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. overleg GOKB: het overleg van de korpschef met de Commissie;
 
-- m. vervallen;
+- m. *vervallen;*
 
 - n. COR: de centrale ondernemingsraad politie;
 
-- o. vervallen;
+- o. *vervallen;*
 
 - p. Pensioenreglement: het Pensioenreglement van de Stichting Pensioenfonds ABP;
 
@@ -90,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Het overleg met verenigingen van ambtenaren
 
-### Afdeling 1. Het overleg met de Commissie
+#### Afdeling 1. Het overleg met de Commissie
 
 ##### Artikel 2
 
@@ -110,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Elke vereniging van ambtenaren, genoemd in het tweede lid, is bevoegd tot aanwijzing van twee leden en twee plaatsvervangende leden van de Commissie. Indien verschillende verenigingen van ambtenaren zijn aangesloten bij dezelfde Centrale, zijn deze verenigingen slechts gezamenlijk bevoegd tot aanwijzing van vertegenwoordigers.
 
-4. Wij behouden Ons voor een toelating tot het overleg krachtens het tweede lid te schorsen en een toelating tot het overleg krachtens het tweede lid, onder **e**, in te trekken, indien naar Ons oordeel de vereniging van ambtenaren niet meer representatief is, dan wel indien het algemeen belang zich tegen haar verdere toelating verzet.
+4. Wij behouden Ons voor een toelating tot het overleg krachtens het tweede lid te schorsen en een toelating tot het overleg krachtens het tweede lid, onder *e*, in te trekken, indien naar Ons oordeel de vereniging van ambtenaren niet meer representatief is, dan wel indien het algemeen belang zich tegen haar verdere toelating verzet.
 
 5. Schorsing onderscheidenlijk intrekking van de toelating van een Centrale tot de Raad voor het Overheidspersoneelsbeleid heeft van rechtswege ten gevolge schorsing onderscheidenlijk intrekking van de toelating tot de Commissie van de bij haar aangesloten vereniging van ambtenaren.
 
@@ -127,6 +99,20 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 1. In het overleg CGOP worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), die moeten worden of zijn vastgelegd in algemeen verbindende voorschriften, besproken.
 
 2. In het overleg GOKB worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), die bij besluit van de korpschef worden vastgelegd in beleidsregels, besproken.
+
+##### Artikel 3b
+
+1. Er is een sectorale commissie Politie.
+
+2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2025-04-01&g=2025-04-01), bedoelde Commissie en vier leden namens Onze Minister.
+
+3. De sectorale commissie heeft tot taak:
+
+- a. advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP over de premie voor het PartnerPlusPensioen Politie;
+
+- b. te besluiten over toelating van werkgevers die een verzoek tot deelname aan het PartnerPlusPensioen Politie doen.
+
+4. Onze Minister stelt in overeenstemming met de Commissie nadere regels met betrekking tot de werkwijze van de sectorale commissie Politie.
 
 ##### Artikel 4
 
@@ -145,6 +131,24 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 7. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2025-04-01&g=2025-04-01) gerechtigd zijn, aan het overleg worden deelgenomen.
 
 8. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
+
+##### Artikel 4a
+
+1. Het overleg GOKB staat onder voorzitterschap van de korpschef of een door hem aan te wijzen lid van de korpsleiding.
+
+2. Indien de Commissie in meerderheid van oordeel is dat over een bepaalde aangelegenheid overleg gevoerd dient te worden met de korpschef, wordt die aangelegenheid zo mogelijk in het eerstvolgende overleg GOKB geagendeerd.
+
+3. De voorzitter wordt bij het overleg GOKB terzijde gestaan door functionarissen die daartoe door hem worden aangewezen.
+
+4. Onze Minister neemt deel aan het overleg GOKB vanuit zijn verantwoordelijkheid voor het overleg CGOP.
+
+5. De COR is als toehoorder bij het overleg GOKB aanwezig en wordt in dat overleg vertegenwoordigd door maximaal twee leden.
+
+6. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
+
+##### Artikel 4b
+
+*Vervallen*
 
 ##### Artikel 5
 
@@ -196,69 +200,105 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 3. De plicht tot geheimhouding geldt niet voor zover de leden van de Commissie dan wel de door haar in de betrokken werkgroep aangewezen leden in bespreking treden met de door hen vertegenwoordigde verenigingen of de Centrales waarbij hun verenigingen zijn aangesloten.
 
-### Afdeling 2. Het overleg met de Regionale Commissie
-
 ##### Artikel 12
 
 De korpschef draagt er zorg voor dat vertegenwoordigers van de verenigingen van ambtenaren met een aanstelling bij de politie die deel uitmaken van de Commissie niet uit hoofde van hun deelname worden benadeeld in hun positie bij de politie.
 
+#### Afdeling 2. Het overleg met de Regionale Commissie
+
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
-### Afdeling 3. Het overleg met de Commissie Korps landelijke politiediensten
+#### Afdeling 3. Het overleg met de Commissie Korps landelijke politiediensten
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
-### Afdeling 4. Het overleg met de Commissie bijzondere ambtenaren van politie
+#### Afdeling 4. Het overleg met de Commissie bijzondere ambtenaren van politie
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
-### Afdeling 4A. Het overleg met de commissie LSOP
+#### Afdeling 4A. Het overleg met de commissie LSOP
 
 ##### Artikel 22a
 
-Vervallen
+*Vervallen*
 
-### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
+##### Artikel 22ab
+
+*Vervallen*
+
+##### Artikel 22ac
+
+*Vervallen*
+
+##### Artikel 22ad
+
+*Vervallen*
+
+##### Artikel 22ae
+
+*Vervallen*
+
+##### Artikel 22af
+
+*Vervallen*
+
+##### Artikel 22ag
+
+*Vervallen*
+
+##### Artikel 22ah
+
+*Vervallen*
+
+##### Artikel 22ai
+
+*Vervallen*
+
+##### Artikel 22aj
+
+*Vervallen*
+
+#### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
 
 ##### Artikel 22b
 
-Vervallen
+*Vervallen*
 
-### Afdeling 5. Advies en arbitrage
+#### Afdeling 5. Advies en arbitrage
 
 ##### Artikel 23
 
@@ -316,21 +356,21 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 - b. personen die bestuurslid zijn van, dan wel werkzaam zijn bij een centrale van verenigingen van ambtenaren, waaronder:
 
-- –. de Algemene Centrale van Overheidspersoneel;
+   - – de Algemene Centrale van Overheidspersoneel;
 
-- –. de Christelijke Centrale van Overheids- en Onderwijspersoneel;
+   - – de Christelijke Centrale van Overheids- en Onderwijspersoneel;
 
-- –. het Ambtenarencentrum;
+   - – het Ambtenarencentrum;
 
-- –. de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs, Bedrijven en Instellingen; alsmede:
+   - – de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs, Bedrijven en Instellingen; alsmede:
 
-- –. andere bij koninklijk besluit tot overleg met de Staat als overheidswerkgever toegelaten centrales van verenigingen van ambtenaren, welke onder meer gelet op het aantal ambtenaren, dat zij vertegenwoordigen, eveneens als representatief kunnen worden aangemerkt en tegen wier toelating het algemeen belang zich niet verzet.
+   - – andere bij koninklijk besluit tot overleg met de Staat als overheidswerkgever toegelaten centrales van verenigingen van ambtenaren, welke onder meer gelet op het aantal ambtenaren, dat zij vertegenwoordigen, eveneens als representatief kunnen worden aangemerkt en tegen wier toelating het algemeen belang zich niet verzet.
 
 - c. personen die werkzaam zijn bij de departementen van algemeen bestuur en de daaronder ressorterende instellingen, diensten en bedrijven, wier onafhankelijkheid en onpartijdigheid op grond van hun dienstverband door de deelnemers aan het overleg onvoldoende wordt geacht. Deze personen zijn eveneens uitgesloten van het lidmaatschap of plaatsvervangend lidmaatschap gedurende de periode van twee jaar na beëindiging van het lidmaatschap, plaatsvervangend lidmaatschap of bestuurslidmaatschap onder a en b bedoeld, alsmede na beëindiging van de werkzaamheden bedoeld onder b en c.
 
 - d. personen die lid of plaatsvervangend lid zijn van de Commissie dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd;
 
-- e. personen van wie het lidmaatschap of plaatsvervangend lidmaatschap van de Commissie LSOP, zoals deze commissie bestond tot 1 januari 2017, nog niet langer dan twee jaar is beëindigd.
+- e. personen van wie het lidmaatschap of plaatsvervangend lidmaatschap van de Commissie LSOP, zoals deze commissie bestond tot 1 januari 2017, nog niet langer dan twee jaar is beëindigd.
 
 6. Aan de leden en bijzondere leden worden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend overeenkomstig de daarover gemaakte afspraken in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
@@ -366,143 +406,147 @@ De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
 ### Hoofdstuk III
 
-### Afdeling 5. Advies en arbitrage
+#### Afdeling 1
 
 #### § 1
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 #### § 2
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 #### § 3
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
-#### § 3
+#### § 4
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2
+#### Afdeling 2
 
 ##### Artikel 61
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Slot- en Overgangsbepalingen
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
-Vervallen
+*Vervallen*
+
+##### Artikel 63a
+
+Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
 
 ##### Artikel 64
 
@@ -515,125 +559,3 @@ Dit besluit treedt in werking met ingang van 1 april 1994.
 ##### Artikel 66
 
 Dit besluit wordt aangehaald als: Besluit overleg en medezeggenschap politie 1994.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 22ab
-
-Vervallen
-
-##### Artikel 22ac
-
-Vervallen
-
-##### Artikel 22ad
-
-Vervallen
-
-##### Artikel 22ae
-
-Vervallen
-
-##### Artikel 22af
-
-Vervallen
-
-##### Artikel 22ag
-
-Vervallen
-
-##### Artikel 22ah
-
-Vervallen
-
-##### Artikel 22ai
-
-Vervallen
-
-##### Artikel 22aj
-
-Vervallen
-
-### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
-
-### Afdeling 5. Advies en arbitrage
-
-### Hoofdstuk III
-
-### Afdeling 1
-
-#### § 1
-
-#### § 2
-
-#### § 4
-
-### Afdeling 2
-
-### Hoofdstuk IV. Slot- en Overgangsbepalingen
-
-##### Artikel 63a
-
-Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 3b
-
-1. Er is een sectorale commissie Politie.
-
-2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2025-04-01&g=2025-04-01), bedoelde Commissie en vier leden namens Onze Minister.
-
-3. De sectorale commissie heeft tot taak:
-
-- a. advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP over de premie voor het PartnerPlusPensioen Politie;
-
-- b. te besluiten over toelating van werkgevers die een verzoek tot deelname aan het PartnerPlusPensioen Politie doen.
-
-4. Onze Minister stelt in overeenstemming met de Commissie nadere regels met betrekking tot de werkwijze van de sectorale commissie Politie.
-
-##### Artikel 4a
-
-1. Het overleg GOKB staat onder voorzitterschap van de korpschef of een door hem aan te wijzen lid van de korpsleiding.
-
-2. Indien de Commissie in meerderheid van oordeel is dat over een bepaalde aangelegenheid overleg gevoerd dient te worden met de korpschef, wordt die aangelegenheid zo mogelijk in het eerstvolgende overleg GOKB geagendeerd.
-
-3. De voorzitter wordt bij het overleg GOKB terzijde gestaan door functionarissen die daartoe door hem worden aangewezen.
-
-4. Onze Minister neemt deel aan het overleg GOKB vanuit zijn verantwoordelijkheid voor het overleg CGOP.
-
-5. De COR is als toehoorder bij het overleg GOKB aanwezig en wordt in dat overleg vertegenwoordigd door maximaal twee leden.
-
-6. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
-
-##### Artikel 4b
-
-Vervallen
-
-### Afdeling 2. Het overleg met de Regionale Commissie
-
-### Afdeling 3. Het overleg met de Commissie Korps landelijke politiediensten
-
-### Afdeling 4. Het overleg met de Commissie bijzondere ambtenaren van politie
-
-### Afdeling 4A. Het overleg met de commissie LSOP
-
-### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
-
-### Hoofdstuk III
-
-### Afdeling 1
-
-#### § 1
-
-#### § 2
-
-#### § 3
-
-#### § 4
-
-### Afdeling 2
-
-### Hoofdstuk IV. Slot- en Overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

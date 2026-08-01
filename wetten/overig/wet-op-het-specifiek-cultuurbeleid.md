@@ -1,44 +1,18 @@
 ---
 title: "Wet van 11 maart 1993, houdende regels betreffende enkele aspecten van het specifiek cultuurbeleid"
+citeertitel: "Wet op het specifiek cultuurbeleid"
 identifier: "BWBR0005904"
-country: "nl"
-rank: "wet"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005904"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1724823"
-version_id: "2549732"
-internal_id: "C2549731"
-label_id: "1677534"
-dtd_version: "2.0"
-original_entry_into_force: "1993-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005904/2016-07-01/0"
-intitule_bron: "Stb.1993-193"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-11"
-intitule_in_force: "1993-04-15"
-intitule_status: "goed"
-original_publication: "Stb.1993-193"
-original_signed_date: "1993-03-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "20987"
-entry_into_force_date: "1993-04-16"
-jci_1_3: "jci1.3:c:BWBR0005904&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0005904&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het specifiek cultuurbeleid"
-signed_date: "1993-03-11"
-entry_into_force: "1993-04-16"
+publicatiedatum: 1993-04-16
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0005904"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 11 maart 1993, houdende regels betreffende enkele aspecten van het specifiek cultuurbeleid
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het verstrekken van specifieke uitkeringen uit 's Rijks kas ten behoeve van cultuuruitingen wettelijk dient te worden geregeld, dat het wenselijk is het cultuurbeleid van het Rijk eenmaal per vier jaar in een nota vast te leggen en het verstrekken van subsidies ten behoeve van cultuuruitingen een grondslag in de wet te geven en voorts dat het wenselijk is de Minister van Welzijn, Volksgezondheid en Cultuur te machtigen tot het oprichten van privaatrechtelijke rechtspersonen die de verbreiding van cultuuruitingen bevorderen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeen
 
@@ -56,6 +30,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=III&artikel=4&z=2016-07-01&g=2016-07-01) zijn niet van toepassing op het verstrekken van subsidies ten behoeve van cultuuruitingen voorzover daarvoor bij of krachtens een andere wet regels zijn gesteld.
 
+##### Artikel 1a
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
 ##### Artikel 2
 
 Onze Minister is belast met het scheppen van voorwaarden voor het in stand houden, ontwikkelen, sociaal en geografisch spreiden of anderszins verbreiden van cultuuruitingen; hij laat zich daarbij leiden door overwegingen van kwaliteit en verscheidenheid.
@@ -70,7 +48,7 @@ Onze Minister is belast met het scheppen van voorwaarden voor het in stand houde
 
 ##### Artikel 2b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2c
 
@@ -80,39 +58,39 @@ Vervallen
 
 ##### Artikel 2d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2l
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. Wijziging hoofdlijnen cultuurbeleid
 
@@ -128,6 +106,32 @@ Vervallen
 
 Onze Minister kan ten behoeve van cultuuruitingen subsidies verstrekken.
 
+##### Artikel 4a
+
+1. Onze Minister stelt bij ministeriële regeling eenmaal per vier jaar regels vast voor de verstrekking van subsidies in de op die periode volgende periode van vier kalenderjaren.
+
+2. De ministeriële regeling bevat in ieder geval:
+
+- a. een omschrijving van de activiteiten die voor subsidie in aanmerking komen;
+
+- b. de criteria die bij de subsidieverlening voor de onder a bedoelde activiteiten gehanteerd worden, en
+
+- c. het financieel kader waarbinnen de subsidieverstrekking geschiedt.
+
+3. De ministeriële regeling heeft betrekking op activiteiten die voor vier jaar voor subsidieverstrekking in aanmerking komen.
+
+4. In afwijking van het derde lid kan Onze Minister in bijzondere gevallen subsidie verstrekken voor minder dan vier jaar.
+
+##### Artikel 4b
+
+*Vervallen*
+
+##### Artikel 4c
+
+1. Onze Minister verstrekt aan een fonds telkens voor een periode van vier kalenderjaren een subsidie.
+
+2. In afwijking van het eerste lid kan Onze Minister voor minder dan vier kalenderjaren subsidie verstrekken, indien zich omstandigheden voordoen die daartoe aanleiding geven.
+
 ##### Artikel 5
 
 1. Onze Minister kan op aanvraag ten behoeve van cultuuruitingen specifieke uitkeringen verstrekken van tenminste € 4 500:
@@ -142,9 +146,9 @@ Onze Minister kan ten behoeve van cultuuruitingen subsidies verstrekken.
 
 - e. ten behoeve van behoud van het cultureel erfgoed.
 
-2. Specifieke uitkeringen als bedoeld in het eerste lid, onder **a**, **b**, **c** en **e**, worden gedurende ten hoogste 4 jaren verstrekt.
+2. Specifieke uitkeringen als bedoeld in het eerste lid, onder *a*, *b*, *c* en *e*, worden gedurende ten hoogste 4 jaren verstrekt.
 
-3. Specifieke uitkeringen als bedoeld in het eerste lid, onder **d**, worden éénmalig verstrekt.
+3. Specifieke uitkeringen als bedoeld in het eerste lid, onder *d*, worden éénmalig verstrekt.
 
 ##### Artikel 6
 
@@ -204,6 +208,10 @@ Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen 
 
 2. Onze Minister gaat tot oprichting of mede-oprichting van een privaatrechtelijke rechtspersoon als bedoeld in het eerste lid niet eerder over dan een maand nadat van het voornemen daartoe, onder overlegging van de concept-statuten, schriftelijk mededeling is gedaan aan beide Kamers van de Staten-Generaal.
 
+##### Artikel 9a
+
+De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op een fonds, met uitzondering van [artikel 22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), voor zover het besluiten betreft die het bestuur van een fonds neemt ter uitvoering van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2016-07-01&g=2016-07-01), bedoelde taak.
+
 ##### Artikel 10
 
 1. Een besluit tot wijziging van de statuten treedt slechts in werking nadat Onze Minister daarmee heeft ingestemd. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
@@ -214,27 +222,27 @@ Onze Minister kan ten behoeve van cultuuruitingen andere specifieke uitkeringen 
 
 4. Het bestuur van een fonds stelt één of meer reglementen vast waarin in ieder geval worden vastgelegd de werkwijze, de procedures en de criteria die het bestuur bij het verstrekken van subsidies hanteert, alsmede de verplichtingen die aan de subsidie-ontvanger worden opgelegd. In deze reglementen kunnen voorts regels worden gesteld met betrekking tot de vaststelling van een subsidieplafond en de wijze van verdeling daarvan, de betaling en terugvordering van de subsidie alsmede de verlening van voorschotten op de subsidie. Onze Minister kan met betrekking tot genoemde onderwerpen het bestuur van een fonds voorschrijven ter zake een reglement te wijzigen. Een besluit tot vaststelling van een reglement of een wijziging daarvan treedt slechts in werking na goedkeuring door Onze Minister. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.
 
-5. Het bestuur van een fonds plaatst de statuten, wijzigingen daarvan, een reglement als bedoeld in het vierde lid, alsmede wijzigingen daarvan zo spoedig mogelijk na goedkeuring door Onze Minister in de **Staatscourant**.
+5. Het bestuur van een fonds plaatst de statuten, wijzigingen daarvan, een reglement als bedoeld in het vierde lid, alsmede wijzigingen daarvan zo spoedig mogelijk na goedkeuring door Onze Minister in de *Staatscourant*.
 
 ##### Artikel 11
 
 Het bestuur van een fonds verstrekt subsidies als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2016-07-01&g=2016-07-01), bij beschikking.
 
-### Hoofdstuk IV. Fondsen
+### Hoofdstuk IVA. Bibliotheekwerk
 
 ##### Artikel 11a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11b
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk IVA. Bibliotheekwerk
+### Hoofdstuk V. Overgangsbepalingen
 
 ##### Artikel 12
 
-1. De fondsen opgericht door Onze Minister op grond van een machtiging krachtens de Fondsenwet scheppende kunsten (**Stb.** 1981, 355), gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2016-07-01&g=2016-07-01) van deze wet.
+1. De fondsen opgericht door Onze Minister op grond van een machtiging krachtens de Fondsenwet scheppende kunsten (*Stb.* 1981, 355), gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2016-07-01&g=2016-07-01) van deze wet.
 
 2. De Stichting Fonds voor de letteren, opgericht bij akte van 28 juli 1965, en de Stichting Productiefonds voor Nederlandse Films, opgericht bij akte van 8 november 1956, gelden als fondsen, opgericht op grond van de machtiging van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2016-07-01&g=2016-07-01) van deze wet.
 
@@ -242,21 +250,21 @@ Vervallen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk V. Overgangsbepalingen
+### Hoofdstuk VI. Slotbepalingen
 
 ##### Artikel 14
 
-De Fondsenwet scheppende kunsten (**Stb.** 1981, 355) wordt ingetrokken.
+De Fondsenwet scheppende kunsten (*Stb.* 1981, 355) wordt ingetrokken.
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 17
 
@@ -265,67 +273,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bi
 ##### Artikel 18
 
 Deze wet kan worden aangehaald als Wet op het specifiek cultuurbeleid.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-1. Onze Minister stelt bij ministeriële regeling eenmaal per vier jaar regels vast voor de verstrekking van subsidies in de op die periode volgende periode van vier kalenderjaren.
-
-2. De ministeriële regeling bevat in ieder geval:
-
-- a. een omschrijving van de activiteiten die voor subsidie in aanmerking komen;
-
-- b. de criteria die bij de subsidieverlening voor de onder a bedoelde activiteiten gehanteerd worden, en
-
-- c. het financieel kader waarbinnen de subsidieverstrekking geschiedt.
-
-3. De ministeriële regeling heeft betrekking op activiteiten die voor vier jaar voor subsidieverstrekking in aanmerking komen.
-
-4. In afwijking van het derde lid kan Onze Minister in bijzondere gevallen subsidie verstrekken voor minder dan vier jaar.
-
-##### Artikel 4b
-
-Vervallen
-
-##### Artikel 4c
-
-1. Onze Minister verstrekt aan een fonds telkens voor een periode van vier kalenderjaren een subsidie.
-
-2. In afwijking van het eerste lid kan Onze Minister voor minder dan vier kalenderjaren subsidie verstrekken, indien zich omstandigheden voordoen die daartoe aanleiding geven.
-
-### Hoofdstuk IV. Fondsen
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-### Hoofdstuk IA. Raad voor cultuur
-
-### Hoofdstuk II. Wijziging hoofdlijnen cultuurbeleid
-
-### Hoofdstuk III. Subsidies ten behoeve van cultuuruitingen
-
-### Hoofdstuk IVA. Bibliotheekwerk
-
-### Hoofdstuk V. Overgangsbepalingen
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op een fonds, met uitzondering van [artikel 22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), voor zover het besluiten betreft die het bestuur van een fonds neemt ter uitvoering van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV&artikel=9&z=2016-07-01&g=2016-07-01), bedoelde taak.
-
-### Hoofdstuk IVA. Bibliotheekwerk
-
-### Hoofdstuk V. Overgangsbepalingen
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

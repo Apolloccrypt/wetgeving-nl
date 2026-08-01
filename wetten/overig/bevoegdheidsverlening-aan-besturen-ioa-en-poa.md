@@ -1,41 +1,17 @@
 ---
-title: "Bevoegdheidsverlening aan besturen I.O.A. en P.O.A"
+title: "Bevoegdheidsverlening aan besturen I.O.A. en P.O.A."
 identifier: "BWBR0006209"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-11-05"
-last_updated: "1993-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006209"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3695363"
-version_id: "5478272"
-internal_id: "C5671361"
-label_id: "3675154"
-dtd_version: "2.0"
-original_entry_into_force: "1993-11-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006209/1993-11-05/0"
-intitule_bron: "Stcrt.1993-211"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-10-28"
-intitule_published: "1993-11-03"
-intitule_in_force: "1993-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-211"
-original_signed_date: "1993-10-28"
-original_published_date: "1993-11-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-11-05"
-jci_1_3: "jci1.3:c:BWBR0006209&z=1993-11-05&g=1993-11-05"
-jci_1_0: "1.0:c:BWBR0006209&g=1993-11-05"
-citeertitel_status: "officieel"
-short_title: "Bevoegdheidsverlening aan besturen I.O.A. en P.O.A."
-signed_date: "1993-10-28"
-entry_into_force: "1993-11-05"
+publicatiedatum: 1993-11-05
+laatste_update: 1993-11-05
+status: geldig
+toestand: 1993-11-05
+bron: "https://wetten.overheid.nl/BWBR0006209"
+opgehaald: 2026-08-01
 ---
-# Bevoegdheidsverlening aan besturen I.O.A. en P.O.A
 
-Besluit:
+# Bevoegdheidsverlening aan besturen I.O.A. en P.O.A.
 
 ##### Artikel 1
 

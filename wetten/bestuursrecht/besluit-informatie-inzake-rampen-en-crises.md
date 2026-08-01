@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 20 juni 1994, houdende nadere regels met betrekking tot de informatieverschaffing en de te verstrekken informatie inzake rampen"
+citeertitel: "Besluit informatie inzake rampen en crises"
 identifier: "BWBR0006755"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006755"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "602003"
-version_id: "876532"
-internal_id: "C876531"
-label_id: "584724"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006755/2024-01-01/0"
-intitule_bron: "Stb.1994-463"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-20"
-intitule_published: "1994-06-28"
-intitule_status: "goed"
-original_publication: "Stb.1994-463"
-original_signed_date: "1994-06-20"
-original_published_date: "1994-06-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-07-01"
-jci_1_3: "jci1.3:c:BWBR0006755&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0006755&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit informatie inzake rampen en crises"
-signed_date: "1994-06-20"
-entry_into_force: "1994-07-01"
+publicatiedatum: 1994-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0006755"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 20 juni 1994, houdende nadere regels met betrekking tot de informatieverschaffing en de te verstrekken informatie inzake rampen
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 23 december 1993, nr. EB93/3035, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer en Rampenbestrijding, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op [richtlijn nr. 82/501/EEG](31982L0501) van de Raad van de Europese Gemeenschappen van 24 juni 1982 inzake de risico's van zware ongevallen bij bepaalde industriële activiteiten (**PbEG** L 230), [richtlijn nr. 89/618](31989L0618)/Euratom van de Raad van de Europese Gemeenschappen van 27 november 1989 betreffende de informatie van de bevolking over de bij stralingsgevaar toepasselijke maatregelen ter bescherming van de gezondheid en over de alsdan te volgen gedragslijn (**PbEG** L 357) en [richtlijn nr. 90/219/EEG](31990L0219) van de Raad van de Europese Gemeenschappen van 23 april 1990 inzake het ingeperkte gebruik van genetisch gemodificeerde micro-organismen (**PbEG** L 117);
-
-Gelet op de [artikelen 2a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=2a), [2c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=2c), [11a vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=11a), en [11b, derde lid, van de Rampenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=11b) en de [artikelen 8.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) , en [8.44, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44);
-
-De Raad van State gehoord (advies van 22 maart 1994, nr. W04.94.0023);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 6 juni 1994, nr. EB 94/1029, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer en Rampenbestrijding, uitgebracht in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Begripsomschrijvingen en toepassingsgebied
 
@@ -58,9 +26,9 @@ Hebben goedgevonden en verstaan:
 
 - c. gevaarlijke micro-organismen: niet genetisch gemodificeerde cellulaire en niet-cellulaire micro-biologische entiteiten met het vermogen tot vermenigvuldiging of tot overbrenging van genetisch materiaal, daaronder mede begrepen virussen en viroïden, die:
 
-- 1°. voor wat betreft humane pathogenen worden ingedeeld in categorie 3 of 4 als bedoeld in [artikel 4.84, derde lid, onder c en d, en vierde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.84), en
+   - 1°. voor wat betreft humane pathogenen worden ingedeeld in categorie 3 of 4 als bedoeld in [artikel 4.84, derde lid, onder c en d, en vierde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.84), en
 
-- 2°. voor wat betreft dier- en plantpathogenen een ernstige ziekte kunnen veroorzaken, en waarbij het waarschijnlijk is dat deze organismen zich in het milieu verspreiden, of die een toxine produceren met een LD50 voor vertebraten van minder dan 100 microgram per kilogram lichaamsgewicht.
+   - 2°. voor wat betreft dier- en plantpathogenen een ernstige ziekte kunnen veroorzaken, en waarbij het waarschijnlijk is dat deze organismen zich in het milieu verspreiden, of die een toxine produceren met een LD50 voor vertebraten van minder dan 100 microgram per kilogram lichaamsgewicht.
 
 - d. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.1);
 
@@ -190,15 +158,35 @@ Dit geldt niet voor zover deze informatie reeds op grond van andere voorschrifte
 
 #### § 2. Verschaffing van informatie door het bestuur van de veiligheidsregio over mogelijke rampen in Seveso-inrichtingen
 
+##### Artikel 5a
+
+De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een Seveso-inrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), in ieder geval:
+
+- a. de naam of de handelsnaam van de exploitant en het volledige adres van de betreffende inrichting;
+
+- b. een bevestiging dat [paragraaf 4.2 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.2) en dit besluit op de inrichting van toepassing zijn, alsmede een bevestiging dat voldaan is aan de verplichtingen, bedoeld in:
+
+   - 1°. [artikel 4.5 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.5) tot het verstrekken van gegevens en bescheiden; en
+
+   - 2°. [artikel 4.20 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.20) tot het verstrekken van een veiligheidsrapport, als het gaat om een hogedrempelinrichting;
+
+- c. een aanduiding van het bestuursorgaan dat bevoegd is of zou zijn een omgevingsvergunning voor de inrichting te verlenen;
+
+- d. een aanduiding van de in [artikel 50, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=50) bedoelde verplichting om een ramp in een inrichting onmiddellijk aan de burgemeester te melden;
+
+- e. een begrijpelijke toelichting op de activiteit of activiteiten van de inrichting;
+
+- f. de algemene naam of, in geval van gevaarlijke stoffen uit de categorieën, bedoeld in deel I, bijlage I bij Richtlijn 2012/18/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, houdende wijziging en vervolgens intrekking van Richtlijn 96/82/EG van de Raad (PbEU 2012, L 197), de algemene naam, onderscheidenlijk, de gevarenklasse van de relevante gevaarlijke stoffen in de inrichting die een zwaar ongeval kunnen veroorzaken, onder vermelding van de belangrijkste gevaarlijke eigenschappen in eenvoudige bewoordingen.
+
 ##### Artikel 6
 
 De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een hogedrempelinrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), in ieder geval:
 
 - a. een bevestiging dat:
 
-- 1°. voldaan is aan [artikel 4.22 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.22) over het opstellen en invoeren van een intern noodplan; en
+   - 1°. voldaan is aan [artikel 4.22 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.22) over het opstellen en invoeren van een intern noodplan; en
 
-- 2°. degene die de hogedrempelinrichting exploiteert, gehouden is de nodige afspraken te maken met hulpdiensten om zware ongevallen het hoofd te bieden en de gevolgen daarvan tot een minimum te beperken;
+   - 2°. degene die de hogedrempelinrichting exploiteert, gehouden is de nodige afspraken te maken met hulpdiensten om zware ongevallen het hoofd te bieden en de gevolgen daarvan tot een minimum te beperken;
 
 - b. algemene gegevens inzake de aard van rampen en zware ongevallen, waaronder de mogelijke gevolgen voor de menselijke gezondheid en het milieu en beknopte gegevens van de voornaamste soorten scenario’s voor rampen en zware ongevallen en de bestrijdingsmaatregelen;
 
@@ -208,7 +196,27 @@ De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan 
 
 - e. specifiek op de rampenbestrijding gerichte informatie die is gebaseerd op gegevens die zijn ontleend aan het veiligheidsrapport, bedoeld in [artikel 4.14 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.14).
 
-#### § 2a. Verschaffen van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een afvalvoorziening categorie A
+#### § 2a. Verschaffen van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een winningsafvalvoorziening categorie A
+
+##### Artikel 6a
+
+De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een winningsafvalvoorziening categorie A als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), in ieder geval:
+
+- a. een bevestiging dat:
+
+   - 1°. een intern noodplan als bedoeld in [artikel 8.70 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.70) is opgesteld en ingevoerd;
+
+   - 2°. degene die de winningsafvalvoorziening categorie A exploiteert, gehouden is de nodige afspraken te maken met hulpdiensten om zware ongevallen het hoofd te bieden en de gevolgen daarvan tot een minimum te beperken;
+
+- b. algemene gegevens inzake de aard van rampen en zware ongevallen, waaronder de mogelijke gevolgen voor de menselijke gezondheid en het milieu en beknopte gegevens van de voornaamste soorten scenario’s voor rampen en zware ongevallen en de bestrijdingsmaatregelen;
+
+- c. passende gegevens uit het rampbestrijdingsplan dat opgesteld is om te kunnen omgaan met eventuele effecten die een ramp of zwaar ongeval buiten de locatie waarop de winningsafvalvoorziening categorie A wordt geëxploiteerd, kan hebben, waaronder het advies om ten tijde van een ramp of zwaar ongeval gehoor te geven aan de instructies of verzoeken van de hulpdiensten;
+
+- d. een indicatie, waar van toepassing, dat de winningsafvalvoorziening categorie A zich nabij het grondgebied van een andere lidstaat bevindt, waardoor een zwaar ongeval grensoverschrijdende gevolgen kan hebben, krachtens het Verdrag van de Economische Commissie voor Europa van de Verenigde Naties inzake grensoverschrijdende gevolgen van industriële rampen en zware ongevallen;
+
+- e. specifiek op de rampenbestrijding gerichte informatie die is gebaseerd op gegevens die zijn ontleend aan het winningsafvalbeheersplan, bedoeld in artikel 5 van Richtlijn 2006/21/EG van het Europees Parlement en de Raad van 15 maart 2006 betreffende het beheer van afval van de winningsindustrieën en houdende wijziging van Richtlijn nr. 2004/35/EG (PbEU 2006, L 102).
+
+#### § 3. Verschaffen van informatie door burgemeester en wethouders over een mogelijke ramp met stralingsgevaar
 
 ##### Artikel 7
 
@@ -222,7 +230,7 @@ De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan 
 
 Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoeld in de [artikelen 5, eerste lid, onderdelen b, c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=5a&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2a&artikel=6a&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), permanent toegankelijk is voor het publiek, onder meer elektronisch.
 
-#### § 3. Verschaffen van informatie door burgemeester en wethouders over een mogelijke ramp met stralingsgevaar
+#### § 4. Frequentie van de verschaffing van informatie over alle typen van mogelijke rampen en crises
 
 ##### Artikel 9
 
@@ -236,7 +244,7 @@ Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoe
 
 5. Het bestuur van de veiligheidsregio verschaft de informatie, bedoeld in het derde en vierde lid, eerder en werkt deze eerder bij, indien naar zijn oordeel ontwikkelingen in de kennis over de veiligheid en over de beoordeling van risico’s en over een doelmatige rampenbestrijding hiertoe nopen.
 
-#### § 4. Frequentie van de verschaffing van informatie over alle typen van mogelijke rampen en crises
+#### § 5. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een dreigende ramp of crisis
 
 ##### Artikel 10
 
@@ -250,7 +258,7 @@ Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoe
 
 2. Indien daartoe voldoende tijd beschikbaar is, worden de informatie en instructies, bedoeld in het eerste lid, aangevuld met een herhaling van de basiskennis over de aard van het dreigende gevaar en de gevolgen daarvan voor de bevolking of het milieu.
 
-#### § 5. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een dreigende ramp of crisis
+#### § 6. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een ramp of crisis
 
 ##### Artikel 11
 
@@ -262,27 +270,27 @@ Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoe
 
 - c. een beschrijving van de maatregelen die de bevolking dient te treffen om de schadelijke gevolgen van de ramp of crisis zoveel mogelijk te beperken, en de te volgen gedragslijn, waarbij de maatregelen onder meer betrekking kunnen hebben op de volgende aspecten:
 
-- 1°. beperken van het gebruik van bepaalde levensmiddelen die besmet kunnen zijn;
+   - 1°. beperken van het gebruik van bepaalde levensmiddelen die besmet kunnen zijn;
 
-- 2°. eenvoudige hygiëne- en ontsmettingsregels;
+   - 2°. eenvoudige hygiëne- en ontsmettingsregels;
 
-- 3°. binnenshuis blijven;
+   - 3°. binnenshuis blijven;
 
-- 4°. distributie en gebruik van beschermende stoffen;
+   - 4°. distributie en gebruik van beschermende stoffen;
 
-- 5°. evacuatie;
+   - 5°. evacuatie;
 
 - d. speciale instructies voor bepaalde bevolkingsgroepen.
 
 2. De informatie, bedoeld in het eerste lid, wordt zo spoedig mogelijk en bij herhaling verschaft.
 
-#### § 6. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een ramp of crisis
+#### Paragraaf 7. Verschaffing van informatie over een in het buitenland gelegen hogedrempelinrichting
 
 ##### Artikel 11a
 
 De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking heeft op een calamiteit in een hogedrempelinrichting die in een andere staat is gelegen, welke calamiteit tot een ramp in Nederland kan leiden, voor zover mogelijk toegepast.
 
-### Hoofdstuk IV. Verschaffing van informatie aan bij de rampenbestrijding betrokken personen
+### Hoofdstuk IV. Verschaffing van informatie aan bij de rampenbestrijding of crisisbeheersing betrokken personen
 
 ##### Artikel 12
 
@@ -296,9 +304,9 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 5. Indien daartoe voldoende tijd beschikbaar is, wordt de informatie die ten tijde van een ramp of crisis wordt verschaft, aangevuld met een herhaling van de basiskennis over de aard van het dreigende gevaar en de gevolgen daarvan voor de bevolking of het milieu.
 
-### Hoofdstuk IV. Verschaffing van informatie aan bij de rampenbestrijding of crisisbeheersing betrokken personen
+### Hoofdstuk V. Verschaffing van informatie aan onze minister en aan een andere staat
 
-#### § 1. Verschaffing van informatie door burgemeester en wethouders over een mogelijke ramp in een inrichting, tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar
+#### § 1. Verschaffing van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een hogedrempelinrichting, tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar
 
 ##### Artikel 13
 
@@ -310,7 +318,7 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 4. Onze Minister verstrekt de hem door het bestuur van de veiligheidsregio overeenkomstig het eerste, tweede en derde lid verschafte informatie na overleg met Onze Minister van Infrastructuur en Milieu aan de betrokken staat, voor zover de bevolking of het milieu van die andere staat kan worden getroffen.
 
-#### § 1. Verschaffing van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een inrichting, tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar
+#### § 2. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een ramp of crisis of een dreiging daarvan
 
 ##### Artikel 14
 
@@ -324,13 +332,17 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VI. Afstemming
+### Hoofdstuk VII. Overgangs- en slotbepalingen
 
 ##### Artikel 16
 
 Handelen in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) en [4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), is een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a).
+
+##### Artikel 16a
+
+Dit besluit berust mede op de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=7), [46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=46), [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=47), [48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=48), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=49), en [50, derde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=50).
 
 ##### Artikel 17
 
@@ -339,85 +351,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit informatie inzake rampen en crises.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 6a
-
-De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een winningsafvalvoorziening categorie A als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), in ieder geval:
-
-- a. een bevestiging dat:
-
-- 1°. een intern noodplan als bedoeld in [artikel 8.70 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.70) is opgesteld en ingevoerd;
-
-- 2°. degene die de winningsafvalvoorziening categorie A exploiteert, gehouden is de nodige afspraken te maken met hulpdiensten om zware ongevallen het hoofd te bieden en de gevolgen daarvan tot een minimum te beperken;
-
-- b. algemene gegevens inzake de aard van rampen en zware ongevallen, waaronder de mogelijke gevolgen voor de menselijke gezondheid en het milieu en beknopte gegevens van de voornaamste soorten scenario’s voor rampen en zware ongevallen en de bestrijdingsmaatregelen;
-
-- c. passende gegevens uit het rampbestrijdingsplan dat opgesteld is om te kunnen omgaan met eventuele effecten die een ramp of zwaar ongeval buiten de locatie waarop de winningsafvalvoorziening categorie A wordt geëxploiteerd, kan hebben, waaronder het advies om ten tijde van een ramp of zwaar ongeval gehoor te geven aan de instructies of verzoeken van de hulpdiensten;
-
-- d. een indicatie, waar van toepassing, dat de winningsafvalvoorziening categorie A zich nabij het grondgebied van een andere lidstaat bevindt, waardoor een zwaar ongeval grensoverschrijdende gevolgen kan hebben, krachtens het Verdrag van de Economische Commissie voor Europa van de Verenigde Naties inzake grensoverschrijdende gevolgen van industriële rampen en zware ongevallen;
-
-- e. specifiek op de rampenbestrijding gerichte informatie die is gebaseerd op gegevens die zijn ontleend aan het winningsafvalbeheersplan, bedoeld in artikel 5 van [Richtlijn 2006/21/EG](32006L0021) van het Europees Parlement en de Raad van 15 maart 2006 betreffende het beheer van afval van de winningsindustrieën en houdende wijziging van [Richtlijn nr. 2004/35/EG](32004L0035) (PbEU 2006, L 102).
-
-#### § 3. Verschaffen van informatie door burgemeester en wethouders over een mogelijke ramp met stralingsgevaar
-
-#### Paragraaf 7. Verschaffing van informatie over een in het buitenland gelegen inrichting
-
-### Hoofdstuk V. Verschaffing van informatie aan onze minister en aan een andere staat
-
-#### § 2. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een ramp of crisis of een dreiging daarvan
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 16a
-
-Dit besluit berust mede op de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=7), [46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=46), [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=47), [48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=48), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=49), en [50, derde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=50).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 5a
-
-De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een Seveso-inrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), in ieder geval:
-
-- a. de naam of de handelsnaam van de exploitant en het volledige adres van de betreffende inrichting;
-
-- b. een bevestiging dat [paragraaf 4.2 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.2) en dit besluit op de inrichting van toepassing zijn, alsmede een bevestiging dat voldaan is aan de verplichtingen, bedoeld in:
-
-- 1°. [artikel 4.5 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.5) tot het verstrekken van gegevens en bescheiden; en
-
-- 2°. [artikel 4.20 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.20) tot het verstrekken van een veiligheidsrapport, als het gaat om een hogedrempelinrichting;
-
-- c. een aanduiding van het bestuursorgaan dat bevoegd is of zou zijn een omgevingsvergunning voor de inrichting te verlenen;
-
-- d. een aanduiding van de in [artikel 50, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=50) bedoelde verplichting om een ramp in een inrichting onmiddellijk aan de burgemeester te melden;
-
-- e. een begrijpelijke toelichting op de activiteit of activiteiten van de inrichting;
-
-- f. de algemene naam of, in geval van gevaarlijke stoffen uit de categorieën, bedoeld in deel I, bijlage I bij Richtlijn 2012/18/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, houdende wijziging en vervolgens intrekking van Richtlijn 96/82/EG van de Raad (PbEU 2012, L 197), de algemene naam, onderscheidenlijk, de gevarenklasse van de relevante gevaarlijke stoffen in de inrichting die een zwaar ongeval kunnen veroorzaken, onder vermelding van de belangrijkste gevaarlijke eigenschappen in eenvoudige bewoordingen.
-
-#### § 2a. Verschaffen van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een winningsafvalvoorziening categorie A
-
-#### § 4. Frequentie van de verschaffing van informatie over alle typen van mogelijke rampen en crises
-
-#### § 5. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een dreigende ramp of crisis
-
-#### § 6. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een ramp of crisis
-
-#### Paragraaf 7. Verschaffing van informatie over een in het buitenland gelegen hogedrempelinrichting
-
-### Hoofdstuk IV. Verschaffing van informatie aan bij de rampenbestrijding of crisisbeheersing betrokken personen
-
-### Hoofdstuk V. Verschaffing van informatie aan onze minister en aan een andere staat
-
-#### § 1. Verschaffing van informatie door het bestuur van de veiligheidsregio over een mogelijke ramp in een hogedrempelinrichting, tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar
-
-#### § 2. Verschaffing van informatie door de burgemeester of de voorzitter van de veiligheidsregio ten tijde van een ramp of crisis of een dreiging daarvan
-
-### Hoofdstuk VI. Afstemming
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

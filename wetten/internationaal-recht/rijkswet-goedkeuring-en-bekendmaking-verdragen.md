@@ -1,22 +1,20 @@
 ---
-title: "Rijkswet goedkeuring en bekendmaking verdragen"
+title: "Rijkswet van 7 juli 1994, houdende regeling betreffende de goedkeuring en bekendmaking van verdragen en de bekendmaking van besluiten van volkenrechtelijke organisaties"
+citeertitel: "Rijkswet goedkeuring en bekendmaking verdragen"
 identifier: "BWBR0006799"
 categorie: "Internationaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
+soort: "rijkswet"
+publicatiedatum: 2008-11-27
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0006799"
+opgehaald: 2026-08-01
 ---
 
 # Rijkswet van 7 juli 1994, houdende regeling betreffende de goedkeuring en bekendmaking van verdragen en de bekendmaking van besluiten van volkenrechtelijke organisaties
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat, ingevolge [artikel 91, eerste en tweede lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=91), de wet dient te bepalen de gevallen waarin geen goedkeuring van verdragen of van het voornemen tot opzegging daarvan is vereist en de wijze waarop de goedkeuring wordt verleend, en dat het voorts wenselijk is de in [artikel 95 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=95) bedoelde wettelijke regeling inzake de bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties aan te passen, onder meer vanwege wijzigingen die hebben plaatsgevonden in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en in het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-#### Artikel 1
+##### Artikel 1
 
 1. Onze Minister van Buitenlandse Zaken verstrekt periodiek aan de Staten-Generaal en aan de Staten van Aruba, Curaçao en Sint Maarten een lijst van ontwerp-verdragen over de totstandkoming waarvan voor het Koninkrijk onderhandeld wordt.
 
@@ -34,7 +32,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 4. In het in het derde lid bedoelde geval kan in het eerste en tweede lid bedoelde informatie vertrouwelijk worden verstrekt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Verdragen ten aanzien waarvan de regering het wenselijk acht dat het Koninkrijk daaraan wordt gebonden, worden zo spoedig mogelijk ter goedkeuring aan de Staten-Generaal voorgelegd.
 
@@ -42,15 +40,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. Tegelijk met de voorlegging, bedoeld in het eerste lid, worden verdragen aan de Staten van Aruba, Curaçao en Sint Maarten overgelegd, indien het verdragen betreft die Aruba, Curaçao of Sint Maarten raken.
 
-#### Artikel 3
+##### Artikel 3
 
 De goedkeuring wordt uitdrukkelijk of stilzwijgend verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 De uitdrukkelijke goedkeuring wordt verleend bij wet.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De stilzwijgende goedkeuring is verleend, indien niet binnen dertig dagen na een daartoe strekkende overlegging van een verdrag aan de Staten-Generaal door of namens een van de kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de kamers de wens te kennen wordt gegeven, dat het verdrag aan de uitdrukkelijke goedkeuring zal worden onderworpen.
 
@@ -58,61 +56,61 @@ De uitdrukkelijke goedkeuring wordt verleend bij wet.
 
 3. Indien de in het eerste of tweede lid bedoelde wens te kennen wordt gegeven, wordt zo spoedig mogelijk een voorstel van wet tot goedkeuring ingediend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een verdrag bepalingen bevat welke afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of tot zodanig afwijken noodzaken, wordt dit verdrag aan de uitdrukkelijke goedkeuring onderworpen.
 
 2. In het voorstel van wet tot goedkeuring van een zodanig verdrag wordt tot uitdrukking gebracht dat de goedkeuring wordt verleend met inachtneming van het bepaalde in [artikel 91, derde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=91).
 
-#### Artikel 7
+##### Artikel 7
 
 Tenzij een verdrag bepalingen bevat welke afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of tot zodanig afwijken noodzaken, is de goedkeuring niet vereist:
 
 - a. indien het een verdrag betreft, waarvoor dit bij wet is bepaald;
 
-- b. indien het verdrag uitsluitend betreft de uitvoering van een goedgekeurd verdrag, behoudens het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=8&z=2023-01-01&g=2023-01-01);
+- b. indien het verdrag uitsluitend betreft de uitvoering van een goedgekeurd verdrag, behoudens het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=8&z=2026-07-01&g=2026-07-01);
 
 - c. indien het verdrag geen belangrijke geldelijke verplichtingen aan het Koninkrijk oplegt en voor ten hoogste een jaar is gesloten;
 
 - d. indien in buitengewone gevallen van dwingende aard het belang van het Koninkrijk het bepaald noodzakelijk maakt dat het verdrag een geheim of vertrouwelijk karakter draagt;
 
-- e. indien het verdrag betreft de verlenging van een aflopend verdrag, behoudens het bepaalde in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=9&z=2023-01-01&g=2023-01-01);
+- e. indien het verdrag betreft de verlenging van een aflopend verdrag, behoudens het bepaalde in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=9&z=2026-07-01&g=2026-07-01);
 
 - f. indien het verdrag betreft wijziging van een integrerend onderdeel van een goedgekeurd verdrag vormende bijlage waarvan de inhoud van uitvoerende aard is ten opzichte van de bepalingen van het verdrag waar de bijlage onderdeel van vormt, voor zover in de wet tot goedkeuring geen voorbehoud terzake is gemaakt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Wanneer de regering het voornemen heeft om over te gaan tot de sluiting van een verdrag uitsluitend betreffende de uitvoering van een goedgekeurd verdrag, deelt zij dit voornemen schriftelijk mee aan de Staten-Generaal en, indien het uitvoeringsverdrag voor Aruba, Curaçao of Sint Maarten zal gelden, aan de Staten van Aruba, Curaçao en Sint Maarten.
 
-2. Indien binnen dertig dagen na de in het eerste lid bedoelde mededeling door of namens een van de kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een van de kamers, of door de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, de wens te kennen wordt gegeven dat het uitvoeringsverdrag aan de goedkeuring van de Staten-Generaal zal worden onderworpen, is in afwijking van het bepaalde in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2023-01-01&g=2023-01-01), de goedkeuring van de Staten-Generaal vereist.
+2. Indien binnen dertig dagen na de in het eerste lid bedoelde mededeling door of namens een van de kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een van de kamers, of door de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, de wens te kennen wordt gegeven dat het uitvoeringsverdrag aan de goedkeuring van de Staten-Generaal zal worden onderworpen, is in afwijking van het bepaalde in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2026-07-01&g=2026-07-01), de goedkeuring van de Staten-Generaal vereist.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Wanneer de regering het voornemen heeft om over te gaan tot verlenging van een aflopend verdrag deelt zij dit voornemen schriftelijk mee aan de Staten-Generaal en, indien het verdrag voor Aruba, Curaçao of Sint Maarten geldt, aan de Staten van Aruba, Curaçao of Sint Maarten.
 
-2. Indien binnen dertig dagen na de in het eerste lid bedoelde mededeling door of namens een van de kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de kamers, of door de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, de wens te kennen wordt gegeven dat het verdrag tot verlenging aan de goedkeuring van de Staten-Generaal zal worden onderworpen, is in afwijking van het bepaalde in [artikel 7, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2023-01-01&g=2023-01-01), de goedkeuring van de Staten-Generaal vereist.
+2. Indien binnen dertig dagen na de in het eerste lid bedoelde mededeling door of namens een van de kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de kamers, of door de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, de wens te kennen wordt gegeven dat het verdrag tot verlenging aan de goedkeuring van de Staten-Generaal zal worden onderworpen, is in afwijking van het bepaalde in [artikel 7, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2026-07-01&g=2026-07-01), de goedkeuring van de Staten-Generaal vereist.
 
 3. Wanneer de regering het voornemen heeft een aflopend verdrag niet te verlengen terwijl één of meer van de overige verdragspartijen dat verdrag wel wenst te verlengen, deelt zij dit voornemen schriftelijk mee aan de Staten-Generaal en, indien het verdrag voor Aruba, Curaçao of Sint Maarten geldt, aan de Staten van Aruba, Curaçao of Sint Maarten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Tenzij een verdrag bepalingen bevat welke afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), of tot zodanig afwijken noodzaken, kan, indien in buitengewone gevallen van dringende aard het belang van het Koninkrijk zich er bepaaldelijk tegen verzet dat een verdrag aan de goedkeuring van de Staten-Generaal wordt onderworpen voordat het Koninkrijk aan dat verdrag wordt gebonden, de binding direct tot stand worden gebracht. Het verdrag wordt daarna zo spoedig mogelijk aan de goedkeuring van de Staten-Generaal onderworpen.
 
 2. Een zodanig verdrag wordt aangegaan onder voorbehoud van beëindiging voor het Koninkrijk bij onthouding van de goedkeuring.
 
-#### Artikel 11
+##### Artikel 11
 
-1. Indien op grond van [artikel 7, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2023-01-01&g=2023-01-01), het Koninkrijk zonder goedkeuring van de Staten-Generaal aan een verdrag is gebonden, wordt een zodanig verdrag alsnog zo spoedig mogelijk aan de goedkeuring van de Staten-Generaal onderworpen wanneer het geheim of vertrouwelijk karakter daarvan is komen te vervallen.
+1. Indien op grond van [artikel 7, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2026-07-01&g=2026-07-01), het Koninkrijk zonder goedkeuring van de Staten-Generaal aan een verdrag is gebonden, wordt een zodanig verdrag alsnog zo spoedig mogelijk aan de goedkeuring van de Staten-Generaal onderworpen wanneer het geheim of vertrouwelijk karakter daarvan is komen te vervallen.
 
 2. Een zodanig verdrag wordt slechts aangegaan wanneer daarin is voorzien in een mogelijkheid tot beëindiging voor het Koninkrijk op een redelijke termijn, tenzij het belang van het Koninkrijk zich daartegen bepaaldelijk verzet.
 
-#### Artikel 12
+##### Artikel 12
 
-Indien in de gevallen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=10&z=2023-01-01&g=2023-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=11&z=2023-01-01&g=2023-01-01), de goedkeuring aan het verdrag wordt onthouden, wordt het verdrag zo spoedig als dat rechtens mogelijk is, beëindigd.
+Indien in de gevallen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=10&z=2026-07-01&g=2026-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=11&z=2026-07-01&g=2026-07-01), de goedkeuring aan het verdrag wordt onthouden, wordt het verdrag zo spoedig als dat rechtens mogelijk is, beëindigd.
 
-#### Artikel 13
+##### Artikel 13
 
-1. Verdragen die op grond van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2023-01-01&g=2023-01-01) geen goedkeuring behoeven en waaraan het Koninkrijk is gebonden, en verdragen waaraan het Koninkrijk op grond van het bepaalde in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=10&z=2023-01-01&g=2023-01-01), is gebonden voordat deze aan de goedkeuring van de Staten-Generaal zijn onderworpen, worden zo spoedig mogelijk aan de Staten-Generaal ter kennis gebracht.
+1. Verdragen die op grond van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2026-07-01&g=2026-07-01) geen goedkeuring behoeven en waaraan het Koninkrijk is gebonden, en verdragen waaraan het Koninkrijk op grond van het bepaalde in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=10&z=2026-07-01&g=2026-07-01), is gebonden voordat deze aan de goedkeuring van de Staten-Generaal zijn onderworpen, worden zo spoedig mogelijk aan de Staten-Generaal ter kennis gebracht.
 
 2. Gelijktijdig daarmee worden zij aan de Staten van Aruba, Curaçao of Sint Maarten ter kennis gebracht, indien het verdragen betreft die Aruba, Curaçao of Sint Maarten raken.
 
@@ -120,13 +118,13 @@ Indien in de gevallen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/j
 
 4. Indien een verdrag door de Staten-Generaal is goedgekeurd en de regering besluit niet over te gaan tot binding van het Koninkrijk aan dat verdrag, stelt de regering de Staten-Generaal direct daarvan in kennis; gelijktijdig daarmee stelt zij de Staten van Aruba, Curaçao of Sint Maarten, daarvan in kennis, indien het een verdrag betreft dat Aruba, Curaçao of Sint Maarten, raakt.
 
-#### Artikel 14
+##### Artikel 14
 
-1. Ten aanzien van voornemens tot opzegging van verdragen vinden de bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=4&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=6&z=2023-01-01&g=2023-01-01), [7, onder **a** en **b**, 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2023-01-01&g=2023-01-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=13&z=2023-01-01&g=2023-01-01), overeenkomstige toepassing.
+1. Ten aanzien van voornemens tot opzegging van verdragen vinden de bepalingen van de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=2&z=2026-07-01&g=2026-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=3&z=2026-07-01&g=2026-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=4&z=2026-07-01&g=2026-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=5&z=2026-07-01&g=2026-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=6&z=2026-07-01&g=2026-07-01), [7, onder *a* en *b*, 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=7&z=2026-07-01&g=2026-07-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=13&z=2026-07-01&g=2026-07-01), overeenkomstige toepassing.
 
-2. Indien krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=10&z=2023-01-01&g=2023-01-01), een verdrag zonder voorafgaande goedkeuring van de Staten-Generaal is opgezegd en de Staten-Generaal vervolgens de goedkeuring aan de opzegging onthouden, wordt de opzegging, of het gevolg daarvan, zo spoedig als zulks rechtens mogelijk is ongedaan gemaakt.
+2. Indien krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=10&z=2026-07-01&g=2026-07-01), een verdrag zonder voorafgaande goedkeuring van de Staten-Generaal is opgezegd en de Staten-Generaal vervolgens de goedkeuring aan de opzegging onthouden, wordt de opzegging, of het gevolg daarvan, zo spoedig als zulks rechtens mogelijk is ongedaan gemaakt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Behoudens in het geval dat het gaat om een verdrag dat bepalingen bevat welke afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) dan wel tot zodanig afwijken noodzaken, kan, indien het belang van het Koninkrijk het vordert, de regering bewerkstelligen dat een verdrag voor het Koninkrijk voorlopig wordt toegepast voorafgaande aan de inwerkingtreding van dat verdrag.
 
@@ -138,23 +136,41 @@ Indien in de gevallen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/j
 
 Gelijktijdig daarmee wordt zulks ook medegedeeld aan de Staten van Aruba, Curaçao of Sint Maarten, indien het een verdrag betreft dat Aruba, Curaçao of Sint Maarten raakt.
 
-#### Artikel 16
+##### Artikel 16
 
-1. De bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties geschiedt in het Tractatenblad van het Koninkrijk der Nederlanden.
+1. De bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties geschiedt in het Tractatenblad van het Koninkrijk der Nederlanden en in de Verdragenbank.
 
-2. Onze minister van Buitenlandse Zaken geeft het Tractatenblad uit.
+2. Onze Minister van Buitenlandse Zaken geeft het Tractatenblad elektronisch uit op een algemeen toegankelijke wijze. Na de uitgifte blijft het Tractatenblad elektronisch op een algemeen toegankelijke wijze beschikbaar.
 
-3. De uitgifte van het Tractatenblad geschiedt elektronisch op een algemeen toegankelijke wijze.
+3. De Verdragenbank is een elektronisch medium dat gegevens bevat van de verdragen waarbij het Koninkrijk der Nederlanden partij is. Onze Minister van Buitenlandse Zaken beheert de Verdragenbank en zorgt ervoor dat deze op een algemeen toegankelijke wijze beschikbaar blijft.
 
-4. Na de uitgifte blijft het Tractatenblad elektronisch op een algemeen toegankelijke wijze beschikbaar.
+4. Voor het inzien van het Tractatenblad en de Verdragenbank worden geen kosten in rekening gebracht.
 
-5. Voor het inzien van het Tractatenblad worden geen kosten in rekening gebracht.
+5. Bij ministeriële regeling worden nadere regels gesteld omtrent de uitgifte van het Tractatenblad en het beschikbaar blijven van het Tractatenblad en de Verdragenbank.
 
-6. Bij ministeriële regeling worden nadere regels gesteld omtrent de uitgifte en het beschikbaar blijven van het Tractatenblad.
+##### Artikel 16a
 
-#### Artikel 17
+1. Indien elektronische uitgifte van het Tractatenblad op de in [artikel 16, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16&z=2026-07-01&g=2026-07-01), voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze minister van Buitenlandse Zaken in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
 
-In het **Tractatenblad** worden geplaatst:
+2. Als elektronische bekendmaking in de Verdragenbank in de op [artikel 16, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16&z=2026-07-01&g=2026-07-01), voorziene wijze geheel of gedeeltelijk onmogelijk is, volstaat publicatie in het Tractatenblad op de in artikel 16a, eerste lid, voorziene wijze.
+
+##### Artikel 16b
+
+1. Aan een ieder wordt op verzoek een papieren afschrift van het Tractatenblad verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.
+
+2. Onze minister van Buitenlandse Zaken wijst een uitgiftepunt aan waar het afschrift verkregen kan worden.
+
+##### Artikel 16c
+
+1. De teksten en eventuele vertalingen in het Nederlands van de op grond van deze wet bekendgemaakte verdragen en besluiten van volkenrechtelijke organisaties zijn in geconsolideerde vorm voor een ieder beschikbaar door middel van een bij ministeriële regeling aangewezen algemeen toegankelijk elektronisch medium.
+
+2. Bij ministeriële regeling kunnen categorieën van verdragen en van besluiten van volkenrechtelijke organisaties worden aangewezen, waarop het eerste lid niet van toepassing is.
+
+3. Een geconsolideerde tekst van een verdrag of van een besluit van een volkenrechtelijke organisatie die op grond van het eerste lid beschikbaar is gesteld, blijft beschikbaar indien het verdrag of besluit na de beschikbaarstelling is gewijzigd, buiten werking getreden of ingetrokken.
+
+##### Artikel 17
+
+1. In het *Tractatenblad* worden geplaatst:
 
 - a. de tekst van het verdrag of het besluit in één of meer talen;
 
@@ -162,11 +178,13 @@ In het **Tractatenblad** worden geplaatst:
 
 - c. de vermelding van het tijdstip van buitenwerkingtreding, hetzij voor het Koninkrijk in zijn geheel, hetzij voor een of meer der landen van het Koninkrijk;
 
-- d. de vermelding van voorlopige toepassing van een verdrag als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=15&z=2023-01-01&g=2023-01-01).
+- d. de vermelding van voorlopige toepassing van een verdrag als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=15&z=2026-07-01&g=2026-07-01).
 
-#### Artikel 18
+2. De gegevens, bedoeld in het eerste lid, onderdelen b, c en d, worden ook in de Verdragenbank geplaatst.
 
-Voorts kunnen in het **Tractatenblad** worden geplaatst:
+##### Artikel 18
+
+1. Voorts kunnen in het *Tractatenblad* worden geplaatst:
 
 - a. een vertaling in het Nederlands van het verdrag of het besluit;
 
@@ -178,50 +196,36 @@ Voorts kunnen in het **Tractatenblad** worden geplaatst:
 
 - e. andere gegevens.
 
-#### Artikel 19
+2. De gegevens, bedoeld in het eerste lid, onderdelen b tot en met e, kunnen ook in de Verdragenbank worden geplaatst.
 
-1. Verdragen en besluiten van volkenrechtelijke organisaties gelden als bekend gemaakt in het gehele Koninkrijk met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Tractatenblad** waarin zij zijn geplaatst.
+##### Artikel 19
 
-2. Onze Minister van Buitenlandse Zaken kan voor een bepaald geval deze termijn, hetzij voor het Koninkrijk der Nederlanden in zijn geheel, hetzij voor een of meer der landen van het Koninkrijk, wijzigen door een mededeling in het **Tractatenblad**.
+1. Verdragen en besluiten van volkenrechtelijke organisaties gelden als bekend gemaakt in het gehele Koninkrijk op de dag na de datum van uitgifte van het *Tractatenblad* waarin zij zijn geplaatst.
 
-#### Artikel 20
+2. Onze Minister van Buitenlandse Zaken kan voor een bepaald geval deze termijn, hetzij voor het Koninkrijk der Nederlanden in zijn geheel, hetzij voor een of meer der landen van het Koninkrijk, wijzigen door een mededeling in het *Tractatenblad*.
+
+##### Artikel 20
 
 1. Het ter kennis brengen van verdragen of van besluiten van volkenrechtelijke organisaties door Onze Minister van Buitenlandse Zaken aan bepaalde personen geldt te hunnen aanzien als bekendmaking mits daarbij wordt meegedeeld dat deze kennisgeving die werking heeft.
 
-2. De [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16&z=2023-01-01&g=2023-01-01), [17, onder a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=17&z=2023-01-01&g=2023-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=19&z=2023-01-01&g=2023-01-01) van deze wet zijn niet van toepassing op verdragen en op besluiten van volkenrechtelijke organisaties waarvan de bekendmaking is geregeld in of ingevolge een verdrag dat in het **Tractatenblad** is bekendgemaakt.
+2. De [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16&z=2026-07-01&g=2026-07-01), [17, eerste lid, onderdelen a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=17&z=2026-07-01&g=2026-07-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=19&z=2026-07-01&g=2026-07-01) van deze wet zijn niet van toepassing op verdragen en op besluiten van volkenrechtelijke organisaties waarvan de bekendmaking is geregeld in of ingevolge een verdrag dat in het *Tractatenblad* is bekendgemaakt.
 
-3. In bijzondere gevallen kan Onze Minister van Buitenlandse Zaken bepalen dat bijlagen bij een verdrag of besluiten van volkenrechtelijke organisaties niet door plaatsing in het **Tractatenblad**, doch door terinzagelegging worden bekendgemaakt. Van zodanige bekendmaking wordt mededeling gedaan in het **Tractatenblad**.
+3. In bijzondere gevallen kan Onze Minister van Buitenlandse Zaken bepalen dat bijlagen bij een verdrag of besluiten van volkenrechtelijke organisaties niet door plaatsing in het Tractatenblad worden bekendgemaakt, maar:
 
-#### Artikel 21
+- a. door een elektronische verwijzing naar de bedoelde bijlage in het Tractatenblad, dan wel, indien dat niet mogelijk is,
 
-De Rijkswet van 22 juni 1961 (**Stb.** 207) houdende regeling inzake de bekendmaking van internationale overeenkomsten en van besluiten van volkenrechtelijke organisaties wordt ingetrokken.
+- b. door terinzagelegging.
 
-#### Artikel 22
+4. Van de door terinzagelegging bekendgemaakte bijlagen wordt mededeling gedaan in het Tractatenblad.
 
-Deze wet treedt in werking op de dertigste dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+##### Artikel 21
 
-#### Artikel 23
+De Rijkswet van 22 juni 1961 (*Stb.* 207) houdende regeling inzake de bekendmaking van internationale overeenkomsten en van besluiten van volkenrechtelijke organisaties wordt ingetrokken.
+
+##### Artikel 22
+
+Deze wet treedt in werking op de dertigste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
+
+##### Artikel 23
 
 Deze wet kan worden aangehaald als: Rijkswet goedkeuring en bekendmaking verdragen.
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Artikel 16a
-
-Indien elektronische uitgifte van het Tractatenblad op de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16&z=2023-01-01&g=2023-01-01) voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze minister van Buitenlandse Zaken in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
-
-#### Artikel 16b
-
-1. Aan een ieder wordt op verzoek een papieren afschrift van het Tractatenblad verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.
-
-2. Onze minister van Buitenlandse Zaken wijst een uitgiftepunt aan waar het afschrift verkregen kan worden.
-
-#### Artikel 16c
-
-1. De teksten en eventuele vertalingen in het Nederlands van de op grond van deze wet bekendgemaakte verdragen en besluiten van volkenrechtelijke organisaties zijn in geconsolideerde vorm voor een ieder beschikbaar door middel van een bij ministeriële regeling aangewezen algemeen toegankelijk elektronisch medium.
-
-2. Bij ministeriële regeling kunnen categorieën van verdragen en van besluiten van volkenrechtelijke organisaties worden aangewezen, waarop het eerste lid niet van toepassing is.
-
-3. Een geconsolideerde tekst van een verdrag of van een besluit van een volkenrechtelijke organisatie die op grond van het eerste lid beschikbaar is gesteld, blijft beschikbaar indien het verdrag of besluit na de beschikbaarstelling is gewijzigd, buiten werking getreden of ingetrokken.
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

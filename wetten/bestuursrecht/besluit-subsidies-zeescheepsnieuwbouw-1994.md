@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 7 juni 1994, houdende regels inzake de verstrekking van subsidies ter ondersteuning van de zeescheepsnieuwbouw in 1994"
+citeertitel: "Besluit subsidies zeescheepsnieuwbouw 1994"
 identifier: "BWBR0006715"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006715"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1002153"
-version_id: "1473202"
-internal_id: "C1473201"
-label_id: "971324"
-dtd_version: "2.0"
-original_entry_into_force: "1994-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006715/2009-07-01/0"
-intitule_bron: "Stb.1994-437"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-07"
-intitule_published: "1994-06-12"
-intitule_in_force: "1994-06-12"
-intitule_status: "goed"
-original_publication: "Stb.1994-437"
-original_signed_date: "1994-06-07"
-original_published_date: "1994-06-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-06-22"
-jci_1_3: "jci1.3:c:BWBR0006715&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0006715&g=2009-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit subsidies zeescheepsnieuwbouw 1994"
-signed_date: "1994-06-07"
-entry_into_force: "1994-06-22"
+publicatiedatum: 1994-06-22
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0006715"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 7 juni 1994, houdende regels inzake de verstrekking van subsidies ter ondersteuning van de zeescheepsnieuwbouw in 1994
-
-Op de voordracht van Onze Minister van Economische Zaken van 8 april 1994, nr. WJA/JZ 94024689;
-
-Gelet op artikel 2 van de Kaderwet verstrekking financiële middelen EZ en [Richtlijn nr. 90/684/EEG](31990L0684) van de Raad van de Europese Gemeenschappen van 21 december 1990 betreffende de steunverlening aan de scheepsbouw ( **PbEG** L 380), zoals deze laatstelijk is gewijzigd bij [richtlijn nr. 93/115/EG](31993L0115) van de Raad van de Europese Gemeenschappen van 16 december 1993 (**PbEG** L 326);
-
-De Raad van State gehoord (advies van 24 mei 1994, nr. W10.94.0211);
-
-Gezien het nader rapport van Onze voornoemde minister van 27 mei 1994, nr. WJA/JZ 94040625;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -73,7 +42,7 @@ Hebben goedgevonden en verstaan:
 
 - e. een veerboot, bestemd voor het onderhouden van een veerdienst op de Waddenzee of de Westerschelde, met een bruto tonnage van ten minste 100.
 
-2. Een schip als bedoeld in het eerste lid, onder **a**, **b**, **c** en **d**, wordt voor de toepassing van dit besluit alleen als zeeschip beschouwd, indien ervoor een certificaat van deugdelijkheid of een daaraan gelijkwaardig certificaat is afgegeven voor:
+2. Een schip als bedoeld in het eerste lid, onder *a*, *b*, *c* en *d*, wordt voor de toepassing van dit besluit alleen als zeeschip beschouwd, indien ervoor een certificaat van deugdelijkheid of een daaraan gelijkwaardig certificaat is afgegeven voor:
 
 - a. ten minste het vaargebied 15 als bedoeld in de Bekendmaking aan de Scheepvaart van 7 september 1989, no. 249/1989 of
 
@@ -107,7 +76,7 @@ Onze Minister stelt ieder begrotingsjaar bij ministeriële regeling een subsidie
 
 3. Het budget bedraagt een gedeelte van het ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) beschikbare bedrag, dat evenredig is met het aandeel van de gemiddelde gewogen productiewaarde van de aanvrager in de totale gemiddelde gewogen productiewaarden van allen, die een aanvraag om vaststelling van een budget hebben ingediend en die voldoen aan het tweede lid.
 
-4. Onder de productiewaarde wordt verstaan het overeenkomstig [artikel 377, derde lid, aanhef en onder **a** en **b**, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) bepaalde bedrag:
+4. Onder de productiewaarde wordt verstaan het overeenkomstig [artikel 377, derde lid, aanhef en onder *a* en *b*, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) bepaalde bedrag:
 
 - a. ter zake van het als hoofdaannemer in Nederland uitvoeren van opdrachten voor de bouw van zeeschepen, tenzij het zeeschip voor 90 procent of meer door een of meer onderaannemers is gebouwd, en
 
@@ -125,7 +94,7 @@ Onze Minister stelt ieder begrotingsjaar bij ministeriële regeling een subsidie
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -133,7 +102,7 @@ Onze Minister geeft op de aanvragen om vaststelling van een budget een beschikki
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -175,7 +144,7 @@ Onze Minister beslist in ieder geval afwijzend op een aanvraag:
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -213,7 +182,7 @@ Een aanvraag wordt ingediend met gebruik van het origineel van een ondertekend f
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
@@ -223,7 +192,7 @@ Onze Minister kan in ieder geval afwijzend beschikken op een aanvraag, indien de
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
@@ -231,7 +200,7 @@ Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
@@ -241,10 +210,8 @@ De Subsidieregeling zeescheepsnieuwbouw 1991 wordt ingetrokken met uitzondering 
 
 ##### Artikel 29
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit subsidies zeescheepsnieuwbouw 1994.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

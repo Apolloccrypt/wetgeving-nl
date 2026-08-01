@@ -1,45 +1,18 @@
 ---
 title: "Wet van 19 mei 1994, houdende regels betreffende de instelling van een zelfstandig bestuursorgaan, belast met de materiële en immateriële opvang van asielzoekers"
+citeertitel: "Wet Centraal Orgaan opvang asielzoekers"
 identifier: "BWBR0006685"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006685"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "169383"
-version_id: "17394522"
-internal_id: "C25487371"
-label_id: "167884"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006685/2025-07-01/0"
-intitule_bron: "Stb.1994-422"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-05-19"
-intitule_status: "goed"
-original_publication: "Stb.2010-203"
-original_signed_date: "2010-05-20"
-original_published_date: "2010-06-10"
-original_effect: "structuurwijziging"
-original_dossier: "32205"
-original_url_id: "stb-2010-203"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0006685&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0006685&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet Centraal Orgaan opvang asielzoekers"
-signed_date: "2010-05-20"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2026-06-04
+status: geldig
+toestand: 2026-06-04
+bron: "https://wetten.overheid.nl/BWBR0006685"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 19 mei 1994, houdende regels betreffende de instelling van een zelfstandig bestuursorgaan, belast met de materiële en immateriële opvang van asielzoekers
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de materiële en immateriële opvang van asielzoekers toe te vertrouwen aan een wettelijk ingesteld bestuursorgaan;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Begripsbepalingen
 
@@ -49,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Asiel en Migratie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2026-06-04&g=2026-06-04);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
@@ -57,7 +30,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. opvangvoorziening: een accommodatie waarin door of onder verantwoordelijkheid van het COA onderscheidenlijk door of onder verantwoordelijkheid van het college opvang wordt geboden aan asielzoekers;
 
-- f. ontheemde: de vreemdeling die tijdelijke bescherming geniet als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), omdat hij onder de reikwijdte valt van Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en tot invoering van tijdelijke bescherming naar aanleiding daarvan, of een verlenging daarvan.
+- f. ontheemde: de vreemdeling die tijdelijke bescherming geniet als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), omdat hij onder de reikwijdte valt van Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG, en tot invoering van tijdelijke bescherming naar aanleiding daarvan, of een verlenging daarvan.
 
 #### § 2. Instelling en taken
 
@@ -77,7 +50,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het plaatsen van asielzoekers in een opvangvoorziening;
 
-- c. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
+- c. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
 
 - d. door Onze Minister aan het COA op te dragen andere taken die samenhangen met de opvang van asielzoekers.
 
@@ -101,9 +74,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, zorgt het COA er voor dat de eenheid van het gezin in de mate van het mogelijke en met instemming van de asielzoekers bewaard wordt.
 
+##### Artikel 3b
+
+1. Het COA kan met het college van burgemeester en wethouders overeenkomen dat het college verantwoordelijk is voor de exploitatie van een opvangvoorziening.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over exploitatie door het college.
+
+##### Artikel 3c
+
+Bij regeling van Onze Minister kunnen regels worden gesteld over de eisen waaraan opvangvoorzieningen moeten voldoen. Daarbij kan onderscheid worden gemaakt tussen reguliere opvang, opvang van alleenstaande minderjarige vreemdelingen en andere opvang van bijzondere aard.
+
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2026-06-04&g=2026-06-04), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -137,19 +120,29 @@ Het COA heeft een bestuur.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2026-06-04&g=2026-06-04).
 
-2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2026-06-04&g=2026-06-04) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+
+##### Artikel 9a
+
+1. Het bestuur stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.
+
+2. Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1).
+
+3. Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
+
+4. Het bestuur bevordert de kennis en het gebruik van de meldcode.
+
+5. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
-
-#### § 3. Ministeriële bevoegdheden
+*Vervallen*
 
 ##### Artikel 12
 
@@ -159,7 +152,7 @@ In afwijking van [artikel 2 van de Wet privatisering ABP](https://wetten.overhei
 
 Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het bestuur.
 
-#### § 4. Informatieverstrekking
+#### § 3. Informatievoorziening, sturing en toezicht
 
 ##### Artikel 14
 
@@ -173,7 +166,7 @@ Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het be
 
 2. Onze Minister kan regels stellen met betrekking tot de inrichting van het activiteitenverslag van het COA.
 
-#### § 5. Financiële bepalingen
+#### § 4. Bekostiging en financieel toezicht
 
 ##### Artikel 16
 
@@ -190,28 +183,6 @@ Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het be
 1. Het activiteitenplan behoeft de instemming van Onze Minister. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
 2. Indien door bijzondere omstandigheden voor het COA kosten ontstaan die niet zijn voorzien bij de indiening van de begroting wordt ter zake van die kosten een aanvullend activiteitenplan en een aanvullende begroting ingediend. Ook het aanvullend activiteitenplan en de aanvullende begroting behoeven de instemming van Onze Minister.
-
-##### Artikel 17a
-
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:
-
-- a. de gegevens die Onze Minister met het oog op het opstellen van de begroting verstrekt aan het orgaan, alsmede op welk tijdstip deze gegevens uiterlijk worden verstrekt;
-
-- b. de termijn waarbinnen Onze Minister op het verzoek tot verlening onderscheidenlijk tot vaststelling van de subsidie beslist;
-
-- c. de wijze waarop de subsidie wordt bepaald;
-
-- d. de handelingen, bedoeld in [artikel 4:71 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), waarvoor het orgaan de toestemming van Onze Minister behoeft;
-
-- e. de gevallen waarin het orgaan een vergoeding voor vermogensvorming als bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41) verschuldigd is, alsmede hoe deze vergoeding wordt berekend;
-
-- f. het vormen van een egalisatiereserve;
-
-- g. de overige aan de subsidie verbonden verplichtingen;
-
-- h. het verlenen van voorschotten.
-
-2. De voordracht voor een krachtens het eerste lid vastgestelde algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 18
 
@@ -241,100 +212,22 @@ Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het be
 
 3. Het bestuur werkt mee aan door Onze Minister in te stellen onderzoeken, die noodzakelijk zijn voor de uitvoering van de taak van het ministerie.
 
-#### § 6. Overgangs- en slotbepalingen
-
 ##### Artikel 20
 
 Onze Minister kan regels stellen met betrekking tot de inrichting van het activiteitenplan en de begroting.
+
+#### § 5. Slotbepalingen
 
 ##### Artikel 21
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-##### Artikel 22
-
-Deze wet wordt aangehaald als: Wet Centraal Orgaan opvang asielzoekers.
-
-##### Artikel 23
-
-Ter zake van de vermogensoverdracht van het Algemeen burgerlijk pensioenfonds aan de instelling, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=22&z=2008-03-26&g=2008-03-26), blijft heffing van overdrachtsbelasting achterwege.
-
-##### Artikel 24
-
-1. Alle zaken, rechten en verplichtingen van de Interimstichting Opvang Asielzoekers en van de Stichting Projecten Opvang Asielzoekers gaan bij de inwerkingtreding van deze wet over op het orgaan.
-
-2. Hetzelfde geldt met betrekking tot de zaken en rechten onderscheidenlijk de verplichtingen die Onze Minister heeft verworven onderscheidenlijk is aangegaan ter vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26).
-
-3. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=6&artikel=23&z=2008-03-26&g=2008-03-26) is van overeenkomstige toepassing.
-
-##### Artikel 25
-
-1. Rechtsgedingen in burgerlijke zaken en in administratieve zaken die zijn ingesteld door of tegen de Interimstichting Opvang Asielzoekers of de Stichting Projecten Opvang Asielzoekers worden, met uitzondering van ambtenarenzaken, met ingang van inwerkingtreding van deze wet voortgezet door of tegen het orgaan.
-
-2. Rechtsgedingen als bedoeld in het eerste lid, die zijn ingesteld door of tegen Onze Minister en die samenhangen met de vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2008-03-26&g=2008-03-26), worden met ingang van inwerkingtreding van deze wet voortgezet door of tegen het orgaan.
-
-##### Artikel 26
-
-Bevat wijzigingen in deze regelgeving.
-
-##### Artikel 27
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-##### Artikel 28
-
-Deze wet wordt aangehaald als: Wet Centraal Orgaan opvang asielzoekers.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 3. Informatievoorziening, sturing en toezicht
-
-#### § 4. Bekostiging en financieel toezicht
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. Het bestuur stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.
-
-2. Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1).
-
-3. Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
-
-4. Het bestuur bevordert de kennis en het gebruik van de meldcode.
-
-5. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.
-
-#### § 3. Informatievoorziening, sturing en toezicht
-
-#### § 3. Informatievoorziening, sturing en toezicht
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3b
-
-1. Het COA kan met het college van burgemeester en wethouders overeenkomen dat het college verantwoordelijk is voor de exploitatie van een opvangvoorziening.
-
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over exploitatie door het college.
-
-##### Artikel 3c
-
-Bij regeling van Onze Minister kunnen regels worden gesteld over de eisen waaraan opvangvoorzieningen moeten voldoen. Daarbij kan onderscheid worden gemaakt tussen reguliere opvang, opvang van alleenstaande minderjarige vreemdelingen en andere opvang van bijzondere aard.
-
-#### § 4. Bekostiging en financieel toezicht
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 21a
 
-1. Met ingang van het tijdstip waarop de [Tijdelijke wet opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0049876) vervalt, vervalt onder vervanging van de puntkomma aan het slot van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), door een punt, onderdeel f, en vervalt in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01) het vierde lid.
+1. Met ingang van het tijdstip waarop de [Tijdelijke wet opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0049876) vervalt, vervalt onder vervanging van de puntkomma aan het slot van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=1&artikel=1&z=2026-06-04&g=2026-06-04), door een punt, onderdeel f, en vervalt in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2026-06-04&g=2026-06-04) het vierde lid.
 
 2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 22
+
+Deze wet wordt aangehaald als: Wet Centraal Orgaan opvang asielzoekers.

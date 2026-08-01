@@ -1,46 +1,45 @@
 ---
 title: "Keuzeregeling verlaging pensioenbijdrageverhaal"
 identifier: "BWBR0006662"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-06-04"
-last_updated: "1994-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006662"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3731163"
-version_id: "5514072"
-internal_id: "C5707161"
-label_id: "3710954"
-dtd_version: "2.0"
-original_entry_into_force: "1994-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006662/1994-06-04/0"
-intitule_bron: "Stcrt.1994-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-05-09"
-intitule_published: "1994-06-03"
-intitule_in_force: "1994-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-103"
-original_signed_date: "1994-05-09"
-original_published_date: "1994-06-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-06-04"
-jci_1_3: "jci1.3:c:BWBR0006662&z=1994-06-04&g=1994-06-04"
-jci_1_0: "1.0:c:BWBR0006662&g=1994-06-04"
-citeertitel_status: "officieel"
-signed_date: "1994-05-09"
-entry_into_force: "1994-06-04"
+publicatiedatum: 1994-06-04
+laatste_update: 1994-06-04
+status: geldig
+toestand: 1994-06-04
+bron: "https://wetten.overheid.nl/BWBR0006662"
+opgehaald: 2026-08-01
 ---
+
 # Keuzeregeling verlaging pensioenbijdrageverhaal
-
-Gelet op artikel F 8f, vijfde lid, van de Algemene burgerlijke pensioenwet en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=10) en [81 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=81);
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
+
+a.
+
+keuze:
+
+de eenmalige keuze, bedoeld in artikel F 8f, derde lid, van de Algemene burgerlijke pensioenwet, voor verlaging van het pensioenbijdrageverhaal, bedoeld in [artikel 10 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=10);
+
+b.
+
+ambtenaar:
+
+de ambtenaar, bedoeld in [artikel 1, onderdeel e, van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1), alsmede de wachtgelder bedoeld in [artikel 1, onderdeel q, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1);
+
+c.
+
+werkgever:
+
+de werkgever, bedoeld in [artikel 1, onderdeel s, van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=1);
+
+d.
+
+bestuur:
+
+het bestuur, bedoeld in artikel L 2 van de Algemene burgerlijke pensioenwet.
 
 ##### Artikel 2
 
@@ -81,5 +80,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als:
 
 Keuzeregeling verlaging pensioenbijdrageverhaal.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

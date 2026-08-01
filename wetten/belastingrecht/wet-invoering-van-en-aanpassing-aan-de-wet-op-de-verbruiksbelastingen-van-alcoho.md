@@ -1,75 +1,46 @@
 ---
 title: "Wet van 24 december 1992, houdende invoering van en aanpassing van wetgeving aan de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
+citeertitel: "Wet invoering van en aanpassing aan de Wet op de verbruiksbelastingen van alcoholvrije dranken en van andere produkten"
 identifier: "BWBR0005803"
-country: "nl"
-rank: "wet"
-publication_date: "1993-01-01"
-last_updated: "1993-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005803"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "516023"
-version_id: "757802"
-internal_id: "C757801"
-label_id: "502034"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005803/1993-01-01/0"
-intitule_bron: "Stb.1992-684"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-24"
-intitule_published: "1992-12-30"
-intitule_in_force: "1992-12-30"
-intitule_status: "goed"
-original_publication: "Stb.1992-684"
-original_signed_date: "1992-12-24"
-original_published_date: "1992-12-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "22844"
-entry_into_force_date: "1993-01-01"
-entry_into_force_dossier: "22844"
-jci_1_3: "jci1.3:c:BWBR0005803&z=1993-01-01&g=1993-01-01"
-jci_1_0: "1.0:c:BWBR0005803&g=1993-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet invoering van en aanpassing aan de Wet op de verbruiksbelastingen van alcoholvrije dranken en van andere produkten"
-signed_date: "1992-12-24"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 1993-01-01
+status: geldig
+toestand: 1993-01-01
+bron: "https://wetten.overheid.nl/BWBR0005803"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 24 december 1992, houdende invoering van en aanpassing van wetgeving aan de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat in verband met het vervallen van de accijnsheffing van alcoholvrije dranken, van suiker en suikerhoudende produkten en van pruimtabak en snuiftabak en de inwerkingtreding van de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) het wenselijk is de wetten waarin naar de accijns wordt verwezen aan te passen, alsmede overgangsmaatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
@@ -149,30 +120,28 @@ Bij ministeriële regeling kunnen nadere regels worden gegeven met betrekking to
 
 ##### Artikel XVIII
 
-Waar in deze wet de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) is aangehaald met vermelding van het **Staatsblad** waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het **Staatsblad** na "**Stb.** 1992," ingevoegd het nummer van het **Staatsblad** waarin de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) is geplaatst.
+Waar in deze wet de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) is aangehaald met vermelding van het *Staatsblad* waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het *Staatsblad* na "*Stb.* 1992," ingevoegd het nummer van het *Staatsblad* waarin de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) is geplaatst.
 
 ##### Artikel XIX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXII
 
-Bevat wijzigingen in deze regelgeving.
+*Bevat wijzigingen in deze regelgeving.*
 
 ##### Artikel XXIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXIV
 
 Deze wet treedt in werking met ingang van 1 januari 1993.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

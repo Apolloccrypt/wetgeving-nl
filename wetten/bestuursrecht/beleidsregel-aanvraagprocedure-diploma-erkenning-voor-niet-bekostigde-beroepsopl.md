@@ -5,7 +5,7 @@ country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
 last_updated: "2022-08-01"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0045128"
 soort: "beleidsregel"
 stam_id: "15955453"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Beleidsregel aanvraagprocedure diploma-erkenning voor niet-bekostigde beroepsopleidingen (2021)"
 signed_date: "2021-04-29"
 entry_into_force: "2021-05-12"
+gecontroleerd: 2026-08-01
 ---
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 29 april 2021, nr. 26561189, houdende beleid over de wijze waarop de bevoegdheid wordt uitgeoefend tot het verlenen van het recht op diploma-erkenning voor niet-bekostigde beroepsopleidingen als bedoeld in artikel 1.4.1 van de Wet educatie en beroepsonderwijs (Beleidsregel diploma-erkenning niet-bekostigde beroepsopleidingen (2021))
 

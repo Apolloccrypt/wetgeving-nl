@@ -1,43 +1,18 @@
 ---
 title: "Wet van 9 september 1992, houdende enkele rechtspositionele voorzieningen voor rampbestrijders in buitengewone omstandigheden"
+citeertitel: "Wet rechtspositionele voorzieningen rampbestrijders"
 identifier: "BWBR0005643"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005643"
+categorie: "Overig"
 soort: "wet"
-stam_id: "97103"
-version_id: "136602"
-internal_id: "C136601"
-label_id: "98964"
-dtd_version: "2.0"
-original_entry_into_force: "1993-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005643/2013-01-01/0"
-intitule_bron: "Stb.1992-531"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-09-09"
-intitule_status: "goed"
-original_publication: "Stb.1992-531"
-original_signed_date: "1992-09-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "22225"
-entry_into_force_date: "1993-07-01"
-jci_1_3: "jci1.3:c:BWBR0005643&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0005643&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet rechtspositionele voorzieningen rampbestrijders"
-signed_date: "1992-09-09"
-entry_into_force: "1993-07-01"
+publicatiedatum: 1993-07-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0005643"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 9 september 1992, houdende enkele rechtspositionele voorzieningen voor rampbestrijders in buitengewone omstandigheden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijke regeling te treffen voor enkele rechtspositionele voorzieningen voor hen die zich voorbereiden op, deelnemen aan of hebben deelgenomen aan de bestrijding van een ramp in buitengewone omstandigheden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -49,19 +24,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. rampbestrijdingsdienst: het deelnemen aan
 
-- 1°. het bestrijden van een ramp of een zwaar ongeval nadat de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=53) en [54 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=54) in werking zijn gesteld;
+   - 1°. het bestrijden van een ramp of een zwaar ongeval nadat de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=53) en [54 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=54) in werking zijn gesteld;
 
-- 2°. een oefening ter voorbereiding op de bestrijding van rampen en zware ongevallen in geval van buitengewone omstandigheden, aan het houden waarvan Onze Minister zijn goedkeuring heeft gehecht;
+   - 2°. een oefening ter voorbereiding op de bestrijding van rampen en zware ongevallen in geval van buitengewone omstandigheden, aan het houden waarvan Onze Minister zijn goedkeuring heeft gehecht;
 
-- 3°. het bestrijden van een ramp of een zwaar ongeval in België onderscheidenlijk de Bondsrepubliek Duitsland naar aanleiding van een verzoek als bedoeld in artikel 3, tweede lid, van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen (**Trb.** 1984, 155) onderscheidenlijk de Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen (**Trb.** 1988, 95);
+   - 3°. het bestrijden van een ramp of een zwaar ongeval in België onderscheidenlijk de Bondsrepubliek Duitsland naar aanleiding van een verzoek als bedoeld in artikel 3, tweede lid, van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen (*Trb.* 1984, 155) onderscheidenlijk de Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen (*Trb.* 1988, 95);
 
-- 4°. een oefening die in België of in de Bondsrepubliek Duitsland wordt gehouden ter voorbereiding op het bestrijden van een ramp of een zwaar ongeval als bedoeld onder ten derde, aan het houden waarvan Onze Minister zijn goedkeuring heeft gehecht;
+   - 4°. een oefening die in België of in de Bondsrepubliek Duitsland wordt gehouden ter voorbereiding op het bestrijden van een ramp of een zwaar ongeval als bedoeld onder ten derde, aan het houden waarvan Onze Minister zijn goedkeuring heeft gehecht;
 
 - c. rampbestrijder: degene die de rampbestrijdingsdienst vervult of heeft vervuld bij een gemeentelijke of regionale brandweer, bij een basisgezondheidsdienst, bij een Regionale Ambulancevoorziening, bij een gemeenschappelijke meldkamer, bij het Nederlandse Rode Kruis of bij een instelling, zorgaanbieder, of gezondheidsdienst als bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=33);
 
-- 1°. bij wijze van beroep
+   - 1°. bij wijze van beroep
 
-- 2°. als vrijwilliger
+   - 2°. als vrijwilliger
 
 - d. zijn gewone werk: de werkzaamheden die de rampbestrijder voorafgaande aan de rampbestrijdingsdienst gewoonlijk in de uitoefening van zijn bedrijf of beroep heeft verricht;
 
@@ -87,7 +62,7 @@ Indien er sprake is van een ramp of een crisis, kan Onze Minister op verzoek van
 
 ##### Artikel 4
 
-Aanspraken aan deze wet, met uitzondering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2013-01-01&g=2013-01-01), kunnen slechts worden ontleend voor zover de in deze wet vervatte voorzieningen aanspraken krachtens een andere wettelijke regeling, met uitzondering van de [Algemene Bijstandswet](onbekend) (**Stb.** 1963, 284), of krachtens arbeidsovereenkomst overtreffen.
+Aanspraken aan deze wet, met uitzondering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=VI&artikel=28&z=2013-01-01&g=2013-01-01), kunnen slechts worden ontleend voor zover de in deze wet vervatte voorzieningen aanspraken krachtens een andere wettelijke regeling, met uitzondering van de Algemene Bijstandswet (*Stb.* 1963, 284), of krachtens arbeidsovereenkomst overtreffen.
 
 ##### Artikel 5
 
@@ -97,7 +72,7 @@ Aanspraken aan deze wet, met uitzondering van [artikel 28](https://wetten.overhe
 
 ##### Artikel 6
 
-Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2013-01-01&g=2013-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2013-01-01&g=2013-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2013-01-01&g=2013-01-01) bedraagt per maand niet minder dan de som van de desbetreffende uitkering en de toeslag die in aanvulling daarop zou worden verleend, indien die uitkering zou zijn aangemerkt als een loondervingsuitkering in de zin van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) (**Stb.** 1987, 91).
+Een uitkering als bedoeld in de[hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&z=2013-01-01&g=2013-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=III&z=2013-01-01&g=2013-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=IV&z=2013-01-01&g=2013-01-01) bedraagt per maand niet minder dan de som van de desbetreffende uitkering en de toeslag die in aanvulling daarop zou worden verleend, indien die uitkering zou zijn aangemerkt als een loondervingsuitkering in de zin van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) (*Stb.* 1987, 91).
 
 ### Hoofdstuk II. Uitkering bij ziekte
 
@@ -133,7 +108,7 @@ Geen recht op een ziekengelduitkering als bedoeld in [artikel 7](https://wetten.
 
 - d. voor derden of zichzelf werkzaamheden verricht, tenzij dit door de geneeskundig adviseur in het belang van zijn genezing wenselijk wordt geacht.
 
-2. De rampbestrijder kan aan een onderzoek vanwege de geneeskundig adviseur worden onderworpen ter beantwoording van de vraag, of zich een omstandigheid voordoet als bedoeld in het eerste lid, onder **b** of **c**, of in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=8&z=2013-01-01&g=2013-01-01).
+2. De rampbestrijder kan aan een onderzoek vanwege de geneeskundig adviseur worden onderworpen ter beantwoording van de vraag, of zich een omstandigheid voordoet als bedoeld in het eerste lid, onder *b* of *c*, of in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=8&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 10
 
@@ -192,7 +167,7 @@ De invaliditeitsuitkering eindigt met ingang van de eerste dag van de maand volg
 
 ##### Artikel 19
 
-1. De rampbestrijder heeft recht op een bijzondere invaliditeitsuitkering indien hij na het verstrijken van de termijn, bedoeld in [artikel 7, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2013-01-01&g=2013-01-01), maar binnen 2 jaar na de beëindiging van de rampbestrijdingsdienst, door ziekten of gebreken geheel of gedeeltelijk algemeen invalide wordt en deze invaliditeit naar het oordeel van Onze Minister in overwegende mate haar oorzaak vindt in de rampbestrijdingsdienst.
+1. De rampbestrijder heeft recht op een bijzondere invaliditeitsuitkering indien hij na het verstrijken van de termijn, bedoeld in [artikel 7, eerste lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=II&artikel=7&z=2013-01-01&g=2013-01-01), maar binnen 2 jaar na de beëindiging van de rampbestrijdingsdienst, door ziekten of gebreken geheel of gedeeltelijk algemeen invalide wordt en deze invaliditeit naar het oordeel van Onze Minister in overwegende mate haar oorzaak vindt in de rampbestrijdingsdienst.
 
 2. Dit hoofdstuk is van overeenkomstige toepassing op de bijzondere invaliditeitsuitkering.
 
@@ -266,13 +241,13 @@ De wezenuitkering, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 28
 
-1. De rampbestrijder, bedoeld in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten tweede, die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), vervult, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**, ten eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), vervult, hebben recht op een beloning van € 13,61 per uur.
+1. De rampbestrijder, bedoeld in [artikel 1, onder *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten tweede, die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), vervult, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), die de rampbestrijdingsdienst, bedoeld in [artikel 1, onder *b*, ten eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), vervult, hebben recht op een beloning van € 13,61 per uur.
 
 2. Onze Minister past het bedrag, bedoeld in het eerste lid, aan, voor zover wijzigingen in overeenkomstige vergoedingen voor het vrijwillig brandweerpersoneel daartoe aanleiding geven.
 
 ##### Artikel 29
 
-1. De rampbestrijder, bedoeld in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten tweede, die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), loon of inkomsten uit zijn gewone werk derft, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten eerste, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), loon of inkomsten uit zijn gewone werk derft, hebben onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=5&z=2013-01-01&g=2013-01-01) recht op een uitkering met betrekking tot hetgeen zij ter zake derven die gelijk is aan:
+1. De rampbestrijder, bedoeld in [artikel 1, onder *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten tweede, die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten eerste, ten derde en ten vierde, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), loon of inkomsten uit zijn gewone werk derft, alsmede de rampbestrijder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=2&z=2013-01-01&g=2013-01-01), die tijdens de rampbestrijdingsdienst, bedoeld in [artikel 1, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), ten eerste, en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01), loon of inkomsten uit zijn gewone werk derft, hebben onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=5&z=2013-01-01&g=2013-01-01) recht op een uitkering met betrekking tot hetgeen zij ter zake derven die gelijk is aan:
 
 - a. het bedrag van het werkelijk gederfde loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3), al naar gelang zij hun gewone werk in loondienst uitoefenen of tot deze categorie gerekend kunnen worden;
 
@@ -322,7 +297,7 @@ Alvorens Onze Minister een beslissing neemt op een aanvraag om een uitkering als
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
@@ -364,13 +339,13 @@ Wanneer als gevolg van omstandigheden, waaraan de betrokkene geen schuld draagt,
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk X. Slot- en overgangsbepalingen
 
 ##### Artikel 44
 
-1. Bij algemene maatregel van bestuur kunnen bepalingen van deze wet op andere dan de in [artikel 1, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde groepen van personen die de rampbestrijdingsdienst vervullen, van overeenkomstige toepassing worden verklaard. Zonodig kunnen daarbij tevens aanvullende regels worden gegeven.
+1. Bij algemene maatregel van bestuur kunnen bepalingen van deze wet op andere dan de in [artikel 1, onder *c*](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&hoofdstuk=I&artikel=1&z=2013-01-01&g=2013-01-01), bedoelde groepen van personen die de rampbestrijdingsdienst vervullen, van overeenkomstige toepassing worden verklaard. Zonodig kunnen daarbij tevens aanvullende regels worden gegeven.
 
 2. De voordracht tot een algemene maatregel van bestuur als bedoeld in het eerste lid, wordt gedaan door Onze Minister en Onze Ministers die het mede aangaat te zamen.
 
@@ -388,7 +363,7 @@ Voorzover de grondslag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 47
 
-1. De Wet op de noodwachten (**Stb.** 1971, 61) wordt ingetrokken.
+1. De Wet op de noodwachten (*Stb.* 1971, 61) wordt ingetrokken.
 
 2. De noodwachter, genoemd in artikel 7 van de Wet op de noodwachten, diens nagelaten betrekking of diens rechtsverkrijgende, en de groepen van personen die op grond van artikel 171 van die wet bij of krachtens algemene maatregel van bestuur zijn aangewezen, die de dag voorafgaande aan de datum van inwerkingtreding van deze wet aanspraak hebben op een uitkering of voorziening krachtens die genoemde wet, of binnen een jaar na de datum van inwerkingtreding van deze wet een verzoek om toekenning van een in de Wet op de noodwachten genoemde uitkering of voorziening hebben ingediend, hebben aanspraak op een met bedoelde uitkering of voorziening overeenkomende, in deze wet geregelde uitkering of voorziening. Deze wet is hierbij zoveel mogelijk van overeenkomstige toepassing.
 
@@ -403,5 +378,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 49
 
 Deze wet kan worden aangehaald als Wet rechtspositionele voorzieningen rampbestrijders.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

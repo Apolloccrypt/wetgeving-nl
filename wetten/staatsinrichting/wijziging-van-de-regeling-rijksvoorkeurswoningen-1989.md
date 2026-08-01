@@ -1,45 +1,22 @@
 ---
 title: "De Regeling tot wijziging van de Regeling Rijksvoorkeurswoningen 1989 behoort bij de circulaire aan het College van Burgemeester en Wethouders van 16 juni 1993, nr. MG93-21, Regeling rijksvoorkeurswoningen 1989"
+citeertitel: "Wijziging van de Regeling Rijksvoorkeurswoningen 1989"
 identifier: "BWBR0006015"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-06-24"
-last_updated: "1993-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006015"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3797143"
-version_id: "5579902"
-internal_id: "C5772991"
-label_id: "3776784"
-dtd_version: "2.0"
-original_entry_into_force: "1993-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006015/1993-06-24/0"
-intitule_bron: "Stcrt.1993-115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-06-16"
-intitule_published: "1993-06-22"
-intitule_in_force: "1993-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-115"
-original_signed_date: "1993-06-16"
-original_published_date: "1993-06-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-06-24"
-jci_1_3: "jci1.3:c:BWBR0006015&z=1993-06-24&g=1993-06-24"
-jci_1_0: "1.0:c:BWBR0006015&g=1993-06-24"
-citeertitel_status: "officieel"
-short_title: "Wijziging van de Regeling Rijksvoorkeurswoningen 1989"
-signed_date: "1993-06-16"
-entry_into_force: "1993-06-24"
+publicatiedatum: 1993-06-24
+laatste_update: 1993-06-24
+status: geldig
+toestand: 1993-06-24
+bron: "https://wetten.overheid.nl/BWBR0006015"
+opgehaald: 2026-08-01
 ---
-# De Regeling tot wijziging van de Regeling Rijksvoorkeurswoningen 1989 behoort bij de circulaire aan het College van Burgemeester en Wethouders van 16 juni 1993, nr. MG93-21, Regeling rijksvoorkeurswoningen 1989
 
-Besluit:
+# De Regeling tot wijziging van de Regeling Rijksvoorkeurswoningen 1989 behoort bij de circulaire aan het College van Burgemeester en Wethouders van 16 juni 1993, nr. MG93-21, Regeling rijksvoorkeurswoningen 1989
 
 ##### Artikel I
 
-Wijzigt de Regeling rijksvoorkeurswoningen 1989.
+*Wijzigt de Regeling rijksvoorkeurswoningen 1989.*
 
 ##### Artikel II
 

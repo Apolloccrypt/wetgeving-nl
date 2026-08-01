@@ -1,44 +1,17 @@
 ---
 title: "Beschikking financieel beheer bureau beheer landbouwgronden"
 identifier: "BWBR0005618"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005618"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3926823"
-version_id: "5679952"
-internal_id: "C5872781"
-label_id: "3906834"
-dtd_version: "2.0"
-original_entry_into_force: "1983-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005618/2002-01-01/0"
-intitule_bron: "Stcrt.1982-160"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-08-17"
-intitule_published: "1982-08-23"
-intitule_in_force: "1982-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1982-160"
-original_signed_date: "1992-08-17"
-original_published_date: "1982-08-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1983-01-01"
-jci_1_3: "jci1.3:c:BWBR0005618&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0005618&g=2002-01-01"
-citeertitel_status: "officieel"
-signed_date: "1992-08-17"
-entry_into_force: "1983-01-01"
+publicatiedatum: 1983-01-01
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0005618"
+opgehaald: 2026-08-01
 ---
+
 # Beschikking financieel beheer bureau beheer landbouwgronden
-
-Handelende in overeenstemming met de Minister van Financiën;
-
-Gelet op de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=32) en [35 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=35) (Stb. 1981, 248),
-
-Besluit:
 
 ##### Artikel 1
 

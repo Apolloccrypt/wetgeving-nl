@@ -1,40 +1,17 @@
 ---
 title: "Regeling aanwijzing gebieden als speciale beschermingszone in kader van EG-Vogelrichtlijn"
 identifier: "BWBR0006687"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-06-05"
-last_updated: "1994-06-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006687"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3741663"
-version_id: "5524512"
-internal_id: "C5717601"
-label_id: "3721394"
-dtd_version: "2.0"
-original_entry_into_force: "1994-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006687/1994-06-05/0"
-intitule_bron: "Stcrt.1994-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-05-20"
-intitule_published: "1994-06-03"
-intitule_in_force: "1994-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-103"
-original_signed_date: "1994-05-20"
-original_published_date: "1994-06-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-06-05"
-jci_1_3: "jci1.3:c:BWBR0006687&z=1994-06-05&g=1994-06-05"
-jci_1_0: "1.0:c:BWBR0006687&g=1994-06-05"
-citeertitel_status: "officieel"
-signed_date: "1994-05-20"
-entry_into_force: "1994-06-05"
+publicatiedatum: 1994-06-05
+laatste_update: 1994-06-05
+status: geldig
+toestand: 1994-06-05
+bron: "https://wetten.overheid.nl/BWBR0006687"
+opgehaald: 2026-08-01
 ---
-# Regeling aanwijzing gebieden als speciale beschermingszone in kader van EG-Vogelrichtlijn
 
-Besluit:
+# Regeling aanwijzing gebieden als speciale beschermingszone in kader van EG-Vogelrichtlijn
 
 ##### Artikel 1
 

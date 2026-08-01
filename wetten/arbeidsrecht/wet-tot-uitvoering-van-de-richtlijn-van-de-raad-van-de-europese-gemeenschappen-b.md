@@ -1,47 +1,22 @@
 ---
 title: "Wet van 2 december 1993, tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen betreffende informatie van de werknemer over zijn arbeidsovereenkomst of arbeidsverhouding"
+citeertitel: "Wet tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen betreffende informatie van de werknemer over zijn arbeidsovereenkomst of arbeidsverhouding"
 identifier: "BWBR0006282"
-country: "nl"
-rank: "wet"
-publication_date: "1997-04-01"
-last_updated: "1997-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006282"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "322683"
-version_id: "468502"
-internal_id: "C468501"
-label_id: "315844"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006282/1997-04-01/0"
-intitule_bron: "Stb.1993-635"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-02"
-intitule_status: "goed"
-original_publication: "Stb.1993-635"
-original_signed_date: "1993-12-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "22810"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBR0006282&z=1997-04-01&g=1997-04-01"
-jci_1_0: "1.0:c:BWBR0006282&g=1997-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen betreffende informatie van de werknemer over zijn arbeidsovereenkomst of arbeidsverhouding"
-signed_date: "1993-12-02"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 1997-04-01
+status: geldig
+toestand: 1997-04-01
+bron: "https://wetten.overheid.nl/BWBR0006282"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 2 december 1993, tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen betreffende informatie van de werknemer over zijn arbeidsovereenkomst of arbeidsverhouding
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de richtlijn van de Raad van de Europese Gemeenschappen van 14 oktober 1991 betreffende de verplichting van de werkgever de werknemer te informeren over de voorwaarden die op zijn arbeidsovereenkomst of -verhouding van toepassing zijn (**Pb EG** L 288/32 van 18 oktober 1991) moet worden uitgevoerd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
@@ -69,13 +44,13 @@ Bevat wijzigingen in andere regelgeving.
 
 - j. het toepasselijke algemeen verbindende voorschrift houdende regelen inzake de algemene arbeidsvoorwaarden en inzake het salaris.
 
-3. In de vermelding van de gegevens, bedoeld in het tweede lid, onderdelen **f** tot en met **i**, kan worden voorzien door te verwijzen naar bepalingen in het toepasselijke algemeen verbindende voorschrift.
+3. In de vermelding van de gegevens, bedoeld in het tweede lid, onderdelen *f* tot en met *i*, kan worden voorzien door te verwijzen naar bepalingen in het toepasselijke algemeen verbindende voorschrift.
 
 4. De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden.
 
 5. Indien de aanstelling of arbeidsovereenkomst afloopt voor het einde van de termijn van een maand vanaf het begin van het werk, moeten de gegevens, bedoeld in het tweede lid, uiterlijk bij het aflopen van de aanstelling of overeenkomst worden verstrekt.
 
-6. Wijziging in de gegevens, bedoeld in het tweede lid onder **a** tot en met **i**, wordt de werknemer binnen een maand schriftelijk medegedeeld, behoudens de wijziging van een algemeen verbindend voorschrift waarnaar is verwezen.
+6. Wijziging in de gegevens, bedoeld in het tweede lid onder *a* tot en met *i*, wordt de werknemer binnen een maand schriftelijk medegedeeld, behoudens de wijziging van een algemeen verbindend voorschrift waarnaar is verwezen.
 
 7. De werkgever die weigert de opgave te verstrekken of daarin onjuiste mededelingen doet, is jegens de werknemer aansprakelijk voor de daardoor veroorzaakte schade.
 
@@ -94,5 +69,3 @@ Indien de arbeidsverhouding of arbeidsovereenkomst, bedoeld in [artikel II](http
 ##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,40 +1,17 @@
 ---
 title: "Vaststelling taken Bureau Secretaris-Generaal"
 identifier: "BWBR0005975"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-05-13"
-last_updated: "1993-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005975"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3688363"
-version_id: "5471302"
-internal_id: "C5664391"
-label_id: "3668184"
-dtd_version: "2.0"
-original_entry_into_force: "1993-05-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005975/1993-05-13/0"
-intitule_bron: "Stcrt.1993-88"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-05-06"
-intitule_published: "1993-03-11"
-intitule_in_force: "1993-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-88"
-original_signed_date: "1993-05-06"
-original_published_date: "1993-03-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-05-13"
-jci_1_3: "jci1.3:c:BWBR0005975&z=1993-05-13&g=1993-05-13"
-jci_1_0: "1.0:c:BWBR0005975&g=1993-05-13"
-citeertitel_status: "officieel"
-signed_date: "1993-05-06"
-entry_into_force: "1993-05-13"
+publicatiedatum: 1993-05-13
+laatste_update: 1993-05-13
+status: geldig
+toestand: 1993-05-13
+bron: "https://wetten.overheid.nl/BWBR0005975"
+opgehaald: 2026-08-01
 ---
-# Vaststelling taken Bureau Secretaris-Generaal
 
-Besluit:
+# Vaststelling taken Bureau Secretaris-Generaal
 
 ##### Artikel 1
 
@@ -50,11 +27,11 @@ Het Bureau Secretaris-Generaal heeft tot taak:
 
 - c. het coördineren van de totstandkoming van het internationaal beleid van het ministerie en het ondersteunen van de ambtelijke leiding in dezen, voor zover geen sprake is van:
 
-- internationaal beleid dat slechts het terrein van één dienst betreft;
+   - internationaal beleid dat slechts het terrein van één dienst betreft;
 
-- onderwerpen die aan de orde zijn in de Europese Gemeenschappen;
+   - onderwerpen die aan de orde zijn in de Europese Gemeenschappen;
 
-- onderwerpen die in andere internationale organisaties aan de orde zijn en een directe relatie hebben met door de Europese Gemeenschappen behandelde onderwerpen;
+   - onderwerpen die in andere internationale organisaties aan de orde zijn en een directe relatie hebben met door de Europese Gemeenschappen behandelde onderwerpen;
 
 - d. het onderhouden van contacten vanuit het ministerie met betrekking tot het onder c genoemde beleid;
 

@@ -1,45 +1,18 @@
 ---
 title: "Regeling Gelijkstelling buitenlandse bewijzen van bevoegdheid"
+citeertitel: "Regeling gelijkstelling buitenlandse bewijzen van bevoegdheid"
 identifier: "BWBR0006099"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-03-15"
-last_updated: "2014-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006099"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5041233"
-version_id: "8719612"
-internal_id: "C11301771"
-label_id: "5017654"
-dtd_version: "2.0"
-original_entry_into_force: "1993-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006099/2014-03-15/0"
-intitule_bron: "Stcrt.1993-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-07-27"
-intitule_published: "1993-07-29"
-intitule_in_force: "1993-07-29"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-142"
-original_signed_date: "1993-07-27"
-original_published_date: "1993-07-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-08-01"
-jci_1_3: "jci1.3:c:BWBR0006099&z=2014-03-15&g=2014-03-15"
-jci_1_0: "1.0:c:BWBR0006099&g=2014-03-15"
-citeertitel_status: "officieel"
-short_title: "Regeling gelijkstelling buitenlandse bewijzen van bevoegdheid"
-signed_date: "1993-07-27"
-entry_into_force: "1993-08-01"
+publicatiedatum: 1993-08-01
+laatste_update: 2014-03-15
+status: geldig
+toestand: 2014-03-15
+bron: "https://wetten.overheid.nl/BWBR0006099"
+opgehaald: 2026-08-01
 ---
+
 # Regeling Gelijkstelling buitenlandse bewijzen van bevoegdheid
-
-Gelet op de Richtlijn van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de onderlinge erkenning van bewijzen van bevoegdheid voor burgerluchtvaartpersoneel (91/670/EEG);
-
-Gelet op [artikel 31, eerste lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=31) (Stb. 1959, 67);
-
-Besluit:
 
 ### Hoofdstuk I. Individuele gelijkstellingen
 
@@ -59,7 +32,7 @@ Deze regeling berust op [artikel 12 van het Besluit bewijzen van bevoegdheid voo
 
 ##### Artikel 3. Bewijzen van bevoegdheid afgegeven in niet-E.G.-lidstaten
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. Individuele gelijkstellingen voor beroepsvluchten en verkeersvluchten
 
@@ -67,31 +40,31 @@ Vervallen
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 #### § 2. Bewijzen van bevoegdheid afgegeven in E.G.-lidstaten
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 #### § 3. Bewijzen van bevoegdheid afgegeven in niet-E.G.-lidstaten
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 #### Artikel III. Hoofdstuk III Procedurele bepalingen inzake individuele gelijkstellingen
 
@@ -103,7 +76,7 @@ Vervallen
 
 ##### Artikel 11. De geldigheidsduur
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. Schorsing, intrekking en vernieuwing
 
@@ -137,21 +110,21 @@ Het bepaalde in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005
 
 ##### Artikel 17. Procedurele bepalingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21. Intrekking bestaande regeling
 
@@ -166,11 +139,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 1993.
 Deze regeling kan worden aangehaald als: Regeling gelijkstelling buitenlandse bewijzen van bevoegdheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage A
-
-Vervallen
-
-## Bijlage B
-
-Vervallen

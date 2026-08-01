@@ -1,40 +1,17 @@
 ---
 title: "Instelling dienst Informatievoorziening Overheidspersoneel"
 identifier: "BWBR0006576"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-04-20"
-last_updated: "1994-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006576"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4475153"
-version_id: "6281442"
-internal_id: "C6485651"
-label_id: "4453524"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006576/1994-04-20/0"
-intitule_bron: "Stcrt.1994-74"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-30"
-intitule_published: "1994-04-18"
-intitule_in_force: "1994-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-74"
-original_signed_date: "1994-03-30"
-original_published_date: "1994-04-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-04-20"
-jci_1_3: "jci1.3:c:BWBR0006576&z=1994-04-20&g=1994-04-20"
-jci_1_0: "1.0:c:BWBR0006576&g=1994-04-20"
-citeertitel_status: "officieel"
-signed_date: "1994-03-30"
-entry_into_force: "1994-04-20"
+publicatiedatum: 1994-04-20
+laatste_update: 1994-04-20
+status: geldig
+toestand: 1994-04-20
+bron: "https://wetten.overheid.nl/BWBR0006576"
+opgehaald: 2026-08-01
 ---
-# Instelling dienst Informatievoorziening Overheidspersoneel
 
-Besluit:
+# Instelling dienst Informatievoorziening Overheidspersoneel
 
 I. Er is een dienst Informatievoorziening Overheidspersoneel (IVOP). IVOP ressorteert organisatorisch rechtstreeks onder de plv. directeur-generaal Management en Personeelsbeleid (plv. DGMP). De plv. DGMP is verantwoordelijk voor die zaken waarbij de politieke en beheersmatige aanspreekbaarheid van de Minister betreffende IVOP en het Interdepartementale Personeelsinformatie Automatiseringssysteem (IPA-systeem) in het geding kan zijn.
 
@@ -58,51 +35,51 @@ III. IVOP bestaat uit:
 
 IV. De onder III genoemde organisatie-eenheden zijn belast met de volgende taken:
 
-- ad 1. De directeur is belast met de leiding van de dienst.
+- ad 1 De directeur is belast met de leiding van de dienst.
 
-- ad 2. Het directiebureau is verantwoordelijk voor: de ondersteuning van de afdelingen in alle facetten van de uitvoering van hun taken. Uit deze verantwoordelijkheid vloeit voort, dat het zorg draagt voor:
+- ad 2 Het directiebureau is verantwoordelijk voor: de ondersteuning van de afdelingen in alle facetten van de uitvoering van hun taken. Uit deze verantwoordelijkheid vloeit voort, dat het zorg draagt voor:
 
-- het voorbereiden en mede uitvoeren van een intern beleid;
+   - het voorbereiden en mede uitvoeren van een intern beleid;
 
-- het voorbereiden en mede uitvoeren van een extern beleid binnen de gestelde kaders, waarin de voorlichting, acquisitie en externe profilering gestalte krijgen;
+   - het voorbereiden en mede uitvoeren van een extern beleid binnen de gestelde kaders, waarin de voorlichting, acquisitie en externe profilering gestalte krijgen;
 
-- het kwaliteitsbeleid, waarin normen en methoden worden ontwikkeld;
+   - het kwaliteitsbeleid, waarin normen en methoden worden ontwikkeld;
 
-- het personeelsbeleid, waarin de zorg voor individuele ontplooiing is verankerd;
+   - het personeelsbeleid, waarin de zorg voor individuele ontplooiing is verankerd;
 
-- het financieel beleid, waarin het bedrijfsmatige karakter van IVOP gestalte wordt gegeven;
+   - het financieel beleid, waarin het bedrijfsmatige karakter van IVOP gestalte wordt gegeven;
 
-- een adequate ondersteuning van de AVD en het Bestuur van het Samenwerkingsverband IPA-systeem;
+   - een adequate ondersteuning van de AVD en het Bestuur van het Samenwerkingsverband IPA-systeem;
 
-- de facilitaire ondersteuning van de afdelingen;
+   - de facilitaire ondersteuning van de afdelingen;
 
-- ad 3. De afdeling Salarisinformatiesystemen is verantwoordelijk voor: de uitvoering van de salarisbetaling en de daarbij behorende verantwoording. Uit deze verantwoordelijkheid vloeit voort, dat zij zorg draagt voor:
+- ad 3 De afdeling Salarisinformatiesystemen is verantwoordelijk voor: de uitvoering van de salarisbetaling en de daarbij behorende verantwoording. Uit deze verantwoordelijkheid vloeit voort, dat zij zorg draagt voor:
 
-- een juiste interpretatie van de regelgeving, zodat de systemen overeenstemmen met de wet- en regelgeving;
+   - een juiste interpretatie van de regelgeving, zodat de systemen overeenstemmen met de wet- en regelgeving;
 
-- een goede verwerking van de salarisgegevens zodanig dat de aanlevering van deze gegevens alsmede de annexe informatievoorziening de gebruikers in staat stelt hun verantwoordelijkheden in te vullen;
+   - een goede verwerking van de salarisgegevens zodanig dat de aanlevering van deze gegevens alsmede de annexe informatievoorziening de gebruikers in staat stelt hun verantwoordelijkheden in te vullen;
 
-- een adequate advisering omtrent de organisatie van de salarisadministratie en het gebruik en de mogelijkheden van het salarissysteem;
+   - een adequate advisering omtrent de organisatie van de salarisadministratie en het gebruik en de mogelijkheden van het salarissysteem;
 
-- het voorbereiden en uitvoeren van een extern beleid binnen de gestelde kaders, waarin de voorlichting, acquisitie en externe profilering gestalte krijgen.
+   - het voorbereiden en uitvoeren van een extern beleid binnen de gestelde kaders, waarin de voorlichting, acquisitie en externe profilering gestalte krijgen.
 
-- ad 4. De afdeling Personeelsinformatie is verantwoordelijk voor; het ontwikkelen en in stand houden van ondersteunende instrumenten ten behoeve van het personeelsbeleid en de informatievoorziening ten behoeve van de beleidmakers en -uitvoerders. Uit deze verantwoordelijkheid vloeit voort, dat zij zorg draagt voor:
+- ad 4 De afdeling Personeelsinformatie is verantwoordelijk voor; het ontwikkelen en in stand houden van ondersteunende instrumenten ten behoeve van het personeelsbeleid en de informatievoorziening ten behoeve van de beleidmakers en -uitvoerders. Uit deze verantwoordelijkheid vloeit voort, dat zij zorg draagt voor:
 
-- de ontwikkeling en instandhouding van het instrumentarium ten behoeve van beleidsformulering en -uitvoering op het gebied van personeelsmanagement;
+   - de ontwikkeling en instandhouding van het instrumentarium ten behoeve van beleidsformulering en -uitvoering op het gebied van personeelsmanagement;
 
-- adequate informatievoorziening naar het personeelsmanagement ter ondersteuning van de beleidsvoorbereiding en -uitvoering;
+   - adequate informatievoorziening naar het personeelsmanagement ter ondersteuning van de beleidsvoorbereiding en -uitvoering;
 
-- een adequate advisering inzake informatievoorziening op het gebied van personeelsmanagement;
+   - een adequate advisering inzake informatievoorziening op het gebied van personeelsmanagement;
 
-- het voorbereiden en uitvoeren van een extern beleid binnen de gestelde kaders, waarin de voorlichting, acquisitie en externe profilering gestalte krijgen, zodat IVOP zich positief kan onderscheiden van de concurrentie op haar marktgebied.
+   - het voorbereiden en uitvoeren van een extern beleid binnen de gestelde kaders, waarin de voorlichting, acquisitie en externe profilering gestalte krijgen, zodat IVOP zich positief kan onderscheiden van de concurrentie op haar marktgebied.
 
-- ad 5. De afdeling Exploitatie is verantwoordelijk voor: het leveren van een facilitaire bijdrage aan de overige afdelingen en gebruikers van de systemen op technisch gebied en de inbreng van de noodzakelijke kennis op het gebied van automatisering, waar de oplossingen tot geautomatiseerde systemen leiden. Uit deze verantwoordelijkheid vloeit voort, dat zij zorg draagt voor:
+- ad 5 De afdeling Exploitatie is verantwoordelijk voor: het leveren van een facilitaire bijdrage aan de overige afdelingen en gebruikers van de systemen op technisch gebied en de inbreng van de noodzakelijke kennis op het gebied van automatisering, waar de oplossingen tot geautomatiseerde systemen leiden. Uit deze verantwoordelijkheid vloeit voort, dat zij zorg draagt voor:
 
-- het logisch gegevensbeheer, zodat de juiste interpretatie van de gegevens eenduidig vastligt;
+   - het logisch gegevensbeheer, zodat de juiste interpretatie van de gegevens eenduidig vastligt;
 
-- een adequate advisering naar interne en externe gebruikers (vanuit de bij de afdeling aanwezige automatiseringskennis ten aanzien van systemen en infrastructuur), zodat efficiënt gebruik kan worden gemaakt van systemen en middelen.
+   - een adequate advisering naar interne en externe gebruikers (vanuit de bij de afdeling aanwezige automatiseringskennis ten aanzien van systemen en infrastructuur), zodat efficiënt gebruik kan worden gemaakt van systemen en middelen.
 
-- de ontwikkeling en instandhouding van de geautomatiseerde informatiesystemen;
+   - de ontwikkeling en instandhouding van de geautomatiseerde informatiesystemen;
 
 V. Het besluit van 26 oktober 1990, nr. MPA90/47/U13, wordt ingetrokken.
 

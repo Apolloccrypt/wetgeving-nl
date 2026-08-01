@@ -1,49 +1,46 @@
 ---
 title: "Beschikking houdende voorschriften inzake het organiseren van de instantloterij"
+citeertitel: "Beschikking instantloterij"
 identifier: "BWBR0006381"
-country: "nl"
-rank: "zbo"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006381"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "3936073"
-version_id: "5699302"
-internal_id: "C5892301"
-label_id: "3916254"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006381/1996-01-01/0"
-intitule_bron: "Stcrt.1994-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-28"
-intitule_published: "1994-01-07"
-intitule_in_force: "1994-01-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-5"
-original_signed_date: "1993-12-28"
-original_published_date: "1994-01-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBR0006381&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBR0006381&g=1996-01-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking instantloterij"
-signed_date: "1993-12-28"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBR0006381"
+opgehaald: 2026-08-01
 ---
+
 # Beschikking houdende voorschriften inzake het organiseren van de instantloterij
-
-Voorzover nodig in overeenstemming met de Staatssecretaris van Financiën,
-
-Gelet op de [artikelen 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14b) en [14c van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c) (Stb. 1964, 483);
-
-Besluiten:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
+
+de wet:
+
+de Wet op de kansspelen;
+
+de ministers:
+
+de Minister van Justitie en de Minister van Welzijn, Volksgezondheid en Cultuur;
+
+de stichting:
+
+de Stichting Nationale Instantloterij, gevestigd te 's-Gravenhage;
+
+verkooppunt:
+
+een inrichting als bedoeld in artikel 14c, tweede lid, onderdeel b, van de wet;
+
+uitgifte van deelnamebewijzen:
+
+het door de stichting leveren van deelnamebewijzen aan de verkooppunten;
+
+het college:
+
+het college van toezicht op de kansspelen als bedoeld in artikel 33 van de wet.
 
 ##### Artikel 2
 

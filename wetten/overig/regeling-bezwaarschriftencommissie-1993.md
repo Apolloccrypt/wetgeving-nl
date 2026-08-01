@@ -1,44 +1,39 @@
 ---
 title: "Regeling bezwaarschriftencommissie 1993"
 identifier: "BWBR0006239"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006239"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3974993"
-version_id: "5748152"
-internal_id: "C5950881"
-label_id: "3955064"
-dtd_version: "2.0"
-original_entry_into_force: "1993-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006239/1995-01-01/0"
-intitule_bron: "Stcrt.1993-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-11-11"
-intitule_published: "1993-11-18"
-intitule_in_force: "1993-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-222"
-original_signed_date: "1993-11-11"
-original_published_date: "1993-11-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-11-20"
-jci_1_3: "jci1.3:c:BWBR0006239&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0006239&g=1995-01-01"
-citeertitel_status: "officieel"
-signed_date: "1993-11-11"
-entry_into_force: "1993-11-20"
+publicatiedatum: 1993-11-20
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0006239"
+opgehaald: 2026-08-01
 ---
-# Regeling bezwaarschriftencommissie 1993
 
-Besluit:
+# Regeling bezwaarschriftencommissie 1993
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+commissie:
+
+commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006239&artikel=2&z=1995-01-01&g=1995-01-01);
+
+b.
+
+ministerie:
+
+Ministerie van Landbouw, Natuurbeheer en Visserij;
+
+c.
+
+minister:
+
+Minister van Landbouw, Natuurbeheer en Visserij.
 
 ##### Artikel 2
 

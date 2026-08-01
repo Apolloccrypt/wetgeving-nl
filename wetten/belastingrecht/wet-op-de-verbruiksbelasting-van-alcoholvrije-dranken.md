@@ -1,44 +1,18 @@
 ---
 title: "Wet van 24 december 1992, tot vaststelling van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
+citeertitel: "Wet op de verbruiksbelasting van alcoholvrije dranken"
 identifier: "BWBR0005802"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005802"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "1388153"
-version_id: "2083492"
-internal_id: "C2083491"
-label_id: "1346704"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005802/2025-01-01/0"
-intitule_bron: "Stb.1992-683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-24"
-intitule_status: "goed"
-original_publication: "Stb.1992-683"
-original_signed_date: "1992-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "22843"
-entry_into_force_date: "1993-01-01"
-entry_into_force_dossier: "22843"
-jci_1_3: "jci1.3:c:BWBR0005802&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0005802&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de verbruiksbelasting van alcoholvrije dranken"
-signed_date: "1992-12-24"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0005802"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 24 december 1992, tot vaststelling van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met de aanpassing van de wetgeving inzake accijnzen aan de Richtlijn van de Raad van de Europese Gemeenschappen betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (92/12/EEG van 25 februari 1992; **PbEG** L 76) wenselijk is een afzonderlijke wettelijke regeling in te voeren voor het stelsel van heffing van de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -47,6 +21,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ##### Artikel 1
 
 Krachtens deze wet wordt een verbruiksbelasting geheven ter zake van de uitslag en de invoer van alcoholvrije dranken.
+
+##### Artikel 1a
+
+*Vervallen*
 
 ##### Artikel 2
 
@@ -70,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. ondernemer: een ondernemer in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
 
-- j. GN-code: de code, bedoeld in [Verordening (EEG) nr. 2658/87](31987R2658) van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256), zoals deze luidde op 1 januari 2022.
+- j. GN-code: de code, bedoeld in Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256), zoals deze luidde op 1 januari 2022.
 
 ##### Artikel 3
 
@@ -150,8 +128,6 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Definities van de goederen en tarieven
 
-### Afdeling 1. Alcoholvrije dranken
-
 ##### Artikel 6
 
 Onder alcoholvrije dranken worden verstaan vruchten- en groentesap, limonade en water, mineraalwater en spuitwater voor zover niet vallend onder GN-code 2201, ook indien zij alcohol bevatten, voor zover zij niet worden aangemerkt als bier, wijn, tussenproducten of overige alcoholhoudende producten in de zin van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251).
@@ -164,7 +140,7 @@ Onder alcoholvrije dranken worden verstaan vruchten- en groentesap, limonade en 
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -180,29 +156,27 @@ Vervallen
 
 ##### Artikel 10
 
-1. De belasting bedraagt per hectoliter € 26,13.
+1. De belasting bedraagt per hectoliter € 26,13.
 
 2. Voor de toepassing van het eerste lid geschiedt de herleiding van vruchtensap, groentesap en limonade in vaste of geconcentreerde vorm naar het volume van voor gebruik gereed vruchten- en groentesap of voor gebruik gerede limonade op basis van de factor 4, waarbij voor het herleiden van vruchtensap, groentesap en limonade in vaste vorm een gram wordt gelijkgesteld aan een milliliter.
 
 3. Bij ministeriële regeling kunnen met betrekking tot alcoholvrije dranken in kleinhandelsverpakking nadere regels worden gesteld.
 
-### Afdeling 2. Pruimtabak en snuiftabak
-
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Uitslag
 
-### Afdeling 1. Inrichting
+#### Afdeling 1. Inrichting
 
 ##### Artikel 14
 
@@ -210,7 +184,7 @@ Vervallen
 
 2. De [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) en [41 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=41) zijn van overeenkomstige toepassing.
 
-### Afdeling 2. Vergunning
+#### Afdeling 2. Vergunning
 
 ##### Artikel 15
 
@@ -218,7 +192,23 @@ Vervallen
 
 2. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42) en [43 tot en met 50 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43) zijn van overeenkomstige toepassing.
 
-### Afdeling 3. Wijze van heffing en voldoening
+##### Artikel 15a
+
+1. Een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2025-01-01&g=2025-01-01), is niet vereist indien:
+
+- a. per kalenderjaar doorgaans niet meer dan 12.000 liter vruchten- of groentesap wordt vervaardigd; en
+
+- b. uitsluitend vruchten- of groentesap wordt vervaardigd.
+
+2. Indien in twee achtereenvolgende kalenderjaren meer dan 12.000 liter vruchten- of groentesap per kalenderjaar is vervaardigd, moet een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2025-01-01&g=2025-01-01), worden aangevraagd.
+
+3. De vergunning, bedoeld in het tweede lid, wordt verleend voor een periode van ten minste vijf jaar.
+
+4. Binnen de periode van vijf jaar, bedoeld in het derde lid, kan de vergunninghouder geen verzoek indienen om intrekking van de vergunning, tenzij geen vruchten- of groentesap meer wordt vervaardigd.
+
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
+
+#### Afdeling 3. Wijze van heffing en voldoening
 
 ##### Artikel 16
 
@@ -258,7 +248,7 @@ In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&ho
 
 De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=54) en [55 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=55) zijn van overeenkomstige toepassing.
 
-### Afdeling 4. Zekerheid
+#### Afdeling 4. Zekerheid
 
 ##### Artikel 23
 
@@ -266,7 +256,7 @@ De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=54) en
 
 2. De [artikelen 56, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=57) tot en met [60 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=60) zijn van overeenkomstige toepassing.
 
-### Afdeling 5. Voorrecht
+#### Afdeling 5. Voorrecht
 
 ##### Artikel 24
 
@@ -274,7 +264,7 @@ De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=54) en
 
 2. Het voorrecht, bedoeld in het eerste lid, heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van [artikel 21 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=21).
 
-### Afdeling 6. Hoofdelijke aansprakelijkheid
+#### Afdeling 6. Hoofdelijke aansprakelijkheid
 
 ##### Artikel 25
 
@@ -294,11 +284,11 @@ Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [
 
 ### Hoofdstuk V. Vrijstellingen en teruggaven
 
-### Afdeling 1. Vrijstellingen
+#### Afdeling 1. Vrijstellingen
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
@@ -324,7 +314,7 @@ Vervallen
 
 De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68) en [69 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69) en de [artikelen 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21a) en [21b van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21b) zijn van overeenkomstige toepassing.
 
-### Afdeling 2. Teruggaven
+#### Afdeling 2. Teruggaven
 
 ##### Artikel 32
 
@@ -334,9 +324,9 @@ De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68) en
 
 - b. artikel 30.
 
-2. De in het eerste lid, onderdeel **a**, bedoelde teruggaaf wordt verleend aan degene die een vergunning heeft ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2025-01-01&g=2025-01-01).
+2. De in het eerste lid, onderdeel *a*, bedoelde teruggaaf wordt verleend aan degene die een vergunning heeft ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2025-01-01&g=2025-01-01).
 
-3. De in het eerste lid, onderdeel **b**, bedoelde teruggaaf wordt verleend aan degene die de levering heeft verricht.
+3. De in het eerste lid, onderdeel *b*, bedoelde teruggaaf wordt verleend aan degene die de levering heeft verricht.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -364,19 +354,19 @@ De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68) en
 
 ### Hoofdstuk VI. Bijzondere bepalingen
 
-### Afdeling 1. Belastingzegels
+#### Afdeling 1. Belastingzegels
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2. Controlebepalingen
+#### Afdeling 2. Controlebepalingen
 
 ##### Artikel 36
 
 De [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=80), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=83) en [84 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84) zijn van overeenkomstige toepassing.
 
-### Afdeling 3. Overige bepalingen
+#### Afdeling 3. Overige bepalingen
 
 ##### Artikel 37
 
@@ -390,7 +380,7 @@ De [artikelen 2, vijfde, zesde, zevende en elfde lid](https://wetten.overheid.nl
 
 ### Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
 
-### Afdeling 1. Verbodsbepalingen
+#### Afdeling 1. Verbodsbepalingen
 
 ##### Artikel 39
 
@@ -404,9 +394,9 @@ De [artikelen 2, vijfde, zesde, zevende en elfde lid](https://wetten.overheid.nl
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2. Strafbepalingen
+#### Afdeling 2. Strafbepalingen
 
 ##### Artikel 41
 
@@ -418,7 +408,7 @@ Degene die opzettelijk alcoholvrije dranken waarvoor vrijstelling of teruggaaf v
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -429,101 +419,3 @@ Deze wet treedt in werking met ingang van 1 januari 1993.
 ##### Artikel 45
 
 Deze wet wordt aangehaald als: Wet op de verbruiksbelasting van alcoholvrije dranken.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-Vervallen
-
-### Hoofdstuk II. Definities van de goederen en tarieven
-
-### Afdeling 1. Alcoholvrije dranken
-
-### Afdeling 2. Pruimtabak en snuiftabak
-
-### Hoofdstuk III. Uitslag
-
-### Afdeling 2. Vergunning
-
-### Afdeling 2. Vergunning
-
-### Afdeling 3. Wijze van heffing en voldoening
-
-### Afdeling 4. Zekerheid
-
-### Afdeling 5. Voorrecht
-
-### Afdeling 6. Hoofdelijke aansprakelijkheid
-
-### Hoofdstuk IV. Invoer
-
-### Hoofdstuk V. Vrijstellingen en teruggaven
-
-### Afdeling 1. Vrijstellingen
-
-### Afdeling 2. Teruggaven
-
-### Hoofdstuk VI. Bijzondere bepalingen
-
-### Afdeling 1. Belastingzegels
-
-### Afdeling 2. Controlebepalingen
-
-### Afdeling 3. Overige bepalingen
-
-### Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
-
-### Afdeling 1. Verbodsbepalingen
-
-### Afdeling 2. Strafbepalingen
-
-### Hoofdstuk VIII. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15a
-
-1. Een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2025-01-01&g=2025-01-01), is niet vereist indien:
-
-- a. per kalenderjaar doorgaans niet meer dan 12.000 liter vruchten- of groentesap wordt vervaardigd; en
-
-- b. uitsluitend vruchten- of groentesap wordt vervaardigd.
-
-2. Indien in twee achtereenvolgende kalenderjaren meer dan 12.000 liter vruchten- of groentesap per kalenderjaar is vervaardigd, moet een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2025-01-01&g=2025-01-01), worden aangevraagd.
-
-3. De vergunning, bedoeld in het tweede lid, wordt verleend voor een periode van ten minste vijf jaar.
-
-4. Binnen de periode van vijf jaar, bedoeld in het derde lid, kan de vergunninghouder geen verzoek indienen om intrekking van de vergunning, tenzij geen vruchten- of groentesap meer wordt vervaardigd.
-
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
-
-### Afdeling 3. Wijze van heffing en voldoening
-
-### Afdeling 6. Hoofdelijke aansprakelijkheid
-
-### Hoofdstuk IV. Invoer
-
-### Hoofdstuk V. Vrijstellingen en teruggaven
-
-### Afdeling 1. Vrijstellingen
-
-### Afdeling 2. Teruggaven
-
-### Hoofdstuk VI. Bijzondere bepalingen
-
-### Afdeling 3. Overige bepalingen
-
-### Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
-
-### Afdeling 1. Verbodsbepalingen
-
-### Afdeling 2. Strafbepalingen
-
-### Hoofdstuk VIII. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk III. Uitslag
-
-### Afdeling 1. Inrichting

@@ -1,54 +1,43 @@
 ---
 title: "Regeling uitvoering WOB Algemene Zaken"
 identifier: "BWBR0005550"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-06-25"
-last_updated: "1992-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005550"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3781743"
-version_id: "5564752"
-internal_id: "C5757841"
-label_id: "3761634"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005550/1992-06-25/0"
-intitule_bron: "Stcrt.1992-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-18"
-intitule_published: "1992-06-23"
-intitule_in_force: "1992-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-118"
-original_signed_date: "1992-06-18"
-original_published_date: "1992-06-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-06-25"
-jci_1_3: "jci1.3:c:BWBR0005550&z=1992-06-25&g=1992-06-25"
-jci_1_0: "1.0:c:BWBR0005550&g=1992-06-25"
-citeertitel_status: "officieel"
-signed_date: "1992-06-18"
-entry_into_force: "1992-06-25"
+publicatiedatum: 1992-06-25
+laatste_update: 1992-06-25
+status: geldig
+toestand: 1992-06-25
+bron: "https://wetten.overheid.nl/BWBR0005550"
+opgehaald: 2026-08-01
 ---
+
 # Regeling uitvoering WOB Algemene Zaken
-
-Overwegende dat de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van die wet.
-
-Besluit:
-
-Vast te stellen de volgende regeling ter uitvoering van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
 ### Hoofdstuk I
 
-#### **Definities**
+#### Definities
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### **Register**
+de wet:
+
+de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703);
+
+gemachtigd ambtenaar:
+
+een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;
+
+informatiepunt:
+
+een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;
+
+de minister:
+
+de Minister-President. Minister van Algemene Zaken.
+
+#### Register
 
 ##### Artikel 2
 
@@ -64,13 +53,13 @@ In deze regeling wordt verstaan onder:
 
 4. Met het bijhouden van het register is belast de Rijksvoorlichtingsdienst.
 
-#### **Gemachtigd ambtenaar**
+#### Gemachtigd ambtenaar
 
 ##### Artikel 3
 
 Als gemachtigd ambtenaar wordt aangewezen de secretaris-generaal en bij diens afwezigheid of ontstentenis de waarnemend secretaris-generaal.
 
-#### **Informatiepunten**
+#### Informatiepunten
 
 ##### Artikel 4
 
@@ -118,7 +107,7 @@ De gemachtigd ambtenaar legt een verzoek om informatie aan de minister voor indi
 
 ### Hoofdstuk III. Informatie uit eigen beweging
 
-#### **Adviezen**
+#### Adviezen
 
 ##### Artikel 9
 

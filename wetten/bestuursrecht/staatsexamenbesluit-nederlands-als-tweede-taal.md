@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 14 oktober 1993, houdende vaststelling van het Staatsexamenbesluit Nederlands als tweede taal"
+citeertitel: "Staatsexamenbesluit Nederlands als tweede taal"
 identifier: "BWBR0006192"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006192"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "933863"
-version_id: "1367722"
-internal_id: "C1367721"
-label_id: "906024"
-dtd_version: "2.0"
-original_entry_into_force: "1993-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006192/2022-08-01/0"
-intitule_bron: "Stb.1993-569"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-10-14"
-intitule_status: "goed"
-original_publication: "Stb.1993-569"
-original_signed_date: "1993-10-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-11-13"
-jci_1_3: "jci1.3:c:BWBR0006192&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0006192&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Staatsexamenbesluit Nederlands als tweede taal"
-signed_date: "1993-10-14"
-entry_into_force: "1993-11-13"
+publicatiedatum: 1993-11-13
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0006192"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 14 oktober 1993, houdende vaststelling van het Staatsexamenbesluit Nederlands als tweede taal
-
-Op de voordracht van Onze Minister van Onderwijs en Wetenschappen van 25 mei 1993, nr. 93030035/3245, directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 60, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60);
-
-Gezien het advies van de Onderwijsraad (advies van 11 januari 1993, nr. OR 92000270/S);
-
-De Raad van State gehoord (advies van 31 augustus 1993, nr. W05.93.0327);
-
-Gezien het nader rapport van Onze Minister van Onderwijs en Wetenschappen van 7 oktober 1993, nr. 9307 1358/3245, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -56,7 +26,7 @@ In dit besluit wordt verstaan onder:
 
 "examen": het staatsexamen Nederlands als tweede taal,
 
-"examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
+"examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
 
 "examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-08-01&g=2022-08-01),
 
@@ -84,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Staatsexamencommissie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Toelating tot en indeling van het examen
 
@@ -200,7 +170,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 2. Na afloop van de zes maanden kan het werk worden vernietigd.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. Het College voor toetsen en examens kan, met goedvinden van de kandidaat, de examenresultaten aan derden bekend maken.
 
@@ -238,24 +208,20 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 23. Gelijkstelling certificaten
 
-Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-08-01&g=2022-08-01).
+Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (*Uitleg OenW-Regelingen* 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-08-01&g=2022-08-01).
 
-##### Artikel 24. Overgangsbepaling vanwege de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
+##### Artikel 24. Overgangsbepaling vanwege de inwerkingtreding van de Wet inburgering 2021
 
 Op een inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1) zoals die luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), op wie het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) van toepassing was op de dag voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555), blijft [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-08-01&g=2022-08-01), van het Staatsexamenbesluit Nederlands als tweede taal, zoals dit luidde op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, van toepassing.
-
-##### Artikel 25. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-##### Artikel 26. Citeertitel
-
-Dit besluit wordt aangehaald als: Staatsexamenbesluit Nederlands als tweede taal.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 ##### Artikel 24*. Omhangbepaling
 
 Dit besluit berust op [artikel 2.72, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 25. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
+
+##### Artikel 26. Citeertitel
+
+Dit besluit wordt aangehaald als: Staatsexamenbesluit Nederlands als tweede taal.

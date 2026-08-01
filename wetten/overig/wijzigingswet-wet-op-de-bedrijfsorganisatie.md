@@ -1,99 +1,74 @@
 ---
 title: "Wet van 24 juni 1992, houdende wijziging van de Wet op de Bedrijfsorganisatie"
+citeertitel: "Wijzigingswet Wet op de Bedrijfsorganisatie"
 identifier: "BWBR0005572"
-country: "nl"
-rank: "wet"
-publication_date: "1992-10-01"
-last_updated: "1992-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005572"
+categorie: "Overig"
 soort: "wet"
-stam_id: "530383"
-version_id: "778972"
-internal_id: "C778971"
-label_id: "515234"
-dtd_version: "2.0"
-original_entry_into_force: "1992-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005572/1992-10-01/0"
-intitule_bron: "Stb.1992-409"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-24"
-intitule_status: "goed"
-original_publication: "Stb.1992-409"
-original_signed_date: "1992-06-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "21657"
-entry_into_force_date: "1992-10-01"
-jci_1_3: "jci1.3:c:BWBR0005572&z=1992-10-01&g=1992-10-01"
-jci_1_0: "1.0:c:BWBR0005572&g=1992-10-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de Bedrijfsorganisatie"
-signed_date: "1992-06-24"
-entry_into_force: "1992-10-01"
+publicatiedatum: 1992-10-01
+laatste_update: 1992-10-01
+status: geldig
+toestand: 1992-10-01
+bron: "https://wetten.overheid.nl/BWBR0005572"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 24 juni 1992, houdende wijziging van de Wet op de Bedrijfsorganisatie
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de positie van de publiekrechtelijke bedrijfslichamen ten opzichte van de overheid te verzelfstandigen, alsmede in de [Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) enkele andere wijzigingen aan te brengen waaraan behoefte gebleken is;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel X
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XIV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XV
 
@@ -126,5 +101,3 @@ Zolang op een wet of een algemene maatregel van bestuur als bedoeld in [artikel 
 ##### Artikel XVIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,18 @@
 ---
 title: "Wet van 10 mei 1994, houdende regeling inzake de adeldom"
+citeertitel: "Wet op de adeldom"
 identifier: "BWBR0006667"
-country: "nl"
-rank: "wet"
-publication_date: "2002-06-12"
-last_updated: "2002-06-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006667"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2071203"
-version_id: "3098882"
-internal_id: "C3098881"
-label_id: "2019474"
-dtd_version: "2.0"
-original_entry_into_force: "1994-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006667/2002-06-12/0"
-intitule_bron: "Stb.1994-360"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-05-10"
-intitule_status: "goed"
-original_publication: "Stb.1994-360"
-original_signed_date: "1994-05-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "21485"
-entry_into_force_date: "1994-08-01"
-entry_into_force_dossier: "21485"
-jci_1_3: "jci1.3:c:BWBR0006667&z=2002-06-12&g=2002-06-12"
-jci_1_0: "1.0:c:BWBR0006667&g=2002-06-12"
-citeertitel_status: "officieel"
-short_title: "Wet op de adeldom"
-signed_date: "1994-05-10"
-entry_into_force: "1994-08-01"
+publicatiedatum: 1994-08-01
+laatste_update: 2002-06-12
+status: geldig
+toestand: 2002-06-12
+bron: "https://wetten.overheid.nl/BWBR0006667"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 10 mei 1994, houdende regeling inzake de adeldom
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat op grond van additioneel artikel XXV van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) een voorziening moet worden getroffen ter zake van de adeldom;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -84,7 +58,7 @@ Adeldom wordt vermeld op officiële documenten waar dit vereist is, tenzij de be
 
 ##### Artikel 7
 
-1. Bevat wijzigingen in andere regelgeving.
+1. *Bevat wijzigingen in andere regelgeving.*
 
 2. De bestaande regelingen met betrekking tot adeldom en de Hoge Raad van Adel kunnen worden gewijzigd bij algemene maatregel van bestuur.
 
@@ -95,5 +69,3 @@ Inlijving in de Nederlandse adel kan plaatsvinden ten aanzien van personen wier 
 ##### Artikel 9
 
 Deze wet kan worden aangehaald als Wet op de adeldom.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,39 +1,17 @@
 ---
 title: "Bijdrageregeling milieuvriendelijke vervoertechnieken"
 identifier: "BWBR0005680"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-08-04"
-last_updated: "1994-08-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005680"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "5725673"
-version_id: "10228292"
-internal_id: "C13810521"
-label_id: "5705974"
-original_entry_into_force: "1992-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005680/1994-08-04/0"
-intitule_bron: "Stcrt.1992-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-10-08"
-intitule_published: "1992-10-19"
-intitule_in_force: "1992-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-202"
-original_signed_date: "1992-10-08"
-original_published_date: "1992-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-10-20"
-jci_1_3: "jci1.3:c:BWBR0005680&z=1994-08-04&g=1994-08-04"
-jci_1_0: "1.0:c:BWBR0005680&g=1994-08-04"
-citeertitel_status: "officieel"
-signed_date: "1992-10-08"
-entry_into_force: "1992-10-20"
+publicatiedatum: 1992-10-20
+laatste_update: 1994-08-04
+status: geldig
+toestand: 1994-08-04
+bron: "https://wetten.overheid.nl/BWBR0005680"
+opgehaald: 2026-08-01
 ---
-# Bijdrageregeling milieuvriendelijke vervoertechnieken
 
-Besluit:
+# Bijdrageregeling milieuvriendelijke vervoertechnieken
 
 #### § 1. Algemene bepalingen
 
@@ -41,15 +19,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Verkeer en Waterstaat;
+- a. *de Minister:* de Minister van Verkeer en Waterstaat;
 
-- b. **Senter:** Senter, uitvoeringsinstantie voor technologie, energie en milieu, agentschap van het Ministerie van Economische Zaken;
+- b. *Senter:* Senter, uitvoeringsinstantie voor technologie, energie en milieu, agentschap van het Ministerie van Economische Zaken;
 
-- c. **bekendmaking:** bekendmaking, bedoeld in artikel 2;
+- c. *bekendmaking:* bekendmaking, bedoeld in artikel 2;
 
-- d. **aanvraag:**aanvraag om een financiële bijdrage als bedoeld in artikel 3;
+- d. *aanvraag:*aanvraag om een financiële bijdrage als bedoeld in artikel 3;
 
-- e. **aanvrager:** degene die een aanvraag heeft ingediend.
+- e. *aanvrager:* degene die een aanvraag heeft ingediend.
 
 ##### Artikel 2
 
@@ -97,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-vervallen
+*vervallen*
 
 ##### Artikel 8
 
@@ -146,5 +124,3 @@ Deze regeling treedt in werking met ingang van de dag, volgende op de datum van 
 ##### Artikel 12
 
 Deze regeling kan worden aangehaald als bijdrageregeling milieuvriendelijke vervoertechnieken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

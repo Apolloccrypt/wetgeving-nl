@@ -1,45 +1,48 @@
 ---
 title: "Regeling van de Minister van Justitie, (nr. 426911/594/NE) houdende vaststelling van het politielegitimatiebewijs ten behoeve van enige ambtenaren van politie werkzaam bij het Korps landelijke politiediensten en de bijzondere ambtenaren van politie"
+citeertitel: "Vaststelling politielegitimatiebewijs"
 identifier: "BWBR0006488"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006488"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3761173"
-version_id: "5544072"
-internal_id: "C5737161"
-label_id: "3740954"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006488/1994-04-01/0"
-intitule_bron: "Stcrt.1994-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-22"
-intitule_published: "1994-03-04"
-intitule_in_force: "1994-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-45"
-original_signed_date: "1994-02-22"
-original_published_date: "1994-03-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBR0006488&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0006488&g=1994-04-01"
-citeertitel_status: "officieel"
-short_title: "Vaststelling politielegitimatiebewijs"
-signed_date: "1994-02-22"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0006488"
+opgehaald: 2026-08-01
 ---
-# Regeling van de Minister van Justitie, (nr. 426911/594/NE) houdende vaststelling van het politielegitimatiebewijs ten behoeve van enige ambtenaren van politie werkzaam bij het Korps landelijke politiediensten en de bijzondere ambtenaren van politie
 
-Besluit:
+# Regeling van de Minister van Justitie, (nr. 426911/594/NE) houdende vaststelling van het politielegitimatiebewijs ten behoeve van enige ambtenaren van politie werkzaam bij het Korps landelijke politiediensten en de bijzondere ambtenaren van politie
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+Korps landelijke politiediensten:
+
+het Korps landelijke politiediensten, bedoeld in [artikel 38 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=38);
+
+b.
+
+korpschef:
+
+de korpschef van het Korps landelijke politiediensten;
+
+c.
+
+ambtenaar:
+
+- 1o. de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder a en c van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3);
+
+- 2o. de door of namens de Minister van Justitie aangewezen ambtenaar als bedoeld in [artikel 3, eerste lid, onder b, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), die over opsporingsbevoegdheid beschikt;
+
+d.
+
+bijzondere ambtenaar:
+
+de bijzondere ambtenaar van politie, bedoeld in [artikel 43 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=43).
 
 ##### Artikel 2
 

@@ -1,43 +1,18 @@
 ---
 title: "Wet van 9 september 1993, tot gemeentelijke herindeling in het noordoostelijke deel van de provincie Noord-Brabant"
+citeertitel: "Wet tot gemeentelijke herindeling noordoostelijke deel van de provincie Noord-Brabant"
 identifier: "BWBR0006137"
-country: "nl"
-rank: "wet"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006137"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "313343"
-version_id: "454822"
-internal_id: "C454821"
-label_id: "306974"
-dtd_version: "2.0"
-original_entry_into_force: "1993-09-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006137/1994-04-01/0"
-intitule_bron: "Stb.1993-476"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-09-09"
-intitule_status: "goed"
-original_publication: "Stb.1993-476"
-original_signed_date: "1993-09-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "22989"
-entry_into_force_date: "1993-09-17"
-jci_1_3: "jci1.3:c:BWBR0006137&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0006137&g=1994-04-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot gemeentelijke herindeling noordoostelijke deel van de provincie Noord-Brabant"
-signed_date: "1993-09-09"
-entry_into_force: "1993-09-17"
+publicatiedatum: 1993-09-17
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0006137"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 9 september 1993, tot gemeentelijke herindeling in het noordoostelijke deel van de provincie Noord-Brabant
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeentelijke indeling in het noordoostelijke deel van de provincie Noord-Brabant te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing gemeenten en instelling nieuwe gemeenten
 
@@ -51,7 +26,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 3
 
-1. **De nieuwe gemeente Oss** bestaat uit het gebied van de op te heffen gemeenten Oss, Berghem en Megen c.a. en delen van de op te heffen gemeenten Heesch, Schaijk en Nistelrode en van de gemeenten Lith en Ravenstein, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.
+1. *De nieuwe gemeente Oss* bestaat uit het gebied van de op te heffen gemeenten Oss, Berghem en Megen c.a. en delen van de op te heffen gemeenten Heesch, Schaijk en Nistelrode en van de gemeenten Lith en Ravenstein, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.
 
 2. De grens met de gemeente Lith volgt:
 
@@ -85,7 +60,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 6. De grens met de nieuwe gemeente Heesch volgt:
 
-- a. Beginnend in het punt, dat het laatst is beschreven in het vijfde lid onder **b**, in overwegend westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie A, nrs. 4636, 5051 en 4962, Berghem, sectie C, nr. 1226, Nistelrode, sectie A, nrs. 4741, 4966, 4490, 4966, 4967 en 4968 enerzijds en nrs. 4937 en 4960, Berghem, sectie C, nr. 1340 en Nistelrode, sectie A, nr. 4973 anderzijds tot in de noordwesthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 4968. Vervolgens in westelijke richting in een rechte lijn tot in de noordoosthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 4969. Van daar af in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie A, nrs. 4969 en 3695 enerzijds en nr. 4973 anderzijds tot in de noordwesthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 3695;
+- a. Beginnend in het punt, dat het laatst is beschreven in het vijfde lid onder *b*, in overwegend westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie A, nrs. 4636, 5051 en 4962, Berghem, sectie C, nr. 1226, Nistelrode, sectie A, nrs. 4741, 4966, 4490, 4966, 4967 en 4968 enerzijds en nrs. 4937 en 4960, Berghem, sectie C, nr. 1340 en Nistelrode, sectie A, nr. 4973 anderzijds tot in de noordwesthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 4968. Vervolgens in westelijke richting in een rechte lijn tot in de noordoosthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 4969. Van daar af in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie A, nrs. 4969 en 3695 enerzijds en nr. 4973 anderzijds tot in de noordwesthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 3695;
 
 - b. Van daar af in westelijke richting in een rechte lijn tot in de noordoosthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 4970 en vervolgens de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie A, nrs. 4970, 5043 en 4972 enerzijds en nr. 4973 anderzijds tot in de noordwesthoek van het perceel, kadastraal bekend gemeente Nistelrode, sectie A, nr. 4972. Vervolgens in westelijke richting in een rechte lijn tot in de noordoosthoek van het perceel, kadastraal bekend gemeente Oss, sectie B, nr. 5073;
 
@@ -93,11 +68,11 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 - d. Van daar af in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Heesch, sectie B, nr. 5455 en sectie A, nrs. 5085, 5278, 5102, 5315 en 5316 enerzijds en sectie B, nrs. 4966, 4721 en 4720 en sectie A, nrs. 5086, 5103, 5104, 5312 en 5511 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Heesch, sectie A, nrs. 5511, 5512 en 5316 aan elkaar grenzen.
 
-7. De grens met de gemeente Maasdonk volgt vanaf het punt, dat in het zesde lid onder **d** het laatst is beschreven, in noordelijke richting de bestaande grens tot aan de gemeente Lith.
+7. De grens met de gemeente Maasdonk volgt vanaf het punt, dat in het zesde lid onder *d* het laatst is beschreven, in noordelijke richting de bestaande grens tot aan de gemeente Lith.
 
 ##### Artikel 4
 
-1. **De nieuwe gemeente Landerd** bestaat uit het gebied van de op te heffen gemeenten Schaijk en Zeeland, delen van de op te heffen gemeenten Grave, Oss en Nistelrode en een deel van de gemeenten Ravenstein en Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.
+1. *De nieuwe gemeente Landerd* bestaat uit het gebied van de op te heffen gemeenten Schaijk en Zeeland, delen van de op te heffen gemeenten Grave, Oss en Nistelrode en een deel van de gemeenten Ravenstein en Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zevende lid.
 
 2. De grens met de gemeente Ravenstein volgt:
 
@@ -129,7 +104,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 - e. Van daar af in westelijke en zuidelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Grave, sectie G, nr. 613, Schaijk, sectie F, nrs. 774, 906, 905, 906 en 538 en 1035 enerzijds en nrs. 1049, 933 en 1010 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Schaijk, sectie F, nrs. 1010 en 1035 en Mill, sectie H, nr. 577 aan elkaar grenzen.
 
-4. De grens met de gemeente Mill c.a. volgt beginnend in het laatste punt, beschreven in het derde lid, onder **e**, de bestaande grens tussen de gemeente Mill c.a. en de op te heffen gemeente Zeeland in zuidelijke richting tot in het punt, waar de bestaande grenzen tussen de op te heffen gemeente Zeeland en de gemeenten Mill c.a. en Uden elkaar raken.
+4. De grens met de gemeente Mill c.a. volgt beginnend in het laatste punt, beschreven in het derde lid, onder *e*, de bestaande grens tussen de gemeente Mill c.a. en de op te heffen gemeente Zeeland in zuidelijke richting tot in het punt, waar de bestaande grenzen tussen de op te heffen gemeente Zeeland en de gemeenten Mill c.a. en Uden elkaar raken.
 
 5. De grens met de gemeente Uden volgt:
 
@@ -141,7 +116,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 6. De grens met de nieuwe gemeente Heesch volgt:
 
-- a. Beginnend in het punt, dat het laatst is beschreven in het vijfde lid, onder **c**, in noordelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Nistelrode, sectie L, nrs. 257, 252 en 312 aan elkaar grenzen. Vervolgens in noordelijke en oostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie L, nrs. 252, 251 en 239 en Schaijk, sectie I, nr. 116 enerzijds en Nistelrode, sectie L, nrs. 257, 256, 255, 253, 249, 247, 246, 241, 240, 242, 243 en 244, en Schaijk, sectie I, nrs. 134 en 253 anderzijds tot de verlengde oostgrens van het perceel, kadastraal bekend gemeente Schaijk, sectie I, nr. 114;
+- a. Beginnend in het punt, dat het laatst is beschreven in het vijfde lid, onder *c*, in noordelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Nistelrode, sectie L, nrs. 257, 252 en 312 aan elkaar grenzen. Vervolgens in noordelijke en oostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Nistelrode, sectie L, nrs. 252, 251 en 239 en Schaijk, sectie I, nr. 116 enerzijds en Nistelrode, sectie L, nrs. 257, 256, 255, 253, 249, 247, 246, 241, 240, 242, 243 en 244, en Schaijk, sectie I, nrs. 134 en 253 anderzijds tot de verlengde oostgrens van het perceel, kadastraal bekend gemeente Schaijk, sectie I, nr. 114;
 
 - b. Van daar af in noordelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Schaijk, sectie I, nrs. 114, 116 en 115 aan elkaar grenzen en vervolgens in noordelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Schaijk, sectie I, nrs. 114 en 113 enerzijds en nrs. 115 en 141 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Schaijk, sectie I, nrs. 113, 141 en 106 aan elkaar grenzen;
 
@@ -155,7 +130,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 5
 
-1. De **nieuwe gemeente Grave** bestaat uit het gebied van de op te heffen gemeente Grave en delen van de op te heffen gemeenten Beers en Schaijk en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met zesde lid.
+1. De *nieuwe gemeente Grave* bestaat uit het gebied van de op te heffen gemeente Grave en delen van de op te heffen gemeenten Beers en Schaijk en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met zesde lid.
 
 2. De grens met de gemeente Ravenstein volgt de bestaande grens tussen de op te heffen gemeente Grave en de gemeente Ravenstein.
 
@@ -177,7 +152,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 5. De grens met de gemeente Mill c.a. volgt:
 
-- a. Beginnend in het punt, dat in het vierde lid, onder **f**, het laatst is beschreven, in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Gassel, sectie D, nr. 634 enerzijds en nrs. 497 en 252 anderzijds tot in de verlengde westgrens van het perceel, kadastraal bekend gemeente Gassel, sectie D, nr. 635. Vervolgens in zuidelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Gassel, sectie D, nrs. 377, 635 en 634 aan elkaar grenzen en vervolgens in zuidelijke en westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Gassel, sectie D, nrs. 635, en sectie C, nrs. 400, 239, 262, 51, 261, 260, 42, 259, 258 en 225 enerzijds en sectie D, nr. 377, sectie C, nrs. 235 en 399, sectie D, nr. 670 en sectie C, nrs. 411, 410, 394, 216, 215 en 26 anderzijds tot de bestaande grens;
+- a. Beginnend in het punt, dat in het vierde lid, onder *f*, het laatst is beschreven, in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Gassel, sectie D, nr. 634 enerzijds en nrs. 497 en 252 anderzijds tot in de verlengde westgrens van het perceel, kadastraal bekend gemeente Gassel, sectie D, nr. 635. Vervolgens in zuidelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Gassel, sectie D, nrs. 377, 635 en 634 aan elkaar grenzen en vervolgens in zuidelijke en westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Gassel, sectie D, nrs. 635, en sectie C, nrs. 400, 239, 262, 51, 261, 260, 42, 259, 258 en 225 enerzijds en sectie D, nr. 377, sectie C, nrs. 235 en 399, sectie D, nr. 670 en sectie C, nrs. 411, 410, 394, 216, 215 en 26 anderzijds tot de bestaande grens;
 
 - b. Verder de bestaande grens in zuidelijke en westelijke richting tot in het punt, waar de percelen, kadastraal bekend gemeente Mill, sectie I, nr. 893 en Grave, sectie G, nrs. 699 en 681 aan elkaar grenzen. Vervolgens in zuidelijke en westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Grave, sectie G, nr. 699, Mill, sectie I, nrs. 933 en 935, sectie K, nr. 2248 en Grave, sectie G, nrs. 108, 316, 478, 316, 492, 161 en 529 enerzijds en sectie G, nr. 700, Mill, sectie I, nr. 934 en Grave, sectie G, nrs. 689, 112, 120, 524, 477, 134, 735, 733, 732, 158 en 528 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Grave, sectie G, nrs. 528 en 529 en Mill, sectie K, nr. 2248 aan elkaar grenzen;
 
@@ -187,7 +162,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 6
 
-1. De **nieuwe gemeente Cuijk** bestaat uit het gebied van de op te heffen gemeenten Cuijk c.a. en Haps en delen van de op te heffen gemeente Beers en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zesde lid.
+1. De *nieuwe gemeente Cuijk* bestaat uit het gebied van de op te heffen gemeenten Cuijk c.a. en Haps en delen van de op te heffen gemeente Beers en van de gemeente Mill c.a., met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het zesde lid.
 
 2. De grens met de provincies Gelderland en Limburg begint in het punt dat in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=5&z=1994-04-01&g=1994-04-01), het laatst is beschreven en volgt van daar af in oostelijke en zuidoostelijke richting de bestaande provinciegrenzen tot aan de op te heffen gemeente Oeffelt.
 
@@ -197,7 +172,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 - b. Van daar af in zuidoostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Haps, sectie B, nrs. 2429, 2428 en 2429 enerzijds en nr. 2558 anderzijds tot de bestaande grens tussen de op te heffen gemeenten Haps en Boxmeer en van daar af deze bestaande grens tot waar de op te heffen gemeenten Boxmeer, Haps en Wanroij aan elkaar grenzen. Vervolgens de bestaande grens tussen de op te heffen gemeenten Haps en Wanroij tot in het punt, waar de percelen, kadastraal bekend gemeente Haps, sectie B, nr. 2518 en Wanroij, sectie H, nrs. 72 en 58 aan elkaar grenzen.
 
-4. De grens met de nieuwe gemeente St. Anthonis volgt vanaf het punt, dat in het derde lid, onder **b**, het laatst is beschreven, de bestaande grens tussen de op te heffen gemeenten Haps en Wanroij tot waar de gemeente Mill c.a. en de op te heffen gemeenten Haps en Wanroij aan elkaar grenzen.
+4. De grens met de nieuwe gemeente St. Anthonis volgt vanaf het punt, dat in het derde lid, onder *b*, het laatst is beschreven, de bestaande grens tussen de op te heffen gemeenten Haps en Wanroij tot waar de gemeente Mill c.a. en de op te heffen gemeenten Haps en Wanroij aan elkaar grenzen.
 
 5. De grens met de gemeente Mill c.a. volgt:
 
@@ -215,7 +190,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 7
 
-1. De **nieuwe gemeente Boxmeer** bestaat uit het gebied van de op te heffen gemeenten Boxmeer en Oeffelt en delen van de op te heffen gemeente Wanroij en van de gemeente Vierlingsbeek, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het vijfde lid.
+1. De *nieuwe gemeente Boxmeer* bestaat uit het gebied van de op te heffen gemeenten Boxmeer en Oeffelt en delen van de op te heffen gemeente Wanroij en van de gemeente Vierlingsbeek, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het vijfde lid.
 
 2. De grens met de provincie Limburg begint in het punt dat in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=6&z=1994-04-01&g=1994-04-01), het laatst is beschreven en volgt in overwegend zuidelijke richting de bestaande provinciegrens tot aan de gemeente Vierlingsbeek.
 
@@ -229,19 +204,19 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 - d. Van daar af in zuidoostelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie M, nrs. 514 en 171 enerzijds en sectie N, nrs. 184 en 185 anderzijds tot de verlengde noordgrens van het perceel, kadastraal bekend gemeente Vierlingsbeek, sectie N, nr. 13;
 
-- e. Van daar af in zuidwestelijke en later zuidoostelijke richting een rechte lijn naar het meest noordelijke punt van het onder **d**. laatstgenoemde perceel en de gemeenschappelijke grens van hetzelfde perceel en van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 13, 14 en 16 enerzijds en 181, 15 en 17 anderzijds tot het punt, waar laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 16 en 27 aan elkaar grenzen;
+- e. Van daar af in zuidwestelijke en later zuidoostelijke richting een rechte lijn naar het meest noordelijke punt van het onder *d*. laatstgenoemde perceel en de gemeenschappelijke grens van hetzelfde perceel en van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 13, 14 en 16 enerzijds en 181, 15 en 17 anderzijds tot het punt, waar laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 16 en 27 aan elkaar grenzen;
 
-- f. Van daar af in overwegend zuidwestelijke en later zuidoostelijke en vervolgens weer in zuidwestelijke en daarna in noordwestelijke richting de gemeenschappelijke grens van het onder **e**. laatstgenoemde perceel en van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, 194, 192 en 22 enerzijds en 17, 193, 191, 20, 190 en 21 anderzijds tot het punt waar laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 181, 180 en 22 aan elkaar grenzen;
+- f. Van daar af in overwegend zuidwestelijke en later zuidoostelijke en vervolgens weer in zuidwestelijke en daarna in noordwestelijke richting de gemeenschappelijke grens van het onder *e*. laatstgenoemde perceel en van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, 194, 192 en 22 enerzijds en 17, 193, 191, 20, 190 en 21 anderzijds tot het punt waar laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 181, 180 en 22 aan elkaar grenzen;
 
-- g. Van daar af in zuidwestelijke richting de gemeenschappelijke grens van het onder **f**. laatstgenoemde perceel en van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 158, 156, 155, 154, 152, 151, 147 en 142 enerzijds en nrs. 180, 159, 164, 163, 165, 174, 177, 128 en 183 anderzijds tot het punt waar laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nr. 142 en Oploo, sectie H, nr. 15 aan elkaar grenzen.
+- g. Van daar af in zuidwestelijke richting de gemeenschappelijke grens van het onder *f*. laatstgenoemde perceel en van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 158, 156, 155, 154, 152, 151, 147 en 142 enerzijds en nrs. 180, 159, 164, 163, 165, 174, 177, 128 en 183 anderzijds tot het punt waar laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nr. 142 en Oploo, sectie H, nr. 15 aan elkaar grenzen.
 
 4. De grens met de nieuwe gemeente St. Anthonis volgt:
 
-- a. Beginnend in het punt, dat in het derde lid, onder **g**, het laatst is beschreven, de bestaande grens tussen de op te heffen gemeente Oploo c.a. en de gemeente Vierlingsbeek tot in het punt, waar het perceel dat in het derde lid, onder **g**., het laatst is genoemd en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 196 en 197 aan elkaar grenzen en in oostelijke richting de gemeenschappelijke grens tussen laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 197, 199 en 201 enerzijds en 196, 198 en 202 anderzijds tot in het meest oostelijke hoekpunt van het perceel, kadastraal bekend gemeente Vierlingsbeek, sectie N, nr. 201;
+- a. Beginnend in het punt, dat in het derde lid, onder *g*, het laatst is beschreven, de bestaande grens tussen de op te heffen gemeente Oploo c.a. en de gemeente Vierlingsbeek tot in het punt, waar het perceel dat in het derde lid, onder *g*., het laatst is genoemd en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 196 en 197 aan elkaar grenzen en in oostelijke richting de gemeenschappelijke grens tussen laatstgenoemd perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 197, 199 en 201 enerzijds en 196, 198 en 202 anderzijds tot in het meest oostelijke hoekpunt van het perceel, kadastraal bekend gemeente Vierlingsbeek, sectie N, nr. 201;
 
-- b. Van daar af in noordwestelijke en later noordelijke richting de gemeenschappelijke grens tussen het onder **a**. laatstgenoemde perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 199, 203, 206 en 208, Oploo, sectie H, nrs. 18, 20, 19, 23, 244, 246 en 248, Boxmeer, sectie N, nrs. 593, 195, 592, 598, 601, 604, 612, 611, 610, 608, 615, 618, 619, 625 en 624, sectie H, nrs. 2709 en 2710, en Oploo, sectie L, nr. 249 enerzijds en Vierlingsbeek, sectie N, nrs. 202, 200, 205, 204, 207 en 209, Oploo, sectie H, nrs. 17, 21, 17 en 24 sectie L, nrs. 245 en 247, Boxmeer, sectie N, nrs. 591, 599, 602, 605, 607, 614, 626 en 628, sectie H, nr. 2708, Oploo, sectie L, nr. 250 anderzijds, tot de bestaande grens tussen de op te heffen gemeenten Oploo c.a. en Boxmeer;
+- b. Van daar af in noordwestelijke en later noordelijke richting de gemeenschappelijke grens tussen het onder *a*. laatstgenoemde perceel en de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 199, 203, 206 en 208, Oploo, sectie H, nrs. 18, 20, 19, 23, 244, 246 en 248, Boxmeer, sectie N, nrs. 593, 195, 592, 598, 601, 604, 612, 611, 610, 608, 615, 618, 619, 625 en 624, sectie H, nrs. 2709 en 2710, en Oploo, sectie L, nr. 249 enerzijds en Vierlingsbeek, sectie N, nrs. 202, 200, 205, 204, 207 en 209, Oploo, sectie H, nrs. 17, 21, 17 en 24 sectie L, nrs. 245 en 247, Boxmeer, sectie N, nrs. 591, 599, 602, 605, 607, 614, 626 en 628, sectie H, nr. 2708, Oploo, sectie L, nr. 250 anderzijds, tot de bestaande grens tussen de op te heffen gemeenten Oploo c.a. en Boxmeer;
 
-- c. Van daar af in noordwestelijke richting de onder **b**. laatstgenoemde bestaande gemeentegrens tot in het punt waar de percelen, kadastraal bekend gemeente Oploo, sectie K, nrs. 71, 77 en 232 aan elkaar grenzen. Vervolgens in zuidwestelijk en noordwestelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Oploo, sectie K, nrs. 71 en 78 enerzijds en nrs. 232, 70 en 46 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Oploo, sectie K, nrs. 46, 78 en 45 aan elkaar grenzen en vervolgens in noordwestelijke richting in een rechte lijn tot de verlengde westgrens van het perceel, kadastraal bekend gemeente Oploo, sectie K, nr. 46;
+- c. Van daar af in noordwestelijke richting de onder *b*. laatstgenoemde bestaande gemeentegrens tot in het punt waar de percelen, kadastraal bekend gemeente Oploo, sectie K, nrs. 71, 77 en 232 aan elkaar grenzen. Vervolgens in zuidwestelijk en noordwestelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Oploo, sectie K, nrs. 71 en 78 enerzijds en nrs. 232, 70 en 46 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Oploo, sectie K, nrs. 46, 78 en 45 aan elkaar grenzen en vervolgens in noordwestelijke richting in een rechte lijn tot de verlengde westgrens van het perceel, kadastraal bekend gemeente Oploo, sectie K, nr. 46;
 
 - d. Van daar af in overwegend noordwestelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Oploo, sectie K, nr. 45 en Wanroij, sectie N, nr. 5 enerzijds en Oploo, sectie K, nrs. 41, 39, 38 en 37 en Wanroij, sectie N, nr. 3 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Wanroij, sectie N, nrs. 3, 4 en 5 aan elkaar grenzen. Vervolgens in westelijke richting in een rechte lijn tot de verlengde zuidgrens van het perceel, kadastraal bekend gemeente Wanroij, sectie N, nr. 3;
 
@@ -255,7 +230,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 8
 
-1. De **nieuwe gemeente St. Anthonis** bestaat uit het gebied van de op te heffen gemeente Oploo c.a., een deel van de op te heffen gemeente Wanroij en een deel van het gebied van de gemeente Vierlingsbeek met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het tiende lid.
+1. De *nieuwe gemeente St. Anthonis* bestaat uit het gebied van de op te heffen gemeente Oploo c.a., een deel van de op te heffen gemeente Wanroij en een deel van het gebied van de gemeente Vierlingsbeek met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het tiende lid.
 
 2. De grens met de nieuwe gemeente Cuijk valt samen met de bestaande grens tussen de op te heffen gemeenten Haps en Wanroij.
 
@@ -263,7 +238,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 4. De grens met de gemeente Vierlingsbeek volgt:
 
-- a. Beginnend in het punt, dat in [artikel 7, derde lid, onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=7&z=1994-04-01&g=1994-04-01), het laatst is beschreven, de bestaande grens tot in het punt, waar de percelen, kadastraal bekend gemeente Oploo, sectie H, nr. 15 en Vierlingsbeek, sectie N, nrs. 139 en 142 aan elkaar grenzen. Vervolgens in overwegend zuidwestelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 142, 141 en 140, sectie D, nrs. 954, 874, 749, 873, 756, 872, 870, 746, 709 en 952 enerzijds en sectie N, nr. 139 en sectie D, nrs. 957, 871, 869, 800, 868, 861, 743, 710, 740 en 932 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie D, nrs. 932, 952 en 942 aan elkaar grenzen en vervolgens in westelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie V, nrs. 129, 20 en 15 aan elkaar grenzen;
+- a. Beginnend in het punt, dat in [artikel 7, derde lid, onder *f*](https://wetten.overheid.nl/jci1.3:c:BWBR0006137&paragraaf=1&artikel=7&z=1994-04-01&g=1994-04-01), het laatst is beschreven, de bestaande grens tot in het punt, waar de percelen, kadastraal bekend gemeente Oploo, sectie H, nr. 15 en Vierlingsbeek, sectie N, nrs. 139 en 142 aan elkaar grenzen. Vervolgens in overwegend zuidwestelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie N, nrs. 142, 141 en 140, sectie D, nrs. 954, 874, 749, 873, 756, 872, 870, 746, 709 en 952 enerzijds en sectie N, nr. 139 en sectie D, nrs. 957, 871, 869, 800, 868, 861, 743, 710, 740 en 932 anderzijds tot in het punt, waar de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie D, nrs. 932, 952 en 942 aan elkaar grenzen en vervolgens in westelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie V, nrs. 129, 20 en 15 aan elkaar grenzen;
 
 - b. Van daar af in westelijke richting de gemeenschappelijke grens van de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie V, nrs. 20, 23 en 24 enerzijds en nrs. 129, 12, 11 en 25 anderzijds tot de verlengde zuidgrens van het perceel, kadastraal bekend Vierlingsbeek, sectie V, nr. 10. Vervolgens in westelijke richting in een rechte lijn tot in het punt, waar de percelen, kadastraal bekend gemeente Vierlingsbeek, sectie V, nrs. 10, 28 en 25 aan elkaar grenzen en vervolgens in westelijke richting de gemeenschappelijke grens van het perceel, kadastraal bekend gemeente Vierlingsbeek, sectie V, nr. 28 enerzijds en nr. 10 anderzijds tot de zuidwesthoek van het perceel Vierlingsbeek, sectie V, nr. 10;
 
@@ -287,7 +262,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 9
 
-1. De **nieuwe gemeente Veghel** bestaat uit het gebied van de op te heffen gemeenten Veghel en Erp en delen van de gemeenten Uden en Sint-Oedenrode, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het negende lid.
+1. De *nieuwe gemeente Veghel* bestaat uit het gebied van de op te heffen gemeenten Veghel en Erp en delen van de gemeenten Uden en Sint-Oedenrode, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het negende lid.
 
 2. De grens met de gemeente Schijndel valt samen met de bestaande grens tussen de op te heffen gemeente Veghel en de gemeente Schijndel.
 
@@ -333,7 +308,7 @@ Met ingang van de datum van herindeling worden de nieuwe gemeenten Oss, Landerd,
 
 ##### Artikel 10
 
-1. De **nieuwe gemeente Heesch** bestaat uit het gebied van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode, delen van de op te heffen gemeenten Schaijk en Veghel en delen van het gebied van de gemeente Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het achtste lid.
+1. De *nieuwe gemeente Heesch* bestaat uit het gebied van de op te heffen gemeenten Heesch, Heeswijk-Dinther en Nistelrode, delen van de op te heffen gemeenten Schaijk en Veghel en delen van het gebied van de gemeente Uden, met dien verstande dat haar grens komt te lopen als beschreven in het tweede tot en met het achtste lid.
 
 2. De grens met de gemeente Maasdonk volgt:
 
@@ -633,11 +608,11 @@ Krachtens [artikel 70, eerste lid, van de Wet algemene regels herindeling](https
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 30
 
@@ -650,5 +625,3 @@ Onze Minister van Binnenlandse Zaken kan, indien nodig, binnen dertig dagen na i
 ##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

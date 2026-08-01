@@ -5,7 +5,7 @@ country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-08-31"
 last_updated: "2022-08-31"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0047084"
 soort: "ministeriele-regeling-BES"
 stam_id: "16467443"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Definitieve Regeling bekostiging personeel PO BES 2022–2023"
 signed_date: "2022-08-12"
 entry_into_force: "2022-08-31"
+gecontroleerd: 2026-08-01
 ---
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, PO/F&V/33525597, houdende vaststelling van de bedragen voor personele bekostiging voor het primair onderwijs in Caribisch Nederland voor de eerste vijf maanden van het schooljaar 2022–2023 (Definitieve Regeling bekostiging personeel PO BES 2022–2023)
 

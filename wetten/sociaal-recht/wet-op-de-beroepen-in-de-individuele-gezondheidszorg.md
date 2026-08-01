@@ -1,50 +1,18 @@
 ---
 title: "Wet van 11 november 1993, houdende regelen inzake beroepen op het gebied van de individuele gezondheidszorg"
+citeertitel: "Wet op de beroepen in de individuele gezondheidszorg"
 identifier: "BWBR0006251"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006251"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "2081163"
-version_id: "25190162"
-internal_id: "C36707171"
-label_id: "2031064"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006251/2025-07-05/0"
-intitule_bron: "Stb.1993-655"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-11-11"
-intitule_published: "1993-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2018-260"
-original_signed_date: "2018-07-11"
-original_published_date: "2018-08-24"
-original_effect: "structuurwijziging"
-original_dossier: "34629"
-original_url_id: "stb-2018-260"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBR0006251&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0006251&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet op de beroepen in de individuele gezondheidszorg"
-signed_date: "2018-07-11"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0006251"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 11 november 1993, houdende regelen inzake beroepen op het gebied van de individuele gezondheidszorg
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is:
-
-de tot dusverre geldende wettelijke regeling op het gebied van de uitoefening van de geneeskunst, inhoudende een het gehele gebied der geneeskunst bestrijkend verbod van beroepsuitoefening zonder hiertoe wettelijk verleende bevoegdheid, te vervangen door een regeling welke een ruimer gebied van individuele gezondheidszorg bestrijkt en waarbij slechts het verrichten van bij de wet aangewezen categorieën van handelingen wordt voorbehouden aan categorieën van daartoe overeenkomstig de wet gekwalificeerden, terwijl het voeren van wettelijk beschermde beroepstitels uitsluitend toekomt aan degenen die in de voor de desbetreffende beroepen overeenkomstig de wet ingestelde registers ingeschreven staan en ten aanzien van andere beroepen op het gebied van de individuele gezondheidszorg voorzien wordt in de mogelijkheid tot het regelen van de opleiding tot die beroepen;
-
-voor onderscheidene categorieën van overeenkomstig de wet gekwalificeerden een aan de gebleken behoeften aangepaste regeling van tuchtrechtspraak in het leven te roepen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,41 +20,41 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **andere overeenkomstsluitende staat:** staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
+- – *andere overeenkomstsluitende staat:* staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
 
-- –. **BIG-nummer:** nummer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05);
+- – *BIG-nummer:* nummer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05);
 
-- –. **erkend specialistenregister:** een specialistenregister ten aanzien waarvan op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=14&z=2025-07-05&g=2025-07-05), de specialistentitel is erkend, dan wel een specialistenregister dat op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=16&z=2025-07-05&g=2025-07-05) in het leven is geroepen;
+- – *erkend specialistenregister:* een specialistenregister ten aanzien waarvan op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=14&z=2025-07-05&g=2025-07-05), de specialistentitel is erkend, dan wel een specialistenregister dat op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=16&z=2025-07-05&g=2025-07-05) in het leven is geroepen;
 
-- –. **geneeskunst:** gebied van de individuele gezondheidszorg in het kader waarvan handelingen worden verricht, die:
+- – *geneeskunst:* gebied van de individuele gezondheidszorg in het kader waarvan handelingen worden verricht, die:
 
-- a. ertoe strekken een persoon van een ziekte te genezen;
+   - a. ertoe strekken een persoon van een ziekte te genezen;
 
-- b. ertoe strekken een persoon voor het ontstaan van een ziekte te behoeden;
+   - b. ertoe strekken een persoon voor het ontstaan van een ziekte te behoeden;
 
-- c. ertoe strekken de gezondheidstoestand van een persoon te beoordelen;
+   - c. ertoe strekken de gezondheidstoestand van een persoon te beoordelen;
 
-- d. ertoe strekken verloskundige bijstand bij een persoon te verlenen;
+   - d. ertoe strekken verloskundige bijstand bij een persoon te verlenen;
 
-- e. gericht zijn op het afnemen van bloed bij een persoon dan wel het wegnemen van weefsel, voor andere doeleinden dan die bedoeld onder a tot en met d;
+   - e. gericht zijn op het afnemen van bloed bij een persoon dan wel het wegnemen van weefsel, voor andere doeleinden dan die bedoeld onder a tot en met d;
 
-- f. gericht zijn op het wegnemen van weefsel bij een overledene en het verrichten van sectie;
+   - f. gericht zijn op het wegnemen van weefsel bij een overledene en het verrichten van sectie;
 
-- g. gericht zijn op het aanbrengen, modificeren, herstructureren en wegnemen van weefsel bij een persoon, voor andere doeleinden dan die bedoeld onder a tot en met d;
+   - g. gericht zijn op het aanbrengen, modificeren, herstructureren en wegnemen van weefsel bij een persoon, voor andere doeleinden dan die bedoeld onder a tot en met d;
 
-- –. **individuele gezondheidszorg:** zorg die rechtstreeks betrekking heeft op een persoon en ertoe strekt diens gezondheid te bevorderen of te bewaken, het onderzoeken en het geven van raad daaronder begrepen, waaronder geneeskunst;
+- – *individuele gezondheidszorg:* zorg die rechtstreeks betrekking heeft op een persoon en ertoe strekt diens gezondheid te bevorderen of te bewaken, het onderzoeken en het geven van raad daaronder begrepen, waaronder geneeskunst;
 
-- –. **inspecteur:** de inspecteur van de Inspectie gezondheidszorg en jeugd;
+- – *inspecteur:* de inspecteur van de Inspectie gezondheidszorg en jeugd;
 
-- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- – *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **register:** een overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), of [artikel 36b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05), ingesteld register;
+- – *register:* een overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), of [artikel 36b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05), ingesteld register;
 
-- –. **vooronderzoeker:** degene die op grond van [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=66&z=2025-07-05&g=2025-07-05), tot het verrichten van een vooronderzoek is aangewezen dan wel dit onderzoek als aangewezene heeft verricht.
+- – *vooronderzoeker:* degene die op grond van [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=66&z=2025-07-05&g=2025-07-05), tot het verrichten van een vooronderzoek is aangewezen dan wel dit onderzoek als aangewezene heeft verricht.
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. Registratie en titelbescherming
 
@@ -140,6 +108,10 @@ klinisch technoloog.
 
 4. Voor zover het tweede lid, en de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), en [36a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), een verbod inhouden op het voeren van een titel, is dat verbod niet van toepassing in het geval dat een beroepsbeoefenaar, aan wie op grond van [artikel 12, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12) gedeeltelijke toegang is verleend tot een op grond van het eerste lid aangewezen beroep, zijn beroepswerkzaamheden uitoefent onder de beroepstitel van zijn staat van herkomst of oorsprong.
 
+##### Artikel 4a
+
+Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen en op welke wijze de beoefenaar van een beroep als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), en van een beroep als bedoeld in[artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), voor zover daarvoor een tijdelijk register als bedoeld in [artikel 36b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36b&z=2025-07-05&g=2025-07-05), is ingesteld, het publiek kenbaar maakt onder welk BIG-nummer hij is ingeschreven.
+
 ##### Artikel 5
 
 1. Onze minister is bevoegd op de aanvrage tot inschrijving in een register te beslissen. Onze Minister is voorts bevoegd te beslissen op de aanvraag van een verpleegkundige tot vermelding in het register van de bevoegdheid van de aanvrager de krachtens [artikel 36, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05), aangewezen UR-geneesmiddelen voor te schrijven. De vermelding houdt mede in de aanduiding van de categorie van verpleegkundigen waartoe de aanvrager behoort. Onze Minister is bevoegd een vermelding als bedoeld in de vorige volzin door te halen indien de betrokken verpleegkundige niet meer voldoet aan de krachtens artikel 36, veertiende lid, onder d, gestelde eisen.
@@ -182,6 +154,12 @@ De inschrijving wordt doorgehaald:
 
 - f. indien zulks voortvloeit uit een maatregel, berustend op een op grond van de [Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028542) opgelegde maatregel, op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep tijdelijk of blijvend geheel heeft verloren.
 
+##### Artikel 7a
+
+1. Onze Minister kan [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=6&z=2025-07-05&g=2025-07-05), en [artikel 7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=7&z=2025-07-05&g=2025-07-05), buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze bepalingen beogen te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van besluiten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=10&z=2025-07-05&g=2025-07-05), die strekken tot het plaatsen van een aantekening als bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=9&z=2025-07-05&g=2025-07-05).
+
 ##### Artikel 8
 
 1. Bij algemene maatregel van bestuur wordt bepaald dat de inschrijving in een bij de maatregel aangewezen register wordt doorgehaald indien na de in het tweede lid bedoelde datum een bij de maatregel aangegeven periode is verstreken.
@@ -204,7 +182,7 @@ De inschrijving wordt doorgehaald:
 
 7. Onze Minister kan:
 
-- a. eisen vaststellen waaraan de aard van de werkzaamheden, bedoeld in het tweede lid, onder **c**, voor de toepassing van dit artikel moeten voldoen;
+- a. eisen vaststellen waaraan de aard van de werkzaamheden, bedoeld in het tweede lid, onder *c*, voor de toepassing van dit artikel moeten voldoen;
 
 - b. al dan niet op het gebied van de individuele gezondheidszorg liggende werkzaamheden aanwijzen die voor de toepassing van dit artikel worden gelijkgesteld met werkzaamheden op het desbetreffende gebied der beroepsuitoefening.
 
@@ -256,13 +234,13 @@ De inschrijving wordt doorgehaald:
 
 - a. de datum waarop van de schorsing een aantekening wordt geplaatst alsmede de duur van de schorsing, indien die reeds bekend is;
 
-- b. de datum waarop de berisping, de geldboete, de in het eerste lid bedoelde voorwaarden, de ontzegging, de doorhaling, de ontzegging van het recht op wederinschrijving, de last tot onmiddellijke onthouding van de beroepsactiviteiten of het bevel of de aanwijzing, bedoeld in het derde lid, zijn gaan gelden alsmede, ingeval de voorwaarden of de in het tweede lid bedoelde maatregel tot een proeftijd zijn beperkt, de duur daarvan dan wel
+- b. de datum waarop de berisping, de geldboete, de in het eerste lid bedoelde voorwaarden, de ontzegging, de doorhaling, de ontzegging van het recht op wederinschrijving, de last tot onmiddellijke onthouding van de beroepsactiviteiten of het bevel of de aanwijzing, bedoeld in het derde lid, zijn gaan gelden alsmede, ingeval de voorwaarden of de in het tweede lid bedoelde maatregel tot een proeftijd zijn beperkt, de duur daarvan dan wel
 
 - c. de datum waarop de schorsing of de last tot onmiddellijke onthouding van de beroepsactiviteiten is geëindigd of vanaf welke de in eerste lid bedoelde voorwaarden of de in het tweede en derde lid bedoelde maatregelen niet langer gelden.
 
 6. Indien de in het tweede lid bedoelde aantekening in het register is geplaatst, geldt de in het buitenland dan wel de op grond van de [Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028542) opgelegde bevoegdheidsbeperking ook voor de beroepsuitoefening in Nederland.
 
-7. De in het eerste, tweede, derde, vierde en achtste lid bedoelde aantekening wordt gedurende een bij algemene maatregel van bestuur bepaalde termijn in het register vermeld en daarbij wordt indien bekend de aard van het verwijt vermeld dat tot de aantekening heeft geleid, alsmede een met redenen omklede toelichting op een genomen maatregel als bedoeld in [artikel 48, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05).
+7. De in het eerste, tweede, derde, vierde en achtste lid bedoelde aantekening wordt gedurende een bij algemene maatregel van bestuur bepaalde termijn in het register vermeld en daarbij wordt indien bekend de aard van het verwijt vermeld dat tot de aantekening heeft geleid, alsmede een met redenen omklede toelichting op een genomen maatregel als bedoeld in [artikel 48, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05).
 
 8. In het register wordt voorts een aantekening geplaatst van een maatregel als bedoeld in [artikel 7, eerste lid, onderdelen b en c, van de Wet medisch tuchtrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7), indien dit op grond van artikel 7, vijfde lid, van de Wet medisch tuchtrecht BES, door het College is beslist.
 
@@ -270,7 +248,7 @@ De inschrijving wordt doorgehaald:
 
 1. Iedere inschrijving, aantekening of doorhaling in een register geschiedt op grond van een daartoe strekkende gedagtekende beschikking.
 
-2. Onze Minister zendt een afschrift van een beschikking als bedoeld in het eerste lid aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=14) en, indien de inschrijving, aantekening of doorhaling een arts, een psychotherapeut of een orthopedagoog-generalist betreft, de beheerder van de autorisatielijst van jeugdhulpaanbieders, bedoeld in [artikel 7.2.7 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.2.7).
+2. Onze Minister zendt een afschrift van een beschikking als bedoeld in het eerste lid aan de beheerder van het register van zorgaanbieders, bedoeld in [artikel 14 van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=14) en, indien de inschrijving, aantekening of doorhaling een arts, een psychotherapeut of een orthopedagoog-generalist betreft, de beheerder van de autorisatielijst van jeugdhulpaanbieders, bedoeld in [artikel 7.2.7 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.2.7).
 
 ##### Artikel 11
 
@@ -282,7 +260,7 @@ De inschrijving wordt doorgehaald:
 
 - c. de wederinschrijving van een persoon ingeval op grond van onderdeel a openbaar kennis is gegeven van een eerdere doorhaling van de voorafgaande wederinschrijving van die persoon.
 
-2. In de openbare kennisgeving worden de naam en de woonplaats van de betrokkene vermeld. Bij de openbare kennisgeving als bedoeld in het eerste lid, onderdeel a en c, wordt eveneens het BIG-nummer vermeld. De openbare kennisgeving geschiedt op bij algemene maatregel van bestuur te regelen wijze en voor de daarbij vast te stellen duur, met dien verstande dat de kennisgeving in ieder geval in de **Staatscourant** geschiedt.
+2. In de openbare kennisgeving worden de naam en de woonplaats van de betrokkene vermeld. Bij de openbare kennisgeving als bedoeld in het eerste lid, onderdeel a en c, wordt eveneens het BIG-nummer vermeld. De openbare kennisgeving geschiedt op bij algemene maatregel van bestuur te regelen wijze en voor de daarbij vast te stellen duur, met dien verstande dat de kennisgeving in ieder geval in de *Staatscourant* geschiedt.
 
 ##### Artikel 12
 
@@ -300,6 +278,42 @@ De inschrijving wordt doorgehaald:
 
 De in de registers opgenomen gegevens kunnen tevens worden gebruikt ten behoeve van de uitvoering van de [Noodwet geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758), de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en de toezending van informatie, de volksgezondheid betreffende, door de Inspectie gezondheidszorg en jeugd of door andere door Onze Minister aangewezen bestuursorganen aan de in registers ingeschreven personen.
 
+##### Artikel 13a
+
+1. Onverminderd [hoofdstuk 11 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&hoofdstuk=11) kan Onze Minister besluiten de bevoegde autoriteiten van andere staten dan de staten bedoeld in [artikel 31a, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a) onverwijld in kennis te stellen van een in Nederland door een rechterlijke instantie of een andere bij of krachtens de wet bevoegde instantie aan een beroepsbeoefenaar opgelegd verbod of een opgelegde beperking van een beroep dat op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05) of [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05) is gereguleerd.
+
+2. Een kennisgeving op grond van een besluit als bedoeld in het eerste lid kan slechts plaatsvinden indien het opgelegd verbod of de opgelegde beperking van kracht is en Onze Minister over informatie beschikt waaruit blijkt dat de beroepsbeoefenaar in de staat waaraan de kennisgeving wordt gedaan woonachtig is, woonachtig is geweest, zijn beroep heeft uitgeoefend, uitoefent of voornemens is uit te oefenen.
+
+3. De kennisgeving bevat de volgende gegevens:
+
+- a. naam, adres, woonplaats, geboortedatum van de beroepsbeoefenaar;
+
+- b. het betrokken beroep;
+
+- c. de instantie die het verbod of de beperking heeft opgelegd;
+
+- d. de reikwijdte van de beperking of het verbod; en
+
+- e. de periode gedurende welke de beperking of het verbod van kracht is.
+
+4. De instanties, bedoeld in het eerste lid, verstrekken Onze Minister de gegevens, bedoeld in het derde lid.
+
+5. Indien een verbod of een beperking is ingesteld voor onbepaalde tijd, stelt Onze Minister de bevoegde autoriteiten, bedoeld in het eerste lid, onverwijld in kennis van de beëindiging daarvan.
+
+6. Indien tegen een op grond van het eerste lid genomen besluit bezwaar of beroep aanhangig wordt gemaakt, deelt Onze Minister dit mede aan de bevoegde autoriteiten van de landen die op grond van het eerste lid in kennis zijn gesteld.
+
+##### Artikel 13b
+
+1. Indien bij besluit van Onze Minister inschrijving in een register is geweigerd, de afgifte van een verklaring van vakbekwaamheid wordt geweigerd of een beroepsbeoefenaar de bevoegdheid zijn beroep uit te oefenen heeft verloren omdat hij de aanvraag tot inschrijving of tot afgifte van een verklaring gebaseerd heeft op valse kwalificaties, kan Onze Minister besluiten, onverminderd de hoofdstuk V van de Algemene verordening gegevensbescherming, de bevoegde autoriteiten van andere staten dan de staten bedoeld in [artikel 31a, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a), daarvan in kennis stellen.
+
+2. [Artikel 13a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=13a&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing.
+
+##### Artikel 13c
+
+1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat het nummer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), wordt gebruikt ter bevordering van transparantie inzake financiële betrekkingen tussen beroepsbeoefenaren als bedoeld in artikel 3, eerste lid, en bedrijven in een daartoe gehouden register.
+
+2. Bij toepassing van het eerste lid, zendt Onze Minister jaarlijks aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het in het eerste lid bedoelde register.
+
 #### § 2. Specialismen
 
 ##### Artikel 14
@@ -314,27 +328,27 @@ De in de registers opgenomen gegevens kunnen tevens worden gebruikt ten behoeve 
 
 - c. de organisatie stelt regels waarin in ieder geval worden vastgelegd
 
-- –. de procedure voor de besluitvorming binnen de organisatie met betrekking tot het instellen van een specialistenregister,
+   - – de procedure voor de besluitvorming binnen de organisatie met betrekking tot het instellen van een specialistenregister,
 
-- –. de taken en samenstelling van de verschillende organen en
+   - – de taken en samenstelling van de verschillende organen en
 
-- –. het bedrag dat, ter dekking van de kosten, voor de behandeling van een aanvraag voor inschrijving en voor erkenning van een opleidingsinstelling, onderscheidenlijk opleider, is verschuldigd;
+   - – het bedrag dat, ter dekking van de kosten, voor de behandeling van een aanvraag voor inschrijving en voor erkenning van een opleidingsinstelling, onderscheidenlijk opleider, is verschuldigd;
 
 - d. de organisatie kent een orgaan dat
 
-- –. belast is met het besluit tot instelling van een specialistenregister, en
+   - – belast is met het besluit tot instelling van een specialistenregister, en
 
-- –. regels stelt met betrekking tot de eisen die gesteld worden aan de inschrijving als specialist en aan de erkenning van opleidingsinstellingen, onderscheidenlijk opleiders, voor een specialisme;
+   - – regels stelt met betrekking tot de eisen die gesteld worden aan de inschrijving als specialist en aan de erkenning van opleidingsinstellingen, onderscheidenlijk opleiders, voor een specialisme;
 
 - e. de organisatie kent tevens een orgaan dat is belast met
 
-- –. de inschrijving van specialisten,
+   - – de inschrijving van specialisten,
 
-- –. de erkenning van opleidingsinstellingen, onderscheidenlijk de opleiders en
+   - – de erkenning van opleidingsinstellingen, onderscheidenlijk de opleiders en
 
-- –. het toezicht op de uitvoering van de regels door de erkende opleidingsinstellingen, onderscheidenlijk opleiders.
+   - – het toezicht op de uitvoering van de regels door de erkende opleidingsinstellingen, onderscheidenlijk opleiders.
 
-3. Een door een orgaan als bedoeld in het tweede lid, onder d, vastgestelde regeling is in overeenstemming met de bij of krachtens het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte gestelde regels en de op 21 juni 1999 te Luxemburg totstandgekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86).
+3. Een door een orgaan als bedoeld in het tweede lid, onder d, vastgestelde regeling is in overeenstemming met de bij of krachtens het Verdrag tot oprichting van de Europese Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte gestelde regels en de op 21 juni 1999 te Luxemburg totstandgekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86).
 
 4. De regelingen, bedoeld in het tweede lid, onder c en d, behoeven de instemming van Onze Minister; de instemming kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
@@ -358,7 +372,7 @@ De in de registers opgenomen gegevens kunnen tevens worden gebruikt ten behoeve 
 
 - b. vaststelling en wijziging van een regeling als bedoeld in het tweede lid, onder c en d.
 
-13. Het vierde en twaalfde lid zijn niet van toepassing op een regeling als bedoeld in het tweede lid, onderdeel c, voor zover die strekt tot wijziging van de bedragen, bedoeld in dat onderdeel, overeenkomstig de ontwikkeling van de consumentenprijsindex sinds de vorige wijziging van de bedragen en de organisatie mededeling doet van de wijziging van de bedragen op de eigen website en de bedragen op de website plaatst.
+13. Het vierde en twaalfde lid zijn niet van toepassing op een regeling als bedoeld in het tweede lid, onderdeel c, voor zover die strekt tot wijziging van de bedragen, bedoeld in dat onderdeel, overeenkomstig de ontwikkeling van de consumentenprijsindex sinds de vorige wijziging van de bedragen en de organisatie mededeling doet van de wijziging van de bedragen op de eigen website en de bedragen op de website plaatst.
 
 ##### Artikel 15
 
@@ -390,11 +404,11 @@ Indien op een bepaald deelgebied van een beroep als bedoeld in [artikel 3](https
 
 2. Het is degene wie het recht tot het voeren van een krachtens deze wet erkende specialisten-titel niet toekomt op grond van het eerste lid, verboden deze titel of een daarop gelijkende benaming te voeren.
 
-3. Voor zover het tweede lid, en de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), en [36a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), een verbod inhouden op het voeren van een titel, is dat verbod niet van toepassing in het geval dat een beroepsbeoefenaar met toepassing van artikel 4 septies van Richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255) door een organisatie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=14&z=2025-07-05&g=2025-07-05), gedeeltelijk is toegelaten tot een beroep waarvan de beoefenaar de bevoegdheid heeft een titel te voeren, en die beroepsbeoefenaar zijn beroepswerkzaamheden uitoefent onder de beroepstitel van zijn staat van herkomst of oorsprong.
+3. Voor zover het tweede lid, en de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), en [36a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), een verbod inhouden op het voeren van een titel, is dat verbod niet van toepassing in het geval dat een beroepsbeoefenaar met toepassing van artikel 4 septies van Richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255) door een organisatie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=14&z=2025-07-05&g=2025-07-05), gedeeltelijk is toegelaten tot een beroep waarvan de beoefenaar de bevoegdheid heeft een titel te voeren, en die beroepsbeoefenaar zijn beroepswerkzaamheden uitoefent onder de beroepstitel van zijn staat van herkomst of oorsprong.
 
 ### Hoofdstuk III. Bepalingen inzake de beroepen
 
-### Afdeling 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
+#### Afdeling 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
 
 #### § 1. Artsen
 
@@ -486,7 +500,41 @@ Tot het gebied van deskundigheid van de verpleegkundige wordt gerekend:
 
 - b. het ingevolge opdracht van een beroepsbeoefenaar op het gebied van de individuele gezondheidszorg verrichten van handelingen in aansluiting op diens diagnostische en therapeutische werkzaamheden.
 
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
+#### § 9. Physician assistants
+
+##### Artikel 33a
+
+Om in het betreffende register als physician assistant te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen.
+
+##### Artikel 33b
+
+Tot het gebied van deskundigheid van de physician assistant wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het deelgebied van de geneeskunst waarbinnen de physician assistant is opgeleid, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen. Deze handelingen omvatten het onderzoeken, behandelen en begeleiden van patiënten met veel voorkomende aandoeningen binnen dat deelgebied van de geneeskunst.
+
+#### § 10. Klinisch technologen
+
+##### Artikel 33c
+
+Om in het betreffende register als klinisch technoloog te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen.
+
+##### Artikel 33d
+
+1. Tot het gebied van deskundigheid van de klinisch technoloog wordt gerekend:
+
+- a. het optimaliseren van bestaande technisch medische handelingen alsmede het ontwerpen en ontwikkelen van nieuwe diagnostische methoden en therapieën met behulp van technologie.
+
+- b. het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen binnen het technisch medische deelgebied van de geneeskunst waarin de klinisch technoloog is opgeleid, een en ander met inachtneming van de beperkingen bij de maatregel te stellen.
+
+#### § 11. Orthopedagogen-generalist
+
+##### Artikel 33e
+
+Om in het desbetreffende register als orthopedagoog-generalist te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen.
+
+##### Artikel 33f
+
+Tot het gebied van deskundigheid van de orthopedagoog-generalist wordt gerekend het verrichten van onderzoek en diagnostiek en het behandelen en begeleiden van zich in een persoonlijke afhankelijkheidsrelatie bevindende personen met leer-, gedrags-, en ontwikkelingsproblemen.
+
+#### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
 
 ##### Artikel 34
 
@@ -513,6 +561,12 @@ Tot het gebied van deskundigheid van de verpleegkundige wordt gerekend:
 - c. hij, voor zover de opdrachtgever aanwijzingen heeft gegeven, handelt overeenkomstig die aanwijzingen.
 
 2. Met inachtneming van het eerste lid is de opdrachtnemer bevoegd tot het verrichten van de in het eerste lid bedoelde handeling.
+
+##### Artikel 35a
+
+1. De op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) bevoegde personen zijn tot het verrichten van de handelingen, genoemd in artikel 36, uitsluitend bevoegd voor zover zij redelijkerwijs mogen aannemen dat zij beschikken over de bekwaamheid die vereist is voor het behoorlijk verrichten van die handelingen.
+
+2. Indien de bevoegde personen niet voldoen aan het vereiste van bekwaamheid als bedoeld in het eerste lid, worden zij voor de toepassing van de [artikelen 35, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35&z=2025-07-05&g=2025-07-05), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=38&z=2025-07-05&g=2025-07-05) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=39&z=2025-07-05&g=2025-07-05), aangemerkt als personen die hun bevoegdheid ontlenen aan het bij [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) bepaalde.
 
 ##### Artikel 36
 
@@ -606,7 +660,7 @@ doch de onder b, c en e genoemde personen uitsluitend voor zover het betreft han
 
 - c. de klinisch technologen,
 
-doch uitsluitend voor zover zij voldoen aan de krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) (**Stb.** 1963, 82) ter zake van het gebruiken van zodanige stoffen en toestellen gestelde eisen, alsmede, voor zover het betreft tandartsen en klinisch technologen, uitsluitend voor zover het betreft handelingen, in de aanhef van dit lid bedoeld, die overeenkomstig het bij [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&z=2025-07-05&g=2025-07-05) bepaalde worden gerekend tot hun gebied van deskundigheid.
+doch uitsluitend voor zover zij voldoen aan de krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) (*Stb.* 1963, 82) ter zake van het gebruiken van zodanige stoffen en toestellen gestelde eisen, alsmede, voor zover het betreft tandartsen en klinisch technologen, uitsluitend voor zover het betreft handelingen, in de aanhef van dit lid bedoeld, die overeenkomstig het bij [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&z=2025-07-05&g=2025-07-05) bepaalde worden gerekend tot hun gebied van deskundigheid.
 
 9. Tot het verrichten van electieve cardioversie zijn bevoegd:
 
@@ -650,19 +704,63 @@ de artsen.
 
 - d. verpleegkundigen, die behoren tot een ter bevordering van een goede uitoefening van de individuele gezondheidszorg bij ministeriële regeling aan te wijzen categorie, doch dezen uitsluitend:
 
-- 1°. voor zover een onder a, b of c bedoelde beroepsbeoefenaar de diagnose heeft gesteld met betrekking tot de patiënt voor wie het geneesmiddel is bestemd,
+   - 1°. voor zover een onder a, b of c bedoelde beroepsbeoefenaar de diagnose heeft gesteld met betrekking tot de patiënt voor wie het geneesmiddel is bestemd,
 
-- 2°. voor zover medische protocollen en standaarden ter zake van het voorschrijven van UR-geneesmiddelen worden gevolgd,
+   - 2°. voor zover medische protocollen en standaarden ter zake van het voorschrijven van UR-geneesmiddelen worden gevolgd,
 
-- 3°. binnen de bij de regeling te stellen beperkingen ten aanzien van de reikwijdte van de in de aanhef bedoelde bevoegdheid, en
+   - 3°. binnen de bij de regeling te stellen beperkingen ten aanzien van de reikwijdte van de in de aanhef bedoelde bevoegdheid, en
 
-- 4°. voor zover van die bevoegdheid een aantekening in het register is gemaakt;
+   - 4°. voor zover van die bevoegdheid een aantekening in het register is gemaakt;
 
 - e. bij ministeriële regeling aan te wijzen categorieën van verpleegkundigen, behorend tot een wettelijk erkend specialisme, een en ander met inachtneming van de beperkingen, bij de regeling te stellen,
 
 - f. de physician assistants, doch deze uitsluitend voor zover het betreft handelingen, in de aanhef van dit lid bedoeld, die overeenkomstig het bij of krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&z=2025-07-05&g=2025-07-05) bepaalde worden gerekend tot hun gebied van deskundigheid.
 
 15. Het ontwerp van de ministeriële regeling, bedoeld in het veertiende lid, onder d, treedt niet eerder in werking dan vier weken nadat het ontwerp is overgelegd aan beide kamers der Staten-Generaal.
+
+##### Artikel 36a
+
+1. Bij algemene maatregel van bestuur kan in afwijking van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) van deze wet en van [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) bij wijze van experiment worden bepaald, dat voor een termijn van maximaal vijf jaar een bij de maatregel omschreven categorie van beroepsbeoefenaren, die werkzaam is op het gebied van de individuele gezondheidszorg en die met goed gevolg een bij de maatregel aangewezen opleiding met betrekking tot de aan te wijzen voorbehouden handeling heeft afgerond, wordt aangewezen als zijnde bevoegd tot het verrichten van in die maatregel aangewezen handelingen.
+
+2. Op de in de maatregel omschreven categorie van beroepsbeoefenaren is [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35a&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
+
+3. Bij de maatregel kan aan de in het eerste lid omschreven categorie van beroepsbeoefenaren gedurende de in dat lid bedoelde periode het recht verleend worden een in de maatregel aan te geven titel te voeren. Gedurende deze periode is het aan anderen verboden deze titel of een daarop gelijkende benaming te voeren.
+
+4. Voor zover het derde lid, tweede volzin, en de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), en [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), een verbod inhouden op het voeren van een titel, is dat verbod niet van toepassing in het geval dat een beroepsbeoefenaar aan wie op grond van [artikel 12, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12) gedeeltelijke toegang is verleend tot een beroep, behorende tot een categorie van beroepsbeoefenaren als bedoeld in het eerste lid, zijn beroepswerkzaamheden uitoefent onder de beroepstitel van zijn staat van herkomst of oorsprong.
+
+5. Met een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt voor de toepassing van dit artikel gelijkgesteld een document dat is opgesteld door een met naam en werkadres aangeduide beroepsbeoefenaar, die behoort tot de bij de maatregel omschreven categorie van beroepsbeoefenaren die op grond van de maatregel bevoegd is tot het voorschrijven van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onderdeel s, van de Geneesmiddelenwet, en waarin aan een persoon als bedoeld in [artikel 61, eerste lid, onderdeel a of b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61), een voorschrift wordt gegeven om een met zijn stofnaam of merknaam aangeduid geneesmiddel in de aangegeven hoeveelheid, sterkte en wijze van gebruik ter hand te stellen aan een te identificeren patiënt en dat is ondertekend door de desbetreffende beroepsbeoefenaar dan wel, zonder te zijn ondertekend met een zodanige code is beveiligd dat een daartoe bevoegde persoon of instantie de authenticiteit ervan kan vaststellen.
+
+6. [Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing op de bij de maatregel omschreven categorie van beroepsbeoefenaren.
+
+7. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+8. Indien voor het verstrijken van de in het eerste lid bedoelde termijn een voorstel van wet tot wijziging van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) in de zin van de in het eerste lid bedoelde algemene maatregel van bestuur wordt ingediend bij de Tweede Kamer der Staten-Generaal, wordt de in het eerste lid bedoelde termijn verlengd, met een maximum van vijf jaren en vervalt op
+
+- a. het moment van inwerkingtreding van de bedoelde wijzigingswet, danwel
+
+- b. het moment dat de bedoelde wijzigingswet wordt ingetrokken of verworpen door een der Kamers der Staten-Generaal.
+
+##### Artikel 36b
+
+1. Bij algemene maatregel van bestuur kan worden bepaald dat door Onze Minister een tijdelijk register wordt ingesteld en beheerd waarin beroepsbeoefenaren van een in de maatregel, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), omschreven categorie voor de duur van het in die maatregel bedoelde experiment, op hun aanvraag worden ingeschreven.
+
+2. Met betrekking tot de registers, bedoeld in het eerste lid, zijn de [artikel 3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), [4 eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), [6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=6&z=2025-07-05&g=2025-07-05), en 8 niet van toepassing.
+
+3. Indien voor het betreffende beroep op grond van het eerste lid een tijdelijk register is ingesteld, gaat dat tijdelijk register op het tijdstip dat de wet, bedoeld in [artikel 36a, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), in werking treedt, over in het in die wet voor dat beroep op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05) ingestelde register. Het tweede lid is vanaf dat tijdstip niet langer van toepassing ten aanzien van dat register.
+
+4. In afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), geldt voor de beroepsbeoefenaar die is ingeschreven in een tijdelijk register, dat op grond van het derde lid is overgegaan in een register als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), dat de inschrijving een half jaar na de inwerkingtreding van de wet, bedoeld in [artikel 36a, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), wordt doorgehaald.
+
+5. In afwijking van het vierde lid, geldt voor degene die op de datum, bedoeld in het vierde lid, korter dan vijf jaar ingeschreven is, als datum, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), de datum van vijf jaar na die van de eerste inschrijving in het register, bedoeld in het eerste lid.
+
+6. Na het eindigen van het experiment, blijft de beroepsbeoefenaar die was ingeschreven in het tijdelijk register ter zake van enig in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), bedoeld handelen of nalaten gedurende de tijd dat hij ingeschreven stond, aan de tuchtrechtspraak onderworpen.
+
+7. Indien toepassing gegeven wordt aan het zesde lid, geeft het tuchtcollege een oordeel over de gegrondheid van de klacht, met dien verstande dat geen maatregelen bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), opgelegd kunnen worden.
+
+8. Indien de termijn, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), vervalt, anders dan door toepassing van artikel 36a, achtste lid, onder a, bestaat gedurende een half jaar na het verstrijken van die termijn de bevoegdheid tot het indienen van een klaagschrift, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05). Van de datum waarop deze bevoegdheid aanvangt, wordt mededeling gedaan in de Staatscourant.
+
+9. Na het eindigen van het experiment, kunnen leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van de tuchtcolleges, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05) en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), bij besluit van Onze Minister benoemd worden, voor zover dit noodzakelijk is voor de behandeling van zaken over klachten die tot een half jaar na het eindigen van het experiment zijn ingediend. Deze leden en plaatsvervangende leden worden benoemd uit personen die ten tijde van het experiment waren ingeschreven in het tijdelijk register.
+
+10. Indien de termijn, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), vervalt, anders dan door toepassing van artikel 36a, achtste lid, onder a, blijven de aantekeningen die op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=9&z=2025-07-05&g=2025-07-05) in het tijdelijk register zijn geplaatst gedurende vijf jaar raadpleegbaar.
 
 ##### Artikel 37
 
@@ -672,13 +770,17 @@ de artsen.
 
 3. Indien niet binnen zes maanden na de inwerkingtreding van een algemene maatregel van bestuur als bedoeld in het eerste of tweede lid bij de Tweede Kamer der Staten-Generaal een wetsvoorstel is ingediend tot wijziging van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) overeenkomstig die maatregel, alsook indien zodanig voorstel wordt ingetrokken of verworpen, wordt de maatregel onverwijld ingetrokken.
 
+##### Artikel 37a
+
+Dit hoofdstuk is niet van toepassing op handelingen voor zover ten aanzien van die handelingen bij of krachtens andere wetten regels zijn gesteld.
+
 ##### Artikel 38
 
 Het is degene die zijn bevoegdheid tot het verrichten van een bij of krachtens de [artikelen 36 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) omschreven handeling ontleent aan het bij of krachtens die artikelen bepaalde verboden aan een ander opdracht te geven tot het verrichten van die handeling, tenzij:
 
 - a. in gevallen waarin zulks redelijkerwijs nodig is aanwijzingen worden gegeven omtrent het verrichten van de handeling en toezicht door de opdrachtgever op het verrichten van de handeling en de mogelijkheid tot tussenkomst van een zodanig persoon voldoende zijn verzekerd en
 
-- b. hij redelijkerwijs mag aannemen dat degene aan wie de opdracht wordt gegeven, in aanmerking genomen het onder **a** bepaalde, beschikt over de bekwaamheid die vereist is voor het behoorlijk verrichten van de handeling.
+- b. hij redelijkerwijs mag aannemen dat degene aan wie de opdracht wordt gegeven, in aanmerking genomen het onder *a* bepaalde, beschikt over de bekwaamheid die vereist is voor het behoorlijk verrichten van de handeling.
 
 ##### Artikel 39
 
@@ -690,7 +792,7 @@ Het is degene die zijn bevoegdheid tot het verrichten van een bij of krachtens d
 
 - b. categorieën van personen die een krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), geregelde of aangewezen opleiding hebben voltooid;
 
-- c. categorieën van personen, behorende tot de onder **a** of **b** bedoelde categorieën van personen.
+- c. categorieën van personen, behorende tot de onder *a* of *b* bedoelde categorieën van personen.
 
 ### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
 
@@ -704,9 +806,13 @@ Bij algemene maatregel van bestuur kunnen, indien zulks noodzakelijk is gebleken
 
 - c. een verbod om een overeenkomst die hun bijzondere voordelen verschaft, aan te gaan met bij de maatregel aangewezen categorieën van personen.
 
-### Hoofdstuk IV. Voorbehouden handelingen
+##### Artikel 40a
 
-#### § 11. Orthopedagogen-generalist
+*Vervallen*
+
+### Hoofdstuk VI. Buitenslands gediplomeerden
+
+#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
 
 ##### Artikel 41
 
@@ -732,7 +838,7 @@ Bij algemene maatregel van bestuur kunnen, indien zulks noodzakelijk is gebleken
 
 6. De buitenslands gediplomeerde komt de keuze, bedoeld in [artikel 11, vierde lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) niet toe in de bij ministeriële regeling aangewezen gevallen.
 
-7. Van een besluit krachtens het eerste lid, onder a, of het tweede lid, wordt mededeling gedaan in de **Staatscourant**.
+7. Van een besluit krachtens het eerste lid, onder a, of het tweede lid, wordt mededeling gedaan in de *Staatscourant*.
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het in rekening brengen van een tarief voor de aanvraag van een verklaring als bedoeld in het eerste lid, onder b.
 
@@ -770,11 +876,11 @@ Bij algemene maatregel van bestuur kunnen, indien zulks noodzakelijk is gebleken
 
 - c. de betrokkene dient aan Onze Minister te hebben gemeld dat hij als beoefenaar van het desbetreffende beroep in Nederland diensten verleent en dient de volgende bescheiden te hebben overgelegd:
 
-- 1°. een bewijsstuk, niet ouder dan twaalf maanden, waaruit blijkt dat hij de desbetreffende werkzaamheden in de lidstaat onderscheidenlijk de andere overeenkomstsluitende staat waar hij gevestigd is, wettig uitoefent;
+   - 1°. een bewijsstuk, niet ouder dan twaalf maanden, waaruit blijkt dat hij de desbetreffende werkzaamheden in de lidstaat onderscheidenlijk de andere overeenkomstsluitende staat waar hij gevestigd is, wettig uitoefent;
 
-- 2°. een bewijsstuk dat hij het onder a bedoelde getuigschrift heeft verkregen;
+   - 2°. een bewijsstuk dat hij het onder a bedoelde getuigschrift heeft verkregen;
 
-- 3°. een bewijs van de nationaliteit van de betrokkene.
+   - 3°. een bewijs van de nationaliteit van de betrokkene.
 
 3. De verplichting tot het overleggen van bescheiden als bedoeld in het tweede lid, onderdeel c, geldt niet indien ten behoeve van de betrokkene als beoefenaar van het desbetreffende beroep door Onze Minister een beroepskaart is afgegeven.
 
@@ -808,15 +914,15 @@ blijft het in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. Voor de toepassing van [artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05), wordt met degene die voldoet aan de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), gestelde eisen gelijkgesteld degene die in het bezit is van een krachtens het eerste lid, onder a, aangewezen getuigschrift of aan wie een verklaring als bedoeld in het eerste lid, onder b, is afgegeven.
 
-#### § 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
+#### § 3. Algemene bepaling
 
 ##### Artikel 46
 
 In hetgeen verder ter uitvoering van de richtlijnen van de Europese Unie alsmede van de Overeenkomst betreffende de Europese Economische Ruimte en van de op 21 juni 1999 te Luxemburg totstandgekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat anderzijds, over het vrije verkeer van personen (Trb. 2000, 16 en 86), betreffende beoefenaren van beroepen op het gebied van de individuele gezondheidszorg regeling behoeft, wordt voorzien door Onze Minister.
 
-### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
+### Hoofdstuk VII. Tuchtrechtspraak
 
-#### § 3. Algemene bepaling
+#### § 1. Algemeen
 
 ##### Artikel 47
 
@@ -824,11 +930,11 @@ In hetgeen verder ter uitvoering van de richtlijnen van de Europese Unie alsmede
 
 - a. enig handelen of nalaten in strijd met de zorg die die beroepsbeoefenaar in die hoedanigheid behoort te betrachten ten opzichte van:
 
-- 1°. degene, met betrekking tot wiens gezondheidstoestand hij bijstand verleent of zijn bijstand is ingeroepen;
+   - 1°. degene, met betrekking tot wiens gezondheidstoestand hij bijstand verleent of zijn bijstand is ingeroepen;
 
-- 2°. degene die, in nood verkerende, bijstand met betrekking tot zijn gezondheidstoestand behoeft;
+   - 2°. degene die, in nood verkerende, bijstand met betrekking tot zijn gezondheidstoestand behoeft;
 
-- 3°. de naaste betrekkingen van de onder 1° en 2° bedoelde personen;
+   - 3°. de naaste betrekkingen van de onder 1° en 2° bedoelde personen;
 
 - b. enig ander dan onder a bedoeld handelen of nalaten in strijd met hetgeen een behoorlijk beroepsbeoefenaar betaamt.
 
@@ -860,7 +966,7 @@ klinisch technoloog.
 
 4. In geval van doorhaling van een inschrijving in het register blijft de betrokkene ter zake van enig in het eerste lid bedoeld handelen of nalaten gedurende de tijd dat hij ingeschreven stond, aan de tuchtrechtspraak onderworpen.
 
-#### § 1. Algemeen
+#### § 2. Tuchtmaatregelen
 
 ##### Artikel 48
 
@@ -890,7 +996,7 @@ klinisch technoloog.
 
 - c. de maatregelen, bedoeld in het eerste lid, onder e en g.
 
-4. In gevallen waarin de berechting plaatsvindt met toepassing van [artikel 47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), kan, in plaats van de in het eerste lid van het onderhavige artikel, onder **f**, bedoelde maatregel, als maatregel worden opgelegd een ontzegging van het recht wederom in het register te worden ingeschreven.
+4. In gevallen waarin de berechting plaatsvindt met toepassing van [artikel 47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), kan, in plaats van de in het eerste lid van het onderhavige artikel, onder *f*, bedoelde maatregel, als maatregel worden opgelegd een ontzegging van het recht wederom in het register te worden ingeschreven.
 
 5. Opgelegde geldboeten komen ten bate van de Staat. Bij het opleggen van een geldboete kunnen twee of meer termijnen worden vastgesteld, waarin zij moet worden voldaan.
 
@@ -898,7 +1004,7 @@ klinisch technoloog.
 
 7. De maatregelen, genoemd in het eerste lid, onder d en f, kunnen voorwaardelijk worden opgelegd en worden alsdan niet ten uitvoer gelegd dan nadat het college dat de maatregel heeft opgelegd, zulks heeft gelast op grond dat de betrokkene binnen een bij die oplegging te bepalen proeftijd van ten hoogste twee jaar een gestelde voorwaarde niet is nagekomen.
 
-8. Een maatregel als bedoeld in het eerste lid, onder **c, d** of **f**, kan niet ten uitvoer worden gelegd zolang de beslissing waarbij hij is opgelegd, niet onherroepelijk is geworden. Een maatregel als in dat lid, onder e, g, tweede of in het vierde lid bedoeld, wordt eerst bij het onherroepelijk worden van de desbetreffende beslissing van kracht, tenzij het college, indien het belang van de bescherming van de individuele gezondheidszorg zulks vordert, bij zijn beslissing heeft bepaald dat hij onmiddellijk van kracht wordt. Bij toepassing van het zevende lid gaat de in dat lid bedoelde proeftijd eerst bij het onherroepelijk worden van de desbetreffende beslissing in.
+8. Een maatregel als bedoeld in het eerste lid, onder *c, d* of *f*, kan niet ten uitvoer worden gelegd zolang de beslissing waarbij hij is opgelegd, niet onherroepelijk is geworden. Een maatregel als in dat lid, onder e, g, tweede of in het vierde lid bedoeld, wordt eerst bij het onherroepelijk worden van de desbetreffende beslissing van kracht, tenzij het college, indien het belang van de bescherming van de individuele gezondheidszorg zulks vordert, bij zijn beslissing heeft bepaald dat hij onmiddellijk van kracht wordt. Bij toepassing van het zevende lid gaat de in dat lid bedoelde proeftijd eerst bij het onherroepelijk worden van de desbetreffende beslissing in.
 
 9. Bij een beslissing tot het opleggen van de maatregel van doorhaling van de inschrijving kan het college tevens, indien het belang van de bescherming van de individuele gezondheidszorg zulks vordert, bij wijze van voorlopige voorziening een maatregel als bedoeld in het eerste lid, onder d of e, opleggen. Deze maatregelen kunnen bij wijze van de voorlopige voorziening gezamenlijk worden opgelegd. De voorlopige voorziening wordt terstond van kracht en wordt vanwege Onze Minister onverwijld ten uitvoer gelegd. De voorlopige voorziening blijft van kracht totdat de beslissing tot doorhaling van de inschrijving onherroepelijk is geworden dan wel in beroep is vernietigd.
 
@@ -906,11 +1012,41 @@ klinisch technoloog.
 
 11. Indien het belang van de individuele gezondheidszorg dat vordert kan het tuchtcollege bij het opleggen van een maatregel als bedoeld in het eerste lid, onder b en c, besluiten tot openbaarmaking van de opgelegde maatregel, al dan niet met de gronden waarop zij berust, op de door hem te bepalen wijze.
 
+##### Artikel 48a
+
+1. De inspecteur ziet toe of een beroepsbeoefenaar de op grond van [artikel 48, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), aan de maatregel verbonden voorwaarden naleeft.
+
+2. Het regionale tuchtcollege beslist op verzoek van de inspecteur over de tenuitvoerlegging van de maatregel, indien de beroepsbeoefenaar aan wie de voorwaardelijke maatregel is opgelegd, de aan de maatregel verbonden voorwaarden niet heeft nageleefd.
+
+3. De inspecteur is in zijn verzoek niet-ontvankelijk wanneer het verzoek later wordt ingediend dan drie maanden na het verstrijken van de proeftijd.
+
+4. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=54&z=2025-07-05&g=2025-07-05), [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=61&z=2025-07-05&g=2025-07-05), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63&z=2025-07-05&g=2025-07-05), [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63a&z=2025-07-05&g=2025-07-05), [65, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05), [65d, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), [65e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65e&z=2025-07-05&g=2025-07-05), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67&z=2025-07-05&g=2025-07-05), [67b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67b&z=2025-07-05&g=2025-07-05), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=70&z=2025-07-05&g=2025-07-05) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=71&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
+
+5. Tegen een beslissing als bedoeld in het tweede lid kan binnen zes weken na de dag van verzending van het afschrift van die beslissing bij het centrale tuchtcollege beroep worden ingesteld door:
+
+- a. de inspecteur, voor zover het verzoek is afgewezen, of voor zover hij niet-ontvankelijk is verklaard;
+
+- b. de beroepsbeoefenaar, voor zover het verzoek is toegewezen.
+
+6. Op de procedure in beroep zijn de [artikelen 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=61&z=2025-07-05&g=2025-07-05), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63&z=2025-07-05&g=2025-07-05), [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63a&z=2025-07-05&g=2025-07-05), [65d, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), [65e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65e&z=2025-07-05&g=2025-07-05), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67&z=2025-07-05&g=2025-07-05), [67b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67b&z=2025-07-05&g=2025-07-05), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=70&z=2025-07-05&g=2025-07-05) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=71&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
+
+7. Bij de toepassing van de in het vierde en zesde van overeenkomstige toepassing verklaarde artikelen, dient waar in die artikelen onderscheidenlijk wordt gesproken over «klager, beklaagde of klacht» te worden gelezen inspecteur, beroepsbeoefenaar en verzoek. Bij de toepassing van [artikel 65d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), dient waar gesproken wordt van «zijn klacht», gelezen te worden: het beroep.
+
 ##### Artikel 49
 
 1. Degene aan wie een boete als bedoeld in [artikel 48, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), is opgelegd, wordt door Onze Minister bij gedagtekende brief uitgenodigd de verschuldigde geldboete binnen de gestelde termijn dan wel met inachtneming van de gestelde termijnen te betalen.
 
 2. Indien de schuldenaar niet binnen de gestelde termijn betaalt, maant Onze Minister hem schriftelijk aan om alsnog binnen tien dagen na dagtekening van de aanmaning te betalen.
+
+##### Artikel 49a
+
+1. De beslissing tot het opleggen van een geldboete levert een executoriale titel op, die met toepassing van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) ten uitvoer kan worden gelegd. De secretaris van het tuchtcollege verstrekt een afschrift van de beslissing aan de partij die tot de tenuitvoerlegging van de beslissing kan overgaan, opgemaakt in executoriale vorm.
+
+2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van een beslissing als bedoeld in [artikel 48, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05).
+
+##### Artikel 49b
+
+Op een veroordeling in de kosten bedoeld in [artikel 69, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=69&z=2025-07-05&g=2025-07-05), is [artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=49a&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 ##### Artikel 50
 
@@ -930,7 +1066,7 @@ Niemand kan andermaal ingevolge de bepalingen van dit hoofdstuk worden berecht t
 
 Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarbij een in [artikel 48, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), omschreven maatregel werd opgelegd, is mogelijk, wanneer naderhand omstandigheden zijn gebleken die naar ernstig vermoeden tot een afwijkende beslissing zouden hebben geleid, indien zij tijdig bekend waren geworden. Bij algemene maatregel van bestuur worden hieromtrent nadere regels gesteld. De herziening zal niet kunnen leiden tot een wijziging in hetgeen voorheen was beslist, ten nadele van de betrokkene.
 
-#### § 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
+#### § 3. De tuchtcolleges
 
 ##### Artikel 53
 
@@ -945,6 +1081,12 @@ Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarb
 2. Bij algemene maatregel van bestuur wordt het Europese deel van Nederland in gebieden ingedeeld, waarvan elk het rechtsgebied van een regionaal tuchtcollege uitmaakt.
 
 3. Het centrale tuchtcollege is gevestigd te 's-Gravenhage.
+
+##### Artikel 53a
+
+1. De terechtzittingen en de vooronderzoeken vinden plaats in de vestigingsplaats van het regionale tuchtcollege.
+
+2. De voorzitter van een regionaal tuchtcollege kan in het belang van de behandeling van een zaak, bepalen dat een terechtzitting of een vooronderzoek in het kader van die zaak op een andere plaats plaatsvindt dan bedoeld in het eerste lid.
 
 ##### Artikel 54
 
@@ -968,6 +1110,10 @@ Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarb
 
 Bij verwijzing geldt als de datum van indiening van het klaagschrift de datum van de indiening bij het verwijzende college.
 
+##### Artikel 54a
+
+Indien een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) leidt tot een wijziging van het rechtsgebied van een regionaal tuchtcollege of indien het rechtsgebied van een regionaal tuchtcollege op basis van [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=53&z=2025-07-05&g=2025-07-05), wordt gewijzigd, heeft die wijziging geen gevolgen voor de bevoegdheid in zaken die op de datum van herindeling bij dat tuchtcollege aanhangig zijn.
+
 ##### Artikel 55
 
 1. Een regionaal tuchtcollege heeft rechtsgeleerde leden van wie één tevens voorzitter is, alsmede, voor elk van de in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), of krachtens [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), aangegeven categorieën van aan tuchtrechtspraak onderworpen personen, leden-beroepsgenoten. Van het college maken mede deel uit plaatsvervangende rechtsgeleerde leden, benevens voor elk van de in de eerste volzin bedoelde categorieën, plaatsvervangende leden-beroepsgenoten.
@@ -983,6 +1129,28 @@ Bij verwijzing geldt als de datum van indiening van het klaagschrift de datum va
 6. Het college heeft één of meer secretarissen, allen rechtsgeleerden. Zij worden bij besluit van Onze Minister aangewezen. De aanwijzing eindigt met ingang van de datum dat de uitoefening van de functie van secretaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar. Degenen die als secretaris zijn aangewezen bij een regionaal tuchtcollege zijn tevens aangewezen als secretaris bij de andere regionale tuchtcolleges.
 
 7. De leden van een regionaal tuchtcollege zijn tevens plaatsvervangend lid van de overige regionale tuchtcolleges. Indien een voorzitter of plaatsvervangend voorzitter op grond van de eerste volzin plaatsvervangend rechtsgeleerd lid is bij de andere regionale tuchtcolleges, is hij bij die andere regionale tuchtcolleges tevens plaatsvervangend voorzitter.
+
+##### Artikel 55bis
+
+Een benoeming van een plaatsvervangend lid van een regionaal tuchtcollege vervalt wanneer dat plaatsvervangend lid als:
+
+- a. plaatsvervangend rechtsgeleerd lid is benoemd en wordt benoemd tot rechtsgeleerd lid bij een regionaal tuchtcollege;
+
+- b. plaatsvervangend lid-beroepsgenoot is benoemd en voor hetzelfde beroep wordt benoemd als lid-beroepsgenoot bij een regionaal tuchtcollege.
+
+##### Artikel 55ter
+
+1. De regionale tuchtcolleges stellen een gemeenschappelijk reglement van orde vast.
+
+2. Onverminderd [artikel 54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=54&z=2025-07-05&g=2025-07-05), bevat het reglement van orde in ieder geval regels over deelname van de leden aan de behandeling van een zaak.
+
+3. De vaststelling van het reglement van orde geschiedt door de voorzitters van de drie regionale tuchtcolleges gezamenlijk.
+
+##### Artikel 55a
+
+1. Onze Minister draagt zorg voor de indienstneming van ambtenaren, die klagers kunnen adviseren bij het opstellen en wijzigen van hun klacht.
+
+2. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste lid.
 
 ##### Artikel 56
 
@@ -1004,23 +1172,9 @@ Bij verwijzing geldt als de datum van indiening van het klaagschrift de datum va
 
 3. Ingeval is geklaagd over een arts ter zake van verrichtingen op het gebied van de uitoefening der artsenijbereidkunst, wordt in het tuchtcollege ten minste één der plaatsen, bij [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05), onderscheidenlijk [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), toegewezen aan leden-beroepsgenoten, vervuld door een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot, die op grond van [artikel 61, tiende of elfde lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) mede bevoegd is geneesmiddelen ter hand te stellen.
 
-##### Artikel 84
+##### Artikel 58
 
-1. Tegen een eindbeslissing van het regionale tuchtcollege kan degene op wie de voordracht betrekking heeft, alsmede de betrokken inspecteur, binnen zes weken na de dag van verzending van het afschrift van die beslissing bij het centrale tuchtcollege beroep instellen.
-
-2. Ten aanzien van de samenstelling van het centrale tuchtcollege bij de behandeling van zodanig beroep is [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing, met dien verstande dat de in die bepaling aan leden-beroepsgenoten toegewezen plaatsen in alle gevallen worden ingenomen door leden of plaatsvervangende leden van het college, benoemd uit de personen die in het desbetreffende register als arts of gezondheidszorgpsycholoog ingeschreven staan.
-
-3. De [artikelen 73, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2025-07-05&g=2025-07-05), en [83, vijfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing. In geval van intrekking van een ingesteld beroep door degene op wie de voordracht betrekking heeft, wordt de behandeling in beroep gestaakt, tenzij het college zijn onderzoek van de zaak ter rechtszitting reeds heeft beëindigd.
-
-4. Indien een beroepschrift afkomstig is van een persoon die niet bevoegd is tot het instellen van beroep, niet tijdig is ingediend of niet voldoet aan de krachtens het derde lid met overeenkomstige toepassing van [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2025-07-05&g=2025-07-05), gestelde eisen, kan het centrale tuchtcollege op voorstel van degene die het vooronderzoek heeft verricht zonder verder onderzoek, in raadkamer, een beslissing geven, welke strekt tot het niet-ontvankelijk verklaren van degene die het beroep heeft ingesteld. De beslissing is met redenen omkleed en wordt op schrift gesteld. In andere dan in de eerste volzin bedoelde gevallen kan de voorzitter, alvorens de zaak naar een rechtszitting te verwijzen, een vooronderzoek op de voet van [artikel 83, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), gelasten.
-
-5. Op de behandeling in beroep en de uitspraak van de eindbeslissing zijn de [artikelen 74, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=74&z=2025-07-05&g=2025-07-05), en [83, achtste tot en met elfde lid, dertiende lid, met uitzondering van de tweede volzin, en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing, met dien verstande dat de beslissing van het centrale tuchtcollege eveneens in het openbaar wordt uitgesproken indien de beslissing van het regionale tuchtcollege, waartegen beroep is ingesteld, in het openbaar werd uitgesproken.
-
-6. Ten aanzien van de toezending van afschriften van de eindbeslissing van het centrale tuchtcollege is [artikel 83, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing, met dien verstande dat een afschrift mede wordt toegezonden aan het centrale tuchtcollege.
-
-7. Met betrekking tot de overeenkomstig het zesde lid juncto [artikel 83, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), aan de secretaris van het centrale tuchtcollege toegezonden afschriften van de beslissingen is [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=6&artikel=76&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
-
-8. Indien degene op wie de voordracht betrekking heeft in een zaak tevens lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot is van het centrale tuchtcollege wordt de zaak behandeld door leden die daartoe door de voorzitter zijn aangewezen. Bij die aanwijzing draagt de voorzitter er zorg voor dat een onafhankelijke behandeling is gewaarborgd.
+*Vervallen*
 
 ##### Artikel 59
 
@@ -1058,9 +1212,25 @@ De leden, plaatsvervangende leden en secretarissen van de tuchtcolleges is het v
 
 2. In de daarvoor in aanmerking komende gevallen kan bij koninklijk besluit, in afwijking van het eerste lid, aan de voorzitter, een ander lid of plaatsvervangend lid dat met toepassing van [artikel 66, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=66&z=2025-07-05&g=2025-07-05), vooronderzoek verricht, of de secretaris van een tuchtcollege een salaris worden toegekend op een bij dat besluit te bepalen voet. In dat geval geniet de betrokkene bovendien een tijdelijke toelage voor kinderen, een vakantieuitkering, een ziektekostenvergoeding, een vergoeding van reis- en verblijfkosten, een vergoeding van verplaatsingskosten, alsmede een spaarpremie, overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren bij de ministeries zijn of zullen worden vastgesteld.
 
+##### Artikel 62a
+
+1. De leden, plaatsvervangende leden en de secretarissen van een tuchtcollege leggen voorafgaand aan de aanvang van hun werkzaamheden voor het college de eed of belofte af, volgens het formulier zoals dat is vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0006251) bij deze wet.
+
+2. De voorzitter legt de eed of de belofte af ten overstaan van een plaatsvervangend voorzitter. De overige in het eerste lid bedoelde personen leggen de eed of belofte af ten overstaan van de voorzitter of een plaatsvervangend voorzitter.
+
+3. Bij een herbenoeming worden de in het eerste lid bedoelde personen niet opnieuw beëdigd.
+
+##### Artikel 62b
+
+De in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2025-07-05&g=2025-07-05), bedoelde personen zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitvoering van hun taak de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
+
 ##### Artikel 63
 
 Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft in dat college, kan zich verschonen en kan worden gewraakt, indien er te zijnen aanzien feiten of omstandigheden bestaan, waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden. De [artikelen 512 tot en met 524 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=512) zijn van overeenkomstige toepassing.
+
+##### Artikel 63a
+
+In afwijking van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05) wordt aan de behandeling van een verzoek tot wraking of verschoning slechts deelgenomen door drie rechtsgeleerde leden, van wie één tevens voorzitter is.
 
 ##### Artikel 64
 
@@ -1070,7 +1240,7 @@ Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft
 
 3. Indien het regionale tuchtcollege hieraan niet voldoet, kan het centrale tuchtcollege de behandeling van de zaak aan een ander regionaal tuchtcollege overdragen.
 
-#### § 2. Tuchtmaatregelen
+#### § 4. Procedure in eerste aanleg
 
 ##### Artikel 65
 
@@ -1096,6 +1266,56 @@ Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft
 
 7. De inspecteur is verplicht ter zake van door hem ingediende klaagschriften aan de ambtenaren van het openbaar ministerie de door hen gevraagde inlichtingen te verstrekken. Hij kan de in de eerste volzin bedoelde ambtenaren ook uit eigen beweging ter zake inlichten.
 
+##### Artikel 65a
+
+1. De secretaris van het tuchtcollege heft van de indiener van het klaagschrift een griffierecht van € 50.
+
+2. Indien het een klaagschrift betreft tegen twee of meer beroepsbeoefenaren en dat ten aanzien van elke beroepsbeoefenaar betrekking heeft op hetzelfde feitencomplex of samenhangende feitencomplexen, is eenmaal griffierecht verschuldigd.
+
+3. De secretaris wijst de indiener van het klaagschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dag van verzending van zijn mededeling dient te zijn bijgeschreven op het daarbij aangegeven bankrekeningnummer. Indien het bedrag niet binnen deze termijn is bijgeschreven, verklaart de voorzitter de klager niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de klager ten aanzien van de betaling in verzuim is geweest.
+
+4. In afwijking van het eerste lid wordt geen griffierecht geheven indien een klaagschrift wordt ingediend door de inspecteur.
+
+5. Indien de klacht geheel of gedeeltelijk gegrond wordt verklaard, wordt het griffierecht aan de klager terugbetaald.
+
+6. Onze Minister kan het in het eerste lid bedoelde bedrag wijzigen voor zover de consumentenprijsindex daartoe aanleiding geeft.
+
+##### Artikel 65b
+
+1. De secretaris van het college zendt een afschrift van het klaagschrift aan de beklaagde zodra het griffierecht is betaald.
+
+2. De secretaris van een college zendt aan de inspecteur een periodiek geaggregeerd overzicht van de ingediende klaagschriften. Bij ministeriële regeling kunnen nadere regels worden gesteld over het geaggregeerd overzicht bedoeld in de eerste volzin.
+
+##### Artikel 65c
+
+1. De klager kan zijn klacht tot uiterlijk twee weken voor de behandeling van de zaak op de terechtzitting schriftelijk wijzigen of aanvullen.
+
+2. De secretaris verstrekt de beklaagde een afschrift van de schriftelijke wijziging. De beklaagde wordt in de gelegenheid gesteld te worden gehoord over de wijziging, dan wel aanvulling van de klacht.
+
+##### Artikel 65d
+
+1. De klager kan zijn klacht tot aan de uitspraak door het tuchtcollege intrekken. De secretaris bericht de beklaagde indien een klager zijn klacht heeft ingetrokken.
+
+2. Indien de klacht wordt ingetrokken, wordt de behandeling daarvan gestaakt, tenzij:
+
+- a. de beklaagde schriftelijk verklaart voortzetting van de behandeling te verlangen;
+
+- b. het tuchtcollege beslist dat de behandeling van de klacht om redenen, aan het algemeen belang ontleend, moet worden voortgezet.
+
+3. Indien om redenen van algemeen belang wordt beslist tot voortzetting van de klacht wordt de inspecteur voor het vervolg van de zaak als klager aangemerkt. De secretaris bericht de inspecteur over de voortzetting van de klacht.
+
+4. Indien de beklaagde overlijdt, wordt de behandeling van de klacht gestaakt.
+
+5. Indien de klager overlijdt, kan het tuchtcollege om redenen van algemeen belang beslissen dat de behandeling van de klacht wordt voortgezet. Het derde lid is van overeenkomstige toepassing.
+
+##### Artikel 65e
+
+De klager en de beklaagde kunnen zich laten vertegenwoordigen door een gemachtigde en zich laten bijstaan door een raadsman. De gemachtigde, niet zijnde een advocaat, legt desgevraagd ten bewijze van de machtiging een schriftelijke volmacht over. De voorzitter van het regionale tuchtcollege kan slechts weigeren een persoon, niet zijnde een advocaat, als gemachtigde of als raadsman toe te laten, indien er duidelijke aanwijzingen zijn dat door de toelating van die persoon een behoorlijke uitoefening van de tuchtrechtspraak zal worden belemmerd. De weigering wordt door de voorzitter schriftelijk gemotiveerd.
+
+##### Artikel 65f
+
+Onze Minister kan ambtenaren van de Inspectie gezondheidszorg en jeugd aanwijzen aan wie dezelfde bevoegdheden toekomen als waarover de inspecteur, bedoeld in [artikel 65, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05), beschikt voor het voeren van een procedure bij een tuchtcollege in eerste aanleg als bedoeld in deze paragraaf of in beroep als bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&z=2025-07-05&g=2025-07-05) van dit hoofdstuk.
+
 ##### Artikel 66
 
 1. Na verzending van het afschrift, bedoeld in [artikel 65b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65b&z=2025-07-05&g=2025-07-05), gelast de voorzitter van het regionale tuchtcollege een vooronderzoek. De voorzitter draagt het vooronderzoek op aan een of meer leden, plaatsvervangende leden of de secretaris van het regionale tuchtcollege.
@@ -1118,6 +1338,26 @@ Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft
 
 3. Indien dit noodzakelijk is in het belang van de bescherming van de persoonlijke levenssfeer van derden, bepaalt de voorzitter van het tuchtcollege dat het kennisnemen van bepaalde processtukken of gedeelten ervan niet wordt toegestaan aan de klager persoonlijk, maar uitsluitend aan een gemachtigde, die arts of advocaat is, dan wel van de voorzitter bijzondere toestemming heeft verkregen.
 
+##### Artikel 67a
+
+1. Tenzij reeds is bepaald dat de zaak ter terechtzitting zal worden behandeld, kan door de voorzitter dan wel door het regionale tuchtcollege in raadkamer een eindbeslissing worden gegeven, inhoudende dat:
+
+- a. het college kennelijk onbevoegd is;
+
+- b. de klager kennelijk niet-ontvankelijk is;
+
+- c. de klacht kennelijk ongegrond is; of
+
+- d. de klacht kennelijk van onvoldoende gewicht is.
+
+2. [Artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=69&z=2025-07-05&g=2025-07-05), en [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=72&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing.
+
+##### Artikel 67b
+
+1. De voorzitter van het tuchtcollege kan bepalen dat de beklaagde of de klager wordt opgeroepen om in persoon op de zitting te verschijnen teneinde hun standpunten toe te lichten of het college inlichtingen te verschaffen. Zij worden opgeroepen door de secretaris. De klager en de beklaagde zijn verplicht aan de oproeping gevolg te geven. Partijen worden hierop gewezen.
+
+2. Indien de beklaagde of de klager, hoewel behoorlijk opgeroepen niet op de zitting verschijnt, kan het college daaruit de gevolgtrekkingen maken die het geraden voorkomt.
+
 ##### Artikel 68
 
 1. Het regionale tuchtcollege kan getuigen en deskundigen ter terechtzitting oproepen en horen. Ieder die als getuige of deskundige is opgeroepen, is verplicht aan de oproeping gevolg te geven.
@@ -1131,6 +1371,12 @@ Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft
 5. Ten aanzien van de getuigen en deskundigen zijn de [artikelen 217 tot en met 219 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=217) van overeenkomstige toepassing.
 
 6. De getuigen en deskundigen, opgeroepen door het tuchtcollege, ontvangen, desverkiezende op vertoon van hun oproeping of dagvaarding, uit ’s Rijks kas schadeloosstelling, door de voorzitter van het college te begroten overeenkomstig het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde. De voorzitter begroot op overeenkomstige wijze de schadeloosstelling voor getuigen en deskundigen, opgeroepen of uitgenodigd ingevolge het tweede lid, welke ten laste komt van degene door wie zij zijn opgeroepen of uitgenodigd. Deurwaarders ontvangen voor de werkzaamheden verricht ingevolge het tweede lid, van hun opdrachtgever een vergoeding overeenkomstig de bepalingen van het tarief van justitiekosten en salarissen in burgerlijke zaken.
+
+##### Artikel 68a
+
+1. Indien naar aanleiding van het vooronderzoek of de behandeling ter terechtzitting van een klacht als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05) een vermoeden is gerezen dat een beklaagde mogelijk ongeschikt is om zijn beroep uit te oefenen als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), stelt de voorzitter de inspecteur daarvan op de hoogte. De voorzitter zendt de stukken waarop het vermoeden van de mogelijke ongeschiktheid van de beroepsbeoefenaar is gebaseerd aan de inspecteur.
+
+2. De voorzitter die een vermoeden als bedoeld in het eerste lid heeft geuit, neemt geen deel aan de behandeling van een zaak tegen die beroepsbeoefenaar, als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 69
 
@@ -1164,7 +1410,7 @@ Een lid van een tuchtcollege, dat voor de behandeling van een zaak zitting heeft
 
 ##### Artikel 71
 
-Het regionale tuchtcollege kan om redenen, aan het algemeen belang ontleend, bepalen dat zijn eindbeslissing geheel of gedeeltelijk in de **Staatscourant** zal worden bekendgemaakt en aan door hem aangewezen tijdschriften of nieuwsbladen ter bekendmaking zal worden aangeboden, een en ander met weglating van de namen, voornamen en woonplaatsen van de in de beslissing genoemde personen alsmede van de daarin voorkomende andere gegevens die omtrent deze personen een aanwijzing bevatten.
+Het regionale tuchtcollege kan om redenen, aan het algemeen belang ontleend, bepalen dat zijn eindbeslissing geheel of gedeeltelijk in de *Staatscourant* zal worden bekendgemaakt en aan door hem aangewezen tijdschriften of nieuwsbladen ter bekendmaking zal worden aangeboden, een en ander met weglating van de namen, voornamen en woonplaatsen van de in de beslissing genoemde personen alsmede van de daarin voorkomende andere gegevens die omtrent deze personen een aanwijzing bevatten.
 
 ##### Artikel 72
 
@@ -1182,13 +1428,13 @@ Het regionale tuchtcollege kan om redenen, aan het algemeen belang ontleend, bep
 
 2. Van een eindbeslissing waarbij een der in [artikel 48, eerste lid, onder b tot en met g, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), omschreven maatregelen is opgelegd, wordt voorts binnen een week na de uitspraak daarvan een afschrift gezonden aan Onze Minister.
 
-#### § 3. De tuchtcolleges
+#### § 5. Procedure in beroep
 
 ##### Artikel 73
 
 1. Tegen een eindbeslissing van het regionale tuchtcollege en tegen een eindbeslissing van de voorzitter van het regionale tuchtcollege kan binnen zes weken na de dag van verzending van het afschrift van die beslissing bij het centrale tuchtcollege beroep worden ingesteld door:
 
-- a. de klager, voor zover zijn klacht ongegrond is verklaard, hij niet-ontvankelijk is verklaard, het college kennelijk onbevoegd is, of voor zover de klacht kennelijk van onvoldoende gewicht is;
+- a. de klager, voor zover zijn klacht ongegrond is verklaard, hij niet-ontvankelijk is verklaard, het college kennelijk onbevoegd is, of voor zover de klacht kennelijk van onvoldoende gewicht is;
 
 - b. de beklaagde;
 
@@ -1214,6 +1460,36 @@ Het regionale tuchtcollege kan om redenen, aan het algemeen belang ontleend, bep
 
 11. De [artikelen 65, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05), en [65d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing, met dien verstande dat waar in dat artikel wordt gesproken over «klaagschrift» daar voor de toepassing van dat artikel «beroepschrift» moet worden gelezen.
 
+##### Artikel 73a
+
+1. De voorzitter van het centrale tuchtcollege kan kennelijk niet-ontvankelijke en kennelijk ongegronde beroepen, alsmede beroepen die naar zijn oordeel niet zullen leiden tot een andere beslissing dan die van het regionale tuchtcollege, binnen zes weken nadat zij zijn ingesteld, bij met redenen omklede beslissing afwijzen.
+
+2. [Artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=69&z=2025-07-05&g=2025-07-05), en [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=72&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing
+
+##### Artikel 73b
+
+1. Tegen een beslissing als bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73a&z=2025-07-05&g=2025-07-05), kunnen de klager en de beklaagde binnen veertien dagen na de verzending van het afschrift van de beslissing, schriftelijk verzet doen bij het centrale tuchtcollege.
+
+2. Alvorens te beslissen op het verzet, stelt het centrale tuchtcollege klager en beklaagde in de gelegenheid te worden gehoord.
+
+3. Het verzet wordt behandeld in een samenstelling van het centrale tuchtcollege waarvan degene die de in [artikel 73a bedoelde](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73a&z=2025-07-05&g=2025-07-05) beslissing heeft genomen geen deel uitmaakt.
+
+4. De beslissing op verzet is met redenen omkleed en strekt tot:
+
+- a. niet-ontvankelijkverklaring van het verzet;
+
+- b. ongegrondverklaring van het verzet; of
+
+- c. gegrondverklaring van het verzet.
+
+5. Indien het centrale tuchtcollege het verzet niet-ontvankelijk of ongegrond verklaart, blijft de beslissing waartegen verzet was gedaan in stand.
+
+6. Indien het verzet gegrond wordt verklaard, vervalt de beslissing waartegen verzet was gedaan en wordt de behandeling van de zaak voortgezet.
+
+7. Tegen de beslissing op verzet staat geen rechtsmiddel open. Van de beslissing zendt de voorzitter onverwijld een afschrift aan de [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=72&z=2025-07-05&g=2025-07-05) genoemde personen.
+
+8. In afwijking van het zesde lid kan het centrale tuchtcollege zonder behandeling ter terechtzitting uitspraak doen op de klacht, indien het verzet gegrond is en nader onderzoek of nadere behandeling redelijkerwijs niet kan bijdragen aan de beoordeling van de klacht.
+
 ##### Artikel 74
 
 1. Indien een beroepschrift afkomstig is van een persoon die niet bevoegd is tot het instellen van beroep, niet tijdig is ingediend of niet voldoet aan de krachtens [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2025-07-05&g=2025-07-05), gestelde eisen, kan het centrale tuchtcollege op voorstel van de voorzitter zonder verder onderzoek, in raadkamer, een beslissing geven, welke strekt tot het niet-ontvankelijk verklaren van degene die het beroep heeft ingesteld. De beslissing is met redenen omkleed en wordt op schrift gesteld. In andere dan in de eerste volzin bedoelde gevallen kan de voorzitter, alvorens de zaak naar een terechtzitting te verwijzen, een vooronderzoek op de voet van het in [artikel 66, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=66&z=2025-07-05&g=2025-07-05), bepaalde gelasten.
@@ -1234,7 +1510,7 @@ Het regionale tuchtcollege kan om redenen, aan het algemeen belang ontleend, bep
 
 Tegen een beslissing van het centrale tuchtcollege staat geen andere voorziening open dan cassatie in het belang der wet.
 
-#### § 5. Procedure in beroep
+#### § 6. Verdere bepalingen
 
 ##### Artikel 76
 
@@ -1268,6 +1544,14 @@ De tuchtcolleges brengen jaarlijks vóór 1 april verslag uit omtrent hun werkza
 
 4. Onze Minister kan ambtenaren van de Inspectie gezondheidszorg en jeugd aanwijzen aan wie dezelfde bevoegdheden toekomen als waarover de inspecteur, bedoeld in het eerste lid, beschikt voor het voeren van een procedure als bedoeld in dit hoofdstuk.
 
+##### Artikel 79a
+
+1. Bevoegd tot het behandelen van een voordracht in eerste aanleg is het regionale tuchtcollege van het rechtsgebied waarin de beroepsbeoefenaar zijn woonplaats heeft.
+
+2. Indien de beroepsbeoefenaar geen woonplaats heeft in een rechtsgebied van een van de regionale tuchtcolleges, is het regionale tuchtcollege te Amsterdam bevoegd tot het behandelen van de voordracht.
+
+3. Indien een voordracht als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), wordt gedaan tegen een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot dat tevens lid is van het regionale tuchtcollege waar de voordracht wordt gedaan, kan de voorzitter in het belang van een onafhankelijke behandeling, de zaak ter behandeling verwijzen naar een ander regionaal tuchtcollege. De zaak wordt in het behandelend regionale tuchtcollege behandeld door leden die daartoe door de voorzitter zijn aangewezen. Bij die aanwijzing draagt de voorzitter er zorg voor dat een onafhankelijke behandeling is gewaarborgd.
+
 ##### Artikel 80
 
 1. Een voorziening, bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), kan bestaan in het opleggen van een der volgende maatregelen ten aanzien van de betrokkene:
@@ -1278,9 +1562,9 @@ De tuchtcolleges brengen jaarlijks vóór 1 april verslag uit omtrent hun werkza
 
 - c. doorhaling van de inschrijving in het register.
 
-2. De maatregelen, bedoeld in het eerste lid, onder **a** en **b**, kunnen ook gezamenlijk worden opgelegd.
+2. De maatregelen, bedoeld in het eerste lid, onder *a* en *b*, kunnen ook gezamenlijk worden opgelegd.
 
-3. Een maatregel, bedoeld in het eerste lid, onder **a** of **b**, wordt eerst van kracht bij het onherroepelijk worden van de beslissing waarbij hij is opgelegd, tenzij het regionale tuchtcollege, indien het belang van de bescherming van de individuele gezondheidszorg zulks vordert, bij zijn beslissing heeft bepaald dat hij onmiddellijk van kracht wordt.
+3. Een maatregel, bedoeld in het eerste lid, onder *a* of *b*, wordt eerst van kracht bij het onherroepelijk worden van de beslissing waarbij hij is opgelegd, tenzij het regionale tuchtcollege, indien het belang van de bescherming van de individuele gezondheidszorg zulks vordert, bij zijn beslissing heeft bepaald dat hij onmiddellijk van kracht wordt.
 
 4. De maatregel van doorhaling van de inschrijving in het register wordt vanwege Onze Minister ten uitvoer gelegd zodra de beslissing waarbij hij is opgelegd, onherroepelijk is geworden.
 
@@ -1348,25 +1632,55 @@ Indien degene op wie de voordracht betrekking heeft, overlijdt, wordt de behande
 
 ##### Artikel 84
 
-1. Tegen een eindbeslissing van het college van medisch toezicht kan degene op wie de voordracht betrekking heeft, alsmede de betrokken inspecteur, binnen zes weken na de dag van verzending van het afschrift van die beslissing bij het centrale tuchtcollege beroep instellen.
+1. Tegen een eindbeslissing van het regionale tuchtcollege kan degene op wie de voordracht betrekking heeft, alsmede de betrokken inspecteur, binnen zes weken na de dag van verzending van het afschrift van die beslissing bij het centrale tuchtcollege beroep instellen.
 
-2. Ten aanzien van de samenstelling van het centrale tuchtcollege bij de behandeling van zodanig beroep is [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2011-07-01&g=2011-07-01), van overeenkomstige toepassing, met dien verstande dat de in die bepaling aan leden-beroepsgenoten toegewezen plaatsen in alle gevallen worden ingenomen door leden of plaatsvervangende leden van het college, benoemd uit de personen die in het desbetreffende register als arts ingeschreven staan.
+2. Ten aanzien van de samenstelling van het centrale tuchtcollege bij de behandeling van zodanig beroep is [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing, met dien verstande dat de in die bepaling aan leden-beroepsgenoten toegewezen plaatsen in alle gevallen worden ingenomen door leden of plaatsvervangende leden van het college, benoemd uit de personen die in het desbetreffende register als arts of gezondheidszorgpsycholoog ingeschreven staan.
 
-3. De [artikelen 73, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2011-07-01&g=2011-07-01), en [83, derde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2011-07-01&g=2011-07-01), zijn van overeenkomstige toepassing. In geval van intrekking van een ingesteld beroep door degene op wie de voordracht betrekking heeft, wordt de behandeling in beroep gestaakt, tenzij het college zijn onderzoek van de zaak ter rechtszitting reeds heeft beëindigd.
+3. De [artikelen 73, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2025-07-05&g=2025-07-05), en [83, vijfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing. In geval van intrekking van een ingesteld beroep door degene op wie de voordracht betrekking heeft, wordt de behandeling in beroep gestaakt, tenzij het college zijn onderzoek van de zaak ter rechtszitting reeds heeft beëindigd.
 
-4. Indien een beroepschrift afkomstig is van een persoon die niet bevoegd is tot het instellen van beroep, niet tijdig is ingediend of niet voldoet aan de krachtens het derde lid met overeenkomstige toepassing van [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2011-07-01&g=2011-07-01), gestelde eisen, kan het centrale tuchtcollege op voorstel van degene die het vooronderzoek heeft verricht zonder verder onderzoek, in raadkamer, een beslissing geven, welke strekt tot het niet-ontvankelijk verklaren van degene die het beroep heeft ingesteld. De beslissing is met redenen omkleed en wordt op schrift gesteld. In andere dan in de eerste volzin bedoelde gevallen kan de voorzitter, alvorens de zaak naar een rechtszitting te verwijzen, een vooronderzoek op de voet van [artikel 83, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2011-07-01&g=2011-07-01), gelasten.
+4. Indien een beroepschrift afkomstig is van een persoon die niet bevoegd is tot het instellen van beroep, niet tijdig is ingediend of niet voldoet aan de krachtens het derde lid met overeenkomstige toepassing van [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73&z=2025-07-05&g=2025-07-05), gestelde eisen, kan het centrale tuchtcollege op voorstel van degene die het vooronderzoek heeft verricht zonder verder onderzoek, in raadkamer, een beslissing geven, welke strekt tot het niet-ontvankelijk verklaren van degene die het beroep heeft ingesteld. De beslissing is met redenen omkleed en wordt op schrift gesteld. In andere dan in de eerste volzin bedoelde gevallen kan de voorzitter, alvorens de zaak naar een rechtszitting te verwijzen, een vooronderzoek op de voet van [artikel 83, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), gelasten.
 
-5. Op de behandeling in beroep en de uitspraak van de eindbeslissing zijn de [artikelen 74, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=74&z=2011-07-01&g=2011-07-01), en [83, zesde tot en met negende lid, elfde lid, met uitzondering van de tweede volzin, en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2011-07-01&g=2011-07-01), van overeenkomstige toepassing, met dien verstande dat de beslissing van het centrale tuchtcollege eveneens in het openbaar wordt uitgesproken indien de beslissing van het college van medisch toezicht, waartegen beroep is ingesteld, in het openbaar werd uitgesproken.
+5. Op de behandeling in beroep en de uitspraak van de eindbeslissing zijn de [artikelen 74, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=74&z=2025-07-05&g=2025-07-05), en [83, achtste tot en met elfde lid, dertiende lid, met uitzondering van de tweede volzin, en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing, met dien verstande dat de beslissing van het centrale tuchtcollege eveneens in het openbaar wordt uitgesproken indien de beslissing van het regionale tuchtcollege, waartegen beroep is ingesteld, in het openbaar werd uitgesproken.
 
-6. Ten aanzien van de toezending van afschriften van de eindbeslissing van het centrale tuchtcollege is [artikel 83, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2011-07-01&g=2011-07-01), van overeenkomstige toepassing, met dien verstande dat een afschrift mede wordt toegezonden aan het college van medisch toezicht.
+6. Ten aanzien van de toezending van afschriften van de eindbeslissing van het centrale tuchtcollege is [artikel 83, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), van overeenkomstige toepassing, met dien verstande dat een afschrift mede wordt toegezonden aan het centrale tuchtcollege.
 
-7. Met betrekking tot de overeenkomstig het zesde lid juncto [artikel 83, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2011-07-01&g=2011-07-01), aan de secretaris van het centrale tuchtcollege toegezonden afschriften van de beslissingen is [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=6&artikel=76&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
+7. Met betrekking tot de overeenkomstig het zesde lid juncto [artikel 83, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=83&z=2025-07-05&g=2025-07-05), aan de secretaris van het centrale tuchtcollege toegezonden afschriften van de beslissingen is [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=6&artikel=76&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
+
+8. Indien degene op wie de voordracht betrekking heeft in een zaak tevens lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot is van het centrale tuchtcollege wordt de zaak behandeld door leden die daartoe door de voorzitter zijn aangewezen. Bij die aanwijzing draagt de voorzitter er zorg voor dat een onafhankelijke behandeling is gewaarborgd.
 
 ##### Artikel 85
 
 Ten aanzien van het centrale tuchtcollege is met betrekking tot zaken die bij dat college ingevolge een krachtens [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=84&z=2025-07-05&g=2025-07-05) ingesteld beroep aanhangig zijn, [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
+### Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
+
+##### Artikel 85a
+
+1. De inspecteur kan een beroepsbeoefenaar die in een der in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), vermelde hoedanigheden in een register ingeschreven staat, een last tot onmiddellijke onthouding van de beroepsactiviteiten voor het betrokken beroep opleggen.
+
+2. Een last als bedoeld in het eerste lid kan worden opgelegd indien:
+
+- a. gedragingen van de beroepsbeoefenaar hebben geleid tot ernstige benadeling van de gezondheid van personen of een aanmerkelijke kans daarop, dan wel indien die gedragingen blijk geven van een persoonlijkheid die zich niet verdraagt met het door hem uitgeoefende beroep, en
+
+- b. de gedragingen van de beroepsbeoefenaar van zodanige aard zijn dat het belang van de volksgezondheid meebrengt dat de beroepsbeoefenaar zijn beroepsactiviteiten staakt totdat een regionaal tuchtcollege als bedoeld in [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), over dat handelen heeft geoordeeld.
+
+3. De in het eerste lid bedoelde last eindigt acht weken na de dag waarop de last aan de beroepsbeoefenaar is bekend gemaakt, tenzij de inspecteur binnen die periode van acht weken tegen de beroepsbeoefenaar bij het regionale tuchtcollege een klaagschrift heeft ingediend dan wel met betrekking tot die beroepsbeoefenaar een voordracht als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05) heeft gedaan.
+
+4. Indien de inspecteur met inachtneming van het derde lid een zaak aanhangig heeft gemaakt bij het regionale tuchtcollege, blijft de in het eerste lid bedoelde last van kracht totdat dat tuchtcollege een einduitspraak heeft gedaan.
+
+5. Indien de inspecteur binnen de periode van acht weken afziet van het indienen van een tuchtklacht dan wel het doen van een voordracht als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), doet hij daarvan zo spoedig mogelijk mededeling aan de beroepsbeoefenaar. De last komt daarmee ten einde. In de mededeling wordt de datum vermeld waarop de last ten einde is gekomen.
+
+6. De inspecteur meldt de beroepsbeoefenaar aan wie hij een last heeft opgelegd na het verstrijken van de periode van acht weken zo spoedig mogelijk dat de last is beëindigd indien hij niet binnen die periode een tuchtklacht heeft ingediend dan wel een voordracht heeft gedaan als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05).
+
+7. De inspecteur vermeldt in zijn klaagschrift dan wel de voordracht dat aan de betrokken beroepsbeoefenaar een last als bedoeld in het eerste lid is opgelegd.
+
+8. De secretaris zendt het afschrift van het klaagschrift dan wel van de voordracht zo spoedig mogelijk aan de betrokken beroepsbeoefenaar.
+
+##### Artikel 85b
+
+Indien de inspecteur een zaak aanhangig heeft gemaakt dan wel een voordracht heeft gedaan bij het regionale tuchtcollege als bedoeld in [artikel 85a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIIIA&artikel=85a&z=2025-07-05&g=2025-07-05), behandelt het tuchtcollege de zaak overeenkomstig [artikel 65, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05).
+
+### Hoofdstuk IX. Verdere bepalingen
 
 ##### Artikel 86
 
@@ -1376,13 +1690,13 @@ Met het toezicht op de naleving van de krachtens deze wet geregelde opleidingen,
 
 1. De met het toezicht belaste ambtenaren beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-2. De aan de met het toezicht belaste ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op patiëntendossiers.
+2. De aan de met het toezicht belaste ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op patiëntendossiers.
 
-3. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en van [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IX&artikel=88&z=2025-07-05&g=2025-07-05) van deze wet, niet inroepen tegenover de met het toezicht belaste ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
+3. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en van [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IX&artikel=88&z=2025-07-05&g=2025-07-05) van deze wet, niet inroepen tegenover de met het toezicht belaste ambtenaren. Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
 
 ##### Artikel 87a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 88
 
@@ -1390,7 +1704,7 @@ De beoefenaren van een op grond van [artikel 3](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
@@ -1410,13 +1724,13 @@ De voordracht voor een algemene maatregel van bestuur waarbij ten aanzien van ee
 
 - c. zij hun beroep uitoefenen ten behoeve van:
 
-- –. personeel behorende tot de krijgsmacht waaraan de beroepsbeoefenaar is verbonden;
+   - – personeel behorende tot de krijgsmacht waaraan de beroepsbeoefenaar is verbonden;
 
-- –. personeel behorende tot een andere buitenlandse krijgsmacht;
+   - – personeel behorende tot een andere buitenlandse krijgsmacht;
 
-- –. degenen met wie het personeel, bedoeld onder a en b, duurzaam samenleeft, of
+   - – degenen met wie het personeel, bedoeld onder a en b, duurzaam samenleeft, of
 
-- –. militaire ambtenaren als bedoeld in [artikel 1, onderdeel a, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1).
+   - – militaire ambtenaren als bedoeld in [artikel 1, onderdeel a, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1).
 
 2. De verboden, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), onderscheidenlijk [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), en [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), zijn niet van toepassing ten aanzien van beroepsbeoefenaren:
 
@@ -1452,6 +1766,18 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 5. Indien het feit, bedoeld in het eerste lid, de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
+##### Artikel 96a
+
+1. Indien tegen de verdachte van overtreding van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05) ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, is de officier van justitie, zolang de behandeling ter terechtzitting nog niet is aangevangen, bevoegd, gehoord de Inspectie gezondheidszorg en jeugd, de verdachte bij aan deze te betekenen kennisgeving als voorlopige maatregel te bevelen zich van bepaalde handelingen te onthouden.
+
+2. De verdachte kan tegen het bevel binnen veertien dagen na de betekening in beroep komen bij het gerecht waar de zaak wordt vervolgd of vervolgd zal worden. Het gerecht beslist zo spoedig mogelijk. De verdachte wordt gehoord, althans behoorlijk opgeroepen.
+
+3. [Artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=28), en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=30) zijn van overeenkomstige toepassing.
+
+##### Artikel 96b
+
+Indien tegen de verdachte van overtreding van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05) ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, kan het met de behandeling van de zaak belaste gerecht voor de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, op de voordracht van de rechter-commissaris, met onderzoek in de zaak belast, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, de verdachte, gehoord de Inspectie gezondheidszorg en jeugd, als voorlopige maatregel bevelen zich van bepaalde handelingen te onthouden. [Artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=1&paragraaf=6&artikel=29&z=2025-07-05&g=2025-07-05), en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=30) zijn van overeenkomstige toepassing.
+
 ##### Artikel 97
 
 Degene die handelt in strijd met het in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35&z=2025-07-05&g=2025-07-05), of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=38&z=2025-07-05&g=2025-07-05) gestelde verbod wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
@@ -1462,11 +1788,19 @@ Degene die handelt in strijd met het in [artikel 35, eerste lid](https://wetten.
 
 2. Op dezelfde wijze wordt gestraft degene die handelt in strijd met een ingevolge [artikel 96a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96a&z=2025-07-05&g=2025-07-05) of [artikel 96b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96b&z=2025-07-05&g=2025-07-05) gegeven bevel zich van bepaalde handelingen te onthouden.
 
+##### Artikel 98a
+
+Onverminderd de [artikelen 254a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=254a)[260](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=260), [295](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=295), [305](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=305) en [309 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309), kan een persoon die werkzaam is in de individuele gezondheidszorg worden ontzet van het recht om een of meer beroepen in de individuele gezondheidszorg uit te oefenen, indien hij wordt veroordeeld voor een van de strafbare feiten omschreven in:
+
+- a. [artikel 96, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05);
+
+- b. de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243), [245 tot en met 253](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=255) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=257), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [301 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=301) en [307](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307) en [308 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=308).
+
 ##### Artikel 99
 
 1. Degene die, hoewel hij in de uitoefening van zijn bevoegdheden is geschorst ten gevolge van een onherroepelijk geworden overeenkomstig [artikel 48, eerste lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), en 48, tweede lid opgelegde maatregel, een maatregel berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep tijdelijk geheel heeft verloren, dan wel een maatregel, bij wijze van voorlopige voorziening opgelegd overeenkomstig [artikel 80, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2025-07-05&g=2025-07-05), tijdens de duur dier schorsing handelt in strijd met het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), gestelde verbod, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-2. Op dezelfde wijze wordt gestraft degene die, hoewel zijn inschrijving in het desbetreffende register is doorgehaald ten gevolge van een onherroepelijk geworden overeenkomstig [artikel 48, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), of [80, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2025-07-05&g=2025-07-05), opgelegde maatregel, dan wel een maatregel berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep blijvend geheel heeft verloren, handelt in strijd met het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), gestelde verbod.
+2. Op dezelfde wijze wordt gestraft degene die, hoewel zijn inschrijving in het desbetreffende register is doorgehaald ten gevolge van een onherroepelijk geworden overeenkomstig [artikel 48, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), of [80, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2025-07-05&g=2025-07-05), opgelegde maatregel, dan wel een maatregel berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep blijvend geheel heeft verloren, handelt in strijd met het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), gestelde verbod.
 
 ##### Artikel 100
 
@@ -1474,35 +1808,35 @@ Degene die handelt in strijd met het in [artikel 35, eerste lid](https://wetten.
 
 2. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste het bedrag dat is vastgesteld voor de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens:
 
-- –. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05);
+- – [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05);
+- – [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05);
+- – [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35&z=2025-07-05&g=2025-07-05);
+- – [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 36a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05);
+- – [artikel 36a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=38&z=2025-07-05&g=2025-07-05);
+- – [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=38&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=V&artikel=40&z=2025-07-05&g=2025-07-05);
+- – [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=V&artikel=40&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 41, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VI&paragraaf=1&artikel=41&z=2025-07-05&g=2025-07-05);
+- – [artikel 41, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VI&paragraaf=1&artikel=41&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 48, eerste lid, onder d, e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05);
+- – [artikel 48, eerste lid, onder d, e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05);
+- – [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 80, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2025-07-05&g=2025-07-05);
+- – [artikel 80, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IX&artikel=88&z=2025-07-05&g=2025-07-05);
+- – [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IX&artikel=88&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05);
+- – [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=XI&artikel=105&z=2025-07-05&g=2025-07-05);
+- – [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=XI&artikel=105&z=2025-07-05&g=2025-07-05);
 
-- –. [artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=XI&artikel=108&z=2025-07-05&g=2025-07-05).
+- – [artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=XI&artikel=108&z=2025-07-05&g=2025-07-05).
 
 ##### Artikel 100a
 
@@ -1510,7 +1844,7 @@ Onze Minister is bevoegd een last onder dwangsom op te leggen aan een beroepsbeo
 
 ##### Artikel 100b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 101
 
@@ -1536,7 +1870,7 @@ Degene die handelt in strijd met een krachtens [artikel 40](https://wetten.overh
 
 ##### Artikel 104
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 105
 
@@ -1548,15 +1882,15 @@ Vervallen
 
 4. Het derde lid, eerste volzin, is niet van toepassing ten aanzien van:
 
-- a. de in artikel 7, eerste volzin, van de Wet van 24 juni 1876, **Stb.** 117, bedoelde tandartsen;
+- a. de in artikel 7, eerste volzin, van de Wet van 24 juni 1876, *Stb.* 117, bedoelde tandartsen;
 
-- b. degenen aan wie een met de bevoegdheid van de onder a bedoelde tandartsen overeenkomende bevoegdheid of toelating krachtens artikel 7**a** en 7**d** van de onder **a** genoemde wet was verleend;
+- b. degenen aan wie een met de bevoegdheid van de onder a bedoelde tandartsen overeenkomende bevoegdheid of toelating krachtens artikel 7*a* en 7*d* van de onder *a* genoemde wet was verleend;
 
-- c. degenen die krachtens artikel 1 van de Wet van 18 december 1957, **Stb.** 589, waren toegelaten tot het uitoefenen van de tandheelkundige praktijk in Nederland.
+- c. degenen die krachtens artikel 1 van de Wet van 18 december 1957, *Stb.* 589, waren toegelaten tot het uitoefenen van de tandheelkundige praktijk in Nederland.
 
 ##### Artikel 106
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107
 
@@ -1566,11 +1900,11 @@ Vervallen
 
 - b. personen die een wettelijk geregelde opleiding tot het desbetreffende beroep vóór het tijdstip waarop voor dat beroep een algemene maatregel van bestuur krachtens [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), in werking treedt, hebben aangevangen en nadien hebben voltooid;
 
-- c. personen, andere dan de onder **a** en **b** bedoelde, die het betreffende beroep hebben uitgeoefend gedurende een aaneengesloten periode van tenminste zes maanden in het tijdvak van vijf jaren, onmiddellijk voorafgaande aan het tijdstip waarop voor dat beroep een algemene maatregel van bestuur krachtens [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), in werking treedt en ten aanzien van wie Onze Minister op hun daartoe strekkende aanvrage heeft verklaard dat hun verworven vakbekwaamheid geacht kan worden gelijkwaardig of nagenoeg gelijkwaardig te zijn aan de vakbekwaamheid welke uit het voltooid hebben van de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), geregelde of aangewezen opleiding tot het desbetreffende beroep kan worden afgeleid.
+- c. personen, andere dan de onder *a* en *b* bedoelde, die het betreffende beroep hebben uitgeoefend gedurende een aaneengesloten periode van tenminste zes maanden in het tijdvak van vijf jaren, onmiddellijk voorafgaande aan het tijdstip waarop voor dat beroep een algemene maatregel van bestuur krachtens [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), in werking treedt en ten aanzien van wie Onze Minister op hun daartoe strekkende aanvrage heeft verklaard dat hun verworven vakbekwaamheid geacht kan worden gelijkwaardig of nagenoeg gelijkwaardig te zijn aan de vakbekwaamheid welke uit het voltooid hebben van de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), geregelde of aangewezen opleiding tot het desbetreffende beroep kan worden afgeleid.
 
-2. De beoordeling of de vakbekwaamheid van een persoon als bedoeld in het eerste lid, onder **c**, geacht kan worden gelijkwaardig of nagenoeg gelijkwaardig te zijn aan die welke mag worden afgeleid uit het voltooid hebben van de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), geregelde of aangewezen opleiding tot het desbetreffende beroep, geschiedt aan de hand van het bezit van door Onze Minister aangewezen getuigschriften, door het afnemen van een proef, of, ter beoordeling van Onze Minister, op andere wijze, eventueel nadat de betrokkene gelegenheid is gelaten tot het volgen van aanvullende opleiding.
+2. De beoordeling of de vakbekwaamheid van een persoon als bedoeld in het eerste lid, onder *c*, geacht kan worden gelijkwaardig of nagenoeg gelijkwaardig te zijn aan die welke mag worden afgeleid uit het voltooid hebben van de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), geregelde of aangewezen opleiding tot het desbetreffende beroep, geschiedt aan de hand van het bezit van door Onze Minister aangewezen getuigschriften, door het afnemen van een proef, of, ter beoordeling van Onze Minister, op andere wijze, eventueel nadat de betrokkene gelegenheid is gelaten tot het volgen van aanvullende opleiding.
 
-3. Een aanvrage als bedoeld in het eerste lid, onder **c**, is slechts ontvankelijk indien zij wordt ingediend binnen zes maanden na het tijdstip waarop een algemene maatregel van bestuur als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), ten aanzien van het desbetreffende beroep in werking is getreden. Later ingediende aanvragen kunnen slechts in behandeling worden genomen indien een aannemelijke oorzaak voor de vertraging aanwezig is, en in dat geval slechts binnen twee maanden nadat de oorzaak heeft opgehouden te werken.
+3. Een aanvrage als bedoeld in het eerste lid, onder *c*, is slechts ontvankelijk indien zij wordt ingediend binnen zes maanden na het tijdstip waarop een algemene maatregel van bestuur als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), ten aanzien van het desbetreffende beroep in werking is getreden. Later ingediende aanvragen kunnen slechts in behandeling worden genomen indien een aannemelijke oorzaak voor de vertraging aanwezig is, en in dat geval slechts binnen twee maanden nadat de oorzaak heeft opgehouden te werken.
 
 ##### Artikel 107a
 
@@ -1578,7 +1912,7 @@ Voor de toepassing van [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 108
 
-1. Aan degene die vóór het tijdstip waarop dit artikel in werking is getreden de bevoegdheid tot uitoefening van heilgymnastiek en massage hadden verkregen krachtens artikel 8, eerste lid, van de Wet op de paramedische beroepen (**Stb.** 1963, 113) dan wel op de in artikel 41, tweede of vierde lid, van die wet omschreven voet, is het recht voorbehouden de titel van heilgymnast-masseur te voeren.
+1. Aan degene die vóór het tijdstip waarop dit artikel in werking is getreden de bevoegdheid tot uitoefening van heilgymnastiek en massage hadden verkregen krachtens artikel 8, eerste lid, van de Wet op de paramedische beroepen (*Stb.* 1963, 113) dan wel op de in artikel 41, tweede of vierde lid, van die wet omschreven voet, is het recht voorbehouden de titel van heilgymnast-masseur te voeren.
 
 2. Het is degene wie het recht tot het voeren van de in het eerste lid geregelde titel niet toekomt, verboden die titel of een daarop gelijkende benaming te voeren.
 
@@ -1588,7 +1922,7 @@ Voor de toepassing van [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 109
 
-1. De krachtens de Medische Tuchtwet (**Stb.** 1928, 222) opgelegde maatregelen behouden na de intrekking van die wet hun rechtskracht.
+1. De krachtens de Medische Tuchtwet (*Stb.* 1928, 222) opgelegde maatregelen behouden na de intrekking van die wet hun rechtskracht.
 
 2. De op het tijdstip van die intrekking aanhangige zaken worden nog op de voet van het bij of krachtens de Medische Tuchtwet bepaalde afgehandeld, met dien verstande evenwel dat daarbij geen maatregel opgelegd kan worden wegens feiten ter zake waarvan geen maatregelen zouden kunnen worden opgelegd overeenkomstig hoofdstuk VII of VIII van de onderhavige wet.
 
@@ -1596,207 +1930,207 @@ Voor de toepassing van [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.
 
 Ingeval overeenkomstig de Medische Tuchtwet bij onherroepelijk geworden beslissing de in artikel 5, eerste lid, onder 5°, van die wet vermelde maatregel is opgelegd, wordt deze naar zijn rechtsgevolgen gelijkgesteld met een krachtens [artikel 48, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), of [artikel 80, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2025-07-05&g=2025-07-05), dan wel met een krachtens [artikel 48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), opgelegde maatregel, zulks naar gelang de betrokkene op het tijdstip van onherroepelijk worden van bedoelde beslissing al dan niet in het desbetreffende register ingeschreven stond.
 
-##### Artikel 58
+##### Artikel 111
 
-Vervallen
+In de algemene maatregel van bestuur, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), kan voor personen die hun getuigschrift hebben behaald vóór het tijdstip van inwerkingtreding van deze maatregel een van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), afwijkende aanvangsdatum worden vastgesteld vanaf welke de in de maatregel aangegeven periode begint te lopen.
 
 ##### Artikel 112
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 113
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 114
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 115
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 116
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 117
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 118
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 119
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 120
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 121
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 122
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 123
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 124
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 125
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 126
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 127
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 128
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 129
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 130
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 131
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 132
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 133
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 134
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 135
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 136
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 137
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 138
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 139
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 140
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 141
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 142
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 143
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 144
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 144a
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 145
 
-De Wet van 1 juni 1865, **Stb.** 60, regelende de uitoefening der geneeskunst,
+De Wet van 1 juni 1865, *Stb.* 60, regelende de uitoefening der geneeskunst,
 
-de Wet van 24 juni 1876, **Stb.** 117, houdende regeling van de voorwaarden tot verkrijging der afzonderlijke bevoegdheid tot uitoefening der tandheelkunst en van de uitoefening dier kunst,
+de Wet van 24 juni 1876, *Stb.* 117, houdende regeling van de voorwaarden tot verkrijging der afzonderlijke bevoegdheid tot uitoefening der tandheelkunst en van de uitoefening dier kunst,
 
-de Wet van 25 december 1878, **Stb.** 222, houdende regeling der voorwaarden tot verkrijging der bevoegdheid van arts, tandarts, apotheker, vroedvrouw en apothekersbediende,
+de Wet van 25 december 1878, *Stb.* 222, houdende regeling der voorwaarden tot verkrijging der bevoegdheid van arts, tandarts, apotheker, vroedvrouw en apothekersbediende,
 
-de Wet tot bescherming van het diploma van verpleegkundige (**Stb.** 1921, 702),
+de Wet tot bescherming van het diploma van verpleegkundige (*Stb.* 1921, 702),
 
-de Wet van 30 december 1926, **Stb.** 454, tot herziening van de uitvoering van de Wet van 29 juni 1925, **Stb.** 282 (volledige tandprothese),
+de Wet van 30 december 1926, *Stb.* 454, tot herziening van de uitvoering van de Wet van 29 juni 1925, *Stb.* 282 (volledige tandprothese),
 
-de Medische Tuchtwet (**Stb.** 1928, 222),
+de Medische Tuchtwet (*Stb.* 1928, 222),
 
-de Wet van 18 mei 1929, **Stb.** 257, tot het in de gelegenheid stellen van hen, die ingevolge de wet van 30 december 1926 (**Stb.** 454) geen visum op hun bewijs van vestiging hebben ontvangen, om alsnog van hun practische bekwaamheid te doen blijken,
+de Wet van 18 mei 1929, *Stb.* 257, tot het in de gelegenheid stellen van hen, die ingevolge de wet van 30 december 1926 (*Stb.* 454) geen visum op hun bewijs van vestiging hebben ontvangen, om alsnog van hun practische bekwaamheid te doen blijken,
 
-de Wet van 13 mei 1939, **Stb.** 801, tot nadere voorzieningen inzake de tandheelkunde,
+de Wet van 13 mei 1939, *Stb.* 801, tot nadere voorzieningen inzake de tandheelkunde,
 
-de Wet van 11 juli 1957, **Stb.** 330, houdende aanvullende bepalingen tot het verlenen van de bevoegdheid van tandheelkundige,
+de Wet van 11 juli 1957, *Stb.* 330, houdende aanvullende bepalingen tot het verlenen van de bevoegdheid van tandheelkundige,
 
-de Wet van 18 december 1957, **Stb.** 589, tot regeling van de toelating van in Indonesië bevoegde Nederlandse tandartsen en vroedvrouwen tot de uitoefening van de praktijk in Nederland,
+de Wet van 18 december 1957, *Stb.* 589, tot regeling van de toelating van in Indonesië bevoegde Nederlandse tandartsen en vroedvrouwen tot de uitoefening van de praktijk in Nederland,
 
-de Wet op de paramedische beroepen (**Stb.** 1963, 113),
+de Wet op de paramedische beroepen (*Stb.* 1963, 113),
 
-de Wet op de ziekenverzorgers en ziekenverzorgsters (**Stb.** 1963, 289), alsmede de Wet inzake de tandprothetici (**Stb.** 1989, 329) worden ingetrokken.
+de Wet op de ziekenverzorgers en ziekenverzorgsters (*Stb.* 1963, 289), alsmede de Wet inzake de tandprothetici (*Stb.* 1989, 329) worden ingetrokken.
 
 ##### Artikel 146
 
-Waar in deze wet "Wet op de beroepen in de individuele gezondheidszorg (**Stb.** 1993, 655)" voorkomt, worden bij plaatsing van deze wet in het **Staatsblad** na "**Stb.**" ingevoegd de jaargang en het nummer van het **Staatsblad** waarin deze wet wordt geplaatst.
+Waar in deze wet "Wet op de beroepen in de individuele gezondheidszorg (*Stb.* 1993, 655)" voorkomt, worden bij plaatsing van deze wet in het *Staatsblad* na "*Stb.*" ingevoegd de jaargang en het nummer van het *Staatsblad* waarin deze wet wordt geplaatst.
 
 ##### Artikel 147
 
@@ -1809,879 +2143,3 @@ Waar in deze wet "Wet op de beroepen in de individuele gezondheidszorg (**Stb.**
 Deze wet kan worden aangehaald als:
 
 Wet op de beroepen in de individuele gezondheidszorg.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 96a
-
-1. Indien tegen de verdachte van overtreding van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05) ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, is de officier van justitie, zolang de behandeling ter terechtzitting nog niet is aangevangen, bevoegd, gehoord de Inspectie gezondheidszorg en jeugd, de verdachte bij aan deze te betekenen kennisgeving als voorlopige maatregel te bevelen zich van bepaalde handelingen te onthouden.
-
-2. De verdachte kan tegen het bevel binnen veertien dagen na de betekening in beroep komen bij het gerecht waar de zaak wordt vervolgd of vervolgd zal worden. Het gerecht beslist zo spoedig mogelijk. De verdachte wordt gehoord, althans behoorlijk opgeroepen.
-
-3. [Artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=28), en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=30) zijn van overeenkomstige toepassing.
-
-##### Artikel 96b
-
-Indien tegen de verdachte van overtreding van [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05) ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, kan het met de behandeling van de zaak belaste gerecht voor de behandeling ter terechtzitting, op de vordering van het openbaar ministerie, op de voordracht van de rechter-commissaris, met onderzoek in de zaak belast, en, indien de zaak te zijner zitting wordt behandeld, mede ambtshalve, de verdachte, gehoord de Inspectie gezondheidszorg en jeugd, als voorlopige maatregel bevelen zich van bepaalde handelingen te onthouden. [Artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=1&paragraaf=6&artikel=29&z=2025-07-05&g=2025-07-05), en de [artikelen 30 tot en met 32 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=30) zijn van overeenkomstige toepassing.
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-1. Onze Minister kan [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=6&z=2025-07-05&g=2025-07-05), en [artikel 7, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=7&z=2025-07-05&g=2025-07-05), buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze bepalingen beogen te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
-
-2. Het eerste lid is van overeenkomstige toepassing ten aanzien van besluiten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=10&z=2025-07-05&g=2025-07-05), die strekken tot het plaatsen van een aantekening als bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=9&z=2025-07-05&g=2025-07-05).
-
-#### § 2. Specialismen
-
-### Hoofdstuk III. Bepalingen inzake de beroepen
-
-### Afdeling 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 1. Artsen
-
-#### § 2. Tandartsen
-
-#### § 3. Apothekers
-
-#### § 4. Gezondheidszorgpsychologen
-
-#### § 5. Psychotherapeuten
-
-#### § 6. Fysiotherapeuten
-
-#### § 7. Verloskundigen
-
-#### § 8. Verpleegkundigen
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk IV. Voorbehouden handelingen
-
-##### Artikel 36a
-
-1. Bij algemene maatregel van bestuur kan in afwijking van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) van deze wet en van [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) bij wijze van experiment worden bepaald, dat voor een termijn van maximaal vijf jaar een bij de maatregel omschreven categorie van beroepsbeoefenaren, die werkzaam is op het gebied van de individuele gezondheidszorg en die met goed gevolg een bij de maatregel aangewezen opleiding met betrekking tot de aan te wijzen voorbehouden handeling heeft afgerond, wordt aangewezen als zijnde bevoegd tot het verrichten van in die maatregel aangewezen handelingen.
-
-2. Op de in de maatregel omschreven categorie van beroepsbeoefenaren is [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35a&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
-
-3. Bij de maatregel kan aan de in het eerste lid omschreven categorie van beroepsbeoefenaren gedurende de in dat lid bedoelde periode het recht verleend worden een in de maatregel aan te geven titel te voeren. Gedurende deze periode is het aan anderen verboden deze titel of een daarop gelijkende benaming te voeren.
-
-4. Voor zover het derde lid, tweede volzin, en de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2025-07-05&g=2025-07-05), en [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05), een verbod inhouden op het voeren van een titel, is dat verbod niet van toepassing in het geval dat een beroepsbeoefenaar aan wie op grond van [artikel 12, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12) gedeeltelijke toegang is verleend tot een beroep, behorende tot een categorie van beroepsbeoefenaren als bedoeld in het eerste lid, zijn beroepswerkzaamheden uitoefent onder de beroepstitel van zijn staat van herkomst of oorsprong.
-
-5. Met een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt voor de toepassing van dit artikel gelijkgesteld een document dat is opgesteld door een met naam en werkadres aangeduide beroepsbeoefenaar, die behoort tot de bij de maatregel omschreven categorie van beroepsbeoefenaren die op grond van de maatregel bevoegd is tot het voorschrijven van UR-geneesmiddelen als bedoeld in artikel 1, eerste lid, onderdeel s, van de Geneesmiddelenwet, en waarin aan een persoon als bedoeld in [artikel 61, eerste lid, onderdeel a of b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61), een voorschrift wordt gegeven om een met zijn stofnaam of merknaam aangeduid geneesmiddel in de aangegeven hoeveelheid, sterkte en wijze van gebruik ter hand te stellen aan een te identificeren patiënt en dat is ondertekend door de desbetreffende beroepsbeoefenaar dan wel, zonder te zijn ondertekend met een zodanige code is beveiligd dat een daartoe bevoegde persoon of instantie de authenticiteit ervan kan vaststellen.
-
-6. [Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing op de bij de maatregel omschreven categorie van beroepsbeoefenaren.
-
-7. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-8. Indien voor het verstrijken van de in het eerste lid bedoelde termijn een voorstel van wet tot wijziging van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) in de zin van de in het eerste lid bedoelde algemene maatregel van bestuur wordt ingediend bij de Tweede Kamer der Staten-Generaal, wordt de in het eerste lid bedoelde termijn verlengd, met een maximum van vijf jaren en vervalt op
-
-- a. het moment van inwerkingtreding van de bedoelde wijzigingswet, danwel
-
-- b. het moment dat de bedoelde wijzigingswet wordt ingetrokken of verworpen door een der Kamers der Staten-Generaal.
-
-### Hoofdstuk VI. Buitenslands gediplomeerden
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk VII. Tuchtrechtspraak
-
-#### § 1. Algemeen
-
-#### § 3. Algemene bepaling
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 5. Procedure in beroep
-
-#### § 5. Procedure in beroep
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-### Hoofdstuk IX. Verdere bepalingen
-
-##### Artikel 86
-
-1. Met het toezicht op de naleving van de krachtens deze wet geregelde opleidingen, alsmede de bij of krachtens [artikel 40, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=V&artikel=40&z=2013-01-01&g=2013-01-01), gestelde voorschriften en de in deze wet opgenomen strafbepalingen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
-
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 40a
-
-Vervallen
-
-### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-### Hoofdstuk VI. Buitenslands gediplomeerden
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 3. Algemene bepaling
-
-#### § 3. De tuchtcolleges
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 5. Procedure in beroep
-
-#### § 6. Verdere bepalingen
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-### Hoofdstuk IX. Verdere bepalingen
-
-##### Artikel 87
-
-1. De met het toezicht belaste ambtenaren beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
-
-2. De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en van [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IX&artikel=88&z=2016-08-01&g=2016-08-01) van deze wet, bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 13a
-
-1. Onverminderd [hoofdstuk 11 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&hoofdstuk=11) kan Onze Minister besluiten de bevoegde autoriteiten van andere staten dan de staten bedoeld in [artikel 31a, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a) onverwijld in kennis te stellen van een in Nederland door een rechterlijke instantie of een andere bij of krachtens de wet bevoegde instantie aan een beroepsbeoefenaar opgelegd verbod of een opgelegde beperking van een beroep dat op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2025-07-05&g=2025-07-05) of [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05) is gereguleerd.
-
-2. Een kennisgeving op grond van een besluit als bedoeld in het eerste lid kan slechts plaatsvinden indien het opgelegd verbod of de opgelegde beperking van kracht is en Onze Minister over informatie beschikt waaruit blijkt dat de beroepsbeoefenaar in de staat waaraan de kennisgeving wordt gedaan woonachtig is, woonachtig is geweest, zijn beroep heeft uitgeoefend, uitoefent of voornemens is uit te oefenen.
-
-3. De kennisgeving bevat de volgende gegevens:
-
-- a. naam, adres, woonplaats, geboortedatum van de beroepsbeoefenaar;
-
-- b. het betrokken beroep;
-
-- c. de instantie die het verbod of de beperking heeft opgelegd;
-
-- d. de reikwijdte van de beperking of het verbod; en
-
-- e. de periode gedurende welke de beperking of het verbod van kracht is.
-
-4. De instanties, bedoeld in het eerste lid, verstrekken Onze Minister de gegevens, bedoeld in het derde lid.
-
-5. Indien een verbod of een beperking is ingesteld voor onbepaalde tijd, stelt Onze Minister de bevoegde autoriteiten, bedoeld in het eerste lid, onverwijld in kennis van de beëindiging daarvan.
-
-6. Indien tegen een op grond van het eerste lid genomen besluit bezwaar of beroep aanhangig wordt gemaakt, deelt Onze Minister dit mede aan de bevoegde autoriteiten van de landen die op grond van het eerste lid in kennis zijn gesteld.
-
-#### § 2. Specialismen
-
-### Hoofdstuk III. Bepalingen inzake de beroepen
-
-### Afdeling 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 1. Artsen
-
-#### § 1. Artsen
-
-#### § 2. Tandartsen
-
-#### § 3. Apothekers
-
-#### § 4. Gezondheidszorgpsychologen
-
-#### § 5. Psychotherapeuten
-
-#### § 6. Fysiotherapeuten
-
-#### § 7. Verloskundigen
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk IV. Voorbehouden handelingen
-
-### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
-
-### Hoofdstuk IV. Voorbehouden handelingen
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
-
-#### § 1. Algemeen
-
-#### § 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 5. Procedure in beroep
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-### Hoofdstuk IX. Verdere bepalingen
-
-##### Artikel 88
-
-Een ieder is verplicht geheimhouding in acht te nemen ten opzichte van al datgene wat hem bij het uitoefenen van zijn beroep op het gebied van de individuele gezondheidszorg als geheim is toevertrouwd, of wat daarbij als geheim te zijner kennis is gekomen of wat daarbij te zijner kennis is gekomen en waarvan hij het vertrouwelijke karakter moest begrijpen.
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 8. Verpleegkundigen
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk IV. Voorbehouden handelingen
-
-##### Artikel 36b
-
-1. Bij algemene maatregel van bestuur kan worden bepaald dat door Onze Minister een tijdelijk register wordt ingesteld en beheerd waarin beroepsbeoefenaren van een in de maatregel, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), omschreven categorie voor de duur van het in die maatregel bedoelde experiment, op hun aanvraag worden ingeschreven.
-
-2. Met betrekking tot de registers, bedoeld in het eerste lid, zijn de [artikel 3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), [4 eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2025-07-05&g=2025-07-05), [6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=6&z=2025-07-05&g=2025-07-05), en 8 niet van toepassing.
-
-3. Indien voor het betreffende beroep op grond van het eerste lid een tijdelijk register is ingesteld, gaat dat tijdelijk register op het tijdstip dat de wet, bedoeld in [artikel 36a, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), in werking treedt, over in het in die wet voor dat beroep op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05) ingestelde register. Het tweede lid is vanaf dat tijdstip niet langer van toepassing ten aanzien van dat register.
-
-4. In afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), geldt voor de beroepsbeoefenaar die is ingeschreven in een tijdelijk register, dat op grond van het derde lid is overgegaan in een register als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), dat de inschrijving een half jaar na de inwerkingtreding van de wet, bedoeld in [artikel 36a, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), wordt doorgehaald.
-
-5. In afwijking van het vierde lid, geldt voor degene die op de datum, bedoeld in het vierde lid, korter dan vijf jaar ingeschreven is, als datum, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), de datum van vijf jaar na die van de eerste inschrijving in het register, bedoeld in het eerste lid.
-
-6. Na het eindigen van het experiment, blijft de beroepsbeoefenaar die was ingeschreven in het tijdelijk register ter zake van enig in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), bedoeld handelen of nalaten gedurende de tijd dat hij ingeschreven stond, aan de tuchtrechtspraak onderworpen.
-
-7. Indien toepassing gegeven wordt aan het zesde lid, geeft het tuchtcollege een oordeel over de gegrondheid van de klacht, met dien verstande dat geen maatregelen bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), opgelegd kunnen worden.
-
-8. Indien de termijn, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), vervalt, anders dan door toepassing van artikel 36a, achtste lid, onder a, bestaat gedurende een half jaar na het verstrijken van die termijn de bevoegdheid tot het indienen van een klaagschrift, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05). Van de datum waarop deze bevoegdheid aanvangt, wordt mededeling gedaan in de Staatscourant.
-
-9. Na het eindigen van het experiment, kunnen leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van de tuchtcolleges, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05) en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), bij besluit van Onze Minister benoemd worden, voor zover dit noodzakelijk is voor de behandeling van zaken over klachten die tot een half jaar na het eindigen van het experiment zijn ingediend. Deze leden en plaatsvervangende leden worden benoemd uit personen die ten tijde van het experiment waren ingeschreven in het tijdelijk register.
-
-10. Indien de termijn, bedoeld in [artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), vervalt, anders dan door toepassing van artikel 36a, achtste lid, onder a, blijven de aantekeningen die op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=9&z=2025-07-05&g=2025-07-05) in het tijdelijk register zijn geplaatst gedurende vijf jaar raadpleegbaar.
-
-### Hoofdstuk IV. Voorbehouden handelingen
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
-
-#### § 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 6. Verdere bepalingen
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-### Hoofdstuk IX. Verdere bepalingen
-
-##### Artikel 90
-
-Bij algemene maatregel van bestuur als bedoeld in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&z=2018-08-01&g=2018-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&z=2018-08-01&g=2018-08-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VI&z=2018-08-01&g=2018-08-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=XI&z=2018-08-01&g=2018-08-01) en in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IX&artikel=93&z=2018-08-01&g=2018-08-01) kan worden bepaald dat Onze Minister met betrekking tot onderwerpen die in de maatregel worden geregeld, nadere regels kan dan wel moet stellen.
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk IX. Verdere bepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 33a
-
-Om in het betreffende register als physician assistant te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen.
-
-##### Artikel 33b
-
-Tot het gebied van deskundigheid van de physician assistant wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het deelgebied van de geneeskunst waarbinnen de physician assistant is opgeleid, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen. Deze handelingen omvatten het onderzoeken, behandelen en begeleiden van patiënten met veel voorkomende aandoeningen binnen dat deelgebied van de geneeskunst.
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk IV. Voorbehouden handelingen
-
-### Hoofdstuk V. Kwaliteit van de beroepsuitoefening
-
-### Hoofdstuk VI. Buitenslands gediplomeerden
-
-### Hoofdstuk VII. Tuchtrechtspraak
-
-#### § 3. Algemene bepaling
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 6. Verdere bepalingen
-
-### Hoofdstuk IX. Verdere bepalingen
-
-##### Artikel 92
-
-1. Ten aanzien van degene die als beoefenaar van een beroep dat geregeld is in deze wet of waarvan de opleiding krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2019-01-01&g=2019-01-01), is geregeld of aangewezen, is verbonden aan een in Nederland verblijvend onderdeel van een bondgenootschappelijke krijgsmacht, blijven ter zake van de werkzaamheden die hij in de uitoefening van dat beroep verricht met betrekking tot personeel, behorende tot een onderdeel van die bondgenootschappelijke krijgsmacht, alsmede met betrekking tot degenen met wie dat personeel duurzaam samenleeft, buiten toepassing:
-
-- a. het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), gestelde verbod, voor zover het de titel betreft, waarvan het voeren voorbehouden is aan degenen die in de op dat beroep betrekking hebbende hoedanigheid in het desbetreffende register ingeschreven staan;
-
-- b. het in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35&z=2019-01-01&g=2019-01-01), gestelde verbod, voor zover het handelingen betreft, waartoe de onder **a** bedoelde personen bevoegd zijn;
-
-- c. het in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2019-01-01&g=2019-01-01), gestelde verbod, voor zover het de titel betreft waarvan het voeren voorbehouden is aan degenen die de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2019-01-01&g=2019-01-01), geregelde of aangewezen opleiding tot het betrokken beroep hebben voltooid.
-
-2. De in het eerste lid bedoelde persoon die een in deze wet geregeld beroep uitoefent wordt voor de toepassing van in andere wetten opgenomen bepalingen, betrekking hebbende op degenen die in het desbetreffende register ingeschreven staan, gelijkgesteld met laatstbedoelde personen, voor zover zulks noodzakelijk is in verband met het verrichten van de in het eerste lid bedoelde werkzaamheden.
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen en op welke wijze de beoefenaar van een beroep als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), en van een beroep als bedoeld in[artikel 36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36a&z=2025-07-05&g=2025-07-05), voor zover daarvoor een tijdelijk register als bedoeld in [artikel 36b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36b&z=2025-07-05&g=2025-07-05), is ingesteld, het publiek kenbaar maakt onder welk BIG-nummer hij is ingeschreven.
-
-##### Artikel 13b
-
-1. Indien bij besluit van Onze Minister inschrijving in een register is geweigerd, de afgifte van een verklaring van vakbekwaamheid wordt geweigerd of een beroepsbeoefenaar de bevoegdheid zijn beroep uit te oefenen heeft verloren omdat hij de aanvraag tot inschrijving of tot afgifte van een verklaring gebaseerd heeft op valse kwalificaties, kan Onze Minister besluiten, onverminderd de hoofdstuk V van de Algemene verordening gegevensbescherming, de bevoegde autoriteiten van andere staten dan de staten bedoeld in [artikel 31a, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a), daarvan in kennis stellen.
-
-2. [Artikel 13a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=13a&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing.
-
-##### Artikel 13c
-
-1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat het nummer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-07-05&g=2025-07-05), wordt gebruikt ter bevordering van transparantie inzake financiële betrekkingen tussen beroepsbeoefenaren als bedoeld in artikel 3, eerste lid, en bedrijven in een daartoe gehouden register.
-
-2. Bij toepassing van het eerste lid, zendt Onze Minister jaarlijks aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het in het eerste lid bedoelde register.
-
-#### § 2. Specialismen
-
-### Hoofdstuk III. Bepalingen inzake de beroepen
-
-### Afdeling 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-#### § 9. Physician assistants
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-##### Artikel 35a
-
-1. De op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) bevoegde personen zijn tot het verrichten van de handelingen, genoemd in artikel 36, uitsluitend bevoegd voor zover zij redelijkerwijs mogen aannemen dat zij beschikken over de bekwaamheid die vereist is voor het behoorlijk verrichten van die handelingen.
-
-2. Indien de bevoegde personen niet voldoen aan het vereiste van bekwaamheid als bedoeld in het eerste lid, worden zij voor de toepassing van de [artikelen 35, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=35&z=2025-07-05&g=2025-07-05), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=38&z=2025-07-05&g=2025-07-05) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=39&z=2025-07-05&g=2025-07-05), aangemerkt als personen die hun bevoegdheid ontlenen aan het bij [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=IV&artikel=36&z=2025-07-05&g=2025-07-05) bepaalde.
-
-##### Artikel 37a
-
-Dit hoofdstuk is niet van toepassing op handelingen voor zover ten aanzien van die handelingen bij of krachtens andere wetten regels zijn gesteld.
-
-### Hoofdstuk VII. Tuchtrechtspraak
-
-#### § 1. Algemeen
-
-#### § 2. Tuchtmaatregelen
-
-##### Artikel 48a
-
-1. De inspecteur ziet toe of een beroepsbeoefenaar de op grond van [artikel 48, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05), aan de maatregel verbonden voorwaarden naleeft.
-
-2. Het regionale tuchtcollege beslist op verzoek van de inspecteur over de tenuitvoerlegging van de maatregel, indien de beroepsbeoefenaar aan wie de voorwaardelijke maatregel is opgelegd, de aan de maatregel verbonden voorwaarden niet heeft nageleefd.
-
-3. De inspecteur is in zijn verzoek niet-ontvankelijk wanneer het verzoek later wordt ingediend dan drie maanden na het verstrijken van de proeftijd.
-
-4. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=54&z=2025-07-05&g=2025-07-05), [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=61&z=2025-07-05&g=2025-07-05), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63&z=2025-07-05&g=2025-07-05), [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63a&z=2025-07-05&g=2025-07-05), [65, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05), [65d, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), [65e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65e&z=2025-07-05&g=2025-07-05), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67&z=2025-07-05&g=2025-07-05), [67b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67b&z=2025-07-05&g=2025-07-05), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=70&z=2025-07-05&g=2025-07-05) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=71&z=2025-07-05&g=2025-07-05) zijn van overeenkomstige toepassing.
-
-5. Tegen een beslissing als bedoeld in het tweede lid kan binnen zes weken na de dag van verzending van het afschrift van die beslissing bij het centrale tuchtcollege beroep worden ingesteld door:
-
-- a. de inspecteur, voor zover het verzoek is afgewezen, of voor zover hij niet-ontvankelijk is verklaard;
-
-- b. de beroepsbeoefenaar, voor zover het verzoek is toegewezen.
-
-6. Op de procedure in beroep zijn de [artikelen 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=56&z=2025-07-05&g=2025-07-05), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=61&z=2025-07-05&g=2025-07-05), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63&z=2025-07-05&g=2025-07-05), [63a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=63a&z=2025-07-05&g=2025-07-05), [65d, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), [65e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65e&z=2025-07-05&g=2025-07-05), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67&z=2025-07-05&g=2025-07-05), [67b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=67b&z=2025-07-05&g=2025-07-05), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=70&z=2025-07-05&g=2025-07-05) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=71&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
-
-7. Bij de toepassing van de in het vierde en zesde van overeenkomstige toepassing verklaarde artikelen, dient waar in die artikelen onderscheidenlijk wordt gesproken over «klager, beklaagde of klacht» te worden gelezen inspecteur, beroepsbeoefenaar en verzoek. Bij de toepassing van [artikel 65d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65d&z=2025-07-05&g=2025-07-05), dient waar gesproken wordt van «zijn klacht», gelezen te worden: het beroep.
-
-#### § 3. De tuchtcolleges
-
-##### Artikel 55a
-
-1. Onze Minister draagt zorg voor de indienstneming van ambtenaren, die klagers kunnen adviseren bij het opstellen en wijzigen van hun klacht.
-
-2. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het eerste lid.
-
-##### Artikel 62a
-
-1. De leden, plaatsvervangende leden en de secretarissen van een tuchtcollege leggen voorafgaand aan de aanvang van hun werkzaamheden voor het college de eed of belofte af, volgens het formulier zoals dat is vastgesteld in de bijlage bij deze wet.
-
-2. De voorzitter legt de eed of de belofte af ten overstaan van een plaatsvervangend voorzitter. De overige in het eerste lid bedoelde personen leggen de eed of belofte af ten overstaan van de voorzitter of een plaatsvervangend voorzitter.
-
-3. Bij een herbenoeming worden de in het eerste lid bedoelde personen niet opnieuw beëdigd.
-
-##### Artikel 62b
-
-De in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2025-07-05&g=2025-07-05), bedoelde personen zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitvoering van hun taak de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
-
-##### Artikel 63a
-
-In afwijking van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=55&z=2025-07-05&g=2025-07-05) wordt aan de behandeling van een verzoek tot wraking of verschoning slechts deelgenomen door drie rechtsgeleerde leden, van wie één tevens voorzitter is.
-
-#### § 4. Procedure in eerste aanleg
-
-##### Artikel 65a
-
-1. De secretaris van het tuchtcollege heft van de indiener van het klaagschrift een griffierecht van € 50.
-
-2. Indien het een klaagschrift betreft tegen twee of meer beroepsbeoefenaren en dat ten aanzien van elke beroepsbeoefenaar betrekking heeft op hetzelfde feitencomplex of samenhangende feitencomplexen, is eenmaal griffierecht verschuldigd.
-
-3. De secretaris wijst de indiener van het klaagschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dag van verzending van zijn mededeling dient te zijn bijgeschreven op het daarbij aangegeven bankrekeningnummer. Indien het bedrag niet binnen deze termijn is bijgeschreven, verklaart de voorzitter de klager niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de klager ten aanzien van de betaling in verzuim is geweest.
-
-4. In afwijking van het eerste lid wordt geen griffierecht geheven indien een klaagschrift wordt ingediend door de inspecteur.
-
-5. Indien de klacht geheel of gedeeltelijk gegrond wordt verklaard, wordt het griffierecht aan de klager terugbetaald.
-
-6. Onze Minister kan het in het eerste lid bedoelde bedrag wijzigen voor zover de consumentenprijsindex daartoe aanleiding geeft.
-
-##### Artikel 65b
-
-1. De secretaris van het college zendt een afschrift van het klaagschrift aan de beklaagde zodra het griffierecht is betaald.
-
-2. De secretaris van een college zendt aan de inspecteur een periodiek geaggregeerd overzicht van de ingediende klaagschriften. Bij ministeriële regeling kunnen nadere regels worden gesteld over het geaggregeerd overzicht bedoeld in de eerste volzin.
-
-##### Artikel 65c
-
-1. De klager kan zijn klacht tot uiterlijk twee weken voor de behandeling van de zaak op de terechtzitting schriftelijk wijzigen of aanvullen.
-
-2. De secretaris verstrekt de beklaagde een afschrift van de schriftelijke wijziging. De beklaagde wordt in de gelegenheid gesteld te worden gehoord over de wijziging, dan wel aanvulling van de klacht.
-
-##### Artikel 65d
-
-1. De klager kan zijn klacht tot aan de uitspraak door het tuchtcollege intrekken. De secretaris bericht de beklaagde indien een klager zijn klacht heeft ingetrokken.
-
-2. Indien de klacht wordt ingetrokken, wordt de behandeling daarvan gestaakt, tenzij:
-
-- a. de beklaagde schriftelijk verklaart voortzetting van de behandeling te verlangen;
-
-- b. het tuchtcollege beslist dat de behandeling van de klacht om redenen, aan het algemeen belang ontleend, moet worden voortgezet.
-
-3. Indien om redenen van algemeen belang wordt beslist tot voortzetting van de klacht wordt de inspecteur voor het vervolg van de zaak als klager aangemerkt. De secretaris bericht de inspecteur over de voortzetting van de klacht.
-
-4. Indien de beklaagde overlijdt, wordt de behandeling van de klacht gestaakt.
-
-5. Indien de klager overlijdt, kan het tuchtcollege om redenen van algemeen belang beslissen dat de behandeling van de klacht wordt voortgezet. Het derde lid is van overeenkomstige toepassing.
-
-##### Artikel 65e
-
-De klager en de beklaagde kunnen zich laten vertegenwoordigen door een gemachtigde en zich laten bijstaan door een raadsman. De gemachtigde, niet zijnde een advocaat, legt desgevraagd ten bewijze van de machtiging een schriftelijke volmacht over. De voorzitter van het regionale tuchtcollege kan slechts weigeren een persoon, niet zijnde een advocaat, als gemachtigde of als raadsman toe te laten, indien er duidelijke aanwijzingen zijn dat door de toelating van die persoon een behoorlijke uitoefening van de tuchtrechtspraak zal worden belemmerd. De weigering wordt door de voorzitter schriftelijk gemotiveerd.
-
-##### Artikel 67a
-
-1. Tenzij reeds is bepaald dat de zaak ter terechtzitting zal worden behandeld, kan door de voorzitter dan wel door het regionale tuchtcollege in raadkamer een eindbeslissing worden gegeven, inhoudende dat:
-
-- a. het college kennelijk onbevoegd is;
-
-- b. de klager kennelijk niet-ontvankelijk is;
-
-- c. de klacht kennelijk ongegrond is; of
-
-- d. de klacht kennelijk van onvoldoende gewicht is.
-
-2. [Artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=69&z=2025-07-05&g=2025-07-05), en [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=72&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing.
-
-##### Artikel 67b
-
-1. De voorzitter van het tuchtcollege kan bepalen dat de beklaagde of de klager wordt opgeroepen om in persoon op de zitting te verschijnen teneinde hun standpunten toe te lichten of het college inlichtingen te verschaffen. Zij worden opgeroepen door de secretaris. De klager en de beklaagde zijn verplicht aan de oproeping gevolg te geven. Partijen worden hierop gewezen.
-
-2. Indien de beklaagde of de klager, hoewel behoorlijk opgeroepen niet op de zitting verschijnt, kan het college daaruit de gevolgtrekkingen maken die het geraden voorkomt.
-
-##### Artikel 68a
-
-1. Indien naar aanleiding van het vooronderzoek of de behandeling ter terechtzitting van een klacht als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05) een vermoeden is gerezen dat een beklaagde mogelijk ongeschikt is om zijn beroep uit te oefenen als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), stelt de voorzitter de inspecteur daarvan op de hoogte. De voorzitter zendt de stukken waarop het vermoeden van de mogelijke ongeschiktheid van de beroepsbeoefenaar is gebaseerd aan de inspecteur.
-
-2. De voorzitter die een vermoeden als bedoeld in het eerste lid heeft geuit, neemt geen deel aan de behandeling van een zaak tegen die beroepsbeoefenaar, als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05).
-
-#### § 5. Procedure in beroep
-
-##### Artikel 73a
-
-1. De voorzitter van het centrale tuchtcollege kan kennelijk niet-ontvankelijke en kennelijk ongegronde beroepen, alsmede beroepen die naar zijn oordeel niet zullen leiden tot een andere beslissing dan die van het regionale tuchtcollege, binnen zes weken nadat zij zijn ingesteld, bij met redenen omklede beslissing afwijzen.
-
-2. [Artikel 69, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=69&z=2025-07-05&g=2025-07-05), en [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=72&z=2025-07-05&g=2025-07-05), zijn van overeenkomstige toepassing
-
-##### Artikel 73b
-
-1. Tegen een beslissing als bedoeld in [artikel 73a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73a&z=2025-07-05&g=2025-07-05), kunnen de klager en de beklaagde binnen veertien dagen na de verzending van het afschrift van de beslissing, schriftelijk verzet doen bij het centrale tuchtcollege.
-
-2. Alvorens te beslissen op het verzet, stelt het centrale tuchtcollege klager en beklaagde in de gelegenheid te worden gehoord.
-
-3. Het verzet wordt behandeld in een samenstelling van het centrale tuchtcollege waarvan degene die de in [artikel 73a bedoelde](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&artikel=73a&z=2025-07-05&g=2025-07-05) beslissing heeft genomen geen deel uitmaakt.
-
-4. De beslissing op verzet is met redenen omkleed en strekt tot:
-
-- a. niet-ontvankelijkverklaring van het verzet;
-
-- b. ongegrondverklaring van het verzet; of
-
-- c. gegrondverklaring van het verzet.
-
-5. Indien het centrale tuchtcollege het verzet niet-ontvankelijk of ongegrond verklaart, blijft de beslissing waartegen verzet was gedaan in stand.
-
-6. Indien het verzet gegrond wordt verklaard, vervalt de beslissing waartegen verzet was gedaan en wordt de behandeling van de zaak voortgezet.
-
-7. Tegen de beslissing op verzet staat geen rechtsmiddel open. Van de beslissing zendt de voorzitter onverwijld een afschrift aan de [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=72&z=2025-07-05&g=2025-07-05) genoemde personen.
-
-8. In afwijking van het zesde lid kan het centrale tuchtcollege zonder behandeling ter terechtzitting uitspraak doen op de klacht, indien het verzet gegrond is en nader onderzoek of nadere behandeling redelijkerwijs niet kan bijdragen aan de beoordeling van de klacht.
-
-#### § 6. Verdere bepalingen
-
-##### Artikel 85a
-
-1. De inspecteur kan een beroepsbeoefenaar die in een der in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), vermelde hoedanigheden in een register ingeschreven staat, een last tot onmiddellijke onthouding van de beroepsactiviteiten voor het betrokken beroep opleggen.
-
-2. Een last als bedoeld in het eerste lid kan worden opgelegd indien:
-
-- a. gedragingen van de beroepsbeoefenaar hebben geleid tot ernstige benadeling van de gezondheid van personen of een aanmerkelijke kans daarop, dan wel indien die gedragingen blijk geven van een persoonlijkheid die zich niet verdraagt met het door hem uitgeoefende beroep, en
-
-- b. de gedragingen van de beroepsbeoefenaar van zodanige aard zijn dat het belang van de volksgezondheid meebrengt dat de beroepsbeoefenaar zijn beroepsactiviteiten staakt totdat een regionaal tuchtcollege als bedoeld in [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=1&artikel=47&z=2025-07-05&g=2025-07-05), over dat handelen heeft geoordeeld.
-
-3. De in het eerste lid bedoelde last eindigt acht weken na de dag waarop de last aan de beroepsbeoefenaar is bekend gemaakt, tenzij de inspecteur binnen die periode van acht weken tegen de beroepsbeoefenaar bij het regionale tuchtcollege een klaagschrift heeft ingediend dan wel met betrekking tot die beroepsbeoefenaar een voordracht als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05) heeft gedaan.
-
-4. Indien de inspecteur met inachtneming van het derde lid een zaak aanhangig heeft gemaakt bij het regionale tuchtcollege, blijft de in het eerste lid bedoelde last van kracht totdat dat tuchtcollege een einduitspraak heeft gedaan.
-
-5. Indien de inspecteur binnen de periode van acht weken afziet van het indienen van een tuchtklacht dan wel het doen van een voordracht als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), doet hij daarvan zo spoedig mogelijk mededeling aan de beroepsbeoefenaar. De last komt daarmee ten einde. In de mededeling wordt de datum vermeld waarop de last ten einde is gekomen.
-
-6. De inspecteur meldt de beroepsbeoefenaar aan wie hij een last heeft opgelegd na het verstrijken van de periode van acht weken zo spoedig mogelijk dat de last is beëindigd indien hij niet binnen die periode een tuchtklacht heeft ingediend dan wel een voordracht heeft gedaan als bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05).
-
-7. De inspecteur vermeldt in zijn klaagschrift dan wel de voordracht dat aan de betrokken beroepsbeoefenaar een last als bedoeld in het eerste lid is opgelegd.
-
-8. De secretaris zendt het afschrift van het klaagschrift dan wel van de voordracht zo spoedig mogelijk aan de betrokken beroepsbeoefenaar.
-
-##### Artikel 85b
-
-Indien de inspecteur een zaak aanhangig heeft gemaakt dan wel een voordracht heeft gedaan bij het regionale tuchtcollege als bedoeld in [artikel 85a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIIIA&artikel=85a&z=2025-07-05&g=2025-07-05), behandelt het tuchtcollege de zaak overeenkomstig [artikel 65, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05).
-
-### Hoofdstuk X. Strafbepalingen
-
-##### Artikel 98a
-
-Onverminderd de [artikelen 254a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=254a)[260](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=260), [295](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=295), [305](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=305) en [309 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309), kan een persoon die werkzaam is in de individuele gezondheidszorg worden ontzet van het recht om een of meer beroepen in de individuele gezondheidszorg uit te oefenen, indien hij wordt veroordeeld voor een van de strafbare feiten omschreven in:
-
-- a. [artikel 96, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2025-07-05&g=2025-07-05);
-
-- b. de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243), [245 tot en met 253](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=255) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=257), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [301 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=301) en [307](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307) en [308 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=308).
-
-##### Artikel 99
-
-1. Degene die, hoewel hij in de uitoefening van zijn bevoegdheden is geschorst ten gevolge van een onherroepelijk geworden overeenkomstig [artikel 48, eerste lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2019-04-02&g=2019-04-02), en 48, tweede lid opgelegde maatregel, een maatregel berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep tijdelijk geheel heeft verloren, dan wel een maatregel, bij wijze van voorlopige voorziening opgelegd overeenkomstig [artikel 80, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2019-04-02&g=2019-04-02), tijdens de duur dier schorsing handelt in strijd met het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2019-04-02&g=2019-04-02), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2019-04-02&g=2019-04-02), gestelde verbod, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
-
-2. Op dezelfde wijze wordt gestraft degene die, hoewel zijn inschrijving in het desbetreffende register is doorgehaald ten gevolge van een onherroepelijk geworden overeenkomstig [artikel 48, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2019-04-02&g=2019-04-02), of [80, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=80&z=2019-04-02&g=2019-04-02), opgelegde maatregel, dan wel een maatregel berustende op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing op grond waarvan de ingeschrevene zijn rechten ter zake van de uitoefening van het betrokken beroep blijvend geheel heeft verloren, handelt in strijd met het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=4&z=2019-04-02&g=2019-04-02), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=2&artikel=17&z=2019-04-02&g=2019-04-02), gestelde verbod.
-
-### Hoofdstuk X. Strafbepalingen
-
-## Bijlage. als bedoeld in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2019-04-02&g=2019-04-02), Wet op de beroepen in de individuele gezondheidszorg
-
-**Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 62a, eerste lid, Wet op de beroepen in de individuele gezondheidszorg door de voorzitter, de leden-beroepsgenoten en de secretaris van een regionaal of centraal tuchtcollege in de zin van deze wet, almede door hun plaatsvervangers.**
-
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de Grondwet en alle overige wetten zal onderhouden en nakomen.
-
-Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen het college betrokken zou kunnen zijn.
-
-Ik zweer/beloof dat ik mijn werk binnen het college met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van het college betaamt.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-De bovenvermelde eed/belofte afgelegd.
-
-De
-
-(1)
-
-(2)
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 10. Klinisch technologen
-
-#### § 11. Orthopedagogen-generalist
-
-##### Artikel 33e
-
-Om in het desbetreffende register als orthopedagoog-generalist te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen.
-
-##### Artikel 33f
-
-Tot het gebied van deskundigheid van de orthopedagoog-generalist wordt gerekend het verrichten van onderzoek en diagnostiek en het behandelen en begeleiden van zich in een persoonlijke afhankelijkheidsrelatie bevindende personen met leer-, gedrags-, en ontwikkelingsproblemen.
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk VI. Buitenslands gediplomeerden
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-### Hoofdstuk VII. Tuchtrechtspraak
-
-#### § 1. Algemeen
-
-#### § 1. Algemeen
-
-#### § 3. De tuchtcolleges
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 5. Procedure in beroep
-
-#### § 6. Verdere bepalingen
-
-### Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
-
-### Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
-
-### Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
-
-### Hoofdstuk X. Strafbepalingen
-
-##### Artikel 103
-
-1. Indien tijdens het plegen van een strafbaar feit, omschreven in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=97&z=2020-01-01&g=2020-01-01), nog geen vier jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een strafbaar feit, omschreven in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2020-01-01&g=2020-01-01) en 97, onherroepelijk is geworden, kan hechtenis van ten hoogste zes maanden of geldboete van de derde categorie worden opgelegd.
-
-2. Indien tijdens het plegen van een strafbaar feit, omschreven in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2020-01-01&g=2020-01-01), nog geen vier jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een strafbaar feit, omschreven in de artikelen 96 en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=97&z=2020-01-01&g=2020-01-01), onherroepelijk is geworden, kan de gevangenisstraf met een derde worden verhoogd.
-
-3. Indien tijdens het plegen van een strafbaar feit, omschreven in [artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2020-01-01&g=2020-01-01), nog geen vier jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een strafbaar feit, omschreven in de artikelen 96 en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=97&z=2020-01-01&g=2020-01-01), onherroepelijk is geworden, kan hechtenis voor de duur van een jaar en vier maanden worden opgelegd.
-
-4. Onder vroegere veroordeling als bedoeld in dit artikel wordt mede verstaan een vroegere veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens feiten soortgelijk aan de feiten, bedoeld in de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=96&z=2020-01-01&g=2020-01-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=X&artikel=97&z=2020-01-01&g=2020-01-01).
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-## Bijlage. als bedoeld in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2020-01-01&g=2020-01-01), Wet op de beroepen in de individuele gezondheidszorg
-
-**Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 62a, eerste lid, Wet op de beroepen in de individuele gezondheidszorg door de voorzitter, de leden-beroepsgenoten en de secretaris van een regionaal of centraal tuchtcollege in de zin van deze wet, almede door hun plaatsvervangers.**
-
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de Grondwet en alle overige wetten zal onderhouden en nakomen.
-
-Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen het college betrokken zou kunnen zijn.
-
-Ik zweer/beloof dat ik mijn werk binnen het college met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van het college betaamt.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-De bovenvermelde eed/belofte afgelegd.
-
-De
-
-(1)
-
-(2)
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 49a
-
-1. De beslissing tot het opleggen van een geldboete levert een executoriale titel op, die met toepassing van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) ten uitvoer kan worden gelegd. De secretaris van het tuchtcollege verstrekt een afschrift van de beslissing aan de partij die tot de tenuitvoerlegging van de beslissing kan overgaan, opgemaakt in executoriale vorm.
-
-2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van een beslissing als bedoeld in [artikel 48, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=48&z=2025-07-05&g=2025-07-05).
-
-##### Artikel 49b
-
-Op een veroordeling in de kosten bedoeld in [artikel 69, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=69&z=2025-07-05&g=2025-07-05), is [artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=2&artikel=49a&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
-
-#### § 3. De tuchtcolleges
-
-#### § 4. Procedure in eerste aanleg
-
-##### Artikel 65f
-
-Onze Minister kan ambtenaren van de Inspectie gezondheidszorg en jeugd aanwijzen aan wie dezelfde bevoegdheden toekomen als waarover de inspecteur, bedoeld in [artikel 65, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=4&artikel=65&z=2025-07-05&g=2025-07-05), beschikt voor het voeren van een procedure bij een tuchtcollege in eerste aanleg als bedoeld in deze paragraaf of in beroep als bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=5&z=2025-07-05&g=2025-07-05) van dit hoofdstuk.
-
-#### § 5. Procedure in beroep
-
-#### § 5. Procedure in beroep
-
-### Hoofdstuk IX. Verdere bepalingen
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-##### Artikel 105
-
-1. Degenen die de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-03-19&g=2020-03-19), ten aanzien van het desbetreffende beroep in werking is getreden, wordt inschrijving in het desbetreffende register niet geweigerd vanwege het niet voldoen aan de ter zake van de genoten opleiding bij of krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&z=2020-03-19&g=2020-03-19) voor inschrijving in dat register gestelde eisen.
-
-2. Met de in het eerste lid bedoelde personen worden gelijkgesteld degenen die een op de bekwaamheid tot de uitoefening van een daar bedoeld beroep dan wel op het voeren van de daar bedoelde titel betrekking hebbend getuigschrift hebben verkregen ter afsluiting van een wettelijk geregelde opleiding welke vóór het tijdstip waarop [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=3&z=2020-03-19&g=2020-03-19), ten aanzien van het desbetreffende beroep in werking is getreden, is aangevangen en eerst nadien is voltooid.
-
-3. Ingeval de in het eerste lid bedoelde bevoegdheid of toelating onder beperkingen of voorwaarden is verleend, mag de betrokkene, in het register ingeschreven staande, het desbetreffende beroep slechts uitoefenen met inachtneming van die beperkingen of voorwaarden. Bij inschrijving van de betrokkene in het register wordt in de in de vorige volzin bedoelde gevallen in het register een aantekening geplaatst, inhoudende een omschrijving van die beperkingen of voorwaarden. Indien de bevoegdheid of de toelating voor een bepaalde tijd is verleend, wordt de inschrijving van de betrokkene na afloop van die tijd doorgehaald. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=12&z=2020-03-19&g=2020-03-19) is van overeenkomstige toepassing ten aanzien van de in de tweede volzin bedoelde aantekening.
-
-4. Het derde lid, eerste volzin, is niet van toepassing ten aanzien van:
-
-- a. de in artikel 7, eerste volzin, van de Wet van 24 juni 1876, **Stb.** 117, bedoelde tandartsen;
-
-- b. degenen aan wie een met de bevoegdheid van de onder a bedoelde tandartsen overeenkomende bevoegdheid of toelating krachtens artikel 7**a** en 7**d** van de onder **a** genoemde wet was verleend;
-
-- c. degenen die krachtens artikel 1 van de Wet van 18 december 1957, **Stb.** 589, waren toegelaten tot het uitoefenen van de tandheelkundige praktijk in Nederland.
-
-## Bijlage. als bedoeld in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2020-03-19&g=2020-03-19), Wet op de beroepen in de individuele gezondheidszorg
-
-**Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 62a, eerste lid, Wet op de beroepen in de individuele gezondheidszorg door de voorzitter, de leden-beroepsgenoten en de secretaris van een regionaal of centraal tuchtcollege in de zin van deze wet, almede door hun plaatsvervangers.**
-
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de Grondwet en alle overige wetten zal onderhouden en nakomen.
-
-Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen het college betrokken zou kunnen zijn.
-
-Ik zweer/beloof dat ik mijn werk binnen het college met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van het college betaamt.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-De bovenvermelde eed/belofte afgelegd.
-
-De
-
-(1)
-
-(2)
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 33c
-
-Om in het betreffende register als klinisch technoloog te kunnen worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene voldoet aan de daartoe bij algemene maatregel van bestuur gestelde opleidingseisen.
-
-##### Artikel 33d
-
-1. Tot het gebied van deskundigheid van de klinisch technoloog wordt gerekend:
-
-- a. het optimaliseren van bestaande technisch medische handelingen alsmede het ontwerpen en ontwikkelen van nieuwe diagnostische methoden en therapieën met behulp van technologie.
-
-- b. het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen binnen het technisch medische deelgebied van de geneeskunst waarin de klinisch technoloog is opgeleid, een en ander met inachtneming van de beperkingen bij de maatregel te stellen.
-
-### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
-
-### Hoofdstuk VI. Buitenslands gediplomeerden
-
-#### § 1. Beroepen waarop het stelsel van registratie en beroepstitelbescherming van toepassing is
-
-### Hoofdstuk VII. Tuchtrechtspraak
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 5. Procedure in beroep
-
-#### § 6. Verdere bepalingen
-
-### Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
-
-### Hoofdstuk IX. Verdere bepalingen
-
-### Hoofdstuk X. Strafbepalingen
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-##### Artikel 107
-
-1. Voor de toepassing van [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), worden met degenen die een krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), geregelde of aangewezen opleiding tot een beroep dat ook wettelijk geregeld was vóór de datum van inwerkingtreding van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), hebben voltooid, gelijkgesteld:
-
-- a. personen die vóór het tijdstip waarop voor het desbetreffende beroep een algemene maatregel van bestuur krachtens [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), in werking treedt de bevoegdheid hadden verkregen tot de uitoefening van het desbetreffende beroep dan wel de bevoegdheid hadden verkregen tot het voeren van een op dat beroep betrekking hebbende titel;
-
-- b. personen die een wettelijk geregelde opleiding tot het desbetreffende beroep vóór het tijdstip waarop voor dat beroep een algemene maatregel van bestuur krachtens [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), in werking treedt, hebben aangevangen en nadien hebben voltooid;
-
-- c. personen, andere dan de onder **a** en **b** bedoelde, die het betreffende beroep hebben uitgeoefend gedurende een aaneengesloten periode van tenminste zes maanden in het tijdvak van vijf jaren, onmiddellijk voorafgaande aan het tijdstip waarop voor dat beroep een algemene maatregel van bestuur krachtens [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), in werking treedt en ten aanzien van wie Onze Minister op hun daartoe strekkende aanvrage heeft verklaard dat hun verworven vakbekwaamheid geacht kan worden gelijkwaardig of nagenoeg gelijkwaardig te zijn aan de vakbekwaamheid welke uit het voltooid hebben van de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), geregelde of aangewezen opleiding tot het desbetreffende beroep kan worden afgeleid.
-
-2. De beoordeling of de vakbekwaamheid van een persoon als bedoeld in het eerste lid, onder **c**, geacht kan worden gelijkwaardig of nagenoeg gelijkwaardig te zijn aan die welke mag worden afgeleid uit het voltooid hebben van de krachtens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), geregelde of aangewezen opleiding tot het desbetreffende beroep, geschiedt aan de hand van het bezit van door Onze Minister aangewezen getuigschriften, door het afnemen van een proef, of, ter beoordeling van Onze Minister, op andere wijze, eventueel nadat de betrokkene gelegenheid is gelaten tot het volgen van aanvullende opleiding.
-
-3. Een aanvrage als bedoeld in het eerste lid, onder **c**, is slechts ontvankelijk indien zij wordt ingediend binnen zes maanden na het tijdstip waarop een algemene maatregel van bestuur als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III&afdeling=2&artikel=34&z=2021-07-01&g=2021-07-01), ten aanzien van het desbetreffende beroep in werking is getreden. Later ingediende aanvragen kunnen slechts in behandeling worden genomen indien een aannemelijke oorzaak voor de vertraging aanwezig is, en in dat geval slechts binnen twee maanden nadat de oorzaak heeft opgehouden te werken.
-
-## Bijlage. als bedoeld in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2021-07-01&g=2021-07-01), Wet op de beroepen in de individuele gezondheidszorg
-
-**Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 62a, eerste lid, Wet op de beroepen in de individuele gezondheidszorg door de voorzitter, de leden-beroepsgenoten en de secretaris van een regionaal of centraal tuchtcollege in de zin van deze wet, almede door hun plaatsvervangers.**
-
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de Grondwet en alle overige wetten zal onderhouden en nakomen.
-
-Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen het college betrokken zou kunnen zijn.
-
-Ik zweer/beloof dat ik mijn werk binnen het college met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van het college betaamt.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-De bovenvermelde eed/belofte afgelegd.
-
-De
-
-(1)
-
-(2)
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 53a
-
-1. De terechtzittingen en de vooronderzoeken vinden plaats in de vestigingsplaats van het regionale tuchtcollege.
-
-2. De voorzitter van een regionaal tuchtcollege kan in het belang van de behandeling van een zaak, bepalen dat een terechtzitting of een vooronderzoek in het kader van die zaak op een andere plaats plaatsvindt dan bedoeld in het eerste lid.
-
-##### Artikel 54a
-
-Indien een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) leidt tot een wijziging van het rechtsgebied van een regionaal tuchtcollege of indien het rechtsgebied van een regionaal tuchtcollege op basis van [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=53&z=2025-07-05&g=2025-07-05), wordt gewijzigd, heeft die wijziging geen gevolgen voor de bevoegdheid in zaken die op de datum van herindeling bij dat tuchtcollege aanhangig zijn.
-
-##### Artikel 55bis
-
-Een benoeming van een plaatsvervangend lid van een regionaal tuchtcollege vervalt wanneer dat plaatsvervangend lid als:
-
-- a. plaatsvervangend rechtsgeleerd lid is benoemd en wordt benoemd tot rechtsgeleerd lid bij een regionaal tuchtcollege;
-
-- b. plaatsvervangend lid-beroepsgenoot is benoemd en voor hetzelfde beroep wordt benoemd als lid-beroepsgenoot bij een regionaal tuchtcollege.
-
-##### Artikel 55ter
-
-1. De regionale tuchtcolleges stellen een gemeenschappelijk reglement van orde vast.
-
-2. Onverminderd [artikel 54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=54&z=2025-07-05&g=2025-07-05), bevat het reglement van orde in ieder geval regels over deelname van de leden aan de behandeling van een zaak.
-
-3. De vaststelling van het reglement van orde geschiedt door de voorzitters van de drie regionale tuchtcolleges gezamenlijk.
-
-#### § 4. Procedure in eerste aanleg
-
-#### § 6. Verdere bepalingen
-
-##### Artikel 79a
-
-1. Bevoegd tot het behandelen van een voordracht in eerste aanleg is het regionale tuchtcollege van het rechtsgebied waarin de beroepsbeoefenaar zijn woonplaats heeft.
-
-2. Indien de beroepsbeoefenaar geen woonplaats heeft in een rechtsgebied van een van de regionale tuchtcolleges, is het regionale tuchtcollege te Amsterdam bevoegd tot het behandelen van de voordracht.
-
-3. Indien een voordracht als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VIII&artikel=79&z=2025-07-05&g=2025-07-05), wordt gedaan tegen een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot dat tevens lid is van het regionale tuchtcollege waar de voordracht wordt gedaan, kan de voorzitter in het belang van een onafhankelijke behandeling, de zaak ter behandeling verwijzen naar een ander regionaal tuchtcollege. De zaak wordt in het behandelend regionale tuchtcollege behandeld door leden die daartoe door de voorzitter zijn aangewezen. Bij die aanwijzing draagt de voorzitter er zorg voor dat een onafhankelijke behandeling is gewaarborgd.
-
-### Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
-
-### Hoofdstuk IX. Verdere bepalingen
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-##### Artikel 111
-
-In de algemene maatregel van bestuur, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), kan voor personen die hun getuigschrift hebben behaald vóór het tijdstip van inwerkingtreding van deze maatregel een van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=II&paragraaf=1&artikel=8&z=2025-07-05&g=2025-07-05), afwijkende aanvangsdatum worden vastgesteld vanaf welke de in de maatregel aangegeven periode begint te lopen.
-
-## Bijlage. als bedoeld in [artikel 62a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=VII&paragraaf=3&artikel=62a&z=2025-07-05&g=2025-07-05), Wet op de beroepen in de individuele gezondheidszorg
-
-**Formulier voor het afleggen van de eed of belofte als bedoeld in artikel 62a, eerste lid, Wet op de beroepen in de individuele gezondheidszorg door de voorzitter, de leden-beroepsgenoten en de secretaris van een regionaal of centraal tuchtcollege in de zin van deze wet, almede door hun plaatsvervangers.**
-
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de Grondwet en alle overige wetten zal onderhouden en nakomen.
-
-Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding zal krijgen waarbij ik vanwege mijn werk binnen het college betrokken zou kunnen zijn.
-
-Ik zweer/beloof dat ik mijn werk binnen het college met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een goed voorzitter/plaatsvervangend voorzitter/lid/plaatsvervangend lid, secretaris/plaatsvervangend secretaris van het college betaamt.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-De bovenvermelde eed/belofte afgelegd.
-
-De
-
-(1)
-
-(2)
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

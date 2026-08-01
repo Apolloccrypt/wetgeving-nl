@@ -1,58 +1,39 @@
 ---
 title: "Regeling financiering Landelijk selectie- en opleidingsinstituut politie"
 identifier: "BWBR0006091"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-08-22"
-last_updated: "1993-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006091"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3997403"
-version_id: "5760522"
-internal_id: "C5963261"
-label_id: "3977454"
-dtd_version: "2.0"
-original_entry_into_force: "1993-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006091/1993-08-22/0"
-intitule_bron: "Stcrt.1993-158"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-07-21"
-intitule_published: "1993-08-20"
-intitule_in_force: "1993-08-20"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-158"
-original_signed_date: "1993-07-21"
-original_published_date: "1993-08-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-08-22"
-jci_1_3: "jci1.3:c:BWBR0006091&z=1993-08-22&g=1993-08-22"
-jci_1_0: "1.0:c:BWBR0006091&g=1993-08-22"
-citeertitel_status: "officieel"
-signed_date: "1993-07-21"
-entry_into_force: "1993-08-22"
+publicatiedatum: 1993-08-22
+laatste_update: 1993-08-22
+status: geldig
+toestand: 1993-08-22
+bron: "https://wetten.overheid.nl/BWBR0006091"
+opgehaald: 2026-08-01
 ---
+
 # Regeling financiering Landelijk selectie- en opleidingsinstituut politie
-
-Overwegende, dat de Ministers van Justitie en van Binnenlandse Zaken verantwoordelijk zijn voor de landelijke werving, de selectie en het onderwijs voor de politie;
-
-dat de taken op het gebied van de werving, de selectie en het onderwijs voor de politie worden uitgevoerd door het Landelijk selectie- en opleidingsinstituut politie;
-
-dat het Landelijk instituut jaarlijks een bijdrage ontvangt uit 's-Rijks kas;
-
-dat het Landelijk instituut jaarlijks een begroting alsmede een rekening en verantwoording moet inzenden, welke moeten worden goedgekeurd door de Ministers van Justitie en van Binnenlandse Zaken gezamenlijk;
-
-dat het uit een oogpunt van efficiency en doelmatigheid gewenst is de bijdragen uit 's-Rijks kas, afkomstig van de begrotingen van de departementen van Justitie en van Binnenlandse Zaken, aan het Landelijk Instituut betaalbaar te stellen via één departement, te weten het Ministerie van Binnenlandse Zaken.
-
-dat het wenselijk is ter zake nadere regels te stellen;
-
-Gelet op artikel 76, vierde lid, van de Politiewet;
-
-Besluiten:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+de Minister:
+
+de Minister van Binnenlandse Zaken, die ten deze in overeenstemming met de Minister van Justitie optreedt;
+
+b.
+
+het Landelijk instituut:
+
+het Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 65, eerste lid, van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=65), zoals deze met ingang van 1 juli 1992 is gewijzigd (Stb. 1992, 320);
+
+c.
+
+de jaarrekening:
+
+de rekening en verantwoording, bedoeld in artikel 76, tweede lid, van de Politiewet.
 
 ##### Artikel 2
 
@@ -129,5 +110,3 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 2. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 1992.
 
 3. Deze regeling wordt aangehaald als: Regeling financiering Landelijk selectie- en opleidingsinstituut politie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

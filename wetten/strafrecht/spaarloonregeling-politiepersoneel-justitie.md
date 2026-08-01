@@ -1,47 +1,34 @@
 ---
 title: "Regeling van de minister van Justitie tot vaststelling van bepalingen met betrekking tot het gebruik van de mogelijkheid van spaarloon als bedoeld in artikel 11, eerste lid, onderdeel h, onder 2°, van de Wet op de loonbelasting ten behoeve van ambtenaren van politie in dienst bij het ministerie van Justitie"
+citeertitel: "Spaarloonregeling politiepersoneel Justitie"
 identifier: "BWBR0006693"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-05-01"
-last_updated: "1994-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006693"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3773953"
-version_id: "5556902"
-internal_id: "C5749991"
-label_id: "3753784"
-dtd_version: "2.0"
-original_entry_into_force: "1994-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006693/1994-05-01/0"
-intitule_bron: "Stcrt.1994-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-05-25"
-intitule_published: "1994-06-15"
-intitule_in_force: "1994-06-15"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-111"
-original_signed_date: "1994-05-25"
-original_published_date: "1994-06-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-05-01"
-jci_1_3: "jci1.3:c:BWBR0006693&z=1994-05-01&g=1994-05-01"
-jci_1_0: "1.0:c:BWBR0006693&g=1994-05-01"
-citeertitel_status: "officieel"
-short_title: "Spaarloonregeling politiepersoneel Justitie"
-signed_date: "1994-05-25"
-entry_into_force: "1994-05-01"
+publicatiedatum: 1994-05-01
+laatste_update: 1994-05-01
+status: geldig
+toestand: 1994-05-01
+bron: "https://wetten.overheid.nl/BWBR0006693"
+opgehaald: 2026-08-01
 ---
+
 # Regeling van de minister van Justitie tot vaststelling van bepalingen met betrekking tot het gebruik van de mogelijkheid van spaarloon als bedoeld in artikel 11, eerste lid, onderdeel h, onder 2°, van de Wet op de loonbelasting ten behoeve van ambtenaren van politie in dienst bij het ministerie van Justitie
-
-Handelende in overeenstemming met het gevoelen van de Ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+1.
+
+personeelslid:
+
+degene, die is aangesteld op grond van het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516) en in dienst is van het ministerie van Justitie,
+
+2.
+
+bevoegd gezag:
+
+degene, die ten aanzien van het personeelslid wordt aangemerkt als inhoudingsplichtige als bedoeld in de Wet op de loonbelasting.
 
 ##### Artikel 2
 
@@ -57,9 +44,9 @@ Het bevoegd gezag houdt op verzoek van het personeelslid op diens salaris een be
 
 - b. deze instelling, indien het spaarbedrag wordt gestort op een spaarloonrekening, het bevoegd gezag direct na afloop van elk kalenderjaar waarin het personeelslid heeft gespaard een schriftelijke opgave zal verstrekken waaruit het verloop van diens spaartegoed blijkt voor zoveel betreft:
 
-- 1. het spaarloon;
+   - 1. het spaarloon;
 
-- 2. op het tegoed gekweekte inkomsten over de periode waarin het spaarloon ingevolge deze regeling niet ter beschikking van het personeelslid komt;
+   - 2. op het tegoed gekweekte inkomsten over de periode waarin het spaarloon ingevolge deze regeling niet ter beschikking van het personeelslid komt;
 
 - c. deze instelling ingeval van de opneming van spaargelden als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006693&artikel=11&z=1994-05-01&g=1994-05-01), de alsdan in te houden bedragen in verband met loonheffing, alsmede de premies ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), danwel hetgeen daarmee overeenkomt, volgens opgave van het bevoegd gezag aan hem zal doen toekomen.
 

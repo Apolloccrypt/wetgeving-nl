@@ -1,42 +1,18 @@
 ---
-title: "Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308"
+title: "Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308."
+citeertitel: "Reglement COKZ benamingen"
 identifier: "BWBR0006916"
-country: "nl"
-rank: "zbo"
-publication_date: "1995-01-23"
-last_updated: "1995-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006916"
+categorie: "Milieu"
 soort: "zbo"
-stam_id: "6763853"
-version_id: "11615892"
-internal_id: "C15652881"
-label_id: "6752144"
-original_entry_into_force: "1995-01-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006916/1995-01-23/0"
-intitule_bron: "Stcrt.1995-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-09-15"
-intitule_published: "1995-01-23"
-intitule_in_force: "1995-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1995-16"
-original_signed_date: "1994-09-15"
-original_published_date: "1995-01-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-23"
-jci_1_3: "jci1.3:c:BWBR0006916&z=1995-01-23&g=1995-01-23"
-jci_1_0: "1.0:c:BWBR0006916&g=1995-01-23"
-citeertitel_status: "officieel"
-short_title: "Reglement COKZ benamingen"
-signed_date: "1994-09-15"
-entry_into_force: "1995-01-23"
+publicatiedatum: 1995-01-23
+laatste_update: 1995-01-23
+status: geldig
+toestand: 1995-01-23
+bron: "https://wetten.overheid.nl/BWBR0006916"
+opgehaald: 2026-08-01
 ---
-# Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308
 
-Gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede artikel 36, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63);
-
-Heeft in zijn vergadering van 15 september 1994 vastgesteld het navolgende reglement:
+# Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308.
 
 #### Reglement controle op oorsprongsbenamingen, geografische aanduidingen en specificiteitscertificering (Reglement COKZ benamingen)
 
@@ -46,9 +22,9 @@ Heeft in zijn vergadering van 15 september 1994 vastgesteld het navolgende regle
 
 - b. Besluit benamingen: het [Landbouwkwaliteitsbesluit bescherming van geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327) (Stb. 1994, 37);
 
-- c. EG-[verordening 2081/92](31992R2081): de [Verordening (EEG) nr. 2081/92](31992R2081) van de Raad van 14 juli 1992 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwprodukten en levensmiddelen;
+- c. EG-verordening 2081/92: de Verordening (EEG) nr. 2081/92 van de Raad van 14 juli 1992 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwprodukten en levensmiddelen;
 
-- d. EG-[verordening 2082/92](31992R2082): de [Verordening (EEG) nr. 2082/92](31992R2082) van de Raad van 14 juli 1992 inzake de specificiteitscertificering voor landbouwprodukten en levensmiddelen;
+- d. EG-verordening 2082/92: de Verordening (EEG) nr. 2082/92 van de Raad van 14 juli 1992 inzake de specificiteitscertificering voor landbouwprodukten en levensmiddelen;
 
 - e. Regeling benamingen: de [Landbouwkwaliteitsregeling bescherming van geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0006397) (Stcrt. 1994, 7);
 
@@ -58,9 +34,9 @@ Heeft in zijn vergadering van 15 september 1994 vastgesteld het navolgende regle
 
 - h. Produkt: een landbouwprodukt en levensmiddel als bedoeld in [artikel 6 lid 1 onder a. van het Besluit benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327&artikel=6);
 
-- i. Produktdossier: het produktdossier als bedoeld in artikel 4 van EG-[verordening 2081/92](31992R2081), onderscheidenlijk artikel 6 van EG-[verordening 2082/92](31992R2082).
+- i. Produktdossier: het produktdossier als bedoeld in artikel 4 van EG-verordening 2081/92, onderscheidenlijk artikel 6 van EG-verordening 2082/92.
 
-In dit reglement worden voor het overige overgenomen, de definities van het [Besluit benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327), de [Regeling benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006397), EG-[verordening 2081/92](31992R2081) en EG-[verordening 2082/92](31992R2082).
+In dit reglement worden voor het overige overgenomen, de definities van het [Besluit benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327), de [Regeling benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006397), EG-verordening 2081/92 en EG-verordening 2082/92.
 
 ##### Artikel 2. Aangeslotenen; verplichtingen en aansprakelijkheden
 

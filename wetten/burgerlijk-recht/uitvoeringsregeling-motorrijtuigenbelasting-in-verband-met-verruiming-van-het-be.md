@@ -1,42 +1,17 @@
 ---
 title: "Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto"
 identifier: "BWBR0006826"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-07-23"
-last_updated: "1994-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006826"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "4736373"
-version_id: "6553142"
-internal_id: "C7004111"
-label_id: "4714514"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006826/1994-07-23/0"
-intitule_bron: "Stcrt.1994-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-07-15"
-intitule_published: "1994-07-21"
-intitule_in_force: "1994-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-137"
-original_signed_date: "1994-07-15"
-original_published_date: "1994-07-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-07-23"
-jci_1_3: "jci1.3:c:BWBR0006826&z=1994-07-23&g=1994-07-23"
-jci_1_0: "1.0:c:BWBR0006826&g=1994-07-23"
-citeertitel_status: "officieel"
-signed_date: "1994-07-15"
-entry_into_force: "1994-07-23"
+publicatiedatum: 1994-07-23
+laatste_update: 1994-07-23
+status: geldig
+toestand: 1994-07-23
+bron: "https://wetten.overheid.nl/BWBR0006826"
+opgehaald: 2026-08-01
 ---
+
 # Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto
-
-Gelet op artikel VII, vierde en vijfde lid, van de Wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto (Stb. 673);
-
-Besluit:
 
 ##### Artikel I
 

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 25 juni 1993, houdende regels voor het georganiseerd overleg in de sector Defensie"
+citeertitel: "Besluit georganiseerd overleg sector Defensie"
 identifier: "BWBR0006042"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006042"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "532703"
-version_id: "783462"
-internal_id: "C783461"
-label_id: "518534"
-dtd_version: "2.0"
-original_entry_into_force: "1993-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006042/2020-01-01/0"
-intitule_bron: "Stb.1993-353"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-06-25"
-intitule_status: "goed"
-original_publication: "Stb.1993-353"
-original_signed_date: "1993-06-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-07-14"
-jci_1_3: "jci1.3:c:BWBR0006042&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0006042&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit georganiseerd overleg sector Defensie"
-signed_date: "1993-06-25"
-entry_into_force: "1993-07-14"
+publicatiedatum: 1993-07-14
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0006042"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 25 juni 1993, houdende regels voor het georganiseerd overleg in de sector Defensie
-
-Op de voordracht van Onze minister van Defensie van 1 februari 1993, nr. PAV2210/93002671;
-
-Gelet op [artikel 12, onder **p**, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12), [artikel 125, eerste lid, onder **m** van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) 1929 en artikel 2, onder **m**, van de Wet rechtstoestand dienstplichtigen;
-
-De Raad van State gehoord (advies van 29 maart 1993, nr. W07.93.0060);
-
-Gezien het nader rapport van Onze Minister van Defensie van 16 juni 1993, nr. PAV 2210/93008962;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -112,7 +84,7 @@ Er is een sectorcommissie Defensie voor het georganiseerd overleg over aangelege
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -222,7 +194,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 ##### Artikel 19
 
-1. De advies- en arbitragecommissie treedt in geval van advies op in een samenstelling van drie leden, onder wie de voorzitter, één van de twee leden, genoemd in [artikel 110**g**, derde lid, onder **a**, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) en één van de twee leden, genoemd in het derde lid, onder **b**, van dat artikel. De overige twee leden treden te zamen met de voorzitter op in geval van arbitrage. Bij verhindering van één van de leden treedt diens plaatsvervanger op.
+1. De advies- en arbitragecommissie treedt in geval van advies op in een samenstelling van drie leden, onder wie de voorzitter, één van de twee leden, genoemd in [artikel 110*g*, derde lid, onder *a*, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) en één van de twee leden, genoemd in het derde lid, onder *b*, van dat artikel. De overige twee leden treden te zamen met de voorzitter op in geval van arbitrage. Bij verhindering van één van de leden treedt diens plaatsvervanger op.
 
 2. Indien het verzoek om arbitrage naar het oordeel van de voorzitter eenzelfde geschil betreft als waarover door de advies- en arbitragecommissie reeds advies is uitgebracht, treedt voor een lid dat bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.
 
@@ -278,47 +250,47 @@ Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommi
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -338,14 +310,12 @@ Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
 
 ##### Artikel 43
 
 Dit besluit wordt aangehaald als: Besluit georganiseerd overleg sector Defensie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

@@ -1,50 +1,39 @@
 ---
 title: "Regeling ter uitvoering van de Wet Openbaarheid van bestuur (VW)"
 identifier: "BWBR0005523"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005523"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4608653"
-version_id: "6425012"
-internal_id: "C6670571"
-label_id: "4587084"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005523/2015-01-01/0"
-intitule_bron: "Stcrt.1992-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-05-20"
-intitule_published: "1992-06-12"
-intitule_in_force: "1992-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-111"
-original_signed_date: "1992-05-20"
-original_published_date: "1992-06-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-06-14"
-jci_1_3: "jci1.3:c:BWBR0005523&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0005523&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "1992-05-20"
-entry_into_force: "1992-06-14"
+publicatiedatum: 1992-06-14
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0005523"
+opgehaald: 2026-08-01
 ---
+
 # Regeling ter uitvoering van de Wet Openbaarheid van bestuur (VW)
-
-Overwegende dat de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van die wet,
-
-Besluit:
-
-Vast te stellen de volgende regeling ter uitvoering van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
 ### Hoofdstuk 1. Definities
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+de wet:
+
+de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703);
+
+gemachtigd ambtenaar:
+
+een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;
+
+informatiepunt:
+
+een persoon of plaats binnen het ministerie en binnen de daaronder ressorterende instelling diensten of bedrijven waar informatie kan worden verkregen;
+
+de minister:
+
+de minister van Verkeer en Waterstaat.
 
 ##### Artikel 2. Register
 
@@ -80,7 +69,7 @@ Als gemachtigd ambtenaar wordt aangewezen de Secretaris-Generaal, en bij diens a
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -119,39 +108,3 @@ De Beschikking Openbaarheid Bestuur van 6 mei 1980/MR A. 22.777. Hoofdafdeling V
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 1992.
 
 Deze regeling wordt gepubliceerd in de Staatscourant en afschrift daarvan zal worden gezonden aan de minister-president, Minister van Algemene Zaken.
-
-## Register van niet-ambtelijke adviescommissies, bedoeld in artikel 2, eerste lid, sub b, van de regeling van 20 mei 1992 , ter uitvoering van de [Wet openbaarheid van Bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)1Informatie over de werkzaamheden en/of de uitgebrachte adviezen kan worden ingewonnen bij de Directie Voorlichting, Documentatie en Bibliotheek van het ministerie van Verkeer en Waterstaat.
-
-- De Voorlopige raad van advies voor Post en Telecommunicatie
-
-- De Voorlopige raad voor verkeer en waterstaat
-
-- De Voorlopige raad voor het vervoer
-
-- De Raad voor de Verkeersveiligheid
-
-- De Raad van de Waterstaat
-
-- De Raad voor de Periodieke Veiligheidskeuringen Voertuigen
-
-- De Commissie vervoer over zee
-
-- De Adviescommissie Goederenvervoer
-
-- De Adviescommissie sloopregeling binnenvaart
-
-- Het Centraal Advieslichaam voor het vervoer van gevaarlijke stoffen, bestaande uit:
-
-- een vaste coördinatiecommissie
-
-- een vaste commissie voor vervoersaangelegenheden
-
-- een vaste commissie voor juridische aangelegenheden
-
-- De Commissie behoud scheepsruimte
-
-- De bevrachtingscommissie, bedoeld in het Beursreglement
-
-- De Commissie onderzoek toekomstige relatie tussen de rijksoverheid en de N.V. Nederlandse Spoorwegen.
-
-## Register van de onder verantwoordelijkheid van de minister werkzame instellingen, diensten en bedrijven, bedoeld in artikel 2, eerste lid, sub a, van de regeling van 20 mei 1992, ter uitvoering van de [Wet Openbaarheid van Bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)

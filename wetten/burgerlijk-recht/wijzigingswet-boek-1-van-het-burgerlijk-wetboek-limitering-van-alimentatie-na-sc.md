@@ -1,51 +1,26 @@
 ---
 title: "Wet van 28 april 1994, tot wijziging van bepalingen in het Burgerlijk Wetboek in verband met de regeling van de limitering van alimentatie na scheiding"
+citeertitel: "Wijzigingswet Boek 1 van het Burgerlijk Wetboek (limitering van alimentatie na scheiding)"
 identifier: "BWBR0006640"
-country: "nl"
-rank: "wet"
-publication_date: "1994-07-01"
-last_updated: "1994-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006640"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "493673"
-version_id: "731552"
-internal_id: "C731551"
-label_id: "479854"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006640/1994-07-01/0"
-intitule_bron: "Stb.1994-324"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-04-28"
-intitule_status: "goed"
-original_publication: "Stb.1994-324"
-original_signed_date: "1994-04-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "19295"
-entry_into_force_date: "1994-07-01"
-jci_1_3: "jci1.3:c:BWBR0006640&z=1994-07-01&g=1994-07-01"
-jci_1_0: "1.0:c:BWBR0006640&g=1994-07-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Boek 1 van het Burgerlijk Wetboek (limitering van alimentatie na scheiding)"
-signed_date: "1994-04-28"
-entry_into_force: "1994-07-01"
+publicatiedatum: 1994-07-01
+laatste_update: 1994-07-01
+status: geldig
+toestand: 1994-07-01
+bron: "https://wetten.overheid.nl/BWBR0006640"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 28 april 1994, tot wijziging van bepalingen in het Burgerlijk Wetboek in verband met de regeling van de limitering van alimentatie na scheiding
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is in het Burgerlijk Wetboek een regeling op te nemen omtrent de beperking in duur van uitkeringen tot levensonderhoud uit hoofde van scheiding;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel Ia
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
@@ -70,5 +45,3 @@ De rechter bepaalt bij de uitspraak of verlenging van de vastgestelde termijn na
 ##### Artikel III
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeuringe uitvoering de hand zullen houden.

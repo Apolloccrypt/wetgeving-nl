@@ -1,80 +1,54 @@
 ---
 title: "Wet van 30 juni 1994, tot wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein)"
+citeertitel: "Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein)"
 identifier: "BWBR0006782"
-country: "nl"
-rank: "wet"
-publication_date: "2002-01-01"
-last_updated: "2002-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006782"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "512693"
-version_id: "753142"
-internal_id: "C753141"
-label_id: "498204"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006782/2002-01-01/0"
-intitule_bron: "Stb.1994-496"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-30"
-intitule_status: "goed"
-original_publication: "Stb.1994-496"
-original_signed_date: "1994-06-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "23123"
-entry_into_force_date: "1994-07-08"
-entry_into_force_dossier: "23123"
-jci_1_3: "jci1.3:c:BWBR0006782&z=2002-01-01&g=2002-01-01"
-jci_1_0: "1.0:c:BWBR0006782&g=2002-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein)"
-signed_date: "1994-06-30"
-entry_into_force: "1994-07-08"
+publicatiedatum: 1994-07-08
+laatste_update: 2002-01-01
+status: geldig
+toestand: 2002-01-01
+bron: "https://wetten.overheid.nl/BWBR0006782"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 30 juni 1994, tot wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijk recht op waarde-overdracht in het leven te roepen, alsmede enige andere maatregelen te treffen op het aanvullende pensioenterrein.
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 #### Overgangsbepalingen
 
@@ -86,7 +60,7 @@ Bevat wijzigingen in andere regelgeving.
 
 3. [Artikel 32, zesde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32) vindt voor het eerst toepassing op 1 januari volgend op de inwerkingtreding van deze wet.
 
-4. [Artikel 32**b**, eerste en tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32b) is niet van toepassing indien de deelneming is geëindigd vóór de inwerkingtreding van deze wet.
+4. [Artikel 32*b*, eerste en tweede lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32b) is niet van toepassing indien de deelneming is geëindigd vóór de inwerkingtreding van deze wet.
 
 5. De statuten en reglementen van een vóór de inwerkingtreding van deze wet opgericht pensioenfonds, moeten binnen twee jaar na dat tijdstip aan het in deze wet bepaalde voldoen.
 
@@ -96,7 +70,7 @@ De intrekking van [artikel 72 van de Algemene Ouderdomswet](https://wetten.overh
 
 ##### Artikel XII
 
-De intrekking van artikel 21**a** van de Algemene Weduwen- en Wezenwet heeft geen betrekking op aanspraken op pensioen die zijn opgebouwd voor de inwerkingtreding van deze wet en kan uitsluitend na een wijziging van de pensioenregeling in verband met bedoelde intrekking gevolgen hebben voor nog op te bouwen aanspraken op pensioen.
+De intrekking van artikel 21*a* van de Algemene Weduwen- en Wezenwet heeft geen betrekking op aanspraken op pensioen die zijn opgebouwd voor de inwerkingtreding van deze wet en kan uitsluitend na een wijziging van de pensioenregeling in verband met bedoelde intrekking gevolgen hebben voor nog op te bouwen aanspraken op pensioen.
 
 ##### Artikel XIII
 
@@ -108,19 +82,19 @@ De intrekking van artikel 21**a** van de Algemene Weduwen- en Wezenwet heeft gee
 
 ##### Artikel XIV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XVI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XVII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XVIII
 
@@ -138,11 +112,11 @@ De artikelen N 13 tot en met N 22 van de Algemene burgerlijke pensioenwet en de 
 
 ##### Artikel XX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXI
 
-De artikelen R 6 tot en met R [16 van de Algemene militaire pensioenwet](onbekend) en de daarop berustende bepalingen, zoals deze luidden voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing ten aanzien van:
+De artikelen R 6 tot en met R 16 van de Algemene militaire pensioenwet en de daarop berustende bepalingen, zoals deze luidden voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing ten aanzien van:
 
 - a. een verzoek van de gewezen beroepsmilitair dat betrekking heeft op een ontslag op grond waarvan een uitzicht op pensioen is verkregen voor zover dat ontslag is gelegen voor de inwerkingtreding van deze wet.
 
@@ -152,6 +126,4 @@ De artikelen R 6 tot en met R [16 van de Algemene militaire pensioenwet](onbeken
 
 ##### Artikel XXII
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0006782&artikel=I&z=2002-01-01&g=2002-01-01), en [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0006782&artikel=III&z=2002-01-01&g=2002-01-01), in werking treden op 1 januari 1995.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst, met dien verstande dat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0006782&artikel=I&z=2002-01-01&g=2002-01-01), en [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0006782&artikel=III&z=2002-01-01&g=2002-01-01), in werking treden op 1 januari 1995.

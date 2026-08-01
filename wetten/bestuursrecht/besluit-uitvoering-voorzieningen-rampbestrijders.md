@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 2 juni 1993, houdende nadere regels in het belang van een goede uitvoering van de Wet rechtspositionele voorzieningen rampbestrijders"
+citeertitel: "Besluit uitvoering voorzieningen rampbestrijders"
 identifier: "BWBR0006008"
-country: "nl"
-rank: "amvb"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006008"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1155923"
-version_id: "1710912"
-internal_id: "C1710911"
-label_id: "1120604"
-dtd_version: "2.0"
-original_entry_into_force: "1993-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006008/1994-01-01/0"
-intitule_bron: "Stb.1993-295"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-06-02"
-intitule_status: "goed"
-original_publication: "Stb.1993-295"
-original_signed_date: "1993-06-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-07-01"
-jci_1_3: "jci1.3:c:BWBR0006008&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0006008&g=1994-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit uitvoering voorzieningen rampbestrijders"
-signed_date: "1993-06-02"
-entry_into_force: "1993-07-01"
+publicatiedatum: 1993-07-01
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0006008"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 2 juni 1993, houdende nadere regels in het belang van een goede uitvoering van de Wet rechtspositionele voorzieningen rampbestrijders
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 maart 1993, nr. EB93/562, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer;
-
-Gelet op [artikel 38, eerste lid, van de Wet rechtspositionele voorzieningen rampbestrijders](https://wetten.overheid.nl/jci1.3:c:BWBR0005643&artikel=38);
-
-Gezien het advies van het tijdelijk georganiseerd overleg rampbestrijders van 22 januari 1993, nr. EB93/186;
-
-De Raad van State gehoord (advies van 28 april 1993, nr. W04.93.0167);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 17 mei 1993, nr. EB93/982, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -50,11 +20,11 @@ Voor de toepassing van dit besluit wordt verstaan onder de wet: de [Wet rechtspo
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -66,7 +36,7 @@ Indien de rampbestrijder reeds op grond van de [Ziektewet](https://wetten.overhe
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -89,5 +59,3 @@ Dit besluit treedt in werking met ingang van de dag waarop de [Wet rechtspositio
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit uitvoering voorzieningen rampbestrijders.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

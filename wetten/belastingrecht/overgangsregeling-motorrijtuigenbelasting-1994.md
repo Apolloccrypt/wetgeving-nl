@@ -1,42 +1,17 @@
 ---
 title: "Overgangsregeling motorrijtuigenbelasting 1994"
 identifier: "BWBR0006370"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-01-01"
-last_updated: "1994-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006370"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3737213"
-version_id: "5520082"
-internal_id: "C5713171"
-label_id: "3716964"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006370/1994-01-01/0"
-intitule_bron: "Stcrt.1993-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-24"
-intitule_published: "1993-12-28"
-intitule_in_force: "1993-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-250"
-original_signed_date: "1993-12-24"
-original_published_date: "1993-12-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBR0006370&z=1994-01-01&g=1994-01-01"
-jci_1_0: "1.0:c:BWBR0006370&g=1994-01-01"
-citeertitel_status: "officieel"
-signed_date: "1993-12-24"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 1994-01-01
+status: geldig
+toestand: 1994-01-01
+bron: "https://wetten.overheid.nl/BWBR0006370"
+opgehaald: 2026-08-01
 ---
+
 # Overgangsregeling motorrijtuigenbelasting 1994
-
-Gelet op [artikel XIII van de Wet van 24 december 1993 tot wijziging van een aantal belastingwetten en van de Wet Infrastructuurfonds in het kader van het belastingplan 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006376&artikel=XIII) (Stb. 1993, 760);
-
-Besluit:
 
 ##### Artikel 1
 

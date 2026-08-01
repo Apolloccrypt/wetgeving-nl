@@ -1,46 +1,18 @@
 ---
 title: "Wet van 7 juli 1993, houdende herziening van de Wet rijonderricht motorrijtuigen"
+citeertitel: "Wet rijonderricht motorrijtuigen 1993"
 identifier: "BWBR0006073"
-country: "nl"
-rank: "wet"
-publication_date: "2021-04-24"
-last_updated: "2021-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006073"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2778143"
-version_id: "25613962"
-internal_id: "C37625411"
-label_id: "2726794"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006073/2021-04-24/0"
-intitule_bron: "Stb.1993-418"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-07-07"
-intitule_in_force: "1994-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2019-6"
-original_signed_date: "2018-12-19"
-original_published_date: "2019-01-18"
-original_effect: "structuurwijziging"
-original_dossier: "34182"
-original_url_id: "stb-2019-6"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0006073&z=2021-04-24&g=2021-04-24"
-jci_1_0: "1.0:c:BWBR0006073&g=2021-04-24"
-citeertitel_status: "officieel"
-short_title: "Wet rijonderricht motorrijtuigen 1993"
-signed_date: "2018-12-19"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2021-04-24
+status: geldig
+toestand: 2021-04-24
+bron: "https://wetten.overheid.nl/BWBR0006073"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 7 juli 1993, houdende herziening van de Wet rijonderricht motorrijtuigen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels inzake de bevoegdheid tot het geven van onderricht in het besturen van motorrijtuigen te herzien;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -48,29 +20,30 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bromfiets:** hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](onbekend), niet zijnde een brommobiel;
+- *bromfiets:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622), niet zijnde een brommobiel;
 
-- **brommobiel:** bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;
+- *brommobiel:* bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;
 
-- **bijscholing:** rijonderricht na de eerste afgifte van een certificaat als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), gericht op het hernieuwd verkrijgen van een certificaat als in dat onderdeel bedoeld;
+- *bijscholing:* rijonderricht na de eerste afgifte van een certificaat als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), gericht op het hernieuwd verkrijgen van een certificaat als in dat onderdeel bedoeld;
 
-- **instituut:** instituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2021-04-24&g=2021-04-24);
+- *instituut:* instituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=2&z=2021-04-24&g=2021-04-24);
 
-- **motorrijtuigcategorie:** categorie van motorrijtuigen vastgesteld op grond van [artikel 118, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118);
+- *motorrijtuigcategorie:* categorie van motorrijtuigen vastgesteld op grond van [artikel 118, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118);
 
-- **motorrijtuigen:** hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](onbekend);
+- *motorrijtuigen:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622);
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+- *Onze Minister:* Onze Minister van Infrastructuur en Milieu;
 
-- **richtlijn vakbekwaamheid bestuurders:** [richtlijn nr. 2003/59/EG](32003L0059) van het Europees Parlement en de Raad van 15 juli 2003 betreffende de vakbekwaamheid en opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van Verordening (EEG) nr. 3820/85 van de Raad en [Richtlijn 91/439/EEG](31991L0439) van de Raad en tot intrekking van [Richtlijn 76/914/EEG](31976L0914) van de Raad (PbEG 2003, L 226);
+- *richtlijn vakbekwaamheid bestuurders:*
+ richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van 15 juli 2003 betreffende de vakbekwaamheid en opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van Verordening (EEG) nr. 3820/85 van de Raad en Richtlijn 91/439/EEG van de Raad en tot intrekking van Richtlijn 76/914/EEG van de Raad (PbEG 2003, L 226);
 
-- **rijbewijs:** hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](onbekend);
+- *rijbewijs:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622);
 
-- **rijonderricht:** onderricht, gericht op het bijbrengen, behouden of verbeteren van de rijvaardigheid of geschiktheid om aan het verkeer deel te nemen als bestuurder van een motorrijtuig, waarvoor een rijbewijs is vereist;
+- *rijonderricht:* onderricht, gericht op het bijbrengen, behouden of verbeteren van de rijvaardigheid of geschiktheid om aan het verkeer deel te nemen als bestuurder van een motorrijtuig, waarvoor een rijbewijs is vereist;
 
-- **scholing educatieve maatregel:** onderricht gericht op de bevordering van de rijvaardigheid of geschiktheid in het kader van een door het CBR krachtens de [Wegenverkeerswet 1994](onbekend) aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;
+- *scholing educatieve maatregel:* onderricht gericht op de bevordering van de rijvaardigheid of geschiktheid in het kader van een door het CBR krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;
 
-- **stage:** na het examen te volgen rijonderricht gericht op het verkrijgen van een certificaat als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24).
+- *stage:* na het examen te volgen rijonderricht gericht op het verkrijgen van een certificaat als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24).
 
 ### Hoofdstuk II. Het instituut
 
@@ -118,7 +91,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -172,7 +145,7 @@ Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigh
 
 4. In afwijking van het eerste lid, tweede volzin, is degene die rijonderricht geeft voor het besturen van een bromfiets in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorieën A1, A2 en A en is degene die rijonderricht geeft voor het besturen van een brommobiel in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B.
 
-5. In afwijking van het eerste lid is degene die rijonderricht geeft voor bij algemene maatregel van bestuur aangewezen landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie T.
+5. In afwijking van het eerste lid is degene die rijonderricht geeft voor bij algemene maatregel van bestuur aangewezen landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie T.
 
 6. In afwijking van het derde lid, onderdeel a, is een certificaat als bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), alleen geldig voor het rijonderricht dat wordt gegeven onder directe begeleiding van de stagebegeleider.
 
@@ -184,7 +157,7 @@ Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigh
 
 ##### Artikel 8a
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 8**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=8b&z=2021-04-24&g=2021-04-24) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 8*b*](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=8b&z=2021-04-24&g=2021-04-24) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -194,11 +167,11 @@ Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigh
 
 5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
 
 ##### Artikel 8b
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24) is niet van toepassing op militaire rij-instructeurs voor zover zij werkzaam zijn binnen hun dienstverband.
 
@@ -232,6 +205,16 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 - b. de beoordeling van de competenties van de betrokkene en de wijze waarop die beoordeling plaatsvindt.
 
+##### Artikel 9a
+
+1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24) voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24), voor alleen de motorrijtuigcategorie B, ten behoeve van het verkrijgen van het certificaat voor de motorrijtuigcategorie T, bedoeld in [artikel 13, onderdeel a, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
+
+2. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24) voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24), voor alleen de motorrijtuigcategorie B, ten behoeve van het verkrijgen van het certificaat, bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), voor de motorrijtuigcategorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
+
+##### Artikel 9b
+
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24) voldoet de aanvrager die mede beschikt over een geldig certificaat als bedoeld in [artikel 7, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24), voor de categorie E bij C, ten behoeve van het verkrijgen van het certificaat, bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), voor de categorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
+
 ##### Artikel 10
 
 1. Een certificaat voor het geven van rijonderricht vermeldt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels de motorrijtuigcategorie of motorrijtuigcategorieën waarvoor het is afgegeven.
@@ -256,17 +239,63 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 #### § 2a. Stage
 
+##### Artikel 12a
+
+1. Degene die blijkens een door het instituut afgegeven certificaat voldoet aan de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24), bedoelde eisen van vakbekwaamheid, doorloopt na de afgifte van dat certificaat een stage door middel van het geven van rijonderricht in die motorrijtuigcategorie. Het voldoen aan de regels voor de stage in de motorrijtuigcategorieën B, C1, C, D1 of D wordt gelijkgesteld met het voldoen aan de regels voor de stage in de motorrijtuigcategorieën BE, C1E, CE, D1E of DE.
+
+2. Het instituut kan stagebegeleiders aanwijzen.
+
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
+
+- a. de inhoud, de duur en de mogelijke verlenging van de stage in verband met bijzondere omstandigheden, en de wijze waarop die wordt doorlopen,
+
+- b. de beoordeling van de stagiair en de wijze waarop de beoordeling plaatsvindt,
+
+- c. de aanwijzing van stagebegeleiders.
+
+#### § 2b. Bijscholing
+
+##### Artikel 12b
+
+1. Degene die rijonderricht geeft en in het bezit is van een certificaat als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), volgt theoretische en praktische bijscholing voor het rijonderricht in de motorrijtuigcategorie waarvoor hij het certificaat bezit. Indien degene die rijonderricht geeft in het bezit is van een certificaat voor verschillende motorrijtuigcategorieën, volgt hij voor één van die categorieën theoretische en praktische bijscholing. Degene die rijonderricht geeft, in het bezit is van een certificaat als bedoeld in artikel 13, onderdeel b, en binnen de geldigheidsduur van dat certificaat een certificaat als bedoeld in artikel 13, onderdeel b, voor de motorrijtuigcategorie A, C, D of T behaalt, heeft daarmee voldaan aan de verplichting om praktische bijscholing te volgen.
+
+2. Het instituut stelt de leerdoelen, de inhoud en de voorgeschreven werkwijze van de theoretische en praktische bijscholing vast, en kan de cursussen certificeren die aan de leerdoelen, de inhoud en de voorgeschreven werkwijze voldoen.
+
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
+
+- a. de omvang en de inhoud van de gecertificeerde cursussen, de verplichtingen van degenen die de gecertificeerde cursussen verzorgen, en de mogelijke verlenging van de theoretische bijscholing in verband met bijzondere omstandigheden,
+
+- b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, waarbij verschillende regels worden gesteld indien er sprake is van een verlenging als bedoeld in [artikel 13, onderdeel b, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24),
+
+- c. de beoordeling van de competenties van degene die rijonderricht geeft en de wijze waarop die beoordeling plaatsvindt.
+
+4. Het instituut kan degene die rijonderricht geeft ontheffing verlenen van de verplichting praktische bijscholing te volgen. Aan de ontheffing kunnen beperkingen en voorschriften worden verbonden.
+
+#### § 2c. Herintreding
+
+##### Artikel 12c
+
+1. Degene die blijkens het register, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=4&z=2021-04-24&g=2021-04-24), minder dan vijf jaar geleden beschikte over een geldig certificaat kan een herintrederstraject volgen.
+
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
+
+- a. de omvang en de inhoud van het herintrederstraject,
+
+- b. de beoordeling van de competenties van de herintreder en de wijze waarop die beoordeling plaatsvindt.
+
+#### § 3. Geldigheidsduur certificaten rijinstructeur
+
 ##### Artikel 13
 
 Een certificaat is geldig:
 
 - a. In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste vier achtereenvolgende maanden worden verlengd,
 
-- 1. indien het wordt afgegeven aansluitend op het behalen van het examen voor de motorrijtuigcategorie B, voor de duur van twaalf achtereenvolgende maanden;
+   - 1. indien het wordt afgegeven aansluitend op het behalen van het examen voor de motorrijtuigcategorie B, voor de duur van twaalf achtereenvolgende maanden;
 
-- 2. indien het wordt afgegeven aansluitend op het behalen van het examen voor de motorrijtuigcategorie A1, A2, A, C1, C, D1 of D, voor de duur van tien achtereenvolgende maanden;
+   - 2. indien het wordt afgegeven aansluitend op het behalen van het examen voor de motorrijtuigcategorie A1, A2, A, C1, C, D1 of D, voor de duur van tien achtereenvolgende maanden;
 
-- 3. indien het wordt afgegeven aansluitend op het behalen van het examen voor de motorrijtuigcategorie T, voor de duur van twaalf achtereenvolgende maanden.
+   - 3. indien het wordt afgegeven aansluitend op het behalen van het examen voor de motorrijtuigcategorie T, voor de duur van twaalf achtereenvolgende maanden.
 
 - b. in de overige gevallen: voor de duur van vijf achtereenvolgende jaren. In bijzondere bij of krachtens algemene maatregel van bestuur aan te geven gevallen, kan de geldigheidsduur door het instituut eenmalig met ten hoogste twaalf achtereenvolgende maanden worden verlengd. De geldigheidsduur wordt door het instituut na de geldigheidsduur, bedoeld in de eerste zin, met zes maanden verlengd indien het instituut voor het einde van de geldigheidsduur de beoordeling van de laatste toegestane en gevolgde praktische bijscholing als onvoldoende vaststelt. Na de verlenging wordt de geldigheidsduur telkens verlengd met zes maanden gerekend vanaf de dag waarop praktische bijscholing is gevolgd waarvan de beoordeling als onvoldoende is vastgesteld.
 
@@ -296,7 +325,31 @@ Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Zodra de ongeldigverklaring van kracht is geworden, zendt de houder van het ongeldig verklaarde certificaat dat certificaat aangetekend aan het instituut of levert dat certificaat in bij het instituut.
 
-### Hoofdstuk IV. Bijscholing
+#### § 4. Verklaring omtrent het gedrag
+
+##### Artikel 15a
+
+1. Degene die bij het instituut een aanvraag indient voor:
+
+- a. een certificaat als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24),
+
+- b. een verlenging als bedoeld in [artikel 13, onderdeel b, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24),
+
+- c. een certificaat als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24), of
+
+- d. een certificaat op grond van [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24), overlegt bij die aanvraag een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) welke niet ouder is dan zes maanden.
+
+2. Met een verklaring omtrent het gedrag als bedoeld in het eerste lid, wordt gelijkgesteld een verklaring omtrent het gedrag welke niet ouder is dan zes maanden en is afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden.
+
+3. Indien de aanvrager niet voldoet aan het eerste lid kan de aanvrager niet deelnemen aan het examen respectievelijk geeft het instituut het gevraagde certificaat niet af.
+
+##### Artikel 15b
+
+1. Indien de verklaring omtrent het gedrag is geweigerd en na het einde van de geldigheidsduur van het certificaat alsnog wordt afgegeven, geeft het instituut het gevraagde certificaat alsnog af als aan de overige voorwaarden daarvoor is voldaan.
+
+2. In afwijking van [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), is in een geval als bedoeld in het eerste lid, de geldigheid van het laatstbedoelde certificaat beperkt tot vijf jaren gerekend vanaf de datum waarop de geldigheid van het eerstbedoelde certificaat is verstreken.
+
+### Hoofdstuk IV. Scholing educatieve maatregel
 
 ##### Artikel 16
 
@@ -324,7 +377,7 @@ Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
@@ -334,7 +387,7 @@ Ten aanzien van certificaten ten behoeve van het geven van scholing educatieve m
 
 Een certificaat voor het geven van scholing educatieve maatregel verliest zijn geldigheid met ingang van de datum waarop het diploma, bedoeld in [artikel 17, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=IV&artikel=17&z=2021-04-24&g=2021-04-24), zijn geldigheid verliest.
 
-### Hoofdstuk IV. Scholing educatieve maatregel en scholing alcoholslotprogramma
+### Hoofdstuk V. Maatregelen vakbekwaamheid
 
 ##### Artikel 21
 
@@ -382,7 +435,15 @@ Een certificaat voor het geven van scholing educatieve maatregel verliest zijn g
 
 - b. vernietigen het certificaat in de overige gevallen.
 
-### Hoofdstuk V. Maatregelen vakbekwaamheid
+##### Artikel 24a
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de door Onze Minister aangewezen ambtenaren.
+
+##### Artikel 24b
+
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.
+
+### Hoofdstuk VII. Straf-, overgangs- en slotbepalingen
 
 ##### Artikel 25
 
@@ -404,19 +465,19 @@ Onze Minister kan een bestuurlijke boete opleggen wegens overtreding van:
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30b
 
@@ -424,7 +485,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
@@ -432,124 +493,4 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 
 ##### Artikel 33
 
-Deze wet kan worden aangehaald als "Wet rijonderricht motorrijtuigen" met vermelding van het jaartal van het **Staatsblad** waarin zij zal worden geplaatst.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 24a
-
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de door Onze Minister aangewezen ambtenaren.
-
-### Hoofdstuk V. Maatregelen vakbekwaamheid
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-1. Degene die blijkens een door het instituut afgegeven certificaat voldoet aan de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24), bedoelde eisen van vakbekwaamheid, doorloopt na de afgifte van dat certificaat een stage door middel van het geven van rijonderricht in die motorrijtuigcategorie. Het voldoen aan de regels voor de stage in de motorrijtuigcategorieën B, C1, C, D1 of D wordt gelijkgesteld met het voldoen aan de regels voor de stage in de motorrijtuigcategorieën BE, C1E, CE, D1E of DE.
-
-2. Het instituut kan stagebegeleiders aanwijzen.
-
-3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
-
-- a. de inhoud, de duur en de mogelijke verlenging van de stage in verband met bijzondere omstandigheden, en de wijze waarop die wordt doorlopen,
-
-- b. de beoordeling van de stagiair en de wijze waarop de beoordeling plaatsvindt,
-
-- c. de aanwijzing van stagebegeleiders.
-
-#### § 2a. Stage
-
-##### Artikel 12b
-
-1. Degene die rijonderricht geeft en in het bezit is van een certificaat als bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), volgt theoretische en praktische bijscholing voor het rijonderricht in de motorrijtuigcategorie waarvoor hij het certificaat bezit. Indien degene die rijonderricht geeft in het bezit is van een certificaat voor verschillende motorrijtuigcategorieën, volgt hij voor één van die categorieën theoretische en praktische bijscholing. Degene die rijonderricht geeft, in het bezit is van een certificaat als bedoeld in artikel 13, onderdeel b, en binnen de geldigheidsduur van dat certificaat een certificaat als bedoeld in artikel 13, onderdeel b, voor de motorrijtuigcategorie A, C, D of T behaalt, heeft daarmee voldaan aan de verplichting om praktische bijscholing te volgen.
-
-2. Het instituut stelt de leerdoelen, de inhoud en de voorgeschreven werkwijze van de theoretische en praktische bijscholing vast, en kan de cursussen certificeren die aan de leerdoelen, de inhoud en de voorgeschreven werkwijze voldoen.
-
-3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
-
-- a. de omvang en de inhoud van de gecertificeerde cursussen, de verplichtingen van degenen die de gecertificeerde cursussen verzorgen, en de mogelijke verlenging van de theoretische bijscholing in verband met bijzondere omstandigheden,
-
-- b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, waarbij verschillende regels worden gesteld indien er sprake is van een verlenging als bedoeld in [artikel 13, onderdeel b, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24),
-
-- c. de beoordeling van de competenties van degene die rijonderricht geeft en de wijze waarop die beoordeling plaatsvindt.
-
-4. Het instituut kan degene die rijonderricht geeft ontheffing verlenen van de verplichting praktische bijscholing te volgen. Aan de ontheffing kunnen beperkingen en voorschriften worden verbonden.
-
-#### § 2b. Bijscholing
-
-##### Artikel 12c
-
-1. Degene die blijkens het register, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=II&artikel=4&z=2021-04-24&g=2021-04-24), minder dan vijf jaar geleden beschikte over een geldig certificaat kan een herintrederstraject volgen.
-
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
-
-- a. de omvang en de inhoud van het herintrederstraject,
-
-- b. de beoordeling van de competenties van de herintreder en de wijze waarop die beoordeling plaatsvindt.
-
-#### § 2c. Herintreding
-
-### Hoofdstuk VI. Toezicht en opsporing
-
-### Hoofdstuk VI. Toezicht en opsporing
-
-### Hoofdstuk VIA. Ontheffingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24) voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24), voor alleen de motorrijtuigcategorie B, ten behoeve van het verkrijgen van het certificaat voor de motorrijtuigcategorie T, bedoeld in [artikel 13, onderdeel a, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
-
-2. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24) voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24), voor alleen de motorrijtuigcategorie B, ten behoeve van het verkrijgen van het certificaat, bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), voor de motorrijtuigcategorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
-
-##### Artikel 9b
-
-In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24) voldoet de aanvrager die mede beschikt over een geldig certificaat als bedoeld in [artikel 7, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=1&artikel=7&z=2021-04-24&g=2021-04-24), voor de categorie E bij C, ten behoeve van het verkrijgen van het certificaat, bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), voor de categorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
-
-#### § 3. Geldigheidsduur certificaten rijinstructeur
-
-### Hoofdstuk IV. Scholing educatieve maatregel en scholing alcoholslotprogramma
-
-### Hoofdstuk VII. Straf-, overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 4. Verklaring omtrent het gedrag
-
-##### Artikel 15a
-
-1. Degene die bij het instituut een aanvraag indient voor:
-
-- a. een certificaat als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24),
-
-- b. een verlenging als bedoeld in [artikel 13, onderdeel b, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24),
-
-- c. een certificaat als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24), of
-
-- d. een certificaat op grond van [artikel 9, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=2&artikel=9&z=2021-04-24&g=2021-04-24), overlegt bij die aanvraag een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) welke niet ouder is dan zes maanden.
-
-2. Met een verklaring omtrent het gedrag als bedoeld in het eerste lid, wordt gelijkgesteld een verklaring omtrent het gedrag welke niet ouder is dan zes maanden en is afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden.
-
-3. Indien de aanvrager niet voldoet aan het eerste lid kan de aanvrager niet deelnemen aan het examen respectievelijk geeft het instituut het gevraagde certificaat niet af.
-
-##### Artikel 15b
-
-1. Indien de verklaring omtrent het gedrag is geweigerd en na het einde van de geldigheidsduur van het certificaat alsnog wordt afgegeven, geeft het instituut het gevraagde certificaat alsnog af als aan de overige voorwaarden daarvoor is voldaan.
-
-2. In afwijking van [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&hoofdstuk=III&paragraaf=3&artikel=13&z=2021-04-24&g=2021-04-24), is in een geval als bedoeld in het eerste lid, de geldigheid van het laatstbedoelde certificaat beperkt tot vijf jaren gerekend vanaf de datum waarop de geldigheid van het eerstbedoelde certificaat is verstreken.
-
-### Hoofdstuk IV. Scholing educatieve maatregel
-
-### Hoofdstuk V. Maatregelen vakbekwaamheid
-
-### Hoofdstuk VI. Toezicht en opsporing
-
-##### Artikel 24b
-
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.
-
-### Hoofdstuk VII. Straf-, overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet kan worden aangehaald als "Wet rijonderricht motorrijtuigen" met vermelding van het jaartal van het *Staatsblad* waarin zij zal worden geplaatst.

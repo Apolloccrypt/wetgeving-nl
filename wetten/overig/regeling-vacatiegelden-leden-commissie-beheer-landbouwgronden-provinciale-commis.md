@@ -1,51 +1,42 @@
 ---
 title: "Regeling vacatiegelden leden Centrale Landinrichtingscommissie, commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie"
+citeertitel: "Regeling vacatiegelden leden commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie"
 identifier: "BWBR0006481"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006481"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4610783"
-version_id: "6427102"
-internal_id: "C6672661"
-label_id: "4589174"
-dtd_version: "2.0"
-original_entry_into_force: "1994-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006481/2020-01-01/0"
-intitule_bron: "Stcrt.1994-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-16"
-intitule_published: "1994-02-22"
-intitule_in_force: "1994-02-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-37"
-original_signed_date: "1994-02-16"
-original_published_date: "1994-02-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-02-24"
-jci_1_3: "jci1.3:c:BWBR0006481&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0006481&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vacatiegelden leden commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie"
-signed_date: "1994-02-16"
-entry_into_force: "1994-02-24"
+publicatiedatum: 1994-02-24
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0006481"
+opgehaald: 2026-08-01
 ---
+
 # Regeling vacatiegelden leden Centrale Landinrichtingscommissie, commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie
-
-Gelet op artikel 12 van het Besluit van 11 september 1985, houdende nadere regelen betreffende de taak, werkwijze en samenstelling van de Centrale Landinrichtingscommissie (Stb. 521), artikel 10 van het Besluit van 30 oktober 1981, houdende voorschriften betreffende de samenstelling en de werkwijze van de Commissie Beheer Landbouwgronden (Stb. 677) en [artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1);
-
-Gezien het advies van de Centrale Landinrichtingscommissie en de Commissie Beheer Landbouwgronden;
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+commissie beheer landbouwgronden:
+
+Commissie Beheer Landbouwgronden, bedoeld in [artikel 30 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=30);
+
+b.
+
+provinciale commissie beheer landbouwgronden:
+
+Provinciale Commissie Beheer Landbouwgronden, bedoeld in [artikel 1 van de Regeling instelling en werkwijze provinciale commissies beheer landbouwgronden](https://wetten.overheid.nl/jci1.3:c:BWBR0004371&artikel=1);
+
+c.
+
+geschillencommissie:
+
+Geschillencommissie, bedoeld in artikel 64 van de Regeling beheersovereenkomsten 1993.
 
 #### Paragraaf 2. Vacatiegelden commissie beheer landbouwgronden
 
@@ -59,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 3. Vacatiegelden provinciale commissies beheer landbouwgronden en subcommissies
 

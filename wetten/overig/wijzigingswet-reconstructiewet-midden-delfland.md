@@ -1,48 +1,22 @@
 ---
 title: "Wet van 18 maart 1993, tot wijziging van de Reconstructiewet Midden-Delfland"
+citeertitel: "Wijzigingswet Reconstructiewet Midden-Delfland"
 identifier: "BWBR0005922"
-country: "nl"
-rank: "wet"
-publication_date: "1993-04-21"
-last_updated: "1993-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005922"
+categorie: "Overig"
 soort: "wet"
-stam_id: "514453"
-version_id: "755342"
-internal_id: "C755341"
-label_id: "499754"
-dtd_version: "2.0"
-original_entry_into_force: "1993-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005922/1993-04-21/0"
-intitule_bron: "Stb.1993-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-18"
-intitule_status: "goed"
-original_publication: "Stb.1993-205"
-original_signed_date: "1993-03-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "22344"
-entry_into_force_date: "1993-04-21"
-entry_into_force_dossier: "22344"
-jci_1_3: "jci1.3:c:BWBR0005922&z=1993-04-21&g=1993-04-21"
-jci_1_0: "1.0:c:BWBR0005922&g=1993-04-21"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Reconstructiewet Midden-Delfland"
-signed_date: "1993-03-18"
-entry_into_force: "1993-04-21"
+publicatiedatum: 1993-04-21
+laatste_update: 1993-04-21
+status: geldig
+toestand: 1993-04-21
+bron: "https://wetten.overheid.nl/BWBR0005922"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 18 maart 1993, tot wijziging van de Reconstructiewet Midden-Delfland
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de bij de [Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094) (Stb. 1977, 233) behorende kaart te wijzigen in verband met een wijziging van het in deze wet begrepen gebied Midden-Delfland;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
@@ -54,6 +28,4 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel III
 
-Deze wet treedt in werking met ingang van de eerste dag na de dag van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet treedt in werking met ingang van de eerste dag na de dag van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.

@@ -1,44 +1,21 @@
 ---
 title: "Wijziging Regeling opvang asielzoekers en intrekking van de Tijdelijke regeling opvang ontheemden"
 identifier: "BWBR0006503"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-03-09"
-last_updated: "1994-03-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006503"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3796853"
-version_id: "5579622"
-internal_id: "C5772711"
-label_id: "3776504"
-dtd_version: "2.0"
-original_entry_into_force: "1994-03-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006503/1994-03-09/0"
-intitule_bron: "Stcrt.1994-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-03"
-intitule_published: "1994-03-07"
-intitule_in_force: "1994-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-46"
-original_signed_date: "1994-03-03"
-original_published_date: "1994-03-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-03-09"
-jci_1_3: "jci1.3:c:BWBR0006503&z=1994-03-09&g=1994-03-09"
-jci_1_0: "1.0:c:BWBR0006503&g=1994-03-09"
-citeertitel_status: "officieel"
-signed_date: "1994-03-03"
-entry_into_force: "1994-03-09"
+publicatiedatum: 1994-03-09
+laatste_update: 1994-03-09
+status: geldig
+toestand: 1994-03-09
+bron: "https://wetten.overheid.nl/BWBR0006503"
+opgehaald: 2026-08-01
 ---
-# Wijziging Regeling opvang asielzoekers en intrekking van de Tijdelijke regeling opvang ontheemden
 
-Besluit:
+# Wijziging Regeling opvang asielzoekers en intrekking van de Tijdelijke regeling opvang ontheemden
 
 ##### Artikel I
 
-Wijzigt de Regeling opvang asielzoekers.
+*Wijzigt de Regeling opvang asielzoekers.*
 
 ##### Artikel II
 

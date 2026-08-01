@@ -1,42 +1,17 @@
 ---
 title: "Regeling verwijdering justitiële gegevens"
 identifier: "BWBR0005934"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-04-24"
-last_updated: "1993-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005934"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3765493"
-version_id: "5548372"
-internal_id: "C5741461"
-label_id: "3745254"
-dtd_version: "2.0"
-original_entry_into_force: "1993-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005934/1993-04-24/0"
-intitule_bron: "Stcrt.1993-77"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-26"
-intitule_published: "1993-04-22"
-intitule_in_force: "1993-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-77"
-original_signed_date: "1993-03-26"
-original_published_date: "1993-04-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-04-24"
-jci_1_3: "jci1.3:c:BWBR0005934&z=1993-04-24&g=1993-04-24"
-jci_1_0: "1.0:c:BWBR0005934&g=1993-04-24"
-citeertitel_status: "officieel"
-signed_date: "1993-03-26"
-entry_into_force: "1993-04-24"
+publicatiedatum: 1993-04-24
+laatste_update: 1993-04-24
+status: geldig
+toestand: 1993-04-24
+bron: "https://wetten.overheid.nl/BWBR0005934"
+opgehaald: 2026-08-01
 ---
+
 # Regeling verwijdering justitiële gegevens
-
-Gelet op [artikel 8 van het Besluit registratie justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0002293&artikel=8);
-
-Besluit:
 
 ##### Artikel 1
 

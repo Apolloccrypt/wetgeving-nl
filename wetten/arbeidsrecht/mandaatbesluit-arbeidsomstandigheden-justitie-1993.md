@@ -1,46 +1,17 @@
 ---
 title: "Mandaatbesluit Arbeidsomstandigheden Justitie 1993"
 identifier: "BWBR0005979"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-05-10"
-last_updated: "1993-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005979"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "3732163"
-version_id: "5515032"
-internal_id: "C5708121"
-label_id: "3711914"
-dtd_version: "2.0"
-original_entry_into_force: "1993-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005979/1993-05-10/0"
-intitule_bron: "Stcrt.1993-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-05-10"
-intitule_published: "1993-06-16"
-intitule_in_force: "1993-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-111"
-original_signed_date: "1993-05-10"
-original_published_date: "1993-06-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-05-10"
-jci_1_3: "jci1.3:c:BWBR0005979&z=1993-05-10&g=1993-05-10"
-jci_1_0: "1.0:c:BWBR0005979&g=1993-05-10"
-citeertitel_status: "officieel"
-signed_date: "1993-05-10"
-entry_into_force: "1993-05-10"
+publicatiedatum: 1993-05-10
+laatste_update: 1993-05-10
+status: geldig
+toestand: 1993-05-10
+bron: "https://wetten.overheid.nl/BWBR0005979"
+opgehaald: 2026-08-01
 ---
+
 # Mandaatbesluit Arbeidsomstandigheden Justitie 1993
-
-Overwegende dat de Arbeidsomstandighedenwet (Stb 1980, 664) ingevolge de op artikel 2 van die wet gebaseerde uitvoeringsbesluiten van toepassing is op personeel bij het Ministerie van Justitie;
-
-Overwegende dat voor hem als werkgever van het bovengenoemde personeel uit het bepaalde bij of krachtens de Arbeidsomstandighedenwet verplichtingen en bevoegdheden voortvloeien;
-
-Overwegende dat om praktische redenen noodzakelijk is gebleken de bestaande regeling ten aanzien van verplichtingen en bevoegdheden die niet rechtstreeks uit het bij of krachtens de wet bepaalde voortvloeien te wijzigen;
-
-Besluit:
 
 ##### Artikel 1
 

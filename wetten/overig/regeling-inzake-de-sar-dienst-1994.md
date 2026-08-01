@@ -1,42 +1,17 @@
 ---
 title: "Regeling inzake de SAR-dienst 1994"
 identifier: "BWBR0006895"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006895"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4511993"
-version_id: "6318462"
-internal_id: "C6524251"
-label_id: "4490534"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006895/2019-07-01/0"
-intitule_bron: "Stcrt.1994-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-08-26"
-intitule_published: "1994-09-30"
-intitule_in_force: "1994-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-188"
-original_signed_date: "1994-08-26"
-original_published_date: "1994-09-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-10-02"
-jci_1_3: "jci1.3:c:BWBR0006895&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0006895&g=2019-07-01"
-citeertitel_status: "officieel"
-signed_date: "1994-08-26"
-entry_into_force: "1994-10-02"
+publicatiedatum: 1994-10-02
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0006895"
+opgehaald: 2026-08-01
 ---
+
 # Regeling inzake de SAR-dienst 1994
-
-Gelet op artikel 25 van het op 7 december 1944 te Chicago totstandgekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) en het op 27 april 1979 te Hamburg totstandgekomen Internationaal Verdrag inzake opsporing en redding op zee (Trb. 1980, 181);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -44,7 +19,7 @@ Er is een Opsporings- en Reddingsdienst in Nederland, die wordt aangehaald als �
 
 ##### Artikel 2
 
-De SAR-dienst maakt deel uit van de Kustwacht, bedoeld in [artikel 2 van de Regeling organisatie Kustwacht Nederland](onbekend).
+De SAR-dienst maakt deel uit van de Kustwacht, bedoeld in artikel 2 van de Regeling organisatie Kustwacht Nederland.
 
 ##### Artikel 3
 
@@ -62,11 +37,11 @@ De SAR-dienst beschikt voor de uitvoering van de in [artikel 3](https://wetten.o
 
 ##### Artikel 5
 
-Het kustwachtcentrum, bedoeld in [artikel 3 van de Regeling organisatie Kustwacht Nederland](onbekend), fungeert als het gecombineerde aëronautisch en maritiem reddingscoördinatiecentrum, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2019-07-01&g=2019-07-01), en behoort tot de aangelegenheden waarmee het Directoraat-Generaal Luchtvaart en Maritieme Zaken is belast.
+Het kustwachtcentrum, bedoeld in artikel 3 van de Regeling organisatie Kustwacht Nederland, fungeert als het gecombineerde aëronautisch en maritiem reddingscoördinatiecentrum, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2019-07-01&g=2019-07-01), en behoort tot de aangelegenheden waarmee het Directoraat-Generaal Luchtvaart en Maritieme Zaken is belast.
 
 ##### Artikel 6
 
-De Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), is, uit hoofde van zijn verantwoordelijkheid voor het functioneren van de SAR-dienst, belast met de coördinatie van de opsporing en redding. Hij stelt hiertoe na overleg met de betrokken diensten en partijen operationele procedures op en legt deze vast in een operationeel plan (OPPLAN-SAR).
+De Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, is, uit hoofde van zijn verantwoordelijkheid voor het functioneren van de SAR-dienst, belast met de coördinatie van de opsporing en redding. Hij stelt hiertoe na overleg met de betrokken diensten en partijen operationele procedures op en legt deze vast in een operationeel plan (OPPLAN-SAR).
 
 ##### Artikel 7
 
@@ -74,11 +49,11 @@ De ministers van Verkeer en Waterstaat en van Defensie stellen vliegende redding
 
 ##### Artikel 8
 
-De Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), verzekert zich van de beschikbaarheid van de in Nederland aanwezige benodigde reddingboten.
+De Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, verzekert zich van de beschikbaarheid van de in Nederland aanwezige benodigde reddingboten.
 
 ##### Artikel 9
 
-In aanvulling op de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2019-07-01&g=2019-07-01) genoemde middelen kan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), zich verzekeren van de beschikbaarheid van andere middelen.
+In aanvulling op de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2019-07-01&g=2019-07-01) genoemde middelen kan de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, zich verzekeren van de beschikbaarheid van andere middelen.
 
 ##### Artikel 10
 

@@ -1,45 +1,18 @@
 ---
 title: "Wet van 25 maart 1994, houdende nieuwe regels inzake de financiële betrekkingen met het buitenland"
+citeertitel: "Wet financiële betrekkingen buitenland 1994"
 identifier: "BWBR0006547"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006547"
+categorie: "Overig"
 soort: "wet"
-stam_id: "267563"
-version_id: "383252"
-internal_id: "C383251"
-label_id: "262174"
-dtd_version: "2.0"
-original_entry_into_force: "2000-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006547/2013-01-01/0"
-intitule_bron: "Stb.1994-258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-25"
-intitule_status: "goed"
-original_publication: "Stb.1999-509"
-original_signed_date: "1999-10-28"
-original_published_date: "1999-12-09"
-original_effect: "structuurwijziging"
-original_dossier: "25821"
-original_url_id: "stb-1999-509"
-entry_into_force_date: "2000-01-01"
-jci_1_3: "jci1.3:c:BWBR0006547&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0006547&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet financiële betrekkingen buitenland 1994"
-signed_date: "1999-10-28"
-entry_into_force: "2000-01-01"
+publicatiedatum: 2000-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0006547"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 25 maart 1994, houdende nieuwe regels inzake de financiële betrekkingen met het buitenland
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de totstandkoming van de Europese Unie, nieuwe regels inzake de financiële betrekkingen met het buitenland vast te stellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -47,13 +20,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. ingezetenen:
 
-- 1. natuurlijke personen, die hun woonplaats in Nederland hebben en in de bevolkingsregisters zijn opgenomen;
+   - 1. natuurlijke personen, die hun woonplaats in Nederland hebben en in de bevolkingsregisters zijn opgenomen;
 
-- 2. rechtspersonen, vennootschappen onder firma en commanditaire vennootschappen die in Nederland zijn gevestigd of kantoor houden, alsmede rechtspersonen, vennootschappen onder firma en commanditaire vennootschappen die niet in Nederland zijn gevestigd doch wel vanuit Nederland worden bestuurd, voor zover de Bank zulks bepaalt;
+   - 2. rechtspersonen, vennootschappen onder firma en commanditaire vennootschappen die in Nederland zijn gevestigd of kantoor houden, alsmede rechtspersonen, vennootschappen onder firma en commanditaire vennootschappen die niet in Nederland zijn gevestigd doch wel vanuit Nederland worden bestuurd, voor zover de Bank zulks bepaalt;
 
-- 3. in Nederland gevestigde filialen, bijkantoren en agentschappen, voor zover niet reeds vallende onder 2;
+   - 3. in Nederland gevestigde filialen, bijkantoren en agentschappen, voor zover niet reeds vallende onder 2;
 
-- 4. natuurlijke personen van Nederlandse nationaliteit, voor zover niet vallende onder 1, die op hun verzoek door Onze Minister als ingezetene zijn aangewezen;
+   - 4. natuurlijke personen van Nederlandse nationaliteit, voor zover niet vallende onder 1, die op hun verzoek door Onze Minister als ingezetene zijn aangewezen;
 
 - b. niet-ingezetenen: natuurlijke personen, rechtspersonen, vennootschappen, filialen, bijkantoren, agentschappen en bedrijven, niet vallende onder de omschrijving "ingezetenen";
 
@@ -129,7 +102,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9a
 
@@ -159,31 +132,31 @@ Vervallen
 
 ##### Artikel 9d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9k
 
@@ -197,7 +170,7 @@ Beperkende bepalingen, vervat in op grond van deze wet gegeven voorschriften en 
 
 ##### Artikel 11
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 12
 
@@ -218,39 +191,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16
 
 Deze wet kan worden aangehaald als: Wet financiële betrekkingen buitenland 1994.
-
-## Bijlage. bedoeld in artikel 9c van de Wet financiële betrekkingen buitenland 1994
-
-Vervallen
-
-### Artikel 1
-
-Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van inwerkingtreding van [artikel 9a tot en met 9k](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9a&z=2009-07-01&g=2009-07-01) van deze wet, zijn de boetebedragen vastgesteld als volgt:
-
-### Artikel 2
-
-1. Indien een boete wordt opgelegd voor het overtreden van een bepaling als genoemd in tabel 1, is bij de vaststelling van de hoogte van deze boete de volgende categorie-indeling naar de som van de standen van buitenlandse activa en passiva, te berekenen door het gemiddelde per maand te nemen over een periode van 12 maanden voorafgaande aan de geconstateerde overtreding, van toepassing met de daarbij behorende factor:
-
-Categorie I: een ieder met een som van de standen van buitenlandse activa en passiva van minder dan € 1 miljard: factor 1;
-
-Categorie II: een ieder met een som van de standen van buitenlandse activa en passiva van ten minste € 1 miljard maar minder dan € 4 miljard: factor 2;
-
-Categorie III: een ieder met een som van de standen van buitenlandse activa en passiva van ten minste € 4 miljard maar minder dan € 10 miljard: factor 4;
-
-Categorie IV: een ieder met een som van de standen van buitenlandse activa en passiva van ten minste € 10 miljard: factor 10.
-
-2. De boete wordt vastgesteld door het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=1&z=2009-07-01&g=2009-07-01), te vermenigvuldigen met de factor behorende bij de categorie naar de som van de standen van buitenlandse activa en passiva, bedoeld in het eerste lid. 1Aangezien voor geen enkel artikellid geldt dat ten aanzien van alle normgeadresseerden, ongeacht de indeling in een bepaalde categorie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=2&z=2009-07-01&g=2009-07-01), een boete van ten hoogste 10 000 gulden kan worden opgelegd, worden in deze bijlage geen artikelen op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2009-07-01&g=2009-07-01), aangewezen.
-
-3. Indien de gegevens omtrent de som van de standen van buitenlandse activa en passiva, te berekenen door het gemiddelde per maand te nemen over een periode van 12 maanden voorafgaande aan de geconstateerde overtreding, niet aan de Bank beschikbaar zijn gesteld, kan de Bank aan degene aan wie de boete wordt opgelegd verzoeken deze gegevens binnen een door hem te stellen termijn te verstrekken. Indien de betrokkene niet binnen de gestelde termijn voldoet aan dit verzoek, is bij de vaststelling van de hoogte van de boete categorie IV van toepassing.
-
-**Tabel 1**
-
-**Tabel 2**
-
-**Tabel 2**
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

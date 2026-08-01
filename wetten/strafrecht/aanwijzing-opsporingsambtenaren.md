@@ -1,42 +1,17 @@
 ---
 title: "Aanwijzing opsporingsambtenaren"
 identifier: "BWBR0005694"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-11-05"
-last_updated: "1992-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005694"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4342443"
-version_id: "6106652"
-internal_id: "C6310161"
-label_id: "4320944"
-dtd_version: "2.0"
-original_entry_into_force: "1992-11-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005694/1992-11-05/0"
-intitule_bron: "Stcrt.1992-213"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-10-22"
-intitule_published: "1992-11-04"
-intitule_in_force: "1992-11-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-213"
-original_signed_date: "1992-10-22"
-original_published_date: "1992-11-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-11-05"
-jci_1_3: "jci1.3:c:BWBR0005694&z=1992-11-05&g=1992-11-05"
-jci_1_0: "1.0:c:BWBR0005694&g=1992-11-05"
-citeertitel_status: "officieel"
-signed_date: "1992-10-22"
-entry_into_force: "1992-11-05"
+publicatiedatum: 1992-11-05
+laatste_update: 1992-11-05
+status: geldig
+toestand: 1992-11-05
+bron: "https://wetten.overheid.nl/BWBR0005694"
+opgehaald: 2026-08-01
 ---
+
 # Aanwijzing opsporingsambtenaren
-
-Gelet op de [artikelen 1, onder 4., en 17, eerste lid onder 2., van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) (Stb. 1950, K258);
-
-Besluit:
 
 ##### Artikel 1
 

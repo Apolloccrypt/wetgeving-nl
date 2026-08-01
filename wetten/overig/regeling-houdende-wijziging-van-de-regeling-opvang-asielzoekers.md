@@ -1,44 +1,21 @@
 ---
 title: "Regeling houdende wijziging van de Regeling opvang asielzoekers"
 identifier: "BWBR0006127"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-09-02"
-last_updated: "1993-09-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006127"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3796953"
-version_id: "5579712"
-internal_id: "C5772801"
-label_id: "3776594"
-dtd_version: "2.0"
-original_entry_into_force: "1993-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006127/1993-09-02/0"
-intitule_bron: "Stcrt.1993-165"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-08-31"
-intitule_published: "1993-08-31"
-intitule_in_force: "1993-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-165"
-original_signed_date: "1993-08-31"
-original_published_date: "1993-08-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-09-02"
-jci_1_3: "jci1.3:c:BWBR0006127&z=1993-09-02&g=1993-09-02"
-jci_1_0: "1.0:c:BWBR0006127&g=1993-09-02"
-citeertitel_status: "officieel"
-signed_date: "1993-08-31"
-entry_into_force: "1993-09-02"
+publicatiedatum: 1993-09-02
+laatste_update: 1993-09-02
+status: geldig
+toestand: 1993-09-02
+bron: "https://wetten.overheid.nl/BWBR0006127"
+opgehaald: 2026-08-01
 ---
-# Regeling houdende wijziging van de Regeling opvang asielzoekers
 
-Besluit:
+# Regeling houdende wijziging van de Regeling opvang asielzoekers
 
 ##### Artikel I
 
-Wijzigt de Regeling opvang asielzoekers
+*Wijzigt de Regeling opvang asielzoekers*
 
 ##### Artikel II
 

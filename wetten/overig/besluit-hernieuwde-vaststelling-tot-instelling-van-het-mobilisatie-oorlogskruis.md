@@ -1,40 +1,18 @@
 ---
 title: "Besluit van 1 oktober 1992, houdende hernieuwde vaststelling van het besluit tot instelling van het Mobilisatie-Oorlogskruis"
+citeertitel: "Besluit hernieuwde vaststelling tot instelling van het Mobilisatie-Oorlogskruis"
 identifier: "BWBR0005675"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "1992-12-01"
-last_updated: "1992-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005675"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "565073"
-version_id: "822632"
-internal_id: "C822631"
-label_id: "548614"
-dtd_version: "2.0"
-original_entry_into_force: "1992-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005675/1992-12-01/0"
-intitule_bron: "Stb.1992-559"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-10-01"
-intitule_status: "goed"
-original_publication: "Stb.1992-559"
-original_signed_date: "1992-10-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-12-01"
-jci_1_3: "jci1.3:c:BWBR0005675&z=1992-12-01&g=1992-12-01"
-jci_1_0: "1.0:c:BWBR0005675&g=1992-12-01"
-citeertitel_status: "officieel"
-short_title: "Besluit hernieuwde vaststelling tot instelling van het Mobilisatie-Oorlogskruis"
-signed_date: "1992-10-01"
-entry_into_force: "1992-12-01"
+publicatiedatum: 1992-12-01
+laatste_update: 1992-12-01
+status: geldig
+toestand: 1992-12-01
+bron: "https://wetten.overheid.nl/BWBR0005675"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 1 oktober 1992, houdende hernieuwde vaststelling van het besluit tot instelling van het Mobilisatie-Oorlogskruis
-
-Op de voordracht van Onze Minister van Defensie van 23 september 1992, Sectie Onderscheidingen, nr. DO 024/92/25281, gedaan mede namens Onze Ministers voor Nederlands-Antilliaanse en Arubaanse Zaken, van Binnenlandse Zaken, van Verkeer en Waterstaat en van Landbouw, Natuurbeheer en Visserij;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,33 +32,33 @@ Er is een Mobilisatie-Oorlogskruis.
 
 - A. Oud-militairen, destijds in dienst van het Koninkrijk der Nederlanden, die behoord hebben tot de Koninklijke marine, de Koninklijke landmacht, het voormalig Koninklijk Nederlands-Indisch leger en de Troepen in de Nederlandse Antillen en Aruba, alsmede in het voormalig Koninkrijksdeel Suriname, in werkelijke dienst zijn geweest
 
-- a. voor wat Nederland betreft:
+   - a. voor wat Nederland betreft:
 
-- 1. in het tijdvak ná 6 april 1939 en vóór 20 mei 1940 gedurende ten minste zes maanden,
+      - 1. in het tijdvak ná 6 april 1939 en vóór 20 mei 1940 gedurende ten minste zes maanden,
 
-- 2. in het tijdvak ná 9 mei 1940 en vóór 19 mei 1940 dan wel ná 5 september 1944 en vóór 5 mei 1945 buiten het vijandelijke of door de vijand bezette gebied;
+      - 2. in het tijdvak ná 9 mei 1940 en vóór 19 mei 1940 dan wel ná 5 september 1944 en vóór 5 mei 1945 buiten het vijandelijke of door de vijand bezette gebied;
 
-- b. voor wat het toenmalige Nederlands-Indië betreft:
+   - b. voor wat het toenmalige Nederlands-Indië betreft:
 
-- 1. in het tijdvak ná 9 mei 1940 en vóór 9 maart 1942 gedurende ten minste zes maanden, of
+      - 1. in het tijdvak ná 9 mei 1940 en vóór 9 maart 1942 gedurende ten minste zes maanden, of
 
-- 2. in het tijdvak ná 7 december 1941 en vóór 9 maart 1942 buiten het vijandelijke of door de vijand bezette gebied;
+      - 2. in het tijdvak ná 7 december 1941 en vóór 9 maart 1942 buiten het vijandelijke of door de vijand bezette gebied;
 
-- c. voor wat het voormalig Koninkrijksdeel Suriname betreft in het tijdvak ná 9 mei 1940 en vóór 5 mei 1945 gedurende ten minste zes maanden;
+   - c. voor wat het voormalig Koninkrijksdeel Suriname betreft in het tijdvak ná 9 mei 1940 en vóór 5 mei 1945 gedurende ten minste zes maanden;
 
-- d. voor wat de Nederlandse Antillen en Aruba betreft in het tijdvak ná 30 augustus 1939 en vóór 5 mei 1945 gedurende ten minste zes maanden;
+   - d. voor wat de Nederlandse Antillen en Aruba betreft in het tijdvak ná 30 augustus 1939 en vóór 5 mei 1945 gedurende ten minste zes maanden;
 
-- e. voor wat elders ter wereld betreft in het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden;
+   - e. voor wat elders ter wereld betreft in het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden;
 
 - B. Nederlanders
 
-- a. die in het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden hebben dienst gedaan aan boord van een zeeschip, varende onder Nederlandse vlag, dat zich bevond buiten de feitelijke macht van een vijandelijke mogendheid of van een mogendheid, welker gebied ingevolge het koninklijk besluit van 27 maart 1941 (**Staatsblad** nr. B 30) met vijandelijk gebied was gelijkgesteld, voorzover zij het Nederlands belang hebben gediend;
+   - a. die in het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden hebben dienst gedaan aan boord van een zeeschip, varende onder Nederlandse vlag, dat zich bevond buiten de feitelijke macht van een vijandelijke mogendheid of van een mogendheid, welker gebied ingevolge het koninklijk besluit van 27 maart 1941 (*Staatsblad* nr. B 30) met vijandelijk gebied was gelijkgesteld, voorzover zij het Nederlands belang hebben gediend;
 
-- b. deel uitmakende van vliegtuigbemanningen der Nederlandse Burger-Luchtvaart onder Nederlands dan wel geallieerd beheer, die gedurende het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden hebben dienst gedaan aan boord van een vliegtuig, hetwelk zich bevond buiten de feitelijke macht van een vijandelijke mogendheid, of van een mogendheid, welker gebied ingevolge het koninklijk besluit van 27 maart 1941 (**Staatsblad** nr. B 30) met vijandelijk gebied was gelijkgesteld, voorzover zij het Nederlands belang hebben gediend;
+   - b. deel uitmakende van vliegtuigbemanningen der Nederlandse Burger-Luchtvaart onder Nederlands dan wel geallieerd beheer, die gedurende het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden hebben dienst gedaan aan boord van een vliegtuig, hetwelk zich bevond buiten de feitelijke macht van een vijandelijke mogendheid, of van een mogendheid, welker gebied ingevolge het koninklijk besluit van 27 maart 1941 (*Staatsblad* nr. B 30) met vijandelijk gebied was gelijkgesteld, voorzover zij het Nederlands belang hebben gediend;
 
 - C. Nederlanders, niet vallende onder het gestelde in sub A of B, die gedurende de oorlog militaire werkzaamheden in het belang van het Koninkrijk hebben verricht en voor die werkzaamheden niet reeds gerechtigd zijn tot het dragen van het Verzetsherdenkingskruis;
 
-voorzover zij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond en voor wat betreft degenen bedoeld in sub A en B niet reeds gerechtigd zijn tot het dragen van het bij het koninklijk besluit van 6 januari 1948 (**Staatsblad** Nr. I 6) opnieuw vastgesteld Oorlogs-Herinneringskruis.
+voorzover zij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond en voor wat betreft degenen bedoeld in sub A en B niet reeds gerechtigd zijn tot het dragen van het bij het koninklijk besluit van 6 januari 1948 (*Staatsblad* Nr. I 6) opnieuw vastgesteld Oorlogs-Herinneringskruis.
 
 2. Waar in het voorgaande lid een bepaalde diensttijd wordt geëist behoeft deze niet onafgebroken te zijn geweest.
 
@@ -98,10 +76,8 @@ In bijzondere gevallen kan door Onze Minister van Defensie toekenning van het Mo
 
 ##### Artikel 7
 
-Het koninklijk besluit van 11 oktober 1948 (**Stb** I 366) wordt ingetrokken.
+Het koninklijk besluit van 11 oktober 1948 (*Stb* I 366) wordt ingetrokken.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit dat in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.

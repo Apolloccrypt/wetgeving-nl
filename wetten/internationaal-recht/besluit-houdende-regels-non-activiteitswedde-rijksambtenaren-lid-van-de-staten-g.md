@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 13 april 1994, houdende regels over de non-activiteitswedde van rijksambtenaren die lid zijn van de Staten-Generaal of het Europees Parlement en wijziging van enkele rechtspositieregelingen, alsmede inwerkingtreding van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement"
+citeertitel: "Besluit houdende regels non-activiteitswedde rijksambtenaren lid van de Staten-Generaal of het Europees Parlement"
 identifier: "BWBR0006594"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006594"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "580073"
-version_id: "26043812"
-internal_id: "C37082521"
-label_id: "562844"
-dtd_version: "2.0"
-original_entry_into_force: "2019-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006594/2020-01-01/0"
-intitule_bron: "Stb.1994-296"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-04-13"
-intitule_status: "goed"
-original_publication: "Stb.2019-313"
-original_signed_date: "2019-09-30"
-original_published_date: "2019-10-10"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2019-313"
-entry_into_force_date: "2019-09-30"
-jci_1_3: "jci1.3:c:BWBR0006594&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0006594&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit houdende regels non-activiteitswedde rijksambtenaren lid van de Staten-Generaal of het Europees Parlement"
-signed_date: "2019-09-30"
-entry_into_force: "2019-09-30"
+publicatiedatum: 2019-09-30
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0006594"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 13 april 1994, houdende regels over de non-activiteitswedde van rijksambtenaren die lid zijn van de Staten-Generaal of het Europees Parlement en wijziging van enkele rechtspositieregelingen, alsmede inwerkingtreding van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 22 februari 1994, Stafafdeling Constitutionele Zaken en Wetgeving, nr. CW94/U217;
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=4), vijfde lid, 5, tweede lid, en [12 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=12);
-
-De Raad van State gehoord (advies van 22 maart 1994, no. W.04.94.0093);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 6 april 1994, Stafafdeling Constitutionele Zaken en Wetgeving, nr. CW94/363;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -84,56 +54,6 @@ De non-activiteitswedde, over een maand berekend, wordt in maandelijkse termijne
 
 5. De betrokkene aan wie een non-activiteitswedde is toegekend, wordt door het aanvaarden daarvan geacht ermee in te stemmen, dat allen, die daarvoor naar het oordeel van het bevoegd gezag of de overheidswerkgever in aanmerking komen, omtrent zijn omstandigheden alle inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn.
 
-##### Artikel 6
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 7
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 8
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 9
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 10
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 11
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 12
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 13
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 14
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 15
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 16
-
-Bevat wijzigingen in andere regelgeving.
-
-##### Artikel 17
-
-De [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
 ##### Artikel 5a
 
 1. In het geval van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006594&artikel=5&z=2020-01-01&g=2020-01-01), worden de inkomsten die betrokkene geniet of gaat genieten met ingang van of na de dag waarop de non-activiteit ingaat verrekend met de non-activiteitswedde over de maand waarop deze inkomsten betrekking hebben. De verrekening geschiedt aldus dat de non-activiteitswedde wordt verminderd met het bedrag waarmee de non-activiteitswedde, vermeerderd met de in de vorige zin bedoelde inkomsten, het loon of de bezoldiging overschrijdt. Voor de bepaling van het in de vorige zin bedoelde bedrag wordt een vermindering van de non-activiteitswedde met een arbeidsongeschiktheidsuitkering of arbeidsongeschiktheidspensioen niet in aanmerking genomen.
@@ -146,4 +66,50 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. In bijzondere gevallen kan Onze Minister van het in het eerste tot en met vierde lid bepaalde ten gunste van de betrokkene afwijken.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 6
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 7
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 8
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 9
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 10
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 11
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 12
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 13
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 14
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 15
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 16
+
+*Bevat wijzigingen in andere regelgeving.*
+
+##### Artikel 17
+
+De [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.

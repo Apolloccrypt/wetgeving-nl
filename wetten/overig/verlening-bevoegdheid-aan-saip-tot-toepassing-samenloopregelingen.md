@@ -1,40 +1,17 @@
 ---
 title: "Verlening bevoegdheid aan SAIP tot toepassing samenloopregelingen"
 identifier: "BWBR0006894"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-10-01"
-last_updated: "1994-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006894"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "5008653"
-version_id: "8676362"
-internal_id: "C11228541"
-label_id: "4985054"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006894/1994-10-01/0"
-intitule_bron: "Stcrt.1994-165"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-08-26"
-intitule_published: "1994-08-30"
-intitule_in_force: "1994-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-165"
-original_signed_date: "1994-08-26"
-original_published_date: "1994-08-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-10-01"
-jci_1_3: "jci1.3:c:BWBR0006894&z=1994-10-01&g=1994-10-01"
-jci_1_0: "1.0:c:BWBR0006894&g=1994-10-01"
-citeertitel_status: "officieel"
-signed_date: "1994-08-26"
-entry_into_force: "1994-10-01"
+publicatiedatum: 1994-10-01
+laatste_update: 1994-10-01
+status: geldig
+toestand: 1994-10-01
+bron: "https://wetten.overheid.nl/BWBR0006894"
+opgehaald: 2026-08-01
 ---
-# Verlening bevoegdheid aan SAIP tot toepassing samenloopregelingen
 
-Besluit:
+# Verlening bevoegdheid aan SAIP tot toepassing samenloopregelingen
 
 ##### Artikel 1
 
@@ -57,5 +34,3 @@ De SAIP wordt de bevoegdheid verleend om namens de Minister van Binnenlandse Zak
 ##### Artikel 3
 
 De SAIP wordt de bevoegdheid verleend om namens de Minister van Binnenlandse Zaken in rechte op te treden, indien tegen een beslissing als bedoeld in de voorgaande artikelen beroep worden ingesteld bij de rechter. De Raad van Beheer van de SAIP wijst daartoe schriftelijk de personen aan die namens de Minister van Binnenlandse Zaken, als gemachtigde, kunnen optreden.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

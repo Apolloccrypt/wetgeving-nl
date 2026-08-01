@@ -1,42 +1,17 @@
 ---
 title: "Teruggaafregeling verbruiksbelasting van alcoholvrije dranken en accijns van bier"
 identifier: "BWBR0006532"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006532"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3755803"
-version_id: "5538662"
-internal_id: "C5731751"
-label_id: "3735544"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006532/1994-04-01/0"
-intitule_bron: "Stcrt.1994-58"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-21"
-intitule_published: "1994-03-23"
-intitule_in_force: "1994-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-58"
-original_signed_date: "1994-03-21"
-original_published_date: "1994-03-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBR0006532&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0006532&g=1994-04-01"
-citeertitel_status: "officieel"
-signed_date: "1994-03-21"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0006532"
+opgehaald: 2026-08-01
 ---
+
 # Teruggaafregeling verbruiksbelasting van alcoholvrije dranken en accijns van bier
-
-Gelet op [artikel XVIII, eerste lid, onderdeel b, onder 4°, van de Wet van 24 december 1993 tot wijziging van een aantal belastingwetten en van de Wet Infrastructuurfonds in het kader van het belastingplan 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006376&artikel=XVIII) (Stb. 760);
-
-Besluit:
 
 ##### Artikel 1
 

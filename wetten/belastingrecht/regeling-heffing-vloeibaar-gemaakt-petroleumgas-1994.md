@@ -1,42 +1,17 @@
 ---
 title: "Regeling heffing vloeibaar gemaakt petroleumgas 1994"
 identifier: "BWBR0006440"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-02-16"
-last_updated: "1994-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006440"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3575273"
-version_id: "5358352"
-internal_id: "C5551441"
-label_id: "3555234"
-dtd_version: "2.0"
-original_entry_into_force: "1994-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006440/1994-02-16/0"
-intitule_bron: "Stcrt.1994-28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-01"
-intitule_published: "1994-02-09"
-intitule_in_force: "1994-02-09"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-28"
-original_signed_date: "1994-02-01"
-original_published_date: "1994-02-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-02-16"
-jci_1_3: "jci1.3:c:BWBR0006440&z=1994-02-16&g=1994-02-16"
-jci_1_0: "1.0:c:BWBR0006440&g=1994-02-16"
-citeertitel_status: "officieel"
-signed_date: "1994-02-01"
-entry_into_force: "1994-02-16"
+publicatiedatum: 1994-02-16
+laatste_update: 1994-02-16
+status: geldig
+toestand: 1994-02-16
+bron: "https://wetten.overheid.nl/BWBR0006440"
+opgehaald: 2026-08-01
 ---
+
 # Regeling heffing vloeibaar gemaakt petroleumgas 1994
-
-Gelet op [artikel XII, tweede lid, van de Wet van 24 december 1993 tot wijziging van een aantal belastingwetten en van de Wet Infrastructuurfonds in het kader van het belastingplan 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006376&artikel=XII) (Stb. 760);
-
-Besluit:
 
 ##### Artikel I
 

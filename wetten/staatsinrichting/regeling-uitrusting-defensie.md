@@ -1,49 +1,17 @@
 ---
 title: "Regeling uitrusting Defensie"
 identifier: "BWBR0039887"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-12"
-last_updated: "2025-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039887"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14131623"
-version_id: "24303052"
-internal_id: "C34888401"
-label_id: "14092854"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039887/2025-04-12/0"
-intitule_bron: "Stcrt.2017-46842"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-18"
-intitule_published: "2017-08-17"
-intitule_in_force: "2017-08-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-46842"
-original_signed_date: "2008-12-18"
-original_published_date: "2017-08-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-46842"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0039887&z=2025-04-12&g=2025-04-12"
-jci_1_0: "1.0:c:BWBR0039887&g=2025-04-12"
-citeertitel_status: "officieel"
-signed_date: "2008-12-18"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2026-08-01
+status: geldig
+toestand: 2026-08-01
+bron: "https://wetten.overheid.nl/BWBR0039887"
+opgehaald: 2026-08-01
 ---
+
 # Regeling uitrusting Defensie
-
-Gelet op:
-
-[artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=117) en [134 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=134),
-
-[artikel 71 van het Burgerlijk ambtenaren reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=71)
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -51,71 +19,71 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 1. Voor de toepassing van deze regeling wordt, voor zover niet anders blijkt, verstaan onder:
 
-- a. **de Commandant van het Operationeel commando:**
+- a. *de Commandant van het Operationeel commando:*
 
-- 1. de Commandant Zeestrijdkrachten voor het Commando Zeestrijdkrachten.
+   - 1. de Commandant Zeestrijdkrachten voor het Commando Zeestrijdkrachten.
 
-- 2. de Commandant Landstrijdkrachten voor het Commando Landstrijdkrachten;
+   - 2. de Commandant Landstrijdkrachten voor het Commando Landstrijdkrachten;
 
-- 3. de Commandant Luchtstrijdkrachten voor het Commando Luchtstrijdkrachten;
+   - 3. de Commandant Luchtstrijdkrachten voor het Commando Luchtstrijdkrachten;
 
-- 4. de Commandant van het Commando Koninklijke Marechaussee voor het Commando Koninklijke Marechaussee;
+   - 4. de Commandant van het Commando Koninklijke Marechaussee voor het Commando Koninklijke Marechaussee;
 
-- b. **defensiemedewerker:** de militair als bedoeld in [artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) dan wel de ambtenaar in de zin van [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
+- b. *defensiemedewerker:* de militair als bedoeld in [artikel 1, eerste en tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) dan wel de ambtenaar in de zin van [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
-- c. **gelegenheidskleding:**
+- c. *gelegenheidskleding:*
 
-- 1. het avondtenue (tropen) Koninklijke landmacht;
+   - 1. het avondtenue (tropen) Koninklijke landmacht;
 
-- 2. het geklede tenue Koninklijke marechaussee;
+   - 2. het geklede tenue Koninklijke marechaussee;
 
-- 3. het klein avondtenue Koninklijke luchtmacht;
+   - 3. het klein avondtenue Koninklijke luchtmacht;
 
-- 4. het blauwe- en de witte kleine avondtenue Koninklijke Marine
+   - 4. het blauwe- en de witte kleine avondtenue Koninklijke Marine
 
-- d. **het Hoofd Defensieonderdeel:**
+- d. *het Hoofd Defensieonderdeel:*
 
-- 1. de Secretaris-Generaal voor de Bestuursstaf
+   - 1. de Secretaris-Generaal voor de Bestuursstaf
 
-- 2. de in onderdeel a bedoelde functionarissen
+   - 2. de in onderdeel a bedoelde functionarissen
 
-- 3. de Commandant van het Commando Dienstencentra voor het Commando Dienstencentra
+   - 3. de Commandant van het Commando Dienstencentra voor het Commando Dienstencentra
 
-- 4. de Directeur van de Defensie Materieelorganisatie voor de Defensie Materieelorganisatie
+   - 4. de Directeur van de Defensie Materieelorganisatie voor de Defensie Materieelorganisatie
 
-- e. **het KPU-bedrijf:** het kleding en persoonsgebonden uitrustingbedrijf van de Defensie Materieelorganisatie;
+- e. *het KPU-bedrijf:* het kleding en persoonsgebonden uitrustingbedrijf van de Defensie Materieelorganisatie;
 
-- f. **militair in werkelijke dienst: de militair die:**
+- f. *militair in werkelijke dienst: de militair die:*
 
-- 1. is aangesteld bij het beroepspersoneel, tenzij hij op non-activiteit is gesteld of hem buitengewoon verlof van lange duur is verleend, anders dan om een bestuursfunctie bij een belangenvereniging van militairen te vervullen;
+   - 1. is aangesteld bij het beroepspersoneel, tenzij hij op non-activiteit is gesteld of hem buitengewoon verlof van lange duur is verleend, anders dan om een bestuursfunctie bij een belangenvereniging van militairen te vervullen;
 
-- 2. is aangesteld bij het reserve-personeel en als zodanig feitelijk onder de wapenen is;
+   - 2. is aangesteld bij het reserve-personeel en als zodanig feitelijk onder de wapenen is;
 
-- g. **onderhoud:** reiniging en herstelling;
+- g. *onderhoud:* reiniging en herstelling;
 
-- h. **Persoonsgebonden uitrusting (PGU):** standaarduitrusting en functie-gerelateerde uitrusting waarover de defensiemedewerker in het kader van de uitoefening van zijn functie of andere opgedragen werkzaamheden moet beschikken;
+- h. *Persoonsgebonden uitrusting (PGU):* standaarduitrusting en functie-gerelateerde uitrusting waarover de defensiemedewerker in het kader van de uitoefening van zijn functie of andere opgedragen werkzaamheden moet beschikken;
 
-- i. **Specifieke uitrusting:** het geheel aan (militaire) kleding en uitrusting, vast te stellen door het hoofd van het defensieonderdeel waar de defensiemedewerker zijn werkzaamheden verricht, waarover de defensiemedewerker in het kader van de uitoefening van zijn functie of andere opgedragen werkzaamheden moet beschikken;
+- i. *Specifieke uitrusting:* het geheel aan (militaire) kleding en uitrusting, vast te stellen door het hoofd van het defensieonderdeel waar de defensiemedewerker zijn werkzaamheden verricht, waarover de defensiemedewerker in het kader van de uitoefening van zijn functie of andere opgedragen werkzaamheden moet beschikken;
 
-- j. **Standaarduitrusting:** De verzameling van kleding- en uitrustingstukken waarover een individuele militair, op aangeven van de commandant van het betreffende operationeel commando moet beschikken tot de daarbij vermelde aantallen, alsmede de benodigde rangonderscheidingstekens, petgarnituren en overige fournituren.
+- j. *Standaarduitrusting:* De verzameling van kleding- en uitrustingstukken waarover een individuele militair, op aangeven van de commandant van het betreffende operationeel commando moet beschikken tot de daarbij vermelde aantallen, alsmede de benodigde rangonderscheidingstekens, petgarnituren en overige fournituren.
 
-- k. **tropen:**
+- k. *tropen:*
 
-- 1. het gebied binnen de keerkringen;
+   - 1. het gebied binnen de keerkringen;
 
-- 2. andere gebieden met een warm klimaat, waarvoor de minister het in bezit hebben van een tropentenue heeft voorgeschreven.
+   - 2. andere gebieden met een warm klimaat, waarvoor de minister het in bezit hebben van een tropentenue heeft voorgeschreven.
 
 2. Voor de toepassing van deze regeling wordt, voor zover niet anders blijkt, mede verstaan onder:
 
-- a. **rang:** een militaire stand en klasse;
+- a. *rang:* een militaire stand en klasse;
 
-- b. **militair:** hij die is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijke verzorger werkzaam te zijn;
+- b. *militair:* hij die is aangesteld in burgerlijke openbare dienst om bij de krijgsmacht als geestelijke verzorger werkzaam te zijn;
 
-- c. **beroepspersoneel:** de geestelijke verzorger die aangesteld is om doorlopend bij de krijgsmacht werkzaam te zijn;
+- c. *beroepspersoneel:* de geestelijke verzorger die aangesteld is om doorlopend bij de krijgsmacht werkzaam te zijn;
 
-- d. **reserve-personeel:** de geestelijke verzorger die aangesteld is om niet doorlopend bij de krijgsmacht werkzaam te zijn;
+- d. *reserve-personeel:* de geestelijke verzorger die aangesteld is om niet doorlopend bij de krijgsmacht werkzaam te zijn;
 
-- e. **onderdeel:** eenheid.
+- e. *onderdeel:* eenheid.
 
 ##### Artikel 2. Algemene bepalingen inzake rangen
 
@@ -125,7 +93,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk II. Kleding en uitrusting
 
-## Titel I. Verstrekking
+### Titel I. Verstrekking
 
 ##### Artikel 3. Verstrekking van PGU
 
@@ -149,29 +117,29 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 1. De vrouwelijke militair die ingevolge de voor haar vastgestelde PGU de beschikking moet hebben over artikelen die niet in natura worden verstrekt heeft bij eerste opkomst aanspraak op een tegemoetkoming in de kosten van die artikelen. De tegemoetkoming bedraagt:
 
-- a. indien zij is ingedeeld bij het Commando Zeestrijdkrachten, tenzij zij adelborst of aspirant-officier is: € 14,95;
+- a. indien zij is ingedeeld bij het Commando Zeestrijdkrachten, tenzij zij adelborst of aspirant-officier is: € 14,95;
 
-- b. indien zij is ingedeeld bij het Commando Zeestrijdkrachten en zij adelborst of aspirant-officier is: € 65,71;
+- b. indien zij is ingedeeld bij het Commando Zeestrijdkrachten en zij adelborst of aspirant-officier is: € 65,71;
 
-- c. indien zij is ingedeeld bij het Commando Landstrijdkrachten: € 173,42;
+- c. indien zij is ingedeeld bij het Commando Landstrijdkrachten: € 173,42;
 
-- d. indien zij is ingedeeld bij het Commando Luchtstrijdkrachten: € 227,21;
+- d. indien zij is ingedeeld bij het Commando Luchtstrijdkrachten: € 227,21;
 
-- e. indien zij is ingedeeld bij het Commando Koninklijke Marechaussee: € 120,17.
+- e. indien zij is ingedeeld bij het Commando Koninklijke Marechaussee: € 120,17.
 
-(Per 1 januari 2014 komt het bovenstaande lid te vervallen!)
+(Per 1 januari 2014 komt het bovenstaande lid te vervallen!)
 
 2. Een militair die ingevolge de voor hem vastgestelde PGU de beschikking dient te hebben over gelegenheidskleding heeft uitsluitend bij de eerste aanschaffing van die kleding aanspraak op een tegemoetkoming in de kosten van aanschaffing daarvan ten bedrage van:
 
-- a. voor het avondtenue tropen Koninklijke landmacht: € 116,95;
+- a. voor het avondtenue tropen Koninklijke landmacht: € 116,95;
 
-- b. voor het geklede tenue Koninklijke marechaussee: voor de mannelijke militair: € 492,39; voor de vrouwelijke militair: € 349,27;
+- b. voor het geklede tenue Koninklijke marechaussee: voor de mannelijke militair: € 492,39; voor de vrouwelijke militair: € 349,27;
 
-- c. voor het klein avondtenue Koninklijke luchtmacht: voor de mannelijke militair: € 92,96; voor de vrouwelijke militair: € 92,96;
+- c. voor het klein avondtenue Koninklijke luchtmacht: voor de mannelijke militair: € 92,96; voor de vrouwelijke militair: € 92,96;
 
 3. In afwijking van het tweede lid kan de commandant van een operationeel commando er voor kiezen de gelegenheidskleding – al dan niet tegen betaling van een eigen bijdrage – in eigendom te verstrekken.
 
-## Titel II. Onderhoud en vervanging
+### Titel II. Onderhoud en vervanging
 
 ##### Artikel 7
 
@@ -199,7 +167,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 ##### Artikel 10. Onderscheidingen
 
-1. Een militair aan wie een ridderorde, ereteken of medaille is verleend, waarvan de datum van toekenning is gelegen na 30 november 1999, heeft voor de eerste aanschaf, indien de onderscheiding niet in natura wordt verstrekt, aanspraak op vergoeding van de aanschafkosten van de groot model onderscheiding en de bijbehorende baton, alsmede de eventuele opmaakkosten.
+1. Een militair aan wie een ridderorde, ereteken of medaille is verleend, waarvan de datum van toekenning is gelegen na 30 november 1999, heeft voor de eerste aanschaf, indien de onderscheiding niet in natura wordt verstrekt, aanspraak op vergoeding van de aanschafkosten van de groot model onderscheiding en de bijbehorende baton, alsmede de eventuele opmaakkosten.
 
 2. Indien het avondtenue deel uitmaakt van de PGU van de betrokken militair, heeft hij tevens aanspraak op de eerste aanschafkosten van de klein model onderscheiding, alsmede de eventuele opmaakkosten.
 
@@ -207,19 +175,19 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 ##### Artikel 11. Tegemoetkoming in de kosten van onderhoud en vervanging van artikelen die niet in natura zijn verstrekt
 
-(Per 1 januari 2014 komt dit artikel te vervallen!)
+(Per 1 januari 2014 komt dit artikel te vervallen!)
 
-1. De vrouwelijke militair als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=I&artikel=6&z=2025-04-12&g=2025-04-12), heeft jaarlijks aanspraak op een tegemoetkoming in de kosten van onderhoud en vervanging van de tot haar PGU behorende artikelen die haar niet in natura zijn verstrekt.
+1. De vrouwelijke militair als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=I&artikel=6&z=2026-08-01&g=2026-08-01), heeft jaarlijks aanspraak op een tegemoetkoming in de kosten van onderhoud en vervanging van de tot haar PGU behorende artikelen die haar niet in natura zijn verstrekt.
 
 2. De in het eerste lid bedoelde tegemoetkoming bedraagt:
 
-- a. voor de militair die behoort tot het Commando Landstrijdkrachten: € 50,05;
+- a. voor de militair die behoort tot het Commando Landstrijdkrachten: € 50,05;
 
-- b. voor de militair die behoort tot het Commando Luchtstrijdkrachten: € 55,23;
+- b. voor de militair die behoort tot het Commando Luchtstrijdkrachten: € 55,23;
 
-- c. voor de militair die behoort tot het Commando Koninklijke Marechaussee: € 50,05.
+- c. voor de militair die behoort tot het Commando Koninklijke Marechaussee: € 50,05.
 
-## Titel III. Aanspraken in verband met het vervullen van bepaalde functies, het verblijf in bepaalde landen of het verrichten van bepaalde diensten
+### Titel III. Aanspraken in verband met het vervullen van bepaalde functies, het verblijf in bepaalde landen of het verrichten van bepaalde diensten
 
 ##### Artikel 12. Vervullen van bepaalde functies
 
@@ -239,61 +207,61 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 ##### Artikel 14. Burgerkleding in afwijkende maat uit hoofde van de functie
 
-1. De minister kent de militair die een functie toegewezen krijgt als opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2025-04-12&g=2025-04-12) van deze regeling en zijn werkzaamheden en diensten verricht in bijzonder representatieve burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 634,38 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+1. De minister kent de militair die een functie toegewezen krijgt als opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2026-08-01&g=2026-08-01) van deze regeling en zijn werkzaamheden en diensten verricht in bijzonder representatieve burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 634,38 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
-- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging van deze burgerkleding ten bedrage van € 311,24.
+- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging van deze burgerkleding ten bedrage van € 311,24.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming voor de aanschafkosten en aansluitend de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die een functie krijgt toegewezen als opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2025-04-12&g=2025-04-12) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 634,38.
+- c. De militair, die een functie krijgt toegewezen als opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2026-08-01&g=2026-08-01) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 634,38.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-2. De minister kent de militair, die gecertificeerd is voor de Integrale Beroepsvaardigheid Training en die een functie toegewezen krijgt als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2025-04-12&g=2025-04-12) van deze regeling en zijn werkzaamheden en diensten in burgerkleding verricht waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 311,24 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+2. De minister kent de militair, die gecertificeerd is voor de Integrale Beroepsvaardigheid Training en die een functie toegewezen krijgt als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2026-08-01&g=2026-08-01) van deze regeling en zijn werkzaamheden en diensten in burgerkleding verricht waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 311,24 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
-- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging ten bedrage van € 52,25.
+- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging ten bedrage van € 52,25.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming voor de aanschafkosten en aansluitend de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2025-04-12&g=2025-04-12) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het tweede lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 317,33.
+- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2026-08-01&g=2026-08-01) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het tweede lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 317,33.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-3. De minister kent de militair wiens functie niet genoemd wordt in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2025-04-12&g=2025-04-12) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2025-04-12&g=2025-04-12) maar wel opdracht krijgt van zijn directe commandant om werkzaamheden of diensten te verrichten in burgerkleding waarvan de maat met het oog op die opgedragen werkzaamheden afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 211,57 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+3. De minister kent de militair wiens functie niet genoemd wordt in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2026-08-01&g=2026-08-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2026-08-01&g=2026-08-01) maar wel opdracht krijgt van zijn directe commandant om werkzaamheden of diensten te verrichten in burgerkleding waarvan de maat met het oog op die opgedragen werkzaamheden afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 211,57 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
-- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop voor het eerst de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor de onderhoudskosten ten bedrage van € 52,25.
+- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop voor het eerst de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor de onderhoudskosten ten bedrage van € 52,25.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming voor de aanschafkosten en aansluitend de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die conform het gestelde in lid 3 een functie is toegewezen en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het derde lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 211,57.
+- c. De militair, die conform het gestelde in lid 3 een functie is toegewezen en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het derde lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 211,57.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
 ##### Artikel 14a. Burgerkleding uit hoofde van de functie
 
-1. De minister wijst functies aan, waarvan de werkzaamheden vergen dat deze vrijwel dagelijks in burgerkleding worden verricht opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2025-04-12&g=2025-04-12). De militair aan wie deze functie is toegewezen heeft aanspraak op een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding ten bedrage van € 210,35 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+1. De minister wijst functies aan, waarvan de werkzaamheden vergen dat deze vrijwel dagelijks in burgerkleding worden verricht opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2026-08-01&g=2026-08-01). De militair aan wie deze functie is toegewezen heeft aanspraak op een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding ten bedrage van € 210,35 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
-- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging van deze burgerkleding ten bedrage van € 51,96.
+- a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging van deze burgerkleding ten bedrage van € 51,96.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten en aansluitend op de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2025-04-12&g=2025-04-12) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 210,35.
+- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2026-08-01&g=2026-08-01) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 210,35.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-2. Het eerste lid is mede van toepassing op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2025-04-12&g=2025-04-12) opgenomen, door de Minister aangewezen, functies, waarvan de werkzaamheden naar het oordeel van de commandant vergen dat deze tijdelijk in burgerkleding worden verricht.
+2. Het eerste lid is mede van toepassing op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2026-08-01&g=2026-08-01) opgenomen, door de Minister aangewezen, functies, waarvan de werkzaamheden naar het oordeel van de commandant vergen dat deze tijdelijk in burgerkleding worden verricht.
 
 - a. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten van burgerkleding.
 
-- b. De militair, die een functie is toegewezen als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2025-04-12&g=2025-04-12) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten van burgerkleding.
+- b. De militair, die een functie is toegewezen als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2026-08-01&g=2026-08-01) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten van burgerkleding.
 
 - c. In afwijking van het eerste lid heeft de militair geen aanspraak op een tegemoetkoming voor onderhoud en vervanging.
 
 ##### Artikel 15. Tegemoetkoming in de kosten van de aanschaffing en het onderhoud van muziekinstrumenten
 
-De militair die is aangesteld bij het beroepspersoneel en die uit hoofde van zijn functie één of meer muziekinstrumenten in eigendom moet hebben en voor eigen rekening moet onderhouden, heeft aanspraak op een tegemoetkoming van € 76,18 per maand in de kosten van aanschaffing en onderhoud van die instrumenten.
+De militair die is aangesteld bij het beroepspersoneel en die uit hoofde van zijn functie één of meer muziekinstrumenten in eigendom moet hebben en voor eigen rekening moet onderhouden, heeft aanspraak op een tegemoetkoming van € 76,18 per maand in de kosten van aanschaffing en onderhoud van die instrumenten.
 
-## Titel IV. Bewaarplicht en verplichting tot inlevering van de PGU
+### Titel IV. Bewaarplicht en verplichting tot inlevering van de PGU
 
 ##### Artikel 16. Inleveren van delen van de PGU en Bewaarplicht
 
@@ -327,7 +295,7 @@ In de gevallen waarin deze regeling niet of niet naar redelijkheid voorziet, bes
 
 ##### Artikel 19. Intrekking ministeriële regelingen
 
-1. De Regeling uitrusting militairen (regeling van 20 december 1984, P/84/081/6476), de Regeling uitrusting militairen zeemacht (regeling van 19 maart 1996. P 30031) en de Regeling dienst- en werkkleding burgerlijke ambtenaren defensie worden ingetrokken.
+1. De Regeling uitrusting militairen (regeling van 20 december 1984, P/84/081/6476), de Regeling uitrusting militairen zeemacht (regeling van 19 maart 1996. P 30031) en de Regeling dienst- en werkkleding burgerlijke ambtenaren defensie worden ingetrokken.
 
 2. Alle verstrekkingen en betalingen welke op grond van de in het vorige lid genoemde regelingen hebben plaatsgevonden, worden geacht te hebben plaatsgevonden op grond van deze regeling.
 
@@ -339,288 +307,4 @@ Deze regeling kan worden aangehaald als ‘Regeling uitrusting Defensie’.
 
 ##### Artikel 21. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009
-
-## Bijlage 1. Functies als bedoeld in [artikel 14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14a&z=2025-04-12&g=2025-04-12)
-
-- •. NATO/UN Liaison Officer New York
-
-- •. Seconded National Expert EDA Brussel
-
-- •. Executive officer HFM-Panel bij de NAVO Science and Technology Organization
-
-- •. Directeur Kustwacht Nederland, CZSK
-
-- •. Detachering MIN V&J, Arbeidsplaats 00556893
-
-- •. Detachering MIN FINANCIEN, Arbeidsplaats 00544316
-
-- •. NATO/STAF ASS Courier and Mail Distribution
-
-Brigade Koninklijke Marechaussee Caribisch Gebied
-
-Afdeling infozaken:
-
-- •. HFD INFO
-
-- •. TACT ANL
-
-- •. OPER ANL
-
-- •. SR MDW INFOZKN
-
-- •. COORDINFOVZN
-
-- •. MDW INFOVZN
-
-Afdeling CIE:
-
-- •. HFD BCIE
-
-- •. CRD INFO RECH CIE
-
-- •. SR MDW INFO RECH CIE
-
-KMar / LTC / BTBB
-
-- •. HFD HANDH & TZ (BC BTBB)
-
-- •. PLV HFD HANDH & TZ tvs HFD OPS (PBC BTBB)
-
-- •. HFD EXEC OST
-
-- •. SR MDW EXEC OST
-
-- •. CRD OPS
-
-- •. SR MDW TR & VORM
-
-- •. 1e TEAMLDR
-
-- •. 2e TEAMLDR
-
-- •. SR TOEZHDR
-
-- •. TOEZHDR
-
-- •. MDW ANTCDT ONDZKN
-
-KMar / LTC / HRB
-
-- •. Adviseur Bewaken en Beveiligen HRB
-
-KMar / LTC / INTELL / BD
-
-- •. Documentair Informatie bewerker BD
-
-- •. Bewerker BD
-
-- •. Expert Acquisitie medewerker BD
-
-- •. Senior Acquisitie medewerker BD
-
-- •. Tact leidinggevende
-
-- •. Analist
-
-- •. Jr Analist
-
-- •. HFD OPS
-
-- •. HFD SIE BIJZ DNST
-
-- •. TEAMLDR OP INTELL
-
-- •. SR MDW OP INTELL
-
-- •. MDW OP INTELL
-
-- •. JR MDW OP INTELL
-
-KMar / LTC / INTELL / IKP / CENTRALE COORDINATIE
-
-- •. LSO EUROPOL
-
-- •. PROCESCRD CT INFOBOX
-
-KMar / LTC / OPS / ECID / VRKIDF / BUR TR
-
-- •. SR OPLDER VERBR
-
-- •. MDR OPLDR
-
-- •. OPLEIDER
-
-KMar / LTC / OPS / TVO / Bureau Wapens, Munitie en Explosieven
-
-- •. MDW Bureau WME
-
-KMar / LTC / INTELL / OI / Schiphol
-
-- •. PHFD BUR SPL OI
-
-- •. SR MDW OI
-
-- •. MDW OI
-
-- •. JR MDW OI
-
-KMar/ LTC / BVZ
-
-- •. 2e TL Brigade Vreemdelingenzaken DKMARLV, indien in het bezit van het certificaat Cursus escort begeleiding (CEB) en/of het certificaat Leergang escortcommandanten begeleiding (LECB)
-
-- •. (SR) OA Brigade Vreemdelingenzaken DKMARLV, indien in het bezit van het certificaat Cursus escort begeleiding (CEB) en/of het certificaat Leergang escortcommandanten begeleiding (LECB)
-
-- •. De werknemers van overige brigades die deelnemen aan de verwijderingspool.
-
-## Bijlage 2. Functies als bedoeld in [artikel 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14a&z=2025-04-12&g=2025-04-12)
-
-KMar / Staf / DPB
-
-- •. Flexibel inzetbare Liaison (FILO) Migratie (5 functies)
-
-- •. SR STAF ADV IPOL (Hoofd backoffice LIRC)
-
-## Bijlage 4. Functies als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14&z=2025-04-12&g=2025-04-12)
-
-KMar / LTC / BSB
-
-- •. C-BRIG KMAR
-
-- •. PLV C-KMAR
-
-- •. HFD TEAMLDR BIJZ OPDRN
-
-- •. 1e TEAMLDR BIJZ OPDRN
-
-- •. 2e TEAMLDR BIJZ OPDRN
-
-- •. MDW BIJZ OPDRN
-
-- •. SR MDW BIJZ OPDRN
-
-- •. SR MDW BIJZ OPDRN / HNDNGLDR
-
-- •. MDW OBSERVATIE
-
-- •. HFD TEAMLDR O&T
-
-- •. 1e TEAMLDR O&T
-
-- •. 2e TEAMLDR O&T
-
-- •. SR MDW O&T
-
-- •. 2e TEAMLDR O&T (VWPN CRD)
-
-KMar / LTC / Brigade P&B (Schiphol)
-
-- •. CRD BGL GEPRIV PERS
-
-- •. SR MDW OBSERV OST
-
-- •. MDW OBSERV OST
-
-## Bijlage 5. Functies als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14&z=2025-04-12&g=2025-04-12)
-
-KMar / LTC / Brigade P&B (Schiphol)
-
-- •. TEAMLDR RECH
-
-- •. CRD RECH
-
-- •. SR MDW RECH
-
-- •. MDW RECH
-
-KMar / LTC / Brigade VZ / Sluisteam
-
-- •. CRD RECH
-
-- •. SR MDW RECH
-
-- •. MDW RECH
-
-KMar / LTC / Brigade Recherche
-
-- •. HFD BUR CIE
-
-- •. HFD SIE CIE
-
-- •. TMLDR A CIE
-
-- •. CRD INTELL CIE
-
-- •. MDW INTELL CIE
-
-- •. SR MDW INTELL CIE
-
-- •. SR INFORMANTENRUNNER
-
-- •. SR MDW AQUISITIE
-
-- •. MDW INTELL CIE
-
-- •. HFD SIE FIN / J&Z
-
-- •. HFD BUR J&Z
-
-- •. VAK SPEC A J&Z
-
-- •. SR MDW SPEC OPSP J&Z
-
-- •. MDW SPEC OPSP J&Z
-
-- •. VAK SPEC A FINEC
-
-- •. VAK SPEC B FINEC
-
-- •. SR MDW SPEC OPSP FINEC
-
-- •. HFD SIE OPSP
-
-- •. VAK SPEC A TACT OPSP
-
-- •. TMLDR B TACT OPSP
-
-- •. TMLDR C TACT OPSP
-
-- •. CRD TACT OPSP
-
-- •. SR MDW TACT OPSP
-
-- •. MDW TACT OPSP
-
-- •. ASS OST OPSP
-
-- •. TMLDR A OPS (FALSI)
-
-- •. SR MDW SPEC OPSP (FALSI)
-
-- •. MDW SPEC OPSP (FALSI)
-
-KMar / LTC / Brigade Recherche / SPEC OPS / SIE FOR TEC
-
-- •. 2e TEAMLDR DIGI
-
-- •. VAKSPEC A DIGI
-
-- •. VAKSPEC B DIGI
-
-- •. SR MDW SPEC OPSP DIGI
-
-- •. SR MDW SPEC OPS
-
-- •. MDW CYBER OPS
-
-KMar / Staf / Kab / CL Integr
-
-- •. HFD INT ONDZKN
-
-- •. SR MDW INT ONDZKN
-
-- •. MDW INT ONDZKN
-
-- •. OTS MDW INT ONDZKN
-
-- •. INFO VERW
+Deze regeling treedt in werking met ingang van 1 januari 2009

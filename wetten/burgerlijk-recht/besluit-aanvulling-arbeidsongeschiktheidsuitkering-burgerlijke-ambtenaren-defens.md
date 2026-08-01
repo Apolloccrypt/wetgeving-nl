@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 25 juni 1993, houdende regeling betreffende verlening aan burgerlijke ambtenaren in dienst van het Ministerie van Defensie van een aanvulling op arbeidsongeschiktheidsuitkering bij onvrijwillige werkloosheid"
+citeertitel: "Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie"
 identifier: "BWBR0006043"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006043"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "2011853"
-version_id: "2999192"
-internal_id: "C2999191"
-label_id: "1960444"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006043/2020-01-01/0"
-intitule_bron: "Stb.1993-354"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-06-25"
-intitule_status: "goed"
-original_publication: "Stb.1997-702"
-original_signed_date: "1997-12-15"
-original_published_date: "1997-12-23"
-original_effect: "structuurwijziging"
-original_url_id: "stb-1997-702"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBR0006043&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0006043&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie"
-signed_date: "1997-12-15"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0006043"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 25 juni 1993, houdende regeling betreffende verlening aan burgerlijke ambtenaren in dienst van het Ministerie van Defensie van een aanvulling op arbeidsongeschiktheidsuitkering bij onvrijwillige werkloosheid
-
-Op de voordracht van Onze Minister van Defensie van 1 februari 1993, nr. PAV 2210/93002671;
-
-Gelet op [artikelen 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [134, eerste lid van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) 1929 en op [artikel A4 van de Algemene burgerlijke pensioenwet](onbekend);
-
-De Raad van State gehoord (advies van 29 maart 1993, nr. WO7.93.0073);
-
-Gezien het nader rapport van Onze Minister van Defensie van 16 juni 1993, nr. PAV2210/93008948;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -54,17 +24,17 @@ In dit besluit wordt verstaan onder:
 
 - c. arbeidsongeschiktheidsuitkering: elke uitkering ter zake van arbeidsongeschiktheid;
 
-- d. invaliditeitspensioen: invaliditeitspensioen krachtens de [Algemene burgerlijke pensioenwet](onbekend);
+- d. invaliditeitspensioen: invaliditeitspensioen krachtens de Algemene burgerlijke pensioenwet;
 
 - e. betrokkene;
 
-- 1°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), met uitzondering van hem op wie [hoofdstuk VI van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4) niet van toepassing was, aan wie wegens blijvende ongeschiktheid voor het vervullen van zijn betrekking ontslag is verleend met dadelijk ingaand recht op invaliditeitspensioen;
+   - 1°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), met uitzondering van hem op wie [hoofdstuk VI van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4) niet van toepassing was, aan wie wegens blijvende ongeschiktheid voor het vervullen van zijn betrekking ontslag is verleend met dadelijk ingaand recht op invaliditeitspensioen;
 
-- 2°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), die op grond van [artikel 62 van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=62) aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan het hem verleende ontslag geen aanspraak op wachtgeld kon ontlenen.
+   - 2°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), die op grond van [artikel 62 van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=62) aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan het hem verleende ontslag geen aanspraak op wachtgeld kon ontlenen.
 
-- 3°. de gewezen werknemer in burgerlijke openbare dienst bij het Ministerie van Defensie in de zin van het Arbeidsovereenkomstenbesluit wiens arbeidsovereenkomst met dadelijk ingaand recht op invaliditeitspensioen is beëindigd door opzegging wegens ongeschiktheid uit hoofde van ziekten of gebreken voor het vervullen van zijn betrekking, tenzij hij ter zake van het vervullen van die betrekking werknemer was in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+   - 3°. de gewezen werknemer in burgerlijke openbare dienst bij het Ministerie van Defensie in de zin van het Arbeidsovereenkomstenbesluit wiens arbeidsovereenkomst met dadelijk ingaand recht op invaliditeitspensioen is beëindigd door opzegging wegens ongeschiktheid uit hoofde van ziekten of gebreken voor het vervullen van zijn betrekking, tenzij hij ter zake van het vervullen van die betrekking werknemer was in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- 4°. de gewezen werknemer in burgerlijke openbare dienst bij het Ministerie van Defensie in de zin van het Arbeidsovereenkomstenbesluit, die op grond van artikel 32**c** van dat besluit aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan de beëindiging der arbeidsovereenkomst geen aanspraak op wachtgeld kon ontlenen;
+   - 4°. de gewezen werknemer in burgerlijke openbare dienst bij het Ministerie van Defensie in de zin van het Arbeidsovereenkomstenbesluit, die op grond van artikel 32*c* van dat besluit aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan de beëindiging der arbeidsovereenkomst geen aanspraak op wachtgeld kon ontlenen;
 
 een en ander met uitzondering van degene die ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen wordt begrepen onder militair, beroepsmilitair of reservist.
 
@@ -74,7 +44,7 @@ een en ander met uitzondering van degene die ingevolge de bij of krachtens de [K
 
 2. Voor de toepassing van het besluit wordt geen onvrijwillige werkloosheid aangenomen, indien betrokkene werkzaam blijft in een gelijktijdig vervulde volledige of als volledig aan te merken betrekking.
 
-3. In afwijking van het eerste lid heeft een betrokkene geen recht op een uitkering indien zijn invaliditeitspensioen of uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) is gebaseerd op de bepalingen van de [Algemene burgerlijke pensioenwet](onbekend)of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) zoals deze zijn komen te luiden na de inwerkingtreding van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072).
+3. In afwijking van het eerste lid heeft een betrokkene geen recht op een uitkering indien zijn invaliditeitspensioen of uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) is gebaseerd op de bepalingen van de Algemene burgerlijke pensioenwetof de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) zoals deze zijn komen te luiden na de inwerkingtreding van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072).
 
 ##### Artikel 3
 
@@ -90,7 +60,7 @@ De duur van de uitkering bedraagt zes maanden.
 
 - c. met ingang van de dag, waarop de onvrijwillige werkloosheid eindigt.
 
-2. De uitvoering van dit besluit wordt in het geval, bedoeld in het vorige lid, onder **c**, onverminderd het overigens in dit besluit bepaalde, hervat bij opnieuw intredende onvrijwillige werkloosheid binnen 12 maanden na het tijdstip van ingang van het recht op uitkering krachtens dit besluit.
+2. De uitvoering van dit besluit wordt in het geval, bedoeld in het vorige lid, onder *c*, onverminderd het overigens in dit besluit bepaalde, hervat bij opnieuw intredende onvrijwillige werkloosheid binnen 12 maanden na het tijdstip van ingang van het recht op uitkering krachtens dit besluit.
 
 ##### Artikel 5
 
@@ -108,11 +78,11 @@ Het recht op uitkering vervalt:
 
 1. De uitkering bedraagt het verschil tussen het bedrag dat aan invaliditeitspensioen, onderscheidenlijk aan uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt ontvangen dan wel kan worden ontvangen, en het bedrag dat bij een algemene invaliditeit van 80% of hoger aan invaliditeitspensioen, inbegrepen een daarop te verlenen aanvulling, onderscheidenlijk uitkering zou zijn ontvangen.
 
-2. Onder het bedrag dat aan invaliditeitspensioen wordt ontvangen worden mede begrepen het bedrag, dat ingevolge de Algemene burgerlijke pensioenwet als aanvulling op dat pensioen wordt ontvangen en het bedrag aan uitkering op grond dan wel op de voet van [artikel 65 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65) dan wel artikel 33**b** van het Arbeidsovereenkomstenbesluit.
+2. Onder het bedrag dat aan invaliditeitspensioen wordt ontvangen worden mede begrepen het bedrag, dat ingevolge de Algemene burgerlijke pensioenwet als aanvulling op dat pensioen wordt ontvangen en het bedrag aan uitkering op grond dan wel op de voet van [artikel 65 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=65) dan wel artikel 33*b* van het Arbeidsovereenkomstenbesluit.
 
 ##### Artikel 7
 
-Een uitkering op de voet van dit besluit wordt niet aangemerkt als wachtgeld in de zin van de [Algemene burgerlijke pensioenwet](onbekend).
+Een uitkering op de voet van dit besluit wordt niet aangemerkt als wachtgeld in de zin van de Algemene burgerlijke pensioenwet.
 
 ##### Artikel 8
 
@@ -158,7 +128,7 @@ Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld 
 
 ##### Artikel 12
 
-1. Een betrokkene als bedoeld in [artikel 1, onder **e**, onderdelen 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=1&z=2020-01-01&g=2020-01-01), die bezwaar heeft tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen, kan tegen die beslissing bezwaar maken.
+1. Een betrokkene als bedoeld in [artikel 1, onder *e*, onderdelen 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=1&z=2020-01-01&g=2020-01-01), die bezwaar heeft tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen, kan tegen die beslissing bezwaar maken.
 
 2. [Artikel 3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) is van overeenkomstige toepassing.
 
@@ -168,18 +138,14 @@ Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld 
 
 Een uitkering op grond van het [Besluit aanvulling arbeidsongeschiktheidsuitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0002931) toegekend terzake van een ontslag uit de burgerlijke openbare dienst bij het Ministerie van Defensie, wordt gelijkgesteld met een uitkering, toegekend op grond van dit besluit.
 
-##### Artikel 14
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
-
-##### Artikel 15
-
-Dit besluit kan worden aangehaald als "Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie".
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
 ##### Artikel 13a
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 14
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
+
+##### Artikel 15
+
+Dit besluit kan worden aangehaald als "Besluit aanvulling arbeidsongeschiktheidsuitkering burgerlijke ambtenaren defensie".

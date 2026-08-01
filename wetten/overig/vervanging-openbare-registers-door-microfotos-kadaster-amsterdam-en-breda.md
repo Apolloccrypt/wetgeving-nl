@@ -1,42 +1,17 @@
 ---
 title: "Vervanging openbare registers door microfoto's (Kadaster Amsterdam en Breda)"
 identifier: "BWBR0005830"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-02-01"
-last_updated: "1993-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005830"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3704713"
-version_id: "5487602"
-internal_id: "C5680691"
-label_id: "3684484"
-dtd_version: "2.0"
-original_entry_into_force: "1993-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005830/1993-02-01/0"
-intitule_bron: "Stcrt.1993-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-01-05"
-intitule_published: "1993-01-13"
-intitule_in_force: "1993-01-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-8"
-original_signed_date: "1993-01-05"
-original_published_date: "1993-01-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-02-01"
-jci_1_3: "jci1.3:c:BWBR0005830&z=1993-02-01&g=1993-02-01"
-jci_1_0: "1.0:c:BWBR0005830&g=1993-02-01"
-citeertitel_status: "officieel"
-signed_date: "1993-01-05"
-entry_into_force: "1993-02-01"
+publicatiedatum: 1993-02-01
+laatste_update: 1993-02-01
+status: geldig
+toestand: 1993-02-01
+bron: "https://wetten.overheid.nl/BWBR0005830"
+opgehaald: 2026-08-01
 ---
+
 # Vervanging openbare registers door microfoto's (Kadaster Amsterdam en Breda)
-
-Gelet op [artikel 9 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=9) (Stb. 1991, 570),
-
-Besluit:
 
 ##### Artikel 1
 

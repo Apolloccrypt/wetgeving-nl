@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 maart 1993, houdende regels inzake het beschikbaar stellen van bijdragen uit 's Rijks kas met het oog op de kosten die in een politieregio worden gemaakt ter uitvoering van de Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, nr. 674)"
+citeertitel: "Besluit vergoeding reorganisatiekosten politie"
 identifier: "BWBR0005911"
-country: "nl"
-rank: "amvb"
-publication_date: "1993-04-23"
-last_updated: "1993-04-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005911"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "1184153"
-version_id: "1747512"
-internal_id: "C1747511"
-label_id: "1147214"
-dtd_version: "2.0"
-original_entry_into_force: "1993-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005911/1993-04-23/0"
-intitule_bron: "Stb.1993-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-16"
-intitule_status: "goed"
-original_publication: "Stb.1993-216"
-original_signed_date: "1993-03-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-04-23"
-jci_1_3: "jci1.3:c:BWBR0005911&z=1993-04-23&g=1993-04-23"
-jci_1_0: "1.0:c:BWBR0005911&g=1993-04-23"
-citeertitel_status: "officieel"
-short_title: "Besluit vergoeding reorganisatiekosten politie"
-signed_date: "1993-03-16"
-entry_into_force: "1993-04-23"
+publicatiedatum: 1993-04-23
+laatste_update: 1993-04-23
+status: geldig
+toestand: 1993-04-23
+bron: "https://wetten.overheid.nl/BWBR0005911"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 16 maart 1993, houdende regels inzake het beschikbaar stellen van bijdragen uit 's Rijks kas met het oog op de kosten die in een politieregio worden gemaakt ter uitvoering van de Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, nr. 674)
-
-Op de voordracht van Onze Ministers van Binnenlandse Zaken en van Justitie van 24 september 1992, directoraat-generaal voor Openbare Orde en Veiligheid, nr. PRP 92/U710, en directoraat-generaal Wetgeving, nr. W.311163/93/6;
-
-Gelet op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=4&artikel=11&z=1993-04-23&g=1993-04-23) van de Wet tijdelijke voorzieningen reorganisatie politiebestel (**Stb.** 1991, nr. 674) en [artikel 237**b** van de gemeentewet](onbekend) (**Stb.** 1931, 89);
-
-Gezien het advies van de Raad voor de gemeentefinanciën (advies van 30 september 1991, nr. 108910 Rgf 27/80);
-
-Gehoord de Commissie voor de gemeentelijke comptabiliteitsvoorschriften (advies van 17 februari 1992, nr. GCV/YA/92/4);
-
-De Raad van State gehoord (advies van 22 december 1992, nr. W04.92.0457);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 1 maart 1993, nr. E93/U480, uitgebracht mede namens Onze Minister van Justitie;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -56,7 +24,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de burgemeester: de burgemeester, bedoeld in artikel 2 van de Wet tijdelijke voorzieningen reorganisatie politiebestel;
 
-- c. de hoofdofficier: de hoofdofficier van justitie, bedoeld in artikel 1, onder **b**, van de Wet tijdelijke voorzieningen reorganisatie politiebestel;
+- c. de hoofdofficier: de hoofdofficier van justitie, bedoeld in artikel 1, onder *b*, van de Wet tijdelijke voorzieningen reorganisatie politiebestel;
 
 - d. de politieregio: de politieregio, bedoeld in artikel 2 van de Wet tijdelijke voorzieningen reorganisatie politiebestel;
 
@@ -98,9 +66,9 @@ In dit besluit wordt verstaan onder:
 
 - a. niet is voldaan aan het tweede lid,
 
-- b. er geen evenwicht bestaat tussen de meerjarenraming van de kosten, bedoeld in het tweede lid onder **d**, en de raming van de rijksbijdrage, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=2&artikel=4&z=1993-04-23&g=1993-04-23), of
+- b. er geen evenwicht bestaat tussen de meerjarenraming van de kosten, bedoeld in het tweede lid onder *d*, en de raming van de rijksbijdrage, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=2&artikel=4&z=1993-04-23&g=1993-04-23), of
 
-- c. het beoogde resultaat, bedoeld in het tweede lid, onder **c**, niet in overeenstemming is met de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=1&artikel=2&z=1993-04-23&g=1993-04-23) bedoelde bestemming van de rijksbijdrage.
+- c. het beoogde resultaat, bedoeld in het tweede lid, onder *c*, niet in overeenstemming is met de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=1&artikel=2&z=1993-04-23&g=1993-04-23) bedoelde bestemming van de rijksbijdrage.
 
 5. Indien Onze Minister en Onze Minister van Justitie hun goedkeuring onthouden, deelt Onze Minister het regionaal overlegorgaan door tussenkomst van de burgemeester zo spoedig mogelijk, doch in elk geval binnen drie maanden na ontvangst van het regionale projectplan, de, grond van onthouding mede.
 
@@ -118,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - b. in verband met overige wijzigingen in de desbetreffende post uit Hoofdstuk VII van de rijksbegroting en de daarbij behorende meerjarenraming.
 
-3. Een bijstelling als bedoeld in het tweede lid, onder **b**, vindt plaats in overeenstemming met Onze Minister van Justitie.
+3. Een bijstelling als bedoeld in het tweede lid, onder *b*, vindt plaats in overeenstemming met Onze Minister van Justitie.
 
 4. Onze Minister kan, in overeenstemming met Onze Minister van Justitie, de raming van de rijksbijdrage bijstellen indien naar zijn oordeel uit het regionale projectplan, dan wel uit het financieel verantwoordingsverslag of de voortgangsrapportage, bedoeld in [artikel 10, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=3&artikel=10&z=1993-04-23&g=1993-04-23), blijkt dat
 
@@ -170,7 +138,7 @@ De burgemeester beschikt over de jaarlijkse bijdrage voor de uitvoering van zijn
 
 1. Vóór 1 april zendt de burgemeester aan Onze Minister een financieel verantwoordingsverslag over de besteding van de jaarlijkse uitkering over het voorafgaande kalenderjaar, voorzien van een door een registeraccountant afgegeven verklaring.
 
-2. De burgemeester verstrekt Onze Minister informatie over de voortgang van de feitelijke integratie van de politie en de realisatie van de activiteiten, bedoeld in [artikel 3, tweede lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=1&artikel=3&z=1993-04-23&g=1993-04-23).
+2. De burgemeester verstrekt Onze Minister informatie over de voortgang van de feitelijke integratie van de politie en de realisatie van de activiteiten, bedoeld in [artikel 3, tweede lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=1&artikel=3&z=1993-04-23&g=1993-04-23).
 
 3. De burgemeester verstrekt de in het tweede lid bedoelde informatie vóór 1 april over het tweede halfjaar van het voorafgaande kalenderjaar en vóór 1 oktober over het eerste halfjaar van het lopende kalenderjaar.
 
@@ -192,16 +160,14 @@ Indien een deel van de jaarlijkse uitkering niet tot besteding is gekomen, wordt
 
 ##### Artikel 13
 
-Uitkeringen die op grond van [artikel 237**b** van de Gemeentewet](onbekend) voor de inwerkingtreding van dit besluit aan de gemeente zijn verstrekt met het oog op de feitelijke integratie van de politie, maken deel uit van de rijksbijdrage.
+Uitkeringen die op grond van artikel 237*b* van de Gemeentewet voor de inwerkingtreding van dit besluit aan de gemeente zijn verstrekt met het oog op de feitelijke integratie van de politie, maken deel uit van de rijksbijdrage.
 
 ##### Artikel 14
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.
 
 2. Dit besluit vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 15
 
 Dit besluit kan worden aangehaald als Besluit vergoeding reorganisatiekosten politie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.

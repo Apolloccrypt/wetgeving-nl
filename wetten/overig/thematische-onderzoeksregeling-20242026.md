@@ -5,7 +5,7 @@ country: "nl"
 rank: "zbo"
 publication_date: "2024-10-25"
 last_updated: "2024-10-25"
-status: "in_force"
+status: vervallen
 source: "https://wetten.overheid.nl/BWBR0050322"
 soort: "zbo"
 stam_id: "17247023"
@@ -33,6 +33,7 @@ citeertitel_status: "officieel"
 short_title: "Thematische onderzoeksregeling 2024–2026"
 signed_date: "2024-07-17"
 entry_into_force: "2024-10-25"
+gecontroleerd: 2026-08-01
 ---
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 17 juli 2024, nr. OT2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: thematische oproep 2024–2026
 

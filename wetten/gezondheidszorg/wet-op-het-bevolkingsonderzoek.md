@@ -1,44 +1,18 @@
 ---
 title: "Wet van 29 oktober 1992, houdende regels betreffende bevolkingsonderzoek"
+citeertitel: "Wet op het bevolkingsonderzoek"
 identifier: "BWBR0005699"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005699"
+categorie: "Overig"
 soort: "wet"
-stam_id: "1525323"
-version_id: "2268652"
-internal_id: "C2268651"
-label_id: "1481844"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005699/2021-07-01/0"
-intitule_bron: "Stb.1992-611"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-10-29"
-intitule_in_force: "1996-06-28"
-intitule_status: "goed"
-original_publication: "Stb.1992-611"
-original_signed_date: "1992-10-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "21264"
-entry_into_force_date: "1996-07-01"
-jci_1_3: "jci1.3:c:BWBR0005699&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0005699&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het bevolkingsonderzoek"
-signed_date: "1992-10-29"
-entry_into_force: "1996-07-01"
+publicatiedatum: 1996-07-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0005699"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 29 oktober 1992, houdende regels betreffende bevolkingsonderzoek
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de bescherming van de bevolking de uitvoering van bevolkingsonderzoek dat een gevaar kan vormen voor de gezondheid van de te onderzoeken personen aan een vergunningstelsel te onderwerpen, en dat geen behoefte meer bestaat aan een afzonderlijke regeling betreffende het röntgenologisch borstonderzoek op tuberculose, zoals neergelegd in de Wet bevolkingsonderzoek op tuberculose (**Stb.** 1951, 288);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -48,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;
 
-- b. de Gezondheidsraad: de Gezondheidsraad, bedoeld in [artikel 21 van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=21) (**Stb.** 1956, 51);
+- b. de Gezondheidsraad: de Gezondheidsraad, bedoeld in [artikel 21 van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=21) (*Stb.* 1956, 51);
 
 - c. bevolkingsonderzoek: geneeskundig onderzoek van personen dat wordt verricht ter uitvoering van een aan de gehele bevolking of aan een categorie daarvan gedaan aanbod dat gericht is op het ten behoeve of mede ten behoeve van de te onderzoeken personen opsporen van ziekten van een bepaalde aard of van bepaalde risico-indicatoren.
 
@@ -92,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -148,7 +122,7 @@ De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikele
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -164,7 +138,7 @@ Vervallen
 
 ##### Artikel 14
 
-1. Voor degene die op het tijdstip waarop deze wet of krachtens artikel 2, tweede lid, genomen besluit in werking treedt, reeds een bevolkingsonderzoek verricht, waarvoor op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), een vergunning is vereist, blijft die bepaling alsmede het krachtens [artikel 3, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), bepaalde buiten toepassing gedurende dertien weken na dat tijdstip en indien binnen die termijn een aanvraag om de vereiste vergunning is ingediend, ook nadien tot vier weken nadat de beschikking waarbij op die aanvraag wordt beslist, van kracht is geworden.
+1. Voor degene die op het tijdstip waarop deze wet of krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/BWBR0005699), genomen besluit in werking treedt, reeds een bevolkingsonderzoek verricht, waarvoor op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), een vergunning is vereist, blijft die bepaling alsmede het krachtens [artikel 3, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005699&hoofdstuk=II&artikel=3&z=2021-07-01&g=2021-07-01), bepaalde buiten toepassing gedurende dertien weken na dat tijdstip en indien binnen die termijn een aanvraag om de vereiste vergunning is ingediend, ook nadien tot vier weken nadat de beschikking waarbij op die aanvraag wordt beslist, van kracht is geworden.
 
 2. Indien naar zijn oordeel het belang van de volksgezondheid een onverwijlde voorziening vordert, kan Onze Minister ten aanzien van degene die onderzoek verricht als bedoeld in het eerste lid, bepalen dat de termijn als bedoeld in het eerste lid, buiten toepassing blijft.
 
@@ -174,7 +148,7 @@ Onze Minister zendt binnen vijf jaren na de inwerkingtreding van deze wet aan de
 
 ##### Artikel 16
 
-De Wet bevolkingsonderzoek op tuberculose (**Stb.** 1951, 288) wordt ingetrokken.
+De Wet bevolkingsonderzoek op tuberculose (*Stb.* 1951, 288) wordt ingetrokken.
 
 ##### Artikel 17
 
@@ -183,5 +157,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18
 
 Deze wet kan worden aangehaald als Wet op het bevolkingsonderzoek.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

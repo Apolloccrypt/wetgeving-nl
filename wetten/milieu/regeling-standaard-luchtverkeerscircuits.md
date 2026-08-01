@@ -1,45 +1,17 @@
 ---
 title: "Regeling standaard luchtverkeerscircuits"
 identifier: "BWBR0006175"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-12-12"
-last_updated: "2014-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006175"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "4838233"
-version_id: "21888832"
-internal_id: "C31412851"
-label_id: "4816204"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006175/2014-12-12/0"
-intitule_bron: "Stcrt.1993-199"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-10-11"
-intitule_published: "1993-10-18"
-intitule_in_force: "1993-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-35427"
-original_signed_date: "2014-12-09"
-original_published_date: "2014-12-11"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-35427"
-entry_into_force_date: "2014-12-09"
-jci_1_3: "jci1.3:c:BWBR0006175&z=2014-12-12&g=2014-12-12"
-jci_1_0: "1.0:c:BWBR0006175&g=2014-12-12"
-citeertitel_status: "officieel"
-signed_date: "2014-12-09"
-entry_into_force: "2014-12-09"
+publicatiedatum: 2014-12-09
+laatste_update: 2014-12-12
+status: geldig
+toestand: 2014-12-12
+bron: "https://wetten.overheid.nl/BWBR0006175"
+opgehaald: 2026-08-01
 ---
+
 # Regeling standaard luchtverkeerscircuits
-
-Handelend in overeenstemming met de Minister van Defensie;
-
-Gelet op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=10) en [27 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=27);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -49,9 +21,13 @@ Deze regeling is van toepassing op luchtvaartuigen behorend tot het luchthavenve
 
 - b. het bevoegde gezag geen andere luchtverkeerspatronen heeft voorgeschreven overeenkomstig de [artikelen 8.44](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.44) en [8.64 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64).
 
+##### Artikel 1a
+
+Deze regeling berust op [artikel 7, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=7).
+
 ##### Artikel 2
 
-1. De onderdelen van het ingevolge paragraaf SERA.3225, onderdeel b, van de verordening (EU) nr. 923/2012 door luchtvaartuigen te vliegen luchtverkeerscircuit, zoals aangegeven in de bij deze regeling behorende bijlage, worden achtereenvolgens benoemd:
+1. De onderdelen van het ingevolge paragraaf SERA.3225, onderdeel b, van de verordening (EU) nr. 923/2012 door luchtvaartuigen te vliegen luchtverkeerscircuit, zoals aangegeven in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0006175), worden achtereenvolgens benoemd:
 
 - a. Runway/start- en landingsbaan;
 
@@ -67,13 +43,13 @@ Deze regeling is van toepassing op luchtvaartuigen behorend tot het luchthavenve
 
 2. Het luchtverkeerscircuit wordt gevlogen binnen een aan te wijzen luchtruimte van per start- en landingsbaan van een luchthaven vast te stellen afmetingen, hierna te noemen circuitgebied.
 
-3. Een standaard circuitgebied, zoals aangegeven in de bij deze regeling behorende bijlage, strekt zich uit van het luchthavenniveau tot een hoogte (Above Aerodrome Level: afgekort AAL) van 300 m (1000 ft) daar boven.
+3. Een standaard circuitgebied, zoals aangegeven in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0006175), strekt zich uit van het luchthavenniveau tot een hoogte (Above Aerodrome Level: afgekort AAL) van 300 m (1000 ft) daar boven.
 
 4. De hoogte van het standaard luchtverkeerscircuit bedraagt 210 m (700 ft) AAL.
 
 ##### Artikel 3
 
-Het volgen, aanvliegen en verlaten van het standaardluchtverkeerscircuit alsmede het afbreken van de eindnadering geschiedt op de wijze zoals vermeld in de volgende artikelen en zoals aangegeven in de bij deze regeling behorende bijlage.
+Het volgen, aanvliegen en verlaten van het standaardluchtverkeerscircuit alsmede het afbreken van de eindnadering geschiedt op de wijze zoals vermeld in de volgende artikelen en zoals aangegeven in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0006175).
 
 ##### Artikel 4
 
@@ -134,11 +110,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling standaard luchtverkeerscircuits.
-
-## Bijlage
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 7, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=7).
-
-## Bijlage

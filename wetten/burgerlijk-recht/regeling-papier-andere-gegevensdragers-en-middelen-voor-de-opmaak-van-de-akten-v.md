@@ -1,43 +1,18 @@
 ---
 title: "Regeling betreffende het voor de akten van de burgerlijke stand en de dubbelen of de afschriften te gebruiken papier en de voor het opmaken van deze stukken te hanteren middelen"
+citeertitel: "Regeling papier, andere gegevensdragers en middelen voor de opmaak van de akten van de burgerlijke stand"
 identifier: "BWBR0006909"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-09-01"
-last_updated: "2015-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006909"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "4575513"
-version_id: "6391602"
-internal_id: "C6638501"
-label_id: "4553814"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006909/2015-09-01/0"
-intitule_bron: "Stcrt.1994-176"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-09-06"
-intitule_published: "1994-09-14"
-intitule_in_force: "1994-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-176"
-original_signed_date: "1994-09-06"
-original_published_date: "1994-09-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBR0006909&z=2015-09-01&g=2015-09-01"
-jci_1_0: "1.0:c:BWBR0006909&g=2015-09-01"
-citeertitel_status: "officieel"
-short_title: "Regeling papier, andere gegevensdragers en middelen voor de opmaak van de akten van de burgerlijke stand"
-signed_date: "1994-09-06"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 2015-09-01
+status: geldig
+toestand: 2015-09-01
+bron: "https://wetten.overheid.nl/BWBR0006909"
+opgehaald: 2026-08-01
 ---
+
 # Regeling betreffende het voor de akten van de burgerlijke stand en de dubbelen of de afschriften te gebruiken papier en de voor het opmaken van deze stukken te hanteren middelen
-
-Gelet op [artikel 10 van het Besluit burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&artikel=10), Stb. 1994, 160;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,9 +40,9 @@ In bijzondere gevallen kan afgeweken worden van het voorgeschreven formaat schri
 
 - b. met een schrijfmachine, mits deze voorzien is:
 
-- 1º. van letter- en cijfertekens van normaal type en normale afmetingen;
+   - 1º. van letter- en cijfertekens van normaal type en normale afmetingen;
 
-- 2º. van een inktlint, dat zwart van kleur is en koolstof bevat;
+   - 2º. van een inktlint, dat zwart van kleur is en koolstof bevat;
 
 - c. langs geautomatiseerde weg, mits de tekst in zwarte kleur wordt gedrukt.
 
@@ -82,5 +57,3 @@ Indien de Wet van 14 oktober 1993 tot herziening van Titel 4 van Boek 1 van het 
 ##### Artikel 4
 
 Deze regeling wordt aangeduid als: Regeling papier en schrijfmiddelen voor de burgerlijke stand 1994.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

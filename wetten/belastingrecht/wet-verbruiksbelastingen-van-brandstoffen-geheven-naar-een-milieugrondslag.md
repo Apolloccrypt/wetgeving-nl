@@ -1,59 +1,34 @@
 ---
 title: "Wet van 24 juni 1992, tot wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne en van enige andere wetten, onder meer ter omzetting van de bestemmingsheffingen op brandstoffen in verbruiksbelastingen van brandstoffen, geheven naar het koolstofgehalte en de energie-inhoud van de brandstoffen"
+citeertitel: "Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag"
 identifier: "BWBR0005564"
-country: "nl"
-rank: "wet"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005564"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "365023"
-version_id: "537362"
-internal_id: "C537361"
-label_id: "356684"
-dtd_version: "2.0"
-original_entry_into_force: "1992-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005564/1995-01-01/0"
-intitule_bron: "Stb.1992-317"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-24"
-intitule_status: "goed"
-original_publication: "Stb.1992-317"
-original_signed_date: "1992-06-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "22405"
-entry_into_force_date: "1992-07-01"
-jci_1_3: "jci1.3:c:BWBR0005564&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBR0005564&g=1995-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag"
-signed_date: "1992-06-24"
-entry_into_force: "1992-07-01"
+publicatiedatum: 1992-07-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBR0005564"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 24 juni 1992, tot wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne en van enige andere wetten, onder meer ter omzetting van de bestemmingsheffingen op brandstoffen in verbruiksbelastingen van brandstoffen, geheven naar het koolstofgehalte en de energie-inhoud van de brandstoffen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voor het jaar 1992 vooruitlopend op verdere maatregelen met ingang van het jaar 1993 de bestemmingsheffingen op brandstoffen in het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne (**Stb.** 1988, 133) te vervangen door verbruiksbelastingen van brandstoffen, geheven onder verantwoordelijkheid van de Minister van Financiën naar het koolstofgehalte en de energie-inhoud van de brandstoffen, alsmede met het oog op de budgettaire situatie de opbrengst van deze belastingen ten opzichte van de opbrengst van de bestemmingsheffingen op brandstoffen te verhogen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Vervallen
+*Vervallen*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-1. Indien deze wet in werking treedt met ingang van 1 juni 1992 bedraagt, in afwijking in zoverre van artikel 61**i**, eerste lid, van de Wet algemene bepalingen milieuhygiëne, het tarief vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
+1. Indien deze wet in werking treedt met ingang van 1 juni 1992 bedraagt, in afwijking in zoverre van artikel 61*i*, eerste lid, van de Wet algemene bepalingen milieuhygiëne, het tarief vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
 
 | a. ongelode lichte olie, per hectoliter | f 2,61 |
 | --- | --- |
@@ -67,7 +42,7 @@ Bevat wijzigingen in andere regelgeving.
 | i. hoogovengas, cokesovengas, kolengas en raffinaderijgas, per 1000 gigajoule | f 278,54 |
 | j. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule, per Nm3, met dien verstande dat bij levering van meer dan 10 000 000 Nm3 aardgas per jaar aan een gebruiker het tarief voor aardgas per Nm3 van het meerdere f 0,01772 bedraagt | f 0,03686 |
 
-2. Indien deze wet in werking treedt met ingang van 1 juni 1992 bedraagt, in afwijking in zoverre van artikel 61**i**, tweede lid, van de Wet algemene bepalingen milieuhygiëne, het tarief voor brandstoffen, als bedoeld in artikel 61**c**, onderdeel **i**, van laatstgenoemde wet vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
+2. Indien deze wet in werking treedt met ingang van 1 juni 1992 bedraagt, in afwijking in zoverre van artikel 61*i*, tweede lid, van de Wet algemene bepalingen milieuhygiëne, het tarief voor brandstoffen, als bedoeld in artikel 61*c*, onderdeel *i*, van laatstgenoemde wet vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
 
 | a. petroleumcokes, per 1000 kilogram | f 37,32 |
 | --- | --- |
@@ -76,7 +51,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel V
 
-1. Indien deze wet in werking treedt op of na 1 juli 1992 bedraagt, in afwijking in zoverre van artikel 61**i**, eerste lid, van de Wet algemene bepalingen milieuhygiëne, het tarief vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
+1. Indien deze wet in werking treedt op of na 1 juli 1992 bedraagt, in afwijking in zoverre van artikel 61*i*, eerste lid, van de Wet algemene bepalingen milieuhygiëne, het tarief vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
 
 | a. ongelode lichte olie, per hectoliter | f 2,70 |
 | --- | --- |
@@ -90,7 +65,7 @@ Bevat wijzigingen in andere regelgeving.
 | i. hoogovengas, cokesovengas, kolengas en raffinaderijgas, per 1000 gigajoule | f 304,04 |
 | j. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule, per Nm3, met dien verstande dat bij levering van meer dan 10 000 000 Nm3 aardgas per jaar aan een gebruiker het tarief voor aardgas per Nm3 van het meerdere f 0,01950 bedraagt | f 0,04156 |
 
-2. Indien deze wet in werking treedt op of na 1 juli 1992 bedraagt, in afwijking in zoverre van artikel 61**i**, tweede lid, van de Wet algemene bepalingen milieuhygiëne, het tarief voor brandstoffen, als bedoeld in artikel 61**c**, onderdeel **i**, van laatstgenoemde wet vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
+2. Indien deze wet in werking treedt op of na 1 juli 1992 bedraagt, in afwijking in zoverre van artikel 61*i*, tweede lid, van de Wet algemene bepalingen milieuhygiëne, het tarief voor brandstoffen, als bedoeld in artikel 61*c*, onderdeel *i*, van laatstgenoemde wet vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
 
 | a. petroleumcokes, per 1000 kilogram | f 40,09 |
 | --- | --- |
@@ -116,5 +91,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel X
 
 Deze wet kan worden aangehaald als Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,46 +1,51 @@
 ---
 title: "Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel"
 identifier: "BWBR0006835"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-08-12"
-last_updated: "1994-08-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006835"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "3972633"
-version_id: "5745832"
-internal_id: "C5948561"
-label_id: "3952744"
-dtd_version: "2.0"
-original_entry_into_force: "1994-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006835/1994-08-12/0"
-intitule_bron: "Stcrt.1994-151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-07-22"
-intitule_published: "1994-08-10"
-intitule_in_force: "1994-08-10"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-151"
-original_signed_date: "1994-07-22"
-original_published_date: "1994-08-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-08-12"
-jci_1_3: "jci1.3:c:BWBR0006835&z=1994-08-12&g=1994-08-12"
-jci_1_0: "1.0:c:BWBR0006835&g=1994-08-12"
-citeertitel_status: "officieel"
-signed_date: "1994-07-22"
-entry_into_force: "1994-08-12"
+publicatiedatum: 1994-08-12
+laatste_update: 1994-08-12
+status: geldig
+toestand: 1994-08-12
+bron: "https://wetten.overheid.nl/BWBR0006835"
+opgehaald: 2026-08-01
 ---
+
 # Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel
-
-handelende in overeenstemming met het gevoelen van de Ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
+
+a.
+
+bevoegd gezag:
+
+de Minister, hoofd van het betrokken ministerie, met uitzondering van de Minister van Defensie;
+
+b.
+
+klager:
+
+de persoon die zich wendt tot de vertrouwenspersoon, dan wel een klacht over seksuele intimidatie indient bij de klachtencommissie;
+
+c.
+
+beklaagde:
+
+de persoon tegen wie de klacht is gericht;
+
+d.
+
+seksuele intimidatie:
+
+ongewenste seksuele toenadering, verzoeken om seksuele gunsten of ander verbaal, non-verbaal of fysiek gedrag van seksuele aard waarbij tevens sprake is van een van de volgende punten:
+
+- onderwerping aan dergelijk gedrag wordt hetzij expliciet hetzij impliciet gehanteerd als voorwaarde voor de tewerkstelling van een persoon;
+
+- onderwerping aan of afwijzing van dergelijk gedrag door een persoon wordt gebruikt of medegebruikt als basis voor beslissingen die het werk van deze persoon raken;
+
+- dergelijk gedrag heeft het doel de werkprestaties van een persoon aan te tasten en/of een intimiderende, vijandige of onaangename werkomgeving te creëren, dan wel heeft het gevolg dat de werkprestaties van een persoon worden aangetast en/of een intimiderende, vijandige of onaangename werkomgeving wordt gecreëerd.
 
 ##### Artikel 2
 

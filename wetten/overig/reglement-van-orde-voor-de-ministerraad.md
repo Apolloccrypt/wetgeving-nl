@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 2 maart 1994, houdende vaststelling van een reglement van orde voor de ministerraad"
+citeertitel: "Reglement van orde voor de ministerraad"
 identifier: "BWBR0006501"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2020-04-16"
-last_updated: "2020-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006501"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "838683"
-version_id: "1218082"
-internal_id: "C1218081"
-label_id: "813004"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006501/2020-04-16/0"
-intitule_bron: "Stb.1994-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-02"
-intitule_status: "goed"
-original_publication: "Stb.1994-203"
-original_signed_date: "1994-03-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBR0006501&z=2020-04-16&g=2020-04-16"
-jci_1_0: "1.0:c:BWBR0006501&g=2020-04-16"
-citeertitel_status: "officieel"
-short_title: "Reglement van orde voor de ministerraad"
-signed_date: "1994-03-02"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 2020-04-16
+status: geldig
+toestand: 2020-04-16
+bron: "https://wetten.overheid.nl/BWBR0006501"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 2 maart 1994, houdende vaststelling van een reglement van orde voor de ministerraad
-
-Op de voordracht van onze Minister-President, Minister van Algemene Zaken, d.d. 25 februari 1994, nr. 94M001478, handelende in overeenstemming met het gevoelen van de ministerraad van het Koninkrijk;
-
-Gelet op [artikel 10 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=10) en [artikel 45 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=45);
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -110,11 +86,11 @@ In dit besluit wordt verstaan onder:
 
 - l. andere voordrachten voor koninklijke besluiten tot benoeming van personen en ontslag wegens andere reden dan op verzoek van de betrokkenen, voor zover het niet betreft benoeming of ontslag:
 
-- 1°. van in Nederland werkzame leden van de rechterlijke macht, burgerlijke rijksambtenaren, ambtenaren van politie en militaire ambtenaren, voor zover deze lager bezoldigd worden dan een directeur-generaal bij een ministerie alsmede van burgemeesters van gemeenten met minder dan 50 000 inwoners, voor zover het geen provinciehoofdstad betreft;
+   - 1°. van in Nederland werkzame leden van de rechterlijke macht, burgerlijke rijksambtenaren, ambtenaren van politie en militaire ambtenaren, voor zover deze lager bezoldigd worden dan een directeur-generaal bij een ministerie alsmede van burgemeesters van gemeenten met minder dan 50 000 inwoners, voor zover het geen provinciehoofdstad betreft;
 
-- 2°. van ambtenaren die in een functie buiten Nederland werkzaam zijn bij diplomatieke vertegenwoordigingen in het buitenland, voor zover het geen hoofden van vertegenwoordigingen van het Koninkrijk in het buitenland of permanente vertegenwoordigers betreft;
+   - 2°. van ambtenaren die in een functie buiten Nederland werkzaam zijn bij diplomatieke vertegenwoordigingen in het buitenland, voor zover het geen hoofden van vertegenwoordigingen van het Koninkrijk in het buitenland of permanente vertegenwoordigers betreft;
 
-- 3°. van personen over wie naar het oordeel van de minister-president en de desbetreffende minister geen beraadslaging en beslissing van de raad is vereist;
+   - 3°. van personen over wie naar het oordeel van de minister-president en de desbetreffende minister geen beraadslaging en beslissing van de raad is vereist;
 
 - m. voorstellen voor ministeriële besluiten tot benoeming van personen en tot ontslag, wegens andere reden dan op verzoek van betrokkenen, voor zover deze gelijk aan of hoger dan een directeur-generaal bij een ministerie worden bezoldigd.
 
@@ -264,13 +240,17 @@ Voor zover in deze paragraaf niet anders is bepaald, heeft een onderraad dezelfd
 
 #### § 7. Slotbepalingen
 
+##### Artikel 26a
+
+De minister-president kan, zo nodig en zo lang de continuïteit van de besluitvorming in het kader van de bestrijding van het coronavirus (covid-19) dit noodzakelijk maakt, beslissingen nemen, zo nodig in afwijking van het reglement, met betrekking tot de vergaderingen van de raad, zijn onderraden en commissies ten aanzien van de aanlevering van stukken, de aanwezigheid van anderen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=2&z=2020-04-16&g=2020-04-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=3&z=2020-04-16&g=2020-04-16), de werkwijze, de geheimhouding en de verslaglegging.
+
 ##### Artikel 27
 
 De minister-president zorgt ervoor dat dit reglement in acht wordt genomen.
 
 ##### Artikel 28
 
-Het koninklijk besluit van 16 mei 1979, houdende vaststelling van een reglement van orde voor de Raad van Ministers, (**Stb**. 264) wordt ingetrokken.
+Het koninklijk besluit van 16 mei 1979, houdende vaststelling van een reglement van orde voor de Raad van Ministers, (*Stb*. 264) wordt ingetrokken.
 
 ##### Artikel 29
 
@@ -279,11 +259,3 @@ Dit besluit treedt in werking met ingang van 1 april 1994.
 ##### Artikel 30
 
 Dit besluit wordt aangehaald als: reglement van orde voor de ministerraad.
-
-Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het **Staatsblad** en het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
-
-##### Artikel 26a
-
-De minister-president kan, zo nodig en zo lang de continuïteit van de besluitvorming in het kader van de bestrijding van het coronavirus (covid-19) dit noodzakelijk maakt, beslissingen nemen, zo nodig in afwijking van het reglement, met betrekking tot de vergaderingen van de raad, zijn onderraden en commissies ten aanzien van de aanlevering van stukken, de aanwezigheid van anderen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=2&z=2020-04-16&g=2020-04-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=3&z=2020-04-16&g=2020-04-16), de werkwijze, de geheimhouding en de verslaglegging.
-
-Onze Minister-President, Minister van Algemene Zaken is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het **Staatsblad** en het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.

@@ -1,35 +1,17 @@
 ---
 title: "Regeling van 7 juli 1994"
+citeertitel: "Reglement van Orde voor de Verenigde Vergadering der Staten-Generaal"
 identifier: "BWBR0006793"
-country: "nl"
-rank: "reglement"
-publication_date: "1994-03-22"
-last_updated: "1994-03-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006793"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "1528963"
-version_id: "2272932"
-internal_id: "C5275981"
-label_id: "1485514"
-dtd_version: "2.0"
-original_entry_into_force: "1994-03-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006793/1994-03-22/0"
-intitule_bron: "Kst.1994-00005"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-07-07"
-intitule_status: "goed"
-original_publication: "Kst.1994-00005"
-original_signed_date: "1994-07-07"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-03-22"
-jci_1_3: "jci1.3:c:BWBR0006793&z=1994-03-22&g=1994-03-22"
-jci_1_0: "1.0:c:BWBR0006793&g=1994-03-22"
-citeertitel_status: "officieel"
-short_title: "Reglement van Orde voor de Verenigde Vergadering der Staten-Generaal"
-signed_date: "1994-07-07"
-entry_into_force: "1994-03-22"
+publicatiedatum: 1994-03-22
+laatste_update: 1994-03-22
+status: geldig
+toestand: 1994-03-22
+bron: "https://wetten.overheid.nl/BWBR0006793"
+opgehaald: 2026-08-01
 ---
+
 # Regeling van 7 juli 1994
 
 ### Hoofdstuk I. De Voorzitter en de griffiers
@@ -84,7 +66,7 @@ Ieder lid tekent naar volgorde van binnenkomst zijn naam op een lijst. Zodra dez
 
 - e. een opgave van de beknopte inhoud van alle ingekomen stukken en alle door de Vergadering of door de Voorzitter genomen besluiten.
 
-2. De onderdelen van het officiële verslag, genoemd in het vorige lid onder **b** tot en met **e**, worden gezamenlijk aangeduid met notulen.
+2. De onderdelen van het officiële verslag, genoemd in het vorige lid onder *b* tot en met *e*, worden gezamenlijk aangeduid met notulen.
 
 3. De notulen worden door de Voorzitter en de Griffiers vastgesteld en ten bewijze daarvan door hen ondertekend.
 
@@ -248,13 +230,13 @@ De notulen van de vergaderingen met gesloten deuren worden afzonderlijk gehouden
 
 1. Wanneer de Vergadering een voorstel van wet of Rijkswet aanvaard heeft, geeft de Voorzitter daarvan kennis aan de Koning.
 
-2. Indien het voorstel door of vanwege de Koning werd ingediend, richt de Voorzitter zich tot de Koning met het volgende formulier: **Aan de Koning**, **De Staten-Generaal in Verenigde Vergadering hebben het voorstel aangenomen.**
+2. Indien het voorstel door of vanwege de Koning werd ingediend, richt de Voorzitter zich tot de Koning met het volgende formulier: *Aan de Koning*, *De Staten-Generaal in Verenigde Vergadering hebben het voorstel aangenomen.*
 
-3. Indien het voorstel door een of meer leden aanhangig werd gemaakt, richt de Voorzitter zich tot de Koning met het volgende formulier: **Aan de Koning**, **De Staten-Generaal in Verenigde Vergadering hebben nevenstaand voorstel aangenomen. Zij verzoeken daarop de bekrachtiging van de Koning.**
+3. Indien het voorstel door een of meer leden aanhangig werd gemaakt, richt de Voorzitter zich tot de Koning met het volgende formulier: *Aan de Koning*, *De Staten-Generaal in Verenigde Vergadering hebben nevenstaand voorstel aangenomen. Zij verzoeken daarop de bekrachtiging van de Koning.*
 
 ##### Artikel 37
 
-Wanneer de Vergadering een voorstel van wet of Rijkswet verwerpt geeft de Voorzitter daarvan eveneens kennis aan de Koning met het volgende formulier: **Aan de Koning**, **De Staten-Generaal in Verenigde Vergadering bijeen hebben het voorstel verworpen.**
+Wanneer de Vergadering een voorstel van wet of Rijkswet verwerpt geeft de Voorzitter daarvan eveneens kennis aan de Koning met het volgende formulier: *Aan de Koning*, *De Staten-Generaal in Verenigde Vergadering bijeen hebben het voorstel verworpen.*
 
 ### Hoofdstuk V. Het verzenden van voorstellen naar één of meer Commissies
 
@@ -392,4 +374,4 @@ Alle tekenen van goed- of afkeuring van de zijde der toehoorders zijn verboden. 
 
 ##### Artikel 57
 
-In alle gevallen waarin dit Reglement niet voorziet, kan de Voorzitter, na het advies te hebben ingewonnen van de Voorzitter van de Tweede Kamer, het [Reglement van Orde van de Eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0007428) of de [Tweede Kamer](onbekend) van overeenkomstige toepassing verklaren. Deze beslissing van de Voorzitter wordt terstond aan de leden en de Regering medegedeeld.
+In alle gevallen waarin dit Reglement niet voorziet, kan de Voorzitter, na het advies te hebben ingewonnen van de Voorzitter van de Tweede Kamer, het [Reglement van Orde van de Eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0007428) of de Tweede Kamer van overeenkomstige toepassing verklaren. Deze beslissing van de Voorzitter wordt terstond aan de leden en de Regering medegedeeld.

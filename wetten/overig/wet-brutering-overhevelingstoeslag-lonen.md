@@ -1,44 +1,18 @@
 ---
 title: "Wet van 22 december 1993, houdende vaststelling van de Wet brutering overhevelingstoeslag lonen"
+citeertitel: "Wet brutering overhevelingstoeslag lonen"
 identifier: "BWBR0006353"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006353"
+categorie: "Overig"
 soort: "wet"
-stam_id: "121153"
-version_id: "165562"
-internal_id: "C165561"
-label_id: "120994"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006353/2015-01-01/0"
-intitule_bron: "Stb.1993-743"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-22"
-intitule_status: "goed"
-original_publication: "Stb.1993-743"
-original_signed_date: "1993-12-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "23269"
-entry_into_force_date: "1994-01-01"
-entry_into_force_dossier: "23269"
-jci_1_3: "jci1.3:c:BWBR0006353&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0006353&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet brutering overhevelingstoeslag lonen"
-signed_date: "1993-12-22"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0006353"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 22 december 1993, houdende vaststelling van de Wet brutering overhevelingstoeslag lonen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen met betrekking tot verhoging van het loon ter compensatie van het vervallen van de overhevelingstoeslag;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -82,7 +56,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. uit hoofde van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de Algemene Arbeidsongeschiktheidswet, de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de[Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
 
-- b. uit hoofde van de krachtens artikel 1, eerste lid, tweede volzin, onderdeel **b**, van de Wet overhevelingstoeslag opslagpremies aangewezen regelingen;
+- b. uit hoofde van de krachtens artikel 1, eerste lid, tweede volzin, onderdeel *b*, van de Wet overhevelingstoeslag opslagpremies aangewezen regelingen;
 
 - c. die zijn aangewezen bij ministeriële regeling.
 
@@ -123,5 +97,3 @@ Van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=3&z
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Wet brutering overhevelingstoeslag lonen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

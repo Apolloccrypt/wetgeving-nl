@@ -1,18 +1,73 @@
 {
- "gegenereerd": "2026-07-31",
+ "gegenereerd": "2026-08-01",
  "geverifieerd": true,
- "bwb_regelingen": 46728,
- "bwb_geldend": 22182,
- "site_totaal": 22333,
- "site_geldend": 22179,
- "dekkingsgraad": 0.9999,
- "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 154,
- "aantal_onbekend": 0,
+ "bwb_regelingen": 46430,
+ "bwb_geldend": 22191,
+ "site_totaal": 22334,
+ "site_geldend": 22177,
+ "dekkingsgraad": 0.9994,
+ "aantal_ontbrekend": 14,
+ "aantal_ten_onrechte_geldig": 156,
+ "aantal_onbekend": 1,
  "ontbrekend": [
+  {
+   "id": "BWBR0052683",
+   "titel": "Besluit aanwijzing invoering prestatie activiteiten en diensten verloskundig samenwerkingsverband",
+   "type": "ministeriele-regeling"
+  },
+  {
+   "id": "BWBR0052698",
+   "titel": "Wet herziening wettelijke grondslagen kerndoelen",
+   "type": "wet"
+  },
+  {
+   "id": "BWBR0052763",
+   "titel": "Besluit veilige jaarwisseling",
+   "type": "AMvB"
+  },
   {
    "id": "BWBR0052795",
    "titel": "Instellingsbesluit Commissie Toekomst Rijksdienst",
+   "type": "ministeriele-regeling"
+  },
+  {
+   "id": "BWBR0052838",
+   "titel": "Regeling vaststelling keuzedelen mbo",
+   "type": "ministeriele-regeling"
+  },
+  {
+   "id": "BWBR0052849",
+   "titel": "Beleidsregel aanvraagprocedure diploma-erkenning voor niet-bekostigde beroepsopleidingen 2026",
+   "type": "beleidsregel"
+  },
+  {
+   "id": "BWBR0052860",
+   "titel": "Regeling aanvraagprocedure erkenning niet bekostigde beroepsopleidingen mbo",
+   "type": "ministeriele-regeling"
+  },
+  {
+   "id": "BWBR0052864",
+   "titel": "Besluit kerndoelen primair en speciaal onderwijs 2026",
+   "type": "AMvB"
+  },
+  {
+   "id": "BWBR0052866",
+   "titel": "Besluit vernieuwde kerndoelen Nederlands en rekenen en wiskunde",
+   "type": "AMvB"
+  },
+  {
+   "id": "BWBR0052867",
+   "titel": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (verbetering aansluiting beroepsonderwijs-arbeidsmarkt)",
+   "type": "wet"
+  },
+  {
+   "id": "BWBR0052918",
+   "titel": "Besluit ondermandaat, volmacht en machtiging voor de directie Bestuurlijke en Politieke Zaken van het Ministerie van Economische Zaken en Klimaat 2026",
+   "type": "ministeriele-regeling"
+  },
+  {
+   "id": "BWBR0052919",
+   "titel": "Besluit verlening ondermandaat, ondermachtiging en ondervolmacht handhaving Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies",
    "type": "ministeriele-regeling"
   },
   {
@@ -364,6 +419,10 @@
    "titel": "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
   },
   {
+   "id": "BWBR0047084",
+   "titel": "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, PO/F&V/33525597, houdende vaststelling van de bedragen voor personele bekostiging voor het primair onderwijs in Caribisch Nederland voor de eerste vijf maanden van het schooljaar 2022–2023 (Definitieve Regeling bekostiging personeel PO BES 2022–2023)"
+  },
+  {
    "id": "BWBR0047117",
    "titel": "Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat van 14 juli 2022, NVWA/2022/5640, over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken"
   },
@@ -470,10 +529,6 @@
   {
    "id": "BWBR0050117",
    "titel": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 28 juni 2024 tot vaststelling van het Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)"
-  },
-  {
-   "id": "BWBR0050230",
-   "titel": "Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024"
   },
   {
    "id": "BWBR0050285",
@@ -642,7 +697,20 @@
   {
    "id": "BWBR0052636",
    "titel": "Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026"
+  },
+  {
+   "id": "BWBR0052888",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 juli 2026, nr. 0000150707, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van groene slaluis in de onbedekte teelt van sla (Tijdelijke vrijstelling voor de beheersing van groene slaluis in de onbedekte teelt van sla, 2026)"
+  },
+  {
+   "id": "BWBR0052890",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107479116, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tabakstrips in de teelt van zaaiuien (Tijdelijke vrijstelling voor de beheersing van tabakstrips in de teelt van zaaiuien, 2026)"
   }
  ],
- "onbekend": []
+ "onbekend": [
+  {
+   "id": "BWBR0050230",
+   "titel": "Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024"
+  }
+ ]
 }

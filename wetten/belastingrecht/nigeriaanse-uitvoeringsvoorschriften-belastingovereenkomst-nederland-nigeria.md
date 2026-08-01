@@ -1,44 +1,17 @@
 ---
 title: "Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria"
 identifier: "BWBR0005892"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-03-06"
-last_updated: "1993-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005892"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3734933"
-version_id: "5517792"
-internal_id: "C5710881"
-label_id: "3714674"
-dtd_version: "2.0"
-original_entry_into_force: "1993-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005892/1993-03-06/0"
-intitule_bron: "Stcrt.1993-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-04"
-intitule_published: "1993-03-04"
-intitule_in_force: "1993-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-44"
-original_signed_date: "1993-03-04"
-original_published_date: "1993-03-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-03-06"
-jci_1_3: "jci1.3:c:BWBR0005892&z=1993-03-06&g=1993-03-06"
-jci_1_0: "1.0:c:BWBR0005892&g=1993-03-06"
-citeertitel_status: "officieel"
-signed_date: "1993-03-04"
-entry_into_force: "1993-03-06"
+publicatiedatum: 1993-03-06
+laatste_update: 1993-03-06
+status: geldig
+toestand: 1993-03-06
+bron: "https://wetten.overheid.nl/BWBR0005892"
+opgehaald: 2026-08-01
 ---
+
 # Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria
-
-Besluit:
-
-Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
-
-Regeling inzake vermindering en vrijstelling van Nigeriaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland.
 
 ##### Artikel 1. Aanspraken van inwoners van Nederland
 
@@ -66,17 +39,17 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005892&a
 
 - 2. Wijze waarop de vermindering of vrijstelling met betrekking tot dividenden, interest en royalty's wordt verleend Als regel geldt dat de Nigeriaanse belasting bij de uitbetaling van de dividenden, interest en royalty's ten volle wordt ingehouden en dat de vermindering of vrijstelling waarop de belanghebbende inwoner van Nederland op grond van de Overeenkomst aanspraak heeft, hem wordt verleend door teruggaaf van hetgeen te veel is ingehouden. Voor het verkrijgen van deze teruggaaf is geen speciaal formulier vastgesteld. De betrokken inwoner van Nederland dient zich met een verzoek om teruggaaf te wenden tot: The Chairman Federal Board of Inland Revenue Federal Secretariat P.M.B. 12516 Ikoyi Lagos Nigeria In het verzoek om teruggaaf, gesteld in de Engelse taal, dient de betrokken inwoner van Nederland met betrekking tot de uit Nigeria ontvangen dividenden, interest en royalty's te vermelden:
 
-- a. de naam en het adres van de betalende Nigeriaanse maatschppij, het aantal en de soort der aandelen, de datum(s) van betaalbaarstelling van de dividenden, de brutobedragen van de dividenden en de bedragen van de daarop ingehouden Nigeriaanse belasting;
+   - a. de naam en het adres van de betalende Nigeriaanse maatschppij, het aantal en de soort der aandelen, de datum(s) van betaalbaarstelling van de dividenden, de brutobedragen van de dividenden en de bedragen van de daarop ingehouden Nigeriaanse belasting;
 
-- b. de naam en het adres van de Nigeriaanse schuldenaar van de interest of royalty's, de datum(s) van betaalbaarstelling van de interest of royalty's, de brutobedragen van de interest of royalty's en de bedragen van de daarop ingehouden Nigeriaanse belasting;
+   - b. de naam en het adres van de Nigeriaanse schuldenaar van de interest of royalty's, de datum(s) van betaalbaarstelling van de interest of royalty's, de brutobedragen van de interest of royalty's en de bedragen van de daarop ingehouden Nigeriaanse belasting;
 
-- c. dat hij de uiteindelijk gerechtigde tot de dividenden, interest en royalty's is. Bij zijn verzoek om teruggaaf moet de betrokken inwoner van Nederland overleggen: In de Engelse taal luidt de verklaring als volgt: The undersigned, Inspector of the Taxation Unit at … certifies that … (name and address of the applicant) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and the Federal Republic of Nigeria for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
+   - c. dat hij de uiteindelijk gerechtigde tot de dividenden, interest en royalty's is. Bij zijn verzoek om teruggaaf moet de betrokken inwoner van Nederland overleggen: In de Engelse taal luidt de verklaring als volgt: The undersigned, Inspector of the Taxation Unit at … certifies that … (name and address of the applicant) on the payable date(s) of the dividends/interest/royalties concerned was a resident of the Netherlands within the meaning of Article 4 of the Agreement between the Netherlands and the Federal Republic of Nigeria for the avoidance of double taxation. De gedateerde en ondertekende verklaring zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst.
 
-- a). de originele dividendnota('s), waaruit de opbrengst van de desbetreffende dividenden en de geheven Nigeriaanse belasting blijken;
+      - a). de originele dividendnota('s), waaruit de opbrengst van de desbetreffende dividenden en de geheven Nigeriaanse belasting blijken;
 
-- b). een verklaring van de Nigeriaanse schuldenaar van de interest en royalty's, waaruit het brutobedrag van die inkomsten en de geheven Nigeriaanse belasting moeten blijken;
+      - b). een verklaring van de Nigeriaanse schuldenaar van de interest en royalty's, waaruit het brutobedrag van die inkomsten en de geheven Nigeriaanse belasting moeten blijken;
 
-- c). een gedateerde en ondertekende verklaring van de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een be- vestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst tussen Nederland en Nigeria tot het vermijden van dubbele belasting. De betrokken inwoner van Nederland kan deze verklaring bij vorenbedoelde inspecteur aanvragen.
+      - c). een gedateerde en ondertekende verklaring van de inspecteur van de eenheid van de belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is, inhoudende een be- vestiging dat hij op de datum(s) van betaling van de desbetreffende dividenden/interest/royalty's inwoner van Nederland was in de zin van artikel 4 van de Overeenkomst tussen Nederland en Nigeria tot het vermijden van dubbele belasting. De betrokken inwoner van Nederland kan deze verklaring bij vorenbedoelde inspecteur aanvragen.
 
 - 3. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf van Nigeriaanse belasting moeten worden ingediend binnen een tijdvak van drie jaren na af- loop van het kalenderjaar waarin de belasting is geheven (Artikel V (ii) van het Protocol).
 

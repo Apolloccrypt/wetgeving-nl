@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 7 december 1992, houdende overbrenging in eigendom, beheer en onderhoud bij de Gemeente Almere van enige in die gemeente gelegen weggedeelten en fietspaden"
+citeertitel: "Besluit overbrenging in eigendom, beheer en onderhoud bij de gemeente Almere van enige weggedeelten en fietspaden"
 identifier: "BWBR0005750"
-country: "nl"
-rank: "kb"
-publication_date: "1993-03-01"
-last_updated: "1993-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005750"
+categorie: "Bestuursrecht"
 soort: "KB"
-stam_id: "802133"
-version_id: "1162872"
-internal_id: "C1162871"
-label_id: "776904"
-dtd_version: "2.0"
-original_entry_into_force: "1993-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005750/1993-03-01/0"
-intitule_bron: "Stb.1992-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-07"
-intitule_status: "goed"
-original_publication: "Stb.1992-10"
-original_signed_date: "1992-12-07"
-original_effect: "nieuwe-regeling"
-original_dossier: "21653"
-entry_into_force_date: "1993-03-01"
-entry_into_force_dossier: "21653"
-jci_1_3: "jci1.3:c:BWBR0005750&z=1993-03-01&g=1993-03-01"
-jci_1_0: "1.0:c:BWBR0005750&g=1993-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit overbrenging in eigendom, beheer en onderhoud bij de gemeente Almere van enige weggedeelten en fietspaden"
-signed_date: "1992-12-07"
-entry_into_force: "1993-03-01"
+publicatiedatum: 1993-03-01
+laatste_update: 1993-03-01
+status: geldig
+toestand: 1993-03-01
+bron: "https://wetten.overheid.nl/BWBR0005750"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 7 december 1992, houdende overbrenging in eigendom, beheer en onderhoud bij de Gemeente Almere van enige in die gemeente gelegen weggedeelten en fietspaden
-
-Op de voordracht van Onze Ministers van Binnenlandse Zaken van 17 juni 1992, nr. F092/876, Directoraat-Generaal Openbaar Bestuur en van Verkeer en Waterstaat van 27 april 1992, nr. RJI 120178, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken, en van de Staatssecretaris van Financiën van 23 november 1992, nr. DOM 92/3455-Z92/640, Directie der Domeinen, Afdeling Inspecties en Rentambten;
-
-Gelet op artikel 16, eerste lid, van de Wet van 6 juli 1983 tot instelling van de gemeenten Almere en Zeewolde (**Stb.** 328);
-
-Gehoord de Raad van de Gemeente Almere (brief van 18 september 1991, kenmerk 17919-GW);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -48,48 +20,48 @@ De onderstaande onroerende rijkseigendommen gaan met ingang van de dag, volgende
 
 De wegpercelen, kadastraal bekend Gemeente Almere.
 
-| Weg naam | Kad. perc. nrs. | Kad. perc. nrs. | Kad. perc. nrs. | Oppervlakte | Oppervlakte | Oppervlakte |
+| Weg naam | Kad. perc. nrs. | Oppervlakte |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | PAMPUSWEG | F | 37 | GED | 13267 | CA | ∗ |
-|   | F | 187 | GED | 32241 | CA | ∗ |
-|   | F | 202 | GED | 107367 | CA | ∗ |
-|   | F | 202 | GED |   |   |   |
-|   | F | 202 | GED |   |   |   |
-|   | F | 220 | GED | 442 | CA | ∗ |
-|   | F | 220 | GED | 1068 | CA | ∗ |
-|   | F | 220 | GED | 4429 | CA | ∗ |
-|   | F | 316 | GED | 580 | CA | ∗ |
+|  | F | 187 | GED | 32241 | CA | ∗ |
+|  | F | 202 | GED | 107367 | CA | ∗ |
+|  | F | 202 | GED |  |  |  |
+|  | F | 202 | GED |  |  |  |
+|  | F | 220 | GED | 442 | CA | ∗ |
+|  | F | 220 | GED | 1068 | CA | ∗ |
+|  | F | 220 | GED | 4429 | CA | ∗ |
+|  | F | 316 | GED | 580 | CA | ∗ |
 | KIEVITSWEG | C | 187 | GED | 10270 | CA | ∗ |
-|   | C | 188 | GED | 6311 | CA | ∗ |
-|   | C | 192 | GED | 2036 | CA | ∗ |
-| LIJSTERWEG | C | 333 |   | 42871 | CA |   |
-|   | C | 333 |   |   |   |   |
-| NOORDERDREEF | G | 2420 |   | 19980 | CA |   |
-|   | K | 1366 | GED | 1150 | CA | ∗ |
-|   | K | 1367 |   | 14966 | CA |   |
-| OUDE WATERLANDSE WEG | G | 2415 |   | 42483 | CA |   |
-|   | G | 2418 |   | 24908 | CA |   |
-|   | C | 370 |   | 18313 | CA |   |
-|   | G | 2411 |   | 26609 | CA |   |
-| KEMPHAANWEG/MEENTWEG | C | 527 |   | 13217 | CA |   |
-|   | C | 529 |   | 6182 | CA |   |
+|  | C | 188 | GED | 6311 | CA | ∗ |
+|  | C | 192 | GED | 2036 | CA | ∗ |
+| LIJSTERWEG | C | 333 |  | 42871 | CA |  |
+|  | C | 333 |  |  |  |  |
+| NOORDERDREEF | G | 2420 |  | 19980 | CA |  |
+|  | K | 1366 | GED | 1150 | CA | ∗ |
+|  | K | 1367 |  | 14966 | CA |  |
+| OUDE WATERLANDSE WEG | G | 2415 |  | 42483 | CA |  |
+|  | G | 2418 |  | 24908 | CA |  |
+|  | C | 370 |  | 18313 | CA |  |
+|  | G | 2411 |  | 26609 | CA |  |
+| KEMPHAANWEG/MEENTWEG | C | 527 |  | 13217 | CA |  |
+|  | C | 529 |  | 6182 | CA |  |
 | KRAANVOGELWEG | C | 241 | GED | 69415 | CA | ∗ |
-|   | C | 221 |   | 7590 | CA |   |
-|   | C | 241 | GED |   |   |   |
-|   | C | 243 | GED | 47166 | CA | ∗ |
-|   | C | 243 | GED |   |   |   |
-|   | C | 182 | GED | 14540 | CA | ∗ |
-|   | C | 243 | GED |   |   |   |
-| KLUUTWEG | C | 378 |   | 49888 | CA |   |
-|   | C | 378 |   |   |   |   |
-|   | C | 378 |   |   |   |   |
-|   | C | 378 |   |   |   |   |
-|   | C | 408 | GED | 9037 | CA | ∗ |
-|   | C | 413 | GED | 9431 | CA | ∗ |
+|  | C | 221 |  | 7590 | CA |  |
+|  | C | 241 | GED |  |  |  |
+|  | C | 243 | GED | 47166 | CA | ∗ |
+|  | C | 243 | GED |  |  |  |
+|  | C | 182 | GED | 14540 | CA | ∗ |
+|  | C | 243 | GED |  |  |  |
+| KLUUTWEG | C | 378 |  | 49888 | CA |  |
+|  | C | 378 |  |  |  |  |
+|  | C | 378 |  |  |  |  |
+|  | C | 378 |  |  |  |  |
+|  | C | 408 | GED | 9037 | CA | ∗ |
+|  | C | 413 | GED | 9431 | CA | ∗ |
 | KEMPHAANWEG | C | 166 | GED | 10888 | CA | ∗ |
 | VINKWEG | C | 195 | GED | 24638 | CA | ∗ |
-|   | C | 193 | GED | 524 | CA | ∗ |
-|   | C | 195 | GED |   |   |   |
+|  | C | 193 | GED | 524 | CA | ∗ |
+|  | C | 195 | GED |  |  |  |
 
 ∗ GROOTTE PLUSMINUS
 
@@ -109,9 +81,9 @@ De verharding van:
 
 - d. de fietspaden vanaf de IJmeerdijk gelegen op het Muiderstrand doorgaand over het Zilverstrand en aansluitend op het fietspad van de Gooimeerdijk.
 
-2. In de onder **a**, **b** en **c** van dit artikel genoemde wegen en fietspaden zijn begrepen alle op- en afritten waarvan het begin of eindpunt is gelegen op de eigendomsgrens van het Heemraadschap Fleverwaard.
+2. In de onder *a*, *b* en *c* van dit artikel genoemde wegen en fietspaden zijn begrepen alle op- en afritten waarvan het begin of eindpunt is gelegen op de eigendomsgrens van het Heemraadschap Fleverwaard.
 
-3. De bermen, grenzend aan de verhardingen van de in het eerste lid omschreven weggedeelten gaan in beheer gerekend 1 meter uit de kant van de verharding - in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) (**Stb.** 1930, 342) - op de Gemeente Almere over met ingang van de dag, volgende op die van de dagtekening van dit besluit.
+3. De bermen, grenzend aan de verhardingen van de in het eerste lid omschreven weggedeelten gaan in beheer gerekend 1 meter uit de kant van de verharding - in de zin van de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) (*Stb.* 1930, 342) - op de Gemeente Almere over met ingang van de dag, volgende op die van de dagtekening van dit besluit.
 
 4. Het beheer en onderhoud van de in het eerste en tweede lid omschreven werken gaan over voor zoveel deze bij het Rijk berusten.
 
@@ -138,5 +110,3 @@ Voor zover de op de Gemeente Almere in eigendom, beheer en onderhoud overgaande 
 - a. de hartlijn van de aan de weg grenzende wegsloot dan wel wegsloten, met dien verstande, dat voor de gemeente het beheer zich uitstrekt tot de niet aan de wegzijde gelegen insteek van de sloot of sloten;
 
 - b. de aan de wegzijde gelegen insteek van de hoofdafvoerleiding of vaart.
-
-Onze Ministers van Binnenlandse Zaken, van Verkeer en Waterstaat en van Financiën zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.

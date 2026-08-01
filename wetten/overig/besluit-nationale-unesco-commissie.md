@@ -1,42 +1,18 @@
 ---
 title: "Besluit van 2 februari 1994, tot instelling van de Nationale Unesco Commissie"
+citeertitel: "Besluit Nationale Unesco Commissie"
 identifier: "BWBR0006443"
-country: "nl"
-rank: "kb"
-publication_date: "2014-07-01"
-last_updated: "2014-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006443"
+categorie: "Overig"
 soort: "KB"
-stam_id: "727683"
-version_id: "1060172"
-internal_id: "C1060171"
-label_id: "705294"
-dtd_version: "2.0"
-original_entry_into_force: "1994-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006443/2014-07-01/0"
-intitule_bron: "Stb.1994-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-02"
-intitule_status: "goed"
-original_publication: "Stb.1994-92"
-original_signed_date: "1994-02-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-02-23"
-jci_1_3: "jci1.3:c:BWBR0006443&z=2014-07-01&g=2014-07-01"
-jci_1_0: "1.0:c:BWBR0006443&g=2014-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Nationale Unesco Commissie"
-signed_date: "1994-02-02"
-entry_into_force: "1994-02-23"
+publicatiedatum: 1994-02-23
+laatste_update: 2014-07-01
+status: geldig
+toestand: 2014-07-01
+bron: "https://wetten.overheid.nl/BWBR0006443"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 2 februari 1994, tot instelling van de Nationale Unesco Commissie
-
-Op de voordracht van Onze Minister van Onderwijs en Wetenschappen van 25 januari 1994, nr. 93096648/7162, directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Ministers van Welzijn, Volksgezondheid en Cultuur, van Buitenlandse Zaken en voor Ontwikkelingssamenwerking;
-
-Overwegende dat het wenselijk is de Nationale Unesco Commissie in afwachting van de totstandkoming van een structurele regeling opnieuw op voorlopige grondslag bij koninklijk besluit in te stellen en de taakstelling, de wijze van samenstelling en inrichting alsmede de werkwijze van de Nationale Unesco Commissie te wijzigen ten opzichte van de Voorlopige Nationale Unesco Commissie, ingesteld bij koninklijk besluit van 3 mei 1988 (**Stb.** 254);
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -46,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Ministers: Onze Ministers van Onderwijs, Cultuur en Wetenschap, van Buitenlandse Zaken en voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
-- b. de Unesco: de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, opgericht bij het op 16 november 1945 te Londen tot stand gekomen statuut (**Trb.** 1960, 131);
+- b. de Unesco: de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, opgericht bij het op 16 november 1945 te Londen tot stand gekomen statuut (*Trb.* 1960, 131);
 
 - c. de Commissie: de Nationale Unesco Commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006443&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01).
 
@@ -146,18 +122,16 @@ De Commissie verstrekt desgevraagd Onze Ministers de voor de uitoefening van hun
 
 ##### Artikel 12. Opheffing Besluit Voorlopige Nationale Unesco Commissie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13. Benoeming leden Commissie; vaststelling reglement
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1994.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1994.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Nationale Unesco Commissie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

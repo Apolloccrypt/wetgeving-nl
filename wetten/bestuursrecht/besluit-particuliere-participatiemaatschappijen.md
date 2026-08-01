@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 18 maart 1994, houdende regels inzake de erkenning van en de verstrekking van subsidies aan particuliere participatiemaatschappijen"
+citeertitel: "Besluit particuliere participatiemaatschappijen"
 identifier: "BWBR0006526"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006526"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "814803"
-version_id: "1180482"
-internal_id: "C1180481"
-label_id: "789464"
-dtd_version: "2.0"
-original_entry_into_force: "1994-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006526/2009-07-01/0"
-intitule_bron: "Stb.1994-318"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-18"
-intitule_status: "goed"
-original_publication: "Stb.1994-318"
-original_signed_date: "1994-03-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-05-11"
-jci_1_3: "jci1.3:c:BWBR0006526&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0006526&g=2009-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit particuliere participatiemaatschappijen"
-signed_date: "1994-03-18"
-entry_into_force: "1994-05-11"
+publicatiedatum: 1994-05-11
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0006526"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 18 maart 1994, houdende regels inzake de erkenning van en de verstrekking van subsidies aan particuliere participatiemaatschappijen
-
-Op de voordracht van Onze Minister van Economische Zaken van 24 november 1993, nr. WJA/JZ 93088661;
-
-Gelet op artikel 2 van de Kaderwet verstrekking financiële middelen EZ;
-
-De Raad van State gehoord (advies van 15 februari 1994, nr. W10.93 0777);
-
-Gezien het nader rapport van Onze voornoemde minister van 14 maart 1994, nr. WJA/JZ 94020460;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,15 +26,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. groep: een economische eenheid, waarin organisatorisch zijn verbonden,
 
-- 1°. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect:
+   - 1°. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect:
 
-- -. meer dan de helft van het geplaatste kapitaal verschaft aan,
+      - - meer dan de helft van het geplaatste kapitaal verschaft aan,
 
-- -. volledig aansprakelijk vennoot is van of
+      - - volledig aansprakelijk vennoot is van of
 
-- -. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
+      - - overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
 
-- 2°. laatstbedoelde rechtspersonen of vennootschappen.
+   - 2°. laatstbedoelde rechtspersonen of vennootschappen.
 
 ##### Artikel 2
 
@@ -70,19 +42,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de aandelen in het kapitaal van een vennootschap die de particuliere participatiemaatschappij rechtstreeks van de vennootschap uit een en dezelfde emissie heeft verkregen:
 
-- 1°. tegen volstorting van die aandelen in geld,
+   - 1°. tegen volstorting van die aandelen in geld,
 
-- 2°. door omzetting van een participatie, als bedoeld in onderdeel **b**, die is geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), of een deel daarvan, of
+   - 2°. door omzetting van een participatie, als bedoeld in onderdeel *b*, die is geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), of een deel daarvan, of
 
-- 3°. door omzetting van een met het oog op de verkrijging van die aandelen door de particuliere participatiemaatschappij aan de vennootschap, of aan de vennootschap in oprichting, in geld verstrekte lening met een effectieve looptijd van niet meer dan drie maanden of een deel van die lening;
+   - 3°. door omzetting van een met het oog op de verkrijging van die aandelen door de particuliere participatiemaatschappij aan de vennootschap, of aan de vennootschap in oprichting, in geld verstrekte lening met een effectieve looptijd van niet meer dan drie maanden of een deel van die lening;
 
 - b. een in aandelen converteerbare achtergestelde lening ten laste van een vennootschap die de particuliere participatiemaatschappij heeft verkregen:
 
-- 1°. door aan de vennootschap een lening te verstrekken in geld of
+   - 1°. door aan de vennootschap een lening te verstrekken in geld of
 
-- 2°. door omzetting van een door de particuliere participatiemaatschappij aan de vennootschap, of de vennootschap in oprichting, in geld verstrekte lening met een effectieve looptijd van niet meer dan drie maanden of een deel van die lening.
+   - 2°. door omzetting van een door de particuliere participatiemaatschappij aan de vennootschap, of de vennootschap in oprichting, in geld verstrekte lening met een effectieve looptijd van niet meer dan drie maanden of een deel van die lening.
 
-2. In dit besluit en de daarop berustende bepalingen wordt onder een gemelde participatie verstaan een participatie in de zin van artikel 1, eerste lid, onder **g**, van de Garantieregeling particuliere participatiemaatschappijen 1981, ten aanzien waarvan de melding niet is doorgehaald, als bedoeld in artikel 13, vierde lid, van die regeling.
+2. In dit besluit en de daarop berustende bepalingen wordt onder een gemelde participatie verstaan een participatie in de zin van artikel 1, eerste lid, onder *g*, van de Garantieregeling particuliere participatiemaatschappijen 1981, ten aanzien waarvan de melding niet is doorgehaald, als bedoeld in artikel 13, vierde lid, van die regeling.
 
 3. In het eerste lid van dit artikel en in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&z=2009-07-01&g=2009-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&z=2009-07-01&g=2009-07-01) wordt onder een vennootschap verstaan een vennootschap die voldoet aan de volgende eisen:
 
@@ -94,15 +66,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. haar activiteiten liggen niet geheel of hoofdzakelijk op het gebied van:
 
-- 1°. het bank- en verzekeringswezen;
+   - 1°. het bank- en verzekeringswezen;
 
-- 2°. het beleggingswezen;
+   - 2°. het beleggingswezen;
 
-- 3°. het op enigerlei wijze financieren van een of meer ondernemers;
+   - 3°. het op enigerlei wijze financieren van een of meer ondernemers;
 
-- 4°. het verwerven, vervreemden, beheren of exploiteren van onroerende zaken;
+   - 4°. het verwerven, vervreemden, beheren of exploiteren van onroerende zaken;
 
-- 5°. het middellijk of onmiddellijk deelnemen in vennootschappen waarvan de activiteiten geheel of hoofdzakelijk liggen op de gebieden, genoemd onder 1° tot en met 4°.
+   - 5°. het middellijk of onmiddellijk deelnemen in vennootschappen waarvan de activiteiten geheel of hoofdzakelijk liggen op de gebieden, genoemd onder 1° tot en met 4°.
 
 4. In dit besluit en de daarop berustende bepalingen wordt onder een achtergestelde lening verstaan een niet door enige vorm van zekerheid gedekte geldlening, waarop de debiteur krachtens een daartoe strekkende bepaling in de akte van geldlening in geval van ontbinding, een akkoord na verlening van surséance van betaling of een akkoord in faillissement van de debiteur, rente en aflossing - voor zover de termijnen daarvan niet reeds verschenen waren voor het tijdstip van de ontbinding, de indiening van het verzoek om verlening van surséance van betaling of de indiening van de faillissementsaanvrage - eerst verplicht is te betalen nadat alle andere op dat moment bestaande schulden van de debiteur, met uitzondering van die welke voortvloeien uit leningen waaraan een bepaling van gelijke aard als voornoemde bepaling is verbonden, zijn voldaan, terwijl ingevolge de vorenbedoelde akte van geldlening de crediteur afstand heeft gedaan van alle rechten tot verrekening van de rente en aflossing.
 
@@ -130,13 +102,13 @@ Een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid,
 
 - f. zij heeft geen aandeelhouders respectievelijk vennoten, die:
 
-- 1°. een rechtspersoon zijn die krachtens publiekrecht is ingesteld, of
+   - 1°. een rechtspersoon zijn die krachtens publiekrecht is ingesteld, of
 
-- 2°. een rechtspersoon zijn waarover rechtspersonen die krachtens publiekrecht zijn ingesteld uit hoofde van onmiddellijk of middellijk aandeelhouderschap, lidmaatschap, bestuurslidmaatschap of soortgelijke kwaliteit overwegende zeggenschap uitoefenen, tenzij de aandelen van de rechtspersoon of de certificaten daarvan zijn toegelaten tot de officiële notering aan de Amsterdamse effectenbeurs, of
+   - 2°. een rechtspersoon zijn waarover rechtspersonen die krachtens publiekrecht zijn ingesteld uit hoofde van onmiddellijk of middellijk aandeelhouderschap, lidmaatschap, bestuurslidmaatschap of soortgelijke kwaliteit overwegende zeggenschap uitoefenen, tenzij de aandelen van de rechtspersoon of de certificaten daarvan zijn toegelaten tot de officiële notering aan de Amsterdamse effectenbeurs, of
 
-- 3°. een rechtspersoon zijn waarvan de bestuurders uitsluitend door rechtspersonen die krachtens publiekrecht zijn ingesteld onmiddellijk of middellijk worden benoemd en waarvan het vermogen bij liquidatie uitsluitend ter beschikking komt van rechtspersonen die krachtens publiekrecht zijn ingesteld, tenzij de aandelen van de rechtspersoon of de certificaten daarvan zijn toegelaten tot de officiële notering aan de Amsterdamse effectenbeurs;
+   - 3°. een rechtspersoon zijn waarvan de bestuurders uitsluitend door rechtspersonen die krachtens publiekrecht zijn ingesteld onmiddellijk of middellijk worden benoemd en waarvan het vermogen bij liquidatie uitsluitend ter beschikking komt van rechtspersonen die krachtens publiekrecht zijn ingesteld, tenzij de aandelen van de rechtspersoon of de certificaten daarvan zijn toegelaten tot de officiële notering aan de Amsterdamse effectenbeurs;
 
-- g. indien zij slechts één beherend vennoot heeft, is deze vennoot een rechtspersoon, die voldoet aan het bepaalde onder **a** en **b**.
+- g. indien zij slechts één beherend vennoot heeft, is deze vennoot een rechtspersoon, die voldoet aan het bepaalde onder *a* en *b*.
 
 ##### Artikel 5
 
@@ -144,25 +116,25 @@ Een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid,
 
 - a. indien het betreft een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid:
 
-- 1°. de statuten van de vennootschap;
+   - 1°. de statuten van de vennootschap;
 
-- 2°. een opgave van de samenstelling van het bestuur en voor zover aanwezig van de raad van commissarissen van de vennootschap;
+   - 2°. een opgave van de samenstelling van het bestuur en voor zover aanwezig van de raad van commissarissen van de vennootschap;
 
-- 3°. een opgave van de aandeelhouders van de vennootschap;
+   - 3°. een opgave van de aandeelhouders van de vennootschap;
 
-- 4°. een opgave van het aantal aandelen in het kapitaal van de vennootschap dat ieder van de aandeelhouders houdt en van het op ieder aandeel gestorte bedrag;
+   - 4°. een opgave van het aantal aandelen in het kapitaal van de vennootschap dat ieder van de aandeelhouders houdt en van het op ieder aandeel gestorte bedrag;
 
-- 5°. een globale raming van de omvang en het aantal van de activiteiten voor de eerste drie jaar, vergezeld van een kostenbegroting;
+   - 5°. een globale raming van de omvang en het aantal van de activiteiten voor de eerste drie jaar, vergezeld van een kostenbegroting;
 
 - b. indien het betreft een vennootschap onder firma of een commanditaire vennootschap:
 
-- 1°. de overeenkomst waarbij de vennootschap is aangegaan;
+   - 1°. de overeenkomst waarbij de vennootschap is aangegaan;
 
-- 2°. een opgave van de vennoten en de niet-commanditaire vennoten;
+   - 2°. een opgave van de vennoten en de niet-commanditaire vennoten;
 
-- 3°. een opgave van de verplichtingen tot inbreng van kapitaal door de vennoten;
+   - 3°. een opgave van de verplichtingen tot inbreng van kapitaal door de vennoten;
 
-- 4°. een globale raming van de omvang en het aantal van de activiteiten voor de eerste drie jaar, vergezeld van een kostenbegroting.
+   - 4°. een globale raming van de omvang en het aantal van de activiteiten voor de eerste drie jaar, vergezeld van een kostenbegroting.
 
 2. Aanvragen worden niet ingediend per telefax.
 
@@ -172,7 +144,7 @@ Door de bank aangewezen personen kunnen, voor zover dat redelijkerwijs noodzakel
 
 - a. inzage te verlenen van zakelijke gegevens en bescheiden,
 
-- b. hen kopieën te laten maken van de onder **a** bedoelde gegevens en bescheiden en
+- b. hen kopieën te laten maken van de onder *a* bedoelde gegevens en bescheiden en
 
 - c. medewerking te verlenen aan het verstrekken van gegevens door anderen.
 
@@ -192,7 +164,7 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 ##### Artikel 9
 
-Een erkenning als particuliere participatiemaatschappij wordt bekend gemaakt in de **Staatscourant**, onder vermelding van de naam en de statutaire zetel van de particuliere participatiemaatschappij.
+Een erkenning als particuliere participatiemaatschappij wordt bekend gemaakt in de *Staatscourant*, onder vermelding van de naam en de statutaire zetel van de particuliere participatiemaatschappij.
 
 ##### Artikel 10
 
@@ -206,15 +178,15 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - a. het rentedragend vreemd vermogen zal niet tweemaal achtereen aan het einde van een boekjaar meer bedragen dan het hoogste van de twee volgende bedragen:
 
-- 1°. het gestorte aandelenkapitaal, of, indien de betrokkene geen rechtspersoon is, het door vennoten verplicht in te brengen kapitaal;
+   - 1°. het gestorte aandelenkapitaal, of, indien de betrokkene geen rechtspersoon is, het door vennoten verplicht in te brengen kapitaal;
 
-- 2°. de helft van de de totale verkrijgingsprijs van de participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01) of die gemelde participaties van betrokkene zijn;
+   - 2°. de helft van de de totale verkrijgingsprijs van de participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01) of die gemelde participaties van betrokkene zijn;
 
 - b. de som van de verkrijgingsprijzen van de uit aandelen bestaande participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01) of die gemelde participaties van betrokkene vormen, zal aan het einde van het derde boekjaar na erkenning van de participatiemaatschappij niet minder dan 40 procent, aan het einde van het vierde boekjaar niet minder dan 50 procent en aan het einde van het vijfde boekjaar niet minder dan 60 procent van de totale activa van de particuliere participatiemaatschappij bedragen, waarbij de vaste financiële activa tegen kostprijs zijn gewaardeerd. Met ingang van het zesde boekjaar zal dit percentage niet tweemaal achtereen aan het einde van het boekjaar minder dan 60 procent bedragen.
 
-3. Indien als gevolg van een incidentele grote opbrengst uit de vervreemding van een participatie dan wel van een andere financiering niet voldaan kan worden aan het tweede lid, onder **b**, kan de bank een tijdelijke ontheffing verlenen. Een aanvraag om een ontheffing wordt ingediend uiterlijk zes weken voor het einde van het desbetreffende boekjaar. De bank geeft een beschikking voor het einde van dat boekjaar.
+3. Indien als gevolg van een incidentele grote opbrengst uit de vervreemding van een participatie dan wel van een andere financiering niet voldaan kan worden aan het tweede lid, onder *b*, kan de bank een tijdelijke ontheffing verlenen. Een aanvraag om een ontheffing wordt ingediend uiterlijk zes weken voor het einde van het desbetreffende boekjaar. De bank geeft een beschikking voor het einde van dat boekjaar.
 
-4. Voor de toepassing van het tweede lid, aanhef en onder **b**, wordt bij de bepaling van de boekjaren de periode waarin de betrokkene als particuliere participatiemaatschappij was erkend op basis van de Garantieregeling particuliere participatiemaatschappijen 1981 mede betrokken.
+4. Voor de toepassing van het tweede lid, aanhef en onder *b*, wordt bij de bepaling van de boekjaren de periode waarin de betrokkene als particuliere participatiemaatschappij was erkend op basis van de Garantieregeling particuliere participatiemaatschappijen 1981 mede betrokken.
 
 ##### Artikel 12
 
@@ -232,21 +204,21 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - a. indien het een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid betreft:
 
-- 1°. een wijziging van haar statuten,
+   - 1°. een wijziging van haar statuten,
 
-- 2°. de overdracht van aandelen in haar kapitaal,
+   - 2°. de overdracht van aandelen in haar kapitaal,
 
-- 3°. de plaatsing van aandelen in haar kapitaal en
+   - 3°. de plaatsing van aandelen in haar kapitaal en
 
-- 4°. een wijziging in de samenstelling van haar bestuur of haar raad van commissarissen;
+   - 4°. een wijziging in de samenstelling van haar bestuur of haar raad van commissarissen;
 
 - b. indien het een vennootschap onder firma of een commanditaire vennootschap betreft:
 
-- 1°. de wijziging of de beëindiging van de overeenkomst waarbij de vennootschap is aangegaan,
+   - 1°. de wijziging of de beëindiging van de overeenkomst waarbij de vennootschap is aangegaan,
 
-- 2°. een wijziging in de bevoegdheid van een vennoot om de vennootschap te vertegenwoordigen en
+   - 2°. een wijziging in de bevoegdheid van een vennoot om de vennootschap te vertegenwoordigen en
 
-- 3°. een wijziging in de aansprakelijkheid van een vennoot voor de schulden van de vennootschap;
+   - 3°. een wijziging in de aansprakelijkheid van een vennoot voor de schulden van de vennootschap;
 
 - c. enige omstandigheid ten gevolge waarvan zij niet meer voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01);
 
@@ -258,7 +230,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - a. inzage te verlenen van zakelijke gegevens en bescheiden;
 
-- b. hen kopieën te laten maken van de onder **a** bedoelde gegevens en bescheiden en
+- b. hen kopieën te laten maken van de onder *a* bedoelde gegevens en bescheiden en
 
 - c. medewerking te verlenen aan het verstrekken van gegevens door anderen.
 
@@ -272,9 +244,9 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - c. de beschikking, inhoudende de erkenning als particuliere participatiemaatschappij, ten gevolge van aan de betrokkene te wijten onjuistheid of onvolledigheid van verstrekte gegevens anders luidde dan het geval zou zijn geweest, indien de gegevens juist en volledig zouden zijn verstrekt.
 
-2. Bij de beschikking tot intrekking kan de bank bepalen dat de aanspraken op subsidies als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2009-07-01&g=2009-07-01) betreffende die participaties, die de particuliere participatiemaatschappij heeft verkregen nadat de intrekkingsgrond is ontstaan, in een door hem te bepalen omvang, al dan niet met terugwerkende kracht, vervallen. Indien de intrekking gegrond is op het eerste lid, onder **c**, bepaalt de bank steeds dat alle in de eerste volzin bedoelde aanspraken vervallen met terugwerkende kracht.
+2. Bij de beschikking tot intrekking kan de bank bepalen dat de aanspraken op subsidies als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2009-07-01&g=2009-07-01) betreffende die participaties, die de particuliere participatiemaatschappij heeft verkregen nadat de intrekkingsgrond is ontstaan, in een door hem te bepalen omvang, al dan niet met terugwerkende kracht, vervallen. Indien de intrekking gegrond is op het eerste lid, onder *c*, bepaalt de bank steeds dat alle in de eerste volzin bedoelde aanspraken vervallen met terugwerkende kracht.
 
-3. De intrekking wordt, zodra zij onherroepelijk is geworden, bekend gemaakt in de **Staatscourant**, onder vermelding van de naam en de statutaire zetel van de betrokkene.
+3. De intrekking wordt, zodra zij onherroepelijk is geworden, bekend gemaakt in de *Staatscourant*, onder vermelding van de naam en de statutaire zetel van de betrokkene.
 
 ### Hoofdstuk 3. Registratie van een participatie
 
@@ -298,7 +270,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - a. de laatste door de algemene vergadering van aandeelhouders van de vennootschap vastgestelde of goedgekeurde jaarrekening;
 
-- b. een verklaring van een accountant, welke inhoudt dat hij de verklaringen, bedoeld in het derde lid, onder **a, b** en **c**, heeft gecontroleerd en juist heeft bevonden.
+- b. een verklaring van een accountant, welke inhoudt dat hij de verklaringen, bedoeld in het derde lid, onder *a, b* en *c*, heeft gecontroleerd en juist heeft bevonden.
 
 - c. het bewijs van betaling aan de bank van een registratiepremie ten bedrage van 1 procent van de verkrijgingsprijs van de participatie waarop de aanvraag betrekking heeft.
 
@@ -324,19 +296,19 @@ Onze Minister stelt bij ministeriële regeling met betrekking tot ieder kalender
 
 - b. de participatie waarop de aanvraag betrekking heeft ten tijde van de verkrijging bestond uit een converteerbare achtergestelde lening en de aanvrager niet voorafgaand aan of tegelijk met de verkrijging van de betreffende participatie een of meer andere uit aandelen bestaande participaties in dezelfde vennootschap heeft verkregen, die ten tijde van de verkrijging van de eerst bedoelde participatie aan de volgende vereisten voldeden:
 
-- 1°. zij vormen tezamen ten minste ééntwintigste deel van het geplaatste aandelenkapitaal van de vennootschap;
+   - 1°. zij vormen tezamen ten minste ééntwintigste deel van het geplaatste aandelenkapitaal van de vennootschap;
 
-- 2°. zij worden door de bank geregistreerd of zij zijn een of meer gemelde participaties;
+   - 2°. zij worden door de bank geregistreerd of zij zijn een of meer gemelde participaties;
 
 - c. het totale bedrag van de verkrijgingsprijs van de participatie en van al de overige participaties, die eerder of tegelijk met de verkrijging zijn verkregen door enige particuliere participatiemaatschappij in dezelfde vennootschap en die op het tijdstip van registratie worden geregistreerd of een gemelde participatie zijn, meer dan € 1 140 000 bedraagt;
 
 - d. het totale bedrag van de verkrijgingsprijs van de aandelen en andere financieringen die de aanvrager in de vennootschap houdt door de verkrijging van die participatie hoger is geworden dan 20 procent van:
 
-- 1°. het gestorte kapitaal van de aanvrager, indien de participatie is verkregen voor het einde van het derde volle boekjaar, verlopen sedert de erkenning van de aanvrager als particuliere participatiemaatschappij, of
+   - 1°. het gestorte kapitaal van de aanvrager, indien de participatie is verkregen voor het einde van het derde volle boekjaar, verlopen sedert de erkenning van de aanvrager als particuliere participatiemaatschappij, of
 
-- 2°. het totale bedrag van de verkrijgingsprijs van alle aandelen en andere financieringen, met inbegrip van de desbetreffende participatie, van de aanvrager, indien de participatie verkregen is na het einde van het derde volle boekjaar, verlopen sedert de erkenning van de aanvrager als particuliere participatiemaatschappij.
+   - 2°. het totale bedrag van de verkrijgingsprijs van alle aandelen en andere financieringen, met inbegrip van de desbetreffende participatie, van de aanvrager, indien de participatie verkregen is na het einde van het derde volle boekjaar, verlopen sedert de erkenning van de aanvrager als particuliere participatiemaatschappij.
 
-3. Voor de toepassing van het tweede lid, aanhef en onder **d**, wordt voor de bepaling van de boekjaren de periode waarin de aanvrager een in de zin van de Garantieregeling particuliere participatiemaatschappijen 1981 erkende particuliere participatiemaatschappij was, mede betrokken.
+3. Voor de toepassing van het tweede lid, aanhef en onder *d*, wordt voor de bepaling van de boekjaren de periode waarin de aanvrager een in de zin van de Garantieregeling particuliere participatiemaatschappijen 1981 erkende particuliere participatiemaatschappij was, mede betrokken.
 
 ##### Artikel 18
 
@@ -366,15 +338,15 @@ Een beschikking tot registratie van een participatie vervalt, zodra en voorzover
 
 - c. indien het een participatie betreft die bestaat uit een converteerbare achtergestelde lening, een in kracht van gewijsde gegane homologatie van een akkoord na de faillietverklaring of na de verlening van surséance van betaling van de vennootschap waarin de verzoeker die participatie heeft.
 
-2. Geen subsidie wordt verstrekt, indien ten tijde van de gebeurtenis als bedoeld in het eerste lid, onder **a, b** of **c**, de participatie niet wordt geregistreerd door de bank.
+2. Geen subsidie wordt verstrekt, indien ten tijde van de gebeurtenis als bedoeld in het eerste lid, onder *a, b* of *c*, de participatie niet wordt geregistreerd door de bank.
 
 3. Geen subsidie wordt verstrekt, indien het verlies is geleden:
 
-- a. bij gehele of gedeeltelijke vervreemding van de participatie aan een of meer personen, die op het tijdstip van de gebeurtenis als bedoeld in het eerste lid, onder **a, b** of **c**, of op enig tijdstip in de daaraan voorafgaande twee jaar aandeelhouder waren van of in dienst waren van de aanvrager of betrokken waren bij het beleid of beheer van die aanvrager;
+- a. bij gehele of gedeeltelijke vervreemding van de participatie aan een of meer personen, die op het tijdstip van de gebeurtenis als bedoeld in het eerste lid, onder *a, b* of *c*, of op enig tijdstip in de daaraan voorafgaande twee jaar aandeelhouder waren van of in dienst waren van de aanvrager of betrokken waren bij het beleid of beheer van die aanvrager;
 
 - b. na inkoop van of terugbetaling door de vennootschap op aandelen die de aanvrager in de vennootschap houdt.
 
-4. Geen subsidie wordt verstrekt, indien ten tijde van de gebeurtenis als bedoeld in het eerste lid, onder **a, b** of **c**, dan wel faillietverklaring van de vennootschap, minder dan een jaar is verlopen sedert de particuliere participatiemaatschappij de participatie heeft verkregen.
+4. Geen subsidie wordt verstrekt, indien ten tijde van de gebeurtenis als bedoeld in het eerste lid, onder *a, b* of *c*, dan wel faillietverklaring van de vennootschap, minder dan een jaar is verlopen sedert de particuliere participatiemaatschappij de participatie heeft verkregen.
 
 5. In dit hoofdstuk wordt mede begrepen
 
@@ -442,11 +414,11 @@ indien de uitkomst van deze formule positief is.
 
 In deze formule betekent:
 
-D: het totale dividend dat op deze participatie in geld is uitgekeerd in de periode tussen de verkrijging van de participatie door de aanvrager en de gebeurtenis als bedoeld in artikel 20, eerste lid, onder **a, b** of **c**;
+D: het totale dividend dat op deze participatie in geld is uitgekeerd in de periode tussen de verkrijging van de participatie door de aanvrager en de gebeurtenis als bedoeld in artikel 20, eerste lid, onder *a, b* of *c*;
 
 F: de verkrijgingsprijs van de participatie;
 
-Tm: het aantal volledige maanden, verlopen tussen de verkrijging van de participatie door de aanvrager en de gebeurtenis, bedoeld in artikel 20, eerste lid, onder **a, b** of **c**.
+Tm: het aantal volledige maanden, verlopen tussen de verkrijging van de participatie door de aanvrager en de gebeurtenis, bedoeld in artikel 20, eerste lid, onder *a, b* of *c*.
 
 #### § 3. Voorschotten
 
@@ -518,10 +490,8 @@ De particuliere participatiemaatschappij, die bij de inwerkingtreding van dit be
 
 ##### Artikel 33
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 34
 
 Dit besluit wordt aangehaald als: Besluit particuliere participatiemaatschappijen.
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

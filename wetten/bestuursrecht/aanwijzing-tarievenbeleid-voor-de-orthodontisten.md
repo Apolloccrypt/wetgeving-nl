@@ -1,47 +1,18 @@
 ---
 title: "Aanwijzing ex artikel 14 van de Wet tarieven gezondheidszorg inzake het tarievenbeleid voor de orthodontisten"
+citeertitel: "Aanwijzing tarievenbeleid voor de orthodontisten"
 identifier: "BWBR0006877"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-08-27"
-last_updated: "1994-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006877"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "3743183"
-version_id: "5526052"
-internal_id: "C5719141"
-label_id: "3722934"
-dtd_version: "2.0"
-original_entry_into_force: "1994-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006877/1994-08-27/0"
-intitule_bron: "Stcrt.1994-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-08-18"
-intitule_published: "1994-08-25"
-intitule_in_force: "1994-08-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-162"
-original_signed_date: "1994-08-18"
-original_published_date: "1994-08-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-08-27"
-jci_1_3: "jci1.3:c:BWBR0006877&z=1994-08-27&g=1994-08-27"
-jci_1_0: "1.0:c:BWBR0006877&g=1994-08-27"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing tarievenbeleid voor de orthodontisten"
-signed_date: "1994-08-18"
-entry_into_force: "1994-08-27"
+publicatiedatum: 1994-08-27
+laatste_update: 1994-08-27
+status: geldig
+toestand: 1994-08-27
+bron: "https://wetten.overheid.nl/BWBR0006877"
+opgehaald: 2026-08-01
 ---
+
 # Aanwijzing ex artikel 14 van de Wet tarieven gezondheidszorg inzake het tarievenbeleid voor de orthodontisten
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14) (Stb. 1980, 646), laatstelijk gewijzigd bij wet van 20 november 1991 (Stb. 584);
-
-Gehoord het Centraal orgaan tarieven gezondheidszorg (advies van 24 juni 1994, vastgesteld in de vergadering van 20 juni 1994);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 26 juli 1994);
-
-Besluiten:
 
 ##### Artikel 1
 

@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
+citeertitel: "Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken"
 identifier: "BWBR0005804"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-02-16"
-last_updated: "2023-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005804"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "1023813"
-version_id: "1505132"
-internal_id: "C1505131"
-label_id: "992534"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005804/2023-02-16/0"
-intitule_bron: "Stb.1992-685"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-24"
-intitule_status: "goed"
-original_publication: "Stb.1992-685"
-original_signed_date: "1992-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-01-01"
-jci_1_3: "jci1.3:c:BWBR0005804&z=2023-02-16&g=2023-02-16"
-jci_1_0: "1.0:c:BWBR0005804&g=2023-02-16"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken"
-signed_date: "1992-12-24"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 2023-02-16
+status: geldig
+toestand: 2023-02-16
+bron: "https://wetten.overheid.nl/BWBR0005804"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
-
-Op de voordracht van de Staatssecretaris van Financiën van 10 november 1992, nr. WV 92/534, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
-
-Gelet op de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=28), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) (**Stb.** 1992, 683) en [artikel 70 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=70) (**Stb.** 1959, 301);
-
-De Raad van State gehoord (advies van 9 december 1992, nr. W06.92.0540);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 17 december 1992, nr. WV 92/648, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-### Afdeling 1. Inleidende bepalingen
+#### Afdeling 1. Inleidende bepalingen
 
 ##### Artikel 1
 
@@ -52,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802).
 
-### Afdeling 2. Overbrengen van alcoholvrije dranken
+#### Afdeling 2. Overbrengen van alcoholvrije dranken
 
 ##### Artikel 2
 
@@ -214,11 +186,11 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 ### Hoofdstuk III. Vrijstellingen en teruggaven
 
-### Afdeling 1. Vrijstellingen
+#### Afdeling 1. Vrijstellingen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -274,7 +246,7 @@ Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije
 
 5. De alcoholvrije dranken die na afloop van de in het eerste lid bedoelde onderzoeken, controles of testen resteren moeten na de onderzoeken, controles of testen worden overgebracht naar een inrichting, worden uitgevoerd of onder ambtelijk toezicht worden vernietigd.
 
-### Afdeling 2. Teruggaven
+#### Afdeling 2. Teruggaven
 
 ##### Artikel 18
 
@@ -334,7 +306,7 @@ Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de b
 
 ### Hoofdstuk IV. Bijzondere bepalingen
 
-### Afdeling 1. Controlebepalingen
+#### Afdeling 1. Controlebepalingen
 
 ##### Artikel 27
 
@@ -344,7 +316,7 @@ Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de b
 
 3. Het eerste lid is niet van toepassing met betrekking tot alcoholvrije dranken die bij anderen dan ondernemers als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), of publiekrechtelijke lichamen, anders dan als ondernemer, voorhanden zijn of door hen worden vervoerd voor eigen verbruik voor zover die producten zich bevinden in de gebruikelijke kleinhandelsverpakkingen.
 
-### Afdeling 2. Overige bepalingen
+#### Afdeling 2. Overige bepalingen
 
 ##### Artikel 28
 
@@ -372,7 +344,7 @@ In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigst
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Strafbepalingen
 
@@ -393,5 +365,3 @@ Dit besluit treedt in werking met ingang van 1 januari 1993.
 ##### Artikel 34
 
 Dit besluit kan worden aangehaald als Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

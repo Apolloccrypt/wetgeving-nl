@@ -1,51 +1,26 @@
 ---
 title: "Wet van 30 september 1993, tot wijziging van Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties"
+citeertitel: "Wijzigingswet Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties"
 identifier: "BWBR0006164"
-country: "nl"
-rank: "wet"
-publication_date: "1994-03-01"
-last_updated: "1994-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006164"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "494233"
-version_id: "732072"
-internal_id: "C732071"
-label_id: "480364"
-dtd_version: "2.0"
-original_entry_into_force: "1994-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006164/1994-03-01/0"
-intitule_bron: "Stb.1993-539"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-09-30"
-intitule_status: "goed"
-original_publication: "Stb.1993-539"
-original_signed_date: "1993-09-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "23038"
-entry_into_force_date: "1994-03-01"
-jci_1_3: "jci1.3:c:BWBR0006164&z=1994-03-01&g=1994-03-01"
-jci_1_0: "1.0:c:BWBR0006164&g=1994-03-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties"
-signed_date: "1993-09-30"
-entry_into_force: "1994-03-01"
+publicatiedatum: 1994-03-01
+laatste_update: 1994-03-01
+status: geldig
+toestand: 1994-03-01
+bron: "https://wetten.overheid.nl/BWBR0006164"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 30 september 1993, tot wijziging van Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is uit een oogpunt van efficiency de adviserende en requestrerende taak van de raden voor de kinderbescherming te beëindigen en de inning van kinderalimentaties door de raden voor de kinderbescherming onder te brengen bij één instantie alsmede deze tegen betaling van kosten te doen geschieden en dat in verband daarmee [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) en het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) wijziging behoeven;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
@@ -66,5 +41,3 @@ Indien het bij koninklijke boodschap van 8 januari 1992 ingediende voorstel van 
 ##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

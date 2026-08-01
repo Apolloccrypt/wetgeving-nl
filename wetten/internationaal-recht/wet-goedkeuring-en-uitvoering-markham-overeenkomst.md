@@ -1,70 +1,44 @@
 ---
 title: "Wet van 16 december 1992, tot goedkeuring en uitvoering van de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met bijlagen"
+citeertitel: "Wet goedkeuring en uitvoering Markham-overeenkomst"
 identifier: "BWBR0005766"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005766"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "363673"
-version_id: "535402"
-internal_id: "C535401"
-label_id: "355454"
-dtd_version: "2.0"
-original_entry_into_force: "1992-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005766/2021-07-01/0"
-intitule_bron: "Stb.1992-673"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-16"
-intitule_status: "goed"
-original_publication: "Stb.1992-673"
-original_signed_date: "1992-12-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "22773"
-entry_into_force_date: "1992-12-25"
-entry_into_force_dossier: "22773"
-jci_1_3: "jci1.3:c:BWBR0005766&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0005766&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet goedkeuring en uitvoering Markham-overeenkomst"
-signed_date: "1992-12-16"
-entry_into_force: "1992-12-25"
+publicatiedatum: 1992-12-25
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0005766"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 16 december 1992, tot goedkeuring en uitvoering van de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met bijlagen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit (**Trb.** 1992, 99) ingevolge [artikel 91, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=91) de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden, en dat ter uitvoering van deze Overeenkomst enige wettelijke voorzieningen moeten worden getroffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
-De op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met twee bijlagen, waarvan de Nederlandse en de Engelse tekst zijn geplaatst in **Tractatenblad** 1992, 99, wordt goedgekeurd voor Nederland.
+De op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met twee bijlagen, waarvan de Nederlandse en de Engelse tekst zijn geplaatst in *Tractatenblad* 1992, 99, wordt goedgekeurd voor Nederland.
 
 ##### Artikel 2
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-**Markham-overeenkomst**: de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit;
+*Markham-overeenkomst*: de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit;
 
-**voorkomens in het Markhamveld**: hetgeen daaronder wordt verstaan in de Markham-overeenkomst;
+*voorkomens in het Markhamveld*: hetgeen daaronder wordt verstaan in de Markham-overeenkomst;
 
-**het Markham-gebied**: hetgeen daaronder wordt verstaan in de Markham-overeenkomst;
+*het Markham-gebied*: hetgeen daaronder wordt verstaan in de Markham-overeenkomst;
 
-**Markham-winningsvergunning**: een winningsvergunning als bedoeld in [artikel 1 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), met gebruikmaking waarvan aardolie en aardgas kan worden gewonnen uit een of meer voorkomens in het Markhamveld;
+*Markham-winningsvergunning*: een winningsvergunning als bedoeld in [artikel 1 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), met gebruikmaking waarvan aardolie en aardgas kan worden gewonnen uit een of meer voorkomens in het Markhamveld;
 
-**vergunninghoudersovereenkomst**: een overeenkomst als bedoeld in artikel 3 van de Markham-overeenkomst, gesloten tussen de houders van de Markham-winningsvergunning en de overige winners van delfstoffen uit de voorkomens in het Markham-veld;
+*vergunninghoudersovereenkomst*: een overeenkomst als bedoeld in artikel 3 van de Markham-overeenkomst, gesloten tussen de houders van de Markham-winningsvergunning en de overige winners van delfstoffen uit de voorkomens in het Markham-veld;
 
-**Onze Minister**: Onze Minister van Economische Zaken en Klimaat.
+*Onze Minister*: Onze Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 3
 
 1. Met betrekking tot een Markham-winningsvergunning wordt in zoverre afgeweken van het bij en krachtens de [paragrafen 5.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.3) en [5.1.1.4 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.4) bepaalde dat, voorzover het betreft het winnen van aardolie of aardgas uit voorkomens in het Markham-veld:
 
-- a. de vergunninghouder jaarlijks aan de Staat een afdracht als bedoeld in [artikel 60 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=60) is verschuldigd dat wordt bepaald op de in [paragraaf 5.1.1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.3) voorgeschreven wijze, met dien verstande dat niet wordt geheven over de in [artikel 62, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=62) bedoelde omzet, maar over de omzet, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
+- a. de vergunninghouder jaarlijks aan de Staat een afdracht als bedoeld in [artikel 60 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=60) is verschuldigd dat wordt bepaald op de in [paragraaf 5.1.1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.3) voorgeschreven wijze, met dien verstande dat niet wordt geheven over de in [artikel 62, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=62) bedoelde omzet, maar over de omzet, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
 
 - b. de vergunninghouder jaarlijks aan de Staat een bedrag is verschuldigd, berekend naar de met de winning behaalde winst, dat wordt bepaald op de wijze zoals voorgeschreven in [paragraaf 5.1.1.4 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.4), met dien verstande dat voor de bepaling van het door de vergunninghouder verschuldigde bedrag niet wordt uitgegaan van de opbrengsten van krachtens de Markham-winningsvergunning gewonnen delfstoffen, maar van de opbrengsten van de uit de voorkomens in het Markhamveld gewonnen delfstoffen, waartoe de vergunninghouder ingevolge de vergunninghoudersovereenkomst gerechtigd is;
 
@@ -92,24 +66,22 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 ##### Artikel 10
 
 Deze wet kan worden aangehaald als: Wet goedkeuring en uitvoering Markham-overeenkomst.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

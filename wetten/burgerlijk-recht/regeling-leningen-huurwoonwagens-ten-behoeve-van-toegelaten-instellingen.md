@@ -1,42 +1,17 @@
 ---
 title: "Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen"
 identifier: "BWBR0005692"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-01-01"
-last_updated: "1993-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005692"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3583603"
-version_id: "5366772"
-internal_id: "C5559861"
-label_id: "3563654"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005692/1993-01-01/0"
-intitule_bron: "Stcrt.1992-204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-10-15"
-intitule_published: "1992-10-21"
-intitule_in_force: "1992-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-204"
-original_signed_date: "1992-10-15"
-original_published_date: "1992-10-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-01-01"
-jci_1_3: "jci1.3:c:BWBR0005692&z=1993-01-01&g=1993-01-01"
-jci_1_0: "1.0:c:BWBR0005692&g=1993-01-01"
-citeertitel_status: "officieel"
-signed_date: "1992-10-15"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 1993-01-01
+status: geldig
+toestand: 1993-01-01
+bron: "https://wetten.overheid.nl/BWBR0005692"
+opgehaald: 2026-08-01
 ---
+
 # Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen
-
-Gelet op artikel 52 van het Besluit woninggebonden subsidies (Stb. 1991, 440).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -52,7 +27,7 @@ De minister kan aan een gemeente een lening verstrekken voor de bouw van een huu
 
 ##### Artikel 3
 
-1. De gemeente dient bij de minister een aanvraag in om verstrekking van een lening voor de bouw van een huurwoonwagen, op een door de gemeente volledig ingevuld formulier, als opgenomen in de bijlage bij deze regeling.
+1. De gemeente dient bij de minister een aanvraag in om verstrekking van een lening voor de bouw van een huurwoonwagen, op een door de gemeente volledig ingevuld formulier, als opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0005692) bij deze regeling.
 
 2. De aanvraag houdt in ieder geval in: een verklaring van de gemeente dat de woonwagen voor bewoning gereed is.
 
@@ -100,7 +75,7 @@ De gemeente betaalt de ontvangen gelden uiterlijk een maand na ontvangst uit aan
 
 - b. indien de gemeente de minister ten minste twee maanden voor het tijdstip, bedoeld in onderdeel a, in kennis heeft gesteld van het voornemen vervroegd af te lossen, onder opgave van het te betalen bedrag.
 
-3. Een vervroegd te betalen bedrag aan aflossing bedraagt ten minste **f** 10.000.
+3. Een vervroegd te betalen bedrag aan aflossing bedraagt ten minste *f* 10.000.
 
 ##### Artikel 8
 
@@ -121,45 +96,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1993.
 ##### Artikel 11
 
 Deze regeling kan worden aangehaald als: Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen.
-
-## Bijlage. Aanvraagformulier
-
-Ministerie van Volkshuisvesting,
-
-Ruimtelijke Ordening en Milieubeheer
-
-Directoraat-Generaal van de Volkshuisvesting
-
-**Leningen huurwoonwagens ten behoeve van toegelaten instellingen**
-
-**Verzoek tot verstrekking van een lening als bedoeld in de Regeling leningen huurwoonwagens ten behoeve van toegelaten instelingen**
-
-**Het ingevulde formulier moet door de gemeente, waar de woonwagen zal worden geplaatst, in enkelvoud worden ingediend bij het Directoraat-Generaal van de Volkshuisvesting**.
-
-**Het ingediende formulier wordt niet als een aanvraag in behandeling genomen en zal worden geretourneerd indien dit formulier niet is ondertekend, niet of onvolledig is ingevuld of de bijlagen ontbreken**.
-
-Naam gemeente:
-
-contactpersoon:
-
-telefoonnummer:
-
-Datum gereedkoming voor bewoning van de huurwoonwagen:
-
-**Verklaring van de gemeente**
-
-De gemeente verklaart dat:
-
-- deze aanvraag betrekking heeft op het gereedkomen van de huurwoonwagen voor bewoning voor de bouw waarvan blijkens bijgaand afschrift een besluit o.g.v. artikel 24, eerste lid, onderdeel a, 28, 29g van het Besluit woninggebonden subsidies tot verlening van geldelijke steun is genomen
-
-- deze aanvraag betrekking heeft op het gereedkomen van de huurwoonwagen voor bewoning waarvan voor de bouw blijkens bijgaand afschrift een besluit op grond van [artikel 2, onder b, van de Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005692&artikel=2&z=1993-01-01&g=1993-01-01) is genomen
-
-- dit formulier naar waarheid is ingevuld
-
-Ondertekening
-
-Plaats en datum:
-
-- 1. Burgemeester
-
-- 2. Gemeentesecretaris/Wethouder

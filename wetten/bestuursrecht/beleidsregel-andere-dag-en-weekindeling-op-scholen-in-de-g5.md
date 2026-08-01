@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-30
 toestand: 2024-07-12
 bron: "https://wetten.overheid.nl/BWBR0043523"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-01
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 mei 2020, nr. PO/24137474, houdende regels voor een experiment ten behoeve van onderzoek naar een andere dag- en weekindeling in het kader van de noodmaatregelen voor het lerarentekort in het primair onderwijs in de gemeenten Amsterdam, Almere, Den Haag, Rotterdam en Utrecht (Beleidsregel andere dag- en weekindeling op scholen in de G5)

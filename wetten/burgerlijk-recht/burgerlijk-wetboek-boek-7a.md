@@ -1,908 +1,890 @@
 ---
 title: "Burgerlijk Wetboek Boek 7A, Bijzondere overeenkomsten (vervolg)"
+citeertitel: "Burgerlijk Wetboek Boek 7A"
 identifier: "BWBR0006000"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006000"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "2982353"
-version_id: "4618962"
-internal_id: "C4618961"
-label_id: "2936724"
-dtd_version: "2.0"
-original_entry_into_force: "1997-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006000/2025-07-01/0"
-intitule_bron: "Stb.1993-309"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-05-27"
-intitule_status: "goed"
-original_publication: "Stb.1995-696"
-original_signed_date: "1995-12-21"
-original_published_date: "1995-12-29"
-original_effect: "structuurwijziging"
-original_dossier: "24258"
-original_url_id: "stb-1995-696"
-entry_into_force_date: "1997-01-01"
-entry_into_force_dossier: "24258"
-jci_1_3: "jci1.3:c:BWBR0006000&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0006000&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Burgerlijk Wetboek Boek 7A"
-signed_date: "1995-12-21"
-entry_into_force: "1997-01-01"
+publicatiedatum: 1997-01-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0006000"
+opgehaald: 2026-08-01
 ---
+
 # Burgerlijk Wetboek Boek 7A, Bijzondere overeenkomsten (vervolg)
 
 ## Boek 7a. Bijzondere overeenkomsten; vervolg
 
-## Vijfde titel A. Van koop en verkoop op afbetaling
+### Vijfde titel A. Van koop en verkoop op afbetaling
 
-### Afdeling 1. Van koop en verkoop op afbetaling in het algemeen
+#### Afdeling 1. Van koop en verkoop op afbetaling in het algemeen
 
 ##### Artikel 1576
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576g
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2. Van huurkoop
+#### Afdeling 2. Van huurkoop
 
 ##### Artikel 1576h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1576x
 
-Vervallen
+*Vervallen*
 
-## titel Zevende. Van huur en verhuur
+### titel Zevende. Van huur en verhuur
 
-### afdeeling Eerste. Algemeene bepaling
+#### afdeeling Eerste. Algemeene bepaling
 
 ##### Artikel 1584
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1585
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van de regelen, welke gemeen zijn aan verhuringen van huizen en van andere zaken
+#### afdeeling Tweede. Van de regelen, welke gemeen zijn aan verhuringen van huizen en van andere zaken
 
 ##### Artikel 1586
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1587
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1588
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1589
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1590
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1591
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1592
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1593
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1594
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1595
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1596
 
-Vervallen
+*Vervallen*
+
+##### Artikel 1597
+
+*Vervallen*
 
 ##### Artikel 1598
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1599
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1600
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1602
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1603
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1604
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1605
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1606
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1607
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1608
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1609
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1610
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1611
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1612
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1614
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1615
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1616
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
+#### afdeeling Derde. Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
 
 ##### Artikel 1619
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1620
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1621
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1622
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623
 
-Vervallen
+*Vervallen*
 
-### afdeling Vierde. Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte
+#### afdeling Vierde. Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte
 
 ##### Artikel 1623a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1623o
 
-Vervallen
+*Vervallen*
 
-### afdeling Vijfde. Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte
+#### afdeling Vijfde. Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte
 
 ##### Artikel 1624
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1625
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1626
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1627
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1627a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1628
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1628a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1629
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1630
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1631
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1631a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1631b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1631c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1631d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1632
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1632a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1633
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1634
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1635
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1635a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1636
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1636a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1636b
 
-Vervallen
+*Vervallen*
 
-## Zevende titel A
+### Zevende titel A
 
-### afdeeling Eerste. Algemeene bepalingen
+#### afdeeling Eerste. Algemeene bepalingen
 
 ##### Artikel 1637
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637c
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van de arbeidsovereenkomst in het algemeen
+#### afdeeling Tweede. Van de arbeidsovereenkomst in het algemeen
 
 ##### Artikel 1637d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637x
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637ij
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637ij a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1637z
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van de verplichtingen des werkgevers
+#### afdeeling Derde. Van de verplichtingen des werkgevers
 
 ##### Artikel 1638
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638ca
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638cb
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638x
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638ij
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638z
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638aa
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638bb
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638cc
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638dd
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638ee
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638ff
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638gg
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638hh
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638ii
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638jj
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638kk
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638ll
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638mm
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638nn
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1638oo
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vierde. Van de verplichtingen des arbeiders
+#### afdeeling Vierde. Van de verplichtingen des arbeiders
 
 ##### Artikel 1639a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639da
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vijfde. Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
+#### afdeeling Vijfde. Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
 
 ##### Artikel 1639e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639g
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639h
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639i
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639j
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639k
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639m
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639n
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639o
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639p
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639q
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639r
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639s
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639t
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639u
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639v
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639w
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639x
 
-Vervallen
+*Vervallen*
 
-### Vijfde afdeling A
+#### Vijfde afdeling A
 
 ##### Artikel 1639aa
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639bb
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639cc
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1639dd
 
-Vervallen
+*Vervallen*
 
-### afdeeling Zesde. Van aanneming van werk
+#### afdeeling Zesde. Van aanneming van werk
 
 ##### Artikel 1639
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1640
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1641
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1642
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1643
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1644
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1645
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1646
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1647
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1648
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1650
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1651
 
-Vervallen
+*Vervallen*
 
-## titel Negende. Van maatschap
+### titel Negende. Van maatschap
 
-### afdeeling Eerste. Algemeene bepalingen
+#### afdeeling Eerste. Algemeene bepalingen
 
 ##### Artikel 1655
 
@@ -924,7 +906,7 @@ De algeheele maatschap van winst bevat slechts hetgeen partijen, onder welke ben
 
 De bijzondere maatschap is de zoodanige welke slechts betrekking heeft tot zekere bepaalde goederen, of tot derzelver gebruik, of tot de vruchten die daarvan zullen getrokken worden, of tot eene bepaalde onderneming, of tot de uitoefening van eenig bedrijf of beroep.
 
-### afdeeling Tweede. Van de verbindtenissen der vennooten onderling
+#### afdeeling Tweede. Van de verbindtenissen der vennooten onderling
 
 ##### Artikel 1661
 
@@ -992,7 +974,7 @@ Bij gebreke van bijzondere bedingen omtrent de wijze van beheer, moeten de volge
 
 Elk der vennooten mag, zelfs zonder toestemming der overige, eenen derden persoon aannemen als deelgenoot in het aandeel hetwelk hij in de maatschap heeft; doch hij kan denzelven, zonder zoodanige toestemming, niet als medelid der maatschap toelaten, al mogt hij ook met het beheer der zaken van de maatschap belast zijn.
 
-### afdeeling Derde. Van de verbindtenissen der vennooten ten aanzien van derden
+#### afdeeling Derde. Van de verbindtenissen der vennooten ten aanzien van derden
 
 ##### Artikel 1679
 
@@ -1010,7 +992,7 @@ Het beding dat eene handeling voor rekening der maatschap is aangegaan, verbindt
 
 Indien een der vennooten in naam der maatschap eene overeenkomst heeft aangegaan, kan de maatschap de uitvoering daarvan vorderen.
 
-### afdeeling Vierde. Van de verschillende wijzen waarop de maatschap eindigt
+#### afdeeling Vierde. Van de verschillende wijzen waarop de maatschap eindigt
 
 ##### Artikel 1683
 
@@ -1044,111 +1026,107 @@ Een maatschap wordt ontbonden:
 
 2. In het tweede geval, heeft de erfgenaam des overledenen geen verder regt dan op de verdeeling der maatschap, overeenkomstig de gesteldheid waarin dezelve zich ten tijde van dat overlijden bevond; doch hij deelt in de voordeelen en draagt in de verliezen, die de noodzakelijke gevolgen zijn van verrigtingen, welke vóór het overlijden van den vennoot, wiens erfgenaam hij is, hebben plaats gehad.
 
-## titel Elfde. Van schenkingen
+### titel Elfde. Vervallen
 
-### afdeeling Eerste. Algemeene bepalingen
+#### afdeeling Eerste. Vervallen
 
 ##### Artikel 1703
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1704
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1705
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1706
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1707
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1708
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1709
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1710
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1711
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1712
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van de bekwaamheid om bij wege van schenking te beschikken, en voordeel te genieten
+#### afdeeling Tweede. Vervallen
 
 ##### Artikel 1713
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1714
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1715
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1716
 
-Vervallen
+*Vervallen*
 
-##### Artikel 1718
-
-De bepalingen van het tweede lid en van het laatste lid van [artikel 951](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=951), mitsgaders de [artikelen 953](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=953), [954](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=954) en [958 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=958), zijn op schenkingen toepasselijk.
-
-### afdeeling Derde. Vervallen
+#### afdeeling Derde. Vervallen
 
 ##### Artikel 1719
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1720
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1721
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1722
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1724
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vierde. Vervallen
+#### afdeeling Vierde. Vervallen
 
 ##### Artikel 1725
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1729
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1730
 
-Vervallen
+*Vervallen*
 
-## titel Dertiende. Van bruikleening
+### titel Dertiende. Van bruikleening
 
-### afdeeling Eerste. Algemeene bepalingen
+#### afdeeling Eerste. Algemeene bepalingen
 
 ##### Artikel 1777
 
@@ -1164,7 +1142,7 @@ De uitleener blijft eigenaar van de geleende zaak.
 
 2. Maar indien men de uitleening gedaan heeft alleen uit aanmerking van dengenen die ter leen ontvangt, en aan deszelfs persoon in het bijzonder, kunnen deszelfs erfgenamen het verder genot van de geleende zaak niet blijven behouden.
 
-### afdeeling Tweede. Van de verpligtingen van dengenen die iets ter bruikleening ontvangt
+#### afdeeling Tweede. Van de verpligtingen van dengenen die iets ter bruikleening ontvangt
 
 ##### Artikel 1781
 
@@ -1192,7 +1170,7 @@ Indien de gebruiker, om van de geleende zaak gebruik te kunnen maken, eenige onk
 
 Indien een zaak in bruikleen is gegeven aan twee of meer personen tezamen, zijn zij hoofdelijk verbonden tot teruggave daarvan en tot vergoeding van de schade die het gevolg is van een tekortschieten in de nakoming van die verplichting, tenzij de tekortkoming aan geen van hen kan worden toegerekend.
 
-### afdeeling Derde. Van de verpligtingen van den uitleener
+#### afdeeling Derde. Van de verpligtingen van den uitleener
 
 ##### Artikel 1787
 
@@ -1210,65 +1188,65 @@ Indien de gebruiker, gedurende de bruikleening tot behoud der zaak eenige buiten
 
 Indien de ter leen gegevene zaak zoodanige gebreken heeft, dat daardoor aan dengenen die zich van dezelve bedient nadeel zoude kunnen worden toegebragt, is de uitleener, zoo hij die gebreken gekend, en daarvan aan den gebruiker geene kennis gegeven heeft, voor de gevolgen verantwoordelijk.
 
-## titel Veertiende. Van verbruikleening
+### titel Veertiende. Van verbruikleening
 
-### afdeeling Eerste. Algemeene bepalingen
+#### afdeeling Eerste. Algemeene bepalingen
 
 ##### Artikel 1791
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1792
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1793
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van de verpligtingen des uitleeners
+#### afdeeling Tweede. Van de verpligtingen des uitleeners
 
 ##### Artikel 1796
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1797
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1798
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1799
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van de verpligtingen des leeners
+#### afdeeling Derde. Van de verpligtingen des leeners
 
 ##### Artikel 1800
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1801
 
-Vervallen
+*Vervallen*
 
-### afdeeling Vierde. Van het ter leen geven op interessen
+#### afdeeling Vierde. Van het ter leen geven op interessen
 
 ##### Artikel 1804
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1805
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1806
 
-Vervallen
+*Vervallen*
 
-## titel Vijftiende. Van gevestigde of altijddurende renten
+### titel Vijftiende. Van gevestigde of altijddurende renten
 
 ##### Artikel 1807
 
@@ -1294,41 +1272,41 @@ De schuldenaar eener altijddurende rente kan tot de aflossing genoodzaakt worden
 
 In de twee eerste gevallen, bij het vorige artikel vermeld, kan de schuldenaar zich van de verpligting tot aflossing ontheffen, indien hij binnen de twintig dagen, te rekenen van de geregtelijke aanmaning, alle de verschenen termijnen betaalt of de beloofde zekerheid stelt.
 
-## titel Zestiende. Van kans-overeenkomsten
+### titel Zestiende. Van kans-overeenkomsten
 
-### afdeeling Eerste. Algemeene bepalingen
+#### afdeeling Eerste. Algemeene bepalingen
 
 ##### Artikel 1811
 
-Vervallen
+*Vervallen*
 
-### afdeeling Tweede. Van de overeenkomst van lijfrenten en derzelver gevolgen
+#### afdeeling Tweede. Van de overeenkomst van lijfrenten en derzelver gevolgen
 
 ##### Artikel 1813
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1814
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1817
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1819
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1822
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1824
 
-Vervallen
+*Vervallen*
 
-### afdeeling Derde. Van spel en weddingschap
+#### afdeeling Derde. Van spel en weddingschap
 
 ##### Artikel 1825
 
@@ -1348,234 +1326,154 @@ Van de vorige twee artikelen kan op generlei wijze worden afgeweken.
 
 In geen geval, kan hij die het verlorene vrijwillig betaald heeft hetzelve terug eischen, ten ware, van den kant van dengenen die gewonnen heeft, bedrog, list of opligting hebbe plaats gehad.
 
-## titel Zeventiende. Van lastgeving
+### titel Zeventiende. Van lastgeving
 
 ##### Artikel 1829
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1830
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1831
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1832
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1833
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1834
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1835
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1836
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1837
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1838
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1839
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1840
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1841
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1842
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1843
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1844
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1845
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1846
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1847
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1848
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1849
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1850
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1851
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1852
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1853
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1854
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1855
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1856
 
-Vervallen
+*Vervallen*
 
-## titel Negentiende. Van dading
+### titel Negentiende. Van dading
 
 ##### Artikel 1889
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1890
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1891
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1892
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1893
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1894
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 1901
 
-Vervallen
+*Vervallen*
 
-## Algemene slotbepaling
+### Algemene slotbepaling
 
 ##### Artikel 2031
 
-1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=280), en [281, tweede lid van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=281) en [252 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=252), alsmede in [titel 10 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10), met uitzondering van de termijnen gesteld in [artikel 686a, lid 4, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=686a).
+1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=280), en [281, tweede lid van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=281) en [252 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=252), alsmede in [titel 10 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10), met uitzondering van de termijnen gesteld in [artikel 686a, lid 4, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=686a).
 
 2. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) als zodanig genoemde en de bij of krachtens dat artikel daarmede gelijkgestelde dagen.
-
-##### Artikel 1597
-
-Vervallen
-
-### afdeeling Derde. Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
-
-### afdeling Vierde. Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte
-
-### afdeling Vijfde. Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte
-
-## Zevende titel A
-
-### afdeeling Eerste. Algemeene bepalingen
-
-### afdeeling Tweede. Van de arbeidsovereenkomst in het algemeen
-
-### afdeeling Derde. Van de verplichtingen des werkgevers
-
-### afdeeling Vierde. Van de verplichtingen des arbeiders
-
-### afdeeling Vijfde. Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
-
-### Vijfde afdeling A
-
-### afdeeling Zesde. Van aanneming van werk
-
-## titel Negende. Van maatschap
-
-### afdeeling Eerste. Algemeene bepalingen
-
-### afdeeling Tweede. Van de verbindtenissen der vennooten onderling
-
-### afdeeling Derde. Van de verbindtenissen der vennooten ten aanzien van derden
-
-### afdeeling Vierde. Van de verschillende wijzen waarop de maatschap eindigt
-
-## titel Elfde. Vervallen
-
-### afdeeling Eerste. Vervallen
-
-### afdeeling Tweede. Vervallen
-
-### afdeeling Derde. Van den vorm der schenkingen
-
-### afdeeling Vierde. Van het herroepen en te niet doen van schenkingen
-
-## titel Dertiende. Van bruikleening
-
-### afdeeling Eerste. Algemeene bepalingen
-
-### afdeeling Tweede. Van de verpligtingen van dengenen die iets ter bruikleening ontvangt
-
-### afdeeling Derde. Van de verpligtingen van den uitleener
-
-## titel Veertiende. Van verbruikleening
-
-### afdeeling Eerste. Algemeene bepalingen
-
-### afdeeling Tweede. Van de verpligtingen des uitleeners
-
-### afdeeling Derde. Van de verpligtingen des leeners
-
-### afdeeling Vierde. Van het ter leen geven op interessen
-
-## titel Vijftiende. Van gevestigde of altijddurende renten
-
-## titel Zestiende. Van kans-overeenkomsten
-
-### afdeeling Eerste. Algemeene bepalingen
-
-### afdeeling Tweede. Van de overeenkomst van lijfrenten en derzelver gevolgen
-
-### afdeeling Derde. Van spel en weddingschap
-
-## titel Zeventiende. Van lastgeving
-
-## titel Negentiende. Van dading
-
-## Algemene slotbepaling

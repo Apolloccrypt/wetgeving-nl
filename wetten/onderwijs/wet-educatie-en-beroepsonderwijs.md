@@ -6,10 +6,11 @@ categorie: "Onderwijs"
 soort: "wet"
 publicatiedatum: 2026-01-01
 laatste_update: 2026-01-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-07-31
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007625"
-opgehaald: 2026-07-31
+opgehaald: 2026-08-01
 ---
 
 # Wet van 31 oktober 1995, houdende bepalingen met betrekking tot de educatie en het beroepsonderwijs

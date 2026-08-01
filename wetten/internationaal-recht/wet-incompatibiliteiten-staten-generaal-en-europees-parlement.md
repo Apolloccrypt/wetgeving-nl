@@ -1,43 +1,18 @@
 ---
 title: "Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van het Europees Parlement uit te oefenen openbare betrekkingen"
+citeertitel: "Wet Incompatibiliteiten Staten-Generaal en Europees Parlement"
 identifier: "BWBR0006612"
-country: "nl"
-rank: "wet"
-publication_date: "2024-12-11"
-last_updated: "2024-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006612"
+categorie: "Overig"
 soort: "wet"
-stam_id: "377273"
-version_id: "554302"
-internal_id: "C34097101"
-label_id: "368254"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006612/2024-12-11/0"
-intitule_bron: "Stb.1994-295"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-04-20"
-intitule_status: "goed"
-original_publication: "Stb.1994-295"
-original_signed_date: "1994-04-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "22769"
-entry_into_force_date: "1994-04-29"
-jci_1_3: "jci1.3:c:BWBR0006612&z=2024-12-11&g=2024-12-11"
-jci_1_0: "1.0:c:BWBR0006612&g=2024-12-11"
-citeertitel_status: "officieel"
-short_title: "Wet Incompatibiliteiten Staten-Generaal en Europees Parlement"
-signed_date: "1994-04-20"
-entry_into_force: "1994-04-29"
+publicatiedatum: 1994-04-29
+laatste_update: 2024-12-11
+status: geldig
+toestand: 2024-12-11
+bron: "https://wetten.overheid.nl/BWBR0006612"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van het Europees Parlement uit te oefenen openbare betrekkingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gelet op [artikel 57, vierde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=57) (**Stb.** 1987, 458) wenselijk is te bepalen welke andere openbare betrekkingen dan de in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) vermelde niet gelijktijdig met het lidmaatschap van de Staten-Generaal kunnen worden uitgeoefend, alsmede ter uitvoering van artikel 6, tweede lid, van de Akte betreffende de rechtstreekse verkiezing van de leden van het Europees Parlement (**Trb.** 1976, 175) nadere bepalingen op te nemen over het verenigen van openbare betrekkingen met het lidmaatschap van het Europees Parlement en voorts rechtspositionele voorzieningen te treffen voor gevallen waarin bepaalde openbare betrekkingen niet gelijktijdig met het lidmaatschap van de Staten-Generaal of met dat van het Europees Parlement kunnen worden uitgeoefend;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -119,7 +94,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Degene die op non-activiteit is gesteld, is van het ogenblik af dat hij is toegelaten, ontheven van de waarneming van het ambt, zulks, voor zover de ambtsbetrekking niet eerder eindigt, tot op het ogenblik, waarop hij, nadat hij heeft opgehouden lid te zijn, in actieve dienst wordt hersteld.
 
-4. Gedurende de non-activiteit wordt het loon of de bezoldiging met inbegrip van toelagen ingehouden.
+4. Gedurende de non-activiteit wordt het loon of de bezoldiging met inbegrip van toelagen ingehouden.
 
 5. De militair behorende tot het reserve-personeel van de krijgsmacht, de dienstplichtige militair en de tewerkgestelde erkend gewetensbezwaarde is van het ogenblik dat hij tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten en voorzolang hij dat lidmaatschap uitoefent, van rechtswege met groot verlof.
 
@@ -157,11 +132,11 @@ Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak gee
 
 ##### Artikel 8
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 9
 
-1. Degenen die ingevolge de wet van 17 juli 1923 (**Stb.** 364), additioneel artikel XVII van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of artikel 3 van de Wet Incompatibiliteiten Europees Parlement (**Stb.** 1978, 653) op non-activiteit zijn gesteld, blijven gedurende hun lidmaatschap van de kamer der Staten-Generaal waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement, op non-activiteit, doch uiterlijk tot het einde van de zittingsduur van de kamer waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement.
+1. Degenen die ingevolge de wet van 17 juli 1923 (*Stb.* 364), additioneel artikel XVII van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of artikel 3 van de Wet Incompatibiliteiten Europees Parlement (*Stb.* 1978, 653) op non-activiteit zijn gesteld, blijven gedurende hun lidmaatschap van de kamer der Staten-Generaal waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement, op non-activiteit, doch uiterlijk tot het einde van de zittingsduur van de kamer waarin zij zijn gekozen, onderscheidenlijk van het Europees Parlement.
 
 2. Zij behouden gedurende die periode de aanspraken, omschreven in de artikelen 4 en 6 van de wet van 17 juli 1923. Gedurende die periode blijft artikel 5 van de wet van 17 juli 1923 voor de leden van de Tweede Kamer, onderscheidenlijk van het Europees Parlement van toepassing.
 
@@ -171,16 +146,14 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 10
 
-De wet van 17 juli 1923 en het koninklijk besluit van 1 mei 1925 (**Stb.** 175), worden ingetrokken.
+De wet van 17 juli 1923 en het koninklijk besluit van 1 mei 1925 (*Stb.* 175), worden ingetrokken.
 
 ##### Artikel 11
 
-De Wet Incompatibiliteiten Europees Parlement (**Stb.** 1978, 653) wordt ingetrokken.
+De Wet Incompatibiliteiten Europees Parlement (*Stb.* 1978, 653) wordt ingetrokken.
 
 ##### Artikel 12
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Deze wet kan worden aangehaald als: Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

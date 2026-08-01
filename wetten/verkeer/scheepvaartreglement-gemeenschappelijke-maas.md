@@ -1,38 +1,17 @@
 ---
 title: "Besluit van 21 april 1994, houdende het van kracht verklaren voor de gemeenschappelijke Maas in Nederland van het Scheepvaartreglement Gemeenschappelijke Maas"
+citeertitel: "Scheepvaartreglement Gemeenschappelijke Maas"
 identifier: "BWBR0006618"
-country: "nl"
-rank: "kb"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006618"
+categorie: "Verkeer"
 soort: "KB"
-stam_id: "3116633"
-version_id: "4820082"
-internal_id: "C27139031"
-label_id: "3082634"
-dtd_version: "2.0"
-original_entry_into_force: "1994-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006618/2013-01-01/0"
-intitule_bron: "Stb.1994-340"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-04-21"
-intitule_published: "1994-05-24"
-intitule_in_force: "1994-05-24"
-intitule_status: "goed"
-original_publication: "Stb.1994-340"
-original_signed_date: "1994-04-21"
-original_published_date: "1994-05-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-05-01"
-jci_1_3: "jci1.3:c:BWBR0006618&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0006618&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Scheepvaartreglement Gemeenschappelijke Maas"
-signed_date: "1994-04-21"
-entry_into_force: "1994-05-01"
+publicatiedatum: 1994-05-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0006618"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 21 april 1994, houdende het van kracht verklaren voor de gemeenschappelijke Maas in Nederland van het Scheepvaartreglement Gemeenschappelijke Maas
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,7 +20,7 @@ entry_into_force: "1994-05-01"
 
 Dit reglement is van toepassing op de Gemeenschappelijke Maas. Hieronder worden verstaan de tot de Maas behorende wateren:
 
-- a. van de grens bij grenspaal 45 (Lixhe) tot de grens bij grenspaal 49 (Klein Ternaaien) met inbegrip van het - als gevolg van de werken bedoeld in artikel 2, paragraaf 1, onder **f**, van het op 24 februari 1961 te Brussel gesloten verdrag tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal - rechtgetrokken en genormaliseerde gedeelte en met uitzondering van de twee meest benedenstrooms gelegen afgesneden rivierbochten; en
+- a. van de grens bij grenspaal 45 (Lixhe) tot de grens bij grenspaal 49 (Klein Ternaaien) met inbegrip van het - als gevolg van de werken bedoeld in artikel 2, paragraaf 1, onder *f*, van het op 24 februari 1961 te Brussel gesloten verdrag tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal - rechtgetrokken en genormaliseerde gedeelte en met uitzondering van de twee meest benedenstrooms gelegen afgesneden rivierbochten; en
 
 - b. van de grens bij grenspaal 106 (Smeermaas-Borgharen) tot de grens bij grenspaal 126 (Kessenich-Stevensweert).
 
@@ -63,19 +42,19 @@ In dit reglement wordt verstaan onder:
 
 - g. klein schip: een schip waarvan de lengte minder dan 20 m bedraagt, waartoe als de lengte wordt aangemerkt de afstand van de voorkant van het voorste tot de achterkant van het achterste vaste deel van de romp, zonder de boegspriet, de papegaaistok en het trimvlak, zulks met uitzondering van:
 
-- -. een schip dat is gebouwd of ingericht om andere dan kleine schepen te slepen, te assisteren, te duwen of langszijde vastgemaakt mede te voeren;
+   - - een schip dat is gebouwd of ingericht om andere dan kleine schepen te slepen, te assisteren, te duwen of langszijde vastgemaakt mede te voeren;
 
-- -. een schip dat meer dan 12 passagiers mag vervoeren;
+   - - een schip dat meer dan 12 passagiers mag vervoeren;
 
 - h. samenstel:
 
-- -. een sleep;
+   - - een sleep;
 
-- -. een duwstel;
+   - - een duwstel;
 
-- -. een gekoppeld samenstel;
+   - - een gekoppeld samenstel;
 
-- -. een samenstel van één of meer motorschepen en een alleenvarend motorschip, een duwstel of een gekoppeld samenstel;
+   - - een samenstel van één of meer motorschepen en een alleenvarend motorschip, een duwstel of een gekoppeld samenstel;
 
 - i. snelle motorboot: een race-, glij- of speedboot dan wel soortgelijk klein schip dat met een snelheid van meer dan 20 km/u vaart of kan varen;
 
@@ -127,9 +106,9 @@ de lengte meer is dan 100 m, de breedte meer is dan 12 m, of de diepgang meer is
 
 2. De bepaling betreffende de leeftijd geldt niet:
 
-- -. voor een zeilschip met een lengte van minder dan 7 m;
+- - voor een zeilschip met een lengte van minder dan 7 m;
 
-- -. voor een door spierkracht voortbewogen schip.
+- - voor een door spierkracht voortbewogen schip.
 
 3. In afwijking van het eerste lid mag een snelle motorboot slechts deelnemen aan de scheepvaart indien deze bestuurd wordt door een daartoe bekwaam en tenminste 18 jaar oud persoon of door een bekwaam persoon van tenminste 16 jaar oud bijgestaan door een stuurbekwaam persoon van tenminste 18 jaar oud.
 
@@ -251,7 +230,7 @@ De schipper moet de voorschriften van tijdelijke aard naleven die in bijzondere 
 
 2. Op een bijboot van een schip behoeft echter, aan de binnen- of de buitenzijde, slechts een zodanig kenteken te zijn aangebracht, dat daaruit kan worden opgemaakt wie de eigenaar is.
 
-3. Onverminderd het bepaalde in het tweede lid is het eerste lid, onder **b**, niet van toepassing op een door spierkracht voortbewogen schip noch op een zeilschip met een lengte van minder dan 7 m.
+3. Onverminderd het bepaalde in het tweede lid is het eerste lid, onder *b*, niet van toepassing op een door spierkracht voortbewogen schip noch op een zeilschip met een lengte van minder dan 7 m.
 
 4. Onverminderd de bepalingen van het eerste lid moet een snelle motorboot ook nog voorzien zijn van een bijzonder kenteken dat is aangebracht aan weerszijden van de romp en toegekend is door:
 
@@ -263,9 +242,9 @@ Aan boord van een varende snelle motorboot moet het certificaat of document van 
 
 De afmetingen van de letters en cijfers moeten bedragen:
 
-- i. in het geval bedoeld onder **a**: hoogte tenminste 150 mm, breedte 100 mm, stamdikte 20 mm;
+- i. in het geval bedoeld onder *a*: hoogte tenminste 150 mm, breedte 100 mm, stamdikte 20 mm;
 
-- ii. in het geval bedoeld onder **b**: hoogte 210 mm, breedte 120 mm, stamdikte 40 mm.
+- ii. in het geval bedoeld onder *b*: hoogte 210 mm, breedte 120 mm, stamdikte 40 mm.
 
 Het voornoemde kenteken moet duidelijk leesbaar en onuitwisbaar zijn; het moet licht van kleur zijn op donkere ondergrond of donker van kleur op lichte ondergrond.
 
@@ -325,9 +304,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - e. hoogte:
 
-- -. hetzij: de hoogte boven het vlak door de onderkant der inzinkingsmerken ter plaatse van de grootst toegelaten diepgang, zoals deze ingevolge de voorschriften omtrent het vlak van de grootst toegelaten diepgang van binnenschepen voor het schip is vastgesteld voor de Rijn of daarmede volgens die voorschriften gelijkgestelde vaarwegen;
+   - - hetzij: de hoogte boven het vlak door de onderkant der inzinkingsmerken ter plaatse van de grootst toegelaten diepgang, zoals deze ingevolge de voorschriften omtrent het vlak van de grootst toegelaten diepgang van binnenschepen voor het schip is vastgesteld voor de Rijn of daarmede volgens die voorschriften gelijkgestelde vaarwegen;
 
-- -. hetzij: voor een schip dat niet is voorzien van inzinkingsmerken: de hoogte boven het bovenste doorlopende dek of bij gebreke hieraan boven het potdeksel.
+   - - hetzij: voor een schip dat niet is voorzien van inzinkingsmerken: de hoogte boven het bovenste doorlopende dek of bij gebreke hieraan boven het potdeksel.
 
 ##### Artikel 3.02. Lichten
 
@@ -417,7 +396,7 @@ Een gekoppeld samenstel moet voeren:
 
 - a. een toplicht op elk schip. Echter mag op een schip dat geen motorschip is, in plaats van dit licht, worden gevoerd een wit helder rondom schijnend licht, op een geschikte plaats en niet hoger dan het toplicht van het motorschip of de toplichten van de motorschepen. Deze lichten moeten voldoen aan [artikel 3.08, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.08&z=2013-01-01&g=2013-01-01), resp. aan [artikel 3.09, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.09&z=2013-01-01&g=2013-01-01);
 
-- b. boordlichten aan de buitenzijden van het samenstel, voor zover mogelijk op onderling dezelfde hoogte en tenminste 1 m lager dan het laagste licht, bedoeld onder **a**. Deze lichten moeten overigens voldoen aan [artikel 3.08, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.08&z=2013-01-01&g=2013-01-01);
+- b. boordlichten aan de buitenzijden van het samenstel, voor zover mogelijk op onderling dezelfde hoogte en tenminste 1 m lager dan het laagste licht, bedoeld onder *a*. Deze lichten moeten overigens voldoen aan [artikel 3.08, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.08&z=2013-01-01&g=2013-01-01);
 
 - c. een heklicht op elk schip.
 
@@ -445,11 +424,11 @@ Deze lichten moeten voldoen aan [artikel 3.08, eerste lid onder b en c](https://
 
 - b. boordlichten. Zij mogen gewone lichten zijn. Zij moeten worden aangebracht,
 
-- -. hetzij: zoals voorgeschreven bij [artikel 3.08, eerste lid onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.08&z=2013-01-01&g=2013-01-01);
+   - - hetzij: zoals voorgeschreven bij [artikel 3.08, eerste lid onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.08&z=2013-01-01&g=2013-01-01);
 
-- -. hetzij: onmiddellijk naast elkaar of in één lantaarn verenigd in de lengte-as van het schip aan of nabij de boeg;
+   - - hetzij: onmiddellijk naast elkaar of in één lantaarn verenigd in de lengte-as van het schip aan of nabij de boeg;
 
-- c. een heklicht op het achterschip, op zodanige hoogte dat het voor een oploper goed zichtbaar is. Dit licht behoeft niet te worden gevoerd, indien, in plaats van het onder **a** bedoelde toplicht, een wit helder rondom schijnend licht wordt gevoerd.
+- c. een heklicht op het achterschip, op zodanige hoogte dat het voor een oploper goed zichtbaar is. Dit licht behoeft niet te worden gevoerd, indien, in plaats van het onder *a* bedoelde toplicht, een wit helder rondom schijnend licht wordt gevoerd.
 
 1bis. Een alleenvarend klein open motorschip met een lengte van minder dan 7 m waarvan de hoogst bereikbare snelheid niet meer is dan 13 km per uur mag, in plaats van de bij het eerste lid voorgeschreven lichten, een wit gewoon rondom schijnend licht voeren.
 
@@ -459,11 +438,11 @@ Deze lichten moeten voldoen aan [artikel 3.08, eerste lid onder b en c](https://
 
 4. Een klein zeilschip moet voeren:
 
-- -. hetzij boordlichten en een heklicht, zodanig dat de boordlichten naast elkaar of in één lantaarn verenigd in de lengte-as van het schip aan of nabij de boeg en het heklicht op het achterschip zijn aangebracht. De boordlichten mogen gewone lichten zijn;
+- - hetzij boordlichten en een heklicht, zodanig dat de boordlichten naast elkaar of in één lantaarn verenigd in de lengte-as van het schip aan of nabij de boeg en het heklicht op het achterschip zijn aangebracht. De boordlichten mogen gewone lichten zijn;
 
-- -. hetzij boordlichten en een heklicht, verenigd in één lantaarn, aan of nabij de top van de mast waar deze het best kan worden gezien. Dit mag een gewoon licht zijn;
+- - hetzij boordlichten en een heklicht, verenigd in één lantaarn, aan of nabij de top van de mast waar deze het best kan worden gezien. Dit mag een gewoon licht zijn;
 
-- -. hetzij, indien de lengte van het schip minder dan 7 m bedraagt, een wit gewoon rondom schijnend licht op een zodanige hoogte, dat het van alle zijden zichtbaar is. Het schip moet dan bovendien bij het naderen van een ander schip, bij gevaar voor aanvaring, een tweede wit gewoon licht tonen.
+- - hetzij, indien de lengte van het schip minder dan 7 m bedraagt, een wit gewoon rondom schijnend licht op een zodanige hoogte, dat het van alle zijden zichtbaar is. Het schip moet dan bovendien bij het naderen van een ander schip, bij gevaar voor aanvaring, een tweede wit gewoon licht tonen.
 
 5. Een klein door spierkracht voortbewogen schip moet een wit gewoon rondom schijnend licht voeren.
 
@@ -515,9 +494,9 @@ een wit gewoon rondom schijnend licht waar dit het best kan worden gezien.
 
 - a. aan de zijde waar de doorvaart vrij is: twee groene heldere of gewone rondom schijnende lichten in een verticale lijn met een onderlinge afstand van ongeveer 1 m;
 
-- b. aan de zijde waar de doorvaart niet vrij is: een rood rondom schijnend licht op dezelfde hoogte als het bovenste van de onder **a** voorgeschreven groene lichten en van dezelfde lichtsterkte als die lichten; of, in het geval dat deze schepen tevens tegen hinderlijke waterbeweging beschermd willen worden: c. aan de zijde waar de doorvaart vrij is: een rood helder of gewoon rondom schijnend licht en een wit helder of gewoon rondom schijnend licht in een verticale lijn, met een onderlinge afstand van ongeveer 1 m, het bovenste rood en het onderste wit; d. aan de zijde waar de doorvaart niet vrij is: een rood rondom schijnend licht op dezelfde hoogte als het onder **c** voorgeschreven rode licht en van dezelfde lichtsterkte als dit licht. Deze lichten moeten zijn aangebracht op een zodanige hoogte, dat zij van alle zijden zichtbaar zijn.
+- b. aan de zijde waar de doorvaart niet vrij is: een rood rondom schijnend licht op dezelfde hoogte als het bovenste van de onder *a* voorgeschreven groene lichten en van dezelfde lichtsterkte als die lichten; of, in het geval dat deze schepen tevens tegen hinderlijke waterbeweging beschermd willen worden: c. aan de zijde waar de doorvaart vrij is: een rood helder of gewoon rondom schijnend licht en een wit helder of gewoon rondom schijnend licht in een verticale lijn, met een onderlinge afstand van ongeveer 1 m, het bovenste rood en het onderste wit; d. aan de zijde waar de doorvaart niet vrij is: een rood rondom schijnend licht op dezelfde hoogte als het onder *c* voorgeschreven rode licht en van dezelfde lichtsterkte als dit licht. Deze lichten moeten zijn aangebracht op een zodanige hoogte, dat zij van alle zijden zichtbaar zijn.
 
-2. Een vastgevaren of gezonken schip moet de bij het eerste lid onder **c** en **d** voorgeschreven lichten voeren. Indien een gezonken schip zodanig ligt dat daarop de lichten niet kunnen worden aangebracht, moeten deze op roeiboten of op een andere doelmatige wijze zijn geplaatst.
+2. Een vastgevaren of gezonken schip moet de bij het eerste lid onder *c* en *d* voorgeschreven lichten voeren. Indien een gezonken schip zodanig ligt dat daarop de lichten niet kunnen worden aangebracht, moeten deze op roeiboten of op een andere doelmatige wijze zijn geplaatst.
 
 3. De bevoegde autoriteit kan ontheffing verlenen van de verplichting tot het voeren van de bij het eerste lid voorgeschreven lichten.
 
@@ -573,13 +552,13 @@ een rode vlag waarmee heen en weer wordt gezwaaid. De vlag mag worden vervangen 
 
 - a. aan de zijde waar de doorvaart vrij is: twee groene ruiten in een verticale lijn met een onderlinge afstand van ongeveer 1 m;
 
-- b. aan de zijde waar de doorvaart niet vrij is: een rode bol op dezelfde hoogte als de bovenste van de onder **a** voorgeschreven groene ruiten; of, in het geval dat deze schepen tevens tegen hinderlijke waterbeweging beschermd willen worden:
+- b. aan de zijde waar de doorvaart niet vrij is: een rode bol op dezelfde hoogte als de bovenste van de onder *a* voorgeschreven groene ruiten; of, in het geval dat deze schepen tevens tegen hinderlijke waterbeweging beschermd willen worden:
 
 - c. aan de zijde waar de doorvaart vrij is: een bord waarvan de bovenste helft rood en de onderste helft wit is dan wel twee borden in een verticale lijn, het bovenste rood en het onderste wit;
 
-- d. aan de zijde waar de doorvaart niet vrij is: een rood bord op dezelfde hoogte als het rood-witte bord of als het rode bord, voorgeschreven onder **c**. Deze tekens moeten zijn aangebracht op een zodanige hoogte dat zij van alle zijden zichtbaar zijn. De borden mogen worden vervangen door vlaggen van dezelfde kleur.
+- d. aan de zijde waar de doorvaart niet vrij is: een rood bord op dezelfde hoogte als het rood-witte bord of als het rode bord, voorgeschreven onder *c*. Deze tekens moeten zijn aangebracht op een zodanige hoogte dat zij van alle zijden zichtbaar zijn. De borden mogen worden vervangen door vlaggen van dezelfde kleur.
 
-2. Een vastgevaren of gezonken schip moet de bij het eerste lid onder **c** en **d** voorgeschreven tekens voeren. Indien een gezonken schip zodanig ligt dat daarop de tekens niet kunnen worden aangebracht, moeten deze op roeiboten of op een andere doelmatige wijze zijn geplaatst.
+2. Een vastgevaren of gezonken schip moet de bij het eerste lid onder *c* en *d* voorgeschreven tekens voeren. Indien een gezonken schip zodanig ligt dat daarop de tekens niet kunnen worden aangebracht, moeten deze op roeiboten of op een andere doelmatige wijze zijn geplaatst.
 
 3. De bevoegde autoriteit kan ontheffing verlenen van de verplichting tot het voeren van de bij het eerste lid voorgeschreven tekens.
 
@@ -601,15 +580,15 @@ Hetzelfde geldt voor een brandweerboot, die hulp biedt of daartoe op weg is.
 
 1. Een in nood verkerend schip, dat hulp wil inroepen, moet de volgende seinen, hetzij afzonderlijk hetzij een combinatie hiervan, tonen dan wel geven:
 
-- -. een vlag of ieder ander geschikt voorwerp waarmee in het rond wordt gezwaaid;
+- - een vlag of ieder ander geschikt voorwerp waarmee in het rond wordt gezwaaid;
 
-- -. een licht waarmee in het rond wordt gezwaaid;
+- - een licht waarmee in het rond wordt gezwaaid;
 
-- -. vuurpijlen, lichtkogels, parachutelichten of rookbommen dan wel vlammen;
+- - vuurpijlen, lichtkogels, parachutelichten of rookbommen dan wel vlammen;
 
-- -. een vlag met daarboven of daaronder een bol of een daarop gelijkend voorwerp;
+- - een vlag met daarboven of daaronder een bol of een daarop gelijkend voorwerp;
 
-- -. reeksen klokslagen of herhaalde lange stoten.
+- - reeksen klokslagen of herhaalde lange stoten.
 
 2. Een schip, dat medische hulp wil inroepen, mag geven: vier korte stoten, gevolgd door één lange stoot.
 
@@ -623,13 +602,13 @@ Hetzelfde geldt voor een brandweerboot, die hulp biedt of daartoe op weg is.
 
 1. De te gebruiken geluidsseinen zijn de volgende:
 
-- -. zeer korte stoot: geluidssein met een tijdsduur van ongeveer een kwart seconde;
+- - zeer korte stoot: geluidssein met een tijdsduur van ongeveer een kwart seconde;
 
-- -. korte stoot: geluidssein met een tijdsduur van ongeveer 1 seconde;
+- - korte stoot: geluidssein met een tijdsduur van ongeveer 1 seconde;
 
-- -. lange stoot: geluidssein met een tijdsduur van ongeveer 4 seconden;
+- - lange stoot: geluidssein met een tijdsduur van ongeveer 4 seconden;
 
-- -. klokslag: sein met de scheepsklok.
+- - klokslag: sein met de scheepsklok.
 
 De tijdruimte tussen twee opeenvolgende stoten bedraagt ongeveer 1 seconde. Een reeks zeer korte stoten wordt gevormd door ten minste 6 stoten, elk durende ongeveer een kwart seconde waarbij de tijdruimte tussen de opeenvolgende stoten ongeveer een kwart seconde bedraagt.
 
@@ -651,17 +630,17 @@ De tijdruimte tussen twee opeenvolgende stoten bedraagt ongeveer 1 seconde. Een 
 
 1. Een schip, met uitzondering van een klein schip, moet zo nodig zijn handelingen door de volgende geluidsseinen kenbaar maken:
 
-- -. één lange stoot: Attentie.
+- - één lange stoot: Attentie.
 
-- -. één korte stoot: Ik ga stuurboord uit.
+- - één korte stoot: Ik ga stuurboord uit.
 
-- -. twee korte stoten: Ik ga bakboord uit.
+- - twee korte stoten: Ik ga bakboord uit.
 
-- -. drie korte stoten: Ik sla achteruit.
+- - drie korte stoten: Ik sla achteruit.
 
-- -. vier korte stoten: Ik kan niet manoeuvreren.
+- - vier korte stoten: Ik kan niet manoeuvreren.
 
-- -. reeks zeer korte stoten: Er dreigt gevaar voor aanvaring.
+- - reeks zeer korte stoten: Er dreigt gevaar voor aanvaring.
 
 2. Een klein schip moet zonodig het attentiesein en het sein "Ik kan niet manoeuvreren" geven en het mag zonodig één der overige algemene geluidsseinen geven.
 
@@ -695,7 +674,7 @@ Een schip mag slechts van de geluidsinstallatie dan wel van de scheepstoeter of 
 
 - b. oplopen: het naderen door een schip van een ander schip uit een richting van meer dan 22°30' achterlijker dan dwars van dat schip.
 
-2. Indien een schip in twijfel verkeert, of een situatie, zoals bedoeld in het eerste lid onder **a** en **b** bestaat, moet het aannemen dat zulks het geval is en moet het dienovereenkomstig handelen.
+2. Indien een schip in twijfel verkeert, of een situatie, zoals bedoeld in het eerste lid onder *a* en *b* bestaat, moet het aannemen dat zulks het geval is en moet het dienovereenkomstig handelen.
 
 ##### Artikel 6.02. Kleine schepen; algemene bepalingen
 
@@ -719,19 +698,19 @@ Een schip mag slechts van de geluidsinstallatie dan wel van de scheepstoeter of 
 
 2. Indien de koersen van een klein motorschip, een klein zeilschip of een klein door spierkracht voortbewogen schip elkaar kruisen, zó, dat gevaar voor aanvaring bestaat, moet, in afwijking van het eerste lid,
 
-- -. het motorschip uitwijken voor het andere schip, en
+- - het motorschip uitwijken voor het andere schip, en
 
-- -. het door spierkracht voortbewogen schip uitwijken voor het zeilschip.
+- - het door spierkracht voortbewogen schip uitwijken voor het zeilschip.
 
 Het schip dat de zijde van het vaarwater aan stuurboord houdt moet echter zijn weg vervolgen.
 
 3. Indien de koersen van twee zeilschepen elkaar kruisen, zó, dat gevaar voor aanvaring bestaat, moet, in afwijking van het eerste lid,
 
-- -. ingeval beide schepen over verschillende boeg liggen, het schip dat over stuurboordsboeg ligt uitwijken voor het schip dat over bakboordsboeg ligt;
+- - ingeval beide schepen over verschillende boeg liggen, het schip dat over stuurboordsboeg ligt uitwijken voor het schip dat over bakboordsboeg ligt;
 
-- -. ingeval beide schepen over dezelfde boeg liggen, het loefwaartse schip uitwijken voor het lijwaartse;
+- - ingeval beide schepen over dezelfde boeg liggen, het loefwaartse schip uitwijken voor het lijwaartse;
 
-- -. ingeval een schip dat over stuurboordsboeg ligt aan zijn loefzijde een schip ziet en niet met zekerheid kan bepalen, of dat schip over stuurboords- dan wel over bakboordsboeg ligt, het daarvoor uitwijken.
+- - ingeval een schip dat over stuurboordsboeg ligt aan zijn loefzijde een schip ziet en niet met zekerheid kan bepalen, of dat schip over stuurboords- dan wel over bakboordsboeg ligt, het daarvoor uitwijken.
 
 Het schip dat de zijde van het vaarwater aan stuurboord houdt moet echter zijn weg vervolgen.
 
@@ -745,9 +724,9 @@ Deze bepaling is niet van toepassing tussen een klein schip en een ander schip.
 
 Deze bepaling is niet van toepassing tussen een klein schip en een ander schip.
 
-2. Indien een klein motorschip, een klein zeilschip en een klein door spierkracht voortbewogen schip recht tegen elkaar insturen, is [artikel 6.03**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.03a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
+2. Indien een klein motorschip, een klein zeilschip en een klein door spierkracht voortbewogen schip recht tegen elkaar insturen, is [artikel 6.03*a*, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.03a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
 
-3. Indien twee zeilschepen recht tegen elkaar insturen, is [artikel 6.03**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.03a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
+3. Indien twee zeilschepen recht tegen elkaar insturen, is [artikel 6.03*a*, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.03a&z=2013-01-01&g=2013-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 6.05. Recht tegen elkaar insturen
 
@@ -757,17 +736,17 @@ Deze bepaling is niet van toepassing tussen een klein schip en een ander schip.
 
 3. Het opvarende schip dat daartoe aan stuurboord voor het afvarende schip de weg vrijlaat moet tijdig aan stuurboord tonen:
 
-- -. een lichtblauw bord, dat van voren en van achteren zichtbaar is, en
+- - een lichtblauw bord, dat van voren en van achteren zichtbaar is, en
 
-- -. een wit helder rondom schijnend flikkerlicht, totdat het voorbijvaren heeft plaatsgehad.
+- - een wit helder rondom schijnend flikkerlicht, totdat het voorbijvaren heeft plaatsgehad.
 
 Het opvarende schip mag deze tekens niet meer tonen, nadat het voorbijvaren heeft plaats gehad, tenzij om eveneens aan een volgend in zicht zijnd afvarend schip aan te duiden dat het voor dit aan stuurboord de weg vrijlaat.
 
 4. Zodra is te vrezen, dat de bedoeling van het opvarende schip niet door het afvarende schip is begrepen, moet het opvarende schip geven:
 
-- -. één korte stoot, indien het voorbijvaren bakboord op bakboord dient te geschieden;
+- - één korte stoot, indien het voorbijvaren bakboord op bakboord dient te geschieden;
 
-- -. twee korte stoten, indien het voorbijvaren stuurboord op stuurboord dient te geschieden.
+- - twee korte stoten, indien het voorbijvaren stuurboord op stuurboord dient te geschieden.
 
 5. Het afvarende schip moet voorbijvaren aan de zijde van het opvarende schip aan welke de weg wordt vrijgelaten. Het afvarende schip moet daartoe de tekens en het geluidssein die het opvarende schip toont of geeft herhalen.
 
@@ -803,9 +782,9 @@ Een schip dat door een zeilschip wordt opgelopen moet, zo mogelijk, ertoe medewe
 
 Hij mag daartoe geven:
 
-- -. één korte stoot, zo hij naar stuurboord uitwijkt;
+- - één korte stoot, zo hij naar stuurboord uitwijkt;
 
-- -. twee korte stoten, zo hij naar bakboord uitwijkt.
+- - twee korte stoten, zo hij naar bakboord uitwijkt.
 
 6. Indien het voorbijlopen niet aan de door de oploper gewenste zijde maar wel aan de andere zijde kan geschieden, moet de opgelopene geven:
 
@@ -815,9 +794,9 @@ Hij mag daartoe geven:
 
 De oploper die onder deze omstandigheden nog wil voorbijlopen moet geven:
 
-- -. twee korte stoten, in het geval onder **a**;
+- - twee korte stoten, in het geval onder *a*;
 
-- -. één korte stoot, in het geval onder **b**.
+- - één korte stoot, in het geval onder *b*.
 
 De opgelopene moet dan voldoende ruimte laten aan de zijde waar het voorbijlopen moet geschieden door zo nodig naar de andere zijde uit te wijken.
 
@@ -835,9 +814,9 @@ De opgelopene moet dan voldoende ruimte laten aan de zijde waar het voorbijlopen
 
 2. Indien daardoor een ander schip zou worden genoodzaakt zijn koers of zijn snelheid te wijzigen, moet het schip dat wil keren dit tijdig tevoren aankondigen door het geven van:
 
-- -. één lange stoot gevolgd door één korte stoot, zo het over stuurboord wil keren,
+- - één lange stoot gevolgd door één korte stoot, zo het over stuurboord wil keren,
 
-- -. één lange stoot gevolgd door twee korte stoten, zo het over bakboord wil keren.
+- - één lange stoot gevolgd door twee korte stoten, zo het over bakboord wil keren.
 
 3. Het andere schip moet dan voorzover nodig en mogelijk zijn koers of zijn snelheid wijzigen om het keren zonder gevaar te kunnen doen geschieden.
 
@@ -847,9 +826,9 @@ De opgelopene moet dan voldoende ruimte laten aan de zijde waar het voorbijlopen
 
 [Artikel 6.13, eerste lid, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.13&z=2013-01-01&g=2013-01-01), zijn eveneens van toepassing op een schip dat zijn ankerplaats of zijn ligplaats verlaat zonder te keren. In plaats van de bij het tweede lid van dat artikel vermelde seinen evenwel moet dit schip geven:
 
-- -. één korte stoot, zo het stuurboord uitgaat,
+- - één korte stoot, zo het stuurboord uitgaat,
 
-- -. twee korte stoten, zo het bakboord uitgaat.
+- - twee korte stoten, zo het bakboord uitgaat.
 
 ##### Artikel 6.15. Verbod zich in de tussenruimten tussen de lengten van een sleep te begeven
 
@@ -863,15 +842,15 @@ Een vóór stroom varend schip dat is genoodzaakt op te draaien om een haven of 
 
 2. Indien door één der in het eerste lid bedoelde manoeuvres een ander schip zou of kan worden genoodzaakt zijn koers of zijn snelheid te wijzigen, moet het schip zijn manoeuvre tijdig tevoren aankondigen door het geven van:
 
-- -. drie lange stoten gevolgd door één korte stoot, zo het na het uitvaren dan wel vóór het invaren stuurboord uit zal gaan;
+- - drie lange stoten gevolgd door één korte stoot, zo het na het uitvaren dan wel vóór het invaren stuurboord uit zal gaan;
 
-- -. drie lange stoten gevolgd door twee korte stoten, zo het na het uitvaren dan wel vóór het invaren bakboord uit zal gaan;
+- - drie lange stoten gevolgd door twee korte stoten, zo het na het uitvaren dan wel vóór het invaren bakboord uit zal gaan;
 
-- -. drie lange stoten, zo het na het uitvaren de vaarweg zal oversteken. Vóór het einde van het oversteken moet het schip zo nodig geven:
+- - drie lange stoten, zo het na het uitvaren de vaarweg zal oversteken. Vóór het einde van het oversteken moet het schip zo nodig geven:
 
-- -. één lange stoot gevolgd door één korte stoot, zo het stuurboord uit wil gaan;
+- - één lange stoot gevolgd door één korte stoot, zo het stuurboord uit wil gaan;
 
-- -. één lange stoot gevolgd door twee korte stoten, zo het bakboord uit wil gaan.
+- - één lange stoot gevolgd door twee korte stoten, zo het bakboord uit wil gaan.
 
 3. Het andere schip moet dan zo nodig zijn koers of zijn snelheid wijzigen.
 
@@ -903,7 +882,7 @@ Een schip moet zijn snelheid zodanig regelen, dat hinderlijke waterbeweging waar
 
 - c. in de nabijheid van een schip dat op een gebruikelijke ligplaats stilligt;
 
-- d. bij het voorbijvaren van een schip als bedoeld in de [artikelen 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.27&z=2013-01-01&g=2013-01-01) en [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.41&z=2013-01-01&g=2013-01-01) aan de zijde waar de tekens van het eerste lid onder **c** van elk dezer artikelen worden getoond. Het moet voorts zover mogelijk daarvan verwijderd blijven.
+- d. bij het voorbijvaren van een schip als bedoeld in de [artikelen 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.27&z=2013-01-01&g=2013-01-01) en [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=3&artikel=3.41&z=2013-01-01&g=2013-01-01) aan de zijde waar de tekens van het eerste lid onder *c* van elk dezer artikelen worden getoond. Het moet voorts zover mogelijk daarvan verwijderd blijven.
 
 ##### Artikel 6.21. Manoeuvreerbaarheid van schepen en van samenstellen
 
@@ -981,13 +960,13 @@ Het sein mag worden herhaald.
 
 - a. nabij Eisden-Ternaaien
 
-- -. tussen km 4.970 en km 5.970;
+   - - tussen km 4.970 en km 5.970;
 
-- -. tussen km 5.970 en km 6.790, uitsluitend op de rechterhelft van de vaarweg;
+   - - tussen km 5.970 en km 6.790, uitsluitend op de rechterhelft van de vaarweg;
 
 - b. nabij Maaseik
 
-- -. tussen km 59.500 en km 61.500.
+   - - tussen km 59.500 en km 61.500.
 
 4. De bevoegde autoriteit kan de vakken bedoeld in het tweede en het derde lid wijzigen. Een dergelijke wijziging verbindt niet eerder dan nadat zij door middel van een bekendmaking is afgekondigd.
 
@@ -997,7 +976,7 @@ Het sein mag worden herhaald.
 
 2. Het is verboden met de motor van een snelle motorboot onnodige geluidshinder te veroorzaken, dan wel deze motor onnodig lang of zonder redelijk doel in werking te houden.
 
-3. In de vakken van de vaarweg bedoeld in [artikel 6.33**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.33a&z=2013-01-01&g=2013-01-01), is het verboden met een grotere snelheid te varen dan 16 km/u:
+3. In de vakken van de vaarweg bedoeld in [artikel 6.33*a*, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.33a&z=2013-01-01&g=2013-01-01), is het verboden met een grotere snelheid te varen dan 16 km/u:
 
 - a. vóór tien uur 's morgens;
 
@@ -1011,11 +990,11 @@ Het sein mag worden herhaald.
 
 - f. bij een zicht van minder dan 150 m.
 
-4. Waterskiën is uitsluitend toegestaan op de vakken vermeld in [artikel 6.33**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.33a&z=2013-01-01&g=2013-01-01).
+4. Waterskiën is uitsluitend toegestaan op de vakken vermeld in [artikel 6.33*a*, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.33a&z=2013-01-01&g=2013-01-01).
 
 ##### Artikel 6.33c. Plankzeilen, zwemmen en duiken
 
-In de in [artikel 6.33**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.33a&z=2013-01-01&g=2013-01-01), aangewezen vakken is het verboden te varen met een zeilplank, dan wel te zwemmen of te duiken.
+In de in [artikel 6.33*a*, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&hoofdstuk=6&artikel=6.33a&z=2013-01-01&g=2013-01-01), aangewezen vakken is het verboden te varen met een zeilplank, dan wel te zwemmen of te duiken.
 
 ##### Artikel 6.33d. Stiltezone voor sportvissers
 
@@ -1053,151 +1032,4 @@ Het is verboden zich boven de vaarweg door de lucht te laten voortbewegen.
 
 ##### Artikel 7.08. Toezicht
 
-Een stilliggend schip moet, voor zover het geen schipper heeft, zijn gesteld onder toezicht van een persoon die zo nodig snel kan ingrijpen, tenzij de bevoegde autoriteit aan een schip van deze verplichting vrijstelling heeft verleend, dan wel hij gedoogt dat dit zonder toezicht stilligt. 1Bij de nummering van hoofdstukken en artikelen van dit reglement is rekening gehouden met het Europese uniforme stelsel van verkeersregels en verkeerstekens (Code européen des voies de navigation intérieure; CEVNI) vastgesteld bij resoluties van de Economische Commissie voor Europa van de Verenigde Naties (zie de resolutie nr. 24 van 15 november 1985), en met het eveneens daarop gebaseerde Rijnvaartpolitiereglement 1983.In verband daarmede zijn in bepaalde gevallen nummers van artikelen overgeslagen, waarbij dan wordt vermeld "niet overgenomen", en zijn in andere gevallen artikelen of leden daarvan toegevoegd onder additionele nummers (zie bijv. de artikelen 6.33**a** e.v.).
-
-## Bijlage I
-
-De bevoegde autoriteit, bedoeld in dit reglement, is:
-
-| in artikel: | voor België: | voor Nederland: |
-| --- | --- | --- |
-|   |   |   |
-| 1.06, tweede en derde lid | de betrokken hoofdingenieur-directeur van Bruggen en Wegen na overleg met de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg; | de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg na overleg met de betrokken hoofdingenieur-directeur van Bruggen en Wegen; |
-|   |   |   |
-| 1.10, tweede lid | de betrokken wachter of de betrokken politie-ambtenaar van de Rijkswacht; | de betrokken kanaalmeester, het betrokken dienstkringhoofd, de betrokken gezagvoerder van een patrouillevaartuig of de betrokken ambtenaar van politie; |
-|   |   |   |
-| 1.12, derde en vierde lid | de betrokken wachter, de betrokken conducteur of andere ambtenaar belast met de handhaving van het reglement; | idem; |
-|   |   |   |
-| 1.13, tweede en derde lid | idem; | idem; |
-|   |   |   |
-| 1.14 | idem; | idem; |
-|   |   |   |
-| 1.15, derde lid | idem; | idem; |
-|   |   |   |
-| 1.17, eerste lid | idem; | idem; |
-|   |   |   |
-| 1.19, eerste lid | de betrokken wachter, de betrokken conducteur, de betrokken hoofdingenieur of de andere betrokken agent van de waterweg; | idem; |
-|   |   |   |
-| 1.20, eerste lid | idem; | idem; |
-|   |   |   |
-| 1.22 | de betrokken hoofdingenieur-directeur van Bruggen en Wegen na overleg met de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg; | de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg na overleg met de betrokken hoofdingenieur-directeur van Bruggen en Wegen; |
-|   |   |   |
-| 1.23, eerste lid en tweede lid | de betrokken hoofdingenieur-directeur van Bruggen en Wegen; | de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg; |
-|   |   |   |
-| 3.20, derde lid | idem; | idem; |
-|   |   |   |
-| 3.27, derde lid | idem; | idem; |
-|   |   |   |
-| 3.41, derde lid | idem; | idem; |
-|   |   |   |
-| 5.02, eerste lid | de betrokken hoofdingenieur-directeur van Bruggen en Wegen na overleg met de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg; | de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg na overleg met de betrokken hoofdingenieur-directeur van Bruggen en Wegen; |
-|   |   |   |
-| 6.31, derde lid | idem; | idem; |
-|   |   |   |
-| 6.33a, vierde lid | idem; | idem; |
-|   |   |   |
-| 7.02, eerste lid | de betrokken wachter, de betrokken conducteur of de betrokken hoofdingenieur-directeur van Bruggen en Wegen; | de betrokken kanaalmeester, het betrokken dienstkringhoofd of de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Limburg; |
-|   |   |   |
-| 7.02, tweede en derde lid | idem; | idem; |
-|   |   |   |
-| 7.08 | idem; | idem; |
-
-## Bijlage II. Verkeerstekens
-
-### A. Verbodstekens
-
-Opmerking:
-
-Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F.
-
-### B. Gebodstekens
-
-Opmerking:
-
-Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F.
-
-### C. Beperkingstekens
-
-Opmerking:
-
-Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F.
-
-### D. Aanbevelingstekens
-
-Opmerking:
-
-Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F.
-
-### E. Aanwijzingstekens
-
-Opmerking:
-
-Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F.
-
-### F. Bijkomende tekens
-
-Opmerking:
-
-Deze tekens kunnen voorkomen ter aanvulling of verduidelijking van de tekens, vermeld onder A tot en met E.
-
-## Bijlage III. Markering van het vaarwater
-
-### A. Laterale markering
-
-Hoofdmarkering
-
-### B. Markering gevaarlijke punten en obstakels
-
-Gevaarlijke punten kunnen zijn:
-
-koppen van kribben, uitstekende punten van de oever, lage gedeelten van de oever die overstroomd kunnen worden, vaste obstakels, e.d.
-
-Obstakels kunnen zijn:
-
-vastgevaren of gezonken schepen, te water geraakte objecten, plaats van werkzaamheden in of nabij het vaarwater e.d.
-
-Buiten het vaarwater
-
-Opmerkingen:
-
-1. De lichten kunnen in plaats van de dagmerken voorkomen.
-
-2. De rode en groene lichten kunnen ook als vaarwegverlichting worden toegepast; zij geven aldus het verloop van de oeverlijn aan.
-
-2 In of nabij vaarwater
-
-Hiervoor kunnen de volgende markeringen worden gebruikt:
-
-**2.1**. Laterale markering
-
-**2.2**. Markering op (of nabij) het obstakel
-
-of, met verplichting hinderlijke waterbeweging te vermijden:
-
-### C. Bijzondere markering
-
-Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt een bepaald gebied of voorwerp aan, dat doorgaans is omschreven in nautische of andere daarvoor bestemde publicaties.
-
-Deze betonning wordt bijvoorbeeld toegepast ter markering van verboden gebieden, bagger-, stort- en ankerplaatsen, voor het afbakenen van speciale gebieden zoals voor snelle motorboten, waterskiërs, zeilplanken, wedstrijden, e.d.
-
-Opmerking
-
-De bijzondere betonning moet door de doorgaande scheepvaart, d.w.z. schepen die niet een aldus gemarkeerd gebied als bestemming hebben, aan dezelfde zijde worden gehouden als de "gewone" betonning.
-
-### D. Markering ingang van havens en aftakkingen
-
-De ingangen van havens, zijvaarten, aftakkingen, e.d. kunnen als volgt zijn gemarkeerd (invarend gezien):
-
-Indien voorzien van lichten
-
-Indien niet voorzien van lichten
-
-### E. Markering loop van de vaargeul
-
-Ligging van de vaargeul
-
-Deze tekens zijn geplaatst op die oever van een rivier, waarlangs (het diepste gedeelte van) de vaargeul loopt.
-
-Overgangen
-
-De punten waar de vaargeul van de ene oever naar de andere overgaat kunnen aanvullend als volgt zijn gemarkeerd:
+Een stilliggend schip moet, voor zover het geen schipper heeft, zijn gesteld onder toezicht van een persoon die zo nodig snel kan ingrijpen, tenzij de bevoegde autoriteit aan een schip van deze verplichting vrijstelling heeft verleend, dan wel hij gedoogt dat dit zonder toezicht stilligt. 1Bij de nummering van hoofdstukken en artikelen van dit reglement is rekening gehouden met het Europese uniforme stelsel van verkeersregels en verkeerstekens (Code européen des voies de navigation intérieure; CEVNI) vastgesteld bij resoluties van de Economische Commissie voor Europa van de Verenigde Naties (zie de resolutie nr. 24 van 15 november 1985), en met het eveneens daarop gebaseerde Rijnvaartpolitiereglement 1983.In verband daarmede zijn in bepaalde gevallen nummers van artikelen overgeslagen, waarbij dan wordt vermeld "niet overgenomen", en zijn in andere gevallen artikelen of leden daarvan toegevoegd onder additionele nummers (zie bijv. de artikelen 6.33*a* e.v.).

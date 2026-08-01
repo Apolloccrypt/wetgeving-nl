@@ -1,46 +1,39 @@
 ---
 title: "Aanwijzing geneeskundigen herkeuringscommissie"
 identifier: "BWBR0006731"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-09-01"
-last_updated: "1994-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006731"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "4342113"
-version_id: "6106312"
-internal_id: "C6309821"
-label_id: "4320604"
-dtd_version: "2.0"
-original_entry_into_force: "1994-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006731/1994-09-01/0"
-intitule_bron: "Stcrt.1994-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-13"
-intitule_published: "1994-07-01"
-intitule_in_force: "1994-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-123"
-original_signed_date: "1994-06-13"
-original_published_date: "1994-07-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-09-01"
-jci_1_3: "jci1.3:c:BWBR0006731&z=1994-09-01&g=1994-09-01"
-jci_1_0: "1.0:c:BWBR0006731&g=1994-09-01"
-citeertitel_status: "officieel"
-signed_date: "1994-06-13"
-entry_into_force: "1994-09-01"
+publicatiedatum: 1994-09-01
+laatste_update: 1994-09-01
+status: geldig
+toestand: 1994-09-01
+bron: "https://wetten.overheid.nl/BWBR0006731"
+opgehaald: 2026-08-01
 ---
+
 # Aanwijzing geneeskundigen herkeuringscommissie
-
-Gelet op [artikel 33, tweede lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=33);
-
-Besluit:
 
 ##### Artikel 1
 
 In de commissie die als taak heeft het beroep te behandelen dat kan worden ingesteld tegen de beslissing van de geneeskundigen en geneeskundige instanties, voor keuringen die verband houden met het verkrijgen of behouden van bewijzen van bevoegdheid en bevoegdverklaringen voor de burgerluchtvaart met uitzondering van zweefvliegbewijzen, worden met ingang van heden tot 1 maart 1998 benoemd tot:
+
+lid en voorzitter:
+
+J. A. Dorst, arts-psycholoog te Halsteren
+
+en tot lid:
+
+- H. S. Bartlema, arts te Oegstgeest
+
+- H. S. Dambrink, arts te Franeker
+
+- W. A. L. Godefroy, bedrijfsarts vliegend personeel KLM te Heemstede
+
+- H. J. M. Groenhout, arts te Renkum
+
+- A. M. Slager, arts te 's-Gravenhage
+
+- J. Th. Versteeg, vliegerarts, commodore arts KLu b.d. te Houten.
 
 ##### Artikel 2
 

@@ -1,44 +1,18 @@
 ---
 title: "Wet van 26 november 1992, houdende regelen met betrekking tot de oprichting van de Stichting ROI"
+citeertitel: "Wet Stichting ROI"
 identifier: "BWBR0005739"
-country: "nl"
-rank: "wet"
-publication_date: "1998-01-01"
-last_updated: "1998-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005739"
+categorie: "Overig"
 soort: "wet"
-stam_id: "133053"
-version_id: "181972"
-internal_id: "C181971"
-label_id: "132634"
-dtd_version: "2.0"
-original_entry_into_force: "1992-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005739/1998-01-01/0"
-intitule_bron: "Stb.1992-659"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-11-26"
-intitule_in_force: "1992-12-30"
-intitule_status: "goed"
-original_publication: "Stb.1992-659"
-original_signed_date: "1992-11-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "22638"
-entry_into_force_date: "1992-12-31"
-jci_1_3: "jci1.3:c:BWBR0005739&z=1998-01-01&g=1998-01-01"
-jci_1_0: "1.0:c:BWBR0005739&g=1998-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet Stichting ROI"
-signed_date: "1992-11-26"
-entry_into_force: "1992-12-31"
+publicatiedatum: 1992-12-31
+laatste_update: 1998-01-01
+status: geldig
+toestand: 1998-01-01
+bron: "https://wetten.overheid.nl/BWBR0005739"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 26 november 1992, houdende regelen met betrekking tot de oprichting van de Stichting ROI
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat het Rijks Opleidingsinstituut wordt geprivatiseerd en een privaatrechtelijke rechtspersoon wordt opgericht waarvoor een wettelijke machtiging op grond van [artikel 29 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=29) is vereist;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -70,7 +44,7 @@ Gedurende een termijn van ten hoogste vijf jaren na de overgangsdatum zuivert de
 
 2. Onze Minister kan bepaalde vermogensbestanddelen van de in het eerste lid bedoelde overgang uitzonderen.
 
-3. Onze Minister van Financiën doet van de in het eerste lid bedoelde vermogensbestanddelen door een registeraccountant of een accountant die een vergunning heeft als bedoeld in artikel 70**b**, eerste lid aanhef en onder **b**, van de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) (**Stb.** 1962, 258), een verklaring opstellen, die door de Stichting ROI wordt neergelegd ten kantore van het handelsregister van de plaats waar zij volgens haar statuten haar zetel heeft.
+3. Onze Minister van Financiën doet van de in het eerste lid bedoelde vermogensbestanddelen door een registeraccountant of een accountant die een vergunning heeft als bedoeld in artikel 70*b*, eerste lid aanhef en onder *b*, van de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) (*Stb.* 1962, 258), een verklaring opstellen, die door de Stichting ROI wordt neergelegd ten kantore van het handelsregister van de plaats waar zij volgens haar statuten haar zetel heeft.
 
 4. Ten aanzien van de in het eerste lid bedoelde vermogensbestanddelen welke in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.
 
@@ -100,7 +74,7 @@ Gedurende een termijn van ten hoogste vijf jaren na de overgangsdatum zuivert de
 
 ##### Artikel 6
 
-1. Met ingang van de datum waarop het personeel overgaat verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005739&artikel=5&z=1998-01-01&g=1998-01-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door de Stichting ROI aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder **b**, dan wel onder **c**, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) (**Stb.** 1952, 275), die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (**Stb.** 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de datum waarop het personeel overgaat verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005739&artikel=5&z=1998-01-01&g=1998-01-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door de Stichting ROI aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder *b*, dan wel onder *c*, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) (*Stb.* 1952, 275), die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (*Stb.* 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
 
 2. De in het eerste lid bedoelde instelling wordt door de Stichting ROI op de overgangsdatum aangewezen.
 
@@ -133,5 +107,3 @@ Deze wet treedt inwerking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 9
 
 Deze wet kan worden aangehaald als de Wet Stichting ROI.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

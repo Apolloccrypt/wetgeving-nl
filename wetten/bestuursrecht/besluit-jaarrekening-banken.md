@@ -1,49 +1,18 @@
 ---
 title: "Besluit van 10 mei 1993, houdende bepalingen voor de balans, de winst- en verliesrekening en de toelichtingen daarop van banken"
+citeertitel: "Besluit jaarrekening banken"
 identifier: "BWBR0005980"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005980"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "653173"
-version_id: "948962"
-internal_id: "C948961"
-label_id: "633714"
-dtd_version: "2.0"
-original_entry_into_force: "1993-05-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005980/2012-01-01/0"
-intitule_bron: "Stb.1993-259"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-05-10"
-intitule_status: "goed"
-original_publication: "Stb.1993-259"
-original_signed_date: "1993-05-10"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-05-28"
-entry_into_force_dossier: "22169"
-jci_1_3: "jci1.3:c:BWBR0005980&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0005980&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit jaarrekening banken"
-signed_date: "1993-05-10"
-entry_into_force: "1993-05-28"
+publicatiedatum: 1993-05-28
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0005980"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 10 mei 1993, houdende bepalingen voor de balans, de winst- en verliesrekening en de toelichtingen daarop van banken
-
-Op de voordracht van de Staatssecretaris van Justitie, mede namens Onze Minister van Financiën, van 29 januari 1993, Stafafdeling Wetgeving Privaatrecht, nr. 303967/93/6;
-
-Gelet op de [richtlijn nr. 86/635/EEG](31986L0635) van de Raad van de Europese Gemeenschappen van 8 december 1986 betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen (**PbEG** L372), alsmede op [artikel 417 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=417);
-
-Gezien het advies van De Nederlandsche Bank N.V.;
-
-De Raad van State gehoord (advies van 15 april 1993, no. W03.93.0058);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 29 april 1993, nr. 363307/93/6;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Voorschriften omtrent de balans en de toelichting daarop
 
@@ -141,7 +110,7 @@ Hebben goedgevonden en verstaan:
 
 - b. de overige deelnemingen met afzonderlijke vermelding van de deelnemingen in banken als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
 
-2. Onderscheiden naar de in arikel 1 lid 1, onder **e**, bedoelde groep en naar de in lid 1 bedoelde groepen van deelnemingen worden aangegeven de al dan niet in een prijscourant van een beurs opgenomen waardepapieren. De aandelen en andere niet-vastrentende waardepapieren worden tevens onderscheiden naar gelang zij al dan niet als vaste activa worden aangemerkt, onder vermelding van de maatstaf ter onderscheiding die hiervoor is gebruikt.
+2. Onderscheiden naar de in arikel 1 lid 1, onder *e*, bedoelde groep en naar de in lid 1 bedoelde groepen van deelnemingen worden aangegeven de al dan niet in een prijscourant van een beurs opgenomen waardepapieren. De aandelen en andere niet-vastrentende waardepapieren worden tevens onderscheiden naar gelang zij al dan niet als vaste activa worden aangemerkt, onder vermelding van de maatstaf ter onderscheiding die hiervoor is gebruikt.
 
 ##### Artikel 5
 
@@ -163,7 +132,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onder schulden aan banken of aan klanten wordt begrepen de bij een verkoop van activa door de bank ontvangen prijs, indien teruglevering tegen een bepaalde prijs is bedongen.
 
-3. Onderscheiden naar de in lid 1, onder **a, b** en **c** genoemde groepen van schulden, worden aangegeven de al dan niet in een schuldbewijs belichaamde schulden aan groepsmaatschappijen en die aan andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
+3. Onderscheiden naar de in lid 1, onder *a, b* en *c* genoemde groepen van schulden, worden aangegeven de al dan niet in een schuldbewijs belichaamde schulden aan groepsmaatschappijen en die aan andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
 
 4. Bij de verhandelbare schuldbewijzen met een vaste of van de rentestand afhankelijke rente wordt het bedrag vermeld dat opeisbaar wordt tijdens het boekjaar volgend op dat waarop de jaarrekening betrekking heeft.
 
@@ -179,7 +148,7 @@ Bij de overige achtergestelde schulden worden globaal de bedongen voorwaarden me
 
 6. Bij converteerbare leningen worden de voorwaarden van conversie medegedeeld.
 
-7. De niet onmiddellijk opeisbare schulden aan banken alsmede die aan klanten, de spaargelden en de schulden belichaamd in de overige schuldbewijzen, bedoeld in lid 1, onder **c**, worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
+7. De niet onmiddellijk opeisbare schulden aan banken alsmede die aan klanten, de spaargelden en de schulden belichaamd in de overige schuldbewijzen, bedoeld in lid 1, onder *c*, worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 7
 
@@ -215,7 +184,7 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 2. De baten en lasten uit de gewone bedrijfsuitoefening worden gesplitst naar:
 
-- a. de rente en soorgelijke baten, die het karakter van rente hebben, uit de activa, bedoeld in [artikel 1 lid 1, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=2012-01-01&g=2012-01-01) enerzijds en de rentelasten en soortgelijke lasten, die het karakter van rente hebben, uit de passiva, bedoeld in artikel 1 lid 2, onder **a** en **d** anderzijds; de verschillen, bedoeld in [artikel 422 leden 2 en 3 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=422) worden eveneens onder deze posten opgenomen; bij de rente wordt afzonderlijk vermeld de rente uit waardepapieren met een vaste of van de rentestand afhankelijke rente;
+- a. de rente en soorgelijke baten, die het karakter van rente hebben, uit de activa, bedoeld in [artikel 1 lid 1, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=2012-01-01&g=2012-01-01) enerzijds en de rentelasten en soortgelijke lasten, die het karakter van rente hebben, uit de passiva, bedoeld in artikel 1 lid 2, onder *a* en *d* anderzijds; de verschillen, bedoeld in [artikel 422 leden 2 en 3 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=422) worden eveneens onder deze posten opgenomen; bij de rente wordt afzonderlijk vermeld de rente uit waardepapieren met een vaste of van de rentestand afhankelijke rente;
 
 - b. de opbrengsten uit waardepapieren, onderscheiden naar de opbrengsten uit niet-vastrentende waardepapieren, uit deelnemingen in groepsmaatschappijen en uit overige deelnemingen;
 
@@ -233,11 +202,11 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 - i. de waardeverminderingen van de vorderingen, bedoeld in [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), en de voorzieningen voor buiten de balanstelling opgenomen voorwaardelijke schulden en onherroepelijke toezeggingen enerzijds en de terugnemingen van deze afboekingen anderzijds;
 
-- j. de waardeverminderingen van de tot de vaste activa behorende waardepapieren, bedoeld in de artikelen 1 lid 1, onder **e**, en 3 lid 3, en van de deelnemingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), enerzijds en de terugnemingen van deze afboekingen anderzijds.
+- j. de waardeverminderingen van de tot de vaste activa behorende waardepapieren, bedoeld in de artikelen 1 lid 1, onder *e*, en 3 lid 3, en van de deelnemingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), enerzijds en de terugnemingen van deze afboekingen anderzijds.
 
-3. Tenzij [artikel 420 lid 2 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder **i** van het vorige lid, wordt de omvang aangegeven van de waardeverminderingen van de vorderingen op onderscheidenlijk banken, klanten, groepsmaatschappijen en andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
+3. Tenzij [artikel 420 lid 2 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder *i* van het vorige lid, wordt de omvang aangegeven van de waardeverminderingen van de vorderingen op onderscheidenlijk banken, klanten, groepsmaatschappijen en andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
 
-4. Tenzij [artikel 420 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder **j** van het tweede lid, wordt de omvang aangegeven van de waardeverminderingen van onderscheidenlijk de tot de vaste activa behorende effecten, de deelnemingen in groepsmaatschappijen en de overige deelnemingen.
+4. Tenzij [artikel 420 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder *j* van het tweede lid, wordt de omvang aangegeven van de waardeverminderingen van onderscheidenlijk de tot de vaste activa behorende effecten, de deelnemingen in groepsmaatschappijen en de overige deelnemingen.
 
 5. Tenzij de bestanddelen van de overige bedrijfsopbrengsten onderscheidenlijk overige bedrijfslasten van ondergeschikte betekenis zijn op het geheel van de bedrijfsopbrengsten onderscheidenlijk bedrijfslasten, worden zij naar aard en omvang toegelicht.
 
@@ -286,5 +255,3 @@ Indien het bij Koninklijke boodschap van 27 juni 1991 ingediende voorstel van we
 ##### Artikel 14
 
 Dit besluit kan worden aangehaald als: Besluit jaarrekening banken.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

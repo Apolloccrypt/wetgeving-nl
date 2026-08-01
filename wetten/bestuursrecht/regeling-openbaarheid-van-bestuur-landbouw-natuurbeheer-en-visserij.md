@@ -1,50 +1,35 @@
 ---
 title: "Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij"
 identifier: "BWBR0005754"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-12-12"
-last_updated: "1992-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005754"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "4015253"
-version_id: "5778412"
-internal_id: "C5981151"
-label_id: "3995344"
-dtd_version: "2.0"
-original_entry_into_force: "1992-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005754/1992-12-12/0"
-intitule_bron: "Stcrt.1992-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-09"
-intitule_published: "1992-12-11"
-intitule_in_force: "1992-12-11"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-241"
-original_signed_date: "1992-12-09"
-original_published_date: "1992-12-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-12-12"
-jci_1_3: "jci1.3:c:BWBR0005754&z=1992-12-12&g=1992-12-12"
-jci_1_0: "1.0:c:BWBR0005754&g=1992-12-12"
-citeertitel_status: "officieel"
-signed_date: "1992-12-09"
-entry_into_force: "1992-12-12"
+publicatiedatum: 1992-12-12
+laatste_update: 1992-12-12
+status: geldig
+toestand: 1992-12-12
+bron: "https://wetten.overheid.nl/BWBR0005754"
+opgehaald: 2026-08-01
 ---
+
 # Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij
-
-Overwegende dat de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van die wet met betrekking tot het beleidsterrein van de Minister van Landbouw, Natuurbeheer en Visserij;
-
-Gelet op de [Aanwijzingen inzake openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005469) (Stcrt. 1992, 84);
-
-Besluit:
 
 #### Hoofdstuk I. Definities
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder
+
+wet:
+
+[Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703);
+
+gemachtigd ambtenaar:
+
+ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd; informatiepunt: persoon of plaats binnen het Ministerie van Landbouw, Natuurbeheer en Visserij en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;
+
+minister:
+
+Minister van Landbouw, Natuurbeheer en Visserij.
 
 ##### Artikel 2
 

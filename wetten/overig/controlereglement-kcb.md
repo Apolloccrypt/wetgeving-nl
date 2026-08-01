@@ -1,107 +1,87 @@
 ---
-title: "Controlereglement K.C.B"
+title: "Controlereglement K.C.B."
 identifier: "BWBR0005820"
-country: "nl"
-rank: "zbo"
-publication_date: "1993-01-27"
-last_updated: "1993-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005820"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6757943"
-version_id: "11609212"
-internal_id: "C15644341"
-label_id: "6746344"
-original_entry_into_force: "1993-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005820/1993-01-27/0"
-intitule_bron: "Stcrt.1993-18"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1993-01-27"
-intitule_in_force: "1993-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-18"
-original_published_date: "1993-01-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-01-27"
-jci_1_3: "jci1.3:c:BWBR0005820&z=1993-01-27&g=1993-01-27"
-jci_1_0: "1.0:c:BWBR0005820&g=1993-01-27"
-citeertitel_status: "officieel"
-short_title: "Controlereglement K.C.B."
-entry_into_force: "1993-01-27"
+publicatiedatum: 1993-01-27
+laatste_update: 1993-01-27
+status: geldig
+toestand: 1993-01-27
+bron: "https://wetten.overheid.nl/BWBR0005820"
+opgehaald: 2026-08-01
 ---
-# Controlereglement K.C.B
 
-Gelet op [artikel 10, derde lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371) maakt de Staatssecretaris van Landbouw, Natuurbeheer en Visserij de tekst bekend van het Controleregelement en het gewijzigde Tuchtreglement van de Vereniging 'Kwaliteits-Controlebureau voor Groenten en Fruit': aan deze reglementen is bij beschikking van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 28 december 1992, No. J. 9220672, goedkeuring verleend.
+# Controlereglement K.C.B.
 
 ##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
-- a. **aangeslotene**: een aangeslotene bij het KCB
+- a. *aangeslotene*: een aangeslotene bij het KCB
 
-- b. **afkeuringsverklaring**: het document als bedoeld in artikel 3, lid 12, van de EG-verordening
+- b. *afkeuringsverklaring*: het document als bedoeld in artikel 3, lid 12, van de EG-verordening
 
-- c. **AID**: Algemene Inspectiedienst van het ministerie van Landbouw, Natuurbeheer en Visserij
+- c. *AID*: Algemene Inspectiedienst van het ministerie van Landbouw, Natuurbeheer en Visserij
 
-- d. **beschikking**: de Landbouwkwaliteitsbeschikking keuring groenten en fruit (dd 9 september 1977, Stcrt. 182)
+- d. *beschikking*: de Landbouwkwaliteitsbeschikking keuring groenten en fruit (dd 9 september 1977, Stcrt. 182)
 
-- e. **besluit**: het [Landbouwkwaliteitsbesluit groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003120) (dd 5 augustus 1977, Stb 490)
+- e. *besluit*: het [Landbouwkwaliteitsbesluit groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003120) (dd 5 augustus 1977, Stb 490)
 
-- f. **controlecertificaat**: het certificaat als bedoeld in artikel 3, lid 9, van de EG-verordening
+- f. *controlecertificaat*: het certificaat als bedoeld in artikel 3, lid 9, van de EG-verordening
 
-- g. **elementair monster**: de uit een partij genomen colli of, bij onverpakte produkten, de op een bepaald punt in een partij genomen hoeveelheid
+- g. *elementair monster*: de uit een partij genomen colli of, bij onverpakte produkten, de op een bepaald punt in een partij genomen hoeveelheid
 
-- h. **EG-verordening**: [Verordening (EEG) nr 2251/92](31992R2251) van de Commissie van 29 juli 1992 inzake de kwaliteitscontrole van verse groenten en fruit
+- h. *EG-verordening*: Verordening (EEG) nr 2251/92 van de Commissie van 29 juli 1992 inzake de kwaliteitscontrole van verse groenten en fruit
 
-- i. **gereduceerd monster**: de van een globaal monster genomen representatieve hoeveelheid produkt die groot genoeg is om een partij aan een aantal criteria te kunnen toetsen
+- i. *gereduceerd monster*: de van een globaal monster genomen representatieve hoeveelheid produkt die groot genoeg is om een partij aan een aantal criteria te kunnen toetsen
 
-- j. **globaal monster**: verscheidene, voor de partij representatieve elementaire monsters die groot genoeg zijn om de partij aan alle criteria te kunnen toetsen
+- j. *globaal monster*: verscheidene, voor de partij representatieve elementaire monsters die groot genoeg zijn om de partij aan alle criteria te kunnen toetsen
 
-- k. **groenten en fruit**: een of meer van de verse eetbare tuinbouwprodukten waarop het besluit van toepassing is
+- k. *groenten en fruit*: een of meer van de verse eetbare tuinbouwprodukten waarop het besluit van toepassing is
 
-- l. **industriecertificaat**: certificaat van industriële bestemming als bedoeld in artikel 10, lid 1, van de EG-verordening
+- l. *industriecertificaat*: certificaat van industriële bestemming als bedoeld in artikel 10, lid 1, van de EG-verordening
 
-- m. **KCB**: de Vereniging ‘Kwaliteits-Controle-Bureau voor Groenten en Fruit’ gevestigd te Den Haag
+- m. *KCB*: de Vereniging ‘Kwaliteits-Controle-Bureau voor Groenten en Fruit’ gevestigd te Den Haag
 
-- n. **kwaliteitsklassen**: de kwaliteitsklassen als omschreven in de genummerde bijlagen van de PGF-verordening
+- n. *kwaliteitsklassen*: de kwaliteitsklassen als omschreven in de genummerde bijlagen van de PGF-verordening
 
-- o. **Landbouwkwaliteits-**: Landbouwkwaliteitsverordening PGF 1991 Groentenverordening en Fruit
+- o. *Landbouwkwaliteits-*: Landbouwkwaliteitsverordening PGF 1991 Groentenverordening en Fruit
 
-- p. **meldingsverordening**: Verordening PGF Melding Verse Produkten
+- p. *meldingsverordening*: Verordening PGF Melding Verse Produkten
 
-- q. **merk**: het merk als bedoeld in artikel 15a van de beschikking
+- q. *merk*: het merk als bedoeld in artikel 15a van de beschikking
 
-- r. **merkaanbrenger**: de aangeslotene bij het KCB. aan wie het recht is verleend het merk aan te brengen
+- r. *merkaanbrenger*: de aangeslotene bij het KCB. aan wie het recht is verleend het merk aan te brengen
 
-- s. **normcontrole**: de door (de controleurs van) het KCB verrichte fysieke controle of administratieve formaliteit van groenten en fruit op het voldoen aan de kwaliteitsvoorschriften
+- s. *normcontrole*: de door (de controleurs van) het KCB verrichte fysieke controle of administratieve formaliteit van groenten en fruit op het voldoen aan de kwaliteitsvoorschriften
 
-- t. **partij**: de op het ogenblik van de controle aangeboden hoeveelheid produkt met dezelfde kenmerken wat betreft:
+- t. *partij*: de op het ogenblik van de controle aangeboden hoeveelheid produkt met dezelfde kenmerken wat betreft:
 
-- –. de identiteit van de verpakker en/of verzender
+   - – de identiteit van de verpakker en/of verzender
 
-- –. oorsprong
+   - – oorsprong
 
-- –. aard van het produkt
+   - – aard van het produkt
 
-- –. kwaliteitsklasse
+   - – kwaliteitsklasse
 
-- –. in voorkomend geval variëteit of handelstype
+   - – in voorkomend geval variëteit of handelstype
 
-- –. soort verpakking en presentatie
+   - – soort verpakking en presentatie
 
-- –. in voorkomend geval, groottesortering
+   - – in voorkomend geval, groottesortering
 
-- u. **PGF**: het Produktschap voor Groenten en Fruit
+- u. *PGF*: het Produktschap voor Groenten en Fruit
 
-- v. **PGF-verordening**: de Verordening PGF 1977 Kwaliteitsvoorschriften groenten en fruit
+- v. *PGF-verordening*: de Verordening PGF 1977 Kwaliteitsvoorschriften groenten en fruit
 
-- w. **RVV**: de Rijksdienst voor de Keuring van Vee en Vlees (afdeling Tuinbouw)
+- w. *RVV*: de Rijksdienst voor de Keuring van Vee en Vlees (afdeling Tuinbouw)
 
-- x. **sorteer- en pakstation**: de onderneming, die in Nederland geteelde groenten en fruit sorteert of verpakt, en als zodanig bij het PGF is geregistreerd
+- x. *sorteer- en pakstation*: de onderneming, die in Nederland geteelde groenten en fruit sorteert of verpakt, en als zodanig bij het PGF is geregistreerd
 
-- y. **statuten**: de statuten van het KCB
+- y. *statuten*: de statuten van het KCB
 
-- z. **verklaring**: schriftelijk bewijsstuk, voor een partij groenten en fruit, bestemd voor verhandeling binnen de EG, die voldoet aan de kwaliteitsvoorschriften
+- z. *verklaring*: schriftelijk bewijsstuk, voor een partij groenten en fruit, bestemd voor verhandeling binnen de EG, die voldoet aan de kwaliteitsvoorschriften
 
 ##### Artikel 2. Verplichtingen en aansprakelijkheden van aangeslotenen
 
@@ -129,11 +109,11 @@ In dit reglement wordt verstaan onder:
 
 2. De normcontrole van een partij omvat met name:
 
-- –. een toetsing van de opmaak en de presentatie aan de hand van elementaire monsters, waarbij wordt nagegaan of de produkten en het verpakkingsmateriaal aan de voorschriften voldoen.
+- – een toetsing van de opmaak en de presentatie aan de hand van elementaire monsters, waarbij wordt nagegaan of de produkten en het verpakkingsmateriaal aan de voorschriften voldoen.
 
-- –. vaststelling van de juistheid van de aanduidingsvoorschriften en, in geval van het merk, van het juist en terecht aanbrengen van het merk;
+- – vaststelling van de juistheid van de aanduidingsvoorschriften en, in geval van het merk, van het juist en terecht aanbrengen van het merk;
 
-- –. controle op de produkten zelf, de homogeniteit, de minimumeisen, de kwaliteitsklassen en de groottesortering aan de hand van globale monsters.
+- – controle op de produkten zelf, de homogeniteit, de minimumeisen, de kwaliteitsklassen en de groottesortering aan de hand van globale monsters.
 
 3. Wanneer produkten. bestemd om in de handel gebracht te worden, in verscheidene partijen worden aangeboden, verricht de controleur een identiteitscontrole ten einde na te gaan in hoeverre de produkten met de in de begeleidende documenten of aangiften vermelde gegevens overeenstemmen.
 

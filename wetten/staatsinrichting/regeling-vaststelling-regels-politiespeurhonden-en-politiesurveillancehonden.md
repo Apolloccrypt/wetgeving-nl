@@ -1,40 +1,17 @@
 ---
 title: "Regeling vaststelling regels politiespeurhonden en politiesurveillancehonden"
 identifier: "BWBR0006549"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006549"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3762513"
-version_id: "5545352"
-internal_id: "C5738441"
-label_id: "3742234"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006549/1994-04-01/0"
-intitule_bron: "Stcrt.1994-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-25"
-intitule_published: "1994-03-31"
-intitule_in_force: "1994-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-64"
-original_signed_date: "1994-03-25"
-original_published_date: "1994-03-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBR0006549&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0006549&g=1994-04-01"
-citeertitel_status: "officieel"
-signed_date: "1994-03-25"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0006549"
+opgehaald: 2026-08-01
 ---
-# Regeling vaststelling regels politiespeurhonden en politiesurveillancehonden
 
-Besluit:
+# Regeling vaststelling regels politiespeurhonden en politiesurveillancehonden
 
 ##### Artikel 1
 
@@ -50,7 +27,7 @@ De [Regeling politiespeurhonden](https://wetten.overheid.nl/jci1.3:c:BWBR0010333
 
 De [Regeling politiesurveillancehonden](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) is van overeenkomstige toepassing op het Korps landelijke politiediensten met dien verstande dat:
 
-- a. [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010333&artikel=1), luidt: **geleider**: de ambtenaar van het Korps landelijke politiediensten die toestemming heeft van de korpschef van het Korps landelijke politiediensten om politiedienst te doen met een politiesurveillancehond;
+- a. [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010333&artikel=1), luidt: *geleider*: de ambtenaar van het Korps landelijke politiediensten die toestemming heeft van de korpschef van het Korps landelijke politiediensten om politiedienst te doen met een politiesurveillancehond;
 
 - b. in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010333&artikel=1), ‘een politieregio’ wordt vervangen door: het Korps landelijke politiediensten.
 

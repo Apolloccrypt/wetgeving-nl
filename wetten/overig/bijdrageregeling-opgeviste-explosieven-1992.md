@@ -1,46 +1,45 @@
 ---
 title: "Bijdrageregeling opgeviste explosieven 1992"
 identifier: "BWBR0005727"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005727"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4306013"
-version_id: "6068692"
-internal_id: "C6272301"
-label_id: "4284524"
-dtd_version: "2.0"
-original_entry_into_force: "1992-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005727/2019-07-01/0"
-intitule_bron: "Stcrt.1992-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-11-16"
-intitule_published: "1992-11-26"
-intitule_in_force: "1992-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-230"
-original_signed_date: "1992-11-16"
-original_published_date: "1992-11-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-11-27"
-jci_1_3: "jci1.3:c:BWBR0005727&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0005727&g=2019-07-01"
-citeertitel_status: "officieel"
-signed_date: "1992-11-16"
-entry_into_force: "1992-11-27"
+publicatiedatum: 1992-11-27
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0005727"
+opgehaald: 2026-08-01
 ---
+
 # Bijdrageregeling opgeviste explosieven 1992
-
-Overwegende dat het gewenst is de risico's als gevolg van het opvissen van explosieven te beperken door middel van een financiële tegemoetkoming aan vissers die een opgevist explosief onmiddellijk onschadelijk laten maken:
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
+
+a.
+
+Nederlandse visserijzone:
+
+de Nederlandse territoriale zee alsmede het Nederlandse deel van het continentale plat van de Noordzee;
+
+b.
+
+visserij:
+
+de visser van een Nederlands vissersvaartuig of van een vissersvaartuig dat geregistreerd staat in een der andere Lid-Staten van de EEG en dat gerechtigd is in de Nederlandse visserijzone te vissen;
+
+c.
+
+explosief:
+
+een explosief of een explosiegevaarlijk onderdeel daarvan dat als gevolg van oorlogshandelingen in de Eerste of Tweede Wereldoorlog in zee is geraakt:
+
+d.
+
+budget:
+
+het bedrag dat binnen de Rijksbegroting van enig jaar voor het doel van deze regeling beschikbaar wordt gesteld.
 
 ##### Artikel 2. Bijdrage; doelgroep en hoogte
 
@@ -56,25 +55,25 @@ In deze regeling wordt verstaan onder:
 
 Voor toekenning van de bijdrage wordt vereist dat de visser:
 
-- a. het opvissen van een explosief onmiddellijk aan de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), meldt teneinde assistentie van het Ministerie van Defensie en de Kustwacht te verkrijgen;
+- a. het opvissen van een explosief onmiddellijk aan de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, meldt teneinde assistentie van het Ministerie van Defensie en de Kustwacht te verkrijgen;
 
 - b. bij de melding de volgende informatie geeft:
 
-- 1. nationaliteit van het vaartuig alsmede lettertekens en nummer of roepnaam.
+   - 1. nationaliteit van het vaartuig alsmede lettertekens en nummer of roepnaam.
 
-- 2. geografische positie van het vaartuig bij het opvissen.
+   - 2. geografische positie van het vaartuig bij het opvissen.
 
-- 3. zo duidelijk mogelijke beschrijving van het explosief.
+   - 3. zo duidelijk mogelijke beschrijving van het explosief.
 
-- 4. getroffen maatregelen:
+   - 4. getroffen maatregelen:
 
 - c. aan het Ministerie van Defensie gelegenheid geeft het explosief op zee over te nemen of aan boord van het vissersvaartuig onschadelijk te maken; en
 
-- d. eventuele aanwijzingen over de behandeling van het explosief van de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland,](onbekend) of het Ministerie van Defensie opvolgt.
+- d. eventuele aanwijzingen over de behandeling van het explosief van de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland, of het Ministerie van Defensie opvolgt.
 
 ##### Artikel 4. Aanvraag, toekenning en uitkering
 
-1. De melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005727&artikel=3&z=2019-07-01&g=2019-07-01), wordt tevens aangemerkt als een aanvraag van de visser om een bijdrage. De Directeur Kustwacht bedoeld, in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend), geeft de aanvraag schriftelijk ter behandeling door aan de hoofdingenieur-directeur van de directie Zee en Delta van Rijkswaterstaat.
+1. De melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005727&artikel=3&z=2019-07-01&g=2019-07-01), wordt tevens aangemerkt als een aanvraag van de visser om een bijdrage. De Directeur Kustwacht bedoeld, in artikel 14 van de Regeling organisatie Kustwacht Nederland, geeft de aanvraag schriftelijk ter behandeling door aan de hoofdingenieur-directeur van de directie Zee en Delta van Rijkswaterstaat.
 
 2. De hoofdingenieur-directeur deelt de visser binnen één maand na de aanvraag schriftelijk zijn beslissing mede.
 
@@ -86,7 +85,7 @@ Voor toekenning van de bijdrage wordt vereist dat de visser:
 
 1. Een visser heeft geen aanspraak meer op een bijdrage, wanneer het budget op het moment van zijn aanvraag is uitgeput. De aanvragen worden behandeld in volgorde van binnenkomst.
 
-2. Het budget is € 45.378,00 Indien voor volgende jaren een ander bedrag dan € 45.378,00 beschikbaar wordt gesteld, maakt de hoofdingenieur-directeur het afwijkende bedrag bekend door een Bericht aan zeevarenden en een Bekendmaking aan de Visserij, uit te geven door de Directeur Kustwacht, bedoeld in [artikel 14 van de Regeling organisatie Kustwacht Nederland](onbekend).
+2. Het budget is € 45.378,00 Indien voor volgende jaren een ander bedrag dan € 45.378,00 beschikbaar wordt gesteld, maakt de hoofdingenieur-directeur het afwijkende bedrag bekend door een Bericht aan zeevarenden en een Bekendmaking aan de Visserij, uit te geven door de Directeur Kustwacht, bedoeld in artikel 14 van de Regeling organisatie Kustwacht Nederland.
 
 3. Zodra de hoofdingenieur-directeur kan verwachten dat het budget voor het einde van het betreffende jaar zal zijn uitgeput, maakt hij die verwachting bekend op de wijze van het tweede lid.
 

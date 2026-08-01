@@ -1,36 +1,17 @@
 ---
 title: "Reglement op de Tuchtrechtspraak"
 identifier: "BWBR0005821"
-country: "nl"
-rank: "zbo"
-publication_date: "1993-01-29"
-last_updated: "1993-01-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005821"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "6759913"
-version_id: "11611472"
-internal_id: "C15647021"
-label_id: "6748514"
-original_entry_into_force: "1993-01-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005821/1993-01-29/0"
-intitule_bron: "Stcrt.1993-18"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1993-01-27"
-intitule_in_force: "1993-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-18"
-original_published_date: "1993-01-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-01-29"
-jci_1_3: "jci1.3:c:BWBR0005821&z=1993-01-29&g=1993-01-29"
-jci_1_0: "1.0:c:BWBR0005821&g=1993-01-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1993-01-29"
+publicatiedatum: 1993-01-29
+laatste_update: 1993-01-29
+status: geldig
+toestand: 1993-01-29
+bron: "https://wetten.overheid.nl/BWBR0005821"
+opgehaald: 2026-08-01
 ---
-# Reglement op de Tuchtrechtspraak
 
-Gelet op [artikel 10, derde lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371) maakt de Staatssecretaris van Landbouw, Natuurbeheer en Visserij de tekst bekend van het Controleregelement en het gewijzigde Tuchtreglement van de Vereniging 'Kwaliteits-Controlebureau voor Groenten en Fruit': aan deze reglementen is bij beschikking van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 28 december 1992, No. J. 9220672, goedkeuring verleend.
+# Reglement op de Tuchtrechtspraak
 
 #### Algemene bepalingen
 
@@ -126,11 +107,11 @@ Het tuchtgerecht is bevoegd te oordelen over de overtredingen, door aangeslotene
 
 1. Indien een feit, dat tuchtrechtelijk kan worden afgedaan, wordt begaan door of vanwege een rechtspersoon of een vennootschap wordt de tuchtrechtelijke vervolging ingesteld en worden maatregelen genomen:
 
-- –. hetzij tegen de rechtspersoon of die vennootschap;
+- – hetzij tegen de rechtspersoon of die vennootschap;
 
-- –. hetzij tegen hen, die tot het feit opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten;
+- – hetzij tegen hen, die tot het feit opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten;
 
-- –. hetzij tegen beiden.
+- – hetzij tegen beiden.
 
 2. Een feit wordt onder meer begaan door of vanwege een rechtspersoon of een vennootschap indien het begaan wordt door personen, die hetzij uit hoofde van een dienstbetrekking, hetzij uit andere hoofde handelen in de sfeer van de rechtspersoon of de vennootschap ongeacht of deze personen ieder afzonderlijk het feit hebben begaan, dan wel bij hen gezamenlijk de elementen van het feit aanwezig zijn.
 
@@ -152,9 +133,9 @@ De directeur van het K.C.B, doet de tuchtrechtelijke verklaring, dan wel, in het
 
 1. Een zaak wordt namens het bestuur door het dagelijks bestuur binnen een termijn van ten hoogste 14 dagen na ontvangst van de tuchtrechtelijke verklaring dan wel van het proces-verbaal bij het tuchtgerecht aanhangig gemaakt door middel van een schriftelijke verklaring, inhoudende:
 
-- –. korte omschrijving van het ten laste gelegde feit, met vermelding omstreeks welke tijd en waar ter plaatse dit zou zijn begaan;
+- – korte omschrijving van het ten laste gelegde feit, met vermelding omstreeks welke tijd en waar ter plaatse dit zou zijn begaan;
 
-- –. naam en adres van de betrokken aangeslotene of aangeslotenen.
+- – naam en adres van de betrokken aangeslotene of aangeslotenen.
 
 2. Alle op de zaak betrekking hebben stukken dienen aan het tuchtgerecht te worden overgelegd.
 

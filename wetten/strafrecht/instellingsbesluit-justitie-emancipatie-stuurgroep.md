@@ -1,48 +1,25 @@
 ---
 title: "Instellingsbesluit Justitie Emancipatie Stuurgroep"
 identifier: "BWBR0006865"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-09-01"
-last_updated: "1994-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006865"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3727463"
-version_id: "5510402"
-internal_id: "C5703491"
-label_id: "3707284"
-dtd_version: "2.0"
-original_entry_into_force: "1994-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006865/1994-09-01/0"
-intitule_bron: "Stcrt.1994-174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-08-11"
-intitule_published: "1994-09-12"
-intitule_in_force: "1994-09-12"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-174"
-original_signed_date: "1994-08-11"
-original_published_date: "1994-09-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-09-01"
-jci_1_3: "jci1.3:c:BWBR0006865&z=1994-09-01&g=1994-09-01"
-jci_1_0: "1.0:c:BWBR0006865&g=1994-09-01"
-citeertitel_status: "officieel"
-signed_date: "1994-08-11"
-entry_into_force: "1994-09-01"
+publicatiedatum: 1994-09-01
+laatste_update: 1994-09-01
+status: geldig
+toestand: 1994-09-01
+bron: "https://wetten.overheid.nl/BWBR0006865"
+opgehaald: 2026-08-01
 ---
+
 # Instellingsbesluit Justitie Emancipatie Stuurgroep
-
-Overwegende dat bij besluit van 6 maart 1979 een Contactgroep Justitie Emancipatie Stimulering (JES) is ingesteld, verder te noemen de contactgroep;
-
-Overwegende dat een actieve en samenhangende ontwikkeling van het emancipatiebeleid het wenselijk maakt dat de contactgroep wordt vervangen door een Justitie Emancipatie Stuurgroep, die als doelstelling heeft te komen tot een geïntegreerd emancipatiebeleid van het ministerie van Justitie;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit Besluit wordt verstaan onder:
+
+‘Ministerie’:
+
+het Ministerie van Justitie (in de zin van [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44));
 
 ##### Artikel 2
 

@@ -1,44 +1,33 @@
 ---
 title: "Regeling afgifte certificaten Nederlandse Federatie Cinematografie"
 identifier: "BWBR0005882"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-02-28"
-last_updated: "1993-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005882"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3743663"
-version_id: "5526532"
-internal_id: "C5719621"
-label_id: "3723414"
-dtd_version: "2.0"
-original_entry_into_force: "1993-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005882/1993-02-28/0"
-intitule_bron: "Stcrt.1993-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-02-23"
-intitule_published: "1993-02-26"
-intitule_in_force: "1993-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-40"
-original_signed_date: "1993-02-23"
-original_published_date: "1993-02-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-02-28"
-jci_1_3: "jci1.3:c:BWBR0005882&z=1993-02-28&g=1993-02-28"
-jci_1_0: "1.0:c:BWBR0005882&g=1993-02-28"
-citeertitel_status: "officieel"
-signed_date: "1993-02-23"
-entry_into_force: "1993-02-28"
+publicatiedatum: 1993-02-28
+laatste_update: 1993-02-28
+status: geldig
+toestand: 1993-02-28
+bron: "https://wetten.overheid.nl/BWBR0005882"
+opgehaald: 2026-08-01
 ---
-# Regeling afgifte certificaten Nederlandse Federatie Cinematografie
 
-Besluit:
+# Regeling afgifte certificaten Nederlandse Federatie Cinematografie
 
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
+
+richtlijn:
+
+de richtlijn van de Raad van Europese Gemeenschappen van 15 oktober 1963 (63/607/EEG);
+
+N.F.C.:
+
+de Nederlandse Federatie voor Cinematografie;
+
+de minister:
+
+de Minister van Welzijn, Volksgezondheid en Cultuur.
 
 ##### Artikel 2
 

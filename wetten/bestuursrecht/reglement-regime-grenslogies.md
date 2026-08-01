@@ -1,48 +1,20 @@
 ---
 title: "Besluit van 14 januari 1993, houdende vaststelling van een reglement voor het regime in een grenslogies ingevolge artikel 7a, vierde lid, Vreemdelingenwet"
+citeertitel: "Reglement regime grenslogies"
 identifier: "BWBR0005848"
-country: "nl"
-rank: "amvb"
-publication_date: "2001-04-01"
-last_updated: "2001-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005848"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "837093"
-version_id: "1215092"
-internal_id: "C1215091"
-label_id: "811334"
-dtd_version: "2.0"
-original_entry_into_force: "1993-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005848/2001-04-01/0"
-intitule_bron: "Stb.1993-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-01-14"
-intitule_status: "goed"
-original_publication: "Stb.1993-45"
-original_signed_date: "1993-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-04-01"
-jci_1_3: "jci1.3:c:BWBR0005848&z=2001-04-01&g=2001-04-01"
-jci_1_0: "1.0:c:BWBR0005848&g=2001-04-01"
-citeertitel_status: "officieel"
-short_title: "Reglement regime grenslogies"
-signed_date: "1993-01-14"
-entry_into_force: "1993-04-01"
+publicatiedatum: 1993-04-01
+laatste_update: 2001-04-01
+status: geldig
+toestand: 2001-04-01
+bron: "https://wetten.overheid.nl/BWBR0005848"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 14 januari 1993, houdende vaststelling van een reglement voor het regime in een grenslogies ingevolge artikel 7a, vierde lid, Vreemdelingenwet
 
-Op de voordracht van de Staatssecretaris van Justitie van 26 februari 1992, Stafafdeling Wetgeving Publiekrecht, nr. 192399/92/6;
-
-Gelet op artikel 7a van de Vreemdelingenwet (Stb. 1965, 40);
-
-De Raad van State gehoord (advies van 3 september 1992, nr. WO 3.92.0094);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 12 januari 1993, Stafafdeling Wetgeving Publiekrecht, nr. 264314/93/6;
-
-Hebben goedgevonden en verstaan:
-
-## Titel I. Algemene bepalingen
+### Titel I. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -58,7 +30,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - 3. "Onze Minister": Onze Minister van Justitie.
 
-## Titel II. Beheer
+### Titel II. Beheer
 
 ##### Artikel 3
 
@@ -70,7 +42,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 4. Bij afwezigheid of verhindering van de directeur wordt deze met het oog op de toepassing van de bij of krachtens dit besluit gegeven voorschriften vervangen. Onze Minister wijst een of meer ambtenaren, die werkzaam zijn in het grenslogies, aan als plaatsvervanger van de directeur.
 
-## Titel III. Regime
+### Titel III. Regime
 
 ##### Artikel 4
 
@@ -114,9 +86,9 @@ Gedurende de voor de nachtrust bestemde uren is de vreemdeling gehouden in de aa
 
 - b. indien en voor zolang als dit volstrekt noodzakelijk is teneinde zijn verblijf te verzekeren dan wel de veiligheid en orde in het grenslogies te handhaven.
 
-3. Indien de tenuitvoerlegging van de in het tweede lid onder **b** bedoelde afzondering in het grenslogies op ernstige bezwaren stuit kan de directeur bevelen dat de afzondering in een andere ruimte als bedoeld in [artikel 6, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) wordt ondergaan.
+3. Indien de tenuitvoerlegging van de in het tweede lid onder *b* bedoelde afzondering in het grenslogies op ernstige bezwaren stuit kan de directeur bevelen dat de afzondering in een andere ruimte als bedoeld in [artikel 6, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) wordt ondergaan.
 
-4. Alvorens de vreemdeling in afzondering wordt geplaatst op de grond als bedoeld onder **b** van het tweede lid, hoort de directeur hem, tenzij de veiligheid en orde in de inrichting dit niet toelaten of communicatie met hem niet mogelijk is.
+4. Alvorens de vreemdeling in afzondering wordt geplaatst op de grond als bedoeld onder *b* van het tweede lid, hoort de directeur hem, tenzij de veiligheid en orde in de inrichting dit niet toelaten of communicatie met hem niet mogelijk is.
 
 ##### Artikel 8
 
@@ -138,9 +110,9 @@ De directeur draagt zorg voor:
 
 1. De vreemdeling ontvangt bij zijn binnenkomst, zo mogelijk in een voor hem begrijpelijke taal, een afschrift van dit besluit alsmede van het in het grenslogies geldende huishoudelijke reglement.
 
-2. De directeur draagt er zorg voor dat de vreemdeling ten aanzien van wie afzondering als bedoeld in [artikel 7, tweede lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005848&titeldeel=III&artikel=7&z=2001-04-01&g=2001-04-01), is bevolen alsmede van wie een bezoeker de toegang tot het grenslogies is geweigerd, hieromtrent binnen 24 uur na voornoemd bevel of de weigering een schriftelijke mededeling ontvangt, zoveel mogelijk in een voor hem begrijpelijke taal.
+2. De directeur draagt er zorg voor dat de vreemdeling ten aanzien van wie afzondering als bedoeld in [artikel 7, tweede lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005848&titeldeel=III&artikel=7&z=2001-04-01&g=2001-04-01), is bevolen alsmede van wie een bezoeker de toegang tot het grenslogies is geweigerd, hieromtrent binnen 24 uur na voornoemd bevel of de weigering een schriftelijke mededeling ontvangt, zoveel mogelijk in een voor hem begrijpelijke taal.
 
-## Titel IV. Toezicht
+### Titel IV. Toezicht
 
 ##### Artikel 10
 
@@ -162,9 +134,9 @@ De vreemdeling kan zich met elke grief die verband houdt met zijn verblijf in he
 
 - b. kennis te nemen van door de vreemdeling naar voren gebrachte grieven en waar mogelijk ter zake tussen de vreemdeling en de directeur te bemiddelen;
 
-- c. aan Onze Minister en de directeur hetzij uit eigen beweging, hetzij op verzoek, advies en inlichtingen te geven voorzover deze verband houden met de onder **a** en **b** omschreven zaken.
+- c. aan Onze Minister en de directeur hetzij uit eigen beweging, hetzij op verzoek, advies en inlichtingen te geven voorzover deze verband houden met de onder *a* en *b* omschreven zaken.
 
-2. Ter uitvoering van de in het eerste lid, onder **b**, genoemde taak wijst zij uit haar midden een lid aan dat is belast met de behandeling van grieven als bedoeld in het eerste lid, onder **b**, en dat hiertoe regelmatig spreekuur houdt in het grenslogies.
+2. Ter uitvoering van de in het eerste lid, onder *b*, genoemde taak wijst zij uit haar midden een lid aan dat is belast met de behandeling van grieven als bedoeld in het eerste lid, onder *b*, en dat hiertoe regelmatig spreekuur houdt in het grenslogies.
 
 ##### Artikel 13
 
@@ -174,13 +146,13 @@ De vreemdeling kan zich met elke grief die verband houdt met zijn verblijf in he
 
 3. De commissie van toezicht vergadert als regel eenmaal in de maand. De vergadering wordt bijgewoond door de directeur, tenzij de commissie anders bepaalt.
 
-## Titel V. Beklag
+### Titel V. Beklag
 
 ##### Artikel 14
 
 De vreemdeling kan beklag doen over:
 
-- a. zijn plaatsing in afzondering ingevolge [artikel 7, tweede lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005848&titeldeel=III&artikel=7&z=2001-04-01&g=2001-04-01);
+- a. zijn plaatsing in afzondering ingevolge [artikel 7, tweede lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005848&titeldeel=III&artikel=7&z=2001-04-01&g=2001-04-01);
 
 - b. de weigering een bezoeker tot hem toe te laten;
 
@@ -224,9 +196,9 @@ De vreemdeling kan beklag doen over:
 
 2. De beklagcommissie kan de klacht geheel of ten dele gegrondverklaren:
 
-- -. indien een wettelijk voorschrift is geschonden;
+- - indien een wettelijk voorschrift is geschonden;
 
-- -. indien de beslissing of de maatregel waarover wordt geklaagd bij afweging van alle in aanmerking komende omstandigheden onredelijk of onbillijk moet worden geacht.
+- - indien de beslissing of de maatregel waarover wordt geklaagd bij afweging van alle in aanmerking komende omstandigheden onredelijk of onbillijk moet worden geacht.
 
 3. Indien bij gegrondverklaring van het beklag de gevolgen van de maatregel geheel of ten dele ongedaan kunnen worden gemaakt geeft de beklagcommissie hiertoe een aanwijzing aan de directeur. Voor zover de gevolgen niet of niet geheel ongedaan zijn te maken bepaalt zij op welke wijze de vreemdeling genoegdoening kan worden gegeven en geeft zij hiertoe aan de directeur het bevel.
 
@@ -236,7 +208,7 @@ De vreemdeling kan beklag doen over:
 
 2. Indien de klager de Nederlandse taal niet voldoende verstaat draagt de voorzitter zorg voor de inschakeling van een tolk of vertaler. Onze Minister stelt een vergoeding vast voor de door tolk of de vertaler verrichte werkzaamheden.
 
-## Titel VI. Slotbepalingen
+### Titel VI. Slotbepalingen
 
 ##### Artikel 20
 
@@ -245,5 +217,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 21
 
 Dit besluit kan worden aangehaald als het Reglement regime grenslogies.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.

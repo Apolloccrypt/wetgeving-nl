@@ -1,48 +1,22 @@
 ---
 title: "Wet van 24 december 1992 tot wijziging van de Wet op de accijns in verband met de afschaffing van de fiscale grenzen"
+citeertitel: "Wijzigingswet Wet op de accijns in verband met de afschaffing van de fiscale grenzen"
 identifier: "BWBR0005808"
-country: "nl"
-rank: "wet"
-publication_date: "1993-01-01"
-last_updated: "1993-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005808"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "529193"
-version_id: "777562"
-internal_id: "C777561"
-label_id: "513934"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005808/1993-01-01/0"
-intitule_bron: "Stb.1992-711"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-24"
-intitule_status: "goed"
-original_publication: "Stb.1992-711"
-original_signed_date: "1992-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "22697"
-entry_into_force_date: "1993-01-01"
-entry_into_force_dossier: "22697"
-jci_1_3: "jci1.3:c:BWBR0005808&z=1993-01-01&g=1993-01-01"
-jci_1_0: "1.0:c:BWBR0005808&g=1993-01-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de accijns in verband met de afschaffing van de fiscale grenzen"
-signed_date: "1992-12-24"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 1993-01-01
+status: geldig
+toestand: 1993-01-01
+bron: "https://wetten.overheid.nl/BWBR0005808"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 24 december 1992 tot wijziging van de Wet op de accijns in verband met de afschaffing van de fiscale grenzen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de wetgeving inzake accijnzen dient te worden aangepast aan de Richtlijnen van de Raad van de Europese Gemeenschappen betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (92/12/EEG van 25 februari 1992; **PbEG** L 76), betreffende de harmonisatie van de structuur van de accijns op alcohol en alcoholhoudende dranken (92/83/EEG van 19 oktober 1992; **PbEG** L 316), betreffende de harmonisatie van de structuur van de accijns op minerale oliën (92/81/EEG van 19 oktober 1992; **PbEG** L 316), tot wijziging van de [Richtlijnen 72/464/EEG](31972L0464) en [79/32/EEG](31979L0032) betreffende de belasting, andere dan omzetbelasting, op het verbruik van tabaksfabrikaten ([92/78/EEG](31992L0078) van 19 oktober 1992; **PbEG** L 316), betreffende de onderlinge aanpassing van de accijnstarieven van alcohol en alcoholhoudende dranken (92/84/EEG van 19 oktober 1992; **PbEG** L 316), betreffende de onderlinge aanpassing van de accijnstarieven voor minerale oliën (92/82/EEG van 19 oktober 1992; **PbEG** L 316), inzake de onderlinge aanpassing van de belastingen op sigaretten (92/79/EEG van 19 oktober 1992; **PbEG** L 316) en inzake de onderlinge aanpassing van de belastingen op andere tabaksfabrikaten dan sigaretten (92/80/EEG van 19 oktober 1992; **PbEG** L 316);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
@@ -50,7 +24,7 @@ Bevat wijzigingen in andere regelgeving.
 
 2. Het eerste lid is slechts van toepassing voor zover de in die bepaling bedoelde regels:
 
-- a. noodzakelijk zijn ter uitvoering van de door de Raad van de Europese Gemeenschappen vastgestelde richtlijnen of verordeningen die strekken tot aanvulling of vereenvoudiging van de Richtlijn van de Raad van de Europese Gemeenschappen betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (92/12/EEG van 25 februari 1992; **PbEG** L 76) dan wel van de richtlijnen betreffende de tarieven en de strukturen van de accijnzen;
+- a. noodzakelijk zijn ter uitvoering van de door de Raad van de Europese Gemeenschappen vastgestelde richtlijnen of verordeningen die strekken tot aanvulling of vereenvoudiging van de Richtlijn van de Raad van de Europese Gemeenschappen betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (92/12/EEG van 25 februari 1992; *PbEG* L 76) dan wel van de richtlijnen betreffende de tarieven en de strukturen van de accijnzen;
 
 - b. strekken tot wijziging of aanvulling van bepalingen die zijn gebaseerd op communautaire regelgeving in verband met de afschaffing van de fiscale grenzen.
 
@@ -72,26 +46,24 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IX
 
 Deze wet treedt in werking met ingang van 1 januari 1993.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

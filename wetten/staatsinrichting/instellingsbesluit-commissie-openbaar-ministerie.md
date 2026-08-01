@@ -1,44 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie Openbaar Ministerie"
 identifier: "BWBR0006296"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1999-12-29"
-last_updated: "1999-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006296"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3722253"
-version_id: "5505162"
-internal_id: "C5698251"
-label_id: "3702044"
-dtd_version: "2.0"
-original_entry_into_force: "1999-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006296/1999-12-29/0"
-intitule_bron: "Stcrt.1993-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-09"
-intitule_published: "1993-12-27"
-intitule_in_force: "1993-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-249"
-original_signed_date: "1993-12-09"
-original_published_date: "1993-12-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1999-12-29"
-jci_1_3: "jci1.3:c:BWBR0006296&z=1999-12-29&g=1999-12-29"
-jci_1_0: "1.0:c:BWBR0006296&g=1999-12-29"
-citeertitel_status: "officieel"
-signed_date: "1993-12-09"
-entry_into_force: "1999-12-29"
+publicatiedatum: 1999-12-29
+laatste_update: 1999-12-29
+status: geldig
+toestand: 1999-12-29
+bron: "https://wetten.overheid.nl/BWBR0006296"
+opgehaald: 2026-08-01
 ---
+
 # Instellingsbesluit Commissie Openbaar Ministerie
-
-Overwegende dat het Openbaar Ministerie de afgelopen jaren is geconfronteerd met een groeiende en in ernst toenemende criminaliteit en met een uitbreiding van de taken en bevoegdheden;
-
-Overwegende dat het Openbaar Ministerie een cruciale positie heeft bij de rechtshandhaving en de criminaliteitsbestrijding. Ten slotte overwegende dat er gelet op de nieuwe politie-organisatie en de ontwikkelingen betreffende de (her)indeling van het binnenlands bestuur aanleiding is om de indeling en de organisatie van het Openbaar Ministerie aan een nader onderzoek te onderwerpen;
-
-Besluit:
 
 ##### Artikel 1
 

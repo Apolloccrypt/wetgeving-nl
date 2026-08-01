@@ -1,46 +1,18 @@
 ---
 title: "Wet van 9 december 1993, houdende voorschriften inzake uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden in Nederland"
+citeertitel: "Garantiewet Surinaamse pensioenen"
 identifier: "BWBR0006298"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006298"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "1314403"
-version_id: "1955602"
-internal_id: "C1955601"
-label_id: "1273774"
-dtd_version: "2.0"
-original_entry_into_force: "2001-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006298/2013-01-01/0"
-intitule_bron: "Stb.1993-695"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-09"
-intitule_status: "goed"
-original_publication: "Stb.2001-377"
-original_signed_date: "2001-07-16"
-original_published_date: "2001-08-23"
-original_effect: "structuurwijziging"
-original_dossier: "27692"
-original_url_id: "stb-2001-377"
-entry_into_force_date: "2001-08-24"
-entry_into_force_dossier: "27692"
-jci_1_3: "jci1.3:c:BWBR0006298&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0006298&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Garantiewet Surinaamse pensioenen"
-signed_date: "2001-07-16"
-entry_into_force: "2001-08-24"
+publicatiedatum: 2001-08-24
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0006298"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 9 december 1993, houdende voorschriften inzake uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden in Nederland
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een garantie te treffen houdende uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden en hun nabestaanden die voor de soevereiniteitsoverdracht aan Suriname op 25 november 1975 aldaar pensioenaanspraken hebben opgebouwd en die zich voor 1 mei 1985 in Nederland gevestigd hebben;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -58,9 +30,9 @@ In deze wet wordt verstaan onder:
 
 - f. nabestaande:
 
-- 1°. de weduwe of weduwnaar die op grond van de Surinaamse Ambtenarenpensioenverordening 1972 aanspraak heeft op een nabestaandenpensioen ingevolge het overlijden van een ambtenaar of gepensioneerde en die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd;
+   - 1°. de weduwe of weduwnaar die op grond van de Surinaamse Ambtenarenpensioenverordening 1972 aanspraak heeft op een nabestaandenpensioen ingevolge het overlijden van een ambtenaar of gepensioneerde en die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd;
 
-- 2°. de wees die op grond van de Surinaamse Ambtenarenpensioenverordening 1972 aanspraak heeft op een wezenpensioen ingevolge het overlijden van een ambtenaar of gepensioneerde en die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd of is geboren uit zijn voor die datum in Nederland gevestigde moeder;
+   - 2°. de wees die op grond van de Surinaamse Ambtenarenpensioenverordening 1972 aanspraak heeft op een wezenpensioen ingevolge het overlijden van een ambtenaar of gepensioneerde en die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd of is geboren uit zijn voor die datum in Nederland gevestigde moeder;
 
 - g. rechthebbende: de gepensioneerde die zich voor 1 mei 1985 blijvend in Nederland heeft gevestigd dan wel de nabestaande of nabestaanden;
 
@@ -88,25 +60,25 @@ In deze wet wordt verstaan onder:
 
 - a. de wisselkoers van de Surinaamse gulden: en met
 
-- 1°. op 25 november 1975, zijnde 0,672, indien de rechthebbende zich voor of op die datum in Nederland heeft gevestigd;
+   - 1°. op 25 november 1975, zijnde 0,672, indien de rechthebbende zich voor of op die datum in Nederland heeft gevestigd;
 
-- 2°. van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;
+   - 2°. van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;
 
-- 3°. van de maand waarin het recht op Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging nog geen recht had op een Surinaams pensioen;
+   - 3°. van de maand waarin het recht op Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging nog geen recht had op een Surinaams pensioen;
 
 - b. de breuk waarvan de teller wordt gevormd door de consumentenprijsindex in de maand van uitbetaling van het garantiepensioen, met als basis de maand november 1975, en waarvan de noemer:
 
-- 1°. 100 bedraagt, indien de rechthebbende zich voor of op 25 november 1975 in Nederland heeft gevestigd;
+   - 1°. 100 bedraagt, indien de rechthebbende zich voor of op 25 november 1975 in Nederland heeft gevestigd;
 
-- 2°. de consumentenprijsindex is ten tijde van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;
+   - 2°. de consumentenprijsindex is ten tijde van de maand van vestiging in Nederland, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland reeds recht had op een Surinaams pensioen;
 
-- 3°. de consumentenprijsindex is ten tijde van de maand waarin het recht op een Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland nog geen recht had op een Surinaams pensioen.
+   - 3°. de consumentenprijsindex is ten tijde van de maand waarin het recht op een Surinaams pensioen wordt verkregen, indien de rechthebbende zich na 25 november 1975 in Nederland heeft gevestigd en op het moment van zijn vestiging in Nederland nog geen recht had op een Surinaams pensioen.
 
-2. In afwijking van het eerste lid wordt voor de berekening van het garantiepensioen van de rechthebbende die aanspraak heeft op een Surinaams nabestaandenpensioen ingevolge het overlijden van een gepensioneerde die zich voor 1 mei 1985 in Nederland heeft gevestigd, gebruik gemaakt van de wisselkoers als bedoeld in het eerste lid, onder **a**, en de breuk als bedoeld in het eerste lid, onder **b**, die ten aanzien van het garantiepensioen van de overledene golden of zouden hebben gegolden.
+2. In afwijking van het eerste lid wordt voor de berekening van het garantiepensioen van de rechthebbende die aanspraak heeft op een Surinaams nabestaandenpensioen ingevolge het overlijden van een gepensioneerde die zich voor 1 mei 1985 in Nederland heeft gevestigd, gebruik gemaakt van de wisselkoers als bedoeld in het eerste lid, onder *a*, en de breuk als bedoeld in het eerste lid, onder *b*, die ten aanzien van het garantiepensioen van de overledene golden of zouden hebben gegolden.
 
-3. De in het eerste lid, onderdeel **a**, onder 2°, en onderdeel **a**, onder 3°, bedoelde wisselkoersen worden niet hoger gesteld dan 0,672 en niet lager dan 0,505.
+3. De in het eerste lid, onderdeel *a*, onder 2°, en onderdeel *a*, onder 3°, bedoelde wisselkoersen worden niet hoger gesteld dan 0,672 en niet lager dan 0,505.
 
-4. Onze Minister stelt de in het eerste lid, onderdeel **a**, onder 2° en onderdeel **a**, onder 3°, bedoelde wisselkoersen vast, alsmede de in dat lid, onder **b**, bedoelde prijsindexcijfers.
+4. Onze Minister stelt de in het eerste lid, onderdeel *a*, onder 2° en onderdeel *a*, onder 3°, bedoelde wisselkoersen vast, alsmede de in dat lid, onder *b*, bedoelde prijsindexcijfers.
 
 5. De Stichting zal, in afwijking van de Ambtenarenpensioenverordening 1972, bij overlijden van de gepensioneerde uitsluitend aan zijn nabestaanden een uitkering van twee maanden toekennen.
 
@@ -138,12 +110,10 @@ Voorzover ter zake van het genot van een garantiepensioen premie krachtens de [A
 
 ##### Artikel 7
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.
 
 2. Deze wet werkt, ten aanzien van aanvragen om garantiepensioen die zijn ingediend vóór 1 januari 1994, terug tot en met 1 januari 1992. Bij aanvragen om garantiepensioen die zijn ingediend op of na 1 januari 1994, gaat het garantiepensioen in op de eerste dag van de maand waarin het verzoek door de stichting is ontvangen.
 
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Garantiewet Surinaamse pensioenen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,17 @@
 ---
 title: "Regeling inzake correctie van de belastingnorm voor huurwoningen voor de ontwikkeling van de kosten van milieumaatregelen"
 identifier: "BWBR0005551"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2006-01-01"
-last_updated: "2006-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005551"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "3581183"
-version_id: "5364262"
-internal_id: "C5557351"
-label_id: "3561144"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005551/2006-01-01/0"
-intitule_bron: "Stcrt.1992-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-18"
-intitule_published: "1992-06-25"
-intitule_in_force: "1992-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-120"
-original_signed_date: "1992-06-18"
-original_published_date: "1992-06-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-06-27"
-jci_1_3: "jci1.3:c:BWBR0005551&z=2006-01-01&g=2006-01-01"
-jci_1_0: "1.0:c:BWBR0005551&g=2006-01-01"
-citeertitel_status: "officieel"
-signed_date: "1992-06-18"
-entry_into_force: "1992-06-27"
+publicatiedatum: 1992-06-27
+laatste_update: 2006-01-01
+status: geldig
+toestand: 2006-01-01
+bron: "https://wetten.overheid.nl/BWBR0005551"
+opgehaald: 2026-08-01
 ---
+
 # Regeling inzake correctie van de belastingnorm voor huurwoningen voor de ontwikkeling van de kosten van milieumaatregelen
-
-Overwegende, dat bij de aanpassing van de jaarlijkse bijdragen voor huurwoningen aan de ontwikkeling van de genormeerde exploitatielasten, voorzover deze betrekking hebben op de norm voor de belastingen, de kosten van het milieu buiten beschouwing dienen te worden gelaten;
-
-dat het in verband daarmede noodzakelijk is, de ontwikkeling van de belastingnorm voor de invloed van de milieukosten te corrigeren;
-
-Besluit:
 
 ##### Artikel 1
 

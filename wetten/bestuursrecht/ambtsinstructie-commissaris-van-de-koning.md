@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 juni 1994, houdende regels inzake de taken die de commissaris van de Koning op grond van artikel 126 Grondwet als rijksorgaan vervult"
+citeertitel: "Ambtsinstructie commissaris van de Koning"
 identifier: "BWBR0006728"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-03-30"
-last_updated: "2024-03-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006728"
+categorie: "Staatsinrichting en bestuur"
 soort: "AMvB"
-stam_id: "1011843"
-version_id: "29939132"
-internal_id: "C42910301"
-label_id: "980274"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006728/2024-03-30/0"
-intitule_bron: "Stb.1994-445"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-10"
-intitule_published: "1994-06-21"
-intitule_in_force: "1994-06-21"
-intitule_status: "goed"
-original_publication: "Stb.2024-13"
-original_signed_date: "2024-01-26"
-original_published_date: "2024-01-30"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2024-13"
-entry_into_force_date: "2024-01-26"
-jci_1_3: "jci1.3:c:BWBR0006728&z=2024-03-30&g=2024-03-30"
-jci_1_0: "1.0:c:BWBR0006728&g=2024-03-30"
-citeertitel_status: "officieel"
-short_title: "Ambtsinstructie commissaris van de Koning"
-signed_date: "2024-01-26"
-entry_into_force: "2024-01-26"
+publicatiedatum: 2024-01-26
+laatste_update: 2024-03-30
+status: geldig
+toestand: 2024-03-30
+bron: "https://wetten.overheid.nl/BWBR0006728"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 10 juni 1994, houdende regels inzake de taken die de commissaris van de Koning op grond van artikel 126 Grondwet als rijksorgaan vervult
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 24 januari 1994, nr. BK94/226, directoraat-generaal Openbaar Bestuur, afdeling Kabinetszaken;
-
-Gelet op [artikel 182 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=182), [artikel 61 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61), de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=34) en [35 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=35) en artikel IV van de wet tot wijziging van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau, en van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw, alsmede instelling van het Kapittel voor de civiele orden;
-
-De Raad van State gehoord (advies van 5 april 1994, nr. WO4.94.0081);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 30 mei 1994, nr. BK94/816;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -70,68 +38,6 @@ De commissaris brengt uit eigen beweging, dan wel op verzoek advies uit aan de r
 
 De commissaris coördineert de voorbereiding van de civiele verdediging door de in de provincie werkzame rijksambtenaren en personen deel uitmakend van de krijgsmacht, het provinciaal bestuur, de gemeentebesturen en de waterschapsbesturen, met inachtneming van de aanwijzingen van Onze Minister, belast met de coördinerende verantwoordelijkheid voor de civiele verdediging.
 
-##### Artikel 6
-
-1. De commissaris ziet toe op een ordelijk verloop van de procedure met betrekking tot de benoeming van een burgemeester.
-
-2. Voordat de vacature van burgemeester in een gemeente wordt opengesteld overlegt de commissaris met de raad over de eisen die aan de te benoemen burgemeester worden gesteld met betrekking tot de vervulling van het ambt. Indien zijn overleg met de raad niet tot overeenstemming leidt geeft hij aan welke eisen hij in afwijking van de raad zal hanteren bij zijn oordeel over de geschiktheid van kandidaten.
-
-3. De commissaris verschaft de vertrouwenscommissie een opgave van degenen die naar het ambt van burgemeester hebben gesolliciteerd, vergezeld van zijn oordeel over kandidaten die hij in beginsel geschikt acht voor benoeming, alsmede vergezeld van afschrift van de sollicitatiebrieven van laatstgenoemde kandidaten. Hij informeert desgevraagd de vertrouwenscommissie over de criteria die hij heeft gehanteerd bij zijn selectie van kandidaten. Een dergelijk oordeel alsmede afschrift van de sollicitatiebrieven geeft hij op verzoek van de vertrouwenscommissie ook met betrekking tot andere kandidaten.
-
-4. De commissaris verschaft zich de informatie over de sollicitant welke hij nodig acht of welke de vertrouwenscommissie door zijn tussenkomst nodig acht. Het inwinnen van referenties vindt slechts plaats met toestemming van de kandidaat, die hiervoor de gegevens aandraagt. De commissaris stelt de door hem verkregen inlichtingen ter beschikking van de vertrouwenscommissie, tenzij de kandidaat die het aangaat heeft laten weten dat verstrekking van die gegevens bij hem bezwaar ontmoet.
-
-5. Zodra de raad zijn aanbeveling heeft vastgesteld rapporteert de commissaris aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
-
-##### Artikel 7
-
-1. De commissaris ziet toe op een ordelijk verloop van de procedure met betrekking tot de herbenoeming van een burgemeester.
-
-2. Voordat de raad een aanbeveling inzake de herbenoeming van de burgemeester opstelt overlegt hij met de commissaris over het functioneren van de burgemeester.
-
-3. Na de ontvangst van de aanbeveling inzake de herbenoeming van de burgemeester zendt de commissaris deze door naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vergezeld van zijn advies daarover. Tevens rapporteert de commissaris over zijn bevindingen met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
-
-##### Artikel 7a
-
-1. De commissaris ziet toe op een ordelijk verloop van de procedure met betrekking tot het ontslag van een burgemeester.
-
-2. De commissaris onderzoekt de mogelijkheid of een gerezen conflict tussen de raad en de burgemeester kan worden opgelost.
-
-3. Ingeval van een mogelijke verstoorde verhouding tussen de burgemeester en de raad adviseert de commissaris op diens verzoek Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ter voorbereiding van het oordeel als bedoeld in [artikel 46a, eerste lid, onder b, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=46a).
-
-4. Na de ontvangst van de aanbeveling inzake het ontslag van de burgemeester zendt de commissaris deze door naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vergezeld van zijn advies daarover. Tevens rapporteert de commissaris over zijn bevindingen met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
-
-##### Artikel 8
-
-1. De commissaris zendt een ingekomen voorstel tot verlening van een onderscheiding met zijn advies en het advies van de burgemeester van de woonplaats van de te decoreren persoon aan het Kapittel voor de civiele orden.
-
-2. Een voorstel tot verlening van een onderscheiding aan een burgemeester wordt gedaan door de commissaris. De commissaris zendt het voorstel met zijn advies aan het Kapittel voor de civiele orden.
-
-##### Artikel 9
-
-De commissaris informeert over ontheffingen als bedoeld in [artikel 47, derde lid, Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=47) Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in zijn periodieke rapportage en informeert gelijktijdig Onze Minister van Infrastructuur en Waterstaat, tenzij naar zijn oordeel betrokkenheid van Onze Ministers noodzakelijk is alvorens op een concreet verzoek te besluiten.
-
-##### Artikel 10
-
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2024-03-30&g=2024-03-30), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
-
-##### Artikel 11
-
-De commissaris is belast met de bewaring en de registratie van de door hem verzonden en aan hem gerichte stukken, verband houdend met deze instructie.
-
-##### Artikel 12
-
-Het koninklijk besluit van 12 januari 1966 tot vaststelling van een nieuwe instructie voor de commissarissen des Konings in de provinciën (**Stb.** 25), wordt ingetrokken.
-
-##### Artikel 13
-
-Dit besluit treedt in werking met ingang van 15 augustus 1994.
-
-##### Artikel 14
-
-Dit besluit wordt aangehaald als: Ambtsinstructie commissaris van de Koning.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
 ##### Artikel 5a
 
 1. De commissaris overlegt met het regionaal beleidsteam, alvorens een aanwijzing te geven als bedoeld in [artikel 41 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=41).
@@ -156,7 +62,17 @@ De commissaris zendt zijn oordeel over het bestreden besluit, bedoeld in [artike
 
 3. De commissaris geeft uitvoering aan een verzoek van Onze Minister van Veiligheid en Justitie tot het geven van een aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 6
+
+1. De commissaris ziet toe op een ordelijk verloop van de procedure met betrekking tot de benoeming van een burgemeester.
+
+2. Voordat de vacature van burgemeester in een gemeente wordt opengesteld overlegt de commissaris met de raad over de eisen die aan de te benoemen burgemeester worden gesteld met betrekking tot de vervulling van het ambt. Indien zijn overleg met de raad niet tot overeenstemming leidt geeft hij aan welke eisen hij in afwijking van de raad zal hanteren bij zijn oordeel over de geschiktheid van kandidaten.
+
+3. De commissaris verschaft de vertrouwenscommissie een opgave van degenen die naar het ambt van burgemeester hebben gesolliciteerd, vergezeld van zijn oordeel over kandidaten die hij in beginsel geschikt acht voor benoeming, alsmede vergezeld van afschrift van de sollicitatiebrieven van laatstgenoemde kandidaten. Hij informeert desgevraagd de vertrouwenscommissie over de criteria die hij heeft gehanteerd bij zijn selectie van kandidaten. Een dergelijk oordeel alsmede afschrift van de sollicitatiebrieven geeft hij op verzoek van de vertrouwenscommissie ook met betrekking tot andere kandidaten.
+
+4. De commissaris verschaft zich de informatie over de sollicitant welke hij nodig acht of welke de vertrouwenscommissie door zijn tussenkomst nodig acht. Het inwinnen van referenties vindt slechts plaats met toestemming van de kandidaat, die hiervoor de gegevens aandraagt. De commissaris stelt de door hem verkregen inlichtingen ter beschikking van de vertrouwenscommissie, tenzij de kandidaat die het aangaat heeft laten weten dat verstrekking van die gegevens bij hem bezwaar ontmoet.
+
+5. Zodra de raad zijn aanbeveling heeft vastgesteld rapporteert de commissaris aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
 
 ##### Artikel 6a
 
@@ -178,14 +94,58 @@ De commissaris informeert Onze Minister over toestemmingen als bedoeld in [artik
 
 De commissaris brengt een voornemen tot het voorzien in de waarneming van de burgemeester ter kennis van Onze Minister.
 
+##### Artikel 7
+
+1. De commissaris ziet toe op een ordelijk verloop van de procedure met betrekking tot de herbenoeming van een burgemeester.
+
+2. Voordat de raad een aanbeveling inzake de herbenoeming van de burgemeester opstelt overlegt hij met de commissaris over het functioneren van de burgemeester.
+
+3. Na de ontvangst van de aanbeveling inzake de herbenoeming van de burgemeester zendt de commissaris deze door naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vergezeld van zijn advies daarover. Tevens rapporteert de commissaris over zijn bevindingen met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
+
+##### Artikel 7a
+
+1. De commissaris ziet toe op een ordelijk verloop van de procedure met betrekking tot het ontslag van een burgemeester.
+
+2. De commissaris onderzoekt de mogelijkheid of een gerezen conflict tussen de raad en de burgemeester kan worden opgelost.
+
+3. Ingeval van een mogelijke verstoorde verhouding tussen de burgemeester en de raad adviseert de commissaris op diens verzoek Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ter voorbereiding van het oordeel als bedoeld in [artikel 46a, eerste lid, onder b, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=46a).
+
+4. Na de ontvangst van de aanbeveling inzake het ontslag van de burgemeester zendt de commissaris deze door naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vergezeld van zijn advies daarover. Tevens rapporteert de commissaris over zijn bevindingen met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
+
 ##### Artikel 7b
 
 De commissaris informeert Onze Minister bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is. Hij informeert Onze Minister daarbij tevens over de maatregelen die hij ter zake neemt, waaronder het bijwonen van vergaderingen van het gemeentebestuur en het kennisnemen van bescheiden waarover het gemeentebestuur beschikt als bedoeld in [artikel 182, tweede lid, Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=182).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 8
+
+1. De commissaris zendt een ingekomen voorstel tot verlening van een onderscheiding met zijn advies en het advies van de burgemeester van de woonplaats van de te decoreren persoon aan het Kapittel voor de civiele orden.
+
+2. Een voorstel tot verlening van een onderscheiding aan een burgemeester wordt gedaan door de commissaris. De commissaris zendt het voorstel met zijn advies aan het Kapittel voor de civiele orden.
+
+##### Artikel 9
+
+De commissaris informeert over ontheffingen als bedoeld in [artikel 47, derde lid, Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=47) Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in zijn periodieke rapportage en informeert gelijktijdig Onze Minister van Infrastructuur en Waterstaat, tenzij naar zijn oordeel betrokkenheid van Onze Ministers noodzakelijk is alvorens op een concreet verzoek te besluiten.
 
 ##### Artikel 9a
 
 De commissaris roept de overleggen, bedoeld in [artikel 4, eerste lid, van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=4) met redelijke tussenpozen bijeen.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 10
+
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2024-03-30&g=2024-03-30), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+
+##### Artikel 11
+
+De commissaris is belast met de bewaring en de registratie van de door hem verzonden en aan hem gerichte stukken, verband houdend met deze instructie.
+
+##### Artikel 12
+
+Het koninklijk besluit van 12 januari 1966 tot vaststelling van een nieuwe instructie voor de commissarissen des Konings in de provinciën (*Stb.* 25), wordt ingetrokken.
+
+##### Artikel 13
+
+Dit besluit treedt in werking met ingang van 15 augustus 1994.
+
+##### Artikel 14
+
+Dit besluit wordt aangehaald als: Ambtsinstructie commissaris van de Koning.

@@ -1,46 +1,17 @@
 ---
 title: "Aanwijzing ex artikel 4 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de medisch specialisten"
 identifier: "BWBR0006246"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-11-21"
-last_updated: "1993-11-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006246"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "3893303"
-version_id: "5656812"
-internal_id: "C5849811"
-label_id: "3873164"
-dtd_version: "2.0"
-original_entry_into_force: "1993-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006246/1993-11-21/0"
-intitule_bron: "Stcrt.1993-223"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-11-11"
-intitule_published: "1993-11-19"
-intitule_in_force: "1993-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-223"
-original_signed_date: "1993-11-11"
-original_published_date: "1993-11-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-11-21"
-jci_1_3: "jci1.3:c:BWBR0006246&z=1993-11-21&g=1993-11-21"
-jci_1_0: "1.0:c:BWBR0006246&g=1993-11-21"
-citeertitel_status: "officieel"
-signed_date: "1993-11-11"
-entry_into_force: "1993-11-21"
+publicatiedatum: 1993-11-21
+laatste_update: 1993-11-21
+status: geldig
+toestand: 1993-11-21
+bron: "https://wetten.overheid.nl/BWBR0006246"
+opgehaald: 2026-08-01
 ---
+
 # Aanwijzing ex artikel 4 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de medisch specialisten
-
-Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14) (Stb. 1980, 646), laatstelijk gewijzigd bij wet van 20 november 1991 (Stb. 584);
-
-Gehoord het Centraal orgaan tarieven gezondheidszorg (advies van 21 oktober 1993, kenmerk Sch/mvd/A/93/084, vastgesteld in de vergadering van 18 oktober 1993)
-
-Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 1 november 1993, kenmerk VMP/O-933087);
-
-Besluiten:
 
 ##### Artikel 1
 

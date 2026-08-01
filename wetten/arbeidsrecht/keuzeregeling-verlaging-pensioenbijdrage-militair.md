@@ -1,46 +1,39 @@
 ---
 title: "Keuzeregeling verlaging pensioenbijdrage militair"
 identifier: "BWBR0006917"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1994-10-05"
-last_updated: "1994-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006917"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3731023"
-version_id: "5513932"
-internal_id: "C5707021"
-label_id: "3710814"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006917/1994-10-05/0"
-intitule_bron: "Stcrt.1994-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-09-15"
-intitule_published: "1994-10-04"
-intitule_in_force: "1994-10-04"
-intitule_status: "goed"
-original_publication: "Stcrt.1994-190"
-original_signed_date: "1994-09-15"
-original_published_date: "1994-10-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-10-05"
-jci_1_3: "jci1.3:c:BWBR0006917&z=1994-10-05&g=1994-10-05"
-jci_1_0: "1.0:c:BWBR0006917&g=1994-10-05"
-citeertitel_status: "officieel"
-signed_date: "1994-09-15"
-entry_into_force: "1994-10-05"
+publicatiedatum: 1994-10-05
+laatste_update: 1994-10-05
+status: geldig
+toestand: 1994-10-05
+bron: "https://wetten.overheid.nl/BWBR0006917"
+opgehaald: 2026-08-01
 ---
+
 # Keuzeregeling verlaging pensioenbijdrage militair
-
-Gelet op artikel F 6c, vierde lid, van de Algemene militaire pensioenwet en [artikel 82 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=82);
-
-Besluit:
 
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
+
+a.
+
+keuze:
+
+de eenmalige keuze, bedoeld in artikel F 6c, tweede en vierde lid, van de Algemene militaire pensioenwet, voor verlaging van de pensioenbijdrage, bedoeld in onderdeel c.
+
+b.
+
+militair:
+
+de beroepsmilitair, bedoeld in artikel A 1, eerste lid, onderdeel b, en tweede lid, onderdeel b, van de Algemene militaire pensioenwet, alsmede de gewezen beroepsmilitair die een wachtgeld geniet als bedoeld in dat artikel, tweede lid onderdeel h.
+
+c.
+
+pensioenbijdrage:
+
+de door de militair verschuldigde bijdrage, bedoeld in artikel R 2, derde lid van de Algemene militaire pensioenwet.
 
 ##### Artikel 2
 

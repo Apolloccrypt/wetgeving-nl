@@ -1,43 +1,18 @@
 ---
 title: "Wet van 27 april 1994, houdende regelen met betrekking tot de oprichting van de naamloze vennootschap De Nederlandse Munt N.V. en tot wijziging van de Muntwet 1987"
+citeertitel: "Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V."
 identifier: "BWBR0006636"
-country: "nl"
-rank: "wet"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006636"
+categorie: "Overig"
 soort: "wet"
-stam_id: "319913"
-version_id: "464502"
-internal_id: "C464501"
-label_id: "313274"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006636/2016-07-01/0"
-intitule_bron: "Stb.1994-336"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-04-27"
-intitule_status: "goed"
-original_publication: "Stb.1994-336"
-original_signed_date: "1994-04-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "23413"
-entry_into_force_date: "1994-07-01"
-jci_1_3: "jci1.3:c:BWBR0006636&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0006636&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V."
-signed_date: "1994-04-27"
-entry_into_force: "1994-07-01"
+publicatiedatum: 1994-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0006636"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 27 april 1994, houdende regelen met betrekking tot de oprichting van de naamloze vennootschap De Nederlandse Munt N.V. en tot wijziging van de Muntwet 1987
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat der Nederlanden overgaat tot oprichting van De Nederlandse Munt N.V. waarin de vermogensbestanddelen van de Staat die kunnen worden toegerekend aan 's Rijks Munt worden ingebracht en van de Stichting Nederlands Muntmuseum die het beheer zal voeren over de niet in de op te richten vennootschap onder te brengen collectie van het Muntmuseum van 's Rijks Munt en dat ingevolge [artikel 29 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=29) voor de oprichting van deze beide rechtspersonen machtiging bij wet vereist is, en voorts dat het wenselijk is in verband met oprichting van De Nederlandse Munt N.V. en de beleidswijziging inzake de uitgifte van zilveren dukaten de Muntwet 1987 te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Definitiebepalingen
 
@@ -49,7 +24,7 @@ In deze wet wordt verstaan onder:
 
 - b. De Nederlandse Munt N.V.: de naamloze vennootschap, bedoeld in artikel 2;
 
-- c. 's Rijks Munt: het staatsbedrijf, bedoeld in de Aanwijzingswet 's Rijks Munt (**Stb.** 1928, 483);
+- c. 's Rijks Munt: het staatsbedrijf, bedoeld in de Aanwijzingswet 's Rijks Munt (*Stb.* 1928, 483);
 
 - d. Stichting Het Nederlands Muntmuseum: de stichting, bedoeld in artikel 2;
 
@@ -113,7 +88,7 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 7
 
-1. Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=1&artikel=1&z=2016-07-01&g=2016-07-01), dan wel onder **c**, van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=1&artikel=1&z=2016-07-01&g=2016-07-01), dan wel onder *c*, van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.
 
 2. De in het eerste lid bedoelde instelling wordt door De Nederlandse Munt N.V. op de overgangsdatum aangewezen.
 
@@ -139,7 +114,7 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 8
 
-1. Bevat wijzigingen in andere regelgeving.
+1. *Bevat wijzigingen in andere regelgeving.*
 
 2. Voor de heffing van vennootschapsbelasting wordt op de openingsbalans van De Nederlandse Munt N.V. geen goodwill opgevoerd met betrekking tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde vermogensbestanddelen.
 
@@ -155,17 +130,17 @@ Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci
 
 1. De onder 's Rijks Munt berustende archiefbescheiden worden ter beschikking gesteld aan De Nederlandse Munt N.V. Daarvan wordt een verklaring opgemaakt, die ten minste inhoudt een specificatie van de archiefbescheiden. Onze Minister, De Nederlandse Munt N.V. en de algemene rijksarchivaris bewaren ieder een exemplaar van deze verklaring.
 
-2. De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) (**Stb.** 276) is op de in het eerste lid bedoelde archiefbescheiden van toepassing, met dien verstande, dat de archiefbescheiden die ouder zijn dan twintig jaar, binnen een tijdvak van vijf jaar door De Nederlandse Munt N.V., door tussenkomst van Onze Minister, worden overgebracht naar de algemene Rijksarchiefbewaarplaats.
+2. De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) (*Stb.* 276) is op de in het eerste lid bedoelde archiefbescheiden van toepassing, met dien verstande, dat de archiefbescheiden die ouder zijn dan twintig jaar, binnen een tijdvak van vijf jaar door De Nederlandse Munt N.V., door tussenkomst van Onze Minister, worden overgebracht naar de algemene Rijksarchiefbewaarplaats.
 
 ### Hoofdstuk 6. Wijzigingen andere wetten
 
 ##### Artikel 11
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel 12
 
-De Aanwijzingswet 's Rijks Munt (**Stb.** 1928, 483) wordt ingetrokken.
+De Aanwijzingswet 's Rijks Munt (*Stb.* 1928, 483) wordt ingetrokken.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -176,5 +151,3 @@ Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van d
 ##### Artikel 14
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

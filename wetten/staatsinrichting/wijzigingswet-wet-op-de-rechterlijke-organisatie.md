@@ -1,127 +1,102 @@
 ---
 title: "Wet van 3 juni 1992, tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers)"
+citeertitel: "Wijzigingswet Wet op de rechterlijke organisatie"
 identifier: "BWBR0005535"
-country: "nl"
-rank: "wet"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005535"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "540613"
-version_id: "792262"
-internal_id: "C792261"
-label_id: "524944"
-dtd_version: "2.0"
-original_entry_into_force: "1992-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005535/1994-04-01/0"
-intitule_bron: "Stb.1992-278"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-03"
-intitule_status: "goed"
-original_publication: "Stb.1992-278"
-original_signed_date: "1992-06-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "21967"
-entry_into_force_date: "1992-07-01"
-jci_1_3: "jci1.3:c:BWBR0005535&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBR0005535&g=1994-04-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Wet op de rechterlijke organisatie"
-signed_date: "1992-06-03"
-entry_into_force: "1992-07-01"
+publicatiedatum: 1992-07-01
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBR0005535"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 3 juni 1992, tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van de herziening van de rechterlijke organisatie een personele en organisatorische integratie van de raden van beroep/Ambtenarengerechten en de arrondissementsrechtbanken tot stand te brengen, en dat het mede in verband daarmee wenselijk is de regelingen betreffende de vorming en bezetting van de kamers van de rechterlijke colleges te vereenvoudigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel II
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel III
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel V
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel VIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel IX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel X
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XIV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XV
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XVI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XVII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XVIII
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XIX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XX
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXI
 
-Bevat wijzigingen in andere regelgeving.
+*Bevat wijzigingen in andere regelgeving.*
 
 ##### Artikel XXII
 
@@ -155,7 +130,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XXIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXV
 
@@ -165,7 +140,7 @@ Vervallen
 
 ##### Artikel XXVI
 
-1. Voor de toepassing van [artikel 155 van de Beroepswet](onbekend) treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van de raad van beroep die de aangevallen uitspraak heeft gewezen, daarvoor in de plaats.
+1. Voor de toepassing van artikel 155 van de Beroepswet treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van de raad van beroep die de aangevallen uitspraak heeft gewezen, daarvoor in de plaats.
 
 2. Voor de toepassing van [artikel 113 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=113) 1929 treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van het Ambtenarengerecht dat de aangevallen uitspraak heeft gewezen, daarvoor in de plaats.
 
@@ -184,5 +159,3 @@ Vervallen
 ##### Artikel XXIX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

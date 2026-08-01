@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 29 juli 1994, houdende regels ter uitvoering van de artikelen 3, eerste en derde lid, 22, tweede lid, en 35 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften"
+citeertitel: "Besluit administratiefrechtelijke handhaving verkeersvoorschriften"
 identifier: "BWBR0006847"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006847"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "68793"
-version_id: "92542"
-internal_id: "C92541"
-label_id: "69854"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006847/2018-01-01/0"
-intitule_bron: "Stb.1994-614"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-07-29"
-intitule_published: "1994-08-25"
-intitule_in_force: "1994-08-25"
-intitule_status: "goed"
-original_publication: "Stb.2001-321"
-original_signed_date: "2001-07-04"
-original_published_date: "2001-07-10"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2001-321"
-entry_into_force_date: "2001-07-15"
-jci_1_3: "jci1.3:c:BWBR0006847&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0006847&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit administratiefrechtelijke handhaving verkeersvoorschriften"
-signed_date: "2001-07-04"
-entry_into_force: "2001-07-15"
+publicatiedatum: 2001-07-15
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0006847"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 29 juli 1994, houdende regels ter uitvoering van de artikelen 3, eerste en derde lid, 22, tweede lid, en 35 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften
-
-Op voordracht van Onze Minister van Justitie van 7 maart 1994, Stafafdeling Wetgeving Publiekrecht, nr. 429101/94/6, gedaan mede namens Onze Minister van Verkeer en Waterstaat;
-
-Gelet op de [artikelen 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=3), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=22), en [35 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=35);
-
-De Raad van State gehoord (advies van 1 juli 1994, nr. W03.94.018);
-
-Gezien het nader rapport van Onze Minister van Justitie van 12 juli 1994, Stafafdeling Wetgeving Publiekrecht, nr. 447531/94/6, uitgebracht mede namens Onze Minister van Verkeer en Waterstaat;
-
-Hebben goedgevonden en verstaan;
 
 #### § 1. Begripsbepalingen
 
@@ -68,9 +36,9 @@ Hebben goedgevonden en verstaan;
 
 - b. de ambtenaren, bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01):
 
-- 1. voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01): de betrokken districtscommandant,
+   - 1. voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01): de betrokken districtscommandant,
 
-- 2. voor de toepassing van de overige artikelen: de commandant van de Koninklijke marechaussee;
+   - 2. voor de toepassing van de overige artikelen: de commandant van de Koninklijke marechaussee;
 
 - c. de ambtenaren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2018-01-01&g=2018-01-01): het hoofd van de organisatie, waarbij zij werkzaam zijn.
 
@@ -120,7 +88,7 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 #### § 4. Het toezicht
 
@@ -174,6 +142,10 @@ De ambtenaren, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci
 
 2. Gedane betalingen strekken in de eerste plaats tot voldoening van de administratiekosten, vervolgens tot voldoening van eventuele verhogingen en ten slotte tot voldoening van de administratieve sanctie.
 
+##### Artikel 11b
+
+De kosten van het verhaal van een administratieve sanctie worden op gelijke voet als de administratieve sanctie verhaald op degene aan wie deze sanctie is opgelegd. Onder de kosten van verhaal zijn begrepen de invorderingskosten. De kosten van verhaal, voor zover zij niet betreffen de invorderingskosten, worden berekend overeenkomstig de bij het [Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638) vastgestelde tarieven. De omvang van de invorderingskosten wordt bepaald bij ministeriële regeling.
+
 #### § 6. Bijstand
 
 ##### Artikel 12
@@ -184,7 +156,7 @@ Ingeval de bevoegdheid tot het opleggen van een administratieve sanctie wordt ui
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -192,16 +164,4 @@ Dit besluit wordt aangehaald als: Besluit administratiefrechtelijke handhaving v
 
 ##### Artikel 15
 
-Dit besluit treedt in werking met ingang van 1 april 1994. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 maart 1994, treedt het in werking met ingang van de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt het terug tot en met 1 april 1994.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 11b
-
-De kosten van het verhaal van een administratieve sanctie worden op gelijke voet als de administratieve sanctie verhaald op degene aan wie deze sanctie is opgelegd. Onder de kosten van verhaal zijn begrepen de invorderingskosten. De kosten van verhaal, voor zover zij niet betreffen de invorderingskosten, worden berekend overeenkomstig de bij het [Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638) vastgestelde tarieven. De omvang van de invorderingskosten wordt bepaald bij ministeriële regeling.
-
-#### § 6. Bijstand
-
-#### § 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+Dit besluit treedt in werking met ingang van 1 april 1994. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 maart 1994, treedt het in werking met ingang van de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt het terug tot en met 1 april 1994.

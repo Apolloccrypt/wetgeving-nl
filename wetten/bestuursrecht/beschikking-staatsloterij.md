@@ -2,29 +2,30 @@
 title: "Beschikking Staatsloterij"
 identifier: "BWBR0005544"
 categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
+soort: "ministeriele-regeling"
+publicatiedatum: 2008-02-01
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0005544"
+opgehaald: 2026-08-01
 ---
 
 # Beschikking Staatsloterij
 
-Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9) en [artikel 10 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=10):
+##### Artikel 1
 
-Besluit:
+*Vervallen*
 
-#### Artikel 1
-
-Vervallen
-
-#### Artikel 2
+##### Artikel 2
 
 De vergunning tot het organiseren van de staatsloterij als bedoeld in [artikel 9, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9) (hierna: de wet) is voor onbepaalde tijd verleend aan Staatsloterij B.V., een besloten vennootschap naar Nederlands recht gevestigd te Den Haag met KvK-nummer 27139788 (hierna: de vergunninghouder).
 
-#### Artikel 3
+##### Artikel 3
 
 Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de staatsloterij inschakelt, hetzij direct, hetzij indirect.
+
+Algemeen
 
 - 1. De vergunninghouder moet de staatsloterij op doelmatige en doeltreffende wijze exploiteren.
 
@@ -42,21 +43,27 @@ Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghoud
 
 - 8. De vergunninghouder waarborgt dat het uitbesteden van zijn werkzaamheden (of een deel daarvan) geen belemmering vormt voor:
 
-- a. het naleven van de toepasselijke wet- en regelgeving en de vergunningvoorschriften; en
+   - a. het naleven van de toepasselijke wet- en regelgeving en de vergunningvoorschriften; en
 
-- b. het doelmatig en doeltreffend uitoefenen van toezicht hierop.
+   - b. het doelmatig en doeltreffend uitoefenen van toezicht hierop.
 
 - 9. De vergunninghouder beschikt over procedures en maatregelen voor het behandelen en vastleggen van incidenten.
 
+Kenmerken van de staatsloterij
+
 - 10. De vergunninghouder organiseert maximaal 69 trekkingen per kalenderjaar.
 
-- 11. De maximale verkoopprijs van een geheel lot van de staatsloterij is 30 euro.
+- 11. De maximale verkoopprijs van een geheel lot van de staatsloterij is 40 euro.
 
 - 12. De vergunninghouder mag deelloten uitgeven, die aanspraak geven op een evenredig deel van de prijs die op een heel lot is gevallen.
+
+Afdracht
 
 - 13. De vergunninghouder draagt, gerekend over een kalenderjaar, de opbrengst (aantal verkochte deelnamebewijzen x verkoopprijs deelnamebewijzen) van de staatsloterij – na aftrek van de prijzen en noodzakelijke kosten – af aan de Staat, met een minimum van 15% van de opbrengst (hierna: afdracht).
 
 - 14. De vergunninghouder keert de afdracht zo spoedig mogelijk, en in ieder geval uiterlijk drie maanden na afloop van elk kalenderjaar uit aan de begunstigde.
+
+Consumentenbescherming
 
 - 15. De vergunninghouder waarborgt dat minderjarigen niet deelnemen aan de loterij(en).
 
@@ -70,25 +77,29 @@ Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghoud
 
 - 20. De vergunninghouder vermeldt, voor zover praktisch mogelijk, op alle publicaties en deelnamebewijzen van de staatsloterij de naam, (e-mail)adres en telefoonnummer van de vergunninghouder, de domeinnaam van de website(s) van de staatsloterij, en dat de Kansspelautoriteit de vergunning heeft verleend. De vergunninghouder vermeldt op de fysieke deelnamebewijzen ook de prijs van het deelnamebewijs.
 
+Transparantie
+
 - 21. De vergunninghouder publiceert in ieder geval de volgende informatie op duidelijke, begrijpelijke en ondubbelzinnige wijze op de website(s) van de staatsloterij:
 
-- a. Dat de Kansspelautoriteit de vergunning heeft verleend.
+   - a. Dat de Kansspelautoriteit de vergunning heeft verleend.
 
-- b. De meest recente versie van het deelnemersreglement en de meest recente versie van de trekkingsprocedure.
+   - b. De meest recente versie van het deelnemersreglement en de meest recente versie van de trekkingsprocedure.
 
-- c. Een duidelijke speluitleg waarin in ieder geval staat beschreven hoe bepaald wordt welke deelnames winnend zijn.
+   - c. Een duidelijke speluitleg waarin in ieder geval staat beschreven hoe bepaald wordt welke deelnames winnend zijn.
 
-- d. Het prijzenschema per trekking, de plaats en het tijdstip van de trekking, en het tijdstip en de wijze waarop de uitslag van de trekking bekend gemaakt wordt. De vergunninghouder maakt dit per trekking bekend voorafgaand aan de verkoop van de deelnamebewijzen.
+   - d. Het prijzenschema per trekking, de plaats en het tijdstip van de trekking, en het tijdstip en de wijze waarop de uitslag van de trekking bekend gemaakt wordt. De vergunninghouder maakt dit per trekking bekend voorafgaand aan de verkoop van de deelnamebewijzen.
 
-- e. Per trekking en voorafgaand aan de verkoop van deelnamebewijzen maakt de vergunninghouder bekend of hij gebruik maakt van een universumtrekking, welke prijzen mogelijk niet vallen en wat er gebeurt met de prijzen die worden toegekend aan een niet-verkocht deelnamebewijs.
+   - e. Per trekking en voorafgaand aan de verkoop van deelnamebewijzen maakt de vergunninghouder bekend of hij gebruik maakt van een universumtrekking, welke prijzen mogelijk niet vallen en wat er gebeurt met de prijzen die worden toegekend aan een niet-verkocht deelnamebewijs.
 
-- f. De verkoopprijs of -prijzen van loten en deelloten. De vergunninghouder maakt dit per trekking bekend voorafgaand aan de verkoop van de deelnamebewijzen.
+   - f. De verkoopprijs of -prijzen van loten en deelloten. De vergunninghouder maakt dit per trekking bekend voorafgaand aan de verkoop van de deelnamebewijzen.
 
-- g. De wijze waarop een consument een prijs kan opeisen.
+   - g. De wijze waarop een consument een prijs kan opeisen.
 
-- h. De jaarrekening en het jaarverslag. De vergunninghouder publiceert deze documenten vóór 1 juli van elk jaar.
+   - h. De jaarrekening en het jaarverslag. De vergunninghouder publiceert deze documenten vóór 1 juli van elk jaar.
 
 - 22. De vergunninghouder verricht alle trekkingen in het openbaar en in aanwezigheid van een notaris, die het verloop van elke trekking bewaakt. Als de notaris enige onregelmatigheid constateert en de trekking ongeldig verklaart, organiseert de vergunninghouder de trekking zo spoedig mogelijk opnieuw.
+
+Meldplicht
 
 - 23. De vergunninghouder meldt bij de Kansspelautoriteit binnen één maand na inwerkingtreding van dit wijzigingsbesluit, alle merk-, domein- en applicatienamen (voor de consument) die hij gebruikt bij het aanbieden van de staatsloterij.
 
@@ -96,90 +107,86 @@ Aan de vergunning worden onderstaande voorschriften verbonden. De vergunninghoud
 
 - 25. De vergunninghouder meldt bij de Kansspelautoriteit alle onvoorziene en niet-structurele gedragingen en gebeurtenissen (incidenten) die een ernstig gevaar kunnen vormen voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen of het vertrouwen in de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen kunnen schaden, zo spoedig mogelijk, en in ieder geval binnen 72 uur nadat de vergunninghouder kennis heeft genomen van het incident. De vergunninghouder legt het incident vast en neemt direct maatregelen om het incident te beëindigen, de schade te beperken of te herstellen en om herhaling te voorkomen.
 
-- 26. De vergunninghouder voert periodiek een audit uit van de betrouwbaarheid van de organisatie van de staatsloterij. De vergunninghouder voert de audit uit aan de hand van het op de website van de Kansspelautoriteit gepubliceerde ‘IT-audit programma loterijen’. De vergunninghouder verstrekt aan de Kansspelautoriteit uiterlijk vóór 1 mei 2023, en vervolgens vóór 1 mei van elk daaropvolgend jaar van elk jaar, de rapportage van de audit over het voorafgaande kalenderjaar.
+Rapportage
 
-- 27. De vergunninghouder verstrekt aan de Kansspelautoriteit uiterlijk vóór 1 juli van elk jaar voor de staatsloterij een rekening en verantwoording over het voorafgaande kalenderjaar. De vergunninghouder gebruikt het daarvoor bestemde formulier van de Kansspelautoriteit. De vergunninghouder is verplicht elke rekening en verantwoording vergezeld te laten gaan van een onderzoeksverslag en een verklaring van de getrouwheid, opgesteld door een accountant, zijnde een auditor als bedoeld in de [Richtlijn 2006/43/EG](32006L0043), die staat ingeschreven in een openbaar register zoals bedoeld in artikel 15 van die richtlijn. De vergunninghouder publiceert uiterlijk vóór 1 juli van elk jaar de rekening en verantwoording over het voorafgaande kalenderjaar op de website(s) van de staatsloterij.
+- 26. De vergunninghouder voert periodiek een audit uit van de betrouwbaarheid van de organisatie van de staatsloterij. De vergunninghouder voert de audit uit aan de hand van het op de website van de Kansspelautoriteit gepubliceerde ‘IT-audit programma loterijen’. De vergunninghouder verstrekt aan de Kansspelautoriteit uiterlijk vóór 1 mei 2023, en vervolgens vóór 1 mei van elk daaropvolgend jaar van elk jaar, de rapportage van de audit over het voorafgaande kalenderjaar.
 
-- 28. De vergunninghouder verstrekt uiterlijk vóór 1 april van elk jaar een overzicht van de maatregelen en voorzieningen die hij in het voorgaande kalenderjaar heeft getroffen om verslaving aan de staatsloterij zoveel mogelijk te voorkomen. De vergunninghouder voegt daarbij een rapportage over eventuele wijzigingen in het overzicht ten opzichte van het verstrekte overzicht van het jaar daarvoor, en, indien van toepassing, over het aantal interventies en maatregelen dat hij in het voorgaande kalenderjaar heeft ondernomen.
+- 27. De vergunninghouder verstrekt aan de Kansspelautoriteit uiterlijk vóór 1 juli van elk jaar voor de staatsloterij een rekening en verantwoording over het voorafgaande kalenderjaar. De vergunninghouder gebruikt het daarvoor bestemde formulier van de Kansspelautoriteit. De vergunninghouder is verplicht elke rekening en verantwoording vergezeld te laten gaan van een onderzoeksverslag en een verklaring van de getrouwheid, opgesteld door een accountant, zijnde een auditor als bedoeld in de Richtlijn 2006/43/EG, die staat ingeschreven in een openbaar register zoals bedoeld in artikel 15 van die richtlijn. De vergunninghouder publiceert uiterlijk vóór 1 juli van elk jaar de rekening en verantwoording over het voorafgaande kalenderjaar op de website(s) van de staatsloterij.
 
-#### Artikel 4
+- 28. De vergunninghouder verstrekt uiterlijk vóór 1 april van elk jaar een overzicht van de maatregelen en voorzieningen die hij in het voorgaande kalenderjaar heeft getroffen om verslaving aan de staatsloterij zoveel mogelijk te voorkomen. De vergunninghouder voegt daarbij een rapportage over eventuele wijzigingen in het overzicht ten opzichte van het verstrekte overzicht van het jaar daarvoor, en, indien van toepassing, over het aantal interventies en maatregelen dat hij in het voorgaande kalenderjaar heeft ondernomen.
 
-Vervallen
+##### Artikel 4
 
-#### Artikel 5
+*Vervallen*
 
-Vervallen
+##### Artikel 5
 
-#### Artikel 6
+*Vervallen*
 
-Vervallen
+##### Artikel 6
 
-#### Artikel 7
+*Vervallen*
 
-Vervallen
+##### Artikel 7
 
-#### Artikel 8
+*Vervallen*
 
-Vervallen
+##### Artikel 8
 
-#### Artikel 9
+*Vervallen*
 
-Vervallen
+##### Artikel 9
 
-#### Artikel 10
+*Vervallen*
 
-Vervallen
+##### Artikel 10
 
-#### Artikel 11
+*Vervallen*
 
-Vervallen
+##### Artikel 11
 
-#### Artikel 12
+*Vervallen*
 
-Vervallen
+##### Artikel 12
 
-#### Artikel 13
+*Vervallen*
 
-Vervallen
+##### Artikel 13
 
-#### Artikel 14
+*Vervallen*
 
-Vervallen
+##### Artikel 14
 
-#### Artikel 15
+*Vervallen*
 
-Vervallen
+##### Artikel 15
 
-#### Artikel 16
+*Vervallen*
 
-Vervallen
+##### Artikel 16
 
-#### Artikel 17
+*Vervallen*
 
-Vervallen
+##### Artikel 17
 
-#### Artikel 18
+*Vervallen*
 
-Vervallen
+##### Artikel 18
 
-#### Artikel 19
+*Vervallen*
 
-Vervallen
+##### Artikel 19
 
-#### Artikel 20
+*Vervallen*
 
-Vervallen
+##### Artikel 20
 
-#### Artikel 21
+*Vervallen*
 
-Vervallen
+##### Artikel 21
 
-#### Artikel 22
+*Vervallen*
 
-Vervallen
+##### Artikel 22
 
-#### Artikel 23
-
-1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
-
-2. Deze beschikking kan worden aangehaald als: Beschikking Staatsloterij.
+*Vervallen*

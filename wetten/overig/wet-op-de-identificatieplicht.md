@@ -1,44 +1,18 @@
 ---
 title: "Wet van 9 december 1993, tot aanwijzing van documenten dienende ter vaststelling van de identiteit van personen alsmede aanwijzing van enige gevallen waarin de identiteit van personen aan de hand van deze documenten kan worden vastgesteld"
+citeertitel: "Wet op de identificatieplicht"
 identifier: "BWBR0006297"
-country: "nl"
-rank: "wet"
-publication_date: "2017-03-01"
-last_updated: "2017-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006297"
+categorie: "Overig"
 soort: "wet"
-stam_id: "2090413"
-version_id: "3139832"
-internal_id: "C31147841"
-label_id: "2038524"
-dtd_version: "2.0"
-original_entry_into_force: "1994-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006297/2017-03-01/0"
-intitule_bron: "Stb.1993-660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-09"
-intitule_in_force: "1994-03-24"
-intitule_status: "goed"
-original_publication: "Stb.1993-660"
-original_signed_date: "1993-12-09"
-original_effect: "nieuwe-regeling"
-original_dossier: "22694"
-entry_into_force_date: "1994-06-01"
-jci_1_3: "jci1.3:c:BWBR0006297&z=2017-03-01&g=2017-03-01"
-jci_1_0: "1.0:c:BWBR0006297&g=2017-03-01"
-citeertitel_status: "officieel"
-short_title: "Wet op de identificatieplicht"
-signed_date: "1993-12-09"
-entry_into_force: "1994-06-01"
+publicatiedatum: 1994-06-01
+laatste_update: 2017-03-01
+status: geldig
+toestand: 2017-03-01
+bron: "https://wetten.overheid.nl/BWBR0006297"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 9 december 1993, tot aanwijzing van documenten dienende ter vaststelling van de identiteit van personen alsmede aanwijzing van enige gevallen waarin de identiteit van personen aan de hand van deze documenten kan worden vastgesteld
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter verbetering van de handhaving van regelingen voor de uitvoering waarvan bekendheid met de identiteit van een persoon van belang is, wenselijk is te bepalen met welke documenten de identiteit van personen in bij de wet aangewezen gevallen kan worden vastgesteld alsmede enige van deze gevallen aan te wijzen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Aanwijzing van documenten
 
@@ -52,7 +26,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 3°. een geldig nationaal, diplomatiek of dienstpaspoort dat is afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de houder de nationaliteit van die andere lidstaat bezit;
 
-- 4°. een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet, een geldig rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) of een rijbewijs dat is afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarvan de houder in Nederland woonachtig is, zolang de bij de [Wegenverkeerswet 1994](onbekend) vastgestelde termijn van geldigheid in Nederland niet is verstreken, aan de houder geen administratieve maatregel bedoeld in [paragraaf 9 van hoofdstuk VI van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=9) is opgelegd of aan hem niet de bijkomende straf bedoeld in [artikel 179 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179) is opgelegd en mits het rijbewijs is voorzien van een pasfoto van de houder.
+- 4°. een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet, een geldig rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) of een rijbewijs dat is afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarvan de houder in Nederland woonachtig is, zolang de bij de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) vastgestelde termijn van geldigheid in Nederland niet is verstreken, aan de houder geen administratieve maatregel bedoeld in [paragraaf 9 van hoofdstuk VI van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=9) is opgelegd of aan hem niet de bijkomende straf bedoeld in [artikel 179 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179) is opgelegd en mits het rijbewijs is voorzien van een pasfoto van de houder.
 
 2. Onze Minister van Veiligheid en Justitie kan, al dan niet voor een bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten aanwijzen ter vaststelling van de identiteit van personen.
 
@@ -66,131 +40,131 @@ Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op de ee
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Wijziging van de Wet op de Sociale Verzekeringsbank
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk V. Wijziging van de [Algemene Bijstandswet](onbekend)
+### Hoofdstuk V. Wijziging van de Algemene Bijstandswet
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VI. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](onbekend)
+### Hoofdstuk VI. Wijziging van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VII. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](onbekend)
+### Hoofdstuk VII. Wijziging van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VIII. Wijziging van de [Arbeidsvoorzieningswet](onbekend)
+### Hoofdstuk VIII. Wijziging van de Arbeidsvoorzieningswet
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk IX. Wijziging van de [Algemene Ouderdomswet](onbekend)
+### Hoofdstuk IX. Wijziging van de Algemene Ouderdomswet
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk X. Wijziging van de [Algemene Weduwen- en Wezenwet](onbekend)
+### Hoofdstuk X. Wijziging van de Algemene Weduwen- en Wezenwet
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XI. Wijziging van de [Algemene Nabestaandenwet](onbekend)
+### Hoofdstuk XI. Wijziging van de Algemene Nabestaandenwet
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XII. Wijziging van de [Algemene Kinderbijslagwet](onbekend)
+### Hoofdstuk XII. Wijziging van de Algemene Kinderbijslagwet
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk XIII. Wijziging van de Wet arbeid buitenlandse werknemers
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XIV. Wijziging van de [Wet op de loonbelasting 1964](onbekend)
+### Hoofdstuk XIV. Wijziging van de Wet op de loonbelasting 1964
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XV. Wijziging van de [Algemene wet inzake rijksbelastingen](onbekend)
+### Hoofdstuk XV. Wijziging van de Algemene wet inzake rijksbelastingen
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XVI. Wijziging van de [Wet inzake spaarbewijzen](onbekend)
+### Hoofdstuk XVI. Wijziging van de Wet inzake spaarbewijzen
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk XVII. Wijziging van de Wet identiteitsvaststelling bij financiële dienstverlening
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XVIII. Wijziging van de [Wet op de economische delicten](onbekend)
+### Hoofdstuk XVIII. Wijziging van de Wet op de economische delicten
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XIX. Wijziging van de [Vreemdelingenwet](onbekend)
+### Hoofdstuk XIX. Wijziging van de Vreemdelingenwet
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XX. Wijziging van de [Wet op het Notarisambt](onbekend)
+### Hoofdstuk XX. Wijziging van de Wet op het Notarisambt
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XXI. Wijziging van de [Wet personenvervoer](onbekend)
+### Hoofdstuk XXI. Wijziging van de Wet personenvervoer
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XXII. Wijziging van de [Wet persoonsregistraties](onbekend)
+### Hoofdstuk XXII. Wijziging van de Wet persoonsregistraties
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk XXIII. Slotbepalingen
 
 ##### Artikel 23
 
-1. Artikel 50**b**, derde lid, van de Organisatiewet Sociale Verzekering, zoals dat artikel bij deze wet is gewijzigd, is uitsluitend van toepassing ten aanzien van verzekerden die hun werkzaamheden zijn aangevangen of die loon zijn gaan genieten op of na het tijdstip van inwerkingtreding van deze wet.
+1. Artikel 50*b*, derde lid, van de Organisatiewet Sociale Verzekering, zoals dat artikel bij deze wet is gewijzigd, is uitsluitend van toepassing ten aanzien van verzekerden die hun werkzaamheden zijn aangevangen of die loon zijn gaan genieten op of na het tijdstip van inwerkingtreding van deze wet.
 
 2. Onze Minister van Sociale Zaken en Werkgelegenheid stelt, na overleg met Onze Minister van Financiën en gehoord de Sociale Verzekeringsraad, een termijn, aanvangende op het tijdstip van inwerkingtreding van deze wet, waarbinnen de verzekerden die hun werkzaamheden zijn aangevangen of die loon zijn gaan genieten voor het tijdstip van inwerkingtreding van deze wet, een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&hoofdstuk=I&artikel=1&z=2017-03-01&g=2017-03-01) ter inzage dienen te verstrekken aan de werkgever teneinde deze in staat te stellen de aard en het nummer van dit document in de administratie op te nemen.
 
-3. De verplichting bedoeld in het tweede lid geldt als een verplichting van de verzekerde als bedoeld in artikel 50**c**, tweede lid, van de Organisatiewet Sociale Verzekering, zoals dat artikel bij deze wet is gewijzigd.
+3. De verplichting bedoeld in het tweede lid geldt als een verplichting van de verzekerde als bedoeld in artikel 50*c*, tweede lid, van de Organisatiewet Sociale Verzekering, zoals dat artikel bij deze wet is gewijzigd.
 
 ##### Artikel 24
 
@@ -199,5 +173,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 25
 
 Deze wet kan worden aangehaald als "Wet op de identificatieplicht".
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

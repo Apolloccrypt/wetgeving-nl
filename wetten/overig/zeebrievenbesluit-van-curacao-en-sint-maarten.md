@@ -1,54 +1,24 @@
 ---
 title: "Besluit van 5 april 1993, houdende regelen met betrekking tot de nationaliteit van zeeschepen"
+citeertitel: "Zeebrievenbesluit van Curaçao en Sint Maarten"
 identifier: "BWBR0005943"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2011-02-01"
-last_updated: "2011-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005943"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "661443"
-version_id: "961992"
-internal_id: "C961991"
-label_id: "642034"
-dtd_version: "2.0"
-original_entry_into_force: "1994-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005943/2011-02-01/0"
-intitule_bron: "Stb.1993-302"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-04-05"
-intitule_status: "goed"
-original_publication: "Stb.1993-302"
-original_signed_date: "1993-04-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-03-15"
-jci_1_3: "jci1.3:c:BWBR0005943&z=2011-02-01&g=2011-02-01"
-jci_1_0: "1.0:c:BWBR0005943&g=2011-02-01"
-citeertitel_status: "officieel"
-short_title: "Zeebrievenbesluit van Curaçao en Sint Maarten"
-signed_date: "1993-04-05"
-entry_into_force: "1994-03-15"
+publicatiedatum: 1994-03-15
+laatste_update: 2011-02-01
+status: geldig
+toestand: 2011-02-01
+bron: "https://wetten.overheid.nl/BWBR0005943"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 5 april 1993, houdende regelen met betrekking tot de nationaliteit van zeeschepen
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 1 februari 1991, nr S/J 30.150/91, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-Overwegende, dat het wenselijk is met het oog op een bestendige ontwikkeling van de Nederlands-Antilliaanse scheepvaart het Curaçaosch Zeebrievenbesluit 1933 (**Stb**. 1933, 110; P.B. 1933, no. 41) voor wat betreft de Nederlandse Antillen te vervangen door een nieuwe regeling met betrekking tot de nationaliteit van zeeschepen, waarin tevens een regeling ten aanzien van zeeschepen in rompbevrachting is opgenomen;
-
-De Raad van State van het Koninkrijk gehoord (advies van 13 augustus 1991, no. WO9.91.0065/K);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 31 maart 1993, nr. S/J 30.590/93, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
-Besluit per 1 juli 2025 door Stb. 2025/133 ingetrokken voor Nederland.
+*Besluit per 1 juli 2025 door Stb. 2025/133 ingetrokken voor Nederland.*
 
 1. In dit besluit wordt verstaan onder:
 
@@ -58,13 +28,13 @@ Besluit per 1 juli 2025 door Stb. 2025/133 ingetrokken voor Nederland.
 
 - c. zeeschepen: alle schepen, daaronder begrepen kustvaarders, welke worden gebruikt tot de vaart ter zee of daartoe bestemd zijn, met uitzondering van:
 
-- 1°. oorlogsvaartuigen;
+   - 1°. oorlogsvaartuigen;
 
-- 2°. vaartuigen van zeilverenigingen of jachtclubs, als zodanig erkend door de bevoegde autoriteiten van Curaçao, onderscheidenlijk Sint Maarten;
+   - 2°. vaartuigen van zeilverenigingen of jachtclubs, als zodanig erkend door de bevoegde autoriteiten van Curaçao, onderscheidenlijk Sint Maarten;
 
-- 3°. vaartuigen, aan Curaçao, onderscheidenlijk Sint Maarten, welke tot de openbare dienst zijn bestemd;
+   - 3°. vaartuigen, aan Curaçao, onderscheidenlijk Sint Maarten, welke tot de openbare dienst zijn bestemd;
 
-- 4°. reddingsvaartuigen;
+   - 4°. reddingsvaartuigen;
 
 - d. rompbevrachting: de overeenkomst, waarbij de ene partij, de rompvervrachter, zich verbindt een zeeschip zonder bemanning voor een bepaalde tijd ter beschikking te stellen van haar wederpartij, de rompbevrachter, zonder daarover nog enige zeggenschap te houden, en de rompbevrachter het schip exploiteert;
 
@@ -194,9 +164,9 @@ Onze Minister kan de inschrijving van een zeeschip in het openbaar rompbevrachti
 
 - b. indien een van de volgende feiten zich voordoet:
 
-- 1°. indien het schip opzettelijk zodanig wordt gebruikt, dat het gevaar ontstaat, dat het Koninkrijk in een oorlog wordt betrokken;
+   - 1°. indien het schip opzettelijk zodanig wordt gebruikt, dat het gevaar ontstaat, dat het Koninkrijk in een oorlog wordt betrokken;
 
-- 2°. indien met het schip enig van regeringswege gegeven en bekend gemaakt bijzonder voorschrift tot handhaving van het niet deelnemen aan een oorlog opzettelijk wordt overtreden;
+   - 2°. indien met het schip enig van regeringswege gegeven en bekend gemaakt bijzonder voorschrift tot handhaving van het niet deelnemen aan een oorlog opzettelijk wordt overtreden;
 
 - c. indien het schip wordt gebruikt voor het vervoer van verdovende middelen in de zin van de Opiumlandsverordening 1960;
 
@@ -330,7 +300,7 @@ Een zeebrief afgegeven ten behoeve van een zeeschip dat in het openbaar rompbevr
 
 - e. wanneer van het schip gedurende zes maanden na het laatste uitvaren of de dag waartoe zich de laatst ontvangen berichten uitstrekken, in het geheel geen tijding is aangekomen, zonder dat dit aan een algemene storing in de berichtgeving kan worden geweten.
 
-2. Wanneer de termijn bepaald in het eerste lid, onderdeel **a**, verstrijkt of het geval, bedoeld in het eerste lid, onderdeel **c**, zich voordoet, terwijl het schip in het buitenland is, blijft, behoudens het bepaalde bij het derde lid, de zeebrief van kracht tot de terugkomst van het schip in Curaçao, onderscheidenlijk Sint Maarten, doch niet langer dan zes maanden na de vervaldatum van de zeebrief. Hetzelfde geldt, wanneer de inhoud van het schip in het buitenland is veranderd of het schip daar is verbouwd, mits deze verandering of verbouwing op de zeebrief is aangetekend door de dichtstbijzijnde Nederlandse diplomatieke of consulaire ambtenaar of, indien het schip in een ander land van het Koninkrijk verbleef, de daartoe in dat land bevoegde ambtenaar.
+2. Wanneer de termijn bepaald in het eerste lid, onderdeel *a*, verstrijkt of het geval, bedoeld in het eerste lid, onderdeel *c*, zich voordoet, terwijl het schip in het buitenland is, blijft, behoudens het bepaalde bij het derde lid, de zeebrief van kracht tot de terugkomst van het schip in Curaçao, onderscheidenlijk Sint Maarten, doch niet langer dan zes maanden na de vervaldatum van de zeebrief. Hetzelfde geldt, wanneer de inhoud van het schip in het buitenland is veranderd of het schip daar is verbouwd, mits deze verandering of verbouwing op de zeebrief is aangetekend door de dichtstbijzijnde Nederlandse diplomatieke of consulaire ambtenaar of, indien het schip in een ander land van het Koninkrijk verbleef, de daartoe in dat land bevoegde ambtenaar.
 
 3. De zeebrief, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=18&z=2011-02-01&g=2011-02-01), en de voorlopige zeebrief, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=6&artikel=20&z=2011-02-01&g=2011-02-01), vervallen terstond door algehele overgang van het schip in eigendom van een persoon die niet voldoet aan de nationaliteitsvereisten, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=2&artikel=2&z=2011-02-01&g=2011-02-01).
 
@@ -354,7 +324,7 @@ Een zeebrief als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. De vervallen of ingetrokken zeebrief wordt door de eigenaar of de rompbevrachter van het zeeschip, of, indien dit document onder de kapitein berust, door deze met de eerste gelegenheid ingezonden aan Onze Minister.
 
-2. Wanneer het schip buiten Curaçao, onderscheidenlijk Sint Maarten is vergaan, is gesloopt, blijvend ongeschikt is geworden om te drijven dan wel door rovers of door vijanden is genomen, geen Curaçaos, onderscheidenlijk Sint Maartens zeeschip meer is dan wel de hoedanigheid van Curaçaos, onderscheidenlijk Sint Maartens zeeschip verliest, terwijl het schip buiten Curaçao, onderscheidenlijk Sint Maarten is, geschiedt de inzending van de vervallen of ingetrokken zeebrief door tussenkomst van de dichtstbijzijnde Nederlandse diplomatieke of consulaire ambtenaar of, indien het schip in een ander land van het Koninkrijk verbleef, de daartoe in dat land bevoegde ambtenaar.
+2. Wanneer het schip buiten Curaçao, onderscheidenlijk Sint Maarten is vergaan, is gesloopt, blijvend ongeschikt is geworden om te drijven dan wel door rovers of door vijanden is genomen, geen Curaçaos, onderscheidenlijk Sint Maartens zeeschip meer is dan wel de hoedanigheid van Curaçaos, onderscheidenlijk Sint Maartens zeeschip verliest, terwijl het schip buiten Curaçao, onderscheidenlijk Sint Maarten is, geschiedt de inzending van de vervallen of ingetrokken zeebrief door tussenkomst van de dichtstbijzijnde Nederlandse diplomatieke of consulaire ambtenaar of, indien het schip in een ander land van het Koninkrijk verbleef, de daartoe in dat land bevoegde ambtenaar.
 
 3. De oorzaak van het vervallen van de zeebrief wordt bij de inzending opgegeven.
 
@@ -366,7 +336,7 @@ Degene aan wie een Curaçaos, onderscheidenlijk Sint Maartens zeeschip in eigend
 
 ##### Artikel 26
 
-1. In de gevallen, bedoeld in artikel 22, onderdelen **a** en **c** van het eerste lid, wordt op aanvraag van de rechthebbende een nieuwe zeebrief als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=18&z=2011-02-01&g=2011-02-01), onderscheidenlijk [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=19&z=2011-02-01&g=2011-02-01) uitgereikt.
+1. In de gevallen, bedoeld in artikel 22, onderdelen *a* en *c* van het eerste lid, wordt op aanvraag van de rechthebbende een nieuwe zeebrief als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=18&z=2011-02-01&g=2011-02-01), onderscheidenlijk [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=19&z=2011-02-01&g=2011-02-01) uitgereikt.
 
 2. Deze aanvraag, met de vervallen zeebrief in te zenden, gaat vergezeld van de stukken, bedoeld in [artikel 15, eerste lid onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=15&z=2011-02-01&g=2011-02-01).
 
@@ -388,7 +358,7 @@ Indien het schip echter buiten Curaçao, onderscheidenlijk Sint Maarten verblijf
 
 - c. de geldigheidsduur van een voorlopige of van een buitengewone zeebrief te verlengen.
 
-2. Verlenging als bedoeld in onderdeel **b** van het eerste lid, alsmede verlenging als bedoeld in onderdeel **c** van het eerste lid, van een buitengewone zeebrief kan slechts éénmaal plaatsvinden.
+2. Verlenging als bedoeld in onderdeel *b* van het eerste lid, alsmede verlenging als bedoeld in onderdeel *c* van het eerste lid, van een buitengewone zeebrief kan slechts éénmaal plaatsvinden.
 
 #### § 11. Het voeren van de Nederlandse vlag
 
@@ -430,9 +400,9 @@ Bij landsbesluit, houdende algemene maatregelen, kunnen nadere voorschriften wor
 
 - a. met betrekking tot het zeeschip een rompbevrachtingsovereenkomst is gesloten met een buiten het Koninkrijk woonachtige of gevestigde rompbevrachter;
 
-- b. de rompbevrachter, bedoeld in [onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=13&artikel=33&z=2011-02-01&g=2011-02-01), ingevolge de wetgeving van de staat waar het zeeschip buiten het Koninkrijk in een register van rompbevrachtingen is ingeschreven, toestemming heeft gekregen dat het zeeschip de vlag van die vreemde staat mag voeren op grond van zijn band met die staat; en
+- b. de rompbevrachter, bedoeld in [onderdeel *a*](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=13&artikel=33&z=2011-02-01&g=2011-02-01), ingevolge de wetgeving van de staat waar het zeeschip buiten het Koninkrijk in een register van rompbevrachtingen is ingeschreven, toestemming heeft gekregen dat het zeeschip de vlag van die vreemde staat mag voeren op grond van zijn band met die staat; en
 
-- c. aan het bepaalde in de onderdelen **a** tot en met **c** van het derde lid, is voldaan.
+- c. aan het bepaalde in de onderdelen *a* tot en met *c* van het derde lid, is voldaan.
 
 2. De opschorting vindt plaats door de aantekening daarvan op de zeebrief, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=18&z=2011-02-01&g=2011-02-01).
 
@@ -442,11 +412,11 @@ Bij landsbesluit, houdende algemene maatregelen, kunnen nadere voorschriften wor
 
 - b. naar het oordeel van Onze Minister de wettelijke vereisten van de betrokken vreemde staat betreffende de veiligheid en navigatie ter zee, en het voorkomen van vervuiling van de zee en haar kusten, alsmede de toepassing daarvan, ten minste gelijkwaardig zijn aan die van het Koninkrijk.
 
-- c. ten genoegen van Onze Minister is aangetoond dat een of meer onderdanen van die vreemde staat overeenkomstig de wetgeving van die staat verantwoordelijk zijn voor de voldoening aan de vereisten, bedoeld in [onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=13&artikel=33&z=2011-02-01&g=2011-02-01);
+- c. ten genoegen van Onze Minister is aangetoond dat een of meer onderdanen van die vreemde staat overeenkomstig de wetgeving van die staat verantwoordelijk zijn voor de voldoening aan de vereisten, bedoeld in [onderdeel *b*](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=13&artikel=33&z=2011-02-01&g=2011-02-01);
 
-- d. aan Onze Minister zijn overgelegd een afschrift van de teboekstelling in het openbaar register alsmede de schriftelijke toestemming ter zake van de rompbevrachting, bedoeld in het eerste lid, onderdeel **a**, van de eigenaar, van de houders van hypotheken en van andere zakelijk gerechtigden, die staan ingeschreven in het openbaar register. Ten aanzien van het afschrift van de teboekstelling is het bepaalde in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=15&z=2011-02-01&g=2011-02-01), van toepassing, en
+- d. aan Onze Minister zijn overgelegd een afschrift van de teboekstelling in het openbaar register alsmede de schriftelijke toestemming ter zake van de rompbevrachting, bedoeld in het eerste lid, onderdeel *a*, van de eigenaar, van de houders van hypotheken en van andere zakelijk gerechtigden, die staan ingeschreven in het openbaar register. Ten aanzien van het afschrift van de teboekstelling is het bepaalde in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=15&z=2011-02-01&g=2011-02-01), van toepassing, en
 
-- e. ten genoegen van Onze Minister is aangetoond dat naar het recht van die vreemde staat aan de persoon of personen bedoeld in het derde lid, onderdeel **c**, niet het recht wordt toegekend over de eigendom van het zeeschip te beschikken, het zeeschip te bezwaren of daarop zakelijke rechten te vestigen.
+- e. ten genoegen van Onze Minister is aangetoond dat naar het recht van die vreemde staat aan de persoon of personen bedoeld in het derde lid, onderdeel *c*, niet het recht wordt toegekend over de eigendom van het zeeschip te beschikken, het zeeschip te bezwaren of daarop zakelijke rechten te vestigen.
 
 4. De aantekening, bedoeld in het tweede lid, vermeldt:
 
@@ -454,7 +424,7 @@ Bij landsbesluit, houdende algemene maatregelen, kunnen nadere voorschriften wor
 
 - b. indien het schip in enig register van die staat wordt geregistreerd, de naam van dat register;
 
-- c. de naam of namen van de persoon of personen, bedoeld in het derde lid, onderdeel **c**, die voor het schip verantwoordelijk zijn; en
+- c. de naam of namen van de persoon of personen, bedoeld in het derde lid, onderdeel *c*, die voor het schip verantwoordelijk zijn; en
 
 - d. de periode waarvoor de tijdelijke opschorting van het recht de Nederlandse vlag te voeren, is verleend.
 
@@ -530,7 +500,7 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 41
 
-Het Curaçaosch Zeebrievenbesluit 1933 (**Stb.** 1933, 110; P.B. 1933, no. 41) wordt voor wat betreft de Nederlandse Antillen ingetrokken.
+Het Curaçaosch Zeebrievenbesluit 1933 (*Stb.* 1933, 110; P.B. 1933, no. 41) wordt voor wat betreft de Nederlandse Antillen ingetrokken.
 
 ##### Artikel 42
 
@@ -539,6 +509,14 @@ Zeebrieven, die op het tijdstip van inwerkingtreding van dit besluit gelden, bli
 ##### Artikel 43
 
 Waar in wettelijke regelingen in Curaçao of Sint Maarten wordt verwezen naar het Curaçaosch Zeebrievenbesluit 1933 of het Nederlands-Antilliaans Zeebrievenbesluit, gelden deze verwijzingen als verwijzingen naar het Zeebrievenbesluit van Curaçao en Sint Maarten.
+
+##### Artikel 43a
+
+1. Zeeschepen die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen stonden ingeschreven in het openbaar rompbevrachtingsregister, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=3&artikel=4&z=2011-02-01&g=2011-02-01), van het Nederlands-Antilliaans Zeebrievenbesluit zoals dat op dat tijdstip luidde, verkrijgen de hoedanigheid van Curaçaos zeeschip als bedoeld in artikel 4, eerste lid.
+
+2. Het openbaar rompbevrachtingsregister van de Nederlandse Antillen wordt op het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen het openbaar rompbevrachtingsregister van Curaçao, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=4&artikel=5&z=2011-02-01&g=2011-02-01).
+
+3. Zeebrieven, voorlopige zeebrieven en buitengewone zeebrieven, afgegeven op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=14&z=2011-02-01&g=2011-02-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=15&z=2011-02-01&g=2011-02-01), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=16&z=2011-02-01&g=2011-02-01), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=6&artikel=20&z=2011-02-01&g=2011-02-01), of [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=7&artikel=21&z=2011-02-01&g=2011-02-01), van het Nederlands-Antilliaans Zeebrievenbesluit, zoals dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen luidde, gelden als Curaçaose zeebrieven, afgegeven op grond van voornoemde artikelen, zoals die luiden na inwerkingtreding van voornoemde rijkswet.
 
 #### § 17. Slotbepalingen
 
@@ -553,17 +531,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 46
 
 Dit besluit wordt aangehaald als Zeebrievenbesluit van Curaçao en Sint Maarten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
-
-##### Artikel 43a
-
-1. Zeeschepen die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen stonden ingeschreven in het openbaar rompbevrachtingsregister, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=3&artikel=4&z=2011-02-01&g=2011-02-01), van het Nederlands-Antilliaans Zeebrievenbesluit zoals dat op dat tijdstip luidde, verkrijgen de hoedanigheid van Curaçaos zeeschip als bedoeld in artikel 4, eerste lid.
-
-2. Het openbaar rompbevrachtingsregister van de Nederlandse Antillen wordt op het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen het openbaar rompbevrachtingsregister van Curaçao, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=4&artikel=5&z=2011-02-01&g=2011-02-01).
-
-3. Zeebrieven, voorlopige zeebrieven en buitengewone zeebrieven, afgegeven op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=14&z=2011-02-01&g=2011-02-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=15&z=2011-02-01&g=2011-02-01), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=16&z=2011-02-01&g=2011-02-01), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=6&artikel=20&z=2011-02-01&g=2011-02-01), of [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=7&artikel=21&z=2011-02-01&g=2011-02-01), van het Nederlands-Antilliaans Zeebrievenbesluit, zoals dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen luidde, gelden als Curaçaose zeebrieven, afgegeven op grond van voornoemde artikelen, zoals die luiden na inwerkingtreding van voornoemde rijkswet.
-
-#### § 17. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.

@@ -1,42 +1,17 @@
 ---
 title: "Overgangsregeling Besluit beheer sociale-huursector"
 identifier: "BWBR0005715"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-11-19"
-last_updated: "1992-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005715"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "3736843"
-version_id: "5519782"
-internal_id: "C5712871"
-label_id: "3716664"
-dtd_version: "2.0"
-original_entry_into_force: "1992-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005715/1992-11-19/0"
-intitule_bron: "Stcrt.1992-223"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-11-09"
-intitule_published: "1992-11-17"
-intitule_in_force: "1992-11-17"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-223"
-original_signed_date: "1992-11-09"
-original_published_date: "1992-11-17"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-11-19"
-jci_1_3: "jci1.3:c:BWBR0005715&z=1992-11-19&g=1992-11-19"
-jci_1_0: "1.0:c:BWBR0005715&g=1992-11-19"
-citeertitel_status: "officieel"
-signed_date: "1992-11-09"
-entry_into_force: "1992-11-19"
+publicatiedatum: 1992-11-19
+laatste_update: 1992-11-19
+status: geldig
+toestand: 1992-11-19
+bron: "https://wetten.overheid.nl/BWBR0005715"
+opgehaald: 2026-08-01
 ---
+
 # Overgangsregeling Besluit beheer sociale-huursector
-
-Gelet op de artikelen 19, 22, 23, 24, 26, 28, tweede lid, van het Besluit toegelaten instellingen volkshuisvesting (Stb. 1976, 469) alsmede op de artikelen 3, 5, derde lid, onderdelen b, en en f, 7 en 14 van het Besluit geldende steun volkshuisvesting (Stb. 1976, 472),
-
-Besluit:
 
 ##### Artikel 1
 

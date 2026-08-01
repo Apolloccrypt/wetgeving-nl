@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 25 juni 1993, houdende regeling uitkering wegens functioneel leeftijdsontslag van burgerlijke ambtenaren in dienst bij het Ministerie van Defensie"
+citeertitel: "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie"
 identifier: "BWBR0006041"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-17"
-last_updated: "2025-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006041"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "1140063"
-version_id: "1685802"
-internal_id: "C1685801"
-label_id: "1106044"
-dtd_version: "2.0"
-original_entry_into_force: "1993-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006041/2025-01-17/0"
-intitule_bron: "Stb.1993-352"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-06-25"
-intitule_status: "goed"
-original_publication: "Stb.1993-352"
-original_signed_date: "1993-06-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-07-14"
-jci_1_3: "jci1.3:c:BWBR0006041&z=2025-01-17&g=2025-01-17"
-jci_1_0: "1.0:c:BWBR0006041&g=2025-01-17"
-citeertitel_status: "officieel"
-short_title: "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie"
-signed_date: "1993-06-25"
-entry_into_force: "1993-07-14"
+publicatiedatum: 1993-07-14
+laatste_update: 2025-01-17
+status: geldig
+toestand: 2025-01-17
+bron: "https://wetten.overheid.nl/BWBR0006041"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 25 juni 1993, houdende regeling uitkering wegens functioneel leeftijdsontslag van burgerlijke ambtenaren in dienst bij het Ministerie van Defensie
-
-Op de voordracht van Onze Minister van Defensie van 1 februari 1993, nr. PAV2210/93002671;
-
-Gelet op de [artikelen 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) 1929;
-
-De Raad van State gehoord (advies van 29 maart 1993, nr. WO7.93.0066);
-
-Gezien het nader rapport van Onze Minister van Defensie van 16 juni 1993, nr. PAV2210/93008947;
-
-Hebben goedgevonden en verstaan:
 
 #### Begripsomschrijvingen
 
@@ -48,35 +20,36 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **ABP ArbeidsongeschiktheidsPensioen:** een ABP ArbeidsongeschiktheidsPensioen krachtens het pensioenreglement;
+- *ABP ArbeidsongeschiktheidsPensioen:* een ABP ArbeidsongeschiktheidsPensioen krachtens het pensioenreglement;
 
-- **arbeidsongeschiktheid:** arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18) en als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) en [5 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5);
+- *arbeidsongeschiktheid:* arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18) en als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) en [5 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5);
 
-- **betrokkene:** de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), aan wie ontslag bedoeld onder b van dit artikel is verleend;
+- *betrokkene:* de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), aan wie ontslag bedoeld onder b van dit artikel is verleend;
 
-- **extra opbouw ouderdomspensioen:** het verschil tussen de opbouw conform artikel 7.5 van het pensioenreglement en de opbouw conform de overgangsbepaling B bij artikel 7.5 van het pensioenreglement;
+- *extra opbouw ouderdomspensioen:* het verschil tussen de opbouw conform artikel 7.5 van het pensioenreglement en de opbouw conform de overgangsbepaling B bij artikel 7.5 van het pensioenreglement;
 
-- **invaliditeitspensioen:** een invaliditeitspensioen krachtens het pensioenreglement;
+- *invaliditeitspensioen:* een invaliditeitspensioen krachtens het pensioenreglement;
 
-- **ontslag:** een ontslag als bedoeld in [artikel 119 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=119) zoals dat op 31 december 2005 gold dan wel [artikel 171a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=171a);
+- *ontslag:* een ontslag als bedoeld in [artikel 119 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=119) zoals dat op 31 december 2005 gold dan wel [artikel 171a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=171a);
 
-- **Onze Minister:** Onze Minister van Defensie;
+- *Onze Minister:* Onze Minister van Defensie;
 
-- **pensioen:** een pensioen krachtens het pensioenreglement;
+- *pensioen:* een pensioen krachtens het pensioenreglement;
 
-- **pensioengerechtigde leeftijd:** de pensioengerechtigde leeftijd die voor de betrokkene geldt op grond van [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
+- *pensioengerechtigde leeftijd:* de pensioengerechtigde leeftijd die voor de betrokkene geldt op grond van [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
 
-- **pensioenreglement:** het pensioenreglement Stichting Pensioenfonds ABP;
+- *pensioenreglement:* het pensioenreglement Stichting Pensioenfonds ABP;
 
-- **Stichting Pensioenfonds ABP:** de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
+- *Stichting Pensioenfonds ABP:* de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
 
-- **uitkering:** de uitkering bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=3&z=2025-01-17&g=2025-01-17) van dit besluit;
+- *uitkering:* de uitkering bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=3&z=2025-01-17&g=2025-01-17) van dit besluit;
 
-- **versterkt ouderdomspensioen:** het bedrag aan ouderdomspensioen dat voortvloeit uit het flexibel pensioen ingevolge het pensioenreglement, alsook de extra inkoop ouderdomspensioen ingevolge overgangsbepaling D bij artikel 7.5 van het pensioenreglement en extra opbouw ouderdomspensioen.
+- *versterkt ouderdomspensioen:* het bedrag aan ouderdomspensioen dat voortvloeit uit het flexibel pensioen ingevolge het pensioenreglement, alsook de extra inkoop ouderdomspensioen ingevolge overgangsbepaling D bij artikel 7.5 van het pensioenreglement en extra opbouw ouderdomspensioen.
 
-- **WAO:** de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- *WAO:* de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- **Wet WIA:** [Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+- *Wet WIA:*
+ [Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
 ##### Artikel 2
 
@@ -122,11 +95,21 @@ de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet p
 
 ##### Artikel 4a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4b
 
-Vervallen
+*Vervallen*
+
+##### Artikel 4c
+
+1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering die ingaat vóór het bereiken van de leeftijd van 60 jaar wordt, in afwijking van [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=9&z=2025-01-17&g=2025-01-17), gecontinueerd totdat, voor zover daarop recht bestaat, met het versterkt ouderdomspensioen het niveau van de uitkering wordt bereikt.
+
+2. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering die ingaat op of na het bereiken van de leeftijd van 60 jaar wordt, voor zover daarop recht bestaat, verminderd met het bedrag van het versterkt ouderdomspensioen.
+
+3. Indien de ambtenaar aan wie ontslag is verleend en wiens uitkering ingaat op of na het bereiken van de leeftijd van 60 jaar niet of niet tijdig het versterkt ouderdomspensioen aanvraagt, en hem dit redelijkerwijs kan worden verweten, wordt, voor de periode waarin hij dientengevolge geen versterkt ouderdomspensioen ontvangt, voor de toepassing van dit artikel rekening gehouden met de uitkering die hij vanaf de ontslagdatum zou hebben genoten indien hij het voornoemde versterkt ouderdomspensioen wel tijdig zou hebben aangevraagd.
+
+4. Ingeval naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering inkomsten uit of in verband met arbeid of bedrijf als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2025-01-17&g=2025-01-17) worden genoten, wordt op de uitkering een vermindering toegepast. In voorkomend geval wordt een vermindering toegepast boven de vermindering die reeds krachtens het tweede lid plaatsvindt. Deze vermindering is gelijk aan het bedrag waarmede de onverminderde uitkering krachtens artikel 4 vermeerderd met het totaal bedrag van de inkomsten, bedoeld in artikel 5, tezamen de grens van 150% van de bezoldiging overschrijdt.
 
 #### Inkomsten uit of in verband met arbeid of bedrijf
 
@@ -182,7 +165,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens zie
 
 - c. met ingang van de eerste dag van de maand volgend op die waarin de betrokkene de pensioengerechtigde leeftijd heeft bereikt.
 
-2. In afwijking van het eerste lid, onderdeel **a**, eindigt het recht op uitkering indien de betrokkene arbeidsongeschikt is voor het vervullen van de betrekking die hij gedurende de met recht op uitkering doorgebrachte tijd bekleedde en waarin hij deelnemer was in de zin van het pensioenreglement, met ingang van de dag waarop betrokkene uit bedoelde betrekking wordt ontslagen.
+2. In afwijking van het eerste lid, onderdeel *a*, eindigt het recht op uitkering indien de betrokkene arbeidsongeschikt is voor het vervullen van de betrekking die hij gedurende de met recht op uitkering doorgebrachte tijd bekleedde en waarin hij deelnemer was in de zin van het pensioenreglement, met ingang van de dag waarop betrokkene uit bedoelde betrekking wordt ontslagen.
 
 3. Het recht op uitkering kan geheel of ten dele vervallen worden verklaard indien de betrokkene:
 
@@ -190,7 +173,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens zie
 
 - b. weigert mee te werken aan een onderzoek tot vaststelling van zijn arbeidsongeschiktheid ter verkrijging van een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
-4. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=2025-01-17&g=2025-01-17) wordt voor de betrokkene aan wie voor 1 januari 2018 ontslag is verleend, verstaan onder pensioengerechtigde leeftijd: de leeftijd van 65 jaar.
+4. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=2025-01-17&g=2025-01-17) wordt voor de betrokkene aan wie voor 1 januari 2018 ontslag is verleend, verstaan onder pensioengerechtigde leeftijd: de leeftijd van 65 jaar.
 
 #### Aanspraak op toelage
 
@@ -234,7 +217,7 @@ Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoe
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 #### Slotbepalingen
 
@@ -242,42 +225,14 @@ Vervallen
 
 Een uitkering op grond van de Regeling functioneel leeftijdsontslag toegekend terzake van een ontslag uit de burgerlijke openbare dienst bij het Ministerie van Defensie, wordt gelijkgesteld met een uitkering, toegekend op grond van dit besluit.
 
-##### Artikel 16
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
-
-##### Artikel 17
-
-Dit besluit wordt aangehaald als "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie",
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 4c
-
-1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering die ingaat vóór het bereiken van de leeftijd van 60 jaar wordt, in afwijking van [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=9&z=2025-01-17&g=2025-01-17), gecontinueerd totdat, voor zover daarop recht bestaat, met het versterkt ouderdomspensioen het niveau van de uitkering wordt bereikt.
-
-2. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering die ingaat op of na het bereiken van de leeftijd van 60 jaar wordt, voor zover daarop recht bestaat, verminderd met het bedrag van het versterkt ouderdomspensioen.
-
-3. Indien de ambtenaar aan wie ontslag is verleend en wiens uitkering ingaat op of na het bereiken van de leeftijd van 60 jaar niet of niet tijdig het versterkt ouderdomspensioen aanvraagt, en hem dit redelijkerwijs kan worden verweten, wordt, voor de periode waarin hij dientengevolge geen versterkt ouderdomspensioen ontvangt, voor de toepassing van dit artikel rekening gehouden met de uitkering die hij vanaf de ontslagdatum zou hebben genoten indien hij het voornoemde versterkt ouderdomspensioen wel tijdig zou hebben aangevraagd.
-
-4. Ingeval naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering inkomsten uit of in verband met arbeid of bedrijf als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2025-01-17&g=2025-01-17) worden genoten, wordt op de uitkering een vermindering toegepast. In voorkomend geval wordt een vermindering toegepast boven de vermindering die reeds krachtens het tweede lid plaatsvindt. Deze vermindering is gelijk aan het bedrag waarmede de onverminderde uitkering krachtens artikel 4 vermeerderd met het totaal bedrag van de inkomsten, bedoeld in artikel 5, tezamen de grens van 150% van de bezoldiging overschrijdt.
-
-#### Inkomsten uit of in verband met arbeid of bedrijf
-
-#### Einde en verval van het recht op uitkering
-
-#### Aanspraak op toelage
-
-#### Vermindering en niet-uitbetaling van de uitkering
-
-#### Betaling
-
-#### Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
 ##### Artikel 15a
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+##### Artikel 16
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
+
+##### Artikel 17
+
+Dit besluit wordt aangehaald als "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie",

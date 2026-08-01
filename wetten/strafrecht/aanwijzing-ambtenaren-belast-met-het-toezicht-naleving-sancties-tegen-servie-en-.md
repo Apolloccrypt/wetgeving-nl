@@ -1,42 +1,17 @@
 ---
 title: "Aanwijzing ambtenaren belast met het toezicht naleving sancties tegen Servië en Montenegro"
 identifier: "BWBR0006129"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1993-09-25"
-last_updated: "1993-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006129"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "3553443"
-version_id: "5336532"
-internal_id: "C5529621"
-label_id: "3533414"
-dtd_version: "2.0"
-original_entry_into_force: "1993-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006129/1993-09-25/0"
-intitule_bron: "Stcrt.1993-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-08-31"
-intitule_published: "1993-09-23"
-intitule_in_force: "1993-09-23"
-intitule_status: "goed"
-original_publication: "Stcrt.1993-182"
-original_signed_date: "1993-08-31"
-original_published_date: "1993-09-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1993-09-25"
-jci_1_3: "jci1.3:c:BWBR0006129&z=1993-09-25&g=1993-09-25"
-jci_1_0: "1.0:c:BWBR0006129&g=1993-09-25"
-citeertitel_status: "officieel"
-signed_date: "1993-08-31"
-entry_into_force: "1993-09-25"
+publicatiedatum: 1993-09-25
+laatste_update: 1993-09-25
+status: geldig
+toestand: 1993-09-25
+bron: "https://wetten.overheid.nl/BWBR0006129"
+opgehaald: 2026-08-01
 ---
+
 # Aanwijzing ambtenaren belast met het toezicht naleving sancties tegen Servië en Montenegro
-
-Gelet op [Artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) (Stbl. 1980, 93),
-
-Besluiten:
 
 ##### Artikel 1
 

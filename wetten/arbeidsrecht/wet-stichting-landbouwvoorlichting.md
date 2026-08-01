@@ -1,43 +1,18 @@
 ---
 title: "Wet van 3 september 1992, houdende regelen met betrekking tot de oprichting van de Stichting Landbouwvoorlichting"
+citeertitel: "Wet Stichting Landbouwvoorlichting"
 identifier: "BWBR0005639"
-country: "nl"
-rank: "wet"
-publication_date: "1993-08-01"
-last_updated: "1993-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005639"
+categorie: "Overig"
 soort: "wet"
-stam_id: "132093"
-version_id: "180932"
-internal_id: "C180931"
-label_id: "131654"
-dtd_version: "2.0"
-original_entry_into_force: "1993-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005639/1993-08-01/0"
-intitule_bron: "Stb.1992-619"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-09-03"
-intitule_status: "goed"
-original_publication: "Stb.1992-619"
-original_signed_date: "1992-09-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "21432"
-entry_into_force_date: "1993-08-01"
-jci_1_3: "jci1.3:c:BWBR0005639&z=1993-08-01&g=1993-08-01"
-jci_1_0: "1.0:c:BWBR0005639&g=1993-08-01"
-citeertitel_status: "officieel"
-short_title: "Wet Stichting Landbouwvoorlichting"
-signed_date: "1992-09-03"
-entry_into_force: "1993-08-01"
+publicatiedatum: 1993-08-01
+laatste_update: 1993-08-01
+status: geldig
+toestand: 1993-08-01
+bron: "https://wetten.overheid.nl/BWBR0005639"
+opgehaald: 2026-08-01
 ---
+
 # Wet van 3 september 1992, houdende regelen met betrekking tot de oprichting van de Stichting Landbouwvoorlichting
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Dienst Landbouwvoorlichting te privatiseren, dat voor deze privatisering een wettelijke machtiging op grond van [artikel 40 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=40) 1976 ( **Stb.** 671) vereist is en dat het daarnaast gewenst is, enige andere wettelijke regelingen ter zake te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -67,7 +42,7 @@ In deze wet wordt verstaan onder:
 
 2. Onze Minister kan bepaalde vermogensbestanddelen van de in het eerste lid bedoelde overgang uitzonderen.
 
-3. Onze Minister doet van de vermogensbestanddelen welke ingevolge de voorgaande leden overgaan op de stichting door een registeraccountant of een accountant die een vergunning heeft als bedoeld in [artikel 70**b**, eerste lid, onder **b**, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=70b) (**Stb.** 1962, 258), een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van het register, bedoeld in artikel 289 van Boek 2 van het Burgerlijk Wetboek.
+3. Onze Minister doet van de vermogensbestanddelen welke ingevolge de voorgaande leden overgaan op de stichting door een registeraccountant of een accountant die een vergunning heeft als bedoeld in [artikel 70*b*, eerste lid, onder *b*, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=70b) (*Stb.* 1962, 258), een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van het register, bedoeld in artikel 289 van Boek 2 van het Burgerlijk Wetboek.
 
 ##### Artikel 4
 
@@ -107,10 +82,8 @@ Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci
 
 ##### Artikel 8
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat niet eerder kan worden vastgesteld dan nadat met de bonden van overheidspersoneel, vertegenwoordigd in de Bijzondere Commissie, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) (**Stb.** 1931, 248) overeenstemming is bereikt over de arbeidsvoorwaarden.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat niet eerder kan worden vastgesteld dan nadat met de bonden van overheidspersoneel, vertegenwoordigd in de Bijzondere Commissie, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) (*Stb.* 1931, 248) overeenstemming is bereikt over de arbeidsvoorwaarden.
 
 ##### Artikel 9
 
 Deze wet kan worden aangehaald als Wet Stichting Landbouwvoorlichting.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

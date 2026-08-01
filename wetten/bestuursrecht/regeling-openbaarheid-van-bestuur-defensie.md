@@ -1,50 +1,39 @@
 ---
 title: "Regeling openbaarheid van bestuur (Defensie)"
 identifier: "BWBR0005547"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "1992-06-01"
-last_updated: "1992-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005547"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "3751183"
-version_id: "5534152"
-internal_id: "C5727241"
-label_id: "3731034"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005547/1992-06-01/0"
-intitule_bron: "Stcrt.1992-132"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-16"
-intitule_published: "1992-07-13"
-intitule_in_force: "1992-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.1992-132"
-original_signed_date: "1992-06-16"
-original_published_date: "1992-07-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-06-01"
-jci_1_3: "jci1.3:c:BWBR0005547&z=1992-06-01&g=1992-06-01"
-jci_1_0: "1.0:c:BWBR0005547&g=1992-06-01"
-citeertitel_status: "officieel"
-signed_date: "1992-06-16"
-entry_into_force: "1992-06-01"
+publicatiedatum: 1992-06-01
+laatste_update: 1992-06-01
+status: geldig
+toestand: 1992-06-01
+bron: "https://wetten.overheid.nl/BWBR0005547"
+opgehaald: 2026-08-01
 ---
+
 # Regeling openbaarheid van bestuur (Defensie)
-
-Overwegende dat de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252),
-
-Besluit:
-
-Vast te stellen de volgende regeling ter uitvoering van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
 ### Hoofdstuk I
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
+
+de wet:
+
+de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Stb. 1991, 703);
+
+gemachtigd ambtenaar:
+
+een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;
+
+informatiepunt:
+
+een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;
+
+de minister:
+
+de Minister van Defensie.
 
 ##### Artikel 2. Register
 
@@ -115,5 +104,3 @@ De beschikking openbaarheid van bestuur (Defensie) van 25 april 1980, nr. 457.38
 ##### Artikel 11
 
 Deze regeling kan worden aangehaald als de Regeling openbaarheid van bestuur (Defensie) en treedt in werking met ingang van 1 juni 1992.
-
-Deze regeling wordt gepubliceerd in de Nederlandse Staatscourant en afschrift daarvan zal worden gezonden aan de Minister-President.

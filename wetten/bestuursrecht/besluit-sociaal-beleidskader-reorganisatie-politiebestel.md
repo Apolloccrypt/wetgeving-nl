@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 28 juli 1992, tot de vaststelling van het sociaal beleidskader reorganisatie politiebestel"
+citeertitel: "Besluit sociaal beleidskader reorganisatie politiebestel"
 identifier: "BWBR0005607"
-country: "nl"
-rank: "amvb"
-publication_date: "1994-12-21"
-last_updated: "1994-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0005607"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "956253"
-version_id: "1400182"
-internal_id: "C1400181"
-label_id: "927204"
-dtd_version: "2.0"
-original_entry_into_force: "1992-09-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0005607/1994-12-21/0"
-intitule_bron: "Stb.1992-440"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-07-28"
-intitule_status: "goed"
-original_publication: "Stb.1992-440"
-original_signed_date: "1992-07-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1992-09-09"
-jci_1_3: "jci1.3:c:BWBR0005607&z=1994-12-21&g=1994-12-21"
-jci_1_0: "1.0:c:BWBR0005607&g=1994-12-21"
-citeertitel_status: "officieel"
-short_title: "Besluit sociaal beleidskader reorganisatie politiebestel"
-signed_date: "1992-07-28"
-entry_into_force: "1992-09-09"
+publicatiedatum: 1992-09-09
+laatste_update: 1994-12-21
+status: geldig
+toestand: 1994-12-21
+bron: "https://wetten.overheid.nl/BWBR0005607"
+opgehaald: 2026-08-01
 ---
+
 # Besluit van 28 juli 1992, tot de vaststelling van het sociaal beleidskader reorganisatie politiebestel
-
-Op de voordracht van Onze Ministers van Justitie en van Binnenlandse Zaken van 4 oktober 1991, nr. PRP91/U319;
-
-Gelet op artikel 15 van de Wet tijdelijke voorzieningen reorganisatie politiebestel (**Stb.** 1991, 674);
-
-De Raad van State gehoord (advies van 8 mei 1992, nummer WO3.91.566);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken a.i., mede namens Onze Minister van Justitie van 16 juli 1992, PRP92/338;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -52,29 +24,29 @@ In dit besluit wordt verstaan onder:
 
 - b. ambtenaar:
 
-- 1°. degene die als ambtenaar is genoemd in artikel 1 van het Ambtenarenreglement voor de rijkspolitie 1975 (**Stb.** 1977, 172);
+   - 1°. degene die als ambtenaar is genoemd in artikel 1 van het Ambtenarenreglement voor de rijkspolitie 1975 (*Stb.* 1977, 172);
 
-- 2°. degene die als ambtenaar is genoemd in artikel 1 van het Ambtenarenreglement voor de gemeentepolitie 1958 (**Stb.** 1957, 547);
+   - 2°. degene die als ambtenaar is genoemd in artikel 1 van het Ambtenarenreglement voor de gemeentepolitie 1958 (*Stb.* 1957, 547);
 
-- 3°. degene die als ambtenaar is genoemd in [artikel 1 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=1) (**Stb.** 1931, 248) en die werkzaam is binnen het Korps Rijkspolitie;
+   - 3°. degene die als ambtenaar is genoemd in [artikel 1 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=1) (*Stb.* 1931, 248) en die werkzaam is binnen het Korps Rijkspolitie;
 
-- 4°. degene die door of vanwege een gemeente als ambtenaar is aangesteld om binnen een gemeentelijk politiekorps werkzaam te zijn en wiens loonkosten worden bestreden uit de op basis van het Besluit Vergoeding politiekosten 1986 (**Stb.** 610) verstrekte doeluitkering;
+   - 4°. degene die door of vanwege een gemeente als ambtenaar is aangesteld om binnen een gemeentelijk politiekorps werkzaam te zijn en wiens loonkosten worden bestreden uit de op basis van het Besluit Vergoeding politiekosten 1986 (*Stb.* 610) verstrekte doeluitkering;
 
-- 5°. degene die op arbeidsovereenkomst naar burgerlijk recht voor onbepaalde tijd in dienst is van het Rijk en die werkzaam is binnen het Korps Rijkspolitie;
+   - 5°. degene die op arbeidsovereenkomst naar burgerlijk recht voor onbepaalde tijd in dienst is van het Rijk en die werkzaam is binnen het Korps Rijkspolitie;
 
-- 6°. degene die op arbeidsovereenkomst naar burgerlijk recht voor onbepaalde tijd in dienst is van een gemeente en die werkzaam is binnen een gemeentelijk politiekorps;
+   - 6°. degene die op arbeidsovereenkomst naar burgerlijk recht voor onbepaalde tijd in dienst is van een gemeente en die werkzaam is binnen een gemeentelijk politiekorps;
 
-- 7°. degene die krachtens een ambtelijke aanstelling dan wel een arbeidsovereenkomst naar burgerlijk recht voor onbepaalde tijd werkzaam is bij de diensten en instellingen ressorterende onder de directie Politie van het Ministerie van Justitie, met uitzondering van het Gerechtelijk Laboratorium, het Laboratorium voor Gerechtelijke Pathologie en de rijksrecherche van de Procureurs-Generaal, fungerend directeuren van politie;
+   - 7°. degene die krachtens een ambtelijke aanstelling dan wel een arbeidsovereenkomst naar burgerlijk recht voor onbepaalde tijd werkzaam is bij de diensten en instellingen ressorterende onder de directie Politie van het Ministerie van Justitie, met uitzondering van het Gerechtelijk Laboratorium, het Laboratorium voor Gerechtelijke Pathologie en de rijksrecherche van de Procureurs-Generaal, fungerend directeuren van politie;
 
-- 8°. degene die als zodanig door Onze Ministers wordt aangewezen, voor zover hij krachtens een ambtelijke aanstelling dan wel een arbeidsovereenkomst naar burgerlijk recht bij het Ministerie van Justitie of het Ministerie van Binnenlandse Zaken werkzaam is ten behoeve van de politie;
+   - 8°. degene die als zodanig door Onze Ministers wordt aangewezen, voor zover hij krachtens een ambtelijke aanstelling dan wel een arbeidsovereenkomst naar burgerlijk recht bij het Ministerie van Justitie of het Ministerie van Binnenlandse Zaken werkzaam is ten behoeve van de politie;
 
-- 9°. degene die als zodanig door de burgemeester in overeenstemming met de Regionale Commissie, bedoeld in artikel 1 van het Besluit overleg en medezeggenschap reorganisatie politiebestel (**Stb.** 1991, 675), wordt aangewezen, voor zover hij krachtens een ambtelijke aanstelling dan wel een arbeidsovereenkomst naar burgerlijk recht werkzaam is ten behoeve van de politie;
+   - 9°. degene die als zodanig door de burgemeester in overeenstemming met de Regionale Commissie, bedoeld in artikel 1 van het Besluit overleg en medezeggenschap reorganisatie politiebestel (*Stb.* 1991, 675), wordt aangewezen, voor zover hij krachtens een ambtelijke aanstelling dan wel een arbeidsovereenkomst naar burgerlijk recht werkzaam is ten behoeve van de politie;
 
-- c. reorganisatie: de reorganisatie van het politiebestel, bedoeld in de Wet tijdelijke voorzieningen reorganisatie politiebestel (**Stb.** 1991, 674);
+- c. reorganisatie: de reorganisatie van het politiebestel, bedoeld in de Wet tijdelijke voorzieningen reorganisatie politiebestel (*Stb.* 1991, 674);
 
-- d. [Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326): het [Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) 1958 (**Stb.** 1986, 489);
+- d. [Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326): het [Rijkswachtgeldbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) 1958 (*Stb.* 1986, 489);
 
-- e. [Uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537): de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) (**Stb.** 1986, 490);
+- e. [Uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002537): de [Uitkeringsregeling 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002537) (*Stb.* 1986, 490);
 
 - f. personeelsplan: het plan als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=2&z=1994-12-21&g=1994-12-21);
 
@@ -174,13 +146,13 @@ De gelden voor om-, her- en bijscholing ten behoeve van individuele ambtenaren w
 
 ##### Artikel 13
 
-1. De ambtenaar aan wie in de periode 1 januari 1993 tot en met 31 december 1994 met recht op wachtgeld in verband met de reorganisatie eervol ontslag is verleend en die uiterlijk op 31 december 1993 de leeftijd van 55 jaar heeft bereikt ontvangt een uitkering ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden 1984, voor zover hij op grond van bij of krachtens de [Wet uitkering wegens vrijwillig vervroegd uittreden 1984](onbekend) gestelde voorwaarden hiervoor in aanmerking zou zijn gekomen.
+1. De ambtenaar aan wie in de periode 1 januari 1993 tot en met 31 december 1994 met recht op wachtgeld in verband met de reorganisatie eervol ontslag is verleend en die uiterlijk op 31 december 1993 de leeftijd van 55 jaar heeft bereikt ontvangt een uitkering ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden 1984, voor zover hij op grond van bij of krachtens de Wet uitkering wegens vrijwillig vervroegd uittreden 1984 gestelde voorwaarden hiervoor in aanmerking zou zijn gekomen.
 
 2. Het recht op wachtgeld eindigt met ingang van de eerste dag van de maand waarin de ambtenaar een uitkering ontvangt ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden 1984.
 
 3. Het recht op een uitkering ingevolge de Regeling uitkering wegens functioneel leeftijdsontslag eindigt met ingang van de eerste dag van de maand waarin de ambtenaar een uitkering ontvangt ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden 1984.
 
-Vanaf het moment dat de ambtenaar de leeftijd heeft bereikt waarop hij, krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=12&z=1994-12-21&g=1994-12-21), in aanmerking zou zijn gekomen voor een uitkering ingevolge de Regeling uitkering wegens functioneel leeftijdsontslag indien hij niet reeds een uitkering zou ontvangen ingevolge de [Wet uitkering wegens vrijwillig vervroegd uittreden 1984](onbekend), wordt het uitkeringspercentage waarop hij ingevolge laatstgenoemde wet recht heeft, verhoogd tot het percentage waarop hij recht zou hebben gehad indien de Regeling uitkering wegens functioneel leeftijdsontslag van toepassing zou zijn geweest.
+Vanaf het moment dat de ambtenaar de leeftijd heeft bereikt waarop hij, krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&hoofdstuk=I&artikel=12&z=1994-12-21&g=1994-12-21), in aanmerking zou zijn gekomen voor een uitkering ingevolge de Regeling uitkering wegens functioneel leeftijdsontslag indien hij niet reeds een uitkering zou ontvangen ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden 1984, wordt het uitkeringspercentage waarop hij ingevolge laatstgenoemde wet recht heeft, verhoogd tot het percentage waarop hij recht zou hebben gehad indien de Regeling uitkering wegens functioneel leeftijdsontslag van toepassing zou zijn geweest.
 
 ##### Artikel 14
 
@@ -208,10 +180,8 @@ Vanaf het moment dat de ambtenaar de leeftijd heeft bereikt waarop hij, krachten
 
 ##### Artikel 17
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.
 
 ##### Artikel 18
 
 Dit besluit kan worden aangehaald als Besluit sociaal beleidskader reorganisatie politiebestel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.

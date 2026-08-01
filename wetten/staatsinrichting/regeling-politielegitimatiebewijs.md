@@ -1,44 +1,18 @@
 ---
 title: "Regeling politie-legitimatiebewijs"
+citeertitel: "Regeling politielegitimatiebewijs"
 identifier: "BWBR0006559"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0006559"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "4550653"
-version_id: "29082602"
-internal_id: "C41340521"
-label_id: "4528944"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0006559/2023-01-01/0"
-intitule_bron: "Stcrt.1994-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-25"
-intitule_published: "1994-03-31"
-intitule_in_force: "1994-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-32202"
-original_signed_date: "2022-11-24"
-original_published_date: "2022-12-02"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-32202"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0006559&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0006559&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling politielegitimatiebewijs"
-signed_date: "2022-11-24"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0006559"
+opgehaald: 2026-08-01
 ---
+
 # Regeling politie-legitimatiebewijs
-
-Gelet op [artikel 13 van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -80,64 +54,18 @@ De ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 april 1994.
+
+##### Artikel 8a
+
+Deze regeling berust op [artikel 51 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=51).
 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling politielegitimatiebewijs.
 
 Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politieblad worden gepubliceerd.
-
-## Bijlage 1
-
-Het model van het legitimatiebewijs is het model zoals dat is opgenomen in het handboek politielogo en huisstijl 1993 dat ter inzage ligt bij de bibliotheek van het ministerie van Binnenlandse Zaken, Schedeldoekshaven 200, 's-Gravenhage.
-
-## Bijlage
-
-Het politielegitimatiebewijs bevat:
-
-Aan de voorzijde:
-
-- a. het politielogo en het politiemonogram;
-
-- b. de aanduiding ‘legitimatiebewijs’;
-
-- c. een goed gelijkende foto van de ambtenaar aan wie het politielegitimatiebewijs wordt uitgereikt;
-
-- d. het dienstnummer van de ambtenaar;
-
-- e. de aanduiding ‘uitvoerend’ of ‘ondersteunend’;
-
-- f. de datum van uitreiking. Aan de achterzijde:
-
-- g. het politiemonogram;
-
-- h. de naam van de ambtenaar aan wie het politielegitimatiebewijs wordt uitgereikt;
-
-- i. de naam en de hoedanigheid van degene die het politielegitimatiebewijs uitreikt;
-
-- j. het documentnummer;
-
-- k. de vermelding van het eigendomsrecht;
-
-- l. het retouradres.
-
-##### Artikel 8a
-
-Deze regeling berust op [artikel 51 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=51).
-
-## Bijlage 2
-
-Het politielegitimatiebewijs wordt als volgt geprepareerd:
-
-Het politielegitimatiebewijs wordt voorzien van een zwart/wit pasfoto van de ambtenaar. Het formaat van de pasfoto is 25 bij 32 millimeter. De foto wordt van het vooraanzicht van het gelaat genomen.
-
-De op het model van het politielegitimatiebewijs aangegeven gegevens worden ingevuld.
-
-Het politielegitimatiebewijs van de korpschef wordt ondertekend door de korpschef en de korpsbeheerder. Het politielegitimatiebewijs van de overige ambtenaren van politie, bedoeld in artikel 1, wordt ondertekend door de ambtenaar en de korpschef of een door deze aangewezen ambtenaar.
-
-Het politielegitimatiebewijs wordt gelamineerd met een door het Korps landelijke politiediensten te verstrekken pouche waarin een kinegram met het politielogo is verwerkt. Het kinegram wordt geplaatst op de pasfoto. Het politielegitimatiebewijs wordt gelamineerd op 115 °C.
